@@ -60,7 +60,7 @@ Then speeded away their troops, in terror of my arm;—light they fled, burthene
 
 Crushing were the stamps and tramplings on their necks, and the horse-shoes dashed and pounded their skulls.
 
-<span id="p213">[<sup><small>p. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 How many warriors were laid low by my sword, whilst they tore, in very rage, their hands with their teeth!
 

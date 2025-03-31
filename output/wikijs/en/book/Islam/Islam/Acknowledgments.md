@@ -29,7 +29,7 @@ dateCreated: 2024-11-26T10:15:16Z
   </table>
 </figure>
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 This is the acknowledgments page from the original book. It is included for completeness and for copyright research purposes. Additional bibliographic information, not in the original book, is included in green text in square brackets.
 

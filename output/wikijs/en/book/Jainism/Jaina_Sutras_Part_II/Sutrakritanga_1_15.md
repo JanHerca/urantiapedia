@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 FIFTEENTH LECTURE, CALLED THE YAMAKAS [^961].
 
@@ -44,7 +44,7 @@ On this or that (article of the creed he has) the correct opinion; hence he is r
 
 Towards your fellow-creatures be not hostile: that is the Law of him who is rich in control; he who is rich in control renounces everything, and in this (world meditates on the) reflections on life [^962]. (4)
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 He whose soul is purified by meditating on those reflections is compared to a ship in water; like a ship reaching the shore he gets beyond misery. (5)
 
@@ -60,7 +60,7 @@ Turning from worldly life, they reach the goal by pious acts; by their pious act
 
 The preaching of the Law (has different effect) on different creatures; he who is rich in control, is. treated with honour [^964], but does not care for it; he exerts himself, subdues his senses, is firm, and abstains from sexual intercourse. (i1)
 
-(He should not yield to temptations as a pig which) is decoyed by wild rice, being proof against sins, and free from faults. Being free from faults he always <span id="p331">[<sup><small>p. 331</small></sup>]</span> subdues his senses, and has reached the incomparable cession of Karman [^965]. (12)
+(He should not yield to temptations as a pig which) is decoyed by wild rice, being proof against sins, and free from faults. Being free from faults he always <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> subdues his senses, and has reached the incomparable cession of Karman [^965]. (12)
 
 Knowing the incomparable (control), he should not be hostile towards anybody, in thoughts, words, or deeds, having eyes (to see everything). (13)
 
@@ -74,7 +74,7 @@ Some (heretics) have said that they (viz. the gods) put an end to misery [^968];
 
 To one whose soul has left (human life), it is not easy again to obtain instruction (in the Law), nor is such a mental disposition which they declare appropriate for adopting the Law [^969]. (18)
 
-How can it even be imagined that he should <span id="p332">[<sup><small>p. 332</small></sup>]</span> be born again, who professes the pure, complete, unparalleled Law, and is a receptacle of the unparalleled Law? (19)
+How can it even be imagined that he should <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> be born again, who professes the pure, complete, unparalleled Law, and is a receptacle of the unparalleled Law? (19)
 
 How could the wise Tathâgatas be born again, the Tathâgatas who engage in no undertakings, the supreme, the eyes of the world? (20)
 

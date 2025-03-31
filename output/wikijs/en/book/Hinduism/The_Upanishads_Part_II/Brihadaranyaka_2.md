@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 SECOND ADHYÂYA [^313].
 
@@ -40,7 +40,7 @@ SECOND ADHYÂYA [^313].
 
 1\. There [^315] was formerly the proud Gârgya Bâlâki [^316], a man of great reading. He said to A<i>g</i>âta<i>s</i>atru of Kâ<i>s</i>i, ‘Shall I tell you Brahman?’ A<i>g</i>âta<i>s</i>atru said: ‘We give a thousand (cows) for that speech (of yours), for verily all people run away, saying, <i>G</i>anaka (the king of Mithilâ) is our father (patron) [^317].’
 
-2\. Gârgya said: ‘The person that is in the sun [^318], that I adore as Brahman.’ A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! Do not speak to me on this. I adore him <span id="p101">[<sup><small>p. 101</small></sup>]</span> verily as the supreme, the head of all beings, the king. Whoso adores him thus, becomes Supreme, the head of all beings, a king.’
+2\. Gârgya said: ‘The person that is in the sun [^318], that I adore as Brahman.’ A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! Do not speak to me on this. I adore him <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> verily as the supreme, the head of all beings, the king. Whoso adores him thus, becomes Supreme, the head of all beings, a king.’
 
 3\. Gârgya said: ‘The person that is in the moon (and in the mind), that I adore as Brahman.’ A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! Do not speak to me on this. I adore him verily as the great, clad in white raiment, as Soma, the king.’ Whoso adores him thus, Soma is poured out and poured forth for him day by day, and his food does not fail [^319].
 
@@ -48,7 +48,7 @@ SECOND ADHYÂYA [^313].
 
 5\. Gârgya said: ‘The person that is in the ether (and in the ether of the heart), that I adore as Brahman.’ A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! Do not speak to me on this. I adore him as what is full, and quiescent.’ Whoso adores him thus, becomes filled with offspring and cattle, and his offspring does not cease from this world.
 
-6\. Gârgya said: ‘The person that is in the wind (and in the breath), that I adore as Brahman.’ A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! Do not speak to me on this. I adore him as Indra Vaiku<i>n</i><i>th</i>a, as the unconquerable army (of the Maruts).’ Whoso adores him thus, becomes victorious, unconquerable, conquering his enemies. <span id="p102">[<sup><small>p. 102</small></sup>]</span> 7\. Gârgya said: ‘The person that is in the fire (and in the heart), that I adore as Brahman.’ A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! Do not speak to me on this. I adore him as powerful.’ Whoso adores him thus, becomes powerful, and his offspring becomes powerful.
+6\. Gârgya said: ‘The person that is in the wind (and in the breath), that I adore as Brahman.’ A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! Do not speak to me on this. I adore him as Indra Vaiku<i>n</i><i>th</i>a, as the unconquerable army (of the Maruts).’ Whoso adores him thus, becomes victorious, unconquerable, conquering his enemies. <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> 7\. Gârgya said: ‘The person that is in the fire (and in the heart), that I adore as Brahman.’ A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! Do not speak to me on this. I adore him as powerful.’ Whoso adores him thus, becomes powerful, and his offspring becomes powerful.
 
 8\. Gârgya said: ‘The person that is in the water (in seed, and in the heart), that I adore as Brahman.’ A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! Do not speak to me on this. I adore him as likeness.’ Whoso adores him thus, to him comes what is likely (or proper), not what is improper; what is born from him, is like unto him [^320].
 
@@ -58,7 +58,7 @@ SECOND ADHYÂYA [^313].
 
 11\. Gârgya said: ‘The person that is in space, that I adore as Brahman.’ A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! Do not speak to me on this. I adore him verily as the second who never leaves us.’
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 Whoso adores him thus, becomes possessed of a second, his party is not cut off from him,
 
@@ -72,7 +72,7 @@ Then Gârgya became silent.
 
 15\. A<i>g</i>âta<i>s</i>atru said: ‘Verily, it is unnatural that a Brâhma<i>n</i>a should come to a Kshatriya, hoping that he should tell him the Brahman. However, I shall make you know him clearly,’ thus saying he took him by the hand and rose.
 
-And the two together came to a person who was asleep. He called him by these names, ‘Thou, great one, clad in white raiment, Soma, King [^323].’ He <span id="p104">[<sup><small>p. 104</small></sup>]</span> did not rise. Then rubbing him with his hand, he woke him, and he arose.
+And the two together came to a person who was asleep. He called him by these names, ‘Thou, great one, clad in white raiment, Soma, King [^323].’ He <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> did not rise. Then rubbing him with his hand, he woke him, and he arose.
 
 16\. A<i>g</i>âta<i>s</i>atru said: ‘When this man was thus asleep, where was then the person (purusha), the intelligent? and from whence did he thus come back?’ Gârgya did not know this?
 
@@ -80,7 +80,7 @@ And the two together came to a person who was asleep. He called him by these nam
 
 18\. But when he moves about in sleep (and dream), then these are his worlds. He is, as it were, a great king; he is, as it were, a great Brâhma<i>n</i>a; he rises, as it were, and he falls. And as a great king might keep in his own subjects, and move about, according to his pleasure, within his own domain, thus does that person (who is endowed with intelligence) keep in the various senses (prâ<i>n</i>as) and move about, according to his pleasure, within his own body (while dreaming).
 
-19\. Next, when he is in profound sleep, and knows <span id="p105">[<sup><small>p. 105</small></sup>]</span> nothing, there are the seventy-two thousand arteries called Hita, which from the heart spread through the body [^326]. Through them he moves forth and rests in the surrounding body. And as a young man, or a great king, or a great Brâhma<i>n</i>a, having reached the summit of happiness, might rest, so does he then rest.
+19\. Next, when he is in profound sleep, and knows <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> nothing, there are the seventy-two thousand arteries called Hita, which from the heart spread through the body [^326]. Through them he moves forth and rests in the surrounding body. And as a young man, or a great king, or a great Brâhma<i>n</i>a, having reached the summit of happiness, might rest, so does he then rest.
 
 20\. As the spider comes out with its thread, or as small sparks come forth from fire, thus do all senses, all worlds, all Devas, all beings come forth from that Self The Upanishad (the true name and doctrine) of that Self is ‘the True of the True.’ Verily the senses are the true, and he is the true of the true.
 
@@ -89,7 +89,7 @@ And the two together came to a person who was asleep. He called him by these nam
 
 1\. Verily he who knows the babe [^328] with his place [^329], his chamber [^330], his post [^331], and his rope [^332], he keeps off the seven relatives [^333] who hate him. Verily by the young is meant the inner life, by his place this (body) [^334], by his chamber this (head), by his post the vital breath, by his rope the food.
 
-2\. Then the seven imperishable ones [^335] approach him. There are the red lines in the eye, and by them Rudra clings to him. There is the water <span id="p106">[<sup><small>p. 106</small></sup>]</span> in the eye, and by it Par<i>g</i>anya clings to him. There is the pupil, and by it Âditya (sun) clings to him, There is the dark iris, and by it Agni clings to him. There is the white eye-ball, and by it Indra, clings to him. With the lower eye-lash the earth, with the upper eye-lash the heaven clings to him. He who knows this, his food does never perish.
+2\. Then the seven imperishable ones [^335] approach him. There are the red lines in the eye, and by them Rudra clings to him. There is the water <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> in the eye, and by it Par<i>g</i>anya clings to him. There is the pupil, and by it Âditya (sun) clings to him, There is the dark iris, and by it Agni clings to him. There is the white eye-ball, and by it Indra, clings to him. With the lower eye-lash the earth, with the upper eye-lash the heaven clings to him. He who knows this, his food does never perish.
 
 3\. On this there is this <i>S</i>loka:
 
@@ -98,7 +98,7 @@ And the two together came to a person who was asleep. He called him by these nam
 4\. These two (the two ears) are the <i>Ri</i>shis Gautama and Bharadvâ<i>g</i>a; the right Gautama, the left Bharadvâ<i>g</i>a. These two (the eyes) are the <i>Ri</i>shis Vi<i>s</i>vâmitra and <i>G</i>amadagni; the right Vi<i>s</i>vâmitra, the left <i>G</i>amadagni. These two (the nostrils) are the <i>Ri</i>shis Vasish<i>th</i>a and Ka<i>s</i>yapa; the right Vasish<i>th</i>a, the left Ka<i>s</i>yapa. The tongue is Atri, for with the tongue food is eaten, and Atri is meant for Atti, eating. He who knows this, becomes an eater of everything, and everything becomes his food.
 
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## THIRD BRÂHMA<i>N</i>A [^337].
 
@@ -112,7 +112,7 @@ And the two together came to a person who was asleep. He called him by these nam
 
 5\. But breath and the ether within the body are immaterial, are immortal, are fluid, are indefinite. The essence of that which is immaterial, which is immortal, which is fluid, which is indefinite is the person in the right eye, for he is the essence of tyad (the indefinite).
 
-6\. And what is the appearance of that person? Like a saffron-coloured raiment, like white wool, <span id="p108">[<sup><small>p. 108</small></sup>]</span> like cochineal, like the flame of fire, like the white lotus, like sudden lightning. He who knows this, his glory is like unto sudden lightning.
+6\. And what is the appearance of that person? Like a saffron-coloured raiment, like white wool, <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> like cochineal, like the flame of fire, like the white lotus, like sudden lightning. He who knows this, his glory is like unto sudden lightning.
 
 Next follows the teaching (of Brahman) by No, no [^339]! for there is nothing else higher than this (if one says): ‘It is not so.’ Then comes the name ‘the True of the True,’ the senses being the True, and he (the Brahman) the True of them.
 
@@ -123,7 +123,7 @@ Next follows the teaching (of Brahman) by No, no [^339]! for there is nothing el
 
 2\. Maitreyî said: ‘My Lord, if this whole earth, full of wealth, belonged to me, tell me, should I be immortal by it [^343]?’
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 ‘No,’ replied Yâ<i>g</i>_ñ_avalkya; ‘like the life of rich people will be thy life. But there is no hope of immortality by wealth.’
 
@@ -145,7 +145,7 @@ Next follows the teaching (of Brahman) by No, no [^339]! for there is nothing el
 
 ‘Verily, the worlds are not dear, that you may love the worlds; but that you may love the Self, therefore the worlds are dear.
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 ‘Verily, the Devas are not dear, that you may love the Devas; but that you may love the Self, therefore the Devas are dear [^347].
 
@@ -157,7 +157,7 @@ Next follows the teaching (of Brahman) by No, no [^339]! for there is nothing el
 
 6\. 'Whosoever looks for the Brahman-class elsewhere than in the Self, was [^349] abandoned by the Brahman-class. Whosoever looks for the Kshatra-class elsewhere than in the Self, was abandoned by the Kshatra-class. Whosoever looks for the worlds elsewhere than in the Self, was abandoned by the worlds. Whosoever looks for the Devas elsewhere than in the Self, was abandoned by the Devas [^350]. Whosoever looks for creatures elsewhere than in the Self, was abandoned by the creatures. Whosoever looks for anything elsewhere than in the Self, was abandoned by everything. This Brahman-class, this Kshatra-class, these worlds, these Devas [^351], these [^352] creatures, this everything, all is that Self.
 
-7\. 'Now as [^353] the sounds of a drum, when beaten, <span id="p111">[<sup><small>p. 111</small></sup>]</span> cannot be seized externally (by themselves), but the sound is seized, when the drum is seized or the beater of the drum;
+7\. 'Now as [^353] the sounds of a drum, when beaten, <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> cannot be seized externally (by themselves), but the sound is seized, when the drum is seized or the beater of the drum;
 
 8., And as the sounds of a conch-shell, when blown, cannot be seized externally (by themselves), but the sound is seized, when the shell is seized or the blower of the shell;
 
@@ -167,20 +167,20 @@ Next follows the teaching (of Brahman) by No, no [^339]! for there is nothing el
 
 11\. 'As all waters find their centre in the sea, all touches in the skin, all tastes in the tongue, all smells in the nose, all colours in the eye, all sounds in the ear, all percepts in the mind, all knowledge in the heart, all actions in the hands, all movements in the feet, and all the Vedas in speech,—
 
-12\. ‘As a lump of salt [^355], when thrown into water, becomes dissolved into water, and could not be taken <span id="p112">[<sup><small>p. 112</small></sup>]</span> out again, but wherever we taste (the water) it is salt,—thus verily, O Maitreyî, does this great Being, endless, unlimited, consisting of nothing but knowledge [^356], rise from out these elements, and vanish again in them. When he has departed, there is no more knowledge (name), I say, O Maitreyî.’ Thus spoke Yâ<i>g</i>_ñ_avalkya.
+12\. ‘As a lump of salt [^355], when thrown into water, becomes dissolved into water, and could not be taken <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> out again, but wherever we taste (the water) it is salt,—thus verily, O Maitreyî, does this great Being, endless, unlimited, consisting of nothing but knowledge [^356], rise from out these elements, and vanish again in them. When he has departed, there is no more knowledge (name), I say, O Maitreyî.’ Thus spoke Yâ<i>g</i>_ñ_avalkya.
 
 13\. Then Maitreyî said: ‘Here thou hast bewildered me, Sir, when thou sayest that having departed, there is no more knowledge [^357].’
 
 But Yâ<i>g</i>_ñ_avalkya replied: 'O Maitreyî, I say nothing that is bewildering. This is enough, O beloved, for wisdom [^358].
 
-‘For when there is as it were duality, then one sees the other, one smells the other, one hears the other [^359], one salutes the other [^360], one perceives the other [^361], one knows the other; but when the Self only is all this, how should he smell another [^362], how should he see [^363] another [^364], how should he hear [^365] another, how should he salute [^366] another, how should he perceive another [^367], how should he know another? How should he know Him by whom he knows all this? <span id="p113">[<sup><small>p. 113</small></sup>]</span> How, O beloved, should he know (himself), the Knower [1](Brihadaranyaka_2#fn368)?’
+‘For when there is as it were duality, then one sees the other, one smells the other, one hears the other [^359], one salutes the other [^360], one perceives the other [^361], one knows the other; but when the Self only is all this, how should he smell another [^362], how should he see [^363] another [^364], how should he hear [^365] another, how should he salute [^366] another, how should he perceive another [^367], how should he know another? How should he know Him by whom he knows all this? <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> How, O beloved, should he know (himself), the Knower [1](Brihadaranyaka_2#fn368)?’
 
 
 ## FIFTH BRÂHMA<i>N</i>A [^369].
 
 1\. This earth is the honey [^370] (madhu, the effect) of all beings, and all beings are the honey (madhu, the effect) of this earth. Likewise this bright, immortal person in this earth, and that bright immortal person incorporated in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
 
-2\. This water is the honey of all beings, and all beings are the honey of this water. Likewise this bright, immortal person in this water, and that bright, immortal person, existing as seed in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All. <span id="p114">[<sup><small>p. 114</small></sup>]</span> 3\. This fire is the honey of all beings, and all beings are the honey of this fire. Likewise this bright, immortal person in this fire, and that bright, immortal person, existing as speech in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
+2\. This water is the honey of all beings, and all beings are the honey of this water. Likewise this bright, immortal person in this water, and that bright, immortal person, existing as seed in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All. <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> 3\. This fire is the honey of all beings, and all beings are the honey of this fire. Likewise this bright, immortal person in this fire, and that bright, immortal person, existing as speech in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
 
 4\. This air is the honey of all beings, and all beings are the honey of this air. Likewise this bright, immortal person in this air, and that bright, immortal person existing as breath in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
 
@@ -190,7 +190,7 @@ But Yâ<i>g</i>_ñ_avalkya replied: 'O Maitreyî, I say nothing that is bewilder
 
 7\. This moon is the honey of all beings, and all beings are the honey of this moon. Likewise this bright, immortal person in this moon, and that bright, immortal person existing as mind in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
 
-8\. This lightning is the honey of all beings, and all beings are the honey of this lightning. Likewise this bright, immortal person in this lightning, and <span id="p115">[<sup><small>p. 115</small></sup>]</span> that bright, immortal person existing as light in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
+8\. This lightning is the honey of all beings, and all beings are the honey of this lightning. Likewise this bright, immortal person in this lightning, and <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> that bright, immortal person existing as light in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
 
 9\. This thunder [^371] is the honey of all beings, and all beings are the honey of this thunder. Likewise this bright, immortal person in this thunder, and that bright, immortal person existing as sound and voice in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
 
@@ -200,7 +200,7 @@ But Yâ<i>g</i>_ñ_avalkya replied: 'O Maitreyî, I say nothing that is bewilder
 
 12\. This true [^372] (satyam) is the honey of all beings, and all beings are the honey of this true. Likewise this bright, immortal person in what is true, and that bright, immortal person existing as the true in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
 
-13\. This mankind is the honey of all beings, and all beings are the honey of this mankind. Likewise <span id="p116">[<sup><small>p. 116</small></sup>]</span> this bright, immortal person in mankind, and that bright, immortal person existing as man in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
+13\. This mankind is the honey of all beings, and all beings are the honey of this mankind. Likewise <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> this bright, immortal person in mankind, and that bright, immortal person existing as man in the body (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
 
 14\. This Self is the honey of all beings, and all beings are the honey of this Self Likewise this bright, immortal person in this Self, and that bright, immortal person, the Self (both are madhu). He indeed is the same as that Self, that Immortal, that Brahman, that All.
 
@@ -212,7 +212,7 @@ But Yâ<i>g</i>_ñ_avalkya replied: 'O Maitreyî, I say nothing that is bewilder
 
 17\. Verily Dadhyak Âtharva<i>n</i>a [^375] proclaimed this honey to the two A<i>s</i>vins, and a <i>Ri</i>shi, seeing this, said (Rv. I, 117, 22):
 
-‘O A<i>s</i>vins, you fixed a horse's head on Âtharva<i>n</i>a Dadhyak, and he, wishing to be true (to his promise), <span id="p117">[<sup><small>p. 117</small></sup>]</span> proclaimed to you the honey, both that of Tvasht<i>ri</i> [^376] and that which is to be your secret, O ye strong ones.
+‘O A<i>s</i>vins, you fixed a horse's head on Âtharva<i>n</i>a Dadhyak, and he, wishing to be true (to his promise), <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> proclaimed to you the honey, both that of Tvasht<i>ri</i> [^376] and that which is to be your secret, O ye strong ones.
 
 18\. Verily Dadhyak Âtharva<i>n</i>a proclaimed this honey to the two A<i>s</i>vins, and a <i>Ri</i>shi, seeing this, said:
 
@@ -225,7 +225,7 @@ But Yâ<i>g</i>_ñ_avalkya replied: 'O Maitreyî, I say nothing that is bewilder
 This (Âtman) is the horses, this (Âtman) is the ten, and the thousands, many and endless. This is the Brahman, without cause and without effect, without anything inside or outside; this Self is Brahman, omnipresent and omniscient. This is the teaching (of the Upanishads).
 
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 ## SIXTH BRÂHMA<i>N</i>A.
 
@@ -250,7 +250,7 @@ This (Âtman) is the horses, this (Âtman) is the ten, and the thousands, many a
 14\. Saitava and Prâ<i>k</i>înayogya from Pâra<i>s</i>arya,
 15\. Pâra<i>s</i>arya from Bhâradvâ<i>g</i>a,
 16\. Bhâradvâ<i>g</i>a from Bhâradvâ<i>g</i>a and Gautama,
-17\. Gautama from Bharadvâ<i>g</i>a, <span id="p119">[<sup><small>p. 119</small></sup>]</span> 18\. Bharadvâ<i>g</i>a from Pârâ<i>s</i>arya,
+17\. Gautama from Bharadvâ<i>g</i>a, <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> 18\. Bharadvâ<i>g</i>a from Pârâ<i>s</i>arya,
 19\. Pârâ<i>s</i>arya from Vai<i>g</i>avâpâyana,
 20\. Vai<i>g</i>avâpâyana from Kau<i>s</i>ikâyani,
 21 [^379]. Kau<i>s</i>ikâyani
@@ -280,7 +280,7 @@ This (Âtman) is the horses, this (Âtman) is the ten, and the thousands, many a
 42\. Pathi Saubhara from Ayâsya Âṅgirasa,
 43\. Ayâsya Âṅgirasa from Âbhûti Tvâsh<i>t</i>ra,
 44\. Âbhûti Tvâsh<i>t</i>ra from Vi<i>s</i>varûpa Tvâsh<i>t</i>ra,
-45\. Vi<i>s</i>varûpa Tvâsh<i>t</i>ra from A<i>s</i>vinau, <span id="p120">[<sup><small>p. 120</small></sup>]</span> 46\. A<i>s</i>vinau from Dadhya<i>k</i> Âtharva<i>n</i>a,
+45\. Vi<i>s</i>varûpa Tvâsh<i>t</i>ra from A<i>s</i>vinau, <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> 46\. A<i>s</i>vinau from Dadhya<i>k</i> Âtharva<i>n</i>a,
 47\. Dadhya<i>k</i> Âtharva<i>n</i>a from Atharvan Daiva,
 48\. Atharvan Daiva from M<i>ri</i>tyu Prâdhva<i>m</i>sana,
 49\. M<i>ri</i>tyu Prâdhva<i>m</i>sana from Prâdhva<i>m</i>sana,

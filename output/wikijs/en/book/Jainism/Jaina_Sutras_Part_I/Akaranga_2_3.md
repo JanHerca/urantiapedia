@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 THIRD LECTURE, CALLED WALKING [^396].
 
@@ -42,7 +42,7 @@ When the rainy season has come and it is raining, many living beings are origina
 
 When a monk or a nun knows that in a village or scot-free town, &c. (see I, 7, 6, § 3), there is no large place for religious practices nor for study; that there cannot easily be obtained a stool, bench, bed, or couch, nor pure, acceptable alms; that there have come or will come many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, guests, paupers, and beggars; that the means of existence are extremely small; that it is not fit for a wise man to enter or leave it, &c. (see II, 1, 4, § 1); in such a village, scot-free town, &c., they should not remain during the cold season. (2)
 
-When a monk or a nun knows that in a village or scot-free town, &c., there is a large place for religious practices or for study; that there can easily <span id="p137">[<sup><small>p. 137</small></sup>]</span> be obtained a stool, bench, bed, or couch, or pure, acceptable alms; that there have not come nor will come <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, guests, paupers, and beggars; that the means of existence are not small, &c., they may remain in such a village, &c., during the rainy season. (3)
+When a monk or a nun knows that in a village or scot-free town, &c., there is a large place for religious practices or for study; that there can easily <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> be obtained a stool, bench, bed, or couch, or pure, acceptable alms; that there have not come nor will come <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, guests, paupers, and beggars; that the means of existence are not small, &c., they may remain in such a village, &c., during the rainy season. (3)
 
 Now they should know this: After the four months of the rainy season are over, and five or ten days of the winter have passed, they should not wander from village to village, if the road contains many living beings, &c., and if many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, &c., do not yet travel [^398]. (4)
 
@@ -52,7 +52,7 @@ A monk or a nun wandering from village to village should look forward for four c
 
 A monk or a nun wandering from village to village, on whose way there are living beings, seeds, grass, water, or mud, should not go straight if there be an unobstructed byway; then they may circumspectly wander from village to village. (7)
 
-A monk or a nun on the pilgrimage, whose road (lies through) places belonging to borderers, robbers, Mle<i>k</i><i>kh</i>as, non-Aryan people [^399], half-civilised people, <span id="p138">[<sup><small>p. 138</small></sup>]</span> unconverted people, people who rise or eat at an improper time, should, if there be some other place for walking about or friendly districts, not choose the former road for their voyage. (8)
+A monk or a nun on the pilgrimage, whose road (lies through) places belonging to borderers, robbers, Mle<i>k</i><i>kh</i>as, non-Aryan people [^399], half-civilised people, <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> unconverted people, people who rise or eat at an improper time, should, if there be some other place for walking about or friendly districts, not choose the former road for their voyage. (8)
 
 The Kevalin says: This is the reason: The ignorant populace might bully, beat, &c., the mendicant, in the opinion that he is a thief or a spy, or that he comes from yonder (hostile village); or they might take away, cut off, steal or rob his robe, alms-bowl, mantle, or broom. Hence it has been said to the mendicant, &c., that one whose road (lies through) places belonging, &c. (all as in the last paragraph); then he may circumspectly wander from village to village. (9)
 
@@ -60,7 +60,7 @@ A monk or a nun on the pilgrimage, whose road (lies through) a country where the
 
 A monk or a nun on the pilgrimage, whose road lies through a forest [^400] which they are not certain of crossing in one or two or three or four or five days, should, if there be some other place for walking about or friendly districts, not choose the former road for their voyage. (11)
 
-The Kevalin says: This is the reason: During <span id="p139">[<sup><small>p. 139</small></sup>]</span> the rain (he might injure) living beings, mildew, seeds, grass, water, mud. Hence it has been said to the mendicant that one whose road lies through such a forest, &c. (all as in the last paragraph) then he may circumspectly wander from village to village. (12)
+The Kevalin says: This is the reason: During <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> the rain (he might injure) living beings, mildew, seeds, grass, water, mud. Hence it has been said to the mendicant that one whose road lies through such a forest, &c. (all as in the last paragraph) then he may circumspectly wander from village to village. (12)
 
 A monk or a nun on the pilgrimage, on whose way there is some watercourse which must be crossed by a boat, should not ascend such a boat which plies up or down or across (the river), neither for one yo<i>g</i>ana's or half a yo<i>g</i>ana's distance, neither for a shorter nor a longer voyage, if they know that the householder [^401] will buy or purloin the boat, or doing the work necessary to put the boat in order, pull it ashore out of the water, or push it from the shore into the water, or bale it, if it is filled (with water), or cause a sinking boat to float. (13)
 
@@ -68,7 +68,7 @@ A monk or a nun, knowing that a boat will cross the river, should, after having 
 
 A monk or a nun in entering the boat should not choose for that purpose the stern or the prow or the middle of the boat; nor should they look at it holding up their arms, pointing at it with their finger, bowing up and down. (15)
 
-If, on board, the boatman should say to the monk, ‘O long-lived <i>S</i>rama<i>n</i>a! pull the boat forward or backward, <span id="p140">[<sup><small>p. 140</small></sup>]</span> or push it, or draw it with the rope towards you, or, let us do it together,’ he should not comply with his request, but look on silently. (16)
+If, on board, the boatman should say to the monk, ‘O long-lived <i>S</i>rama<i>n</i>a! pull the boat forward or backward, <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> or push it, or draw it with the rope towards you, or, let us do it together,’ he should not comply with his request, but look on silently. (16)
 
 If, on board, the other should say to him, ‘O long-lived <i>S</i>rama<i>n</i>a! you cannot pull the boat forward or backward, or push it, or draw it with a rope towards you; give us the rope, we will ourselves pull the boat forward or backward, &c.,’ he should not comply with his request, but look on silently. (17)
 
@@ -78,7 +78,7 @@ If, on board, the other should say to him, ‘O long-lived Srama<i>n</i>a! pleas
 
 If, on board, the other should say to him, 'O long-lived <i>S</i>rama<i>n</i>a! please, stop the boat's leak with your hand, foot, arm, thigh, belly, head, body, the bucket, or a cloth, or with mud, Ku<i>s</i>a-grass, or lotus leaves,' he should not comply with his request, but look on silently. (20)
 
-If a monk or a nun see that water enters through a leak in the boat, and the boat becomes dirty all over, they should not approach the boatman and say: ‘O long-lived householder! water enters through a leak into the boat, and it becomes dirty all over.’ <span id="p141">[<sup><small>p. 141</small></sup>]</span> One should not think so or speak so; but undisturbed, the mind not directed outwardly, one should collect one's self for contemplation; then one may circumspectly complete one's journey by the boat on the water.
+If a monk or a nun see that water enters through a leak in the boat, and the boat becomes dirty all over, they should not approach the boatman and say: ‘O long-lived householder! water enters through a leak into the boat, and it becomes dirty all over.’ <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> One should not think so or speak so; but undisturbed, the mind not directed outwardly, one should collect one's self for contemplation; then one may circumspectly complete one's journey by the boat on the water.
 
 This is the whole duty, &c.
 
@@ -92,7 +92,7 @@ If, on board, the boatman should say to the mendicant, ‘O long-lived <i>S</i>r
 
 If, on board, the boatman should say to another of the crew, ‘O long-lived one! this <i>S</i>rama<i>n</i>a is only a heavy load for the boat, take hold of him with your arms and throw him into the water!’ hearing and perceiving such talk, he should, if he wears clothes, quickly take them off or fasten them or put them in a bundle on his head. (2)
 
-Now he may think: These ruffians, accustomed to violent acts, might take hold of me and throw me from the boat into the water. He should first say to them: 'O long-lived householders! don't take hold of me with your arms and throw me into the water! I myself shall leap from the boat into the water!' If after these words the other, by force and violence, takes hold of him with his arms and throws him into the water, he should be neither glad nor sorry, neither in high nor low spirits, nor should he offer <span id="p142">[<sup><small>p. 142</small></sup>]</span> violent resistance to those ruffians; but undisturbed, his mind not directed to outward things, &c. (see II, 3, 1, § 21), he may circumspectly swim in the water. (3)
+Now he may think: These ruffians, accustomed to violent acts, might take hold of me and throw me from the boat into the water. He should first say to them: 'O long-lived householders! don't take hold of me with your arms and throw me into the water! I myself shall leap from the boat into the water!' If after these words the other, by force and violence, takes hold of him with his arms and throws him into the water, he should be neither glad nor sorry, neither in high nor low spirits, nor should he offer <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> violent resistance to those ruffians; but undisturbed, his mind not directed to outward things, &c. (see II, 3, 1, § 21), he may circumspectly swim in the water. (3)
 
 A monk or a nun, swimming in the water, should not touch (another person's or their own?) hand, foot, or body with their own hand, foot, or body; but without touching it they should circumspectly swim in the water. (4)
 
@@ -104,7 +104,7 @@ A monk or a nun should not wipe or rub or brush or stroke [^406] or dry or warm 
 
 A monk or a nun on the pilgrimage should not wander from village to village, conversing with householders; they may circumspectly wander from village to village. (8)
 
-If a monk or a nun on the pilgrimage come <span id="p143">[<sup><small>p. 143</small></sup>]</span> across a shallow water [^407], they should first wipe their body from head to heels, then, putting one foot in the water and the other in the air, they should wade through the shallow water in a straight line [^408]. (9)
+If a monk or a nun on the pilgrimage come <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> across a shallow water [^407], they should first wipe their body from head to heels, then, putting one foot in the water and the other in the air, they should wade through the shallow water in a straight line [^408]. (9)
 
 If a monk or a nun on the pilgrimage come across a shallow water, they should wade through it in a straight line, without being touched by or touching (another person's or their own?) hand, foot, or body with their own hand, foot, or body. (10)
 
@@ -114,7 +114,7 @@ A monk or a nun should not wipe or rub, &c. (all as in § 7). (12)
 
 A monk or a nun on the pilgrimage, with their feet soiled with mud, should not, in order that the grass might take off the mud from the feet, walk out of the way and destroy the grass by cutting, trampling, and tearing it. As this would be sinful, they should not do so. But they should first inspect a path containing little grass; then they may circumspectly wander from village to village. (13)
 
-If a monk or a nun on the pilgrimage come upon walls or ditches or ramparts or gates or bolts <span id="p144">[<sup><small>p. 144</small></sup>]</span> or holes to fit them, or moats or caves, they should, in case there be a byway, choose it, and not go on straight. (14)
+If a monk or a nun on the pilgrimage come upon walls or ditches or ramparts or gates or bolts <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> or holes to fit them, or moats or caves, they should, in case there be a byway, choose it, and not go on straight. (14)
 
 The Kevalin says: This is the reason: Walking there, the mendicant might stumble or fall down; when he stumbles or falls down, he might get hold of trees, shrubs, plants, creepers, grass, copsewood, or sprouts to extricate himself. He should ask travellers who meet him, to lend a hand; then he may circumspectly lean upon it and extricate himself; so he may circumspectly wander from village to village. (15)
 
@@ -129,7 +129,7 @@ Thus I say. (17)
 
 
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 ## THIRD LESSON.
 
@@ -141,7 +141,7 @@ The Kevalin says: This is the reason: The deer, cattle, birds, snakes, animals l
 
 Hence it has been said to the mendicant, &c., that he should not look at the objects (mentioned in § 2) holding up his arms, &c. [^411] (3)
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 A monk or a nun, wandering from village to village together with the master or teacher, should not touch the master's or teacher's hand with their own, &c.; but without touching or being touched they should circumspectly wander from village to village together with the master or teacher. (4)
 
@@ -151,7 +151,7 @@ A monk or a nun, wandering from village to village with a superior priest, shoul
 
 A monk or a nun, wandering from village to village with superior priests, might be met on the road by travellers, and be asked: ‘O long-lived <i>S</i>rama<i>n</i>a! who are you?’ He who has the highest rank of them all, should answer and explain; but whilst the superior answers and explains, one should not mix in their conversation, &c. (see § 5). (7)
 
-A monk or a nun, wandering from village to village, might be met on the road by travellers, and be asked: ‘O long-lived <i>S</i>rama<i>n</i>a! did you see somebody on the road? viz. a man, cow, buffalo, cattle, bird, snake, or aquatic animal—tell us, show <span id="p147">[<sup><small>p. 147</small></sup>]</span> us!’ The mendicant should not tell it, nor show it, he should not comply with their request, but look on silently, or, though knowing it, he should say that he did not know. Then he may circumspectly wander from village to village. (8)
+A monk or a nun, wandering from village to village, might be met on the road by travellers, and be asked: ‘O long-lived <i>S</i>rama<i>n</i>a! did you see somebody on the road? viz. a man, cow, buffalo, cattle, bird, snake, or aquatic animal—tell us, show <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> us!’ The mendicant should not tell it, nor show it, he should not comply with their request, but look on silently, or, though knowing it, he should say that he did not know. Then he may circumspectly wander from village to village. (8)
 
 He should act in the same manner, if asked about bulbs of water-plants, roots, bark, leaves, flowers, fruits, seeds, water in the neighbourhood, or a kindled fire; (9)
 
@@ -165,7 +165,7 @@ If a monk or a nun, wandering from village to village, sees a vicious cow coming
 
 If the road of a monk or a nun on the pilgrimage lies through a forest, in which, as they know, there stroll bands of many thieves desirous of their property, they should not, for fear of them, leave the road, &c. (all as in § 13). (14)
 
-If these thieves say, ‘O long-lived <i>S</i>rama<i>n</i>a! bring us your clothes, &c., give them, put them down!’ the mendicant should not give or put them down. <span id="p148">[<sup><small>p. 148</small></sup>]</span> Nor should he reclaim (his things) by imploring (the thieves), or by folding his hands, or by moving their compassion, but by religious exhortation or by remaining silent. (15)
+If these thieves say, ‘O long-lived <i>S</i>rama<i>n</i>a! bring us your clothes, &c., give them, put them down!’ the mendicant should not give or put them down. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> Nor should he reclaim (his things) by imploring (the thieves), or by folding his hands, or by moving their compassion, but by religious exhortation or by remaining silent. (15)
 
 If the thieves, resolving to do it themselves, bully him, &c., tear off his clothes, &c., he should not lodge an information in the village or at the king's palace; nor should he go to a layman, and say, ‘O long-lived householder! these thieves, resolving to do (the robbing) themselves, have bullied me, &c., they have torn off my clothes,’ &c. He should neither think so, nor speak so; but undisturbed, &c. (see § 13).
 

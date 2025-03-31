@@ -32,9 +32,9 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span> p. 235
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span> p. 235
 
 SÛTRAK<i>RI</i>TÂṄGA.
 
@@ -54,7 +54,7 @@ What causes the bondage (of Soul) according to Mahâvîra? and what must one kno
 
 He who owns even a small property in living or lifeless things [^673], or consents to others holding it, will not be delivered from misery. (2)
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 If a man kills living beings, or causes other men to kill them, or consents to their killing them, his iniquity will go on increasing. (3)
 
@@ -68,7 +68,7 @@ Some [^677] profess (the exclusive belief in) the five gross elements: earth, wa
 
 ‘These five gross elements (are the original causes of things), from them arises another (thing, viz. âtman) [^678]; for on the dissolution of the (five elements) living beings cease to exist. (8)
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 ‘And as the Earth, though it is but one pile, presents many forms, so the intelligent (principle, viz. the âtman) appears under various forms as the universe [^679].’ (9)
 
@@ -82,7 +82,7 @@ Thus say some fools. (But how can they explain on their theory that) the man eng
 
 How can those who hold such opinions explain (the variety of existence in) the world? They go from darkness to utter darkness, being fools and engaged in works. (14)
 
-Some [^682] say that there are five elements and that <span id="p238">[<sup><small>p. 238</small></sup>]</span> the soul is a sixth (substance), but they contend that the soul and the world (i.e. the five elements) are eternal. (15)
+Some [^682] say that there are five elements and that <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> the soul is a sixth (substance), but they contend that the soul and the world (i.e. the five elements) are eternal. (15)
 
 ‘These (six substances) do not perish neither (without nor with a cause); the non-existent does not come into existence, but all things are eternal by their very nature [^683].’ (16)
 
@@ -92,7 +92,7 @@ The <i>G</i>â<i>n</i>ayas [^686] say that there are four elements: earth, water
 
 (All these heretics say): ‘Those who dwell in houses, in woods, or on hills, will be delivered from all misery if they adopt our creed.’ (19)
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 But they do not cross the Flood of Life, who, ignoring the true relation of things, and not versed in the true Law, hold the above heretical opinions. (20)
 

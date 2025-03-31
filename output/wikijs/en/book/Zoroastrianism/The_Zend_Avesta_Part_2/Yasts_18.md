@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p283">[<sup><small>p. 283</small></sup>]</span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 Ar<i>s</i>tâ<i>t</i> is Truthfulness: she is invoked in company with the Genius of Truth, Rashnu Razi<i>s</i>ta (Sîrôzah, § 18), on the day Rashn. On the day especially dedicated to her, the 26th day of the month, she is invoked in company with Mount Ushi-darena, which accounts for the singular fact that her Ya<i>s</i>t is wholly devoted to the <i>H</i><i>v</i>arenô, and thus is hardly distinguishable from the Zamyâd Ya<i>s</i>t, as Mount Ushi-darena is the actual seat of the <i>H</i><i>v</i>arenô (Yt. I, 31, text and note; cf. Yt. XIX, 66). Whence comes this particular connection of Ar<i>s</i>tâ<i>t</i> with Mount Ushi-darena is uncertain, unless it alludes to the fact that the possession of the <i>H</i><i>v</i>arenô can be secured only through truthfulness: as soon as Yima ‘began to find delight in words of falsehood and untruth,’ the <i>H</i><i>v</i>arenô flew away from him (Yt. XIX, 34).
 
@@ -50,7 +50,7 @@ Unto the Glory of the Aryans, made by Mazda, Be propitiation, with sacrifice, pr
 
 Yathâ ahû vairyô; The will of the Lord is the law of holiness . . . .
 
-1\. Ahura Mazda spake unto Spitama Zarathu<i>s</i>tra, saying: 'I made the Aryan Glory, rich in food, rich in flocks, rich in wealth [^1190], rich in Glory; provided with full store of intelligence, with full store of money, to withstand Need, and to withstand enemies. <span id="p284">[<sup><small>p. 284</small></sup>]</span> 2\. 'It destroys Angra Mainyu, who is all death: it destroys Aêshma, the fiend of the wounding spear [^1191]; it destroys the yellow Bûshyãsta [^1192]; it destroys the contagion [^1193] of Aêkha [^1194]; it destroys the fiend of death, Apaosha [^1195]; it destroys the non-Aryan nations.
+1\. Ahura Mazda spake unto Spitama Zarathu<i>s</i>tra, saying: 'I made the Aryan Glory, rich in food, rich in flocks, rich in wealth [^1190], rich in Glory; provided with full store of intelligence, with full store of money, to withstand Need, and to withstand enemies. <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> 2\. 'It destroys Angra Mainyu, who is all death: it destroys Aêshma, the fiend of the wounding spear [^1191]; it destroys the yellow Bûshyãsta [^1192]; it destroys the contagion [^1193] of Aêkha [^1194]; it destroys the fiend of death, Apaosha [^1195]; it destroys the non-Aryan nations.
 
 3\. 'And I made the great Ashi Vanguhi; she comes in, amid the family; she comes in, inside the fine royal palace [^1196].
 
@@ -60,7 +60,7 @@ Yathâ ahû vairyô; The will of the Lord is the law of holiness . . . .
 
 5\. 'Horses multiply a thousandfold, flocks multiply a thousandfold; and so does his virtuous offspring, (as) the bright, glorious star Ti<i>s</i>trya moves on equally [^1199], and so does the strong wind made by Mazda, and so does the Glory of the Aryas.
 
-6\. 'And they bring increase on the tops of all mountains, down the depths of all vales; they bring increase to all the growing plants [^1200], the fair, the golden-hued. And they bring (away) [^1201] the contagion <span id="p285">[<sup><small>p. 285</small></sup>]</span> of Aêkha, they bring (away) the fiend of death, Apaosha.
+6\. 'And they bring increase on the tops of all mountains, down the depths of all vales; they bring increase to all the growing plants [^1200], the fair, the golden-hued. And they bring (away) [^1201] the contagion <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> of Aêkha, they bring (away) the fiend of death, Apaosha.
 
 7\. 'Hail to the bright and glorious star Ti<i>s</i>trya! Hail to the strong wind, made by Mazda! Hail to the Glory of the Aryas!
 

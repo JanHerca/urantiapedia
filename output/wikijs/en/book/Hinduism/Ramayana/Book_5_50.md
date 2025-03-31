@@ -134,7 +134,7 @@ Perchance the toil had numbed his arm.’
 Like that which lights the funeral pyre.
 He bade his bravest Kinkars  [^878] speed
 
-<span id="p418">[<sup><small>p. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 And to his feet the spoiler lead.
 Forth from the palace, at his hest,
@@ -237,7 +237,7 @@ Fierce warrior with terrific teeth,
 With saguine robes and brilliant wreath.
 A bow like Indra's own  [^881], and store
 
-<span id="p419">[<sup><small>p. 419</small></sup>]</span>
+<span id="p419"><sup><small>[ p. 419 ]</small></sup></span>
 
 Of glittering shafts the chieftain bore.
 And ever as the string he \*\*tried
@@ -350,7 +350,7 @@ To seize this thing of silvan race.
 For from his wondrous exploits he
 No monkey of the woods can be,
 
-<span id="p420">[<sup><small>p. 420</small></sup>]</span>
+<span id="p420"><sup><small>[ p. 420 ]</small></sup></span>
 
 But some new kind of creature meant
 To work us woe, by Indra sent.
@@ -465,7 +465,7 @@ And Aksha lies amid the dead.
 Thou art my best and bravest: go,
 Unmatched in power, and slay the foe.’
 
-<span id="p421">[<sup><small>p. 421</small></sup>]</span>
+<span id="p421"><sup><small>[ p. 421 ]</small></sup></span>
 
 He heard the hest: he bent his head;
 Athirst for battle forth he sped.
@@ -559,7 +559,7 @@ Learn who he is, and whence; and why
 He marred the glory of the grove,
 And with my captains fiercely strove.’
 
-<span id="p422">[<sup><small>p. 422</small></sup>]</span>
+<span id="p422"><sup><small>[ p. 422 ]</small></sup></span>
 
 Prahasta heard his lord's behest,
 And thus the Vánar chief addressed:

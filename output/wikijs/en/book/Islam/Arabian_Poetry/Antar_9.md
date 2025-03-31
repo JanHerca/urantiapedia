@@ -44,7 +44,7 @@ Long ago have I drunk the blood of horsemen, with which they fed me before I was
 
 This foul wretch will I slay with the edge of my sword, that cleaves through the flesh before the bones.
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 His dwellings shall this eve be found waste and desolate, and I will not swerve from my word: his body shall lie on the deserts, cut down, and his face thou mayst see grovelling in the dust.
 

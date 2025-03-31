@@ -52,7 +52,7 @@ THE purpose of God is a serious matter, and not a subject for jesting; employ th
 
 10\. Do not despair at evil accidents, and be not too joyful over happy events.
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 11\. Where is Hûd, the man who feared God, and his testamentary injunctions? or Kahtân, of the seed of the Prophet and of holiness?
 
@@ -84,7 +84,7 @@ THE purpose of God is a serious matter, and not a subject for jesting; employ th
 
 45\. Where is Bilkîs, the mighty-throned one, or her palace, lofty above all palaces?
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 46\. She visited Solomon the prophet in Tadmor, _coming_ from Mârib on an errand of faith, without thoughts of marriage,
 

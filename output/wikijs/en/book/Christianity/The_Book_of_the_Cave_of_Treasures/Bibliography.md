@@ -29,7 +29,7 @@ dateCreated: 2025-1-16T23:39:57Z
   </table>
 </figure>
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 BARTHOLOMEW, THE APOSTLE. _Book of the Resurrection of Christ_ (in Budge, _Coptic Apocrypha_, London, 1913).
 
@@ -42,7 +42,7 @@ BUDGE, E. A. WALLIS. _The Contendings of the Apostles_. Ethiopic texts and Engli
 &nbsp;&nbsp;&nbsp;&nbsp;_The History of the Blessed Virgin Mary, and the History of the Likeness of Christ which the Jews of Tiberias made to mock at_. Syriac and English, 2 vols., London, 1899-1901.
 &nbsp;&nbsp;&nbsp;&nbsp;_Legends of our Lady Mary_. Translations from the Ethiopic, London, 1922.
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 BUDGE, E. A. WALLIS. _Coptic Apocrypha_. Coptic and English, London, 1913.
 &nbsp;&nbsp;&nbsp;&nbsp;_Miscellaneous Coptic texts_. Coptic and English, London, 1915.
@@ -82,7 +82,7 @@ TISCHENDORF, C. _Apocalypses Apocryphae_, Leipzig, 1866.
 TRUMPP, E. _Gadla Adam, Der Kampf Adams gegen die Versuchungen des Satans. Das christliche Adambuch des Morgenlandes_, Munich, 1880. Ethiopic text.
 &nbsp;&nbsp;&nbsp;&nbsp;_Die Hexaëmeron des Pseudo-Epiphanius_, Munich, 1882. Ethiopic text and German translation.
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 WRIGHT, W. “Contributions to the Apocryphal Literature of the New Testament” (in _Journal of Sacred Literature_, Vol. VI, pp. 417-448, and Vol. VII, pp. 110-160, January and April, 1865).
 &nbsp;&nbsp;&nbsp;&nbsp;_Apocryphal Acts of the Apostles_, 2 vols., 1871.

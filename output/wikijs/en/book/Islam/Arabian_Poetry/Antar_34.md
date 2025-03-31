@@ -52,7 +52,7 @@ Keshaab, son of Ghayath, lies prostrate—on the day of horrors felled by my Ind
 
 These shall ever be my deeds with the foe as long as the sun shines, and as long as the morning star glitters at the dawn.
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 I am the son of Shedad, and the lion to whom every one that dwells in the desert or in towns bows in submission.
 

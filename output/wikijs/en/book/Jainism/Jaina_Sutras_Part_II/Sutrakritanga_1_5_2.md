@@ -44,7 +44,7 @@ The (sinners) walk over ground burning and glowing like red-hot iron; scorched t
 
 The sinners are driven over slippery ground which is like a road of red-hot iron; in this dreadful place (the ministers of hell) make them go forward like slaves (beating them) with sticks. (5)
 
-Proceeding in this intolerable (hell) they are crushed by rocks tumbling down. There is the <span id="p284">[<sup><small>p. 284</small></sup>]</span> (caldron) Santâpanî [^836], where evildoers suffer for a long time. (6)
+Proceeding in this intolerable (hell) they are crushed by rocks tumbling down. There is the <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> (caldron) Santâpanî [^836], where evildoers suffer for a long time. (6)
 
 They throw the sinners into caldrons and boil them; scalded they rise thence again; devilish crows [^837] feed on them and (so do) other beasts having claws devour them. (7)
 
@@ -58,7 +58,7 @@ There is a great place always on fire, where fires burn without fuel; there for 
 
 Setting on fire large piles, they thrust into them (a sinner) who will cry horribly; as butter thrown in the fire melts, so does the evildoer there. (12)
 
-And there is an always crowded, hot place which one deserves for one's great sins, and which is full of misery. There (the punishers) tie (the sinner's) <span id="p285">[<sup><small>p. 285</small></sup>]</span> hands and feet, and belabour him with sticks like an enemy. (13)
+And there is an always crowded, hot place which one deserves for one's great sins, and which is full of misery. There (the punishers) tie (the sinner's) <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> hands and feet, and belabour him with sticks like an enemy. (13)
 
 They break the sinner's back with a weapon, and smash his skull with iron clubs; their bodies are split and sawn like a plank; and tortured with red-hot awls (the sinners) are subjected (to cruelties). (14)
 
@@ -70,7 +70,7 @@ There is a dreadful mountain towering high up in the air, called Vaitâlika [^84
 
 Tortured, the sinners shriek, suffering day and night; in this horrid, great hell, which is full of implements of torture, they are put to a cruel death. (18)
 
-Full of wrath, like their enemies in a former life, <span id="p286">[<sup><small>p. 286</small></sup>]</span> (the punishers) crush them with hammers and clubs. With mangled bodies, and vomiting blood, they fall to the ground, head foremost. (19)
+Full of wrath, like their enemies in a former life, <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> (the punishers) crush them with hammers and clubs. With mangled bodies, and vomiting blood, they fall to the ground, head foremost. (19)
 
 There are the ever hungry [^844], savage, always wrathful, great jackals by whom the evildoers bound with shackles are devoured. (20)
 

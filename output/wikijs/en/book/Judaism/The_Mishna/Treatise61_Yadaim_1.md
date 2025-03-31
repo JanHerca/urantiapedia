@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 ### CHAPTER I.
 
-§ 1. A quarter lug of water is poured on \[the hands of\] one person, also on \[the hands of\] two [^1291] \[persons\], half a lug on three or four, a whole lug and upwards on five, or ten, or even one hundred \[persons\]. [^1292] R. José saith, “Provided always, there be not less for the last \[person using the water\] than a quarter \[of a lug\].” They <span id="p358">[<sup><small>p. 358</small></sup>]</span> may add [^1293] \[water\] for the second \[ablution\], but they must not add \[any\] for the first.
+§ 1. A quarter lug of water is poured on \[the hands of\] one person, also on \[the hands of\] two [^1291] \[persons\], half a lug on three or four, a whole lug and upwards on five, or ten, or even one hundred \[persons\]. [^1292] R. José saith, “Provided always, there be not less for the last \[person using the water\] than a quarter \[of a lug\].” They <span id="p358"><sup><small>[ p. 358 ]</small></sup></span> may add [^1293] \[water\] for the second \[ablution\], but they must not add \[any\] for the first.
 
 § 2. From all \[kinds of\] vessels they may pour on the hands, even from vessels \[made\] of cow-dung, or vessels of stone, or of earth. But they must not pour \[water\] on the hands out of the sides \[fragments\] of a vessel, or the bottom of a tub, or the bung of a cask: nor \[must a man\] give to his neighbour \[water\] out of the hollow of his \[own\] hand, because they must not draw, or consecrate, or sprinkle the water of purification, [^1294] or pour \[water\] on the hands, except \[it be\] in a vessel. \[In cases of uncleanness arising from the tent\] [^1295] they cannot preserve \[therefrom\], by means of a close cover, \[any utensils\] except \[whole\] vessels \[only\]; nor can they preserve \[the contents of\] an earthen vessel, \[into which a dead reptile has fallen, from contracting uncleanness\], except \[closed\] utensils \[only\]. [^1296]
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 4. Has he rinsed vessels therein \[the water\], or \[used it\] to rinse out measures, it becomes unfit; but if he rinsed therein vessels which already had been rinsed \[clean\], or new ones, \[the water so used\] continues fit \[for ablution\]. R. José prohibits it\[s use\] in \[the case of\] new vessels.
 
-§ 5. Water in which the baker has dipped rolls is unfit \[for ablution\], but has he only dipped his hands therein it continues fit. All are qualified to pour water on \[other persons’\] hands, even the deaf and dumb, idiot or minor. A man may hold a cask between his knees to pour the water \[over his hands\]. An ape may pour water <span id="p359">[<sup><small>p. 359</small></sup>]</span> on \[a person's\] hands. R. José declares these two \[last-mentioned modes of pouring water on the hands as legally\] improper.
+§ 5. Water in which the baker has dipped rolls is unfit \[for ablution\], but has he only dipped his hands therein it continues fit. All are qualified to pour water on \[other persons’\] hands, even the deaf and dumb, idiot or minor. A man may hold a cask between his knees to pour the water \[over his hands\]. An ape may pour water <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> on \[a person's\] hands. R. José declares these two \[last-mentioned modes of pouring water on the hands as legally\] improper.
 
 
 

@@ -32,14 +32,14 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 
 ONE morning, the hero took his alms-bowl and entered the city of Rajagriha. The people who passed him on the road admired his beauty and his noble bearing. “What is this man?” they wondered. “He is like a God, like Sakra or Brahma himself.” Presently, it was noised abroad that a marvellous being was wandering through the city, begging. Every one wanted to see the hero; they followed him about, and women rushed to the windows as he passed by. But he gravely pursued his way, while over the city a strange light appeared.
 
 A man ran to inform the king that a God, no less, was begging in the streets of the city. King Vimbasara went out on the terrace of the palace; he saw the hero. His splendor dazzled him. He sent him alms, and he gave orders to have him followed, in order to discover his retreat. Thus did the king learn that the magnificent beggar lived on the slope of the mountain, near the city.
 
-The following day, Vimbasara drove out of the city and came to the mountain. He left his chariot, <span id="p76">[<sup><small>p. 76</small></sup>]</span> and, quite alone, walked toward a tree in whose shade the hero was seated. The king paused near the tree, and, speechless with wonder, reverently gazed at the beggar.
+The following day, Vimbasara drove out of the city and came to the mountain. He left his chariot, <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> and, quite alone, walked toward a tree in whose shade the hero was seated. The king paused near the tree, and, speechless with wonder, reverently gazed at the beggar.
 
 Then, bowing humbly, he said:
 
@@ -57,7 +57,7 @@ Then, bowing humbly, he said:
 
 “Here you may gratify all your desires.”
 
-“I know the vanity of all desire. Desires are like poison; wise men despise them. I have thrown them away as one would throw away a wisp of dry straw. Desires are as perishable as the fruit on a <span id="p77">[<sup><small>p. 77</small></sup>]</span> tree, they are as wayward as the clouds in the sky, they are as treacherous as the rain, they are as changeable as the wind! Suffering is born of desire, for no man has ever gratified all his desires. But they that seek wisdom, they that ponder the true faith, they are the ones that find peace. Who drinks salt water increases his thirst; who flees from desire finds his thirst appeased. I no longer know desire. I seek the true law.”
+“I know the vanity of all desire. Desires are like poison; wise men despise them. I have thrown them away as one would throw away a wisp of dry straw. Desires are as perishable as the fruit on a <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> tree, they are as wayward as the clouds in the sky, they are as treacherous as the rain, they are as changeable as the wind! Suffering is born of desire, for no man has ever gratified all his desires. But they that seek wisdom, they that ponder the true faith, they are the ones that find peace. Who drinks salt water increases his thirst; who flees from desire finds his thirst appeased. I no longer know desire. I seek the true law.”
 
 The king said:
 
@@ -71,7 +71,7 @@ The king replied:
 
 He bowed three times, then returned to Rajagriha.
 
-The hero heard that there lived near Rajagriha a famous hermit named Rudraka, son of Rama. This hermit had many disciples whom he instructed in <span id="p78">[<sup><small>p. 78</small></sup>]</span> the law. The hero went to listen to his teachings, but like Arata Kalama, Rudraka knew nothing of the true law, and the hero did not tarry.
+The hero heard that there lived near Rajagriha a famous hermit named Rudraka, son of Rama. This hermit had many disciples whom he instructed in <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> the law. The hero went to listen to his teachings, but like Arata Kalama, Rudraka knew nothing of the true law, and the hero did not tarry.
 
 Presently he came to the banks of the Nairanjana. Five of Rudraka's disciples: Kaundinya, Asvajit, Vashpa, Mahanaman and Bhadrika, had joined him.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 1, SECTION 1.
 
@@ -56,7 +56,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 10\. Ending in the south.
 
-11\. Ceremonies occasioned by special occurrences (are performed) according as their occasions demand. <span id="p252">[<sup><small>p. 252</small></sup>]</span>
+11\. Ceremonies occasioned by special occurrences (are performed) according as their occasions demand. <span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 12\. [^714] Having set the fire in a blaze, he strews eastward-pointed Darbha grass around it,
 
@@ -78,7 +78,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 21\. [^717] On the south side he causes a Brâhma<i>n</i>a to sit down on Darbha grass.
 
-22\. He melts the Â<i>g</i>ya, pours it, to the west of the fire, into the Â<i>g</i>ya-pot, over which he has laid two purifiers, draws coals (out of the sacrificial fire) towards the mirth, puts (the Â<i>g</i>ya) on them, throws <span id="p253">[<sup><small>p. 253</small></sup>]</span> light on it by means of a burning (grass-blade), throws two Darbha points into it, moves a firebrand round it three times, takes it from the fire towards the north, sweeps the coals back (into the fire), purifies (the Â<i>g</i>ya) three times with two northward-pointed purifiers, moving them backward and forward, and throws the purifiers into the fire.
+22\. He melts the Â<i>g</i>ya, pours it, to the west of the fire, into the Â<i>g</i>ya-pot, over which he has laid two purifiers, draws coals (out of the sacrificial fire) towards the mirth, puts (the Â<i>g</i>ya) on them, throws <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> light on it by means of a burning (grass-blade), throws two Darbha points into it, moves a firebrand round it three times, takes it from the fire towards the north, sweeps the coals back (into the fire), purifies (the Â<i>g</i>ya) three times with two northward-pointed purifiers, moving them backward and forward, and throws the purifiers into the fire.
 
 
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. At ceremonies belonging to the Fathers (water is sprinkled) only all round (the fire), silently.
 
-5\. [^719] Having put a piece of wood on the fire, he <span id="p254">[<sup><small>p. 254</small></sup>]</span> offers the two Âghâra oblations as at the sacrifices of the new and full moon, silently.
+5\. [^719] Having put a piece of wood on the fire, he <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> offers the two Âghâra oblations as at the sacrifices of the new and full moon, silently.
 
 6\. [^720] Then he offers the two Â<i>g</i>yabhâga oblations, over the easterly part of the northerly part (of the fire) with (the words), ‘To Agni Svâhâ!’ over the easterly part of the southerly part (another oblation) exactly like the preceding one, with (the words), ‘To Soma Svâhâ!’
 
@@ -103,7 +103,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. The designation ‘Pâkaya<i>g</i><i>g</i>a’ is used of ceremonies connected with worldly life.
 
-10\. [^723] There the ritual based on the Brâhma<i>n</i>a (holds good), <span id="p255">[<sup><small>p. 255</small></sup>]</span>
+10\. [^723] There the ritual based on the Brâhma<i>n</i>a (holds good), <span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 11\. [^724] (To which the words allude), ‘He sacrifices twice; he wipes off (his hand) twice; he partakes twice (of the sacrificial food); having gone away he sips (out of the Sru<i>k</i>) and licks off (the Sru<i>k</i>).’
 
@@ -122,7 +122,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 1, SECTION 3.
 
-1\. [^726] Under the Maghâs (Nakshatra) cows are provided; <span id="p256">[<sup><small>p. 256</small></sup>]</span>
+1\. [^726] Under the Maghâs (Nakshatra) cows are provided; <span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 2\. Under the Phalgunî (Nakshatra) marriage is celebrated.
 
@@ -142,7 +142,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 10\. [^730] Let (the wooer) avoid in his wooing a girl that sleeps, or cries, or has left home.
 
-11\. [^731] And let him avoid one who has been given (to another), and who is guarded (by her relations), and one who looks wicked (?), or who is a most <span id="p257">[<sup><small>p. 257</small></sup>]</span> excellent one (?), or (who is like the fabulous deer) <i>s</i>arabha (?), a hunch-back, a girl of monstrous appearance, a bald-headed girl, a girl whose skin is like a frog's (?), a girl who has gone over to another family (?), a girl given to sensual pleasures (?), or a herdess, or one who has too many friends, or who has a fine younger sister, or one whose age is too near to that of the bridegroom (?).
+11\. [^731] And let him avoid one who has been given (to another), and who is guarded (by her relations), and one who looks wicked (?), or who is a most <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> excellent one (?), or (who is like the fabulous deer) <i>s</i>arabha (?), a hunch-back, a girl of monstrous appearance, a bald-headed girl, a girl whose skin is like a frog's (?), a girl who has gone over to another family (?), a girl given to sensual pleasures (?), or a herdess, or one who has too many friends, or who has a fine younger sister, or one whose age is too near to that of the bridegroom (?).
 
 12\. [^732] Girls who have the name of a Nakshatra, or of a river, or of a tree, are objectionable.
 
@@ -160,7 +160,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 19\. Good family, a good character, auspicious characteristics, learning, and good health: these are the accomplishments of a bridegroom.
 
-20\. A wife who is pleasing to his mind and his <span id="p258">[<sup><small>p. 258</small></sup>]</span> eyes, will bring happiness to him; let him pay no attention to the other things: such is the opinion of some.
+20\. A wife who is pleasing to his mind and his <span id="p258"><sup><small>[ p. 258 ]</small></sup></span> eyes, will bring happiness to him; let him pay no attention to the other things: such is the opinion of some.
 
 
 

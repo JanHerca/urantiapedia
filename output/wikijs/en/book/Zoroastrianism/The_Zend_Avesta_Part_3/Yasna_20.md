@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-1\. A blessing is Righteousness (called) the best; there is weal, there is weal to this man when the Right (helps) the Righteousness best, (when the pious man serves it in truth [^1135]). Ahura Mazda spake forth: Ashem vohû vahi<i>s</i>tem asti. To this Asha, the holy ritual sanctity, one attributes the <span id="p267">[<sup><small>p. 267</small></sup>]</span> qualities of ‘good’ and ‘best,’ as one attributes property to an owner; thus this sentence vohû vahi<i>s</i>tem asti is substantiated (at once [^1136]).
+1\. A blessing is Righteousness (called) the best; there is weal, there is weal to this man when the Right (helps) the Righteousness best, (when the pious man serves it in truth [^1135]). Ahura Mazda spake forth: Ashem vohû vahi<i>s</i>tem asti. To this Asha, the holy ritual sanctity, one attributes the <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> qualities of ‘good’ and ‘best,’ as one attributes property to an owner; thus this sentence vohû vahi<i>s</i>tem asti is substantiated (at once [^1136]).
 
 2\. U<i>s</i>tâ asti u<i>s</i>tâ ahmâi; by this attribution of blessedness (the praiser) assigns every person (or thing) of a sacred nature to every holy person, and as one usually (?) and regularly (?) [^1137] assigns every person or thing (?) [^1138] that is holy to every holy man.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 CATECHETICAL ADDITION [^1140].
 
-4\. Mazda has made a proclamation. (Question.) Whom did He announce? (Answer.) That holy one who is both heavenly and earthly. (Question.) Of what character is He who has thus announced Him? (Answer.) He is the best, and the one who is exercising sovereign power. (Question.) Of what character is the man whom He announced? (Answer.) <span id="p268">[<sup><small>p. 268</small></sup>]</span> The holy and the best, the one who rules with no capricious tyranny.
+4\. Mazda has made a proclamation. (Question.) Whom did He announce? (Answer.) That holy one who is both heavenly and earthly. (Question.) Of what character is He who has thus announced Him? (Answer.) He is the best, and the one who is exercising sovereign power. (Question.) Of what character is the man whom He announced? (Answer.) <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> The holy and the best, the one who rules with no capricious tyranny.
 
 We sacrifice to the (several) part(s) of the Asha Vahi<i>s</i>ta (prayer). We sacrifice to the heard-recital of the Asha Vahi<i>s</i>ta, to its memorising, its chanting, and its sacrificial use [^1141]!
 

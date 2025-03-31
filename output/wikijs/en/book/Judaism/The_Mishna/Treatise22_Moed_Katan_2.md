@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 ### CHAPTER II.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 4. They must not purchase houses, slaves, or cattle, excepting for the use of the festival, or for the use of the vendor, who otherwise might have nothing to eat. They must not clear away \[remove things\] from one house to another, though this may be done if both houses are in the same court. Things \[which have been put into the hands of a craftsman to be made up or repaired\] must not be brought home from the workshop, [^633] but if he \[the owner\] suspects \[that the things, if left with the workman, may be lost, or that he may exact a second payment\] he may remove them to another court.
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 § 5. They may cover dried figs with straw. R. Jehudah saith, “\[They may\] likewise \[be put\] in layers.”
 

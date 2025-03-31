@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 ### CHAPTER XVIII.
 

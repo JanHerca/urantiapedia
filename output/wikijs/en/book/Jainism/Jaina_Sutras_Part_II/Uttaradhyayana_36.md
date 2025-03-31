@@ -36,7 +36,7 @@ THIRTY-SIXTH LECTURE. ON LIVING BEINGS AND THINGS WITHOUT LIFE [^581].
 
 Now learn from me with attentive minds the division of Living Beings and Things without life [^582], which a monk must know who is to exert himself in self-control. (1)
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 The Living Beings and the Things without life make up this world (Lôka); but the space where only Things without life are found is called the Non-world (Alôka). (2)
 
@@ -46,7 +46,7 @@ A. Things without life.
 
 Things without life are 1. possessing form, 2. formless; the formless things are of ten kinds, those possessing form are of four kinds. (4)
 
-(1) The ten kinds of formless things: 1. Dharma, 2. its divisions, 3. its indivisible parts; 4. Adharma, 5. its divisions, 6. its indivisible parts; 7. space, <span id="p208">[<sup><small>p. 208</small></sup>]</span> 8. its divisions, 9. its indivisible parts, and 10. time [^583]. (5, 6)
+(1) The ten kinds of formless things: 1. Dharma, 2. its divisions, 3. its indivisible parts; 4. Adharma, 5. its divisions, 6. its indivisible parts; 7. space, <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> 8. its divisions, 9. its indivisible parts, and 10. time [^583]. (5, 6)
 
 Dharma and Adharma are co-extensive with the World (Lôka); space fills the World and the Non-world (Alôka); time exists in what is called the place of time [^584]. (7)
 
@@ -60,7 +60,7 @@ Compound things and atoms occur as individual things and apart (or different fro
 
 Subtile things occur all over the world, gross things only in a part of it.
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 I shall now give their fourfold division with regard to time. (12)
 
@@ -80,7 +80,7 @@ Those which develop with regard to taste are of five kinds: 1. bitter, 2. pungen
 
 Those which develop with regard to touch are of eight kinds: 1. hard, 2. soft, 3. heavy, 4. light, 5. cold, 6. hot, 7. smooth, and 8. rough.
 
-<span id="p210">[<sup><small>p. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 In this way the substances have been declared, which develop with regard to touch. (20, 21)
 
@@ -110,7 +110,7 @@ B. Living Beings.
 
 I shall now, in due order, deliver the division of living beings. (48)
 
-Living beings are of two kinds: 1. those still <span id="p211">[<sup><small>p. 211</small></sup>]</span> belonging to the Sa<i>m</i>sâra, and 2. the perfected souls (siddhas). The latter are of many kinds; hear me explain them. (49)
+Living beings are of two kinds: 1. those still <span id="p211"><sup><small>[ p. 211 ]</small></sup></span> belonging to the Sa<i>m</i>sâra, and 2. the perfected souls (siddhas). The latter are of many kinds; hear me explain them. (49)
 
 (1) The perfected souls are those of women, men, hermaphrodites, of orthodox, heterodox, and householders. (50)
 
@@ -126,7 +126,7 @@ From where are the perfected souls debarred? Where do the perfected souls reside
 
 Perfected souls are debarred from the non-world (Alôka); they reside on the top of the world; they leave their bodies here (below), and go there, on reaching perfection. (57)
 
-Twelve Yô<i>g</i>anas above the (Vimâna) Sarvârtha is <span id="p212">[<sup><small>p. 212</small></sup>]</span> the place called Îshatprâgbhâra [^593], which has the form of an umbrella; (there the perfected souls go). (58)
+Twelve Yô<i>g</i>anas above the (Vimâna) Sarvârtha is <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> the place called Îshatprâgbhâra [^593], which has the form of an umbrella; (there the perfected souls go). (58)
 
 It is forty-five hundred thousand Yô<i>g</i>anas long, and as many broad, and it is somewhat more than three times as many in circumference. (59)
 
@@ -142,7 +142,7 @@ There at the top of the world reside the blessed perfected souls, rid of all tra
 
 The dimension of a perfected soul is two-thirds of the height which the individual had in his last existence. (65)
 
-The perfected souls, considered singly, (as individuals) have a beginning but no end; considered <span id="p213">[<sup><small>p. 213</small></sup>]</span> collectively [^597] (as a class) they have neither a beginning nor an end. (66)
+The perfected souls, considered singly, (as individuals) have a beginning but no end; considered <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> collectively [^597] (as a class) they have neither a beginning nor an end. (66)
 
 They have no (visible) form, they consist of Life throughout, they are developed into knowledge and, faith, and they possess paramount happiness which admits of no comparison. (67)
 
@@ -162,7 +162,7 @@ The rough ones are of thirty-six kinds: (73)
 
 Earth, gravel, sand, stones, rocks, rock-salt [^598], iron, copper, tin, lead, silver, gold, and diamond; (74)
 
-Orpiment, vermilion, realgar, Sâsaka [^599], antimony, <span id="p214">[<sup><small>p. 214</small></sup>]</span> coral, Abhrapa<i>t</i>ala, Abhravâluka; these are varieties of gross (Earth-) bodies and kinds of precious stones. (75)
+Orpiment, vermilion, realgar, Sâsaka [^599], antimony, <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> coral, Abhrapa<i>t</i>ala, Abhravâluka; these are varieties of gross (Earth-) bodies and kinds of precious stones. (75)
 
 Hyacinth, natron, Aṅka, crystal, Lôhitâksha, emerald, Masâragalla, Bhu<i>g</i>amô<i>k</i>aka, and sapphire; (76)
 
@@ -178,7 +178,7 @@ With regard to the continuous flow (or development of an earth-body) it is witho
 
 Twenty-two thousand years is the longest duration of the Earth Lives; its shortest is less than a muhûrta. (81)
 
-The longest duration of the body of Earth Lives, if they do not leave that (kind of) body [^602], is an <span id="p215">[<sup><small>p. 215</small></sup>]</span> immeasurable time; the shortest is less than one muhûrta. (82)
+The longest duration of the body of Earth Lives, if they do not leave that (kind of) body [^602], is an <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> immeasurable time; the shortest is less than one muhûrta. (82)
 
 The longest interval between an Earth Life's leaving its body (till its return to it), is an endless time; the shortest less than one Muhûrta. (83)
 
@@ -198,7 +198,7 @@ Seven thousand years is the longest duration of the life of Water Lives, &c. (as
 
 The gross and fully developed plants are of two kinds: either many have one body in common, or each has its own body. (94)
 
-Those who severally have their own body are of <span id="p216">[<sup><small>p. 216</small></sup>]</span> many kinds: trees, shrubby plants [^603], shrubs [^604], big plants [^605], creeping plants [^606], grass [^607]; (95)
+Those who severally have their own body are of <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> many kinds: trees, shrubby plants [^603], shrubs [^604], big plants [^605], creeping plants [^606], grass [^607]; (95)
 
 Palms [^608], plants of knotty stems or stalks [^609], mushrooms [^610], water-plants, annual plants [^611], and herbs [^612]. These are called plants possessing severally their own body. (96)
 
@@ -206,7 +206,7 @@ Those plants of which many have one body in common are of many kinds [^613]: Âl
 
 Harilî, Sirilî, Sassirilî, <i>G</i>âvaî, Kêyakandalî [^616], onion, garlic, plantain-tree, Ku<i>d</i>uvvaya [^617]; (98)
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Lôhi<i>n</i>îhûya, Thîhûya, Tuhaga, Ka<i>n</i>ha [^618], Va<i>g</i><i>g</i>akanda [^619], Sûra<i>n</i>aya [^620]; (99)
 
@@ -228,7 +228,7 @@ The gross and fully developed ones are of many kinds: coal, burning chaff, fire,
 
 Meteors, and lightning, and many other kinds besides.
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 The subtile Fire Lives are but of one kind, as there is no variety. (111)
 
@@ -244,7 +244,7 @@ The subtile Wind Lives are but of one kind, as there is no variety. (120)
 
 The subtile species, &c. (as above 79-84. Substitute Wind Lives for Earth Lives. In verse 123, corresponding to 114, read: ‘the longest duration of the life of Wind Lives is three thousand years;’ the rest as above). (121-126)
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 γ. Movable beings with organic bodies (i.e. animals) are of four kinds: i. those possessing two organs of sense, ii. those with three organs, iii. those with four organs, iv. those with five organs. (127)
 
@@ -258,7 +258,7 @@ These and others are the many kinds of beings with two organs of sense. All of t
 
 With regard to the continuous flow, &c. (as in verse 80). (132)
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 The duration of the life of beings with two organs of sense is twelve years at the utmost; the shortest is less than a muhûrta. (133)
 
@@ -276,7 +276,7 @@ Cochineal, &c. Thus they are of many kinds. All of them live in a part of the wo
 
 141-145 = 132-136. (Substitute ‘beings with three organs of sense.’ The longest duration, &c., is forty-nine days, verse 142 = 133.)
 
-iii. Beings with four organs of sense are of two kinds: subtile and gross ones. Both are either <span id="p221">[<sup><small>p. 221</small></sup>]</span> developed or undeveloped. Learn from me their subdivision. (146)
+iii. Beings with four organs of sense are of two kinds: subtile and gross ones. Both are either <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> developed or undeveloped. Learn from me their subdivision. (146)
 
 Andhiya, Pottiyâ, flies, mosquitoes, bees, moths, Dhiṅka<i>n</i>a and Kaṅka<i>n</i>a; (147)
 
@@ -292,7 +292,7 @@ iv. Beings with five organs of sense are of four kinds: denizens of hell, animal
 
 Paṅkâbha, Dhûmâbha, Tamâ, and Tamatamâ. Thus the seven kinds of denizens of hell have been enumerated. (158)
 
-All the (denizens of hell) live in a part of the <span id="p222">[<sup><small>p. 222</small></sup>]</span> world only; they do not live everywhere, &c. (as in verses 79 and 80). (159, 160)
+All the (denizens of hell) live in a part of the <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> world only; they do not live everywhere, &c. (as in verses 79 and 80). (159, 160)
 
 In the first hell the longest duration of their life is one Sâgarôpamâ; the shortest is ten thousand years. (161)
 
@@ -312,7 +312,7 @@ The length of the life of denizens of hell is also that of their continuance in 
 
 Verses 169, 170 = 83, 84. (Substitute, denizens of hell.)
 
-<i>b</i>. The animals which possess five organs of sense are of two kinds, those which originate by generatio <span id="p223">[<sup><small>p. 223</small></sup>]</span> aequivoca [^640], and those which are born from the womb. (171)
+<i>b</i>. The animals which possess five organs of sense are of two kinds, those which originate by generatio <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> aequivoca [^640], and those which are born from the womb. (171)
 
 Either of them are again of three kinds: 1. aquatic, 2. terrestrial, and 3. aerial animals. Learn from me their subdivision. (172)
 
@@ -336,7 +336,7 @@ The longest duration of the aquatic animals’ continuance in the (same kind of 
 
 (4) Animals having toes with nails, as lions, &c. (180)
 
-The reptiles are of two kinds: 1. those which walk on their arms, as lizards, &c., and 2. those which move on their breast, as snakes, &c. Both are again of many kinds. (181) <span id="p224">[<sup><small>p. 224</small></sup>]</span> 182, 183 = 159, 160.
+The reptiles are of two kinds: 1. those which walk on their arms, as lizards, &c., and 2. those which move on their breast, as snakes, &c. Both are again of many kinds. (181) <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> 182, 183 = 159, 160.
 
 The longest duration of the life of terrestrial animals is three Palyôpamâs; the shortest is less than one muhûrta. (184)
 
@@ -356,7 +356,7 @@ The longest duration (of the aerial animals’ continuance in the same kind of b
 
 <i>c</i>. Men are of two kinds; listen to my description of them: men originating by generatio aequivoca [^647], and men born from the womb. (194)
 
-Those who are born from the womb are of three <span id="p225">[<sup><small>p. 225</small></sup>]</span> kinds: those living in the Karmabhûmi [^648], those living in the Akarmabhûmi, and those living on the minor continents [^649]. (195)
+Those who are born from the womb are of three <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> kinds: those living in the Karmabhûmi [^648], those living in the Akarmabhûmi, and those living on the minor continents [^649]. (195)
 
 They have, in the same order, fifteen [^650], thirty [^651], and twenty-eight subdivisions. These are the numbers handed down. (196)
 
@@ -370,7 +370,7 @@ There are ten kinds of Bhavanavâsins ( = Bhaumêyikas), eight of those who live
 
 1\. The Bhavanavâsins are: the Asura-, Nâga-, Suvar<i>n</i>a-, Vidyut-, Agni-, Dvîpa-, Udadhi-, Vâta-, and Gha<i>n</i>ika-(Kumâras [^652]). (2(15)
 
-2\. The eight kinds of Vyantaras are: Pi<i>s</i>â<i>k</i>as, <span id="p226">[<sup><small>p. 226</small></sup>]</span> Bhûtas, Yakshas, Râkshasas, Kinnaras, Kimpurushas, Mahôragas, and Gandharvas. (206)
+2\. The eight kinds of Vyantaras are: Pi<i>s</i>â<i>k</i>as, <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> Bhûtas, Yakshas, Râkshasas, Kinnaras, Kimpurushas, Mahôragas, and Gandharvas. (206)
 
 3\. The moons, the suns, the Nakshatras, the planets, and the hosts of stars are the fivefold dwellings of the <i>G</i>yôtishkas. (207)
 
@@ -388,7 +388,7 @@ The middle of the middle, the highest of the middle, the lowest of the highest, 
 
 The highest of the highest. These are the Graivêyaka gods.
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 β´. The Vi<i>g</i>ayas, the Vai<i>g</i>ayantas, the <i>G</i>ayantas, the Aparâ<i>g</i>itas (214)
 
@@ -416,7 +416,7 @@ In Brahmalôka Kalpa (<i>a</i>) is ten Sâgarôpamâs, (<i>b</i>) seven. (225)
 
 In Lantaka Kalpa (<i>a</i>) is fourteen Sâgarôpamâs, (<i>b</i>) ten. (226)
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 In Mahâ<i>s</i>ukla Kalpa(<i>a</i>) is seventeen Sâgarôpamâs, (<i>b</i>) fourteen [^657]. (227)
 
@@ -448,7 +448,7 @@ In the eighth (Graivêyika region) (<i>a</i>) is thirty Sâgarôpamâs, (<i>b</i
 
 In the ninth (Graivêyika region) (<i>a</i>) is thirty-one Sâgarôpamâs, (<i>b</i>) thirty. (241)
 
-In the four heavens (of the Anuttara gods), beginning <span id="p229">[<sup><small>p. 229</small></sup>]</span> with Vi<i>g</i>aya [^658], (<i>a</i>) is thirty-three Sâgarôpamâs, (<i>b</i>) thirty-one. (242)
+In the four heavens (of the Anuttara gods), beginning <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> with Vi<i>g</i>aya [^658], (<i>a</i>) is thirty-three Sâgarôpamâs, (<i>b</i>) thirty-one. (242)
 
 In the great Vimâna Sarvârtha(siddha) there is no difference between the longest and shortest duration of life, but it is always thirty-three Sâgarôpamâs. (243)
 
@@ -462,7 +462,7 @@ After having lived as a <i>S</i>rama<i>n</i>a many years, a sage should mortify 
 
 The longest duration of the mortification is twelve years; the middle, one year; and the shortest, six months. (250)
 
-<span id="p230">[<sup><small>p. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 In the first four years he should abstain from dressed food [^662], in the second four years he should keep various fasts. (251)
 
@@ -478,7 +478,7 @@ Those souls who cherish heretical opinions, commit sins, and kill living beings,
 
 Those souls who cherish orthodox opinions, do not commit sins, and are enveloped in white Lê<i>s</i>yâ, will reach Bôdhi at the time of death. (257)
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Those souls who cherish heretical opinions, commit sins, and are enveloped in black Lê<i>s</i>yâ, will not reach Bôdhi at the time of death. (258)
 
@@ -496,7 +496,7 @@ The deceitful man who reviles the sacred lore, the Kêvalins, the teacher of the
 
 He who is continuously angry, and who puts his faith in prognostics, realises the Asuratva-Bhâvanâ. (265)
 
-Those who use weapons, eat poison, throw themselves <span id="p232">[<sup><small>p. 232</small></sup>]</span> into fire or water, and use things not prescribed by the rules of good conduct, are liable to be born and to die again and again. (Such persons realise the Môha-Bhâvanâ.) (266)
+Those who use weapons, eat poison, throw themselves <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> into fire or water, and use things not prescribed by the rules of good conduct, are liable to be born and to die again and again. (Such persons realise the Môha-Bhâvanâ.) (266)
 
 The enlightened and liberated <i>G</i><i>ñ</i>ât<i>ri</i>(putra) has thus delivered Thirty-six Lectures of the Uttarâdhyayana [^668], which the pious [^669] approve of. (267)
 

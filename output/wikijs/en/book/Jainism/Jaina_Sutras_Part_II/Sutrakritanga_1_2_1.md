@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 SECOND LECTURE [^727], CALLED THE DESTRUCTION OF KARMAN.
 
@@ -44,7 +44,7 @@ Acquire perfect knowledge of the Law! why do you not study it? It is difficult t
 
 See, young and old men, even children in the mother's womb die. As a hawk catches a quail, so (life) will end when its time is spent [^728]. (2)
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 (A man) may suffer for the sake of his parents; he will not easily obtain happiness after this life. A pious man should consider these causes of danger and cease to act. (3)
 
@@ -62,7 +62,7 @@ How will you understand what is near you and what is beyond [^730]? In the meanw
 
 He who walks about naked and lean, he who eats only once after a month, if he is filled with deceit, will be born an endless number of times. (9)
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 Man, cease from sins! For the life of men will come to an end [^731]. Men who are drowned (in lust, as it were), and addicted to pleasure will, for want of control, be deluded [^732]. (10)
 
@@ -72,7 +72,7 @@ Heroes (of faith) who desist (from sins) and exert themselves aright, who subdue
 
 It is not myself alone who suffers, all creatures in the world suffer; this a wise man [^734] should consider, and he should patiently bear (such calamities) as befall him, without giving way to his passions. (13)
 
-As a wall covered with a plastering (of dried cowdung) [^735] is by a shock made thin, so (a monk) should make his body lean by fasting, &c. He should <span id="p252">[<sup><small>p. 252</small></sup>]</span> abstain from slaughter of living beings. This is the Law proclaimed by the Sage. (14)
+As a wall covered with a plastering (of dried cowdung) [^735] is by a shock made thin, so (a monk) should make his body lean by fasting, &c. He should <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> abstain from slaughter of living beings. This is the Law proclaimed by the Sage. (14)
 
 As a bird covered with dust removes the grey powder by shaking itself, so a worthy and austere Br√¢hma<i>n</i>a [^736], who does penance, annihilates his Karman. (15)
 
@@ -86,7 +86,7 @@ His father and mother, his children and wife who claim him, will admonish him: ‚
 
 Some people are (foolishly) attached to others, and are thereby deluded; the unrighteous make them adopt unrighteousness, and they exult in their wickedness. (20)
 
-Therefore a worthy and wise man should be <span id="p253">[<sup><small>p. 253</small></sup>]</span> careful, ceasing from sin and being entirely happy. The virtuous heroes of faith (have chosen) the great road, the right and certain path to perfection. (21)
+Therefore a worthy and wise man should be <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> careful, ceasing from sin and being entirely happy. The virtuous heroes of faith (have chosen) the great road, the right and certain path to perfection. (21)
 
 He who has entered the road leading to the destruction (of Karman) [^737], who controls his mind, speech, and body, who has given up his possessions and relations and all undertakings, should walk about subduing his senses. (22)
 

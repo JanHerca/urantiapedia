@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:54:6Z
 
 TENTH LECTURE [^140]. THE LEAF OF THE TREE.
 
-As the fallow leaf of the tree falls to the ground, when its days are gone, even so the life of men (will <span id="p42">[<sup><small>p. 42</small></sup>]</span> come to its close); Gautama, be careful all the while! (1)
+As the fallow leaf of the tree falls to the ground, when its days are gone, even so the life of men (will <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> come to its close); Gautama, be careful all the while! (1)
 
 As a dew-drop dangling on the top of a blade of Ku<i>s</i>a-grass lasts but a short time, even so the life of men; Gautama, be careful all the while! (2)
 
@@ -52,7 +52,7 @@ When the soul has once got into a wind-body, &c. (all as in verse 5). (8)
 
 When the soul has once got into a vegetable-body, it remains long in that state, for an endless time, after which its lot is not much bettered [^143]; Gautama, &c. (9)
 
-When the soul has once got into a body of a Dvîndriya (i.e. a being possessing two organs of <span id="p43">[<sup><small>p. 43</small></sup>]</span> sense), it may remain in the same state as long as a period called sa<i>m</i>khyêya [^144]; Gautama, &c. (10)
+When the soul has once got into a body of a Dvîndriya (i.e. a being possessing two organs of <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> sense), it may remain in the same state as long as a period called sa<i>m</i>khyêya [^144]; Gautama, &c. (10)
 
 When the soul has once got into a body of a Trîndriya (i.e. a being possessing three organs of sense), it, &c. (all as in verse 10). (11)
 
@@ -72,7 +72,7 @@ Though he may possess all five organs of sense, still it is a rare chance to be 
 
 Though he may have been instructed in the right Law, still it is a rare chance to believe in it; for many people are heretics; Gautama, &c. (19)
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Though one believe in the Law, he will rarely practise it; for people are engrossed by pleasures; Gautama, &c. (20)
 
@@ -96,7 +96,7 @@ Give up your wealth and your wife; you have entered the state of the houseless; 
 
 Leave your friends and relations, the large fortune you have amassed; do not desire them a second time; Gautama, &c. (30)
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 There is now no <i>G</i>ina [^146], but there is a highly esteemed guide to show the way; now being on the right path, Gautama, be careful all the while! (31)
 
@@ -110,7 +110,7 @@ Going through the same religious practices as perfected saints [^147], you will 
 
 The enlightened [^148] and liberated monk should control himself, whether he be in a village or a town, and he should preach to all [^149] the road of peace; Gautama, &c. (36)
 
-Having heard the Buddha's [^150] well-delivered <span id="p46">[<sup><small>p. 46</small></sup>]</span> sermon, adorned by illustrations, Gautama cut off love and hatred and reached perfection. (37) Thus I say.
+Having heard the Buddha's [^150] well-delivered <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> sermon, adorned by illustrations, Gautama cut off love and hatred and reached perfection. (37) Thus I say.
 
 
 

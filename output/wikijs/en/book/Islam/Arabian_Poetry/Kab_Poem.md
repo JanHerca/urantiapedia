@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 BEATRICE \[Su'ād\] hath departed. Therefore was my heart that day distracted, raving after her, irredeemably enchained.
 
@@ -50,7 +50,7 @@ BEATRICE \[Su'ād\] hath departed. Therefore was my heart that day distracted, r
 
 8\. She remains not constant to any state she may have assumed, even as the demon of the wilds varies in its costume!
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 9\. She does not hold to any promise she has spoken, save as sieves hold water!
 
@@ -110,7 +110,7 @@ BEATRICE \[Su'ād\] hath departed. Therefore was my heart that day distracted, r
 
 37\. “Every son of a female, long though his safety may be, is one day borne upon a ridged implement \[a bier with a ridged lid\].”
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 38\. I have been informed that the Apostle of God hath threatened me; but pardon is hoped for from the Apostle of God.
 

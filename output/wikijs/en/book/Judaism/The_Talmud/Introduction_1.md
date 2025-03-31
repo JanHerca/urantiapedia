@@ -32,13 +32,13 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## INTRODUCTION. CHAPTER I.
 
 Compilation of the Talmud—Rabbi Judah the Holy—Mishna—Gemara—General Survey of the Six Orders or Volumes of the Mishna.
 
-The Talmud (teaching) comprises the Mishna and the Gemara. The Mishna (“learning” or “second law”) was, according to Jewish tradition, delivered to Moses on Mount Sinai. “Rabbi Levi, the son of Chama, says, Rabbi Simon, the son of Lakish, says, what is that which is written, ‘I will give thee tables of stone, and a law and commandments which I have written, that thou mayest teach them’? [^0] The Tables are the ten commandments; the Law is the written law; and the commandment is the Mishna; ‘which I have written’ means the prophets and sacred writings; ‘that thou mayest teach them’ means the Gemara. It teaches us that they were all given to Moses from Mount Sinai.” From Moses the Mishna was transmitted by oral tradition through forty “Receivers,” until the time of Rabbi Judah the Holy. These Receivers were qualified by ordination to hand it on from generation to generation. Abarbanel and Maimonides disagree as to the names of these Receivers. While the temple still stood as a centre of unity to the nation, it was considered unlawful to reduce these traditions to writing. But when the Temple was burned, and the Jews were dispersed amongst other peoples, it was considered politic to form them into a written code, which should serve as a bond of union, and keep alive the spirit of patriotism. The Jewish leaders saw the effect of Constitutions <span id="p2">[<sup><small>p. 2</small></sup>]</span> and Pandects in consolidating nations—the advantage of written laws over arbitrary decisions. Numberless precedents of case law, answering to our common law, were already recorded: and the teachings of the Hebrew jurisconsults, or “Responsa prudentium,” which were held to be binding on the people, had been preserved from former ages. All these traditions Rabbi Judah the Holy undertook to reduce into one digest. And this laborious work he completed about A.D. 190, or more than a century after the destruction of Jerusalem by Titus. Rabbi Judah was born on the day that Rabbi Akibah died. Solomon is said to have foretold the event: “One sun ariseth, and one sun goeth down.” Akibah was the setting and Judah the rising sun. The Mishna of Rabbi Judah, afterwards revised by Abba Areka in Sura, is the text of the Babylon Talmud. The commentaries written on this text by various Rabbis in the neighbourhood of Babylon, until the close of the fifth century, are called the Gemara (completion); and are published in twelve folio volumes, called the Babylon Talmud—the Talmud most esteemed by the Jews. The Jerusalem Talmud contains commentaries written partly by Rabbis in Jamnia and partly in Tiberias, where they were completed by Rabbi Jochanan in the beginning of the fourth century. As now published it has only four out of the six orders or books of the Mishna, with the treatise Niddah from the sixth. In the time of Maimonides it contained five orders. On twenty-six treatises it has no Gemara, though in the treatise on shekels the Gemara of Jerusalem is used for the Babylon Talmud. The six books of the Mishna are subdivided into sixty-three treatises, in the following manner:—
+The Talmud (teaching) comprises the Mishna and the Gemara. The Mishna (“learning” or “second law”) was, according to Jewish tradition, delivered to Moses on Mount Sinai. “Rabbi Levi, the son of Chama, says, Rabbi Simon, the son of Lakish, says, what is that which is written, ‘I will give thee tables of stone, and a law and commandments which I have written, that thou mayest teach them’? [^0] The Tables are the ten commandments; the Law is the written law; and the commandment is the Mishna; ‘which I have written’ means the prophets and sacred writings; ‘that thou mayest teach them’ means the Gemara. It teaches us that they were all given to Moses from Mount Sinai.” From Moses the Mishna was transmitted by oral tradition through forty “Receivers,” until the time of Rabbi Judah the Holy. These Receivers were qualified by ordination to hand it on from generation to generation. Abarbanel and Maimonides disagree as to the names of these Receivers. While the temple still stood as a centre of unity to the nation, it was considered unlawful to reduce these traditions to writing. But when the Temple was burned, and the Jews were dispersed amongst other peoples, it was considered politic to form them into a written code, which should serve as a bond of union, and keep alive the spirit of patriotism. The Jewish leaders saw the effect of Constitutions <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> and Pandects in consolidating nations—the advantage of written laws over arbitrary decisions. Numberless precedents of case law, answering to our common law, were already recorded: and the teachings of the Hebrew jurisconsults, or “Responsa prudentium,” which were held to be binding on the people, had been preserved from former ages. All these traditions Rabbi Judah the Holy undertook to reduce into one digest. And this laborious work he completed about A.D. 190, or more than a century after the destruction of Jerusalem by Titus. Rabbi Judah was born on the day that Rabbi Akibah died. Solomon is said to have foretold the event: “One sun ariseth, and one sun goeth down.” Akibah was the setting and Judah the rising sun. The Mishna of Rabbi Judah, afterwards revised by Abba Areka in Sura, is the text of the Babylon Talmud. The commentaries written on this text by various Rabbis in the neighbourhood of Babylon, until the close of the fifth century, are called the Gemara (completion); and are published in twelve folio volumes, called the Babylon Talmud—the Talmud most esteemed by the Jews. The Jerusalem Talmud contains commentaries written partly by Rabbis in Jamnia and partly in Tiberias, where they were completed by Rabbi Jochanan in the beginning of the fourth century. As now published it has only four out of the six orders or books of the Mishna, with the treatise Niddah from the sixth. In the time of Maimonides it contained five orders. On twenty-six treatises it has no Gemara, though in the treatise on shekels the Gemara of Jerusalem is used for the Babylon Talmud. The six books of the Mishna are subdivided into sixty-three treatises, in the following manner:—
 
 ### BOOK I.
 
@@ -46,7 +46,7 @@ This book, called Order of Seeds, contains the following treatises:—
 
 1\. _Blessings_, together with prayers and thanksgivings, with the times and places in which they are to be used.
 
-2\. _A Corner of a Field_ (Lev. xxiii. 22; Deut. xxiv. 19) <span id="p3">[<sup><small>p. 3</small></sup>]</span> treats of the corners of the field to be left for the poor to glean them—the forgotten sheaves, olives, and grapes—and of giving alms, etc.
+2\. _A Corner of a Field_ (Lev. xxiii. 22; Deut. xxiv. 19) <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> treats of the corners of the field to be left for the poor to glean them—the forgotten sheaves, olives, and grapes—and of giving alms, etc.
 
 3\. _Doubtful_ treats of the doubt about the tithes being paid, as the Jews were not allowed to use anything without its being first tithed.
 
@@ -66,7 +66,7 @@ This book, called Order of Seeds, contains the following treatises:—
 
 11\. _First Fruits_ (Exod. xxiii. 19; Deut. xxvi. 1) treats of what fruits were to be offered in the Temple, and in what manner; also of the baskets in which they were to be carried.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ### BOOK II. THE ORDER OF THE FESTIVALS.
 
@@ -90,7 +90,7 @@ This book, called Order of Seeds, contains the following treatises:—
 
 10\. _The Roll_ treats of the feast of Purim, and gives instructions how and in what manner the Book of Esther and other Lessons are to be read. The Gemara directs Jews to get so drunk on this feast, that they cannot discern the difference between “Blessed be Mordecai and cursed be Haman,” and “Cursed be Mordecai and blessed be Haman.”
 
-11\. _Minor Feasts_ treats of the works, that may and that may not be lawfully done on the 2d, 3d, 4th, 5th, and 6th days, when the first and seventh are holy; these intermediate days being lesser festivals. <span id="p5">[<sup><small>p. 5</small></sup>]</span> 12\. _Sacrifices on Festivals_ treats of the three great festivals, when all the males were obliged to appear before the Lord, and of the sacrifices which they were to bring. It also lays down rules for the dissolution of vows, which it says “are like mountains hanging on a hair, for the text is slender and the constitutions many.”
+11\. _Minor Feasts_ treats of the works, that may and that may not be lawfully done on the 2d, 3d, 4th, 5th, and 6th days, when the first and seventh are holy; these intermediate days being lesser festivals. <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> 12\. _Sacrifices on Festivals_ treats of the three great festivals, when all the males were obliged to appear before the Lord, and of the sacrifices which they were to bring. It also lays down rules for the dissolution of vows, which it says “are like mountains hanging on a hair, for the text is slender and the constitutions many.”
 
 ### BOOK III. ON WOMEN.
 
@@ -106,7 +106,7 @@ This book, called Order of Seeds, contains the following treatises:—
 
 6\. _Divorces_ treats of the laws relating to divorces, also the formalities to be observed both before and after they are given. A man may divorce his wife if she spoil his broth, or if he find another more handsome.
 
-7\. _Betrothing_ treats of the laws of espousals and some other previous rites of marriage. It commands sons to be taught suitable trades. It states that all ass-drivers are <span id="p6">[<sup><small>p. 6</small></sup>]</span> wicked, camel-drivers are honest, sailors are pious, physicians are destined for hell, and butchers are company for Amalek.
+7\. _Betrothing_ treats of the laws of espousals and some other previous rites of marriage. It commands sons to be taught suitable trades. It states that all ass-drivers are <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> wicked, camel-drivers are honest, sailors are pious, physicians are destined for hell, and butchers are company for Amalek.
 
 ### BOOK IV. ON DAMAGES.
 
@@ -122,7 +122,7 @@ This book, called Order of Seeds, contains the following treatises:—
 
 6\. _Oaths_ explains the laws for administering oaths; when an oath is to be admitted between contending parties who are qualified to take them. In Hilchoth Eduth. ix. 1 it is taught that ten sorts of persons are disqualified—women, slaves, children, idiots, deaf persons, the blind, the wicked, the despised, relations, and those interested in their evidence.
 
-7\. _Evidences_ are a collection of many important decisions gathered from the testimonies of distinguished Rabbis. It is observable that the decisions of the School of Shammai are more rigorous than those of the School of Hillel, from whence it is inferred that the former adhered more closely to Scripture, the latter to tradition. The former were the Scribes, and are now represented by the Karaites, who reject the Talmud. <span id="p7">[<sup><small>p. 7</small></sup>]</span> 8\. _Idolatry_, or the worship of stars and meteors, treats of the way to avoid this grievous sin.
+7\. _Evidences_ are a collection of many important decisions gathered from the testimonies of distinguished Rabbis. It is observable that the decisions of the School of Shammai are more rigorous than those of the School of Hillel, from whence it is inferred that the former adhered more closely to Scripture, the latter to tradition. The former were the Scribes, and are now represented by the Karaites, who reject the Talmud. <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> 8\. _Idolatry_, or the worship of stars and meteors, treats of the way to avoid this grievous sin.
 
 9\. _The Fathers_ contains a history of those who handed down the Oral Law, also many maxims and proverbs.
 
@@ -144,7 +144,7 @@ This book, called Order of Seeds, contains the following treatises:—
 
 7\. _Cutting off_ treats of offenders being cut off from the Lord.
 
-8\. _Trespass_ (Num. v. 6, 8) treats of things partaking of the nature of sacrilege. It asserts that if a man take away a consecrated stone or beam he commits no trespass. If he give it to his companion he commits a trespass, but his companion commits none. If he build it into his house he commits no trespass till he lives in the house long enough to gain the value of an half-farthing. If he take away a consecrated half-farthing he commits no trespass. If he <span id="p8">[<sup><small>p. 8</small></sup>]</span> give it to his companion he commits a trespass, but his companion commits none. If he give it to a bath-keeper he commits a trespass though he does not bathe, because the bath-keeper says to him, “See, the bath is open; go in and bathe.”
+8\. _Trespass_ (Num. v. 6, 8) treats of things partaking of the nature of sacrilege. It asserts that if a man take away a consecrated stone or beam he commits no trespass. If he give it to his companion he commits a trespass, but his companion commits none. If he build it into his house he commits no trespass till he lives in the house long enough to gain the value of an half-farthing. If he take away a consecrated half-farthing he commits no trespass. If he <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> give it to his companion he commits a trespass, but his companion commits none. If he give it to a bath-keeper he commits a trespass though he does not bathe, because the bath-keeper says to him, “See, the bath is open; go in and bathe.”
 
 9\. _The Daily Sacrifice_ treats of the morning and evening offerings.
 
@@ -174,7 +174,7 @@ This book, called Order of Seeds, contains the following treatises:—
 
 10\. _Baptism_ on the day of uncleanness (Lev. xxii. 6).
 
-11\. _Hands_ treats of the washing of hands before eating bread, though dry fruits are allowed to be eaten without such washing. <span id="p9">[<sup><small>p. 9</small></sup>]</span> 12\. _Stalks of Fruit which convey Uncleanness_ treats of fruits growing out of the earth, which have a stalk and no husk. They can be polluted and can pollute, but may not be compounded with anything that was unclean before. If they have neither stalks nor husks they neither can be polluted nor can they pollute. It also treats of the hair and wool that grows on some fruits, and the beards of barley, etc.
+11\. _Hands_ treats of the washing of hands before eating bread, though dry fruits are allowed to be eaten without such washing. <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> 12\. _Stalks of Fruit which convey Uncleanness_ treats of fruits growing out of the earth, which have a stalk and no husk. They can be polluted and can pollute, but may not be compounded with anything that was unclean before. If they have neither stalks nor husks they neither can be polluted nor can they pollute. It also treats of the hair and wool that grows on some fruits, and the beards of barley, etc.
 
 
 

@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 1. A ‏לולב‎ \[palm-branch\] which has been acquired by theft, or which is withered, is not valid. One which comes from a grove [^375] \[devoted to idolatry\], or from a rejected town [^376] \[that has been enticed to idolatry\], is not valid. If the point has been broken off, or the leaves torn off, it is not valid: if they are only dissevered, it is valid. R. Jehudah saith, “It must be tied together at the top.” A loolab from the Iron Mount [^377] \[is valid\]. A loolab that measures three hands \[in length\] sufficient to shake it by, is valid.
 
-§ 2. A myrtle-bough which has been acquired by theft, or which is withered, is not valid. One which comes from a grove, or from a rejected town, is not valid. If the point has been broken off, or <span id="p135">[<sup><small>p. 135</small></sup>]</span> the leaves torn off, or if one has more berries on it than leaves, it is not valid: if they \[the number of berries\] have been lessened, it becomes valid; but this must not be done on the festival.
+§ 2. A myrtle-bough which has been acquired by theft, or which is withered, is not valid. One which comes from a grove, or from a rejected town, is not valid. If the point has been broken off, or <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> the leaves torn off, or if one has more berries on it than leaves, it is not valid: if they \[the number of berries\] have been lessened, it becomes valid; but this must not be done on the festival.
 
 § 3. A willow of the brook, which has been acquired by theft, or which is withered, is not valid. One which comes from a grove, or from a rejected town, is not valid. If the point has been broken off, or the leaves torn off, or if it be a ‏צפצפה‎, [^378] it is not valid. One that is faded, or from which some of the leaves have dropped off, or which has grown on dry ground \[not near a brook\], is valid.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 5. A citron which has been acquired by theft, or which is withered, is not valid. One that comes from a grove, or from a rejected town, is not valid. One \[taken\] off a tree which is not circumcised, [^379] is not valid; nor \[one taken\] from heave-offering [^380] that is unclean. From clean heave-offering man is not to take a citron; but if he leas taken one, it is valid. One \[taken\] from _Demai_, [^381] Beth Shammai declare not valid, but Beth Hillel declare it valid. Man is not to take a citron from second tithe in Jerusalem, but if he has taken one, it is valid.
 
-§ 6. If one stain [^382] spread over the greater portion of the citron, if it has lost its crown, or the fine rind thereof has been peeled off, or if it be split, or perforated \[or not entire\]; if ever so little thereof be wanting, it is not valid. If the stain be spread over the smaller portion of the citron, if it has lost its stalk, or if that be perforated \[but the citron itself is entire\], so that no part thereof, however <span id="p136">[<sup><small>p. 136</small></sup>]</span> small, be wanting, the citron is valid; a dark coloured one is not valid. A leek-green citron R. Meir pronounces valid: but R. Jehudah declares it not valid.
+§ 6. If one stain [^382] spread over the greater portion of the citron, if it has lost its crown, or the fine rind thereof has been peeled off, or if it be split, or perforated \[or not entire\]; if ever so little thereof be wanting, it is not valid. If the stain be spread over the smaller portion of the citron, if it has lost its stalk, or if that be perforated \[but the citron itself is entire\], so that no part thereof, however <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> small, be wanting, the citron is valid; a dark coloured one is not valid. A leek-green citron R. Meir pronounces valid: but R. Jehudah declares it not valid.
 
 § 7. \[Respecting\] the \[minimum\] legal size of a small citron, R. Meir saith, “\[It must be\] like a nut.” R. Jehudah saith, “like an egg; and of a large citron \[it must be such\] that a man can hold two in one hand.” Such is the dictum of R. Jehudah: but R. Jose saith, “Even though \[he must use\] two hands to one citron \[it is of legal size and valid\].”
 
@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 10. If the hallel [^386] be read to a man by a bondman, or a woman, or a minor, he must repeat after them \[word for word\] what they read; [^387] but it is a disgrace to him. [^388] If a grown-up person [^389] read it \[the hallel\] to him, he only repeats after him \[responds\] Hallelujah.
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 § 11. At a place where it is the custom to repeat \[^390] verses twice\], a man is to repeat \[them\]. Where it is the custom simply \[to recite them once\] a man is simply \[to recite them once\]. Where it is the custom to say a benediction after the loolab, a man is to say a benediction. In every case, according to the custom of the country, \[a man must conform thereto\]. If a person purchase a loolab from his neighbour during the seventh \[Sabbatical year\], he \[the vendor\], is to give him a citron as a gift \[in the bargain\]; for it is not permitted to buy a citron during the seventh \[Sabbatical year\].
 

@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:54:6Z
 
 THIRTEENTH LECTURE. KITRA AND SAMBHÛTA [^169].
 
-Being contemptuously treated for the sake of his birth (as a <i>K</i>â<i>n</i><i>d</i>âla) Sambhûta took, in Hastinâpura, <span id="p57">[<sup><small>p. 57</small></sup>]</span> the sinful resolution (to become a universal monarch in some later birth); descending from the heavenly region Padmagulma, he was born of <i>K</i>ulanî in Kâmpilya as Brahmadatta; <i>K</i>itra, however, was born in the town Purimatâla in the great family of a merchant; when he had heard the Law, he entered the order. (1, 2)
+Being contemptuously treated for the sake of his birth (as a <i>K</i>â<i>n</i><i>d</i>âla) Sambhûta took, in Hastinâpura, <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> the sinful resolution (to become a universal monarch in some later birth); descending from the heavenly region Padmagulma, he was born of <i>K</i>ulanî in Kâmpilya as Brahmadatta; <i>K</i>itra, however, was born in the town Purimatâla in the great family of a merchant; when he had heard the Law, he entered the order. (1, 2)
 
 In the town Kâmpilya, both Sambhûta and <i>K</i>itra (as they were called in a former birth) met again and told each other the reward they had realised for their good and bad actions. (3)
 
@@ -48,7 +48,7 @@ We were brothers once, kind to each other, loving each other, wishing well to ea
 
 “Karman is produced by sinful thoughts, and you have entertained them, O king; it is by the influence of this Karman that we were separated.” (8)
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ‘I had done actions derived from truth and purity, and now I enjoy their effect; is this also true in your case, <i>K</i>itra?’ (9)
 
@@ -64,7 +64,7 @@ We were brothers once, kind to each other, loving each other, wishing well to ea
 
 As the virtuous <i>K</i>itra, for old friendship's sake, loved the king who was attached to sensual pleasures, and as he had at heart his welfare, he spoke to him the following words: (is)
 
-“All singing is but prattle, all dancing is but <span id="p59">[<sup><small>p. 59</small></sup>]</span> mocking, all ornaments are but a burden, all pleasures produce but pains. (16)
+“All singing is but prattle, all dancing is but <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> mocking, all ornaments are but a burden, all pleasures produce but pains. (16)
 
 “O king, pleasures which the ignorant like, but which produce pains, do not delight pious monks who care not for pleasure, but are intent on the virtues of right conduct. (17)
 
@@ -80,7 +80,7 @@ As the virtuous <i>K</i>itra, for old friendship's sake, loved the king who was 
 
 “Neither his kinsmen, nor his friends, nor his sons, nor his relations will share his suffering, he alone has to bear it; for the Karman follows the doer. (23)
 
-“Leaving behind bipeds and quadrupeds, his fields, his house, his wealth, his corn, and everything; <span id="p60">[<sup><small>p. 60</small></sup>]</span> against his will, and accompanied only by his Karman [^172], he enters a new existence, either a good or a bad one. (24)
+“Leaving behind bipeds and quadrupeds, his fields, his house, his wealth, his corn, and everything; <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> against his will, and accompanied only by his Karman [^172], he enters a new existence, either a good or a bad one. (24)
 
 “When they have burned with fire on the funeral pile his forlorn, helpless corpse, his wife and sons and kinsfolk will choose another man to provide for them. (25)
 
@@ -92,7 +92,7 @@ As the virtuous <i>K</i>itra, for old friendship's sake, loved the king who was 
 
 And since I did not repent of it, this has come of it, that I still long for sensual pleasures, though I know the Law. (29)
 
-‘As an elephant, sinking down in a quagmire, <span id="p61">[<sup><small>p. 61</small></sup>]</span> sees the raised ground but does not get to the shore, so do we who long for sensual pleasures, not follow the path of monks. (30)
+‘As an elephant, sinking down in a quagmire, <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> sees the raised ground but does not get to the shore, so do we who long for sensual pleasures, not follow the path of monks. (30)
 
 ‘Time elapses and quickly pass the days; the pleasures of men are not permanent; they come to a man and leave him just as a bird leaves a tree void of fruit.’ (31)
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 **CHAPTER VII.**
 
@@ -50,7 +50,7 @@ Jelāl jumped up from his seat, ran to his son, took the child to his bosom, kis
 
 ## 2.
 
-Sultan Veled's elder brother, ‘Alā’u-’d-Dīn, was killed in the tumult for which the police authorities of Qonya put to death the Sheykh Shemsu-’d-Dīn of Tebrīz. Sultan Veled ruled the dervish community, in room of his father <span id="p123">[<sup><small>p. 123</small></sup>]</span> (after the death of Husāmu-’d-Dīn), for many years (from a.h. 683 to 712, being twenty-nine lunar years). He composed three volumes of poetry in couplets, like the Mesnevī (hence styled _Mesneviyāt_, Mesnevian Poems), and a volume (_Dīwān_) of odes in the Arabian style, arranged in the alphabetical order of their rhymes.
+Sultan Veled's elder brother, ‘Alā’u-’d-Dīn, was killed in the tumult for which the police authorities of Qonya put to death the Sheykh Shemsu-’d-Dīn of Tebrīz. Sultan Veled ruled the dervish community, in room of his father <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> (after the death of Husāmu-’d-Dīn), for many years (from a.h. 683 to 712, being twenty-nine lunar years). He composed three volumes of poetry in couplets, like the Mesnevī (hence styled _Mesneviyāt_, Mesnevian Poems), and a volume (_Dīwān_) of odes in the Arabian style, arranged in the alphabetical order of their rhymes.
 
 ## 3.
 
@@ -66,7 +66,7 @@ One day a great man asked Sultan Veled whether God ever speaks to His servant—
 
 This inquirer had frequently had the idea to send an offering to Sultan Veled; but had hesitated between a gift of money and one of Indian muslins.
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Sultan Veled answered his inquiry thus: “God does certainly speak to His servants. And as to the method by which He addresses then, I will relate to thee an anecdote.”
 
@@ -84,7 +84,7 @@ Sultan Veled answered his inquiry thus: “God does certainly speak to His serva
 
 “Now,” added Sultan Veled, “I say unto thee, O grandee, do thou also hearken unto the words of God. Give the Indian handkerchiefs, and distribute 'also the money. When thou shalt have hearkened to the words of God, He will listen also to that which thou mayest say unto Him. All thou mayest ask of Him, God will give thee; and whatsoever thou seekest of Him, thou shalt find.”
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Forthwith that grandee became a sincere convert and disciple. Similar miraculous works of Sultan Veled are beyond all count.
 

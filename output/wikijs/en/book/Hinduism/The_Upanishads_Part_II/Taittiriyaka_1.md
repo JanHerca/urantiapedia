@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span> p. 44 p. 45
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span> p. 44 p. 45
 
 TAITTIRÎYAKA-UPANISHAD.
 
@@ -47,7 +47,7 @@ Adoration to Brahman! Adoration to thee, O Vâyu (air)! Thou indeed art the visi
 (1-5) [^198] May it protect me! May it protect the teacher! yes, may it protect me, and may it protect the teacher! Om! Peace! peace! peace!
 
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 ## SECOND ANUVÂKA.
 
@@ -70,7 +70,7 @@ Next, with regard to knowledge. The teacher is the former element,
 
 The pupil the latter, knowledge their union. That union takes place through the recitation of the Veda. So much with regard to knowledge.
 
-Next, with regard to offspring. The mother is <span id="p47">[<sup><small>p. 47</small></sup>]</span> the former element, the father the latter, offspring their union. That union takes place through procreation. So much with regard to offspring.
+Next, with regard to offspring. The mother is <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> the former element, the father the latter, offspring their union. That union takes place through procreation. So much with regard to offspring.
 
 4\. Next, with regard to the self (body). The lower jaw is the former element, the upper jaw the latter, speech their union. That union takes place through speech. So much with regard to the Self. These are the great Sa<i>m</i>hitâs. He who knows these Sa<i>m</i>hitâs (unions), as here explained, becomes united with offspring, cattle, Vedic light, food, and with the heavenly world.
 
@@ -83,7 +83,7 @@ May my body be able, my tongue sweet, may I hear much with my ears! Thou (Om) ar
 
 She (<i>S</i>rî, happiness) brings near and spreads,
 
-2\. And makes, without delay, garments for herself, cows, food, and drink at all times; therefore bring that <i>S</i>rî (happiness) hither to me, the woolly, with <span id="p48">[<sup><small>p. 48</small></sup>]</span> her cattle [1](Taittiriyaka_1#fn203)! Svâhâ [2](Taittiriyaka_1#fn204)! May the Brahman-students come to me, Svâhâ! May they come from all sides, Svâhâ! May they come forth to me, Svâhâ! May they practise restraint, Svâhâ! May they enjoy peace, Svâhâ!
+2\. And makes, without delay, garments for herself, cows, food, and drink at all times; therefore bring that <i>S</i>rî (happiness) hither to me, the woolly, with <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> her cattle [1](Taittiriyaka_1#fn203)! Svâhâ [2](Taittiriyaka_1#fn204)! May the Brahman-students come to me, Svâhâ! May they come from all sides, Svâhâ! May they come forth to me, Svâhâ! May they practise restraint, Svâhâ! May they enjoy peace, Svâhâ!
 
 3\. May I be a glory among men, Svâhâ! May I be better than the richest, Svâhâ! May I enter into thee, O treasure (Om), Svâhâ! Thou, O treasure [3](Taittiriyaka_1#fn205), enter into me, Svâhâ! In thee, consisting of a thousand branches, in thee, O treasure, I am cleansed, Svâhâ! As water runs downward, as the months go to the year, so, O preserver of the world, may Brahman-students always come to me from all sides, Svâhâ!
 
@@ -98,7 +98,7 @@ Bhû is this world, Bhuvas is the sky, Suvas is the other world.
 
 2\. Mahas is the sun. All the worlds are increased by the sun. Bhû is Agni (fire), Bhuvas is Vâyu (air), Suvas is Âditya (sun). Mahas is the moon. All the heavenly lights are increased by the moon.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Bhû is the <i>Ri</i><i>k</i>\-verses, Bhuvas is the Sâman-verses, Suvas is the Ya<i>g</i>us-verses.
 
@@ -122,7 +122,7 @@ Between the two palates there hangs the uvula, like a nipple—that is the start
 (1) Worship thus, O Prâ<i>k</i>înayogya!
 
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 ## SEVENTH ANUVÂKA.
 
@@ -137,7 +137,7 @@ Now with reference to the self (the body): ‘Prâ<i>n</i>a (up-breathing), Apâ
 
 1\. Om means Brahman. 2. Om means all this. 3. Om means obedience. When they have been told, ‘Om, speak,’ they speak. 4. After Om they sing Sâmans. 5. After Om they recite hymns. 6. After Om the Adhvaryu gives the response. 7. After Om the Brahman-priest gives orders. 8. After Om he (the sacrificer) allows the performance of the Agnihotra. 9. When a Brâhma<i>n</i>a is going to begin his lecture, he says, 10. ‘Om, may I acquire Brahman (the Veda).’ He thus acquires the Veda.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## NINTH ANUVÂKA [^209].
 
@@ -150,7 +150,7 @@ Satyava<i>k</i>as Râthîtara thinks that the true only is necessary. Taponitya 
 
 ## TENTH ANUVÂKA.
 
-1\. ‘I am he who shakes the tree (i.e. the tree of the world, which has to be cut down by knowledge). 2. My glory is like the top of a mountain. 3. I, whose pure light (of knowledge) has risen high, am that which is truly immortal, as it resides in the sun. <span id="p52">[<sup><small>p. 52</small></sup>]</span> 4\. I am the brightest treasure. 5. I am wise, immortal, imperishable [^210].’ 6. This is the teaching of the Veda, by the poet Tri<i>s</i>aṅku.
+1\. ‘I am he who shakes the tree (i.e. the tree of the world, which has to be cut down by knowledge). 2. My glory is like the top of a mountain. 3. I, whose pure light (of knowledge) has risen high, am that which is truly immortal, as it resides in the sun. <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> 4\. I am the brightest treasure. 5. I am wise, immortal, imperishable [^210].’ 6. This is the teaching of the Veda, by the poet Tri<i>s</i>aṅku.
 
 
 ## ELEVENTH ANUVÂKA.
@@ -159,7 +159,7 @@ Satyava<i>k</i>as Râthîtara thinks that the true only is necessary. Taponitya 
 
 2\. 'Do not neglect the (sacrificial) works due to the Gods and Fathers! Let thy mother be to thee like unto a god! Let thy father be to thee like unto a god! Let thy teacher be to thee like unto a god! Let thy guest be to thee like unto a god! Whatever actions are blameless, those should be regarded, not others. Whatever good works have been performed by us, those should be observed by thee,—
 
-3\. 'Not others. And there are some Brâhma<i>n</i>as better than we. They should be comforted by thee by giving them a seat. Whatever is given should be given with faith, not without faith,—with joy, with modesty, with fear, with kindness. If there should <span id="p53">[<sup><small>p. 53</small></sup>]</span> be any doubt in thy mind with regard to any sacred act or with regard to conduct,—
+3\. 'Not others. And there are some Brâhma<i>n</i>as better than we. They should be comforted by thee by giving them a seat. Whatever is given should be given with faith, not without faith,—with joy, with modesty, with fear, with kindness. If there should <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> be any doubt in thy mind with regard to any sacred act or with regard to conduct,—
 
 4\. 'In that case conduct thyself as Brâhma<i>n</i>as who possess good judgment conduct themselves therein, whether they be appointed or not [^211], as long as they are not too severe, but devoted to duty. And with regard to things that have been spoken against, as Brâhma<i>n</i>as who possess good judgment conduct themselves therein, whether they be appointed or not, as long as they are not too severe, but devoted to duty,
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 ## XVI. TREATISE YOMAH, OR, THE DAY OF ATONEMENT.
 

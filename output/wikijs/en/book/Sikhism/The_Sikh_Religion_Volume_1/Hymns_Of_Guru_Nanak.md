@@ -51,7 +51,7 @@ Why forget Him who owneth thy soul and life?
 All clothing and food are impure without Him.
 All else is false; what pleaseth Thee, O God, is acceptable.
 
-A Sikh called Prema asked the Guru where God resided, in what. state He dwelt, and how He <span id="p262">[<sup><small>p. 262</small></sup>]</span> could be found. The following was the Guru's reply:—
+A Sikh called Prema asked the Guru where God resided, in what. state He dwelt, and how He <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> could be found. The following was the Guru's reply:—
 
 The virtues of the virtuous woman are blazoned abroad; she who is not virtuous regretteth it.
 O woman, if thou desire thy Spouse, _practise truth_. He cannot be obtained by falsehood.
@@ -75,7 +75,7 @@ Like a wall impregnated with kallar she crumbleth down day and night.
 She obtaineth no rest without the Word; without her Beloved her grief departeth not.
 O woman, what are thine adornments without thy Spouse?
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Thou shalt not obtain entrance into God's court; being false thou shalt be despised.
 The Lord is wise and forgetteth not: He is true and a great husbandman.
@@ -98,7 +98,7 @@ From the True One proceedeth air, from air water,
 And from water the three worlds; light was infused into every heart.
 The Pure One becometh not impure: he who is imbued with the Word obtaineth honour.
 
-Guru Nanak composed the following after a conversation <span id="p264">[<sup><small>p. 264</small></sup>]</span> with Samangir, a Sanyasi, at Talwandi. The Guru maintained the excellence of his own system and the advantage of repeating God's name obtained from the Guru:—
+Guru Nanak composed the following after a conversation <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> with Samangir, a Sanyasi, at Talwandi. The Guru maintained the excellence of his own system and the advantage of repeating God's name obtained from the Guru:—
 
 If I turn myself into a woman, the Enjoyer will enjoy me.
 Love not that which appeareth transient,
@@ -121,7 +121,7 @@ The counterfeit shall not be received in the great God's treasury, and they shal
 The counterfeit have neither caste nor honour; the counterfeit are none of them acceptable.
 The counterfeit who do counterfeit work, shall lose their honour in transmigration.
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 Nanak, instruct thy heart by the Guru's word and advice.
 They who are imbued-with the love of God's name have no load of sin and no superstition.
@@ -147,7 +147,7 @@ And who restraineth sea and land; hail to the Creator!
 Thou must die, O Mulla, thou must die.
 By all means fear the Creator.
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 Thou art a Mulla or a Qazi only when thou _really_ knowest God's name.
 Even if thou be very learned _thou must depart_; none may remain when his measure _of life_ is full.
@@ -171,7 +171,7 @@ Nobody hath found Thy worth; every one as he hath heard describeth Thy glory.
 Priests, prophets, saints, faithful men, martyrs,
 Shaikhs, Strivers, Qazis, Mullas, Darweshes who have arrived at _God's_ gate,
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Obtain further blessings if they continue to recite God's praises.
 He consulteth no one when He createth; He consulteth no one when He destroyeth; He consulteth no one when He giveth or taketh.
@@ -195,7 +195,7 @@ Love is not obtained by hypocrisy; counterfeit gilding degradeth.
 In this way God the Spouse shall enjoy the wife.
 The good wife is pleasing to Thee, O Lord; of Thy favour Thou decoratest her.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 She is decorated with the Guru's word; her body and soul are with her Beloved.
 With hands clasped she standeth waiting on Him, and offereth Him true supplication.
@@ -215,7 +215,7 @@ She knoweth no man but her Beloved; it is only for the True Guru _she feeleth_ l
 But thou who art reckless on a dark night[^3] how shalt thou pass it without the Beloved?
 Thy bosom shall burn, thy body shall burn, and thy mind shall burn, O woman.
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 When woman enjoyeth not her Husband, her youth passeth in vain.
 Her Husband is on the couch; his wife sleepeth and knoweth not _His presence_.
@@ -240,7 +240,7 @@ Nanak, she who is united _with God_ by the Word shall not be separated _from Him
 
 The following was addressed to Hindu devotees whom the Guru met in his wanderings in the Himalayas:—
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Though man perform lip-devotion, penance, and austerities, dwell at places of pilgrimage,
 Bestow alms and perform acts of devotion, what are these without the True One?
@@ -267,7 +267,7 @@ Love for God is inculcated by familiar Indian examples:—
 
 O man, entertain such love for God as the lotus hath for the water.
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 Such love _doth it bear it_, that it bloometh even when dashed down by the waves.
 The creatures which God created in water die without it, and _therefore love it_.
@@ -289,7 +289,7 @@ The perverse make calculations, but it is only what the Creator doeth that comet
 His worth cannot be ascertained, even though all men desire it
 But it can be ascertained under the Guru's instruction by meeting the True One happiness is obtained.
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 If the True Guru be met, true love shall not sunder,
 And the wealth of divine knowledge of the three worlds shall be obtained.
@@ -312,7 +312,7 @@ Who but the Guru can explain that the King and Emperor dwelleth in the heart?
 All men err; it is only the great Creator who erreth not.
 He who admonisheth his heart under the Guru's instruction shall love the Lord.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Nanak, he whom the incomparable Word hath caused to meet God, shall not forget the True One.
 
@@ -336,7 +336,7 @@ Were my body to be cut into pieces and burnt in the fire
 Were I to turn my body and soul into firewood, and burn them night and day;
 Were I to perform hundreds of thousands and millions of religious ceremonies, all would not be equal to God's name.
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 Were a saw to be applied to my head and my body to be cut in twain;[^1]
 Were my body to be frozen in the Himalayas, even then my mind would not be free from disease—
@@ -355,7 +355,7 @@ He who is absorbed in the True Guru pondereth on the Word of the Ineffable.
 He who drinketh the nectar of the Name shall be satisfied, and go to God's court with a dress of honour.
 The strain of ecstasy[^2] resoundeth night and day in the hearts of those who bear great love to the Word.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 Few there are who obtain understanding by admonishing their hearts through their guru.
 Nanak, they who forget not the Name, and who act according to the Word shall be delivered.
@@ -379,7 +379,7 @@ Men ruin themselves by their search abroad while the Real Thing is in their home
 The pious obtain It, the perverse miss It through pride.
 O vicious infidel, know thine own origin.
 
-<span id="p276">[<sup><small>p. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 Thy body made from blood and semen shall be brought to the fire _at last_.
 The body is in the power of the breath according to the true mark on the forehead.
@@ -403,7 +403,7 @@ If I have a satisfactory interview with the perfect true Guru, he will deliver m
 If I say I am perishable, _it will not avail me_; but if I really know that I am perishable, _it will_.
 Everything that came into this world shall depart; the Creator alone is immortal.
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Be sure to praise the True One and love His abode.
 Beautiful houses and palaces and thousands of strong holds,
@@ -423,7 +423,7 @@ The whole world is a chamber of lampblack; the body and soul which enter it shal
 They who are preserved by the Guru are pure; the fire of their desires is extinguished by the Word.
 Nanak, man obtaineth deliverance by the true name of the King of kings.
 May I not forget God's name! may I purchase it as a jewel!
-The perverse man perisheth in the terrible ocean _of the_ <span id="p278">[<sup><small>p. 278</small></sup>]</span> _world_; the holy man crosseth it, unfathomable though it be.
+The perverse man perisheth in the terrible ocean _of the_ <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> _world_; the holy man crosseth it, unfathomable though it be.
 
 ## GHAR III[^1]
 
@@ -456,7 +456,7 @@ Man, no matter what his caste or social position may be, is exalted by devotion:
 What difference is there between a swan and a crane, if God look kindly _on the latter_?
 Nanak, if it please Him, He can change a raven into a swan,
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 ## MAJH KI WAR
 
@@ -489,7 +489,7 @@ Other divisions of human life:—
 
 At ten a child, at twenty a rake, at thirty man calleth himself handsome;
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 At forty he is in his prime, at fifty his feet halt, at sixty old age cometh on;
 At seventy he loseth his intellect, at eighty he cannot perform his duties
@@ -514,7 +514,7 @@ He deemeth the property of others as his own, and suffereth for his pride.
 Nanak, when pride is dispelled under the Guru's instructions, man meditateth on God's name,
 Repeateth the Name, adoreth the Name, and through thc Name is absorbed in happiness.
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Some important subjects are briefly treated as follows:—
 
@@ -545,7 +545,7 @@ The Qazi asked Guru Nanak who he was. The latter replied as follows:—
 
 Since I am nobody, what shall I say: since I am nothing, what can I be?
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 As God made me, I act; as He told me, I speak; I am thoroughly defiled _with sin_, _and desire_ to wash it away.
 Though I know nothing myself, yet I teach others; such a guide am I.
@@ -572,7 +572,7 @@ I would even then magnify Thee, and the desire to do so would not cease as I spo
 Were the eighteen loads of _vegetables of the earth_[^1] to become fruit, and grass to become rice;
 Could I arrest the moon and sun in their courses, and were my seat to become immovable,
 
-<span id="p283">[<sup><small>p. 283</small></sup>]</span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 I would even then magnify Thee, and the desire to do so would not cease as I spoke.
 
@@ -597,7 +597,7 @@ The Master sent obedience to His orders as a steed _into the world_;
 Reflection on the instruction which _the Guru_ imparteth is its kettle-drums.
 Some have mounted their steeds, others have them ready caparisoned;
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 Some have loaded their baggage _for the march_, and others have set out.
 
@@ -624,7 +624,7 @@ Even though thou apply sandal to a dog, he will still preserve his canine nature
 Even though thou instruct a deaf man, and read for him the Simritis;
 Even though thou place a light before a blind man, and burn fifty lamps fox him, _all would be of no avail_.
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 Even though thou put gold before a herd of cattle, they would still pick out the grass to eat.
 If a flux be put into iron it will melt, but not become cotton.[^1]
@@ -651,7 +651,7 @@ The following seven sloks form part of the Guru's instruction to Shaikh Brahm, o
 
 The priests, the shaikhs, and the potentates _of the world_ are all beneath the earth.
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 Emperors pass away, but God ever flourisheth.
 There is only Thou, there is only Thou, O God!
@@ -692,7 +692,7 @@ They who in the early morning praise God and meditate on Him with single heart,
 Are perfect kings, and die fighting when occasion ariseth.[^1]
 In the second watch there are many ways in which the attention of the mind is distracted.
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 Many persons fall into the fathomless water, and cannot emerge however much they struggle.
 In the third watch when hunger and thirst are both barking, food is put into the mouth.
@@ -718,7 +718,7 @@ The advantages conferred on men by the True One:—
 Without the True One all are false and practise falsehood.
 Without the True One the false shall be bound and led away;
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Without the True One the body is dust and shall be rolled in the dust
 Without the True One dress and food are all hunger
@@ -744,7 +744,7 @@ The evil of forgetting God:—
 In the heart and mouth of the perverse who never remember Thee,.
 Abide _the bitterness_ of the gourd, the colocynth, and the nim, and the poison of the akk[^1] and dhatura.
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 Nanak, to whom shall I tell it? _Whoso forget Thee_ wander bereft of Thy favour, O God.
 
@@ -775,7 +775,7 @@ Bhai Rama of Sultanpur inquired how God was known. The Guru replied —
 
 He to whom God giveth understanding understandeth;
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 He to whom He giveth knowledge knoweth everything.
 Man merely worrieth himself when he preacheth for the sake of mammon.
@@ -814,7 +814,7 @@ But even though they perform a thousand artifices they shall not succeed.
 Nanak, the speech of the perverse is nonsense;
 What they write is worthless absurdity.
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 The following was addressed by the Guru to one who had remonstrated with him for having left his relations to lead a wandering life:—
 
@@ -853,7 +853,7 @@ One Sant Das propounded six questions to Guru Nanak:—
 Is it known whence man hath come,
 Whence he hath sprung, in what he shall be absorbed,
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 How he is bound, how he obtaineth emancipation,
 And how he shall be easily absorbed in the Imperishable?
@@ -883,7 +883,7 @@ The following is a conversation between soul and body:—
 
 _The Soul_: 'O body, _thou thinkest_ thyself immortal, and that thou shalt be _always_ happy—_know that_ this world is a play,
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 Thou practisest avarice, covetousness, and excessive falsehood, and bearest many burdens.
 I have seen thee, O body, trodden as ashes on the ground.’
@@ -907,7 +907,7 @@ Hear, O foolish and ignorant soul:
 What pleaseth _God_ shall be done.
 My Lord is a great Merchant, we are His retail-dealers.
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 Our souls and bodies are all His capital; He it is who killeth and re-animateth.
 
@@ -932,7 +932,7 @@ In this way shalt thou obtain the way of jog.
 Make the fact that there is but one Word and none other thy devotion to tubers and roots.
 If God could be obtained by merely shaving the head, we should make a god of the Ganges.[^4]
 
-<span id="p295">[<sup><small>p. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 It is the one Lord who saveth the three worlds; thou thinkest not of Him, O fool.
 If thou apply thy mind to words through hypocrisy, thy doubts shall never leave thee.
@@ -959,7 +959,7 @@ Were I to become a fawn, live in the forest, and gather and eat tubers and roots
 I should ever and ever be a sacrifice to my Lord, who is obtained through the favour of the Guru.
 I am a retail-dealer of Thine, O God;
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 Thy Name is my stock-in-trade and my merchandise.
 Were I to become a koil and live in a mango-tree, I should still tranquilly meditate on the Word.
@@ -991,7 +991,7 @@ What shall I wear? in what dress shall I show myself?
 How shall I obtain happiness without the Lord of the world?
 I may have rings in mine ears and a necklace of pearls on my neck,
 
-<span id="p297">[<sup><small>p. 297</small></sup>]</span>
+<span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 
 A red coverlet, flowers, and red powder;[^1]
 But where should I search for happiness except with the Lord of the world?
@@ -1020,7 +1020,7 @@ He who serveth the one God knoweth not others
 He layeth aside the bitter things deceit and evil.
 By love and truth shalt thou meet the Truest of the True.
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 If there be any such saint of God,
 His filth shall be washed away, and he shall meet God by singing His praises.
@@ -1046,7 +1046,7 @@ As the chatrik loveth and thirsteth for the rain-drops,
 As the fish is delighted with the water,
 So Nanak is satisfied quaffing God's essence.
 
-There was a hill king called Amar Singh who <span id="p299">[<sup><small>p. 299</small></sup>]</span> was dethroned by his brother. On being expelled he went to Guru Nanak for advice. The following was given him:—
+There was a hill king called Amar Singh who <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> was dethroned by his brother. On being expelled he went to Guru Nanak for advice. The following was given him:—
 
 They who wear religious garbs are full of pride and know not _God_.
 Few are they whose minds are reconciled to devotion under the Guru's instruction.
@@ -1071,7 +1071,7 @@ Death impends over all, but cannot harm the holy:—
 
 Even Brahma was subject to death[^1] from the beginning.
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 He found not _the end_ of Vishnu's lotus in the nether regions;[^1]
 He accepted not God's order, and was led astray in error.
@@ -1096,7 +1096,7 @@ Qazis, shaikhs, and faqirs in religious garbs
 Call themselves great, but through pride their bodies are in pain.
 Death will not release them without _receiving_ the true Guru's consolation.
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 The net of Death is over man's tongue and eyes;
 It is over his ears when he listeneth to unchaste language.
@@ -1128,7 +1128,7 @@ A spiritual guide is necessary for salvation:—
 His account is settled who through the Guru's favour knoweth God.
 God, called the Pure One, who is in every heart, is my Lord.
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Man shall not be emancipated without the Guru's instruction; see and ponder upon this.
 Even though man performed hundreds of thousands of ceremonies, all would still be darkness without the Guru.
@@ -1155,7 +1155,7 @@ Painful is the night for the young bride; _without her Beloved_ she sleepeth not
 She pineth away through grief _at His absence_:
 The woman pineth away through grief at _His absence, saying_ ‘How shall I look upon Him?’
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 Ornaments, dainty food, sensuous enjoyments are all vain and of no account for her.
 Intoxicated with the wine of youth and melting with pride milk cometh not to her breast.
@@ -1179,7 +1179,7 @@ Her friends are also happy, her enemies unhappy; true profit is obtained by repe
 With clasped hands the woman prayeth that she may night and day be steeped in God's love.
 Nanak, the Beloved and His spouse unite in dalliance; my desires have been fulfilled.
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 ## RAG ASA
 
@@ -1215,7 +1215,7 @@ Make the perpetual vision _of God_ the bells for thy feet
 Make love for none but God thy measures and songs
 In this wise, dance beating time with thy feet.
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 Ever make the fear of God in thy heart and sour,
 Whether sitting or standing, thy gyrations.
@@ -1237,7 +1237,7 @@ Having created living beings, Thou holdest their ways in Thy hand. What greatnes
 Whose husband art Thou? Who is Thy wife? Thou pervadest all things.
 Brahma, the granter of favours, with his progeny went to ascertain God's greatness,
 But could not find His limits; what greatness wits obtained by slaying Kans?[^4]
-When the sea of milk was churned and its gems brought <span id="p306">[<sup><small>p. 306</small></sup>]</span> forth, the _demigods and demons_ each claimed the merit thereof.
+When the sea of milk was churned and its gems brought <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> forth, the _demigods and demons_ each claimed the merit thereof.
 What greatness was obtained by the distribution of the gems to each? Saith Nanak, if men try to conceal Thy greatness, _O God_, how can it be concealed?
 
 The Guru in his anxiety to meet God compares himself to a bride who rejoices in her approaching marriage:—
@@ -1262,7 +1262,7 @@ Why shouldest Thou forget me when I am in great affliction?
 When affliction befalleth me, forget me not.
 Man's eye grow blind, his tongue loseth its taste, his ears hear not;
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 He can only move by being supported—these are the fruits of non-service.
 Make the Word the garden tree, plant it in good soil,[^1] and irrigate with love.
@@ -1287,7 +1287,7 @@ Search for nothing but the trite Name;
 Make God's love thy worship, the burning of _the love of_ wealth _thine incense_.
 Look only on the one God, search for none other.
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 He who repeateth God's name with his mouth and pondereth on it,
 Beholdeth Him at the tenth door of the firmament.[^1]
@@ -1311,7 +1311,7 @@ Since I have worshipped- the feet of my companions and friends,[^4] my Beloved t
 Reflecting on myself and chastening my heart I see that there is no friend like Thee.
 As Thou keepest me so I live; I endure woe and weal as Thou bestowest them.
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 I have dispelled hopes and desires, and I no more long for mammon.
 The holy man who hath found shelter in the society of the saints, obtaineth the fourth state.[^1]
@@ -1335,7 +1335,7 @@ He who breaketh not with worldly love shall not be accepted.
 If God look on man with favour such love shall depart,
 O Nanak, and he shall be absorbed in God.
 
-When Guru Nanak went to Gorakhmata-the present Nanakmata—he found religious men of <span id="p310">[<sup><small>p. 310</small></sup>]</span> several sects assembled there. The following was composed after a discussion with them:—
+When Guru Nanak went to Gorakhmata-the present Nanakmata—he found religious men of <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> several sects assembled there. The following was composed after a discussion with them:—
 
 He who meditateth on knowledge conferreth favour on others;
 When he correcteth his evil passions he dwelleth at a place of pilgrimage;
@@ -1367,7 +1367,7 @@ Her Spouse will enjoy her on the couch.
 Then, Nanak, shall she please her Spouse's heart
 She will abandon pride and be absorbed in Him.
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 It is necessary to fear as well as love God so as to keep His commandments:—
 
@@ -1403,7 +1403,7 @@ All that would be fruitless, wert thou not credited in God's account.
 Without God's name the world is only trouble.
 If the fool be never so much admonished, he remaineth the blindest of the blind.
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 Thou mayest earn lakhs of rupees; thou mayest amass and spend lakhs; lakhs may come and lakhs may go;
 But, if thy soul obtain not credit in God's account, where else shall it obtain it?
@@ -1433,7 +1433,7 @@ _Man may perform_ all. devotion, all penance, _and resort to_ every expedient;
 Yet he is as if he wandered in a wilderness, and could not find the way.
 Without knowing God, no one is acceptable.
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 Without the Name man is despised.[^1]
 The Lord is permanent; the world cometh and goeth.
@@ -1465,7 +1465,7 @@ The Preserver preserveth men by His favouring glance.
 He who effaceth himself knoweth the three worlds.
 He who understandeth the Word, shall be absorbed in the True One.
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 Nanak, the Creator will congratulate him
 Who without respite meditateth on the Word.
@@ -1500,7 +1500,7 @@ Whither goest thou? O man, remain at home.
 The pious are satiated with God's name, and by searching easily find Him.
 The bodily sins of lust, wrath, and worldly love are in the mind.;
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 So are painful greed, avarice, and pride.
 How can the mind be satisfied without God's name?
@@ -1537,7 +1537,7 @@ Mercifully preserve us as Thou pleasest.
 Under the Guru's instruction God is pleasing to my mind
 Disease is removed and pain averted.
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 There is no other medicine, charm, or spell.
 By remembering God, sin is destroyed.
@@ -1572,7 +1572,7 @@ An entanglement is the perishable wealth which merchants amass.
 
 [^1]: Also translated—Man is not satisfied with the extension of his wealth.
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 Without devotion to God man findeth no place.
 Entanglements are Veds, religious discussions, and pride.
@@ -1601,7 +1601,7 @@ Who hold fast the Name, charity, -and ablutions, and who awake in God's service.
 
 
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 Through the Guru the gate of Thy house, O Lord, is known; when men go there they recognize it.
 Saith Nanak, may I not forget Thy name, and may my heart be reconciled with the True One!
@@ -1627,7 +1627,7 @@ However much a stone be put into the water, it is dry at the core.
 God's name is wealth, the true Guru hath given it.
 Nanak, he who forgetteth not God's name drinketh, distilled nectar.
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 The advantage of domestic devotion:—
 
@@ -1656,7 +1656,7 @@ Holy men through Thy name shall reach Thy court and Thy presence.[^2]
 
 
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 That time is auspicious when man recognizeth the true Word.
 Practise truth, contentment, and love; and then the worship of God's name shall be thy viaticum.
@@ -1684,7 +1684,7 @@ She who is dyed with God's love and prayeth to Him, shall abide in happiness thr
 
 [^1]: The five organs of perception, with intellect and understanding.
 
-<span id="p321">[<sup><small>p. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 When thou embracest virtue thou shalt know God; virtue shall abide with thee and vice be put to flight.
 Without Thee I cannot abide for a moment; I derive no satisfaction from merely conversing of Thee.
@@ -1708,7 +1708,7 @@ As the deer is snared, the bumble-bee caught by the lotus, and the fish falleth 
 Hear, O black deer,[^2] why art thou enamoured of the garden?[^3]
 The fruit of sin is sweet, but only for four days; it then groweth bitter.
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 The fruit for which thou greatly cravest, shall become very bitter without the Name.
 That fruit is as a wave of the ocean, or as a flash of lightning.’
@@ -1729,7 +1729,7 @@ Verily, saith Nanak, think of it, O my soul from a strange land,
 Rivers which separate in their course can only meet again by chance.
 In every age what is sweet is full of poison, some rare holy man knoweth this.
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 Some rare person who thinketh of the true Guru knoweth divine knowledge and recognizeth God.
 Without God's name the fools and the heedless wander in superstition and are ruined.
@@ -1756,7 +1756,7 @@ Brahma sprang from the lotus of Vishnu's navel, and having attuned his throat be
 Yet he could not see God's limits, and remained iii the darkness of transmigration.
 Why should I forget the Beloved who is the support of my soul,
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 Whom the perfect worship, whom munis serve, on whom gurus meditate,
 Whose lamps are the sun and moon, and whose one light pervadeth the three worlds?
@@ -1784,7 +1784,7 @@ The Guru only claims to be a religious instructor from the ranks of the people:�
 
 O Sire, I am not high, or low, or middling; I am of God's people, and I seek His protection.
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 It is only they who are dyed with the Name who are free from worldly love and forget mourning, separation, and disease.
 My brethren, by the favour of the Guru God's service _is obtained_.
@@ -1807,7 +1807,7 @@ Man shall be saved by hastening to the asylum of the true Guru and repeating God
 Man's mind becometh stable, and he _practiseth_ divine meditation under the Guru's instruction.
 Pure is the heart which containeth truth and the excellent jewel of divine knowledge.
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 O man, by fear, love, and service, and by fixing thine attention on God's feet shalt thou cross the terrible ocean.
 O God, put into my heart Thy name which is the purest of the pure; my body is in Thy sanctuary.
@@ -1836,7 +1836,7 @@ O woman, break thy couch with its frame and thine arm with their bracelets,[^2]
 Since, notwithstanding thy decorations, the. Lord is enamoured of others.
 Thou needest not a bracelet-dealer, or silver, or glass bracelets:
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 Burn the arm which embraceth not the Bridegroom.
 All my companions went to enjoy the Bridegroom; whose door shall I, wretched that I am, approach?
@@ -1865,7 +1865,7 @@ Why wash the body defiled by falsehood?
 When Thou, _O Lord_, didst cause me to speak, I spoke.
 Thine ambrosial name is pleasing to my soul.
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 Thy name is sweet to my soul; a load of sorrow hath fallen from off me.
 When Thou gavest the order, happiness came and took its seat in my heart.
@@ -1893,7 +1893,7 @@ Search not for the True One afar off; He is in every heart, and is known by the 
 By the Gurus instruction know the True One who made creation; think Him not distant.
 Meditate on the Name and thou shalt obtain happiness without the Name man is not victorious in the arena of the world.
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 He who established the world knoweth its ways; what shall any one say?
 He who established the world spread the net of mammon; accept that Lord _with thy heart_.
@@ -1924,7 +1924,7 @@ Nanak, man shall have to wear on his neck as many chains as he hath sins.
 If he possess virtues, which are as brothers and friends, his chains shall be cut off.
 They who have no Guru shall not be accepted hereafter they shall be beaten and expelled.
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 The following is in opposition to all except deistic forms of religion:—
 
@@ -1951,7 +1951,7 @@ The condition of a man who has no Guru to communicate God's name:—
 As a fish without water, so is the infidel—dying of thirst.
 If thy breath be drawn in vain, O man, thou shalt die without God.
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 O man, repeat God's name and praises;
 But how shalt thou obtain this pleasure without the Guru? It is the Guru who uniteth man with God.
@@ -1977,7 +1977,7 @@ Ever repeat the Pure Name under the Guru's instruction, then shall thy heart be 
 Abandon covetousness and slander, forswear falsehood and thou shalt obtain the true fruit through the Guru's instruction.
 O God, preserve me as Thou pleasest; Nanak praiseth Thy Word.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 God is the invisible Benefactor and is pleased .when men obey His behests:—
 
@@ -2002,7 +2002,7 @@ May I not fall under the power of mammon, worship any but God, or visit tombs an
 May I not enter the strange house impelled by greed![^2] may the Name extinguish my greed!
 The Guru showed me God in my own home; my heart became easily enamoured of Him, my brethren.
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 Thou art wise, Thou art far-seeing; it is only Thou, O Lord, who givest wisdom.
 My heart hath no love for the world; it is tinctured with its hate; the Word hath penetrated my heart, O my mother.
@@ -2023,7 +2023,7 @@ Infinite, endless, inaccessible, inapprehensible, Thy worth cannot be obtained b
 Sun Samadh,[^1] Mahaparamarath,[^2] and Lord of the three worlds are names of Thine.
 All animals born in the world have their destinies recorded on their foreheads, and must beat- what is destined for them.
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 It is God who causeth man to perform good acts and maketh them steadfast in His service.
 When man feareth God, the filth of his soul and body departeth, and God Himself giveth him divine knowledge:
@@ -2044,7 +2044,7 @@ The following was the Guru's instruction to a Brahman:—
 
 Hopes and desires are entanglements, my brother; thy religious ceremonies are also entanglements.
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 Man, my brother, is born in the world as the result of bad and good acts;[^1] he perisheth when he forgetteth the Name.
 Maya bewitcheth the world, my brother; all thy religious ceremonies are worthless.
@@ -2065,7 +2065,7 @@ The unseen God dwelleth in every heart, yet without the Guru man is ruined by wa
 Maya hath bound this world on all sides with her cable:
 Without a guru its knot cannot be untied; man groweth weary in striving.
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 This world is led astray by superstition; words are of no avail.
 By meeting the Guru, my brother, the fear of God entereth the heart. To die in the fear of God is man's true destiny.
@@ -2096,7 +2096,7 @@ He on whom God looketh with favour will serve Him.
 How shall I, O Beloved, abide without Thee?
 Grant me the favour to remain attached to Thy name.
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 There is none other, O my Beloved, to whom 1 may go to address myself.
 I serve my Lord, I beg from no other
@@ -2123,7 +2123,7 @@ If a thief praise _the magistrate_, the mind of the latter is not pleased thereb
 If he revile the magistrate, it cannot displease him in the least.
 Nobody will be surety for a thief.
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 How can what a thief doeth be good?
 Hear, O fool, dog, and liar,
@@ -2158,7 +2158,7 @@ And who by the Guru's favour only recognizeth the One.
 He-is a Qazi who turneth away men _from the world_,
 And who by the Guru's favour while alive is dead.
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 He is a Brahman who reflecteth upon God:
 He shall be saved himself, and shall save all his relations.
@@ -2193,7 +2193,7 @@ If she utter falsehood it is of no avail:
 If she utter falsehood it is of no avail her Spouse will not look at her.
 Without merits, forgotten by her Spouse, and false, painful are her nights.
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 ## RAG SUHI
 
@@ -2233,7 +2233,7 @@ O Beloved Sovereign, take my hand.
 Saith Nanak, the Lord is, was, and shall be.
 The Beloved will enjoy her who is pleasing to Him.
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 Miscellaneous instruction of the Guru:—
 
@@ -2256,7 +2256,7 @@ When the account is called for it must be given; it will be examined and conside
 Man shall be saved by his love for the True One; the Pardoner will pardon him.
 If he make any one else _than God_ his friend, he shall die and be blended with the dust.
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 Man beholding various phases of life is led astray, and going astray suffereth transmigration;
 But he shall be emancipated by a favouring glance from God and God will blend him with Himself.
@@ -2285,7 +2285,7 @@ I applied the great salve of divine knowledge to mine eyes, and saw God's form w
 
 
 
-<span id="p343">[<sup><small>p. 343</small></sup>]</span>
+<span id="p343"><sup><small>[ p. 343 ]</small></sup></span>
 
 Meet me, O companions, sing with zest a song of rejoicing, since my Spouse hath come home to me.
 My soul and body are bedewed with nectar,
@@ -2310,7 +2310,7 @@ On beholding Thee I have become free from desire; the pain of birth and death is
 In all things is Thy light; from it art Thou known, but Thou art found by love.
 Nanak, I am a sacrifice to the Friend; the True One is found _when my mind_ cometh home.
 
-<span id="p344">[<sup><small>p. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 ## SUHI KI WAR
 
@@ -2343,7 +2343,7 @@ It is the habit of thieves, adulterers, prostitutes, and pimps
 To contract friendship with the irreligious and dine with them.
 They take no thought for God's praises; the devil ever dwelleth _in their hearts_.
 
-<span id="p345">[<sup><small>p. 345</small></sup>]</span>
+<span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 If sandal be rubbed on a donkey, he will still roll in the dust.
 Nanak, by spinning falsehood the web of falsehood is woven.
@@ -2371,7 +2371,7 @@ _I say_, 'When the sun riseth, the moon is not seen.
 But the reading of the Veds is a secular occupation.
 Without understanding this every one shall be disgraced,
 
-<span id="p346">[<sup><small>p. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 ‘Nanak, the man who _listeneth to_ the Guru's instruction shall be saved.
 ‘They who delight not in the Word and who love not God's name,
@@ -2399,7 +2399,7 @@ My body I have clothed with a Qalandar's dress, I have turned my heart into a te
 The one word dwelleth in my heart, and I shall not be born again.
 My soul is pierced by the Compassionate One; O my mother,
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 Who knoweth another's pain?
 I think of no one but God.
@@ -2428,7 +2428,7 @@ Heartfelt devotion is superior to all offerings and ablutions:—
 On the tenth day of the lunar month repeat the Name as your offerings and ablutions.
 Night and day lave yourselves in the attributes and knowledge of the True One.
 
-<span id="p348">[<sup><small>p. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
 When doubts and fears have fled, impurity shall not cling to the true heart.
 A frail cord will soon snap
@@ -2453,7 +2453,7 @@ Nanak representeth, if Thou give _Thy name_, it will assist me at the last hour.
 
 After the death of a Hindu a lamp is kept burning for several days to light the soul of the departed to the next world. It is then floated on water. Guru Nanak indites the following homily on the custom:—
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 Adore God[^1] in the following way—
 Make thy body into a raft[^2] by which thou mayest cross over.
@@ -2485,7 +2485,7 @@ Some rare man obtaineth God's service by the Guru's teaching.
 The Jogi who knoweth the way dwelleth in a peaceful home.
 He who is satisfied with the alms of love and the Word beholdeth all men with an equal eye.
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 The five oxen[^1] draw the carriage of the body:
 The whole goeth well by the contrivance of God.
@@ -2512,7 +2512,7 @@ It is said that Guru Nanak on his excursion to the Himalayas met a Jogi called C
 O Jogi, thou buildest a hut and preachest to the world
 If, abandoning thy devotional attitudes, _thou beg from door to door_, how shalt thou obtain the True One?
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Thou lovest mammon and woman,
 And art neither an anchoret nor a worldly man.
@@ -2539,7 +2539,7 @@ Without the highest divine knowledge there is no emancipation.
 Thou art beguiled by the pleasures of the tongue and sensual organs.
 Thou hast become a beast, and the mark of it shall not be erased.
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 There are three classes of people and three classes of Jog.[^1]
 He who meditateth on the Word shall need no mourning.
@@ -2570,7 +2570,7 @@ By making calculations such as thine doubt and sorrow enter the mind
 But, when the Guru's protection is sought, happiness resulteth.
 Having sinned we come to him for protection.
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 According to man's acts in a former state the Guru causeth him to meet God.
 God cannot be obtained unless man enter the Guru's protection;
@@ -2597,7 +2597,7 @@ As thy enjoyment so shall be thy suffering; through forgetfulness of the Name th
 Thou art proud on beholding thy beauty and wealth.
 Thou hast extended thy love to gold and woman; why hast thou forgotten the Name and gone astray?
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 Not having practised continence, truth, self-restraint, or virtue, thou shalt suffer in the skeleton of a ghost.
 Alms-gifts, ablutions, and austerities are of no avail without association with the saints, thou hast been born in vain.
@@ -2617,7 +2617,7 @@ Thou weepest for the dead; who heareth thy weeping
 He _whom thou weepest for_ might have fallen to the dragon in the sea of terror.
 The infidel beholding his family, wealth, houses, and mansions falleth into needless entanglements.
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 Man cometh when God sendeth him, and he goeth away when God calleth him.
 God continueth to do what is proper; the Pardoner pardoneth.
@@ -2645,7 +2645,7 @@ The following is a satire on the professedly religious men of the time:—
 
 They who call themselves virtuous, commit sin and pretend that they are doing good.
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 Gurus go, to private houses to impart instruction.
 A woman loveth man for the money he earneth for her;
@@ -2682,7 +2682,7 @@ And on that account put rings in their ears _and become his disciples_.
 With earrings on they wander about the world,
 While the Creator _they pretend to search for_ is everywhere.
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 All souls are travellers:
 When the death-warrant cometh for them there must be no delay.
@@ -2739,7 +2739,7 @@ Blind that he is and bereft of shame, he beggeth from house to house and preache
 Led astray by superstition he knoweth not the Word and loseth the game.
 The fire which is within him is not extinguished without the Guru, yet he heateth himself with external fires[^1] also.
 
-<span id="p359">[<sup><small>p. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 There is no worship without serving the Guru; how can man of himself recognize God?
 He who slandereth others shall abide in hell, and be separated from the Supreme Spirit.
@@ -2759,7 +2759,7 @@ With poison in his heart he pretendeth that he hath no doubts, but Death will di
 He who serveth the True Guru and removeth pride from his heart, is a true Sanyasi;
 He desireth not clothes or food, but taketh what is freely offered him;
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 He chattereth not; he amasseth the wealth of patience and his passions he subdueth with God's name.
 Blessings on that man, who whether householder, Sanyasi, or Jogi, fixeth his attention on God's feet.
@@ -2782,7 +2782,7 @@ Separated as I am from my Beloved in my father's house, how shall I meet him in 
 I wear demerits round. my neck; I am ruined without the Beloved; I am pining to death.
 If in my father's house I remember the Beloved, I shall find a dwelling in His.
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 The wife who hath found her Beloved, the Lord of excellences, sleepeth in peace.
 She maketh a silken coverlet and mattress for her couch, and arrayeth herself in a _costly_ robe.
@@ -2806,7 +2806,7 @@ Paternal and maternal aunts, grandmothers, and wives of husbands' younger and el
 Come and go; they tarry not but depart like relays of passengers.
 Maternal uncles and their wives, brothers, fathers, and mothers _abide not_.
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 Assembled in great crowds at the river they depart with their baggage like travellers.
 O my companions, my Husband is dyed with the true colour.
@@ -2838,7 +2838,7 @@ God's praises are pearls, gems, and diamonds; singing them maketh soul and body 
 
 [^1]: _Deh_ in the original, pronounced exactly like its English equivalent.
 
-<span id="p363">[<sup><small>p. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 God is inaccessible, unfathomable, altogether distinct _from His creation_.
 The great Sustainer of the earth hath no end.
@@ -2865,7 +2865,7 @@ Very narrow is the way like the edge of a sword.
 Man's account shall be taken, and he shall be pressed like sesame.
 There no mother, father, wife, or son will befriend thee without love for God there is no emancipation.
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 However numerous one's friends and companions may be in the world,
 There are no _real friends_ but the Guru and God.
@@ -2896,7 +2896,7 @@ Who carefully supporteth the globe of the earth.
 The Creator beholdeth the work of His hands; true and independent,
 He created the different species of animals.
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 Two travellers[^1] have struck out two roads.
 There is no emancipation without the perfect Guru; it is profitable to repeat the true Name.
@@ -2923,7 +2923,7 @@ Good are they who deal in the truth
 By the Guru's wisdom they obtain the true merchandise.
 He who possesseth the wealth of the true merchandise, is enraptured with the true Word.
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Loss accrueth from false dealings.
 The pious carry on their dealings according to God's will.
@@ -2947,7 +2947,7 @@ Many describe Thine attributes, O Lord; what availeth my speaking?
 The greatest of the great find not Thy limit.
 Nanak, may I obtain the truth! preserve mine honour, O Lord; Thou art the Monarch of monarchs!
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 The following is said to be instruction given to Taru and Bharu during the Baisakhi fair at Kartarpur:—
 
@@ -2975,7 +2975,7 @@ If God be pleased, He will cause us to meet the true Guru and save the whole wor
 Death's myrmidons and Death himself worship the feet of those
 Who repeat God's name under the Guru's teaching and directions.
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Man's state and condition become exalted by exalted company, and he crosseth over the terrible ocean of the world.
 This world which is a terrible ocean, is crossed over by the Guru's instruction
@@ -3000,7 +3000,7 @@ He who knoweth that God is with him whether at home or abroad,
 Who remaineth attached to the world and bringeth home his wandering mind,
 Shall obtain, O Nanak, the ambrosial essence of the True One who dwelleth in the three worlds, and who was before all things.
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 ## MARU KI WAR I
 
@@ -3029,7 +3029,7 @@ Where man is, proud there art Thou not; where Thou art, there no pride is.
 O men of divine knowledge, understand this riddle—the story of the Ineffable One is in the heart,
 But without the Guru the Real Thing cannot be found it is concealed though it dwelleth in every heart,
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 God is known by meeting the true Guru and implanting his instruction in the heart.
 When pride departeth, doubt, fear, and the pain of transmigration depart.
@@ -3053,7 +3053,7 @@ Yet shall he be not satisfied without God's name; it is under the stress of pren
 Thou, O God, art in all creatures that are in the water, the dry land, the nether regions, and the firmament.
 By the favour of the Guru preserve Thy servant; Nanak stirring God's elixir hath drunk it.
 
-<span id="p371">[<sup><small>p. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 ## RAG BASANT
 
@@ -3077,7 +3077,7 @@ The following is a refutation of the general Indian ideas on the subject of impu
 There is no impurity in songs,[^2] there is no impurity in knowledge;[^3]
 There is no impurity in the moon's or sun's different phases;
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 There is no impurity in corn, there is no impurity in ablution;[^1]
 There is no impurity in rain which falleth everywhere
@@ -3103,7 +3103,7 @@ Thou offerest it kungu, sandal, and flowers
 Thou fallest at its feet and propitiatest it to the utmost
 Yet it is by continually begging of men thou clothest and supportest thyself.
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 For such foolish acts shalt thou receive the punishment of the foolish.
 The idol giveth thee not when hungry, nor preserveth thee from death.
@@ -3134,7 +3134,7 @@ By wisdom the Lord is worshipped; by wisdom honour: is obtained.
 It is by wisdom what is read is understood, it is by wisdom alms are properly bestowed.
 Nanak saith, these are the ways of wisdom, all else are ways of wickedness.
 
-<span id="p374">[<sup><small>p. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 The virtues and practices which are most potent to secure deliverance:—
 
@@ -3164,7 +3164,7 @@ The inaccessible and illimitable God dwelleth in man's heart.
 He shall obtain nectar in his own heart, whose conduct is according to the Guru's precious instruction;
 And who considereth woe and weal and the blame and praise of the world as the same.
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 Wisdom, knowledge, and understanding are obtained from God's name; the love of God is obtained by association with the saints.
 Day and night profit is obtained from God's name given by the beneficent Guru.
@@ -3188,7 +3188,7 @@ The fish which is born and liveth in water, obtaineth weal and woe according to 
 It cannot live for an instant without water; its death or life dependeth on it.
 Woman is separated from her Beloved who liveth abroad; she sendeth Him a message through the true Guru.
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 All cry out ‘Prio, prio!’, but they can only obtain their Beloved if it please the Guru.
 The Beloved is with us; He ever associateth with the true; He blendeth with Himself those on whom He looketh with favour.
@@ -3215,7 +3215,7 @@ Thieves, adulterers, and gamblers shall be pressed like sesame;
 Slanderers and backbiters shall be carried away by the flood.
 The pious who are absorbed in the True One shall be known in God's court.
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 Worldly advantages distract men's minds from devotion:—
 
@@ -3247,7 +3247,7 @@ A satire on Hindu sects and ritualists:—
 Jogis go to ruin in twelve sects, Sanyasis in ten.
 The Jogis, the Kaprias, and the plucked-headed _Saravagis_ without the Word have halters round their necks.
 
-<span id="p378">[<sup><small>p. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 They who are tinctured by the Word are perfect Bairagis,
 Who beg to obtain alms _in the wallet_ of their hearts that their love may be fixed on God alone.
@@ -3268,7 +3268,7 @@ The fool is defiled, and the more he washeth, the more is he defiled; the filth 
 All religious acts are vain except the _repetition of the_ Name; they are like conjuror's tricks which deceive _the spectators_.
 The six religious duties are contained in the name of the Bright One.
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 Thou art, O God, an ocean of merits; in me are demerits.
 The pursuit of worldly things is a foolish and sinful act.

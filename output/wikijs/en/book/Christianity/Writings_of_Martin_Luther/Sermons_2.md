@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T17:47:40Z
   </table>
 </figure>
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 > HEBREWS 9:11-15: But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building; Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption _for us_. For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God? And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions _that were_ under the first testament, they which are called might receive the promise of eternal inheritance.
 
@@ -70,7 +70,7 @@ evident to men that their absolution and sanctification before the congregation 
 
 “Nor yet through the blood of goats and calves, but through his own blood, entered in once for all into the holy place, having obtained eternal redemption.”
 
-9\. According to Leviticus 16, the high priest must once a year enter into the holy place with the blood of rams and other offerings, and with these make formal reconciliation for the people. This ceremony typified that Christ, the true Priest, should once die for us, to obtain for us the true atonement. But the former sacrifice, having to be repeated every <span id="p167">[<sup><small>p. 167</small></sup>]</span> year, was but a temporary and imperfect atonement; it did not eternally suffice, as does the atonement of Christ. For though we fall and sin repeatedly, we have confidence that the blood of Christ does not fall, or sin; it remains steadfast before God, and the expiation is perpetual and eternal. Under its sway grace is perpetually renewed, without work or merit on our part, provided we do not stand aloof in unbelief.
+9\. According to Leviticus 16, the high priest must once a year enter into the holy place with the blood of rams and other offerings, and with these make formal reconciliation for the people. This ceremony typified that Christ, the true Priest, should once die for us, to obtain for us the true atonement. But the former sacrifice, having to be repeated every <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> year, was but a temporary and imperfect atonement; it did not eternally suffice, as does the atonement of Christ. For though we fall and sin repeatedly, we have confidence that the blood of Christ does not fall, or sin; it remains steadfast before God, and the expiation is perpetual and eternal. Under its sway grace is perpetually renewed, without work or merit on our part, provided we do not stand aloof in unbelief.
 
 “For if the blood of goats and bulls, and the ashes of a heifer,” etc.
 
@@ -80,7 +80,7 @@ evident to men that their absolution and sanctification before the congregation 
 
 11\. Under the old law, which provided only for formal, or ritualistic pardon, and restored to human fellowship, sin and transgressions remained, burdening the conscience. It—the old law—did not benefit the soul at all, inasmuch as God did not institute it to purify and safeguard the conscience, nor to bestow the Spirit. It existed merely for the purpose of outward discipline, restraint and correction. So Paul teaches that under the Old Testament dispensation man's transgressions remained, but now Christ is our Mediator through his blood; by it our conscience, is freed from sin in the sight of God, inasmuch as God promises the Spirit through the blood of Christ. All, however, do not receive him. Only those called to be heirs eternal, the elect, receive the Spirit.
 
-12\. We find, then, in this excellent lesson, the comforting doctrine taught that Christ is he whom we should know as the Priest and Bishop of our souls; that no sin is forgiven, nor the Holy Spirit given, by reason of works or <span id="p167">[<sup><small>p. 167</small></sup>]</span> merit on our part, but alone through the blood of Christ, and that to those for whom God has ordained it. This matter has been sufficiently set forth in the various postils.
+12\. We find, then, in this excellent lesson, the comforting doctrine taught that Christ is he whom we should know as the Priest and Bishop of our souls; that no sin is forgiven, nor the Holy Spirit given, by reason of works or <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> merit on our part, but alone through the blood of Christ, and that to those for whom God has ordained it. This matter has been sufficiently set forth in the various postils.
 
 <figure class="table chapter-navigator">
   <table>

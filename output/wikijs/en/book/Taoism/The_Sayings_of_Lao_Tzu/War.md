@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:11:52Z
 </figure>
 
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 HE who serves a ruler of men in harmony with Tao will not subdue the Empire by force of arms. Such a course is wont to bring retribution in its train.
 
@@ -43,7 +43,7 @@ The good man wins a victory and then stops; he will not go on to acts of violenc
 
 Weapons, however beautiful, are instruments of ill omen, hateful to all creatures. Therefore he who has Tao will have nothing to do with them.
 
-Where the princely man abides, the weak left hand is in honour. But he who uses weapons honours the stronger right. Weapons are instruments of ill omen; they are not the instruments of the princely man, who uses them only when he needs must. Peace and tranquillity are what he prizes. When he conquers, he is not elate. To be elate were to rejoice in the slaughter of human beings. And he who rejoices in the slaughter of <span id="p42">[<sup><small>p. 42</small></sup>]</span> human beings is not fit to work his will in the Empire.
+Where the princely man abides, the weak left hand is in honour. But he who uses weapons honours the stronger right. Weapons are instruments of ill omen; they are not the instruments of the princely man, who uses them only when he needs must. Peace and tranquillity are what he prizes. When he conquers, he is not elate. To be elate were to rejoice in the slaughter of human beings. And he who rejoices in the slaughter of <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> human beings is not fit to work his will in the Empire.
 
 On happy occasions, the left is favoured; on sad occasions, the right. The second in command has his place on the left, the general in chief on the right. That is to say, they are placed in the order observed at funeral rites. And, indeed, he who has exterminated a great multitude of men should bewail them with tears and lamentation. It is well that those who are victorious in battle should be placed in the order of funeral rites.
 

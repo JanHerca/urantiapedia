@@ -40,7 +40,7 @@ Some say that it consists in works, and the pious (say that it consists) in abst
 
 Carelessness is called (the cause of) Karman, carefulness that of the contrary (viz. absence of Karman); when the one or the other is predicated
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 (of a man, he is called) either a fool or a wise man. (3)
 
@@ -58,7 +58,7 @@ Thus the ‘exertion leading to works’ of the sinners has been described; now 
 
 A pious monk, who is free from bonds and has severed all fetters, annihilates his bad Karman, and removes definitely the thorn (of sin). (to)
 
-Following the right doctrine he exerts himself; as one becomes more and more the receptacle <span id="p299">[<sup><small>p. 299</small></sup>]</span> of misery, so his bad thoughts (or sinfulness) increase. (11)
+Following the right doctrine he exerts himself; as one becomes more and more the receptacle <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> of misery, so his bad thoughts (or sinfulness) increase. (11)
 
 Those who have good places (in heaven, &c.) must surely leave them (some time). We live together with relations and friends but a limited time. (12)
 
@@ -72,7 +72,7 @@ As a tortoise draws its limbs into its own body, so a wise man should cover, as 
 
 He should draw in, as it were, his hands and feet, his mind and five organs of sense, the effect of his bad Karman, and every bad use of language. (17)
 
-The virtuous exert themselves with regard to the distant end (viz. Liberation [^883]). One should live <span id="p300">[<sup><small>p. 300</small></sup>]</span> indifferent to one's own happiness, calm, and without any attachment. (18)
+The virtuous exert themselves with regard to the distant end (viz. Liberation [^883]). One should live <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> indifferent to one's own happiness, calm, and without any attachment. (18)
 
 Do not kill living beings, do not take what is not freely given, do not talk false, treacherous speech! This is the Law of him who is rich in control. (19)
 
@@ -88,7 +88,7 @@ Penance is of no good if performed by noble men who have turned monks (for the s
 
 A pious man should eat little, drink little, talk little; he should always exert himself, being calm, indifferent, a subduer (of his senses), and free from greed. (25)
 
-Meditating and performing religious practices, <span id="p301">[<sup><small>p. 301</small></sup>]</span> abandoning his body, regarding forbearance as the paramount duty, a monk should wander about till he obtains liberation. (26)
+Meditating and performing religious practices, <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> abandoning his body, regarding forbearance as the paramount duty, a monk should wander about till he obtains liberation. (26)
 
 Thus I say.
 

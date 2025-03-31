@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 ## YASNA LVI (SP. LV). INTRODUCTION TO THE SRÔSH YA<i>S</i>T.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 And thus again may Sraosha (the listening Obedience) be present here for the worship of the good waters, and for the Fravashis of the saints, which are so desired by us, \[(and) for (their) souls\].
 
-3\. Let Sraosha (the listening Obedience) be present here for the worship of the good waters; yea, let the good Obedience be here for the worship of the good and bountiful Immortals who rule aright, and dispose (of all) aright, the good, and for the worship of the good Sanctity, or Blessedness, who is closely knit with the Righteous Order, to perfect us, and to incite us. May Sraosha (Obedience) be here present for the worship of the good waters, he the good and the holy [^1234], as at the first, so at the last. <span id="p297">[<sup><small>p. 297</small></sup>]</span> 4\. And so again may Sraosha, (Obedience) the good, be present here for the worship of the good waters, and of the good [^1235] and bountiful Immortals, and of Blessedness the good who is closely knit with the Righteous Order to perfect and to incite us [^1236]. Yea, we worship Sraosha the blessed and the stately, who smites with victory, and who furthers the settlements in their advance, the holy lord of the ritual order [^1237].
+3\. Let Sraosha (the listening Obedience) be present here for the worship of the good waters; yea, let the good Obedience be here for the worship of the good and bountiful Immortals who rule aright, and dispose (of all) aright, the good, and for the worship of the good Sanctity, or Blessedness, who is closely knit with the Righteous Order, to perfect us, and to incite us. May Sraosha (Obedience) be here present for the worship of the good waters, he the good and the holy [^1234], as at the first, so at the last. <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> 4\. And so again may Sraosha, (Obedience) the good, be present here for the worship of the good waters, and of the good [^1235] and bountiful Immortals, and of Blessedness the good who is closely knit with the Righteous Order to perfect and to incite us [^1236]. Yea, we worship Sraosha the blessed and the stately, who smites with victory, and who furthers the settlements in their advance, the holy lord of the ritual order [^1237].
 
 
 

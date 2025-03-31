@@ -36,11 +36,11 @@ EIGHTH LECTURE. KAPILA'S VERSES [^125].
 
 By what acts can I escape a sorrowful lot in this unstable ineternal Sa<i>m</i>sâra, which is full of misery? (1)
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 Quitting your former connections place your affection on nothing; a monk who loves not even those who love him, will be freed from sin and hatred. (2)
 
-Then the best of sages, who is exempt from <span id="p33">[<sup><small>p. 33</small></sup>]</span> delusion and possesses perfect knowledge and faith, speaks for the benefit and eternal welfare, and for the final liberation of all beings. (3)
+Then the best of sages, who is exempt from <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> delusion and possesses perfect knowledge and faith, speaks for the benefit and eternal welfare, and for the final liberation of all beings. (3)
 
 All fetters (of the soul), and all hatred, everything of this kind, should a monk cast aside; he should not be attached to any pleasures, examining them well and taking care of himself. (4)
 
@@ -54,7 +54,7 @@ One should not permit (or consent to) the killing of living beings; then he will
 
 A careful man who does not injure living beings, is called ‘circumspect’ (samita). The sinful Karman will quit him as water quits raised ground. (9)
 
-In thoughts, words, and acts he should do <span id="p34">[<sup><small>p. 34</small></sup>]</span> nothing injurious to beings who people the world, whether they move or not. (10)
+In thoughts, words, and acts he should do <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> nothing injurious to beings who people the world, whether they move or not. (10)
 
 He should know what alms may be accepted, and should strictly keep these rules; a monk should beg food only for the sustenance of life, and should not be dainty. (11)
 
@@ -70,7 +70,7 @@ And if somebody should give the whole earth to one man, he would not have enough
 
 The more you get, the more you want; your desires increase with your means. Though two mâshas would do to supply your want, still you would scarcely think ten millions sufficient. (17)
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Do not desire (women), those female demons [^129], on whose breasts grow two lumps of flesh, who continually change their mind, who entice men, and then make a sport of them as of slaves. (18)
 

@@ -71,7 +71,7 @@ Receive her with a soul benign,
 When long austerities in time
 Had cleansed her from the taint of crime?
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 And, son of Kus'ik, let me know,
 Did my great-minded father show
@@ -187,7 +187,7 @@ On sons and children's children wait!’
 &nbsp;&nbsp;&nbsp;&nbsp;He spoke. The modest king replied
 That all was prosperous far and wide.
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 Thus for awhile the two conversed,
 As each to each his tale rehearsed,
@@ -301,7 +301,7 @@ To Gods and spirits all depend:
 My very life is due to her,
 My guardian, friend, and minister.
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 The feeding of the sacred flame, [^223]
 The dole which living creatures claim. [^224]
@@ -408,7 +408,7 @@ With elephants, and cars, and steeds.
 O'er countless bands his pennons fly;
 So is he mightier far than I,’
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 He spoke. Then she, in lowly mood,
 To that high saint her speech renewed:
@@ -494,7 +494,7 @@ Or some great snake whose fangs are crushed:
 
 appear that it is the object of this legend to represent this miraculous creation as the origin of these tribes, and that nothing more may have been intended than that the cow called into existence large armies, of the same stock with particular tribes previously existing.}
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 Or as in swift eclipse the Sun
 Dark with the doom he cannot shun:
@@ -615,7 +615,7 @@ The quenchless Liquid and the Dry:
 The dart of Vengeance, swift to kill:
 The Goblins' dart, the Curlew's Bill:
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 The discus both of Fate and Right,
 And Vishnu's, of unerring flight:
@@ -722,7 +722,7 @@ To make but royal saint of me.’
 Thus pondering, he with sense subdued,
 With sternest zeal his vows renewed.
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 Then reigned a monarch, true of soul,
 Who kept each sense in firm control;
@@ -808,7 +808,7 @@ His evil purpose scarce expressed,
 And cried, while rage their bosoms burned,
 ‘Be to a vile Chandála [^236] turned!’
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 This said, with lofty thoughts inspired,
 Each to his own retreat retired.
@@ -926,7 +926,7 @@ The holy men are gathering here.
 By all was meet obedience shown:
 Mahodaya  [^238] refused alone.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 And now, O Chief of hermits, hear
 What answer, chilling us with fear,
@@ -1056,7 +1056,7 @@ And marked him falling from the sky,
 And giving all his passion sway,
 Cried out in fury, ‘Stay, O stay!’
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 By penance-power and holy lore,
 Like Him who framed the worlds of yore,

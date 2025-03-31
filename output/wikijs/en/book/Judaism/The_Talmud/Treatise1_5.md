@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 1\. Men should not stand up to pray, except with reverential head. The pious of ancient days used to pause one hour before they began to pray, that they might direct their hearts to God. Though the king salute, one must not respond; and though a serpent wind itself round his heel, one must not pause.
 

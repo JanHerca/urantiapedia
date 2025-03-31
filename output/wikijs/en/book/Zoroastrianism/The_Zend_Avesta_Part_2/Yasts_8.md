@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 Ti<i>s</i>trya is the leader of the stars against the planets, as stars and planets belong, respectively, to the worlds of Ahura Mazda and Angra Mainyu (Vend. Introd. IV, 36; Bund. II, 5 seq.).
 
@@ -56,7 +56,7 @@ For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the hol
 
 Unto Ti<i>s</i>trya, the bright and glorious star, and unto the powerful Satavaêsa, made by Mazda, who pushes waters forward [^456],
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Be propitiation, with sacrifice, prayer, propitiation, and glorification.
 
@@ -72,7 +72,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘Unto Ti<i>s</i>trya, the bright and glorious star, we offer up the libations, the Haoma and meat, the baresma, the wisdom of the tongue, the holy spells, the speech, the deeds, the libations, and the rightly-spoken words [^462].
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 ‘Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda . . . .
 
@@ -90,7 +90,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## IV.
 
-6\. 'We sacrifice unto Ti<i>s</i>trya, the bright and glorious star; who flies, towards the sea Vouru-Kasha [^467], as swiftly as the arrow darted through the heavenly <span id="p95">[<sup><small>p. 95</small></sup>]</span> space [^468], which Erekhsha [^469], the swift archer, the Arya amongst the Aryas whose arrow was the swiftest, shot from Mount Khshaotha to Mount <i>H</i><i>v</i>anva<i>n</i><i>t</i> [^470].
+6\. 'We sacrifice unto Ti<i>s</i>trya, the bright and glorious star; who flies, towards the sea Vouru-Kasha [^467], as swiftly as the arrow darted through the heavenly <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> space [^468], which Erekhsha [^469], the swift archer, the Arya amongst the Aryas whose arrow was the swiftest, shot from Mount Khshaotha to Mount <i>H</i><i>v</i>anva<i>n</i><i>t</i> [^470].
 
 7\. 'For Ahura Mazda gave him assistance; so did the waters and the plants; and Mithra, the lord of wide pastures, opened a wide way unto him.
 
@@ -98,7 +98,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## V.
 
-8\. 'We sacrifice unto Ti<i>s</i>trya, the bright and glorious star, that afflicts the Pairikas, that vexes the Pairikas, who, in the shape of worm-stars [^471], fly <span id="p96">[<sup><small>p. 96</small></sup>]</span> between the earth and the heavens, in the sea Vouru-Kasha, the powerful sea, the large-sized, deep sea of salt [^472] waters. He goes to its lake in the shape of a horse, in a holy shape; and down there he makes the waters boil over, and the winds flow above powerfully all around.
+8\. 'We sacrifice unto Ti<i>s</i>trya, the bright and glorious star, that afflicts the Pairikas, that vexes the Pairikas, who, in the shape of worm-stars [^471], fly <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> between the earth and the heavens, in the sea Vouru-Kasha, the powerful sea, the large-sized, deep sea of salt [^472] waters. He goes to its lake in the shape of a horse, in a holy shape; and down there he makes the waters boil over, and the winds flow above powerfully all around.
 
 9\. 'Then Satavaêsa [^473] makes those waters flow down to the seven Karshvares of the earth [^474], and when he has arrived down there, he stands, beautiful, spreading ease and joy on the fertile countries (thinking in himself): “How shall the countries of the Aryas grow fertile?”
 
@@ -110,7 +110,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 11\. ' "If men would worship me with a sacrifice in which I were invoked by my own name, as they worship the other Yazatas with sacrifices in which they are invoked by their own names, then I should have come to the faithful at the appointed time [^475];
 
-I should have come in the appointed time of my <span id="p97">[<sup><small>p. 97</small></sup>]</span> beautiful, immortal life [^476], should it be one night, or two nights, or fifty, or a hundred nights.”
+I should have come in the appointed time of my <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> beautiful, immortal life [^476], should it be one night, or two nights, or fifty, or a hundred nights.”
 
 12\. 'We sacrifice unto Ti<i>s</i>trya;
 
@@ -124,7 +124,7 @@ I should have come in the appointed time of my <span id="p97">[<sup><small>p. 97
 
 ‘We sacrifice unto Ti<i>s</i>trya, whose eye-sight is sound [^482].
 
-13\. 'For ten nights, O Spitama Zarathu<i>s</i>tra! Ti<i>s</i>trya, the bright and glorious star, mingles his shape <span id="p98">[<sup><small>p. 98</small></sup>]</span> with light, moving in the shape of a man of fifteen years of age [^483], bright, with clear eyes, tall, full of strength, strong, and clever.
+13\. 'For ten nights, O Spitama Zarathu<i>s</i>tra! Ti<i>s</i>trya, the bright and glorious star, mingles his shape <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> with light, moving in the shape of a man of fifteen years of age [^483], bright, with clear eyes, tall, full of strength, strong, and clever.
 
 14\. 'He is active as the first man [^484] was; he goes on with the strength of the first man; he has the virility [^485] of the first man.
 
@@ -134,7 +134,7 @@ I should have come in the appointed time of my <span id="p97">[<sup><small>p. 97
 
 17\. 'Here he calls for people to assemble, here he asks, saying: “Who now will offer me the libations with the Haoma and the holy meat? To whom shall I give wealth of oxen, a herd of oxen, and the purification of his own soul? Now I ought to receive sacrifice and prayer in the material world, by the law of excellent holiness.”
 
-18\. 'The next ten nights, O Spitama Zarathu<i>s</i>tra! the bright and glorious Ti<i>s</i>trya mingles his shape with light, moving in the shape of a white, beautiful horse, with golden ears and a golden caparison. <span id="p99">[<sup><small>p. 99</small></sup>]</span> 19\. 'Here he calls for people to assemble, here he asks, saying: “Who now will offer me the libations with the Haoma and the holy meat? To whom shall I give wealth of horses, a troop of horses, and the purification of his own soul? Now I ought to receive sacrifice and prayer in the material world, by the law of excellent holiness.”
+18\. 'The next ten nights, O Spitama Zarathu<i>s</i>tra! the bright and glorious Ti<i>s</i>trya mingles his shape with light, moving in the shape of a white, beautiful horse, with golden ears and a golden caparison. <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> 19\. 'Here he calls for people to assemble, here he asks, saying: “Who now will offer me the libations with the Haoma and the holy meat? To whom shall I give wealth of horses, a troop of horses, and the purification of his own soul? Now I ought to receive sacrifice and prayer in the material world, by the law of excellent holiness.”
 
 20\. 'Then, O Spitama Zarathu<i>s</i>tra! the bright and glorious Ti<i>s</i>trya goes down to the sea Vouru-Kasha in the shape of a white, beautiful horse, with golden ears and a golden caparison [^488].
 
@@ -142,7 +142,7 @@ I should have come in the appointed time of my <span id="p97">[<sup><small>p. 97
 
 22\. 'They meet together, hoof against hoof, O Spitama Zarathu<i>s</i>tra! the bright and glorious Ti<i>s</i>trya and the Daêva Apaosha. They fight together, O Spitama Zarathu<i>s</i>tra! for three days and three nights. And then the Daêva Apaosha proves stronger than the bright and glorious Ti<i>s</i>trya, he overcomes him.
 
-23\. 'And Ti<i>s</i>trya flees from the sea Vouru-Kasha, as far as a Hâthrâ's [^489] length. He cries out in woe and distress, the bright and glorious Ti<i>s</i>trya: "Woe is me, O Ahura Mazda! I am in distress, O Waters and Plants! O Fate and thou, Law of the worshippers of Mazda! Men do not worship me with a <span id="p100">[<sup><small>p. 100</small></sup>]</span> sacrifice in which I am invoked by my own name, as they worship the other Yazatas with sacrifices in which they are invoked by their own names [^490].
+23\. 'And Ti<i>s</i>trya flees from the sea Vouru-Kasha, as far as a Hâthrâ's [^489] length. He cries out in woe and distress, the bright and glorious Ti<i>s</i>trya: "Woe is me, O Ahura Mazda! I am in distress, O Waters and Plants! O Fate and thou, Law of the worshippers of Mazda! Men do not worship me with a <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> sacrifice in which I am invoked by my own name, as they worship the other Yazatas with sacrifices in which they are invoked by their own names [^490].
 
 24\. ' “If men had worshipped me with a sacrifice in which I had been invoked by my own name, as they worship the other Yazatas with sacrifices in which they are invoked by their own names, I should have taken to me the strength of ten horses, the strength of ten camels, the strength of ten bulls, the strength of ten mountains, the strength of ten rivers [^491].”
 
@@ -154,13 +154,13 @@ I should have come in the appointed time of my <span id="p97">[<sup><small>p. 97
 
 28\. 'They meet together, hoof against hoof, O Spitama Zarathu<i>s</i>tra! the bright and glorious Ti<i>s</i>trya, and the Daêva Apaosha; they fight together, O Zarathu<i>s</i>tra! till the time of noon. Then the bright and glorious Ti<i>s</i>trya proves stronger than the Daêva Apaosha, he overcomes him.
 
-29\. 'Then he goes from the sea Vouru-Kasha as far as a Hâthra's length: “Hail!” cries the <span id="p101">[<sup><small>p. 101</small></sup>]</span> bright and glorious Ti<i>s</i>trya. “Hail unto me, O Ahura Mazda! Hail unto you, O waters and plants! Hail, O Law of the worshippers of Mazda! Hail will it be unto you, O lands! The life [^493] of the waters will flow down unrestrained to the big-seeded [^494] cornfields, to the small-seeded [^495] pasture-fields, and to the whole of the material world!”
+29\. 'Then he goes from the sea Vouru-Kasha as far as a Hâthra's length: “Hail!” cries the <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> bright and glorious Ti<i>s</i>trya. “Hail unto me, O Ahura Mazda! Hail unto you, O waters and plants! Hail, O Law of the worshippers of Mazda! Hail will it be unto you, O lands! The life [^493] of the waters will flow down unrestrained to the big-seeded [^494] cornfields, to the small-seeded [^495] pasture-fields, and to the whole of the material world!”
 
 30\. 'Then the bright and glorious Ti<i>s</i>trya goes back down to the sea Vouru-Kasha, in the shape of a white, beautiful horse, with golden ears and a golden caparison [^496].
 
 31\. 'He makes the sea boil up and down; he makes the sea stream this and that way; he makes the sea flow this and that way: all the shores of the sea Vouru-Kasha are boiling over, all the middle of it is boiling over.
 
-32\. 'And the bright and glorious Ti<i>s</i>trya rises up from the sea Vouru-Kasha, O Spitama Zarathu<i>s</i>tra! the bright and glorious Satavaêsa rises up from the sea Vouru-Kasha; and vapours rise up above Mount Us-hindu, that stands in the middle of the sea Vouru-Kasha [^497]. <span id="p102">[<sup><small>p. 102</small></sup>]</span> 33\. 'Then the vapours push forward, in the regular shape of clouds [^498]; they go following the wind, along the ways which Haoma traverses, the increaser of the world [^499]. Behind him travels the mighty wind, made by Mazda, and the rain, and the cloud, and the sleet, down to the several places, down to the fields, down to the seven Karshvares of the earth.
+32\. 'And the bright and glorious Ti<i>s</i>trya rises up from the sea Vouru-Kasha, O Spitama Zarathu<i>s</i>tra! the bright and glorious Satavaêsa rises up from the sea Vouru-Kasha; and vapours rise up above Mount Us-hindu, that stands in the middle of the sea Vouru-Kasha [^497]. <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> 33\. 'Then the vapours push forward, in the regular shape of clouds [^498]; they go following the wind, along the ways which Haoma traverses, the increaser of the world [^499]. Behind him travels the mighty wind, made by Mazda, and the rain, and the cloud, and the sleet, down to the several places, down to the fields, down to the seven Karshvares of the earth.
 
 34\. 'Apãm Napâ<i>t</i> [^500], O Spitama Zarathu<i>s</i>tra! divides the waters amongst the countries in the material world, in company with the mighty wind, the Glory, made by the waters [^501], and the Fravashis of the faithful [^502].
 
@@ -168,7 +168,7 @@ I should have come in the appointed time of my <span id="p97">[<sup><small>p. 97
 
 ## VII.
 
-35\. 'We sacrifice unto Ti<i>s</i>trya, the bright and glorious star, who from the shining east, moves along his long winding course, along the path made by the gods, along the way appointed for him the <span id="p103">[<sup><small>p. 103</small></sup>]</span> watery way, at the will of Ahura Mazda, at the will of the Amesha-Spe<i>n</i>tas.
+35\. 'We sacrifice unto Ti<i>s</i>trya, the bright and glorious star, who from the shining east, moves along his long winding course, along the path made by the gods, along the way appointed for him the <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> watery way, at the will of Ahura Mazda, at the will of the Amesha-Spe<i>n</i>tas.
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
@@ -182,7 +182,7 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 37 [^506]. 'We sacrifice unto Ti<i>s</i>trya, the bright and glorious star, swift-flying and swift-moving, who flies towards the sea Vouru-Kasha, as swiftly as the arrow darted through the heavenly space, which Erekhsha, the swift archer, the Arya amongst the Aryas whose arrow was the swiftest, shot from Mount Khshaotha to Mount <i>H</i><i>v</i>anva<i>n</i><i>t</i>.
 
-38\. 'Ahura Mazda gave him assistance, and the Amesha-Spe<i>n</i>tas and Mithra, the lord of wide pastures, pointed him the way: behind him went the <span id="p104">[<sup><small>p. 104</small></sup>]</span> tall Ashi<i>s</i> Vanguhi [^507] and Pâre<i>n</i>di [^508] on her light chariot: always till, in his course, he reached Mount <i>H</i><i>v</i>anva<i>n</i><i>t</i> on the shining waters [^509].
+38\. 'Ahura Mazda gave him assistance, and the Amesha-Spe<i>n</i>tas and Mithra, the lord of wide pastures, pointed him the way: behind him went the <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> tall Ashi<i>s</i> Vanguhi [^507] and Pâre<i>n</i>di [^508] on her light chariot: always till, in his course, he reached Mount <i>H</i><i>v</i>anva<i>n</i><i>t</i> on the shining waters [^509].
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
@@ -198,7 +198,7 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 41\. 'We sacrifice unto Ti<i>s</i>trya, the bright and glorious star, for whom long the standing waters, and the running spring-waters, the stream-waters, and the rain-waters:
 
-42\. ' “When will the bright and glorious Ti<i>s</i>trya rise up for us? When will the springs with a flow and overflow of waters, thick as a horse's shoulder, run to the beautiful places and fields, and to the <span id="p105">[<sup><small>p. 105</small></sup>]</span> pastures, even to the roots of the plants, that they may grow with a powerful growth?”
+42\. ' “When will the bright and glorious Ti<i>s</i>trya rise up for us? When will the springs with a flow and overflow of waters, thick as a horse's shoulder, run to the beautiful places and fields, and to the <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> pastures, even to the roots of the plants, that they may grow with a powerful growth?”
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
@@ -214,7 +214,7 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ## XIV.
 
@@ -228,7 +228,7 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 ## XV.
 
-48\. 'We sacrifice unto Ti<i>s</i>trya, the bright and glorious star, for whom long all the creatures of Spe<i>n</i>ta-Mainyu, those that live under the ground, and those that live above the ground; those that live in the waters, and those that live on dry land; those that fly, and those that run in the plains [^519]; and all those <span id="p107">[<sup><small>p. 107</small></sup>]</span> that live within this boundless and endless world of the holy Spirit.
+48\. 'We sacrifice unto Ti<i>s</i>trya, the bright and glorious star, for whom long all the creatures of Spe<i>n</i>ta-Mainyu, those that live under the ground, and those that live above the ground; those that live in the waters, and those that live on dry land; those that fly, and those that run in the plains [^519]; and all those <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> that live within this boundless and endless world of the holy Spirit.
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . .
 
@@ -242,7 +242,7 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 52\. 'Had I not created that star Ti<i>s</i>trya as worthy of sacrifice, as worthy of prayer, as worthy of propitiation, as worthy of glorification as myself, Ahura Mazda;
 
-53\. 'In order to withstand, to break asunder, to afflict, to drive back the malice of that Pairika Du<i>z</i>yâirya, whom evil-speaking people call Huyâirya; <span id="p108">[<sup><small>p. 108</small></sup>]</span> 54\. 'Then all day long, all night long, that Pairika Du<i>z</i>yâirya would wage war against this material world of mine, wanting to extinguish its life [^524], and she goes on, rushing upon and around it.
+53\. 'In order to withstand, to break asunder, to afflict, to drive back the malice of that Pairika Du<i>z</i>yâirya, whom evil-speaking people call Huyâirya; <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> 54\. 'Then all day long, all night long, that Pairika Du<i>z</i>yâirya would wage war against this material world of mine, wanting to extinguish its life [^524], and she goes on, rushing upon and around it.
 
 55\. 'But the bright and glorious Ti<i>s</i>trya keeps that Pairika in bonds, with twofold bonds, with threefold bonds, that cannot be overcome, with bonds all over the body: it is as if there were a thousand men keeping one man in bonds, a thousand men of those who are the strongest in strength.
 
@@ -250,7 +250,7 @@ For his brightness and glory, I will offer him a sacrifice worth being heard . .
 
 57 [^526]. Zarathu<i>s</i>tra asked: ‘What is then, O Ahura Mazda! the sacrifice and invocation in honour of the bright and glorious Ti<i>s</i>trya, as it ought to be performed in the perfection of holiness?’
 
-58\. Ahura Mazda answered: 'Let the Aryan nations bring libations unto him; let the Aryan nations tie bundles of baresma for him; let the Aryan nations cook for him a head of cattle, either white, or black, or of any other colour, but all of one and the same colour. <span id="p109">[<sup><small>p. 109</small></sup>]</span> 59\. 'Let not a murderer take of these offerings, nor a whore, nor a . . . . [^527] who does not sing the Gâthâs, who spreads death in the world and withstands the law of Mazda, the law of Zarathu<i>s</i>tra.
+58\. Ahura Mazda answered: 'Let the Aryan nations bring libations unto him; let the Aryan nations tie bundles of baresma for him; let the Aryan nations cook for him a head of cattle, either white, or black, or of any other colour, but all of one and the same colour. <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> 59\. 'Let not a murderer take of these offerings, nor a whore, nor a . . . . [^527] who does not sing the Gâthâs, who spreads death in the world and withstands the law of Mazda, the law of Zarathu<i>s</i>tra.
 
 60\. 'If a murderer take of these offerings, or a whore, or a . . . . who does not sing the Gâthâs, who spreads death in the world and withstands the law of Mazda, the law of Zarathu<i>s</i>tra, then the bright and glorious Ti<i>s</i>trya takes back his healing virtues.
 

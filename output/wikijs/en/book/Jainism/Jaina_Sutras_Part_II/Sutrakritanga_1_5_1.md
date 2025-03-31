@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 FIFTH LECTURE, CALLED DESCRIPTION OF THE HELLS.
 
@@ -48,7 +48,7 @@ He who always kills movable and immovable beings for the sake of his own comfort
 
 The impudent sinner, who injures many beings without relenting [^825], will go to hell; at the end of his life the will sink to the (place of) darkness; head downwards he comes to the place of torture. (5)
 
-They hear the cries of the punishers: Beat, cut, <span id="p280">[<sup><small>p. 280</small></sup>]</span> split, burn him! The prisoners in hell lose their senses from fright, and do not know in what direction to run. (6)
+They hear the cries of the punishers: Beat, cut, <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> split, burn him! The prisoners in hell lose their senses from fright, and do not know in what direction to run. (6)
 
 Going to a place like a burning heap of coals on fire, and being burnt they cry horribly; they remain there long, shrieking aloud. (7)
 
@@ -62,7 +62,7 @@ And they come to the great impassable hell, full of agony, called Asûrya (i.e. 
 
 There, as in a cave, being roasted on the fire, he is burned, having lost the reminiscence (of his sins) and consciousness of everything else; always suffering (he comes) to that miserable hot place that is ever ready (for the punishment of evildoers) [^828]. (12)
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 There the cruel punishers have lighted four fires, and roast the sinners; they are roasted there like fishes put on the fire alive. (13)
 
@@ -78,7 +78,7 @@ There is heard everywhere the noise of painfully uttered cries even as in the st
 
 They deprive the sinner of his life; I shall truly tell you how this is done. The wicked (punishers) remind by (similar) punishment (their victims) of all sins they had committed in a former life [^832]. (19)
 
-Being killed they are thrown into a hell which is <span id="p282">[<sup><small>p. 282</small></sup>]</span> full of boiling filth. There they stay eating filth, and they are eaten by vermin. (20)
+Being killed they are thrown into a hell which is <span id="p282"><sup><small>[ p. 282 ]</small></sup></span> full of boiling filth. There they stay eating filth, and they are eaten by vermin. (20)
 
 And there is an always crowded, hot place, which men deserve for their great sins, and which is full of misery [^833]. (The punishers) put them in shackles, beat their bodies, and torment them (by perforating) their skulls with drills. (21)
 
@@ -92,7 +92,7 @@ The sinners are thrown into it and boiled there, while they utter horrid cries o
 
 Those evildoers who have here forfeited their souls' (happiness) for the sake of small (pleasures), and have been born in the lowest births during hundred thousands of ‘former years,’ will stay in this (hell). Their punishment will be adequate to their deeds. (26)
 
-The wicked who have committed crimes will <span id="p283">[<sup><small>p. 283</small></sup>]</span> atone for them, deprived of all pleasant and lovely objects, by dwelling in the stinking crowded hell, a scene of pain, which is full of flesh (&c.). (27)
+The wicked who have committed crimes will <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> atone for them, deprived of all pleasant and lovely objects, by dwelling in the stinking crowded hell, a scene of pain, which is full of flesh (&c.). (27)
 
 Thus I say.
 

@@ -32,9 +32,9 @@ dateCreated: 2025-2-5T12:26:57Z
   </table>
 </figure>
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 256\. Q. _How do Buddhist Bhikkhus differ from the priests of other religions?_
 
@@ -44,7 +44,7 @@ A. In other religions the priests claim to be intercessors between men and God, 
 
 A. The object in view was to cause the most virtuous, intelligent, unselfish and spiritual-minded persons in a country to withdraw from the social surroundings where their sensual and other selfish desires were naturally strengthened, devote their lives to the acquisition of the highest wisdom, and fit themselves to teach and guide others out of the pleasant path leading-towards misery, into the harder path that leads to true happiness and final liberation.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 258\. Q. _Besides the Eight, what two additional observances are obligatory upon the Bhikkhus?_
 
@@ -66,7 +66,7 @@ Observances for the repression of the senses (_Indriya samvara sîla_).
 
 Regulations for justly procuring and using food, diet, robes, &c. (_Paccaya sannissita sîla_).
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Directions for leading an unblemished life (_Ajivapâri suddha sîla_).
 
@@ -96,7 +96,7 @@ Using harsh and reproachful language; Idle talk;
 
 Reading and hearing fabulous stories and tales Carrying messages to and from laymen;
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 Buying and selling;
 
@@ -112,7 +112,7 @@ A. Generally, to set them an example of the highest morality; to teach and instr
 
 262\. Q. _What are the rules for admission into the Order?_
 
-A. The candidate is not often taken before his tenth <span id="p79">[<sup><small>p. 79</small></sup>]</span> year; he must have the consent of his parents; be free from leprosy, boils, consumption and fits; be a free man; have no debts; and not be a criminal or deformed or in the royal service.
+A. The candidate is not often taken before his tenth <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> year; he must have the consent of his parents; be free from leprosy, boils, consumption and fits; be a free man; have no debts; and not be a criminal or deformed or in the royal service.
 
 263\. Q. _As a novice what is he called?_
 
@@ -132,7 +132,7 @@ A. He puts on the robes and repeats the Three Refuges (_Tisaraṇa_) and Ten Pre
 
 267\. Q. _What are the two essentials to be observed?_
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 A. Poverty and Chastity. A Bhikkhu before ordination must possess eight things, _viz_., his robes, a girdle for his loins, a begging-bowl, water-strainer, razor, needle, fan, sandals. Within limitations strictly specified in the Vinâya, he may hold certain other-properties.
 
@@ -146,7 +146,7 @@ A. He rises before daylight, washes, sweeps the vihâra, sweeps around the Bo-tr
 
 270\. Q. _Must we believe that there is no merit in_ 
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 _the offering of flowers (mala pûja) as an act of worship?_
 
@@ -176,7 +176,7 @@ A. Intuition—a mental state in which any desired truth is instantaneously gras
 
 275\. Q. _And when can that development be reached?_
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 A. When one, by the practice of Jñâna, comes to its fourth stage of unfolding.
 

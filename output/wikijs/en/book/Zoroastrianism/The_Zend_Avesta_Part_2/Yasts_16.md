@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 Dîn (Daêna) presides over the 24th day of the month (Sîrôzah 24) and gives it her name; she is invoked in company with <i>K</i>ista, and in fact this Ya<i>s</i>t, though it bears the name of Daêna, is consecrated to Kista (§§ 2, 7). These two Genii are, however, very closely connected in their nature, as Daêna is the impersonation of the Zoroastrian Law or Religion, and Kista is religious knowledge, the knowledge of what leads to bliss (far<i>g</i>ânak, nirvâ<i>n</i>a<i>g</i><i>ñ</i>âna; the same as <i>K</i>isti).
 
@@ -56,7 +56,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## I.
 
-1\. We sacrifice to the most right <i>K</i>ista, made by Mazda and holy: we sacrifice to the good Law of the worshippers of Mazda, the supplier of good <span id="p265">[<sup><small>p. 265</small></sup>]</span> stores, who runs quickly to the goal and frees one best from dangers [^1140], who brings libations, who is holy, clever, and renowned, speedy to work and quick of work; who goes quickly and cleanses well; the good Law of the worshippers of Mazda;
+1\. We sacrifice to the most right <i>K</i>ista, made by Mazda and holy: we sacrifice to the good Law of the worshippers of Mazda, the supplier of good <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> stores, who runs quickly to the goal and frees one best from dangers [^1140], who brings libations, who is holy, clever, and renowned, speedy to work and quick of work; who goes quickly and cleanses well; the good Law of the worshippers of Mazda;
 
 2\. To whom Zarathu<i>s</i>tra did sacrifice, saying: 'Rise up from thy seat, come forward from the Abode [^1141], thou most right <i>K</i>ista, made by Mazda and holy. If thou art before me, stay for me; if thou art behind me, overtake me.
 
@@ -68,7 +68,7 @@ Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda . . . .
 
 ## II.
 
-5\. We sacrifice to the most right <i>K</i>ista, made by Mazda and holy: we sacrifice to the good Law of the worshippers of Mazda . . . . [^1142] <span id="p266">[<sup><small>p. 266</small></sup>]</span> 6\. To whom Zarathu<i>s</i>tra did sacrifice for righteousness of thought, for righteousness of speech, for righteousness of deed, and for this boon,
+5\. We sacrifice to the most right <i>K</i>ista, made by Mazda and holy: we sacrifice to the good Law of the worshippers of Mazda . . . . [^1142] <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> 6\. To whom Zarathu<i>s</i>tra did sacrifice for righteousness of thought, for righteousness of speech, for righteousness of deed, and for this boon,
 
 7\. That the most right <i>K</i>ista, made by Mazda and holy, would give him the swiftness of the feet, the quick hearing of the ears, the strength of the arms, the health of the whole body, the sturdiness of the whole body, and the eye-sight of the Kara fish, that lives beneath the waters, and can measure a rippling of the waters not thicker than a hair, in the Rangha, whose ends lie afar and whose depth is a thousand times the height of a man [^1143].
 
@@ -82,7 +82,7 @@ For her brightness and glory, I will offer unto her a sacrifice worth being hear
 
 10\. That the most right <i>K</i>ista, made by Mazda and holy, would give him the swiftness of the feet, the quick hearing of the ears, the strength of the arms, the health of the whole body, the sturdiness of the whole body, and the eye-sight of the male horse, that, in the dark of the night, through the rain, the snow, the hail, or the sleet, from as far as nine districts, can perceive a horse's hair, mingled with the earth, and knows whether it is from the head or from the tail [^1144].
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 For her brightness and glory, I will offer unto her a sacrifice worth being heard . . . .
 
@@ -100,7 +100,7 @@ For her brightness and glory, I will offer unto her a sacrifice worth being hear
 
 14\. We sacrifice to the most right <i>K</i>ista, made by Mazda and holy: we sacrifice to the good Law of the worshippers of Mazda . . . .
 
-15\. To whom the holy Hvôvi [^1146] did sacrifice with full knowledge, wishing that the holy Zarathu<i>s</i>tra would give her his good narcotic [^1147], that she might <span id="p268">[<sup><small>p. 268</small></sup>]</span> think according to the law, speak according to the law, and do according to the law.
+15\. To whom the holy Hvôvi [^1146] did sacrifice with full knowledge, wishing that the holy Zarathu<i>s</i>tra would give her his good narcotic [^1147], that she might <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> think according to the law, speak according to the law, and do according to the law.
 
 For her brightness and glory, I will offer unto her a sacrifice, worth being heard . . . .
 
@@ -122,7 +122,7 @@ For her brightness and glory, I will offer unto her a sacrifice worth being hear
 
 20\. Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
-I bless the sacrifice and prayer, and the strength <span id="p269">[<sup><small>p. 269</small></sup>]</span> and vigour of the most right <i>K</i>ista, made by Mazda and holy, and of the good Law of the worshippers of Mazda.
+I bless the sacrifice and prayer, and the strength <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> and vigour of the most right <i>K</i>ista, made by Mazda and holy, and of the good Law of the worshippers of Mazda.
 
 Ashem Vohû: Holiness is the best of all good . . . .
 

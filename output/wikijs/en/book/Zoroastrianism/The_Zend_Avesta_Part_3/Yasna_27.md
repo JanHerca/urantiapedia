@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 ## YASNA XXVII. PRELUDE TO THE CHIEF RECITAL OF THE AHUNA-VAIRYA.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 3-5 [^1175]. 6. The Haomas are crushed, O Mazda, Khshathra, and Asha, O ye Lords! Good is Sraosha who accompanies the sacrifice with the great glory [^1176], and may he be present affording strenuous help.
 
-7\. We are offering saving acts of wisdom and of worship with the sacred gift of the Ahuna-vairya intoned with sanctity, and of the two mortars here <span id="p281">[<sup><small>p. 281</small></sup>]</span> brought forward [^1177] with holy act, and with that of the correctly uttered words likewise; and therefore may they be to us the more saving in their wise significance
+7\. We are offering saving acts of wisdom and of worship with the sacred gift of the Ahuna-vairya intoned with sanctity, and of the two mortars here <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> brought forward [^1177] with holy act, and with that of the correctly uttered words likewise; and therefore may they be to us the more saving in their wise significance
 
 8-12 [^1178]. 13. As the Ahû is excellent, so is the Ratu (one who rules) from (his) sanctity, a creator of mental goodness, and of life's actions done for Mazda; and the Kingdom (is) for Ahura, which to the poor may offer a nurturer. 14. (What is Your Kingdom, Your riches; how may I be Your own in my actions, to nourish Your poor, O Mazda? Beyond; yea, beyond all we declare You, far from Daêvas and Khrafstra-accursed mortals [^1179]!)
 

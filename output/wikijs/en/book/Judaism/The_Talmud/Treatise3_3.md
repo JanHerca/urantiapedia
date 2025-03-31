@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-1\. “A cooking oven which was heated with stubble or brushwood?” “They may place on it cookery.” “With oil-dregs and with wood?” “They must not place it, till the coals are raked out, or ashes put in.” The school of Shammai say, “hot water, but not cookery.” But the school <span id="p87">[<sup><small>p. 87</small></sup>]</span> of Hillel say, “hot water and cookery.” The school of Shammai say, “they may take it off, but not place it back.” But the school of Hillel say, “they may place it back.”
+1\. “A cooking oven which was heated with stubble or brushwood?” “They may place on it cookery.” “With oil-dregs and with wood?” “They must not place it, till the coals are raked out, or ashes put in.” The school of Shammai say, “hot water, but not cookery.” But the school <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> of Hillel say, “hot water and cookery.” The school of Shammai say, “they may take it off, but not place it back.” But the school of Hillel say, “they may place it back.”
 
 2\. “A cooking-stove, which was heated with stubble or brushwood?” “They must not place anything either inside or upon it.” “A bake oven, which was heated with stubble or brushwood?” “It is as a cooking oven.” “With oil-dregs or with wood?” “It is as a cooking stove.”
 

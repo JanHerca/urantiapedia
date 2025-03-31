@@ -36,7 +36,7 @@ dateCreated: 2025-1-16T23:40:9Z
 
 How Friar Juniper once went to Assisi for his confusion
 
-ONCE, while Friar Juniper was sojourning in the Val di Spoleto, he heard that there was a great festival at Assisi, and that many folk were going thither with great devotion; and there came to him a desire to go to this festival; and hearken how he did it. Friar Juniper stripped himself all naked save only for his breeches, and so set out, passing through Spoleto through the midst of the city; and thus naked he came to the convent. The friars were much disquieted and <span id="p218">[<sup><small>p. 218</small></sup>]</span> scandalised and rebuked him very harshly, calling him madman and fool and troubler of the Order of St. Francis, and saying that he should be chained up, as a madman. And the General, who was then in the Place, caused all the friars to be called and Friar Juniper with them; and, in the presence of all the convent, he gave him a severe and stern reproof. And, after many words, speaking as one with authority to punish, he said to Friar Juniper: “Thy fault is such and so great that I know not what fitting penance to give thee”. Whereupon Friar Juniper, even as one who delighteth in his own confusion, made answer: “Father, I will tell thee: as I have come hither naked, so for penance let me return again, in the same guise, to the place wherefrom I set out to come to this festival”.
+ONCE, while Friar Juniper was sojourning in the Val di Spoleto, he heard that there was a great festival at Assisi, and that many folk were going thither with great devotion; and there came to him a desire to go to this festival; and hearken how he did it. Friar Juniper stripped himself all naked save only for his breeches, and so set out, passing through Spoleto through the midst of the city; and thus naked he came to the convent. The friars were much disquieted and <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> scandalised and rebuked him very harshly, calling him madman and fool and troubler of the Order of St. Francis, and saying that he should be chained up, as a madman. And the General, who was then in the Place, caused all the friars to be called and Friar Juniper with them; and, in the presence of all the convent, he gave him a severe and stern reproof. And, after many words, speaking as one with authority to punish, he said to Friar Juniper: “Thy fault is such and so great that I know not what fitting penance to give thee”. Whereupon Friar Juniper, even as one who delighteth in his own confusion, made answer: “Father, I will tell thee: as I have come hither naked, so for penance let me return again, in the same guise, to the place wherefrom I set out to come to this festival”.
 
 
 ## CHAPTER XII
@@ -45,7 +45,7 @@ How Friar Juniper was rapt in ecstasy during the celebration of the Mass
 
 ONCE while Friar Juniper was hearing Mass with great devotion, he was rapt in ecstasy through elevation of mind and for a long time; and having been left in a cell far away from the other friars, when he returned to himself he began, with great fervour, to say: “O friars mine, who is there in this life so noble that he would not gladly carry a basket of dung through all the town, if he were given a house full of gold?” And he said: “Alack! wherefore are we unwilling to suffer a little shame, if so be we may gain the blessed life?”
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 ## CHAPTER XIII
 
@@ -57,7 +57,7 @@ FRIAR JUNIPER had as his companion a friar whom he dearly loved, and his name wa
 
 
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 ## CHAPTER XIV
 

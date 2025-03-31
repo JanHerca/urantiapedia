@@ -52,7 +52,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 137\. Time mingles its misfortunes with its favours, and affects its children with misery in _the midst_ of joy.
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 138\. Praise be to God, whose beneficence is to be hoped for! may He remain an object of praise in the morning and the evening!
 

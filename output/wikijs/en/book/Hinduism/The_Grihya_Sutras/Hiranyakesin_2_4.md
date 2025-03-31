@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 4, SECTION 10.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. [^676] Having put wood on the fire and strewn southward pointed and eastward-pointed Darbha grass around it, having prepared the Â<i>ya in an Â</i>ya in an Â<i>ya in an Â</i>ya pot over which he has laid one purifier, having sprinkled water round (the fire) from right to left, and put a piece of Udumbara wood on (the fire), he sacrifices with the (spoon called) Darvi which is made of Udumbara wood.
 
-5\. Having performed the rites down to the Â<i>g</i>yabhâga offerings, he suspends his sacrificial cord over his right shoulder and calls the Fathers (to his sacrifice) with (the verse), ‘Come hither, O Fathers, friends of Soma, on your hidden, ancient paths, bestowing on us offspring and wealth and long life, a life of a hundred autumns.’ <span id="p226">[<sup><small>p. 226</small></sup>]</span>
+5\. Having performed the rites down to the Â<i>g</i>yabhâga offerings, he suspends his sacrificial cord over his right shoulder and calls the Fathers (to his sacrifice) with (the verse), ‘Come hither, O Fathers, friends of Soma, on your hidden, ancient paths, bestowing on us offspring and wealth and long life, a life of a hundred autumns.’ <span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 6\. [^677] He sprinkles water in the same direction (i.e. towards the south) with (the verse), ‘Divine waters, send us Agni. May our Fathers enjoy this sacrifice. May they who receive their nourishment every month bestow on us wealth with valiant heroes.’
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 Then he sacrifices with their names: ‘To N.N. svadhâ! Adoration! To N.N. svadhâ! Adoration!’
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 ‘Wherein my mother has done amiss, abandoning her duty (towards her husband), may my father take that sperm as his own; may another one fall off from the mother. Svadhâ! Adoration!’
 
@@ -82,7 +82,7 @@ In the same way a second and a third verse with the alteration of the Mantra, �
 
 2\. In the same way he sacrifices of the food, altering the Mantra, ‘Carry the food, &c.’
 
-3\. Then he sacrifices the Svish<i>t</i>ak<i>t</i>t oblation <span id="p228">[<sup><small>p. 228</small></sup>]</span> with (the formula), ‘To Agni Kavyavâhana Svish<i>t</i>ak<i>t</i>t svadhâ! Adoration!’
+3\. Then he sacrifices the Svish<i>t</i>ak<i>t</i>t oblation <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> with (the formula), ‘To Agni Kavyavâhana Svish<i>t</i>ak<i>t</i>t svadhâ! Adoration!’
 
 4\. He then touches the food with (the formulas), 'The earth is thy vessel, the heaven is the lid. I sacrifice thee into the Brahman's mouth. I sacrifice thee into the up-breathing and down-breathing of the Brâhma<i>n</i>as. Thou art imperishable; do not perish for the Fathers yonder, in yon world! The earth is steady; Agni is its surveyor in order that what has been given may not be lost.
 
@@ -98,13 +98,13 @@ In the same way a second and a third verse with the alteration of the Mantra, �
 
 1\. While they are eating, he looks at them with (the words), ‘My soul (âtman) dwells in the Brahman that it may be immortal.’
 
-When they have eaten (and go away), he goes after them and asks for their permission to take the remains of their meal (for the rites which he is going <span id="p229">[<sup><small>p. 229</small></sup>]</span> to perform). Then he takes a water-pot and a handful of Darbha grass, goes forth to a place that lies in a south-easterly intermediate direction, spreads the Darbha grass out with its points towards the south, and pours out on that (grass) with downward-turned hands, ending in the south, three handfuls of water, with (the formulas), ‘May the fathers, the friends of Soma, wipe themselves! May the grandfathers . . . the great-grandfathers, the friends of Soma, wipe themselves!’ or, ‘N.N.! Wash thyself! N.N.! Wash thyself!’
+When they have eaten (and go away), he goes after them and asks for their permission to take the remains of their meal (for the rites which he is going <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> to perform). Then he takes a water-pot and a handful of Darbha grass, goes forth to a place that lies in a south-easterly intermediate direction, spreads the Darbha grass out with its points towards the south, and pours out on that (grass) with downward-turned hands, ending in the south, three handfuls of water, with (the formulas), ‘May the fathers, the friends of Soma, wipe themselves! May the grandfathers . . . the great-grandfathers, the friends of Soma, wipe themselves!’ or, ‘N.N.! Wash thyself! N.N.! Wash thyself!’
 
 3\. [^681] On that (grass) he puts down, with downward-turned hands, ending in the south, the lumps (of food for the Fathers). To his father he gives his lump with (the words), ‘This to thee, father, N.N.!’ to the grandfather with (the words), ‘This to thee, grandfather, N.N.!’ to the great-grandfather with (the words), ‘This to thee, great-grandfather, N.N.!’ silently a fourth (lump). This (fourth lump) is optional.
 
 4\. Should he not know the names (of the ancestors), he gives the lump to the father with (the words), ‘Svadhâ to the Fathers who dwell on the earth,’ to the grandfather with (the words), ‘Svadhâ to the Fathers who dwell in the air,’ to the great-grandfather with (the words), ‘Svadhâ to the Fathers who dwell in heaven.’
 
-5\. Then he gives, corresponding to each lump, collyrium and (other) salve and (something that represents) a garment. <span id="p230">[<sup><small>p. 230</small></sup>]</span>
+5\. Then he gives, corresponding to each lump, collyrium and (other) salve and (something that represents) a garment. <span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 6\. [^682] The collyrium (he gives), saying three times, ‘Anoint thy eyes, N.N.! Anoint thy eyes, N.N.!’
 
@@ -123,7 +123,7 @@ When they have eaten (and go away), he goes after them and asks for their permis
 
 
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 4, SECTION 13.
 

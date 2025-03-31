@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 ## TREATISE V.
 
@@ -46,7 +46,7 @@ Preparations of the High Priest—Cleansing the Altar—Casting Lots—Daybreak�
 
 2\. All these seven days, he (the high priest) sprinkled the blood, burned the incense, and trimmed the lamps, and offered the head and the foot. On the remainder of all the days, if he wished to offer, he offered; since the high priest first offered part, and first took part (in the sacrifices).
 
-3\. The elders from the elders of the great Sanhedrin delivered to him, and read before him, the ceremonial of the day; and they said to him, “My Lord High Priest, read with thy mouth, perchance thou hast forgotten, or perchance thou hast not learned.” [^191] On the eve of the day of atonement, towards dawn, they placed him in the eastern gate (of the Temple), and they caused to pass before him bullocks, <span id="p120">[<sup><small>p. 120</small></sup>]</span> rams, and lambs, that he might be skilled and expert in his ministry.
+3\. The elders from the elders of the great Sanhedrin delivered to him, and read before him, the ceremonial of the day; and they said to him, “My Lord High Priest, read with thy mouth, perchance thou hast forgotten, or perchance thou hast not learned.” [^191] On the eve of the day of atonement, towards dawn, they placed him in the eastern gate (of the Temple), and they caused to pass before him bullocks, <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> rams, and lambs, that he might be skilled and expert in his ministry.
 
 4\. All the seven days they did not withhold from him food and drink; the eve of the day of atonement, with the beginning of darkness, they did not permit him to eat much, since food induces sleep.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 ### CHAPTER VIII.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 4. It is prohibited to tie a horse \[in order to break it in\], to tine sides of, or behind, a waggon \[drawn by oxen\], and also \[to tie\], for the purpose of draught, \[a Lybian ass\] [^61] with a camel. R. Jehudah saith, “Whatever is foaled by a mare may be joined with each other, although the sire should have been an ass; and, in like manner, whatever is foaled by a she-ass may be joined together, although tine sire should have been a horse; but it is unlawful to join what has been foaled by a mare with that which has been foaled by a she-ass.”
 
-§ 5. It is prohibited to cause the ‏פרוטיות‎ [^62] to copulate; but it is <span id="p30">[<sup><small>p. 30</small></sup>]</span> allowed to do so with the ‏רמך‎. [^63] The ‏אדני שדה‎ [^64] is a wild animal; R. José saith, “its dead carcase, even like that of a human being, causes all that is under the cover of a tent to contract pollution.” The porcupine and the ‏חולדת הסניים‎ [^65] will, as R. José says, according to Beth Shammai, “cause a person to contract pollution who has carried any portion of their carcases, which has the size of an olive, or who has touched any part of it of the size of a lentil.”
+§ 5. It is prohibited to cause the ‏פרוטיות‎ [^62] to copulate; but it is <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> allowed to do so with the ‏רמך‎. [^63] The ‏אדני שדה‎ [^64] is a wild animal; R. José saith, “its dead carcase, even like that of a human being, causes all that is under the cover of a tent to contract pollution.” The porcupine and the ‏חולדת הסניים‎ [^65] will, as R. José says, according to Beth Shammai, “cause a person to contract pollution who has carried any portion of their carcases, which has the size of an olive, or who has touched any part of it of the size of a lentil.”
 
 The urus, or buffalo, must be considered as a domestic animal; R. José, however, saith, “as a wild animal. The dog as a wild animal;” but R. Meir saith, “as a domestic one.” The hog as a domestic animal; the zebra as a wild animal. The elephant and the monkey as wild animals. It is lawful for a human being to draw, plough, or drive \[together\] with any of these animals.
 

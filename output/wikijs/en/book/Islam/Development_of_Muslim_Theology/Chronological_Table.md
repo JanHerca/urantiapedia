@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 For typographical reasons the smooth guttural _Ha_, the palatals _Sad, Dad, Ta, Za_, and the long vowels are indicated by italic. The same system is followed in the index.
 
@@ -88,7 +88,7 @@ A.H. | &nbsp;
 172-375 | Idr_i_sids.
 179 | Malik b. Anas d. 68
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 A.H. | &nbsp;
 --- | ---
@@ -150,7 +150,7 @@ A.H. | &nbsp;
 403 | Al-B_a_qil_a_n_i_ d.
 408 | Persecution of Mu‘tazilites under al-Q_a_dir.
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 A.H. | &nbsp;
 --- | ---
@@ -216,7 +216,7 @@ A.H. | &nbsp;
 756 | Al-‘_I_j_i_ d; Heinrich Suso d.
 791 | At-Taft_aza_n_i_ d.; an-Naqshband_i_, founder of order of darw_i_shes, d.
 
-<span id="p371">[<sup><small>p. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 A.H. | &nbsp;
 --- | ---

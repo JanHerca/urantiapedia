@@ -29,7 +29,7 @@ dateCreated: 2024-11-25T21:10:31Z
   </table>
 </figure>
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 ## What is Righteousness?
 
@@ -37,7 +37,7 @@ dateCreated: 2024-11-25T21:10:31Z
 
 This fine passage from the Koran is considered by Moslem commentators as the most comprehensive statement of the duties of man: “Sound faith, a good social life, and right culture of the soul” (El-Beidaway).
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 _Instructions of Ali Ibn-abi Talib, the first Khalif to his son_—“My son, fear God both secretly and openly; speak the truth, whether you be calm or angry; be economical, whether you be poor or rich; be just to friend and foe; be resigned alike in times of adversity and prosperity. My son, he who sees his own faults has no time to see the faults of others; he who is satisfied with the allotments of Providence does not regret the past; he who unsheaths the sword of aggression will be killed by it; he who digs a pit for his brother will fall into it; he who forgets his own sin makes much of the sin of another; he who takes to evil ways will be despised; he who commits excesses will be known to do them; he who associates with the base will be subject to constant suspicion; he who remembers death will be content with little in this world; he who boasts of his sins before men, God will bring him to shame.”
 
@@ -75,7 +75,7 @@ _Arab._    I shall leave a land in which thou dwellest, and depart, though the h
 
 _Ma’an__._    Brother Arab, if thou stay, thou art welcome; and if thou depart, peace go with thee.
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 _Arab._    Son of shame, give me something for my journey, for I have decided to go.
 
@@ -87,7 +87,7 @@ _Arab._    Noble prince, I have heard much of thy great forbearance, and came on
 
 The following historical incident is related by Arab authors as the highest example of faithfulness to trust. Al-Samau’al (Samuel) was the emir of a Jewish tribe in Southern Arabia, shortly before the time of Mohammed. A friend of his, before setting out on a journey, left with him some very fine mailed armour. This friend was killed in a battle, and one of the kings of Syria demanded the arms. Al-Samau’al refused to give them up except to the rightful heir, and the king laid siege to him in one of his fortresses. One day his son fell into the hands of the enemy, and the king threatened to kill him if the arms were not given up. Again he refused, and from the turrets of the castle saw his son put to death. The siege was soon after raised, and the arms were delivered to the heirs of his friend.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 ## Truthfulness to Pledge
 
@@ -145,7 +145,7 @@ And grins in scorn at this most sorry show;
 A multitude of corses passed therein—
 Alas! Time almost reaps e’er he doth sow!
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 How oft around the Well my Soul would grope
 Athirst; but to! my Pail was without Rope:
@@ -177,7 +177,7 @@ Three things are no disgrace to man—to serve his guest, to serve his horse, an
 
 Extremes are a mistake—a middle course is the best.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 When the cooks are many the food is spoiled. When a ship has two captains it will sink.
 
@@ -211,7 +211,7 @@ If you would know what a man hath, look not to what he gains but to what he spen
 
 Nothing can be concealed except that which is not.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 The best friend is he who changeth not with the changes of time.
 

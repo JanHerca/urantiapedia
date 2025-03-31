@@ -34,9 +34,9 @@ dateCreated: 2025-2-7T10:36:56Z
 
 “Precious in the sight of the Lord is the Aggadah, as explained in the Midrashim”
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 ## INTRODUCTORY NOTE
 
@@ -44,9 +44,9 @@ THE Midrashim are ancient Rabbinical expositions of Holy Writ. The term Midrash 
 
 The Midrashim, for the most part, originated in a praiseworthy desire to familiarize the people with Holy Writ, which had, in consequence of changes in the vernacular, become to them, in the course of time, almost a dead letter. These Midrashim have little or nothing to do with the Halachoth or legal decisions of the Talmud, except in aim, which is that of illustration and explanation. They are not literal interpretations, but figurative and allegorical, and as such enigmatic. They are, however, to be received as utterances of the sages, and some even regard them of as binding obligation as the law of Moses itself. The following are fairly representative extracts.
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 ## THE MIDRASHIM
 
@@ -68,7 +68,7 @@ _Ibid._, chap. 63.
 
 _Ibid._, chap. 68.
 
-Vayash Kihu, “And kissed him” (Gen. xxxiii. 4), Rabbi Yanai asks, “Why is this word (in the original Hebrew) so pointed?” “It is to teach that Esau did not come to kiss him, but to bite him”; only the neck of Jacob our father became as hard as marble, and this blunted the teeth of the wicked one.“ ”And what is taught by the <span id="p238">[<sup><small>p. 238</small></sup>]</span> expression ‘And they wept’?“ ”The one wept for his neck and the other for his teeth.”
+Vayash Kihu, “And kissed him” (Gen. xxxiii. 4), Rabbi Yanai asks, “Why is this word (in the original Hebrew) so pointed?” “It is to teach that Esau did not come to kiss him, but to bite him”; only the neck of Jacob our father became as hard as marble, and this blunted the teeth of the wicked one.“ ”And what is taught by the <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> expression ‘And they wept’?“ ”The one wept for his neck and the other for his teeth.”
 
 _Midrash Rabbah_, chap, 78.
 
@@ -84,7 +84,7 @@ Abraham made a covenant with the people of the land, and when the angels present
 
 _Ibid._
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 Shechem, the son of Hamor, assembled girls together playing on tambourines outside the tent of Dinah, and when she “went out to see them,” he carried her off. . . . and she bare him Osenath. The sons of Jacob wished to kill her, lest the people of the land should begin to talk scandal of the house of their father. Jacob, however, engraved the holy Name on a metal plate, suspended it upon her neck, and sent her away. All this being observed before the Holy One—blessed be He!—the angel Michael was sent down, who led her to Egypt, into the house of Potipherah; for Osenath was worthy to become the wife of Joseph.
 
@@ -96,7 +96,7 @@ When Joseph's brethren recognized him, and were about to kill him, an angel came
 
 _Vayegash_, chap. 5.
 
-The tradition of a legend in our possession says that Judah killed Esau. When? When Isaac died, Jacob and (the chiefs of) the twelve clans went to bury him; as it is written (Gen. xxxv. 29), “And his sons Esau and Jacob buried him.” In the Midrash it is, “And Esau and Jacob and his sons buried him,” which fits the legend better. Arrived at the cave, they entered it, and they stood and wept. The (heads of the) tribes, out of respect to Jacob, left the cave, that Jacob might not be put to shame in their presence. Judah re-entered it, and finding <span id="p240">[<sup><small>p. 240</small></sup>]</span> Esau risen up as if about to murder Jacob, he instantly went behind him and killed him. But why did he not kill him from the front? Because the physiognomy of Esau was exactly like that of Jacob, and it was out of respect to the latter that be slew Esau from behind.
+The tradition of a legend in our possession says that Judah killed Esau. When? When Isaac died, Jacob and (the chiefs of) the twelve clans went to bury him; as it is written (Gen. xxxv. 29), “And his sons Esau and Jacob buried him.” In the Midrash it is, “And Esau and Jacob and his sons buried him,” which fits the legend better. Arrived at the cave, they entered it, and they stood and wept. The (heads of the) tribes, out of respect to Jacob, left the cave, that Jacob might not be put to shame in their presence. Judah re-entered it, and finding <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> Esau risen up as if about to murder Jacob, he instantly went behind him and killed him. But why did he not kill him from the front? Because the physiognomy of Esau was exactly like that of Jacob, and it was out of respect to the latter that be slew Esau from behind.
 
 _Midrash Shochar Tov_, chap. 18.
 
@@ -114,7 +114,7 @@ _Bamidbar Rabbah_, chap. 2.
 
 _Ibid._, chap. 7.
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 “And Abraham rose up early and saddled his ass” (Gen. xii 3). This is the ass on which Moses also rode when he came into Egypt; for it is said (Exod. iv. 20), “And Moses took his wife and his sons, and set them upon an ass.” This is the ass on which the Son of David also shall ride; as it is said (Zech. ix. 9), “Poor, and riding upon an ass.”
 
@@ -136,7 +136,7 @@ The Holy One—blessed be He!—daily proclaims a new law in the heavenly court,
 
 _Ibid._, chap, 37-
 
-A Gentile once asked Rabbi Yoshua ben Kapara, “Is it true that ye say your God sees the future?” “Yes,” was <span id="p242">[<sup><small>p. 242</small></sup>]</span> the reply. “Then how is it that it is written (Gen. vi. 6), ‘And it grieved Him at His heart’?” “Hast thou,” replied the Rabbi, “ever had a boy born to thee?” “Yes,” said the Gentile; “and I rejoiced and made others rejoice with me.” “Didst thou not know that he would eventually die?” asked the Rabbi. “Yes,” answered the other; “but at the time of joy is joy, and at the time of mourning, mourning?” “So it is before the Holy One—blessed be He!—seven days he mourned before the deluge destroyed the world.”
+A Gentile once asked Rabbi Yoshua ben Kapara, “Is it true that ye say your God sees the future?” “Yes,” was <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> the reply. “Then how is it that it is written (Gen. vi. 6), ‘And it grieved Him at His heart’?” “Hast thou,” replied the Rabbi, “ever had a boy born to thee?” “Yes,” said the Gentile; “and I rejoiced and made others rejoice with me.” “Didst thou not know that he would eventually die?” asked the Rabbi. “Yes,” answered the other; “but at the time of joy is joy, and at the time of mourning, mourning?” “So it is before the Holy One—blessed be He!—seven days he mourned before the deluge destroyed the world.”
 
 _Bereshith Rabbah_, chap. 27.
 
@@ -148,7 +148,7 @@ Job said, “Even the devil shall not dissuade me from comforting those that mou
 
 _Psikta Nachmu._
 
-Once Rabbi Shimon ben Yebozedek addressed Rabbi Sh'muel ben Nachman and said, “I hear that thou art a Baal Aggadah; canst thou therefore tell me whence the light was created?” “We learn,” he replied in a whisper, that God wrapped Himself with light as with a garment, and He has caused the splendor thereof to shine from one end of the world to the other.“ The other said, ”Why whisperest thou, I wonder, since Scripture says so plainly (Ps. civ. 2) 'Who covereth Himself with light as with a <span id="p243">[<sup><small>p. 243</small></sup>]</span> garment'?“ The reply was, ”I heard it in a whisper, and in a whisper I have told it to thee.”
+Once Rabbi Shimon ben Yebozedek addressed Rabbi Sh'muel ben Nachman and said, “I hear that thou art a Baal Aggadah; canst thou therefore tell me whence the light was created?” “We learn,” he replied in a whisper, that God wrapped Himself with light as with a garment, and He has caused the splendor thereof to shine from one end of the world to the other.“ The other said, ”Why whisperest thou, I wonder, since Scripture says so plainly (Ps. civ. 2) 'Who covereth Himself with light as with a <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> garment'?“ The reply was, ”I heard it in a whisper, and in a whisper I have told it to thee.”
 
 _Bereshith Rabbah_, chap. 3.
 
@@ -172,7 +172,7 @@ _Tal. Yerushalmi P'sachim_, Shabbath, xvi. fol. 30, col. 2.
 
 _T. debei Aliahu_, chap. 2.
 
-Rabbi Yeremiah, the son of Elazar, said, “When the Holy One—blessed be He!—created Adam, He created him an androgyne, for it is written (Gen. v. 2), ”Male and female created He them.“ Rabbi Sh'muel bar Nachman said, ”When the Holy One—blessed be He!—created Adam, He created him with two faces; then He sawed him <span id="p244">[<sup><small>p. 244</small></sup>]</span> asunder, and split him (in two), making one back to the one-half, and another to the other.”
+Rabbi Yeremiah, the son of Elazar, said, “When the Holy One—blessed be He!—created Adam, He created him an androgyne, for it is written (Gen. v. 2), ”Male and female created He them.“ Rabbi Sh'muel bar Nachman said, ”When the Holy One—blessed be He!—created Adam, He created him with two faces; then He sawed him <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> asunder, and split him (in two), making one back to the one-half, and another to the other.”
 
 _Midrash Rabbah_, chap. 8.
 
@@ -188,7 +188,7 @@ Rabbi Yochanan saith, “Adam and Eve seemed as if they were about twenty years 
 
 _Ibid._, chap. 14.
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 Rav Acha said when God was about to create Adam He consulted the ministering angels, and asked them, saying, “Shall we make man?” They enquired, “Of what good will this man be?” He replied, “His wisdom will be greater than yours.” One day, therefore, He brought together the cattle, the beasts, and the birds, and asked them the name of them severally, but they knew not. He then caused them to pass before Adam, and asked him, “What is the name of this and the other?” Then Adam replied, “This is an ox, this is an ass,” and so on. “And thou, why is thy name Adam?” (_i. e._ in Hebrew, man). “I ought to be called Adam,” was his reply, “for I was created from Adamah” (the ground). “And what is My name?” “It is meet Thou shouldst be called Lord, for Thou art Lord over all Thy creatures.” Rav Acha says, “‘I am the Lord, that is My name’ (Isa. xlii. 8). (That is My name which Adam called Me.)”
 
@@ -204,7 +204,7 @@ _Ibid._, chap. 28.
 
 Concerning the bone, the _os coccygis_, there is an interesting story in Midrash Kohelet (fol. 114, 3), which may be appropriately inserted here. Hadrian (whose bones may they be ground, and his name blotted out) once asked Rabbi Joshua ben Chanania, “From what shall the human frame be reconstructed when it rises again?” “From Luz in the backbone,” was the answer. “Prove this to me,” said Hadrian. Then the Rabbi took Luz, a small bone of the spine, and immersed it in water, but it was not softened; he put it into the fire, but it was not consumed; he put it into a mill, but it could not be pounded; he placed it upon an anvil and struck it with a hammer, but the anvil split and the hammer was broken. (See also Zohar in “Genesis,” 206, etc. etc.)
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 “A window shalt thou make to the ark” (Gen. vi. 16). Rabbi Amma says, “It was a real window.” Rabbi Levi, on the other hand, maintained that it was a precious stone, and that during the twelve months Noah was in the ark he had no need of the light of the sun by day nor of the moon by night because of that stone, which he had kept suspended, and he knew that it was day when it was dim, and night when it sparkled.
 
@@ -220,7 +220,7 @@ _Ibid._, chap. 32.
 
 At the time God said to the serpent, “Upon thy belly thou shalt go” (Gen. iii. 14), the ministering angels descended and lopped off his hands and his feet. Then his voice was heard from one end of the world to the other. Bereshith Midrash Rabbah, chap. 20.
 
-When God said to the serpent, “And upon thy belly thou shalt go” (Gen. iii. 4), the serpent replied, “Lord of the universe! if this be Thy will, then I shall be as a fish of the sea without feet.” But when God said to him, “And dust shalt thou eat,” he replied, “If fish eat dust, then I also will eat it.” Then God seized hold of the serpent and tore his tongue in two, and said, "O thou wicked one! thou hast commenced (to sin) with thy evil tongue; <span id="p247">[<sup><small>p. 247</small></sup>]</span> thus I will proclaim it to all that come into the world that it was thy tongue that caused thee all this.”
+When God said to the serpent, “And upon thy belly thou shalt go” (Gen. iii. 4), the serpent replied, “Lord of the universe! if this be Thy will, then I shall be as a fish of the sea without feet.” But when God said to him, “And dust shalt thou eat,” he replied, “If fish eat dust, then I also will eat it.” Then God seized hold of the serpent and tore his tongue in two, and said, "O thou wicked one! thou hast commenced (to sin) with thy evil tongue; <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> thus I will proclaim it to all that come into the world that it was thy tongue that caused thee all this.”
 
 _Letters of Rabbi Akiva_.
 
@@ -238,7 +238,7 @@ All the presents which our father Jacob gave to Esau will one day be returned by
 
 _Midrash Rabbah Vayishlach_, chap. 78.
 
-A philosopher once posed Rabbi Eliezer with the question, “Does not the prophet say (Mal. i. 4), ‘They shall build, but I will throw down’? and do not buildings still exist?” To which the Rabbi answered, “The prophet does not speak of buildings, but of the schemes of designers. Ye all think to contrive and build up devices, to destroy and make an end of us, but He bringeth your counsels to nought. He throweth them down, so that your devices against us have no effect.” “By thy life,” said the philosopher, "it is even so; we meet annually for the purpose of <span id="p248">[<sup><small>p. 248</small></sup>]</span> compassing your ruin, but a certain old man comes and upsets all your projects" (namely, Elijah).
+A philosopher once posed Rabbi Eliezer with the question, “Does not the prophet say (Mal. i. 4), ‘They shall build, but I will throw down’? and do not buildings still exist?” To which the Rabbi answered, “The prophet does not speak of buildings, but of the schemes of designers. Ye all think to contrive and build up devices, to destroy and make an end of us, but He bringeth your counsels to nought. He throweth them down, so that your devices against us have no effect.” “By thy life,” said the philosopher, "it is even so; we meet annually for the purpose of <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> compassing your ruin, but a certain old man comes and upsets all your projects" (namely, Elijah).
 
 _Yalkut Malachi._
 
@@ -252,7 +252,7 @@ _Ibid._
 
 A superstitious belief prevails to some extent in Poland, among the Christian population as well as the Jews, that coins obtained in certain circumstances bring luck apart altogether from any virtue they may be supposed to convey from the giver. A penny obtained, for instance, the first thing in the morning, by stumbling on it in the street, by the sale of an article in the market, or by gift of charity, is considered to bode luck, and cherished as a pledge of good fortune by being slightly spat upon several times on receipt, and then carefully stowed away, for a longer or shorter period, in some safe sanctum. Job was the luckiest man that ever lived; his very goats even were so lucky as to kill the wolves that came to devour them; and a beggar, as we see, who received a mite from his hands, never needed afterward to beg an alms from him again. (See “Genesis according to the Talmud,” p. 288, No. 16.)
 
-“And Saul said unto the Kenites, Go, depart, etc.; for ye showed kindness to all the children of Israel” (1 Sam. xv. 6). And did they show kindness to all the children of Israel? No; but what is written is to teach that he who receives a disciple of the wise as a guest into his <span id="p249">[<sup><small>p. 249</small></sup>]</span> house, and gives him to eat and to drink, is as if he had shown kindness to all the children of Israel.
+“And Saul said unto the Kenites, Go, depart, etc.; for ye showed kindness to all the children of Israel” (1 Sam. xv. 6). And did they show kindness to all the children of Israel? No; but what is written is to teach that he who receives a disciple of the wise as a guest into his <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> house, and gives him to eat and to drink, is as if he had shown kindness to all the children of Israel.
 
 _Midrash Sh'muel_, chap. 18.
 
@@ -266,7 +266,7 @@ _Midrash Tillin Terumah, Kedoshim_.
 
 In Ezek. v. 5 we read, “I have set Jerusalem in the midst of the nations and countries that are round about her.” On the literal interpretation of these words it was asserted that Jerusalem was the very centre of the world, or, as Jerome quaintly called it, “the navel of the earth.” In the Talmud we find a beautiful metaphor in illustration of this view. It is in the last six lines of the ninth chapter of Derech Eretz Zuta, which read thus: “Issi ben Yochanan, in the name of Shemuel Hakaton, says, ‘The world is like the eyeball of man; the white is the ocean which surrounds the world, the black is the world itself, the pupil is Jerusalem, and the image in the pupil is the Temple. May it be built in our own days, and in the days of all Israel! Amen!’” The memory of this conceit is kept alive to this day among the Greek Christians, who still show the sacred stone in the Church of the Holy Sepulchre at Jerusalem. This notion is not confined to Jewry. Classic readers will at once call to mind the appellation Omphalos or navel applied to the temple at Delphi (Pindar, Pyth., iv. 131, vi. 3; Eurip. Ion., 461; Æsch. Chœph., 1034; Eum. 40, 167; Strabo, etc.).
 
-Two sparks issued from between the two cherubim and destroyed the serpents and scorpions and burned the thorns in the wilderness. The smoke thereof, rising and spreading, <span id="p250">[<sup><small>p. 250</small></sup>]</span> perfumed the world, so that the nations said (Cant. iii. 6), “Who is this that cometh out of the wilderness like pillars of smoke, perfumed,” etc.
+Two sparks issued from between the two cherubim and destroyed the serpents and scorpions and burned the thorns in the wilderness. The smoke thereof, rising and spreading, <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> perfumed the world, so that the nations said (Cant. iii. 6), “Who is this that cometh out of the wilderness like pillars of smoke, perfumed,” etc.
 
 _Ibid._, _Vayakhel_.
 
@@ -290,7 +290,7 @@ _Midrash Shochar Tov on Ps. lxxxv_.
 
 _Midrash Mishle_.
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 See also the Talmud, Kethuboth, fol. 111, col. 1. Dr. Benisch renders “and make expiation for His ground and His people.” The Targums of Jonathan and the Yerushalmi have, “He will make atonement for His land and for His people;” and Onkelos puts it thus, “He will show mercy unto His land and His people.” Our rendering, however, is in accordance with the sense given to it in the Talmud. There are Jews who travel about the world with bags of earth from the Holy Land, which they sell in small quantities for high prices to such as can afford it, and believe in its virtue as a protection against the worms of the grave.
 
@@ -306,7 +306,7 @@ _Midrash Rabbah Esther_.
 
 _Pesikta_.
 
-“He stood and measured the earth” (Hab. iii. 6). Rabbi Shimon ben Yochai expounded “He stood and measured” thus: "The Holy One—blessed be He!—measured all the nations, and He found none worthy to receive the law except the generation in the wilderness. He <span id="p252">[<sup><small>p. 252</small></sup>]</span> measured all the mountains, and He found none on which to give the law except Mount Sinai. He measured all cities, and found none in which to build the Temple except Jerusalem. He measured all lands, and found none worthy to be given unto Israel except the one now called the land of Israel. This it is that is written, “He stood up and measured the earth.”
+“He stood and measured the earth” (Hab. iii. 6). Rabbi Shimon ben Yochai expounded “He stood and measured” thus: "The Holy One—blessed be He!—measured all the nations, and He found none worthy to receive the law except the generation in the wilderness. He <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> measured all the mountains, and He found none on which to give the law except Mount Sinai. He measured all cities, and found none in which to build the Temple except Jerusalem. He measured all lands, and found none worthy to be given unto Israel except the one now called the land of Israel. This it is that is written, “He stood up and measured the earth.”
 
 _Vayekra Rabbah_, chap. 13.
 
@@ -326,7 +326,7 @@ _Midrash Rabbah Bereshith_, chap. 17.
 
 _Pesikta_.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 (Cant. v. i), “I came into My garden,” the synagogues and academies; “My sister, My spouse,” the congregation of Israel; “I have gathered My myrrh with My spice,” the Bible (that is); “I have eaten My honeycomb with My honey” (this means) the Halachoth, Midrashoth, and Aggadoth; “I have drank My wine with My milk,” this alludes to the good works which are reserved for the sages of Israel. After that, “Eat, O friends! drink, yea, drink freely, O beloved!”
 
@@ -338,7 +338,7 @@ _Midrash Rabbah Devarim_, chap. 15.
 
 We are reminded of this tradition in the conclusion service for Yom Kippur, where we repeat, “Speedily thou shalt open the hidden gates to those who hold fast Thy law.” The allusion is to “the gates of the Temple,” which “are supposed to be sunk in the ground.”
 
-Rabbi Akiva once met on a journey a remarkably ugly man toiling along under a great load of wood. Rabbi Akiva said unto him, “I adjure thee to tell me whether thou art a man or a demon.” “Rabbi,” said he, “I was once a man, and it is now some time since I left the world. Day after day I have to carry a load like this, under which I am obliged to bow down, and submit three times a day to be burned,” Then Rabbi Akiva asked him, “What was the reason of this punishment?” and the reply was, “I committed an immorality on the Day of Atonement.” The Rabbi asked him if he knew of anything by which he might obtain for him a remission of his punishment. <span id="p254">[<sup><small>p. 254</small></sup>]</span> “I do,” was the answer. “When a son whom I have left behind me is called up to the (public) reading of the law, and shall say, ‘Blessed be the blessed Lord,’ I shall be drawn out of hell and taken into Paradise.” The Rabbi noted down the name of the man and his dwelling-place, whither he afterward went and made inquiries about him. The people of the place only replied, “The name of the wicked shall rot” (Prov. x. 7). Notwithstanding this, the Rabbi insisted, and said, “Bring his son to me.” When they brought him, he taught the lad to repeat the blessing, which he did on the ensuing Sabbath at the public reading of the law; upon which his father was immediately removed from hell to Paradise. On the self-same night the father repaired direct to Rabbi Akiva, and gratefully expressed his hope that the Rabbi's mind might be as much at rest as his own was.
+Rabbi Akiva once met on a journey a remarkably ugly man toiling along under a great load of wood. Rabbi Akiva said unto him, “I adjure thee to tell me whether thou art a man or a demon.” “Rabbi,” said he, “I was once a man, and it is now some time since I left the world. Day after day I have to carry a load like this, under which I am obliged to bow down, and submit three times a day to be burned,” Then Rabbi Akiva asked him, “What was the reason of this punishment?” and the reply was, “I committed an immorality on the Day of Atonement.” The Rabbi asked him if he knew of anything by which he might obtain for him a remission of his punishment. <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> “I do,” was the answer. “When a son whom I have left behind me is called up to the (public) reading of the law, and shall say, ‘Blessed be the blessed Lord,’ I shall be drawn out of hell and taken into Paradise.” The Rabbi noted down the name of the man and his dwelling-place, whither he afterward went and made inquiries about him. The people of the place only replied, “The name of the wicked shall rot” (Prov. x. 7). Notwithstanding this, the Rabbi insisted, and said, “Bring his son to me.” When they brought him, he taught the lad to repeat the blessing, which he did on the ensuing Sabbath at the public reading of the law; upon which his father was immediately removed from hell to Paradise. On the self-same night the father repaired direct to Rabbi Akiva, and gratefully expressed his hope that the Rabbi's mind might be as much at rest as his own was.
 
 _Midrash Assereth Hadibroht_.
 
@@ -350,7 +350,7 @@ There are four cardinal points in the world, etc. The north point God created bu
 
 Pirke d'Rab. Eliezer, chap. 3.
 
-A Min once asked Rabbi Akiva, “Who created this world?” “The Holy One—blessed be He!”—was the reply. “Give me positive proof of this,” begged the other. “Come to-morrow,” answered the Rabbi. On coming the next day, the Rabbi asked, “What are you dressed in?” “in a garment,” was the reply. “Who made it?” asked the Rabbi. “A weaver,” said the other. “I don't believe thee,” said the Rabbi; I give me a positive proof of this.“ <span id="p255">[<sup><small>p. 255</small></sup>]</span> ”I need not demonstrate this,“ said the Min; ”it stands to reason that a weaver made it.“ ”And so thou mayest know that God created the world,“ observed the Rabbi. When the Min had departed, the Rabbi's disciples asked him, ”What is proof positive?“ He said, ”My children, as a house implies a builder, and a garment a weaver, and a door a carpenter, so likewise the existence of the world implies that the Holy One—blessed be He!—created it.”
+A Min once asked Rabbi Akiva, “Who created this world?” “The Holy One—blessed be He!”—was the reply. “Give me positive proof of this,” begged the other. “Come to-morrow,” answered the Rabbi. On coming the next day, the Rabbi asked, “What are you dressed in?” “in a garment,” was the reply. “Who made it?” asked the Rabbi. “A weaver,” said the other. “I don't believe thee,” said the Rabbi; I give me a positive proof of this.“ <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> ”I need not demonstrate this,“ said the Min; ”it stands to reason that a weaver made it.“ ”And so thou mayest know that God created the world,“ observed the Rabbi. When the Min had departed, the Rabbi's disciples asked him, ”What is proof positive?“ He said, ”My children, as a house implies a builder, and a garment a weaver, and a door a carpenter, so likewise the existence of the world implies that the Holy One—blessed be He!—created it.”
 
 _Midrash Terumah_.
 
@@ -366,7 +366,7 @@ _Midrash Rabbah Devarim_.
 
 _Midrash Rabbah Shir-Hashirim_.
 
-Rabbon Gamaliel called on Chilpa, the son of Caroyna, when the latter asked the Rabbi to pray on his behalf; and <span id="p256">[<sup><small>p. 256</small></sup>]</span> be prayed, “The Lord grant thee according to thine own heart (Ps. xx. 4). Rabbi H——-, son of Rabbi Isaac, said, It was not so; he prayed thus, ”The Lord fulfill all thy petitions); for a man often thinks in his heart to steal or commit some other transgression, and therefore “The Lord grant thee according to thine own heart,” is a prayer not to be offered on behalf of every man.“ But the answer was, ”His heart was perfect before his Creator, and therefore he did so pray on his behalf.”
+Rabbon Gamaliel called on Chilpa, the son of Caroyna, when the latter asked the Rabbi to pray on his behalf; and <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> be prayed, “The Lord grant thee according to thine own heart (Ps. xx. 4). Rabbi H——-, son of Rabbi Isaac, said, It was not so; he prayed thus, ”The Lord fulfill all thy petitions); for a man often thinks in his heart to steal or commit some other transgression, and therefore “The Lord grant thee according to thine own heart,” is a prayer not to be offered on behalf of every man.“ But the answer was, ”His heart was perfect before his Creator, and therefore he did so pray on his behalf.”
 
 _Midrash Shochar Tov_, 20.
 
@@ -380,7 +380,7 @@ _Ibid._
 
 Rabbi Avin said four kinds of excellency were created in the world: (1.) Man's excellency over the animal kingdom; (2.) the eagle's excellency over the feathered tribes;
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 (3.) the excellency of the ox over domestic cattle; and (4.) the lion's excellency over the wild beasts. All were fixed under the chariot of God; as it is said (Ezek. i. 10), “As for the likeness of their faces, they four had the face of a man, the face of a lion, the face of an ox, and the face of an eagle.” And why all this? In order that they should not exalt themselves, but know that there is a kingdom of heaven over them; and on this account it is said (Eccles. v. 8), “He that is higher than the highest regardeth, and there be higher than they.” This is the meaning of Exod. xv. 1: “He hath triumphed gloriously.”
 
@@ -394,7 +394,7 @@ _Bamidbar_, chap. 4.
 
 _Midrash Shir Hashirim_.
 
-Rabbi Ishmael saith all the five fingers of the right hand of the Holy One of Israel—blessed be He!—are severally the efficient causes of redemptions. (1.) With His little finger He pointed out to Noah how to construct the ark; as it is said (Gen. vi. 15), “And thus thou shalt make it.” (2.) With the finger -next to the little one He smote the Egyptians; as it is said (Exod. viii. 19), “This is the finger of God.” (3.) With the third finger from the little <span id="p258">[<sup><small>p. 258</small></sup>]</span> one He wrote the tables; as it is said (Exod. xxxi. 18), “Tables of stone written by the finger of God.” (4.) With the fourth finger, that which is next the thumb, the Holy One—blessed be He!—pointed out to Moses how much the Israelites should give as a ransom for their souls; as it is said (Exod. xxx. 13), “This shall they give.” (5.) With the thumb and the whole hand the Holy One-blessed be He!—will in the future destroy the children of Esau, for they oppress the children of Israel, as also the children of Ishmael, for they are their enemies; as it is said (Micah v. 9), “Thine hand shall be uplifted upon thy adversaries, and all thy enemies shall be cut off.”
+Rabbi Ishmael saith all the five fingers of the right hand of the Holy One of Israel—blessed be He!—are severally the efficient causes of redemptions. (1.) With His little finger He pointed out to Noah how to construct the ark; as it is said (Gen. vi. 15), “And thus thou shalt make it.” (2.) With the finger -next to the little one He smote the Egyptians; as it is said (Exod. viii. 19), “This is the finger of God.” (3.) With the third finger from the little <span id="p258"><sup><small>[ p. 258 ]</small></sup></span> one He wrote the tables; as it is said (Exod. xxxi. 18), “Tables of stone written by the finger of God.” (4.) With the fourth finger, that which is next the thumb, the Holy One—blessed be He!—pointed out to Moses how much the Israelites should give as a ransom for their souls; as it is said (Exod. xxx. 13), “This shall they give.” (5.) With the thumb and the whole hand the Holy One-blessed be He!—will in the future destroy the children of Esau, for they oppress the children of Israel, as also the children of Ishmael, for they are their enemies; as it is said (Micah v. 9), “Thine hand shall be uplifted upon thy adversaries, and all thy enemies shall be cut off.”
 
 _Pirke d'Rab. Eliezer_, chap. 48.
 
@@ -408,7 +408,7 @@ _Midrash Rabbah Eicha_.
 
 “How doth the city sit solitary!” (Lam. i. 1). Three have, in prophesying, made use of this word “How”—Moses, Isaiah, and Jeremiah. Moses said (Deut. i. 12), “How can I myself bear your cumbrance!” Isaiah said
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 (Isa. i. 21), “How is the faithful city become an harlot!” Jeremiah said (Lam. i. 1), “How doth the city sit solitary!” Rabbi Levi saith, “The thing is like to a matron who has three friends; one saw her in her prosperity, another saw her in her dissipation, and the third saw her in her pollution. So Moses saw Israel in their glory and prosperity, and he said, ”How can I myself bear your cumbrance!“ Isaiah saw them in their dissipation, and he said, ”How is the faithful city,“ etc.; and Jeremiah saw them in their pollution, and he said, ”How doth the city sit solitary!”
 
@@ -426,7 +426,7 @@ Rabbi Yochanan ben Zachai says, that coming once upon a man who was gathering wo
 
 _Tanu d'by Eliyahu_.
 
-Rabbi Berachia saith, "In order that the Minim, apostates, and wicked Israelites might not escape hell on account of their circumcision, the Holy One-blessed be He!—sends an angel to undo the effects of it, and they straightway descend to their doom. When Gehenna sees <span id="p260">[<sup><small>p. 260</small></sup>]</span> this, she opens her mouth and licks them.“ This is the purport of (Isa. v. 14), ”And she opened her mouth to those without law" (_i. e._, to those without the sign of the covenant).
+Rabbi Berachia saith, "In order that the Minim, apostates, and wicked Israelites might not escape hell on account of their circumcision, the Holy One-blessed be He!—sends an angel to undo the effects of it, and they straightway descend to their doom. When Gehenna sees <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> this, she opens her mouth and licks them.“ This is the purport of (Isa. v. 14), ”And she opened her mouth to those without law" (_i. e._, to those without the sign of the covenant).
 
 _Midrash Rabbath Shemoth_, chap. 19.
 
@@ -448,7 +448,7 @@ _Yalkut_.
 
 In T. B. P'sachim, fol. 54, col. 1, it is said that the reason of the omission of the words, “And God saw that it was good,” in respect to the second day of the creative week, was because hell-fire was then created; but see the context.
 
-When Adam saw (through the Spirit) that his posterity would be condemned to Gehenna, he disobeyed the precept to procreate. But when he perceived that after twenty-six <span id="p261">[<sup><small>p. 261</small></sup>]</span> generations the Israelites would accept the law, he bestirred himself in compliance; as it is said (Gen. iv. i), _Adam vero cognovit uxorem suam Hevam_. {And Adam ‘knew’ his wife Eve—_jbh_}
+When Adam saw (through the Spirit) that his posterity would be condemned to Gehenna, he disobeyed the precept to procreate. But when he perceived that after twenty-six <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> generations the Israelites would accept the law, he bestirred himself in compliance; as it is said (Gen. iv. i), _Adam vero cognovit uxorem suam Hevam_. {And Adam ‘knew’ his wife Eve—_jbh_}
 
 _Yalkut_.
 
@@ -476,7 +476,7 @@ Showers of rain are greater than the giving of the Law, for the giving of the La
 
 _Midrash Shochar Tov_, 117
 
-<span id="p262">[<sup><small>p. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 David was a shepherd of Israel, and the Shepherd of David was the Holy One—blessed be He!—as it is said (Ps. xxiii. x), “The Lord is my Shepherd.”
 
@@ -494,15 +494,15 @@ _Yalkut Eliezer_, fol. 65, col. 2, n- 36.
 
 _Yalkut Jethro_, n. 271.
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 “Let us hear the conclusion of the whole matter” (Eccles. xii. 13). Thou shalt ever hear the Law, even when thou dost not understand it. “Fear God,” and give thy heart to Him. “And keep His commandments,” for on account of the Law the whole world was created, that the world should study it.
 
 _Koheleth, as given in Tse-enah Ure-enah_.
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

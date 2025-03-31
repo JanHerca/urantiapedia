@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 ### CHAPTER IX.
 
@@ -40,13 +40,13 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 2. In the following instances the skin is to be considered as flesh:—human skin, that of the domestic swine, [^1257] and, according to R. José, also that of wild swine, the tender skin on the hump of a young camel, [^1258] and that of the head of a young calf, the skin \[between\] the split hoofs, that over the matrix, and that of an animal fœtus in embryo, also that under the tail, and those of the ferret, the chameleon, the lizard, and the snail. R. Jehudah saith, “That of a lizard must be considered like a weasel\[’s skin\].” [^1259] If any of these had been tanned or converted into leather, or that they had been sufficiently trodden \[in the process of converting the skin into leather\], they are clean, excepting human skin. R. Jochanan ben Nouri saith, “The eight creeping things have skins.” [^1260]
 
-<span id="p348">[<sup><small>p. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
 § 3. When a person removes the skin of a domestic or wild animal, whether clean or unclean, [^1261] large or small, in order to cover himself therewith, [^1262] pollution is contracted and communicated when as much skin is removed as can be taken hold of, [^1263] and if to make a bottle of skin, [^1264] until the skin over the breast is removed. [^1265] If the skinning was commenced from the legs, the whole is considered as connecting, and subject to contract and communicate pollution. The skin covering the neck is not considered as connecting by R. Jochanan ben Nouri, but the sages do so consider it until the whole skin is removed.
 
 § 4. When there is the size of an olive of flesh on a skin in one spot, any person who-touches the filaments proceeding therefrom, or the hairs on the skin which are opposite \[and touch the said flesh\], is unclean. If there were two pieces of flesh of the size of two half olives each, it pollutes by being carried, but not by the mere touching it. Such is the dictum of R. Ishmael, but R. Akivah holds “That they do not pollute either by being carried or touched,” but he admits, “That if the size of two half olives were stuck on a skewer and moved, it is unclean.” Why, then, does \[R. Akivah\], in respect to the skin, hold it to be clean? Because the skin prevents their contact.
 
-§ 5. Whoever touches a marrow-bone of a dead body, [^1266] or of a consecrated sacrifice, [^1267] whether the said bones are open or closed, is unclean. Whoever touches a marrow-bone of an animal that is Nebelah, or of creeping animals, is clean when the bone is closed, but if it is open ever so little, pollution is contracted by contact with it. Whence is it proved that \[the marrow-bone of a Nebelah\] does also pollute the person carrying it? Because it is said \[Lev. xi. 24, 25\], “Whoever toucheth \[the carcase\],” and “Whoever beareth aught of the carcase,” &c., which proves that whatever communicates by <span id="p349">[<sup><small>p. 349</small></sup>]</span> being touched, does also communicate it by being carried, and that which cannot communicate pollution by contact, cannot communicate it by being carried.
+§ 5. Whoever touches a marrow-bone of a dead body, [^1266] or of a consecrated sacrifice, [^1267] whether the said bones are open or closed, is unclean. Whoever touches a marrow-bone of an animal that is Nebelah, or of creeping animals, is clean when the bone is closed, but if it is open ever so little, pollution is contracted by contact with it. Whence is it proved that \[the marrow-bone of a Nebelah\] does also pollute the person carrying it? Because it is said \[Lev. xi. 24, 25\], “Whoever toucheth \[the carcase\],” and “Whoever beareth aught of the carcase,” &c., which proves that whatever communicates by <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> being touched, does also communicate it by being carried, and that which cannot communicate pollution by contact, cannot communicate it by being carried.
 
 § 6. The egg of a creeping animal, in which the young animal is already developed, is clean, but when it has the smallest perforation it renders unclean. In respect to a mouse which is yet half flesh and half earth, [^1268] if the flesh is touched it renders unclean, but not if only the earth thereof had been touched. R. Jehudah saith, “Whoever touches the earth which immediately adjoins the fleshy part is also unclean.”
 

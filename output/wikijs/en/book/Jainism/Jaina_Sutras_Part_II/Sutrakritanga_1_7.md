@@ -40,7 +40,7 @@ These classes (of living beings) have been declared (by the <i>G</i>inas); know 
 
 Every being born high or low in the scale of the living creation, among movable and immovable beings, will meet with its death. Whatever sins the evildoer commits in every birth, for them he must die [^865]. (3)
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 In this world or in the next (the sinners suffer themselves what they have inflicted on other beings), a hundred times, or (suffer) other punishment. Living in the Sa<i>m</i>sâra they ever acquire new Karman, and suffer for their misdeeds. (4)
 
@@ -54,7 +54,7 @@ Sprouts are beings possessed of natural development [^867], their bodies (requir
 
 By destroying seeds, when young or grown up, a careless man does harm to his own soul. (The prophet) says: ‘People are wicked who destroy seeds for the sake of their own pleasure.’ (9)
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 Men die as embryos, or as babies who do not yet talk, or who do so already; other men, as boys wearing five tufts of hair [^868], or as youths, or in middle age: at the expiration of their life all leave the body and die. (to)
 
@@ -66,7 +66,7 @@ Perfection is not reached by bathing in the morning, nor by abstention from acid
 
 Those who, touching water in the morning and evening, contend that perfection is obtained through water (are easily refuted). For if perfection could be obtained by contact with water, many beings living in water must have reached perfection: (14)
 
-Fishes, tortoises, aquatic snakes, cormorants, <span id="p295">[<sup><small>p. 295</small></sup>]</span> otters [^872], and demons living in water. The clever ones declare those to be wrong who maintain that perfection may be obtained through water. (15)
+Fishes, tortoises, aquatic snakes, cormorants, <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> otters [^872], and demons living in water. The clever ones declare those to be wrong who maintain that perfection may be obtained through water. (15)
 
 If water did wash off the impure Karman, it must take off merit too. But this (assertion of the heretics) has no foundation but their wish. As a blind man follows a guide (and misses his goal), so a fool (who makes ablutions, &c. as a means of reaching Môksha) kills living beings. (16)
 
@@ -78,7 +78,7 @@ Perfection cannot be established by such gratuitous assertions; those who have n
 
 All creatures who have committed sins wail, suffer, and tremble. Considering this a wise monk who has ceased to sin, and guards his own self, should abstain from violence with regard to movable and (immovable) beings. (20)
 
-He who keeps a store of rightly-obtained food and eats it; he who makes ablutions with pure water, <span id="p296">[<sup><small>p. 296</small></sup>]</span> contracting his limbs; he who washes and adorns his clothes, is far from being a naked monk. (21)
+He who keeps a store of rightly-obtained food and eats it; he who makes ablutions with pure water, <span id="p296"><sup><small>[ p. 296 ]</small></sup></span> contracting his limbs; he who washes and adorns his clothes, is far from being a naked monk. (21)
 
 A wise man, seeing that it is sinful (to use) water, should live of pure water, till he is liberated from the Sa<i>m</i>sâra [^873]; not eating seeds and bulbs, he abstains from bathing, &c., and from women. (22)
 
@@ -94,7 +94,7 @@ He should beg where he is unknown, and maintain himself by it; he should not see
 
 A monk should avoid every attachment and bear every pain, be full (of wisdom), not greedy, wander about homeless, give assurance of safety (to all beings), and be free from passions. (28)
 
-(In order to be able) to practise control [^875] a monk should eat; he should desire to get rid of sin; if he <span id="p297">[<sup><small>p. 297</small></sup>]</span> suffers pain, he should have recourse to control, and subdue the foe at the head of the battle, as it were. (29)
+(In order to be able) to practise control [^875] a monk should eat; he should desire to get rid of sin; if he <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> suffers pain, he should have recourse to control, and subdue the foe at the head of the battle, as it were. (29)
 
 Though beaten he should be like a plank [^876]; he should wait for the advent of death; having annihilated his Karman he should not again mix with the world, but be rather like a car whose axle is broken. (30)
 

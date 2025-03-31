@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:11:59Z
   </table>
 </figure>
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 Abstinence, commendable, [20](The_Tract_of_the_Quiet_Way#p20).
 
@@ -155,7 +155,7 @@ Improper language, [21](The_Tract_of_the_Quiet_Way#p21).
 
 Incarnated seventeen times, [17](The_Tract_of_the_Quiet_Way#p17).
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Incarnations, Book of, [39](Translators_Notes#p39).
 

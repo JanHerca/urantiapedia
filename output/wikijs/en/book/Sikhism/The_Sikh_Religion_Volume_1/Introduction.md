@@ -475,7 +475,7 @@ The deeds that have been done, the prophecies that have been uttered, and the in
 
 Those who, secure in their own wisdom and infallibility, and dwelling apart from the Indian people spurn all knowledge of their theological systems, and thus deem Sikhism a heathen religion, and the spiritual happiness and loyalty of its followers negligeable items, are men whose triumph shall be short-lived and whose glory shall not descend with the accompaniment of minstrel raptures to future generations. I am not without hope that when enlightened rulers become acquainted with the merits of the Sikh religion they will not willingly let it perish in the great abyss in which so many creeds have been engulfed.
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

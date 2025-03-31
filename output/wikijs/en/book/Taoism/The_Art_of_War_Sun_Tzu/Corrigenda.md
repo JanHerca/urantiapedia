@@ -30,7 +30,7 @@ dateCreated: 2025-2-12T12:11:44Z
 </figure>
 
 
-<span id="p205">[<sup><small>p. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 P. [ix](Preface#pix), _note_: For “edition” read “translation.”
 

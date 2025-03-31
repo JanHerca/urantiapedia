@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 ### CHAPTER I.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 4. If a man has trained a vine, or a gourd, or ivy over \[the succah\], and covered it \[according to another version, and covered them the succah is not valid\]; but should the covering be more \[in substance and extent\] than these \[the vine, &c.\], or if they have been cut \[trimmed\], it is valid. The rule is, every tiling which contracts uncleanness and does not derive its growth from the ground, must not be used as a cover \[to the succah\]; but every thing which does not contract uncleanness, and does derive its growth from the ground, is to be used as a cover \[to the succah\].
 
-§ 5. Bundles of straw, bundles of wood \[stalks\], and bundles of twigs, they must not \[use to\] cover \[the succah\]; all of these \[however, <span id="p131">[<sup><small>p. 131</small></sup>]</span> if the bundles be\] untied, are valid. All of these \[in bundles\] may be used as side-walls.
+§ 5. Bundles of straw, bundles of wood \[stalks\], and bundles of twigs, they must not \[use to\] cover \[the succah\]; all of these \[however, <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> if the bundles be\] untied, are valid. All of these \[in bundles\] may be used as side-walls.
 
 § 6. They may cover \[the succah\] with thin boards \[laths\]. Such is the dictum of R. Jehudah: but R. Meir prohibits it. If a man has put a deal board four hands wide over the succah, it is valid. provided he do not sleep under it \[the deal-board\].
 
@@ -56,7 +56,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 10. Should a house have been unroofed, and covered \[to constitute a succah\], if there be \[an interspace of\] four amoth between the wall and the \[vegetable\] covering, it is not valid; \[such is\] likewise \[the case with\] a court in which there is a covered passage. If the top of a large succah has been inclosed \[covered\] with \[some\] material \[which\] they must not \[use to\] cover it, should there be below it \[an interspace of\] four amoth, the succah is not valid.
 
-§ 11. If a man construct his succah in the shape of a pyramid, or leans \[supports\] the top against the wall \[in a slanting direction\], R. Eleazar pronounces it not valid, because it \[the succah\] has no roof; but the sages declare it valid. A large reed mat which has been made \[for the purpose\] to sleep thereon, \[is liable to\] contract uncleanness, and they must not cover a succah therewith; \[but if made for the purpose of serving\] as a cover \[for a succah\] they may use it as such, and it does not contract uncleanness. R. Eleazar saith, <span id="p132">[<sup><small>p. 132</small></sup>]</span> “Whether it be large or small, if \[such a mat has been\] made for \[the purpose of\] sleeping thereon, it contracts uncleanness, and must not be used as a cover; but if \[it has been\] made \[for the purpose of using it\] as a cover, they may use it as such, and it does not contract uncleanness.”
+§ 11. If a man construct his succah in the shape of a pyramid, or leans \[supports\] the top against the wall \[in a slanting direction\], R. Eleazar pronounces it not valid, because it \[the succah\] has no roof; but the sages declare it valid. A large reed mat which has been made \[for the purpose\] to sleep thereon, \[is liable to\] contract uncleanness, and they must not cover a succah therewith; \[but if made for the purpose of serving\] as a cover \[for a succah\] they may use it as such, and it does not contract uncleanness. R. Eleazar saith, <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> “Whether it be large or small, if \[such a mat has been\] made for \[the purpose of\] sleeping thereon, it contracts uncleanness, and must not be used as a cover; but if \[it has been\] made \[for the purpose of using it\] as a cover, they may use it as such, and it does not contract uncleanness.”
 
 
 

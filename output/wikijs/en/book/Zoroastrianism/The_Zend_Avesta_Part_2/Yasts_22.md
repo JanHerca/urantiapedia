@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 This Ya<i>s</i>t is a description of the fate that attends the soul of the righteous (§§ 1-18) and the soul of the wicked (§§ 19-37) after death. They spend the first three nights (the sadis or sidôs; cf. Commentaire du Vendîdâd, XIII, 55) amongst the highest enjoyments or pains; they are then met by their own conscience in the shape of a beautiful heavenly maiden (or a fiendish old woman [^1330]), and are brought in four steps up to heaven or down to hell, through the three paradises of Good-Thought, Good-Word, and Good-Deed, or the three hells of Evil-Thought, Evil-Word, and Evil-Deed: there they are praised and glorified by Ahura, or rebuked and insulted by Angra Mainyu, and fed with ambrosia or poison.
 
@@ -48,7 +48,7 @@ Similar developments are to be found in Ya<i>s</i>t XXIV, 53-65; Ardâ Vîrâf X
 
 Ahura Mazda answered:
 
-2\. ‘It takes its seat near the head, singing the U<i>s</i>tavaiti Gâtha [^1331] and proclaiming happiness: “Happy is he, happy the man, whoever he be, to whom Ahura Mazda gives the full accomplishment of his wishes!” On that night his soul tastes [^1332] as much of pleasure as the whole of the living world can taste.’ <span id="p315">[<sup><small>p. 315</small></sup>]</span> 3\. —'On the second night where does his soul abide?
+2\. ‘It takes its seat near the head, singing the U<i>s</i>tavaiti Gâtha [^1331] and proclaiming happiness: “Happy is he, happy the man, whoever he be, to whom Ahura Mazda gives the full accomplishment of his wishes!” On that night his soul tastes [^1332] as much of pleasure as the whole of the living world can taste.’ <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> 3\. —'On the second night where does his soul abide?
 
 4\. Ahura Mazda answered: ‘It takes its seat near the head, singing the U<i>s</i>tavaiti Gâtha and proclaiming happiness: “Happy is he, happy the man, whoever he be, to whom Ahura Mazda gives the full accomplishment of his wishes!” On that night his soul tastes as much of pleasure as the whole of the living world can taste.’
 
@@ -60,7 +60,7 @@ Ahura Mazda answered:
 
 8\. And it seems to the soul of the faithful one as if he were inhaling that wind with the nostrils, and he thinks: 'Whence does that wind blow, the sweetest-scented wind I ever inhaled with my nostrils?
 
-9\. And it seems to him as if his own conscience were advancing to him in that wind, in the shape of a maiden fair, bright, white-armed, strong, tall-formed, <span id="p316">[<sup><small>p. 316</small></sup>]</span> high-standing, thick-breasted, beautiful of body, noble, of a glorious seed [^1334], of the size of a maid in her fifteenth year, as fair as the fairest things in the world.
+9\. And it seems to him as if his own conscience were advancing to him in that wind, in the shape of a maiden fair, bright, white-armed, strong, tall-formed, <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> high-standing, thick-breasted, beautiful of body, noble, of a glorious seed [^1334], of the size of a maid in her fifteenth year, as fair as the fairest things in the world.
 
 10\. And the soul of the faithful one addressed her, asking: ‘What maid art thou, who art the fairest maid I have ever seen?’
 
@@ -70,7 +70,7 @@ Ahura Mazda answered:
 
 12\. 'And so thou, O youth of good thoughts, good words, and good deeds, of good religion! didst love me for that greatness, goodness, fairness, sweet-scentedness, victorious strength, and freedom from sorrow, in which I appear to thee.
 
-13\. 'When thou wouldst see a man making derision [^1335] and deeds of idolatry, or rejecting [^1336] (the poor) and shutting his door [^1337], then thou wouldst sit singing the Gâthas and worshipping the good waters and Âtar, the son of Ahura Mazda, and rejoicing [^1338] the faithful that would come from near or from afar. <span id="p317">[<sup><small>p. 317</small></sup>]</span> 14\. 'I was lovely and thou madest me still lovelier; I was fair and thou madest me still fairer; I was desirable and thou madest me still more desirable; I was sitting in a forward place and thou madest me sit in the foremost place, through this good thought, through this good speech, through this good deed of thine; and so henceforth men worship me for my having long sacrificed unto and conversed with Ahura Mazda.
+13\. 'When thou wouldst see a man making derision [^1335] and deeds of idolatry, or rejecting [^1336] (the poor) and shutting his door [^1337], then thou wouldst sit singing the Gâthas and worshipping the good waters and Âtar, the son of Ahura Mazda, and rejoicing [^1338] the faithful that would come from near or from afar. <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> 14\. 'I was lovely and thou madest me still lovelier; I was fair and thou madest me still fairer; I was desirable and thou madest me still more desirable; I was sitting in a forward place and thou madest me sit in the foremost place, through this good thought, through this good speech, through this good deed of thine; and so henceforth men worship me for my having long sacrificed unto and conversed with Ahura Mazda.
 
 15\. 'The first step that the soul of the faithful man made, placed him in the Good-Thought [^1339] Paradise;
 
@@ -82,7 +82,7 @@ Ahura Mazda answered:
 
 16\. Then one of the faithful, who had departed before him, asked him, saying: ‘How didst thou depart this life, thou holy man? How didst thou come, thou holy man! from the abodes full of cattle and full of the wishes and enjoyments of love? From the material world into the world of the spirit? From the decaying world into the undecaying one? How long did thy felicity last?’
 
-17\. And Ahura Mazda answered: 'Ask him not what thou askest him, who has just gone the dreary <span id="p318">[<sup><small>p. 318</small></sup>]</span> way, full of fear and distress, where the body and the soul part from one another.
+17\. And Ahura Mazda answered: 'Ask him not what thou askest him, who has just gone the dreary <span id="p318"><sup><small>[ p. 318 ]</small></sup></span> way, full of fear and distress, where the body and the soul part from one another.
 
 18\. ‘\[Let him eat\] of the food brought to him, of the oil of Zaremaya [^1343]: this is the food for the youth of good thoughts, of good words, of good deeds, of good religion, after he has departed this life; this is the food for the holy woman, rich in good thoughts, good words, and good deeds, well-principled and obedient to her husband, after she has departed this life.’
 
@@ -100,7 +100,7 @@ Ahura Mazda answered:
 
 21\. —‘On the second night, where does his soul abide?’
 
-22\. Ahura Mazda answered: 'It rushes and sits near the skull, singing the Kima Gâtha, O holy <span id="p319">[<sup><small>p. 319</small></sup>]</span> Zarathu<i>s</i>tra! “To what land shall I turn, O Ahura Mazda? To whom shall I go with praying?”
+22\. Ahura Mazda answered: 'It rushes and sits near the skull, singing the Kima Gâtha, O holy <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> Zarathu<i>s</i>tra! “To what land shall I turn, O Ahura Mazda? To whom shall I go with praying?”
 
 ‘On that night his soul tastes as much of suffering as the whole of the living world can taste.’
 
@@ -112,7 +112,7 @@ Ahura Mazda answered:
 
 25\. At the end of the third night, O holy Zarathu<i>s</i>tra! when the dawn appears, it seems to the soul of the faithless one as if it were brought amidst snow and stench, and as if a wind were blowing from the region of the north, from the regions of the north, a foul-scented wind, the foulest-scented of all the winds in the world.
 
-26-32. And it seems to the soul of the wicked man as if he were inhaling that wind with the nostrils, and he thinks: ‘Whence does that wind blow, the foulest-scented wind that I ever inhaled with my nostrils [^1345]?’ <span id="p320">[<sup><small>p. 320</small></sup>]</span> 33\. The first step that the soul of the wicked man made laid him in the Evil-Thought Hell;
+26-32. And it seems to the soul of the wicked man as if he were inhaling that wind with the nostrils, and he thinks: ‘Whence does that wind blow, the foulest-scented wind that I ever inhaled with my nostrils [^1345]?’ <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> 33\. The first step that the soul of the wicked man made laid him in the Evil-Thought Hell;
 
 The second step that the soul of the wicked man made laid him in the Evil-Word Hell;
 
@@ -120,7 +120,7 @@ The third step that the soul of the wicked man made laid him in the Evil-Deed He
 
 The fourth step that the soul of the wicked man made laid him in the Endless Darkness.
 
-34\. Then one of the wicked who departed before him addressed him, saying: ‘How didst thou perish, O wicked man? How didst thou come, O fiend! from the abodes full of cattle and full of the wishes and enjoyments of love? From the material world into the world of the Spirit? From the decaying <span id="p321">[<sup><small>p. 321</small></sup>]</span> world into the undecaying one? How long did thy suffering last?’
+34\. Then one of the wicked who departed before him addressed him, saying: ‘How didst thou perish, O wicked man? How didst thou come, O fiend! from the abodes full of cattle and full of the wishes and enjoyments of love? From the material world into the world of the Spirit? From the decaying <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> world into the undecaying one? How long did thy suffering last?’
 
 35\. Angra Mainyu, the lying one, said: 'Ask him not what thou askest him, who has just gone the dreary way, full of fear and distress, where the body and the soul part from one another.
 
@@ -134,7 +134,7 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 ‘We worship the tongue of Ahura Mazda, to speak forth the Holy Word.
 
-‘We worship the mountain that gives understanding, that preserves understanding; \[we worship <span id="p322">[<sup><small>p. 322</small></sup>]</span> it\] by day and by night, with offerings of libations well-accepted [^1350].
+‘We worship the mountain that gives understanding, that preserves understanding; \[we worship <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> it\] by day and by night, with offerings of libations well-accepted [^1350].
 
 39 [^1351]. ‘O Maker! how do the souls of the dead, the Fravashis of the holy Ones, manifest [^1352] themselves [^1353]?’
 
@@ -142,7 +142,7 @@ The fourth step that the soul of the wicked man made laid him in the Endless Dar
 
 ---
 
-41 [^1355]. Then towards the dawning of the dawn [^1356], that bird Parôdar<i>s</i> [^1357], that bird Karetô-dãsu [^1358] hears the voice of the Fire. <span id="p323">[<sup><small>p. 323</small></sup>]</span> 42\. Here the fiendish Bûshyãsta, the long-handed, rushes from the region of the north, from the regions of the north, speaking thus, lying thus: ‘Sleep on, O men! Sleep on, O sinners! Sleep on and live in sin.’
+41 [^1355]. Then towards the dawning of the dawn [^1356], that bird Parôdar<i>s</i> [^1357], that bird Karetô-dãsu [^1358] hears the voice of the Fire. <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> 42\. Here the fiendish Bûshyãsta, the long-handed, rushes from the region of the north, from the regions of the north, speaking thus, lying thus: ‘Sleep on, O men! Sleep on, O sinners! Sleep on and live in sin.’
 
 
 

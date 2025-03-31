@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 ## THE BOOK OF THE GREAT DECEASE. MAHÂ-PARINIBBÂNA-SUTTA. CHAPTER II.
 
@@ -52,7 +52,7 @@ The Blessed One proceeded with a great company of the brethren to Ko<i>t</i>igâ
 
 3\. Thus spake the Blessed One; and when the Happy One had thus spoken, then again the Teacher said:
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 ‘BY not seeing the four Noble Truths as they really are,  
 Long is the path that is traversed through many a birth;  
@@ -71,19 +71,19 @@ The root of sorrow rooted out, and there is no more birth.’
 
 And the Blessed proceeded to the villages of Nâdika with a great company of the brethren; and there, at Nâdika, the Blessed One stayed at the Brick Hall[^2].
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 6\. And the venerable Ânanda went to the Blessed One and paid him reverence and took his seat beside him. And when he was seated, he addressed the Blessed One, and said: ‘The brother named Sâ<i>lh</i>a has died at Nâdika, Lord. Where has he been reborn, and what is his destiny? The sister named Nandâ has died, Lord, at Nâdika. Where is she reborn, and what is her destiny?’ And in the same terms he enquired concerning the devout Sudatta, and the devout lady Su<i>g</i>âtâ, the devout Kakudha, and Kâlinga, and Nika<i>t</i>a, and Ka<i>t</i>issabha, and Tu<i>tth</i>a, and Santu<i>tth</i>a, and Bhadda, and Subhadda.
 
-7\. 'The brother named Sâ<i>lh</i>a, Ânanda, by the destruction of the great evils has by himself, and in this world, known and realised and attained to Arahatship, and to emancipation of heart and to emancipation of mind. The sister named Nandâ, Ânanda, has, by the complete destruction of the five bonds that bind people to this world, become an inheritor of the highest heavens, there to pass entirely away, thence never to return. The devout Sudatta, Ânanda, by the complete destruction of the three bonds, and by the reduction to a minimum of lust, hatred, and delusion has become a Sakadâgâmin, who on his first return to this world will make an end of sorrow. The devout woman Su<i>g</i>âtâ, Ânanda, by the complete destruction of the three bonds, has become converted, is no longer liable to be reborn in a state of suffering, and is assured of final <span id="p26">[<sup><small>p. 26</small></sup>]</span> salvation[^3]. The devout Kakudha, Ânanda, by the complete destruction of the five bonds that bind people to these lower worlds of lust, has become an inheritor of the highest heavens, there to pass entirely away, thence never to return. So also is the case with Kâlinga, Nika<i>t</i>a, Ka<i>t</i>issabha, Tu<i>tth</i>a, Santu<i>tth</i>a, Bhadda, and Subhadda, and with more than fifty, devout men of Nâdika. More than ninety devout men of Nâdika, who have died, Ânanda, have by the complete destruction of the three bonds, and by the reduction of lust, hatred, and delusion, become Sakadâgâmins, who on their first return to this world will make an end of sorrow. More than five hundred devout men of Nâdika who have died. Ânanda, have by the complete destruction of the three bonds become converted, are no longer liable to be reborn in a state of suffering, and are assured of final salvation.
+7\. 'The brother named Sâ<i>lh</i>a, Ânanda, by the destruction of the great evils has by himself, and in this world, known and realised and attained to Arahatship, and to emancipation of heart and to emancipation of mind. The sister named Nandâ, Ânanda, has, by the complete destruction of the five bonds that bind people to this world, become an inheritor of the highest heavens, there to pass entirely away, thence never to return. The devout Sudatta, Ânanda, by the complete destruction of the three bonds, and by the reduction to a minimum of lust, hatred, and delusion has become a Sakadâgâmin, who on his first return to this world will make an end of sorrow. The devout woman Su<i>g</i>âtâ, Ânanda, by the complete destruction of the three bonds, has become converted, is no longer liable to be reborn in a state of suffering, and is assured of final <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> salvation[^3]. The devout Kakudha, Ânanda, by the complete destruction of the five bonds that bind people to these lower worlds of lust, has become an inheritor of the highest heavens, there to pass entirely away, thence never to return. So also is the case with Kâlinga, Nika<i>t</i>a, Ka<i>t</i>issabha, Tu<i>tth</i>a, Santu<i>tth</i>a, Bhadda, and Subhadda, and with more than fifty, devout men of Nâdika. More than ninety devout men of Nâdika, who have died, Ânanda, have by the complete destruction of the three bonds, and by the reduction of lust, hatred, and delusion, become Sakadâgâmins, who on their first return to this world will make an end of sorrow. More than five hundred devout men of Nâdika who have died. Ânanda, have by the complete destruction of the three bonds become converted, are no longer liable to be reborn in a state of suffering, and are assured of final salvation.
 
 8\. 'Now there is nothing strange in this, Ânanda, that a human being should die, but that as each one does so you should come to the Buddha, and enquire about them in this manner, that is wearisome to the Buddha. I will, therefore, teach you a way of truth, called the Mirror of Truth, which if an elect disciple possess he may himself predict of himself, “Hell is destroyed for me, and rebirth as an animal, or a ghost, or in any place of woe. I am converted, I am no longer liable to be reborn in a state of suffering, and am assured of final salvation.”
 
-9\. 'What then, Ânanda, is this mirror of truth? It is the consciousness that the elect disciple is in this world possessed of faith in the Buddha— <span id="p27">[<sup><small>p. 27</small></sup>]</span> believing the Blessed One to be the Holy One, the Fully-enlightened One, Wise, Upright, Happy, World-knowing, Supreme, the Bridler of men's wayward hearts, the Teacher of gods and men, the Blessed Buddha. And that he (the disciple) is possessed of faith in the Truth—believing the truth to have been proclaimed by the Blessed One, of advantage in this world, passing not away, welcoming all, leading to salvation, and to be attained to by the wise, each one for himself. And that he (the disciple) is possessed of faith in the Order—believing the multitude of the disciples of the Blessed One who are walking in the four stages of the noble eightfold path, the righteous, the upright, the just, the law-abiding—believing this church of the Buddha to be worthy of honour, of hospitality, of gifts, and of reverence; to be the supreme sowing ground of merit for the world; to be possessed of the virtues beloved by the good, virtues unbroken, intact, unspotted, unblemished, virtues which make men truly free, virtues which are praised by the wise, are untarnished by the desire of future life or by the belief in the efficacy of outward acts, and are conducive to high and holy thought[^4].’
+9\. 'What then, Ânanda, is this mirror of truth? It is the consciousness that the elect disciple is in this world possessed of faith in the Buddha— <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> believing the Blessed One to be the Holy One, the Fully-enlightened One, Wise, Upright, Happy, World-knowing, Supreme, the Bridler of men's wayward hearts, the Teacher of gods and men, the Blessed Buddha. And that he (the disciple) is possessed of faith in the Truth—believing the truth to have been proclaimed by the Blessed One, of advantage in this world, passing not away, welcoming all, leading to salvation, and to be attained to by the wise, each one for himself. And that he (the disciple) is possessed of faith in the Order—believing the multitude of the disciples of the Blessed One who are walking in the four stages of the noble eightfold path, the righteous, the upright, the just, the law-abiding—believing this church of the Buddha to be worthy of honour, of hospitality, of gifts, and of reverence; to be the supreme sowing ground of merit for the world; to be possessed of the virtues beloved by the good, virtues unbroken, intact, unspotted, unblemished, virtues which make men truly free, virtues which are praised by the wise, are untarnished by the desire of future life or by the belief in the efficacy of outward acts, and are conducive to high and holy thought[^4].’
 
 10\. ‘This, Ânanda, is the way, the mirror of truth, which if an elect disciple possess he may himself predict of himself: “Hell is destroyed for me; and rebirth as an animal, or a ghost, or in any place of woe. I am converted; I am no longer liable to be reborn in a state of suffering, and am assured of final salvation.”’
 
-11\. There, too, at the Brick Hall at Nâdika the <span id="p23">[<sup><small>p. 23</small></sup>]</span> Blessed One addressed to the brethren that comprehensive religious discourse on the nature of upright conduct, and of earnest contemplation, and of intelligence.
+11\. There, too, at the Brick Hall at Nâdika the <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> Blessed One addressed to the brethren that comprehensive religious discourse on the nature of upright conduct, and of earnest contemplation, and of intelligence.
 
 ‘Great is the fruit, great the advantage of earnest contemplation when set round with upright conduct. Great is the fruit, great the advantage of intellect when set round with earnest contemplation. The mind set round with intelligence is freed from the great evils, that is to say, from sensuality, from individuality, from delusion, and from ignorance.’
 
@@ -99,7 +99,7 @@ Then the Blessed One proceeded, with a great company of the brethren, to Vesâli
 
 14\. ‘And how does a brother become mindful?’
 
-‘Herein, O mendicants, let a brother, as he dwells in the body, so regard the body that he, being strenuous, thoughtful, and mindful, may, whilst in the world, overcome the grief which arises from bodily craving—while subject to sensations, let him continue so to regard the sensations that he, being strenuous, thoughtful, and mindful, may, whilst in the world, overcome the grief arising from the craving—which follows our sensation-and so also <span id="p29">[<sup><small>p. 29</small></sup>]</span> as he thinks or reasons or feels let him overcome the grief which arises from the craving due to ideas, or reasoning, or feeling.’
+‘Herein, O mendicants, let a brother, as he dwells in the body, so regard the body that he, being strenuous, thoughtful, and mindful, may, whilst in the world, overcome the grief which arises from bodily craving—while subject to sensations, let him continue so to regard the sensations that he, being strenuous, thoughtful, and mindful, may, whilst in the world, overcome the grief arising from the craving—which follows our sensation-and so also <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> as he thinks or reasons or feels let him overcome the grief which arises from the craving due to ideas, or reasoning, or feeling.’
 
 15\. ‘And how does a brother become thoughtful?’
 
@@ -107,7 +107,7 @@ Then the Blessed One proceeded, with a great company of the brethren, to Vesâli
 
 ‘Thus let a brother, O mendicants, be mindful and thoughtful; this is our instruction to you[^5].’
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 16\. [^6] Now the courtezan Ambapâli heard that the Blessed One had arrived at Vesâli, and was staying at her mango grove. And ordering a number of magnificent vehicles to be made ready, she mounted one of them, and proceeded with her train towards her garden. She went in the carriage as far as the ground was passable for carriages; there she alighted; and she proceeded on foot to the place where the Blessed One was, and took her seat respectfully on one side. And when she was thus seated the Blessed One instructed, aroused, incited, and gladdened her with religious discourse.
 
@@ -117,7 +117,7 @@ Then the Blessed One proceeded, with a great company of the brethren, to Vesâli
 
 And the Blessed One gave, by silence, his consent. Then when Ambapâli the courtezan saw that the Blessed One had consented, she rose from her seat and bowed down before him, and keeping him on her right hand as she past him, she departed thence.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 8\. Now the Li<i>kkh</i>avis of Vesâli heard that the Blessed One had arrived at Vesâli, and was staying at Ambapâli’s grove. And ordering a number of magnificent carriages to be made ready, they mounted one of them and proceeded with their train to Vesâli. Some of them were dark, dark in colour, and wearing dark clothes and ornaments: some of them were fair, fair in colour, and wearing light clothes and ornaments: some of them were red, ruddy in colour, and wearing red clothes and ornaments: some of them were white, pale in colour, and wearing white clothes and ornaments.
 
@@ -131,7 +131,7 @@ And the Blessed One gave, by silence, his consent. Then when Ambapâli the court
 
 Then the Likkhavis cast up their hands[^8], exclaiming, ‘We are outdone by this mango girl! we are out-reached by this mango girl[^9]!’ and they went on to Ambapâli's grove.
 
-20\. When the Blessed One saw the Likkhavis <span id="p32">[<sup><small>p. 32</small></sup>]</span> pproaching in the distance, he addressed the brethren, and said:
+20\. When the Blessed One saw the Likkhavis <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> pproaching in the distance, he addressed the brethren, and said:
 
 ‘O brethren, let those of the brethren who have never seen the Tâvati<i>m</i>sa gods, gaze upon this company of the Li<i>kkh</i>avis, behold this company of the Li<i>kkh</i>avis, compare this company of the Li<i>kkh</i>avis—even as a company of Tâvati<i>m</i>sa gods[^10].’
 
@@ -141,7 +141,7 @@ Then the Likkhavis cast up their hands[^8], exclaiming, ‘We are outdone by thi
 
 ‘O Li<i>kkh</i>avis, I have promised to dine to-morrow with Ambapâli the courtezan,’ was the reply.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Then the Li<i>kkh</i>avis cast up their hands, exclaiming, ‘We are outdone by this mango girl! we are outreached by this mango girl!’ And expressing their thanks and approval of the words of the Blessed One, they rose from their seats and bowed down before the Blessed One, and keeping him on their right hand as they past him, they departed thence.
 
@@ -151,7 +151,7 @@ And the Blessed One robed himself early in the morning, and took his bowl, and w
 
 24\. And when the Blessed One had quite finished his meal, the courtezan had a low stool brought, and sat down at his side, and addressed the Blessed One, and said: ‘Lord, I present this mansion to the order of mendicants, of which the Buddha is the chief.’ And the Blessed One accepted the gift; and after instructing, and rousing, and inciting, and gladdening her with religious discourse, he rose from his seat and departed thence[^12].
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 25\. While at Ambapâli's mango grove the Blessed One held that comprehensive religious discourse with the disciples on the nature of upright conduct, and of earnest contemplation, and of intelligence.
 
@@ -169,7 +169,7 @@ Then the Blessed One proceeded, with a great company of the brethren, to Beluva,
 
 27\. Now the Blessed One there addressed the brethren, and said: ‘O mendicants, do you take up your abode round about Vesâli, each according to the place where his friends, intimates, and close companions may live, for the rainy season of vassa. I shall enter upon the rainy season here at Beluva.’
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 So be it, Lord!' said those brethren, in assent, to the Blessed One. And they entered upon the rainy season round about Vesâli, each according to the place where his friends or intimates or close companions lived: whilst the Blessed One stayed even there at Beluva.
 
@@ -183,15 +183,15 @@ So be it, Lord!' said those brethren, in assent, to the Blessed One. And they en
 
 ---
 
-31\. Now very soon after the Blessed One began to recover; when he had quite got rid of the sickness, he went out from the monastery, and sat down behind the monastery on a seat spread out there. And the venerable Ânanda went to the place where the Blessed One was, and saluted him, and took a seat respectfully on one side, and addressed the <span id="p36">[<sup><small>p. 36</small></sup>]</span> Blessed One, and said: ‘I have beheld, Lord, how the Blessed One was in health, and I have beheld how the Blessed One had to suffer. And though at the sight of the sickness of the Blessed One my body became weak as a creeper, and the horizon became dim to me, and my faculties were no longer clear[^15], yet notwithstanding I took some little comfort from the thought that the Blessed One would not pass away from existence until at least he had left instructions as touching the order.’
+31\. Now very soon after the Blessed One began to recover; when he had quite got rid of the sickness, he went out from the monastery, and sat down behind the monastery on a seat spread out there. And the venerable Ânanda went to the place where the Blessed One was, and saluted him, and took a seat respectfully on one side, and addressed the <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> Blessed One, and said: ‘I have beheld, Lord, how the Blessed One was in health, and I have beheld how the Blessed One had to suffer. And though at the sight of the sickness of the Blessed One my body became weak as a creeper, and the horizon became dim to me, and my faculties were no longer clear[^15], yet notwithstanding I took some little comfort from the thought that the Blessed One would not pass away from existence until at least he had left instructions as touching the order.’
 
-32\. 'What, then, Ânanda? Does the order expect that of me? I have preached the truth without making any distinction between exoteric and esoteric doctrine: for in respect of the truths, Ânanda, the Tathâgata has no such thing as the closed fist of a teacher, who keeps some things back[^16]. Surely, Ânanda, should there be any one who harbours the thought, “It is I who will lead the brotherhood,” or, “The order is dependent upon me,” it is he who <span id="p37">[<sup><small>p. 37</small></sup>]</span> should lay down instructions in any matter concerning the order. Now the Tathâgata, Ânanda, thinks not that it is he who should lead the brotherhood, or that the order is dependent upon him. Why then should he leave instructions in any matter concerning the order? I too, O Ânanda, am now grown old, and full of years, my journey is drawing to its close, I have reached my sum of days, I am turning eighty years of age; and just as a worn-out cart, Ânanda, can only with much additional care be made to move along, so, methinks, the body of the Tathâgata can only be kept going with much additional care[^17]. It is only, Ânanda, when <span id="p38">[<sup><small>p. 38</small></sup>]</span> the Tathâgata, ceasing to attend to any outward thing, or to experience any sensation, becomes plunged in that devout meditation of heart which is concerned with no material object—it is only then that the body of the Tathâgata is at ease.
+32\. 'What, then, Ânanda? Does the order expect that of me? I have preached the truth without making any distinction between exoteric and esoteric doctrine: for in respect of the truths, Ânanda, the Tathâgata has no such thing as the closed fist of a teacher, who keeps some things back[^16]. Surely, Ânanda, should there be any one who harbours the thought, “It is I who will lead the brotherhood,” or, “The order is dependent upon me,” it is he who <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> should lay down instructions in any matter concerning the order. Now the Tathâgata, Ânanda, thinks not that it is he who should lead the brotherhood, or that the order is dependent upon him. Why then should he leave instructions in any matter concerning the order? I too, O Ânanda, am now grown old, and full of years, my journey is drawing to its close, I have reached my sum of days, I am turning eighty years of age; and just as a worn-out cart, Ânanda, can only with much additional care be made to move along, so, methinks, the body of the Tathâgata can only be kept going with much additional care[^17]. It is only, Ânanda, when <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> the Tathâgata, ceasing to attend to any outward thing, or to experience any sensation, becomes plunged in that devout meditation of heart which is concerned with no material object—it is only then that the body of the Tathâgata is at ease.
 
 33\. 'Therefore, O Ânanda, be ye lamps unto yourselves. Be ye a refuge to yourselves. Betake yourselves to no external refuge. Hold fast to the truth as a lamp. Hold fast as a refuge to the truth. Look not for refuge to any one besides yourselves. And how, Ânanda, is a brother to be a lamp unto himself, a refuge to himself, betaking himself to no external refuge, holding fast to the truth as a lamp, holding fast as a refuge to the truth, looking not for refuge to any one besides himself?
 
 34\. 'Herein, O Ânanda, let a brother, as he dwells in the body, so regard the body that he, being strenuous, thoughtful, and mindful, may, whilst in the world, overcome the grief which arises from bodily craving—while subject to sensations let him continue so to regard the sensations that he, being strenuous, thoughtful, and mindful, may, whilst in the world, overcome the grief which arises from the sensations—and so, also, as he thinks, or reasons, or feels, let him overcome the grief which arises from the craving due to ideas, or to reasoning, or to feeling.
 
-35\. ‘And whosoever, Ânanda, either now or after I am dead, shall be a lamp unto themselves, and a refuge unto themselves, shall betake themselves to no external refuge, but holding fast to the truth as their lamp, and holding fast as their refuge to the truth, shall look not for refuge to any one besides themselves—it is they, Ânanda, among my <span id="p39">[<sup><small>p. 39</small></sup>]</span> hikkhus, who shall reach the very topmost Height!-but they must be anxious to learn[^18].’
+35\. ‘And whosoever, Ânanda, either now or after I am dead, shall be a lamp unto themselves, and a refuge unto themselves, shall betake themselves to no external refuge, but holding fast to the truth as their lamp, and holding fast as their refuge to the truth, shall look not for refuge to any one besides themselves—it is they, Ânanda, among my <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> hikkhus, who shall reach the very topmost Height!-but they must be anxious to learn[^18].’
 
 ---
 

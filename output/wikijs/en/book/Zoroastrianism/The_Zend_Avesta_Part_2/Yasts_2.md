@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 The Ya<i>s</i>t of the seven Amshaspands is recited on the first seven days of the week, that is to say, on the days consecrated to the Amesha-Spe<i>n</i>tas. In fact it is nothing more than an extract from the Sîrôzahs, being composed of the first seven formulas in their two forms: §§ 1-5 = Sîrôzah I, 1-7; §§ 6-10 = Sîrôzah II, 1-7. Then come four sections which are the original part of the Ya<i>s</i>t (§§ 11-15).
 
@@ -54,7 +54,7 @@ To Vohu-Manô; to Peace, whose breath is friendly, and who is more powerful to d
 
 2 [^189]. To Asha-Vahi<i>s</i>ta, the fairest; to the much-desired Airyaman; to the instrument made by Mazda; and to the good Saoka, with eyes of love, made by Mazda and holy;
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 To Khshathra-Vairya; to the metals; to Mercy and Charity.
 
@@ -78,7 +78,7 @@ Be propitiation, with sacrifice, prayer, propitiation, and glorification!
 
 Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## II.
 
@@ -96,7 +96,7 @@ We sacrifice unto Haurvatâ<i>t</i>, the Amesha-Spe<i>n</i>ta; we sacrifice unto
 
 We sacrifice unto Ameretâ<i>t</i>, the Amesha-Spe<i>n</i>ta; we sacrifice unto fatness and flocks; we sacrifice unto the plenty of corn; we sacrifice unto the powerful Gaokerena, made by Mazda.
 
-9 [^196]. (At the Gâh Hâvan): We sacrifice unto <span id="p38">[<sup><small>p. 38</small></sup>]</span> Mithra, the lord of wide pastures; we sacrifice unto Râma <i>H</i><i>v</i>âstra.
+9 [^196]. (At the Gâh Hâvan): We sacrifice unto <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> Mithra, the lord of wide pastures; we sacrifice unto Râma <i>H</i><i>v</i>âstra.
 
 (At the Gâh Rapithwin): We sacrifice unto Asha-Vahi<i>s</i>ta and Âtar, the son of Ahura Mazda.
 
@@ -114,7 +114,7 @@ Who is he in whose house, O Spitama Zarathu<i>s</i>tra! every Dru<i>g</i> is des
 
 12 [^201] . . . . . . . . . ?
 
-13\. It is he who takes the seven Amesha-Spe<i>n</i>tas, <span id="p39">[<sup><small>p. 39</small></sup>]</span> the all-ruling, the all-beneficent, as a shield [^202] against his enemies.
+13\. It is he who takes the seven Amesha-Spe<i>n</i>tas, <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> the all-ruling, the all-beneficent, as a shield [^202] against his enemies.
 
 We worship the Law of the worshippers of Mazda; we worship the waters coming in the shape of a horse [^203], made by Mazda.
 
@@ -130,7 +130,7 @@ Of Ahura Mazda, bright and glorious, and of the Amesha-Spe<i>n</i>tas;
 
 Of Vohu-Manô; of Peace, whose breath is friendly [^208] . . . .
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 Of Asha-Vahi<i>s</i>ta, the fairest; of the much-desired Airyaman [^209] . . . .
 

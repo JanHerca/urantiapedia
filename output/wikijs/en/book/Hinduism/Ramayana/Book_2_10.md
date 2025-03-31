@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:11:38Z
   </table>
 </figure>
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 ## CANTO I.: THE HEIR APPARENT.
 
@@ -143,7 +143,7 @@ And weakness warned him death was nigh:
 But Ráma to the world endeared
 By every grace his bosom cheered,
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 The moon of every eye, whose ray
 Drove all his grief and fear away.
@@ -268,7 +268,7 @@ Then all the people made reply,
 Peasant and townsman, low and high:
 ‘ Each noblest gift of form and mind,
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 O Monarch, in thy son we find.
 Do thou the godlike virtues hear
@@ -391,7 +391,7 @@ Be for a hundred thousand placed;
 Fresh curds with streams of milk bedewed
 To feed the Bráhman multitude.
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 With care be all their wants supplied.
 And mid the twice-born chiefs divide
@@ -510,7 +510,7 @@ His thriving people satisfied;
 Whose arsenals with arms are stored,
 And treasury with golden hoard,—
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 His friends rejoice as joyed the Blest
 When Amrit crowned their eager quest.
@@ -624,7 +624,7 @@ Do thou and Sítá strictly fast:
 From worldly thoughts thy soul refrain,
 And couched on holy grass remain.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 And let thy trusted lords attend
 In careful watch upon their friend,
@@ -748,7 +748,7 @@ And thine will be the Regent's place:
 Now with thy Sítá, as is right,
 In strictest fasting spend the night,
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 For when the morrow's dawn is fair
 The king will consecrate his heir:
@@ -871,7 +871,7 @@ Ayodhyá's crowded city flew,
 And soon as dawn appeared, each man
 To decorate the town began.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 In all the temples bright and fair
 As white clouds towering in the air,
@@ -995,7 +995,7 @@ Of high Kailása's hill, she sped.
 Sin in her thoughts, her soul aflame,
 Where Queen Kaikeyí slept, she came:
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 ‘Why sleepest thou?’ she cried, 'arise,
 Peril is near, unclose thine eyes.
@@ -1119,7 +1119,7 @@ Wise, prompt, in warlike science bred;
 And oh, I tremble when I think
 Of thy dear child on ruin's brink.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 Blest witn a lofty fate is she,
 Kaus'alyá; for her son will be
@@ -1245,7 +1245,7 @@ The vengeful rancour of a foe?
 As fury lit Kaikeyí's eyes
 She spoke with long and burning sighs:
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 ‘This day my son enthroned shall see,
 And Ráma to the woods shall flee.
@@ -1365,7 +1365,7 @@ Devoted to thy lady's weal.
 Dear girl, without thy faithful aid
 I had not marked the plot he laid.
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 Full of all guile and sin and spite
 Misshapen hump-backs shock the sight:
@@ -1485,7 +1485,7 @@ She pondered her resolve awhile,
 As the fair path that bliss secured
 The miserable lady lured,
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Devoted to her queen, and swayed
 By hopes of gain and bliss, the maid
@@ -1600,7 +1600,7 @@ And they shall make thee well again.
 Whom, darling, wouldst thou punished see?
 Or whom enriched with lordly fee?
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 “Weep not, my lovely Queen, and stay
 This grief that wears thy frame away

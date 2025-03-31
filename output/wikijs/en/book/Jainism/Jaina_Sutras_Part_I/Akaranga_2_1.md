@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 SECOND BOOK
 
@@ -44,7 +44,7 @@ FIRST LECTURE, CALLED BEGGING OF FOOD [^319].
 
 WHEN a male or a female mendicant, having entered the abode of a householder with the intention of collecting alms, recognises [^320] food, drink, dainties, and spices as affected by, or mixed up with, living beings, mildew, seeds or sprouts, or wet with water, or covered with dust—either in the hand or the pot of another [^321]\—they should not, even if they can get it, accept of such food, thinking that it is impure and unacceptable [^322]. (1)
 
-But if perchance they accept of such food, under pressing circumstances [^323], they should go to a secluded spot, a garden, or a monk's hall—where there are no <span id="p89">[<sup><small>p. 89</small></sup>]</span> eggs, nor living beings, nor sprouts, nor dew, nor water, nor ants, nor mildew, nor drops (of water), nor mud, nor cobwebs—and rejecting (that which is affected by), and cleaning that which is mixed up (with living beings, &c.), they should circumspectly eat or drink it. But with what they cannot eat or drink, they should resort to a secluded spot, and leave it there on a heap of ashes or bones, or rusty things, or chaff, or cowdung, or on any such-like place which they have repeatedly examined and cleaned. (2)
+But if perchance they accept of such food, under pressing circumstances [^323], they should go to a secluded spot, a garden, or a monk's hall—where there are no <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> eggs, nor living beings, nor sprouts, nor dew, nor water, nor ants, nor mildew, nor drops (of water), nor mud, nor cobwebs—and rejecting (that which is affected by), and cleaning that which is mixed up (with living beings, &c.), they should circumspectly eat or drink it. But with what they cannot eat or drink, they should resort to a secluded spot, and leave it there on a heap of ashes or bones, or rusty things, or chaff, or cowdung, or on any such-like place which they have repeatedly examined and cleaned. (2)
 
 A monk or a nun on a begging-tour should not accept as alms whatever herbs they recognise, on examining them, as still whole, containing their source of life, not split longwise or broadwise, and still alive, fresh beans, living and not broken; for such food is impure and unacceptable. (3)
 
@@ -54,7 +54,7 @@ A monk or nun on a begging-tour should not accept as alms whatever flattened gra
 
 But when they recognise these things as more than once worked, as twice, thrice worked, then they may accept them, if they get them; for they are pure and acceptable. (6)
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 A monk or a nun desiring to enter the abode of a householder for collecting alms, should not enter or leave it together with a heretic or a householder; or a monk who avoids all forbidden food, &c., together with one who does not. (7)
 
@@ -66,7 +66,7 @@ A monk or a nun on a begging-tour should not give, immediately or mediately, foo
 
 A monk or a nun on a begging-tour should not accept food, &c., from a householder whom they know to give out of respect for a Nirgrantha, in behalf of a fellow-ascetic, food, &c., which he has bought or stolen or taken, though it was not to be taken nor given, but was taken by force, by acting sinfully towards all sorts of living beings; for such-like food, &c., prepared by another man [^326] or by the giver himself, brought out of the house or not brought out of the house, belonging to the giver or not belonging to him, partaken or tasted of, or not partaken or tasted of, is impure and unacceptable.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 In this precept substitute for ‘on behalf of one fellow-ascetic,’ (2) on behalf of many fellow-ascetics, (3) on behalf of one female fellow-ascetic, (4) on behalf of many female fellow-ascetics; so that there will be four analogous precepts. (11)
 
@@ -83,7 +83,7 @@ Thus I say. (14)
 
 
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 ## SECOND LESSON.
 
@@ -91,7 +91,7 @@ A monk or a nun on a begging-tour should not accept food, &c., in the following 
 
 A monk or a nun on a begging-tour may accept food, &c., from unblamed, uncensured families, to wit, noble families, distinguished families, royal families, families belonging to the line of Ikshvâku, of Hari, cowherds' families, Vai<i>s</i>ya families, barbers' families, carpenters' families, <i>t</i>akurs' families, weavers' families; for such food, &c., is pure and acceptable. (2)
 
-A monk or a nun on a begging-tour should not accept food, &c., in the following case: when in assemblies, or during offerings to the manes, or on a festival of Indra or Skanda or Rudra or Mukunda or demons or Yakshas or the snakes, or on a festival in honour of a tomb, or a shrine, or a tree, or a hill, or a cave, or a well, or a tank, or a pond, or a river, or a lake, or the sea, or a mine—when on such-like various festivals many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, <span id="p93">[<sup><small>p. 93</small></sup>]</span> guests, paupers, and beggars are entertained with food, &c. (all as in § 1, down to) acceptable. (3)
+A monk or a nun on a begging-tour should not accept food, &c., in the following case: when in assemblies, or during offerings to the manes, or on a festival of Indra or Skanda or Rudra or Mukunda or demons or Yakshas or the snakes, or on a festival in honour of a tomb, or a shrine, or a tree, or a hill, or a cave, or a well, or a tank, or a pond, or a river, or a lake, or the sea, or a mine—when on such-like various festivals many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> guests, paupers, and beggars are entertained with food, &c. (all as in § 1, down to) acceptable. (3)
 
 But when he perceives that all have received their due share, and are enjoying their meal, he should address [^327] the householder's wife or sister or daughter-in-law or nurse or male or female servant or slave and say: ‘O long-lived one! (or, O sister!) will you give me something to eat?’ After these words of the mendicant, the other may bring forth food, &c., and give it him. Such food, &c., whether he beg for it or the other give it, he may accept; for it is pure and acceptable. (4)
 
@@ -99,7 +99,7 @@ When a monk or a nun knows that at a distance of more than half a yo<i>g</i>ana 
 
 When a monk hears that the entertainment is given in an eastern or western or southern or northern place, he should go respectively to the west or east or north or south, being quite indifferent (about the feast); wherever there is a festive entertainment, in a village or scot-free town, &c. (see I, 7, 6, § 4), he should not go there for the sake of the festive entertainment.
 
-The Kevalin assigns as the reason for this precept, that if the monk eats food, &c., which has been given him on such an occasion, he will incur the sin of one <span id="p94">[<sup><small>p. 94</small></sup>]</span> who uses what [^329] has been prepared for him, or is mixed up with living beings, or has been bought or stolen or taken, though it was not to be taken, nor was it given, but taken by force. (6)
+The Kevalin assigns as the reason for this precept, that if the monk eats food, &c., which has been given him on such an occasion, he will incur the sin of one <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> who uses what [^329] has been prepared for him, or is mixed up with living beings, or has been bought or stolen or taken, though it was not to be taken, nor was it given, but taken by force. (6)
 
 A layman [^330] might, for the sake of a mendicant, make small doors large, or large ones small; put beds [^331] from a level position into a sloping one, or from a sloping position into a level one; place the beds [^331] out of the draught or in the draught; cutting and clipping the grass outside or within the upâ<i>s</i>raya, spread a couch for him, (thinking that) this mendicant is without means for a bed [^331]. Therefore should a well-controlled Nirgrantha not resolve to go to any festival which is preceded or followed by a feast.
 
@@ -116,13 +116,13 @@ When he has eaten or drunk at a festive entertainment, he might vomit (what he h
 
 The Kevalin says this is the reason:
 
-A mendicant, having drunk various liquors, together with the householder or his wife, monks or nuns, might not find the (promised) resting-place on leaving the scene of entertainment and looking <span id="p95">[<sup><small>p. 95</small></sup>]</span> out for it; or in the resting-place he may get into mixed company; in the absence of his mind or in his drunkenness he may lust after a woman or a eunuch; approaching the mendicant (they will say): O long-lived <i>S</i>rama<i>n</i>a! (let us meet) in the garden, or in the sleeping-place, in the night or in the twilight.‘ Luring him thus by his sensuality (she says): Let us proceed to enjoy the pleasures of love.’ He might go to her, though he knows that it should not be done.
+A mendicant, having drunk various liquors, together with the householder or his wife, monks or nuns, might not find the (promised) resting-place on leaving the scene of entertainment and looking <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> out for it; or in the resting-place he may get into mixed company; in the absence of his mind or in his drunkenness he may lust after a woman or a eunuch; approaching the mendicant (they will say): O long-lived <i>S</i>rama<i>n</i>a! (let us meet) in the garden, or in the sleeping-place, in the night or in the twilight.‘ Luring him thus by his sensuality (she says): Let us proceed to enjoy the pleasures of love.’ He might go to her, though he knows that it should not be done.
 
 These are the causes to sin, they multiply continuously. Therefore should a well-controlled Nirgrantha not resolve to go to any festival which is preceded or followed by a feast. (2)
 
 A monk or a nun, hearing or being told of some festivity, might hasten there, rejoicing inwardly: ‘There will be an entertainment, sure enough!’ It is impossible to get there from other families alms which are acceptable and given out of respect for the cloth [^332], and to eat the meal. As this would lead to sin, they should not do it [^333]. But they should enter there, and getting from other families their alms, should eat their meal. (3)
 
-A monk or a nun, knowing that in a village or a scot-free town, &c. (see I, 7, 6, § 4), an entertainment will be given, should not resolve to go to that village, &c., for the sake of the entertainment. The Kevalin assigns as the reason herefore: When a man goes to <span id="p96">[<sup><small>p. 96</small></sup>]</span> a much-frequented and vulgar entertainment somebody's foot treads on his foot, somebody's hand moves his hand, somebody's bowl clashes against his bowl, somebody's head comes in collision with his head, somebody's body pushes his body, or somebody beats him with a stick or a bone or a fist or a clod, or sprinkles him with cold water, or covers him with dust; or he eats unacceptable food, or he receives what should be given to others. Therefore should a well-controlled Nirgrantha not resolve to go to a much-frequented and vulgar entertainment to partake of it. (4)
+A monk or a nun, knowing that in a village or a scot-free town, &c. (see I, 7, 6, § 4), an entertainment will be given, should not resolve to go to that village, &c., for the sake of the entertainment. The Kevalin assigns as the reason herefore: When a man goes to <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> a much-frequented and vulgar entertainment somebody's foot treads on his foot, somebody's hand moves his hand, somebody's bowl clashes against his bowl, somebody's head comes in collision with his head, somebody's body pushes his body, or somebody beats him with a stick or a bone or a fist or a clod, or sprinkles him with cold water, or covers him with dust; or he eats unacceptable food, or he receives what should be given to others. Therefore should a well-controlled Nirgrantha not resolve to go to a much-frequented and vulgar entertainment to partake of it. (4)
 
 A monk or a nun on a begging-tour should not accept such food, &c,, about the acceptability or unacceptability of which his (or her) mind has some doubts or misgivings for such food, &c. (5)
 
@@ -132,7 +132,7 @@ A monk or a nun entering or leaving the out-of-door places for religious practic
 
 A monk or a nun wandering from village to village should do so with the complete outfit [^335]. (8)
 
-A monk or a nun should not, with the complete outfit, enter or leave the abode of a householder to collect alms, or the out-of-door places for religious practices and study, or wander from village to village on perceiving that a strong and widely-spread rain pours down, or a strong and widely-spread mist is <span id="p97">[<sup><small>p. 97</small></sup>]</span> coming on, or a high wind raises much dust, or many flying insects are scattered about and fall down. (9)
+A monk or a nun should not, with the complete outfit, enter or leave the abode of a householder to collect alms, or the out-of-door places for religious practices and study, or wander from village to village on perceiving that a strong and widely-spread rain pours down, or a strong and widely-spread mist is <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> coming on, or a high wind raises much dust, or many flying insects are scattered about and fall down. (9)
 
 A monk or a nun on a begging-tour should not accept food, &c., in the houses of Kshatriyas, kings, messengers, and relations of kings, whether they are inside or outside, or invite them; for such food, &c., is impure and unacceptable. Thus I say. (10)
 
@@ -143,13 +143,13 @@ A monk or a nun on a begging-tour should not accept food, &c., in the houses of 
 
 A monk or a nun on a begging-tour should not resolve to go to a festival, preceded or followed by an entertainment, to partake of it, when they know that there will be served up chiefly meat or fish or roasted slices of meat or fish; nor to a wedding breakfast in the husband's house or in that of the bride's father; nor to a funeral dinner or to a family dinner where something is served up,—if on their way there, there are many living beings, many seeds, many sprouts, much dew, much water, much mildew, many drops (of water), much dust, and many cobwebs; or if there have arrived or will arrive many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, guests, paupers, and beggars, and if it will be a crowded assembly, so that a wise man may not enter or leave it, or learn there the sacred texts, to question about them, to repeat them, to consider them, to think about the substance of the law. (1)
 
-A monk or a nun may go to such an entertainment (as described in the preceding Sara), provided that on their way there, there are few living beings, few seeds, &c.; that no <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, &c., have arrived or will arrive; that it is not a <span id="p98">[<sup><small>p. 98</small></sup>]</span> crowded assembly, so that a wise man may enter or leave, &c. [^336] (2)
+A monk or a nun may go to such an entertainment (as described in the preceding Sara), provided that on their way there, there are few living beings, few seeds, &c.; that no <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, &c., have arrived or will arrive; that it is not a <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> crowded assembly, so that a wise man may enter or leave, &c. [^336] (2)
 
 A monk or a nun desirous to enter the abode of a householder, should not do so, when they see that the milch cows are being milked, or the food, &c., is being cooked, and that it is not yet distributed. Perceiving this, they should step apart and stay where no people pass or see them. But when they conceive that the milch cows are milked, the dinner prepared and distributed, then they may circumspectly enter or leave the householder's abode for the sake of alms. (3)
 
 Some of the mendicants say to those who follow the same rules of conduct, live (in the same place), or wander from village to village: ‘This is indeed a small village, it is too populous, nor is it large; reverend gentlemen, go to the outlying villages to beg alms [^337].’
 
-Some mendicant may have there kinsmen or relations, e. g. a householder or his wife, or daughters, or daughters-in-law, or nurses, or male and female slaves or servants. Such families with which he is connected by kindred or through marriage, he intends to visit before (the time of begging): ‘I shall get there (he thinks) food or dainties or milk or thick sour milk or fresh butter or ghee or sugar or oil or honey or meat or liquor, a sesamum dish [^338], or raw sugar, or a meal of parched wheat [^339], or a meal of curds and sugar with spices [^340]; after having eaten and drunk, and having cleaned and rubbed the alms-bowl, I shall, <span id="p99">[<sup><small>p. 99</small></sup>]</span> together with other mendicants, enter or leave the abode of a householder to collect alms.’ As this would be sinful, he should not do so. (4)
+Some mendicant may have there kinsmen or relations, e. g. a householder or his wife, or daughters, or daughters-in-law, or nurses, or male and female slaves or servants. Such families with which he is connected by kindred or through marriage, he intends to visit before (the time of begging): ‘I shall get there (he thinks) food or dainties or milk or thick sour milk or fresh butter or ghee or sugar or oil or honey or meat or liquor, a sesamum dish [^338], or raw sugar, or a meal of parched wheat [^339], or a meal of curds and sugar with spices [^340]; after having eaten and drunk, and having cleaned and rubbed the alms-bowl, I shall, <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> together with other mendicants, enter or leave the abode of a householder to collect alms.’ As this would be sinful, he should not do so. (4)
 
 But, at the proper time, entering there with the other mendicants, he may there in these or other families accept alms which are acceptable and given out of respect for his cloth, and eat his meal.
 
@@ -166,13 +166,13 @@ When a monk or a nun on entering the abode of a householder sees that the first 
 
 When a monk or a nun on a begging-tour comes upon walls or gates, or bolts or holes to fit them, they should, in case there be a byway, avoid those (obstacles), and not go on straight.
 
-The Kevalin says: This is the reason: Walking there, he might stumble or fall down; when he stumbles or falls down, his body might become contaminated with fæces, urine, phlegmatic humour, mucus, saliva, bile, matter, semen, or blood. And if his body has become soiled, he should not wipe or <span id="p100">[<sup><small>p. 100</small></sup>]</span> rub or scratch or clean [^342] or warm or dry it on the bare ground or wet earth \[^343]\] on a rock or a piece of clay containing life, or timber inhabited by worms, or anything containing eggs, living beings, &c. (down to) cobwebs; but he should first beg for some straw or leaves, wood or a potsherd, which must be free from dust, resort with it to a secluded spot, and on a heap of ashes or bones, &c. (see II, 1, 1, § 2), which he has repeatedly examined and cleaned, he should circumspectly wipe or rub, warm or dry (his body). (2)
+The Kevalin says: This is the reason: Walking there, he might stumble or fall down; when he stumbles or falls down, his body might become contaminated with fæces, urine, phlegmatic humour, mucus, saliva, bile, matter, semen, or blood. And if his body has become soiled, he should not wipe or <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> rub or scratch or clean [^342] or warm or dry it on the bare ground or wet earth \[^343]\] on a rock or a piece of clay containing life, or timber inhabited by worms, or anything containing eggs, living beings, &c. (down to) cobwebs; but he should first beg for some straw or leaves, wood or a potsherd, which must be free from dust, resort with it to a secluded spot, and on a heap of ashes or bones, &c. (see II, 1, 1, § 2), which he has repeatedly examined and cleaned, he should circumspectly wipe or rub, warm or dry (his body). (2)
 
 When a monk or a nun on a begging-tour perceives a vicious cow coming towards them, or a vicious buffalo coming towards them, or a vicious man, horse, elephant, lion, tiger, wolf, panther, bear, hyena, <i>s</i>arabha, shakal, cat, dog, boar, fox, leopard coming towards them, they should, in case there be a byway, circumspectly avoid them, and not walk on straight. (3)
 
 When a monk or a nun on a begging-tour comes on their way upon a pit, pillar, thorns, or unsafe, marshy or uneven ground, or mud, they should, in case there be a byway, avoid these (obstacles), and not walk on straight.
 
-When a monk or a nun on a begging-tour perceives that the entrance of a householder's abode is secured by a branch of a thorn bush, they should not, without having previously got the (owner's) permission, and having examined and swept (the entrance), make it passable or enter and leave (the <span id="p101">[<sup><small>p. 101</small></sup>]</span> house). But they may circumspectly do so, after having got the (owner's) permission, and having examined and swept it. (4)
+When a monk or a nun on a begging-tour perceives that the entrance of a householder's abode is secured by a branch of a thorn bush, they should not, without having previously got the (owner's) permission, and having examined and swept (the entrance), make it passable or enter and leave (the <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> house). But they may circumspectly do so, after having got the (owner's) permission, and having examined and swept it. (4)
 
 When a monk or a nun on a begging-tour knows that a <i>S</i>rama<i>n</i>a or a Brâhma<i>n</i>a, a guest, pauper or beggar has already entered (the house), they should not stand in their sight or opposite the door [^344].
 
@@ -180,7 +180,7 @@ The Kevalin [^345] says: This is the reason: Another, on seeing him, might procu
 
 Knowing this, he should go apart and stay where no people pass or see him. Another man may bring and give him food, &c., while he stays where no people pass or see him, and say unto him: ‘O long-lived <i>S</i>rama<i>n</i>a! this food, &c., has been given for the sake of all of you; eat it or divide it among you.’ Having silently accepted the gift, he might think: Well, this is just (enough) for me!' As this would be sinful, he should not do so.
 
-Knowing this, he should join the other beggars, and after consideration say unto them [^346]: ‘O long-lived <i>S</i>rama<i>n</i>as! this food, &c., is given for the sake of all of you; eat it or divide it among you.’ After these words another might answer him: ‘O long-lived <span id="p102">[<sup><small>p. 102</small></sup>]</span> <i>S</i>rama<i>n</i>a! distribute it yourself.’ Dividing the food, &c., he should not (select) for himself too great a portion, or the vegetables, or the conspicuous things, or the savoury things, or the delicious things, or the nice things, or the big things; but he should impartially divide it, not being eager or desirous or greedy or covetous (of anything). When he thus makes the division, another might say: ‘O long-lived <i>S</i>rama<i>n</i>a! do not divide (the food); but let us, all together, eat and drink.’ When he thus eats, he should not select for himself too great a portion, &c.; but should eat and drink alike with all, not being desirous, &c. [^347] (5)
+Knowing this, he should join the other beggars, and after consideration say unto them [^346]: ‘O long-lived <i>S</i>rama<i>n</i>as! this food, &c., is given for the sake of all of you; eat it or divide it among you.’ After these words another might answer him: ‘O long-lived <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> <i>S</i>rama<i>n</i>a! distribute it yourself.’ Dividing the food, &c., he should not (select) for himself too great a portion, or the vegetables, or the conspicuous things, or the savoury things, or the delicious things, or the nice things, or the big things; but he should impartially divide it, not being eager or desirous or greedy or covetous (of anything). When he thus makes the division, another might say: ‘O long-lived <i>S</i>rama<i>n</i>a! do not divide (the food); but let us, all together, eat and drink.’ When he thus eats, he should not select for himself too great a portion, &c.; but should eat and drink alike with all, not being desirous, &c. [^347] (5)
 
 When a monk or a nun on a begging-tour perceives that a Srama<i>n</i>a or Brâhma<i>n</i>a, a beggar or guest has already entered the house, they should not overtake them and address (the householder) first. Knowing this, they should go apart and stay where no people pass or see them. But when they perceive that the other has been sent away or received alms, and has returned, they may circumspectly enter the house and address the householder.
 
@@ -193,7 +193,7 @@ Thus I say. (6)
 
 ## SIXTH LESSON.
 
-When a monk or a nun on a begging-tour perceives that many hungry animals have met and come together in search of food, e. g. those of the chicken-kind or those of the pig-kind, or that crows <span id="p103">[<sup><small>p. 103</small></sup>]</span> have met and come together, where an offering is thrown on the ground, they should, in case there be a byway, avoid them and not go on straight. (1)
+When a monk or a nun on a begging-tour perceives that many hungry animals have met and come together in search of food, e. g. those of the chicken-kind or those of the pig-kind, or that crows <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> have met and come together, where an offering is thrown on the ground, they should, in case there be a byway, avoid them and not go on straight. (1)
 
 A monk or a nun on a begging-tour should not stand leaning against the door-post of the householder's abode, or his sink or spitting-pot, nor in sight of, or opposite to his bathroom or privy; nor should they contemplate a loophole or a mended spot or a fissure (of the house) or the bathing-house, showing in that direction with an arm or pointing with a finger, bowing up and down. (2)
 
@@ -201,7 +201,7 @@ Nor should they beg, pointing with a finger at the householder, or moving him wi
 
 If he sees somebody eating, e<i>g</i>. the householder or his wife, &c., he should after consideration say: ‘O long-lived one! (or, O sister!) will you give me some of that food?’ After these words the other might wash or wipe his hand or pot or spoon or plate with cold or hot water [^348]. He should after consideration say: ‘O long-lived one! (or, O sister!) do not wash or wipe your hand or pot or spoon or plate! If you want to give me something, give it as it is!’ After these words the other might give him a share, having washed or wiped his hand, &c., with cold or hot water. But he should not accept anything out of such a hand, &c., which has been before treated thus; for it is impure and unacceptable. (4)
 
-It is also to be known that food, &c., is impure <span id="p104">[<sup><small>p. 104</small></sup>]</span> and unacceptable, which is given with a wet hand, though the hand be not purposely wetted. (5)
+It is also to be known that food, &c., is impure <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> and unacceptable, which is given with a wet hand, though the hand be not purposely wetted. (5)
 
 The same rule holds good with regard to a moistened hand, &c., and a dusty hand, &c., and a hand which is soiled with clay, dew, orpiment, vermilion, realgar, collyrium, white chalk, alum, rice-flour, kukkusa, ground drugs. (6)
 
@@ -211,7 +211,7 @@ A monk or a nun on a begging-tour should not accept flattened grains, grains con
 
 A monk or a nun on a begging-tour should not accept fossil salt or sea salt which a householder, for the sake of the mendicant, has ground or pounded, grinds or pounds, will grind or pound on a rock or a piece of clay containing life, &c.; for such-like fossil salt or sea salt is impure and unacceptable. (9)
 
-A monk or a nun on a begging-tour should not <span id="p105">[<sup><small>p. 105</small></sup>]</span> accept food, &c., which is prepared over the fire; for such food is impure and unacceptable. The Kevalin says: This is the reason: A layman will kill the fire-bodies, by wetting or moistening, wiping or rubbing, throwing up or turning down the food, &c., for the sake of the mendicant. Hence it has been declared to the mendicants: This is the statement, this is the reason, this is the order, that they should not accept food, &c., which has been prepared over the fire, &c.
+A monk or a nun on a begging-tour should not <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> accept food, &c., which is prepared over the fire; for such food is impure and unacceptable. The Kevalin says: This is the reason: A layman will kill the fire-bodies, by wetting or moistening, wiping or rubbing, throwing up or turning down the food, &c., for the sake of the mendicant. Hence it has been declared to the mendicants: This is the statement, this is the reason, this is the order, that they should not accept food, &c., which has been prepared over the fire, &c.
 
 This certainly is the whole duty, &c.
 
@@ -222,7 +222,7 @@ Thus I say. (10)
 
 ## SEVENTH LESSON.
 
-A monk or a nun on a begging-tour should not accept food, &c., which has been placed on a post or pillar or beam or scaffold or loft [^350] or platform or roof or some such-like elevated place; for such food fetched from above is impure and unacceptable. The Kevalin says: This is the reason: The layman might fetch and erect a stool or a bench or a ladder or a handmill, get upon it, and getting upon it fall or tumble down. Thus he might hurt his foot or arm or breast or belly or head or some other part of his body; or he might kill or frighten or bruise or smash or crush or afflict or pain or dislocate all sorts <span id="p106">[<sup><small>p. 106</small></sup>]</span> of living beings. Therefore he should not accept such-like food, &c., fetched from above. (1)
+A monk or a nun on a begging-tour should not accept food, &c., which has been placed on a post or pillar or beam or scaffold or loft [^350] or platform or roof or some such-like elevated place; for such food fetched from above is impure and unacceptable. The Kevalin says: This is the reason: The layman might fetch and erect a stool or a bench or a ladder or a handmill, get upon it, and getting upon it fall or tumble down. Thus he might hurt his foot or arm or breast or belly or head or some other part of his body; or he might kill or frighten or bruise or smash or crush or afflict or pain or dislocate all sorts <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> of living beings. Therefore he should not accept such-like food, &c., fetched from above. (1)
 
 A monk or a nun on a begging-tour should not accept food, &c., which a layman, for the sake of the mendicant, has taken from a granary or vault by contorting himself up and down and horizontally; thinking that such-like food is brought from underground [^351]. (2)
 
@@ -230,13 +230,13 @@ A monk or a nun on a begging-tour should not accept food, &c., which is kept in 
 
 A monk or a nun on a begging-tour should not accept food, &c., placed on the earth-body, the wind-body, the fire-body, for such food is impure and unacceptable. The Kevalin says: This is the reason: A layman might, for the sake of the mendicant, stir or brighten the fire, and taking the food, &c., down from it, might give it to the mendicant. Hence it has been said, &c., that he should accept no such food. (4)
 
-When a monk or a nun on a begging-tour sees that a layman might, for the sake of the mendicant, <span id="p107">[<sup><small>p. 107</small></sup>]</span> cool too hot food, &c., by blowing or fanning with a winnowing basket or fan or a palm leaf or a branch or a part of a branch or a bird's tail or a peacock's tail or a cloth or a corner of a cloth or the hand or the mouth, they should, after consideration, say (to the householder or his wife): ‘O long-lived one! (or, O sister!) do not blow or fan the hot food, &c., with a winnowing basket, &c.; but if you want to give it me, give it as it is.’ After these words the other might give it after having blown or fanned it with a winnowing basket, &c.; such-like food they should not accept, because it is impure and unacceptable. (5)
+When a monk or a nun on a begging-tour sees that a layman might, for the sake of the mendicant, <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> cool too hot food, &c., by blowing or fanning with a winnowing basket or fan or a palm leaf or a branch or a part of a branch or a bird's tail or a peacock's tail or a cloth or a corner of a cloth or the hand or the mouth, they should, after consideration, say (to the householder or his wife): ‘O long-lived one! (or, O sister!) do not blow or fan the hot food, &c., with a winnowing basket, &c.; but if you want to give it me, give it as it is.’ After these words the other might give it after having blown or fanned it with a winnowing basket, &c.; such-like food they should not accept, because it is impure and unacceptable. (5)
 
 A monk or a nun on a begging-tour should not accept food, &c., which is placed on vegetable or animal matter [^352]; for such food is impure and unacceptable. (6)
 
 A monk or a nun on a begging-tour should not accept water which has been used for watering flour or sesamum or rice, or any other such-like water which has been recently used for washing, which has not acquired a new taste, nor altered its taste or nature, nor has been strained; for such-like water is impure and unacceptable. But if it has long ago been used for washing, has acquired a new taste, has altered its taste or nature, and has been strained, it may be accepted, for it is pure and acceptable. (7)
 
-When a monk or a nun on a begging-tour finds water used for washing sesamum, chaff or barley, or rainwater [^353] or sour gruel or pure water, they should, after consideration, say (to the householder or his wife): ‘O long-lived one! (or, O sister!) will you give <span id="p108">[<sup><small>p. 108</small></sup>]</span> me some of this water?’ Then the other may answer him: ‘O long-lived <i>S</i>rama<i>n</i>a! take it yourself by drawing it with, or pouring it in, your bowl!’ Such-like water, whether taken by himself or given by the other, he may accept. (8)
+When a monk or a nun on a begging-tour finds water used for washing sesamum, chaff or barley, or rainwater [^353] or sour gruel or pure water, they should, after consideration, say (to the householder or his wife): ‘O long-lived one! (or, O sister!) will you give <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> me some of this water?’ Then the other may answer him: ‘O long-lived <i>S</i>rama<i>n</i>a! take it yourself by drawing it with, or pouring it in, your bowl!’ Such-like water, whether taken by himself or given by the other, he may accept. (8)
 
 A monk or a nun on a begging-tour should not accept such water as has been taken from the bare ground, &c. (see II, 1, 5, § 2, all down to) cobwebs, or water which the layman fetches in a wet or moist or dirty vessel, mixing it with cold water.
 
@@ -253,7 +253,7 @@ A monk or a nun on a begging-tour should not accept juice of mangos, inspissated
 
 When a monk or a nun on a begging-tour smells, in travellers' houses or garden houses or householders' houses or ma<i>th</i>s, the scent of food or drink or sweet scents, they should not smell them, being indifferent against smell, and not eager or desirous or greedy or covetous of the pleasant smell. (2)
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 A monk or a nun on a begging-tour should not accept raw things which are not yet modified by instruments [^355], as bulbous roots, growing in water or dry ground, mustard stalks; for they are impure and unacceptable. The same holds good with regard to long pepper, ground long pepper, common pepper, ground common pepper, ginger or ground ginger. (3)
 
@@ -265,7 +265,7 @@ The same holds good with regard to raw berries which, &c., as those of Kapittha 
 
 A monk or a nun on a begging-tour should not accept raw, powdered fruits which are not well ground and still contain small seeds, as those of Umbara, Pila<i>m</i>khu, Nyagrodha, and A<i>s</i>vattha; for &c. (7)
 
-A monk or a nun on a begging-tour should not accept unripe wild rice [^362], dregs, honey, liquor, ghee, or sediments of liquor, if these things be old or if living beings are engendered or grow or thrive in <span id="p110">[<sup><small>p. 110</small></sup>]</span> them, or are not taken out, or killed or destroyed in them. (8)
+A monk or a nun on a begging-tour should not accept unripe wild rice [^362], dregs, honey, liquor, ghee, or sediments of liquor, if these things be old or if living beings are engendered or grow or thrive in <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> them, or are not taken out, or killed or destroyed in them. (8)
 
 A monk or a nun on a begging-tour should not accept any such-like raw plants [^363] as Ikshumeru, Aṅkakarelu, Ka<i>s</i>eru, Sa<i>m</i>ghâ<i>t</i>ika, Pûtiâlu. (9)
 
@@ -285,7 +285,7 @@ Thus I say. (15)
 
 
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## NINTH LESSON.
 
@@ -293,7 +293,7 @@ In the east or west or south or north, there are some faithful householders, &c.
 
 A monk or a nun on a begging-tour or in their residence or on a pilgrimage from village to village, who know that in a village or scot-free town, &c., dwell a mendicant's nearer or remoter relations—viz. a householder or his wife, &c.—should not enter or leave such houses for the sake of food or drink. The Kevalin says: This is the reason: Seeing him, the other might, for his sake, procure or prepare food, &c. Hence it has been said to the mendicant, &c., that he should not enter or leave such houses for the sake of food or drink.
 
-Knowing this, he should go apart and stay where no people pass or see him. In due time he may enter other houses, and having begged for alms which are acceptable and given out of respect for <span id="p112">[<sup><small>p. 112</small></sup>]</span> his cloth, he may eat his dinner. If the other has, on the mendicant's timely entrance, procured or prepared food, &c., which is âdhâkarmika, he might silently examine it, and think: ‘Why should I abstain from what has been brought.’ As this would be sinful, he should not do so. But after consideration he should say: ‘O long-lived one! (or, O sister!) as it is not meet that I should eat or drink food, &c., which is âdhâkarmika, do not procure or prepare it.’ If after these words the other brings and gives him âdhâkarmika food which he has prepared, he should not accept such-like food, &c., for it is impure and unacceptable. (2)
+Knowing this, he should go apart and stay where no people pass or see him. In due time he may enter other houses, and having begged for alms which are acceptable and given out of respect for <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> his cloth, he may eat his dinner. If the other has, on the mendicant's timely entrance, procured or prepared food, &c., which is âdhâkarmika, he might silently examine it, and think: ‘Why should I abstain from what has been brought.’ As this would be sinful, he should not do so. But after consideration he should say: ‘O long-lived one! (or, O sister!) as it is not meet that I should eat or drink food, &c., which is âdhâkarmika, do not procure or prepare it.’ If after these words the other brings and gives him âdhâkarmika food which he has prepared, he should not accept such-like food, &c., for it is impure and unacceptable. (2)
 
 When a monk or a nun on a begging-tour sees that meat or fish is being roasted, or oil cakes, for the sake of a guest, are being prepared, they should not, quickly approaching, address the householder; likewise if the food is prepared for the sake of a sick person. (3)
 
@@ -301,7 +301,7 @@ A monk or a nun on a begging-tour might, of the received quantity of food, eat o
 
 A monk or a nun on a begging-tour might, of the received quantity of drink, imbibe only the well-flavoured part, and reject the astringent part. As this would be sinful, they should not do so; but they should consume everything, whether it be well flavoured or astringent, and reject nothing. (5)
 
-A monk or a nun, having received a more than sufficient quantity of food, might reject (the superfluous part) without having considered or consulted <span id="p113">[<sup><small>p. 113</small></sup>]</span> fellow-ascetics living in the neighbourhood, who follow the same rules of conduct, are agreeable and not to be shunned; as this would be sinful, they should not do so. Knowing this, they should go there and after consideration say: ‘O long-lived <i>S</i>rama<i>n</i>as! this food, &c., is too much for me, eat it or drink it!’ After these words the other might say: ‘O long-lived <i>S</i>rama<i>n</i>a! we shall eat or drink as much of this food or drink as we require; or, we require the whole, we shall eat or drink the whole.’ (6)
+A monk or a nun, having received a more than sufficient quantity of food, might reject (the superfluous part) without having considered or consulted <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> fellow-ascetics living in the neighbourhood, who follow the same rules of conduct, are agreeable and not to be shunned; as this would be sinful, they should not do so. Knowing this, they should go there and after consideration say: ‘O long-lived <i>S</i>rama<i>n</i>as! this food, &c., is too much for me, eat it or drink it!’ After these words the other might say: ‘O long-lived <i>S</i>rama<i>n</i>a! we shall eat or drink as much of this food or drink as we require; or, we require the whole, we shall eat or drink the whole.’ (6)
 
 A monk or a nun on a begging-tour should not accept food, &c., which for the sake of another has been put before the door, if the householder has not permitted him to do so, or he gives it him; for such food, &c. But on the contrary he may accept it.
 
@@ -316,7 +316,7 @@ Thus I say. (7)
 
 A single mendicant, having collected alms for many, might, without consulting his fellow-ascetics, give them to those whom he list; as this would be sinful, he should not do so. Taking the food, he should go there (where his teacher &c. is) and speak thus: ‘O long-lived <i>S</i>rama<i>n</i>a! there are near or remote (spiritual) relations of mine: a teacher, a sub-teacher, a religious guide, a Sthavira, a head of a Ga<i>n</i>a, a Ga<i>n</i>adhara, a founder of a Ga<i>n</i>a; forsooth, I shall give it them.’ The other may answer him: ‘Well now, indeed, O long-lived one! give such a portion!’ As much as the other commands, thus much he should give; if the other commands the whole, he should give the whole. (1)
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 A single mendicant, having collected agreeable food, might cover it with distasteful food, thinking: ‘The teacher or sub-teacher, &c., seeing what I have received, might take it himself; indeed, I shall not give anything to anybody!’ As this would be sinful, he should not do so.
 
@@ -328,13 +328,13 @@ A monk or a nun on a begging-tour should not accept any part of the sugar-cane [
 
 A monk or a nun on a begging-tour should not accept meat or fish containing many bones, so that only a part of it can be eaten and the greater part must be rejected; for such meat or fish, &c., is impure and unacceptable. (5)
 
-A monk or a nun on a begging-tour may be invited to meat or fish containing many bones, (by the householder who addresses him thus): ‘O long-lived <i>S</i>rama<i>n</i>a! will you accept meat with many bones?’ Hearing such a communication, he should <span id="p115">[<sup><small>p. 115</small></sup>]</span> say, after consideration: ‘O long-lived one! (or, O sister!) it is not meet for me to accept meat with many bones; if you want to give me a portion of whatever size, give it me; but not the bones!’ If after these words the other (i.e. the householder) should fetch meat containing many bones, put it in a bowl and return with it, (the mendicant) should not accept such a bowl, whether out of the other's hand or a vessel [^370]; for it is impure and unacceptable. But if he has inadvertently accepted it, he should not say: ‘No, away, take it!’ Knowing this, he should go apart, and in a garden or an upâ<i>s</i>raya, where there are few eggs, &c., (all down t o) cobwebs, eat the meat or fish, and taking the bones, he should resort to a secluded spot and leave them on a heap of ashes, &c. (see II, 1, 1, § 2). (6)
+A monk or a nun on a begging-tour may be invited to meat or fish containing many bones, (by the householder who addresses him thus): ‘O long-lived <i>S</i>rama<i>n</i>a! will you accept meat with many bones?’ Hearing such a communication, he should <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> say, after consideration: ‘O long-lived one! (or, O sister!) it is not meet for me to accept meat with many bones; if you want to give me a portion of whatever size, give it me; but not the bones!’ If after these words the other (i.e. the householder) should fetch meat containing many bones, put it in a bowl and return with it, (the mendicant) should not accept such a bowl, whether out of the other's hand or a vessel [^370]; for it is impure and unacceptable. But if he has inadvertently accepted it, he should not say: ‘No, away, take it!’ Knowing this, he should go apart, and in a garden or an upâ<i>s</i>raya, where there are few eggs, &c., (all down t o) cobwebs, eat the meat or fish, and taking the bones, he should resort to a secluded spot and leave them on a heap of ashes, &c. (see II, 1, 1, § 2). (6)
 
 If a householder should fetch fossil salt or sea salt, put it in a bowl and return with it, a monk or a nun on a begging-tour should not accept it out of the other's hand or vessel; for, &c.
 
 But if he has inadvertently accepted it, he should return with it to the householder, if he is not yet too far away, and say, after consideration [^371]: ‘Did you give me this with your full knowledge or without it?’ He might answer: I did give it without my full knowledge; but indeed, O long-lived one! I now give it you; consume it or divide it (with others)!’
 
-Then being permitted by, and having received it from, the householder, he should circumspectly eat it or drink it, and what he cannot eat or drink he <span id="p116">[<sup><small>p. 116</small></sup>]</span> should share with his fellow-ascetics in the neighbourhood, who follow the same rules of conduct, are agreeable, and not to be shunned; but if there are no fellow-ascetics, the same should be done as in case one has received too much food.
+Then being permitted by, and having received it from, the householder, he should circumspectly eat it or drink it, and what he cannot eat or drink he <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> should share with his fellow-ascetics in the neighbourhood, who follow the same rules of conduct, are agreeable, and not to be shunned; but if there are no fellow-ascetics, the same should be done as in case one has received too much food.
 
 This is the whole duty, &c.
 
@@ -347,7 +347,7 @@ Thus I say. (7)
 
 Some mendicants say unto (others) who follow the same rules of conduct, or live in the same place, or wander from village to village, if they have received agreeable food and another mendicant falls sick [^372]: ‘Take it! give it him! if the sick mendicant will not eat it, thou mayst eat it.’ But he (who is ordered to bring the food) thinking, ‘I shall eat it myself,’ covers it and shows it (saying): This is the lump of food, it is rough to the taste [^373], it is pungent, it is bitter, it is astringent, it is sour, it is sweet; there is certainly nothing in it fit for a sick person.' As this would be sinful, he should not do so. But he should show him which parts are not fit for a sick person (saying): ‘This particle is pungent, this one bitter, this one astringent, this one sour, this one sweet.’ (1)
 
-Some mendicants say unto (others) who follow the same rules of conduct, or live in the same place, or wander from village to village, if they have received agreeable food and another mendicant falls sick: ‘Take it! give it him! if the mendicant will not eat it, bring it to us!’ ‘If nothing prevents me, I shall <span id="p117">[<sup><small>p. 117</small></sup>]</span> bring it.’ (Then he might act as stated in § 1, which would be sinful.) (2)
+Some mendicants say unto (others) who follow the same rules of conduct, or live in the same place, or wander from village to village, if they have received agreeable food and another mendicant falls sick: ‘Take it! give it him! if the mendicant will not eat it, bring it to us!’ ‘If nothing prevents me, I shall <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> bring it.’ (Then he might act as stated in § 1, which would be sinful.) (2)
 
 For the avoidance of these occasions to sin there are seven rules for begging food and as many for begging drink, to be known by the mendicants.
 
@@ -357,7 +357,7 @@ Now follows the second rule for begging food. The hand and the vessel are wet. T
 
 Now follows the third rule for begging food. In the east, &c., there are several faithful householders, &c., (all down to) servants: they have put (food) in some of their various vessels, as a pan, a pot, a winnowing basket, a basket, a precious vessel. Now (the mendicant) should again know: is the hand not wet and the vessel wet; or the hand wet and the vessel not wet? If he collect alms with an alms-bowl or with his hand [^375], he should say, after consideration: ‘O long-lived one! (or, O sister!) with your not-wet hand, or with your wet vessel, put (alms) in this my bowl, or hand, and give it me!’ Such-like food, for which he himself begs or which the other gives him, he may accept; for it is pure and acceptable. That is the third rule for begging food. (5)
 
-Now follows the fourth rule for begging food. A <span id="p118">[<sup><small>p. 118</small></sup>]</span> monk or a nun may accept flattened grains, &c. (cf. II, 1, 1, § 5), for which they beg themselves or which the other gives them, if it be such as to require little cleaning or taking out (of chaff); for it is pure, &c. That is the fourth rule for begging food. (6)
+Now follows the fourth rule for begging food. A <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> monk or a nun may accept flattened grains, &c. (cf. II, 1, 1, § 5), for which they beg themselves or which the other gives them, if it be such as to require little cleaning or taking out (of chaff); for it is pure, &c. That is the fourth rule for begging food. (6)
 
 Now follows the fifth rule for begging food. A monk or a nun may accept food which is offered on a plate or a copper cup or any vessel, if the moisture on the hands of the giver is almost dried up; for, &c. That is the fifth rule for begging food. (7)
 
@@ -367,7 +367,7 @@ Now follows the seventh rule for begging food. A monk or a nun may accept food o
 
 These are the seven rules for begging food; now follow the seven rules for begging drink. They are, however, the same as those about food, only the fourth gives this precept: A monk or a nun may accept as drink water which has been used for watering flour or sesamum, &c. (II, 1, 7, § 7), if it be such as to require little cleaning and taking out (of impure) articles; for, &c. (10)
 
-One who has adopted one of these seven rules for begging food or drink should not say: ‘These reverend persons have chosen a wrong rule, I alone <span id="p119">[<sup><small>p. 119</small></sup>]</span> have rightly chosen.’ (But he should say): ‘These reverend persons, who follow these rules, and I who follow that rule, we all exert ourselves according to the commandment of the <i>G</i>ina, and we respect each other accordingly.’
+One who has adopted one of these seven rules for begging food or drink should not say: ‘These reverend persons have chosen a wrong rule, I alone <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> have rightly chosen.’ (But he should say): ‘These reverend persons, who follow these rules, and I who follow that rule, we all exert ourselves according to the commandment of the <i>G</i>ina, and we respect each other accordingly.’
 
 This certainly is the whole duty, &c.
 

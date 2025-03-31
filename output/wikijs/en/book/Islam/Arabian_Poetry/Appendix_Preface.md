@@ -32,15 +32,15 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
-<span id="p343">[<sup><small>p. 343</small></sup>]</span>
+<span id="p343"><sup><small>[ p. 343 ]</small></sup></span>
 
-<span id="p344">[<sup><small>p. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 _When the Arabians became the only learned people, and their empire extended over the greater part of the known world, they impressed their own genius on those nations with whom they were allied as friends, or reverenced as masters_.—Isaac D’Israeli: Curiosities of Literature.
 
-<span id="p345">[<sup><small>p. 345</small></sup>]</span>
+<span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 <figure id="Figure_34500" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/34500.jpg">

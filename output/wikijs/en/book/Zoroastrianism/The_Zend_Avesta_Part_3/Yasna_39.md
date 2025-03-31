@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## YASNA XXXIX. TO THE SOUL OF THE KINE, &c.
 
-1\. And now we sacrifice to the Kine's soul, and to her created body, and we sacrifice to the souls <span id="p288">[<sup><small>p. 288</small></sup>]</span> of cattle who are fit to live [^1198] (for us), and whose (we?) are, such as are the same to them.
+1\. And now we sacrifice to the Kine's soul, and to her created body, and we sacrifice to the souls <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> of cattle who are fit to live [^1198] (for us), and whose (we?) are, such as are the same to them.
 
 2\. And we worship the souls of those beasts which are tame and broken in, and of wild herds, and the souls of the saints wherever they were born, both of men and of women, whose good consciences are conquering in the strife against the Daêvas, or will conquer, or have conquered.
 

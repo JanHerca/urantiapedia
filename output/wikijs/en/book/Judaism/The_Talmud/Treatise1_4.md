@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 1\. The morning prayer may be said till noon. R. Judah says “until the fourth hour.” The afternoon prayer until the evening. R. Judah says “until half the afternoon.” The evening prayer has no limit, and the additional prayers may be said all day. R. Judah says “until the seventh hour.”
 

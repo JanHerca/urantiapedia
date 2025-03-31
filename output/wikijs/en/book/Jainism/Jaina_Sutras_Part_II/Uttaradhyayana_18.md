@@ -36,7 +36,7 @@ EIGHTEENTH LECTURE. SA_Ñ_<i>G</i>AYA [^210].
 
 In the town of Kâmpilya there was a king, named Sa<i>ñ</i><i>g</i>aya, who possessed numerous troops and war-chariots; once he went a-hunting. (1)
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 He was surrounded on all sides by a large host of horses, elephants, chariots, and footmen. (2)
 
@@ -58,7 +58,7 @@ But the venerable monk, being plunged in silent meditation, made no reply to the
 
 ‘Be without fear, O king; but grant safety to others also; in this transient world of living beings, why are you addicted to cruelty? (11)
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ‘As you must, of necessity, one day part with everything, in this transient world of living beings, why do you cling to kingly power? (12)
 
@@ -78,7 +78,7 @@ Sa<i>ñ</i><i>g</i>aya gave up his kingly power and adopted the faith of the <i>
 
 A Kshattriya, who had abandoned his kingdom and had turned monk, said to him: 'As you look so happy in outward appearance, you must have peace of mind. (20)
 
-‘What is your name, to which Gôtra do you belong, and why have you become an ascetic [^213]? <span id="p83">[<sup><small>p. 83</small></sup>]</span> How do you venerate the enlightened ones [^214], and how did you come to be called a well-behaved (monk)? (21)
+‘What is your name, to which Gôtra do you belong, and why have you become an ascetic [^213]? <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> How do you venerate the enlightened ones [^214], and how did you come to be called a well-behaved (monk)? (21)
 
 “My name is Sa<i>ñ</i><i>g</i>aya; I belong to the Gôtra of Gôtama; my teacher is Gardabhâli, who is conversant with the sacred lore and good conduct. (22)
 
@@ -90,7 +90,7 @@ A Kshattriya, who had abandoned his kingdom and had turned monk, said to him: 'A
 
 “All this delusive talk (of the heretics) is untrue and without any meaning; I live and walk about according to the rules of self-control. (26)
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 “I know all these heresies to be contemptible; I know that there will be a life hereafter, and I know my Self. (27)
 
@@ -104,7 +104,7 @@ A Kshattriya, who had abandoned his kingdom and had turned monk, said to him: 'A
 
 “And what you of a pure mind asked me just now, that has been revealed by the enlightened one [^218]; such knowledge makes part of the creed of the <i>G</i>inas. (32)
 
-“A wise man believes in the existence of the soul [^219], <span id="p85">[<sup><small>p. 85</small></sup>]</span> he avoids the heresy of the non-existence of the soul; possessing true faith one should practise the very difficult Law according to the faith. (33)
+“A wise man believes in the existence of the soul [^219], <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> he avoids the heresy of the non-existence of the soul; possessing true faith one should practise the very difficult Law according to the faith. (33)
 
 “Having learned this pure creed, which is adorned by truth and righteousness, Bharata [^220] gave up Bharatavarsha and all pleasures, and entered the order. (34)
 
@@ -114,7 +114,7 @@ A Kshattriya, who had abandoned his kingdom and had turned monk, said to him: 'A
 
 “King Sanatkumâra [^223], a universal monarch of great power, placed his son on the throne, and then practised austerities. (37)
 
-“<i>S</i>ânti [^224], a universal monarch of great power, the <span id="p86">[<sup><small>p. 86</small></sup>]</span> bringer of peace to the world, gave up Bharatavarsha and reached perfection. (38)
+“<i>S</i>ânti [^224], a universal monarch of great power, the <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> bringer of peace to the world, gave up Bharatavarsha and reached perfection. (38)
 
 “King Kunthu, the bull of the Aikshvâka race, the widely famed lord, reached perfection. (39)
 
@@ -124,7 +124,7 @@ A Kshattriya, who had abandoned his kingdom and had turned monk, said to him: 'A
 
 “Having brought the (whole) earth under his sceptre, king Harishê<i>n</i>a [^226], who humbled the pride (of other kings), reached perfection. (42)
 
-“<i>G</i>aya [^227], together with thousands of kings, renouncing the world, practised self-restraint. He <span id="p87">[<sup><small>p. 87</small></sup>]</span> reached perfection which has been taught by the <i>G</i>inas. (43)
+“<i>G</i>aya [^227], together with thousands of kings, renouncing the world, practised self-restraint. He <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> reached perfection which has been taught by the <i>G</i>inas. (43)
 
 “Da<i>s</i>âr<i>n</i>abhadra [^228], giving up his flourishing kingdom of Dasâr<i>n</i>a, turned monk; he renounced the world, being directed to do so by <i>S</i>akra himself. (44)
 
@@ -140,7 +140,7 @@ A Kshattriya, who had abandoned his kingdom and had turned monk, said to him: 'A
 
 “And thus king Vi<i>g</i>aya [^232], whose sins were not quite annihilated [^233], turned monk after he, the famous man, had quitted his excellent kingdom. (50)
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 “And thus the royal seer Mahâbala [^234] practised severe penance with an undistracted mind, and took upon himself the glory (of self-control). (51)
 

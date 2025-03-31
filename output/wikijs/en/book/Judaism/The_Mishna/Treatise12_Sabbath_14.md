@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 3. It is unlawful to eat Greek hyssop on the Sabbath, because it is not food \[fit\] for healthy \[people\]; but man may eat wild-rosemary, and drink ‏אבוב רועה‎; [^146] man may eat of any \[kind of\] food as medicine, and drink any kind of beverage, except water of ‏דקלים‎, [^147] and ‏כוס עקרים‎, [^148] as these are \[only remedies\] for the jaundice; but a man may drink the _water of Dekalim_ for thirst, and may anoint himself with the oil of _Ikkarim_, but not as a remedy.
 
-§ 4. He who has the toothache must not rinse his teeth with vinegar, but he may wash them as usual \[dip something in vinegar and rub them\], and if he does get cured, he does get cured. He who has pains in his loins, must not rub them with wine or vinegar; he may \[however\] anoint them with \[any kind of\] oil, except rose <span id="p58">[<sup><small>p. 58</small></sup>]</span> oil. Princes may anoint \[dress\] their wounds with rose oil, as they are in the habit of so anointing \[themselves\] on week-days. R. Simeon saith, “All Israelites are \[to be considered as\] princes \[in this respect\].”
+§ 4. He who has the toothache must not rinse his teeth with vinegar, but he may wash them as usual \[dip something in vinegar and rub them\], and if he does get cured, he does get cured. He who has pains in his loins, must not rub them with wine or vinegar; he may \[however\] anoint them with \[any kind of\] oil, except rose <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> oil. Princes may anoint \[dress\] their wounds with rose oil, as they are in the habit of so anointing \[themselves\] on week-days. R. Simeon saith, “All Israelites are \[to be considered as\] princes \[in this respect\].”
 
 
 

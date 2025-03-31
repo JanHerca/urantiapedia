@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 IN THE NAME OF GOD, THE ALL-MERCIFUL, THE VERY-COMPASSIONATE.
 
@@ -56,7 +56,7 @@ Men's eyes and ears catch not their train.
 Though soul and body be as one,
 Sight of his soul hath no man won.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 A flame's the flute's wail; not a breath,
 That flame who feels not, doom him death.
@@ -93,7 +93,7 @@ Old Galen's skill was nought to thee
 Through love, this earthly frame ascends
 <sup id="v25"><small>25</small></sup>  To heaven; a hill, to skip pretends.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 In trance of love, Mount Sinai shakes,
 At God's descent; 'and Moses quakes.'[^56]

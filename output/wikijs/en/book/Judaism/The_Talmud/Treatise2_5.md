@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-1\. The Sabbatical year of white figs [^56] is the second after the Sabbatical year, because they produce in three years. Rabbi Judah said, “the Sabbatical year of the Persian figs is <span id="p71">[<sup><small>p. 71</small></sup>]</span> the close of the Sabbatical year, because they produce in two years.” The Sages replied to him, “they only said white figs.”
+1\. The Sabbatical year of white figs [^56] is the second after the Sabbatical year, because they produce in three years. Rabbi Judah said, “the Sabbatical year of the Persian figs is <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> the close of the Sabbatical year, because they produce in two years.” The Sages replied to him, “they only said white figs.”
 
 2\. “If one store eschalots in the Sabbatical year?” R. Maier said, “there must be not less than two seahs, [^57] in height three handbreadths, and over them an handbreadth of dust.” But the Sages say, “not less than four cabs, in height an handbreadth, and an handbreadth of dust over them, and they must be stored in a place where men tread.” [^58]
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 6\. These are the implements which the farmer is not permitted to sell in the Sabbatical year—the plough with all its implements, the yoke, the shovel, and the goad. But he may sell the hand-sickle, and the harvest-sickle, and the waggon, with all its implements. This is the rule: “all implements, the use of which may be misapplied for transgression, are forbidden; but if they be (partly for things) forbidden and (partly for things) allowed, they are permitted.”
 
-7\. The potter may sell five oil-jugs, and fifteen wine- <span id="p72">[<sup><small>p. 72</small></sup>]</span> jugs, because it is usual to collect fruits from the free property. And if one bring more than these, it is allowed, and he may sell them to idolaters in the land, and to Israelites out of the land.
+7\. The potter may sell five oil-jugs, and fifteen wine- <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> jugs, because it is usual to collect fruits from the free property. And if one bring more than these, it is allowed, and he may sell them to idolaters in the land, and to Israelites out of the land.
 
 8\. The school of Shammai say, “a man must not sell a ploughing heifer on the Sabbatical year;” but the school of Hillel allow it, “because the buyer may slaughter her.” He may sell fruits in the time of sowing, and may lend another man his measure, even if he know that the other man have a threshing-floor, and he may change money for him, even if he know that he have labourers. But if it be openly declared, all is forbidden.
 

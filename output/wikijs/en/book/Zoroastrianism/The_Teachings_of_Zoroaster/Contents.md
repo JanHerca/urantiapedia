@@ -32,9 +32,9 @@ dateCreated: 2025-2-12T12:15:21Z
 
 
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 &nbsp; | PAGE
 --- | ---:
@@ -49,7 +49,7 @@ Definition of Ahura-Mazda (God) | [22](Introduction#p22)
 Meaning of the Word Daêva in the Avesta Language | [24](Introduction#p24)
 Creation | [25](Introduction#p25)
 Zoroastrian Speculative Philosophy—Spenta Mainyus (Creative Spirit) and Angro Mainyus (Destructive Spirit)—Their Incessant Conflict in the State of Nature | [26](Introduction#p26)
-Doctrine of Dualism refuted | [27](Introduction#p27) <span id="p8">[<sup><small>p. 8</small></sup>]</span>
+Doctrine of Dualism refuted | [27](Introduction#p27) <span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 Evils employed by Angro Mainyus | [28](Introduction#p28)
 Invocation of Spenta Mainyus—Of the Life on the Earth—The Creation of Sixteen Regions | [29](Introduction#p29)
 Yima (Jamshid), the Ruler of Airyana-Vaêjâ—God's Warning to Yima of the Disaster to his Kingdom (Noah and his Ark) | [30](Introduction#p30)
@@ -65,7 +65,7 @@ An Avesta Incident of Mercy and Charity towards the Fallen | [39](Introduction#p
 God and His Hierarchy of Archangels (Ameshaspends) | [41](Introduction#p41)
 Kindness to Dumb Animals—Complaint of Geush-Urvan (the Over-Lord of the Herd of Cattle) to God—A Parable | [41](Introduction#p41)–[42](Introduction#p42)
 A Prayer of Repentance for Ill-Treatment or Unkindness to Domestic Animals | [43](Introduction#p43)
-Prohibition of Fasting from Food | [44](Introduction#p44) <span id="p9">[<sup><small>p. 9</small></sup>]</span>
+Prohibition of Fasting from Food | [44](Introduction#p44) <span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 Of the Life Hereafter | &nbsp;
 The Body and the Soul | [45](Introduction#p45)
 Severance of their Tie of Friendship—The Glorious Sunset of Life—The Soul's Departure—Its Arrival at “Chinvat Bridge”—The Recorder “Mehr Davar” at the Gate of Heaven | [46](Introduction#p46)
@@ -85,7 +85,7 @@ The Soul's Destination | [61](Extracts#p61)
 The Soul's Rendering of Account | [64](Extracts#p64)
 Gatha Hymn | [66](Extracts#p66)
 Confession of Faith | [69](Extracts#p69)
-The Creed | [69](Extracts#p69) <span id="p10">[<sup><small>p. 10</small></sup>]</span>
+The Creed | [69](Extracts#p69) <span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 Prayer of Kem Nâ Mazda | [70](Extracts#p70)
 Prayer of Ke Verethrem Gâ | [70](Extracts#p70)
 Prayer of Ormuzd Yast (in Praise of God) | [70](Extracts#p70)

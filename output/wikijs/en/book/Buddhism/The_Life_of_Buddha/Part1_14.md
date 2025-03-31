@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 
 GOPA had awakened in the deep of night. A strange uneasiness possessed her. She called to her beloved, Prince Siddhartha, but there was no answer. She rose. She ran through the halls of the palace; he was nowhere to be found. She became frightened. Her maidens were asleep. A cry escaped her lips:
@@ -43,7 +43,7 @@ The maidens awoke. They searched every room. There was no longer any doubt: the 
 
 “He once told me that he would go away, far away, he, the king of men! But I never thought the cruel parting would come so soon. Oh, where are you, my well-beloved? Where are you? I can not forget you, I, who am forlorn, so forlorn! Where are you? Where are you? You are so beautiful! Your beauty is unrivalled among men. Your eyes sparkle. You are good, and you are beloved, my well-beloved! Were you not happy? Oh, my dear, my beloved, where have you gone?”
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 Her companions tried in vain to console her.
 
@@ -63,7 +63,7 @@ He was obeyed, but the prince was nowhere to be found. The king broke down.
 
 “That horsemen be dispatched in all directions, and that they bring me back my son!”
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 In the meanwhile, Chandaka and the horse Kanthaka were slowly returning from the hermitage. As they approached the city, they both hung their heads in dejection. Some horsemen espied them.
 
@@ -83,7 +83,7 @@ Chandaka followed the horsemen to the palace. The king summoned him at once.
 
 The equerry told him what the prince had done. The king grieved, yet he could not help admiring his son's greatness.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Gopa and Mahaprajapati entered; they had heard of Chandaka's return. They questioned him, and they learned of Siddhartha's high resolve.
 

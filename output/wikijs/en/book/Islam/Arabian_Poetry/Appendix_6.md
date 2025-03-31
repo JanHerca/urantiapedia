@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 BESIDES Professor E. H. Palmer's elegant translation of Antara's Mo‘allaqah, included in a small volume entitled “The Song of the Reed, and Other Pieces,” published by Messrs. Trübner and Co., of London, the only attempts that have been made to render passages of the “Seven Arabian Poems” into English verse are—the first sixteen verses of Lebīd by Carlyle, and a few of the more striking passages of the other Poems by the anonymous writer of an article on the Mo‘allaqāt in vol. v. of the Retrospective Review, 1822. Carlyle's “learned translation” of Lebīd's opening couplets, as Burton terms it half-scornfully in his “Pilgrimage to El-Medina and Meccah,” forms the first of his “Specimens of Arabian Poetry,” but was omitted in the reprint of his translations in the present volume, in order that it might be more appropriately placed, with the other versified passages of the Mo‘allaqāt, among the following Notes.
 

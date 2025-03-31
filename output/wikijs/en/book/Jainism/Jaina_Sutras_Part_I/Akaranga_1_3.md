@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 THIRD LECTURE, CALLED HOT AND COLD.
 
@@ -43,7 +43,7 @@ The unwise sleep, the sages always wake. Know, that in this world the (cause of)
 But a man always benighted, subject to old age and death, does not know the law. Seeing living beings suffering, earnestly enter a religious life [^155]. Considering this, O prudent one, look!
 
 Knowing the misery that results from action,
-The deluded and careless one returns to life; <span id="p29">[<sup><small>p. 29</small></sup>]</span> Disregarding sounds and colours, upright,
+The deluded and careless one returns to life; <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> Disregarding sounds and colours, upright,
 Avoiding Mâra one is liberated from death [1](Akaranga_1_3#fn156).
 
 Carefully abstaining from pleasures and ceasing from bad works he is a hero, guarding himself, who is grounded in knowledge [2](Akaranga_1_3#fn157). (3) He who knows the violence done for the sake of special objects, knows what is free from violence [3](Akaranga_1_3#fn158); he who knows what is free from violence, knows the violence done for special objects. For him who is without karman, there is no appellation [4](Akaranga_1_3#fn159). The condition of living beings arises from karman.
@@ -58,7 +58,7 @@ Examining karman and the root of karman, viz. killing [5](Akaranga_1_3#fn160), e
 Look, Sir, at birth and old age here,
 Examine and know the happiness of the living,
 Thence the most learned, knowing (what is called) the highest good,
-He who has right intuition, commits no sin. (1) <span id="p30">[<sup><small>p. 30</small></sup>]</span> Undo the bond with mortals here;
+He who has right intuition, commits no sin. (1) <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> Undo the bond with mortals here;
 He who lives by sins, is subject to both [^164],
 Desirous of pleasures they heap up karman,
 Influenced by it they are born again. (2)
@@ -71,7 +71,7 @@ Cutting them off, he knows himself free from karman. (4)
 
 That man will be liberated from death; he is a sage who sees the danger [^166], knowing the highest good in this world, leading a circumspect life, calm, guarded, endowed (with knowledge, &c.), always restrained, longing for death, he should lead a religious life. Manifold, indeed, appear sinful actions; therefore prove constant to truth! Delighting in it [^167], a wise man destroys all karman. (1)
 
-Many, indeed, are the plans of this man (of the world); he will satisfy his desires; he (thereby causes) the slaughter of others, the pain of others, the punishment of others, the slaughter, the blame, <span id="p31">[<sup><small>p. 31</small></sup>]</span> the punishment of a whole province. Doing such things, some have exerted themselves [^168]. (2)
+Many, indeed, are the plans of this man (of the world); he will satisfy his desires; he (thereby causes) the slaughter of others, the pain of others, the punishment of others, the slaughter, the blame, <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> the punishment of a whole province. Doing such things, some have exerted themselves [^168]. (2)
 
 Therefore the second (i.e. the wrong creed) is not adhered to. The knowing one seeing the vanity (of the world) \[^169]\], the Brahman follows the unrivalled (control of the <i>G</i>ainas). He should not kill, nor cause others to kill, nor consent to the killing of others. ‘Avoid gaiety, not delighting in creatures (i.e. women), having the highest intuition,’ keeping off from sinful acts. (3)
 
@@ -90,7 +90,7 @@ He should not take the life of living beings.
 
 ## THIRD LESSON.
 
-‘Knowing the connection of the world, (carelessness is not for his benefit [^171]).’ ‘Look at the exterior <span id="p32">[<sup><small>p. 32</small></sup>]</span> (world from analogy with thy own) self; \[then\] thou wilt neither kill nor destroy (living beings);’ viz. out of reciprocal regard \[well examining\] he does no sinful act. What is the characteristic of a sage? ‘Recognising the equality (of all living beings), he appeases himself.’ (1)
+‘Knowing the connection of the world, (carelessness is not for his benefit [^171]).’ ‘Look at the exterior <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> (world from analogy with thy own) self; \[then\] thou wilt neither kill nor destroy (living beings);’ viz. out of reciprocal regard \[well examining\] he does no sinful act. What is the characteristic of a sage? ‘Recognising the equality (of all living beings), he appeases himself.’ (1)
 
 Knowing the highest good, one should never be careless;
 Guarding one's self, always prudent, one should pass life on the right road.
@@ -102,7 +102,7 @@ Some do not remember what preceded the present: ‘what has been his past? what 
 There is no past thing, nor is there a future one;
 So opine the Tathâgatas.
 
-He whose karman has ceased and conduct is right, <span id="p33">[<sup><small>p. 33</small></sup>]</span> who recognises the truth (stated above) and destroys sinfulness (thinks):
+He whose karman has ceased and conduct is right, <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> who recognises the truth (stated above) and destroys sinfulness (thinks):
 
 What is discontent and what is pleasure? not subject to either, one should live;
 
@@ -117,7 +117,7 @@ Man! Thou art thy own friend; why wishest thou for a friend beyond thyself? Whom
 
 ## FOURTH LESSON.
 
-That man (i.e. the liberated) conquers wrath, pride, deceit, and greed. This is the doctrine of the Seer who does not injure living beings and has put an end (to acts and to sa<i>m</i>sâra). Preventing <span id="p34">[<sup><small>p. 34</small></sup>]</span> propensity to sin destroys former actions. He who knows one thing, knows all things; and he who knows all things, knows one thing [^180]. He who is careless in all respects, is in danger [^181]; he who is not careless in all respects, is free from danger. (1)
+That man (i.e. the liberated) conquers wrath, pride, deceit, and greed. This is the doctrine of the Seer who does not injure living beings and has put an end (to acts and to sa<i>m</i>sâra). Preventing <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> propensity to sin destroys former actions. He who knows one thing, knows all things; and he who knows all things, knows one thing [^180]. He who is careless in all respects, is in danger [^181]; he who is not careless in all respects, is free from danger. (1)
 
 He who conquers one (passion), conquers many; and he who conquers many, conquers one. ‘Knowing the misery of the world’ rejecting the connection with the world, ‘the heroes go on the great journey,’ they rise gradually; ‘they do not desire life.’ (2)
 
@@ -127,7 +127,7 @@ He who knows [^182] wrath, knows pride; he who knows pride, knows deceit; he who
 
 Therefore, a wise man should avoid wrath, pride, deceit, greed, love, hate, delusion, conception, birth, death, hell, animal existence, and pain.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 This is the doctrine of the Seer, who does not injure living beings and has put an end (to acts and to sa<i>m</i>sâra). Preventing the propensity to sin destroys former actions. Is there any worldly weakness in the Seer? There exists none, there is none. Thus I say. (4)
 

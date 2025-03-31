@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 1\. These good thoughts, good words, and good deeds [^936], these Haomas, meat-offerings, and Zaothras, this Baresman spread with sanctity, this flesh, and the two, Haurvatâ<i>t</i> (who guards the water) and Ameretatâ<i>t</i> (who guards the plants and wood), even the flesh, the Haoma and Haoma-juice, the wood-billets, and their perfume, this sacred lordship [^937] and chieftainship [^937], and the timely prayer with blessing, and the heard recital of the Gâthas, and the well-said Mãthras, these all we offer, and make known with celebrations (here).
 
-2\. Yea, these do we announce with celebrations, and we present them to Ahura Mazda, and to Sraosha <span id="p214">[<sup><small>p. 214</small></sup>]</span> (Obedience) the blessed, and to the Bountiful Immortals, and to the Fravashis of the saints, and to their souls, and to the Fire of Ahura Mazda, the lofty lord of the entire creation of the holy, for sacrifice, homage, propitiation, and praise.
+2\. Yea, these do we announce with celebrations, and we present them to Ahura Mazda, and to Sraosha <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> (Obedience) the blessed, and to the Bountiful Immortals, and to the Fravashis of the saints, and to their souls, and to the Fire of Ahura Mazda, the lofty lord of the entire creation of the holy, for sacrifice, homage, propitiation, and praise.
 
 3\. Yea, further, we present (them to the Bountiful Immortals with an especial gift) these thoughts well thought, these words well spoken, these deeds well done, these Haomas, Myazdas, Zaothras, and this Baresman spread with sanctity, the flesh, and Haurvatâ<i>t</i> (who guards the water), and Ameretatâ<i>t</i> (who guards the plants and wood), even the flesh, Haoma and Parahaoma, the wood-billets, the perfume, and this their lordship and their sanctity, and this chieftainship, this prayer for blessing, the heard recital of the Gâthas, and the well-said Mãthras.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 5\. And we announce them in our celebrations as more propitious for this house [^940], and for the furtherance of this house, of its herds, and of its men, of those now born, and of those yet to be born, the holy, yea, for the furtherance of that house of which these (men) are thus.
 
-6\. And we present these offerings to the good <span id="p215">[<sup><small>p. 215</small></sup>]</span> Fravashis of the saints who are mighty and overwhelming for the succour of the saints.
+6\. And we present these offerings to the good <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> Fravashis of the saints who are mighty and overwhelming for the succour of the saints.
 
 7\. Yea, we present these hereby to the Creator Ahura Mazda, the radiant, the glorious, and the heavenly spirit, for the sacrifice, homage, propitiation, and praise of the Bountiful Immortals (all).
 
@@ -56,7 +56,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 11\. And to Aiwisrûthrima, the life-furtherer [^942], and to Frâda<i>t</i>\-vîspãm-hu<i>g</i>yâiti and Zarathu<i>s</i>trôtema, the holy lords of the ritual order, and to the Fravashis of the saints, and to the women who bring forth many sons, and to the Prosperous home-life which endures without reverse throughout the year, and to Force, well-shaped and stately, and to the Blow of victory which Mazda gives, and to the Victorious Ascendency which it secures, for their sacrifice, homage, their propitiation, and their praise,
 
-12\. And to Ushahina, with Bere<i>g</i>ya and Nmânya, and Sraosha (Obedience) the blessed, smiting with the blow of victory and furthering the settlements, and to Rashnu, the most just, and to Ar<i>s</i>tâ<i>t</i>, furthering the settlements, and causing them to increase. <span id="p216">[<sup><small>p. 216</small></sup>]</span> 13\. And these we announce and we present hereby to the Month-lords of the ritual order, to the new moon and the waning moon (the moon within), and to the full moon which scatters night, the holy lord of the ritual order, for (their) sacrifice, homage, their propitiation, and their praise.
+12\. And to Ushahina, with Bere<i>g</i>ya and Nmânya, and Sraosha (Obedience) the blessed, smiting with the blow of victory and furthering the settlements, and to Rashnu, the most just, and to Ar<i>s</i>tâ<i>t</i>, furthering the settlements, and causing them to increase. <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> 13\. And these we announce and we present hereby to the Month-lords of the ritual order, to the new moon and the waning moon (the moon within), and to the full moon which scatters night, the holy lord of the ritual order, for (their) sacrifice, homage, their propitiation, and their praise.
 
 14\. And these we announce hereby and we present to the Yearly festivals, to Maidhyô-zaremaya, Maidhyô-shema, Pati<i>s</i>hahya, and to Ayâthrima, to Maidhyâirya, Hamaspathmaêdhaya, and to the Seasons as holy lords of the ritual order, for sacrifice, homage, propitiation, and for praise.
 
@@ -64,7 +64,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 16\. And these we announce and we present to Ahura and to Mithra, the lofty, and imperishable, and holy two, to the stars, the creatures of Spe<i>n</i>ta Mainyu, and to the star Ti<i>s</i>trya, the radiant, the glorious, and to the Moon which contains the seed of cattle, and to the resplendent Sun, of the swift horses, Ahura Mazda's eye, and to Mithra, the lord of provinces, for their sacrifice, homage, their propitiation and their praise; yea, these we present hereby to Ahura Mazda (as he rules this day) and to the Fravashis of the saints (as they rule this month), for their sacrifice, homage, their propitiation and their praise.
 
-17\. And these we announce hereby to thee, the Fire, O Ahura Mazda's son! with all the fires for <span id="p217">[<sup><small>p. 217</small></sup>]</span> thy sacrifice, homage, propitiation, and praise, and to the good waters for the sacrifice, homage, propitiation, and praise of all the waters Mazda-made, and to all the plants which Mazda made,
+17\. And these we announce hereby to thee, the Fire, O Ahura Mazda's son! with all the fires for <span id="p217"><sup><small>[ p. 217 ]</small></sup></span> thy sacrifice, homage, propitiation, and praise, and to the good waters for the sacrifice, homage, propitiation, and praise of all the waters Mazda-made, and to all the plants which Mazda made,
 
 18\. And to the Mãthra Spe<i>n</i>ta, the holy, the effective, the law against the Daêvas, the Zarathu<i>s</i>trian statute, and to the long descent of the good Mazdayasnian religion.
 
@@ -74,7 +74,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 21\. And to these places, pastures, and dwellings with their springs of water, their rivers, to the lands and to the plants, to this earth and yon heaven, to the holy wind, to the stars, moon, and sun, to the stars without beginning, self-disposed, and to all the holy creatures of the Spe<i>n</i>ta Mainyu, male and female (the rulers as they are of the ritual order).
 
-22\. And these we announce and we present hereby to that lofty lord who is Asha, the ritual righteousness itself, to the Day-lords, and the Month-lords, the Year-lords, and the Seasons who are the lords of the ritual at the time of Hâvani, and for <span id="p218">[<sup><small>p. 218</small></sup>]</span> their sacrifice, homage, their propitiation and their praise.
+22\. And these we announce and we present hereby to that lofty lord who is Asha, the ritual righteousness itself, to the Day-lords, and the Month-lords, the Year-lords, and the Seasons who are the lords of the ritual at the time of Hâvani, and for <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> their sacrifice, homage, their propitiation and their praise.
 
 23\. Yea, these we announce and we present to Sraosha, the blessed and mighty, whose body is the Mãthra, him of the daring spear, the lordly one, and to the holy Fravashi of Zarathu<i>s</i>tra Spitâma, the saint.
 

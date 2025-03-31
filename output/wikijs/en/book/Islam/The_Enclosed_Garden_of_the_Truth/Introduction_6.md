@@ -57,7 +57,7 @@ He asks Sanâ'î not to bring forward the saying, “_Laziness is sweeter than h
 
 Sanâ'î tells us that he submitted himself to the advice of his friend, but brought forward the difficulties of house and food, since the work could not be performed friendless and homeless. Ahmad b. Mas'ûd thereupon built him a house, gave him an allowance for his maintenance for one year, and sent also a supply of clothing. He was therefore enabled to complete and arrange his writing's free from all care and anxiety. The preface ends with the praise of his generous friend.
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

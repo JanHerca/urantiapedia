@@ -107,7 +107,7 @@ And watch the bed where Báli lies.
 There breathing still with slow faint sighs
 Lay Báli on the ground: his eyes,
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Damp with the tears of death, he raised,
 On conquering Sugríva gazed,
@@ -220,7 +220,7 @@ The brunt of deadly fight of yore
 With Golabh the Gandharva, when,
 Lasting through five long years and ten,
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 The dreadful conflict knew no stay
 In gloom of night, in glare of day;
@@ -346,7 +346,7 @@ From whom our bliss and honour spring.
 Obedient to his mother's hest
 His father's feet he gently pressed
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 With twining arms and lingering hands:
 ‘Father’, he cried, there Angad stands.’
@@ -459,7 +459,7 @@ With whelming force upon my soul:
 So gathers the descending rain
 In the deep hollow of the plain.
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 
 
@@ -579,7 +579,7 @@ Used when the proudest monarchs die:
 As for a king of widest sway.
 Perform his obsequies to-day,’
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 Sugríva gave his high behest;
 Then Princely Tára and the rest,
@@ -700,7 +700,7 @@ And trained a righteous course to hold
 Gifts like his sire's thait youth adorn
 Born eldest to the eldest born.
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 This is the month of Srávana [^613]first
 Of those that see the rain-clouds burst.
@@ -795,7 +795,7 @@ The loud huzza and jovful shout.
 ‘Well done! well done!’ each Vánar cried.
 And good Sugríva glorified.
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 Then with glad voices loudly raised
 Were Ráma and his brother praised;
@@ -919,7 +919,7 @@ Dearer to Ráma than his life.
 Chief when he saw the Lord of Night
 Rise slowly o'er the eastern height,
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 He tossed upon his leafy bed
 With eyes by sleep unvisited.
@@ -1023,7 +1023,7 @@ Each torrent from the summit poured
 Supplies the place of sacred cord.  [^621]
 And winds that in their caverns moan.
 
-<span id="p359">[<sup><small>p. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 Sound like the voice's undertone.  [^622]
 From east to west red lightnings flash,
@@ -1107,7 +1107,7 @@ And every lofty hope fulfilled.
 With royal Rumá by his side,
 Or Tará yet a dearer bride,
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 He spent each joyous day and night
 In revelry and wild delight,
@@ -1226,7 +1226,7 @@ From his fond arms for ever torn.
 He mourned occasion slipping by,
 And faint with anguish heaved each sigh
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 He sat where many a varied streak
 Of rich ore marked the mountain peak.
@@ -1342,7 +1342,7 @@ But pleasure's sway now sinks them low
 With thee, my brother, for ally
 That strength and valour I defy
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 He promised, when the rains should end,
 The succour of his arm to lend.

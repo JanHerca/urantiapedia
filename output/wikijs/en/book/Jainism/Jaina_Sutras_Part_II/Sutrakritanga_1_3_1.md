@@ -42,7 +42,7 @@ They go forward to the head of the battle; but when the fight has begun the moth
 
 So a novice, who as yet has not suffered pains and is not yet used to a mendicant's life, believes himself a hero till he practises austerities [^768]. (3)
 
-<span id="p262">[<sup><small>p. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 When during the winter they suffer from cold and draughts, the weak become disheartened like Kshattriyas who have lost their kingdom. (4)
 
@@ -64,7 +64,7 @@ When bitten by flies and gnats, and unable (to bear) the pricking of grass, (the
 
 Some weak men who suffer from the plucking out of the hair, and who are unable to preserve their chastity, will become disheartened like fish transfixed by a spear [^771]. (13)
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Some low people who lead a life of iniquity, and entertain heretical opinions, being subject to love and hatred, injure a monk. (14)
 

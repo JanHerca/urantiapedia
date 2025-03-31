@@ -98,7 +98,7 @@ Sudhanvá, threatening siege and sword,
 And bade me swift on him bestow
 S'iva's incomparable bow,
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 And Sítá of the lotus eyes:
 But I refused each peerless prize.
@@ -211,7 +211,7 @@ The monarch with his children four,
 Showed like the Lord of Life divine
 When the worlds' guardians round him shine.
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 
 
@@ -335,7 +335,7 @@ The hand of S'rutakirti clasp.
 Now, Raghu's sons, may all of you
 Be gentle to your wives and true;
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Keep well the vows you make to-day,
 Nor let occasion slip away.’
@@ -453,7 +453,7 @@ And sweep the loathed race away?
 But when of old his fury raged
 Seas of their blood his wrath assuaged:
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 So doubtless now he has not planned
 To slay all warriors in the land.’
@@ -559,7 +559,7 @@ And slew my noble sire by guile,
 Whose penance awful strength had gained,
 Whose hand the God-given bow retained.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 I heard indignant how he fell
 By mournful fate, too sad to tell.
@@ -684,7 +684,7 @@ Ráma, the mighty bow who raised.
 And Jamadagni's son, o'erawed.
 Extolled his name with highest laud,
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 With reverent steps around him strode,
 Then hastened on his airy road.

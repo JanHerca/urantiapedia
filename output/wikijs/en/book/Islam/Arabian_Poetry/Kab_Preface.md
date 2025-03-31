@@ -32,14 +32,14 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 _Nec omittendum est Caab Ebni Zoheir carmen, cujus hoc est initium admirabile:_
 _“Abiit (amica mea) Soâda, et cor meum hodiè dolore percitum (relinquitur),_
 _“Amore confectum, et vinculis constrictum, à quibus nulla est redemptio.”_
 —Poeseos Asiaticæ commentariorum libri sex; auctore Gulielmo Jones, A.M.     Lipsiæ, 1777.
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 <figure id="Figure_30700" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/30700.jpg">

@@ -46,7 +46,7 @@ The angry terrors of compassionate Heaven Extend through this lower world. (The 
 
 Now they agree, and now they defame one another;—The case is greatly to be deplored. If a counsel be good, They are all found opposing it. If a counsel be bad, They are all found according with it. When I look at such counsels and plans, What will they come to?
 
-Our tortoise-shells are wearied out, And will not tell us anything about the plans. The counsellors are very many, But on that account nothing is accomplished. The speakers fill the court, But <span id="p359">[<sup><small>p. 359</small></sup>]</span> who dares to take any responsibility on himself? We are as if we consulted (about a journey) without taking a step in advance, And therefore did not get on on the road.
+Our tortoise-shells are wearied out, And will not tell us anything about the plans. The counsellors are very many, But on that account nothing is accomplished. The speakers fill the court, But <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> who dares to take any responsibility on himself? We are as if we consulted (about a journey) without taking a step in advance, And therefore did not get on on the road.
 
 <a id="o2"></a>
 
@@ -61,7 +61,7 @@ Men who are grave and wise, Though they drink, are mild and masters of themselve
 The greenbeaks come and go, Picking up grain about the stackyard. Alas for the distressed and the solitary, Deemed fit inmates for the prisons! With a handful of grain I go out and divine [^423], How I may be able to become good.
 
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 <a id="o3"></a>
 
@@ -77,7 +77,7 @@ Even the mulberry trees and the rottleras Must be regarded with reverence [^425]
 
 
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 <a id="o4"></a>
 
@@ -101,7 +101,7 @@ Those slanderers! Who devised their schemes for them? I would take those slander
 
 
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 <a id="o9"></a>
 
@@ -115,7 +115,7 @@ Well loaded with millet were the dishes, And long and curved were the spoons of 
 
 In the states of the east, large and small, The looms are empty. Then shoes of dolichos fibre Are made to serve to walk on the hoar-frost. Slight and elegant gentlemen [^428] Walk along that road to <i>K</i>âu. Their going and coming makes my heart sad.
 
-Ye cold waters, issuing variously from the spring, Do not soak the firewood I have cut. Sorrowful, I awake and sigh;—Alas for us toiled people! The firewood has been cut;—Would that it were <span id="p363">[<sup><small>p. 363</small></sup>]</span> conveyed home! Alas for us the toiled people! Would that we could have rest [^429]!
+Ye cold waters, issuing variously from the spring, Do not soak the firewood I have cut. Sorrowful, I awake and sigh;—Alas for us toiled people! The firewood has been cut;—Would that it were <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> conveyed home! Alas for us the toiled people! Would that we could have rest [^429]!
 
 The sons of the east Are summoned only (to service), without encouragement; While the sons of the west Shine in splendid dresses. The sons of boatmen Have furs of the bear and grisly bear. The sons of the, poorest families Form the officers in public employment.
 
@@ -123,7 +123,7 @@ If we present them with spirits, They regard them as not fit to be called liquor
 
 There is the Milky Way in heaven [^430], Which looks down on us in light; And the three stars together are the Weaving Sisters [^431], Passing in a day through seven stages (of the sky).
 
-Although they go through their seven stages, They complete no bright work for us. Brilliant Shine the Draught Oxen [^432], But they do not serve to draw our carts. In the east there is Lucifer [^433]; In the west there is Hesperus [^433]; Long and curved <span id="p364">[<sup><small>p. 364</small></sup>]</span> is the Rabbit Net of the sky [^434];—But they only occupy their places.
+Although they go through their seven stages, They complete no bright work for us. Brilliant Shine the Draught Oxen [^432], But they do not serve to draw our carts. In the east there is Lucifer [^433]; In the west there is Hesperus [^433]; Long and curved <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> is the Rabbit Net of the sky [^434];—But they only occupy their places.
 
 In the south is the Sieve [^435], But it is of no use to sift. In the north is the Ladle [^436], But it lades out no liquor. In the south is the Sieve, Idly showing its mouth. In the north is the Ladle, Raising its handle in the west.
 

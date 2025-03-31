@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 
 THE Master was in Rajagriha when a rich merchant named Anathapindika arrived from Cravasti. Anathapindika was a religious man, and when he heard that a Buddha was living in the Bamboo Grove, he was eager to see him.
@@ -43,7 +43,7 @@ When he returned home, Anathapindika began to wonder where he could receive the 
 
 “I will sell the park,” Jeta said to him, “if you cover the ground with gold coins.”
 
-Anathapindika accepted the terms. He had chariot-loads of gold coins carried to the park, and <span id="p191">[<sup><small>p. 191</small></sup>]</span> presently only a small strip of ground remained uncovered. Then Jeta joyfully exclaimed:
+Anathapindika accepted the terms. He had chariot-loads of gold coins carried to the park, and <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> presently only a small strip of ground remained uncovered. Then Jeta joyfully exclaimed:
 
 “The park is yours, merchant; I will gladly give you the strip that is still uncovered.”
 
@@ -57,7 +57,7 @@ He allowed a few days to pass; then he took his cloak and his alms-bowl, and fol
 
 Anathapindika decided to go and meet the Master. His wife, his son and his daughter accompanied him, and they were attended by the wealthiest inhabitants of the city. And when they saw the Buddha, they were dazzled by his splendor; he seemed to be walking on a path of molten gold.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 They escorted him to Jeta's park, and Anathapindika said to him:
 
@@ -71,7 +71,7 @@ Anathapindika ordered a servant to bring him a golden bowl full of water. He pou
 
 The Buddha and his disciples established themselves in Jeta's park,
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 Anathapindika was happy; but, one day, a solemn thought occurred to him.
 
@@ -81,7 +81,7 @@ He went to Prasenajit, king of Cravasti, who was a wise and upright man. He told
 
 “Listen well, inhabitants of Cravasti! Seven days from this day, the merchant Anathapindika, riding an elephant, will go through the streets of the city. He will ask all of you for alms, which he will then offer to the Buddha and to his disciples. Let each one of you give him whatever he can afford.”
 
-On the day announced, Anathapindika mounted his finest elephant and rode through the streets, asking every one for donations for the Master and for the community. They crowded around him: this one gave gold, that one silver; one woman took <span id="p194">[<sup><small>p. 194</small></sup>]</span> off her necklace, another her bracelet, a third an anklet; and even the humblest gifts were accepted.
+On the day announced, Anathapindika mounted his finest elephant and rode through the streets, asking every one for donations for the Master and for the community. They crowded around him: this one gave gold, that one silver; one woman took <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> off her necklace, another her bracelet, a third an anklet; and even the humblest gifts were accepted.
 
 Now, there lived in Cravasti a young girl who was extremely poor. It had taken her three months to save enough money to buy a piece of coarse material, out of which she had just made a dress for herself. She saw Anathapindika with a great crowd around him.
 
@@ -97,7 +97,7 @@ Now, there lived in Cravasti a young girl who was extremely poor. It had taken h
 
 “Anathapindika is not collecting alms for himself. He wants every one to participate in the good he is doing, and he is asking for donations for the Buddha and his disciples. All those who give will be entitled to a future reward.”
 
-The young girl said to herself, “I have never done anything deserving of praise. It would be wonderful to make an offering to the Buddha. But I am poor. What have I to give?” She walked away, wistfully. She looked at her new dress. “I have only <span id="p195">[<sup><small>p. 195</small></sup>]</span> this dress to offer him. But I can not go through the streets naked.”
+The young girl said to herself, “I have never done anything deserving of praise. It would be wonderful to make an offering to the Buddha. But I am poor. What have I to give?” She walked away, wistfully. She looked at her new dress. “I have only <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> this dress to offer him. But I can not go through the streets naked.”
 
 She went home and took off the dress. Then she sat at the window and watched for Anathapindika, and when he passed in front of her house, she threw the dress to him. He took it and showed it to his servants.
 

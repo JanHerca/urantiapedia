@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## YA<i>S</i>TS AND SÎRÔZAHS.
 
@@ -48,7 +48,7 @@ Sîrôzah means ‘thirty days:’ it is the name of a prayer composed of thirty
 
 There are two Sîrôzahs, but the only difference between them is that the formulas in the former are shorter [^3], and there is also, occasionally, some difference in the epithets, which are fuller in the latter.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 In India the Sîrôzah is recited in honour of the dead, on the thirtieth day after the death, on the thirtieth day of the sixth month, on the thirtieth day of the twelfth month, and then every year on the thirtieth day from the anniversary day (Anquetil, Zend-Avesta, II, 315).
 
@@ -87,7 +87,7 @@ The correspondence between the formulas of the Sîrôzah and the Ya<i>s</i>ts is
 29\. Mahraspand. | 
 30\. Anêrân. | 
 
-The Ya<i>s</i>ts that have been lost are, therefore, those of Khshathra-vairya, Spe<i>n</i>ta-Ârmaiti, Ameretâ<i>t</i>, Âtar, Vâta, Asman, Mãthra-Spe<i>n</i>ta, and Anaghra rao<i>k</i><i>a</i>u. The second Ya<i>s</i>t, or Ya<i>s</i>t of the seven Amshaspands, appears to have been no independent Ya<i>s</i>t: it was common to all the seven Ya<i>s</i>ts devoted to the several <span id="p3">[<sup><small>p. 3</small></sup>]</span> Amshaspands, and, accordingly, it is recited on the first seven days of the month. One might suppose that it was originally a part of the Ormazd Ya<i>s</i>t, as the Amesha-Spe<i>n</i>tas are invoked in company with Ahura Mazda (Sîrôzah 1, 8, 15, 23). There may, indeed, have been several Ya<i>s</i>ts for one and the same formula of the Sîrôzah, as in all of these formulas more than one Ized are invoked: this would apply not only to the Ya<i>s</i>t of the seven Amshaspands, but also to the Vana<i>n</i><i>t</i> Ya<i>s</i>t (Ya<i>s</i>t XX), which, in that case, ought to follow the Tîr Ya<i>s</i>t (see Sîrôzah 13).
+The Ya<i>s</i>ts that have been lost are, therefore, those of Khshathra-vairya, Spe<i>n</i>ta-Ârmaiti, Ameretâ<i>t</i>, Âtar, Vâta, Asman, Mãthra-Spe<i>n</i>ta, and Anaghra rao<i>k</i><i>a</i>u. The second Ya<i>s</i>t, or Ya<i>s</i>t of the seven Amshaspands, appears to have been no independent Ya<i>s</i>t: it was common to all the seven Ya<i>s</i>ts devoted to the several <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> Amshaspands, and, accordingly, it is recited on the first seven days of the month. One might suppose that it was originally a part of the Ormazd Ya<i>s</i>t, as the Amesha-Spe<i>n</i>tas are invoked in company with Ahura Mazda (Sîrôzah 1, 8, 15, 23). There may, indeed, have been several Ya<i>s</i>ts for one and the same formula of the Sîrôzah, as in all of these formulas more than one Ized are invoked: this would apply not only to the Ya<i>s</i>t of the seven Amshaspands, but also to the Vana<i>n</i><i>t</i> Ya<i>s</i>t (Ya<i>s</i>t XX), which, in that case, ought to follow the Tîr Ya<i>s</i>t (see Sîrôzah 13).
 
 Not every Ya<i>s</i>t, however, is devoted to the Ized whose name it bears: thus the Ardibehe<i>s</i>t Ya<i>s</i>t is mostly devoted to Airyaman; the Râm-Ya<i>s</i>t and the Zemyâd-Ya<i>s</i>t are devoted to Vayu and to the <i>H</i><i>v</i>arenô: but Airyaman, Vayu, and the <i>H</i><i>v</i>arenô are invoked in the same Sîrôzah formulas as Ardibehe<i>s</i>t, Râm, and Zemyâd, and a Ya<i>s</i>t is named from the opening name in the correspondent Sîrôzah formula.
 

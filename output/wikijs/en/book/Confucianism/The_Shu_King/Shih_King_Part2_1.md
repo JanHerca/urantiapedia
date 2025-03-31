@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:2:15Z
   </table>
 </figure>
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 ## II. THE MINOR ODES OF THE KINGDOM.
 
@@ -56,7 +56,7 @@ A FESTAL ODE, RESPONSIVE TO ANY OF THE FIVE THAT PRECEDE IT. THE KING'S OFFICERS
 
 Ascribed, like the former, to the duke of <i>K</i>âu.
 
-Heaven protects and establishes thee, With the greatest. security; Makes thee entirely virtuous. <span id="p348">[<sup><small>p. 348</small></sup>]</span> That thou mayest enjoy every happiness; Grants thee much increase, So that thou hast all in abundance.
+Heaven protects and establishes thee, With the greatest. security; Makes thee entirely virtuous. <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> That thou mayest enjoy every happiness; Grants thee much increase, So that thou hast all in abundance.
 
 Heaven protects and establishes thee. It grants thee all excellence, So that thine every matter is right, And thou receivest every Heavenly favour. It sends down to thee long-during happiness, Which the days are not sufficient to enjoy.
 
@@ -66,7 +66,7 @@ With happy auspices and purifications thou bringest the offerings, And dost fili
 
 The spirits come [^407], And confer on thee many blessings. The people are simple and honest, Daily enjoying their meat, and drink. All the black-haired race, in all their surnames, Universally practise thy virtue.
 
-Like the moon advancing to the full, Like the sun ascending the heavens, Like the everlasting southern hills, Never waning, never falling, Like <span id="p349">[<sup><small>p. 349</small></sup>]</span> the luxuriance of the fir and the cypress;—May such be thy succeeding line!
+Like the moon advancing to the full, Like the sun ascending the heavens, Like the everlasting southern hills, Never waning, never falling, Like <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> the luxuriance of the fir and the cypress;—May such be thy succeeding line!
 
 <a id="o9"></a>
 

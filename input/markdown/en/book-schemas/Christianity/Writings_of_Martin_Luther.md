@@ -42,13 +42,13 @@ Large Catechism | Large_Catechism
 		Large Catechism — Article III. | Large_Catechism_2_3
 	Part Third. OF PRAYER. | #
 		Large Catechism — The Lord's Prayer. | Large_Catechism_3_1
-		Large Catechism — The First Petition. | Large_Catechism_3_2#p1
-		Large Catechism — The Second Petition. | Large_Catechism_3_2#p2
-		Large Catechism — The Third Petition. | Large_Catechism_3_2#p3
-		Large Catechism — The Fourth Petition. | Large_Catechism_3_2#p4
-		Large Catechism — The Fifth Petition. | Large_Catechism_3_2#p5
-		Large Catechism — The Sixth Petition. | Large_Catechism_3_2#p6
-		Large Catechism — The Seventh and Last Petition. | Large_Catechism_3_2#p7
+		Large Catechism — The First Petition. | Large_Catechism_3_1#p1
+		Large Catechism — The Second Petition. | Large_Catechism_3_1#p2
+		Large Catechism — The Third Petition. | Large_Catechism_3_1#p3
+		Large Catechism — The Fourth Petition. | Large_Catechism_3_1#p4
+		Large Catechism — The Fifth Petition. | Large_Catechism_3_1#p5
+		Large Catechism — The Sixth Petition. | Large_Catechism_3_1#p6
+		Large Catechism — The Seventh and Last Petition. | Large_Catechism_3_1#p7
 	Large Catechism — Part Fourth. | Large_Catechism_4_0
 	Large Catechism — [Part Fifth.] | Large_Catechism_5_0
 	Large Catechism — Conclusion | Large_Catechism_5_Conclusion

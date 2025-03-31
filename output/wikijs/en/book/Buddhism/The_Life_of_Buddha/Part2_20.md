@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 
 NEAR the city of Vaisali, there was an immense wood that had been presented to the Master, and there he was living when the news came to him that his father, King Suddhodana, had fallen sick. The king was an old man; the illness was serious; it was feared that he was dying. The Master decided to visit him, and flying through the air he came to Kapilavastu.
@@ -41,7 +41,7 @@ The king lay mournfully on his couch. He was gasping for breath. Death was very 
 
 “Long is the road you have travelled, O king, and always did you strive to do good. You knew nothing of evil desires; your heart was innocent of hatred, and anger never blinded your mind. Happy is he who is given to doing good! Happy is he who looks into a limpid pool and sees his unsullied countenance, but far happier is he who examines his mind and knows the purity thereof! Your mind is pure, O king, and your death as calm as the close of a lovely day.”
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 “Blessed One,” said the king, “I understand now the inconstancy of the worlds. I am free of all desire; I am free of the chains of life.”
 
@@ -57,7 +57,7 @@ He died. The sun was setting.
 
 The Master said:
 
-“Behold my father's body. He is no longer what he was. No one has ever conquered death. He who is born must die. Show your zeal for good works; walk in the path that leads to wisdom. Make a lamp of wisdom, and darkness will vanish of its own accord. Do not follow evil laws; do not plant poisonous roots; do not add to the evil in the world. <span id="p208">[<sup><small>p. 208</small></sup>]</span> Like the charioteer who, having left the highroad for a rough path, weeps at the sight of a broken axle, even so does the fool, who has strayed from the law, weep when he falls into the jaws of death. The wise man is the torch that gives light to the ignorant; he guides mankind, for he has eyes, and the others are sightless.”
+“Behold my father's body. He is no longer what he was. No one has ever conquered death. He who is born must die. Show your zeal for good works; walk in the path that leads to wisdom. Make a lamp of wisdom, and darkness will vanish of its own accord. Do not follow evil laws; do not plant poisonous roots; do not add to the evil in the world. <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> Like the charioteer who, having left the highroad for a rough path, weeps at the sight of a broken axle, even so does the fool, who has strayed from the law, weep when he falls into the jaws of death. The wise man is the torch that gives light to the ignorant; he guides mankind, for he has eyes, and the others are sightless.”
 
 The body was carried to a great funeral pile. The Master set fire to it, and while his father's body was being consumed by the flames, while the people of Kapilavastu wept and lamented, he repeated these sacred truths:
 

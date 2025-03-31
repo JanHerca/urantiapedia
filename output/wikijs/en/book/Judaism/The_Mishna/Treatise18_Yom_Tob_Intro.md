@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 ## XVIII. TREATISE YOM TOB, OR, OF THE FESTIVAL.
 

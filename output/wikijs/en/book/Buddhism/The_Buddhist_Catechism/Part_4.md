@@ -33,7 +33,7 @@ dateCreated: 2025-2-5T12:26:57Z
 </figure>
 
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 
 279\. Q. _As regards the number of its followers, how does Buddhism at this date compare with the other chief religions?_
@@ -50,7 +50,7 @@ A. History does not record one of those cruelties and crimes as having been comm
 
 282\. Q. _What, then, is the secret of its wonderful spread?_
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 A. It can be nothing else than its intrinsic excellence: its self-evident basis of truth, its sublime moral teaching, and its sufficiency for all human needs.
 
@@ -72,7 +72,7 @@ A. About six centuries.
 
 257\. Q. _What help did Kings give?_
 
-A. Besides the lower classes, great Kings, Râjâs <span id="p85">[<sup><small>p. 85</small></sup>]</span> and Mahârâjas were converted and gave their influence to spread the religion.
+A. Besides the lower classes, great Kings, Râjâs <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> and Mahârâjas were converted and gave their influence to spread the religion.
 
 288\. Q. _What about pilgrims?_
 
@@ -88,7 +88,7 @@ A. In the third century B.C., about two centuries after the Buddha's time. Histo
 
 291\. Q. _What made him great?_
 
-A. He was the most powerful monarch in Indian history, as warrior and as statesman; but his noblest characteristics were his love of truth and justice, <span id="p86">[<sup><small>p. 86</small></sup>]</span> tolerance of religious differences, equity of government, kindness to the sick, to the poor, and to animals. His name is revered from Siberia to Ceylon.
+A. He was the most powerful monarch in Indian history, as warrior and as statesman; but his noblest characteristics were his love of truth and justice, <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> tolerance of religious differences, equity of government, kindness to the sick, to the poor, and to animals. His name is revered from Siberia to Ceylon.
 
 292\. Q. _Was he born a Buddhist?_
 
@@ -100,7 +100,7 @@ A. He drove out bad bhikkhus, encouraged good ones, built monasteries and dâgob
 
 294\. Q. _What absolute proofs exist as to his noble character?_
 
-A. Within recent years there have been discovered, in all parts of India, 14 Edicts of his, inscribed on living rocks, and 8 on pillars erected by his <span id="p87">[<sup><small>p. 87</small></sup>]</span> orders. They fully prove him to have been one of the wisest and most high-minded sovereigns who ever lived.
+A. Within recent years there have been discovered, in all parts of India, 14 Edicts of his, inscribed on living rocks, and 8 on pillars erected by his <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> orders. They fully prove him to have been one of the wisest and most high-minded sovereigns who ever lived.
 
 295\. Q. _What character do these inscriptions give to Buddhism?_
 
@@ -116,7 +116,7 @@ A. O yes, it is all recorded in the Mahâvansa, by the keepers of the royal reco
 
 298\. Q. _Is there some still visible proof of Sanghamitta's mission?_
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 A. Yes: she brought with her to Ceylon a branch ref the very Bodhi tree under which the Buddha sat when he became Enlightened, and it is still growing.
 
@@ -134,7 +134,7 @@ A. Many other bhikkhunîs. She, in due time, admitted the Queen and many of her 
 
 302\. Q. _Can we trace the effects of the foreign work of the Emperor Ashoka's missionaries?_
 
-A. His son and daughter introduced Buddhism into Ceylon: his monks gave it to the whole of Northern India, to fourteen Indian nations outside its boundaries, and to five Greek Kings, his allies, <span id="p89">[<sup><small>p. 89</small></sup>]</span> with whom he made treaties to admit his religious preachers.
+A. His son and daughter introduced Buddhism into Ceylon: his monks gave it to the whole of Northern India, to fourteen Indian nations outside its boundaries, and to five Greek Kings, his allies, <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> with whom he made treaties to admit his religious preachers.
 
 303\. Q. _Can you name them?_
 
@@ -154,7 +154,7 @@ A. As early as the second or third century B.C. Five of Dharmâshoka's monks are
 
 307\. Q. _Whence and when did it reach Korea?_
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 A. From China, in the year 372 A.D.
 
@@ -176,7 +176,7 @@ A. To Nepâl and Tibet.
 
 312\. Q. _Why is it that Buddhism, which was once. the prevailing religion throughout India, is now almost extinct there?_
 
-A. Buddhism was at first pure and noble, the very teaching of the Tathâgata; its Sangha were virtuous and observed the Precepts; it won all hearts and spread joy through many nations, as the morning light sends <span id="p91">[<sup><small>p. 91</small></sup>]</span> life through the flowers. But after some centuries, bad bhikkhus got ordination (_Upasampada_), the Sangha became rich, lazy and sensual, the Dharma was corrupted, and the Indian nations abandoned it.
+A. Buddhism was at first pure and noble, the very teaching of the Tathâgata; its Sangha were virtuous and observed the Precepts; it won all hearts and spread joy through many nations, as the morning light sends <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> life through the flowers. But after some centuries, bad bhikkhus got ordination (_Upasampada_), the Sangha became rich, lazy and sensual, the Dharma was corrupted, and the Indian nations abandoned it.
 
 313\. Q. _Did anything happen about the ninth or-tenth century A.D. to hasten its downfall?_
 
@@ -194,7 +194,7 @@ A. They burnt, pulled down or otherwise destroyed our vihâras, slaughtered our 
 
 A. No. Many bhikkhus fled across the borders-into Tibet and other safe places of refuge, carrying. their books with them.
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 317\. Q. _Have any traces of these books been recently discovered?_
 
@@ -210,7 +210,7 @@ A. _Yes. A careful revision of the Vinâya Pitaka was made in Ceylon in the year
 
 320\. Q. _Has there been any friendly intercourse in the interest of Buddhism between the peoples of the Southern and those of the Northern Buddhist countries?_
 
-A. In the year 1891 A.D., a successful attempt was <span id="p93">[<sup><small>p. 93</small></sup>]</span> made to get the Pradhâna Nayakas of the two great divisions to agree to accept fourteen propositions as, embodying fundamental Buddhistic beliefs recognised' and taught by both divisions. These propositions, drafted by Colonel Olcott, were carefully translated into Burmese, Sinhalese and Japanese, discussed one by one, unanimously adopted and signed by the chief monks, and published in January 1892.
+A. In the year 1891 A.D., a successful attempt was <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> made to get the Pradhâna Nayakas of the two great divisions to agree to accept fourteen propositions as, embodying fundamental Buddhistic beliefs recognised' and taught by both divisions. These propositions, drafted by Colonel Olcott, were carefully translated into Burmese, Sinhalese and Japanese, discussed one by one, unanimously adopted and signed by the chief monks, and published in January 1892.
 
 321\. Q. _With what good result?_
 
@@ -218,7 +218,7 @@ A. As the result of the good understanding now existing, a number of Japanese bh
 
 322\. Q. _Are there signs that the Buddha Dharma is growing in favour in non-Buddhistic countries?_
 
-A. There are. Translations of our more valuable books are appearing, many articles in reviews, magazines and newspapers are being published, and excellent original treatises by distinguished writers are coming. from the press. Moreover, Buddhist and non-Buddhist lecturers are publicly discoursing on Buddhism to large audiences in Western countries. The Shin Shu sect of Japanese Buddhists have actually opened <span id="p94">[<sup><small>p. 94</small></sup>]</span> missions at Honolulu, San Francisco, Sacramento and other American places.
+A. There are. Translations of our more valuable books are appearing, many articles in reviews, magazines and newspapers are being published, and excellent original treatises by distinguished writers are coming. from the press. Moreover, Buddhist and non-Buddhist lecturers are publicly discoursing on Buddhism to large audiences in Western countries. The Shin Shu sect of Japanese Buddhists have actually opened <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> missions at Honolulu, San Francisco, Sacramento and other American places.
 
 323\. Q. _What two leading ideas of ours are chiefly taking hold upon the Western mind?_
 

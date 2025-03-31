@@ -94,7 +94,7 @@ By elephant and car and steed.
 The Vánars saw the giant foe
 Pour from the gate in gallant show,
 
-<span id="p466">[<sup><small>p. 466</small></sup>]</span>
+<span id="p466"><sup><small>[ p. 466 ]</small></sup></span>
 
 Rejoiced with warriors' fierce delight
 And shouted, longing for the fight.
@@ -213,7 +213,7 @@ The rocks and trees which Vánars threw.
 Fierce as a hungry lion when
 Unwary deer approach his den,
 
-<span id="p467">[<sup><small>p. 467</small></sup>]</span>
+<span id="p467"><sup><small>[ p. 467 ]</small></sup></span>
 
 Angad, his eyes with fury red,
 Waving a tree above his head.
@@ -298,7 +298,7 @@ Yet gathered strength his sword to seize;
 And, severed by the glittering blade,
 The giant's head on earth was laid. [^972]
 
-<span id="p468">[<sup><small>p. 468</small></sup>]</span>
+<span id="p468"><sup><small>[ p. 468 ]</small></sup></span>
 
 
 
@@ -424,7 +424,7 @@ The lord of Lanká made reply.
 Aml hope eternal fame to win
 This arm shall pr \* thee in the \* ??
 
-<span id="p469">[<sup><small>p. 469</small></sup>]</span>
+<span id="p469"><sup><small>[ p. 469 ]</small></sup></span>
 
 And end thy glory and thy life.’
 ‘Remember,’ cried the Wind-God's son,
@@ -542,7 +542,7 @@ His frame by those huge arms compressed
 The giant's God given \*\*\*\*\*
 But conscious that himself \* was part
 
-<span id="p470">[<sup><small>p. 470</small></sup>]</span>
+<span id="p470"><sup><small>[ p. 470 ]</small></sup></span>
 
 Of Vishnu, he was firm in heart.
 
@@ -661,7 +661,7 @@ And thee and thine to ruin bring.
 And Vedavati, [^977] ere she died
 Slain by my ruthless insult, cried:
 
-<span id="p471">[<sup><small>p. 471</small></sup>]</span>
+<span id="p471"><sup><small>[ p. 471 ]</small></sup></span>
 
 ‘A scion of my royal line
 Shall slay, vile wretch, both thee and thine.’
@@ -762,7 +762,7 @@ That drives you with unruly speed
 To wake me. Mark the words I say,
 The king shall tremble in dismay,
 
-<span id="p472">[<sup><small>p. 472</small></sup>]</span>
+<span id="p472"><sup><small>[ p. 472 ]</small></sup></span>
 
 Of Vishn'u, he was firm in heart.
 &nbsp;&nbsp;&nbsp;&nbsp;The Wind-God's son the fight beheld,
@@ -874,7 +874,7 @@ And thee and thine to ruin bring.
 And Vedavatí,  [^983] ere she died
 Slain by my ruthless insult, cried:
 
-<span id="p473">[<sup><small>p. 473</small></sup>]</span>
+<span id="p473"><sup><small>[ p. 473 ]</small></sup></span>
 
 ‘A scion of my royal line
 Shall slay, vile wretch, both thee and thine.’
@@ -974,7 +974,7 @@ That drives you with unruly speed
 To wake me. Mark the words I say,
 The king shall tremble in dismay,
 
-<span id="p474">[<sup><small>p. 474</small></sup>]</span>
+<span id="p474"><sup><small>[ p. 474 ]</small></sup></span>
 
 The fire be quenched and Indra slain
 Ere ye shall break my rest in vain.’

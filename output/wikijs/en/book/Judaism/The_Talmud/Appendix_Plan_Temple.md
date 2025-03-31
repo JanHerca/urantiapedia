@@ -62,7 +62,7 @@ _See Plan at end of Volume_.
 
 5\. The two southern gates were called the Gates of Huldah. _g g g g_, Where the Levites watched.
 
-6\. The assembly of the small Sanhedrin at the door of the <span id="p368">[<sup><small>p. 368</small></sup>]</span> Eastern Gate, and there sat three rows, each containing twenty-three men, _h h h h_, Shops in the Court of the Gentiles. Matt. xxi. 12.
+6\. The assembly of the small Sanhedrin at the door of the <span id="p368"><sup><small>[ p. 368 ]</small></sup></span> Eastern Gate, and there sat three rows, each containing twenty-three men, _h h h h_, Shops in the Court of the Gentiles. Matt. xxi. 12.
 
 7\. A wall about ten hands high around the whole court, and in it were thirteen openings as if opposite thirteen gates. _i i i i i_, Slabs (Josephus, _Antiquities_, xv. xi. 5) on which was engraven the prohibition against foreigners entering the temple (Acts xxi. 29). One of these “stones of warning” was discovered in Jerusalem in 1871. A facsimile of it (on a reduced scale) is now included in this volume, by the kind permission of the Committee of the Palestine Exploration Fund. Its translation runs thus, “No stranger is allowed to pass within the balustrade round the temple and enclosure. If found, the offender must take the consequence, and his death will follow.”
 
@@ -82,7 +82,7 @@ FACSIMILE OF A GREEK INSCRIPTION ON ONE OF THE “STONES OF WARNING” IN THE PA
 
 (_Discovered in Jerusalem_, 1873.)
 
-PAGE 368 <span id="p369">[<sup><small>p. 369</small></sup>]</span> 12\. The chamber of the Nazarites. There they boiled their peace-offerings, and burned their hair under the kettle.
+PAGE 368 <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> 12\. The chamber of the Nazarites. There they boiled their peace-offerings, and burned their hair under the kettle.
 
 13\. The chamber of the lepers, where they shaved their hair.
 
@@ -114,7 +114,7 @@ PAGE 368 <span id="p369">[<sup><small>p. 369</small></sup>]</span> 12\. The cham
 
 27\. The altar of burnt-offerings, described in the. Tract Measurements. “An apple,” _i.e._ an heap of ashes always remained on the midst of the altar.
 
-28\. The ascent to the altar was in length thirty-two cubits from south to north, and in breadth sixteen cubits. There was a small <span id="p370">[<sup><small>p. 370</small></sup>]</span> space between it and the altar, so that it might not touch it. From the ascent proceeded two small staircases, one from the east that reached the circumference, and one from the west that reached the foundation. In the west was a window, and it was called Rabuba (deep). There they put the fowls that were ceremonially defiled until their forms changed. The space from the southern wall of the court to the ascent measured eight cubits.
+28\. The ascent to the altar was in length thirty-two cubits from south to north, and in breadth sixteen cubits. There was a small <span id="p370"><sup><small>[ p. 370 ]</small></sup></span> space between it and the altar, so that it might not touch it. From the ascent proceeded two small staircases, one from the east that reached the circumference, and one from the west that reached the foundation. In the west was a window, and it was called Rabuba (deep). There they put the fowls that were ceremonially defiled until their forms changed. The space from the southern wall of the court to the ascent measured eight cubits.
 
 29\. The court of the priests. Its length from north to south was 135 cubits, and its breadth from east to west eleven cubits. And there was a railed gallery there round the walls.
 
@@ -130,7 +130,7 @@ PAGE 368 <span id="p369">[<sup><small>p. 369</small></sup>]</span> 12\. The cham
 
 35\. Twelve steps ascended from the altar to the porch in the space of twenty-two cubits. From the altar westward, and to the east side of the steps, was plain ground for two cubits. Up from thence were three steps—the height of each half a cubit, and its breadth a cubit. And above them was one step—its height half a cubit and its breadth three cubits, and this was called Piazza (platform). Above it were two steps—the height of each was half a cubit, and their breadth three cubits. This also was called Piazza. And higher were four steps—the height of each half a cubit, and their breadth a cubit. And higher there was one step, its height half a cubit and its breadth four cubits. It also was called Piazza. We now. find that the ground of the door of the porch was higher than the ground of the place of the altar by six cubits. _l l_, Jachin and Boaz—two pillars at the entrance of the porch.
 
-36\. The porch of the house—in length from north to south seventy cubits, and in breadth from east to west eleven cubits. At its door were (_m m_) two tables, one of marble and one of silver. On them the priests laid the shewbread in their going out and coming in. <span id="p371">[<sup><small>p. 371</small></sup>]</span> 37\. The doorway of the porch had no doors—there was only a vail. Its breadth was twenty cubits, and its height forty cubits. The thickness of the wall was five cubits. Over it were five in-wrought beams, one above the other, for ornament. They were called “cross-beams.”
+36\. The porch of the house—in length from north to south seventy cubits, and in breadth from east to west eleven cubits. At its door were (_m m_) two tables, one of marble and one of silver. On them the priests laid the shewbread in their going out and coming in. <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> 37\. The doorway of the porch had no doors—there was only a vail. Its breadth was twenty cubits, and its height forty cubits. The thickness of the wall was five cubits. Over it were five in-wrought beams, one above the other, for ornament. They were called “cross-beams.”
 
 38\. Two chambers open towards the porch in the north and south. There the broken knives were put away. Each chamber had a little rail door in the corner of the court, and the measure of each of these chambers, from north to south, was fifteen cubits, and their breadth was the breadth of the porch. We find the length of the Porch to be altogether one hundred cubits.
 
@@ -150,7 +150,7 @@ PAGE 368 <span id="p369">[<sup><small>p. 369</small></sup>]</span> 12\. The cham
 
 46\. Two golden pedestals. Upon them the High Priest, when he went out from the Holy of Holies, placed the blood of the bullock, and the blood of the goat, on the Day of Atonement.
 
-47\. The Traksin (partition wall) was in width a cubit. In it were two vails—the thickness of each vail was an handbreath, and <span id="p372">[<sup><small>p. 372</small></sup>]</span> there was a void space between them of three handbreadths. The two vails and the void space were supposed to meet the dispute as to the minutely accurate line of separation between the Holy Place and the Holy of Holies.
+47\. The Traksin (partition wall) was in width a cubit. In it were two vails—the thickness of each vail was an handbreath, and <span id="p372"><sup><small>[ p. 372 ]</small></sup></span> there was a void space between them of three handbreadths. The two vails and the void space were supposed to meet the dispute as to the minutely accurate line of separation between the Holy Place and the Holy of Holies.
 
 48\. The Holy of Holies in length and breadth twenty cubits by twenty. In the midst was the “Stone of Foundation,” and upon it rested the ark in the Temple of Solomon.
 
@@ -180,7 +180,7 @@ PAGE 368 <span id="p369">[<sup><small>p. 369</small></sup>]</span> 12\. The cham
 
 61\. Chamber of Wood. It was also called the Chamber of the “Promenade of the High Priest.”
 
-62\. The Chamber of Hewn Stone. There the Great Sanhedrin sat (“like half a round threshing-floor”) in the half of the unconsecrated part which was in it, and before them were three rows each of twenty-three <span id="p373">[<sup><small>p. 373</small></sup>]</span> men. It was open to the unconsecrated place, and to the Holy place.
+62\. The Chamber of Hewn Stone. There the Great Sanhedrin sat (“like half a round threshing-floor”) in the half of the unconsecrated part which was in it, and before them were three rows each of twenty-three <span id="p373"><sup><small>[ p. 373 ]</small></sup></span> men. It was open to the unconsecrated place, and to the Holy place.
 
 63\. The upper Chamber of the House Abtinas.
 

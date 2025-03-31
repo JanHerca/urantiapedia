@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 ### CHAPTER XXIV.
 
-§ 1. He who \[on the Sabbath-eve\] is overtaken by the dusk on the road must give his purse to a heathen. If there be no heathen with him he must put it on the ass. As soon as he arrives at the outmost court \[dwelling of the first town or village he reaches\] he <span id="p69">[<sup><small>p. 69</small></sup>]</span> takes off all such things as may be moved on the Sabbath; as to those things which must not be moved he loosens the cords, that they may fall off by themselves.
+§ 1. He who \[on the Sabbath-eve\] is overtaken by the dusk on the road must give his purse to a heathen. If there be no heathen with him he must put it on the ass. As soon as he arrives at the outmost court \[dwelling of the first town or village he reaches\] he <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> takes off all such things as may be moved on the Sabbath; as to those things which must not be moved he loosens the cords, that they may fall off by themselves.
 
 § 2. They may untie bundles of straw for cattle; also to strew green boughs \[stalks for them\], but they must not undo bundles trebly tied. Herbs used as fodder, and carob pods, must not be cut up for cattle, be it large or small \[kine or sheep\]. R. Jehudah permits the cutting up of carob pods for small cattle.
 

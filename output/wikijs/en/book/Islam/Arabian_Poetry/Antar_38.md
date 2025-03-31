@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 King Zoheir had soon cause to wish for the presence of the champion of Abs and Adnan. Having refused to give his daughter in marriage to Numan, King of Hirah, the latter sends his brother, Prince Aswad, with a large army to lay waste the land of Abs; and Antar patriotically resolves to assist his sovereign and old friend in repelling the invaders. The army of Prince Aswad was destroyed by a stratagem of Shiboob, who contrived to obtain access to their water-bags, and, cutting them open, allowed all the water to escape. Weakened by thirst, they were easily vanquished by a very small force of Absians, and, among others, Prince Aswad was taken prisoner.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Meanwhile the renowned female warrior, Jaida, who had been captured by Antar and afterwards escaped, set out from her own country to take vengeance on the hero for the death of Khalid. She did not meet Antar, however, but, attacking a party of Absians, she took Malik and Abla prisoners; then she went to Irak, and delivered them to Numan, who declared that he would hang Abla beside Antar, and would not leave a single Absian alive. But when he heard of Antar's great victory over his brother's army, he despatched a satrap to the hero, offering to exchange Abla and the other Absian women for Prince Aswad and his companions. The royal messenger returned with the answer, that Abla and all her jewels must be restored before he would release Prince Aswad; and Numan, hearing from his satrap a fearful account of Antar's exploits and prodigious courage, at once complied with the hero's demand. As soon as Abla and her father were restored to their tribe, Antar proceeded to release his prisoners, among whom was Maadi Kereb, a cousin of Jaida.
 
@@ -46,7 +46,7 @@ The hero's fair enemy, Jaida, still burning to avenge the death of her husband, 
 
 O by my tribe! tears have festered my cheeks, and in the greatness of my agony sleep has abandoned me.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 These mourning garments have debilitated my energies, and sickness has weakened my bones and my skin;
 
@@ -82,7 +82,7 @@ O Abla! my heart is rent with anguish on thy account: my patience is fled to the
 
 O Hijar!—hey! I will teach thee my station: thou shalt not dare to fight me, disgraced as thou art!
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Hast thou forgotten in the Vale of Torrents the deeds of my valour, and how I overthrew the armies, undaunted as they were?
 
@@ -112,7 +112,7 @@ Not the thrust of the spear or battle is among my qualifications;—I profess no
 
 My name is Ocab: but indeed I am no fighting man; and the sword in the palm of my hand only chases pelicans.
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 “Antar laughed at Ocab's verses, and let him go. ‘Return to your family,’ said he, ‘and go no more to the Persian, or you will be in danger; for when they see you safe they will accuse you, and perhaps put you to death.’—‘You are very right, my lord,’ said he; ‘by the faith of an Arab, had I known these Persians would have been thus worsted I would not have quitted you; and probably I might have managed to secure some of their goods, and return with it to my family.’—‘Sheikh,’ said Antar's companion, ‘this business has failed; but come, take the spoils of this satrap, and return to your family, and pass not your evening a dead man.’—‘Ay, my lord,’ said Ocab, ‘he is a wise fellow who returns safe to his friends.’—So he ran up to the satrap and despoiled him. Round his waist was a girdle and a sword, and when Ocab saw all that wealth he was bewildered; and having completely rifled him,—‘O my lord,’ said he to Antar, ‘I will never separate from you again. I wish you would present me to your king, that I may kiss his hand and offer him my services: then indeed I will for ever cleave to your party, and whenever you slay a satrap I will plunder him.’ Antar laughed heartily.”
 

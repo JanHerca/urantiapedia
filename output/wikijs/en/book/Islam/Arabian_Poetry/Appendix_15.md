@@ -40,7 +40,7 @@ The hero himself—Antara the son of Sheddād—is always the central figure,: h
 
 The other characters are of course subordinated to the hero and his achievements; yet each has an individuality which is strongly marked. Zuhayr, king of the tribes of ‘Abs and ‘Adnan, Fazarah and Ghiftan, &c.—a prince possessing all the virtues, and not a few of the failings, of his age and race: chivalrous himself, he was not slow to recognise in the youthful slave-son of Sheddād the future hero. Prince Sha‘s, naturally ill-tempered, proud and tyrannical, yet not without his good points, after adversity had tamed his spirit. Prince Mālek, the brave but gentle son of Zuhayr, Antara's first friend and protector against the malice of his enemies: ever ready to plead eloquently in his favour, or to draw his sword when the hero was overwhelmed with numbers. Sheddād, the father of Antara: a bold fellow—“of a heavy-handed kin: a good smiter when help is needed”—proud of his pure blood as ever was hidalgo, yet yearning towards his brave son when his deeds were noised abroad, and bitterly lamenting his reported death. But his simple-minded slave-mother—like mothers of great men in general—does not appreciate her son's heroic achievements—thinks he had much better stay at home and help her to tend the flocks. Malek, the father of Abla—crafty, calculating, sordid, perfidious, malicious, time-serving; withal, a great stickler for the honour of his family. Amara, the Bedouin exquisite—proud, boastful, at heart a coward. Shibūb, the half-brother of Antara, and his trusty squire—fleet of foot, and hence surnamed Father of the Wind (not Son of the Wind, as stated in page [214](./Antar_16#p214)); a dexterous archer; ready with admirable expedients for every emergency—never had brave knight a more useful auxiliary.
 
-<span id="p439">[<sup><small>p. 439</small></sup>]</span>
+<span id="p439"><sup><small>[ p. 439 ]</small></sup></span>
 
 With the noble lyric of the hero's death the curtain is appropriately dropped on the stirring drama. The moral of the story—for a moral there is to those who can read it aright—is, the triumph of a lofty mind and a resolute will over the clogging circumstances of humble birth and class prejudice.
 
@@ -93,7 +93,7 @@ Whilst the dew-drops like the jewels in their ears resplendent glow;
 Do not think, thyself beguiling, things will aye continue so:
 Gaily live, for quick will vanish, biding not, the days of spring.
 
-<span id="p441">[<sup><small>p. 441</small></sup>]</span>
+<span id="p441"><sup><small>[ p. 441 ]</small></sup></span>
 
 ### VI.
 
@@ -130,7 +130,7 @@ But, to each one justice bringing, back hath come Earth's King at last; _(e)_
 In his reign joyed the cup-bearer, round the call for wine is past:
 Gaily live, for quick will vanish, biding not, the days of spring.
 
-<span id="p442">[<sup><small>p. 442</small></sup>]</span>
+<span id="p442"><sup><small>[ p. 442 ]</small></sup></span>
 
 ### XI.
 
@@ -192,7 +192,7 @@ Khusrau, Chosroe, or Chosroes, was the general title of the Sassanides, or third
 
 “I have heard that King Nushirvan, just before his death, spoke thus to his son Hormuz: ‘Be a guardian, my son, to the poor and helpless; and be not confined in the chains of thine own indolence. No one can be at ease in thy dominions while thou seekest only thy private rest, and sayest: ”It is enough.“ A wise man will not approve the shepherd who sleeps while the wolf is in the fold. Go, my son, protect thy weak and indigent people, since through them is a king raised to the diadem. The people are the root, and the king is the tree that grows from it; and the tree, O my son, derives its strength from the root.’”
 
-<span id="p446">[<sup><small>p. 446</small></sup>]</span>
+<span id="p446"><sup><small>[ p. 446 ]</small></sup></span>
 
 ## ANTARA AND THE WRESTLER—[p. 230](./Antar_19#p230).
 
@@ -211,7 +211,7 @@ And o’er the ground its sparkling lustre streamed:
 Accoutred thus, in manly guise, no eye,
 However piercing, could her sex descry.
 
-<span id="p447">[<sup><small>p. 447</small></sup>]</span>
+<span id="p447"><sup><small>[ p. 447 ]</small></sup></span>
 
 It is, however, contended by a learned French Orientalist, that before the time of el-Islām Arabian women did not engage in warfare.
 
@@ -229,7 +229,7 @@ Zuhayr's Mo‘allaqah celebrates the termination of the War of Dahis.—It is sa
 
 The question, which of the numerous poetical fragments inserted in the Romance really belong to Antara, which are the composition of El-Asma‘ī, and which are interpolations of different copyists, is not likely ever to be satisfactorily answered. That some of them are the genuine reliques of Ancient Arabic Poetry is allowed by the most distinguished Orientalists of Europe.
 
-<span id="p448">[<sup><small>p. 448</small></sup>]</span>
+<span id="p448"><sup><small>[ p. 448 ]</small></sup></span>
 
 Many of the effusions ascribed to Antara himself are of the highest poetical excellence, and, in boldness of imagery and beauty of expression, are equal if not superior to the most admired passages of his famous Mo‘allaqah, which, indeed, is composed of similar fragments—“orient pearls in beauteous order strung.”
 
@@ -255,7 +255,7 @@ In her glowing beauty shining, all excelling in her form;
 Every limb in smooth proportion, slender waist and lovely eyes;
 Even the moon's soft gleam disdaining in her own o’erpowering light.
 
-<span id="p449">[<sup><small>p. 449</small></sup>]</span>
+<span id="p449"><sup><small>[ p. 449 ]</small></sup></span>
 
 And in the _Nalódaya_ of Kalidása, the Shakspeare of Hindustan:
 
@@ -306,7 +306,7 @@ The moon of Rome!
 And as the bright sun glorifies the sky,
 So is her face illumined by her eye.
 
-<span id="p450">[<sup><small>p. 450</small></sup>]</span>
+<span id="p450"><sup><small>[ p. 450 ]</small></sup></span>
 
 It is to be regretted that the authenticity of “Ossian's Poems” should be doubtful, else a Keltic bard might be added; for Ossian says (or Macpherson says it for him): “She came forth in all her beauty, like the moon rising from a cloud in the East.”
 
@@ -370,7 +370,7 @@ The eye of that wanton disturber bares its sword.
 
 (See also “Serenade to his Sleeping Mistress,” [p. 146](./Shorter_Pieces#p146), and Note on the same, pp. [430](./Appendix_14#p430), [431](./Appendix_14#p431).)
 
-<span id="p452">[<sup><small>p. 452</small></sup>]</span>
+<span id="p452"><sup><small>[ p. 452 ]</small></sup></span>
 
 Abla's throat was so white that it shamed her necklace—“Alas!” exclaims the love-struck hero—“alas for that throat and that necklace!”—evidently feeling that her natural beauties were alone sufficient to disturb Isis peace of mind;—as Sir John Suckling says, or sings:
 
@@ -389,7 +389,7 @@ The Persian Sa’dī was also an admirer of beauty unadorned: “The face of a b
 
 It is interesting to remark the various comparisons employed by different poets to describe a graceful maiden. Antara likens his darling to a fawn. Solomon says: “I have compared thee, O my love, to a company of horses in Pharaoh's chariot.” Theocritus, in his Epithalamium on the Marriage of Helen, says: “She resembles the horse in the chariots of Thessaly.” Sophocles likens a damsel to a wild heifer; Horace, to an untamed filly; Ariosto's Angelica is like a fawn; Tasso's Erminia is like a hind; and Kalidása, the great Hindu dramatist, compares a female divinity to—_a goose!_ “The Rájahansa,” says
 
-<span id="p453">[<sup><small>p. 453</small></sup>]</span>
+<span id="p453"><sup><small>[ p. 453 ]</small></sup></span>
 
 Dr. H. H. Wilson, in the Notes to his translation of the _Mégha Dúta_ of Kalidása, "is described as a white gander with red legs and bill, and together with the common goose is a favourite bird in Hindu poetry. The motion of the goose is supposed to resemble the shuffling walk which they esteem graceful in a woman. Thus, in the _Rĭtu Sanhára_, or the Seasons, of our poet—
 
@@ -405,7 +405,7 @@ The graceful undulation of her gait.”
 
 The learned Professor explains that the idea of the original is, that the weight of her haunches caused the peculiar appearance observable in her footprints. (See note on v. 17, Poem of Amru, [p. 397](./Appendix_12#p397), and note on v. 97, same poem, [p. 399](./Appendix_12#p399).)
 
-<span id="p454">[<sup><small>p. 454</small></sup>]</span>
+<span id="p454"><sup><small>[ p. 454 ]</small></sup></span>
 
 Abla's tall and graceful form is very often compared to the tamarisk, and to the branch of the erak-tree: “The tamarisk trees complain of her beauty in the morn and in the eve”—an idea which also finds expression in these verses of Khushhāl Khan:
 
@@ -441,7 +441,7 @@ _Or are you very Nature the goddess_,
 That have depainted with your heavenly hand
 This garden full of flowers as they stand?
 
-<span id="p455">[<sup><small>p. 455</small></sup>]</span>
+<span id="p455"><sup><small>[ p. 455 ]</small></sup></span>
 
 The following description of a female divinity, from the _Mégha Dúta_, contains some of the similitudes above noticed:
 
@@ -477,7 +477,7 @@ The ancients, it is well known, placed the seat of Love in the liver; and so Ant
 Cease, Love, to wound my liver and my heart;
 If I must suffer, choose some other part.
 
-<span id="p457">[<sup><small>p. 457</small></sup>]</span>
+<span id="p457"><sup><small>[ p. 457 ]</small></sup></span>
 
 Theocritus, in his 13th Idyll, speaking of Hercules, says: “In his liver Love had fixed a wound;” Anacreon tells how the god of Love drew his bow, and “the dart pierced through my liver and my heart;” and Horace (B. 1, Ode 2) says: “Burning Love . . cloth in thy cankered liver rage.” But this notion was not confined to the ancients. Shakspeare says:
 
@@ -491,7 +491,7 @@ In gentle accents breathes connubial love.
 
 The hero's passion for Abla is often described as a consuming flame: “Quit me not,” he conjures the turtle-dove—“quit me not till I die of love, the victim of passion, of absence and separation.” Our great dramatist affirms that “men have died, and worms have eaten them, but not for love.” Had Shakspeare never heard of the gallant Troubadour Geoffrey Rudel, who died for love—and love, too, from hearsay description of the beauty of the Countess of Tripoli? Barton, in his _History of English Poetry_, tells the sad story: how the poet sailed for Tripoli; fell sick on the voyage from the fever of expectation; was taken ashore at Tripoli, dying; how the Countess, hearing of his arrival, hastened to the shore and took him by the hand, but the poet could only murmur his satisfaction at having seen her, and expired. The Countess very properly made him a handsome funeral, and erected a tomb of porphyry over his remains, inscribed with an epitaph in Arabic verse.—“Dying for love,” says Richardson, “is considered amongst us as a mere poetic figure; and we certainly can support the reality by few examples; but in Eastern countries it seems to be something more: many words in the Arabic and Persian languages which express Love implying also Melancholy, Madness, and Death.”
 
-<span id="p458">[<sup><small>p. 458</small></sup>]</span>
+<span id="p458"><sup><small>[ p. 458 ]</small></sup></span>
 
 Another story of dying for love—or from grief at the loss of a beloved one—is furnished by Oriental writers in their accounts of the reign of Yezid II., the ninth Khalif of the house of ’Umayya. This monarch was passionately fond of a beautiful and amiable singing-girl named Hababa; and one day, while they were at dinner together, Yezid playfully threw a grape at her, which she took up and put in her mouth, to eat it; but the grape, slipping down her throat, stuck across the passage and choked her, almost instantly. The melancholy accident so affected Yezid that he fell into an excess of grief, and was inconsolable for the loss of so amiable a creature. He would not suffer her body to be buried for several days, and even the tomb could not cure his frenzy. He ordered her grave to be opened, and the body of the girl to be once more exposed to his view. In short, being incapable of moderating his grief, he survived her only fifteen days, and before he expired he ordered his remains to be deposited in a grave near that of his darling. This happened in the year of the Hijra 105 (a.d. 723).
 

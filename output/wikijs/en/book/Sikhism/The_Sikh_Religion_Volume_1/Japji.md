@@ -44,7 +44,7 @@ The True One was in the beginning; the True One was in the primal age.
 
 The True One is[^5] now also, O Nanak; the True One also shall be.[^6]
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 ### I
 
@@ -67,7 +67,7 @@ He who understandeth God's order, O Nanak, is never guilty of egoism.[^5]
 ### III
 
 Who can sing His power? Who hath power to _sing it_?[^6]
-Who can sing His gifts or know His signs?[^7] <span id="p197">[<sup><small>p. 197</small></sup>]</span>
+Who can sing His gifts or know His signs?[^7] <span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 Who can sing His attributes, His greatness, and His deeds?[^1]
 Who can sing is knowledge whose study is arduous?
 Who can sing Him, who fashioneth the body and _again_ destroyeth it?
@@ -89,7 +89,7 @@ Then what can we offer Him whereby His court may be seen?
 What words shall we utter with our lips, on hearing which He. may love us?
 At the ambrosial hour of _morning_ meditate on the true Name and _God's_ greatness.
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 The Kind One will give us a robe of honour, and by His favour we shall reach the gate of salvation.[^1]
 Nanak, we shall thus know that God is altogether true.[^2]
@@ -105,7 +105,7 @@ _Thus_ shall your sorrows be removed, and you shall be absorbed in Him who is th
 Under the Guru',; instruction God's word is heard; under the Guru's instruction its knowledge is acquired; under the Guru's instruction man learns that God is everywhere contained.[^4]
 The Guru is Shiv; the Guru is Vishnu and Brahma; the Guru is Parbati, Lakhshmi,[^5] and Saraswati.[^6]
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 If I knew Him, should I not describe Him? He cannot be described by words.
 My Guru hath explained one thing to me—
@@ -127,7 +127,7 @@ Were he to obtain a great name and praise and renown in the world;
 If God's look of favour fell not on him, no one would notice him.
 He would be accounted a worm among worms, and even sinners would impute sin to him.
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 Nanak, God may bestow virtue on those who are devoid
 of it, as well as on those who _already_ possess it;
@@ -157,7 +157,7 @@ By hearing the Name truth, contentment, and divine knowledge _are obtained_.
 Hearing the. Name. is equal to bathing at the sixty-eight _places of pilgrimage_.
 By hearing the Name and reading it man obtaineth honour.[^5]
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 By hearing the Name the mind is composed and fixed on God.[^1]
 Nanak, the saints are ever happy.
@@ -190,7 +190,7 @@ By obeying Him man shall not depart with Jam[^4]
 So pure is God's name—
 Whoever obeyeth God knoweth the pleasure of it in his own heart.
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 ### XIV
 
@@ -216,7 +216,7 @@ The elect[^3] are acceptable, the elect are distinguished
 The elect obtain honour in God's court;
 The elect shed lustre[^4] on the courts of kings.
 The attention of the elect is bestowed on the one Guru.[^5]
-If any one say he can form an idea of God, _he way say so_, <span id="p203">[<sup><small>p. 203</small></sup>]</span>
+If any one say he can form an idea of God, _he way say so_, <span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 _But_ the Creator's works cannot be numbered.
 The bull _that is spoken of_ is righteousness, the offspring of mercy,
 Which supported by patience maintaineth the order of nature.[^1]
@@ -241,7 +241,7 @@ Thou, O Formless One, art ever secure.
 
 Numberless thy worshippers[^5], and numberless Thy lovers
 Numberless Thine adorers, and numberless they who perform austerities for Thee
-Numberless the reciters of _sacred_ books and Veds <span id="p204">[<sup><small>p. 204</small></sup>]</span>
+Numberless the reciters of _sacred_ books and Veds <span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 Numberless Thy Jogis whose hearts are indifferent _to the world_;
 Numberless the saints who ponder on Thine attributes and divine knowledge;
 Numberless Thy true men; numberless Thine almsgivers
@@ -267,7 +267,7 @@ _So lowly am I_, I cannot even once be a sacrifice unto Thee.
 Whatever pleaseth Thee is good.
 O Formless One, Thou art ever Secure.
 
-<span id="p205">[<sup><small>p. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 ### XIX
 
@@ -297,7 +297,7 @@ So when the mind is defiled by sin,
 It is cleansed by the love[^4] of the Name.
 Men do not become saints or sinners by merely calling themselves so.
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 _The recording angels_ take with them a record of man's acts.
 It is he himself soweth, and he himself eateth.
@@ -319,7 +319,7 @@ The Pandits did not discover; had they done so, they would have recorded it in t
 Nor did the Qazis[^2] discover it; had they done so, they would have recorded it in the Quran:
 Neither the Jogi nor any other _mortal_ knows the lunar day, or the week-day, or the season, or the month.
 Only the Creator who fashioned the world knoweth _when He did so_.
-How shall I address Thee, O God? how shall I praise Thee? how shall I describe Thee? and how shall I know Thee? <span id="p207">[<sup><small>p. 207</small></sup>]</span>
+How shall I address Thee, O God? how shall I praise Thee? how shall I describe Thee? and how shall I know Thee? <span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 Saith Nanak, everybody speaketh of Thee, one wiser than another.
 Great is the Lord, great is His name; what He doeth cometh to pass.
 Nanak, he who is proud shall not be honoured on his arrival in the next world.
@@ -339,7 +339,7 @@ As rivers and streams fall into the sea, but know not _its extent_.
 Kings and emperors who possess oceans and mountains of property and wealth,[^4]
 Are not equal to the worm which forgetteth not God in its heart.
 
-<span id="p208">[<sup><small>p. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 ### XXIV
 
@@ -371,7 +371,7 @@ How many fools there are who _merely_ eat!
 How many are ever dying in distress and hunger
 O Giver, these are also Thy gifts.
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 Rebirth[^1] and deliverance depend on Thy will:
 Nobody can interfere with it.
@@ -395,7 +395,7 @@ Priceless Thy mercy and priceless Thine ordinances.
 How beyond all price _Thou art_ cannot be stated.
 Ever speaking of Thee men continue to fix their thoughts on Thee.[^7]
 
-<span id="p212">[<sup><small>p. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 That God is ever true, He is the true Lord, and the true Name.
 He who made this world is and shall be; He shall neither depart, nor be made to depart.[^1]
@@ -427,7 +427,7 @@ The hosts who wear the colours of Thy faith.
 All things beside which sing Thy glorious name,
 Could ne'er be told by Nanak's lowly song.
 
-<span id="p213">[<sup><small>p. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 HAIL![^1] HAIL TO HIM,
 
@@ -455,7 +455,7 @@ HAIL! HAIL TO HIM,
 
 The primal, the pure, without beginning, the indestructible, the same in every age!
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 ### XXXI
 
@@ -488,7 +488,7 @@ He in whose arm there is strength, may see what he can do.
 Nanak, no one is of superior or inferior _strength_ before God.
 
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 ### XXXIV
 
@@ -518,7 +518,7 @@ How many demigods and demons! how many saints, how many jewels and seas!
 How many sources of life! how many languages! and how many lines of kings!
 How many possessors of divine knowledge! now many worshippers! Nanak, there is no end of them.
 
-<span id="p216">[<sup><small>p. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 ### XXXVI
 
@@ -548,7 +548,7 @@ He looketh on its denizens with an eye of favour, and rendereth them happy.
 There are continents, worlds, and universes.
 Whoever trieth to describe them shall never arrive at an end.
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 There are worlds upon worlds and forms _upon forms_.
 They _fulfil_ their functions according to God's orders:
@@ -574,7 +574,7 @@ According to men's acts, some shall be near, and others distant _from God_.
 They who have pondered on the Name and departed after the completion of their toil,[^3]
 Shall have their countenances made bright, O Nanak; how many shall be emancipated in company with them!
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

@@ -54,7 +54,7 @@ Muṭarrízí, the earliest scholiast, was born in A.H. 458, or only twenty-two 
 
 In the case of the Maqámát of Hamadhání there was probably no vocalized text in circulation, and there certainly was no commentary for more than nine centuries. Without such aids a literary work of this kind, covering so wide a field and written in an original and ornate style, would present considerable difficulty even to the ripe scholar, while to the struggling student it was doomed to be what it actually became, virtually a sealed book. These circumstances and facts account, to some extent at least, for the long neglect of this classic in Arabic literature.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 If this translation of the text and the efforts to elucidate it but result in making the author known, as he certainly deserves to be, to a wider circle of readers, the labours of the translator will not have been in vain.
 

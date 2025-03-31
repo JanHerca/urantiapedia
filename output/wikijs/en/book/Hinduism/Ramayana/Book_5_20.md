@@ -117,7 +117,7 @@ Each chamber, hall, and corridor,
 And arbour bright with scented bloom.
 And lodge and cell and picture-room.
 
-<span id="p403">[<sup><small>p. 403</small></sup>]</span>
+<span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 
 With eager eye and noiseless feet
 He passed through many a cool retreat
@@ -225,7 +225,7 @@ The lady back with triumphing,’
 He cleared the barrier at a bound;
 He stood within the pleasant ground,
 
-<span id="p404">[<sup><small>p. 404</small></sup>]</span>
+<span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 
 And with delighted eyes surveyed
 The climbing plants and varied shade,
@@ -339,7 +339,7 @@ A life in lonely forests chose.
 This, this is she so fair of mould.
 Whose limbs are bright as burnished gold.
 
-<span id="p405">[<sup><small>p. 405</small></sup>]</span>
+<span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 
 Whose voice was ever soft and mild.
 Who sweetly spoke and sweetly smiled.
@@ -438,7 +438,7 @@ The monarch reached the garden gate,
 While gold and silver torches, fed
 With scented oil a soft light shed.  [^830]
 
-<span id="p406">[<sup><small>p. 406</small></sup>]</span>
+<span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 
 He, while the flame of fierce desire
 Burnt in his eyes like kindled fire,
@@ -539,7 +539,7 @@ Has reft from every plundered land,—
 To thee I give th\*\*\* this day
 And at thy feet my kingdom lay.
 
-<span id="p407">[<sup><small>p. 407</small></sup>]</span>
+<span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
 The broad rich earth will I o'errun,
 And leave no town unconquered, none;

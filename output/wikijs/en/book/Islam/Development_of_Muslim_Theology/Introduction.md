@@ -34,9 +34,9 @@ dateCreated: 2024-11-26T20:22:12Z
 
 
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 IN human progress unity and complexity are the two correlatives forming together the great paradox. Life is manifold, but it is also one. So it is seldom possible, and still more seldom advisable, to divide a civilization into departments and to attempt to trace their separate developments; life nowhere can be cut in two with a hatchet. And this is emphatically true of the civilization of Islam. Its intellectual unity, for good and for evil, is its outstanding quality. It may have solved the problem of faith and science, as some hold; it may have crushed all thought which is not of faith, as many others hold. However that may be, its life and thought are a unity.
 

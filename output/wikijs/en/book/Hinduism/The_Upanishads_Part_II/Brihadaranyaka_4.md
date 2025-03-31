@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 FOURTH ADHYÂYA.
 
@@ -54,7 +54,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘Your Majesty, this (Brahman) stands on one leg o
 
 <i>G</i>anaka Vaideha said: ‘Then tell me, Yâ<i>g</i>_ñ_avalkya.’
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya said: ‘The tongue is its body, ether its place, and one should worship it as knowledge.’
 
@@ -70,7 +70,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘My father was of opinion that one should not acc
 
 <i>G</i>anaka Vaideha replied: ‘Udaṅka <i>S</i>aulbâyana told me that life (prâ<i>n</i>a) [^463] is Brahman.’
 
-Yâ<i>g</i>_ñ_avalkya said: ‘As one who had (the benefit of a good) father, mother, and teacher might tell, so did <span id="p154">[<sup><small>p. 154</small></sup>]</span> Udaṅka <i>S</i>aulbâyana tell you that life is Brahman; for what is the use of a person without life? But did he tell you the body and the resting-place of that Brahman?’
+Yâ<i>g</i>_ñ_avalkya said: ‘As one who had (the benefit of a good) father, mother, and teacher might tell, so did <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> Udaṅka <i>S</i>aulbâyana tell you that life is Brahman; for what is the use of a person without life? But did he tell you the body and the resting-place of that Brahman?’
 
 <i>G</i>anaka Vaideha said: ‘He did not tell me.’
 
@@ -90,7 +90,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘My father was of opinion that one should not acc
 
 4\. Yâ<i>g</i>_ñ_avalkya said: ‘Let us hear what anybody may have told you.’
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 <i>G</i>anaka Vaideha replied: ‘Barku Vârsh<i>n</i>a told me that sight (<i>k</i>akshus) is Brahman.’
 
@@ -116,7 +116,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘My father was of opinion that one should not acc
 
 <i>G</i>anaka Vaideha replied: ‘Gardabhîvibhîta Bhâradvâ<i>g</i>a told me that hearing (<i>s</i>ruta) is Brahman.’
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya said: ‘As one who had (the benefit of a good) father, mother, and teacher might tell, so did Gardabhîvibhîta Bhâradvâ<i>g</i>a tell you that hearing is Brahman; for what is the use of a person who cannot hear? But did he tell you the body and the resting-place of that Brahman?’
 
@@ -138,7 +138,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘My father was of opinion that one should not acc
 
 6\. Yâ<i>g</i>_ñ_avalkya said: ‘Let us hear what anybody may have told you.’
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 <i>G</i>anaka Vaideha replied: ‘Satyakâma <i>G</i>âbâla told me that mind [^466] (manas) is Brahman.’
 
@@ -164,7 +164,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘My father was of opinion that one should not acc
 
 <i>G</i>anaka Vaideha replied: ‘Vidagdha <i>S</i>âkalya told me that the heart (hridaya) is Brahman.’
 
-Yâ<i>g</i>_ñ_avalkya said: ‘As one who had (the benefit <span id="p158">[<sup><small>p. 158</small></sup>]</span> of a good) father, mother, and teacher might tell, so did Vidagdha <i>S</i>âkalya tell you that the heart is Brahman; for what is the use of a person without a heart? But did he tell you the body and the resting-place of that Brahman?’
+Yâ<i>g</i>_ñ_avalkya said: ‘As one who had (the benefit <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> of a good) father, mother, and teacher might tell, so did Vidagdha <i>S</i>âkalya tell you that the heart is Brahman; for what is the use of a person without a heart? But did he tell you the body and the resting-place of that Brahman?’
 
 <i>G</i>anaka Vaideha said: ‘He did not tell me.’
 
@@ -187,7 +187,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘My father was of opinion that one should not acc
 
 1\. <i>G</i>anaka Vaideha, descending from his throne, said: ‘I bow to you, O Yâ<i>g</i>_ñ_avalkya, teach me.’
 
-Yâ<i>g</i>_ñ_avalkya said: ‘Your Majesty, as a man who wishes to make a long journey, would furnish himself with a chariot or a ship, thus is your mind well <span id="p159">[<sup><small>p. 159</small></sup>]</span> furnished by these Upanishads [^467]. You are honourable, and wealthy, you have learnt the Vedas and been told the Upanishads. Whither then will you go when departing hence?’
+Yâ<i>g</i>_ñ_avalkya said: ‘Your Majesty, as a man who wishes to make a long journey, would furnish himself with a chariot or a ship, thus is your mind well <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> furnished by these Upanishads [^467]. You are honourable, and wealthy, you have learnt the Vedas and been told the Upanishads. Whither then will you go when departing hence?’
 
 <i>G</i>anaka Vaideha said: ‘Sir, I do not know whither I shall go.’
 
@@ -197,7 +197,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘Then I shall tell you this, whither you will go.
 
 2\. Yâ<i>g</i>_ñ_avalkya said: 'That person who is in the right eye [^468], he is called Indha, and him who is Indha they call indeed [^469] Indra mysteriously, for the gods love what is mysterious, and dislike what is evident.
 
-3\. 'Now that which in the shape of a person is in the right eye, is his wife, Virâ<i>g</i> [^470]. Their meeting-place [^471] is the ether within the heart, and their food the red lump within the heart. Again, their covering [^472] is that which is like net-work within the heart, and the road on which they move (from sleep to waking) is the artery that rises upwards from the heart. Like a hair divided into a thousand parts, so are the veins of it, which are called Hita [^473], placed <span id="p160">[<sup><small>p. 160</small></sup>]</span> firmly within the heart. Through these indeed that (food) flows on flowing, and he (the Tai<i>g</i>asa) receives as it were purer food [^474] than the corporeal Self (the Vai<i>s</i>vânara).
+3\. 'Now that which in the shape of a person is in the right eye, is his wife, Virâ<i>g</i> [^470]. Their meeting-place [^471] is the ether within the heart, and their food the red lump within the heart. Again, their covering [^472] is that which is like net-work within the heart, and the road on which they move (from sleep to waking) is the artery that rises upwards from the heart. Like a hair divided into a thousand parts, so are the veins of it, which are called Hita [^473], placed <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> firmly within the heart. Through these indeed that (food) flows on flowing, and he (the Tai<i>g</i>asa) receives as it were purer food [^474] than the corporeal Self (the Vai<i>s</i>vânara).
 
 4\. 'His (the Tai<i>g</i>asa's) Eastern quarter are the prâ<i>n</i>as (breath) which go to the East;
 
@@ -216,11 +216,11 @@ Yâ<i>g</i>_ñ_avalkya said: ‘Then I shall tell you this, whither you will go.
 Then <i>G</i>anaka said: ‘May that fearlessness come to you also who teachest us fearlessness. I bow to you. Here are the Videhas, and here am I (thy slave).’
 
 
-<span id="p161">[<sup><small>p. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 ## THIRD BRÂHMA<i>N</i>A.
 
-1\. Yâ<i>g</i>_ñ_avalkya came to <i>G</i>anaka Vaideha, and he did not mean to speak with him [^476]. But when formerly <span id="p162">[<sup><small>p. 162</small></sup>]</span> <i>G</i>anaka Vaideha and Yâ<i>g</i>_ñ_avalkya had a disputation on the Agnihotra, Yâ<i>g</i>_ñ_avalkya had granted him a boon, and he chose (for a boon) that he might be free to ask him any question he liked. Yâ<i>g</i>_ñ_avalkya granted it, and thus the King was the first to ask him a question.
+1\. Yâ<i>g</i>_ñ_avalkya came to <i>G</i>anaka Vaideha, and he did not mean to speak with him [^476]. But when formerly <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> <i>G</i>anaka Vaideha and Yâ<i>g</i>_ñ_avalkya had a disputation on the Agnihotra, Yâ<i>g</i>_ñ_avalkya had granted him a boon, and he chose (for a boon) that he might be free to ask him any question he liked. Yâ<i>g</i>_ñ_avalkya granted it, and thus the King was the first to ask him a question.
 
 2\. ‘Yâ<i>g</i>_ñ_avalkya,’ he said, ‘what is the light of man [^477]?’
 
@@ -236,7 +236,7 @@ Yâ<i>g</i>_ñ_avalkya replied: ‘The moon indeed is his light; for, having the
 
 4\. <i>G</i>anaka Vaideha said: ‘When the sun has set, O Yâ<i>g</i>_ñ_avalkya, and the moon has set, what is the light of man?’
 
-Yâ<i>g</i>_ñ_avalkya replied: ‘Fire indeed is his light; <span id="p163">[<sup><small>p. 163</small></sup>]</span> for, having fire alone for his light, man sits, moves about, does his work, and returns.’
+Yâ<i>g</i>_ñ_avalkya replied: ‘Fire indeed is his light; <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> for, having fire alone for his light, man sits, moves about, does his work, and returns.’
 
 5\. <i>G</i>anaka Vaideha said: ‘When the sun has set, O Yâ<i>g</i>_ñ_avalkya, and the moon has set, and the fire is gone out, what is then the light of man?’
 
@@ -252,13 +252,13 @@ Yâ<i>g</i>_ñ_avalkya said: ‘The Self indeed is his light; for, having the Se
 
 Yâ<i>g</i>_ñ_avalkya replied: 'He who is within the heart, surrounded by the Prâ<i>n</i>as [^478] (senses), the person of light, consisting of knowledge. He, remaining the same, wanders along the two worlds [^479], as if [^480] thinking, as if moving. During sleep (in dream) he transcends this world and all the forms of death (all that falls under the sway of death, all that is perishable).
 
-8\. 'On being born that person, assuming his body, <span id="p164">[<sup><small>p. 164</small></sup>]</span> becomes united with all evils; when he departs and dies, he leaves all evils behind.
+8\. 'On being born that person, assuming his body, <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> becomes united with all evils; when he departs and dies, he leaves all evils behind.
 
 9\. 'And there are two states for that person, the one here in this world, the other in the other world, and as a third [^481] an intermediate state, the state of sleep. When in that intermediate state, he sees both those states together, the one here in this world, and the other in the other world. Now whatever his admission to the other world may be, having gained that admission, he sees both the evils and the blessings [^482].
 
 ‘And when he falls asleep, then after having taken away with him the material from the whole world, destroying [^483] and building it up again, he sleeps (dreams) by his own light. In that state the person is self-illuminated.
 
-10\. 'There are no (real) chariots in that state, no horses, no roads, but he himself sends forth (creates) chariots, horses, and roads. There are no blessings there, no happiness, no joys, but he himself sends forth (creates) blessings, happiness, and joys. There <span id="p165">[<sup><small>p. 165</small></sup>]</span> are no tanks there, no lakes, no rivers, but he himself sends forth (creates) tanks, lakes, and rivers. He indeed is the maker.
+10\. 'There are no (real) chariots in that state, no horses, no roads, but he himself sends forth (creates) chariots, horses, and roads. There are no blessings there, no happiness, no joys, but he himself sends forth (creates) blessings, happiness, and joys. There <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> are no tanks there, no lakes, no rivers, but he himself sends forth (creates) tanks, lakes, and rivers. He indeed is the maker.
 
 11\. 'On this there are these verses:
 
@@ -272,7 +272,7 @@ Yâ<i>g</i>_ñ_avalkya replied: 'He who is within the heart, surrounded by the P
 
 ‘Here some people (object and) say: “No, this (sleep) is the same as the place of waking, for what he sees while awake, that only he sees when asleep [^486].”
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 No, here (in sleep) the person is self-illuminated (as we explained before).’
 
@@ -280,7 +280,7 @@ No, here (in sleep) the person is self-illuminated (as we explained before).’
 
 15\. Yâ<i>g</i>_ñ_avalkya said: ‘That (person) having enjoyed himself in that state of bliss (samprasâda, deep sleep), having moved about and seen both good and evil, hastens back again as he came, to the place from which he started (the place of sleep), to dream [^487]. And whatever he may have seen there, he is not followed (affected) by it, for that person is not attached to anything.’
 
-<i>G</i>anaka Vaideha said: ‘So it is indeed, Yâ<i>g</i>_ñ_avalkya. <span id="p167">[<sup><small>p. 167</small></sup>]</span> I give you, Sir, a thousand. Speak on for the sake of emancipation.’
+<i>G</i>anaka Vaideha said: ‘So it is indeed, Yâ<i>g</i>_ñ_avalkya. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> I give you, Sir, a thousand. Speak on for the sake of emancipation.’
 
 16\. Yâ<i>g</i>_ñ_avalkya said: ‘That (person) having enjoyed himself in that sleep (dream), having moved about and seen both good and evil, hastens back again as he came, to the place from which he started, to be awake. And whatever he may have seen there, he is not followed (affected) by it, for that person is not attached to anything.’
 
@@ -292,13 +292,13 @@ No, here (in sleep) the person is self-illuminated (as we explained before).’
 
 19\. 'And as a falcon, or any other (swift) bird, after he has roamed about here in the air, becomes tired, and folding his wings is carried to his nest, so does that person hasten to that state where, when asleep, he desires no more desires, and dreams no more dreams.
 
-20\. 'There are in his body the veins called Hitâ, which are as small as a hair divided a thousandfold, full of white, blue, yellow, green, and red [^488]. Now <span id="p168">[<sup><small>p. 168</small></sup>]</span> when, as it were, they kill him, when, as it were they overcome him, when, as it were, an elephant chases him, when, as it were, he falls into a well, he fancies, through ignorance, that danger which he (commonly) sees in waking. But when he fancies that he is, as it were, a god, or that he is, as it were, a king [^489], or “I am this altogether,” that is his highest world [^490].
+20\. 'There are in his body the veins called Hitâ, which are as small as a hair divided a thousandfold, full of white, blue, yellow, green, and red [^488]. Now <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> when, as it were, they kill him, when, as it were they overcome him, when, as it were, an elephant chases him, when, as it were, he falls into a well, he fancies, through ignorance, that danger which he (commonly) sees in waking. But when he fancies that he is, as it were, a god, or that he is, as it were, a king [^489], or “I am this altogether,” that is his highest world [^490].
 
-21\. 'This indeed is his (true) form, free from desires, free from evil, free from fear [^491]. Now as a man, when embraced by a beloved wife, knows nothing that is without, nothing that is within, thus this person, when embraced by the intelligent (prâ<i>g</i>_ñ_a) Self, knows nothing that is without, nothing that is within. This indeed is his (true) form, in which his wishes are fulfilled, in which the Self (only) is <span id="p169">[<sup><small>p. 169</small></sup>]</span> his wish, in which no wish is left,—free from any sorrow [^492].
+21\. 'This indeed is his (true) form, free from desires, free from evil, free from fear [^491]. Now as a man, when embraced by a beloved wife, knows nothing that is without, nothing that is within, thus this person, when embraced by the intelligent (prâ<i>g</i>_ñ_a) Self, knows nothing that is without, nothing that is within. This indeed is his (true) form, in which his wishes are fulfilled, in which the Self (only) is <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> his wish, in which no wish is left,—free from any sorrow [^492].
 
 22\. 'Then a father is not a father, a mother not a mother, the worlds not worlds, the gods not gods, the Vedas not Vedas. Then a thief is not a thief, a murderer not a murderer [^493], a <i>K</i>â<i>n</i><i>d</i>âla [^494] not a <i>K</i>â<i>n</i><i>d</i>âla, a Paulkasa [^495] not a Paulkasa, a <i>S</i>rama<i>n</i>a [^496] not a <i>S</i>rama<i>n</i>a, a Tâpasa [^497] not a Tâpasa. He is not followed by good, not followed by evil, for he has then overcome all the sorrows of the heart [^498].
 
-23\. 'And when (it is said that) there (in the Sushupti) he does not see, yet he is seeing, though he does not see [^499]. For sight is inseparable from the <span id="p170">[<sup><small>p. 170</small></sup>]</span> seer, because it cannot perish. But there is then no second, nothing else different from him that he could see.
+23\. 'And when (it is said that) there (in the Sushupti) he does not see, yet he is seeing, though he does not see [^499]. For sight is inseparable from the <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> seer, because it cannot perish. But there is then no second, nothing else different from him that he could see.
 
 24\. 'And when (it is said that) there (in the Sushupti) he does not smell, yet he is smelling, though he does not smell. For smelling is inseparable from the smeller, because it cannot perish. But there is then no second, nothing else different from him that he could smell.
 
@@ -308,7 +308,7 @@ No, here (in sleep) the person is self-illuminated (as we explained before).’
 
 27\. 'And when (it is said that) there (in the Sushupti) he does not hear, yet he is hearing, though he does not hear. For hearing is inseparable from the hearer, because it cannot perish. But. there is then no second, nothing else different from him that he could hear.
 
-28\. 'And when (it is said that) there (in the Sushupti) he does not think, yet he is thinking, though he does not think. For thinking is inseparable from the thinker, because it cannot perish. <span id="p171">[<sup><small>p. 171</small></sup>]</span> But there is then no second, nothing else different from him that he could think.
+28\. 'And when (it is said that) there (in the Sushupti) he does not think, yet he is thinking, though he does not think. For thinking is inseparable from the thinker, because it cannot perish. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> But there is then no second, nothing else different from him that he could think.
 
 29\. 'And when (it is said that) there (in the Sushupti) he does not touch, yet he is touching, though he does not touch. For touching is inseparable from the toucher, because it cannot perish. But there is then no second, nothing else different from him that he could think.
 
@@ -318,7 +318,7 @@ No, here (in sleep) the person is self-illuminated (as we explained before).’
 
 32\. ‘An ocean [^500] is that one seer, without any duality; this is the Brahma-world [^501], O King.’ Thus did Yâ<i>g</i>_ñ_avalkya teach him. This is his highest goal, this is his highest Success, this is his highest world, this is his highest bliss. All other creatures live on a small portion of that bliss.
 
-33\. 'If a man is healthy, wealthy, and lord of others, surrounded by all human enjoyments, that <span id="p172">[<sup><small>p. 172</small></sup>]</span> is the highest blessing of men. Now a hundred of these human blessings make one blessing of the fathers who have conquered the world (of the fathers). A hundred blessings of the fathers who have conquered this world make one blessing in the Gandharva world. A hundred blessings in the Gandharva world make one blessing of the Devas by merit (work, sacrifice), who obtain their godhead by merit. A hundred blessings of the Devas by merit make one blessing of the Devas by birth, also (of) a <i>S</i>rotriya [^502] who is without sin, and not overcome by desire. A hundred blessings of the Devas by birth make one blessing in the world of Pra<i>g</i>âpati, also (of) a <i>S</i>rotriya who is without sin, and not overcome. by desire. A hundred blessings in the world of Pra<i>g</i>âpati make one blessing in the world of Brahman, also (of) a <i>S</i>rotriya who is without sin, and not overcome by desire. And this is the highest blessing [^503].
+33\. 'If a man is healthy, wealthy, and lord of others, surrounded by all human enjoyments, that <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> is the highest blessing of men. Now a hundred of these human blessings make one blessing of the fathers who have conquered the world (of the fathers). A hundred blessings of the fathers who have conquered this world make one blessing in the Gandharva world. A hundred blessings in the Gandharva world make one blessing of the Devas by merit (work, sacrifice), who obtain their godhead by merit. A hundred blessings of the Devas by merit make one blessing of the Devas by birth, also (of) a <i>S</i>rotriya [^502] who is without sin, and not overcome by desire. A hundred blessings of the Devas by birth make one blessing in the world of Pra<i>g</i>âpati, also (of) a <i>S</i>rotriya who is without sin, and not overcome. by desire. A hundred blessings in the world of Pra<i>g</i>âpati make one blessing in the world of Brahman, also (of) a <i>S</i>rotriya who is without sin, and not overcome by desire. And this is the highest blessing [^503].
 
 ‘This is the Brahma-world, O king,’ thus spake Yâ<i>g</i>_ñ_avalkya.
 
@@ -326,7 +326,7 @@ No, here (in sleep) the person is self-illuminated (as we explained before).’
 
 Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of understanding, should drive him from all his positions [^504].
 
-34\. And Yâ<i>g</i>_ñ_avalkya said: 'That (person), having enjoyed himself in that state of sleeping (dream), <span id="p173">[<sup><small>p. 173</small></sup>]</span> having moved about and seen both good and bad, hastens back again as he came, to the place from which he started, to the state of waking [1](Brihadaranyaka_4#fn505).
+34\. And Yâ<i>g</i>_ñ_avalkya said: 'That (person), having enjoyed himself in that state of sleeping (dream), <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> having moved about and seen both good and bad, hastens back again as he came, to the place from which he started, to the state of waking [1](Brihadaranyaka_4#fn505).
 
 35\. 'Now as a heavy-laden carriage moves along groaning, thus does this corporeal Self, mounted by the intelligent Self, move along groaning, when a man is thus going to expire [2](Brihadaranyaka_4#fn506).
 
@@ -339,15 +339,15 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 ## FOURTH BRÂHMA<i>N</i>A.
 
-1\. Yâ<i>g</i>_ñ_avalkya continued: 'Now when that Self, having sunk into weakness [^507], sinks, as it were, into <span id="p174">[<sup><small>p. 174</small></sup>]</span> unconsciousness, then gather those senses (prâ<i>n</i>as) around him, and he, taking with him those elements of light, descends into the heart When that person in the eye [^508] turns away, then he ceases to know any forms.
+1\. Yâ<i>g</i>_ñ_avalkya continued: 'Now when that Self, having sunk into weakness [^507], sinks, as it were, into <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> unconsciousness, then gather those senses (prâ<i>n</i>as) around him, and he, taking with him those elements of light, descends into the heart When that person in the eye [^508] turns away, then he ceases to know any forms.
 
-2\. '“He has become one,” they say, “he does not see [^509].” “He has become one,” they say, “he does not smell.” “He has become one,” they say, “he does not taste.” “He has become one,” they say, “he does not speak.” “He has become one,” they say, “he does not hear.” “He has become one,” they say, “he does not think.” “He has become one,” they say, “he does not touch.” “He has become one,” they say, “he does not know.” The point of his heart [^510] becomes lighted up, and by that light the Self departs, either through the eye [^511], or through the skull [^512], or through other places of the body. And when he thus departs, life (the chief prâ<i>n</i>a) departs after him, and when life thus departs, all the other <span id="p175">[<sup><small>p. 175</small></sup>]</span> vital spirits (prâ<i>n</i>as) depart after it. He is conscious, and being conscious he follows [^513] and departs.
+2\. '“He has become one,” they say, “he does not see [^509].” “He has become one,” they say, “he does not smell.” “He has become one,” they say, “he does not taste.” “He has become one,” they say, “he does not speak.” “He has become one,” they say, “he does not hear.” “He has become one,” they say, “he does not think.” “He has become one,” they say, “he does not touch.” “He has become one,” they say, “he does not know.” The point of his heart [^510] becomes lighted up, and by that light the Self departs, either through the eye [^511], or through the skull [^512], or through other places of the body. And when he thus departs, life (the chief prâ<i>n</i>a) departs after him, and when life thus departs, all the other <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> vital spirits (prâ<i>n</i>as) depart after it. He is conscious, and being conscious he follows [^513] and departs.
 
 ‘Then both his knowledge and his work take hold of him, and his acquaintance with former things [^514].’
 
 3\. 'And as a caterpillar, after having reached the end of a blade of grass, and after having made another approach (to another blade) [^515], draws itself together towards it, thus does this Self, after having thrown off this body [^516] and dispelled all ignorance, and after making another approach (to another body), draw himself together towards it.
 
-4\. And as a goldsmith, taking a piece of gold, turns it into another, newer and more beautiful shape, so does this Self, after having thrown off this body <span id="p176">[<sup><small>p. 176</small></sup>]</span> and dispelled all ignorance, make unto himself another, newer and more beautiful shape, whether it be like the Fathers, or like the Gandharvas, or like the Devas, or like Pra<i>g</i>âpati, or like Brahman, or like other beings.
+4\. And as a goldsmith, taking a piece of gold, turns it into another, newer and more beautiful shape, so does this Self, after having thrown off this body <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> and dispelled all ignorance, make unto himself another, newer and more beautiful shape, whether it be like the Fathers, or like the Gandharvas, or like the Devas, or like Pra<i>g</i>âpati, or like Brahman, or like other beings.
 
 5\. 'That Self is indeed Brahman, consisting of knowledge, mind, life, sight, hearing, earth, water, wind, ether, light and no light, desire and no desire, anger and no anger, right or wrong, and all things. Now as a man is like this or like that [^517], according as he acts and according as he behaves, so will he be:—a man of good acts will become good, a man of bad acts, bad. He becomes pure by pure deeds, bad by bad deeds.
 
@@ -357,7 +357,7 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 ‘So much for the man who desires. But as to the man who does not desire, who, not desiring, freed from desires, is satisfied in his desires, or desires the Self only, his vital spirits do not depart elsewhere,—being Brahman, he goes to Brahman.
 
-7\. 'On this there is this verse: "When all desires <span id="p177">[<sup><small>p. 177</small></sup>]</span> which once entered his heart are undone, then does the mortal become immortal, then he obtains Brahman.
+7\. 'On this there is this verse: "When all desires <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> which once entered his heart are undone, then does the mortal become immortal, then he obtains Brahman.
 
 ‘And as the slough of a snake lies on an ant-hill, dead and cast away, thus lies this body; but that disembodied immortal spirit (prâ<i>n</i>a, life) is Brahman only, is only light.’
 
@@ -371,7 +371,7 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 10\. 'All who worship what is not knowledge (avidyâ) enter into blind darkness: those who delight in knowledge, enter, as it were, into greater darkness [^522].
 
-11\. 'There are [^523] indeed those unblessed worlds, <span id="p178">[<sup><small>p. 178</small></sup>]</span> covered with blind darkness. Men who are ignorant and not enlightened go after death to those worlds.
+11\. 'There are [^523] indeed those unblessed worlds, <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> covered with blind darkness. Men who are ignorant and not enlightened go after death to those worlds.
 
 12\. 'If a man understands the Self, saying, “I am He,” what could he wish or desire that he should pine after the body [^524].
 
@@ -383,7 +383,7 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 16\. 'He behind whom the year revolves with the days, him the gods worship as the light of lights, as immortal time.
 
-17\. 'He in whom the five beings [^528] and the ether rest, him alone I believe to be the Self,—I who <span id="p179">[<sup><small>p. 179</small></sup>]</span> know, believe him to be Brahman; I who am immortal, believe him to be immortal.
+17\. 'He in whom the five beings [^528] and the ether rest, him alone I believe to be the Self,—I who <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> know, believe him to be Brahman; I who am immortal, believe him to be immortal.
 
 18\. 'They who know the life of life, the eye of the eye, the ear of the ear, the mind of the mind, they have comprehended the ancient, primeval Brahman [^529].
 
@@ -395,7 +395,7 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 22\. 'And he is that great unborn Self, who consists of knowledge, is surrounded by the Prâ<i>n</i>as, the ether within the heart [^532]. In it there reposes the ruler of all, the lord of all, the king of all. He does not become greater by good works, nor smaller by evil works. He is the lord of all, the king of all things, the protector of all things. He is a bank [^533] and a boundary, so that these worlds may not be confounded. Brâhma<i>n</i>as seek to know him by the study of the Veda, by sacrifice, by gifts, by penance, by fasting, and he who knows him, becomes a Muni. Wishing for that world (for Brahman) only, mendicants leave their homes.
 
-‘Knowing this, the people of old did not wish for offspring. What shall we do with offspring, they said, <span id="p180">[<sup><small>p. 180</small></sup>]</span> we who have this Self and this world (of Brahman) [^534]? And they, having risen above the desire for sons, wealth, and new worlds, wander about as mendicants. For desire for sons is desire for wealth, and desire for wealth is desire for worlds. Both these are indeed desires only. He, the Self, is to be described by No, no [^535]! He is incomprehensible, for he cannot be comprehended; he is imperishable, for he cannot perish; he is unattached, for he does not attach himself; unfettered, he does not suffer, he does not fail. Him (who knows), these two do not overcome, whether he says that for some reason he has done evil, or for some reason he has done good—he overcomes both, and neither what he has done, nor what he has omitted to do, burns (affects) him.
+‘Knowing this, the people of old did not wish for offspring. What shall we do with offspring, they said, <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> we who have this Self and this world (of Brahman) [^534]? And they, having risen above the desire for sons, wealth, and new worlds, wander about as mendicants. For desire for sons is desire for wealth, and desire for wealth is desire for worlds. Both these are indeed desires only. He, the Self, is to be described by No, no [^535]! He is incomprehensible, for he cannot be comprehended; he is imperishable, for he cannot perish; he is unattached, for he does not attach himself; unfettered, he does not suffer, he does not fail. Him (who knows), these two do not overcome, whether he says that for some reason he has done evil, or for some reason he has done good—he overcomes both, and neither what he has done, nor what he has omitted to do, burns (affects) him.
 
 23\. 'This has been told by a verse (<i>Ri</i><i>k</i>): “This eternal greatness of the Brâhma<i>n</i>a does not grow larger by work, nor does it grow smaller. Let man try to find (know) its trace, for having found (known) it, he is not sullied by any evil deed.”
 
@@ -403,7 +403,7 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 <i>G</i>anaka Vaideha said: ‘Sir, I give you the Videhas, and also myself, to be together your slaves.’
 
-24\. This [^537] indeed is the great, the unborn Self, the <span id="p181">[<sup><small>p. 181</small></sup>]</span> strong [^538], the giver of wealth. He who knows this obtains wealth.
+24\. This [^537] indeed is the great, the unborn Self, the <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> strong [^538], the giver of wealth. He who knows this obtains wealth.
 
 25\. This great, unborn Self, undecaying, undying, immortal, fearless, is indeed Brahman. Fearless is Brahman, and he who knows this becomes verily the fearless Brahman.
 
@@ -420,7 +420,7 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 4\. And Maitreyî said: ‘What should I do with that by which I do not become immortal? What my Lord knoweth [^540] (of immortality), tell that clearly to me.’
 
-5\. Yâ<i>g</i>_ñ_avalkya replied: ‘Thou who art truly dear to me, thou hast increased what is dear (to me in <span id="p182">[<sup><small>p. 182</small></sup>]</span> thee) [^541]. Therefore, if you like, Lady, I will explain it to thee, and mark well what I say.’
+5\. Yâ<i>g</i>_ñ_avalkya replied: ‘Thou who art truly dear to me, thou hast increased what is dear (to me in <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> thee) [^541]. Therefore, if you like, Lady, I will explain it to thee, and mark well what I say.’
 
 6\. And he said: 'Verily, a husband is not dear, that you may love the husband; but that you may love the Self, therefore a husband is dear.
 
@@ -440,7 +440,7 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 ‘Verily, the Devas are not dear, that you may love the Devas; but that you may love the Self, therefore the Devas are dear.
 
-<span id="p183">[<sup><small>p. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 ‘Verily, the Vedas are not dear, that you may love the Vedas; but that you may love the Self, therefore the Vedas are dear.
 
@@ -454,7 +454,7 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 ‘This Brahman-class, this Kshatra-class, these worlds, these Devas, these Vedas, all these beings, this everything, all is that Self.
 
-8\. 'Now as the sounds of a drum, when beaten, cannot be seized externally (by themselves), but the sound is seized, when the drum is seized, or the beater of the drum; <span id="p184">[<sup><small>p. 184</small></sup>]</span> 9\. 'And as the sounds of a conch-shell, when blown, cannot be seized externally (by themselves), but the sound is seized, when the shell is seized, or the blower of the shell;
+8\. 'Now as the sounds of a drum, when beaten, cannot be seized externally (by themselves), but the sound is seized, when the drum is seized, or the beater of the drum; <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> 9\. 'And as the sounds of a conch-shell, when blown, cannot be seized externally (by themselves), but the sound is seized, when the shell is seized, or the blower of the shell;
 
 10\. 'And as the sounds of a lute, when played, cannot be seized externally (by themselves), but the sound is seized, when the lute is seized, or the player of the lute;
 
@@ -462,7 +462,7 @@ Then Yâ<i>g</i>_ñ_avalkya was afraid lest the King, having become full of unde
 
 12\. 'As all waters find their centre in the sea, all touches in the skin, all tastes in the tongue, all smells in the nose, all colours in the eye, all sounds in the ear, all percepts in the mind, all- knowledge in the heart, all actions in the hands, all movements in the feet, and all the Vedas in speech,—
 
-13\. ‘As a mass of salt has neither inside nor outside, but is altogether a mass of taste, thus indeed has that Self neither inside nor outside, but is altogether a mass of knowledge; and having risen from out these elements, vanishes again in them. When he has departed, there is no more knowledge (name), I say, O Maitreyî,’—thus spoke Yâ<i>g</i>_ñ_avalkya. <span id="p185">[<sup><small>p. 185</small></sup>]</span> 14\. Then Maitreyî said: ‘Here, Sir, thou hast landed me in utter bewilderment. Indeed, I do not understand him.’
+13\. ‘As a mass of salt has neither inside nor outside, but is altogether a mass of taste, thus indeed has that Self neither inside nor outside, but is altogether a mass of knowledge; and having risen from out these elements, vanishes again in them. When he has departed, there is no more knowledge (name), I say, O Maitreyî,’—thus spoke Yâ<i>g</i>_ñ_avalkya. <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> 14\. Then Maitreyî said: ‘Here, Sir, thou hast landed me in utter bewilderment. Indeed, I do not understand him.’
 
 But he replied: 'O Maitreyî, I say nothing that is bewildering. Verily, beloved, that Self is imperishable, and of an indestructible nature.
 
@@ -475,7 +475,7 @@ But he replied: 'O Maitreyî, I say nothing that is bewildering. Verily, beloved
 
 1\. (We) from Pautimâshya,
 2\. Pautimâshya, from Gaupavana,
-3\. Gaupavana from Pautimâshya, <span id="p186">[<sup><small>p. 186</small></sup>]</span> 4\. Pautimâshya from Gaupavana,
+3\. Gaupavana from Pautimâshya, <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> 4\. Pautimâshya from Gaupavana,
 5\. Gaupavana from Kau<i>s</i>ika,
 6\. Kau<i>s</i>ika from Kau<i>n</i><i>d</i>inya,
 7\. Kau<i>n</i><i>d</i>inya from Sâ<i>n</i><i>d</i>ilya,
@@ -501,7 +501,7 @@ But he replied: 'O Maitreyî, I say nothing that is bewildering. Verily, beloved
 
 3\. from Gh<i>ri</i>takau<i>s</i>ika,
 
-24\. Gh<i>ri</i>takau<i>s</i>ika from Pârâ<i>s</i>aryâya<i>n</i>a, <span id="p187">[<sup><small>p. 187</small></sup>]</span> 25\. Pârâ<i>s</i>aryâya<i>n</i>a from Pârâ<i>s</i>arya,
+24\. Gh<i>ri</i>takau<i>s</i>ika from Pârâ<i>s</i>aryâya<i>n</i>a, <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> 25\. Pârâ<i>s</i>aryâya<i>n</i>a from Pârâ<i>s</i>arya,
 26\. Pârâ<i>s</i>arya from <i>G</i>âtukar<i>n</i>ya,
 27\. <i>G</i>âtukar<i>n</i>ya from Âsurâya<i>n</i>a and Yâska [^547],
 28\. Âsurâya<i>n</i>a from Trava<i>n</i>i,
@@ -530,7 +530,7 @@ But he replied: 'O Maitreyî, I say nothing that is bewildering. Verily, beloved
 51\. M<i>ri</i>tyu Prâdhva<i>m</i>sana from Prâdhva<i>m</i>sana,
 52\. Prâdhva<i>m</i>sana from Ekarshi,
 53\. Ekarshi from Vipra<i>k</i>itti [^548],
-54\. Vipra<i>k</i>itti from Vyash<i>t</i>i, <span id="p188">[<sup><small>p. 188</small></sup>]</span> 55\. Vyash<i>t</i>i from Sanâru,
+54\. Vipra<i>k</i>itti from Vyash<i>t</i>i, <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> 55\. Vyash<i>t</i>i from Sanâru,
 56\. Sanâru from Sanâtana,
 57\. Sanâtana from Sanaga,
 58\. Sanaga from Paramesh<i>th</i>in,

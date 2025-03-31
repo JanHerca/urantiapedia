@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 To Ahura Mazda, bright and glorious [^5], and to the Amesha-Spe<i>ñ</i>tas [^6].
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ## 2\. Bahman.
 
@@ -46,7 +46,7 @@ To Vohu-Manô [^7]; to Peace [^8], whose breath is friendly [^9], and who is mor
 
 To Asha-Vahi<i>s</i>ta, the fairest [^12]; to the much-desired Airyaman, made by Mazda [^13]; to the instrument made by Mazda [^14]; and to the good Saoka [^15], with eyes of love [^16], made by Mazda and holy.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 ## 4\. Shahrêvar.
 
@@ -66,7 +66,7 @@ To Ameretâ<i>t</i> [^21], the master; to fatness and flocks; to the plenty of c
 
 (At the gâh Rapithwin): to Asha-Vahi<i>s</i>ta and to Âtar [^26], the son of Ahura Mazda [^27]
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 (At the gâh Uzîren): to Apãm Napâ<i>t</i> [^28], the tall lord, and to the water made by Mazda [^29].
 
@@ -78,7 +78,7 @@ To Ameretâ<i>t</i> [^21], the master; to fatness and flocks; to the plenty of c
 
 To the Maker Ahura Mazda, bright and glorious, and to the Amesha-Spe<i>n</i>tas.
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 ## 9\. Âdar.
 
@@ -86,7 +86,7 @@ To Âtar, the son of Ahura Mazda; to the Glory and to the Weal, made by Mazda; t
 
 To Âtar, the son of Ahura Mazda; to king Husravah [^41]; to the lake of Husravah [^42]; to Mount Âsnava<i>n</i><i>t</i> [^43], made by Mazda; to Lake <i>K</i>aê<i>k</i>asta [^44], made by Mazda; to the Glory of the Kavis, made by Mazda [^45].
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 To Âtar, the son of Ahura Mazda; to Mount Raêva<i>n</i><i>t</i> [^46], made by Mazda; to the Glory of the Kavis, made by Mazda [^47].
 
@@ -106,7 +106,7 @@ To the undying, shining, swift-horsed Sun [^52].
 
 To the Moon that keeps in it the seed of the Bull [^53]; to the only-created Bull [^54]; to the Bull of many species [^55].
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 ## 13\. Tîr.
 
@@ -130,7 +130,7 @@ To the holy, strong Sraosha [^63], who is the incarnate Word, a mighty-speared a
 
 ## 18\. Rashn.
 
-To Rashnu Razi<i>s</i>ta [^64]; to Ar<i>s</i>tâ<i>t</i> [^65], who makes the <span id="p10">[<sup><small>p. 10</small></sup>]</span> world grow, who makes the world increase; to the true-spoken speech, that makes the world grow.
+To Rashnu Razi<i>s</i>ta [^64]; to Ar<i>s</i>tâ<i>t</i> [^65], who makes the <span id="p10"><sup><small>[ p. 10 ]</small></sup></span> world grow, who makes the world increase; to the true-spoken speech, that makes the world grow.
 
 ## 19\. Farvardîn.
 
@@ -156,7 +156,7 @@ To the Maker, Ahura Mazda, bright and glorious; to the Amesha-Spe<i>n</i>tas.
 
 To the most right <i>K</i>ista [^72], made by Mazda and holy; to the good Law [^72] of the worshippers of Mazda.
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 ## 25\. Ard.
 
@@ -172,7 +172,7 @@ To the high, powerful Heavens; to the bright, all-happy, blissful abode of the h
 
 ## 28\. Zemyâd [^81].
 
-To the bounteous Earth; to these places, to these fields; to Mount Ushi-darena [^80], made by Mazda, the seat of holy happiness; to all the mountains made by Mazda, that are seats of holy happiness, of full happiness; to the kingly Glory made by Mazda; <span id="p12">[<sup><small>p. 12</small></sup>]</span> to that Glory that cannot be forcibly seized [^82], made by Mazda.
+To the bounteous Earth; to these places, to these fields; to Mount Ushi-darena [^80], made by Mazda, the seat of holy happiness; to all the mountains made by Mazda, that are seats of holy happiness, of full happiness; to the kingly Glory made by Mazda; <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> to that Glory that cannot be forcibly seized [^82], made by Mazda.
 
 ## 29\. Mahraspand.
 
@@ -180,7 +180,7 @@ To the holy, righteousness-performing Mãthra Spe<i>n</i>ta [^83]; to the Law op
 
 ## 30\. Anêrân.
 
-To the eternal [^87] and sovereign luminous space [^88]; to the bright Garô-nmâna [^89]; to the sovereign place of eternal Weal [^90]; to the <i>K</i>inva<i>t</i>\-bridge [^91], made by Mazda; to the tall lord Apãm Napâ<i>t</i> [^92] and to the water made by Mazda; to Haoma [^93], of holy birth; to the pious and good Blessing; to the awful cursing thought of the wise [^94]; to all the holy Gods of the <span id="p13">[<sup><small>p. 13</small></sup>]</span> heavenly world and of the material one; to the awful, overpowering Fravashis of the faithful, to the Fravashis of the first men of the law, to the Fravashis of the next-of-kin [^95]; to every God invoked by his own name [^96].
+To the eternal [^87] and sovereign luminous space [^88]; to the bright Garô-nmâna [^89]; to the sovereign place of eternal Weal [^90]; to the <i>K</i>inva<i>t</i>\-bridge [^91], made by Mazda; to the tall lord Apãm Napâ<i>t</i> [^92] and to the water made by Mazda; to Haoma [^93], of holy birth; to the pious and good Blessing; to the awful cursing thought of the wise [^94]; to all the holy Gods of the <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> heavenly world and of the material one; to the awful, overpowering Fravashis of the faithful, to the Fravashis of the first men of the law, to the Fravashis of the next-of-kin [^95]; to every God invoked by his own name [^96].
 
 
 

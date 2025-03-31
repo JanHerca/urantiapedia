@@ -29,9 +29,9 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
-<span id="p197">[<sup><small>p. 197</small></sup>]</span>
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 
 **A**bruzzi [182](Appendix#p182), [184](Appendix#p184)
 
@@ -99,7 +99,7 @@ Autographs of St. Francis [130](Part_2_6#p130), [146](Part_3_4#p146)
 
 Aymon of Faversham, Minister General [111](Part_2_2#p111)
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 **B**ad example. St. Francis on— [13](Part_1_1#p13)
 
@@ -169,7 +169,7 @@ Catana. Peter of— [121](Part_2_3#p121)
 
 Celano. Thomas de— quoted [20](Part_1_2#p20), [25](Part_1_4#p25), [28](Part_1_4#p28), [29](Part_1_4#p29), [45](Part_1_4#p45), [78](Part_1_5#p78), [79](Part_1_6#p79), [81](Part_1_6#p81), [82](Part_1_6#p82), [83](Part_1_6#p83), [85](Part_1_6#p85), [88](Part_1_7#p88), [89](Part_1_7#p89), [93](Part_2_0#p93), [131](Part_2_6#p131), [146](Part_3_4#p146), [147](Part_3_4#p147), [150](Part_3_5#p150), [154](Part_3_6#p154), [180](Appendix#p180), [184](Appendix#p184), [185](Appendix#p185)
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 Celle. The— [79](Part_1_6#p79), [88](Part_1_7#p88)
 
@@ -237,7 +237,7 @@ Contemplative Life. St. Francis’ predilection for the— [87](Part_1_7#p87)
 
 Correction. St. Francis on True— [17](Part_1_1#p17)
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 Correction of the Friars. St. Francis on— [37](Part_1_4#p37)
 
@@ -305,7 +305,7 @@ Faithful. St. Francis’ Letter to— [94](Part_2_0#p94)
 
 &nbsp;&nbsp;&nbsp;&nbsp;text of [98](Part_2_1#p98)
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 Faloci. Mgr.— [5](Part_1_1#p5), [22](Part_1_3#p22), [110](Part_2_2#p110), [130](Part_2_6#p130), [132](Part_2_6#p132), [14](Part_1_1#p14)
 
@@ -377,7 +377,7 @@ Goetz. Walter— quoted [3](Part_1_1#p3), [79](Part_1_6#p79), [119](Part_2_3#p11
 
 Gonzaga, Minister General. Ven. Francis— [125](Part_2_4#p125)
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 Good, lest it be lost. St. Francis on hiding— [19](Part_1_1#p19)
 
@@ -441,7 +441,7 @@ Last wish written by St. Francis to St. Clare [78](Part_1_5#p78)
 
 Laurentian MS. [3](Part_1_1#p3), [4](Part_1_1#p4)
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 _Legenda Major_ [16](Part_1_1#p16), [19](Part_1_1#p19), [25](Part_1_4#p25), [26](Part_1_4#p26), [79](Part_1_6#p79), [81](Part_1_6#p81), [82](Part_1_6#p82), [84](Part_1_6#p84), [87](Part_1_7#p87), [146](Part_3_4#p146), [147](Part_3_4#p147), [185](Appendix#p185)
 
@@ -515,7 +515,7 @@ Love. Prayer of St. Francis to obtain Divine— [145](Part_3_3#p145)
 
 Luttich MS. [4](Part_1_1#p4), [98](Part_2_1#p98)
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 **M**andonnet, O.P. [182](Appendix#p182), [184](Appendix#p184)
 
@@ -581,7 +581,7 @@ _Opuscula_. Wadding's edition of the— [20](Part_1_2#p20), [22](Part_1_3#p22), 
 
 _Opuscules de Critique Historique_ [4](Part_1_1#p4), [138](Part_3_1#p138), [143](Part_3_2#p143), [144](Part_3_2#p144), [155](Part_3_6#p155)
 
-<span id="p205">[<sup><small>p. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 _Opuscules de S. François_ [22](Part_1_3#p22), [98](Part_2_1#p98), [118](Part_2_2#p118), [181](Appendix#p181), [182](Appendix#p182), [183](Appendix#p183)
 
@@ -655,7 +655,7 @@ Priests. St. Francis’ Reverence for— [82](Part_1_6#p82)
 
 Psalms arranged by St. Francis [155](Part_3_6#p155)
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 **Q**uaracchi edition of _Opuscula_  [4](Part_1_1#p4), [20](Part_1_2#p20), [31](Part_1_4#p31), [93](Part_2_0#p93), [95](Part_2_0#p95), [96](Part_2_1#p96), [98](Part_2_1#p98), [110](Part_2_2#p110), [119](Part_2_3#p119), [121](Part_2_3#p121), [122](Part_2_3#p122), [125](Part_2_4#p125), [127](Part_2_5#p127), [131](Part_2_6#p131), [137](Part_3_1#p137), [143](Part_3_2#p143), [145](Part_3_3#p145), [148](Part_3_4#p148), [151](Part_3_5#p151), [181](Appendix#p181), [182](Appendix#p182), [184](Appendix#p184), [186](Appendix#p186)
 
@@ -721,7 +721,7 @@ Salutation of the Virtues: its authenticity, etc. [20](Part_1_2#p20)
 
 Saracens [48](Part_1_4#p48), [73](Part_1_4b#p73)
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 Saturnino da Caprese. Fr.— [147](Part_3_4#p147)
 
@@ -791,7 +791,7 @@ Sylvester. Brother— [87](Part_1_7#p87)
 
 Testament of St. Francis [79](Part_1_6#p79)
 
-<span id="p208">[<sup><small>p. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 Testament of St. Francis. Codices containing— [81](Part_1_6#p81)
 

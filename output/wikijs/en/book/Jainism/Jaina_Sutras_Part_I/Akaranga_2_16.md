@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 FOURTH PART.
 
@@ -44,7 +44,7 @@ A mendicant, living thus [^515], self-controlled towards the eternal (world of l
 
 Despised by such-like people, the wise man, with undisturbed mind, sustains their words and blows, as a rock is not shaken by the wind. (3) Disregarding (all calamities) he lives together with clever (monks, insensible) to pain and pleasure, not hurting the movable and immovable (beings), not killing, bearing all: so is described the great sage, a good <i>S</i>rama<i>n</i>a. (4)
 
-As the lustre of a burning flame increases, so increase the austerity, wisdom, and glory of a steadfast sage who, with vanquished desires, meditates <span id="p212">[<sup><small>p. 212</small></sup>]</span> on the supreme place of virtue [^516], though suffering pain [^517]. (5)
+As the lustre of a burning flame increases, so increase the austerity, wisdom, and glory of a steadfast sage who, with vanquished desires, meditates <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> on the supreme place of virtue [^516], though suffering pain [^517]. (5)
 
 The great vows which are called the place of peace, the great teachers, and the producers of disinterestedness have, in all quarters of the earth, been proclaimed by the infinite <i>G</i>ina, the knowing one [^518], as light, illumining the three worlds, (repels) darkness. (6)
 
@@ -56,7 +56,7 @@ He lives, forsooth, in accordance with wisdom (and restraint), and walks free fr
 
 As they call the great ocean a boundless flood of water, difficult to traverse with the arms (alone), so should the learned one know (and renounce) it (the sa<i>m</i>sâra): that sage is called ‘Maker of the end.’ (10)
 
-Here amongst men bondage and deliverance have <span id="p213">[<sup><small>p. 213</small></sup>]</span> been declared; he who, according to that doctrine (of the church), knows bondage and deliverance: that sage is called ‘Maker of the end.’ (11) He for whom there is no bondage whatever in this world, and besides in the two (other continents, or heaven and hell), is indeed a (monk needing) no support and no standing place; he has quitted the path of births. (12)
+Here amongst men bondage and deliverance have <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> been declared; he who, according to that doctrine (of the church), knows bondage and deliverance: that sage is called ‘Maker of the end.’ (11) He for whom there is no bondage whatever in this world, and besides in the two (other continents, or heaven and hell), is indeed a (monk needing) no support and no standing place; he has quitted the path of births. (12)
 
 End of the Sixteenth Lecture, called the Liberation.
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/03100.jpg) ARE these the only traces of the lovely Ommaufia? Are these the silent ruins of her mansion in the rough plains of Derraage and Mothatallem?
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. But, _I added_, look, my friend! dost thou not discern a company of maidens seated on camels, and advancing over the high ground above _the streams of_ Jortham?
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 8\. They leave on their right the mountains and rocky plains of Kenaan. Oh, how many of my bitter foes, and how many of my firm allies, does Kenaan contain!
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 16\. _In this place_, how nobly did the two descendants of Gaidh, the son of Morra, labour to unite the tribes, which a fatal effusion of blood had long divided!
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 17\. I have sworn by the sacred edifice, round which the sons of Koraish and Jorham, who built it, make devout processions;
 
@@ -86,7 +86,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 24\. With a hundred camels they closed all wounds: in due season were they given, yet the givers were themselves free from guilt.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 25\. The atonement was auspiciously offered by one tribe to the other; yet those who offered it had not shed a cupful of blood.
 
@@ -104,7 +104,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 32\. She brought forth Distress and Ruin, monsters full-grown, each of them deformed as the dun camel of Aad; she then gave them her breast, and they were instantly weaned.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 33\. Oh, what plenty she produced in your land! The provisions which she supplied were more abundant, no doubt, than those which the cities of Irak dispense to their inhabitants, weighed with large weights, and measured with ample measures!
 
@@ -122,7 +122,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 40\. He said, “I will accomplish my design; and will secure myself from my foe with a thousand horses well caparisoned.”
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 41\. He made a fierce attack, nor feared the number of tents, where _Death_, the mother of vultures, had fixed her mansion;
 
@@ -142,7 +142,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 49\. He who trembles at all possible causes of death falls in their way: even though he desire to mount the skies on a scaling-ladder.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 50\. He who possesses wealth or talents, and withholds them from his countrymen, alienates their love, and exposes himself to their obloquy.
 
@@ -162,7 +162,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 58\. Whenever a man has a peculiar cast in his nature, although he supposes it concealed, it will soon be known.
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 59\. Experience has taught me the events of this day and yesterday; but as to the events of to-morrow, I confess my blindness.
 

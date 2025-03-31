@@ -32,14 +32,14 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 
 BEFORE he died, the Blessed One decided to go on a long journey. He wanted to visit certain of his disciples and exhort them to observe his teachings with scrupulous care. With only Ananda for a companion, he left the city of Rajagriha.
 
 One day, while he was resting in the corner of a field, he said to Ananda:
 
-“There will come a time when men will wonder why I once entered a woman's womb. They will question the perfect purity of my birth, and they will doubt whether I ever had supreme power. These benighted men will never understand that, for him who devotes his life to works of holiness, the body is free from the impurity of birth. He who would seek supreme knowledge must enter a woman's womb; he must, out of pity for mankind, be born into the world of men. For if he were a God, how could he set in motion the wheel of the law? Imagine the Buddha as a God, Ananda; men would soon lose heart. They would say, ‘The Buddha, who is a God, has happiness, holiness, perfection; but we, how can we hope to attain them?’ <span id="p274">[<sup><small>p. 274</small></sup>]</span> And they would be in deep despair. Oh, let them keep still, these benighted creatures! Let them not try to steal the law, for they would use it ill. Rather, let them consider the Buddha's nature incomprehensible, these men who will never be able to gauge my eminence!”
+“There will come a time when men will wonder why I once entered a woman's womb. They will question the perfect purity of my birth, and they will doubt whether I ever had supreme power. These benighted men will never understand that, for him who devotes his life to works of holiness, the body is free from the impurity of birth. He who would seek supreme knowledge must enter a woman's womb; he must, out of pity for mankind, be born into the world of men. For if he were a God, how could he set in motion the wheel of the law? Imagine the Buddha as a God, Ananda; men would soon lose heart. They would say, ‘The Buddha, who is a God, has happiness, holiness, perfection; but we, how can we hope to attain them?’ <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> And they would be in deep despair. Oh, let them keep still, these benighted creatures! Let them not try to steal the law, for they would use it ill. Rather, let them consider the Buddha's nature incomprehensible, these men who will never be able to gauge my eminence!”
 
 A shepherd was crossing the field. He had the serenity of a man who is quietly performing a labor of joy.
 
@@ -59,7 +59,7 @@ A shepherd was crossing the field. He had the serenity of a man who is quietly p
 
 “The gadflies never torment my herd,” said the shepherd Dhaniya; “my cows roam in the grassy meadows; they can abide the coming rain; so fall if you will, O rain of the sky.”
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 “I built a sturdy raft, I set sail for nirvana,” said the Master; “I crossed the torrent of passions and I reached the saintly shores; I need the raft no longer; so fall if you will, O rain of the sky.”
 
@@ -73,7 +73,7 @@ A shepherd was crossing the field. He had the serenity of a man who is quietly p
 
 “I have cows, I have calves, I have heifers,” said the shepherd Dhaniya, "and I have a dog that is lord of my herd; so fall if you will, O rain of the s y.
 
-“I have neither cows nor calves nor heifers,” <span id="p276">[<sup><small>p. 276</small></sup>]</span> said the Master, “and I have no dog to be on guard; so fall if you will, O rain of the sky.”
+“I have neither cows nor calves nor heifers,” <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> said the Master, “and I have no dog to be on guard; so fall if you will, O rain of the sky.”
 
 “The stakes are driven deep in the ground, nothing can move them,” said the shepherd Dhaniya; the ropes are new and made of strong grasses; the cows will never break them now; so fall if you will, O rain of the sky.”
 
@@ -87,7 +87,7 @@ As they were about to enter the house, the rain fell in torrents and formed litt
 
 “Verily, we have acquired great riches since we have seen the Buddha. O Master, you are our refuge, you who have looked at us with the eyes of wisdom. Be our protector, O Saint! We are obedient, my wife and I; if we lead a life of holiness, we shall conquer birth and death, and we shall have done with suffering.”
 
-Then a voice was heard, and Mara, the Evil One, <span id="p277">[<sup><small>p. 277</small></sup>]</span> stood before them. No one had seen him come.
+Then a voice was heard, and Mara, the Evil One, <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> stood before them. No one had seen him come.
 
 “He who has sons is happy to see his sons,” said Mara, the Evil One; “he who has cows is happy to see his cows; happy is the man of substance, and he who has no substance has no happiness.”
 

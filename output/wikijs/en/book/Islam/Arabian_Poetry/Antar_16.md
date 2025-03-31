@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 Accompanied only by his faithful brother Shiboob,—his trusty henchman, who frequently rendered the hero important service by his dexterity as an archer, and whose fleetness of foot had gained him the _soubriquet_ of Son of the Wind,—Antar departed at night from the tents of Abs, and proceeded towards the land of Irak. Traversing the wilds and the deserts by secret paths, well known to Shiboob, one day they came upon a single tent pitched beside a spring, and near it was an aged sheikh, bent with years:
 
@@ -47,7 +47,7 @@ The venerable solitary presented the travellers with a draught of milk, cooled i
 
 In the land of Shurebah are defiles and valleys; I have quitted them, and its inhabitants live in my heart:
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 Fixed are they therein, and in my eyes; and even when they are absent from me they dwell in the black of mine eye;
 
@@ -81,7 +81,7 @@ Could the vicissitudes of fortune accept of any ransom—O, I would have redeeme
 
 Thine uncle has in his wiles and frauds made thee drink of the cup;—but may thy cup-bearer, O son of my mother, ne’er taste of the moisture of dew!
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 And thy cousin will mourn thee; and she belongs to thy foe, whose slave thou wouldst never consent to be.
 
@@ -99,7 +99,7 @@ He then relates the occasion of his enterprise which had thus miscarried. The Ki
 
 The eyelashes of the songstress from the corner of the veil are more cutting than the edge of the cleaving scimitars;
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 And when they wound the brave are humbled, and the corners of their eyes are flooded with tears.
 

@@ -41,7 +41,7 @@ Put not thy feet on two boats lest thy property founder.[^3]
 
 The Guru replied:—
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Put thy feet on two boats and thy property also on them:[^1]
 One boat may sink, but the other shall cross over.[^2]
@@ -73,7 +73,7 @@ Then Shaikh Brahm uttered the following:—
 When thou oughtest to have made thy raft, thou didst not do so;
 When the full river[^5] overfloweth, it is difficult to cross over.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 Put not thy hand into the fire or it will burn,[^1] my dear.
 Some have obtained honour for themselves by uttering God's name.
@@ -101,7 +101,7 @@ Then Shaikh Brahm uttered the following:—
 They who have heart-felt love for God are the true;
 But they who have one thing in their hearts and utter another are accounted false.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 They who are imbued with the love of God and a longing to behold Him _are also true_.
 They who forget God's name are a burden to the earth.
@@ -125,7 +125,7 @@ O Lord, Thou art inaccessible and unequalled; I am exhausted uttering Thy praise
 What can I ask of Thee? What can I say to Thee? I hunger and thirst for a sight of Thee.
 Under the instruction of the Guru I have obtained the Lord; Nanak's prayer hath been granted.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 The Guru and Shaikh Brahm remained together that night in the forest. A kind-hearted and charitable villager who had seen them, took them a basin of milk before daylight. The Shaikh separated his own share from that of the Guru, and uttered these verses:—
 
@@ -148,7 +148,7 @@ The night is dark; what shall become of thee when the thief breaketh into and ro
 O inaccessible, incomparable Protector, hear my supplication.
 O Nanak, the fool hath never thought of God; what can he see in a dark night?
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 II
 
@@ -168,7 +168,7 @@ If man under the Guru's instruction meditate on the Name, he shall obtain rest, 
 Transmigration and death never forsake us; without the Name we are afflicted.
 Nanak, in the third watch men, under the influence of the three qualities,[^2] feel worldly love.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 IV
 
@@ -188,7 +188,7 @@ His turn shall come to every one; the ripe field shall ever be cut down.
 An account of every ghari and moment shall be taken, and the soul shall obtain punishment or reward.
 Nanak, God made everything, demigods and men are herein agreed.[^1]
 
-When the Guru and Shaikh Brahm left the forest the villager returned to fetch his basin. On lifting it up, it is said, he found that it had become gold, and was filled with gold coins. Then he began to repent of his suspicions, and confessed to himself that they were religious men. If he had come with <span id="p91">[<sup><small>p. 91</small></sup>]</span> his heart disposed towards God, he would have gained holiness. ‘I came with worldliness, and worldliness have I found.’ Upon this he took up his basin and departed.
+When the Guru and Shaikh Brahm left the forest the villager returned to fetch his basin. On lifting it up, it is said, he found that it had become gold, and was filled with gold coins. Then he began to repent of his suspicions, and confessed to himself that they were religious men. If he had come with <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> his heart disposed towards God, he would have gained holiness. ‘I came with worldliness, and worldliness have I found.’ Upon this he took up his basin and departed.
 
 Shaikh Brahm remarked that it was difficult for those who attached themselves to mammon to obtain salvation, and inquired what aid besides God's name was ordinarily necessary for future happiness. The Guru replied with the following hymn:—
 
@@ -211,7 +211,7 @@ Sin is a stone which floateth not over.
 Put thy soul on the raft of God's fear, _and thou shalt be saved_.
 Saith Nanak, _such a raft God_ giveth but to few.[^3]
 
-Then the people brought them bread, but Shaikh Brahm said that he had already dined. The people, annoyed that their offerings were thus spurned, said <span id="p92">[<sup><small>p. 92</small></sup>]</span> to him: ‘You must be a liar from that country where Farid, who wore a wooden cake on his stomach, held religious sway. Whenever any one offered him food he used to say he had taken dinner.’[^1] Upon this Shaikh Brahm said: ‘What shall be my condition, who am ever saying that I have dined, when I am only fasting?’ The Guru was pleased to observe the Shaikh's tender conscience, and said to him: ‘Shaikh Brahm, God is in thee.’ The Shaikh then asked the Guru to tell him of God, and by what virtues and merits He was to be found. The Guru replied as follows:—
+Then the people brought them bread, but Shaikh Brahm said that he had already dined. The people, annoyed that their offerings were thus spurned, said <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> to him: ‘You must be a liar from that country where Farid, who wore a wooden cake on his stomach, held religious sway. Whenever any one offered him food he used to say he had taken dinner.’[^1] Upon this Shaikh Brahm said: ‘What shall be my condition, who am ever saying that I have dined, when I am only fasting?’ The Guru was pleased to observe the Shaikh's tender conscience, and said to him: ‘Shaikh Brahm, God is in thee.’ The Shaikh then asked the Guru to tell him of God, and by what virtues and merits He was to be found. The Guru replied as follows:—
 
 Come, my sisters and dear companions, embrace me.
 Having embraced me, tell me tales of the Omnipotent Spouse.
@@ -228,7 +228,7 @@ When the true _Guru_ is found, truth is produced, and _man becoming_ true is abs
 When man is filled with fear through the Guru's instructions, then he obtaineth understanding, and honour resulteth.
 Nanak, the true King then blendeth man with Himself.[^2]
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 The Guru, after his pleasant visit to Shaikh Brahm and his district, where he made several converts, proceeded to a country called Bisiar, probably the state of Bushahir in the Himalayas, where he was ill received. The inhabitants, deeming his presence pollution, purified every place he had stood on. One man alone, Jhanda, a carpenter, was found to treat him with hospitality. He took him to his house, washed his feet, and drank the water used for the purpose. While drinking, it was revealed to him that Nanak was a Guru. He joined him in his wanderings.
 
@@ -239,7 +239,7 @@ Not long after they found themselves in a lonely desert. Mardana began to feel t
 The demigods in order to behold Thee, O God, made pilgrimages in sufferings and hunger.
 Jogis and Jatis[^1] go their own ways, and don ochre-coloured garbs.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 For Thy sake, O my Lord, the darweshes are imbued with love.
 Thy names are various, Thy forms are various, the number of Thy merits cannot be told.
@@ -252,7 +252,7 @@ Thou art the Lord, I am Thy player; Nanak representeth, what is caste?[^1]
 
 The Guru further remonstrated with his attendant: 'We cannot succeed without God's word. Think of some hymn and play the rebeck.' Mardana replied that his throat was collapsing for want of food, and he had no strength to move, much less to play. The Guru then pointed to a tree and told him to eat his fill of its fruit, but take none with him. Mardana accordingly began to eat, and so much enjoyed the flavour of the fruit, that he thought he would eat what he could, and also take some with him, lest he might soon again find himself in a similar plight.
 
-As they continued their wanderings, Mardana again felt hungry, so he drew forth his stock of fruit. Directly he tasted it he fell down. The Guru inquired what had happened. Mardana confessed his disobedience of his master's instructions in having brought with him and eaten some of the forbidden fruit. The Guru remonstrated with him for his disregard of orders. The fruit was poisonous, but the Guru had blessed it for the occasion and made <span id="p95">[<sup><small>p. 95</small></sup>]</span> it wholesome, The Guru put his foot on Mardana's forehead as he lay stretched on the ground, and he at once revived.
+As they continued their wanderings, Mardana again felt hungry, so he drew forth his stock of fruit. Directly he tasted it he fell down. The Guru inquired what had happened. Mardana confessed his disobedience of his master's instructions in having brought with him and eaten some of the forbidden fruit. The Guru remonstrated with him for his disregard of orders. The fruit was poisonous, but the Guru had blessed it for the occasion and made <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> it wholesome, The Guru put his foot on Mardana's forehead as he lay stretched on the ground, and he at once revived.
 
 <figure class="table chapter-navigator">
   <table>

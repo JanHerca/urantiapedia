@@ -46,7 +46,7 @@ Thus living beings of sinful actions, who are born again and again in ever-recur
 
 Living beings bewildered through the influence of their actions, distressed and suffering pains, undergo misery in non-human births. (6)
 
-But by the cessation of Karman, perchance, living <span id="p16">[<sup><small>p. 16</small></sup>]</span> beings will reach in due time a pure state and be born as men. (7)
+But by the cessation of Karman, perchance, living <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> beings will reach in due time a pure state and be born as men. (7)
 
 II. And though they be born with a human body, it will be difficult for them to hear the Law, having heard which they will do penances, combat their passions and abstain from killing living beings. (8)
 
@@ -64,7 +64,7 @@ The Yakshas who are gifted with various virtues, (live in the heavenly regions, 
 
 Intent on enjoying divine pleasures and changing their form at will, they live in the upper Kalpa heavens many centuries of former [^88] years. (15)
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 The Yakshas, having remained there according to their merit, descend thence at the expiration of their life and are born as men.
 
@@ -76,7 +76,7 @@ He will have friends and relations, be of good family, of fine complexion, healt
 
 After having enjoyed, at their proper time, the unrivalled pleasures of human life, he will obtain true knowledge by his pure religious merit acquired in a former life. (19)
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Perceiving that the four requisites are difficult to obtain, he will apply himself to self-control, and when by penances he has shaken off the remnant of Karman, he will become an eternal Siddha. (20)
 

@@ -43,7 +43,7 @@ The Dewy Season  [^84] came and went;
 Then would the king, with mind intent,
 &nbsp;&nbsp;&nbsp;&nbsp;His sacrifice ordain.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 He came to Rishyas'ring, and bowed
 &nbsp;&nbsp;&nbsp;&nbsp;To him of look divine,
@@ -164,7 +164,7 @@ Who frame the door and build the wall:
 With men of every art and trade,
 Who read the stars and ply the spade,
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 And mimes and minstrels hither bring,
 And damsels trained to dance and sing.’
@@ -274,7 +274,7 @@ As thus the monarch he addressed:
 ‘Obedient to thy high decree
 The kings, my lord, are come to thee.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 And it has been my care to greet
 And honour all with reverence meet.
@@ -376,7 +376,7 @@ And thus to Raghu's son they cried:
 Between the rites some Bráhmans spent
 The time in learned argument,
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 With ready flow of speech, sedate,
 And keen to vanquish in debate.  [^94]
@@ -464,7 +464,7 @@ The severed members of the horse,
 Made ready all in ordered course.
 On piles of holy Fig-tree raised
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 The meaner victims' bodies blazed:
 The steed, of all the creatures slain,
@@ -505,7 +505,7 @@ Addressed that unpolluted lord:
 ‘Tis thine alone to keep the whole
 Of this broad earth in firm control.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 No gift of lands from thee we seek:
 To guard these realms our hands were weak.
@@ -627,7 +627,7 @@ Lord Vishnu to the council came;
 His hands shell, mace, and discus bore,
 Aud saffron were the robes he wore.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Riding his eagle through the crowd,
 As the sun rides upon a cloud,
@@ -742,7 +742,7 @@ When a vast form of awful might,
 Of matchless splendour, strength, and size
 Was manifest before his eyes.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 From forth the sacrificial flame,
 Dark, robed in red, the being came.
@@ -848,7 +848,7 @@ By no devices to be caught;
 Skilled in all weapon's lore and use
 As they who drink the immortal juice. [^110]
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 And let the nymphs supreme in grace,
 And maidens of the minstrel race,
@@ -932,7 +932,7 @@ Was monkey offspring born beside.
 Then by the bears' great monarch stood
 The other roamers of the wood,
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 And turned, their pathless homes to seek,
 To forest and to mountain peak.
@@ -1043,7 +1043,7 @@ Then, duly honoured, went their way.
 The glorious hermit Rishyas'ring
 Drew near and thus besought the king:
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ‘Return, my honoured lord, I pray,
 Return, upon thy homeward way.’
@@ -1162,7 +1162,7 @@ His spirit with desire was stirred
 To seek the city of the king
 And to his cot his son to bring.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 With young disciples at his side
 Forth on his way the hermit hied,
@@ -1251,7 +1251,7 @@ The Mother of the Gods, when she
 The King of the Immortals  [^131] bore,
 The thunder-wielding deity.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 The lotus-eyed, the beauteous boy,
 He came fierce Rávan to destroy;
@@ -1353,7 +1353,7 @@ The earth before men's eyes.
 Now Das'aratha's pious mind
 Meet wedlock for his sons designed;
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 With priests and friends the king began
 To counsel and prepare his plan.

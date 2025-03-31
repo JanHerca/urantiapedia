@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 4. If a board \[plank\] four hands wide, has been put across the ditch \[trench\], and in like manner, if two projecting balconies have been connected by means of such a board or plank, they \[the, inmates\] may prepare two erubin, or if they prefer it, they may join in one; but \[if the board or plank be\] less \[wide\] than this \[four hands\], they must each prepare a separate erub, and not join in one.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 § 5. If there be between two courts a straw-rick, ten hands high, they \[the inmates\] must prepare two separate erubin, and may not join in one. The cattle may be fed \[thereof\] from each side; and when the rick becomes lower than ten hands, they must join in one erub, and not prepare two.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 9. R. José said, “To what does the \[preceding\] regulation apply? To the first preparation for the erub; but to continue the erub, any quantity \[of food, however small, is sufficient\].” Nor did the sages direct that \[where the combinations of an alley had been effected\] an erub should be prepared for the \[different\] courts, except that the children might not become oblivious \[altogether forget the rule of erub\].
 
-§ 10. With all \[kinds of nutriment\] the erub or combination may be effected, excepting only water and salt. Such is the dictum of R. Eleazar; but R. Joshua saith, “\[Nothing but\] a \[whole\] loaf of bread is a \[lawful\] erub.” Should even a \[whole\] saah \[of flour\] be <span id="p88">[<sup><small>p. 88</small></sup>]</span> baked into one loaf, but that is broken, it must not be used for erub; \[whereas\] a \[small\] loaf for an eesar, [^227] provided it be whole, may be used for an erub.
+§ 10. With all \[kinds of nutriment\] the erub or combination may be effected, excepting only water and salt. Such is the dictum of R. Eleazar; but R. Joshua saith, “\[Nothing but\] a \[whole\] loaf of bread is a \[lawful\] erub.” Should even a \[whole\] saah \[of flour\] be <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> baked into one loaf, but that is broken, it must not be used for erub; \[whereas\] a \[small\] loaf for an eesar, [^227] provided it be whole, may be used for an erub.
 
 § 11. A man may give money to the wine-seller or baker, thereby to acquire the right to \[join in\] the erub. Such is the dictum of R. Eleazar; but the sages hold, that his money cannot acquire for him the right to \[join in\] the erub. They however admit, that \[if he has given\] his money to any other person, \[with the commission to effect his erub\], it will acquire for him the right to \[join in\] the erub, since no erub can be effected for a man without his knowledge. R. Jehudah said, “To what do the \[preceding\] observations apply?” To the combining of limits: but in the combining of courts a man may be joined with or without his knowledge; because a right may be conferred on a person, though he be not present, whereas, he must not be deprived of any right in his absence.
 

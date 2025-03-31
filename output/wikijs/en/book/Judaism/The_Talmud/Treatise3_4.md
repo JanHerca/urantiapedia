@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 1\. “With what may they cover up (pots to retain the heat)?” “And with what may they not cover them up?” “They may not cover them up with oil-dregs, or dung, or salt, or lime, or sand either fresh or dry, or straw, or grape-skins, or woollen, or herbs when they are fresh, but they may cover up with them when they are dry. They may cover up with garments, and fruits, with doves’ wings, with carpenters’ sawdust, and with tow of fine flax.” Rabbi Judah forbids “fine,” but allows “coarse.”
 

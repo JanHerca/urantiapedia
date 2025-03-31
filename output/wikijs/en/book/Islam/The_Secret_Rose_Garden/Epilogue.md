@@ -29,7 +29,7 @@ dateCreated: 2024-11-22T18:16:44Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 ## EPILOGUE
 

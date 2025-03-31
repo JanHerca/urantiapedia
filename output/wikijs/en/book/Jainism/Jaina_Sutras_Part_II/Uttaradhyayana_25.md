@@ -44,7 +44,7 @@ At the same time a Brâhma<i>n</i>a, versed in the Vêdas, Vi<i>g</i>ayaghôsha 
 
 Now this houseless (monk) at the end of a fast of a month's duration, went to the sacrifice of Vi<i>g</i>ayaghôsha to beg alms. (5)
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 The priest wanted to turn the approaching monk off: 'I shall not give you alms, mendicant, beg somewhere else. (6)
 
@@ -60,7 +60,7 @@ Not to obtain food, or drink, or whatever else he wanted, but to save these peop
 
 The priest did not make a reply to defend himself against his insinuation; but he and all there assembled joined their hands and questioned the great sage: (13)
 
-‘Tell us the most essential subject in the Vêdas, and tell us what is most essential in the sacrifice; <span id="p138">[<sup><small>p. 138</small></sup>]</span> tell us the first of the heavenly bodies, and tell us the best of dharmas. (14)
+‘Tell us the most essential subject in the Vêdas, and tell us what is most essential in the sacrifice; <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> tell us the first of the heavenly bodies, and tell us the best of dharmas. (14)
 
 ‘Who are able to save themselves and others (viz. tell me). I ask you to solve this my doubt, O saint.’ (15)
 
@@ -74,7 +74,7 @@ The priest did not make a reply to defend himself against his insinuation; but h
 
 “He who has no worldly attachment after entering the order, who does not repent of having become a monk [^355], and who takes delight in the noble words, him we call a Brâhma<i>n</i>a. (20)
 
-“He who is exempt from love, hatred, and fear, <span id="p139">[<sup><small>p. 139</small></sup>]</span> (and who shines forth) like burnished gold, purified in fire [^356], him we call a Brâhma<i>n</i>a. (21)
+“He who is exempt from love, hatred, and fear, <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> (and who shines forth) like burnished gold, purified in fire [^356], him we call a Brâhma<i>n</i>a. (21)
 
 “A lean, self-subduing ascetic, who reduces his flesh and blood, who is pious and has reached Nirvâ<i>n</i>a, him we call a Brâhma<i>n</i>a. (22)
 
@@ -92,7 +92,7 @@ The priest did not make a reply to defend himself against his insinuation; but h
 
 “He who has given up his former connections (with his parents, &c.), with his kinsmen and relations, and who is not given to pleasure, him we call a Brâhma<i>n</i>a. (29)
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 “The binding of animals (to the sacrificial pole), all the Vêdas, and sacrifices, being causes of sin, cannot save the sinner; for his works (or Karman) are very powerful. (30)
 
@@ -108,7 +108,7 @@ The priest did not make a reply to defend himself against his insinuation; but h
 
 When thus his doubt had been solved, Vi<i>g</i>ayaghôsha, the Brâhma<i>n</i>a, assented [^360] to the great sage <i>G</i>ayaghôsha and to his (speech). (36)
 
-Vi<i>g</i>ayaghôsha, pleased, folded his hands and spoke <span id="p141">[<sup><small>p. 141</small></sup>]</span> as follows: 'You have well declared to me what true Brâhma<i>n</i>ahood consists in. (37)
+Vi<i>g</i>ayaghôsha, pleased, folded his hands and spoke <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> as follows: 'You have well declared to me what true Brâhma<i>n</i>ahood consists in. (37)
 
 ‘You are a sacrificer of sacrifices, you are the most learned of those who know the Vêdas, you know the <i>G</i>yôtishâṅga, you know perfectly the Law. (38)
 

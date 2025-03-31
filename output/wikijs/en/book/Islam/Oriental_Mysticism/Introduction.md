@@ -32,7 +32,7 @@ dateCreated: 2024-11-10T11:17:18Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ### ORIENTAL MYSTICISM.
 
@@ -44,7 +44,7 @@ For travellers in the land should know
 
 THE verse above quoted, like most Oriental poetic Introduction. writings, is susceptible of a mystical and much higher interpretation than appears from a merely superficial perusal. It is peculiarly illustrative of the allegorical form under which the intellectual life of the Religious Philosopher is treated by the Persians, namely that of a journey, the ultimate object of which is the knowledge of the Infinite Majesty of God; a plan similar to that adopted with reference to the moral life by our own John Bunyan in the Pilgrim's Progress. At the outset of their treatises the term Traveller is applied to the intellectual man only, but the word is afterwards used in a more
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 general sense, just as in Christian writings man is not unfrequently called a Wayfarer; it becomes often identical with Disciple. M. Garcia de Tassy, in a work already referred to in the preface, has very appropriately quoted a verse of St Thomas illustrating this point:
 
@@ -55,7 +55,7 @@ To an elucidation of this system, and the technical terms employed therein, the 
 
 The first part will contain an explanation of, 1, The terms Traveller, Road, Inns or Stages, and Goal. 2, The words Law, Doctrine, Truth, and the Perfect Man, according to the Oriental definition of them. 3, What is meant by Fellowship, Renunciation, Attraction and Devotion.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 The second, the Sufiistic account of, 1, The Nature; 2, The Attributes; 3, The Works of God; 4, The Four Universal Sources.
 

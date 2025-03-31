@@ -38,7 +38,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 2\. Whose best gift from his Righteousness is mine in the offering Ahura this knoweth; who have lived, and live ever, by their names these I worship, while I draw near with praises [^1069]. The Good Kingdom is to be chosen, that lot which most of all bears on (our blessings [^1070]).
 
-3\. Let Sraosha (Obedience) be here present for <span id="p255">[<sup><small>p. 255</small></sup>]</span> the sacrifice of Ahura Mazda, the most beneficent, the holy, who is so dear to us as at the first, so at the last; yea, let him be present here [^1071].
+3\. Let Sraosha (Obedience) be here present for <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> the sacrifice of Ahura Mazda, the most beneficent, the holy, who is so dear to us as at the first, so at the last; yea, let him be present here [^1071].
 
 4\. As the Ahû (revered and) to be chosen, the Âtarevakhsha thus speaks forth to me.
 

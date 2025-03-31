@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:8:12Z
 
 THE LIFE OF GURU NANAK. CHAPTER IX
 
-The Guru and Mardana again set out on their travels. It is said that they went to the west and crossed the rivers Ravi and Chanab, and, after a long circuitous route through a desert country, made their way again to Pak Pattan to pay another visit to Shaikh Brahm. They sat down to rest about four miles from the city. Shaikh Kamal, a pious and God-fearing disciple of Shaikh Brahm, who had gone <span id="p102">[<sup><small>p. 102</small></sup>]</span> into the forest for firewood, observed the Guru and his attendant. The latter was playing his rebeck, and singing the following:—
+The Guru and Mardana again set out on their travels. It is said that they went to the west and crossed the rivers Ravi and Chanab, and, after a long circuitous route through a desert country, made their way again to Pak Pattan to pay another visit to Shaikh Brahm. They sat down to rest about four miles from the city. Shaikh Kamal, a pious and God-fearing disciple of Shaikh Brahm, who had gone <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> into the forest for firewood, observed the Guru and his attendant. The latter was playing his rebeck, and singing the following:—
 
 Thou art the tablet, _O Lord_, Thou art the pen, and Thou art also the writing.
 Speak of the one _God_; O Nanak, why should there be a second?[^1]
@@ -56,7 +56,7 @@ The Muhammadan priest then said in turn:—
 Tear thy coat into tatters and wear a blanket _instead_;
 Adopt a dress by which thou mayest obtain the Lord.[^2]
 
-The Guru traversed this instruction: 'It is not <span id="p103">[<sup><small>p. 103</small></sup>]</span> necessary for me to tear my coat or adopt a religious garb. Men who reside at home and work in their ordinary costume shall find the Lord if they fix their hearts on Him;'[^1]
+The Guru traversed this instruction: 'It is not <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> necessary for me to tear my coat or adopt a religious garb. Men who reside at home and work in their ordinary costume shall find the Lord if they fix their hearts on Him;'[^1]
 
 A young wife sitteth at home, her Beloved is abroad; she continually thinketh of Him and pineth away.
 She shall have no delay in meeting Him if she have good intentions.[^2]
@@ -76,7 +76,7 @@ The Shaikh then put the following questions
 What is that word, what that virtue, what that priceless spell;
 What dress shall I wear by which I may captivate the, Spouse?[^4]
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 The Guru replied:—
 
@@ -101,7 +101,7 @@ On hearing this the Shaikh raised his head in amazement and said, ‘Well done. 
 There is friendship between beauty and love, alliance between hunger and dainty viands;
 Companionship between greed and wealth, between a sleepy man and a bed and coverlet.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 The anger which barketh is despised; it is vain to worry with worldly occupations.
 To be silent, O Nanak, is good; without the Name the mouth is defiled.[^1]
@@ -121,7 +121,7 @@ O Creator, Thou art the Giver; being pleased Thou bestowest and practisest kindn
 Thou knowest all things; Thou givest and takest life with a word.[^3]
 Seated Thou beholdest _Thy work_ with delight.[^4]
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 Shaikh Brahm asked the Guru for further instruction. The Guru then spoke on the subject of humility, and said that as water, which resteth lowly on the earth, riseth under pressure into the air in sparkling fountains, so they who preserve a humble mind mount to God's highest pinnacle.
 
@@ -129,7 +129,7 @@ The Shaikh then rose to take his leave, and said, ‘O Nanak, thou hast found Go
 
 The Guru next proceeded to Dipalpur. During his journey a Sanyasi asked him to define the word _udas_. The Guru replied: 'To make use of all things in this world and not deem them one's own, but only God's property, and ever to possess a desire to meet Him is _udas_.’
 
-The Guru then visited Kanganpur, Kasur, and Patti in the Lahore District. He thence proceeded to Windpur, not far from the present town of Cholha, in the sub-collectorate of Tarn Taran in the Amritsar District. He met some Khatris who dwelt there; but when they saw him dressed as a faqir and heard his minstrel Mardana sing, they were displeased at what they considered the masquerade he had adopted, and said to him, ‘What dress is this which thou hast assumed? Having become a faqir, thou hast disgraced thy tribe, and led the world astray. Quit this place.’ The Guru represented that he would only remain for the night, and would depart next morning. He added that he was not leading people the wrong way, but guiding them to salvation. They replied that they would not allow him to remain for a moment in their village. He must <span id="p107">[<sup><small>p. 107</small></sup>]</span> depart at once, or they would forcibly expel him. The Guru, complying with this insulting order, said that the Guru's place should ever be permanent.
+The Guru then visited Kanganpur, Kasur, and Patti in the Lahore District. He thence proceeded to Windpur, not far from the present town of Cholha, in the sub-collectorate of Tarn Taran in the Amritsar District. He met some Khatris who dwelt there; but when they saw him dressed as a faqir and heard his minstrel Mardana sing, they were displeased at what they considered the masquerade he had adopted, and said to him, ‘What dress is this which thou hast assumed? Having become a faqir, thou hast disgraced thy tribe, and led the world astray. Quit this place.’ The Guru represented that he would only remain for the night, and would depart next morning. He added that he was not leading people the wrong way, but guiding them to salvation. They replied that they would not allow him to remain for a moment in their village. He must <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> depart at once, or they would forcibly expel him. The Guru, complying with this insulting order, said that the Guru's place should ever be permanent.
 
 The Guru thence proceeded to a village on the site of the present Goindwal, where he desired to stay, but no one except a poor leper would receive him or allow him to remain there. The leper took him to his hut, and entertained him for the night. The leper thanked God that he had at last seen a human face, for even the lower animals had fled from him. When he began further to bemoan his fate, the Guru uttered the following:—
 
@@ -153,7 +153,7 @@ Nanak, the True One is beneficent to all.[^1]
 
 The Guru further warmed towards the leper and blessed, him. The leper was cured of his malady, fell at the Guru's feet, and began to utter the Name.
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 The Guru then travelled through Sultanpur—his old head quarters when he was a Government official—Vairowal, and Jalalabad, until he arrived at a place called Kari Pathandi in the Amritsar District. In Kari Pathandi he made many Pathan converts. They used to serenade him with instrumental music, interspersed with cries of ‘Hail to King Nanak!’ The Guru there composed the following:—
 
@@ -173,7 +173,7 @@ And performeth the incantation of merits, shall find her Beloved.
 She who meeteth Him with her heart shall continue to meet Him; that is called a _real_ meeting.
 However much one may desire it, a meeting is not effected by words.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Metal blendeth with metal and love hasteneth to love.
 Know the Guru's favour, and thou shalt find the Fearless One.
@@ -193,7 +193,7 @@ Hindu women whether of high or low caste, meet the same fate _as they_, O Lalo.
 They sing the paean of murder, O Nanak, and smear themselves with the saffron of blood.
 Nanak singeth the praises of the Lord in the city of corpses, and uttereth this commonplace—
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 He who made men assigned them different positions; He sitteth apart alone and regardeth them.
 True is the Lord, true His decision, true the justice He meteth out as an example.
@@ -210,7 +210,7 @@ He can appoint a worm to sovereignty, and reduce an army to ashes.
 What _wonder_ would it be if God caused to live without breath all the animals which live by breathing?
 Nanak, as it pleaseth the True One, so He giveth us sustenance.[^3]
 
-A Brahman came to the Guru, offered him a basket of fruit, and said, ‘My friend, thou art uttering hymns of wrath.’ The Guru replied, 'Remain not here; there is a pool three miles distant; go thither with thy family. All who remain here will be put <span id="p111">[<sup><small>p. 111</small></sup>]</span> to death.' The Brahman acted on his advice. After some days Babar assaulted and destroyed the city. He also devastated the neighbouring villages. There was a general massacre of the people, and Pathan as well as Hindu habitations were plundered and razed to the ground.
+A Brahman came to the Guru, offered him a basket of fruit, and said, ‘My friend, thou art uttering hymns of wrath.’ The Guru replied, 'Remain not here; there is a pool three miles distant; go thither with thy family. All who remain here will be put <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> to death.' The Brahman acted on his advice. After some days Babar assaulted and destroyed the city. He also devastated the neighbouring villages. There was a general massacre of the people, and Pathan as well as Hindu habitations were plundered and razed to the ground.
 
 The lives of the Guru and Mardana were spared, probably because they were strangers, but they were imprisoned and placed under the superintendence of Mir Khan, an officer of Babar's army. Mir Khan, on seeing them, ordered, ‘Take away these slaves to work.’ The Guru was condemned to carry loads on his head, and Mardana to do the work of a groom. The Guru upon this uttered the following:—
 
@@ -226,7 +226,7 @@ I win fan Thee, I will shampoo Thy limbs, and continue to repeat Thy name.
 _Saith_ Nanak, ungrateful is Thy slave; if Thou pardon him, it will be to Thy glory.
 In the beginning, in every age, Lord of mercy, Bestower, without Thee salvation is not obtained.[^2]
 
-When the Guru had finished this hymn, Mardana saw some women weeping and shrieking as they passed along, and asked his master what had happened to them. The Guru told Mardana to play the <span id="p112">[<sup><small>p. 112</small></sup>]</span> rebeck. Mardana replied that he could not do so, as he was holding a horse. The Guru bade him utter ‘Wah Guru’ and let go the horse. Mardana obeyed and played the Rag Asa, to which the Guru sang the following hymn:—
+When the Guru had finished this hymn, Mardana saw some women weeping and shrieking as they passed along, and asked his master what had happened to them. The Guru told Mardana to play the <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> rebeck. Mardana replied that he could not do so, as he was holding a horse. The Guru bade him utter ‘Wah Guru’ and let go the horse. Mardana obeyed and played the Rag Asa, to which the Guru sang the following hymn:—
 
 They who wore beautiful tresses and the partings of whose hair were dyed with vermilion,
 Have their locks now shorn with the scissors, and dust is thrown upon their heads.
@@ -247,7 +247,7 @@ If they had thought of Him before, why should they have received punishment?
 But they had lost all thought of God in joys, in spectacles, and in pleasures.
 When Babar's rule was proclaimed no Pathan prince ate his food.
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 Some lost their _five_ times of Prayer, others their hours of worship.
 How shall Hindu women now bathe and apply frontal marks without their sacred squares?
@@ -258,7 +258,7 @@ What pleaseth God, O Nanak, shall happen; what is man?[^3]
 
 After this, Mir Khan, the governor of the jail, arrived. He saw that the Guru's bundle was raised a cubit over his head without any apparent support, and that the horse entrusted to Mardana followed him while he played sacred music on his rebeck. The governor communicated this information to Babar. The Emperor replied that, if he had known the city contained such holy men, he would not have destroyed it. At the governor's suggestion he went to the prison, which was two miles distant. There were Pathan and Hindu women huddled promiscuously together, grinding corn. The Guru had also been supplied with a hand-mill for the same purpose. It is said that the mill revolved of its own accord while he put in the corn. The Emperor addressed the Guru, but he was in a trance, thinking of the slaughter of his unoffending countrymen. On awaking he uttered the following hymn, which, however, is not found in the Granth Sahib:—
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 No one can kill him, O Kind One, whom Thou preservest.
 How can Thy praises be numbered? Thou savest countless beings.
@@ -273,7 +273,7 @@ Extricate him, O Lord, from the ocean of the world, and make him Thine own.
 
 It is said that the Emperor, on hearing this, fell at Nanak's feet, and declared that God appeared on his face. Upon this all the courtiers saluted Nanak. The Emperor asked him to accept a present from him. The Guru replied that he wanted nothing for himself, but he requested that the captives of Saiyidpur might be released, Upon this the Emperor ordered that they should be set free and their property restored to them. The captives, however, refused to depart without the Guru. He was then allowed to go with them, and they went to their homes in the city. They found that all the people who had remained in Saiyidpur had been put to death. Mardana told his master that it had all happened as God had willed it. Upon this the Guru. to the accompaniment of Mardana's rebeck, sang the following lamentation:—
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 Where are those sports, those stables, and those horses?
 Where those bugles and clarions?
@@ -295,7 +295,7 @@ One side aimed and discharged their guns, the other also handled their _weapons_
 They whose letter[^1] hath been torn in God's court must die, my brethren.
 _There were_ the wives of Hindus, of Turks, of Bhattis, and of Rajputs.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 The robes of some were torn from head to foot; the dwellings of others were their places of cremation.
 How did they whose husbands came not home pass the night?
@@ -315,7 +315,7 @@ Covetousness is a black dungeon, demerits the fetters on the feet.
 Wealth ever beateth _the soul_ with its mallet, while sin sitteth as judge.
 Man shall be either good or bad, O Lord, as Thou lookest on him.
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 The Primal Being is _now_ called Allah; the turn of the Shaikhs hath come.
 There is a tax on the shrines of the gods; such is the practice established.
@@ -334,7 +334,7 @@ Men by the exercise of falsehood build houses for themselves.
 Awake, ye sleepers; _lo! the soul_ the dealer to remain here for ever, then build houses.
 The body shall fall and the soul depart, if any one _desire_ to know _the truth_.
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 Why criest thou Alas! alas!'[^1] God is and shall be.
 Ye weep for others, _but_ who will weep for you?
@@ -353,7 +353,7 @@ Repeat the Name, hear the Name, and deal in the Name.
 As is the profit so the loss; that is the way of the world.
 What pleaseth Him, O Nanak, is my glory.[^2]
 
-One day Mardana took it into his head to ask the Guru to explain the cause of the Saiyidpur massacre. and said, ‘Sir, some Pathans have done wrong; but why have so many been killed on their account?’ The Guru pointed out a tree, and told Mardana to go and sleep under it. When he awoke, the Guru would give him an answer. Mardana accordingly went and lay down to sleep under the tree. A drop of honey fell on his naked breast. As he slept, ants came to drink it, and the sleeper half unconsciously crushed them to death with his hand. The Guru asked him on awaking what he had done. He replied <span id="p119">[<sup><small>p. 119</small></sup>]</span> that one insect had bitten him, and so he had killed them all. The Guru replied, ‘It is in that very way the people of Saiyidpur were killed.’ Upon this Mardana fell at his feet, and the remnant of the inhabitants of Saiyidpur became his disciples.
+One day Mardana took it into his head to ask the Guru to explain the cause of the Saiyidpur massacre. and said, ‘Sir, some Pathans have done wrong; but why have so many been killed on their account?’ The Guru pointed out a tree, and told Mardana to go and sleep under it. When he awoke, the Guru would give him an answer. Mardana accordingly went and lay down to sleep under the tree. A drop of honey fell on his naked breast. As he slept, ants came to drink it, and the sleeper half unconsciously crushed them to death with his hand. The Guru asked him on awaking what he had done. He replied <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> that one insect had bitten him, and so he had killed them all. The Guru replied, ‘It is in that very way the people of Saiyidpur were killed.’ Upon this Mardana fell at his feet, and the remnant of the inhabitants of Saiyidpur became his disciples.
 
 After this the Guru returned to the Emperor's camp with the object of obtaining another interview with him. He visited the prison and sang hymns for the prisoners whose treatment he deplored. Under the influence of such feelings he composed the following:—
 
@@ -369,7 +369,7 @@ If any one give himself a great name and enjoy himself to his heart's content,
 In God's view he is as a worm which nibbleth corn
 _But_ he who while alive is dead, may gain something, O Nanak, by repeating the Name.[^3]
 
-When Babar had heard this hymn, he ordered the Guru to be sent for. When the Guru appeared, the Emperor asked him to sing the hymn again, and <span id="p120">[<sup><small>p. 120</small></sup>]</span> the Guru did so. Upon this, it is said, Babar's brain opened for the reception of spiritual truths. He praised the Guru, and opening his bhang-pouch, offered him some. The Guru replied that he had already taken bhang whose intoxication would never subside. Babar asked what bhang that was. The Guru replied with the following hymn:—
+When Babar had heard this hymn, he ordered the Guru to be sent for. When the Guru appeared, the Emperor asked him to sing the hymn again, and <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> the Guru did so. Upon this, it is said, Babar's brain opened for the reception of spiritual truths. He praised the Guru, and opening his bhang-pouch, offered him some. The Guru replied that he had already taken bhang whose intoxication would never subside. Babar asked what bhang that was. The Guru replied with the following hymn:—
 
 _O God_, fear of Thee is my bhang, my heart its pouch
 I am an intoxicated hermit.
@@ -386,7 +386,7 @@ Of those who are imbued with Thy name and continue to love Thee![^2]
 
 The Emperor was so pleased with the Guru that he asked him to accompany him. The Guru would at first only promise to remain one day with him, but, on being pressed to remain three days, at last consented. The Guru was always distressed as he looked towards the prisoners. For the third time he sang the preceding hymn, and then fell into a trance and became unconscious. The Emperor stood over him, and asked the bystanders what had happened. They replied that the faqir, on beholding God's wrath, was in suffering, and had fallen into a trance. Babar became alarmed for the Guru's safety, and asked the people to pray to God for his recovery.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Upon this the Guru stood up, and there then shone such light as if a thousand suns had arisen. Babar saluted, and asked the Guru to be gracious unto him. The Guru replied, ‘If thou, O Emperor, desire kindness, set all thy captives free.’ He agreed, on one condition-that the Guru should promise that his empire should continue from generation to generation. The Guru replied, ‘Thine empire shall remain for a time.’ The Emperor on this ordered that all his prisoners should be clothed with robes of honour, a matter which gave great pleasure and satisfaction to the Guru. The Emperor asked the Guru for instruction suitable to his position, The Guru said, ‘Deliver just judgements, reverence holy men, forswear wine and gambling. The monarch who indulgeth in these vices shall, if he survive, bewail his misdeeds. Be merciful to the vanquished, and worship God in spirit and in truth.’
 
@@ -401,7 +401,7 @@ Whenever He pleaseth He hath them arrested and brought before Him.
 The slave Nanak hath ascertained
 That God alone is pure and all else impure.
 
-The Emperor, instead of being incensed at this outspoken language, invited the Guru to ask him <span id="p122">[<sup><small>p. 122</small></sup>]</span> a favour. The Guru replied to the accompaniment of Mardana's rebeck:—
+The Emperor, instead of being incensed at this outspoken language, invited the Guru to ask him <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> a favour. The Guru replied to the accompaniment of Mardana's rebeck:—
 
 It is the one God Who hath commissioned me.
 Every one partaketh of His Gifts.

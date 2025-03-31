@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:11:38Z
   </table>
 </figure>
 
-<span id="p394">[<sup><small>p. 394</small></sup>]</span>
+<span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
 [1](Book_5_10#fn789)
 
@@ -126,7 +126,7 @@ Bright as a hundred suns he blazed,
 And crest and crag of burnished gold
 Flashed on the flood that round him rolled,\*
 
-<span id="p395">[<sup><small>p. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 The Vánar thought the mountain rose
 A hostile bar to interpose,
@@ -226,7 +226,7 @@ Lodged in the shade of Dandak's boughs.
 Thence Ravan king of giants stole
 Sita the joy of Rama's soul.
 
-<span id="p396">[<sup><small>p. 396</small></sup>]</span>
+<span id="p396"><sup><small>[ p. 396 ]</small></sup></span>
 
 By Ráma's high behest to her
 I go a willing messenger;
@@ -313,7 +313,7 @@ The demon's form he tore and rent,
 And, from the mangled carcass freed,
 Came forth again with thought-like speed.  [^803]
 
-<span id="p397">[<sup><small>p. 397</small></sup>]</span>
+<span id="p397"><sup><small>[ p. 397 ]</small></sup></span>
 
 Thus with his skill the fiend he slew,
 Then to his wonted stature grew.
@@ -424,7 +424,7 @@ With none beside her, face to face?’
 When the bright sun had left the skies
 The Vánar dwarfed his mighty size,
 
-<span id="p398">[<sup><small>p. 398</small></sup>]</span>
+<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 And, in the straitest bounds restrained,
 The bigness of a cat retained.  [1](Book_5_10#fn808)
@@ -534,7 +534,7 @@ With bow and mace and flashing blade;
 Fiends of all shapes and every hue,
 Some fierce and foul, some fair to view.
 
-<span id="p399">[<sup><small>p. 399</small></sup>]</span>
+<span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 
 He saw the grisly legions wait
 In strictest watch at Rávan's gate,
@@ -606,7 +606,7 @@ On gems and gold that round him blazed,
 And many a latticed window bright
 With turkis and with lazulite.
 
-<span id="p400">[<sup><small>p. 400</small></sup>]</span>
+<span id="p400"><sup><small>[ p. 400 ]</small></sup></span>
 
 Through porch and ante-rooms he passed
 Each richer, fairer thau the last;
@@ -708,7 +708,7 @@ And many a princess fair of face
 Whom Rávan's arm had torn away
 From vanquished kings in slumber lay.
 
-<span id="p401">[<sup><small>p. 401</small></sup>]</span>
+<span id="p401"><sup><small>[ p. 401 ]</small></sup></span>
 
 There jewelled arches high o'erhead
 An ever-changing lustre shed
@@ -826,7 +826,7 @@ The monarch of the giants lay,
 Perfumed with sandal's precious scent
 And gay with golden ornament.
 
-<span id="p402">[<sup><small>p. 402</small></sup>]</span>
+<span id="p402"><sup><small>[ p. 402 ]</small></sup></span>
 
 His fiery eyes in slumber closed,
 In glittering robes the king reposed

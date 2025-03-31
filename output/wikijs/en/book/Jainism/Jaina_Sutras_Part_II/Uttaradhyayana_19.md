@@ -40,7 +40,7 @@ Their son Bala<i>s</i>rî, also known as M<i>ri</i>gâputra (i.e. son of M<i>ri<
 
 In his palace Nandana he dallied with his wives, like the god Dôgundaga [^235], always happy in his mind. (3)
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 Standing at a window of his palace [^236], the floor of which was inlaid with precious stones and jewels, he looked down on the squares, places, and roads of the town. (4)
 
@@ -58,7 +58,7 @@ Being not delighted with pleasures, but devoted to self-control, he went to his 
 
 ‘O mother, O father, I have enjoyed pleasures which are like poisonous fruit: their consequences are painful, as they entail continuous suffering. (11)
 
-‘This body is not permanent, it is impure and of <span id="p90">[<sup><small>p. 90</small></sup>]</span> impure origin; it is but a transitory residence (of the soul) and a miserable vessel of suffering. (12)
+‘This body is not permanent, it is impure and of <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> impure origin; it is but a transitory residence (of the soul) and a miserable vessel of suffering. (12)
 
 ‘I take no delight in this transitory body which one must leave sooner or later, and which is like foam or a bubble. (13)
 
@@ -78,7 +78,7 @@ Being not delighted with pleasures, but devoted to self-control, he went to his 
 
 ‘Thus he who after having followed the Law, starts for the next world, will be happy on his journey there, being exempt from Karman and suffering. (21)
 
-‘As when a house is on fire, the landlord carries away valuable things and leaves behind those of <span id="p91">[<sup><small>p. 91</small></sup>]</span> no value; so when the whole world is on fire, as it were, by old age and death, I shall save my Self, if you will permit me.’ (22, 23)
+‘As when a house is on fire, the landlord carries away valuable things and leaves behind those of <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> no value; so when the whole world is on fire, as it were, by old age and death, I shall save my Self, if you will permit me.’ (22, 23)
 
 To him his parents said: "Son, difficult to perform, are the duties of a <i>S</i>rama<i>n</i>a; a monk must possess thousands of virtues. (24)
 
@@ -96,7 +96,7 @@ To him his parents said: "Son, difficult to perform, are the duties of a <i>S</i
 
 “Hunger and thirst, heat and cold, molestation by flies and gnats, insults, miserable lodgings, pricking grass, and uncleanliness, blows and threats, corporal punishment and imprisonment, the mendicant's life and fruitless begging: all this is misery. (31, 32)
 
-“Such a life is like that of pigeons (always afraid of <span id="p92">[<sup><small>p. 92</small></sup>]</span> dangers); painful is the plucking out of one's hair; difficult is the vow of chastity and hard to keep (even) for a noble man. (33)
+“Such a life is like that of pigeons (always afraid of <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> dangers); painful is the plucking out of one's hair; difficult is the vow of chastity and hard to keep (even) for a noble man. (33)
 
 “My son, you are accustomed to comfort, you are tender and cleanly [^239]; you are not able, my son, to live as a <i>S</i>rama<i>n</i>a. (34)
 
@@ -110,7 +110,7 @@ To him his parents said: "Son, difficult to perform, are the duties of a <i>S</i
 
 “As it is very difficult to swallow burning fire, so is it difficult for a young man to live as a <i>S</i>rama<i>n</i>a. (39)
 
-“As it is difficult to fill a bag [^241] with wind, <span id="p93">[<sup><small>p. 93</small></sup>]</span> so is it difficult for a weak man to live as a <i>S</i>rama<i>n</i>a. (40)
+“As it is difficult to fill a bag [^241] with wind, <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> so is it difficult for a weak man to live as a <i>S</i>rama<i>n</i>a. (40)
 
 “As it is difficult to weigh Mount Mandara in a balance, so it is difficult to live as a <i>S</i>rama<i>n</i>a with a steady and fearless mind. (41)
 
@@ -128,7 +128,7 @@ He answered: 'O father and mother, it is even thus as you have plainly told; but
 
 ‘Though there may be cold here, it is of infinitely greater intensity there; in hell I have undergone suffering from cold. (48)
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 ‘An infinite number of times have I been roasted over a blazing fire in an oven, screaming loud, head down and feet aloft. (49)
 
@@ -144,7 +144,7 @@ He answered: 'O father and mother, it is even thus as you have plainly told; but
 
 ‘When I was born in hell for my sins, I was cut, pierced, and hacked to pieces with swords and daggers, with darts and javelins. (55)
 
-‘I have been forcibly yoked to a car of red-hot iron full of fuel [^247], I have been driven on with a goad <span id="p95">[<sup><small>p. 95</small></sup>]</span> and thongs, and have been knocked down like an antelope [^248]. (56)
+‘I have been forcibly yoked to a car of red-hot iron full of fuel [^247], I have been driven on with a goad <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> and thongs, and have been knocked down like an antelope [^248]. (56)
 
 ‘On piles, in a blazing fire, I have forcibly been burnt and roasted like a buffalo, in atonement for my sins. (57)
 
@@ -158,7 +158,7 @@ He answered: 'O father and mother, it is even thus as you have plainly told; but
 
 ‘Ever so many times have I been slit, cut, mangled, and skinned with keen-edged razors, knives, and shears. (62)
 
-‘As [^251] an antelope I have, against my will, been <span id="p96">[<sup><small>p. 96</small></sup>]</span> caught, bound, and fastened in snares and traps, and frequently I have been killed. (63)
+‘As [^251] an antelope I have, against my will, been <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> caught, bound, and fastened in snares and traps, and frequently I have been killed. (63)
 
 ‘As a fish I have, against my will, been caught with hooks and in bow-nets; I have therein been scraped, slit, and killed, an infinite number of times. (64)
 
@@ -176,7 +176,7 @@ He answered: 'O father and mother, it is even thus as you have plainly told; but
 
 ‘Always frightened, trembling, distressed, and suffering, I have experienced the most exquisite pain and misery. (71)
 
-‘I have experienced in hell sharp, acute and <span id="p97">[<sup><small>p. 97</small></sup>]</span> severe, horrible, intolerable, dreadful, and formidable pain. (72)
+‘I have experienced in hell sharp, acute and <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> severe, horrible, intolerable, dreadful, and formidable pain. (72)
 
 ‘O father, infinitely more painful is the suffering in hell than any suffering in the world of men. (73)
 
@@ -198,7 +198,7 @@ He answered: 'O father and mother, it is even thus as you have plainly told; but
 
 ‘In the same way a pious monk goes to many places and walks about just as the animals, but afterwards he goes to the upper regions. (82)
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 ‘As a wild animal goes by itself to many places, lives in many places, and always gets its food; thus a monk on his begging-tour should not despise nor blame (the food he gets). (83)
 
@@ -218,7 +218,7 @@ He was indifferent to success or failure (in begging), to happiness and misery, 
 
 He turned away from conceit and passions, from injurious, hurtful, and dangerous actions [^258], from gaiety and sadness; he was free from sins and fetters. (91)
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 He had no interest in this world and no interest in the next world; he was indifferent to unpleasant and pleasant things [^259], to eating and fasting. (92)
 

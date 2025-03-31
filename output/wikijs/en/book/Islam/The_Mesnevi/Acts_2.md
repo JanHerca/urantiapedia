@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 **CHAPTER II.**
 
@@ -44,7 +44,7 @@ _Seyyid Burhānu-’d-Dīn, Sirr-Dān, el Muhaqqiq, el Huseynī, of the posterit
 
 Seyyid Burhānu-’d-Dīn was popularly known by the name of Sirr-Dān at Balkh, Bukhārā, (Alexandria Oxiana?), and Termīz. His discourse was continually running upon the subjects of spiritual and mental phenomena, of the mysteries of earth and of heaven.
 
-When Bahā Veled quitted Balkh, the Seyyid went to Termīz, and there secluded himself as a hermit. After a while again he began to lecture in public on the significations of knowledge. Suddenly, one morning, that of Friday the 18th of Rebī‘u-’l-ākhir, a.h. 628 (February, <span id="p14">[<sup><small>p. 14</small></sup>]</span> 1231 a.d.), he cried out most bitterly, in a flood of tears, “Alas! my master has passed away from this tabernacle of dust to the abode of sincerity!” His words and the date were noted down, and, on inquiry, after his arrival in Qonya, were found to correspond exactly with the moment of Bahā Veled's decease.
+When Bahā Veled quitted Balkh, the Seyyid went to Termīz, and there secluded himself as a hermit. After a while again he began to lecture in public on the significations of knowledge. Suddenly, one morning, that of Friday the 18th of Rebī‘u-’l-ākhir, a.h. 628 (February, <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> 1231 a.d.), he cried out most bitterly, in a flood of tears, “Alas! my master has passed away from this tabernacle of dust to the abode of sincerity!” His words and the date were noted down, and, on inquiry, after his arrival in Qonya, were found to correspond exactly with the moment of Bahā Veled's decease.
 
 ## 2.
 
@@ -54,7 +54,7 @@ For forty days the disciples at Termīz mourned for the death of the great teach
 
 When the Seyyid reached Qonya, Bahā Veled had been dead about a year, and Jelāl had gone to Larenda. The Seyyid applied himself for several months to devotional seclusion in one of the mosques of Qonya; after which he sent off a letter to Jelāl by the hands of two mendicants, saying: “Come and meet this stranger to thee at the resting-place of thy father, for Larenda is not a place of permanency for thee. From that hill (on which Bahā's mausoleum was built) a fire will shower down on the city of Qonya.”
 
-After reading this epistle Jelāl returned to Qonya with all possible despatch. There he went at once to visit the Seyyid, who came forth from the mosque to receive him. They embraced. They now entered into conversation on various subjects. So delighted was the Seyyid with the expositions set forth by Jelāl that he kissed the soles of his feet, and exclaimed: “A hundredfold hast thou surpassed thy father in all knowledge of the humanities; but thy father was versed also in the mysteries of mute reality and ecstasy. From this day forward my desire is that <span id="p15">[<sup><small>p. 15</small></sup>]</span> thou shouldest also acquire that knowledge,—the knowledge possessed by the prophets and the saints, which is entitled _The Science of Divine Intuition_—the science spoken of by God (in Qur’ān xviii. 64): 'We have taught him a science from within us.' This knowledge did I acquire from my teacher; do thou receive it from me, so that thou mayest be the heir to thy father in spiritual matters as well as in things temporal. Thou wilt then be his second self.”
+After reading this epistle Jelāl returned to Qonya with all possible despatch. There he went at once to visit the Seyyid, who came forth from the mosque to receive him. They embraced. They now entered into conversation on various subjects. So delighted was the Seyyid with the expositions set forth by Jelāl that he kissed the soles of his feet, and exclaimed: “A hundredfold hast thou surpassed thy father in all knowledge of the humanities; but thy father was versed also in the mysteries of mute reality and ecstasy. From this day forward my desire is that <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> thou shouldest also acquire that knowledge,—the knowledge possessed by the prophets and the saints, which is entitled _The Science of Divine Intuition_—the science spoken of by God (in Qur’ān xviii. 64): 'We have taught him a science from within us.' This knowledge did I acquire from my teacher; do thou receive it from me, so that thou mayest be the heir to thy father in spiritual matters as well as in things temporal. Thou wilt then be his second self.”
 
 Jelāl complied with all the Seyyid pressed upon him. He took the Seyyid to his college, and for nine years received instruction from him. Some accounts make it appear that Jelāl first became the Seyyid's disciple at this time; but others go to show that Bahā Veled gave Jelāl as a pupil to the Seyyid at Balkh, and that the Seyyid used now and then to carry Jelāl about on his shoulders, like as is practised by the nursing-tutors—_lala_—of children. (Compare chap. iii., Nos. 6 and 8.)
 
@@ -66,7 +66,7 @@ The Seyyid once arrived at a certain city in Khurāsān named Sāmānek. The chi
 
 In reply, the Seyyid said to him: “I am come to inform you that, on the 10th day of next month, Ramazān, you will have occasion to go forth to a hot-bath. On your way thither you will be assassinated by the emissaries of the _Old Man of the Mountain_. This I communicate to thee, that thou mayest set thy affairs in order, and repent thee of thy sins.”
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 The Sheykhu-’l-Islām fell at the Seyyid's feet, wailing; but the latter remarked: “This is of no avail. Events are in God's hands, and He has so ordered it. Still, as thou showest so much contrition, I may add, for thy consolation, that thou wilt die in the faith, and shalt not be cut off from the divine mercy and grace.”
 
@@ -82,7 +82,7 @@ Somewhat later a party of friends took the Seyyid out for a ride among the viney
 
 On seeing Jelāl the Seyyid exclaimed to him, “Is this the proper way to reward your teacher—to break his leg?” Jelāl at once ordered the Seyyid's boot to be removed, and saw that his foot and toes were crushed. He now passed his hands along the injured limb and blew on it. The limb was at once restored whole. Jelāl now granted permission, and the Seyyid forthwith proceeded to Qaysariyya.
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ## 6.
 

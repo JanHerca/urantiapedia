@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 CHAPTER III., Verse 136.—Muhammad is but an apostle; apostles have passed away before his time; what if he die or is killed, will ye retreat upon your heels? He who retreats upon his heels does no harm to God at all; but God will recompense the thankful. It is not for any soul to die, save by God's permission written down for an appointed time; but he who wishes for the reward of this world we will give him of it, and he who wishes for the reward of the future we will give him of it, and we will recompense the grateful.
 
@@ -42,7 +42,7 @@ Chapter IV., Verse 164.—But God bears witness to what He has revealed to thee;
 
 Verily, those who misbelieve and are unjust, God will not pardon them, nor will He guide them on the road—save the road to Hell, to dwell therein for aye; that is easy enough to God!
 
-O ye folk! the Apostle has come to you with truth from your Lord; believe then, for it is <span id="p35">[<sup><small>p. 35</small></sup>]</span> better for you. But if ye misbelieve, then God's is what is in the heavens and the earth, and God is knowing, wise.
+O ye folk! the Apostle has come to you with truth from your Lord; believe then, for it is <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> better for you. But if ye misbelieve, then God's is what is in the heavens and the earth, and God is knowing, wise.
 
 Chapter VI., Verse 49.—We do not send our messengers save as heralds of glad tidings and of warning, and whoso believes and acts aright, there is no fear for them, and they shall not be grieved, but those who say our signs are lies, torment shall touch them, for that they have done so wrong.
 
@@ -56,7 +56,7 @@ So have we tried some of them by others, that they may say, “Are these those u
 
 And when those who believe in our signs come to thee, say, “Peace be on you! God hath prescribed for Himself mercy; verily, he of you who does evil in ignorance, and then turns again and does right,—verily, He is forgiving and merciful.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 (55).—Thus do we detail our signs, that the way of the sinners may be made plain.
 

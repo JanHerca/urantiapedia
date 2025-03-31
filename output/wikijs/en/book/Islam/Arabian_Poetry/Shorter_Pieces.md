@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 <figure id="Figure_09500" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/09500.jpg">
@@ -63,7 +63,7 @@ That spread his waves from shore to shore,
 Still in the verdure of the plain
 His vivifying smiles remain.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 ## ON THE TOMB OF SAYID. BY ABD ALMALEC ALHARITHY.
 
@@ -92,7 +92,7 @@ The bud of woe, no more represt,
 Shot forth and filled my labouring breast,
 &nbsp;&nbsp;Soon to expand and shed despair.
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 But though of Sayid I'm bereft,
 &nbsp;&nbsp;From whom the stream of bounty came,
@@ -110,7 +110,7 @@ Than any voice from mortal tongue:
 
 <br style="clear:both;"/>
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 ## ON THE DEATH OF HIS MISTRESS. BY ABU SAHER ALHEDILY.
 
@@ -127,7 +127,7 @@ Where my Leila's relics lie,
 Saher's dust will flit away,
 There to join his Leila's clay.
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 ## ON AVARICE. BY HATEM TAI.
 
@@ -156,7 +156,7 @@ Increasing stores of treasured gold,
 Each tribe that roves the desert knows
 I might be wealthy, if I chose.
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 But other joys can gold impart;
 Far other wishes warm my heart;—
@@ -179,7 +179,7 @@ Shall Hatem seem to Hatem poor.
 
 <br style="clear:both;"/>
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 ## ON THE BATTLE OF SABLA. BY JAAFER BEN ALBA.
 
@@ -213,7 +213,7 @@ Then, as they writhed in Death's cold grasp,
 These _hands_ the sabres’ hilt shall clasp,
 &nbsp;&nbsp;Your _hearts_ shall have the blade!”
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## VERSES ADDRESSED TO A KINDRED TRIBE AT VARIANCE WITH THE ONE TO WHICH THE POET BELONGED. BY ALFADHEL IBN ALABAS.
 
@@ -242,7 +242,7 @@ To each are different feelings given;
 ’Tis ours to live—thanks to kind Heaven—
 &nbsp;&nbsp;Hating and hated by each other.
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 ## ON HIS FRIENDS. BY MESKIN ALDARAMY.
 
@@ -260,7 +260,7 @@ And I've a place in every breast:
 &nbsp;&nbsp;  For they're a wreath of pearls, and I
 &nbsp;&nbsp;  The silken cord on which they lie.
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 ## ON TEMPER. BY NABEGAT BENI JAID.
 
@@ -274,7 +274,7 @@ But yet, my dear maid, though thy spirit's my pride,
 If life be ne’er suffered to rest or subside,
 &nbsp;&nbsp;It may not be flat, but I fear ’t will be foul.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 ## THE SONG OF MAISUNA.
 
@@ -292,7 +292,7 @@ The humble tent, and murmuring breeze
 My unaspiring fancy please,
 &nbsp;&nbsp;Better than towers and splendid halls.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 Th’ attendant colts, that bounding fly
 &nbsp;&nbsp;And frolic by the litter's side,
@@ -315,7 +315,7 @@ Will ever to Maisuna's heart
 
 <br style="clear:both;"/>
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## VERSES OF YEZID TO HIS FATHER, MOWIAH, WHO REPROACHED HIM FOR DRUNKENNESS.
 
@@ -334,7 +334,7 @@ Another reason thou hast given
 And, first, I drink myself to please,
 &nbsp;&nbsp;And, next—to anger thee!
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 ## ON FATALISM. BY THE IMAM SHAFAY MOHAMMED BEN IDRIS.
 
@@ -348,7 +348,7 @@ Nor want nor weakness still conspires
 The fly, that with a touch expires,
 &nbsp;&nbsp;Sips honey from the royal plate.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 ## TO THE KHALIF HAROUN ALRASHID, ON HIS UNDERTAKING A PILGRIMAGE TO MECCA. By IBRAHIM BEN ADHEM.
 
@@ -362,7 +362,7 @@ Thrice happy they who seek th’ abode
 Who spurn the world, its joys despise,
 &nbsp;&nbsp;And grasp at bliss beyond the skies.
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 ## ON THE INAUGURATION OF HAROUN ALRASHID, AND THE APPOINTMENT OF YAHIA TO BE HIS VIZIER. BY ISAAC ALMOUSELY.
 
@@ -376,7 +376,7 @@ Again the sun shoots forth his rays;
 &nbsp;&nbsp;For mighty Haroun's sceptre sways,
 And Yahia's arm sustains the globe.
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## ON THE RUIN OF THE BARMECIDES.
 
@@ -390,7 +390,7 @@ Spouse of the world! thy soothing breast
 And now, no more by thee caressed,
 &nbsp;&nbsp;The widowed world bewails her lord.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ## EPIGRAM ON TAHER BEN HOSEIN, WHO WAS AMBIDEXTER AND ONE-EYED.
 
@@ -399,7 +399,7 @@ Must form not a man, but a monster, they cry:
 Change a hand to an eye, good Taher, if you can,
 And a monster perhaps may be changed to man.
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 ## THE ADIEU. BY ABU MOHAMMED.
 
@@ -423,7 +423,7 @@ My willing arms embraced the maid,
 While she but wept the more and said,
 &nbsp;&nbsp;“Would we had never met!”
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 ## VERSES ADDRESSED TO HIS MISTRESS, WHO HAD FOUND FAULT WITH HIM FOR PROFUSION. BY ABU TEMAN HABIB.
 
@@ -437,7 +437,7 @@ To spare's the wish of little souls;
 Yon current don the mountain rolls,
 &nbsp;&nbsp;And stagnates in the swamp belay.
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 ## TO A FEMALE CUPBEARER. BY ABD ALSALAM BEN RAGBAN.
 
@@ -451,7 +451,7 @@ A draught like this ‘twere vain to seek,
 It steals its tint from Leila's cheek,
 &nbsp;&nbsp;Its brightness from her eye.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 ## SONGS BY MASHDUD, RAKEEK, AND RAIS,
 
@@ -463,7 +463,7 @@ I was one day going to the mosque \[says Abu Akramah, an author who supported hi
 
 Mashdud saluted me, and asked whither I was going. I answered, to the mosque, and confessed without reserve the business which drew me thither. The poet, upon hearing this, pressed me to accompany him to the palace of Abu Isy. I declined, however, complying with his solicitations, conscious of the impropriety of intruding myself uninvited into the presence of a person of such rank and consequence. But Abu Isy's porter, overhearing our conversation, declared that he would put an end to my difficulties in a moment, by acquainting his master with my arrival. He did so; and in a short time two servants appeared, who took me up in their arms, and carried the into a most magnificent apartment, where their master was sitting.
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 Upon my introduction, I could not help feeling a little confused, but the Prince soon made me easy, by calling out in a good-natured manner, “Why do you stand blushing there, you simpleton? Take a seat.” I obeyed: and in a few minutes a sumptuous collation was brought in, of which I partook. Nor was the juice of the grape forgotten: a cupbearer, brilliant as the morning star, poured out wine for us, more sparkling than the beams of the sun reflected by a mirror.
 
@@ -486,7 +486,7 @@ Though your pallid faces prove
 ’Tis but that you ever love
 &nbsp;&nbsp;Flowing goblets more than sleep.
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 Though your eyeballs, dim and sunk,
 &nbsp;&nbsp;Stream in penitential guise,
@@ -517,7 +517,7 @@ As Night flits, she does but cry.
 Thus our joys with yours shall vie,
 &nbsp;&nbsp;Tenants of yon hallowed fane!
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 It was Rais’ turn next, who charmed us with this plaintive little dialogue, supposed to pass betwixt himself and a Lady:
 
@@ -547,7 +547,7 @@ Slumber may desert my bed;
 ’Tis the robe of beauty spread
 &nbsp;&nbsp;O’er my Selim's rosy cheek.
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 ## TO A LADY WEEPING. BY EBN ALRUMI.
 
@@ -568,7 +568,7 @@ When Mirth sits smiling in thine eyes,
 But when through Pity's flood they gleam,
 &nbsp;&nbsp;Who but must _love_ their softened beam?
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 ## ON A VALETUDINARIAN. BY THE SAME.
 
@@ -584,7 +584,7 @@ HANG her—a thoughtless, wasteful fool,
 Quoth Hassan, angry at his mule,
 &nbsp;&nbsp;That dropped a dinner to the crows.
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 ## TO CASSIM OBID ALLAH, ON THE DEATH OF ONE OF HIS SONS. BY ALI BEN AHMED BEN MANSOUR.
 
@@ -603,7 +603,7 @@ No wonder thou shouldst droop with woe,
 But now thy tears must doubly flow,
 &nbsp;&nbsp;For ah,—the other's left!
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 ## TO A FRIEND, ON HIS BIRTHDAY.
 
@@ -614,7 +614,7 @@ So live, that at thy parting hour,
 They may the flood of sorrow pour,
 &nbsp;&nbsp;And thou in smiles be dressed.
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 ## ON A CAT, THAT WAS KILLED AS SHE WAS ATTEMPTING TO ROB A DOVE-HOUSE. BY IBN ALALAF ALNAHARWANY.
 
@@ -643,7 +643,7 @@ In fancy she had got them all,
 Alas! she only got a fall,
 &nbsp;&nbsp;And only drank the draught of death.
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Why, why was pigeon's flesh so nice,
 &nbsp;&nbsp;That thoughtless cats should love it thus?
@@ -661,7 +661,7 @@ And cursed the dainty where we find
 
 <br style="clear:both;"/>
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 ## EPIGRAM ON EBN NAPHTA-WAH. BY MOHAMMED BEN ZEID ALMOTAKALAM.
 
@@ -679,7 +679,7 @@ THE loftiest cedars I can eat,
 I storm whene’er you give me meat;
 &nbsp;&nbsp;Whene’er you give me drink, I die.
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 ## TO A LADY, ON SEEING HER BLUSH. BY THE KHALIF RADHI BILLAH.
 
@@ -693,7 +693,7 @@ Leila, shall I the cause impart
 The crimson stream deserts my heart
 &nbsp;&nbsp;To mantle on thy face.
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 ## ON THE VICISSITUDES OF LIFE. BY THE SAME.
 
@@ -717,7 +717,7 @@ Who, with health and pleasure gay,
 Were not age and pain to say—
 &nbsp;&nbsp;Man is but the child of woe?
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 ## TO A DOVE. BY SERAGE ALWARAK.
 
@@ -736,7 +736,7 @@ Sure, gentle bird, my drooping heart
 And plaintive murm’rings are thy part,
 &nbsp;&nbsp;And silent grief and tears are mine.
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 ## ON A THUNDER-STORM. BY IBRAHIM BEN KHIRET ABU ISAAC.
 
@@ -754,7 +754,7 @@ The lightning laughed, with horrid glare;
 The thunder growled, in rage; the air
 &nbsp;&nbsp;  In silent sorrow stood.
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 ## TO HIS FAVOURITE MISTRESS. BY SAIF ADDAULET, SULTAN OF ALEPPO.
 
@@ -778,7 +778,7 @@ Yet let not Abla sink depressed,
 We meet not—’tis to meet more blest;
 &nbsp;&nbsp;We parted—’tis to part no more.
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 ## ON THE CRUCIFIXION OF EBN BAKIAH. BY ABU HASSAN ALANBARY.
 
@@ -807,7 +807,7 @@ The earth's too small for one so great;
 The clouds shall be thy winding-sheet,
 &nbsp;&nbsp;The spacious vault of heaven thy grave.
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 ## ON THE CAPRICES OF FORTUNE. BY SHEMS ALMAALI CABUS, THE DETHRONED SULTAN OF GEORGIA.
 
@@ -826,7 +826,7 @@ Each lesser star that studs the sphere
 Dark and eclipsed alone appear
 &nbsp;&nbsp;The Lord of Day, the Queen of Night.
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 ## LIFE.
 
@@ -840,7 +840,7 @@ As the flock seeks the pasturing shade,
 While Death, amidst the tufted glade,
 &nbsp;&nbsp;Like the dun robber, (\*) [^21] waits his prey.
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 ## TO LEILA.
 
@@ -859,7 +859,7 @@ Ah! were its fluttering pinions free,
 Or did the child its sufferings see,
 &nbsp;&nbsp;He'd pity and relieve them too.
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 ## EXTEMPORE VERSES
 
@@ -885,7 +885,7 @@ At length the rising King of Day
 Like Carawash's eye, whose ray
 &nbsp;&nbsp;Dispenses every good.
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 ## ON THE DEATH OF A SON. BY ALI BEN MOHAMMED ALTAHMANY.
 
@@ -914,7 +914,7 @@ Life is a sleep of threescore years;
 And man, with all his hopes and fears,
 &nbsp;&nbsp;Is but a phantom of the night.
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 ## ON MODERATION IN OUR PLEASURES. BY ABU ALCASSIM EBN TABATABA.
 
@@ -938,7 +938,7 @@ But if thy flask profusely sheds
 Swift round the sinking flame it spreads,
 &nbsp;&nbsp;And kills the fire it fain would raise.
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 ## ON THE VALE OF BOZAA. BY AHMED BEN YOUSEF ALMENAZY.
 
@@ -962,7 +962,7 @@ So smooth the pebbles on its shore,
 But counts her strings of jewels o’er,
 &nbsp;&nbsp;And thinks the pearls have slipped away.
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 ## TO ADVERSITY. BY ABU MENBAA CARAWASH, SULTAN OF MOUSEL.
 
@@ -976,7 +976,7 @@ I'd lain the shapeless mass that Nature made;
 But formed, great artist, by thy magic hand,
 I gleam a sword, to conquer and command.
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 ## ON THE INCOMPATIBILITY OF PRIDE AND TRUE GLORY. BY ABU ALOLA.
 
@@ -995,7 +995,7 @@ And thus the falling shades of Night
 And ere they stretch their gloomy flight,
 &nbsp;&nbsp;Must win the lengthened space from Day.
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 ## ON THE DEATH OF NEDHAM ALMOLK,
 
@@ -1011,7 +1011,7 @@ Too long its beams of orient light
 Allah has now revenged the slight,
 &nbsp;&nbsp;And called it to its native bed.
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 ## VERSES ADDRESSED BY WALADATA, DAUGHTER OF MOHAMMED
 
@@ -1027,7 +1027,7 @@ The wounds on our cheeks are but transient, I own,
 But those on the heart, fickle youths, ye have shown
 &nbsp;&nbsp;To be even more transient than they.
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 ## VERSES ADDRESSED TO HIS DAUGHTERS, DURING HIS IMPRISONMENT, BY MOTAMMED BEN ABAD, SULTAN OF SEVILLE.
 
@@ -1043,7 +1043,7 @@ While these dear maids, in beauty's bloom,
 By sordid labours at the loom
 &nbsp;&nbsp;Must earn a poor, precarious bread.
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Those feet, that never touched the ground
 &nbsp;&nbsp;Till musk or camphor strewed the way,
@@ -1071,7 +1071,7 @@ Attentive view Motammed's fate,
 
 <br style="clear:both;"/>
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 ## A SERENADE TO HIS SLEEPING MISTRESS. BY ALI BEN ABD ALGANY, OF CORDOVA.
 
@@ -1085,7 +1085,7 @@ How canst thou doom me, cruel fair,
 No idol e’er this heart could share
 &nbsp;&nbsp;This heart has worshipped thee alone.
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 ## THE INCONSISTENT.
 
@@ -1096,7 +1096,7 @@ WHEN I sent you my melons, you cried out with scorn,
 When I offered myself, whom those graces adorn,
 &nbsp;&nbsp;You flouted, and called me an _ugly old_ fellow!
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 ## ON THE CAPTURE OF JERUSALEM, IN THE FIRST CRUSADE. BY ALMODHAFER ALABIWERDY.
 
@@ -1120,7 +1120,7 @@ Survey their fate, and hear their woes:
 How some through trackless deserts fly,
 Some in the vulture's maw repose;
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 While some, more wretched still, must bear
 The tauntings of a Christian's tongue;—
@@ -1148,7 +1148,7 @@ Wake you to Vengeance and to Love!
 
 <br style="clear:both;"/>
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 ## TO A LADY, WHO ACCUSED HER LOVER OF FLATTERY.
 
@@ -1180,7 +1180,7 @@ But how thy mantle waves behind,
 How float thy tresses on the wind,
 &nbsp;&nbsp;  Another only shows.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 ## EPIGRAM ON ABU ALCHAIR SELAMU, AN EGYPTIAN PHYSICIAN. BY GEORGE, A PHYSICIAN OF ANTIOCH.
 
@@ -1194,7 +1194,7 @@ Where’er admission thou canst gain,
 At once the Doctor they retain,
 &nbsp;&nbsp;The mourners and the hearse.
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 ## TO A LITTLE MAN WITH A VERY LARGE BEARD. BY ISAAC BEN KHALIF.
 
@@ -1213,7 +1213,7 @@ A man like thee scarce e’er appeared;
 Surely thou cherishest thy beard,
 &nbsp;&nbsp;In hopes to hide thyself behind it!
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 ## LAMIAT ALAJEM. BY MAUID EDDIN ALHASSAN ABU ISMAEL ALTOGRAI.
 
@@ -1230,7 +1230,7 @@ Obscured, concealed, but never lost—
 The same bright orb that led the day
 Pours from the west his mellowed ray.
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 &nbsp;&nbsp;Zaura, farewell! No more I see
 Within thy walls a home for me;
@@ -1263,7 +1263,7 @@ Has snatched my high-built hopes away,
 And bade this wish my labours close,—
 Give me not riches, but repose.
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 &nbsp;&nbsp;’Tis he! that mien my friend declares,
 That stature, like the lance he bears;
@@ -1472,7 +1472,7 @@ And roam through Folly's wilds no more!
 
 <br style="clear:both;"/>
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 ## TO YOUTH. BY EBN ALRABIA, IN HIS OLD AGE.
 
@@ -1491,7 +1491,7 @@ Yet though thou fled’st away so fast,
 For I can talk of what is past,
 &nbsp;&nbsp;And while I talk, enjoy thee still.
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 ## ON LOVE. BY ABU ALI, THE MATHEMATICIAN.
 
@@ -1512,7 +1512,7 @@ The circle's bounding line are they;
 My ready love, the equal ray
 &nbsp;&nbsp;That flows to every part.
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 ## A REMONSTRANCE WITH A DRUNKARD. BY YAHIA BEN SALAMET.
 
@@ -1543,7 +1543,7 @@ Thus I reproved his drunken plight,
 “I vow I'll bid adieu to wine—
 &nbsp;&nbsp;As soon as I am dead!”
 
-<span id="p165">[<sup><small>p. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 ## VERSES ADDRESSED BY THE KHALIF ALMOKTAFI LIAMRILLAH TO A LADY, WHO PRETENDED A PASSION FOR HIM IN HIS OLD AGE.
 
@@ -1557,7 +1557,7 @@ Say that you hate, and freely show
 And I may love you, when I know
 &nbsp;&nbsp;That you can tell the truth.
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 ## ON PROCRASTINATION. BY HEBAT ALLAH IBN ALTALMITH.
 
@@ -1576,7 +1576,7 @@ The travellers thus, who wildly roam,
 Are left, when they should reach their home,
 &nbsp;&nbsp;Benighted on the way.
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 ## ON THE EARLY DEATH OF ABU ALHASSAN ALI,
 
@@ -1602,7 +1602,7 @@ If gracious Allah bade thee close
 ’Tis that he readiest welcomes those
 &nbsp;&nbsp;Who love him best, and best obey.
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 ## THE INTERVIEW. A SONG IN THE RHYTHM OF THE ORIGINAL, WITH THE MUSIC ANNEXED.
 

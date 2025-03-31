@@ -29,7 +29,7 @@ dateCreated: 2024-11-24T12:47:51Z
   </table>
 </figure>
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 <figure id="Figure_27800" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/The_Glory_of_the_Shia_World/27800.jpg">
@@ -50,7 +50,7 @@ O Chief of the friends
 O Source of Wonders!
 O Ali the Chosen!
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 <figure id="Figure_27900" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/The_Glory_of_the_Shia_World/27900.jpg">
@@ -64,7 +64,7 @@ _In hidden but complete verse,_
 _When Hatif (the Good Angel) put out his head and sang_,
 “_This book of travel has been speedily completed_.” [^70]
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 Printed by R. & R. CLARK, LIMITED, Edinburgh.
 

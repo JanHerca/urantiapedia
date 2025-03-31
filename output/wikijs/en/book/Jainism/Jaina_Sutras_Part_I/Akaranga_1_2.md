@@ -32,19 +32,19 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 SECOND LECTURE, CALLED CONQUEST OF THE WORLD.
 
 ## FIRST LESSON.
 
-Quality is the seat of the root, and the seat of the root is quality [^109]. He who longs for the qualities, is overcome by great pain, and he is careless [^110]. (For he thinks) I have to provide for a mother, for a father, for a sister, for a wife, for sons, for daughters, for a daughter-in-law, for my friends, for near and remote relations, for my acquaintances [^111], for different kinds of property, profit, meals, and clothes. Longing for these objects, people are careless, suffer day and night, work in the right and the wrong time, desire wealth and treasures, commit injuries and violent acts, direct the mind, again and again, upon these injurious doings (described in the preceding lecture). (1) (Doing so), the life of some mortals (which by destiny would have been long) is shortened. For when with the deterioration of the perceptions of the ear, eye, organs of smelling, tasting, touching, a man becomes aware of the decline of life, they [^112] after a time <span id="p16">[<sup><small>p. 16</small></sup>]</span> produce dotage. Or his kinsmen with whom he lives together will, after a time, first grumble at him, and he will afterwards grumble at them. They cannot help thee or protect thee, nor canst thou help them or protect them. (2) He is not fit for hilarity, playing, pleasure, show. Therefore, ah! proceeding to pilgrimage, and thinking that the present moment is favourable (for such intentions [^113]), he should be steadfast and not, even for an hour, carelessly conduct himself. His youth, his age, his life fade away.
+Quality is the seat of the root, and the seat of the root is quality [^109]. He who longs for the qualities, is overcome by great pain, and he is careless [^110]. (For he thinks) I have to provide for a mother, for a father, for a sister, for a wife, for sons, for daughters, for a daughter-in-law, for my friends, for near and remote relations, for my acquaintances [^111], for different kinds of property, profit, meals, and clothes. Longing for these objects, people are careless, suffer day and night, work in the right and the wrong time, desire wealth and treasures, commit injuries and violent acts, direct the mind, again and again, upon these injurious doings (described in the preceding lecture). (1) (Doing so), the life of some mortals (which by destiny would have been long) is shortened. For when with the deterioration of the perceptions of the ear, eye, organs of smelling, tasting, touching, a man becomes aware of the decline of life, they [^112] after a time <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> produce dotage. Or his kinsmen with whom he lives together will, after a time, first grumble at him, and he will afterwards grumble at them. They cannot help thee or protect thee, nor canst thou help them or protect them. (2) He is not fit for hilarity, playing, pleasure, show. Therefore, ah! proceeding to pilgrimage, and thinking that the present moment is favourable (for such intentions [^113]), he should be steadfast and not, even for an hour, carelessly conduct himself. His youth, his age, his life fade away.
 
 A man who carelessly conducts himself; who killing, cutting, striking, destroying, chasing away, frightening (living beings) resolves to do what has not been done (by any one)—him his relations with whom he lived together, will first cherish, and he will afterwards cherish them. But they cannot help thee or protect thee, nor canst thou help them or protect them. (3)
 
 Or he heaps up treasures for the benefit of some spendthrifts, by pinching himself. Then, after a time, he falls in sickness; those with whom he lives together will first leave him, and he will afterwards leave them. They cannot help thee or protect thee, nor canst thou help them or protect them. (4)
 
-Knowing pain and pleasure in all their variety [^114], and seeing his life not yet decline, a wise man should know that to be the proper moment (for entering a religious life); while the perceptions of his ear, eye, organs of smelling, tasting, touching are not <span id="p17">[<sup><small>p. 17</small></sup>]</span> yet deteriorated, while all these perceptions are not yet deteriorated, man should prosecute [^115] the real end of his soul [^116]. Thus I say. (5)
+Knowing pain and pleasure in all their variety [^114], and seeing his life not yet decline, a wise man should know that to be the proper moment (for entering a religious life); while the perceptions of his ear, eye, organs of smelling, tasting, touching are not <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> yet deteriorated, while all these perceptions are not yet deteriorated, man should prosecute [^115] the real end of his soul [^116]. Thus I say. (5)
 
 
 
@@ -53,7 +53,7 @@ Knowing pain and pleasure in all their variety [^114], and seeing his life not y
 
 A wise man should remove any aversion (to control [^117]); he will be liberated in the proper time. Some, following wrong instruction, turn away (from control). They are dull, wrapped in delusion. While they imitate the life of monks, (saying), ‘We shall be free from attachment,’ they enjoy the pleasures that offer themselves [^118]. Through wrong instruction the (would-be) sages trouble themselves (for pleasures); thus they sink deeper and deeper in delusion, (and cannot get) to this, nor to the opposite shore [^119]. Those who are freed (from attachment to the world and its pleasures), reach the opposite shore [^120]. Subduing desire by desirelessness, he does not enjoy the pleasures that offer themselves. Desireless, giving up the world, and ceasing to act, he knows, and sees, and has no wishes because of his discernment [^121]; he is called houseless. (t)
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 (But on the contrary) he suffers day and night, works in the right and the wrong time, desires wealth and treasures, commits injuries and violent acts, again and again directs his mind upon these injurious doings [^122]; for his own sake, to support or to be supported by his relations, friends, the ancestors, gods, the king, thieves, guests, paupers, <i>S</i>rama<i>n</i>as. (2)
 
@@ -68,7 +68,7 @@ This road (to happiness) has been declared by the noble ones, that a clever man 
 
 ‘Frequently (I have been born) in a high family, frequently in a low one; I am not mean, nor noble, nor do I desire (social preferment).’ Thus reflecting, who would brag about his family or about his glory, or for what should he long? (1)
 
-Therefore a wise man should neither be glad nor angry (about his lot): thou shouldst know and consider the happiness of living creatures. Carefully conducting himself, he should mind this: blindness, deafness, dumbness, one-eyedness, <span id="p19">[<sup><small>p. 19</small></sup>]</span> hunchbackedness [^124], blackness, variety of colour (he will always experience); because of his carelessness he is born in many births, he experiences various feelings. (2)
+Therefore a wise man should neither be glad nor angry (about his lot): thou shouldst know and consider the happiness of living creatures. Carefully conducting himself, he should mind this: blindness, deafness, dumbness, one-eyedness, <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> hunchbackedness [^124], blackness, variety of colour (he will always experience); because of his carelessness he is born in many births, he experiences various feelings. (2)
 
 Not enlightened (about the cause of these ills) he is afflicted (by them), always turns round (in the whirl of) birth and death. Life is dear to many who own fields and houses. Having acquired dyed and coloured (clothes), jewels, earrings, gold, and women, they become attached to these things. And a fool who longs for life, and worldly-minded [^125], laments that (for these worldly goods) penance, self-restraint, and control do not avail, will ignorantly come to grief. (3)
 
@@ -76,7 +76,7 @@ Those who are of a steady conduct do not desire this (wealth). Knowing birth and
 
 For there is nothing inaccessible for death. All beings are fond of life [^126], like pleasure, hate pain, shun destruction, like life, long to live. To all life is dear [^127]. (4)
 
-Having acquired it (i.e. wealth), employing bipeds and quadrupeds, gathering riches in the three ways [^128], <span id="p20">[<sup><small>p. 20</small></sup>]</span> whatever his portion will be, small or great, he will desire to enjoy it. Then at one time, his manifold savings are a large treasure. Then at another time, his heirs divide it, or those who are without a living steal it, or the king takes it away, or it is ruined in some way or other, or it is consumed by the conflagration of the house. Thus a fool doing cruel deeds which benefit another, will ignorantly come thereby to grief. (5)
+Having acquired it (i.e. wealth), employing bipeds and quadrupeds, gathering riches in the three ways [^128], <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> whatever his portion will be, small or great, he will desire to enjoy it. Then at one time, his manifold savings are a large treasure. Then at another time, his heirs divide it, or those who are without a living steal it, or the king takes it away, or it is ruined in some way or other, or it is consumed by the conflagration of the house. Thus a fool doing cruel deeds which benefit another, will ignorantly come thereby to grief. (5)
 
 This certainly has been declared by the sage [^129]. They do not cross the flood [^130], nor can they cross it; they do not go to the next shore, nor can they go to it; they do not go to the opposite shore, nor can they go to it.
 
@@ -86,7 +86,7 @@ He who sees by himself, needs no instruction. But the miserable, afflicted fool 
 
 
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 ## FOURTH LESSON.
 
@@ -96,7 +96,7 @@ Knowing pleasure and pain separately [^132], they trouble themselves about the e
 
 Wisely reject hope and desire [^134], and extracting that thorn (i.e. pleasure) thou (shouldst act rightly). People who are enveloped by delusion do not understand this: he who (gathers wealth) will, perhaps, not have the benefit of it.
 
-The world is greatly troubled by women. They (viz. men) forsooth say, ‘These are the vessels (of happiness).’ But this leads them to pain, to delusion, <span id="p22">[<sup><small>p. 22</small></sup>]</span> to death, to hell, to birth as hell-beings or brute beasts. The fool never knows the law. (3)
+The world is greatly troubled by women. They (viz. men) forsooth say, ‘These are the vessels (of happiness).’ But this leads them to pain, to delusion, <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> to death, to hell, to birth as hell-beings or brute beasts. The fool never knows the law. (3)
 
 Thus spake the hero [^135]: ‘Be careful against this great delusion; the clever one should have done with carelessness by considering death in tranquillity, and that, the nature of which is decay (viz. the body); these (pleasures), look! will not satisfy (thee). Therefore have done with them! Sage, look! this is the great danger, it should overcome none whomsoever. He is called a hero who is not vexed by (the hardships caused) by control. He should not be angry because the (householder) gives him little. If turned off, he should go. Thou shouldst conform to the conduct of the sages.’ Thus I say. (4)
 
@@ -107,17 +107,17 @@ Thus spake the hero [^135]: ‘Be careful against this great delusion; the cleve
 
 That for this (viz. pleasure) the wants of the world should be supplied by bad injurious doings: for one's own sons, daughters, daughters-in-law, kinsmen, nurses, kings, male and female slaves, male and female servants, for the sake of hospitality, of supper and breakfast, the accumulation of wealth is effected. (1)
 
-(This is) here for the enjoyment of some men. (But a wise man) exerting himself, houseless, noble, of noble intellect, of noble perception recognises the proper moment (for all actions). He should not accept, nor cause others to accept, or permit them <span id="p23">[<sup><small>p. 23</small></sup>]</span> to accept anything unclean [^136]. Free from uncleanliness he should wander about. (2)
+(This is) here for the enjoyment of some men. (But a wise man) exerting himself, houseless, noble, of noble intellect, of noble perception recognises the proper moment (for all actions). He should not accept, nor cause others to accept, or permit them <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> to accept anything unclean [^136]. Free from uncleanliness he should wander about. (2)
 
 Being not seen in buying and selling, he should not buy, nor cause others to buy, nor consent to the buying of others. This mendicant who knows the time, the strength (of himself), the measure (of all things), the practice [^137], the occasion (for begging, &c.), the conduct, the religious precepts [^138], the true condition (of the donor or hearer), who disowns all things not requisite for religious purposes [^139], who is under no obligations, he proceeds securely (on the road to final liberation) after having cut off both (love and hate). Clothes, alms-bowls, blankets, brooms, property [^140], straw mats, with regard to these things he should know (what is unclean). When he receives food he should know the quantity required. This has been declared by the Revered One: he should not rejoice in the receipt of a gift, nor be sorry when he gets nothing. Having got much, one should not store it away; one should abstain from things not requisite for religious purposes. With a mind different (from that of common people) a seer abandons (these things). This is the road taught by the noble ones, well acquainted with which one should not be defiled (by sin). Thus I say. (3)
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Pleasures are difficult to reject, life is difficult to prolong. That man, certainly, who loves pleasures, is afflicted (by their loss), is sorry in his heart, leaves his usual ways, is troubled, suffers pain. The farsighted one who knows the world, knows its inferior part (hell), its upper part (heaven), its side-long part (the state of brute beasts). He who knows the relation (of human affairs, viz.) that he who desires for the world is always turned round (in the sa<i>m</i>sâra), is called among mortals a hero, who liberates those who are fettered. (4)
 
 As the interior (of the body is loathsome), so is the exterior; as the exterior, so is the interior. In the interior of the body he perceives the foul interior humours, he observes their several courses (or eruptions). A well-informed man knowing (and renouncing the body and pleasures), should not eat (his saliva [^141]); he should not oppose himself to the (current of knowledge). Certainly, that man who engages in worldly affairs, who practises many tricks, who is bewildered by his own doings, acts again and again on that desire which increases his unrighteousness [^142]. Hence the above has been said for the increase of this (life) [^143]. (A man addicted to pleasures) acts as if immortal, and puts great faith (in pleasure); but when he perceives that this body sustains pains, he cries in his ignorance. Therefore keep in your mind what I say. (5)
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 A heretic [^144] professes to cure (the love of pleasure), while he kills, cuts, strikes, destroys, chases away, resolves to do what has not been done before. To whom he applies the cure—enough of that fool's affection [^145]; or he who has (the cure) applied, is a fool. This does not apply to the houseless. Thus I say. (6)
 
@@ -126,7 +126,7 @@ A heretic [^144] professes to cure (the love of pleasure), while he kills, cuts,
 
 ## SIXTH LESSON.
 
-He who perfectly understands (what has been said in the preceding lesson) and follows the (faith) to be coveted, should therefore do no sinful act, nor cause others to do one. Perchance he meditates a sin (by an act against only) one (of the six aggregates of lives); but he will be guilty (of sin against) every one of the six, Desiring happiness and bewailing much, he comes ignorantly to grief through his own misfortune. (1) Through his own carelessness every one produces that phase of life in which the vital spirits are pained. Observing (the pain of mundane existence, one should) not (act) with violence. This is called the true knowledge (and renunciation). He who ceasing from acts relinquishes the idea of property, relinquishes property itself. That sage has seen the path (to final liberation) for whom there exists no property. Knowing this, a wise man, who knows the world and has cast off the idea of the world, <span id="p26">[<sup><small>p. 26</small></sup>]</span> should prudently conquer [^146] the obstructions to righteousness. Thus I say. (2)
+He who perfectly understands (what has been said in the preceding lesson) and follows the (faith) to be coveted, should therefore do no sinful act, nor cause others to do one. Perchance he meditates a sin (by an act against only) one (of the six aggregates of lives); but he will be guilty (of sin against) every one of the six, Desiring happiness and bewailing much, he comes ignorantly to grief through his own misfortune. (1) Through his own carelessness every one produces that phase of life in which the vital spirits are pained. Observing (the pain of mundane existence, one should) not (act) with violence. This is called the true knowledge (and renunciation). He who ceasing from acts relinquishes the idea of property, relinquishes property itself. That sage has seen the path (to final liberation) for whom there exists no property. Knowing this, a wise man, who knows the world and has cast off the idea of the world, <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> should prudently conquer [^146] the obstructions to righteousness. Thus I say. (2)
 
 The hero does not tolerate discontent,
 
@@ -146,7 +146,7 @@ Such a man is said to have crossed the flood (of life), to be a sage, to have pa
 
 A sage is called unfit who does not follow the law and fails in his office. (But on the contrary) he is praised as a hero, he overcomes the connection with the world, he is called the guide (or the right way). What has been declared to be here the unhappiness of mortals, of that unhappiness the clever ones propound the knowledge. (4)
 
-Thus understanding (and renouncing) acts, a man who recognises the truth, delights in nothing else; and he who delights only in the truth, recognises nothing else. As (the law) has been revealed for the full one, so for the empty one; as for the empty <span id="p27">[<sup><small>p. 27</small></sup>]</span> one, so for the full one [^148]. But he (to whom the faith is preached) will perhaps disrespectfully beat (the preacher). Yet know, there is no good in this (indiscriminate preaching). (But ascertain before) what sort of man he is, and whom he worships. He is called a hero who liberates the bound, above, below, and in the sideward directions. He always conforms to all knowledge (and renunciation); the hero is not polluted by the sin of killing. He is a wise man who perfectly knows the non-killing [^149], who searches after the liberation of the bound. The clever one is neither bound nor liberated; he should do or leave undone (what the hero does or does not do); he should not do what (the hero) leaves undone:
+Thus understanding (and renouncing) acts, a man who recognises the truth, delights in nothing else; and he who delights only in the truth, recognises nothing else. As (the law) has been revealed for the full one, so for the empty one; as for the empty <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> one, so for the full one [^148]. But he (to whom the faith is preached) will perhaps disrespectfully beat (the preacher). Yet know, there is no good in this (indiscriminate preaching). (But ascertain before) what sort of man he is, and whom he worships. He is called a hero who liberates the bound, above, below, and in the sideward directions. He always conforms to all knowledge (and renunciation); the hero is not polluted by the sin of killing. He is a wise man who perfectly knows the non-killing [^149], who searches after the liberation of the bound. The clever one is neither bound nor liberated; he should do or leave undone (what the hero does or does not do); he should not do what (the hero) leaves undone:
 
 Knowing (and renouncing) murder of any kind and worldly ideas in all respects [^150].
 

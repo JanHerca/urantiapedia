@@ -32,7 +32,7 @@ dateCreated: 2025-2-4T22:17:56Z
   </table>
 </figure>
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Three phases of Bahaism have to be considered.
 
@@ -48,7 +48,7 @@ As One said, ages ago, “I am The Way,” so Mirza Ali Mohammed said, “I am T
 
 That One also declared that He came “not to destroy, but to fulfil.” So came Mirza Ali Mohammed, not attempting in any degree to uproot the teachings and doctrines of the creator of the Koran, but to urge a complete whole-hearted performance of the Prophet's commandments.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 “The Bab”—for as such he was acknowledged and will be reverently remembered—believed emphatically this: that, “in the past, whenever there was need, God raised up a Prophet on the earth, bearing a book containing a Divine Revelation; and He will do the same in the future, whenever there is need.”
 
@@ -56,7 +56,7 @@ He believed, every whit as emphatically, that he, in his own person, was inspire
 
 The Book of The Bab was entitled “The Bayan,” and, taken generally, it constituted a new rendering of much that the Prophet of Islam had written, spoken, and enforced.
 
-Steadfast as his belief in himself was, he believed also, as steadfastly, that, while he held open the Door of the Courtyard of God, another, greater than he, should come after him. He realised, he foretold, the arrival of a later Prophet whose mission must excel his own in the power of its purpose, in its fuller acceptance, in its far <span id="p20">[<sup><small>p. 20</small></sup>]</span> wider claims upon the minds of men. For him, Persia was the centre of his action; its regeneration and reformation, his immediate and ultimate desire.
+Steadfast as his belief in himself was, he believed also, as steadfastly, that, while he held open the Door of the Courtyard of God, another, greater than he, should come after him. He realised, he foretold, the arrival of a later Prophet whose mission must excel his own in the power of its purpose, in its fuller acceptance, in its far <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> wider claims upon the minds of men. For him, Persia was the centre of his action; its regeneration and reformation, his immediate and ultimate desire.
 
 To his successor, the whole world lay open; to be subdued by the strength of the sweetness of the Love of God.
 
@@ -68,7 +68,7 @@ Where the priests were faulty in their duties or in their example, The Bab spoke
 
 Priestcraft, backed by governmental action, accused prophet and people of a design to attempt the overthrow of religion and order. Fear entered into the thought of those who, having and misusing the authority of the State, could not, or would not, comprehend these men who looked and longed for the authority of God.
 
-These latter sought an entrance into heaven; <span id="p21">[<sup><small>p. 21</small></sup>]</span> the former suspected them of endeavouring to set up their own will in defiance of the Shah and of Islam.
+These latter sought an entrance into heaven; <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> the former suspected them of endeavouring to set up their own will in defiance of the Shah and of Islam.
 
 Discourtesy was followed by abuse; abuse by persecution; persecution by spoliation and execution.
 
@@ -78,13 +78,13 @@ During two years The Bab had wrought and taught. The theme of his teaching was a
 
 Clerical and constituted authority opposed him vehemently. He was accused—no difficult task in such a country and under such circumstances. Next came imprisonment, lasting four years. Throughout this period, notwithstanding anxiety for his many friends,—impelled partly perhaps by that anxiety; certainly impelled by the inspiration to work for the people while life lasted,—he wrote a large number of epistles and exhortations.
 
-His care for his flock concerned their daily doings as well as their eternal welfare. He was literally their “Father in God,” taking into account all their environment and all their difficulties <span id="p22">[<sup><small>p. 22</small></sup>]</span> and directing them so to live in this world as to prepare themselves fully for the endless life to come.
+His care for his flock concerned their daily doings as well as their eternal welfare. He was literally their “Father in God,” taking into account all their environment and all their difficulties <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> and directing them so to live in this world as to prepare themselves fully for the endless life to come.
 
 Some of the epistles reached one country and some another; and while their author was in prison for conscience' sake, his words made their way far and wide. Readers of most lands had, even then, known something of the work of this earnest and devoted reformer.
 
 His institution of a “group” did much to strengthen and enlarge his influence. It comprised eighteen of his earliest disciples. He described them—including himself as “The Point”—“The Nineteen Letters of the Living.” These chosen persons were carefully instructed how to instruct others, and how to control and advance the reform of soul and of conduct which The Bab endeavoured to induce among his beloved Persians. He especially bade these eighteen to prepare the way for, and be always ready to receive, One who was about to appear; One whom God would “make manifest.” The time of the coming of this Appointed One was given. That He should surely come, The Bab never doubted at all. When He came, He could not fail to be recognised as a “Great Teacher,” who would “show signs of divine power and strength”; more, “through His teachings the divine unity of mankind would be established.”
 
-Scarcely, perhaps, can too much stress be laid <span id="p23">[<sup><small>p. 23</small></sup>]</span> on The Bab's insistence upon the coming of One who should open up and augment the way and the end of his pious design.
+Scarcely, perhaps, can too much stress be laid <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> on The Bab's insistence upon the coming of One who should open up and augment the way and the end of his pious design.
 
 The Bab's own personal message was, so to speak, intended for the immediate requirements of his time. The Light that should enlighten not only Persians but the sons of men generally, would inaugurate a new order of things, regenerating all.
 
@@ -94,7 +94,7 @@ Confiscation of property was, as might have been expected of the persecutors of 
 
 The extraordinary personality and influence of The Bab cannot be gainsaid. His spirituality; his contempt for worldly and material things; his masterful grasp of religious and philosophical points; his vast love for and understanding of the people and their deepest needs; all these substantiated his position and supported his claim.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 He had exhorted his pupils to “endure all” for the sake of God and their faith and his.
 

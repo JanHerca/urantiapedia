@@ -35,7 +35,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 This Ya<i>s</i>t, inscribed to the Genius of the Earth, is devoted to a description of the mountains and the kingly Glory (kavaêm <i>H</i><i>v</i>arenô), which are invoked, together with the Earth, in the corresponding formula of the Sîrôzah (§ 28): there is no Ya<i>s</i>t devoted to the Earth itself.
 
@@ -55,7 +55,7 @@ For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the hol
 
 Unto Mount Ushi-darena, made by Mazda, the seat of holy happiness; unto the kingly Glory, made by Mazda; unto that Glory that cannot be forcibly seized, made by Mazda [^1205],
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 Be propitiation, with sacrifice, prayer, propitiation, and glorification.
 
@@ -75,7 +75,7 @@ The seventh was Mount Bumya [^1213].
 
 The eighth was Mount Raoidhita [^1214].
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 The ninth was Mount Mazi<i>s</i>i<i>s</i>v<i>a</i>u.
 
@@ -89,7 +89,7 @@ The twelfth was Mount Vâiti-gaêsa [^1215].
 
 4\. Mount Aêzakha, Mount Maênakha, Mount Vâkhedrakaê, Mount Asaya, Mount Tudhaskaê, Mount I<i>s</i>avaê, Mount Draoshi<i>s</i>v<i>a</i>u, Mount Sâiriv<i>a</i>u, Mount Nanghu<i>s</i>m<i>a</i>u, Mount Kakahyu, Mount A<i>n</i>tare-Kangha [^1218];
 
-5\. Mount Si<i>k</i>idava [^1219], Mount Ahuna, Mount Raêmana, Mount Asha-stembana, Mount Urunyô-vâidhkaê, Mount Âsnava<i>n</i><i>t</i> [^1220], Mount Ushaoma, Mount U<i>s</i>ta-<i>h</i><i>v</i>arenah, Mount Syâmaka [^1221], Mount Vafray<i>a</i>u, Mount Vourusha; <span id="p289">[<sup><small>p. 289</small></sup>]</span> 6\. Amongst which stand Mount <i>G</i>atara, Mount Adhutavau, Mount Spitavarena, Mount Spe<i>n</i>tô-dâta [^1222], Mount Kadrva-aspa [^1223], Mount Kaoirisa [^1224], Mount Taêra [^1225], Mount Barô-srayana, Mount Barana, Mount Frâpay<i>a</i>u, Mount Udrya, and Mount Raêva<i>n</i><i>t</i> [^1226], and all those heights to which men have given the name of mount,
+5\. Mount Si<i>k</i>idava [^1219], Mount Ahuna, Mount Raêmana, Mount Asha-stembana, Mount Urunyô-vâidhkaê, Mount Âsnava<i>n</i><i>t</i> [^1220], Mount Ushaoma, Mount U<i>s</i>ta-<i>h</i><i>v</i>arenah, Mount Syâmaka [^1221], Mount Vafray<i>a</i>u, Mount Vourusha; <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> 6\. Amongst which stand Mount <i>G</i>atara, Mount Adhutavau, Mount Spitavarena, Mount Spe<i>n</i>tô-dâta [^1222], Mount Kadrva-aspa [^1223], Mount Kaoirisa [^1224], Mount Taêra [^1225], Mount Barô-srayana, Mount Barana, Mount Frâpay<i>a</i>u, Mount Udrya, and Mount Raêva<i>n</i><i>t</i> [^1226], and all those heights to which men have given the name of mount,
 
 7\. To the number of two thousand mountains, and two hundred and forty and four [^1227], O Spitama Zarathu<i>s</i>tra!
 
@@ -99,7 +99,7 @@ Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda [^1228] . . . .
 
 ## II.
 
-9\. We sacrifice unto the awful kingly Glory, made by Mazda; most conquering, highly working, that possesses health, wisdom, and happiness, and is more powerful to destroy than all other creatures; <span id="p290">[<sup><small>p. 290</small></sup>]</span> 10\. That belongs to Ahura Mazda, as (through it) Ahura Mazda made the creatures, many and good, many and fair, many and wonderful, many and prosperous, many and bright;
+9\. We sacrifice unto the awful kingly Glory, made by Mazda; most conquering, highly working, that possesses health, wisdom, and happiness, and is more powerful to destroy than all other creatures; <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> 10\. That belongs to Ahura Mazda, as (through it) Ahura Mazda made the creatures, many and good, many and fair, many and wonderful, many and prosperous, many and bright;
 
 11 [^1229]. So that they may restore the world, which will (thenceforth) never grow old and never die, never decaying and never rotting, ever living and ever increasing, and master of its wish, when the dead will rise, when life and immortality will come, and the world will be restored at its wish;
 
@@ -113,7 +113,7 @@ Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda [^1228] . . . .
 
 15 [^1232]. That belongs to the Amesha-Spe<i>n</i>tas, the bright ones, whose looks perform their wish, tall, quickly coming to do, strong, lordly, who are undecaying and holy;
 
-16\. Who are all seven of one thought, who are all seven of one speech, who are all seven of one deed; whose thought is the same, whose speech is the same, whose deed is the same, whose father and commander is the same, namely, the Maker, Ahura Mazda. <span id="p291">[<sup><small>p. 291</small></sup>]</span> 17\. Who see one another's soul thinking of good thoughts, thinking of good words, thinking of good deeds, thinking of Garô-nmâna, and whose ways are shining as they go down to the libations;
+16\. Who are all seven of one thought, who are all seven of one speech, who are all seven of one deed; whose thought is the same, whose speech is the same, whose deed is the same, whose father and commander is the same, namely, the Maker, Ahura Mazda. <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> 17\. Who see one another's soul thinking of good thoughts, thinking of good words, thinking of good deeds, thinking of Garô-nmâna, and whose ways are shining as they go down to the libations;
 
 18\. Who are the makers and governors, the shapers and overseers, the keepers and preservers of these creations of Ahura Mazda.
 
@@ -129,7 +129,7 @@ For its brightness and glory, I will offer it a sacrifice . . . .
 
 22\. That belongs to the gods in the heavens and to those in the material world, and to the blessed ones, born or not yet born, who are to perform the restoration of the world [^1234].
 
-23 [^1235]. It is they who shall restore the world, which will (thenceforth) never grow old and never die, never decaying and never rotting, ever living and <span id="p292">[<sup><small>p. 292</small></sup>]</span> ever increasing, and master of its wish, when the dead will rise, when life and immortality will come, and the world will be restored at its wish;
+23 [^1235]. It is they who shall restore the world, which will (thenceforth) never grow old and never die, never decaying and never rotting, ever living and <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> ever increasing, and master of its wish, when the dead will rise, when life and immortality will come, and the world will be restored at its wish;
 
 24\. When the creation will grow deathless,—the prosperous creation of the Good Spirit,—and the Dru<i>g</i> shall perish, though she may rush on every side to kill the holy beings; she and her hundredfold brood shall perish, as it is the will of the Lord.
 
@@ -149,7 +149,7 @@ For its brightness and glory, I will offer it a sacrifice . . . .
 
 28\. That clave unto Takhma Urupa, the well-armed, while he ruled over the seven Karshvares of the earth, over the Daêvas and men, the Yâtus and Pairikas, the oppressors, the blind, and the deaf;
 
-29\. When he conquered all Daêvas and men, all the Yâtus and Pairikas, and rode Angra Mainyu, <span id="p293">[<sup><small>p. 293</small></sup>]</span> turned into the shape of a horse, all around the earth from one end to the other, for thirty years [^1238].
+29\. When he conquered all Daêvas and men, all the Yâtus and Pairikas, and rode Angra Mainyu, <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> turned into the shape of a horse, all around the earth from one end to the other, for thirty years [^1238].
 
 For its brightness and glory, I will offer it a sacrifice . . . .
 
@@ -165,7 +165,7 @@ In whose reign both aliments [^1241] were never failing for feeding creatures, f
 
 33\. In whose reign there was neither cold wind nor hot wind, neither old age nor death, nor envy made by the Daêvas [^1242], in the times before his lie, before he began to have delight in words of falsehood and untruth.
 
-34\. But when he began to find delight in words of falsehood and untruth [^1243], the Glory was seen to flee away from him in the shape of a bird. When his Glory had disappeared, then the great [^1244] Yima <span id="p294">[<sup><small>p. 294</small></sup>]</span> Khshaêta the good shepherd, trembled and was in sorrow before his foes [^1245]; he was confounded, and laid him down on the ground.
+34\. But when he began to find delight in words of falsehood and untruth [^1243], the Glory was seen to flee away from him in the shape of a bird. When his Glory had disappeared, then the great [^1244] Yima <span id="p294"><sup><small>[ p. 294 ]</small></sup></span> Khshaêta the good shepherd, trembled and was in sorrow before his foes [^1245]; he was confounded, and laid him down on the ground.
 
 35\. The first time [^1246] when the Glory departed from the bright Yima, the Glory went from Yima, the son of Vîvangha<i>n</i><i>t</i>, in the shape of a Vâraghna bird [^1247].
 
@@ -175,7 +175,7 @@ Then Mithra seized that Glory, Mithra, the lord of wide pastures, whose ear is q
 
 Then Thraêtaona seized that Glory, he, the heir of the valiant Âthwya clan, who was the most victorious of all victorious men next to Zarathu<i>s</i>tra;
 
-37\. Who smote A<i>z</i>i Dahâka, the three-mouthed, the three-headed, the six-eyed, who had a thousand senses, that most powerful, fiendish Dru<i>g</i>; that demon baleful to the world, the strongest Dru<i>g</i> that Angra Mainyu created against the material world, to destroy the world of the good principle [^1248]. <span id="p295">[<sup><small>p. 295</small></sup>]</span> 38\. The third time when the Glory departed from the bright Yima, that Glory went from Yima, the son of Vîvangha<i>n</i><i>t</i>, in the shape of a Vâraghna bird. Then the manly-hearted Keresâspa [^1249] seized that Glory; he who was the sturdiest of the men of strength, next to Zarathu<i>s</i>tra, for his manly courage.
+37\. Who smote A<i>z</i>i Dahâka, the three-mouthed, the three-headed, the six-eyed, who had a thousand senses, that most powerful, fiendish Dru<i>g</i>; that demon baleful to the world, the strongest Dru<i>g</i> that Angra Mainyu created against the material world, to destroy the world of the good principle [^1248]. <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> 38\. The third time when the Glory departed from the bright Yima, that Glory went from Yima, the son of Vîvangha<i>n</i><i>t</i>, in the shape of a Vâraghna bird. Then the manly-hearted Keresâspa [^1249] seized that Glory; he who was the sturdiest of the men of strength, next to Zarathu<i>s</i>tra, for his manly courage.
 
 39\. For Manly Courage clave unto him. We worship Manly Courage, firm or foot, unsleeping, quick to rise, and fully awake, that clave unto Keresâspa;
 
@@ -183,7 +183,7 @@ Then Thraêtaona seized that Glory, he, the heir of the valiant Âthwya clan, wh
 
 41\. Who killed the golden-heeled Ga<i>n</i>darewa, that was rushing with open jaws, eager to destroy the living world of the good principle [^1251];
 
-Who killed the brood of Pathana, all the nine [^1252]; <span id="p296">[<sup><small>p. 296</small></sup>]</span> and the brood of Nivika, and the brood of Dâ<i>s</i>tayana;
+Who killed the brood of Pathana, all the nine [^1252]; <span id="p296"><sup><small>[ p. 296 ]</small></sup></span> and the brood of Nivika, and the brood of Dâ<i>s</i>tayana;
 
 Who killed the golden-crowned Hitâspa [^1253], and Vareshava, the son of Dâna [^1254], and Pitaona, attended by many Pairikas [^1255];
 
@@ -191,7 +191,7 @@ Who killed the golden-crowned Hitâspa [^1253], and Vareshava, the son of Dâna 
 
 43\. Who killed Snâvidhaka, him who killed with his nails, the stone-handed: thus did he exclaim to all around: 'I am an infant still, I am not yet of age: if I ever grow of age, I shall make the earth a wheel, I shall make the heavens a chariot;
 
-44\. ‘I shall bring down the Good Spirit from the shining Garô-nmâna; I shall make the Evil Spirit rush up from the dreary Hell. They will carry my <span id="p297">[<sup><small>p. 297</small></sup>]</span> chariot, both the Good Spirit and the Evil One, unless the manly-hearted Keresâspa kill me.’
+44\. ‘I shall bring down the Good Spirit from the shining Garô-nmâna; I shall make the Evil Spirit rush up from the dreary Hell. They will carry my <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> chariot, both the Good Spirit and the Evil One, unless the manly-hearted Keresâspa kill me.’
 
 The manly-hearted Keresâspa killed him, his life went away, his spirit vanished [^1258].
 
@@ -205,7 +205,7 @@ For its brightness and glory, I will offer it a sacrifice . . . .
 
 The Good Spirit flung a dart, and so did Vohu-Manô, and Asha-Vahi<i>s</i>ta and Âtar, the son of Ahura Mazda.
 
-The Evil Spirit flung a dart, and so did Akem-Manô [^1261], and Aêshma of the wounding spear, and A<i>z</i>i Dahâka and Spityura, he who sawed Yima in twain [^1262]. <span id="p298">[<sup><small>p. 298</small></sup>]</span> 47\. Then forward came Âtar [^1263], the son of Ahura Mazda, thinking thus in his heart: ‘I want to seize that Glory that cannot be forcibly seized.’
+The Evil Spirit flung a dart, and so did Akem-Manô [^1261], and Aêshma of the wounding spear, and A<i>z</i>i Dahâka and Spityura, he who sawed Yima in twain [^1262]. <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> 47\. Then forward came Âtar [^1263], the son of Ahura Mazda, thinking thus in his heart: ‘I want to seize that Glory that cannot be forcibly seized.’
 
 But A<i>z</i>i Dahâka, the three-mouthed, he of the evil law, rushed on his back, thinking of extinguishing it:
 
@@ -221,7 +221,7 @@ But Âtar, the son of Ahura Mazda, advanced behind him, speaking in these words:
 
 Then A<i>z</i>i took back his hands, as the instinct of life prevailed, so much had Âtar affrighted him.
 
-51\. That Glory swells up and goes to the sea <span id="p299">[<sup><small>p. 299</small></sup>]</span> Vouru-Kasha. The swift-horsed Son of the Waters [^1265] seizes it at once: this is the wish of the Son of the Waters, the swift-horsed: ‘I want to seize that Glory that cannot be forcibly seized, down to the bottom of the sea Vouru-Kasha, in the bottom of the deep rivers.’
+51\. That Glory swells up and goes to the sea <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> Vouru-Kasha. The swift-horsed Son of the Waters [^1265] seizes it at once: this is the wish of the Son of the Waters, the swift-horsed: ‘I want to seize that Glory that cannot be forcibly seized, down to the bottom of the sea Vouru-Kasha, in the bottom of the deep rivers.’
 
 52\. We sacrifice unto the Son of the Waters, the swift-horsed, the tall and shining lord, the lord of females; the male god, who helps one at his appeal; who made man, who shaped man [^1266], a god who lives beneath waters, and whose ear is the quickest to hear when he is worshipped.
 
@@ -231,7 +231,7 @@ Then A<i>z</i>i took back his hands, as the instinct of life prevailed, so much 
 
 For its brightness and glory, I will offer it a sacrifice . . . .
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 ## IX.
 
@@ -245,7 +245,7 @@ For its brightness and glory, I will offer it a sacrifice . . . .
 
 —‘Ahura Mazda will come against thee, ever eager to create new creatures [^1274].’
 
-Then the most crafty Turanian Frangrasyan rushed down into the sea Vouru-Kasha, O Spitama Zarathu<i>s</i>tra! <span id="p301">[<sup><small>p. 301</small></sup>]</span> 59\. A second time he stripped himself naked, wishing to seize that Glory that belongs to the Aryan nations, born and unborn, and to the holy Zarathu<i>s</i>tra. But the Glory escaped, the Glory fled away, the Glory changed its seat, and an arm of the sea Vouru-Kasha was produced, namely, that lake that is called Lake Vanghazd<i>a</i>u [^1275].
+Then the most crafty Turanian Frangrasyan rushed down into the sea Vouru-Kasha, O Spitama Zarathu<i>s</i>tra! <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> 59\. A second time he stripped himself naked, wishing to seize that Glory that belongs to the Aryan nations, born and unborn, and to the holy Zarathu<i>s</i>tra. But the Glory escaped, the Glory fled away, the Glory changed its seat, and an arm of the sea Vouru-Kasha was produced, namely, that lake that is called Lake Vanghazd<i>a</i>u [^1275].
 
 60 [^1276]. Then the most crafty Turanian Frangrasyan rushed out of the sea Vouru-Kasha, O Spitama Zarathu<i>s</i>tra! thinking evil thoughts: '. . . . [^1277] I have not been able to conquer the Glory that belongs to the Aryan nations, born and unborn, and to the holy Zarathu<i>s</i>tra.
 
@@ -257,7 +257,7 @@ Then the most crafty Turanian Frangrasyan rushed down into the sea Vouru-Kasha.
 
 62\. A third time he stripped himself naked, wishing to seize the Glory that belongs to the Aryan nations, born and unborn, and to the holy Zarathu<i>s</i>tra. But the Glory escaped, the Glory fled away, the Glory changed its seat, and an arm was produced in the sea Vouru-Kasha, namely, the water that is called Aw<i>z</i>\-dânva.
 
-63 [^1278]. Then the most crafty Turanian Frangrasyan rushed out of the sea Vouru-Kasha, O Spitama Zarathu<i>s</i>tra! thinking evil thoughts: ‘. . . . [^1279] I have <span id="p302">[<sup><small>p. 302</small></sup>]</span> not been able to conquer the Glory that belongs to the Aryan nations, born and unborn, and to the holy Zarathu<i>s</i>tra!’
+63 [^1278]. Then the most crafty Turanian Frangrasyan rushed out of the sea Vouru-Kasha, O Spitama Zarathu<i>s</i>tra! thinking evil thoughts: ‘. . . . [^1279] I have <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> not been able to conquer the Glory that belongs to the Aryan nations, born and unborn, and to the holy Zarathu<i>s</i>tra!’
 
 64\. He was not able to seize the Glory that belongs to the Aryan nations, born and unborn, and to the holy Zarathu<i>s</i>tra.
 
@@ -271,7 +271,7 @@ For its brightness and glory, I will offer it a sacrifice . . . .
 
 67\. It [^1284] runs unto him, it flows and swells unto him, bringing good pastures and fine horses, bringing plenty, full of glory; with beauty and weal; powerful and friendly, rich of pastures, prolific and golden. It runs unto him, it flows and swells unto him, bright and glorious, making the white . . . . [^1285] grow, smiting away all plagues.
 
-68\. And there comes with him a horse's strength, there comes with him a camel's strength, there <span id="p303">[<sup><small>p. 303</small></sup>]</span> comes with him a man's strength, there comes with him the kingly Glory: and there is in him, O holy Zarathu<i>s</i>tra! so much of kingly Glory as might extinguish at once all the non-Aryan nations.
+68\. And there comes with him a horse's strength, there comes with him a camel's strength, there <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> comes with him a man's strength, there comes with him the kingly Glory: and there is in him, O holy Zarathu<i>s</i>tra! so much of kingly Glory as might extinguish at once all the non-Aryan nations.
 
 69\. And then (through it) living creatures may keep away [^1286] hunger and death, living creatures (may keep away) cold and heat [^1286]. Such is the kingly Glory, the keeper of the Aryan nations and of the five kinds of animals [^1287], made to help the faithful and the Law of the worshippers of Mazda.
 
@@ -291,7 +291,7 @@ For its brightness and glory, I will offer it a sacrifice . . . .
 
 73\. We sacrifice unto the awful kingly Glory, made by Mazda . . . .
 
-74 [^1289]. That clave unto Kavi Husravah for the well-shapen Strength, for the Victory made by Ahura, for the crushing Ascendant; for the righteousness of the law, for the innocence of the law, for the <span id="p304">[<sup><small>p. 304</small></sup>]</span> unconquerable power of the law; for the extermination of the enemies at one stroke;
+74 [^1289]. That clave unto Kavi Husravah for the well-shapen Strength, for the Victory made by Ahura, for the crushing Ascendant; for the righteousness of the law, for the innocence of the law, for the <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> unconquerable power of the law; for the extermination of the enemies at one stroke;
 
 75\. And for the vigour of health, for the Glory made by Mazda, for the health of the body, and for a good, virtuous offspring, wise, chief in assemblies, bright, and clear-eyed, that frees \[their father\] from the pangs \[of hell\], of good intellect; and for that part in the blessed world that falls to wisdom and to those who do not follow impiety;
 
@@ -305,7 +305,7 @@ For its brightness and glory, I will offer it a sacrifice . . . .
 
 78\. We sacrifice unto the awful kingly Glory, made by Mazda . . . .
 
-79\. That clave unto the holy Zarathu<i>s</i>tra, so that he thought according to the Law, spake according <span id="p305">[<sup><small>p. 305</small></sup>]</span> to the Law, and did according to the Law; so that he was the holiest in holiness in all the living world, the best-ruling in exercising rule, the brightest in brightness, the most glorious in glory, the most victorious in victory.
+79\. That clave unto the holy Zarathu<i>s</i>tra, so that he thought according to the Law, spake according <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> to the Law, and did according to the Law; so that he was the holiest in holiness in all the living world, the best-ruling in exercising rule, the brightest in brightness, the most glorious in glory, the most victorious in victory.
 
 80\. At his sight the Daêvas rushed away; at his sight the (demoniac) malices were extinguished; at his sight the <i>G</i>ainis [^1293] drew back their ways from the mortals and, lamenting [^1294] and wailing, laid violent hands on the Daêvas.
 
@@ -315,7 +315,7 @@ For its brightness and glory, I will offer it a sacrifice . . . .
 
 For its brightness and glory, I will offer it a sacrifice . . . .
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 ## XIV.
 
@@ -335,7 +335,7 @@ For its brightness and glory, I will offer it a sacrifice . . . .
 
 88\. We sacrifice unto the awful kingly Glory, made by Mazda . . . .
 
-89 [^1304]. That will cleave unto the victorious Saoshya<i>n</i><i>t</i> and his helpers [^1305], when he shall restore the <span id="p307">[<sup><small>p. 307</small></sup>]</span> world, which will (thenceforth) never grow old and never die, never decaying and never rotting, ever living and ever increasing, and master of its wish, when the dead will rise, when life and immortality will come, and the world will be restored at its wish;
+89 [^1304]. That will cleave unto the victorious Saoshya<i>n</i><i>t</i> and his helpers [^1305], when he shall restore the <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> world, which will (thenceforth) never grow old and never die, never decaying and never rotting, ever living and ever increasing, and master of its wish, when the dead will rise, when life and immortality will come, and the world will be restored at its wish;
 
 90\. When the creation will grow deathless,—the prosperous creation of the Good Spirit,—and the Dru<i>g</i> shall perish, though she may rush on every side to kill the holy beings; she and her hundredfold brood shall perish, as it is the will of the Lord.
 
@@ -353,7 +353,7 @@ It was that Glory that Thraêtaona bore with him when A<i>z</i>i Dahâka was kil
 
 That king Husravah bore when Frangrasyan, the Turanian, was killed [^1312];
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 That king Vî<i>s</i>tâspa bore, when he victoriously maintained Holiness against the host of the fiends and took off the Drub from the world of the good principle [^1313].
 
@@ -369,7 +369,7 @@ For its brightness and glory, I will offer it a sacrifice . . . .
 
 97\. Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 I bless the sacrifice and prayer, and the strength and vigour of Mount Ushi-darena, made by Mazda, the seat of holy happiness; of the kingly Glory, made by Mazda; of the Glory that cannot be forcibly seized, made by Mazda [^1320].
 

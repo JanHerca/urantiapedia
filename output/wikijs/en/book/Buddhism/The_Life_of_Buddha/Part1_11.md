@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 
 SIDDHARTHA could no longer find peace. He strode through the halls of his palace like a lion stung by some poisoned dart. He was unhappy.
@@ -45,7 +45,7 @@ And as he pondered the misery of mankind, he lost the vain illusion of strength,
 
 Suddenly, he saw a man approaching who looked like a beggar and who was visible to him alone.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 “Tell me, who are you?” the prince asked him.
 
@@ -61,7 +61,7 @@ He went to the king; he bowed and said to him:
 
 “King, grant the request I have to make. Do not oppose it, for I am determined. I would leave the palace, I would walk in the path of deliverance. We must part, father.”
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 The king was deeply moved. With tears in his voice, he said to his son:
 
@@ -77,7 +77,7 @@ The prince answered:
 
 “You are asking too much,” replied the king. “Give up this idea. It is not well to act on a foolish impulse.”
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Solemn as Meru mountain, the prince said to his father:
 
@@ -87,7 +87,7 @@ With tears in his eyes, he returned to the palace. In the great hall Gopa's comp
 
 They fell asleep. The prince looked at them.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Gone was their studied grace, gone the sparkle of their eyes. Their hair was dishevelled, their mouths gaped, their breasts were crushed, and their arms and legs were stiffly outstretched or clumsily twisted under them. And the prince cried:
 

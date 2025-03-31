@@ -53,7 +53,7 @@ These desperate adventures seek,
 ‘I could not,’ cried Sugríva, 'brook
 Upon the giant king to look,
 
-<span id="p458">[<sup><small>p. 458</small></sup>]</span>
+<span id="p458"><sup><small>[ p. 458 ]</small></sup></span>
 
 Nor challenge to the deadly strife
 The fiend who robbed thee of thy wife.’
@@ -176,7 +176,7 @@ Then, smiting with a fearful stroke,
 A turret from the roof he broke,—
 As when the fiery levin sent
 
-<span id="p459">[<sup><small>p. 459</small></sup>]</span>
+<span id="p459"><sup><small>[ p. 459 ]</small></sup></span>
 
 By Indra from the clouds has rent
 The proud peak of the Lord of Snow,-
@@ -297,7 +297,7 @@ On Angad queller of his foes.
 But Angad from his foeman tore
 The murderous mace the warrior bore,
 
-<span id="p460">[<sup><small>p. 460</small></sup>]</span>
+<span id="p460"><sup><small>[ p. 460 ]</small></sup></span>
 
 And low in dust his coursers rolled,
 His driver, and his car of gold.
@@ -407,7 +407,7 @@ The magic bond which none might loose.
 Brave Ráma, burning still to know
 The station of his artful foe,
 
-<span id="p461">[<sup><small>p. 461</small></sup>]</span>
+<span id="p461"><sup><small>[ p. 461 ]</small></sup></span>
 
 Gave to ten chieftains, mid the best
 Of all the host, his high behest.
@@ -535,7 +535,7 @@ Soon shall the trance-bound pair revive,
 And from our hearts all sorrow drive.
 Though prostrate on the earth he lie,
 
-<span id="p462">[<sup><small>p. 462</small></sup>]</span>
+<span id="p462"><sup><small>[ p. 462 ]</small></sup></span>
 
 Deem not that Ráma's death is nigh;
 Deem not that Lakshmí will forget
@@ -655,7 +655,7 @@ Thou, O my lord and life, art slain.
 The flattering seer in former days
 My gentle girlish smile would praise,
 
-<span id="p463">[<sup><small>p. 463</small></sup>]</span>
+<span id="p463"><sup><small>[ p. 463 ]</small></sup></span>
 
 And swear that holy water shed
 By Bráhman hands upon my head
@@ -772,7 +772,7 @@ The leaders of the giant crew.
 Transfixed with shafts, with blood-streams red.
 Thou liest on thy lowly bed:
 
-<span id="p464">[<sup><small>p. 464</small></sup>]</span>
+<span id="p464"><sup><small>[ p. 464 ]</small></sup></span>
 
 So sinks to rest, his journey done,
 Mid arrowy rays the crimson sun.
@@ -899,7 +899,7 @@ Red lightnings flashed from banks of cloud.
 The mountains shook, the wild waves rose,
 And smitten with resistless blows
 
-<span id="p465">[<sup><small>p. 465</small></sup>]</span>
+<span id="p465"><sup><small>[ p. 465 ]</small></sup></span>
 
 Unrooted fell each stately tree
 That fringed the margin of the sea.

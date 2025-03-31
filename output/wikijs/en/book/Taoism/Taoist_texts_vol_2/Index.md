@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:14:13Z
   </table>
 </figure>
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 
 Â-ho Kan (ancient Tâoist), Part ii, page 67.
@@ -128,7 +128,7 @@ Hsiâo-po (name of duke Hwan of Khî), ii, 177.
 
 Hsieh Tâo-häng (minister and scholar of Sui dynasty), ii, 311, 312.
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 Hsien-khih (Hwang-Tî's music), i, 348; ii, 8, 218.
 
@@ -256,7 +256,7 @@ Kung Po (earl of Kung), ii, 161.
 
 Kung Shan (mount Kung), ii, 161.
 
-Kung-sun Lung (noble, and sophist <span id="p327">[<sup><small>p. 327</small></sup>]</span> of Kâo), i, 387, 389; ii, 230. See Ping.
+Kung-sun Lung (noble, and sophist <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> of Kâo), i, 387, 389; ii, 230. See Ping.
 
 Kung-dze Mâu (a prince of Wei), i, 387.
 
@@ -364,7 +364,7 @@ Kî Hsing-dze (a rearer of gamecocks), ii, 20.
 
 Kî Kän (a Tâoist master), ii, 129.
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 Kî Kheh (officer of Lû), i, 318.
 
@@ -484,7 +484,7 @@ Khieh Khâu (= vehement debater), i, 312.
 
 Khieh-yü (the madman of Khû), i, 170, 221, 260.
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 Khien-lung, the catalogue of, ii, 255, 256.
 
@@ -590,7 +590,7 @@ Liû An, i. q. Hwâi-nan Dze (the writer), i, 5, 6, 7, 51, 86, 101, 102, 106, 10
 
 Liû-hsiâ Kî (brother of the robber Kih) ii, 166, 167, 175.
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 Liû Hsiang (Han officer and writer), i, 97, 100, 107; ii, 132.
 
@@ -678,7 +678,7 @@ Four seas, the, i, 171y 295; philosophers or perfect Ones, i, 172; boundaries (=
 
 Five grains, the, i, 171; chiefs, i, 245; viscera, i, 220, 247, 268, 294; colours, i, 328; notes of music, i, 328; weapons, i, 334; punishments, i, 335; elements, i, 346; ii, 189, 258; virtues, i, 349; regulators of the five notes, i, 351; fivefold arrangement of the virtues, ii, 178, 179; feudal lordships, ii, 220; mountains, ii, 317.
 
-Six elemental energies, i, 169, 301; conjunctions (= the universe <span id="p331">[<sup><small>p. 331</small></sup>]</span> of space), i, 189; members of the body, i, 226; extreme points (= all space), i, 346, 351; musical Accords, i, 269; comprehensions (= universe of space), i, 330; classics, i, 360; Bow-cases (name of a book), ii, 92; faculties of perception, ii, 139; parties in the social organisation, ii, 179; desires, ii, 251.
+Six elemental energies, i, 169, 301; conjunctions (= the universe <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> of space), i, 189; members of the body, i, 226; extreme points (= all space), i, 346, 351; musical Accords, i, 269; comprehensions (= universe of space), i, 330; classics, i, 360; Bow-cases (name of a book), ii, 92; faculties of perception, ii, 139; parties in the social organisation, ii, 179; desires, ii, 251.
 
 Seven precious organs of the body, ii, 272.
 
@@ -782,7 +782,7 @@ Shan Küan (worthy, in favour of whom Shun wished to resign), ii, 183.
 
 Shän-khiû (name of a height), i, 260.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Shän Ming (name for perspicacity), i, 247.
 
@@ -906,7 +906,7 @@ Tâo, (the Tâo), passim; meaning of the name, i, 12, 15. The Great Tâo, i, 61,
 
 Tâo Kih (the robber Kih). See Kih.
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 Tâo Khiû (Confucius!), ii, 172.
 
@@ -1016,7 +1016,7 @@ Dze-kang (disciple of Confucius), ii, 176, 177.
 
 Dze-kâo (designation of duke of Sheh), i, 210.
 
-Sze-kâu Kih-fû, and Dze-kâu Kih-po (men to whom Yâo and Shun <span id="p334">[<sup><small>p. 334</small></sup>]</span> wished to resign the throne), ii, 149.
+Sze-kâu Kih-fû, and Dze-kâu Kih-po (men to whom Yâo and Shun <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> wished to resign the throne), ii, 149.
 
 Dze-khän (a minister of Käng), i, 226, 227, 228.
 
@@ -1134,7 +1134,7 @@ Wû-Yû (= Mr. Non-existence), ii, 70.
 
 Wû Yün (i. q. Wû Dze-hsü), ii, 131, 174.
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 Wylie, Mr. A., i, 9, 39; ii, 257, 265, et al.
 
@@ -1232,7 +1232,7 @@ Yung-khäng Shih (a minister of Hwang-Tî), ii, 118.
 
 Zäh-kung Shih (a teacher of Confucius's time), i, 260.
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 Zäh Kung King (the Treatise so called), ii, 269-272.
 

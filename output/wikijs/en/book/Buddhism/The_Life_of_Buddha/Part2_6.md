@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 
 THE Blessed One had been walking a long while. He was weary. Coming to a small wood, he entered and sat down at the foot of a tree. He was about to fall asleep when a band of thirty young men entered the wood. He watched them.
@@ -47,7 +47,7 @@ From their words and behavior, it was evident that they were looking for some on
 
 The musicians laughed at the Master.
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 “Play your lute,” he then said to the one who was laughing the loudest.
 
@@ -67,15 +67,15 @@ The musicians were no longer laughing.
 
 “We understand you, Master,” they cried, “we understand you! We shall go in search of ourselves.”
 
-“It is well,” said the Buddha. “You will learn <span id="p131">[<sup><small>p. 131</small></sup>]</span> the law from me. Then, like King Padmaka, who sacrificed his body to save his people, you will give your intelligence to save mankind.”
+“It is well,” said the Buddha. “You will learn <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> the law from me. Then, like King Padmaka, who sacrificed his body to save his people, you will give your intelligence to save mankind.”
 
 And the musicians listened with rapt attention while he told the story of King Padmaka.
 
-“There once reigned in Benares a just and powerful king named Padmaka. Now, a strange epidemic suddenly swept through the city. Those who were stricken turned completely yellow, and, even in the sunshine, they shivered with cold. The king took pity on his subjects, and he tried to find some way to cure them. He consulted the most famous physicians; he distributed medicines, and he himself helped to nurse the sick. But it was hopeless; the epidemic continued to rage. Padmaka grieved. One day, an old physician came to him and said, ‘My lord, I know a remedy that will cure the inhabitants of Benares.’ ‘What is it?’ asked the king. ‘It is a large fish named Rohita. Have him caught, and give a piece, no matter how small, to all who are sick, and the epidemic will disappear.’ The king thanked the old physician; he ordered the fish Rohita to be sought in the seas and in the rivers, but nowhere could it be found. The king was in despair. Sometimes in the morning or in the evening, he would hear plaintive voices crying outside the palace walls, ‘We are suffering, O king; save us!’ And he would weep bitterly. Finally, he thought: ‘What <span id="p132">[<sup><small>p. 132</small></sup>]</span> good is wealth or royalty, what good is life, if I can not succor those who are racked with pain?’ He summoned his eldest son, and he said to him, ‘My son, I leave you my fortune and my kingdom.’ Then he ascended to the terrace of the palace; he offered perfume and flowers to the Gods, and he cried, ‘Gladly do I sacrifice a life that I consider useless. May the sacrifice benefit those who are afflicted! May I become the fish Rohita and be found in the river that flows through the city!’ He threw himself from the terrace and immediately reappeared in the river as the fish Rohita. He was caught; he was still alive when they cut him into pieces to distribute among the sick, but he never felt the knives, and he quivered with love for all creatures. The epidemic soon disappeared, and over the city of Benares, a celestial choir sang: ‘It was Padmaka, the holy king, who saved you! Rejoice!’ And they all did honor to Padmaka's memory.”
+“There once reigned in Benares a just and powerful king named Padmaka. Now, a strange epidemic suddenly swept through the city. Those who were stricken turned completely yellow, and, even in the sunshine, they shivered with cold. The king took pity on his subjects, and he tried to find some way to cure them. He consulted the most famous physicians; he distributed medicines, and he himself helped to nurse the sick. But it was hopeless; the epidemic continued to rage. Padmaka grieved. One day, an old physician came to him and said, ‘My lord, I know a remedy that will cure the inhabitants of Benares.’ ‘What is it?’ asked the king. ‘It is a large fish named Rohita. Have him caught, and give a piece, no matter how small, to all who are sick, and the epidemic will disappear.’ The king thanked the old physician; he ordered the fish Rohita to be sought in the seas and in the rivers, but nowhere could it be found. The king was in despair. Sometimes in the morning or in the evening, he would hear plaintive voices crying outside the palace walls, ‘We are suffering, O king; save us!’ And he would weep bitterly. Finally, he thought: ‘What <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> good is wealth or royalty, what good is life, if I can not succor those who are racked with pain?’ He summoned his eldest son, and he said to him, ‘My son, I leave you my fortune and my kingdom.’ Then he ascended to the terrace of the palace; he offered perfume and flowers to the Gods, and he cried, ‘Gladly do I sacrifice a life that I consider useless. May the sacrifice benefit those who are afflicted! May I become the fish Rohita and be found in the river that flows through the city!’ He threw himself from the terrace and immediately reappeared in the river as the fish Rohita. He was caught; he was still alive when they cut him into pieces to distribute among the sick, but he never felt the knives, and he quivered with love for all creatures. The epidemic soon disappeared, and over the city of Benares, a celestial choir sang: ‘It was Padmaka, the holy king, who saved you! Rejoice!’ And they all did honor to Padmaka's memory.”
 
 The musicians listened to the Master, and they promised to follow him, to receive the knowledge.
 
-In Uruvilva, the Blessed One found the three Kasyapa brothers. These virtuous brahmans had a thousand disciples. For some time they had been bothered by a dangerous serpent that kept disturbing their sacrifices, and they brought their troubles to the Buddha. The Buddha smiled; he watched <span id="p133">[<sup><small>p. 133</small></sup>]</span> for the serpent and ordered it, in the future, to leave them in peace. The serpent obeyed, and the sacrifices were no longer interrupted.
+In Uruvilva, the Blessed One found the three Kasyapa brothers. These virtuous brahmans had a thousand disciples. For some time they had been bothered by a dangerous serpent that kept disturbing their sacrifices, and they brought their troubles to the Buddha. The Buddha smiled; he watched <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> for the serpent and ordered it, in the future, to leave them in peace. The serpent obeyed, and the sacrifices were no longer interrupted.
 
 The Kasyapas asked the Buddha to stay with them a few days. He consented. He astounded his hosts by performing innumerable prodigies, and presently they all decided to accept the law. The eldest of the Kasyapas alone refused to follow the Buddha. He thought:
 
@@ -93,7 +93,7 @@ Kasyapa thought for a moment; then he fell at the feet of the Blessed One, and h
 
 “Instruct me, O Master! Let me walk no longer in the night!”
 
-Then the Blessed One ascended a mountain, and <span id="p134">[<sup><small>p. 134</small></sup>]</span> he addressed the Kasyapa brothers and their disciples.
+Then the Blessed One ascended a mountain, and <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> he addressed the Kasyapa brothers and their disciples.
 
 “O monks,” said he, “everything in the world is aflame. The eye is aflame; all that it sees is aflame; all that we behold in the world is aflame. Why? Because the fire of love and of hatred is not extinguished. You are blinded by the flames of this fire, and you suffer the torment of birth and of old age, of death and of misery. O monks, everything in the world is aflame! Understand me, and for you the fire will be extinguished; your eyes will no longer be blinded by the flames, and you will no longer enjoy the blazing spectacle in which you delight to-day. Understand me, and you will know that there is an end to birth, you will know that to this earth we need never return.”
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 THIRD MU<i>N</i><i>D</i>AKA.
 
@@ -44,7 +44,7 @@ THIRD MU<i>N</i><i>D</i>AKA.
 
 3\. When the seer sees the brilliant maker and lord (of the world) as the Person who has his source in Brahman, then he is wise, and shaking off good and evil, he reaches the highest oneness, free from passions;
 
-4\. For he is the Breath shining forth in all beings, and he who understands this becomes truly wise, not a talker only. He revels in the Self, he delights in the Self, and having performed his works (truthfulness, penance, meditation, &c.) he rests, firmly established in Brahman, the best of those who know Brahman [^182]. <span id="p39">[<sup><small>p. 39</small></sup>]</span> 5\. By truthfulness, indeed, by penance, right knowledge, and abstinence must that Self be gained; the Self whom spotless anchorites gain is pure, and like a light within the body.
+4\. For he is the Breath shining forth in all beings, and he who understands this becomes truly wise, not a talker only. He revels in the Self, he delights in the Self, and having performed his works (truthfulness, penance, meditation, &c.) he rests, firmly established in Brahman, the best of those who know Brahman [^182]. <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> 5\. By truthfulness, indeed, by penance, right knowledge, and abstinence must that Self be gained; the Self whom spotless anchorites gain is pure, and like a light within the body.
 
 6\. The true prevails, not the untrue; by the true the path is laid out, the way of the gods (devayâna<i>h</i>), on which the old sages, satisfied in their desires, proceed to where there is that highest place of the True One.
 
@@ -54,7 +54,7 @@ THIRD MU<i>N</i><i>D</i>AKA.
 
 9\. That subtle Self is to be known by thought (<i>k</i>etas) there where breath has entered fivefold, for every thought of men is interwoven with the senses, and when thought is purified, then the Self arises.
 
-10\. Whatever state a man, whose nature is purified imagines, and whatever desires he desires (for himself or for others) [^184], that state he conquers and <span id="p40">[<sup><small>p. 40</small></sup>]</span> those desires he obtains. Therefore let every man who desires happiness worship the man who knows the Self [^185].
+10\. Whatever state a man, whose nature is purified imagines, and whatever desires he desires (for himself or for others) [^184], that state he conquers and <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> those desires he obtains. Therefore let every man who desires happiness worship the man who knows the Self [^185].
 
 
 ## SECOND KHA<i>N</i><i>D</i>A.
@@ -67,7 +67,7 @@ THIRD MU<i>N</i><i>D</i>AKA.
 
 4\. Nor is that Self to be gained by one who is destitute of strength, or without earnestness, or without right meditation. But if a wise man strives after it by those means (by strength, earnestness, and right meditation), then his Self enters the home of Brahman.
 
-5\. When they have reached him (the Self), the sages become satisfied through knowledge, they are conscious of their Self, their passions have passed <span id="p41">[<sup><small>p. 41</small></sup>]</span> away, and they are tranquil. The wise, having reached Him who is omnipresent everywhere, devoted to the Self, enter into him wholly.
+5\. When they have reached him (the Self), the sages become satisfied through knowledge, they are conscious of their Self, their passions have passed <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> away, and they are tranquil. The wise, having reached Him who is omnipresent everywhere, devoted to the Self, enter into him wholly.
 
 6\. Having well ascertained the object of the knowledge of the Vedânta [^189], and having purified their nature by the Yoga [^190] of renunciation, all anchorites, enjoying the highest immortality, become free at the time of the great end (death) in the worlds of Brahmâ.
 
@@ -77,7 +77,7 @@ THIRD MU<i>N</i><i>D</i>AKA.
 
 9\. He who knows that highest Brahman, becomes even Brahman. In his race no one is born ignorant of Brahman. He overcomes grief, he overcomes evil; free from the fetters of the heart, he becomes immortal.
 
-10\. And this is declared by the following <i>Ri</i><i>k</i>\-verse: ‘Let a man tell this science of Brahman to those only who have performed all (necessary) acts, who are versed in the Vedas, and firmly established in (the lower) Brahman, who themselves offer as <span id="p42">[<sup><small>p. 42</small></sup>]</span> an oblation the one <i>Ri</i>shi (Agni), full of faith, and by whom the rite of (carrying fire on) the head has been performed, according to the rule (of the Âtharva<i>n</i>as).’
+10\. And this is declared by the following <i>Ri</i><i>k</i>\-verse: ‘Let a man tell this science of Brahman to those only who have performed all (necessary) acts, who are versed in the Vedas, and firmly established in (the lower) Brahman, who themselves offer as <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> an oblation the one <i>Ri</i>shi (Agni), full of faith, and by whom the rite of (carrying fire on) the head has been performed, according to the rule (of the Âtharva<i>n</i>as).’
 
 11\. The <i>Ri</i>shi Aṅgiras formerly told this true (science [^195]); a man who has not performed the (proper) rites, does not read it. Adoration to the highest <i>Ri</i>shis! Adoration to the highest <i>Ri</i>shis!
 

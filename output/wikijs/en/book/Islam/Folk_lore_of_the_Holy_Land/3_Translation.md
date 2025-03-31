@@ -39,7 +39,7 @@ Abbreviation for the Hebrew words “ In the Name of God we shall do and prosper
 
 Deliver from fetters Bambina, daughter of Rena, to praise Thy Name, and may the merits of the Patriarchs shield her. A.N.S.V. (initials of the words ‘Amen, Netzach, Tselah, Vaad).
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 In the Name of the Most High and the Cause of all Causes, the Exalted El Jah, the God of Israel, I am that I am, High and Exalted, the Dweller in Eternity; Whose name is Holy; And in the Name of the Almighty of Sabaoth, Lord of Lords, Living and Existent for everlasting Ages. Amen, Selah. And in the name of HVHY (_i.e._ the tetragrammaton).
 
@@ -53,7 +53,7 @@ PI. JH. VH. JHVH. EHYEH. AH. ASHER. HV. GH. VH.
 
 Kinbijah. Baduomfiel. Beduftiel.
 
-“Shaddyam” (probably meaning power of the sea). And by the power of all the holy names and seals written in this charm, <span id="p320">[<sup><small>p. 320</small></sup>]</span> I adjure all malignant powers, evil spirits, impure powers and all kinds of plagues that molest human beings to be scared away from, and fear the wearer of this amulet, and not to approach her, nor to come within the distance of four cubits from her; nor to annoy her in any manner, either by day or by night, when she is awake or when she is dreaming. May she obtain a perfect cure from all malignant diseases which are in the world, and from epilepsy, convulsions, askara, paralysis, headache, a beclouded mind, oppression and palpitation of the heart, and from all bondage and witchcraft, fright and vexation, trembling, startling, excitement, diseases of the womb, evil imaginations and visions, male or female devils and demons, and all hurts; and from Millelin, and Letlin, and all evil spirits and other occult powers, and impure powers, a perfect cure, deliverance and shield from all evil diseases existing in the world henceforth and for ever. And by the power of:—
+“Shaddyam” (probably meaning power of the sea). And by the power of all the holy names and seals written in this charm, <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> I adjure all malignant powers, evil spirits, impure powers and all kinds of plagues that molest human beings to be scared away from, and fear the wearer of this amulet, and not to approach her, nor to come within the distance of four cubits from her; nor to annoy her in any manner, either by day or by night, when she is awake or when she is dreaming. May she obtain a perfect cure from all malignant diseases which are in the world, and from epilepsy, convulsions, askara, paralysis, headache, a beclouded mind, oppression and palpitation of the heart, and from all bondage and witchcraft, fright and vexation, trembling, startling, excitement, diseases of the womb, evil imaginations and visions, male or female devils and demons, and all hurts; and from Millelin, and Letlin, and all evil spirits and other occult powers, and impure powers, a perfect cure, deliverance and shield from all evil diseases existing in the world henceforth and for ever. And by the power of:—
 
 RVI. ASHA. VVTZ. TCHM. TRV. HSHT. ILICH. And by the power and influence of VDA. HVI. SISH. IMI. RTZM. TRM. HTB. VMCH. HHV. MRN. MAT. CIN. CMM. LAB. KHSCH. LRL. TTSH. VDN. Káá. LTI. MLCH. all this shall be established and confirmed to the wearer of this charm. So be it, Amen.
 
@@ -75,7 +75,7 @@ A perfect cure, deliverance and shield from all bondage and witchcraft from henc
 
 2\. In writing charms, etc., the father's name is never mentioned. The reason alleged is the example of the Psalmist who prays, “O Lord, truly I am thy servant; thy servant and the son of thy handmaid.”
 
-<span id="p321">[<sup><small>p. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 3\. It is not the object of this work to treat the question of Jewish and Eastern angelology and demonology, amulets, etc., exhaustively. Much interesting information on these and kindred subjects may be gathered from the following English works.
 
@@ -89,7 +89,7 @@ Lane's, “Modern Egyptians,” vol. i. pp. 300, 306, 317, 338, 361. vol. ii. pp
 
 5\. The belief in the protective power of the name יהוה or YHVH is shared by the Samaritans equally with the adherents of orthodox Judaism. I have in my possession the photograph of a Samaritan charm written on parchment, said to be several centuries old, and to have been used by generation after generation of “the foolish people that dwell in Sichem” (Ecclus. 1. 26), in order to cure sick folk of their ailments. It is written in seven columns divided from each other by lines of Samaritan writing in larger characters than those covering the greater part of the document. A framework of two lines of such writing runs along the four sides of the whole, and, on examination with a magnifier, is easily decipherable as containing the account of the overthrow of Pharaoh and his hosts in the sea. The columns are divided into sections by from two to five lines of similar writing (the names of Jehovah, the words “And Moses prayed,” etc.), whilst between the divisions are paragraphs of small and closely written lines. The size of this precious document, for which the trifling sum of 5000 francs was coolly asked, is shown by the scale of centimetres photographed with it. It was in a terribly dirty and torn condition, having been worn, rolled, and folded up into a bundle about 22 inches cube, and apparently next the skin. About the middle of the eighth column is a “záir ‘geh” table, with letters arranged inside squares, like that shown by Lane, vol. i. p. 356.
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 ## SQUARE DIAGRAM.
 
@@ -102,7 +102,7 @@ Thou shalt not suffer a witch to live.<br>To live thou shalt not suffer a witch.
 Note.—A remarkable thing in this charm is the omission of the names of the four angels,
 Gabriel, Michael, Raphael, and Uriel.
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Folk_lore_of_the_Holy_Land/32300.jpg">
@@ -110,9 +110,9 @@ Gabriel, Michael, Raphael, and Uriel.
 </figure>
 
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 ## TRANSLATION OF THE REMAINDER.
 
@@ -148,9 +148,9 @@ Solemn Adjuration of the Evil Eye. (As this, though abbreviated, is almost ident
 
 Picture of a hand, on the back of which is written “Shaddai” (Almighty) and “Adonai ” (Lord)) with permutations of letters forming names of angels, etc.
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 PRINTED BY
 TURNBULL AND SPEARS,

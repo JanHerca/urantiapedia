@@ -32,9 +32,9 @@ dateCreated: 2025-2-12T12:5:1Z
   </table>
 </figure>
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
-AS representing that general quality of moral experience which remains almost unaffected by social modifications of any sort, the proverbial sayings of a people must always possess a special psychological interest for thinkers. In this kind of folklore the oral and the written literature of Japan is rich to a degree that would require a large book to exemplify. To the subject as a whole no justice could be done within the limits of a single essay. But for certain classes of proverbs and proverbial phrases something can be done within even a few pages; and sayings related to Buddhism, either by allusion or derivation, form a class which seems to me particularly worthy of study. Accordingly, with the help of a Japanese friend, I have selected and translated the following series of examples,—choosing the more simple and <span id="p168">[<sup><small>p. 168</small></sup>]</span>amiliar where choice was possible, and placing the originals in alphabetical order to facilitate reference. Of course the selection is imperfectly representative; but it will serve to illustrate certain effects of Buddhist teaching upon popular thought and speech.
+AS representing that general quality of moral experience which remains almost unaffected by social modifications of any sort, the proverbial sayings of a people must always possess a special psychological interest for thinkers. In this kind of folklore the oral and the written literature of Japan is rich to a degree that would require a large book to exemplify. To the subject as a whole no justice could be done within the limits of a single essay. But for certain classes of proverbs and proverbial phrases something can be done within even a few pages; and sayings related to Buddhism, either by allusion or derivation, form a class which seems to me particularly worthy of study. Accordingly, with the help of a Japanese friend, I have selected and translated the following series of examples,—choosing the more simple and <span id="p168"><sup><small>[ p. 168 ]</small></sup></span>amiliar where choice was possible, and placing the originals in alphabetical order to facilitate reference. Of course the selection is imperfectly representative; but it will serve to illustrate certain effects of Buddhist teaching upon popular thought and speech.
 
 1.—_Akuji mi ni tomaru_.
 
@@ -52,7 +52,7 @@ Meeting is only the beginning of separation.\[3\]
 
 2\. Buddhist nuns and priests have their heads completely shaven. The proverb signifies that it is better to correct the heart,—to conquer all vain regrets and desires,—than to become a religious. In common parlance the phrase “to shave the head” means to become a monk or a nun.
 
-3\. Regret and desire are equally vain in this world of impermanency; for all joy is the beginning of an experience that must have its pain. This proverb refers directly to the sutra-text,—_Shôja hitsumetsu é-sha-jori_,—“All that live must surely die; and all that meet will surely part.”\] <span id="p169">[<sup><small>p. 169</small></sup>]</span>.—_Banji wa yumé_.
+3\. Regret and desire are equally vain in this world of impermanency; for all joy is the beginning of an experience that must have its pain. This proverb refers directly to the sutra-text,—_Shôja hitsumetsu é-sha-jori_,—“All that live must surely die; and all that meet will surely part.”\] <span id="p169"><sup><small>[ p. 169 ]</small></sup></span>.—_Banji wa yumé_.
 
 All things\[1\] are merely dreams.
 
@@ -80,7 +80,7 @@ Out of karma-relation even the divine nature itself grows.\[5\]
 
 4\. There is an allusion here to the condition of the _shukké_ (priest): literally, “one who has left his house.” The proverb suggests that the higher truths of Buddhism cannot be acquired by those who continue to live in the world of follies and desires.
 
-5\. There is good as well as bad karma. Whatever happiness we enjoy is not less a consequence of the acts and thoughts of previous lives, than is any misfortune that {footnote p. 170} comes to us. Every good thought and act contributes to the evolution of the Buddha-nature within each of us. Another proverb \[No. 10\],—_En naki shujô wa doshi gatashi_,—further illustrates the meaning of this one.\] <span id="p170">[<sup><small>p. 170</small></sup>]</span>.—_Enkô ga tsuki wo toran to suru ga gotoshi._
+5\. There is good as well as bad karma. Whatever happiness we enjoy is not less a consequence of the acts and thoughts of previous lives, than is any misfortune that {footnote p. 170} comes to us. Every good thought and act contributes to the evolution of the Buddha-nature within each of us. Another proverb \[No. 10\],—_En naki shujô wa doshi gatashi_,—further illustrates the meaning of this one.\] <span id="p170"><sup><small>[ p. 170 ]</small></sup></span>.—_Enkô ga tsuki wo toran to suru ga gotoshi._
 
 Like monkeys trying to snatch the moon's reflection on water.\[1\]
 
@@ -94,7 +94,7 @@ The priest who preaches foul doctrine shall be reborn as a fungus.
 
 \[1. Allusion to a parable, said to have been related by the Buddha himself, about some monkeys who found a well under a tree, and mistook for reality the image of the moon in the water. They resolved to seize the bright apparition. One monkey suspended himself by the tail from a branch overhanging the well, a second monkey clung to the first, a third to the second, a fourth to the third, and so on,—till the long chain of bodies had almost reached the water. Suddenly the branch broke under the unaccustomed weight; and all the monkeys were drowned.
 
-2\. No karma-relation would mean an utter absence of merit as well as of demerit.\] <span id="p171">[<sup><small>p. 171</small></sup>]</span>2.—_Gaki mo ninzu._
+2\. No karma-relation would mean an utter absence of merit as well as of demerit.\] <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>2.—_Gaki mo ninzu._
 
 Even gaki (_prêtas_) can make a crowd.\[1\]
 
@@ -116,7 +116,7 @@ Like a lot of blind men feeling a great elephant.\[4\]
 
 3\. The common people often use the curious expression “_gosho-daiji_” as an equivalent for “extremely important.”
 
-4\. Said of those who ignorantly criticise the doctrines of {footnote p. 172} Buddhism.—The proverb alludes to a celebrated fable in the _Avadânas_, about a number of blind men who tried to decide the form of an elephant by feeling the animal. One, feeling the leg, declared the elephant to be like a tree; another, feeling the trunk only, declared the elephant to be like a serpent; a third, who felt only the side, said that the elephant was like a wall; a fourth, grasping the tail, said that the elephant was like a rope, etc.\] <span id="p172">[<sup><small>p. 172</small></sup>]</span>6.—_Gwai-men nyo-Bosatsu; nai shin nyo-Yasha._
+4\. Said of those who ignorantly criticise the doctrines of {footnote p. 172} Buddhism.—The proverb alludes to a celebrated fable in the _Avadânas_, about a number of blind men who tried to decide the form of an elephant by feeling the animal. One, feeling the leg, declared the elephant to be like a tree; another, feeling the trunk only, declared the elephant to be like a serpent; a third, who felt only the side, said that the elephant was like a wall; a fourth, grasping the tail, said that the elephant was like a rope, etc.\] <span id="p172"><sup><small>[ p. 172 ]</small></sup></span>6.—_Gwai-men nyo-Bosatsu; nai shin nyo-Yasha._
 
 In outward aspect a Bodhisattva; at innermost heart a demon.\[1\]
 
@@ -136,7 +136,7 @@ The task of the priest is to save mankind.
 
 2\. This proverb is most often used in reference to death,—signifying that all forms go back into the nothingness out of which they spring. But it may also be used in relation to the law of cause-and-effect.
 
-3\. Referring to the doctrine of cause-and-effect. The philosophical beauty of the comparison will be appreciated only if we bear in mind that even the tone of the echo repeats the tone of the voice.\] <span id="p173">[<sup><small>p. 173</small></sup>]</span>0.—_Hi wa kiyurédomo tô-shin wa hiyédzu._
+3\. Referring to the doctrine of cause-and-effect. The philosophical beauty of the comparison will be appreciated only if we bear in mind that even the tone of the echo repeats the tone of the voice.\] <span id="p173"><sup><small>[ p. 173 ]</small></sup></span>0.—_Hi wa kiyurédomo tô-shin wa hiyédzu._
 
 Though the flame be put out, the wick remains.\[1\]
 
@@ -166,7 +166,7 @@ Making a Buddha without putting in the soul.\[4\]
 
 3\. The popular saying, _Oni no Nembutsu_,“—a devil's praying,”—has a similar meaning.
 
-4\. That is to say, making an image of the Buddha without giving it a soul. This proverb is used in reference to {footnote p. 174} the conduct of those who undertake to do some work, and leave the most essential part of the work unfinished. It contains an allusion to the curious ceremony called _Kai-gen_, or—“Eye-Opening.” This _Kai-gen_ is a kind of consecration, by virtue of which a newly-made image is supposed to become animated by the real presence of the divinity represented.\] <span id="p174">[<sup><small>p. 174</small></sup>]</span>6.—_Ichi-ju no kagé, ichi-ga no nagaré, tashô no en._
+4\. That is to say, making an image of the Buddha without giving it a soul. This proverb is used in reference to {footnote p. 174} the conduct of those who undertake to do some work, and leave the most essential part of the work unfinished. It contains an allusion to the curious ceremony called _Kai-gen_, or—“Eye-Opening.” This _Kai-gen_ is a kind of consecration, by virtue of which a newly-made image is supposed to become animated by the real presence of the divinity represented.\] <span id="p174"><sup><small>[ p. 174 ]</small></sup></span>6.—_Ichi-ju no kagé, ichi-ga no nagaré, tashô no en._
 
 Even \[the experience of\] a single shadow or a single flowing of water, is \[made by\] the karma-relations of a former life.\[1\]
 
@@ -182,7 +182,7 @@ A karma-child.\[3\]
 
 2\. From the Buddhist work _Dai-chi-dô-ron_.—The reader will find a similar proverb in Rhys-David's “_Buddhist Suttas_” (Sacred Books of the East), p. 173,—together with a very curious parable, cited in a footnote, which an Indian commentator gives in explanation.
 
-3\. A common saying among the lower classes in reference to an unfortunate or crippled child. Here the word _ingwa_ is used especially in the retributive sense. It usually signifies evil karma; _kwabô_ being the term used in speaking of meritorious {footnote p. 175} karma and its results. While an unfortunate child is spoken of as “a child of _ingwa_,” a very lucky person is called a “_kwabô-mono_,”—that is to say, an instance, or example of _kwabô_.\] <span id="p175">[<sup><small>p. 175</small></sup>]</span>9.—_Ingwa wa, kuruma no wa._
+3\. A common saying among the lower classes in reference to an unfortunate or crippled child. Here the word _ingwa_ is used especially in the retributive sense. It usually signifies evil karma; _kwabô_ being the term used in speaking of meritorious {footnote p. 175} karma and its results. While an unfortunate child is spoken of as “a child of _ingwa_,” a very lucky person is called a “_kwabô-mono_,”—that is to say, an instance, or example of _kwabô_.\] <span id="p175"><sup><small>[ p. 175 ]</small></sup></span>9.—_Ingwa wa, kuruma no wa._
 
 Cause-and-effect is like a wheel.\[1\]
 
@@ -204,7 +204,7 @@ Even a worm an inch long has a soul half-an-inch long.\[4\]
 
 3\. Or, “like the flame of a lamp exposed to the wind.” A frequent expression in Buddhist literature is, “the Wind of Death.”
 
-4\. Literally, “has a soul of five bu,”—five _bu_ being equal to half of the Japanese inch. Buddhism forbids all taking {footnote p. 176} of life, and classes as _living_ things (_Ujô_) all forms having sentiency. The proverb, however,—as the use of the word “soul” (_tamashii_) implies,—reflects popular belief rather than Buddhist philosophy. It signifies that any life, however small or mean, is entitled to mercy.\] <span id="p176">[<sup><small>p. 176</small></sup>]</span>3.—_Iwashi_\[1\] _no atama mo shinjin kara._
+4\. Literally, “has a soul of five bu,”—five _bu_ being equal to half of the Japanese inch. Buddhism forbids all taking {footnote p. 176} of life, and classes as _living_ things (_Ujô_) all forms having sentiency. The proverb, however,—as the use of the word “soul” (_tamashii_) implies,—reflects popular belief rather than Buddhist philosophy. It signifies that any life, however small or mean, is entitled to mercy.\] <span id="p176"><sup><small>[ p. 176 ]</small></sup></span>3.—_Iwashi_\[1\] _no atama mo shinjin kara._
 
 Even the head of an _iwashi_, by virtue of faith, \[will have power to save, or heal\].
 
@@ -220,7 +220,7 @@ Like meeting with a Buddha in hell.\[3\]
 
 2\. Few popular Buddhist phrases are more often used than this. _Jigô_ signifies one's own acts or thoughts; _jitoku_, to bring upon oneself,—nearly always in the sense of misfortune, when the word is used in the Buddhist way. “Well, it is a matter of _Jigô-jitoku_,” people will observe on seeing a man being taken to prison; meaning, “He is reaping the consequence of his own faults.”
 
-3 Refers to the joy of meeting a good friend in time of misfortune. The above is an abbreviation. The full proverb is, _Jigoku dé hotoké ni ôta yo da._\] <span id="p177">[<sup><small>p. 177</small></sup>]</span>6.—_Jigoku Gokuraku wa kokoro ni ari._
+3 Refers to the joy of meeting a good friend in time of misfortune. The above is an abbreviation. The full proverb is, _Jigoku dé hotoké ni ôta yo da._\] <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>6.—_Jigoku Gokuraku wa kokoro ni ari._
 
 Hell and Heaven are in the hearts of men.\[1\]
 
@@ -248,13 +248,13 @@ Money shines even more brightly than Amida.\[4\]
 
 4\. Amitâbha, the Buddha of Immeasurable Light. His image in the temples is usually gilded from head to foot.—There are many other ironical proverbs about the power of wealth,-such as _Jigoku no sata mo kané shidai:_ “Even the Judgments of Hell may be influenced by money.”\]
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 ![Jizô](/image/book/Shintoism/In_Ghostly_Japan/17800.jpg)
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
-![Emma Dai-ô](/image/book/Shintoism/In_Ghostly_Japan/17900.jpg) <span id="p180">[<sup><small>p. 180</small></sup>]</span>1.—_Karu-toki no Jizô-gao; nasu-toki no Emma-gao._
+![Emma Dai-ô](/image/book/Shintoism/In_Ghostly_Japan/17900.jpg) <span id="p180"><sup><small>[ p. 180 ]</small></sup></span>1.—_Karu-toki no Jizô-gao; nasu-toki no Emma-gao._
 
 Borrowing-time, the face of Jizô; repaying-time, the face of Emma.\[1\]
 
@@ -278,7 +278,7 @@ The body is tortured only by the demon of the heart.\[3\]
 
 2\. Rumor is never trustworthy.
 
-3\. Or “mind.” That is to say that we suffer only from the consequences of our own faults.—The demon-torturer in the Buddhist hell says to his victim:—“Blame not me!—I am only the creation of your own deeds and thoughts: you made me for this!”—Compare with No. 36.\] <span id="p181">[<sup><small>p. 181</small></sup>]</span>6.—_Kokoro no shi to wa naré; kokoro wo shi to sezaré._
+3\. Or “mind.” That is to say that we suffer only from the consequences of our own faults.—The demon-torturer in the Buddhist hell says to his victim:—“Blame not me!—I am only the creation of your own deeds and thoughts: you made me for this!”—Compare with No. 36.\] <span id="p181"><sup><small>[ p. 181 ]</small></sup></span>6.—_Kokoro no shi to wa naré; kokoro wo shi to sezaré._
 
 Be the teacher of your heart: do not allow your heart to become your teacher.
 
@@ -302,7 +302,7 @@ The bird that cries _korokoro_ in the mountain rice—field I know to be a _hoto
 
 \[1. “This world is but a travellers' inn,” would be an almost equally correct translation. _Yado_ literally means a lodging, shelter, inn; and the word is applied often to those wa side resting-houses at which Japanese travellers halt during a journey. _Kari_ signifies temporary, transient, fleeting,—as in the common Buddhist saying, _Kono yo kari no yo:_ “This world is a fleeting world.” Even Heaven and Hell represent to the Buddhist only halting places upon the journey to Nirvâna.
 
-2\. Refers to the vanity of selfish effort for some merely temporary end.\] <span id="p182">[<sup><small>p. 182</small></sup>]</span>ave been my father; it may have been my mother.\[1\]
+2\. Refers to the vanity of selfish effort for some merely temporary end.\] <span id="p182"><sup><small>[ p. 182 ]</small></sup></span>ave been my father; it may have been my mother.\[1\]
 
 50.—_Ko wa Sangai no kubikase._
 
@@ -316,7 +316,7 @@ The mouth is the front-gate of all misfortune.\[3\]
 
 2\. That is to say, The love of parents for their child may impede their spiritual progress—not only in this world, but through all their future states of being,—just as a _kubikasé_, or Japanese cangue, impedes the movements of the person upon whom it is placed. Parental affection, being the strongest of earthly attachments, is particularly apt to cause those whom it enslaves to commit wrongful acts in the hope of benefiting their offspring.—The term _Sangai_ here signifies the three worlds of Desire, Form, and Formlessness,—all the states of existence below Nirvâna. But the word is sometimes used to signify the Past, the Present, and the Future.
 
-3\. That is to say, The chief cause of trouble is unguarded speech. The word _Kado_ means always the main entrance to a residence.\] <span id="p183">[<sup><small>p. 183</small></sup>]</span>2.—_Kwahô wa, nété maté._
+3\. That is to say, The chief cause of trouble is unguarded speech. The word _Kado_ means always the main entrance to a residence.\] <span id="p183"><sup><small>[ p. 183 ]</small></sup></span>2.—_Kwahô wa, nété maté._
 
 If you wish for good luck, sleep and wait.\[1\]
 
@@ -344,7 +344,7 @@ The blind man does not fear the snake.\[5\]
 
 4 Literally, “on the Road of Meidô.” The _Meidô_ is the Japanese Hades,—the dark under-world to which all the dead must journey.
 
-5 The ignorant and the vicious, not understanding the law of cause-and-effect, do not fear the certain results of their folly.\] <span id="p184">[<sup><small>p. 184</small></sup>]</span>7.—_Mitsuréba, kakuru._
+5 The ignorant and the vicious, not understanding the law of cause-and-effect, do not fear the certain results of their folly.\] <span id="p184"><sup><small>[ p. 184 ]</small></sup></span>7.—_Mitsuréba, kakuru._
 
 Having waxed, wanes.\[1\]
 
@@ -360,7 +360,7 @@ The Wind of Impermanency does not choose a time.\[3\]
 
 2\. _Kozô_ means “acolyte” as well as “shop-boy,” “errand-boy,” or “apprentice;” but in this case it refers to a boy employed in a shop situated near or before the gate of a Buddhist temple. By constantly hearing the sûtra chanted in the temple, the boy learns to repeat the words. A proverb of kindred meaning is, _Kangaku-In no suzumé wa, Môgyû wo sayézuru:_ “The sparrows of Kangaku-In \[an ancient seat of learning\] chirp the Môgyû,”—a Chinese text formerly taught to young students. The teaching of either proverb is excellently expressed by a third:—_Narau yori wa naréro:_ “Rather than study \[an art\], get accustomed to it,”—that is to say, “keep constantly in contact with it.” Observation and practice are even better than study.
 
-3\. Death and Change do not conform their ways to human expectation.\] <span id="p185">[<sup><small>p. 185</small></sup>]</span>0.—_Neko mo Busshô ari._
+3\. Death and Change do not conform their ways to human expectation.\] <span id="p185"><sup><small>[ p. 185 ]</small></sup></span>0.—_Neko mo Busshô ari._
 
 In even a cat the Buddha-nature exists.\[1\]
 
@@ -386,7 +386,7 @@ It is not easy to be born among men, and to meet with \[_the good fortune of hea
 
 3\. The teaching of Buddhist doctrine should always be adapted to the intelligence of the person to be instructed. There is another proverb of the same kind,—Ki ni yorité, hô wo toké: “According to the understanding \[of the person to be taught\], preach the Law.”
 
-4 Popular Buddhism teaches that to be born in the {footnote p. 186} world of mankind, and especially among a people professing Buddhism, is a very great privilege. However miserable human existence, it is at least a state in which some knowledge of divine truth may be obtained; whereas the beings in other and lower conditions of life are relatively incapable of spiritual progress.\] <span id="p186">[<sup><small>p. 186</small></sup>]</span>5.—_Oni mo jiu-hachi._
+4 Popular Buddhism teaches that to be born in the {footnote p. 186} world of mankind, and especially among a people professing Buddhism, is a very great privilege. However miserable human existence, it is at least a state in which some knowledge of divine truth may be obtained; whereas the beings in other and lower conditions of life are relatively incapable of spiritual progress.\] <span id="p186"><sup><small>[ p. 186 ]</small></sup></span>5.—_Oni mo jiu-hachi._
 
 Even a devil \[is pretty\] at eighteen.\[1\]
 
@@ -400,7 +400,7 @@ An iron club for a demon.\[2\]
 
 \[1. There are many curious sayings and proverbs about the oni, or Buddhist devil,—such as _Oni no mé ni mo namida_, “tears in even a devil's eyes;”—_Oni no kakuran_, “devil's cholera” (said of the unexpected sickness of some very strong and healthy person), etc., etc.—The class of demons called Oni, properly belong to the Buddhist hells, where they act as torturers and jailers. They are not to be confounded with the _Ma, Yasha, Kijin_, and other classes of evil spirits. In Buddhist art they are represented as beings of enormous strength, with the heads of bulls and of horses. The bull-headed demons are called _Go-zu_; the horse-headed _Mé-zu_.
 
-2\. Meaning that great power should be given only to the strong.\] <span id="p187">[<sup><small>p. 187</small></sup>]</span>8.—_Oni no nyôbo ni hijin._
+2\. Meaning that great power should be given only to the strong.\] <span id="p187"><sup><small>[ p. 187 ]</small></sup></span>8.—_Oni no nyôbo ni hijin._
 
 A devil takes a goblin to wife.\[1\]
 
@@ -424,7 +424,7 @@ The fallen blossom never returns to the branch.\[3\]
 
 2\. Said of the parents of crippled or deformed children. But the popular idea here expressed is not altogether in accord with the teachings of the higher Buddhism.
 
-3\. That which has been done never can be undone: the past cannot be recalled.—This proverb is an abbreviation of the longer Buddhist text: _Rakkwa éda ni kaerazu; ha-kyô futatabi terasazu:_ “The fallen blossom never returns to the branch; the shattered mirror never again reflects:”\] <span id="p188">[<sup><small>p. 188</small></sup>]</span>3.—_Raku wa ku no tané; ku wa raku no tané._
+3\. That which has been done never can be undone: the past cannot be recalled.—This proverb is an abbreviation of the longer Buddhist text: _Rakkwa éda ni kaerazu; ha-kyô futatabi terasazu:_ “The fallen blossom never returns to the branch; the shattered mirror never again reflects:”\] <span id="p188"><sup><small>[ p. 188 ]</small></sup></span>3.—_Raku wa ku no tané; ku wa raku no tané._
 
 Pleasure is the seed of pain; pain is the seed of pleasure.
 
@@ -442,7 +442,7 @@ There is no fence to the Three States of Existence;—there is no neighborhood t
 
 \[1. That is to say, Your future life depends upon your conduct in this life; and you are thus free to choose for yourself the place of your next birth.
 
-2\. Within the Three States (Sangai), or universes, of Desire, Form, and Formlessness; and within the Six Worlds, or conditions of being,—_Jigokudô_ (Hell), _Gakidô_ (Pretas), _Chikushôdô_ (Animal Life), _Shuradô_ (World of Fighting and Slaughter), _Ningendô_ (Mankind), _Tenjôdô_ (Heavenly Spirits)—all existence is included. Beyond there is only Nirvâna. “There is no fence,” “no neighborhood,”—that is to say, no limit beyond which to escape,—no middle-path between any two of these states. We shall be reborn into {footnote p. 189} some one of them according to our karma.—Compare with No. 74.\] <span id="p189">[<sup><small>p. 189</small></sup>]</span>7.—_Sangé ni wa sannen no tsumi mo hôrobu._
+2\. Within the Three States (Sangai), or universes, of Desire, Form, and Formlessness; and within the Six Worlds, or conditions of being,—_Jigokudô_ (Hell), _Gakidô_ (Pretas), _Chikushôdô_ (Animal Life), _Shuradô_ (World of Fighting and Slaughter), _Ningendô_ (Mankind), _Tenjôdô_ (Heavenly Spirits)—all existence is included. Beyond there is only Nirvâna. “There is no fence,” “no neighborhood,”—that is to say, no limit beyond which to escape,—no middle-path between any two of these states. We shall be reborn into {footnote p. 189} some one of them according to our karma.—Compare with No. 74.\] <span id="p189"><sup><small>[ p. 189 ]</small></sup></span>7.—_Sangé ni wa sannen no tsumi mo hôrobu._
 
 One confession effaces the sins of even three years.
 
@@ -464,7 +464,7 @@ To become an abbot one must begin as a novice.
 
 \[1. _Kugai_ (lit.: “bitter world”) is a term often used to describe the life of a prostitute.
 
-2\. Monjû Bosatsu \[_Mañdjus'ri Bodhisattva_\] figures in Japanese Buddhism as a special divinity of wisdom—The proverb signifies that three heads are better than one. A saying. of like meaning is, _Hiza to mo dankô:_ “Consult even with your own knee;” that is to say, Despise no advice, no matter how humble the source of it.\] <span id="p190">[<sup><small>p. 190</small></sup>]</span>2.—_Shindaréba, koso ikitaré._
+2\. Monjû Bosatsu \[_Mañdjus'ri Bodhisattva_\] figures in Japanese Buddhism as a special divinity of wisdom—The proverb signifies that three heads are better than one. A saying. of like meaning is, _Hiza to mo dankô:_ “Consult even with your own knee;” that is to say, Despise no advice, no matter how humble the source of it.\] <span id="p190"><sup><small>[ p. 190 ]</small></sup></span>2.—_Shindaréba, koso ikitaré._
 
 Only by reason of having died does one enter into life.\[1\]
 
@@ -484,7 +484,7 @@ A little wisdom is a stumbling-block on the way to Buddhahood.\[3\]
 
 2\. Nothing can happen except as a result of eternal and irrevocable law.
 
-3\. Bodai is the same word as the Sanscrit _Bodhi_, signifying the supreme enlightenment,—the knowledge that leads to Buddhahood; but it is often used by Japanese Buddhists in the sense of divine bliss, or the Buddha-state itself.\] <span id="p191">[<sup><small>p. 191</small></sup>]</span>6.—_Shôshi no kukai hetori nashi._
+3\. Bodai is the same word as the Sanscrit _Bodhi_, signifying the supreme enlightenment,—the knowledge that leads to Buddhahood; but it is often used by Japanese Buddhists in the sense of divine bliss, or the Buddha-state itself.\] <span id="p191"><sup><small>[ p. 191 ]</small></sup></span>6.—_Shôshi no kukai hetori nashi._
 
 There is no shore to the bitter Sea of Birth and Death.\[1\]
 
@@ -514,7 +514,7 @@ Clay-Buddha's water-playing.\[4\]
 
 3\. Said especially in reference to the result of sensual indulgence.
 
-4\. That is to say, “As dangerous as for a clay Buddha to play with water.” Children often amuse themselves by making little Buddhist images of mud, which melt into shapelessness, of course, if placed in water.\] <span id="p192">[<sup><small>p. 192</small></sup>]</span>2.—_Tsuki ni murakumo, hana ni kazé._
+4\. That is to say, “As dangerous as for a clay Buddha to play with water.” Children often amuse themselves by making little Buddhist images of mud, which melt into shapelessness, of course, if placed in water.\] <span id="p192"><sup><small>[ p. 192 ]</small></sup></span>2.—_Tsuki ni murakumo, hana ni kazé._
 
 Cloud-wrack to the moon; wind to flowers.\[1\]
 
@@ -542,7 +542,7 @@ My family ancestors, were all excellent Buddhas.\[3\]
 
 2\. That is, a pious device for effecting conversion, Such a device is justified especially by the famous parable of the third chapter of the _Saddharma Pundarîka_.
 
-8 Meaning that one most reveres the _hotoké_\—the spirits of the dead regarded as Buddhas—in one's own household-shrine. There is an ironical play upon the word _hotoké_, which may mean either a dead person simply, or a Buddha. Perhaps the spirit of this proverb may be better explained by the help of another: _Nigéta sakana ni_ {footnote p. 193} _chisai wa nai; shinda kodomo ni warui ko wa nai_\—“fish that escaped was never small; child that died was never bad.”\] <span id="p193">[<sup><small>p. 193</small></sup>]</span>8.—_Yuki no haté wa, Neban._
+8 Meaning that one most reveres the _hotoké_\—the spirits of the dead regarded as Buddhas—in one's own household-shrine. There is an ironical play upon the word _hotoké_, which may mean either a dead person simply, or a Buddha. Perhaps the spirit of this proverb may be better explained by the help of another: _Nigéta sakana ni_ {footnote p. 193} _chisai wa nai; shinda kodomo ni warui ko wa nai_\—“fish that escaped was never small; child that died was never bad.”\] <span id="p193"><sup><small>[ p. 193 ]</small></sup></span>8.—_Yuki no haté wa, Neban._
 
 The end of snow is Nirvâna.\[1\]
 

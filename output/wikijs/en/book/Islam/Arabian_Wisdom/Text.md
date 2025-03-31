@@ -32,7 +32,7 @@ dateCreated: 2024-11-25T21:10:31Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ## The First Chapter of the Koran
 
@@ -64,7 +64,7 @@ But needing Thee my need is filled.
 One only resource I have—to stand and knock;
 And if unheard at Thy mercy-gate, to whom shall I go?
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Whom shall I call, what Name shall I invoke,
 If Thy needy servant shall in vain Thy bounty seek?
@@ -89,7 +89,7 @@ _Sayings and Proverbs._    Of all things God loveth best forgiveness when one is
 
 The pleasure of forgiving is sweeter than the pleasure of revenge.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Forgiveness is perfect when the sin is not remembered.
 
@@ -117,7 +117,7 @@ One of the surest evidences of gentleness is tenderness to fools.
 
 The fierce anger of a foolish man is checked by gentleness as a fierce fire is extinguished by water.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 Gentleness is sometimes an humiliation, and he who is always forbearing and patient may be trodden down by fools.
 
@@ -137,7 +137,7 @@ A wise man was once asked whether he knew of any good which is not coveted, or a
 
 To despise a proud man is true humility.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 ## True Nobility
 
@@ -165,7 +165,7 @@ If you fear not the consequences of an evil life, and have no sense of shame, yo
 
 No, by God, life has no worth, and this world has no happiness to a man who has lost his self-respect and abandons himself to shamelessness.
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 There is no good in a man who is not ashamed of men.
 
@@ -219,7 +219,7 @@ _Koran._    Do good unto others as God has done unto you.
 
 Is the reward of kindness anything but kindness?
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 He who does a kindly act shall be recompensed tenfold.
 
@@ -253,7 +253,7 @@ A peacemaker gets two-thirds of the blows.
 
 Generosity is to do a kindness before it is asked, and to pity and give a man who asks.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 A generous man is nigh unto God, nigh unto men, nigh unto paradise, far from hell.
 
@@ -311,7 +311,7 @@ Sins may lurk, but God deals heavy blows.
 
 To carry a heavy rock to the summit of a mountain is easier than to receive a kindness which is flaunted.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 The bane of a generous action is to mention it.
 
@@ -343,7 +343,7 @@ Angels bend down their wings to a seeker of knowledge.
 
 _Proverbs._    The rank of the learned is the highest of all ranks.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 If learning does not give wealth it will give esteem.
 
@@ -375,7 +375,7 @@ The owner of the house knows best what is in it.
 
 All speculative research ends in perplexing uncertainty.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 I sought in the great sea of theoretical learning a bottom on which to stand—and found nothing but one wave dashing me against another.
 
@@ -407,7 +407,7 @@ Where there is much difference of opinion it is difficult to know the truth.
 
 To think well of others is a religious duty.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 He who thinks well of others is a happy man.
 
@@ -443,7 +443,7 @@ Long experience is an addition to mind.
 
 Consideration may take the place of experience.
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 A wise man is he who has been taught by experience.
 
@@ -477,7 +477,7 @@ It is just as allowable to blame a blind man for want of sight as to blame a foo
 
 To bear the folly of a fool is indeed a great hardship.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 The best way to treat a fool is to shun him.
 
@@ -507,7 +507,7 @@ A man who is older than yourself by a day is more experienced than you by a year
 
 Consult an older man and a younger, then decide for yourself.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 The wisest may need the advice of others.
 
@@ -539,7 +539,7 @@ If you value a book you will read it through.
 
 If you write a book, be ready to encounter criticism.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 A book is like a garden carried in the pocket.
 
@@ -577,7 +577,7 @@ A man who talks much is open to much blame.
 
 The most faulty of men are they that are most loquacious in matters which do not concern them.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 To guard his tongue is one of the best traits in a man's character.
 
@@ -607,7 +607,7 @@ A man conceals his ignorance by his silence.
 
 He who says what he should not say, will have to hear what he would not like to hear.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 He who talks much does little.
 
@@ -639,7 +639,7 @@ When thou speakest be truthful, and when thou actest be gentle.
 
 An ignorant man who is true is better than a clever man who is false.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 There are two kinds of truthfulness, and the greatest of them is that which may do thee harm.
 
@@ -667,7 +667,7 @@ The promise of a true man is a greater obligation than a debt.
 
 That man is a hypocrite who prays and fasts, but is untruthful in what he says, false to his word, and unfaithful in discharging a trust.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## Truthfulness to Secrets
 
@@ -765,7 +765,7 @@ Do not undertake a work for which you are not competent.
 
 What can a tirewoman do with an ugly face?
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 ## Opportunities
 
@@ -801,7 +801,7 @@ Economy saves half the cost of living.
 
 The value of economy is equal to half of your profits,
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Frugality saves a man from poverty.
 
@@ -839,7 +839,7 @@ Man is a target to the accidents of time.
 
 One day for us, and one day against us.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 With to-day there is to-morrow.
 
@@ -875,7 +875,7 @@ He who thinks that Fortune will always favour him is a fool.
 
 Follow the tracks of the fortunate man and you will come to fortune,
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 ## Patience
 
@@ -909,7 +909,7 @@ Rarely does a patient man fail in obtaining that which he seeks.
 
 Be patient—every cloud dissipates, and every evil which does not continue is a small thing.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 He who receives the strokes is not like him who counts them.
 
@@ -943,7 +943,7 @@ God loves a cheerful man.
 
 A main part of friendship is cheerfulness.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 Cheerfulness denotes a generous nature, as a flower denotes fruit.
 
@@ -973,7 +973,7 @@ Life has no cloud to an ignorant man, to one who heeds not past or future events
 
 War is an evil thing to both victor and vanquished.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 It is better to avoid than to make war.
 
@@ -1009,7 +1009,7 @@ Magnanimity to captives, and mercy to the fallen, are a hymn of praise to God fo
 
 The first part of anger is madness and the second is regret.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 Passion and blindness are inseparable mates.
 
@@ -1043,7 +1043,7 @@ He who makes enemies shall have many a restless night.
 
 He who has many enemies, let him expect a downfall.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 When anger is repressed by reason of inability to do immediate harm, it retires into the heart in the form of malice and breeds these vices—envy, triumph over the enemy's ill, repulsion of friendly approaches, contempt, slander, derision, personal violence, and injustice.
 
@@ -1067,7 +1067,7 @@ Every favoured man is envied.
 
 A lordly man is always an object of admiration or of envy.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Beware of envy, for it shows itself in you, not in him whom you envy.
 
@@ -1097,7 +1097,7 @@ Beware of rashness, for it has well been called the Mother of Regrets.
 
 He who acts hastily either makes a blunder, or comes very near it.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 He who is deliberate is either right, or very nearly so.
 
@@ -1135,7 +1135,7 @@ Avarice is the parent of all evil dispositions.
 
 The riches of an avaricious man go either to naught or to an heir.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 He who is close-fisted shall be treated in a like manner.
 
@@ -1169,7 +1169,7 @@ A good man sees his own faults and is blind to the faults of others.
 
 Censure your friend by kindness, and return the evil which he may have done to you by acts of favour.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 To blame a friend is better than to lose him.
 
@@ -1207,7 +1207,7 @@ Chastity united to beauty makes a wife perfect.
 
 Three things contribute to long life—a large house, an obedient wife, and a swift horse.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 The violence of love vanishes soon after marriage. If the love of bride and bridegroom were to endure, the Resurrection Day would be at hand.
 
@@ -1263,7 +1263,7 @@ When your father and mother become old, and you take them into your house, say n
 
 Be dutiful to your father, and your son shall be dutiful to you.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 He who is ill-mannered to his father will be ill-treated by his son.
 
@@ -1295,7 +1295,7 @@ A man is a mirror in which his brother's likeness is seen.
 
 The best man among you is he who is best to his relations.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Blood does not become water.
 
@@ -1355,7 +1355,7 @@ In social life be as friends, in business as strangers.
 
 Prefer a near neighbour to a distant brother.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ## Salutation, Visiting
 
@@ -1385,7 +1385,7 @@ Love of one's own country is a religious duty.
 
 A true man yearns towards his native country, and longs for his home as a lion longs for his lair.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 It is a sign of sound judgment when the heart craves for country and home.
 
@@ -1421,7 +1421,7 @@ Health is a crown on the head of the hale, invisible except to the sick.
 
 Sound health is beyond all price.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 The greatest gift to man is a long healthy life.
 
@@ -1453,7 +1453,7 @@ An old man speaks of what he has seen, and a young man speaks of what he has hea
 
 Grey hairs are a sign of wisdom, and are beautified by reverence.
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 A hoary head is a rich cream churned by long years.
 

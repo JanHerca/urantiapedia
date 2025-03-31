@@ -32,19 +32,19 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## PART ONE
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 ![](/image/book/Buddhism/The_Life_of_Buddha/00200.jpg)
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 SERENE and magnificent was this city where once had dwelt the great hermit Kapila. It seemed to be built out of some fragment of the sky: the walls were like clouds of light, and the houses and gardens radiated a divine splendor. Precious stones glistened everywhere. Within its gates darkness was as little known as poverty. At night, when silver moonbeams fingered each turret, the city was like a pond of lilies; by day, when the terraces were bathed in golden sunshine, the city was like a river of lotuses.
 
-King Suddhodana reigned in Kapilavastu; he was its brightest ornament. He was kindly and generous, modest and just. He pursued his bravest enemies, and they fell before him in battle like elephants struck down by Indra; and as darkness is dissipated by the sharp rays of the sun, even so were the wicked vanquished by his radiant glory. He brought light into the world, and he pointed out the true path to those who were close to him. His great wisdom gained for him many friends, many courageous, discerning friends, and as starlight intensifies <span id="p4">[<sup><small>p. 4</small></sup>]</span> the brightness of the moon, so did their brilliance enhance his splendor.
+King Suddhodana reigned in Kapilavastu; he was its brightest ornament. He was kindly and generous, modest and just. He pursued his bravest enemies, and they fell before him in battle like elephants struck down by Indra; and as darkness is dissipated by the sharp rays of the sun, even so were the wicked vanquished by his radiant glory. He brought light into the world, and he pointed out the true path to those who were close to him. His great wisdom gained for him many friends, many courageous, discerning friends, and as starlight intensifies <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> the brightness of the moon, so did their brilliance enhance his splendor.
 
 Suddhodana, king of the Sakya race, had wed many queens. His favorite among these was Maya.
 
@@ -58,7 +58,7 @@ One day, the queen bathed and perfumed her body, then attired herself in a delic
 
 Suddhodana was seated in a great hall. Sweet music was lulling his tranquil reverie. Maya took the seat on his right, and she said to him:
 
-“Deign to listen, my lord. Deign to grant the <span id="p5">[<sup><small>p. 5</small></sup>]</span> favor I have to ask of you, O protector of the earth.”
+“Deign to listen, my lord. Deign to grant the <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> favor I have to ask of you, O protector of the earth.”
 
 “Speak, my queen,” replied Suddhodana. “What is this favor?”
 
@@ -66,7 +66,7 @@ Suddhodana was seated in a great hall. Sweet music was lulling his tranquil reve
 
 She paused a moment. The king gazed at her in tender admiration. She continued:
 
-“My lord, I ask you to respect my austere life. Do not enter the dim forest of desire; allow me to observe the holy law of abstinence. I shall repair to those apartments that are in the lofty reached of the <span id="p6">[<sup><small>p. 6</small></sup>]</span> palace, and there, where the swans build their nests, have prepared for me a couch strewn with flowers, a soft, perfumed couch. My maidens shall attend to my wants, and you may dismiss the eunuchs, the guards and all vulgar servants. I would be spared the sight of ugliness, the sound of revelry and the odor of things unpleasant.”
+“My lord, I ask you to respect my austere life. Do not enter the dim forest of desire; allow me to observe the holy law of abstinence. I shall repair to those apartments that are in the lofty reached of the <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> palace, and there, where the swans build their nests, have prepared for me a couch strewn with flowers, a soft, perfumed couch. My maidens shall attend to my wants, and you may dismiss the eunuchs, the guards and all vulgar servants. I would be spared the sight of ugliness, the sound of revelry and the odor of things unpleasant.”
 
 She said no more. The king replied:
 
@@ -80,7 +80,7 @@ The queen rose.
 
 She then left the hall and went to the top of the royal palace.
 
-It was the advent of spring. Birds darted and wheeled above the terraces; birds sang in the trees. The gardens were in flower; on the surface of the <span id="p7">[<sup><small>p. 7</small></sup>]</span> ponds, the lotus buds were unfolding. And, as the queen sought her bower, the piping note of flutes and the deeper harmony of strings resounded of their own accord, and a refulgent glory appeared over the palace, a glory so perfect that the sunlight turned to shadow.
+It was the advent of spring. Birds darted and wheeled above the terraces; birds sang in the trees. The gardens were in flower; on the surface of the <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> ponds, the lotus buds were unfolding. And, as the queen sought her bower, the piping note of flutes and the deeper harmony of strings resounded of their own accord, and a refulgent glory appeared over the palace, a glory so perfect that the sunlight turned to shadow.
 
 <figure class="table chapter-navigator">
   <table>

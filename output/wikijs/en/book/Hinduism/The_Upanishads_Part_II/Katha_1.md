@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 KA<i>TH</i>A-UPANISHAD.
 
@@ -48,7 +48,7 @@ FIRST ADHYÂYA.
 
 4\. He (knowing that his father had promised to give up all that he possessed, and therefore his son also) said to his father: ‘Dear father, to whom wilt thou give me?’
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 He said it a second and a third time. Then the father replied (angrily):
 
@@ -56,7 +56,7 @@ He said it a second and a third time. Then the father replied (angrily):
 
 (The father, having once said so, though in haste, had to be true to his word and to sacrifice his son.)
 
-5\. The son said: 'I go as the first, at the head of many (who have still to die); I go in the midst of many (who are now dying). What will be the work of Yama (the ruler of the departed) which to-day he has to do unto me [^82]? <span id="p3">[<sup><small>p. 3</small></sup>]</span> 6\. ‘Look back how it was with those who came before, look forward how it will be with those who come hereafter. A mortal ripens like corn, like corn he springs up again [^83].’
+5\. The son said: 'I go as the first, at the head of many (who have still to die); I go in the midst of many (who are now dying). What will be the work of Yama (the ruler of the departed) which to-day he has to do unto me [^82]? <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> 6\. ‘Look back how it was with those who came before, look forward how it will be with those who come hereafter. A mortal ripens like corn, like corn he springs up again [^83].’
 
 (Na<i>k</i>iketas enters into the abode of Yama Vaivasvata, and there is no one to receive him. Thereupon one of the attendants of Yama is supposed to say:)
 
@@ -66,7 +66,7 @@ He said it a second and a third time. Then the father replied (angrily):
 
 (Yama, returning to his house after an absence of three nights, during which time Na<i>k</i>iketas had received no hospitality from him, says:)
 
-9\. ‘O Brâhma<i>n</i>a, as thou, a venerable guest, hast dwelt in my house three nights without eating, <span id="p4">[<sup><small>p. 4</small></sup>]</span> therefore choose now three boons. Hail to thee! and welfare to me!’
+9\. ‘O Brâhma<i>n</i>a, as thou, a venerable guest, hast dwelt in my house three nights without eating, <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> therefore choose now three boons. Hail to thee! and welfare to me!’
 
 10\. Na<i>k</i>iketas said: ‘O Death, as the first of the three boons I choose that Gautama, my father, be pacified, kind, and free from anger towards me; and that he may know me and greet me, when I shall have been dismissed by thee.’
 
@@ -78,7 +78,7 @@ He said it a second and a third time. Then the father replied (angrily):
 
 14\. Yama said: ‘I tell it thee, learn it from me, and when thou understandest that fire-sacrifice which leads to heaven, know, O Na<i>k</i>iketas, that it is the attainment of the endless worlds, and their firm support, hidden in darkness [^87].’
 
-15\. Yama then told him that fire-sacrifice, the beginning of all the worlds [^88], and what bricks are <span id="p5">[<sup><small>p. 5</small></sup>]</span> required for the altar, and how many, and how they are to be placed. And Na<i>k</i>iketas repeated all as it had been told to him. Then M<i>ri</i>tyu, being pleased with him, said again:
+15\. Yama then told him that fire-sacrifice, the beginning of all the worlds [^88], and what bricks are <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> required for the altar, and how many, and how they are to be placed. And Na<i>k</i>iketas repeated all as it had been told to him. Then M<i>ri</i>tyu, being pleased with him, said again:
 
 16\. The generous [^89], being satisfied, said to him:
 
@@ -92,7 +92,7 @@ I give thee now another boon; that fire-sacrifice shall be named after thee, tak
 
 20\. Na<i>k</i>iketas said: ‘There is that doubt, when a man is dead,—some saying, he is; others, he is not. This I should like to know, taught by thee; this is the third of my boons.’
 
-21\. Death said: ‘On this point even the gods <span id="p6">[<sup><small>p. 6</small></sup>]</span> have doubted formerly; it is not easy to understand. That subject is subtle. Choose another boon, O Na<i>k</i>iketas, do not press me, and let me off that boon.’
+21\. Death said: ‘On this point even the gods <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> have doubted formerly; it is not easy to understand. That subject is subtle. Choose another boon, O Na<i>k</i>iketas, do not press me, and let me off that boon.’
 
 22\. Na<i>k</i>iketas said: ‘On this point even the gods have doubted indeed, and thou, Death, hast declared it to be not easy to understand, and another teacher like thee is not to be found:—surely no other boon is like unto this.’
 
@@ -104,14 +104,14 @@ I give thee now another boon; that fire-sacrifice shall be named after thee, tak
 
 26\. Na<i>k</i>iketas said: ‘These things last till tomorrow, O Death, for they wear out this vigour of all the senses. Even the whole of life is short. Keep thou thy horses, keep dance and song for thyself.’
 
-27\. ‘No man can be made happy by wealth. Shall we possess wealth, when we see thee? Shall we live, <span id="p7">[<sup><small>p. 7</small></sup>]</span> as long as thou rulest? Only that boon (which I have chosen) is to be chosen by me.’
+27\. ‘No man can be made happy by wealth. Shall we possess wealth, when we see thee? Shall we live, <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> as long as thou rulest? Only that boon (which I have chosen) is to be chosen by me.’
 
 28\. ‘What mortal, slowly decaying here below, and knowing, after having approached them, the freedom from decay enjoyed by the immortals, would delight in a long life, after he has pondered on the pleasures which arise from beauty and love [^94]?’
 
 29\. ‘No, that on which there is this doubt, O Death, tell us what there is in that great Hereafter. Na<i>k</i>iketas does not choose another boon but that which enters into the hidden world.’
 
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 ## SECOND VALLÎ
 
@@ -127,7 +127,7 @@ I give thee now another boon; that fire-sacrifice shall be named after thee, tak
 
 6\. ‘The Hereafter never rises before the eyes of the careless child, deluded by the delusion of wealth. “This is the world,” he thinks, “there is no other;”—thus he falls again and again under my sway.’
 
-7\. ‘He (the Self) of whom many are not even able <span id="p9">[<sup><small>p. 9</small></sup>]</span> to hear, whom many, even when they hear of him, do not comprehend; wonderful is a man, when found, who is able to teach him (the Self); wonderful is he who comprehends him, when taught by an able teacher [^98].’
+7\. ‘He (the Self) of whom many are not even able <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> to hear, whom many, even when they hear of him, do not comprehend; wonderful is a man, when found, who is able to teach him (the Self); wonderful is he who comprehends him, when taught by an able teacher [^98].’
 
 8\. ‘That (Self), when taught by an inferior man, is not easy to be known, even though often thought upon [^99]; unless it be taught by another, there is no way to it, for it is inconceivably smaller than what is small [^100].’
 
@@ -135,7 +135,7 @@ I give thee now another boon; that fire-sacrifice shall be named after thee, tak
 
 10\. Na<i>k</i>iketas said: ‘I know that what is called a treasure is transient, for that eternal is not obtained by things which are not eternal. Hence the Nâkiketa fire(-sacrifice) has been laid by me (first); then, by means of transient things, I have obtained what is not transient (the teaching of Yama) [^104].’
 
-11\. Yama said: ‘Though thou hadst seen the fulfilment of all desires, the foundation of the world, the endless rewards of good deeds, the shore where <span id="p10">[<sup><small>p. 10</small></sup>]</span> there is no fear, that which is magnified by praise, the wide abode, the rest [^105], yet being wise thou hast with firm resolve dismissed it all.’
+11\. Yama said: ‘Though thou hadst seen the fulfilment of all desires, the foundation of the world, the endless rewards of good deeds, the shore where <span id="p10"><sup><small>[ p. 10 ]</small></sup></span> there is no fear, that which is magnified by praise, the wide abode, the rest [^105], yet being wise thou hast with firm resolve dismissed it all.’
 
 12\. ‘The wise who, by means of meditation on his Self, recognises the Ancient, who is difficult to be seen, who has entered into the dark, who is hidden in the cave, who dwells in the abyss, as God, he indeed leaves joy and sorrow far behind [^106].’
 
@@ -149,7 +149,7 @@ I give thee now another boon; that fire-sacrifice shall be named after thee, tak
 
 17\. ‘This is the best support, this is the highest support; he who knows that support is magnified in the world of Brahmâ.’
 
-18\. ‘The knowing (Self) is not born, it dies not; it sprang from nothing, nothing sprang from it. The <span id="p11">[<sup><small>p. 11</small></sup>]</span> Ancient is unborn, eternal, everlasting; he is not killed, though the body is killed [^108].’
+18\. ‘The knowing (Self) is not born, it dies not; it sprang from nothing, nothing sprang from it. The <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> Ancient is unborn, eternal, everlasting; he is not killed, though the body is killed [^108].’
 
 19\. ‘If the killer thinks that he kills, if the killed thinks that he is killed, they do not understand; for this one does not kill, nor is that one killed.’
 
@@ -166,7 +166,7 @@ I give thee now another boon; that fire-sacrifice shall be named after thee, tak
 25\. ‘Who then knows where He is, He to whom the Brahmans and Kshatriyas are (as it were) but food [^113], and death itself a condiment?’
 
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 ## THIRD VALLÎ
 
@@ -178,7 +178,7 @@ I give thee now another boon; that fire-sacrifice shall be named after thee, tak
 
 4\. ‘The senses they call the horses, the objects of the senses their roads. When he (the Highest Self) is in union with the body, the senses, and the mind, then wise people call him the Enjoyer.’
 
-5\. ‘He who has no understanding and whose mind <span id="p13">[<sup><small>p. 13</small></sup>]</span> (the reins) is never firmly held, his senses (horses) are unmanageable, like vicious horses of a charioteer.’
+5\. ‘He who has no understanding and whose mind <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> (the reins) is never firmly held, his senses (horses) are unmanageable, like vicious horses of a charioteer.’
 
 6\. ‘But he who has understanding and whose mind is always firmly held, his senses are under control, like good horses of a charioteer.’
 
@@ -196,7 +196,7 @@ I give thee now another boon; that fire-sacrifice shall be named after thee, tak
 
 13\. ‘A wise man should keep down speech and mind [^117]; he should keep them within the Self which is knowledge; he should keep knowledge within the Self which is the Great; and he should keep that (the Great) within the Self which is the Quiet.’
 
-14\. ‘Rise, awake! having obtained your boons [^118], <span id="p14">[<sup><small>p. 14</small></sup>]</span> understand them! The sharp edge of a razor is difficult to pass over; thus the wise say the path (to the Self) is hard.’
+14\. ‘Rise, awake! having obtained your boons [^118], <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> understand them! The sharp edge of a razor is difficult to pass over; thus the wise say the path (to the Self) is hard.’
 
 15\. ‘He who has perceived that which is without sound, without touch, without form, without decay, without taste, eternal, without smell, without beginning, without end, beyond the Great, and unchangeable, is freed from the jaws of death.’
 

@@ -29,7 +29,7 @@ dateCreated: 2024-11-21T10:26:39Z
   </table>
 </figure>
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 _The following advertisements appeared at the end of the original book. They are included for completeness._
 
@@ -51,7 +51,7 @@ The object of the Editors of this Series is a very definite one. They desire abo
 
 **BRAHMA-KNOWLEDGE:** An Outline of the Philosophy of the Vedanta. As set forth by the Upanishads and by Sankara. By L. D. Barnett, M.A., Litt.D., Professor of Sanskrit at University College, London. 2nd Impression. _2/-_ net.
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 **THE BUDDHA'S “WAY OF VIRTUE.”** A Translation of the Dhammapada. By W. C. D. Wagiswara and K. J. Saunders, Members of the Royal Asiatic Society, Ceylon branch, _2/-_ net.
 
@@ -87,7 +87,7 @@ The object of the Editors of this Series is a very definite one. They desire abo
 
 **THE CONFESSIONS OF AL GHAZZALI.** Translated for the first time into English by Claud Field, M.A. _1/-_ net.
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 **THE AWAKENING OF THE SOUL.** From the Arabic of Ibn Tufail. Translated with Introduction by Paul Brönnle., Ph.D. 4th Impression. _1/6_ net.
 
@@ -125,7 +125,7 @@ The object of the Editors of this Series is a very definite one. They desire abo
 
 **THE SAYINGS OF CONFUCIUS.** A new Translation of the greater part of the Confucian Analects, with Introduction and Notes by, Lionel Giles, M.A. (Oxon.), Assistant in the Department of Oriental Books and Manuscripts of the British Museum. 2nd Impression. _2 -_ net.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 **THE CONDUCT OF LIFE; or, The Universal Order of Confucius.** A translation of one of the four Confucian Books, hitherto known as the Doctrine of the Mean. By Ku Hung Ming, M.A. (Edin.). 2nd Impression. _1/-_ net.
 

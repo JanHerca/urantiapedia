@@ -38,7 +38,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 2. They may pour water on lees, in order to render them thinner; and also strain wine through a cloth or an Egyptian hamper; and pass an egg \[that has been cracked\] through a mustard-strainer. They may also make \[mix\] honey-wine on the Sabbath. R. Jehudah saith, “On the Sabbath \[they may mix it\] in a goblet; on the festival, in a basin; and on the middle-days, in a cask;” but R. Zadock saith, “At all times \[a sufficient quantity may be mixed\], according to \[the number\] of guests \[to be provided for\].”
 
-§ 3. They must not soak laserpitium [^166] in tepid water, but it may be put into vinegar; vetch must not be soaked or crushed, though it may be put into a sieve or a basket; straw for fodder must not be <span id="p65">[<sup><small>p. 65</small></sup>]</span> passed through a winnow, nor must it be put on a high \[exposed\] place, that the chaff may fall \[blow\] off; but they may put it into a winnow, and then pour it into the crib.
+§ 3. They must not soak laserpitium [^166] in tepid water, but it may be put into vinegar; vetch must not be soaked or crushed, though it may be put into a sieve or a basket; straw for fodder must not be <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> passed through a winnow, nor must it be put on a high \[exposed\] place, that the chaff may fall \[blow\] off; but they may put it into a winnow, and then pour it into the crib.
 
 § 4. They may cleanse \[the crib\] for a stalled ox, and also push aside the superfluous provender, that it may not get soiled. Such is the dictum of R. Dosa; but the sages prohibit it. They may move the fodder from before one beast to put it before another on the Sabbath.
 

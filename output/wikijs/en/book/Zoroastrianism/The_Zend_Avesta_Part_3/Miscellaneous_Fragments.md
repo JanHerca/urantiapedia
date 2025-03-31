@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-<span id="p389">[<sup><small>p. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 ## I
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## II
 
-1\. I confess myself a Mazda-worshipper—for the praise of Thraêtaona, the Âthwyan. Let them declare it—Propitiation be to the Fravashi of Thraêtaona, the Âthwyan, the saint. 2. We sacrifice to Thraêtaona, the Âthwyan, the holy lord of the ritual order; and may we be free from the dog Kuro [^1563], and the Tarewani [^1563], and the Karpan, (we who are) of [^1564] those who sacrifice in order. 3. (The Ahuna <span id="p390">[<sup><small>p. 390</small></sup>]</span> follows.) Sacrifice, homage, strength, and swiftness be to the Fravashi of Thraêtaona, the saint. (The Ahem and Ahmâi raê<i>s</i><i>k</i>a follow.)
+1\. I confess myself a Mazda-worshipper—for the praise of Thraêtaona, the Âthwyan. Let them declare it—Propitiation be to the Fravashi of Thraêtaona, the Âthwyan, the saint. 2. We sacrifice to Thraêtaona, the Âthwyan, the holy lord of the ritual order; and may we be free from the dog Kuro [^1563], and the Tarewani [^1563], and the Karpan, (we who are) of [^1564] those who sacrifice in order. 3. (The Ahuna <span id="p390"><sup><small>[ p. 390 ]</small></sup></span> follows.) Sacrifice, homage, strength, and swiftness be to the Fravashi of Thraêtaona, the saint. (The Ahem and Ahmâi raê<i>s</i><i>k</i>a follow.)
 
 ## III
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 1\. I proclaim the Airy<i>e</i>mâ-ishyô as the greatest of all authoritative prayers, O Spitama! as the most influential and helpful for progress; and may the Saoshya<i>n</i>ts (who would further us) use it and revere it.
 
-2\. I am speaking in accordance with it, O Spitama! and therefore I shall rule as sovereign over creatures which are mine, I who am Ahura Mazda. Let no one rule as Angra Mainyu [^1566] over realms that are his own, O Zarathu<i>s</i>tra Spitama! 3. Let Angra Mainyu be hid beneath the earth [^1567]. Let the Daêvas likewise <span id="p391">[<sup><small>p. 391</small></sup>]</span> disappear. Let the dead arise (unhindered by these foes), and let bodily life be sustained in these now lifeless bodies.
+2\. I am speaking in accordance with it, O Spitama! and therefore I shall rule as sovereign over creatures which are mine, I who am Ahura Mazda. Let no one rule as Angra Mainyu [^1566] over realms that are his own, O Zarathu<i>s</i>tra Spitama! 3. Let Angra Mainyu be hid beneath the earth [^1567]. Let the Daêvas likewise <span id="p391"><sup><small>[ p. 391 ]</small></sup></span> disappear. Let the dead arise (unhindered by these foes), and let bodily life be sustained in these now lifeless bodies.
 
 ## V
 
@@ -64,7 +64,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 Propitiation be to the created body of the Kine of blessed endowment, and to the Kine's soul (so, if there is one cow presented [^1570]). Propitiation be to the body and soul of you two (so, if there are two [^1570]).—To your body and soul (if there are three, or the entire herd [^1570]). (The Ahuna follows.)
 
-<span id="p392">[<sup><small>p. 392</small></sup>]</span>
+<span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
 ## VII
 
@@ -78,7 +78,7 @@ Propitiation be to the created body of the Kine of blessed endowment, and to the
 
 1\. The moons\* of the season will wane. Let the Mazdayasnian (pray) for a smiter who may destroy quickly (the demon who causes their decrease). And quickly indeed may the malignant one die off—. For no one of her adherents can maintain this Dru<i>g</i>(k) by prayers.
 
-2\. Smiting fiercely [^1573] with her weapon, she, the Dru<i>g</i>(k), goes on, and most mighty she has been. And she wanders on, O Zarathu<i>s</i>tra! as mindful of her might, and strong [^1574] in proportion as she advances <span id="p393">[<sup><small>p. 393</small></sup>]</span> as the sinful Dru<i>g</i>(k). But may Khshathra [^1575] be with me—, so that . . . . the deadly one may die away, for thereupon the blow of destruction shall come upon the Dru<i>g</i>(k) [^1576].
+2\. Smiting fiercely [^1573] with her weapon, she, the Dru<i>g</i>(k), goes on, and most mighty she has been. And she wanders on, O Zarathu<i>s</i>tra! as mindful of her might, and strong [^1574] in proportion as she advances <span id="p393"><sup><small>[ p. 393 ]</small></sup></span> as the sinful Dru<i>g</i>(k). But may Khshathra [^1575] be with me—, so that . . . . the deadly one may die away, for thereupon the blow of destruction shall come upon the Dru<i>g</i>(k) [^1576].
 
 ## IX
 

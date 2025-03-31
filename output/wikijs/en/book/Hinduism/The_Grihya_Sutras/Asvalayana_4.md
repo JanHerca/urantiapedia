@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 ## ADHYÂYA IV, KA<i>ND</i>IKÂ 1.
 
@@ -55,7 +55,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9\. (The piece of ground dug up should be) of the length of a man with upraised arms,
 
-10\. Of the breadth of one Vyâma (fathom), <span id="p237">[<sup><small>p. 237</small></sup>]</span>
+10\. Of the breadth of one Vyâma (fathom), <span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 11\. Of the depth of one Vitasti (span).
 
@@ -80,7 +80,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KA<i>ND</i>IKÂ 2.
 
-1\. [^579]. (The relations of the dead person) now carry (his sacred) fires and (his) sacrificial vessels in that direction. <span id="p238">[<sup><small>p. 238</small></sup>]</span>
+1\. [^579]. (The relations of the dead person) now carry (his sacred) fires and (his) sacrificial vessels in that direction. <span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 2\. After them aged persons forming an odd number, men and women not going together, (carry) the dead body.
 
@@ -108,7 +108,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1
 
-14\. [^583]. After that a person that knows (how to do it), piles up between the fires a pile of fuel. <span id="p239">[<sup><small>p. 239</small></sup>]</span>
+14\. [^583]. After that a person that knows (how to do it), piles up between the fires a pile of fuel. <span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 15\. After sacrificial grass and a black antelope's skin with the hair outside has been spread out there, they place the dead body thereon, which they have carried so as to pass by the Gârhapatya fire on its north-side, turning its head towards the Âhavanîya.
 
@@ -131,7 +131,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 3.
 
@@ -163,7 +163,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1
 
-13\. On his thighs the two kindling woods. <span id="p241">[<sup><small>p. 241</small></sup>]</span>
+13\. On his thighs the two kindling woods. <span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 14\. On his legs the mortar and the pestle.
 
@@ -185,7 +185,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2
 
-23\. [^593]. And two lumps (of flour or rice), according to some (teachers). <span id="p242">[<sup><small>p. 242</small></sup>]</span>
+23\. [^593]. And two lumps (of flour or rice), according to some (teachers). <span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 24 [^594]. (Only) if there are no kidneys, according to some (teachers).
 
@@ -206,7 +206,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4
 
-3\. [^598]. If the Gârhapatya fire reaches (the body) first, he should know, ‘It has reached him in the air-world. He will live there in prosperity, and so will this one, i.e. his son, in this world.’ <span id="p243">[<sup><small>p. 243</small></sup>]</span>
+3\. [^598]. If the Gârhapatya fire reaches (the body) first, he should know, ‘It has reached him in the air-world. He will live there in prosperity, and so will this one, i.e. his son, in this world.’ <span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 4 [^599]. If the Dakshi<i>n</i>a fire reaches (the body) first, he should know, ‘It has reached him in the world of men. He will live there in prosperity, and so will this one, i.e. his son, in this world.’
 
@@ -220,7 +220,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9\. After he has recited (the verse), ‘These living ones have separated from the dead’ (Rig-veda X, 18, 3), they turn round from right to left and go away without looking back.
 
-10\. [^603]. When they have come to a place where standing water is, having once (plunged into it and) emerged <span id="p244">[<sup><small>p. 244</small></sup>]</span> from it, they pour out one handful (of water), pronounce the Gotra name and the proper name (of the deceased), go out (of the water), put on other garments, wring out (the old garments) once, lay them away with their skirts to the north, and sit down until the stars appear.
+10\. [^603]. When they have come to a place where standing water is, having once (plunged into it and) emerged <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> from it, they pour out one handful (of water), pronounce the Gotra name and the proper name (of the deceased), go out (of the water), put on other garments, wring out (the old garments) once, lay them away with their skirts to the north, and sit down until the stars appear.
 
 11\. Or they may enter (their houses), when still (a part) of the sun-disk is seen,
 
@@ -238,7 +238,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 17\. [^606]. Let them optionally for twelve nights avoid the distribution of gifts and the study (of Vedic texts), if one of the chief Gurus (has died).
 
-18\. [^607]. Ten days after (the death of) Sapi<i>nd</i>as, <span id="p245">[<sup><small>p. 245</small></sup>]</span>
+18\. [^607]. Ten days after (the death of) Sapi<i>nd</i>as, <span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 19\. And of a Guru who is no Sapi<i>nd</i>a,
 
@@ -270,7 +270,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. [^611]. Aged persons of an odd number, not men and women together (gather the bones).
 
-4\. [^612]. The performer of the ceremony walks three times round the spot with his left side turned towards <span id="p246">[<sup><small>p. 246</small></sup>]</span> it, and sprinkles on it with a <i>S</i>amî branch milk mixed with water, with the verse, ‘O cool one, O thou that art full of coolness’ (Rig-veda X, 16, 14).
+4\. [^612]. The performer of the ceremony walks three times round the spot with his left side turned towards <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> it, and sprinkles on it with a <i>S</i>amî branch milk mixed with water, with the verse, ‘O cool one, O thou that art full of coolness’ (Rig-veda X, 16, 14).
 
 5\. With the thumb and the fourth finger they should put each single bone (into the, urn) without making a noise,
 
@@ -291,7 +291,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. They who have lost a Guru by death, or are afflicted by other misfortune, should perform on the new-moon day an expiatory ceremony.
 
-2\. [^615]. Before sunrise they should carry their fire <span id="p247">[<sup><small>p. 247</small></sup>]</span> together with its ashes and with its receptacle to the south with the half-ve</span>
+2\. [^615]. Before sunrise they should carry their fire <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> together with its ashes and with its receptacle to the south with the half-ve</span>
 
 6end far away the flesh-devouring Agni’ (Rig-veda X, 16, 9).
 
@@ -299,7 +299,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4\. They then should return home without looking back, bathe in water, have their hair, their beards the hair of their bodies, and their nails cut, and furnish themselves with new jars, pots, vessels for rinsing the mouth, wreathed with garlands of <i>S</i>amî flowers, with fuel of <i>S</i>amî wood, with two pieces of <i>S</i>amî wood for kindling fire, and with branches to be laid round the fire, with bull's dung and a bull's hide, fresh butter, a stone, and as many bunches of Ku<i>s</i>a grass as there are young women (in the house).
 
-5\. [^617]. At the time of the Agni(-hotra) he should kindle fire with the hemistich, ‘Here may this other <i>G</i>âtavedas’ (Rig-veda X, 16, 9). <span id="p248">[<sup><small>p. 248</small></sup>]</span>
+5\. [^617]. At the time of the Agni(-hotra) he should kindle fire with the hemistich, ‘Here may this other <i>G</i>âtavedas’ (Rig-veda X, 16, 9). <span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 6\. Keeping that (fire) burning, they sit till the silence of the night, repeating the tales of the aged, and getting stories of auspicious contents, Itihâsas and Purâ<i>n</i>as, told to them.
 
@@ -309,7 +309,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9\. With (the verse), ‘This I lay round the living’ (Rig-veda X, 18, 4), he should lay branches round (the fire).
 
-10\. [^620]. After having with (the words), ‘A mountain (i.e. a stone) they shall place between themselves and death,’ placed a stone to the north of the fire, and having sacrificed with the four (verses), ‘Go hence, O death, on another way’ (Rig-veda X, 18, 1-4), <span id="p249">[<sup><small>p. 249</small></sup>]</span> verse by verse, he should look at his people with (the verse), ‘As the days follow each other’ (ibid. 5).
+10\. [^620]. After having with (the words), ‘A mountain (i.e. a stone) they shall place between themselves and death,’ placed a stone to the north of the fire, and having sacrificed with the four (verses), ‘Go hence, O death, on another way’ (Rig-veda X, 18, 1-4), <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> verse by verse, he should look at his people with (the verse), ‘As the days follow each other’ (ibid. 5).
 
 11\. The young women (belonging to the house) should, with each hand separately, with their thumbs and fourth fingers, with young Darbha blades, salve their eyes with fresh butter, and throw (the Darbha blades) away, turning their faces away.
 
@@ -325,7 +325,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 17\. (There) they sit, avoiding to sleep, till sunrise.
 
-18\. [^621]. After sunrise, having murmured the hymns sacred to the sun and the auspicious hymns, having <span id="p250">[<sup><small>p. 250</small></sup>]</span> prepared food, having made oblations with (the hymn), ‘May he drive evil away from us with his shine’ (Rig-veda I, 97), verse by verse, having given to the Brâhma<i>n</i>as to eat, he should cause (them) to pronounce auspicious words.
+18\. [^621]. After sunrise, having murmured the hymns sacred to the sun and the auspicious hymns, having <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> prepared food, having made oblations with (the hymn), ‘May he drive evil away from us with his shine’ (Rig-veda I, 97), verse by verse, having given to the Brâhma<i>n</i>as to eat, he should cause (them) to pronounce auspicious words.
 
 19\. A cow, a cup of metal, and a garment that has not yet been washed, constitute the sacrificial fee.
 
@@ -342,7 +342,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. The larger their number is, the greater is the reward (which the sacrificer is entitled to expect).
 
-4\. But in no case one (Brâhma<i>n</i>a) for all (the fathers). <span id="p251">[<sup><small>p. 251</small></sup>]</span>
+4\. But in no case one (Brâhma<i>n</i>a) for all (the fathers). <span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 5 [^623]. Optionally (he may invite only one Brâhma<i>n</i>a) except at the first (<i>S</i>râddha).
 
@@ -356,7 +356,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 10\. Having poured water into three vessels of metal, of stone, and of earthen-ware, or (into three vessels) made of the same substance, over which he has put Darbha grass,
 
-And having recited over (that water the verse), ‘For luck and help the divine waters’ (Rig-veda X, 9, 4), he pours sesamum seeds into it with (the formula), ‘Sesamum art thou; Soma is thy deity; at the Gosava sacrifice thou hast been created by <span id="p252">[<sup><small>p. 252</small></sup>]</span> the gods. By the ancients thou hast been offered. Through the funeral oblation render the Fathers and these worlds propitious to us. Svadhâ! Adoration!’
+And having recited over (that water the verse), ‘For luck and help the divine waters’ (Rig-veda X, 9, 4), he pours sesamum seeds into it with (the formula), ‘Sesamum art thou; Soma is thy deity; at the Gosava sacrifice thou hast been created by <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> the gods. By the ancients thou hast been offered. Through the funeral oblation render the Fathers and these worlds propitious to us. Svadhâ! Adoration!’
 
 12\. [^627]. (The different rites are performed) from the right to the left.
 
@@ -364,7 +364,7 @@ And having recited over (that water the verse), ‘For luck and help the divine 
 
 14\. When he is going to hand over that (Arghya water to the Brâhma<i>n</i>as who represent the Fathers, he says once each time), ‘Svadhâ! The Arghya water!’
 
-15\. [^629]. Over (the Arghya water) which has been <span id="p253">[<sup><small>p. 253</small></sup>]</span> p</span>
+15\. [^629]. Over (the Arghya water) which has been <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> p</span>
 
 2, he should recite the verse, ‘The celestial waters which have been produced on the earth, the aerial waters and the waters which are terrestrial, the gold-coloured ones, apt for sacrifice, may these waters bring us luck and be kind to us.’ Pouring together what has been left (in the three Arghya vessels) he moistens his face with that water, if he desires that a son should be born to him.
 
@@ -376,7 +376,7 @@ And having recited over (that water the verse), ‘For luck and help the divine 
 
 19\. The permission (is given in the words), ‘It may be offered,’ or, ‘Sacrifice thy offering,’ or, Offer it.’
 
-20\. [^632]. He then sacrifices in the fire as stated above, <span id="p254">[<sup><small>p. 254</small></sup>]</span>
+20\. [^632]. He then sacrifices in the fire as stated above, <span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 21 [^633]. Or, if they give their permission, in the hands (of the Brâhma<i>n</i>as).
 
@@ -394,7 +394,7 @@ And having recited over (that water the verse), ‘For luck and help the divine 
 
 27\. [^637]. Having asked them, ‘Relished?’ and having taken the food, whatever food he has used, together with the Sthâlîpâka, in order to make lumps thereof, he should offer the rest (to the Brâhma<i>n</i>as).
 
-28\. After they have either accepted (that rest of food), or left it (to him), and have finished eating, he should, before they have sipped water, put down the lumps for the Fathers. <span id="p255">[<sup><small>p. 255</small></sup>]</span>
+28\. After they have either accepted (that rest of food), or left it (to him), and have finished eating, he should, before they have sipped water, put down the lumps for the Fathers. <span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 29\. After they have sipped water, according to some (teachers).
 
@@ -432,7 +432,7 @@ And having recited over (that water the verse), ‘For luck and help the divine 
 
 11\. [^642]. To a quarter (of the horizon) which is sacrificially pure,
 
-12\. At a place which cannot be seen from the village, <span id="p256">[<sup><small>p. 256</small></sup>]</span>
+12\. At a place which cannot be seen from the village, <span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 13\. After midnight,
 
@@ -452,7 +452,7 @@ And having recited over (that water the verse), ‘For luck and help the divine 
 
 21\. Or with (the formula), ‘To Rudra svâhâ!’
 
-22\. [^645]. Let him make Bali offerings towards the four quarters (of the horizon), to each on four rings of Ku<i>s</i>a net-work, with (the formulas), ‘The hosts, Rudra, which thou hast towards the eastern direction, <span id="p257">[<sup><small>p. 257</small></sup>]</span> to them this (offering is brought). Adoration to thee! Do no harm to me!’ In this way the assigning (of the offerings is performed) according to the different quarters (of the horizon).
+22\. [^645]. Let him make Bali offerings towards the four quarters (of the horizon), to each on four rings of Ku<i>s</i>a net-work, with (the formulas), ‘The hosts, Rudra, which thou hast towards the eastern direction, <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> to them this (offering is brought). Adoration to thee! Do no harm to me!’ In this way the assigning (of the offerings is performed) according to the different quarters (of the horizon).
 
 23\. With the following four hymns he should worship the four quarters, viz. ‘What shall we to Rudra,’ ‘These prayers to Rudra,’ ‘To thee, O father,’ ‘These songs to Rudra with the strong bow’ (Rig-veda I, 43, 114; II, 33; VII, 46).
 
@@ -468,7 +468,7 @@ And having recited over (that water the verse), ‘For luck and help the divine 
 
 Then the serpents take whatever has flowed down there of blood or of the contents of stomach and entrails.
 
-29\. All names, all hosts, all exaltations belong <span id="p258">[<sup><small>p. 258</small></sup>]</span> to him;—to a sacrificer who knows that, he gives joy.
+29\. All names, all hosts, all exaltations belong <span id="p258"><sup><small>[ p. 258 ]</small></sup></span> to him;—to a sacrificer who knows that, he gives joy.
 
 30\. Even to a man who only with words sets forth (some part) of that (ceremony), he will do no harm; thus it is understood (in the <i>S</i>ruti).
 
@@ -494,7 +494,7 @@ Then the serpents take whatever has flowed down there of blood or of the content
 
 40\. If disease befalls his cattle, he should sacrifice to that same god in the midst of his cow-stable—
 
-41\. A mess of cooked food, which he sacrifices in its entirety. <span id="p259">[<sup><small>p. 259</small></sup>]</span>
+41\. A mess of cooked food, which he sacrifices in its entirety. <span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 42\. Having thrown the sacrificial grass and the Â<i>g</i>ya into the fire, he should lead his cows through the smoke.
 

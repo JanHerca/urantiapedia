@@ -51,7 +51,7 @@ And Jesus continued again in the discourse anti said unto his disciples: "It cam
 
 “‘3. For my power is filled up with **(68)** darkness, and my light hath gone down into the chaos.
 
-“‘4. I am myself become as the rulers of the <span id="p56">[<sup><small>p. 56</small></sup>]</span> chaos, who are gone into the darknesses below; I am become as a material body, which hath no one in the height who will save it.
+“‘4. I am myself become as the rulers of the <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> chaos, who are gone into the darknesses below; I am become as a material body, which hath no one in the height who will save it.
 
 “‘5. I am become also as matters from which their power hath been taken, when they are cast down into the chaos,—\[matters\] which thou hast not saved, and they are condemned utterly by thy commandment.
 
@@ -71,7 +71,7 @@ And Jesus continued again in the discourse anti said unto his disciples: "It cam
 
 “‘13. But I have sung praises unto thee, O Light, and my repentance will reach unto thee **(69)** in the height.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 “‘14. Let thy light come upon me,
 
@@ -91,7 +91,7 @@ When then Jesus had spoken these words unto his disciples, he said unto them: �
 
 <small>Philip the scribe complaineth.</small>
 
-And when Jesus had finished saying these words, Philip started forward, held up and laid down the book in his hand,—for he is the scribe of all the discourses which Jesus spake, and of all of that which he did,—Philip then **(70)** came forward and said unto him: “My Lord, surely then it is not on me alone that thou hast enjoined to take care for the world and write down all <span id="p58">[<sup><small>p. 58</small></sup>]</span> the discourses which we shall speak and \[all we shall\] do? And thou hast not suffered me to come forward to speak the solution of the mysteries of the repentance of Pistis Sophia. For my spirit hath ofttimes seethed in me and been unloosed and constrained me to come forward and speak the solution of the repentance of Pistis Sophia; and I could not come forward because I am the scribe of all the discourses.”
+And when Jesus had finished saying these words, Philip started forward, held up and laid down the book in his hand,—for he is the scribe of all the discourses which Jesus spake, and of all of that which he did,—Philip then **(70)** came forward and said unto him: “My Lord, surely then it is not on me alone that thou hast enjoined to take care for the world and write down all <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> the discourses which we shall speak and \[all we shall\] do? And thou hast not suffered me to come forward to speak the solution of the mysteries of the repentance of Pistis Sophia. For my spirit hath ofttimes seethed in me and been unloosed and constrained me to come forward and speak the solution of the repentance of Pistis Sophia; and I could not come forward because I am the scribe of all the discourses.”
 
 <small>Jesus explaineth that the appointed scribes are Philip and Thomas and Matthew.</small>
 
@@ -103,7 +103,7 @@ When then Jesus had said this, he said unto his disciples: “Who hath ears to h
 
 <small>Mary interpreteth the words of Jesus concerning the three witnesses.</small>
 
-Mary started forward again, stepped into the midst, placed herself by Philip and said unto Jesus: "My Lord, my in-dweller of light hath ears, and I am ready to hear with my power, and I have understood the word which thou hast spoken. Now, therefore, my Lord, hearken that I may discourse in openness, thou who hast <span id="p59">[<sup><small>p. 59</small></sup>]</span> said unto us: ‘Who hath ears to hear, let him hear.’
+Mary started forward again, stepped into the midst, placed herself by Philip and said unto Jesus: "My Lord, my in-dweller of light hath ears, and I am ready to hear with my power, and I have understood the word which thou hast spoken. Now, therefore, my Lord, hearken that I may discourse in openness, thou who hast <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> said unto us: ‘Who hath ears to hear, let him hear.’
 
 “Concerning the word which thou hast spoken unto Philip: ‘It is thou and Thomas and Matthew on whom it hath been enjoined—to you three by the First Mystery, to write all the discourses of the kingdom of the Light and thereto to bear witness ’; hearken, therefore, that I may proclaim the solution of this word. This is what thy light-power prophesied aforetime through Moses: ‘By two or three witnesses shall every matter be established.’ The three witnesses are Philip and Thomas and Matthew.”
 
@@ -119,7 +119,7 @@ And Philip answered and said unto Jesus: "My Lord, hearken that I may speak the 
 
 “‘2. Let my weeping come before thee; incline thine ear to my supplication, O Lord.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 “‘3. For my soul is full of evil, my life hath drawn nigh to the world below.
 
@@ -149,7 +149,7 @@ And Philip answered and said unto Jesus: "My Lord, hearken that I may speak the 
 
 “‘16. Thy angers are come upon me and thy terrors have brought me into delusion.
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 “‘17. They have surrounded me as water; they have seized upon me the whole day long.
 
@@ -179,7 +179,7 @@ It came. to pass thereafter that Jesus continued again in the discourse and said
 
 “‘5. And my power hath had faith in thy mystery; and moreover my power hath trusted in the Light when it was among those of the height; and it hath trusted in it when it was in the chaos below.
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 “‘6. Let all the powers in me trust in the Light when I am in the darkness below, and may they again trust in the Light if they come into the region of the height.
 
@@ -212,7 +212,7 @@ Andrew came forward and said: "My Lord, concerning the solution of the sixth rep
 
 “‘7. For grace standeth by the Lord and with him is great redemption.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 “‘8. And he will deliver Israel from all his iniquities.’
 
@@ -224,7 +224,7 @@ Jesus said unto him: “Well said, Andrew, blessed one. This is the solution of 
 
 It came to pass then, when Jesus had finished speaking these words unto his disciples, that he said unto them: “Understand ye in what manner I speak with you?”
 
-Mary said: "Yea, Lord, I have understood the word which thou hast spoken. Concerning then the word which thou hast said: At the dissolution of the whole Mixture thou shalt take thy seat on a light-power and thy disciples, <span id="p64">[<sup><small>p. 64</small></sup>]</span> that is ourselves, shall sit on the right of thee, and thou shalt judge the tyrant gods, who have not given up the purification of their light, and the wise fire will bite into them, until they give up the last light in them,—concerning this word then thy light-power prophesied aforetime through David, in the eighty-first Psalm, saying:
+Mary said: "Yea, Lord, I have understood the word which thou hast spoken. Concerning then the word which thou hast said: At the dissolution of the whole Mixture thou shalt take thy seat on a light-power and thy disciples, <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> that is ourselves, shall sit on the right of thee, and thou shalt judge the tyrant gods, who have not given up the purification of their light, and the wise fire will bite into them, until they give up the last light in them,—concerning this word then thy light-power prophesied aforetime through David, in the eighty-first Psalm, saying:
 
 “‘God shall sit in the assembly (synagogue) **(77)** of the gods and try the gods.’”
 
@@ -242,7 +242,7 @@ Jesus continued again in the discourse and said unto his disciples: "It came to 
 
 “‘2. On thee have I had faith. Let me not be scorned; let not the rulers of the twelve æons, who hate me, rejoice over me.
 
-“‘3. For all who have faith in thee shall not be put to shame. Let them who have taken <span id="p65">[<sup><small>p. 65</small></sup>]</span> away my power, remain in darkness; and let them not get from it any profit, but let it be taken away from them. **(78)**
+“‘3. For all who have faith in thee shall not be put to shame. Let them who have taken <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> away my power, remain in darkness; and let them not get from it any profit, but let it be taken away from them. **(78)**
 
 “‘4. O Light, show me thy ways, and I shall be saved in them; and show me thy paths, whereby I shall be saved out of the chaos.
 
@@ -264,7 +264,7 @@ Jesus continued again in the discourse and said unto his disciples: "It came to 
 
 “‘13. And his soul will abide in the regions of the Light and his power will inherit **(79)** the Treasury of the Light.
 
-“‘14. The Light giveth power to them who <span id="p66">[<sup><small>p. 66</small></sup>]</span> have faith in it; and the name of its mystery belongeth to those who trust in it. And it will show them the region of the Inheritance, which is in the Treasury of the Light.
+“‘14. The Light giveth power to them who <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> have faith in it; and the name of its mystery belongeth to those who trust in it. And it will show them the region of the Inheritance, which is in the Treasury of the Light.
 
 “‘15. But I have ever had faith in the Light, for it will save my feet from the bonds of the darkness.
 
@@ -284,7 +284,7 @@ Jesus continued again in the discourse and said unto his disciples: "It came to 
 
 “Now, therefore, who is sober, let him be sober.”
 
-When then Jesus had spoken this unto his disciples, Thomas came forward and said: "My Lord, I am sober, I am plentifully sober, and my spirit is ready in me, and I rejoice exceedingly that thou hast revealed these words unto us. But indeed I have borne with my brethren until now, so that I should not anger them; nay <span id="p67">[<sup><small>p. 67</small></sup>]</span> rather I have borne with every one that he should come before thee and speak **(80)** the solution of the repentance of Pistis Sophia. Now, therefore, my Lord, concerning the solution of the seventh repentance of Pistis Sophia thy light-power hath prophesied through the prophet David in the twenty-fourth Psalm, thus
+When then Jesus had spoken this unto his disciples, Thomas came forward and said: "My Lord, I am sober, I am plentifully sober, and my spirit is ready in me, and I rejoice exceedingly that thou hast revealed these words unto us. But indeed I have borne with my brethren until now, so that I should not anger them; nay <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> rather I have borne with every one that he should come before thee and speak **(80)** the solution of the repentance of Pistis Sophia. Now, therefore, my Lord, concerning the solution of the seventh repentance of Pistis Sophia thy light-power hath prophesied through the prophet David in the twenty-fourth Psalm, thus
 
 <small>Thomas interpreteth the seventh repentance from Psalm xxiv.</small>
 
@@ -308,7 +308,7 @@ When then Jesus had spoken this unto his disciples, Thomas came forward and said
 
 “‘10. All the ways of the Lord are grace and truth for them who seek his righteousness and his testimonies.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 “‘11. For thy name's sake, O Lord, forgive me my sin, \[for\] it is exceedingly great.
 
@@ -336,13 +336,13 @@ When then Jesus had spoken this unto his disciples, Thomas came forward and said
 
 <small>Jesus commendeth Thomas.</small>
 
-And when Jesus had heard the words of Thomas, he said unto him: “Well said, Thomas, and finely. This is the solution of the seventh repentance of Pistis Sophia. Amēn, amēn, I say unto <span id="p69">[<sup><small>p. 69</small></sup>]</span> you: All generations of the world shall bless you on earth, because I have revealed this unto you and ye have received, of my spirit and have become understanding and spiritual, understanding what I say. And hereafter will I fill you full with the whole light and the whole power of the spirit, so that ye may understand from now on all which shall be said unto you and which ye shall see. Yet a little while and I will speak with you concerning the height without within and within without.”
+And when Jesus had heard the words of Thomas, he said unto him: “Well said, Thomas, and finely. This is the solution of the seventh repentance of Pistis Sophia. Amēn, amēn, I say unto <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> you: All generations of the world shall bless you on earth, because I have revealed this unto you and ye have received, of my spirit and have become understanding and spiritual, understanding what I say. And hereafter will I fill you full with the whole light and the whole power of the spirit, so that ye may understand from now on all which shall be said unto you and which ye shall see. Yet a little while and I will speak with you concerning the height without within and within without.”
 
 ## CHAPTER 47
 
 <small>Jesus leadeth Sophia to a less confined region, but without the commandment of the First Mystery.</small>
 
-Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when Pistis Sophia had uttered the seventh repentance in the chaos, that the commandment through the First Mystery had not come to me **(83)** to save her and lead her up out of the chaos. Nevertheless of myself out of compassion without commandment I led her into a somewhat spacious region in the chaos. And when the material emanations of Self-willed had noticed that she had been led into a somewhat spacious region in the chaos, they ceased a little to oppress her, for they thought that she would be led up out of the chaos altogether. When this then took place, Pistis Sophia did not know that I was her helper; nor did she know me at all, but she continued and persisted withal singing praises to the Light of the Treasury, which she had seen aforetime and on which she had had faith, and she thought that it \[_sc._ the Light\] also was her helper and it was the same to which she had sung praises, thinking it was the Light in truth. But as indeed she had had faith in the Light which belongeth to the Treasury in truth, therefore will she be led up out <span id="p70">[<sup><small>p. 70</small></sup>]</span> of the chaos and her repentance will be accepted from her. But the commandment of the First Mystery was not yet accomplished to accept her repentance from her. But hearken now in order that I may tell you all things which befell Pistis Sophia.
+Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when Pistis Sophia had uttered the seventh repentance in the chaos, that the commandment through the First Mystery had not come to me **(83)** to save her and lead her up out of the chaos. Nevertheless of myself out of compassion without commandment I led her into a somewhat spacious region in the chaos. And when the material emanations of Self-willed had noticed that she had been led into a somewhat spacious region in the chaos, they ceased a little to oppress her, for they thought that she would be led up out of the chaos altogether. When this then took place, Pistis Sophia did not know that I was her helper; nor did she know me at all, but she continued and persisted withal singing praises to the Light of the Treasury, which she had seen aforetime and on which she had had faith, and she thought that it \[_sc._ the Light\] also was her helper and it was the same to which she had sung praises, thinking it was the Light in truth. But as indeed she had had faith in the Light which belongeth to the Treasury in truth, therefore will she be led up out <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> of the chaos and her repentance will be accepted from her. But the commandment of the First Mystery was not yet accomplished to accept her repentance from her. But hearken now in order that I may tell you all things which befell Pistis Sophia.
 
 <small>The emanations of Self-willed oppress her again.</small>
 
@@ -360,7 +360,7 @@ Jesus continued again in the discourse and said unto his disciples: "It came to 
 
 “‘5. And in thy hands will I lay the purification of my light; thou hast saved me, O Light, according to thy gnosis.
 
-“‘6. Thou art become wroth with them who <span id="p71">[<sup><small>p. 71</small></sup>]</span> keep watch over me and will not be able to lay hold of me utterly. But I have had faith in the Light.
+“‘6. Thou art become wroth with them who <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> keep watch over me and will not be able to lay hold of me utterly. But I have had faith in the Light.
 
 “‘7. I will rejoice and will sing praises that thou hast had mercy upon me and hast heeded and saved me from the oppression in which I was. And thou wilt set free my power out of the chaos.
 
@@ -378,7 +378,7 @@ When then Jesus had said this unto his disciples, he answered again and said unt
 
 “‘10. My power hath begun to wane whiles I am in these afflictions, and the number of my time whiles I am in the chaos. My light is diminished, for they have taken away my power from me, and all the powers in me are tossed about.
 
-“‘11. I am become powerless in the presence of all the rulers of the æons, who hate me, and in the presence of the four-and-twenty emanations, in whose region I was. And my brother, my <span id="p72">[<sup><small>p. 72</small></sup>]</span> pair, was afraid to help me, because of that in which they have set me.
+“‘11. I am become powerless in the presence of all the rulers of the æons, who hate me, and in the presence of the four-and-twenty emanations, in whose region I was. And my brother, my <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> pair, was afraid to help me, because of that in which they have set me.
 
 “‘12. And all the rulers of the height have counted me as matter in which is no light. I am become as a material power which hath fallen out of the rulers,
 
@@ -400,7 +400,7 @@ And when Jesus had spoken this, Matthew came forward and said: "My Lord, thy spi
 
 <small>Matthew interpreteth the eighth repentance from Psalm xxx.</small>
 
-“‘1. On thee, O Lord, have I hoped. Let <span id="p73">[<sup><small>p. 73</small></sup>]</span> me never be put to shame; save me according to thy righteousness.
+“‘1. On thee, O Lord, have I hoped. Let <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> me never be put to shame; save me according to thy righteousness.
 
 “‘2. Incline thine ear unto me, save me quickly. Be thou unto me a protecting God and a house of refuge to save me.
 
@@ -424,7 +424,7 @@ And when Jesus had spoken this, Matthew came forward and said: "My Lord, thy spi
 
 “‘12. I am forgotten in their heart as a corpse, and I have become as a ruined vessel.
 
-“‘13. For I have heard the scorn of many who <span id="p74">[<sup><small>p. 74</small></sup>]</span> encompass me round about. Massing themselves together against me, they took counsel to take away my soul from me.
+“‘13. For I have heard the scorn of many who <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> encompass me round about. Massing themselves together against me, they took counsel to take away my soul from me.
 
 “‘14. But I have trusted in thee, O Lord. I said: Thou art my God.
 
@@ -448,7 +448,7 @@ And when he had said this, he said: “Under-stand ye what I say?”
 
 Mary came forward and said: “O Lord, concerning this matter thou hast said to us aforetime in similitude: ‘Ye have awaited with me in the trials, and I will bequeath unto you a kingdom, as my Father hath bequeathed it unto me, that ye may eat and drink at my table in my kingdom; and ye shall sit on twelve thrones and judge the twelve tribes of Israel.’”
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 He said unto her: “Well said, Mary.”
 
@@ -470,7 +470,7 @@ Jesus continued again and said unto his disciples: "It came to pass then thereaf
 
 “‘7. For they have set a lion-faced power as a trap for me, although I have done them no ill, from which its light will be taken; and they have oppressed the power in me, which they will not be able to take away.
 
-“‘8. Now, therefore, O Light, take away the purification from the lion-faced power without its knowing it,—the thought which Self-willed hath <span id="p76">[<sup><small>p. 76</small></sup>]</span> thought, to take away my light; take away his own and let the light be taken away from the lion-faced power, which set the trap for me.
+“‘8. Now, therefore, O Light, take away the purification from the lion-faced power without its knowing it,—the thought which Self-willed hath <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> thought, to take away my light; take away his own and let the light be taken away from the lion-faced power, which set the trap for me.
 
 “‘9. But my power will exult in the Light and rejoice that he will save it.
 
@@ -484,7 +484,7 @@ Jesus continued again and said unto his disciples: "It came to pass then thereaf
 
 “‘14. And do thou, O Light—for that reason sing I praise to thee—save me. I know that thou wilt save me because I fulfilled thy will ever since I was in my æon. I fulfilled thy will, as the invisibles who are in my region, and as my pair. And I mourned, looking unceasingly and searching for the Light.
 
-“‘15. Now, therefore, have all the emanations of Self-willed surrounded me and rejoiced over me and sore oppressed me without my knowing <span id="p77">[<sup><small>p. 77</small></sup>]</span> \[them\]. And they have fled away and ceased from me but have had no pity upon me.
+“‘15. Now, therefore, have all the emanations of Self-willed surrounded me and rejoiced over me and sore oppressed me without my knowing <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> \[them\]. And they have fled away and ceased from me but have had no pity upon me.
 
 “‘16. They have returned again and made trial of me and they have oppressed me in great oppression and ground their teeth against me, desiring to take away my light from me utterly.
 
@@ -502,7 +502,7 @@ Jesus continued again and said unto his disciples: "It came to pass then thereaf
 
 “‘23. Quickly, O Light, vindicate and avenge me,
 
-“‘24. And give judgment on me according <span id="p78">[<sup><small>p. 78</small></sup>]</span> to thy goodness. Now, therefore, O Light of lights, let them not take away my light from me,
+“‘24. And give judgment on me according <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> to thy goodness. Now, therefore, O Light of lights, let them not take away my light from me,
 
 “‘25. And let them not say in their heart: Our power is glutted with her light. And let them not say: We have consumed her power.
 

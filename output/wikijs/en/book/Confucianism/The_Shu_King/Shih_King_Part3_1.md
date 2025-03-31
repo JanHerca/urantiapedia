@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:2:15Z
   </table>
 </figure>
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 ## III. THE MAJOR ODES OF THE KINGDOM.
 
@@ -48,19 +48,19 @@ CELEBRATING KING WĂN, DEAD AND ALIVE, AS THE FOUNDER OF THE DYNASTY OF <i>K</i>
 
 The composition of this and the other pieces of this decade is attributed to the duke of <i>K</i>âu, king Wăn's son, and was intended by him for the benefit of his nephew, the young king <i>Kh</i>ăng. Wăn, it must be borne in mind, was never actually king of China. He laid the foundations of the kingly power, which was established by his son king Wû, and consolidated by the duke of <i>K</i>âu. The title of king was given to him and to others by the duke, according to the view of filial piety, that has been referred to on p. 299.
 
-King Wăn is on high. Oh! bright is he in heaven. Although <i>K</i>âu was an old country, The (favouring) appointment lighted on it recently [^472]. Illustrious was the House of <i>K</i>âu, And the <span id="p378">[<sup><small>p. 378</small></sup>]</span> appointment of God came at the proper season. King Wăn ascends and descends On the left and the right of God [^473].
+King Wăn is on high. Oh! bright is he in heaven. Although <i>K</i>âu was an old country, The (favouring) appointment lighted on it recently [^472]. Illustrious was the House of <i>K</i>âu, And the <span id="p378"><sup><small>[ p. 378 ]</small></sup></span> appointment of God came at the proper season. King Wăn ascends and descends On the left and the right of God [^473].
 
 Full of earnest activity was king Wăn, And his fame is without end. The gifts (of God) to <i>K</i>âu Extend to the descendants of king Wăn, In the direct line and the collateral branches for a hundred generations [^474]. All the officers of <i>K</i>âu Shall (also) be illustrious from age to age.
 
 They shall be illustrious from age to age, Zealously and reverently pursuing their plans. Admirable are the many officers, Born in this royal kingdom. The royal kingdom is able to produce them, The supporters of (the House of) <i>K</i>âu. Numerous is the array of officers, And by them king Wăn enjoys his repose.
 
-Profound was king Wăn; Oh! continuous and bright was his feeling of reverence. Great is the appointment of Heaven! There were the descendants of (the sovereigns of) Shang [^475]\—The descendants of the sovereigns of Shang Were in number more <span id="p379">[<sup><small>p. 379</small></sup>]</span> than hundreds of thousands. But when God gave the command, They became subject to <i>K</i>âu.
+Profound was king Wăn; Oh! continuous and bright was his feeling of reverence. Great is the appointment of Heaven! There were the descendants of (the sovereigns of) Shang [^475]\—The descendants of the sovereigns of Shang Were in number more <span id="p379"><sup><small>[ p. 379 ]</small></sup></span> than hundreds of thousands. But when God gave the command, They became subject to <i>K</i>âu.
 
 They became subject to <i>K</i>âu, (For) the appointment of Heaven is not unchangeable. The officers of Yin, admirable and alert, Assist at the libations in our capital [^476]. They assist at those libations, Always wearing the hatchet-figures on their lower garments and their peculiar cap [^477]. O ye loyal ministers of the king, Ever think of your ancestor!
 
 Ever think of your ancestor, Cultivating your virtue, Always seeking to accord with the will (of Heaven):—So shall you be seeking for much happiness, Before Yin lost the multitudes, (Its kings) were the correlates of God [^478]. Look to Yin as a beacon; The great appointment is not easily preserved.
 
-The appointment is not easily (preserved):—Do not cause your own extinction. Display and make bright your righteousness and fame, And look at (the fate of) Yin in the light of Heaven. The doings of high Heaven Have neither sound nor <span id="p380">[<sup><small>p. 380</small></sup>]</span> smell [^479]. Take your pattern from king Wăn, And the myriad regions will repose confidence in you.
+The appointment is not easily (preserved):—Do not cause your own extinction. Display and make bright your righteousness and fame, And look at (the fate of) Yin in the light of Heaven. The doings of high Heaven Have neither sound nor <span id="p380"><sup><small>[ p. 380 ]</small></sup></span> smell [^479]. Take your pattern from king Wăn, And the myriad regions will repose confidence in you.
 
 <a id="o2"></a>
 
@@ -70,7 +70,7 @@ HOW THE APPOINTMENT OF HEAVEN OR GOD CAME FROM HIS FATHER TO KING WĂN, AND DESC
 
 The illustration of illustrious (virtue) is required below, And the dread majesty is or, high [^480]. Heaven is not readily to be relied on; It is not easy to be king. Yin's rightful heir to the heavenly seat Was not permitted to possess the kingdom.
 
-_Z_ăn, the second of the princesses of <i>K</i>ih [^481], From (the domain of) Yin-shang, Came to be married to (the prince of) <i>K</i>âu, And became his wife in his <span id="p381">[<sup><small>p. 381</small></sup>]</span> capital. Both she and king <i>K</i>î Were entirely virtuous. (Then) Thâi-_z_ăn became pregnant, And gave birth to our king Wăn.
+_Z_ăn, the second of the princesses of <i>K</i>ih [^481], From (the domain of) Yin-shang, Came to be married to (the prince of) <i>K</i>âu, And became his wife in his <span id="p381"><sup><small>[ p. 381 ]</small></sup></span> capital. Both she and king <i>K</i>î Were entirely virtuous. (Then) Thâi-_z_ăn became pregnant, And gave birth to our king Wăn.
 
 This king Wăn, Watchfully and reverently, With entire intelligence served God, And so secured the great blessing. His virtue was without deflection; And in consequence he received (the allegiance of) the states from all quarters.
 
@@ -78,7 +78,7 @@ Heaven surveyed this lower world; And its appointment lighted (on king Wăn). In
 
 In a large state was the lady, Like a fair denizen of heaven. The ceremonies determined the auspiciousness (of the union) [^484], And in person he met her on the Wei. Over it he made a bridge of boats; The glory (of the occasion) was illustrious.
 
-The favouring appointment was from Heaven, Giving the throne to our kin Wăn, In the capital of <i>K</i>âu. The lady-successor was from Hsin, Its eldest daughter, who came to marry him. She was blessed to give birth to king Wû, Who was preserved, and helped, and received (also) the. appointment, <span id="p382">[<sup><small>p. 382</small></sup>]</span> And in accordance with it smote the great Shang.
+The favouring appointment was from Heaven, Giving the throne to our kin Wăn, In the capital of <i>K</i>âu. The lady-successor was from Hsin, Its eldest daughter, who came to marry him. She was blessed to give birth to king Wû, Who was preserved, and helped, and received (also) the. appointment, <span id="p382"><sup><small>[ p. 382 ]</small></sup></span> And in accordance with it smote the great Shang.
 
 The troops of Yin-shang Were collected like a forest, And marshalled in the wilderness of Mû. We rose (to the crisis); ‘God is with you,’ (said Shang-fû to the king), ‘Have no doubts in your heart [^485].’
 
@@ -92,7 +92,7 @@ SMALL BEGINNINGS AND SUBSEQUENT GROWTH OF THE HOUSE OF <i>K</i>ÂU IN <i>K</i>Â
 
 ‘The ancient duke Than-fû’ was the grandfather of king Wăn, and was canonized by the duke of <i>K</i>âu as ‘king Thâi.’ As mentioned in a note on [p. 316](Shih_King_Part1_2#p316), he was the first of his family to settle in Kâu, removing there from Pin. the site of their earlier settlement, ‘the country about the <i>Kh</i>ü and the <i>Kh</i>î.’
 
-In long trains ever increasing grow the gourds [^486]. When (our) people first sprang, From the country about the <i>Kh</i>ü and the <i>Kh</i>î [^487], The ancient duke <span id="p383">[<sup><small>p. 383</small></sup>]</span> Than-fû Made for them kiln-like huts and caves, Ere they had yet any houses [^488].
+In long trains ever increasing grow the gourds [^486]. When (our) people first sprang, From the country about the <i>Kh</i>ü and the <i>Kh</i>î [^487], The ancient duke <span id="p383"><sup><small>[ p. 383 ]</small></sup></span> Than-fû Made for them kiln-like huts and caves, Ere they had yet any houses [^488].
 
 The ancient duke Than-fû Came in the morning, galloping his horses, Along the banks of the western rivers, To the foot of mount <i>Kh</i>î [^489]; And there he and the lady <i>K</i>iang [^490] Came and together looked out for a site.
 
@@ -100,7 +100,7 @@ The plain of <i>K</i>âu looked beautiful and rich, With its violets, and sowthi
 
 He encouraged the people, and settled them; Here on the left, there on the right. He divided the ground, and subdivided it; If he dug the ditches; he defined the acres. From the east to the west, There was nothing which he did not take in hand [^492].
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 He called his Superintendent of Works; He called his Minister of Instruction; And charged them with the rearing of the houses. With the line they made everything straight; They bound the frame-boards tight, so that they should rise regularly uprose the ancestral temple in its solemn grandeur [^493].
 
@@ -108,13 +108,13 @@ Crowds brought the earth in baskets; They threw it with shouts into the frames; 
 
 They reared the outer gate (of the palace), Which rose in lofty state. They set up the gate of audience, Which rose severe and exact. They reared the great altar to the spirits of the land, From which all great movements should proceed [^495].
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 Thus though he could not prevent the rage of his foes [^496], He did not let fall his own fame. The oaks and the buckthorns were (gradually) thinned, And roads for travellers were opened. The hordes of the Khwăn disappeared, Startled and panting.
 
 (The chiefs of) Yü and _Z_ui [^497] were brought to an agreement By king Wăn's stimulating their natural virtue. Then, I may say, some came to him, previously not knowing him; Some, drawn the last by the first; Some, drawn by his rapid successes; And some by his defence (of the weak) from insult.
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 <a id="o4"></a>
 
@@ -134,7 +134,7 @@ IN PRAISE OF THE VIRTUE OF KING WĂN, BLESSED BY HIS ANCESTORS, AND RAISED TO TH
 
 Look at the foot of the Han [^500], How abundantly grow the hazel and arrow-thorn [^501]. Easy and self-possessed was our prince, In his pursuit of dignity (still) easy and self-possessed.
 
-Massive is that libation-cup of jade, With the <span id="p387">[<sup><small>p. 387</small></sup>]</span> yellow liquid sparkling in it [^502]. Easy and self-possessed was our prince, The fit recipient of blessing and dignity.
+Massive is that libation-cup of jade, With the <span id="p387"><sup><small>[ p. 387 ]</small></sup></span> yellow liquid sparkling in it [^502]. Easy and self-possessed was our prince, The fit recipient of blessing and dignity.
 
 The hawk flies up to heaven, The fishes leap in the deep [^503]. Easy and self-possessed was our prince:—Did he not exert an influence on men?
 
@@ -150,7 +150,7 @@ Luxuriant are the dolichos and other creepers, Clinging to the branches and stem
 
 THE VIRTUE OF WĂN, WITH HIS FILIAL PIETY AND CONSTANT REVERENCE, AND THEIR WONDERFUL EFFECTS. THE EXCELLENT CHARACTER OF HIS MOTHER AND WIFE.
 
-Pure and reverent was Thâi _Z_ăn [^506], The mother of king Wăn. Loving was she to <i>K</i>âu <i>K</i>iang [^507];— <span id="p388">[<sup><small>p. 388</small></sup>]</span> A wife becoming the House of <i>K</i>âu. Thâi Sze [^508] inherited her excellent fame, And from her came a hundred sons [^509].
+Pure and reverent was Thâi _Z_ăn [^506], The mother of king Wăn. Loving was she to <i>K</i>âu <i>K</i>iang [^507];— <span id="p388"><sup><small>[ p. 388 ]</small></sup></span> A wife becoming the House of <i>K</i>âu. Thâi Sze [^508] inherited her excellent fame, And from her came a hundred sons [^509].
 
 He conformed to the example of his ancestors, And their spirits had no occasion for complaint. Their spirits had no occasion for dissatisfaction; And his example acted on his wife, Extended to his brethren, And was felt by all the clans and states.
 
@@ -160,7 +160,7 @@ Though he could not prevent (some) great calamities, His brightness and magnanim
 
 So, grown up men became virtuous (through him), And young men made (constant) attainments. (Our) ancient prince never felt weariness, And from him were the fame and eminence of his officers.
 
-<span id="p389">[<sup><small>p. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 <a id="o7"></a>
 
@@ -172,17 +172,17 @@ Great is God, Beholding this lower world in majesty. He surveyed the four quarte
 
 (King Thâi) raised up and removed The dead trunks and the fallen trees. He dressed and regulated The bushy clumps and the (tangled) rows. He opened up and cleared The tamarisk trees and the stave trees. He hewed and thinned The mountain mulberry trees. God having brought about the removal thither of this intelligent ruler, The Kwan hordes fled away [^512]. Heaven had raised up a helpmeet for him, And the appointment he had received was made sure.
 
-God surveyed the hills, Where the oaks and the buckthorn were thinned, And paths made through the firs and cypresses. God, who had raised the <span id="p390">[<sup><small>p. 390</small></sup>]</span> state, raised up a proper ruler [^513] for it,—From the time of Thâi-po and king <i>K</i>î (this was done) [^513]. Now this king <i>K</i>î In his heart was full of brotherly duty. Full of duty to his elder brother, He gave himself the more to promote the prosperity (of the country), And secured to him the glory (of his act) [^514]. He accepted his dignity and did not lose it, And (ere long his family) possessed the whole kingdom.
+God surveyed the hills, Where the oaks and the buckthorn were thinned, And paths made through the firs and cypresses. God, who had raised the <span id="p390"><sup><small>[ p. 390 ]</small></sup></span> state, raised up a proper ruler [^513] for it,—From the time of Thâi-po and king <i>K</i>î (this was done) [^513]. Now this king <i>K</i>î In his heart was full of brotherly duty. Full of duty to his elder brother, He gave himself the more to promote the prosperity (of the country), And secured to him the glory (of his act) [^514]. He accepted his dignity and did not lose it, And (ere long his family) possessed the whole kingdom.
 
-This king <i>K</i>î Was gifted by God with the power of judgment, So that the fame of his virtue silently grew. His virtue was highly intelligent,—Highly intelligent, and of rare discrimination; Able to lead, able to rule, To rule over this great country; Rendering a cordial submission, effecting a cordial union [^515]. When (the sway) came to king Wăn, His <span id="p391">[<sup><small>p. 391</small></sup>]</span> virtue left nothing to be dissatisfied with, He received the blessing of God, And it was extended to his descendants.
+This king <i>K</i>î Was gifted by God with the power of judgment, So that the fame of his virtue silently grew. His virtue was highly intelligent,—Highly intelligent, and of rare discrimination; Able to lead, able to rule, To rule over this great country; Rendering a cordial submission, effecting a cordial union [^515]. When (the sway) came to king Wăn, His <span id="p391"><sup><small>[ p. 391 ]</small></sup></span> virtue left nothing to be dissatisfied with, He received the blessing of God, And it was extended to his descendants.
 
 God said to king Wăn [^516], ‘Be not like those who reject this and cling to that; Be not like those who are ruled by their likings and desires;’ So he grandly ascended before others to the height (of virtue). The people of Mî [^517] were disobedient, Daring to oppose our great country, And invaded Yüan, marching to Kung [^518]. The king rose, majestic in his wrath; He marshalled his troops, To stop the invading foes; To consolidate the prosperity of <i>K</i>âu; To meet the expectations of all under heaven.
 
-He remained quietly in the capital, But (his troops) went on from the borders of Yüan. They ascended our lofty ridges, And (the enemy) arrayed no forces on our hills, On our hills, small or large, Nor drank at our springs, Our springs or our pools. He then determined the finest of the plains, And settled on the south of <i>Kh</i>î [^519], On the banks of <span id="p392">[<sup><small>p. 392</small></sup>]</span> the Wei, The centre of all the states, The resort of the lower people.
+He remained quietly in the capital, But (his troops) went on from the borders of Yüan. They ascended our lofty ridges, And (the enemy) arrayed no forces on our hills, On our hills, small or large, Nor drank at our springs, Our springs or our pools. He then determined the finest of the plains, And settled on the south of <i>Kh</i>î [^519], On the banks of <span id="p392"><sup><small>[ p. 392 ]</small></sup></span> the Wei, The centre of all the states, The resort of the lower people.
 
 God said to king Wăn, ‘I am pleased with your intelligent virtue, Not loudly proclaimed nor pourtrayed, Without extravagance or changeableness, Without consciousness of effort on your part, In accordance with the pattern of God.’ God said to king Wăn, ‘Take measures against the country of your foes. Along with your brethren, Get ready your scaling ladders, And your engines of onfall and assault, To attack the walls of <i>Kh</i>ung [^520].’
 
-The engines of onfall and assault were (at first) gently plied, Against the walls of <i>Kh</i>ung high and great; Captives for the question were brought in, one after another; The left ears (of the slain) were taken leisurely [^521]. He had sacrificed to God and to the Father of War [^522], Thus seeking to induce <span id="p393">[<sup><small>p. 393</small></sup>]</span> submission, And throughout the region none had dared to insult him. The engines of onfall and assault were (then) vigorously plied, Against the walls of <i>Kh</i>ung very strong. He attacked it, and let loose all his forces; He extinguished (its sacrifices) [^523], and made an end of its existence; And throughout the kingdom none dared to oppose him.
+The engines of onfall and assault were (at first) gently plied, Against the walls of <i>Kh</i>ung high and great; Captives for the question were brought in, one after another; The left ears (of the slain) were taken leisurely [^521]. He had sacrificed to God and to the Father of War [^522], Thus seeking to induce <span id="p393"><sup><small>[ p. 393 ]</small></sup></span> submission, And throughout the region none had dared to insult him. The engines of onfall and assault were (then) vigorously plied, Against the walls of <i>Kh</i>ung very strong. He attacked it, and let loose all his forces; He extinguished (its sacrifices) [^523], and made an end of its existence; And throughout the kingdom none dared to oppose him.
 
 <a id="o9"></a>
 
@@ -192,7 +192,7 @@ IN PRAISE OF KING WÛ, WALKING IN THE WAYS OF HIS FOREFATHERS, AND BY HIS FILIAL
 
 Successors tread in the steps (of their predecessors) in our <i>K</i>âu. For generations there had been wise kings; The three sovereigns were in heaven [^524]; And king (Wû) was their worthy successor in his capital [^525].
 
-King (Wû) was their worthy successor in his capital, Rousing himself to seek for the hereditary virtue, Always striving to be in accordance with the <span id="p394">[<sup><small>p. 394</small></sup>]</span> will (of Heaven); And thus he secured the confidence due to a king.
+King (Wû) was their worthy successor in his capital, Rousing himself to seek for the hereditary virtue, Always striving to be in accordance with the <span id="p394"><sup><small>[ p. 394 ]</small></sup></span> will (of Heaven); And thus he secured the confidence due to a king.
 
 He secured the confidence due to a king, And became the pattern of all below him. Ever thinking how to be filial, His filial mind was the model (which he supplied).
 
@@ -212,7 +212,7 @@ King Wăn is famous; Yea, he is very famous. What he sought was the repose (of t
 
 King Wăn received the appointment (from Heaven), And achieved his martial success. Having overthrown <i>Kh</i>ung [^526]. He fixed his (capital) city in Făng [^527]. A sovereign true was king Wăn!
 
-<span id="p395">[<sup><small>p. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 He repaired the walls along the (old) moat. His establishing himself in Făng was according to (the pattern of his forefathers), It was not that he was in haste to gratify his wishes;—It was to show the filial duty that had come down to him. A sovereign true was the royal prince!
 
@@ -224,7 +224,7 @@ In the capital of Hâo he built his hall with its circlet of water [^529]. From 
 
 He examined and divined, did the king, About settling in the capital of Hâo. The tortoise-shell decided the site [^530], And king Wû completed the city. A sovereign true was king Wû!
 
-<span id="p396">[<sup><small>p. 396</small></sup>]</span>
+<span id="p396"><sup><small>[ p. 396 ]</small></sup></span>
 
 By the Făng-water grows the white millet [^531];—Did not king Wû show wisdom in his employment of officers? He would leave his plans to his descendants, And secure comfort and support to his son. A sovereign true was king Wû!
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 FOURTEENTH LECTURE, CALLED THE NIRGRANTHA.
 
@@ -42,7 +42,7 @@ As (birds of prey), e.g. <i>Dh</i>aṅkas, carry off a fluttering young bird who
 
 Just as they carry off a young bird whose wings are not yet grown, so many unprincipled men will seduce a novice who has not yet mastered the Law, thinking that they can get him in their power, when they have made him leave (the Gak<i>kh</i>a) [^952]. (3)
 
-A good man should long to live with his teacher in order to perform his duties [^953], knowing that he who does not live with his teacher will not put an end to his mundane existence. Making manifest <span id="p325">[<sup><small>p. 325</small></sup>]</span> the conduct of the virtuous, an intelligent (monk) should not leave the (company of his teacher). (4)
+A good man should long to live with his teacher in order to perform his duties [^953], knowing that he who does not live with his teacher will not put an end to his mundane existence. Making manifest <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> the conduct of the virtuous, an intelligent (monk) should not leave the (company of his teacher). (4)
 
 (A monk) who complies with the rules for Yatis [^954] as regards postures, lying down, sitting, and exertions, who is thoroughly acquainted with the Samitis and Guptis, should in teaching others explain each single (point of conduct). (5)
 
@@ -54,7 +54,7 @@ If admonished by a young or an old monk, by one above him or one of equal age, h
 
 He should not be angry with them nor do them any harm, nor say a single hard word to them, but he should promise not to commit the same sin again; for this is better than to do wrong. (9)
 
-As to one who has lost his way in the wood, others who have not, (show it, thus some) teach the <span id="p326">[<sup><small>p. 326</small></sup>]</span> path which is salutary to men. Therefore (he should think): this is for my good that those who know put me right. (10)
+As to one who has lost his way in the wood, others who have not, (show it, thus some) teach the <span id="p326"><sup><small>[ p. 326 ]</small></sup></span> path which is salutary to men. Therefore (he should think): this is for my good that those who know put me right. (10)
 
 Now he who has lost his way should treat with all honour him who has not. This simile has been explained by the Prophet. Having learned what is right one should practise it. (11)
 
@@ -68,7 +68,7 @@ At the right time he may put a question about living beings to a well-conducted 
 
 Living in this (company of the teacher) and protecting (himself or other beings) in the three ways (viz. in thoughts, words, and acts), he (gets) peace and the annihilation (of sins) as they say. Thus speak those who know the three worlds, and they do not again commit faults! (16)
 
-A monk by hearing the desired Truth gets bright ideas and becomes a clever (teacher); desiring the highest good and practising austerities and silence, <span id="p327">[<sup><small>p. 327</small></sup>]</span> he will obtain final Liberation (living on) pure (food). (17)
+A monk by hearing the desired Truth gets bright ideas and becomes a clever (teacher); desiring the highest good and practising austerities and silence, <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> he will obtain final Liberation (living on) pure (food). (17)
 
 Those who having investigated the Law expound it, are awakened and put an end to mundane existence; able to liberate both (themselves and others), they answer the well-deliberated questions. (18)
 
@@ -80,7 +80,7 @@ A monk living single should not ridicule heretical doctrines, and should avoid h
 
 A monk should be modest [^957] though he be of a fearless mind; he should expound the Syâdvâda [^958]; he should use the two (permitted) kinds of speech [^959], living among virtuous men, impartial and wise. (22)
 
-He who follows (the instruction) may believe something untrue; (one should) kindly (tell him) ‘It is thus or thus.’ One should never hurt him by <span id="p328">[<sup><small>p. 328</small></sup>]</span> outrageous language, nor give long-winded explanations of difficult passages. (23)
+He who follows (the instruction) may believe something untrue; (one should) kindly (tell him) ‘It is thus or thus.’ One should never hurt him by <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> outrageous language, nor give long-winded explanations of difficult passages. (23)
 
 (If the pupil does not understand his short explanation), he should explain at greater length. When the pupil has heard it, he will correctly understand the Truth. A monk should utter pure speech, which is in accordance with the creed (of the <i>G</i>inas), and should declare the distinction of sin. (24)
 

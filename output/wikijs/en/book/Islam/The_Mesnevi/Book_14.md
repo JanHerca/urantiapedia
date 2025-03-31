@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p248">[<sup><small>p. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 ## XIV. The Chinese and Roman Artists.
 
@@ -57,7 +57,7 @@ The child and man, in these, repeat each other's joys.
 The child, in play, performs the very selfsame part,
 He'll act when grown a hero, learnt debating art.
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 Men's quarrels are the same as those fought out by boys;
 <sup id="v10"><small>10</small></sup>  They're senseless, reasonless; they squabble for mere toys.
@@ -91,7 +91,7 @@ But knowledge sensuously acquired as burden rates.
 ’Tis God hath said: “An ass with volumes for his load.”[^371]
 So knowledge is a burden, when not of God's code.
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 All science not received from word of God direct,
 Hath no endurance; paint it is; our eyes detect.
@@ -128,7 +128,7 @@ That unto me reveals his soul serenely bright.
 Reports, traditions, chains of evidence, are lost;
 When soul communes with soul, minds freely can accost.”
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 This riddle solve: “A Kurd I last night was, by birth;
 <sup id="v40"><small>40</small></sup>  And then, this morning, Arab am, by afterbirth.”[^372]
@@ -162,7 +162,7 @@ The colours are as clouds; simplicity's the moon.
 Whatever tinge you see embellishing the clouds,
 You know comes from the sun, the moon, or stars in crowds.
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 At length the Chinamen their task had quite fulfilled.
 With joy intense their hearts did beat, their bosoms thrilled.
@@ -198,7 +198,7 @@ In heart of saint reflected is, most multiform.
 His polished heart is cleansed from being's soiling stain;
 And at each moment contemplates fresh beauty's train.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 The outward gilt, the shell, of science they despise;
 The banner of real certitude floats where they rise.

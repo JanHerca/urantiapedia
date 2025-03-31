@@ -29,7 +29,7 @@ dateCreated: 2025-2-5T12:26:51Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Page [1](/en/book/Buddhism/Amitabha/Amitabha_01#p1).
 
@@ -65,7 +65,7 @@ Page [31](/en/book/Buddhism/Amitabha/Amitabha_04#p31).
 
 <span id="an_10">10</span> Kevaddha‘s story is an abbreviated account of an ancient Buddhist Pali text. The verses as well as other details are almost literally translated. Cf. Henry Warren’s _Buddhism in Translations_, pp. 308-313.
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 Page [32](/en/book/Buddhism/Amitabha/Amitabha_05#p32).
 
@@ -77,7 +77,7 @@ Page [40](/en/book/Buddhism/Amitabha/Amitabha_05#p40).
 
 Page 56.
 
-<span id="an_13">13</span> Padhâna sutta, 16. _S.B.E._, X, <span id="p71">[<sup><small>p. 71</small></sup>]</span>.
+<span id="an_13">13</span> Padhâna sutta, 16. _S.B.E._, X, <span id="p71"><sup><small>[ p. 71 ]</small></sup></span>.
 
 Page [64](/en/book/Buddhism/Amitabha/Amitabha_08#p64).
 
@@ -87,7 +87,7 @@ Page [74](/en/book/Buddhism/Amitabha/Amitabha_10#p74).
 
 <span id="an_15">15</span> Cf. T. Suzuki‘s translation of Açvaghosha’s _Discourse on the Awakening of Faith in the Mahayana_, pp. 101, 142 et seq. The term "highest truth" is called by Açvaghosha in Sanskrit _paramârthasatya_.
 
-<span id="an_16">16</span> Compare Samuel Beal's Abstract of Form Lectures on Buddhist literature in China, <span id="p177">[<sup><small>p. 177</small></sup>]</span>, where we read: "He who is possessed of the highest self, he is able to see Buddha. Buddha, although he dwell in the world, can be seen by none but those possessed of this highest self. Mahârâja! Most true it is that though Buddha has attained Nirvâna, yet may you behold him.”
+<span id="an_16">16</span> Compare Samuel Beal's Abstract of Form Lectures on Buddhist literature in China, <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>, where we read: "He who is possessed of the highest self, he is able to see Buddha. Buddha, although he dwell in the world, can be seen by none but those possessed of this highest self. Mahârâja! Most true it is that though Buddha has attained Nirvâna, yet may you behold him.”
 
 Page [87](/en/book/Buddhism/Amitabha/Amitabha_11#p87).
 
@@ -101,7 +101,7 @@ Page [96](/en/book/Buddhism/Amitabha/Amitabha_12#p96).
 
 <span id="an_19">19</span> The _Saddharmapundarîka_, chapter 7.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Page [98](/en/book/Buddhism/Amitabha/Amitabha_12#p98).
 

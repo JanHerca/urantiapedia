@@ -75,7 +75,7 @@ They lose each joy they strive to win,
 And all the people people high and low
 Fall in the common overthrow.
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Merit and fame and honour spring,
 Best of the mighty, from the king.
@@ -199,7 +199,7 @@ With roseate bloom his flanks were dyed,
 And lotus tints adorned his hide.
 His shape was fair\*, compact\*, and slight;
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 His hoofs—were carven lazulite.
 His tail with every changing glow
@@ -322,7 +322,7 @@ The forest cow and stag are there,
 The fawn, the monkey, and the bear,
 Where spotted deer delight to play,
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 And strong and beauteous Kinnars  [^495] stray.
 But never, as they wandered by,
@@ -442,7 +442,7 @@ Have fallen by his wicked art,
 And now my shaft shall strike his heart.
 Vatápi, by his magic power
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 Made heedless saints his flesh devour,
 Then, from within their frames he rent
@@ -567,7 +567,7 @@ The monster knew the time was nigh.
 And called aloud with eager cry,
 ‘Hi\*, Sítá, Lakshman\* and the tone
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 He borrowed was like Ráma's own
 &nbsp;&nbsp;&nbsp;&nbsp;So by that matchless arrow cleft,
@@ -692,7 +692,7 @@ With bitter taunts that pierced and stung;
 \* of thy glorious race!
 \* joyous sight I ween to thee
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 My lord in direst strait to see.
 Thou knowest Ráma sore bested,
@@ -814,7 +814,7 @@ Beheld the longed-for moment nigh,
 In mendicant's apparel dressed
 Near to the Maithil lady pressed.
 
-<span id="p283">[<sup><small>p. 283</small></sup>]</span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 In holy guise, a fiend abhorred,
 He found her mourning for her lord.
@@ -930,7 +930,7 @@ And longed in heart to steal her thence,
 Preparing by the dire offence,
 Death on his head to bring.
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 The lady watched with anxious face
 For Ráma coming from the chase
@@ -1054,7 +1054,7 @@ The queen of every dame and me.
 My city Lanká, glorious town,
 Looks from a mountain's forehead down
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 Where ocean with his flash and foam
 Beats madly on mine island home.
@@ -1174,7 +1174,7 @@ Trembling like men when Death is near
 Vais'ravan once, my brother, wrought
 To ire, encountered me aud fought,
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 But yielding to superior might
 Fled from his home in sore affright.
@@ -1295,7 +1295,7 @@ With twenty arms exposed to sight,
 His saintly guise aside had laid
 And all his giant height displayed.
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 Attired in robes of crimson dye
 He stood and watched with angry eye
@@ -1418,7 +1418,7 @@ Would bring me, conqueror, back to-day,
 Though Yama's self reclaimed his prey.’
 Thus from the air the lady sent
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 With piteous voice her last lament,
 And as she wept she chanced to see
@@ -1542,7 +1542,7 @@ And thou shalt stain the earth with gore
 Falling as Khara fell before.
 Soon Ráma, clothed in bark shall smite.
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 Thee, his proud foe, in deadly fight,—
 Ráma, from whom have oft times fled

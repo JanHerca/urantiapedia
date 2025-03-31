@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:38:15Z
   </table>
 </figure>
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 AARON, [27](1_1#p27)
 
@@ -174,7 +174,7 @@ King, [48](1_5#p48) ff.
 
 Kinsfolk as witnesses or judges, [60](2_1#p60), [61](2_1#p61)
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Korah, the company of, [127](4_C#p127)
 

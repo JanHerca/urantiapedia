@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 ## TREATISE IV.
 
@@ -46,7 +46,7 @@ Searching for Leaven—How Leaven is to be put away—Restrictions with regard t
 
 2\. People need not suspect, lest perchance the weasel have slipped (with leaven) from house to house or from place to place. If so, from court to court, from city to city, there is no end to the matter.
 
-3\. Rabbi Judah said, “men search on the eve of the fourteenth and on the morning of the fourteenth day, and at the time of burning it.” But the Sages say, “if one did not search on the eve of the fourteenth, he must search on the fourteenth; if he did not search on the fourteenth, he must search during the feast; if he did not search during the feast, he must search after the feast; and whatever remains, <span id="p96">[<sup><small>p. 96</small></sup>]</span> he shall leave well concealed, that there be no further need of search after it.”
+3\. Rabbi Judah said, “men search on the eve of the fourteenth and on the morning of the fourteenth day, and at the time of burning it.” But the Sages say, “if one did not search on the eve of the fourteenth, he must search on the fourteenth; if he did not search on the fourteenth, he must search during the feast; if he did not search during the feast, he must search after the feast; and whatever remains, <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> he shall leave well concealed, that there be no further need of search after it.”
 
 4\. Rabbi Meier said, “men may eat it till five o'clock, [^122] and burn it at the beginning of six.” Rabbi Judah said, “they may eat it till four, and they are in suspense about five, but they burn it at the beginning of six.”
 

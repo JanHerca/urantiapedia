@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:11:52Z
 </figure>
 
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 BY many words wit is exhausted; it is better to preserve a mean. The excellence of a dwelling is its site; the excellence of a mind is its profundity; the excellence of giving is charitableness; the excellence of speech is truthfulness; the excellence of government is order; the excellence of action is ability; the excellence of movement is timeliness.
 
@@ -47,7 +47,7 @@ If a man is clear-headed and intelligent, can he be without knowledge?
 
 The Sage attends to the inner and not to the outer; he puts away the objective and holds to the subjective.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Between yes and yea, how small the difference! Between good and evil, how great the difference!
 
@@ -71,7 +71,7 @@ The skilful traveller leaves no tracks; the skilful speaker makes no blunders; t
 
 Among men, reject none; among things, reject nothing. This is called comprehensive intelligence.
 
-The good man is the bad man's teacher; the <span id="p49">[<sup><small>p. 49</small></sup>]</span> bad man is the material upon which the good man works. If the one does not value his teacher, if the other does not love his material, then despite their sagacity they must go far astray. This is a mystery of great import.
+The good man is the bad man's teacher; the <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> bad man is the material upon which the good man works. If the one does not value his teacher, if the other does not love his material, then despite their sagacity they must go far astray. This is a mystery of great import.
 
 As unwrought material is divided up and made into serviceable vessels, so the Sage turns his simplicity [^8] to account, and thereby becomes the ruler of rulers.
 
@@ -85,7 +85,7 @@ There is no sin greater than ambition; no calamity greater than discontent; no v
 
 Do not wish to be rare like jade, or common like stone.
 
-The Sage has no hard and fast ideas, but he shares the ideas of the people and makes them his own. Living in the world, he is apprehensive <span id="p50">[<sup><small>p. 50</small></sup>]</span> lest his heart be sullied by contact with the world. The people all fix their eyes and ears upon him. The Sage looks upon all as his children.
+The Sage has no hard and fast ideas, but he shares the ideas of the people and makes them his own. Living in the world, he is apprehensive <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> lest his heart be sullied by contact with the world. The people all fix their eyes and ears upon him. The Sage looks upon all as his children.
 
 I have heard that he who possesses the secret of life, when travelling abroad, will not flee from rhinoceros or tiger; when entering a hostile camp, he will not equip himself with sword or buckler. The rhinoceros finds in him no place to insert its horn; the tiger has nowhere to fasten its claw; the soldier has nowhere to thrust his blade. And why? Because he has no spot where death can enter.
 
@@ -99,7 +99,7 @@ Be square without being angular. Be honest without being mean. Be upright withou
 
 Good words shall gain you honour in the market-place, but good deeds shall gain you friends among men.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 To the good I would be good; to the not-good I would also be good, in order to make them good.
 
@@ -119,7 +119,7 @@ That which is brittle is easily broken; that which is minute is easily dissipate
 
 The tree which needs two arms to span its girth sprang from the tiniest shoot. Yon tower, nine storeys high, rose from a little mound of earth. A journey of a thousand miles began with a single step.
 
-A great principle cannot be divided; therefore <span id="p52">[<sup><small>p. 52</small></sup>]</span> it is that many containers cannot contain it. [^10]
+A great principle cannot be divided; therefore <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> it is that many containers cannot contain it. [^10]
 
 The Sage knows what is in him, but makes no display; he respects himself, but seeks not honour for himself.
 
@@ -137,7 +137,7 @@ The violent and stiff-necked die not by a natural death.
 
 True words are not fine; fine words are not true.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 The good are not contentious; the contentious are not good.
 

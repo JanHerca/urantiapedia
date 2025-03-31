@@ -44,7 +44,7 @@ In this journey the seeker reaches such a station that he finds all the existing
 
 Many a Jacob he sees wandering in quest of Joseph. A world of friends he beholds, who are running in search of the Desired One, and a universe of lovers he finds, who are journeying after the Beloved One.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 At every moment he perceives a new matter, and at every hour he becomes informed of a mystery; for he has lifted his heart from both worlds and intended to attain the Ka'aba (the goal) of the Beloved.
 
@@ -58,7 +58,7 @@ As illustrating the thoroughness of seeking requisite for attainment in the Firs
 
 “It is related that one day Majnoon was seen sifting the dust and shedding tears. They said, ‘What art thou doing?’ He said, ‘I am searching for Laila!’ They said, ‘Woe unto thee! Laila is from the pure spirit, and thou art seeking her in the earth!’ He said, ‘I exert myself in her search _everywhere_; perchance I may find her somewhere!’”
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 “Although seeking the Lord of Lords in the dust is contemptible to the wise, yet it is evidence of utmost endeavour and search. ‘Whoso seeks with diligence shall surely find.’
 
@@ -72,7 +72,7 @@ Here our translator reminds us that “There is no God but God” is the formula
 
 In this journey the traveller sits on every soil and dwells in every land, and seeks the beauty of the Friend in every face.
 
-He searches for the Beloved One in every country; he joins every multitude . . . perchance he may discover the mystery of the Beloved One <span id="p57">[<sup><small>p. 57</small></sup>]</span> in some head, or behold the beauty of the Desired One in some visage.
+He searches for the Beloved One in every country; he joins every multitude . . . perchance he may discover the mystery of the Beloved One <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> in some head, or behold the beauty of the Desired One in some visage.
 
 If, through the assistance of God, he find, in this journey, a trace of the Traceless Friend . . . he will immediately step into the Valley of Love and become melted with the fire of love.
 

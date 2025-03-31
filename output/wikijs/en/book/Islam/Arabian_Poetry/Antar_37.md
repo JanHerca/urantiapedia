@@ -40,7 +40,7 @@ My wine is indeed that which gushes about the spear's point, when the war-steeds
 
 I am the slave of whom it shall be reported that I encountered a thousand free-born heroes: my heart was created harder than steel; how, then, can I fear sword or spear?
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 I have met the chargers, and I cared not: I am raised above Arcturus, and the Lyre, or the Eagle: when the warrior beholds me, he avoids me, his courage fails, and he flies.
 

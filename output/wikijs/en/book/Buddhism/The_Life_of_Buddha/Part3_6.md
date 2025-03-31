@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 
 THE Master left Jeta's park. He stopped in the cities and in the villages to preach the law, and full many there were to adopt the true faith.
@@ -45,7 +45,7 @@ One day, an old man and his wife invited the Master to take his meal with them.
 
 “Master,” said the woman, “my husband and I have lived together since our early youth; we have now attained a ripe old age. Life has been kind to us. Never has the slightest quarrel come between us. We still love each other as in the days gone by, and the evening of our lives is as sweet as was the dawn. May it be granted us, my Lord, to love each other in our next existence as we have loved one another in this life.”
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 “It will be granted,” said the Master; “the Gods have protected you!”
 
@@ -65,7 +65,7 @@ He went on. He came to a vast forest where a herd of buffaloes lived with their 
 
 The keepers saw the Blessed One walking along, quietly, and they shouted:
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 “Take care, traveller. Do not come near us. There is a vicious buffalo here.”
 

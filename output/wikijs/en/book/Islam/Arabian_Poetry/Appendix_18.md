@@ -29,7 +29,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p468">[<sup><small>p. 468</small></sup>]</span>
+<span id="p468"><sup><small>[ p. 468 ]</small></sup></span>
 
 \[On comparing the following translation of the famous poem of Et-Tugrā‘ī, which Mr. Redhouse has obligingly made for this volume, with Dr. Carlyle's rendering (pp. [153](./Shorter_Pieces#p153)\-[161](./Shorter_Pieces#p161)), it will be observed that, in a few instances, the true meaning of the original is lost in the metrical version. Some particulars regarding the author, &c., are given in pp. [433](./Appendix_14#p433)\-[435](./Appendix_14#p435).\]
 
@@ -51,7 +51,7 @@ FIRM-ROOTEDNESS of view has protected me from precipitancy; and the ornament of 
 
 9\. But Fortune inverts my wishes, and makes me contented with a return home, instead of riches following on earnest endeavour.
 
-<span id="p469">[<sup><small>p. 469</small></sup>]</span>
+<span id="p469"><sup><small>[ p. 469 ]</small></sup></span>
 
 10\. And then, that well-proportioned man, like the upper part of a spear, holding his like between his leg and his saddle: not pusillanimous, and not depending on another;
 
@@ -105,7 +105,7 @@ FIRM-ROOTEDNESS of view has protected me from precipitancy; and the ornament of 
 
 35\. Verily, all grave matters have given me to understand that glory resides in migrations \[and they speak truly in that respect\].
 
-<span id="p471">[<sup><small>p. 471</small></sup>]</span>
+<span id="p471"><sup><small>[ p. 471 ]</small></sup></span>
 
 36\. If in the glory of a repair there were an attainment of desire, the sun would never move from the sign of Aries \[his house of exaltation\].
 
@@ -131,7 +131,7 @@ FIRM-ROOTEDNESS of view has protected me from precipitancy; and the ornament of 
 
 47\. Then be patient therewith, without hatching stratagems or feeling vexed. In the forthcoming event of time there is that which will make thee independent of stratagems.
 
-<span id="p472">[<sup><small>p. 472</small></sup>]</span>
+<span id="p472"><sup><small>[ p. 472 ]</small></sup></span>
 
 48\. Thy most virulent enemy is the nearest of those to whom thou hast trusted. Then beware of men, and associate with them upon \[terms of\] distrust.
 

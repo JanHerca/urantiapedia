@@ -36,7 +36,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. Now we shall explain the opening and the conclusion (of the annual course of study).
 
-2\. [^703] During the fortnight that precedes the _S<i>rava</i>n_â <span id="p242">[<sup><small>p. 242</small></sup>]</span> full moon, when the herbs have appeared, under (the Nakshatra) Hasta or on the full-moon day (itself), the opening ceremony of the (annual course of) study (is performed).
+2\. [^703] During the fortnight that precedes the _S<i>rava</i>n_â <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> full moon, when the herbs have appeared, under (the Nakshatra) Hasta or on the full-moon day (itself), the opening ceremony of the (annual course of) study (is performed).
 
 3\. Having put wood on the fire and performed the rites down to the Vyâh<i>ri</i>ti oblations, he sacrifices (with his pupils) to the <i>Ri</i>shis of the Kâ<i>ri</i><i>ri</i>as: ‘To Pra<i>ri</i>âpati, the <i>Ri</i>shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To Soma, the <i>Ri</i>shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To Agni, the <i>Ri</i>shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To the Vi<i>ri</i>ve devâs, the <i>Ri</i>shis of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To Svayambhû, the <i>Ri</i>shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ!’—these are the <i>Ri</i>shis of the Kâ<i>ri</i><i>ri</i>as. Or (he sacrifices) to the names of the Kâ<i>ri</i><i>ri</i>as, to the Sâvitrî, to the <i>Ri</i>g-veda, the Ya<i>ri</i>ur-veda, the Sâma-veda, the Atharva-veda, and to Sadasaspati.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. After all rites down to the Svish<i>t</i>ak<i>t</i>t oblation have been performed, they stop studying three days or one day; then they should go on studying so as to commence where they have broken off: so say the teachers.
 
-8\. [^704] During the fortnight that precedes the Taishî full moon, under (the Nakshatra) Rohi<i>n</i>î or on the full-moon day (itself), the Utsarga (or conclusion of the term of study) is celebrated. <span id="p243">[<sup><small>p. 243</small></sup>]</span>
+8\. [^704] During the fortnight that precedes the Taishî full moon, under (the Nakshatra) Rohi<i>n</i>î or on the full-moon day (itself), the Utsarga (or conclusion of the term of study) is celebrated. <span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 9\. [^705] (The teacher) with his pupils goes in an easterly or northerly direction, and where they find a pleasant water with a pleasant bathing-place, they dive into it and perform three suppressions of the breath with the Agharmarsha<i>n</i>a hymn (<i>Ri</i>g-veda X, 190 = Taitt. Ar. X, 1, 13. 14.). Holding purifiers (i.e. Darbha blades) in their hands they bathe with the three (verses), ‘Ye waters, ye are wholesome’ (Taitt. Sa<i>n</i>h. IV, 1, 5, 1), with the four (verses), ‘The gold-coloured, pure, purifying waters’ (T.S.V, 6, 1, 1 seq.), and with the Anuvâka, ‘(Soma) which clears itself, the heavenly being’ (Taitt. Br. I, 4, 8): giving the Darbha blades to each other and feigning to try to seize (??) each other.
 
@@ -61,7 +61,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 8, SECTION 19.
 
-1\. [^706] For Brahman, Pra<i>g</i>âpati, B<i>g</i>haspati, Agni, Vâyu, the Sun, the Moon, the Stars, king Indra, king Yama, king Varu<i>g</i>a, king Soma, king Vai<i>g</i>rava<i>g</i>a, for the Vasus, the Rudras, the Âdityas, the Vi<i>g</i>ve devâs, the Sâdhyas, the _Ri_bhus, the Bh<i>g</i>gus, the Maruts, the Atharvans, the Aṅgiras: for these divine beings. <span id="p244">[<sup><small>p. 244</small></sup>]</span>
+1\. [^706] For Brahman, Pra<i>g</i>âpati, B<i>g</i>haspati, Agni, Vâyu, the Sun, the Moon, the Stars, king Indra, king Yama, king Varu<i>g</i>a, king Soma, king Vai<i>g</i>rava<i>g</i>a, for the Vasus, the Rudras, the Âdityas, the Vi<i>g</i>ve devâs, the Sâdhyas, the _Ri_bhus, the Bh<i>g</i>gus, the Maruts, the Atharvans, the Aṅgiras: for these divine beings. <span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 2\. [^707] Vi<i>g</i>vâmitra, <i>G</i>amadagni, Bharadvâ<i>g</i>a and Gautama, Atri, Vasish<i>g</i>a, Ka<i>g</i>yapa: these are the seven <i>Ri</i>shis.
 
@@ -78,7 +78,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 8, SECTION 20.
 
@@ -98,7 +98,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. Having worshipped them with (the words), ‘Adoration to N.N.! Adoration to N.N.!’—
 
-9\. [^709] Having put wood on the fire to the west of the surface (on which he had performed the Tarpa<i>n</i>a), <span id="p246">[<sup><small>p. 246</small></sup>]</span> and having performed the rites down to the Vyâh<i>n</i>ti oblations (&c., as above, chap. 18, 3-7).
+9\. [^709] Having put wood on the fire to the west of the surface (on which he had performed the Tarpa<i>n</i>a), <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> and having performed the rites down to the Vyâh<i>n</i>ti oblations (&c., as above, chap. 18, 3-7).
 
 10\. With the two (verses), ‘From joint to joint,’ ‘Thou who with a hundred’ (Taitt. Sa<i>m</i>h. IV, 2, 9, 2) they plant Dûrvâ grass at the shore of the water.
 

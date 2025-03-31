@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Rashnu Razi<i>s</i>ta, ‘the truest True,’ is the Genius of Truth: he is one of the three judges of the departed, with Mithra and Sraosha: he holds the balance in which the deeds of men are weighed after their death: 'he makes no unjust balance . . . ., neither for the pious nor yet the wicked, neither for lords nor yet rulers; as much as a hair's breadth he will not vary, and he shows no favour [^777].' He is an offshoot either of Mithra, the God of Truth and the avenger of lies, or of Ahura Mazda himself, the all-knowing lord (§ 2 seq.).
 
@@ -52,7 +52,7 @@ For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the hol
 
 Unto Rashnu Razi<i>s</i>ta; unto Ar<i>s</i>tâ<i>t</i>, who makes the world grow, who makes the world increase; unto the true-spoken speech, that makes the world grow [^778];
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 Be propitiation, with sacrifice, prayer, propitiation, and glorification.
 
@@ -68,7 +68,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘The most glorious Holy Word (itself), this is what in the Holy Word is created true, what is created progress making, what is fit to discern, what is healthful, wise, and happy, what is more powerful to destroy than all other creatures.’
 
-3\. Ahura Mazda said: 'Bind up a three-twigged baresma against the way of the sun. \[Address\] unto me, Ahura Mazda, these words: “We invoke, we bless \[Ahura\] [^781]; I invoke the friendship \[of Ahura\] towards this var [^782] prepared, towards the fire and the baresma, towards the full boiling \[^783]\], towards the var [^782] of oil and the sap [^784] of the plants.” <span id="p170">[<sup><small>p. 170</small></sup>]</span> 4\. 'Then I, Ahura Mazda, shall come for help unto thee, towards this var prepared, towards the fire and the baresma, towards the full boiling \[milk\], towards the var of oil and the sap of the plants;
+3\. Ahura Mazda said: 'Bind up a three-twigged baresma against the way of the sun. \[Address\] unto me, Ahura Mazda, these words: “We invoke, we bless \[Ahura\] [^781]; I invoke the friendship \[of Ahura\] towards this var [^782] prepared, towards the fire and the baresma, towards the full boiling \[^783]\], towards the var [^782] of oil and the sap [^784] of the plants.” <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 4\. 'Then I, Ahura Mazda, shall come for help unto thee, towards this var prepared, towards the fire and the baresma, towards the full boiling \[milk\], towards the var of oil and the sap of the plants;
 
 ‘Along with the fiend-smiting Wind, along with the cursing thought of the wise [^785], along with the kingly Glory, along with Saoka [^786], made by Mazda.
 
@@ -78,7 +78,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘Along with the fiend-smiting Wind, along with the cursing thought of the wise, along with the kingly Glory, along with Saoka, made by Mazda.
 
-7\. 'O thou, holy Rashnu! O most true Rashnu! most beneficent Rashnu! most knowing Rashnu! most discerning Rashnu! most fore-knowing Rashnu! most far-seeing Rashnu! Rashnu, the <span id="p171">[<sup><small>p. 171</small></sup>]</span> best doer of justice [^788]! Rashnu, the best smiter of thieves;
+7\. 'O thou, holy Rashnu! O most true Rashnu! most beneficent Rashnu! most knowing Rashnu! most discerning Rashnu! most fore-knowing Rashnu! most far-seeing Rashnu! Rashnu, the <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> best doer of justice [^788]! Rashnu, the best smiter of thieves;
 
 8\. 'The uninjured, the best killer, smiter, destroyer of thieves and bandits! in whatever part of the world thou art watching the doings [^789] of men and making the account . . . .  [^790].
 
@@ -96,7 +96,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## V.
 
-12\. 'Whether thou, O holy Rashnu! art in the <span id="p172">[<sup><small>p. 172</small></sup>]</span> Karshvare Vîdadhafshu [^793], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . . in whatever part of the world thou art.
+12\. 'Whether thou, O holy Rashnu! art in the <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> Karshvare Vîdadhafshu [^793], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . . in whatever part of the world thou art.
 
 ## VI.
 
@@ -114,7 +114,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 16\. 'Whether thou, O holy Rashnu! art in the sea Vouru-Kasha [^794], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . . in whatever part of the world thou art.
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 ## X.
 
@@ -128,7 +128,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 19\. 'Whether thou, O holy Rashnu! art on the Sanaka [^797] of the Rangha, we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . .
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 ## XIII.
 
@@ -150,7 +150,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 24\. 'Whether thou, O holy Rashnu! art upon the highest Hukairya, of the deep precipices [^799], made of gold, wherefrom this river of mine, Ardvi Sûra Anâhita, leaps from a thousand times the height of a man, we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . .
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 ## XVIII.
 
@@ -170,7 +170,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## XXII.
 
-29\. 'Whether thou, O holy Rashnu! art in those stars that have the seed of the waters in them [^803], we <span id="p176">[<sup><small>p. 176</small></sup>]</span> invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . .
+29\. 'Whether thou, O holy Rashnu! art in those stars that have the seed of the waters in them [^803], we <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . .
 
 ## XXIII.
 
@@ -188,7 +188,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 33\. 'Whether thou, O holy Rashnu! art in the moon which has the seed of the Bull in it [^806], we invoke, we bless Rashnu, the strong. I invoke his friendship towards this var prepared . . . .
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 ## XXVII.
 
@@ -212,7 +212,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 39\. 'For his brightness and glory, I will offer unto him a sacrifice worth being heard . . . .
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 ‘Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda. . . .
 

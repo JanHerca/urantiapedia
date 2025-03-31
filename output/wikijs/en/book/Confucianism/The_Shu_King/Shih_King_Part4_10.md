@@ -42,7 +42,7 @@ THE odes of Thang were really the odes of Ȝin, the greatest of the fiefs of <i>
 
 THE MEN OF ȜIN, CALLED OUT TO WARFARE BY THE KING'S ORDER, MOURN OVER THE CONSEQUENT SUFFERING OF THEIR PARENTS, AND LONG FOR THEIR RETURN TO THEIR ORDINARY AGRICULTURAL PURSUITS, MAKING THEIR APPEAL TO HEAVEN.
 
-Sû-sû go the feathers of the wild geese, As <span id="p441">[<sup><small>p. 441</small></sup>]</span> they settle on the bushy oaks [^617]. The king's affairs must not be slackly discharged, And (so) we cannot plant our millets;—What will our parents have to rely on? O thou distant and azure Heaven [^618]! When shall we be in our places again?
+Sû-sû go the feathers of the wild geese, As <span id="p441"><sup><small>[ p. 441 ]</small></sup></span> they settle on the bushy oaks [^617]. The king's affairs must not be slackly discharged, And (so) we cannot plant our millets;—What will our parents have to rely on? O thou distant and azure Heaven [^618]! When shall we be in our places again?
 
 <a id="o11"></a>
 
@@ -52,7 +52,7 @@ A WIFE MOURNS THE DEATH OF HER HUSBAND, REFUSING TO BE COMFORTED, AND DECLARES T
 
 It is supposed that the husband whose death is bewailed in this piece had died in one of the military expeditions of which duke Hsien (B.C. 676-651) was fond. It may have been so, but there is nothing in the piece to make us think of duke Hsien. I give it a place in the volume, not because of the religious sentiment in it, but because of the absence of that sentiment, Where we might expect it. The lady shows the grand virtue of a Chinese widow, in that she will never marry again. And her grief would not be assuaged. The days would all seem long summer days, and the nights all long winter nights; so that a hundred long years would seem to drag their slow course, But there is not any hope expressed of a re-union with her husband in another state. The ‘abode’ and the ‘chamber’ of which she speaks are to be understood of his grave; and her thoughts do not appear to go beyond it.
 
-The dolichos grows, covering the thorn trees; The convolvulus spreads all over the waste [^619]. The <span id="p442">[<sup><small>p. 442</small></sup>]</span> man of my admiration is no more here;—With whom can I dwell? I abide alone.
+The dolichos grows, covering the thorn trees; The convolvulus spreads all over the waste [^619]. The <span id="p442"><sup><small>[ p. 442 ]</small></sup></span> man of my admiration is no more here;—With whom can I dwell? I abide alone.
 
 The dolichos grows, covering the jujube trees; The convolvulus spreads all over the tombs. The man of my admiration is no more here;—With whom can I dwell? I rest alone.
 

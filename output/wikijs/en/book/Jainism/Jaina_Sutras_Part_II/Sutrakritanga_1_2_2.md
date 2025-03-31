@@ -44,7 +44,7 @@ Indifferent and pure with regard to every kind of control, a <i>S</i>rama<i>n</i
 
 The sage who sees the far-off (goal, viz. liberation), past and future things, will practise indifference, though he suffer corporal punishment and be beaten. (5)
 
-Possessing perfect wisdom, a sage always vanquishes (his passions); he correctly expounds the <span id="p254">[<sup><small>p. 254</small></sup>]</span> Law; he never neglects even the smallest (duty); he is neither angry nor proud. (6)
+Possessing perfect wisdom, a sage always vanquishes (his passions); he correctly expounds the <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> Law; he never neglects even the smallest (duty); he is neither angry nor proud. (6)
 
 A man who controls himself according to (the Law), which is praised by many people, and is not bound by any worldly ties, who is always pure like a lake, proclaims the Law of Kâ<i>s</i>yapa. (7)
 
@@ -58,7 +58,7 @@ One should know (and renounce) the great attachment (to the world), and respect 
 
 A monk should perform postures (as Kâyôtsarga, &c.) alone on his seat, and alone on his couch he should meditate; excelling in the performance of austerities, guarded in words, and restrained in thoughts. (12)
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 An ascetic does not shut the door of a deserted house (where he puts up), nor does he open it; when asked he returns no (rude) answer; he cuts no grass, nor does he strew it (on the ground for a couch). (13)
 
@@ -76,7 +76,7 @@ When a monk quarrels and uses very bad language, he will suffer great spiritual 
 
 He who abstains from cold water [^743], who plans (or undertakes) nothing, and has ceased from even the smallest actions, who does not eat food out of the dish of a householder, possesses right conduct, &c. (20)
 
-<span id="p256">[<sup><small>p. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 Though life cannot be prolonged, as the saying is [^744], still foolish people sin recklessly; a foolish man is filled to the brim (as it were) with sins. Considering this a sage is not conceited. (21)
 
@@ -92,7 +92,7 @@ Those who follow the Law that has been proclaimed by <i>G</i><i>ñ</i>ât<i>ri</
 
 Take no heed of the seductive (pleasures), endeavour to shake off delusion. Those who are not subdued by the wicked (pleasures), know meditation to be their duty [^748]. (27)
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 A monk should not tell stories, nor ask idle questions, nor gossip [^749]. But, knowing the highest Law, he should perform his religious duties, and regard nothing his own. (28)
 

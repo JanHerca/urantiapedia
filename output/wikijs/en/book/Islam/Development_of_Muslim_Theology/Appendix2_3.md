@@ -48,7 +48,7 @@ IGNAZ GOLDZIHER: _Die Zâhiriten, ihr Lehrsystem und ihre Geschichte_. Leipzig, 
 
 IGNAZ GOLDZIHER: _Neue Materialien zur Litteratur des Ueberlieferungswesen bei den Muhammedanem_. ZDMG, I, pp. 465 ff. Deals with Musnad of Ahmad ibn Hanbal.
 
-<span id="p363">[<sup><small>p. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 IGNAZ GOLDZIHER: _Zur Litteratur des Ichtilâf al-madhâhíb_. ZDMG, xxxviii, pp. 669 ff. Contains a notice of ash-Sha‘rani.
 

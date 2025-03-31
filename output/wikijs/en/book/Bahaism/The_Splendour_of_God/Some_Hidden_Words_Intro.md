@@ -32,7 +32,7 @@ dateCreated: 2025-2-4T22:17:56Z
   </table>
 </figure>
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 [1](Some_Hidden_Words_1#fn7)
 

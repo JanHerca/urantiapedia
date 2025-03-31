@@ -36,7 +36,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 [^590]
 
-1\. When he has first seen the new moon, he sips water, and holding (a pot of) water (in his hands) he worships (the moon) with the four (verses), ‘Increase’ (Taitt. Sa<i>m</i>h. I, 4, 32), ‘May thy milk’ (ibid. IV, 2, 7, 4), ‘New and new again (the moon) becomes, being born’ (ibid. II, 4, 14, 1), ‘That Soma which the Âdityas make swell’ (ibid. II, 4, 14, 1). <span id="p180">[<sup><small>p. 180</small></sup>]</span>
+1\. When he has first seen the new moon, he sips water, and holding (a pot of) water (in his hands) he worships (the moon) with the four (verses), ‘Increase’ (Taitt. Sa<i>m</i>h. I, 4, 32), ‘May thy milk’ (ibid. IV, 2, 7, 4), ‘New and new again (the moon) becomes, being born’ (ibid. II, 4, 14, 1), ‘That Soma which the Âdityas make swell’ (ibid. II, 4, 14, 1). <span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 2\. [^591] When he has yawned, he murmurs, ‘(May) will and insight (dwell) in me.’
 
@@ -52,7 +52,7 @@ Then let him wipe off that (dirt) with something else than his hand, and let him
 
 7\. [^595] ‘If a fruit has fallen down from the top of a tree, or from the air, it is Vâyu (who has made it fall). Where it has touched our bodies or the garment, (there) may the waters drive away destruction’—this (verse) he should murmur, if a fruit unexpectedly falls down on him.
 
-8\. [^596] ‘Adoration to him who dwells at the cross-roads, <span id="p181">[<sup><small>p. 181</small></sup>]</span> whose arrow is the wind, to Rudra! Adoration to Rudra who dwells at the cross-roads!’—this (formula) he murmurs when he comes to a cross-road;
+8\. [^596] ‘Adoration to him who dwells at the cross-roads, <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> whose arrow is the wind, to Rudra! Adoration to Rudra who dwells at the cross-roads!’—this (formula) he murmurs when he comes to a cross-road;
 
 9\. ‘Adoration to him who dwells among cattle, whose arrow is the wind, to Rudra! Adoration to Rudra who dwells among cattle!’—thus at a dung-heap;
 
@@ -68,7 +68,7 @@ Then let him wipe off that (dirt) with something else than his hand, and let him
 
 15\. The same during the night, if the sun sets whilst he sleeps.
 
-16\. [^598] Let him not touch a sacrificial post. By <span id="p182">[<sup><small>p. 182</small></sup>]</span> touching it, he would bring upon himself (the guilt of) whatever faults have been committed at that sacrifice. If he touches one (sacrificial post), he should say, ‘This is thy wind;’ if two (posts), ‘These are thy two winds;’ if many (posts), ‘These are thy winds.’
+16\. [^598] Let him not touch a sacrificial post. By <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> touching it, he would bring upon himself (the guilt of) whatever faults have been committed at that sacrifice. If he touches one (sacrificial post), he should say, ‘This is thy wind;’ if two (posts), ‘These are thy two winds;’ if many (posts), ‘These are thy winds.’
 
 17\. [^599] 'The voices that are heard after us (?) and around us, the praise that is heard, and the voices of the birds, the deer's running (?) athwart: that we fear (?) from our enemies'—this (verse) he murmurs when setting out on a road.
 
@@ -78,7 +78,7 @@ Then let him wipe off that (dirt) with something else than his hand, and let him
 
 19\. [^601] ‘If thou raisest thy divine voice, entering upon living beings, drive away our enemies by thy voice. O death, lead them to death!’—(thus) against a solitary jackal.
 
-20\. Then he throws before the (jackal, as it were), a fire-brand that burns at both ends, towards that region (in which the jackal's voice is heard), with (the words), ‘Fire! Speak to the fire! Death! Speak to the death!’ Then he touches water, <span id="p183">[<sup><small>p. 183</small></sup>]</span>
+20\. Then he throws before the (jackal, as it were), a fire-brand that burns at both ends, towards that region (in which the jackal's voice is heard), with (the words), ‘Fire! Speak to the fire! Death! Speak to the death!’ Then he touches water, <span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 21\. And worships (the jackal) with the Anuvâka, ‘Thou art mighty, thou carriest away’ (Taitt. Sa<i>m</i>hitâ I, 3, 3).
 
@@ -99,7 +99,7 @@ Then let him wipe off that (dirt) with something else than his hand, and let him
 
 ‘My self has returned, life has returned to me; breath has returned, design has returned to me. (Agni) Vai<i>s</i>vânara, grown strong with his rays, may he dwell in my mind, the standard of immortality. Svâhâ!
 
-‘The food which is eaten in the evening, that does <span id="p184">[<sup><small>p. 184</small></sup>]</span> not satiate in the morning him whom hunger assails. May all that (which we have seen in our dreams), do no harm to us, for it has not been seen by day. To Day svâhâ!’—with these (verses) he sacrifices sesamum seeds mixed with Â<i>g</i>ya, if he has seen a bad dream.
+‘The food which is eaten in the evening, that does <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> not satiate in the morning him whom hunger assails. May all that (which we have seen in our dreams), do no harm to us, for it has not been seen by day. To Day svâhâ!’—with these (verses) he sacrifices sesamum seeds mixed with Â<i>g</i>ya, if he has seen a bad dream.
 
 5\. [^604] Now the following expiations for portents are prescribed. A dove sits down on the hearth, or the bees make honey in his house, or a cow (that is not a calf) sucks another cow, or a post puts forth shoots, or an anthill has arisen (in his house): cases like these (require the following expiation):
 
@@ -109,7 +109,7 @@ Then let him wipe off that (dirt) with something else than his hand, and let him
 
 ## PA<i>T</i>ALA 5, SECTION 18.
 
-1\. [^606] ‘May Indra and Agni make you go. May the two A<i>s</i>vins protect you. B<i>s</i>haspati is your herdsman. May Pûshan drive you back again’— <span id="p185">[<sup><small>p. 185</small></sup>]</span> this (verse) he recites over the cows when they go away (to their pasture-grounds), and (the verse), ‘May Pûshan go after our cows’ (Taitt. Sa<i>s</i>h. IV, 1, 11, 2).
+1\. [^606] ‘May Indra and Agni make you go. May the two A<i>s</i>vins protect you. B<i>s</i>haspati is your herdsman. May Pûshan drive you back again’— <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> this (verse) he recites over the cows when they go away (to their pasture-grounds), and (the verse), ‘May Pûshan go after our cows’ (Taitt. Sa<i>s</i>h. IV, 1, 11, 2).
 
 2\. With (the verse), ‘These cows that have come hither, free from disease and prolific, may they swim (full of wealth) like rivers; may they pour out (wealth), as (rivers discharge their floods) into the ocean’—he looks at the cows, when they are coming back.
 
@@ -121,7 +121,7 @@ Then let him wipe off that (dirt) with something else than his hand, and let him
 
 ‘Blaze brightly, O <i>G</i>âtavedas, driving destruction away from me. Bring me cattle and maintenance from all quarters of the heaven. Svâhâ!
 
-‘May <i>G</i>âtavedas do no harm to us, to cows and horses, to men and to all that moves. Come hither, <span id="p186">[<sup><small>p. 186</small></sup>]</span> Agni, fearlessly; make me attain to welfare! Svâhâ!’—
+‘May <i>G</i>âtavedas do no harm to us, to cows and horses, to men and to all that moves. Come hither, <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> Agni, fearlessly; make me attain to welfare! Svâhâ!’—
 
 And with (the two verses), ‘This is the influx of the waters,’ and ‘Adoration to thee, the rapid one, the shining one’ (Taitt. Sa<i>m</i>h. IV, 6, 1, 3).
 

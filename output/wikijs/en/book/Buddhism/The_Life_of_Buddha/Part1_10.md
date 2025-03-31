@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 
 THE chariot entered the wood. The young trees were in bloom, birds fluttered about joyously as though intoxicated by the light and atmosphere, and on the surface of the pools the lotuses had cupped their petals to drink in the cool air.
@@ -41,7 +41,7 @@ Siddhartha went unwillingly, like a young hermit, still new to his vows, who fea
 
 Udayin called to the boldest and the most beautiful, and he said to them:
 
-“Why do you fail me to-day, you whom I have chosen from among many to captivate the prince, my friend? What makes you behave like shy, silent children? Your charm, your beauty, your boldness would win even a woman's heart, and you tremble <span id="p50">[<sup><small>p. 50</small></sup>]</span> before a man! You mortify me. Come, wake up! Use your charms! Make him yield to love!” One of the maidens spoke up:
+“Why do you fail me to-day, you whom I have chosen from among many to captivate the prince, my friend? What makes you behave like shy, silent children? Your charm, your beauty, your boldness would win even a woman's heart, and you tremble <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> before a man! You mortify me. Come, wake up! Use your charms! Make him yield to love!” One of the maidens spoke up:
 
 “He frightens us, O master; his majestic splendor frightens us.”
 
@@ -49,13 +49,13 @@ Udayin called to the boldest and the most beautiful, and he said to them:
 
 Udayin's words encouraged the maidens. Smiling, and with exquisite grace, they gradually formed a ring around the prince.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 They used the most engaging wiles in order to approach Siddhartha, in order to brush past him or hold him and steal a caress. One pretended to stumble and clung to his girdle. Another drew near and mysteriously whispered in his ear, “Deign to hear my secret, O prince.” Another feigned intoxication; she slowly unwound the blue veil that bound her breasts, then came and leaned against his shoulder. Another jumped down from the branch of a mango-tree and laughingly tried to stop him as he passed. Still another offered him a lotus-flower. And one sang: “Look, dear love, this tree is covered with blossoms, with blossoms whose perfume cloys the air; in the branches, rare birds trill their happy songs, as though in a golden cage. Listen to the bees, hovering over the flowers; they are roused and consumed by a burning ardor. Look at those creepers, warmly embracing the tree; the breeze ruffles them with a jealous hand. Over there, in that lovely glade, do you see the silver pool asleep? It is smiling, drowsily, like a maiden caressed by a bold moonbeam.”
 
 But the prince was not smiling; he was unhappy, for he was thinking on death.
 
-He thought, “They do not know these maidens, that youth is fleeting, and that old age will come and strip them of their beauty! They are blind to the menace that is sickness, though it is already <span id="p52">[<sup><small>p. 52</small></sup>]</span> master of the world! They know nothing of death, of imperious death, of death that destroys everything! And that is why they can laugh, that is why they can play!”
+He thought, “They do not know these maidens, that youth is fleeting, and that old age will come and strip them of their beauty! They are blind to the menace that is sickness, though it is already <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> master of the world! They know nothing of death, of imperious death, of death that destroys everything! And that is why they can laugh, that is why they can play!”
 
 Udayin tried to interrupt Siddhartha's thoughts.
 
@@ -65,7 +65,7 @@ He said, “Why are you so discourteous to these maidens? Perhaps they do not in
 
 The sun was setting. The maidens had ceased their laughter; the prince had no eyes for their garlands and their jewels. They felt their charms were of no avail, and slowly they took the road back to the city.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 The prince returned to the palace. King Suddhodana heard from Udayin that his son was shunning all pleasure, and that night he found no sleep.
 
@@ -81,7 +81,7 @@ Overcome with terror, Gopa awoke. She ran to her husband.
 
 Gopa related all that she had seen in her sleep. The prince smiled.
 
-“Rejoice, Gopa,” said he, “rejoice. You saw the earth shake? Then one day the Gods themselves shall bow before you. You saw the moon and the <span id="p54">[<sup><small>p. 54</small></sup>]</span> sun fall from the sky? Then you shall soon defeat evil, and you shall receive infinite praise. You saw the trees uprooted? Then you shall find a way out of the forest of desire. Your hair was cut short? Then you shall free yourself from the net of passions that holds you captive. My robes and my jewels were scattered about? Then I am on the road to deliverance. Meteors were speeding across the sky over a darkened city? Then to the ignorant world, to the world that is blind, I shall bring the light of wisdom, and those who have faith in my words will know joy and felicity. Be happy, O Gopa, drive away your melancholy; you will soon be singularly honored. Sleep, Gopa, sleep; you have dreamed a lovely dream.”
+“Rejoice, Gopa,” said he, “rejoice. You saw the earth shake? Then one day the Gods themselves shall bow before you. You saw the moon and the <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> sun fall from the sky? Then you shall soon defeat evil, and you shall receive infinite praise. You saw the trees uprooted? Then you shall find a way out of the forest of desire. Your hair was cut short? Then you shall free yourself from the net of passions that holds you captive. My robes and my jewels were scattered about? Then I am on the road to deliverance. Meteors were speeding across the sky over a darkened city? Then to the ignorant world, to the world that is blind, I shall bring the light of wisdom, and those who have faith in my words will know joy and felicity. Be happy, O Gopa, drive away your melancholy; you will soon be singularly honored. Sleep, Gopa, sleep; you have dreamed a lovely dream.”
 
 <figure class="table chapter-navigator">
   <table>

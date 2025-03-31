@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 ## V. The Lion and the Beasts.
 
@@ -57,7 +57,7 @@ Believers are not twice caught by the self-same lie?’”[^136]
 Their answer was: “O most sagacious, knowing guide,
 <sup id="v10"><small>10</small></sup>  Thy caution pray dismiss; decree of God abide.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 Suspicion, caution, ever is corroding ill.
 Put trust in Providence; and God thy maw will fill.
@@ -91,7 +91,7 @@ God's sight of providence is keener than men's eyes.
 By seeing with His sight, thou’lt find all thou wilt prize.
 An infant, that can neither grasp nor walk as yet,
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 <sup id="v25"><small>25</small></sup>  Takes seat upon his father's neck, and runs. Sweet pet.
 Some seasons past, he scarcely gains some strength of limb;
@@ -127,7 +127,7 @@ To strive to give thanks power provides this to perform.
 <sup id="v40"><small>40</small></sup>  Allege compulsion. Gratitude's ground thou’lt deform.
 Thanks for thy powers the power of thanks tenfold expands.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 Take favour for compulsion. Power will leave thy hands.
 Compulsion dost affirm? That's sleeping by the way.
@@ -162,7 +162,7 @@ Except the lot decreed by Providence of yore,
 Device of man, his plans, shall all be brought to naught.
 God's dispensations sole will stand, with wisdom fraught.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Strive not then, man of sense; except good name to leave.
 Exertion's a delusion. Out! Thou sottish knave!”
@@ -198,7 +198,7 @@ His soul to separate from its corporeal fold?”
 To him replied the angel: “King of sprites and men!
 <sup id="v70"><small>70</small></sup>  His fancy him misled; he'll ne’er do so again.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 ’Twas not in anger then that I did look on him;
 ’Twas wonder him to see here, looking hale and prim.
@@ -231,7 +231,7 @@ Bestowed in vain one effort to fulfil God's plan.
 Thou hast no broken bones; why bind thy limbs in splints?
 Have patience yet awhile; then laugh; we're not mere flints.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 It is a bad investment to seek worldly gain.[^147]
 <sup id="v85"><small>85</small></sup>  Whose hope is placed in heaven never shall see pain.[^148]
@@ -268,7 +268,7 @@ Were fain to quit compulsion's cause, for good and all.
 A treaty they concluded with the forest king,
 <sup id="v100"><small>100</small></sup>  That he, by this concession, should not lose a thing.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 His daily ration ready always should be found;
 And he should have no cause to trespass on their ground.
@@ -305,7 +305,7 @@ My inspiration's God's; small means effect great ends.
 The wisdom God hath taught the little honey-bee,
 <sup id="v115"><small>115</small></sup>  You do not find possessed by lion, or by me.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 We see its cells arranged, with liquid sweetness filled,
 The portals of such art to open God hath willed.
@@ -336,7 +336,7 @@ When God the Seven Sleepers’[^151] dog applauded. How!
 To call it dog, to charge it with defect of race,
 No harm can do it; God in heaven hath given it place.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 ’Twas not the pen prescrib’d the qualities of form;
 <sup id="v130"><small>130</small></sup>  Th’ Omniscient, the Just, ’twas, made it multiform.
@@ -372,7 +372,7 @@ Thou feel’st it in thy foot; thou knowest it's not a dream.
 Plagues, troubles, fears, and cares, of various degree,
 All spring from many sides, and fix themselves in thee.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Bear all with patience; slowly thou’lt experience gain.
 <sup id="v145"><small>145</small></sup>  Thou’lt recognise the truth; the dark will be made plain.
@@ -409,7 +409,7 @@ That foes might hear, but not suspect its purport. Pish!
 He'd ferret out in answers all he wished to learn;
 <sup id="v160"><small>160</small></sup>  And still not give an inkling of his thought's real turn.”
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 Enough we've said of this. Now turn we to our tale.
 By puss the lion's held right hungry in the vale.
@@ -446,7 +446,7 @@ So mayest thou learn the way salvation's port to find.
 A seeker after wisdom, is, of wisdom, fount.
 <sup id="v175"><small>175</small></sup>  “Humanities” he shuns; them, he does trash account.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 A memory replete with holy Qur’ān's lore
 A “hidden tablet” is;[^153] its mind is wisdom's store.
@@ -477,7 +477,7 @@ Henceforward he's a herald;—shall God's judgments shout.
 The planets until now may have affected him;
 Above the planets now he rests, and rules their trim.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 If forms material find much honour in thy sight,
 Thou’lt doubt the truth of writ: “The moon clave,” left and right.[^157]
@@ -513,7 +513,7 @@ To such an eye such pool a sea was. He was right.
 A false interpreter of scripture is such fly.
 His fancy is the urine pool on which straws ply.
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 If flies in fancy thus explain the things they see,
 By fortune's freaks, in turn, a phœnix each may be.
@@ -551,7 +551,7 @@ For He alone's eternal, free from change, and whole.
 Men's prayers for kings and princes change full oft in tone.
 The prayers of saints and prophets call on God alone.
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Th’ existence of earth's sovereign's empty pomp and pride,
 The glories of a prophet in his God abide.
@@ -589,7 +589,7 @@ They push their roadsters hastily, as thoughts invite.
 They hold their coursers to be lost; and all the while
 Like noble courser, roadster's borne them many a mile.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 They now begin to wail, distress’d, and ask the way.
 They knock at ev’ry door they see, they beg, they pray:
@@ -629,7 +629,7 @@ From converseconverse stands forth, as Frank from Negro.
 By converse of the light, distinguish we the light;
 <sup id="v250"><small>250</small></sup>  A converse ’tis that converse shows unto our sight.
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 The light of God no converse has in being's bound;
 By converse, then, man has not its distinction found.
@@ -662,7 +662,7 @@ Like squib when ’tis revolved in dark by boy with tape.
 A flash of flame, through motion's necessary speed,
 Appears unto our eyes a fire of size, indeed.
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Its length and its extension, through quickness of fact,
 <sup id="v265"><small>265</small></sup>  Appear to be effects of God's creative act.
@@ -700,7 +700,7 @@ Take thou me not for hare; with me strive not to fence.”
 The hare to him: “O prince! Have pity on the weak!
 Lend ear unto the tales of them who justice seek.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 Thankoffering let it be for thy august estate.
 <sup id="v280"><small>280</small></sup>  Poor supplicant like me, thou’lt not drive from thy gate.
@@ -738,7 +738,7 @@ More plump, more sleek, more toothful. Dare I tell a lie?
 Henceforward, through that lion, who can come this way?
 <sup id="v295"><small>295</small></sup>  The case is so. I've told thee truly all my say.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 From hence, for evermore, thy ration's lost, forsooth.
 The truth I speak to thee. Unpleasant oft is truth.
@@ -774,7 +774,7 @@ He vaunts the bait; but be thou sure, a trap he lays.
 His proffered sugarcandy poison will conceal.
 His seeming kindly offices are treachery's veil.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Should God ordain thy fall, thy sight will blinded be;
 <sup id="v310"><small>310</small></sup>  ’Twixt friend and foe the difference thou’lt fail to see.
@@ -810,7 +810,7 @@ How many pairs of each are strange as incubus!
 A synglottist is then a man's another self;
 But syncardism, than synglottism's much closer, elf.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 Besides our words, our signs, our written characters,
 <sup id="v325"><small>325</small></sup>  From hearts, there rise by hundreds mute interpreters.
@@ -849,7 +849,7 @@ With them thou’lt journey; so, ne’er will be water scant.”
 The crow on hearing this with jealousy was stung.
 Addressing Solomon, he said: “This bird a lie has sung.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 His insolence is great to boast thus to the king.
 <sup id="v340"><small>340</small></sup>  Such falsehood's quite disgusting. Who's heard such a thing?
@@ -887,7 +887,7 @@ From first to last his mind could hold them from revolt.
 Whatever name he gave, that name endured unchanged.
 If he said: “This thing's active,” slothful it ne’er ranged.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 He knew at first who was believer in God's word.
 <sup id="v355"><small>355</small></sup>  He from the first, too, knew the miscreant toward his Lord.
@@ -921,7 +921,7 @@ One single prohibition known, cost him right sore.
 He asked: “Was prohibition laid, joy to prevent;
 Or can, by gloss, evasion unto it be lent?”
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 To his mind, explanation having been inferred,
 His appetites, perplexed, to taste the wheat preferred.[^172]
@@ -954,7 +954,7 @@ And now we turn again from morals,—they've no end,—
 They came to where the well was. Here the lion saw
 The hare his pace had slackened, backward ‘gan to draw.
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 At this he remonstrated: “What art thou about!
 Come forward still. The enemy we must find out.”
@@ -991,7 +991,7 @@ The planets circulating, each within its sphere,
 Are subject to _immersion_ when the sun they near.
 The moon in splendour far excels each tiny star.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 But near its change it dwindles almost to a hair.
 The very earth, that in firm steadfastness doth sit,
@@ -1028,7 +1028,7 @@ What wonder that all's transient,—that all suffering ends?”
 ’Twas thus the hare the lion tricked with specious lies;
 And added: “Hence the reason why I cannot rise.”
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 The lion answered: “I see naught to cause thy fear.
 <sup id="v415"><small>415</small></sup>  Point out to me the object seems to thee so drear.”
@@ -1068,7 +1068,7 @@ For thy own self a pit thou diggest; our tale to wit.
 Thou weavest round thyself a web, as does silkworm;
 <sup id="v430"><small>430</small></sup>  Thou’lt not escape unless to justice thou conform.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 Look not upon the weak as quite without a friend.
 Reflect; ’tis said: “When God's help comes.”[^174] Where's then thy end?
@@ -1105,7 +1105,7 @@ Commits the lion's error;—springs upon himself.
 O thou who loath’st a mole upon thy neighbour's cheek,
 <sup id="v445"><small>445</small></sup>  Reflect. ’Tis but an image. Thy own features seek.
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 Believers are as mirrors; each sees self in each.
 So said the Prophet. His words to us truth may teach.
@@ -1144,7 +1144,7 @@ He clapped his hands for joy at his escape from death,
 Its stalk and leaf break forth from prison underground.
 It rears itself apace, makes friends with th’ air around.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 The leaves burst from the stem, and spread themselves abroad;
 Until by growth a tree, whose grace all men applaud.
@@ -1178,7 +1178,7 @@ Has had his teeth extracted, through our Maker's grace.
 He who so many crushed with paw of tyranny,
 <sup id="v475"><small>475</small></sup>  Like rubbish has been swept by death's broom clean away.”
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 A convocation now was held by all the beasts,
 Hilarity and joy enlivened all their breasts.
@@ -1213,7 +1213,7 @@ Airs give not thou thyself; thou’rt but a passing guest.
 They whose eternal kingship lasts beyond all times,[^176]
 <sup id="v490"><small>490</small></sup>  Who sing God's praise beyond the seven spheres and climes,
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 They more endure than transient reigns of kings’ short rolls.
 They are the never-failing feeders of men's souls.

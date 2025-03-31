@@ -47,7 +47,7 @@ His chamber in the palace sought.
 Then, as the surest hope of all,
 The monarch bade his servants call
 
-<span id="p451">[<sup><small>p. 451</small></sup>]</span>
+<span id="p451"><sup><small>[ p. 451 ]</small></sup></span>
 
 Vidyujjihva, whom magic skill
 Made master of the means of ill.
@@ -169,7 +169,7 @@ As \*\*\*\* the \*\*\*\*\*\*\*\*\* lays at length
 Slowly regaining sense and strength,
 On the dear head she \*\*\*\*\*\*\*\* her eye
 
-<span id="p452">[<sup><small>p. 452</small></sup>]</span>
+<span id="p452"><sup><small>[ p. 452 ]</small></sup></span>
 
 And cried with very bitter cry:
 ‘Ah, when thy cold dead cheek I view,
@@ -293,7 +293,7 @@ Vast hosts who fight with brandished tree,
 For whom, with eye that never sleeps,
 His constant watch thy Ráma keeps?
 
-<span id="p453">[<sup><small>p. 453</small></sup>]</span>
+<span id="p453"><sup><small>[ p. 453 ]</small></sup></span>
 
 Lord of the mighty arm and chest,
 Of earthly warriors first and best,
@@ -416,7 +416,7 @@ As Saramá her tale began:
 ‘There stood the royal mother: she
 Besought her son to set thee free,
 
-<span id="p454">[<sup><small>p. 454</small></sup>]</span>
+<span id="p454"><sup><small>[ p. 454 ]</small></sup></span>
 
 And to her counsel, tears and prayers,
 The elder nobles added theirs:
@@ -539,7 +539,7 @@ The ocean with a bridge has spanned.
 O giant King, the dame release,
 And sue to Raghu's son for peace’
 
-<span id="p455">[<sup><small>p. 455</small></sup>]</span>
+<span id="p455"><sup><small>[ p. 455 ]</small></sup></span>
 
 
 
@@ -651,7 +651,7 @@ The king, encompassed with a host
 Of giants trained in war, whose hands
 Wield maces, swords and lances, stands.
 
-<span id="p456">[<sup><small>p. 456</small></sup>]</span>
+<span id="p456"><sup><small>[ p. 456 ]</small></sup></span>
 
 All these are chiefs whom Rávan chose
 As mightiest to resist his foes;
@@ -771,7 +771,7 @@ And, clothed with flowers of every hue,
 And its golden alin \* thr \*.
 More fair to see the \* mountain's head
 
-<span id="p457">[<sup><small>p. 457</small></sup>]</span>
+<span id="p457"><sup><small>[ p. 457 ]</small></sup></span>
 
 A hundred leagues in length was spread.
 There Rávan's town, securely placed,

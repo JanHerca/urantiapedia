@@ -81,7 +81,7 @@ To cast a bridge athwart the sea,
 The city of our foe to reach
 That crowns the mountain by the beach;
 
-<span id="p428">[<sup><small>p. 428</small></sup>]</span>
+<span id="p428"><sup><small>[ p. 428 ]</small></sup></span>
 
 And when our feet that isle shall tread,
 Rejoice and deem thy foeman dead.
@@ -204,7 +204,7 @@ Bodes glory to our enterprise.
 This arm shall slay the fiend; and she.
 My consort, shall again be free.
 
-<span id="p429">[<sup><small>p. 429</small></sup>]</span>
+<span id="p429"><sup><small>[ p. 429 ]</small></sup></span>
 
 Mine upward-throbbing eye foreshows
 The longed-for triumph o'er my foes.
@@ -316,7 +316,7 @@ The pole-star and the Sainted Seven [^914]
 Shine brightly in the northern heaven,
 And great Tris'anku, [^915] glorious king,
 
-<span id="p430">[<sup><small>p. 430</small></sup>]</span>
+<span id="p430"><sup><small>[ p. 430 ]</small></sup></span>
 
 Ikshváku's son from whom we spring,
 Beams in unclouded glory near
@@ -425,7 +425,7 @@ That her young life is passed in woe.
 Breathe, gentle gale, O breathe where she
 Lies prisoned, and then breathe on me,
 
-<span id="p431">[<sup><small>p. 431</small></sup>]</span>
+<span id="p431"><sup><small>[ p. 431 ]</small></sup></span>
 
 And, though my love I may not meet,
 Thy kiss shall be divinely sweet.
@@ -542,7 +542,7 @@ The Serpent-Gods, and stormed their hold;
 Scaled Mount Kailása and o'erthrew
 Kuvera  [^920] and his Yaksha crew,
 
-<span id="p432">[<sup><small>p. 432</small></sup>]</span>
+<span id="p432"><sup><small>[ p. 432 ]</small></sup></span>
 
 Compelling S'iva's haughty friend
 Beneath a mightier arm to bend?
@@ -656,7 +656,7 @@ Entangled in the net we weave,
 The penalty they both must pay,
 And lose their forfeit lives to-day.’
 
-<span id="p433">[<sup><small>p. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 Then with his warrior soul on fire,
 Nikumbha spoke in burning ire:
@@ -760,7 +760,7 @@ Chief glory of the giants' isle:
 Thus, ere his fiery course be done,
 An autumn cloud admits the sun.
 
-<span id="p434">[<sup><small>p. 434</small></sup>]</span>
+<span id="p434"><sup><small>[ p. 434 ]</small></sup></span>
 
 He heard auspicious voices raise
 With loud accord the note of praise,

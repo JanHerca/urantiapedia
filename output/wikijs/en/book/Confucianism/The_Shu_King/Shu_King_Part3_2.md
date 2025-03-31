@@ -40,7 +40,7 @@ Kan is taken as the name of a place in the southern border of the principality o
 
 The king, about to engage in battle with a rebellious vassal, assembles his generals and troops, and addresses them. He declares obscurely the grounds of the expedition which he had undertaken, and concludes by stimulating the soldiers to the display of courage and observance of order by promises of reward and threats of punishment.
 
-There was a great battle at Kan. (Previous to it), the king called together the six nobles, (the leaders of his six hosts), and said, 'Ah! all ye who <span id="p77">[<sup><small>p. 77</small></sup>]</span> are engaged in my six hosts, I have a solemn announcement to make to you.
+There was a great battle at Kan. (Previous to it), the king called together the six nobles, (the leaders of his six hosts), and said, 'Ah! all ye who <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> are engaged in my six hosts, I have a solemn announcement to make to you.
 
 ‘The lord of Hû wildly wastes and despises the five elements (that regulate the seasons), and has idly abandoned the three acknowledged commencements of the year [^85]. On this account Heaven is about to destroy him, and bring to an end his appointment (to Hû); and I am now reverently executing the punishment appointed by Heaven.\*
 

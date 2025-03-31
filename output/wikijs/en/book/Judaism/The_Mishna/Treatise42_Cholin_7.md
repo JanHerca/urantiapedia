@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 4. If a hip was boiled with the ‏גיד הנשה‎ within it, if that sinew was of sufficient size to impart a flavor to the hip, this latter may not be used. How is this to be calculated? In the same proportion as meat boiled with turnips. [^1237]
 
-<span id="p344">[<sup><small>p. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 § 5. When the Guid Anashé was boiled with other sinews, if that sinew can be recognised \[it must be removed, and\] the other sinews are prohibited, if it could have imparted a flavor to them. [^1238] But when it cannot be recognised, all the sinews are prohibited. The broth \[or liquid in which it is boiled\] may not be used if the Guid Anashé imparted a flavor to it; [^1239] and it is even so if a piece of Nebelah, or of a fish prohibited to be eaten, should have been boiled with other pieces of meat or fish allowed to be eaten: if the first mentioned pieces can be recognised, they are to be removed, and if they could have imparted a flavor to the other pieces, the latter may not be used. If they could not be recognised, all the pieces are prohibited; and thus in respect to the broth, which may not be used, if the flavor of the prohibited pieces could have been imparted to it.
 

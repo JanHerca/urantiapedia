@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 ## III. PRAYER TO OBTAIN DIVINE LOVE.
 

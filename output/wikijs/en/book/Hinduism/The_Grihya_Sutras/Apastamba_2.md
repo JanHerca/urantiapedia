@@ -48,7 +48,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. With the next (verse; M. I, 1, 7) let him send an even number of persons who have assembled there, and who are versed in the Mantras, to fetch water.
 
-8\. [^734] With the next Ya<i>g</i>us (M. I, 1, 8) he places a round piece of Darbha net-work on her head; on that, with the next (verse; M. I, 1, 9) he places a right yoke-hole; on this hole he lays with the next (verse; M. I, 1, 10), a piece of gold, and washes her with the next five verses (M. I, 2, 1-5), (so that the <span id="p259">[<sup><small>p. 259</small></sup>]</span> water runs over that gold and through the yoke-hole); with the next (verse; M. I, 2, 6) he causes her to dress in a fresh garment, and with the next (M. I, 2, 7) he girds her with a rope.
+8\. [^734] With the next Ya<i>g</i>us (M. I, 1, 8) he places a round piece of Darbha net-work on her head; on that, with the next (verse; M. I, 1, 9) he places a right yoke-hole; on this hole he lays with the next (verse; M. I, 1, 10), a piece of gold, and washes her with the next five verses (M. I, 2, 1-5), (so that the <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> water runs over that gold and through the yoke-hole); with the next (verse; M. I, 2, 6) he causes her to dress in a fresh garment, and with the next (M. I, 2, 7) he girds her with a rope.
 
 9\. Then he takes hold of her with the next (verse; M. I, 2, 8) by her right hand, leads her to the fire, spreads a mat, west of the fire, so that the points of the blades in it are directed towards the north, and on this mat they both sit down, the bridegroom to the north.
 
@@ -73,7 +73,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 2, SECTION 5.
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. And the oblation (is performed) with the next (verse; M. I, 5, 7).
 
-9\. (Then follow) again the circumambulation (M. I, 5, 8-10), the injunction to tread on the stone <span id="p261">[<sup><small>p. 261</small></sup>]</span> (I, 5, 11), and the oblation with the next (verse; I, 5, 12);
+9\. (Then follow) again the circumambulation (M. I, 5, 8-10), the injunction to tread on the stone <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> (I, 5, 11), and the oblation with the next (verse; I, 5, 12);
 
 10\. (Then) the circumambulation again (I, 5, 13-15).
 
@@ -119,7 +119,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 21\. First the right one.
 
-22\. When she mounts (the chariot), he recites over her the next (verses; M. I, 6, 4-7). <span id="p262">[<sup><small>p. 262</small></sup>]</span>
+22\. When she mounts (the chariot), he recites over her the next (verses; M. I, 6, 4-7). <span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 23\. With the next (verse; M. I, 6, 8), he spreads out two threads in the wheel-tracks (in which the chariot is to go), a dark-blue one in the right (track), a red one in the left.
 
@@ -142,7 +142,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 5\. If they pass by trees with milky sap or by other trees that serve as marks, by rivers or by deserts, he should murmur the next two (verses; M. I, 7, 8. 9), according to the characteristics in them (which refer to these different cases).
 
-6\. With the next (verse) he shows her the house(M. I, 7, 10). <span id="p263">[<sup><small>p. 263</small></sup>]</span>
+6\. With the next (verse) he shows her the house(M. I, 7, 10). <span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 7\. With the next two (verses; M. I, 7, 11. 12) he unyokes the two animals; the right one first.
 
@@ -156,7 +156,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 12\. When the stars have appeared, he goes out (of the house with her) in an easterly or northerly direction, and shows her the polar star and (the star) Arundhatî with the next two verses (M. I, 9, 6-7), according to the characteristics (contained in those verses).
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

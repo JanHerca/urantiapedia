@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 ## FOURTH ADHYÂYA.
 
@@ -42,15 +42,15 @@ dateCreated: 2025-1-15T22:54:18Z
 
 3\. Thou art woman, thou art man; thou art youth, thou art maiden; thou, as an old man, totterest [^782] along on thy staff; thou art born with thy face turned everywhere.
 
-4\. Thou art the dark-blue bee, thou art the green <span id="p250">[<sup><small>p. 250</small></sup>]</span> parrot with red eyes, thou art the thunder-cloud, the seasons, the seas. Thou art without beginning [^783], because thou art infinite, thou from whom all worlds are born.
+4\. Thou art the dark-blue bee, thou art the green <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> parrot with red eyes, thou art the thunder-cloud, the seasons, the seas. Thou art without beginning [^783], because thou art infinite, thou from whom all worlds are born.
 
-5 [^784]. There is one unborn being (female), red, white, and black, uniform, but producing manifold offspring. There is one unborn being (male) who loves her and lies by her; there is another who leaves her, while she is eating what has to be eaten. <span id="p251">[<sup><small>p. 251</small></sup>]</span> 6 [^785]. Two birds, inseparable friends, cling to the same tree. One of them eats the sweet fruit, the other looks on without eating.
+5 [^784]. There is one unborn being (female), red, white, and black, uniform, but producing manifold offspring. There is one unborn being (male) who loves her and lies by her; there is another who leaves her, while she is eating what has to be eaten. <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> 6 [^785]. Two birds, inseparable friends, cling to the same tree. One of them eats the sweet fruit, the other looks on without eating.
 
 7\. On the same tree man sits grieving, immersed, bewildered, by his own impotence (an-î<i>s</i>â). But when he sees the other lord (î<i>s</i>a) contented, and knows his glory, then his grief passes away.
 
 8 [^786]. He who does not know that indestructible being of the <i>Ri</i>g-Veda, that highest ether-like (Self) wherein all the gods reside, of what use is the <i>Ri</i>g-Veda to him? Those only who know it, rest contented.
 
-9\. That from which the maker (mâyin [^787]) sends forth all this—the sacred verses, the offerings, the sacrifices, the panaceas, the past, the future, and all <span id="p252">[<sup><small>p. 252</small></sup>]</span> that the Vedas declare—in that the other is bound up through that mâyâ.
+9\. That from which the maker (mâyin [^787]) sends forth all this—the sacred verses, the offerings, the sacrifices, the panaceas, the past, the future, and all <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> that the Vedas declare—in that the other is bound up through that mâyâ.
 
 10\. Know then Prak<i>ri</i>ti (nature) is Mâyâ (art), and the great Lord the Mâyin (maker); the whole world is filled with what are his members.
 
@@ -60,7 +60,7 @@ dateCreated: 2025-1-15T22:54:18Z
 
 13\. He who is the sovereign of the gods, he in whom all the worlds [^790] rest, he who rules over all two-footed and four-footed beings, to that god [^791] let us sacrifice an oblation.
 
-14\. He who has known him who is more subtile than subtile, in the midst of chaos, creating all things, having many forms, alone enveloping everything [^792], the happy one (<i>S</i>iva), passes into peace for ever. <span id="p253">[<sup><small>p. 253</small></sup>]</span> 15\. He also was in time [^793] the guardian of this world, the lord of all, hidden in all beings. In him the Brahmarshis and the deities are united [^794], and he who knows him cuts the fetters of death asunder.
+14\. He who has known him who is more subtile than subtile, in the midst of chaos, creating all things, having many forms, alone enveloping everything [^792], the happy one (<i>S</i>iva), passes into peace for ever. <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> 15\. He also was in time [^793] the guardian of this world, the lord of all, hidden in all beings. In him the Brahmarshis and the deities are united [^794], and he who knows him cuts the fetters of death asunder.
 
 16\. He who knows <i>S</i>iva (the blessed) hidden in all beings, like the subtile film that rises from out the clarified butter [^795], alone enveloping everything,—he who knows the god, is freed from all fetters.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-1-15T22:54:18Z
 
 19\. No one has grasped him above, or across, or in the middle [^801]. There is no image of him whose name is Great Glory.
 
-20\. His form cannot be seen, no one perceives him with the eye. Those [^802] who through heart and <span id="p254">[<sup><small>p. 254</small></sup>]</span> mind know him thus abiding in the heart, become immortal.
+20\. His form cannot be seen, no one perceives him with the eye. Those [^802] who through heart and <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> mind know him thus abiding in the heart, become immortal.
 
 21\. ‘Thou art unborn,’ with these words some one comes near to thee, trembling. O Rudra, let thy gracious [^803] face protect me for ever!
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 ## YASNA X.
 
@@ -44,7 +44,7 @@ I praise thee with my voice, while I grasp at first thy shoots. At thy next pres
 
 3\. I praise the cloud that waters thee, and the rains which make thee grow on the summits of the mountains; and I praise thy lofty mountains where the H(a)oma branches spread [^995].
 
-4\. This wide earth do I praise, expanded far (with paths), the productive, the full bearing, thy mother, holy plant! Yea, I praise the lands where thou dost grow, sweet-scented, swiftly spreading, the good growth of the Lord. O H(a)oma, thou growest on the mountains, apart on many paths [^996], and there still may’st thou flourish. The springs of Righteousness most verily thou art, (and the fountains of the ritual find their source in thee)! <span id="p241">[<sup><small>p. 241</small></sup>]</span> 5\. Grow (then) because I pray to thee on all thy stems and branches, in all thy shoots (and tendrils) increase thou through my word!
+4\. This wide earth do I praise, expanded far (with paths), the productive, the full bearing, thy mother, holy plant! Yea, I praise the lands where thou dost grow, sweet-scented, swiftly spreading, the good growth of the Lord. O H(a)oma, thou growest on the mountains, apart on many paths [^996], and there still may’st thou flourish. The springs of Righteousness most verily thou art, (and the fountains of the ritual find their source in thee)! <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> 5\. Grow (then) because I pray to thee on all thy stems and branches, in all thy shoots (and tendrils) increase thou through my word!
 
 ---
 
@@ -60,7 +60,7 @@ Who as a tender son caresses H(a)oma, forth to the bodies of such persons H(a)om
 
 10\. Swift [^997] and wise hath the well-skilled [^998] Deity created thee; swift and wise on high Haraiti did He, the well-skilled, plant thee.
 
-11\. And taught (by implanted instinct) on every <span id="p242">[<sup><small>p. 242</small></sup>]</span> side, the bounteous [^999] birds have carried thee to the Peaks-above-the-eagles [^1000], to the mount's extremest summit, to the gorges and abysses, to the heights of many pathways [^1001], to the snow-peaks ever whitened.
+11\. And taught (by implanted instinct) on every <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> side, the bounteous [^999] birds have carried thee to the Peaks-above-the-eagles [^1000], to the mount's extremest summit, to the gorges and abysses, to the heights of many pathways [^1001], to the snow-peaks ever whitened.
 
 12\. There, H(a)oma, on the ranges dost thou grow of many kinds. Now thou growest of milky whiteness, and now thou growest golden; and forth thine healing liquors flow for the inspiring of the pious. So terrify away from me the (death's) aim of the curser. So terrify and crush his thought who stands as my maligner.
 
@@ -68,7 +68,7 @@ Who as a tender son caresses H(a)oma, forth to the bodies of such persons H(a)om
 
 14\. Do not vanish from me suddenly like milk-drops in the rain; let thine exhilarations go forth ever vigorous and fresh; and let them come to me with strong effect. Before thee, holy H(a)oma, thou bearer of the ritual truth, and around thee would I cast this body, a body which (as all) may see (is fit for gift and) grown [^1002].
 
-15\. I renounce with vehemence the murderous woman's [^1003] emptiness, the <i>G</i>aini's, hers, with intellect <span id="p243">[<sup><small>p. 243</small></sup>]</span> dethroned [^1004]. She vainly thinks to foil us, and would beguile both Fire-priest and H(a)oma; but she herself, deceived therein, shall perish. And when she sits at home [^1005], and wrongly eats of H(a)oma's offering, priest's mother will that never make her, nor give her holy [^1006] sons!
+15\. I renounce with vehemence the murderous woman's [^1003] emptiness, the <i>G</i>aini's, hers, with intellect <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> dethroned [^1004]. She vainly thinks to foil us, and would beguile both Fire-priest and H(a)oma; but she herself, deceived therein, shall perish. And when she sits at home [^1005], and wrongly eats of H(a)oma's offering, priest's mother will that never make her, nor give her holy [^1006] sons!
 
 ---
 
@@ -80,7 +80,7 @@ To Obedience am I given, and to deaf disobedience, not; to the saint do I belong
 
 17\. Thereupon spake Zarathu<i>s</i>tra: Praise to H(a)oma, Mazda-made. Good is H(a)oma, Mazda-made. All the plants of H(a)oma praise I, on the heights of lofty mountains, in the gorges of the valleys, in the clefts (of sundered hill-sides) cut for the bundles bound by women. From the silver cup I pour Thee to the golden chalice over [^1008]. Let me not thy (sacred) liquor spill to earth, of precious cost.
 
-18\. These are thy Gâthas [^1009], holy H(a)oma, these <span id="p244">[<sup><small>p. 244</small></sup>]</span> thy songs, and these thy teachings [^1010], and these thy truthful ritual words, health [^1011]\-imparting, victory-giving, from harmful hatred healing giving.
+18\. These are thy Gâthas [^1009], holy H(a)oma, these <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> thy songs, and these thy teachings [^1010], and these thy truthful ritual words, health [^1011]\-imparting, victory-giving, from harmful hatred healing giving.
 
 19\. These and thou art mine, and forth let thine exhilarations flow; bright and sparkling let them hold on their (steadfast) way; for light are thine exhilaration(s), and flying lightly come they here. Victory-giving smiteth H(a)oma, victory-giving is it worshipped; with this Gâthic word we praise it.
 

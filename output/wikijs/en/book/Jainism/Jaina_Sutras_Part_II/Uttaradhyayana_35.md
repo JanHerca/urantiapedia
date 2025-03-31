@@ -36,7 +36,7 @@ THIRTY-FIFTH LECTURE. THE HOUSELESS MONK.
 
 Learn from me, with attentive minds, the road shown by the wise ones [^576], which leads a monk who follows it, to the end of all misery. (1)
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 Giving up the life in a house, and taking Pravra<i>g</i>yâ, a sage should know and renounce those attachments which take hold of men. (2)
 
@@ -54,7 +54,7 @@ He should not build a house, nor cause others to erect one; for many living bein
 
 The same holds good with the cooking of food and drink, or with one's causing them to be cooked. Out of compassion for living beings one should not cook nor cause another to cook. (10)
 
-Beings which live in water, corn, or in earth and <span id="p205">[<sup><small>p. 205</small></sup>]</span> wood, are destroyed in food and drink; therefore a monk should cause nobody to cook. (11)
+Beings which live in water, corn, or in earth and <span id="p205"><sup><small>[ p. 205 ]</small></sup></span> wood, are destroyed in food and drink; therefore a monk should cause nobody to cook. (11)
 
 There is nothing so dangerous as fire, for it spreads in all directions and is able to destroy many beings; one should therefore not light a fire. (12)
 
@@ -72,7 +72,7 @@ Even in his thoughts he should not desire to be presented with flowers, to be of
 
 He should meditate on true things only [^579], committing no sins and having no property; he should walk about careless of his body till his end arrives. 09)
 
-Rejecting food when the time of his death arrives, <span id="p206">[<sup><small>p. 206</small></sup>]</span> and leaving the human body, he becomes his own master [^580], and is liberated from misery. (20)
+Rejecting food when the time of his death arrives, <span id="p206"><sup><small>[ p. 206 ]</small></sup></span> and leaving the human body, he becomes his own master [^580], and is liberated from misery. (20)
 
 Without property, without egoism, free from passions and the Âsravas, he obtains absolute knowledge, and reaches eternal beatitude. (21)
 

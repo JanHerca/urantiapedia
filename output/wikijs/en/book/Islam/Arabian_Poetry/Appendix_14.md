@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p405">[<sup><small>p. 405</small></sup>]</span>
+<span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 
 \*\*\* Of the biographical, historical, and critical Notes prefixed to Carlyle's translations, the more lengthy ones are, with a few exceptions, here presented in an abridged form. Additional Notes are placed within brackets.
 
@@ -56,7 +56,7 @@ Should it pass where Hafiz lies,
 From his conscious dust would rise
 Flow’rets of a thousand dyes.\]
 
-<span id="p406">[<sup><small>p. 406</small></sup>]</span>
+<span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 
 ## HATIM TAI, THE GENEROUS ARAB CHIEF—[p. 99](./Shorter_Pieces.md#p99).
 
@@ -64,7 +64,7 @@ Hatim Tai was an Arabian chief who lived a short time prior to the promulgation 
 
 The Emperor of Constantinople having heard much of Hatim's liberality, resolved to make trial of it. For this purpose he despatched a person from his court to request a particular horse which he knew the Arabian Prince valued above all his other possessions. The officer arrived at Hatim's abode in a Clark tempestuous night, at a season when all the horses were at pasture in the meadows. He was received in a manner suitable to the dignity of the imperial envoy, and treated that night with the utmost hospitality. The next day the officer delivered to Hatim his message from the Emperor, at which Hatim appeared greatly concerned. “If,” said he, “you had yesterday apprised me of your errand, I should instantly have complied with the Emperor's request, but the horse he asks is now no more: being surprised by your sudden arrival, and having nothing else to regale you with, I ordered that particular horse to be killed, and served up to you last night for supper.” (The Arabians prefer the flesh of horses to any other food.) Hatim immediately ordered the finest horses to be brought, and begged the ambassador to present them to his master. The Emperor could not but admire this mark of Hatim's generosity, and confessed that he truly deserved the title of the most liberal among men.
 
-<span id="p407">[<sup><small>p. 407</small></sup>]</span>
+<span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
 It was the fate of Hatim to give umbrage to other monarchs. Numan, King of Yemen, conceived a violent jealousy against him, on account of his reputation; and thinking it easier to destroy than surpass him, the envious prince commissioned one of his sycophants to rid him of his rival. The courtier hastened to the desert where the Arabs were encamped. Discovering their tents at a distance, he reflected that he had never seen Hatim, and was contriving means to obtain a knowledge of his person, without exposing himself to suspicion. As he advanced, deep in meditation, he was accosted by a man of an amiable figure, who invited him to his tent. He accepted the invitation, and was charmed with the politeness of his reception. After a splendid repast, he offered to take leave, but the Arab requested him to prolong his visit.
 
@@ -76,7 +76,7 @@ The courtier resolved to avail himself of the offer of his host, and accordingly
 
 “I have promised you my service,” answered the Arab. “Behold, I am a slave to my word. Strike!” said he, uncovering his bosom—“spill the blood of Hatim, and may my death gratify the wish of your prince, and procure you the reward you hope for. But the moments are precious; defer not the execution of your king's command, and depart with all possible expedition; the darkness will aid your escape from the revenge of my friends: if to-morrow you be found here, you are inevitably undone.”
 
-<span id="p408">[<sup><small>p. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 These words were as a thunderbolt to the courtier. Struck with a sense of his crime and the magnanimity of Hatim, he fell down on his knees, exclaiming: “God forbid that I should lay a sacrilegious hand on you! Nothing shall ever urge me to such baseness.” He then quitted the tent and took the road again to Yemen.
 
@@ -105,7 +105,7 @@ The antitheses contained in the second and last stanzas of this poem are much ad
 
 There have been several poets of the name of Nabegat: the author of these verses was descended from the family of Jaid. As he died in the 40th year of the Hijra \[a.d. 660\], aged one hundred and twenty, he must have been fourscore at the promulgation of Islām; he however declared himself an early convert to the new faith. The Arabian historians give us a curious instance of Mohammed's affection for him. Nabegat, being one day introduced to the Prophet, was received by him with a salutation usual enough amongst the Arabians: “May God preserve thy mouth!” This benediction, proceeding from lips so sacred, had such an effect, that in an instant the poet's teeth, which were loosened by his great age, became firm in his head, and continued sound and beautiful as long as he lived. The Mohammedan doctors however are much divided in opinion upon the important point, whether Nabegat actually retained all his original teeth, or whether, having lost them, he got a new set.
 
-<span id="p411">[<sup><small>p. 411</small></sup>]</span>
+<span id="p411"><sup><small>[ p. 411 ]</small></sup></span>
 
 ## THE SONG OF MAISUNA—[p. 105](./Shorter_Pieces.md#p105).
 
@@ -143,7 +143,7 @@ The differences observable in these two translations and in that by Carlyle prob
 
 Mu‘āwiya was the fifth Khalif in succession from Muhammad, and the founder of the house of ’Umayya.\]
 
-<span id="p412">[<sup><small>p. 412</small></sup>]</span>
+<span id="p412"><sup><small>[ p. 412 ]</small></sup></span>
 
 ## THE IMAM SHAFAY—[p. 108](./Shorter_Pieces.md#p108).
 
@@ -161,7 +161,7 @@ Isaac Almousely is considered by the Orientals as the most celebrated musician t
 
 Haroun Alrashid having quarrelled with his favourite mistress, Meridah, left her in a rage, and refused to see her again. The lady was in despair, and knew not in what manner to bring about a reconciliation. In the mean time the vizier, Jaafer, who had always been a friend to Meridah, sent for Almousely, and giving him a song, composed for the purpose, requested him to perform it before the Khalif with all the pathos he was master of. Almousely obeyed; and such were the powers of his execution, that Haroun, immediately bidding adieu to his anger, rushed into the presence of Meridah, and taking all the blame of the quarrel upon himself, entreated his mistress to forgive his indiscretion, and bury what was past in an eternal oblivion. The historian adds (for such must always be the catastrophe of an Eastern story when it terminates happily), that the lady, overjoyed with this sudden alteration in the Khalif's disposition, ordered ten thousand dirhems to be given to Jaafer, and as much to Almousely; while Haroun, on his part, not less pleased with their reconciliation than the lady, doubled the present to each.
 
-<span id="p415">[<sup><small>p. 415</small></sup>]</span>
+<span id="p415"><sup><small>[ p. 415 ]</small></sup></span>
 
 ## THE RUIN OF THE BARMECIDES—[p. 111](./Shorter_Pieces.md#p111).
 
@@ -173,7 +173,7 @@ The disgrace and consequent ill-treatment of the Barmecides throw an eternal sta
 
 The Khalif had a sister called Abassa, of whom he was passionately fond, and whose company he preferred to everything but the conversation of Jaafer. These two pleasures he would fain have joined together, by carrying Jaafer with him in his visits to Abassa; but the laws of the Harem, which forbade anyone except a near relation being introduced there, made that impossible; and he was obliged to be absent either from his sister or from his favourite. At length he discovered a method which he hoped would enable him to enjoy at the same time the society of these two persons who were so dear to him: This was to unite Jaafer and Abassa in marriage. They were married accordingly; but with this express condition, that they should never meet except in the presence of the Khalif. Their interviews, however, were very frequent; and as neither could be insensible of the amiable qualities which the other possessed, a mutual affection took place between them. Blinded by their passion, they forgot the Khalif's injunction, and the consequences of their intercourse were but too apparent. Abassa was delivered of a son, whom they privately sent to be educated at Mecca. For some time their amour was concealed from Alrashid; but the Khalif having at length received intelligence of it, he gave way to his rage, and determined to take the most severe revenge. In consequence of this cruel resolve, he immediately commanded Jaafer to be put to death, and the whole race of Barmec to be deprived of their possessions and thrown into prison. These orders were obeyed: Jaafer was beheaded in the antechamber of the royal apartment, whither he had come to request an interview with the implacable Haroun; and his father and brothers perished in confinement.
 
-Some of the consolatory words which Yahia delivered to his unfortunate family, whilst they were in prison, are preserved by <span id="p417">[<sup><small>p. 417</small></sup>]</span> Ben Shonah: “Power and wealth,” said the venerable old man, “were but a loan with which fortune entrusted us: we ought to be thankful that we have enjoyed these blessings so long; and we ought to console ourselves for their loss by the reflection that our fate will afford a perpetual example to others of their instability.”—The fall of the house of Barmec was considered as a general calamity. By their courtesy, their abilities, and their virtues, they had endeared themselves to everyone; and, according to an Oriental writer, “they enjoyed the singular felicity of being loved as much when in the plenitude of their power as in a private station; and of being praised as much after their disgrace as when they were at the summit of their prosperity.”
+Some of the consolatory words which Yahia delivered to his unfortunate family, whilst they were in prison, are preserved by <span id="p417"><sup><small>[ p. 417 ]</small></sup></span> Ben Shonah: “Power and wealth,” said the venerable old man, “were but a loan with which fortune entrusted us: we ought to be thankful that we have enjoyed these blessings so long; and we ought to console ourselves for their loss by the reflection that our fate will afford a perpetual example to others of their instability.”—The fall of the house of Barmec was considered as a general calamity. By their courtesy, their abilities, and their virtues, they had endeared themselves to everyone; and, according to an Oriental writer, “they enjoyed the singular felicity of being loved as much when in the plenitude of their power as in a private station; and of being praised as much after their disgrace as when they were at the summit of their prosperity.”
 
 ## TAHER BEN HOSEIN—[p. 112](./Shorter_Pieces.md#p112).
 
@@ -193,7 +193,7 @@ Couldst thou, sweet youth, thine eye to Julia grant,
 
 ## THE ADIEU—[p. 113](./Shorter_Pieces.md#p113).
 
-This beautiful little composition, which hears a striking resemblance to one of Sappho's odes, was sung before the <span id="p418">[<sup><small>p. 418</small></sup>]</span> Khalif Wathek, by Abu Mohammed, a musician of Bagdad, as a specimen of his musical talents; and such were its effects upon the Khalif, that he immediately testified his approbation of the performance by throwing his own robe over the shoulders of Abu Mohammed, and ordering him a present of a hundred thousand dirhems.—Wathek was the ninth Khalif of the house of Abbas, and a son of Motassem, the youngest of Haroun Alrashid's children. He succeeded his father a.d. 841, and died after a short reign of five years. Wathek was not deficient either in virtue or abilities: he not only admired and countenanced literature and science, but in several branches of them, particularly poetry and music, was himself a proficient. His last words were.: “King of heaven, whose dominion is everlasting, have mercy on a wretched prince, whose reign is transitory!”
+This beautiful little composition, which hears a striking resemblance to one of Sappho's odes, was sung before the <span id="p418"><sup><small>[ p. 418 ]</small></sup></span> Khalif Wathek, by Abu Mohammed, a musician of Bagdad, as a specimen of his musical talents; and such were its effects upon the Khalif, that he immediately testified his approbation of the performance by throwing his own robe over the shoulders of Abu Mohammed, and ordering him a present of a hundred thousand dirhems.—Wathek was the ninth Khalif of the house of Abbas, and a son of Motassem, the youngest of Haroun Alrashid's children. He succeeded his father a.d. 841, and died after a short reign of five years. Wathek was not deficient either in virtue or abilities: he not only admired and countenanced literature and science, but in several branches of them, particularly poetry and music, was himself a proficient. His last words were.: “King of heaven, whose dominion is everlasting, have mercy on a wretched prince, whose reign is transitory!”
 
 \[This prince is the hero of Beckford's “Arabian” tale of _Vathek_, which Byron has highly praised for “correctness of costume, beauty of description, and power of imagination;” but, though certainly a remarkable work of fancy, it is far from meriting the encomiums which were at one time so lavishly bestowed upon it.\]
 
@@ -264,7 +264,7 @@ This author was a native of Naharwan, but he lived principally at Bagdad, where 
 
 The occasion of this odd composition and its real intent are variously related. Some say that it means no more than it pretends to do, and that it was actually composed on the death of a favourite Cat. Others tell us that the poet here laments the misfortunes of Abdallah Ebn Motaz, who was raised to the Khalifate by a popular tumult, a.h. 296 \[a.d. 908\], and, after enjoying his dignity a single day, put to death by his rival Moctader. As the poet durst not show his grief for Abdallah in a more open manner, he invented, according to these authors, this allegory, in which the fate of Abdallah is represented under that of a cat. But the opinion most generally received is that these verses were composed as an elegy upon the death of a private friend, whose name is not known, but who, like Abdallah, owed his ruin to the rash gratification of a headstrong passion. This young man entertained an affection for a favourite female slave belonging to the vizier Ali Ben Isa, and was equally beloved by her in return. Their amour had been concealed for some time, but the lovers being one day unfortunately surprised in each other's company by the jealous vizier, he sacrificed them both to his fury upon the spot.
 
-<span id="p424">[<sup><small>p. 424</small></sup>]</span>
+<span id="p424"><sup><small>[ p. 424 ]</small></sup></span>
 
 ## EBN NAPHTA-WAH—[p. 126](./Shorter_Pieces.md#p126).
 
@@ -278,7 +278,7 @@ Radhi Billah, the son of Moctader, was the twentieth Khalif of the house of Abba
 
 The Court of Aleppo, during the reign of Saif Addaulet Ia.d. 944-966\], was the most polished in the East: the Sultan and his brothers were all eminent for poetical talents, and whoever excelled, either in literature or in science, was sure of obtaining their patronage; so that at a time when not only Europe, but great part of Asia, was sunk in the profoundest ignorance, the Sultan of Aleppo could boast of such an assemblage of genius at his court as few sovereigns have ever been able to bring together.—Elmacin relates that Saif Addaulet, having conceived a passion for a princess of the blood royal, gave such public marks of the preference he entertained for her, that the ladies of his harem took alarm, and resolved to rid themselves of the object of their jealousy by means of poison. The Sultan, however, obtained intelligence of their design, and determined to prevent it, by transporting the princess to a castle at some distance from Aleppo; and whilst she remained in this solitude he addressed to her these verses.
 
-<span id="p425">[<sup><small>p. 425</small></sup>]</span>
+<span id="p425"><sup><small>[ p. 425 ]</small></sup></span>
 
 ## THE CRUCIFIXION OF EBN BAKIAH—[p. 132](./Shorter_Pieces.md#p132).
 
@@ -296,7 +296,7 @@ After the character given of Shems Almaali, it is almost superfluous to add that
 
 ## ON LIFE—[p. 134](./Shorter_Pieces#p134).
 
-\[A Parallel to the sentiment contained in these verses—but far less elegantly expressed—is found in an old Greek epigram, which Major Robert Guthrie Macgregor has thus translated: <span id="p427">[<sup><small>p. 427</small></sup>]</span> (“Greek Anthology, with Notes Critical and Explanatory,” Sect, vii., 148, p. 567)
+\[A Parallel to the sentiment contained in these verses—but far less elegantly expressed—is found in an old Greek epigram, which Major Robert Guthrie Macgregor has thus translated: <span id="p427"><sup><small>[ p. 427 ]</small></sup></span> (“Greek Anthology, with Notes Critical and Explanatory,” Sect, vii., 148, p. 567)
 
 Death dogs us all: we're fattened as a flock
 Of swine, in turn, for slaughter on the block.
@@ -331,7 +331,7 @@ Abu Alola is esteemed one of the most excellent of the Arabian poets. He was bor
 
 The character and fate of this illustrious statesman are thus described by Gibbon: “In a period when Europe was plunged in the deepest barbarism, the light and splendour of Asia may be ascribed to the docility rather than the knowledge of the Turkish conquerors. An ample share of their wisdom and virtue is due to a Persian vizier who ruled the empire under Alp Arslan and his son. Nedham, one of the most illustrious ministers of the East, was honoured by the Khalif as an oracle of religion and science; he was trusted by the Sultan as the faithful vicegerent of his power and justice. After an administration of thirty years, the fame of the vizier, his wealth, and even his services were transformed into crimes. He was overthrown by the insidious arts of a woman and a rival; and his fall was hastened by a rash declaration that his cap and inkhorn, the badges of his office, were connected by the divine decree with the throne and diadem of the Sultan. At the age of ninety-three years the venerable statesman was dismissed by his master, accused by his enemies, and murdered by a fanatic. The last words of Nedham attested his innocence, and the remainder of Malec's life was short and inglorious.”
 
-<span id="p430">[<sup><small>p. 430</small></sup>]</span>
+<span id="p430"><sup><small>[ p. 430 ]</small></sup></span>
 
 Malec died in the year of the Hijra 465 \[a.d. 1072\], and with him expired the greatness and union of the Seljuk empire.
 
@@ -397,7 +397,7 @@ v. 3. “Meat on a butcher's board” is a proverbial expression for that which 
 
 v. 4. The scholiast compares the proverbs (both current in the Ignorance)—“An excellent son-in-law is the Grave,” and “To bury daughters is an act of mercy;” the reference in the latter is to the practice of burying female children alive immediately after birth, which was still prevalent (though not widely spread) among the pagan Arabs at the time of the Prophet's mission. The lot of women among the Arabs of the Ignorance was a hard one; and it is most probable that the practice in question was perpetuated, if it did not begin, in the desire to save the family the shame of seeing its women ill-used or otherwise disgraced.
 
-<span id="p433">[<sup><small>p. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 v. 5. He looks forward to the time when his daughter will be 'left fatherless, and find no love such as that which she found in him.
 
@@ -411,13 +411,13 @@ Abu Ismael was a native of Ispahan. He devoted himself to the service of the Sel
 
 This composition has obtained more general approbation than almost any poem extant in the East; it is celebrated by the historians, commented on by the critics, and quoted by the people. I have therefore given it entire from the edition of Dr. Pocock.—The extreme popularity of this production is a striking proof of the decay of all true taste amongst the Orientals: it were otherwise impossible that they could prefer the laboured conceits and tinsel ornaments of Abu Ismael to the simplicity of the bards of Yemen, and the elegance of the poets of Bagdad.
 
-<span id="p434">[<sup><small>p. 434</small></sup>]</span>
+<span id="p434"><sup><small>[ p. 434 ]</small></sup></span>
 
 \[Such is our translator's estimate of the Lāmiyyatu-’l-‘Ajem, to which, whatever may be its shortcomings, his own rendering into English verse has certainly not done justice. It were much to be wished that Carlyle had endeavoured to preserve in his translation the external form, at least, of the original verses; but this could hardly have been expected perhaps in an age when our own English poetry was characterised by an absurd affectation of refined “sensibility,” and was, according to Lord Byron, [as](./errata.htm#6) artificial as Carlyle would have us believe this poem of Et-Tugrā‘ī to be. And yet, in 1758, or forty years before the first edition (very inaccurately printed, by the way) of Carlyle's “Specimens” was published, the Lāmiyyatu-’l-‘Ajem, under the title of “The Traveller: an Arabic Poem,” was “rendered into English verse, in the same iambic measure as the original,” by Leonard Chappelow, BḌ., of Carlyle's own University of Cambridge; of which, strange to say, our translator makes no mention. And it may here be remarked as not less strange, perhaps, that in Lowndes’ _Bibliographer's Manual_, while Dr. Pocock's Latin version of the original, with Notes, and Chappelow's English translation are both noticed, no mention is made of Carlyle's later rendering.
 
 This poem is styled Lāmiyyatu-’l-‘Ajem, or the Lāmiyya of the non-Arabs, from the _rawī_, or binding letter of the rhyme running through the piece, which is the Arabic letter called _lām_ (our “L”); and from the author of it being a Persian, or foreigner: the Arabs distinguishing mankind into two sections—first, themselves, ‘Arabs, and secondly, ‘Ajem, _i.e._, non-Arabs; as the “Jews and Gentiles,” “Greeks and Barbarians.” The author is commonly styled Et-Tūgrā‘ī, from the office he held of “Cypher-writer to the King”—Abu Ismā‘īl had to write the king's _Tūgrā_, or cypher, on all the royal edicts. This office still exists in Turkey: the holder is styled _Tūgrā-kesh_, cypher-drawer, and _tevqī‘ī_, cypherer; formerly, _nishānjī_, marker. The Poet's full name was Mu‘ayyidu-’d-Dīn, Hasan (or Husayn) ’bnu ‘Ali, Abu Ismā‘īl, Et-Tūgrā‘ī—which signifies: Hasan, son of ‘Alī, father of Ismā‘īl, Supporter of the Faith, Cypher-Writer to the Sultān.
 
-<span id="p435">[<sup><small>p. 435</small></sup>]</span>
+<span id="p435"><sup><small>[ p. 435 ]</small></sup></span>
 
 A still more remarkable “L” poem is the Lāmiyyatu-’l-‘Arab of the renowned pre-Islamite brigand-poet Shanfara‘, of whose life and poetry a most fascinating account is given by Mr. W. G. Palgrave, in his “Essays on Eastern Questions.” “Nowhere,” says Mr. Palgrave, “is his indomitable self-reliance more savagely expressed than in this famous poem—famous so long as Arab literature shall exist; the completest utterance ever given of a mind defying its age and all around it, and reverting to, or at least idealizing, the absolute individualism of the savage. It is a monolith, complete in itself; and if ever rendered (though I doubt the possibility) into English verse, must stand alone.”\]
 

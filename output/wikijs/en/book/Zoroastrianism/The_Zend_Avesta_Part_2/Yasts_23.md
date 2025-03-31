@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 XXIII-XXIV. ÂFRÎN PAIGHAMBAR ZARTÛ<i>S</i>T AND VÎ<i>S</i>TÂSP YA<i>S</i>T.
 
@@ -42,7 +42,7 @@ Zartusht, in obedience to God, went to the court of Gushtásp: ‘He came forwar
 
 These lines of the Zartusht-Namah are a summary of the following two Ya<i>s</i>ts. The first, entitled ‘The blessing of the prophet Zartû<i>s</i>t,’ contains the words of blessing addressed by Zarathu<i>s</i>tra when appearing before the king. These words seem to have followed a similar blessing pronounced by <i>G</i>âmâspa [^1362], the prime minister of Vî<i>s</i>tâspa [^1363].
 
-Ya<i>s</i>t XXIV contains the exhortations of the prophet to the king to follow and closely adhere to the Law of Mazda. It is a counterpart to the XIXth Fargard of the Vendîdâd, as Zarathu<i>s</i>tra plays here the same part to Vî<i>s</i>tâspa as Ahura does there to Zarathu<i>s</i>tra. It is, therefore, a summary of the Law, of the duties it <span id="p325">[<sup><small>p. 325</small></sup>]</span> enforces and of the rewards it promises. This accounts for the strange disconnection apparent in it, which makes it a crux interpretum, as, besides the very corrupt state of the text, the chief difficulty of this Ya<i>s</i>t arises from the fact that many passages in it are incomplete quotations from the Vendîdâd, or allusions to statements therein [^1364], which, when supplied, help a good deal to relieve this Ya<i>s</i>t from its apparent state of utter incoherence.
+Ya<i>s</i>t XXIV contains the exhortations of the prophet to the king to follow and closely adhere to the Law of Mazda. It is a counterpart to the XIXth Fargard of the Vendîdâd, as Zarathu<i>s</i>tra plays here the same part to Vî<i>s</i>tâspa as Ahura does there to Zarathu<i>s</i>tra. It is, therefore, a summary of the Law, of the duties it <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> enforces and of the rewards it promises. This accounts for the strange disconnection apparent in it, which makes it a crux interpretum, as, besides the very corrupt state of the text, the chief difficulty of this Ya<i>s</i>t arises from the fact that many passages in it are incomplete quotations from the Vendîdâd, or allusions to statements therein [^1364], which, when supplied, help a good deal to relieve this Ya<i>s</i>t from its apparent state of utter incoherence.
 
 For this translation I was able to avail myself of a Pahlavi translation, of which a copy was kindly lent to me by Mr. West. That translation is apparently of late date and often manifestly wrong; yet it was very useful to me in several passages, besides its giving a Zend text generally more correct and more correctly divided than the text in Westergaard's edition [^1365].
 
@@ -60,7 +60,7 @@ And Zarathu<i>s</i>tra spake unto king Vî<i>s</i>tâspa, saying: 'I bless thee,
 
 2\. 'Mayest thou have a son like <i>G</i>âmâspa, and may he bless thee as (<i>G</i>âmâspa blessed) Vî<i>s</i>tâspa (the lord) of the country [^1366]!
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 ‘Mayest thou be most beneficent, like Mazda!
 
@@ -88,7 +88,7 @@ And Zarathu<i>s</i>tra spake unto king Vî<i>s</i>tâspa, saying: 'I bless thee,
 
 ‘Mayest thou be able to reach the Rangha, whose shores lie afar, as Vafra Navâza was [^1376]!
 
-‘Mayest thou be beloved by the gods and reverenced by men [^1377]! <span id="p327">[<sup><small>p. 327</small></sup>]</span> 5\. 'May ten sons be born of you [^1378]! In three of them mayest thou be an Âthravan! In three of them mayest thou be a warrior! In three of them mayest thou be a tiller of the ground [^1379]! And may one be like thyself, O Vî<i>s</i>tâspa!
+‘Mayest thou be beloved by the gods and reverenced by men [^1377]! <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> 5\. 'May ten sons be born of you [^1378]! In three of them mayest thou be an Âthravan! In three of them mayest thou be a warrior! In three of them mayest thou be a tiller of the ground [^1379]! And may one be like thyself, O Vî<i>s</i>tâspa!
 
 6\. 'Mayest thou be swift-horsed, like the Sun [^1380]!
 
@@ -114,7 +114,7 @@ And Zarathu<i>s</i>tra spake unto king Vî<i>s</i>tâspa, saying: 'I bless thee,
 
 ‘ [^1387] Let us embrace and propagate the good thoughts, good words, and good deeds that have been done and that will be done here and elsewhere, that we may be in the number of the good.
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 ‘Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 

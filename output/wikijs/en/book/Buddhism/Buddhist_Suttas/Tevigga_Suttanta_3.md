@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 ## ON KNOWLEDGE OF THE VEDAS. TEVI<i>GG</i>A-SUTTA. CHAPTER III.
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 3\. 'And he lets his mind pervade one quarter of the world with thoughts of pity, sympathy, and equanimity, and so the second, and so the third, and so the fourth. And thus the whole wide world, above, below, around, and everywhere, does he continue to pervade with heart of pity, sympathy, and equanimity, far-reaching, grown great, and beyond measure.
 
-4\. 'Just, Vâse<i>tth</i>a, as a mighty trumpeter makes himself heard—and that without difficulty—in all the four directions; even so of all things that have <span id="p202">[<sup><small>p. 202</small></sup>]</span> hape or life, there is not one that he passes by or leaves aside, but regards them all with mind set free, and deep-felt pity, sympathy, and equanimity.
+4\. 'Just, Vâse<i>tth</i>a, as a mighty trumpeter makes himself heard—and that without difficulty—in all the four directions; even so of all things that have <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> hape or life, there is not one that he passes by or leaves aside, but regards them all with mind set free, and deep-felt pity, sympathy, and equanimity.
 
 ‘Verily this, Vâse<i>tth</i>a, is the way to a state of union with Brahmâ.’
 
@@ -76,7 +76,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 7\. 'Very good, Vâse<i>tth</i>a. Then in sooth, Vâse<i>tth</i>a, that the Bhikkhu who is free from household cares should after death, when the body is dissolved, become united with Brahmâ, who is the same—such a condition of things is every way possible!
 
-8\. 'And so you say, Vâse<i>tth</i>a, that the Bhikkhu is free from anger, and free from malice, pure in mind, and master of himself; and that Brahmâ is <span id="p203">[<sup><small>p. 203</small></sup>]</span> free from anger, and free from malice, pure in mind, and master of himself. Then in sooth, Vâse<i>tth</i>a, that the Bhikkhu who is free from anger, free from malice, pure in mind, and master of himself should after death, when the body is dissolved, become united with Brahmâ, who is the same-such a condition of things is every way possible!’
+8\. 'And so you say, Vâse<i>tth</i>a, that the Bhikkhu is free from anger, and free from malice, pure in mind, and master of himself; and that Brahmâ is <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> free from anger, and free from malice, pure in mind, and master of himself. Then in sooth, Vâse<i>tth</i>a, that the Bhikkhu who is free from anger, free from malice, pure in mind, and master of himself should after death, when the body is dissolved, become united with Brahmâ, who is the same-such a condition of things is every way possible!’
 
 ---
 
@@ -88,7 +88,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 End of the Tevi<i>gg</i>a Suttanta.
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

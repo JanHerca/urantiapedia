@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 Preface, p. 307, l. 1-10.—Ka‘b, the Poet, and Muhammad, the Lawgiver, were descended, by sixteen and seventeen degrees respectively (not seventeen and fifteen, as stated in the Preface), from Ilyās, the son of Mudhar, the son of Nizār, the son of ‘Adnān; as is shown in the subjoined genealogies, both from An-Nawawī's “Biographical Dictionary,” edited by Wüstenfeld: Göttingen, 1842-47. That of Muhammad is identical with what is found in p. 1, text, of “The Life of Muhammed” of Ibn Hishām, by the same editor; London, 1867. The transliterations are by the translator. Sir W. Jones, in his “Genealogy of the Seven Arabian Poets,” puts “Mozeinah” (read, Muzayna) in the place of ‘Amr, as No. 3, in the descent of Zuhayr, the father of Ka‘b. Muzayna may have been a surname of ‘Amr, as Abū Sulmà was that of Rabī‘a.
 
-<span id="p460">[<sup><small>p. 460</small></sup>]</span>
+<span id="p460"><sup><small>[ p. 460 ]</small></sup></span>
 
 Sir W. Jones adds a name, “‘Awàmer,” between Qaratz and Riyāh—by him written “Kerth” and “Reiáhh”—but Nawawī has it not.
 

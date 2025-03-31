@@ -58,7 +58,7 @@ The Brahman priest, on hearing this, became angry, and asked the Guru if everybo
 By adoring and praising the Name honour and a true thread are obtained.
 _In this way_ a sacred thread shall be put on, which will not break, and which will be fit for entrance into God's court.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 The Guru then wound up his instruction on the subject as follows:—
 
@@ -75,7 +75,7 @@ That, while mentally blind, man is named wise.[^1]
 
 We have seen in the Introduction to this work that Sultanpur was then the capital of the Jalandhar Doab. At that time and up to the period of British occupation, land revenue was generally collected in kind. Surveyors and appraisers called Amils were dispatched from the capital to different districts. Amil Jai Ram was appointed to appraise the revenue demand of Talwandi. While one day surveying a corn-field, he observed Nanaki, sister of Nanak, drawing water from a well, and saw that she was fair to look upon. A marriage between them was arranged through the kind offices of Rai Bular. The lady went and lived with her husband at Sultanpur.
 
-Nanak's marriage must have taken place soon after his sister's. It is related in the Janamsakhi which bears the name of Mani Singh, that Nanak was married at the age of fourteen. His marriage, as is usual in the East, was arranged for him as a matter of religious duty by his parents. He was <span id="p19">[<sup><small>p. 19</small></sup>]</span> betrothed to Sulakhani, daughter of Mula, a resident of Batala[^1] in the present district of Gurdaspur. It would appear that, owing to the distance between Nankana and Batala, which hindered frequent visits and negotiations, the marriage followed very soon after the betrothal. Nanak's sister was present at the wedding, but her husband could not obtain permission to attend. He sent word that he was another person's servant, an apology that was perfectly understood.
+Nanak's marriage must have taken place soon after his sister's. It is related in the Janamsakhi which bears the name of Mani Singh, that Nanak was married at the age of fourteen. His marriage, as is usual in the East, was arranged for him as a matter of religious duty by his parents. He was <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> betrothed to Sulakhani, daughter of Mula, a resident of Batala[^1] in the present district of Gurdaspur. It would appear that, owing to the distance between Nankana and Batala, which hindered frequent visits and negotiations, the marriage followed very soon after the betrothal. Nanak's sister was present at the wedding, but her husband could not obtain permission to attend. He sent word that he was another person's servant, an apology that was perfectly understood.
 
 Nanak appears to have been further trusted in the capacity of a herdsman. While one day herding his buffaloes, he lay down to sleep under a tree during the midday heat. Rai Bular passing by in the evening found him in that attitude, and observed that the protecting shadow of the tree had remained stationary over him, and not veered round like the shadows of the other trees with the sun's progress. On another occasion, as Nanak lay asleep in the pasture ground, it was observed that a large cobra watched over him, and protected the youthful saint with its hood. Rai Bular acknowledged the miraculous powers of the boy, and congratulated Kalu on being the father of such a son. Kalu ought no longer to be displeased with him for his indifference to his worldly affairs. He was a very great man. A jal-tree,[^1] gnarled and maimed by the centuries, is still pointed out as the scene of the former miracle. It possesses a thick trunk, is still gratefully umbrageous, and its venerable branches depend to the earth in a fashion that suggests the pillared shade of the Indian fig-tree.
 
@@ -108,7 +108,7 @@ Without the Name how could I live, O mother?
 Night and day[^1] I repeat it and remain, _O Lord_, under Thy protection.
 Nanak, he who is imbued with the Name obtaineth honour.[^2]
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 After this Nanak lay down, remained in one position for four days, and declined all physical exertion.
 
@@ -126,7 +126,7 @@ In the pride of wealth and the splendour of beauty life hath been wasted.
 The sin of the body is a puddle, the mind is a toad therein, which valueth not at all the lotus.
 The bumble-bee is the teacher,[^3] who preacheth incessantly; but can _the guru_ cause a man to understand who will not understand?[^4]
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Preaching and listening are as _the sough_ of the wind, when man's mind is tinctured by the illusions of the world.
 The Lord casteth a look of favour, and is well pleased with those who meditate on Him alone.
@@ -143,7 +143,7 @@ Mammon hath allured this world, and few there are who understand it.
 
 Then Nanak informed his father that he had sown his own field, and that its harvest was now ready. He had such confidence in his tillage, that, even after deduction of the portion paid in kind to the government as revenue, the full produce would still remain. Sons, daughters, beggars, brethren, and relations would all be profited thereby. He had done farming work for God, who had treated him as a lord does his tenants, and the day that he effected union with his Creator, his soul within him would be glad.
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 On hearing this, his father told him to keep a shop, for a shop was as profitable as tillage. Nanak replied:—
 
@@ -162,7 +162,7 @@ Kalu in despair replied, 'Thou art lost to us; go and take government service. J
 Make attention thy service, faith in the Name thine occupation;
 Make the restraint of evil thine effort, so shall men congratulate thee.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 God will then look on thee, O Nanak, with an eye of favour, and thy complexion shall brighten fourfold.[^1]
 
@@ -186,7 +186,7 @@ Thy store-rooms are filled with Thy praises.
 Who can prevail against him to whom Thou givest?
 Nanak, the True One arrangeth all.[^4]
 
-His father was not satisfied, but further remonstrated <span id="p25">[<sup><small>p. 25</small></sup>]</span> with Nanak. He enjoined him to abandon his whims and act like others, as no one could live without worldly occupation. Nanak was not convinced, so his father in despair left him and went to attend to his ordinary business. Nanak's mother again attempted the worldly reformation of her son. She requested him to forget even for a few days his devotions and go abroad, so that the neighbours might be assured that Kalu's son had recovered his reason. Nanak then uttered the following verses in the Rag Asa:—
+His father was not satisfied, but further remonstrated <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> with Nanak. He enjoined him to abandon his whims and act like others, as no one could live without worldly occupation. Nanak was not convinced, so his father in despair left him and went to attend to his ordinary business. Nanak's mother again attempted the worldly reformation of her son. She requested him to forget even for a few days his devotions and go abroad, so that the neighbours might be assured that Kalu's son had recovered his reason. Nanak then uttered the following verses in the Rag Asa:—
 
 If I repeat the Name, I live; if I forget it, I die;[^1]
 It is difficult to repeat the true Name.
@@ -206,7 +206,7 @@ Thou who madest the day madest also the night.
 They who forget their Spouse[^3] are bad characters;[^4]
 Nanak, without His name they are naught.[^5]
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Then his mother arose and told the household of Nanak's state. Upon this the whole family and relations grew sad, and said it was a great pity that Kalu's son had become mad.
 
@@ -223,7 +223,7 @@ This is my family in whom I ever rejoice.
 The one God who adorned us all is my Lord.
 Nanak, he who forsaketh Him and clingeth to another shall suffer misery.
 
-Guru Nanak then became silent, lay down, and ate and drank nothing. The whole family represented to Kalu that something ought to be done for his son. A physician ought to be called, and medicine prescribed. ‘Who knows but that behind a straw there is a lakh?’ that is, by a small expenditure Nanak may recover. Upon this, Kalu went and brought a physician. The physician came, and began to feel Nanak's pulse. He withdrew his arm, and, drawing in his feet, stood up and said, ‘O <span id="p27">[<sup><small>p. 27</small></sup>]</span> physician, what art thou doing?’ The physician said that he was diagnosing his disease. Upon this Nanak laughed, and then uttered the following verses:—
+Guru Nanak then became silent, lay down, and ate and drank nothing. The whole family represented to Kalu that something ought to be done for his son. A physician ought to be called, and medicine prescribed. ‘Who knows but that behind a straw there is a lakh?’ that is, by a small expenditure Nanak may recover. Upon this, Kalu went and brought a physician. The physician came, and began to feel Nanak's pulse. He withdrew his arm, and, drawing in his feet, stood up and said, ‘O <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> physician, what art thou doing?’ The physician said that he was diagnosing his disease. Upon this Nanak laughed, and then uttered the following verses:—
 
 The physician is sent for to prescribe a remedy; he taketh my hand and feeleth my pulse.
 The ignorant physician knoweth not that it is in my mind the pain is.[^1]
@@ -251,7 +251,7 @@ As man is useful as long as he hath breath in his body,
 So when the breath departeth, the body crumbleth _away and becometh useless_:
 No one taketh medicine after that.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 When man shall possess the Name of the Bright and Radiant[^1] One,
 His body shall become like gold and his soul be made pure;
@@ -277,7 +277,7 @@ There is day, here all is night.
 Let us make penitence the paper,[^5] Thy name, _O Lord_, the prescription.
 They for whom this priceless medicine is prescribed,
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Are fortunate when they reach their final home.
 O Nanak, blessed are the mothers who bore them.[^1]

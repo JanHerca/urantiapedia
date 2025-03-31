@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 
 ALTHOUGH the Buddha had chastened Ajatasatru's spirit, there were times when the king still gave way to anger. One day, because of a quarrel between a man from Rajagriha and one from Cravasti, he declared war on King Prasenajit.
@@ -43,7 +43,7 @@ King Prasenajit also assembled his troops. He too had chariots and horses and el
 
 It was a terrible battle. It lasted four days. The first day Prasenajit lost his elephants; the second day he lost his horses; on the third, his chariots were destroyed; and on the fourth, his foot-soldiers were killed or made prisoners; and Prasenajit himself, defeated and panic-stricken, fled in the only chariot that had been saved in the disaster and escaped to Cravasti.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 There, in a small, unlighted hall, he flung himself down on a low couch. He was silent, a prey to his melancholy thoughts. He never stirred; he appeared to be dead, except for the tears that coursed down his cheeks.
 
@@ -69,7 +69,7 @@ When the two armies met, the din terrified the Gods themselves. Prasenajit used 
 
 “Kill me,” he cried to Prasenajit.
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 “I shall spare your life,” said Prasenajit. “I shall take you to the Blessed Master, and he will decide your fate.”
 
@@ -83,7 +83,7 @@ In the presence of the Master, Ajatasatru promised to be a faithful friend to Pr
 
 “And,” he added, “let us be more than friends. I have a son, as you know, and you have a daughter, Kshema, who is still unmarried. Will you give your daughter to my son?”
 
-“So be it,” said Prasenajit. “And may this <span id="p270">[<sup><small>p. 270</small></sup>]</span> happy marriage be the earnest of our happy friendship.”
+“So be it,” said Prasenajit. “And may this <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> happy marriage be the earnest of our happy friendship.”
 
 The Master approved. The two kings ever after lived at peace with each other, and Ajatasatru became known for his gentleness.
 

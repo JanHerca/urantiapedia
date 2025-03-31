@@ -44,13 +44,13 @@ Abú’l-Fatḥ, therefore, represents the vagabond scholar of Hamadhání's own
 
 The conception was an advance to the dramatic style which, on account of the religious objection to the portrayal or realistic representation of life or the human form, had hitherto been wanting in Arabic literature. [^86]
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 According to the Zahr al-Adáb the occasion of the composing of the Maqámát was as follows: Abú Isḥáq, [^87] surnamed al-Ḥuṣrí, or the maker or seller of mats (ob. at Qairawán A.H. 413). contemporary with Hamadhání, after referring in the most flattering terms to the unique appropriateness of the author's name and appellation, Abú’l Faḍl and Badí ‘al-Zamán, the ‘Father of Excellence’ and the ‘Wonder of the Age’ respectively., writes: ‘When al-Hamadhání observed that Abú Bakr ibn Duraid the Azdite (A.H. 223-321) had composed forty rare stories on a variety of subjects expressed in strange sounding speech and obsolete and incongruous words, such as men’s natures would shrink from and their ears be closed against, which he said he had produced from the springs of his breast, extracted from the mines of his thought and exposed to public view and perception, Hamadhání met him with four hundred Maqámát on mendicity.’ [^88] These are instinct with interest and beauty and between no two of them is there the slightest resemblance, either as regards words or ideas. He attributes the composition and narration of them to two persons. [^89] One of them he called ‘Ísá ibn Hishám and the other he named Abú’l-Fatḥ al-Iskanderí. These two he made to exchange pearls of thought and to give expression to bewitching language such as would cause the sorrowful to laugh and the staid to become excited. ‘In these compositions he, acquaints us with every kind of pleasantry and informs us of every species of subtlety. Generally, one of the characters is made the author of the story and the other the narrator of it.’ [^90]
 
 Ibn Khallikan makes no mention of these stories in the list of works ascribed to Ibn Duraid [^91] nor is there any reference to them in that cited by Yaqút. [^92] The nearest approach to a work of this kind by that author is the _Kitáb al-Lughát_ on the dialects or idiomatic expressions of the Arabs. [^93]
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 If, therefore, the stories were what they were represented to be by al-Ḥuṣrí they were probably written in a dialect which had become obsolescent.
 
@@ -72,7 +72,7 @@ The question, as to whether the maqámát are impromptu compositions, as they we
 
 Again, on page 389 of the Letters, in replying to certain strictures passed on the maqámát and to the taunt by his great rival, Abú Bakr al-Khwárazmí, that he was unable to produce any more, he writes: ‘Now if that savant were just he would have endeavoured to produce five maqámát, or ten original compositions, and submitted them to the judgement of the cultured and then, if they approved and did not reject them, he might have adversely criticized us. Now let him understand that, while I have dictated four hundred maqámát on mendicity, between no two of which is there any resemblance, either as regards words or ideas, he is unable to produce a tenth of a maqáma, and, therefore, he deserves to have his faults exposed.’
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 It seems reasonable to suppose that his _modus operandi_ was the plan which he suggested that al-Khwárazmí should have adopted, namely, to first submit a few maqámát to the learned for their opinion.
 
@@ -98,7 +98,7 @@ There are examples of the proverbial generosity of the Ḥamdánid prince Saif a
 
 The question as to whether Hamadhání owed anything, directly or indirectly, to Greek scholarship or Byzantine models is an extremely difficult one upon which to venture an opinion.
 
-In the matter of the lavish display of erudition, intentional obscurities, and the use of words of doubtful meaning, the <span id="p21">[<sup><small>p. 21</small></sup>]</span> Maqámát may be compared with the Cassandra, or Alexandra of Lycophron (285-247 B.C.).
+In the matter of the lavish display of erudition, intentional obscurities, and the use of words of doubtful meaning, the <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> Maqámát may be compared with the Cassandra, or Alexandra of Lycophron (285-247 B.C.).
 
 It is highly improbable, however, that the author derived any inspiration from this product of antiquity. But the similarity suggests that the same demons of difficulty, obscurity, and pedantry, entered the orators and poets of both nations at different periods.
 
@@ -112,7 +112,7 @@ There is, however, a far closer resemblance between the Maqámát and the Greek 
 
 So far as we know the Mime commences seriously with Sophron (about 430 B.C.), whose Mimes, unlike those of Herondas, which we have, were in prose. ‘These dialogues contained both male and female characters. Some were serious and some were humorous in style. They portrayed the daily life of the Sicilian Greeks, and were written in pithy, popular language full of proverbs and colloquialisms.’ [^109]
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Almost every word of this description of the Mimes might, _mutatis mutandis_, be applied to the Maqámát. According to Reich the Mime influenced the thought of early ecclesiastical writers, and was a subject of considerable concern and controversy with the Christian Fathers. [1](./mhm08.htm#fn_110) It found its way to India and flourished in Syria, Palestine, Alexandria, Antioch and Constantinople. [2](./mhm08.htm#fn_111) It would be strange indeed if the Arabs alone remained ignorant of its existence. That the term Mime was known to them appears from the word … and it is conceivable that the practice of composing humorous or entertaining dialogues passed from Greek to Syriac and from Syrian to Arabic.
 

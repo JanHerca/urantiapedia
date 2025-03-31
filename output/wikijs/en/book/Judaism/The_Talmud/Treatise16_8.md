@@ -38,7 +38,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 3\. He who burned the red heifer, and the bullocks; [^640] and he who sent forth the scapegoat, render garments unclean. The heifer, and the bullocks, and the scapegoat which was sent forth, cannot of themselves render garments unclean. This is the proverb—“What makes thee unclean, cannot make me unclean, but thou canst make me unclean.”
 
-4\. If one eat from the carcase of a clean bird, as it is in his throat, it renders garments unclean. The carcase itself does not render garments unclean. This is the proverb, <span id="p314">[<sup><small>p. 314</small></sup>]</span> “What makes thee unclean, cannot make me unclean, but thou canst make me unclean.”
+4\. If one eat from the carcase of a clean bird, as it is in his throat, it renders garments unclean. The carcase itself does not render garments unclean. This is the proverb, <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> “What makes thee unclean, cannot make me unclean, but thou canst make me unclean.”
 
 5\. Every [^641] secondary uncleanness does not render vessels unclean, but fluid does so. If fluid become unclean, it renders vessels unclean. This is the proverb, “What makes thee unclean, cannot make me unclean, but thou canst make me unclean.”
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 9\. Waters with a nickname are disallowed. These are the nicknames—salt and lukewarm. Deceitful [^645] waters are disallowed. These are deceitful waters,—they failed once in seven years—they failed during war and during famine, yet they are allowed. R. Judah “disallows them.”
 
-10\. The waters of Kirmion (Kishon?), and the waters of Pygah (Belus?) are disallowed, because they are the waters of marshes. The waters of the Jordan and the waters of <span id="p315">[<sup><small>p. 315</small></sup>]</span> Jarmuk [^646] are disallowed, because they are mixed. And these are mixed waters, one allowed and one disallowed are mixed. Two which are allowed and mixed, are allowed. R. Judah “disallows them.”
+10\. The waters of Kirmion (Kishon?), and the waters of Pygah (Belus?) are disallowed, because they are the waters of marshes. The waters of the Jordan and the waters of <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> Jarmuk [^646] are disallowed, because they are mixed. And these are mixed waters, one allowed and one disallowed are mixed. Two which are allowed and mixed, are allowed. R. Judah “disallows them.”
 
 11\. “The well of Ahab [^647] and the cave of Panias [^648] are allowed. Water which changed, but changed of itself, is allowed. A well of water which came from a distance is allowed, only it must be watched, that no man check it. R. Judah said, “it is taken for granted and allowed.” “A well into which earth or clay fell?” “One must wait till it clear.” The words of R. Ishmael. R. Akiba said, “there is no need of waiting.”
 

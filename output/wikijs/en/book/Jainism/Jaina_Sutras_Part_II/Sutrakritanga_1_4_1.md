@@ -38,7 +38,7 @@ FIRST CHAPTER.
 
 A monk who has left his mother and father and all worldly ties, (determines) to walk about alone and wise, to abstain from sexual pleasures, and to ask for a secluded place (where to lodge). (1)
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 With clever pretences women make up to him, however foolish they be; they know how to contrive that some monks will become intimate with them. (2)
 
@@ -58,7 +58,7 @@ And then they make him do what they like, even as a wheelwright gradually turns 
 
 As an antelope caught in a snare, so he does not get a out of it, however he struggles. (9)
 
-Afterwards he will feel remorse like one who has drunk milk mixed with poison; considering the <span id="p273">[<sup><small>p. 273</small></sup>]</span> consequences, a worthy monk should have no intercourse with women. (10)
+Afterwards he will feel remorse like one who has drunk milk mixed with poison; considering the <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> consequences, a worthy monk should have no intercourse with women. (10)
 
 Therefore he should avoid women, knowing them to be like a poisoned thorn. He is no Nirgrantha who without companion (goes into) houses, being a slave (to passion) and preaches (his religion). (11)
 
@@ -76,7 +76,7 @@ Though many leave the house, some (of them) arrive but at a middling position (b
 
 In the assembly he pronounces holy (words), yet secretly he commits sins; but the wise know him to be a deceiver and great rogue. (18)
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 The sinner does not confess his wrong, but rather boasts of it when reprimanded. Though he is admonished not to act as most men do, he becomes weak again and again. (19)
 
@@ -92,7 +92,7 @@ One man (women) have in their heart, another in their words, and another still i
 
 A young woman, putting on fine ornaments and clothes, will say to a <i>S</i>rama<i>n</i>a: ‘I shall give up (my former way of life) and practise the rough (viz. control). Reverend sir, teach me the Law!’ (25)
 
-Or by professing herself a lay-disciple and co-religionist of the <i>S</i>rama<i>n</i>as, (she will try to make a friend of him). As a pot filled with lac (will melt) <span id="p275">[<sup><small>p. 275</small></sup>]</span> near the fire, so even a wise (monk) will fall through intercourse with women. (26)
+Or by professing herself a lay-disciple and co-religionist of the <i>S</i>rama<i>n</i>as, (she will try to make a friend of him). As a pot filled with lac (will melt) <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> near the fire, so even a wise (monk) will fall through intercourse with women. (26)
 
 A pot filled with lac thrown into the fire melts quickly and is destroyed; so monks are lost through intercourse with women. (27)
 

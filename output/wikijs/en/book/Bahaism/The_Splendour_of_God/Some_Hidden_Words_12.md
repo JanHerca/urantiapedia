@@ -38,7 +38,7 @@ Alas! that a hundred thousand ideal languages are spoken by One Tongue, and that
 
 Let the people of Certainty know that a new Garden has appeared in the Open Court of Holiness, and that all the people of the Heights, and the temples of the Exalted Heaven, are around it.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Endeavour to reach that station and discover the truths of the mystery of Love from its blossoms, and unveil abundant knowledge of the Oneness from its eternal fruits. Radiant are the eyes of him who has entered therein with trust.
 

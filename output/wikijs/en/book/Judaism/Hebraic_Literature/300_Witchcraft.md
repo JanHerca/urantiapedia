@@ -36,7 +36,7 @@ The daughters of Israel burn incense for (purposes of) sorcery.
 
 _Berachoth_, fol. 53, col. 1.
 
-Ben Azai (son of impudence), says, ". . . he who seats himself and then feels . . . (which must not be explained), the effects of witchcraft, even when practiced in Spain, will come upon him. What is the remedy when one <span id="p189">[<sup><small>p. 189</small></sup>]</span> forgets and first sits down and then feels? When he rises let him say, ‘Not these and not of these not the witchcraft of sorcerers and not the sorcery of witches.’”
+Ben Azai (son of impudence), says, ". . . he who seats himself and then feels . . . (which must not be explained), the effects of witchcraft, even when practiced in Spain, will come upon him. What is the remedy when one <span id="p189"><sup><small>[ p. 189 ]</small></sup></span> forgets and first sits down and then feels? When he rises let him say, ‘Not these and not of these not the witchcraft of sorcerers and not the sorcery of witches.’”
 
 _Berachoth_, fol. 62, col. 1.
 
@@ -60,7 +60,7 @@ A certain magician used to strip the dead of their shrouds. Once when he came to
 
 _Bava Bathra_, fol. 58, col. 1
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 None were allowed to sit in the Sanhedrin unless they had a knowledge of magic.
 
@@ -78,7 +78,7 @@ If the proud (in Israel) were to cease, the magicians would also cease; as it is
 
 _Ibid._, fol. 98, col. 1.
 
-Among those who have no portion in the world to come is he who read,, the books of the strangers, foreign books, books of outsiders. See also Sanhedrin, fol. 90, col. 1. Now Rav Yoseph says, 'It is unlawful to read the Book of the Son of Sirach, . . . because it is written therein (Ecclesiasticus xlii. 9, etc., as quoted, or rather misquoted, in the Talmud), 'A daughter is a false treasure to her father: because of anxiety for her he cannot sleep at night; when she is young, for fear she should be seduced; in her virginity lest she play the harlot; in her marriageable age, <span id="p191">[<sup><small>p. 191</small></sup>]</span> lest she should not get married; and when married, lest she should be childless; and when grown old, lest she practice witchcraft.'”
+Among those who have no portion in the world to come is he who read,, the books of the strangers, foreign books, books of outsiders. See also Sanhedrin, fol. 90, col. 1. Now Rav Yoseph says, 'It is unlawful to read the Book of the Son of Sirach, . . . because it is written therein (Ecclesiasticus xlii. 9, etc., as quoted, or rather misquoted, in the Talmud), 'A daughter is a false treasure to her father: because of anxiety for her he cannot sleep at night; when she is young, for fear she should be seduced; in her virginity lest she play the harlot; in her marriageable age, <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> lest she should not get married; and when married, lest she should be childless; and when grown old, lest she practice witchcraft.'”
 
 _Sanhedrin_, fol. 100, col. 2.
 
@@ -98,7 +98,7 @@ _Shabbath_, fol. 67, col. 1.
 
 _Gittin_, fol. 69, col. 1.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 According to the Rabbis, a man should not drink water by night, for thus he exposes himself to the power of Shavriri, the demon of blindness. What then should he do if he is thirsty? If there be another man with him, let him rouse him up and say, ‘I am thirsty;’ but if he be alone, let him tap upon the lid of the jug (to make the demon fancy there's some one with him), and addressing himself by his own name and the name of his mother, let him say, 'Thy mother has bid thee beware of Shavriri, vriri, riri, iri, ri," in a white cup. Rashi says by this incantation the demon gradually contracts and vanishes as the sounds of the word Shavriri decrease.
 
@@ -114,7 +114,7 @@ _Shabbath_, fol. 67, col. 2.
 
 Women going out on the Sabbath-day are allowed, as the Rabbis teach, to carry with them a certain stone believed to counteract abortion.
 
-Abaii interrupts his exposition of this Halachah in order to enumerate certain antidotes to chronic fever which, he says, he had learned from his mother. Take a new zouz and then procure its weight in sea-salt; hang this round the neck, suspended by a papyrus fibre, so that it may rest just in the hollow in front. If this does not answer, go where two or more roads meet and watch for the first big ant that is going home loaded; lay hold of it and place it in a brass tube; stop up the end of the tube with lead, putting as many seals upon it as possible; then shake it, saying the while, “My load be upon thee, and thine upon me.” To this Rav Acha, the son of Rav Hunna, objected to Rav Ashi, and asked, "Might not the ant have <span id="p193">[<sup><small>p. 193</small></sup>]</span> been already laden with another man's fever?“ ”True,“ observed the other; ”nevertheless let him say, ‘My load be upon thee as well as thine own.’“ If this be not effective, then take a new earthenware pot, and going to the nearest stream, say, ”Stream, stream, lend me a pot full of water for one who is on a visit to me.“ Wave it seven times round thy head and then throw the water back again, saying, ”Stream, stream, take back thy borrowed water for my guest came and went the same day.”
+Abaii interrupts his exposition of this Halachah in order to enumerate certain antidotes to chronic fever which, he says, he had learned from his mother. Take a new zouz and then procure its weight in sea-salt; hang this round the neck, suspended by a papyrus fibre, so that it may rest just in the hollow in front. If this does not answer, go where two or more roads meet and watch for the first big ant that is going home loaded; lay hold of it and place it in a brass tube; stop up the end of the tube with lead, putting as many seals upon it as possible; then shake it, saying the while, “My load be upon thee, and thine upon me.” To this Rav Acha, the son of Rav Hunna, objected to Rav Ashi, and asked, "Might not the ant have <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> been already laden with another man's fever?“ ”True,“ observed the other; ”nevertheless let him say, ‘My load be upon thee as well as thine own.’“ If this be not effective, then take a new earthenware pot, and going to the nearest stream, say, ”Stream, stream, lend me a pot full of water for one who is on a visit to me.“ Wave it seven times round thy head and then throw the water back again, saying, ”Stream, stream, take back thy borrowed water for my guest came and went the same day.”
 
 Rav Hunna then adds a prescription for a tertian fever, and Rabbi Yochanan gives the following as effective against a burning fever:—Take an iron knife, and having fastened a papyrus fibre to the nearest bramble, cut off a piece and say, “And the Angel of the Lord appeared to him in a flame of fire,” etc., as in Exod. iii. 2. On the morrow cut off another piece and say, “The Lord saw that he (the fever) turned aside;” then upon the third day say, “Draw not hither,” and stooping down, pray, “Bush, bush! the Holy One—blessed be He!—caused His Shechinah to lodge upon thee, not because thou art the loftiest, for thou art the lowest of all trees; and as when thou didst see the fire of Hananiah, Mishael, and Azariah, thou didst flee therefrom, so see the fire (fever) of this sufferer and flee from it.”
 
@@ -124,7 +124,7 @@ Rabba once created a man (out of dust) and sent him to Rabbi Zira, who having ad
 
 _Sanhedrin_, fol. 65, col. 2.
 
-Yannai once turned in to a certain inn, and asked for water to drink, when they gave him (Shethitha, _i. e._, water mixed with flour). He noticed that the lips of the woman who brought it moved (and so suspecting that something was wrong), he poured out a little of it and it became scorpions. He then said, 'I have drunk of thine, now thou shalt drink of mine." The woman drank and <span id="p194">[<sup><small>p. 194</small></sup>]</span> was transformed into an ass, which he mounted and rode to the market-place. One of her companions having come up, broke the spell, and the ass he had ridden was on the spot transformed back again into a woman. In reference to the above, Rashi naively remarks that “we are not to suppose that Yannai was a Rabbi, for he was not held in esteem, because he practiced witchcraft.” But Rashi is mistaken; see Sophrim, chap. 16, hal. 6.
+Yannai once turned in to a certain inn, and asked for water to drink, when they gave him (Shethitha, _i. e._, water mixed with flour). He noticed that the lips of the woman who brought it moved (and so suspecting that something was wrong), he poured out a little of it and it became scorpions. He then said, 'I have drunk of thine, now thou shalt drink of mine." The woman drank and <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> was transformed into an ass, which he mounted and rode to the market-place. One of her companions having come up, broke the spell, and the ass he had ridden was on the spot transformed back again into a woman. In reference to the above, Rashi naively remarks that “we are not to suppose that Yannai was a Rabbi, for he was not held in esteem, because he practiced witchcraft.” But Rashi is mistaken; see Sophrim, chap. 16, hal. 6.
 
 _Sanhedrin_, fol. 67, col. 2.
 
@@ -144,7 +144,7 @@ _Bava Bathra_, fol. 134, col. 1.
 
 _Sanhedrin_, fol. 66, col. 1.
 
-Rav Ketina happened once, in his travels, to hear the noise of an earthquake just as he came opposite to the abode of one who was wont to conjure with human bones. Happening to mutter aloud to himself as he passed, “Does the conjurer really know what that noise is?” a voice answered, "Ketina, Ketina, why shouldn't I know? When the Holy One—blessed be He!—thinks of His children who dwell in sorrowful circumstances among the nations of <span id="p195">[<sup><small>p. 195</small></sup>]</span> the earth, He lets fall two tears into the great sea, and His voice is heard from one end of the world to the other, and that is the rumbling noise we hear.“ Upon which Rav Ketina protested, ”The conjurer is a liar, his words are not true; they might have been true, had there been two rumbling noises.“ The fact was, two such noises were heard, but Rav Ketina would not acknowledge it, lest, by so doing, he should increase the popularity of the conjurer. Rav Ketina is of the opinion that the rumbling noise is caused by God clapping His hands together, as it is said (Ezek. xxi. 22; A. V., ver. 17), ”I will also smite My hands together, and I will cause My fury to rest.”
+Rav Ketina happened once, in his travels, to hear the noise of an earthquake just as he came opposite to the abode of one who was wont to conjure with human bones. Happening to mutter aloud to himself as he passed, “Does the conjurer really know what that noise is?” a voice answered, "Ketina, Ketina, why shouldn't I know? When the Holy One—blessed be He!—thinks of His children who dwell in sorrowful circumstances among the nations of <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> the earth, He lets fall two tears into the great sea, and His voice is heard from one end of the world to the other, and that is the rumbling noise we hear.“ Upon which Rav Ketina protested, ”The conjurer is a liar, his words are not true; they might have been true, had there been two rumbling noises.“ The fact was, two such noises were heard, but Rav Ketina would not acknowledge it, lest, by so doing, he should increase the popularity of the conjurer. Rav Ketina is of the opinion that the rumbling noise is caused by God clapping His hands together, as it is said (Ezek. xxi. 22; A. V., ver. 17), ”I will also smite My hands together, and I will cause My fury to rest.”
 
 _Berachoth_, fol. 59, col. 1.
 

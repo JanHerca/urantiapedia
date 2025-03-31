@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 CHAPTER II., Verse 1.—In the name of the Merciful and Compassionate God
 
@@ -42,7 +42,7 @@ Chapter VI., Verse 109.—They swore by God with their most strenuous oath, that
 
 (110).—We will overturn their hearts and their eyesights, even as they believed not at first; and we will leave them, in their rebellion, blindly wandering on.
 
-And had we sent down unto them the angels, or <span id="p28">[<sup><small>p. 28</small></sup>]</span> the dead had spoken to them, or we had gathered everything unto them in hosts, they would not have believed unless that God pleased—but most of them are ignorant.
+And had we sent down unto them the angels, or <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> the dead had spoken to them, or we had gathered everything unto them in hosts, they would not have believed unless that God pleased—but most of them are ignorant.
 
 So have we made for every prophet an enemy, devils of men and jinns; some of them inspire others with specious speech to lead astray; but had thy Lord pleased they would not have done it; so leave them with what they do devise.
 
@@ -58,7 +58,7 @@ And when the Koran is read, then listen thereto and keep silence; haply ye may o
 
 Chapter X., Verse 38.—This Koran could not have been devised by any beside God; but it verifies that which was before it, and details the Book—there is no doubt therein—from the Lord of the worlds.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Do they say, “He hath devised it? ”Say then, “Bring a verse like it,—and call, if ye can, on other than God, if ye do tell the truth!”
 

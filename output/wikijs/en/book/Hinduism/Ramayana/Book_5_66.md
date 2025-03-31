@@ -124,7 +124,7 @@ This life oppressed with woe and pain:
 And when the month is ended, I
 The giants' prey must surely die.’
 
-<span id="p427">[<sup><small>p. 427</small></sup>]</span>
+<span id="p427"><sup><small>[ p. 427 ]</small></sup></span>
 
 
 

@@ -48,7 +48,7 @@ Is it the narcissus of the gardens, endued with visual powers, or her cheek, lik
 
 I rave through love of her; but let my railers see the torrents of my tears, to which there is no end!
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 O Abla! my heart for love of thee suffers tortures: this frequent separation and these echoes fill me with grief.
 

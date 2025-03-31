@@ -38,7 +38,7 @@ Some say that in old times great men, rich in religious penance, have reached pe
 
 ‘Nami, the king of Vidêha, ate nothing, Râmagupta did eat, Bâhuka drank (cold) water, and so did Târâga<i>n</i>a [^785], the seer. (2)
 
-Âsila, Dêvala, the great sage Dvîpâyana, and <span id="p269">[<sup><small>p. 269</small></sup>]</span> Pârâ<i>s</i>ara did drink (cold) water, and did eat seeds and sprouts [^786]. (3)
+Âsila, Dêvala, the great sage Dvîpâyana, and <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> Pârâ<i>s</i>ara did drink (cold) water, and did eat seeds and sprouts [^786]. (3)
 
 ‘I have heard that in old times these renowned and well-known great men ate seeds and drank water, and have reached perfection.’ (4)
 
@@ -50,7 +50,7 @@ Do not, by disdaining it, lose much for the sake of little. If you do not give u
 
 (And so will) those who kill living beings, who do not abstain from untrue speech, who take what is not freely given them, who enjoy sexual pleasures, and who own property. (8)
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Some unworthy heretics [^790], slaves of women, ignorant men who are averse to the Law of the <i>G</i>inas, speak thus: (9)
 
@@ -68,7 +68,7 @@ But those who exert themselves at the proper time, feel no remorse afterwards; t
 
 As Vaitara<i>n</i>î, the river (of hell), is difficult to pass, so in this world women are to the unwise (a temptation) difficult to overcome. (16)
 
-Those who have given up intercourse with women <span id="p271">[<sup><small>p. 271</small></sup>]</span> and have left off adorning themselves, are well established in control, because they have renounced everything. (17)
+Those who have given up intercourse with women <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> and have left off adorning themselves, are well established in control, because they have renounced everything. (17)
 
 As merchants go over the sea, so they will cross the flood (of Sa<i>m</i>sâra), where living beings despond and suffer pains because of their own deeds. (18)
 

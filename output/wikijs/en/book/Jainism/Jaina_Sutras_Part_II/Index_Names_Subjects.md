@@ -32,9 +32,9 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p436">[<sup><small>p. 436</small></sup>]</span>
+<span id="p436"><sup><small>[ p. 436 ]</small></sup></span>
 
-<span id="p437">[<sup><small>p. 437</small></sup>]</span>
+<span id="p437"><sup><small>[ p. 437 ]</small></sup></span>
 
 Abhayadêva, page [346](Sutrakritanga_2_1#p346) note 1.
 
@@ -198,7 +198,7 @@ Bhôga, a clan, [71](Uttaradhyayana_15#p71), n 2, [118](Uttaradhyayana_22#p118) 
 
 Bhô<i>g</i>arâ<i>g</i>a, [118](Uttaradhyayana_22#p118) n 2.
 
-<span id="p438">[<sup><small>p. 438</small></sup>]</span>
+<span id="p438"><sup><small>[ p. 438 ]</small></sup></span>
 
 Bh<i>ri</i>gu, ([62](Uttaradhyayana_14#p62)), ([65](Uttaradhyayana_14#p65)).
 
@@ -408,7 +408,7 @@ Harikê<i>s</i>a, [50](Uttaradhyayana_12#p50), n 1, [55](Uttaradhyayana_12#p55).
 
 \— Bala, [50](Uttaradhyayana_12#p50).
 
-<span id="p439">[<sup><small>p. 439</small></sup>]</span>
+<span id="p439"><sup><small>[ p. 439 ]</small></sup></span>
 
 Harishê<i>n</i>a, [86](Uttaradhyayana_18#p86), n 2.
 
@@ -594,7 +594,7 @@ Luke, [29](Uttaradhyayana_7#p29) n 2.
 
 Madhyadê<i>s</i>a, [268](Sutrakritanga_1_3_3#p268) n 1.
 
-<span id="p440">[<sup><small>p. 440</small></sup>]</span>
+<span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 
 Magadha, [106](Uttaradhyayana_20#p106) f.
 
@@ -806,7 +806,7 @@ Râmâya<i>n</i>a, [85](Uttaradhyayana_18#p85) n 5, [244](Sutrakritanga_1_1_3#p2
 
 Râsh<i>t</i>rakû<i>t</i>a, [236](Sutrakritanga_1_1_1#p236) n 1.
 
-<span id="p441">[<sup><small>p. 441</small></sup>]</span>
+<span id="p441"><sup><small>[ p. 441 ]</small></sup></span>
 
 Rathanêmi, [112](Uttaradhyayana_21#p112), [116](Uttaradhyayana_22#p116), n 1, [117](Uttaradhyayana_22#p117).
 
@@ -1008,7 +1008,7 @@ Udadhikumâra (Bhavanavâsin), [225](Uttaradhyayana_36#p225).
 
 Udaka, follower of Pâr<i>s</i>va, [420](Sutrakritanga_2_7#p420) ff.
 
-<span id="p442">[<sup><small>p. 442</small></sup>]</span>
+<span id="p442"><sup><small>[ p. 442 ]</small></sup></span>
 
 Udaya, [58](Uttaradhyayana_13#p58).
 

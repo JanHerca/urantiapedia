@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <i>KH</i>ÂNDOGYA-UPANISHAD.
 
@@ -44,7 +44,7 @@ FIRST PRAPÂ<i>TH</i>AKA.
 
 The full account, however, of Om is this:—
 
-2\. The essence [^71] of all beings is the earth, the essence of the earth is water, the essence of water <span id="p2">[<sup><small>p. 2</small></sup>]</span> the plants, the essence of plants man, the essence of man speech, the essence of speech the Rig-veda, the essence of the Rig-veda the Sâma-veda [^72], the essence of the Sâma-veda the udgîtha (which is Om).
+2\. The essence [^71] of all beings is the earth, the essence of the earth is water, the essence of water <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> the plants, the essence of plants man, the essence of man speech, the essence of speech the Rig-veda, the essence of the Rig-veda the Sâma-veda [^72], the essence of the Sâma-veda the udgîtha (which is Om).
 
 3\. That udgîtha (Om) is the best of all essences, the highest, deserving the highest place [^73], the eighth.
 
@@ -58,11 +58,11 @@ The full account, however, of Om is this:—
 
 8\. That syllable is a syllable of permission, for whenever we permit anything, we say Om, yes. Now permission is gratification. He who knowing this meditates on the syllable (Om), the udgîtha, becomes indeed a gratifier of desires.
 
-9\. By that syllable does the threefold knowledge (the sacrifice, more particularly the Soma-sacrifice, as founded on the three Vedas) proceed. When the Adhvaryu priest gives an order, he says Om. When the Hot<i>ri</i> priest recites, he says Om. When the Udgât<i>ri</i> priest sings, he says Om, <span id="p3">[<sup><small>p. 3</small></sup>]</span> —all for the glory of that syllable. The threefold knowledge (the sacrifice) proceeds by the greatness of that syllable (the vital breaths), and by its essence (the oblations) [^74].
+9\. By that syllable does the threefold knowledge (the sacrifice, more particularly the Soma-sacrifice, as founded on the three Vedas) proceed. When the Adhvaryu priest gives an order, he says Om. When the Hot<i>ri</i> priest recites, he says Om. When the Udgât<i>ri</i> priest sings, he says Om, <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> —all for the glory of that syllable. The threefold knowledge (the sacrifice) proceeds by the greatness of that syllable (the vital breaths), and by its essence (the oblations) [^74].
 
 10\. Now therefore it would seem to follow, that both he who knows this (the true meaning of the syllable Om), and he who does not, perform the same sacrifice [^75]. But this is not so, for knowledge and ignorance are different. The sacrifice which a man performs with knowledge, faith, and the Upanishad [^76] is more powerful. This is the full account of the syllable Om.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ## SECOND KHA<i>N</i><i>D</i>A [^77].
 
@@ -72,7 +72,7 @@ The full account, however, of Om is this:—
 
 3\. Then they meditated on the udgîtha (Om) as speech, but the Asuras pierced it with evil. Therefore we speak both truth and falsehood. For speech is pierced by evil.
 
-4\. Then they meditated on the udgîtha (Om) as the eye, but the Asuras pierced it with evil. Therefore <span id="p5">[<sup><small>p. 5</small></sup>]</span> we see both what is sightly and unsightly. For the eye is pierced by evil.
+4\. Then they meditated on the udgîtha (Om) as the eye, but the Asuras pierced it with evil. Therefore <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> we see both what is sightly and unsightly. For the eye is pierced by evil.
 
 5\. Then they meditated on the udgîtha (Om) as the ear, but the Asuras pierced it with evil. Therefore we hear both what should be heard and what should not be heard. For the car is pierced by evil.
 
@@ -82,7 +82,7 @@ The full account, however, of Om is this:—
 
 8\. Thus, as a ball of earth is scattered when hitting on a solid stone, will he be scattered who wishes evil to one who knows this, or who persecutes him; for he is a solid stone.
 
-9\. By it (the breath in the mouth) he distinguishes neither what is good nor what is bad-smelling, for that breath is free from evil. What we eat and drink with it supports the other vital breaths (i. e. the senses, such as smell, &c.) When at the time of death he [^82] does not find that breath (in the <span id="p6">[<sup><small>p. 6</small></sup>]</span> mouth, through which he eats and drinks and lives), then he departs. He opens the mouth at the time of death (as if wishing to eat).
+9\. By it (the breath in the mouth) he distinguishes neither what is good nor what is bad-smelling, for that breath is free from evil. What we eat and drink with it supports the other vital breaths (i. e. the senses, such as smell, &c.) When at the time of death he [^82] does not find that breath (in the <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> mouth, through which he eats and drinks and lives), then he departs. He opens the mouth at the time of death (as if wishing to eat).
 
 10\. Aṅgiras [^83] meditated on the udgîtha (Om) as that breath, and people hold it to be Aṅgiras, i. e. the essence of the members (angânâ<i>m</i> rasa<i>h</i>);
 
@@ -95,7 +95,7 @@ The full account, however, of Om is this:—
 14\. He who knows this, and meditates on the syllable Om (the imperishable udgîtha) as the breath of life in the mouth, he obtains all wishes by singing. So much for the udgîtha (Om) as meditated on with reference to the body [^84].
 
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 ## THIRD KHA<i>N</i><i>D</i>A.
 
@@ -107,7 +107,7 @@ Now follows the meditation on the udgîtha with reference to the gods. Let a man
 
 4\. Speech is <i>Ri</i><i>k</i>, and therefore when a man utters a <i>Ri</i><i>k</i> verse he neither breathes up nor down.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 <i>Ri</i><i>k</i> is Sâman, and therefore when a man utters a Sâman verse he neither breathes up nor down.
 
@@ -117,7 +117,7 @@ Sâman is udgîtha, and therefore when a man sings (the udgîtha, Om) he neither
 
 6\. Let a man meditate on the syllables of the udgîtha, i. e. of the word udgîtha. Ut is breath (prâ<i>n</i>a), for by means of breath a man rises (uttish<i>th</i>ati). Gî is speech, for speeches are called gira<i>h</i>. Tha is food, for by means of food all subsists (sthita).
 
-7\. Ut is heaven, gî the sky, tha the earth. Ut is the sun, gî the air, tha the fire. Ut is the Sâma-veda,, gî the Ya<i>g</i>ur-veda, tha the Rig-veda [^86]. <span id="p9">[<sup><small>p. 9</small></sup>]</span> Speech yields the milk, which is the milk of speech itself [^87], to him who thus knowing meditates on those <span id="p10">[<sup><small>p. 10</small></sup>]</span> syllables of the name of udgîtha, he becomes rich in food and able to eat food.
+7\. Ut is heaven, gî the sky, tha the earth. Ut is the sun, gî the air, tha the fire. Ut is the Sâma-veda,, gî the Ya<i>g</i>ur-veda, tha the Rig-veda [^86]. <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> Speech yields the milk, which is the milk of speech itself [^87], to him who thus knowing meditates on those <span id="p10"><sup><small>[ p. 10 ]</small></sup></span> syllables of the name of udgîtha, he becomes rich in food and able to eat food.
 
 8\. Next follows the fulfilment of prayers. Let a man thus meditate on the Upasara<i>n</i>as, i. e. the objects which have to be approached by meditation: Let him (the Udgât<i>ri</i>) quickly reflect on the Sâman with which he is going to praise;
 
@@ -127,7 +127,7 @@ Sâman is udgîtha, and therefore when a man sings (the udgîtha, Om) he neither
 
 11\. On the quarter of the world which he is going to praise. Lastly, having approached himself (his name, family, &c.) by meditation, let him sing the hymn of praise, reflecting on his desire, and avoiding all mistakes in pronunciation, &c. Quickly [^88] will the desire be then fulfilled to him, for the sake of which he may have offered his hymn of praise, yea, for which he may have offered his hymn of praise [^89].
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 ## FOURTH KHA<i>N</i><i>D</i>A.
 
@@ -141,7 +141,7 @@ Sâman is udgîtha, and therefore when a man sings (the udgîtha, Om) he neither
 
 5\. He who knowing this loudly pronounces (pra<i>n</i>auti) [^91]\- that syllable, enters the same (imperishable) syllable, the Svara, the immortal, free from fear, and having entered it, becomes immortal, as the Devas are immortal.
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 ## FIFTH KHA<i>N</i><i>D</i>A.
 
@@ -157,7 +157,7 @@ Sâman is udgîtha, and therefore when a man sings (the udgîtha, Om) he neither
 
 ## SIXTH KHA<i>N</i><i>D</i>A.
 
-1\. The <i>Ri</i><i>k</i> (veda) is this earth, the Sâman (veda) is fire. This Sâman (fire) rests on that <i>Ri</i><i>k</i> (earth) [^95]. Therefore the Sâman is sung as resting on the <i>Ri</i><i>k</i>. <span id="p13">[<sup><small>p. 13</small></sup>]</span> Sâ is this earth, ama is fire, and that makes Sâma.
+1\. The <i>Ri</i><i>k</i> (veda) is this earth, the Sâman (veda) is fire. This Sâman (fire) rests on that <i>Ri</i><i>k</i> (earth) [^95]. Therefore the Sâman is sung as resting on the <i>Ri</i><i>k</i>. <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> Sâ is this earth, ama is fire, and that makes Sâma.
 
 2\. The <i>Ri</i><i>k</i> is the sky, the Sâman air. This Sâman (air) rests on that <i>Ri</i><i>k</i> (sky). Therefore the Sâman is sung as resting on the <i>Ri</i><i>k</i>. Sâ is the sky, ama the air, and that makes Sâma.
 
@@ -173,7 +173,7 @@ Now that golden [^97] person, who is seen within the sun, with golden beard and 
 
 7\. Whose eyes are like blue lotus's [^98], his name is ut, for he has risen (udita) above all evil. He also who knows this, rises above all evil.
 
-8\. <i>Ri</i><i>k</i> and Sâman are his joints, and therefore he is udgîtha. And therefore he who praises him <span id="p14">[<sup><small>p. 14</small></sup>]</span> (the ut) is called the Ud-gât<i>ri</i> [^99] (the out-singer). He (the golden person, called ut) is lord of the worlds beyond that (sun), and of all the wishes of the Devas (inhabiting those worlds). So much with reference to the Devas.
+8\. <i>Ri</i><i>k</i> and Sâman are his joints, and therefore he is udgîtha. And therefore he who praises him <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> (the ut) is called the Ud-gât<i>ri</i> [^99] (the out-singer). He (the golden person, called ut) is lord of the worlds beyond that (sun), and of all the wishes of the Devas (inhabiting those worlds). So much with reference to the Devas.
 
 ## SEVENTH KHA<i>N</i><i>D</i>A.
 
@@ -185,7 +185,7 @@ Now that golden [^97] person, who is seen within the sun, with golden beard and 
 
 4\. <i>Ri</i><i>k</i> is the white light of the eye, Sâman the blue exceeding darkness. This Sâman (darkness) rests on the <i>Ri</i><i>k</i> (brightness). Therefore the Sâman is sung as resting on the <i>Ri</i><i>k</i>. Sâ is the white light of the eye, ama the blue exceeding darkness, and that makes Sâma.
 
-5\. Now the person who is seen in the eye, he is <i>Ri</i><i>k</i>, he is Sâman, Uktha [^102], Ya<i>g</i>us, Brahman. The form of that person (in the eye) is the same [^103] as the <span id="p15">[<sup><small>p. 15</small></sup>]</span> form of the other person (in the sun), the joints of the one (<i>Ri</i><i>k</i> and Sâman) are the joints of the other, the name of the one (ut) is the name of the other.
+5\. Now the person who is seen in the eye, he is <i>Ri</i><i>k</i>, he is Sâman, Uktha [^102], Ya<i>g</i>us, Brahman. The form of that person (in the eye) is the same [^103] as the <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> form of the other person (in the sun), the joints of the one (<i>Ri</i><i>k</i> and Sâman) are the joints of the other, the name of the one (ut) is the name of the other.
 
 6\. He is lord of the worlds beneath that (the self in the eye), and of all the wishes of men. Therefore all who sing to the vî<i>n</i>â (lyre), sing him, and from him also they obtain wealth.
 
@@ -201,7 +201,7 @@ Therefore an Udgât<i>ri</i> priest who knows this, may say (to the sacrificer f
 
 1\. There were once three men, well-versed in udgîtha [^104], <i>S</i>ilaka <i>S</i>âlâvatya, <i>K</i>aikitâyana, Dâlbhya, and Pravâha<i>n</i>a <i>G</i>aivali. They said: ‘We are well-versed in udgîtha. Let us have a discussion on udgîtha.’
 
-2\. They all agreed and sat down. Then Pravâha<i>n</i>a <i>G</i>aivali [^105] said: 'Sirs, do you both speak first, <span id="p16">[<sup><small>p. 16</small></sup>]</span> for I wish to hear what two Brâhma<i>n</i>as [^106] have to say.
+2\. They all agreed and sat down. Then Pravâha<i>n</i>a <i>G</i>aivali [^105] said: 'Sirs, do you both speak first, <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> for I wish to hear what two Brâhma<i>n</i>as [^106] have to say.
 
 3\. Then <i>S</i>ilaka <i>S</i>âlâvatya said to <i>K</i>aikitâyana Dâlbhya: ‘Let me ask you.’
 
@@ -231,7 +231,7 @@ He replied: ‘Let no man carry the Sâman beyond the world of svarga (heaven). 
 
 ‘And what is the origin of this world?’—
 
-He replied: ‘Let no man carry the Sâman beyond this world as its rest. We place the Sâman <span id="p17">[<sup><small>p. 17</small></sup>]</span> in this world as its rest, for the Sâman is extolled as rest.’
+He replied: ‘Let no man carry the Sâman beyond this world as its rest. We place the Sâman <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> in this world as its rest, for the Sâman is extolled as rest.’
 
 8\. Then said Pravâha<i>n</i>a <i>G</i>aivali to <i>S</i>ilaka <i>S</i>âlâvatya: ‘Your Sâman (the earth), O <i>S</i>âlâvatya, has an end. And if any one were to say, Your head shall fall off (if you be wrong), surely your head would now fall.’
 
@@ -251,7 +251,7 @@ He who knowing this meditates on the udgîtha, the greater than great, obtains w
 
 4\. ‘And thus also will be their state in the other world.’ He who thus knows the udgîtha, and meditates on it thus, his life in this world will be greater than great, and also his state in the other world, yea, in the other world.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## TENTH KHA<i>N</i><i>D</i>A.
 
@@ -267,7 +267,7 @@ He who knowing this meditates on the udgîtha, the greater than great, obtains w
 
 5\. Having eaten himself, Ushasti gave the remaining beans to his wife. But she, having eaten before, took them and put them away.
 
-6\. Rising the next morning, Ushasti said to her: ‘Alas, if we could only get some food, we might gain a little wealth. The king here is going to offer a sacrifice, he should choose me for all the priestly offices.’ <span id="p19">[<sup><small>p. 19</small></sup>]</span> 7\. His wife said to him: ‘Look, here are those beans of yours.’ Having eaten them, he went to the sacrifice which was being performed.
+6\. Rising the next morning, Ushasti said to her: ‘Alas, if we could only get some food, we might gain a little wealth. The king here is going to offer a sacrifice, he should choose me for all the priestly offices.’ <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> 7\. His wife said to him: ‘Look, here are those beans of yours.’ Having eaten them, he went to the sacrifice which was being performed.
 
 8\. He went and sat down on the orchestra near the Udgât<i>ri</i>s, who were going to sing their hymns of praise. And he said to the Prastot<i>ri</i> (the leader):
 
@@ -283,7 +283,7 @@ They stopped, and sat down in silence.
 
 1\. Then the sacrificer said to him: ‘I should like to know who you are, Sir.’ He replied: ‘I am Ushasti <i>K</i>âkrâya<i>n</i>a.’
 
-2\. He said: ‘I looked for you, Sir, for all these sacrificial offices, but not finding you [^112], I chose others.’ <span id="p20">[<sup><small>p. 20</small></sup>]</span> 3\. ‘But now, Sir, take all the sacrificial offices.’
+2\. He said: ‘I looked for you, Sir, for all these sacrificial offices, but not finding you [^112], I chose others.’ <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> 3\. ‘But now, Sir, take all the sacrificial offices.’
 
 Ushasti said: ‘Very well; but let those, with my permission, perform the hymns of praise. Only as much wealth as you give to them, so much give to me also.’
 
@@ -299,7 +299,7 @@ The sacrificer assented.
 
 8\. Then the Pratihart<i>ri</i> approached him, saying: ‘Sir, you said to me, “Pratihart<i>ri</i>, if you, without knowing the deity belonging to the pratihâra, are going to sing it, your head will fall off,”—Which then is that deity?’
 
-9\. He said: ‘Food (anna). For all these beings <span id="p21">[<sup><small>p. 21</small></sup>]</span> live when they partake of food. This is the deity belonging to the pratihâra. If, without knowing that deity, you had sung your hymns, your head would have fallen off, after you had been warned by me [1](Khandogya_1#fn113).’
+9\. He said: ‘Food (anna). For all these beings <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> live when they partake of food. This is the deity belonging to the pratihâra. If, without knowing that deity, you had sung your hymns, your head would have fallen off, after you had been warned by me [1](Khandogya_1#fn113).’
 
 ## TWELFTH KHA<i>N</i><i>D</i>A.
 
@@ -313,7 +313,7 @@ The sacrificer assented.
 
 5\. ‘Om, let us eat! Om, let us drink! Om, may the divine Varu<i>n</i>a, Pra<i>g</i>âpati, Savit<i>ri</i> [^115] bring us food! Lord of food, bring hither food, bring it, Om!’
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 ## THIRTEENTH KHA<i>N</i><i>D</i>A [^116].
 

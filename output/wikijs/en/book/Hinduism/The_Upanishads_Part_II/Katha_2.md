@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 SECOND ADHYÂYA.
 
@@ -48,7 +48,7 @@ SECOND ADHYÂYA.
 
 5\. ‘He who knows this living soul which eats honey (perceives objects) as being the Self, always near, the Lord of the past and the future, henceforward fears no more. This is that.’
 
-6\. ‘He who (knows) him [^119] who was born first from <span id="p16">[<sup><small>p. 16</small></sup>]</span> the brooding heat [^120] (for he was born before the water), who, entering into the heart, abides therein, and was perceived from the elements. This is that.’
+6\. ‘He who (knows) him [^119] who was born first from <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> the brooding heat [^120] (for he was born before the water), who, entering into the heart, abides therein, and was perceived from the elements. This is that.’
 
 7\. ‘(He who knows) Aditi also, who is one with all deities, who arises with Prâ<i>n</i>a (breath or Hira<i>n</i>yagarbha), who, entering into the heart, abides therein, and was born from the elements. This is that.’
 
@@ -62,12 +62,12 @@ SECOND ADHYÂYA.
 
 12\. ‘The person (purusha), of the size of a thumb [^122], stands in the middle of the Self (body?), as lord of the past and the future, and henceforward fears no more. This is that.’
 
-13\. ‘That person, of the size of a thumb, is like a light without smoke, lord of the past and the future, he is the same to-day and to-morrow. This is that.’ <span id="p17">[<sup><small>p. 17</small></sup>]</span> 14\. ‘As rain-water that has fallen on a mountain-ridge runs down the rocks on all sides, thus does he, who sees a difference between qualities, run after them on all sides.’
+13\. ‘That person, of the size of a thumb, is like a light without smoke, lord of the past and the future, he is the same to-day and to-morrow. This is that.’ <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> 14\. ‘As rain-water that has fallen on a mountain-ridge runs down the rocks on all sides, thus does he, who sees a difference between qualities, run after them on all sides.’
 
 15\. ‘As pure water poured into pure water remains the same, thus, O Gautama, is the Self of a thinker who knows.’
 
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## FIFTH VALLÎ.
 
@@ -81,7 +81,7 @@ SECOND ADHYÂYA.
 
 5\. ‘No mortal lives by the breath that goes up and by the breath that goes down. We live by another, in whom these two repose.’
 
-6\. ‘Well then, O Gautama, I shall tell thee this mystery, the old Brahman, and what happens to the Self, after reaching death.’ <span id="p19">[<sup><small>p. 19</small></sup>]</span> 7\. ‘Some enter the womb in order to have a body, as organic beings, others go into inorganic matter, according to their work and according to their knowledge [^125].’
+6\. ‘Well then, O Gautama, I shall tell thee this mystery, the old Brahman, and what happens to the Self, after reaching death.’ <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> 7\. ‘Some enter the womb in order to have a body, as organic beings, others go into inorganic matter, according to their work and according to their knowledge [^125].’
 
 8\. ‘He, the highest Person, who is awake in us while we are asleep, shaping one lovely sight after another, that indeed is the Bright, that is Brahman, that alone is called the Immortal. All worlds are contained in it, and no one goes beyond. This is that [^126].’
 
@@ -93,14 +93,14 @@ SECOND ADHYÂYA.
 
 12\. ‘There is one ruler, the Self within all things, who makes the one form manifold. The wise who perceive him within their Self, to them belongs eternal happiness, not to others [^129].’
 
-13\. ‘There is one eternal thinker, thinking non-eternal <span id="p20">[<sup><small>p. 20</small></sup>]</span> thoughts, who, though one, fulfils the desires of many. The wise who perceive him within their Self, to them belongs eternal peace, not to others [^130].’
+13\. ‘There is one eternal thinker, thinking non-eternal <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> thoughts, who, though one, fulfils the desires of many. The wise who perceive him within their Self, to them belongs eternal peace, not to others [^130].’
 
 14\. ‘They perceive that highest indescribable pleasure, saying, This is that. How then can I understand it? Has it its own light, or does it reflect light?’
 
 15\. ‘The sun does not shine there, nor the moon and the stars, nor these lightnings, and much less this fire. When he shines, everything shines after him; by his light all this is lighted [^131].’
 
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 ## SIXTH VALLÎ.
 
@@ -110,7 +110,7 @@ SECOND ADHYÂYA.
 
 3\. ‘From terror of Brahman fire burns, from terror the sun burns, from terror Indra and Vâyu, and Death, as the fifth, run away [^137].’
 
-4\. ‘If a man could not understand it before the falling asunder of his body, then he has to take body again in the worlds of creation [^138].’ <span id="p22">[<sup><small>p. 22</small></sup>]</span> 5\. 'As in a mirror, so (Brahman may be seen clearly) here in this ‘body; as in a dream, in the world of the Fathers; as in the water, he is seen about in the world of the Gandharvas; as in light and shade [^139], in the world of Brahmâ.’
+4\. ‘If a man could not understand it before the falling asunder of his body, then he has to take body again in the worlds of creation [^138].’ <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> 5\. 'As in a mirror, so (Brahman may be seen clearly) here in this ‘body; as in a dream, in the world of the Fathers; as in the water, he is seen about in the world of the Gandharvas; as in light and shade [^139], in the world of Brahmâ.’
 
 6\. ‘Having understood that the senses are distinct [^140] (from the Âtman), and that their rising and setting (their waking and sleeping) belongs to them in their distinct existence (and not to the Âtman), a wise man grieves no more.’
 
@@ -122,7 +122,7 @@ SECOND ADHYÂYA.
 
 10\. ‘When the five instruments of knowledge stand still together with the mind, and when the intellect does not move, that is called the highest state.’
 
-11\. ‘This, the firm holding back of the senses, is what is called Yoga. He must be free from thoughtlessness then, for Yoga comes and goes [^143].’ <span id="p23">[<sup><small>p. 23</small></sup>]</span> 12\. ‘He (the Self) cannot be reached by speech, by mind, or by the eye. How can it be apprehended except by him who says: “He is?”’
+11\. ‘This, the firm holding back of the senses, is what is called Yoga. He must be free from thoughtlessness then, for Yoga comes and goes [^143].’ <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> 12\. ‘He (the Self) cannot be reached by speech, by mind, or by the eye. How can it be apprehended except by him who says: “He is?”’
 
 13\. ‘By the words “He is,” is he to be apprehended, and by (admitting) the reality of both (the invisible Brahman and the visible world, as coming from Brahman). When he has been apprehended by the words “He is,” then his reality reveals itself’
 
@@ -132,7 +132,7 @@ SECOND ADHYÂYA.
 
 116\. ‘There are a hundred and one arteries of the heart [^146], one of them penetrates the crown of the head [^147]. Moving upwards by it, a man (at his death) reaches the Immortal [^148]; the other arteries serve for departing in different directions.’
 
-17\. ‘The Person not larger than a thumb, the inner Self, is always settled in the heart of men [^149]. Let a man draw that Self forth from his body with steadiness, <span id="p24">[<sup><small>p. 24</small></sup>]</span> as one draws the pith from a reed [^150]. Let him know that Self as the Bright, as the Immortal; yes, as the Bright, as the Immortal [^151].’
+17\. ‘The Person not larger than a thumb, the inner Self, is always settled in the heart of men [^149]. Let a man draw that Self forth from his body with steadiness, <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> as one draws the pith from a reed [^150]. Let him know that Self as the Bright, as the Immortal; yes, as the Bright, as the Immortal [^151].’
 
 18\. Having received this knowledge taught by Death and the whole rule of Yoga (meditation), Nâ<i>k</i>iketa became free from passion [^152] and death, and obtained Brahman. Thus it will be with another also who knows thus what relates to the Self.
 

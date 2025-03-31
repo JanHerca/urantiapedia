@@ -32,7 +32,7 @@ dateCreated: 2024-11-25T21:10:31Z
   </table>
 </figure>
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 The wise sayings and proverbs of ancient and modern times, and in all the languages I know or to which I had access in translations, have always had a great attraction for me. Drawn from the experiences and study of human life, they have been reduced by wise men to short, pithy sentences, generally expressed in some quaint or striking form, for conveying sound moral truths. They are intended to be maxims of life, or rules of conduct, chiefly for the young, but may be read with pleasure and profit by both young and old. It was with such an object in view that the Editors of the _Wisdom of the East_ series have lately issued a number of small books on this subject carefully translated by competent specialists, and which have been highly appreciated by the English press and public. Their chief desire, however, appears to be “that these books shall be the ambassadors <span id="p12">[<sup><small>12</small></sup>]</span> of good-will and understanding between East and West,” and also that “the great ideals and lofty philosophy of Oriental thought may help to a revival of that true spirit of Charity which neither despises nor fears the nations of another creed and colour.” (See Editorial Note.)
 

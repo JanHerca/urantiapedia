@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Gô<i>s</i>, ‘the cow,’ κατ᾽ ἐξοχήν, is a personation of the animal kingdom which she maintains and protects. She is also called Drvâspa and Go<i>s</i>ûrûn: Drvâspa means ‘she who keeps horses in health,’ and is nothing more than an epithet of Gô<i>s</i>: Gô<i>s</i>ûrûn (from the Zend G<i>e</i>u<i>s</i> urvan) means ‘the Soul of the Bull’ (the primeval Bull). Although urvan is a masculine noun in Zend, yet Gô<i>s</i>ûrûn is considered a female angel, as this name is only a substitute for Gô<i>s</i>.
 
@@ -56,7 +56,7 @@ Be propitiation, with sacrifice, prayer, propitiation, and glorification.
 
 Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## I.
 
@@ -70,7 +70,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 5\. The powerful Drvâspa, made by Mazda, the holy Drvâspa, the maintainer, granted him that boon, as he was offering libations, giving gifts, sacrificing, and entreating that she would grant him that boon.
 
-6\. For her brightness and glory, I will offer her a sacrifice worth being heard; I will offer her a sacrifice well performed, namely, unto the powerful <span id="p112">[<sup><small>p. 112</small></sup>]</span> Drvâspa, made by Mazda and holy. We offer up libations to the powerful Drvâspa, made by Mazda and holy; we offer her the Haoma and meat, the baresma, the wisdom of the tongue, the holy spells, the speech, the deeds, the libations, and the rightly-spoken words.
+6\. For her brightness and glory, I will offer her a sacrifice worth being heard; I will offer her a sacrifice well performed, namely, unto the powerful <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> Drvâspa, made by Mazda and holy. We offer up libations to the powerful Drvâspa, made by Mazda and holy; we offer her the Haoma and meat, the baresma, the wisdom of the tongue, the holy spells, the speech, the deeds, the libations, and the rightly-spoken words.
 
 Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda . . . . [^535]
 
@@ -86,7 +86,7 @@ Who yokes teams of horses . . . . for assistance to the faithful [^536].
 
 10\. ‘That I may take away both hunger and thirst, from the world created by Mazda; that I may take away both old age and death, from the world created by Mazda; that I may take away both hot wind and cold wind, from the world created by Mazda, for a thousand years [^537].’
 
-11\. The powerful Drvâspa, made by Mazda, the holy Drvâspa, the maintainer, granted him that boon, <span id="p113">[<sup><small>p. 113</small></sup>]</span> as he was offering up libations, giving gifts, sacrificing, and entreating that she would grant him that boon.
+11\. The powerful Drvâspa, made by Mazda, the holy Drvâspa, the maintainer, granted him that boon, <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> as he was offering up libations, giving gifts, sacrificing, and entreating that she would grant him that boon.
 
 For her brightness and glory, I will offer her a sacrifice worth being heard . . . .
 
@@ -104,7 +104,7 @@ Who yokes teams of horses . . . . for assistance to the faithful.
 
 For her brightness and glory, I will offer her a sacrifice worth being heard . . . .
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 ## IV.
 
@@ -114,7 +114,7 @@ Who yokes teams of horses . . . . for assistance to the faithful.
 
 17 [^539]. To her did Haoma [^540] offer up a sacrifice, Haoma, the enlivening, the healing, the beautiful, the lordly, with golden eyes, upon the highest height of the Haraiti Bareza. He begged of her a boon, saying:
 
-18\. ‘Grant me this boon, O good, most beneficent Drvâspa! that I may bind the Turanian murderer, Franghrasyan [^541] that I may drag him bound, that I may bring him bound unto king Husravah, that king Husravah may kill him, behind the <i>K</i>aê<i>k</i>asta lake [^542], the deep lake of salt [^543] waters, to avenge the murder of his father Syâvarshâna [^544], a man, and of Aghraêratha, a semi-man [^545].’ <span id="p115">[<sup><small>p. 115</small></sup>]</span> 19\. The powerful Drvâspa, made by Mazda, the holy Drvâspa, the maintainer, granted him that boon, as he was offering up libations, giving gifts, sacrificing, and entreating that she would give him that boon.
+18\. ‘Grant me this boon, O good, most beneficent Drvâspa! that I may bind the Turanian murderer, Franghrasyan [^541] that I may drag him bound, that I may bring him bound unto king Husravah, that king Husravah may kill him, behind the <i>K</i>aê<i>k</i>asta lake [^542], the deep lake of salt [^543] waters, to avenge the murder of his father Syâvarshâna [^544], a man, and of Aghraêratha, a semi-man [^545].’ <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> 19\. The powerful Drvâspa, made by Mazda, the holy Drvâspa, the maintainer, granted him that boon, as he was offering up libations, giving gifts, sacrificing, and entreating that she would give him that boon.
 
 For her brightness and glory, I will offer her a sacrifice worth being heard . . . .
 
@@ -128,7 +128,7 @@ Who yokes teams of horses . . . . for assistance to the faithful.
 
 22\. ‘Grant me this boon, O good, most beneficent Drvâspa! that I may kill the Turanian murderer, Franghrasyan, behind the <i>K</i>aê<i>k</i>asta lake, the deep lake of salt waters, to avenge the murder of my father Syâvarshâna, a man, and of Aghraêratha, a semi-man [^547].’
 
-23\. The powerful Drvâspa, made by Mazda, the holy Drvâspa, the maintainer, granted him that boon, as he was offering up libations, giving gifts, sacrificing, <span id="p116">[<sup><small>p. 116</small></sup>]</span> and entreating that she would grant him that boon.
+23\. The powerful Drvâspa, made by Mazda, the holy Drvâspa, the maintainer, granted him that boon, as he was offering up libations, giving gifts, sacrificing, <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> and entreating that she would grant him that boon.
 
 For her brightness and glory, I will offer her a sacrifice worth being heard . . . .
 
@@ -146,7 +146,7 @@ Who yokes teams of horses . . . . for assistance to the faithful.
 
 For her brightness and glory, I will offer her a sacrifice worth being heard . . . .
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 ## VII.
 
@@ -158,7 +158,7 @@ Who yokes teams of horses . . . . for assistance to the faithful.
 
 30\. 'Grant me this boon, O good, most beneficent Drvâspa! that I may put to flight A<i>s</i>ta-aurva<i>n</i><i>t</i>, the son of Vîspa-thaurvô-asti, the all-afflicting, of the brazen helmet, of the brazen armour, of the thick neck, behind whom seven hundred camels . . . . [^551]; that I may put to flight the <i>H</i><i>v</i>yaona murderer, Are<i>g</i>a<i>t</i>\-aspa [^552]; that I may put to flight Dar<i>s</i>inika [^553], the worshipper of the Daêvas;
 
-31\. And that I may smite Tãthrava<i>n</i><i>t</i> [^554] of the bad law; that I may smite Spin<i>g</i>auru<i>s</i>ka [^553], the worshipper of the Daêvas; and that I may bring unto the good law the nations of the Varedhakas and of the <i>H</i><i>v</i>yaonas [^555]; and that I may smite of the <i>H</i><i>v</i>yaona nations their fifties and their hundreds, their hundreds and their thousands, their thousands and their <span id="p118">[<sup><small>p. 118</small></sup>]</span> tens of thousands, their tens of thousands and their myriads of myriads.’
+31\. And that I may smite Tãthrava<i>n</i><i>t</i> [^554] of the bad law; that I may smite Spin<i>g</i>auru<i>s</i>ka [^553], the worshipper of the Daêvas; and that I may bring unto the good law the nations of the Varedhakas and of the <i>H</i><i>v</i>yaonas [^555]; and that I may smite of the <i>H</i><i>v</i>yaona nations their fifties and their hundreds, their hundreds and their thousands, their thousands and their <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> tens of thousands, their tens of thousands and their myriads of myriads.’
 
 32\. The strong Drvâspa, made by Mazda, the holy Drvâspa, the maintainer, granted him that boon, as he was offering up libations, giving gifts, sacrificing, and entreating that she would grant him that boon.
 

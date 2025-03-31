@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 
 ONE day, some one spoke in the presence of the prince and told how the grass in the woods had become a tender green and the birds in the trees were singing of the spring, and how, in the ponds, the great lotuses were unfolding. Nature had broken the chains that winter had forged, and, around the city, those gardens so dear to young maidens were now gaily carpeted with flowers. Then, like an elephant too long confined in his stable, the prince had an irresistible desire to leave the palace.
@@ -43,7 +43,7 @@ The king learned of his son's desire, and he knew no way to oppose it.
 
 The city was decorated with garlands and streamers; a magnificent chariot was prepared, and the cripples, the aged and the beggars were ordered off the streets where the prince would pass.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 When the time came, the king sent for his son, and there were tears in his eyes as he kissed him on the brow. His gaze lingered over him, then he said to him, “Go!” And with that word he gave him permission to leave the palace, though his heart spoke differently.
 
@@ -53,7 +53,7 @@ The women in the houses heard the cries in the street. They awoke or left their 
 
 And he, at the sight of the city's splendor, at the sight of the wealth of the men and the beauty of the women, felt a new joy pour into his soul.
 
-But the Gods were jealous of the celestial felicity enjoyed by this city of the earth. They made an old man, and, in order to trouble Siddhartha's mind, <span id="p43">[<sup><small>p. 43</small></sup>]</span> they set him down on the road the prince was travelling.
+But the Gods were jealous of the celestial felicity enjoyed by this city of the earth. They made an old man, and, in order to trouble Siddhartha's mind, <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> they set him down on the road the prince was travelling.
 
 The man was leaning on a staff; he was worn out and decrepit. His veins stood out on his body, his teeth chattered, and his skin was a maze of black wrinkles. A few dirty grey hairs hung from his scalp; his eyelids had no lashes and were red-rimmed; his head and limbs were palsied.
 
@@ -67,7 +67,7 @@ The charioteer should not have answered, but the Gods confused his mind, and wit
 
 The prince was deeply moved. He asked:
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 “Will that be my fate, also?”
 
@@ -87,7 +87,7 @@ But the Gods made a man afflicted with a loathsome disease, and they set him dow
 
 Siddhartha saw the sick man; he stared at him, and he asked the charioteer:
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 “What is this man with a swollen paunch? His emaciated arms hang limp, he is deathly pale and pitiful cries escape from his lips. He gasps for breath; see, he staggers and jostles the bystanders; he is falling. . . . Charioteer, charioteer, what is this man?”
 
@@ -105,7 +105,7 @@ The charioteer answered:
 
 When he heard this painful truth, the prince began to tremble like a moonbeam reflected in the waves of the sea, and he uttered these words of bitterness and pity:
 
-“Men see suffering and sickness, yet they never lose their self-confidence! Oh, how great must be their knowledge! They are constantly threatened with sickness, and they can still laugh and be merry! Turn your horses around, charioteer; our pleasure trip is ended; let us return to the palace. I have learned to fear sickness. My soul shuns pleasure <span id="p46">[<sup><small>p. 46</small></sup>]</span> and seems to close up like a flower deprived of light.”
+“Men see suffering and sickness, yet they never lose their self-confidence! Oh, how great must be their knowledge! They are constantly threatened with sickness, and they can still laugh and be merry! Turn your horses around, charioteer; our pleasure trip is ended; let us return to the palace. I have learned to fear sickness. My soul shuns pleasure <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> and seems to close up like a flower deprived of light.”
 
 Wrapped in his painful thoughts, he returned to the palace.
 
@@ -115,7 +115,7 @@ The king was more anxious now than ever before to keep his son from leaving the 
 
 He gave strict orders to have all cripples and all who were ill or aged driven out of the city. He even changed the prince's charioteer, and he felt certain that this time there would be nothing to trouble Siddhartha's soul.
 
-But the jealous Gods made a corpse. Four men carried it, and others followed behind, weeping. <span id="p47">[<sup><small>p. 47</small></sup>]</span> And the corpse, as well as the men who carried it and the men who were weeping, was visible only to the prince and to the charioteer.
+But the jealous Gods made a corpse. Four men carried it, and others followed behind, weeping. <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> And the corpse, as well as the men who carried it and the men who were weeping, was visible only to the prince and to the charioteer.
 
 And the king's son asked:
 
@@ -133,7 +133,7 @@ Then Prince Siddhartha knew what death was.
 
 In spite of his fortitude, he shuddered. He had to lean against the chariot, and his words were full of distress:
 
-“So to this does destiny lead all creatures! And yet, without fear in his heart, man amuses himself in a thousand different ways! Death is about, and he <span id="p48">[<sup><small>p. 48</small></sup>]</span> takes to the world's highroads with a song on his lips! Oh, I begin to think that man's soul has become hardened! Turn your horses around, charioteer; this is no time to wander through the flower-gardens. How can a sensible man, a man who knows what death is, seek pleasure in the hour of anguish?”
+“So to this does destiny lead all creatures! And yet, without fear in his heart, man amuses himself in a thousand different ways! Death is about, and he <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> takes to the world's highroads with a song on his lips! Oh, I begin to think that man's soul has become hardened! Turn your horses around, charioteer; this is no time to wander through the flower-gardens. How can a sensible man, a man who knows what death is, seek pleasure in the hour of anguish?”
 
 But the charioteer kept on driving toward the garden where the king had ordered him to take his son. There, at Suddhodana's command, Udayin, who was a son of the household priest and Siddhartha's friend since childhood, had assembled many beautiful maidens, skilled in the art of dancing and of song, and skillful also in the game of love.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 FIFTH ADHYÂYA.
 
@@ -47,7 +47,7 @@ Om (is) ether, (is) Brahman [^552]. ‘There is the old ether (the invisible), a
 
 1\. The threefold descendants of Pra<i>g</i>âpati, gods, men, and Asuras (evil spirits), dwelt as; Brahma<i>k</i>ârins (students) with their father Pra<i>g</i>âpati. Having finished their studentship the gods said: ‘Tell us (something), Sir.’ He told them the syllable Da. Then he said: ‘Did you understand?’ They said: ‘We did understand. You told us “Dâmyata,” Be subdued.’ ‘Yes,’ he said, ‘you have understood.’
 
-2\. Then the men said to him: ‘Tell us something, <span id="p190">[<sup><small>p. 190</small></sup>]</span> Sir.’ He told them the same syllable Da. Then he said: ‘Did you understand?’ They said: ‘We did understand. You told us, “Datta,” Give.’ ‘Yes,’ he said, ‘you have understood.’
+2\. Then the men said to him: ‘Tell us something, <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> Sir.’ He told them the same syllable Da. Then he said: ‘Did you understand?’ They said: ‘We did understand. You told us, “Datta,” Give.’ ‘Yes,’ he said, ‘you have understood.’
 
 3\. Then the Asuras said to him: ‘Tell us something, Sir.’ He told them the same syllable Da. Then he said: ‘Did you understand?’ They said: ‘We did understand. You told us, “Dayadham,” Be merciful.’ ‘Yes,’ he said, ‘you have understood.’
 
@@ -63,14 +63,14 @@ The divine voice of thunder repeats the same, Da Da Da, that is, Be subdued, Giv
 
 ## FOURTH BRÂHMA<i>N</i>A.
 
-1\. This (heart) indeed is even that, it was indeed the true [^554] (Brahman). And whosoever knows this great glorious first-born as the true Brahman, he conquers these worlds, and conquered likewise may that (enemy) be [^555]! yes, whosoever knows this great <span id="p191">[<sup><small>p. 191</small></sup>]</span> glorious first-born as the true Brahman; for Brahman is the true.
+1\. This (heart) indeed is even that, it was indeed the true [^554] (Brahman). And whosoever knows this great glorious first-born as the true Brahman, he conquers these worlds, and conquered likewise may that (enemy) be [^555]! yes, whosoever knows this great <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> glorious first-born as the true Brahman; for Brahman is the true.
 
 
 ## FIFTH BRÂHMA<i>N</i>A.
 
 1\. In the beginning this (world) was water. Water produced the true [^556], and the true is 'Brahman. Brahman produced Pra<i>g</i>âpati [^557], Pra<i>g</i>âpati the Devas (gods). The Devas adore the true (satyam) alone. This satyam consists of three syllables. One syllable is sa, another t(i), the third [^558] yam. The first and last syllables are true, in the middle there is the untrue [^559]. This untrue is on both sides enclosed by the true, and thus the true preponderates. The untrue does not hurt him who knows this.
 
-2\. Now what is the true, that is the Âditya (the sun), the person that dwells in yonder orb, and the person in the right eye. These two rest on each other, the former resting with his rays in the latter, the latter with his prâ<i>n</i>as (senses) in the former. When the latter is on the point of departing this life, he sees that orb as white only, and those rays (of the sun) do not return to him. <span id="p192">[<sup><small>p. 192</small></sup>]</span> 3\. Now of the person in that (solar) orb Bhû<i>h</i> is the head, for the head is one, and that syllable is one; Bhuva<i>h</i> the two arms, for the arms are two, and these syllables are two; Svar the foot, for the feet are two, and these syllables are two [^560]. Its secret name is Ahar (day), and he who knows this destroys (hanti) evil and leaves (<i>g</i>ahâti) it.
+2\. Now what is the true, that is the Âditya (the sun), the person that dwells in yonder orb, and the person in the right eye. These two rest on each other, the former resting with his rays in the latter, the latter with his prâ<i>n</i>as (senses) in the former. When the latter is on the point of departing this life, he sees that orb as white only, and those rays (of the sun) do not return to him. <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> 3\. Now of the person in that (solar) orb Bhû<i>h</i> is the head, for the head is one, and that syllable is one; Bhuva<i>h</i> the two arms, for the arms are two, and these syllables are two; Svar the foot, for the feet are two, and these syllables are two [^560]. Its secret name is Ahar (day), and he who knows this destroys (hanti) evil and leaves (<i>g</i>ahâti) it.
 
 4\. Of the person in the right eye Bhû<i>h</i> is the head, for the head is one, and that syllable is one; Bhuva<i>h</i> the two arms, for the arms are two, and these syllables are two; Svar the foot, for the feet are two, and these syllables are two. Its secret name is Aham (ego), and he who knows this, destroys (hanti) evil and leaves (<i>g</i>ahâti) it.
 
@@ -85,7 +85,7 @@ The divine voice of thunder repeats the same, Da Da Da, that is, Be subdued, Giv
 1\. They say that lightning is Brahman, because lightning (vidyut) is called so from cutting off (vidânât) [^562]. Whosoever knows this, that lightning is Brahman, him (that Brahman) cuts off from evil, for lightning indeed is Brahman.
 
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 ## EIGHTH BRÂHMA<i>N</i>A.
 
@@ -104,7 +104,7 @@ The divine voice of thunder repeats the same, Da Da Da, that is, Be subdued, Giv
 1\. When the person goes away from this world, he comes to the wind. Then the wind makes room for him, like the hole of a carriage wheel, and through it he mounts higher. He comes to the sun. Then the sun makes room for him, like the hole of a Lambara [^564], and through it he mounts higher. He comes to the moon. Then the moon makes room for him, like the hole of a drum, and through it he mounts higher, and arrives at the world where there is no sorrow, no snow [^565]. There he dwells eternal years.
 
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 ## ELEVENTH BRÂHMA<i>N</i>A.
 
@@ -117,7 +117,7 @@ This is indeed the highest penance, if they place a dead person on the fire [^56
 
 ## TWELFTH BRÂHMA<i>N</i>A.
 
-1\. Some say that food is Brahman, but this is not so, for food decays without life (prâ<i>n</i>a). Others say that life (prâ<i>n</i>a) is Brahman, but this is not so, for life dries up without food. Then these two deities (food and life), when they have become one, reach that highest state (i. e. are Brahman). Thereupon Prât<i>ri</i>da said to his father: ‘Shall I be able to do any good to one who knows this, or shall I be able to do him any harm [^569]?’ The father said to him, beckoning with his hand: ‘Not so, O Prât<i>ri</i>da; for who could reach the highest state, if he has only got to the oneness of these two?’ He then said to him: ‘Vi; <span id="p195">[<sup><small>p. 195</small></sup>]</span> verily, food is Vi, for all these beings rest (vish<i>t</i>âni) on food.’ He then said: ‘Ram; verily, life is Ram, for all these beings delight (ramante) in life. All beings rest on him, all beings delight in him who knows this.’
+1\. Some say that food is Brahman, but this is not so, for food decays without life (prâ<i>n</i>a). Others say that life (prâ<i>n</i>a) is Brahman, but this is not so, for life dries up without food. Then these two deities (food and life), when they have become one, reach that highest state (i. e. are Brahman). Thereupon Prât<i>ri</i>da said to his father: ‘Shall I be able to do any good to one who knows this, or shall I be able to do him any harm [^569]?’ The father said to him, beckoning with his hand: ‘Not so, O Prât<i>ri</i>da; for who could reach the highest state, if he has only got to the oneness of these two?’ He then said to him: ‘Vi; <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> verily, food is Vi, for all these beings rest (vish<i>t</i>âni) on food.’ He then said: ‘Ram; verily, life is Ram, for all these beings delight (ramante) in life. All beings rest on him, all beings delight in him who knows this.’
 
 
 ## THIRTEENTH BRÂHMA<i>N</i>A.
@@ -131,7 +131,7 @@ This is indeed the highest penance, if they place a dead person on the fire [^56
 4\. Next follows the Kshatra. Verily, breath is the Kshatra, for breath is Kshatra, i.e. breath protects (trâyate) him from being hurt (ksha<i>n</i>ito<i>h</i>). He who knows this, obtains Kshatra (power), which requires no protection; he obtains union and oneness with Kshatra [^572].
 
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 ## FOURTEENTH BRÂHMA<i>N</i>A.
 
@@ -139,17 +139,17 @@ This is indeed the highest penance, if they place a dead person on the fire [^56
 
 2\. The <i>Ri</i>kas, the Ya<i>g</i>û<i>m</i>shi, and the Sâmâni form eight syllables. One foot (the second) of the Gâyatrî consists of eight syllables. This (one foot) of it is that (i.e. the three Vedas, the <i>Ri</i>g-veda, Ya<i>g</i>ur-veda, and Sama-veda). And he who thus knows that foot of it, conquers as far as that threefold knowledge extends.
 
-3\. The Prâ<i>n</i>a (the up-breathing), the Apâna (the down-breathing), and the Vyâna (the back-breathing) form eight syllables. One foot (the third) of the Gâyatrî consists of eight syllables. This (one foot) of it is that (i. e. the three vital breaths). And he who thus knows that foot of it, conquers as far as there is anything that breathes. And of that (Gâyatrî, or speech) this indeed is the fourth (turîya), the bright (dar<i>s</i>ata) foot, shining high above the skies [^574]. What is here called turîya (the fourth) is meant for <i>k</i>aturtha (the fourth); what is called dar<i>s</i>atam padam (the bright foot) is meant for him who is as it were seen (the person in the sun); and what is called parora<i>g</i>as (he who shines high above the <span id="p197">[<sup><small>p. 197</small></sup>]</span> skies) is meant for him who shines higher and higher above every sky. And he who thus knows that foot of the Gâyatrî, shines thus himself also with happiness and glory.
+3\. The Prâ<i>n</i>a (the up-breathing), the Apâna (the down-breathing), and the Vyâna (the back-breathing) form eight syllables. One foot (the third) of the Gâyatrî consists of eight syllables. This (one foot) of it is that (i. e. the three vital breaths). And he who thus knows that foot of it, conquers as far as there is anything that breathes. And of that (Gâyatrî, or speech) this indeed is the fourth (turîya), the bright (dar<i>s</i>ata) foot, shining high above the skies [^574]. What is here called turîya (the fourth) is meant for <i>k</i>aturtha (the fourth); what is called dar<i>s</i>atam padam (the bright foot) is meant for him who is as it were seen (the person in the sun); and what is called parora<i>g</i>as (he who shines high above the <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> skies) is meant for him who shines higher and higher above every sky. And he who thus knows that foot of the Gâyatrî, shines thus himself also with happiness and glory.
 
 4\. That Gâyatrî (as described before with its three feet) rests on that fourth foot, the bright one, high above the sky. And that again rests on the True (satyam), and the True is the eye, for the eye is (known to be) true. And therefore even now, if two persons come disputing, the one saying, I saw, the other, I heard, then we should trust the one who says, I saw. And the True again rests on force (balam), and force is life (prâ<i>n</i>a), and that (the True) rests on life [^575]. Therefore they say, force is stronger than the True. Thus does that Gâyatrî rest with respect to the self (as life). That Gâyatrî protects (tatre) the vital breaths (gayas); the gayas are the prâ<i>n</i>as (vital breaths), and it protects them. And because it protects (tatre) the vital breaths (gayas), therefore it is called Gâyatrî. And that Savit<i>ri</i> verse which the teacher teaches [^576], that is it (the life, the prâ<i>n</i>a, and indirectly the Gâyatrî); and whomsoever he teaches, he protects his vital breaths.
 
-5\. Some teach that Sâvitrî as an Anush<i>t</i>ubh [^577] verse, saying that speech is Anush<i>t</i>ubh, and that we teach <span id="p198">[<sup><small>p. 198</small></sup>]</span> that speech. Let no one do this, but let him teach the Gâyatrî as Sâvitrî [^578]. And even if one who knows this receives what seems to be much as his reward (as a teacher), yet this is not equal to one foot of the Gâyatrî.
+5\. Some teach that Sâvitrî as an Anush<i>t</i>ubh [^577] verse, saying that speech is Anush<i>t</i>ubh, and that we teach <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> that speech. Let no one do this, but let him teach the Gâyatrî as Sâvitrî [^578]. And even if one who knows this receives what seems to be much as his reward (as a teacher), yet this is not equal to one foot of the Gâyatrî.
 
 6\. If a man (a teacher) were to receive as his fee these three worlds full of all things, he would obtain that first foot of the Gâyatrî. And if a man were to receive as his fee everything as far as this threefold knowledge extends, he would obtain that second foot of the Gâyatrî. And if a man were to receive as his fee everything whatsoever breathes, he would obtain that third foot of the Gâyatrî. But ‘that fourth bright foot, shining high above the skies [^579]’ cannot be obtained by anybody—whence then could one receive such a fee?
 
 7\. The adoration [^580] of that (Gâyatrî):
 
-‘O Gâyatrî, thou hast one foot, two feet, three feet, four feet [^581]. Thou art footless, for thou art not known. Worship to thy fourth bright foot above the skies.’ If [^582] one (who knows this) hates some <span id="p199">[<sup><small>p. 199</small></sup>]</span> one and says, ‘May he not obtain this,’ or ‘May this wish not be accomplished to him,’ then that wish is not accomplished to him against whom he thus prays, or if he says, ‘May I obtain this.’
+‘O Gâyatrî, thou hast one foot, two feet, three feet, four feet [^581]. Thou art footless, for thou art not known. Worship to thy fourth bright foot above the skies.’ If [^582] one (who knows this) hates some <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> one and says, ‘May he not obtain this,’ or ‘May this wish not be accomplished to him,’ then that wish is not accomplished to him against whom he thus prays, or if he says, ‘May I obtain this.’
 
 8\. And thus <i>G</i>anaka Vaideha spoke on this point to Bu<i>d</i>ila Â<i>s</i>vatarâ<i>s</i>vi [^583]: ‘How is it that thou who spokest thus as knowing the Gâyatrî, hast become an elephant and carriest me?’ He answered: ‘Your Majesty, I did not know its mouth. Agni, fire, is indeed its mouth; and if people pile even what seems much (wood) on the fire, it consumes it all. And thus a man who knows this, even if he commits what seems much evil, consumes it all and becomes pure, clean, and free from decay and death.’
 
@@ -160,7 +160,7 @@ This is indeed the highest penance, if they place a dead person on the fire [^56
 
 2\. O Pûshan, only seer, Yama (judge), Sûrya (sun), son of Pra<i>g</i>âpati [^588], spread thy rays and gather them!
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 The light which is thy fairest form, I see it. I am what he is (viz. the person in the sun).
 

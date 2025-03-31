@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:2:15Z
   </table>
 </figure>
 
-<span id="p433">[<sup><small>p. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 <a id="o0"></a>
 
@@ -52,7 +52,7 @@ O sun, O moon, Which overshadow this lower earth! Here is this man, Who will not
 
 O sun, O moon, Which come forth from the east! Here is this man, With virtuous words, but really not good. How can he get his mind settled? Would he then allow me to be forgotten?
 
-<span id="p434">[<sup><small>p. 434</small></sup>]</span>
+<span id="p434"><sup><small>[ p. 434 ]</small></sup></span>
 
 O sun, O moon, From the east that come forth! O father, O mother, There is no sequel to your nourishing of me. How can he get his mind settled? Would he then respond tome contrary to all reason?
 

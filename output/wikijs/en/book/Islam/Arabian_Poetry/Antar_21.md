@@ -40,7 +40,7 @@ O that thou couldst see me in the infamy of despair, with wretches who respect n
 
 O that I had never lived in this age of traitors, who only see in thee my misery and dishonour!
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 Why has God prolonged my existence, now the lion is gone, who ever protected the country and the women?
 
@@ -62,7 +62,7 @@ O Knight of men and genii!—O thou that excellest every warrior in glory! mine 
 
 I will implore God ever to exalt thy glories, both morning and evening!
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 She then told Antar how Shiboob had brought the doleful news of his death, and of all that had occurred to her during his long absence; and Antar, in his turn, briefly recounted his own adventures, and the perils he had been exposed to since he quitted the land of Shurebah to procure the Asafeer camels for her dowry.
 

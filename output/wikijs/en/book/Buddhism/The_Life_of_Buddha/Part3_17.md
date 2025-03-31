@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 
 THE Master and his disciples stopped at Pava, in the garden of Cunda, the blacksmith. Cunda came and paid homage to the Master, and said to him:
@@ -51,7 +51,7 @@ Then he left. The disciples followed.
 
 They had gone only a short distance from Pava when the Master began to feel weary and sick. Ananda grieved, and he cursed Cunda, the blacksmith, for having offered the Master this fatal meal.
 
-“Ananda,” said the Master, “do not be angry <span id="p283">[<sup><small>p. 283</small></sup>]</span> with Cunda, the blacksmith. Great rewards are reserved to him for the food he gave me. Of all the meals I have ever had, two are most deserving of praise: the one that Sujata, and the other that Cunda, the blacksmith, served to me.”
+“Ananda,” said the Master, “do not be angry <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> with Cunda, the blacksmith. Great rewards are reserved to him for the food he gave me. Of all the meals I have ever had, two are most deserving of praise: the one that Sujata, and the other that Cunda, the blacksmith, served to me.”
 
 He overcame his weariness and presently he reached the banks of the Kakutstha. The river was peaceful and pure. The Master bathed in the limpid waters. After the bath, he drank, then went to a mango grove. There, he said to the monk Cundaka:
 

@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:54:6Z
 
 FOURTEENTH LECTURE. ISHUKÂRA.
 
-Having been gods in a former existence and lived in the same heavenly region, some were born (here below) in the ancient, wealthy, and famous <span id="p62">[<sup><small>p. 62</small></sup>]</span> town called Ishukâra [^175], which is beautiful like heaven. (1)
+Having been gods in a former existence and lived in the same heavenly region, some were born (here below) in the ancient, wealthy, and famous <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> town called Ishukâra [^175], which is beautiful like heaven. (1)
 
 By a remnant of the merit they had acquired in their former life, they were born in noble families. Disgusted with the world and afraid of the Sa<i>m</i>sâra, they abandoned (pleasures, &c.) and took refuge in the path of the <i>G</i>inas. (2)
 
@@ -50,7 +50,7 @@ Averse to human and heavenly pleasures, desiring liberation, and full of faith, 
 
 In order to dissuade them from a life of austerities, the father replied to those (would-be) monks: 'Those versed in the Vêdas say that there will be no better world for men without sons. (8)
 
-‘My sons, after you have studied the Vêdas, and fed the priests, after you have placed your own sons <span id="p63">[<sup><small>p. 63</small></sup>]</span> at the head of your house, and after you have enjoyed life together with your wives, then you may depart to the woods as praiseworthy sages.’ (9)
+‘My sons, after you have studied the Vêdas, and fed the priests, after you have placed your own sons <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> at the head of your house, and after you have enjoyed life together with your wives, then you may depart to the woods as praiseworthy sages.’ (9)
 
 The young men perceiving that the Purôhita was wholly consumed, as it were, by the fire of grief, which was fed by his individual inclinations and blown into a huge flame by the wind of delusion; that he suffered much and talked a great deal in many ways; that he tried to persuade them by degrees, and that he would even bribe them with money and with objects of desire, (spoke) these words: (10, 11)
 
@@ -64,7 +64,7 @@ The young men perceiving that the Purôhita was wholly consumed, as it were, by 
 
 ‘Great wealth and women, a family and exquisite pleasures: for such things people practise austerities. All this you may have for your asking.’ (16)
 
-“What avail riches for the practice of religion, what a family, what pleasures? We shall become <span id="p64">[<sup><small>p. 64</small></sup>]</span> <i>S</i>rama<i>n</i>as, possessed of many virtues, and wander about collecting alms.” (17)
+“What avail riches for the practice of religion, what a family, what pleasures? We shall become <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> <i>S</i>rama<i>n</i>as, possessed of many virtues, and wander about collecting alms.” (17)
 
 ‘As fire is produced in the Ara<i>n</i>i-wood, as butter in milk, and oil in sesamum seed, so, my sons, is the soul [^176] produced in the body; (all these things) did not exist before, they came into existence, and then they perish; but they are not permanent.’ (18)
 
@@ -74,7 +74,7 @@ The young men perceiving that the Purôhita was wholly consumed, as it were, by 
 
 “As mankind is harassed (by the one), and taken hold of (by the other), and as the unfailing ones go by, we take no delight in the life of a householder.” (21)
 
-‘Who harasses the world? who takes hold of it? <span id="p65">[<sup><small>p. 65</small></sup>]</span> whom do you call unfailing? My sons, I am anxious to learn this.’ (22)
+‘Who harasses the world? who takes hold of it? <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> whom do you call unfailing? My sons, I am anxious to learn this.’ (22)
 
 “Mankind is harassed by Death; it is taken hold of by Old Age; the days [^178] are called unfailing: know this, Father! (23)
 
@@ -88,7 +88,7 @@ The young men perceiving that the Purôhita was wholly consumed, as it were, by 
 
 “We will even now adopt the Law, after the adoption of which we shall not be born again. The future has nothing in store for us (which we have not experienced already). Faith will enable us to put aside attachment.” (28)
 
-(Bh<i>ri</i>gu speaks to his wife Vâsish<i>th</i>î.) 'Domestic <span id="p66">[<sup><small>p. 66</small></sup>]</span> life ceases (to have attraction) for one who has lost his sons; Vâsish<i>th</i>î, the time has arrived for me to turn mendicant friar. As long as a tree retains its branches, it is really a tree; when they are lopped off, it is called a trunk. (29)
+(Bh<i>ri</i>gu speaks to his wife Vâsish<i>th</i>î.) 'Domestic <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> life ceases (to have attraction) for one who has lost his sons; Vâsish<i>th</i>î, the time has arrived for me to turn mendicant friar. As long as a tree retains its branches, it is really a tree; when they are lopped off, it is called a trunk. (29)
 
 ‘As a bird without its wings, as a king in battle without his followers, as a merchant on a boat without his goods, even so am I without my sons.’ (30)
 
@@ -102,7 +102,7 @@ The young men perceiving that the Purôhita was wholly consumed, as it were, by 
 
 ‘As the fish Rôhita [^180] breaks through a weak net, even so wise men of exemplary character and famous for their austerities abandon pleasure and live as mendicants. (35)
 
-“As the herons fly through the air and the geese too, who had rent the net, even so my sons and <span id="p67">[<sup><small>p. 67</small></sup>]</span> my husband depart. Why should I, being left alone, not follow them?” (36)
+“As the herons fly through the air and the geese too, who had rent the net, even so my sons and <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> my husband depart. Why should I, being left alone, not follow them?” (36)
 
 When the queen had heard that the Purôhita with his wife and sons had entered the order, abandoning pleasures and all his large property, she spoke to the king: (37)
 
@@ -118,7 +118,7 @@ When the queen had heard that the Purôhita with his wife and sons had entered t
 
 ‘Those who have enjoyed pleasures, and have renounced them, move about like the wind, and go wherever they please, like the birds unchecked in their flight. (44)
 
-‘When they [^182] are caught, and held by my hand, <span id="p68">[<sup><small>p. 68</small></sup>]</span> sir, they struggle; we shall be like them, if we are attached to pleasures. (45)
+‘When they [^182] are caught, and held by my hand, <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> sir, they struggle; we shall be like them, if we are attached to pleasures. (45)
 
 ‘As an unbaited (bird) [^183] sees a baited one caught in the snare, even so shall we avoid every bait and walk about, not baited by anything. (46)
 
@@ -128,7 +128,7 @@ When the queen had heard that the Purôhita with his wife and sons had entered t
 
 ‘Leave your large kingdom and the pleasures which are so dear to all; abandon what pleases the senses, and what attracts; be without attachment and property; learn thoroughly the Law and give up all amusements; then practise famous and severe penance, being of firm energy [^184].’ (49, 50)
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 In this way all (these) professors of the Law gradually obtained enlightenment, being frightened by birth and death, and seeking for the end of misery. (51)
 

@@ -102,7 +102,7 @@ And thus the furious fiend addressed:
 ‘Beseems thee not, O virtue's friend,
 My mountain tops to rive and rend;
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 For I, the hermit's calm retreat,
 For deeds of war am all unmeet,’
@@ -218,7 +218,7 @@ By Saint Matanga's hermit cell:
 Matanga saw, illustrious sage,
 Those drops defile his hermitage,
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 And, as he marvelled whence they came,
 Fierce anger filled his soul with flame:
@@ -346,7 +346,7 @@ Thoughts of his fearful deeds will rise
 And fill my soul with sad surmise.
 Speech, form, and trust which naught may move
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 Thy secret strength and glory prove,
 As smouldering ashes dimly show
@@ -451,7 +451,7 @@ Sugríva, to the fight addressed,
 More closely drew his cinctured vest,
 And raised a wild sky-piercing shout
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 To call the foeman Báli out.
 Forth came impetuous Báli, stirred
@@ -552,7 +552,7 @@ As by his comrade's side he strode.
 And, still on Ráma's word intent,
 His steps to great Kishkindhá bent.
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 
 
@@ -671,7 +671,7 @@ Wove round their forms a veiling screen.
 O'er all the garden's pleasant shade
 The eyes of King Sugríva strayed,
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 And, as on grass and tree he gazed,
 The fires of wrath within him blazed.
@@ -788,7 +788,7 @@ Like faded wreath of yesterday,
 O tarry till the morning light,
 Then, if thou wilt, go forth and fight.
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 Think not I doubt thy valour, no;
 Or deem thee weaker than thy foe,
@@ -905,7 +905,7 @@ And tame the foe I would not kill.
 My fury, armed with brandished trees,
 Shall strike Sugríva to his knees:
 
-<span id="p343">[<sup><small>p. 343</small></sup>]</span>
+<span id="p343"><sup><small>[ p. 343 ]</small></sup></span>
 
 Nor shall the humbled foe withstand
 The blows of my avenging hand,
@@ -1016,7 +1016,7 @@ Brave Báli to the ground was cast,
 Where prostrate in the dust he rolled
 Clad in the sheen of glistening gold,
 
-<span id="p344">[<sup><small>p. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 As when uptorn the standard lies
 Of the great God who rules the skies.
@@ -1120,7 +1120,7 @@ These bring a prince his best renown.
 Here in the woods, O King, we live
 On roots and fruit which branches give. [^590]
 
-<span id="p345">[<sup><small>p. 345</small></sup>]</span>
+<span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 Thus nature framed our harmless race:
 Thou art a man supreme in place.
@@ -1218,7 +1218,7 @@ Tbe Maithil lady to her lord;
 And, binding Rávan with a chain,
 Had laid him at thy feet unslain.
 
-<span id="p346">[<sup><small>p. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 Yea, were she sunk in deepest hell,
 Or whelmed beneath the ocean's swell,
@@ -1322,7 +1322,7 @@ To check the rash who dare to stray
 From custom which the good obey,
 I may not, sprung of Kshatriya line,
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 Forgive this heinous sin of thine:
 The laws for those who sin like thee
@@ -1426,7 +1426,7 @@ Forgive the angry taunts that broke
 From my wild bosom as I spoke.
 And lay not to my charge, O King,
 
-<span id="p348">[<sup><small>p. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
 My mad reproaches' idle sting.
 Thou, in the truth by trial trained,
@@ -1549,7 +1549,7 @@ The Vánars fled who marked his fall.
 Let all our chiefs their succours bring,
 And Angad be anointed king:
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 For all who come of Vánar race
 Will serve him set in Báli's place.
@@ -1670,7 +1670,7 @@ Whose base hand dealt a coward's blow,
 And smote thee fighting with thy foe!
 Reft of my lord my days, alas!
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 In bitter bitter woe will pass:
 And I, long blest-with every good,

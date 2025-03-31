@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 \[A Mataridite who d. A.H. 537. This creed is still used as a text-book in schools. It is translated from Cureton's edition (London, 1843) with the assistance of at-Taftazani's commentary (Constantinople, A.H. 1310). The asterisks mark the points on which al-Mataridi differed from al-Ash‘ari.\]
 
@@ -74,7 +74,7 @@ A great sin (_kabira_) does not exclude the creature who believes from the Belie
 
 And there may be punishment for a small and pardon for a great one, if it be not of the nature of considering lawful what is forbidden, for that is unbelief (_kufr_). And the intercession (_shafa‘a_) of the Apostles and of the excellent on behalf of those who commit great sins is established.
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 And those believers who commit great sins do not remain eternally in the Fire although they die without repentance.
 
@@ -88,7 +88,7 @@ The Angels are servants of God and work according to His commands. They are not 
 
 And God has books which He has revealed to His Prophets, and in them are His commands and His promises.
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 The Night Journey (_mi‘raj_) of the Apostle of God—Upon whom be Blessing and Peace! while awake, in the body, to Heaven, then to what place God Most High willed of the Exalted Regions, is a Verity.
 

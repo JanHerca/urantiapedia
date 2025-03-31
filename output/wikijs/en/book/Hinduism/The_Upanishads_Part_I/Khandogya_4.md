@@ -36,7 +36,7 @@ FOURTH PRAPÂ<i>TH</i>AKA.
 
 ## FIRST KHA<i>N</i><i>D</i>A [^194].
 
-1\. There lived once upon a time <i>G</i>âna<i>s</i>ruti Pautrâya<i>n</i>a (the great-grandson of <i>G</i>ana<i>s</i>ruta), who was a pious giver, bestowing much wealth upon the <span id="p56">[<sup><small>p. 56</small></sup>]</span> people, and always keeping open house. He built places of refuge everywhere, wishing that people should everywhere eat of his food.
+1\. There lived once upon a time <i>G</i>âna<i>s</i>ruti Pautrâya<i>n</i>a (the great-grandson of <i>G</i>ana<i>s</i>ruta), who was a pious giver, bestowing much wealth upon the <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> people, and always keeping open house. He built places of refuge everywhere, wishing that people should everywhere eat of his food.
 
 2\. Once in the night some Ha<i>m</i>sas (flamingoes) flew over his house, and one flamingo said to another: ‘Hey, Bhallâksha, Bhallâksha (short-sighted friend). The light (glory) of <i>G</i>âna<i>s</i>ruti Pautrâya<i>n</i>a has spread like the sky. Do not go near, that it may not burn thee.’
 
@@ -50,7 +50,7 @@ The other answered: ‘As (in a game of dice) all the lower casts [^196] belong 
 
 He replied: ‘How is it with this Raikva, with the car?’
 
-6\. The king said: ‘As (in a game of dice), all the lower casts belong to him who has conquered with the K<i>ri</i>ta cast, so whatever good deeds other people perform, belong to that Raikva. He who knows what he knows, he is thus spoken of by me.’ <span id="p57">[<sup><small>p. 57</small></sup>]</span> 7\. The door-keeper went to look for Raikva, but returned saying, ‘I found him not.’ Then the king said: ‘Alas! where a Brâhma<i>n</i>a should be searched for (in the solitude of the forest), there go for him.’
+6\. The king said: ‘As (in a game of dice), all the lower casts belong to him who has conquered with the K<i>ri</i>ta cast, so whatever good deeds other people perform, belong to that Raikva. He who knows what he knows, he is thus spoken of by me.’ <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> 7\. The door-keeper went to look for Raikva, but returned saying, ‘I found him not.’ Then the king said: ‘Alas! where a Brâhma<i>n</i>a should be searched for (in the solitude of the forest), there go for him.’
 
 8\. The door-keeper came to a man who was lying beneath a car and scratching his sores [^197]. He addressed him, and said: ‘Sir, are you Raikva with the car? ’
 
@@ -70,7 +70,7 @@ Then <i>G</i>âna<i>s</i>ruti Pautrâya<i>n</i>a took again a thousand cows, a n
 
 4\. He said to him: ‘Raikva, there are a thousand cows, a necklace, a carriage with mules, this wife, and this village in which thou dwellest. Sir, teach me!’
 
-5\. He, opening her mouth [^198], said: ‘You have <span id="p58">[<sup><small>p. 58</small></sup>]</span> brought these (cows and other presents), O <i>S</i>ûdra, but only by that mouth did you make me speak.’
+5\. He, opening her mouth [^198], said: ‘You have <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> brought these (cows and other presents), O <i>S</i>ûdra, but only by that mouth did you make me speak.’
 
 These are the Raikva-par<i>n</i>a villages in the country of the Mahâv<i>ri</i>shas (mahâpu<i>n</i>yas) where Raikva dwelt under him [^199]. And he said to him:
 
@@ -88,11 +88,11 @@ These are the Raikva-par<i>n</i>a villages in the country of the Mahâv<i>ri</i>
 
 5\. Once while <i>S</i>aunaka Kâpeya and Abhipratârin Kâkshaseni were being waited on at their meal, a religious student begged of them. They gave him nothing.
 
-6\. He said: ‘One god—who is he?—swallowed the four great ones [^201], he, the guardian of the world. <span id="p59">[<sup><small>p. 59</small></sup>]</span> O Kâpeya, mortals see him not, O Abhipratârin, though he dwells in many places. He to whom this food belongs, to him it has not been given [^202].’
+6\. He said: ‘One god—who is he?—swallowed the four great ones [^201], he, the guardian of the world. <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> O Kâpeya, mortals see him not, O Abhipratârin, though he dwells in many places. He to whom this food belongs, to him it has not been given [^202].’
 
 7\. <i>S</i>aunaka Kâpeya, pondering on that speech, went to the student and said: ‘He is the self of the Devas, the creator of all beings, with golden tusks, the eater, not without intelligence. His greatness is said to be great indeed, because, without being eaten, he eats even what is not food [^203]. Thus do we, O Brahma<i>k</i>ârin, meditate on that Being.’ Then he said: ‘give him food.’
 
-8\. They gave him food. Now these five (the eater Vâyu (air), and his food, Agni (fire), Âditya (sun), <i>K</i>andramas (moon), Ap (water)) and the other five (the eater Prâ<i>n</i>a (breath), and his food, speech, sight, hearing, mind) make ten, and that is the K<i>ri</i>ta (the highest [^204]) cast (representing the ten, the eaters and the food). Therefore in all quarters those ten are food (and) K<i>ri</i>ta (the highest cast). These are again the Virâ<i>g</i> [^205] (of ten syllables) <span id="p60">[<sup><small>p. 60</small></sup>]</span> which eats the food. Through this all this becomes seen. He who knows this sees all this and becomes an eater of food, yea, he becomes an eater of food.
+8\. They gave him food. Now these five (the eater Vâyu (air), and his food, Agni (fire), Âditya (sun), <i>K</i>andramas (moon), Ap (water)) and the other five (the eater Prâ<i>n</i>a (breath), and his food, speech, sight, hearing, mind) make ten, and that is the K<i>ri</i>ta (the highest [^204]) cast (representing the ten, the eaters and the food). Therefore in all quarters those ten are food (and) K<i>ri</i>ta (the highest cast). These are again the Virâ<i>g</i> [^205] (of ten syllables) <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> which eats the food. Through this all this becomes seen. He who knows this sees all this and becomes an eater of food, yea, he becomes an eater of food.
 
 ## FOURTH KHA<i>N</i><i>D</i>A [^206].
 
@@ -108,7 +108,7 @@ These are the Raikva-par<i>n</i>a villages in the country of the Mahâv<i>ri</i>
 
 Having initiated him, he chose four hundred lean and weak cows, and said: ‘Tend these, friend.’
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 He drove them out and said to himself, ‘I shall not return unless I bring back a thousand.’ He dwelt a number of years (in the forest), and when the cows had become a thousand,
 
@@ -128,7 +128,7 @@ He said to him: 'The eastern region is one quarter, the western region is one qu
 
 1\. ‘Agni will declare to you another foot of Brahman.’
 
-(After these words of the bull), Satyakâma, on the morrow, drove the cows (toward the house of the teacher). And when they came towards the evening, he lighted a fire, penned the cows, laid wood on the fire, and sat down behind the fire, looking to the east. <span id="p62">[<sup><small>p. 62</small></sup>]</span> 2\. Then Agni (the fire) said to him: ‘Satyakâma!’ He replied: ‘Sir.’
+(After these words of the bull), Satyakâma, on the morrow, drove the cows (toward the house of the teacher). And when they came towards the evening, he lighted a fire, penned the cows, laid wood on the fire, and sat down behind the fire, looking to the east. <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> 2\. Then Agni (the fire) said to him: ‘Satyakâma!’ He replied: ‘Sir.’
 
 3\. Agni said: ‘Friend, I will declare unto you one foot of Brahman.’
 
@@ -150,7 +150,7 @@ He said to him: ‘The earth is one quarter, the sky is one quarter, the heaven 
 
 ‘Declare it, Sir,’ he replied.
 
-He said to him: 'Fire is one quarter, the sun is one quarter, the moon is one quarter, lightning is one quarter. This is a foot of Brahman, consisting of four quarters, and called <i>G</i>yotishmat (full of light). <span id="p63">[<sup><small>p. 63</small></sup>]</span> 4\. 'He who knows this and meditates on the foot of Brahman, consisting of four quarters, by the name of <i>G</i>yotishmat, becomes full of light in this world. He conquers the worlds which are full of light, whoever knows this and meditates on the foot of Brahman, consisting of four quarters, by the name of <i>G</i>yotishmat.
+He said to him: 'Fire is one quarter, the sun is one quarter, the moon is one quarter, lightning is one quarter. This is a foot of Brahman, consisting of four quarters, and called <i>G</i>yotishmat (full of light). <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> 4\. 'He who knows this and meditates on the foot of Brahman, consisting of four quarters, by the name of <i>G</i>yotishmat, becomes full of light in this world. He conquers the worlds which are full of light, whoever knows this and meditates on the foot of Brahman, consisting of four quarters, by the name of <i>G</i>yotishmat.
 
 ## EIGHTH KHA<i>N</i><i>D</i>A.
 
@@ -168,7 +168,7 @@ He said to him: 'Breath is one quarter, the eye is one quarter, the ear is one q
 
 ‘He who knows this and meditates on the foot of Brahman, consisting of four quarters, by the name of Âyatanavat, becomes possessed of a home in this world. He conquers the worlds which offer a home, whoever knows this and meditates on the foot of Brahman, consisting of four quarters, by the name of Âyatanavat.’
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## NINTH KHA<i>N</i><i>D</i>A.
 
@@ -184,7 +184,7 @@ He said to him: 'Breath is one quarter, the eye is one quarter, the ear is one q
 
 2\. Then his wife said to him: ‘This student, who is quite exhausted (with austerities), has carefully tended your fires. Let not the fires themselves blame you, but teach him.’ The teacher, however, went away on a journey without having taught him.
 
-The student from sorrow was not able to eat. <span id="p65">[<sup><small>p. 65</small></sup>]</span> Then the wife of the teacher said to him: ‘Student, eat! Why do you not eat?’ He said: ‘There are many desires in this man here, which lose themselves in different directions. I am full of sorrows, and shall take no food.’
+The student from sorrow was not able to eat. <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> Then the wife of the teacher said to him: ‘Student, eat! Why do you not eat?’ He said: ‘There are many desires in this man here, which lose themselves in different directions. I am full of sorrows, and shall take no food.’
 
 4\. Thereupon the fires said among themselves: ‘This student, who is quite exhausted, has carefully tended us. Well, let us teach him.’ They said to him:
 
@@ -196,7 +196,7 @@ They said: ‘What is Ka is Kha, what is Kha is Ka [^211].’ They therefore tau
 
 ## ELEVENTH KHA<i>N</i><i>D</i>A.
 
-1\. After that the Gârhapatya fire [^213] taught him Earth, fire, food, and the sun (these are my forms, or <span id="p66">[<sup><small>p. 66</small></sup>]</span> forms of Brahman). The person that is seen in the sun, I am he, I am he indeed [^214].
+1\. After that the Gârhapatya fire [^213] taught him Earth, fire, food, and the sun (these are my forms, or <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> forms of Brahman). The person that is seen in the sun, I am he, I am he indeed [^214].
 
 2\. ‘He who knowing this meditates on him, destroys sin, obtains the world (of Agni Gârhapatya), reaches his full age, and lives long; his descendants do not perish. We guard him in this world and in the other, whosoever knowing this meditates on him.’
 
@@ -208,7 +208,7 @@ They said: ‘What is Ka is Kha, what is Kha is Ka [^211].’ They therefore tau
 
 ## THIRTEENTH KHA<i>N</i><i>D</i>A.
 
-1\. Then the Âhavanîya [^216] fire taught him: 'Breath, ether, heaven, and lightning (these are my forms). The person that is seen in the lightning, I am he, I am he indeed. <span id="p67">[<sup><small>p. 67</small></sup>]</span> 2\. ‘He who knowing this meditates on him, destroys sin, obtains the world (of Agni Âhavanîya), reaches his full age, and lives long; his descendants do not perish. We guard him in this world and in the other, whosoever knowing this meditates on him.’
+1\. Then the Âhavanîya [^216] fire taught him: 'Breath, ether, heaven, and lightning (these are my forms). The person that is seen in the lightning, I am he, I am he indeed. <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> 2\. ‘He who knowing this meditates on him, destroys sin, obtains the world (of Agni Âhavanîya), reaches his full age, and lives long; his descendants do not perish. We guard him in this world and in the other, whosoever knowing this meditates on him.’
 
 ## FOURTEENTH KHA<i>N</i><i>D</i>A.
 
@@ -226,7 +226,7 @@ The teacher said: ‘My friend, they have taught you about the worlds, but I sha
 
 ## FIFTEENTH KHA<i>N</i><i>D</i>A.
 
-1\. He said: 'The person that is seen in the eye, that is the Self. This is the immortal, the fearless, this is Brahman [^217]. Even though they drop melted <span id="p68">[<sup><small>p. 68</small></sup>]</span> butter or water on him, it runs away on both sides [^218].
+1\. He said: 'The person that is seen in the eye, that is the Self. This is the immortal, the fearless, this is Brahman [^217]. Even though they drop melted <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> butter or water on him, it runs away on both sides [^218].
 
 2\. 'They call him Sa<i>m</i>yadvâma, for all blessings (vâma) go towards him (sa<i>m</i>yanti). All blessings go towards him who knows this.
 
@@ -240,7 +240,7 @@ The teacher said: ‘My friend, they have taught you about the worlds, but I sha
 
 ## SIXTEENTH KHA<i>N</i><i>D</i>A [^220].
 
-1\. Verily, he who purifies (Vâyu) is the sacrifice, for he (the air) moving along purifies everything. <span id="p69">[<sup><small>p. 69</small></sup>]</span> Because moving along he purifies everything, therefore he is the sacrifice. Of that sacrifice there are two ways, by mind and by speech.
+1\. Verily, he who purifies (Vâyu) is the sacrifice, for he (the air) moving along purifies everything. <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> Because moving along he purifies everything, therefore he is the sacrifice. Of that sacrifice there are two ways, by mind and by speech.
 
 2\. The Brahman priest performs one of them in his mind [^221], the Hot<i>ri</i>, Adhvaryu, and Udgât<i>ri</i> priests perform the other by words. When the Brahman priest, after the Prâtaranuvâka ceremony has begun, but before the recitation of the Paridhânîyâ hymn, has (to break his silence and) to speak,
 
@@ -251,7 +251,7 @@ The teacher said: ‘My friend, they have taught you about the worlds, but I sha
 5\. As a man walking on two legs and a carriage going on two wheels gets on, so his sacrifice gets on, and with the successful sacrifice the sacrificer gets on; yes, having sacrificed, he becomes better.
 
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 ## SEVENTEENTH KHA<i>N</i><i>D</i>A.
 
@@ -265,11 +265,11 @@ The teacher said: ‘My friend, they have taught you about the worlds, but I sha
 
 5\. If the sacrifice is injured from the Ya<i>g</i>ur-veda side, let him offer a libation in the Dakshi<i>n</i>a fire, saying, Bhuva<i>h</i>, Svâhâ! Thus does he bind together and heal, by means of the essence and the power of the Ya<i>g</i>us verses themselves, whatever break the Ya<i>g</i>us sacrifice may have suffered.
 
-6\. If the sacrifice is injured by the Sâma-veda side, let him offer a libation in the Âhavanîya fire, saying, Sva<i>h</i>, Svâhâ! Thus does he bind together and heal, by means of the essence and the power of the Sâman verses themselves, whatever break the Sâman sacrifice may have suffered. <span id="p71">[<sup><small>p. 71</small></sup>]</span> 7\. As one binds (softens) gold by means of lava<i>n</i>a [^222] (borax), and silver by means of gold, and tin by means of silver, and lead by means of tin, and iron (loha) by means of lead, and wood by means of iron, or also by means of leather,
+6\. If the sacrifice is injured by the Sâma-veda side, let him offer a libation in the Âhavanîya fire, saying, Sva<i>h</i>, Svâhâ! Thus does he bind together and heal, by means of the essence and the power of the Sâman verses themselves, whatever break the Sâman sacrifice may have suffered. <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> 7\. As one binds (softens) gold by means of lava<i>n</i>a [^222] (borax), and silver by means of gold, and tin by means of silver, and lead by means of tin, and iron (loha) by means of lead, and wood by means of iron, or also by means of leather,
 
 8\. Thus does one bind together and heal any break in the sacrifice by means of (the Vyâh<i>ri</i>tis or sacrificial interjections which are) the essence and strength of the three worlds, of the deities, and of the threefold knowledge. That sacrifice is healed [^223] in which there is a Brahman priest who knows this.
 
-9\. That sacrifice is inclined towards the north (in the right way) in which there is a Brahman priest who knows this. And with regard to such a Brahman priest there is the following Gâthâ [^224]: ‘Whereever it falls back, thither the man [^225] goes,’—viz. the Brahman only, as one of the <i>Ri</i>tvi<i>g</i> priests. ‘He saves the Kurus as a mare’ (viz. a Brahman priest who <span id="p72">[<sup><small>p. 72</small></sup>]</span> knows this, saves the sacrifice, the sacrificer, and all the other priests). Therefore let a man make him who knows this his Brahman priest, not one who does not know it, who does not know it.
+9\. That sacrifice is inclined towards the north (in the right way) in which there is a Brahman priest who knows this. And with regard to such a Brahman priest there is the following Gâthâ [^224]: ‘Whereever it falls back, thither the man [^225] goes,’—viz. the Brahman only, as one of the <i>Ri</i>tvi<i>g</i> priests. ‘He saves the Kurus as a mare’ (viz. a Brahman priest who <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> knows this, saves the sacrifice, the sacrificer, and all the other priests). Therefore let a man make him who knows this his Brahman priest, not one who does not know it, who does not know it.
 
 
 

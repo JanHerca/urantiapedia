@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 
 FROM Vaisali, the Master went to Cravasti, to Jeta's park. One day, King Prasenajit came to see him. “My Lord,” said the king, “six hermits have recently arrived in Cravasti. They do not believe in your law. They maintain that your knowledge is not equal to theirs, and they have tried to astonish me by performing numerous prodigies. I believe their statements to be untrue, but it would be well, my Lord, if you were to confound their audacity. The world's salvation depends upon your glory. So appear before these cheats and impostors and silence them.”
@@ -41,7 +41,7 @@ FROM Vaisali, the Master went to Cravasti, to Jeta's park. One day, King Prasena
 
 Prasenajit ordered the hall to be built.
 
-While awaiting the day of the trial, the lying hermits sought to delude the Master's faithful followers, and those who refused to listen to their evil <span id="p218">[<sup><small>p. 218</small></sup>]</span> words incurred their bitter enmity. Now, the Master had no truer friend in Cravasti than Prince Kala, a brother of Prasenajit. Kala had shown his utter contempt for the hermits, and they decided to take their revenge.
+While awaiting the day of the trial, the lying hermits sought to delude the Master's faithful followers, and those who refused to listen to their evil <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> words incurred their bitter enmity. Now, the Master had no truer friend in Cravasti than Prince Kala, a brother of Prasenajit. Kala had shown his utter contempt for the hermits, and they decided to take their revenge.
 
 Kala was a very handsome man. One day, as he was walking through the royal gardens, he met one of Prasenajit's wives, and she playfully threw him a garland of flowers. The hermits heard of the incident, and they told the king that his brother had tried to seduce one of his wives. The king flew into a great rage, and without giving Kala a chance to justify himself, he had his hands and feet cut off.
 
@@ -55,7 +55,7 @@ Then Kala began to sing:
 
 “How can the Master of the worlds fail to see my misery? Let us worship the Lord who no longer knows desire; let us adore the Blessed One who takes pity on all creatures.”
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 Ananda suddenly appeared before him.
 
@@ -75,7 +75,7 @@ The day arrived on which the Master was to compete with the hermits. Early in th
 
 “Hermits,” said the king, “do not scoff at him. You know how he sent one of his disciples to cure my brother whom I had unjustly punished. He will come. He may even be here, in our midst, without our knowing it.”
 
-As the king finished speaking, a luminous cloud filled the hall. It became lighter and lighter; it <span id="p220">[<sup><small>p. 220</small></sup>]</span> melted into the daylight, and the Buddha appeared, arrayed in golden splendor. Behind him stood Ananda and Kala. Ananda held a red flower in his hand, Kala a yellow flower, and never, in all the gardens of Cravasti, had any one seen two such flowers as these.
+As the king finished speaking, a luminous cloud filled the hall. It became lighter and lighter; it <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> melted into the daylight, and the Buddha appeared, arrayed in golden splendor. Behind him stood Ananda and Kala. Ananda held a red flower in his hand, Kala a yellow flower, and never, in all the gardens of Cravasti, had any one seen two such flowers as these.
 
 Prasenajit showed his profound admiration. The evil hermits ceased their laughter.
 
@@ -87,7 +87,7 @@ The hermits were alarmed. They saw the king viewing them with a scornful eye, an
 
 Suddenly, the roof of the hall disappeared, and on the dome of the sky, stretching from the east to the west, the Master traced a course over which he proceeded to travel. At the sight of this prodigy, his most insolent rival fled in terror. The hermit imagined he was being pursued by a howling pack. of hounds, and he never stopped running until he came to the edge of a pool. There, he tied a stone to his neck and threw himself into the water. A fisherman found his body the following day.
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 In the meanwhile, the Master had created a being in his own image, and, with him, he was now walking in the celestial path. And his great voice was heard, saying:
 

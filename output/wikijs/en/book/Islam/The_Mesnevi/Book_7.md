@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 ## VII. The Merchant and the Parrot.
 
@@ -62,7 +62,7 @@ Leave him in his cage, while you forests affect.
 He wishes you'd call to your mind your lost friend,
 When drinking your bumpers, ere fieldward you wend.[^202]
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 ’Tis sweet to be thought of by far-away dame,
 One's sweetheart, whose love's set one's heart in a flame.
@@ -97,7 +97,7 @@ All wrongs seem to him, through his love, purest bliss.
 He loveth a rose, and himself is a rose.
 He loveth himself; and seeks love for its woes.”
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Just so is the soul. Its tale, just parrot's tale.
 O where is the One to whom all souls make wail?
@@ -130,7 +130,7 @@ In wooded retreat, flock of parrots he found.
 He stopped his beast, cried out, at top of his voice,
 That message his Polly had made, as his choice.
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 One bird of the flock, he saw, then took to quake,
 Fell prone to the earth; no more breath seemed to take.
@@ -167,7 +167,7 @@ Impatience who showeth, tastes wrath that's to come.
 A saint is not hurt, whate’er else may betide,[^209]
 To swallow fell poison should he once decide.
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 He's whole, and he's sound; strict diet's his rule.
 Poor students are healthy in fever's dread school.
@@ -204,7 +204,7 @@ Produce to our sight the tricks ye’ve in your hands.”
 The honour thus paid was a slur on their faith,
 Removing contention from out of their path.
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 When they had perceived what was thus due to him,
 They error acknowledged, though somewhat too dim.
@@ -240,7 +240,7 @@ So tears run wherever repentance appears.
 To weep, Adam came down to this nether world;
 To sigh, moan, and groan; far from sweet Eden hurled,
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 From paradise shut out, from heaven driven down,
 Like schoolboy in fool's-cap, his great sin to drown.
@@ -278,7 +278,7 @@ To merchant and parrot's tale ear we will lend.
 Our merchant his trading had quickly despatched,
 Then homeward he turned; with joy housedoor unlatched.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 To ev’ry male slave a rare present he brought;
 <sup id="v105"><small>105</small></sup>  For each of his handmaids some gift he had bought.
@@ -314,7 +314,7 @@ The arrow poor Jill hits;—straightway does her kill.
 If only it wound her, for great length of time
 It tortures. Pain's God's work; wherever the clime.
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 Should Jack, at that moment, expire from his fright,
 <sup id="v120"><small>120</small></sup>  To plague her Jill's wound would not cease, day or night.
@@ -349,7 +349,7 @@ Enlightened saints rule hold o’er hearts;—their own sway.
 All acts are fruits, doubtless, of experience.
 Man, then, is but pupil. All's, else, mere pretence.[^220]
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 I'll close now this subject; much more I might say;
 <sup id="v135"><small>135</small></sup>  Prevented I am by the rules I obey.
@@ -388,7 +388,7 @@ And moaned, in distress wildly sobbing, throughout:
 “My parrot, why, dearest, thus broken of heart?
 <sup id="v150"><small>150</small></sup>  Dead art thou, now, really? So fain to depart?
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Poor pet! Darling bird! With thee, hours I could talk.
 My sweetheart! My second self! Loved was thy walk.
@@ -424,7 +424,7 @@ Alas! That swift bird, boldly soaring, of mine,
 The ignorant, wooers of trouble are, all.
 “I swear,” down to “misery” read, thou poor thrall.[^222]
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 From misery free made me thy countenance.
 From spume, so the clear stream of thy assistance.
@@ -459,7 +459,7 @@ Male-lion-like, grief all kind condolence spurns.
 He who in his senses has thus become drunk,
 How fierce would he rage, if in cups he were sunk.
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 A lion in heat, he, despising all bounds;
 No forest would hold him, nor dense jungle-grounds.
@@ -496,7 +496,7 @@ If lover thou see, know, a sweetheart he's, too,
 If thirst seeks for water in this wide domain,
 The water, on its side, the thirst courts again.
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Should any one love thee, do thou silent be.
 Thy ear claims he then, thou attentive should’st be.
@@ -534,7 +534,7 @@ That ancients and moderns to it are all sport.
 I've made short my story; details are not given.
 <sup id="v215"><small>215</small></sup>  ’Twould otherwise scorch heart and tongue's whole joint leaven.
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 When I may say “lip,” I mean “margin of sea;”
 When “No!” you may take its true sense “Yes!” to be.
@@ -566,7 +566,7 @@ Man's jealousy, chaff blown away out of door.
 Know: Jealousy rise doth take, still, in our God;
 Man's jealousy budded from that noble rod.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 Let's quit that deep subject; take up plaint and wail,
 <sup id="v230"><small>230</small></sup>  Against the great hardship of love's chastening flail.[^228]
@@ -600,7 +600,7 @@ Where units appear, Thou’rt the sum of the whole!
 This “_I_” and this “_we_” Thou’st ordained for Thy state;
 That psalms, hymns, and lauds may still rise to Thy gate.
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 When “I” and when “we” shall unite both in One,
 <sup id="v245"><small>245</small></sup>  Absorbed they'll be in Thy essence alone.
@@ -639,7 +639,7 @@ My eagerness grows not from joy, or from grief;
 My state is just one very often not seen;
 Contest not; truth's ever victorious been.
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 Think not my state that of all these common men;
 Be not benefactor, to tyrannise then.
@@ -673,7 +673,7 @@ In hopes that some aid to his rescue will come,
 His sweetheart takes pleasure his struggles to see;
 An effort's more noble than despondency.
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 A bridegroom is, surely, not quite free from cares.
 His moans we expect not. Pain's not what he fears.
@@ -710,7 +710,7 @@ Become thou but grain; thou’lt be pecked up by birds.
 Thy grain hidest thou? Thou’rt naught else but brick-trap.
 Thy flower shuttest up? Thou’rt a weed on house-top.
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 His beauty whoever may offer for sale,
 Invites many troubles his heart to assail.
@@ -749,7 +749,7 @@ See how souls should act, to gain heavenly bliss.”
 The body's a cage and a thorn to the soul.
 Hence, seldom are. body and soul wholly whole.
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 The body says: “I'll follow where thou mayest lead.”
 The soul answers: “Nay! Thy desire's all I heed.”
@@ -788,7 +788,7 @@ Nor one, nor the other, is worth half the cost.
 Duration they have not; effects they produce.
 <sup id="v325"><small>325</small></sup>  By contraries, contraries all we deduce.
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 As hidden effect of a diet of sweets,
 By long incubation, boils break out, or gleets.
@@ -823,7 +823,7 @@ Best “record” of man must be blots and complaints.[^236]
 O God! Thy grace, sole, ’tis sustains us as men,
 <sup id="v340"><small>340</small></sup>  Another to name with Thee suits not a pen.
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 To servants, sound judgment Thou’st kindly vouchsafed.
 This gift made the means, we've from error escaped.
@@ -862,7 +862,7 @@ O Death? Thou restorest, now, the whole prey of thine;
 Consider, my friend, in thyself; now, awhile,
 The spring and the autumn thou in thee seest smile.
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Look thou that thy heart be green, yield its good fruits
 Of righteousness, purity,—heaven's best recruits.
@@ -892,7 +892,7 @@ A blind eye's affliction, where’er it be found.
 In presence of Joseph, no coquetries use.[^243]
 But humble thyself; soft entreaties infuse.
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 The parrot had death simulated, as prayer.
 <sup id="v370"><small>370</small></sup>  Do thou to pride die; thou mayest so live for e’er.

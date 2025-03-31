@@ -69,7 +69,7 @@ Barbour, C. E., 134
 
 Barnes, H. E., 65, 102, 220
 
-Barth, Karl, 51  <span id="p300">[<sup><small>p. 300</small></sup>]</span>
+Barth, Karl, 51  <span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 Barthianism, 46
 
@@ -1287,7 +1287,7 @@ _Idea of God in the Light of Recent Philosophy_, _The,_ A. S. Pringle-Pattison. 
 
 _Idea of God in the Philosophy of Augustine_, _The,_ W. P. Tolley, 70, 296 Idea of the Holy, _The,_ R. Otto, Eng. trans, by J. W. Harvey, 262, 264
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 _Immanence of God_, _The,_ B. P. Bowne, 166
 
@@ -1437,7 +1437,7 @@ _Religion_, E. S. Ames, 168, 226 Religion as Man's Completion, R. M. Binder, 226
 
 _Religion Coming of Age_, R. W. Sellars, 69, 166, 193, 262
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 _Religion in the Making_, A. N. Whitehead, 104, 298
 

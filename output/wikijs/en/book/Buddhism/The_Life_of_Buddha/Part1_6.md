@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 
 THE prince grew older, and the time came for him to study with the teacher who instructed the young Sakyas in the art of writing. This teacher was called Visvamitra.
@@ -49,7 +49,7 @@ Visvamitra made no answer: he was struck dumb with astonishment. Finally, he rep
 
 “I see, my lord, that there is nothing I can teach you. Of the scripts you mentioned, some are known to me only by name, and others are unknown to me even by name. It is I who should sit at your feet and learn. No, my lord, there is nothing I can teach you.”
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 He was smiling, and the prince returned his affectionate glance.
 
@@ -73,7 +73,7 @@ Whereupon they all exclaimed:
 
 Then they sang his praises, and the first one said: “To a world consumed by an evil fire, he has come like a lake. His law will refresh the world.”
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 The second one said: “To a world darkened by ignorance, he has come like a torch. His law will bring light into the world.”
 
@@ -91,7 +91,7 @@ The servant ran back to the palace of the king.
 
 “My lord,” he cried, “I have seen your son; he is meditating under a tree whose shadow has not moved, whereas the shadows of all the other trees have moved and lengthened.”
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Suddhodana left the palace and followed the servant to where his son was seated. Weeping for joy, he said to himself:
 

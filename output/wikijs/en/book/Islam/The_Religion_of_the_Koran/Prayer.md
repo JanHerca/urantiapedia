@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 CHAPTER II., Verse 182.—When my servants ask thee concerning me, then, verily, I am near; I answer the prayer's prayer whene'er he prays to Me. So let them ask Me for an answer, and let them believe in me; haply they may be directed aright.
 
@@ -44,7 +44,7 @@ Chapter XIV., Verse 36.—Say to my servants who believe, that they be steadfast
 
 Chapter XVII., Verse 80.—Be thou steadfast in prayer from the declining of the sun until the dusk of the night, and the reading of the dawn; verily, the reading of the dawn is ever testified to.
 
-Chapter XX., Verse 132.—Bid thy people to prayer, and persevere in it; we do not ask thee to <span id="p58">[<sup><small>p. 58</small></sup>]</span> provide. We will provide, and the issue shall be to piety.
+Chapter XX., Verse 132.—Bid thy people to prayer, and persevere in it; we do not ask thee to <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> provide. We will provide, and the issue shall be to piety.
 
 Chapter XXII., Verse 76.—Be ye then steadfast to prayer, and give alms, and hold fast by God; He is your sovereign, and an excellent sovereign, and an excellent help!
 

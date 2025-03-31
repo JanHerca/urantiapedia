@@ -36,7 +36,7 @@ FIFTH LECTURE, CALLED FREEDOM FROM ERROR.
 
 A very clever (monk) who practises the vow of chastity, should not adopt the following (heretical) doctrines, nor behave badly in this religion. (1)
 
-He should not believe that (this world) is without beginning or without end, eternal or not eternal, according to the argumentation (of heretics) [^1184]. (2) From these alternatives you cannot arrive at <span id="p406">[<sup><small>p. 406</small></sup>]</span> truth; from these alternatives you are, certainly, led to error. (3)
+He should not believe that (this world) is without beginning or without end, eternal or not eternal, according to the argumentation (of heretics) [^1184]. (2) From these alternatives you cannot arrive at <span id="p406"><sup><small>[ p. 406 ]</small></sup></span> truth; from these alternatives you are, certainly, led to error. (3)
 
 One should not say: that there will be an end of beings who (know and) teach the truth [^1185]; nor that all beings are not alike, nor that they shall be in (perpetual) bondage, or (that the prophets are) eternal. (4)
 
@@ -48,7 +48,7 @@ One should know that those who accept things especially prepared for them [^1186
 
 From these alternatives, &c. (9)
 
-One should not maintain the identity of the audârika [^1187], âhârika, and kârma<i>n</i>a bodies, nor <span id="p407">[<sup><small>p. 407</small></sup>]</span> that everything cannot everywhere come into existence [^1188], nor that it can. (10)
+One should not maintain the identity of the audârika [^1187], âhârika, and kârma<i>n</i>a bodies, nor <span id="p407"><sup><small>[ p. 407 ]</small></sup></span> that everything cannot everywhere come into existence [^1188], nor that it can. (10)
 
 From these alternatives, &c. (11)
 
@@ -68,7 +68,7 @@ Do not maintain that the experiencing of the effect, and the annihilation of Kar
 
 Do not maintain that activity and non-activity do not exist, but that they exist. (19)
 
-<span id="p408">[<sup><small>p. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 Do not maintain that anger and pride do not exist, but that they exist. (20)
 
@@ -94,7 +94,7 @@ The theory will not work that (a man is always) good, or (always) bad. The wrong
 
 Do not assert that those men are well-behaved monks who lead a pure life, and that those others lead an impure life. (31)
 
-<span id="p409">[<sup><small>p. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 A wise monk should not say: we get alms (from this householder) or we do not; but he should improve his chances for final liberation [^1192]. (32)
 

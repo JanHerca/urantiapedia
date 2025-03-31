@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 4. On the fast days, two crooked ram's-horns were used, whose mouth-pieces were covered with silver, and the two trumpets were stationed in the middle between them; the sound of the trumpets was prolonged after that of the horns had ceased, because the obligation of the day applies more particularly to the sounding of the trumpets.
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 § 5. The year of jubilee is like the feast of new year, in respect to the sounding and the blessings. R. Jehudah says, “On the feast of new year a ram's-horn was sounded, and on the year of jubilee the horn of a chamois.”
 

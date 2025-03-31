@@ -44,7 +44,7 @@ But such appearances are highly beloved and esteemed in the eye of one who has a
 
 At every moment he witnesses a wonderful world and a New Creation, he adds astonishment upon astonishment and he becomes dazed at the new creation of the King of Oneness.
 
-If we reflect upon any of the creations we shall <span id="p74">[<sup><small>p. 74</small></sup>]</span> behold a hundred thousand consummate wisdoms, and learn a hundred thousand knowledges.
+If we reflect upon any of the creations we shall <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> behold a hundred thousand consummate wisdoms, and learn a hundred thousand knowledges.
 
 One of these is that of Sleep (or dreams): consider what mysteries are deposited therein, what wisdoms are stored therein.
 
@@ -62,7 +62,7 @@ Secondly; this day thou seest in the world of reality the effect of a dream whic
 
 Reflect upon the differences of these two worlds, and the mysteries deposited therein; so that thou mayest attain unto the confirmations and revelations of the Glorified One, and enter into the World of Holiness.
 
-God, the Exalted, has placed these signs within <span id="p75">[<sup><small>p. 75</small></sup>]</span> the creatures, so that philosophers may not deny the mysteries of the After Life, and not make light of that whereunto they have been promised.
+God, the Exalted, has placed these signs within <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> the creatures, so that philosophers may not deny the mysteries of the After Life, and not make light of that whereunto they have been promised.
 
 For some have clung to reason, and deny whatever cannot be grasped by reason; although the feeble reason can never comprehend these same aforesaid conditions, but only the Universal, Supreme Reason (can do so).
 
@@ -80,7 +80,7 @@ Likewise; ponder over the completeness of the creation of man; all these worlds 
 
 Then an effort is needed that we annihilate the animal condition, in order that the meaning of the human may become manifest.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Likewise Lokman, who drank from the fount of Wisdom and tasted of the sea of Mercy, in demonstrating the states of resurrection to his son Nathan, gave the dream (or sleep) as a proof, and applied it as an illustration.
 
@@ -100,7 +100,7 @@ In fine, there is no end to mentioning these grades, and this servant has no com
 
 The pen laments and the ink weeps, and the river of the heart rolls with waves of blood.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Naught shall befall us, save that which God hath decreed unto us!
 

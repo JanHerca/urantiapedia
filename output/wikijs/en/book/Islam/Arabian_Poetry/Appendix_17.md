@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 vv. 1-7. The old Arabian poets of pagan times usually began their eclogues with some kind of amatory address to a real or imaginary mistress. This was discountenanced by Islām, and El-Būsīrī, in his first seven couplets, introduces a friend who chides him for being in love, and for attempting to conceal the fact.
 
-<span id="p463">[<sup><small>p. 463</small></sup>]</span>
+<span id="p463"><sup><small>[ p. 463 ]</small></sup></span>
 
 vv. 8-11. In the four following verses the poet acknowledges his secret passion, and the uselessness of his attempts to suppress its manifestation.
 
@@ -42,7 +42,7 @@ vv. 12-28. In these verses the poet laments the shortcomings of his life. The �
 
 v. 29. With this verse the poet begins his enumeration of the virtues of Muhammad, which he ought to have sought to imitate in his nightly devotions and (v. 30) his long fastings. It is a practice with those who fast long in the East to bind large round stones between their girdles and the pits of their stomachs and flanks, so as to quiet the gnawings of hunger.
 
-<span id="p464">[<sup><small>p. 464</small></sup>]</span>
+<span id="p464"><sup><small>[ p. 464 ]</small></sup></span>
 
 v. 31-58. With v. 31 the poet begins to recite the traditionary miracles of the Prophet: how, when he, before his mission, used to retire to the mountains around Makka for meditation and prayer, those mountains found voices, and used to entice him to forego his holy purpose, by revealing to him where gold was to be found within their recesses, that would exalt him above all his fellow-townsmen in wealth and influence: v. 33 recites the pregnant idea, not found in the Qur’ān, that the whole material creation was drawn forth out of nothing by God, merely to manifest the divine love towards the first of created things, the light of the spirit of Muhammad. Verse 35 begins the list of the Prophet's titles, as celebrated throughout the Muslim world. “God's Beloved One” (_habību ’llāh_) is his highest, most sacred, and most special style; as Adam is called “the Elect of God”; Noah, “the Saved of God”; Abraham, “the Friend of God” Moses, “the Interlocutor of God”; and Jesus, “the Spirit of God,” as also “the Word of God.” Muhammad is held to have been a prophet to demons as well as to all mankind. In v. 39 is intimated the boundless science said to have been communicated to him direct from God when he was admitted to the divine presence, sole of all created beings, on the occasion of his celebrated “Night Journey.” These laudations continue in special items down to v. 58, which mentions the sanctity of the Prophet's tomb at Madīna (not at Makka, as is generally supposed), and the blessedness of the pilgrim who reverently visits it.
 

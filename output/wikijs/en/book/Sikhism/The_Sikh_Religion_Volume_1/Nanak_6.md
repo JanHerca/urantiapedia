@@ -53,7 +53,7 @@ If thou, O my Spouse, speak not to me, how shall I abide in Thy house?
 Nanak, excepting One there is none besides.
 If Thy wife, O Spouse, remain attached to Thee, she shall enjoy Thee.[^4]
 
-Nurshah observed that her people's spells were of no avail, however much they tried. The Guru, on <span id="p74">[<sup><small>p. 74</small></sup>]</span> beholding their fruitless efforts, uttered the following hymn in the Suhi measure entitled Kuchajji, or the woman of bad character:—
+Nurshah observed that her people's spells were of no avail, however much they tried. The Guru, on <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> beholding their fruitless efforts, uttered the following hymn in the Suhi measure entitled Kuchajji, or the woman of bad character:—
 
 I am a worthless woman; in me are faults; how can I go to enjoy my Spouse?
 _My Spouse's wives_ are one better than the other; O my life, who careth for me?[^1]
@@ -70,7 +70,7 @@ The woman goeth to her father-in-law's;[^7] how shall she show her face as she p
 As morning dawned she soundly slept, and forgot her journey.
 She separated from Thee, O Spouse, and _therefore_ stored up grief _her herself_.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 In Thee, _O Lord_, are merits; in me all demerits: Nanak bath this one representation to make.
 Every night is for the virtuous woman; may I though unchaste _obtain_ a night also![^1]
@@ -93,7 +93,7 @@ The king dispenseth justice when his palm is filled.
 If a man make a request for God's sake nobody heedeth him.
 Nanak, men _nowadays_ are men only in shape and name:
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 In action they are dogs; shall they be accepted at God's gate?
 If man by the favour of his guru deem himself a guest in _this_ world,
@@ -117,7 +117,7 @@ Put the surma[^5] needles _of God's_ fear into thine eyes, and
 ear the decoration of love.
 Thou shalt be known as a devoted happy wife[^6] if thou love the Bridegroom.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 What shall a silly woman do if she please not her Spouse?
 However much she implore, she may not enter His chamber.
@@ -135,7 +135,7 @@ She who pleaseth her Spouse is the happy wife Nanak, she is the queen of them al
 She is saturated with pleasure, intoxicated with happiness,[^5] and day and night absorbed in His love.
 She is beautiful and fair to view, accomplished, and it is she alone who is wise.[^6]
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 Nurshah and her women, on hearing this hymn, twisted their head-dresses around their necks in token of submission, and fell at the Guru's feet. They asked how they could obtain salvation. The Guru told them to repeat God's name, conscientiously perform their domestic duties, renounce magic, and they should thus secure future happiness. It is said that they became followers of Guru Nanak, and thus secured salvation.
 
@@ -159,7 +159,7 @@ Let _the swan_ make fear its eating, drinking, and support Without such food the
 Who hath a _helper let_ anybody say.
 Everybody is Thine; Thou art _the helper_ of all.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Nanak, to name and meditate on Him to whom belong
 Men, lower animals, wealth, and property, is difficult.[^1]
@@ -178,7 +178,7 @@ May it not be that on beholding these things I may forget Thee, _O God_, and not
 My soul burneth without Thee.
 I have ascertained from my Guru that there is no other shelter _than in God_.
 Were the earth to be studded with diamonds and rubies, and my couch to be similarly adorned;
-Were fascinating damsels whose faces were decked with jewels to shed lustre and enhance the pleasure of the scene <span id="p80">[<sup><small>p. 80</small></sup>]</span> May it not be that on beholding them I may forget Thee and not remember Thy name!
+Were fascinating damsels whose faces were decked with jewels to shed lustre and enhance the pleasure of the scene <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> May it not be that on beholding them I may forget Thee and not remember Thy name!
 
 Were I to become a Sidh and work miracles; could I command the wealth _of the universe_ to come to me;
 Could I disappear and appear at _pleasure_, and were the world to honour me;
@@ -202,7 +202,7 @@ Both here and hereafter may the Creator preserve Nanak's honour!
 
 Then the Guru composed the following hymn in the Rag Malar:—
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 Death is forgotten amid eating and drinking, laughter and sleep.
 By forgetting the Lord man hath ruined himself and rendered his life accursed; he is not to tarry here.
@@ -223,12 +223,12 @@ The Guru and Mardana did not remain long in that village. Mardana asked the Guru
 
 The inhabitants of the next village at which they arrived showed them great attention. They remained there, however, for only one night, and departed next morning. The Guru when leaving said that the village should be abandoned. Then Mardana remarked, ‘Sir, the village in which we were not allowed to sit down, thou hast blessed; and that which bestowed great attention and kindness on us thou hast cursed.’ The Guru replied, ‘Mardana, if the people of the former village remove to another, they shall ruin it; but if the people of the latter village remove to another, they shall save it.’
 
-The Guru returned from Kamrup by the great river Brahmaputra, and then made a coasting voyage to Puri on the Bay of Bengal, where Vishnu or <span id="p82">[<sup><small>p. 82</small></sup>]</span> Krishan, under the name of Jagannath, lord of the world, is specially worshipped. When the lamps were lit in the evening the Guru was invited by the high priest to stand up and join in the god's worship, which was of a gorgeous and imposing character. In that rich temple offerings to the god were made on salvers studded with pearls. On the salvers were placed flowers and censers. A fan was employed to excite the flames of the incense, while the lamps around threw light over the temple. But the use of these articles showed artificial worship, while the expanse of the firmament, the sun and the moon, the procession of the stars, the natural incense of the sandal, the winds and forests, were the fitting accessories of Nanak's purer worship of the God of creation. The Guru therefore, instead of accepting the high priest's invitation to adore the idol, raised his eyes to heaven, and gave utterance to the following hymn:—
+The Guru returned from Kamrup by the great river Brahmaputra, and then made a coasting voyage to Puri on the Bay of Bengal, where Vishnu or <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> Krishan, under the name of Jagannath, lord of the world, is specially worshipped. When the lamps were lit in the evening the Guru was invited by the high priest to stand up and join in the god's worship, which was of a gorgeous and imposing character. In that rich temple offerings to the god were made on salvers studded with pearls. On the salvers were placed flowers and censers. A fan was employed to excite the flames of the incense, while the lamps around threw light over the temple. But the use of these articles showed artificial worship, while the expanse of the firmament, the sun and the moon, the procession of the stars, the natural incense of the sandal, the winds and forests, were the fitting accessories of Nanak's purer worship of the God of creation. The Guru therefore, instead of accepting the high priest's invitation to adore the idol, raised his eyes to heaven, and gave utterance to the following hymn:—
 
 The sun and moon, O Lord, are: thy lamps; the firmament, Thy salver; the orbs of the stars, the pearls _enchased_ in it.
 The perfume of the sandal[^1] is Thine incense; the wind is Thy fan;[^2] all the forests are Thy flowers, O Lord of light.[^3]
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 What worship is this, O Thou Destroyer of birth?[^1] Unbeaten strains of ecstasy are the trumpets of Thy worship.
 Thou hast a thousand eyes and yet not one[^2] eye; Thou hast a thousand forms and yet not one form;[^3]
@@ -241,7 +241,7 @@ What pleaseth Thee is the real arati.[^5]
 O God, my mind is fascinated with Thy lotus feet as the bumble-bee with the flower: night and day I thirst for them.
 Give the water of Thy grace to the sarang[^6] Nanak, so that he may dwell in Thy name,[^7]
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 While at Jagannath, Guru Nanak met a Brahman who kept his eyes and nose closed so as to receive no pleasure from these organs. He averred that in that state he with his mental eyes saw the secrets of the world. Nanak hid his lota and the Brahman could not find it, so Nanak by the following hymn in the Dhanasari measure twitted him on his want of omniscience:—
 

@@ -31,7 +31,7 @@ dateCreated: 2024-11-16T19:16:5Z
     </tbody>
   </table>
 </figure>
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 **CHAPTER IV.**
 
@@ -49,7 +49,7 @@ At Damascus it was, where he was then studying, that he first saw Jelālu-’d-D
 
 Ultimately, he was led to Qonya in Jelāl's traces, and first arrived there at dawn, on Saturday, the twenty-sixth of Jumāda-’l-ākhir, a.h. 642 (28th November, a.d. 1244), Jelāl being then professor at four colleges there. They met as is related in a former chapter (chap. iii. Nos. 8, 9).
 
-At the end of three months’ seclusion together, passed in religious, scientific, and spiritual disquisitions and <span id="p100">[<sup><small>p. 100</small></sup>]</span> investigations, Shemsu-’d-Dīn became satisfied that he had never met Jelāl's equal.
+At the end of three months’ seclusion together, passed in religious, scientific, and spiritual disquisitions and <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> investigations, Shemsu-’d-Dīn became satisfied that he had never met Jelāl's equal.
 
 ## 2.
 
@@ -65,7 +65,7 @@ Chelebī Emīr ‘Ārif related that his father, Sultan Veled, told him that one
 
 To this act of renunciation Shemsu-’d-Dīn replied: “She is my most esteemed sister. What I want is a youth to wait on me.” Jelāl thereupon produced his own son, Sultan Veled, who, he said, would be proud to carry the shoes of Shems, placing them before him for use when required for a walk abroad. Again Shems objected: “He is as my son. But, perhaps, you will supply me with some wine. I am accustomed to drink it, and am not comfortable without it.”
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Jelāl now took a pitcher, went himself to the Jews’ ward of the city, and returned with it full of wine, which he set before Shems.
 
@@ -83,7 +83,7 @@ Jelāl is reported to have said: “When Shemsu-’d-Dīn first came, and I felt
 
 “He came to me another day as I was, by his command, studying the writings of my father. Thrice he called out to me: ‘Study them not.’ From his sacred features the effulgence of spiritual wisdom streamed. I laid down the book, and never since have I opened it.”
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## 5.
 
@@ -107,7 +107,7 @@ Shemsu-’d-Dīn was one day sitting with his disciples, when the public executi
 
 The disciples knew the man, and told Shems that he was the common headsman. Shems replied: “True! In the exercise of his calling, he put to death a man of God, whose soul he thus released from the bondage of the body.
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 As a recompense for this kind act of his, the saint bequeathed to him his own saintship.”
 
@@ -121,7 +121,7 @@ One day Shems said to him: “Husām, this is not the way. Religion is a questio
 
 Husām at once went forth to his own house, collected all his own valuables and money, with his wife's jewels, and all the provisions of the house, brought them to Shems, and laid them at his feet. He furthermore sold a vineyard and country-seat he possessed, bringing their price also to his teacher, and thanking him for having taught him a duty, as also for having deigned to accept so insignificant a trifle from his hand.
 
-“Yes, Husām,” said Shems, “it is to be hoped that, with God's grace, and the prayers of the saints, thou wilt henceforth attain to such a station, as to be the envy of the most perfect men of God, and be bowed down to by the _Brethren of Sincerity_. It is true that God's saints are not in want of anything, being independent of both worlds. But, at the outset, there is no other way to test the sincerity of one we love, and the affection of a friend, than to call upon him to sacrifice his worldly possessions. The next step is, to summon him to give up all that is not his God. No disciple who wishes to rise, has ever made progress by following his own devices. Advancement is earned by rendering service, and by spending in God's cause. Every pupil who sacrifices possessions at the call of his teacher, would also lay down his life, if needs <span id="p104">[<sup><small>p. 104</small></sup>]</span> were. No lover of God can retain both mammon and religion.”
+“Yes, Husām,” said Shems, “it is to be hoped that, with God's grace, and the prayers of the saints, thou wilt henceforth attain to such a station, as to be the envy of the most perfect men of God, and be bowed down to by the _Brethren of Sincerity_. It is true that God's saints are not in want of anything, being independent of both worlds. But, at the outset, there is no other way to test the sincerity of one we love, and the affection of a friend, than to call upon him to sacrifice his worldly possessions. The next step is, to summon him to give up all that is not his God. No disciple who wishes to rise, has ever made progress by following his own devices. Advancement is earned by rendering service, and by spending in God's cause. Every pupil who sacrifices possessions at the call of his teacher, would also lay down his life, if needs <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> were. No lover of God can retain both mammon and religion.”
 
 Shems then restored to Husām the whole of his goods, keeping back only one piece of silver. Nine times as much more did he bestow upon Husām from first to last; and, as the results of all things are in God's hands, so did Husām at length become the ruler of God's saints, and Jelāl made him the keeper of God's treasury. He it was who wrote down the twenty-four thousand six hundred and sixty couplets contained in the six books of the Mesnevī.
 
@@ -145,7 +145,7 @@ Shems then went away of himself, and none dared to pursue him. Two days later, t
 
 Jelāl's father, Bahā Veled, had a disciple, who, for some reason, gave offence to Shemsu-’d-Dīn; the latter, in punishment, inflicted a deafness on both the disciple's ears.
 
-After a time, Shems pardoned the offender, and restored <span id="p105">[<sup><small>p. 105</small></sup>]</span> his hearing. But the man bore him a grudge in his heart, nevertheless. One day, Shems said to him: “Friend, I have pardoned thee; wherefore art thou still cast down? Be comforted.” Notwithstanding this, his rancour remained.
+After a time, Shems pardoned the offender, and restored <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> his hearing. But the man bore him a grudge in his heart, nevertheless. One day, Shems said to him: “Friend, I have pardoned thee; wherefore art thou still cast down? Be comforted.” Notwithstanding this, his rancour remained.
 
 One day, however, he met Shems in the midst of a market. Suddenly, he felt a new faith glow within him, and he shouted out: “There is no god save God; Shemsu-’d-Dīn is the apostle of God.”
 
@@ -161,7 +161,7 @@ Shems remarked: “See all these poor creatures! They are dead to every sense of
 
 Thus appealed to, Jelāl faced toward Mekka, and offered up this prayer to God: “O Thou Lord of heaven, and of earth, for the love of Thy servant Shemsu-’d-Dīn, vouchsafe wakefulness to this people.”
 
-Immediately a black cloud gathered from the unseen world. Thunders and lightnings burst forth; and so heavy a rain fell, that all the sleepers, catching up what clothing they could find, quickly took refuge in their <span id="p106">[<sup><small>p. 106</small></sup>]</span> houses below. Shems smiled at the saintly joke, and was greatly amused.
+Immediately a black cloud gathered from the unseen world. Thunders and lightnings burst forth; and so heavy a rain fell, that all the sleepers, catching up what clothing they could find, quickly took refuge in their <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> houses below. Shems smiled at the saintly joke, and was greatly amused.
 
 When daylight dawned, the disciples gathered round, numerous as the raindrops of that shower; and Shems related to them the story, with the following remarks:—
 
@@ -177,7 +177,7 @@ Kimiyā had scarcely returned home, ere she began to feel unwell. Her limbs stif
 
 ## 14.
 
-It is related that, a second time, Shems and Jelāl shut themselves up for a whole six months in Jelāl's room at the college, without partaking of meat or drink, and without <span id="p107">[<sup><small>p. 107</small></sup>]</span> the entrance of a single individual to interrupt them, or either of them coming forth, Sultan Veled and one other disciple alone excepted.
+It is related that, a second time, Shems and Jelāl shut themselves up for a whole six months in Jelāl's room at the college, without partaking of meat or drink, and without <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> the entrance of a single individual to interrupt them, or either of them coming forth, Sultan Veled and one other disciple alone excepted.
 
 ## 15.
 
@@ -197,7 +197,7 @@ There is a tradition that Jelāl one day called his son Sultan Veled, gave him a
 
 Jelāl told his son that he would find Shems in a certain inn, playing at backgammon with a young Firengī (European, Frank), also one of God's saints. Sultan Veled went, found Shems exactly so occupied, and brought him back to Qonya, the Firengī youth returning to his own country, there to preach Jelāl's doctrines, as his vicar.
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 Sultan Veled walked the whole way from Damascus to Qonya, at the stirrup-side of Shems, as a groom walks by the side of a prince's charger. The whole city went forth to receive them. Jelāl and Shems embraced each other. Jelāl became more than ever devoted to his friend; and his disciples resented his neglect of them, as they had done before. Not long afterwards, the dolorous event occurred that terminated the life of Shemsu-’d-Dīn.
 
@@ -215,7 +215,7 @@ Chelebī Emīr ‘Ārif related, as informed by his mother, Fātima Khātūn, th
 
 Sultan Veled saw Shems in a dream, and was informed by him where the body would be found. Sultan Veled went therefore at midnight with some friends, recovered the corpse, washed it, and privately buried it in the college grounds, by the side of the founder.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 ## 19.
 

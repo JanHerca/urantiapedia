@@ -32,9 +32,9 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 ## PRAPÂ_TH_AKA I, KÂ_N__D_IKÂ 1.
 
@@ -46,7 +46,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. And as the prescription (is stated with regard to the time of the single ceremonies).
 
-5\. [^96] All (ceremonies) are accompanied by the Anvâhârya (<i>S</i>râddha). <span id="p14">[<sup><small>p. 14</small></sup>]</span>
+5\. [^96] All (ceremonies) are accompanied by the Anvâhârya (<i>S</i>râddha). <span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 6\. [^97] At the end (of each ceremony) he should feed worthy (Brâhma<i>n</i>as) according to his ability.
 
@@ -60,7 +60,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 11\. With the words ‘Bhûr, bhuva_h_, sva_h_,’ they carry the fire forward (to that place) so that they have it in front of them.
 
-12\. [^100] Or after the householder has died, the chief <span id="p15">[<sup><small>p. 15</small></sup>]</span> (of the family) should do it (i.e. he should set up the sacred fire).
+12\. [^100] Or after the householder has died, the chief <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> (of the family) should do it (i.e. he should set up the sacred fire).
 
 13\. In this way, on the coincidence of an (auspicious) Tithi and an (auspicious) Nakshatra, (or of such a Nakshatra) and a Parvan—
 
@@ -80,7 +80,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 21\. That becomes his (sacred) domestic fire.
 
-22\. [^103] Thereby his morning oblation has been offered. <span id="p16">[<sup><small>p. 16</small></sup>]</span>
+22\. [^103] Thereby his morning oblation has been offered. <span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 23\. [^104] Beginning from that time the sacrificing (of regular morning and evening oblations) in the domestic fire is prescribed, so that he begins with an evening oblation.
 
@@ -101,7 +101,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2
 
-1\. [^106] He takes as his ya<i>g</i><i>g</i>opavîta (i.e. sacrificial cord) a string, or a garment, or simply a rope of Ku<i>g</i>a grass. <span id="p17">[<sup><small>p. 17</small></sup>]</span>
+1\. [^106] He takes as his ya<i>g</i><i>g</i>opavîta (i.e. sacrificial cord) a string, or a garment, or simply a rope of Ku<i>g</i>a grass. <span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 2\. Raising his right arm, putting the head into (the upavîta), he suspends (the cord) over his left shoulder, so that it hangs down on his right side: thus he becomes ya<i>g</i><i>g</i>opavîtin.
 
@@ -129,7 +129,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 14\. Nor looking about,
 
-15\. Nor without bending down, <span id="p18">[<sup><small>p. 18</small></sup>]</span>
+15\. Nor without bending down, <span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 16\. Nor (throwing up the water) with his fingers,
 
@@ -161,7 +161,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 30\. For if he does otherwise, he remains impure.
 
-31\. Now the cases in which he has to touch (water) a second time. <span id="p19">[<sup><small>p. 19</small></sup>]</span>
+31\. Now the cases in which he has to touch (water) a second time. <span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 32\. [^114] Having slept, or eaten, or sneezed, or taken a bath, or drunk something, or changed (his garments), or walked on the high road, or gone to a cemetery, he should sip water and then sip water again.
 
@@ -183,7 +183,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7ms of water).
 
-6\. [^117] Let him then make oblations of the sacrificial food, be it prepared or raw, over the fire. <span id="p20">[<sup><small>p. 20</small></sup>]</span>
+6\. [^117] Let him then make oblations of the sacrificial food, be it prepared or raw, over the fire. <span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 7\. [^118] If it is raw, he should sacrifice after having washed it and having let the water drop off.
 
@@ -195,7 +195,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 11\. Having put a piece of wood (on the fire), and having again sprinkled (water) round it, he should pour out again his joined hands full of water in the same way (as prescribed in the Sûtras 1-3); in the Mantras he says, ‘Thou hast given thy consent’ (instead of ‘Give thy consent’).
 
-12\. [^121] Having circumambulated the fire so as to turn his right side towards it, having poured out the remains of water, and filled the vessel again, and put it (in its proper place), (he may do) whatever his business is. <span id="p21">[<sup><small>p. 21</small></sup>]</span>
+12\. [^121] Having circumambulated the fire so as to turn his right side towards it, having poured out the remains of water, and filled the vessel again, and put it (in its proper place), (he may do) whatever his business is. <span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 13\. [^122] In that way, from that time (in which he has begun to offer the two daily sacrifices) he should sacrifice, or should have sacrificed, over the (sacred) domestic fire, till the end of his life.
 
@@ -207,7 +207,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 17\. In an unbroken voice (?), having made himself pure,
 
-18\. [^125] He replies in a loud voice, ‘Om!’ Then in <span id="p22">[<sup><small>p. 22</small></sup>]</span> a low voice: ‘To that (food) I bring adoration. May it not fail!’
+18\. [^125] He replies in a loud voice, ‘Om!’ Then in <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> a low voice: ‘To that (food) I bring adoration. May it not fail!’
 
 
 
@@ -229,7 +229,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. What he puts down first, that is the Bali belonging to the Earth. What in the second place, to Vâyu. What in the third place, to the Vi<i>s</i>ve devâs. What in the fourth place, to Pra<i>s</i>âpati.
 
-9\. [^127] Then he should offer other Balis (near) the water-pot, the middle (post, and) the door: the first Bali is sacred to the Waters, the second to the Herbs and Trees, the third to the Ether. <span id="p23">[<sup><small>p. 23</small></sup>]</span>
+9\. [^127] Then he should offer other Balis (near) the water-pot, the middle (post, and) the door: the first Bali is sacred to the Waters, the second to the Herbs and Trees, the third to the Ether. <span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 10\. Then he should offer another Bali in the bed or in the privy. That Bali belongs either to Kâma or to Manyu.
 
@@ -251,7 +251,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 19\. [^129] The wife in the evening, the man in the morning: thus (it is stated).
 
-20\. He should offer such Balis of all food whatever, be it prepared for the Fathers, or for auspicious <span id="p24">[<sup><small>p. 24</small></sup>]</span> purposes (for instance, for being offered to Brâhma<i>n</i>as), or for (ordinary) purposes.
+20\. He should offer such Balis of all food whatever, be it prepared for the Fathers, or for auspicious <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> purposes (for instance, for being offered to Brâhma<i>n</i>as), or for (ordinary) purposes.
 
 21\. Only in the case of a sacrifice (this rule) ceases.
 
@@ -271,7 +271,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 29\. [^132] He himself, however, should offer the Âsasya Bali, from the barley(-harvest) till the rice(-harvest), and from the rice(-harvest) till the barley(-harvest). This is called the Âsasya Bali.
 
-This Bali is called â-sasya, because it is offered until (â) the next crop (sasya) is ripe. As to the regulation that the sacrificer has to offer it himself, compare above, Sûtras 15-19. <span id="p25">[<sup><small>p. 25</small></sup>]</span>
+This Bali is called â-sasya, because it is offered until (â) the next crop (sasya) is ripe. As to the regulation that the sacrificer has to offer it himself, compare above, Sûtras 15-19. <span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 30\. Thus he obtains long life.
 
@@ -293,7 +293,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 5\. The ends of the half-months are the time for fasting, the beginnings for sacrifice.
 
-6\. [^137] With the sacrificial food of the new-moon <span id="p26">[<sup><small>p. 26</small></sup>]</span> sacrifice he celebrates the first half (of the month), with that of the full-moon sacrifice the second.
+6\. [^137] With the sacrificial food of the new-moon <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> sacrifice he celebrates the first half (of the month), with that of the full-moon sacrifice the second.
 
 7\. [^138] Full-moon is the greatest distance of sun and moon; new-moon is their nearest approach.
 
@@ -305,7 +305,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 11\. Now on what day it becomes full—
 
-12\. The doctrine on this point has to be studied <span id="p27">[<sup><small>p. 27</small></sup>]</span> separately. One should study it, or should ascertain separately (the exact time of) the Parvan from those who know it.
+12\. The doctrine on this point has to be studied <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> separately. One should study it, or should ascertain separately (the exact time of) the Parvan from those who know it.
 
 13\. Now on the day which is the fast-day, on that day, in the forenoon, having offered his morning oblation, he besmears that surface on which the fire is placed, on all sides with cow-dung.
 
@@ -321,7 +321,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 19\. [^140] (He should get ready the following things, viz.) Â<i>g</i>ya, rice or barley to be cooked for the sacrifice, the pot in which the oblation of cooked rice (or barley) is prepared, the pot-ladle, the Sruva, the water fetched from a hidden place—
 
-20\. And the other things which we shall mention in the course of (our exposition of) the ritual. <span id="p28">[<sup><small>p. 28</small></sup>]</span>
+20\. And the other things which we shall mention in the course of (our exposition of) the ritual. <span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 21\. On that day he should not go away (from his house on a journey, &c.);
 
@@ -344,7 +344,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 2\. 'He becomes powerless. Hunger will attack him. He does not gain favour among people. His offspring will be perverse.
 
-3\. 'But he who eats fast-day food, becomes powerful. Hunger will not attack him. He gains <span id="p29">[<sup><small>p. 29</small></sup>]</span> favour among people. His offspring will be still more blessed.
+3\. 'But he who eats fast-day food, becomes powerful. Hunger will not attack him. He gains <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> favour among people. His offspring will be still more blessed.
 
 4\. [^143] ‘Therefore (husband and wife) should eat fast-day food which is pleasant to them.’
 
@@ -368,7 +368,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 1
 
-14\. [^145] (The Brahman) stations himself to the east of that (grass), facing the west, and with the thumb and the fourth finger of his left hand he takes one grass blade from the Brahman's seat and throws it away to the south-west, in the intermediate direction (between south and west), with (the words), ‘Away has been thrown the dispeller of wealth.’ <span id="p30">[<sup><small>p. 30</small></sup>]</span>
+14\. [^145] (The Brahman) stations himself to the east of that (grass), facing the west, and with the thumb and the fourth finger of his left hand he takes one grass blade from the Brahman's seat and throws it away to the south-west, in the intermediate direction (between south and west), with (the words), ‘Away has been thrown the dispeller of wealth.’ <span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 15\. Having touched water, he then sits down on the Brahman's seat, with (the words), ‘I sit down on the seat of wealth.’
 
@@ -382,7 +382,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 20\. Or let him only say, ‘Adoration to Vish<i>n</i>u!’
 
-21\. [^147] If one wishes, however, to do himself the work both of the Hot<i>ri</i> and of the Brahman, he should in the same way place on the Brahman's seat a parasol, or an outer garment, or a water-pot, or a <span id="p31">[<sup><small>p. 31</small></sup>]</span> bolster of Darbha grass, and should return in the same way (in which he has gone to the Brahman's seat), and then should perform the other (duties).
+21\. [^147] If one wishes, however, to do himself the work both of the Hot<i>ri</i> and of the Brahman, he should in the same way place on the Brahman's seat a parasol, or an outer garment, or a water-pot, or a <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> bolster of Darbha grass, and should return in the same way (in which he has gone to the Brahman's seat), and then should perform the other (duties).
 
 
 
@@ -399,7 +399,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 5\. After the grain has three times been winnowed, he should wash it thrice (if it is destined) for the gods, they say, twice, if for men, once, if for the Fathers.
 
-6\. [^150] Having put a (Darbha) purifier (into the pot <span id="p32">[<sup><small>p. 32</small></sup>]</span> in which the oblation is to be prepared), he should pour the grain (into it).
+6\. [^150] Having put a (Darbha) purifier (into the pot <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> in which the oblation is to be prepared), he should pour the grain (into it).
 
 7\. He should cook the mess of sacrificial food so that it is well cooked, stirring it up (with the pot-ladle) from left to right.
 
@@ -421,7 +421,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 15\. This rule for strewing (grass) round (the fire is valid) for all (ceremonies) at which oblations are made.
 
-16\. [^154] Some lay also branches of <i>S</i>amî wood or of Par<i>n</i>a wood round (the fire). <span id="p33">[<sup><small>p. 33</small></sup>]</span>
+16\. [^154] Some lay also branches of <i>S</i>amî wood or of Par<i>n</i>a wood round (the fire). <span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 17\. To the north (of the fire) a Sruva full of water (is placed): this is the Pra<i>n</i>îta water;
 
@@ -439,7 +439,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 24\. [^157] Having purified (the Â<i>ya by pouring it into the Â</i>ya by pouring it into the Â<i>ya by pouring it into the Â</i>ya pot, over which he has laid a Darbha purifier), he purifies it (in the pot) with the two northward-pointed purifiers (in the following way):
 
-25\. Holding them with his two thumbs and fourth fingers, he purifies (the Â<i>g</i>ya) three times, from west to east, once with the Ya<i>g</i>us: ‘May the god Savit<i>ri</i> purify thee with this uninjured purifier, with the rays of the good sun;’ twice silently. <span id="p34">[<sup><small>p. 34</small></sup>]</span>
+25\. Holding them with his two thumbs and fourth fingers, he purifies (the Â<i>g</i>ya) three times, from west to east, once with the Ya<i>g</i>us: ‘May the god Savit<i>ri</i> purify thee with this uninjured purifier, with the rays of the good sun;’ twice silently. <span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 26\. He then should sprinkle them with water and should throw them into the fire.
 
@@ -462,7 +462,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 5\. He then cuts off (two or three Avadânas) from the Havis, having ‘spread under’ (Â<i>g</i>ya).
 
-6\. [^160] (Two Avadânas) from the middle and from the east side, if he (belongs to the families who) make <span id="p35">[<sup><small>p. 35</small></sup>]</span> four Avadânas. (Three Avadânas) from the middle, from the east and from the west side, if (he belongs to those who) make five Avadânas.
+6\. [^160] (Two Avadânas) from the middle and from the east side, if he (belongs to the families who) make <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> four Avadânas. (Three Avadânas) from the middle, from the east and from the west side, if (he belongs to those who) make five Avadânas.
 
 7\. [^161] He sprinkles (Â<i>g</i>ya) on the cut-off portions.
 
@@ -478,7 +478,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 13\. [^163] He does not anoint the place from which he has cut off, in order that the strength (of the Havis) may be lost.
 
-14\. [^164] With the words, ‘To Agni Svish<i>t</i>ak<i>t</i>t <span id="p36">[<sup><small>p. 36</small></sup>]</span> Svâhâ!’ he should sacrifice it over the eastern part of the northern part (of the fire).
+14\. [^164] With the words, ‘To Agni Svish<i>t</i>ak<i>t</i>t <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> Svâhâ!’ he should sacrifice it over the eastern part of the northern part (of the fire).
 
 15\. [^165] He should sacrifice oblations of Â<i>ri</i>ya on (the chief oblations of cooked sacrificial food), with the Mahâvyâh<i>ri</i>tis.
 
@@ -490,7 +490,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 19\. [^167] After he has sacrificed, he should throw that pot-ladle (which he has used in the preceding ceremonies) into the fire.
 
-20\. Or having washed it, he should take with it (the rest of the sacrificial food), and should eat that. <span id="p37">[<sup><small>p. 37</small></sup>]</span>
+20\. Or having washed it, he should take with it (the rest of the sacrificial food), and should eat that. <span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 21\. The Sruva he should not throw into the fire, say some (teachers).
 
@@ -514,7 +514,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 9.
 
@@ -540,7 +540,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 11\. The highest is unlimited.
 
-12\. [^174] Thus Sudâs Pai<i>g</i>avana, after having offered the sacrifice of a mess of cooked food to Indra and <span id="p39">[<sup><small>p. 39</small></sup>]</span> Agni, gave one hundred thousand (cows as the sacrificial fee).
+12\. [^174] Thus Sudâs Pai<i>g</i>avana, after having offered the sacrifice of a mess of cooked food to Indra and <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> Agni, gave one hundred thousand (cows as the sacrificial fee).
 
 13\. Now if he should not be able to get for the morning or for the evening oblation, or for the sacrifices of the full or of the new moon at his (sacred) domestic fire, any substance fit for sacrifice or a person who could sacrifice (instead of himself, if he is prevented): what ought he to do?
 
@@ -552,7 +552,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 17\. Or he should at least sacrifice water; thus has said Pâkaya<i>g</i><i>g</i>a, the son of I<i>g</i>â. For (even if he offers only water) the sacrifice has been performed.
 
-18\. [^177] And there is an expiation for one who has not sacrificed. <span id="p40">[<sup><small>p. 40</small></sup>]</span>
+18\. [^177] And there is an expiation for one who has not sacrificed. <span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 19\. And, (says Pâkaya<i>g</i><i>g</i>a,) a Brâhma<i>g</i>a should not omit to keep his vow.
 
@@ -570,7 +570,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 26\. [^181] At Â<i>ya oblations he should only prepare that Â</i>ya oblations he should only prepare that Â<i>ya oblations he should only prepare that Â</i>ya (chap. 7, 28) and should sacrifice it, picking out portions of it. (He should) not (sacrifice) the two Â<i>ya oblations he should only prepare that Â</i>ya portions nor the Svish<i>ya oblations he should only prepare that Â</i>ak<i>ya oblations he should only prepare that Â</i>t.
 
-27\. [^182] At Â<i>ri</i>ya oblations he should, if no special rule is given, sacrifice with the Mahâvyâh<i>ri</i>tis before and after (the chief ceremonies). <span id="p41">[<sup><small>p. 41</small></sup>]</span>
+27\. [^182] At Â<i>ri</i>ya oblations he should, if no special rule is given, sacrifice with the Mahâvyâh<i>ri</i>tis before and after (the chief ceremonies). <span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 28\. [^183] As at the wedding, thus at the tonsure (of the child's head), the initiation (of the Brahma<i>ri</i>ârin), and at the cutting of the beard.
 

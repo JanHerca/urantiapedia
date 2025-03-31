@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 Antar endured many days and weeks of torturing suspense, his only source of consolation being the society of King Zoheir, until at length Shiboob returned—with news of Abla.
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 “After I had passed through various cities of Yemen,” said Shiboob, “I came to Sana and Aden, and encountered numerous difficulties until I reached the tribe of Tey. It was there I found Abla, in the power of Moofrij: there she attends on the camels and the sheep. He has clothed her in garments of raw leather, and makes her serve in the meanest offices day and night. His mother too threatens her, and treats her harshly in her speech; so that she weeps both when she rises and lies down. She calls on your name, and seeks her wonted succour from you both night and day.”
 
@@ -56,7 +56,7 @@ Ask my burning sighs that mount on high: they will tell you of the flaming passi
 
 By your violence you overpower my weakness: I have not forbearance or resignation to endure it.
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 O bird of the tamarisk!—all the livelong night, drooping, he mourns for his mate that is gone and returns not;—
 

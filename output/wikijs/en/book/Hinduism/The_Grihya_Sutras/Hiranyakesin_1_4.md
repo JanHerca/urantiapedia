@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 4, SECTION 12.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 3\. [^563] ‘A horse art thou, a steed art thou’—with these eleven ‘horses’ names’ (Taitt. Sa<i>m</i>h. VII, 1, 12) (he mounts) the horse, if (he intends to enter the village) on horseback.
 
-4\. [^564] With (the formula), 'With Indra's thunderbolt I bestride thee; carry (me); carry the time; carry me forward to bliss. An elephant art thou. The elephant's glory art thou. The elephant's splendour art thou. May I become endowed with the elephant's glory, with the elephant's splendour'—(he mounts) the elephant, if (he intends to proceed to the village) on it. <span id="p171">[<sup><small>p. 171</small></sup>]</span>
+4\. [^564] With (the formula), 'With Indra's thunderbolt I bestride thee; carry (me); carry the time; carry me forward to bliss. An elephant art thou. The elephant's glory art thou. The elephant's splendour art thou. May I become endowed with the elephant's glory, with the elephant's splendour'—(he mounts) the elephant, if (he intends to proceed to the village) on it. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 5\. [^565] He goes to a place where they will do honour to him.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 13\. Having poured curds into a brass vessel, he pours honey into it, (and then the other substances stated above).
 
-14\. [^567] Having poured (those substances) into a smaller vessel, and having covered it with a larger (cover than the vessel is), (the host) makes (the guest) accept (the following things) separately, one after the other, viz. a bunch of grass (to sit down on), <span id="p172">[<sup><small>p. 172</small></sup>]</span> water for washing the feet, the Argha water, water for sipping, and the honey-mixture (Madhuparka).
+14\. [^567] Having poured (those substances) into a smaller vessel, and having covered it with a larger (cover than the vessel is), (the host) makes (the guest) accept (the following things) separately, one after the other, viz. a bunch of grass (to sit down on), <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> water for washing the feet, the Argha water, water for sipping, and the honey-mixture (Madhuparka).
 
 15\. [^568] Going after (the single objects which are brought to the guest, the host) in a faultless, not faltering (?) voice, announces (each of those objects to the guest).
 
@@ -79,7 +79,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 4, SECTION 13.
 
-1\. [^571] With (the formula), ‘The milk of Virâ<i>g</i> art thou. May the milk of Padyâ Virâ<i>g</i> (dwell) in me’—(the guest) touches the hands of the person that <span id="p173">[<sup><small>p. 173</small></sup>]</span> washes his feet, and then he touches himself with (the formula), ‘May in me dwell brilliancy, energy, strength, life, renown, splendour, glory, power!’
+1\. [^571] With (the formula), ‘The milk of Virâ<i>g</i> art thou. May the milk of Padyâ Virâ<i>g</i> (dwell) in me’—(the guest) touches the hands of the person that <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> washes his feet, and then he touches himself with (the formula), ‘May in me dwell brilliancy, energy, strength, life, renown, splendour, glory, power!’
 
 2\. (The host) then makes to him the announcement, ‘The Argha water!’
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. Then he utters to him the announcement, ‘The honey-mixture!’
 
-8\. [^575] He accepts that with both hands with the Sâvitra (formula), and places it on the ground with (the formula), ‘I place thee on the navel of the earth in the abode of I<i>d</i>â.’ He mixes (the different substances) three times from left to right with his thumb and his fourth finger, with (the formula), ‘What is the honied, highest form of honey which consists in the enjoyment of food, by that honied, <span id="p174">[<sup><small>p. 174</small></sup>]</span> highest form of honey may I become highest, honied, and an enjoyer of food.’ He partakes of it three times with (the formula), ‘I eat thee for the sake of brilliancy, of luck, of glory, of power, and of the enjoyment of food,’ and gives the remainder to a person who is kindly disposed towards him.
+8\. [^575] He accepts that with both hands with the Sâvitra (formula), and places it on the ground with (the formula), ‘I place thee on the navel of the earth in the abode of I<i>d</i>â.’ He mixes (the different substances) three times from left to right with his thumb and his fourth finger, with (the formula), ‘What is the honied, highest form of honey which consists in the enjoyment of food, by that honied, <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> highest form of honey may I become highest, honied, and an enjoyer of food.’ He partakes of it three times with (the formula), ‘I eat thee for the sake of brilliancy, of luck, of glory, of power, and of the enjoyment of food,’ and gives the remainder to a person who is kindly disposed towards him.
 
 9\. [^576] Or he may eat the whole (Madhuparka). Then he sips water with (the formula), ‘Thou art the covering of Ambrosia.’
 
@@ -111,7 +111,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 13\. [^578] If it shall be killed, (he says), ‘A cow art thou; sin is driven away from thee. Drive away my sin and the sin of N.N.! Kill ye him whoever hates me. He is killed whosoever hates me. Make (the cow) ready!’
 
-14\. [^579] If (the cow) is let loose, a meal is prepared with other meat, and he announces it (to the guest) in the words, ‘It is ready!’ <span id="p175">[<sup><small>p. 175</small></sup>]</span>
+14\. [^579] If (the cow) is let loose, a meal is prepared with other meat, and he announces it (to the guest) in the words, ‘It is ready!’ <span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 15\. He replies, ‘It is well prepared; it is the Virâ_g_; it is food. May it not fail! May I obtain it! May it give me strength! It is well prepared!’—and adds, ‘Give food to the Brâhma<i>n</i>as!’
 
@@ -129,11 +129,11 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. And should, after that person has eaten, seize his right hand,
 
-2\. [^581] If he wishes that one of his companions, or a pupil, or a servant should faithfully remain with him and not go away, he should bathe in the morning, should put on clean garments, should show <span id="p176">[<sup><small>p. 176</small></sup>]</span> patience (with that servant, &c.) during the day, should speak (only) with Brâhma<i>n</i>as, and by night he should go to the dwelling-place of that person, should make water into a horn of a living animal, and should three times walk round his dwelling-place, sprinkling (his urine) round it, with (the Mantra), ‘From the mountain (I sever?) thee, from thy brother, from thy sister, from all thy relations. parishîda<i>h</i> kleshyati (i.e. kvaishyasi?) _s<i>n</i>s<i>n</i>m<i>n</i>n<i>n</i>k_<i>n</i>idâ, ûlena parimî<i>n</i>oऽsi parimî<i>n</i>oऽsy ûlena.’
+2\. [^581] If he wishes that one of his companions, or a pupil, or a servant should faithfully remain with him and not go away, he should bathe in the morning, should put on clean garments, should show <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> patience (with that servant, &c.) during the day, should speak (only) with Brâhma<i>n</i>as, and by night he should go to the dwelling-place of that person, should make water into a horn of a living animal, and should three times walk round his dwelling-place, sprinkling (his urine) round it, with (the Mantra), ‘From the mountain (I sever?) thee, from thy brother, from thy sister, from all thy relations. parishîda<i>h</i> kleshyati (i.e. kvaishyasi?) _s<i>n</i>s<i>n</i>m<i>n</i>n<i>n</i>k_<i>n</i>idâ, ûlena parimî<i>n</i>oऽsi parimî<i>n</i>oऽsy ûlena.’
 
 3\. He puts down the horn of the living animal in a place which is generally accessible.
 
-4\. [^582] One whose companions, pupils, or servants use to run away, should rebuke them with (the Mantra), ‘May he who calls hither (?), call you hither! He who brings back, has brought you back (?). May the rebuke of Indra always rebuke you. If you, who worship your own deceit, despise me (?), . . . . may Indra bind you with his bond, and may he drive you back again to me.’ <span id="p177">[<sup><small>p. 177</small></sup>]</span>
+4\. [^582] One whose companions, pupils, or servants use to run away, should rebuke them with (the Mantra), ‘May he who calls hither (?), call you hither! He who brings back, has brought you back (?). May the rebuke of Indra always rebuke you. If you, who worship your own deceit, despise me (?), . . . . may Indra bind you with his bond, and may he drive you back again to me.’ <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 5\. Then he enters his house, puts a piece of Sidhraka wood on (the fire), and sacrifices with the ‘on-drawing verse,’ ‘Back-bringer, bring them back’ (Taitt. Sa<i>m</i>h. III, 3, 10, 1).
 
@@ -149,7 +149,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 4, SECTION 15.
 
-1\. [^584] With (the verse), ‘If we trade, O gods, trying by our wealth to acquire (new) wealth, O gods, may <span id="p178">[<sup><small>p. 178</small></sup>]</span> Soma thereon bestow splendour, Agni, Indra, B<i>ri</i>haspati, and Î<i>ri</i>âna. Svâhâ!’
+1\. [^584] With (the verse), ‘If we trade, O gods, trying by our wealth to acquire (new) wealth, O gods, may <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> Soma thereon bestow splendour, Agni, Indra, B<i>ri</i>haspati, and Î<i>ri</i>âna. Svâhâ!’
 
 2\. Now (follows) the way for appeasing anger.
 
@@ -165,7 +165,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. [^587] Then in the presence (of his adversary), turned towards him, he murmurs (the verses), 'I take away the speech from thy mouth, (the speech) that dwells in thy mind, (the speech) from thy heart. Out of every limb I take thy speech. Wheresoever thy speech dwells, thence I take it away.
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 ‘Rudra with the dark hair-lock! Hero! At every contest strike down this my adversary, as a tree (is struck down) by a thunderbolt.
 

@@ -110,6 +110,8 @@ This is a translation of the Talmud tractate Sanhedrin, which deals with judicia
 - [General Index](/en/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta/General_Index)
 - [Advertisements](/en/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta/Advertisements)
 
+<br>
+
 ## External links
 
 - [Sacred texts website](https://sacred-texts.com/jud/tsa/index.htm)

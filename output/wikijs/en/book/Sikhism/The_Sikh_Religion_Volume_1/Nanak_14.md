@@ -41,7 +41,7 @@ Brahm Das was then the most eminent of the Kashmiri pandits. On hearing of the G
 There is but one road,. one door; the Guru is the ladder to reach one's home.
 Beautiful is God; Nanak, all happiness is in His name.
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 ## PAURI
 
@@ -67,7 +67,7 @@ They who are satisfied with the True One are absorbed in Him.[^1]
 
 Brahm Das then recognizing the Guru's piety and genius fell at his feet, and asked him what existed before creation? The Guru in reply uttered the following hymn known as Solaha[^2] in Rag Maru:—
 
-<span id="p165">[<sup><small>p. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 In the beginning[^1] there was indescribable darkness;
 Then was not earth or heaven, naught _but God's_ unequalled order.
@@ -90,7 +90,7 @@ God Himself having created was pleased, and valued what He had done.
 There was no purification, or self-restraint, or necklace of sweet basil;
 There was no milkmaid, or Krishan, or cow. or herdsman;
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 No incantations or spells, no hypocrisy, nor did any one play on the flute.[^1]
 There were no acts _attaching to the soul_, or religion, or the gadfly of mammon.
@@ -109,7 +109,7 @@ here was no love, no service, no Shiv, or energy of his;[^6]
 No friend, no helper, no seed, no blood.[^7]
 God Himself was the merchant, Himself the dealer—such was the will of the True One—
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 Then were no Veds or _Muhammadan_ books,[^1] no Simritis, no Shastars;
 No reading of the Purans, no sunrise, no sunset.
@@ -127,7 +127,7 @@ Nanak, that they who are imbued with the truth are wonderful, and delight in sin
 
 Upon this Brahm Das again fell at the Guru's feet, cast away the idol from his neck, and, becoming a worshipper of God, performed service for the Guru. His evil desires, however, departed not. Whatever service he performed was brief and perfunctory, for he thought to himself that he had performed similar service before; but whatever he did was of no avail on account of his pride.
 
-At one of their meetings the Guru told him to take a guru. He inquired, ‘What guru shall I take?’ The Guru bade him go to a certain house in the wilderness where he should find four faqirs, and they would inform him. The pandit went to them, and they, after some delay, pointed out a temple in which they said he should find his guru. The pandit proceeded thither, but instead of receiving a courteous reception, was shoe-beaten in a piteous manner by a woman in red who guarded the temple. Crying bitterly he returned to the four men who had dispatched <span id="p168">[<sup><small>p. 168</small></sup>]</span> him on the unpleasant errand. They inquired if he had found a guru, and in reply he told them his painful story. They explained to him that the woman was Maya, or worldly love; and that she for whom he had so longed was his guru. The pandit returned to the Guru, and fell at his feet. He then cast away his two loads of books, began to repeat God's name, and became so humble as to be, as it were, the dust of the earth. The pandit inquired who were happy in this world. The Guru replied with the following sloks, which Hassu and Sihan committed to writing:—
+At one of their meetings the Guru told him to take a guru. He inquired, ‘What guru shall I take?’ The Guru bade him go to a certain house in the wilderness where he should find four faqirs, and they would inform him. The pandit went to them, and they, after some delay, pointed out a temple in which they said he should find his guru. The pandit proceeded thither, but instead of receiving a courteous reception, was shoe-beaten in a piteous manner by a woman in red who guarded the temple. Crying bitterly he returned to the four men who had dispatched <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> him on the unpleasant errand. They inquired if he had found a guru, and in reply he told them his painful story. They explained to him that the woman was Maya, or worldly love; and that she for whom he had so longed was his guru. The pandit returned to the Guru, and fell at his feet. He then cast away his two loads of books, began to repeat God's name, and became so humble as to be, as it were, the dust of the earth. The pandit inquired who were happy in this world. The Guru replied with the following sloks, which Hassu and Sihan committed to writing:—
 
 Indar wept after his thousandfold punishment;[^1]
 Paras Ram wept on his return home;[^2]
@@ -138,7 +138,7 @@ And separated from Sita and Lachhman.[^4]
 Rawan, who took away Sita with beat of drum,
 Wept when he had lost Lanka;[^5]
 The Pandavs[^6] _though_ their master[^7] had been with them,
-Became slaves and wept; <span id="p169">[<sup><small>p. 169</small></sup>]</span>
+Became slaves and wept; <span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 Janameja[^1] wept when he went astray;—
 For one _offence_ he was deemed a sinner—
 Shaikhs, Disciples and Pirs[^2] weep
@@ -152,7 +152,7 @@ Nanak, the whole world is in misery.
 He who revereth the Name is victorious
 No other act is of any avail.[^4]
 
-The Guru, leaving Srinagar, penetrated the Himalaya mountains, and scaled numerous lofty peaks <span id="p170">[<sup><small>p. 170</small></sup>]</span> until he arrived at Mount Sumer. He there met many renowned Sidhs. When the Guru had made his obeisance and sat down, they inquired whence he had come and in what state he had left Hindustan. He replied:—
+The Guru, leaving Srinagar, penetrated the Himalaya mountains, and scaled numerous lofty peaks <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> until he arrived at Mount Sumer. He there met many renowned Sidhs. When the Guru had made his obeisance and sat down, they inquired whence he had come and in what state he had left Hindustan. He replied:—
 
 The Kal age is a knife, kings are butchers; justice hath taken wings and fled.
 In this completely dark night of falsehood the moon of truth is never seen to rise.
@@ -178,7 +178,7 @@ The Sidhs asked:—
 Whence hast thou come, and whither goest thou?
 ‘Hear, O Nanak,’ said the Sidhs, 'What are thy tenets?
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 _Nanak_\—'I dwell in God who hath His seat in every heart; I act according to the will of the True Guru.
 ‘I came in the course of nature, and according to God's order shall I depart. Nanak is ever subject to His will.

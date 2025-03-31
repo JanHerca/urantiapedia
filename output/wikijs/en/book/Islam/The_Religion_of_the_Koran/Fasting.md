@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 CHAPTER II., Verse 179.—There is prescribed for you the fast as it was prescribed for those before you; haply ye may fear. (180) A certain number of days, but he amongst you who is ill or on a journey, then (let him fast) another number of days. And those who are fit to fast may redeem it by feeding a poor man; but he who follows an impulse to a good work it is better for him; and if ye fast it is better for you, if ye did but know.
 

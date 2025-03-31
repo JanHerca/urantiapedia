@@ -36,7 +36,7 @@ The Âbân Ya<i>s</i>t (or Ya<i>s</i>t of the Waters) is devoted to the great go
 
 This Ya<i>s</i>t contains much valuable information about the historical legends of Iran, as it enumerates the several heroes who worshipped Ardvi Sûra and asked for her help. First of all is Ahura himself (§ 16); then came Haoshyangha (§21), Yima (§ 25), A<i>z</i>i Dahâka (§ 29), Thraêtaona (§ 33), Keresâspa (§ 37), Franghrasyan (§ 41), Kava Usa (§ 45), Husravah (§ 49), Tusa (§ 53). Vaêsaka's sons (§ 57), Vafra Navâza (§ 61), <i>G</i>âmâspa (§ 68), Ashavazdah, the son of Pourudhâkh<i>s</i>ti, and Ashavazdah and Thrita, the sons of Sâyu<i>z</i>dri (§ 72), Vistauru (§ 76), Yôi<i>s</i>ta (§ 81); the Hvôvas and the Naotaras (§ 98), Zarathu<i>s</i>tra (§ 103), Kava Vî<i>s</i>tâspa (§ 107), Zairivairi (§ 112), Are<i>g</i>a<i>t</i>\-aspa and Vandaremaini (§ 116).
 
-This enumeration is interrupted by a description of the descent of Ardvi Sûra from the heavens (§§ 85-89), and of certain rules for her sacrifice given by herself to Zarathu<i>s</i>tra (§§ 90-97). This interruption may have been intentional, as it takes place just when <span id="p53">[<sup><small>p. 53</small></sup>]</span> the course of the enumeration brings us to the times of Zarathu<i>s</i>tra and of the institution of the new religion.
+This enumeration is interrupted by a description of the descent of Ardvi Sûra from the heavens (§§ 85-89), and of certain rules for her sacrifice given by herself to Zarathu<i>s</i>tra (§§ 90-97). This interruption may have been intentional, as it takes place just when <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> the course of the enumeration brings us to the times of Zarathu<i>s</i>tra and of the institution of the new religion.
 
 The Ya<i>s</i>t is opened with a laudation of the benefits bestowed by Ardvi Sûra (§§ 1-16), and it closes with a description of her garments and apparel.
 
@@ -60,7 +60,7 @@ Be propitiation, with sacrifice, prayer, propitiation, and glorification.
 
 Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ## I.
 
@@ -70,7 +70,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 3\. 'The large river, known afar, that is as large as the whole of the waters that run along the earth; that runs powerfully from the height Hukairya [^278] down to the sea Vouru-Kasha [^279].
 
-4\. 'All the shores of the sea Vouru-Kasha are <span id="p55">[<sup><small>p. 55</small></sup>]</span> boiling over, all the middle of it is boiling over, when she runs down there, when she streams down there, she, Ardvi Sûra Anâhita, who has a thousand cells and a thousand channels [^280]: the extent of each of those cells, of each of those channels is as much as a man can ride in forty days, riding on a good horse.
+4\. 'All the shores of the sea Vouru-Kasha are <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> boiling over, all the middle of it is boiling over, when she runs down there, when she streams down there, she, Ardvi Sûra Anâhita, who has a thousand cells and a thousand channels [^280]: the extent of each of those cells, of each of those channels is as much as a man can ride in forty days, riding on a good horse.
 
 5\. ‘From this river of mine alone flow all the waters that spread all over the seven Karshvares; this river of mine alone goes on bringing waters, both in summer and in winter. This river of mine purifies the seed in males, the womb in females, the milk in females’ breasts.
 
@@ -80,7 +80,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 8\. ' “Who will praise me? Who will offer me a sacrifice, with libations cleanly prepared and well-strained, together with the Haoma and meat? To whom shall I cleave, who cleaves unto me, and thinks with me, and bestows gifts upon me, and is of good will unto me? [^282]”
 
-9\. 'For her brightness and glory, I will offer her <span id="p56">[<sup><small>p. 56</small></sup>]</span> a sacrifice worth being heard; I will offer up unto the holy Ardvi Sûra Anâhita a good sacrifice with an offering of libations;—thus mayest thou advise us when thou art appealed to! Mayest thou be most fully worshipped, O Ardvi Sûra Anâhita! with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the holy spells, with the words, with the deeds, with the libations, and with the rightly-spoken words.
+9\. 'For her brightness and glory, I will offer her <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> a sacrifice worth being heard; I will offer up unto the holy Ardvi Sûra Anâhita a good sacrifice with an offering of libations;—thus mayest thou advise us when thou art appealed to! Mayest thou be most fully worshipped, O Ardvi Sûra Anâhita! with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the holy spells, with the words, with the deeds, with the libations, and with the rightly-spoken words.
 
 ‘Yê<i>n</i>hê hâtãm [^283]: All those beings of whom Ahura Mazda . . . .
 
@@ -92,7 +92,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 ‘For her brightness and glory, I will offer her a sacrifice, worth being heard [^286] . . . .
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 ## III.
 
@@ -114,7 +114,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 16\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sûra Anâhita . . . .
 
-17\. 'To her did the Maker Ahura Mazda offer up a sacrifice [^291] in the Airyana Vaê<i>g</i>ah, by the good river Dâitya [^292]; with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the holy spells, with the words, with the deeds, with the libations, and with the rightly-spoken words [^293]. <span id="p58">[<sup><small>p. 58</small></sup>]</span> 18\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may bring the son of Pourushaspa, the holy Zarathu<i>s</i>tra, to think after my law, to speak after my law, to do after my law!”
+17\. 'To her did the Maker Ahura Mazda offer up a sacrifice [^291] in the Airyana Vaê<i>g</i>ah, by the good river Dâitya [^292]; with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the holy spells, with the words, with the deeds, with the libations, and with the rightly-spoken words [^293]. <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> 18\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may bring the son of Pourushaspa, the holy Zarathu<i>s</i>tra, to think after my law, to speak after my law, to do after my law!”
 
 19\. 'Ardvi Sûra Anâhita granted him that boon, as he was offering libations, giving gifts, sacrificing, and begging that she would grant him that boon.
 
@@ -126,7 +126,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 21\. 'To her did Haoshyangha, the Paradhâta [^294], offer up a sacrifice on the enclosure [^295] of the Hara [^296], with a hundred male horses, a thousand oxen, and ten thousand lambs.
 
-22\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may become the sovereign lord of all countries, of the Daêvas and men, of the <span id="p59">[<sup><small>p. 59</small></sup>]</span> Yâtus and Pairikas, of the oppressors, the blind and the deaf; and that I may smite down two thirds [^297] of the Daêvas of Mâzana [^298] and of the fiends of Varena [^299].”
+22\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may become the sovereign lord of all countries, of the Daêvas and men, of the <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> Yâtus and Pairikas, of the oppressors, the blind and the deaf; and that I may smite down two thirds [^297] of the Daêvas of Mâzana [^298] and of the fiends of Varena [^299].”
 
 23\. Ardvi Sûra Anâhita granted him that boon, as he was offering libations, giving gifts, sacrificing, and entreating that she would grant him that boon.
 
@@ -138,7 +138,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 25\. 'To her did Yima Khshaêta [^300], the good shepherd, offer up a sacrifice from the height Hukairya [^301], with a hundred male horses, a thousand oxen, ten thousand lambs.
 
-26\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may become the sovereign lord of all countries, of the Daêvas and men, of the Yâtus and Pairikas, of the oppressors, the blind and the deaf; and that I may take from the Daêvas both <span id="p60">[<sup><small>p. 60</small></sup>]</span> riches and welfare, both fatness and flocks, both weal and Glory [^302].”
+26\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may become the sovereign lord of all countries, of the Daêvas and men, of the Yâtus and Pairikas, of the oppressors, the blind and the deaf; and that I may take from the Daêvas both <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> riches and welfare, both fatness and flocks, both weal and Glory [^302].”
 
 27\. 'Ardvi Sûra Anâhita granted him that boon, as he was offering libations, giving gifts, sacrificing, and entreating that she would grant him that boon.
 
@@ -148,7 +148,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 28\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sûra Anâhita . . . .
 
-29\. 'To her did A<i>z</i>i Dahâka [^303], the three-mouthed, offer up a sacrifice in the land of Bawri [^304], with a <span id="p61">[<sup><small>p. 61</small></sup>]</span> hundred male horses, a thousand oxen, and ten thousand lambs.
+29\. 'To her did A<i>z</i>i Dahâka [^303], the three-mouthed, offer up a sacrifice in the land of Bawri [^304], with a <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> hundred male horses, a thousand oxen, and ten thousand lambs.
 
 30\. 'He begged of her a boon, saying: “Grant me this boon, O good, most beneficent Ardvi Sûra Anâhita! that I may make all the seven Karshvares of the earth empty of men.”
 
@@ -162,7 +162,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 33\. 'To her did Thraêtaona [^305], the heir [^306] of the valiant Âthwya clan, offer up a sacrifice in the four-cornered Varena [^307], with a hundred male horses, a thousand oxen, ten thousand lambs.
 
-34\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may overcome A<i>z</i>i Dahâka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses [^308], that most powerful, fiendish Dru<i>g</i>, <span id="p62">[<sup><small>p. 62</small></sup>]</span> that demon, baleful to the world, the strongest Dru<i>g</i> that Angra Mainyu created against the material world, to destroy the world of the good principle [^309]; and that I may deliver his two wives, Savanghavâ<i>k</i> and Erenavâ<i>k</i> [^310], who are the fairest of body amongst women, and the most wonderful creatures in the world [^311].”
+34\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may overcome A<i>z</i>i Dahâka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses [^308], that most powerful, fiendish Dru<i>g</i>, <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> that demon, baleful to the world, the strongest Dru<i>g</i> that Angra Mainyu created against the material world, to destroy the world of the good principle [^309]; and that I may deliver his two wives, Savanghavâ<i>k</i> and Erenavâ<i>k</i> [^310], who are the fairest of body amongst women, and the most wonderful creatures in the world [^311].”
 
 35\. Ardvi Sûra Anâhita granted him that boon, as he was offering libations, giving gifts, sacrificing, and entreating that she would grant him that boon.
 
@@ -172,7 +172,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 36\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto Ardvi Sûra Anâhita . . . .
 
-37\. 'To her did Keresâspa [^312], the manly-hearted, offer up a sacrifice behind the Vairi Pisanah [^313], with a <span id="p63">[<sup><small>p. 63</small></sup>]</span> hundred male horses, a thousand oxen, ten thousand lambs.
+37\. 'To her did Keresâspa [^312], the manly-hearted, offer up a sacrifice behind the Vairi Pisanah [^313], with a <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> hundred male horses, a thousand oxen, ten thousand lambs.
 
 38\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may overcome the golden-heeled Ga<i>n</i>darewa [^314], though all the shores of the sea Vouru-Kasha are boiling over; and that I may run up to the stronghold of the fiend on the wide, round earth, whose ends lie afar.”
 
@@ -180,7 +180,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 ‘For her brightness and glory, I will offer her a sacrifice . . .
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## XI.
 
@@ -188,7 +188,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 41\. 'To her did the Turanian murderer, Frangrasyan [^315], offer up a sacrifice in his cave under the earth [^316], with a hundred male horses, a thousand oxen, ten thousand lambs.
 
-42\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may seize hold of that Glory [^317], that is waving in the middle of the sea Vouru-Kasha [^317] and <span id="p65">[<sup><small>p. 65</small></sup>]</span> that belongs to the Aryan people, to those born and to those not yet born, and to the holy Zarathu<i>s</i>tra.”
+42\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may seize hold of that Glory [^317], that is waving in the middle of the sea Vouru-Kasha [^317] and <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> that belongs to the Aryan people, to those born and to those not yet born, and to the holy Zarathu<i>s</i>tra.”
 
 43\. 'Ardvi Sûra Anâhita did not grant him that boon.
 
@@ -210,7 +210,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 48\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sûra Anâhita . . . .
 
-49\. 'To her did the gallant Husravah [^320], he who <span id="p66">[<sup><small>p. 66</small></sup>]</span> united the Aryan nations into one kingdom [^321], offer up a sacrifice behind the <i>K</i>aê<i>k</i>asta lake [^322], the deep lake, of salt waters [^323], with a hundred male horses, a thousand oxen, ten thousand lambs.
+49\. 'To her did the gallant Husravah [^320], he who <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> united the Aryan nations into one kingdom [^321], offer up a sacrifice behind the <i>K</i>aê<i>k</i>asta lake [^322], the deep lake, of salt waters [^323], with a hundred male horses, a thousand oxen, ten thousand lambs.
 
 50\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may become the sovereign lord of all countries, of Daêvas and men, of the Yâtus and Pairikas, of the oppressors, the blind and the deaf; and that I may have the lead in front of all the teams [^324] and that he may not pass through [^325] the forest [^326], he, the murderer [^327], who now is fiercely [^328] striving against me [^329] on horseback [^330].”
 
@@ -222,7 +222,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 52\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sara Anâhita . . . .
 
-53\. 'To her did the valiant warrior Tusa [^331] offer <span id="p67">[<sup><small>p. 67</small></sup>]</span> worship on the back of his horse [^332], begging swiftness for his teams, health for his own body, and that he might, watch with full success [^333] those who hated him, smite down his foes, and destroy at one stroke his adversaries, his enemies, and those who hated him [^334].
+53\. 'To her did the valiant warrior Tusa [^331] offer <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> worship on the back of his horse [^332], begging swiftness for his teams, health for his own body, and that he might, watch with full success [^333] those who hated him, smite down his foes, and destroy at one stroke his adversaries, his enemies, and those who hated him [^334].
 
 54\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may overcome the gallant sons of Vaêsaka [^335], by the castle Khshathrô-saoka, that stands high up on the lofty, holy Kangha [^336]; that I may smite of the Turanian people their fifties and their hundreds, their hundreds and their thousands, their thousands and their tens of thousands, their tens of thousands and their myriads of myriads.”
 
@@ -230,7 +230,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 ‘For her brightness and glory, I will offer her a sacrifice . . . .
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 ## XV.
 
@@ -248,7 +248,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 60\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sûra Anâhita . . . .
 
-61\. 'The old [^339] Vafra Navâza worshipped her, when the strong fiend-smiter, Thraêtaona, flung him up in the air in the shape of a bird, of a vulture [^340]. <span id="p69">[<sup><small>p. 69</small></sup>]</span> 62\. 'He went on flying, for three days and three nights, towards his own house; but he could not, he could not turn down. At the end of the third night, when the beneficent dawn came dawning up, then he prayed unto Ardvi Sûra Anâhita, saying:
+61\. 'The old [^339] Vafra Navâza worshipped her, when the strong fiend-smiter, Thraêtaona, flung him up in the air in the shape of a bird, of a vulture [^340]. <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> 62\. 'He went on flying, for three days and three nights, towards his own house; but he could not, he could not turn down. At the end of the third night, when the beneficent dawn came dawning up, then he prayed unto Ardvi Sûra Anâhita, saying:
 
 63\. ' “Ardvi Sûra Anâhita! do thou quickly hasten helpfully and bring me assistance at once. I will offer thee a thousand libations, cleanly prepared and well strained, along with Haomas and meat, by the brink of the river Rangha, if I reach alive the earth made by Ahura and my own house.”
 
@@ -260,7 +260,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 ‘For her brightness and glory, I will offer her a sacrifice . . . .
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 ## XVII.
 
@@ -278,7 +278,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 71\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sûra Anâhita . . . .
 
-72\. 'To her did Ashavazdah, the son of <span id="p71">[<sup><small>p. 71</small></sup>]</span> Pourudhâkh<i>s</i>ti [^346], and Ashavazdah and Thrita, the sons of Sâyu<i>z</i>dri [^347], offer up a sacrifice, with a hundred horses, a thousand oxen, ten thousand lambs, by Apãm Napâ<i>t</i>, the tall lord, the lord of the females, the bright and swift-horsed [^348].
+72\. 'To her did Ashavazdah, the son of <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> Pourudhâkh<i>s</i>ti [^346], and Ashavazdah and Thrita, the sons of Sâyu<i>z</i>dri [^347], offer up a sacrifice, with a hundred horses, a thousand oxen, ten thousand lambs, by Apãm Napâ<i>t</i>, the tall lord, the lord of the females, the bright and swift-horsed [^348].
 
 73\. 'They begged of her a boon, saying: "Grant us this, O good, most beneficent Ardvi Sûra Anâhita! that we may overcome the assemblers of the Turanian Dânus [^349], Kara Asabana [^350], and Vara Asabana, and the most mighty Dûraêkaêta, in the battles of this world [^351].
 
@@ -290,7 +290,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 75\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sûra Anâhita . . . .
 
-76\. 'Vistauru, the son of Naotara [^352], worshipped <span id="p72">[<sup><small>p. 72</small></sup>]</span> her by the brink of the river Vîtanghuhaiti [^353], with well-spoken words, speaking thus:
+76\. 'Vistauru, the son of Naotara [^352], worshipped <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> her by the brink of the river Vîtanghuhaiti [^353], with well-spoken words, speaking thus:
 
 77\. ' “This is true, this is truly spoken, that I have smitten as many of the worshippers of the Daêvas as the hairs I bear on my head. Do thou then, O Ardvi Sûra Anâhita! leave me a dry passage, to pass over the good Vîtanghuhaiti.”
 
@@ -304,7 +304,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 80\. ‘Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sûra Anâhita . . . .’
 
-81\. 'To her did Yôi<i>s</i>ta, one of the Fryanas [^357], <span id="p73">[<sup><small>p. 73</small></sup>]</span> offer up a sacrifice with a hundred horses, a thousand oxen, ten thousand lambs on the P<i>e</i>dvaêpa [^358] of the Rangha.
+81\. 'To her did Yôi<i>s</i>ta, one of the Fryanas [^357], <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> offer up a sacrifice with a hundred horses, a thousand oxen, ten thousand lambs on the P<i>e</i>dvaêpa [^358] of the Rangha.
 
 82\. 'He begged of her a boon, saying: “Grant me this, O good, most beneficent Ardvi Sûra Anâhita! that I may overcome the evil-doing Akhtya, the offspring of darkness, and that I may answer the ninety-nine hard riddles that he asks me maliciously, the evil-doing Akhtya, the offspring of darkness.”
 
@@ -316,7 +316,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 84\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sûra Anâhita . . . .
 
-85\. 'Whom Ahura Mazda the merciful ordered thus, saying: "Come, O Ardvi Sûra Anâhita, come from those stars [^359] down to the earth made by Ahura, <span id="p74">[<sup><small>p. 74</small></sup>]</span> that the great lords may worship thee, the masters of the countries, and their sons.
+85\. 'Whom Ahura Mazda the merciful ordered thus, saying: "Come, O Ardvi Sûra Anâhita, come from those stars [^359] down to the earth made by Ahura, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> that the great lords may worship thee, the masters of the countries, and their sons.
 
 86\. ' "The men of strength [^360] will beg of thee swift horses and supremacy of Glory.
 
@@ -334,7 +334,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 ‘ “Through my brightness and glory flocks and herds and two-legged men go on, upon the earth: I, forsooth, keep all good things, made by Mazda, the offspring of the holy principle, just as a shepherd keeps his flock.”
 
-90\. 'Zarathu<i>s</i>tra asked Ardvi Sûra Anâhita: “O Ardvi Sûra Anâhita! With what manner of sacrifice shall I worship thee? With what manner of sacrifice shall I worship and forward thee? So that Mazda may make thee run down (to the earth), that <span id="p75">[<sup><small>p. 75</small></sup>]</span> he may not make thee run up into the heavens, above the sun [^363]; and that the Serpent [^364] may not injure thee with . . . . [^365], with . . . . [^366], with . . . . [^367], and . . . . poisons [^368].”
+90\. 'Zarathu<i>s</i>tra asked Ardvi Sûra Anâhita: “O Ardvi Sûra Anâhita! With what manner of sacrifice shall I worship thee? With what manner of sacrifice shall I worship and forward thee? So that Mazda may make thee run down (to the earth), that <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> he may not make thee run up into the heavens, above the sun [^363]; and that the Serpent [^364] may not injure thee with . . . . [^365], with . . . . [^366], with . . . . [^367], and . . . . poisons [^368].”
 
 91\. 'Ardvi Sûra Anâhita answered: "O pure, holy Spitama! this is the sacrifice wherewith thou shalt worship me, this is the sacrifice wherewith thou shalt worship and forward me, from the time when the sun is rising to the time when the sun is setting.
 
@@ -344,7 +344,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 93\. ' "I do not accept those libations that are drunk in my honour by the blind, by the deaf, by the wicked, by the destroyers, by the niggards, by the . . . . [^370], nor any of those stamped with those characters which have no strength for the holy Word [^371].
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 ‘ “Let no one drink of these my libations who is hump-backed or bulged forward; no fiend with decayed teeth [^372].”
 
@@ -360,7 +360,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 97\. Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sara Anâhita . . . .
 
-98\. 'Before whom the worshippers of Mazda <span id="p77">[<sup><small>p. 77</small></sup>]</span> stand with baresma in their hands: the Hvôvas did worship her, the Naotaras did worship her [^381]; the Hvôvas asked for riches, the Naotaras asked for swift horses. Quickly was Hvôva blessed with riches and full prosperity; quickly became Vî<i>s</i>tâspa, the Naotaride, the lord of the swiftest horses in these countries [^382]
+98\. 'Before whom the worshippers of Mazda <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> stand with baresma in their hands: the Hvôvas did worship her, the Naotaras did worship her [^381]; the Hvôvas asked for riches, the Naotaras asked for swift horses. Quickly was Hvôva blessed with riches and full prosperity; quickly became Vî<i>s</i>tâspa, the Naotaride, the lord of the swiftest horses in these countries [^382]
 
 99\. \[^383].\]
 
@@ -372,7 +372,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 101\. 'Who has a thousand cells and a thousand channels: the extent of each of those cells, of each of those channels, is as much as a man can ride in forty days, riding on a good horse [^384]. In each channel there stands a palace, well-founded, shining with a hundred windows, with a thousand columns, well-built, with ten thousand balconies, and mighty.
 
-102\. 'In each of those palaces there lies a well-laid, well-scented bed, covered with pillows, and <span id="p78">[<sup><small>p. 78</small></sup>]</span> Ardvi Sûra Anâhita, O Zarathu<i>s</i>tra! runs down there from a thousand times the height of a man, and she is possessed of as much Glory as the whole of the waters that run along the earth, and she runs powerfully [^385].
+102\. 'In each of those palaces there lies a well-laid, well-scented bed, covered with pillows, and <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> Ardvi Sûra Anâhita, O Zarathu<i>s</i>tra! runs down there from a thousand times the height of a man, and she is possessed of as much Glory as the whole of the waters that run along the earth, and she runs powerfully [^385].
 
 ## XXIV.
 
@@ -386,7 +386,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 ‘For her brightness and glory, I will offer her a sacrifice . . . .
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 ## XXV.
 
@@ -400,7 +400,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 ‘For her brightness and glory, I will offer her a sacrifice . . . .
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 ## XXVI.
 
@@ -418,7 +418,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 115\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sûra Anâhita . . . .
 
-116\. 'Unto her did Are<i>g</i>a<i>t</i>\-aspa and Va<i>n</i>daremaini [^399] <span id="p81">[<sup><small>p. 81</small></sup>]</span> offer up a sacrifice by the sea Vouru-Kasha, with a hundred male horses, a thousand oxen, ten thousand lambs.
+116\. 'Unto her did Are<i>g</i>a<i>t</i>\-aspa and Va<i>n</i>daremaini [^399] <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> offer up a sacrifice by the sea Vouru-Kasha, with a hundred male horses, a thousand oxen, ten thousand lambs.
 
 117\. 'They [^400] begged of her a boon, saying: “Grant us this, O good, most beneficent Ardvi Sûra Anâhita! that we may conquer the valiant Kavi Vî<i>s</i>tâspa and Zairivairi who fights on horseback, and that we may smite of the Aryan people their fifties and their hundreds, their hundreds and their thousands, their thousands and their tens of thousands, their tens of thousands and their myriads of myriads.”
 
@@ -432,7 +432,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 120\. 'For whom Ahura Mazda has made four horses—the wind, the rain, the cloud, and the sleet—and thus ever [^402] upon the earth it is raining, snowing, hailing, and sleeting; and whose armies are so many and numbered by nine-hundreds and thousands.
 
-121\. 'I will worship the height Hukairya, of the <span id="p82">[<sup><small>p. 82</small></sup>]</span> deep precipices, made of gold, wherefrom this mine Ardvi Sûra Anâhita leaps, from a hundred times the height of a man, while she is possessed of as much Glory as the whole of the waters that run along the earth, and she runs powerfully [^403].
+121\. 'I will worship the height Hukairya, of the <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> deep precipices, made of gold, wherefrom this mine Ardvi Sûra Anâhita leaps, from a hundred times the height of a man, while she is possessed of as much Glory as the whole of the waters that run along the earth, and she runs powerfully [^403].
 
 ‘For her brightness and glory, I will offer her a sacrifice . . . .
 
@@ -450,7 +450,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 325\. 'Offer up a sacrifice, O Spitama Zarathu<i>s</i>tra! unto this spring of mine, Ardvi Sûra Anâhita . . . .
 
-126\. 'Ardvi Sûra Anâhita, who stands carried forth in the shape of a maid, fair of body, most strong, tall-formed, high-girded, pure, nobly born of <span id="p83">[<sup><small>p. 83</small></sup>]</span> a glorious race [^406], wearing along her . . . . [^407] a mantle fully embroidered with gold;
+126\. 'Ardvi Sûra Anâhita, who stands carried forth in the shape of a maid, fair of body, most strong, tall-formed, high-girded, pure, nobly born of <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> a glorious race [^406], wearing along her . . . . [^407] a mantle fully embroidered with gold;
 
 127\. 'Ever holding the baresma in her hand, according to the rules, she wears square golden earrings on her ears bored [^408], and a golden necklace around her beautiful neck, she, the nobly born Ardvi Sûra Anâhita; and she girded her waist tightly, so that her breasts may be well-shaped, that they may be tightly pressed [^409].
 
@@ -458,7 +458,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 129\. 'She is clothed with garments of beaver [^413], Ardvi Sûra Anâhita; with the skin of thirty beavers of those that bear four young ones, that are the finest kind of beavers; for the skin of the beaver that lives in water is the finest-coloured of all skins, and when worked at the right time it shines to the eye with full sheen of silver and gold.
 
-130\. 'Here, O good, most beneficent Ardvi Sûra Anâhita! I beg of thee this favour: that I, fully blessed, may conquer large kingdoms, rich in horses [^414], with high tributes, with snorting horses, sounding chariots, flashing swords, rich in aliments, with stores of food, with well-scented beds [^415]; that I may have <span id="p84">[<sup><small>p. 84</small></sup>]</span> at my wish the fulness of the good things of life and whatever makes a kingdom thrive [^416].
+130\. 'Here, O good, most beneficent Ardvi Sûra Anâhita! I beg of thee this favour: that I, fully blessed, may conquer large kingdoms, rich in horses [^414], with high tributes, with snorting horses, sounding chariots, flashing swords, rich in aliments, with stores of food, with well-scented beds [^415]; that I may have <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> at my wish the fulness of the good things of life and whatever makes a kingdom thrive [^416].
 
 131\. 'Here, O good, most beneficent Ardvi Sûra Anâhita! I beg of thee two gallant companions, one two-legged and one four-legged [^417]: one two-legged, who is swift, quickly rushing, and clever in turning a chariot round in battle; and one four-legged, who can quickly turn towards either wing of the host with a wide front, towards the right wing or the left, towards the left wing or the right.
 

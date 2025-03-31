@@ -36,7 +36,7 @@ King Zoheir having summoned Shedad, the father of Antar, with his other warriors
 
 “The horsemen being now absent, the children, and women, and slaves, male and female, were left behind. Semeeah, the wife of Shedad, gave a magnificent entertainment at the lake of Zatool Irsad. Sheep were slaughtered, and wine flowed, and the girls carried their instruments. Antar stood amongst the attendants, and was in transports on seeing Abla appear with the other women. She was indeed like an amorous fawn; she was decorated with variegated necklaces; and when Antar was attending her, he was overwhelmed in the ocean of his love, and became the slave of her sable tresses. They sat down to eat, and the wine-cups went merrily round. It was the spring of the year, when the whole land shone in all its glory: the vines hung luxuriantly in the arbours; the flowers shed around ambrosial fragrance; every hillock sparkled in the beauty of its colours; the birds in responsive melody sang sweetly from each bush, and harmony issued from their throats; every ear was enchanted; the ground was covered with flowers and herbs; whilst the nightingales filled the air with their softest notes. Then the damsels beat the cymbals, and recited the following verses:
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 The shades have spread their canopy, and the flowers spread their pillows.
 
@@ -68,7 +68,7 @@ Every sportive virgin is possessed of languishing glances, and enchanting moveme
 
 Their beauty is perfection—they are loveliness itself;
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 Their elegant shapes glance like the well-proportioned spears;
 
@@ -82,7 +82,7 @@ Archers and strikers—the enchantresses of men.
 
 Antar, however, was not the man to stand by and allow the enemy thus to ravish his fair charges before his eyes. To rush after and overtake the horseman who had captured Abla, and to hurl him a lifeless and shapeless mass on the ground, and to take possession of his horse and armour, was to Antar mere child's play. Then he overtook the rest of the enemy, and with his single arm performed such wonders, that those who escaped the stroke of his death-dealing sword fled in dismay, leaving the women and the plunder they had taken.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 This was Antar's first warlike exploit; and when King Zoheir returned, and heard of his prowess, he publicly praised him, and presented him with a robe of honour.
 

@@ -32,15 +32,15 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 ## PART THREE
 
-<span id="p210">[<sup><small>p. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 ![](/image/book/Buddhism/The_Life_of_Buddha/21000.jpg)
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 
 MAHAPRAJAPATI was musing. She knew the vanity of this world. She wanted to flee the palace, to flee Kapilavastu, and lead a life of holiness.
@@ -55,7 +55,7 @@ One day, she said to herself:
 
 The Master was in a wood, near Kapilavastu. Mahaprajapati went to him, and in a timid voice, she said:
 
-“Master, only you and your disciples can be <span id="p212">[<sup><small>p. 212</small></sup>]</span> really happy. Yet I, too, like you and those who accompany you, wish to walk in the path of salvation. May the favor be granted me to enter the community, O Blessed One.”
+“Master, only you and your disciples can be <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> really happy. Yet I, too, like you and those who accompany you, wish to walk in the path of salvation. May the favor be granted me to enter the community, O Blessed One.”
 
 The Master remained silent. She continued:
 
@@ -69,7 +69,7 @@ For the third time, the Master remained silent. Mahaprajapati, her eyes full of 
 
 But she would not accept defeat. She resolved to seek the Master once again and plead with him.
 
-He was then in the great wood, near Vaisali. Mahaprajapati cut off her hair, and putting on a <span id="p213">[<sup><small>p. 213</small></sup>]</span> reddish-colored robe made of a coarse material, she set out for Vaisali.
+He was then in the great wood, near Vaisali. Mahaprajapati cut off her hair, and putting on a <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> reddish-colored robe made of a coarse material, she set out for Vaisali.
 
 She made the trip on foot; she never once complained of weariness. Covered with dust, she finally arrived at the hall where the Buddha was meditating. But she did not dare to enter; she stood outside the door, with tears in her eyes. Ananda happened to pass by. He saw her and asked:
 
@@ -81,7 +81,7 @@ She made the trip on foot; she never once complained of weariness. Covered with 
 
 He entered the hall. He saw the Master, and he said to him:.
 
-“Blessed One, Mahaprajapati, our revered queen, is standing before your door. She dares not appear before you; she is afraid you will again turn a deaf ear to her plea. Yet it is not the plea of a foolish woman, Blessed One. Would it mean so much to you to grant it? The queen was a mother to you, once; she was always kind to you; surely she deserves to be heard. Why should you not <span id="p214">[<sup><small>p. 214</small></sup>]</span> receive women into the community? There are women of great piety, women with the saintly courage to keep in the path of holiness.”
+“Blessed One, Mahaprajapati, our revered queen, is standing before your door. She dares not appear before you; she is afraid you will again turn a deaf ear to her plea. Yet it is not the plea of a foolish woman, Blessed One. Would it mean so much to you to grant it? The queen was a mother to you, once; she was always kind to you; surely she deserves to be heard. Why should you not <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> receive women into the community? There are women of great piety, women with the saintly courage to keep in the path of holiness.”
 
 “Ananda,” said the Master, “do not ask me to permit women to enter the community.”
 
@@ -93,13 +93,13 @@ Ananda left. The queen was waiting for him.
 
 The following day, .Ananda again went to the Blessed One.
 
-“Mahaprajapati has not left the wood,” said he. “She is thinking of the happy days of her youth. Maya was then alive; Maya, the most beautiful of all women; Maya, to whom a son would be born. Maya's sister was a noble woman: she knew nothing of envy: she loved this child, even before it came into the world. And when it was born, to bring joy to all creatures, Queen Maya died. Mahaprajapati was kind to the motherless boy: he seemed so frail. She protected him from harm; she gave him devoted nurses; she shielded him from the influence of evil servants; she lavished her care and her tenderness upon him. He grew older, and still she would not leave him. She anticipated his least wishes; she worshipped him. And he attained the happiest fortune; he is the giant tree that shelters the wise; and now, when she would seek a humble place in his shadow, she is refused the peace <span id="p215">[<sup><small>p. 215</small></sup>]</span> and rest to which she aspires. O Master, be not unjust; receive Mahaprajapati into the community.”
+“Mahaprajapati has not left the wood,” said he. “She is thinking of the happy days of her youth. Maya was then alive; Maya, the most beautiful of all women; Maya, to whom a son would be born. Maya's sister was a noble woman: she knew nothing of envy: she loved this child, even before it came into the world. And when it was born, to bring joy to all creatures, Queen Maya died. Mahaprajapati was kind to the motherless boy: he seemed so frail. She protected him from harm; she gave him devoted nurses; she shielded him from the influence of evil servants; she lavished her care and her tenderness upon him. He grew older, and still she would not leave him. She anticipated his least wishes; she worshipped him. And he attained the happiest fortune; he is the giant tree that shelters the wise; and now, when she would seek a humble place in his shadow, she is refused the peace <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> and rest to which she aspires. O Master, be not unjust; receive Mahaprajapati into the community.”
 
 The Master pondered; then he gravely spoke these words:
 
 “Listen, Ananda. Go to Mahaprajapati and tell her that I am willing to receive her into the community, but that she must conform to certain very strict rules. These are the observances I shall require of the women in the community: a nun, even if she has been a nun for a hundred years, must rise in the presence of a monk and show him every mark of deep respect, even though he has been a monk for only a day; the nuns must go to the monks for a public confession of their transgressions and for instruction in the sacred word; nuns guilty of a grave offense must submit to a fitting punishment, for fifteen days, in front of the whole community of monks and nuns; before nuns are admitted to the community, their constancy and their virtue must be tried for a period of two years; the nuns will not be allowed to exhort the monks, but the monks will be allowed to exhort the nuns. These are the observances which, in addition to the observances already known to the monks, will be required of all the nuns.”
 
-Mahaprajapati joyfully promised to observe these rules. She entered the community, and within a <span id="p216">[<sup><small>p. 216</small></sup>]</span> few months, many women had followed her example.
+Mahaprajapati joyfully promised to observe these rules. She entered the community, and within a <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> few months, many women had followed her example.
 
 But, one day, the Master said to Ananda:
 

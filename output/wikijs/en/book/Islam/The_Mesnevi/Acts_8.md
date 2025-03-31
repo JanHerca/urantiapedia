@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 **CHAPTER VIII.**
 
@@ -48,7 +48,7 @@ On the last day but one of the period of the greater pilgrimage at Mekka, the ev
 
 They were visiting at the convent of a certain Mevlevi dervish, named Sheykh Suhrāb,[^33] with sundry of the friends and saints, all of whom were engaged in the study of different books, at about the hour of midday, excepting ‘Ārif, who was enjoying a _siesta_.
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Suddenly, ‘Ārif raised his head, and gave one of his loud, awe-inspiring shouts, which caused all present to tremble. Without a word, however, he again composed himself to sleep.
 
@@ -64,7 +64,7 @@ Nāsir replied: “On the eve of the Festival of Sacrifices, I was standing at t
 
 ‘Ārif then addressed Eflākī, and said: “Pray relate to our friends what thou knowest thereof, that they may be edified.”
 
-Eflākī now produced his memorandum-book, and showed the entry he had made, with the date. The friends marvelled at this, and rejoiced exceedingly, their spirits <span id="p128">[<sup><small>p. 128</small></sup>]</span> being refreshed with an influence from the invisible world.
+Eflākī now produced his memorandum-book, and showed the entry he had made, with the date. The friends marvelled at this, and rejoiced exceedingly, their spirits <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> being refreshed with an influence from the invisible world.
 
 ‘Ārif then said: “By the soul of my ancestor, I dislike exceedingly to make a display of any miraculous power. But, now and then, for the edification of my disciples, such scenes will slip out. Then Eflākī takes note thereof.”
 
@@ -84,7 +84,7 @@ He then said: “It is time for me to make my journey to heaven,—to drink of t
 
 Two days later, they continued their journey towards Qonya, and ‘Ārif showed some slight symptoms of indisposition.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 These daily grew more severe. He reached Qonya. One morning he came out of his house, and stood in the gateway of his great-grandfather's mausoleum, silent, in the midst of his disciples. It was Friday, the last day of the month of Zū-’l-qa‘da, a.h. 719 (13th January, a.d. 1320).
 
@@ -98,7 +98,7 @@ His disciples burst into tears, and he continued—
 
 He then cried aloud. After which he slowly returned to his chamber, and there continued to moan.
 
-He managed to crawl, as well as he could, to the congregational service of worship of that Friday at noon. Thence he proceeded to the mausoleum, kissed the shrine, <span id="p130">[<sup><small>p. 130</small></sup>]</span> sang a hymn, performed a holy dance, and uttered ecstatic cries. He then laid himself down at full length on the floor, under which he is now buried, and said: “Where the man falls, there let him be interred. Bury you the deposit of my corpse in this spot.”
+He managed to crawl, as well as he could, to the congregational service of worship of that Friday at noon. Thence he proceeded to the mausoleum, kissed the shrine, <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> sang a hymn, performed a holy dance, and uttered ecstatic cries. He then laid himself down at full length on the floor, under which he is now buried, and said: “Where the man falls, there let him be interred. Bury you the deposit of my corpse in this spot.”
 
 That day was as though the last judgment were at hand. A tempest arose; all creation, mortal and immortal, seemed to be groaning.
 
@@ -112,7 +112,7 @@ Shocks followed after shocks of the earthquake; and ‘Ārif exclaimed: “The h
 
 He then asked: “Look! what birds are these that are come here?” His eyes remained fixed for a time on the angelic visions which he now saw. From time to time he would start, as though about to fly. The assembled disciples, men and women, wept bitterly. But he again spoke, and said—
 
-“Sheykhs, be not troubled! Even as my descent into this world was for the regulation of the affairs of your community, so is my existence of equal advantage to you, <span id="p131">[<sup><small>p. 131</small></sup>]</span> and I will at all times be with you, never absent from you. Even in the other world will I be with you. Here below, separation is a thing unavoidable. In the other world there is union without disrupture, and junction without a parting. Let me go without a pang. To outward appearance, I shall be absent; but in truth, I shall not be away from you. So long as a sword is in its sheath, it cuts not; but, when it shall be drawn, you shall see its effects. From this day forward, I dash my fist through the curtain that veils the invisible world; and my disciples shall hear the clash of the blows.”
+“Sheykhs, be not troubled! Even as my descent into this world was for the regulation of the affairs of your community, so is my existence of equal advantage to you, <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> and I will at all times be with you, never absent from you. Even in the other world will I be with you. Here below, separation is a thing unavoidable. In the other world there is union without disrupture, and junction without a parting. Let me go without a pang. To outward appearance, I shall be absent; but in truth, I shall not be away from you. So long as a sword is in its sheath, it cuts not; but, when it shall be drawn, you shall see its effects. From this day forward, I dash my fist through the curtain that veils the invisible world; and my disciples shall hear the clash of the blows.”
 
 As he spake these words, his eldest son, Shāh-Zāda, and his own half-brother, Chelebī ‘Ābid, entered the room. Sheykh Eflākī asked him what commands he had to give for them. ‘Ārif replied: “They belong to the Lord, and have no longer a relation to me; He will take care of them.”
 

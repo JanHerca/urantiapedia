@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:14Z
   </table>
 </figure>
 
-<span id="p452">[<sup><small>p. 452</small></sup>]</span>
+<span id="p452"><sup><small>[ p. 452 ]</small></sup></span>
 
 Page [15](Book_1_1_1#p15), note [1](Book_1_1_1#fn104). The pole of Indian carts is itself firmly bound with thongs.
 

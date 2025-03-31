@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 
 THE Buddha began to wonder how he would propagate the knowledge. He said to himself:
@@ -41,7 +41,7 @@ THE Buddha began to wonder how he would propagate the knowledge. He said to hims
 
 And the Blessed One was not inclined to preach the doctrine.
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 Then Brahma, by virtue of his supreme intelligence, knew of the doubts that beset the Blessed One. He became frightened. “The world is lost,” he said to himself, “the world is undone, if the Perfect One, the Holy One, the Buddha, now stands aloof, if he does not go among men to preach the doctrine and propagate the knowledge.”
 
@@ -51,7 +51,7 @@ And he left the sky. It took him less time to reach the earth than it takes a st
 
 Thus spoke Brahma. The Blessed One remained silent. Brahma continued:
 
-“Till now an evil law has prevailed in the world. It has led men into sin. It behooves you to destroy it. O Man of Wisdom, open for us the gates of eternity; tell us what you have found, O Savior! You are he who has climbed the mountain, you <span id="p112">[<sup><small>p. 112</small></sup>]</span> stand on the rocky summit, and you survey mankind from afar. Have pity, O Savior; think of the unhappy peoples who suffer the anguish of birth and of old age. Go, conquering hero, go! Travel through the world, be the light and the guide. Speak, teach; there will be many to understand your word.”
+“Till now an evil law has prevailed in the world. It has led men into sin. It behooves you to destroy it. O Man of Wisdom, open for us the gates of eternity; tell us what you have found, O Savior! You are he who has climbed the mountain, you <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> stand on the rocky summit, and you survey mankind from afar. Have pity, O Savior; think of the unhappy peoples who suffer the anguish of birth and of old age. Go, conquering hero, go! Travel through the world, be the light and the guide. Speak, teach; there will be many to understand your word.”
 
 And the Blessed One answered:
 
@@ -59,7 +59,7 @@ And the Blessed One answered:
 
 But Brahma spoke again:
 
-“You have attained sublime wisdom; the rays of your light reach even into space, yet you are indifferent, O Sun! No, such conduct is unworthy of you; your silence is reprehensible; you must speak. Rise up! Beat the drums, sound the gong! Let the law blaze like a burning torch, or like refreshing rain, let it fall upon the parched earth. Deliver those who are tormented by evil; bring peace to those consumed by a vicious fire! You, who are like a star among men, you alone can destroy birth and <span id="p113">[<sup><small>p. 113</small></sup>]</span> death. See, I fall at your feet and implore you, in the name of all the Gods!”
+“You have attained sublime wisdom; the rays of your light reach even into space, yet you are indifferent, O Sun! No, such conduct is unworthy of you; your silence is reprehensible; you must speak. Rise up! Beat the drums, sound the gong! Let the law blaze like a burning torch, or like refreshing rain, let it fall upon the parched earth. Deliver those who are tormented by evil; bring peace to those consumed by a vicious fire! You, who are like a star among men, you alone can destroy birth and <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> death. See, I fall at your feet and implore you, in the name of all the Gods!”
 
 Then the Blessed One thought:
 

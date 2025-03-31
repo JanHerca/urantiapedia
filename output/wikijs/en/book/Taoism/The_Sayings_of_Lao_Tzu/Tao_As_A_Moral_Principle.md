@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:11:52Z
 </figure>
 
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 THE highest goodness is like water, for water is excellent in benefiting all things, and it does not strive. It occupies the lowest place, which men abhor. And therefore it is near akin to Tao.
 
@@ -43,7 +43,7 @@ Those who follow the Way desire not excess; and thus without excess they are for
 
 All things alike do their work, and then we see them subside. When they have reached their bloom, each returns to its origin. Returning to their origin means rest or fulfilment of destiny. This reversion is an eternal law. To know that law is to be enlightened. Not to know it, is misery and calamity. He who knows the eternal law is liberal-minded. Being liberal-minded, he is just. Being just, he is kingly. Being kingly, he is akin to Heaven. Being akin to Heaven, he possesses Tao. Possessed of Tao, he endures for ever. Though his body perish, yet he suffers no harm.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 He who acts in accordance with Tao, becomes one with Tao. He who treads the path of Virtue becomes one with Virtue. He who pursues a course of Vice becomes one with Vice. The man who is one with Tao, Tao is also glad to receive. The man who is one with Virtue, Virtue is also glad to receive. The man who is one with Vice, Vice is also glad to receive.
 
@@ -55,7 +55,7 @@ Ceremonies are the outward expression of inward feelings.
 
 If Tao perishes, then Virtue will perish; if Virtue perishes, then Charity will perish; if Charity perishes, then Duty to one's neighbour will perish; if Duty to one's neighbour perishes, then Ceremonies will perish.
 
-Ceremonies are but the veneer of loyalty and <span id="p26">[<sup><small>p. 26</small></sup>]</span> good faith, while oft-times the source of disorder. Knowledge of externals is but a showy ornament of Tao, while oft-times the beginning of imbecility.
+Ceremonies are but the veneer of loyalty and <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> good faith, while oft-times the source of disorder. Knowledge of externals is but a showy ornament of Tao, while oft-times the beginning of imbecility.
 
 Therefore the truly great man takes his stand upon what is solid, and not upon what is superficial; upon what is real, and not upon what is ornamental. He rejects the latter in favour of the former.
 
@@ -71,7 +71,7 @@ If we had sufficient knowledge to walk in the Great Way, what we should most fea
 
 The Great Way is very smooth, but the people love the by-paths.
 
-Where the palaces are very splendid, there the <span id="p27">[<sup><small>p. 27</small></sup>]</span> fields will be very waste, and the granaries very empty.
+Where the palaces are very splendid, there the <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> fields will be very waste, and the granaries very empty.
 
 The wearing of gay embroidered robes, the carrying of sharp swords, fastidiousness in food and drink, superabundance of property and wealth:—this I call flaunting robbery; most assuredly it is not Tao.
 
@@ -79,7 +79,7 @@ He who trusts to his abundance of natural virtue is like an infant newly born, w
 
 Temper your sharpness, disentangle your ideas, moderate your brilliancy, live in harmony with your age. This is being in conformity with the principle of Tao. Such a man is impervious alike to favour and disgrace, to benefits and injuries, to honour and contempt. And therefore he is esteemed above all mankind.
 
-In governing men and in serving Heaven, there is nothing like moderation. For only by moderation can there be an early return to man's normal state. This early return is the same as a great storage of Virtue. With a great storage of Virtue there is naught which may not be achieved. If there is naught which may not be achieved, then no one will know to what extent this power reaches. And if no one knows to what extent a man's power reaches, that man is fit to be the ruler of a State. Having the secret of rule, his rule shall endure. Setting the tap-root deep, and <span id="p28">[<sup><small>p. 28</small></sup>]</span> making the spreading roots firm: this is the way to ensure long life to the tree.
+In governing men and in serving Heaven, there is nothing like moderation. For only by moderation can there be an early return to man's normal state. This early return is the same as a great storage of Virtue. With a great storage of Virtue there is naught which may not be achieved. If there is naught which may not be achieved, then no one will know to what extent this power reaches. And if no one knows to what extent a man's power reaches, that man is fit to be the ruler of a State. Having the secret of rule, his rule shall endure. Setting the tap-root deep, and <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> making the spreading roots firm: this is the way to ensure long life to the tree.
 
 Tao is the sanctuary where all things find refuge, the good man's priceless treasure, the guardian and saviour of him who is not good.
 
@@ -93,7 +93,7 @@ The skilful philosophers of the olden time were subtle, spiritual, profound, and
 
 Shrinking were they, like one fording a stream in winter. Cautious were they, like one who fears an attack from any quarter. Circumspect were they, like a stranger guest; self-effacing, like ice about to melt; simple, like unpolished wood; vacant, like a valley; opaque, like muddy water.
 
-When terms are made after a great quarrel, a certain ill-feeling is bound to be left behind. How <span id="p29">[<sup><small>p. 29</small></sup>]</span> can this be made good? Therefore, having entered into an agreement, the Sage adheres to his obligations, [^3] but does not exact fulfilment from others. The man who has Virtue attends to the spirit of the compact; the man without Virtue attends only to his claims.
+When terms are made after a great quarrel, a certain ill-feeling is bound to be left behind. How <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> can this be made good? Therefore, having entered into an agreement, the Sage adheres to his obligations, [^3] but does not exact fulfilment from others. The man who has Virtue attends to the spirit of the compact; the man without Virtue attends only to his claims.
 
 He who tries to govern a kingdom by his sagacity is of that kingdom the despoiler; but he who does not govern by sagacity is the kingdom's blessing. He who understands these two sayings may be regarded as a pattern and a model. To keep this principle constantly before one's eyes is called Profound Virtue. Profound Virtue is unfathomable, far-reaching, paradoxical at first, but afterwards exhibiting thorough conformity with Nature.
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 CHAPTER IV., Verse 3.—Marry what seems good to you of women, by twos, or threes, or fours; and if ye fear that ye cannot be equitable, then only one, or what your right hands possess. (\*) [^0] That keeps you nearer to not being partial.
 
@@ -44,7 +44,7 @@ And if they intend to divorce them, verily, God hears and knows.
 
 Divorce (may happen) twice; then keep them in reason, or let them go with kindness. It is not lawful for you to take from them anything of what you have given them, unless both fear that they cannot keep within God's bounds.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 (230).—But if he divorce her (a third time) she shall not be lawful to him after that, until she marry another husband; but if he divorce her too, it is no crime in them both to come together again, if they think that they can keep within God's bounds. These are God's bounds which He explains to a people who know.
 
@@ -60,7 +60,7 @@ Chapter IV., Verse 24.—But if ye wish to exchange one wife for another, and ha
 
 Chapter XXXIII., Verse 46.—O ye who believe!
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 when ye wed believing women, and then divorce them before ye have touched them, ye have no term that ye need observe; so make them some provision, and let them go handsomely at large.
 

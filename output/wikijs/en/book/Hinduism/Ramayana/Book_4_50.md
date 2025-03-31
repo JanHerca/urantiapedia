@@ -66,7 +66,7 @@ Whose sides are bright with richest ore,.
 lifting his glorious head on high
 From bloomy groves that round him lie.
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 Search well his forests where the breeze
 Blows fragrant from the sandal trees.
@@ -154,7 +154,7 @@ A noble mountain shall ye view,
 Named Rishabh, like a mighty bull,
 With gems made bright and beautiful.
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 All trees of sandal flourish there
 Of heavenly fragrance, rich and rare.
@@ -248,7 +248,7 @@ By Vísvakarmá's [^724] art was made.
 When Panchajan [^725] the fiend was slain.
 And Hayagríva, [^726] fierce in vain,
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 Thence taking shell and discus went
 Lord Vishnu, God preeminent.
@@ -326,7 +326,7 @@ In woods of Lodh and Deodár. [^736]
 Search if with Janak's daughter, screened
 By sheltering rocks, there lie the fiend
 
-<span id="p378">[<sup><small>p. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 The holy grounds of Soma tread
 By Gods and minstrels visited.
@@ -411,7 +411,7 @@ Nor tempt the sunless, boundless shore.’
 But special counselling he gave
 To Hanumánwise and brave:
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 To him on whom his soul relied,
 With friendly words the monarch cried:
@@ -527,7 +527,7 @@ Still in my fear I found no rest:
 I sought the regions of the west,
 And gazed on Asta,  [^748] where the sun
 
-<span id="p380">[<sup><small>p. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 Sinks when his daily course is run
 Then from that noblest hill I fled
@@ -640,7 +640,7 @@ Who cursed the forest in his rage,
 Doomed from that hour to shelter none,
 A waste for bird and beast to shun.
 
-<span id="p381">[<sup><small>p. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 They searched by every forest edge,
 They searched each cave and mountain ledge,
@@ -755,7 +755,7 @@ Vast was the cavern dark and dread,
 Where not a ray of light was shed;
 Yet not the more their eyesight failed,
 
-<span id="p382">[<sup><small>p. 382</small></sup>]</span>
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 
 Their courage sank or valour quailed.
 On through the gloom the Vánarssed

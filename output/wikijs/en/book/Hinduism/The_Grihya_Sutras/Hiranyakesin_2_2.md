@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 2, SECTION 7.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ‘<i>T</i>eka and Sasarama<i>t</i>a<i>t</i>ka and Tûla and Vitûla and the white one and the red one. Let him loose! . . . . the brown and red one.
 
-‘On those two single ones the sarasyakâs (?) run <span id="p220">[<sup><small>p. 220</small></sup>]</span> down in the third heaven from here. _Kh_at! Go away. Sîsarama! Sârameya! Adoration to thee, Sîsara!
+‘On those two single ones the sarasyakâs (?) run <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> down in the third heaven from here. _Kh_at! Go away. Sîsarama! Sârameya! Adoration to thee, Sîsara!
 
 ‘Your mother is called the messenger; your father is the ma<i>nd</i>âkaka (ma<i>nd</i>ûkaka, the frog?). _Kh_at! Go away, &c.
 

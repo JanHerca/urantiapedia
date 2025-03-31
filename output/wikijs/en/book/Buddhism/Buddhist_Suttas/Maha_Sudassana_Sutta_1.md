@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 ## THE GREAT KING OF GLORY. MAHÂ-SUDASSANA-SUTTA. CHAPTER I.
 
@@ -46,13 +46,13 @@ dateCreated: 2025-2-5T20:16:23Z
 
 2 ‘Let not the Blessed One die in this little wattel and daub town, in this town in the midst of the jungle, in this branch township. For, Lord, there are other great cities, such as <i>K</i>ampâ, Râ<i>g</i>agaha, Sâvatthi, Sâketa, Kosambi, and Benâres. Let the Blessed One die in one of them. There there are many wealthy nobles and Brâhmans and heads of houses, believers in the Tathâgata, who will pay due honour to the remains of the Tathâgata.’[^2]
 
-3\. 'Say not so, Ânanda! Say not so, Ânanda, <span id="p248">[<sup><small>p. 248</small></sup>]</span> that this is but a small wattel and daub town, a town in the midst of the jungle, a branch township. Long ago, Ânanda, there was a king, by name Mahâ-Sudassana, a king of kings, a righteous man who ruled in righteousness, an anointed Kshatriya[^3], Lord of the four quarters of the earth, conqueror, the protector of his people, possessor of the seven royal treasures. This Kusinârâ, Ânanda, was the royal city of king Mahâ-Sudassana, under the name of Kusâvatî[^4], and on the east and on the west it was twelve leagues in length, and on the north and on the south it was seven leagues in breadth. That royal city Kusâvatî, Ânanda, was mighty, and prosperous, and full of people, crowded with men, and provided with all things for food. just, Ânanda, as the royal city of the gods, Â<i>l</i>akamandâ by name, is mighty, prosperous, and full of people, crowded with the gods, and provided with all kinds of food, so. Ânanda, was the royal city Kusâvatî mighty and prosperous, full of people, crowded with men, and provided with all kinds of food. Both by day and by night, Ânanda, the royal city Kusâvatî resounded <span id="p249">[<sup><small>p. 249</small></sup>]</span> ith the ten cries; that is to say, the noise of elephants, and the noise of horses, and the noise of chariots; the sounds of the drum, of the tabor, and of the lute; the sound of singing, and the sounds of the cymbal and of the gong; and lastly, with the cry, “Eat, drink, and be merry[^5]!”
+3\. 'Say not so, Ânanda! Say not so, Ânanda, <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> that this is but a small wattel and daub town, a town in the midst of the jungle, a branch township. Long ago, Ânanda, there was a king, by name Mahâ-Sudassana, a king of kings, a righteous man who ruled in righteousness, an anointed Kshatriya[^3], Lord of the four quarters of the earth, conqueror, the protector of his people, possessor of the seven royal treasures. This Kusinârâ, Ânanda, was the royal city of king Mahâ-Sudassana, under the name of Kusâvatî[^4], and on the east and on the west it was twelve leagues in length, and on the north and on the south it was seven leagues in breadth. That royal city Kusâvatî, Ânanda, was mighty, and prosperous, and full of people, crowded with men, and provided with all things for food. just, Ânanda, as the royal city of the gods, Â<i>l</i>akamandâ by name, is mighty, prosperous, and full of people, crowded with the gods, and provided with all kinds of food, so. Ânanda, was the royal city Kusâvatî mighty and prosperous, full of people, crowded with men, and provided with all kinds of food. Both by day and by night, Ânanda, the royal city Kusâvatî resounded <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> ith the ten cries; that is to say, the noise of elephants, and the noise of horses, and the noise of chariots; the sounds of the drum, of the tabor, and of the lute; the sound of singing, and the sounds of the cymbal and of the gong; and lastly, with the cry, “Eat, drink, and be merry[^5]!”
 
 ---
 
 4\. ‘The royal city Kusâvatî, Ânanda, was surrounded by Seven Ramparts. Of these, one rampart was of gold, and one of silver, and one of beryl, and one of crystal, and one of agate, and one of coral, and one of all kinds of gems[^6]!’
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 5\. 'To the royal city Kusâvatî, Ânanda, there were Four Gates. One gate was of gold, and one of silver, and one of jade, and one of crystal. At each gate seven pillars were fixed; in height as three times or as four times the height of a man. And one pillar was of gold, and one of silver, and one of beryl, and one of crystal, and one of agate, and one of coral, and one of all kinds of gems.
 
@@ -60,7 +60,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 7\. 'And the Golden Palms had trunks of gold, and leaves and fruits of silver. And the Silver Palms had trunks of silver, and leaves and fruits of gold. And the Palms of Beryl had trunks of beryl, and leaves and fruits of crystal. And the Crystal Palms had trunks of crystal, and leaves and fruits of beryl. And the Agate Palms had trunks of agate, and leaves and fruits of coral. And the Coral Palms had trunks of coral, and leaves and fruits of agate. And the Palms of every kind of Gem had trunks and leaves and fruits of every kind of gem.
 
-8\.[^7] 'And when those rows of palm trees, Ânanda, <span id="p251">[<sup><small>p. 251</small></sup>]</span> were shaken by the wind, there arose a sound sweet, and pleasant, and charming, and intoxicating.
+8\.[^7] 'And when those rows of palm trees, Ânanda, <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> were shaken by the wind, there arose a sound sweet, and pleasant, and charming, and intoxicating.
 
 ‘Just, Ânanda, as the seven kind of instruments yield, when well played upon, to the skilful man, a sound sweet, and pleasant, and charming, and intoxicating-just even so, Ânanda, when those rows of palm trees were shaken by the wind, there arose a sound sweet, and pleasant, and charming, and intoxicating.
 
@@ -72,7 +72,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘What are those seven?’
 
-11.[^8] 'In the first place, Ânanda, when the Great King of Glory, on the Sabbath day[^9], on the day of <span id="p252">[<sup><small>p. 252</small></sup>]</span> the full moon, had purified himself, and had gone up into the upper story of his palace to keep the sacred day, there then appeared to him the heavenly Treasure of the Wheel[^10], with its nave, its tire, and all its thousand spokes complete.
+11.[^8] 'In the first place, Ânanda, when the Great King of Glory, on the Sabbath day[^9], on the day of <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> the full moon, had purified himself, and had gone up into the upper story of his palace to keep the sacred day, there then appeared to him the heavenly Treasure of the Wheel[^10], with its nave, its tire, and all its thousand spokes complete.
 
 12\. 'When he beheld it the Great King of Glory thought:
 
@@ -82,7 +82,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘“Roll onward, O my Lord, the Wheel! O my Lord, go forth and overcome!”
 
-14\. 'Then the wondrous Wheel, Ânanda, rolled onwards towards the region of the East, and after it went the Great King of Glory[^12], and with him his <span id="p253">[<sup><small>p. 253</small></sup>]</span> army, horses, and chariots, and elephants, and men. And in whatever place, Ânanda, the Wheel stopped, there the Great King of Glory took up his abode, and with him his army, horses, and chariots, and
+14\. 'Then the wondrous Wheel, Ânanda, rolled onwards towards the region of the East, and after it went the Great King of Glory[^12], and with him his <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> army, horses, and chariots, and elephants, and men. And in whatever place, Ânanda, the Wheel stopped, there the Great King of Glory took up his abode, and with him his army, horses, and chariots, and
 
 elephants, and men.
 
@@ -106,7 +106,7 @@ elephants, and men.
 
 17\. 'Then, Ânanda, all the rival kings in the region of the East became subject unto the Great King of Glory.
 
-18\. 'But the wondrous Wheel, Ânanda, having plunged down into the great waters in the East, rose up out again, and rolled onward to the region of the South \[and there all happened as had happened <span id="p254">[<sup><small>p. 254</small></sup>]</span> n the region of the East. And in like manner the wondrous Wheel rolled onward to the extremest boundary of the West and of the North; and there, too, all happened as had happened in the region of the East\].
+18\. 'But the wondrous Wheel, Ânanda, having plunged down into the great waters in the East, rose up out again, and rolled onward to the region of the South \[and there all happened as had happened <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> n the region of the East. And in like manner the wondrous Wheel rolled onward to the extremest boundary of the West and of the North; and there, too, all happened as had happened in the region of the East\].
 
 19\. ‘Now when the wondrous Wheel, Ânanda, had gone forth conquering and to conquer o’er the whole earth to its very ocean boundary, it returned back again to the royal city of Kusâvatî and remained fixed on the open terrace in front of the entrance to the inner apartments of the Great King of Glory, as a glorious adornment to the inner apartments of the Great King of Glory.
 
@@ -116,7 +116,7 @@ elephants, and men.
 
 21\. 'Now further, Ânanda, there appeared to the Great King of Glory the Elephant Treasure[^14], all white, sevenfold firm[^15], wonderful in power, flying through the sky—the Elephant-King, whose name was “The Changes of the Moon[^16].”
 
-22\. 'When he beheld it the Great King of Glory was pleased at heart at the thought <span id="p255">[<sup><small>p. 255</small></sup>]</span> ‘“Auspicious were it to ride upon that Elephant, if only it would submit to be controlled!”
+22\. 'When he beheld it the Great King of Glory was pleased at heart at the thought <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> ‘“Auspicious were it to ride upon that Elephant, if only it would submit to be controlled!”
 
 23\. 'Then, Ânanda, the wondrous Elephant—like a fine elephant of noble blood long since well trained—submitted to control.
 
@@ -130,7 +130,7 @@ elephants, and men.
 
 ‘“Auspicious were it to ride upon that Horse if only it would submit to be controlled!”
 
-28\. 'Then, Ânanda. the wondrous Horse—like <span id="p256">[<sup><small>p. 256</small></sup>]</span> a fine horse of the best blood long since well trained—submitted to control.
+28\. 'Then, Ânanda. the wondrous Horse—like <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> a fine horse of the best blood long since well trained—submitted to control.
 
 29\. 'When as before, Ânanda, the Great King of Glory, to test that wondrous Horse, mounted on to it early in the morning, it passed over along the broad earth to its very ocean boundary, and then returned again, in time for the morning meal, to the royal city of Kusâvatî.
 
@@ -150,7 +150,7 @@ elephants, and men.
 
 ---
 
-36\. 'Now further, Ânanda, there appeared to the Great King of Glory the Woman-Treasure[^21], graceful in figure, beautiful in appearance, charming in manner, and of the most fine complexion; neither <span id="p257">[<sup><small>p. 257</small></sup>]</span> very tall, nor very short; neither very stout, nor very slim; neither very dark, nor very fair; surpassing human beauty, she had attained unto the beauty of the gods[^22].
+36\. 'Now further, Ânanda, there appeared to the Great King of Glory the Woman-Treasure[^21], graceful in figure, beautiful in appearance, charming in manner, and of the most fine complexion; neither <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> very tall, nor very short; neither very stout, nor very slim; neither very dark, nor very fair; surpassing human beauty, she had attained unto the beauty of the gods[^22].
 
 37\. 'The touch too, Ânanda, of the skin of that wondrous Woman was as the touch of cotton or of cotton wool: in the cold her limbs were warm, in the heat her limbs were cool; while from her body was wafted the perfume of sandal wood and from her mouth the perfume of the lotus.
 
@@ -162,7 +162,7 @@ elephants, and men.
 
 ---
 
-41\. 'Now further, Ânanda, there appeared unto the Great King of Glory a Wonderful Treasurer[^23], possessed, through good deeds done in a <span id="p258">[<sup><small>p. 258</small></sup>]</span> former birth, of a marvellous power of vision by which he could discover treasure, whether it had an owner or whether it had not.
+41\. 'Now further, Ânanda, there appeared unto the Great King of Glory a Wonderful Treasurer[^23], possessed, through good deeds done in a <span id="p258"><sup><small>[ p. 258 ]</small></sup></span> former birth, of a marvellous power of vision by which he could discover treasure, whether it had an owner or whether it had not.
 
 42\. 'He went up to the Great King of Glory, and said:
 
@@ -176,7 +176,7 @@ elephants, and men.
 
 ‘“It is here, O Treasurer, that I have need of yellow gold.”
 
-44\. 'Then the wonderful Treasurer reached down to the water with both his hands, and drew up a jar <span id="p259">[<sup><small>p. 259</small></sup>]</span> full of yellow gold, and said to the Great King of Glory—
+44\. 'Then the wonderful Treasurer reached down to the water with both his hands, and drew up a jar <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> full of yellow gold, and said to the Great King of Glory—
 
 ‘“Is that enough, O Great King? Have I done enough, O Great King?”
 
@@ -204,7 +204,7 @@ elephants, and men.
 
 ‘What are the Four Marvellous Gifts?’
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 50\. 'In the first place, Ânanda, the Great King of Glory was graceful in figure, handsome in appearance, pleasing in manner, and of most beautiful complexion, beyond what other men are.
 
@@ -216,7 +216,7 @@ elephants, and men.
 
 52\. 'And besides that, Ânanda, the Great King of Glory was free from disease, and free from bodily suffering; and his internal fire was neither too hot nor too cold, but such as to promote good digestion, beyond that of other men[^26].
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 ‘The Great King of Glory, Ânanda, was endowed with this Third Marvellous Gift.
 
@@ -238,7 +238,7 @@ elephants, and men.
 
 57\. 'Now to the Great King of Glory, Ânanda, there occurred the thought:
 
-‘"Suppose, now, I were to make Lotus-ponds <span id="p262">[<sup><small>p. 262</small></sup>]</span> in the spaces between these palms, at every hundred bow lengths.”
+‘"Suppose, now, I were to make Lotus-ponds <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> in the spaces between these palms, at every hundred bow lengths.”
 
 ‘Then, Ânanda, the Great King of Glory, in the spaces between those palms, at distances of a hundred bow lengths, made Lotus-ponds.
 
@@ -248,7 +248,7 @@ elephants, and men.
 
 60\. 'And round those Lotus-ponds there ran, Ânanda, a double railing. One railing was of gold, and one was of silver. The golden railing had its posts of gold, and its cross bars and its capitals of silver. The silver railing had its posts of silver, and its cross bars and its capitals of gold[^28].
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 61\. 'Now, to the Great King of Glory, Ânanda, there occurred the thought:
 
@@ -264,7 +264,7 @@ elephants, and men.
 
 63\. 'Now, to the Great King of Glory, Ânanda, occurred the thought:
 
-‘"Suppose, now, I were to establish a perpetual grant by the banks of those Lotus-ponds—to wit, food for the hungry, drink for the thirsty, raiment for the naked, means of conveyance for those who have need of it, couches for the tired, wives for <span id="p264">[<sup><small>p. 264</small></sup>]</span> those who want wives, gold for the poor, and money for those who are in want.”
+‘"Suppose, now, I were to establish a perpetual grant by the banks of those Lotus-ponds—to wit, food for the hungry, drink for the thirsty, raiment for the naked, means of conveyance for those who have need of it, couches for the tired, wives for <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> those who want wives, gold for the poor, and money for those who are in want.”
 
 ‘Then, Ânanda, the Great King of Glory established a perpetual grant by the banks of those Lotus-ponds—to wit, food for the hungry, drink for the thirsty, raiment for the naked, means of conveyance for those who needed it, couches for the tired, wives for those who wanted wives, gold for the poor, and money for those who were in want.
 
@@ -288,7 +288,7 @@ elephants, and men.
 
 ---
 
-67\. 'Now, Ânanda, when Sakka, the king of the gods, became aware in his mind of the thoughts that <span id="p265">[<sup><small>p. 265</small></sup>]</span> ere in the heart of the Great King of Glory, he addressed Vissakamma the god[^29], and said:
+67\. 'Now, Ânanda, when Sakka, the king of the gods, became aware in his mind of the thoughts that <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> ere in the heart of the Great King of Glory, he addressed Vissakamma the god[^29], and said:
 
 ‘“Come now, Vissakamma, create me a mansion for the Great King of Glory—a palace which shall be called ’Righteousness[^30].'”
 
@@ -308,7 +308,7 @@ elephants, and men.
 
 72\. 'The ground-floor, Ânanda, of the Palace of Righteousness[^31], in height as three times the height to which a man can reach, was built of bricks, of four kinds. One kind of brick was of gold, and one of silver, and one of beryl, and one of crystal.
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 73\. 'To the Palace of Righteousness, Ânanda, there were eighty-four thousand pillars of four kinds. One kind of pillar was of gold, and one of silver, and one of beryl, and one of crystal.
 
@@ -324,7 +324,7 @@ elephants, and men.
 
 ‘At the door of the silver chamber there stood a palm tree of gold; and its trunk was of gold, and its leaves and fruits of silver.
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 ‘At the door of the beryl chamber there stood a palm tree of crystal; and its trunk was of crystal, and its leaves and fruits of beryl.
 
@@ -342,7 +342,7 @@ elephants, and men.
 
 79\. 'The Palace of Righteousness, Ânanda, was hung round with two networks of bells. One network of bells was of gold, and one was of silver.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span> The golden network had bells of silver, and the silver network had bells of gold.
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span> The golden network had bells of silver, and the silver network had bells of gold.
 
 80\. 'And when those networks of bells, Ânanda, were shaken by the wind there arose a sound sweet, and pleasant, and charming, and intoxicating.
 
@@ -362,7 +362,7 @@ elephants, and men.
 
 ‘Then, Ânanda, the Great King of Glory made a Lotus-lake to bear the name of “Righteousness.”
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 84\. ’The Lake of Righteousness, Ânanda, was on the east and on the west a league in length, and on the north and on the south half a league in breadth.
 
@@ -374,7 +374,7 @@ elephants, and men.
 
 88\. 'The Lake of Righteousness, Ânanda, was surrounded by seven rows of palm trees. One row was of palms of gold, and one of silver, and one of beryl, and one of crystal, and one of agate, and one of coral, and one of all kinds of gems.
 
-89\. 'And the golden palms had trunks of gold, and leaves and fruits of silver. And the silver palms had trunks of silver, and leaves and fruits of gold. And the palms of beryl had trunks of beryl, <span id="p270">[<sup><small>p. 270</small></sup>]</span> and leaves and fruits of crystal. And the crystal palms had trunks of crystal, and leaves and fruits of beryl. And the agate palms had trunks of agate, and leaves and fruits of coral. And the coral palms had trunks of coral, and leaves and fruits of agate. And the palms of every kind of gem had trunks and leaves and fruits of every kind of gem.
+89\. 'And the golden palms had trunks of gold, and leaves and fruits of silver. And the silver palms had trunks of silver, and leaves and fruits of gold. And the palms of beryl had trunks of beryl, <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> and leaves and fruits of crystal. And the crystal palms had trunks of crystal, and leaves and fruits of beryl. And the agate palms had trunks of agate, and leaves and fruits of coral. And the coral palms had trunks of coral, and leaves and fruits of agate. And the palms of every kind of gem had trunks and leaves and fruits of every kind of gem.
 
 90\. 'And when those rows of palm trees, Ânanda, were shaken by the wind, there arose a sound sweet, and pleasant, and charming, and intoxicating.
 

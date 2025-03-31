@@ -29,7 +29,7 @@ dateCreated: 2025-2-7T10:38:9Z
   </table>
 </figure>
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Note: in this file, the citations have been given using the chapter:verse format rather than the exponential notation used the original book, in the interest of readability.—JBH
 
@@ -140,7 +140,7 @@ Ps. |
 114:1 _sq_. | [56](Berakoth_3_6#p56)
 119:126 | [88](Berakoth_3_9#p88) _sq_.
 119:164 | [90](Berakoth_3_9#p90)
-119:175 | [79](Berakoth_3_9#p79) <span id="p95">[<sup><small>p. 95</small></sup>]</span>
+119:175 | [79](Berakoth_3_9#p79) <span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 130:1 | [38](Berakoth_2_5#p38)
 137:7 | [14](Berakoth_1_1#p14)
 Prov. | 

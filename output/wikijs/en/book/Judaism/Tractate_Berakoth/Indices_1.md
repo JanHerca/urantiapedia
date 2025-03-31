@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:38:9Z
   </table>
 </figure>
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 ABBA SAUL, _c_. 130-160 A.D., [36](Berakoth_2_5#p36)
 

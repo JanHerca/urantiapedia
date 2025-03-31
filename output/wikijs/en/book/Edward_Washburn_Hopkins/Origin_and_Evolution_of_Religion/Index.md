@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:29:28Z
   </table>
 </figure>
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 Abeghian, 81 Abelard, 266
 
@@ -123,7 +123,7 @@ Bhuvaneshvar, 14
 
 Bible, references to, 261, 55, 80, 113, 115, 1281, 163, 195, 231, 236, 242 f 266, 282, 334, 351 Biology, 107, 224, 352
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 Birds, worship of, 34; as symbols, 44 f., bird-soul, 145
 
@@ -243,7 +243,7 @@ Cumberland, 267
 
 Cumont, 60
 
-<span id="p363">[<sup><small>p. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 Curse, 48, 236
 
@@ -327,7 +327,7 @@ Durhheim, E.; 4f., 8 1, 11, 158, 166, 180, 183 1, 188, 190, 226, 275. See Collec
 
 Ea, 42, 86, 231, 238
 
-Earth, as mother, 191, 53, 60; cult <span id="p363">[<sup><small>p. 363</small></sup>]</span> of, 276. See Demeter, Mother-goddess
+Earth, as mother, 191, 53, 60; cult <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> of, 276. See Demeter, Mother-goddess
 
 Easter fire-cult, 194
 
@@ -403,7 +403,7 @@ Fate, 55, 278; three fates, 91, 295
 
 Father, as priest, 205;-god, 279, 341. See Prajapati Fear, 89, 931; as god, 101
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 Fergusson, 38, 202
 
@@ -535,7 +535,7 @@ Hyperboreans, 231
 
 Hypnotism, 242
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 Ideal, in nature, 354; conformity to, 357
 
@@ -681,7 +681,7 @@ Love, 48, 1001, 1031, 172, 263; free love and religion, 270; in Buddhism, 332
 
 Lyall, 153
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Maat, 66
 
@@ -837,7 +837,7 @@ One, The, 76, 341
 
 Ojitimfsm, 285
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 Oracles, 82; oracular tree, 26
 
@@ -993,7 +993,7 @@ Ritual, 79, 179 f.
 
 Rome, 219, 231
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Rosary, 193
 
@@ -1121,7 +1121,7 @@ Spencer and Gillen, 162
 
 Spirit, as mind, 11; distinguished from soul, 109, 113; and matter, 285; spirit and form in religion, 224; spirituality, 110 Spring-festival, 61, 105 Starbuck, E. I., 105 f.
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Stars, cult of, 52 f., 125
 
@@ -1251,7 +1251,7 @@ Virgin-birth, 65, 330
 
 Vishnu, 18, 24, 35, 42, 60 f„ 125, 290, 3031, 3101. 317; as Buddha, 323. 3301, 347; as Pharma, 332
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 Vishuism, sacrifice in, 174
 

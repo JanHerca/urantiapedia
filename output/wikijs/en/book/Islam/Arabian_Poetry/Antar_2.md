@@ -40,7 +40,7 @@ It is as if she were the brilliant day, and as if the night had enveloped her in
 
 It is as if the full moon was shining in its splendour, and all the stars were concealed by its lustre.
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 Her charms bewitch all around her, and all are anxious to offer their services:
 
@@ -68,7 +68,7 @@ She gazes: I should say it was the full moon of the night when Orion girds it wi
 
 She smiles: and the pearls of her teeth sparkle, in which there is the cure for the sickness of lovers.
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 She prostrates herself in reverence towards her God; and the greatest of men bow down to her beauties.
 
@@ -90,7 +90,7 @@ O daughter of Malik! how can I be consoled, since my love for thee originated fr
 
 But how can I ever hope to approach thee, whilst the lions of the forest guard thy tent?
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 By the truth of my love for thee, my heart can never be cured but by patience.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 ## TREATISE II.
 
@@ -48,7 +48,7 @@ Ploughing—Gardening—Dunging—Removing Stones—Sowing—Cutting down Trees�
 
 3\. “Whether they be fruitless or fruitful?” “Men may regard them as though they were fig-trees.” “If they be fit to produce a heap of figs worth sixty Italian minas?” “On their account they may legally plough the whole fifty cubits square around them. Less than for these they may not plough, save what is absolutely needful.”
 
-4\. “One tree produced a heap of figs, and two trees did not produce it; or two trees produced it, and one did not produce it?” “Men may not plough save what is absolutely needful for them, till they be from three to nine in number.” <span id="p63">[<sup><small>p. 63</small></sup>]</span> “If they be ten?” “On their account men may legally plough around them the whole fifty cubits square; and also from ten trees and upwards, whether they produce or do not produce it.” As is said, “in earing-time and in harvest thou shalt rest.” [^39] There is no need to say earing-time and harvest in the Sabbatical year, but earing-time on the eve of the Sabbatical year, when it is just entering on the Sabbatical year; and harvest of the Sabbatical year, which is proceeding towards the close of the Sabbatical year. Rabbi Ishmael said, “as the earing-time (mentioned Exod. xxxiv. 21) is voluntary, so the harvest is voluntary, except the harvest of the (omer) sheaf.” [^40]
+4\. “One tree produced a heap of figs, and two trees did not produce it; or two trees produced it, and one did not produce it?” “Men may not plough save what is absolutely needful for them, till they be from three to nine in number.” <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> “If they be ten?” “On their account men may legally plough around them the whole fifty cubits square; and also from ten trees and upwards, whether they produce or do not produce it.” As is said, “in earing-time and in harvest thou shalt rest.” [^39] There is no need to say earing-time and harvest in the Sabbatical year, but earing-time on the eve of the Sabbatical year, when it is just entering on the Sabbatical year; and harvest of the Sabbatical year, which is proceeding towards the close of the Sabbatical year. Rabbi Ishmael said, “as the earing-time (mentioned Exod. xxxiv. 21) is voluntary, so the harvest is voluntary, except the harvest of the (omer) sheaf.” [^40]
 
 5\. “If the three trees belong to three owners?” “They are reckoned as one, and on their account they may legally plough the whole fifty cubits square around them.” “And how much space must be between them?” Rabban Simon, the son of Gamaliel, said, “that a bullock with his ploughing instruments may pass.”
 

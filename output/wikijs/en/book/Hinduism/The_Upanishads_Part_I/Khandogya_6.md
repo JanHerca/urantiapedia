@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 SIXTH PRAPÂ<i>TH</i>AKA.
 
@@ -48,7 +48,7 @@ SIXTH PRAPÂ<i>TH</i>AKA.
 
 The father replied: 'My dear, as by one clod of clay all that is made of clay is known, the difference [^268] being only a name, arising from speech, but the truth being that all is clay;
 
-5\. 'And as, my dear, by one nugget of gold [^269] <span id="p93">[<sup><small>p. 93</small></sup>]</span> all that is made of gold is known, the difference being only a name, arising from speech, but the truth being that all is gold?
+5\. 'And as, my dear, by one nugget of gold [^269] <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> all that is made of gold is known, the difference being only a name, arising from speech, but the truth being that all is gold?
 
 6\. ‘And as, my dear, by one pair of nail-scissors all that is made of iron (kârsh<i>n</i>âyasam) is known, the difference being only a name, arising from speech, but the truth being that all is iron,—thus, my dear, is that instruction.’
 
@@ -62,7 +62,7 @@ The father replied: 'My dear, as by one clod of clay all that is made of clay is
 
 3\. 'It thought [^271], may I be many, may I grow forth. It sent forth fire [^272].
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 ‘That fire [^273] thought, may I be many, may I grow forth. It sent forth water [^274].
 
@@ -76,7 +76,7 @@ The father replied: 'My dear, as by one clod of clay all that is made of clay is
 
 1\. 'Of all living things there are indeed three origins only [^276], that which springs from an egg (oviparous), that which springs from a living being (viviparous), and that which springs from a germ.
 
-2\. 'That Being [^277] (i. e. that which had produced fire, water, and earth) thought, let me now enter those three beings [^277] (fire, water, earth) with this living <span id="p95">[<sup><small>p. 95</small></sup>]</span> Self (<i>g</i>îva âtmâ) [^278], and let me then reveal (develop) names and forms.
+2\. 'That Being [^277] (i. e. that which had produced fire, water, and earth) thought, let me now enter those three beings [^277] (fire, water, earth) with this living <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> Self (<i>g</i>îva âtmâ) [^278], and let me then reveal (develop) names and forms.
 
 3\. 'Then that Being having said, Let me make each of these three tripartite (so that fire, water, and earth should each have itself for its principal ingredient, besides an admixture of the other two) entered into those three beings (devatâ) with this living self only, and revealed names and forms.
 
@@ -90,7 +90,7 @@ The father replied: 'My dear, as by one clod of clay all that is made of clay is
 
 3\. 'The red colour of the moon is the colour of fire, the white of water, the black of earth. Thus vanishes what we call the moon, as a mere variety, being a name, arising from speech. What is true are the three colours.
 
-4\. 'The red colour of the lightning is the colour of fire, the white of water, the black of earth. Thus <span id="p96">[<sup><small>p. 96</small></sup>]</span> vanishes what we call the lightning, as a mere variety, being a name, arising from speech. What is true are the three colours.
+4\. 'The red colour of the lightning is the colour of fire, the white of water, the black of earth. Thus <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> vanishes what we call the lightning, as a mere variety, being a name, arising from speech. What is true are the three colours.
 
 5\. 'Great householders and great theologians of olden times who knew this, have declared the same, saying, “No one can henceforth mention to us anything which we have not heard, perceived, or known [^279].” Out of these (three colours or forms) they knew all.
 
@@ -107,7 +107,7 @@ The father replied: 'My dear, as by one clod of clay all that is made of clay is
 
 2\. 'Water when drunk becomes threefold; its grossest portion becomes water, its middle portion blood, its subtilest portion breath.
 
-3\. 'Fire (i. e. in oil, butter, &c.) when eaten becomes threefold; its grossest portion becomes bone, its middle portion marrow, its subtilest portion speech [^280]. <span id="p97">[<sup><small>p. 97</small></sup>]</span> 4\. ‘For truly, my child, mind comes of earth, breath of water, speech of fire.’
+3\. 'Fire (i. e. in oil, butter, &c.) when eaten becomes threefold; its grossest portion becomes bone, its middle portion marrow, its subtilest portion speech [^280]. <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> 4\. ‘For truly, my child, mind comes of earth, breath of water, speech of fire.’
 
 ‘Please, Sir, inform me still more,’ said the son.
 
@@ -135,7 +135,7 @@ Be it so, my child,' the father replied.
 
 2\. <i>S</i>vetaketu abstained from food for fifteen days. Then he came to his father and said: ‘What shall I say?’ The father said: ‘Repeat the <i>Ri</i><i>k</i>, Ya<i>g</i>us, and Sâman verses.’ He replied: ‘They do not occur to me, Sir.’
 
-3\. The father said to him: 'As of a great lighted fire one coal only of the size of a firefly may be left, which would not burn much more than this (i. e. very <span id="p98">[<sup><small>p. 98</small></sup>]</span> little), thus, my dear son, one part only of the sixteen parts (of you) is left, and therefore with that one part you do not remember the Vedas. Go and eat!
+3\. The father said to him: 'As of a great lighted fire one coal only of the size of a firefly may be left, which would not burn much more than this (i. e. very <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> little), thus, my dear son, one part only of the sixteen parts (of you) is left, and therefore with that one part you do not remember the Vedas. Go and eat!
 
 4\. ‘Then wilt thou understand me.’ Then <i>S</i>vetaketu. ate, and afterwards approached his father. And whatever his father asked him, he knew it all by heart. Then his father said to him:
 
@@ -148,19 +148,19 @@ Be it so, my child,' the father replied.
 
 1\. Uddâlaka Âru<i>n</i>i said to his son <i>S</i>vetaketu:
 
-Learn from me the true nature of sleep (svapna). When a man sleeps here, then, my dear son, he becomes united with the True [^282], he is gone to his <span id="p99">[<sup><small>p. 99</small></sup>]</span> own (Self). Therefore they say, svapiti, he sleeps, because he is gone (apîta) to his own (sva) [^283].
+Learn from me the true nature of sleep (svapna). When a man sleeps here, then, my dear son, he becomes united with the True [^282], he is gone to his <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> own (Self). Therefore they say, svapiti, he sleeps, because he is gone (apîta) to his own (sva) [^283].
 
 2\. 'As a bird when tied by a string flies first in every direction, and finding no rest anywhere, settles down at last on the very place where it is fastened, exactly in the same manner, my son, that mind (the <i>g</i>îva, or living Self in the mind, see VI, 3, 2), after flying in every direction, and finding no rest anywhere, settles down on breath [^284]; for indeed, my son, mind is fastened to breath.
 
 3\. 'Learn from me, my son, what are hunger and thirst. When a man is thus said to be hungry, water is carrying away (digests) what has been eaten by him. Therefore as they speak of a cow-leader (go-nâya), a horse-leader (a<i>s</i>va-nâya), a man-leader (purusha-nâya), so they call water (which digests food and causes hunger) food-leader (a<i>s</i>a-nâya). Thus (by food digested &c.), my son, know this offshoot (the body) to be brought forth, for this (body) could not be without a root (cause).
 
-4\. 'And where could its root be except in food (earth) [^285]? And in the same manner, my son, as <span id="p100">[<sup><small>p. 100</small></sup>]</span> food (earth) too is an offshoot, seek after its root, viz. water. And as water too is an offshoot, seek after its root, viz. fire. And as fire too is an offshoot, seek after its root, viz. the True. Yes, all these creatures, my son, have their root in the True, they dwell in the True, they rest in the True.
+4\. 'And where could its root be except in food (earth) [^285]? And in the same manner, my son, as <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> food (earth) too is an offshoot, seek after its root, viz. water. And as water too is an offshoot, seek after its root, viz. fire. And as fire too is an offshoot, seek after its root, viz. the True. Yes, all these creatures, my son, have their root in the True, they dwell in the True, they rest in the True.
 
 5\. 'When a man is thus said to be thirsty, fire carries away what has been drunk by him. Therefore as they speak of a cow-leader (go-nâya), of a horse-leader (a<i>s</i>va-nâya), of a man-leader (purusha-nâya), so they call fire udanyâ, thirst, i. e. water-leader. Thus (by water digested &c.), my son, know this offshoot (the body) to be brought forth: this (body) could not be without a root (cause).
 
 6\. 'And where could its root be except in water? As water is an offshoot, seek after its root, viz. fire. As fire is an offshoot, seek after its root, viz. the True. Yes, all these creatures, O son, have their root in the True, they dwell in the True, they rest in the True.
 
-‘And how these three beings (devatâ), fire, water, earth, O son, when they reach man, become each of them tripartite, has been said before (VI, 4, 7). When a man departs from hence, his speech [^286] is merged <span id="p101">[<sup><small>p. 101</small></sup>]</span> in his mind, his mind in his breath, his breath in heat (fire), heat in the Highest Being.
+‘And how these three beings (devatâ), fire, water, earth, O son, when they reach man, become each of them tripartite, has been said before (VI, 4, 7). When a man departs from hence, his speech [^286] is merged <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> in his mind, his mind in his breath, his breath in heat (fire), heat in the Highest Being.
 
 7\. ‘Now that which is that subtile essence (the root of all), in it all that exists has its self. It is the True. It is the Self, and thou, O <i>S</i>vetaketu, art it.’
 
@@ -183,7 +183,7 @@ Learn from me the true nature of sleep (svapna). When a man sleeps here, then, m
 ‘Be it so, my child,’ the father replied.
 
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## TENTH KHA<i>N</i><i>D</i>A [^288]
 
@@ -200,7 +200,7 @@ Learn from me the true nature of sleep (svapna). When a man sleeps here, then, m
 
 ## ELEVENTH KHA<i>N</i><i>D</i>A [^289].
 
-1\. 'If some one were to strike at the root of this large tree here, it would bleed, but live. If he were to strike at its stem, it would bleed, but live. If he were to strike at its top, it would bleed, but live. <span id="p103">[<sup><small>p. 103</small></sup>]</span> Pervaded by the living Self that tree stands firm, drinking in its nourishment and rejoicing;
+1\. 'If some one were to strike at the root of this large tree here, it would bleed, but live. If he were to strike at its stem, it would bleed, but live. If he were to strike at its top, it would bleed, but live. <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> Pervaded by the living Self that tree stands firm, drinking in its nourishment and rejoicing;
 
 2\. ‘But if the life (the living Self) leaves one of its branches, that branch withers; if it leaves a second, that branch withers; if it leaves a third, that branch withers. If it leaves the whole tree, the whole tree withers [^290]. In exactly the same manner, my son, know this.’ Thus he spoke:
 
@@ -213,7 +213,7 @@ Learn from me the true nature of sleep (svapna). When a man sleeps here, then, m
 ‘Be it so, my child,’ the father replied.
 
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 ## TWELFTH KHA<i>N</i><i>D</i>A [1](Khandogya_6#fn291).
 
@@ -251,7 +251,7 @@ The son did as he was commanded.
 
 The father said to him: ‘Bring me the salt, which you placed in the water last night.’
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 The son having looked for it, found it not, for, of course, it was melted.
 
@@ -282,9 +282,9 @@ Then the father said: 'Here also, in this body, forsooth, you do not perceive th
 
 ## FOURTEENTH KHA<i>N</i><i>D</i>A [^294].
 
-1\. 'As one might lead a person with his eyes covered away from the Gandhâras [^295], and leave him <span id="p106">[<sup><small>p. 106</small></sup>]</span> then in a place where there are no human beings; and as that person would turn towards the east, or the north, or the west, and shout, “I have been brought here with my eyes covered, I have been left here with my eyes covered,”
+1\. 'As one might lead a person with his eyes covered away from the Gandhâras [^295], and leave him <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> then in a place where there are no human beings; and as that person would turn towards the east, or the north, or the west, and shout, “I have been brought here with my eyes covered, I have been left here with my eyes covered,”
 
-2\. 'And as thereupon some one might loose his bandage and say to him, “Go in that direction, it is Gandhâra, go in that direction;” and as thereupon, having been informed and being able to judge for himself, he would by asking his way from village to village arrive at last at Gandhâra,—in exactly the same manner does a man, who meets with a teacher to inform him, obtain the true knowledge [^296]. For him <span id="p107">[<sup><small>p. 107</small></sup>]</span> there is only delay so long as he is not delivered (from the body); then he will be perfect [^297].
+2\. 'And as thereupon some one might loose his bandage and say to him, “Go in that direction, it is Gandhâra, go in that direction;” and as thereupon, having been informed and being able to judge for himself, he would by asking his way from village to village arrive at last at Gandhâra,—in exactly the same manner does a man, who meets with a teacher to inform him, obtain the true knowledge [^296]. For him <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> there is only delay so long as he is not delivered (from the body); then he will be perfect [^297].
 
 3\. ‘That which is the subtile essence, in it all that exists has its self. It is the True. It is the Self, and thou, O <i>S</i>vetaketu, art it.’
 
@@ -295,7 +295,7 @@ Then the father said: 'Here also, in this body, forsooth, you do not perceive th
 
 ## FIFTEENTH KHA<i>N</i><i>D</i>A [^298].
 
-1\. 'If a man is ill, his relatives assemble round him and ask: “Dost thou know me? Dost thou know me?” Now as long as his speech is not <span id="p108">[<sup><small>p. 108</small></sup>]</span> merged in his mind, his mind in breath, breath in heat (fire), heat in the Highest Being (devatâ), he knows them.
+1\. 'If a man is ill, his relatives assemble round him and ask: “Dost thou know me? Dost thou know me?” Now as long as his speech is not <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> merged in his mind, his mind in breath, breath in heat (fire), heat in the Highest Being (devatâ), he knows them.
 
 2\. 'But when his speech is merged in his mind, his mind in breath, breath in heat (fire), heat in the Highest Being, then he knows them not.
 
@@ -308,7 +308,7 @@ Then the father said: 'Here also, in this body, forsooth, you do not perceive th
 
 ## SIXTEENTH KHA<i>N</i><i>D</i>A [^299].
 
-1\. 'My child, they bring a man hither whom they have taken by the hand, and they say: “He has taken something, he has committed a theft.” (When <span id="p109">[<sup><small>p. 109</small></sup>]</span> he denies, they say), “Heat the hatchet for him.” If he committed the theft, then he makes himself to be what he is not. Then the false-minded, having covered his true Self by a falsehood, grasps the heated hatchet—he is burnt, and he is killed.
+1\. 'My child, they bring a man hither whom they have taken by the hand, and they say: “He has taken something, he has committed a theft.” (When <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> he denies, they say), “Heat the hatchet for him.” If he committed the theft, then he makes himself to be what he is not. Then the false-minded, having covered his true Self by a falsehood, grasps the heated hatchet—he is burnt, and he is killed.
 
 2\. 'But if he did not commit the theft, then he makes himself to be what he is. Then the true-minded, having covered his true Self by truth, grasps the heated hatchet—he is not burnt, and he is delivered.
 

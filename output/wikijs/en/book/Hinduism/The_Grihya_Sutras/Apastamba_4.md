@@ -38,7 +38,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. Let him initiate a Brâhma<i>n</i>a in the eighth year after the conception,
 
-3\. A Râ<i>g</i>anya in the eleventh, a Vai<i>g</i>ya in the twelfth year after the conception. <span id="p271">[<sup><small>p. 271</small></sup>]</span>
+3\. A Râ<i>g</i>anya in the eleventh, a Vai<i>g</i>ya in the twelfth year after the conception. <span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 4\. Spring, summer, autumn: these are the (fit) seasons (for the Upanayana), corresponding to the order of the castes.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. Towards the south, his mother or a Brahma<i>k</i>ârin strews barley-grains on a lump of bull's dung; with this (dung) she catches up the hair (that is cut off), and puts it down with the next (verse; M. II, 1, 8) at the root of an Udumbara tree or in a tuft of Darbha grass.
 
-9\. [^757] After (the boy) has bathed, and (the ceremonies) from the putting (of wood) on (the fire) down to the Â<i>s</i>yabhâga oblations (have been performed), he causes him to put a piece of Palâ<i>s</i>a wood on the <span id="p272">[<sup><small>p. 272</small></sup>]</span> fire with the next (verse; M. II, 2, 1), and makes him tread with his right foot on a stone to the north of the fire, with (the verse), ‘Tread’ (M. II, 2, 2).
+9\. [^757] After (the boy) has bathed, and (the ceremonies) from the putting (of wood) on (the fire) down to the Â<i>s</i>yabhâga oblations (have been performed), he causes him to put a piece of Palâ<i>s</i>a wood on the <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> fire with the next (verse; M. II, 2, 1), and makes him tread with his right foot on a stone to the north of the fire, with (the verse), ‘Tread’ (M. II, 2, 2).
 
 10\. Having recited the next two (verses; M. II. 2, 3. 4) over a garment that has been spun and woven on one day, and has caused him, with the next three (verses; M. II. 2, 5-7), to put it on, he recites over him, after he has put it on, the next (verse; M. II, 2, 8).
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 4, SECTION 11.
 
-1\. The boy says, ‘I am come to be a student’ (II, 3, 26). <span id="p273">[<sup><small>p. 273</small></sup>]</span>
+1\. The boy says, ‘I am come to be a student’ (II, 3, 26). <span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 2\. The other (i.e. the teacher) has to ask; the boy has to answer (II, 3, 27-30).
 
@@ -88,7 +88,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 12\. In the same way (the first and the second Vyâh<i>ri</i>ti at the beginning or at the end) of the hemistichs; the last (Vyâh<i>ri</i>ti, when he repeats) the whole verse.
 
-13\. With the next Mantra (M. II, 4, 14) the boy touches his upper lip; <span id="p274">[<sup><small>p. 274</small></sup>]</span>
+13\. With the next Mantra (M. II, 4, 14) the boy touches his upper lip; <span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 14\. With the next (II, 4, 15) both his ears;
 
@@ -112,7 +112,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 24\. Fetching fuel regularly from the forest.
 
-25\. With the next (formula—M. II, 6, 14—the teacher) instructs (the student in his duties). <span id="p275">[<sup><small>p. 275</small></sup>]</span>
+25\. With the next (formula—M. II, 6, 14—the teacher) instructs (the student in his duties). <span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 26\. [^762] On the fourth day (after the Upanayana the teacher) takes the garment (of the student) for himself with the next (verse; M. II, 6, 15), having made him put on another (garment).
 

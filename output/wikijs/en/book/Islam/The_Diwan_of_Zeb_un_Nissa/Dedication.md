@@ -29,7 +29,7 @@ dateCreated: 2024-11-21T10:26:39Z
   </table>
 </figure>
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Thy pleasaunce, Princess, now is desolate;
 Where once the gleaming water-courses traced

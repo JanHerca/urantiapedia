@@ -44,7 +44,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 ‘Mayest thou have a good share of bliss [^1395], like king Husravah!
 
-‘Mayest thou have strength to reach the Rangha, whose way lies afar, as Vafra Navâza did [^1396]. <span id="p329">[<sup><small>p. 329</small></sup>]</span> 3\. 'May ten sons be born of thy own body [^1397]! three as Âthravans [^1398], three as warriors [^1399], three as tillers of the ground [^1400]! May one of them be like <i>G</i>âmâspa [^1401], that he may bless thee with great and ever greater happiness [^1402]!
+‘Mayest thou have strength to reach the Rangha, whose way lies afar, as Vafra Navâza did [^1396]. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 3\. 'May ten sons be born of thy own body [^1397]! three as Âthravans [^1398], three as warriors [^1399], three as tillers of the ground [^1400]! May one of them be like <i>G</i>âmâspa [^1401], that he may bless thee with great and ever greater happiness [^1402]!
 
 4\. 'Mayest thou be freed from sickness and death, like Peshô-tanu [^1403].
 
@@ -60,7 +60,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 ‘Ashem Vohû: Holiness is the best of all good . . . .
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 ## II.
 
@@ -76,7 +76,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 9\. Pâre<i>n</i>di [^1413], of the light chariot, follows: 'Mayest thou [^1414] become manifest unto him, the young king Vî<i>s</i>tâspa!
 
-‘May plenty dwell in this house, standing upon high columns and rich in food [^1415]! Thou wilt never <span id="p331">[<sup><small>p. 331</small></sup>]</span> offer and give bad food to a priest: for a priest must be to thee like the brightest [^1416] offspring of thy own blood.’
+‘May plenty dwell in this house, standing upon high columns and rich in food [^1415]! Thou wilt never <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> offer and give bad food to a priest: for a priest must be to thee like the brightest [^1416] offspring of thy own blood.’
 
 10\. Zarathu<i>s</i>tra spake unto him: 'O young king Vî<i>s</i>tâspa!
 
@@ -90,7 +90,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 ## III.
 
-13\. 'When I teach thee, that thou mayest do the same to thy son [^1420], O Vî<i>s</i>tâspa! receive thou well that teaching; that will make thee rich in children and rich in milk; rich in seed, in fat, in milk [^1421]. <span id="p332">[<sup><small>p. 332</small></sup>]</span> 14\. 'Thus do we announce unto thee, Ahura Mazda, and Sraosha, and Ashi, and the Law of the worshippers of Mazda, with the whole of all her hymns, with the whole of all her deeds, with the whole of her performances; the Law of Mazda, who obtains her wishes, who makes the world grow, who listens to the songs and rejoices the faithful man at his wish; who protects the faithful man, who maintains the faithful man;
+13\. 'When I teach thee, that thou mayest do the same to thy son [^1420], O Vî<i>s</i>tâspa! receive thou well that teaching; that will make thee rich in children and rich in milk; rich in seed, in fat, in milk [^1421]. <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> 14\. 'Thus do we announce unto thee, Ahura Mazda, and Sraosha, and Ashi, and the Law of the worshippers of Mazda, with the whole of all her hymns, with the whole of all her deeds, with the whole of her performances; the Law of Mazda, who obtains her wishes, who makes the world grow, who listens to the songs and rejoices the faithful man at his wish; who protects the faithful man, who maintains the faithful man;
 
 15\. 'From whom come the knowledge of holiness and the increase in holiness of the world of the holy Principle, and without whom [^1422] no faithful man [^1423] can know holiness.
 
@@ -100,7 +100,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 17\. 'Every youth of good thoughts, good words, good deeds, and good religion; every youth who speaks the right words; every one who performs the next-of-kin marriage [^1426]; every itinerant priest; every mistress of a house; every wandering priest, obedient to the Law.
 
-18\. 'To thee come all the performers [^1427] (of holiness), all the masters of holiness, who, to the <span id="p333">[<sup><small>p. 333</small></sup>]</span> number of three and thirty [^1428], stand next to Hâvani, being masters of holiness.
+18\. 'To thee come all the performers [^1427] (of holiness), all the masters of holiness, who, to the <span id="p333"><sup><small>[ p. 333 ]</small></sup></span> number of three and thirty [^1428], stand next to Hâvani, being masters of holiness.
 
 19\. 'May they be fully protected [^1429] in thee, O young king Vî<i>s</i>tâspa! While thou smitest thy adversaries, thy foes, those who hate thee, a hundred times a hundred for a hundred [^1430], a thousand times a thousand for a thousand, ten thousand times ten thousand for ten thousand, myriads of myriads for a myriad.
 
@@ -114,7 +114,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 ‘Go towards that tree that is beautiful, high-growing, and mighty amongst the high-growing trees, and say thou these words: “Hail to thee! O good, holy tree, made by Mazda! Ashem Vohû!”
 
-23\. 'Let the faithful man cut off twigs of baresma, either one, or two, or three: let him bind them and <span id="p334">[<sup><small>p. 334</small></sup>]</span> tie them up according to the rites, being bound and unbound according to the rites.
+23\. 'Let the faithful man cut off twigs of baresma, either one, or two, or three: let him bind them and <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> tie them up according to the rites, being bound and unbound according to the rites.
 
 ‘The smallest twig of Haoma, pounded according to the rules, the smallest twig prepared for sacrifice, gives royalty to the man (who does it).’
 
@@ -132,7 +132,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 26\. 'Proclaim thou those prayers: they will cleanse thy body from deeds of lust [^1434], O young king Vî<i>s</i>tâspa!
 
-‘I will worship thee, O Fire, son of Ahura Mazda, who art a valiant warrior. He falls upon the fiend Ku<i>n</i>da [^1435], who is drunken without drinking, upon the men of the Dru<i>g</i>, the slothful ones [^1436], the wicked Daêva-worshippers, who live in sin. <span id="p335">[<sup><small>p. 335</small></sup>]</span> 27\. 'He [^1437] trembles at the way [^1438] made by Time and open both to the wicked and to the righteous.
+‘I will worship thee, O Fire, son of Ahura Mazda, who art a valiant warrior. He falls upon the fiend Ku<i>n</i>da [^1435], who is drunken without drinking, upon the men of the Dru<i>g</i>, the slothful ones [^1436], the wicked Daêva-worshippers, who live in sin. <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> 27\. 'He [^1437] trembles at the way [^1438] made by Time and open both to the wicked and to the righteous.
 
 ‘They [^1439] tremble at the perfume of his soul [^1440], as a sheep does on which a wolf is falling.
 
@@ -144,7 +144,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 30\. 'Go forward with praises, go forward the way of the good Mazdean law and of all those who walk in her ways, men and women.
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 ‘He who wishes to seize the heavenly reward [^1447], will seize it by giving gifts to him who holds up (the Law) to us [^1448] in this world here below [^1449] . . .
 
@@ -156,7 +156,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 32\. ' “Hear me! Forgive me [^1455]!”—We, the Amesha-Spe<i>n</i>tas, will come and show thee, O Zarathu<i>s</i>tra! the way to that world [^1456], to long glory in the spiritual world, to long happiness of the soul in Paradise;
 
-33\. 'To bliss and Paradise, to the Garô-nmâna of Ahura Mazda, beautifully made and fully adorned, <span id="p337">[<sup><small>p. 337</small></sup>]</span> when his soul goes out of his body through the will of fate, when I, Ahura Mazda, when I, Ahura Mazda, gently show him his way as he asks for it.
+33\. 'To bliss and Paradise, to the Garô-nmâna of Ahura Mazda, beautifully made and fully adorned, <span id="p337"><sup><small>[ p. 337 ]</small></sup></span> when his soul goes out of his body through the will of fate, when I, Ahura Mazda, when I, Ahura Mazda, gently show him his way as he asks for it.
 
 ‘Ashem Vohû: Holiness is the best of all good . . . .
 
@@ -174,7 +174,7 @@ Zarathu<i>s</i>tra said: 'Let him who is unfriendly to her become a follower of 
 
 36\. 'The Law of Mazda will not deliver thee unto pain [^1462]. Thou art entreated (for charity) by the whole of the living world, and she [^1463] is ever standing at thy door in the person of thy brethren in the faith: beggars are ever standing at the door of the stranger, amongst those who beg for bread.
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 ‘Ever will that bread be burning coal upon thy head [^1464].
 
@@ -188,7 +188,7 @@ Zarathu<i>s</i>tra said: 'Let him who is unfriendly to her become a follower of 
 
 39\. 'O Mazda! take for thyself the words of our praise: of these words I speak and speak again, the strength and victorious vigour, the power of health and healing, the fulness, increase, and growth.
 
-‘Bring it together with the words of hymns up to the Garô-nmâna of Ahura Mazda. He will [^1470] first <span id="p339">[<sup><small>p. 339</small></sup>]</span> enter there. Therefore do thou pronounce these prayers.
+‘Bring it together with the words of hymns up to the Garô-nmâna of Ahura Mazda. He will [^1470] first <span id="p339"><sup><small>[ p. 339 ]</small></sup></span> enter there. Therefore do thou pronounce these prayers.
 
 ‘Ashem Vohû: Holiness is the best of all good . . . .
 
@@ -204,7 +204,7 @@ Zarathu<i>s</i>tra said: 'Let him who is unfriendly to her become a follower of 
 
 43\. 'How the worlds were arranged was said to thee first, O Zarathu<i>s</i>tra! Zarathu<i>s</i>tra said it again to the young king Vî<i>s</i>tâspa; therefore do thou [^1475] praise him [^1476] who keeps and maintains the moon and the sun.
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 ‘He who has little friendship for the Law, I have placed him down below to suffer.’
 
@@ -218,7 +218,7 @@ Zarathu<i>s</i>tra said: 'Let him who is unfriendly to her become a follower of 
 
 45\. 'Mayest thou receive [^1478], O holy young king Vî<i>s</i>tâspa! (a house) with a hundred . . . . [^1479], ten thousand large windows, ten thousand small windows, all the year long [^1480], O holy Vî<i>s</i>tâspa! never growing old, never dying, never decaying, never rotting, giving plenty of meat, plenty of food, plenty of clothes to the other worshippers of Mazda.
 
-46\. 'May all boons be bestowed upon thee, as I proclaim it unto thee! May the Amesha-Spe<i>n</i>tas impart to thee their brightness and glory and plenty [^1481]! May they give him quick and swift horses and good sons, strong, great in all things, powerful to sing the hymns. <span id="p341">[<sup><small>p. 341</small></sup>]</span> 47\. 'He wields his power according to the wish of Ahura Mazda, the Good Spirit, and for the destruction of the Evil Spirit, whichever of two men goes quicker to perform a sacrifice (to Ahura); but if he chooses to perform the sacrifice and prayer to us not in the right way, he does not wield the right power, he will not reign [^1482].
+46\. 'May all boons be bestowed upon thee, as I proclaim it unto thee! May the Amesha-Spe<i>n</i>tas impart to thee their brightness and glory and plenty [^1481]! May they give him quick and swift horses and good sons, strong, great in all things, powerful to sing the hymns. <span id="p341"><sup><small>[ p. 341 ]</small></sup></span> 47\. 'He wields his power according to the wish of Ahura Mazda, the Good Spirit, and for the destruction of the Evil Spirit, whichever of two men goes quicker to perform a sacrifice (to Ahura); but if he chooses to perform the sacrifice and prayer to us not in the right way, he does not wield the right power, he will not reign [^1482].
 
 48\. 'He will receive bad treatment in the next world, though he has been the sovereign of a country, with good horses to ride and good chariots to drive. Give royalty to that man, O Zarathu<i>s</i>tra! who gives royalty unto thee with good will [^1483].
 
@@ -226,7 +226,7 @@ Zarathu<i>s</i>tra said: 'Let him who is unfriendly to her become a follower of 
 
 50\. 'Do not deliver me [^1485] into the hands of the fiend [^1486]; if the fiend take hold of me, then fever with loss of all joy will dry up the milk of the good Spe<i>n</i>ta-Ârmaiti [^1487]. The fiend is powerful to distress, and to dry up the milk of the woman who indulges in lust and of all females.
 
-51\. 'The perfume of fire, pleasant to the Maker, <span id="p342">[<sup><small>p. 342</small></sup>]</span> Ahura Mazda, takes them [^1488] away from afar; . . . . [^1489]; and all those that harm the creation of the Good Spirit are destroyed [^1490];
+51\. 'The perfume of fire, pleasant to the Maker, <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> Ahura Mazda, takes them [^1488] away from afar; . . . . [^1489]; and all those that harm the creation of the Good Spirit are destroyed [^1490];
 
 52\. 'Whom Mithra, and Rashnu Razi<i>s</i>ta, and the Law of the worshippers of Mazda wish to be taken far away, longing for a man who is eager to perform and does perform the ceremonies he has been taught; . . . [^1491]
 
@@ -240,7 +240,7 @@ Zarathu<i>s</i>tra said: 'Let him who is unfriendly to her become a follower of 
 
 54\. Ahura Mazda answered: 'O my son, Frashao<i>s</i>tra! It takes its seat near the head, singing the U<i>s</i>tavaiti Gâtha and proclaiming happiness: “Happy is he, happy the man whoever he be!”
 
-‘On the first night, his soul sits in Good Words [^1495]; <span id="p343">[<sup><small>p. 343</small></sup>]</span> on the second night, it sits in Good Deeds; on the third night, it goes along the ways (to Garô-nmâna).
+‘On the first night, his soul sits in Good Words [^1495]; <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> on the second night, it sits in Good Deeds; on the third night, it goes along the ways (to Garô-nmâna).
 
 55\. 'At the end of the third night, O my son, Frashao<i>s</i>tra! when the dawn appears, it seems to the soul of the faithful one as if it were brought amidst plants \[and scents: it seems as if a wind were blowing from the region of the south, from the regions of the south\] [^1496], a sweet-scented wind, sweeter-scented than any other wind in the world, and it seems to his soul as if he were inhaling that wind with the nose, and it asks, saying: “Whence does that wind blow, the sweetest-scented wind I ever inhaled with my nose?”
 
@@ -250,7 +250,7 @@ Zarathu<i>s</i>tra said: 'Let him who is unfriendly to her become a follower of 
 
 58\. 'And she, being his own conscience, answers him: "O thou youth, of good thoughts, good words, and good deeds, of good religion! I am thy own conscience.
 
-‘ "Everybody did love thee for that greatness, goodness, fairness, sweet-scentedness, victorious strength, and freedom from sorrow, in which thou <span id="p344">[<sup><small>p. 344</small></sup>]</span> dost appear to me; \[and so thou, O youth of good thoughts, good words, and good deeds, of good religion! didst love me for that greatness, goodness, fairness, sweet-scentedness, victorious strength, and freedom from sorrow, in which I appear to thee.
+‘ "Everybody did love thee for that greatness, goodness, fairness, sweet-scentedness, victorious strength, and freedom from sorrow, in which thou <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> dost appear to me; \[and so thou, O youth of good thoughts, good words, and good deeds, of good religion! didst love me for that greatness, goodness, fairness, sweet-scentedness, victorious strength, and freedom from sorrow, in which I appear to thee.
 
 59\. ' "When thou wouldst see a man [^1497]\] making derision and deeds of idolatry, or rejecting (the poor) and shutting (his door), then, thou wouldst sit, singing the Gâthas, and worshipping the good waters, and Âtar, the son of Ahura Mazda, and rejoicing the faithful that would come from near or from afar.
 
@@ -258,7 +258,7 @@ Zarathu<i>s</i>tra said: 'Let him who is unfriendly to her become a follower of 
 
 61\. 'The first step that the soul of the faithful man made, placed him in the Good-Thought Paradise; the second step that the soul of the faithful man made, placed him in the Good-Word Paradise; the third step that the soul of the faithful man made, placed him in the Good-Deed Paradise; the fourth step that the soul of the faithful man made, placed him in the Endless Light.
 
-62\. ‘Then one of the faithful, who had departed before him, asked, saying: “How didst thou depart this life, thou holy man? How didst thou come, <span id="p345">[<sup><small>p. 345</small></sup>]</span> thou holy man! from the abodes full of cattle and full of the wishes and enjoyments of love? from the material world into the world of the spirit? from the decaying world into the undecaying one? How long did thy felicity last?” ’
+62\. ‘Then one of the faithful, who had departed before him, asked, saying: “How didst thou depart this life, thou holy man? How didst thou come, <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> thou holy man! from the abodes full of cattle and full of the wishes and enjoyments of love? from the material world into the world of the spirit? from the decaying world into the undecaying one? How long did thy felicity last?” ’
 
 63\. And Ahura Mazda answered: 'Ask him not what thou askest him, who has just gone the dreary way, full of fear and distress, when the body and the soul part from one another.
 

@@ -34,11 +34,11 @@ dateCreated: 2025-2-12T12:13:16Z
 
 
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 **THE TAO TEH KING, OR THE TAO AND ITS CHARACTERISTICS.**
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 THE TÂO TEH KING.
 
@@ -68,7 +68,7 @@ Par. 3 suggests the words of the apostle John, ‘He that loveth not knoweth not
 
 ## 2.
 
-2\. 1. All in the world know the beauty of the beautiful, and in doing this they have (the idea of) <span id="p48">[<sup><small>p. 48</small></sup>]</span> what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is.
+2\. 1. All in the world know the beauty of the beautiful, and in doing this they have (the idea of) <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is.
 
 2\. So it is that existence and non-existence give birth the one to (the idea of) the other; that difficulty and ease produce the one (the idea of) the other; that length and shortness fashion out the one the figure of the other; that (the ideas of) height and lowness arise from the contrast of the one with the other; that the musical notes and tones become harmonious through the relation of one with another; and that being before and behind give the idea of one following another.
 
@@ -81,7 +81,7 @@ The work is done, but how no one can see;
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/04900.jpg), ‘The Nourishment of the Person.’ But many of Ho-shang Kung's titles are more appropriate than this.
 
-The chapter starts with instances of the antinomies, which suggest to the mind each of them the existence of its corresponding opposite; and the author finds in them an analogy to the ‘contraries’ which characterize the operation of the Tâo, as stated in chapter 40. He then proceeds to describe the action of the sage in par. 3 as in accordance with this law of contraries; and, in par. 4, that of heaven <span id="p49">[<sup><small>p. 49</small></sup>]</span> and earth, or what we may call nature, in the processes of the vegetable world.
+The chapter starts with instances of the antinomies, which suggest to the mind each of them the existence of its corresponding opposite; and the author finds in them an analogy to the ‘contraries’ which characterize the operation of the Tâo, as stated in chapter 40. He then proceeds to describe the action of the sage in par. 3 as in accordance with this law of contraries; and, in par. 4, that of heaven <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> and earth, or what we may call nature, in the processes of the vegetable world.
 
 Par. 2 should be rhymed, but I could not succeed to my satisfaction in the endeavour to rhyme it. Every one who can read Chinese will see that the first four members rhyme. The last two rhyme also, the concluding ![](/image/book/Taoism/Taoist_texts_vol_1/04900.jpg) being pronounced so;—see the Khang-hsî dictionary in voc.
 
@@ -103,7 +103,7 @@ Par. 2 should be rhymed, but I could not succeed to my satisfaction in the endea
 
 ## 4.
 
-4\. 1. The Tâo is (like) the emptiness of a vessel; and in our employment of it we must be on our guard against all fulness. How deep and unfathomable <span id="p50">[<sup><small>p. 50</small></sup>]</span> it is, as if it were the Honoured Ancestor of all things!
+4\. 1. The Tâo is (like) the emptiness of a vessel; and in our employment of it we must be on our guard against all fulness. How deep and unfathomable <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> it is, as if it were the Honoured Ancestor of all things!
 
 2\. We should blunt our sharp points, and unravel the complications of things; we should attemper our brightness, and bring ourselves into agreement with the obscurity of others. How pure and still the Tâo is, as if it would ever so continue!
 
@@ -127,7 +127,7 @@ Your inner being guard, and keep it free.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05003.jpg), ‘The Use of Emptiness.’ Quiet and unceasing is the operation of the Tâo, and effective is the rule of the sage in accordance with it.
 
-The grass-dogs in par. 1 were made of straw tied up in the shape of dogs, and used in praying for rain; and afterwards, <span id="p51">[<sup><small>p. 51</small></sup>]</span> when the sacrifice was over, were thrown aside and left uncared for. Heaven and earth and the sages dealt so with all things and with the people; but the illustration does not seem a happy one. Both Kwang-dze and Hwâi-nan mention the grass-dogs. See especially the former, XIV, 25 a, b. In that Book there is fully developed the meaning of this chapter. The illustration in par. 2 is better. The Chinese bellows is different to look at from ours, but the principle is the same in the construction of both. The par. concludes in a way that lends some countenance to the later Tâoism's dealing with the breath.
+The grass-dogs in par. 1 were made of straw tied up in the shape of dogs, and used in praying for rain; and afterwards, <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> when the sacrifice was over, were thrown aside and left uncared for. Heaven and earth and the sages dealt so with all things and with the people; but the illustration does not seem a happy one. Both Kwang-dze and Hwâi-nan mention the grass-dogs. See especially the former, XIV, 25 a, b. In that Book there is fully developed the meaning of this chapter. The illustration in par. 2 is better. The Chinese bellows is different to look at from ours, but the principle is the same in the construction of both. The par. concludes in a way that lends some countenance to the later Tâoism's dealing with the breath.
 
 
 <a id="c6"></a>
@@ -143,7 +143,7 @@ Used gently, and without the touch of pain.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05100.jpg), ‘The Completion of Material Forms.’ This title rightly expresses the import of this enigmatical chapter; but there is a foundation laid in it for the development of the later Tâoism, which occupies itself with the prolongation of life by the management of the breath ( ![](/image/book/Taoism/Taoist_texts_vol_1/05101.jpg)) or vital force.
 
-‘The valley’ is used metaphorically as a symbol of ‘emptiness’ or ‘vacancy;’ and ‘the spirit of the valley’ is the something invisible, yet almost personal, belonging to the Tâo, which constitutes the Teh ( ![](/image/book/Taoism/Taoist_texts_vol_1/05102.jpg)) in the name of our King. ‘The spirit of the valley’ has come to be a name for the activity of the Tâo in all the realm of its operation. ‘The female mystery’ is the Tâo with a name of chapter 1, which is ‘the Mother of all things.’ All living beings have a father and mother. The processes of generation and production can hardly be imaged by us but by a recognition of this fact; and so Lâo-dze thought of the existing realm of nature—of life—as coming through an <span id="p52">[<sup><small>p. 52</small></sup>]</span> evolution (not a creation) from the primal air or breath, dividing into two, and thence appearing in the forms of things, material and immaterial. The chapter is found in Lieh-dze (I, 1 b) quoted by him from a book of Hwang-Tî; and here Lâo-dze has appropriated it, and made it his own. See the Introduction, [p. 2](Introduction_1#p2).
+‘The valley’ is used metaphorically as a symbol of ‘emptiness’ or ‘vacancy;’ and ‘the spirit of the valley’ is the something invisible, yet almost personal, belonging to the Tâo, which constitutes the Teh ( ![](/image/book/Taoism/Taoist_texts_vol_1/05102.jpg)) in the name of our King. ‘The spirit of the valley’ has come to be a name for the activity of the Tâo in all the realm of its operation. ‘The female mystery’ is the Tâo with a name of chapter 1, which is ‘the Mother of all things.’ All living beings have a father and mother. The processes of generation and production can hardly be imaged by us but by a recognition of this fact; and so Lâo-dze thought of the existing realm of nature—of life—as coming through an <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> evolution (not a creation) from the primal air or breath, dividing into two, and thence appearing in the forms of things, material and immaterial. The chapter is found in Lieh-dze (I, 1 b) quoted by him from a book of Hwang-Tî; and here Lâo-dze has appropriated it, and made it his own. See the Introduction, [p. 2](Introduction_1#p2).
 
 
 <a id="c7"></a>
@@ -163,7 +163,7 @@ Used gently, and without the touch of pain.
 
 8\. 1. The highest excellence is like (that of) water. The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike. Hence (its way) is near to (that of) the Tâo.
 
-2\. The excellence of a residence is in (the suitability of) the place; that of the mind is in abysmal stillness; that of associations is in their being with the virtuous; that of government is in its securing good order; that of (the conduct of) affairs is in its ability; and that of (the initiation of) any movement is in its timeliness. <span id="p53">[<sup><small>p. 53</small></sup>]</span> 3\. And when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him.
+2\. The excellence of a residence is in (the suitability of) the place; that of the mind is in abysmal stillness; that of associations is in their being with the virtuous; that of government is in its securing good order; that of (the conduct of) affairs is in its ability; and that of (the initiation of) any movement is in its timeliness. <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> 3\. And when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05300.jpg), ‘The Placid and Contented Nature.’ Water, as an illustration of the way of the Tâo, is repeatedly employed by Lâo-dze.
 
@@ -187,7 +187,7 @@ The first clauses of the two sentences in par. 1, ![](/image/book/Taoism/Taoist_
 
 ## 10.
 
-10\. 1. When the intelligent and animal souls are held together in one embrace, they can be kept from separating. When one gives undivided attention to the (vital) breath, and brings it to the utmost degree of pliancy, he can become as a (tender) <span id="p54">[<sup><small>p. 54</small></sup>]</span> babe. When he has cleansed away the most mysterious sights (of his imagination), he can become without a flaw.
+10\. 1. When the intelligent and animal souls are held together in one embrace, they can be kept from separating. When one gives undivided attention to the (vital) breath, and brings it to the utmost degree of pliancy, he can become as a (tender) <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> babe. When he has cleansed away the most mysterious sights (of his imagination), he can become without a flaw.
 
 2\. In loving the people and ruling the state, cannot he proceed without any (purpose of) action? In the opening and shutting of his gates of heaven, cannot he do so as a female bird? While his intelligence reaches in every direction, cannot he (appear to) be without knowledge?
 
@@ -202,7 +202,7 @@ The whole seems to tell what can be accomplished by one who is possessed of the 
 
 ## 11.
 
-11\. The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the <span id="p55">[<sup><small>p. 55</small></sup>]</span> use of the wheel depends. Clay is fashioned into vessels; but it is on their empty hollowness, that their use depends. The door and windows are cut out (from the walls) to form an apartment; but it is on the empty space (within), that its use depends. Therefore, what has a (positive) existence serves for profitable adaptation, and what has not that for (actual) usefulness.
+11\. The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> use of the wheel depends. Clay is fashioned into vessels; but it is on their empty hollowness, that their use depends. The door and windows are cut out (from the walls) to form an apartment; but it is on the empty space (within), that its use depends. Therefore, what has a (positive) existence serves for profitable adaptation, and what has not that for (actual) usefulness.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05500.jpg), ‘The Use of what has no Substantive Existence.’ The three illustrations serve to set forth the freedom of the Tâo from all pre-occupation and purpose, and the use of what seems useless.
 
@@ -222,7 +222,7 @@ Sought for, men's conduct will to evil change.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05501.jpg), ‘The Repression of the Desires.’ Government in accordance with the Tâo seeks to withdraw men from the attractions of what is external and pleasant to the senses and imagination, and to maintain the primitive simplicity of men's ways and manners. Compare chap. 2. The five colours are Black, Red, Green or Blue, White, and Yellow; the five notes are those of the imperfect Chinese musical scale, our G, A, B, D, E; the five tastes are Salt, Bitter, Sour, Acrid, and Sweet.
 
-I am not sure that Wang Pî has caught exactly the author's idea in the contrast between satisfying the belly and satisfying the eyes; but what he says is ingenious, ‘In satisfying the belly <span id="p56">[<sup><small>p. 56</small></sup>]</span> one nourishes himself; in gratifying the eyes he makes a slave of himself.’
+I am not sure that Wang Pî has caught exactly the author's idea in the contrast between satisfying the belly and satisfying the eyes; but what he says is ingenious, ‘In satisfying the belly <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> one nourishes himself; in gratifying the eyes he makes a slave of himself.’
 
 
 <a id="c13"></a>
@@ -237,7 +237,7 @@ And what is meant by saying that honour and great calamity are to be (similarly)
 
 3\. Therefore he who would administer the kingdom, honouring it as he honours his own person, may be employed to govern it, and he who would administer it with the love which he bears to his own person may be entrusted with it.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/05600.jpg), ‘Loathing Shame.’ The chapter is difficult to construe, and some disciples of Kû Hsî had to ask him to explain it as in the case of ch. 10. His remarks on it are not to my mind satisfactory. Its object seems to be to show that the cultivation of the person according to the Tâo, is the best qualification for the highest offices, even for the government of the world. Par. 3 is found in Kwang-dze (XI, 18 b) in a connexion which suggests this view of the chapter. It may be observed, however, that in him the position of the verbal characters in the two clauses <span id="p57">[<sup><small>p. 57</small></sup>]</span> of the paragraph is the reverse of that in the text of Ho-shang Kung, so that we can hardly accept the distinction of meaning of the two characters given in his commentary, but must take them as synonyms. Professor Gabelentz gives the following version of Kwang-dze: ‘Darum, gebraucht er seine Person achtsam in der Verwaltung des Reiches, so mag man ihm die Reichsgewalt anvertrauen; . . . liebend (schonend) . . . übertragen.’
+![](/image/book/Taoism/Taoist_texts_vol_1/05600.jpg), ‘Loathing Shame.’ The chapter is difficult to construe, and some disciples of Kû Hsî had to ask him to explain it as in the case of ch. 10. His remarks on it are not to my mind satisfactory. Its object seems to be to show that the cultivation of the person according to the Tâo, is the best qualification for the highest offices, even for the government of the world. Par. 3 is found in Kwang-dze (XI, 18 b) in a connexion which suggests this view of the chapter. It may be observed, however, that in him the position of the verbal characters in the two clauses <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> of the paragraph is the reverse of that in the text of Ho-shang Kung, so that we can hardly accept the distinction of meaning of the two characters given in his commentary, but must take them as synonyms. Professor Gabelentz gives the following version of Kwang-dze: ‘Darum, gebraucht er seine Person achtsam in der Verwaltung des Reiches, so mag man ihm die Reichsgewalt anvertrauen; . . . liebend (schonend) . . . übertragen.’
 
 
 <a id="c14"></a>
@@ -250,7 +250,7 @@ And what is meant by saying that honour and great calamity are to be (similarly)
 
 3\. We meet it and do not see its Front; we follow it, and do not see its Back. When we can lay hold of the Tâo of old to direct the things of the present day, and are able to know it as it was of old in the beginning, this is called (unwinding) the clue of Tâo.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/05700.jpg), ‘The Manifestation of the Mystery.’ The subject of par. 1 is the Tâo, but the Tâo in its operation, and not the primal conception of it, as entirely distinct from things, which rises before the mind in the second paragraph. The Chinese characters which I have translated ‘the Equable,’ ‘the Inaudible,’ and ‘the Subtle,’ are now pronounced Î, Hî, and Wei, and in 1823 Rémusat fancied that they were <span id="p58">[<sup><small>p. 58</small></sup>]</span> intended to give the Hebrew tetragrammaton יהוה, which he thought had come to Lâo-dze somehow from the West, or been found by him there. It was a mere fancy or dream; and still more so is the recent attempt to revive the notion by Victor von Strauss in 1870, and Dr. Edkins in 1884. The idea of the latter is specially strange, maintaining, as he does, that we should read the characters according to their old sounds. Lâo-dze has not in the chapter a personal Being before his mind, but the procedure of his mysterious Tâo, the course according to which the visible phenomena take place, incognisable by human sense and capable of only approximate description by terms appropriate to what is within the domain of sense. See the Introduction, pp. [14](Introduction_3#p14), [15](Introduction_3#p15).
+![](/image/book/Taoism/Taoist_texts_vol_1/05700.jpg), ‘The Manifestation of the Mystery.’ The subject of par. 1 is the Tâo, but the Tâo in its operation, and not the primal conception of it, as entirely distinct from things, which rises before the mind in the second paragraph. The Chinese characters which I have translated ‘the Equable,’ ‘the Inaudible,’ and ‘the Subtle,’ are now pronounced Î, Hî, and Wei, and in 1823 Rémusat fancied that they were <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> intended to give the Hebrew tetragrammaton יהוה, which he thought had come to Lâo-dze somehow from the West, or been found by him there. It was a mere fancy or dream; and still more so is the recent attempt to revive the notion by Victor von Strauss in 1870, and Dr. Edkins in 1884. The idea of the latter is specially strange, maintaining, as he does, that we should read the characters according to their old sounds. Lâo-dze has not in the chapter a personal Being before his mind, but the procedure of his mysterious Tâo, the course according to which the visible phenomena take place, incognisable by human sense and capable of only approximate description by terms appropriate to what is within the domain of sense. See the Introduction, pp. [14](Introduction_3#p14), [15](Introduction_3#p15).
 
 
 <a id="c15"></a>
@@ -263,7 +263,7 @@ And what is meant by saying that honour and great calamity are to be (similarly)
 
 3\. Who can (make) the muddy water (clear)? Let it be still, and it will gradually become clear. Who can secure the condition of rest? Let movement go on, and the condition of rest will gradually arise.
 
-4\. They who preserve this method of the Tâo do not wish to be full (of themselves). It is through their not being full of themselves that they can <span id="p59">[<sup><small>p. 59</small></sup>]</span> afford to seem worn and not appear new and complete.
+4\. They who preserve this method of the Tâo do not wish to be full (of themselves). It is through their not being full of themselves that they can <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> afford to seem worn and not appear new and complete.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/05900.jpg), ‘The Exhibition of the Quality,’ that is, of the Tâo, which has been set forth in the preceding chapter. Its practical outcome is here described in the masters of it of old, who in their own weakness were yet strong in it, and in their humility were mighty to be co-workers with it for the good of the world.
 
@@ -276,7 +276,7 @@ The variety of the readings in par. 4 is considerable, but not so as to affect t
 
 16\. 1. The (state of) vacancy should be brought to the utmost degree, and that of stillness guarded with unwearying vigour. All things alike go through their processes of activity, and (then) we see them return (to their original state). When things (in the vegetable world) have displayed their luxuriant growth, we see each of them return to its root. This returning to their root is what we call the state of stillness; and that stillness maybe called a reporting that they have fulfilled their appointed end.
 
-2\. The report of that fulfilment is the regular, unchanging rule. To know that unchanging rule is to be intelligent; not to know it leads to wild movements and evil issues. The knowledge of that unchanging rule produces a (grand) capacity and forbearance, and <span id="p60">[<sup><small>p. 60</small></sup>]</span> that capacity and forbearance lead to a community (of feeling with all things). From this community of feeling comes a kingliness of character; and he who is king-like goes on to be heaven-like. In that likeness to heaven he possesses the Tâo. Possessed of the Tâo, he endures long; and to the end of his bodily life, is exempt from all danger of decay.
+2\. The report of that fulfilment is the regular, unchanging rule. To know that unchanging rule is to be intelligent; not to know it leads to wild movements and evil issues. The knowledge of that unchanging rule produces a (grand) capacity and forbearance, and <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> that capacity and forbearance lead to a community (of feeling with all things). From this community of feeling comes a kingliness of character; and he who is king-like goes on to be heaven-like. In that likeness to heaven he possesses the Tâo. Possessed of the Tâo, he endures long; and to the end of his bodily life, is exempt from all danger of decay.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/06000.jpg), ‘Returning to the Root.’ The chapter exhibits the operation of the Tâo in nature, in man, and in government; an operation silent, but all-powerful; unaccompanied with any demonstration of its presence, but great in its results.
 
@@ -289,7 +289,7 @@ The getting to possess the Tâo, or to be an embodiment of it, follows the becom
 
 ## 17.
 
-17\. 1. In the highest antiquity, (the people) did not know that there were (their rulers). In the next age they loved them and praised them. In the <span id="p61">[<sup><small>p. 61</small></sup>]</span> next they feared them; in the next they despised them. Thus it was that when faith (in the Tâo) was deficient (in the rulers) a want of faith in them ensued (in the people).
+17\. 1. In the highest antiquity, (the people) did not know that there were (their rulers). In the next age they loved them and praised them. In the <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> next they feared them; in the next they despised them. Thus it was that when faith (in the Tâo) was deficient (in the rulers) a want of faith in them ensued (in the people).
 
 2\. How irresolute did those (earliest rulers) appear, showing (by their reticence) the importance which they set upon their words! Their work was done and their undertakings were successful, while the people all said, ‘We are as we are, of ourselves!’
 
@@ -307,7 +307,7 @@ The getting to possess the Tâo, or to be an embodiment of it, follows the becom
 ![](/image/book/Taoism/Taoist_texts_vol_1/06104.jpg), ‘The Decay of Manners.’ A sequel to the preceding chapter, and showing also how the general decay of manners afforded opportunity for the display of certain virtues by individuals. Observe ‘the Great Tâo,’ occurring here for the first time as the designation of ‘the Tâo.’}
 
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 <a id="c19"></a>
 
@@ -335,7 +335,7 @@ But mark their issues, good and ill;—
 What space the gulf between shall fill?
 What all men fear is indeed to be feared; but how wide and without end is the range of questions (asking to be discussed)!
 
-2\. The multitude of men look satisfied and pleased; as if enjoying a full banquet, as if mounted on a tower in spring. I alone seem listless and still, my desires having as yet given no indication of their <span id="p63">[<sup><small>p. 63</small></sup>]</span> presence. I am like an infant which has not yet smiled. I look dejected and forlorn, as if I had no home to go to. The multitude of men all have enough and to spare. I alone seem to have lost everything. My mind is that of a stupid man; I am in a state of chaos.
+2\. The multitude of men look satisfied and pleased; as if enjoying a full banquet, as if mounted on a tower in spring. I alone seem listless and still, my desires having as yet given no indication of their <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> presence. I am like an infant which has not yet smiled. I look dejected and forlorn, as if I had no home to go to. The multitude of men all have enough and to spare. I alone seem to have lost everything. My mind is that of a stupid man; I am in a state of chaos.
 
 Ordinary men look bright and intelligent, while I alone seem to be benighted. They look full of discrimination, while I alone am dull and confused. I seem to be carried about as on the sea, drifting as if I had nowhere to rest. All men have their spheres of action, while I alone seem dull and incapable, like a rude borderer. (Thus) I alone am different from other men, but I value the nursing-mother (the Tâo).
 
@@ -343,7 +343,7 @@ Ordinary men look bright and intelligent, while I alone seem to be benighted. Th
 
 Having stated the fact following the renunciation of learning, he proceeds to dwell upon the troubles of learning in the rest of par. 1. Until the votary of learning knows everything, he has no rest. But the instances which he adduces of this are not striking nor easily understood. I cannot throw any light on the four lines about the ‘yes’ and the ‘Yea.’
 
-Confucius (Ana. XVI, viii) specifies three things of which the superior man stands in awe; and these and others of <span id="p64">[<sup><small>p. 64</small></sup>]</span> a similar nature may have been the things which Lâo-dze had in his mind. The nursing-mother at the end is, no doubt, the Tâo in operation, ‘with a name,’ as in ch. i the mysterious virtue' of chapters 51 and 52.
+Confucius (Ana. XVI, viii) specifies three things of which the superior man stands in awe; and these and others of <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> a similar nature may have been the things which Lâo-dze had in his mind. The nursing-mother at the end is, no doubt, the Tâo in operation, ‘with a name,’ as in ch. i the mysterious virtue' of chapters 51 and 52.
 
 
 <a id="c21"></a>
@@ -371,7 +371,7 @@ How know I that it is so with all the beauties of existing things? By this (natu
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/06400.jpg), ‘The Empty Heart.’ But I fail to see the applicability of the title. The subject of the chapter is the Tâo in its operation. This is the significance of the ![](/image/book/Taoism/Taoist_texts_vol_1/06401.jpg) in the first clause or line, and to render it by ‘virtue,’ as Julien and Chalmers do, only serves to hide the meaning. Julien, however, says that 'the virtue is that of the Tâo; and he is right in taking ![](/image/book/Taoism/Taoist_texts_vol_1/06402.jpg), the last character of the second line, as having the sense of ‘from,’ ‘the source from,’ and not, as Chalmers does, in the sense of ‘following.’
 
-Lâo-dze's mind is occupied with a very difficult subject to describe the production of material forms by the Tâo; how or from what, he does not say. What I have rendered ‘semblances,’ Julien ‘les images,’ and Chalmers ‘forms,’ seems, <span id="p65">[<sup><small>p. 65</small></sup>]</span> as the latter says, in some way to correspond to the ‘Eternal Ideas’ of Plato in the Divine Mind. But Lâo-dze had no idea of ‘personality’ in the Tâo.
+Lâo-dze's mind is occupied with a very difficult subject to describe the production of material forms by the Tâo; how or from what, he does not say. What I have rendered ‘semblances,’ Julien ‘les images,’ and Chalmers ‘forms,’ seems, <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> as the latter says, in some way to correspond to the ‘Eternal Ideas’ of Plato in the Divine Mind. But Lâo-dze had no idea of ‘personality’ in the Tâo.
 
 
 <a id="c22"></a>
@@ -393,7 +393,7 @@ Lâo-dze's mind is occupied with a very difficult subject to describe the produc
 
 ## 23.
 
-23\. 1. Abstaining from speech marks him who is obeying the spontaneity of his nature. A violent <span id="p66">[<sup><small>p. 66</small></sup>]</span> wind does not last for a whole morning; a sudden rain does not last for the whole day. To whom is it that these (two) things are owing? To Heaven and Earth. If Heaven and Earth cannot make such (spasmodic) actings last long, how much less can man!
+23\. 1. Abstaining from speech marks him who is obeying the spontaneity of his nature. A violent <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> wind does not last for a whole morning; a sudden rain does not last for the whole day. To whom is it that these (two) things are owing? To Heaven and Earth. If Heaven and Earth cannot make such (spasmodic) actings last long, how much less can man!
 
 2\. Therefore when one is making the Tâo his business, those who are also pursuing it, agree with him in it, and those who are making the manifestation of its course their object agree with him in that; while even those who are failing in both these things agree with him where they fail.
 
@@ -404,7 +404,7 @@ Lâo-dze's mind is occupied with a very difficult subject to describe the produc
 Compare the concluding sentence with the one at the end of par. 1 in ch. 17.
 
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 <a id="c24"></a>
 
@@ -425,7 +425,7 @@ The remnants of food were not used as sacrificial offerings;—see the Lî Kî (
 
 2\. I do not know its name, and I give it the designation of the Tâo (the Way or Course). Making an effort (further) to give it a name I call it The Great.
 
-3\. Great, it passes on (in constant flow). Passing <span id="p68">[<sup><small>p. 68</small></sup>]</span> on, it becomes remote. Having become remote, it returns. Therefore the Tâo is great; Heaven is great; Earth is great; and the (sage) king is also great. In the universe there are four that are great, and the (sage) king is one of them.
+3\. Great, it passes on (in constant flow). Passing <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> on, it becomes remote. Having become remote, it returns. Therefore the Tâo is great; Heaven is great; Earth is great; and the (sage) king is also great. In the universe there are four that are great, and the (sage) king is one of them.
 
 4\. Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tâo. The law of the Tâo is its being what it is.
 
@@ -433,7 +433,7 @@ The remnants of food were not used as sacrificial offerings;—see the Lî Kî (
 
 ‘He does not know its name,’ and he designates it by the term denoting a course or way (Tâo, ![](/image/book/Taoism/Taoist_texts_vol_1/tao.jpg)), and indicating the phenomenal attribute, the method in which all phenomena come before our observation, in their development or evolution. And to distinguish it from all other methods of evolution, he would call it ‘the Great Method,’ and so he employs that combination as its name in ch. 18 and elsewhere; but it cannot be said that this name has fully maintained itself in the writings of his followers. But understood thus, he here says, as in ch. 1, that it is ‘the Mother of all things.’ And yet, when he says that ‘it was before Heaven and Earth were produced,’ he comes very near his affirmations in chapters 1 and 4, that ‘the nameless Tâo was the beginning (or originating cause) of Heaven and Earth,’ and 'might seem to have been before
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 God.' Was he groping after God if haply he might find Him? I think he was, and he gets so far as to conceive of Him as ‘the Uncaused Cause,’ but comes short of the idea of His personality. The other subordinate causes which he mentions all get their force or power from the Tâo, but after all the Tâo is simply a spontaneity, evolving from itself, and not acting from a personal will, consciously in the direction of its own wisdom and love. ‘Who can by searching find out God? Who can find out the Almighty to perfection?’
 
@@ -453,7 +453,7 @@ The predicate of the Tâo in the chapter, most perplexing to myself, is ‘It re
 The rule for a leader not to separate from his baggage waggons is simply the necessity of adhering to gravity. I have adopted from Han Fei the reading of ‘the wise prince’ for ‘the sage,’ which is found in Ho-shang Kung; and later on the reading of ‘has lost his root’ for his ‘loses his ministers,’ though the latter is found also in Han Fei.
 
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 <a id="c27"></a>
 
@@ -467,7 +467,7 @@ The rule for a leader not to separate from his baggage waggons is simply the nec
 
 I have given the most natural construction of the two characters at the end of par. 1, the only possible construction of them, so far as I can see, suitable to the context. The action of the Tâo (non-acting and yet all-efficient) and that of the sage in accordance with it, are veiled by their nature from the sight of ordinary men.
 
-It is more difficult to catch the scope and point of par. 2. If there were not the conditions described in it, it would be hard for even an intelligent onlooker to distinguish between the man who had the skill and the man without it, between <span id="p71">[<sup><small>p. 71</small></sup>]</span> him who possessed the Tâo, and him who had it not, which would be strange indeed.}
+It is more difficult to catch the scope and point of par. 2. If there were not the conditions described in it, it would be hard for even an intelligent onlooker to distinguish between the man who had the skill and the man without it, between <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> him who possessed the Tâo, and him who had it not, which would be strange indeed.}
 
 
 <a id="c28"></a>
@@ -504,7 +504,7 @@ The simple infant man in him we hail.
 
 ## 29.
 
-29\. 1. If any one should wish to get the kingdom for himself, and to effect this by what he does, I see <span id="p72">[<sup><small>p. 72</small></sup>]</span> that he will not succeed. The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it.
+29\. 1. If any one should wish to get the kingdom for himself, and to effect this by what he does, I see <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> that he will not succeed. The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it.
 
 2\. The course and nature of things is such that
 What was in front is now behind;
@@ -525,7 +525,7 @@ That the kingdom or throne is a ‘spirit-like vessel’ has become a common eno
 
 30\. 1. He who would assist a lord of men in harmony with the Tâo will not assert his mastery in the kingdom by force of arms. Such a course is sure to meet with its proper return.
 
-2\. Wherever a host is stationed, briars and thorns spring up. In the sequence of great armies there are sure to be bad years. <span id="p73">[<sup><small>p. 73</small></sup>]</span> 3\. A skilful (commander) strikes a decisive blow, and stops. He does not dare (by continuing his operations) to assert and complete his mastery. He will strike the blow, but will be on his guard against being vain or boastful or arrogant in consequence of it. He strikes it as a matter of necessity; he strikes it, but not from a wish for mastery.
+2\. Wherever a host is stationed, briars and thorns spring up. In the sequence of great armies there are sure to be bad years. <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> 3\. A skilful (commander) strikes a decisive blow, and stops. He does not dare (by continuing his operations) to assert and complete his mastery. He will strike the blow, but will be on his guard against being vain or boastful or arrogant in consequence of it. He strikes it as a matter of necessity; he strikes it, but not from a wish for mastery.
 
 4\. When things have attained their strong maturity they become old. This may be said to be not in accordance with the Tâo: and what is not in accordance with it soon comes to an end.
 
@@ -542,7 +542,7 @@ In translating ![](/image/book/Taoism/Taoist_texts_vol_1/07301.jpg) by ‘striki
 
 31\. 1. Now arms, however beautiful, are instruments of evil omen, hateful, it may be said, to all creatures. Therefore they who have the Tâo do not like to employ them.
 
-2\. The superior man ordinarily considers the left hand the most honourable place, but in time of war the right hand. Those sharp weapons are instruments of evil omen, and not the instruments of the <span id="p74">[<sup><small>p. 74</small></sup>]</span> superior man;—he uses them only on the compulsion of necessity. Calm and repose are what he prizes; victory (by force of arms) is to him undesirable. To consider this desirable would be to delight in the slaughter of men; and he who delights in the slaughter of men cannot get his will in the kingdom.
+2\. The superior man ordinarily considers the left hand the most honourable place, but in time of war the right hand. Those sharp weapons are instruments of evil omen, and not the instruments of the <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> superior man;—he uses them only on the compulsion of necessity. Calm and repose are what he prizes; victory (by force of arms) is to him undesirable. To consider this desirable would be to delight in the slaughter of men; and he who delights in the slaughter of men cannot get his will in the kingdom.
 
 3\. On occasions of festivity to be on the left hand is the prized position; on occasions of mourning, the right hand. The second in command of the army has his place on the left; the general commanding in chief has his on the right;—his place, that is, is assigned to him as in the rites of mourning. He who has killed multitudes of men should weep for them with the bitterest grief; and the victor in battle has his place (rightly) according to those rites.
 
@@ -559,7 +559,7 @@ The concluding sentence will suggest to some readers the words of the Duke of We
 
 2\. Though in its primordial simplicity it may be small, the whole world dares not deal with (one embodying) it as a minister. If a feudal prince or the king could guard and hold it, all would spontaneously submit themselves to him.
 
-3\. Heaven and Earth (under its guidance) unite together and send down the sweet dew, which, without <span id="p75">[<sup><small>p. 75</small></sup>]</span> the directions of men, reaches equally everywhere as of its own accord.
+3\. Heaven and Earth (under its guidance) unite together and send down the sweet dew, which, without <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> the directions of men, reaches equally everywhere as of its own accord.
 
 4\. As soon as it proceeds to action, it has a name. When it once has that name, (men) can know to rest in it. When they know to rest in it, they can be free from all risk of failure and error.
 
@@ -578,7 +578,7 @@ The ‘primordial simplicity’ in par. 2 is the Tâo in its simplest conception
 
 2\. He who does not fail in the requirements of his position, continues long; he who dies and yet does not perish, has longevity.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/07502.jpg), ‘Discriminating between (different) Attributes.’ The teaching of the chapter is that the possession of the <span id="p76">[<sup><small>p. 76</small></sup>]</span> Tâo confers the various attributes which are. here most distinguished. It has been objected to it that elsewhere the Tâo is represented as associated with dulness and not intelligence, and with weakness and not with strength. But these seem to be qualities viewed from without, and acting on what is beyond itself. Inwardly, its qualities are the very opposite, and its action has the effect of enlightening what is dark, and overcoming what is strong.
+![](/image/book/Taoism/Taoist_texts_vol_1/07502.jpg), ‘Discriminating between (different) Attributes.’ The teaching of the chapter is that the possession of the <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> Tâo confers the various attributes which are. here most distinguished. It has been objected to it that elsewhere the Tâo is represented as associated with dulness and not intelligence, and with weakness and not with strength. But these seem to be qualities viewed from without, and acting on what is beyond itself. Inwardly, its qualities are the very opposite, and its action has the effect of enlightening what is dark, and overcoming what is strong.
 
 More interesting are the predicates in par. 2. Ziâo Hung gives the comment on it of the Indian monk, Kumâragîva, 'one of the four suns of Buddhism, and who went to China in A.D. 401: ‘To be alive and yet not alive may well be called long; to die and yet not be dead may well be called longevity.’ He also gives the views of Lû Näng-shih (A.D. 1042-1102) that the freedom from change of Lieh-dze, from death of Kwang-dze, and from extinction of the Buddhists, have all the same meaning as the concluding saying of Lâo-dze here; that the human body is like the covering of the caterpillar or the skin of the snake; that we occupy it but for a passing sojourn. No doubt, Lâo-dze believed in another life for the individual after the present. Many passages in Kwang-dze indicate the same faith.
 
@@ -591,7 +591,7 @@ More interesting are the predicates in par. 2. Ziâo Hung gives the comment on i
 
 2\. All things depend on it for their production, which it gives to them, not one refusing obedience to it. When its work is accomplished, it does not claim the name of having done it. It clothes all things as with a garment, and makes no assumption of being their lord;-it may be named in the smallest things. All things return (to their root and disappear), and do not know that it is it which presides over their doing so;-it may be named in the greatest things.
 
-3\. Hence the sage is able (in the same way) to accomplish his great achievements. It. is through <span id="p77">[<sup><small>p. 77</small></sup>]</span> his not making himself great that he can accomplish them.
+3\. Hence the sage is able (in the same way) to accomplish his great achievements. It. is through <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> his not making himself great that he can accomplish them.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/07700.jpg), 'The Task of Achievement! The subject is the greatness of what the Tâo, called here by Lâo's own name for it in ch. 25, does; and the unconscious simplicity with which it does it; and then the achievements of the sage who is permeated by the Tâo. Par. 2 is descriptive of the influence of the Tâo in the vegetable world. The statements and expressions are much akin to those in parts of chapters 2, 10, and 51, and for Ho-shang Kung's difficult reading of ![](/image/book/Taoism/Taoist_texts_vol_1/07701.jpg) some copies give ![](/image/book/Taoism/Taoist_texts_vol_1/07702.jpg), as in chapter 2.
 
@@ -609,7 +609,7 @@ More interesting are the predicates in par. 2. Ziâo Hung gives the comment on i
 The Great Image (of the invisible Tâo) is a name for the Tâo, in its operation; as in chapters 14 and 41. He who embodies this in his government will be a centre of attraction for all the world. Or the ![](/image/book/Taoism/Taoist_texts_vol_1/07704.jpg) may be taken as a predicate of the holder of the Great Image:—‘If he go all under heaven teaching the Tâo.’ Both constructions are maintained by commentators of note. In par. 2 the attraction of the Tâo is contrasted with that of ordinary pleasures and gratifications.
 
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 <a id="c36"></a>
 
@@ -627,7 +627,7 @@ The gist of the chapter is to be sought in the second paragraph, where we have t
 
 But there is a difficulty in seeing the applicability to this of the cases mentioned in par. 1. The first case, indeed, is merely a natural phenomenon, having no moral character; but the others, as they have been illustrated from historical incidents, by Han Fei and others at least, belong to schemes of selfish and unprincipled ambitious strategy, which it would be injurious to Lâo-dze to suppose that he intended.
 
-Par. 3 is the most frequently quoted of all the passages in our King, unless it be the first part of ch. 1. Fishes taken from the deep, and brought into shallow water, can be easily taken or killed; that is plain enough. ‘The sharp instruments of a state’ are not its ‘weapons of war,’ nor its treasures,' nor its ‘instruments of government,’ that is, its rewards and punishments, though this last is the interpretation often put on them, and sustained by a foolish reference to an incident, real or coined, in the history of the dukedom of Sung. The lî khî are ‘contrivances for gain,’ machines, and other methods to increase the wealth of a state, but, according to the principles of Lâo-dze, really injurious to it. These should not be shown to the people, <span id="p79">[<sup><small>p. 79</small></sup>]</span> whom the Tâoistic system would keep in a state of primitive simplicity and ignorance. This interpretation is in accordance with the meaning of the characters, and with the general teaching of Tâoism. In no other way can I explain the paragraph so as to justify the place undoubtedly belonging to it in the system.
+Par. 3 is the most frequently quoted of all the passages in our King, unless it be the first part of ch. 1. Fishes taken from the deep, and brought into shallow water, can be easily taken or killed; that is plain enough. ‘The sharp instruments of a state’ are not its ‘weapons of war,’ nor its treasures,' nor its ‘instruments of government,’ that is, its rewards and punishments, though this last is the interpretation often put on them, and sustained by a foolish reference to an incident, real or coined, in the history of the dukedom of Sung. The lî khî are ‘contrivances for gain,’ machines, and other methods to increase the wealth of a state, but, according to the principles of Lâo-dze, really injurious to it. These should not be shown to the people, <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> whom the Tâoistic system would keep in a state of primitive simplicity and ignorance. This interpretation is in accordance with the meaning of the characters, and with the general teaching of Tâoism. In no other way can I explain the paragraph so as to justify the place undoubtedly belonging to it in the system.
 
 
 <a id="c37"></a>

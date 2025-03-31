@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 ‏סדר נזיקין‎
 
@@ -70,7 +70,7 @@ OR, DAMAGES; TREATS OF THE RIGHTS OF PERSONS AND THINGS.
 
 \[Contains precepts for the administration of oaths.\]
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 ## XXXVI. TREATISE EDIOTH, TESTIMONIES.
 

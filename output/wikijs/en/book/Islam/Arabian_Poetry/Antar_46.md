@@ -36,7 +36,7 @@ Antar returned to his tribe, and lived secluded in his tent, sorrowing for the l
 
 The girls set out for the lake at the hour appointed, and Amarah, disguised in women's clothes, followed them. When they reached the lake he pounced upon Abla like a voracious. vulture. But help was at hand. Antar, concealed behind the sand-hills, heard Abla's screams. He rushed forth like a furious lion, grasped Amarah, and almost heat the life out of him; then he let him go, followed by the taunts and jeers of the girls.
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 “This circumstance with Abla soon spread abroad, and all the women, and men, and girls, and boys, and slaves, and slave-girls joined in the laugh against Amarah, singing these verses, whilst Amarah heard them:—the women and shepherdesses sang them at their spindles; for there was a girl among the Absians who could compose verses; she was very eloquent, so she repeated these verses on Amarah the cuckold, and they were recollected by all the women and girls:”
 
@@ -60,7 +60,7 @@ Thou camest to us in the robes of dyed silk, thou black greasy kettle!
 
 As thou didst meet us, a lion met thee, whom all the lion-heroes acknowledge in the carnage:
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 Then fear trembled in thy heart—intoxication quitted thee, and thou wast restored to thy senses. Nothing but contempt remained for thee, when thou didst retire like a dunghill.
 

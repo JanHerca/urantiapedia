@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 1. The morning prayer \[may be said\] until noon. R. Jehudah saith, “until the fourth hour.” The ‏מנחה‎ prayer until the evening. R. Jehudah saith, “until \[the expiration\] of half the time \[appointed for\] the ‏מנחה‎ sacrifice. The evening prayer \[is not limited\] to any fixed time, and the ‏מוסף‎ \[additional prayer\] \[may be said\] all day. R. Jehudah saith, ”until the seventh hour \[only\].”
 
-§ 2. R. Nehooniah ben Hakanah used to pronounce a short prayer when he entered the Beth Hamedrash \[College\], and again <span id="p6">[<sup><small>p. 6</small></sup>]</span> when he left it. They \[the sages\] asked him, “What occasion \[authority\] is there for this prayer?” He answered them, “When I enter, I pray that no cause of offence may arise through me; and when I quit, I return thanks for my vocation \[as a teacher of the law\].”
+§ 2. R. Nehooniah ben Hakanah used to pronounce a short prayer when he entered the Beth Hamedrash \[College\], and again <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> when he left it. They \[the sages\] asked him, “What occasion \[authority\] is there for this prayer?” He answered them, “When I enter, I pray that no cause of offence may arise through me; and when I quit, I return thanks for my vocation \[as a teacher of the law\].”
 
 § 3. Rabbon Gamaliel saith, “Man must daily say the eighteen benedictions.” R. Joshua saith, “a compendium of the eighteen \[benedictions\].” R. Akivah saith, “If the ‏תפלה‎ is fluent in a man's mouth, he says the eighteen \[benedictions\]; if not, he only says a compendium of the eighteen \[benedictions\].”
 

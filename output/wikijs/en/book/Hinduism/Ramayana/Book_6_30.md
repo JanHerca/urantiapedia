@@ -64,7 +64,7 @@ His eyes aflame with wrath and pride:
 The good are offered to the base. \*
 Long-suffering, patience, gentle speech
 
-<span id="p443">[<sup><small>p. 443</small></sup>]</span>
+<span id="p443"><sup><small>[ p. 443 ]</small></sup></span>
 
 Their thankless hearts can never reach.
 The world to him its honour pays
@@ -183,7 +183,7 @@ Flashed in the monarch's diadem.
 There Gangá, tributary queen.
 And Sindhu  [^944] by his lord, were seen,
 
-<span id="p444">[<sup><small>p. 444</small></sup>]</span>
+<span id="p444"><sup><small>[ p. 444 ]</small></sup></span>
 
 And every stream and brook renowned
 In ancient story girt him round.
@@ -302,7 +302,7 @@ The whole stupendous work was done.
 O'er the broad way the Vánars sped,
 Nor swayed it with their countless tread.
 
-<span id="p445">[<sup><small>p. 445</small></sup>]</span>
+<span id="p445"><sup><small>[ p. 445 ]</small></sup></span>
 
 Exultant on the ocean strand
 Vibhíshan stood, and, mace in hand,
@@ -423,7 +423,7 @@ Where the gay Koïl's voice is loud.’
 &nbsp;&nbsp;&nbsp;&nbsp;This said, he ranged with warlike art
 Each body of the host apart.
 
-<span id="p446">[<sup><small>p. 446</small></sup>]</span>
+<span id="p446"><sup><small>[ p. 446 ]</small></sup></span>
 
 ‘There in the centre,’ Ráma cried,
 ‘Be Angad's place by Níla's side.
@@ -542,7 +542,7 @@ Their never-ending lines surveyd:
 Nor would they try, in mere despair,
 To count the countless legions there,
 
-<span id="p447">[<sup><small>p. 447</small></sup>]</span>
+<span id="p447"><sup><small>[ p. 447 ]</small></sup></span>
 
 That crowded valley, plain and hill,
 That pressed about each cave and rill.
@@ -666,7 +666,7 @@ Of warriors in the forest bred,
 Who hither bends his ruthless eye
 And shouts his fearful battle cry:
 
-<span id="p448">[<sup><small>p. 448</small></sup>]</span>
+<span id="p448"><sup><small>[ p. 448 ]</small></sup></span>
 
 Whose voice with pealing thunder shakes
 All Lanká, with the groves and lakes
@@ -783,7 +783,7 @@ And trembling at his coming fled.
 There on his foes he loved to sate
 The old hereditary hate.  [^951]
 
-<span id="p449">[<sup><small>p. 449</small></sup>]</span>
+<span id="p449"><sup><small>[ p. 449 ]</small></sup></span>
 
 Look, Gaja and Gaváksha show
 Their lust of battle with the foe.
@@ -899,7 +899,7 @@ Whose counsellors are blind and fools.
 Has death no terrors that ye dare
 To tempt your monarch to despair,
 
-<span id="p450">[<sup><small>p. 450</small></sup>]</span>
+<span id="p450"><sup><small>[ p. 450 ]</small></sup></span>
 
 From whose Imperial mandate flow
 Disgrace and honour, weal and woe?

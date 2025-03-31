@@ -33,13 +33,13 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ## ADHYÂYA IV, KHA<i>ND</i>A 1.
 
 1\. [^230]. Let him offer (<i>S</i>râddha oblations) every month to the fathers.
 
-2\. [^231]. Having invited an uneven number of Brâhma<i>n</i>as, versed in the Veda, at least three, to sit down as (representing) the fathers, <span id="p107">[<sup><small>p. 107</small></sup>]</span>
+2\. [^231]. Having invited an uneven number of Brâhma<i>n</i>as, versed in the Veda, at least three, to sit down as (representing) the fathers, <span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 3\. And having strewn sesamum into an uneven number of water-pots,
 
@@ -51,7 +51,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 7\. Assigning (the food) to them with the words, ‘N.N.! This to thee!’ he shall cause them to eat.
 
-8\. While they are eating, he shall murmur the Mahâvyâh<i>ri</i>tis, the Sâvitrî, the Madhuvâtîya-verses (Rig-veda I, 90, 6 seq.), and verses addressed to the Manes and to (Soma) Pavamâna. <span id="p108">[<sup><small>p. 108</small></sup>]</span>
+8\. While they are eating, he shall murmur the Mahâvyâh<i>ri</i>tis, the Sâvitrî, the Madhuvâtîya-verses (Rig-veda I, 90, 6 seq.), and verses addressed to the Manes and to (Soma) Pavamâna. <span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 9 [^233]. When they have finished with eating, he shall offer the lumps (of flour).
 
@@ -75,7 +75,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 5\. [^238]. No inviting (takes place here), nor the putting
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 (of food) into the fire, nor (do) the Vi<i>s</i>ve devâs (take part in this ceremony). ‘Relished?’—thus are they to be asked whether they are satiated. ‘May it approach (the fathers),’ instead of ‘imperishable.’
 
@@ -87,7 +87,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KHA<i>ND</i>A 3.
 
-1\. [^240]. Now (follows) the Sapi<i>nd</i>îkara<i>n</i>a (i.e. reception of a dead person into the community of Pi<i>nd</i>a-offerings with the other Manes). <span id="p110">[<sup><small>p. 110</small></sup>]</span>
+1\. [^240]. Now (follows) the Sapi<i>nd</i>îkara<i>n</i>a (i.e. reception of a dead person into the community of Pi<i>nd</i>a-offerings with the other Manes). <span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 2 [^241]. When one year has elapsed, or three half-months,
 
@@ -105,7 +105,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KHA<i>ND</i>A 4.
 
-1\. [^242]. Now (follows) the Âbhyudayika (i.e. the <i>S</i>râddha ceremony referring to good luck). <span id="p111">[<sup><small>p. 111</small></sup>]</span>
+1\. [^242]. Now (follows) the Âbhyudayika (i.e. the <i>S</i>râddha ceremony referring to good luck). <span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 2\. In the fortnight of the increasing moon, on an auspicious day,
 
@@ -131,7 +131,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 13\. [^249]. ‘The Nândîmukha Manes will I make speak,’ when he makes (the Brâhma<i>n</i>as) speak.
 
-14\. [^250]. ‘(Was it) well done?’—thus are they to be asked whether they are satiated. <span id="p112">[<sup><small>p. 112</small></sup>]</span>
+14\. [^250]. ‘(Was it) well done?’—thus are they to be asked whether they are satiated. <span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 15\. The rest is the same (as in the other kinds of <i>S</i>râddha rites), as far as it is not prohibited (by contrary rules).
 
@@ -151,7 +151,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 7\. ‘I praise Agni the Purohita’ (Rig-veda I, 1, 1), this one verse,
 
-8\. ‘The Kushumbhaka (mungoose?) has said it;’ ‘If thou criest, O bird, announce luck to us;’ ‘Sung by <i>G</i>amadagni;’ ‘In thy abode the whole world rests;’ <span id="p113">[<sup><small>p. 113</small></sup>]</span> ‘Come to our sacrifice, O you that are worthy of sacrifice, with care;’ ‘Whosoever, be he ours, be he alien;’ ‘Look on, look about;’ ‘Come here, Agni, the Maruts’ friend;’ ‘The oblation, O king, cooked for thee:’ each time two verses,
+8\. ‘The Kushumbhaka (mungoose?) has said it;’ ‘If thou criest, O bird, announce luck to us;’ ‘Sung by <i>G</i>amadagni;’ ‘In thy abode the whole world rests;’ <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> ‘Come to our sacrifice, O you that are worthy of sacrifice, with care;’ ‘Whosoever, be he ours, be he alien;’ ‘Look on, look about;’ ‘Come here, Agni, the Maruts’ friend;’ ‘The oblation, O king, cooked for thee:’ each time two verses,
 
 9\. [^254]. ‘That blessing and bliss we choose’—this one verse (the first and last verse of each Ma<i>nd</i>ala).
 
@@ -161,7 +161,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 12\. Murmur the Mahâvyâh<i>ri</i>tis, the Sâvitrî, and the auspicious hymns commencing from the beginning of the Veda,
 
-13\. And cause the teacher to pronounce auspicious wishes. <span id="p114">[<sup><small>p. 114</small></sup>]</span>
+13\. And cause the teacher to pronounce auspicious wishes. <span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 14\. Of this (ceremony) it is also said,
 
@@ -179,7 +179,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. In a place covered with herbs,
 
-4\. Having murmured the hymns sacred to the Sun, ‘Upwards that <i>G</i>âtavedas’ (Rig-veda I, 50), ‘The bright face of the gods’ (I, 115), Adoration to Mitra's (eye)' (X, 37), ‘From the sky (where he dwells) may Sûrya protect us’ (X, 158), <span id="p115">[<sup><small>p. 115</small></sup>]</span>
+4\. Having murmured the hymns sacred to the Sun, ‘Upwards that <i>G</i>âtavedas’ (Rig-veda I, 50), ‘The bright face of the gods’ (I, 115), Adoration to Mitra's (eye)' (X, 37), ‘From the sky (where he dwells) may Sûrya protect us’ (X, 158), <span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 5\. And having thrown clods of earth (on the ground) to the different quarters (of the horizon), from the left to the right, with the hymn, ‘A ruler indeed’ (Rig-veda X, 152), verse by verse,
 
@@ -205,7 +205,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 6\. [^260]. If a death (of relations) or birth has happened, for ten days;
 
-7\. [^261]. On the fourteenth days (of the fortnights), the new moon days, and the Ash<i>t</i>akâ days, <span id="p116">[<sup><small>p. 116</small></sup>]</span>
+7\. [^261]. On the fourteenth days (of the fortnights), the new moon days, and the Ash<i>t</i>akâ days, <span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 8 [^262]. And on misty days.
 
@@ -235,7 +235,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 21\. [^264]. When the sound of a Sâman is heard;
 
-22\. On a burial ground; <span id="p117">[<sup><small>p. 117</small></sup>]</span>
+22\. On a burial ground; <span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 23 [^265]. In a wilderness which belongs to the village;
 
@@ -285,7 +285,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 46\. While being anointed;
 
-47\. (In the neighbourhood) of a man who has to touch corpses (a corpse-bearer, &c.), of a woman that has recently been confined, or that has her courses, as (in the neighbourhood) of a <i>S</i>ûdra; <span id="p118">[<sup><small>p. 118</small></sup>]</span>
+47\. (In the neighbourhood) of a man who has to touch corpses (a corpse-bearer, &c.), of a woman that has recently been confined, or that has her courses, as (in the neighbourhood) of a <i>S</i>ûdra; <span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 48\. With veiled hands;
 
@@ -305,7 +305,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 8.
 
@@ -337,7 +337,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 15\. When he has recited, he embraces (his teacher's feet),
 
-16\. Says, ‘We have finished, sir!’ and (goes away) according to his business. <span id="p120">[<sup><small>p. 120</small></sup>]</span>
+16\. Says, ‘We have finished, sir!’ and (goes away) according to his business. <span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 17\. (He shall say,) ‘Leave! Pause meanwhile!’ according to some (teachers).
 
@@ -351,11 +351,11 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. [^274]. Having bathed,
 
-2\. And having submerged himself at the time prescribed for the bath, he satiates the deities: <span id="p121">[<sup><small>p. 121</small></sup>]</span>
+2\. And having submerged himself at the time prescribed for the bath, he satiates the deities: <span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 3 [^275]. 'Agni may satiate himself; Vâyu may satiate himself; Sûrya may satiate himself; Vish<i>n</i>u may satiate himself; Pra<i>n</i>âpati may satiate himself; Virûpâksha may satiate himself; Sahasrâksha may satiate himself; Soma, Brahman, the Vedas, the gods, the <i>Ri</i>shis, and all the metres, the word Om, the word VASHA_T_, the Mahâvyâh<i>n</i>tis, the Sâvitrî, the sacrifices, heaven and earth, the Nakshatras, the air, days and nights, the numbers, the twilights, the oceans, the rivers, the mountains, fields, herbs, trees, Gandharvas and Apsaras, the serpents, the birds, the Siddhas, the Sâdhyas, the Vipras, the Yakshas, the Rakshas, the beings that have these (Rakshas, &c.) at their end, may satiate themselves.
 
-‘I satiate the <i>S</i>ruti; I satiate the Sm<i>ri</i>ti; I satiate the firmness; I satiate the delight; I satiate <span id="p122">[<sup><small>p. 122</small></sup>]</span> the success; I satiate the thought; I satiate belief and insight, and the memory, cows and Brâhma<i>ri</i>as, movable and immovable things. All beings may satiate themselves!’—so far with the sacrificial cord suspended over the left shoulder.
+‘I satiate the <i>S</i>ruti; I satiate the Sm<i>ri</i>ti; I satiate the firmness; I satiate the delight; I satiate <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> the success; I satiate the thought; I satiate belief and insight, and the memory, cows and Brâhma<i>ri</i>as, movable and immovable things. All beings may satiate themselves!’—so far with the sacrificial cord suspended over the left shoulder.
 
 ## KHA<i>ND</i>A 10.
 
@@ -363,7 +363,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. Looking in the direction that belongs to the Manes (i.e. the south):
 
-3\. 'The (_Ri<i>shis) of the hundred (</i>Ri_<i>shis) of the hundred (</i>as), the (<i>Ri</i>shis) of the middle (Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>alas), G<i>shis) of the hundred (</i>tsamada, Vi<i>shis) of the hundred (</i>vâmitra, <i>G</i>amadagni, Vâmadeva, Atri, Bharadvâ<i>shis) of the hundred (</i>a, Vasish<i>shis) of the hundred (</i>a, the Pragâthas, the (<i>Ri</i>shis) of the Pavamâna hymns, the (<i>Ri</i>shis) of the short hymns and of the long hymns, Sumantu, <i>G</i>aimini, Vai<i>shis) of the hundred (</i>ampâyana, Paila, the Sûtras, the Bhâshyas, Gârgya, Babhru, Bâbhravya, Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>u, Mâ<i>shis) of the hundred (</i><i>shis) of the hundred (</i>avya, Gârgî Vâ<i>shis) of the hundred (</i>aknavî, <span id="p123">[<sup><small>p. 123</small></sup>]</span> Vadavâ Prâtitheyî, Sulabhâ Maitreyî (may satiate themselves).
+3\. 'The (_Ri<i>shis) of the hundred (</i>Ri_<i>shis) of the hundred (</i>as), the (<i>Ri</i>shis) of the middle (Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>alas), G<i>shis) of the hundred (</i>tsamada, Vi<i>shis) of the hundred (</i>vâmitra, <i>G</i>amadagni, Vâmadeva, Atri, Bharadvâ<i>shis) of the hundred (</i>a, Vasish<i>shis) of the hundred (</i>a, the Pragâthas, the (<i>Ri</i>shis) of the Pavamâna hymns, the (<i>Ri</i>shis) of the short hymns and of the long hymns, Sumantu, <i>G</i>aimini, Vai<i>shis) of the hundred (</i>ampâyana, Paila, the Sûtras, the Bhâshyas, Gârgya, Babhru, Bâbhravya, Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>u, Mâ<i>shis) of the hundred (</i><i>shis) of the hundred (</i>avya, Gârgî Vâ<i>shis) of the hundred (</i>aknavî, <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> Vadavâ Prâtitheyî, Sulabhâ Maitreyî (may satiate themselves).
 
 ‘(I satiate) Kahola Kaushîtaki, Mahâkaushîtaki, Suya<i>g</i><i>g</i>a <i>S</i>âṅkhâyana, Â<i>g</i>valâyana, Aitareya, Mahaitareya, Bhâradvâ<i>g</i>a, _G<i>g</i>n_ya, Paiṅgya, Mahâpaṅgya, Bâshkala, Gârgya, <i>S</i>âkalya, Mâ<i>g</i><i>g</i>ûkeya, Mahâdamatra, Audavâhi, Mahaudavâhi, Sauyâmi, <i>S</i>aunaki, _S<i>g</i>n_i, Gautami; and whatsoever other teachers there are, may they all satiate themselves.
 
@@ -397,7 +397,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9\. Let him not do his work with implements wasted by use.
 
-10\. [^278]. Let him not eat together (with his wife), <span id="p124">[<sup><small>p. 124</small></sup>]</span>
+10\. [^278]. Let him not eat together (with his wife), <span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 11 [^279]. Nor remnants (of food).
 
@@ -431,7 +431,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KHA<i>ND</i>A 12.
 
-1\. Every day he shall respectfully salute his teacher, <span id="p125">[<sup><small>p. 125</small></sup>]</span>
+1\. Every day he shall respectfully salute his teacher, <span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 2\. And his Gurus,
 
@@ -459,7 +459,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 14\. Nor with veiled hands.
 
-15\. Gods’-houses (he shall walk round) keeping the right side turned to them. <span id="p126">[<sup><small>p. 126</small></sup>]</span>
+15\. Gods’-houses (he shall walk round) keeping the right side turned to them. <span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 16 [^285]. Let him not run.
 
@@ -501,7 +501,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. Before it is done, he shall offer at the eastern boundary of his field a Bali to Heaven and Earth.
 
-3\. With a verse sacred to Heaven and Earth and with the words, ‘Adoration to Heaven and Earth!’ (he performs his) worship (to Heaven and Earth). <span id="p127">[<sup><small>p. 127</small></sup>]</span>
+3\. With a verse sacred to Heaven and Earth and with the words, ‘Adoration to Heaven and Earth!’ (he performs his) worship (to Heaven and Earth). <span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 4\. When the plough is being put into motion first, let a Brâhma<i>n</i>a touch the plough reciting this (verse), ‘For luck may us the plough-shares’ (Rig-veda IV, 57, 8).
 
@@ -531,7 +531,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. The _S<i>rava</i>n_a (oblation) he offers on the full moon day that falls under (the Nakshatra) _S<i>rava</i>th_âs, of the flour of fried barley, or of cooked food,
 
-2\. With (the words), ‘To Vish<i>n</i>u svâhâ! To (the Nakshatra) _S<i>n</i>n_a svâhâ! To the full moon of _S<i>n</i>n_a svâhâ! To the rainy season svâhâ!’ <span id="p128">[<sup><small>p. 128</small></sup>]</span>
+2\. With (the words), ‘To Vish<i>n</i>u svâhâ! To (the Nakshatra) _S<i>n</i>n_a svâhâ! To the full moon of _S<i>n</i>n_a svâhâ! To the rainy season svâhâ!’ <span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 3\. Having established the (sacred) domestic fire outside, and having mixed together fried grain and the flour of fried barley with butter, he sacrifices—
 
@@ -551,7 +551,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 11\. With (the words), ‘May the Lord of the celestial Serpents anoint (his eyelashes)! May the celestial Serpents anoint (their eyelashes)!’—he spirts out (small portions of collyrium) with a young Ku<i>s</i>a shoot.
 
-12\. With (the words), ‘May the Lori of the celestial Serpents look (at himself)! May the celestial Serpents look (at themselves)!’—he makes them look in a mirror. <span id="p129">[<sup><small>p. 129</small></sup>]</span>
+12\. With (the words), ‘May the Lori of the celestial Serpents look (at himself)! May the celestial Serpents look (at themselves)!’—he makes them look in a mirror. <span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 13\. With (the words), ‘Lord of the celestial Serpents, this is thy Bali! Celestial Serpents, this is your Bali!’—he makes a Bali-offering.
 
@@ -575,7 +575,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 16.
 
@@ -597,7 +597,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. In the morning, having taken a handfull of <i>S</i>amî leaves, Madhûka flowers, reeds, Apâmârga plants, and of <i>S</i>irîsha, Udumbara, Ku<i>s</i>a shoots, and jujube fruits, and an earth-clod (taken) out of a furrow,
 
-4\. Having put (all that) into a water-pot, <span id="p131">[<sup><small>p. 131</small></sup>]</span>
+4\. Having put (all that) into a water-pot, <span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 5 [^293]. And, after he has quickly repeated the Mahâvyâh<i>ri</i>tis and the Sâvitrî, having repeatedly immersed (it) therein with this hymn, ‘May he burn away from us pain’ (Rig-veda I, 97), he shall drive away the evil from the persons standing under his protection, from left to right, and pour out (the water) to the north.
 
@@ -614,7 +614,7 @@ Beat away, O white one, with thy foot, with the forefoot and with the hind-foot,
 
 2\. ‘May a good winter, a good spring, a good summer be bestowed (on us). May the rains be to us happy rains; may the autumns be blessed to us.’
 
-3\. With (the verse), ‘Blessing on us, Mitra’ (Rig-veda I, 90, 9), he sweeps (the floor) with a Palâ<i>s</i>a branch, <span id="p132">[<sup><small>p. 132</small></sup>]</span>
+3\. With (the verse), ‘Blessing on us, Mitra’ (Rig-veda I, 90, 9), he sweeps (the floor) with a Palâ<i>s</i>a branch, <span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 4\. Sprinkles (it with water) with (the verse), ‘From the sea the wave’ (Rig-veda IV, 58, 1),
 

@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 3. If an inhabitant of an \[open\] town [^584] had gone to an \[anciently\] walled town, [^585] or one of \[an anciently\] walled town had gone to an \[open\] town; if he intend to return \[when the Meguillah is read\] to his place, he shall read it at the same time they read it in his place; if not, he shall read it with the inhabitants of the place in which he then is. From whence is it necessary to have commenced the reading of the Meguillah, so as to have duly fulfilled the obligation? R. Meir saith, “It is obligatory to read the whole.” R. Jehudah says, “It suffices if he commenced ‏איש יהודי‎ (Esther ii. 5).” R. José saith, “\[Even if\] from ‏אחר הדברים האלה‎ (Esther iii).”
 
-<span id="p185">[<sup><small>p. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 § 4. All are qualified to read the Meguillah, with the exception of a deaf or a foolish person, or a minor; but R. Jehudah allows it to be said by a minor. The following religious acts may not be done before sun-rise on the day on which they are obligatory, viz.:—To read the Meguillah, to circumcise, to bathe \[on the seventh day of the purification of an unclean or defiled person\], to sprinkle \[the unclean as a purification\]; nor may a woman \[who had experienced her menses beyond the usual time, and who was to\] wait a day \[before she might bathe\] [^586] do so before the sun-rise of that day. But if any of these acts have been done at any period after day-break, they are valid.
 

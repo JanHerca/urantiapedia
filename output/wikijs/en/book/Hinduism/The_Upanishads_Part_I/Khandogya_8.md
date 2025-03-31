@@ -36,7 +36,7 @@ EIGHTH PRAPÂ<i>TH</i>AKA.
 
 ## FIRST KHANDA [^325].
 
-1\. Hari<i>h</i>, Om. There is this city of Brahman (the body), and in it the palace, the small lotus (of <span id="p126">[<sup><small>p. 126</small></sup>]</span> the heart), and in it that small ether. Now what exists within that small ether, that is to be sought for, that is to be understood.
+1\. Hari<i>h</i>, Om. There is this city of Brahman (the body), and in it the palace, the small lotus (of <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> the heart), and in it that small ether. Now what exists within that small ether, that is to be sought for, that is to be understood.
 
 2\. And if they should say to him: ‘Now with regard to that city of Brahman, and the palace in it, i. e. the small lotus of the heart, and the small ether within the heart, what is there within it that deserves to be sought for, or that is to be understood?’
 
@@ -44,7 +44,7 @@ EIGHTH PRAPÂ<i>TH</i>AKA.
 
 4\. And if they should say to him: ‘If everything that exists is contained in that city of Brahman, all beings and all desires (whatever can be imagined or desired), then what is left of it, when old age reaches it and scatters it, or when it falls to pieces?’
 
-5\. Then he should say: 'By the old age of the body, that (the ether, or Brahman within it) does not age; by the death of the body, that (the ether, or Brahman within it) is not killed. That (the Brahman) <span id="p127">[<sup><small>p. 127</small></sup>]</span> is the true Brahma-city (not the body [^327]). In it all desires are contained. It is the Self, free from sin, free from old age, from death and grief, from hunger and thirst, which desires nothing but what it ought to desire, and imagines nothing but what it ought to imagine. Now as here on earth people follow as they are commanded, and depend on the object which they are attached to, be it a country or a piece of land,
+5\. Then he should say: 'By the old age of the body, that (the ether, or Brahman within it) does not age; by the death of the body, that (the ether, or Brahman within it) is not killed. That (the Brahman) <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> is the true Brahma-city (not the body [^327]). In it all desires are contained. It is the Self, free from sin, free from old age, from death and grief, from hunger and thirst, which desires nothing but what it ought to desire, and imagines nothing but what it ought to imagine. Now as here on earth people follow as they are commanded, and depend on the object which they are attached to, be it a country or a piece of land,
 
 6\. 'And as here on earth, whatever has been acquired by exertion, perishes, so perishes whatever is acquired for the next world by sacrifices and other good actions performed on earth. Those who depart from hence without having discovered the Self and those true desires, for them there is no freedom in all the worlds. But those who depart from hence, after having discovered the Self and those true desires [^328], for them there is freedom in all the worlds.
 
@@ -52,7 +52,7 @@ EIGHTH PRAPÂ<i>TH</i>AKA.
 
 1\. 'Thus he who desires the world [^329] of the fathers, by his mere will the fathers come to receive him, and having obtained the world of the fathers, he is happy.
 
-2\. 'And he who desires the world of the mothers, by his mere will the mothers come to receive him, <span id="p128">[<sup><small>p. 128</small></sup>]</span> and having obtained the world of the mothers, he is happy.
+2\. 'And he who desires the world of the mothers, by his mere will the mothers come to receive him, <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> and having obtained the world of the mothers, he is happy.
 
 3\. 'And he who desires the world of the brothers, by his mere will the brothers come to receive him, and having obtained the world of the brothers, he is happy.
 
@@ -71,7 +71,7 @@ EIGHTH PRAPÂ<i>TH</i>AKA.
 ‘Whatever object he is attached to, whatever object he desires, by his mere will it comes to him, and having obtained it, he is happy.
 
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 ## THIRD KHA<i>N</i><i>D</i>A.
 
@@ -81,7 +81,7 @@ EIGHTH PRAPÂ<i>TH</i>AKA.
 
 3\. 'That Self abides in the heart. And this is the etymological explanation. The heart is called h<i>ri</i>d-ayam, instead of h<i>ri</i>dy-ayam, i. e. He who is in the heart. He who knows this, that He is in the heart, goes day by day (when in sushupti, deep sleep) into heaven (svarga), i.e. into the: Brahman of the heart.
 
-4\. ‘Now that serene being [^331] which, after having <span id="p130">[<sup><small>p. 130</small></sup>]</span> risen from out this earthly body, and having reached the highest light (self-knowledge), appears in its true form, that is the Self,’ thus he spoke (when asked by his pupils). This is the immortal, the fearless, this is Brahman. And of that Brahman the name is the True, Satyam,
+4\. ‘Now that serene being [^331] which, after having <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> risen from out this earthly body, and having reached the highest light (self-knowledge), appears in its true form, that is the Self,’ thus he spoke (when asked by his pupils). This is the immortal, the fearless, this is Brahman. And of that Brahman the name is the True, Satyam,
 
 5\. This name Sattyam consists of three syllables, sat-tî-yam [^332]. Sat signifies the immortal, t, the mortal, and with yam he binds both. Because he binds both, the immortal and the mortal, therefore it is yam. He who knows this goes day by day into heaven (svarga).
 
@@ -91,7 +91,7 @@ EIGHTH PRAPÂ<i>TH</i>AKA.
 
 2\. Therefore he who has crossed that bank, if blind, ceases to be blind; if wounded, ceases to be wounded; if afflicted, ceases to be afflicted. Therefore when that bank has been crossed, night becomes day indeed, for the world of Brahman is lighted up once for all [^334].
 
-3\. And that world of Brahman belongs to those <span id="p131">[<sup><small>p. 131</small></sup>]</span> only who find it by abstinence—for them there is freedom in all the worlds.
+3\. And that world of Brahman belongs to those <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> only who find it by abstinence—for them there is freedom in all the worlds.
 
 ## FIFTH KHA<i>N</i><i>D</i>A.
 
@@ -110,11 +110,11 @@ What people call a hermit's life (ara<i>n</i>yâyana), that is really abstinence
 Now that world of Brahman belongs to those who find the lakes Ara and <i>N</i>ya in the world of Brahman by means of abstinence; for them there is freedom in all the worlds [^337].
 
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 ## SIXTH KHA<i>N</i><i>D</i>A.
 
-1\. Now those arteries of the heart consist of a brown substance, of a white, blue, yellow, and red <span id="p133">[<sup><small>p. 133</small></sup>]</span> substance, and so is the sun brown, white, blue, yellow, and red.
+1\. Now those arteries of the heart consist of a brown substance, of a white, blue, yellow, and red <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> substance, and so is the sun brown, white, blue, yellow, and red.
 
 2\. As a very long highway goes to two places, to one at the beginning, and to another at the end, so do the rays of the sun go to both worlds, to this one and to the other. They start from the sun, and enter into those arteries; they start from those arteries, and enter into the sun.
 
@@ -124,7 +124,7 @@ Now that world of Brahman belongs to those who find the lakes Ara and <i>N</i>ya
 
 5\. But when he departs from this body, then he departs upwards by those very rays (towards the worlds which he has gained by merit, not by knowledge); or he goes out while meditating on Om [^339] (and thus securing an entrance into the Brahmaloka).
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 And while his mind is failing, he is going to the sun. For the sun is the door of the world (of Brahman). Those who know, walk in; those who do not know, are shut out. There is this verse [1](Khandogya_8#fn340): ‘There are a hundred and one arteries of the heart; one of them penetrates the crown of the head; moving upwards by it a man reaches the immortal; the others serve for departing in different directions, yea, in different directions [2](Khandogya_8#fn341).’
 
@@ -134,7 +134,7 @@ And while his mind is failing, he is going to the sun. For the sun is the door o
 
 2\. The Devas (gods) and Asuras (demons) both heard these words, and said: ‘Well, let us search for that Self by which, if one has searched it out, all worlds and all desires are obtained.’
 
-Thus saying Indra went from the Devas, Viro<i>k</i>ana from the Asuras, and both, without having communicated with each other, approached Pra<i>g</i>âpati, <span id="p135">[<sup><small>p. 135</small></sup>]</span> holding fuel in their hands, as is the custom for pupils approaching their master.
+Thus saying Indra went from the Devas, Viro<i>k</i>ana from the Asuras, and both, without having communicated with each other, approached Pra<i>g</i>âpati, <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> holding fuel in their hands, as is the custom for pupils approaching their master.
 
 3\. They dwelt there as pupils for thirty-two years. Then Pra<i>g</i>âpati asked them: ‘For what purpose have you both dwelt here?’
 
@@ -147,7 +147,7 @@ They asked: ‘Sir, he who is perceived in the water, and he who is perceived in
 He replied: ‘He himself indeed is seen in all these [^344].’
 
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 ## EIGHTH KHA<i>N</i><i>D</i>A.
 
@@ -171,7 +171,7 @@ Then both went away satisfied in their hearts.
 
 4\. And Pra<i>g</i>âpati, looking after them, said: ‘They both go away without having perceived and without having known the Self, and whoever of these two [^346], whether Devas or Asuras, will follow this doctrine (upanishad), will perish.’
 
-Now Virokana, satisfied in his heart, went to the Asuras and preached that doctrine to them, that the self (the body) alone is to be worshipped, that the <span id="p137">[<sup><small>p. 137</small></sup>]</span> self (the body) alone is to be served, and that he who worships the self and serves the self, gains both worlds, this and the next.
+Now Virokana, satisfied in his heart, went to the Asuras and preached that doctrine to them, that the self (the body) alone is to be worshipped, that the <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> self (the body) alone is to be served, and that he who worships the self and serves the self, gains both worlds, this and the next.
 
 5\. Therefore they call even now a man who does not give alms here, who has no faith, and offers no sacrifices, an Âsura, for this is the doctrine (upanishad) of the Asuras. They deck out the body of the dead with perfumes, flowers, and fine raiment by way of ornament, and think they will thus conquer that world [^347].
 
@@ -181,7 +181,7 @@ Now Virokana, satisfied in his heart, went to the Asuras and preached that doctr
 
 2\. Taking fuel in his hand he came again as a pupil to Pra<i>g</i>âpati. Pra<i>g</i>âpati said to him: ‘Maghavat (Indra), as you went away with Virokana, satisfied in your heart, for what purpose did you come back?’
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 He said: ‘Sir, as this self (the shadow) is well adorned, when the body is well adorned, well dressed, when the body is well dressed, well cleaned, if the body is well cleaned, that self will also be blind, if the body is blind, lame, if the body is lame, crippled, if the body is crippled, and will perish in fact as soon as the body perishes. Therefore I see no good in this (doctrine).’
 
@@ -195,7 +195,7 @@ He lived with him another thirty-two years, and then Pra<i>g</i>âpati said:
 
 Then Indra went away satisfied in his heart. But before he had returned to the Devas, he saw this difficulty. Although it is true that that self is not blind, even if the body is blind, nor lame, if the body is lame, though it is true that that self is not rendered faulty by the faults of it (the body),
 
-2\. Nor struck when it (the body) is struck, nor lamed when it is lamed, yet it is as if they struck him (the self) in dreams, as if they chased him [^350]. <span id="p139">[<sup><small>p. 139</small></sup>]</span> He becomes even conscious, as it were, of pain, and sheds tears. Therefore I see no good in this.
+2\. Nor struck when it (the body) is struck, nor lamed when it is lamed, yet it is as if they struck him (the self) in dreams, as if they chased him [^350]. <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> He becomes even conscious, as it were, of pain, and sheds tears. Therefore I see no good in this.
 
 3\. Taking fuel in his hands, he went again as a pupil to Pra<i>g</i>âpati. Pra<i>g</i>âpati said to him: ‘Maghavat, as you went away satisfied in your heart, for what purpose did you come back?’
 
@@ -207,7 +207,7 @@ He said: 'Sir, although it is true that that self is not blind even if the body 
 
 He lived with him another thirty-two years. Then Pra<i>g</i>âpati said:
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 ## ELEVENTH KHA<i>N</i><i>D</i>A.
 
@@ -225,13 +225,13 @@ He lived there other five years. This made in all one hundred and one years, and
 
 ## TWELFTH KHA<i>N</i><i>D</i>A.
 
-1\. 'Maghavat, this body is mortal and always held by death. It is the abode of that Self which is <span id="p141">[<sup><small>p. 141</small></sup>]</span> immortal and without body [^353]. When in the body (by thinking this body is I and I am this body) the Self is held by pleasure and pain. So long as he is in the body, he cannot get free from pleasure and pain. But when he is free of the body (when he knows himself different from the body), then neither pleasure nor pain touches him [^354].
+1\. 'Maghavat, this body is mortal and always held by death. It is the abode of that Self which is <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> immortal and without body [^353]. When in the body (by thinking this body is I and I am this body) the Self is held by pleasure and pain. So long as he is in the body, he cannot get free from pleasure and pain. But when he is free of the body (when he knows himself different from the body), then neither pleasure nor pain touches him [^354].
 
 2\. 'The wind is without body, the cloud, lightning, and thunder are without body (without hands, feet, &c.) Now as these, arising from this heavenly ether (space), appear in their own form, as soon as they have approached the highest light,
 
 3\. 'Thus does that serene being, arising from this body, appear in its own form, as soon as it has approached the highest light (the knowledge of Self [^355]) He (in that state) is the highest person (uttama pûrusha). He moves about there laughing (or eating), playing, and rejoicing (in his mind), be it with women, carriages, or relatives, never minding that body into which he was born [^356].
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 ‘Like as a horse attached to a cart, so is the spirit [^357] (prâ<i>n</i>a, pra<i>g</i>ñâtman) attached to this body.
 
@@ -242,7 +242,7 @@ He lived there other five years. This made in all one hundred and one years, and
 ‘The Devas who are in the world of Brahman meditate on that Self (as taught by Pra<i>g</i>âpati to Indra, and by Indra to the Devas). Therefore all worlds belong to them, and all desires. He who knows that Self and understands it, obtains all worlds and all desires.’ Thus said Pra<i>g</i>âpati, yea, thus said Pra<i>g</i>âpati.
 
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 ## THIRTEENTH KHA<i>N</i><i>D</i>A [^359].
 
@@ -258,7 +258,7 @@ I come to the hall of Pra<i>g</i>âpati, to the house; I am the glorious among B
 
 
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 ## FIFTEENTH KHA<i>N</i><i>D</i>A.
 

@@ -32,14 +32,14 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 
 THE Master remained in Cravasti for some time; then he left, to return to Rajagriha where King Vimbasara awaited him. He had stopped to rest in a village that was about halfway, when he saw seven men approaching. He recognized them. Six were relatives, and they were among the wealthiest and most powerful of the Sakyas. Their names were Anuruddha, Bhadrika, Bhrigu, Kimbala, Devadatta and Ananda. The seventh was a barber named Upali.
 
 Anuruddha, one day had said to himself that it was a disgrace that none of the Sakyas had seen fit to follow the Buddha. He decided to set a good example, and as there was no reason for hiding his intention, he mentioned it first to Bhadrika, who was his best friend. Bhadrika approved of his decision, and after giving it some thought, resolved to do likewise. These two then won over Ananda, Bhrigu, Kimbala and Devadatta, by convincing them that there was no higher calling than that of a monk.
 
-The six princes then set out to join the Buddha. <span id="p197">[<sup><small>p. 197</small></sup>]</span> They had hardly left Kapilavastu when Ananda, glancing at Bhadrika, exclaimed:
+The six princes then set out to join the Buddha. <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> They had hardly left Kapilavastu when Ananda, glancing at Bhadrika, exclaimed:
 
 “How now, Bhadrika! You would lead a life of holiness, and you keep all your jewels?”
 
@@ -59,7 +59,7 @@ The others also handed their jewels to Upali. He was at a loss for an answer. Wh
 
 Anuruddha understood the barber's hesitation. He said to him:
 
-“Do not be afraid to accept these jewels. We are on our way to join the great hermit who was born to the Sakyas, we are on our way to join Siddhartha, who has become the Buddha. He will instruct <span id="p198">[<sup><small>p. 198</small></sup>]</span> us in the knowledge, and we shall submit to his rule.”
+“Do not be afraid to accept these jewels. We are on our way to join the great hermit who was born to the Sakyas, we are on our way to join Siddhartha, who has become the Buddha. He will instruct <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> us in the knowledge, and we shall submit to his rule.”
 
 “Princes,” asked the barber, “are you going to become monks?”
 
@@ -75,7 +75,7 @@ He followed the princes at a distance. He was shy about joining them. Bhadrika h
 
 “Then walk with us,” said Bhadrika.
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 But Upali still hung back. Anuruddha said to him:
 

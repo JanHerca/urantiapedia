@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T23:40:9Z
   </table>
 </figure>
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 ## OF THE MOST HOLY STIGMATA OF ST. FRANCIS AND OF THEIR CONSIDERATIONS
 
@@ -57,7 +57,7 @@ _The third consideration will be touching the seraphic vision and the imprinting
 
 _The fourth consideration will be how St. Francis descended from the mountain of Alvernia, after he had_ 
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 _received the sacred stigmata, and returned to Santa Maria degli Angeli._
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 SECOND LECTURE, CALLED BEGGING FOR A COUCH [^376].
 
@@ -42,7 +42,7 @@ If a monk or a nun want to ask for a lodging, and having entered a village or sc
 
 But if the lodging contains only few eggs or few living beings, &c., they may, after having inspected and cleaned it, circumspectly use it for religious postures, &c. Now, if they conceive that the householder, for the sake of a Nirgrantha and on behalf of a fellow-ascetic (male or female, one or many), gives a lodging which he has bought or stolen or taken, though it was not to be taken nor given, but was taken by force, by acting sinfully towards all sorts of living beings, they should not use for religious postures, &c., such a lodging which has been appropriated by the giver himself, &c. (see II, I, I, § 1i).
 
-The same holds good if there be instead of a fellow-ascetic many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, guests, paupers, and beggars. But if the lodging has been <span id="p121">[<sup><small>p. 121</small></sup>]</span> appropriated by another man than the giver, &c., they may, after having inspected and cleaned it, circumspectly use it for religious postures, &c. (2)
+The same holds good if there be instead of a fellow-ascetic many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, guests, paupers, and beggars. But if the lodging has been <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> appropriated by another man than the giver, &c., they may, after having inspected and cleaned it, circumspectly use it for religious postures, &c. (2)
 
 A monk or a nun, knowing that the layman has, for the sake of the mendicant, matted the lodging, whitewashed it, strewn it (with grass, &c.), smeared it (with cowdung), levelled, smoothed, or perfumed it (or the floor of it), should not use that lodging, which has been prepared by the giver himself, &c., for religious postures. But if it has been prepared by another person, &c., they may circumspectly use it for religious postures. (3)
 
@@ -52,7 +52,7 @@ Again, a monk or a nun, knowing that the layman, for the sake of the mendicant, 
 
 A monk or a nun, knowing that the layman, for the sake of the mendicant, removes from one place to another, or places outside, a chair or a board or a ladder or a mortar, should not use such a lodging-place, &c. (all as at the end of the last paragraph). (6)
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 A monk or a nun should not use for religious postures, &c., a lodging-place above ground, as a pillar or a raised platform or a scaffold or a second story or a flat roof, likewise no underground place (except under urgent circumstances). If by chance they are thus lodged, they should there not wash or clean their hands or feet or eyes or teeth or mouth with hot or cold water; nor should they put forth there any other secretion, as excrements, urine, saliva, mucus, bilious humour, ichor, blood, or any other part of the bodily humours.
 
@@ -60,7 +60,7 @@ The Kevalin says: This is the reason: Making secretions he might stumble or fall
 
 A monk or a nun on a begging-tour should not use, for religious postures, a lodging-place used by the householder, in which there are women, children, cattle, food, and drink. This is the reason: A mendicant living together with a householder's family may have an attack of gout, dysentery, or vomiting; or some other pain, illness, or disease may befall him; the layman might, out of compassion, smear or anoint the mendicant's body with oil or ghee or butter or grease, rub or shampoo it with perfumes, drugs, lodhra, dye, powder, padmaka, then brush or rub it clean; clean, wash, or sprinkle it with hot or cold water, kindle or light a fire by rubbing wood on wood; and having done so, he might dry or warm (the mendicant's body).
 
-Hence it has been said to the mendicant, &c., <span id="p123">[<sup><small>p. 123</small></sup>]</span> that he should not use for religious postures, &c., a lodging-place which is used by the householder. (8)
+Hence it has been said to the mendicant, &c., <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> that he should not use for religious postures, &c., a lodging-place which is used by the householder. (8)
 
 This is (another) reason: While a mendicant lives in a lodging used by the householder, the householder or his wife, &c., might bully, scold [^378], attack or beat each other. Then the mendicant might direct his mind to approval or dislike.: ‘Let them bully each other!’ or, ‘Let them not bully each other!’ &c. &c.
 
@@ -70,7 +70,7 @@ This is (another) reason: While the mendicant lives together with householders, 
 
 Hence it has been said to the mendicant, &c. (see above). (10)
 
-This is (another) reason: While the mendicant lives together with householders, he might see the householder's earrings or girdle or jewels or pearls or gold and silver [^379] or bracelets (those round the wrist and those round the upper arm) or necklaces (those consisting of three strings, or those reaching halfway down the body, or those consisting of eighty <span id="p124">[<sup><small>p. 124</small></sup>]</span> strings or forty strings or one string or strings of pearls, golden beads or jewels) or a decked or ornamented girl or maiden. Thus the mendicant might direct his mind to approval or dislike: ‘Let her be thus;’ or, ‘Let her not be thus.’ So he might say, so he might think. Hence it has been said to the mendicant, &c. (see above). (11)
+This is (another) reason: While the mendicant lives together with householders, he might see the householder's earrings or girdle or jewels or pearls or gold and silver [^379] or bracelets (those round the wrist and those round the upper arm) or necklaces (those consisting of three strings, or those reaching halfway down the body, or those consisting of eighty <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> strings or forty strings or one string or strings of pearls, golden beads or jewels) or a decked or ornamented girl or maiden. Thus the mendicant might direct his mind to approval or dislike: ‘Let her be thus;’ or, ‘Let her not be thus.’ So he might say, so he might think. Hence it has been said to the mendicant, &c. (see above). (11)
 
 This is (another) reason: While a mendicant lives together with householders, the householder's wives, daughters, daughters-in-law, nurses, slave-girls or servant-girls might say: ‘These reverend <i>S</i>rama<i>n</i>as, &c., have ceased from sexual intercourse; it behoves them not to indulge in sexual intercourse: whatever woman indulges with them in sexual intercourse, will have a strong, powerful, illustrious, glorious, victorious son of heavenly beauty.’ Hearing and perceiving such talk, one of them might induce the mendicant ascetic to indulge in sexual intercourse.
 
@@ -87,7 +87,7 @@ Thus I say. (12)
 
 Some householders are of clean habits and the mendicants, because they never bathe, are covered with uncleanliness; they smell after it, they smell badly, they are disagreeable, they are loathsome. Hence the householders, with regard to the mendicant, put off some work which otherwise they would have done before, and do some work which otherwise they would have put off.
 
-Hence it has been said to the mendicant, &c., <span id="p125">[<sup><small>p. 125</small></sup>]</span> that he should not use, for religious postures, &c., a lodging used by the householder. (1)
+Hence it has been said to the mendicant, &c., <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> that he should not use, for religious postures, &c., a lodging used by the householder. (1)
 
 This is the reason: While a mendicant lives together with householders, the householder might, for his own sake, have prepared something to eat. Then, afterwards, he might, for the sake of the mendicant, prepare or dress food, &c., and the mendicant might desire to eat or drink or swallow it.
 
@@ -97,7 +97,7 @@ This is the reason: While the mendicant lives together with a householder, there
 
 Hence it has been said to the mendicant, &c. (see above). (3)
 
-When in the night or twilight a mendicant, to ease nature, leaves the door open, a thief, watching for an occasion, might enter. It is not meet for the mendicant to say: This thief enters or does not enter, he hides himself or does not hide himself, he creeps in or does not creep in, he speaks or does not speak; he has taken it, another has taken it, it is taken from that man; this is the thief, this is the accomplice, this is the murderer, he has done so [^380]. The householder will suspect the ascetic, the mendicant, <span id="p126">[<sup><small>p. 126</small></sup>]</span> who is not a thief, to be the thief. Hence it has been said to the mendicant, &c. (4)
+When in the night or twilight a mendicant, to ease nature, leaves the door open, a thief, watching for an occasion, might enter. It is not meet for the mendicant to say: This thief enters or does not enter, he hides himself or does not hide himself, he creeps in or does not creep in, he speaks or does not speak; he has taken it, another has taken it, it is taken from that man; this is the thief, this is the accomplice, this is the murderer, he has done so [^380]. The householder will suspect the ascetic, the mendicant, <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> who is not a thief, to be the thief. Hence it has been said to the mendicant, &c. (4)
 
 A monk or a nun should not use, for religious postures, &c., sheds of grass or straw which contain eggs, living beings, &c. But they may do so if they contain few eggs, few living beings, &c. (5)
 
@@ -107,19 +107,19 @@ A mendicant should not stay in halting-places, garden houses, family houses, mon
 
 2\. If the reverend persons repeatedly live in halting-places, &c., after staying there for the proper time, without passing two or three intermediate months somewhere else, (he should say): ‘O long-lived one! you sin by repeating your retreat in the same place.’ (7)
 
-3\. Here, in the east, west, north, or south, there are, forsooth, some faithful householders, householders' wives, &c., who are not well acquainted with the rules of monastic life (with regard to the fitness of lodging-places); nevertheless they believe in, perceive, are convinced of, (the merit of) giving lodging to mendicants. They (accordingly) give lodging-places for the sake of many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, guests, paupers, and beggars, in workshops, chapels, temples, assembly halls, wells, houses or halls for shopkeeping or for keeping or building carriages, distilleries, houses where Darbha-grass, <span id="p127">[<sup><small>p. 127</small></sup>]</span> bark, trees, wood or charcoal are being worked, houses on burial-places, rooms for retirement near the place of sacrifice [^382], empty houses, hill-houses, caves, stone-houses, or palaces. He should say to those reverend persons who live in such-like places as workshops, &c., together with other guests: ‘O long-lived one! you sin by living in a place frequented by other sectarians.’ (8)
+3\. Here, in the east, west, north, or south, there are, forsooth, some faithful householders, householders' wives, &c., who are not well acquainted with the rules of monastic life (with regard to the fitness of lodging-places); nevertheless they believe in, perceive, are convinced of, (the merit of) giving lodging to mendicants. They (accordingly) give lodging-places for the sake of many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, guests, paupers, and beggars, in workshops, chapels, temples, assembly halls, wells, houses or halls for shopkeeping or for keeping or building carriages, distilleries, houses where Darbha-grass, <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> bark, trees, wood or charcoal are being worked, houses on burial-places, rooms for retirement near the place of sacrifice [^382], empty houses, hill-houses, caves, stone-houses, or palaces. He should say to those reverend persons who live in such-like places as workshops, &c., together with other guests: ‘O long-lived one! you sin by living in a place frequented by other sectarians.’ (8)
 
 4\. Here, in the east, &c. They accordingly give, &c. (all as in §8 down to) palaces. If the mendicants come there while the other religious men do not come there, they sin by living in a place not frequented by other mendicants. (9)
 
 5\. In the east, west, north, or south there are faithful householders, viz. a householder or his wife, &c., who will speak thus: ‘It is not meet that these illustrious, pious, virtuous, eloquent, controlled, chaste ascetics, who have ceased from sexual intercourse, should dwell in a lodging which is âdhâkarmika [^383]: let us give to the mendicants the lodgings which are ready for our use, viz. workshops, &c., and let us, afterwards, prepare lodgings for our own use, viz. workshops, &c.’ Hearing and perceiving such talk, if the reverend persons frequent such-like lodgings, viz. workshops, &c., and live in them which are ceded by other people (they should be warned): ‘O long-lived one! that (lodging is infected by the sin called) var<i>g</i>akriyâ.’ (10)
 
-6\. Here, in the east, &c. (see § 8 all down to) they give lodging-places for the sake of many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, guests, paupers, and beggars, after having well counted them, in workshops, &c. <span id="p128">[<sup><small>p. 128</small></sup>]</span> If the reverend persons frequent such-like lodgings, viz. workshops, &c., and live in them which are ceded by other people (they should be warned): ‘O long-lived one! that (lodging is infected by the sin called) mahâvar<i>g</i>akriyâ.’ (11)
+6\. Here, in the east, &c. (see § 8 all down to) they give lodging-places for the sake of many <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as, guests, paupers, and beggars, after having well counted them, in workshops, &c. <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> If the reverend persons frequent such-like lodgings, viz. workshops, &c., and live in them which are ceded by other people (they should be warned): ‘O long-lived one! that (lodging is infected by the sin called) mahâvar<i>g</i>akriyâ.’ (11)
 
 7\. Here, in the east, &c. They accordingly give, for the sake of many sorts of <i>S</i>rama<i>n</i>as [^384], after having well counted them, lodging-places, viz. workshops, &c. If the reverend persons frequent such-like lodgings, viz. workshops, &c., and live in them which are ceded by other people (they should be warned): ‘O long-lived one! that (lodging is infected by the sin called) sâvadyakriyâ.’ (12)
 
 8\. Here, in the east, &c. They accordingly prepare, for the sake of one sort of <i>S</i>rama<i>n</i>as, lodgings, viz. workshops, &c., for which purpose great injury is done to the earth, water, fire, wind-bodies, plants, and animals, great injury, great cruelty, great and manifold sinful acts; by wasting cold water or strewing (the ground), smearing it with cowdung, shutting the doors and securing the bed, lighting a fire. If the reverend persons frequent such-like lodgings, viz. workshops, &c., and lead in such ceded lodgings an ambiguous [^385] life (they should be warned): ‘O long-lived one! that (lodging is infected by the sin called) mahâsâvadyakriyâ.’ (is)
 
-9\. But if the lodgings, viz. workshops, &c., are <span id="p129">[<sup><small>p. 129</small></sup>]</span> prepared by the householders for their own sake under the same circumstances as detailed in the preceding paragraph, and the reverend persons frequent such-like lodgings, they lead, in those lodgings, an unambiguous life. ‘O long-lived one! that (lodging is infected by the very small sin called) alpasâvadyakriyâ.’
+9\. But if the lodgings, viz. workshops, &c., are <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> prepared by the householders for their own sake under the same circumstances as detailed in the preceding paragraph, and the reverend persons frequent such-like lodgings, they lead, in those lodgings, an unambiguous life. ‘O long-lived one! that (lodging is infected by the very small sin called) alpasâvadyakriyâ.’
 
 This is the whole duty, &c.
 
@@ -138,7 +138,7 @@ Some householders (who, having learned the requisites of a lodging-place, fit on
 
 Explaining [^387] thus, he truly explains. (The teacher says): Well, he is (an explainer of the truth). (1)
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 If a mendicant, at night or at the twilight, leaves or enters a small lodging, one with a small door, a low or crammed lodging, (he should put forward) first his hand, then his foot, and thus circumspectly leave or enter it.
 
@@ -146,7 +146,7 @@ The Kevalin says: This is the reason: There might be a badly bound, badly placed
 
 Hence it has been said to the mendicant, &c., that one (should put forward) first the hand, then the foot, and thus circumspectly leave or enter such a lodging. (2)
 
-He (the mendicant) should, at halting-places, &c., ask for a lodging-place, after having inquired who is the landlord or who is the tenant. H e should ask permission to use the lodging-place in this way: ‘By your favour, O long-lived one! we shall dwell here for a while (for the time and in the place) which you will concede.’ (If the landlord should object and say that he owns the lodging for a limited time only, or if he asks for the number of monks for which the lodging is required, he should answer) [^388]: ‘As long as this lodging belongs to you, (or) for the sake of as <span id="p131">[<sup><small>p. 131</small></sup>]</span> many fellow-ascetics (as shall stand in need of it), we shall occupy the lodging; afterwards we shall take to wandering.’ (3)
+He (the mendicant) should, at halting-places, &c., ask for a lodging-place, after having inquired who is the landlord or who is the tenant. H e should ask permission to use the lodging-place in this way: ‘By your favour, O long-lived one! we shall dwell here for a while (for the time and in the place) which you will concede.’ (If the landlord should object and say that he owns the lodging for a limited time only, or if he asks for the number of monks for which the lodging is required, he should answer) [^388]: ‘As long as this lodging belongs to you, (or) for the sake of as <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> many fellow-ascetics (as shall stand in need of it), we shall occupy the lodging; afterwards we shall take to wandering.’ (3)
 
 A monk or a nun may know the name and gotra of him in whose lodging he lives; in that case they should not accept food, &c., in that house whether invited or not invited; for it is impure and unacceptable. (4)
 
@@ -160,7 +160,7 @@ A monk or a nun should not use for religious postures, &c., a lodging where the 
 
 A monk or a nun should not use for religious postures, &c., a lodging where the householder or his wife, &c., rub or shampoo each other's body with perfumes, ground drugs, powder, lodhra, &c. (see II, 2, 1, § 8); for it is not fit, &c. (9)
 
-A monk or a nun should not use for religious postures, &c., a lodging where the householder or his <span id="p132">[<sup><small>p. 132</small></sup>]</span> wife, &c., clean, wash, or sprinkle each other's body with cold or hot water; for it is not fit, &c. (10)
+A monk or a nun should not use for religious postures, &c., a lodging where the householder or his <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> wife, &c., clean, wash, or sprinkle each other's body with cold or hot water; for it is not fit, &c. (10)
 
 A monk or a nun should not use for religious postures, &c., a lodging where the householder or his wife, &c., go about naked or hide themselves, or talk about sexual pleasures, or discuss a secret plan; for it is not fit, &c. (11)
 
@@ -178,7 +178,7 @@ A monk or a nun should not use for religious postures, &c., a lodging which is a
 
 For the avoidance of these occasions to sin there are four rules, according to which the mendicant should beg for a couch.
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 Now this is the first rule for begging for a couch.
 
@@ -198,7 +198,7 @@ This is the third rule. (20)
 
 Now follows the fourth rule.
 
-If a monk or a nun beg for a couch such as it is spread, either on the ground or on a wooden plank, they may use it if they get it; if not, they <span id="p134">[<sup><small>p. 134</small></sup>]</span> should remain in a squatting or sitting posture (for the whole night).
+If a monk or a nun beg for a couch such as it is spread, either on the ground or on a wooden plank, they may use it if they get it; if not, they <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> should remain in a squatting or sitting posture (for the whole night).
 
 This is the fourth rule. (21)
 
@@ -208,7 +208,7 @@ If a monk or a nun wish to give back a couch, they should not do so, if the couc
 
 A monk or a nun on a begging-tour or in a residence or on a pilgrimage from village to village should first inspect the place for easing nature. The Kevalin says: This is the reason: If a monk or a nun, in the night or the twilight, ease nature in a place which they have not previously inspected, they might stumble or fall, stumbling or falling they might hurt the hand or foot, &c., kill, &c., all sorts of living beings. (24)
 
-A monk or a nun might wish to inspect the ground for their couch away from [^394] that occupied by a teacher or sub-teacher, &c. (see II, 1, 10, § 1), or by a young one or an old one or a novice or a sick man or a guest, either at the end or in the middle, either on even or uneven ground, or at a place where there is a draught or where there is no draught. They should then well inspect and sweep <span id="p135">[<sup><small>p. 135</small></sup>]</span> (the floor), and circumspectly spread a perfectly pure bed or couch. (25)
+A monk or a nun might wish to inspect the ground for their couch away from [^394] that occupied by a teacher or sub-teacher, &c. (see II, 1, 10, § 1), or by a young one or an old one or a novice or a sick man or a guest, either at the end or in the middle, either on even or uneven ground, or at a place where there is a draught or where there is no draught. They should then well inspect and sweep <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> (the floor), and circumspectly spread a perfectly pure bed or couch. (25)
 
 Having spread a perfectly pure bed or couch, a monk or a nun might wish to ascend it. When doing so, they should first wipe their body from head to heels; then they may circumspectly ascend the perfectly pure bed or couch, and circumspectly sleep in it. (26)
 

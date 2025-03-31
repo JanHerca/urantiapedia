@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 1. Men are not to stand up and pray, except with profound humility. The pious men of ancient days used to pause a full hour before they began to pray, in order to direct their minds \[hearts\] to the Deity. Though the king salute him he is not to respond \[to the salutation\] and though a serpent wind itself round his heel, he is not to interrupt \[his prayers\].
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 § 2. The \[divine\] power of \[causing\] the rain \[to descend\] must be mentioned in \[the benediction for\] the resurrection of the dead. Supplication for rain is to be made in the benediction for the year, and ‏הבדלה‎, \[the distinction between the Sabbath and week day\] in the benediction ‏חונן הדעת‎ \[who graciously bestows knowledge\]. R. Akivah saith the ‏הבדלה‎ is to be said in a fourth benediction by itself. R. Eleazar saith, in the thanksgiving \[‏מודים‎\].
 

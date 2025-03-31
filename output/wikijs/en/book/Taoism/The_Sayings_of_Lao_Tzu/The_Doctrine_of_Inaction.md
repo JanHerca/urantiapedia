@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:11:52Z
 </figure>
 
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 THE Sage occupies himself with inaction, and conveys instruction without words. Is it not by neglecting self-interest that one will be able to achieve it?
 
@@ -47,7 +47,7 @@ A violent wind does not outlast the morning; a squall of rain does not outlast t
 
 Attain complete vacuity, and sedulously preserve a state of repose.
 
-Tao is eternally inactive, and yet it leaves nothing undone. If kings and princes could but hold fast to this principle, all things would work <span id="p31">[<sup><small>p. 31</small></sup>]</span> out their own reformation. If, having reformed, they still desired to act, I would have them restrained by the simplicity of the Nameless Tao. The simplicity of the Nameless Tao brings about an absence of desire. The absence of desire gives tranquillity. And thus the Empire will rectify itself.
+Tao is eternally inactive, and yet it leaves nothing undone. If kings and princes could but hold fast to this principle, all things would work <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> out their own reformation. If, having reformed, they still desired to act, I would have them restrained by the simplicity of the Nameless Tao. The simplicity of the Nameless Tao brings about an absence of desire. The absence of desire gives tranquillity. And thus the Empire will rectify itself.
 
 The softest things in the world override the hardest. That which has no substance enters where there is no crevice. Hence I know the advantage of inaction.
 
@@ -61,7 +61,7 @@ The pursuit of book-learning brings about daily increase. The practice of Tao br
 
 The Empire has ever been won by letting things take their course. He who must always be doing is unfit to obtain the Empire.
 
-Keep the mouth shut, close the gateways of sense, and as long as you live you will have no trouble. Open your lips and push your affairs, <span id="p32">[<sup><small>p. 32</small></sup>]</span> and you will not be safe to the end of your days.
+Keep the mouth shut, close the gateways of sense, and as long as you live you will have no trouble. Open your lips and push your affairs, <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> and you will not be safe to the end of your days.
 
 Practise inaction, occupy yourself with doing nothing.
 

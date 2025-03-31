@@ -76,7 +76,7 @@ Till through earth's depths you force your way.
 Then smite the robber dead, and bring
 The charger back with triumphing.’
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The sixty thousand chiefs obeyed:
 Deep through the earth their way they made.
@@ -151,7 +151,7 @@ Match for the mighty men of old.
 Now follow on thine uncles' course
 And track the robber of the horse.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 To guard thee take thy sword and bow,
 for huge and strong are beasts below.
@@ -272,7 +272,7 @@ Dilípa then, the good and great,
 Soon as he learnt his kinsmen's fate,
 Bowed down by woe, with troubled mind,
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 Pondering long no cure could find.
 ‘How can I bring,’ the mourner sighed,
@@ -392,7 +392,7 @@ He held tne river on his head,
 Dense as Himalaya's woods, were spread
 &nbsp;&nbsp;&nbsp;&nbsp;The tangles of his hair.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 No way to earth she found, ashamed,
 &nbsp;&nbsp;&nbsp;&nbsp;Though long and sore she strove,
@@ -510,7 +510,7 @@ Where Sagar's sons had dug their way.
 So leading through earth's nether caves
 The river's purifying waves.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Over his kinsmen's dust the lord
 His funeral libation poured.
@@ -634,7 +634,7 @@ Thither, the princes by his side,
 The best of holy hermits hied.
 It was a town exceeding fair
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 That might with heaven itself compare.
 Then, suppliant palm to palm applied,
@@ -732,7 +732,7 @@ Forth sixty million fair ones came.
 Born of the foam and water, these
 Were aptly named Apsarases. [^206]
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Each had her maids. The tongue would fail—
 So vast the throng—to count the tale,
@@ -810,7 +810,7 @@ Wild with a childless mother's pain.
 To Kas'yap spake, Marícha's son,
 Her husband: 'O thou glorious one!
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Dead are the children, mine no more,
 The mighty sons to thee I bore.
@@ -914,7 +914,7 @@ Vis'álá, glory of his age,
 By whom, a monarch void of guilt,
 Was this fair town Vis'álá built.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 His son was Hemachandra, still
 Renowned for might and warlike skill.
@@ -1035,7 +1035,7 @@ To see the mighty saint so near,
 And when the holy hermit spied
 In hermit's garb the Thousand-eyed,
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 He knew the whole, his fury broke
 Forth on the sinner as he spoke:
@@ -1154,7 +1154,7 @@ Where we may stay and rest a space.’
 The hermit did as Ráma prayed,
 And in a spot his lodging made,
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 Far from the crowd, sequestered, clear,
 With copious water flowing near.

@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 
 HE called his equerry, fleet Chandaka.
@@ -43,7 +43,7 @@ Chandaka knew the king's orders, but he felt some superior power urging him to d
 
 Kanthaka was a magnificent animal; he was strong and supple. Siddhartha stroked him quietly, then said to him in a gentle voice:
 
-“Many times, O noble beast, my father rode you into battle and defeated his powerful enemies. To-day, I go forth to seek supreme beatitude; lend me your help, O Kanthaka! Companions in arms or in pleasure are not hard to find, and we never want for friends when we set out to acquire wealth; but companions and friends desert us when it is the path of holiness we would take. Yet of this <span id="p61">[<sup><small>p. 61</small></sup>]</span> am I certain: he who helps another to do good or to do evil shares in that good or in that evil. Know then, O Kanthaka, that it is a virtuous impulse that moves me. Lend me your strength and your speed; the world's salvation and your own is at stake.”
+“Many times, O noble beast, my father rode you into battle and defeated his powerful enemies. To-day, I go forth to seek supreme beatitude; lend me your help, O Kanthaka! Companions in arms or in pleasure are not hard to find, and we never want for friends when we set out to acquire wealth; but companions and friends desert us when it is the path of holiness we would take. Yet of this <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> am I certain: he who helps another to do good or to do evil shares in that good or in that evil. Know then, O Kanthaka, that it is a virtuous impulse that moves me. Lend me your strength and your speed; the world's salvation and your own is at stake.”
 
 The prince had spoken to Kanthaka as he would have to a friend. He now eagerly climbed into the saddle, and he looked like the sun astride an autumn cloud.
 

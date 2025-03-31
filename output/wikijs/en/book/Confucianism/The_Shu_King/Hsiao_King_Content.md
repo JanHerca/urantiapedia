@@ -29,13 +29,13 @@ dateCreated: 2025-2-12T12:2:15Z
   </table>
 </figure>
 
-<span id="p465">[<sup><small>p. 465</small></sup>]</span>
+<span id="p465"><sup><small>[ p. 465 ]</small></sup></span>
 
 <a id="c1"></a>
 
 ## CHAPTER I. THE SCOPE AND MEANING OF THE TREATISE.
 
-(ONCE), when <i>K</i>ung-nî [^631] was unoccupied, and his disciple Ȝăng [^632] was sitting by in attendance on him, the Master said, ‘Shin, the ancient kings had a perfect virtue and all-embracing rule of conduct, through which they were in accord with all under heaven. By the practice of it the people were brought to live in peace and harmony, and there was no ill-will between superiors and inferiors. Do you know what it was [^633]?’ Ȝăng rose from his mat, and said, ‘How <span id="p466">[<sup><small>p. 466</small></sup>]</span> should I, Shan, who am so devoid of intelligence, be able to know this?’ The Master said, '(It was filial piety). Now filial piety is the root of (all) virtue [^634], and (the stem) out of which grows (all moral) teaching. Sit down again, and I will explain the subject to you. Our bodies—to every hair and bit of skin—are received by us from our parents, and we must not presume to injure or wound them:—this is the beginning of filial piety. When we have established our character by the practice of the (filial) course, so as to make our name famous in future ages, and thereby glorify our parents:—this is the end of filial piety. It commences with the service <span id="p467">[<sup><small>p. 467</small></sup>]</span> of parents; it proceeds to the service of the ruler; it is completed by the establishment of the character.
+(ONCE), when <i>K</i>ung-nî [^631] was unoccupied, and his disciple Ȝăng [^632] was sitting by in attendance on him, the Master said, ‘Shin, the ancient kings had a perfect virtue and all-embracing rule of conduct, through which they were in accord with all under heaven. By the practice of it the people were brought to live in peace and harmony, and there was no ill-will between superiors and inferiors. Do you know what it was [^633]?’ Ȝăng rose from his mat, and said, ‘How <span id="p466"><sup><small>[ p. 466 ]</small></sup></span> should I, Shan, who am so devoid of intelligence, be able to know this?’ The Master said, '(It was filial piety). Now filial piety is the root of (all) virtue [^634], and (the stem) out of which grows (all moral) teaching. Sit down again, and I will explain the subject to you. Our bodies—to every hair and bit of skin—are received by us from our parents, and we must not presume to injure or wound them:—this is the beginning of filial piety. When we have established our character by the practice of the (filial) course, so as to make our name famous in future ages, and thereby glorify our parents:—this is the end of filial piety. It commences with the service <span id="p467"><sup><small>[ p. 467 ]</small></sup></span> of parents; it proceeds to the service of the ruler; it is completed by the establishment of the character.
 
 ‘It is said in the Major Odes of the Kingdom,
 
@@ -46,7 +46,7 @@ Cultivating your virtue [^635]."’
 
 ## CHAPTER II. FILIAL PIETY IN THE SON OF HEAVEN.
 
-He who loves his parents will not dare (to incur the risk of) being hated by any man, and he who reveres his parents will not dare (to incur the risk of) being contemned by any man [^636]. When the love and reverence (of the Son of Heaven) are thus carried to the utmost in the service of his parents, the lessons of his virtue affect all the people, and he becomes <span id="p468">[<sup><small>p. 468</small></sup>]</span> a pattern to (all within) the four seas [^637]:—this is the filial piety of the Son of Heaven [^638].
+He who loves his parents will not dare (to incur the risk of) being hated by any man, and he who reveres his parents will not dare (to incur the risk of) being contemned by any man [^636]. When the love and reverence (of the Son of Heaven) are thus carried to the utmost in the service of his parents, the lessons of his virtue affect all the people, and he becomes <span id="p468"><sup><small>[ p. 468 ]</small></sup></span> a pattern to (all within) the four seas [^637]:—this is the filial piety of the Son of Heaven [^638].
 
 It is said in (the Marquis of) Fû on Punishments [^639],
 
@@ -58,7 +58,7 @@ It is said in (the Marquis of) Fû on Punishments [^639],
 
 Above others, and yet free from pride, they dwell on high, without peril; adhering to economy, and carefully observant of the rules and laws, they are full, without overflowing. To dwell on high without peril is the way long to preserve nobility; to be full without overflowing is the way long to preserve riches. When their riches and nobility do not leave their persons, then they are able to preserve the altars of their land and grain, and to secure the harmony of their people and men in office [^640]:—this is the filial piety of the princes of states.
 
-<span id="p469">[<sup><small>p. 469</small></sup>]</span>
+<span id="p469"><sup><small>[ p. 469 ]</small></sup></span>
 
 It is said in the Book of Poetry [^641],
 
@@ -72,7 +72,7 @@ As if treading on thin ice!
 
 ## CHAPTER IV. FILIAL PIETY IN HIGH MINISTERS AND GREAT OFFICERS.
 
-They do not presume to wear robes other than those appointed by the laws of the ancient kings [^642]; nor to speak words other than those sanctioned by their speech; nor to exhibit conduct other than that exemplified by their virtuous ways. Thus none of their words being contrary to those sanctions, and none of their actions contrary to the (right) way, <span id="p470">[<sup><small>p. 470</small></sup>]</span> from their mouths there comes no exceptionable speech, and in their conduct there are found no exceptionable actions. Their 'words may fill all under heaven, and no error of speech will be found in them. Their actions may fill all under heaven, and no dissatisfaction or dislike will be awakened by them. When these three things—(their robes, their words, and their conduct)—are all complete as they should be, they can then preserve their ancestral temples [^643]:—this is the filial piety of high ministers and great officers.
+They do not presume to wear robes other than those appointed by the laws of the ancient kings [^642]; nor to speak words other than those sanctioned by their speech; nor to exhibit conduct other than that exemplified by their virtuous ways. Thus none of their words being contrary to those sanctions, and none of their actions contrary to the (right) way, <span id="p470"><sup><small>[ p. 470 ]</small></sup></span> from their mouths there comes no exceptionable speech, and in their conduct there are found no exceptionable actions. Their 'words may fill all under heaven, and no error of speech will be found in them. Their actions may fill all under heaven, and no dissatisfaction or dislike will be awakened by them. When these three things—(their robes, their words, and their conduct)—are all complete as they should be, they can then preserve their ancestral temples [^643]:—this is the filial piety of high ministers and great officers.
 
 It is said in the Book of Poetry [^644],
 
@@ -83,7 +83,7 @@ In the service of the One man.’
 
 ## CHAPTER V. FILIAL PIETY IN INFERIOR OFFICERS.
 
-As they serve their fathers, so, they serve their mothers, and they love them equally. As they serve their fathers, so they serve their rulers, and they reverence them equally. Hence love is what is chiefly rendered to the mother, and reverence is what is chiefly rendered to the ruler, while both of these things are given to the father. Therefore when they serve their ruler with filial piety they are loyal; when they serve their superiors with reverence they are obedient. Not failing in this loyalty <span id="p471">[<sup><small>p. 471</small></sup>]</span> and obedience in serving those above them, they are then able to preserve their emoluments and positions, and to maintain their sacrifices [^645]:—this is the filial piety of inferior officers [^646].
+As they serve their fathers, so, they serve their mothers, and they love them equally. As they serve their fathers, so they serve their rulers, and they reverence them equally. Hence love is what is chiefly rendered to the mother, and reverence is what is chiefly rendered to the ruler, while both of these things are given to the father. Therefore when they serve their ruler with filial piety they are loyal; when they serve their superiors with reverence they are obedient. Not failing in this loyalty <span id="p471"><sup><small>[ p. 471 ]</small></sup></span> and obedience in serving those above them, they are then able to preserve their emoluments and positions, and to maintain their sacrifices [^645]:—this is the filial piety of inferior officers [^646].
 
 It is said in the Book of Poetry [^647],
 
@@ -94,7 +94,7 @@ Do not disgrace those who gave you birth.’
 
 ## CHAPTER VI. FILIAL PIETY IN THE COMMON PEOPLE.
 
-They follow the course of heaven (in the revolving seasons); they distinguish the advantages <span id="p472">[<sup><small>p. 472</small></sup>]</span> afforded by (different) soils [^648]; they are careful of their conduct and economical in their expenditure;—in order to nourish their parents:—this is the filial piety of the common people.
+They follow the course of heaven (in the revolving seasons); they distinguish the advantages <span id="p472"><sup><small>[ p. 472 ]</small></sup></span> afforded by (different) soils [^648]; they are careful of their conduct and economical in their expenditure;—in order to nourish their parents:—this is the filial piety of the common people.
 
 Therefore from the Son of Heaven down to the common people, there never has been one whose filial piety was without its beginning and end on whom calamity did not come.
 
@@ -108,11 +108,11 @@ Therefore from the Son of Heaven down to the common people, there never has been
 
 The disciple Ȝăng said, ‘Immense indeed is the greatness of filial piety!’ The Master replied [^650],
 
-<span id="p473">[<sup><small>p. 473</small></sup>]</span>
+<span id="p473"><sup><small>[ p. 473 ]</small></sup></span>
 
 ‘Yes, filial piety is the constant (method) of Heaven, the righteousness of Earth, and the practical duty of Man [^651]. Heaven and earth invariably pursue the course (that may be thus described), and the people take it as their pattern. (The ancient kings) imitated the brilliant luminaries of heaven, and acted. in accordance with the (varying) advantages afforded by earth, so that they were in accord with all under heaven; and in consequence their teachings, without being severe, were successful, and their government, without being rigorous, secured perfect order.
 
-<span id="p474">[<sup><small>p. 474</small></sup>]</span>
+<span id="p474"><sup><small>[ p. 474 ]</small></sup></span>
 
 ‘The ancient kings, seeing how their teachings [^652] could transform the people, set before them therefore an example of the most extended love, and none of the people neglected their parents; they set forth to them (the nature of) virtue and righteousness, and the people roused themselves to the practice of them; they went before them with reverence and yielding courtesy, and the people had no contentions; they led them on by the rules of propriety and by music, and the people were harmonious and benignant; they showed them what they loved and what they disliked, and the people understood their prohibitions.
 
@@ -127,7 +127,7 @@ And the people all look up to you."’
 
 The Master said, ‘Anciently, when the intelligent kings by means of filial piety ruled all under heaven, they did not dare to receive with disrespect the ministers of small states;—how much less would they do so to the dukes, marquises, counts, and barons!’ Thus it was that they got (the princes of) the-myriad states with joyful hearts (to assist them) in-the (sacrificial) services to their royal predecessors [^654].
 
-<span id="p475">[<sup><small>p. 475</small></sup>]</span>
+<span id="p475"><sup><small>[ p. 475 ]</small></sup></span>
 
 ‘The rulers of states did not dare to slight wifeless men and widows;—how much less would they slight their officers and the people! Thus it was that they got all their people with joyful hearts (to assist them) in serving the rulers, their predecessors [^655].
 
@@ -140,7 +140,7 @@ The Master said, ‘Anciently, when the intelligent kings by means of filial pie
 “To an upright, virtuous conduct
 All in the four quarters of the state render obedient homage."’
 
-<span id="p476">[<sup><small>p. 476</small></sup>]</span>
+<span id="p476"><sup><small>[ p. 476 ]</small></sup></span>
 
 <a id="c9"></a>
 
@@ -150,15 +150,15 @@ All in the four quarters of the state render obedient homage."’
 
 The disciple Ȝăng said, ‘I venture to ask whether in the virtue of the sages there was not something greater than filial piety.’ The Master replied, 'Of all (creatures with their different) natures produced by Heaven and Earth, man is the noblest. Of all the actions of man there is none greater than filial piety. In filial piety there is nothing greater than the reverential awe of one's father. In the reverential awe shown to one's father there is nothing. greater than the making him the correlate of Heaven [^659]. The duke of <i>K</i>âu was the man who (first) did this [^660].
 
-<span id="p477">[<sup><small>p. 477</small></sup>]</span>
+<span id="p477"><sup><small>[ p. 477 ]</small></sup></span>
 
-‘Formerly the duke of <i>K</i>âu at the border altar sacrificed to Hâu-_k_î as the correlate of Heaven, and in the Brilliant Hall he honoured king Wăn, and sacrificed to him as the correlate of God [^661]. The <span id="p478">[<sup><small>p. 478</small></sup>]</span> consequence was that from (all the states) within the four seas, every (prince) came in the discharge of his duty to (assist in those) sacrifices. In the virtue of the sages what besides was there greater than filial piety?
+‘Formerly the duke of <i>K</i>âu at the border altar sacrificed to Hâu-_k_î as the correlate of Heaven, and in the Brilliant Hall he honoured king Wăn, and sacrificed to him as the correlate of God [^661]. The <span id="p478"><sup><small>[ p. 478 ]</small></sup></span> consequence was that from (all the states) within the four seas, every (prince) came in the discharge of his duty to (assist in those) sacrifices. In the virtue of the sages what besides was there greater than filial piety?
 
-‘Now the feeling of affection grows up at the parents’ knees, and as (the duty of) nourishing those parents is exercised, the affection daily merges in awe. The sages proceeded from the (feeling of) awe to teach (the duties of) reverence, and from (that of) affection to teach (those of) love. The teachings of the sages, without being severe, were successful, and their government, without being rigorous, <span id="p479">[<sup><small>p. 479</small></sup>]</span> was effective. What they proceeded from was the root (of filial piety implanted by Heaven).
+‘Now the feeling of affection grows up at the parents’ knees, and as (the duty of) nourishing those parents is exercised, the affection daily merges in awe. The sages proceeded from the (feeling of) awe to teach (the duties of) reverence, and from (that of) affection to teach (those of) love. The teachings of the sages, without being severe, were successful, and their government, without being rigorous, <span id="p479"><sup><small>[ p. 479 ]</small></sup></span> was effective. What they proceeded from was the root (of filial piety implanted by Heaven).
 
 ‘The relation and duties between father and son, (thus belonging to) the Heaven-conferred nature, (contain in them the principle of) righteousness between ruler and subject [^662]. The son derives his life from his parents, and no greater gift could possibly be transmitted; his ruler and parent (in one), his father deals with him accordingly, and no generosity could be greater than this. Hence, he who does not love his parents, but loves other men, is called a rebel against virtue; and he who does not revere his parents, but reveres other men, is called a rebel against propriety. When (the ruler) himself thus acts contrary to (the principles) which should place him in accord (with all men), he presents nothing for the people to imitate. He has nothing to do with what is good, but entirely and only with what is injurious to virtue. Though he may get (his will, and be above others), the superior man does not give him his approval.
 
-<span id="p480">[<sup><small>p. 480</small></sup>]</span>
+<span id="p480"><sup><small>[ p. 480 ]</small></sup></span>
 
 ‘It is not so with the superior man. He speaks, having thought whether the words should be spoken; he acts, having thought whether his actions are sure to give pleasure. His virtue and righteousness are such as will be honoured; what he initiates and does is fit to be imitated; his deportment is worthy of contemplation; his movements in advancing or retiring are all according to the proper rule. In this way does he present himself to the people, who both revere and love him, imitate and become like him. Thus he is able to make his teaching of virtue successful, and his government and orders to be carried into effect [^663].
 
@@ -173,7 +173,7 @@ Has nothing wrong in his deportment."’
 
 The Master said, 'The service which a filial son does to his parents is as follows:—In his general conduct to them, he manifests the utmost reverence; in his nourishing of them, his endeavour is to give them the utmost pleasure; when they are ill, he feels the greatest anxiety; in mourning for them (dead), he exhibits every demonstration of grief; in sacrificing to them, he displays the utmost solemnity. When a son is complete in these five things (he may be pronounced) able to serve his parents.
 
-<span id="p481">[<sup><small>p. 481</small></sup>]</span>
+<span id="p481"><sup><small>[ p. 481 ]</small></sup></span>
 
 ‘He who (thus) serves his parents, in a high situation, will be free from pride; in a low situation, will be free from insubordination; and among his equals, will not be quarrelsome. In a high situation pride leads to ruin; in a low situation insubordination leads to punishment; among equals quarrelsomeness leads to the wielding of weapons.
 
@@ -191,7 +191,7 @@ The Master said, 'There are three thousand offences against which the five punis
 
 ## CHAPTER XII. AMPLIFICATION OF ‘THE ALL-EMBRACING RULE OF CONDUCT’ IN CHAPTER I.
 
-The Master said, 'For teaching the people to be affectionate and loving there is nothing better than Filial Piety; for teaching them (the observance of) propriety and submissiveness there is nothing better than Fraternal Duty; for changing their manners <span id="p482">[<sup><small>p. 482</small></sup>]</span> and altering their customs there is nothing better than Music; for securing the repose of superiors and the good order of the people there is nothing better than the Rules of Propriety.
+The Master said, 'For teaching the people to be affectionate and loving there is nothing better than Filial Piety; for teaching them (the observance of) propriety and submissiveness there is nothing better than Fraternal Duty; for changing their manners <span id="p482"><sup><small>[ p. 482 ]</small></sup></span> and altering their customs there is nothing better than Music; for securing the repose of superiors and the good order of the people there is nothing better than the Rules of Propriety.
 
 ‘The Rules of Propriety are simply (the development of) the principle of Reverence. Therefore the reverence paid to a father makes (all) sons pleased; the reverence paid to an elder brother makes (all) younger brothers pleased; the reverence paid to a ruler makes (all) subjects pleased [^667]. The reverence paid to one man makes thousands and myriads of men pleased. The reverence is paid to a few, and the pleasure extends to many;—this is what is meant by an “All-embracing Rule of Conduct.”’
 
@@ -201,7 +201,7 @@ The Master said, 'For teaching the people to be affectionate and loving there is
 
 The Master said, 'The teaching of filial piety by the superior man [^668] does not require that he should go to, family after family, and daily see the members of each. His teaching of filial piety is a tribute of reverence to all the fathers under heaven; his teaching of fraternal submission is a tribute of reverence to all the elder brothers under heaven; his teaching of the duty of a subject is a tribute of reverence to all the rulers under heaven.
 
-<span id="p483">[<sup><small>p. 483</small></sup>]</span>
+<span id="p483"><sup><small>[ p. 483 ]</small></sup></span>
 
 ‘It is said in the Book of Poetry [^669],
 
@@ -220,19 +220,19 @@ The Master said, ‘The filial piety with which the superior man serves his pare
 
 ## CHAPTER XV. FILIAL PIETY IN RELATION TO REPROOF AND REMONSTRANCE.
 
-The disciple Ȝăng said, ‘I have heard your instructions on the affection of love, on respect and reverence, on giving repose to (the minds of) our parents, and on making our name famous;—I would venture to ask if (simple) obedience to the orders of one s father can be pronounced filial piety.’ The Master replied, ‘What words are these! what words are these! Anciently, if the Son of seven had seven ministers who would remonstrate with him, <span id="p484">[<sup><small>p. 484</small></sup>]</span> although he had not right methods of government, he would not lose his possession of the kingdom; if the prince of a state had five such ministers, though his measures might be equally wrong, he would not lose his state; if a great officer had three, he would not, in a similar case, lose (the headship of) his clan; if an inferior officer had a friend who would remonstrate with him, a good name would not cease to be connected with his character; and the father who had a son that would remonstrate with him would, not sink into the gulf of unrighteous deeds [^670]. Therefore when a case of unrighteous conduct is concerned, a son must by no means keep from remonstrating with his father, nor a minister from remonstrating with his ruler. Hence, since remonstrance is required in the case of unrighteous conduct, how can (simple) obedience to the orders of a father be accounted filial piety [^671]?’
+The disciple Ȝăng said, ‘I have heard your instructions on the affection of love, on respect and reverence, on giving repose to (the minds of) our parents, and on making our name famous;—I would venture to ask if (simple) obedience to the orders of one s father can be pronounced filial piety.’ The Master replied, ‘What words are these! what words are these! Anciently, if the Son of seven had seven ministers who would remonstrate with him, <span id="p484"><sup><small>[ p. 484 ]</small></sup></span> although he had not right methods of government, he would not lose his possession of the kingdom; if the prince of a state had five such ministers, though his measures might be equally wrong, he would not lose his state; if a great officer had three, he would not, in a similar case, lose (the headship of) his clan; if an inferior officer had a friend who would remonstrate with him, a good name would not cease to be connected with his character; and the father who had a son that would remonstrate with him would, not sink into the gulf of unrighteous deeds [^670]. Therefore when a case of unrighteous conduct is concerned, a son must by no means keep from remonstrating with his father, nor a minister from remonstrating with his ruler. Hence, since remonstrance is required in the case of unrighteous conduct, how can (simple) obedience to the orders of a father be accounted filial piety [^671]?’
 
 <a id="c16"></a>
 
 ## CHAPTER XVI. THE INFLUENCE OF FILIAL PIETY AND THE RESPONSE TO IT.
 
-‘The Master said, 'Anciently, the intelligent kings served their fathers with filial piety, and therefore they served Heaven with intelligence; they served their mothers with filial piety, and therefore they served Earth with discrimination [^672]. They pursued <span id="p485">[<sup><small>p. 485</small></sup>]</span> the right course with reference to their (own) seniors and juniors, and therefore they secured the regulation of the relations between superiors and inferiors (throughout the kingdom).
+‘The Master said, 'Anciently, the intelligent kings served their fathers with filial piety, and therefore they served Heaven with intelligence; they served their mothers with filial piety, and therefore they served Earth with discrimination [^672]. They pursued <span id="p485"><sup><small>[ p. 485 ]</small></sup></span> the right course with reference to their (own) seniors and juniors, and therefore they secured the regulation of the relations between superiors and inferiors (throughout the kingdom).
 
 ‘When Heaven and Earth were served with intelligence and discrimination, the spiritual intelligences displayed (their retributive power [^673]).
 
 ‘Therefore even the Son of Heaven must have some whom he honours; that is, he has his uncles of his surname. He must have some to whom he concedes the precedence; that is, he has his cousins, who bear the same surname, and are older than himself. In the ancestral temple he manifests the utmost reverence, showing that he does not forget his parents; he cultivates his person and is careful of his conduct, fearing lest he should disgrace his predecessors.
 
-‘When in the ancestral temple he exhibits the <span id="p486">[<sup><small>p. 486</small></sup>]</span> utmost reverence, the spirits of the departed manifest themselves [^674]. Perfect filial piety and fraternal duty reach to (and move) the spiritual intelligences, and diffuse their light on all within the four seas; they penetrate everywhere.
+‘When in the ancestral temple he exhibits the <span id="p486"><sup><small>[ p. 486 ]</small></sup></span> utmost reverence, the spirits of the departed manifest themselves [^674]. Perfect filial piety and fraternal duty reach to (and move) the spiritual intelligences, and diffuse their light on all within the four seas; they penetrate everywhere.
 
 ‘It is said in the Book of Poetry [^675],
 
@@ -255,7 +255,7 @@ And never will forget him."’
 
 
 
-<span id="p487">[<sup><small>p. 487</small></sup>]</span>
+<span id="p487"><sup><small>[ p. 487 ]</small></sup></span>
 
 <a id="c18"></a>
 
@@ -265,15 +265,15 @@ The Master said, 'When a filial son is mourning for a parent, he wails, but not 
 
 ‘After three days he may partake of food; for thus the people are taught that the living should not be injured on account of the dead, and that emaciation must not be carried to the extinction of life:—such is the rule of the sages. The period of mourning does not go beyond three years, to show the people that it must have an end.
 
-‘An inner and outer coffin are made; the grave-clothes also are put on, and the shroud; and (the body) is lifted (into the coffin). The sacrificial vessels, round and square, are (regularly) set forth, and (the sight of them) fills (the mourners) with (fresh) distress [^678]. The women beat their breasts, and the men stamp with their feet, wailing and weeping, while they sorrowfully escort the coffin to the grave. They consult the tortoise-shell to determine the grave and the ground about it, and <span id="p488">[<sup><small>p. 488</small></sup>]</span> there they lay the body in peace. They prepare the ancestral temple (to receive the tablet of the departed), and there present offerings to the disembodied spirit. In spring and autumn they offer sacrifices, thinking of the deceased as the seasons come round.
+‘An inner and outer coffin are made; the grave-clothes also are put on, and the shroud; and (the body) is lifted (into the coffin). The sacrificial vessels, round and square, are (regularly) set forth, and (the sight of them) fills (the mourners) with (fresh) distress [^678]. The women beat their breasts, and the men stamp with their feet, wailing and weeping, while they sorrowfully escort the coffin to the grave. They consult the tortoise-shell to determine the grave and the ground about it, and <span id="p488"><sup><small>[ p. 488 ]</small></sup></span> there they lay the body in peace. They prepare the ancestral temple (to receive the tablet of the departed), and there present offerings to the disembodied spirit. In spring and autumn they offer sacrifices, thinking of the deceased as the seasons come round.
 
 ‘The services of love and reverence to parents when alive, and those of grief and sorrow to them when dead:—these completely discharge the fundamental duty of living men. The righteous claims of life and death are all satisfied, and the filial son's service of his parents is completed.’
 
 ---
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 
 
@@ -372,7 +372,7 @@ The Master said, 'When a filial son is mourning for a parent, he wails, but not 
   &nbsp;&nbsp;&nbsp;&nbsp;To nourish all mankind.
   None would have fathomed His intent,
   &nbsp;&nbsp;&nbsp;&nbsp;But for thy guiding mind.’
-  The seventh piece on the former page was used at the   sacrifice, in the Brilliant Hall, to king Wăn, as ‘the correlate of God.’ The   first three lines have been versified by— <span id="p478">[<sup><small>p. 478</small></sup>]</span>
+  The seventh piece on the former page was used at the   sacrifice, in the Brilliant Hall, to king Wăn, as ‘the correlate of God.’ The   first three lines have been versified by— <span id="p478"><sup><small>[ p. 478 ]</small></sup></span>
   ‘My offerings here are given,
   &nbsp;&nbsp;&nbsp;&nbsp;A ram, a bull.
   Accept them, mighty Heaven,

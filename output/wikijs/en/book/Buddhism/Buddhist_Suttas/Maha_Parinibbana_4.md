@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## THE BOOK OF THE GREAT DECEASE. MAHÂ-PARINIBBÂNA-SUTTA. CHAPTER IV.
 
@@ -46,7 +46,7 @@ And the Blessed One proceeded with a great company of the brethren to Bha<i>nd</
 
 2\. There the Blessed One addressed the brethren, and said: ‘It is through not understanding and grasping four truths[^2], O brethren, that we have had to run so long, to wander so long in this weary path of transmigration—both you and I.’
 
-‘And what are these four? The noble conduct of life, the noble earnestness in meditation, the noble kind of wisdom, and the noble salvation of freedom. But when noble conduct is realised and known, when noble meditation is realised and known, when noble wisdom is realised and known, when noble <span id="p65">[<sup><small>p. 65</small></sup>]</span> freedom is realised and known—then is the craving for existence rooted out, that which leads to renewed existence is destroyed, and there is no more birth.’
+‘And what are these four? The noble conduct of life, the noble earnestness in meditation, the noble kind of wisdom, and the noble salvation of freedom. But when noble conduct is realised and known, when noble meditation is realised and known, when noble wisdom is realised and known, when noble <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> freedom is realised and known—then is the craving for existence rooted out, that which leads to renewed existence is destroyed, and there is no more birth.’
 
 3\. Thus spake the Blessed One; and when the Happy One had thus spoken, then again the teacher said[^3]:
 
@@ -59,7 +59,7 @@ The master with eye divine, the quencher of griefs, must die!’
 
 4\. There too, while staying at Bha<i>nd</i>a-gâma, the Blessed One held that comprehensive religious discourse with the brethren on the nature of upright conduct, and of earnest contemplation, and of intelligence. 'Great is the fruit, great the advantage of earnest contemplation when set round with upright conduct. Great is the fruit, great the advantage of intellect when set round with earnest contemplation.
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span> The mind set round with intelligence is freed from the great evils—that is to say, from sensuality, from individuality, from delusion, and from ignorance.’
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span> The mind set round with intelligence is freed from the great evils—that is to say, from sensuality, from individuality, from delusion, and from ignorance.’
 
 5\. Now when the Blessed One had remained at Bha<i>nd</i>a-gâma as long as he desired, he addressed the venerable Ânanda, and said: ‘Come, Ânanda, let us go on to Hatthi-gâma.’
 
@@ -73,15 +73,15 @@ Then the Blessed One proceeded with a great company of the brethren to Hatthi-g�
 
 There the Blessed One addressed the brethren, and said: ‘I will teach you, O brethren, these four Great References[^4]. Listen thereto, and give good heed, and I will speak.’
 
-‘Even so, Lord!’ said the brethren, in assent[^5], to <span id="p67">[<sup><small>p. 67</small></sup>]</span> the Blessed One, and the Blessed One spoke as follows:
+‘Even so, Lord!’ said the brethren, in assent[^5], to <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> the Blessed One, and the Blessed One spoke as follows:
 
 8\. 'In the first place, brethren, a brother may say thus: “From the mouth of the Blessed One himself have I heard, from his own mouth have I received it. This is the truth, this the law, this the teaching of the Master.” The word spoken, brethren, by that brother should neither be received with praise nor treated with scorn. Without praise and without scorn every word and syllable should be carefully understood, and then put beside the scripture and compared with the rules of the order[^6]. If when so compared they do not harmonise with the scripture, and do not fit in with the rules of the order, then you may come to the conclusion, “Verily, this is not the word of the Blessed One, and has been wrongly grasped by that brother?” Therefore, brethren, you should reject it. But if they harmonise with the scripture and fit in with the rules of the order, then you may come to the conclusion, “Verily, this is the word of the Blessed One, and has been well grasped by that brother.” This, brethren, you should receive as the first Great Reference.
 
-9\. 'Again, brethren, a brother may say thus: "In such and such a dwelling-place there is a company of the brethren with their elders and leaders. From the mouth of that company have I heard,  <span id="p68">[<sup><small>p. 68</small></sup>]</span> face to face have I received it. This is the truth, this the law, this the teaching of the Master.“ The word spoken, brethren, by that brother should neither be received with praise nor treated with scorn. Without praise and without scorn every word and syllable should be carefully understood, and then put beside the scripture and compared with the rules of the order. If when so compared they do not harmonise with the scripture, and do not fit in with the rules of the order, then you may come to the conclusion, ”Verily, this is not the word of the Blessed One, and has been wrongly grasped by that company of the brethren.“ Therefore, brethren, you should reject it. But if they harmonise with the scripture and fit in with the rules of the order, then you may come to the conclusion, ”Verily, this is the word of the Blessed One, and has been well grasped by that company of the brethren." This, brethren, you should receive as the second Great Reference.
+9\. 'Again, brethren, a brother may say thus: "In such and such a dwelling-place there is a company of the brethren with their elders and leaders. From the mouth of that company have I heard,  <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> face to face have I received it. This is the truth, this the law, this the teaching of the Master.“ The word spoken, brethren, by that brother should neither be received with praise nor treated with scorn. Without praise and without scorn every word and syllable should be carefully understood, and then put beside the scripture and compared with the rules of the order. If when so compared they do not harmonise with the scripture, and do not fit in with the rules of the order, then you may come to the conclusion, ”Verily, this is not the word of the Blessed One, and has been wrongly grasped by that company of the brethren.“ Therefore, brethren, you should reject it. But if they harmonise with the scripture and fit in with the rules of the order, then you may come to the conclusion, ”Verily, this is the word of the Blessed One, and has been well grasped by that company of the brethren." This, brethren, you should receive as the second Great Reference.
 
-10\. 'Again, brethren, a brother may say thus: “In such and such a dwelling-place there are dwelling many elders of the order, deeply read, holding the faith as handed down by tradition, versed in the truths, versed in the regulations of the order, versed in the summaries of the doctrines and the law. From the mouth of those elders have I heard, from their mouth have I received it. This is the truth, this the law, this the teaching of the Master.” The word spoken, brethren, by that brother should neither be received with praise nor treated with scorn. Without praise and without scorn every word and syllable should be carefully understood, and then put beside the scripture and <span id="p69">[<sup><small>p. 69</small></sup>]</span> compared with the rules of the order. If when so compared they do not harmonise with the scripture, and do not fit in with the rules of the order, then you may come to the conclusion, “Verily, this is not the word of the Blessed One, and has been wrongly grasped by those elders.” Therefore, brethren, you should reject it. But if they harmonise with the scripture and fit in with the rules of the order, then you may come to the conclusion, “Verily, this is the word of the Blessed One, and has been well grasped by those elders.” This, brethren, you should receive as the third Great Reference.
+10\. 'Again, brethren, a brother may say thus: “In such and such a dwelling-place there are dwelling many elders of the order, deeply read, holding the faith as handed down by tradition, versed in the truths, versed in the regulations of the order, versed in the summaries of the doctrines and the law. From the mouth of those elders have I heard, from their mouth have I received it. This is the truth, this the law, this the teaching of the Master.” The word spoken, brethren, by that brother should neither be received with praise nor treated with scorn. Without praise and without scorn every word and syllable should be carefully understood, and then put beside the scripture and <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> compared with the rules of the order. If when so compared they do not harmonise with the scripture, and do not fit in with the rules of the order, then you may come to the conclusion, “Verily, this is not the word of the Blessed One, and has been wrongly grasped by those elders.” Therefore, brethren, you should reject it. But if they harmonise with the scripture and fit in with the rules of the order, then you may come to the conclusion, “Verily, this is the word of the Blessed One, and has been well grasped by those elders.” This, brethren, you should receive as the third Great Reference.
 
-11\. ‘Again, brethren, a brother may say, “In such and such a dwelling-place there is there living a brother, deeply read, holding the faith as handed down by tradition, versed in the truths, versed in the regulations of the order, versed in the summaries of the doctrines and the law. From the mouth of that elder have I heard, from his mouth have I received it. This is the truth, this the law, this the teaching of the Master.” The word spoken, brethren, by that brother should neither be received with praise nor treated with scorn. Without praise and without scorn every word and syllable should be carefully understood, and then put beside the scripture and compared with the rules of the order. If when so compared they do not harmonise with the scripture, and do not fit in with the rules of the order, then you may come to the conclusion, “Verily, this is not the word of the Blessed One, and has been wrongly grasped by that brother.” Therefore, brethren, you should reject it. But if they harmonise with the scripture <span id="p70">[<sup><small>p. 70</small></sup>]</span> and fit in with the rules of the order, then you may come to the conclusion, “Verily, this is the word of the Blessed One, and has been well grasped by that brother.” This, brethren, you should receive as the fourth Great Reference.’
+11\. ‘Again, brethren, a brother may say, “In such and such a dwelling-place there is there living a brother, deeply read, holding the faith as handed down by tradition, versed in the truths, versed in the regulations of the order, versed in the summaries of the doctrines and the law. From the mouth of that elder have I heard, from his mouth have I received it. This is the truth, this the law, this the teaching of the Master.” The word spoken, brethren, by that brother should neither be received with praise nor treated with scorn. Without praise and without scorn every word and syllable should be carefully understood, and then put beside the scripture and compared with the rules of the order. If when so compared they do not harmonise with the scripture, and do not fit in with the rules of the order, then you may come to the conclusion, “Verily, this is not the word of the Blessed One, and has been wrongly grasped by that brother.” Therefore, brethren, you should reject it. But if they harmonise with the scripture <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> and fit in with the rules of the order, then you may come to the conclusion, “Verily, this is the word of the Blessed One, and has been well grasped by that brother.” This, brethren, you should receive as the fourth Great Reference.’
 
 ‘These, brethren, are the Four Great References.’
 
@@ -101,7 +101,7 @@ And there at Pâvâ the Blessed One stayed at the Mango Grove of <i>K</i>unda, w
 
 14\. Now <i>K</i>unda, the worker in metals, heard that the Blessed One had come to Pâvâ, and was staying there in his Mango Grove.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 And <i>K</i>unda, the worker in metals, went to the place where the Blessed One was, and saluting him took his seat respectfully on one side. And when he was thus seated, the Blessed One instructed, aroused, incited, and gladdened him with religious discourse.
 
@@ -115,7 +115,7 @@ And the Blessed One signified, by silence, his consent.
 
 18\. And the Blessed One robed himself early in the morning, and taking his bowl, went with the brethren to the dwelling-place of <i>K</i>unda, the worker in metals. When he had come thither he seated himself on the seat prepared for him. And when he was seated he addressed <i>K</i>unda, the worker in metals, and said: ‘As to the dried boar’s flesh you have made ready, serve me with it, <i>K</i>unda; and as to the other food, the sweet rice and cakes, serve the brethren with it.’
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 ‘Even so, Lord!’ said <i>K</i>unda, the worker in metals, in assent, to the Blessed One. And the dried boar's flesh he had made ready he served to the Blessed One; whilst the other food, the sweet rice and cakes, he served to the members of the order.
 
@@ -129,7 +129,7 @@ And the Blessed One signified, by silence, his consent.
 
 22\. And the Blessed One addressed the venerable Ânanda, and said: ‘Come, Ânanda, let us go on to Kusinârâ.’
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 ‘Even so, Lord!’ said the venerable Ânanda, in assent, to the Blessed One.
 
@@ -151,7 +151,7 @@ I now am going on to Kusinârâ[^7].’
 
 25\. And the Blessed One seated himself on the seat prepared for him; and when he was seated, he addressed the venerable Ânanda, and said: ‘Fetch me, I pray you, Ânanda, some water. I am thirsty, Ânanda, and would drink.’
 
-26\. When he had thus spoken, the venerable Ânanda said to the Blessed One: ‘But just now, <span id="p74">[<sup><small>p. 74</small></sup>]</span> Lord, about five hundred carts have gone over. That water stirred up by the wheels has become shallow and flows fouled and turbid. This river Kakutthâ, Lord, not far off, is clear and pleasant, cool and transparent, easy to get down into, and delightful. There the Blessed One may both drink the water, and cool his limbs[^8].’
+26\. When he had thus spoken, the venerable Ânanda said to the Blessed One: ‘But just now, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> Lord, about five hundred carts have gone over. That water stirred up by the wheels has become shallow and flows fouled and turbid. This river Kakutthâ, Lord, not far off, is clear and pleasant, cool and transparent, easy to get down into, and delightful. There the Blessed One may both drink the water, and cool his limbs[^8].’
 
 27\. Again the second time the Blessed One addressed the venerable Ânanda, and said: ‘Fetch me, I pray you, Ânanda, some water. I am thirsty, Ânanda, and would drink.’
 
@@ -161,7 +161,7 @@ I now am going on to Kusinârâ[^7].’
 
 30\. ‘Even so, Lord!’ said the venerable Ânanda, in assent, to the Blessed One; and taking a bowl he went down to the streamlet. And lo! the streamlet which, stirred up by the wheels, was but just now become shallow, and was flowing fouled and turbid, had begun, when the venerable Ânanda came up to it, to flow clear and bright and free from all turbidity.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 31\. Then Ânanda thought: ‘How wonderful, how marvellous is the great might and power of the Tathâgata! For this Streamlet which, stirred up by the wheels, was but just now become shallow and flowing foul and turbid, now, as I come up to it, is flowing clear and bright and free from all turbidity.’
 
@@ -173,7 +173,7 @@ Then the Blessed One drank of the water.
 
 33\. Now at that time a man named Pukkusa[^9] a young Mallian, a disciple of Â<i>l</i>âra Kâlâma's, was passing along the high road from Kusinârâ to Pâvâ.
 
-34\. And Pukkusa, the young Mallian, saw the Blessed One seated at the foot of a tree. On seeing him, he went up to the place where the Blessed One was, and when he had come there he saluted the Blessed One, and took his rest respectfully on one side. And when he was seated <span id="p76">[<sup><small>p. 76</small></sup>]</span> Pukkusa, the young Mallian, said to the Blessed One: ‘How wonderful a thing is it, Lord! and how marvellous, that those who have gone forth out of the world should pass their time in a state of mind so calm!’
+34\. And Pukkusa, the young Mallian, saw the Blessed One seated at the foot of a tree. On seeing him, he went up to the place where the Blessed One was, and when he had come there he saluted the Blessed One, and took his rest respectfully on one side. And when he was seated <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> Pukkusa, the young Mallian, said to the Blessed One: ‘How wonderful a thing is it, Lord! and how marvellous, that those who have gone forth out of the world should pass their time in a state of mind so calm!’
 
 35\. 'Formerly, Lord, Â<i>l</i>âra Kâlâma a was once walking along the high road; and leaving the road he sat himself down under a certain tree to rest during the heat of the day. Now, Lord, five hundred carts passed by one after the other, each close to Â<i>l</i>âra Kâlâma. And a certain man, who was following close behind that caravan of carts, went up to the place where Â<i>l</i>âra Kâlâma, was, and when he was come there he spake as follows to Â<i>l</i>âra Kâlâma:
 
@@ -197,7 +197,7 @@ Then the Blessed One drank of the water.
 
 ‘“It is even so, sir.”
 
-36\. 'Then thought that man: "How wonderful a thing is it, and how marvellous, that those who have gone forth out of the world should pass their time in a state of mind so calm! So much so that a man though being both conscious and awake, <span id="p77">[<sup><small>p. 77</small></sup>]</span> either sees, nor hears the sound of five hundred carts passing by, one after the other, and each close to him.”
+36\. 'Then thought that man: "How wonderful a thing is it, and how marvellous, that those who have gone forth out of the world should pass their time in a state of mind so calm! So much so that a man though being both conscious and awake, <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> either sees, nor hears the sound of five hundred carts passing by, one after the other, and each close to him.”
 
 ‘And after giving utterance to his deep faith in Â<i>l</i>âra Kâlâma, he departed thence.’
 
@@ -207,7 +207,7 @@ Then the Blessed One drank of the water.
 
 39\. 'Now on one occasion, Pukkusa, I was dwelling at Âtumâ, and was at the Threshing-floor[^10]. And at that time the falling rain begun to beat and to splash, and the lightnings to flash forth, and the thunderbolts to crash; and two peasants, brothers, and four oxen were killed. Then, Pukkusa, a great multitude of people went forth from Âtumâ, and went up to the place where the two peasants, brothers, and the four oxen, lay killed.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 40\. 'Now at that time, Pukkusa, I had gone forth from the Threshing-floor, and was walking up and down thinking at the entrance to the Threshing-floor. And a certain man came, Pukkusa, out of that great multitude of people, up to the place where I was; and when he came up he saluted me, and took his place respectfully on one side.
 
@@ -241,13 +241,13 @@ Then the Blessed One drank of the water.
 
 42\. 'Then, Pukkusa, the thought occurred to that man:
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 ‘“How wonderful a thing is it, and marvellous, that those who have gone forth out of the world should pass their time in a state of mind so calm!—so that a man being conscious and awake neither sees nor hears the sound thereof when the falling rain is beating and splashing, and the lightnings are flashing forth, and the thunderbolts are crashing.” And after giving utterance to his deep faith in me, he departed from me with the customary demonstrations of respect.’
 
 43\. And when he had thus spoken Pukkusa, the young Mallian, addressed the Blessed One in these words: ‘Now I, Lord, as to the faith that I had in Â<i>l</i>âra Kâlâma, that I winnow away as in a mighty wind, and wash it away as in a swiftly running stream. Most excellent, Lord, are the words of thy mouth, most excellent! Just as if a man were to set up that which is thrown down, or were to reveal that which is hidden away, or were to point out the right road to him who has gone astray, or were to bring a lamp into the darkness, so that those who have eyes can see external forms-just even so, Lord, has the truth been made known to me, in many a figure, by the Blessed One. And I, even I, betake myself, Lord, to the Blessed One as my refuge, to the Truth, and to the Brotherhood. May the Blessed One accept me as a disciple, as a true believer, from this day forth, as long as life endures[^11]!’
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 44\. Now Pukkusa, the young Mallian, addressed a certain man, and said: ‘Fetch me, I pray you, my good man, a pair of robes of cloth of gold, burnished and ready for wear.’
 
@@ -263,7 +263,7 @@ Then the Blessed One drank of the water.
 
 ---
 
-47\. Now not long after the Mallian Pukkusa had Ânanda placed that pair of robes of cloth of gold, burnished and ready for wear, on the body of the Blessed One, and when it was so <span id="p81">[<sup><small>p. 81</small></sup>]</span> laced on the body of the Blessed One it appeared to have lost its splendour[^12]!
+47\. Now not long after the Mallian Pukkusa had Ânanda placed that pair of robes of cloth of gold, burnished and ready for wear, on the body of the Blessed One, and when it was so <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> laced on the body of the Blessed One it appeared to have lost its splendour[^12]!
 
 48\. And the venerable Ânanda said to the Blessed One: ‘How wonderful a thing is it, Lord, and how marvellous, that the colour of the skin of the Blessed One should be so clear, so exceeding bright! For when I placed even this pair of robes of burnished cloth of gold and ready for wear on the body of the Blessed One, lo! it seemed as if it had lost its splendour!’
 
@@ -271,7 +271,7 @@ Then the Blessed One drank of the water.
 
 50\. 'On the night, Ânanda, on which a Tathâgata attains to the supreme and perfect insight, and on the night in which he passes finally away in that utter passing away which leaves nothing whatever to remain—on these two occasions the colour of the skin of the Tathâgata becomes clear and exceeding bright.
 
-51\. 'And now this day, Ânanda, at the third watch of the night, in the Upavattana of Kusinârâ, in the Sâla Grove of the Mallians, between the twin Sâla <span id="p82">[<sup><small>p. 82</small></sup>]</span> trees, the utter passing away of the Tathâgata will take place. Come, Ânanda! let us go on to the river Kakutthâ.’
+51\. 'And now this day, Ânanda, at the third watch of the night, in the Upavattana of Kusinârâ, in the Sâla Grove of the Mallians, between the twin Sâla <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> trees, the utter passing away of the Tathâgata will take place. Come, Ânanda! let us go on to the river Kakutthâ.’
 
 ‘Even so, Lord!’ said the venerable Ânanda, in assent, to the Blessed One.
 
@@ -288,7 +288,7 @@ Shone forth in colour like to gold[^13]!
 
 ‘Even so, Lord!’ said the venerable <i>K</i>undaka, in assent, to the Blessed One. And he folded a robe in four, and spread it out.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 55\. And the Blessed One laid himself down on his right side, with one foot resting on the other; and calm and self-possessed, he meditated on the idea of rising up again in due time. And the venerable Kundaka seated himself there in front of the Blessed One.
 
@@ -309,7 +309,7 @@ And there, before him, <i>K</i>unda took his seat.
 
 ---
 
-57\. And the Blessed One addressed the venerable Ânanda, and said: ‘Now it may happen, Ânanda, that some one should stir up remorse in <i>K</i>unda the smith, by saying, “This is evil to thee, <i>K</i>unda, and loss to thee in that when the Tathâgata had eaten his last meal from thy provision, then he died.” Any such remorse, Ânanda, in <i>K</i>unda the smith should be checked by saying, "This is good to thee, <i>K</i>unda, and gain to thee, in that when <span id="p84">[<sup><small>p. 84</small></sup>]</span> the Tathâgata had eaten his last meal from thy provision, then he died. From the very mouth of the Blessed One, <i>K</i>unda, have I heard, from his own mouth have I received this saying, ’These two offerings of food are of equal fruit, and of equal profit, and of much greater fruit and much greater profit than any other—and which are the two? The offering of food which, when a Tathâgata has eaten, he attains to supreme and perfect insight; and the offering of food which, when a Tathâgata has eaten, he passes away by that utter passing away in which nothing whatever remains behind—these two offerings of food are of equal fruit and of equal profit, and of much greater fruit and much greater profit than any others. There has been laid up by <i>K</i>unda the smith a karma redounding to length of life, redounding to good birth, redounding to good fortune, redounding to good fame, redounding to the inheritance of heaven, and of sovereign power.‘" In this way, Ânanda, should be checked any remorse in <i>K</i>unda the smith.’
+57\. And the Blessed One addressed the venerable Ânanda, and said: ‘Now it may happen, Ânanda, that some one should stir up remorse in <i>K</i>unda the smith, by saying, “This is evil to thee, <i>K</i>unda, and loss to thee in that when the Tathâgata had eaten his last meal from thy provision, then he died.” Any such remorse, Ânanda, in <i>K</i>unda the smith should be checked by saying, "This is good to thee, <i>K</i>unda, and gain to thee, in that when <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> the Tathâgata had eaten his last meal from thy provision, then he died. From the very mouth of the Blessed One, <i>K</i>unda, have I heard, from his own mouth have I received this saying, ’These two offerings of food are of equal fruit, and of equal profit, and of much greater fruit and much greater profit than any other—and which are the two? The offering of food which, when a Tathâgata has eaten, he attains to supreme and perfect insight; and the offering of food which, when a Tathâgata has eaten, he passes away by that utter passing away in which nothing whatever remains behind—these two offerings of food are of equal fruit and of equal profit, and of much greater fruit and much greater profit than any others. There has been laid up by <i>K</i>unda the smith a karma redounding to length of life, redounding to good birth, redounding to good fortune, redounding to good fame, redounding to the inheritance of heaven, and of sovereign power.‘" In this way, Ânanda, should be checked any remorse in <i>K</i>unda the smith.’
 
 58\. Then the Blessed One perceiving how the matter stood, uttered, even at that time, this hymn of exultation:
 

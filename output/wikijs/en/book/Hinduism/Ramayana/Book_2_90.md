@@ -93,7 +93,7 @@ Go, hasten: we delay too long.
 S'atrughna, glorious Bharat bring,
 The noble children of the king,  [^357]
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Yudhájit  [1](Book_2_90#fn358) and Sumantra, all
 The truthful and the virtuous call,’
@@ -210,7 +210,7 @@ And gave the orders he desired.
 Delight each soldier's bosom filled,
 Aud through each chief and captain thrilled,
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 To hear that march proclaimed, to bring
 Dear Ráma back from wandering.
@@ -335,7 +335,7 @@ Bring his dear brother home again.
 With elephant, and horse, and car,
 The vast procession travelled far,
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 And came where Gangá's waves below
 The town of Sringavera  [1](Book_2_90#fn361) flow.
@@ -457,7 +457,7 @@ To-morrow thou with it mayst go.’
 Thus tho Nishadas' king besought:
 The prince with spirit wisdom-fraught
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 Replied in seemly words that blent
 Deep matter with the argument:
@@ -582,7 +582,7 @@ He whom no mighty demon, no,
 Nor heavenly God can overthrow,
 See, Guha, how he lies, alas,
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 With Sítá couched on gathered grass.
 By varied labours, long, severe,
@@ -705,7 +705,7 @@ And then, obedient to his vows,
 He fasted with his gentle spouse.
 So Lakshman too from food abstained,
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 And sipped the water that remained:
 Then with ruled lips, devoutly staid,
@@ -828,7 +828,7 @@ For him the term of banishment;
 So shall I still unbroken save
 The promise which the hero gave.
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 While I remain for Ráma there,
 S'atrnghna will my exile share,
@@ -942,7 +942,7 @@ With priest and deacon by his side,
 To Bharadvaja's dwelling hied
 &nbsp;&nbsp;&nbsp;&nbsp;That best of saints to see.
 
-<span id="p197">[<sup><small>p. 197</small></sup>]</span>
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 
 
 

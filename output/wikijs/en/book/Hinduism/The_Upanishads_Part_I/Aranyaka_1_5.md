@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 FIFTH ADHYÂYA.
 
@@ -50,7 +50,7 @@ FIFTH ADHYÂYA.
 
 6\. Next comes the Sûdadohas verse. Sûdadohas verily is breath. He joins the joints; with breath.
 
-7\. After having recited that verse twelve times he <span id="p194">[<sup><small>p. 194</small></sup>]</span> leaves it off there. These prâ<i>n</i>as are verily twelvefold, seven in the head, two on the breast, three below. In these twelve places the prâ<i>n</i>as are contained, there they are perfect. Therefore he leaves it off there [1](Aranyaka_1_5#fn480).
+7\. After having recited that verse twelve times he <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> leaves it off there. These prâ<i>n</i>as are verily twelvefold, seven in the head, two on the breast, three below. In these twelve places the prâ<i>n</i>as are contained, there they are perfect. Therefore he leaves it off there [1](Aranyaka_1_5#fn480).
 
 8\. The hymn indrâgnî yuva<i>m</i> su nah (Rv. VIII, 40) forms the two thighs (of the bird) belonging to Indra and Agni, the two supports with broad bones.
 
@@ -64,7 +64,7 @@ FIFTH ADHYÂYA.
 
 1\. When he recites the Nishkevalya hymn addressed to Indra (Rv. X, 50), pra vo mahe, he inserts a Nivid [^481] (between the fourth and fifth verses). Thus he clearly places strength in himself (in the <i>s</i>astra, in the bird, in himself).
 
-2\. They are Trish<i>t</i>ubhs and <i>G</i>agatîs. <span id="p195">[<sup><small>p. 195</small></sup>]</span> 3\. There they say: ‘Why does he insert a Nivid among mixed Trish<i>t</i>ubhs and <i>G</i>agatîs [^482]?’ But surely one metre would never support the Nivid of this day, nor fill it: therefore he inserts the Nivid among mixed Trish<i>t</i>ubhs and <i>G</i>agatîs.
+2\. They are Trish<i>t</i>ubhs and <i>G</i>agatîs. <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> 3\. There they say: ‘Why does he insert a Nivid among mixed Trish<i>t</i>ubhs and <i>G</i>agatîs [^482]?’ But surely one metre would never support the Nivid of this day, nor fill it: therefore he inserts the Nivid among mixed Trish<i>t</i>ubhs and <i>G</i>agatîs.
 
 4\. Let him know that this day has three Nivids: the Vasa hymn is a Nivid, the Vâlakhilyas [^483] are a Nivid, and the Nivid itself is a Nivid. Thus let him know that day as having three Nivids.
 
@@ -74,7 +74,7 @@ FIFTH ADHYÂYA.
 
 7\. After that he recites the Sa<i>g</i>anîya hymn, wishing that cattle may always come to his offspring.
 
-8\. Then he recites the Târkshya hymn [^485]. Târkshya is verily welfare, and the hymn leads to welfare. Thus (by reciting the hymn) he fares well [^486]. <span id="p196">[<sup><small>p. 196</small></sup>]</span> 9\. Then he recites the Ekapadâ (indro vi<i>s</i>va<i>m</i> vi râ<i>g</i>ati), wishing, May I be everything at once, and may I thus finish the whole work of metres [^487].
+8\. Then he recites the Târkshya hymn [^485]. Târkshya is verily welfare, and the hymn leads to welfare. Thus (by reciting the hymn) he fares well [^486]. <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> 9\. Then he recites the Ekapadâ (indro vi<i>s</i>va<i>m</i> vi râ<i>g</i>ati), wishing, May I be everything at once, and may I thus finish the whole work of metres [^487].
 
 10\. In reciting the hymn indra<i>m</i> vi<i>s</i>vâ aviv<i>ri</i>dhan (Rv. I, 11) he intertwines the first seven verses by intertwining their feet [^488]. There are seven prâ<i>n</i>as (openings) in the head, and he thus places seven prâ<i>n</i>as in the head. The eighth verse (half-verse) he does not intertwine [^489]. The eighth is speech, and he thinks, May my speech never be intertwined with the other prâ<i>n</i>as. Speech therefore, though dwelling in the same abode as the other prâ<i>n</i>as, is not intertwined with them.
 
@@ -84,7 +84,7 @@ FIFTH ADHYÂYA.
 
 13\. But let him end with the fifth verse, esha stomo maha ugrâya vâhe, which, possessing the word mahat, is auspicious.
 
-14\. In the second foot of the fifth verse the word dhuri occurs. Verily, dhu<i>h</i> (the place where the horse is fastened to the car) is the end (of the car). This day also is the end (of the sacrifice which lasts a whole year) [^492]. Thus the verse is fit for the day. <span id="p197">[<sup><small>p. 197</small></sup>]</span> 15\. In the third foot the word arka is auspicious.
+14\. In the second foot of the fifth verse the word dhuri occurs. Verily, dhu<i>h</i> (the place where the horse is fastened to the car) is the end (of the car). This day also is the end (of the sacrifice which lasts a whole year) [^492]. Thus the verse is fit for the day. <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> 15\. In the third foot the word arka is auspicious.
 
 16\. The last foot is: ‘Make our glory high as heaven over heaven.’ Thus wherever Brahmanic speech is uttered, there his glory will be, when he who knows this finishes with that verse. Therefore let a man who knows this, finish (the Nishkevalya) with that verse.
 
@@ -94,7 +94,7 @@ FIFTH ADHYÂYA.
 
 2\. On that day [^495] much is done now and then which has to be hidden, and has to be atoned for. Atonement is rest, the one-day sacrifice. Therefore at the end of the year the sacrificers; rest on this atonement as their rest. He who knows this rests firm, and they also for whom a Hot<i>ri</i> priest who knows this, recites this hymn.
 
-3\. Then (follows) the hymn addressed to Savit<i>ri</i>, tad devasya savitur vâryam mahat (Rv. IV, 53). Verily, mahat, great, (in this foot) is the end [^496]. This day too is the end. Thus the verse is fit for the day. <span id="p198">[<sup><small>p. 198</small></sup>]</span> 4\. The hymn katarâ pûrvâ katarâ parâyo<i>h</i> (Rv. I, 185), addressed to Dyâvâp<i>ri</i>thivî, is one in which many verses have the same ending. Verily, this day also (the mahâvrata) is one in which many receive the same reward [^497]. Thus it is fit for the day.
+3\. Then (follows) the hymn addressed to Savit<i>ri</i>, tad devasya savitur vâryam mahat (Rv. IV, 53). Verily, mahat, great, (in this foot) is the end [^496]. This day too is the end. Thus the verse is fit for the day. <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> 4\. The hymn katarâ pûrvâ katarâ parâyo<i>h</i> (Rv. I, 185), addressed to Dyâvâp<i>ri</i>thivî, is one in which many verses have the same ending. Verily, this day also (the mahâvrata) is one in which many receive the same reward [^497]. Thus it is fit for the day.
 
 5\. The hymn ana<i>s</i>vo <i>g</i>âto anabhî<i>s</i>ur ukthya<i>h</i> (Rv. IV, 36) is addressed to the <i>Ri</i>bhus.
 
@@ -108,7 +108,7 @@ FIFTH ADHYÂYA.
 
 10\. On that day much is done now and then which has to be hidden, and has to be atoned for. Atonement is rest, the one-day sacrifice. Therefore at the end of the year the sacrificers rest on this atonement as their rest. He who knows this rests firm, and they also for whom a Hot<i>ri</i> priest who knows this, recites this hymn.
 
-11\. The hymn vai<i>s</i>vânarâya dhisha<i>n</i>âm <i>ri</i>tav<i>ri</i>dhe <span id="p199">[<sup><small>p. 199</small></sup>]</span> (Rv. III, 2) forms the beginning of the Âgnimâruta. Dhisha<i>n</i>â, thought, is verily the end, this day also is the end. Thus it is fit for the day.
+11\. The hymn vai<i>s</i>vânarâya dhisha<i>n</i>âm <i>ri</i>tav<i>ri</i>dhe <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> (Rv. III, 2) forms the beginning of the Âgnimâruta. Dhisha<i>n</i>â, thought, is verily the end, this day also is the end. Thus it is fit for the day.
 
 12\. The hymn praya<i>g</i>yavo maruto bhrâ<i>g</i>ad<i>ri</i>sh<i>t</i>aya<i>h</i> (Rv. V, 55), addressed to the Maruts, is one in which many verses have the same ending. Verily, this day also is one in which many receive the same reward. Thus it is fit for the day [^500].
 

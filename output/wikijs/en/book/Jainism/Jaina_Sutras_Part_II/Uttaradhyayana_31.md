@@ -38,7 +38,7 @@ I shall declare the mode of life that benefits the soul; by practising it many s
 
 One should desist from one thing, and practise another: desist from neglect of self-control, and practise self-control. (2)
 
-Love and hatred are two evils which produce bad <span id="p181">[<sup><small>p. 181</small></sup>]</span> Karman; if a monk always avoids them, he will not stand within the circle (of transmigration). (3)
+Love and hatred are two evils which produce bad <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> Karman; if a monk always avoids them, he will not stand within the circle (of transmigration). (3)
 
 A monk who always avoids the thrice threefold hurtful, conceited, and delusive acts [^496], will not stand in the circle (of transmigration). (4)
 
@@ -52,7 +52,7 @@ A monk who always exerts himself with regard to the six lê<i>s</i>yâs [^501], 
 
 A monk who always exerts himself with regard to the (seven) rules of accepting alms [^503], and the seven causes of danger (to other men) will not stand, &c. (9)
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 A monk who always exerts himself with regard to the (eight) objects of pride [^504], to that which protects his chastity [^505], and to the tenfold Law of the monks [^506]. (10)
 
@@ -64,7 +64,7 @@ A monk who always exerts himself with regard to the sixteen Gâthâs [^509], and
 
 A monk who always exerts himself with regard to the (eighteen kinds of) continence, to the (nineteen) <i>g</i><i>ñ</i>âtâdhyayanas [^510], and the (twenty) cases for not concentrating one's thoughts, will not, &c. (14)
 
-<span id="p183">[<sup><small>p. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 A monk who always exerts himself with regard to the twenty-one forbidden [^511] actions, and the twenty-two troubles [^512], will not stand, &c. (15)
 
@@ -76,7 +76,7 @@ A monk who always exerts himself with regard to the (twenty-seven) virtues of th
 
 A monk who always exerts himself with regard to the (twenty-nine) causes of wrong knowledge, and the (thirty) causes of delusion, will not stand, &c. (19)
 
-A monk who always exerts himself with regard to the (thirty-one) qualities of Siddhas, &c., the (thirty-two) <span id="p184">[<sup><small>p. 184</small></sup>]</span> Yogas [^517], and thirty-three Â<i>s</i>âtanâs [^518], will not stand, &c. (20)
+A monk who always exerts himself with regard to the (thirty-one) qualities of Siddhas, &c., the (thirty-two) <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> Yogas [^517], and thirty-three Â<i>s</i>âtanâs [^518], will not stand, &c. (20)
 
 A clever monk who always exerts himself with regard to the above-mentioned points, will soon be thoroughly released from the Circle of Births (21)
 

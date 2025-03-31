@@ -83,7 +83,7 @@ Ráhu  [^1005] the dreadful Dragon shines.
 Full thirty qivers near his side,
 His car with shafts is well supplied:
 
-<span id="p483">[<sup><small>p. 483</small></sup>]</span>
+<span id="p483"><sup><small>[ p. 483 ]</small></sup></span>
 
 And flashing like the light of stars
 Gleam his two mighty scimitars.
@@ -204,7 +204,7 @@ And Kumbhakarna hold in fight?
 These, these and many a Rákshas more,
 Each master of the arms he bore,
 
-<span id="p484">[<sup><small>p. 484</small></sup>]</span>
+<span id="p484"><sup><small>[ p. 484 ]</small></sup></span>
 
 Who every foe in fight o'erthrew,
 The victors none could e'er subdue,
@@ -327,7 +327,7 @@ In Rávan's hall the princes' fate.
 The shades of falling night concealed
 The carnage of the battle field,
 
-<span id="p485">[<sup><small>p. 485</small></sup>]</span>
+<span id="p485"><sup><small>[ p. 485 ]</small></sup></span>
 
 Which, hearing each a blazing brand,
 Hanúmán and Vibhíshan scanned,
@@ -432,7 +432,7 @@ There was Kuvera's bright abode;
 There Brahma's mystic weapon glowed.
 There was the noble hill whereon
 
-<span id="p486">[<sup><small>p. 486</small></sup>]</span>
+<span id="p486"><sup><small>[ p. 486 ]</small></sup></span>
 
 Those herbs with wondrous lustre shone.
 And, ravished by the glorious sight,
@@ -554,7 +554,7 @@ Nikumbha saw his brother die,
 And red with fury flashed his eye.
 He dashed with mighty sway and swing
 
-<span id="p487">[<sup><small>p. 487</small></sup>]</span>
+<span id="p487"><sup><small>[ p. 487 ]</small></sup></span>
 
 His axe against the Vánar king;
 But shattered on that living rock

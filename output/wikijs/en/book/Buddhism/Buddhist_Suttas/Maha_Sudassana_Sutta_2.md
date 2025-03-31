@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 ## THE GREAT KING OF GLORY. MAHÂ-SUDASSANA-SUTTA. CHAPTER II.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘“Thus far only, O thoughts of hatred!”
 
-4\. 'And when, Ânanda, the Great King of Glory had entered the chamber of the Great Complex, <span id="p272">[<sup><small>p. 272</small></sup>]</span> and had seated himself upon the couch of gold, having put away all passion and all unrighteousness, he entered into, and remained in, the First <i>Gh</i>âna,—a state of joy and ease, born of seclusion, full of reflection, full of investigation.
+4\. 'And when, Ânanda, the Great King of Glory had entered the chamber of the Great Complex, <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> and had seated himself upon the couch of gold, having put away all passion and all unrighteousness, he entered into, and remained in, the First <i>Gh</i>âna,—a state of joy and ease, born of seclusion, full of reflection, full of investigation.
 
 5\. 'By suppressing reflection and investigation, he entered into, and remained in, the Second <i>Gh</i>âna,—a state of joy and ease, born of serenity, without reflection, without investigation, a state of elevation of mind, of internal calm.
 
@@ -72,7 +72,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ---
 
-8\. 'Then, Ânanda, the Great King of Glory went out from the chamber of the Great Complex, and entered the golden chamber and sat himself down on the silver couch. And he let his mind pervade <span id="p273">[<sup><small>p. 273</small></sup>]</span> one quarter of the world with thoughts of Love; and so the second quarter, and so the third, and so the fourth. And thus the whole wide world, above, below, around, and everywhere, did he continue to pervade with heart of Love, far-reaching, grown great, and beyond measure, free from the least trace of anger or ill-will.
+8\. 'Then, Ânanda, the Great King of Glory went out from the chamber of the Great Complex, and entered the golden chamber and sat himself down on the silver couch. And he let his mind pervade <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> one quarter of the world with thoughts of Love; and so the second quarter, and so the third, and so the fourth. And thus the whole wide world, above, below, around, and everywhere, did he continue to pervade with heart of Love, far-reaching, grown great, and beyond measure, free from the least trace of anger or ill-will.
 
 9\. 'And he let his mind pervade one quarter of the world with thoughts of Pity; and so the second quarter, and so the third, and so the fourth. And thus the whole wide world, above, below, around, and everywhere, did he continue to pervade with heart of Pity, far-reaching, grown great, and beyond measure, free from the least trace of anger or ill-will.
 
@@ -80,7 +80,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 11\. 'And he let his mind pervade one quarter of the world with thoughts of Equanimity[^3]; and so the second quarter, and so the third, and so the fourth. And thus the whole wide world, above, below, around, and everywhere, did he continue to pervade with heart of Equanimity, far-reaching, grown great, and beyond measure, free from the least trace of anger or ill-will.
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 12\. 'The Great King of Glory, Ânanda, had four and eighty thousand cities, the chief of which was the royal city of Kusâvatî:
 
@@ -100,7 +100,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘Four and eighty thousand wives, of whom the Queen of Glory was the chief:
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 ‘Four and eighty thousand yeomen, of whom the Wonderful Steward was the chief:
 
@@ -122,7 +122,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 15\. 'Then, Ânanda, the Great King of Glory said to the Great Adviser:
 
-‘"O, my friend, the Great Adviser! these eighty thousand elephants come every evening and every morning to be of service to me. Now, let the elephants come, O my friend, the Great Adviser, in <span id="p276">[<sup><small>p. 276</small></sup>]</span> alternate forty thousands, once each, every alternate hundred years!”
+‘"O, my friend, the Great Adviser! these eighty thousand elephants come every evening and every morning to be of service to me. Now, let the elephants come, O my friend, the Great Adviser, in <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> alternate forty thousands, once each, every alternate hundred years!”
 
 ‘“Even so, Lord!” said the Wonderful Adviser, in assent, to the Great King of Glory.
 
@@ -144,7 +144,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘“Arrange, O Great Adviser, the fourfold army in array. ’Tis long since I have beheld the Great King of Glory. I am about to go to visit the Great King of Glory.”
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 21\. '“Even so, O Queen!” said the Great Adviser, Ânanda, in assent, to the Queen of Glory. And he set the fourfold army in array, and had the fact announced to the Queen of Glory in the words:
 
@@ -166,7 +166,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘“Arise, good man! take the golden couch out of the chamber of the Great Complex, and make it ready under that grove of palm trees which is all of gold.”
 
-26\. ‘“Even so, Lord!” said the man, in assent, to the Great King of Glory. And he took the golden couch out of the chamber of the Great Complex, and made it ready under that grove of palm trees which was all of gold. <span id="p278">[<sup><small>p. 278</small></sup>]</span>
+26\. ‘“Even so, Lord!” said the man, in assent, to the Great King of Glory. And he took the golden couch out of the chamber of the Great Complex, and made it ready under that grove of palm trees which was all of gold. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 27\. ’Then, Ânanda, the Great King of Glory laid himself down in the dignified way a lion does; and lay with one leg resting on the other, calm and self-possessed.
 
@@ -184,7 +184,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘"Thine, O King, are those four and eighty thousand chambers, the chief of which is the chamber of the Great Complex. Arise, O King, re-awaken thy desire for these! quicken thy longing after life!
 
-‘"Thine, O King, are those four and eighty thousand divans, of gold, and silver, and ivory, and sandal wood, spread with long-haired rugs, and cloths embroidered with flowers, and magnificent antelope skins; covered with lofty canopies; and provided at both ends with purple cushions. Arise, <span id="p279">[<sup><small>p. 279</small></sup>]</span> O King, re-awaken thy desire for these! quicken thy longing after life!
+‘"Thine, O King, are those four and eighty thousand divans, of gold, and silver, and ivory, and sandal wood, spread with long-haired rugs, and cloths embroidered with flowers, and magnificent antelope skins; covered with lofty canopies; and provided at both ends with purple cushions. Arise, <span id="p279"><sup><small>[ p. 279 ]</small></sup></span> O King, re-awaken thy desire for these! quicken thy longing after life!
 
 ‘"Thine, O King, are those four and eighty thousand state elephants, with trappings of gold, and gilded flags, and golden coverings of network,-of which the king of elephants, called ’the Changes of the Moon,' is chief. Arise, O King, re-awaken thy desire for these! quicken thy longing after life!
 
@@ -198,7 +198,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘"Thine, O King, are those four and eighty thousand yeomen, of whom the Wonderful Steward is the chief. Arise, O King, re-awaken thy desire for these! quicken thy longing after life!
 
-‘"Thine, O King, are those four and eighty thousand nobles, of whom the Wonderful Adviser is the <span id="p280">[<sup><small>p. 280</small></sup>]</span> hief Arise, O King, re-awaken thy desire for these! quicken thy longing after life!
+‘"Thine, O King, are those four and eighty thousand nobles, of whom the Wonderful Adviser is the <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> hief Arise, O King, re-awaken thy desire for these! quicken thy longing after life!
 
 ‘"Thine, O King, are those four and eighty thousand cows, with jute trappings, and horns tipped with bronze. Arise, O King, re-awaken thy desire for these! quicken thy longing after life!
 
@@ -214,7 +214,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 31\. '“How then, O King, shall I address thee?”
 
-‘"Thus, O Queen, shouldst thou address me:—The nature of all things near and dear to us, O King, is such that we must leave them, divide ourselves from them, separate ourselves from them[^7]. Pass not away, O King, with longing in thy heart. Sad is the death of him who longs, unworthy is the death of him who longs[^8]. Thine, O King, are these <span id="p281">[<sup><small>p. 281</small></sup>]</span> our and eighty thousand cities, the chief of which is the royal city of Kusâvatî. Cast away desire for these! long not after life!
+‘"Thus, O Queen, shouldst thou address me:—The nature of all things near and dear to us, O King, is such that we must leave them, divide ourselves from them, separate ourselves from them[^7]. Pass not away, O King, with longing in thy heart. Sad is the death of him who longs, unworthy is the death of him who longs[^8]. Thine, O King, are these <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> our and eighty thousand cities, the chief of which is the royal city of Kusâvatî. Cast away desire for these! long not after life!
 
 ‘"Thine, O King, are these four and eighty thousand palaces, the chief of which is the Palace of Righteousness. Cast away desire for these! long not after life!
 
@@ -228,7 +228,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘"Thine, O King, are these four and eighty thousand chariots, with coverings of the skins of lions, and of tigers, and of panthers,—of which the chariot called ’the Flag of Victory' is the chief. Cast away desire for these! long not after life!
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 ‘"Thine, O King, are these four and eighty thousand gems, of which the Wondrous Gem is the chief. Cast away desire for these! long not after life!
 
@@ -250,7 +250,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 33\. 'Then, Ânanda, the Queen of Glory wiped away her tears, and addressed the Great King of Glory, and said:
 
-‘"The nature of all things near and dear to us, O King, is such that we must leave them, divide <span id="p283">[<sup><small>p. 283</small></sup>]</span> ourselves from them, separate ourselves from them. Pass not away, O King, with longing in thy heart. Sad is the death of him who longs, unworthy is the death of him who longs. Thine, O King, are these four and eighty thousand cities, the chief of which is the royal city of Kusâvatî. Cast away desire for these! long not after life!
+‘"The nature of all things near and dear to us, O King, is such that we must leave them, divide <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> ourselves from them, separate ourselves from them. Pass not away, O King, with longing in thy heart. Sad is the death of him who longs, unworthy is the death of him who longs. Thine, O King, are these four and eighty thousand cities, the chief of which is the royal city of Kusâvatî. Cast away desire for these! long not after life!
 
 ‘"Thine, O King, are these four and eighty thousand palaces, the chief of which is the Palace of Righteousness. Cast away desire for these! long not after life!
 
@@ -262,7 +262,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘"Thine, O King, are these four and eighty thousand state horses, with trappings of gold, and gilded flags, and golden coverings of network,—of which ’Thunder-cloud,' the king of horses, is the chief. Cast away desire for these! long not after life!
 
-‘"Thine, O King, are these four and eighty thousand <span id="p284">[<sup><small>p. 284</small></sup>]</span> chariots, with coverings of the skins of lions, and of tigers, and of panthers,—of which the chariot called ’the Flag of Victory' is the chief. Cast away desire for these! long not after life!
+‘"Thine, O King, are these four and eighty thousand <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> chariots, with coverings of the skins of lions, and of tigers, and of panthers,—of which the chariot called ’the Flag of Victory' is the chief. Cast away desire for these! long not after life!
 
 ‘"Thine, O King, are these four and eighty thousand gems, of which the Wondrous Gem is the chief. Cast away desire for these! long not after life!
 
@@ -280,7 +280,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ---
 
-34\. 'Then immediately, Ânanda, the Great King of Glory died. Just, Ânanda, as when a yeoman has eaten a hearty meal he becomes all drowsy, <span id="p285">[<sup><small>p. 285</small></sup>]</span> just so were the feelings he experienced, Ânanda, as death came upon the Great King of Glory.
+34\. 'Then immediately, Ânanda, the Great King of Glory died. Just, Ânanda, as when a yeoman has eaten a hearty meal he becomes all drowsy, <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> just so were the feelings he experienced, Ânanda, as death came upon the Great King of Glory.
 
 35\. 'When the Great King of Glory, Ânanda, had died, he came to life again in the happy world of Brahmâ.
 
@@ -296,7 +296,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘Mine were the four and eighty thousand chambers, of which the chief was the chamber of the Great Complex.
 
-‘Mine were the four and eighty thousand divans, <span id="p286">[<sup><small>p. 286</small></sup>]</span> of gold, and silver, and ivory, and sandal wood, spread with long-haired rugs, and cloths embroidered with flowers, and magnificent antelope skins; covered with lofty canopies; and provided at both ends with purple cushions.
+‘Mine were the four and eighty thousand divans, <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> of gold, and silver, and ivory, and sandal wood, spread with long-haired rugs, and cloths embroidered with flowers, and magnificent antelope skins; covered with lofty canopies; and provided at both ends with purple cushions.
 
 ‘Mine were the four and eighty thousand state elephants, with trappings of gold, and gilded flags, and golden coverings of network,—of which the king of elephants, called “the Changes of the Moon,” was chief.
 
@@ -320,7 +320,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ---
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 38\. 'Of those four and eighty thousand cities, Ânanda, one was that city in which, at that time, I used to dwell—to wit, the royal city of Kusâvatî.
 
@@ -340,7 +340,7 @@ Of those four and eighty thousand divans too, Ânanda, one was that divan which,
 
 ‘Of those four and eighty thousand myriads of suits of apparel too, Ânanda, one was the suit of apparel which, at that time, I wore—to wit, one of delicate texture, of linen, or cotton, or silk, or wool.
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 ‘Of those four and eighty thousand dishes too, Ânanda, one was that dish from which, at that time, I ate a measure of rice and the curry suitable thereto.
 
@@ -354,7 +354,7 @@ Of those four and eighty thousand divans too, Ânanda, one was that divan which,
 
 41\. ‘But I behold not any spot, Ânanda, in the world of men and gods, nor in the world of Mâra, nor in the world of Brahma,—no, not among the race of Sama<i>n</i>as or Brâhmans, of gods or men,—where the Tathâgata for the eighth time will lay aside his body[^10].’
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 42\. Thus spake the Blessed One; and when the Happy One had thus spoken, once again the Teacher said:
 
@@ -367,7 +367,7 @@ And then is best, when they have sunk to rest[^11]!’
 
 End of the Mahâ-Sudassana Sutta.
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 
 <figure class="table chapter-navigator">

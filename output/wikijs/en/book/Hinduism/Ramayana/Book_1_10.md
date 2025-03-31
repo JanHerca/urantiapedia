@@ -50,7 +50,7 @@ Whose constant care and chief delight
 Were Scripture and ascetic rite,
 The good Válmíki, first and best
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 Of hermit saints, these words addressed: [^8]
 ‘In all this world, I pray thee, who
@@ -97,7 +97,7 @@ Fortune has set her mark on him.
 Graced with a conch-shell's triple line,
 His threat displays the auspicious sign. [^15]
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 High destiny is clear impressed
 On massive jaw and ample chest,
@@ -161,7 +161,7 @@ And that her child the heir should be.
 By chains of duty firmly tied,
 Thw wretched king perforce complied.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 Ráma, to please Kaikeyí went
 Obedient forth to banishment.
@@ -227,7 +227,7 @@ Their visit to his calm retreat,
 Away from Chitrakúta's hill
 Fared Ráma ever onward till
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Beneath the shady trees he stood
 Of Dandaká's primeval wood,
@@ -337,7 +337,7 @@ Two hundred leagues across the deep.
 To Lanká's [^34] town he urged his way,
 Where Rávan held his royal sway.
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 There pensive 'neath As'oka  [^35] boughs
 He found poor Sitá, Ráma's spouse.
@@ -425,7 +425,7 @@ The merchant, luck in trade obtain;
 And S'údras listening  [^41] ne'er shall fail
 To reap advantage from the tale.  [^42]
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 
 
@@ -522,7 +522,7 @@ And mused in deepest thought enthralled.
 &nbsp;&nbsp;&nbsp;&nbsp;Then glorious Brahmá,  [^46] Lord Most High.
 Creator of the earth and sky,
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 The four-faced God, to meet the sage
 Came to Válmíki's hermitage.
@@ -612,7 +612,7 @@ And looked with eager thought around
 If fuller knowledge might be found.
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 His lips with water first bedewed,  [^50]
 He sate, in reverent attitude
@@ -720,7 +720,7 @@ The cave wherein the bear abode.
 The fast proposed, their lives to end;
 Sampati gained to be their friend.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 The scaling of the hill, the leap
 Of Hanumán across the deep.
@@ -823,7 +823,7 @@ Their saintly master's word fulfilled.
 Like Ráma's self, from whom they came,
 They shared their size in face and frame,
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 As though from some fair sculptured stone
 Two selfsame images had grown.
@@ -930,7 +930,7 @@ While good men listen with delight.
 &nbsp;&nbsp;&nbsp;&nbsp;On Sarjú's  [^61] bank, of ample size,
 The happy realm of Kos'al lies,
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 With fertile length of fair champaign
 And flocks and herds and wealth of grain.
@@ -1014,7 +1014,7 @@ To country and to town endeared,
 Great Das'aratha, good and sage.
 Well read in Scripture's holy page:
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 Upon his kingdom's weal intent,
 Mighty and brave and provident;
@@ -1102,7 +1102,7 @@ Like Indra's for their form and speed,
 From Váhlí's  [^71] hills and Sindhu's  [^72] sand,
 Vanáyu  [^73] and Kámboja's land.  [^74]
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 Her noble elephants had strayed
 Through Vindhyan and Himálayan shade,
@@ -1200,7 +1200,7 @@ None of loose life or evil fame,
 No temper of another's dame.
 Contented with their lot each caste
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Calm days in blissful quiet passed;
 And, all in fitting tasks employed,
@@ -1311,7 +1311,7 @@ Attired in holy hermits' weed,
 That they the hermit may beguile
 With every art and amorous wile
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Whose use they know so well,
 And by their witcheries seduce
@@ -1425,7 +1425,7 @@ His modest soul with soft desire.
 With arch of brow, with beck and smile,
 With every passion-waking wile
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Of glance and lotus hand,
 With all enticements that excite
@@ -1551,7 +1551,7 @@ Thus having warned him of his foes
 &nbsp;&nbsp;&nbsp;&nbsp;That night at home he spent.
 And when the morrow's sun arose
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Forth to the forest went.
 
@@ -1670,7 +1670,7 @@ To celebrate the sacrifice
 To win him sons and Paradise,  [^82]
 That he will fain prepare.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 From him the lord of men at length
 &nbsp;&nbsp;&nbsp;&nbsp;The boon he seeks shall gain,

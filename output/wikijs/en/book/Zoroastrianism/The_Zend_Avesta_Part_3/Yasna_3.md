@@ -34,13 +34,13 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## YASNA III. THE YASNA ADVANCES TO THE NAMING OF THE OBJECTS OF PROPITIATION.
 
-1\. With a Baresman brought to its appointed place accompanied with the Zaothra at the time of Hâvani, I desire to approach the Myazda-offering with my praise, as it is consumed, and likewise Ameretatâ<i>t</i> [^926] (as the guardian of plants and wood) and Haurvatâ<i>t</i> (who guards the water), with the (fresh) meat [^927], for the propitiation of Ahura Mazda, and of the Bountiful <span id="p208">[<sup><small>p. 208</small></sup>]</span> Immortals, and for the propitiation of Sraosha (who is Obedience) the blessed, who is endowed with sanctity, and who smites with the blow of victory, and causes the settlements to advance.
+1\. With a Baresman brought to its appointed place accompanied with the Zaothra at the time of Hâvani, I desire to approach the Myazda-offering with my praise, as it is consumed, and likewise Ameretatâ<i>t</i> [^926] (as the guardian of plants and wood) and Haurvatâ<i>t</i> (who guards the water), with the (fresh) meat [^927], for the propitiation of Ahura Mazda, and of the Bountiful <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> Immortals, and for the propitiation of Sraosha (who is Obedience) the blessed, who is endowed with sanctity, and who smites with the blow of victory, and causes the settlements to advance.
 
 2\. And I desire to approach Haoma and Parahaoma [^928] with my praise for the propitiation of the Fravashi of Spitâma Zarathu<i>s</i>tra, the saint. And I desire to approach the (sacred) wood with my praise, with the perfume, for the propitiation of thee, the Fire, O Ahura Mazda's son!
 
 3\. And I desire to approach the Haomas with my praise for the propitiation of the good waters which Mazda created; and I desire to approach the Haoma-water, and the fresh milk [^929] with my praise, and the plant Hadhânaêpata, offered with sanctity for the propitiation of the waters which are Mazda-made.
 
-4\. And I desire to approach this Baresman with the Zaothra with my praise, with its binding [^930] and spread with sanctity for the propitiation of the Bountiful Immortals. And I desire with (?) my voice the thoughts well thought, and the words well spoken, and the deeds well done, and the recital of the Gâthas as they are heard. And I desire to approach the well-said Mãthras with my praise, and this (higher) lordship with this sanctity, and this exact regulation [^931] (of the Ratu), and the reverential prayer for blessings (spoken at the fitting hour); and I desire to approach them for the contentment and propitiation <span id="p209">[<sup><small>p. 209</small></sup>]</span> or the holy Yazads, heavenly and earthly, and for the contentment of each man's soul.
+4\. And I desire to approach this Baresman with the Zaothra with my praise, with its binding [^930] and spread with sanctity for the propitiation of the Bountiful Immortals. And I desire with (?) my voice the thoughts well thought, and the words well spoken, and the deeds well done, and the recital of the Gâthas as they are heard. And I desire to approach the well-said Mãthras with my praise, and this (higher) lordship with this sanctity, and this exact regulation [^931] (of the Ratu), and the reverential prayer for blessings (spoken at the fitting hour); and I desire to approach them for the contentment and propitiation <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> or the holy Yazads, heavenly and earthly, and for the contentment of each man's soul.
 
 5\. And I desire to approach the Asnya with my praise, the lords of the ritual order, and the Hâvani and Sâvanghi and Vîsya, the holy lords of the ritual order. And I desire to approach with the Ya<i>s</i>t [^932] of Mithra of the wide pastures, of the thousand ears, of the myriad eyes, the Yazad of the spoken name, and with him Raman <i>H</i><i>v</i>âstra.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 8\. And Aiwisrûthrima, and Aibigaya, and Frâda<i>t</i>\-vîspãm-hu<i>g</i>aiti, and Zarathu<i>s</i>trôtema with the Ya<i>s</i>t of the Fravashis of the saints [^933], and of the women who have many sons, and the year long unchanged prosperity, and of Might, the well-shaped and stately, smiting victoriously, Ahura-made and of the Victorious Ascendency (which it secures).
 
-9\. And I desire to approach Ushahina, Bere<i>g</i>ya, and Nmânya with the Ya<i>s</i>t of Sraosha (Obedience) the sacred, the holy, who smites with the blow of victory, and makes the settlements advance, and with that of Rashnu, the most just, and Ar<i>s</i>tâ<i>t</i> <span id="p210">[<sup><small>p. 210</small></sup>]</span> who furthers the settlements, and causes them to increase.
+9\. And I desire to approach Ushahina, Bere<i>g</i>ya, and Nmânya with the Ya<i>s</i>t of Sraosha (Obedience) the sacred, the holy, who smites with the blow of victory, and makes the settlements advance, and with that of Rashnu, the most just, and Ar<i>s</i>tâ<i>t</i> <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> who furthers the settlements, and causes them to increase.
 
 10\. And I desire to approach the monthly festivals, the lords of the ritual order, and the new moon and the waning moon, and the full moon which scatters night,
 
@@ -60,13 +60,13 @@ dateCreated: 2025-2-12T12:15:42Z
 
 14\. And with thy Ya<i>s</i>t, the Fire's, O Ahura Mazda's son! with all the fires, and to the good waters with the Ya<i>s</i>t of all the waters which are Mazda-made, and with that of all the plants which Mazda made.
 
-15\. And I desire to approach with the Ya<i>s</i>t of the <span id="p211">[<sup><small>p. 211</small></sup>]</span> Mãthra Spe<i>n</i>ta, the holy, the effective, the law composed against the Daêvas, the Zarathu<i>s</i>trian, and with that of the long descent of the Religion which Mazda gave.
+15\. And I desire to approach with the Ya<i>s</i>t of the <span id="p211"><sup><small>[ p. 211 ]</small></sup></span> Mãthra Spe<i>n</i>ta, the holy, the effective, the law composed against the Daêvas, the Zarathu<i>s</i>trian, and with that of the long descent of the Religion which Mazda gave.
 
 16\. And I desire to approach with the Ya<i>s</i>t of Mount Ushi-darena, Mazda-made, and of all, glorious with sanctity, and abundant in brilliance, and with that of the Kingly Glory, Mazda-made; yea, with that of the unconsumed glory which Mazda made, and with that of Ashi Vanguhi, and <i>K</i>i<i>s</i>ti Vanguhi, and with that of the good Ereth<i>e</i>, and the good Rasãstâ<i>t</i>, and the good Glory, and of the Benefit which Mazda gave.
 
 17\. And I desire to approach with the Ya<i>s</i>t of the good and pious Blessing of the pious man and of the saint, and with that of the awful and swift Curse of the wise, the Yazad-curse, (18) and to these places, regions, pastures, and abodes, with their water-springs, and with that of the waters, and the lands, and the plants, and with that of this earth and yon heaven, and with that of the holy wind and of the stars, moon, and sun, and with that of the stars without beginning, self-determined and self-moved, and with that of all the holy creatures which are those of Spe<i>n</i>ta Mainyu, male and female, regulators of the ritual order, (19) and with that of the lofty lord who is Righteousness (himself, the essence of the ritual), and with that of the days in their duration, and of the days during daylight, and with that of the monthly festivals, and the yearly festivals, and with those of the several seasons which are lords of the ritual at the time of Hâvani.
 
-20\. And I desire to approach the meat-offering with a Ya<i>s</i>t, and Haurvatâ<i>t</i> (who guards the water), and Ameretatâ<i>t</i> (who guards the plants and wood), with <span id="p212">[<sup><small>p. 212</small></sup>]</span> the Ya<i>s</i>t of the sacred flesh for the propitiation of Sraosha (Obedience) the blessed and the mighty, whose body is the Mãthra, of him of the daring spear, the lordly, the Yazad of the spoken name.
+20\. And I desire to approach the meat-offering with a Ya<i>s</i>t, and Haurvatâ<i>t</i> (who guards the water), and Ameretatâ<i>t</i> (who guards the plants and wood), with <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> the Ya<i>s</i>t of the sacred flesh for the propitiation of Sraosha (Obedience) the blessed and the mighty, whose body is the Mãthra, of him of the daring spear, the lordly, the Yazad of the spoken name.
 
 21\. And I desire to approach both Haoma and the Haoma-juice with a Ya<i>s</i>t for the propitiation of the Fravashi of Zarathu<i>s</i>tra Spitâma, the saint, the Yazad of the spoken name. And I desire to approach the wood-billets with a Ya<i>s</i>t, with the perfume for the propitiation of thee, the Fire, O Ahura Mazda's son! the Yazad of the spoken name.
 
@@ -76,7 +76,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 24\. I will confess myself a Mazdayasnian, of Zarathu<i>s</i>tra's order, a foe to the Daêvas, devoted to the lore of the Lord for Hâvani, the holy lord of the ritual order, for sacrifice, homage, propitiation, and for praise, and for Sâvanghi and Vîsya, the holy lord(s) of the ritual order, and for the sacrifice, homage, propitiation, and praise of the day-lords of the days in their duration, and of the days during daylight, and for the month-regulators, and the year-regulators, and for those of the (several) seasons, for their sacrifice, and homage, their propitiation, and their praise.
 
-(The Zaotar speaks [^934]): As the Ahû to be <span id="p213">[<sup><small>p. 213</small></sup>]</span> (revered and) chosen, let the priest speak [^935] forth to me.
+(The Zaotar speaks [^934]): As the Ahû to be <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> (revered and) chosen, let the priest speak [^935] forth to me.
 
 (The Ratu responds): As the Ahû to be (revered and) chosen, let him who is the Zaotar speak [^935] forth to me.
 

@@ -34,7 +34,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 
 
-<span id="p405">[<sup><small>p. 405</small></sup>]</span>
+<span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 
 Page 66, 1. 11, and note 1. The <i>K</i>atush<i>t</i>oma is such an arrangement of the Stotras of a Soma-sacrifice in which the Stomas (or hymn-forms) employed increase successively by four syllables. See notes on XI, 5, 2, 9; XIII, 3, 1, 4 (sic!).
 
@@ -86,7 +86,7 @@ P. 363, note 1. The reference is wrong; for the real Satya-sâman. see part iv, 
 
 P. 67, l. 24. In the opposite direction, i.e. in the direction away from us.
 
-<span id="p406">[<sup><small>p. 406</small></sup>]</span>
+<span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 
 P. 369, note 1. The reference is wrong; for the real tetra-sâman, see part iv, p. 145, note 1.
 

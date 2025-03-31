@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 ## IV. Another Jewish King, Persecutor of Christians.
 
@@ -57,7 +57,7 @@ Of waters sweet;[^121] in Scripture mentioned oft and oft.[^122]
 The seeker's wish, if rightly we consider it,
 A scintillation is of flame from holy writ.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 No flame exists apart from body whence it burns;
 <sup id="v10"><small>10</small></sup>  Where’er the burning body hies, the flame, too, turns.
@@ -95,7 +95,7 @@ As nightingale pours out unto one rose its soul.
 Whatever _property_ may qualify a _thing_
 <sup id="v25"><small>25</small></sup>  Externally, man's qualities are mind's offspring.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 From purity, rich colours rise, good qualities;
 Stains,—moral, or as dyes,—from gross impurities.
@@ -130,7 +130,7 @@ Their sparks, the blasphemies of Christian and of Jew!
 If water in the jug and pitcher come to end,
 On wellspring we must draw, a fresh supply to send.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Our idol is the muddy dregs left in our jug;
 <sup id="v40"><small>40</small></sup>  The flesh the sewer from whence it filters, spite of plug.
@@ -163,7 +163,7 @@ And thence disdained prostration, though ’t should give relief.
 They snatched her infant; next, they dashed it in the flame.
 The mother's spirit quailed to see this deed of shame.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Though not herself, to save her infant, she'd bow down.
 But lo! a miracle! The babe cried: “Let alone!
@@ -198,7 +198,7 @@ From pleasure felt by me, for thee I've fear dismissed.
 Come in; come in! And others call, to follow thee.
 The Great King here His bounteous table's spread for me.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 Come in; come in! All of you, saints of God, elect!
 Resigned ones![^128] Faith's cup of martyrdom select!
@@ -232,7 +232,7 @@ He then came begging pity, in the Prophet's trace:
 For want of knowing better, insolent I was.
 ’Tis I that merit scorn and mockery. Alas!”
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 When God decides to humble any sinner, proud,
 A demon stirs this last t’ insult some man of God.
@@ -263,7 +263,7 @@ Why burn’st thou not? What is there? Hast thou lost thy power?
 Is this eye-binding?[^130] Is it, rather, reason's blind?
 <sup id="v95"><small>95</small></sup>  How is’t thy flames consume not all their hated kind?
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 Bewitched thee have they? Or is’t magic natural?
 Or is’t my fortune wills that thou turn prodigal?”
@@ -300,7 +300,7 @@ For, male and female like, they'll generate; they must.
 The flint and steel are means. Far higher raise thy look.
 <sup id="v110"><small>110</small></sup>  With reason thou’rt endowed. Go; read the holy book.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 One means comes from another means; and cause from cause.
 Without a means or cause, no means from self e’er rose.
@@ -331,7 +331,7 @@ The wind within that mystic circuit softly blew.
 While all that were beyond were dashed to pieces soon.
 Like chaff before the breeze, their limbs around were strewn.
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 Shaybān the shepherd, too, a circle round his fold
 Was used to draw; whate’er the season, hot or cold;
@@ -369,7 +369,7 @@ These things, he said, were mockeries, mere patent lies.
 His councillors conjured him more sedate to be;
 And not to push his hardihood to rash degree.
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 These councillors he fettered, into prison cast;
 Injustice to injustice adding, first and last.
@@ -406,7 +406,7 @@ In tenfold showers of mercy from th’ Ancient of Days.
 And we are still constrained to utter songs of thanks,
 That man should so be raised above th’ angelic ranks.
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 This rising and descending alternates for aye.
 The Lord forbid that I should fail therein one day!

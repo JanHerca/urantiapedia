@@ -36,7 +36,7 @@ TWELFTH LECTURE, CALLED THE CREED [^929].
 
 There are four (heretical) creeds [^930] which the disputants severally uphold: 1. the Kriyâvâda, 2. the Akriyâvâda, 3. the Vinayavâda, and 4. the A<i>g</i><i>ñ</i>ânavâda. (1)
 
-The agnostics [^931], though they (pretend to) be <span id="p316">[<sup><small>p. 316</small></sup>]</span> clever, reason incoherently, and do not get beyond the confusion of their ideas. Ignorant (teachers) speak to ignorant (pupils), and without reflection they speak untruth. (2)
+The agnostics [^931], though they (pretend to) be <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> clever, reason incoherently, and do not get beyond the confusion of their ideas. Ignorant (teachers) speak to ignorant (pupils), and without reflection they speak untruth. (2)
 
 Believing truth to be untruth, and calling a bad man good, the various upholders of Vinaya, asked about it, explain their tenet [^932]. (3)
 
@@ -44,7 +44,7 @@ Without perceiving the truth they speak thus: this object (viz. Môksha) is real
 
 They become involved in contradiction in their own assertions; they falter in their speech and are unable to repeat what is said to them [^935]. This (their opinion) has a valiant counter-opinion, this (our opinion) has no valiant counter-opinion; and Karman has six sources [^936]. (5)
 
-The Akriyâvâdins who do not understand the truth, bring forward various opinions; many men <span id="p317">[<sup><small>p. 317</small></sup>]</span> believing in them will whirl round in the endless Circle of Births. (6)
+The Akriyâvâdins who do not understand the truth, bring forward various opinions; many men <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> believing in them will whirl round in the endless Circle of Births. (6)
 
 ‘There rises no sun, nor does it set; there waxes no moon, nor does it wane; there are no rivers running, nor any winds blowing; the whole world is ascertained to be unreal [^937].’ (7)
 
@@ -56,7 +56,7 @@ Many men in this world who have studied astrology, the art of interpreting dream
 
 The (Kriyâvâdins) <i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as understanding the world (according to their lights), speak thus: misery is produced by one's own works, not by those of somebody else (viz. fate, creator, &c.) [^940]. But right knowledge and conduct lead to liberation. (11)
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 The (Tîrthakaras), being (as it were) the eyes of the world and its leaders, teach the path which is salutary to men; they have declared that the world is eternal inasmuch as creatures are (for ever) living in it, O ye men! (12)
 
@@ -68,7 +68,7 @@ The sinners cannot annihilate their works by new works; the pious annihilate the
 
 They know the past, present, and future ways of the world; they are leaders of other men, but follow no leader; they are awakened, and put an end to mundane existence. (16)
 
-Averse to injury of living beings, they do not act, nor cause others to act. Always restraining themselves, <span id="p319">[<sup><small>p. 319</small></sup>]</span> those pious men practise control, and some become heroes through their knowledge. (17) He regards small beings and large beings, the whole world as equal to himself; he comprehends the immense world, and being awakened he controls himself among the careless. (18)
+Averse to injury of living beings, they do not act, nor cause others to act. Always restraining themselves, <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> those pious men practise control, and some become heroes through their knowledge. (17) He regards small beings and large beings, the whole world as equal to himself; he comprehends the immense world, and being awakened he controls himself among the careless. (18)
 
 Those who have learned (the truth) by themselves or from others, are able (to save) themselves and others. One should always honour a man, who is like a light and makes manifest the Law after having well considered it. (19)
 

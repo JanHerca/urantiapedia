@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:11:52Z
   </table>
 </figure>
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 AMONG mankind, the recognition of beauty as such implies the idea of ugliness, and the recognition of good implies the idea of evil. There is the same mutual relation between existence and non-existence in the matter of creation; between difficulty and ease in the matter of accomplishing; between long and short in the matter of form; between high and low in the matter of elevation; between treble and bass in the matter of musical pitch; between before and after in the matter of priority.
 
@@ -42,7 +42,7 @@ The space between Heaven and Earth,—is it not like a bellows? It is empty, yet
 
 Heaven and Earth are long-lasting. The reason why Heaven and Earth can last long is that they live not for themselves, and thus they are able to endure.
 
-Thirty spokes unite in one nave; the utility <span id="p44">[<sup><small>p. 44</small></sup>]</span> of the cart depends on the hollow centre in which the axle turns. Clay is moulded into a vessel; the utility of the vessel depends on its hollow interior. Doors and windows are cut out in order to make a house; the utility of the house depends on the empty spaces.
+Thirty spokes unite in one nave; the utility <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> of the cart depends on the hollow centre in which the axle turns. Clay is moulded into a vessel; the utility of the vessel depends on its hollow interior. Doors and windows are cut out in order to make a house; the utility of the house depends on the empty spaces.
 
 Thus, while the existence of things may be good, it is the non-existent in them which makes them serviceable.
 
@@ -52,7 +52,7 @@ Cast off your holiness, rid yourself of sagacity, and the people will benefit an
 
 A variety of colours makes man's eye blind; a diversity of sounds makes man's ear deaf; a mixture of flavours makes man's palate dull.
 
-He who knows others is clever, but he who knows himself is enlightened. He who overcomes others is strong, but he who overcomes himself is mightier still. He is rich who knows <span id="p45">[<sup><small>p. 45</small></sup>]</span> when he has enough. He who acts with energy has strength of purpose. He who moves not from his proper place is long-lasting. He who dies, but perishes not, enjoys true longevity.
+He who knows others is clever, but he who knows himself is enlightened. He who overcomes others is strong, but he who overcomes himself is mightier still. He is rich who knows <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> when he has enough. He who acts with energy has strength of purpose. He who moves not from his proper place is long-lasting. He who dies, but perishes not, enjoys true longevity.
 
 If you would contract, you must first expand. If you would weaken, you must first strengthen. If you would overthrow, you must first raise up. If you would take, you must first give. This is called the dawn of intelligence.
 
@@ -70,7 +70,7 @@ He who acts, destroys; he who grasps, loses. Therefore the Sage does not act, an
 
 Only he who does nothing for his life's sake can truly be said to value his life.
 
-Man at his birth is tender and weak; at his death he is rigid and strong. Plants and trees when they come forth are tender and crisp; when dead, they are dry and tough. Thus rigidity and <span id="p46">[<sup><small>p. 46</small></sup>]</span> strength are the concomitants of death; softness and weakness are the concomitants of life.
+Man at his birth is tender and weak; at his death he is rigid and strong. Plants and trees when they come forth are tender and crisp; when dead, they are dry and tough. Thus rigidity and <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> strength are the concomitants of death; softness and weakness are the concomitants of life.
 
 Hence the warrior that is strong does not conquer; the tree that is strong is cut down. Therefore the strong and the big take the lower place; the soft and the weak take the higher place.
 

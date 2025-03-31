@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T19:18:16Z
   </table>
 </figure>
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 ## I
 
@@ -55,7 +55,7 @@ Vain are your dreams of marvellous emprise,
 &nbsp;&nbsp;&nbsp;Vainly seek harbour in this world of faces
 If it has been determined otherwise.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 ## IV
 
@@ -92,7 +92,7 @@ But if in some enchanted garden bloom
 &nbsp;&nbsp;&nbsp;Ah! shall I go with desecrating spade
 And underneath her glories build a tomb?
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 ## IX
 
@@ -129,7 +129,7 @@ I would not have you keep nor idly flaunt
 &nbsp;&nbsp;&nbsp;But I would have you sow with sleepless hand
 The virtues that will balance your account.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## XIV
 
@@ -166,7 +166,7 @@ If I have harboured love within my breast,
 &nbsp;&nbsp;&nbsp;Who with me watched the loitering stars at play,
 Who bore the burden of the same unrest,
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 ## XIX
 
@@ -203,7 +203,7 @@ No Sultan at his pleasure shall erect
 &nbsp;&nbsp;&nbsp;Than I, whom all the mysteries obey,
 Build with the twilight for an architect,
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 ## XXIV
 
@@ -240,7 +240,7 @@ Ah! let the burial of yesterday,
 &nbsp;&nbsp;&nbsp;And, if you will, refuse the mourner’s reed,
 And, if you will, plant cypress in the way.
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 ## XXIX
 
@@ -277,7 +277,7 @@ But shall the fearing eyes of humankind
 &nbsp;&nbsp;&nbsp;The boldness of a wondering gazelle
 Or of a bird imprisoned in the wind?
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 ## XXXIV
 
@@ -314,7 +314,7 @@ I have imagined that our welfare is
 &nbsp;&nbsp;&nbsp;And so the musk, which as the more you beat,
 Gives ever more delightful fragrancies.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 ## XXXIX
 
@@ -351,7 +351,7 @@ Some yellow sand all hunger shall assuage
 &nbsp;&nbsp;&nbsp;And ah! the drooping bird which is my soul
 No longer shall be prisoned in the cage.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 ## XLIV
 
@@ -388,7 +388,7 @@ Astrologers!—give ear to what they say!
 &nbsp;&nbsp;&nbsp;And faithfully reveal the days of death,
 And surely will reveal that longer day."
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 ## XLIX
 
@@ -425,7 +425,7 @@ He was the glazier out of Erzerûm,
 &nbsp;&nbsp;&nbsp;There will be no such wizardry when I
 Am broken by the chariot-wheels of Doom.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 ## LIV
 
@@ -462,7 +462,7 @@ To which the generations have retired?
 &nbsp;&nbsp;&nbsp;Of others, and upon this road of shame
 Turns purer and more pure."—Oh, let them teach!
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 ## LIX
 
@@ -499,7 +499,7 @@ And if you find a solitary sage
 &nbsp;&nbsp;&nbsp;The lord of men, the guardian of the wind,
 The victor of all armies and of age.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 ## LXIV
 
@@ -536,7 +536,7 @@ There is a palace, and the ruined wall
 &nbsp;&nbsp;&nbsp;And where love whispered of a thousand years
 The silken-footed caterpillars crawl.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 ## LXIX
 
@@ -573,7 +573,7 @@ I think our world is not a place of rest,
 &nbsp;&nbsp;&nbsp;Until the landlord whom he never sees
 Gives that apartment to another guest.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 ## LXXIV
 
@@ -610,7 +610,7 @@ The good law and the bad law disappear
 &nbsp;&nbsp;&nbsp;And, like the wonderful Sar’aby coat,
 They captivate us for a little year.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 ## LXXIX
 
@@ -647,7 +647,7 @@ An archer took an arrow in his hand;
 &nbsp;&nbsp;&nbsp;That he brought justice down from—ah, so high!
 He was an archer in the morning land.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## LXXXIV
 
@@ -684,7 +684,7 @@ Behold the cup whereon your slave has trod;
 &nbsp;&nbsp;&nbsp;Your slave—remember that he lives by you,
 While in the form of him we bow to God.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 ## LXXXIX
 
@@ -721,7 +721,7 @@ My village is the loneliness, and I
 &nbsp;&nbsp;&nbsp;That for a moment see the warning hand
 Of one who breasted up the rock, their spy.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 ## XCIV
 
@@ -758,7 +758,7 @@ Heigho! the splendid air is full of wings,
 &nbsp;&nbsp;&nbsp;For if you navigate among the skies
 You too may reach the subterranean kings.
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ## XCIX
 
@@ -795,7 +795,7 @@ _There was a fattened worm. He looked around,_
 _Espied a relative and spoke at him:_
 _It seems to me this world is very good._
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 ## CIV
 
@@ -832,7 +832,7 @@ A night of silence! ’Twas the swinging sea
 &nbsp;&nbsp;&nbsp;Rolled on below the stars; they flung a chain
 Around the silences which are in me.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ## CIX
 

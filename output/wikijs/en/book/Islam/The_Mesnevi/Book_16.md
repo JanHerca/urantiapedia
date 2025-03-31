@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 ## XVI. ‘Alī's Forbearance.
 
@@ -61,7 +61,7 @@ What didst thou see, that, by reflection on me cast,
 What was thy vision, far above the world of fact,
 Than life far sweeter, whence my life receives new pact?
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 For bravery, ‘God's Lion’ art thou justly named.
 For kindness, I now know, thou art too little famed.
@@ -97,7 +97,7 @@ O ‘Alī! Thou who mind and eye entirely art!
 Thy calmness is a sword that cleaves our minds in twain;
 The fountain of thy wisdom makes us whole again.
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Speak out! I know these mysteries are Jehovah's own;
 To kill without a sword's a power of God well known.
@@ -130,7 +130,7 @@ Moon-like, on me thy knowledge shines, with light intense.
 But if the moon's bright disk break forth from ’neath the cloud,
 <sup id="v40"><small>40</small></sup>  Poor midnight travellers safely, then, pursue their road.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 They then are safe from error, risk no wandering vain;
 Protection of the moonlight shields from terror's chain.
@@ -163,7 +163,7 @@ Expressing wonder, such as words may symbolise.
 Then. added: “O! Command, of Faithful Church thou Prince.[^413]
 That as a babe a spirit new I may evince.”
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 The planets seven o’er every unborn babe keep watch,
 <sup id="v55"><small>55</small></sup>  Each for a stated period, ere its birth's despatch.
@@ -200,7 +200,7 @@ My actions are the proof my faith is in the Just.
 God is the Archer. I'm His bow;—and arrow, too.
 <sup id="v70"><small>70</small></sup>  He is the Smiter. I'm the weapon;—sword, bamboo.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 ‘Thou castedst not, when stones thou castedst in the fight.’[^414]
 God is the Warrior mighty. I'm dust in His sight.
@@ -236,7 +236,7 @@ For God's sake do I love. Such is my fame with men.
 My generosity springs all from love of God.
 For God's sake, too, I'm parsimonious as clod.
 
-<span id="p276">[<sup><small>p. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 I'm avarice, munificence, to one sole end.
 I'm God's in all things. To myself I ne’er attend.
@@ -274,7 +274,7 @@ Cannot imagine sounding-line, its depth to find.
 “It's useless to continue further in this strain.
 Not hearts alone, but rocks, may weep at folly's train.
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 If men's hearts break not, ’tis that they are harder still,
 Through carelessness, preoccupation, sloth, ill-will.
@@ -307,7 +307,7 @@ Had they not been magicians, he not obstinate,
 How would they e’er have seen the staff, the miracles?
 Your sin proved your conversion, reprehensibles!
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 “The Lord can far remove our state of deep despair,
 Our sin can change to righteousness; foulness to fair.
@@ -344,7 +344,7 @@ Remorse for ever as its prey will hold my hate.'
 “Again I firmly answered him,—decidedly:
 'No counsel will avail. Pen's mark must needs apply.
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 I bear no grudge against thee in my inmost soul;
 I hold thee not responsible for deed so foul.
@@ -380,7 +380,7 @@ From out of darkness was the light created new.
 The Prophet's wars have brought about the peace that reigns;
 These tranquil latter days the fruits are of his pains.
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 How many heads lay low beneath that hero's blows,
 That peace might be enjoyed by faith's true yoke-fellows!
@@ -413,7 +413,7 @@ Because thy honour's sacrificed mere bread to scranch.
 If thy brute nature will not practise abstinence,
 <sup id="v160"><small>160</small></sup>  Administer the remedy. Bring it to sense.
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 If thou wouldst cleanse thy garments—free them from all soil,—
 Despise not thou the bleacher, nor his useful toil.
@@ -448,7 +448,7 @@ Him viewed with proud disdain, with haughty scowl.
 His self-esteem, his egotistic pride him drove,
 <sup id="v175"><small>175</small></sup>  With smile sarcastical, the cursed imp to reprove.
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 God's wrath was roused. He him addressed: “Ho! Adam! Ho!
 Hast thou no insight into mysteries of woe?
@@ -516,7 +516,7 @@ Is fatal unto man,—consuming fire intense.
 If any seek the fire, to make thereof a shield,
 A Magian he becomes, of Zoroaster's yield.
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 All else besides the Lord is vain, and of no worth.
 <sup id="v205"><small>205</small></sup>  The mercies of our God, a bounteous rain, poured forth.
@@ -552,7 +552,7 @@ Why should we say: “Forsooth, to Him we shall return?”[^426]
 ’Tis only he returns, who comes back to his home.
 Our true return's from severance to union's dome.
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 That servant once again appealed and begged: “‘Alī!
 <sup id="v220"><small>220</small></sup>  Put me to death, that sin so heinous I may flee!
@@ -588,7 +588,7 @@ He took no note. On God alone his thoughts were stayed.
 His heart was filled with sense of his great Maker's grace.
 The angels, or the prophets, there could find no place.
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 He said: “I'm he whose eyes swerved not; ”no crow, I! See![^428]
 <sup id="v235"><small>235</small></sup>  “The Limner is my love; from juice of vine I'm free.”[^429]
@@ -619,7 +619,7 @@ A lion of eternity, death's freedom from turmoil.
 In death he sees a hundred thousand modes of life.
 So, mothlike, death he courts; his candle, murderer's knife.
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 To court grim death's a collar round the true man's neck.
 This was the text proposed, that wrought recusant's wreck.
@@ -651,7 +651,7 @@ My choler was aroused;—to wreck my patience went.
 Half warmed with zeal for God, half stirred with anger's fire,
 <sup id="v260"><small>260</small></sup>  Unholy partnership was formed ’twixt truth and ire.
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Thou wast designed and fashioned by a hand divine.
 To God dost thou belong;—no creature art of mine.

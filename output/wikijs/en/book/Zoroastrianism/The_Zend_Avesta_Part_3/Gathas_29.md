@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 THE GÂTHAS.
 
@@ -44,11 +44,11 @@ This chapter, the second in the manuscripts of the Gâtha Ahunavaiti, is placed 
 
 2\. Ahura answers by a question to Asha, the personified Righteous Order, as to what guardian he had appointed in order to smite back the fury which assails her, intimating that some chief ought to have been set over her originally who would have averted her miseries, training her people in steady tillage and bucolic skill, and repelling the destructive raids.
 
-3\. Asha answers that her sufferings were inevitable, that no chief could be appointed who could prevent them since none was himself without his share of injustice and of passionate resentment. He could not answer why this was the case. The question, involving the insolvable problem of the origin of evil, lay at the foundation of those influences which move the stars of destiny; that the religious revelation afforded by the Ratu (as in <span id="p4">[<sup><small>p. 4</small></sup>]</span> chapter XXX) was intended to meet these problems so far as they could be answered [^36], and that therefore all who were entering upon active enterprises were in the act of approaching, not him Asha, the subordinate archangel, but Mazda himself, who was the greatest of beings, and alone able to answer their prayers and questions.
+3\. Asha answers that her sufferings were inevitable, that no chief could be appointed who could prevent them since none was himself without his share of injustice and of passionate resentment. He could not answer why this was the case. The question, involving the insolvable problem of the origin of evil, lay at the foundation of those influences which move the stars of destiny; that the religious revelation afforded by the Ratu (as in <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> chapter XXX) was intended to meet these problems so far as they could be answered [^36], and that therefore all who were entering upon active enterprises were in the act of approaching, not him Asha, the subordinate archangel, but Mazda himself, who was the greatest of beings, and alone able to answer their prayers and questions.
 
 4\. Zarathu<i>s</i>tra [^37], poetically conceived to be present, here intervenes to reaffirm the homage just paid by Asha. He declares Ahura Mazda to be himself the most mindful of all the previously revealed assertions and directions uttered by himself, and fulfilled in the actions of both the Demon-gods of their enemies, and of good or evil men. He is also said to be fully cognisant of what they will do in the future, and to discriminate between what is good and evil as an infallible judge, allotting to us all our destiny in future sufferings or rewards. 5. Addressing Ahura and Asha, and uniting with the Kine's Soul in her supplication, he questions Mazda in his doubt, not in peaceful confidence, as later in the impressive hymn, each verse of which begins with the words, ‘This ask I Thee, aright, Ahura! tell me!’ but deprecating from himself, and constructively from the Kine, the impending destruction which he sees will justly fall upon the wicked as visited by the discriminating vengeance acknowledged to be Ahura's attribute (see verse 4). 6. At last Ahura, showing the intention of His questions, answers them himself; no regulating lord in full sympathy with the Righteous Order had as yet been discovered or discoverable, but He himself will make a selection. He therefore declares himself as solemnly appointing Zarathustra to that office.
 
-And Zarathu<i>s</i>tra, inspired by His Good Mind, and guided by His righteousness, will accomplish more than has as yet been done to rally the thrifty community, and settle their virtuous polity upon its desired basis of training and defence. 7. As Zarathustra is a listener in the colloquy between the Deity, the Kine's Soul, and Asha, the Righteous Order, so the other Immortals beside Asha [^38], here join in, as if the appointment just made had not been heard, or was incredible (see below). Mazda is indeed declared to have revealed the sacred Word-of-reason in harmony with the consenting Righteousness, and to have provided food for the Kine and <span id="p5">[<sup><small>p. 5</small></sup>]</span> the needy consumers, but who was there adequately endowed with the Good Mind, who could promulgate that Mãthra with its revealed directions as to sustenance of both body and mind?
+And Zarathu<i>s</i>tra, inspired by His Good Mind, and guided by His righteousness, will accomplish more than has as yet been done to rally the thrifty community, and settle their virtuous polity upon its desired basis of training and defence. 7. As Zarathustra is a listener in the colloquy between the Deity, the Kine's Soul, and Asha, the Righteous Order, so the other Immortals beside Asha [^38], here join in, as if the appointment just made had not been heard, or was incredible (see below). Mazda is indeed declared to have revealed the sacred Word-of-reason in harmony with the consenting Righteousness, and to have provided food for the Kine and <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> the needy consumers, but who was there adequately endowed with the Good Mind, who could promulgate that Mãthra with its revealed directions as to sustenance of both body and mind?
 
 8\. Ahura repeats his announcement of Zarathu<i>s</i>tra, as if to silence the objections.
 
@@ -62,7 +62,7 @@ And as he prays, he avows his own steadfast confidence in Ahura rather than in t
 
 11\. Then, as if eager to receive full equipment upon the spot, he not only beseeches for the Righteous Order, the Kingly Power of God, and His Good Mind for the masses as represented by the Kine, but asks when they are coming to him, and hastening; and he entreats Ahura to bestow His help at once for the great cause, and to a very abundant degree, upon himself and his associates. (It is singular that the name of Âramaiti does not occur in this section.)
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Translation.
 
@@ -72,19 +72,19 @@ Translation.
 
 Ahura speaks.
 
-2\. Upon this the Creator [^44] of the Kine (the holy <span id="p7">[<sup><small>p. 7</small></sup>]</span> herds) asked of Righteousness [^45]: How (was) thy guardian for the Kine (appointed) by thee when, as having power (over all her fate), ye made her? (In what manner did ye secure) for her, together with pasture, a cattle-chief who was both skilled and likewise energetic? Whom did ye select [^46] as her (life's) master who might hurl back the fury of the wicked [^47]?
+2\. Upon this the Creator [^44] of the Kine (the holy <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> herds) asked of Righteousness [^45]: How (was) thy guardian for the Kine (appointed) by thee when, as having power (over all her fate), ye made her? (In what manner did ye secure) for her, together with pasture, a cattle-chief who was both skilled and likewise energetic? Whom did ye select [^46] as her (life's) master who might hurl back the fury of the wicked [^47]?
 
 Asha answers.
 
 3\. To Him the (Divine Righteousness) answered with [^48] his sanctity. (Great was our perplexity); a chieftain who war capable of smiting [^49] back (their fury), and who was himself without hate (was not to be obtained by us); among such things as these, those things are not to be known (by beings such as we) which are the influences which approach [^50] (and move) the lofty fires [^51] (revealing the favour and the will of God [^52]).
 
-Of beings He is the mightiest to whom those [^53] <span id="p8">[<sup><small>p. 8</small></sup>]</span> who have performed their actions approach with invocations. (He has no need to ask!)
+Of beings He is the mightiest to whom those [^53] <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> who have performed their actions approach with invocations. (He has no need to ask!)
 
 Zarathu<i>s</i>tra intervenes [^54].
 
 4\. The Great Creator [^55] (is himself) most mindful of the uttered indications which have been fulfilled beforehand hitherto in the deeds of [^56] demon-gods [^57] and (good or evil) men, and of those which shall be fulfilled by them [^58] hereafter. He Ahura is the discerning arbiter; so shall it be to us [^59] as He shall will [^60]!
 
-5\. Therefore it is that we both, my soul [^61] and (the soul) of the mother [^62] Kine, (are) making our supplications <span id="p9">[<sup><small>p. 9</small></sup>]</span> for the two worlds to Ahura, and with hands stretched out in entreaty, when (we pray to the Great Creator [^63] with questions in our doubt [^64]; (and He will answer).
+5\. Therefore it is that we both, my soul [^61] and (the soul) of the mother [^62] Kine, (are) making our supplications <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> for the two worlds to Ahura, and with hands stretched out in entreaty, when (we pray to the Great Creator [^63] with questions in our doubt [^64]; (and He will answer).
 
 Not for the righteous liver, not for the thrifty (tiller of the earth), shall there be destruction [^65] together with the wicked!
 
@@ -92,7 +92,7 @@ Ahura.
 
 6\. Upon this the Lord, the Great Creator, He who understands the mysterious grace [^66] by His insight [^67], spake thus. Not in this manner [^68] is a spiritual master found for us, nor a chieftain moved by Righteousness and appointed (in its spirit); therefore Thee [^69] have I named [^70] (as such a head) to the diligent tiller of the ground [^71]!
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 The Ameshôspends [^72].
 
@@ -100,7 +100,7 @@ The Ameshôspends [^72].
 
 Ahura.
 
-8\. This man is found for me here who alone [^75] has <span id="p11">[<sup><small>p. 11</small></sup>]</span> hearkened to our enunciations, Zarathu<i>s</i>tra Spitama! Our mighty and completed acts of grace he desires to enounce for us, for (Me), the Great Creator and for Righteousness; wherefore I will give him the good abode [^76] (and authoritative place) of such an one as speaks [^77]!
+8\. This man is found for me here who alone [^75] has <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> hearkened to our enunciations, Zarathu<i>s</i>tra Spitama! Our mighty and completed acts of grace he desires to enounce for us, for (Me), the Great Creator and for Righteousness; wherefore I will give him the good abode [^76] (and authoritative place) of such an one as speaks [^77]!
 
 The G<i>e</i>u<i>s</i> Urvan.
 
@@ -110,13 +110,13 @@ The Ameshôspends [^79].
 
 ((Aye,) when shall he ever appear who may bring to her [^79] help strong-handed [^80]?)
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Zarathu<i>s</i>tra [^81].
 
 10\. Do ye, O Ahura and thou, O Righteousness! grant gladness unto these (our disciples), and the sovereign Kingdom (of the Deity) such as (is established) in (His) Good Mind by which one bestows upon them the peaceful amenities of home and quiet happiness (as against the fearful ravages which they suffer [^82]), for of these, O Great Creator! I ever thought Thee first possessor [^83]!
 
-11\. And when shall the (Divine) Righteousness, the Good Mind (of the Lord, and His) Sovereign Power (come) hastening [^84] to me (to give me strength for my task and mission), O Great Creator, the Living Lord! (For without his I cannot advance <span id="p13">[<sup><small>p. 13</small></sup>]</span> or undertake my toil.) Do ye now therefore assign unto us your aid and in abundance [^85] for our great cause. May we be (partakers) of the bountiful grace of these your equals [^86] (your counsellors and servants) [^87]!
+11\. And when shall the (Divine) Righteousness, the Good Mind (of the Lord, and His) Sovereign Power (come) hastening [^84] to me (to give me strength for my task and mission), O Great Creator, the Living Lord! (For without his I cannot advance <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> or undertake my toil.) Do ye now therefore assign unto us your aid and in abundance [^85] for our great cause. May we be (partakers) of the bountiful grace of these your equals [^86] (your counsellors and servants) [^87]!
 
 
 

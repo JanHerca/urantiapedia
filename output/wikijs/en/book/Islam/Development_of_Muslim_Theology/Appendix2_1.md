@@ -38,7 +38,7 @@ The translations and notes in De Sacy's _Chrestomathie arabe_ (Paris; 1826) can 
 
 Very many valuable articles will be found scattered through the _Zeitschrift_ of the German Oriental Society (hereafter ZDMG), the _Journal asiatique_ (hereafter JA), the _Journal of the Royal Asiatic Society_ (hereafter JRAS) and the Vienna _Zeitschrift für die Kunde des Morgenlandes_ (hereafter WZ).
 
-<span id="p359">[<sup><small>p. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 It is always worth while to consult the _Encyclopædia Britannica_.
 
@@ -58,7 +58,7 @@ T. B. HUGHES: _A Dictionary of Islam_. London, 1896. Very full of information, b
 
 E. W. LANE: _An Account of the Manners and Customs of the Modern Egyptians_. First edition, London, 1836; third, 1842. Many others. Indispensable.
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 C. M. DOUGHTY. _Travels in Arabia Deserta_ 2 vols. Cambridge, 1888. By far the best book on nomad life in Arabia. Gives the fullest and clearest idea of the nature and workings of the Arab mind.
 

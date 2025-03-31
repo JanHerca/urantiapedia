@@ -79,7 +79,7 @@ v. 27. It seems somewhat odd that the poet should compare an ostrich to a slave 
 
 Mr. Redhouse remarks that “we can only conjecture why the poet likened the ostrich's feathers to a long fur garment. Slaves were then negroes; and perhaps, being from Africa and sensitive to cold, wore furs (of sheepskin?). The exact length understood by the poet's ‘long’ would depend on the kind of fur jacket, or robe, worn by slaves in the desert camps. Twenty inches is _long_ where twelve is usual.”
 
-<span id="p394">[<sup><small>p. 394</small></sup>]</span>
+<span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
 v. 42. The comparison in the second hemistich is thus rendered by Professor Palmer:
 
@@ -102,7 +102,7 @@ Her form is fairer than the young gazelle's!
 
 According to Sir William Jones’ rendering, the girl simply informs Antara that she found “the hostile guards negligent of their watch,” and that the lady might therefore be easily visited; and we are to suppose that Antara, on thus learning that “the coast was clear,” so to say, at once proceeded to visit the lady, who, on seeing him, “turned towards him with the neck of a young roe.”—Mr Redhouse thinks that “the variant positions which these verses occupy in different editions make it almost impossible to judge whether his sweetheart turned to Antara, or to the maiden sent. The words read as though the maid turned to Antara; but that is not the probable sense.”—The Bedouin coxcomb Amarah, in the Romance of Antar, sends a female slave on a similar errand—to bring him an account of Abla's personal charms: see page [209](./Antar_13#p209) of the present volume.
 
-<span id="p395">[<sup><small>p. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 v. 70. “Make the perched birds of the brain fly quickly from every skull.” Among the old Arabs the belief was prevalent that of the blood near a dead person's brain was formed a bird, called Hamah (Carlyle calls it _Manah_, but this was the name of a stone-idol worshipped by the pagan Arabs), that sat upon the grave of the deceased, and uttered doleful cries. This seems alluded to in Job, xxi., 32, which Carlyle thus translates:
 

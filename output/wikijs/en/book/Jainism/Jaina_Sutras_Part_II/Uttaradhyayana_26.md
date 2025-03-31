@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 TWENTY-SIXTH LECTURE. THE CORRECT BEHAVIOUR.
 
@@ -44,7 +44,7 @@ The âva<i>s</i>yikâ is required when he leaves a room (or the presence of othe
 
 After sunrise during the first quarter (of the first Paurushî) [^361] he should inspect (and clean) his things and pay his respects to the superior. (8)
 
-Then, with his hands joined, he should ask him: <span id="p143">[<sup><small>p. 143</small></sup>]</span> ‘What shall I do now? I want to be employed, sir, in doing some work or in studying.’ (9)
+Then, with his hands joined, he should ask him: <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> ‘What shall I do now? I want to be employed, sir, in doing some work or in studying.’ (9)
 
 If he is ordered to do some work, he should do it without tiring; if he is ordered to study, he should do it without allowing himself to be affected by any pains. (10)
 
@@ -58,7 +58,7 @@ In the month Âshâ<i>dh</i>a the Paurushî (of the night) contains two feet (pa
 
 The dark fortnight of Âshâ<i>dh</i>a, Bhâdrapada, Kârttika, Pausha, Phâlguna, and Vai<i>s</i>âkha are known as avamarâtrâs [^364]. (15)
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 In the quarter of the year comprising the three months <i>G</i>yêsh<i>th</i>âmûla, Âshâ<i>dh</i>a, and <i>S</i>râva<i>n</i>a, the (morning-) inspection is to last six digits (beyond ¼ Paurushî); in the second quarter, eight; in the third, ten; in the fourth, eight [^365]. (16)
 
@@ -72,7 +72,7 @@ When a small part of the quarter is left [^367], in which the (leading) nakshatr
 
 In the first quarter (of the first Paurushî) he should inspect (and clean) his things, pay his respects to his superior, and then begin to study, not allowing himself to be affected by any pains [^369]. (21)
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 In the (last) quarter of the first Paurushî, after paying his respect to the Guru, a monk should inspect his almsbowl, without, however, performing the Kâla-pratikrama<i>n</i>a [^370]. (22)
 
@@ -84,7 +84,7 @@ Standing upright he holds his cloth firmly and inspects it first leisurely, then
 
 He must avoid want of attention: 1. in beginning his work; 2. in taking up the corners of the cloth; 3. in folding it up; 4. in shaking out the dust; 5. in putting it down (on some other piece of cloth); 6. in sitting upon the haunches [^374]. (26)
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 (One must further avoid) to hold the cloth loosely, or at one corner, or so as to let it flap, or so as to subject it to friction, or so as to shake it in different ways, or if one has made a mistake in the number of foldings (see verse 25) to count (aloud or with the help of the fingers, &c.) [^375] (27)
 
@@ -96,7 +96,7 @@ He who is careful in the inspection, protects the six kinds of living beings, vi
 
 He who is careless in the inspection, injures the six kinds of living beings (just enumerated) [^377]. (31)
 
-In the third Paurushî he should beg food and drink, (he may do so) for any of the following six reasons: (32) <span id="p147">[<sup><small>p. 147</small></sup>]</span> 1\. To prevent an illness; 2. to serve the Guru; 3. to be able to comply with the rules about walking [^378]; 4. to be able to comply with the rules of self-control [^379]; 5. to save one's life; 6. to be able to meditate on the Law. (33)
+In the third Paurushî he should beg food and drink, (he may do so) for any of the following six reasons: (32) <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> 1\. To prevent an illness; 2. to serve the Guru; 3. to be able to comply with the rules about walking [^378]; 4. to be able to comply with the rules of self-control [^379]; 5. to save one's life; 6. to be able to meditate on the Law. (33)
 
 A zealous Nirgrantha or Nirgranthî may omit to beg food for the following six reasons, when it will not be considered a transgression of his duties: (34)
 
@@ -110,7 +110,7 @@ In the last quarter of the fourth Paurushî he should pay his reverence to the G
 
 A zealous monk should also inspect the place where to discharge his excrements and urine, and then (till the sun sets) he should go through Kâyôtsarga without allowing himself to be affected by any pains. (39)
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Then he should, in due order, reflect on all transgressions he has committed during the day, with regard to knowledge, faith, and conduct. (40)
 
@@ -126,7 +126,7 @@ In the fourth Paurushî he should wait for the proper time and then begin to stu
 
 In the last quarter of the fourth Paurushî he should pay his reverence to the Guru, and performing Kâla-pratikrama<i>n</i>a [^385] he should wait for the proper time. (46)
 
-When the (time for) Kâyôtsarga has arrived, he <span id="p149">[<sup><small>p. 149</small></sup>]</span> should go through it, without allowing himself to be affected by any pains. (47)
+When the (time for) Kâyôtsarga has arrived, he <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> should go through it, without allowing himself to be affected by any pains. (47)
 
 Then he should, in due order, reflect on all transgressions he has committed during the night with regard to knowledge, faith, and conduct. (48)
 

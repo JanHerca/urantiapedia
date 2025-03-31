@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 THIRD PRAPÂ<i>TH</i>AKA.
 
@@ -46,7 +46,7 @@ THIRD PRAPÂ<i>TH</i>AKA.
 
 4\. That (essence) flowed forth and went towards the sun [^162]. And that forms what we call the red (rohita) light of the rising sun.
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 ## SECOND KHA<i>N</i><i>D</i>A.
 
@@ -66,7 +66,7 @@ THIRD PRAPÂ<i>TH</i>AKA.
 
 ## FOURTH KHA<i>N</i><i>D</i>A.
 
-1\. The northern rays of the sun are the honey-cells on the left. The (hymns of the) Atharvâṅgiras are the bees, the Itihâsa-purâ<i>n</i>a [^163] (the reading of the old stories) is the flower, the water is the nectar. <span id="p40">[<sup><small>p. 40</small></sup>]</span> 2\. Those very hymns of the Atharvâṅgiras (as bees) brooded over the Itihâsa-purâ<i>n</i>a; and from it, thus brooded on, sprang as its (nectar) essence, fame, glory of countenance, vigour, strength, and health.
+1\. The northern rays of the sun are the honey-cells on the left. The (hymns of the) Atharvâṅgiras are the bees, the Itihâsa-purâ<i>n</i>a [^163] (the reading of the old stories) is the flower, the water is the nectar. <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> 2\. Those very hymns of the Atharvâṅgiras (as bees) brooded over the Itihâsa-purâ<i>n</i>a; and from it, thus brooded on, sprang as its (nectar) essence, fame, glory of countenance, vigour, strength, and health.
 
 3\. That flowed forth, and went towards the sun. And that forms what we call the extreme dark (para<i>h</i> k<i>ri</i>sh<i>n</i>am) light of the sun.
 
@@ -83,7 +83,7 @@ THIRD PRAPÂ<i>TH</i>AKA.
 
 
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 ## SIXTH KHA<i>N</i><i>D</i>A.
 
@@ -101,7 +101,7 @@ THIRD PRAPÂ<i>TH</i>AKA.
 
 2\. They enter into that white colour, and they rise from that colour.
 
-3\. He who thus knows this nectar, becomes one of the Rudras, with Indra at their head, he sees the <span id="p42">[<sup><small>p. 42</small></sup>]</span> nectar and rejoices. And he, having entered that colour, rises again from that colour.
+3\. He who thus knows this nectar, becomes one of the Rudras, with Indra at their head, he sees the <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> nectar and rejoices. And he, having entered that colour, rises again from that colour.
 
 4\. So long as the sun rises in the east and sets in the west, twice as long does it rise in the south and set in the north; and so long does he follow the sovereign supremacy of the Rudras.
 
@@ -123,7 +123,7 @@ THIRD PRAPÂ<i>TH</i>AKA.
 
 3\. He who thus knows this nectar, becomes one of the Maruts, with Soma at their head, he sees the nectar and rejoices. And he, having entered that colour, rises again from that colour.
 
-4\. So long as the sun rises in the west and sets <span id="p43">[<sup><small>p. 43</small></sup>]</span> in the east, twice as long does it rise in the north and set in the south; and so long does he follow the sovereign supremacy of the Maruts.
+4\. So long as the sun rises in the west and sets <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> in the east, twice as long does it rise in the north and set in the south; and so long does he follow the sovereign supremacy of the Maruts.
 
 ## TENTH KHA<i>N</i><i>D</i>A.
 
@@ -135,7 +135,7 @@ THIRD PRAPÂ<i>TH</i>AKA.
 
 4\. So long as the sun rises in the north and sets in the south, twice as long does it rise above, and set below; and so long does he follow the sovereign power of the Sâdhyas [^166].
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 ## ELEVENTH KHA<i>N</i><i>D</i>A.
 
@@ -153,7 +153,7 @@ But no one should tell it to anybody else, even if he gave him the whole sea-gir
 
 ## TWELFTH KHA<i>N</i><i>D</i>A.
 
-1\. The Gâyatrî [^169] (verse) is everything whatsoever here exists. Gâyatrî indeed is speech, for speech <span id="p45">[<sup><small>p. 45</small></sup>]</span> sings forth (gâya-ti) and protects (trâya-te) everything that here exists.
+1\. The Gâyatrî [^169] (verse) is everything whatsoever here exists. Gâyatrî indeed is speech, for speech <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> sings forth (gâya-ti) and protects (trâya-te) everything that here exists.
 
 2\. That Gâyatrî is also the earth, for everything that here exists rests on the earth, and does not go beyond.
 
@@ -163,7 +163,7 @@ But no one should tell it to anybody else, even if he gave him the whole sea-gir
 
 5\. That Gâyatrî has four feet [^171] and is sixfold [^172]. And this is also declared by a <i>Ri</i><i>k</i> verse (Rig-Veda X, 90, 3):—
 
-6\. ‘Such is the greatness of it (of Brahman, under the disguise of Gâyatrî [^173]); greater than it is the Person [^174] (purusha). His feet are all things. The immortal with three feet is in heaven (i. e. in himself).’ <span id="p46">[<sup><small>p. 46</small></sup>]</span> 7\. The Brahman which has been thus described (as immortal with three feet in heaven, and as Gâyatrî) is the same as the ether which is around us;
+6\. ‘Such is the greatness of it (of Brahman, under the disguise of Gâyatrî [^173]); greater than it is the Person [^174] (purusha). His feet are all things. The immortal with three feet is in heaven (i. e. in himself).’ <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> 7\. The Brahman which has been thus described (as immortal with three feet in heaven, and as Gâyatrî) is the same as the ether which is around us;
 
 8\. And the ether which is around us, is the same as the ether which is within us. And the ether which is within us,
 
@@ -177,7 +177,7 @@ But no one should tell it to anybody else, even if he gave him the whole sea-gir
 
 3\. The western gate is the Apâna (down-breathing), that is speech, that is Agni (fire). Let a man meditate on that as glory of countenance and health. He who knows this, becomes glorious and healthy.
 
-4\. The northern gate is the Samâna (on-breathing), that is mind, that is Par<i>g</i>anya (rain). Let a man meditate on that as celebrity and beauty. <span id="p47">[<sup><small>p. 47</small></sup>]</span> He who knows this, becomes celebrated and beautiful.
+4\. The northern gate is the Samâna (on-breathing), that is mind, that is Par<i>g</i>anya (rain). Let a man meditate on that as celebrity and beauty. <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> He who knows this, becomes celebrated and beautiful.
 
 5\. The upper gate is the Udâna (out-breathing), that is air, that is ether. Let a man meditate on that as strength and greatness. He who knows this, becomes strong and great.
 
@@ -185,7 +185,7 @@ But no one should tell it to anybody else, even if he gave him the whole sea-gir
 
 7\. Now that light which shines above this heaven, higher than all, higher than everything, in the highest world, beyond which there are no other worlds, that is the same light which is within man. And of this we have this visible proof [^176]:
 
-8\. Namely, when we thus perceive by touch the warmth here in the body [^177]. And of it we have this audible proof: Namely, when we thus, after stopping our ears, listen to what is like the rolling of a carriage, or the bellowing of an ox, or the sound of a burning fire [^178] (within the ears). Let a man meditate on this as the (Brahman) which is seen and heard. <span id="p48">[<sup><small>p. 48</small></sup>]</span> He, who knows this, becomes conspicuous and celebrated, yea, he becomes celebrated.
+8\. Namely, when we thus perceive by touch the warmth here in the body [^177]. And of it we have this audible proof: Namely, when we thus, after stopping our ears, listen to what is like the rolling of a carriage, or the bellowing of an ox, or the sound of a burning fire [^178] (within the ears). Let a man meditate on this as the (Brahman) which is seen and heard. <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> He, who knows this, becomes conspicuous and celebrated, yea, he becomes celebrated.
 
 ## FOURTEENTH KHA<i>N</i><i>D</i>A.
 
@@ -199,7 +199,7 @@ Now man is a creature of will. According to what his will is in this world, so w
 
 4\. He from whom all works, all desires, all sweet odours and tastes proceed, who embraces all this, who never speaks and who is never surprised, he, my self within the heart, is that Brahman (n.) When I shall have departed from hence, I shall obtain him (that Self). He who has this faith [^180] has no doubt; thus said <i>S</i>â<i>n</i><i>d</i>ilya [^181], yea, thus he said.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 ## FIFTEENTH KHA<i>N</i><i>D</i>A [^182].
 
@@ -211,7 +211,7 @@ Now man is a creature of will. According to what his will is in this world, so w
 
 4\. ‘When I said, I turn to Prâ<i>n</i>a, then Prâ<i>n</i>a means all whatever exists here—to that I turn.’
 
-5\. ‘When I said, I turn to Bhû<i>h</i>, what I said is, I turn to the earth, the sky, and heaven.’ <span id="p50">[<sup><small>p. 50</small></sup>]</span> 6\. ‘When I said, I turn to Bhuva<i>h</i>, what I said is, I turn to Agni (fire), Vâyu (air), Âditya (sun).’
+5\. ‘When I said, I turn to Bhû<i>h</i>, what I said is, I turn to the earth, the sky, and heaven.’ <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> 6\. ‘When I said, I turn to Bhuva<i>h</i>, what I said is, I turn to Agni (fire), Vâyu (air), Âditya (sun).’
 
 7\. ‘When I said, I turn to Sva<i>h</i>, what I said is, I turn to the <i>Ri</i><i>g</i>\-veda, Ya<i>g</i>ur-veda, and Sâma-veda. That is what I said, yea, that is what I said.’
 
@@ -225,7 +225,7 @@ Now man is a creature of will. According to what his will is in this world, so w
 
 4\. If anything ails him in that (second) age, let him say: ‘Ye Prâ<i>n</i>as, ye Rudras, extend this my midday-libation unto the third libation, that I, the sacrificer, may not perish in the midst of the Prâ<i>n</i>as or Rudras.’ Thus he recovers from his illness, and becomes whole.
 
-5\. The next forty-eight years are the third <span id="p51">[<sup><small>p. 51</small></sup>]</span> libation. The <i>G</i>agatî has forty-eight syllables, the third libation is offered with <i>G</i>agatî hymns. The Âdityas are connected with that part of it. The Prâ<i>n</i>as are the Âdityas, for they take up all this (âdadate).
+5\. The next forty-eight years are the third <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> libation. The <i>G</i>agatî has forty-eight syllables, the third libation is offered with <i>G</i>agatî hymns. The Âdityas are connected with that part of it. The Prâ<i>n</i>as are the Âdityas, for they take up all this (âdadate).
 
 6\. If anything ails him in that (third) age, let him say: ‘Ye Prâ<i>n</i>as, ye Âdityas, extend this my third libation unto the full age, that I, the sacrificer, may not perish in the midst of the Prâ<i>n</i>as or Âdityas.’ Thus he recovers from his illness, and becomes whole.
 
@@ -241,9 +241,9 @@ Now man is a creature of will. According to what his will is in this world, so w
 
 4\. Penance, liberality, righteousness, kindness, truthfulness, these form his Dakshi<i>n</i>âs (gifts bestowed on priests, &c.)
 
-5\. Therefore when they say, ‘There will be a <span id="p52">[<sup><small>p. 52</small></sup>]</span> birth,’ and ‘there has been a birth’ (words used at the Soma-sacrifice, and really meaning, ‘He will pour out the Soma-juice,’ and ‘he has poured out the Soma-juice’), that is his new birth. His death is the Avabh<i>ri</i>tha ceremony (when the sacrificial Vessels are carried away to be cleansed).
+5\. Therefore when they say, ‘There will be a <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> birth,’ and ‘there has been a birth’ (words used at the Soma-sacrifice, and really meaning, ‘He will pour out the Soma-juice,’ and ‘he has poured out the Soma-juice’), that is his new birth. His death is the Avabh<i>ri</i>tha ceremony (when the sacrificial Vessels are carried away to be cleansed).
 
-6\. Ghora Âṅgirasa, after having communicated this (view of the sacrifice) to K<i>ri</i>sh<i>n</i>a, the son of Devăkî [^187]\—and he never thirsted again (after other knowledge)—said: ‘Let a man, when his end approaches, <span id="p53">[<sup><small>p. 53</small></sup>]</span> take refuge with this Triad [^188]: “Thou art the imperishable,” “Thou art the unchangeable,” “Thou art the edge of Prâ<i>n</i>a.”’ On this subject there are two <i>Ri</i><i>k</i> verses (Rig-veda VIII, 6, 30):—
+6\. Ghora Âṅgirasa, after having communicated this (view of the sacrifice) to K<i>ri</i>sh<i>n</i>a, the son of Devăkî [^187]\—and he never thirsted again (after other knowledge)—said: ‘Let a man, when his end approaches, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> take refuge with this Triad [^188]: “Thou art the imperishable,” “Thou art the unchangeable,” “Thou art the edge of Prâ<i>n</i>a.”’ On this subject there are two <i>Ri</i><i>k</i> verses (Rig-veda VIII, 6, 30):—
 
 7\. ‘Then they see (within themselves) the ever-present light of the old seed (of the world, the Sat), the highest, which is lighted in the brilliant (Brahman).’ Rig-veda I, 50, 10:—
 
@@ -253,7 +253,7 @@ Now man is a creature of will. According to what his will is in this world, so w
 
 1\. Let a man meditate on mind as Brahman (n.), this is said with reference to the body. Let a man meditate on the ether as Brahman (n.), this is said with reference to the Devas. Thus both the meditation which has reference to the body, and the meditation which has reference to the Devas, has been taught.
 
-2\. That Brahman (mind) has four feet (quarters). <span id="p54">[<sup><small>p. 54</small></sup>]</span> Speech is one foot, breath is one foot, the eye is one foot, the car is one foot-so much with reference to the body. Then with reference to the gods, Agni (fire) is one foot, Vâyu (air) is one foot, Âditya (sun) is one foot, the quarters are one foot. Thus both the worship which has reference to the body, and the worship which has reference to the Devas, has been taught.
+2\. That Brahman (mind) has four feet (quarters). <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> Speech is one foot, breath is one foot, the eye is one foot, the car is one foot-so much with reference to the body. Then with reference to the gods, Agni (fire) is one foot, Vâyu (air) is one foot, Âditya (sun) is one foot, the quarters are one foot. Thus both the worship which has reference to the body, and the worship which has reference to the Devas, has been taught.
 
 3\. Speech is indeed the fourth foot of Brahman. That foot shines with Agni (fire) as its light, and warms. He who knows this, shines and warms through his celebrity, fame, and glory of countenance.
 
@@ -267,7 +267,7 @@ Now man is a creature of will. According to what his will is in this world, so w
 
 1\. Âditya (the sun [^191]) is Brahman, this is the doctrine, and this is the fuller account of it:—
 
-In the beginning this was non-existent [^192]. It became <span id="p55">[<sup><small>p. 55</small></sup>]</span> existent, it grew. It turned into an egg [^193]. The egg lay for the time of a year. The egg broke open. The two halves were one of silver, the other of gold.
+In the beginning this was non-existent [^192]. It became <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> existent, it grew. It turned into an egg [^193]. The egg lay for the time of a year. The egg broke open. The two halves were one of silver, the other of gold.
 
 2\. The silver one became this earth, the golden one the sky, the thick membrane (of the white) the mountains, the thin membrane (of the yoke) the mist with the clouds, the small veins the rivers, the fluid the sea.
 

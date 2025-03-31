@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 IN discussions of fraudulent mediums or self-deceived psychics, the reader of this book has several times encountered the statement that there were certain exceptions to the general indictments there made, and was referred to this appendix. It now becomes my duty to explain what I had in mind when those footnotes were inserted.
 
@@ -42,7 +42,7 @@ The other exception has to do with a rather peculiar case of psychic phenomena, 
 
 A thorough study of this case has convinced me that it is not one of ordinary trance. While the sleep seems to be quite of a natural order, it is very profound, and so far we have never been able to awaken the subject when in this state; but the body is never rigid, and the heart action is never modified, tho respiration is sometimes markedly interfered with. This man is utterly unconscious, wholly oblivious to what takes place, and, unless told about it subsequently, never knows that he has been used as a sort of clearing house for the coming and going of alleged extra-planetary personalities. In fact, he is more or less indifferent to the whole proceeding, and shows a surprising lack of interest in these affairs as they occur from time to time.
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 In no way are these night visitations like the séances associated with spiritualism. At no time during the period of eighteen years' observation has there been a communication from any source that claimed to be the spirit of a deceased human being. The communications which have been written, or which we have had the opportunity to hear spoken, are made by a vast order of alleged beings who claim to come from other planets to visit this world, to stop here as student visitors for study and observation when they are en route from one universe to another or from one planet to another. These communications further arise in alleged spiritual beings who purport to have been assigned to this planet for duties of various sorts.
 

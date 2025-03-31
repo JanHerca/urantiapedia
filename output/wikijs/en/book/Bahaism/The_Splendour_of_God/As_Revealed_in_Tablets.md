@@ -45,7 +45,7 @@ Should opposition or injury happen, we must bear it and be kind, and, through al
 
 To be silent concerning the faults of others; to pray for them; and help them, through kindness, to correct their faults.
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 To look always at the good and not at the bad. If a man has ten good qualities and one bad one, we must look at the ten and forget the one. And if a man has ten bad qualities and one good one, we must look at the one and forget the ten.
 
@@ -61,7 +61,7 @@ To be humble.
 
 To be servants of each other, and to know that we are less than any one else.
 
-To be as one soul in many bodies; for the more we love each other the nearer we shall be to God; but that our love, our unity, our <span id="p124">[<sup><small>p. 124</small></sup>]</span> obedience, must not be by confession but of reality.
+To be as one soul in many bodies; for the more we love each other the nearer we shall be to God; but that our love, our unity, our <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> obedience, must not be by confession but of reality.
 
 To act with caution and wisdom.
 

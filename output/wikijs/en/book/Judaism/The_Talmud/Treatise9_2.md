@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 1\. Men may not discourse on illegal connections with three, [^353] nor on the work of creation with two, [^354] nor on the cherubs with one, [^355] save when one is wise, and comprehends it of his own knowledge. Every one who considers four things, it were suitable for him that he did not come into the world. What is in the height? what is in the depth? what is before? and what is behind? And every one who is not anxious for the honour of his Creator, it were suitable for him that he did not come into the world.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 3\. The school of Shammai said, “men may bring peace-offerings during the feast, but they are not to lay their hands on them, and they are not to bring burnt-offerings.” But the house of Hillel say, “they may bring peace-offerings, and burnt-offerings, and lay their hands on them.”
 
-4\. “When Pentecost happens to be on the eve of the Sabbath?” The school of Shammai say, “the day of slaughtering the offering is after the Sabbath.” But the <span id="p172">[<sup><small>p. 172</small></sup>]</span> school of Hillel say, “there is no day of slaughtering after the Sabbath.” But they both acknowledge that if it happened to be on the Sabbath, the day of slaughter is after the Sabbath. And the high priest must not robe in his vestments, though they are allowed in seasons of mourning and fasting, for fear of confirming the words of those who say that “Pentecost is after the Sabbath.” [^357]
+4\. “When Pentecost happens to be on the eve of the Sabbath?” The school of Shammai say, “the day of slaughtering the offering is after the Sabbath.” But the <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> school of Hillel say, “there is no day of slaughtering after the Sabbath.” But they both acknowledge that if it happened to be on the Sabbath, the day of slaughter is after the Sabbath. And the high priest must not robe in his vestments, though they are allowed in seasons of mourning and fasting, for fear of confirming the words of those who say that “Pentecost is after the Sabbath.” [^357]
 
 5\. Men must wash their hands for ordinary eating, but for tithes and for the heave-offering they must be baptized. And for the sin-offering, if the hands be unclean, the body is unclean.
 

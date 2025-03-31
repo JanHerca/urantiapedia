@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## YASNA XLII. A SUPPLEMENT TO THE HAPTANGHÂITI [^1212].
 
-1\. We worship You, O Ye Bountiful Immortals! with the entire collection of this Yasna, Haptanghâiti <span id="p291">[<sup><small>p. 291</small></sup>]</span> (as we sum up all). And we sacrifice to the fountains of the waters, and to the fordings of the rivers, to the forkings of the highways, and to the meetings of the roads.
+1\. We worship You, O Ye Bountiful Immortals! with the entire collection of this Yasna, Haptanghâiti <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> (as we sum up all). And we sacrifice to the fountains of the waters, and to the fordings of the rivers, to the forkings of the highways, and to the meetings of the roads.
 
 2\. And we sacrifice to the hills that run with torrents, and the lakes that brim with waters, and to the corn that fills the corn-fields; and we sacrifice to both the protector and the Creator, to both Zarathu<i>s</i>tra and the Lord.
 

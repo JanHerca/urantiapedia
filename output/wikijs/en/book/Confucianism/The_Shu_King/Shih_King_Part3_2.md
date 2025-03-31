@@ -42,13 +42,13 @@ THE LEGEND OF HÂU-<i>K</i>Î:—HIS CONCEPTION; HIS BIRTH; THE PERILS OF HIS IN
 
 Of Hâu-_k_î there is some notice on the tenth ode of the first decade of the Sacrificial Odes of <i>K</i>âu. To him the kings of <i>K</i>âu traced their lineage. Of <i>K</i>iang Yüan, his mother, our knowledge is very scanty. It is said that she was a daughter of the House of Thâi, which traced its lineage up to Shăn-nung in prehistoric times. From the first stanza of this piece it appears that she was married, and had been so for some time without having any child. But who her husband was it is impossible to say with certainty. As the <i>K</i>âu surname was <i>K</i>î, he must have been one of the descendants of Hwang Tî.
 
-The first birth of (our) people [^532] Was from <i>K</i>iang Yüan. How did she give birth to (our) people She had presented a pure offering and sacrificed [^533], <span id="p397">[<sup><small>p. 397</small></sup>]</span> That her childlessness might be taken away. She then trod on a toe-print made by God, and was moved [^534], In the large place where she rested. She became pregnant; she dwelt retired; She gave birth to, and nourished (a son), Who was Hâu-_k_î.
+The first birth of (our) people [^532] Was from <i>K</i>iang Yüan. How did she give birth to (our) people She had presented a pure offering and sacrificed [^533], <span id="p397"><sup><small>[ p. 397 ]</small></sup></span> That her childlessness might be taken away. She then trod on a toe-print made by God, and was moved [^534], In the large place where she rested. She became pregnant; she dwelt retired; She gave birth to, and nourished (a son), Who was Hâu-_k_î.
 
 When she had fulfilled her months, Her firstborn son (came forth) like a lamb. There was no bursting, nor rending, No injury, no hurt; Showing how wonderful he would be. Did not God give her the comfort? Had he not accepted her pure offering and sacrifice, So that thus easily she brought forth her son?
 
 He was placed in a narrow lane, But the sheep and oxen protected him with loving care [^535]. He was placed in a wide forest, Where he was met with by the wood-cutters. He was placed on the cold ice, And a bird screened and supported him with its wings. When the bird went away, Hâu-_k_î began to wail. His cry was long and loud, So that his voice filled the whole way [^535].
 
-<span id="p398">[<sup><small>p. 398</small></sup>]</span>
+<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 When he was able to crawl, He looked majestic and intelligent. When he was able to feed himself, He fell to planting beans. The beans grew luxuriantly; His rows of paddy shot up beautifully; His hemp and wheat grew strong and close; His gourds yielded abundantly.
 
@@ -56,7 +56,7 @@ The husbandry of Hâu-_k_î Proceeded on the plan of helping (the growth). Havin
 
 He gave (his people) the beautiful grains;—The black millet and the double-kernelled, The tall red and the white. They planted extensively the black and the double-kernelled, Which were reaped and stacked on the ground. They planted extensively the tall red and the white, Which were carried on their shoulders and backs, Home for the sacrifices which he founded [^537].
 
-And how as to our sacrifices (continued from him)? <span id="p399">[<sup><small>p. 399</small></sup>]</span> Some hull (the grain); some take it from the mortar; Some sift it; some tread it. It is rattling in the dishes; It is distilled, and the steam floats about. We consult [^538]; we observe the rites of purification; We take southernwood and offer it with the fat; We sacrifice a ram to the spirit of the path [^539]; We offer roast flesh and broiled:—And thus introduce the coming year [^540].
+And how as to our sacrifices (continued from him)? <span id="p399"><sup><small>[ p. 399 ]</small></sup></span> Some hull (the grain); some take it from the mortar; Some sift it; some tread it. It is rattling in the dishes; It is distilled, and the steam floats about. We consult [^538]; we observe the rites of purification; We take southernwood and offer it with the fat; We sacrifice a ram to the spirit of the path [^539]; We offer roast flesh and broiled:—And thus introduce the coming year [^540].
 
 We load the stands with the offerings, The stands both of wood and of earthenware. As soon as the fragrance ascends, God, well pleased, smells the sweet savour. Fragrant it is, and in its due season [^541]. Hâu-_k_î founded our sacrifices, And no one, we presume, has given occasion for blame or regret in regard to them, Down to the present day.
 
@@ -66,13 +66,13 @@ We load the stands with the offerings, The stands both of wood and of earthenwar
 
 A FESTAL ODE, CELEBRATING SOME ENTERTAINMENT GIVEN BY THE KING TO HIS RELATIVES, WITH THE TRIAL OF ARCHERY AFTER THE FEAST; CELEBRATING ESPECIALLY THE HONOUR DONE ON SUCH OCCASIONS TO THE AGED.
 
-This ode is given here, because it is commonly taken as a prelude to the next. <i>K</i>û Hsî interprets it of the feast, given by, the <span id="p400">[<sup><small>p. 400</small></sup>]</span> king, at the close of the sacrifice in the ancestral temple, to the princes of his own surname. There are difficulties in the interpretation of the piece on this view, which, however, is to be preferred to any other.
+This ode is given here, because it is commonly taken as a prelude to the next. <i>K</i>û Hsî interprets it of the feast, given by, the <span id="p400"><sup><small>[ p. 400 ]</small></sup></span> king, at the close of the sacrifice in the ancestral temple, to the princes of his own surname. There are difficulties in the interpretation of the piece on this view, which, however, is to be preferred to any other.
 
 In thick patches are those rushes, Springing by the way-side:—Let not the cattle and sheep trample them. Anon they will grow up; anon they will be completely formed, With their leaves soft and glossy [^542]. Closely related are brethren; Let none be absent, let all be near. For some there are mats spread; For some there are given stools [^543].
 
 The mats are spread, and a second one above; The stools are given, and there are plenty of servants. (The guests) are pledged, and they pledge (the host) in return; He rinses the cups (and refills them, but the guests) put them down, Sauces and pickles are brought in, With roasted meat and broiled. Excellent provisions there are of tripe and palates; With singing to lutes, and with drums.
 
-The ornamented bows are strong, And the four arrows are all balanced. They discharge the arrows, and all hit, And the guests are arranged according to their skill. The ornamented bows are drawn to the full, And the arrows are grasped in the hand. They go straight to the mark as if planted <span id="p401">[<sup><small>p. 401</small></sup>]</span> in it, And the guests are arranged according to the humble propriety of their behaviour.
+The ornamented bows are strong, And the four arrows are all balanced. They discharge the arrows, and all hit, And the guests are arranged according to their skill. The ornamented bows are drawn to the full, And the arrows are grasped in the hand. They go straight to the mark as if planted <span id="p401"><sup><small>[ p. 401 ]</small></sup></span> in it, And the guests are arranged according to the humble propriety of their behaviour.
 
 The distant descendant presides over the feast; His sweet spirits are strong. He fills their cups from a large vase, And prays for the hoary old (among his guests):—That with hoary age and wrinkled back, They may lead on one another (to virtue), and support one another (in it); That so their old age may be blessed, And their bright happiness ever increased.
 
@@ -88,7 +88,7 @@ You have made us drink to the full of your spirits; Your viands were set out bef
 
 May your bright intelligence become perfect, High and brilliant, leading to a good end! That good end has (now) its beginning:—The personators of your ancestors announced it in their blessing.
 
-What was their announcement? '(The offerings) in your dishes of bamboo and wood are clean and <span id="p402">[<sup><small>p. 402</small></sup>]</span> fine. Your friends [^544], assisting in the service, Have done their part with reverent demeanour.
+What was their announcement? '(The offerings) in your dishes of bamboo and wood are clean and <span id="p402"><sup><small>[ p. 402 ]</small></sup></span> fine. Your friends [^544], assisting in the service, Have done their part with reverent demeanour.
 
 ‘Your reverent demeanour was altogether what the occasion required; And also that of your filial son [^545]. For such filial piety, continued without ceasing, There will ever be conferred blessings upon you.’
 
@@ -106,7 +106,7 @@ AN ODE APPROPRIATE TO THE FEAST GIVEN TO THE PERSONATORS OF THE DEPARTED, ON THE
 
 This supplementary sacrifice on the day after the principal service in the temple appeared in the ninth Book of the fourth Part of the Shû; and of the feast after it to the personators of the dead I have spoken on [p. 301](Shih_King_Part1_Intro#p301).
 
-The wild-ducks and widgeons are on the <i>K</i>ing [^546]; <span id="p403">[<sup><small>p. 403</small></sup>]</span> The personators of your ancestors feast and are happy. Your spirits are clear; Your viands are fragrant. The personators of your ancestors feast and drink;—Their happiness and dignity are made complete.
+The wild-ducks and widgeons are on the <i>K</i>ing [^546]; <span id="p403"><sup><small>[ p. 403 ]</small></sup></span> The personators of your ancestors feast and are happy. Your spirits are clear; Your viands are fragrant. The personators of your ancestors feast and drink;—Their happiness and dignity are made complete.
 
 The wild-ducks and widgeons are on the sand; The personators of the dead enjoy the feast, their appropriate tribute. Your spirits are abundant; Your viands are good. The personators of your ancestors feast and drink;—Happiness and dignity lend them their aids.
 
@@ -116,7 +116,7 @@ The wild-ducks and widgeons are where the waters meet; The personators of your a
 
 The wild-ducks and widgeons are in the gorge; The personators of your ancestors rest, full of complacency. The fine spirits are delicious; Your meat, roast and broiled, is fragrant. The personators of your ancestors feast and drink;—No troubles will be theirs after this.
 
-<span id="p404">[<sup><small>p. 404</small></sup>]</span>
+<span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 
 <a id="o5"></a>
 
@@ -140,19 +140,19 @@ Into the recesses of the large mound Came the wind, whirling from the south. The
 
 ‘Full of spirits you ramble; Full of satisfaction you rest. O happy and courteous sovereign, May you fulfil your years, And end them like your ancestors!’
 
-‘Your territory is great and glorious, And perfectly <span id="p405">[<sup><small>p. 405</small></sup>]</span> secure. O happy and courteous sovereign, May you fulfil your years, As the host of all the spirits [^547]!
+‘Your territory is great and glorious, And perfectly <span id="p405"><sup><small>[ p. 405 ]</small></sup></span> secure. O happy and courteous sovereign, May you fulfil your years, As the host of all the spirits [^547]!
 
 ‘You have received the appointment long acknowledged, With peace around your happiness and dignity. O happy and courteous sovereign, May you fulfil your years, With pure happiness your constant possession!
 
 ‘You have helpers and supporters, Men of filial piety and of virtue, To lead you on, and act as wings to you, (So that), O happy and courteous sovereign, You are a pattern to the four quarters (of the kingdom).
 
-‘Full of dignity and majesty (are they), Like a <span id="p406">[<sup><small>p. 406</small></sup>]</span> jade-mace(in its purity), The subject of praise, the contemplation of hope. O happy and courteous sovereign, (Through them) the four quarters (of the kingdom) are guided by you.
+‘Full of dignity and majesty (are they), Like a <span id="p406"><sup><small>[ p. 406 ]</small></sup></span> jade-mace(in its purity), The subject of praise, the contemplation of hope. O happy and courteous sovereign, (Through them) the four quarters (of the kingdom) are guided by you.
 
 ‘The male and female phœnix fly about [^548], Their wings rustling, While they settle in their proper resting-place. Many are your admirable officers, O king, Ready to be employed by you, Loving you, the Son of Heaven.
 
 ‘The male and female phœnix fly about, Their wings rustling, As they soar up to heaven. Many are your admirable officers, O king, Waiting for your commands, And loving the multitudes of the people, The male and female phœnix give out their notes, On that lofty ridge. The dryandras grow, On those eastern slopes. They grow luxuriantly; And harmoniously the notes resound.
 
-<span id="p407">[<sup><small>p. 407</small></sup>]</span>
+<span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
 ‘Your chariots, O sovereign, Are numerous, many. Your horses, O sovereign, Are well trained and fleet. I have made my few verses, In prolongation of your song.’
 
@@ -166,7 +166,7 @@ With the <i>Kh</i>üan Â, what are called the ‘correct’ odes of Part III, o
 
 The people indeed are heavily burdened, But perhaps a little relief may be got for them. Let us cherish this centre of the kingdom, To secure the repose of the four quarters of it. Let us give no indulgence to the wily and obsequious, In order to make the unconscientious careful, And to repress robbers and oppressors, Who have no fear of the clear will (of Heaven) [^549]. Then let us show kindness to those who are distant, And help those who are near,—Thus establishing (the throne of) our king.
 
-<span id="p408">[<sup><small>p. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 <a id="o10"></a>
 
@@ -182,7 +182,7 @@ Heaven is now sending down calamities;—Do not be so complacent. Heaven is now 
 
 Though my duties are different from yours, I am your fellow-servant. I come to advise with you, And you hear me with contemptuous indifference, My words are about the (present urgent) affairs;—Do not think them matter for laughter. The ancients had a saying:—‘Consult the gatherers of grass and firewood [^551].’
 
-<span id="p409">[<sup><small>p. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 Heaven is now exercising oppression;—Do not in such a way make a mock of things. An old man, (I speak) with entire sincerity; But you, my juniors, are full of pride. It is not that my words are those of age, But you make a joke of what is sad. But the troubles will multiply like flames, Till they are beyond help or remedy.
 
@@ -190,7 +190,7 @@ Heaven is now displaying its anger;—Do not be either boastful or flattering, U
 
 Heaven enlightens the people [^553], As the bamboo flute responds to the earthen whistle; As two half-maces form a whole one; As you take a thing, and bring it away in your hand, Bringing it away, without any more ado. The enlightenment of the people is very easy. They have (now) many perversities;—Do not you set up your perversity before them.
 
-Good men are a fence; The multitudes of the people are a wall; Great states are screens; Great families are buttresses;—The cherishing of virtue <span id="p410">[<sup><small>p. 410</small></sup>]</span> secures repose; The circle of (the king's) relatives is a fortified wall. We must not let the fortified wall get destroyed; We must not let (the king) be solitary and consumed with terrors.
+Good men are a fence; The multitudes of the people are a wall; Great states are screens; Great families are buttresses;—The cherishing of virtue <span id="p410"><sup><small>[ p. 410 ]</small></sup></span> secures repose; The circle of (the king's) relatives is a fortified wall. We must not let the fortified wall get destroyed; We must not let (the king) be solitary and consumed with terrors.
 
 Revere the anger of Heaven, And presume not to make sport or be idle. Revere the changing moods of Heaven, And presume not to drive about (at your pleasure). Great Heaven is intelligent, And is with you in all your goings. Great Heaven is clear-seeing, And is with you in your wanderings and indulgences.
 

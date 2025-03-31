@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 ## TREATISE XI.
 
@@ -48,7 +48,7 @@ Dealings with Idolaters—Idolatrous Feasts—Things not to be sold to Idolaters
 
 2\. R. Ishmael said, “three days before and three days after their feasts it is forbidden.” But the Sages say, “before their feasts it is forbidden, after their feasts it is allowed.”
 
-3\. “And these are the feasts of the idolaters,—the Kalends, and the Saturnalia, and the Quartesima, and the coronation day of their kings, and the day of their birth, and the day of their death.” The words of R. Meier. But the Sages say, “every death anniversary in which there is burning <span id="p205">[<sup><small>p. 205</small></sup>]</span> of incense, [^433] there is in it the worship of idols. But if there be no burning of incense there is no worship of idols.” “The day of shaving his beard and cutting his hair, the day of his disembarking from the sea, and the day of his release from prison, and the day when the heathen makes a feast for his son?” “It is not forbidden to deal with them save on this day of his feast, and with this man who keeps the feast only.”
+3\. “And these are the feasts of the idolaters,—the Kalends, and the Saturnalia, and the Quartesima, and the coronation day of their kings, and the day of their birth, and the day of their death.” The words of R. Meier. But the Sages say, “every death anniversary in which there is burning <span id="p205"><sup><small>[ p. 205 ]</small></sup></span> of incense, [^433] there is in it the worship of idols. But if there be no burning of incense there is no worship of idols.” “The day of shaving his beard and cutting his hair, the day of his disembarking from the sea, and the day of his release from prison, and the day when the heathen makes a feast for his son?” “It is not forbidden to deal with them save on this day of his feast, and with this man who keeps the feast only.”
 
 4\. “The city in which there exists idolatry outside the city?” “It is allowed to deal with the idolaters.” “If the idolatry be outside?” “Inside it is allowed.” “How is it with going there?” “When the road directly leads to the place itself, it is forbidden; but if it be possible to go by it to another place, it is allowed.”
 
@@ -58,7 +58,7 @@ Dealings with Idolaters—Idolatrous Feasts—Things not to be sold to Idolaters
 
 7\. Where they are accustomed to sell small cattle to idolaters, they may sell them. Where they are unaccustomed to sell them, they must not sell them. And everywhere they must not sell to them the large cattle, calves, ass foals, unblemished or blemished. R. Judah allowed the broken-boned; and Benbethira allowed even horses.
 
-8\. Men must not sell to them bears or lions, or anything <span id="p206">[<sup><small>p. 206</small></sup>]</span> in which there is peril to the multitude. They must not build with them royal halls, [^435] judgment seats, and stadiums, [^436] and bemas. [^437] But men may build with them altars and baths. When they reach to the arching in which they place their idol, it is forbidden to build farther.
+8\. Men must not sell to them bears or lions, or anything <span id="p206"><sup><small>[ p. 206 ]</small></sup></span> in which there is peril to the multitude. They must not build with them royal halls, [^435] judgment seats, and stadiums, [^436] and bemas. [^437] But men may build with them altars and baths. When they reach to the arching in which they place their idol, it is forbidden to build farther.
 
 9\. And Israelites must not make decorations for idols, necklaces, and nose-rings, and rings. R. Eleazar said, “for pay it is allowed.” Men must not sell to them what is fastened to the ground. But one may sell it after it is cut down. R. Judah said, “one may sell it to a heathen on condition that he cuts it down.”
 

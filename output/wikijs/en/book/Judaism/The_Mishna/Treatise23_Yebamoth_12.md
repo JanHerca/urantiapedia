@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 3. If the woman took off the shoe, and did expectorate \[before the brother-in-law\], but did not pronounce the words \[necessary to be spoken on that occasion\], the _Chalitzah_ is valid; if she spoke the words and expectorated, but did not take off the shoe, the _Chalitzah_ is valid; if she took off the shoe and spoke the words, but did not expectorate, the _Chalitzah_ is void, according to R. Eleazar; but valid according to R. Akivah. R. Eleazar thus expounds the text (Deut. xxv. 9), “Thus shall it be done,” &c. viz. “All acts there prescribed must be performed, and the omission of any renders the _Chalitzah_ void.” But R. Akivah replied, “The same text affords a proof of my opinion, for it is there stated, ‘Thus shall it be done to the man;’ which proves that it only relates to the acts of the man.” [^737]
 
-<span id="p226">[<sup><small>p. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 § 4. When a deaf and dumb man had performed to him the ceremony of _Chalitzah_, or if a deaf and dumb woman performed it, or when a woman performed it to a minor, the _Chalitzah_ is void. A female who, during her minority performed a _Chalitzah_, must repeat it on attaining her majority, otherwise the first _Chalitzah_ is void.
 

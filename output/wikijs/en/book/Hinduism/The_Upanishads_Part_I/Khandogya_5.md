@@ -46,7 +46,7 @@ FIFTH PRAPÂTHAKA [^226].
 
 5\. He who knows the home, becomes a home of his people. The mind indeed is the home.
 
-6\. The five senses quarrelled together [^227], who was the best, saying, I am better, I am better. <span id="p73">[<sup><small>p. 73</small></sup>]</span> 7\. They went to their father Pra<i>g</i>âpati and said: ‘Sir, who is the best of us?’ He replied: ‘He by whose departure the body seems worse than worst, he is the best of you.’
+6\. The five senses quarrelled together [^227], who was the best, saying, I am better, I am better. <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> 7\. They went to their father Pra<i>g</i>âpati and said: ‘Sir, who is the best of us?’ He replied: ‘He by whose departure the body seems worse than worst, he is the best of you.’
 
 8\. The tongue (speech) departed, and having been absent for a year, it came round and said: ‘How have you been able to live without me?’ They replied: ‘Like mute people, not speaking, but breathing with the breath, seeing with the eye, hearing with the ear, thinking with the mind. Thus we lived.’ Then speech went back.
 
@@ -56,7 +56,7 @@ FIFTH PRAPÂTHAKA [^226].
 
 11\. The mind departed, and having been absent for a year, it came round and said: ‘How have you been able to live without me?’ They replied: ‘Like children whose mind is not yet formed, but breathing with the breath, speaking with the tongue, seeing with the eye, hearing with the ear. Thus we lived.’ Then the mind went back.
 
-12\. The breath, when on the point of departing, tore up the other senses, as a horse, going to start, <span id="p74">[<sup><small>p. 74</small></sup>]</span> might tear up the pegs to which he is tethered [1](Khandogya_5#fn228). They came to him and said: ‘Sir, be thou (our lord); thou art the best among us. Do not depart from us!’
+12\. The breath, when on the point of departing, tore up the other senses, as a horse, going to start, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> might tear up the pegs to which he is tethered [1](Khandogya_5#fn228). They came to him and said: ‘Sir, be thou (our lord); thou art the best among us. Do not depart from us!’
 
 13\. Then the tongue said to him: ‘If I am the richest, thou art the richest.’ The eye said to him: ‘If I am the firm rest, thou art the firm rest [2](Khandogya_5#fn229).’
 
@@ -68,7 +68,7 @@ FIFTH PRAPÂTHAKA [^226].
 
 1\. Breath said: ‘What shall be my food?’ They answered: ‘Whatever there is, even unto dogs and birds.’ Therefore this is food for Ana (the breather). His name is clearly Ana [^230]. To him who knows this there is nothing that is not (proper) food.
 
-2\. He said: ‘What shall be my dress?’ They answered: ‘Water.’ Therefore wise people, when they are going to eat food, surround their food before and after with water [^231].‘ He (prâ<i>n</i>a) thus gains a dress, and is no longer naked [^232]’. <span id="p75">[<sup><small>p. 75</small></sup>]</span> 3\. Satyakâma <i>G</i>âbâla, after he had communicated this to Go<i>s</i>ruti Vaiyâghrapadya, said to him: ‘If you were to tell this to a dry stick, branches would grow, and leaves spring from it.’
+2\. He said: ‘What shall be my dress?’ They answered: ‘Water.’ Therefore wise people, when they are going to eat food, surround their food before and after with water [^231].‘ He (prâ<i>n</i>a) thus gains a dress, and is no longer naked [^232]’. <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> 3\. Satyakâma <i>G</i>âbâla, after he had communicated this to Go<i>s</i>ruti Vaiyâghrapadya, said to him: ‘If you were to tell this to a dry stick, branches would grow, and leaves spring from it.’
 
 ---
 
@@ -80,7 +80,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to the firm
 
 In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.’ After that let him throw all that remains together into the mash.
 
-6\. Then going forward and placing the mash <span id="p76">[<sup><small>p. 76</small></sup>]</span> in his hands, he recites: ‘Thou (Prâ<i>n</i>a) art Ama [^236] by name, for all this together exists in thee. He is the oldest and best, the king, the sovereign May he make me the oldest, the best, the king, the sovereign. May I be all this.’
+6\. Then going forward and placing the mash <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> in his hands, he recites: ‘Thou (Prâ<i>n</i>a) art Ama [^236] by name, for all this together exists in thee. He is the oldest and best, the king, the sovereign May he make me the oldest, the best, the king, the sovereign. May I be all this.’
 
 7\. Then he eats with the following <i>Ri</i><i>k</i> verse at every foot: ‘We choose that food’—here he swallows—‘Of the divine Savit<i>ri</i> (prâ<i>n</i>a)’—here he swallows—‘The best and all-supporting food’—here he swallows—‘We meditate on the speed of Bhaga (Savit<i>ri</i>, prâ<i>n</i>a)’—here he drinks all.
 
@@ -94,7 +94,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 2\. ‘Do you know to what place men go from here?’ ‘No, Sir,’ he replied.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 ‘Do you know how they return again?’ ‘No Sir,’ he replied.
 
@@ -108,7 +108,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 5\. ‘That fellow of a Râ<i>g</i>anya, asked me five questions, and I could not answer one of them.’ The father said: ‘As you have told me these questions of his, I do not know any one of them [^242]. If I knew these questions, how should I not have told you [^243]?’
 
-6\. Then Gautama went to the king's place, and when he had come to him, the king offered him proper respect. In the morning the king went out on his way to the assembly [^244]. The king said to him: <span id="p78">[<sup><small>p. 78</small></sup>]</span> ‘Sir, Gautama, ask a boon of such things as men possess.’ He replied: ‘Such things as men possess may remain with you. Tell me the speech which you addressed to the boy.’
+6\. Then Gautama went to the king's place, and when he had come to him, the king offered him proper respect. In the morning the king went out on his way to the assembly [^244]. The king said to him: <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> ‘Sir, Gautama, ask a boon of such things as men possess.’ He replied: ‘Such things as men possess may remain with you. Tell me the speech which you addressed to the boy.’
 
 7\. The king was perplexed, and commanded him, saying: ‘Stay with me some time.’ Then he said: 'As (to what) you have said to me, Gautama, this knowledge did not go to any Brâhma<i>n</i>a before you, and therefore this teaching belonged in all the worlds to the Kshatra class alone. Then he began:
 
@@ -120,7 +120,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 ## FIFTH KHA<i>N</i><i>D</i>A.
 
-1\. 'The altar is Par<i>g</i>anya (the god of rain), O Gautama; its fuel is the air itself, the smoke the cloud, the light the lightning, the coals. the thunderbolt, the sparks the thunderings [^247]. <span id="p79">[<sup><small>p. 79</small></sup>]</span> 2\. 'On that altar the Devas offer Soma, the king (the moon). From that oblation rises rain [^248].
+1\. 'The altar is Par<i>g</i>anya (the god of rain), O Gautama; its fuel is the air itself, the smoke the cloud, the light the lightning, the coals. the thunderbolt, the sparks the thunderings [^247]. <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> 2\. 'On that altar the Devas offer Soma, the king (the moon). From that oblation rises rain [^248].
 
 ## SIXTH KHA<i>N</i><i>D</i>A.
 
@@ -146,7 +146,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 2\. 'When born, he lives whatever the length of his life may be. When he has departed, his friends carry him, as appointed, to the fire (of the funeral pile) from whence he came, from whence he sprang.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 ## TENTH KHA<i>N</i><i>D</i>A.
 
@@ -156,19 +156,19 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 3\. 'But they who living in a village practise (a life of) sacrifices, works of public utility, and alms, they go to the smoke, from smoke to night, from night to the dark half of the moon, from the dark half of the moon to the six months when the sun goes to the south. But they do not reach the year.
 
-4\. 'From the months they go to the world of the fathers, from the world of the fathers to the ether, from the ether to the moon. That is Soma, the king. Here they are loved (eaten) by the Devas, yes, the Devas love (eat) them [^253]. <span id="p81">[<sup><small>p. 81</small></sup>]</span> 5\. 'Having dwelt there, till their (good) works are consumed, they return again that way as they came [^254], to the ether, from the ether to the air. Then the sacrificer, having become air, becomes smoke, having become smoke, he becomes mist,
+4\. 'From the months they go to the world of the fathers, from the world of the fathers to the ether, from the ether to the moon. That is Soma, the king. Here they are loved (eaten) by the Devas, yes, the Devas love (eat) them [^253]. <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> 5\. 'Having dwelt there, till their (good) works are consumed, they return again that way as they came [^254], to the ether, from the ether to the air. Then the sacrificer, having become air, becomes smoke, having become smoke, he becomes mist,
 
-6\. 'Having become mist, he becomes a cloud, having become a cloud, he rains down. Then he is born as rice and corn, herbs and trees, sesamum. and beans. From thence the escape is beset with most difficulties. For whoever the persons may be that eat the food, and beget offspring, he henceforth becomes like unto them. <span id="p82">[<sup><small>p. 82</small></sup>]</span> 7\. 'Those whose conduct has been good, will quickly attain some good birth, the birth of a Brâhma<i>n</i>a, or a Kshatriya, or a Vai<i>s</i>ya. But those whose conduct has been evil, will quickly attain an evil birth, the birth of a dog, or a hog, or a <i>K</i>a<i>n</i><i>d</i>âla.
+6\. 'Having become mist, he becomes a cloud, having become a cloud, he rains down. Then he is born as rice and corn, herbs and trees, sesamum. and beans. From thence the escape is beset with most difficulties. For whoever the persons may be that eat the food, and beget offspring, he henceforth becomes like unto them. <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> 7\. 'Those whose conduct has been good, will quickly attain some good birth, the birth of a Brâhma<i>n</i>a, or a Kshatriya, or a Vai<i>s</i>ya. But those whose conduct has been evil, will quickly attain an evil birth, the birth of a dog, or a hog, or a <i>K</i>a<i>n</i><i>d</i>âla.
 
 8\. 'On neither of these two ways those small creatures (flies, worms, &c.) are continually returning of whom it may be said, Live and die. Theirs is a third place.
 
 ‘Therefore that world never becomes full [^255] (cf. V, 3, 2).
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 ‘Hence let a man take care to himself [^256]! And thus it is said in the following <i>S</i>loka [^257]:—
 
-9\. 'A man who steals gold, who drinks spirits, <span id="p84">[<sup><small>p. 84</small></sup>]</span> who dishonours his Guru's bed, who kills a Brahman, these four fall, and as a fifth he who associates with them.
+9\. 'A man who steals gold, who drinks spirits, <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> who dishonours his Guru's bed, who kills a Brahman, these four fall, and as a fifth he who associates with them.
 
 10\. ‘But he who thus knows the five fires is not defiled by sin even though he associates with them. He who knows this, is pure, clean, and obtains the world of the blessed, yea, he obtains the world of the blessed.’
 
@@ -176,7 +176,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 1\. Prâ<i>k</i>îna<i>s</i>âla Aupamanyava, Satyaya<i>g</i>ña Paulushi, Indradyumna Bhâllaveya, <i>G</i>ana <i>S</i>ârkarâkshya, and Bu<i>d</i>ila Â<i>s</i>vatara<i>s</i>vi, these five great householders and great theologians came once together and held a discussion as to What is our Self, and what is Brahman [^259].
 
-2\. They reflected and said: ‘Sirs, there is that Uddâlaka Âru<i>n</i>i, who knows at present that Self, <span id="p85">[<sup><small>p. 85</small></sup>]</span> called Vai<i>s</i>vânara. Well, let us go to him.’ They went to him.
+2\. They reflected and said: ‘Sirs, there is that Uddâlaka Âru<i>n</i>i, who knows at present that Self, <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> called Vai<i>s</i>vânara. Well, let us go to him.’ They went to him.
 
 3\. But he reflected: ‘Those great householders and great theologians will examine me, and I shall not be able to tell them all; therefore I shall recommend another teacher to them.’
 
@@ -188,7 +188,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 7\. He said: ‘To-morrow I shall give you an answer.’ Therefore on the next morning they approached him, carrying fuel in their hands (like students), and he, without first demanding any preparatory rites [^262], said to them:
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 ## TWELFTH KHA<i>N</i><i>D</i>A.
 
@@ -204,7 +204,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 ‘That, however, is but the eye of the Self, and you would have become blind, if you had not come to me.’
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 ## FOURTEENTH KHA<i>N</i><i>D</i>A.
 
@@ -224,7 +224,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 ## SIXTEENTH KHA<i>N</i><i>D</i>A.
 
-1\. Then he said to Bu<i>d</i>ila Â<i>s</i>vatarâ<i>s</i>vi, ‘O Vaiyâghrapadya, whom do you meditate on as the Self?’ He replied: ‘Water only, venerable king.’ He said; <span id="p88">[<sup><small>p. 88</small></sup>]</span> 'The Self which you meditate on is the Vai<i>s</i>vânara Self, called Rayi (wealth). Therefore are you wealthy and flourishing.
+1\. Then he said to Bu<i>d</i>ila Â<i>s</i>vatarâ<i>s</i>vi, ‘O Vaiyâghrapadya, whom do you meditate on as the Self?’ He replied: ‘Water only, venerable king.’ He said; <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> 'The Self which you meditate on is the Vai<i>s</i>vânara Self, called Rayi (wealth). Therefore are you wealthy and flourishing.
 
 2\. 'You eat food and see your desire, and whoever thus meditates on that Vai<i>s</i>vânara Self, eats food and sees his desire, and has Vedic glory in his house.
 
@@ -240,7 +240,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 ## EIGHTEENTH KHA<i>N</i><i>D</i>A.
 
-1\. Then he said to them all: 'You eat your food, knowing that Vai<i>s</i>vânara Self as if it were many. But he who worships the Vai<i>s</i>vânara Self as a span long, and as [^264] identical with himself, he eats food in all worlds, in all beings, in all Selfs. <span id="p89">[<sup><small>p. 89</small></sup>]</span> 2\. 'Of that Vai<i>s</i>vânara Self the head is Sute<i>g</i>as (having good light), the eye Vi<i>s</i>varûpa (multiform), the breath P<i>ri</i>thagvartman (having various courses), the trunk Bahula (full), the bladder Rayi (wealth), the feet the earth, the chest the altar, the hairs the grass on the altar, the heart the Gârhapatya fire, the mind the Anvâhârya fire, the mouth the Âhavanîya fire.
+1\. Then he said to them all: 'You eat your food, knowing that Vai<i>s</i>vânara Self as if it were many. But he who worships the Vai<i>s</i>vânara Self as a span long, and as [^264] identical with himself, he eats food in all worlds, in all beings, in all Selfs. <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> 2\. 'Of that Vai<i>s</i>vânara Self the head is Sute<i>g</i>as (having good light), the eye Vi<i>s</i>varûpa (multiform), the breath P<i>ri</i>thagvartman (having various courses), the trunk Bahula (full), the bladder Rayi (wealth), the feet the earth, the chest the altar, the hairs the grass on the altar, the heart the Gârhapatya fire, the mind the Anvâhârya fire, the mouth the Âhavanîya fire.
 
 ## NINETEENTH KHA<i>N</i><i>D</i>A.
 
@@ -248,7 +248,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 2\. 'If Prâ<i>n</i>a is satisfied, the eye is satisfied, if the eye is satisfied, the sun is satisfied, if the sun is satisfied, heaven is satisfied, if heaven is satisfied, whatever is under heaven and under the sun is satisfied.. And through their satisfaction he (the sacrificer or eater) himself is satisfied with offspring, cattle, health, brightness, and Vedic splendour.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 ## TWENTIETH KHA<i>N</i><i>D</i>A.
 
@@ -266,7 +266,7 @@ In the same manner let him pour ghee on the fire, saying, ‘Svâhâ to success.
 
 1\. 'And he who offers the fourth oblation, should offer it to Samâna (on-breathing), saying Svâhâ. Then Samâna is satisfied,
 
-2\. 'If Samâna is satisfied, the mind is satisfied, if the mind is satisfied, Par<i>g</i>anya (god of rain) is satisfied, if Par<i>g</i>anya is satisfied, lightning is satisfied, if lightning is satisfied, whatever is under Par<i>g</i>anya and under lightning is satisfied. And through their <span id="p91">[<sup><small>p. 91</small></sup>]</span> satisfaction he (the sacrificer or cater) himself is satisfied with offspring, cattle, health, brightness, and Vedic splendour.
+2\. 'If Samâna is satisfied, the mind is satisfied, if the mind is satisfied, Par<i>g</i>anya (god of rain) is satisfied, if Par<i>g</i>anya is satisfied, lightning is satisfied, if lightning is satisfied, whatever is under Par<i>g</i>anya and under lightning is satisfied. And through their <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> satisfaction he (the sacrificer or cater) himself is satisfied with offspring, cattle, health, brightness, and Vedic splendour.
 
 ## TWENTY-THIRD KHA<i>N</i><i>D</i>A.
 

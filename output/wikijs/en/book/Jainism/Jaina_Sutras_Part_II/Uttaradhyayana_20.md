@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 TWENTIETH LECTURE. THE GREAT DUTY OF THE NIRGRANTHAS.
 
@@ -48,7 +48,7 @@ When the king saw his figure, his astonishment at that ascetic's figure was very
 
 ‘O his colour, O his figure, O the loveliness of the noble man, O his tranquillity, O his perfection, O his disregard for pleasures!’ (6)
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Adoring his feet and keeping him on his right side (he sat down), neither too far off nor too close by, and asked him with his hands clasped: (7)
 
@@ -66,7 +66,7 @@ When the saint had addressed this unprecedented speech to the king, who was grea
 
 ‘I have horses, elephants, and subjects, a town and a seraglio, power and command: enjoy human pleasures. (14)
 
-‘In possession of so great means, which permit the owner to enjoy all pleasures, how could he be <span id="p102">[<sup><small>p. 102</small></sup>]</span> without protection? Reverend sir, you speak untruth.’ (15)
+‘In possession of so great means, which permit the owner to enjoy all pleasures, how could he be <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> without protection? Reverend sir, you speak untruth.’ (15)
 
 “O king, you do not know the meaning and origin [^267] of (the word) ‘without protection,’ nor how one comes to be without protection or with protection, O ruler of men. (16)
 
@@ -78,7 +78,7 @@ When the saint had addressed this unprecedented speech to the king, who was grea
 
 “My eyes ached as if a cruel enemy thrust a sharp tool in the hollow of my body. (20)
 
-“In the back, the heart [^269], and the head, I suffered <span id="p103">[<sup><small>p. 103</small></sup>]</span> dreadful and very keen pains equal to a stroke of lightning. (21)
+“In the back, the heart [^269], and the head, I suffered <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> dreadful and very keen pains equal to a stroke of lightning. (21)
 
 “Then the best physicians came to my help, who cure by their medical art and by spells, who were versed in their science, and well knew spells and roots. (22)
 
@@ -100,7 +100,7 @@ When the saint had addressed this unprecedented speech to the king, who was grea
 
 “Then I said: It is very hard to bear pains again and again in the endless Circle of Births. (31)
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 “If I, for once, shall get rid of these great pains, I shall become a houseless monk, calm, restrained, and ceasing to act. (32)
 
@@ -118,7 +118,7 @@ When the saint had addressed this unprecedented speech to the king, who was grea
 
 “If an ordained monk, through carelessness, does not strictly keep the great vows, if he does not restrain himself, but desires pleasure, then his fetters will not be completely cut off. (39)
 
-“One who does not pay constant attention to his walking, his speaking, his begging, his receiving and keeping (of things necessary for a monk), and his <span id="p105">[<sup><small>p. 105</small></sup>]</span> easing nature [^274], does not follow the road trod by the Lord. (40)
+“One who does not pay constant attention to his walking, his speaking, his begging, his receiving and keeping (of things necessary for a monk), and his <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> easing nature [^274], does not follow the road trod by the Lord. (40)
 
 “One who for a long time wears a shaven crown and mortifies himself, but who is careless with regard to the vows, and neglects penance and self-control, will not be a winner in the battle (of life). (4t)
 
@@ -130,7 +130,7 @@ When the saint had addressed this unprecedented speech to the king, who was grea
 
 “He who practises divination from bodily marks and dreams, who is well versed in augury and superstitious rites, who gains a sinful living by practising magic tricks [^278], will have no refuge at the time (of retribution). (45)
 
-“The sinner, always wretched, goes from darkness <span id="p106">[<sup><small>p. 106</small></sup>]</span> to darkness, to utter misery; the unholy man who breaks the rules of monks, rushes, as it were, to hell, and to be born again as a brute. (46)
+“The sinner, always wretched, goes from darkness <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> to darkness, to utter misery; the unholy man who breaks the rules of monks, rushes, as it were, to hell, and to be born again as a brute. (46)
 
 “He who accepts forbidden alms, viz. such food as he himself asks for, as has been bought for his sake, or as he gets regularly (as by right and custom), who like fire devours everything, will go to hell from here, after having sinned. (47)
 
@@ -146,7 +146,7 @@ When the saint had addressed this unprecedented speech to the king, who was grea
 
 Thus the austere and calm, great ascetic and great sage who kept great vows and possessed great fame, preached at great length this great sermon: the great duty of the Nirgranthas. (53)
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 And king <i>S</i>rê<i>n</i>ika, pleased, spoke thus: 'You have truly shown what it is to be without protection. (54)
 

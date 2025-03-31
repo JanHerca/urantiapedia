@@ -133,7 +133,7 @@ With lightning sears on chest and limb.
 A mighty host obeys his will
 And troops of slaves his palace fill;
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 His lords of state are wise and true,
 Kinsmen has he and retinue.
@@ -255,7 +255,7 @@ Clung like a creeper to the trees,
 And like some poor deserted thing
 With wild shrieks made the forest ring.
 But swift the giant reached her side,
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 As loud on Ráma's name she cried.
 Fierce as grim Death one hand he laid
@@ -374,7 +374,7 @@ From heaven above the firmament. [^506]
 The birds of every wing had flocked
 To stately trees by breezes rocked:
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 These bowed their wind-swept heads and
 said:
@@ -498,7 +498,7 @@ And madly draws his lips away
 From medicine that would check decay.
 About thy neck securely wound
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 The deadly coil of Fate is bound,
 And thou, O Ravan, dost not fear
@@ -621,7 +621,7 @@ He saw eight giants, strong and dread,
 On flesh of bleeding victims fed,
 Proud in the boon which Brahma gave,
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 And trusting in its power to save.
 He thus the mighty chiefs addressed
@@ -745,7 +745,7 @@ Though led by Him who rules the sky.
 No God in heaven, no sage on earth,
 No minstrel of celestial birth,
 
-<span id="p295">[<sup><small>p. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 No spirit in the worlds I see
 A match in power and might for me.
@@ -869,7 +869,7 @@ Yea, if the glance of Ráma bright
 With fury on thy form should light,
 Thou scorched this day wouldst fall and die
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 Like Káma slain by Rudra's eye. [^507]
 He who from heaven the moon could throw,
@@ -991,7 +991,7 @@ The body of the \* smile,
 True consort \* to happy fate
 W \* and dedicate
 
-<span id="p297">[<sup><small>p. 297</small></sup>]</span>
+<span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 
 She looks and longs for Ráma's face,
 But sees a crowd of demon race,
@@ -1115,7 +1115,7 @@ Portended by the jackal's screams.
 O may the Maitil dame be screened
 From outrage of each hungry fiend!
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 Alas, if Lakshman chanced to hear
 That bitter cry of woe and fear
@@ -1240,7 +1240,7 @@ Strong in her son and queenly sway!
 Back to my cot will I repair
 If Sítá live to greet me there,
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 But if my wife have perished, I
 Reft of ray love will surely die,
@@ -1362,7 +1362,7 @@ To win my love, thy brother slain.
 Not love, but Bharat's dark decree
 To share his exile counselled thee,
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 Or hearing now his bitter cry
 Thou surely to his aid wouldst fly.

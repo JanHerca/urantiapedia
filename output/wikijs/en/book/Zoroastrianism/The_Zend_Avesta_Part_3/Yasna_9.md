@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 The Haoma-ya<i>s</i>t has claims to antiquity (owing to its subject, but not to its dialect), next after the Srô<i>s</i>\-ya<i>s</i>t. H(a)oma = Soma, as a deity, flourished not only before the Gâthas, but before the <i>Ri</i>ks of the Veda, in Aryan ages before Iranian and Indian became two peoples.
 
-The astonishing circumstance has been elsewhere noted that a hymn, which is a reproduction of an Aryan original, should, notwithstanding its earlier characteristics, be necessarily assigned to <span id="p231">[<sup><small>p. 231</small></sup>]</span> a date much later than the Gâthas in which H(a)oma worship is not mentioned.
+The astonishing circumstance has been elsewhere noted that a hymn, which is a reproduction of an Aryan original, should, notwithstanding its earlier characteristics, be necessarily assigned to <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> a date much later than the Gâthas in which H(a)oma worship is not mentioned.
 
 Probably on account of bitter animosities prevailing between their more southern neighbours and themselves, and the use of Soma by the Indians as a stimulant before battle, the Iranians of the Gâthic period had become lukewarm in their own H(a)oma worship. But that it should have revived, as we see it in this Ya<i>s</i>t, after having nearly or quite disappeared, is most interesting and remarkable. Was it definitively and purposely repudiated by Zarathu<i>s</i>tra, afterwards reviving as by a relapse? I do not think that it is well to hold to such deliberate and conscious antagonisms, and to a definite policy and action based upon them. The Soma-worship, like the sacramental acts of other religions which have become less practised after exaggerated attention, had simply fallen into neglect, increased by an aversion to practices outwardly similar to those of ‘Daêva-worshippers.’ The Ya<i>s</i>t is, of course, made up of fragments, which I have endeavoured to separate by lines. In the translation I have given a rhythmical rendering, necessarily somewhat free. It was difficult to import sufficient vivacity to the piece, while using a uselessly awkward literalness. The freedom, as elsewhere, often consists in adding words to point the sense, or round the rhythm. (Expressions for identical Zend words have been here, as elsewhere, purposely varied.)
 
@@ -44,7 +44,7 @@ Probably on account of bitter animosities prevailing between their more southern
 
 And Zarathu<i>s</i>tra asked him: Who art thou, O man! who art of all the incarnate world the most beautiful in Thine own body [^952] of those whom I have seen, (thou) glorious \[immortal\]?
 
-2\. Thereupon gave H(a)oma answer [^953], the holy one who driveth death afar: I am, O Zarathu<i>s</i>tra <span id="p232">[<sup><small>p. 232</small></sup>]</span> H(a)oma, the holy and driving death afar; pray to me, O Spitâma, prepare me for the taste. Praise toward me in (Thy) praises as the other \[Saoshya<i>n</i>ts\] praise.
+2\. Thereupon gave H(a)oma answer [^953], the holy one who driveth death afar: I am, O Zarathu<i>s</i>tra <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> H(a)oma, the holy and driving death afar; pray to me, O Spitâma, prepare me for the taste. Praise toward me in (Thy) praises as the other \[Saoshya<i>n</i>ts\] praise.
 
 3\. Thereupon spake Zarathu<i>s</i>tra: Unto H(a)oma be the praise [^954]. What man, O H(a)oma! first prepared thee for the corporeal world? What blessedness was offered him? what gain did he acquire?
 
@@ -52,7 +52,7 @@ And Zarathu<i>s</i>tra asked him: Who art thou, O man! who art of all the incarn
 
 5\. In the reign of Yima swift of motion was there neither cold nor heat, there was neither age nor death, nor envy [^957] demon-made. Like fifteen-yearlings [^958] walked the two forth, son and father, in their stature and their form, so long as Yima, son of Vîvanghva<i>n</i>t ruled, he of the many herds!
 
-6\. Who was the second man, O H(a)oma! who <span id="p233">[<sup><small>p. 233</small></sup>]</span> prepared thee for the corporeal world? What sanctity was offered him? what gain did he acquire?
+6\. Who was the second man, O H(a)oma! who <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> prepared thee for the corporeal world? What sanctity was offered him? what gain did he acquire?
 
 7\. Thereupon gave H(a)oma answer, he the holy one, and driving death afar: Âthwya [^959] was the second who prepared me for the corporeal world. This blessedness was given him, this gain did he acquire, that to him a son was born, Thraêtaona [^960] of the heroic tribe,
 
@@ -60,11 +60,11 @@ And Zarathu<i>s</i>tra asked him: Who art thou, O man! who art of all the incarn
 
 9\. Who was the third man, O H(a)oma! who prepared thee for the corporeal world? What blessedness was given him? what gain did he acquire?
 
-10\. Thereupon gave H(a)oma answer, the holy one, and driving death afar: Thrita [^963], \[^964]\], was the third man who prepared me for the corporeal world. This blessedness was given <span id="p234">[<sup><small>p. 234</small></sup>]</span> him, this gain did he acquire, that to him two sons were born, Urvâkhshaya and Keresâspa, the one a judge confirming order, the other a youth of great ascendant, ringlet-headed [^966], bludgeon-bearing.
+10\. Thereupon gave H(a)oma answer, the holy one, and driving death afar: Thrita [^963], \[^964]\], was the third man who prepared me for the corporeal world. This blessedness was given <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> him, this gain did he acquire, that to him two sons were born, Urvâkhshaya and Keresâspa, the one a judge confirming order, the other a youth of great ascendant, ringlet-headed [^966], bludgeon-bearing.
 
 11\. He who smote the horny dragon swallowing men, and swallowing horses, poisonous, and green of colour, over which, as thick as thumbs are, greenish poison flowed aside, on whose back once Keresâspa cooked his meat in iron caldron at the noonday meal; and the deadly, scorched, upstarted [^967], and springing off, dashed out the water as it boiled. Headlong fled affrighted manly-minded [^968] Keresâspa.
 
-12\. Who was the fourth man who prepared thee, <span id="p235">[<sup><small>p. 235</small></sup>]</span> O H(a)oma! for the corporeal world? What blessedness was given him? what gain did he acquire?
+12\. Who was the fourth man who prepared thee, <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> O H(a)oma! for the corporeal world? What blessedness was given him? what gain did he acquire?
 
 13\. Thereupon gave H(a)oma answer, he the holy, and driving death afar: Pourushaspa [^970] was the fourth man who prepared me for the corporeal world. This blessedness was given him, this gain did he acquire, that thou, O Zarathu<i>s</i>tra! wast born to him, the just, in Pourushaspa's house, the D(a)êva's foe, the friend of Mazda's lore, (14) famed in Airyêna Vaê<i>g</i>ah; and thou, O Zarathu<i>s</i>tra I didst recite the first the Ahuna-vairya [^971], four times intoning it, and with verses kept apart \[(Pâzand) each time with louder and still louder voice\].
 
@@ -74,7 +74,7 @@ And Zarathu<i>s</i>tra asked him: Who art thou, O man! who art of all the incarn
 
 ---
 
-17\. I make my claim on thee, O yellow one! for <span id="p236">[<sup><small>p. 236</small></sup>]</span> inspiration [^975]. I make my claim on thee for strength; I make my claim on thee for victory; I make my claim on thee for health and healing (when healing is my need); I make my claim on thee for progress and increased prosperity, and vigour of the entire frame, and for understanding [^976], of each adorning kind, and for this, that I may have free course among our settlements, having power where I will, overwhelming angry malice, and a conqueror of lies.
+17\. I make my claim on thee, O yellow one! for <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> inspiration [^975]. I make my claim on thee for strength; I make my claim on thee for victory; I make my claim on thee for health and healing (when healing is my need); I make my claim on thee for progress and increased prosperity, and vigour of the entire frame, and for understanding [^976], of each adorning kind, and for this, that I may have free course among our settlements, having power where I will, overwhelming angry malice, and a conqueror of lies.
 
 18\. Yea, I make my claim on thee that I may overwhelm the angry hate of haters, of the D(a)êvas and of mortals, of the sorcerers and sirens [^977], of the tyrants [^978], and the Kavis, of the Karpans, murderous bipeds, of the sanctity-destroyers, the profane apostate bipeds, of the wolves four-footed monsters, of the invading host, wide-fronted, which with stratagems [^979] advance.
 
@@ -84,7 +84,7 @@ And Zarathu<i>s</i>tra asked him: Who art thou, O man! who art of all the incarn
 
 This second blessing I beseech of thee, O H(a)oma, thou that drivest death afar! this body's health (before that blest life is attained).
 
-This third blessing I beseech of thee, O H(a)oma, thou that drivest death afar! the long vitality of life. <span id="p237">[<sup><small>p. 237</small></sup>]</span> 20\. This fourth blessing I beseech of thee, O H(a)oma, thou that drivest death afar! that I may stand forth on this earth with desires gained [^981], and powerful, receiving satisfaction, overwhelming the assaults of hate, and conquering the lie.
+This third blessing I beseech of thee, O H(a)oma, thou that drivest death afar! the long vitality of life. <span id="p237"><sup><small>[ p. 237 ]</small></sup></span> 20\. This fourth blessing I beseech of thee, O H(a)oma, thou that drivest death afar! that I may stand forth on this earth with desires gained [^981], and powerful, receiving satisfaction, overwhelming the assaults of hate, and conquering the lie.
 
 This fifth blessing, O H(a)oma, I beseech of thee, thou that drivest death afar! that I may stand victorious on earth, conquering in battles [^982], overwhelming the assaults of hate, and conquering the lie.
 
@@ -98,7 +98,7 @@ H(a)oma grants to those (how many!) who have long sat searching books, more know
 
 23\. H(a)oma grants to those long maidens, who sit at home unwed, good husbands, and that as soon as asked, he H(a)oma, the well-minded.
 
-24\. H(a)oma lowered Keresâni [^984], dethroned him from his throne, for he grew so fond of power, that <span id="p238">[<sup><small>p. 238</small></sup>]</span> he treacherously said: No priest behind [^985] (and watching) shall walk the lands for me, as a counsellor to prosper them, he would rob everything of progress, he would crush the growth of all!
+24\. H(a)oma lowered Keresâni [^984], dethroned him from his throne, for he grew so fond of power, that <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> he treacherously said: No priest behind [^985] (and watching) shall walk the lands for me, as a counsellor to prosper them, he would rob everything of progress, he would crush the growth of all!
 
 ---
 
@@ -112,7 +112,7 @@ So with this thou art begirt on the summits of the mountains, for the spreading 
 
 28\. Bear off from us the torment and the malice of the hateful. Divert the angry foe's intent!
 
-What man soever in this house is violent and wicked, what man soever in this village, or this tribe, or province, seize thou away the fleetness from <span id="p239">[<sup><small>p. 239</small></sup>]</span> his feet; throw thou a veil of darkness o’er his mind; make thou his intellect (at once) a wreck!
+What man soever in this house is violent and wicked, what man soever in this village, or this tribe, or province, seize thou away the fleetness from <span id="p239"><sup><small>[ p. 239 ]</small></sup></span> his feet; throw thou a veil of darkness o’er his mind; make thou his intellect (at once) a wreck!
 
 29\. Let not the man who harms us, mind or body, have power to go forth on both his legs, or hold with both his hands, or see with both his eyes, not the land (beneath his feet), or the herd before his face.
 

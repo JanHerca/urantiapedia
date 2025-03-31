@@ -32,7 +32,7 @@ dateCreated: 2025-2-4T22:17:56Z
   </table>
 </figure>
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 Ye are the trees of My Garden; ye must bear fresh and beautiful fruits, that ye and others may be profited by them. Therefore it is necessary for ye to engage in arts and business.
 

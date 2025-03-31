@@ -29,7 +29,7 @@ dateCreated: 2025-1-18T14:49:11Z
   </table>
 </figure>
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 Absalom, III. i. 6
 
@@ -93,7 +93,7 @@ Caterpillar, likeness of, V. ii. 6
 
 Cellar of wine, V. i. 10, ii. 11
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Certitude of the soul, a sign of union, V. i. 8, 9
 
@@ -171,7 +171,7 @@ Drowsiness, V. i. 3, 5
 
 Dryness, in prayer, III. i. 9, 10, 15
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 Easter, trance on the feast of, VI. xi. 8.
 
@@ -261,7 +261,7 @@ Imitation of Christ, I. i. 8; II. i. 8; V. i. 3, iii. 3; VII. iv. 7, 12
 
 Impulses, VI. ii. 12, xi. _per totem_.
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 Incense, spiritual, IV. ii. 6; VI. ii. 14
 
@@ -355,7 +355,7 @@ Music, VII. iii. 10
 
 Mysteries, revealed during raptures, VI. iv. 10, 12, 13
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 Noe's Ark, VII. iii. 12
 
@@ -435,7 +435,7 @@ Secrecy of raptures, VI. iv. 20, 21, viii. 12
 
 Security, III. i. 1, 2
 
-Self-knowledge, I. ii. 9-11; IV. i. <span id="p306">[<sup><small>p. 306</small></sup>]</span> 13; V. iv. 8; VI. V. 12
+Self-knowledge, I. ii. 9-11; IV. i. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> 13; V. iv. 8; VI. V. 12
 
 Senses, I, ii. 4; IV. iii. 1; VI, iv. 17
 
@@ -489,7 +489,7 @@ Thomas Aquinas, St., V. i. 6; VI. v. 8
 
 Toledo, St. Joseph's convent at, Preface, p. 36
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 Tortoise, IV. iii. 4.
 

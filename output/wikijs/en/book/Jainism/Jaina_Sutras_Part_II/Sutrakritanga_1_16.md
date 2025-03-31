@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 SIXTEENTH LECTURE, CALLED THE SONG [^972].
 
@@ -42,7 +42,7 @@ He is a Brâhma<i>n</i>a for this reason that he has ceased from all sinful acti
 
 He is a <i>S</i>rama<i>n</i>a for this reason that he is not hampered by any obstacles, that he is free from desires, (abstaining from) property, killing, telling lies, and sexual intercourse; (and from) wrath, pride, deceit, greed, love, and hate: thus giving up every passion that involves him in sin, (such as) killing of beings. (Such a man) deserves the name of a <i>S</i>rama<i>n</i>a, who subdues (moreover) his senses, is well qualified (for his task), and abandons his body. (3)
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 He is a Bhikshu for this reason that he is not conceited, but modest, and obedient (to his Guru), that he subdues his senses, is well qualified (for his task), and abandons his body, that he sustains all troubles and calamities, that he practises with a pure mind the (prescribed) conduct, exerts himself well, is steadfast, and eats but a moderate quantity [^974] of food which is given him by others. (Such a man) deserves the name of a Bhikshu. (4)
 

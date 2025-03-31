@@ -152,7 +152,7 @@ Of fair Videha with thee bring,
 With heavenly coats of sword-proof mail,
 Quivers, whose arrows never fail,
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 And golden-hilted swords so keen,
 The rivals of the sun in sheen.
@@ -270,7 +270,7 @@ Whose praises e'en the good declare—
 On these be eighty cars bestowed,
 And each with precious treasures load.
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 A thousand bulls for them suffice,
 Two hundred elephants of price,
@@ -392,7 +392,7 @@ Though he has known the sweets of power,
 And poured his gifts in liberal shower,
 From duty's path he will not swerve,
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 But, still his father's truth preserve.
 And she whose form so soft and fair
@@ -518,7 +518,7 @@ The law profound as Ocean's deep,
 And stainless as the dark blue sky,
 Thus to Sumantra made reply:
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 ‘Go then, Sumantra, go and call
 My wives and ladies one and all.
@@ -650,7 +650,7 @@ To all that wealth can minister.
 O'er this fair land, no longer mine,
 Which I, with all her realms, resign,
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 Her multitudes of men, her grain,
 Her stores of wealth, let Bharat reign.
@@ -774,7 +774,7 @@ And fain to perish by the cord,
 Said to her husband: 'I would know,
 O Monarch, why thou laughest so.’
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 The king in answer spake again:
 ‘If I this laughter should explain,
@@ -890,7 +890,7 @@ Whence the light foam and life are fled.’
 &nbsp;&nbsp;&nbsp;&nbsp;Thus in her rage the long-eyed dame
 Spoke her dire speech untouched by shame.
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 Then, answering, Das'aratha spoke:
 ‘Why. having bowed me to the yoke.
@@ -999,7 +999,7 @@ That lion leader of the brave
 Took from her hand the dress she gave,
 Cast his fine raiment on the ground,
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 And round his waist the vesture bound.
 Then quick the hero Lakshman too
@@ -1121,7 +1121,7 @@ In garments of a devotee.
 My holy guide has spoken truth:
 Unfit is she in tender youth,
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 So gently nurtured, soft and fair,
 The hardships of the wood to share.
@@ -1246,7 +1246,7 @@ The horses and the car of state.
 Then to the monarch's son he sped,
 And raising hands of reverence said
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 That the light car which gold made fair,
 With best of steeds, was standing there.
@@ -1370,7 +1370,7 @@ The shriek, the choking sob, the sigh
 Then Ráma, Sítá, Lakshman bent
 At the king's feet, and sadly went
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Round him with slow steps reverent.
 When Ráma of the duteous heart
@@ -1495,7 +1495,7 @@ Sumantra, urged to speed away,
 The townsmen's call must disobey,
 Forth as the long-armed hero went,
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 The dust his chariot wheels up sent
 Was laid by streams that ever flowed

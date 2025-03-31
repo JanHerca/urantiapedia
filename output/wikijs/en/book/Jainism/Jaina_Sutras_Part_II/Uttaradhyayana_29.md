@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 TWENTY-NINTH LECTURE. THE EXERTION IN RIGHTEOUSNESS.
 
@@ -54,7 +54,7 @@ This lecture treats of the following subjects:
 
 6\. nindâ, repenting of one's sins to oneself;
 
-7\. garhâ, repenting of one's sins before the Guru; <span id="p159">[<sup><small>p. 159</small></sup>]</span> 8\. sâmâyika, moral and intellectual purity of the soul;
+7\. garhâ, repenting of one's sins before the Guru; <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> 8\. sâmâyika, moral and intellectual purity of the soul;
 
 9\. <i>k</i>aturvi<i>m</i><i>s</i>atistava, adoration of the twenty-four <i>G</i>inas;
 
@@ -104,7 +104,7 @@ This lecture treats of the following subjects:
 
 32\. vinivartanâ, turning from the world;
 
-33\. sambhôgapratyâkhyâna, renouncing collection of alms in one district only; <span id="p160">[<sup><small>p. 160</small></sup>]</span> 34\. upadhipratyâkhyâna, renouncing articles of use;
+33\. sambhôgapratyâkhyâna, renouncing collection of alms in one district only; <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> 34\. upadhipratyâkhyâna, renouncing articles of use;
 
 35\. âhârapratyâkhyâna, renouncing food;
 
@@ -158,7 +158,7 @@ This lecture treats of the following subjects:
 
 60\. dar<i>s</i>anasampannatâ, possession of faith;
 
-61\. <i>k</i>âritrasampannatâ, possession of conduct; <span id="p161">[<sup><small>p. 161</small></sup>]</span> 62\. <i>s</i>rôtrêndriyanigraha, subduing the ear;
+61\. <i>k</i>âritrasampannatâ, possession of conduct; <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> 62\. <i>s</i>rôtrêndriyanigraha, subduing the ear;
 
 63\. <i>k</i>akshurindriyanigraha, subduing the eye;
 
@@ -184,13 +184,13 @@ This lecture treats of the following subjects:
 
 1\. Sir, what does the soul obtain by the longing for liberation? By the longing for liberation the soul obtains an intense desire of the Law; by an intense desire of the Law he quickly arrives at an (increased) longing for liberation; he destroys anger, pride, deceit, and greed, which reproduce themselves infinitely; he acquires no (bad) Karman, and ridding himself of wrong belief which is the consequence of the latter, he becomes possessed of right faith; by the purity of faith some will reach perfection after one birth; nobody, however, who has got this purity, will be born more than thrice before he reaches perfection. (1)
 
-2\. Sir, what does the soul obtain by disregard of worldly objects [^422]? By disregard of worldly objects the soul quickly feels disgust for pleasures enjoyed by gods, men, and animals; he becomes indifferent to <span id="p162">[<sup><small>p. 162</small></sup>]</span> all objects; thereby he ceases to engage in any undertakings, in consequence of which he leaves the road of Sa<i>m</i>sâra and enters the road to perfection. (2)
+2\. Sir, what does the soul obtain by disregard of worldly objects [^422]? By disregard of worldly objects the soul quickly feels disgust for pleasures enjoyed by gods, men, and animals; he becomes indifferent to <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> all objects; thereby he ceases to engage in any undertakings, in consequence of which he leaves the road of Sa<i>m</i>sâra and enters the road to perfection. (2)
 
 3\. Sir [^423], what does the soul obtain by the desire of the Law? By the desire of the Law the soul becomes indifferent to pleasures and happiness to which he was attached; he abandons the life of householders, and as a houseless monk he puts an end to all pains of body and mind, which consist in (the suffering of) cutting, piercing, union (with unpleasant things), &c.; and he obtains unchecked happiness. (3)
 
 4\. By obedience to co-religionists and to the Guru the soul obtains discipline (vinaya). By discipline and avoidance of misconduct (towards the teacher [^424]) he avoids being reborn as a denizen of hell, an animal, a (low) man, or a (bad) god; by zealous praise of, devotion to, and respect for (the Guru) he obtains birth as a (good) man or god, gains perfection and beatitude, does all praiseworthy actions prescribed by discipline, and prevails upon others to adopt discipline. (4)
 
-5\. By confession of sins (before the Guru) the soul gets rid of the thorns, as it were, of deceit, misapplied austerities [^425], and wrong belief, which obstruct the way to final liberation and cause an endless migration of the soul; he obtains simplicity, whereby the soul which is free from deceit does not acquire that Karman which results in his having a carnal desire for a woman or eunuch [^426], and annihilates such Karman as he had acquired before. (5) <span id="p163">[<sup><small>p. 163</small></sup>]</span> 6\. By repenting of one's sins to oneself the soul obtains repentance, and becoming indifferent by repentance he prepares for himself an (ascending) scale of virtues [^427], by which he destroys the Karman resulting from delusion. (6)
+5\. By confession of sins (before the Guru) the soul gets rid of the thorns, as it were, of deceit, misapplied austerities [^425], and wrong belief, which obstruct the way to final liberation and cause an endless migration of the soul; he obtains simplicity, whereby the soul which is free from deceit does not acquire that Karman which results in his having a carnal desire for a woman or eunuch [^426], and annihilates such Karman as he had acquired before. (5) <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> 6\. By repenting of one's sins to oneself the soul obtains repentance, and becoming indifferent by repentance he prepares for himself an (ascending) scale of virtues [^427], by which he destroys the Karman resulting from delusion. (6)
 
 7\. By repenting of one's sins before the Guru the soul obtains humiliation; feeling humiliated, he will leave off all blameable occupations [^428], and apply himself to praiseworthy occupations, whereby a houseless monk will stop infinite disabling [^429] developments. (7)
 
@@ -200,7 +200,7 @@ This lecture treats of the following subjects:
 
 10\. By paying reverence (to the Guru) the soul destroys such Karman as leads to birth in low families, and acquires such Karman as leads to birth in noble families; he wins the affection of people, which results in his being looked upon as an authority, and he brings about general goodwill. (10)
 
-11\. By expiation of sins he obviates transgressions of the vows; thereby he stops the Âsravas, preserves a pure conduct, practises the eight articles [^430], does not neglect (the practice of control), and pays great attention to it. (11) <span id="p164">[<sup><small>p. 164</small></sup>]</span> 12\. By Kâyôtsarga he gets rid of past and present (transgressions which require) Prâya<i>s</i><i>k</i>itta [^431]; thereby his mind is set at ease like a porter who is eased of his burden; and engaging in praiseworthy contemplation he enjoys happiness. (12)
+11\. By expiation of sins he obviates transgressions of the vows; thereby he stops the Âsravas, preserves a pure conduct, practises the eight articles [^430], does not neglect (the practice of control), and pays great attention to it. (11) <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> 12\. By Kâyôtsarga he gets rid of past and present (transgressions which require) Prâya<i>s</i><i>k</i>itta [^431]; thereby his mind is set at ease like a porter who is eased of his burden; and engaging in praiseworthy contemplation he enjoys happiness. (12)
 
 13\. By self-denial he shuts, as it were, the doors of the Âsravas; by self-denial he prevents desires rising in him; by prevention of desires he becomes, as it were, indifferent and cool towards all objects. (13)
 
@@ -210,7 +210,7 @@ This lecture treats of the following subjects:
 
 16\. By practising Prâya<i>s</i><i>k</i>itta [^431] he gets rid of sins, and commits no transgressions; he who correctly practises Prâya<i>s</i><i>k</i>itta, gains the road and the reward of the road [^434], he wins the reward of good conduct. (16)
 
-17\. By begging forgiveness he obtains happiness of mind; thereby he acquires a kind disposition towards all kinds of living beings [^435]; by this <span id="p165">[<sup><small>p. 165</small></sup>]</span> kind disposition he obtains purity of character and freedom from fear. (17)
+17\. By begging forgiveness he obtains happiness of mind; thereby he acquires a kind disposition towards all kinds of living beings [^435]; by this <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> kind disposition he obtains purity of character and freedom from fear. (17)
 
 18\. By study he destroys the Karman which obstructs right knowledge. (18)
 
@@ -220,7 +220,7 @@ This lecture treats of the following subjects:
 
 21\. By repetition he reproduces the sounds (i.e. syllables) and commits them to memory. (21)
 
-22\. By pondering (on what he has learned) he loosens the firm hold which the seven kinds of Karman, except the Âyushka [^437] (have upon the soul); he shortens their duration when it was to be a long one; he mitigates their power when it was intense; (he reduces their sphere of action when it was a wide one) [^438]; he may either acquire Âyushka-karman or not, but he no more accumulates Karman which <span id="p166">[<sup><small>p. 166</small></sup>]</span> produces unpleasant feelings, and he quickly crosses the very large forest of the fourfold Sa<i>m</i>sâra, which is without beginning and end. (22)
+22\. By pondering (on what he has learned) he loosens the firm hold which the seven kinds of Karman, except the Âyushka [^437] (have upon the soul); he shortens their duration when it was to be a long one; he mitigates their power when it was intense; (he reduces their sphere of action when it was a wide one) [^438]; he may either acquire Âyushka-karman or not, but he no more accumulates Karman which <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> produces unpleasant feelings, and he quickly crosses the very large forest of the fourfold Sa<i>m</i>sâra, which is without beginning and end. (22)
 
 23\. By religious discourses he obtains destruction of the Karman; by religious discourses he exalts the creed, and by exalting the creed he acquires Karman, which secures, for the future, permanent bliss. (23)
 
@@ -238,7 +238,7 @@ This lecture treats of the following subjects:
 
 30\. By mental independence he gets rid of attachment, whereby he will concentrate his thoughts (on the Law), and will for ever be without attachment and fondness (for worldly things). (30)
 
-31\. By using unfrequented lodgings and beds he obtains the Gupti of conduct, whereby he will use <span id="p167">[<sup><small>p. 167</small></sup>]</span> allowed food, be steady in his conduct, be exclusively delighted with (control), obtain a yearning for deliverance, and cut off the tie of the eightfold Karman. (31)
+31\. By using unfrequented lodgings and beds he obtains the Gupti of conduct, whereby he will use <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> allowed food, be steady in his conduct, be exclusively delighted with (control), obtain a yearning for deliverance, and cut off the tie of the eightfold Karman. (31)
 
 32\. By turning from the world he will strive to do no bad actions, and will eliminate his already acquired Karman by its destruction; then he will cross the forest of the fourfold Sa<i>m</i>sâra. (32)
 
@@ -252,7 +252,7 @@ This lecture treats of the following subjects:
 
 37\. By renouncing activity he obtains inactivity, by ceasing to act he acquires no new Karman, and destroys the Karman he had acquired before. (37)
 
-38\. By renouncing his body he acquires the pre-eminent virtues of the Siddhas, by the possession <span id="p168">[<sup><small>p. 168</small></sup>]</span> of which he goes to the highest region of the universe, and becomes absolutely happy. (38)
+38\. By renouncing his body he acquires the pre-eminent virtues of the Siddhas, by the possession <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> of which he goes to the highest region of the universe, and becomes absolutely happy. (38)
 
 39\. By renouncing company he obtains singleness; being single and concentrating his mind, he avoids disputes, quarrels, passions, and censoriousness, and he acquires a high degree of control, of Sa<i>m</i>vara, and of carefulness [^444]. (39)
 
@@ -262,7 +262,7 @@ This lecture treats of the following subjects:
 
 42\. By conforming to the standard of monks [^447] he obtains ease, thereby he will be careful, wear openly the excellent badges of the order, be of perfect righteousness, possess firmness and the Samitis, inspire all beings with confidence, mind but few things [^448], subdue his senses, and practise, in a high degree, the Samitis and austerities. (42)
 
-43\. By doing service he acquires the Karman <span id="p169">[<sup><small>p. 169</small></sup>]</span> which brings about for him the nâman and gôtra of a Tîrthakara. (43)
+43\. By doing service he acquires the Karman <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> which brings about for him the nâman and gôtra of a Tîrthakara. (43)
 
 By fulfilling all virtues he secures that he will not be born again; thereby he will become exempt from pains of the body and mind. (44)
 
@@ -282,7 +282,7 @@ By fulfilling all virtues he secures that he will not be born again; thereby he 
 
 52\. By sincerity of acting he will become pure in his actions. (52)
 
-53\. By watchfulness [^449] of the mind he concentrates his thoughts; thereby he truly practises control. (53) <span id="p170">[<sup><small>p. 170</small></sup>]</span> 54\. By watchfulness of speech he keeps free from prevarication; thereby he enables his mind to act properly. (54)
+53\. By watchfulness [^449] of the mind he concentrates his thoughts; thereby he truly practises control. (53) <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 54\. By watchfulness of speech he keeps free from prevarication; thereby he enables his mind to act properly. (54)
 
 55\. By watchfulness of the body he obtains Sa<i>m</i>vara [^450]; thereby he prevents sinful Âsravas. (55)
 
@@ -292,7 +292,7 @@ By fulfilling all virtues he secures that he will not be born again; thereby he 
 
 58\. By discipline of the body he obtains development of conduct, which causes him to conduct himself according to the regulation; thereby he destroys the four remnants of Karman which even a Kêvalin possesses [^451]; after that he obtains perfection, enlightenment, deliverance, and final beatitude, and he puts an end to all misery. (58)
 
-59\. By possession of knowledge he acquires an understanding of words and their meaning; thereby he will not perish in the forest of the fourfold Sa<i>m</i>sâra; as a needle with its thread will not be lost, thus the soul possessing the sacred lore [^452] will not be lost in the Sa<i>m</i>sâra; he performs all prescribed actions relating to knowledge, discipline, austerities, and conduct, and well versed in his <span id="p171">[<sup><small>p. 171</small></sup>]</span> own and in heterodox creeds he will become invincible. (59)
+59\. By possession of knowledge he acquires an understanding of words and their meaning; thereby he will not perish in the forest of the fourfold Sa<i>m</i>sâra; as a needle with its thread will not be lost, thus the soul possessing the sacred lore [^452] will not be lost in the Sa<i>m</i>sâra; he performs all prescribed actions relating to knowledge, discipline, austerities, and conduct, and well versed in his <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> own and in heterodox creeds he will become invincible. (59)
 
 60\. By possession of faith he annihilates wrong belief which is the cause of worldly existence, and he will not lose his inner light; but he endues his Self with the highest knowledge and faith, and purifies it [^453]. (60)
 
@@ -306,11 +306,11 @@ By fulfilling all virtues he secures that he will not be born again; thereby he 
 
 68\. By conquering pride he obtains simplicity, &c. (as in 67, substituting pride for anger). (68)
 
-69\. By conquering deceit he obtains humility, &c. (as in 67, substituting deceit for anger). (69) <span id="p172">[<sup><small>p. 172</small></sup>]</span> 70\. By conquering greed he obtains content, &c. (as in 67, substituting greed for anger). (70)
+69\. By conquering deceit he obtains humility, &c. (as in 67, substituting deceit for anger). (69) <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> 70\. By conquering greed he obtains content, &c. (as in 67, substituting greed for anger). (70)
 
 71\. By conquering love, hate, and wrong belief he exerts himself for right knowledge, faith, and conduct, then he will cut off the fetters of the eightfold Karman; he will first destroy the twenty-eight kinds [^456] of Karman, which are productive of delusion; (then) the five kinds of obstruction to right knowledge [^457], the nine kinds of obstruction to right faith [^458], and the five kinds of obstacles (called Antarâya): the last three remnants of Karman he destroys simultaneously; afterwards he obtains absolute knowledge and faith, which is supreme, full, complete, unchecked, clear, faultless, and giving light (or penetrating) the whole universe; and while he still acts [^459], he acquires but such Karman as is inseparable from religious acts [^460]; the pleasant feelings (produced by it) last but two moments: in the first moment it is acquired, in the second it is experienced, and in the third it is destroyed; this Karman is produced, comes into contact (with the soul), takes rise, is experienced, and is destroyed; for all time to come he is exempt from Karman. (71)
 
-72\. Then [^461] when his life is spent up to less than <span id="p173">[<sup><small>p. 173</small></sup>]</span> half a muhûrta, he discontinues to act, and enters upon the (third degree of) pure meditation [^462], from which there is no relapse (to lower degrees), and which requires most subtile functions only (of his organs); he first stops the functions of his mind, then the functions of speech, then those of the body, at last he ceases to breathe. During the time required for pronouncing five short syllables, he is engaged in the final pure meditation, in which all functions (of his organs) have ceased, and he simultaneously annihilates the four remnants of Karman, viz. vêdanîya, âyushka, nâman, and gôtra [^463]. (72)
+72\. Then [^461] when his life is spent up to less than <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> half a muhûrta, he discontinues to act, and enters upon the (third degree of) pure meditation [^462], from which there is no relapse (to lower degrees), and which requires most subtile functions only (of his organs); he first stops the functions of his mind, then the functions of speech, then those of the body, at last he ceases to breathe. During the time required for pronouncing five short syllables, he is engaged in the final pure meditation, in which all functions (of his organs) have ceased, and he simultaneously annihilates the four remnants of Karman, viz. vêdanîya, âyushka, nâman, and gôtra [^463]. (72)
 
 73\. Then having, by all methods, got rid of his audârika, kârma<i>n</i>a (and tai<i>g</i>asa) bodies, the soul takes the form of a straight line, goes in one moment, without touching anything and taking up no space, (upwards to the highest Akâ<i>s</i>a), and there develops into its natural form, obtains perfection, enlightenment, deliverance, and final beatitude, and puts an end to all misery. (73)
 

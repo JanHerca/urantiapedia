@@ -38,7 +38,7 @@ A monk or a nun being pressed by nature should, in case they have not their own 
 
 A monk or a nun, knowing that the householder with regard to such a place for the sake of one or many, male or female fellow-ascetics, for the sake of many <i>S</i>rama<i>n</i>as or Brâhma<i>n</i>as whom he has well counted, kills living beings and commits various sins, should not ease nature on such a place or any other of the same sort, whether that place be appropriated by another person or not [^460], &c. (see II, 1, 1, § 13). (2 and 3).
 
-<span id="p181">[<sup><small>p. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 Now he should know this: If that place has not been appropriated by another person, &c., he may ease nature on such a place (after having well inspected and cleaned it). (4)
 
@@ -54,7 +54,7 @@ A monk or a nun should not ease nature in a place where the householders or thei
 
 A monk or a nun should not ease nature in a place where the householders or their sons have sown, sow, or will sow rice, beans, sesamum, pulse, or barley. (1o)
 
-A monk or a nun should not ease nature in a place where there are heaps of refuse, furrows, mud, <span id="p182">[<sup><small>p. 182</small></sup>]</span> stakes, sprigs, holes, caves, walls, even or uneven places [^462]. (11)
+A monk or a nun should not ease nature in a place where there are heaps of refuse, furrows, mud, <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> stakes, sprigs, holes, caves, walls, even or uneven places [^462]. (11)
 
 A monk or a nun should not ease nature in fireplaces, layers (or nests) of buffaloes, cattle, cocks, monkeys, quails, ducks [^463], partridges, doves, or francoline partridges. (12)
 
@@ -74,7 +74,7 @@ A monk or a nun should not ease nature in fresh clay pits, fresh pasture grounds
 
 A monk or a nun should not ease nature in a field of shrubs, vegetables, or roots. (20)
 
-<span id="p183">[<sup><small>p. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 A monk or a nun should not ease nature in woods of A<i>s</i>ana [^465], <i>S</i>ana [^466], Dhâtakî [^467], Ketaki [^468], Mango, A<i>s</i>oka, Punnâga, or other such-like places which contain leaves, flowers, fruits, seeds, or sprouts. (21)
 

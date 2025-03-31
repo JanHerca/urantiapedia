@@ -38,7 +38,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 2. If an oven is heated with stubble or brushwood, nothing must be put either into it or at the top of it. A single hearth which has been heated with stubble or with brushwood, is \[considered\] like a double one; but \[if heated\] with olive-kernels or wood, it is \[considered\] like an oven.
 
-§ 3. An egg must not be put at the side of a hot kettle \[on the Sabbath\], that it become settled \[done\], nor must it be wrapped in <span id="p42">[<sup><small>p. 42</small></sup>]</span> hot cloths \[with that intention\], nor must it be put into hot sand, or road-\[side\] dust, that it \[the egg\] be roasted \[by the heat of the sun.\]
+§ 3. An egg must not be put at the side of a hot kettle \[on the Sabbath\], that it become settled \[done\], nor must it be wrapped in <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> hot cloths \[with that intention\], nor must it be put into hot sand, or road-\[side\] dust, that it \[the egg\] be roasted \[by the heat of the sun.\]
 
 § 4. It once happened that the inhabitants of Tiberias carried a pipe of cold water through an arm \[streamlet\] of their hot-well; but the sages explained to them that on the Sabbath. \[this water\] like any \[other that had been\] heated on the Sabbath-day, is prohibited, either for washing or drinking; and that on festivals \[this water\] like any \[other that had been\] heated on the festival, is prohibited for washing, but permitted for drinking. A ‏מוליאר‎ [^87] that has been cleansed of coals \[it is lawful to\] drink out of \[on the Sabbath\]; an ‏אנטיכי‎ [^88] even though it has been cleansed of coals \[it is\] not lawful \[to drink out of\].
 

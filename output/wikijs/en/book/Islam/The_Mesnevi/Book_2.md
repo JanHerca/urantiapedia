@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 ## II. The Oilman and the Parrot.
 
@@ -62,7 +62,7 @@ He plucked at his beard; he heaved a deep sigh;
 My hand, would it withered had, ere I'd struck Poll;
 I've silenced her prattle that always was droll!”
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 His alms now he showers on each passing scamp,
 In hopes Poll her chatter ’d get back by some tramp.
@@ -100,7 +100,7 @@ Quite empty that one; from this, sugar will flow.
 By thousands, examples of pairs thus are known,
 Which differ as much as does cheese from the moon.
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Our bread, in one case, turns to dirt in our meat;
 Another produces the mind, God's own seat.
@@ -133,7 +133,7 @@ A man acts from reason; an ape from mere whim.
 The hypocrite[^70] worships[^71] as aping the saint,
 For form's sake, or worse. His religion's mere feint.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 In pilgrimage, worship, and fasting, and alms,[^72]
 Believers and hypocrites vie, as in psalms.
@@ -163,7 +163,7 @@ The sense of a book in the title may shine.
 Sweet lakes and salt seas do we find here on earth;
 The barrier between them: “Thus far; go not forth!”
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 They both, in their origin, flow from one source;
 Look not at their severance; it's matter of course.
@@ -199,7 +199,7 @@ Then rears it still stronger, to hold evermo’!
 The will of Almighty God who shall control?
 These sentences written are parables all.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Sometimes in one way, in another sometimes,
 Religion confuses before it sublimes.

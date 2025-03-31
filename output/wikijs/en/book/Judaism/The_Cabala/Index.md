@@ -29,9 +29,9 @@ dateCreated: 2025-2-7T10:37:39Z
   </table>
 </figure>
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 Abraham, p. [21](2#p21).
 
@@ -123,7 +123,7 @@ Galatino, [102](6#p102).
 
 Geiger, [6](Foreword#p6).
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 Gematria, [85](5#p85).
 
@@ -239,7 +239,7 @@ Ophanim, [24](2#p24), [38](2#p38).
 
 Oracula Sibyllina, [88](5#p88).
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 Orelli, [98](6#p98).
 

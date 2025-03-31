@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 ### CHAPTER XI.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 4. He who throws \[something\] into the sea, \[to the distance of\] four amoth, is absolved. If a pool of water be traversed by a public reshuth \[thoroughfare\], whoever throws \[any thing\] into it \[to the distance of\] four amoth, is guilty. What \[depth\] constitutes a pool? Less than ten hands \[deep\]. Any pool which is \[occasionally\] traversed as a public reshuth \[thoroughfare\], whoever throws \[any thing\] into it \[to the distance of\] four amoth, is guilty.
 
-§ 5. He who throws from the sea to the shore, or from the shore to the sea; from the sea to the ship, or from the ship to the sea, or <span id="p54">[<sup><small>p. 54</small></sup>]</span> from one ship into another, is absolved. If ships are fastened together, \[things\] may be moved \[conveyed\] from one into the other; if they are not fastened together, even though they touch, \[things\] must not be moved \[conveyed\] from one into the other.
+§ 5. He who throws from the sea to the shore, or from the shore to the sea; from the sea to the ship, or from the ship to the sea, or <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> from one ship into another, is absolved. If ships are fastened together, \[things\] may be moved \[conveyed\] from one into the other; if they are not fastened together, even though they touch, \[things\] must not be moved \[conveyed\] from one into the other.
 
 § 6. If a man throws \[something\] and, after it has left his hand, he remembers \[it is Sabbath\], should that \[which he has thrown\] be caught up by any other \[person\], or snapped up by a dog, or should it become ignited \[and burnt in the air\], he \[who has thrown it\] is absolved. Has he thrown \[something\] with intent to wound either man or beast, and remembers \[that it is Sabbath\] before the wound is inflicted, \[as long as the object is not hit\], he is absolved. The rule is, all those who \[when guilty\] are bound to bring a sin offering, do not become guilty, unless \[both\] the beginning and end, \[result of their offence\] be unwittingly \[inadvertently\]. If the beginning be unwittingly and the end wittingly \[premeditated\], or if the beginning be wittingly \[premeditated\], and the end unwittingly \[accidental\] \[in either case\] they \[the offenders\] are absolved; unless \[as has already been stated\], both beginning and end \[result of the offence\] be unwittingly \[inadvertently\] committed.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-1\. The Sabbatical year releases [^80] a loan, whether it be with or without a bill. The credit of a shop is not released. <span id="p81">[<sup><small>p. 81</small></sup>]</span> But if one made it as a loan, it is released. Rabbi Judah said, “all the first credit is released, the wages of an hireling is not released.” “But if one made it as a loan?” “It is released.” Rabbi José said, “every work which ceases on the Sabbatical year is released; but that which does not cease on the Sabbatical year is not released from payment.”
+1\. The Sabbatical year releases [^80] a loan, whether it be with or without a bill. The credit of a shop is not released. <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> But if one made it as a loan, it is released. Rabbi Judah said, “all the first credit is released, the wages of an hireling is not released.” “But if one made it as a loan?” “It is released.” Rabbi José said, “every work which ceases on the Sabbatical year is released; but that which does not cease on the Sabbatical year is not released from payment.”
 
 2\. The butcher who slaughtered a heifer (at the end of the Sabbatical year), and divided her head (for sale on the first of the two feast days) of the new year, remains a debtor; but if he did so in an intercalary month, [^81] he is released (Deut. xv. 1). But if it be not an intercalary month, he is not released. He who forced, or enticed, or uttered a slander, and every act of the tribunal, have no release. “He who lent on security, or delivered his bills to the tribunal?” “There is no release for him.”
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 5\. The Defence written before the Sabbatical year is valid, but afterwards it is disallowed. Bills written before the Sabbatical year are disallowed, but afterwards they are valid. He who borrows from five persons must write a Defence for each of them. If five persons borrow from one, he writes but one defence for all of them.
 
-6\. Men must not write a Defence save only on ground. “If he have none?” “The lender may present him with however little from his own field.” “If he had a field in pledge in <span id="p82">[<sup><small>p. 82</small></sup>]</span> a city?” “He may write on it the Defence.” Rabbi Huzpith said, “a man may write it on the property of his wife; and for orphans on the property of their guardians.”
+6\. Men must not write a Defence save only on ground. “If he have none?” “The lender may present him with however little from his own field.” “If he had a field in pledge in <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> a city?” “He may write on it the Defence.” Rabbi Huzpith said, “a man may write it on the property of his wife; and for orphans on the property of their guardians.”
 
 7\. “Beehives?” R. Eliezer said, “they are as ground, and men may write on them a Defence, and they contract no legal uncleanness in their proper place, but he who takes honey out of them on the Sabbath is liable (for a sin-offering). The Sages, however, say they are not as ground, and men must not write on them a Defence, and they do contract legal defilement in their place, and he who takes honey out of them on the Sabbath is free.”
 

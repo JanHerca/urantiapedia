@@ -38,7 +38,7 @@ The unhappy Prince, however, finds a friend in need in the old lady of Kendeh, w
 
 Do not bear malice, O Shiboob!—renounce it, for no good ever came of malice.
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 Violence is infamous: its result is ever uncertain, and no one can act justly when actuated by hatred.
 
@@ -50,7 +50,7 @@ But before Antar can come to his deliverance, Maisoor has determined to hang Pri
 
 Prince Shas expresses his contrition to Antar, and promises to make him ample amends for the past. Antar having presented to As-hath all the horses and plunder, the old sheikh takes his leave, and departs for his own country; while the hero and Prince Shas begin their journey to the land of Hejaz, with the trusty Shiboob for their guide. On the fifth day they reached the waters of the tribe of Akhram, where they rested for the night.
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 Antar had a delightful dream of his beloved Abla, and in the morning, when he awoke, he thus recited:—
 

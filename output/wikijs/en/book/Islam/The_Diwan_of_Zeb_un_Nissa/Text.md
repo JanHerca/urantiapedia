@@ -32,7 +32,7 @@ dateCreated: 2024-11-21T10:26:39Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 ## I
 
@@ -54,7 +54,7 @@ Of mortality roll;
 No Noah could lift from the deeps till it float
 &nbsp;&nbsp;&nbsp;My love-drownèd soul.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As slaves
 The powers of the darkness for me
@@ -74,7 +74,7 @@ It is endless, and leave thou the night
 Of thy passions; for then shall not Khizr attain
 &nbsp;&nbsp;&nbsp;Such a spring of delight.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 ## II
 
@@ -103,7 +103,7 @@ In quenching torrents on my burning heart;
 &nbsp;&nbsp;&nbsp;So hot its pain
 At every sigh I breathe the flames outstart.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 ## III
 
@@ -132,7 +132,7 @@ My cherished sorrows can I yield, for sore
 &nbsp;&nbsp;&nbsp;My heart doth bleed
 Where cruel love hath wounded it indeed.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Look thou and see
 Where from my wounds there drops continually
@@ -151,7 +151,7 @@ Arches more fair than Kaaba gates arise;
 &nbsp;&nbsp;&nbsp;Thy heart shall bend,
 Itself an archway welcoming the Friend.
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ## IV
 
@@ -179,7 +179,7 @@ Thou art the veil through which the light doth shine,
    Nay, thou thyself the very torch divine—
 &nbsp;&nbsp;&nbsp;&nbsp;Naught else behold these dazzled eyes of mine.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 ## V
 
@@ -208,7 +208,7 @@ Here is the source of light, the heavenly fount,
 Brighter than Moses thou, when from the Mount
 &nbsp;&nbsp;&nbsp;He came, God's radiance shining in his face.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 The wine at night unto the morning lends
 &nbsp;&nbsp;&nbsp;Its exaltation, morning to the night
@@ -220,7 +220,7 @@ But, Makhfi, tell me where the feast is made?
 Here in my soul the feast of God is laid,
 &nbsp;&nbsp;&nbsp;Within the hidden chambers of my heart.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 ## VI
 
@@ -249,7 +249,7 @@ Till love transformed it to another guise,
 And now it shines as fair as the divine
 &nbsp;&nbsp;&nbsp;&nbsp;Gardens of Paradise.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 I would that I my longing might outpour,
 My grief might turn to hymns, my pain might tell
@@ -271,7 +271,7 @@ And though thy tale has not attained its close,
 So deep a languor on thy spirit lies;
 &nbsp;&nbsp;&nbsp;&nbsp;Seek thou for it repose.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 ## VII
 
@@ -300,7 +300,7 @@ The dream, the vision, and the ecstasy;
 The wine of pain turns blood, nor can we tell
 If we exist, or if we cease to be.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Within the jungle of this world of woe
 The lion of desire stalks ravenous.
@@ -312,7 +312,7 @@ Pouring forth hymns throughout my rapturous days;
 Alas, that powers of evil choke my voice,
 And blast my thoughts, and burn my psalms of praise!
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## VIII
 
@@ -337,7 +337,7 @@ O Makhfi, walk boldly like Majnun in the valley
 Girt round with thy new dedication, the promise
 &nbsp;&nbsp;&nbsp;of love thou hast made.
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 ## IX
 
@@ -369,7 +369,7 @@ The firm foundations of the earth may shake,
 &nbsp;&nbsp;&nbsp;May, if this empty life be all,
 The bubble of our vain existence break.
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 ## X
 
@@ -398,7 +398,7 @@ Have been wounded by many a thorn.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the joy of its light;
 &nbsp;&nbsp;&nbsp;For this be our thanks unto Thee,
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 And for the great teachers vouchsafed in our need
 &nbsp;&nbsp;&nbsp;&nbsp;To guide and to lead,
@@ -431,7 +431,7 @@ To him; thou indeed hast no counsel to give.
 &nbsp;&nbsp;&nbsp;&nbsp;Thou shalt never look back;
 &nbsp;&nbsp;&nbsp;Nor even take heed
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 To thy life if thou lose it or keep it, and pain
 &nbsp;&nbsp;&nbsp;&nbsp;Shalt disdain,
@@ -447,7 +447,7 @@ For, flying too boldly, thy feeble wings fail,
 &nbsp;&nbsp;&nbsp;&nbsp;And thou dost bewail
 Thy fate, thus enmeshed in the net of thy cares.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 ## XI
 
@@ -466,7 +466,7 @@ Some pay their worship at the Kaaba shrine,
 But, Makhfi, think what secret joy is thine,
 &nbsp;&nbsp;&nbsp;To bear thine idol ever in thy heart.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 ## XII
 
@@ -495,14 +495,14 @@ How many hearts, O Love, thy sword hath slain,
 They bless thee, nor to God will they complain
 &nbsp;&nbsp;&nbsp;&nbsp;At Judgment Day.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 When in the mosque to seek thine idol there
 &nbsp;&nbsp;&nbsp;&nbsp;Thou wendest, may
 Thy steps fall gently, Makhfi, lest thou scare
 &nbsp;&nbsp;&nbsp;&nbsp;The birds away.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 ## XIII
 
@@ -531,7 +531,7 @@ Lo, when I come unto the water's side
 My flaming heart exultantly shall guide
 &nbsp;&nbsp;&nbsp;Like Moses' torch of fire.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Though evil days are mine, of joy bereft,
 &nbsp;&nbsp;&nbsp;With pain that never ends,
@@ -543,7 +543,7 @@ Tell me, O Makhfi, is it I who sin?
 Is it the body's or the soul's within
 &nbsp;&nbsp;&nbsp;That lived and sinned elsewhere?
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 ## XIV
 
@@ -572,14 +572,14 @@ More blessed than Alexander's lot is mine.
 Come to me, O ye thirsty: this my fate—
 To know the giver of celestial wine.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 I have wiped clean my heart
 From actions, yea, and from desires as well,
 And yearn alone for peace, to have no part
 At Judgment Day, either in Heaven or Hell.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 ## XV
 
@@ -607,7 +607,7 @@ I would not sit at Hatim's table with the eager
 Of separation, when there never came my heart's
 &nbsp;&nbsp;&nbsp;&nbsp;delight,
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;And in my desolation tears of blood
 Gushed from my stricken, widowed heart in
@@ -625,7 +625,7 @@ O Makhfi, if thy sighs could reach the bosom of
 Caught from thy heart a quenchless flame should
 &nbsp;&nbsp;&nbsp;&nbsp;leap.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## XVI
 
@@ -657,7 +657,7 @@ With the white radiance of its loveliness,
 Till my wall's shadow shall outvie the sun,
 &nbsp;&nbsp;&nbsp;And seem more bright.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;I humbly sit apart;
 The Kaaba courts the true believers tread,
@@ -673,7 +673,7 @@ Pearls from thine eyelids fall like gentle rain
 Upon the garden, summoning the rose,
 &nbsp;&nbsp;&nbsp;Calling the spring.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 ## XVII
 
@@ -691,7 +691,7 @@ Deeper than thy despair thy bliss may lie;
 Though on the path of love thy feet may tire,
 New strength shall come to thee, and new desire.
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ## XVIII
 
@@ -710,14 +710,14 @@ With heart that is weary, with footsteps that lag and that tire,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I follow my quest,
 To attain through the difficult way to the kingdom of rest.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 Yet, Makhfi, look up from thy desolate region of night,
 And see how the army of sorrow has taken to flight;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dawn comes, and despair
 Has vanished before the miraculous arrows of prayer.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ## XIX
 
@@ -746,7 +746,7 @@ Than the ascetic Brahman's faithfulness,
 The knotted veins his wasted body bears
 &nbsp;&nbsp;&nbsp;As sacred thread he wears.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;What is a lover's fate?
 What shall befall to him unfortunate?
@@ -780,7 +780,7 @@ Thou dwell—reck not of it; life is a dream,
 To live and move and love, no more at all
 &nbsp;&nbsp;&nbsp;Than shadows on a wall.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ## XX
 
@@ -808,7 +808,7 @@ Than Kerbela's accursèd wilderness.
 &nbsp;&nbsp;&nbsp;Haply indeed, O Judge, wilt thou be kind,
 &nbsp;&nbsp;&nbsp;And pity in thy heart for sinners find;
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Think of the memory of their disgrace,
 &nbsp;&nbsp;&nbsp;How dark humiliation stains their face,
@@ -822,7 +822,7 @@ Will these not be sufficient punishment?
 And though, like Majnun, in the wild they roam,
 Leads them through toils and tribulations home.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 ## XXI
 
@@ -847,7 +847,7 @@ Yet in this day of my humility
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Precious to me
 As wine of kings I hold my cup of fate.
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Despair not, sorrow-laden Makhfi, though
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No grass appears
@@ -856,7 +856,7 @@ Why with their arguing do learnèd men
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Question God's mercy, when
 His works His infinite compassion show!
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 ## XXII
 
@@ -885,14 +885,14 @@ O fear not, if within the house of prayer
 &nbsp;&nbsp;&nbsp;From out the flaming furnace of my sighs
 Will rise another light, more fierce, more fair.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 The perfumed winds that with the dawn arise,
 &nbsp;&nbsp;&nbsp;Have they not, Makhfi, caught thy soul away
 &nbsp;&nbsp;&nbsp;And drenched it with delight, so all the day
 There cling about thee airs of Paradise?
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## XXIII
 
@@ -920,7 +920,7 @@ Like Yaqub blinded by his agony,
 &nbsp;&nbsp;&nbsp;No face in all the world is aught to me;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What use have eyes except to look on Thee?
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 ## XXIV
 
@@ -944,7 +944,7 @@ How in his haughtiness he rides above
 &nbsp;&nbsp;&nbsp;The hearts of men, how red
 His sword with lovers' blood that he has shed!
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 ## XXV
 
@@ -973,7 +973,7 @@ Vainly I sought for thee; beyond control
 My heart has yearned for thee; ever thy wings
 Have hung above my soul's imaginings.
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 Thou Enemy, that hold’st me from my quest,
 If even in the sea thou enterest
@@ -985,7 +985,7 @@ O bulbul, glad within the garden sing,
 That blossoms in thy heart; but in her own
 The barren winds of lonely autumn moan.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 ## XXVI
 
@@ -1012,7 +1012,7 @@ Like Ayub I sit in the ashes o’erwhelmed by the
 Yet out of the night of my sorrow shall hope
 &nbsp;&nbsp;&nbsp;like the morning arise:
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 To the desolate mountains, like Ferhad, by sorrow
 &nbsp;&nbsp;&nbsp;and longing possessed,
@@ -1024,7 +1024,7 @@ Yet, Makhfi, unveiled is thy secret, abroad all
 Who saw not the beauty of Yusuf when he in
 &nbsp;&nbsp;&nbsp;the market was sold?
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 ## XXVII
 
@@ -1053,7 +1053,7 @@ Give me a little day of joy, of spring,
 When even in its cage my heart might sing
 Glad as a bird: Death comes, thou knowest, soon.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Although I seem so poor,
 Pity me not for empty-handedness;
@@ -1075,7 +1075,7 @@ Love's pilgrims, Makhfi, may it be thy pride
 Unto Love's realm their caravan to guide,
 Thy footsteps be the bell to lead it there.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 ## XXVIII
 
@@ -1104,7 +1104,7 @@ So sad my fate that, though I long and toil
 I cannot burnish off the stains that soil,
 &nbsp;&nbsp;&nbsp;The rust that dims my mirror of desire.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 Though poor I am indeed, yet weak am I
 &nbsp;&nbsp;&nbsp;And cannot dare with my irresolute will
@@ -1116,7 +1116,7 @@ And yet, O Makhfi, if with eyes made clear,
 Lo, the faquir's torn garments shall appear
 &nbsp;&nbsp;&nbsp;More regal than the robes of majesty.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 ## XXIX
 
@@ -1140,7 +1140,7 @@ So many love and have been loved by Thee,
 They give their hearts, what carest Thou for mine?
 &nbsp;&nbsp;&nbsp;What need hast Thou of me?
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 ## XXX
 
@@ -1169,14 +1169,14 @@ Toiling upon the mountains I have been,
 But never drank the sherbet of success,
 &nbsp;&nbsp;&nbsp;Sweet as thy lips, Shirin.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Mortals we are, and, fashioned thus of earth,
 Vain, Makhfi, is this world in which we trust,
 Dust is the rank of kings, the pride of birth,
 &nbsp;&nbsp;&nbsp;Yea, thou thyself art dust.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 ## XXXI
 
@@ -1200,7 +1200,7 @@ Though callous Fate upon me vengeance wreak,
 Bring unto me what I, like Yaqub, seek—
 &nbsp;&nbsp;&nbsp;The perfume of the garments of my Love.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 ## XXXII
 
@@ -1228,7 +1228,7 @@ I long to send, with arrows of my sighs,
 &nbsp;&nbsp;&nbsp;Unto the skies
 My eager prayers before the night be gone.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;I craved release
 From griefs that burn and pains that never
@@ -1249,7 +1249,7 @@ Higher, upon the Day of Reckoning,
 &nbsp;&nbsp;&nbsp;Faquir than king,
 There shall be then none lowly and none great.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 ## XXXIII
 
@@ -1278,14 +1278,14 @@ Upon what travel fares our caravan?
 By Hedjaz desert shall thy footsteps speed,
 The longest journey since the world began.
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;So poor, indeed, my fate,
 Never to me did Love his secrets tell
 As to those others, high and fortunate,
 Who near his inmost shrine for ever dwell.
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ## XXXIV
 
@@ -1315,7 +1315,7 @@ But why should’st thou, who for their sakes art
 &nbsp;&nbsp;&nbsp;&nbsp;dumb,
 &nbsp;&nbsp;&nbsp;Tell shamelessly the secrets of thy heart?
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 ## XXXV
 
@@ -1339,7 +1339,7 @@ How long, O Makhfi, wavering like the fire,
 A Kafir shall thy restless spirit be,
 Blown like a flame, tormented by desire?
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 ## XXXVI
 
@@ -1368,7 +1368,7 @@ Your sorrow fruitless, your remorse too late;
 The threshold with your lashes wherefore sweep,
 When, Makhfi, see, the shrine is desolate?
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 ## XXXVII
 
@@ -1389,7 +1389,7 @@ Sing softly of thy love, or silent be,
 O Makhfi, lest the Hunter secretly
 Shall come and hear thy voice, and capture thee.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 ## XXXVIII
 
@@ -1417,7 +1417,7 @@ Of love and unassuaged desire
 &nbsp;&nbsp;&nbsp;Love's secrets weakly didst thou tell,
 So thou shalt pay with penance dire.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 ## XXXIX
 
@@ -1446,14 +1446,14 @@ Under the angry storms of death my boat of
 My house is fallen, round its dust winds of
 &nbsp;&nbsp;&nbsp;annihilation sweep.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Yet, Makhfi, if within thy heart the flame of
 &nbsp;&nbsp;&nbsp;heavenly love arise,
 Thy lonely desert shall be fair as garden groves
 &nbsp;&nbsp;&nbsp;of Paradise.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 ## XL
 
@@ -1482,7 +1482,7 @@ My silent, desolate sorrow I possess;
 &nbsp;&nbsp;&nbsp;For how can shining love with me remain
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Within this house of pain?
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 Behold the pages of my book of life!
 Blotted its record, black with sin and strife,
@@ -1494,7 +1494,7 @@ No exaltation, no surcease from pain;
 &nbsp;&nbsp;&nbsp;For tears of blood that flow from eyes grown dim
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fill it unto the brim.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 ## XLI
 
@@ -1523,7 +1523,7 @@ How could we bear to face
 The direful Judgment Day, did we not bring
 Our idol, witnessing
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 That by this Kafir worship which we give
 We true believers live?
@@ -1537,7 +1537,7 @@ Darkened the world appears,
 Nor can they tell, by grief and watching worn,
 The rosebud from the thorn.
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 ## XLII
 
@@ -1566,7 +1566,7 @@ To bloom within my garden of desire,
 For God can call even from flames of fire
 Tulips like torches to arise and burn.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 ## XLIII
 
@@ -1590,7 +1590,7 @@ Out of my heart you reft away
 You ravished, and I can but pray—
 &nbsp;&nbsp;&nbsp;O lift the veil that hides your face!
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 ## XLIV
 
@@ -1615,7 +1615,7 @@ How long have I, in striving to be free,
 Broken my bleeding nails, but never quite
 &nbsp;&nbsp;&nbsp;Untied the knot of fate!
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Lo, where the feast was spread,
 What better could I offer to my guest
@@ -1645,7 +1645,7 @@ My tears have washed with their unceasing flow,
 The magic cup wherein the world appears
 &nbsp;&nbsp;&nbsp;Displayed before mine eyes.
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Stronger my love shall grow:
 Bearing the bonds of sorrow for thy sake,
@@ -1661,7 +1661,7 @@ The temple where thou canst bow down thy head,
 The idol fairer than thy fairest dreams,
 &nbsp;&nbsp;&nbsp;Thou shalt desire, and find.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 ## XLV
 
@@ -1689,7 +1689,7 @@ Deep planted in the darkness; sin and shame its
 For all the wide dominions of a thousand mighty
 &nbsp;&nbsp;&nbsp;&nbsp;kings.
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;If from my heart I loose my heavy sighs
 Black whirling from the Desert shall the blinding
@@ -1699,7 +1699,7 @@ Black whirling from the Desert shall the blinding
 The Skirt of Intercession hold within thy fingers
 &nbsp;&nbsp;&nbsp;&nbsp;fast.
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 ## XLVI
 
@@ -1724,7 +1724,7 @@ A dervish am I, and can give no more,
 No emperor, with glory round my name
 &nbsp;&nbsp;&nbsp;&nbsp;And lavish hand.
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Foundered my boat of life;
 Vainly upon the ocean of despair
@@ -1754,7 +1754,7 @@ Of Dara, broken and disconsolate;
 Yea, sorrowful his shadowed history
 &nbsp;&nbsp;&nbsp;&nbsp;Appears indeed.
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;Upon the feasting day
 Friends joyfully in the assembly meet,
@@ -1763,7 +1763,7 @@ Slowly and loth, with melancholy feet,
 No rest, no ease, no peace upon the way,
 &nbsp;&nbsp;&nbsp;&nbsp;The faquir knows.
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 ## XLVII
 
@@ -1792,7 +1792,7 @@ For thou at the Belovèd's feet may lay
 Thy song in homage; happier still, if thou
 Sing rapturously evermore as now!
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 ## XLVIII
 
@@ -1821,7 +1821,7 @@ The days from out thy hand drop evermore;
 O turn no weary traveller from thy door,
 &nbsp;&nbsp;&nbsp;Give him what cheer thou hast.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 ## XLIX
 
@@ -1849,7 +1849,7 @@ And patient reeds I bend and shake,
 As my despairing road I take,
 Leaving the body for thy sake.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 Before the soul who understands
 Be silent: in the desert sands
@@ -1857,7 +1857,7 @@ He learnt his lore. Break not the rest
 Of the afflicted and oppressed
 With poisoned arrows in his breast.
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## L
 
@@ -1884,7 +1884,7 @@ Unto the bulbul, whose unquiet mind
 Makes him a mad faquir in loving thee;
 For even kings who ride in majesty
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 Will stop their chariots e’er a faquir stir.
 Blessèd is Makhfi: God has given to her

@@ -36,7 +36,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## SÛTRA CXXVI.
 
-They are optionally vikâras of the Aindrâgna. <span id="p349">[<sup><small>p. 349</small></sup>]</span>
+They are optionally vikâras of the Aindrâgna. <span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 <span id="an126c"></span>
 
@@ -66,7 +66,7 @@ If there is sameness both in the offering and in the deity, then the offering pr
 
 **Commentary.**
 
-If a <i>k</i>aru for Pra<i>g</i>âpati occurs in a vik<i>g</i>ti sacrifice, it would follow that, being offered to Pra<i>g</i>âpati, it should be offered with murmuring, but, as it is a vegetable offering, it follows the norm of the puro<i>g</i>â<i>g</i>a, though the puro<i>g</i>â<i>g</i>a is intended for Agni. <span id="p350">[<sup><small>p. 350</small></sup>]</span>
+If a <i>k</i>aru for Pra<i>g</i>âpati occurs in a vik<i>g</i>ti sacrifice, it would follow that, being offered to Pra<i>g</i>âpati, it should be offered with murmuring, but, as it is a vegetable offering, it follows the norm of the puro<i>g</i>â<i>g</i>a, though the puro<i>g</i>â<i>g</i>a is intended for Agni. <span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 <span id="an129"></span>
 
@@ -114,7 +114,7 @@ In a Vik<i>ri</i>ti sacrifice modification takes place, according to the sense, 
 
 **Commentary.**
 
-Some mantras remain the same in the Vik<i>ri</i>ti as in the Prak<i>ri</i>ti. Others have to be modified so as to be <span id="p351">[<sup><small>p. 351</small></sup>]</span> adapted to anything new that has to be. If, for instance, there is a Puro<i>ri</i>â<i>ri</i>a for Agni in the Prak<i>ri</i>ti, and in its place a Puro<i>ri</i>â<i>ri</i>a for Sûrya in the Vik<i>ri</i>ti, then we must place Sûrya instead of Agni in the dedicatory mantra.
+Some mantras remain the same in the Vik<i>ri</i>ti as in the Prak<i>ri</i>ti. Others have to be modified so as to be <span id="p351"><sup><small>[ p. 351 ]</small></sup></span> adapted to anything new that has to be. If, for instance, there is a Puro<i>ri</i>â<i>ri</i>a for Agni in the Prak<i>ri</i>ti, and in its place a Puro<i>ri</i>â<i>ri</i>a for Sûrya in the Vik<i>ri</i>ti, then we must place Sûrya instead of Agni in the dedicatory mantra.
 
 <span id="an133"></span>
 
@@ -138,7 +138,7 @@ If what is prescribed is absent, a substitute is to be taken according to simila
 
 **Commentary.**
 
-Here we have no longer modification, but substitution (pratinidhi). In cases where anything special that has been prescribed is wanting, a substitute must be chosen, as similar as possible, and producing a similar effect. <span id="p352">[<sup><small>p. 352</small></sup>]</span> According to Ma<i>nd</i>ana's Trikâ<i>nd</i>a, the degrees of similarity are to be determined in the following order:
+Here we have no longer modification, but substitution (pratinidhi). In cases where anything special that has been prescribed is wanting, a substitute must be chosen, as similar as possible, and producing a similar effect. <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> According to Ma<i>nd</i>ana's Trikâ<i>nd</i>a, the degrees of similarity are to be determined in the following order:
 
 Kâryai rûpais tathâ par<i>n</i>ai_h<i>n</i>h<i>n</i>h_ phalair api,
 Gandhai rasai_h<i> sad</i>ri_g grâhyam pûrvâlâbhe param param.
@@ -167,7 +167,7 @@ The substitute should take the nature of that for which it is substituted.
 
 **Commentary.**
 
-Taddharma, having the same qualities. If, for instance, nîvâra has been substituted for vrîhi, it should be treated as if it were vrîhi. The name vrîhi should remain, and should not be replaced by nîvâra, just as Soma, if replaced by pûtikâ, is still called Soma. Thus, when in the course of a sacrifice vrîhi has once been replaced by nîvâra, and vrîhi can be procured afterwards, yet nîvâra is then to be retained to the end. If, however, the substituted nîvâra also come to an end, and afterwards both nîvâra and vrîhi are forthcoming, then vrîhi has the preference. If neither be forthcoming, then some substitute is to be taken that approaches nearest to the substitute, the nîvâra, not to the <span id="p353">[<sup><small>p. 353</small></sup>]</span> original vrîhi. Further, if a choice has been allowed between vrîhi, rice, and yava, barley, and vrîhi has been chosen, and afterwards, as substitute for vrîhi, nîvâra, then, if nîvâra come to an end, and in the absence of vrîhi, when a new supply of both nîvâra, and yava has been obtained, the yava is to be avoided, and the original substitute for vrîhi, the nîvâra, must be retained. In most of these cases, however, a certain penance also (prâya<i>s</i><i>s</i>itta) is required.
+Taddharma, having the same qualities. If, for instance, nîvâra has been substituted for vrîhi, it should be treated as if it were vrîhi. The name vrîhi should remain, and should not be replaced by nîvâra, just as Soma, if replaced by pûtikâ, is still called Soma. Thus, when in the course of a sacrifice vrîhi has once been replaced by nîvâra, and vrîhi can be procured afterwards, yet nîvâra is then to be retained to the end. If, however, the substituted nîvâra also come to an end, and afterwards both nîvâra and vrîhi are forthcoming, then vrîhi has the preference. If neither be forthcoming, then some substitute is to be taken that approaches nearest to the substitute, the nîvâra, not to the <span id="p353"><sup><small>[ p. 353 ]</small></sup></span> original vrîhi. Further, if a choice has been allowed between vrîhi, rice, and yava, barley, and vrîhi has been chosen, and afterwards, as substitute for vrîhi, nîvâra, then, if nîvâra come to an end, and in the absence of vrîhi, when a new supply of both nîvâra, and yava has been obtained, the yava is to be avoided, and the original substitute for vrîhi, the nîvâra, must be retained. In most of these cases, however, a certain penance also (prâya<i>s</i><i>s</i>itta) is required.
 
 <span id="an137"></span>
 
@@ -197,7 +197,7 @@ The master is meant for the sacrificer himself and his wife. Their place cannot,
 
 ## SÛTRA CXXXIX.
 
-The Prak<i>ri</i>ti stops from three causes, from a corollary, from a prohibition, and from loss of purpose. <span id="p354">[<sup><small>p. 354</small></sup>]</span>
+The Prak<i>ri</i>ti stops from three causes, from a corollary, from a prohibition, and from loss of purpose. <span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 <span id="an139c"></span>
 
@@ -245,7 +245,7 @@ The Gavâmayana lasts three years, and it is the type of all Sâ<i>m</i>vatsarik
 
 ## SÛTRA CXLIII.
 
-Of the Nikâyi sacrifices the first serves as Prak<i>ri</i>ti. <span id="p355">[<sup><small>p. 355</small></sup>]</span>
+Of the Nikâyi sacrifices the first serves as Prak<i>ri</i>ti. <span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 <span id="an143c"></span>
 
@@ -287,7 +287,7 @@ This does not apply to the Sâdyaskras, the Vâ<i>g</i>apeya, the Sho<i>g</i>a<i
 
 **Commentary.**
 
-With regard to the Sho<i>d</i>a<i>d</i>in and its vikâra, the Vâ<i>d</i>apeya, the laying of the fire is not mentioned. In the case of the Sâdyaskras, it becomes impossible, because they have to be quickly finished. In the case of the Sârasvata Sattra, there is the same difficulty on account of not remaining in the same place (anavasthâpân nâgni_s<i>d</i>k_îyate). <span id="p356">[<sup><small>p. 356</small></sup>]</span>
+With regard to the Sho<i>d</i>a<i>d</i>in and its vikâra, the Vâ<i>d</i>apeya, the laying of the fire is not mentioned. In the case of the Sâdyaskras, it becomes impossible, because they have to be quickly finished. In the case of the Sârasvata Sattra, there is the same difficulty on account of not remaining in the same place (anavasthâpân nâgni_s<i>d</i>k_îyate). <span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 <span id="an147"></span>
 
@@ -313,7 +313,7 @@ At the beginning of a special part of the sacrifice, one should wish the object 
 
 The commentary, though objecting, and objecting rightly, to kâmayeta, ‘he should wish,’ in the preceding Sûtra, accepts kâmayeta as determining the present Sûtra, saying kâmayetety anuvartate. One should read ya<i>g</i><i>g</i>âṅgakâmam, not ya<i>g</i><i>g</i>akâmam, for the commentary explains it by ya<i>g</i><i>g</i>âṅgaphalasaṅkalpa_h_. Whether it was really intended that there should be a special wish for each part or subsidiary act of a sacrifice (ya<i>g</i><i>g</i>âṅga), is another question, but the commentator evidently thought so.
 
-Kâtyâyana, who treats the same subject (1, 2, 10 seq.), states that there should be this desire for a reward for certain sacrifices which are offered for a certain purpose, as, for instance, the Dvâda<i>s</i>âha, but that there are no such motives for other sacrifices, and parts of sacrifices. He mentions, first of all, a niyama, a precept for the sacrifice, such as ‘Speak the truth.’ Then a nimitta, a special cause, as when some accident has taken place that must be remedied, for instance, when the house has been burnt down, &c. Thirdly, the Agnihotra, the morning and evening Homa; fourthly, the Dar<i>s</i>a-pûr<i>s</i>amâsau; fifthly, the Dâkshâya<i>s</i>a, a vik<i>s</i>ti of the Dar<i>s</i>a-pûr<i>s</i>amâsau, the Âgraya<i>s</i>a; sixthly, the Nirû<i>s</i>a-pa<i>s</i>u, the animal sacrifice. All these have to be performed as a sacred <span id="p357">[<sup><small>p. 357</small></sup>]</span> duty, and without any view to special rewards. Thus we read in Vâsish<i>s</i>a:
+Kâtyâyana, who treats the same subject (1, 2, 10 seq.), states that there should be this desire for a reward for certain sacrifices which are offered for a certain purpose, as, for instance, the Dvâda<i>s</i>âha, but that there are no such motives for other sacrifices, and parts of sacrifices. He mentions, first of all, a niyama, a precept for the sacrifice, such as ‘Speak the truth.’ Then a nimitta, a special cause, as when some accident has taken place that must be remedied, for instance, when the house has been burnt down, &c. Thirdly, the Agnihotra, the morning and evening Homa; fourthly, the Dar<i>s</i>a-pûr<i>s</i>amâsau; fifthly, the Dâkshâya<i>s</i>a, a vik<i>s</i>ti of the Dar<i>s</i>a-pûr<i>s</i>amâsau, the Âgraya<i>s</i>a; sixthly, the Nirû<i>s</i>a-pa<i>s</i>u, the animal sacrifice. All these have to be performed as a sacred <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> duty, and without any view to special rewards. Thus we read in Vâsish<i>s</i>a:
 
 Ava<i>s</i>yam brâhma<i>s</i>oऽgnîn âdadhîta, dar<i>s</i>apûr<i>s</i>amâsâgraya<i>s</i>esh<i>s</i>i<i>s</i>âturmâsyapa<i>s</i>usomai_s<i>s</i>k<i>s</i>g_eta, ‘A Brâhma<i>s</i>a should without fail place his fires, and offer the Dar<i>s</i>apûr<i>s</i>amâsa, the Âgraya<i>s</i>esh<i>s</i>i, the Kâturmâsyas, the P a _s_ u, and the Soma sacrifices.’
 
@@ -327,7 +327,7 @@ A Brâhma<i>n</i>a shall always offer the Agnihotra at the beginning or at the e
 
 These Pâkaya<i>g</i><i>g</i>as, Havirya<i>g</i><i>g</i>as or ish<i>g</i>is, and Soma sacrifices are enumerated by Gautama [^800], as follows:
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 Seven | Seven | Seven
 --- | --- | ---
@@ -365,7 +365,7 @@ Pâkasa<i>m</i>sthâs: | Havi<i>h</i>sa<i>h</i>sthâs: | Somasa<i>m</i>sthâs:
 (6) Pit<i>ri</i>ya<i>ri</i><i>ri</i>a_h_, | <i>K</i>âturmâsyâni, | Atirâtra_h_,
 (7) Ash<i>t</i>akâ. | Pa<i>s</i>ubandha_h_. | Aptoryâma_h_.
 
-According to the substances offered, sacrifices are sometimes <span id="p359">[<sup><small>p. 359</small></sup>]</span> divided into vegetable and animal sacrifices. The vegetable substances are, ta<i>nd</i>ulâ_h_, pish<i>n</i>âni, phalîkara<i>n</i>â_h_, puro<i>n</i>â<i>n</i>a_h_, odana_h_, yavâgû_h_, p<i>n</i>thukâ_h_, lâ<i>n</i>â_h_, dhânâ_h_, and aktava_h_. The animal substances are, paya_h_, dadhi, â<i>n</i>yam, âmikshâ, vâ<i>n</i>inam, vapâ, tva<i>n</i>a_h_, mâ<i>n</i>sam, lohitam, and pa<i>n</i>urasa_h_.
+According to the substances offered, sacrifices are sometimes <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> divided into vegetable and animal sacrifices. The vegetable substances are, ta<i>nd</i>ulâ_h_, pish<i>n</i>âni, phalîkara<i>n</i>â_h_, puro<i>n</i>â<i>n</i>a_h_, odana_h_, yavâgû_h_, p<i>n</i>thukâ_h_, lâ<i>n</i>â_h_, dhânâ_h_, and aktava_h_. The animal substances are, paya_h_, dadhi, â<i>n</i>yam, âmikshâ, vâ<i>n</i>inam, vapâ, tva<i>n</i>a_h_, mâ<i>n</i>sam, lohitam, and pa<i>n</i>urasa_h_.
 
 <span id="an149"></span>
 

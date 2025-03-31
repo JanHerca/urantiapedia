@@ -36,7 +36,7 @@ dateCreated: 2024-11-18T23:1:26Z
 
 The several Spellings of some Proper Names, especially the Prophet's, in Memoir and Appendix, must be excused by the several Writers they are quoted from.
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## I. PROLOGUE.
 
@@ -58,7 +58,7 @@ As none the Beauty from the Veil may know.
 How long wilt thou continue thus the World
 To cozen with the Fantom of a Veil
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 From which Thou only peepest?—Time it is
 To unfold thy perfect Beauty. I would be
@@ -82,7 +82,7 @@ I grow perplext, Oh God! ’twixt “I” and “Thou;”
 If I—this Dignity and Wisdom whence?
 If Thou—then what this abject Impotence?
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 A Kurd perplext by Fortune's Frolics
 Left his Desert for the City.
@@ -124,7 +124,7 @@ Or if not that, yet, as the little Cup
 Whose Name I go by, not unworthy found
 To pass thy salutary Vintage round!
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ## II.
 
@@ -151,7 +151,7 @@ My Teeth fall out—my two Eyes see no more
 Till by Feringhi Glasses turn’d to Four;
 Pain sits with me sitting behind my knees,
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 From which I hardly rise unhelpt of hand;
 I bow down to my Root, and like a Child
@@ -179,7 +179,7 @@ The Field of Verse, to chaunt that double Praise,
 And in that Memory refresh my Soul
 Until I grasp the Skirt of Living Presence.
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 One who travel’d in the Desert
 Saw Majnún where he was sitting
@@ -217,7 +217,7 @@ I look’d about for Refuge, and Behold!
 A Palace was before me; whither running
 For Refuge from the coming Soldiery,
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 Suddenly from the Troop a Sháhzemán,
 By Name and Nature Hasan—on the Horse
@@ -241,7 +241,7 @@ To steady Writing; for perchance, I thought,
 From the same Fountain whence the Vision grew
 The Interpretation also may come True.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 Breathless ran a simple Rustic
 To a Cunning Man of Dreams;
@@ -278,7 +278,7 @@ To catch the Word of Wisdom from his Lip
 Went in a Girdle round him.—Which The Shah
 Observing, took him to his Secresy;
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Stirr’d not a Step nor set Design afoot
 Without that Sage's sanction; till, so counsel’d,
@@ -309,7 +309,7 @@ a Even Unbelieving Princes,
 “Even These unto Themselves
 “Reap glory and redress the World.”
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 ## V.
 
@@ -335,7 +335,7 @@ And then he turn’d him to The Shah, and said;
 “His Voice shall cheer his Friends to ”Plight,
 “And turn the Foeman's Glory into Flight.”
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 Thus much of a Good Son, whose wholesome Growth
 Approves the Root he grew from; but for one
@@ -372,7 +372,7 @@ Found sufficient Soil and Sap,
 Took to Drinking with his Fellows;
 From a Corner of the House-top
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Ill affronts a Neighbour's Wife,
 Draws his Dagger on the Husband,
@@ -414,7 +414,7 @@ Had heard these Sayings of The Shah, he said,
 “Confounds the prosperous House; a Road of Mire
 “Where whoso falls he rises not again;
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 “A Wine of which whoever tastes shall see
 “Redemption's face no more—one little Sip
@@ -438,7 +438,7 @@ Had heard these Sayings of The Shah, he said,
 “Drinking the Water of the Well of Life
 “One little twist of Temper,—all you've done
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 “Goes all for Nothing. ‘Torment of my Life!’
 “She cries, ‘What have you ever done for me!’—
@@ -474,7 +474,7 @@ Saying—"Never Night or Morning
 
 ![](/image/book/Islam/Salaman_and_Absal/01400.jpg)
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ## VII.
 
@@ -500,7 +500,7 @@ A Moon of Beauty Full; who thus elect
 Salámán of Auspicious Augury
 Should carry in the Garment of her Bounty,
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 Should feed Him with the Flowing of her Breast.
 As soon as she had opened Eyes on him
@@ -524,7 +524,7 @@ Touch’d his Narcissus Eyes—the Musky Locks
 Divided from his Forehead—and embraced
 With Gold and Ruby Girdle his fine Waist.—
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 So rear’d she him till full Fourteen his Years,
 Fourteen-day full the Beauty of his Face,
@@ -550,7 +550,7 @@ The Prize, and shouting “Hál!” drive Home the Ball.
 This done, Salámán bent him as a Bow
 To Shooting—from the Marksmen of the World
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Call’d for an unstrung Bow—himself the Cord
 Fitted unhelpt, and nimbly with his hand
@@ -577,7 +577,7 @@ Men's Ears with Sweetness: Taking up a Harp,
 Between its dry String and his Finger fresh
 Struck Fire; or lifting in his arms a Lute
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 As if a little Child for Chastisement,
 Pinching its Ear such Cries of Sorrow wrung
@@ -603,7 +603,7 @@ He was a Cloud that rain’d upon the World
 Dirhems for Drops; the Banquet of whose Bounty
 Left Hátim's Churlish in Comparison—
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 ## IX.
 
@@ -639,7 +639,7 @@ Answer’d he; "Oh thou that aimest
 
 ![](/image/book/Islam/Salaman_and_Absal/02000.jpg)
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 “Wide of Love, and Lover's Language
 “Wholly misinterpreting;
@@ -671,7 +671,7 @@ Now to the Rose-leaf of her Cheek would add
 Fresh Rose, and then a Grain of Musk lay there,
 The Bird of the Belovéd Heart to snare.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Now with a Laugh would break the Ruby Seal
 That lockt up Pearl; or busied in the Room
@@ -710,7 +710,7 @@ His Hand, and dropt the Skirt of Fortune.
 
 ![](/image/book/Islam/Salaman_and_Absal/02200.jpg)
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 ## XI.
 
@@ -744,7 +744,7 @@ May for ever turn to Loathing;
 And I sit a Bird accurst
 Upon the Shore to die of Thirst.”
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 ## XII.
 
@@ -770,7 +770,7 @@ The Day became a Seventh—the Seventh a Moon—
 The Moon a Year—while they rejoiced together,
 Thinking their Pleasure never was to end.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 ![](/image/book/Islam/Salaman_and_Absal/02500.jpg)
 
@@ -808,7 +808,7 @@ Were torn in twain with the Desire of Him.
 They question’d those about him, and from them
 Heard something; then Himself in Presence summon’d,
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 And, subtly sifting on all sides, so plied
 Interrogation till it hit the Mark,
@@ -835,7 +835,7 @@ First spoke The Shah;—"Salámán, Oh my Soul,
 “Years for thy sake the Crown has worn my Brow,
 “And Years my Foot been growing to the Throne
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 “Only for Thee—Oh spurn them not with Thine;
 “Oh turn thy Face from Dalliance unwise,
@@ -865,7 +865,7 @@ He declared this Parable—
 “Died the Root—and with it died
 “The Branch—and barren was brought down!”
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 ## XV.
 
@@ -896,7 +896,7 @@ The Shah ceased Counsel, and The Sage began.
 “For Thou art Greater yet than all I tell)—
 “The Mighty Hand that mix’d thy Dust inscribed
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 “The Character of Wisdom on thy Heart;
 “Oh Cleanse thy Bosom of Material Form,
@@ -933,7 +933,7 @@ Chanticleer—"Oh Voice of Morning,
 
 ![](/image/book/Islam/Salaman_and_Absal/02900.jpg)
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ## XVII.
 
@@ -964,7 +964,7 @@ Grows stubborn, and increases the Disease.
 Love unreproved is a delicious food;
 Reproved, is Feeding on one's own Heart's Blood.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 ![](/image/book/Islam/Salaman_and_Absal/03100.jpg)
 
@@ -1003,7 +1003,7 @@ Answer’d She, "Without my Lover,
 “And the Ant's eye wider were
 “Than Heaven, my Lover with me there!”
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 ## XIX.
 
@@ -1035,7 +1035,7 @@ In Flight, was feather’d with a little Sail,
 And, pitcht upon the Water like a Duck,
 So with her Bosom sped to her Desire.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 When they had sail’d their Vessel for a Moon,
 And marr’d their Beauty with the wind o’ th’ Sea,
@@ -1064,7 +1064,7 @@ Together like the Body and the Soul.
 Under its Trees in one another's Arms
 They slept—they drank its Fountains hand in hand—
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Sought Sugar with the Parrot—or in Sport
 Paraded with the Peacock—raced the Partridge
@@ -1105,7 +1105,7 @@ When by and bye The Shah was made aware
 Of that Soul-wasting absence of his Son,
 He reach’d a Cry to Heav’n—his Eyelashes
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Wept Blood—Search everywhere he set a-foot,
 But none could tell the hidden Mystery.
@@ -1134,7 +1134,7 @@ The Arrows that assail the Lords of Sorrow
 Come from the Hand of Retribution.
 Do Well, that in thy Turn Well may betide Thee;
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 And turn from Ill, that Ill may turn beside Thee.
 
@@ -1175,7 +1175,7 @@ And Lo! Salámán to his Mistress turn’d,
 But could not reach her—look’d and look’d again,
 And palpitated tow'rd her—but in Vain!
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Oh Misery! what to the Bankrupt worse
 Than Gold he cannot reach! To one Athirst
@@ -1211,7 +1211,7 @@ When The Shah saw Salámán's face again,
 And breath’d the Breath of Reconciliation,
 He laid the Hand of Love upon his Shoulder,
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 The Kiss of Welcome on his Cheek, and said,
 “Oh Thou, who lost, Love's Banquet lost its Salt,
@@ -1235,7 +1235,7 @@ The Kiss of Welcome on his Cheek, and said,
 
 ![](/image/book/Islam/Salaman_and_Absal/03800.jpg)
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Four are the Signs of Kingly Aptitude;
 Wise Head—clean Heart—strong Arm —and open Hand.
@@ -1262,7 +1262,7 @@ Love's back-blow of Revenge for having fled!
 Salámán heard—he rent the Robe of Peace
 He came to loathe his Life, and long for Death,
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 (For better Death itself than Life in Death)
 He turn’d his face with Absál to the Desert—
@@ -1289,7 +1289,7 @@ And when the Forty Mornings pass’d to Night,
 Then came one Morning-Shower—one Morning-Shower
 Of Joy—to Forty of the Rain of Sorrow!—
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 And though the better Fortune came at last
 To seal the Work, yet every Wise Man knows
@@ -1312,7 +1312,7 @@ And communed with the Fantom of his Love.
 “Now burnt with thy Remembrance! Oh so long
 “The Light that fed these Eyes now dark with Tears!
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Oh Long, Long Home of Love now lost for Ever!
 “We were Together—that was all Enough—
@@ -1343,7 +1343,7 @@ Quoth he, "Camel of my Soul!—
 “That Lost with Her I lost might be,
 “Or found, She might be found with Me!”
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 ## XXV.
 
@@ -1369,7 +1369,7 @@ He knew not. Then he turn’d him to The Sage—
 “He quickly shall unload his Heart to me,
 “And I will find a Remedy for all.”
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 ## XXVI.
 
@@ -1397,7 +1397,7 @@ The Sage would tell of a Celestial Love;
 “Zuhrah,” he said, "the Lustre of the Stars
 “'Fore whom the Beauty of the Brightest wanes;
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 “Who were she to reveal her perfect Beauty,
 “The Sun and Moon would craze; Zuhrah,” he said,
@@ -1426,7 +1426,7 @@ When the Belov’d of Royal Augury
 Was rescued from the Bondage of Absál,
 Then he arose, and shaking off the Dust
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Of that lost Travel, girded up his Heart,
 And look’d with undefiléd Robe to Heaven.
@@ -1454,7 +1454,7 @@ With the Diamond of Wisdom cut and said:—
 “Eternal, nor the Sum of right Desire;
 “Make thou the Faith-preserving Intellect
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 “Thy Counsellor; and considering To-day
 “To-morrow's Seed-field, ere That come to bear,
@@ -1477,7 +1477,7 @@ With the Diamond of Wisdom cut and said:—
 “Shall bow thy Neck beneath a Double Burden.
 “The Tyrant goes to Hell—follow not Him—
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 “Become not Thou the Fuel of its Fires.
 “Thou art a Shepherd, and thy Flock the People,
@@ -1500,7 +1500,7 @@ With the Diamond of Wisdom cut and said:—
 “Enough is apt enough to make them Rebel)
 “Feeding to such a Surplus as feeds Hell.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 “Proper in Soul and Body be They—pitiful
 “To Poverty—hospitable to the Saint—
@@ -1527,7 +1527,7 @@ And what the Kingdom that awaited him
 When he had drawn his Garment from her Hand?
 What means that Fiery Pile? and what The Sea?
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 And what that Heavenly Zuhrah who at last
 Clear’d Absál from the Mirror of his Soul?
@@ -1556,7 +1556,7 @@ Himself from still a Higher Power receives,
 The Wise, and all who comprehend aright,
 Will recognise that Higher in The Sage.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 His the Prime Spirit that, spontaneously
 Projected by the Tenth Intelligence,
@@ -1584,7 +1584,7 @@ Fell short of his Desire?—That was to show
 How Passion tires, and how with Time begins
 The Folding of the Carpet of Desire
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 And what the turning of Salámán's Heart
 Back to The Shah, and looking to the Throne

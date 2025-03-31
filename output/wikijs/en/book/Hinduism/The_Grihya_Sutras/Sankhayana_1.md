@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 ## ADHYÂYA I, KHA<i>ND</i>A
 
@@ -43,7 +43,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. [^13]. When (a pupil) is going to return (from his teacher), let him keep that fire (as his domestic fire) on which he has put the last piece of wood (as required by the regulations for a student),
 
-3\. Or (he should keep) his nuptial fire. <span id="p13">[<sup><small>p. 13</small></sup>]</span>
+3\. Or (he should keep) his nuptial fire. <span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 4\. Some declare (that the domestic fire should be kindled) at the time of the division of the inheritance.
 
@@ -53,7 +53,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 7\. Some say (that the fire should be kindled) according to the (sacrificer's) wishes under the (corresponding) constellation.
 
-8\. [^15]. He should light his fire at one of the following places, viz. in the house of a Vai<i>s</i>ya who is rich in <span id="p14">[<sup><small>p. 14</small></sup>]</span> cattle, at a frying-pan, or (at the fire of) one who offers many sacrifices.
+8\. [^15]. He should light his fire at one of the following places, viz. in the house of a Vai<i>s</i>ya who is rich in <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> cattle, at a frying-pan, or (at the fire of) one who offers many sacrifices.
 
 9\. [^16]. Some say that (the fire should be fetched from one of the above-mentioned places) in the evening and in the morning.
 
@@ -61,7 +61,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 11\. In the morning he shall offer a full oblation with a verse sacred to Vish<i>n</i>u, or silently.
 
-12\. [^17]. The time for setting it (i.e. the domestic fire) in a blaze and for sacrificing on it has been explained by (the rules given with regard to) the Agnihotra. <span id="p15">[<sup><small>p. 15</small></sup>]</span>
+12\. [^17]. The time for setting it (i.e. the domestic fire) in a blaze and for sacrificing on it has been explained by (the rules given with regard to) the Agnihotra. <span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 13 [^18]. And ‘invested with the sacrificial cord,’ &c., all these rules, as far as they are applicable, should be applied (here also) in consequence of the unity of the ritual.
 
@@ -75,7 +75,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. At the end of the sacrificial acts (follows) the distribution of food to Brâhma<i>n</i>as.
 
-2\. Voice, (pleasantness of) form, age, learning, moral character, (right) conduct are the qualities (required in the Brâhma<i>n</i>as who are to be invited thereto). <span id="p16">[<sup><small>p. 16</small></sup>]</span>
+2\. Voice, (pleasantness of) form, age, learning, moral character, (right) conduct are the qualities (required in the Brâhma<i>n</i>as who are to be invited thereto). <span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 3\. Learning, however, outweighs every (other qualification).
 
@@ -107,11 +107,11 @@ dateCreated: 2025-1-14T23:38:47Z
 
 He fasts.
 
-2\. [^21]. In the morning, when the sun shines on the <span id="p17">[<sup><small>p. 17</small></sup>]</span> top of the great trees, that is the most auspicious time for all kinds of sacrifices, unless there be a special rule.
+2\. [^21]. In the morning, when the sun shines on the <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> top of the great trees, that is the most auspicious time for all kinds of sacrifices, unless there be a special rule.
 
 3\. [^22]. With a genial mind, clean, on a pure, protected spot, having cooked a full, thin mess of rice, he offers that cooked oblation to the deities of the festivals of the new and full moon, distributing it in the due way.
 
-4\. [^23]. In the oblations of cooked food the acts of taking (the intended oblation), of putting it down (near the fire), and of sprinkling it (with water) are performed with regard to the deities of the (respective) Mantras. <span id="p18">[<sup><small>p. 18</small></sup>]</span>
+4\. [^23]. In the oblations of cooked food the acts of taking (the intended oblation), of putting it down (near the fire), and of sprinkling it (with water) are performed with regard to the deities of the (respective) Mantras. <span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 5 [^24]. And the rules about the portions to be cut off (from the sacrificial food, are valid).
 
@@ -129,7 +129,7 @@ He fasts.
 
 12\. Some say that if he uses grains, he should wash them.
 
-13\. With the other (kinds of food) no such preparation takes place. <span id="p19">[<sup><small>p. 19</small></sup>]</span>
+13\. With the other (kinds of food) no such preparation takes place. <span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 14 [^28]. In the evening (he makes the oblation) to Agni, in the morning to Sûrya,
 
@@ -143,7 +143,7 @@ He fasts.
 
 1\. [^30]. When he has risen in the morning and has sipped water, let him daily repeat his recital.
 
-2\. (This consists of, or is accompanied by, the following texts:) the two verses, ‘To-day, god Savitar’ (Rig-veda V, 82, 4-5); the hymn, ‘Go away, Manasaspati’ (X, 164); the hymn, ‘Right and truth’ (X, 190); the verses, ‘Look down, ye Âdityas,’ to the end of the hymn (VIII, 47, 11-18); <span id="p20">[<sup><small>p. 20</small></sup>]</span> the verse, ‘O Indra, the best treasures’ (II, 21, 6); the verse, ‘The swan dwelling in purity’ (IV, 40, 5); the verse, ‘Adoration to the great ones’ (I, 27, 13); the verse, ‘What we fear, Indra’ (VIII, 50, 13); the verse, ‘And of the sleep’ (I, 120, 12); the verse, ‘He who says to me, O king’ (II, 28, 10); the hymn, ‘Let glory be mine, Agni’ (X, 128); and the five verses,‘ Bliss may create for us’ (V, 51, 11 seq.).
+2\. (This consists of, or is accompanied by, the following texts:) the two verses, ‘To-day, god Savitar’ (Rig-veda V, 82, 4-5); the hymn, ‘Go away, Manasaspati’ (X, 164); the hymn, ‘Right and truth’ (X, 190); the verses, ‘Look down, ye Âdityas,’ to the end of the hymn (VIII, 47, 11-18); <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> the verse, ‘O Indra, the best treasures’ (II, 21, 6); the verse, ‘The swan dwelling in purity’ (IV, 40, 5); the verse, ‘Adoration to the great ones’ (I, 27, 13); the verse, ‘What we fear, Indra’ (VIII, 50, 13); the verse, ‘And of the sleep’ (I, 120, 12); the verse, ‘He who says to me, O king’ (II, 28, 10); the hymn, ‘Let glory be mine, Agni’ (X, 128); and the five verses,‘ Bliss may create for us’ (V, 51, 11 seq.).
 
 ## KHA<i>ND</i>A 5.
 
@@ -155,7 +155,7 @@ He fasts.
 
 4\. Having kindled it by rubbing, according to some teachers, at his marriage.
 
-5\. During the northern course of the sun, in the <span id="p21">[<sup><small>p. 21</small></sup>]</span> time of the increasing moon, on an auspicious day he shall seize the hand of a girl,
+5\. During the northern course of the sun, in the <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> time of the increasing moon, on an auspicious day he shall seize the hand of a girl,
 
 6\. Who should possess (the auspicious) characteristics (required),
 
@@ -178,7 +178,7 @@ He fasts.
 
 4\. When these words have been uttered, they ask the girl in marriage, reciting the clan names, the dwellers turning their faces to the east, the visitors to the west.
 
-5\. When the matter pleases both sides, let them touch a full vessel into which have been put flowers, <span id="p22">[<sup><small>p. 22</small></sup>]</span> fried grain, fruits, barley, and gold, and let them recite (the formula), ‘Undisturbed art thou, the undisturbable vigour of the gods, not cursed, protecting against a curse, unexposed to a curse. Might I straightway attain to truth. Put me into prosperity.’
+5\. When the matter pleases both sides, let them touch a full vessel into which have been put flowers, <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> fried grain, fruits, barley, and gold, and let them recite (the formula), ‘Undisturbed art thou, the undisturbable vigour of the gods, not cursed, protecting against a curse, unexposed to a curse. Might I straightway attain to truth. Put me into prosperity.’
 
 6\. [^37]. With the verse, ‘Offspring may produce us’ (Rig-veda X, 85, 43), the Â<i>k</i>ârya of the girl's (family), standing up, places (the vessel) on her head (saying), ‘Offspring I put into thee, cattle I put into thee, splendour and holy lustre I put into thee.’
 
@@ -190,7 +190,7 @@ He fasts.
 
 3\. [^39]. (Let him consider in the ceremonies to be performed,) of the two eastern intermediate directions, the southern one as that to which (the rites) should be directed, if the rites belong to the Manes,
 
-of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, should be considered as that to which the ceremonies sacred to the gods, such as oblations, &c., are to be directed.'—Comp. Â<i>valâyana-</i>valâyana-<i>S</i>raut. I, 12, 4.} <span id="p23">[<sup><small>p. 23</small></sup>]</span>
+of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, should be considered as that to which the ceremonies sacred to the gods, such as oblations, &c., are to be directed.'—Comp. Â<i>valâyana-</i>valâyana-<i>S</i>raut. I, 12, 4.} <span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 4\. The northern one, if the rites belong to the gods,
 
@@ -206,7 +206,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 10\. Or (he carries it forward) silently,
 
-11\. Then he wipes with his wet hand three times around the fire, turning his right side to it. This they call SAMÛHANA (sweeping together). <span id="p24">[<sup><small>p. 24</small></sup>]</span>
+11\. Then he wipes with his wet hand three times around the fire, turning his right side to it. This they call SAMÛHANA (sweeping together). <span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 12\. Once, turning his left side to it, in the rites belonging to the Manes.
 
@@ -228,7 +228,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 8\. [^44]. Carries forward on the north side the Pra<i>n</i>îtâ waters with the words, ‘Who carries ye forward?’—
 
-9\. [^45]. Takes up with the left hand the Ku<i>s</i>a blades, and arranges them (on the ground) with the right hand, <span id="p25">[<sup><small>p. 25</small></sup>]</span>
+9\. [^45]. Takes up with the left hand the Ku<i>s</i>a blades, and arranges them (on the ground) with the right hand, <span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 10\. Bending his right knee,
 
@@ -252,7 +252,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 20\. [^50]. Takes it from the fire towards the north with the words, ‘For juice thee;’
 
-21\. [^51]. And holding the two (Ku<i>s</i>a) strainers with their points to the north, seizing them on both sides <span id="p26">[<sup><small>p. 26</small></sup>]</span> with his two thumbs and fourth fingers, he bends them down, the points upwards, and dips them into the Â<i>s</i>ya with the words,
+21\. [^51]. And holding the two (Ku<i>s</i>a) strainers with their points to the north, seizing them on both sides <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> with his two thumbs and fourth fingers, he bends them down, the points upwards, and dips them into the Â<i>s</i>ya with the words,
 
 ‘By the impulse of Savitar I purify thee with this uninjured purifier, with the rays of the good sun.’
 
@@ -270,7 +270,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 2\. According to the purpose the properties (of the different things to be used at each oblation) should be chosen.
 
-3\. [^54]. Taking up Ku<i>s</i>a blades with the left, and the <span id="p27">[<sup><small>p. 27</small></sup>]</span> Sruva at its bottom with the right hand, with the words, ‘The hand of Vish<i>s</i>u art thou’—
+3\. [^54]. Taking up Ku<i>s</i>a blades with the left, and the <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> Sruva at its bottom with the right hand, with the words, ‘The hand of Vish<i>s</i>u art thou’—
 
 4\. [^55]. He offers with the Sruva the Â<i>g</i>ya oblations.
 
@@ -288,11 +288,11 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 ‘Pûshan is rich in kindred; may he make me rich in kindred by the father, the mother, the brothers of N.N.; svâhâ!’
 
-10\. [^58]. At the Â<i>ya oblations the offering of the two Â</i>ya oblations the offering of the two Â<i>ya oblations the offering of the two Â</i>ya portions and of the Svish<i>ya oblations the offering of the two Â</i>ak<i>ya oblations the offering of the two Â</i>t oblation is not standing, <span id="p28">[<sup><small>p. 28</small></sup>]</span>
+10\. [^58]. At the Â<i>ya oblations the offering of the two Â</i>ya oblations the offering of the two Â<i>ya oblations the offering of the two Â</i>ya portions and of the Svish<i>ya oblations the offering of the two Â</i>ak<i>ya oblations the offering of the two Â</i>t oblation is not standing, <span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 11 [^59]. Nor in the standing oblations, according to Mâ<i>ya oblations the offering of the two Â</i><i>ya oblations the offering of the two Â</i>ûkeya.
 
-12\. [^60]. The place for the insertion is the interval between the Mahâvyâh<i>ri</i>tis, the general expiation, and the oblation to Pra<i>ri</i>âpati. <span id="p29">[<sup><small>p. 29</small></sup>]</span>
+12\. [^60]. The place for the insertion is the interval between the Mahâvyâh<i>ri</i>tis, the general expiation, and the oblation to Pra<i>ri</i>âpati. <span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 13\. If the oblation consists in Â<i>ri</i>ya, let him seize the Ku<i>ri</i>a blades in his left hand with his right hand at their points and with the left at their roots, and let him wet their points (with Â<i>ri</i>ya) in the Sruva, the middle and the roots in the Â<i>ri</i>ya pot;
 
@@ -306,7 +306,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 18\. Oblations for which only the deities are indicated, but no texts prescribed, are to be made merely with the word SVÂHÂ, ‘To such and such a deity svâhâ! To such and such a deity svâhâ!’
 
-19\. [^62]. The ritual (here) declared of the sacrifice (to <span id="p30">[<sup><small>p. 30</small></sup>]</span> be performed) when (the father's) assent (to give away his daughter) has been declared—
+19\. [^62]. The ritual (here) declared of the sacrifice (to <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> be performed) when (the father's) assent (to give away his daughter) has been declared—
 
 ## KHA<i>ND</i>A 10.
 
@@ -320,7 +320,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 5\. [^66]. These are performed, all the offerings of cooked food, without PRAYÂ_G_A and ANUYÂ_G_A oblations, without (the invocation of) the I_L_Â, without NIGADA recitation, and without SÂMIDHENÎ verses.
 
-6\. There are also the following <i>S</i>lokas: <span id="p31">[<sup><small>p. 31</small></sup>]</span>
+6\. There are also the following <i>S</i>lokas: <span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 7 [^67]. '(An oblation is called) HUTA, (if made) by the performing of the Agnihotra; AHUTA (i.e. unsacrificed, if) by the Bali offering; PRAHUTA (i.e. sacrificed up, if) by a sacrifice to the Manes; PRÂ_S_ITA (i.e. tasted, if) deposited as an offering in a Brâhma<i>n</i>a.
 
@@ -332,7 +332,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 1\. [^70]. Now when the bride is to be carried away (to the bridegroom's house) that night, or on the next, or on the third night,
 
-2\. [^71]. On that night, when (the darkness of) night is gone, they wash the girl up to her head with (water that has been made fragrant by) all sorts of herbs and the choicest fruits together with scents; <span id="p32">[<sup><small>p. 32</small></sup>]</span>
+2\. [^71]. On that night, when (the darkness of) night is gone, they wash the girl up to her head with (water that has been made fragrant by) all sorts of herbs and the choicest fruits together with scents; <span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 3\. They put on her a newly-dyed garment or (a new one) which has not yet been washed;
 
@@ -352,7 +352,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 2\. To these he shall not behave unobsequiously, except where forbidden food or a transgression is concerned.
 
-3\. Having obtained their permission, he then gives her the garment with (the verse), ‘The Raibhî was’ (Rig-veda X, 85, 6). <span id="p33">[<sup><small>p. 33</small></sup>]</span>
+3\. Having obtained their permission, he then gives her the garment with (the verse), ‘The Raibhî was’ (Rig-veda X, 85, 6). <span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 4\. With (the verse), ‘Mind was the cushion’ (ibid. 7) he takes up the salve-box.
 
@@ -364,11 +364,11 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 8\. Her relations tie (to her body) a red and black, woollen or linen cord with three (amulet) gems, with the verse, ‘Dark-blue and red’ (Rig. veda X, 85, 28).
 
-9\. With the verse, ‘Full of honey the herbs’ (Rig-veda IV, 57, 3), (the bridegroom) ties (to her body) Madhûka flowers. <span id="p34">[<sup><small>p. 34</small></sup>]</span>
+9\. With the verse, ‘Full of honey the herbs’ (Rig-veda IV, 57, 3), (the bridegroom) ties (to her body) Madhûka flowers. <span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 10 [^75]. At the wedding one cow, when the Argha ceremony has been performed; in the house one cow: these are the two Madhuparka cows.
 
-11\. [^76]. (The bridegroom) makes the girl sit down behind the fire, and while she takes hold of him he makes three oblations with the Mahâvyâh<i>ri</i>tis. <span id="p35">[<sup><small>p. 35</small></sup>]</span>
+11\. [^76]. (The bridegroom) makes the girl sit down behind the fire, and while she takes hold of him he makes three oblations with the Mahâvyâh<i>ri</i>tis. <span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 12\. A fourth (oblation) with (the three Mahâvyâh<i>ri</i>tis) together is to be understood from this rule.
 
@@ -382,7 +382,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 3\. And when he has murmured the following five verses,
 
-4\. [^77]. (He continues thus,) 'This am I, that art thou; <span id="p36">[<sup><small>p. 36</small></sup>]</span> that art thou, this am I; the heaven I, the earth thou; the <i>Rik<i> art thou, the Sâman I. So be thou devoted to me.
+4\. [^77]. (He continues thus,) 'This am I, that art thou; <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> that art thou, this am I; the heaven I, the earth thou; the <i>Rik<i> art thou, the Sâman I. So be thou devoted to me.
 
 ‘Well! Let us here marry. Let us beget offspring. Let us acquire many sons who may reach old age.’
 
@@ -394,7 +394,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 8\. And hands it over to a student who observes silence.
 
-9\. [^79]. They should walk round this Stheyâ water, (placed) to the north-east, so that they turn their right sides . towards it. <span id="p37">[<sup><small>p. 37</small></sup>]</span>
+9\. [^79]. They should walk round this Stheyâ water, (placed) to the north-east, so that they turn their right sides . towards it. <span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 10\. And after (the Â<i>k</i>ârya) has placed a stone towards the northern direction,
 
@@ -416,7 +416,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 1\. ‘This woman, strewing grains, prays thus, “May I bring bliss to my relations; may my husband live long. Svâhâ!”’—while the husband murmurs (this) text, she sacrifices standing.
 
-2\. [^81]. (All the ceremonies,) beginning from the treading <span id="p38">[<sup><small>p. 38</small></sup>]</span> upon the stone, (are repeated) in the same way for a second time,
+2\. [^81]. (All the ceremonies,) beginning from the treading <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> upon the stone, (are repeated) in the same way for a second time,
 
 3\. And in the same way a third time.
 
@@ -436,7 +436,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 11\. Let him give something to the Brâhma<i>n</i>as each time at the Sthâlîpâkas and other rites;
 
-12\. [^85]. To him who knows the Sûryâ hymn the bride's shift. <span id="p39">[<sup><small>p. 39</small></sup>]</span>
+12\. [^85]. To him who knows the Sûryâ hymn the bride's shift. <span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 13 [^86]. A cow is the optional gift to be given by a Brâhma<i>n</i>a,
 
@@ -454,7 +454,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 2\. ‘The living one they bewail’ (Rig-veda X, 40, 10), if she begins to cry.
 
-3\. [^88]. The wife then smears the axle of the chariot with clarified butter with this (verse), ‘They feasted, they got drunk’ (Rig-veda I, 82, 2), <span id="p40">[<sup><small>p. 40</small></sup>]</span>
+3\. [^88]. The wife then smears the axle of the chariot with clarified butter with this (verse), ‘They feasted, they got drunk’ (Rig-veda I, 82, 2), <span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 4\. And with the two (verses), ‘Pure are thy wheels,’ ‘Thy two wheels’ (Rig-veda X, 85, 12. 16), of the two wheels the first with the first (verse) and the second with the second (verse),
 
@@ -480,7 +480,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 15\. ‘Which the woman’s’ (ibid. 31), near a cemetery;
 
-16\. The half-verse, ‘O tree with thy hundred <span id="p41">[<sup><small>p. 41</small></sup>]</span> branches’ (Rig-veda III, 8, 11), he mutters near a big tree;
+16\. The half-verse, ‘O tree with thy hundred <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> branches’ (Rig-veda III, 8, 11), he mutters near a big tree;
 
 17\. ‘The good protectress’ (Rig-Veda X, 63, 10), when she ascends a ship;
 
@@ -502,7 +502,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 3\. 'With god Agni, with the earth-world of the worlds, and the Rig-veda of the Vedas: therewith I appease thee, N.N., svâhâ!
 
-‘With god Vâyu, with the air-world of the worlds, <span id="p42">[<sup><small>p. 42</small></sup>]</span> with the Ya<i>g</i>ur-veda of the Vedas: therewith I appease thee, N.N., svâhâ!
+‘With god Vâyu, with the air-world of the worlds, <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> with the Ya<i>g</i>ur-veda of the Vedas: therewith I appease thee, N.N., svâhâ!
 
 ‘With god Sûrya, with the heaven-world of the worlds, with the Sâma-veda of the Vedas: therewith I appease thee, N.N., svâhâ!
 
@@ -516,7 +516,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 7\. And having quickly recited the four verses, ‘And those divine medicines’ (Rig-veda VIII, 18, 8), at the end (of that text) with the word svâhâ (pours out) the remainder on (her) head.
 
-8\. [^92]. Here some place a boy of good birth on both sides, in her lap, with this (verse), ‘Into thy womb’ (see below, chap. 19, 6), <span id="p43">[<sup><small>p. 43</small></sup>]</span>
+8\. [^92]. Here some place a boy of good birth on both sides, in her lap, with this (verse), ‘Into thy womb’ (see below, chap. 19, 6), <span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 9\. Or also silently.
 
@@ -544,7 +544,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 8\. Let them serve the nuptial fire in the evening and in the morning with the words, ‘To Agni svâhâ! To Agni Svish<i>t</i>ak<i>t</i>t svâhâ!’
 
-9\. ‘Let the two men Mitra and Varu<i>n</i>a, let the two men, the A<i>n</i>vins both, let the man Indra and also Agni make a man grow in me. Svâhâ!’—with <span id="p44">[<sup><small>p. 44</small></sup>]</span> (these words she offers) the first oblation if she is desirous of pregnancy.
+9\. ‘Let the two men Mitra and Varu<i>n</i>a, let the two men, the A<i>n</i>vins both, let the man Indra and also Agni make a man grow in me. Svâhâ!’—with <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> (these words she offers) the first oblation if she is desirous of pregnancy.
 
 10\. For ten days they are not to set out (from home).
 
@@ -572,7 +572,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 19.
 
@@ -594,7 +594,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 ‘Pra<i>g</i>âpati has created him, Savitar has shaped him. Imparting birth of females to other (women) may he put here a man.
 
-‘From the auspicious sperms which the men pro— <span id="p46">[<sup><small>p. 46</small></sup>]</span> duce for us, produce thou a son; be a well-breeding cow.
+‘From the auspicious sperms which the men pro— <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> duce for us, produce thou a son; be a well-breeding cow.
 
 ‘Roar, be strong, put into her an embryo, achieve it; a male, thou male, put into her; to generation we call thee.
 
@@ -615,7 +615,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 21.
 
@@ -645,7 +645,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 7\. (He then sacrifices with the following texts,) 'May Dhâtar give to his worshipper further life and safety; may we obtain the favour of the god whose laws are truthful.
 
-‘Dhâtar disposes of offspring and wealth; Dhâtar has created this whole world; Dhâtar will give a <span id="p48">[<sup><small>p. 48</small></sup>]</span> son to the sacrificer: to him you shall sacrifice, an offering rich in ghee.’
+‘Dhâtar disposes of offspring and wealth; Dhâtar has created this whole world; Dhâtar will give a <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> son to the sacrificer: to him you shall sacrifice, an offering rich in ghee.’
 
 (Besides) with the three verses, ‘Ne<i>g</i>amesha, fly away’ (Rig-veda Khailika sûkta, after X, 184, vol. vi, p. 31), and in the sixth place the verse, ‘Pra<i>g</i>âpati’ (Rig-veda X, 121, 10).
 
@@ -659,7 +659,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 12\. ‘Or if anybody else is still more valiant.’
 
-13\. [^101]. Having poured fried grain into a water-pot, let him cause her to drink it with the six verses, <span id="p49">[<sup><small>p. 49</small></sup>]</span> ‘May Vish<i>n</i>u take care of thy womb,’ ‘I call Râkâ’ (Rig-veda X, 184, 1; II, 32, 4-8).
+13\. [^101]. Having poured fried grain into a water-pot, let him cause her to drink it with the six verses, <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> ‘May Vish<i>n</i>u take care of thy womb,’ ‘I call Râkâ’ (Rig-veda X, 184, 1; II, 32, 4-8).
 
 14\. Let him then touch her (with the words),
 
@@ -681,7 +681,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 ## KHA<i>ND</i>A 24.
 
-1\. [^104]. Now the Gâtakarman (i.e. ceremony for the new-born child). <span id="p50">[<sup><small>p. 50</small></sup>]</span>
+1\. [^104]. Now the Gâtakarman (i.e. ceremony for the new-born child). <span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 2 [^105]. Let (the father) breathe three times on the new-born child and then draw in his breath with the words, ‘Draw in your breath with the _Ri__k_, breathe within with the Ya<i>g</i>us, breathe forth with the Sâman.’
 
@@ -693,7 +693,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 6\. On the tenth day a name for common use, which is pleasing to the Brâhma<i>n</i>as.
 
-7\. Let him pulverise black and white and red hairs of a black ox, intermix (that powder) with those four substances (see Sûtra 3), and give it to eat (to the child) four times: such (is the opinion of) Mâ<i>nd</i>ûkeya. <span id="p51">[<sup><small>p. 51</small></sup>]</span>
+7\. Let him pulverise black and white and red hairs of a black ox, intermix (that powder) with those four substances (see Sûtra 3), and give it to eat (to the child) four times: such (is the opinion of) Mâ<i>nd</i>ûkeya. <span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 8 [^106]. If he likes (let him do so) with the words, 'Bhû_h_! The Rig-veda I lay into thee, N.N., svâhâ!
 
@@ -717,7 +717,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 ## KHA<i>ND</i>A 25.
 
-1\. [^108]. After ten days the getting up (of the mother from childbed). <span id="p52">[<sup><small>p. 52</small></sup>]</span>
+1\. [^108]. After ten days the getting up (of the mother from childbed). <span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 2\. Father and mother with washed heads, wearing (new) clothes which have not yet been washed;
 
@@ -741,7 +741,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 26.
 
@@ -783,7 +783,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 19\. To the Vi<i>s</i>ve devâs, to the Ashâ<i>s</i>âs.
 
-20\. To Brahman, to Abhi<i>g</i>it. <span id="p54">[<sup><small>p. 54</small></sup>]</span>
+20\. To Brahman, to Abhi<i>g</i>it. <span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 21\. To Vish<i>g</i>u, to _S<i>g</i>n_a.
 
@@ -815,7 +815,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 6\. (Such) food, prepared with milk curds, honey, and ghee, he should give (to the child) to eat.
 
-7\. [^115]. After he has made oblations with (the verses), ‘Lord of food, give us food, painless and strong; bring forward the giver; bestow power on us, on men and animals;’ ‘Whatsoever’ (Rig-veda IV, 12, 4); ‘Even of great’ (ibid. 5), ‘Him, Agni, (lead) to long life and splendour; sharp strength (mayst thou), Varu<i>n</i>a, king Soma, protection may Aditi, like a <span id="p55">[<sup><small>p. 55</small></sup>]</span> mother, afford to him, and all the gods that he may reach old age’—
+7\. [^115]. After he has made oblations with (the verses), ‘Lord of food, give us food, painless and strong; bring forward the giver; bestow power on us, on men and animals;’ ‘Whatsoever’ (Rig-veda IV, 12, 4); ‘Even of great’ (ibid. 5), ‘Him, Agni, (lead) to long life and splendour; sharp strength (mayst thou), Varu<i>n</i>a, king Soma, protection may Aditi, like a <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> mother, afford to him, and all the gods that he may reach old age’—
 
 8\. And has recited over (the child) the verse, ‘Powers of life, Agni’ (Rig-veda IX, 66, 19),
 
@@ -843,7 +843,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 8\. He pours cold water into warm with (the verse), ‘Mix yourselves, ye holy ones, with your waves, ye honied ones, mixing milk with honey, ye lovely ones, for the obtaining of wealth.’
 
-9\. 'May the waters moisten thee for life, for old age and splendour. The threefold age of <i>G</i>amadagni, Ka<i>s</i>yapa's threefold age, the threefold age of <span id="p56">[<sup><small>p. 56</small></sup>]</span> Agastya, the threefold age that belongs to the gods, that threefold age I produce for thee! N.N.!'—with these words he sprinkles the right part of his hair three times with lukewarm water.
+9\. 'May the waters moisten thee for life, for old age and splendour. The threefold age of <i>G</i>amadagni, Ka<i>s</i>yapa's threefold age, the threefold age of <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> Agastya, the threefold age that belongs to the gods, that threefold age I produce for thee! N.N.!'—with these words he sprinkles the right part of his hair three times with lukewarm water.
 
 10\. Having loosened the tangled locks, according to some (teachers), with a porcupine's quill,
 
@@ -863,7 +863,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 18\. Under the armpits a sixth and a seventh time at the Godânakarman (ceremony of shaving the beard).
 
-19\. The Godânakarman is identical with the _K<i>û</i>d_âkarman, <span id="p57">[<sup><small>p. 57</small></sup>]</span>
+19\. The Godânakarman is identical with the _K<i>û</i>d_âkarman, <span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 20\. (It is to be performed) in the sixteenth or in the eighteenth year.
 

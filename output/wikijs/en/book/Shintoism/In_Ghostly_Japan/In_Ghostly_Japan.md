@@ -32,9 +32,9 @@ dateCreated: 2025-2-12T12:5:1Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 IN GHOSTLY JAPAN
 
@@ -60,7 +60,7 @@ AND it was at the hour of sunset that they came to the foot of the mountain. The
 
 Then the Bodhisattva said to his young companion:—“What you have asked to see will be shown to you. But the place of the Vision is far; and the way is rude. Follow after me, and do not fear: strength will be given you.”
 
-Twilight gloomed about them as they climbed. There was no beaten path, nor any mark of former human visitation; and the way was over an endless heaping of tumbled fragments that rolled <span id="p4">[<sup><small>p. 4</small></sup>]</span>r turned beneath the foot. Sometimes a mass dislodged would clatter down with hollow echoings;—sometimes the substance trodden would burst like an empty shell. . . . Stars pointed and thrilled;—and the darkness deepened.
+Twilight gloomed about them as they climbed. There was no beaten path, nor any mark of former human visitation; and the way was over an endless heaping of tumbled fragments that rolled <span id="p4"><sup><small>[ p. 4 ]</small></sup></span>r turned beneath the foot. Sometimes a mass dislodged would clatter down with hollow echoings;—sometimes the substance trodden would burst like an empty shell. . . . Stars pointed and thrilled;—and the darkness deepened.
 
 “Do not fear, my son,” said the Bodhisattva, guiding: “danger there is none, though the way be grim.”
 
@@ -72,7 +72,7 @@ And once the pilgrim-youth laid hand on a something smooth that was not stone,�
 
 “Linger not thus, my son!” urged the voice of the teacher;—“the summit that we must gain is very far away!”
 
-On through the dark they climbed,—and felt continually beneath them the soft strange <span id="p5">[<sup><small>p. 5</small></sup>]</span>reakings,—and saw the icy fires worm and die,—till the rim of the night turned grey, and the stars began to fail, and the east began to bloom.
+On through the dark they climbed,—and felt continually beneath them the soft strange <span id="p5"><sup><small>[ p. 5 ]</small></sup></span>reakings,—and saw the icy fires worm and die,—till the rim of the night turned grey, and the stars began to fail, and the east began to bloom.
 
 Yet still they climbed,—fast, fast,—mounting by help of power superhuman. About them now was frigidness of death,—and silence tremendous. . . . A gold flame kindled in the east.
 
@@ -82,7 +82,7 @@ Then first to the pilgrim's gaze the steeps, revealed their nakedness;—and a t
 
 Behind them the world had vanished. Nothing remained but the clouds beneath, and the sky above, and the heaping of skulls between,—upslanting out of sight.
 
-Then the sun climbed with the climbers; and there was no warmth in the light of him, but <span id="p6">[<sup><small>p. 6</small></sup>]</span>oldness sharp as a sword. And the horror of stupendous height, and the nightmare of stupendous depth, and the terror of silence, ever grew and grew, and weighed upon the pilgrim, and held his feet,—so that suddenly all power departed from him, and he moaned like a sleeper in dreams.
+Then the sun climbed with the climbers; and there was no warmth in the light of him, but <span id="p6"><sup><small>[ p. 6 ]</small></sup></span>oldness sharp as a sword. And the horror of stupendous height, and the nightmare of stupendous depth, and the terror of silence, ever grew and grew, and weighed upon the pilgrim, and held his feet,—so that suddenly all power departed from him, and he moaned like a sleeper in dreams.
 
 “Hasten, hasten, my son!” cried the Bodhisattva: “the day is brief, and the summit is very far away.”
 
@@ -100,7 +100,7 @@ The other, shuddering, repeated:—
 
 “I fear!—unutterably I fear! . . . there is nothing but skulls of men!”
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 “A mountain of skulls it is,” responded the Bodhisattva. “But know, my son, that all of them ARE YOUR OWN! Each has at some time been the nest of your dreams and delusions and desires. Not every one of them is the skull of any other being. All,—all without exception,—have been yours, in the billions of your former lives.”
 

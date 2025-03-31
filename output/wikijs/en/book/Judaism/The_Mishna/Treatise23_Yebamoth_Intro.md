@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 ‏סדר נשים‎
 
@@ -52,7 +52,7 @@ Thirdly, that when the brother-in-law cannot marry the widow on account of near 
 
 This Treatise contains also many regulations having reference to the marriage laws in general, and is the first of the class or division of the Mishna called ‏נשים‎, or laws relating to _women_ \[i.e. to marriage, divorce, &c.\], because Yeboom is not a voluntary action, like marriage, or divorce, as the person on whom that duty devolves can be judicially compelled either to marry his widowed sister-in-law, or to allow her to perform the ceremony of Chalitzah to him.
 
-We have found it indispensable, in order to avoid the almost constant <span id="p201">[<sup><small>p. 201</small></sup>]</span> repetition of tedious circumlocution and periphrase, to retain a few Hebrew terms which recur in almost every section, viz. ‏יבום‎ _Yeboom;_ and ‏חליצה‎, _Chalitzah;_ which have already been explained; also ‏גט‎, _get_, letter of divorce; and ‏כתובה‎, _ketoobah;_ or marriage contract.
+We have found it indispensable, in order to avoid the almost constant <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> repetition of tedious circumlocution and periphrase, to retain a few Hebrew terms which recur in almost every section, viz. ‏יבום‎ _Yeboom;_ and ‏חליצה‎, _Chalitzah;_ which have already been explained; also ‏גט‎, _get_, letter of divorce; and ‏כתובה‎, _ketoobah;_ or marriage contract.
 
 <figure class="table chapter-navigator">
   <table>

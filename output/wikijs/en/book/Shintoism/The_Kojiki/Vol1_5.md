@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:5:45Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 RECORDS OF ANCIENT MATTERS
 
@@ -42,9 +42,9 @@ The names of the Deities [^125] that were born [^126] in the Plain of High Heave
 
 The five Deities in the above list are separate Heavenly Deities. [^135]
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ## SECT. II.—THE SEVEN DIVINE GENERATIONS.
 
@@ -54,33 +54,33 @@ From the Earthly-Eternally-Standing Deity down to the Deity the Female-Who-Invit
 
 (The two solitary Deities above \[-mentioned\] are each called one generation. Of the succeeding ten Deities each pair of deities is called a generation.) [^144]
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 ## SECT. III.—THE ISLAND OF ONOGORO
 
 Hereupon all the Heavenly Deities commanded the two Deities His Augustness the Male-Who-Invites and Her Augustness [^145] the Female-Who-Invites, ordering them to “make, consolidate, and give birth to this drifting land.” Granting to them an heavenly jewelled spear, [^146] they \[thus\] deigned to charge them. So the two Deities, standing upon the Floating Bridge of Heaven, [^147] pushed \[19\] down the jewelled spear and stirred with it, whereupon, when they had stiffed the brine till it went curdle-curdle, [^148] and drew \[the spear\] up, the brine that dripped down from the end of the spear was piled up and became an island. This is the Island of Onogoro. [^149]
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 ## SECT. IV.—COURTSHIP OF THE DEITIES THE MALE-WHO-INVITES AND THE FEMALE WHO-INVITES.
 
-Having descended from Heaven onto this island, they saw to the erection [^150] of an heavenly august pillar, they saw to the erection of an hall of eight fathoms. [^151] Tunc \[20\] quæsivit \[Augustus Mas-Qui-Invitat\] a minore sorore Augustâ Feminâ-Qui-Invitat: “Tuum corpus quo in modo factum est?” Respondit dicens: “Meum corpus crescens crevit, sed est una pars quæ non crevit continua.” Tunc dixit Augustus Mas-Qui-Invitat: “Meum corpus crescens crevit, sed est una pars quæ crevit superflua. Ergo an bonum erit ut hanc corporis mei partem quæ crevit, superflua in tui corporis partem quæ non crevit continua inseram, et regiones procreem?” Augusta Femina-Quæ-Invitat respondit dicens: “Bonum erit.” Tunc dixit Augustus Mas-Qui-Invitat: “Quod <span id="p21">[<sup><small>p. 21</small></sup>]</span> quum ita sit, ego et tu hanc cœlestem augustam, columnam circumeuntes mutuoque occurrentes, augustarum \[_i.e._ privatarum\] partium augustam coitionem faciemus.” [^152] Hâc pactione factâ, dixit \[Augustus Mas-Qui-Invitat\]: “Tu a dexterâ circumeuns occurre; ego a sinistrâ occurram.” Absolutâ pactione ubi circumierunt, Augusta Femina-Qui-Invitat primum inquit: “O venuste et amabilis adolescens!” Deinde Augustus Mas-Qui-Invitat inquit: “O venusta et amabilis virgo!” Postquam singuli orationi finem fecerunt, \[Augustus Mas-Qui-Invitat\] locutus est sorori, dicens: “Non decet feminam primum verba facere.” Nihilominus in thalamo \[opus procreationis\] inceperunt, et filium \[nomine\] Hirudinem [^153] \[vel Hirudini similem\] pepererunt. This child they placed in a boat of reeds, and let it float away. Next they gave birth to the Island of Aha. [^154] This likewise is not reckoned among their children. [^155]
+Having descended from Heaven onto this island, they saw to the erection [^150] of an heavenly august pillar, they saw to the erection of an hall of eight fathoms. [^151] Tunc \[20\] quæsivit \[Augustus Mas-Qui-Invitat\] a minore sorore Augustâ Feminâ-Qui-Invitat: “Tuum corpus quo in modo factum est?” Respondit dicens: “Meum corpus crescens crevit, sed est una pars quæ non crevit continua.” Tunc dixit Augustus Mas-Qui-Invitat: “Meum corpus crescens crevit, sed est una pars quæ crevit superflua. Ergo an bonum erit ut hanc corporis mei partem quæ crevit, superflua in tui corporis partem quæ non crevit continua inseram, et regiones procreem?” Augusta Femina-Quæ-Invitat respondit dicens: “Bonum erit.” Tunc dixit Augustus Mas-Qui-Invitat: “Quod <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> quum ita sit, ego et tu hanc cœlestem augustam, columnam circumeuntes mutuoque occurrentes, augustarum \[_i.e._ privatarum\] partium augustam coitionem faciemus.” [^152] Hâc pactione factâ, dixit \[Augustus Mas-Qui-Invitat\]: “Tu a dexterâ circumeuns occurre; ego a sinistrâ occurram.” Absolutâ pactione ubi circumierunt, Augusta Femina-Qui-Invitat primum inquit: “O venuste et amabilis adolescens!” Deinde Augustus Mas-Qui-Invitat inquit: “O venusta et amabilis virgo!” Postquam singuli orationi finem fecerunt, \[Augustus Mas-Qui-Invitat\] locutus est sorori, dicens: “Non decet feminam primum verba facere.” Nihilominus in thalamo \[opus procreationis\] inceperunt, et filium \[nomine\] Hirudinem [^153] \[vel Hirudini similem\] pepererunt. This child they placed in a boat of reeds, and let it float away. Next they gave birth to the Island of Aha. [^154] This likewise is not reckoned among their children. [^155]
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 ## SECT. V.—BIRTH OF THE EIGHT ISLANDS.
 
-Hereupon the two Deities took counsel, saying: “The children to whom we have now given birth are not good. It will be best to announce this in the august \[21\] place [^156] of the Heavenly Deities.” They ascended forthwith to Heaven and enquired of Their Augustnesses the Heavenly Deities. Then the Heavenly Deities commanded and found out by grand divination, [^157] and ordered them, saying: “They were not good because the woman spoke first. Descend back again and amend your words.” So thereupon descending back, they again went round the heavenly august pillar as before. Thereupon his Augustness the Male-Who-Invites spoke first: “Ah! what a fair and lovely maiden! Afterwards his younger sister Her Augustness the Female-Who-Invites spoke: ”Ah! what a fair and lovely youth!“ Tali modo quun orationi finem fecerant, auguste coierunt et pepererunt a child the Island of Ahaji, Ho-no-sa-wake. [^158] Next they gave birth to the Island of Futa-no in Iyo. [^159] This island has one body and four faces, and each face has a name. So the Land of Iyo is called Lovely-Princess; [^160] the Land of Sanuki [^161] is called Prince-Good-Boiled-Rice; [^162] the Land of Aha is called the Princess-of-Great-Food; [^163] the Land of Tosa [^164] is called Brave-Good-Youth. [^165] Next they gave birth to the Islands of Mitsu-go [^166] near Oki, [^167] another name for which \[islands\] is Heavenly-Great-Heart-Youth. [^168] [^169] <span id="p23">[<sup><small>p. 23</small></sup>]</span> This island likewise has one body and four faces [^171] and each face has a name. So the land of Tsukushi is called White-Sun-Youth; [^172] the Land of Toyo [^173] is called Luxuriant-Sun-Youth; [^174] the Land of Hi is called Brave Sun-Confronting-Luxuriant-Wondrous-Lord-Youth; [^175] the Land of Kumaso is called Brave-Sun-Youth. [^176] Next they gave birth to the Island of Iki, [^177] another name for which is Heaven's One-Pillar. [^178] Next they gave birth to the Island of Tsu, [^179] another name for which is Heavenly-Hand-net-Good-Princess. [^180] Next they gave birth to the Island of Sado. [^181] Next they gave birth to Great-Yamato-the-Luxuriant-Island-of-the-Dragon-Fly, [^182] another name for which is Heavenly-August-Sky-Luxuriant-Dragon-fly-Lord-Youth. \[24\] The name of ”Land-of -the- Eight-Great-Islands" [^183] therefore originated in these eight islands having been born first. After that, when they had returned, [^184] they gave birth to the Island of Ko\[-shima\] [^185] in Kibi, [^186] another name for which \[island\] is Brave-Sun [^170] Direction-Youth. Next they gave birth to the Island of Adzuki, [^187] another name for which is Oho-Nu-De-Hime. Next they gave birth to the Island of Oho \[-shima\], [^188] another name for which is Oho-Tamaru-Wake. Next they gave birth to the Island of Hime, [^189] another name for which is Heaven's-One-Root. Next they gave birth to the Island of Chika, [^190] another name for which is Heavenly-Great-Male. Next they gave birth to the Island\[s\] of Futa-go, [^191] another name for which is Heaven's-Two-Houses, (Six islands in all from the Island of Ko, in Kibi to the Island of Heaven's-Two-Houses).
+Hereupon the two Deities took counsel, saying: “The children to whom we have now given birth are not good. It will be best to announce this in the august \[21\] place [^156] of the Heavenly Deities.” They ascended forthwith to Heaven and enquired of Their Augustnesses the Heavenly Deities. Then the Heavenly Deities commanded and found out by grand divination, [^157] and ordered them, saying: “They were not good because the woman spoke first. Descend back again and amend your words.” So thereupon descending back, they again went round the heavenly august pillar as before. Thereupon his Augustness the Male-Who-Invites spoke first: “Ah! what a fair and lovely maiden! Afterwards his younger sister Her Augustness the Female-Who-Invites spoke: ”Ah! what a fair and lovely youth!“ Tali modo quun orationi finem fecerant, auguste coierunt et pepererunt a child the Island of Ahaji, Ho-no-sa-wake. [^158] Next they gave birth to the Island of Futa-no in Iyo. [^159] This island has one body and four faces, and each face has a name. So the Land of Iyo is called Lovely-Princess; [^160] the Land of Sanuki [^161] is called Prince-Good-Boiled-Rice; [^162] the Land of Aha is called the Princess-of-Great-Food; [^163] the Land of Tosa [^164] is called Brave-Good-Youth. [^165] Next they gave birth to the Islands of Mitsu-go [^166] near Oki, [^167] another name for which \[islands\] is Heavenly-Great-Heart-Youth. [^168] [^169] <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> This island likewise has one body and four faces [^171] and each face has a name. So the land of Tsukushi is called White-Sun-Youth; [^172] the Land of Toyo [^173] is called Luxuriant-Sun-Youth; [^174] the Land of Hi is called Brave Sun-Confronting-Luxuriant-Wondrous-Lord-Youth; [^175] the Land of Kumaso is called Brave-Sun-Youth. [^176] Next they gave birth to the Island of Iki, [^177] another name for which is Heaven's One-Pillar. [^178] Next they gave birth to the Island of Tsu, [^179] another name for which is Heavenly-Hand-net-Good-Princess. [^180] Next they gave birth to the Island of Sado. [^181] Next they gave birth to Great-Yamato-the-Luxuriant-Island-of-the-Dragon-Fly, [^182] another name for which is Heavenly-August-Sky-Luxuriant-Dragon-fly-Lord-Youth. \[24\] The name of ”Land-of -the- Eight-Great-Islands" [^183] therefore originated in these eight islands having been born first. After that, when they had returned, [^184] they gave birth to the Island of Ko\[-shima\] [^185] in Kibi, [^186] another name for which \[island\] is Brave-Sun [^170] Direction-Youth. Next they gave birth to the Island of Adzuki, [^187] another name for which is Oho-Nu-De-Hime. Next they gave birth to the Island of Oho \[-shima\], [^188] another name for which is Oho-Tamaru-Wake. Next they gave birth to the Island of Hime, [^189] another name for which is Heaven's-One-Root. Next they gave birth to the Island of Chika, [^190] another name for which is Heavenly-Great-Male. Next they gave birth to the Island\[s\] of Futa-go, [^191] another name for which is Heaven's-Two-Houses, (Six islands in all from the Island of Ko, in Kibi to the Island of Heaven's-Two-Houses).
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 
 

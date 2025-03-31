@@ -40,7 +40,7 @@ Men who adhering to wrong principles acquire wealth by evil deeds, will lose it,
 
 As the burglar [^91] caught in the breach of the wall perishes by the work the sinner himself had executed, thus people in this life and the next cannot escape the effect of their own actions. (3)
 
-If a man living in the Sa<i>m</i>sâra does an action for the sake of somebody else, or one by which he himself <span id="p19">[<sup><small>p. 19</small></sup>]</span> also profits, then, at the time of reaping the fruit of his actions, his relations will not act as true relations (i.e. will not come to his help). (4)
+If a man living in the Sa<i>m</i>sâra does an action for the sake of somebody else, or one by which he himself <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> also profits, then, at the time of reaping the fruit of his actions, his relations will not act as true relations (i.e. will not come to his help). (4)
 
 Wealth will not protect a careless man in this world and the next. Though he had seen the right way, he does not see it, even as one in the dark whose lamp has suddenly been put out. (5)
 
@@ -52,7 +52,7 @@ By conquering his will, (a monk) reaches liberation, as a well-broken horse whic
 
 ‘If he does not get (victory over his will) early, he will get it afterwards;’ such reasoning [^93] presupposes the eternity of human life. But such a man despairs when his life draws to its close, and the dissolution of his body approaches. (9)
 
-One cannot quickly arrive at discernment; therefore one should exert one's self, abstain from pleasures, understand the world, be impartial like <span id="p20">[<sup><small>p. 20</small></sup>]</span> a sage, and guard one's self: (thus) never be careless. (10)
+One cannot quickly arrive at discernment; therefore one should exert one's self, abstain from pleasures, understand the world, be impartial like <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> a sage, and guard one's self: (thus) never be careless. (10)
 
 A <i>S</i>rama<i>n</i>a who again and again suppresses the effects of delusion, and controls himself, will be affected in a rough way by external things; but a monk should not hate them in his mind. (11)
 

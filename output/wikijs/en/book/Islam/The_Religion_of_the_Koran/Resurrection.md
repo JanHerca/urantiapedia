@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 CHAPTER III., Verse 182.—Every soul must taste of death; and ye shall only be paid your hire upon the resurrection day.
 
@@ -44,7 +44,7 @@ Chapter XIV., Verse 49.—Think then not indeed that God fails in His promise to
 
 (50).—Thou shalt see the sinners on that day bound together in fetters; with shirts of pitch, and fire covering their faces; that God may reward each soul according to what it has earned; verily, God is swift at reckoning up!
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 Chapter XVI., Verse 34.—To those whom the angels take off in a goodly state they shall say, “Peace be upon you! enter ye into Paradise for that which ye have done.”
 
@@ -58,7 +58,7 @@ Chapter XXIII., Verse 104.—And when the trumpet shall be blown, and there shal
 
 Chapter LXXV., Verse 35.—Is not He able to quicken the dead?
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Chapter III., Verse 190.—“Lord! verily, we heard a crier calling to the faith, ”Believe in your Lord,“ and we did believe. Lord! forgive us our sins and cover our offences, and let us die with the righteous. Lord! and bring us what Thou hast promised us by Thy apostles, and disgrace us not upon the resurrection day; for, verily, Thou dost not break Thy promises!” And the Lord shall answer them, “I waste not the works of a worker amongst you, be it male or female,—one of you is from the other.”
 

@@ -52,7 +52,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. The Avadâna for the first deity (is taken) out of the middle (of the Sthâlîpâka);
 
-10\. It is offered over the centre (of the fire). <span id="p265">[<sup><small>p. 265</small></sup>]</span>
+10\. It is offered over the centre (of the fire). <span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 11\. (The Avadâna) for the second (deity is taken) from the northern part (of the Sthâlîpâka);
 
@@ -70,7 +70,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 18\. Some say that a vessel full (of grain) is the sacrificial gift.
 
-19\. [^746] From then onwards he should offer morning and evening with his hand these two oblations (to Agni and to Agni Svish<i>t</i>ak<i>t</i>t) of (rice) grains or of barley. <span id="p266">[<sup><small>p. 266</small></sup>]</span>
+19\. [^746] From then onwards he should offer morning and evening with his hand these two oblations (to Agni and to Agni Svish<i>t</i>ak<i>t</i>t) of (rice) grains or of barley. <span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 20\. The deities are the same as at the Sthâlîpâka (just described).
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 3, SECTION 8.
 
-1\. [^752] At the opening and concluding ceremonies of the Vedic study, the <i>Ri</i>shi who is indicated (as the <span id="p267">[<sup><small>p. 267</small></sup>]</span> <i>Ri</i>shi of the Kâ<i>nd</i>a which they study, is the deity to whom the ceremony belongs),
+1\. [^752] At the opening and concluding ceremonies of the Vedic study, the <i>Ri</i>shi who is indicated (as the <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> <i>Ri</i>shi of the Kâ<i>nd</i>a which they study, is the deity to whom the ceremony belongs),
 
 2\. And in the second place Sadasaspati (cf. Mantrap. I, 9, 8).
 
@@ -111,7 +111,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. Between their sleeping-places a staff is interposed, which is anointed with perfumes and wrapped round with a garment or a thread.
 
-10\. In the last part of the fourth night he takes up the (staff) with the next two (verses; M. I, 10, 1-2), washes it and put it away; then (the ceremonies) from the putting of wood on the fire down to the Â<i>ri</i>yabhâga oblations (are performed), and while she takes hold of him, he sacrifices the oblations (indicated by the) next (Mantras; M. I, 10, 3-9); then he enters upon the performance of the <i>G</i>aya and following oblations, and performs (the <span id="p268">[<sup><small>p. 268</small></sup>]</span> rites) down to the sprinkling (of water) round (the fire). Then he makes her sit down to the west of the fire, facing the east, and pours some Â<i>ri</i>ya of the remains (of those oblations) on her head with the (three) Vyâh<i>ri</i>tis and the word Om as the fourth (M. I, 10, 10-13). Then they look at each other with the next two verses (M. I, 11, 1-2), according to the characteristics (contained in those verses); with the next verse (M. I, 11, 3) he besmears the region of their hearts with remains of Â<i>ri</i>ya; then he should murmur the next three verses (I, 11, 4-6), and should murmur the rest (of the Anuvâka; I, 11, 7-11) when cohabiting with her.
+10\. In the last part of the fourth night he takes up the (staff) with the next two (verses; M. I, 10, 1-2), washes it and put it away; then (the ceremonies) from the putting of wood on the fire down to the Â<i>ri</i>yabhâga oblations (are performed), and while she takes hold of him, he sacrifices the oblations (indicated by the) next (Mantras; M. I, 10, 3-9); then he enters upon the performance of the <i>G</i>aya and following oblations, and performs (the <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> rites) down to the sprinkling (of water) round (the fire). Then he makes her sit down to the west of the fire, facing the east, and pours some Â<i>ri</i>ya of the remains (of those oblations) on her head with the (three) Vyâh<i>ri</i>tis and the word Om as the fourth (M. I, 10, 10-13). Then they look at each other with the next two verses (M. I, 11, 1-2), according to the characteristics (contained in those verses); with the next verse (M. I, 11, 3) he besmears the region of their hearts with remains of Â<i>ri</i>ya; then he should murmur the next three verses (I, 11, 4-6), and should murmur the rest (of the Anuvâka; I, 11, 7-11) when cohabiting with her.
 
 11\. Or another person should recite (the rest of the Anuvâka) over her, (before they cohabit).
 
@@ -126,13 +126,13 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. Each following night with an even number, from the fourth (after the beginning of her monthly illness) till the sixteenth, brings more excellent offspring to them, if chosen for the (first) cohabiting after her illness; thus it is said.
 
-2\. If he sneezes or coughs while going about on <span id="p269">[<sup><small>p. 269</small></sup>]</span> business, he should touch water and should murmur the two following (verses; M. I, 13, 5. 6) according to the characteristics (which they contain).
+2\. If he sneezes or coughs while going about on <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> business, he should touch water and should murmur the two following (verses; M. I, 13, 5. 6) according to the characteristics (which they contain).
 
 3\. In the same way with the next (Mantras—M. I, 13, 7-10—he should address the following objects), according to the characteristics (which those Mantras contain): a conspicuous tree, a heap of excrements, the skirt (of his garment) which is blown against him by the wind, and a shrieking bird.
 
 4\. One (for instance, the wife's father) who wishes that the hearts of both (husband and wife) may be in accord should observe chastity through at least three nights and should prepare a Sthâlîpâka. Then (the ceremonies) from the putting (of wood) on (the fire) down to the Â<i>n</i>yabhâga oblations (are performed), and while the wife takes hold of him, he sacrifices of the Sthâlîpâka the oblations (indicated by the) next (Mantras; M. I, 14, 1-7); then he enters upon the performance of the <i>G</i>aya and following oblations, and performs (the rites) down to the sprinkling (of water) round (the fire). (The remains of) the (sacrificial food) with butter, he should give to eat to an even number of Brâhma<i>n</i>as, at least to two, and should cause them to pronounce wishes for his success.
 
-5\. [^754] When the moon, on the following day, will be in conjunction with Tishya, she strews three times seven barley-grains around (the plant) Clypea Hernandifolia with (the formula), ‘If thou belongest to Varu<i>n</i>a, I redeem thee from Varu<i>n</i>a. If thou belongest to Soma, I redeem thee from Soma.’ <span id="p270">[<sup><small>p. 270</small></sup>]</span>
+5\. [^754] When the moon, on the following day, will be in conjunction with Tishya, she strews three times seven barley-grains around (the plant) Clypea Hernandifolia with (the formula), ‘If thou belongest to Varu<i>n</i>a, I redeem thee from Varu<i>n</i>a. If thou belongest to Soma, I redeem thee from Soma.’ <span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 6\. On the following day she should set upright (the plant) with the next (verse; M. I, 15, 1), should recite the next three (verses; M. I, 15, 2-4) over it, should tie (its root) with the next (verse; M. I, 15, 5) to her hands so that (her husband) does not see it, and should, when they have gone to bed, embrace her husband with her arms, with the verse alluding to the word upadhâna (‘putting on;’ M. I, 15, 6).
 

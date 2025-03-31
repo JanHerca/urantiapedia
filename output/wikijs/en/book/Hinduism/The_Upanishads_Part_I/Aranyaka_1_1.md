@@ -32,15 +32,15 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 AITAREYA-ÂRA<i>N</i>YAKA.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 FIRST ÂRA<i>N</i>YAKA.
 
@@ -56,7 +56,7 @@ FIRST ADHYÂYA.
 
 4\. He who desires prosperity should use the hymn, pra vo devâyâgnaye (Rv. III, 13, 1).
 
-5\. He who desires increase should use the hymn, vi<i>s</i>o vi<i>s</i>o atithim (Rv. VIII, 74, 1). <span id="p158">[<sup><small>p. 158</small></sup>]</span> 6\. The people (visa<i>h</i>) indeed are increase [^378], and therefore he (the sacrificer) becomes increased.
+5\. He who desires increase should use the hymn, vi<i>s</i>o vi<i>s</i>o atithim (Rv. VIII, 74, 1). <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> 6\. The people (visa<i>h</i>) indeed are increase [^378], and therefore he (the sacrificer) becomes increased.
 
 7\. But (some say), there is the word atithim (in that hymn, which means a guest or stranger, asking for food). Let him not therefore take that hymn. Verily, the atithi (stranger) is able [^379] to go begging.
 
@@ -74,7 +74,7 @@ FIRST ADHYÂYA.
 
 14\. The (next following) three tristichs begin with an Anush<i>t</i>ubh [^381]. Now Brahman is Gâyatrî, speech is Anush<i>t</i>ubh. He thus joins speech with Brahman.
 
-15\. He who desires glory should use the hymn, abodhy agni<i>h</i> samidhâ ganânâm (Rv. V, 1, 1). <span id="p159">[<sup><small>p. 159</small></sup>]</span> 16\. He who desires offspring and cattle should use the hymn, hotâ<i>g</i>anishta <i>k</i>etana<i>h</i> (Rv. II, 5, 1).
+15\. He who desires glory should use the hymn, abodhy agni<i>h</i> samidhâ ganânâm (Rv. V, 1, 1). <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> 16\. He who desires offspring and cattle should use the hymn, hotâ<i>g</i>anishta <i>k</i>etana<i>h</i> (Rv. II, 5, 1).
 
 
 
@@ -91,7 +91,7 @@ In the other (recitations accompanying the) offerings of â<i>g</i>ya (where Agn
 
 4\. There are four metrical feet (in the Trish<i>t</i>ubh verses of this hymn). Verily, cattle have four feet, therefore they serve for the gaining of cattle.
 
-5\. There are three metrical feet (in the Virâ<i>g</i>, verses of this hymn). Verily, three are these three-fold <span id="p160">[<sup><small>p. 160</small></sup>]</span> worlds. Therefore they serve for the conquest of the worlds.
+5\. There are three metrical feet (in the Virâ<i>g</i>, verses of this hymn). Verily, three are these three-fold <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> worlds. Therefore they serve for the conquest of the worlds.
 
 6\. These (the Trish<i>t</i>ubh and Virâ<i>g</i> verses of the hymn) form two metres, which form a support (pratish<i>th</i>â). Verily, man is supported by two (feet), cattle by four feet. Therefore this hymn places the sacrificer who stands on two feet among cattle which stand on four.
 
@@ -103,7 +103,7 @@ In the other (recitations accompanying the) offerings of â<i>g</i>ya (where Agn
 
 10\. He who knows this, obtains those desires.
 
-11\. The verses (contained in the hymn agnim naro dîdhitibhi<i>h</i>) become the B<i>ri</i>hatî [^387] metre and <span id="p161">[<sup><small>p. 161</small></sup>]</span> the Virâ<i>g</i> metre, (they become) the perfection which belongs to that day (the mahâvrata). Then they also become Anush<i>t</i>ubh [^388], for the offerings of â<i>g</i>ya (ghee) dwell in Anush<i>t</i>ubhs [^389].
+11\. The verses (contained in the hymn agnim naro dîdhitibhi<i>h</i>) become the B<i>ri</i>hatî [^387] metre and <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> the Virâ<i>g</i> metre, (they become) the perfection which belongs to that day (the mahâvrata). Then they also become Anush<i>t</i>ubh [^388], for the offerings of â<i>g</i>ya (ghee) dwell in Anush<i>t</i>ubhs [^389].
 
 
 
@@ -115,7 +115,7 @@ In the other (recitations accompanying the) offerings of â<i>g</i>ya (where Agn
 
 2\. Others say: ‘Let him take a Ush<i>n</i>ih hymn for the Pra-uga. Verily, Ush<i>n</i>ih is life, and thus the sacrificer has a long life.’
 
-Others say: ‘Let him take an Anush<i>t</i>ubh hymn <span id="p162">[<sup><small>p. 162</small></sup>]</span> for the Pra-uga. Verily, Anush<i>t</i>ubh is valour, and it serves for obtaining valour.’
+Others say: ‘Let him take an Anush<i>t</i>ubh hymn <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> for the Pra-uga. Verily, Anush<i>t</i>ubh is valour, and it serves for obtaining valour.’
 
 Others say: ‘Let him take a B<i>ri</i>hatî hymn for the Pra-uga. Verily, B<i>ri</i>hatî is fortune, and thus the sacrificer becomes fortunate.’
 
@@ -135,7 +135,7 @@ But we say: 'Let him take a Gâyatrî hymn only. Verily, Gâyatrî is Brahman, a
 
 7\. ‘He who knows this, obtains all desires.’
 
-This (Gâyatrî pra-uga), according to the one-day (ekâha) ceremonial [^391], is perfect in form [^392]. On that day (the mahâvrata) much is done now and then which <span id="p163">[<sup><small>p. 163</small></sup>]</span> has to be hidden [^393], and has to be atoned for y recitation of hymns). Atonement (<i>s</i>ânti) is rest, the one-day sacrifice. Therefore at the end of the year (on the last day but one of the sacrifice that lasts a whole year) the sacrificers rest on this atonement as their rest.
+This (Gâyatrî pra-uga), according to the one-day (ekâha) ceremonial [^391], is perfect in form [^392]. On that day (the mahâvrata) much is done now and then which <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> has to be hidden [^393], and has to be atoned for y recitation of hymns). Atonement (<i>s</i>ânti) is rest, the one-day sacrifice. Therefore at the end of the year (on the last day but one of the sacrifice that lasts a whole year) the sacrificers rest on this atonement as their rest.
 
 8\. He who knows this rests firm, and they also for whom a Hot<i>ri</i> priest who knows this, recites this hymn.
 
@@ -151,7 +151,7 @@ This (Gâyatrî pra-uga), according to the one-day (ekâha) ceremonial [^391], i
 
 3\. Rv. I, 2, 4-6. Indravâyû ime sutâ, â yâtam upa nishk<i>ri</i>tam, ‘Indra and Vâyu, these Somas are prepared, come hither towards what has been prepared.’ By nishk<i>ri</i>ta, prepared, he means what has been well prepared (sa<i>m</i>sk<i>ri</i>ta).
 
-4\. Indra and Vâyu go to what has been prepared by him who knows this, or for whom a Hot<i>ri</i> priest who knows this, recites. <span id="p164">[<sup><small>p. 164</small></sup>]</span> 5\. Rv. I, 2, 7. Mitra<i>m</i> huve pûtadaksham, dhiya<i>m</i> gh<i>ri</i>tâkî<i>m</i> sâdhantâ, ‘I call Mitra of holy strength; (he and Varu<i>n</i>a) they fulfil the prayer accompanied with clarified butter.’ Verily, speech is the prayer accompanied with clarified butter.
+4\. Indra and Vâyu go to what has been prepared by him who knows this, or for whom a Hot<i>ri</i> priest who knows this, recites. <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> 5\. Rv. I, 2, 7. Mitra<i>m</i> huve pûtadaksham, dhiya<i>m</i> gh<i>ri</i>tâkî<i>m</i> sâdhantâ, ‘I call Mitra of holy strength; (he and Varu<i>n</i>a) they fulfil the prayer accompanied with clarified butter.’ Verily, speech is the prayer accompanied with clarified butter.
 
 6\. Speech is given to him who knows this, or for whom a Hot<i>ri</i> priest who knows this, recites.
 
@@ -169,7 +169,7 @@ This (Gâyatrî pra-uga), according to the one-day (ekâha) ceremonial [^391], i
 
 13\. Verily, the Vi<i>s</i>ve Devas come to the call of him who knows this, or for whom a Hot<i>ri</i> priest who knows this, recites.
 
-14\. Rv. I, 3, 7. Dâsvâ<i>m</i>so dâ<i>s</i>usha<i>h</i> sutam, ‘Come ye givers to the libation of the giver!’ By dâ<i>s</i>usha<i>h</i> he means dadusha<i>h</i>, i. e. to the libation of every one that gives. <span id="p165">[<sup><small>p. 165</small></sup>]</span> 15\. The gods fulfil his wish, with whatever wish he recites this verse,
+14\. Rv. I, 3, 7. Dâsvâ<i>m</i>so dâ<i>s</i>usha<i>h</i> sutam, ‘Come ye givers to the libation of the giver!’ By dâ<i>s</i>usha<i>h</i> he means dadusha<i>h</i>, i. e. to the libation of every one that gives. <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> 15\. The gods fulfil his wish, with whatever wish he recites this verse,
 
 16\. (The wish of him) who knows this, or for whom a Hot<i>ri</i> priest who knows this, recites.
 
@@ -185,7 +185,7 @@ This (Gâyatrî pra-uga), according to the one-day (ekâha) ceremonial [^391], i
 
 Now this day consists of twenty-five, and the Stoma hymn of that day consists of twenty-five: it becomes the same through the same. Therefore these two, the day and the hymn, are twenty-five, yea, twenty-five.
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 
 

@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 1\. “With what is a beast led forth, and with what is it not led forth?” [^100] “One may lead forth the camel with a head-stall, and the she-camel with a nose-ring, and the Lydda [^101] asses with a bridle, and a horse with a halter, and all animals that wear a halter they may lead forth with a halter, and they are held with a halter, and, if unclean, they may sprinkle water upon them, and baptize them in their places.”
 
-2\. The ass one may lead forth with a pack-saddle when it is bound on it. Rams go forth tied up. Ewes go forth <span id="p89">[<sup><small>p. 89</small></sup>]</span> with tails bound back, doubled down, or put in a bag. The goats go forth bound tightly. Rabbi José “forbids all, excepting ewes, to have their tails in a bag.” Rabbi Judah says “the goats go forth bound tightly to dry up their udders, but not to guard the milk.”
+2\. The ass one may lead forth with a pack-saddle when it is bound on it. Rams go forth tied up. Ewes go forth <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> with tails bound back, doubled down, or put in a bag. The goats go forth bound tightly. Rabbi José “forbids all, excepting ewes, to have their tails in a bag.” Rabbi Judah says “the goats go forth bound tightly to dry up their udders, but not to guard the milk.”
 
 3\. “And with what must they not go forth?” “A camel must not go forth with a rag bound as a mark to its tail, nor fettered, nor with fore-foot tied doubled up, and so with the rest of all beasts; a man must not bind camels one to another, and lead them, but he may take their ropes into his hand, and hold them, guarding that they be not twisted.” [^102]
 

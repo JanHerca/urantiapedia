@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:11:59Z
 </figure>
 
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 The Lord says: [CC1](Notes_of_the_Chinese_Commentator#xref_CC1)
 
@@ -45,7 +45,7 @@ Practise benevolence [5](Translators_Notes#xref_5) wherever you find an opportun
 
 Benefit all creatures [6](Translators_Notes#xref_6); benefit the people. [CC8](Notes_of_the_Chinese_Commentator#xref_CC8)
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Practise goodness: acquire merit.
 
@@ -67,7 +67,7 @@ Relieve people in distress as speedily as you must release a fish from a dry ril
 
 Be compassionate to orphans and relieve widows. Respect the old and help the poor.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 Promote the good and recommend the wise. Be lenient with others and exacting with yourself.
 
@@ -91,7 +91,7 @@ Distribute medicine to alleviate the suffering of the sick. With tea or water re
 
 Light lanterns in the night to illuminate where people walk. Keep boats on rivers to ferry people across.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 Buy captive animals and give them freedom. [13](Translators_Notes#xref_13) [CC13](Notes_of_the_Chinese_Commentator#xref_CC13)
 
@@ -125,7 +125,7 @@ Set not father and son at variance for trifles.
 
 Never take advantage of your power, nor disgrace the good and law-abiding.
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Presume not, ye that are rich; nor deceive the needy and suffering.
 
@@ -151,7 +151,7 @@ Repair the defiles though for many hundred years they have remained unimproved.
 
 Build bridges to be traversed by thousands and ten thousands of people.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Expound moral maxims to correct the people's faults.
 

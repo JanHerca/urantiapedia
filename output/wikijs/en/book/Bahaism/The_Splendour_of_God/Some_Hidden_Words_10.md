@@ -40,7 +40,7 @@ Only one step separates thee from the plane of Nearness and the Exalted Tree of 
 
 Pass by the low degrees of fancy, and soar to the heights of Certainty. Open the eye of Truth, that thou mayest behold the Radiant Beauty, and say, “Blessed be God, the Most Excellent of Creators!”
 
-Listen truly: Mortal eye shall never perceive the Everlasting Beauty; and the dead mind <span id="p108">[<sup><small>p. 108</small></sup>]</span> delights only in lifeless clay; for like sees like and has affinity with its own kind.
+Listen truly: Mortal eye shall never perceive the Everlasting Beauty; and the dead mind <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> delights only in lifeless clay; for like sees like and has affinity with its own kind.
 
 Be blind, that thou mayest behold My Beauty. Be deaf, that thou mayest hear My Sweet Melody and Voice. Be ignorant, that thou mayest enjoy a portion from My .Knowledge. Be poor, that thou mayest obtain an everlasting share from the sea of My Eternal Wealth.
 
@@ -54,7 +54,7 @@ O Son of Passion! The people of wisdom and insight struggled for years, and fail
 
 Yet, after gaining these, thou wert so veiled with thyself that thine eyes did not behold the Beauty of The Beloved, and thy hand did not reach to the Hem of the Friend's garment. Marvel at this, O possessors of insight.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 O My Friend by Word! Reflect a little! Hast thou ever heard of the beloved and the stranger dwelling in the same heart? Therefore, send away the stranger, so that The Beloved may enter His Home.
 
@@ -68,7 +68,7 @@ Alas! Alas! O Lovers of Passion! With the swiftness of lightning ye have left th
 
 Not an unselfish breath have ye breathed, nor hath a breeze of self-denial come from the garden of your hearts.
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Ye have cast to the winds the merciful Counsels of The Beloved, have effaced them from the tablet of your minds, and have become as low animals feasting in the pastures of lust and desire.
 
@@ -80,7 +80,7 @@ O Heedless Ones! Think not that the mysteries of hearts are concealed; nay, rath
 
 Truly, I say, all that ye have concealed in your hearts is before Us, clear, manifest and open as the day; but the cause of concealment is from Our Generosity and Mercy, not from your merit.
 
-O Son of Man! I have shed a dew from the past Ocean of My Mercy upon the dwellers of the world, and have found none approaching; because all have attached themselves to the impure water of wine, and have left the immortal, delicate Wine of Unity; they have turned from the Chalice of the Immortal Beauty, and have <span id="p111">[<sup><small>p. 111</small></sup>]</span> been content with the mortal cup. “Evil is that with which they are contented!”
+O Son of Man! I have shed a dew from the past Ocean of My Mercy upon the dwellers of the world, and have found none approaching; because all have attached themselves to the impure water of wine, and have left the immortal, delicate Wine of Unity; they have turned from the Chalice of the Immortal Beauty, and have <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> been content with the mortal cup. “Evil is that with which they are contented!”
 
 Close not thine eye to the peerless Wine of the Eternal Beloved, and open not thine eye to the turbid and mortal wine.
 
@@ -92,7 +92,7 @@ Thou art like a jewelled sword concealed in a dark sheath, by reason of which it
 
 Guidance hath ever been by words, but, at this time, it is by deeds. That is; all pure deeds must appear from the temple of man, because all are partners in words, but pure and holy deeds belong especially to Our friends. Strive with your life to be distinguished among all people by deeds. Thus we exhort ye.
 
-O Son of Desire! How long fliest thou in the <span id="p112">[<sup><small>p. 112</small></sup>]</span> atmosphere of self? I have granted thee wings that thou mightest soar in the holy atmosphere of realities, and not in the air of Satanic fancies. I favoured thee with a comb, that thou mightest comb the locks of My Head and not to wound My Throat.
+O Son of Desire! How long fliest thou in the <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> atmosphere of self? I have granted thee wings that thou mightest soar in the holy atmosphere of realities, and not in the air of Satanic fancies. I favoured thee with a comb, that thou mightest comb the locks of My Head and not to wound My Throat.
 
 The bride of wonderful Significances, who was concealed behind the veils of words, hath appeared through Divine Providence and Heavenly Bounties, like unto the radiance of the Beauty of The Beloved.
 
@@ -106,7 +106,7 @@ No peace is ordained for thee save by departing from thyself and coming to Me! V
 
 My Love is My Fortress. Who enters therein is rescued and safe; whoever turns away from it is led astray and perishes.
 
-God, singly and alone, abideth in His Own Place, which is Holy above space and time, <span id="p113">[<sup><small>p. 113</small></sup>]</span> mention and utterance, sign, description and definition, height and depth.
+God, singly and alone, abideth in His Own Place, which is Holy above space and time, <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> mention and utterance, sign, description and definition, height and depth.
 
 O my God! O my God! Adorn the heads of Thy chosen ones with the crown of Love, and their temples with the garniture of virtue.
 

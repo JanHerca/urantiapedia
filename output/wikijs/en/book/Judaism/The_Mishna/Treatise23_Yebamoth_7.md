@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 ### CHAPTER VII.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 2. When an Israelite woman marries a priest, to whom she brought slaves as her marriage portion, the said slaves may eat of the heave, whether they are _usufructum_ slaves, or \[as the so called\] iron flock; but if a priest's daughter was married to an Israelite, and brought him slaves, whether in _usufruct_ or as an iron flock, they may not eat heave.
 
-§ 3. When a priest, who had married an Israelite woman, dies, leaving her pregnant, her \[iron flock\] slaves may not eat of the heave, on account of the share \[or interest\] the yet unborn child of <span id="p216">[<sup><small>p. 216</small></sup>]</span> the priest has \[in the inheritance of his father\], and the heave belongs to the heirs \[^706]\]; because an unborn priest's child may indeed disqualify a person to eat of heave, [^707] but cannot confer the right to give slaves to eat thereof. Such is the dictum of R. Josh; but the sages argued against this, and said unto him, “\[If so\] even as you affirm this in respect to an Israelite woman married to a priest, thus also, even if she were a priest's daughter married to a priest, and had been left pregnant by him at his decease, ought also not to be allowed to eat of the heave, on account of the share of the unborn infant?” \[Because the slaves are the property of the unborn infant as being the heir; and, according to R. José, an unborn child cannot confer a right to give slaves to eat of consecrated heave\].
+§ 3. When a priest, who had married an Israelite woman, dies, leaving her pregnant, her \[iron flock\] slaves may not eat of the heave, on account of the share \[or interest\] the yet unborn child of <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> the priest has \[in the inheritance of his father\], and the heave belongs to the heirs \[^706]\]; because an unborn priest's child may indeed disqualify a person to eat of heave, [^707] but cannot confer the right to give slaves to eat thereof. Such is the dictum of R. Josh; but the sages argued against this, and said unto him, “\[If so\] even as you affirm this in respect to an Israelite woman married to a priest, thus also, even if she were a priest's daughter married to a priest, and had been left pregnant by him at his decease, ought also not to be allowed to eat of the heave, on account of the share of the unborn infant?” \[Because the slaves are the property of the unborn infant as being the heir; and, according to R. José, an unborn child cannot confer a right to give slaves to eat of consecrated heave\].
 
 §§ 4 &5. \*      \*      \*      \*
 &nbsp;&nbsp;&nbsp;&nbsp;\*      \*      \*      \*

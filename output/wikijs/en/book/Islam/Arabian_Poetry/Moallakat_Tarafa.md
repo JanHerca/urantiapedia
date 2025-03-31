@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/01700.jpg) THE mansion of Khaula is desolate, and the traces of it on the stony hills of Tahmed faintly shine, like the remains of blue figures painted on the back of a hand.”
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. She strays from her young, and feeds with the herd of roes in the tangled thicket, where she browses the edges of the wild fruit, and covers herself with a mantle of leaves.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 8\. She smiles, and displays her bright teeth, rising from their dark-coloured bases, like a privet-plant in full bloom, which pierces a bank of pure sand moistened with dew:
 
@@ -86,7 +86,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 24\. She tosses them _from her chest_ with the strength and swiftness of cables firmly pulled _by a nervous arm_; and her shoulders are bent like the rafters of a lofty dome:
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 25\. She turns rapidly from the path: exceedingly swift is her pace; long is her head; and her shoulder-bones are strongly united to her sides.
 
@@ -126,7 +126,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 42\. I shake the lash over my camel, and she quickens her pace, while the sultry vapour rolls in waves over the burning cliffs.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 43\. She floats proudly along with her flowing tail, as the dancing-girl floats in the banquet of her lord, and spreads the long white skirts of her trailing vest.
 
@@ -146,7 +146,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 51.\* When she warbles in a higher strain, you would believe her notes to be those of camels lamenting their lost young.
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 52\. Thus I drink old wine, without ceasing, and enjoy the delights of life; selling and dissipating my property, both newly acquired and inherited;
 
@@ -166,7 +166,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 60\. Thirdly, to shorten a cloudy day, a day astonishingly dark, by toying with a lovely delicate girl under a tent supported by pillars,—
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 61\. A girl, whose bracelets and garters seem hung on the stems of oshar-trees, or of ricinus, not stripped of their soft leaves.
 
@@ -186,7 +186,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 69\. What causes the variance, which I perceive, between me and my cousin Malec, who, whenever I approach him, retires and flees to a distance?
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 70\. He censures me, whilst I know not the ground of his censure; just as Karth, the son of Aabed, reproved me in the assembly of the tribe.
 
@@ -206,7 +206,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 78\. But my kinsman strangles me with cruelty, even at the very time when I am giving thanks for past, and requesting new favours; even when I am seeking from him the redemption of my soul!
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 79\. The unkindness of relations gives keener anguish to every noble breast than the stroke of an Indian scimitar.
 
@@ -224,7 +224,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 86\. But the genuine brother of confidence, not bent by the most impetuous blow; and when they say to me, “Gently,” I restrain its rage, and exclaim, “It is enough!”
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 87\. When the whole clan are bracing on their armour with eager haste, thou mayst find me victorious in the conflict, as soon as my hand can touch the hilt of this scimitar.
 
@@ -244,7 +244,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 95\. Compare me not with any man, whose courage equals not my courage; whose exploits are not like mine; who has not been engaged in combats, in which I have been distinguished:
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 96\. With a man slow in noble enterprises, but quick in base pursuits; dishonoured in the assembly of the tribe, and a vile outcast.
 

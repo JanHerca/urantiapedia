@@ -29,7 +29,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 
 IT was not the season for trees to bloom, yet the two trees that sheltered the Master were covered with blossoms. The flowers fell gently upon his couch, and from the sky, sweet melodies slowly drifted down.
@@ -40,7 +40,7 @@ The Master said to pious Ananda:
 
 Ananda was weeping. He walked away, to hide his tears.
 
-He thought, “For many misdeeds I have not yet been forgiven, and I shall be guilty of many more <span id="p285">[<sup><small>p. 285</small></sup>]</span> misdeeds. Oh, I am still far from the saintly goal, and he who took pity on me, the Master, is about to enter nirvana.”
+He thought, “For many misdeeds I have not yet been forgiven, and I shall be guilty of many more <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> misdeeds. Oh, I am still far from the saintly goal, and he who took pity on me, the Master, is about to enter nirvana.”
 
 The Master called him back and said:
 
@@ -50,7 +50,7 @@ Night came on. The inhabitants of Kusinagara had heard that the Master was recli
 
 The night was beautiful. Ananda was seated beside the Master. The Master said:
 
-“Perhaps, Ananda, you will think, ‘We no longer have a Master.’ But you must not think that. The <span id="p286">[<sup><small>p. 286</small></sup>]</span> law remains, the law that I taught you; let it be your guide, Ananda, when I shall no longer be with you.
+“Perhaps, Ananda, you will think, ‘We no longer have a Master.’ But you must not think that. The <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> law remains, the law that I taught you; let it be your guide, Ananda, when I shall no longer be with you.
 
 He said again:
 

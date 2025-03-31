@@ -34,7 +34,7 @@ dateCreated: 2025-2-4T22:17:56Z
 
 The root of all knowledge is the knowledge of God; Glory be to Him! Knowledge is impossible save through His Manifestation.
 
-O My Brother! Hear My Beautiful Words from My Sweet Tongue, and drink the Water of Life from the Fountain of My Lips. Sow the seeds of My Innate Wisdom in the pure ground of the heart, and water it with conviction; then the flower of My Knowledge and Wisdom shall <span id="p114">[<sup><small>p. 114</small></sup>]</span> spring up verdantly in the holy sanctuary of the heart.
+O My Brother! Hear My Beautiful Words from My Sweet Tongue, and drink the Water of Life from the Fountain of My Lips. Sow the seeds of My Innate Wisdom in the pure ground of the heart, and water it with conviction; then the flower of My Knowledge and Wisdom shall <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> spring up verdantly in the holy sanctuary of the heart.
 
 Sow the seeds of knowledge and wisdom in the fertile grounds of the mind, and conceal them there until the hyacinth of Divine Wisdom springs up in the heart and not in the clay.
 
@@ -46,7 +46,7 @@ The progress of man depends upon faithfulness, wisdom, chastity, intelligence, a
 
 Verily, man is not called man until he be imbued with the attributes of The Merciful. He is not man because of wealth and adornment, learning and refinement. Blessed is he who is free; seeking the shore of the Sea of Purity and loving the melody of the dove of Virtue.
 
-In this day all must serve God with purity and virtue. The effect of the word spoken by the teacher depends upon his purity of purpose. Some are content with words; but the truth of <span id="p115">[<sup><small>p. 115</small></sup>]</span> words is tested by deeds, and dependent upon life.
+In this day all must serve God with purity and virtue. The effect of the word spoken by the teacher depends upon his purity of purpose. Some are content with words; but the truth of <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> words is tested by deeds, and dependent upon life.
 
 Deeds reveal the station of the man. The words must be according to what has proceeded from the Mouth of the Will of God.
 

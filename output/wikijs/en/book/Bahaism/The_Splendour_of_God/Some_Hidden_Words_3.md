@@ -38,7 +38,7 @@ By it thou wilt be strengthened to perceive things with thine own eyes and not b
 
 Justice is of My Bounty to thee and of My Providence over thee; therefore, keep it ever before thy sight.
 
-O Son of Man! Wert thou to observe Mercy, <span id="p100">[<sup><small>p. 100</small></sup>]</span> thou wouldest not regard thine own interest, but the interest of mankind. Wert thou to observe Justice. choose thou for others what thou choosest for thyself.
+O Son of Man! Wert thou to observe Mercy, <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> thou wouldest not regard thine own interest, but the interest of mankind. Wert thou to observe Justice. choose thou for others what thou choosest for thyself.
 
 Know verily that he who exhorts men to equity and himself does injustice, is not of Me, though he may bear My Name.
 

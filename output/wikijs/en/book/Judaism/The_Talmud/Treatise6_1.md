@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 ## TREATISE VI.
 
@@ -50,7 +50,7 @@ Size and Covering of Tabernacles—What constitutes a Tabernacle—Exemptions—
 
 3\. “If one spread a cloth over (its roof) [^240] on account of the sun; or under (its roof) on account of the falling leaves; or if one spread a canopy over his bed?” “It is disallowed. But he may spread a cloth over two bedposts.”
 
-4\. “If one have trained a vine, or a gourd, or ivy, and covered it over?” “It is disallowed. But if the covering <span id="p137">[<sup><small>p. 137</small></sup>]</span> be larger than these, or if they have been trimmed, it is allowed.” The rule is, everything which contracts uncleanness, and does not grow from the ground, must not be used for a covering; but everything which does not contract uncleanness, and grows from the ground, may be used for a covering.
+4\. “If one have trained a vine, or a gourd, or ivy, and covered it over?” “It is disallowed. But if the covering <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> be larger than these, or if they have been trimmed, it is allowed.” The rule is, everything which contracts uncleanness, and does not grow from the ground, must not be used for a covering; but everything which does not contract uncleanness, and grows from the ground, may be used for a covering.
 
 5\. Bundles of straw, and bundles of wood, and bundles of twigs, must not be used for covering. But all of them, if untied, are allowed. And all of them are allowed for side walls.
 
@@ -62,7 +62,7 @@ Size and Covering of Tabernacles—What constitutes a Tabernacle—Exemptions—
 
 9\. “If one interweave the side walls from above downwards?” “If they be three handbreadths high from the ground, it is disallowed.” “If from the ground upwards they be ten handbreadths high?” “It is allowed.” R. José says, “even as from the ground upwards ten handbreadths (are required), so likewise from the roof downwards, ten handbreadths (are required).” “If the covering be three handbreadths above the side walls?” “It is disallowed.”
 
-10\. “If a house be unroofed and covered over?” “If there be a space of four cubits between the wall and the covering, it is disallowed: also a court, in which there is an enclosed passage.” “If the large booth be inclosed with covering, which must not be used, and if there be below it a space of four cubits?” “It is disallowed.” <span id="p138">[<sup><small>p. 138</small></sup>]</span> 11\. “If one make his booth like a pyramid; or lean it against a wall?” R. Eleazar “disallows it, because it has no roof;” but the Sages “allow it.” “A large reed mat, which has been made for sleeping purposes?” “It contracts uncleanness, and they must not cover with it.” “If made for covering purposes?” “They may use it; and it contracts no uncleanness.” R. Eleazar says, “whether large or small, if made for sleeping, it contracts uncleanness, and must not be used for covering; but if made for covering, they may cover with it, and it contracts no uncleanness.”
+10\. “If a house be unroofed and covered over?” “If there be a space of four cubits between the wall and the covering, it is disallowed: also a court, in which there is an enclosed passage.” “If the large booth be inclosed with covering, which must not be used, and if there be below it a space of four cubits?” “It is disallowed.” <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> 11\. “If one make his booth like a pyramid; or lean it against a wall?” R. Eleazar “disallows it, because it has no roof;” but the Sages “allow it.” “A large reed mat, which has been made for sleeping purposes?” “It contracts uncleanness, and they must not cover with it.” “If made for covering purposes?” “They may use it; and it contracts no uncleanness.” R. Eleazar says, “whether large or small, if made for sleeping, it contracts uncleanness, and must not be used for covering; but if made for covering, they may cover with it, and it contracts no uncleanness.”
 
 
 

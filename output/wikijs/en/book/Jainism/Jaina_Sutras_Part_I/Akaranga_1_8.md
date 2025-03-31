@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 EIGHTH LECTURE, (CALLED) THE PILLOW OF RIGHTEOUSNESS.
 
@@ -46,7 +46,7 @@ More than four months many sorts of living beings gathered on his body, crawled 
 
 For a year and a month he did not leave off his robe. Since that time the Venerable One, giving up his robe, was a naked, world-relinquishing, houseless (sage) [^299]. (3)
 
-Then he meditated (walking) with his eye fixed on a square space before him of the length of a <span id="p80">[<sup><small>p. 80</small></sup>]</span> man [^300]. Many people assembled, shocked at the sight; they struck him and cried. (4)
+Then he meditated (walking) with his eye fixed on a square space before him of the length of a <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> man [^300]. Many people assembled, shocked at the sight; they struck him and cried. (4)
 
 Knowing (and renouncing) the female sex in mixed gathering places [^301], he meditated, finding his way himself: I do not lead a worldly life. (5)
 
@@ -62,7 +62,7 @@ For more than a couple of years he led a religious life without using cold water
 
 Thoroughly knowing the earth-bodies and water-bodies and fire-bodies and wind-bodies, the lichens, seeds, and sprouts, (11)
 
-He comprehended that they are, if narrowly <span id="p81">[<sup><small>p. 81</small></sup>]</span> inspected, imbued with life, and avoided to injure them; he, the great Hero. (12)
+He comprehended that they are, if narrowly <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> inspected, imbued with life, and avoided to injure them; he, the great Hero. (12)
 
 The immovable (beings) are changed to movable ones, and the movable beings to immovable ones; beings which are born in all states become individually sinners [^303] by their actions. (13)
 
@@ -78,7 +78,7 @@ He did not use another's robe, nor does he eat out of another's vessel. Disregar
 
 Knowing measure in eating and drinking, he was not desirous of delicious food, nor had he a longing for it. A sage should not rub his eyes nor scratch his body. (19)
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Looking a little sideward, looking a little behind, answering little when spoken to, he should walk attentively looking on his path. (20)
 
@@ -101,7 +101,7 @@ He sometimes lodged in travellers' halls, garden-houses, or towns; sometimes on 
 
 In these places was the wise <i>S</i>rama<i>n</i>a for thirteen long years; he meditated day and night, exerting himself, undisturbed, strenuously. (4)
 
-The Venerable One, exerting himself, did not seek <span id="p83">[<sup><small>p. 83</small></sup>]</span> sleep for the sake of pleasure; he waked up himself, and slept only a little, free from desires. (5)
+The Venerable One, exerting himself, did not seek <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> sleep for the sake of pleasure; he waked up himself, and slept only a little, free from desires. (5)
 
 Waking up again, the Venerable One lay down, exerting himself; going outside for once in a night, he walked about for an hour. (6)
 
@@ -121,7 +121,7 @@ When a cold wind blows, in which some feel pain, then some houseless monks in th
 
 (Some heretical monks say), ‘We shall put on more clothes; kindling wood or (well) covered, we shall be able (to bear) the very painful influence of the cold.’ (14)
 
-But the Venerable One desired nothing of the kind; <span id="p84">[<sup><small>p. 84</small></sup>]</span> strong in control, he suffered, despising all shelter. Going outside once of a night, the Venerable One was able (to endure all hardships) in calmness. (15)
+But the Venerable One desired nothing of the kind; <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> strong in control, he suffered, despising all shelter. Going outside once of a night, the Venerable One was able (to endure all hardships) in calmness. (15)
 
 This is the rule which has often been followed by the wise Brâhma<i>n</i>a, the Venerable One, who is free from attachment: thus proceed (the monks).
 
@@ -144,7 +144,7 @@ Such were the inhabitants. Many other mendicants, eating rough food in Va<i>g</i
 
 Even thus armed they were bitten by the dogs, torn by the dogs. It is difficult to travel in Lâ<i>dh</i>a. (6)
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Ceasing to use the stick (i.e. cruelty) against living beings, abandoning the care of the body, the houseless (Mahâvîra), the Venerable One, endures the thorns of the villages (i.e. the abusive language of the peasants), (being) perfectly enlightened. (7)
 
@@ -167,7 +167,7 @@ This is the rule which has often been followed, &c.
 
 ## FOURTH LESSON.
 
-The Venerable One was able to abstain from indulgence of the flesh [^313], though never attacked by <span id="p86">[<sup><small>p. 86</small></sup>]</span> diseases. Whether wounded or not wounded, he desired not medical treatment. (1)
+The Venerable One was able to abstain from indulgence of the flesh [^313], though never attacked by <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> diseases. Whether wounded or not wounded, he desired not medical treatment. (1)
 
 Purgatives and emetics, anointing of the body and bathing, shampooing and cleansing of the teeth do not behove him, after he learned (that the body is something unclean). (2)
 
@@ -187,7 +187,7 @@ Having entered a village or a town, he begged for food which had been prepared f
 
 When there were hungry crows, or thirsty beings stood in his way, where he begged, or when he saw them flying repeatedly down, (10)
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 When a Brâhma<i>n</i>a or <i>S</i>rama<i>n</i>a, a beggar or guest, a <i>K</i>â<i>n</i><i>d</i>âla [^316], a cat, or a dog stood in his way, (11)
 

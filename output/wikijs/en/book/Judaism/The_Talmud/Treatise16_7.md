@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-1\. “When five persons filled five barrels with water of purification, to purify five persons requiring purification, and they changed their mind for one purification, or they prepared for one purification, and they changed their mind for five?” “They are all allowed.” “One person who filled five barrels to purify five persons requiring purification, and changed his mind for one purification?” “None is allowed but the last.” “Or he made ready for one purification, and changed his mind for five purifications?” “None is allowed <span id="p311">[<sup><small>p. 311</small></sup>]</span> but the first purification.” “If he said to one, ‘purify all those for thee?’” “None is allowed but the first.” “Purify all those for me?” “They are all allowed.”
+1\. “When five persons filled five barrels with water of purification, to purify five persons requiring purification, and they changed their mind for one purification, or they prepared for one purification, and they changed their mind for five?” “They are all allowed.” “One person who filled five barrels to purify five persons requiring purification, and changed his mind for one purification?” “None is allowed but the last.” “Or he made ready for one purification, and changed his mind for five purifications?” “None is allowed <span id="p311"><sup><small>[ p. 311 ]</small></sup></span> but the first purification.” “If he said to one, ‘purify all those for thee?’” “None is allowed but the first.” “Purify all those for me?” “They are all allowed.”
 
 2\. “He who fills (water of purification) with one hand, and does work with the other hand, if he fill for himself or for another person, or if he fill for both at once?” “Both are disallowed, since work disallows in filling (water of purification) whether for himself or for another.”
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 5\. “A person filled water for his own use, and (also) for purification?” “He fills first for himself and binds it on the shoulder-pole; and afterwards he fills that for purification.” “And if he fill that for purification first, and afterwards fill for himself?” “It is disallowed.” He must put his own water behind him, and the water for purification before him. “And if he put that for purification behind him?” “It is disallowed.” “Both are water for purification, he put one in front and one behind him?” “It is allowed, because it is not otherwise possible.”
 
-6\. “If one carry a rope in his hand?” [^637] “If he go in the (straight) way, it is allowed.” “If he go out of his way?” “It is disallowed.” One went to Jabneh [^638] during <span id="p312">[<sup><small>p. 312</small></sup>]</span> three feasts, about this matter, and in the third feast it was allowed to him as a decision for the time.
+6\. “If one carry a rope in his hand?” [^637] “If he go in the (straight) way, it is allowed.” “If he go out of his way?” “It is disallowed.” One went to Jabneh [^638] during <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> three feasts, about this matter, and in the third feast it was allowed to him as a decision for the time.
 
 7\. “If one rolled the rope round his hand?” “It is allowed; but if he rolled it after (drawing the water), it is disallowed.” Said R. José, “this act they allowed as a decision for the time.”
 
@@ -54,7 +54,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 11\. “Two persons drew water for purification, and each helped the other, or each took a thorn from the other?” “For one purification it is allowed, for two purifications, it is disallowed.” R. José said, “even for two purifications it is allowed, if it were made a condition between them.”
 
-12\. “He who has broken (something) during drawing water for purification with the view of preparing it afterwards?” “The water is allowed.” “But if he prepared it?” “The water is disallowed.” [^639] “He ate with the view of drying <span id="p313">[<sup><small>p. 313</small></sup>]</span> the remainder of his food?” “The water is allowed.” “But if he dried it?” “The water is disallowed.” “He ate and left some, and he threw away what was left in his hand under a fig-tree, or into the place of drying, that it might not be lost?” “The water is disallowed.”
+12\. “He who has broken (something) during drawing water for purification with the view of preparing it afterwards?” “The water is allowed.” “But if he prepared it?” “The water is disallowed.” [^639] “He ate with the view of drying <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> the remainder of his food?” “The water is allowed.” “But if he dried it?” “The water is disallowed.” “He ate and left some, and he threw away what was left in his hand under a fig-tree, or into the place of drying, that it might not be lost?” “The water is disallowed.”
 
 
 

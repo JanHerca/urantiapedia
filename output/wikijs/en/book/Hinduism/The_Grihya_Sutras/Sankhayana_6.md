@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 ## ADHYÂYA VI, KHA<i>ND</i>A 1.
 
@@ -45,7 +45,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4\. And of the corpse-like (animals?).
 
-5\. Those which enter (their dens?) with the mouth first (?). <span id="p142">[<sup><small>p. 142</small></sup>]</span>
+5\. Those which enter (their dens?) with the mouth first (?). <span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 6 [6](#fn323). When he has vomited, or when his beard has been shaved,
 
@@ -72,7 +72,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. [^325]. Let them go to a clean spot in the north-eastern direction, that receives its light from the east.
 
-4\. The drawing of water (should be done) before sunrise, <span id="p143">[<sup><small>p. 143</small></sup>]</span>
+4\. The drawing of water (should be done) before sunrise, <span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 5 [^326]. And the entering into the circle with this verse, ‘She who smells of salve’ (Rig-veda X, 146, 6).
 
@@ -96,7 +96,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. Now after they have entered the circle—
 
-2\. [^329]. The teacher sits down with his face to the east, the others, according to their rank, (sit down) towards the south, with their faces to the north. <span id="p144">[<sup><small>p. 144</small></sup>]</span>
+2\. [^329]. The teacher sits down with his face to the east, the others, according to their rank, (sit down) towards the south, with their faces to the north. <span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 3\. If that is impossible, with their faces to all directions.
 
@@ -116,7 +116,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 11\. Now the expiation.
 
-12\. [^333]. The syllable OM, the Mahâvyâh<i>ri</i>tis, the Sâvitrî, the Rathantara, the B<i>ri</i>hat, the Vâmadevya; B<i>ri</i>hat and Rathantara with repetition and Kakubh-forming. <span id="p145">[<sup><small>p. 145</small></sup>]</span>
+12\. [^333]. The syllable OM, the Mahâvyâh<i>ri</i>tis, the Sâvitrî, the Rathantara, the B<i>ri</i>hat, the Vâmadevya; B<i>ri</i>hat and Rathantara with repetition and Kakubh-forming. <span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 13 [^334]. These (holy words and verses) are (thus) made to attain (the number of) ten.
 
@@ -125,7 +125,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KHA<i>ND</i>A 4.
 
-1\. [^336]. ‘Unerring mind, vigorous eye (is) the sun, the noblest of the stars. Inauguration, do no harm to me!’—with (these words) they look at Savit<i>ri</i> (I.e. the sun). <span id="p146">[<sup><small>p. 146</small></sup>]</span>
+1\. [^336]. ‘Unerring mind, vigorous eye (is) the sun, the noblest of the stars. Inauguration, do no harm to me!’—with (these words) they look at Savit<i>ri</i> (I.e. the sun). <span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 2\. One (verse), ‘You both the gladdening one’ (Rig-veda X, 131, 4), and the three (verses), ‘Blessing to us on the paths’ (Rig-veda X, 63, 15-17) (are to be repeated before the recitation) of the Mahâvrata (chapter).
 
@@ -139,7 +139,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 7\. [^338]. For the Sa<i>m</i>hitâs, however, before (the text given in the first Sûtra the formula has to be recited), ‘I shall speak right, I shall speak truth (&c.)’—this is the difference (in the case of the Sa<i>m</i>hitâs).
 
-8\. [^339]. Now for the Mantha the two verses (have to be recited) before (the formula given in the first Sûtra), ‘This we entreat of Savitar,’ ‘That glorious (splendour) of Savitar’ (Rig-veda V, 82, 1; III, 62, 10). <span id="p147">[<sup><small>p. 147</small></sup>]</span>
+8\. [^339]. Now for the Mantha the two verses (have to be recited) before (the formula given in the first Sûtra), ‘This we entreat of Savitar,’ ‘That glorious (splendour) of Savitar’ (Rig-veda V, 82, 1; III, 62, 10). <span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 9\. With (the formula), ‘Unerring mind’ (see Sûtra 1), then follow the expiatory formulas that belong to the (different) sections.
 
@@ -157,7 +157,7 @@ Kha<i>nd</i>a 5, 1 [^341]. ‘That (I place) within myself’—with (these word
 
 2\. With (the formula), 'May happiness rejoice in me and glory; may happiness rejoice with me and glory;—
 
-3\. ‘Together with Indra, with the hosts, with power, with glory, with strength I will rise’—he rises up. <span id="p148">[<sup><small>p. 148</small></sup>]</span>
+3\. ‘Together with Indra, with the hosts, with power, with glory, with strength I will rise’—he rises up. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 4\. ‘May happiness rise to me; may glory rise to me’—when he has risen.
 
@@ -176,7 +176,7 @@ Kha<i>nd</i>a 5, 1 [^341]. ‘That (I place) within myself’—with (these word
 
 4\. Pour it out on the ground,
 
-5\. [^343]. Spread (some) of that (water over the ground) with (the words), ‘As the earth (is appeased),’— <span id="p149">[<sup><small>p. 149</small></sup>]</span>
+5\. [^343]. Spread (some) of that (water over the ground) with (the words), ‘As the earth (is appeased),’— <span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 6 [^344]. He (then) smears it on his right shoulder with (the words), ‘Thus may peace dwell in me.’
 
@@ -198,7 +198,7 @@ Kha<i>nd</i>a 5, 1 [^341]. ‘That (I place) within myself’—with (these word
 
 15\. And separate according to their pleasure.
 
-16\. (The final benedictory formula runs thus), ‘Through the power of wisdom, of <i>S</i>ruti and Sm<i>ri</i>ti, as handed down by tradition, through (that power) which has its measure in (the Vedic texts) that have been gone through(?), and which is possessed of <span id="p150">[<sup><small>p. 150</small></sup>]</span> undisputed firmness, may peace be with us in welfare. Adoration be to gods, <i>Ri</i>shis, Manes, and men! May they whom we have adored, make happy life, beauty, health, peace, incolumity, imperishableness, vigour, splendour, glory, power, holy lustre, renown, age, offspring, cattle, adoration, increase. From wrongly spoken, wrongly used (prayer), from everything that is deficient or excessive, for the good of gods and <i>Ri</i>shis, may the Brahman and Truth protect me; may the Brahman and Truth protect me!’
+16\. (The final benedictory formula runs thus), ‘Through the power of wisdom, of <i>S</i>ruti and Sm<i>ri</i>ti, as handed down by tradition, through (that power) which has its measure in (the Vedic texts) that have been gone through(?), and which is possessed of <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> undisputed firmness, may peace be with us in welfare. Adoration be to gods, <i>Ri</i>shis, Manes, and men! May they whom we have adored, make happy life, beauty, health, peace, incolumity, imperishableness, vigour, splendour, glory, power, holy lustre, renown, age, offspring, cattle, adoration, increase. From wrongly spoken, wrongly used (prayer), from everything that is deficient or excessive, for the good of gods and <i>Ri</i>shis, may the Brahman and Truth protect me; may the Brahman and Truth protect me!’
 
 End of the Sixth Adhyâya.
 

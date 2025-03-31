@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/32300.jpg) IS it from a recollection of neighbours at Dhū-Salam that thou hast mixed with blood the tears flowing from an eyeball?
 
@@ -50,7 +50,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 8\. “Yea! The phantom of her I love passed before me, and made me sleepless. For love doth dash delights with pain.
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 9\. “O my chider for an excusable affection! \[receive\] an excuse from me to thee: and if thou wert just, thou wouldst not have reproached me.
 
@@ -70,7 +70,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 17\. Propose not, therefore, to crush its inclination in its acts of rebellion; for food invigorates desire in the insatiate.
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 18\. The Flesh is like a child: if thou leavest him alone, he grows up with a love for suckling; and if thou weanest him, he is weaned.
 
@@ -90,7 +90,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 26\. I ask forgiveness of God for my spoken words unaccompanied by deeds; for therewith have I accused a spouse of barren wives of having posterity.
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 27\. I have commanded thee \[to do\] good; but I have not \[myself\] conformed thereto. I have not been upright;—what, then, is my word to thee: Be upright?
 
@@ -108,7 +108,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 34\. Muhammad, the Prince of the two universes \[material and spiritual\], of the two ponderable classes \[men and demons\], and of the two sections \[of mankind\], of the Arabians and of the Non-Arabians;
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 35\. Our Annunciator, who commands and who prohibits; than whom no one is more righteous in the word “No!” or in \[the word\] “Yea!”
 
@@ -128,7 +128,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 43\. Put aside that which the Nazarenes have laid claim to for their prophet; pronounce what thou wilt in his praise, and decide;
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 44\. Attribute to his personality what thou wilt of nobility; and ascribe to his worth what thou wilt of vastness;
 
@@ -148,7 +148,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 52\. And all the signs that the noble apostles wrought \[in former days\] pertained unto them merely through his glory.
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 53\. For verily he is the sun of superiority, of which they are the stars. They exhibit their lights to the people in the darknesses \[but the sun is visible by day\].
 
@@ -168,7 +168,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 61\. And the pavilion of the Chosroes became, being fissured, like unto the courtiers of the Chosroes, irremediably disarrayed;
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 62\. And the \[Sacred\] Fire, through sorrowfulness thereat, became extinct in its respirations \[of flame\], and the river \[of the Tigris\] dry at fount, through choking;
 
@@ -188,7 +188,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 70\. As though they were, in \[their\] flight, the cowards of Abraha, or the army lapidated with pebbles from his \[Muhammad's\] two hands,
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 71\. In a throw, after a recitation of doxology within their two palms; even as the casting forth of the doxologist \[Jonah\] from the entrails of the swallowing fish;
 
@@ -208,7 +208,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 79\. The protection of God rendered \[them\] independent of twofold coats of mail, and of high towers.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 80\. Time has not offered me an injury \[against which\] I have had recourse for protection unto him \[Muhammad\], but I received a protection from him that is not to be infringed;
 
@@ -226,7 +226,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 87\. By a cloud-bank that rained copiously, so that thou wouldst thence have imagined the pebbly torrent-channels were dikes cut from the ocean, or an inundation from a mountain-reservoir broken loose!
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 88\. Let me alone, and my description of some of his miracles, which were as manifest as is the conspicuousness of the hospitality-fire. by night on the mountain-top;—
 
@@ -244,7 +244,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 95\. It has never been contested, but that the most aggressive of its attackers has returned to it proposing peace;
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 96\. Its eloquence repels the pretensions of its disputer, with the repulsion of the jealous one \[who repels\] the hand of the criminal from the things held sacred \[to virtue\];
 
@@ -264,7 +264,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 104\. The eye, through ophthalmia, has, ere now, denied the light of the sun; and the mouth, through disease, has denied the taste of water.
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 105\. O \[Muhammad\] thou Best of those whose court the guests seek, trudging on foot, or \[seated\] upon the loins of easy-paced she-camels;
 
@@ -284,7 +284,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 113\. That thou mightest have an interview with One curtained in how special a manner from the eyes \[of mankind\] and \[the communication of\] a secret concealed in how profound a degree;
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 114\. Thou gainedst every subject of \[legitimate\] boasting, without a co-participator; and thou passedst through every stage \[of progress\] free from the throng;
 
@@ -304,7 +304,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 122\. As though the religion \[of Islām\] were a guest that had alighted in their court with all noble brood camels, eager to devour the flesh of his enemies,
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 123\. Who led a flood of an army \[mounted\] upon fleet horses, that threw up dashing waves of brave warriors,
 
@@ -324,7 +324,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 131\. Whose weapons are keen; who have a mark that distinguishes them; for the rose is distinguished from the acacia by its mark.
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 132\. The winds of victory guide unto thee their odour; so that thou deemest each armour-clad warrior a flower in its calyx.
 
@@ -344,7 +344,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 140\. I have given him my service in a panegyric, by which I seek pardon for the sins of a lifetime passed in poetry and services,
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 141\. Which have placed on my neck that of which the results are to be feared; as though I were, through them, a victim from among cattle.
 
@@ -364,7 +364,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 149\. And ever since I have devoted my thoughts to his praiseworthy qualities, I have found him the best of sureties for my salvation.
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 150\. Wealth from him will never fail a hand pinched with poverty: verily the rain maketh the flowers to grow on the hills!
 
@@ -384,7 +384,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 158\. And deal Thou graciously with Thy servant: verily he hath a fortitude, which, when terrors call for it, is put to flight.
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 159\. And grant Thou that showers of benedictions from Thee \[may be\] perpetual upon the Prophet, copious and continuous;
 

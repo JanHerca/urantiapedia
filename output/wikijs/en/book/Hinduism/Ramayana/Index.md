@@ -33,7 +33,7 @@ dateCreated: 2025-1-15T22:11:38Z
 </figure>
 
 
-<span id="p568">[<sup><small>p. 568</small></sup>]</span>
+<span id="p568"><sup><small>[ p. 568 ]</small></sup></span>
 
 ## A.
 
@@ -115,7 +115,7 @@ Ayodhyá, 4, 6, 11, 12, 14, 19, 32, 33, 38, 49, 70, 72, 79, 81, 83, 84, 85, 88, 
 Ayomukh, 374.
 Ayomukhi, 310.
 
-<span id="p569">[<sup><small>p. 569</small></sup>]</span>
+<span id="p569"><sup><small>[ p. 569 ]</small></sup></span>
 
 ## B.
 
@@ -267,7 +267,7 @@ Dharmavardhan, 179.
 
 Dhritaráshtrí, 246.
 
-<span id="p570">[<sup><small>p. 570</small></sup>]</span>
+<span id="p570"><sup><small>[ p. 570 ]</small></sup></span>
 
 Dhrishtaketu, 82.
 
@@ -419,7 +419,7 @@ Hástinapura, 176.
 
 Hastiprishthak, 179.
 
-<span id="p571">[<sup><small>p. 571</small></sup>]</span>
+<span id="p571"><sup><small>[ p. 571 ]</small></sup></span>
 
 Havishyand, 68.
 
@@ -557,7 +557,7 @@ Káma 37, 38, 42, 283, 286, 296.
 
 Kámboja, 13, 66.
 
-<span id="p572">[<sup><small>p. 572</small></sup>]</span>
+<span id="p572"><sup><small>[ p. 572 ]</small></sup></span>
 
 Kambojas 66.
 
@@ -712,7 +712,7 @@ Lokapalas, 485.
 
 Lomapad, 15,16,18,19, 21, 30.
 
-<span id="p573">[<sup><small>p. 573</small></sup>]</span>
+<span id="p573"><sup><small>[ p. 573 ]</small></sup></span>
 
 ## M.
 
@@ -882,7 +882,7 @@ Mithilá, 9 note, 21, 45, 60, 61, 78, 81, 83, 84, 85.
 
 Mitragh\*na, 459.
 
-<span id="p574">[<sup><small>p. 574</small></sup>]</span>
+<span id="p574"><sup><small>[ p. 574 ]</small></sup></span>
 
 Mlechchhas, 66, 537, 550.
 
@@ -1044,7 +1044,7 @@ Pravargya, 22.
 
 Prayág, 158, 159, 196.
 
-<span id="p575">[<sup><small>p. 575</small></sup>]</span>
+<span id="p575"><sup><small>[ p. 575 ]</small></sup></span>
 
 Prithu, 81, 219.
 
@@ -1218,7 +1218,7 @@ S'árdúla, 441, 449, 450.
 
 S'árdúlí, 246.
 
-<span id="p576">[<sup><small>p. 576</small></sup>]</span>
+<span id="p576"><sup><small>[ p. 576 ]</small></sup></span>
 
 Sarjú, 11, 20, 22, 36, 37, 38, 50, _passim_.
 
@@ -1404,7 +1404,7 @@ Sutanu, 199.
 
 Sutíkshna, 9, 234, 236, 237, 240, 241.
 
-<span id="p577">[<sup><small>p. 577</small></sup>]</span>
+<span id="p577"><sup><small>[ p. 577 ]</small></sup></span>
 
 Suváhu, 35, 44, 45, 146.
 
@@ -1579,7 +1579,7 @@ Vanáyu, 13.
 
 Vangas, 102.
 
-<span id="p578">[<sup><small>p. 578</small></sup>]</span>
+<span id="p578"><sup><small>[ p. 578 ]</small></sup></span>
 
 Varadas, 550.
 
@@ -1749,7 +1749,7 @@ Yúpáksha, 420, 472.
 
 Yuvanás'va, 81, 219.
 
-<span id="p579">[<sup><small>p. 579</small></sup>]</span>
+<span id="p579"><sup><small>[ p. 579 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

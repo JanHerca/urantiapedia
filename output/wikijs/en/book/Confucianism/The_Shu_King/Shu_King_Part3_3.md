@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:2:15Z
   </table>
 </figure>
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 This Book ranks in that class of the documents of the Shû which goes by the name of ‘Instructions.’ Though the form of it be poetical, the subject-matter is derived from the Lessons left by Yü for the guidance of his posterity.
 
@@ -40,7 +40,7 @@ Thâi Khang succeeded to his father in B.C. 2188, and his reign continues in chr
 
 In his song the king's first brother deplores how he had lost the affections of the people; the second speaks of his dissolute extravagance; the third mourns his loss of the throne; the fourth deplores his departure from the principles of Yü, and its disastrous consequences; and the fifth is a wail over the miserable condition of them all.
 
-1\. Thâi Khang occupied the throne like a personator of the dead [^87]. By idleness and dissipation he extinguished his virtue, till the black-haired people all wavered in their allegiance. He, however, pursued his pleasure and wanderings without any <span id="p79">[<sup><small>p. 79</small></sup>]</span> self-restraint. He went out to hunt beyond the Lo, and a hundred days elapsed without his returning. (On this) Î, the prince of <i>Kh</i>iung, taking advantage of the discontent of the people, resisted (his return) on (the south of) the Ho. The (king's) five brothers had attended their mother in following him, and were waiting for him on the north of the Lo; and (when they heard of Î's movement), all full of dissatisfaction, they related the Cautions of the great Yü in the form of songs.
+1\. Thâi Khang occupied the throne like a personator of the dead [^87]. By idleness and dissipation he extinguished his virtue, till the black-haired people all wavered in their allegiance. He, however, pursued his pleasure and wanderings without any <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> self-restraint. He went out to hunt beyond the Lo, and a hundred days elapsed without his returning. (On this) Î, the prince of <i>Kh</i>iung, taking advantage of the discontent of the people, resisted (his return) on (the south of) the Ho. The (king's) five brothers had attended their mother in following him, and were waiting for him on the north of the Lo; and (when they heard of Î's movement), all full of dissatisfaction, they related the Cautions of the great Yü in the form of songs.
 
 2\. The first said,
 

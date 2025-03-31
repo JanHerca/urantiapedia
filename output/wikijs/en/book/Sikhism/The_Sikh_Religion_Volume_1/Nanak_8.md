@@ -38,7 +38,7 @@ Mardana had by this time had enough of travel, hardship, and. hunger, and thus a
 
 It would appear however, that Mardana soon represented to the Guru the duty and propriety of returning home, and seeing his parents after twelve years' wandering. The Guru adopted his suggestion, and they both directed their steps towards Talwandi. They halted in the forest some three miles from the village. Mardana asked permission to go home and inquire if his people were dead or alive. The Guru replied, 'Since thou desire it, go and see thy people. Go also to my father Kalu's house, but mention not my name. Return quickly.’
 
-When Mardana reached his house he found several persons assembled there. They all affectionately greeted him, and said he had grown like Nanak. He was a great man now, and no longer the humble person he had been before. Mardana, having seen his people, proceeded to the house of Kalu, and sat down in his courtyard. The Guru's mother, on <span id="p96">[<sup><small>p. 96</small></sup>]</span> seeing him, arose, embraced him, and wept for joy. She asked for some account of her son Nanak. By that time a great crowd had assembled, and every one wanted to hear about him. Mardana evaded all inquiries, only telling people that he had been with Nanak. He then went away. The Guru's mother at once suspected that he must have had some object in departing so quickly, and that her son could not be far off. She again arose, and taking some clothes and sweets for Nanak, followed Mardana and overtook him. She earnestly requested him to take her to her son. Mardana made no answer, but went on his way, she following.
+When Mardana reached his house he found several persons assembled there. They all affectionately greeted him, and said he had grown like Nanak. He was a great man now, and no longer the humble person he had been before. Mardana, having seen his people, proceeded to the house of Kalu, and sat down in his courtyard. The Guru's mother, on <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> seeing him, arose, embraced him, and wept for joy. She asked for some account of her son Nanak. By that time a great crowd had assembled, and every one wanted to hear about him. Mardana evaded all inquiries, only telling people that he had been with Nanak. He then went away. The Guru's mother at once suspected that he must have had some object in departing so quickly, and that her son could not be far off. She again arose, and taking some clothes and sweets for Nanak, followed Mardana and overtook him. She earnestly requested him to take her to her son. Mardana made no answer, but went on his way, she following.
 
 Nanak arose on seeing his mother, and respectfully saluted her. She kissed his forehead and began to weep, saying, ‘I am a sacrifice unto thee. I am a sacrifice unto the ground thou treadest on. Seeing thy face hath made me happy. Now I desire that thou shouldst abandon thy wanderings, abide with us, and turn thine attention to commerce for thy livelihood.’ The Guru, who was in turn delighted to see his mother, called on Mardana to play the rebeck while he himself sang the following:—
 
@@ -49,7 +49,7 @@ The Lord is a fruit-bearing tree whose name is ambrosia.
 They who have partaken of it are satisfied; I am a sacrifice unto them.
 Why appearest Thou not unto me, O Lord, since Thou abidest with all?
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 How shall my thirst abate when there is a screen between the Tank[^1]and me?
 Nanak is Thy dealer; Thou O Lord, art his capital.
@@ -71,7 +71,7 @@ Contentment is the waistband Thy name, _O Lord_, is wealth and youth.
 Mother, other dress affordeth ruinous happiness
 By putting it on, the body is pained and sin entereth the mind.
 
-By this time his father Kalu had heard of Nanak's arrival, and went on horseback to meet him. Nanak <span id="p98">[<sup><small>p. 98</small></sup>]</span> bowed to him, and fell at his feet. Meantime Kalu continued to weep for joy. He asked his son to mount the horse on which he had come, and go home with him. Nanak replied that he had no need of a horse, and then sang the following:—
+By this time his father Kalu had heard of Nanak's arrival, and went on horseback to meet him. Nanak <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> bowed to him, and fell at his feet. Meantime Kalu continued to weep for joy. He asked his son to mount the horse on which he had come, and go home with him. Nanak replied that he had no need of a horse, and then sang the following:—
 
 To know Thy way, _O God_, is as horses with saddles made of gold.
 To pursue virtue is as quivers, arrows, bows, spears, and sword-belts.
@@ -92,7 +92,7 @@ Kalu again said: ‘My son, tell me at what thou art offended. If thou desire it
 He who made the world watcheth over it, and appointeth _His creatures_ to their _various_ duties.
 Thy gifts, _O Lord_, are as light to the mind, and as the moon and lamps to the body.
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 Thy gifts are as the moon and lamps to the body, by which the pain of darkness is dispelled.
 The bridal procession of attributes which accompany the Bridegroom who hath chosen His bride, appeareth beautiful.
@@ -114,7 +114,7 @@ If He forget, go and complain to Him; but why should the Creator Himself forget?
 He heareth, seeth, giveth His gifts without asking or praying for.
 The Giver, the Arranger of the world giveth His gifts, Nanak, and true is He.
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 When He Himself acteth, to whom should we complain? No one else acteth.[^1]
 
@@ -133,7 +133,7 @@ By good destiny men meet God and enjoy pleasures even
 in this life.
 By evil destiny they who meet separate, O Nanak, but even so they meet again _by God's favour_.[^3]
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Kalu, finding his arguments vain, appealed to his son on the score of his health and safety, and pointed out how regardless of them he had been. The following was the Guru's reply:—
 

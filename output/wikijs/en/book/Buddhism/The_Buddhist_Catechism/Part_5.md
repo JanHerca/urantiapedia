@@ -33,7 +33,7 @@ dateCreated: 2025-2-5T12:26:57Z
 </figure>
 
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 
 325\. Q. _Has Buddhism any right to be considered a scientific religion, or may it be classified as a “revealed” one?_
@@ -46,7 +46,7 @@ A. The _Kâlâma Sutta_, of the _Anguthara Nikâya_.
 
 327\. Q. _Do Buddhists accept the theory that everything has been formed out of nothing by a Creator?_
 
-A. The Buddha taught that two things are causeless, _viz_., 'Akâsha' and 'Nirvâṇa': everything has come out of Akâsha, in obedience to a law of motion inherent in it, and, after a certain existence, passes away. <span id="p96">[<sup><small>p. 96</small></sup>]</span> Nothing ever came out of nothing. We do not believe in miracles; hence we deny creation, and cannot conceive of a creation of something out of nothing. Nothing organic is eternal. Everything is in a state of constant flux, and undergoing change and reformation, keeping up the continuity according to the law of evolution.
+A. The Buddha taught that two things are causeless, _viz_., 'Akâsha' and 'Nirvâṇa': everything has come out of Akâsha, in obedience to a law of motion inherent in it, and, after a certain existence, passes away. <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> Nothing ever came out of nothing. We do not believe in miracles; hence we deny creation, and cannot conceive of a creation of something out of nothing. Nothing organic is eternal. Everything is in a state of constant flux, and undergoing change and reformation, keeping up the continuity according to the law of evolution.
 
 328\. Q. _Is Buddhism opposed to education, and to the study of science?_
 
@@ -58,7 +58,7 @@ A. The Buddha's doctrine teaches that there were many progenitors of the human r
 
 330\. Q. _Any other?_
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 A. Buddhism supports the teaching of the indestructibility of force.
 
@@ -76,7 +76,7 @@ A. It is because of the respective Karmas of children and parents; each may have
 
 334\. Q. _Is anything said about the body of the Buddha giving out a bright light?_
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 A. Yes, this was a divine radiance sent forth from within by the power of his holiness.
 
@@ -102,7 +102,7 @@ A. In all vihâras where there are painted images of the Buddha. They are also s
 
 340\. Q. _In which discourse does the Buddha himself speak of this shining about him?_
 
-A. In the Mahâ-Parinibbana Sutta. Ānanda, his <span id="p99">[<sup><small>p. 99</small></sup>]</span> favorite disciple, noticing the great splendor which came from his Master's body, the Buddha said that on two occasions this extraordinary shining occurs, (_a_) just after a Tathâgatâ gains the supreme insight, and (_b_) on the night when he passes finally away.
+A. In the Mahâ-Parinibbana Sutta. Ānanda, his <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> favorite disciple, noticing the great splendor which came from his Master's body, the Buddha said that on two occasions this extraordinary shining occurs, (_a_) just after a Tathâgatâ gains the supreme insight, and (_b_) on the night when he passes finally away.
 
 341\. Q. _Where do we read of this great brightness being emitted front the body of another Buddha?_
 
@@ -122,7 +122,7 @@ A. The Human Aura.
 
 345\. Q. _What great scientist has proved the existence of this aura by carefully conducted experiments?_
 
-A. The Baron Von Reichenbach. His experiments are fully described in his Researches—published <span id="p100">[<sup><small>p. 100</small></sup>]</span> in 1844-5. Dr. Baraduc, of Paris, has, quite recently, photographed this light.
+A. The Baron Von Reichenbach. His experiments are fully described in his Researches—published <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> in 1844-5. Dr. Baraduc, of Paris, has, quite recently, photographed this light.
 
 346\. Q. _Is this bright aura a miracle or a natural phenomenon?_
 
@@ -138,7 +138,7 @@ A. Yes, in all pictures of Christian artists this light is represented as shinin
 
 349\. Q. _What historical incident supports the modern theory of hypnotic suggestion?_
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 A. That of Chullapanthaka, as told in the Pâlî Commentary on the Dhammapada, etc.
 
@@ -158,7 +158,7 @@ A. To return to the vihâra and, if the same thing happened, to catch by the arm
 
 A. Manomaya Iddhî.
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 354\. Q. _Were the illusionary copies of the Arhat's person material? Were they composed of substance and could they have been felt and handled by the messenger?_
 
@@ -182,7 +182,7 @@ A. That would depend on the will of the Arhat, or hypnotiser.
 
 359\. Q. _What do you mean?_
 
-A. Supposing that fifty or five hundred persons <span id="p103">[<sup><small>p. 103</small></sup>]</span> were there, instead of one, the Arhat could will that the illusion should be seen by all alike; or, if he chose, he could will that the messenger should be the only one to see them.
+A. Supposing that fifty or five hundred persons <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> were there, instead of one, the Arhat could will that the illusion should be seen by all alike; or, if he chose, he could will that the messenger should be the only one to see them.
 
 360\. Q. _Is this branch of science well known in our day?_
 
@@ -198,7 +198,7 @@ A. It says: “The world exists by cause; all things exist by cause; all beings 
 
 363\. Q. _Does Buddhism teach the unchangeableness of the visible universe; our earth, the sun, the moon_,
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 _the stars, the mineral, vegetable, animal and, human kingdoms?_
 
@@ -218,7 +218,7 @@ A. The Pâlî name is Iddhi-vidhanânâ.
 
 367\. Q. _How many kinds are there?_
 
-A. Two: “Bahira,” i.e., one in which the phenomena-working power may be temporarily obtained by ascetic practices and also by resort to drugs, the recitation of mantras (charms), or other <span id="p105">[<sup><small>p. 105</small></sup>]</span> extraneous aids; and “Sasaniks,” that in which the power in question is acquired by interior self-development, and covers all and more than the phenomena of Laukika Iddhî.
+A. Two: “Bahira,” i.e., one in which the phenomena-working power may be temporarily obtained by ascetic practices and also by resort to drugs, the recitation of mantras (charms), or other <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> extraneous aids; and “Sasaniks,” that in which the power in question is acquired by interior self-development, and covers all and more than the phenomena of Laukika Iddhî.
 
 368\. Q. _What class of men enjoy these powers?_
 
@@ -236,7 +236,7 @@ A. Yes, in perfection.
 
 A. Yes, some, but not all equally; the capacity for acquiring these occult powers varies with the individual.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 372\. Q. _Give examples_.
 
@@ -252,7 +252,7 @@ A. No. The Buddha teaches the contrary, in that beautiful story of Kisâ Gotamî
 
 375\. Q. _Give me an idea of the successive stages, of the Lokottara development in Iddhî_.
 
-A. There are six degrees attainable by Arhats; <span id="p107">[<sup><small>p. 107</small></sup>]</span> what is higher than them is to be reached only by a Buddha.
+A. There are six degrees attainable by Arhats; <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> what is higher than them is to be reached only by a Buddha.
 
 376\. Q. _Describe the six stages or degrees_.
 
@@ -272,7 +272,7 @@ A. The will, its exertion, mental development, and discrimination between right 
 
 379\. Q. _Our scriptures relate hundreds of instances of phenomena produced by Arhats: what did. you say was the name of this faculty or power?_
 
-A. _Iddhî vidha_. One possessing this can, by <span id="p108">[<sup><small>p. 108</small></sup>]</span> manipulating the forces of Nature, produce any wonderful phenomenon, i.e., make any scientific experiment he chooses.
+A. _Iddhî vidha_. One possessing this can, by <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> manipulating the forces of Nature, produce any wonderful phenomenon, i.e., make any scientific experiment he chooses.
 
 380\. Q. _Did the Buddha encourage displays of phenomena?_
 
@@ -280,7 +280,7 @@ A. No; he expressly discouraged them as tending to create confusion in the minds
 
 381\. Q. _You spoke of a 'deva' having appeared to the Prince [Siddhârtha](errata.htm#5) under a variety of forms; what do Buddhists believe respecting races of elemental invisible beings having relations with mankind?_
 
-A. They believe that there are such beings who inhabit worlds or spheres of their own. The Buddhist doctrine is, that by interior self-development and conquest over his baser nature the Arhat becomes <span id="p109">[<sup><small>p. 109</small></sup>]</span> superior to even the most formidable of the devas, and may subject and control the lower orders.
+A. They believe that there are such beings who inhabit worlds or spheres of their own. The Buddhist doctrine is, that by interior self-development and conquest over his baser nature the Arhat becomes <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> superior to even the most formidable of the devas, and may subject and control the lower orders.
 
 382\. Q. _How many kinds of devas are there?_
 

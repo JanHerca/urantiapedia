@@ -36,7 +36,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 . **M**.VII. 1. Three persons who have eaten together are bound to give an invitation. [^364] But \[in the case of him who eats\] _Dmai_ [^365] and First Tithes from which their Contribution has been taken, [^366] and Second Tithes [^367] and consecrated things [^368] which have been redeemed, [^369] and the attendant who eats as much as an olive, and the Cuthæan (Samaritan)—one gives no such invitation [^370] with respect to them.
 
-2 (1). But as for him who eats Tebel, [^371] and First Tithes from which their priests’ share has not been taken, and Second Tithes and consecrated things <span id="p60">[<sup><small>p. 60</small></sup>]</span> which have not been redeemed, also if the attendant eats less than as much as an olive, and the stranger [^372]—one gives no invitation with respect to them.
+2 (1). But as for him who eats Tebel, [^371] and First Tithes from which their priests’ share has not been taken, and Second Tithes and consecrated things <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> which have not been redeemed, also if the attendant eats less than as much as an olive, and the stranger [^372]—one gives no invitation with respect to them.
 
 **T**. V. 10. If one is acting as servant to two, behold, he eats with them: [^373] if to three, he does not eat with them until they give him permission. [^374]
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 **M**.VII. 3 (2). Women, and slaves, and little children, [^375] are not invited \[to say the Benediction\]. What is the least account of food which qualifies for the invitation? Not less than the size of an olive. R. Judah says not less than the size of an egg.
 
-**T**. V. 14. All are under obligation to say in the case of the Benediction after the meal: priests, Levites, and Israelites and proselytes and slaves, freedmen, priests of illegitimate birth, [^376] Nethinim, and bastards, eunuchs of men, and eunuchs by birth, [^377] and eunuchs of all kinds. [^378] All are under obligation, and can set the majority free from obligation. [^379] Persons of uncertain or double sex <span id="p61">[<sup><small>p. 61</small></sup>]</span> are under obligation, but cannot set the majority free from the obligation.
+**T**. V. 14. All are under obligation to say in the case of the Benediction after the meal: priests, Levites, and Israelites and proselytes and slaves, freedmen, priests of illegitimate birth, [^376] Nethinim, and bastards, eunuchs of men, and eunuchs by birth, [^377] and eunuchs of all kinds. [^378] All are under obligation, and can set the majority free from obligation. [^379] Persons of uncertain or double sex <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> are under obligation, but cannot set the majority free from the obligation.
 
 13\. One who is of double sex sets one like himself free \[from his obligation\], but no one else; one who is of uncertain sex sets neither free.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 12\. R. Mona [^382] says in the name of R. Judah, A bit of bread that comes with dessert after food requires a Benediction before it and after it.
 
-13\. The first water (for washing before the meal) is a matter of choice; the latter [^383] (after the meal) a <span id="p62">[<sup><small>p. 62</small></sup>]</span> matter of obligation. In the case of the first water if one wishes to leave off, one leaves off; but in the case of the latter water, if one wishes to leave off one does not.
+13\. The first water (for washing before the meal) is a matter of choice; the latter [^383] (after the meal) a <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> matter of obligation. In the case of the first water if one wishes to leave off, one leaves off; but in the case of the latter water, if one wishes to leave off one does not.
 
 <a id="m4"></a>
 
@@ -70,7 +70,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 **M**.VII. 4 (3). How is the invitation worded? [^384] In the case of three persons they say: “Let us bless.” [^385] If there are three besides the speaker, he says: “Blessed be He.” [^386] If there are ten he says: “Let us bless our God.” If there are ten besides the speaker he says: “Blessed be He.” It is all the same whether there be ten or ten myriads. [^387]
 
-5 (3 _cont_.). In the case of a hundred he says: “Let us bless the LORD our God.” In the case of a hundred besides the speaker he says: “Blessed be He.” In the case of a thousand they say: “Let <span id="p63">[<sup><small>p. 63</small></sup>]</span> us bless the LORD our God, the God of Israel, the God of hosts.” [1](Berakoth_3_7#fn_388)
+5 (3 _cont_.). In the case of a hundred he says: “Let us bless the LORD our God.” In the case of a hundred besides the speaker he says: “Blessed be He.” In the case of a thousand they say: “Let <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> us bless the LORD our God, the God of Israel, the God of hosts.” [1](Berakoth_3_7#fn_388)
 
 In the case of a myriad besides the speaker, he says: “Blessed be He.” According to the wording of his blessing [2](Berakoth_3_7#fn_389) so do they respond after him: “Blessed be the LORD our God, the God of Israel, the God of hosts, dwelling between the cherubim for the meal that we have eaten.”
 
@@ -82,7 +82,7 @@ R. Jose, the Galilean, says: According to the number of the congregation do they
 
 ## Companies, how to be divided.
 
-7\. (4 _cont_.). Three who have eaten together are not allowed to separate. [^393] So also with four or <span id="p64">[<sup><small>p. 64</small></sup>]</span> five. If there are six they may be divided, and so up to ten. [^394] But not ten until there be twenty.
+7\. (4 _cont_.). Three who have eaten together are not allowed to separate. [^393] So also with four or <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> five. If there are six they may be divided, and so up to ten. [^394] But not ten until there be twenty.
 
 **T**. V. 19. In the case of twenty persons they are divided \[into two groups\], provided that there be none among them who separated himself from the invitation. [^395]
 

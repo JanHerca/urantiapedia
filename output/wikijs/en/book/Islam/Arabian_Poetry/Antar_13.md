@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 While Antar was gone to assist the tribe of Mazin, something happened which marred his hopes of winning his beloved Abla, and commenced a series of troubles to himself, to his family, and even to the whole tribe of Abs. This was the betrothal of Abla to a noble Absian named Amarah: “a conceited coxcomb, very particular in his dress, fond of perfumes, and always keeping company with women and young girls.” The fame of Abla's beauty having reached this Bedouin exquisite, he sent a female slave to the tents of the family of Carad, to discover whether Abla was as beautiful as was reported of her; and the girl returning with a glowing account of Abla's charms, Amarah conceived a violent passion for her—“his ears fell in love before his eyes.” He visits old Malik, and demands his daughter in marriage, promising a handsome dowry. Malik the perfidious is overjoyed at the prospect of such a son-in-law, and very readily gives his consent—hoping, no doubt, that Antar is by this time become food for the ravens and the vultures.
 

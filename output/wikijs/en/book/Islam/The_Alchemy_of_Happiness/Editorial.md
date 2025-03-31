@@ -38,9 +38,9 @@ S. A. KAPADIA
 NORTHBROOK SOCIETY,
 185 PICCADILLY, W.
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

@@ -42,7 +42,7 @@ The hermit heard with high content
 That speech so wondrous eloquent,
 And while each hair with joy arose, [^141]
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 He thus made answer at the close:
 ‘Good is thy speech O noble King,
@@ -159,7 +159,7 @@ The bounds to strength and weakness set,
 No match is he for demon foes
 Who magic arts to arms oppose.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 O chief of saints, I have no power,
 Of Ráma reft, to live one hour:
@@ -276,7 +276,7 @@ The best of men for bravery.
 Embodied love of penance drear,
 Among the wise without a peer.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Full well he knows, great Kus'ik's son,
 The arms celestial, every one,
@@ -366,7 +366,7 @@ ln tranquil sleep or wild delight.
 No one is there in all the land
 Thine equal for the vigorous hand.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Thou, when thy lips pronounce the spell,
 Shalt have no peer in heaven or hell,
@@ -454,7 +454,7 @@ But the God's eye with scornful glare
 &nbsp;&nbsp;&nbsp;&nbsp;Fell terrible on him.
 Dissolved the shape that was so fair
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;And burnt up every limb.
 Since the great God's terrific rage
@@ -558,7 +558,7 @@ Pathless and dark it seems to be,
 Where birds in thousands wander free;
 Where shrill cicadas' cries resound,
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 And fowl of dismal note abound,
 Lion, rhinoceros, and bear,
@@ -666,7 +666,7 @@ Her son, Máricha was his name,
 A giant, through a curse, became.
 She, widowed, dared with him molest
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 Agastya,  [^162] of all saints the best.
 Inflamed with hunger's wildest rage,
@@ -777,7 +777,7 @@ She smote him with a stony shower,
 Then pouring forth his arrowy rain
 &nbsp;&nbsp;&nbsp;&nbsp;That stony flood to stay,
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 With winged darts, as she charged amain,
 &nbsp;&nbsp;&nbsp;&nbsp;He shore her hands away.
@@ -883,7 +883,7 @@ The mystic arms they use above,
 For worthy thou to have revealed
 The weapons I have learnt to wield.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 First, son of Raghu, shall be thine
 The arm of Vengeance, strong, divine:
@@ -988,7 +988,7 @@ Whose powers restrain the deadly arms,
 Receive thou True and Truly famed,
 And Bold and Fleet: the weapons named
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 Warder and Progress, swift of pace,
 Averted-head and Drooping-face;

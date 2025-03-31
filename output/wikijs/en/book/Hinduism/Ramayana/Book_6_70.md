@@ -122,7 +122,7 @@ Let troops near every gate be placed,
 And, armed with fragments of the rock
 And trees, each lane and alley block.’
 
-<span id="p475">[<sup><small>p. 475</small></sup>]</span>
+<span id="p475"><sup><small>[ p. 475 ]</small></sup></span>
 
 Thus Rama spoke: the chief obeyed,
 And swift the Vánars stood arrayed,
@@ -236,7 +236,7 @@ With gore, and Lakshman by his side,
 And strike the great Hanúmán down.
 The spoiler of our glorious town.'  [^990]
 
-<span id="p476">[<sup><small>p. 476</small></sup>]</span>
+<span id="p476"><sup><small>[ p. 476 ]</small></sup></span>
 
 
 
@@ -351,7 +351,7 @@ Who rules the sky he proudly trod.
 Behind him went a mighty throng
 Of giant warriors tall and strong,
 
-<span id="p477">[<sup><small>p. 477</small></sup>]</span>
+<span id="p477"><sup><small>[ p. 477 ]</small></sup></span>
 
 On elephants of noblest breeds.
 With cars, with camels, and with steeds:
@@ -459,7 +459,7 @@ Rained fast on Kumbhakrna's head.
 Whose spear each deadlier missile stopped,
 And harmless on the plain it dropped.
 
-<span id="p478">[<sup><small>p. 478</small></sup>]</span>
+<span id="p478"><sup><small>[ p. 478 ]</small></sup></span>
 
 Then with his furious eyes aglow
 The giant rushed upon the foe,
@@ -559,7 +559,7 @@ His clouded eye confessed his fear;
 Yet at Sugríva's head he sent
 A peak from Lanká's mountain rent.
 
-<span id="p479">[<sup><small>p. 479</small></sup>]</span>
+<span id="p479"><sup><small>[ p. 479 ]</small></sup></span>
 
 The rushing mass no might could stay:
 Sugriva fell and senseless lay.
@@ -677,7 +677,7 @@ And with thy flesh my hunger feed.’
 &nbsp;&nbsp;&nbsp;&nbsp;He ceased and Ráma, undismayed,
 Upon his cord those arrows laid
 
-<span id="p480">[<sup><small>p. 480</small></sup>]</span>
+<span id="p480"><sup><small>[ p. 480 ]</small></sup></span>
 
 Which pierced the stately Sál trees through,
 And Báli king of Vánars slew.
@@ -787,7 +787,7 @@ My foolish heart was overbold:
 I drove my sage adviser hence,
 And reap the fruits of mine offence.’
 
-<span id="p481">[<sup><small>p. 481</small></sup>]</span>
+<span id="p481"><sup><small>[ p. 481 ]</small></sup></span>
 
 
 
@@ -897,7 +897,7 @@ But well his club Devántak plied
 And turned each rock and tree aside.
 Nor yet, by three such foes assailed,
 
-<span id="p482">[<sup><small>p. 482</small></sup>]</span>
+<span id="p482"><sup><small>[ p. 482 ]</small></sup></span>
 
 The heart of Angad sank or quailed.
 He slew the mighty beast that bore

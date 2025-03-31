@@ -82,7 +82,7 @@ He measured with one mighty stride,
 Spanned with the next the firmament,
 And with the third through heaven he went.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Thus was the king of demons hurled
 By Vishnu to the nether world,
@@ -203,7 +203,7 @@ And smote, to utmost fury wrought,
 Deep in his flesh the weapon lay
 &nbsp;&nbsp;&nbsp;&nbsp;Winged by the mystic spell,
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 And, hurled a hundred leagues away,
 &nbsp;&nbsp;&nbsp;&nbsp;In ocean's flood he fell.
@@ -322,7 +322,7 @@ In reverence to the hermit crowd,
 And Ráma, having sate him down
 Before the saint of pure renown,
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 With humble palms together laid
 His eager supplication made:
@@ -432,7 +432,7 @@ Each stately form be bowed and bent.
 Bent double by the Wind-God's ire
 Tliey sought the palace of their sire,
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 There fell upon the ground with sighs,
 While tears and shame were in their eyes.
@@ -550,7 +550,7 @@ Her daughters; and, embracing each,
 Upon their forms she fondly gazed,
 And royal Kus'anábha praised.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 
 
@@ -666,7 +666,7 @@ And land us on the farther shore?
 The saint replied: 'The way I choose
 Is that which pious hermits use.’
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 For many a league they journeyed on
 Till, when the sun of mid-day shone,
@@ -779,7 +779,7 @@ And as thou sayest be it so.’
 
 &nbsp;&nbsp;&nbsp;&nbsp;[^180]
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 With his sweet speech the saint replied:
 ‘Yourselves, O Queens, the choice decide.
@@ -882,7 +882,7 @@ All sanctified with prayer and spell.
 If in the depths of earth he hide,
 Or lurk beneath the ocean's tide,
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Pursue, dear sons, the robber's track;
 Slay him and bring the charger back.

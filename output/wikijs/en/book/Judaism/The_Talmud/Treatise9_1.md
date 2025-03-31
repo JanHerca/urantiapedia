@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 ## TREATISE IX.
 
@@ -48,7 +48,7 @@ What is a Child?—Offerings—Crooked and Straight—Remission of Vows—Person
 
 2\. The school of Shammai say, “the appearance in the Temple is with two pieces of silver, and the peace-offering with a meah of silver.” [^349] But the school of Hillel say, “the appearance is with a meah of silver, and the feast offering with two pieces of silver.”
 
-3\. The burnt offerings of the appointed feasts come from ordinary money; but the peace-offering from tithes. “The offerings on the first holiday of the passover?” [^350] The school of Shammai say, “from ordinary money,” but the school of Hillel say, “from tithes.” <span id="p170">[<sup><small>p. 170</small></sup>]</span> 4\. Israelites discharge their duty with vows, with freewill offerings, and with tithes of animals; and priests with sin-offerings, with trespass-offerings, and with the breast and shoulder, and first-born, but not with fowls, nor with meat-offerings.
+3\. The burnt offerings of the appointed feasts come from ordinary money; but the peace-offering from tithes. “The offerings on the first holiday of the passover?” [^350] The school of Shammai say, “from ordinary money,” but the school of Hillel say, “from tithes.” <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 4\. Israelites discharge their duty with vows, with freewill offerings, and with tithes of animals; and priests with sin-offerings, with trespass-offerings, and with the breast and shoulder, and first-born, but not with fowls, nor with meat-offerings.
 
 5\. “If one have a large family and small income?” “He must bring more peace-offerings, and less burnt-offerings.” “If a small family and large income?” “He must bring more burnt-offerings, and less peace-offerings.” “If both be small?” “Of this they say, a silver meah, and two pieces of silver are sufficient.” “If both be large?” “Of this it is said, every man shall give as he is able according to the blessing of the Lord thy God which He hath given thee.” [^351]
 

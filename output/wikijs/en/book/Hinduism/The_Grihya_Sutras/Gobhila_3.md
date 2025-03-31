@@ -32,13 +32,13 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 ## PRAPÂ_TH_AKA III, KÂ_N__D_IKÂ 1.
 
 1\. [^259] Now (follows) the Godâna ceremony (or cutting of the beard), in the sixteenth year.
 
-2\. [^260] The cutting of the hair (and the beard) has been explained by the (description of the) _K<i>û</i>d<i>û</i>n_a (II, 9). <span id="p70">[<sup><small>p. 70</small></sup>]</span>
+2\. [^260] The cutting of the hair (and the beard) has been explained by the (description of the) _K<i>û</i>d<i>û</i>n_a (II, 9). <span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 3\. [^261] The student has his hair (and beard) cut himself.
 
@@ -72,7 +72,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 18\. 'Sleeping on high (bedsteads),
 
-19\. 'Performances of singing, dancing, &c., the use of perfumes and of collyrium, <span id="p71">[<sup><small>p. 71</small></sup>]</span>
+19\. 'Performances of singing, dancing, &c., the use of perfumes and of collyrium, <span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 20\. 'Bathing,
 
@@ -107,7 +107,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 2.
 
@@ -133,7 +133,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 11\. Let him not eat in the morning before he has touched water.
 
-12\. [^268] In the evening, after he has touched water, he should not eat, before he has put the piece of wood on the fire. <span id="p73">[<sup><small>p. 73</small></sup>]</span>
+12\. [^268] In the evening, after he has touched water, he should not eat, before he has put the piece of wood on the fire. <span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 13\. He should wear dark clothes.
 
@@ -171,7 +171,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 30\. [^269] The rules about dark (clothes), standing, sitting, (making) way, and (dark) food may be considered as optional.
 
-31\. After he has kept his vow through one third (of the prescribed time, the teacher) should <span id="p74">[<sup><small>p. 74</small></sup>]</span> sing to him the (first) Stotriya verse (of the Mahânâmnîs).
+31\. After he has kept his vow through one third (of the prescribed time, the teacher) should <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> sing to him the (first) Stotriya verse (of the Mahânâmnîs).
 
 32\. In the same way the two other Stotriya verses (after two-thirds of the time and at the end of the whole time).
 
@@ -191,7 +191,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 40\. Fire, Â<i>g</i>ya, the sun, a Brahman, a bull, food, water, curds,
 
-41\. With (the words), ‘The sky have I beheld! Light have I beheld!’ <span id="p75">[<sup><small>p. 75</small></sup>]</span>
+41\. With (the words), ‘The sky have I beheld! Light have I beheld!’ <span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 42\. In that way all (the objects stated in Sûtra 40) three times.
 
@@ -207,7 +207,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 48\. [^275] A mess of cooked food, sacred to Indra, (is prepared). Let him sacrifice of that (food) with this verse, ‘To the _Ri__k_, to the Sâman we sacrifice’ (Sâma-veda I, 369), or (with the verse), ‘The lord of the seat, the wonderful’ (ibid. I, 171), or with both (verses).
 
-49\. [^276] This (he should do) at (all) the Anuprava<i>k</i>anîya ceremonies. <span id="p76">[<sup><small>p. 76</small></sup>]</span>
+49\. [^276] This (he should do) at (all) the Anuprava<i>k</i>anîya ceremonies. <span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 50\. [^277] The Mantra has to be altered everywhere (so that he has to say), ‘I have kept (the vow),’ ‘I have been able,’ ‘Thereby I have prospered,’ ‘I have undergone.’
 
@@ -227,7 +227,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 58\. [^280] He should avoid (constantly living on) the same grain, and in the same place, and wearing one garment.
 
-59\. He should perform the rite of ‘touching water’ with water drawn out (of a pond, &c.). <span id="p77">[<sup><small>p. 77</small></sup>]</span>
+59\. He should perform the rite of ‘touching water’ with water drawn out (of a pond, &c.). <span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 60\. [^281] From (the time of) his being directed (to observe the duties of his Vrata) he should not eat from an earthen vessel,
 
@@ -244,7 +244,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. [^284] After (the teacher) has sacrificed with the Vyâh<i>ri</i>tis, he recites the Sâvitrî to the students as at the Upanayana;
 
-3\. And (he chants) the Sâvitrî with its Sâman melody, <span id="p78">[<sup><small>p. 78</small></sup>]</span>
+3\. And (he chants) the Sâvitrî with its Sâman melody, <span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 4\. And (the Bârhaspatya Sâman, with the text), ‘Soma, the king, Varu<i>n</i>a’ (Sâma-veda I, 91).
 
@@ -258,7 +258,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. [^288] On the day sacred to Savit<i>ri</i> they wait.
 
-10\. [^289] And at (the beginning of) the northerly <span id="p79">[<sup><small>p. 79</small></sup>]</span> course of the sun (they wait) one night with one day before and one day after it,
+10\. [^289] And at (the beginning of) the northerly <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> course of the sun (they wait) one night with one day before and one day after it,
 
 11\. (Or they interrupt their study for) a period of three nights before and afterwards, according to some (teachers).
 
@@ -270,7 +270,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 15\. [^293] They should go out of the village in an easterly or northerly direction, should go to water which reaches higher than to their secret parts, should touch water (in the way prescribed above, I, 2), and should satiate the metres, the <i>Ri</i>shis, and teachers (by libations of water).
 
-16\. [^294] After this second Upâkara<i>n</i>a, until the (chief) Upâkara<i>n</i>a (has been performed) again for the Vedic texts, an interruption of the study (of the Veda takes place), if clouds rise. <span id="p80">[<sup><small>p. 80</small></sup>]</span>
+16\. [^294] After this second Upâkara<i>n</i>a, until the (chief) Upâkara<i>n</i>a (has been performed) again for the Vedic texts, an interruption of the study (of the Veda takes place), if clouds rise. <span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 17\. If lightning (is observed), or if it thunders, or if it is drizzling, (he shall not study) until the same time next day.
 
@@ -294,7 +294,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 27\. One day and one night, if somebody (has died) who has reverentially approached.
 
-28\. If singing, or the sound of a musical instrument, or weeping is heard, or if it is storming, (the <span id="p81">[<sup><small>p. 81</small></sup>]</span> study of the Veda is discontinued) as long as that (reason of the interruption) lasts.
+28\. If singing, or the sound of a musical instrument, or weeping is heard, or if it is storming, (the <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> study of the Veda is discontinued) as long as that (reason of the interruption) lasts.
 
 29\. [^297] As regards other (cases in which the reading of the Veda should ne discontinued), the practice of the _S<i>ish</i>t_as (should be followed).
 
@@ -316,7 +316,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ### KÂ_N__D_IKÂ 4.
 
@@ -336,7 +336,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. To the north or the east of the teacher's house there is an enclosure.
 
-9\. There the teacher sits down, facing the north, on eastward-pointed Darbha grass; <span id="p83">[<sup><small>p. 83</small></sup>]</span>
+9\. There the teacher sits down, facing the north, on eastward-pointed Darbha grass; <span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 10\. Facing the east the student on northward-pointed Darbha grass.
 
@@ -360,7 +360,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 20\. He then should rise and should worship the sun with the Mantra, ‘Rising with (the Maruts) who bear shining spears’ (ibid. 6-9), &c.
 
-21\. [^306] Optionally he may use the single sections of <span id="p84">[<sup><small>p. 84</small></sup>]</span> the Mantra separately (in the morning, at noon, and in the evening) as indicated in the text.
+21\. [^306] Optionally he may use the single sections of <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> the Mantra separately (in the morning, at noon, and in the evening) as indicated in the text.
 
 22\. He should add (the formula), ‘The eye art thou’ (ibid. 9) after (each of the three sections of the Mantra, 6-8).
 
@@ -380,7 +380,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 30\. Here the teacher should honour him with the Argha ceremony.
 
-31\. (The student then) should approach a chariot yoked with oxen, and should touch its two side-pieces or the two arms of the chariot-pole with <span id="p85">[<sup><small>p. 85</small></sup>]</span> (the verse), ‘O tree, may thy limbs be strong’ (ibid. 16).
+31\. (The student then) should approach a chariot yoked with oxen, and should touch its two side-pieces or the two arms of the chariot-pole with <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> (the verse), ‘O tree, may thy limbs be strong’ (ibid. 16).
 
 32\. With (the last words of that verse), ‘May he who stands on thee, win what can be won’—he mounts it.
 
@@ -410,7 +410,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. Or which has stood over night—
 
-10\. Except such as is prepared of vegetables, flesh, barley, or flour. <span id="p86">[<sup><small>p. 86</small></sup>]</span>
+10\. Except such as is prepared of vegetables, flesh, barley, or flour. <span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 11\. Let him not run while it is raining.
 
@@ -444,7 +444,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 26\. He should not praise any person (excessively).
 
-27\. He should not speak of what he has not seen, as if he had seen it, <span id="p87">[<sup><small>p. 87</small></sup>]</span>
+27\. He should not speak of what he has not seen, as if he had seen it, <span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 28\. Nor of what he has not heard, as if he had heard it.
 
@@ -475,7 +475,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. [^314] When his cows are driven out, he should repeat (the verse), ‘May (Bhava), the all-valiant one, (and Indra protect) these (cows) for me’ (MB. I, 8, 1).
 
-2\. When they have come back, (he should repeat the verse), ‘These which are rich in sweet’ (ibid. 2). <span id="p88">[<sup><small>p. 88</small></sup>]</span>
+2\. When they have come back, (he should repeat the verse), ‘These which are rich in sweet’ (ibid. 2). <span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 3\. If he is desirous of thriving (in his cattle), he should lick with his tongue the forehead of the firstborn calf, before it is licked by its mother, and should gulp with (the formula), ‘Thou art the phlegm of the cows’ (ibid. 3).
 
@@ -491,7 +491,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. [^315] (The rites at) the driving out (of the cows), at the coming back (of the cows), and at the setting into motion of the rope (with the calves).
 
-10\. At the cow-sacrifice (i.e. the sacrifice by which a thriving condition for the cows is obtained), boiled rice-grains with milk (are offered). <span id="p89">[<sup><small>p. 89</small></sup>]</span>
+10\. At the cow-sacrifice (i.e. the sacrifice by which a thriving condition for the cows is obtained), boiled rice-grains with milk (are offered). <span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 11\. Let him sacrifice to Agni, Pûshan, Indra, and Î<i>s</i>vara.
 
@@ -519,7 +519,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. (To the extent) of more than one prakrama (i.e. step).
 
-7\. He puts a dish on the fire and fries (in that <span id="p90">[<sup><small>p. 90</small></sup>]</span> dish) one handful of barley-grains, without burning them.
+7\. He puts a dish on the fire and fries (in that <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> dish) one handful of barley-grains, without burning them.
 
 8\. [^318] To the west of the fire he places a mortar so that it stands firmly, and husks (the grains), separating (the husked and the unhusked grains?).
 
@@ -533,7 +533,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 13\. He takes once a quantity of flour with the Darvi spoon, pours out water on the besmeared place to the east (of the fire), and offers (there) a Bali with (the words), ‘O king of Serpents, dwelling towards the east, this is thy Bali!’ (MB. II, 1, 1).
 
-14\. He pours the rest of the water over (that Bali, taking care) that it does not carry away the Bali. <span id="p91">[<sup><small>p. 91</small></sup>]</span>
+14\. He pours the rest of the water over (that Bali, taking care) that it does not carry away the Bali. <span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 15\. [^320] Turning round from right to left, he besprinkles the wooden cup and the Darvi spoon, warms them, and (repeats the offering of a Bali) in the same way towards the south, towards the west, and towards the north, as the Mantra (MB. II, I, 1. 2) runs, without turning away (between the single Bali-offerings).
 
@@ -547,7 +547,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 20\. [^323] The rest (should be performed) according to the Sthâlîpâka rite.
 
-21\. To the north of the fire he places a bunch of Darbha grass with roots, and murmurs the Mantra, ‘Soma the king’ (ibid. 4), and, ‘The agreement which you have made’ (ibid. 5). <span id="p92">[<sup><small>p. 92</small></sup>]</span>
+21\. To the north of the fire he places a bunch of Darbha grass with roots, and murmurs the Mantra, ‘Soma the king’ (ibid. 4), and, ‘The agreement which you have made’ (ibid. 5). <span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 22\. On the following day he has flour of fried barley-grains prepared, and in a new pot, covering (it with another pot), he puts it up (in his house).
 
@@ -565,7 +565,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. [^327] The rest (should be performed) according to the Sthâlîpâka rite.
 
-5\. Having carried the P<i>ri</i>shâtaka around the fire, turning his right side towards (the fire), and having caused the Brâhma<i>ri</i>as to look at it (i.e. at the P<i>ri</i>shâtaka), he should look at it himself with (the verse <span id="p93">[<sup><small>p. 93</small></sup>]</span> repeated by the Brâhma<i>ri</i>as and by the-sacrificer), ‘That bright eye, created by the gods, which rises on the east—may we see it a hundred autumns; may we live a hundred autumns!’
+5\. Having carried the P<i>ri</i>shâtaka around the fire, turning his right side towards (the fire), and having caused the Brâhma<i>ri</i>as to look at it (i.e. at the P<i>ri</i>shâtaka), he should look at it himself with (the verse <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> repeated by the Brâhma<i>ri</i>as and by the-sacrificer), ‘That bright eye, created by the gods, which rises on the east—may we see it a hundred autumns; may we live a hundred autumns!’
 
 6\. After he has entertained the Brâhma<i>n</i>as with food and has eaten himself, (the sacrificer and his family) should tie (to their arms, necks, &c.) amulets made of lac together with all sorts of herbs, for the sake of prosperity.
 
@@ -587,7 +587,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 15\. And over (these portions) water (is poured).
 
-16\. [^330] (After the food has been prepared in this <span id="p94">[<sup><small>p. 94</small></sup>]</span> way), he should swallow it without chewing it, with (the Mantra), ‘From the good to the better’ (ibid. 13).
+16\. [^330] (After the food has been prepared in this <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> way), he should swallow it without chewing it, with (the Mantra), ‘From the good to the better’ (ibid. 13).
 
 17\. In the same way three times.
 
@@ -613,7 +613,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. [^332] They have been explained by the _S<i>râva</i>n_a sacrifice.
 
-3\. [^333] He does not murmur (here) the Mantra, ‘Adoration to the Earth’s.’ <span id="p95">[<sup><small>p. 95</small></sup>]</span>
+3\. [^333] He does not murmur (here) the Mantra, ‘Adoration to the Earth’s.’ <span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 4\. In the morning, after he has sacrificed the (regular) morning oblation, he should have the following (plants and branches of trees) fetched, viz. Darbha grass, a <i>S</i>ami (branch), Vîri<i>n</i>a grass, a (Badarî branch) with fruits, Apâmârga, and <i>S</i>irîsha. He then should silently throw (a portion) of flour of fried barley into the fire, should cause the Brâhma<i>n</i>as to pronounce auspicious wishes, and should circumambulate the house, turning his right side towards it, starting from the room for the (sacred) fire, striking the smoke (of the sacred fire) with those objects (i.e. with the plants and branches mentioned above).
 
@@ -627,7 +627,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. Of that (milk-rice) he should make an oblation with (the Mantra), ‘She shone forth as the first’ (MB. II, 2, 1).
 
-10\. [^336] The rest (should be performed) according to the Sthâlîpâka rite. <span id="p96">[<sup><small>p. 96</small></sup>]</span>
+10\. [^336] The rest (should be performed) according to the Sthâlîpâka rite. <span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 11\. To the west of the fire he touches the Barhis with his two hands turned downwards, and murmurs the Vyâh<i>ri</i>tis (i.e. the solemn utterances), ‘In the Kshatra I establish myself’ (ibid. 2. 3).
 
@@ -651,7 +651,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 21\. They repeat the auspicious hymns as far as they know them;
 
-22\. [^338] The complex of Sâmans called Arish<i>t</i>a, according to some (teachers). <span id="p97">[<sup><small>p. 97</small></sup>]</span>
+22\. [^338] The complex of Sâmans called Arish<i>t</i>a, according to some (teachers). <span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 23\. Having touched water, they may do whatever they like.
 
@@ -677,7 +677,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. The eighth day of the dark fortnight after the Âgrahâya<i>t</i>î is called Apûpâsh<i>t</i>akâ (i.e. Ash<i>t</i>akâ of the cakes).
 
-10\. [^341] Having prepared grains in the way prescribed <span id="p98">[<sup><small>p. 98</small></sup>]</span> for Sthâlîpâkas, he cooks (those grains and prepares thus) a <i>k</i>aru.
+10\. [^341] Having prepared grains in the way prescribed <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> for Sthâlîpâkas, he cooks (those grains and prepares thus) a <i>k</i>aru.
 
 11\. [^342] And (besides he prepares) eight cakes, without turning them over in the dish (in which he bakes them);
 
@@ -695,7 +695,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 18\. [^346] (At the second Ash<i>t</i>akâ, on) the eighth day after the full-moon day of Taisha, a cow (is sacrificed).
 
-19\. Shortly before the time of junction (of day and night, i.e. before the morning twilight) he should place that (cow) to the east of the fire, and when (that time) has come, he should sacrifice (Â<i>g</i>ya) with <span id="p99">[<sup><small>p. 99</small></sup>]</span> (the verse), ‘What, O beasts, you think’ (MB. II, 2, 5).
+19\. Shortly before the time of junction (of day and night, i.e. before the morning twilight) he should place that (cow) to the east of the fire, and when (that time) has come, he should sacrifice (Â<i>g</i>ya) with <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> (the verse), ‘What, O beasts, you think’ (MB. II, 2, 5).
 
 20\. And after having sacrificed, he should recite over (the cow the verse), ‘May thy mother give leave to thee’ (ibid. 6).
 
@@ -719,7 +719,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 30\. They lay two purifiers (i.e. grass-blades) on (the cow's body) near its navel, cut it up in the direction of its hairs, and draw the omentum out.
 
-31\. He should spit it on two pieces of wood, on one (simple) branch and on another forked branch, should besprinkle it (with water), and should roast it. <span id="p100">[<sup><small>p. 100</small></sup>]</span>
+31\. He should spit it on two pieces of wood, on one (simple) branch and on another forked branch, should besprinkle it (with water), and should roast it. <span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 32\. [^347] When it has ceased to drop, he should say, 'Hew the (cow) to pieces—
 

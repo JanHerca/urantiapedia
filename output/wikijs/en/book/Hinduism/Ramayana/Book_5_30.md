@@ -84,7 +84,7 @@ Marked with the mighty archer's name.  [^838]
 Then in the fiery deluge all
 Thy giants round their king shall fall.’
 
-<span id="p408">[<sup><small>p. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 
 
@@ -191,7 +191,7 @@ Who smote the sovereign of the skies,
 And made the thirty Gods and three, [^844]
 O'ercome in furious battle, flee.
 
-<span id="p409">[<sup><small>p. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 Thy lover turns away with scorn
 From wives whom grace and youth adorn.
@@ -274,7 +274,7 @@ And trembling from their presence shrank
 Like a strayed fawn, when night is dark,
 And hungry wolves around her bark.
 
-<span id="p410">[<sup><small>p. 410</small></sup>]</span>
+<span id="p410"><sup><small>[ p. 410 ]</small></sup></span>
 
 Then to a shady tree she crept,
 And thought upon her lord and wept.
@@ -392,7 +392,7 @@ On Rávan's car they seemed to ride,
 And with the princely Lakshman flee
 To northern realms beyond the sea.
 
-<span id="p411">[<sup><small>p. 411</small></sup>]</span>
+<span id="p411"><sup><small>[ p. 411 ]</small></sup></span>
 
 Then Rávan, shaved and shorn, besmeared
 With oil from head to foot, appeared.
@@ -480,7 +480,7 @@ from Sanskrit were used, but the employment
 of formal and elaborate diction,
 MUIR'S _Sanskrit Texts_, Part II. p. 166.}
 
-<span id="p412">[<sup><small>p. 412</small></sup>]</span>
+<span id="p412"><sup><small>[ p. 412 ]</small></sup></span>
 
 In terror she will start and cry;
 And all the demon band, alarmed,

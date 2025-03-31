@@ -56,7 +56,7 @@ I will break down the support of Greece from its foundations, and I will sever B
 
 I will exterminate every lion-hero with my sword;—let him vaunt, let him boast, let him scoff!
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 Is it not known that my power is sublime on high?—is it not among the stars in the vicinity of Jupiter?
 
@@ -88,7 +88,7 @@ The realms of Chosroe I would not covet, were the phantom of my love to vanish f
 
 May the showers of rain ever bedew the lands and mounds of Shurebah!—lands, where the brilliancy of the veiled full moons may be seen in the obscurity of their sable ringlets—where my heart chases among them a damsel whose eyes are painted with antimony, more lovely than the Houri.
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 Thou mayst see in her teeth a liquor when she smiles, where the wine-cup is studded with pearls.
 
@@ -114,7 +114,7 @@ The songstress would soothe my heart with her voice; but my love-sick heart loat
 
 The remembrances of Abla draw off my mind from her song, and I would say to my friend: This is all a dream!
 
-<span id="p229">[<sup><small>p. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 In the land of Hejaz are the tents of my tribe, and to meet them again is forbidden me.
 
@@ -186,7 +186,7 @@ Thou art he to whom all kings must submit; and in thy justice thou hast surpasse
 
 “‘Do not imagine,’ exclaimed the King, with augmented delight, ‘that we have been able duly to recompense you. What we have given you is perishable, as every thing human is; but your praises will endure for ages.’
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 “He then kissed Antar between the eyes, and bade him adieu, giving him as a last token a rich robe; and begging him to visit him frequently, he departed.”
 
@@ -206,7 +206,7 @@ I departed from thee not uneasy, or much in anguish; but my uncle has outraged m
 
 He has exposed me to a sea of dangers, but I plunged into it with my glittering two-edged blade.
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 I have cut through the neck of Fortune, and the nocturnal vicissitudes and the nightly calamities have trembled.
 

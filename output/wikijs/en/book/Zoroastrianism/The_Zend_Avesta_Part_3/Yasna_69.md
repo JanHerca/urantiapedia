@@ -37,7 +37,7 @@ dateCreated: 2025-2-12T12:15:42Z
 (See Y. XLVI, 3; Y. L, 6-11.)
 
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 ## YASNA LXIX (SP. LXVIII).
 

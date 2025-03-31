@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 THIRD ÂRA<i>N</i>YAKA [^619].
 
@@ -46,7 +46,7 @@ FIRST ADHYÂYA.
 
 3\. That air is not considered [^622] independent [^623], therefore I do not agree with his (Mandûka's) son.
 
-4\. Verily, the two are the same, therefore air is <span id="p248">[<sup><small>p. 248</small></sup>]</span> considered independent, thus says Âgastya. For it is the same, whether they say air or ether [1](Aranyaka_3_1#fn624).
+4\. Verily, the two are the same, therefore air is <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> considered independent, thus says Âgastya. For it is the same, whether they say air or ether [1](Aranyaka_3_1#fn624).
 
 5\. So far with reference to deities (mythologically); now with reference to the body (physiologically):
 
@@ -64,7 +64,7 @@ FIRST ADHYÂYA.
 
 ## SECOND KHA<i>N</i><i>D</i>A.
 
-1\. Next comes the meditation as taught by <i>S</i>âkalya. <span id="p249">[<sup><small>p. 249</small></sup>]</span> 2\. The first half is the earth, the second half heaven, their uniting the rain, the uniter Par<i>g</i>anya [^629].
+1\. Next comes the meditation as taught by <i>S</i>âkalya. <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> 2\. The first half is the earth, the second half heaven, their uniting the rain, the uniter Par<i>g</i>anya [^629].
 
 3\. And so it is when he (Par<i>g</i>anya) rains thus strongly, without ceasing, day and night [^630],
 
@@ -78,7 +78,7 @@ FIRST ADHYÂYA.
 
 8\. Having thus represented the self (body) as the whole world, <i>S</i>âkalya said: This half is the earth, that half heaven.
 
-9\. He who thus knows this union, becomes united with offspring, cattle, fame, glory of countenance, <span id="p250">[<sup><small>p. 250</small></sup>]</span> and the world of Svarga. He lives his full age.
+9\. He who thus knows this union, becomes united with offspring, cattle, fame, glory of countenance, <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> and the world of Svarga. He lives his full age.
 
 ## THIRD KHA<i>N</i><i>D</i>A [^633].
 
@@ -88,7 +88,7 @@ FIRST ADHYÂYA.
 
 3\. Now, if any one should chide him who recites the Nirbhu<i>g</i>a, let him answer: ‘Thou art fallen from the two lower places [^635].’ If any one should chide him who recites the Prat<i>ri</i><i>n</i><i>n</i>a, let him answer: ‘Thou art fallen from the two higher places [^636].’ But he who recites the Ubhayamantare<i>n</i>a, there is no chiding him.
 
-4\. For when he turns out the Sandhi (the union of words), that is the form of Nirbhu<i>g</i>a [^637]; and when be pronounces two syllables pure (without modification), that is the form of Prat<i>ri</i><i>n</i><i>n</i>a [^638]. This comes <span id="p251">[<sup><small>p. 251</small></sup>]</span> first [^639]. By the Ubhayamantara (what is between the two) both are fulfilled (both the sandhi and the pada).
+4\. For when he turns out the Sandhi (the union of words), that is the form of Nirbhu<i>g</i>a [^637]; and when be pronounces two syllables pure (without modification), that is the form of Prat<i>ri</i><i>n</i><i>n</i>a [^638]. This comes <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> first [^639]. By the Ubhayamantara (what is between the two) both are fulfilled (both the sandhi and the pada).
 
 5\. Let him who wishes for proper food say the Nirbhu<i>g</i>a; let him who wishes for Svarga, say the Prat<i>ri</i><i>n</i><i>n</i>a; let him who wishes for both say the Ubhayamantare<i>n</i>a.
 
@@ -106,7 +106,7 @@ If another man should chide him who says the Ubhayamantare<i>n</i>a, let him say
 
 10\. Nay, not even in excessive wealth should he curse a Brâhma<i>n</i>a, but he should say, ‘I bow before Brâhma<i>n</i>as,’—thus says <i>S</i>ûravîra Mâ<i>n</i><i>d</i>ûkeya.
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 ## FOURTH KHA<i>N</i><i>D</i>A.
 
@@ -120,7 +120,7 @@ If another man should chide him who says the Ubhayamantare<i>n</i>a, let him say
 
 5\. And whatever the reciter shall say to one who speaks to him or does not speak to him, depend upon it, it will come to pass. But to a Brâhma<i>n</i>a let him not say anything except what is auspicious. Only he may curse a Brâhma<i>n</i>a in excessive wealth. Nay, not even in excessive wealth should he curse a Brâhma<i>n</i>a, but he should say, ‘I bow before Brâhma<i>n</i>as,’—thus says <i>S</i>ûravîra Mâ<i>n</i><i>d</i>ûkeya.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 ## FIFTH KHA<i>N</i><i>D</i>A.
 
@@ -134,7 +134,7 @@ If another man should chide him who says the Ubhayamantare<i>n</i>a, let him say
 
 5\. He who thus knows this Sa<i>m</i>hitâ (union), becomes united with offspring, cattle, fame, glory of countenance, and the world of Svarga. He lives his full age.
 
-6\. Now his middle son, the child of his mother Prâtibodhî [^646], says: 'One pronounces these two syllables letter by letter, without entirely separating <span id="p254">[<sup><small>p. 254</small></sup>]</span> them, and without entirely uniting them [^647]. Then that mora between the first and second halves, which indicates the union, that is the Sâman (evenness, sliding). I therefore hold Sâman only to be the Sa<i>m</i>hitâ (union).
+6\. Now his middle son, the child of his mother Prâtibodhî [^646], says: 'One pronounces these two syllables letter by letter, without entirely separating <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> them, and without entirely uniting them [^647]. Then that mora between the first and second halves, which indicates the union, that is the Sâman (evenness, sliding). I therefore hold Sâman only to be the Sa<i>m</i>hitâ (union).
 
 7\. This has also been declared by a <i>Ri</i>shi (Rv. II, 23, 16):—
 
@@ -150,7 +150,7 @@ If another man should chide him who says the Ubhayamantare<i>n</i>a, let him say
 
 3\. For this Upanishad (for acquiring from his teacher the knowledge of this Sa<i>m</i>hitâ of speech and breath) Târukshya guards (his teacher's) cows a whole year.
 
-4\. For it alone Târukshya guards the cows a whole year. <span id="p255">[<sup><small>p. 255</small></sup>]</span> 5\. This has also been declared by a <i>Ri</i>shi (Rv. X, 181, 1; and Rv. X, 181, 2):—
+4\. For it alone Târukshya guards the cows a whole year. <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> 5\. This has also been declared by a <i>Ri</i>shi (Rv. X, 181, 1; and Rv. X, 181, 2):—
 
 6\. 'Vasish<i>th</i>a carried hither the Rathantara; ‘Bharadvâga brought hither the B<i>ri</i>hat of Agni.’
 
@@ -166,7 +166,7 @@ If another man should chide him who says the Ubhayamantare<i>n</i>a, let him say
 
 12\. Pañ<i>k</i>âla<i>k</i>a<i>n</i><i>d</i>a said: ‘The Sa<i>m</i>hitâ (union, composition) is speech.’
 
-13\. Verily, by speech the Vedas, by speech the metres are composed. Friends unite through speech, all beings unite through speech; therefore speech is everything here [^651]. <span id="p256">[<sup><small>p. 256</small></sup>]</span> 14\. With regard to this (view of speech being more than breath), it should be borne in mind that when we thus repeat (the Veda) or speak, breath is (absorbed) in speech; speech swallows breath. And when we are silent or sleep, speech is (absorbed) in breath; breath swallows speech. The two swallow each other. Verily, speech is the mother, breath the son.
+13\. Verily, by speech the Vedas, by speech the metres are composed. Friends unite through speech, all beings unite through speech; therefore speech is everything here [^651]. <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> 14\. With regard to this (view of speech being more than breath), it should be borne in mind that when we thus repeat (the Veda) or speak, breath is (absorbed) in speech; speech swallows breath. And when we are silent or sleep, speech is (absorbed) in breath; breath swallows speech. The two swallow each other. Verily, speech is the mother, breath the son.
 
 15\. This has been declared also by a <i>Ri</i>shi (Rv. X, 114, 4):—
 

@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ## THE BOOK OF THE GREAT DECEASE. MAHÂ-PARINIBBÂNA-SUTTA. CHAPTER VI.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘But what, Lord, is the higher penalty?’
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 ‘Let <i>Kh</i>anna say whatever he may like, Ânanda, the brethren should neither speak to him, nor exhort him, nor admonish him[^2].’
 
@@ -68,7 +68,7 @@ And when he had thus spoken the brethren were silent.
 
 And even the third time the brethren were silent.
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 7\. Then the Blessed One addressed the brethren, and said: ‘It may be, brethren, that you put no questions out of reverence for the teacher. Let one friend communicate to another.’
 
@@ -86,13 +86,13 @@ This was the last word of the Tathâgata!
 
 ---
 
-11\. Then the Blessed One entered into the first <span id="p115">[<sup><small>p. 115</small></sup>]</span> stage of deep meditation[^4]. And rising out of the first stage he passed into the second. And rising out of the second he passed into the third. And rising out of the third stage he passed into the fourth. And rising out of the fourth stage of deep meditation he entered into the state of mind to which the infinity of space is alone present[^5]. And passing out of the mere consciousness of the infinity of space he entered into the state of mind to which the infinity of thought is alone present. And passing out of the mere consciousness of the infinity of thought he entered into a state of mind to which nothing at all was specially present. And passing out of the consciousness of no special object he fell into a state between consciousness and unconsciousness. And passing out of the state between consciousness and unconsciousness he fell into a state in which the consciousness both of sensations and of ideas had wholly passed away.
+11\. Then the Blessed One entered into the first <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> stage of deep meditation[^4]. And rising out of the first stage he passed into the second. And rising out of the second he passed into the third. And rising out of the third stage he passed into the fourth. And rising out of the fourth stage of deep meditation he entered into the state of mind to which the infinity of space is alone present[^5]. And passing out of the mere consciousness of the infinity of space he entered into the state of mind to which the infinity of thought is alone present. And passing out of the mere consciousness of the infinity of thought he entered into a state of mind to which nothing at all was specially present. And passing out of the consciousness of no special object he fell into a state between consciousness and unconsciousness. And passing out of the state between consciousness and unconsciousness he fell into a state in which the consciousness both of sensations and of ideas had wholly passed away.
 
 12\. Then the venerable Ânanda said to the venerable Anuruddha: ‘O my Lord, O Anuruddha, the Blessed One is dead!’
 
 ‘Nay! brother Ânanda, the Blessed One is not dead. He has entered into that state in which both sensations and ideas have ceased to be!’
 
-13\. Then the Blessed One passing out of the state in which both sensations and ideas have ceased to be, entered into the state between consciousness and unconsciousness. And passing out of the state between consciousness and unconsciousness he entered into the state of mind to <span id="p116">[<sup><small>p. 116</small></sup>]</span> which nothing at all Is specially present. And passing out of the consciousness of no special object he entered into the state of mind to which the infinity of thought is alone present. And passing out of the mere consciousness of the infinity of thought he entered into the state of mind to which the infinity of space is alone present. And passing out of the mere consciousness of the infinity of space he entered into the fourth stage of deep meditation. And passing out of the fourth stage he entered into the third. And passing out of the third stage he entered into the second. And passing out of the second he entered into the first. And passing out of the first stage of deep meditation he entered into the second. And passing out of the second stage he entered into the third. And passing out of the third stage he entered into the fourth stage of deep meditation. And passing out of the last stage of deep meditation he immediately expired.
+13\. Then the Blessed One passing out of the state in which both sensations and ideas have ceased to be, entered into the state between consciousness and unconsciousness. And passing out of the state between consciousness and unconsciousness he entered into the state of mind to <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> which nothing at all Is specially present. And passing out of the consciousness of no special object he entered into the state of mind to which the infinity of thought is alone present. And passing out of the mere consciousness of the infinity of thought he entered into the state of mind to which the infinity of space is alone present. And passing out of the mere consciousness of the infinity of space he entered into the fourth stage of deep meditation. And passing out of the fourth stage he entered into the third. And passing out of the third stage he entered into the second. And passing out of the second he entered into the first. And passing out of the first stage of deep meditation he entered into the second. And passing out of the second stage he entered into the third. And passing out of the third stage he entered into the fourth stage of deep meditation. And passing out of the last stage of deep meditation he immediately expired.
 
 ---
 
@@ -105,7 +105,7 @@ Aside their complex form—that aggregation
 Of mental and material qualities,  
 That gives them, or in heaven or on earth,  
 Their fleeting individuality!  
-E'en as the teacher—being such a one, <span id="p117">[<sup><small>p. 117</small></sup>]</span>  
+E'en as the teacher—being such a one, <span id="p117"><sup><small>[ p. 117 ]</small></sup></span>  
 Unequalled among all the men that are,  
 Successor of the prophets of old time,  
 Mighty by wisdom, and in insight clear—  
@@ -118,7 +118,7 @@ Growth is their nature, and decay.
 They are produced, they are dissolved again:  
 And then is best, when they have sunk to rest[^7]!’
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 17\. When the Blessed One died, the venerable Anuruddha, at the moment of his passing away from existence, uttered these stanzas:
 
@@ -139,7 +139,7 @@ Then stood the hair on end!
 When he endowed with every grace—  
 The supreme Buddha—died[^9]!’
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 19\.[^10] When the Blessed One died, of those of the brethren who were not yet free from the passions, some stretched out their arms and wept, and some fell headlong on the ground, rolling to and fro in anguish at the thought ‘Too soon has the Blessed One died! Too soon has the Happy One passed away from existence! Too soon has the Light gone out in the world!’
 
@@ -147,11 +147,11 @@ But those of the brethren who were free from the passions (the Arahats) bore the
 
 20\. Then the venerable Anuruddha exhorted the brethren, and said: ‘Enough, my brethren! Weep not, neither lament! Has not the Blessed One formerly declared this to us, that it is in the very nature of all things near and dear unto us, that we must divide ourselves from them, leave them, sever ourselves from them? How then, brethren, can this be possible—that whereas anything whatever born, brought into being, and organised, contains within itself the inherent necessity of dissolution—how then can this be possible that such a being should not be dissolved? No such condition can exist! Even the spirits, brethren, will reproach us[^11].’
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 ‘But of what kind of spirits is the Lord, the venerable Anuruddha, thinking?’
 
-21\. 'There are spirits, brother Ânanda, in the sky, but of worldly mind, who dishevel their hair and weep, and stretch forth their arms and weep, fall prostrate on the ground, and roll to and fro in anguish at the thought: "Too soon has the <span id="p121">[<sup><small>p. 121</small></sup>]</span> Blessed One died! Too soon has the Happy One passed away! Too soon has the Light gone out in the world! "’
+21\. 'There are spirits, brother Ânanda, in the sky, but of worldly mind, who dishevel their hair and weep, and stretch forth their arms and weep, fall prostrate on the ground, and roll to and fro in anguish at the thought: "Too soon has the <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> Blessed One died! Too soon has the Happy One passed away! Too soon has the Light gone out in the world! "’
 
 ‘There are spirits, too, Ânanda, on the earth, and of worldly mind, who tear their hair and weep, and stretch forth their arms and weep, fall prostrate on the ground, and roll to and fro in anguish at the thought: “Too soon has the Blessed one died! Too soon has the Happy One passed away! Too soon has the Light gone out in the world!”
 
@@ -165,7 +165,7 @@ But those of the brethren who were free from the passions (the Arahats) bore the
 
 23\. Now at that time the Mallas of Kusinârâ were assembled in the council hall concerning that very matter.
 
-And the venerable Ânanda went to the council hall of the Mallas of Kusinârâ; and when he had arrived there, he informed them, saying, ‘The <span id="p122">[<sup><small>p. 122</small></sup>]</span> Blessed One, O Vâse<i>tth</i>as, is dead; do, then, whatever seemeth to you fit!’
+And the venerable Ânanda went to the council hall of the Mallas of Kusinârâ; and when he had arrived there, he informed them, saying, ‘The <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> Blessed One, O Vâse<i>tth</i>as, is dead; do, then, whatever seemeth to you fit!’
 
 24\. And when they had heard this saying of the venerable Ânanda, the Mallas, with their young men and their maidens and their wives, were grieved, and sad, and afflicted at heart. And some of them wept, dishevelling their hair, and some stretched forth their arms and wept, and some fell prostrate on the ground, and some reeled to and fro in anguish at the thought: ‘Too soon has the Blessed One died! Too soon has the Happy One passed away! Too soon has the Light gone out in the world!’
 
@@ -175,7 +175,7 @@ And the venerable Ânanda went to the council hall of the Mallas of Kusinârâ; 
 
 26\. And the Mallas of Kusinârâ took the perfumes and garlands, and all the musical instruments, and five hundred suits of apparel, and went to the Upavattana, to the Sâla Grove of the Mallas, where the body of the Blessed One lay. There they past the day in paying honour, reverence, respect, and homage to the remains of the Blessed One with dancing, and hymns, and music, and with garlands and perfumes; and in making canopies of their garments, and preparing decoration wreaths to hang thereon[^12].
 
- <span id="p123">[<sup><small>p. 123</small></sup>]</span> 7\. Then the Mallas of Kusinârâ thought:
+ <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> 7\. Then the Mallas of Kusinârâ thought:
 
 ‘It is much too late to burn the body of the Blessed One to-day. Let us now perform the cremation to-morrow.’ And in paying honour, reverence, respect, and homage to the remains of the Blessed One with dancing, and hymns, and music, and with garlands and perfumes; and in making canopies of their garments, and preparing decoration wreaths to hang thereon, they past the second day too, and then the third day, and the fourth, and the fifth, and the sixth day also.
 
@@ -187,7 +187,7 @@ And the venerable Ânanda went to the council hall of the Mallas of Kusinârâ; 
 
 29\. And thereupon eight chieftains among the Mallas bathed their heads, and clad themselves in new garments with the intention of bearing the body of the Blessed One. But, behold, they could not lift it up!
 
-30\. Then the Mallas of Kusinârâ said to the venerable Anuruddha: ‘What, Lord, can be the reason, what can be the cause that eight chieftains of the Mallas who have bathed their heads, and clad themselves in new garments with the intention <span id="p124">[<sup><small>p. 124</small></sup>]</span> of bearing the body of the Blessed One, are unable to lift it up?’
+30\. Then the Mallas of Kusinârâ said to the venerable Anuruddha: ‘What, Lord, can be the reason, what can be the cause that eight chieftains of the Mallas who have bathed their heads, and clad themselves in new garments with the intention <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> of bearing the body of the Blessed One, are unable to lift it up?’
 
 ‘It is because you, O Vâse<i>tth</i>as, have one purpose, and the spirits have another purpose.’
 
@@ -197,7 +197,7 @@ And the venerable Ânanda went to the council hall of the Mallas of Kusinârâ; 
 
 ‘Even according to the purpose of the spirits, so, Lord, let it be!’
 
-32\. Then immediately all Kusinârâ down even to the dust bins and rubbish heaps became strewn knee-deep with Mandârava flowers from heaven! and while both the spirits from the skies, and the Mallas of Kusinârâ upon earth, paid honour, and reverence, and respect, and homage to the body of the Blessed One, with dance and song and music, with garlands and with perfumes, they carried the <span id="p125">[<sup><small>p. 125</small></sup>]</span> body by the north to the north of the city; and entering the city by the north gate they carried it through the midst of the city into the midst thereof; and going out again by the eastern gate they carried it to the shrine of the Mallas, called Maku<i>t</i>a-bandhana; and there, to the cast of the city, they laid down the body of the Blessed One[^13].
+32\. Then immediately all Kusinârâ down even to the dust bins and rubbish heaps became strewn knee-deep with Mandârava flowers from heaven! and while both the spirits from the skies, and the Mallas of Kusinârâ upon earth, paid honour, and reverence, and respect, and homage to the body of the Blessed One, with dance and song and music, with garlands and with perfumes, they carried the <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> body by the north to the north of the city; and entering the city by the north gate they carried it through the midst of the city into the midst thereof; and going out again by the eastern gate they carried it to the shrine of the Mallas, called Maku<i>t</i>a-bandhana; and there, to the cast of the city, they laid down the body of the Blessed One[^13].
 
 33\.[^14] Then the Mallas of Kusinârâ said to the venerable Ânanda: ‘What should be done, Lord, with the remains of the Tathâgata?’
 
@@ -207,7 +207,7 @@ And the venerable Ânanda went to the council hall of the Mallas of Kusinârâ; 
 
 ‘They wrap the body of a king of kings, Vâse<i>tth</i>as, in a new cloth. When that is done they wrap it in cotton wool. When that is done they wrap it in a new cloth,—and so on till they have wrapped the body in five hundred successive layers of both kinds. Then they place the body in an oil vessel of iron, and cover that close up with another oil vessel of iron. They then build a funeral pile of all kinds of perfumes, and burn the body of the king of kings. And then at the four cross roads they erect a dâgaba to the king of kings. This, Vâse<i>tth</i>as, is the way in which they treat the remains of a king of kings.
 
-‘And as they treat the remains of a king of kings, so, Vâse<i>tth</i>as, should they treat the remains of the <span id="p126">[<sup><small>p. 126</small></sup>]</span> Tathâgata. At the four cross roads a dâgaba should be erected to the Tathâgata. And whosoever shall there place garlands or perfumes or paint, or make salutation there, or become in its presence calm in heart-that shall long be to them for a profit and a joy.’
+‘And as they treat the remains of a king of kings, so, Vâse<i>tth</i>as, should they treat the remains of the <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> Tathâgata. At the four cross roads a dâgaba should be erected to the Tathâgata. And whosoever shall there place garlands or perfumes or paint, or make salutation there, or become in its presence calm in heart-that shall long be to them for a profit and a joy.’
 
 34\. Therefore the Mallas gave orders to their attendants, saying, ‘Gather together all the carded cotton wool of the Mallas!’
 
@@ -221,7 +221,7 @@ And the venerable Ânanda went to the council hall of the Mallas of Kusinârâ; 
 
 ‘O friend! surely thou knowest our Master?’
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 ‘Yea, friend! I know him. This day the Sama<i>n</i>a Gotama has been dead a week That is how I obtained this Mandârava flower.’
 
@@ -235,7 +235,7 @@ But those of the brethren who were free from the passions (the Arahats) bore the
 
 And Subhadda the old addressed the brethren, and said: ‘Enough, brethren! Weep not, neither lament! We are well rid of the great Sama<i>n</i>a. We used to be annoyed by being told, “This beseems you, this beseems you not.” But now we shall be able to do whatever we like; and what we do not like, that we shall not have to do!’
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 41\. But the venerable Mahâ Kassapa addressed the brethren, and said: ‘Enough, my brethren! Weep not, neither lament! Has not the Blessed One formerly declared this to us, that it is in the very nature of all things, near and dear unto us, that we must divide ourselves from them, leave them, sever ourselves from them? How then, brethren, can this be possible—that whereas anything whatever born, brought into being, and organised contains within itself the inherent necessity of dissolution—how then can this be possible that such a being should not be dissolved? No such condition can exist!’
 
@@ -249,7 +249,7 @@ And Subhadda the old addressed the brethren, and said: ‘Enough, brethren! Weep
 
 44\. ‘But what, Lord, is the purpose of the spirits?’
 
-‘The purpose of the spirits, O Vâse<i>tth</i>as, is this: That venerable brother Mahâ Kassapa is now journeying along the high road from Pâvâ to Kusinârâ with a great company of the brethren, with five hundred of the brethren. The funeral pile of <span id="p129">[<sup><small>p. 129</small></sup>]</span> the Blessed One shall not catch fire, until the venerable Mahâ Kassapa shall have been able reverently to salute the sacred feet of the Blessed One.’
+‘The purpose of the spirits, O Vâse<i>tth</i>as, is this: That venerable brother Mahâ Kassapa is now journeying along the high road from Pâvâ to Kusinârâ with a great company of the brethren, with five hundred of the brethren. The funeral pile of <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> the Blessed One shall not catch fire, until the venerable Mahâ Kassapa shall have been able reverently to salute the sacred feet of the Blessed One.’
 
 ‘Even according to the purpose of the spirits, so, Lord, let it be!’
 
@@ -261,7 +261,7 @@ And Subhadda the old addressed the brethren, and said: ‘Enough, brethren! Weep
 
 47\. And when the homage of the venerable Mahâ Kassapa and of those five hundred brethren was ended, the funeral pile of the Blessed One caught fire of itself[^16].
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 48\. Now as the body of the Blessed One burned itself away, from the skin and the integument, and the flesh, and the nerves, and the fluid of the joints, neither soot nor ash was seen: and only the bones remained behind.
 
@@ -269,7 +269,7 @@ Just as one sees no soot or ash when glue or oil is burned; so, as the body of t
 
 49\. And when the body of the Blessed One had been burnt up, there came down streams of water from the sky and extinguished the funeral pile of the Blessed One; and there burst forth streams of water from the storehouse of the waters (beneath the earth), and extinguished the funeral pile of the Blessed One. The Mallas of Kusinârâ also brought water scented with all kinds of perfumes, and extinguished the funeral pile of the Blessed One[^17].
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 50\. Then the Mallas of Kusinârâ surrounded the bones of the Blessed One in their council hall with a lattice work of spears, and with a rampart of bows; and there for seven days they paid honour and reverence and respect and homage to them with dance and song and music, and with garlands and perfumes.
 
@@ -281,7 +281,7 @@ Then the king of Magadha, A<i>g</i>âtasattu, the son of the queen of the Videha
 
 52\. And the Li<i>kkh</i>avis of Vesâli heard the news that the Blessed One had died at Kusinârâ. And the Li<i>kkh</i>avis of Vesâli sent a messenger to the Mallas, saying, ‘The Blessed One belonged to the soldier caste, and we too are of the soldier caste. We are worthy to receive a portion of the relics of the Blessed One. Over the remains of the Blessed One will we put up a sacred cairn, and in their honour will we celebrate a feast!’
 
-53\. And the Sâkiyas of Kapila-vatthu heard the <span id="p132">[<sup><small>p. 132</small></sup>]</span> news that the Blessed One had died at Kusinârâ. And the Sâkiyas of Kapila-vatthu sent a messenger to the Mallas, saying, ’The Blessed One was the pride of our race. We are worthy to receive a portion of the relics of the Blessed One. Over the remains of the Blessed One will we put up a sacred cairn, and in their honour will we celebrate a feast!’
+53\. And the Sâkiyas of Kapila-vatthu heard the <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> news that the Blessed One had died at Kusinârâ. And the Sâkiyas of Kapila-vatthu sent a messenger to the Mallas, saying, ’The Blessed One was the pride of our race. We are worthy to receive a portion of the relics of the Blessed One. Over the remains of the Blessed One will we put up a sacred cairn, and in their honour will we celebrate a feast!’
 
 54\. And the Bulis of Allakappa heard the news that the Blessed One had died at Kusinârâ. And the Bulis of Allakappa sent a messenger to the Mallas, saying, ‘The Blessed One belonged to the soldier caste, and we too are of the soldier caste. We are worthy to receive a portion of the relics of the Blessed One. Over the remains of the Blessed One will we put up a sacred cairn, and in their honour will we celebrate a feast!’
 
@@ -289,7 +289,7 @@ Then the king of Magadha, A<i>g</i>âtasattu, the son of the queen of the Videha
 
 56\. And the Brâhman of Ve<i>th</i>adîpa heard the news that the Blessed One had died at Kusinârâ. And the Brâhman of Ve<i>th</i>adîpa sent a messenger to the Mallas, saying, ‘The Blessed One belonged to the soldier caste, and I am a Brâhman. I am worthy to receive a portion of the relics of the Blessed One. Over the remains of the Blessed One will I put up a sacred cairn, and in their honour will I celebrate a feast!’
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 57\. And the Mallas of Pâvâ heard the news that the Blessed One had died at Kusinârâ.
 
@@ -313,7 +313,7 @@ That in the Enlightened One mankind may trust!
 
 60\. ‘Do thou then, O Brâhman, thyself divide the remains of the Blessed One equally into eight parts, with fair division[^19].’
 
-Be it so, sir!' said Do<i>n</i>a, in assent, to the assembled <span id="p134">[<sup><small>p. 134</small></sup>]</span> brethren. And he divided the remains of the Blessed One equally into eight parts, with fair division. And he said to them: ‘Give me, sirs, this vessel, and I will set up over it a sacred cairn, and in its honour will I establish a feast.’
+Be it so, sir!' said Do<i>n</i>a, in assent, to the assembled <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> brethren. And he divided the remains of the Blessed One equally into eight parts, with fair division. And he said to them: ‘Give me, sirs, this vessel, and I will set up over it a sacred cairn, and in its honour will I establish a feast.’
 
 And they gave the vessel to Do<i>n</i>a the Brâhman.
 
@@ -335,7 +335,7 @@ And the Bulis of Allakappa made a mound in Allakappa over the remains of the Ble
 
 And the Koliyas of Râmagâma made a mound in Râmagâma over the remains of the Blessed One, and held a feast.
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 And Ve<i>th</i>adîpaka the Brâhman made a mound in Ve<i>th</i>adîpa over the remains of the Blessed One, and held a feast.
 
@@ -357,7 +357,7 @@ And one measure in Râmagâma, by the kings of the serpent race.
 One tooth, too, is honoured in heaven, and one in Gandhâra's city,  
 One in the Kâlinga realm, and one more by the Nâga race.
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 Through their glory the bountiful earth is made bright with offerings painless—  
 For with such are the Great Teacher's relics best honoured by those who are honoured,  
@@ -369,7 +369,7 @@ Hard, hard is a Buddha to meet with through hundreds of ages!\]
 
 End of the Book of the Great Decease.
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 
 <figure class="table chapter-navigator">

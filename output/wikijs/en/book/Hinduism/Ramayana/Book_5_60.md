@@ -108,7 +108,7 @@ On him who breaks the ancient law.  [^892]
 Observe the mean where justice lies,
 And spare his life but still chastise.’
 
-<span id="p423">[<sup><small>p. 423</small></sup>]</span>
+<span id="p423"><sup><small>[ p. 423 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Then forth the tyrant's fury broke,
 And thus in angry words he spoke:
@@ -205,7 +205,7 @@ And viewed each street and square and road,—
 Still wreathed about with harmless blaze,
 A sun engarlanded with rays.
 
-<span id="p424">[<sup><small>p. 424</small></sup>]</span>
+<span id="p424"><sup><small>[ p. 424 ]</small></sup></span>
 
 
 
@@ -318,7 +318,7 @@ Then sought the queen in joyous haste,
 With words of hope consoled her heart,
 And made him ready to depart.
 
-<span id="p425">[<sup><small>p. 425</small></sup>]</span>
+<span id="p425"><sup><small>[ p. 425 ]</small></sup></span>
 
 He sealed Arishta's glorious steep
 Whose summits beetled o'er the deep.
@@ -412,7 +412,7 @@ To thee triumphant o'er the foe
 Our hopes, our lives and all we owe.
 O faithful heart in perils tried,
 
-<span id="p426">[<sup><small>p. 426</small></sup>]</span>
+<span id="p426"><sup><small>[ p. 426 ]</small></sup></span>
 
 Which toil nor fear could turn aside,
 Thy deed the lady will restore,

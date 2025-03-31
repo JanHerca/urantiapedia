@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-1\. Three countries (are included) in the laws of the Sabbatical year. In all the possessions of those who returned from Babylon—from the (border) of the land of Israel and to Cezib, [^61] we may not eat cultivated fruit, and we may not cultivate the ground. And in all the possessions of those who came up from Egypt from Cezib, [^61] and to the <span id="p73">[<sup><small>p. 73</small></sup>]</span> river of Egypt, and to the Amana, [^62] we may eat cultivated fruits, but we may not cultivate the ground. From the river of Egypt, and from the Amana to the interior, we may eat the fruits and cultivate the ground.
+1\. Three countries (are included) in the laws of the Sabbatical year. In all the possessions of those who returned from Babylon—from the (border) of the land of Israel and to Cezib, [^61] we may not eat cultivated fruit, and we may not cultivate the ground. And in all the possessions of those who came up from Egypt from Cezib, [^61] and to the <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> river of Egypt, and to the Amana, [^62] we may eat cultivated fruits, but we may not cultivate the ground. From the river of Egypt, and from the Amana to the interior, we may eat the fruits and cultivate the ground.
 
 2\. Men may labour in that which is separated from the ground in Syria, but not in that which is attached to the ground. They may thresh, and shovel, and tread out, and make sheaves, but they must not reap the grain nor glean the grapes, nor beat the olives. This is the rule; said Rabbi Akiba, “all things similar to that which is allowed in the land of Israel, men may do in Syria.”
 

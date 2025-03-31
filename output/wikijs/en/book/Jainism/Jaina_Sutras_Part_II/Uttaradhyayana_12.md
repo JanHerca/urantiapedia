@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 TWELFTH LECTURE [^158] HARIKÊ<i>S</i>A.
 
@@ -42,7 +42,7 @@ He observed the rules with regard to walking, begging, speaking, easing nature, 
 
 He protected from sin his thoughts, speech, and body [^160], and subdued his senses.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Once on his begging tour, he approached the enclosure of a Brahmanical sacrifice. (3)
 
@@ -60,7 +60,7 @@ At this turn the Yaksha, who lived in the Tinduka-tree, had compassion on the gr
 
 “You give away, eat, and consume plenty of food; know that I subsist by begging; let the mendicant get what is left of the rest.” (10)
 
-‘The dinner has been prepared for Brâhma<i>n</i>as, it has been got ready especially for ourselves and for <span id="p52">[<sup><small>p. 52</small></sup>]</span> us exclusively; we shall not give you such food and drink; why stand you there?’ (11)
+‘The dinner has been prepared for Brâhma<i>n</i>as, it has been got ready especially for ourselves and for <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> us exclusively; we shall not give you such food and drink; why stand you there?’ (11)
 
 “The husbandmen throw the corn on high ground and on low ground [^162], hoping (for a return). For the like motive give unto me; I may be the field which may produce merit (as the return for your benevolence).” (12)
 
@@ -74,7 +74,7 @@ At this turn the Yaksha, who lived in the Tinduka-tree, had compassion on the gr
 
 “If you do not give me what I ask for, I who observe the Samitis, who am protected by the Guptis [^164], who subdue my senses, what benefit, then, will you gain by your sacrifices?” (17)
 
-‘Are here no Kshattriyas, no priests who tend the fire, no teachers with their disciples, who will <span id="p53">[<sup><small>p. 53</small></sup>]</span> beat him with a stick, or pelt him with a nut, take him by the neck, and drive him off?’ (18)
+‘Are here no Kshattriyas, no priests who tend the fire, no teachers with their disciples, who will <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> beat him with a stick, or pelt him with a nut, take him by the neck, and drive him off?’ (18)
 
 On these words of the teachers, many young fellows rushed forward, and they all beat the sage with sticks, canes, and whips. (19)
 
@@ -92,7 +92,7 @@ Appearing in the air with hideous shapes, the Asuras beat the people. When Bhadr
 
 ‘You may as well dig rocks with your nails, or eat iron with your teeth, or kick fire with your feet, as treat contemptuously a monk. (26)
 
-‘Like a poisonous snake is a great sage of severe austerities, of tremendous piety and power; like <span id="p54">[<sup><small>p. 54</small></sup>]</span> a swarm of moths you will rush into a fire, if you beat a monk on his begging tour. (27)
+‘Like a poisonous snake is a great sage of severe austerities, of tremendous piety and power; like <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> a swarm of moths you will rush into a fire, if you beat a monk on his begging tour. (27)
 
 ‘Prostrate yourself before him for protection, you together with all of them, if you want to save your life and your property; for in his wrath he might reduce the world to ashes.’ (28)
 
@@ -110,7 +110,7 @@ When the Brâhma<i>n</i>a saw the disciples bowing their back and head, and hold
 
 At that moment the gods caused a rain of perfumed water and flowers, and showered down heavenly treasures; they struck the drums, and in the air they praised the gift. (36)
 
-‘The value of penance has become visible, birth <span id="p55">[<sup><small>p. 55</small></sup>]</span> appears of no value! Look at the holy Harikê<i>s</i>a, the son of a <i>S</i>vapâka, whose power is so great.’ (37)
+‘The value of penance has become visible, birth <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> appears of no value! Look at the holy Harikê<i>s</i>a, the son of a <i>S</i>vapâka, whose power is so great.’ (37)
 
 “O Brâhma<i>n</i>as, why do you tend the fire, and seek external purity by water? The clever ones say that external purity which you seek for, is not the right thing. (38)
 
@@ -124,7 +124,7 @@ At that moment the gods caused a rain of perfumed water and flowers, and showere
 
 ‘Where is your fire, your fireplace, your sacrificial ladle? where the dried cowdung (used as fuel)? Without these things, what kind of priests can the monks be? What oblations do you offer to the fire? (43)
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 “Penance is my fire; life my fireplace; right exertion is my sacrificial ladle; the body the dried cowdung; Karman is my fuel; self-control, right exertion, and tranquillity are the oblations, praised by the sages, which I offer.” (44)
 

@@ -38,7 +38,7 @@ Gô<i>s</i>âla.
 
 ‘Listen, Ârdraka [^1194], to what (Mahâvîra) has done. At first he wandered about as a single monk; but now he has surrounded himself by many monks, and teaches every one of them the Law at length. (1)
 
-<span id="p410">[<sup><small>p. 410</small></sup>]</span>
+<span id="p410"><sup><small>[ p. 410 ]</small></sup></span>
 
 ‘The inconstant man has decided upon this mode of life [^1195]: to stand up in a crowd of men, surrounded by monks, and to teach his doctrines for the benefit of many people. Therefore his former and his present life are not of a piece. (2)
 
@@ -54,7 +54,7 @@ Gô<i>s</i>âla.
 
 “He who (teaches) the great vows (of monks) and the five small vows (of the laity [^1197]), the five Âsravas and the stoppage of the Âsravas, and control, who avoids Karman in this blessed life of <i>S</i>rama<i>n</i>as, him I call a <i>S</i>rama<i>n</i>a.” (6)
 
-<span id="p411">[<sup><small>p. 411</small></sup>]</span>
+<span id="p411"><sup><small>[ p. 411 ]</small></sup></span>
 
 Gô<i>s</i>âla.
 
@@ -76,7 +76,7 @@ Gô<i>s</i>âla.
 
 “Every philosopher praises his own doctrines and makes them known. (11)
 
-“<i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as blame one another when they teach (their doctrines). (The truth, they <span id="p412">[<sup><small>p. 412</small></sup>]</span> say,) is all on their side; there is none on that of the opponents. But we blame only the (wrong) doctrines and not at all (those who entertain them). (12)
+“<i>S</i>rama<i>n</i>as and Brâhma<i>n</i>as blame one another when they teach (their doctrines). (The truth, they <span id="p412"><sup><small>[ p. 412 ]</small></sup></span> say,) is all on their side; there is none on that of the opponents. But we blame only the (wrong) doctrines and not at all (those who entertain them). (12)
 
 “We do not detract from anybody because of his personal qualities; but we make known the path pointed out in our creed. I have been taught the supreme, right path by worthy, good men. (13)
 
@@ -92,7 +92,7 @@ Gô<i>s</i>âla.
 
 “Doing nothing without a purpose, nor without consideration, neither on the behest of the king nor from fear of anybody, he answers questions or not (according to the circumstances); but he (answers) worthy people with a definite purpose (in his mind) [^1199]. (17)
 
-<span id="p413">[<sup><small>p. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 “He, the wise man, impartially teaches (the Law) whether he goes (to his pupils) or not; because unworthy men have fallen from the true faith, he does not go to places (frequented by them).” (18)
 
@@ -110,7 +110,7 @@ Gô<i>s</i>âla.
 
 “They do not abstain from slaughter and the acquirement of property, they are in bondage and full of wickedness; and their gain of which you spoke,. will be the endless Circle of Births and pains manifold [^1200]. (23)
 
-“They do not always make profit, nor does it last <span id="p414">[<sup><small>p. 414</small></sup>]</span> for ever; they meet with both results (success and failure) in their quest of gain [^1201]. The profit (of the teacher), however, has a beginning, but no end; the saviour and sage shares his profit (with others). (24)
+“They do not always make profit, nor does it last <span id="p414"><sup><small>[ p. 414 ]</small></sup></span> for ever; they meet with both results (success and failure) in their quest of gain [^1201]. The profit (of the teacher), however, has a beginning, but no end; the saviour and sage shares his profit (with others). (24)
 
 “Him who kills no (living beings), who has compassion on all creatures, who is well grounded in the Law, and causes the truth of the Law to be known, him you would equal to those wicked men! This is the outcome of your folly.” (25)
 
@@ -118,7 +118,7 @@ A Buddhist [^1202].
 
 ‘If (a savage) thrusts a spit through the side of a granary [^1203], mistaking it for a man; or through a gourd, mistaking it for a baby, and roasts it, he will be guilty of murder according to our views. (26)
 
-‘If a savage [^1204] puts a man on a spit and roasts him, mistaking him for a fragment of the granary; or a <span id="p415">[<sup><small>p. 415</small></sup>]</span> baby, mistaking him for a gourd, he will not be guilty of murder according to our views. (27)
+‘If a savage [^1204] puts a man on a spit and roasts him, mistaking him for a fragment of the granary; or a <span id="p415"><sup><small>[ p. 415 ]</small></sup></span> baby, mistaking him for a gourd, he will not be guilty of murder according to our views. (27)
 
 ‘If anybody thrusts a spit through a man or a baby, mistaking him for a fragment of the granary, puts him on the fire, and roasts him, that will be a meal fit for Buddhas to break fast upon. (28)
 
@@ -134,7 +134,7 @@ A Buddhist [^1202].
 
 “Do not use such speech by means of which you do evil; for such speech is incompatible with virtues. No ordained (monk) should speak empty words [^1207]. (33)
 
-<span id="p416">[<sup><small>p. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 “Oh! you have explored this subject; you have thoroughly examined the consequences of acts [^1208] of living beings; your (fame) reaches the Eastern and Western oceans; you view (the universe as if) it stood on the palm of your hands! (34)
 
@@ -152,7 +152,7 @@ A Buddhist [^1202].
 
 “They abstain from wicked deeds, afraid of injuring living beings, and do no harm to any creature; therefore they do not partake of such food. This is a maxim of the monks of our creed. (41)
 
-<span id="p417">[<sup><small>p. 417</small></sup>]</span>
+<span id="p417"><sup><small>[ p. 417 ]</small></sup></span>
 
 “(Having reached) this perfection [^1213] in the Law of the Nirgranthas and standing firm in it, one should live without deceit [^1214]. The awakened sage who is endowed with all virtues thereby obtained very great fame.” (42)
 
@@ -170,7 +170,7 @@ A Vêdântin [^1218].
 
 ‘Both of us follow (very much the same) Law; we stood firm in it, and shall do so in the time to come; (we believe that) virtue consists in good conduct, and that knowledge (is necessary for liberation); and with regard to the Circle of Births there is no difference between us. (46)
 
-<span id="p418">[<sup><small>p. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 ‘(But we assume) an invisible, great, eternal, imperishable, and indestructible Soul, who excels all other beings in every respect, as the moon excels the stars.’ (47)
 
@@ -188,7 +188,7 @@ A Hastitâpasa [^1220].
 
 ‘Every year we kill one big elephant with an arrow, and live upon it in order to spare the life of other animals.’ (52)
 
-<span id="p419">[<sup><small>p. 419</small></sup>]</span>
+<span id="p419"><sup><small>[ p. 419 ]</small></sup></span>
 
 Ârdraka.
 

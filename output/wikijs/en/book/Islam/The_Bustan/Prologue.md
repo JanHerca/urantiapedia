@@ -44,7 +44,7 @@ He seizes not in haste the disobedient, nor drives away the penitent with violen
 
 He withholds not His bounty though His servants sin; upon the surface of the earth liar He spread a feast, in which both friend and foe may share.
 
-Peerless He is, and His kingdom is eternal. Upon the head of one He placeth a crown; <span id="p26">[<sup><small>p. 26</small></sup>]</span> another he hurleth from the throne to the ground.
+Peerless He is, and His kingdom is eternal. Upon the head of one He placeth a crown; <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> another he hurleth from the throne to the ground.
 
 The fire of His friend He turneth into a flowergarden; through the waters of the Nile He sendeth His foes to perdition.
 
@@ -64,7 +64,7 @@ The bird of thought cannot soar to the height of His presence, nor the hand of u
 
 Think not, O Sadi, that one can walk in the road of purity except in the footsteps of Muhammad.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 He is the patriarch of the prophets, the guide of the path of salvation; the mediator of mankind, and the chief of the Court of Judgment. What of thy praises can Sadi utter? The mercy of God be upon thee, O Prophet, and peace!
 
@@ -74,7 +74,7 @@ I travelled in many regions of the globe and passed the days in the company of m
 
 I regretted that I should go from the garden of the world empty-handed to my friends, and reflected: “Travellers bring sugar-candy from Egypt as a present to their friends. Although I have no candy, yet have I words that are sweeter. The sugar that I bring is not that which is eaten, but what knowers of truth take away with respect.”
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 When I built this Palace of Wealth, [1](/en/book/Islam/The_Bustan/Notes#n1) I furnished it with ten doors of instruction. [2](/en/book/Islam/The_Bustan/Notes#n2)
 
@@ -84,10 +84,10 @@ Assuredly, my compositions are esteemed in Persia as the priceless musk of Khuta
 
 ## CONCERNING ATABAK ABU BAKR, SON OF SAD [4](/en/book/Islam/The_Bustan/Notes#n4)
 
-Although not desiring to write in praise of kings, I have inscribed this book to the name of a certain one so that perhaps the pious may say: Sadi, who surpassed all in eloquence, <span id="p29">[<sup><small>p. 29</small></sup>]</span> lived in the time of Abu Bakr, the son of Sad." Thus, in this book will his memory remain so long as the moon and sun are in the skies. Beyond count are his virtues—may the world fulfil his desires, the heavens be his friend, and the Creator be his guardian.
+Although not desiring to write in praise of kings, I have inscribed this book to the name of a certain one so that perhaps the pious may say: Sadi, who surpassed all in eloquence, <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> lived in the time of Abu Bakr, the son of Sad." Thus, in this book will his memory remain so long as the moon and sun are in the skies. Beyond count are his virtues—may the world fulfil his desires, the heavens be his friend, and the Creator be his guardian.
 
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

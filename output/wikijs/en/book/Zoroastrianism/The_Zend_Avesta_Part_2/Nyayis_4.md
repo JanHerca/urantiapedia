@@ -50,7 +50,7 @@ Be propitiation [^1529] . . . .
 
 7\. 'I, Ahura Mazda, brought it down with mighty vigour, for the increase of the house, of the borough, of the town, of the country [^1531].
 
-8\. 'He from whom she will hear the staota yêsnya [^1532]; he from whom she will hear the Ahuna <span id="p357">[<sup><small>p. 357</small></sup>]</span> vairya [^1533]; he from whom she will hear the Asha-vahi<i>s</i>ta [^1534]; he by whom the good waters will be made pure; with the words of the holy hymns [^1535], he will enter first the Garô-nmâna of Ahura Mazda: she will give him the boons asked for [^1536].
+8\. 'He from whom she will hear the staota yêsnya [^1532]; he from whom she will hear the Ahuna <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> vairya [^1533]; he from whom she will hear the Asha-vahi<i>s</i>ta [^1534]; he by whom the good waters will be made pure; with the words of the holy hymns [^1535], he will enter first the Garô-nmâna of Ahura Mazda: she will give him the boons asked for [^1536].
 
 9 [^1537]. 'For her brightness and glory, I will offer her a sacrifice worth being heard; I will offer her a sacrifice well-performed. Thus mayest thou advise us when thou art appealed to! Mayest thou be most fully worshipped.
 

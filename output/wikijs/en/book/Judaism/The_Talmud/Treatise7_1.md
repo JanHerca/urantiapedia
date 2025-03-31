@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 ## TREATISE VII.
 
@@ -46,7 +46,7 @@ Four New Years—Judgments—New Moon—Witnesses—Evidence—Samaritans—Spre
 
 2\. The world is judged at four periods: at the passover, for the growth of corn; at Pentecost, for the fruit of trees; at new year's day, when all human beings pass before Him like lambs, as is said, “He fashioneth their hearts alike; He considereth all their works;” [^280] and at the feast of tabernacles, judgment is given for the rains.
 
-3\. Messengers went forth (from Jerusalem) in six months: in Nisan for the passover; in Ab [^281] for the fast; in Elul for the new year; in Tishri for the regulation of the feasts; in <span id="p150">[<sup><small>p. 150</small></sup>]</span> Kislev [^282] for the dedication; in Adar [^283] for the feast of lots; and also in Iyar [^284] during the existence of the Temple for the little passover.
+3\. Messengers went forth (from Jerusalem) in six months: in Nisan for the passover; in Ab [^281] for the fast; in Elul for the new year; in Tishri for the regulation of the feasts; in <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> Kislev [^282] for the dedication; in Adar [^283] for the feast of lots; and also in Iyar [^284] during the existence of the Temple for the little passover.
 
 4\. For two months [^285] they may profane the Sabbath, for Nisan and for Tishri, because in them the messengers went forth to Syria, and in them they regulated the feasts. And during the existence of the Temple they might profane it in all the months for the regulation of the offerings.
 
@@ -56,7 +56,7 @@ Four New Years—Judgments—New Moon—Witnesses—Evidence—Samaritans—Spre
 
 7\. When father and son have seen the new moon, they must go (before the Sanhedrin), not that they may be combined together, but in order that, should the evidence of either of them be disallowed, the other may be combined with another witness. R. Simeon says, “father, and son, and relatives in every degree, may be allowed as competent witnesses for the new moon.” R. José says, “it happened that Tobias, the physician, his son, and his freed slave, saw the new moon in Jerusalem, and the priests accepted his evidence, and that of his son, but disallowed his slave; but when they came before the Sanhedrin, they accepted him and his slave, but disallowed his son.”
 
-8\. These witnesses are disallowed—gamblers with dice, usurers, [^287] pigeon-breeders, [^288] traders in produce of the Sabbatical <span id="p151">[<sup><small>p. 151</small></sup>]</span> year, and slaves. This is the rule—all evidence that cannot be received from a woman cannot be received from any of these.
+8\. These witnesses are disallowed—gamblers with dice, usurers, [^287] pigeon-breeders, [^288] traders in produce of the Sabbatical <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> year, and slaves. This is the rule—all evidence that cannot be received from a woman cannot be received from any of these.
 
 9\. “He who has seen the new moon but cannot walk?” “They must bring him on an ass or even in a bed.” Those afraid of being waylaid may take sticks in their hands, and if they have a long way to go, they may take provisions. If they must be a day and a night on the road, they may profane the Sabbath in travelling to testify for the new moon; as is said, “These are the feasts of the LORD, which ye shall proclaim in their seasons.” [^289]
 

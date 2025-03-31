@@ -33,7 +33,7 @@ dateCreated: 2025-2-5T20:17:7Z
 
 
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 ### INDEX OF SUBJECT MATTERS.
 
@@ -199,7 +199,7 @@ Fortune tellers [154](531#p154)
 
 Fortune tellers from personal marks [108](527#p108), [154](531#p154), [247](537#p247), [264](537#p264)
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Forty ways in which a woman makes up to a man [232](536#p232)
 
@@ -383,7 +383,7 @@ Riddles [75](522#p75)
 
 Right-wise movement [83](523#p83)
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 Sakka's four daughters, contest between [210](535#p210)
 

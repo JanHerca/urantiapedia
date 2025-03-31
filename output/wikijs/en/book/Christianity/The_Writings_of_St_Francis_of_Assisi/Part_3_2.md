@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 ## II. SALUTATION OF THE BLESSED VIRGIN.
 
@@ -40,7 +40,7 @@ This little prayer enjoys the same title to authenticity as the preceding opuscu
 
 ## SALUTATION OF THE BLESSED VIRGIN. [^544]
 
-Hail, holy Lady, most holy Queen, Mother of God, Mary who art ever Virgin, chosen from Heaven by the most Holy Father, whom He has consecrated with the most holy beloved Son and the Ghostly Paraclete, in whom was and is all the fulness of grace and all good. Hail thou His palace! [^545] Hail thou His tabernacle.! [^546] Hail thou His house. Hail thou His garment! Hail thou His handmaid! Hail thou His Mother and all ye holy virtues which by the grace and <span id="p144">[<sup><small>p. 144</small></sup>]</span> illumination of the Holy Ghost thou infusest in the heart of the faithful, that from infidels ye mayest make them faithful to God. [^547]
+Hail, holy Lady, most holy Queen, Mother of God, Mary who art ever Virgin, chosen from Heaven by the most Holy Father, whom He has consecrated with the most holy beloved Son and the Ghostly Paraclete, in whom was and is all the fulness of grace and all good. Hail thou His palace! [^545] Hail thou His tabernacle.! [^546] Hail thou His house. Hail thou His garment! Hail thou His handmaid! Hail thou His Mother and all ye holy virtues which by the grace and <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> illumination of the Holy Ghost thou infusest in the heart of the faithful, that from infidels ye mayest make them faithful to God. [^547]
 
 
 

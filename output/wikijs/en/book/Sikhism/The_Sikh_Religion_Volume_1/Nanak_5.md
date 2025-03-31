@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:8:12Z
 
 THE LIFE OF GURU NANAK. CHAPTER V
 
-The Guru set out towards the east, having arrayed himself in a strange motley of Hindu and Muhammadan religious habiliments. He put on a mango-coloured jacket, over which he threw a white safa or sheet. On his head he carried the hat of a Musalman Qalandar[^3], while he wore a necklace of bones, and imprinted a saffron mark on his forehead in the style of Hindus. This was an earnest of his desire to found a religion which should be acceptable both to Hindus and Muhammadans without conforming to either faith. As the Guru and his attendant proceeded, they met a Muhammadan notable called Shaikh Wajid. The Shaikh alighted under a tree, and his bearers began to shampoo and fan him. This afforded matter for contemplation to Mardana, and he asked the Guru whether there was not one God for the rich and another for the poor. The Guru replied that there <span id="p59">[<sup><small>p. 59</small></sup>]</span> was only one God. Mardana then put his question in another form: ‘Who created this man who rideth in a sedan of ease while the bearers have no shoes. to their feet? Their legs are naked while they shampoo and fan him.’ The Guru replied with the following verses:—
+The Guru set out towards the east, having arrayed himself in a strange motley of Hindu and Muhammadan religious habiliments. He put on a mango-coloured jacket, over which he threw a white safa or sheet. On his head he carried the hat of a Musalman Qalandar[^3], while he wore a necklace of bones, and imprinted a saffron mark on his forehead in the style of Hindus. This was an earnest of his desire to found a religion which should be acceptable both to Hindus and Muhammadans without conforming to either faith. As the Guru and his attendant proceeded, they met a Muhammadan notable called Shaikh Wajid. The Shaikh alighted under a tree, and his bearers began to shampoo and fan him. This afforded matter for contemplation to Mardana, and he asked the Guru whether there was not one God for the rich and another for the poor. The Guru replied that there <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> was only one God. Mardana then put his question in another form: ‘Who created this man who rideth in a sedan of ease while the bearers have no shoes. to their feet? Their legs are naked while they shampoo and fan him.’ The Guru replied with the following verses:—
 
 They who performed austerities in their former lives, are now kings and receive tribute on earth.
 They who were then wearied, are now shampooed by _others_.
@@ -50,7 +50,7 @@ Who is the guru from whom I should receive instruction, and by whom I should app
 O my Beloved, I know not Thy limit.
 Thou fillest sea and land, the nether and upper regions it is Thou Thyself who art contained in everything.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 My heart is the scale, my understanding the weight, Thy service the weighman I employ.
 I weigh the Lord in my heart, and thus I fix my attention.
@@ -74,7 +74,7 @@ Abide pure amid the impurities of the world; thus shalt thou find the way of rel
 On meeting a true guru doubt is dispelled and the wanderings of the mind restrained.
 It raineth nectar, slow ecstatic music is heard, and man is happy within himself.
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Abide pure amid the impurities of the world; thus shalt thou find the way of religion.
 
@@ -91,7 +91,7 @@ Why irrigate barren land and waste thy life?
 Why apply plaster to a frail tottering wall?
 Repeating God's name, form a raft _for thy salvation_; may the Merciful have mercy on thee!
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 Chatur Das replied: ‘O saint, the salagram and the necklace of sweet basil may indeed be useless as the irrigation of barren land, but tell me by what means the ground may be prepared and God found.’ The Guru replied:—
 
@@ -113,7 +113,7 @@ The Pandit then admitted that the Guru was a saint of God, and asked him to bles
 The City[^2] is frail, the king; is a boy and loveth the wicked;
 He is said to have two mothers[^4] and two fathers[^5] O Pandit, think upon this.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 O, sir Pandit, instruct me
 How I am to obtain the Lord of life.
@@ -124,7 +124,7 @@ He may be known by this mark that he storeth contentment as his wealth.[^5]
 The _king_ dwelleth with those who listen not to advice, and who are not grateful for what they receive.
 Nanak, slave of slaves, representeth, _O God_, in one moment Thou makest the small great and the great small.[^6]
 
-Chatur Das requested further information. ‘Sir, shall the name of God be to any extent obtained by what we teach the people and what we learn ourselves?’ The Guru inquired in return: ‘O religious teacher, what hast thou read? What teachest thou the people, and what knowledge dost thou communicate to thy disciples?’ The Pandit replied: ‘By the will of God I teach the people the fourteen sciences—reading, swimming, medicine, alchemy, astrology, singing the six râgs and their raginis, the science of sexual enjoyment, grammar, music, horsemanship, dancing, archery, theology, and statesmanship.’ The Guru replied that better than all these was knowledge of God.' Upon this he repeated the long composition called the Oamkar in the Rag <span id="p64">[<sup><small>p. 64</small></sup>]</span> Ramkali, the first two pauris or stanzas of which are as follow:—
+Chatur Das requested further information. ‘Sir, shall the name of God be to any extent obtained by what we teach the people and what we learn ourselves?’ The Guru inquired in return: ‘O religious teacher, what hast thou read? What teachest thou the people, and what knowledge dost thou communicate to thy disciples?’ The Pandit replied: ‘By the will of God I teach the people the fourteen sciences—reading, swimming, medicine, alchemy, astrology, singing the six râgs and their raginis, the science of sexual enjoyment, grammar, music, horsemanship, dancing, archery, theology, and statesmanship.’ The Guru replied that better than all these was knowledge of God.' Upon this he repeated the long composition called the Oamkar in the Rag <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> Ramkali, the first two pauris or stanzas of which are as follow:—
 
 It is the one God who created Brahma;[^1]
 It is the one God who created our understanding;
@@ -145,7 +145,7 @@ On hearing the whole fifty-four stanzas of the Oamkar, the Pandit fell at the Gu
 
 During the Guru's stay at Banaras Krishan Lal and Har Lal, two eminent young pandits, went to visit him, and he explained to them the tenets and principles of his religion.
 
-From Banaras the Guru proceeded to Gaya, the famous place of pilgrimage, where Buddha in days long past made his great renunciation and performed his memorable penance. There the Guru uttered the following in reply to Brahmans who had <span id="p65">[<sup><small>p. 65</small></sup>]</span> urged him to perform the ceremonies usual among Hindus for the repose of the souls of ancestors.
+From Banaras the Guru proceeded to Gaya, the famous place of pilgrimage, where Buddha in days long past made his great renunciation and performed his memorable penance. There the Guru uttered the following in reply to Brahmans who had <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> urged him to perform the ceremonies usual among Hindus for the repose of the souls of ancestors.
 
 The Name alone, is my lamp, suffering the oil I put therein.
 The lamp's light hath dried it up, and I have escaped meeting Death.
@@ -158,7 +158,7 @@ If day and night I love Thee, then shall my ablution be true.
 Some rolls are offered to the gods, some to the manes but it is the Brahman who kneadeth and eateth them.
 Nanak, the rolls which are the gift of God are never exhausted.[^6]
 
-The Guru and Mardana in the course of their travels found themselves at a grain-dealer's house. A son had just been born to one of the partners, and several people had come to offer him congratulations. Some threw red powder[^7] in token of joy, and voices of blessing and congratulation filled the neighbourhood. Mardana sat down and gazed on the <span id="p66">[<sup><small>p. 66</small></sup>]</span> spectacle. In the evening, when the grain-dealer's entertainment was at an end, he stood up and went to his private apartments without taking any notice of Mardana. The latter went to the Guru, who sat at some distance, informed him of the birth of the child, and gave him an account of the entertainment. The Guru smiled, and said it was not a son who had been born in the grain-dealer's house' but a creditor who had come to settle his account He would remain for the night and depart in the morning. Then the Guru ordered Mardana to play the rebeck, and sang to its strains the following hymn:—
+The Guru and Mardana in the course of their travels found themselves at a grain-dealer's house. A son had just been born to one of the partners, and several people had come to offer him congratulations. Some threw red powder[^7] in token of joy, and voices of blessing and congratulation filled the neighbourhood. Mardana sat down and gazed on the <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> spectacle. In the evening, when the grain-dealer's entertainment was at an end, he stood up and went to his private apartments without taking any notice of Mardana. The latter went to the Guru, who sat at some distance, informed him of the birth of the child, and gave him an account of the entertainment. The Guru smiled, and said it was not a son who had been born in the grain-dealer's house' but a creditor who had come to settle his account He would remain for the night and depart in the morning. Then the Guru ordered Mardana to play the rebeck, and sang to its strains the following hymn:—
 
 I
 
@@ -178,7 +178,7 @@ Think on this, O thoughtless and stupid man,[^1] nothing shall be thine at last.
 Thou knowest not Him who created thee; meditate upon Him in thy heart.
 Saith Nanak, the child hath forgotten to meditate at the second watch.
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 III.
 
@@ -198,7 +198,7 @@ Hollow are the lamentations around. In one moment _man's goods_ become another's
 He shall obtain those things on which he hath set his heart.[^1]
 Saith Nanak, O mortal, in the fourth watch the reaper hath reaped the field.[^2]
 
-When morning came, the grain-dealer's child died, and the grain-dealer and his relatives came forth weeping and wailing. Mardana asked the Guru what sudden change of fortune had come to those who yesterday had been engaged in their rejoicings <span id="p68">[<sup><small>p. 68</small></sup>]</span> and saturnalia. Then the Guru uttered the following on the vicissitudes of human life:—
+When morning came, the grain-dealer's child died, and the grain-dealer and his relatives came forth weeping and wailing. Mardana asked the Guru what sudden change of fortune had come to those who yesterday had been engaged in their rejoicings <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> and saturnalia. Then the Guru uttered the following on the vicissitudes of human life:—
 
 They to whose faces were uttered gratulations and hundreds of thousands of blessings,
 Now smite their heads _in grief_; and their minds and bodies suffer agony.
@@ -212,7 +212,7 @@ Nanak is _already_ satiated with thy good qualities; come back, O monarch.
 
 In due time. the watchman obtained spiritual dignity in return for his, kind intentions towards the Guru.
 
-There was at that time a shopkeeper whose mind had taken a religious bent, and who desired to meet a religious guide. He heard of Guru Nanak's arrival, and vowed that he would not eat or drink until he had had all interview with him. Having <span id="p69">[<sup><small>p. 69</small></sup>]</span> once visited the Guru he continually went to him to receive religious instruction. A neighbouring shopkeeper heard of his friend's visits, and said that he too would go to see the holy man. They proceeded together, but on the way the second shopkeeper saw a woman of whom he became enamoured, and his visit to Nanak was indefinitely postponed. It was the custom of both to set out together, one to visit his mistress, and the other to visit the Guru. The second shopkeeper desired to put the fortunes of both to the test, and said, ‘Thou practisest good works, while I practise bad works. Let us see what shall happen to each of us to-day. If I arrive first, I will sit down and wait for thee; and if thou arrive first, then wait for me.’ This was agreed upon. The second shopkeeper went to the house of his mistress as usual, but did not find her. He then proceeded to the spot where his friend had agreed to meet him, but his friend, who on that day tarried long with the Guru, had not yet arrived. The second shopkeeper needing some occupation in his solitude, drew out his knife and began to whittle the ground with it, when he found a shining gold coin. He continued his excavations with the weak delving implement he possessed, when, to his disappointment, he only discovered a jar of charcoal. He had, however, obtained some reward for his labour. Meanwhile the first shopkeeper arrived in doleful case. Having left the Guru, a thorn pierced his foot. He bound up the wound, and proceeded sore limping to the trysting-place. His friend told him of his better fortune. They both saw that he who went daily to commit sin prospered, while he who went to his religious teacher to pray and meditate on God, suffered; and they agreed to refer to Guru Nanak for an explanation of their unequal and unmerited fates. The Guru explained that the sinful shopkeeper had in a former birth given a gold coin as alms to a holy mail. That coin was converted into many <span id="p70">[<sup><small>p. 70</small></sup>]</span> gold coins as a reward for the alms-giver, but, when he entered on his career of sin, the gold coins were turned into charcoal. The original gold coin was, however, restored. The shopkeeper who visited the Guru, had deserved to die by an impaling stake for the sins of deceit and usury, but, as be continued to progress in virtue, the impaling stake was reduced in size till it became merely a thorn. Having been pierced by it, he had fully expiated the sins of a former birth. Thus may the decree of destiny be altered by the practice of virtue. Both men were thoroughly satisfied with this explanation of unequal retribution. The sinful as well as the virtuous man fell at Guru Nanak's feet, and both became true worshippers of God. The Guru then uttered the following verses:—
+There was at that time a shopkeeper whose mind had taken a religious bent, and who desired to meet a religious guide. He heard of Guru Nanak's arrival, and vowed that he would not eat or drink until he had had all interview with him. Having <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> once visited the Guru he continually went to him to receive religious instruction. A neighbouring shopkeeper heard of his friend's visits, and said that he too would go to see the holy man. They proceeded together, but on the way the second shopkeeper saw a woman of whom he became enamoured, and his visit to Nanak was indefinitely postponed. It was the custom of both to set out together, one to visit his mistress, and the other to visit the Guru. The second shopkeeper desired to put the fortunes of both to the test, and said, ‘Thou practisest good works, while I practise bad works. Let us see what shall happen to each of us to-day. If I arrive first, I will sit down and wait for thee; and if thou arrive first, then wait for me.’ This was agreed upon. The second shopkeeper went to the house of his mistress as usual, but did not find her. He then proceeded to the spot where his friend had agreed to meet him, but his friend, who on that day tarried long with the Guru, had not yet arrived. The second shopkeeper needing some occupation in his solitude, drew out his knife and began to whittle the ground with it, when he found a shining gold coin. He continued his excavations with the weak delving implement he possessed, when, to his disappointment, he only discovered a jar of charcoal. He had, however, obtained some reward for his labour. Meanwhile the first shopkeeper arrived in doleful case. Having left the Guru, a thorn pierced his foot. He bound up the wound, and proceeded sore limping to the trysting-place. His friend told him of his better fortune. They both saw that he who went daily to commit sin prospered, while he who went to his religious teacher to pray and meditate on God, suffered; and they agreed to refer to Guru Nanak for an explanation of their unequal and unmerited fates. The Guru explained that the sinful shopkeeper had in a former birth given a gold coin as alms to a holy mail. That coin was converted into many <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> gold coins as a reward for the alms-giver, but, when he entered on his career of sin, the gold coins were turned into charcoal. The original gold coin was, however, restored. The shopkeeper who visited the Guru, had deserved to die by an impaling stake for the sins of deceit and usury, but, as be continued to progress in virtue, the impaling stake was reduced in size till it became merely a thorn. Having been pierced by it, he had fully expiated the sins of a former birth. Thus may the decree of destiny be altered by the practice of virtue. Both men were thoroughly satisfied with this explanation of unequal retribution. The sinful as well as the virtuous man fell at Guru Nanak's feet, and both became true worshippers of God. The Guru then uttered the following verses:—
 
 The heart is the paper, conduct the ink;[^1] good and bad are both recorded therewith.
 Man's life is as his acts constrain him; there is no limit to Thy praises, O God.
@@ -225,7 +225,7 @@ Sin is the charcoal added thereto, by which the mind is heated; anxiety is the p
 The mind hath turned into dross, but it shall again become gold when it meeteth such a Guru
 As will bestow the ambrosial name of the one God; then, Nanak, the mind shall become fixed.[^3]
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 The Guru then took the opportunity of discoursing on the immoral shopkeeper's peculiar vice: 'Man is fickle when he beholdeth a courtesan; he then hath a special desire for love's play, and can in no way be restrained. On meeting her he loseth his human birth. Bereft of his religion he falleth into hell, where he undergoeth punishment and profusely lamenteth. Wherefore look not on her, but pass thy time among the holy.’
 
@@ -237,7 +237,7 @@ Pleasures and self-praise-these are mine acts, O Creator.
 My friends, doth any one obtain honour by mere words ~
 Call them the best, who arc the best at the gate of the Lord; they who do base acts sit and weep.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 There is pleasure in gold, pleasure in silver and in women, pleasure in the perfume of sandal;
 There is pleasure in horses, pleasure in couches and in palaces, pleasure in sweets, and pleasure in meats.
@@ -260,7 +260,7 @@ O Nanak, recognize the true way.
 
 Then the Guru departed thence.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

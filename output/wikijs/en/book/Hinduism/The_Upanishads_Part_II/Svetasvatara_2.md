@@ -32,23 +32,23 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 ## SECOND ADHYÂYA.
 
 1 [^728]. Savit<i>ri</i> (the sun), having first collected his mind and expanded his thoughts, brought Agni (fire), when he had discovered his light, above the earth.
 
-2 [^729]. With collected minds we are at the command of the divine Savit<i>ri</i>, that we may obtain blessedness. <span id="p239">[<sup><small>p. 239</small></sup>]</span> 3 [^730]. May Savit<i>ri</i>, after he has reached with his mind the gods as they rise up to the sky, and with his thoughts (has reached) heaven, grant these gods to make a great light to shine.
+2 [^729]. With collected minds we are at the command of the divine Savit<i>ri</i>, that we may obtain blessedness. <span id="p239"><sup><small>[ p. 239 ]</small></sup></span> 3 [^730]. May Savit<i>ri</i>, after he has reached with his mind the gods as they rise up to the sky, and with his thoughts (has reached) heaven, grant these gods to make a great light to shine.
 
-4 [^731]. The wise sages of the great sage collect their mind and collect their thoughts. He who alone knows the law (Savit<i>ri</i>) has ordered the invocations; great is the praise of the divine Savit<i>ri</i>. <span id="p240">[<sup><small>p. 240</small></sup>]</span> 5 [^732]. Your old prayer has to be joined [^733] with praises. Let my song go forth like the path of the sun! May all the sons of the Immortal listen, they who have reached their heavenly homes.
+4 [^731]. The wise sages of the great sage collect their mind and collect their thoughts. He who alone knows the law (Savit<i>ri</i>) has ordered the invocations; great is the praise of the divine Savit<i>ri</i>. <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> 5 [^732]. Your old prayer has to be joined [^733] with praises. Let my song go forth like the path of the sun! May all the sons of the Immortal listen, they who have reached their heavenly homes.
 
-6\. Where the fire is rubbed [^734], where the wind is checked, where the Soma flows over, there the mind is born. <span id="p241">[<sup><small>p. 241</small></sup>]</span> 7\. Let us love the old Brahman by the grace of Savit<i>ri</i>; if thou make thy dwelling there, the path will not hurt thee [^735].
+6\. Where the fire is rubbed [^734], where the wind is checked, where the Soma flows over, there the mind is born. <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> 7\. Let us love the old Brahman by the grace of Savit<i>ri</i>; if thou make thy dwelling there, the path will not hurt thee [^735].
 
 8\. If a wise man hold his body with its three erect parts (chest, neck, and head) even [^736], and turn his senses with the mind towards the heart, he will then in the boat of Brahman [^737] cross all the torrents which cause fear.
 
 9\. Compressing his breathings let him, who has subdued all motions, breathe forth through the nose with gentle breath [^738]. Let the wise man without fail restrain his mind, that chariot yoked with vicious horses [^739].
 
-10\. Let him perform his exercises in a place [^740] <span id="p242">[<sup><small>p. 242</small></sup>]</span> level, pure, free from pebbles, fire, and dust, delightful by its sounds, its water, and bowers, not painful to the eye, and full of shelters and caves.
+10\. Let him perform his exercises in a place [^740] <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> level, pure, free from pebbles, fire, and dust, delightful by its sounds, its water, and bowers, not painful to the eye, and full of shelters and caves.
 
 11\. When Yoga is being performed, the forms which come first, producing apparitions in Brahman, are those of misty smoke, sun, fire, wind, fire-flies, lightnings, and a crystal moon [^741].
 
@@ -56,7 +56,7 @@ dateCreated: 2025-1-15T22:54:18Z
 
 13\. The first results of Yoga they call lightness, healthiness, steadiness, a good complexion, an easy pronunciation, a sweet odour, and slight excretions.
 
-14\. As a metal disk (mirror), tarnished by dust, shines bright again after it has been cleaned, so is the one incarnate person satisfied and free from grief, after he has seen the real nature of the Self [^744]. <span id="p243">[<sup><small>p. 243</small></sup>]</span> 15\. And when by means of the real nature of his self he sees, as by a lamp, the real nature of Brahman, then having known the unborn, eternal god, who is beyond all natures [^745], he is freed from all fetters.
+14\. As a metal disk (mirror), tarnished by dust, shines bright again after it has been cleaned, so is the one incarnate person satisfied and free from grief, after he has seen the real nature of the Self [^744]. <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> 15\. And when by means of the real nature of his self he sees, as by a lamp, the real nature of Brahman, then having known the unborn, eternal god, who is beyond all natures [^745], he is freed from all fetters.
 
 16\. He indeed is the god who pervades all regions: he is the first-born (as Hira<i>n</i>yagarbha), and he is in the womb. He has been born, and he will be born [^746]. He stands behind all persons, looking everywhere.
 

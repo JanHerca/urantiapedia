@@ -44,7 +44,7 @@ The Brâhma<i>n</i>a's wife said:
 
 As to this symbol of the Brahman which is denominated the Kshetra<i>g</i>ña, where, indeed, is (to be found) a description of it, by which it [^1473] is capable of being comprehended?
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 The Brâhmana said:
 
@@ -52,7 +52,7 @@ He is without symbols [^1474], and also without qualities; nothing exists that i
 
 The Deity said:
 
-Then the mind of the Brâhma<i>n</i>a's wife, after the <span id="p310">[<sup><small>p. 310</small></sup>]</span> destruction of the Kshetra<i>g</i>ña [1](Anugita_20#fn1482), turned to that which is beyond (all) Kshetra<i>g</i>ñas by means of a knowledge of the Kshetra [2](Anugita_20#fn1483).
+Then the mind of the Brâhma<i>n</i>a's wife, after the <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> destruction of the Kshetra<i>g</i>ña [1](Anugita_20#fn1482), turned to that which is beyond (all) Kshetra<i>g</i>ñas by means of a knowledge of the Kshetra [2](Anugita_20#fn1483).
 
 Ar<i>g</i>una said:
 

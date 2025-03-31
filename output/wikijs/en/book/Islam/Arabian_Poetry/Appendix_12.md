@@ -72,7 +72,7 @@ v. 26. Mr Lyall, in a note on one of his translations of Songs from the _Hamāse
 Many the Days are ours, long blazed with glory,
 &nbsp;&nbsp;when we withstood the King and would not serve him.
 
-<span id="p398">[<sup><small>p. 398</small></sup>]</span>
+<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 “Days” (_Ayyām_), he explains, is the word used in Arab legend for battles: one says, “the Day of el-Kuālb,” “the Day of Shi‘b Jebeleh,” &c., although the fight may (as it did at el-Kulāb) have lasted longer than one day. (See note on vv. 25, 26, Hareth's Mo‘all.)
 
@@ -89,7 +89,7 @@ v. 40. “Our javelins exquisitely wrought of Khathaian reeds,” _i.e._ lances 
 
 v. 45. The syringa-flower.—The tree of Judas, on which the arch-traitor hung himself after betraying his Master: the tree in consequence is said to have wept blood, with which its blossoms still remain deeply dyed.—_Nott:_ Odes of Hafiz.—In the Romance of Antar, warriors whose armour is stained with blood are frequently compared to the flowers of the Judas-tree; and the hero himself describes cups of wine as mantling like the Judas-flower. It is the _Cercis Siliquastrum_ of botanists, according to Hamilton, “the flowers of which are of a very bright purple colour, coming out from the branches and stem on every side in large clusters and on short peduncles.”
 
-<span id="p399">[<sup><small>p. 399</small></sup>]</span>
+<span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 
 v. 66. Colaib Ebn Rabiah governed the Bani Maad (the Saraceni Maadeni of Procopius), and was so proud that he would not suffer any one to hunt in his neighbourhood, nor any camels to be watered with his, nor any fire to be lighted near that which he himself used. He was at last slain by one Jassas, for shooting a camel, named Sarab, that he found grazing on a prohibited spot of ground. This camel belonged to an Arab, who had been entertained by Basus, a near relation of Jassas. The murder of Colaib Ebn Rebiah occasioned a forty years’ war \[see Argument prefixed to the Poem of Amru, page [65](./Moallakat_Amru_Argument#p65)\], whence came the Arab proverbs: “a worse omen than Sarab;” “more ominous than Basus.”—It may not be improper here to observe that the kings and chiefs of the Arabs generally forbade others to bring their flocks upon those places and pastures which they chose for themselves. In order to ascertain the limits of these pastures, when they came to a fruitful valley or plain, they caused a dog to bark, and the whole extent of ground over which he could be heard they appropriated to themselves.—_Ancient Universal History_, vol. xviii., p. [440].
 

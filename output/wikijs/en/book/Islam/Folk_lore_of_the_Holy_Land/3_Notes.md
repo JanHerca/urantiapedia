@@ -32,7 +32,7 @@ dateCreated: 2024-11-27T20:32:21Z
   </table>
 </figure>
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 ## I
 
@@ -64,7 +64,7 @@ P. [168](./3_4#p168). “_The Kadi Abdullah el Mustakìm lived at Baghdad_.—El
 
 P. [181](./3_5#p181). _Azrael and his son_.—As a version of the foregoing story, which entirely, and also in scraps, the writer has several times heard told by natives of Palestine, is said to be found in Grimm's collection of fairy tales, it is difficult to determine whether its origin is Oriental or the contrary. The name of the hero of the following, which is in circulation among the peasantry of the native Christian village of Ramallah, situated about ten miles to the north of Jerusalem, would seem to indicate that it has been introduced by some Spanish or Italian monk. It has been told to the writer by four different persons, all of whom were natives, and on as many different occasions.
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 P. [182](./3_5#p182). _Francesco's card-playing_.—Though at first sight it may seem an anachronism to mention cards as having been played in the days of the Herods, seeing that the first actual mention of them as having been used in Europe dates back to the year A.D. 1388, and that their first introduction into France was during the reign of Charles VII. (1432-1461), yet some German savants are of the opinion that they were an invention of the Chinese, and reached Europe through an Arabian channel. (See Brockhaus, “Conversations-Lexikon” on “Spielkarten.”)
 
@@ -94,7 +94,7 @@ P. [237](./3_8#p237). _The “maûsam” or season of pilgrimage_.—This varies
 
 P. [238](./3_8#p238). _The machicolated window above the gate_.—In the earlier part of the last century such “machicolations” or protected windows over doorways were very common in Jerusalem, not only over the entrances to monasteries and public buildings, but even in private dwellings. They are rarely met with nowadays.
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 P. [240](./3_8#p240) and following. _Ignorance of Christian priests_.——The Christians of the various sects in Palestine now generally appreciate the value of education, and vie with each other in providing schools, especially for the training of ecclesiastics. In and near Jerusalem, there are several such seminaries, and though there are still, in out-of-the-way places more particularly, ignorant ecclesiastics, yet the number of the latter is by no means so great as it was during the early part of last century, when the rural clergy belonging to the orthodox Greek Church was notorious for its dense ignorance, and no adequate provision was made for the instruction of the parochial ministers. Even in Jerusalem, it was the custom for the Sunday preacher to have to go during the previous week to a learned Archimandrite in order to be instructed in a sermon for the occasion. [^169] It was also then the custom to provide a successor for a village priest who was becoming old or feeble, by selecting a likely lad from the hamlet, and sending him as a servant to the convent at Jerusalem. Here he had to attend the various services of the Church and commit to memory the liturgies for Sundays, feast-days, baptism, etc., so that, when occasion required, he could read them, if nothing else, from the prayer-books.
 
@@ -116,7 +116,7 @@ P. [272](./3_10#p272). _Story of the man who won the heart of the hyena_.—I re
 
 P. [275](./3_10#p275). and following pp. _The fox, the eagle, and the leopard_.—A version of this fox story is related by F. Baldensperger in _Quarterly Statement_ for July 1905, pp. 199, 201.
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 P. [283](./3_10#p283).—_The spinal cord of a man becomes a serpent_....See Hershon's commentary as above.
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 ## VIII. The Harper.
 
@@ -57,7 +57,7 @@ Those ears, in many ways, degraded are indeed.
 Mankind the songs of fairies never hear at all,
 They are not versed in fairies’ ways, their voices small.
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 ’Tis true, the chants of fairies’ sounds are of this world;[^245]
 <sup id="v10"><small>10</small></sup>  But songs sung by men's hearts are far above them hurled.
@@ -92,7 +92,7 @@ Can give the gift to all, it gave to Mary: “Hail!”
 O ye whose death was not that which attacks the flesh,
 At sound of the Beloved's voice ye’ve risen afresh.
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 That voice the Bridegroom's voice most truly was, ’tis said,
 Although ’twas from the lips of His servant, Ahmed.
@@ -125,7 +125,7 @@ The moon derives her sheen from daystar's golden tun.
 Imbibe what light thou canst from any twinkling star.
 The Prophet said: “Stars are all my disciples.” Hear![^250]
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 He further said: “How happy they who see my face,[^251]
 And happy they who look on them in their own place.”
@@ -158,7 +158,7 @@ Your fiery souls by it all quickly were puffed out.
 Their present calm, and this vivacity's from heaven;
 Resembling not the turbulence by which man's driven.
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 One breathing from the Lord, when blown on earth and air,
 Ill qualities converts straight into all that's fair.
@@ -190,7 +190,7 @@ To thee the thorn's a rose; the wilderness, rich land.
 O thou who in such quest hast wandered up and down,
 How long wilt thou contend rose-garden's sandy down?
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 Thou canst not now extract the thorn from thy sore foot.
 <sup id="v65"><small>65</small></sup>  With that blind eye of thine, how wilt thou see its root?
@@ -222,7 +222,7 @@ That question passes comprehension, my good elf.
 Man's finite reason disbelieves love's potent sway.
 Himself he yet esteems endowed with head to-day.
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 He's clever, and he's knowing, _nil_ he's not; anon.
 Until an angel's nothing,[^259] he's a sheer demon.
@@ -253,7 +253,7 @@ It's naught but the decree there should appear default.
 It's shame to him who only sees another's faults.
 <sup id="v90"><small>90</small></sup>  What fault is noticed by the Soul safe from assaults?”
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 A fault it is to eyes of creatures ignorant.
 But not with God the Lord, our Maker benignant.
@@ -284,7 +284,7 @@ Thou’rt slave unto thy body; soul thou hast not, elf.
 Behind, before, above, below, stands body's shade.
 The soul has no “dimensions;” clearly it's displayed.
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 Lift thy eyes, dear Sir, in glorious light of God;
 That thou be not accounted most shortsighted clod.
@@ -321,7 +321,7 @@ Has God at all times reared rich gardens free from feints.
 Each flower that yields to sense agreeable perfume,
 Speaks volumes to saint's heart with its mysterious tongue.
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Each perfume from a flower rubs atheist's nose in dirt;
 <sup id="v120"><small>120</small></sup>  Although he rush about, and boundless nonsense spirt.
@@ -354,7 +354,7 @@ They issue their commands to spheres of earth and air.
 The ups and downs in spirit's path form quite a class;
 So many hills to climb; so many seas to pass.”\]—_Sanā’ī_.
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 The unseen world has other clouds, and other skies;[^268]
 Its sun is different; its water God supplies.
@@ -385,7 +385,7 @@ The air still quickens, though dead stumps feel not its power.
 The Prophet gave advice: “From breezes cool, in spring,[^270]
 Your bodies cover not; they're invigorating.
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 Allow them, then, full play; they'll give your sinews strength.
 See how, with them, the trees are clothed with leaves, at length.
@@ -417,7 +417,7 @@ And by reproaches is the soul kept back from evil's meeds.
 Upon the heart of teacher clings dark sorrow's pall,
 If one twig from heart's garden's seen away to fall.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 Good ‘Ā’isha, the gem of honour's casket wide,
 <sup id="v160"><small>160</small></sup>  Then asked the Prophet (who's of both the worlds the Pride):
@@ -453,7 +453,7 @@ At sound of his sweet voice, imagination ’d swarmed.
 Each heart, birdlike, began to flutter in its cage;
 Surprise enchained men's minds when his notes threw the gage.
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 But now he was grown old; long years he'd passed on earth.
 <sup id="v175"><small>175</small></sup>  Like falcon chasing gnats, he'd little cause for mirth.
@@ -487,7 +487,7 @@ To burial-ground of Yathrab;[^274] sat down on the sod.
 Said he: “I'll ask of God the hire of my harpstrings;
 For He accepts the heart's most humble outpourings.”
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 He harped awhile, and then he laid him down and wept.
 His harp his pillow was; upon a grave he slept.
@@ -520,7 +520,7 @@ Has lent my thoughts the wings that make their flight so bold.
 Were but that world in sight; its road, were it but known;
 Few souls would here remain, were but its glories shown.
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 Commandment has been given: “Thou shalt not covetous be.”
 The thorn from out thy foot is drawn; thy thanks let's see.
@@ -554,7 +554,7 @@ Both understood and spoke, as human being sees.
 A post in his own house, at Mustafà's retreat,
 <sup id="v215"><small>215</small></sup>  Sent forth a sob of grief, like heart in sorrow's heat,
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 As he his sermon preached, surrounded by his flock,
 So that the moan was heard by old and young; no mock.
@@ -584,7 +584,7 @@ Will ne’er believe a stock could sigh and moan for love.
 He may pretend to acquiesce; not from belief;
 He says: “’Tis so,” to ’scape a name much worse than thief.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 All they who're not convinced that God's “Be” is enough,
 Will turn away their face; this tale they'll treat as “stuff”
@@ -621,7 +621,7 @@ With it men's faces strikest thou, angry, ev’ry day.
 What's this you're doing, blind ones? What are you about?
 Some constables call in, to calm this frightful rout.
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 Fall down, and Him entreat, who furnished you with staff.
 Look well, and see what signs your weapon may engraff.
@@ -658,7 +658,7 @@ But his own soul and body witness God is true.
 Some stones were held in hand by Abū-Jahl one day.[^278]
 Said he to Muhammed: “What hold I here? Now say.
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 Since thou’rt a prophet, tell: What hold I in my hand?
 The secrets of high heaven thou claimest to command.”
@@ -697,7 +697,7 @@ Do thou again come hither; look for me alone.'”
 At sound of that dread voice did ‘Umer now awake,
 And straight himself disposed that task to undertake.
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Towards the burial-ground he turned his steps amain,
 The money in his breast, to seek the stranger, fain.
@@ -735,7 +735,7 @@ Trusts thou’st supported well all thy afflictions dire.
 This trifle sends for present needs, as harpstrings’ worth.
 When it is spent, come here again, and fear not dearth.”
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 The old man trembled as he heard those words so kind;
 <sup id="v290"><small>290</small></sup>  His finger in astonishment he bit;—near lost his mind.
@@ -770,7 +770,7 @@ Beyond my craft myself I see, when craft's at bay.
 Just like as when a man is telling gold with thee.
 Alone it thou considerest,—self thou dost not see.
 
-<span id="p161">[<sup><small>p. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 So did the harper weep, and loudly did complain.
 <sup id="v305"><small>305</small></sup>  His sins he numbered up, committed in life's train.
@@ -805,7 +805,7 @@ As I cannot explain; try thy perception.
 Such ecstasy, such words, beyond all mood and tense;
 Immersion total in God's glorious effulgence.
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Immersion such, escape therefrom impossible;
 <sup id="v320"><small>320</small></sup>  That sea henceforth to him became impassable.
@@ -844,7 +844,7 @@ Save in God's service, wealth of God spend not. Take care!
 So mayst thou get in recompense a hundredfold.
 So mayst thou ’scape the punishment of sins untold.
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Men offered up their camels as a sacrifice;
 <sup id="v335"><small>335</small></sup>  In hopes their swords ’gainst Mustafà would do service.
@@ -881,7 +881,7 @@ Mules, horses, mice, and accidents have it reduced.
 This world's a negative; the positive seek thou.
 All outward forms are cyphers; search, the sense to know.
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 Lay down thy wretched life before th’ uplifted sword;
 <sup id="v350"><small>350</small></sup>  New life thou’lt purchase, never-ending, of the Lord.

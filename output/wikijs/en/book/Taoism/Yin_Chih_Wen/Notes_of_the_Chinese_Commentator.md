@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:11:59Z
 </figure>
 
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 <a name="xref_CC1"></a>
 
@@ -49,7 +49,7 @@ May people who receive these instructions exert all their mental energy to put t
 
 ## 2\. HEAVEN AND EARTH. [^1]
 
-Chou-tze says: "Heaven and Earth are constantly at work to regenerate the ten thousand things. That <span id="p26">[<sup><small>p. 26</small></sup>]</span> is their purport. If the thought of a person is always bent on benefiting others, then he becomes himself Heaven and Earth.
+Chou-tze says: "Heaven and Earth are constantly at work to regenerate the ten thousand things. That <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> is their purport. If the thought of a person is always bent on benefiting others, then he becomes himself Heaven and Earth.
 
 “It is not sufficient for an officer of high position to refrain from coveting promotion and from seeking wealth. He should employ his benevolence so as to benefit his fellow men; otherwise the purpose for which Heaven has created us will be altogether lost.”
 
@@ -59,7 +59,7 @@ Chou-tze says: "Heaven and Earth are constantly at work to regenerate the ten th
 
 In olden times, Yü King, judge of the criminal court, was held in such high esteem \[on account of his virtue\] that a gateway for four-horse carriages was erected in his honor.
 
-Yü King of the Han dynasty (206 B. C. to A. D. 23) was judge of a criminal court on the eastern shore of China. In his district there was a young widow who, on account of her parental devotion, showed no disposition to marry again, lest her mother-in-law be left without support. The aged woman, however, was so much distressed over her helplessness that finally she hanged herself to release her daughter-in-law from the duty of self-sacrifice. Her own daughter hearing of the incident went to court and charged her sister-in-law with murder, and the latter, unable to vindicate herself, was condemned to death in spite of Yü King's <span id="p27">[<sup><small>p. 27</small></sup>]</span> protest. After this tragedy, Heaven failed to give rain all along the eastern coast for a period of three years. When a new governor was installed, Yü King explained to him the cause of the long drought. Thereupon the grave of the dutiful daughter-in-law was officially decorated, and then at last it started to rain.
+Yü King of the Han dynasty (206 B. C. to A. D. 23) was judge of a criminal court on the eastern shore of China. In his district there was a young widow who, on account of her parental devotion, showed no disposition to marry again, lest her mother-in-law be left without support. The aged woman, however, was so much distressed over her helplessness that finally she hanged herself to release her daughter-in-law from the duty of self-sacrifice. Her own daughter hearing of the incident went to court and charged her sister-in-law with murder, and the latter, unable to vindicate herself, was condemned to death in spite of Yü King's <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> protest. After this tragedy, Heaven failed to give rain all along the eastern coast for a period of three years. When a new governor was installed, Yü King explained to him the cause of the long drought. Thereupon the grave of the dutiful daughter-in-law was officially decorated, and then at last it started to rain.
 
 Yü King showed his humane disposition in many other trials. When the elder people in his district proposed to repair his family gate which was dilapidating, Yü King advised them to have it raised and enlarged, so that a four-horse carriage could be driven through it, saying: “I have a great many times in my official life practised secret virtue (_yin teh_) and have never condemned the innocent. Among my descendants there will surely be some one who will rise high and will occupy important positions.” And so things came to pass. His son became prime minister and was created a noble, and his grandson, too, was promoted to a responsible position in the government.
 
@@ -71,7 +71,7 @@ The Tou family saved people and thus nobly obtained the five-branched olea. [^4]
 
 Tou Yü-Chün was not yet favored with a son when he was thirty years old. One night his grandfather appeared to him in a dream and said: “You may not have any issue at all, nor may you live long, unless you are diligent in performing benevolent deeds.”
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 Yü-Chün was a well-to-do man and could afford to do many benevolent things. One of his servants stole a considerable sum of money from his chest. When the fact was exposed, the guilty one fled leaving his daughter thirteen years old, to whom a note was attached which read: “Offer this girl and my house for sale. With the money thus realized I wish to pay my debt.”
 
@@ -81,7 +81,7 @@ Yü-Chün did many other good things. The poor who could not afford funeral serv
 
 In the meantime he saw again his grandfather in a dream, who said: “You were originally destined not to have any offspring and to live only a few more years. But on account of your humane deeds, your merits have been recorded by the Heavenly Lord. Your life will be prolonged and you will have five children who will be very prosperous.”
 
-“The way of Yin and Yang,” the spirit added, “is like the law of Karma. The reward may become manifest either in this life or in succeeding lives. The <span id="p29">[<sup><small>p. 29</small></sup>]</span> heavenly net is vast and hangs loosely, but it never permits things to escape. You must cherish no doubt about this.”
+“The way of Yin and Yang,” the spirit added, “is like the law of Karma. The reward may become manifest either in this life or in succeeding lives. The <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> heavenly net is vast and hangs loosely, but it never permits things to escape. You must cherish no doubt about this.”
 
 Yü-Chün's five sons successfully passed the literary examinations and were promoted to high official positions.
 
@@ -95,7 +95,7 @@ Sung Chiao and Sung Ch'i (eleventh century A. D.) were brothers. When they were 
 
 Ten years later, the elder Sung again happened to meet the monk on the road. The monk showed great astonishment, exclaiming: “Your fortunes have suddenly changed. You look as if you had saved millions of lives.” Sung said, laughing: “How could I, a poor follower of Confucius, achieve such a feat as that?” “Yes,” replied the monk, “Even the meanest creatures are enjoying their lives you know.” Reflecting a little while, Sung said: “I remember that about ten days ago I found an ants' nest under my porch in danger of being flooded. I took a few bamboo sticks and made a bridge over the water to let the poor ants cross over it. May this be it?” “Exactly,” answered the monk, “the younger Sung is now leading the list but you will not be second to him.”
 
-When the order of literary graduates was declared, <span id="p30">[<sup><small>p. 30</small></sup>]</span> the younger Sung was found to be the first and the elder Sung the second. But the Empress Chang Hsien decreed that the younger brother should not precede the elder, and Sung Chiao was put at the head of the list.
+When the order of literary graduates was declared, <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> the younger Sung was found to be the first and the elder Sung the second. But the Empress Chang Hsien decreed that the younger brother should not precede the elder, and Sung Chiao was put at the head of the list.
 
 <a name="xref_CC6"></a>
 
@@ -107,7 +107,7 @@ Shun Shu-Ao, of Chu state, when a boy, used to go out very frequently. One day h
 
 When Shun was a man, he was made a minister of state.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 <a name="xref_CC7"></a>
 
@@ -121,7 +121,7 @@ The difference between sages such as Yao and Shun and wretches such as Chieh or 
 
 The soul of a true, earnest gentleman [^8] has its root in this obscure recess, which he examines and purifies in solemn silence and privacy. Merely this, a heart to save the world; not one mote of a heart for worldliness. Merely this, a heart to love mankind; not a mote of a heart for hatred of people. Merely this, a heart to have respect for others; not a mote of a heart for making light of the world. Merely this, a heart earnestly to promote one's conversion; not a mote of a heart for indulgent self-delusion. This is the way of self-purification and the sure foundation of bliss.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 <a name="xref_CC8"></a>
 
@@ -137,7 +137,7 @@ Li Kwang-Yüen, an eminent seeker of truth, was once warned by a strange saintly
 
 ## 9\. THE DISEASE OF EGOTISM.
 
-Mother Cheng used to instruct her children to this effect: “When others do good, fall in line as if it were your work and be sure to bring it to completion. Treat <span id="p33">[<sup><small>p. 33</small></sup>]</span> others' property as if it were your own, so you will be thoughtful in using it.”
+Mother Cheng used to instruct her children to this effect: “When others do good, fall in line as if it were your work and be sure to bring it to completion. Treat <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> others' property as if it were your own, so you will be thoughtful in using it.”
 
 Hsieh Wen-Ching says: "The reason why a man has thousands of troubles is because he clings to the idea of self: therefore, he schemes and contrives in ten thousand different ways. He alone wants to be rich, he alone wants to be honored, he alone wants to be easy, he alone wants to be happy, he alone wants to enjoy life, he alone wants to be blessed with longevity; and to others' poverty, misery, danger, or suffering, be is altogether indifferent. It is for this reason that the life-will [^11] of others is disregarded and Heaven's Reason neglected. Only be cured of the disease of egotism, and your heart will be broadened even to the vastness of infinite space, so that wealth, honor, happiness, comfort, health, longevity could all be enjoyed with others. And, then, the will to live will have its way, everything will have its natural longings satisfied, and Heaven's Reason will be displayed in an untold exuberance.
 
@@ -147,7 +147,7 @@ Hsieh Wen-Ching says: "The reason why a man has thousands of troubles is because
 
 Filial piety is the guide of all actions. It is the ultimate root of humaneness; and is it possible that the root be rotten while the branches and leaves grow luxuriously?
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Yao-Jao Hou says: “The four essential elements of filial piety are: (1) To be established in virtue; (2) To keep up the family; (3) To keep the body unimpaired; (4) To cultivate the character.”
 
@@ -165,7 +165,7 @@ In his anxiety lest all people might not be induced to goodness, the Lord Superi
 
 P'an Ch'ung-Mou says:
 
-“What is to be avoided most in our life is vacillation and frivolity (_wang nien_); and what is most excellent is a reverential heart. Therefore, we Confucians endeavor to preserve sincerity of heart and consider reverence as most essential. It is needless <span id="p35">[<sup><small>p. 35</small></sup>]</span> to say that sincerity and reverence make us companions of heaven and earth, gods and spirits.
+“What is to be avoided most in our life is vacillation and frivolity (_wang nien_); and what is most excellent is a reverential heart. Therefore, we Confucians endeavor to preserve sincerity of heart and consider reverence as most essential. It is needless <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> to say that sincerity and reverence make us companions of heaven and earth, gods and spirits.
 
 “There is, however, another class of people who adopt Buddhism as their guidance. They bow before the Buddha and recite his Sutras, always bent on preserving reverence and awe. They will never relax their vigilant guard over the heart, which will by degrees become pure and bright, free from evil thoughts and ready to do good. This enlightenment is called their most happy land. [^12] What is necessary, then, for Buddhists as well as Confucians is to avoid vacillation and frivolity, which will render you unreliable. Keep the heart always restrained by reverence and awe. Otherwise what can be the use of the recitation of Sutras or the discourses of Confucius?”
 
@@ -177,7 +177,7 @@ The great virtue of heaven and earth is to create, and all living beings, men an
 
 To buy up captive animals for the sake of setting them free is nothing but an outburst of a sympathetic heart. Thoughtless people make light of puny creatures such as ants, spiders, etc., and wantonly kill them, having no thought of pity or remorse; but pious hearts refrain from such cruelty.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 <a name="xref_CC14"></a>
 

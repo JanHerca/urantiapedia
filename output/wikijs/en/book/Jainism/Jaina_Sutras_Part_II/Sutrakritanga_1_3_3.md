@@ -36,7 +36,7 @@ THIRD CHAPTER.
 
 As at the time of the battle the coward looks behind him for a ditch, thicket, or other hiding-place [^774], (thinking that) nobody knows who will win; (1)
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 ‘A moment's moment will bring the decision [^775]; when we lose, we shall fly.' Thus thinks the coward. (2)
 
@@ -56,7 +56,7 @@ Some revile a monk who leads a holy life. But these revilers are far off from pe
 
 ‘Therefore you still have an attachment, being obedient to the will of one another; you have not the purity produced by the right path, and have not got beyond the Circle of Births.’ (10)
 
-Now a monk who knows (the truth about) Môksha <span id="p267">[<sup><small>p. 267</small></sup>]</span> should answer them [^778]: 'You speak thus, wavering between two ways of life (viz, that of householders and monks). (11)
+Now a monk who knows (the truth about) Môksha <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> should answer them [^778]: 'You speak thus, wavering between two ways of life (viz, that of householders and monks). (11)
 
 ‘You eat out of the vessels [^779] (of householders, and make them) bring food for a sick brother; you eat seeds and drink cold water [^780], and what has been especially prepared (for you when sick). (12)
 
@@ -70,7 +70,7 @@ They should be instructed in the truth by one who knows it and is free from pass
 
 When (these heretics) cannot prove (their assertion) by any arguments they give up the discussion, and fall back on their bold (assertion). (17)
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Overcome by their passions and infected by untruth, (these men) have recourse to bad language, as the (savage) <i>T</i>aṅkana [^783] (when beaten) have recourse to their hills. (18)
 

@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:1:50Z
   </table>
 </figure>
 
-<span id="p441">[<sup><small>p. 441</small></sup>]</span>
+<span id="p441"><sup><small>[ p. 441 ]</small></sup></span>
 
 Treatise on the Hexagrams taken promiscuously, according to the opposition or diversity of their meaning.
 
@@ -53,7 +53,7 @@ Their different figures were to teach designed.
 
 26\. Tâ <i>Kh</i>û keeps still, and waits the proper time.
 
-25\. Wû Wang sets forth how evil springs from crime. <span id="p442">[<sup><small>p. 442</small></sup>]</span> 45, 46. Good men in Žhui collect; in Shang they rise:
+25\. Wû Wang sets forth how evil springs from crime. <span id="p442"><sup><small>[ p. 442 ]</small></sup></span> 45, 46. Good men in Žhui collect; in Shang they rise:
 
 15, 16. <i>Kh</i>ien itself, Yü others doth despise.
 
@@ -87,7 +87,7 @@ Takes what is plain, from ornament quite free.
 
 38\. Khwei looks on others as beyond its care;
 
-37\. Kiâ <i>Z</i>ăn all includes within its sphere. <span id="p443">[<sup><small>p. 443</small></sup>]</span> 12, 11. While Phî and Thâi their different scopes prefer,
+37\. Kiâ <i>Z</i>ăn all includes within its sphere. <span id="p443"><sup><small>[ p. 443 ]</small></sup></span> 12, 11. While Phî and Thâi their different scopes prefer,
 
 34, 33. Tâ <i>K</i>wang stops here as right; withdraws Thun there.
 
@@ -123,7 +123,7 @@ To move until the bridegroom takes his way.
 
 27\. Body and mind are nourished right in Î;
 
-63\. All things are well established in Kî Žî. <span id="p444">[<sup><small>p. 444</small></sup>]</span> 54\. Kwei Mei reveals how ends the virgin life;
+63\. All things are well established in Kî Žî. <span id="p444"><sup><small>[ p. 444 ]</small></sup></span> 54\. Kwei Mei reveals how ends the virgin life;
 
 64\. Wei Žî how fails the youth (to get a wife).
 

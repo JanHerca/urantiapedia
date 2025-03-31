@@ -133,7 +133,7 @@ Advanced the Vánar chiefs; and all
 Upon the plain in \*numbers \*made,(?)
 Impetuous warriors, stood arrayed.
 
-<span id="p363">[<sup><small>p. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 Red at the sight flashed Lakshman's eyes,
 His bosom heaved tumultuous sighs,
@@ -243,7 +243,7 @@ With labour light is friendship gained.
 But with severest toil maintained.
 And doubt is strong, and faith is weak,
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 And friendship dies when traitors speak.
 Hence is my troubled bosom cold
@@ -351,7 +351,7 @@ Their golden fruited boughs, that made
 With leaf and flower delicious shade.
 He saw a band of Vánars wait,
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 Wieiding their weapons, at the gate
 Where golden portals flashed between
@@ -474,7 +474,7 @@ I know that grace shonld be returned
 But still I know, whatever befall,
 That conquering love is lord of all;
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Know where Sugríva's thoughts, possessed
 By one absorbing passion, rest.
@@ -585,7 +585,7 @@ Like thunderbolts, thou heedest not,
 Who canst, absorbed in sensual bliss,
 Thy promise from thy mind dismiss.’
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 
 
@@ -697,7 +697,7 @@ But Ráma to my rescue came,
 And gave me back my power and fame.
 O Lakshman, say, whose grateful heart
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Could nurse the hope to pay in part,
 By service of a life, the deed
@@ -801,7 +801,7 @@ Or mighty clouds that veil the skies,
 And swiftly speeding on their way
 Bring all our legions in array.’
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 He ceased: the son of Váyu  [^647] heard,
 Submissive to his sovereign's word;
@@ -912,7 +912,7 @@ The forehead of the monarch fanned,
 And shell and drum and song and shout
 Pealed round him as the king passed out.
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 About the monarch went a throng
 Of Vánar warriors brave and strong,
@@ -1015,7 +1015,7 @@ When I my demon foe shall slay,
 As conquering Indra in his ire
 Slew Queen Paulomi's haughty sire.' [^654]
 
-<span id="p371">[<sup><small>p. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;He ceased: thick clouds of dust rose high
 To every quarter of the sky:
@@ -1100,7 +1100,7 @@ Wher'er they list, these armies lead.
 Fierce and terrific to the view
 As Daityas or the Dánav [^661] crew,
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 Famed in all lands for souls afire
 With lofty thoughts, they never tire,
@@ -1180,7 +1180,7 @@ Against rude rocks the billows d\*ash:
 An ocean like a sable cloud,
 Whose margent monstrous serpents crowd;
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 An ocean rising with a roar
 To beat upon an iron shore.
@@ -1259,7 +1259,7 @@ And with his second lightly pressed
 The loftiest peak of Meru's crest.
 When north of Jambudwíp  [^686] the sun
 
-<span id="p374">[<sup><small>p. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 A portion of his course has run.
 And hangs above this mountain height,

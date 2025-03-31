@@ -40,7 +40,7 @@ The Brâhma<i>n</i>a's wife said:
 
 My former belief was that the sacrificial priests were seven. by (their) nature [^1294]. State how the great principle is that there are verily five sacrificial priests [^1295].
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 The Brâhma<i>n</i>a said:
 
@@ -52,7 +52,7 @@ He, verily, is the greatest, who being extinct, all the life-winds in the body o
 
 The Prâ<i>n</i>a said:
 
-When I am extinct, all the life-winds in the body <span id="p272">[<sup><small>p. 272</small></sup>]</span> of living creatures become extinct; and on my moving about, they again move about. I am the greatest. See I am extinct!
+When I am extinct, all the life-winds in the body <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> of living creatures become extinct; and on my moving about, they again move about. I am the greatest. See I am extinct!
 
 The Brâhma<i>n</i>a said:
 
@@ -66,7 +66,7 @@ The Brâhma<i>n</i>a said:
 
 Then the Vyâna and the Udâna addressed him who was speaking (thus): ‘You are not the greatest, O Apâna! because the Prâ<i>n</i>a is subject to you.’ Then the Apâna moved about, and the Vyâna spoke to him: 'I am the greatest among (you) all. Hear the reason why. When I am extinct, all the life-winds in the body of living creatures become extinct.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 And on my moving about, they again move about. I am the greatest. See I am extinct!’
 
@@ -76,7 +76,7 @@ Then the Vyâna became extinct, and again moved about. And the Prâna and Apâna
 
 The Brâhma<i>n</i>a said:
 
-Then Brahman, the lord of (all) creatures, said. to them who were assembled together: You are all greatest, and not greatest [^1304]. You are all possessed <span id="p274">[<sup><small>p. 274</small></sup>]</span> of one another's qualities [1](Anugita_9#fn1305). All are greatest in their own spheres, and all support one another. There is one unmoving [2](Anugita_9#fn1306) (life-wind). There are others moving about, (which are) five, owing to (their) specific qualities. My own self is one only [3](Anugita_9#fn1307), (but) accumulated in numerous (forms). Being friendly with one another, and pleasing one another, go away happily. Welfare be to you! Support one another.’
+Then Brahman, the lord of (all) creatures, said. to them who were assembled together: You are all greatest, and not greatest [^1304]. You are all possessed <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> of one another's qualities [1](Anugita_9#fn1305). All are greatest in their own spheres, and all support one another. There is one unmoving [2](Anugita_9#fn1306) (life-wind). There are others moving about, (which are) five, owing to (their) specific qualities. My own self is one only [3](Anugita_9#fn1307), (but) accumulated in numerous (forms). Being friendly with one another, and pleasing one another, go away happily. Welfare be to you! Support one another.’
 
 
 

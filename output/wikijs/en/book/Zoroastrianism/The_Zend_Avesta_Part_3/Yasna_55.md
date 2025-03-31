@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 ## YASNA LV (SP. LIV). THE WORSHIP OF THE GÂTHAS AS CONCLUDED, AND THAT OF THE STAOTA YÊSNYA AS BEGINNING.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 2\. That which Gâthas (may) be to us, which are our guardians and defenders, and our spiritual food, yea, which (may) be to our souls both food and clothing, such are these Gâthas to us, guardians, and defenders, and (spiritual) food, even such they are, both food and clothing to the soul.
 
-And (may) they be to us (for this our offering) abundant givers of rewards, and just and righteous ones, for the world beyond the present, after the parting of our consciousness and body. 3. And may these (Praises of the Offering) come forth, and appear for us with power and victorious assault, with health and healing, with progress, and with growth, with preparation and protection, with beneficence and sanctity, and abounding with gifts [^1228] toward him who can understand; yea, let them appear (with free liberality to the enlightened), let them appear as <span id="p295">[<sup><small>p. 295</small></sup>]</span> Mazda, the most beneficent, has produced them, He the one who is victorious when He smites, and who helps the settlements advance, for the protection, and the guarding of the religious order of the settlements which are now being furthered, and of those which shall bring salvation to us, and for the protection of the entire creation of the holy (and the clean).
+And (may) they be to us (for this our offering) abundant givers of rewards, and just and righteous ones, for the world beyond the present, after the parting of our consciousness and body. 3. And may these (Praises of the Offering) come forth, and appear for us with power and victorious assault, with health and healing, with progress, and with growth, with preparation and protection, with beneficence and sanctity, and abounding with gifts [^1228] toward him who can understand; yea, let them appear (with free liberality to the enlightened), let them appear as <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> Mazda, the most beneficent, has produced them, He the one who is victorious when He smites, and who helps the settlements advance, for the protection, and the guarding of the religious order of the settlements which are now being furthered, and of those which shall bring salvation to us, and for the protection of the entire creation of the holy (and the clean).
 
 ---
 

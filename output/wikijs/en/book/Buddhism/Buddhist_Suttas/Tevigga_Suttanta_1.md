@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 ## ON KNOWLEDGE OF THE VEDAS. TEVI<i>GG</i>A-SUTTA. CHAPTER I.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 2\. Now at that time many very distinguished and wealthy Brâhmans were staying at Manasâka<i>t</i>a—to wit, <i>K</i>ankî the Brâhman, Târukkha the Brâhman, Pokkharasâti the Brâhman, Gâ<i>n</i>usso<i>n</i>i the Brâhman, Todeyya the Brâhman, and other very distinguished and wealthy Brâhmans[^2].
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 3\. Now a conversation sprung up between Vâse<i>tth</i>a and Bhâradvâ<i>g</i>a, when they were taking exercise (after their bath) and walking up and down in thoughtful mood, as to which was the true path, and which the false[^3].
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 5\. The young Brâhman Bhâradvâ<i>g</i>a spake thus:
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 ‘This is the straight path, this the direct way which leads him, who acts according to it, into a state of union with Brahmâ—I mean that which has been announced by the Brâhman Târukkha.’
 
@@ -68,7 +68,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 8\. Then the young Brâhman Vâse<i>tth</i>a and the young Brâhman Bhâradvâ<i>g</i>a went on to the place where the Blessed One was.
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 And when they had come there, they exchanged with the Blessed One the greetings and compliments of friendship and civility, and sat down beside him.
 
@@ -94,7 +94,7 @@ And while they were thus seated the young Brâhman Vâse<i>tth</i>a said to the 
 
 ‘“This is the straight path, this the direct way which leads him, who acts according to it, into a state of union with Brahmâ—I mean that which has been announced by the Brâhman Târukkha.”
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 ‘Wherein, then, O Vâse<i>tth</i>a, is there a strife, a dispute, a difference of opinion between you[^6]?’
 
@@ -110,7 +110,7 @@ And while they were thus seated the young Brâhman Vâse<i>tth</i>a said to the 
 
 ‘So I say, Gotama.’
 
-<span id="p172">[<sup><small>p. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 12\. ‘But then, Vâse<i>tth</i>a, is there a single one of the Brâhmans versed in the Three Vedas who has ever seen Brahmâ face to face?’
 
@@ -132,7 +132,7 @@ And while they were thus seated the young Brâhman Vâse<i>tth</i>a said to the 
 
 ‘Not so, Gotama!’
 
-14\. 'Then you say, Vâse<i>tth</i>a \[that not one of the Brâhmans, or of their teachers, or of their pupils, even up to the seventh generation, has ever seen Brahmâ face to face. And that even the <i>Ri</i>shis of <span id="p173">[<sup><small>p. 173</small></sup>]</span> old, the authors and utterers of the verses, of the ancient form of words which the Brâhmans of to-day so carefully intone and recite precisely as they have been handed down—even they did not pretend to know or to have seen where or whence or whither Brahmâ is\][^10]. So that the Brâhmans versed in the Three Vedas have forsooth said thus: “What we know not, what we have not seen, to a state of union with that we can show the way, and can say: ‘This is the straight path, this is the direct way which leads him, who acts according to it, into a state of union with Brahmâ!’”
+14\. 'Then you say, Vâse<i>tth</i>a \[that not one of the Brâhmans, or of their teachers, or of their pupils, even up to the seventh generation, has ever seen Brahmâ face to face. And that even the <i>Ri</i>shis of <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> old, the authors and utterers of the verses, of the ancient form of words which the Brâhmans of to-day so carefully intone and recite precisely as they have been handed down—even they did not pretend to know or to have seen where or whence or whither Brahmâ is\][^10]. So that the Brâhmans versed in the Three Vedas have forsooth said thus: “What we know not, what we have not seen, to a state of union with that we can show the way, and can say: ‘This is the straight path, this is the direct way which leads him, who acts according to it, into a state of union with Brahmâ!’”
 
 ‘Now what think you, Vâse<i>tth</i>a? Does it not follow, this being so, that the talk of the Brâhmans, versed though they be in the Three Vedas, is foolish talk?’
 
@@ -140,7 +140,7 @@ And while they were thus seated the young Brâhman Vâse<i>tth</i>a said to the 
 
 15\. 'Verily, Vâse<i>tth</i>a, that Brâhmans versed in the Three Vedas should be able to show the way to a state of union with that which they do not know, neither have seen—such a condition of things has no existence!
 
-‘Just, Vâse<i>tth</i>a, as when a string of blind men are clinging one to the other[^11], neither can the foremost <span id="p174">[<sup><small>p. 174</small></sup>]</span> see, nor can the middle one see, nor can the hindmost see—just even so, methinks, Vâse<i>tth</i>a, is the talk of the Brâhmans versed in the Three Vedas but blind talk: the first sees not, the middle one sees not, nor can the latest see. The talk then of these Brâhmans versed in the Three Vedas turns out to be ridiculous, mere words, a vain and empty thing!’
+‘Just, Vâse<i>tth</i>a, as when a string of blind men are clinging one to the other[^11], neither can the foremost <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> see, nor can the middle one see, nor can the hindmost see—just even so, methinks, Vâse<i>tth</i>a, is the talk of the Brâhmans versed in the Three Vedas but blind talk: the first sees not, the middle one sees not, nor can the latest see. The talk then of these Brâhmans versed in the Three Vedas turns out to be ridiculous, mere words, a vain and empty thing!’
 
 ---
 
@@ -152,7 +152,7 @@ And while they were thus seated the young Brâhman Vâse<i>tth</i>a said to the 
 
 ‘Certainly not, Gotama!’
 
-18\. 'So you say, Vâse<i>tth</i>a, that the Brâhmans \[are not able to point out the way to union with that <span id="p175">[<sup><small>p. 175</small></sup>]</span> which they have seen\], and you further say that \[neither any one of them, nor of their pupils, nor of their predecessors even to the seventh generation has ever seen Brahmâ\]. And you further say that even the <i>Ri</i>shis of old, \[whose words they hold in such deep respect, did not pretend to know, or to have seen where, or whence, or whither Brahmâ is. Yet these Brâhmans versed in the Three Vedas say, forsooth, that they can point out the way to union with that which they know not, neither have seen!\][^13] Now what think you, Vâse<i>tth</i>a? Does it not follow that, this being so, the talk of the Brâhmans, versed though they be in the Three Vedas, is foolish talk?’
+18\. 'So you say, Vâse<i>tth</i>a, that the Brâhmans \[are not able to point out the way to union with that <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> which they have seen\], and you further say that \[neither any one of them, nor of their pupils, nor of their predecessors even to the seventh generation has ever seen Brahmâ\]. And you further say that even the <i>Ri</i>shis of old, \[whose words they hold in such deep respect, did not pretend to know, or to have seen where, or whence, or whither Brahmâ is. Yet these Brâhmans versed in the Three Vedas say, forsooth, that they can point out the way to union with that which they know not, neither have seen!\][^13] Now what think you, Vâse<i>tth</i>a? Does it not follow that, this being so, the talk of the Brâhmans, versed though they be in the Three Vedas, is foolish talk?’
 
 ‘In sooth, Gotama, that being so, it follows that the talk of the Brâhmans versed in the Three Vedas is foolish talk!’
 
@@ -166,7 +166,7 @@ And while they were thus seated the young Brâhman Vâse<i>tth</i>a said to the 
 
 ‘But when so asked he should answer “No.”
 
-‘And when people should ask him, "Well! good <span id="p176">[<sup><small>p. 176</small></sup>]</span> friend! this most beautiful woman in all the land, whom you so love and long for, do you know what the name of that most beautiful woman is, or what is her family name, whether she be tall or short, dark or of medium complexion, black or fair, or in what village or town or city she dwells?”
+‘And when people should ask him, "Well! good <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> friend! this most beautiful woman in all the land, whom you so love and long for, do you know what the name of that most beautiful woman is, or what is her family name, whether she be tall or short, dark or of medium complexion, black or fair, or in what village or town or city she dwells?”
 
 ‘But when so asked he should answer “No.”
 
@@ -180,7 +180,7 @@ And while they were thus seated the young Brâhman Vâse<i>tth</i>a said to the 
 
 20\. ‘And just even so, Vâse<i>tth</i>a, though you say that the Brahmans \[are not able to point out the way to union with that which they have seen\], and you further say that \[neither any one of them, nor of their pupils, nor of their predecessors even to the seventh generation has ever seen Brahmâ\]. And you further say that even the <i>Ri</i>shis of old, \[whose words they hold in such deep respect, did not pretend to know, or to have seen where, or whence, or whither Brahmâ is. Yet these Brâhmans versed in the Three Vedas say, forsooth, that they can point out the way to union with that which they know not, neither have seen!\] Now what think you, Vâse<i>tth</i>a? Does it not follow that, this being so, the talk of the Brâhmans, versed though they be in the Three Vedas, is foolish talk?’
 
-‘In sooth, Gotama, that being so, it follows that <span id="p177">[<sup><small>p. 177</small></sup>]</span> the talk of the Brâhmans versed in the Three Vedas is foolish talk!’
+‘In sooth, Gotama, that being so, it follows that <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> the talk of the Brâhmans versed in the Three Vedas is foolish talk!’
 
 ‘Very good, Vâse<i>tth</i>a. Verily then, Vâse<i>tth</i>a, that Brâhmans versed in the Three Vedas should be able to show the way to a state of union with that which they do not know, neither have seen—such a condition of things has no existence.’
 
@@ -198,15 +198,15 @@ And while they were thus seated the young Brâhman Vâse<i>tth</i>a said to the 
 
 ‘In sooth, Gotama, it would turn out, that being so, that the talk of that man was foolish talk!’
 
-22\. ‘And just even so, Vâse<i>tth</i>a, though you say that the Brâhmans \[are not able to point out the way to union with that which they have seen\], and you further say that \[neither any one of them, nor of their pupils, nor of their predecessors even to the seventh generation has ever seen Brahmâ\]. And you further say that even the <i>Ri</i>shis of old, \[whose <span id="p178">[<sup><small>p. 178</small></sup>]</span> words they hold in such deep respect, did not pretend to know, or to have seen where, or whence, or whither Brahmâ is. Yet these Brâhmans versed in the Three Vedas say, forsooth, that they can point out the way to union with that which they know not, neither have seen!\] Now what think you, Vâse<i>tth</i>a? Does it not follow that, this being so, the talk of the Brahmans versed in the Three Vedas is foolish talk?’
+22\. ‘And just even so, Vâse<i>tth</i>a, though you say that the Brâhmans \[are not able to point out the way to union with that which they have seen\], and you further say that \[neither any one of them, nor of their pupils, nor of their predecessors even to the seventh generation has ever seen Brahmâ\]. And you further say that even the <i>Ri</i>shis of old, \[whose <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> words they hold in such deep respect, did not pretend to know, or to have seen where, or whence, or whither Brahmâ is. Yet these Brâhmans versed in the Three Vedas say, forsooth, that they can point out the way to union with that which they know not, neither have seen!\] Now what think you, Vâse<i>tth</i>a? Does it not follow that, this being so, the talk of the Brahmans versed in the Three Vedas is foolish talk?’
 
 ‘In sooth, Gotama, that being so, it follows that the talk of the Brâhmans versed in the Three Vedas is foolish talk!’
 
 23\. ‘Very good, Vâse<i>tth</i>a. Verily then, Vâse<i>tth</i>a, that Brâhmans versed in the Three Vedas should be able to show the way to a state of union with that which they do not know, neither have seen—such condition of things has no existence.’
 
-24\. 'Again, Vâse<i>tth</i>a, if this river A<i>k</i>iravatî were full of water even to the brim, and overflowing[^14]. And a man with business on the other <span id="p179">[<sup><small>p. 179</small></sup>]</span> side, bound for the other side, should come up, and want to cross over. And he, standing on this bank, should invoke the further bank, and say, “Come hither, O further bank! come over to this side!”
+24\. 'Again, Vâse<i>tth</i>a, if this river A<i>k</i>iravatî were full of water even to the brim, and overflowing[^14]. And a man with business on the other <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> side, bound for the other side, should come up, and want to cross over. And he, standing on this bank, should invoke the further bank, and say, “Come hither, O further bank! come over to this side!”
 
-<span id="p180">[<sup><small>p. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 ‘Now what think you, Vâse<i>tth</i>a? Would the further bank of the river A<i>k</i>iravatî, by reason of that man’s invoking and praying and hoping and praising, come over to this side?’
 
@@ -216,7 +216,7 @@ And while they were thus seated the young Brâhman Vâse<i>tth</i>a said to the 
 
 ---
 
-26\. ‘Just, Vâse<i>tth</i>a, as if this river A<i>k</i>iravatî were full, even to the brim, and overflowing. And a man with business on the other side, bound for the other side, should come up, and want to cross over. And he, on this bank, were to be bound tightly, with his arms behind his back, by a strong <span id="p181">[<sup><small>p. 181</small></sup>]</span> chain. Now what think you, Vâse<i>tth</i>a, would that man be able to get over from this bank of the river A<i>k</i>iravatî to the further bank?’
+26\. ‘Just, Vâse<i>tth</i>a, as if this river A<i>k</i>iravatî were full, even to the brim, and overflowing. And a man with business on the other side, bound for the other side, should come up, and want to cross over. And he, on this bank, were to be bound tightly, with his arms behind his back, by a strong <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> chain. Now what think you, Vâse<i>tth</i>a, would that man be able to get over from this bank of the river A<i>k</i>iravatî to the further bank?’
 
 ‘Certainly not, Gotama!’
 
@@ -228,7 +228,7 @@ And while they were thus seated the young Brâhman Vâse<i>tth</i>a said to the 
 
 28\. ‘And verily, Vâse<i>tth</i>a, that Brâhmans versed in the Three Vedas, but omitting the practice of those qualities which really make a man a Brâhman, and adopting the practice of those qualities which really make men non-Brâhmans—clinging to these five things predisposing to passion, Infatuated by them, guilty of them, seeing not their danger, knowing not their unreliability, and so enjoying them-that these Brâhmans should after death, on the dissolution of the body, become united to Brahmâ—such a condition of things has no existence.’
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 29\. 'Again, Vâse<i>tth</i>a, if this river A<i>k</i>iravatl were full of water even to the brim, and overflowing. And a man with business on the other side, bound for the other side, should come up, and want to cross over. And if he covering himself up, even to his head, were to lie down, on this bank, to sleep.
 
@@ -254,7 +254,7 @@ These are the five hindrances, Vâse<i>tth</i>a, which, in the Discipline of the
 
 31\. 'Now with these five hindrances, Vâse<i>tth</i>a, the Brâhmans versed in the Three Vedas are veiled, hindered, obstructed, and entangled.
 
-32\. 'And verily, Vâse<i>tth</i>a, that Brahmans versed <span id="p183">[<sup><small>p. 183</small></sup>]</span> in the Three Vedas, but omitting the practice of those qualities which really make a man a Brâhman, and adopting the practice of those qualities which really make men non-Brâhmans—veiled, hindered, obstructed, and entangled by these Five Hindrances—that these Brahmans should after death, on the dissolution of the body, become united to Brahmâ—such a condition of things has no existence.’
+32\. 'And verily, Vâse<i>tth</i>a, that Brahmans versed <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> in the Three Vedas, but omitting the practice of those qualities which really make a man a Brâhman, and adopting the practice of those qualities which really make men non-Brâhmans—veiled, hindered, obstructed, and entangled by these Five Hindrances—that these Brahmans should after death, on the dissolution of the body, become united to Brahmâ—such a condition of things has no existence.’
 
 ---
 
@@ -278,7 +278,7 @@ These are the five hindrances, Vâse<i>tth</i>a, which, in the Discipline of the
 
 ‘He has, Gotama.’
 
-34\. 'Now what think you, Vâse<i>tth</i>a, are the <span id="p184">[<sup><small>p. 184</small></sup>]</span> Brahmans versed in the Vedas in the possession of wives and wealth, or are they not?’
+34\. 'Now what think you, Vâse<i>tth</i>a, are the <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> Brahmans versed in the Vedas in the possession of wives and wealth, or are they not?’
 
 ‘They are, Gotama.’
 
@@ -310,7 +310,7 @@ These are the five hindrances, Vâse<i>tth</i>a, which, in the Discipline of the
 
 ‘Certainly not, Gotama!’
 
-38\. ‘Very good, Vâse<i>tth</i>a. That these Brâhmans versed in the Vedas and yet bearing anger and malice in their hearts, sinful, and uncontrolled, <span id="p185">[<sup><small>p. 185</small></sup>]</span> should after death, when the body is dissolved, become united to Brahmâ, who is free from anger and malice, sinless, and has self-mastery—such a condition of things has no existence.’
+38\. ‘Very good, Vâse<i>tth</i>a. That these Brâhmans versed in the Vedas and yet bearing anger and malice in their hearts, sinful, and uncontrolled, <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> should after death, when the body is dissolved, become united to Brahmâ, who is free from anger and malice, sinless, and has self-mastery—such a condition of things has no existence.’
 
 39\. 'So that thus then, Vâse<i>tth</i>a, the Brâhmans, versed though they be in the Three Vedas, while they sit down (in confidence), are sinking down (in the mire)[^23]; and so sinking they are arriving only at despair, thinking the while that they are crossing over into some happier land.
 
@@ -326,7 +326,7 @@ These are the five hindrances, Vâse<i>tth</i>a, which, in the Discipline of the
 
 ‘Just so, Gotama. Manasâka<i>t</i>a is near to, is not far from here.’
 
-42\. 'Now what think you, Vâse<i>tth</i>a, suppose there were a man born in Manasâka<i>t</i>a, and people should <span id="p186">[<sup><small>p. 186</small></sup>]</span> sk him, who never till that time had left Manasâka<i>t</i>a, which was the way to Manasâka<i>t</i>a. Would that man, born and brought up in Manasâka<i>t</i>a, be in any doubt or difficulty?’
+42\. 'Now what think you, Vâse<i>tth</i>a, suppose there were a man born in Manasâka<i>t</i>a, and people should <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> sk him, who never till that time had left Manasâka<i>t</i>a, which was the way to Manasâka<i>t</i>a. Would that man, born and brought up in Manasâka<i>t</i>a, be in any doubt or difficulty?’
 
 ‘Certainly not, Gotama! And why? If the man had been born and brought up in Manasâka<i>t</i>a, every road that leads to Manasâka<i>t</i>a would be perfectly familiar to him.’
 
@@ -344,11 +344,11 @@ These are the five hindrances, Vâse<i>tth</i>a, which, in the Discipline of the
 
 46\. Then the Blessed One spake, and said:
 
-Know, Vâse<i>tth</i>a, that[^24] (from time to time) a <span id="p187">[<sup><small>p. 187</small></sup>]</span> Tathâgata is born into the world, a fully Enlightened One, blessed and worthy, abounding in wisdom and goodness, happy, with knowledge of the world, unsurpassed as a guide to erring mortals, a teacher of gods and men, a Blessed Buddha[^25]. He, by himself, thoroughly understands, and sees, as it were, face to face this universe—the world below with all its spirits, and the worlds above, of Mara and of Brahma—and all creatures, Sama<i>n</i>as and Brâhmans, gods and men, and he then makes his knowledge known to others. The truth doth he proclaim both in its letter and in its spirit, lovely in its origin, lovely in its progress, lovely in its consummation: the higher life doth he make known, in all its purity and in all its perfectness.
+Know, Vâse<i>tth</i>a, that[^24] (from time to time) a <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> Tathâgata is born into the world, a fully Enlightened One, blessed and worthy, abounding in wisdom and goodness, happy, with knowledge of the world, unsurpassed as a guide to erring mortals, a teacher of gods and men, a Blessed Buddha[^25]. He, by himself, thoroughly understands, and sees, as it were, face to face this universe—the world below with all its spirits, and the worlds above, of Mara and of Brahma—and all creatures, Sama<i>n</i>as and Brâhmans, gods and men, and he then makes his knowledge known to others. The truth doth he proclaim both in its letter and in its spirit, lovely in its origin, lovely in its progress, lovely in its consummation: the higher life doth he make known, in all its purity and in all its perfectness.
 
 47\. ‘A householder (gahapati), or one of his children, or a man of inferior birth in any class, listens to that truth[^26]. On hearing the truth he has faith in the Tathâgata, and when he has acquired that faith he thus considers with himself:
 
-‘“Full of hindrances is household life, a path defiled by passion: free as the air is the life of him who has renounced all worldly things. How difficult is it for the man who dwells at home to live the higher life in all its fulness, in all its purity, in all its bright perfection! Let me then cut off my hair and beard, let me clothe myself in the <span id="p188">[<sup><small>p. 188</small></sup>]</span> range-coloured robes, and let me go forth from a household life into the homeless state!”
+‘“Full of hindrances is household life, a path defiled by passion: free as the air is the life of him who has renounced all worldly things. How difficult is it for the man who dwells at home to live the higher life in all its fulness, in all its purity, in all its bright perfection! Let me then cut off my hair and beard, let me clothe myself in the <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> range-coloured robes, and let me go forth from a household life into the homeless state!”
 
 48\. ‘Then before long, forsaking his portion of wealth, be it great or be it small; forsaking his circle of relatives, be they many or be they few, he cuts off his hair and beard, he clothes himself in the orange-coloured robes, and he goes forth from the household life into the homeless state.
 
@@ -411,7 +411,7 @@ Know, Vâse<i>tth</i>a, that[^24] (from time to time) a <span id="p187">[<sup><s
 
 [^10]: In the text §§ 12, 13 are repeated word for word.
 
-[^11]: Andhave<i>n</i>î parampara<i>m</i> sa<i>m</i>sattâ. The Phayre MS. has replaced ve<i>n</i>î by pave<i>n</i>î, after the constant custom of the Burmese MSS. to improve away unusual or difficult expressions. Buddhaghosa explains andhave<i>n</i>i by andhapave<i>n</i>i, and tells a tale of a wicked wight, who meeting a company of blind men, told them of a certain village wherein plenty of good food was to be had. When they besought him for hire to lead them there, be took the money, made one blind man catch hold of his stick, the next of that one, and so on, and then led them on till they came to a wilderness. There he deserted them, and they all—still {footnote <span id="p174">[<sup><small>p. 174</small></sup>]</span>} holding each the other, and vainly, and with tears, seeking both their guide and the path—came to a miserable end!
+[^11]: Andhave<i>n</i>î parampara<i>m</i> sa<i>m</i>sattâ. The Phayre MS. has replaced ve<i>n</i>î by pave<i>n</i>î, after the constant custom of the Burmese MSS. to improve away unusual or difficult expressions. Buddhaghosa explains andhave<i>n</i>i by andhapave<i>n</i>i, and tells a tale of a wicked wight, who meeting a company of blind men, told them of a certain village wherein plenty of good food was to be had. When they besought him for hire to lead them there, be took the money, made one blind man catch hold of his stick, the next of that one, and so on, and then led them on till they came to a wilderness. There he deserted them, and they all—still {footnote <span id="p174"><sup><small>[ p. 174 ]</small></sup></span>} holding each the other, and vainly, and with tears, seeking both their guide and the path—came to a miserable end!
 
 [^12]: The words of the question are repeated in the text in this and the following answers. It must be remembered, for these sections, that the sun and moon were Gods just as much as Brahmâ.
 
@@ -445,5 +445,5 @@ Know, Vâse<i>tth</i>a, that[^24] (from time to time) a <span id="p187">[<sup><s
 [^26]: The point is, that the acceptance of this ‘Doctrine and Discipline’ is open to all, not of course that Brâhmans never accept it.
 
 [^27]: The argument is resumed after the Three Sîlas, or Descriptions of Conduct—a text, doubtless older than the Suttas in which it occurs, setting forth the distinguishing moral characteristics of a member of the Order.
-  The First Sîla is an expansion of the Ten Precepts (‘Buddhism,’ <span id="p160">[<sup><small>p. 160</small></sup>]</span>), but omitting the fifth, against the use of intoxicating drinks. The Second Sîla is a further expansion of the first and then of the last four, and finally of the fourth Precept. The Third Sîla is directed against auguries, divinations, prophecies, astrology, quackery, ritualism, and the worship of Gods (including Brahmâ).
+  The First Sîla is an expansion of the Ten Precepts (‘Buddhism,’ <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>), but omitting the fifth, against the use of intoxicating drinks. The Second Sîla is a further expansion of the first and then of the last four, and finally of the fourth Precept. The Third Sîla is directed against auguries, divinations, prophecies, astrology, quackery, ritualism, and the worship of Gods (including Brahmâ).
   These Three Sîlas may perhaps have been inserted in the Sutta as a kind of counterpoise to the Three Vedas. Our Sutta really reads better without them; but they are interesting in themselves, and the third is especially valuable as evidence of ancient customs and beliefs.

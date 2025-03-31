@@ -37,7 +37,7 @@ dateCreated: 2025-1-16T20:40:26Z
 
 It came to pass then, when the First Mystery had finished saying these words, that Matthew came forward and said: “I have understood the solution of the song which Pistis Sophia hath uttered. Now, therefore, give commandment unto me, that I speak it in openness.”
 
-And the First Mystery answered and said: “I give commandment unto thee, Matthew, to <span id="p131">[<sup><small>p. 131</small></sup>]</span> set forth the interpretation of the song which Pistis Sophia hath uttered.”
+And the First Mystery answered and said: “I give commandment unto thee, Matthew, to <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> set forth the interpretation of the song which Pistis Sophia hath uttered.”
 
 And Matthew answered and said: "Concerning the interpretation of the song which Pistis Sophia hath uttered, thus thy light-power prophesied aforetime thereon through the Ode of Solomon:
 
@@ -65,7 +65,7 @@ And Matthew answered and said: "Concerning the interpretation of the song which 
 
 “‘11. Thou hast piled thy riches upon them and they have become a holy dwelling-place.’
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 “This then, my Lord, is the solution of the song which Pistis Sophia hath uttered. Hearken, therefore, that I may say it in openness.
 
@@ -77,7 +77,7 @@ And Matthew answered and said: "Concerning the interpretation of the song which 
 
 “And the word which thy power hath spoken: ‘Who hath bestowed on me wisdom over the bonds, to unloose them,’—it is the word which Pistis Sophia hath spoken: ‘And he hath bestowed on me wisdom to loose myself from the bonds of those emanations.’
 
-“And the word which thy power hath spoken: Who hath smitten **(158)** the serpent with the seven <span id="p133">[<sup><small>p. 133</small></sup>]</span> heads with my hands, he hath set me up above its root, that I may extinguish its seed,'—it is the word which Pistis Sophia hath spoken: ‘And thou hast smitten the serpent with the seven heads through my hands and set me up above its matter. Thou hast destroyed it, so that its seed may not raise itself up from now on.’
+“And the word which thy power hath spoken: Who hath smitten **(158)** the serpent with the seven <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> heads with my hands, he hath set me up above its root, that I may extinguish its seed,'—it is the word which Pistis Sophia hath spoken: ‘And thou hast smitten the serpent with the seven heads through my hands and set me up above its matter. Thou hast destroyed it, so that its seed may not raise itself up from now on.’
 
 “And the word which thy power hath spoken: ‘And thou wert with me, helping me,’—it is the word which Pistis Sophia hath spoken: ‘And thou wert with me, giving me power in all this.’
 
@@ -91,7 +91,7 @@ Thy hand hath cleared the way for thy faithful,'—it is the word which Pistis S
 
 “And the word which thy power hath spoken: ‘Thou hast freed them out of the tombs and hast removed them from the midst of the corpses,’—it is the word which Pistis Sophia hath spoken: ‘Thou hast freed me out of the chaos and removed me out of the material darknesses, that is **(159)** out of the dark emanations which are in the chaos, from which thou hast taken their light.’
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 “And the word which thy power hath spoken: ‘Thou hast taken dead bones and hast clothed them with a body, and to them who stirred not, thou hast given activity of life,’—it is the word which Pistis Sophia hath spoken: ‘And thou hast taken all my powers in which was no light, and hast bestowed on them within purified light, and unto all my limbs, in which no light stirred, thou hast given life-light out of thy Height.’
 
@@ -109,7 +109,7 @@ Thy way is become indestructibleness, and thy face \[also\],'—it is the word w
 
 ## CHAPTER 72
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 It came to pass then, when the First Mystery had heard Matthew speak these words, that he said: “Well said, Matthew, and finely, beloved. This is the solution of the song which Pistis Sophia hath uttered.”
 
@@ -131,7 +131,7 @@ It came to pass then, when the First Mystery had finished speaking these words u
 
 And when she had said this, the First Mystery said unto her: “Every one who shall be filled with the spirit of light to come forward and set forth the solution of what I say,—no one shall be able to prevent him. Now, therefore, O Mary, set forth then the solution of the words which Pistis Sophia hath uttered.”
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 Then Mary answered and said unto the First Mystery in the midst of the disciples: "My Lord, concerning the solution of the words which Pistis Sophia hath uttered, thus hath thy light-power prophesied aforetime through David:
 
@@ -165,7 +165,7 @@ It came to pass then, when the First Mystery had finished saying these words, th
 
 And it came to pass when the First Mystery had heard Martha speak these words, that he said: “Well said, and finely, Martha.”
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 And the First Mystery continued again and said unto the disciples: "Pistis Sophia again continued in the song and said:
 
@@ -195,7 +195,7 @@ Mary again came forward and said: "My Lord, concerning these words with which Pi
 
 “‘2. My soul, praise the Lord and forget not all his requitals.
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 “‘3. Who forgiveth all thy iniquities; who healeth all thy sicknesses;
 
@@ -217,7 +217,7 @@ It came to pass then thereafter, that the First Mystery continued again in the d
 
 “‘1. In faith have I had faith in the Light; and it remembered me and hearkened to my song.
 
-“‘2. It hath led my power up out of the chaos and the nether darkness of the whole matter and it hath led me up. It hath removed. me to a higher <span id="p139">[<sup><small>p. 139</small></sup>]</span> and surer æon, lofty and firm; it hath changed my place on the way which leadeth to my region.
+“‘2. It hath led my power up out of the chaos and the nether darkness of the whole matter and it hath led me up. It hath removed. me to a higher <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> and surer æon, lofty and firm; it hath changed my place on the way which leadeth to my region.
 
 “‘3. And it hath given unto me a new mystery, which is not that of my æon, and given unto me a song of the Light. Now, therefore, O Light, all the rulers will see what thou hast done unto me, and be **(165)**afraid and have faith in the Light.’
 
@@ -237,7 +237,7 @@ It came to pass then, when Andrew had set forth the thought of Pistis Sophia, th
 
 ## CHAPTER 75
 
-And he continued again in the discourse and said unto the disciples: "These are all adventures which have befallen Pistis Sophia. **(166)** It came to pass then, when I had led her to the region which is below the thirteenth æon, and was <span id="p140">[<sup><small>p. 140</small></sup>]</span> about to go unto the Light and depart from her, that she said unto me:
+And he continued again in the discourse and said unto the disciples: "These are all adventures which have befallen Pistis Sophia. **(166)** It came to pass then, when I had led her to the region which is below the thirteenth æon, and was <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> about to go unto the Light and depart from her, that she said unto me:
 
 <small>The conversation of Sophia and the Light.</small>
 
@@ -251,7 +251,7 @@ And he continued again in the discourse and said unto the disciples: "These are 
 
 “And thereafter I said again unto her: ‘Hearken that I **(167)** may speak with thee about their time, when this which I have said unto thee, will come to pass. It will come to pass when \[the\] three times are completed.’
 
-“Pistis Sophia answered and said unto me: <span id="p141">[<sup><small>p. 141</small></sup>]</span> ‘O Light, by what shall I know when the three times will take place, so that I may be glad and rejoice that the time is near for thee to bring me to my region, and moreover rejoice therein that the time is come when thou wilt take the light-power from all them which hate me, because I have had faith in thy light?’
+“Pistis Sophia answered and said unto me: <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> ‘O Light, by what shall I know when the three times will take place, so that I may be glad and rejoice that the time is near for thee to bring me to my region, and moreover rejoice therein that the time is come when thou wilt take the light-power from all them which hate me, because I have had faith in thy light?’
 
 <small>How Sophia will know that the time of her final deliverance hath come.</small>
 
@@ -261,19 +261,19 @@ And he continued again in the discourse and said unto the disciples: "These are 
 
 <small>What will come to pass at that time.</small>
 
-“And I answered and said unto her: ‘When that gate is opened, they who are in all the æons will know because of the Great Light which will obtain in all their regions. But see, I have now settled that they shall venture no ill against thee, until the three times are completed. And thou wilt have the power of going down into their twelve æons, **(168)** when it pleaseth thee, and also of returning and going into thy region, which is below the thirteenth æon, and in which thou now art. But thou wilt not have the power of passing through the gate of the Height which is in the thirteenth æon, so as to enter into thy region whence thou didst come down. Moreover, if then the three times are completed, Self-willed and all his rulers will again constrain thee, to take thy light from thee, being enraged against thee and thinking that thou hast imprisoned his power in the chaos, and thinking that thou hast taken its light from it. He will then be embittered <span id="p142">[<sup><small>p. 142</small></sup>]</span> against thee, to take from thee thy light, in order that he may send it down into the chaos and it may get down to that emanation of his, so that it may be able to come up out of the chaos and go to his region. Adamas will attempt this. But I will take all thy powers from him and give them unto thee, and I will come to take them. Now, therefore, if they constrain thee at that time, then sing praises to the Light, and I will not delay to help thee. And I will quickly come unto thee to the regions which are below thee. And I will come down to their regions to take their light from them. And I will come to this region whither I have removed thee, and which is below the thirteenth **(169)** æon, until I bring thee to thy region whence thou art come.’
+“And I answered and said unto her: ‘When that gate is opened, they who are in all the æons will know because of the Great Light which will obtain in all their regions. But see, I have now settled that they shall venture no ill against thee, until the three times are completed. And thou wilt have the power of going down into their twelve æons, **(168)** when it pleaseth thee, and also of returning and going into thy region, which is below the thirteenth æon, and in which thou now art. But thou wilt not have the power of passing through the gate of the Height which is in the thirteenth æon, so as to enter into thy region whence thou didst come down. Moreover, if then the three times are completed, Self-willed and all his rulers will again constrain thee, to take thy light from thee, being enraged against thee and thinking that thou hast imprisoned his power in the chaos, and thinking that thou hast taken its light from it. He will then be embittered <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> against thee, to take from thee thy light, in order that he may send it down into the chaos and it may get down to that emanation of his, so that it may be able to come up out of the chaos and go to his region. Adamas will attempt this. But I will take all thy powers from him and give them unto thee, and I will come to take them. Now, therefore, if they constrain thee at that time, then sing praises to the Light, and I will not delay to help thee. And I will quickly come unto thee to the regions which are below thee. And I will come down to their regions to take their light from them. And I will come to this region whither I have removed thee, and which is below the thirteenth **(169)** æon, until I bring thee to thy region whence thou art come.’
 
 “It came to pass then, when Pistis Sophia had heard me say these words unto her, that she rejoiced with great joy. But I removed her to the region which is below the thirteenth æon. I went to the Light and departed from her.”
 
 <small>The time for the final deliverance of Sophia is completed.</small>
 
-And all these adventures the First Mystery told to the disciples, that they should come to pass for Pistis Sophia. And he sat on the Mount of Olives, narrating all these adventures in the midst of the disciples. And he continued again and said unto them: "And it came to pass again after this, while I was in the world of men and sat in the way, that is in this region which is the Mount of Olives, before my vesture was sent unto me, which I had deposited in the four-and-twentieth mystery from the interior, but the first from the exterior, which is the Great Uncontainable, in which I am enwrapped, and before I had gone to the Height to receive my second vesture,— <span id="p143">[<sup><small>p. 143</small></sup>]</span> while I sat with you in this region, which is the Mount of Olives, that the time was completed of which I had said to Pistis Sophia: ‘Adamas and all his rulers will constrain thee.’
+And all these adventures the First Mystery told to the disciples, that they should come to pass for Pistis Sophia. And he sat on the Mount of Olives, narrating all these adventures in the midst of the disciples. And he continued again and said unto them: "And it came to pass again after this, while I was in the world of men and sat in the way, that is in this region which is the Mount of Olives, before my vesture was sent unto me, which I had deposited in the four-and-twentieth mystery from the interior, but the first from the exterior, which is the Great Uncontainable, in which I am enwrapped, and before I had gone to the Height to receive my second vesture,— <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> while I sat with you in this region, which is the Mount of Olives, that the time was completed of which I had said to Pistis Sophia: ‘Adamas and all his rulers will constrain thee.’
 
 ## CHAPTER 77
 
 <small>Adamas sendeth forth two emanations of darkness to plague Sophia.</small>
 
-“It came to pass then, when that time came on,—and I was in the world of men, **(170)** sitting with you in this region, which is the Mount of Olives,—that Adamas looked down out of the twelve æons and looked down at the regions of the chaos and saw his demon power which is in the chaos, that no light at all was in it, because I had taken its light from it; and he saw it, that it was dark and could not go to his region, that is to the twelve moons. Thereon Adamas again remembered Pistis Sophia and became most exceedingly wroth against her, thinking that it was she who had imprisoned his power in the chaos, and thinking that it was she who had taken its light from it. And he was exceedingly embittered; he piled wrath on wrath and emanated out of himself a dark emanation and another, chaotic and evil, the violent \[one\], so as through them to harass Pistis Sophia. And he made a dark region in his region, so as to constrain Sophia therein. And he took many of his rulers; they pursued after Sophia, in order that the two dark emanations which Adamas had emanated, might lead her into the dark chaos which he had made, and constrain her in that region and harass her, until they should take her whole light from her, and Adamas should take the light from Pistis Sophia and give it to the two dark violent emanations, and they should carry it to the great chaos which is below and dark, **(171)** and cast it into his dark power which is chaotic, if perchance it might be able to come to his <span id="p144">[<sup><small>p. 144</small></sup>]</span> region, because it had become exceedingly dark, for I had taken its light-power from it.
+“It came to pass then, when that time came on,—and I was in the world of men, **(170)** sitting with you in this region, which is the Mount of Olives,—that Adamas looked down out of the twelve æons and looked down at the regions of the chaos and saw his demon power which is in the chaos, that no light at all was in it, because I had taken its light from it; and he saw it, that it was dark and could not go to his region, that is to the twelve moons. Thereon Adamas again remembered Pistis Sophia and became most exceedingly wroth against her, thinking that it was she who had imprisoned his power in the chaos, and thinking that it was she who had taken its light from it. And he was exceedingly embittered; he piled wrath on wrath and emanated out of himself a dark emanation and another, chaotic and evil, the violent \[one\], so as through them to harass Pistis Sophia. And he made a dark region in his region, so as to constrain Sophia therein. And he took many of his rulers; they pursued after Sophia, in order that the two dark emanations which Adamas had emanated, might lead her into the dark chaos which he had made, and constrain her in that region and harass her, until they should take her whole light from her, and Adamas should take the light from Pistis Sophia and give it to the two dark violent emanations, and they should carry it to the great chaos which is below and dark, **(171)** and cast it into his dark power which is chaotic, if perchance it might be able to come to his <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> region, because it had become exceedingly dark, for I had taken its light-power from it.
 
 “It came to pass then, when they pursued after Pistis Sophia, that she cried out again and sang praises to the Light, since I had said unto her: ‘If thou shalt be constrained and singest praises unto me, I will come quickly and help thee.’ It came to pass then, when she was constrained,—and I sat with you in this region, that is on the Mount of Olives,—that she sang praises to the Light, saying:
 
@@ -291,7 +291,7 @@ And all these adventures the First Mystery told to the disciples, that they shou
 
 “‘6. Now, therefore, O Light, lay hold on me in thy wrath and lift up thy power above my foes who have lifted themselves up against me to the very end.
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 “‘7. Quicken me quickly, as thou hast said unto me: I will help thee.’
 
@@ -321,7 +321,7 @@ It came to pass then, when the First Mystery had heard James speak these words, 
 
 ## CHAPTER 79
 
-And the First Mystery continued again and said unto the disciples: "It came to pass then, when Pistis Sophia had finished uttering the words of this song, that she turned herself back <span id="p146">[<sup><small>p. 146</small></sup>]</span> to see whether Adamas and his rulers had turned back to go to their æon. And she saw them, how they pursued after her. Then she turned unto them and said unto them:
+And the First Mystery continued again and said unto the disciples: "It came to pass then, when Pistis Sophia had finished uttering the words of this song, that she turned herself back <span id="p146"><sup><small>[ p. 146 ]</small></sup></span> to see whether Adamas and his rulers had turned back to go to their æon. And she saw them, how they pursued after her. Then she turned unto them and said unto them:
 
 <small>Sophia addresseth Adamas and his rulers.</small>
 
@@ -335,7 +335,7 @@ And the First Mystery continued again and said unto the disciples: "It came to p
 
 “And when Pistis Sophia had said this, she looked at the region of Adamas and saw the dark and chaotic region **(174)** which he had made, and saw also the two dark exceedingly violent emanations which Adamas had emanated, in order that they might seize Pistis Sophia and cast her down into the chaos which he had made, and constrain and harass her in that region, until they should take her light from her. It came to pass then, when Pistis Sophia had seen those two dark emanations and the dark region which Adamas had made, that she feared and cried unto the Light, saying:
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 <small>Sophia again singeth to the Light.</small>
 
@@ -359,7 +359,7 @@ And Martha answered and said: "My Lord, these are the words which thy light-powe
 
 “‘12. God is a righteous vindicator and strong and long-suffering, who bringeth not on his wrath every day.
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 <small>Martha interpreteth the words of Sophia from Psalm vii.</small>
 

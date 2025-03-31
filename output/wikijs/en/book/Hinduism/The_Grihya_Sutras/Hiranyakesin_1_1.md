@@ -32,9 +32,9 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 1, SECTION 1.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. [^456] He should serve food to an even number of Brâhma<i>n</i>as and should cause them to say, ‘An auspicious day! Hail! Good luck!’—
 
-7\. (Then he) should have the boy satiated, should <span id="p138">[<sup><small>p. 138</small></sup>]</span> have his hair shaven, and after (the boy) has bathed and has been decked with ornaments—
+7\. (Then he) should have the boy satiated, should <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> have his hair shaven, and after (the boy) has bathed and has been decked with ornaments—
 
 8\. He should dress him in a (new) garment which has not yet been washed.
 
@@ -68,7 +68,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 15\. [^461] Having with the two (verses), ‘I take (the fire) to myself,’ and, ‘The fire which (has entered)’—taken possession of the fire,
 
-16\. [^462] And having, to the north of the fire, spread out Darbha grass, he prepares the (following) objects, <span id="p139">[<sup><small>p. 139</small></sup>]</span> according as they are required (for the ceremony which he is going to perform):
+16\. [^462] And having, to the north of the fire, spread out Darbha grass, he prepares the (following) objects, <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> according as they are required (for the ceremony which he is going to perform):
 
 17\. [^463] A stone, a (new) garment which has not yet been washed, a skin (of an antelope, or a spotted deer, &c.), a threefold-twisted girdle of Mu<i>ñ</i><i>ñ</i>a grass if he is a Brâhma<i>ñ</i>a (who shall be initiated), a bowstring for a Râ<i>ñ</i>anya, a woollen thread for a Vai<i>ñ</i>ya, a staff of Bilva or of Palâ<i>ñ</i>a wood for a Brâhma<i>ñ</i>a, of Nyagrodha wood for a Râ<i>ñ</i>anya, of Udumbara wood for a Vai<i>ñ</i>ya.
 
@@ -80,7 +80,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 21\. All (those objects) together, or (one after the other) as it happens.
 
-22\. [^466] At that time the Brahman suspends the sacrificial cord over his left shoulder, sips water, passes by the fire, on its west side, to the south side, throws away a grass blade from the Brahman's seat, touches water, and sits down with his face turned towards the fire. <span id="p140">[<sup><small>p. 140</small></sup>]</span>
+22\. [^466] At that time the Brahman suspends the sacrificial cord over his left shoulder, sips water, passes by the fire, on its west side, to the south side, throws away a grass blade from the Brahman's seat, touches water, and sits down with his face turned towards the fire. <span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 23\. [^467] He takes as ‘purifiers’ two straight Darbha blades with unbroken points of one span's length, cuts them off with something else than his nail, wipes them with water, pours water into a vessel over which he has laid the purifiers, fills (that vessel) up to near the brim, purifies (the water) three times with the two Darbha strainers, holding their points to the north, places (the water) on Darbha grass on the north side of the fire, and covers it with Darbha grass.
 
@@ -90,7 +90,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 26\. Having besprinkled (with water) the Darbha grass with which the fuel was tied together, he throws it into the fire.
 
-27\. [^470] He melts the Â<i>ya into the Â</i>ya, pours the Â<i>ya into the Â</i>ya into the Â<i>ya into the Â</i>ya pot over which he has laid the purifiers, takes some coals (from the fire) towards the north, puts (the Â<i>ya into the Â</i>ya) on these (coals), throws light (on the <span id="p141">[<sup><small>p. 141</small></sup>]</span> Â<i>ya into the Â</i>ya by means of burning Darbha blades), throws two young Darbha shoots into it, moves a fire-brand round it three times, takes it (from the coals) towards the north, pushes the coals back (into the fire), purifies the Â<i>ya into the Â</i>ya three times with the two purifiers, holding their points towards the north, (drawing them through the Â<i>ya into the Â</i>ya from west to east and) taking them back (to the west each time), throws the two purifiers into the fire,
+27\. [^470] He melts the Â<i>ya into the Â</i>ya, pours the Â<i>ya into the Â</i>ya into the Â<i>ya into the Â</i>ya pot over which he has laid the purifiers, takes some coals (from the fire) towards the north, puts (the Â<i>ya into the Â</i>ya) on these (coals), throws light (on the <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> Â<i>ya into the Â</i>ya by means of burning Darbha blades), throws two young Darbha shoots into it, moves a fire-brand round it three times, takes it (from the coals) towards the north, pushes the coals back (into the fire), purifies the Â<i>ya into the Â</i>ya three times with the two purifiers, holding their points towards the north, (drawing them through the Â<i>ya into the Â</i>ya from west to east and) taking them back (to the west each time), throws the two purifiers into the fire,
 
 
 
@@ -111,7 +111,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. [^472] Then (the teacher) sprinkles water round the fire (in the following way):
 
-8\. On the south side (of the fire he sprinkles <span id="p142">[<sup><small>p. 142</small></sup>]</span> water) from west to east with (the words), ‘Aditi! Give thy consent!’—
+8\. On the south side (of the fire he sprinkles <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> water) from west to east with (the words), ‘Aditi! Give thy consent!’—
 
 9\. On the west side, from south to north, with (the words), ‘Anumati! Give thy consent!’ On the north side, from west to east, with (the words), ‘Sarasvatî! Give thy consent!’—
 
@@ -123,7 +123,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 13\. [^474] Approaching the Darvi (to the fire) by the northerly junction of the pegs (laid round the fire), and fixing his mind on (the formula), ‘To Pra<i>g</i>âpati, to Manu svâhâ!’ (without pronouncing that Mantra), he sacrifices a straight, long, uninterrupted (stream of Â<i>g</i>ya), directed towards the south-east.
 
-14\. Approaching the Darvi (to the fire) by the southern junction of the pegs (laid round the fire), <span id="p143">[<sup><small>p. 143</small></sup>]</span> (he sacrifices) a straight (stream of Â<i>g</i>ya), directed towards the northeast, with (the Mantra which he pronounces), ‘To Indra svâhâ!’
+14\. Approaching the Darvi (to the fire) by the southern junction of the pegs (laid round the fire), <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> (he sacrifices) a straight (stream of Â<i>g</i>ya), directed towards the northeast, with (the Mantra which he pronounces), ‘To Indra svâhâ!’
 
 15\. Having (thus) poured out the two Âghâra oblations, he sacrifices the two Â<i>g</i>yabhâgas,
 
@@ -143,7 +143,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 1, SECTION 3.
 
@@ -165,7 +165,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ‘For this I entreat thee’ (Taitt. Sa<i>m</i>h., loc. cit.),
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 ‘Thou, Agni’ (Taitt. Sa<i>m</i>h. II, 5, 12, 3),
 
@@ -183,7 +183,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 10\. [^485] The Abhyâtâna (oblations) with (the eighteen Mantras), ‘Agni is the lord of beings; may he protect me’ (&c.).
 
-11\. [^486] (The words), ‘In this power of holiness, in <span id="p146">[<sup><small>p. 146</small></sup>]</span> this worldly power (&c.)’ are added to (each section of) the Abhyâtâna formulas.
+11\. [^486] (The words), ‘In this power of holiness, in <span id="p146"><sup><small>[ p. 146 ]</small></sup></span> this worldly power (&c.)’ are added to (each section of) the Abhyâtâna formulas.
 
 12\. [^487] With (the last of the Abhyâtâna formulas) ‘Fathers! Grandfathers!’ he sacrifices or performs worship, wearing the sacrificial cord over his right shoulder.
 
@@ -196,7 +196,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 1, SECTION 4.
 
-1\. [^490] Makes the boy tread on (that stone) with his right foot, with (the verse), ‘Tread on this stone; like a stone be firm. Destroy those who seek to do thee harm; overcome thy enemies.’ <span id="p147">[<sup><small>p. 147</small></sup>]</span>
+1\. [^490] Makes the boy tread on (that stone) with his right foot, with (the verse), ‘Tread on this stone; like a stone be firm. Destroy those who seek to do thee harm; overcome thy enemies.’ <span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 2\. [^491] After (the boy) has taken off his old (garment), (the teacher) makes him put on a (new) garment that has not yet been washed, with (the verses),
 
@@ -212,7 +212,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. [^493] He then winds the girdle three times from left to right round (the boy, so that it covers) his navel. (He does so only) twice, according to some (teachers). (It is done) with (the verse),
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 ‘Here she has come to us who drives away sin, purifying our guard and our protection, bringing us strength by (the power of) inhalation and exhalation, the sister of the gods, this blessed girdle.’
 
@@ -228,7 +228,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. [^496] He then gives him in charge (to the gods), a Brâhma<i>n</i>a with (the verse), ‘We give this (boy) in charge, O Indra, to Brahman, for the sake of great learning. May he (Brahman?) lead him to old age, and may he (the boy) long watch over learning.’
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 A Râ<i>g</i>anya (he gives in charge to the gods) with (the verse), ‘We give this boy in charge, O Indra, to Brahman, for the sake of great royalty. May he lead him to old age, and may he long watch over royalty.’
 
@@ -242,7 +242,7 @@ A Vai<i>s</i>ya (he gives in charge) with (the verse), ‘We give this boy in ch
 
 12\. Some make (the boy) eat (that food with these two verses).
 
-13\. [^499] After (the boy) has sipped water, (the teacher) causes him to touch (water) and recites over him (the verse), ‘A hundred autumns are before us, O gods, before ye have made our bodies decay, before (our) <span id="p150">[<sup><small>p. 150</small></sup>]</span> sons have become fathers; do not destroy us before we have reached (our due) age.’
+13\. [^499] After (the boy) has sipped water, (the teacher) causes him to touch (water) and recites over him (the verse), ‘A hundred autumns are before us, O gods, before ye have made our bodies decay, before (our) <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> sons have become fathers; do not destroy us before we have reached (our due) age.’
 
 End of the First Pa<i>t</i>ala.
 

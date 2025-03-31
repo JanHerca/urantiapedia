@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 SECOND ÂRANYAKA.
 
@@ -46,7 +46,7 @@ The character of the three component portions of the Upanishad can best be descr
 
 The connexion between the Upanishad or rather the three Upanishads and the first Âra<i>n</i>yaka seems at first sight very slight. Still we soon perceive that it would be impossible to understand the first Upanishad, without a previous knowledge of the Mahâvrata ceremony as described in the first Âra<i>n</i>yaka.
 
-On this point too there are some pertinent remarks in <i>S</i>aṅkara's commentary on the Âra<i>n</i>yaka II, 1, 2. ‘Our first duty,’ he says, ‘consists in performing sacrifices, such as are described in the first portion of the Veda,, the Sa<i>m</i>hitâs, Brâhma<i>n</i>as, and, to a certain extent, in the Âra<i>n</i>yakas also. Afterwards arises a desire for knowledge, which cannot be satisfied except a man has first attained <span id="p201">[<sup><small>p. 201</small></sup>]</span> complete concentration of thought (êkâgratâ). In order to acquire that concentration, the performance of certain upâsanas or meditations is enjoined, such as we find described in our Upanishad, viz. in Âr. II, I-V.’
+On this point too there are some pertinent remarks in <i>S</i>aṅkara's commentary on the Âra<i>n</i>yaka II, 1, 2. ‘Our first duty,’ he says, ‘consists in performing sacrifices, such as are described in the first portion of the Veda,, the Sa<i>m</i>hitâs, Brâhma<i>n</i>as, and, to a certain extent, in the Âra<i>n</i>yakas also. Afterwards arises a desire for knowledge, which cannot be satisfied except a man has first attained <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> complete concentration of thought (êkâgratâ). In order to acquire that concentration, the performance of certain upâsanas or meditations is enjoined, such as we find described in our Upanishad, viz. in Âr. II, I-V.’
 
 This meditation or, as it is sometimes translated, worship is of two kinds, either brahmopâsana or pratîkopâsana. Brahmopâsana or meditation on Brahman consists in thinking of him as distinguished by certain qualities. Pratîkopâsana or meditation on symbols consists in looking upon certain worldly objects as if they were Brahman, in order thus to withdraw the mind from the too powerful influence of external objects.
 
@@ -56,7 +56,7 @@ This meditation is to be performed by the priests, and while they meditate they 
 
 1\. This is the path: this sacrifice, and this Brahman. This is the true [^502].
 
-2\. Let no man swerve from it, let no man transgress it. <span id="p202">[<sup><small>p. 202</small></sup>]</span> 3\. For the old (sages) did not transgress it, and those who did transgress, became lost.
+2\. Let no man swerve from it, let no man transgress it. <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> 3\. For the old (sages) did not transgress it, and those who did transgress, became lost.
 
 4\. This has been declared by a <i>Ri</i>shi (Rv. VIII, 101, 14): ‘Three (classes of) people transgressed, others settled down round about the venerable (Agni, fire); the great (sun) stood in the midst of the worlds, the blowing (Vâyu, air) entered the Harits (the dawns, or the ends of the earth).’
 
@@ -70,7 +70,7 @@ This meditation is to be performed by the priests, and while they meditate they 
 
 ## SECOND KHA<i>N</i><i>D</i>A.
 
-1\. People say: ‘Uktha, uktha,’ hymns, hymns! (without knowing what uktha, hymn [^505], means.) The <span id="p203">[<sup><small>p. 203</small></sup>]</span> hymn is truly (to be considered as) the earth, for from it all whatsoever exists arises.
+1\. People say: ‘Uktha, uktha,’ hymns, hymns! (without knowing what uktha, hymn [^505], means.) The <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> hymn is truly (to be considered as) the earth, for from it all whatsoever exists arises.
 
 2\. The object of its praise is Agni (fire), and the eighty verses (of the hymn) are food, for by means of food one obtains everything.
 
@@ -90,7 +90,7 @@ This meditation is to be performed by the priests, and while they meditate they 
 
 10\. The object of its praise is breath, and the eighty verses (of the hymn) are food, for by means of food he obtains everything.
 
-11\. The slight bent (at the root) of the nose is, as it were, the place of the brilliant (Âditya, the sun). <span id="p204">[<sup><small>p. 204</small></sup>]</span> 12\. The hymn is the forehead, as before in the case of heaven. The object of its praise is the eye, and the eighty verses (of the hymn) are food, for by means of food he obtains everything.
+11\. The slight bent (at the root) of the nose is, as it were, the place of the brilliant (Âditya, the sun). <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> 12\. The hymn is the forehead, as before in the case of heaven. The object of its praise is the eye, and the eighty verses (of the hymn) are food, for by means of food he obtains everything.
 
 13\. The eighty verses (of the hymn) are alike food with reference to the gods as well as with reference to man. For all these beings breathe and live by means of food indeed. By food (given in alms, &c.) he conquers this world, by food (given in sacrifice) he conquers the other. Therefore the eighty verses (of the hymn) are alike food, with reference to the gods as well as with reference to man.
 
@@ -102,7 +102,7 @@ This meditation is to be performed by the priests, and while they meditate they 
 
 He also (the true worshipper who meditates on himself as being the uktha) is both consumer and consumed (subject and object [^506]). No one possesses that which he does not eat, or the things which do not eat him [^507].
 
-<span id="p205">[<sup><small>p. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 ## THIRD KHA<i>N</i><i>D</i>A.
 
@@ -110,7 +110,7 @@ He also (the true worshipper who meditates on himself as being the uktha) is bot
 
 2\. He (man) consists of food (irâ), and because he consists of food (irâmaya), he consists of gold (hira<i>n</i>maya [^508]). He who knows this becomes golden in the other world, and is seen as golden (as the sun) for the benefit of all beings.
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 ## FOURTH KHA<i>N</i><i>D</i>A.
 
@@ -130,7 +130,7 @@ He also (the true worshipper who meditates on himself as being the uktha) is bot
 
 8\. Delights alight on him who thus knows, why the head is called head.
 
-9\. These (five delights or senses) strove together, saying: ‘I am the uktha (hymn), I am the uktha [^513].’ ‘Well,’ they said, ‘let us all go out from <span id="p207">[<sup><small>p. 207</small></sup>]</span> this body; then on whose departure this body shall fall, he shall be the uktha among us [^514].’
+9\. These (five delights or senses) strove together, saying: ‘I am the uktha (hymn), I am the uktha [^513].’ ‘Well,’ they said, ‘let us all go out from <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> this body; then on whose departure this body shall fall, he shall be the uktha among us [^514].’
 
 10\. Speech went out, yet the body without speaking remained, eating and drinking.
 
@@ -154,7 +154,7 @@ Breath went out, then when breath was gone out, the body fell.
 
 16\. Let people know that breath is the uktha indeed.
 
-17\. The Devas (the other senses) said to breath: ‘Thou art the uktha, thou art all this, we are thine, thou art ours.’ <span id="p208">[<sup><small>p. 208</small></sup>]</span> 18\. This has also been said by a <i>Ri</i>shi (Rv. VIII, 92, 32): ‘Thou art ours, we are thine.’
+17\. The Devas (the other senses) said to breath: ‘Thou art the uktha, thou art all this, we are thine, thou art ours.’ <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> 18\. This has also been said by a <i>Ri</i>shi (Rv. VIII, 92, 32): ‘Thou art ours, we are thine.’
 
 ## FIFTH KHA<i>N</i><i>D</i>A.
 
@@ -162,7 +162,7 @@ Then the Devas carried him (the breath) forth, and being carried forth, he was s
 
 2\. Speech is Agni, sight that Âditya (sun), mind the moon, hearing the Di<i>s</i> (quarters): this is the prahitâ<i>m</i> sa<i>m</i>yoga [^516], the union of the deities as sent forth. These deities (Agni, &c.) are thus in the body, but their (phenomenal) appearance yonder is among the deities—this was intended.
 
-3\. And Hira<i>n</i>yadat Vaida also, who knew this (and who by his knowledge had become Hira<i>n</i>yagarbha or the universal spirit), said: ‘Whatever they do not give to me, they do not possess themselves.’ I know the prahitâ<i>m</i> sa<i>m</i>yoga, the union of the deities, as entered into the body [^517]. This is it. <span id="p209">[<sup><small>p. 209</small></sup>]</span> 4\. To him who knows this all creatures, without being constrained, offer gifts.
+3\. And Hira<i>n</i>yadat Vaida also, who knew this (and who by his knowledge had become Hira<i>n</i>yagarbha or the universal spirit), said: ‘Whatever they do not give to me, they do not possess themselves.’ I know the prahitâ<i>m</i> sa<i>m</i>yoga, the union of the deities, as entered into the body [^517]. This is it. <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> 4\. To him who knows this all creatures, without being constrained, offer gifts.
 
 5\. That breath is (to be called) sattya (the true), for sat is breath, ti is food, yam is the sun [^518]. This is threefold, and threefold the eye also may be called, it being white, dark, and the pupil. He who knows why true is true (why sattya is sattya), even if he should speak falsely, yet what he says is true.
 
@@ -174,7 +174,7 @@ Then the Devas carried him (the breath) forth, and being carried forth, he was s
 
 3\. Of the body of the breath thus meditated on, the Ush<i>n</i>ih verse forms the hairs, the Gâyatrî the skin, the Trish<i>t</i>ubh the flesh, the Anush<i>t</i>ubh the muscles, the <i>G</i>agatî the bone, the Paṅkti the marrow, the B<i>ri</i>hatî the breath [^520] (prâ<i>n</i>a). He is covered with the verses (kha<i>n</i><i>d</i>as, metres). Because he is thus covered with verses, therefore they call them kha<i>n</i><i>d</i>as (coverings, metres).
 
-4\. If a man knows the reason why kha<i>n</i><i>d</i>as are called kha<i>n</i><i>d</i>as, the verses cover him in whatever place he likes against any evil deed. <span id="p210">[<sup><small>p. 210</small></sup>]</span> 5\. This is said by a <i>Ri</i>shi (Rv. I, 164, 13):—
+4\. If a man knows the reason why kha<i>n</i><i>d</i>as are called kha<i>n</i><i>d</i>as, the verses cover him in whatever place he likes against any evil deed. <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> 5\. This is said by a <i>Ri</i>shi (Rv. I, 164, 13):—
 
 6\. ‘I saw (the breath) as a guardian, never tiring, coming and going on his ways (the arteries). That breath (in the body, being identified with the sun among the Devas), illuminating the principal and intermediate quarters of the sky, is returning constantly in the midst of the worlds.’
 
@@ -198,7 +198,7 @@ He says: ‘I saw a guardian,’ because he, the breath, is a guardian, for he g
 
 1\. Next follow the powers of that Person [^521].
 
-2\. By his speech earth and fire were created. <span id="p211">[<sup><small>p. 211</small></sup>]</span> Herbs are produced on the earth, and Agni (fire) makes them ripe and sweet. ‘Take this, take this,’ thus saying do earth and fire serve their parent, speech.
+2\. By his speech earth and fire were created. <span id="p211"><sup><small>[ p. 211 ]</small></sup></span> Herbs are produced on the earth, and Agni (fire) makes them ripe and sweet. ‘Take this, take this,’ thus saying do earth and fire serve their parent, speech.
 
 3\. As far as the earth reaches, as far as fire reaches, so far does his world extend, and as long as the world of the earth and fire does not decay, so long does his world not decay who thus knows this power of speech.
 
@@ -212,7 +212,7 @@ As far as heaven reaches and as far as the sun reaches, so far does his world ex
 
 6\. By his ear the quarters and the moon were created. From all the quarters they come to him, and from all the quarters he hears, while the moon produces for him the bright and the dark halves for the sake of sacrificial work. Thus do the quarters and the moon serve their parent, the ear.
 
-As far as the quarters reach and as far as the <span id="p212">[<sup><small>p. 212</small></sup>]</span> moon reaches, so far does his world extend, and as long as the world of the quarters and the moon does not decay, so long does his world not decay who thus knows the power of the ear.
+As far as the quarters reach and as far as the <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> moon reaches, so far does his world extend, and as long as the world of the quarters and the moon does not decay, so long does his world not decay who thus knows the power of the ear.
 
 7\. By his mind the water and Varu<i>n</i>a were created. Water yields to him faith (being used for sacred acts), Varu<i>n</i>a keeps his offspring within the law. Thus do water and Varu<i>n</i>a serve their parent, the mind.
 
@@ -222,7 +222,7 @@ As far as water reaches and as far as Varu<i>n</i>a reaches, so far does his wor
 
 1\. Was it water really? Was it water? Yes, all this was water indeed. This (water) was the root (cause), that (the world) was the shoot (effect). He (the person) is the father, they (earth, fire, &c.) are the sons. Whatever there is belonging to the son, belongs to the father; whatever there is belonging to the father, belongs to the son. This was intended [^523].
 
-2\. Mahidâsa Aitareya, who knew this, said: ‘I know myself (reaching) as far as the gods, and I know the gods (reaching) as far as me. For these <span id="p213">[<sup><small>p. 213</small></sup>]</span> gods receive their gifts from hence, and are supported from hence.’
+2\. Mahidâsa Aitareya, who knew this, said: ‘I know myself (reaching) as far as the gods, and I know the gods (reaching) as far as me. For these <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> gods receive their gifts from hence, and are supported from hence.’
 
 3\. This is the mountain [^524], viz. eye, ear, mind, speech, and breath. They call it the mountain of Brahman.
 
@@ -242,7 +242,7 @@ As far as water reaches and as far as Varu<i>n</i>a reaches, so far does his wor
 
 11\. ‘Downwards and upwards he (the wind of the breath) goes, held by food;’—for this up-breathing, being held back by the down-breathing, does not move forward (and leave the body altogether).
 
-12\. ‘The immortal dwells with the mortal;’—for through him (the breath) all this dwells together, the bodies being clearly mortal, but this being (the breath), being immortal. <span id="p214">[<sup><small>p. 214</small></sup>]</span> 13\. ‘These two (body and breath) go for ever in different directions (the breath moving the senses of the body, the body supporting the senses of the breath: the former going upwards to another world, the body dying and remaining on earth). They increase the one (the body), but they do not increase the other,’ i. e. they increase these bodies (by food), but this being (breath) is immortal.
+12\. ‘The immortal dwells with the mortal;’—for through him (the breath) all this dwells together, the bodies being clearly mortal, but this being (the breath), being immortal. <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> 13\. ‘These two (body and breath) go for ever in different directions (the breath moving the senses of the body, the body supporting the senses of the breath: the former going upwards to another world, the body dying and remaining on earth). They increase the one (the body), but they do not increase the other,’ i. e. they increase these bodies (by food), but this being (breath) is immortal.
 
 14\. He who knows this becomes immortal in that world (having become united with Hira<i>n</i>yagarbha), and is seen as immortal (in the sun) by all beings, yea, by all beings.
 

@@ -57,7 +57,7 @@ _Guru Nanak_
 Nanak, they who very clever in their own estimation think not of the Guru,
 Shall be left like spurious sesames in a reaped field.
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 They shall be left in the field, saith Nanak, without an owner:
 The wretches may even bear fruit and flower, but they shall be as ashes within their bodies.
@@ -95,7 +95,7 @@ They who are born and die are the falsest of the false.[^4]
 
 [^4]: _Koch_ is here used as the correlative of _sach_, true.
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 _Guru Nanak_[^1]
 
@@ -125,7 +125,7 @@ There the false find no place: they go to hell with blackened faces.
 They who are imbued with Thy name win; the deceivers lose.
 _God_ recorded names and appointed Dharmraj to record acts.
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 ## SLOK III
 
@@ -157,7 +157,7 @@ By Thy power we eat, drink, and clothe ourselves; by Thy power _springeth_ all a
 By Thy power are the species, genera, and colours of _creatures_; by Thy power are the animals of the world.[^1]
 By Thy power are virtues; by Thy power are vices: by Thy power, honour and dishonour;[^2]
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 By Thy power are wind, water, and fire; by Thy power is the earth.
 Everything existeth by Thy power; Thou art the omnipotent Creator; Thy name is the holiest of the holy.
@@ -186,7 +186,7 @@ In fear are wrestlers, very mighty men and divine heroes;
 In fear cargoes of men come and go.
 God hath destined fear for every one;[^3] Nanak, the Formless One, the True, is alone without fear.
 
-<span id="p223">[<sup><small>p. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 _Guru Nanak_
 
@@ -223,7 +223,7 @@ Let wind, water, and fire be your jewels; and the moon and sun your avatars;
 
 [^5]: _Gopâls_ are herdsmen among whom Krishan used to sport.
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 The whole earth your _stage_ properties and vessels, which are all entanglements.
 Nanak, they who are devoid of divine knowledge are robbed; the minister of death hath devoured them.
@@ -254,7 +254,7 @@ _In the same way_ those bound in entanglements are swung round;
 Every one danceth according to his own acts—
 They who dance and laugh shall weep on their departure;
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 They cannot fly or obtain supernatural power.
 Leaping and dancing are human recreations,
@@ -280,7 +280,7 @@ In the minds of the generous contentment is produced in their desire to give.
 Others give, but ask a thousandfold more, and still meant the world to honour them.
 _Why mention_ thieves, adulterers, perjurers, evil and sinful men?
 
-<span id="p226">[<sup><small>p. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 Many depart from here after eating what they had amassed _in previous births_;[^1] shall they have any business whatever _in the next world_?[^2]
 The _animals_ which live in the water, dry land, the fourteen worlds, and all creation—
@@ -309,7 +309,7 @@ He hath found the Giver of life to the world.
 
 [^2]: This verse is also translated—Many depart from here after spending what they possessed; had they any other business _in this world_?
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 ## SLOK VII
 
@@ -344,7 +344,7 @@ Saith Nanak, hear, O ye men, in this way trouble shall depart.
 
 
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 ## PAURI VII
 
@@ -371,7 +371,7 @@ _Guru Nanak_
 Man may perform hundreds of thousands of good acts and deeds, hundreds of thousands of approved charities,
 Hundreds of thousands of penances at sacred places, sahaj jog[^2] in the wilderness,
 
-<span id="p229">[<sup><small>p. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 Hundreds of thousands of braveries, and part with his life in the conflict of battle;
 He may study hundreds of thousands of Veds and works of divine knowledge and meditation, and read the Purans—
@@ -402,7 +402,7 @@ The more one readeth and writeth, the more is one tormented;
 The more one wandereth on pilgrimages, the more one babbleth;
 The more religious garbs man weareth, the more discomfort he causeth his body.
 
-<span id="p230">[<sup><small>p. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 Bear, O my soul, the _result_ of thine own acts.
 He who eateth not corn[^1] hath lost the relish _of life_.
@@ -427,7 +427,7 @@ I _only_ beg of those who meditate on Thee.[^3]
 
 
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 ## SLOK X
 
@@ -455,7 +455,7 @@ Man shall be known as true when he receiveth true instruction;
 Let man show mercy to living things and perform some works of charity.
 Man shall be known as true, when he dwelleth in the pilgrimage of his heart:
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 Let man after inquiry from the true Guru rest and abide _in his own heart_;
 Truth is the medicine for all; it removeth and washeth away sin.
@@ -486,7 +486,7 @@ Greed and sin are ruler and village accountant; falsehood is master of the mint.
 Lust, his minister, summoneth and examineth men, and sitteth in judgement on them.
 The subjects _are_ blind and without divine knowledge, and satisfy _the judge's_ greed with bribes.
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Priests dance, play musical instruments, disguise, and decorate themselves;
 They shout aloud, sing of battles, and heroes' praises.
@@ -518,7 +518,7 @@ _Guru Nanak_
 Pain is medicine, _worldly_ pleasure a disease; where there is such pleasure, there is no desire _for God_.
 Thou art the Doer, I do nothing; if I try to do anything, it cometh to nothing.
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 I am a sacrifice _unto Thee_; Thou abidest in Thine omnipotence:
 Thine end cannot be seen.
@@ -545,7 +545,7 @@ _Guru Nanak_
 Water remaineth if confined in a vessel; _but_ it cannot remain without a vessel.
 The mind controlled by divine knowledge is restrained; _but_ without a guru there can be no divine knowledge.
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 ## PAURI XII
 
@@ -571,7 +571,7 @@ The Sam _Ved_ saith that the Lord is white-robed,[^3] that men desired truth, ab
 The Rig saith that God's name is everywhere contained, that it is as the sun in heaven;
 That by repeating it sins depart,
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 And that then, Nanak, man obtaineth salvation.
 The Yajur _stateth_ that Kan Krishan, who was a Yadav, seduced Chandrawal;
@@ -600,7 +600,7 @@ but its qualities and virtues are exquisite.
 Every one boweth to himself; no one boweth to another.
 If anything be put into a scale and weighed, the side which descendeth is the heavier.[^1]
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 The wicked man like a deer-stalker boweth twice _more than any one else_;
 But what availeth bowing the head, if the heart be impure?
@@ -629,7 +629,7 @@ And he shall regret the sins he committed.
 
 The following slok, addressed by Guru Nanak to pandit Hardial, his family priest, when he came to invest him with a janeu, the sacrificial thread of the upper classes of Hindus, has already been given:—
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 ## SLOK XV
 
@@ -661,7 +661,7 @@ There is no string for the sexual organs, there is no string for women;
 _There is no string for the impure acts which cause_ your beards to be daily spat upon.
 There is no string for the feet, there is no string for the hands,
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 There is no string for the tongue, there is no string for the eyes.
 Without such strings _the Brahman_ wandereth astray,
@@ -686,7 +686,7 @@ A man at Lahore presented a cow to a Brahman. The Brahman took her with him, but
 Thou takest toll for a cow and a Brahman, the cow-dung will not save thee.
 Thou wearest a dhoti[^2] and a frontal mark, and carriest a rosary, _yet_ thou eatest the bread of malechhas.
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 Thou performest the Hindu worship at home, thou readest the Quran _in public_, and associatest with Muhammadans,[^1] O my brother.
 Lay aside hypocrisy, repeat God's name, and thou shalt be saved.
@@ -712,7 +712,7 @@ Saying, 'Touch not! O touch not!
 ‘_Or_ this food of ours will be defiled.’
 But their bodies are defiled; what they do is defiled;
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 Their hearts are false while they perform ablutions _after their meals_.
 Saith Nanak, meditate on the True One;
@@ -741,7 +741,7 @@ As a woman hath her recurring courses, so falsehood dwelleth in the mouth of the
 He should not be called pure who sitteth and washeth his body;
 _Rather is_ he pure, Nanak, in whose heart God dwelleth.
 
-<span id="p242">[<sup><small>p. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 ## PAURI XVII
 
@@ -768,7 +768,7 @@ Impurity of the heart is greed, impurity of the tongue is falsehood;
 Impurity of the eyes is gazing on another's wealth, his wife, and her beauty;
 Impurity of the ears is listening to slander.
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 Nanak, even the _pretended_ saint who _practiseth such things_, shall go bound to hell.
 All impurity consisteth in Superstition and attachment to worldly things.
@@ -797,7 +797,7 @@ When the food entereth a sinful body, it _becometh impure as if_ spat upon.
 The mouth which uttereth not the Name, and eateth even delicacies without the Name,
 Consider, O Nanak, as if spat upon.
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 The following was Guru Nanak's remonstrance to a man who reviled the female sex:—
 
@@ -827,7 +827,7 @@ He is most evil, and most evil is his reputation.
 The evil person is rejected in God's court; his face is spat upon.
 The evil person is a fool, and receiveth shoe-beatings as punishment.
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 _Guru Nanak_
 
@@ -849,7 +849,7 @@ Whatever hath come shall depart; his turn shall come to every one.
 Why forget that Lord who owneth life and soul
 With thine own hands arrange thine own affairs.
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 ## SLOK XXI
 
@@ -882,7 +882,7 @@ And talketh too much, he pleaseth not his master.
 If he efface himself and perform service, he shall obtain some honour.
 Nanak, he who longeth for God shall meet Him, and his longing shall be acceptable.
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 _Guru Angad_
 
@@ -916,7 +916,7 @@ Lose his large salary, and receive shoe-beating on the mouth.
 Thank Him by whose gifts thou liveth
 Nanak, commands will not succeed with Him; the Master must be implored,
 
-<span id="p248">[<sup><small>p. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 ## SLOK XXIII
 
@@ -947,7 +947,7 @@ In some is contained milk[^3] others are put over the fire.
 Some sleep on mattresses, and others stand and watch over them
 Nanak, God regenerateth those on whom He looketh with favour.
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 _Guru Angad_
 
@@ -963,7 +963,7 @@ Man must do the work which God destined for him from the beginning.
 Nanak, except in the one God alone there is no _abiding_ Place.
 He doeth what He pleaseth.
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

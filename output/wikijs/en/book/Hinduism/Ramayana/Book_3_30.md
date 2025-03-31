@@ -65,7 +65,7 @@ With severed nose and mangled ear:
 My gashes like a river bled,
 I sought thee and was comforted.
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 Those twice seven giants, brave and strong,
 Thou sentest to avenge the wrong,
@@ -189,7 +189,7 @@ And stars in costly emblem shone.
 O'er flashing swords his banner hung,
 And sweet bells, ever tinkling, swung.
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 That mighty host with sword and shield
 And oar was ready for the field:
@@ -309,7 +309,7 @@ In heaven with these keen shafts of mine.
 Impelled by warlike fury I
 Could cause e'en Death himself to die.
 
-<span id="p256">[<sup><small>p. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 I will not seek my home again
 Until my pointed shafts have slain
@@ -423,7 +423,7 @@ To death these rovers of the night;
 But I this day would fight alone
 Till all the fiends be overthrown.’
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 He spake: and Lakshman answered naught:
 His arrows and his bow he brought,
@@ -546,7 +546,7 @@ The strong-armed chief his weapon swayed.
 Soon as the children of the night
 Saw Khara rushing to the fight,
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 His lords with loud unearthly cry
 Followed their chief and gathered nigh.
@@ -668,7 +668,7 @@ A whelming shower of leafy trees.
 Wild, wondrous fight, the eye to scare,
 And raise on end each shuddering hair,
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 As with the fiends who loved to rove
 By night heroic Ráma strove!
@@ -786,7 +786,7 @@ And loudly rang their joyful cry,
 ‘Honour to Ráma! nobly done!
 Well hast thou fought, Kakutstha's son!
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;But the great three, the host who led,
 Enraged to see their chieftain dead,
@@ -908,7 +908,7 @@ Which harnessed coursers fleetly drew,
 Like some huge hill with triple peak
 He onward rushed the prince to seek,
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 Still, like a big cloud, sending out
 His arrowy rain with many a shout
@@ -1014,7 +1014,7 @@ Of many an arrow Ráma bled.
 High on his car the giant rose
 Prepared in deadly strife to close,
 
-<span id="p262">[<sup><small>p. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 And all the spirits saw him stand
 Like Yama with his noose in hand.
@@ -1136,7 +1136,7 @@ Through greed or lust a life of sin,
 E'en as a Bráhman's dame, unwise,
 Eats of the fallen hail  [^476] and dies.
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Thy hand has slain the pure and good,
 The hermit saints of Dandak wood,
@@ -1258,7 +1258,7 @@ Evil in thought and word and deed.
 My hand shall take that life of thine
 As Garud [^477] seized the juice divine.
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 Thou, rent by shafts, this day shalt die:
 Low on the ground thy corse shall lie,
@@ -1376,7 +1376,7 @@ And firmness e'en as Vishnu's own!’
 Thus having sung, the shining train
 Turned to their heavenly homes again.
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 Then the high saints of royal race
 And loftiest station sought the place,

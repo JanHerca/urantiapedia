@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 
 IN the city of Atavi there ruled a king who was very fond of hunting. One day, he saw an enormous deer and started in pursuit. The deer was fleet of foot, and in the heat of the chase, the king lost sight of the other hunters. Finally, the prey escaped, and weary and discouraged, the king sat down under a tree. He fell asleep.
@@ -41,7 +41,7 @@ It happened that a wicked God named Alavaka lived in the tree. He liked to feed 
 
 “Spare me, my lord!” said he. “By your terrifying appearance, I know you to be one of the Gods that eat human flesh. Oh, deign to be kind to me. You will have no cause to regret your mercy. I shall reward you with magnificent gifts.”
 
-“What care I for gifts!” replied Alavaka. “It <span id="p248">[<sup><small>p. 248</small></sup>]</span> is your flesh I want; it will appease my hunger.”
+“What care I for gifts!” replied Alavaka. “It <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> is your flesh I want; it will appease my hunger.”
 
 “My lord,” replied the king, “if you let me return to Atavi, I shall send you a man every day to satisfy your hunger.”
 
@@ -57,7 +57,7 @@ He sent for his minister and told him what had happened. The minister considered
 
 The king approved of the suggestion. Guards were sent to the prison, and to those whose days were numbered they said:
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 “Not far from the city there is a tree inhabited by a God who is very fond of rice. Whoever leaves a plate of rice for him at the foot of the tree will be granted a full pardon.”
 
@@ -69,7 +69,7 @@ In spite of all their efforts to apprehend the guilty, the prison was again empt
 
 A vague uneasiness possessed the city of Atavi. The old people were seen to disappear; no one knew what became of them. And, each day, the king's remorse grew more poignant. But he lacked the courage to sacrifice his life to the welfare of his people. He thought:
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 “Will no one come to my assistance? There lives in Cravasti, and sometimes in Rajagriha, I have been told, a man of great power, a Buddha, whose prodigies are loudly praised. They say he is fond of travelling. Why, then, does he not come into my kingdom?”
 
@@ -85,7 +85,7 @@ Alavaka was in a terrible rage. He would have liked to torture this man who was 
 
 Alavaka finally managed to control himself. He thought that cunning would perhaps succeed where strength had failed, and in a pleasant voice he said:
 
-“I see you are a wise man, my Lord; it is always a pleasure for me to interrogate men of wisdom. I ask them four questions. If they can answer, they are free to go wherever they please; if they can not answer, they remain my prisoners, <span id="p251">[<sup><small>p. 251</small></sup>]</span> and I devour them when I feel so disposed.”
+“I see you are a wise man, my Lord; it is always a pleasure for me to interrogate men of wisdom. I ask them four questions. If they can answer, they are free to go wherever they please; if they can not answer, they remain my prisoners, <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> and I devour them when I feel so disposed.”
 
 “Ask me the four questions,” said the Buddha.
 
@@ -103,7 +103,7 @@ When Alavaka heard the Master's answers, he fell at his feet and worshipped him,
 
 “King,” said the God, “I release you from your pledge.”
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 The king was happier than he had ever been before. When he knew who had saved him, he cried:
 

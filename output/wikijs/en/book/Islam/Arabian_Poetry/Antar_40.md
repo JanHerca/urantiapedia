@@ -42,7 +42,7 @@ My vows were made to one like the full moon, resembling the branches and boughs 
 
 But I am alone and solitary, though once we met, and here, now they are gone, are only the owl and the raven!
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 O trees of the tamarisk! whither are they gone? They are gone, and in my heart passion has left a burning flame!
 
@@ -58,7 +58,7 @@ The King was not a little surprised to hear his grave and learned brother thus r
 
 “Having reached home and joined my family, I despatched a slave to conduct my wife to me, and sent with him a great quantity of camels and sheep to this valley and desert. I remained anxiously expecting them, till my slave returned in despair, and brought back all my property. I asked him what was the matter. ‘I have seen no one there, my lord,’ said he. I stayed some time quiet, and despatched emissaries to all the Arab tribes, and expended amongst them much gold and silver, but I never could obtain any intelligence of her. And even now, my brother, I bear her in my memory. It was on her account I attached myself to Mecca and the Sacred Shrine, till I this day beheld these remembrances of her, and now all my sorrows come upon me anew; and whilst I meditated on the past, I was anxious that you should come with me to this spot, that I might renew the vows made so many years ago.”
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 Asyed having thus ended the recital of his pathetic story, the King caused the slaves to spread carpets beneath the tamarisk trees, and, the hunters presently returning with abundance of hares and deer, a sumptuous feast was quickly prepared. They passed the night in the same spot, but at break of day the party were surprised and taken prisoners by a troop of horsemen of Cahtan, led by a young chief called Nazih, who was returning in triumph to his own tribe, with his distinguished captives, when he was met by Antar. The noble champion of Abs impetuously assailed Nazih, and unhorsed him. Shiboob bound him securely, and then hastened to release the King and his brother. Antar proposed to put Nazih and his companions to death; and proceeding to strip off the young chief's clothes, he discovered on his wrist a bracelet of cornelian, on which were engraved images of Lat and Uzza. Asyed recognises the trinket as being identical with one which he had given to his bride in the Valley of Tamarisks: he questions the young chief regarding his parentage, and discovers in Nazih his own son. Ultimately Asyed has the felicity of being re-united to his long-lost bride.
 

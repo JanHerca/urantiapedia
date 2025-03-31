@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T20:3:38Z
   </table>
 </figure>
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Arabic names to which the definite article al- is prefixed will be found under their initial letter. Titles of books and poems are printed in italics.
 
@@ -160,7 +160,7 @@ Balkh, [65](./1_2#p65)
 
 Bashkhwán, [74](./1_3#p74), [75](./1_3#p75)
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Bashkhwání, Bú ‘Amr, [74](./1_3#p74), [75](./1_3#p75)
 
@@ -350,7 +350,7 @@ Hujwírí, [3](./1_Introduction#p3), [22](./1_1#p22), [34](./1_1#p34), [58](./1_
 
 al-Ḥuṣrí, Abú ‘Abdallah, [6](./1_1#p6)
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 Iblís, [54](./1_2#p54), [72](./1_3#p72), [112](./2_4#p112), [117](./2_4#p117), [119](./2_4#p119), [120](./2_4#p120), [121](./2_4#p121), [124](./2_5#p124). _See_ Satan
 
@@ -506,7 +506,7 @@ Luqmán, of Sarakhs, [6](./1_1#p6), [7](./1_1#p7)
 
 Lyall, Sir C., [163](./3_Introduction#p163)
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Ma‘arrí, Abú ’l-‘Alá, [160](./2_Appendix2#p160), [162](./3_Introduction#p162)
 
@@ -674,7 +674,7 @@ Rayy, [44](./1_1#p44)
 
 _Republic_, of Plato, the, [223](./3_vv_200_299#p223)
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 _al-Risálatu ’l-Qushayríyya fí ‘ilmi ’l-taṣawwuf_, [33](./1_1#p33), [77](./2_Introduction#p77)
 

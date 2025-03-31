@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 ## FIFTH ADHYÂYA.
 
@@ -40,13 +40,13 @@ dateCreated: 2025-1-15T22:54:18Z
 
 2\. It is he who, being one only, rules over every germ (cause), over all forms, and over all germs; it is he who, in the beginning, bears [^809] in his thoughts the wise son, the fiery, whom he wishes to look on [^810] while he is born [^811].
 
-3 [^812]. In that field [^813] in which the god, after spreading out one net after another [^814] in various ways, draws it together again, the Lord, the great Self [^815], having <span id="p256">[<sup><small>p. 256</small></sup>]</span> further created the lords [^816], thus carries on his lordship over all.
+3 [^812]. In that field [^813] in which the god, after spreading out one net after another [^814] in various ways, draws it together again, the Lord, the great Self [^815], having <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> further created the lords [^816], thus carries on his lordship over all.
 
 4\. As the car (of the sun) shines, lighting up all quarters, above, below, and across, thus does that god, the holy, the adorable, being one, rule over all that has the nature of a germ [^817].
 
 5\. He, being one, rules over all and everything, so that the universal germ ripens its nature, diversifies all natures that can be ripened [^818], and determines all qualities [^819].
 
-6 [^820]. Brahma (Hira<i>n</i>yagarbha) knows this, which is hidden in the Upanishads, which are hidden in the Vedas, as the Brahma-germ. The ancient gods <span id="p257">[<sup><small>p. 257</small></sup>]</span> and poets who knew it, they became it and were immortal.
+6 [^820]. Brahma (Hira<i>n</i>yagarbha) knows this, which is hidden in the Upanishads, which are hidden in the Vedas, as the Brahma-germ. The ancient gods <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> and poets who knew it, they became it and were immortal.
 
 7 [^821]. But he who is endowed with qualities, and performs works that are to bear fruit, and enjoys the reward of whatever he has done, migrates through his own works, the lord of life, assuming all forms, led by the three Gu<i>n</i>as, and following the three paths [^822].
 
@@ -56,13 +56,13 @@ dateCreated: 2025-1-15T22:54:18Z
 
 10\. It is not woman, it is not man, nor is it neuter; whatever body it takes, with that it is joined [^825] (only).
 
-11 [^826]. By means of thoughts, touching, seeing, and <span id="p258">[<sup><small>p. 258</small></sup>]</span> passions the incarnate Self assumes successively in various places various forms [^827], in accordance with his deeds, just as the body grows when food and drink are poured into it.
+11 [^826]. By means of thoughts, touching, seeing, and <span id="p258"><sup><small>[ p. 258 ]</small></sup></span> passions the incarnate Self assumes successively in various places various forms [^827], in accordance with his deeds, just as the body grows when food and drink are poured into it.
 
 12\. That incarnate Self, according to his own qualities, chooses (assumes) many shapes, coarse or subtile, and having himself caused his union with them, he is seen as another and another [^828], through the qualities of his acts, and through the qualities of his body.
 
 13 [^829]. He who knows him who has no beginning and no end, in the midst of chaos, creating all things, having many forms, alone enveloping everything, is freed from all fetters.
 
-14\. Those who know him who is to be grasped by the mind, who is not to be called the nest (the body [^830]), who makes existence and non-existence, the <span id="p259">[<sup><small>p. 259</small></sup>]</span> happy one (<i>S</i>iva), who also creates the elements [^831], they have left the body.
+14\. Those who know him who is to be grasped by the mind, who is not to be called the nest (the body [^830]), who makes existence and non-existence, the <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> happy one (<i>S</i>iva), who also creates the elements [^831], they have left the body.
 
 
 

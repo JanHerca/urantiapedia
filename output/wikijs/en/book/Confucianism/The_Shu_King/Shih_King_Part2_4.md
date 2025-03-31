@@ -42,7 +42,7 @@ AN OFFICER, KEPT LONG ABROAD ON DISTANT SERVICE, APPEALS TO HEAVEN, DEPLORING TH
 
 O bright and high Heaven, Who enlightenest and rulest this lower world! I marched on this expedition to the west, As far as this wilderness of <i>Kh</i>iû. From the first day of the second month, I have passed through the cold and the heat. My heart is sad; The poison (of my lot) is too bitter. I think of those (at court) in their offices, And my tears flow down like rain. Do I not wish to return? But I fear the net for crime.
 
-Ah! ye gentlemen, Do not reckon on your rest <span id="p365">[<sup><small>p. 365</small></sup>]</span> being permanent. Quietly fulfil the duties of your offices, Associating with the correct and upright; So shall the spirits hearken to you, And give you good.
+Ah! ye gentlemen, Do not reckon on your rest <span id="p365"><sup><small>[ p. 365 ]</small></sup></span> being permanent. Quietly fulfil the duties of your offices, Associating with the correct and upright; So shall the spirits hearken to you, And give you good.
 
 Ah! ye gentlemen, Do not reckon on your repose being permanent. Quietly fulfil the duties of your offices, Loving the correct and upright; So shall the spirits hearken to you, And give you large measures of bright happiness.
 
@@ -56,15 +56,15 @@ See the remarks on the Services of the Ancestral Temple, pp. [300](Shih_King_Par
 
 Thick grew the tribulus (on the ground), But they cleared away its thorny bushes. Why did they this of old? That we might plant our millet and sacrificial millet; That our millet might be abundant, And our sacrificial millet luxuriant. When our barns are full, And our stacks can be counted by tens of myriads, We proceed to make spirits and prepared grain, For offerings and sacrifice. We seat the representatives of the dead, and urge them to eat [^437]:—Thus seeking to increase our bright happiness.
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 With correct and reverent deportment, The bulls and rams all pure, We proceed to the winter and autumnal sacrifices. Some flay (the victims); some cook (their flesh); Some arrange (the meat); some adjust (the pieces of it). The officer of prayer sacrifices inside the temple gate [^438], And all the sacrificial service is complete and brilliant. Grandly come our progenitors; Their spirits happily enjoy the offerings; Their filial descendant receives blessing:—They will reward him with great happiness, With myriads of years, life without end.
 
-They attend to the furnaces with reverence; They prepare the trays, which are very large; Some for the roast meat, some for the broiled. Wives presiding are still and reverent [^439], Preparing the numerous (smaller) dishes. The guests and visitors [^440] Present the cup all round [^441]. Every form is according to rule; Every smile and word are as they should be. The spirits quietly come, And respond <span id="p367">[<sup><small>p. 367</small></sup>]</span> with great blessings,—Myriads of years as the (fitting) reward.
+They attend to the furnaces with reverence; They prepare the trays, which are very large; Some for the roast meat, some for the broiled. Wives presiding are still and reverent [^439], Preparing the numerous (smaller) dishes. The guests and visitors [^440] Present the cup all round [^441]. Every form is according to rule; Every smile and word are as they should be. The spirits quietly come, And respond <span id="p367"><sup><small>[ p. 367 ]</small></sup></span> with great blessings,—Myriads of years as the (fitting) reward.
 
 We are very much exhausted, And have performed every ceremony without error. The able officer of prayer announces (the will of the spirits) [^442]. And goes to the filial descendant to convey it [^442]:—Fragrant has been your filial sacrifice, And the spirits have enjoyed your spirits and viands. They confer on you a hundred blessings; Each as it is desired, Each as sure as law. You have been exact and expeditious; You have been correct and careful; They will ever confer on you the choicest favours, In myriads and tens of myriads.’
 
-The ceremonies having thus been completed, And the bells and drums having given their warning [^443], The filial descendant goes to his place [^444], And the able officer of prayer makes his announcement, ‘The spirits have drunk to the full.’ The great representatives of the dead then rise, And the bells and drums escort their withdrawal, (On which) the spirits tranquilly return (to whence they came) [^445]. All the servants, and the presiding wives, Remove (the trays and dishes) without delay. The <span id="p368">[<sup><small>p. 368</small></sup>]</span> (sacrificer's) uncles and cousins All repair to the private feast [^446].
+The ceremonies having thus been completed, And the bells and drums having given their warning [^443], The filial descendant goes to his place [^444], And the able officer of prayer makes his announcement, ‘The spirits have drunk to the full.’ The great representatives of the dead then rise, And the bells and drums escort their withdrawal, (On which) the spirits tranquilly return (to whence they came) [^445]. All the servants, and the presiding wives, Remove (the trays and dishes) without delay. The <span id="p368"><sup><small>[ p. 368 ]</small></sup></span> (sacrificer's) uncles and cousins All repair to the private feast [^446].
 
 The musicians all go in to perform, And give their soothing aid at the second blessing [^447]. Your [^448] viands are set forth; There is no dissatisfaction, but all feel happy. They drink to the full, and eat to the full; Great and small, they bow their heads., (saying), ‘The spirits enjoyed your spirits and viands, And will cause you to live long. Your sacrifices, all in their seasons, Are completely discharged by you. May your sons and your grandsons Never fail to perpetuate these services!’
 
@@ -74,7 +74,7 @@ The musicians all go in to perform, And give their soothing aid at the second bl
 
 HUSBANDRY TRACED TO ITS FIRST AUTHOR; DETAILS ABOUT IT, GOING ON TO THE SUBJECT OF SACRIFICES TO ANCESTORS.
 
-The Preface refers this piece to the reign of king Yû; but there is nothing. in it to suggest the idea of its having been made in a time of disorder and misgovernment. ‘The distant descendant’ in the first stanza is evidently the principal in the sacrifice of the last two stanzas:—according to <i>K</i>û, a noble or great landholder in the royal domain; according to others, some one of the kings of <i>K</i>âu. I incline myself to this latter view. The three pieces, <span id="p369">[<sup><small>p. 369</small></sup>]</span> of which this is the middle one, seem all to be royal odes. The mention of ‘the southern hill’ strongly confirms this view.
+The Preface refers this piece to the reign of king Yû; but there is nothing. in it to suggest the idea of its having been made in a time of disorder and misgovernment. ‘The distant descendant’ in the first stanza is evidently the principal in the sacrifice of the last two stanzas:—according to <i>K</i>û, a noble or great landholder in the royal domain; according to others, some one of the kings of <i>K</i>âu. I incline myself to this latter view. The three pieces, <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> of which this is the middle one, seem all to be royal odes. The mention of ‘the southern hill’ strongly confirms this view.
 
 Yes, (all about) that southern hill Was made manageable by Yü [^449]. Its plains and marshes being opened up, It was made into fields by the distant descendant. We define their boundaries, We form their smaller divisions, And make the acres lie, here to the south, there to the east.
 
@@ -82,7 +82,7 @@ The heavens overhead are one arch of clouds, Snowing in multitudinous flakes; Th
 
 The boundaries and smaller divisions are nicely adjusted, And the millets yield abundant crops, The harvest of the distant descendant. We proceed to make therewith spirits and food, To supply our representatives of the departed, and our guests;—To obtain long life, extending over myriads of years.
 
-In the midst of the fields are the huts [^450], And <span id="p370">[<sup><small>p. 370</small></sup>]</span> along the bounding divisions are gourds. The fruit is sliced and pickled, To be presented to our great ancestors, That their distant descendant may have long life, And receive the blessing of Heaven [^451].
+In the midst of the fields are the huts [^450], And <span id="p370"><sup><small>[ p. 370 ]</small></sup></span> along the bounding divisions are gourds. The fruit is sliced and pickled, To be presented to our great ancestors, That their distant descendant may have long life, And receive the blessing of Heaven [^451].
 
 We sacrifice (first) with clear spirits, And then follow with a red bull; Offering them to our ancestors, (Our lord) holds the knife with tinkling bells, To lay open the hair of the victim, And takes the blood and fat [^452].
 
@@ -96,11 +96,11 @@ PICTURES OF HUSBANDRY, AND SACRIFICES CONNECTED WITH IT. HAPPY UNDERSTANDING BET
 
 It is difficult to say who the ‘I’ in the piece is, but evidently he and the ‘distant descendant’ are different persons. I suppose he may have been an officer, who had charge of the farms, as we may call them, in the royal domain.
 
-Bright are those extensive fields, A tenth of whose produce is annually levied [^453]. I take the old <span id="p371">[<sup><small>p. 371</small></sup>]</span> stores, And with them feed the husbandmen. From of old we have had good years; And now I go to the south-lying acres, Where some are weeding, and some gather the earth about the roots. The millets look luxuriant; And in a spacious resting place, I collect and encourage the men of greater promise [^454].
+Bright are those extensive fields, A tenth of whose produce is annually levied [^453]. I take the old <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> stores, And with them feed the husbandmen. From of old we have had good years; And now I go to the south-lying acres, Where some are weeding, and some gather the earth about the roots. The millets look luxuriant; And in a spacious resting place, I collect and encourage the men of greater promise [^454].
 
 With my vessels full of bright millet, And my pure victim-rams, we sacrificed at the altar of the spirits of the land, and at (the altars of those of the four) quarters [^455]. That my fields are in such good condition is matter of joy to the husbandmen. With lutes, and with drums beating, We will invoke the Father of Husbandry [^456] And pray for sweet rain, To increase the produce of our millets, And to bless my men and their wives.
 
-The distant descendant comes, When their wives and children Are bringing food to those (at work) in the south-lying acres. The surveyor of the fields (also) comes and is glad. He takes (of the food) on the left and the right, And tastes whether <span id="p372">[<sup><small>p. 372</small></sup>]</span> it be good or not. The grain is well cultivated, all, the acres over; Good will it be and abundant. The distant descendant has no displacency; The husbandmen are encouraged to diligence.
+The distant descendant comes, When their wives and children Are bringing food to those (at work) in the south-lying acres. The surveyor of the fields (also) comes and is glad. He takes (of the food) on the left and the right, And tastes whether <span id="p372"><sup><small>[ p. 372 ]</small></sup></span> it be good or not. The grain is well cultivated, all, the acres over; Good will it be and abundant. The distant descendant has no displacency; The husbandmen are encouraged to diligence.
 
 The crops of the distant descendant Look (thick) as thatch, and (swelling) like a carriage-cover. His stacks will stand like islands and mounds. He will seek for thousands of granaries; He will seek for tens of thousands of carts. The millets, the paddy, and the maize Will awake the joy of the husbandmen; (And they will say),‘May he be rewarded with great happiness, With myriads of years, life without end!’
 
@@ -114,7 +114,7 @@ Large are the fields, and various is the work to be done. Having selected the se
 
 It ears and the fruit lies soft in its sheath; It hardens and is of good quality; There is no wolf's-tail grass nor darnel. We remove the insects that eat the heart and the leaf, And those that eat the roots and the joints, So that they shall not hurt the young plants of our fields. May the spirit, the Father of Husbandry [^457], Lay hold of them, and put them in the blazing fire!
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 The clouds form in dense masses,. And the rain comes down slowly. May it first rain on our public fields [^458], And then come to our private Yonder shall be young grain unreaped, And here some bundles ungathered; Yonder shall be handfuls left on the ground, And here ears untouched:—For the benefit of the widow [^459].
 

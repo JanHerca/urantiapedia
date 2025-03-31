@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:15:34Z
 </figure>
 
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 The Ormazd Ya<i>s</i>t, properly so called, ends with § 23. The rest of the Ya<i>s</i>t, from § 24 to the end, is wanting in several manuscripts, and is supposed by the Parsis to be a fragment of the Bahman Ya<i>s</i>t.
 
@@ -59,7 +59,7 @@ Speculations on the mystical powers of God's names have always been common among
 
 We have three native translations of this Ya<i>s</i>t; one in Pahlavi (East India Office, XII, 39, and St. Petersburg, XCIX, 39; edited by Carl Salemann), one in Persian (East India Office, XXII, 43), and one in Sanskrit (Paris, fonds Burnouf, V, 66); the last two edited in our Études Iraniennes, II, 255).
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 The second part of the Ya<i>s</i>t, the so-called Bahman Ya<i>s</i>t fragment, is in a state of the utmost corruption. It is difficult to trace any connection in the ideas, yet §§ 28, 29, 30 seem to point rather clearly to the final struggle between Ormazd and Ahriman and to the annihilation of the Daêvas, and, thereby, some connection is established between this fragment and the Pahlavi Bahman Ya<i>s</i>t [^98], which deals with the same subject. If that correspondence be real, § 26 might refer to the beginning of the Pahlavi Bahman Ya<i>s</i>t, in which Zarathu<i>s</i>tra is shown by Ahura the times to come and the end of the world.
 
@@ -79,7 +79,7 @@ I recite the ‘Praise of Holiness [^102]:’
 
 I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra, one who hates the Daêvas and obeys the laws of Ahura [^103];
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 For sacrifice [^104], prayer, propitiation, and glorification unto \[Hâvani\] [^105], the holy and master of holiness;
 
@@ -95,7 +95,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness: the riches of 
 
 ‘What of the Holy Word is the strongest? What is the most victorious? What is the most glorious? What is the most effective?
 
-2\. ‘What is the most fiend-smiting? What is the best-healing? What destroyeth best the malice of Daêvas and Men? What maketh the material world best come to the fulfilment of its wishes [^108]? What freeth the material world best from the anxieties of the heart [^109]?’ <span id="p24">[<sup><small>p. 24</small></sup>]</span> 3\. Ahura Mazda answered: 'Our Name, O Spitama Zarathu<i>s</i>tra! who are the Amesha-Spe<i>n</i>tas, that is the strongest part of the Holy Word; that is the most victorious; that is the most glorious; that is the most effective;
+2\. ‘What is the most fiend-smiting? What is the best-healing? What destroyeth best the malice of Daêvas and Men? What maketh the material world best come to the fulfilment of its wishes [^108]? What freeth the material world best from the anxieties of the heart [^109]?’ <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> 3\. Ahura Mazda answered: 'Our Name, O Spitama Zarathu<i>s</i>tra! who are the Amesha-Spe<i>n</i>tas, that is the strongest part of the Holy Word; that is the most victorious; that is the most glorious; that is the most effective;
 
 4\. ‘That is the most fiend-smiting; that is the best-healing; that destroyeth best the malice of Daêvas and Men; that maketh the material world best come to the fulfilment of its wishes; that freeth the material world best from the anxieties of the heart.’
 
@@ -109,7 +109,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness: the riches of 
 
 ‘My third name is the Strong One [^113].
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 ‘My fourth name is Perfect Holiness [^114].
 
@@ -143,11 +143,11 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness: the riches of 
 
 My twentieth name is MAZDA (the All-knowing One).
 
-9\. 'Worship me, O Zarathu<i>s</i>tra, by day and by <span id="p26">[<sup><small>p. 26</small></sup>]</span> night, with offerings of libations well accepted [^119]. I will come unto thee for help and joy, I, Ahura Mazda; the good, holy Sraosha will come unto thee for help and joy; the waters, the plants, and the Fravashis of the holy ones will come unto thee for help and joy.
+9\. 'Worship me, O Zarathu<i>s</i>tra, by day and by <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> night, with offerings of libations well accepted [^119]. I will come unto thee for help and joy, I, Ahura Mazda; the good, holy Sraosha will come unto thee for help and joy; the waters, the plants, and the Fravashis of the holy ones will come unto thee for help and joy.
 
 10\. 'If thou wantest, O Zarathu<i>s</i>tra, to destroy the malice of Daêvas and Men, of the Yâtus and Pairikas, of the oppressors, of the blind and of the deaf [^120], of the two-legged ruffians [^121], of the two-legged Ashemaoghas [^122], of the four-legged wolves;
 
-And of the hordes with the wide front, with the many spears [^123], with the straight spears, with the spears uplifted, bearing the spear of havock; then, recite thou these my names every day and every night. <span id="p27">[<sup><small>p. 27</small></sup>]</span> 12\. 'I am the Keeper [^124] I am the Creator and the Maintainer [^125]; I am the Discerner [^126]s; I am the most beneficent Spirit.
+And of the hordes with the wide front, with the many spears [^123], with the straight spears, with the spears uplifted, bearing the spear of havock; then, recite thou these my names every day and every night. <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> 12\. 'I am the Keeper [^124] I am the Creator and the Maintainer [^125]; I am the Discerner [^126]s; I am the most beneficent Spirit.
 
 ‘My name is the bestower of health; my name is the best bestower of health.
 
@@ -171,7 +171,7 @@ And of the hordes with the wide front, with the many spears [^123], with the str
 
 ‘My name is the Prosperity-producer [^128]; my name is the Word of Prosperity [^129].
 
-‘My name is the King who rules at his will; <span id="p28">[<sup><small>p. 28</small></sup>]</span> my name is the King who rules most at his will.
+‘My name is the King who rules at his will; <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> my name is the King who rules most at his will.
 
 ‘My name is the liberal King [^130]; my name is the most liberal King.
 
@@ -191,13 +191,13 @@ And of the hordes with the wide front, with the many spears [^123], with the str
 
 16\. 'These are my names.
 
-‘And he who in this material world, O Spitama Zarathu<i>s</i>tra! shall recite and pronounce those names of mine [^132] either by day or by night; <span id="p29">[<sup><small>p. 29</small></sup>]</span> 17\. 'He who shall pronounce them, when he rises up or when he lays him down; when he lays him down or when he rises up; when he binds on the sacred girdle [^133] or when he unbinds the sacred girdle; when he goes out of his dwelling-place, or when he goes out of his town, or when he goes out of his country and comes into another country;
+‘And he who in this material world, O Spitama Zarathu<i>s</i>tra! shall recite and pronounce those names of mine [^132] either by day or by night; <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> 17\. 'He who shall pronounce them, when he rises up or when he lays him down; when he lays him down or when he rises up; when he binds on the sacred girdle [^133] or when he unbinds the sacred girdle; when he goes out of his dwelling-place, or when he goes out of his town, or when he goes out of his country and comes into another country;
 
 18\. 'That man, neither in that day nor in that night, shall be wounded by the weapons of the foe who rushes Aêshma-like [^134] and is Dru<i>g</i>\-minded; not the knife, not the cross-bow, not the arrow, not the sword, not the club, not the sling-stone [^135] shall reach and wound him.
 
 19\. 'But those names shall come in to keep him from behind and to keep him in front [^136], from the Dru<i>g</i> unseen, from the female Varenya fiend [^137], from the evil-doer [^138] bent on mischief [^139], and from that fiend who is all death, Angra Mainyu. It will be as if there were a thousand men watching over one man [^140].
 
-20\. ' “Who is he who will smite the fiend in order to maintain thy ordinances? Teach me clearly thy <span id="p30">[<sup><small>p. 30</small></sup>]</span> rules for this world and for the next, that Sraosha may come with Vohu-Manô and help whomsoever thou pleasest [^141].”
+20\. ' “Who is he who will smite the fiend in order to maintain thy ordinances? Teach me clearly thy <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> rules for this world and for the next, that Sraosha may come with Vohu-Manô and help whomsoever thou pleasest [^141].”
 
 21\. 'Hail to the Glory of the Kavis [^142]! Hail to the Airyanem Vaê<i>g</i>ah [^143]! Hail to the Saoka [^144], made by Mazda! Hail to the waters of the Dâitya [^145]! Hail to Ardvi [^146], the undefiled well! Hail to the whole world of the holy Spirit!
 
@@ -207,7 +207,7 @@ And of the hordes with the wide front, with the many spears [^123], with the str
 
 22\. 'We worship the Ahuna Vairya [^149]. We worship Asha-Vahi<i>s</i>ta, most fair, undying, and beneficent [^150]. We worship Strength and Prosperity and Might and Victory and Glory and Vigour [^151]. We worship Ahura Mazda, bright and glorious.
 
-‘Yênghê hâtãm [^152]: All those beings [^153] of whom Ahura Mazda knows the goodness [^154] for a sacrifice <span id="p31">[<sup><small>p. 31</small></sup>]</span> \[performed\] in holiness, all those beings, males [^155] and females [^156], do we worship.
+‘Yênghê hâtãm [^152]: All those beings [^153] of whom Ahura Mazda knows the goodness [^154] for a sacrifice <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> \[performed\] in holiness, all those beings, males [^155] and females [^156], do we worship.
 
 23\. 'Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
@@ -221,7 +221,7 @@ And of the hordes with the wide front, with the many spears [^123], with the str
 
 26\. 'Thou knowest this, and how it is, O holy Zarathu<i>s</i>tra! from my understanding and from my knowledge; namely, how the world first began [^160], and how it will end [^161].
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 ‘A thousand remedies, ten thousand remedies [^162]!
 
@@ -245,13 +245,13 @@ And of the hordes with the wide front, with the many spears [^123], with the str
 
 ‘We worship the tongue of Ahura Mazda, to speak forth the Holy Word.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 ‘We worship the mountain that gives understanding, that preserves understanding [^172]; \[we worship it\] by day and by night, with offerings of libations well-accepted [^173].
 
 32\. 'We worship that creation \[of Ahura's\], Spe<i>n</i>ta-Ârmaiti; and the holy creations of that creature and of Asha \[Vahi<i>s</i>ta\], that are foremost in holiness [^174].
 
-‘Here I take as lord and master [^175] the greatest of all, Ahura Mazda; to smite the fiend Angra Mainyu to smite Aê<i>s</i>ma of the wounding spear [^176]; to smite the Mâzainya fiends 6; to smite all the Daêvas and the Varenya fiends [^177]; to increase Ahura Mazda, <span id="p34">[<sup><small>p. 34</small></sup>]</span> bright and glorious; to increase the Amesha-Spe<i>n</i>tas; to increase the star Ti<i>s</i>trya [^178], the bright and glorious; to increase the faithful men; to increase all the holy creatures of the Beneficent Spirit.
+‘Here I take as lord and master [^175] the greatest of all, Ahura Mazda; to smite the fiend Angra Mainyu to smite Aê<i>s</i>ma of the wounding spear [^176]; to smite the Mâzainya fiends 6; to smite all the Daêvas and the Varenya fiends [^177]; to increase Ahura Mazda, <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> bright and glorious; to increase the Amesha-Spe<i>n</i>tas; to increase the star Ti<i>s</i>trya [^178], the bright and glorious; to increase the faithful men; to increase all the holy creatures of the Beneficent Spirit.
 
 ‘Ashem Vohû: Holiness is the best of all good. . . . [^179]
 

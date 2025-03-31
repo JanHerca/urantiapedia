@@ -72,7 +72,7 @@ Let the word idam be the rule.
 
 **Commentary.**
 
-This means that the offering (havis) intended for each deity should be pointed out by the words idam, this, Agne_h_, is for Agni, &c. Thus we read with regard to the offerings intended for certain gods and goddesses: ida<i>m</i> Dhâtur, idam Anumatyâ, Râkâyâ<i>m</i> Sinîvâlyâ_h_, Kuhvâ_h_. <span id="p344">[<sup><small>p. 344</small></sup>]</span>
+This means that the offering (havis) intended for each deity should be pointed out by the words idam, this, Agne_h_, is for Agni, &c. Thus we read with regard to the offerings intended for certain gods and goddesses: ida<i>m</i> Dhâtur, idam Anumatyâ, Râkâyâ<i>m</i> Sinîvâlyâ_h_, Kuhvâ_h_. <span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 <span id="an105"></span>
 
@@ -120,7 +120,7 @@ At the time when the meal is to be cleansed, one cleanses the grains.
 
 **Commentary.**
 
-This takes place after the <i>k</i>aru-pot has been put on. The ta<i>nd</i>ulas are the unhusked grains, pish<i>n</i>a is the <span id="p345">[<sup><small>p. 345</small></sup>]</span> ground flour. In Sanskrit a distinction is made between <i>k</i>asya, the corn in the field, dhânya, corn with the husk, ta<i>nd</i>ula, grains without husks, anna, roasted grains.
+This takes place after the <i>k</i>aru-pot has been put on. The ta<i>nd</i>ulas are the unhusked grains, pish<i>n</i>a is the <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> ground flour. In Sanskrit a distinction is made between <i>k</i>asya, the corn in the field, dhânya, corn with the husk, ta<i>nd</i>ula, grains without husks, anna, roasted grains.
 
 <span id="an109"></span>
 
@@ -164,7 +164,7 @@ When it is said that wishful ish<i>t</i>is are performed in a murmur, this means
 
 ## SÛTRA CXIV.
 
-The Dar<i>s</i>a-pûr<i>s</i>amâsa sacrifice is the Prak<i>s</i>ti or norm for all ish<i>s</i>is. <span id="p346">[<sup><small>p. 346</small></sup>]</span>
+The Dar<i>s</i>a-pûr<i>s</i>amâsa sacrifice is the Prak<i>s</i>ti or norm for all ish<i>s</i>is. <span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 <span id="an114c"></span>
 
@@ -200,7 +200,7 @@ And the Aikâda<i>s</i>inas are the norm for the Pa<i>s</i>uga<i>s</i>as.
 
 **Commentary.**
 
-The rules for the Pa<i>s</i>uga<i>s</i>as are therefore to be taken over from the Aikâda<i>s</i>inas, the Savanîya, the Agnîshomîya-pa<i>s</i>u, and the Dar<i>s</i>a-pûr<i>s</i>amâsa, so far as they have been modified in each particular case, and are <span id="p347">[<sup><small>p. 347</small></sup>]</span> finally determined by the rules of each Pa<i>s</i>uga<i>s</i>a, as, for instance, the Âditya-pa<i>s</i>u.
+The rules for the Pa<i>s</i>uga<i>s</i>as are therefore to be taken over from the Aikâda<i>s</i>inas, the Savanîya, the Agnîshomîya-pa<i>s</i>u, and the Dar<i>s</i>a-pûr<i>s</i>amâsa, so far as they have been modified in each particular case, and are <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> finally determined by the rules of each Pa<i>s</i>uga<i>s</i>a, as, for instance, the Âditya-pa<i>s</i>u.
 
 <span id="an119"></span>
 
@@ -242,7 +242,7 @@ Here the Vikâra, the modification, is perceived from similarity.
 
 **Commentary.**
 
-If it has once been laid down that the Dar<i>s</i>a-pûr<i>s</i>amâsa is the prak<i>s</i>ti or norm for all ish<i>s</i>is, then similarity determines the modification in all details, such as the offerings and the gods to whom offerings are made. Thus Karu, being a vegetable offering, would rank as a vikâra of puro<i>s</i>â<i>s</i>a, which occurs in the Dar<i>s</i>a-pûr<i>s</i>amâsa sacrifice, and is likewise vegetable. Honey and water <span id="p348">[<sup><small>p. 348</small></sup>]</span> would be looked upon as most like the Â<i>s</i>ya in the Dar<i>s</i>a-pûr<i>s</i>amâsa. Âmikshâ, a preparation of milk, would come nearest to the Sâ<i>s</i>nâyya, which is a mixture of sour and sweet milk.
+If it has once been laid down that the Dar<i>s</i>a-pûr<i>s</i>amâsa is the prak<i>s</i>ti or norm for all ish<i>s</i>is, then similarity determines the modification in all details, such as the offerings and the gods to whom offerings are made. Thus Karu, being a vegetable offering, would rank as a vikâra of puro<i>s</i>â<i>s</i>a, which occurs in the Dar<i>s</i>a-pûr<i>s</i>amâsa sacrifice, and is likewise vegetable. Honey and water <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> would be looked upon as most like the Â<i>s</i>ya in the Dar<i>s</i>a-pûr<i>s</i>amâsa. Âmikshâ, a preparation of milk, would come nearest to the Sâ<i>s</i>nâyya, which is a mixture of sour and sweet milk.
 
 <span id="an123"></span>
 

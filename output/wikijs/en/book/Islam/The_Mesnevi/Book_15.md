@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 ## XV.
 
@@ -56,7 +56,7 @@ So I survey the heavens, and all their flowery meads.
 Eight paradises,[^376] seven deep hells,[^377] are in my view,
 As patent as the idol to its silly crew.
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Apart, and one by one, I can discern all men,
 <sup id="v10"><small>10</small></sup>  As wheat and barley well are known to miller's ken.
@@ -90,7 +90,7 @@ Until our halves material find rest from their games.
 But turn we now away to other subjects, high;
 For fear events should leave us to regret and sigh.
 
-<span id="p256">[<sup><small>p. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 “When settling-day 'brings forth the colour of each face,'[^379]
 <sup id="v25"><small>25</small></sup>  Mankind are separated sharply, race from race.
@@ -123,7 +123,7 @@ I'll make apparent unto all, from last to first.
 Their shoulders jostle ’gainst my shoulders in the crowd;
 Their shrieks are sounding in my ears, as thunder loud.
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 While heaven's citizens, rejoicing with delight,
 <sup id="v40"><small>40</small></sup>  Hug one another lovingly, to glad my sight.
@@ -158,7 +158,7 @@ If Sion's miracle's repeated in thy track.”
 Said Zeyd: “Can man e’er grasp beneath his feeble arm
 The sun of truth, eternal luminary, warm?
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 ’Twould burst his grasp asunder; all his wiles were vain,
 <sup id="v55"><small>55</small></sup>  Though madness he should add to reason in his brain!”
@@ -194,7 +194,7 @@ As Moses’ rod obedient was to his behest.
 At heart's desire, the feet begin the nimble dance,
 <sup id="v70"><small>70</small></sup>  Or seek advantage, or avoid some sore mischance.
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 The heart commands, the hands to calculations fall;
 Should it prefer, they write a book or treatise small.
@@ -228,7 +228,7 @@ By mirror and by balance canst thou be held quit?”
 Luqmān the sage, in presence of his noble lord,[^390]
 <sup id="v85"><small>85</small></sup>  Among the slaves and servants was a mere byword.
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 The lord one day commanded; straight some slaves were sent
 To gather fruit from orchard for his throat's content.
@@ -258,7 +258,7 @@ To vomit they're constrained, with starting of eyeballs.
 The stolen fruit contained within their stomach's sack,
 The water's stimulus compelled them to give back.
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 When Luqmān's turn was come to cast up his accounts,
 Clear water was the only issue from his founts.
@@ -295,7 +295,7 @@ Let each be happy in his own opinion's zest.
 God wills that they who might despair to win His grace,
 Shall persevere, not slacken, in their worship's pace
 
-<span id="p262">[<sup><small>p. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 That they may seek a hopeful one, and him ensue;—
 <sup id="v115"><small>115</small></sup>  In his society may follow worship's clue.
@@ -331,7 +331,7 @@ Let it be visible; no surmise can we brew.
 Although the sky of light is not without its rain,
 The earth of darkness, too, produces plants and grain.
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 I love that text: “They who believe what is not seen.”[^392]
 <sup id="v130"><small>130</small></sup>  Thence have I closed my eyes, the body's windows keen.
@@ -367,7 +367,7 @@ The silent mouth and sealed lip surpass the rest.
 Then boast not, brother; whatsoever thou hast done,
 God knows thy merits; will requite them every one.
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 The sun requires no other witness but his face.
 <sup id="v145"><small>145</small></sup>  Man has a greater. God's his witness. Vast the grace!
@@ -401,7 +401,7 @@ They're lights to them who seek; though devils they may scare.”
 If every man had strength, and faculty of sight,
 To look straight at the sun, trust him alone for light,
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 What need were for the stars, or lamps, of feeble ray,
 <sup id="v160"><small>160</small></sup>  To help them on their path, in quest of source of day?
@@ -436,7 +436,7 @@ Thou’lt find no signs of Zeyd, no footstep, sign, or trace.
 Our senses falter, all our reasoning is lost,
 In splendour of the wisdom of th’ All-Ruling Ghost.
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 Men's senses, and their reasons, must be shut within,
 “In waves when all before us to appear begin.”[^400]
@@ -471,7 +471,7 @@ From fear of thee, some soul itself must quick efface.
 All else but love of God, the Truest and the Best,
 Though sweet to thought, is but a snare to break thy rest.
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 What's all thy effort worth? Thou hast to die at last;
 Put out thy hand and grasp the cup of life right fast.
@@ -506,7 +506,7 @@ The fire of lust may carry man to hell, no doubt.
 No water can avail to quench the flames of lust;
 For lust is hell-born. Torments end not; last they must.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Religion's light, alone, can quench lust's fiercest flame,—
 The light that can put out the Syntheist's wicked game.[^404]
@@ -537,7 +537,7 @@ Extension gave it wings, success infused new life.
 The people now came flocking to the Caliph's gate,
 <sup id="v215"><small>215</small></sup>  In marvel, that, through water, fire would not abate.
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 He told them that the fire burnt by divine command;
 That all those flames arose from their too frugal hand:

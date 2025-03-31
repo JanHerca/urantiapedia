@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 ## YASNA XXVI. THE FRAVASHIS; SACRIFICE AND PRAISE TO THEM.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 2\. And of all these prior Fravashis, we worship here the Fravashi of Ahura Mazda, which is the greatest and the best, the most beautiful and the firmest, the most wise and the best in form, and the one that attains the most its ends because of Righteousness. 3. And (having invoked them) hither, we worship the good, heroic, bountiful Fravashis of the holy ones, those of the Bountiful Immortals, the brilliant, of effective glance, the lofty, the devoted, the swift ones of the creatures of Ahura who are imperishable and holy.
 
-4\. And (having invoked them) hither, we worship the spirit and conscience, the intelligence and soul and Fravashi of those holy men and women who early heard the lore and commands (of God [^1168]), and loved and strove after Righteousness, the ritual truth; and we worship the soul of the Kine of blessed gift. 5. And (having invoked it) hither, we worship the Fravashi of Gaya Maretan the holy, and the sanctity and Fravashi of Zarathu<i>s</i>tra Spitâma the saint; and we worship the Fravashi of Kavi Vî<i>s</i>tâspa the holy, and that of Isa<i>t</i>\-vâstra the Zarathu<i>s</i>trian, the saint. <span id="p279">[<sup><small>p. 279</small></sup>]</span> 6\. And (having invoked them) hither; we worship the life, conscience, intelligence, soul and Fravashi of the next of kin, of the saints male and female who have striven after the ritual truth, which are those of the dead and living saints, and which are those also of men as yet unborn, of the future prophets who will help on the renovation, and complete the human progress, with them all.
+4\. And (having invoked them) hither, we worship the spirit and conscience, the intelligence and soul and Fravashi of those holy men and women who early heard the lore and commands (of God [^1168]), and loved and strove after Righteousness, the ritual truth; and we worship the soul of the Kine of blessed gift. 5. And (having invoked it) hither, we worship the Fravashi of Gaya Maretan the holy, and the sanctity and Fravashi of Zarathu<i>s</i>tra Spitâma the saint; and we worship the Fravashi of Kavi Vî<i>s</i>tâspa the holy, and that of Isa<i>t</i>\-vâstra the Zarathu<i>s</i>trian, the saint. <span id="p279"><sup><small>[ p. 279 ]</small></sup></span> 6\. And (having invoked them) hither; we worship the life, conscience, intelligence, soul and Fravashi of the next of kin, of the saints male and female who have striven after the ritual truth, which are those of the dead and living saints, and which are those also of men as yet unborn, of the future prophets who will help on the renovation, and complete the human progress, with them all.
 
 7\. And (having invoked them) hither, we worship the souls of the dead \[^1169]\]; and of all the next of kin who have passed away in this house, of the Aêthrapaitis (the teachers) and of the disciples; yea, of all holy men and women; (8) and we worship the Fravashis of all the holy teachers and disciples; and of all the saints both male and female.
 

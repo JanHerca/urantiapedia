@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 SECOND PART.
 
@@ -52,7 +52,7 @@ This is the first rule. (2)
 
 Now follows the second rule:
 
-I shall choose something inanimate, and lean <span id="p179">[<sup><small>p. 179</small></sup>]</span> against it; changing the position of the body, but not moving about a little, I shall stand there. This is the second rule. (3)
+I shall choose something inanimate, and lean <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> against it; changing the position of the body, but not moving about a little, I shall stand there. This is the second rule. (3)
 
 Now follows the third rule:
 

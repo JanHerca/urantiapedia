@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:11:52Z
   </table>
 </figure>
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 NOT exalting worth keeps the people from rivalry. Not prizing what is hard to procure keeps the people from theft. Not to show them what they may covet is the way to keep their minds from disorder.
 
@@ -44,7 +44,7 @@ In the highest antiquity, the people did not know that they had rulers. In the n
 
 How cautious is the Sage, how sparing of his words! When his task is accomplished and affairs are prosperous, the people all say: “We have come to be as we are, naturally and of ourselves.”
 
-If any one desires to take the Empire in hand and govern it, I see that he will not succeed. The Empire is a divine utensil which may not be <span id="p38">[<sup><small>p. 38</small></sup>]</span> roughly handled. He who meddles, mars. He who holds it by force, loses it.
+If any one desires to take the Empire in hand and govern it, I see that he will not succeed. The Empire is a divine utensil which may not be <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> roughly handled. He who meddles, mars. He who holds it by force, loses it.
 
 Fishes must not be taken from the water: the methods of government must not be exhibited to the people.
 
@@ -58,7 +58,7 @@ If the government is sluggish and tolerant, the people will be honest and free f
 
 Govern a great nation as you would cook a small fish. [^4]
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 If the Empire is governed according to Tao, disembodied spirits will not manifest supernatural powers. It is not that they lack supernatural power, but they will not use it to hurt mankind. Again, it is not that they are unable to hurt mankind, but they see that the Sage also does not hurt mankind. If then neither Sage nor spirits work harm, their virtue converges to one beneficent end.
 
@@ -72,7 +72,7 @@ If the people do not fear death, what good is there in using death as a deterren
 
 Now, there is always one who presides over the infliction of death. He who would take the place of the magistrate and himself inflict death, is like one who should try to do the work of a master-carpenter. And of those who try the work of a master-carpenter there are few who do not cut their own hands.
 
-The people starve because those in authority <span id="p40">[<sup><small>p. 40</small></sup>]</span> over them devour too many taxes; that is why they starve. The people are difficult to govern because those placed over them are meddlesome; that is why they are difficult to govern. The people despise death because of their excessive labour in seeking the means of life; that is why they despise death.
+The people starve because those in authority <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> over them devour too many taxes; that is why they starve. The people are difficult to govern because those placed over them are meddlesome; that is why they are difficult to govern. The people despise death because of their excessive labour in seeking the means of life; that is why they despise death.
 
 A Sage has said: “He who can take upon himself the nation's shame is fit to be lord of the land. He who can take upon himself the nation's calamities is fit to be ruler over the Empire.”
 

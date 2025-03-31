@@ -30,7 +30,7 @@ dateCreated: 2025-2-12T12:11:52Z
 </figure>
 
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 ### EDITORIAL NOTE
 

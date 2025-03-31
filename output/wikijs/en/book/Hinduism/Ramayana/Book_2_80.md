@@ -62,7 +62,7 @@ And through Bhárunda forest, spread
 Northward of Víramatsya, sped.
 He sought Kalinda's child, who fills
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 The soul with joy, begirt by hills,
 Reached Yamuná and passing o'er,
@@ -187,7 +187,7 @@ And all therein, with brows o'ercast,
 Sit joyless on the ground and fast.
 Their lovely chaplets dry and dead,
 
-<span id="p180">[<sup><small>p. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 Their courts unswept, with dust o'erspread,
 The temples of the Gods to-day
@@ -317,7 +317,7 @@ From side to side, still unconsoled,
 And then, with bitter grief oppressed,
 His mother with those words addressed:
 
-<span id="p181">[<sup><small>p. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 ‘This joyful hope my bosom fed
 When from my grandsire's halls I sped—
@@ -446,7 +446,7 @@ His brothers' doom, his father's fate,
 Thus Bharat to his mother said
 With burning grief disquieted:
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 ‘Alas, what boots it now to reign,
 Struck down by grief and well-nigh slain?
@@ -570,7 +570,7 @@ My mother, yet my direst foe.
 My throning ne'er thine eyes shall bless,
 Thy husband's wicked murderess.
 
-<span id="p183">[<sup><small>p. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 Thou art not As'vapati's child,
 That righteous king most sage and mild,
@@ -696,7 +696,7 @@ And Lakshman, forth to banishment.’
 Thus high-souled Bharat, mid the crowd,
 Lifted his voice and cried aloud.
 
-<span id="p184">[<sup><small>p. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 Kaus'alyá heard, she raised ner head.
 And quickly to Sumitrá said:
@@ -818,7 +818,7 @@ Who willed the prince should flee away.
 May he deceive the poor and weak
 Who look to him and comfort seek,
 
-<span id="p185">[<sup><small>p. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 Betray the suppliants who complain,
 And make the hopeful hope in vain.
@@ -940,7 +940,7 @@ The sacred fires they tended next,
 And muttered low each funeral text;
 And priestly singers who rehearse
 
-<span id="p186">[<sup><small>p. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 The S'aman  [1](Book_2_80#fn352) sang their holy verse.
 Forth from the town in litters came,
@@ -1063,7 +1063,7 @@ Raised weeping Bharat on his feet,
 And thus bespake with counsel meet:
 ‘Twelve days, my lord, have past away
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 Since flames consumed thy father's clay:
 Delay no more: as rules ordain,
@@ -1179,7 +1179,7 @@ Speak friendly word to thee or me.”
 &nbsp;&nbsp;&nbsp;&nbsp;When Bharat's speech S'atrughna heard
 He calmed the rage his breast that stirred,
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Releasing from her dire constraint
 The trembling wretch with terror faint.
@@ -1296,7 +1296,7 @@ Tall trees were reared by busy hands.
 Where'er the line of road they took,
 They plied the hatchet, axe, and hook.
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 Others, with all their strength applied,
 Cast vigorous plants and shrubs aside,

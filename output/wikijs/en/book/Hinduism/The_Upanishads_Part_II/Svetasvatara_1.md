@@ -32,33 +32,33 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span> p. 229 p. 230 p. 231
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span> p. 229 p. 230 p. 231
 
 <i>S</i>VETÂ<i>S</i>VATARA-UPANISHAD.
 
 ## FIRST ADHYÂYA.
 
-1\. The Brahma-students say: Is Brahman the cause [^701]? Whence are we born? Whereby do we live, and whither do we go? O ye who know Brahman, (tell us) at whose command we abide, whether in pain or in pleasure? <span id="p232">[<sup><small>p. 232</small></sup>]</span> 2\. Should time, or nature [^702], or necessity, or chance, or the elements be considered as the cause, or he who is called the person (purusha, vi<i>g</i>_ñ_ânâtmâ)? It cannot be their union either, because that is not self-dependent [^703], and the self also is powerless, because there is (independent of him) a cause of good and evil [^704].
+1\. The Brahma-students say: Is Brahman the cause [^701]? Whence are we born? Whereby do we live, and whither do we go? O ye who know Brahman, (tell us) at whose command we abide, whether in pain or in pleasure? <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> 2\. Should time, or nature [^702], or necessity, or chance, or the elements be considered as the cause, or he who is called the person (purusha, vi<i>g</i>_ñ_ânâtmâ)? It cannot be their union either, because that is not self-dependent [^703], and the self also is powerless, because there is (independent of him) a cause of good and evil [^704].
 
 3\. The sages, devoted to meditation and concentration, have seen the power belonging to God himself [^705], hidden in its own qualities (gu<i>n</i>a). He, being one, superintends all those causes, time, self, and the rest [^706].
 
-4 [^707]. We meditate on him who (like a wheel) has one felly with three tires, sixteen ends, fifty spokes, with twenty counter-spokes, and six sets of eight; <span id="p233">[<sup><small>p. 233</small></sup>]</span> whose one rope is manifold, who proceeds on three different roads, and whose illusion arises from two causes. <span id="p234">[<sup><small>p. 234</small></sup>]</span> 5 [^708]. We meditate on the river whose water consists of the five streams, which is wild and winding with its five springs, whose waves are the five vital breaths, whose fountain head is the mind, the course of the five kinds of perceptions. It has five whirlpools, its rapids are the five pains; it has fifty kinds of suffering, and five branches.
+4 [^707]. We meditate on him who (like a wheel) has one felly with three tires, sixteen ends, fifty spokes, with twenty counter-spokes, and six sets of eight; <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> whose one rope is manifold, who proceeds on three different roads, and whose illusion arises from two causes. <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> 5 [^708]. We meditate on the river whose water consists of the five streams, which is wild and winding with its five springs, whose waves are the five vital breaths, whose fountain head is the mind, the course of the five kinds of perceptions. It has five whirlpools, its rapids are the five pains; it has fifty kinds of suffering, and five branches.
 
 6\. In that vast Brahma-wheel, in which all things live and rest, the bird flutters about, so long as he thinks that the self (in him) is different from the mover (the god, the lord). When he has been blessed by him, then he gains immortality [^709].
 
-7\. But what is praised (in the Upanishads) is the <span id="p235">[<sup><small>p. 235</small></sup>]</span> Highest Brahman, and in it there is the triad [^710]. The Highest Brahman is the safe support, it is imperishable. The Brahma-students [^711], when they have known what is within this (world), are devoted and merged in the Brahman, free from birth [^712].
+7\. But what is praised (in the Upanishads) is the <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> Highest Brahman, and in it there is the triad [^710]. The Highest Brahman is the safe support, it is imperishable. The Brahma-students [^711], when they have known what is within this (world), are devoted and merged in the Brahman, free from birth [^712].
 
 8\. The Lord (î<i>s</i>a) supports all this together, the perishable and the imperishable, the developed and the undeveloped. The (living) self, not being a lord, is bound [^713], because he has to enjoy (the fruits of works); but when he has known the god (deva), he is freed from all fetters.
 
 9\. There are two, one knowing (î<i>s</i>vara), the other not-knowing (<i>g</i>îva), both unborn, one strong, the other weak [^714]; there is she, the unborn, through whom each man receives the recompense of his works [^715]; and there is the infinite Self (appearing) under all forms, but himself inactive. When a man finds out these three, that is Brahma [^716].
 
-10\. That which is perishable [^717] is the Pradhâna [^718] (the first), the immortal and imperishable is Hara [^719]. <span id="p236">[<sup><small>p. 236</small></sup>]</span> The one god rules the perishable (the pradhâna) and the (living) self [^720]. From meditating on him, from joining him, from becoming one with him there is further cessation of all illusion in the end.
+10\. That which is perishable [^717] is the Pradhâna [^718] (the first), the immortal and imperishable is Hara [^719]. <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> The one god rules the perishable (the pradhâna) and the (living) self [^720]. From meditating on him, from joining him, from becoming one with him there is further cessation of all illusion in the end.
 
 11\. When that god is known, all fetters fall off, sufferings are destroyed, and birth and death cease. From meditating on him there arises, on the dissolution of the body, the third state, that of universal lordship [^721]; but he only who is alone, is satisfied [^722].
 
 12\. This, which rests eternally within the self, should be known; and beyond this not anything has to be known. By knowing the enjoyer [^723], the enjoyed, and the ruler, everything has been declared to be threefold, and this is Brahman.
 
-13\. As the form of fire, while it exists in the under-wood [^724], is not seen, nor is its seed destroyed, <span id="p237">[<sup><small>p. 237</small></sup>]</span> but it has to be seized again and again by means of the stick and the under-wood, so it is in both cases, and the Self has to be seized in the body by means of the pra<i>n</i>ava (the syllable Om).
+13\. As the form of fire, while it exists in the under-wood [^724], is not seen, nor is its seed destroyed, <span id="p237"><sup><small>[ p. 237 ]</small></sup></span> but it has to be seized again and again by means of the stick and the under-wood, so it is in both cases, and the Self has to be seized in the body by means of the pra<i>n</i>ava (the syllable Om).
 
 14\. By making his body the under-wood, and the syllable Om the upper-wood, man, after repeating the drill of meditation, will perceive the bright god, like the spark hidden in the wood [^725].
 

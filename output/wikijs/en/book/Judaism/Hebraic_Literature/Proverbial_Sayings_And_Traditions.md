@@ -72,7 +72,7 @@ When the cucumbers are young we may tell whether they will become good for food.
 
 Poverty cometh from God, but not dirt.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Our kindly deeds and our generous gifts go to heaven as messengers, and plead for us before our Heavenly Father.
 
@@ -130,7 +130,7 @@ The rose grows among thorns.
 
 The wine belongs to the master but the waiter receives the thanks.
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 He who mixes with unclean things becomes unclean himself; he whose associations are pure becomes more holy with each day.
 
@@ -180,7 +180,7 @@ A man's home means his wife.
 
 He who divorces his wife is hated before God.
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 If thy wife is small, bend down to take her counsel.
 
@@ -216,7 +216,7 @@ Prayer is Israel's only weapon, a weapon inherited from his fathers, a weapon tr
 
 When the righteous die, they live; for their example lives.
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 Let the fruit pray for the welfare of the leaf.
 
@@ -278,7 +278,7 @@ When the ox is down many are the butchers.
 
 Descend a step in choosing thy wife; ascend a step in choosing thy friend.
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 Beat the gods and their priests will tremble.
 
@@ -316,7 +316,7 @@ Rabbi Gamaliel ordered his servant Tobi to bring something good from the market,
 
 The forest trees once asked the fruit trees: “Why is the rustling of your leaves not heard in the distance?” The fruit trees replied: “We can dispense with the rustling to manifest our presence; our fruits testify for us.” The fruit trees then inquired of the forest trees:
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 “Why do your leaves rustle almost continually?” “We are forced to call the attention of man to our existence.”
 
@@ -342,7 +342,7 @@ His enemies will humble themselves before the one who builds a place of worship.
 
 He who is able to attend synagogue, and neglects to do so, is a bad neighbor.
 
-One need not stand upon a high place to pray, for it is written, “Out of the depths have I called unto Thee, oh Lord.” The same Rabbi prohibits moving about or talking during the progress of prayers, enlarging on Solomon's <span id="p338">[<sup><small>p. 338</small></sup>]</span> advice, “Keep thy foot when thou goest into the house of the Lord, and be more ready to hear than to offer the sacrifice of fools.”
+One need not stand upon a high place to pray, for it is written, “Out of the depths have I called unto Thee, oh Lord.” The same Rabbi prohibits moving about or talking during the progress of prayers, enlarging on Solomon's <span id="p338"><sup><small>[ p. 338 ]</small></sup></span> advice, “Keep thy foot when thou goest into the house of the Lord, and be more ready to hear than to offer the sacrifice of fools.”
 
 The cock and the owl both await daylight. “The light,” says the cock, “brings me delight; but what in the world art thou waiting for?”
 
@@ -364,7 +364,7 @@ How canst thou escape sin? Think of three things: whence thou comest, whither th
 
 Cold water morning and evening is better than all the cosmetics.
 
-The question is asked, “Why is man born with hands clinched, but has his hands wide open in death?” And the answer is: "On entering the world, man desires to <span id="p339">[<sup><small>p. 339</small></sup>]</span> grasp everything; but when leaving it he takes nothing away.”
+The question is asked, “Why is man born with hands clinched, but has his hands wide open in death?” And the answer is: "On entering the world, man desires to <span id="p339"><sup><small>[ p. 339 ]</small></sup></span> grasp everything; but when leaving it he takes nothing away.”
 
 Two dry logs and one wet; the dry ones kindle the wet.
 
@@ -404,7 +404,7 @@ Charity is more than sacrifices.
 
 One day a philosopher inquired of Rabbi Akiba, “If your God loves the poor, why does He not support them?”
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 “God allows the poor to be with us ever,” responded Akiba, “that the opportunities for doing good may never fail.”
 
@@ -436,7 +436,7 @@ Tears are shed on God's altar for the one who forsakes his first love.
 
 He who loves his wife as himself, and honors her more than himself, will train his children properly; he will meet, too, the fulfillment of the verse, “And thou shalt know that there is peace in thy tent, and thou wilt look over thy habitation and shall miss nothing.”
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 I never call my wife “wife,” but “home,” for she, indeed, makes my home.
 
@@ -480,7 +480,7 @@ Better to bear a false accusation in silence, than by speaking to bring the guil
 
 He who can feel ashamed will not readily do wrong.
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 There is a great difference between one who can feel ashamed before his own soul and one who is only ashamed before his fellow-man.
 
@@ -514,7 +514,7 @@ Rabbi Eleazer said:—
 
 Rabbi Chamah, the son of Pappa, said:—
 
-“He who eats or drinks and blesses not the Lord, is even as he who stealeth, for it is said, ”The heavens are the <span id="p343">[<sup><small>p. 343</small></sup>]</span> heavens of the Lord, and the earth hath He given to the children of men.“”
+“He who eats or drinks and blesses not the Lord, is even as he who stealeth, for it is said, ”The heavens are the <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> heavens of the Lord, and the earth hath He given to the children of men.“”
 
 Rabbi Simon, the son of Lakish, said
 
@@ -530,7 +530,7 @@ He who has more learning than good deeds is like a tree with many branches but w
 
 ---
 
-Better is the curse of the righteous man than the blessing of the wicked. Better the curse of Achia, the Shelonite, than the blessing of Bil\`am, the son of Beor. Thus did Achia curse the Israelites, “And the Lord will smite Israel as the reed is shaken in the water,” The reed bends but it breaks not, for it groweth by the water, and its roots are strong, Thus did Bil\`am bless Israel, “As cedar trees beside the waters.” Cedars do not grow beside the waters; <span id="p344">[<sup><small>p. 344</small></sup>]</span> their roots are weak, and when strong winds blow they break in pieces.
+Better is the curse of the righteous man than the blessing of the wicked. Better the curse of Achia, the Shelonite, than the blessing of Bil\`am, the son of Beor. Thus did Achia curse the Israelites, “And the Lord will smite Israel as the reed is shaken in the water,” The reed bends but it breaks not, for it groweth by the water, and its roots are strong, Thus did Bil\`am bless Israel, “As cedar trees beside the waters.” Cedars do not grow beside the waters; <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> their roots are weak, and when strong winds blow they break in pieces.
 
 ---
 
@@ -544,7 +544,7 @@ The slave was amazed and dazzled, believing that he was dreaming, and all that h
 
 “How is this? I cannot understand it. That you should thus elevate and honor a man whom you know not, a poor, naked wanderer, whom you have never seen before, making him your ruler, causes me more wonder than I can readily express.”
 
-“Sire,” they replied, "this island is inhabited by spirits. Long since they prayed to God to send them yearly a son of man to reign over them, and He has answered their prayers. Yearly He sends them a son of man, whom they receive with honor and elevate to the throne; but his dignity and power ends with the year. With its close his royal garments are taken from him, he is placed on board <span id="p345">[<sup><small>p. 345</small></sup>]</span> a ship and carried to a vast and desolate island, where, unless he has previously been wise and prepared for this day, he will find neither friend nor subject, and be obliged to pass a weary, lonely, miserable life. Then a new king is selected, and so year follows year. The kings who preceded thee were careless and indifferent, enjoying their power to the full, and thinking not of the day when it should end. Be wiser thou; let our words find rest within thy heart.”
+“Sire,” they replied, "this island is inhabited by spirits. Long since they prayed to God to send them yearly a son of man to reign over them, and He has answered their prayers. Yearly He sends them a son of man, whom they receive with honor and elevate to the throne; but his dignity and power ends with the year. With its close his royal garments are taken from him, he is placed on board <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> a ship and carried to a vast and desolate island, where, unless he has previously been wise and prepared for this day, he will find neither friend nor subject, and be obliged to pass a weary, lonely, miserable life. Then a new king is selected, and so year follows year. The kings who preceded thee were careless and indifferent, enjoying their power to the full, and thinking not of the day when it should end. Be wiser thou; let our words find rest within thy heart.”
 
 The newly-made king listened attentively to all this, and felt grieved that he should have lost even the time he had already missed for making preparations for his loss of power.
 
@@ -556,7 +556,7 @@ The king followed this advice. He sent workmen and materials to the desolate isl
 
 The day came; the freed slave, who had been made king, was deprived of his authority; with his power he lost his royal garments; naked he was placed upon a ship, and its sails set for the desolate isle.
 
-When he approached its shores, however, the people whom he had sent there came to meet him with music, <span id="p346">[<sup><small>p. 346</small></sup>]</span> song, and great joy. They made him a prince among them, and he lived with them ever after in pleasantness and peace.
+When he approached its shores, however, the people whom he had sent there came to meet him with music, <span id="p346"><sup><small>[ p. 346 ]</small></sup></span> song, and great joy. They made him a prince among them, and he lived with them ever after in pleasantness and peace.
 
 The wealthy man of kindly disposition is God, and the slave to whom He gave freedom is the soul which He gives to man. The island at which the slave arrives is the world; naked and weeping he appears to his parents, who are inhabitants that greet him warmly and make him their king. The friends who tell him of the ways of the country are his “good inclinations.” The year of his reign is his span of life, and the desolate island is the future world, which he must beautify by good deeds, “the workmen and material,” or else live lonely and desolate forever.
 
@@ -582,7 +582,7 @@ The old man answered:—
 
 The aged man lived to partake of that very fruit, and remembering the emperor's words, he resolved to visit him. So, taking a small basket, he filled it with the choicest figs from the tree, and proceeded on his errand. Telling the palace guard his purpose, he was admitted to the sovereign's presence.
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 “Well,” asked the emperor, “what is thy wish?”
 
@@ -608,7 +608,7 @@ When this was told to the emperor, he ordered the old man to stand in the hallwa
 
 ---
 
-A citizen of Jerusalem traveling through the country was taken very sick at an inn. Feeling that he would not recover, he sent for the landlord and said to him, "I am going the way of all flesh. If after my death any party should come from Jerusalem and claim my effects, do not deliver them until he shall prove to thee by three wise acts that he <span id="p348">[<sup><small>p. 348</small></sup>]</span> is entitled to them; for I charged my son before starting upon my way, that if death befell me he would be obliged to prove his wisdom before obtaining my possessions.”
+A citizen of Jerusalem traveling through the country was taken very sick at an inn. Feeling that he would not recover, he sent for the landlord and said to him, "I am going the way of all flesh. If after my death any party should come from Jerusalem and claim my effects, do not deliver them until he shall prove to thee by three wise acts that he <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> is entitled to them; for I charged my son before starting upon my way, that if death befell me he would be obliged to prove his wisdom before obtaining my possessions.”
 
 The man died and was buried according to Jewish rites, and his death was made public that his heirs might appear. When his son learned of his father's decease he started from Jerusalem, for the place where he had died. Near the gates of the city he met a man who had a load of wood for sale. This he purchased and ordered it to be delivered at the inn toward which he was traveling. The man from whom he bought it went at once to the inn, and said, “Here is the wood.”
 
@@ -636,7 +636,7 @@ The landlord looked somewhat perplexed at this mode of distribution, but said no
 
 Then the merchant's son divided the chicken. He gave to the landlord and his wife the head, to the two sons the legs, to the two daughters the wings, and took the body for himself. This was his third wise act.
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 The landlord said:—
 
@@ -656,7 +656,7 @@ The citizen thus commissioned reached Athina, and very shortly fell in with the 
 
 The shoemaker repaired the string, and the man paid him a coin more in value than the worth of the shoes.
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 Next day, when walking with the same man, he broke the string of his other shoe, and going to the shoemaker, he paid him the same large sum for repairing that.
 
@@ -690,7 +690,7 @@ Seeking the Jerusalemite who had deceived him, he said:—
 
 “Let this be a lesson to thee,” answered the Jerusalemite. “I do not think thou wilt be so ready to make sport of us in the future.”
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 A young man, upon his journeys through the country, fell in with a young woman, and they became mutually attached. When the young man was obliged to leave the neighborhood of the damsel's residence, they met to say “good-by.” During the parting they pledged a mutual faith, and each promised to wait until, in the course of time, they might be able to marry. “Who will be the witness of our betrothal?” said the young man. just then they saw a weasel run past them and disappear in the wood. “See,” he continued, “this weasel and this well of water by which we are standing shall be the witnesses of our betrothal;” and so they parted. Years passed, the maiden remained true, but the youth married. A son was born to him, and grew up the delight of his parents. One day while the child was playing he became tired, and lying upon the ground fell asleep. A weasel bit him in the neck, and he bled to death. The parents were consumed with grief by this calamity, and it was not until another son was given them that they forgot their sorrow. But when this second child was able to walk alone it wandered without the house, and bending over the well, looking at its shadow in the water, lost its balance and was drowned. Then the father recollected his perjured vow, and his witnesses, the weasel and the well. He told his wife of the circumstance, and she agreed to a divorce. He then sought the maiden to whom he had promised marriage, and found her still awaiting his return. He told her how, through God's agency, he had been punished for his wrongdoing, after which they married and lived in peace.
 
@@ -698,7 +698,7 @@ A wise Israelite, dwelling some distance from Jerusalem, sent his son to the Hol
 
 As soon as his master died, the slave, elated with his good fortune, hastened to Jerusalem, informed his late master's son of what had taken place, and showed him the will.
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 The young man was surprised and grieved at the intelligence, and after the allotted time of mourning had expired, he began to seriously consider his situation. He went to his teacher, explained the circumstances to him, read him his father's will, and expressed himself bitterly on account of the disappointment of his reasonable hopes and expectations. He could think of nothing that he had done to offend his father, and was loud in his complaints of injustice.
 
@@ -716,7 +716,7 @@ To prevent these things he bequeathed his property to his slave, well knowing th
 
 The young man did as he was advised, and gave the slave his freedom afterward. But ever after he was wont to exclaim:—
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 “Wisdom resides with the aged, and understanding in length of days.”
 
@@ -740,7 +740,7 @@ When he fled from before Saul, David was captured in the land of the Philistines
 
 Upon another occasion David hid himself in the cave of Adullam, and after he had entered the cave it chanced that a spider spun a web over the opening thereto. His pursuers passed that way, but thinking that no one could have entered the cave protected by the spider's web without destroying it, they continued on their way.
 
-The mosquito also was of service to David when he entered the camp of Saul to secure the latter's weapon. While stooping near Abner, the sleeping man moved and placed his leg upon David's body, If he moved, he would <span id="p354">[<sup><small>p. 354</small></sup>]</span> awake Abner and meet with death, if he remained in that position morning would dawn and bring him death; he knew not what to do, when a mosquito alighted upon Abner's leg; he moved it quickly, and David escaped.
+The mosquito also was of service to David when he entered the camp of Saul to secure the latter's weapon. While stooping near Abner, the sleeping man moved and placed his leg upon David's body, If he moved, he would <span id="p354"><sup><small>[ p. 354 ]</small></sup></span> awake Abner and meet with death, if he remained in that position morning would dawn and bring him death; he knew not what to do, when a mosquito alighted upon Abner's leg; he moved it quickly, and David escaped.
 
 Therefore sang David:—
 
@@ -758,7 +758,7 @@ Once more Nakdemon prayed, and lo, the clouds lifted and the sinking sun smiled 
 
 ---
 
-There was a certain family, the family of Abtinoss, the members of which were learned in the art of preparing the incense used in the service. Their knowledge they refused to impart to others, and the directors of the Temple, fearing that the art might die with them, discharged them <span id="p355">[<sup><small>p. 355</small></sup>]</span> from the service, and brought other parties from Alexandria, in Egypt, to prepare the sweet perfume. These latter were unable to afford satisfaction, however, and the directors were obliged to give the service back into the hands of the family of Abtinoss, who on their part refused to accept it again, unless the remuneration for their services was doubled. When asked why they so persistently refused to impart their skill to others, they replied that they feared they might teach some unworthy persons, who would afterward use their knowledge in an idolatrous worship. The members of this family were very particular not to use perfume of any kind themselves, lest the people should imagine that they put the sweet spices used in the manufacture of the incense to a baser use.
+There was a certain family, the family of Abtinoss, the members of which were learned in the art of preparing the incense used in the service. Their knowledge they refused to impart to others, and the directors of the Temple, fearing that the art might die with them, discharged them <span id="p355"><sup><small>[ p. 355 ]</small></sup></span> from the service, and brought other parties from Alexandria, in Egypt, to prepare the sweet perfume. These latter were unable to afford satisfaction, however, and the directors were obliged to give the service back into the hands of the family of Abtinoss, who on their part refused to accept it again, unless the remuneration for their services was doubled. When asked why they so persistently refused to impart their skill to others, they replied that they feared they might teach some unworthy persons, who would afterward use their knowledge in an idolatrous worship. The members of this family were very particular not to use perfume of any kind themselves, lest the people should imagine that they put the sweet spices used in the manufacture of the incense to a baser use.
 
 An exactly similar case to the above occurred with the family of Garmah, which had the monopoly of the knowledge of preparing the show-bread used in the services of the Temple.
 
@@ -774,7 +774,7 @@ Rabbi Jochanan, the son of Levi, fasted and prayed to the Lord that he might be 
 
 But still the Rabbi entreated:—
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 “I will neither trouble nor question thee,” he said; “only let me accompany thee on thy way.”
 
@@ -792,7 +792,7 @@ Toward evening they arrived at a large and imposing mansion, the residence of a 
 
 Again was Rabbi Jochanan filled with wonder, but he said naught, and they proceeded on their journey.
 
-As the shades of night were falling they entered a city which contained a large and imposing synagogue. As it was the time of the evening service they entered and were much pleased with the rich adornments, the velvet cushions, <span id="p357">[<sup><small>p. 357</small></sup>]</span> and gilded carvings of the interior. After the completion of the service, Elijah arose and called out aloud, “Who is here willing to feed and lodge two poor men this night?” none answered, and no respect was shown to the traveling strangers. In the morning, however, Elijah re-entered the synagogue, and shaking its members by the hands, he said, “I hope that you may all become presidents.”
+As the shades of night were falling they entered a city which contained a large and imposing synagogue. As it was the time of the evening service they entered and were much pleased with the rich adornments, the velvet cushions, <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> and gilded carvings of the interior. After the completion of the service, Elijah arose and called out aloud, “Who is here willing to feed and lodge two poor men this night?” none answered, and no respect was shown to the traveling strangers. In the morning, however, Elijah re-entered the synagogue, and shaking its members by the hands, he said, “I hope that you may all become presidents.”
 
 Next evening the two entered another city, when the _Shamas_ (sexton) of the synagogue, came to meet them, and notifying the members of his congregation of the coming of two strangers, the best hotel of the place was opened to them, and all vied in showing them attention and honor.
 
@@ -800,7 +800,7 @@ In the morning, on parting with them, Elijah said, “May the Lord appoint over 
 
 Jochanan could resist his curiosity no longer. “Tell me,” said he to Elijah, “tell me the meaning of all these actions which I have witnessed. To those who have treated us coldly thou hast uttered good wishes; to those who have been gracious to us thou hast made no suitable return. Even though we must part, I pray thee explain to me the meaning of thy acts.”
 
-“Listen,” said Elijah, “and learn to trust in God, even though thou canst not understand His ways. We first entered the house of the poor man, who treated us so kindly. Know that it had been decreed that on that very day his wife should die. I prayed unto the Lord that the cow might prove a redemption for her; God granted my prayers, and the woman was preserved unto her husband. The rich man, whom next we called up, treated us coldly, and I repaired his wall. I repaired it without a new foundation, without digging to the old one. Had he repaired it himself he would have dug, and thus discovered a treasure which lies there buried, but which is now forever lost to him. To the members of the synagogue who were inhospitable I said, ”May yon all be presidents, and where many rule there can be no peace; but to the others I said, ‘May you have but one president;’ with one leader no misunderstanding may arise. Now, if thou seest the wicked prospering, be not envious; if thou seest the righteous in poverty <span id="p358">[<sup><small>p. 358</small></sup>]</span> and trouble, be not provoked or doubtful of God's justice. The Lord is righteous, His judgments all are true; His eyes note all mankind, and none can say, “What dost thou?”
+“Listen,” said Elijah, “and learn to trust in God, even though thou canst not understand His ways. We first entered the house of the poor man, who treated us so kindly. Know that it had been decreed that on that very day his wife should die. I prayed unto the Lord that the cow might prove a redemption for her; God granted my prayers, and the woman was preserved unto her husband. The rich man, whom next we called up, treated us coldly, and I repaired his wall. I repaired it without a new foundation, without digging to the old one. Had he repaired it himself he would have dug, and thus discovered a treasure which lies there buried, but which is now forever lost to him. To the members of the synagogue who were inhospitable I said, ”May yon all be presidents, and where many rule there can be no peace; but to the others I said, ‘May you have but one president;’ with one leader no misunderstanding may arise. Now, if thou seest the wicked prospering, be not envious; if thou seest the righteous in poverty <span id="p358"><sup><small>[ p. 358 ]</small></sup></span> and trouble, be not provoked or doubtful of God's justice. The Lord is righteous, His judgments all are true; His eyes note all mankind, and none can say, “What dost thou?”
 
 With these words Elijah disappeared, and Jochanan was left alone.
 
@@ -824,7 +824,7 @@ When God was about to created man the angels gathered about him. Some of them op
 
 But others said:—
 
-<span id="p359">[<sup><small>p. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 “Hear us, Almighty King, create no more! The glorious harmony of the heavens which Thou hast sent to earth will be by man disturbed, destroyed.”
 
@@ -852,7 +852,7 @@ Then all were silent, and out of the deep quietness the Divine words came:—
 
 ---
 
-It was customary in Bithar when a child was born for the parents to plant a young cedar tree, to grow up with the infant. It happened upon one occasion when the daughter of the emperor was riding through the city, that her chariot broke down, and her attendants pulled up a young cedar tree to use in repairing it. The man who had planted the tree, seeing this, attacked the servants and beat them severely. This action incensed the emperor, who immediately dispatched an army of eighty thousand men against the city. These captured it and killed the inhabitants, men, women, and children. The rivers ran red with <span id="p360">[<sup><small>p. 360</small></sup>]</span> blood, and 'tis said that the ground was rich and prolific to the farmers for seven years, from the bodies of those who perished, said to be four hundred thousand Israelites.
+It was customary in Bithar when a child was born for the parents to plant a young cedar tree, to grow up with the infant. It happened upon one occasion when the daughter of the emperor was riding through the city, that her chariot broke down, and her attendants pulled up a young cedar tree to use in repairing it. The man who had planted the tree, seeing this, attacked the servants and beat them severely. This action incensed the emperor, who immediately dispatched an army of eighty thousand men against the city. These captured it and killed the inhabitants, men, women, and children. The rivers ran red with <span id="p360"><sup><small>[ p. 360 ]</small></sup></span> blood, and 'tis said that the ground was rich and prolific to the farmers for seven years, from the bodies of those who perished, said to be four hundred thousand Israelites.
 
 ---
 
@@ -866,7 +866,7 @@ On one of the walls he found the mark of an arrow's head, as though somebody had
 
 “Zachariah, the son of Yehoyadah, the high priest,” answered the people; “he rebuked us incessantly on account of our transgressions, and we tired of his words, and put him to death.”
 
-The followers of Nebuchadnezzar massacred the inhabitants of Jerusalem, the priests and the people, old and young, women, and children who were attending school, even babies in the cradle. The feast of blood at last <span id="p361">[<sup><small>p. 361</small></sup>]</span> shocked even the leader of the hostile heathens, who ordered a stay of this wholesale murder. He then removed all the vessels of gold and silver from the Temple, and sent them by his ships, to Babel, after which he set the Temple on fire.
+The followers of Nebuchadnezzar massacred the inhabitants of Jerusalem, the priests and the people, old and young, women, and children who were attending school, even babies in the cradle. The feast of blood at last <span id="p361"><sup><small>[ p. 361 ]</small></sup></span> shocked even the leader of the hostile heathens, who ordered a stay of this wholesale murder. He then removed all the vessels of gold and silver from the Temple, and sent them by his ships, to Babel, after which he set the Temple on fire.
 
 The high priest donned his robe and ephod, and saying, “Now that the Temple is destroyed, no priest is needed to officiate,” threw himself into the flames and was consumed. When the other priests who were still alive witnessed this action, they took their harps and musical instruments and followed the example of the high priest. Those of the people whom the soldiers had not killed were bound in iron chains, burdened with the spoils of the victors, and carried into captivity. Jeremiah the prophet returned to Jerusalem and accompanied his unfortunate brethren, who went out almost naked. When they reached a place called Bet Kuro, Jeremiah obtained better clothing for them. And he spoke to Nebuchadnezzar and the Chaldeans, and said, “Think not that of your own strength you were able to overcome the people chosen of the Lord; 'tis their iniquities which have condemned them to this sorrow.”
 
@@ -878,7 +878,7 @@ Then said the officers of the captors, “These men are men of death; they refus
 
 But forth stepped Pelatya, the son of Yehoyadah, and thus he addressed Nebuchadnezzar:—
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 “Behold, if a flock is delivered into the hands of a shepherd, and a wolf steals a lamb from the flock, tell me, who is responsible to the owner of the lost animal?”
 
@@ -914,7 +914,7 @@ So Bar Kamtzah spoke treacherously of the Jews unto the king, saying, “The Jew
 
 “Send a sacrifice to their Temple and it will be rejected,” replied Bar Kamtzah.
 
-The ruler then sent a well-conditioned calf to be sacrificed for him in the Temple, but through the machinations <span id="p363">[<sup><small>p. 363</small></sup>]</span> of Bar Kamtzah the messenger inflicted a blemish upon it, and, of course, not being fit for the sacrifice it was not accepted.
+The ruler then sent a well-conditioned calf to be sacrificed for him in the Temple, but through the machinations <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> of Bar Kamtzah the messenger inflicted a blemish upon it, and, of course, not being fit for the sacrifice it was not accepted.
 
 Through this cause was Cæsar sent to capture Jerusalem, and for two years he besieged the city. Four wealthy citizens of Jerusalem had stored up enough food to last the inhabitants a much longer time than this, but the people being anxious to fight with the Romans, destroyed the storehouses and brought dire famine upon the city.
 
@@ -922,7 +922,7 @@ A certain noble lady, Miriam, the daughter of Baythus, sent her servant to purch
 
 “Their silver shall they cast into the streets.”
 
-After the destruction of the storehouses, Rabbi Jochanan in walking through the city saw the populace boiling straw in water and drinking of the same for sustenance. “Ah, woe is me for this calamity!” he exclaimed; “how can such a people strive against a mighty host?” He applied to Ben Batiach, his nephew, one of the chiefs of the city, for permission to leave Jerusalem. But Ben Batiach replied, “It may not be; no living body may leave the city.” “Take me out then as a corpse,” entreated Jochanan. Ben Batiach assented to this, and Jochanan was placed in a coffin and carried through the gates of the <span id="p364">[<sup><small>p. 364</small></sup>]</span> city; Rabbi Eleazer, Rabbi Joshua, and Ben Batiach acting as pall-bearers. The coffin was placed in a cave, and after they had all returned to their homes Jochanan arose from the coffin and made his way to the enemy's camp. He obtained from the commander permission to establish an academy in Jabna with Rabbon Gamliel as the principal.
+After the destruction of the storehouses, Rabbi Jochanan in walking through the city saw the populace boiling straw in water and drinking of the same for sustenance. “Ah, woe is me for this calamity!” he exclaimed; “how can such a people strive against a mighty host?” He applied to Ben Batiach, his nephew, one of the chiefs of the city, for permission to leave Jerusalem. But Ben Batiach replied, “It may not be; no living body may leave the city.” “Take me out then as a corpse,” entreated Jochanan. Ben Batiach assented to this, and Jochanan was placed in a coffin and carried through the gates of the <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> city; Rabbi Eleazer, Rabbi Joshua, and Ben Batiach acting as pall-bearers. The coffin was placed in a cave, and after they had all returned to their homes Jochanan arose from the coffin and made his way to the enemy's camp. He obtained from the commander permission to establish an academy in Jabna with Rabbon Gamliel as the principal.
 
 Titus soon captured the city, killed many of the people, and sent the others into exile. He entered the Temple, even in the Most Holy, and cut down the veil which separated it from the less sacred precincts. He seized the holy vessels, and sent them to Rome.
 
@@ -948,7 +948,7 @@ His death followed immediately his brave words.
 
 “My religion teaches me, ‘Thou shalt worship no other God,’ said the third son, ”and I welcome the fate accorded to my brothers rather than bow to thee or thy images.”
 
-The same homage was demanded of the fourth son, but brave and faithful as his brethren, he replied, “‘He that <span id="p365">[<sup><small>p. 365</small></sup>]</span> sacrificeth unto any God save unto the Lord only,’” and was slain pitilessly.
+The same homage was demanded of the fourth son, but brave and faithful as his brethren, he replied, “‘He that <span id="p365"><sup><small>[ p. 365 ]</small></sup></span> sacrificeth unto any God save unto the Lord only,’” and was slain pitilessly.
 
 “‘Hear, O Israel! the Lord our God, the Lord is One,’” exclaimed the fifth lad, yielding up his young life with the watchword of Israel's hosts.
 
@@ -972,7 +972,7 @@ Still the tyrant spoke smoothly, and with kind words.
 
 “See,” continued the other, “thy brothers lie slain before thee; their fate will be thine if thou refusest to do as I desire. See, I will cast my ring to the ground, stoop thou and pick it up; that I will consider allegiance to my gods.”
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 “Thinkest thou that I fear thy threats?” returned the unterrified lad; “why should I fear a human being more than the great God, the King of kings?”
 
@@ -998,7 +998,7 @@ She threw her arms around the lad, clasping him tightly to her bosom, and pressi
 
 “Nay,” he answered, scoffingly, “I cannot do it, for thy own laws forbid; ”Whether it be ox or sheep ye shall not kill it and its young in one day.”
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 “Oh, woe to thee,” replied the mother, “thou who art so particular to regard the laws.” Then pressing her boy to her heart, “Go, my dear one,” she said, “say to Abraham that my sacrifice hath exceeded his. He built one altar whereon to sacrifice Isaac; thy mother hath built seven altars and sacrificed seven Isaacs in one day. He was but tempted; thy mother hath performed.”
 
@@ -1016,7 +1016,7 @@ Moses displayed no love for study in his youth; a fact which grieved his father 
 
 While traveling, entirely friendless, Moses fell in with a learned Rabbi, and admired his wisdom and knowledge so much that he resolved to study zealously and emulate such attainments.
 
-Many years after this a new preacher was announced to lecture in the synagogue, at Cordova, upon a designated Sabbath. Numerous rumors of his wonderful learning and <span id="p368">[<sup><small>p. 368</small></sup>]</span> eloquence were rife, and all were anxious to hear him. In matter, delivery, earnestness, and effect, the sermon excelled all that the people had before listened to, and to the amazement of Maimonides the elder, and his sons, they recognized in the man all were eager to honor, their outcast relative.
+Many years after this a new preacher was announced to lecture in the synagogue, at Cordova, upon a designated Sabbath. Numerous rumors of his wonderful learning and <span id="p368"><sup><small>[ p. 368 ]</small></sup></span> eloquence were rife, and all were anxious to hear him. In matter, delivery, earnestness, and effect, the sermon excelled all that the people had before listened to, and to the amazement of Maimonides the elder, and his sons, they recognized in the man all were eager to honor, their outcast relative.
 
 The first commentary of Maimonides is upon the Mishna, and it concludes with these words:—
 
@@ -1032,7 +1032,7 @@ The king was grieved and surprised, and Maimonides, struck dumb with amazement, 
 
 “Death is the penalty for one who attempts to assassinate his ruler,” said the king. “Choose now the mode of thy punishment.”
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Moses asked for three days for consideration, which the king granted. During this time he prepared a certain mixture, and instructed his pupils to have it ready and apply it according to his directions, when be should be brought home senseless. He then appeared before the king, and desired to have his veins opened. The vital artery was missed, as he had anticipated, and the result was as he had foreseen. After his recovery, he fled from Egypt, taking refuge in a cave, where he wrote his _Fad Hazakah_ (the “Strong Hand”), consisting of fourteen divisions, typified by the word _Yad_, which also means fourteen.
 
@@ -1044,7 +1044,7 @@ Maimonides died at the age of seventy years, and his remains were interred at Ca
 
 During the reign of one of the bishops in Metz, there lived a Jew in that city, who was called Rabbi Amnon. He was of illustrious family, of great personal merit, rich and respected by the Bishop and the people. The Bishop frequently pressed him to abjure Judaism and embrace Christianity, but without the slightest avail. It happened, however, upon a certain day, being more closely pressed than usual, and somewhat anxious to be rid of the Bishop's importunities, he said hastily, “I will consider the subject, and give thee an answer in three days.”
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 As soon as he had left the Bishop's presence, however, his heart smote him, and an unquiet conscience blamed him for admitting, even in this manner, a doubt of the true faith. He reached home overwhelmed with grief; meat was set before him, but he refused to eat; and when his friends visited him and ascertained the cause of his low spirits, he refused their proffered consolation, saying, “I shall go down mourning to the grave for these words.” On the third day, while he was still lamenting his imprudent concession, the Bishop sent for him, but he refused to answer the call.
 
@@ -1062,7 +1062,7 @@ Rabbi Amnon bore all this with the greatest resignation, firmly hoping and trust
 
 His life after this was of course to be measured only by days. The Feast of the New Year came round, while he was living, and he desired to be carried to the synagogue. He was conveyed to the house of God, and during the service he requested to be allowed to utter a prayer. The words which proved to be his last were as follows:—
 
-“I will declare the mighty holiness of this day, for it is awful and tremendous. Thy kingdom is exalted thereon; <span id="p371">[<sup><small>p. 371</small></sup>]</span> Thy throne is established in mercy, and upon it Thou dost rest” in truth. Thou art the judge, who chastiseth, and from Thee naught may be concealed. Thou bearest witness, writest, sealest, recordest, and rememberest all things, aye, those which we imagine long buried in the past. The Book of Records thou openest; the great _shophar_ (cornet) is sounded; even the angels are terrified, and they cry aloud, “The Day of Judgment dawns upon us,” for in judgment they, the angels, are not faultless.
+“I will declare the mighty holiness of this day, for it is awful and tremendous. Thy kingdom is exalted thereon; <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> Thy throne is established in mercy, and upon it Thou dost rest” in truth. Thou art the judge, who chastiseth, and from Thee naught may be concealed. Thou bearest witness, writest, sealest, recordest, and rememberest all things, aye, those which we imagine long buried in the past. The Book of Records thou openest; the great _shophar_ (cornet) is sounded; even the angels are terrified, and they cry aloud, “The Day of Judgment dawns upon us,” for in judgment they, the angels, are not faultless.
 
 “All who have entered the world pass before Thee, Even as the shepherd causes the flock he numbers to pass under his crook, so Thou, O Lord, causest every living soul to pass before Thee. Thou numberest, Thou visitest; appointing the limitations of every creature, Thy judgment and Thy sentence.
 
@@ -1070,9 +1070,9 @@ His life after this was of course to be measured only by days. The Feast of the 
 
 When he had finished this declaration, in which he designed to acknowledge his sin and the justice of his punishment, Rabbi Amnon expired, dying fitly in God's house, among the assembled sons of Israel.
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

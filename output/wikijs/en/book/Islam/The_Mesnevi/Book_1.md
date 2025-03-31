@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ## I. The Prince and the Handmaid
 
@@ -62,7 +62,7 @@ Who finds a remedy to save her life,
 All promised marvels; each, to use his skill;
 To search the case; to ease the maiden's ill.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 “Each one of us has Jesu's[^58] healing power.
 Of all their ills we cure men every hour.”
@@ -95,7 +95,7 @@ We've erred again; do Thou in mercy lead.
 ’Tis Thy behest, to whom all thoughts are known,
 <sup id="v25"><small>25</small></sup>  That man with words approach Thy awful throne.”
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 His humble supplication proffered so,
 Sweet mercy's fount at once did overflow.
@@ -132,7 +132,7 @@ Their trains one column formed from mingling bands;
 The prince: “Would thou’dst my soul enslaved; not she!
 But here below effect a cause must see.
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 Be my Muhammed! I thy ‘Umar stand,
 With girded loins awaiting thy command.”
@@ -169,7 +169,7 @@ A ruthless robber is; he spoils his friends.
 He who is shameless in his words and deeds,
 Despair from disappointment is his meed.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 Yon orbs of heaven obey their Maker's word;
 The holy angels meekly serve the Lord.
@@ -209,7 +209,7 @@ Have detrimental been, no good produced.
 The case has been from first misunderstood.
 Protect us, Heaven! A blundering brotherhood!”
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 He saw her trouble; thence divined her ill.
 <sup id="v75"><small>75</small></sup>  Her secret kept he; hidden held it still.
@@ -248,7 +248,7 @@ On heart unless the soul-sun cast a ray,
 Can mind His glorious essence comprehend?
 His presence, then, to image who'll pretend?
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 Of poet's verse when God's the holy theme,
 Its minished head the sun may hide, ’twould seem.
@@ -284,7 +284,7 @@ The tale's most pleasant to a lover's ears,
 Speak, meddler, then, in plain, unvarnished guise;
 No subterfuge employ; deal not in lies.
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 The veil tear off, dissimulation lost:
 “When unadorned, beauty's adorned the most.”
@@ -320,7 +320,7 @@ So he whose foot is wounded with a thorn,
 With needle's point he seeks the intrusive dart;
 Not finding it, from lip he soothes the smart.
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 If thorn in foot is thus a task to find,
 Judge what must be a rankling pang of mind.
@@ -359,7 +359,7 @@ Till Samarqand's name made her cheeks to glow,
 Her pulse beat high, her colour went and came;
 Of goldsmith youth she there had been the flame.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 This point drawn forth,—this secret once confessed,
 More easily our leech the sequel guessed.
@@ -395,7 +395,7 @@ The maiden's grief had turn’d to sunny smiles.
 He leaves her then; seeks out the prince; and tells
 The news he'd learnt, the source of all her ills.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 “What's now to do?” the prince's care inquired;
 “Delay is dangerous; patience may grow tired.”
@@ -434,7 +434,7 @@ One trims the lampwick, still, to make it burn.
 The prince addressed him; bade him welcome there;
 <sup id="v170"><small>170</small></sup>  Mint-master nam’d him, treasurer, and mayor.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Our doctor once again his counsel gave:
 “The damsel to this youth for service leave.
@@ -473,7 +473,7 @@ For iv’ry pierced with weapons as he flies.
 To-day ’tis I; to-morrow ’twill be thou;
 Who'll be most loser? ’Tis not I, all know.
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 The shadow of a wall, ’tis true, is wide;
 The sun revolves; the shadow's turn'd aside.
@@ -506,7 +506,7 @@ He's God's vicegerent; acts in Heaven's room.
 As Ishmaël beneath his father's knife,[^67]
 <sup id="v200"><small>200</small></sup>  Do thou for such a prince lay down thy life;
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Thus may thy soul, in future blessed abode,
 Muhammed-like, in peace be with thy God.
@@ -540,7 +540,7 @@ A man God-fearing, and in God's full trust.
 A victim put to death by such a friend,
 <sup id="v215"><small>215</small></sup>  Is slain in error, or for some wise end.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Did not our God mean mercy in His wrath,
 How could the Lord of Mercies thunder forth?

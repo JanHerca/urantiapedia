@@ -36,7 +36,7 @@ THIRTY-FOURTH LECTURE. ON LÊ<i>S</i>YÂ [^548].
 
 I shall deliver in due order the Lecture on Lê<i>s</i>yâ; hear the nature of the six Lê<i>s</i>yâs (produced by) Karman. (1)
 
-<span id="p197">[<sup><small>p. 197</small></sup>]</span>
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 
 Hear 1. the names, 2. colours, 3. tastes, 4. smells, 5. touches, 6. degrees, 7. character, 8. variety, 9. duration, 10. result, and 11. life of the Lê<i>s</i>yâs. (2)
 
@@ -56,7 +56,7 @@ The white Lê<i>s</i>yâ has the colour of a conch-shell, the aṅka-stone [^555
 
 3\. The taste of the black Lê<i>s</i>yâ is infinitely more bitter than that of Tumbaka [^557], (the fruit of the) Nimb-tree [^558], or of Rôhi<i>n</i>î. (10)
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 The taste of the blue Lê<i>s</i>yâ is infinitely more pungent than Trika<i>t</i>uka [^559] and Hastipippalî. (11)
 
@@ -76,7 +76,7 @@ The smell of the three good Lê<i>s</i>yâs is infinitely more pleasant than tha
 
 The touch of the three good Lê<i>s</i>yâs is infinitely more pleasant than that of cotton, butter, or <i>S</i>irîsha-flowers [^562]. (19)
 
-6\. The degrees [^563] of the Lê<i>s</i>yâs are three, or nine, <span id="p199">[<sup><small>p. 199</small></sup>]</span> or twenty-seven, or eighty-one, or two hundred and forty-three. (20)
+6\. The degrees [^563] of the Lê<i>s</i>yâs are three, or nine, <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> or twenty-seven, or eighty-one, or two hundred and forty-three. (20)
 
 7\. A man who acts on the impulse of the five Âsravas [^564], does not possess the three Guptis, has not ceased to injure the six (kinds of living beings), commits cruel acts, is wicked and violent, is afraid of no consequences [^565], is mischievous and does not subdue his senses—a man of such habits develops the black Lê<i>s</i>yâ. (21, 22)
 
@@ -86,7 +86,7 @@ A man who is dishonest in words and acts, who is base, not upright, a dissembler
 
 A man who is humble, steadfast, free from deceit and inquisitiveness, well disciplined, restrained, attentive to his study and duties [^567], who loves the Law and keeps it, who is afraid of forbidden things and strives after the highest good—a man of such habits develops the red Lê<i>s</i>yâ. (27, 28)
 
-A man who has but little anger, pride, deceit, and greed, whose mind is at ease, who controls himself, <span id="p200">[<sup><small>p. 200</small></sup>]</span> who is attentive to his study and duties, who speaks but little, is calm, and subdues his senses—a man of such habits develops the yellow Lê<i>s</i>yâ. (29, 30)
+A man who has but little anger, pride, deceit, and greed, whose mind is at ease, who controls himself, <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> who is attentive to his study and duties, who speaks but little, is calm, and subdues his senses—a man of such habits develops the yellow Lê<i>s</i>yâ. (29, 30)
 
 A man who abstains from constant thinking about his misery and about sinful deeds, but engages in meditation on the Law and truth only [^568], whose mind is at ease, who controls himself, who practises the Samitis and Guptis, whether he be still subject to passion or free from passion, is calm, and subdues his senses—a man of such habits develops the white Lê<i>s</i>yâ. (31, 32)
 
@@ -102,7 +102,7 @@ Half a muhûrta is the shortest, and two Sâgarôpamâs plus one Palyôpamâ and
 
 Half a muhûrta is the shortest, and ten Sâgarôpamâs plus one muhûrta is the longest duration of the yellow Lê<i>s</i>yâ. (38)
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 Half a muhûrta is the shortest, and thirty-three Sâgarôpamâs plus one muhûrta is the longest duration of the white Lê<i>s</i>yâ. (39)
 
@@ -120,7 +120,7 @@ The duration of any of the Lê<i>s</i>yâs except the best (viz. white one) is l
 
 Half a muhûrta is the shortest duration of the white Lê<i>s</i>yâ (of animals and men), and the longest a Krore of former years [^573] less nine years. (46)
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 I have described the duration of the Lê<i>s</i>yâs of animals and men, I shall now describe that of the gods. (47)
 
@@ -140,7 +140,7 @@ The longest duration of the red Lê<i>s</i>yâ plus one Samaya is equal to the s
 
 The longest duration of the yellow Lê<i>s</i>yâ plus one Samaya is equal to the shortest of the white Lê<i>s</i>yâ; the longest, however, is thirty-three muhûrtas longer. (55)
 
-10\. The black, blue, and grey Lê<i>s</i>yâs are the <span id="p203">[<sup><small>p. 203</small></sup>]</span> lowest Lê<i>s</i>yâs; through them the soul is brought into miserable courses of life. (56)
+10\. The black, blue, and grey Lê<i>s</i>yâs are the <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> lowest Lê<i>s</i>yâs; through them the soul is brought into miserable courses of life. (56)
 
 The red, yellow, and white Lê<i>s</i>yâs are the good Lê<i>s</i>yâs; through them the soul is brought into happy courses of life. (57)
 

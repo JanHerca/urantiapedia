@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 _M_. II. 1. If one is reading [^97] \[the Shma‘\] in the Law and the time has come for reciting it, then if he reads with intention he has fulfilled the obligation \[of reciting the Shma‘\], but if not \[with intention\] he has not. And at the sections [^98] he may give a salutation out of respect \[to his friend\], and he may reply to a salutation given. And in
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 **M**.the middle \[of a section\] he may give it, out of fear \[of a superior\], and he may reply. This is the opinion of R. Meir. R. Judah says: In the middle he may give it out of fear, and may reply out of respect; and at the sections he may give it out of respect, and may give the usual response of “Peace” to any one. [^99]
 
@@ -47,7 +47,7 @@ _M_. II. 1. If one is reading [^97] \[the Shma‘\] in the Law and the time has 
 
 **M**.II. 2. This is what is meant by “between the sections,” viz.: between the first Benediction and the second; between the second and the Shma‘; [^101] between the Shma‘ and, “And it shall come to pass if ye hearken”; [^102] between “And it shall come to pass if ye hearken” and “And the LORD said”; [^103] between “And the LORD said” and “True and sure.” [^104] R. Judah says: One may not pause between “And the LORD said” and “True and sure.” [^105]
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 **M**.II. 3 (2 cont.). R. Joshua ben Qorcha [1](Berakoth_1_2#fn_106) said Why does the Shma‘ precede “And it shall come to pass if ye hearken”? So that a man may accept the yoke of the kingdom of Heaven [2](Berakoth_1_2#fn_107) first, and afterwards accept the yoke of commandments. \[Similarly\] “And it shall come to pass, if ye hearken” precedes “And the LORD said,” because “And it shall come to pass, if ye hearken,” applies both by day and by night, but “And the LORD said” applies by day only. [3](Berakoth_1_2#fn_108)
 
@@ -57,7 +57,7 @@ _M_. II. 1. If one is reading [^97] \[the Shma‘\] in the Law and the time has 
 
 4\. (3). He who recites the Shma‘ not loud enough for himself to hear has fulfilled his obligation. R. Jose [^109] says he has not. If he has recited without expressing the letters exactly, R. Jose says he has fulfilled his obligation. R. Judah says he has not. He who recites in an irregular order [^110] has not fulfilled his obligation. If he has recited and made a mistake he must return to the place where he made the mistake.
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 **T**.
 
@@ -67,7 +67,7 @@ _M_. II. 1. If one is reading [^97] \[the Shma‘\] in the Law and the time has 
 
 5\. He who is reciting the Shma‘ and makes a mistake and does not know where he made it, returns to the beginning of it. If he has made the mistake in the middle of the section [^115] he returns to the beginning of the section; if he has made the mistake between the first \[verse\] \[where\] “write” \[is said\] and the second, [^116] he returns to the first.
 
-6\. They who are engaged in writing books of Scripture, Tephillin, [^117] and Mezuzoth, [^118] break off <span id="p18">[<sup><small>p. 18</small></sup>]</span> their task for the recitation of the Shma‘, but do not break off for the Prayer. Rabbi says: Just as they do not break off for the Prayer, so they do not break off for the recitation of the Shma. R. Chananiah ben Aqabia [^119] says: Just as they break off for the recitation of the Shma, so they break off for the Prayer. R. Eleazar bar Zadoq said that when Rabban Gamaliel and his court of justice [^120] were at Jabneh they were busy with the needs of the congregation, \[and\] did not break off for fear of failing in attention to the subject before them.
+6\. They who are engaged in writing books of Scripture, Tephillin, [^117] and Mezuzoth, [^118] break off <span id="p18"><sup><small>[ p. 18 ]</small></sup></span> their task for the recitation of the Shma‘, but do not break off for the Prayer. Rabbi says: Just as they do not break off for the Prayer, so they do not break off for the recitation of the Shma. R. Chananiah ben Aqabia [^119] says: Just as they break off for the recitation of the Shma, so they break off for the Prayer. R. Eleazar bar Zadoq said that when Rabban Gamaliel and his court of justice [^120] were at Jabneh they were busy with the needs of the congregation, \[and\] did not break off for fear of failing in attention to the subject before them.
 
 7\. A porter—although the burden is on his shoulders—behold such a man recites \[the Shma‘\]. But at the time that he is unloading and loading he does not recite (it), for his mind is not settled between one and the other. He should not pray (the Prayer) until the time that he unloads. [^121]
 
@@ -77,7 +77,7 @@ _M_. II. 1. If one is reading [^97] \[the Shma‘\] in the Law and the time has 
 
 II. 5 (4). Workmen may recite \[the Shma‘\] on the top of a tree, or on the top of a scaffold, although they are not free to do so in the Prayer. [^122]
 
-**T**. II. 8. Labourers recite the Shma‘ if they are in the top of a tree, and they say the Prayer if they are in the top of an olive—tree, and in the top of a <span id="p19">[<sup><small>p. 19</small></sup>]</span> fig-tree. [^123] But in the case of all other trees, they come down and then say the Prayer. The owner of the house in either case comes down and says the Prayer. [^124]
+**T**. II. 8. Labourers recite the Shma‘ if they are in the top of a tree, and they say the Prayer if they are in the top of an olive—tree, and in the top of a <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> fig-tree. [^123] But in the case of all other trees, they come down and then say the Prayer. The owner of the house in either case comes down and says the Prayer. [^124]
 
 9\. Labourers recite the Shma‘, and say the Benedictions before it and after it [^125] They eat their food and say Benedictions before and after. [^126] They say the Eighteen Benedictions three times, [^127] but we do not let them go down in front of the Ark \[to say prayers for others\]. [^128]
 
@@ -85,7 +85,7 @@ II. 5 (4). Workmen may recite \[the Shma‘\] on the top of a tree, or on the to
 
 ## A Bridegroom and the Shma‘. Gamaliel.
 
-M.II. 6 (5 _cont_.). A bridegroom is exempt from reciting the Shma‘ on the first night, and until the Sabbath is over, if he has not consummated the marriage. [^129] \[Connected with this is\] an incident in the life of Rabban Gamaliel, who married and recited the Shma‘ on the night he married. They said to him: Didst thou not teach us that a bridegroom is exempt from reciting the Shma‘ on the first night? He said to them: I will not listen to you, <span id="p20">[<sup><small>p. 20</small></sup>]</span> that I should resign the kingdom of heaven, for a single hour. [^130]
+M.II. 6 (5 _cont_.). A bridegroom is exempt from reciting the Shma‘ on the first night, and until the Sabbath is over, if he has not consummated the marriage. [^129] \[Connected with this is\] an incident in the life of Rabban Gamaliel, who married and recited the Shma‘ on the night he married. They said to him: Didst thou not teach us that a bridegroom is exempt from reciting the Shma‘ on the first night? He said to them: I will not listen to you, <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> that I should resign the kingdom of heaven, for a single hour. [^130]
 
 **T**. I. 3. Bridegrooms and all who are occupied with fulfilling (other) commandments are free from the duty of reciting the Shma‘. For it is said: _When thou sittest in thine house_, [^131] which excludes those who are occupied with fulfilling commandments. _And when thou walkest in the way_ [^132] excludes bridegrooms.
 
@@ -95,7 +95,7 @@ II. 10. The groomsmen [^133] and all the marriage guests [^134] are free from th
 
 ## Gamaliel: Other Incidents of his Infraction of Traditional Teaching.
 
-**M**.II. 7 (6). He bathed the first night after the death of his wife. They said to him: Didst thou not teach us, that a mourner is forbidden to bathe? <span id="p21">[<sup><small>p. 21</small></sup>]</span> **M**.He said to them: I am not like all other men; [^136] I am weakly. [^137]
+**M**.II. 7 (6). He bathed the first night after the death of his wife. They said to him: Didst thou not teach us, that a mourner is forbidden to bathe? <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> **M**.He said to them: I am not like all other men; [^136] I am weakly. [^137]
 
 II. 8 (7 _cont_.). And when his slave Tabi died he accepted condolence [^138] for him. They said to him: Didst thou not teach us, that men do not accept condolence for slaves? He said to them: My slave Tabi was not like all other slaves; he was a worthy man.
 

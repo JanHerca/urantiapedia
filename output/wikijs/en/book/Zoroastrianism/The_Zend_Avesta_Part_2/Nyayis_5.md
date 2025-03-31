@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:15:34Z
 
 4 [^1540]. May Ahura Mazda be rejoiced! . . . .
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 Hail unto thee, O Fire, son of Ahura Mazda, thou beneficent and most great Yazata!
 
@@ -64,7 +64,7 @@ Be propitiation, with sacrifice, prayer, propitiation, and glorification.
 
 Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
-7 [^1543]. I bless the sacrifice and invocation, and the <span id="p359">[<sup><small>p. 359</small></sup>]</span> good offering, the beneficent offering, the offering of assistance offered unto thee, O Âtar, son of Ahura Mazda!
+7 [^1543]. I bless the sacrifice and invocation, and the <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> good offering, the beneficent offering, the offering of assistance offered unto thee, O Âtar, son of Ahura Mazda!
 
 Thou art worthy of sacrifice and invocation; mayest thou receive the sacrifice and the invocation in the houses of men.
 
@@ -80,7 +80,7 @@ Mayest thou be full-grown for protecting (this house)! Mayest thou grow excellen
 
 Knowledge, sagacity; quickness of tongue; (holiness of) soul; a good memory; and then the understanding that goes on growing and the one that is not acquired through learning [^1547];
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 And then the manly courage,
 
@@ -98,7 +98,7 @@ May I obtain the good reward, a good renown [^1549], and long cheerfulness for m
 
 We sacrifice unto Âtar, the valiant warrior [^1553].
 
-15\. And if the passer-by brings him wood holily brought, or bundles of baresma holily tied up, or <span id="p361">[<sup><small>p. 361</small></sup>]</span> twigs of Hadhânaêpata [^1554] then Âtar, the son of Ahura Mazda, well pleased with him and not angry, and fed as required, will thus bless him:
+15\. And if the passer-by brings him wood holily brought, or bundles of baresma holily tied up, or <span id="p361"><sup><small>[ p. 361 ]</small></sup></span> twigs of Hadhânaêpata [^1554] then Âtar, the son of Ahura Mazda, well pleased with him and not angry, and fed as required, will thus bless him:
 
 16\. ‘May herds of oxen grow for thee, and increase of sons; may thy mind be master of its vow, may thy soul be master of its vow, and mayest thou live on in the joy of the soul all the nights of thy life.’
 

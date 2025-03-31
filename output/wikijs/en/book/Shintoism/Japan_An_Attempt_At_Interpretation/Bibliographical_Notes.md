@@ -30,7 +30,7 @@ dateCreated: 2025-2-12T12:5:7Z
 </figure>
 
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 \—IN the preparation of this essay, I have been much indebted to the _Transactions of the Asiatic Society of Japan_, and especially to the following contributions:—
 
@@ -60,7 +60,7 @@ dateCreated: 2025-2-12T12:5:7Z
 
 “The Arima Rebellion,” by Dr. Geertz,—Vol. IX.
 
-<span id="p487">[<sup><small>p. 487</small></sup>]</span>
+<span id="p487"><sup><small>[ p. 487 ]</small></sup></span>
 
 (ON JAPANESE HISTORY AND SOCIOLOGY)
 

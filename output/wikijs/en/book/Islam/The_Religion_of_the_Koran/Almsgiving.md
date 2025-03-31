@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 CHAPTER II., Verse 211.—They will ask thee what they are to expend in alms: say, “Whatsoever good ye expend it should be for parents and kinsmen, and the orphan and the poor, and the son of the road; and whatsoever good ye do, verily, of it God knows!”
 
@@ -44,7 +44,7 @@ Those who expend their wealth in God's way then do not follow up what they expen
 
 (265).—Kind speech and pardon are better than almsgiving, followed by annoyance, and God is rich and clement.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 O ye who believe! make not your almsgiving vain by taunts and annoyance, like him who expends what he has for the sake of appearances before men, and believes not in God and the last day; for his likeness is as the likeness of a flint with soil upon it, and a heavy shower falls on it and leaves it bare rock; they can do nought with what they earn, for God guides not the misbelieving folk.
 

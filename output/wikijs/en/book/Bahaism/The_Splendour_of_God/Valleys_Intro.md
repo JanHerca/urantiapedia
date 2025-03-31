@@ -32,7 +32,7 @@ dateCreated: 2025-2-4T22:17:56Z
   </table>
 </figure>
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 ## THE SEVEN VALLEYS
 
@@ -42,7 +42,7 @@ Let us wander, if you will, for a little time, with him in “The Seven Valleys,
 
 It begins thus
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 “_In the Name of God, the Compassionate, the Merciful_.
 
@@ -50,7 +50,7 @@ Praise be unto God, who caused existence to appear from non-existence, inscribed
 
 _Peace be unto those who follow guidanc_e.”
 
-It must be remarked that "the stages of the journey of travellers from the earthly dwelling to the Divine House have been designated to be Seven; some have spoken of these as ‘Seven <span id="p54">[<sup><small>p. 54</small></sup>]</span> Valleys’ . . . and they have said, ‘Not until the traveller migrates from self and accomplishes these journeys, will he arrive at the sea of nearness and union.’
+It must be remarked that "the stages of the journey of travellers from the earthly dwelling to the Divine House have been designated to be Seven; some have spoken of these as ‘Seven <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> Valleys’ . . . and they have said, ‘Not until the traveller migrates from self and accomplishes these journeys, will he arrive at the sea of nearness and union.’
 
 <figure class="table chapter-navigator">
   <table>

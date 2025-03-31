@@ -36,7 +36,7 @@ TWENTY-SEVENTH LECTURE. THE BAD BULLOCKS.
 
 There was a Sthavira and Ga<i>n</i>adhara [^386], the learned sage Garga. This leader of the Ga<i>n</i>a once made the following reflections: (1)
 
-‘He who rides in a car, crosses a wilderness; he <span id="p150">[<sup><small>p. 150</small></sup>]</span> who rides, as it were, in (the car of) religious exercise, crosses the Sa<i>m</i>sâra. (2)
+‘He who rides in a car, crosses a wilderness; he <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> who rides, as it were, in (the car of) religious exercise, crosses the Sa<i>m</i>sâra. (2)
 
 ‘But he who puts bad bullocks [^387] before his car, will be tired out with beating them; he will feel vexation, and his goad will be broken (at last). (3)
 
@@ -50,7 +50,7 @@ There was a Sthavira and Ga<i>n</i>adhara [^386], the learned sage Garga. This l
 
 ‘Just as bad bullocks are when put before a car, so are bad pupils when yoked, as it were, to the car of the Law; they break down through want of zeal. (8)
 
-‘Some attach great importance [^391] to their success; <span id="p151">[<sup><small>p. 151</small></sup>]</span> some to their good fare; some to their comfort; some nurse their anger. (9)
+‘Some attach great importance [^391] to their success; <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> some to their good fare; some to their comfort; some nurse their anger. (9)
 
 ‘Some are averse to begging; some are afraid of insults and are stuck up; (how can) I convince them by reasons and arguments [^392] (?) (10)
 
@@ -66,7 +66,7 @@ Now this driver (viz. Garga), who had to deal with bad bullocks, thought: 'What 
 
 ‘As are bad pupils, so are bad bullocks; I shall leave these lazy donkeys, and shall practise severe austerities.’ (16)
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 That noble man, who was full of kindness, grave, and always meditating, wandered about on the earth, leading a virtuous life. (17)
 

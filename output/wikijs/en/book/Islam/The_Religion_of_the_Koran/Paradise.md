@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 CHAPTER III., Verse 14.—Say, “But shall we tell you of a better thing than this?” For those who fear are gardens with their Lord, beneath which rivers flow; they shall dwell therein for aye, and pure wives and grace from God.
 
@@ -42,7 +42,7 @@ Chapter IV., Verse 123.—But he who doeth good works—be it male or female—a
 
 Chapter VII., Verse 44.—And betwixt the two there is a veil,…
 
-But the Fellows of the Fire shall cry out to the Fellows of Paradise, “Pour out upon us water, or something of what God has provided you with.” They will say, “God has prohibited them both to those who misbelieve; who took their religion for a sport and a play; whom the life of the world beguiled!” To-day do we forget them as <span id="p44">[<sup><small>p. 44</small></sup>]</span> they forgot the meeting of this day, and for that they did deny our signs!
+But the Fellows of the Fire shall cry out to the Fellows of Paradise, “Pour out upon us water, or something of what God has provided you with.” They will say, “God has prohibited them both to those who misbelieve; who took their religion for a sport and a play; whom the life of the world beguiled!” To-day do we forget them as <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> they forgot the meeting of this day, and for that they did deny our signs!
 
 Chapter IX., Verse 73.—God has promised to believers, men and women, gardens beneath which rivers flow, to dwell therein for aye; and goodly places in the garden of Eden, but good-will from God is the greatest of all! that is the mighty happiness!
 
@@ -50,7 +50,7 @@ Chapter XIII., Verse 20.—Those who fulfil God's covenant and break not the com
 
 Chapter XVIII., Verse 30.—These, for them are gardens of Eden; beneath them rivers flow; they shall be adorned therein with bracelets of gold, and shall wear green robes of silk, and of brocade; reclining therein on thrones; pleasant is the reward, and goodly the couch!
 
-Chapter XXXV., Verse 30.—Gardens of Eden shall they enter, adorned therein with bracelets of gold and pearls; and their garments therein shall be silk; and they shall say, “Praise belongs to God, who has removed from us our grief, <span id="p45">[<sup><small>p. 45</small></sup>]</span> verily, our Lord is forgiving, grateful! who has made us alight in an enduring abode of His grace, wherein no toil shall touch us, and there shall touch us no fatigue.”
+Chapter XXXV., Verse 30.—Gardens of Eden shall they enter, adorned therein with bracelets of gold and pearls; and their garments therein shall be silk; and they shall say, “Praise belongs to God, who has removed from us our grief, <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> verily, our Lord is forgiving, grateful! who has made us alight in an enduring abode of His grace, wherein no toil shall touch us, and there shall touch us no fatigue.”
 
 Chapter XXXVI., Verse 55.—Verily, the Fellows of Paradise upon that day shall be employed in enjoyment; they and their wives, in shade upon thrones, reclining; therein shall they have fruits, and they shall have what they may call for. “Peace!” a speech from the merciful Lord!
 
@@ -60,7 +60,7 @@ Chapter XL., Verse 44.—And whoso does right, be it male or female and a believ
 
 Chapter XLIV., Verse 51.—Verily, the pious shall be in a safe place! in gardens and springs, they shall be clad in satin and stout silk, face to face—Thus!—and we will wed them to bright and large-eyed maids! (55) They shall call therein for every fruit in safety. They shall not taste therein of death save their first death, and We will keep them from the torment of Hell! Grace from thy Lord, that is the grand bliss!
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Chapter LVI., Verse (10).
 
@@ -106,7 +106,7 @@ And beds upraised!
 
 Verily, we have produced them a production; (35) And made them virgins, darlings of equal age (with their spouses) for the fellows of the right! A crowd of those of yore and a crowd of those of the latter day!
 
-Chapter LXXVI., Verse 11.—And God will <span id="p47">[<sup><small>p. 47</small></sup>]</span> guard them from the evil of that day and will cast on them brightness and joy; and their reward for their patience shall be Paradise and silk! reclining therein upon couches, they shall neither see therein sun nor piercing cold; and close down upon them shall be its shadows; and lowered over them its fruits to cull; (15) and they shall be served round with vessels of silver and goblets that are as flagons—flagons of silver—which they shall mete out! And they shall drink therein a cup tempered with ginger, a spring therein named Silsabil! and there shall go round about them eternal boys; when thou seest them thou wilt think them scattered pearls; (20) and when thou seest them thou shalt see pleasure and a great estate! On them shall be garments of green embroidered satin and brocade, and they shall be adorned with bracelets of silver; and their Lord shall give them to drink pure drink! Verily, this is a reward for you, and your efforts are thanked.
+Chapter LXXVI., Verse 11.—And God will <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> guard them from the evil of that day and will cast on them brightness and joy; and their reward for their patience shall be Paradise and silk! reclining therein upon couches, they shall neither see therein sun nor piercing cold; and close down upon them shall be its shadows; and lowered over them its fruits to cull; (15) and they shall be served round with vessels of silver and goblets that are as flagons—flagons of silver—which they shall mete out! And they shall drink therein a cup tempered with ginger, a spring therein named Silsabil! and there shall go round about them eternal boys; when thou seest them thou wilt think them scattered pearls; (20) and when thou seest them thou shalt see pleasure and a great estate! On them shall be garments of green embroidered satin and brocade, and they shall be adorned with bracelets of silver; and their Lord shall give them to drink pure drink! Verily, this is a reward for you, and your efforts are thanked.
 
 Chapter LXXVIII., Verse 31.—Verily, for the pious is a blissful place—gardens and vineyards, and girls with swelling breasts of the same age as themselves, and a brimming cup; (35) they shall hear therein no folly and no lie—a reward from thy Lord, a sufficient gift!
 

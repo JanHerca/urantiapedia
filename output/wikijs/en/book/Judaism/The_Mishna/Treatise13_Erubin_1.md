@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 1. Should an entry be higher than twenty amoth, \[its height\] must be lessened \[by lowering the cross-beam\]. R. Jehudah saith, “This is not necessary; should it be wider than ten amoth \[its width\] must be lessened; but if it has tine form \[appearance\] of a door \[gate\], even though it be wider than ten amoth, it is not necessary to lessen \[its width\].”
 
-§ 2. To legalize \[the carrying or conveying within\] an entry \[to a place inclosed on three sides\], Beth Shammai hold, “\[that\] a post and a beam \[are required\];” but Beth Hillel hold, “\[that either\] post or beam \[is sufficient\];” R. Eleazar saith, “two posts.” On the authority of R. Ishmael, a disciple stated before R. Akivah “Beth Shammai and Beth Hillel did not differ \[in opinion\] as to an <span id="p72">[<sup><small>p. 72</small></sup>]</span> entry less than four amoth wide, \[for they both agreed that\] such \[an entry\] becomes legalized either through a beam or a post.” On what did they differ? \[Respecting\] entries upwards of four amoth wide, and up to ten amoth: of these Beth Shammai hold, “that a post and a beam are required;” while Beth Hillel hold, “\[that either\] post or beam \[is sufficient\].” R. Akivah said, “They differ as to the one and as to the other.”
+§ 2. To legalize \[the carrying or conveying within\] an entry \[to a place inclosed on three sides\], Beth Shammai hold, “\[that\] a post and a beam \[are required\];” but Beth Hillel hold, “\[that either\] post or beam \[is sufficient\];” R. Eleazar saith, “two posts.” On the authority of R. Ishmael, a disciple stated before R. Akivah “Beth Shammai and Beth Hillel did not differ \[in opinion\] as to an <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> entry less than four amoth wide, \[for they both agreed that\] such \[an entry\] becomes legalized either through a beam or a post.” On what did they differ? \[Respecting\] entries upwards of four amoth wide, and up to ten amoth: of these Beth Shammai hold, “that a post and a beam are required;” while Beth Hillel hold, “\[that either\] post or beam \[is sufficient\].” R. Akivah said, “They differ as to the one and as to the other.”
 
 § 3. The beam in question must be wide enough to receive an ‏אריח‎, which is half of a brick, three hands in length and in width; it is, however, sufficient that the beam be one hand wide, so as to hold a half brick lengthwise.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 8. Should a caravan encamp in a valley, and a fence be made around it with the cattle's gear, it is lawful to move things within the fence \[on the day of rest\]; provided always that the fence be ten hands high, and the gaps \[open spaces\] therein, do not exceed \[in extent\] the actual fencing. Every gap \[avenue\] which is about ten hands \[wide\], is permitted; for it is considered as a door \[gate\], \[hut gaps which are\] more than ten hands wide are prohibited.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 § 9. \[The caravan may also be\] fenced round with three ropes, one above the other; provided always there be between each rope less than three hands \[interspace\], and that the measure \[width or thickness\] of the three ropes \[together\] exceed one hand, so that the whole make up \[the\] ten hands.
 

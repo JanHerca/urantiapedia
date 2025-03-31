@@ -43,7 +43,7 @@ dateCreated: 2025-1-16T20:40:26Z
 
 <small>The emanations of Self-willed squeeze the light-powers out of Sophia.</small>
 
-“This then thinking, she went forth from her own region, the thirteenth æon, and went down to the twelve æons. The rulers of the æons pursued her and were enraged against her, because she had thought of grandeur. And she <span id="p37">[<sup><small>p. 37</small></sup>]</span> went forth also from the twelve æons, and came into the regions of the chaos and drew nigh to that lion-faced light-power to devour it. But all **(47)** the material emanations of Self-willed surrounded her, and the great lion-faced light-power devoured all the light-powers in Sophia and cleaned out her light and devoured it, and her matter was thrust into the chaos; it became a lion-faced ruler in the chaos, of which one half is fire and the other darkness,—that is Yaldabaōth, of whom I have spoken unto you many times. When then this befell, Sophia became very greatly exhausted, and that lion-faced light-power set to work to take away from Sophia all her light-powers, and all the material powers of Self-willed surrounded Sophia at the same time and pressed her sore.
+“This then thinking, she went forth from her own region, the thirteenth æon, and went down to the twelve æons. The rulers of the æons pursued her and were enraged against her, because she had thought of grandeur. And she <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> went forth also from the twelve æons, and came into the regions of the chaos and drew nigh to that lion-faced light-power to devour it. But all **(47)** the material emanations of Self-willed surrounded her, and the great lion-faced light-power devoured all the light-powers in Sophia and cleaned out her light and devoured it, and her matter was thrust into the chaos; it became a lion-faced ruler in the chaos, of which one half is fire and the other darkness,—that is Yaldabaōth, of whom I have spoken unto you many times. When then this befell, Sophia became very greatly exhausted, and that lion-faced light-power set to work to take away from Sophia all her light-powers, and all the material powers of Self-willed surrounded Sophia at the same time and pressed her sore.
 
 ## CHAPTER 32
 
@@ -55,7 +55,7 @@ dateCreated: 2025-1-16T20:40:26Z
 
 “‘2. I gazed, O Light, into the lower parts and saw there a light. thinking: I will go to that region, in order that I may take that light. And I went and found myself in the darkness which is in the chaos below, and I could no more speed thence and go to my region, for I was sore pressed by all the emanations of Self-willed, and the lion-faced power took away my light in me.
 
-“‘3. And I cried for help, but my voice hath not reached out of the darkness. And I looked <span id="p38">[<sup><small>p. 38</small></sup>]</span> unto the height, that the Light, in which I had had faith, might help me.
+“‘3. And I cried for help, but my voice hath not reached out of the darkness. And I looked <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> unto the height, that the Light, in which I had had faith, might help me.
 
 “‘4. And when I looked unto the height, I saw all the rulers of the æons, how in their numbers they looked down on me and rejoiced over me, though I had done them no ill; but they hated me without a cause. And when the emanations of Self-willed saw the rulers of the æons rejoicing over me, they knew that the rulers of the æons would not come to my aid; and those emanations which sore pressed me with violence, took courage, and the light which I had not taken from them, they have taken from me.
 
@@ -71,7 +71,7 @@ dateCreated: 2025-1-16T20:40:26Z
 
 “‘10. And all the rulers of the æons mocked me.
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 “‘11. And I was in that region, mourning and seeking after the light which I had seen in the height.
 
@@ -91,7 +91,7 @@ dateCreated: 2025-1-16T20:40:26Z
 
 “‘19. Save me because of the rulers who hate me, for thou knowest my sore oppression and my torment and the torment of my power which they have taken from me. They who have set me in all this evil are before thee; deal with them according to thy good pleasure.
 
-“‘20. My power looked forth from the midst <span id="p40">[<sup><small>p. 40</small></sup>]</span> of the chaos and from the midst of the darkness, and I waited for my pair, that he should come and fight for me, and he came not, and I looked that he should come and lend me power, and I found him not.
+“‘20. My power looked forth from the midst <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> of the chaos and from the midst of the darkness, and I waited for my pair, that he should come and fight for me, and he came not, and I looked that he should come and lend me power, and I found him not.
 
 “‘21. And when I sought the light, they gave me darkness; and when I sought my power, they gave me matter.
 
@@ -105,7 +105,7 @@ dateCreated: 2025-1-16T20:40:26Z
 
 “‘26. But when thou hadst by thy command brought me low, they pursued me the more, and their emanations added pain to my humiliation.
 
-“‘27. And they have taken light-power from me and fallen again to pressing me sore, in order to take away all the light in me. Because of this in which they have set me, let them not <span id="p41">[<sup><small>p. 41</small></sup>]</span> ascend to the thirteenth æon, the region of Righteousness.
+“‘27. And they have taken light-power from me and fallen again to pressing me sore, in order to take away all the light in me. Because of this in which they have set me, let them not <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> ascend to the thirteenth æon, the region of Righteousness.
 
 “‘28. But let them not be reckoned in the lot of those who purify themselves and the light, and let them not be reckoned with those who will quickly repent, that they may quickly receive mysteries in the Light.
 
@@ -127,7 +127,7 @@ dateCreated: 2025-1-16T20:40:26Z
 
 ## CHAPTER 33
 
-It came to pass then, when Jesus had spoken <span id="p42">[<sup><small>p. 42</small></sup>]</span> these words unto his disciples, that he said unto them: “This is the song of praise which Pistis Sophia uttered in her first repentance, repenting of her sin, and reciting all which had befallen her. Now, therefore: ‘Who hath ears to hear, let him hear.’”
+It came to pass then, when Jesus had spoken <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> these words unto his disciples, that he said unto them: “This is the song of praise which Pistis Sophia uttered in her first repentance, repenting of her sin, and reciting all which had befallen her. Now, therefore: ‘Who hath ears to hear, let him hear.’”
 
 Mary again came forward and said: "My Lord, my indweller of light hath ears, and I hear with my light-power, and thy spirit which is with me, hath sobered me. Hearken then that I may speak concerning the repentance which Pistis Sophia hath uttered, speaking of **(53)** her sin and all that befell her. Thy light-power hath prophesied thereof aforetime through the prophet David in the sixty-eighth Psalm:
 
@@ -147,7 +147,7 @@ Mary again came forward and said: "My Lord, my indweller of light hath ears, and
 
 “‘7. For thy sake have I endured shame; shame hath covered my face.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 “‘8. I am become a stranger to my brethren, a stranger unto the sons of my mother.
 
@@ -175,7 +175,7 @@ Mary again came forward and said: "My Lord, my indweller of light hath ears, and
 
 “‘20. My heart awaiteth disgrace and misery; I waited for him who should sorrow with me, but I could not come at him, and for him who should comfort me, and I found him not.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 “‘21. They gave me gall for my meat; and in my thirst they gave me vinegar to drink.
 
@@ -207,7 +207,7 @@ Mary again came forward and said: "My Lord, my indweller of light hath ears, and
 
 “‘35. For God will save Zion, and the cities of Judæa will be built up, and they will dwell there and inherit it.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 “‘36. The seed of his servants shall possess it, and they who love his name shall dwell therein.’”
 
@@ -235,7 +235,7 @@ Jesus continued again in the discourse and said: "Pistis Sophia again continued 
 
 “‘6. And I have had faith in it from the time when it emanated me, and thou thyself didst make me to emanate; and I have had faith in thy light from the beginning.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 “‘7. And when I had faith in thee, the rulers of the æons mocked at me, saying: She hath ceased in her mystery. Thou art **(57)** my saviour and thou art my deliverer and thou art my mystery, O Light.
 
@@ -259,7 +259,7 @@ It came to pass then, when Jesus had finished speaking these words unto his disc
 
 <small>Peter complaineth of Mary.</small>
 
-And Peter started forward and said unto Jesus: <span id="p47">[<sup><small>p. 47</small></sup>]</span> “My Lord, we will not endure this woman, for she taketh the opportunity from us and hath let none of us speak, but she discourseth many times.”
+And Peter started forward and said unto Jesus: <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> “My Lord, we will not endure this woman, for she taketh the opportunity from us and hath let none of us speak, but she discourseth many times.”
 
 And Jesus answered and said unto his disciples: “Let him in whom the power of his spirit shall seethe, so that he understandeth what I say, **(58)**come forward and speak. But now, Peter, I see thy power in thee, that it understandeth the solution of the mystery of the repentance which Pistis Sophia hath uttered. Now, therefore, Peter, speak the thought of her repentance in the midst of thy brethren.”
 
@@ -279,7 +279,7 @@ And Peter answered and said unto Jesus "O Lord, give ear that I may speak the th
 
 “‘6. I have trusted myself to thee from my mother's womb; thou hast brought me out of my mother's womb. My remembrance is ever in thee.
 
-“‘7. I have become as the crazy for many; **(59)** <span id="p48">[<sup><small>p. 48</small></sup>]</span> thou art my help and my strength, thou art my deliverer, O Lord.
+“‘7. I have become as the crazy for many; **(59)** <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> thou art my help and my strength, thou art my deliverer, O Lord.
 
 “‘8. My mouth was filled with glorifying, that I may praise the glory of thy splendour the whole day long.
 
@@ -299,7 +299,7 @@ And Peter answered and said unto Jesus "O Lord, give ear that I may speak the th
 
 <small>Jesus promiseth to perfect the disciples in all things.</small>
 
-The Saviour answered and said unto Peter: "Finely, Peter; this is the solution of her. repentance. Blessed are ye before all men on the earth, because I have revealed unto you these mysteries. Amēn, amēn, I say unto you: **(60)** I will perfect you in all fulness from the mysteries of the interior to the mysteries of the exterior and fill you with the spirit, so that ye shall be called ‘spiritual, perfected in all fulness.’ And, amēn, amēn, I say unto you: I will give unto you all the mysteries of all the regions of my Father and of all the regions of the First Mystery, so that he whom ye shall admit on earth, shall be admitted into the Light of the height; and he whom ye shall expel on earth, shall be expelled from the kingdom of my Father in the heaven. But hearken, therefore, and give ear attentively <span id="p49">[<sup><small>p. 49</small></sup>]</span> to all the repentances which Pistis Sophia hath uttered. She continued again and uttered the third repentance, saying:
+The Saviour answered and said unto Peter: "Finely, Peter; this is the solution of her. repentance. Blessed are ye before all men on the earth, because I have revealed unto you these mysteries. Amēn, amēn, I say unto you: **(60)** I will perfect you in all fulness from the mysteries of the interior to the mysteries of the exterior and fill you with the spirit, so that ye shall be called ‘spiritual, perfected in all fulness.’ And, amēn, amēn, I say unto you: I will give unto you all the mysteries of all the regions of my Father and of all the regions of the First Mystery, so that he whom ye shall admit on earth, shall be admitted into the Light of the height; and he whom ye shall expel on earth, shall be expelled from the kingdom of my Father in the heaven. But hearken, therefore, and give ear attentively <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> to all the repentances which Pistis Sophia hath uttered. She continued again and uttered the third repentance, saying:
 
 <small>The third repentance of Sophia.</small>
 
@@ -321,7 +321,7 @@ And it came to pass, when Jesus had finished speaking these words unto his disci
 
 It came to pass then, before Jesus had finished speaking, that Martha came forward, fell down at his feet, kissed them, cried aloud and wept with lamentation and in humbleness, saying: “My Lord, have mercy upon me and have compassion with me, and let me speak the solution of the repentance which Pistis Sophia hath uttered.”
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 And Jesus gave his hand unto Martha and said unto her: “Blessed is every one who humbleth himself, for on him they shall have mercy. Now, therefore, Martha, art thou blessed. But proclaim then the solution of the thought of the repentance of Pistis Sophia.”
 
@@ -345,7 +345,7 @@ And Martha answered and said unto Jesus in the midst of the disciples: "Concerni
 
 It came to pass then, when Jesus had heard Martha speak these words, that he said unto her: “Well said, Martha, and finely.”
 
-And Jesus continued again in the discourse and said unto his disciples: "Pistis Sophia again continued in the fourth repentance, reciting it before she was oppressed a second time, in order that the lion-faced power and **(63)** all the material emanations with it, which Self-willed <span id="p51">[<sup><small>p. 51</small></sup>]</span> had sent into the chaos, might not take away her total light in her. She uttered then this repentance as follows:
+And Jesus continued again in the discourse and said unto his disciples: "Pistis Sophia again continued in the fourth repentance, reciting it before she was oppressed a second time, in order that the lion-faced power and **(63)** all the material emanations with it, which Self-willed <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> had sent into the chaos, might not take away her total light in her. She uttered then this repentance as follows:
 
 <small>The fourth repentance of Sophia.</small>
 
@@ -369,7 +369,7 @@ And Jesus continued again in the discourse and said unto his disciples: "Pistis 
 
 “‘10. All this hath befallen me, O Light, by thy **(64)** commandment and thy command, and it is thy commandment that I am here.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 “‘11. Thy commandment hath brought me down, and I am descended as a power of the chaos, and my power is numbed in me.
 
@@ -389,7 +389,7 @@ And Jesus continued again in the discourse and said unto his disciples: "Pistis 
 
 “‘19. For the Light hath looked down from the height of its light. It will look down on **(65)** the total matter,
 
-“‘20. To hear the sighing of those in chains, <span id="p53">[<sup><small>p. 53</small></sup>]</span> to loose the power of the souls whose power is bound,—
+“‘20. To hear the sighing of those in chains, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> to loose the power of the souls whose power is bound,—
 
 “‘21. So that it may lay its name in the soul and its mystery in the power.’”
 
@@ -413,7 +413,7 @@ John answered and said: "My Lord and Saviour, concerning this repentance which P
 
 “‘4. I am scorched as the grass, and my heart is dried up; for I have forgotten to eat my bread.
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 “‘5. From the voice of my groaning my bones cleaved to my flesh.
 
@@ -445,7 +445,7 @@ John answered and said: "My Lord and Saviour, concerning this repentance which P
 
 “‘19. Because he hath looked down on his holy height; the Lord hath looked down from the heaven on the earth,
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 “‘20. To hear the sighing **(67)** of those in chains, to loose the sons of those who are slain,
 

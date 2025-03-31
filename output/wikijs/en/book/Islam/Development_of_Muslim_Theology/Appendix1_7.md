@@ -42,7 +42,7 @@ _Book I_. _Of Ceremonial Purity_ (_Tahara_)
 
 3\. The use of the toothpick.
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 4\. Description of the different stages of a ceremonial ablution (_wudu_).
 
@@ -98,7 +98,7 @@ _Book II. Of Prayer_
 
 17\. Prayer for rain.
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 18\. Prayer in presence of the enemy.
 
@@ -150,7 +150,7 @@ _Book VI. Of Barter and Other Business Transactions_
 
 2\. Description and conditions of the bargain with payment in advance (_salam_).
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 3\. Of pledging (_rahn_).
 
@@ -210,7 +210,7 @@ _Book VIII. Of Marriage and Related Subjects_
 
 1\. The conditions of marriage (_nikah_). What women a man may see and to what extent.
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 2\. The form of a legal marriage.
 
@@ -266,7 +266,7 @@ _Book X. Of Restrictive Ordinances of God_ (_hadd_)
 
 1\. Of fornication (_zina_) of one who. has been or is married (_muhsan_), and of one who has not been or is not married.
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 2\. Of accusing of fornication.
 
@@ -324,7 +324,7 @@ _Book XV. Of Judgments and Evidence_ (_qada_, _shahada_)
 
 5\. The difference of claims (_haqq_), on the part. of God, and on the part of man, and their legal treatment.
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 _Book XVI. Of Manumission of Slaves_
 

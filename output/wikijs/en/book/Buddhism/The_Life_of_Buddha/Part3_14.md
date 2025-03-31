@@ -32,12 +32,12 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 
 THE Master was growing old. When he was in Rajagriha, he called the monks together, and he spoke to them at great length:
 
-“Monks, do not forget the precepts I have given you. Observe them carefully. You will assemble twice a month, and you will confess your transgressions to one another. If you feel that you have done evil, and you keep it to yourself, you will be guilty of a lie. Admit your transgressions: the confession will bring you rest and peace. The four gravest sins a monk can commit are, as you know: to have intercourse with a woman; to steal anything whatsoever; to kill a human being or instigate a murder; and to pretend to possess a superhuman power that he knows he does not possess. A monk who has committed one of these four sins must be expelled from the community. Monks, do not bandy words with women, and do not corrupt them. Do not bear false witness against your brothers. Do not try to sow discord in the community. Do not strive to evade a reprimand. Never <span id="p272">[<sup><small>p. 272</small></sup>]</span> lie, and insult no one. Observe carefully, O monks, all the precepts I have given you.”
+“Monks, do not forget the precepts I have given you. Observe them carefully. You will assemble twice a month, and you will confess your transgressions to one another. If you feel that you have done evil, and you keep it to yourself, you will be guilty of a lie. Admit your transgressions: the confession will bring you rest and peace. The four gravest sins a monk can commit are, as you know: to have intercourse with a woman; to steal anything whatsoever; to kill a human being or instigate a murder; and to pretend to possess a superhuman power that he knows he does not possess. A monk who has committed one of these four sins must be expelled from the community. Monks, do not bandy words with women, and do not corrupt them. Do not bear false witness against your brothers. Do not try to sow discord in the community. Do not strive to evade a reprimand. Never <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> lie, and insult no one. Observe carefully, O monks, all the precepts I have given you.”
 
 He said further:
 

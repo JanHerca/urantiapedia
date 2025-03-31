@@ -29,7 +29,7 @@ dateCreated: 2025-2-5T12:26:57Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 The _Buddhist Catechism_ has been compiled from personal studies in Ceylon, and in part from the following works:
 
@@ -51,7 +51,7 @@ _Buddhism_ | Rhys Davids.
 _Dhammapada_ | Fausboll and Max Müller.
 _Romantic History of Buddha_ | Beal.
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 &nbsp; | &nbsp;
 --- | ---

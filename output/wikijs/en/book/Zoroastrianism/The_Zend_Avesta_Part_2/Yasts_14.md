@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Regarding Bahrâm (Verethraghna), the Genius of Victory, see Vend. Introd. V, 8.
 
@@ -68,7 +68,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One!
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 ‘Who is the best-armed of the heavenly gods?’
 
@@ -88,7 +88,7 @@ Ahura Mazda answered: ‘It is Verethraghna, made by Ahura, O Spitama Zarathu<i>
 
 6\. ‘We sacrifice unto Verethraghna, made by Ahura.’
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One!
 
@@ -114,7 +114,7 @@ Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Make
 
 Ahura Mazda answered: ‘It is Verethraghna, made by Ahura, O Spitama Zarathu<i>s</i>tra!’
 
-9\. Verethraghna, made by Ahura, came to him the third time, running in the shape of a white, beautiful horse, with yellow ears and a golden caparison; upon whose forehead floated the well-shapen Strength, <span id="p234">[<sup><small>p. 234</small></sup>]</span> and Victory, beautiful of form, made by Ahura: thus did he come, bearing the good Glory, made by Mazda, that is both health and strength.
+9\. Verethraghna, made by Ahura, came to him the third time, running in the shape of a white, beautiful horse, with yellow ears and a golden caparison; upon whose forehead floated the well-shapen Strength, <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> and Victory, beautiful of form, made by Ahura: thus did he come, bearing the good Glory, made by Mazda, that is both health and strength.
 
 Then he, who is the strongest, said unto him: 'I am the strongest in strength . . . .
 
@@ -136,7 +136,7 @@ Ahura Mazda answered: ‘It is Verethraghna, made by Ahura, O Spitama Zarathu<i>
 
 12\. Who of all males in rut shows greatest strength and greatest fire, when he goes to his females. Of all females those are best kept whom a burden-bearing camel keeps, who has thick forelegs and large humps, . . . . [^1045], quick-eyed, long-headed, bright, tall, and strong;
 
-13\. Whose piercing look goes afar . . . . [^1046], even in the dark of the night; who throws white foam <span id="p235">[<sup><small>p. 235</small></sup>]</span> along his mouth; well-kneed, well-footed, standing with the countenance of an all-powerful master:
+13\. Whose piercing look goes afar . . . . [^1046], even in the dark of the night; who throws white foam <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> along his mouth; well-kneed, well-footed, standing with the countenance of an all-powerful master:
 
 Thus did Verethraghna come, bearing the good Glory made by Mazda, the Glory made by Mazda . . . .
 
@@ -160,7 +160,7 @@ Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Make
 
 ‘Who is the best-armed of the heavenly gods?’
 
-Ahura Mazda answered: ‘It is Verethraghna, made by Ahura, O Spitama Zarathu<i>s</i>tra!’ <span id="p236">[<sup><small>p. 236</small></sup>]</span> 17\. Verethraghna, made by Ahura, came to him the sixth time, running in the shape of a beautiful youth of fifteen, shining, clear-eyed, thin-heeled.
+Ahura Mazda answered: ‘It is Verethraghna, made by Ahura, O Spitama Zarathu<i>s</i>tra!’ <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> 17\. Verethraghna, made by Ahura, came to him the sixth time, running in the shape of a beautiful youth of fifteen, shining, clear-eyed, thin-heeled.
 
 Thus did Verethraghna come, bearing the good Glory made by Mazda, the Glory made by Mazda . . . .
 
@@ -180,7 +180,7 @@ Ahura Mazda answered: ‘It is Verethraghna, made by Ahura, O Spitama Zarathu<i>
 
 21\. He grazes the hidden ways [^1051] of the mountains, he grazes the tops of the mountains, he grazes the depths of the vales, he grazes the summit [^1052] of the trees, listening to the voices of the birds.
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Thus did Verethraghna come, bearing the good Glory made by Mazda [^1053], the Glory made by Mazda . . . .
 
@@ -206,7 +206,7 @@ Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Make
 
 ‘Who is the best-armed of the heavenly gods?’
 
-Ahura Mazda answered: ‘It is Verethraghna, made by Ahura, O Spitama Zarathu<i>s</i>tra!’ <span id="p238">[<sup><small>p. 238</small></sup>]</span> 25\. Verethraghna, made by Ahura, came to him the ninth time, running in the shape of a beautiful, fighting buck, with sharp horns.
+Ahura Mazda answered: ‘It is Verethraghna, made by Ahura, O Spitama Zarathu<i>s</i>tra!’ <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> 25\. Verethraghna, made by Ahura, came to him the ninth time, running in the shape of a beautiful, fighting buck, with sharp horns.
 
 Thus did Verethraghna come, bearing the good Glory made by Mazda, the Glory made by Mazda. . . .
 
@@ -230,7 +230,7 @@ Thus did Verethraghna come, bearing the good Glory made by Mazda, the Glory made
 
 Unto him did the holy Zarathu<i>s</i>tra offer up a sacrifice, \[asking\] for victorious thinking, victorious speaking, victorious doing, victorious addressing, and victorious answering.
 
-29\. Verethraghna, made by Ahura, gave him the <span id="p239">[<sup><small>p. 239</small></sup>]</span> fountains of manliness [^1056], the strength of the arms, the health of the whole body, the sturdiness of the whole body, and the eye-sight of the Kara fish [^1057], that lives beneath the waters and can measure [^1058] a rippling of the water, not thicker than a hair, in the Rangha whose ends lie afar, whose depth is a thousand times the height of a man [^1059].
+29\. Verethraghna, made by Ahura, gave him the <span id="p239"><sup><small>[ p. 239 ]</small></sup></span> fountains of manliness [^1056], the strength of the arms, the health of the whole body, the sturdiness of the whole body, and the eye-sight of the Kara fish [^1057], that lives beneath the waters and can measure [^1058] a rippling of the water, not thicker than a hair, in the Rangha whose ends lie afar, whose depth is a thousand times the height of a man [^1059].
 
 For his brightness and glory, I will offer unto him a sacrifice worth being heard . . . .
 
@@ -242,7 +242,7 @@ Unto him did the holy Zarathu<i>s</i>tra offer up a sacrifice, \[asking\] for vi
 
 31\. Verethraghna, made by Ahura, gave him the fountains of manliness, the strength of the arms, the health of the whole body, the sturdiness of the whole body, and the eye-sight of the male horse, that, in the dark of the night, in its first half [^1060] and through the rain, can perceive a horse's hair lying on the ground and knows whether it is from the head or from the tail [^1061].
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 For his brightness and glory, I will offer unto him a sacrifice worth being heard . . . .
 
@@ -262,7 +262,7 @@ For his brightness and glory, I will offer unto him a sacrifice worth being hear
 
 Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One!
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 ‘If I have a curse thrown upon me, a spell told upon me by the many men who hate me, what is the remedy for it?’
 
@@ -274,7 +274,7 @@ Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Make
 
 38\. 'All tremble before him who holds the feather, they tremble therefore before me; all my enemies tremble before me and fear my strength and victorious force and the fierceness established in my body.
 
-39\. 'He [^1068] carries the chariot of the lords; he carries the chariots of the lordly ones, the chariots of the sovereigns. He carried the chariot of Kavi <span id="p242">[<sup><small>p. 242</small></sup>]</span> Usa [^1069]; upon his wings runs the male horse [^1070], runs the burden-bearing camel, runs the water of the river.
+39\. 'He [^1068] carries the chariot of the lords; he carries the chariots of the lordly ones, the chariots of the sovereigns. He carried the chariot of Kavi <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> Usa [^1069]; upon his wings runs the male horse [^1070], runs the burden-bearing camel, runs the water of the river.
 
 40\. 'Him rode the gallant Thraêtaona, who smote A<i>z</i>i Dahâka, the three-mouthed, the three-headed, the six-eyed, who had a thousand senses; that most powerful, fiendish Dru<i>g</i>, that demon, baleful to the world, the strongest Dru<i>g</i> that Angra Mainyu created against the material world, to destroy the world of the good principle [^1071].
 
@@ -294,7 +294,7 @@ Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Make
 
 Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One!
 
-‘Where is it that we must invoke the name of Verethraghna, made by Ahura? Where is it that <span id="p243">[<sup><small>p. 243</small></sup>]</span> we must praise him? That we must humbly praise him?’
+‘Where is it that we must invoke the name of Verethraghna, made by Ahura? Where is it that <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> we must praise him? That we must humbly praise him?’
 
 43\. Ahura Mazda answered: 'When armies meet together in full array, O Spitama Zarathu<i>s</i>tra! (asking) which of the two is the party that conquers and is not crushed, that smites and is not smitten;
 
@@ -306,7 +306,7 @@ Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Make
 
 ## XVII.
 
-47\. We sacrifice to Verethraghna, made by Ahura: who goes along the armies arrayed, and goes here <span id="p244">[<sup><small>p. 244</small></sup>]</span> and there asking, along with Mithra and Rashnu: 'Who is it who lies unto Mithra? Who is it who thrusts \[his oath\] against Rashnu [^1078]? To whom shall I, in my might, impart illness and death [^1079]?
+47\. We sacrifice to Verethraghna, made by Ahura: who goes along the armies arrayed, and goes here <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> and there asking, along with Mithra and Rashnu: 'Who is it who lies unto Mithra? Who is it who thrusts \[his oath\] against Rashnu [^1078]? To whom shall I, in my might, impart illness and death [^1079]?
 
 48 [^1080]. Ahura Mazda said: ‘If men sacrifice unto Verethraghna, made by Ahura, if the due sacrifice and prayer is offered unto him just as it ought to be performed in the perfection of holiness, never will a hostile horde enter the Aryan countries, nor any plague, nor leprosy, nor venomous plants, nor the chariot of a foe, nor the uplifted spear of a foe.’
 
@@ -316,7 +316,7 @@ Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Make
 
 51\. 'Let not a murderer take of those offerings, nor a whore, nor a . . . ., who does not sing the Gâthâs, who spreads death in the world and withstands the law of Mazda, the law of Zarathu<i>s</i>tra.
 
-52\. 'If a murderer take of those offerings, or a whore, or a . . . ., who does not sing the Gâthâs, then Verethraghna, made by Ahura, takes back his healing virtues. <span id="p245">[<sup><small>p. 245</small></sup>]</span> 53\. ‘Plagues will ever pour upon the Aryan nations; hostile hordes will ever fall upon the Aryan nations; the Aryans will be smitten by their fifties and their hundreds, by their hundreds and their thousands, by their thousands and their tens of thousands, by their tens of thousands and their myriads of myriads.’
+52\. 'If a murderer take of those offerings, or a whore, or a . . . ., who does not sing the Gâthâs, then Verethraghna, made by Ahura, takes back his healing virtues. <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> 53\. ‘Plagues will ever pour upon the Aryan nations; hostile hordes will ever fall upon the Aryan nations; the Aryans will be smitten by their fifties and their hundreds, by their hundreds and their thousands, by their thousands and their tens of thousands, by their tens of thousands and their myriads of myriads.’
 
 54\. There Verethraghna, made by Ahura, proclaimed thus: 'The Soul of the Bull [^1082], the wise creature, does not receive from man due sacrifice and prayer; for now the Daêvas and the worshippers of the Daêvas make blood flow and spill it like water;
 
@@ -326,7 +326,7 @@ Zarathu<i>s</i>tra asked Ahura Mazda: 'Ahura Mazda, most beneficent Spirit, Make
 
 For his brightness and glory, I will offer unto him a sacrifice worth being heard . . . .
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 ## XVIII.
 
@@ -348,7 +348,7 @@ The prince and his son and his sons who are chiefs of myriads [^1090] offer him 
 
 For his brightness and glory, I will offer unto him a sacrifice worth being heard . . . .
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 ## XX.
 
@@ -372,7 +372,7 @@ For his brightness and glory, I will offer unto him a sacrifice worth being hear
 
 63\. We sacrifice to Verethraghna, made by Ahura.
 
-When Verethraghna, made by Ahura, binds the hands, confounds the eye-sight, takes the hearing <span id="p248">[<sup><small>p. 248</small></sup>]</span> from the ears of the Mithradru<i>g</i>es [^1094] marching in columns, allied by cities, they can no longer move their feet, they can no longer withstand.
+When Verethraghna, made by Ahura, binds the hands, confounds the eye-sight, takes the hearing <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> from the ears of the Mithradru<i>g</i>es [^1094] marching in columns, allied by cities, they can no longer move their feet, they can no longer withstand.
 
 For his brightness and glory, I will offer unto him a sacrifice worth being heard . . . .
 

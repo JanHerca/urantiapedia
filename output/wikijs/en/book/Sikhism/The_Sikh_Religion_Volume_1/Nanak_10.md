@@ -39,7 +39,7 @@ The Guru then departed for Pasrur, and thence to Sialkot, the fortress of the Si
 Friendship with Karars is false, and false is its foundation.
 Mula saw not whence death would come to him.[^1]
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 When his work was accomplished in Sialkot, the Guru proceeded to the south of the Panjab as far as Mithankot (in the present district of Dera Ghazi Khan), where Mian Mitha, a famous Muhammadan priest, resided. The Guru took up his quarters in a garden near the town. When Mian Mitha heard of the Guru's arrival he said, ‘Nanak is a good faqir; but, if I meet him, I will squeeze the juice out of him as if he were a lemon.’ Mardana, when reporting his speech to the Guru, said, ‘Mian Mitha is thine automaton, and will play as thou causest him to play.’ Mian Mitha continued his boasting: ‘I will go to see Nanak, and, if I meet him, I will take the cream off him as I would skim milk.’ Mian Mitha met the Guru and, after saluting him in the Muhammadan fashion, sat down. He challenged the Guru by the following slok:—
 
@@ -57,7 +57,7 @@ Act according to the Quran and thy _sacred_ books.
 Put the wick of fear into thy body
 Burn in it the knowledge of truth;
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Thus shall thy lamp burn without oil.
 Make such a light, and thou shalt find the Lord.
@@ -82,7 +82,7 @@ Nanak, the true Name, the source of consolation in this last age, shall procure 
 Ye fear lions, jackals, and snakes; but they shall make their dwellings in your graves.
 Oxen shall root up your graves, and even your enemies' hatred of you shall cool.
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Brethren, friends, and lovers read the fatiha,[^1] and say prayers _for the departed_.
 Nanak, _such_ things are false, and God alone is true.
@@ -103,7 +103,7 @@ Like paper they shall be beaten with mallets, and put into presses;
 They shall be heated like iron; they shall burn and cry aloud;
 The wretched beings' heads shall be taken up with tongs and placed on anvils,
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 On which they shall be beaten with hammers in time according to the smith's[^1] lead.
 Nanak, without the true Name they shall have no rest either in this world or the next.
@@ -126,7 +126,7 @@ The nose and eyes shall also plead not guilty, and it is the poor _soul_ which s
 The soul under arrest in Death's court _pleadeth_, 'It is the senses which have led the whole world astray:
 ‘The senses united have thrown man into misery as the smith _putteth iron_ on the anvil.’
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Nanak, he who meeteth not the true Guru and _obtaineth_ not divine knowledge, _shall find no rest_ in this world or the next.
 The soul shall be filed seventy times like an arrow;
@@ -147,7 +147,7 @@ Make honesty thy steed, truth thy saddle, continence thine equestrian armour;
 The five virtues[^1] thine arrows, and truth thy sword and shield.
 Nanak, pious men who have truth in their hearts, shall obtain honour in God's court.
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Brahma who came into the world repeating the Veds cannot describe _God_.
 What is poor Krishan who by God's order descended upon earth?
@@ -167,7 +167,7 @@ The man without faith is unclean; he who is tender-hearted is pure.
 Knowledge is gentleness. The non-avaricious are holy the avaricious are impatient.
 The honest man hath a bright, the ungrateful man a yellow face.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 Truth is heaven, falsehood is hell.
 Mildness is victuals.

@@ -79,7 +79,7 @@ That hermit home and tranquil shade,
 He loosed his mighty bow-string, then
 Drew nearer to the holy men.
 
-<span id="p230">[<sup><small>p. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 With keen celestial sight endued
 Those mighty saints the chieftain viewed,
@@ -196,7 +196,7 @@ My lips shall quaff in battle strife.’
 He spoke: and Janak's hapless child,
 Scared by his speech so fierce and wild,
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Trembled for terror, as a frail
 Young plantain shivers in the gale.
@@ -323,7 +323,7 @@ He raised, and rushed upon the pair.
 From Ráma's bow two arrows flew
 And cleft that massive spear in two,
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 Dire as the flaming levin sent
 From out the cloudy firmament.
@@ -443,7 +443,7 @@ Now through thy favour am I freed
 From the stern fate the God decreed,
 And saved, O tamer of the foe,
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 By thee, to heaven again shall go.
 A league, O Prince, beyond this spot
@@ -561,7 +561,7 @@ As Indra with the sage conversed.
 Then Ráma, when his wondering eyes
 Beheld the monarch of the skies,
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 To Lakshman quickly called, and showed
 The car wherein Lord Indra rode:
@@ -676,7 +676,7 @@ Who feed the quenchless flame,  [^414] he rose:
 Beyond the seat of Gods he passed,
 And Brahmá's sphere was gained at last.
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 The noblest of the twice-born race,
 For holy works supreme in place,
@@ -783,7 +783,7 @@ I wait the hests of all of you.
 I by mine own occasion led
 This mighty forest needs must tread,
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 And while I keep my sire's decree
 Your lives from threatening foes will free.
@@ -897,7 +897,7 @@ Performed each customary rite,
 And sought his lodging for the night,
 With Sítá and his brother laid
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Beneath the grove's delightful shade,
 First good Sútíkshnu, when he saw
@@ -1019,7 +1019,7 @@ Has ne'er been found, shall ne'er be seen:
 The very thought, my princely lord,
 Is in thy secret soul abhorred.
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 For thou hast ever been the same
 Fond lover of thine own dear dame,
@@ -1133,7 +1133,7 @@ Now with thy brother counsel take,
 Reflect, thy choice with judgment make,
 &nbsp;&nbsp;&nbsp;&nbsp;And do what seems the best.’
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 
 

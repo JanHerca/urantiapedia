@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 SECOND MU<i>N</i><i>D</i>AKA.
 
@@ -48,7 +48,7 @@ SECOND MU<i>N</i><i>D</i>AKA.
 
 5\. From him comes Agni (fire) [^176], the sun being the fuel; from the moon (Soma) comes rain (Par<i>g</i>anya); from the earth herbs; and man gives seed unto the woman. Thus many beings are begotten from the Person (purusha).
 
-6\. From him come the <i>Ri</i><i>k</i>, the Sâman, the <span id="p35">[<sup><small>p. 35</small></sup>]</span> Ya<i>g</i>ush, the Dîkshâ (initiatory rites), all sacrifices and offerings of animals, and the fees bestowed on priests, the year too, the sacrificer, and the worlds, in which the moon shines brightly and the sun.
+6\. From him come the <i>Ri</i><i>k</i>, the Sâman, the <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Ya<i>g</i>ush, the Dîkshâ (initiatory rites), all sacrifices and offerings of animals, and the fees bestowed on priests, the year too, the sacrificer, and the worlds, in which the moon shines brightly and the sun.
 
 7\. From him the many Devas too are begotten, the Sâdhyas (genii), men, cattle, birds, the up and down breathings, rice and corn (for sacrifices), penance, faith, truth, abstinence, and law.
 
@@ -59,7 +59,7 @@ SECOND MU<i>N</i><i>D</i>AKA.
 10\. The Person is all this, sacrifice, penance, Brahman, the highest immortal; he who knows this hidden in the cave (of the heart), he, O friend, scatters the knot of ignorance here on earth.
 
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 ## SECOND KHA<i>N</i><i>D</i>A.
 
@@ -77,7 +77,7 @@ SECOND MU<i>N</i><i>D</i>AKA.
 
 7\. He who understands all and who knows all, he to whom all this glory in the world belongs, the
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Self, is placed in the ether, in the heavenly city of Brahman (the heart). He assumes the nature of mind, and becomes the guide of the body of the senses. He subsists in food, in close proximity to the heart. The wise who understand this, behold the Immortal which shines forth full of bliss.
 

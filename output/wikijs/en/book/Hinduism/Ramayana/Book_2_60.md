@@ -140,7 +140,7 @@ His brother Lakshman thus addressed:
 ‘Now swift upsprings the Lord of Light,
 And fled, is venerable night,
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 That dark-winged bird the Koïl now
 Is calling from the topmost bough,
@@ -267,7 +267,7 @@ When thy fond arms are round him laced.
 Thine aged heart will cease to ache
 With bitter pangs for Ráma's sake.’
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 And say to Bharat: 'See thou treat
 The queens with all observance meet:
@@ -396,7 +396,7 @@ For the king's son, that sacred juice.
 Then Ráma of his long locks made,
 And Lakshman's too, the hermit braid.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 And the two royal brothers there
 With coats of bark and matted hair,
@@ -522,7 +522,7 @@ The royal youths no more could spy,
 Turned from the spot whereon he stood
 Homeward with Guha from the wood.
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 Still on the brothers forced their way
 Where sweet birds sang on every spray,
@@ -644,7 +644,7 @@ More love than glows in Ráma's breast.
 Who, as the tale is told to us.
 Addressed the stricken parrot thus:
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 ‘Parrot, the capturer's talons tear,
 While yet alone thou flutterest there.
@@ -768,7 +768,7 @@ Had heard the prince his tale unfold,
 Water he bade them bring, a bull,
 And honour-gifts in dishes full,
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 And drink and food of varied taste,
 Berries and roots, before him placed,
@@ -893,7 +893,7 @@ With reverence, on their way they went.
 High favour Rharadvája showed.
 And blessed them ready for the road.
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 With such fond looks as fathers throw
 On their own sons, before they go.
@@ -1017,7 +1017,7 @@ A while in that delightful shade
 Where elephants unnumbered strayed.
 Where peacocks screamed and monkeys played.
 
-<span id="p161">[<sup><small>p. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;They wandered with delight.
 Then by the river's side they found
@@ -1123,7 +1123,7 @@ His arrow in the wood had struck;
 Bearing his mighty load he came,
 And laid it in the kindled flame.
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Soon as he saw the meat was done,
 And that the juices ceased to run
@@ -1245,7 +1245,7 @@ Where people thronged on every side.
 From each high terrace, wild with woe
 The royal Indies flocked below:
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 He heard them talk in gentle tone,
 As each for Ráma made her moan:
@@ -1371,7 +1371,7 @@ And ever at due season turn
 Where holy fires of worship burn.
 And, lady, on our lord bestow
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 Such honour as to Gods we owe.
 Be kind to every queen: let pride
@@ -1480,7 +1480,7 @@ Some message from the wood might send.
 Thy realms, great Monarch, mourn the blow,
 And sympathize with Ráma's woe.
 
-<span id="p165">[<sup><small>p. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 Each withering tree hangs low his head,
 And shoot, and bud, and flower are dead.
@@ -1600,7 +1600,7 @@ Where Ráma, Sítá, Lakshman are.
 Bereft of them I have no power
 To linger on a single hour.
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 Again, I pray, thy steps retrace,
 And me in Dandak forest place,

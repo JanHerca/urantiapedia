@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 1\. There are more weighty rules for holy things, than for the heave-offering. Because vessels may be baptized in vessels for the heave-offering, but not for holy things. The outside and inside and handle (are reckoned separately) for the heave-offering, but not for holy things. He who carries that which defiles by treading upon it, may carry the heave-offering but not the holy flesh. Treading on the garments of those who eat the heave-offering defiles for the holy flesh. The measure of the holy flesh is not as the measure of the heave-offering. Because for the holy flesh one must loose his garments and dry himself, and baptize and afterwards bind them up. But in the heave-offering he can bind them up and afterwards baptize himself.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 3\. Men may eat with unwashen hands the dry meat of the heave-offering, but not the holy flesh. The first day mourner, and he who failed in atonement, have need of baptism for the holy flesh, but not for the heave-offering.
 
-4\. There are weighty rules for the heave-offering, because in Judah men are credited with the purity of wine and oil during the whole year. And in the time of wine-pressing and oil-pressing (men are credited) even for the <span id="p174">[<sup><small>p. 174</small></sup>]</span> heave-offering. When the time for wine and oil pressing has passed over, and a barrel of wine is brought for the heave-offering, it must not be received. But one may let it stand over for the wine-pressing next year. But if one said, “I put into it a quarter log of holy wine,” it is credited. “Jugs of wine and jugs of oil which are mixed?” “They are credited in the time of wine-pressing and oil-pressing, and seventy days before that time.”
+4\. There are weighty rules for the heave-offering, because in Judah men are credited with the purity of wine and oil during the whole year. And in the time of wine-pressing and oil-pressing (men are credited) even for the <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> heave-offering. When the time for wine and oil pressing has passed over, and a barrel of wine is brought for the heave-offering, it must not be received. But one may let it stand over for the wine-pressing next year. But if one said, “I put into it a quarter log of holy wine,” it is credited. “Jugs of wine and jugs of oil which are mixed?” “They are credited in the time of wine-pressing and oil-pressing, and seventy days before that time.”
 
 5\. From Modiyith [^359] and inwards, [^360] men are credited for the purity of earthen vessels. From Modiyith and outwards they are not credited. “How?” “The potter, when he is selling pots, comes inwards from Modiyith.” One says, “this is the potter,” and “these the pots,” and “these the purchasers,” “it is credited.” “When he went outwards?” “It is not credited.”
 
@@ -48,7 +48,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 7\. “He who opened his barrel of wine, [^361] and commenced with his dough for the use of the feast?” R. Judah said, “he may finish it” (after the feast). But the Sages say, “he must not finish it.” When the feast was over, the priests looked round for the purity of the Temple court. If the feast ended on Friday, they did not look round for honour to the approaching Sabbath. R. Judah said, “even they did not look round on Thursday, because the priests are not then idle.”
 
-8\. “How did they look round for the purity of the court?” “The priests baptized the vessels, which were in the Sanctuary, and used to say to the people, ‘Watch and do not touch the table and the candlestick, lest you render them unclean.’” All the vessels in the Sanctuary were double and treble, because if the first became unclean, they could <span id="p175">[<sup><small>p. 175</small></sup>]</span> bring duplicates instead of them. “All the vessels which were in the Sanctuary required baptism [^362] except the golden altar, and the brazen altar, because they are as earth.” The words of R. Eliezer. But the Sages say, “because they were overlaid.”
+8\. “How did they look round for the purity of the court?” “The priests baptized the vessels, which were in the Sanctuary, and used to say to the people, ‘Watch and do not touch the table and the candlestick, lest you render them unclean.’” All the vessels in the Sanctuary were double and treble, because if the first became unclean, they could <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> bring duplicates instead of them. “All the vessels which were in the Sanctuary required baptism [^362] except the golden altar, and the brazen altar, because they are as earth.” The words of R. Eliezer. But the Sages say, “because they were overlaid.”
 
 
 

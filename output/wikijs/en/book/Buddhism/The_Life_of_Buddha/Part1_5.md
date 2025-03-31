@@ -32,20 +32,20 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 
 THEY pleased Suddhodana at first, these words of Asita's, and he pondered them. “So my son will live, and live gloriously,” he thought, but then he became anxious. For it had been said that the prince would renounce royalty, that he would lead the life of a hermit, and did that not mean that at his death Suddhodana's family would cease?
 
 But his anxiety was short-lived, for since the birth of Siddhartha the king could undertake nothing that did not prosper. Like a great river whose waters are swollen by many tributaries, each day new riches poured into his treasury; the stables were too small to hold the horses and elephants that were presented to him, and he was constantly surrounded by a host of loyal friends. The kingdom was rich in fertile lands, and sleek, fatted cattle grazed in the meadows. Women bore their children without suffering; men lived at peace with their neighbors, and happiness and tranquillity reigned in the land of Kapilavastu.
 
-But the joy that had come to Maya proved <span id="p21">[<sup><small>p. 21</small></sup>]</span> too sweet. It soon became unbearable. The earth knew her as a mother but seven days; then she died and ascended to the sky, to be received among the Gods.
+But the joy that had come to Maya proved <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> too sweet. It soon became unbearable. The earth knew her as a mother but seven days; then she died and ascended to the sky, to be received among the Gods.
 
 Maya had a sister, Mahaprajapati, who in beauty and virtue was almost her equal. The prince was given into Mahaprajapati's care, and she looked after his wants as tenderly as if he were her own child. And like fire fanned by an auspicious wind, like the moon, queen of the stars in the luminous skies, like the morning sun rising over the mountains in the East, Siddhartha grew in strength and stature.
 
 Everyone now delighted in bringing him precious gifts. They gave him toys that would amuse a child of his age: tiny animals, deer and elephants, horses, cows, birds and fish, and little chariots; and they were toys made not of wood or of clay but of gold and of precious stones. And they brought him costly materials and rare gems, pearl necklaces and jewelled bracelets.
 
-One day, while he was playing in a garden not far from the city, Mahaprajapati thought, “It is time I taught him to wear necklaces and bracelets,” and she ordered the servants to bring the jewels that had been given to him. She clasped them around his arms and his neck, but it was as if he wore none at all. The gold and the precious stones <span id="p22">[<sup><small>p. 22</small></sup>]</span> seemed dull and lifeless, so brilliant was the light he diffused. And the Goddess who lived among the flowers of that garden came to Mahaprajapati and said:
+One day, while he was playing in a garden not far from the city, Mahaprajapati thought, “It is time I taught him to wear necklaces and bracelets,” and she ordered the servants to bring the jewels that had been given to him. She clasped them around his arms and his neck, but it was as if he wore none at all. The gold and the precious stones <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> seemed dull and lifeless, so brilliant was the light he diffused. And the Goddess who lived among the flowers of that garden came to Mahaprajapati and said:
 
 “If the earth were made of gold, a single ray of light emanating from this child, the world's future guide, would be enough to dull its splendor. The light of the stars and the light of the moon, yes, even the light of the sun, are dimmed by his refulgence. And would you have him wear jewels, baubles crudely fashioned by jewellers and goldsmiths? Woman, remove those necklaces, take off those bracelets. They are only fit to be worn by slaves; give them to the slaves. This child will have his thoughts; they are gems of a purer water.”
 
@@ -57,7 +57,7 @@ The time came to take Siddhartha to the temple of the Gods. By the king's comman
 
 “To the temple of the Gods, my son,” she replied. The child smiled and quietly went with her to meet his father.
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 It was a magnificent sight. In the procession were brahmans from the city, warriors and all the chief merchants. A host of guards followed, and the Sakyas surrounded the chariot that bore the prince and the king. In the streets the air was heavy with incense, flowers were strewn in their path, and the people waved flags and streamers as they passed.
 

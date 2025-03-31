@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:14Z
 </figure>
 
 
-<span id="p475">[<sup><small>p. 475</small></sup>]</span>
+<span id="p475"><sup><small>[ p. 475 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Hinduism/The_Satapatha_Brahmana/47500.jpg">

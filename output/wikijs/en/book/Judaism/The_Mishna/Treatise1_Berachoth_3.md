@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 1. He whose dead lieth before him, is exempt from saying the ‏שמע‎, from the ‏תפלה‎ \[prayer\], and from ‏תפלין‎ \[phylacteries\]. Those who carry the bier, those who relieve them, and those who relieve the relief,—such as go before the bier, and such as go after it \[whose services\] are required for the bier—are all exempt \[from\] saying \[the ‏שמע‎\]. But those \[whose services\] are not required for the bier are bound \[to say ‏שמע‎\]. Both are alike exempt from the ‏תפלה‎ \[prayer\].
 
-§ 2. When they have buried the dead and return, if they have time to begin and end \[any entire section of the ‏שמע‎\] before they <span id="p5">[<sup><small>p. 5</small></sup>]</span> reach the files, [^14] they are to begin: if not, they are not to begin. Of those who stand in the files, the inner ones are exempt, but the outer ones are bound to say the ‏שמע‎.
+§ 2. When they have buried the dead and return, if they have time to begin and end \[any entire section of the ‏שמע‎\] before they <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> reach the files, [^14] they are to begin: if not, they are not to begin. Of those who stand in the files, the inner ones are exempt, but the outer ones are bound to say the ‏שמע‎.
 
 3\. Women, slaves, and minors are exempt from saying the ‏שמע‎, and also from ‏תפלין‎ \[phylacteries\]; but they are bound \[to observe\] the ‏תפלה‎ \[prayer\] the ‏מזוזה‎ \[inscription on the door-post\], and the grace after meat.
 

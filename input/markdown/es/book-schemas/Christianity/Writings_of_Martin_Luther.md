@@ -43,13 +43,13 @@ Catecismo Mayor | Large_Catechism
 		Catecismo Mayor — Artículo III. | Large_Catechism_2_3
 	Parte Tercera. DE LA ORACION. | #
 		Catecismo Mayor — El Padre Nuestro. | Large_Catechism_3_1
-		Catecismo Mayor — La Primera Petición | Large_Catechism_3_2#p1
-		Catecismo Mayor — Segunda Petición | Large_Catechism_3_2#p2
-		Catecismo Mayor — La Tercera Petición | Large_Catechism_3_2#p3
-		Catecismo Mayor — La Cuarta Petición | Large_Catechism_3_2#p4
-		Catecismo Mayor — La Quinta Petición | Large_Catechism_3_2#p5
-		Catecismo Mayor — Sexta Petición | Large_Catechism_3_2#p6
-		Catecismo Mayor — La Séptima y Última Petición | Large_Catechism_3_2#p7
+		Catecismo Mayor — La Primera Petición | Large_Catechism_3_1#p1
+		Catecismo Mayor — Segunda Petición | Large_Catechism_3_1#p2
+		Catecismo Mayor — La Tercera Petición | Large_Catechism_3_1#p3
+		Catecismo Mayor — La Cuarta Petición | Large_Catechism_3_1#p4
+		Catecismo Mayor — La Quinta Petición | Large_Catechism_3_1#p5
+		Catecismo Mayor — Sexta Petición | Large_Catechism_3_1#p6
+		Catecismo Mayor — La Séptima y Última Petición | Large_Catechism_3_1#p7
 	Catecismo Mayor — Cuarta Parte | Large_Catechism_4_0
 	Catecismo Mayor — [Quinta Parte.] | Large_Catechism_5_0
 	Catecismo Mayor — Conclusión | Large_Catechism_5_Conclusion

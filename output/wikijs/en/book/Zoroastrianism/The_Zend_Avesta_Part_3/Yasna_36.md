@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## YASNA XXXVI. TO AHURA AND THE FIRE.
 
-1\. We would approach You two, O (Ye) primeval ones in the house [^1187] of this Thy holy Fire, O Ahura Mazda, Thou most bounteous Spirit! Who brings pollutions to this (Thy flame) him wilt Thou cover with pollutions (in his turn). 2. But as the most friendly do Thou give us zeal, O Fire of the Lord! and approach us [^1188], and with the loving blessing of the most friendly, with the praise of the <span id="p285">[<sup><small>p. 285</small></sup>]</span> most adored. Yea, may’st thou approach to aid us in this our greatest (undertaking) among the efforts of our zeal.
+1\. We would approach You two, O (Ye) primeval ones in the house [^1187] of this Thy holy Fire, O Ahura Mazda, Thou most bounteous Spirit! Who brings pollutions to this (Thy flame) him wilt Thou cover with pollutions (in his turn). 2. But as the most friendly do Thou give us zeal, O Fire of the Lord! and approach us [^1188], and with the loving blessing of the most friendly, with the praise of the <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> most adored. Yea, may’st thou approach to aid us in this our greatest (undertaking) among the efforts of our zeal.
 
 3\. The Fire of Ahura Mazda art thou verily [^1189]; yea, the most bounteous one of His Spirit, wherefore Thine is the most potent of all names (for grace), O Fire of the Lord! 4. And therefore we would approach Thee, (O Ahura!) with the help of Thy Good Mind (which Thou dost implant within us), with Thy (good) Righteousness, and with the actions and the words inculcated by Thy good wisdom!
 

@@ -38,7 +38,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. [^700] On the full-moon day of Mârga<i>ri</i>îrsha he puts wood on the fire, strews (Darbha grass) on the entire surface round the fire, cooks a mess of sacrificial food with milk, sprinkles it (with Â<i>ri</i>ya), takes it from the fire, performs the rites down to the Vyâh<i>ri</i>ti oblations, and sacrifices (four oblations) with (the following Mantras):
 
-‘This offering, the creeping of I<i>d</i>â, rich in ghee, moving and not moving, accept gladly, O <i>G</i>âtavedas. <span id="p240">[<sup><small>p. 240</small></sup>]</span> What domestic animals there are, of all shapes, all seven kinds of them: may they gladly dwell here and may they prosper. Svâhâ!
+‘This offering, the creeping of I<i>d</i>â, rich in ghee, moving and not moving, accept gladly, O <i>G</i>âtavedas. <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> What domestic animals there are, of all shapes, all seven kinds of them: may they gladly dwell here and may they prosper. Svâhâ!
 
 ‘The night which men welcome like a cow that comes to them, (the night) which is the consort of the year, may that (night) be auspicious to us. Svâhâ!
 
@@ -52,7 +52,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ‘May the three times eleven gods, the thirty-three, the gracious ones, whose Purohita is B<i>ri</i>haspati, on the impulse of the god Savit_ri_—may the gods with (all) the gods give me bliss!’
 
-5\. The master of the house sits down at their southerly end, <span id="p241">[<sup><small>p. 241</small></sup>]</span>
+5\. The master of the house sits down at their southerly end, <span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 6\. The other persons to the north,
 

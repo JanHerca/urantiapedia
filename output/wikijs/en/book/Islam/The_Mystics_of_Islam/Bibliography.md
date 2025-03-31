@@ -32,7 +32,7 @@ dateCreated: 2024-11-21T11:58:4Z
   </table>
 </figure>
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 ## A. GENERAL
 
@@ -42,7 +42,7 @@ dateCreated: 2024-11-21T11:58:4Z
 - GOLDZIHER, I., _Vorlesungen über den Islam_ (Heidelberg, 1910), pp. 139-200.
 - An account of Sufi asceticism and mysticism by the greatest living authority on Islam.
 - GOLDZIHER, I., _Muhammedanische Studien_ (Halle, 1888-90), Part ii., pp. 277-378. Gives full details concerning the worship of Moslem saints.
-- MACDONALD, D. B., _The Religious Life and Attitude in Islam_ (Chicago, 1909). A valuable introduction to the study of the moderate type of Sufism represented by <span id="p170">[<sup><small>p. 170</small></sup>]</span> Ghazali. The chapters on psychology are particularly helpful.
+- MACDONALD, D. B., _The Religious Life and Attitude in Islam_ (Chicago, 1909). A valuable introduction to the study of the moderate type of Sufism represented by <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> Ghazali. The chapters on psychology are particularly helpful.
 - IQBAL, SHAIKH MUHAMMAD, _The Development of Metaphysics in Persia_ (London, 1908), pp. 96.
 - GIBB, E. J. W., _History of Turkish Poetry_ (London, 1900-1909), vol. i. pp. 15-69. Outlines of Persian philosophic mysticism.
 - BROWNE, E. G., _Literary History of Persia_ (London, 1902), vol. i. pp. 416-444.

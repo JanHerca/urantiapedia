@@ -36,13 +36,13 @@ LIFE OF GURU NANAK. CHAPTER I
 
 To recapitulate what has been more fully stated in the Introduction, Guru Nanak, the founder of the Sikh religion, was born, according to all ancient Sikh records, in the early morning of the third day of the light half of the month of Baisakh (April-May) in the year A.D. 1469; but for convenience sake his anniversary is now observed by the Sikhs on the occasion of the full moon in the month of Kartik (October-November). His father, who was called Kalu, was accountant in the village of Talwandi in the present Lahore District of the Panjab, and his mother was Tripta, memorable in Sikh writings for heir devotion to her son.
 
-The Sikh biographers recount in minute detail all the circumstances of the birth of Guru Nanak. Daulatan, a midwife, assisted on the occasion. When next morning interrogated by the astrologer Hardial, who came to write the child's horoscope, as to the nature of the voice uttered by him at birth, she said it was as the laughing voice of a wise man joining a social gathering; and she expressed herself at her wits' end to comprehend the child's nature. The astrologer desired to see him, but his mother refused owing to the chillness of the weather. He pressed the matter, and the child was brought to him in his swaddling clothes. The astrologer on seeing the infant is said to have worshipped him with clasped hands. He declared the child should wear the umbrella, the symbol of regal or prophetic dignity in the East. At the same time he regretted that he should never live to see young Nanak's eminence, worshipped as he should be alike by Hindus and Musalmans, and not merely by Hindus <span id="p2">[<sup><small>p. 2</small></sup>]</span> as in the previous human manifestations of the Creator. The child's name should resound both in earth and heaven. Inanimate nature should cry out ‘Nanak, Nanak!’ He should have power over matter so as to traverse unscathed the depths of the ocean. He should worship and acknowledge but one God, and the creature he should treat as a creature. In other words he should be a monotheist, not a worshipper of minor deities and idols.
+The Sikh biographers recount in minute detail all the circumstances of the birth of Guru Nanak. Daulatan, a midwife, assisted on the occasion. When next morning interrogated by the astrologer Hardial, who came to write the child's horoscope, as to the nature of the voice uttered by him at birth, she said it was as the laughing voice of a wise man joining a social gathering; and she expressed herself at her wits' end to comprehend the child's nature. The astrologer desired to see him, but his mother refused owing to the chillness of the weather. He pressed the matter, and the child was brought to him in his swaddling clothes. The astrologer on seeing the infant is said to have worshipped him with clasped hands. He declared the child should wear the umbrella, the symbol of regal or prophetic dignity in the East. At the same time he regretted that he should never live to see young Nanak's eminence, worshipped as he should be alike by Hindus and Musalmans, and not merely by Hindus <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> as in the previous human manifestations of the Creator. The child's name should resound both in earth and heaven. Inanimate nature should cry out ‘Nanak, Nanak!’ He should have power over matter so as to traverse unscathed the depths of the ocean. He should worship and acknowledge but one God, and the creature he should treat as a creature. In other words he should be a monotheist, not a worshipper of minor deities and idols.
 
 At the unripe age of five years Nanak is said to have begun to talk of divine subjects, and to have fully understood the meaning of his language. Great trust was reposed in him; and both Hindus and Musalmans lavished on him. their characteristic language of religious adulation.
 
 At Nankana[^1] every place with which Nanak had any association is deemed sacred. On the spot where he used to play with children of his own age and subsequently spend nights in devotion, there was a small tank constructed by Rai Bular, the landlord of the village, in affectionate remembrance of the childhood of the Guru, at a time when his fame had extended far and wide. The tank was greatly enlarged by Kaura Mal, the Diwan or financial minister of Zakaria Khan, who was satrap of Lahore. Kaura Mal was an enthusiastic admirer of Guru Nanak, and lent his great material and political influence to the amelioration of the condition of the Sikhs. The spot is called Balkrira or the child's playground.
 
-When Nanak was seven years of age, his father in the manner of Hindus asked the village astrologer to select an auspicious time for the commencement of the boy's education. The schoolmaster thought the time had arrived. The school appears to have been a humble one, and the tuition fees not exorbitant. Kalu's wife and not, as in modern times, the village moneylender was the custodian of the wealth of the house. Kalu took from her a coin corresponding to three <span id="p3">[<sup><small>p. 3</small></sup>]</span> farthings of English money, some betel-nut, and rice, and presented them to the schoolmaster with his son. In India wooden tablets painted black are employed in teaching children the letters of their language. The schoolmaster writes the letters with a kind of liquid chalk on the tablet; and the children repeat their names aloud with much noise and energy. The schoolmaster wrote the alphabet for Nanak, and the latter copied it from memory after one day.
+When Nanak was seven years of age, his father in the manner of Hindus asked the village astrologer to select an auspicious time for the commencement of the boy's education. The schoolmaster thought the time had arrived. The school appears to have been a humble one, and the tuition fees not exorbitant. Kalu's wife and not, as in modern times, the village moneylender was the custodian of the wealth of the house. Kalu took from her a coin corresponding to three <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> farthings of English money, some betel-nut, and rice, and presented them to the schoolmaster with his son. In India wooden tablets painted black are employed in teaching children the letters of their language. The schoolmaster writes the letters with a kind of liquid chalk on the tablet; and the children repeat their names aloud with much noise and energy. The schoolmaster wrote the alphabet for Nanak, and the latter copied it from memory after one day.
 
 It is said that on that occasion the young Guru made an acrostic on his alphabet. As in similar compositions in other languages, the letters were taken consecutively, and words whose initials they formed were employed to give metrical expression to the Guru's divine aspirations, his tenets, and his admiration of the attributes of the Creator.
 
@@ -77,7 +77,7 @@ Who deemeth bad and good as the same, shall in this way be absorbed in Him.
 CH. He who made the four Veds,[^4] the four mines,[^5] and the four ages[^6]
 Hath been in every age a Jogi, a worldly man, or a learned pandit.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 CHH. God's shadow is over everything; doubt is His doing.
 O God, having created doubt, Thou Thyself leadest man astray. They whom Thou favourest meet the Guru.
@@ -105,7 +105,7 @@ He beholdeth the work of His hands, issueth His orders, and saveth those on whom
 N. He in whose heart God dwelleth singeth His praises.
 The Creator blendeth men with Himself, and they are not born again.
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 T. The terrible ocean[^1] is deep, and none findeth its end.
 We have no boat or raft; we are drowning; save us, O Saviour King.
@@ -155,7 +155,7 @@ Meditate on Him; be absorbed in the True One; and be a sacrifice unto Him.
 H. There is no other Giver than He who created creatures and gave them sustenance.
 Meditate on God's name; be absorbed in God's name, and thou shalt night and day derive profit therefrom.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 A. What God who made _the world_ hath to do He continueth to do.
 He acteth and causeth others to act; He knoweth everything; thus saith the poet Nanak.
@@ -170,7 +170,7 @@ So that, whenever it is called for, a true mark may be found thereon.
 There[^3] greatness is obtained, everlasting joys, and everlasting delights.
 They in whose hearts is the true have the marks of it on their brows.
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 By God's mercy men obtain it and not by idle words.
 One man cometh, another goeth; we give them great names.[^1]
@@ -190,7 +190,7 @@ Let Jogis practise Jog,[^1] let gluttons practise gluttony,
 Let penitents practise penance, and rub and bathe themselves at places of pilgrimage;
 But let me listen to Thy songs, O Beloved, if any will sit and sing them to me.
 
-The names of the men with whom Nanak associated in the forest and who sang to him the songs of the Lord are all lost, and their excellences merged as <span id="p11">[<sup><small>p. 11</small></sup>]</span> by a process of nirvan in the religious splendour of the founder of the Sikh religion. But more perhaps than learning from the lips of religious masters were his own undisturbed communings with nature, with his own soul, and with his Creator. The voice that had spoken to many a seer again became vocal in that wilderness, and raised Nanak's thoughts to the summit of religious exaltation. In summer's heat and winter's frost, in the glory of the firmament, in the changeful aspects of nature, as well as in the joys and sorrows of the inhabitants of his little natal village, he read in bright characters and repeated with joyous iteration the name of the Formless Creator. The Name henceforth became the object of his continual worship and meditation and indeed one of the distinctive features of his creed.
+The names of the men with whom Nanak associated in the forest and who sang to him the songs of the Lord are all lost, and their excellences merged as <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> by a process of nirvan in the religious splendour of the founder of the Sikh religion. But more perhaps than learning from the lips of religious masters were his own undisturbed communings with nature, with his own soul, and with his Creator. The voice that had spoken to many a seer again became vocal in that wilderness, and raised Nanak's thoughts to the summit of religious exaltation. In summer's heat and winter's frost, in the glory of the firmament, in the changeful aspects of nature, as well as in the joys and sorrows of the inhabitants of his little natal village, he read in bright characters and repeated with joyous iteration the name of the Formless Creator. The Name henceforth became the object of his continual worship and meditation and indeed one of the distinctive features of his creed.
 
 As a man soweth so shall he reap; as he earneth so shall he eat.
 No inquiry shall be made hereafter _regarding the utterers of the Name_. With banners _flying_ shall they go to heaven.[^1]
@@ -199,7 +199,7 @@ The breath drawn without the thought of God is wasted in vain.
 I would sell this body if only I found a purchaser.
 Nanak, the body which is not filled with the true Name is of no account.[^2]
 
-There is also proof from the satisfactory internal evidence of his own compositions that Guru Nanak studied the Persian language. Kalu felt that the society of religious men was not likely to advance his son's secular interests. Rai Bular promised that if Nanak learned Persian, in which all state documents and accounts were then written, he would appoint him village accountant in succession to his father. Persian was never the tongue of Hindus, and was despised by them as the language of foreigners and conquerors <span id="p12">[<sup><small>p. 12</small></sup>]</span> and of impure Musalman literature;[^1] but Hindus in the age of Nanak applied themselves to it as they do now—for the simple purpose of obtaining a livelihood. Nanak soon astonished his Persian as he had previously astonished his Hindu teacher. In reply to Rukn-ul-Din's injunctions he assumed the rôle of teacher in turn and composed the following acrostic on the letters of the Persian alphabet
+There is also proof from the satisfactory internal evidence of his own compositions that Guru Nanak studied the Persian language. Kalu felt that the society of religious men was not likely to advance his son's secular interests. Rai Bular promised that if Nanak learned Persian, in which all state documents and accounts were then written, he would appoint him village accountant in succession to his father. Persian was never the tongue of Hindus, and was despised by them as the language of foreigners and conquerors <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> and of impure Musalman literature;[^1] but Hindus in the age of Nanak applied themselves to it as they do now—for the simple purpose of obtaining a livelihood. Nanak soon astonished his Persian as he had previously astonished his Hindu teacher. In reply to Rukn-ul-Din's injunctions he assumed the rôle of teacher in turn and composed the following acrostic on the letters of the Persian alphabet
 
 ALIF. Remember God and banish neglect of Him from thy heart.
 Accursed the life of him in this world who breatheth without uttering the Name.
@@ -252,7 +252,7 @@ This body of thine shall become a heap of dust in the grave.
 ZOE. They were tyrants who heeded not the Name:
 How can man obtain peace without his Master?
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 ‘AIN. Practise good works to the best of thy power:
 Without good works and virtues man shall die _full of_ regret.
@@ -291,7 +291,7 @@ What order will He pass in our case, O Rukn-ul-Din?
 LAM. They on whom He casteth His look of mercy have become worthy.
 What is desire for life if a man regulate not his own conduct?
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ALIF. God is in thee; why thinkest thou not on Him, O ignorant man?
 By service to the guru God is found, and deliverance obtained at last.
@@ -305,7 +305,7 @@ It does not appear that even the acquisition of Persian tended to give Nanak's t
 
 
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

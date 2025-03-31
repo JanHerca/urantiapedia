@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 ## XII. Joseph and the Mirror.
 
@@ -61,7 +61,7 @@ His brethren's envy and wrong-dealing touched upon,
 Disgrace affects not lions, if with chains they're bound.
 With God's decree I quarrel not;—it's always sound.
 
-<span id="p229">[<sup><small>p. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 A lion with a chain around his lordly neck,
 Is still the lord of them who forged the chain as check.”
@@ -93,7 +93,7 @@ E’en God will ask His creatures in the judgment day:
 Alone, and empty-handed? Is it thus you come?
 E’en as We first created you? Gifts left at home?'[^340]
 
-<span id="p230">[<sup><small>p. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 What have you brought as timely offerings in your hands?
 <sup id="v25"><small>25</small></sup>  What are the gifts with which you'd grace your new life's lands?
@@ -126,7 +126,7 @@ From the rapt state of saints arriving at their home.
 The saints were well prefigured by the “Sleepers Seven.”[^344]
 “Their sleep,” “their stretchings,” “their awaking,” lead to heaven.
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Without the least exertion on their parts by acts,
 The “right and left-hand registers” draw them by facts.
@@ -161,7 +161,7 @@ Present this mirror to it, thou, as best beseems.
 In non-existence mirrored, being we may see;
 As wealthy men their wealth may show by beggars’ glee.
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 The hungry man's the mirror best shows what is bread.
 And tinder mirrors flint and steel's gleam, quickly spread.
@@ -196,7 +196,7 @@ Exists in germ in every panting human breast.
 These fancy they have mortified themselves throughout.
 Take them to be pure streams; their filth seek in the grout.
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Just stir them up a little, for a trial's sake;
 Thou’lt see their mud discolour all the water's lake.

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 ## TREATISE XVI.
 
@@ -44,7 +44,7 @@ The Heifer's Age—Ages of other Offerings—Places from which the Red Heifer ma
 
 ### CHAPTER I.
 
-1\. Rabbi Eliezer said, “the red heifer must be a calf of a year old, or an heifer of two years.” But the Sages say, “a calf of two years, and an heifer of three years, or of four years.” Rabbi Meier said, “even of five years she is allowed, or older. But they are not to wait (longer) for her, lest she turn black, and be disallowed.” Rabbi Joshua said, “I only heard, third.” They said to him, what is the meaning of “third?” He said to them, “thus I heard it without explanation.” The son of Azai said, “I will explain it, if you say “third,” that is to others in counting; but if you say one of three, that is, of three years.” As when they say, a fourth vineyard.” They said to him, “what means fourth?” He said to them, “thus I heard it without explanation.” Said the son of Azai, “I will explain. If you say ‘fourth,’ that is, to others in counting. But as you say one of four, that is, of four years. As when they <span id="p301">[<sup><small>p. 301</small></sup>]</span> say, he who eats in a leprous house an half loaf, [^619] of three loaves to the cab of flour.” They say to him, “say eighteen loaves to the seah of flour.” He said to them, “Thus I heard it without explanation.” Said the son of Azai, “I will explain. If you say three to the cab, there is no dough-offering. But if you say, eighteen to the seah, the dough-offering diminishes it.”
+1\. Rabbi Eliezer said, “the red heifer must be a calf of a year old, or an heifer of two years.” But the Sages say, “a calf of two years, and an heifer of three years, or of four years.” Rabbi Meier said, “even of five years she is allowed, or older. But they are not to wait (longer) for her, lest she turn black, and be disallowed.” Rabbi Joshua said, “I only heard, third.” They said to him, what is the meaning of “third?” He said to them, “thus I heard it without explanation.” The son of Azai said, “I will explain it, if you say “third,” that is to others in counting; but if you say one of three, that is, of three years.” As when they say, a fourth vineyard.” They said to him, “what means fourth?” He said to them, “thus I heard it without explanation.” Said the son of Azai, “I will explain. If you say ‘fourth,’ that is, to others in counting. But as you say one of four, that is, of four years. As when they <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> say, he who eats in a leprous house an half loaf, [^619] of three loaves to the cab of flour.” They say to him, “say eighteen loaves to the seah of flour.” He said to them, “Thus I heard it without explanation.” Said the son of Azai, “I will explain. If you say three to the cab, there is no dough-offering. But if you say, eighteen to the seah, the dough-offering diminishes it.”
 
 2\. R. José the Galilean said, “the cleansing of the Levites required bullocks of two years old, as is said, “And another young bullock shalt thou take for a sin-offering. [^620]” But the Sages say, “even of three years.” R. Meier said, “bullocks even of four and five years are allowed, but old ones are not brought, for honour's sake.”
 

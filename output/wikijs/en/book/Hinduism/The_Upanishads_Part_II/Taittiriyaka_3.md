@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 THIRD VALLÎ, OR, THE CHAPTER OF BH<i>RI</i>GU.
 
@@ -57,7 +57,7 @@ Having perceived this, he went again to his father Varu<i>n</i>a, saying: ‘Sir
 
 He performed penance. Having performed penance—
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 ## THIRD ANUVÂKA.
 
@@ -82,7 +82,7 @@ He perceived that understanding (vi<i>g</i>_ñ_âna) was Brahman, for from under
 
 Having perceived this, he went again to his father Varu<i>n</i>a, saying—‘Sir, teach me Brahman.’ He said to him: ‘Try to know Brahman by penance, for penance is (the means of knowing) Brahman.’
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 He performed penance. Having performed penance—
 
@@ -100,7 +100,7 @@ Breath is food [2](Taittiriyaka_3#fn238), the body eats the food. The body rests
 
 ## EIGHTH ANUVÂKA.
 
-Let him never shun food, that is the rule. Water is food, the light eats the food. The light rests on water, water rests on light. This is the food resting <span id="p67">[<sup><small>p. 67</small></sup>]</span> on food [^240]. He who knows this food resting on food, rests exalted, becomes rich in food, and able to eat food (healthy), becomes great by offspring, cattle, and the splendour of his knowledge (of Brahman), great by fame.
+Let him never shun food, that is the rule. Water is food, the light eats the food. The light rests on water, water rests on light. This is the food resting <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> on food [^240]. He who knows this food resting on food, rests exalted, becomes rich in food, and able to eat food (healthy), becomes great by offspring, cattle, and the splendour of his knowledge (of Brahman), great by fame.
 
 
 ## NINTH ANUVÂKA.
@@ -111,7 +111,7 @@ Let him acquire much food, that is the rule. Earth is food, the ether eats the f
 
 1\. Let him never turn away (a stranger) from his house, that is the rule. Therefore a man should by all means acquire much food, for (good) people say (to the stranger): ‘There is food ready for him.’ If he gives food amply, food is given to him amply. If he gives food fairly, food is given to him fairly. If he gives food meanly, food is given to him meanly.
 
-2\. He who knows this, (recognises and worships Brahman [^241]) as possession in speech, as acquisition and possession in up-breathing (prâ<i>n</i>a) and down-breathing (apâna); as action in the hands; as walking in the feet; as voiding in the anus. These are the human recognitions (of Brahman as manifested in human actions). Next follow the recognitions (of <span id="p68">[<sup><small>p. 68</small></sup>]</span> Brahman) with reference to the Devas, viz. as satisfaction in rain; as power in lightning;
+2\. He who knows this, (recognises and worships Brahman [^241]) as possession in speech, as acquisition and possession in up-breathing (prâ<i>n</i>a) and down-breathing (apâna); as action in the hands; as walking in the feet; as voiding in the anus. These are the human recognitions (of Brahman as manifested in human actions). Next follow the recognitions (of <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> Brahman) with reference to the Devas, viz. as satisfaction in rain; as power in lightning;
 
 3\. As glory in cattle; as light in the stars; as procreation, immortality, and bliss in the member; as everything in the ether. Let him worship that (Brahman) as support, and he becomes supported. Let him worship that (Brahman) as greatness (maha<i>h</i>), and he becomes great. Let him worship that (Brahman) as mind, and he becomes endowed with mind.
 
@@ -119,7 +119,7 @@ Let him acquire much food, that is the rule. Earth is food, the ether eats the f
 
 He [^243] who is this (Brahman) in man, and he who is that (Brahman) in the sun, both are one.
 
-5\. He who knows this, when he has departed this world, after reaching and comprehending the Self which consists of food, the Self which consists of breath, the Self which consists of mind, the Self which consists of understanding, the Self which consists of bliss, enters and takes possession of these worlds, and having as much food as he likes, and assuming as many forms as he likes, he sits down singing this Sâman (of Brahman): 'Hâvu, hâvu, hâvu! <span id="p69">[<sup><small>p. 69</small></sup>]</span> 6\. 'I am food (object), I am food, I am food! I am the eater of food (subject), I am the eater of food, I am the eater of food! I am the poet (who joins the two together), I am the poet, I am the poet! I am the first-born of the Right (<i>ri</i>ta). Before the Devas I was in the centre of all that is immortal. He who gives me away, he alone preserves me: him who eats food, I eat as food.
+5\. He who knows this, when he has departed this world, after reaching and comprehending the Self which consists of food, the Self which consists of breath, the Self which consists of mind, the Self which consists of understanding, the Self which consists of bliss, enters and takes possession of these worlds, and having as much food as he likes, and assuming as many forms as he likes, he sits down singing this Sâman (of Brahman): 'Hâvu, hâvu, hâvu! <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> 6\. 'I am food (object), I am food, I am food! I am the eater of food (subject), I am the eater of food, I am the eater of food! I am the poet (who joins the two together), I am the poet, I am the poet! I am the first-born of the Right (<i>ri</i>ta). Before the Devas I was in the centre of all that is immortal. He who gives me away, he alone preserves me: him who eats food, I eat as food.
 
 ‘I overcome the whole world, I, endowed with golden light [^244]. He who knows this, (attains all this).’ This is the Upanishad [^245].
 

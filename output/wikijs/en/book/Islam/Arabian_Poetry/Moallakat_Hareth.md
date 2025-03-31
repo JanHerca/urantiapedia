@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/08200.jpg) DOTH fair Asoma give us notice of her departure? Oh, why are sojourners so frequently weary of their sojourning?
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. She kindles it with abundance of wood between the hilly stations of Akeik and Shakhsein, and it blazes like the splendour of the sun.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 8\. I have been contemplating her fire from a distance on the hill whence our excursions are made; but oh, the scorching heat and the calamities of war prevent me from approaching her
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 16\. For our brethren, the family of Arakem, _the dragon-eyed_, have transgressed the bounds of justice against us, and have been vehement in their invectives:
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 17\. They have confounded the blameless among us with the guilty, and the most perfect innocence has not escaped their censure.
 
@@ -90,7 +90,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 26\. Thick and firm, secured from calamity; not to be weakened by any disaster, however grievous and violent.
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 27.\* Intrust to our wisdom every momentous affair from which you desire to be extricated, and by which the assemblies of chiefs are made unhappy.
 
@@ -108,7 +108,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 34\. Then we advanced against the sons of Tameim, and when the sacred month required a cessation of our war, we carried away the daughters of their tribe for our handmaids.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 35\. _In opposition to us_, neither could the valiant man keep his ground on the level field, nor did precipitate flight avail the faint-hearted.
 
@@ -128,7 +128,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 43\. Know, that we and you, on the day when we made our treaty, were equally bound by our respective engagements.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 44\. Are we responsible for the crimes of Canda? Shall their conquering chief have the spoils, and shall reprisals be made upon us?
 
@@ -150,7 +150,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 53\. Yet they profaned not the hallowed places of the sons of Rizaah on the hills of Nitaa, when they called on them for mercy.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 54\. They left them, however, wounded on the plain, and returned with captive herds and flocks so numerous, that the drivers of them were deafened with their cries.
 
@@ -170,7 +170,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 62\. He led them on, and supplied them with dates and with water; so the will of God was accomplished, and afflicted men doomed to affliction.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 63\. Then you invited them to attack you by your want of circumspection; and the vain security of your intemperate joy impelled them to be hostile.
 
@@ -190,7 +190,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 71\. And assembled, in complete armour, round the warlike Kais, that valiant prince of Yemen, who stood _firm and brilliant_ like a white cliff.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 72\. Then came a legion of high-born youths, whom nothing could restrain but our long and glittering spears;
 
@@ -212,7 +212,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 81\. We redeemed our captives with nine kings of illustrious race, whose spoils were exceedingly precious.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 82\. With the horses, with the dark horses of the sons of Aus, came whole squadrons, fierce as eagles with crooked beaks:
 

@@ -44,7 +44,7 @@ The tongue is unable to give an account of these three (last) valleys, and utter
 
 Concerning these states the nightingale of the heart has other melodies and mysteries which set the heart in agitation and the spirit in uproar.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 But this enigma of Significances must be only revealed from heart to heart, and confided from breast to breast.
 
@@ -56,7 +56,7 @@ In fire he sees the Face of the Beloved; in unreality perceives the sign of the 
 
 He looks upon the new creation with a discerning sight; and comprehends subtle signs with a pure heart.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 ‘At that Day we will make thy sight discerning,’—is an evidence of this saying, and is sufficient for this instance.”
 

@@ -44,7 +44,7 @@ We sacrifice unto Vohu-Manô, the Amesha-Spe<i>n</i>ta; we sacrifice unto Peace,
 
 We sacrifice unto Asha-Vahi<i>s</i>ta, the fairest, the Amesha-Spe<i>n</i>ta; we sacrifice unto the much-desired Airyaman; we sacrifice unto the instrument made by Mazda; we sacrifice unto the good Saoka, with eyes of love, made by Mazda and holy.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 ## 4\. Shahrêvar.
 
@@ -68,7 +68,7 @@ We sacrifice unto Ameretâ<i>t</i>, the Amesha-Spe<i>n</i>ta; we sacrifice unto 
 
 (At the gâh Uzîren): We sacrifice unto Apãm Napâ<i>t</i>, the swift-horsed, the tall and shining lord, the lord of the females; we sacrifice unto the water made by Mazda and holy.
 
-(At the gâh Aiwisrûthrem): We sacrifice unto the good, powerful, beneficent Fravashis of the holy ones; we sacrifice unto the females that bring forth flocks of males; we sacrifice unto the thrift of the <span id="p15">[<sup><small>p. 15</small></sup>]</span> seasons; we sacrifice unto the well-shapen and tall-formed Strength; we sacrifice unto Verethraghna, made by Mazda; we sacrifice unto the crushing Ascendant.
+(At the gâh Aiwisrûthrem): We sacrifice unto the good, powerful, beneficent Fravashis of the holy ones; we sacrifice unto the females that bring forth flocks of males; we sacrifice unto the thrift of the <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> seasons; we sacrifice unto the well-shapen and tall-formed Strength; we sacrifice unto Verethraghna, made by Mazda; we sacrifice unto the crushing Ascendant.
 
 (At the gâh Ushahin): We sacrifice unto the holy, tall-formed, fiend-smiting Sraosha, who makes the world grow, the holy and master of holiness; we sacrifice unto Rashnu Razi<i>s</i>ta; we sacrifice unto Ar<i>s</i>tâ<i>t</i>, who makes the world grow, who makes the world increase.
 
@@ -84,7 +84,7 @@ We sacrifice unto Âtar, the son of Ahura Mazda; we sacrifice unto king Husravah
 
 We sacrifice unto Âtar, the son of Ahura Mazda; we sacrifice unto Mount Raêva<i>n</i><i>t</i>, made by Mazda; we sacrifice unto the awful Glory of the Kavis, made by Mazda.
 
-We sacrifice unto Âtar, the son of Ahura Mazda; we sacrifice unto Âtar, the beneficent, the warrior. <span id="p16">[<sup><small>p. 16</small></sup>]</span> We sacrifice unto that God, who is a full source of glory. We sacrifice. unto that God, who is a full source of healing.
+We sacrifice unto Âtar, the son of Ahura Mazda; we sacrifice unto Âtar, the beneficent, the warrior. <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> We sacrifice unto that God, who is a full source of glory. We sacrifice. unto that God, who is a full source of healing.
 
 We sacrifice unto Âtar, the son of Ahura Mazda; we sacrifice unto all Fires; we sacrifice unto the God, Nairyô-Sangha, who dwells in the navel of kings.
 
@@ -104,7 +104,7 @@ We sacrifice unto the Moon that keeps in it the seed of the Bull. We sacrifice u
 
 We sacrifice unto Ti<i>s</i>trya, the bright and glorious star; we sacrifice unto the powerful Satavaêsa, made by Mazda, who pushes waters forward; we sacrifice unto all the Stars that have in them the seed of the waters; we sacrifice unto all the Stars that have in them the seed of the earth; we sacrifice unto all the Stars that have in them the seeds of the plants; we sacrifice unto the Star Vana<i>n</i><i>t</i>, made by Mazda; we sacrifice unto those stars that are seven in number, the Haptôiri<i>n</i>gas, made by Mazda, glorious and healing; in order to oppose the Yâtus and Pairikas.
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ## 14\. Gô<i>s</i>.
 
@@ -134,7 +134,7 @@ We sacrifice unto the good, strong, beneficent Fravashis of the holy ones.
 
 We sacrifice unto the well-shapen, tall-formed Strength; we sacrifice unto Verethraghna, made by Ahura; we sacrifice unto the crushing Ascendant.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## 21\. Râm.
 
@@ -154,7 +154,7 @@ We sacrifice unto the most right <i>K</i>ista, made by Mazda and holy; we sacrif
 
 ## 25\. Ard.
 
-We sacrifice unto Ashi Vanguhi, the bright, high, strong, tall-formed, and merciful; we sacrifice unto the Glory made by Mazda; we sacrifice unto the Weal made by Mazda. We sacrifice unto Pâre<i>n</i>di, of the light chariot; we sacrifice unto the Glory of the Aryas, made by Mazda; we sacrifice <span id="p19">[<sup><small>p. 19</small></sup>]</span> unto the awful kingly Glory, made by Mazda; we sacrifice unto that awful Glory, that cannot be forcibly seized, made by Mazda; we sacrifice unto the Glory of Zarathu<i>s</i>tra, made by Mazda.
+We sacrifice unto Ashi Vanguhi, the bright, high, strong, tall-formed, and merciful; we sacrifice unto the Glory made by Mazda; we sacrifice unto the Weal made by Mazda. We sacrifice unto Pâre<i>n</i>di, of the light chariot; we sacrifice unto the Glory of the Aryas, made by Mazda; we sacrifice <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> unto the awful kingly Glory, made by Mazda; we sacrifice unto that awful Glory, that cannot be forcibly seized, made by Mazda; we sacrifice unto the Glory of Zarathu<i>s</i>tra, made by Mazda.
 
 ## 26\. Â<i>s</i>tâd.
 
@@ -170,7 +170,7 @@ We sacrifice unto the Earth, a beneficent God; we sacrifice unto these places, u
 
 ## 29\. Mahraspand.
 
-We sacrifice unto the Mãthra Spe<i>n</i>ta, of high glory; we sacrifice unto the Law opposed to the Daêvas; we sacrifice unto the Law of Zarathu<i>s</i>tra; we sacrifice unto the long-traditional teaching; we sacrifice unto the good Law of the worshippers of Mazda; we sacrifice unto the Devotion to the Mãthra Spe<i>n</i>ta; we sacrifice unto the understanding that keeps the Law of the worshippers of Mazda; we sacrifice unto <span id="p20">[<sup><small>p. 20</small></sup>]</span> the knowledge of the Mãthra Spe<i>n</i>ta; we sacrifice unto the heavenly Wisdom, made by Mazda; we sacrifice unto the Wisdom acquired through the ear and made by Mazda.
+We sacrifice unto the Mãthra Spe<i>n</i>ta, of high glory; we sacrifice unto the Law opposed to the Daêvas; we sacrifice unto the Law of Zarathu<i>s</i>tra; we sacrifice unto the long-traditional teaching; we sacrifice unto the good Law of the worshippers of Mazda; we sacrifice unto the Devotion to the Mãthra Spe<i>n</i>ta; we sacrifice unto the understanding that keeps the Law of the worshippers of Mazda; we sacrifice unto <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> the knowledge of the Mãthra Spe<i>n</i>ta; we sacrifice unto the heavenly Wisdom, made by Mazda; we sacrifice unto the Wisdom acquired through the ear and made by Mazda.
 
 ## 30\. Anêrân.
 

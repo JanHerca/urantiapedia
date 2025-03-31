@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 ### CHAPTER I.
 
-§ 1. There are four periods of commencement of years: viz.—on the first of Nissan is a new year for \[the computation of the reign of\] kings, [^461] and for festivals; [^462] the first of Elul is a new year for the tithe of cattle, [^463] but according to R. Eleazar and R. Simeon, it is on the 1st of Tishri. The 1st of Tishri is New Year's \[day\] for the ordinary or civil year, for the computation of the seventh years \[or years <span id="p157">[<sup><small>p. 157</small></sup>]</span> of release\] [^464], and of the jubilees; also for the planting of trees, [^465] and for herbs. [^466] On the first of Sebat is the new year for trees, [^467] according to Beth Shammai; but Beth Hillel say, “it is on the fifteenth of the same month.”
+§ 1. There are four periods of commencement of years: viz.—on the first of Nissan is a new year for \[the computation of the reign of\] kings, [^461] and for festivals; [^462] the first of Elul is a new year for the tithe of cattle, [^463] but according to R. Eleazar and R. Simeon, it is on the 1st of Tishri. The 1st of Tishri is New Year's \[day\] for the ordinary or civil year, for the computation of the seventh years \[or years <span id="p157"><sup><small>[ p. 157 ]</small></sup></span> of release\] [^464], and of the jubilees; also for the planting of trees, [^465] and for herbs. [^466] On the first of Sebat is the new year for trees, [^467] according to Beth Shammai; but Beth Hillel say, “it is on the fifteenth of the same month.”
 
 § 2. The world is judged at four periods in each year; on pass- over, in respect to the growth of corn; [^468] on the feast of weeks, concerning the fruit of trees; on the feast of new year, when all human beings pass like lambs before God's throne, in order to be judged; as it is said (Ps. xxx. 9), “He who hath fashioned all their hearts, understandeth all their works;” and on the feast of tabernacles judgment is passed concerning the water \[or rain\].
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 4. For the new moons of two months \[the witnesses\] may profane the Sabbath: [^471] viz. for those of Nissan, and of Tishri; because, on these months only, the messengers went to Syria, and the festivals are regulated by them; and during the existence of the Temple it was lawful to profane the Sabbath for any month, on account of the regulation of the offerings \[on the feast of new moon\] in their proper day.
 
-§ 5. Whether the moon had been seen high on the horizon, [^472] or had <span id="p158">[<sup><small>p. 158</small></sup>]</span> not appeared thus high, the Sabbath may be profaned \[by the witnesses\]. R. José says, “If the moon appeared high on the horizon the Sabbath may not be profaned by them \[to announce it\].”
+§ 5. Whether the moon had been seen high on the horizon, [^472] or had <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> not appeared thus high, the Sabbath may be profaned \[by the witnesses\]. R. José says, “If the moon appeared high on the horizon the Sabbath may not be profaned by them \[to announce it\].”
 
 § 6. It happened once, that more than forty pair of witnesses passed through on the Sabbath, when R. Akivah detained them at Lydda \[‏לוד‎\]; Rabbon Gamaliel then sent word, saying, “If thou thus detainest the people, thou wilt be the cause of their straying in future” \[they will refuse to come\].
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 8. The following are considered incompetent witnesses: gamblers with dice, usurers, [^474] pigeon breeders, [^475] those who trade in the produce of the Sabbatical year, and also slaves. The rule is, that all evidence that cannot be received from a woman cannot be received from any of these.
 
-§ 9. A person who has seen the new moon, but is unable to go \[to give evidence\], must be brought \[if unable to walk\] mounted on an asses or even in a bed. Persons afraid of being waylaid by robbers may take sticks with them; [^476] and if they have a long way to go, it will be lawful for them to provide for themselves, and carry their food. [^476] Whenever \[witnesses\] must be a day and a night on the road, it will be lawful to profane the Sabbath to travel thereon, to <span id="p159">[<sup><small>p. 159</small></sup>]</span> give their evidence as to the appearance of the new moon. For thus is it written (Lev. xxiii. 4), “These are the feasts of the Lord, the holy convocations, which _ye_ shall proclaim in their appointed seasons.”
+§ 9. A person who has seen the new moon, but is unable to go \[to give evidence\], must be brought \[if unable to walk\] mounted on an asses or even in a bed. Persons afraid of being waylaid by robbers may take sticks with them; [^476] and if they have a long way to go, it will be lawful for them to provide for themselves, and carry their food. [^476] Whenever \[witnesses\] must be a day and a night on the road, it will be lawful to profane the Sabbath to travel thereon, to <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> give their evidence as to the appearance of the new moon. For thus is it written (Lev. xxiii. 4), “These are the feasts of the Lord, the holy convocations, which _ye_ shall proclaim in their appointed seasons.”
 
 
 

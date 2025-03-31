@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/04100.jpg) DESOLATE are the mansions _of the fair_,  the stations in Minia, where they rested, and those where they fixed their abodes! Wild are the hills of Goul, and deserted is the summit of Rijaam.
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. The large-eyed wild-cows lie suckling their young, a few days old—their young, who will soon become a herd on the plain.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 8\. The torrents have cleared the rubbish, and disclosed the traces of habitations, as the reeds of a writer restore effaced letters in a book;
 
@@ -66,7 +66,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 15\. They hastened their camels, till the sultry vapour gradually stole them from thy sight; and they seemed to pass through a vale, wild with tamarisks and rough with large stones, like the valley of Beihsa.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 16\. Ah, what remains in thy remembrance of the beautiful Nawara, since now she dwells at a distance, and all the bonds of union between her and thee, both strong and weak, are torn asunder?
 
@@ -84,7 +84,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 23\. Yet even in this condition, when her flesh is extenuated, and her hair thin, when, after many a toilsome day, the thong of her shoes is broken,—
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 24\. Even now she has a spirit so brisk, that she flies with the rein, like a dun cloud driven by the south wind, after it has discharged its shower;
 
@@ -104,7 +104,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 32\. When fresh arfadge-plants are mingled in the heap, and the north wind plays with the blazing fire.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 33\. He passes on, but makes her run before him; for such is his usual course, when he fears that she will linger behind.
 
@@ -122,7 +122,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 40\. She passes the night in agony; while the rain falls in a continued shower, and drenches the tangled groves with a profuse stream.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 41\. She shelters herself under the root of a tree, whose boughs are thick, apart from other trees, by the edge of a hill, whose fine sands are shaken by her motion;
 
@@ -142,7 +142,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 49\. When the archers despair _of reaching her with their shafts_, they let slip their long-eared hounds, answering to their names, with bodies dry and thin.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 50\. They rush on: but she brandishes against them her extended horns, both long and sharp as javelins made by the skilful hand of Samhar,
 
@@ -164,7 +164,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 59\. I purchase the old liquor at a dear rate, in dark leathern bottles long reposited, or in casks, black with pitch, whose seals I break, and then fill the cheerful goblet.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 60\. How often do I quaff pure wine in the morning, and draw towards me the fair lutanist, whose delicate fingers skilfully touch the strings!
 
@@ -184,7 +184,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 68\. His trappings are strongly agitated; a shower flows down his neck; and his surcingle is bathed in the scalding foam.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 69\. He lifts his head: he flies at liberty with the loose rein; and hastens to his goal, as a dove hastens to the brook when her feverish thirst rages.
 
@@ -204,7 +204,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 77\. There they crown with meat, while the wintry winds contend with fierce blasts, a dish flowing like a rivulet, into which the famished orphans eagerly plunge.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 78\. When the nations are assembled, some hero of our tribe, firm in debate, never fails by superior powers to surmount the greatest difficulty.
 
@@ -222,7 +222,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 85\. Be content, therefore, with the dispensations of the Supreme Ruler; for He, who best knows our nature, has dispensed justice among us.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 86\. When peace has been established by our tribe, we keep it inviolate; and He, who makes it, renders our prosperity complete.
 

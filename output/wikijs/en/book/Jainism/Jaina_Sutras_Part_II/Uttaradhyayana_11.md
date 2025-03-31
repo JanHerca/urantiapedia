@@ -44,7 +44,7 @@ For eight causes discipline is called virtue, viz.: not to be fond of mirth, to 
 
 A monk who is liable to the following fourteen charges, is called ill-behaved, and does not reach Nirvâ<i>n</i>a: (6)
 
-If he is frequently angry; if he perseveres in his wrath; if he spurns friendly advice; if he is proud of his learning; if he finds fault with others; if he is angry even with friends; if he speaks evil even of a good friend behind his back; if he is positive in his assertions; if he is malicious, egoistical, greedy, <span id="p47">[<sup><small>p. 47</small></sup>]</span> without self-discipline; if he does not share with others; if he is always unkind: then he is called ill-behaved. (7-9)
+If he is frequently angry; if he perseveres in his wrath; if he spurns friendly advice; if he is proud of his learning; if he finds fault with others; if he is angry even with friends; if he speaks evil even of a good friend behind his back; if he is positive in his assertions; if he is malicious, egoistical, greedy, <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> without self-discipline; if he does not share with others; if he is always unkind: then he is called ill-behaved. (7-9)
 
 But for the following fifteen good qualities he is called well-behaved: if he is always humble, steady, free from deceit and curiosity; if he abuses nobody; if he does not persevere in his wrath,; if he listens to friendly advice; if he is not proud of his learning; if he does not find fault with others; if he is not angry with friends; if he speaks well even of a bad friend behind his back; if he abstains from quarrels and rows; if he is enlightened, polite, decent, and quiet: then he is called well-behaved. (10-13)
 
@@ -56,7 +56,7 @@ As a trained Kambô<i>g</i>a-steed, whom no noise frightens [^152], exceeds all 
 
 As a valiant hero bestriding a trained horse, with heralds singing out to his right and left, (has no equal) [^154], neither has a very learned monk. (17)
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 As a strong and irresistible elephant of sixty years, surrounded by his females, (has no equal), neither has a very learned monk. (18)
 
@@ -76,7 +76,7 @@ As the moon, the queen of the stars, surrounded by the asterisms, when she is fu
 
 As a well-guarded storehouse of merchants, which is filled with grain of many kinds, (has no equal), neither has a very learned monk. (26)
 
-As the best of <i>G</i>ambû [^155] trees, called Sudar<i>s</i>anâ, <span id="p49">[<sup><small>p. 49</small></sup>]</span> which is the abode of the presiding deity, (has no equal), neither has a very learned monk. (27)
+As the best of <i>G</i>ambû [^155] trees, called Sudar<i>s</i>anâ, <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> which is the abode of the presiding deity, (has no equal), neither has a very learned monk. (27)
 
 As the best of rivers, the ocean-flowing stream <i>S</i>îtâ [^156] with its dark waters, (has no equal), neither has a very learned monk. (28)
 

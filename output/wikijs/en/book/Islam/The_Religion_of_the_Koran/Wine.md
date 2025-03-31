@@ -32,13 +32,13 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 CHAPTER II., Verse 216.—They will ask thee about wine and games of chance; say, “In them both is sin and profit to men; but the sin of both is greater than the profit of the same.”
 
 Chapter V., Verse 92.—O ye who believe! verily, wine, and games of chance, and statues, and divining (arrows) are only an abomination of Satan's work; avoid them then that haply ye may prosper. Satan only desires to place enmity and hatred between you by wine and games of chance, and to turn you from the remembrance of God and from prayer; but will ye not desist, and obey God, and obey the Apostles, and beware, for if ye turn back, then know that our Apostle has only his message to preach.
 
-Chapter II., Verse 168.—O ye who do believe! eat of the good things wherewith we have provided you, and give thanks unto God if it be Him ye serve—He has only forbidden for you what is dead, and blood, and flesh of swine, and whatsoever has been consecrated to other than God; but he who is forced, neither revolting <span id="p65">[<sup><small>p. 65</small></sup>]</span> nor transgressing, it is in no sin for him; verily God is forgiving and merciful.
+Chapter II., Verse 168.—O ye who do believe! eat of the good things wherewith we have provided you, and give thanks unto God if it be Him ye serve—He has only forbidden for you what is dead, and blood, and flesh of swine, and whatsoever has been consecrated to other than God; but he who is forced, neither revolting <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> nor transgressing, it is in no sin for him; verily God is forgiving and merciful.
 
 Chapter V., Verse 4.—Forbidden to you is that which dies of itself, and blood, and the flesh of swine, and that which is devoted to other than God, and the strangled, and the knocked down, and that which falls down, and the gored, and what wild beasts have eaten—except what ye slaughter in time—and what is sacrificed to idols and dividing carcases by arrows.
 
@@ -48,7 +48,7 @@ Chapter XXX., Verse 38.—And what ye put out to usury that it may increase with
 
 Chapter VI., Verse 142.—Losers are they who kill their children foolishly, without knowledge, and who prohibit what God has bestowed upon them, forging a lie against God, they have erred and are not guided.
 
-Chapter XVI., Verse 60.—When any one of <span id="p66">[<sup><small>p. 66</small></sup>]</span> them has tidings of a female child, his face is over clouded and black, and he has to keep back his wrath.
+Chapter XVI., Verse 60.—When any one of <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> them has tidings of a female child, his face is over clouded and black, and he has to keep back his wrath.
 
 He skulks away from the people, for the evil tidings he has heard—is he to keep it with its disgrace, or to bury it in the dust?—aye! evil is it that they judge!
 

@@ -36,7 +36,7 @@ NINTH LECTURE [^456].
 
 When a monk or a nun wishes to go to a pure place for study, they [^457] should not accept one which is infected by eggs or living beings, &c.; for it is impure and unacceptable. But if that place for study to which they wish to go, is free from eggs or living beings, &c., they may accept it; for it is pure and acceptable.
 
-<span id="p180">[<sup><small>p. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 In this way all that has been said in the corresponding passage about couches [^458] should be repeated here as far as ‘water-plants.’ (1)
 

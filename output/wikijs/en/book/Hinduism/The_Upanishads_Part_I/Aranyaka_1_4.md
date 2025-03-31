@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 FOURTH ADHYÂYA.
 
@@ -44,7 +44,7 @@ FOURTH ADHYÂYA.
 
 3\. Next comes (again) the Sûdadohas verse. Sûdadohas is breath, and thereby he joins all joints with breath.
 
-4\. Next follows the head. That is in Gâyatrî verses. The Gâyatrî is the beginning of all metres [^462]; the head the first of all members. It is in Arkavat verses (Rv. I, 7, 1-9) [^463]. Arka is Agni. They are nine verses. The head consists of nine pieces. He recites the tenth verse, and that is the skin and the hairs on the head. It serves for reciting one verse more than (the nine verses contained in) the Stoma [^464]. <span id="p188">[<sup><small>p. 188</small></sup>]</span> These form the Trivrit Stoma and the Gâyatrî metre, and whatever there exists, all this is produced after the production of this Stoma and this metre. Therefore the recitation of these head-hymns serves for production.
+4\. Next follows the head. That is in Gâyatrî verses. The Gâyatrî is the beginning of all metres [^462]; the head the first of all members. It is in Arkavat verses (Rv. I, 7, 1-9) [^463]. Arka is Agni. They are nine verses. The head consists of nine pieces. He recites the tenth verse, and that is the skin and the hairs on the head. It serves for reciting one verse more than (the nine verses contained in) the Stoma [^464]. <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> These form the Trivrit Stoma and the Gâyatrî metre, and whatever there exists, all this is produced after the production of this Stoma and this metre. Therefore the recitation of these head-hymns serves for production.
 
 5\. He who knows this, gets offspring and cattle.
 
@@ -54,7 +54,7 @@ FOURTH ADHYÂYA.
 
 8\. Next comes the Sûdadohas verse. Sûdadohas is breath, and thereby he joins all joints with breath.
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 ## SECOND KHA<i>N</i><i>D</i>A.
 
@@ -62,11 +62,11 @@ FOURTH ADHYÂYA.
 
 2\. Next comes the Sûdadohas verse. Sûdadohas is breath, thereby he joins all joints with breath.
 
-3\. Next follows the left wing. It is that world (heaven), it is that sun, it is mind, it is the Brihat, it <span id="p190">[<sup><small>p. 190</small></sup>]</span> a, it is a hundred [^469]. These are the six powers (of the left wing). The Sampâta hymn (Rv. IV, 23) serves indeed for obtaining desires and for firmness. The Paṅkti verse (Rv. I, 81, 1) serves for proper food.
+3\. Next follows the left wing. It is that world (heaven), it is that sun, it is mind, it is the Brihat, it <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> a, it is a hundred [^469]. These are the six powers (of the left wing). The Sampâta hymn (Rv. IV, 23) serves indeed for obtaining desires and for firmness. The Paṅkti verse (Rv. I, 81, 1) serves for proper food.
 
 4\. These two (the right and the left wings) are deficient and excessive [^470]. The Brihat (the left wing) is man, the Rathantara (the right wing) is woman. The excess belongs to the man, the deficiency to the woman. Therefore they are deficient and excessive.
 
-5\. Now the left wing of a bird is verily by one feather better, therefore the left wing is larger by one verse. <span id="p191">[<sup><small>p. 191</small></sup>]</span> 6\. Next comes the Sûdadohas verse. Sûdadohas is breath, and thereby he joins all joints with breath.
+5\. Now the left wing of a bird is verily by one feather better, therefore the left wing is larger by one verse. <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> 6\. Next comes the Sûdadohas verse. Sûdadohas is breath, and thereby he joins all joints with breath.
 
 7\. Next follows the tail. They are twenty-one Dvipadâ verses [^471]. For there are twenty-one backward feathers in a bird.
 
@@ -76,7 +76,7 @@ FOURTH ADHYÂYA.
 
 10\. He (the bird and the hymn) is supported by two decades which are Virâ<i>g</i>. The man (the sacrificer) is supported by the two Dvipadâs, the twenty first and twenty-second. That which forms the bird serves for the attainment of all desires; that which forms the man, serves for his happiness, glory, proper food, and honour.
 
-11\. Next comes a Sûdadohas verse, then a Dhayyâ, then a Sûdadohas verse. The Sûdadohas is a man, the Dhayyâ a woman, therefore he recites the Dhayyâ as embraced on both sides by the Sûdadohas. Therefore does the seed of both, when it is effused, obtain oneness, and this with regard to the <span id="p192">[<sup><small>p. 192</small></sup>]</span> woman only. Hence birth takes place in and from the woman. Therefore he recites that Dhayyâ in that place [1](Aranyaka_1_4#fn473).
+11\. Next comes a Sûdadohas verse, then a Dhayyâ, then a Sûdadohas verse. The Sûdadohas is a man, the Dhayyâ a woman, therefore he recites the Dhayyâ as embraced on both sides by the Sûdadohas. Therefore does the seed of both, when it is effused, obtain oneness, and this with regard to the <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> woman only. Hence birth takes place in and from the woman. Therefore he recites that Dhayyâ in that place [1](Aranyaka_1_4#fn473).
 
 ## THIRD KHA<i>N</i><i>D</i>A.
 

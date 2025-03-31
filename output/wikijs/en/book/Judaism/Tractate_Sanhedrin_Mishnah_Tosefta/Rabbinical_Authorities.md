@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:38:15Z
   </table>
 </figure>
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 ABBA SHAUL (_c_. 150), Mish. 10. 1; Tos. 3. 4; 12. 7; 12. 8; 12. 10.
 
@@ -84,7 +84,7 @@ Jehuda \[b. Il’ai\] (_c_. 150), Mish. 1. 3; 1. 6; 2. 1; 2. 2; 2. 3; 2. 4; 3. 1
 
 &nbsp;&nbsp;&nbsp;&nbsp;"    b. Tabbai (_c_. 80 B.C.), Tos. 6. 6.
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 Jehuda ha-Nâsi \[“Rabbi”\] (_c_. 170 A.D.), Tos. 1. 1; 1. 5; 3. 7; 3. 9; 4. 7; 11. 8; 13. 12.
 

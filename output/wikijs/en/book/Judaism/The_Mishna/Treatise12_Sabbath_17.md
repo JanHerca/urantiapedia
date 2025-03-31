@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 ### CHAPTER XVII.
 
-§ 1. All \[such\] vessels \[as may be\] moved on the Sabbath, their doors \[lids\] may be moved with them, even though they have become <span id="p61">[<sup><small>p. 61</small></sup>]</span> parted on the Sabbath; for they are not like house-doors, which are not \[originally\] prepared \[to be moved\].
+§ 1. All \[such\] vessels \[as may be\] moved on the Sabbath, their doors \[lids\] may be moved with them, even though they have become <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> parted on the Sabbath; for they are not like house-doors, which are not \[originally\] prepared \[to be moved\].
 
 § 2. A man may take \[use\] a hammer to crack nuts, or a hatchet to chop fig-cake, or a handsaw to saw cheese, or a shovel to take up dry figs, or a fan or fork to give food thereon to a child, a spindle or a shuttle to pick up fruit, or a sewing-needle to pick a splinter out \[of his skin\], or a packing-needle to open \[undo\] the door.
 

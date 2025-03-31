@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 
 KING Prasenajit had a daughter named Virupa. She had reached a marriageable age. Unfortunately, she was extremely ugly; no prince or warrior would have her for a wife, and even the merchants looked at her askance.
@@ -45,7 +45,7 @@ Ganga was highly flattered by Prasenajit's offer. He was of humble birth, and al
 
 He obeyed. The night was dark, and the wedding took place without Ganga having seen his betrothed. Then Virupa accompanied her husband to his home.
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 Ganga saw his wife the next day. Her ugliness frightened him. He wanted to turn her out of the house, but he did not dare; he feared the king's vengeance. He kept her at home, but she was virtually a prisoner; she was not allowed to go out, for any reason whatsoever.
 
@@ -57,7 +57,7 @@ Ganga decided to attend; it would relieve the monotony of his existence. But he 
 
 That day, Virupa was sadder than usual. She knew where her husband had gone, and she wept. She said to herself:
 
-“What good is a life as dreary as mine? I never have any pleasure. My master loathes me. And I can not blame him; I am ugly; every one has told me so. I have brought joy to no one. Oh, I loathe <span id="p229">[<sup><small>p. 229</small></sup>]</span> myself. Death would be better than this life I lead; death would be sweet. I shall kill myself.”
+“What good is a life as dreary as mine? I never have any pleasure. My master loathes me. And I can not blame him; I am ugly; every one has told me so. I have brought joy to no one. Oh, I loathe <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> myself. Death would be better than this life I lead; death would be sweet. I shall kill myself.”
 
 She took a rope and hung herself.
 
@@ -75,7 +75,7 @@ In the meanwhile, Ganga had not been spared the banter of his friends.
 
 Ganga was at a loss for an answer. The feast bored him. One of his friends handed him a cup of intoxicating wine.
 
-“Drink, Ganga,” said he. “We laugh, and you <span id="p230">[<sup><small>p. 230</small></sup>]</span> are almost in tears. Come, laugh with us. Drink; this wine will teach you to laugh.”
+“Drink, Ganga,” said he. “We laugh, and you <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> are almost in tears. Come, laugh with us. Drink; this wine will teach you to laugh.”
 
 Ganga took the cup. He drank. He became livelier. He drank again. Presently, he was drunk. And he kept on drinking until, finally, he fell into a heavy sleep.
 
@@ -89,7 +89,7 @@ Ganga was still sleeping. They awoke him and said:
 
 “This is too much!” cried Ganga. “What have I ever done to you that you should insult me so cruelly?”
 
-And he abruptly left them. He was raging with anger and mortification. He flung open the door of his house; he strode through the halls, muttering imprecations; but, suddenly, the curses died upon his lips. He turned pale with astonishment. Before him was standing a woman of incomparable <span id="p231">[<sup><small>p. 231</small></sup>]</span> beauty. She was smiling. He slowly came to his senses; then he, too, smiled, and he asked:
+And he abruptly left them. He was raging with anger and mortification. He flung open the door of his house; he strode through the halls, muttering imprecations; but, suddenly, the curses died upon his lips. He turned pale with astonishment. Before him was standing a woman of incomparable <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> beauty. She was smiling. He slowly came to his senses; then he, too, smiled, and he asked:
 
 “O you who appear before me like some radiant Goddess new-risen from her bed of flowers, O well-beloved, who made you so beautiful?”
 

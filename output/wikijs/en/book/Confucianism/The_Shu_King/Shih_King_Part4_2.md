@@ -37,7 +37,7 @@ dateCreated: 2025-2-12T12:2:15Z
 THE Shû and previous portions of the Shih have made us familiar with Shâo, the name of the appanage of Shih, one of the principal ministers at the court of <i>K</i>âu in the first two reigns of the dynasty. The site of the city of Shâo was in the present department of Făng-_kh_iang, Shen-hsî. The first possessor of it, along with the still more famous duke of <i>K</i>âu, remained at court, to watch over the fortunes of the new dynasty. They were known as ‘the highest dukes’ and ‘the two great chiefs,’ the duke of <i>K</i>âu having charge of the eastern portions of the kingdom, and the other of the western. The pieces in this Book are supposed to have been produced in Shâo, and the principalities south of it within his jurisdiction, by the duke.
 
 
-<span id="p431">[<sup><small>p. 431</small></sup>]</span>
+<span id="p431"><sup><small>[ p. 431 ]</small></sup></span>
 
 <a id="o2"></a>
 
@@ -53,7 +53,7 @@ She gathers the white southernwood, By the ponds, on the islets. She employs it,
 
 She gathers the white southernwood, Along the streams in the valleys. She employs it, In the temple [^597] of our prince.
 
-<span id="p432">[<sup><small>p. 432</small></sup>]</span>
+<span id="p432"><sup><small>[ p. 432 ]</small></sup></span>
 
 With head-dress reverently rising aloft, Early, while yet it is night, she is in the prince's (temple). In her head-dress, slowly retiring, She returns (to her own apartments).
 

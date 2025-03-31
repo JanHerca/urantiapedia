@@ -29,7 +29,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 ## XVII. Conclusion.
 
@@ -56,7 +56,7 @@ Bitest at the word material, dreaming not of sword;—
 Snappest at the hard, unyielding dictum, with fond zest;
 <sup id="v10"><small>10</small></sup>  And findest it horny, flinty, irksome to digest.
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 It has become a stone. It wounds; it draws forth blood.
 Then shun it, human camel. Seek it not for food.

@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T18:54:30Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 When the world-illuming sun rushed
 upon Night like a brigand,
@@ -44,7 +44,7 @@ He sowed a verse and reaped a sword.
 In the soil he planted only the seed of my tears
 And wove my lament with the garden, as warp and woof.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 Tho’ I am but a mote, the radiant sun is mine:
 <span id="v10"><sup><small>10</small></sup></span>  Within my bosom are a hundred dawns.
@@ -59,7 +59,7 @@ I smote the heartstrings of all that heard me,
 Because the lute of my genius hath a rare melody:
 <span id="v20"><sup><small>20</small></sup></span>  Even to comrades my song is strange.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 I am born in the world as a new sun,
 I have not learned the ways and fashions of the sky:
@@ -76,7 +76,7 @@ Oh, happy they who shall worship my fire!
 I have no need of the ear of To-day,
 I am the voice of the poet of To-morrow.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 <span id="v35"><sup><small>35</small></sup></span>  My own age does not understand my deep meanings,
 My Joseph is not for this market.
@@ -93,7 +93,7 @@ When roses blossomed o’er the earth of his grave!
 Albeit caravans have passed through this desert,
 They passed, as a camel steps, with little sound.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 But I am a lover: loud crying is my faith:
 <span id="v50"><sup><small>50</small></sup></span>  The clamour of Judgement Day is one of my minions.
@@ -109,7 +109,7 @@ Lightnings slumber within my soul,
 <span id="v60"><sup><small>60</small></sup></span>  I sweep over mountain and plain.
 Wrestle with my sea, if thou art a plain;
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Receive my lightning, if thou art a Sinai.
 The Fountain of Life hath been given me to drink,
@@ -124,7 +124,7 @@ The old Guru of the Sky taught me this lore,
 I cannot hide it from my comrades.
 O Saki! arise and pour wine into the cup,
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 Clear the vexation of Time from my heart!
 <span id="v75"><sup><small>75</small></sup></span>  The sparkling liquor that flows from Zemzem— [^24]
@@ -140,7 +140,7 @@ It makes the foot of the partridge red with blood of the hawk.
 <span id="v85"><sup><small>85</small></sup></span>  Arise and pour pure wine into my cup,
 Pour moonbeams into the dark night of my thought,
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 That I may lead home the wanderer
 And imbue the idle looker-on with restless impatience;
@@ -155,7 +155,7 @@ I rehearse the sealed book of secret lore.
 His soul is the source of the flames,
 I am but as the spark that gleams for a moment.
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 His burning candle consumed me, the moth;
 <span id="v100"><sup><small>100</small></sup></span>  His wine overwhelmed my goblet.
@@ -171,7 +171,7 @@ Will draw life from the breath of his words.
 ’Twas night: my heart would fain lament,
 <span id="v110"><sup><small>110</small></sup></span>  The. silence was filled with my cries to God.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 I was complaining of the sorrows of the world
 And bewailing the emptiness of my cup.
@@ -188,7 +188,7 @@ Make the hearts of men bleed with thy tears!
 How long wilt thou be silent, like a bud?
 Sell thy fragrance cheap, like the rose!
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 <span id="v125"><sup><small>125</small></sup></span>  Tongue-tied, thou art in pain:
 Cast thyself upon the fire, like rue! [^27]
@@ -205,7 +205,7 @@ Give to Majnún a message from Lailá! [^29]
 Create a new style for thy song,
 Enrich the feast with thy piercing strains!
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Up, and re-inspire every living soul!
 <span id="v140"><sup><small>140</small></sup></span>  Say ‘Arise!’ and by that word quicken the living!
@@ -226,7 +226,7 @@ Uncomely, worthless, good for nothing.
 Love chiselled me: I became a man
 And gained knowledge of the nature of the universe.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 <span id="v155"><sup><small>155</small></sup></span>  I have seen the movement of the sinews of the sky,
 And the blood coursing in the veins of the moon.
@@ -243,7 +243,7 @@ It harvested a hundred poets like Rúmí and Attar.
 I am a sigh: I will mount to the heavens;
 I am a breath, yet am I sprung of fire.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 Driven onward by high thoughts, my pen
 <span id="v170"><sup><small>170</small></sup></span>  Cast abroad the secret of this veil,
@@ -258,7 +258,7 @@ Do not seek from me Khánsár and Isfahan. [^30]
 Although the language of Hind is sweet as sugar,
 <span id="v180"><sup><small>180</small></sup></span>  Yet sweeter is the fashion of Persian speech.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 My mind was enchanted by its loveliness,
 My pen became as a twig of the Burning Bush.

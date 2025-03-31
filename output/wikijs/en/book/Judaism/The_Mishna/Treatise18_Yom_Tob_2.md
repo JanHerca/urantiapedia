@@ -38,7 +38,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 2. When the festival happens immediately after the Sabbath, Beth Shammai say, “Every thing requiring purification must be immersed before the Sabbath.” But Beth Hillel say, “Vessels must be immersed before the Sabbath, and human beings on the Sabbath.”
 
-§ 3. Both schools agree, that water which has become polluted, may be purified by putting it into an earthenware vessel, and bringing it in contact with the waters of a bath, but not in an unclean vessel. It is lawful, however, to immerse vessels whose original appropriation <span id="p148">[<sup><small>p. 148</small></sup>]</span> has been altered, [^418] and men may bathe when they have changed from one company to another \[to eat the Paschal lamb\]. [^419]
+§ 3. Both schools agree, that water which has become polluted, may be purified by putting it into an earthenware vessel, and bringing it in contact with the waters of a bath, but not in an unclean vessel. It is lawful, however, to immerse vessels whose original appropriation <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> has been altered, [^418] and men may bathe when they have changed from one company to another \[to eat the Paschal lamb\]. [^419]
 
 § 4. Beth Shammai say, “A person may bring peace-offerings on the festival, but he may not impose his hands upon them; [^420] neither may \[a private individual\] bring burnt-offerings thereon.” But Beth Hillel allow the bringing of peace and burnt-offerings, and the imposition of hands upon them.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 7. He \[Rabbon Gamaliel\] decided in alleviation \[that is, permitting\] in respect to the three following things: he allowed to sweep on the festival between the couches or sofas [^421] \[after dinner\], to put perfume on the coals \[after dinner\], [^422] and to prepare a complete [^423] kid on the nights of Passover; but the sages prohibit all these.
 
-§ 8. Rabbi Eleazar ben Azariah permitted three things, which the other sages prohibit: his cow was allowed to go out on the Sabbath with a strap attached to her horns, [^424] he held it also to be <span id="p149">[<sup><small>p. 149</small></sup>]</span> lawful to curry cattle on the festival, and to grind thereon pepper in a pepper-mill. R. Jehudah says, “It is not lawful to curry cattle on the festival, because a wound may be inflicted \[by the teeth of the iron currycomb\], but they may be curried with a wooden comb.” The Rabbins decide it to be unlawful to curry cattle either with an iron currycomb or with a wooden comb.
+§ 8. Rabbi Eleazar ben Azariah permitted three things, which the other sages prohibit: his cow was allowed to go out on the Sabbath with a strap attached to her horns, [^424] he held it also to be <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> lawful to curry cattle on the festival, and to grind thereon pepper in a pepper-mill. R. Jehudah says, “It is not lawful to curry cattle on the festival, because a wound may be inflicted \[by the teeth of the iron currycomb\], but they may be curried with a wooden comb.” The Rabbins decide it to be unlawful to curry cattle either with an iron currycomb or with a wooden comb.
 
 § 9. A handmill, used to grind pepper, is liable to contract pollution in the three separate vessels of which it is composed: namely, as a vessel of capacity, [^425] as a metal vessel, [^426] and as a vessel of the sieve kind. [^427]
 

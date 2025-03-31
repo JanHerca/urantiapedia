@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p212">[<sup><small>p. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 ## X. Patience and Perseverance Under a Teacher.
 
@@ -59,7 +59,7 @@ Especially truth's wine, that flows from God's high throne.
 Select a Teacher, then. Without such, travel's vain;
 <sup id="v10"><small>10</small></sup>  The way is dangerous,—beset with evil's train.
 
-<span id="p213">[<sup><small>p. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 By well-known road, though travelled many times before,
 Without a guide to venture, opens peril's door.
@@ -91,7 +91,7 @@ For he who them opposes not, to ruin hies.
 Lend not thyself to lust and fancy's every wind;
 For these are what lead men astray; to God's truth blind.
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 There's nothing in the world that better curbs the lusts,
 <sup id="v25"><small>25</small></sup>  Than holy company. Protected, he who trusts.
@@ -125,7 +125,7 @@ For fear thy guide should turn, and drive thee from the spot.[^326]
 Should He destroy a ship,[^327]—no murmur from thy mouth;
 Should He an infant choke,[^328]—let slip no word uncouth.
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 God hath declared his hand is like the hand of God,
 <sup id="v40"><small>40</small></sup>  By saying: “God's right hand above all hands doth plod.”[^329]
@@ -163,7 +163,7 @@ Our man replied: “Between my bladebones it enthrone.”
 The artist then began to ply his needles’ train;
 <sup id="v55"><small>55</small></sup>  The Qazwīn bully bellowed, smarting with the pain.
 
-<span id="p216">[<sup><small>p. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 The artist he addressed: “Most clever man of skill,
 Thou’lt drive me mad. What picture works me so much ill?”
@@ -197,7 +197,7 @@ In anger saying: “What the plague's come now to birth?
 A lion tailless, headless, bodiless, who's seen?
 God such a lion ne’er created, sure, I ween!”
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Have patience, thou too, brother, with thy needle's smart.
 <sup id="v70"><small>70</small></sup>  So shalt thou ’scape the sting of conscience in thy heart.

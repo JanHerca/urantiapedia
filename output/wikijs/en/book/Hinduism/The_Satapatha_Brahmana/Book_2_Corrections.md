@@ -34,7 +34,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 
 
-<span id="p474">[<sup><small>p. 474</small></sup>]</span>
+<span id="p474"><sup><small>[ p. 474 ]</small></sup></span>
 
 ## PART I. (VOL. XII OF SERIES.)
 

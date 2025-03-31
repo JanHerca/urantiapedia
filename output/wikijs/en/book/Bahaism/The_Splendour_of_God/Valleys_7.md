@@ -40,7 +40,7 @@ For when a sincere lover and agreeable friend attains to the meeting of the belo
 
 Nay, whatever is with him, even marrow and skin, will thereby be burnt, and naught remain except the friend.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 ‘When the attributes of the Ancient One became manifest, then the Interlocutor (Moses) consumed the attributes of all things accidental.’
 
@@ -58,7 +58,7 @@ Many are the meanings and grades of the outward and inward poverty, which I do n
 
 It is in this stage that the traces of all things are destroyed in the traveller, and the Beauty of the Face unveils itself from the Orient of the Eternal World, and the meaning of ‘Everything is mortal save the Face of God’ becomes manifest.
 
-Hearken to the melodies of the Spirit with all <span id="p79">[<sup><small>p. 79</small></sup>]</span> thy heart and soul, and preserve them as the sight of thine eyes; for the Divine Enlightenments will not always flow, like the vernal rain, upon the soil of human hearts.
+Hearken to the melodies of the Spirit with all <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> thy heart and soul, and preserve them as the sight of thine eyes; for the Divine Enlightenments will not always flow, like the vernal rain, upon the soil of human hearts.
 
 Although the bounty of the Bountiful One is continual and free from interruption; yet for every time and age a certain portion is determined and a certain benefit is ordained; and these are bestowed (on men) according to a certain quantity and measure.
 
@@ -72,7 +72,7 @@ Not every sea has pearls; not every branch brings forth flowers; nor doth the ni
 
 Therefore, so long as the nightingale of the spiritual planting hath not returned to the Divine Rose-Garden, and the Lights of the Spiritual Dawn have not returned to the Sun of Reality;—make an effort.
 
-Perchance in this mortal land thou mayest inhale a fragrance from the Immortal Rose-Garden, <span id="p80">[<sup><small>p. 80</small></sup>]</span> and rest for ever under the shade of the people of this valley (city).
+Perchance in this mortal land thou mayest inhale a fragrance from the Immortal Rose-Garden, <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> and rest for ever under the shade of the people of this valley (city).
 
 When thou hast reached this lofty, exalted grade and attained to this great station, then wilt thou see the Friend, and forget strangers (_i.e._ all else save Him).
 
@@ -92,7 +92,7 @@ Yea! He is concealed by the intensity of manifestation, and He is hidden by the 
 
 \`The True One hath become manifest, like unto the shining sun. Pity that He hath come in the city of the blind!’
 
-In this valley the traveller journeys through the stages of ‘Oneness of Existence’ and of Appearance, and will attain to a Oneness which is sanctified above both these stations.“ <span id="p81">[<sup><small>p. 81</small></sup>]</span> \[”The mystic doctrine of the ‘Oneness of Existence’ is outlined from this formula—‘_Only God exists; He is in all things, and all things are in Him_.’"—Note by Translator.\]
+In this valley the traveller journeys through the stages of ‘Oneness of Existence’ and of Appearance, and will attain to a Oneness which is sanctified above both these stations.“ <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> \[”The mystic doctrine of the ‘Oneness of Existence’ is outlined from this formula—‘_Only God exists; He is in all things, and all things are in Him_.’"—Note by Translator.\]
 
 “(The condition of) Ecstasy can penetrate this saying, but not controversy nor conflict.
 
@@ -102,7 +102,7 @@ He who hath chosen an abode in this Meeting, or discovered a breeze from this Ga
 
 Although these journeys have no visible termination in the world of time, yet, if the Invisible Assistance vouchsafe a devoted traveller (lit. one severed from all else save God), and if the Guardian of the Command (_i.e._ the manifestation of God) help him, he will traverse these seven stages in only seven steps; nay, in seven breaths; nay, even in one breath (a moment) if God will or desire. ‘This is through His Bounty to whomsoever He willeth.’
 
-Those who soar in the sky of Oneness, and who have attained to the Sea of Abstraction, have accounted this station, which is the station in this city of Immortality in God, to be the ultimate destination of the Arif—(one who is intimate with <span id="p82">[<sup><small>p. 82</small></sup>]</span> highest mystic thought)—and the ultimate home of the Lovers.
+Those who soar in the sky of Oneness, and who have attained to the Sea of Abstraction, have accounted this station, which is the station in this city of Immortality in God, to be the ultimate destination of the Arif—(one who is intimate with <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> highest mystic thought)—and the ultimate home of the Lovers.
 
 But, to this humble (nit of the Sea of Significances, this station is only the first city-wall of the heart; that is, the first arrival of man at the City of the Heart.
 
@@ -116,7 +116,7 @@ Make an effort; perchance it may, as a globe, protect this lamp from contrary wi
 
 For a neck which is lifted in the Love of God, will certainly be severed by a sword; a head which is raised in Love will assuredly blown by the winds; and the heart which is linked to the commemoration of the Beloved will certainly be full of grief.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 How well it is said (by the poet):
 
@@ -141,7 +141,7 @@ II. Tari-Kat, _i.e._ Travelling in Search of Truth; by finding the Perfect Man w
 
 III. Hakirat, _i.e._ Truth; to attain to which, according to Sufis, depends upon passing through the two preceding stages.
 
-Here Baha‘u‘llah teaches that, contrary to what some Sufis teach or believe, the laws of religion <span id="p84">[<sup><small>p. 84</small></sup>]</span> must be the guide even when man has attained the Truth; for Truth itself is embodied in the laws of religion. To abandon the laws in any stage of development would be sheer antinomianism and therefore a great error.”
+Here Baha‘u‘llah teaches that, contrary to what some Sufis teach or believe, the laws of religion <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> must be the guide even when man has attained the Truth; for Truth itself is embodied in the laws of religion. To abandon the laws in any stage of development would be sheer antinomianism and therefore a great error.”
 
 (This note refers to the text above, concerning the error of deviation from commandment.)
 

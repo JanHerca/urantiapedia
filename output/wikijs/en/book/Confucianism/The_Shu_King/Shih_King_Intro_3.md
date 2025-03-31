@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:2:15Z
   </table>
 </figure>
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 From Confucius to rise of the <i>Kh</i>in dynasty.
 
@@ -46,7 +46,7 @@ Three different texts.
 
 3\. Three different texts of the Shih made their appearance early in the Han dynasty, known as the Shih of Lû, of <i>Kh</i>î, and of Han; that is, the Book of Poetry was recovered from three different quarters. Liû Hin's Catalogue of the Books in the Imperial Library of Han (B.C. 6 to 1) commences, on the Shih King, with a collection of the three texts, in twenty-eight chapters.
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 The text of Lû.
 
@@ -54,7 +54,7 @@ i. Immediately after the mention of the general collection in the Catalogue come
 
 The text of Khî.
 
-ii. The Han Catalogue mentions five different works on the Shih of <i>Kh</i>î. This text was from a Yüan Kû, a native of Khî, about whom we learn, from the same collection of Literary Biographies, that he was one of the great scholars of the court in the time of the emperor <i>K</i>ing (B.C. 156 to 141),—a favourite with him, and specially distinguished for his knowledge of the odes and his advocacy of orthodox Confucian doctrine. He died in the succeeding reign of Wû, more than ninety years old; and we are told that all the scholars of <i>Kh</i>î who got a name in those days for their acquaintance with the Shih sprang from his school. Among his disciple's was the well-known <span id="p287">[<sup><small>p. 287</small></sup>]</span> name of Hsiâ-hâu Shih-_kh_ang, who communicated his acquisitions to Hâu _Ȝh_ang, a native of the present Shan-tung province, and author of two of the works in the Han Catalogue. Hâu had three disciples of note, and by them the Shih of <i>Kh</i>î was transmitted to others, whose names, with quotations from their writings, are scattered through the Books of Han. Neither text nor commentaries, however, had a better fate than the Shih of Lû. There is no mention of them in the Catalogue of Sui. They are said to have perished even before the rise of the <i>K</i>in dynasty.
+ii. The Han Catalogue mentions five different works on the Shih of <i>Kh</i>î. This text was from a Yüan Kû, a native of Khî, about whom we learn, from the same collection of Literary Biographies, that he was one of the great scholars of the court in the time of the emperor <i>K</i>ing (B.C. 156 to 141),—a favourite with him, and specially distinguished for his knowledge of the odes and his advocacy of orthodox Confucian doctrine. He died in the succeeding reign of Wû, more than ninety years old; and we are told that all the scholars of <i>Kh</i>î who got a name in those days for their acquaintance with the Shih sprang from his school. Among his disciple's was the well-known <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> name of Hsiâ-hâu Shih-_kh_ang, who communicated his acquisitions to Hâu _Ȝh_ang, a native of the present Shan-tung province, and author of two of the works in the Han Catalogue. Hâu had three disciples of note, and by them the Shih of <i>Kh</i>î was transmitted to others, whose names, with quotations from their writings, are scattered through the Books of Han. Neither text nor commentaries, however, had a better fate than the Shih of Lû. There is no mention of them in the Catalogue of Sui. They are said to have perished even before the rise of the <i>K</i>in dynasty.
 
 The text of Han Ying.
 
@@ -62,13 +62,13 @@ iii. The text of Han was somewhat more fortunate. Hin's Catalogue contains the n
 
 4\. But while those three different recensions of the Shih all disappeared, with the exception of a single treatise of Han Ying, their unhappy fate was owing not more to the convulsions by which the empire was often rent, and the consequent destruction of literary monuments such as we
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 A fourth text; that of Mâo.
 
 have witnessed in China in our own day, than to the appearance of a fourth text, which displaced them by its superior correctness, and the ability with which it was advocated and commented on. This was what is called the Text of Mâo. It came into the field rather later than the others; but the Han Catalogue contains the Shih of Mâo, in twenty-nine chapters, and a Commentary on it in thirty-nine. According to <i>K</i>ăng Hsüan, the author of this was a native of Lû, known as Mâo Hăng or ‘the Greater Mâo,’ who had been a disciple, we are told by Lü Teh-ming, of Hsün <i>Kh</i>ing. The work is lost. He had communicated his knowledge of the Shih, however, to another Mâo,—Mâo <i>K</i>ang, ‘the Lesser Mao,’ who was a great scholar, at the court of king Hsien of Ho-_k_ien, a son of the emperor <i>K</i>ing. King Hsien was one of the most diligent labourers in the recovery of the ancient books, and presented the text and work of Hang at the court of his father,—probably in B.C. 129. Mâo <i>K</i>ang published Explanations of the Shih, in twenty-nine chapters,—a work which we still possess; but it was not till the reign of Phing (A.D. 1 to 9) that Mâo's recension was received into the Imperial College, and took its place along with those of Lû, <i>Kh</i>î, and Han Ying.
 
-The Chinese critics nave carefully traced the line of scholars who had charge of Mâo's Text and Explanations down to the reign of Phing. The names of the men and their works are all given. By the end of the first quarter of our first century we find the most famous scholars addicting themselves to Mâo's text. The well-known <i>K</i>iâ Khwei (A.D. 30 to 101) published a work on the Meaning and Difficulties of Mâo's Shih, having previously compiled a digest of the differences between its text and those of the other three recensions, at the command of the emperor Ming (A.D. 58 to 75). The equally celebrated Mâ Yung (A.D. 79 to 166) followed with another commentary;—and we arrive at Kang Hsüan or <i>K</i>ăng Khang-_kh_ăng (A.D. 127 to 200), who wrote a Supplementary Commentary to the Shih of Mâo, and a Chronological Introduction to the Shih. The former of these two works complete, and <span id="p289">[<sup><small>p. 289</small></sup>]</span> portions of the latter, are still extant. After the time of Kăng the other three texts were little heard of, while the name of the commentators on Mâo's text speedily becomes legion. It was inscribed, moreover, on the stone tablets of the emperor Ling (A.D. 168 to 189). The grave of Mâo <i>K</i>ăng is still shown near the village of Ȝun-fû, in the departmental district of Ho-_k_ien, <i>K</i>ih-lî.
+The Chinese critics nave carefully traced the line of scholars who had charge of Mâo's Text and Explanations down to the reign of Phing. The names of the men and their works are all given. By the end of the first quarter of our first century we find the most famous scholars addicting themselves to Mâo's text. The well-known <i>K</i>iâ Khwei (A.D. 30 to 101) published a work on the Meaning and Difficulties of Mâo's Shih, having previously compiled a digest of the differences between its text and those of the other three recensions, at the command of the emperor Ming (A.D. 58 to 75). The equally celebrated Mâ Yung (A.D. 79 to 166) followed with another commentary;—and we arrive at Kang Hsüan or <i>K</i>ăng Khang-_kh_ăng (A.D. 127 to 200), who wrote a Supplementary Commentary to the Shih of Mâo, and a Chronological Introduction to the Shih. The former of these two works complete, and <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> portions of the latter, are still extant. After the time of Kăng the other three texts were little heard of, while the name of the commentators on Mâo's text speedily becomes legion. It was inscribed, moreover, on the stone tablets of the emperor Ling (A.D. 168 to 189). The grave of Mâo <i>K</i>ăng is still shown near the village of Ȝun-fû, in the departmental district of Ho-_k_ien, <i>K</i>ih-lî.
 
 The different texts guarantee the genuineness of the recovered Shih.
 

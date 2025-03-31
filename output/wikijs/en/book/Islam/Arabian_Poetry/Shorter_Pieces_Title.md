@@ -32,9 +32,9 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 <p style="text-align:center;">
 <i>SHORTER PIECES</i>
@@ -48,7 +48,7 @@ OF<br>
 <span class="text-h5">BY J. D. CARLYLE, BḌ.</span><br>
 </p>
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 _As the following translations were attempted at different times and with different impressions, their execution is, no doubt, very unequal: in general they will, I trust, be found as literal as the nature of two languages, so little resembling each other in their structure, will admit; in some few instances I have indulged myself in a greater latitude, and have given rather an imitation than a version;—in such a manner, however, I hope, as not in any place to have lost sight of the original idea of the writer_.—From the Translator's Preface.
 

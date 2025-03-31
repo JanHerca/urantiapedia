@@ -31,9 +31,9 @@ dateCreated: 2024-11-10T18:38:5Z
 
 
 
-<span id="p346">[<sup><small>p. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 
 (al) Aarâf, bridge of, Int. p. lxix; Part I, p. 143; Part II, p. 32 note 1.
@@ -143,7 +143,7 @@ Amram, I, 50, n 1.
 
 ‘Amr ibn La’hy, xvii.
 
-<span id="p348">[<sup><small>p. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
 Angel of death, II, 136.
 - fallen, xiv.
@@ -267,7 +267,7 @@ Bekkah, xvi; I, 58.
 
 Benu Bakr, xvii.
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 Benu Ghanm, I, 188 n 1, 189 n 1.
 
@@ -425,7 +425,7 @@ Ezekiel, vision of, I, 37 n 2.
 
 Ezra, Mohammedan legend of, I, 177, 177 n.
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 Farewell pilgrimage, xliv.
 
@@ -570,7 +570,7 @@ Hâmân, Pharaoh's vizier, II, 108, 108 n 1, 112, 121 n.
 
 ‘Hamzah, Mohammed's uncle, xxxviii; I, 264 n 1; II, 192, 193, 194.
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 ‘Hanif, xv, xxiv, lii; I, 19, 54, 90, 124, 133 n 1, 137, 204, 263; II, 59, 338.
 
@@ -700,7 +700,7 @@ Imâmam, meaning of word, I, 26 3 n 2.
 
 Immunity, chapter of, I, 172.
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 Imrân, I, 50.
 
@@ -826,7 +826,7 @@ Lot, xxv; I, 61, 125, 148, 213, 214, 215, 248; II, 20 n 1, 27 n 1, 52, 97, 104, 
 Lote tree, the celestial, II, 252.
 - trees, II, 152, 152 n.
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 Magicians, I, 151.
 
@@ -928,7 +928,7 @@ Mohammed, lxv; I, 13 n 2, 15 n 1, 32 n 1, 50 n 1, 97 n 1, 126 n 2, 165 n 2, 175 
 - invited to Medînah, xxxi.
 - marriage of, with the divorced wife of Zâid, II, 139 n.
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 Mohammed marries ‘_H_adî_g_ah, xix.
 - mental struggles, xxii.
@@ -1033,7 +1033,7 @@ Na_g_rân, xiv.
 
 Na‘_h_a‘h tribe, patois, I, 236 n 2.
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 Names, the excellent, lxvii.
 
@@ -1175,7 +1175,7 @@ Qurâi_s_, xvi, xxvi, xxviii, xxxiii, xlix, liii, lix, lxi; I, 97 n, 165 n 1, 25
 - idiom of, lxxvi; II, 75 n 2.
 - territory of, I, 249 n 2.
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 Qur’ân, I, 147 n 1; II, 307, 308.
 - abrupt changes of persons in, I, 195 n 2.
@@ -1336,7 +1336,7 @@ Simon Peter, II, 164 n.
 
 Sinai, inhabitants of, I, 147 n 1.
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 Sinai, Mount, I, 57 n 1; II, 66, 336.
 - Peninsula of, I, 147 n 1.
@@ -1488,7 +1488,7 @@ Witches, II, 303.
 
 Women, position of, lxxv.
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 Word, l; I, 51.
 

@@ -151,7 +151,7 @@ Forgive me, for I needs must go.
 Once Kaudu, mighty saint, who made
 His dwelling in the forest shade,
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 A cow—and duty's claims he knew—
 Obedient to his father, slew.
@@ -276,7 +276,7 @@ Shall she, like some poor widowed thing,
 Now, mother, speed thy parting son,
 &nbsp;&nbsp;&nbsp;&nbsp;And let thy blessing soothe my pain,
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 That I may turn, mine exile done,
 &nbsp;&nbsp;&nbsp;&nbsp;Like King Yayáti, home again.
@@ -399,7 +399,7 @@ King-making drops upon my head,
 Shall, with their pure lustrations now
 Inaugurate my hermit's vow.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Yet what have I to do with things
 That touch the state and pomp of kings?
@@ -515,7 +515,7 @@ Then if their minds are idly bent
 To doom thee, King, to banishment,
 Through twice seven years of exile they
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 Shall In the lonely forest stay.
 I will consume the hopes that fire
@@ -640,7 +640,7 @@ Deep in my soul I felt the fire,
 Whose offerings flowed from weeping eyes,
 With fuel fed of groans and sighs,
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 While round the flame the smoke grew hot
 Of tears because thou earnest not.
@@ -770,7 +770,7 @@ returning from the wilderness.’
 &nbsp;&nbsp;&nbsp;&nbsp;Invoking with each eager thought
 &nbsp;&nbsp;&nbsp;&nbsp;A blessing on his head.
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 
 
@@ -879,7 +879,7 @@ For Ráma's bliss and health, the priest,
 Standing without gave what remained
 In general offering, [^299] as ordained.
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Dealing among the twice-horn train
 Honey, and curds, and oil, and grain,
@@ -1001,7 +1001,7 @@ With clammy drops, his grief she viewed,
 And cried, consumed with fires of woe.
 ‘What, O my lord, has changed thee so?
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 Vrihaspati looks down benign,
 And the moon rests in Pushya's sign,
@@ -1127,7 +1127,7 @@ Contempt of me the thought has bred.
 O best of heroes, I dismiss
 With bitter scorn a speech like this:
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Unworthy of a warrior's fame
 It taints a monarch's son with shame,
@@ -1252,7 +1252,7 @@ Answers the torrents as they rave,
 And forth his voice of terror throws:
 The wood, my love, is full of woes.
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 There mighty monsters fearless play,
 And in their maddened onset slay
@@ -1376,7 +1376,7 @@ But they disturb the lives of those
 Who in the forest dwell, nor hold
 Their rebel senses well controlled.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 In my sire's halls, ere I was wed,
 I heard a dame who begged her bread
@@ -1492,7 +1492,7 @@ My sire, my home, or all I leave.
 My presence, love, shall never add
 One pain to make the heart more sad;
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 I will not cause thee grief or care,
 Nor be a burden hard to bear.
@@ -1616,7 +1616,7 @@ Among our followers, next, divide.’
 She conscious that her lord approved
 Her going, with great rapture moved,
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 Hastened within, without delay,
 Prepared to give their wealth away.

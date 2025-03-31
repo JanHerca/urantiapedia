@@ -50,7 +50,7 @@ The continent, the true, and the patient sing Thee; unyielding heroes sing Thee.
 The Pandits and the supreme Rikhis, reading their Veds, sing Thee in every age.
 The lovely celestial maids who beguile the heart in the upper, middle, and nether regions sing Thee.
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 The jewels created by Thee with the sixty-eight places of _Hindu_ pilgrimage sing Thee.
 Mighty warriors and heroes sing Thee; the four sources of life sing Thee.
@@ -78,7 +78,7 @@ They who possess divine and spiritual wisdom, priests and high priests—
 Yet they could not describe even a small portion of Thy greatness.
 All truth, all fervour, all goodness,
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 The excellences of perfect men,
 Cannot be obtained in their perfection without Thee.
@@ -115,7 +115,7 @@ O servants of God and the true Guru, the true Being, offer this supplication unt
 We insects and worms seek thy protection, O true Guru; mercifully enlighten us with the Name;
 My friend and divine Guru, enlighten me with God's name.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 Under the Guru's instruction, the Name is the helper of my soul; singing God's praises is my occupation.
 Exceedingly fortunate are the men of God who have faith in Him and thirst for Him:
@@ -130,7 +130,7 @@ GURU ARJAN, RAG GUJARI[^2]
 O my soul, why proposest thou exertion[^3] when God Himself is engaged in effort for thee?
 He even putteth their food before the insects which He created in rocks and stones.
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 O my God, they who meet the society of the saints are saved.
 Through the favour of the Guru they obtain the highest rank; though they be as dry wood, they are made green.
@@ -154,7 +154,7 @@ Thou, O God, the one Supreme Being, art fully contained in every heart and perva
 Some men are givers, some beggars; all are Thy wondrous sport.
 Thou Thyself art the Giver; Thou art the Enjoyer; I know none beside Thee.
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Thou art the totally infinite Supreme Being; what attributes of Thine shall I recount?
 The slave Nanak is a sacrifice unto those who serve Thee, unto those who serve Thee.
@@ -174,7 +174,7 @@ What pleaseth Thee prevaileth; what Thou doest cometh to pass.
 Thou Thyself didst fashion the whole creation, yet, being created, it shall disappear.[^2]
 Nanak singeth the praises of the Creator who knoweth all things.
 
-<span id="p256">[<sup><small>p. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 GURU RAM DAS, RAG ASA
 
@@ -202,7 +202,7 @@ GURU NANAK, RAG ASA
 Man hath obtained a dwelling in that tank[^3] whose water God hath made as hot as fire.
 Man's feet cannot move in the mire of worldly love; we have seen him drowning therein.
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 O foolish man, thou hast not thought of the one God in thy heart;
 Through forgetfulness of Him thy virtues have melted away.
@@ -222,7 +222,7 @@ Thou hast not served holy men or known God.
 Nanak saith, base have been mine acts;
 Preserve mine honour who have taken shelter in Thee.
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

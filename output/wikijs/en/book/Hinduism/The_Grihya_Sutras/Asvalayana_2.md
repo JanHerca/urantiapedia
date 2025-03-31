@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 ## ADHYÂYA II, KA<i>ND</i>IKÂ 1.
 
@@ -53,7 +53,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 8\. The other (grains) he should give to his people.
 
-9\. Out of the jug he fills the spoon with flour, <span id="p202">[<sup><small>p. 202</small></sup>]</span> goes out (of the house) to the east, pours water on the ground on a clean spot, sacrifices with (the formula), ‘To the divine hosts of the serpents svâhâ!’ and does reverence to them with (the formula), ‘The serpents which are terrestrial, which are aerial, which are celestial, which dwell in the directions (of the horizon)—to them I have brought this Bali; to them I give over this Bali.’
+9\. Out of the jug he fills the spoon with flour, <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> goes out (of the house) to the east, pours water on the ground on a clean spot, sacrifices with (the formula), ‘To the divine hosts of the serpents svâhâ!’ and does reverence to them with (the formula), ‘The serpents which are terrestrial, which are aerial, which are celestial, which dwell in the directions (of the horizon)—to them I have brought this Bali; to them I give over this Bali.’
 
 10\. Having gone round (the Bali) from left to right, he sits down to the west of the Bali with (the words), ‘The serpent art thou; the lord of the creeping serpents art thou; by food thou protectest men, by cake the serpents, by sacrifice the gods. To me, being in thee, the serpents being in thee should do no harm. I give over the firm one (i.e. the spoon) to thee.’
 
@@ -65,7 +65,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 14\. [^486]. With (the formula), ‘To the divine hosts of the serpents svâhâ!’—let him offer the Bali in the evening and in the morning, till the Pratyavaroha<i>n</i>a (i.e. the ceremony of the ‘redescent’).
 
-15\. [^487]. Some count (the days till the Pratyavaroha<i>n</i>a) <span id="p203">[<sup><small>p. 203</small></sup>]</span> and offer the corresponding number of Balis already on that day (on which the _S<i>n</i>n_â ceremony is performed).
+15\. [^487]. Some count (the days till the Pratyavaroha<i>n</i>a) <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> and offer the corresponding number of Balis already on that day (on which the _S<i>n</i>n_â ceremony is performed).
 
 
 ## KA<i>ND</i>IKÂ 2.
@@ -80,7 +80,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ‘United with the seasons, united with the manners, united with the Vi<i>s</i>ve devâs, svâhâ!
 
-‘United with the seasons, united with the manners, united with Heaven and Earth, svâhâ!’—with (these formulas) a mess of cooked food is offered at the <span id="p204">[<sup><small>p. 204</small></sup>]</span> Âgraya<i>n</i>a sacrifice by one who has set up the (sacred <i>S</i>rauta) fires.
+‘United with the seasons, united with the manners, united with Heaven and Earth, svâhâ!’—with (these formulas) a mess of cooked food is offered at the <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> Âgraya<i>n</i>a sacrifice by one who has set up the (sacred <i>S</i>rauta) fires.
 
 5\. Also by one who has not set up the (<i>S</i>rauta) fires (the same offering is performed) in the (sacred) domestic fire.
 
@@ -97,7 +97,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4\. Here no oblation to (Agni) Svish<i>t</i>ak<i>t</i>t (is made).
 
-5\. [^492]. 'May we be secure from Pra<i>g</i>âpati's sons'—thus he murmurs while looking at the fire. <span id="p205">[<sup><small>p. 205</small></sup>]</span>
+5\. [^492]. 'May we be secure from Pra<i>g</i>âpati's sons'—thus he murmurs while looking at the fire. <span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 6\. (Saying), ‘Be happy and friendly to us’—he should think in his mind of the winter.
 
@@ -118,7 +118,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KA<i>ND</i>IKÂ 4.
 
-1\. [^496]. On the eighth days of the four dark fortnights of (the two seasons of) winter and _S<i>i</i>s_ira the Ash<i>i</i>akâs (are celebrated). <span id="p206">[<sup><small>p. 206</small></sup>]</span>
+1\. [^496]. On the eighth days of the four dark fortnights of (the two seasons of) winter and _S<i>i</i>s_ira the Ash<i>i</i>akâs (are celebrated). <span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 2 [^497]. Or on one (of these days).
 
@@ -142,7 +142,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 12\. This (Ash<i>t</i>akâ) some state to be sacred to the Vi<i>t</i>ve devâs, some to Agni, some to the Sun, some to Pra<i>t</i>âpati, some state that the Night is its deity, some that the Nakshatras are, some that the Seasons are, some that the Fathers are, some that cattle is.
 
-13\. [^499]. Having killed the animal according to the <span id="p207">[<sup><small>p. 207</small></sup>]</span> ritual of the animal sacrifice, omitting the sprinkling (with water) and the touching of the animal with a fresh branch, he should draw out the omentum and sacrifice it with (the verse), ‘Carry the omentum, <i>G</i>âtavedas, to the Fathers, where thou knowest them resting afar. May streams of fat flow to them; may all these wishes be fulfilled. Svâhâ!’
+13\. [^499]. Having killed the animal according to the <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> ritual of the animal sacrifice, omitting the sprinkling (with water) and the touching of the animal with a fresh branch, he should draw out the omentum and sacrifice it with (the verse), ‘Carry the omentum, <i>G</i>âtavedas, to the Fathers, where thou knowest them resting afar. May streams of fat flow to them; may all these wishes be fulfilled. Svâhâ!’
 
 14\. [^500]. Then (follow oblations) of the Avadâna portions and the cooked food, two with (the two verses), ‘Agni, lead us on a good path to wealth’ (Rig-veda I, 189, 1 seq.), (and other oblations with the texts), 'May summer, winter, the seasons be happy to us, happy the rainy season, safe to us the autumn. The year be our lord who gives breath to us; may days and nights produce long life. Svâhâ!
 
@@ -152,7 +152,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ‘May all the Âdityas and the divine Vasus, the Rudras, the protectors, the Maruts sit down (here). May Pra<i>g</i>âpati, the abounding one, the highest ruler, bestow vigour, offspring, immortality on me. Svâhâ!
 
-‘Pra<i>g</i>âpati, no other one than Thou (Rig-veda X, 121, 10).’ <span id="p208">[<sup><small>p. 208</small></sup>]</span>
+‘Pra<i>g</i>âpati, no other one than Thou (Rig-veda X, 121, 10).’ <span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 15\. The eighth (oblation) is that to (Agni) Svish<i>g</i>ak<i>g</i>t.
 
@@ -170,7 +170,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 5\. And to (their) wives, with the addition of rum and the scum of boiled rice.
 
-6\. Some (place the lumps to be offered) into pits, into two or into six: <span id="p209">[<sup><small>p. 209</small></sup>]</span>
+6\. Some (place the lumps to be offered) into pits, into two or into six: <span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 7\. In those situated to the east he should give (the offerings) to the Fathers.
 
@@ -194,7 +194,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2
 
-1\. [^509]. When going to mount a chariot he should touch the wheels with his two hands separately with (the words), ‘I touch thy two fore-feet. Thy two wheels are the B<i>ri</i>hat and the Rathantara (Sâmans).’ <span id="p210">[<sup><small>p. 210</small></sup>]</span>
+1\. [^509]. When going to mount a chariot he should touch the wheels with his two hands separately with (the words), ‘I touch thy two fore-feet. Thy two wheels are the B<i>ri</i>hat and the Rathantara (Sâmans).’ <span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 2
 
@@ -218,7 +218,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 8\. With (the verse), ‘The earth, the good protectress, the unattained heaven’ (Rig-veda X, 63, 10) (he should ascend) a ship.
 
-9\. With a new chariot he should drive round a widely known tree or round a pool that does not dry up, with his right side turned towards it, and then should fetch branches which bear fruits, <span id="p211">[<sup><small>p. 211</small></sup>]</span>
+9\. With a new chariot he should drive round a widely known tree or round a pool that does not dry up, with his right side turned towards it, and then should fetch branches which bear fruits, <span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 1
 
@@ -256,7 +256,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9right side, and then flow off to the east without noise—that possesses all auspicious qualities.
 
-8\. Where the waters flow off, he should have the provision-room built. <span id="p212">[<sup><small>p. 212</small></sup>]</span>
+8\. Where the waters flow off, he should have the provision-room built. <span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 9\. Thus it becomes rich in food.
 
@@ -290,7 +290,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9\. He should draw a thousand furrows on it and should have it measured off as quadrangular, with equal sides to each (of the four) directions;
 
-10\. Or as an oblong quadrangle. <span id="p213">[<sup><small>p. 213</small></sup>]</span>
+10\. Or as an oblong quadrangle. <span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 11 [^512]. With a <i>S</i>amî branch or an Udumbara branch he sprinkles it (with water), going thrice round it, so that his right side is turned towards it, reciting the <i>S</i>antâtîya hymn.
 
@@ -302,7 +302,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 15\. [^514]. Having put (that plant) into the pit in which the middle-post is to stand, he should spread (on it) eastward-pointed and northward-pointed Ku<i>s</i>a grass and should sprinkle (on that grass) water into which rice and barley have been thrown, with (the words), ‘To the steady one, the earth-demon, svâhâ!’
 
-16\. [^515]. He then should, when (the middle-post) is being erected, recite over it (the two verses), 'Stand here, fixed in the ground, prosperous, long-lasting (?), <span id="p214">[<sup><small>p. 214</small></sup>]</span> standing amid prosperity. May the malevolent ones not attain thee!
+16\. [^515]. He then should, when (the middle-post) is being erected, recite over it (the two verses), 'Stand here, fixed in the ground, prosperous, long-lasting (?), <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> standing amid prosperity. May the malevolent ones not attain thee!
 
 ‘To thee (may) the young child (come), to thee the calf . . .; to thee (may) the cup of Parisrut (come); (to thee) may they come with pots of curds.’
 
@@ -322,7 +322,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 7\. [^518]. He puts gold into water into which rice and barley have been thrown, and (with that water) he sprinkles it three times, going round it with his right side turned towards it, with the <i>S</i>antâtîya hymn.
 
-8\. [^519]. And (so he does again three times) pouring out <span id="p215">[<sup><small>p. 215</small></sup>]</span> water without interruption, with the three verses, ‘O waters, ye are wholesome’ (Rig-veda X, 9, I seqq.).
+8\. [^519]. And (so he does again three times) pouring out <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> water without interruption, with the three verses, ‘O waters, ye are wholesome’ (Rig-veda X, 9, I seqq.).
 
 9\. [^520]. In the middle of the house he should cook a mess of food, sacrifice (therefrom) with the four verses, ‘Vâstoshpati, accept us’ (Rig-veda VII, 54, 1 seqq.), verse by verse, should prepare food, should give to the Brâhma<i>n</i>as to eat, and should cause them to say, ‘Lucky is the ground! Lucky is the ground!’
 
@@ -340,7 +340,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 6\. [^524]. When they come back, (he should recite the following verses,)
 
-‘May they whose udder with its four holes is full <span id="p216">[<sup><small>p. 216</small></sup>]</span> of honey and ghee, be milk-givers to us; (may they be) many in our stable, rich in ghee.
+‘May they whose udder with its four holes is full <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> of honey and ghee, be milk-givers to us; (may they be) many in our stable, rich in ghee.
 
 ‘Come hither to me, giving refreshment, bringing vigour and strength. Giving inexhaustible milk, rest in my stable that I may become the highest one’
 

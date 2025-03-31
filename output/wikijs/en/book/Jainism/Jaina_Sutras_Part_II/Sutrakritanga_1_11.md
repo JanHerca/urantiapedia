@@ -42,7 +42,7 @@ Tell us how we should describe that path, if somebody, a god or a man, should as
 
 If somebody, a god or a man, ask you about it, tell them the truth about the path. Listen to me! (4)
 
-The very difficult (path) explained by the Kâ<i>s</i>yapa, following which some men from this earth <span id="p311">[<sup><small>p. 311</small></sup>]</span> have formerly passed over. (the Sa<i>m</i>sâra) like traders over the ocean [^913], pass over it (even now), and will pass over it in future; (this path which) I have learned, I shall explain in due order; men, listen to me! (5, 6)
+The very difficult (path) explained by the Kâ<i>s</i>yapa, following which some men from this earth <span id="p311"><sup><small>[ p. 311 ]</small></sup></span> have formerly passed over. (the Sa<i>m</i>sâra) like traders over the ocean [^913], pass over it (even now), and will pass over it in future; (this path which) I have learned, I shall explain in due order; men, listen to me! (5, 6)
 
 Earth-lives are individual beings, so are water-lives, fire-lives, and wind-lives; grass, trees, corn; (7)
 
@@ -58,7 +58,7 @@ Master (of his senses) and avoiding wrong, he should do no harm to anybody, neit
 
 A wise man who restrains his senses and possesses great knowledge, should accept such things as are freely given him, being always circumspect with regard to the accepting of alms, and abstaining from what he is forbidden to accept. (13)
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 A true monk should not accept such food and drink as has been especially prepared for him along with slaughter of living beings. (14)
 
@@ -74,7 +74,7 @@ Nor should he say that it is not meritorious, because he would then prevent thos
 
 Those who praise the gift, are accessory [^918] to the killing of beings; those who forbid it, deprive (others) of the means of subsistence. (20)
 
-Those, however, who give neither answer, viz. <span id="p313">[<sup><small>p. 313</small></sup>]</span> that it is meritorious, or is not so, do not expose themselves to guilt, and will reach Beatitude [^919]. (21)
+Those, however, who give neither answer, viz. <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> that it is meritorious, or is not so, do not expose themselves to guilt, and will reach Beatitude [^919]. (21)
 
 Knowing that Beatitude is the best thing as the moon is among the stars, a sage always restrained and subduing his senses brings about Beatitude. (22)
 
@@ -84,7 +84,7 @@ He who guards his soul, subdues his senses, puts a stop to the current (of the S
 
 Those who do not know this (Law), are not awakened, though they fancy themselves awakened; believing themselves awakened, they are beyond the boundary of right faith [^922]. (25)
 
-Eating seeds and drinking cold water [^923] and what <span id="p314">[<sup><small>p. 314</small></sup>]</span> has been especially prepared for them, they enter upon meditation [^924], but are ignorant of the truth, and do not possess carefulness. (26)
+Eating seeds and drinking cold water [^923] and what <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> has been especially prepared for them, they enter upon meditation [^924], but are ignorant of the truth, and do not possess carefulness. (26)
 
 As <i>dh</i>aṅkas, herons, ospreys, cormorants, and pheasants meditate upon capturing fish, (which is) a sinful and very low meditation, so some heretical, unworthy <i>S</i>rama<i>n</i>as contemplate the pursuit of pleasures; (they are) sinful and very low like herons. (27, 28)
 
@@ -100,7 +100,7 @@ A wise man knowing (and renouncing) excessive pride and deceit, (in short) givin
 
 He acquires good qualities, and leaves off bad qualities; a monk, who vigorously practises austerities, avoids anger and pride. (35)
 
-The Buddhas [^927] that were, and the Buddhas that <span id="p315">[<sup><small>p. 315</small></sup>]</span> will be, they (as it were) have Peace as their foundation, even as all things have the earth for their foundation. (36)
+The Buddhas [^927] that were, and the Buddhas that <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> will be, they (as it were) have Peace as their foundation, even as all things have the earth for their foundation. (36)
 
 And if any accidents whatever befall him who has gained that (foundation), he will not be overpowered by them as a mountain by the storm [^928]. (37)
 

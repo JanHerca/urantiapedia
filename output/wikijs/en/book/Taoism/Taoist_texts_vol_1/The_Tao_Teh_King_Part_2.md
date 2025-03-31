@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:13:16Z
   </table>
 </figure>
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 PART II.
 
@@ -52,7 +52,7 @@ PART II.
 
 6\. Now propriety is the attenuated form of leal-heartedness and good faith, and is also the commencement of disorder; swift apprehension is
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 (only) a flower of the Tâo, and is the beginning of stupidity.
 
@@ -62,7 +62,7 @@ PART II.
 
 The ‘virtue’ is the activity or operation of the Tâo, which is supposed to have come out of its absoluteness. Even Han Fei so defines it here,—‘Teh is the meritorious work of the Tâo.’
 
-In par. 5 we evidently have a résumé of the preceding paragraphs, and, as it is historical, I translate them in the past tense; though what took place on the early stage of the world may also be said to go on taking place in the experience of every individual. With some considerable hesitation I have given the subjects in those paragraphs in the concrete, in deference to the authority of Ho-shang Kung and most other commentators. The former says, ‘By “the highest teh” is to be understood the rulers of the greatest antiquity, without name or designation, whose virtue was great, and could not be surpassed.’ Most ingenious, and in accordance with the Tâoistic system, is the manner in which Wû Khäng construes the passage, and I am surprised that it has not been generally accepted. By ‘the higher teh’ he understands ‘the Tâo,’ that which is prior to and above the Teh ( ![](/image/book/Taoism/Taoist_texts_vol_1/08101.jpg)) by ‘the lower teh,’ benevolence, that which is after and below the Teh; by ‘the higher benevolence,’ the Teh which is above benevolence; by ‘the higher righteousness,’ the benevolence which is above righteousness; and by ‘the higher propriety,’ the righteousness which is above propriety. Certainly in the summation of these four paragraphs which we have in the fifth, the <span id="p82">[<sup><small>p. 82</small></sup>]</span> subjects of them would appear to have been in the mind of Lâo-dze as thus defined by Wû.
+In par. 5 we evidently have a résumé of the preceding paragraphs, and, as it is historical, I translate them in the past tense; though what took place on the early stage of the world may also be said to go on taking place in the experience of every individual. With some considerable hesitation I have given the subjects in those paragraphs in the concrete, in deference to the authority of Ho-shang Kung and most other commentators. The former says, ‘By “the highest teh” is to be understood the rulers of the greatest antiquity, without name or designation, whose virtue was great, and could not be surpassed.’ Most ingenious, and in accordance with the Tâoistic system, is the manner in which Wû Khäng construes the passage, and I am surprised that it has not been generally accepted. By ‘the higher teh’ he understands ‘the Tâo,’ that which is prior to and above the Teh ( ![](/image/book/Taoism/Taoist_texts_vol_1/08101.jpg)) by ‘the lower teh,’ benevolence, that which is after and below the Teh; by ‘the higher benevolence,’ the Teh which is above benevolence; by ‘the higher righteousness,’ the benevolence which is above righteousness; and by ‘the higher propriety,’ the righteousness which is above propriety. Certainly in the summation of these four paragraphs which we have in the fifth, the <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> subjects of them would appear to have been in the mind of Lâo-dze as thus defined by Wû.
 
 In the remainder of the chapter he goes on to speak depreciatingly of ceremonies and knowledge, so that the whole chapter must be understood as descriptive of the process of decay and deterioration from the early time in which the Tâo and its attributes swayed the societies of men.
 
@@ -90,7 +90,7 @@ Without that life, creatures would pass away;
 Princes and kings, without that moral sway,
 However grand and high, would all decay.
 
-3\. Thus it is that dignity finds its (firm) root in its (previous) meanness, and what is lofty finds its stability in the lowness (from which it rises). Hence princes and kings call themselves ‘Orphans,’ ‘Men of small virtue,’ and as ‘Carriages without a nave.’ Is not this an acknowledgment that in their considering themselves mean they see the foundation of <span id="p83">[<sup><small>p. 83</small></sup>]</span> their dignity? So it is that in the enumeration of the different parts of a carriage we do not come on what makes it answer the ends of a carriage. They do not wish to show themselves elegant-looking as jade, but (prefer) to be coarse-looking as an (ordinary) stone.
+3\. Thus it is that dignity finds its (firm) root in its (previous) meanness, and what is lofty finds its stability in the lowness (from which it rises). Hence princes and kings call themselves ‘Orphans,’ ‘Men of small virtue,’ and as ‘Carriages without a nave.’ Is not this an acknowledgment that in their considering themselves mean they see the foundation of <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> their dignity? So it is that in the enumeration of the different parts of a carriage we do not come on what makes it answer the ends of a carriage. They do not wish to show themselves elegant-looking as jade, but (prefer) to be coarse-looking as an (ordinary) stone.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/08300.jpg), ‘The Origin of the Law.’ In this title there is a reference to the Law given to all things by the Tâo, as described in the conclusion of chapter 25. And the Tâo affords that law by its passionless, undemonstrative nature, through which in its spontaneity, doing nothing for the sake of doing, it yet does all things.
 
@@ -104,7 +104,7 @@ The difficulty of translation is in the third paragraph. The way in which prince
 40\. 1. The movement of the Tâo
 By contraries proceeds;
 And weakness marks the course
-Of Tâo's mighty deeds. <span id="p84">[<sup><small>p. 84</small></sup>]</span> 2\. All things under heaven sprang from It as existing (and named); that existence sprang from It as non-existent (and not named).
+Of Tâo's mighty deeds. <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> 2\. All things under heaven sprang from It as existing (and named); that existence sprang from It as non-existent (and not named).
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/08400.jpg), ‘Dispensing with the Use (of Means);’—with their use, that is, as it appears to us. The subject of the brief chapter is the action of the Tâo by contraries, leading to a result the opposite of what existed previously, and by means which might seem calculated to produce a contrary result.
 
@@ -149,12 +149,12 @@ Who the sentence-makers were whose sayings are quoted we cannot tell, but it wou
 
 3\. What other men (thus) teach, I also teach. The violent and strong do not die their natural death. I will make this the basis of my teaching.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/08502.jpg), ‘The Transformations of the Tâo.’ In par. 2 we <span id="p86">[<sup><small>p. 86</small></sup>]</span> have the case of the depreciating epithets given to themselves by kings and princes, which we found before in ch. 39, and a similar lesson is drawn from it. Such depreciation leads to exaltation, and the contrary course of self-exaltation leads to abasement. This latter case is stated emphatically in par. 3, and Lâo-dze says that it was the basis of his teaching. So far therefore we have in this chapter a repetition of the lesson that the movement of the Tâo is by contraries,' and that its weakness is the sure precursor of strength. But the connexion between this lesson and what he says in par. 1 it is difficult to trace. Up to this time at least it has baffled myself. The passage seems to give us a cosmogony. ‘The Tâo produced One.’ We have already seen that the Tâo is ‘The One.’ Are we to understand here that the Tâo, and the One were one and the same? In this case what would be the significance of the ![](/image/book/Taoism/Taoist_texts_vol_1/08600.jpg) (‘produced’)?—that the Tâo which had been previously ‘non-existent’ now became ‘existent,’ or capable of being named? This seems to be the view of Sze-mâ Kwang (A.D. 1009-1086).
+![](/image/book/Taoism/Taoist_texts_vol_1/08502.jpg), ‘The Transformations of the Tâo.’ In par. 2 we <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> have the case of the depreciating epithets given to themselves by kings and princes, which we found before in ch. 39, and a similar lesson is drawn from it. Such depreciation leads to exaltation, and the contrary course of self-exaltation leads to abasement. This latter case is stated emphatically in par. 3, and Lâo-dze says that it was the basis of his teaching. So far therefore we have in this chapter a repetition of the lesson that the movement of the Tâo is by contraries,' and that its weakness is the sure precursor of strength. But the connexion between this lesson and what he says in par. 1 it is difficult to trace. Up to this time at least it has baffled myself. The passage seems to give us a cosmogony. ‘The Tâo produced One.’ We have already seen that the Tâo is ‘The One.’ Are we to understand here that the Tâo, and the One were one and the same? In this case what would be the significance of the ![](/image/book/Taoism/Taoist_texts_vol_1/08600.jpg) (‘produced’)?—that the Tâo which had been previously ‘non-existent’ now became ‘existent,’ or capable of being named? This seems to be the view of Sze-mâ Kwang (A.D. 1009-1086).
 
 The most singular form which this view assumes is in one of the treatises on our King, attributed to the Tâoist patriarch Lü ( ![](/image/book/Taoism/Taoist_texts_vol_1/08601.jpg)), that ‘the One is Heaven, which was formed by the congealing of the Tâo.’ According to another treatise, also assigned to the same Lü ( ![](/image/book/Taoism/Taoist_texts_vol_1/08602.jpg)) the One was ‘the primordial ether;’ the Two, ‘the separation of that into its Yin and Yang constituents;’ and the Three, ‘the production of heaven, earth, and man by these.’ In quoting the paragraph Hwâi-nan dze omits ![](/image/book/Taoism/Taoist_texts_vol_1/08603.jpg), and commences with ![](/image/book/Taoism/Taoist_texts_vol_1/08604.jpg), and his glossarist, Kâo Yû, makes out the One to be the Tâo, the Two to be Spiritual Intelligences ( ![](/image/book/Taoism/Taoist_texts_vol_1/08605.jpg)), and the Three to be the Harmonising Breath. From the mention of the Yin and Yang that follows, I believe that Lâo-dze intended by the Two these two qualities or elements in the primordial ether, which would be ‘the One.’ I dare not hazard a guess as to what ‘the Three’ were.
 
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 <a id="c43"></a>
 
@@ -190,7 +190,7 @@ Keep them and lose your life:—which brings
 &nbsp;&nbsp;&nbsp;&nbsp;Who cleaves to fame
 &nbsp;&nbsp;&nbsp;&nbsp;Rejects what is more great;
 Who loves large stores
-&nbsp;&nbsp;&nbsp;&nbsp;Gives up the richer state. <span id="p88">[<sup><small>p. 88</small></sup>]</span> 3\. Who is content
+&nbsp;&nbsp;&nbsp;&nbsp;Gives up the richer state. <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> 3\. Who is content
 Needs fear no shame.
 Who knows to stop
 Incurs no blame.
@@ -225,7 +225,7 @@ And eloquence a stammering scream.
 
 46\. 1. When the Tâo prevails in the world, they send back their swift horses to (draw) the dung-carts.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 When the Tâo is disregarded in the world, the war-horses breed in the border lands.
 
@@ -244,7 +244,7 @@ In translating par. 1 I have, after Wû Khäng, admitted a ![](/image/book/Taois
 
 2\. Therefore the sages got their knowledge without travelling; gave their (right) names to things without seeing them; and accomplished their ends without any purpose of doing so.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/08906.jpg), ‘Surveying what is Far-off.’ The chapter is a lesson to men to judge of things according to their internal conviction of similar things in their own experience. Short as the chapter is, it is somewhat mystical. The phrase, ‘The Tâo’ or way of Heaven, occurs in it for the first time; and it is difficult to lay down its precise meaning. Lâo-dze would seem to teach that man is a microcosm; and that, if <span id="p90">[<sup><small>p. 90</small></sup>]</span> he understand the movements of his own mind, he can understand the movements of all other minds. There are various readings, of which it is not necessary to speak.
+![](/image/book/Taoism/Taoist_texts_vol_1/08906.jpg), ‘Surveying what is Far-off.’ The chapter is a lesson to men to judge of things according to their internal conviction of similar things in their own experience. Short as the chapter is, it is somewhat mystical. The phrase, ‘The Tâo’ or way of Heaven, occurs in it for the first time; and it is difficult to lay down its precise meaning. Lâo-dze would seem to teach that man is a microcosm; and that, if <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> he understand the movements of his own mind, he can understand the movements of all other minds. There are various readings, of which it is not necessary to speak.
 
 I have translated par. 2 in the past tense, and perhaps the first should also be translated so. Most of it is found in Han Ying, preceded by ‘formerly’ or ‘anciently.’
 
@@ -263,7 +263,7 @@ I have translated par. 2 in the past tense, and perhaps the first should also be
 
 Ziâo Hung commences his quotations of commentary on this chapter with the following from Kumâragîva on the second par.:—‘He carries on the process of diminishing till there is nothing coarse about him which is not put away. He puts it away till he has forgotten all that was bad in it. He then puts away all that is fine about him. He does so till he has forgotten all that was good in it. But the bad was wrong, and the good is right. Having diminished the wrong, and also diminished the right, the process is carried on till they are both forgotten. Passion and desire are both cut off; and his virtue and the Tâo are in such union that he does nothing; but though he does nothing, he allows all things to do their own doing, and all things are done.’ Such is a Buddhistic view of the passage, not very intelligible, and which I do not endorse.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 In a passage in the ‘Narratives of the School’ (Bk. IX, Art. 2), we have a Confucian view of the passage:—‘Let perspicacity, intelligence, shrewdness, and wisdom be guarded by stupidity, and the service of the possessor will affect the whole world; let them be guarded by complaisance, and his dating and strength will shake the age; let them be guarded by timidity, and his wealth will be all within the four seas; let them be guarded by humility, and there will be what we call the method of “diminishing it, and diminishing it again.”’ But neither do I endorse this.
 
@@ -284,7 +284,7 @@ My own view of the scope of the chapter has been given above in a few words. The
 
 My version of par. 1 is taken from Dr. Chalmers. A good commentary on it was given by the last emperor but one of the earlier of the two great Sung dynasties, in the period A. D. 1111-1117:—‘The mind of the sage is free from preoccupation and able to receive; still, and able to respond.’
 
-In par. 2 I adopt the reading of to get ![](/image/book/Taoism/Taoist_texts_vol_1/09101.jpg) (‘to get’) instead of <span id="p92">[<sup><small>p. 92</small></sup>]</span> the more common ![](/image/book/Taoism/Taoist_texts_vol_1/09200.jpg) (‘virtue’ or ‘quality’). There is a passage in Han Ying (IX, 3 b, 4 a), the style of which, most readers will probably agree with me in thinking, was moulded on the text before us, though nothing is said of any connexion between it and the saying of Lâo-dze. I must regard it as a sequel to the conversation between Confucius and some of his disciples about the principle (Lâo's principle) that ‘Injury should be recompensed with Kindness,’ as recorded in the Con. Ana., XIV, 36. We read:—‘Dze-lû said, “When men are good to me, I will also be good to them; when they are not good to me, I will also be not good to them.” Dze-kung said, “When men are good to me, I will also be good to them; when they are not good to me, I will simply lead them on, forwards it may be or backwards.” Yen Hui said, When men are good to me, I will also be good to them when they are not good to me, I will still be good to them.“ The views of the three disciples being thus different, they referred the point to the Master, who said, ”The words of Dze-lû are such as might be expected among the (wild tribes of) the Man and the Mo; those of Dze-kung, such as might be expected among friends; those of Hui, such as might be expected among relatives and near connexions."’ This is all. The Master was still far from Lâo-dze's standpoint, and that of his own favourite disciple, Yen Hui.
+In par. 2 I adopt the reading of to get ![](/image/book/Taoism/Taoist_texts_vol_1/09101.jpg) (‘to get’) instead of <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> the more common ![](/image/book/Taoism/Taoist_texts_vol_1/09200.jpg) (‘virtue’ or ‘quality’). There is a passage in Han Ying (IX, 3 b, 4 a), the style of which, most readers will probably agree with me in thinking, was moulded on the text before us, though nothing is said of any connexion between it and the saying of Lâo-dze. I must regard it as a sequel to the conversation between Confucius and some of his disciples about the principle (Lâo's principle) that ‘Injury should be recompensed with Kindness,’ as recorded in the Con. Ana., XIV, 36. We read:—‘Dze-lû said, “When men are good to me, I will also be good to them; when they are not good to me, I will also be not good to them.” Dze-kung said, “When men are good to me, I will also be good to them; when they are not good to me, I will simply lead them on, forwards it may be or backwards.” Yen Hui said, When men are good to me, I will also be good to them when they are not good to me, I will still be good to them.“ The views of the three disciples being thus different, they referred the point to the Master, who said, ”The words of Dze-lû are such as might be expected among the (wild tribes of) the Man and the Mo; those of Dze-kung, such as might be expected among friends; those of Hui, such as might be expected among relatives and near connexions."’ This is all. The Master was still far from Lâo-dze's standpoint, and that of his own favourite disciple, Yen Hui.
 
 
 <a id="c50"></a>
@@ -297,7 +297,7 @@ In par. 2 I adopt the reading of to get ![](/image/book/Taoism/Taoist_texts_vol_
 
 3\. There are also three in every ten whose aim is to live, but whose movements tend to the land (or place) of death. And for what reason? Because of their excessive endeavours to perpetuate life.
 
-4\. But I have heard that he who is skilful in managing the life entrusted to him for a time travels on the land without having to shun rhinoceros or <span id="p93">[<sup><small>p. 93</small></sup>]</span> tiger, and enters a host without having to avoid buff coat or sharp weapon. The rhinoceros finds no place in him into which to thrust its horn, nor the tiger a place in which to fix its claws, nor the weapon a place to admit its point. And for what reason? Because there is in him no place of death.
+4\. But I have heard that he who is skilful in managing the life entrusted to him for a time travels on the land without having to shun rhinoceros or <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> tiger, and enters a host without having to avoid buff coat or sharp weapon. The rhinoceros finds no place in him into which to thrust its horn, nor the tiger a place in which to fix its claws, nor the weapon a place to admit its point. And for what reason? Because there is in him no place of death.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/09300.jpg), ‘The Value set on Life.’ The chapter sets forth the Tâo as an antidote against decay and death.
 
@@ -312,7 +312,7 @@ This par. 4 is easy of translation, and the various readings in it are unimporta
 
 ## 51.
 
-51\. 1. All things are produced by the Tâo, and nourished by its outflowing operation. They receive their forms according to the nature of each, and are <span id="p94">[<sup><small>p. 94</small></sup>]</span> completed according to the circumstances of their condition. Therefore all things without exception honour the Tâo, and exalt its outflowing operation.
+51\. 1. All things are produced by the Tâo, and nourished by its outflowing operation. They receive their forms according to the nature of each, and are <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> completed according to the circumstances of their condition. Therefore all things without exception honour the Tâo, and exalt its outflowing operation.
 
 2\. This honouring of the Tâo and exalting of its operation is not the result of any ordination, but always a spontaneous tribute.
 
@@ -331,7 +331,7 @@ On par. 2 Wû Khäng says that the honour of the Son of Heaven is derived from h
 
 ## 52.
 
-52\. 1. (The Tâo) which originated all under the sky is to be considered as the mother of them all. <span id="p95">[<sup><small>p. 95</small></sup>]</span> 2\. When the mother is found, we know what her children should be. When one knows that he is his mother's child, and proceeds to guard (the qualities of) the mother that belong to him, to the end of his life he will be free from all peril.
+52\. 1. (The Tâo) which originated all under the sky is to be considered as the mother of them all. <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> 2\. When the mother is found, we know what her children should be. When one knows that he is his mother's child, and proceeds to guard (the qualities of) the mother that belong to him, to the end of his life he will be free from all peril.
 
 3\. Let him keep his mouth closed, and shut up the portals (of his nostrils), and all his life he will be exempt from laborious exertion. Let him keep his mouth open, and (spend his breath) in the promotion of his affairs, and all his life there will be no safety for him.
 
@@ -346,7 +346,7 @@ And hides the unchanging from men's sight.
 
 For the understanding of paragraph 1 we must refer to the first chapter of the treatise, where the Tâo, ‘having no name,’ appears as ‘the Beginning’ or ‘First Cause’ of the world, and then, ‘having a name,’ as its ‘Mother.’ It is the same thing or concept in both of its phases, the ideal or absolute, and the manifestation of it in its passionless doings. The old Jesuit translators render this par. by ‘Mundus principium et causam suam habet in Divino ![](/image/book/Taoism/Taoist_texts_vol_1/09501.jpg), seu actione Divinae sapientiae quae dici potest ejus mater.’ So far I may assume that they agreed with me in understanding that the subject of the par. was the Tâo.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 Par. 2 lays down the law of life for man thus derived from the Tâo. The last clause of it is given by the same translators as equivalent to ‘Unde fit ut post mortem nihil ei timendum sit,’—a meaning which the characters will not bear. But from that clause, and the next par., I am obliged to conclude that even in Lâo-dze's mind there was the germ of the sublimation of the material frame which issued in the asceticism and life-preserving arts of the later Tâoism.
 
@@ -367,7 +367,7 @@ I have followed the reading of the last character but one, which is given by Zi�
 
 2\. The great Tâo (or way) is very level and easy; but people love the by-ways.
 
-3\. Their court(-yards and buildings) shall be well kept, but their fields shall be ill-cultivated, and their granaries very empty. They shall wear elegant and <span id="p97">[<sup><small>p. 97</small></sup>]</span> ornamented robes, carry a sharp sword at their girdle, pamper themselves in eating and drinking, and have a superabundance of property and wealth;—such (princes) may be called robbers and boasters. This is contrary to the Tâo surely!
+3\. Their court(-yards and buildings) shall be well kept, but their fields shall be ill-cultivated, and their granaries very empty. They shall wear elegant and <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> ornamented robes, carry a sharp sword at their girdle, pamper themselves in eating and drinking, and have a superabundance of property and wealth;—such (princes) may be called robbers and boasters. This is contrary to the Tâo surely!
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/09700.jpg), ‘Increase of Evidence.’ The chapter contrasts government by the Tâo with that conducted in a spirit of ostentation and by oppression.
 
@@ -388,7 +388,7 @@ Sacrifices to his shrine.
 2\. Tâo when nursed within one's self,
 &nbsp;&nbsp;&nbsp;&nbsp;His vigour will make true;
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 And where the family it rules
 &nbsp;&nbsp;&nbsp;&nbsp;What riches will accrue!
@@ -410,7 +410,7 @@ The Teh mentioned five times in par. 2 is the ‘virtue’ of the Tâo embodied 
 The force of pars. 3 and 4 is well given by Ho-shang Kung. On the first clause he says, ‘Take the person of one who cultivates the Tâo, and compare it with that of one who does not cultivate it;—which is in a state of decay? and which is in a state of preservation?’
 
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 <a id="c55"></a>
 
@@ -431,7 +431,7 @@ Where the mind makes the vital breath to burn,
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/09900.jpg), ‘The Mysterious Charm;’ meaning, apparently, the entire passivity of the Tâo.
 
-With pars. 1 and 2, compare what is said about the infant in chapters 10 and 20, and about the immunity from dangers such as here described of the disciple of the Tâo in ch. 50. My ‘evil’ in the second triplet of par. 3 has been translated by ‘felicity;’ but a reference to the Khang-hsî dictionary will show that the meaning which I give to ![](/image/book/Taoism/Taoist_texts_vol_1/09901.jpg) is well authorised. It is the only meaning allowable here. The third and fourth ![](/image/book/Taoism/Taoist_texts_vol_1/09902.jpg) in this par. appear in Ho-shang Kung's text as ![](/image/book/Taoism/Taoist_texts_vol_1/09903.jpg), and he comments on the clauses accordingly; <span id="p100">[<sup><small>p. 100</small></sup>]</span> but ![](/image/book/Taoism/Taoist_texts_vol_1/10000.jpg) is now the received reading. Some light is thrown on this paragraph and the next by an apocryphal conversation attributed to Lâo-dze in Liû Hsiang's Shwo-wän, X, 4 a.
+With pars. 1 and 2, compare what is said about the infant in chapters 10 and 20, and about the immunity from dangers such as here described of the disciple of the Tâo in ch. 50. My ‘evil’ in the second triplet of par. 3 has been translated by ‘felicity;’ but a reference to the Khang-hsî dictionary will show that the meaning which I give to ![](/image/book/Taoism/Taoist_texts_vol_1/09901.jpg) is well authorised. It is the only meaning allowable here. The third and fourth ![](/image/book/Taoism/Taoist_texts_vol_1/09902.jpg) in this par. appear in Ho-shang Kung's text as ![](/image/book/Taoism/Taoist_texts_vol_1/09903.jpg), and he comments on the clauses accordingly; <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> but ![](/image/book/Taoism/Taoist_texts_vol_1/10000.jpg) is now the received reading. Some light is thrown on this paragraph and the next by an apocryphal conversation attributed to Lâo-dze in Liû Hsiang's Shwo-wän, X, 4 a.
 
 
 <a id="c56"></a>
@@ -457,7 +457,7 @@ Par. 2 is all found in chapters 4 and 52, excepting the short clause in the conc
 
 57\. 1. A state may be ruled by (measures of) correction; weapons of war maybe used with crafty dexterity; (but) the kingdom is made one's own (only) by freedom from action and purpose.
 
-2\. How do I know that it is so? By these <span id="p101">[<sup><small>p. 101</small></sup>]</span> facts:—In the kingdom the multiplication of prohibitive enactments increases the poverty of the people; the more implements to add to their profit that the people have, the greater disorder is there in the state and clan; the more acts of crafty dexterity that men possess, the more do strange contrivances appear; the more display there is of legislation, the more thieves and robbers there are.
+2\. How do I know that it is so? By these <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> facts:—In the kingdom the multiplication of prohibitive enactments increases the poverty of the people; the more implements to add to their profit that the people have, the greater disorder is there in the state and clan; the more acts of crafty dexterity that men possess, the more do strange contrivances appear; the more display there is of legislation, the more thieves and robbers there are.
 
 3\. Therefore a sage has said, ‘I will do nothing (of purpose), and the people will be transformed of themselves; I will be fond of keeping still, and the people will of themselves become correct. I will take no trouble about it, and the people will of themselves become rich; I will manifest no ambition, and the people will of themselves attain to the primitive simplicity.’
 
@@ -475,7 +475,7 @@ We do not know if the writer were quoting any particular sage in par. 3, or refe
 58\. 1. The government that seems the most unwise,
 Oft goodness to the people best supplies;
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 That which is meddling, touching everything,
 Will work but ill, and disappointment bring.
@@ -495,7 +495,7 @@ Misery!—happiness is to be found by its side! Happiness!—misery lurks beneat
 
 59\. 1. For regulating the human (in our constitution) and rendering the (proper) service to the heavenly, there is nothing like moderation.
 
-2\. It is only by this moderation that there is effected an early return (to man's normal state). That early return is what I call the repeated accumulation of the attributes (of the Tâo). With that <span id="p103">[<sup><small>p. 103</small></sup>]</span> repeated accumulation of those attributes, there comes the subjugation (of every obstacle to such return). Of this subjugation we know not what shall be the limit; and when one knows not what the limit shall be, he may be the ruler of a state.
+2\. It is only by this moderation that there is effected an early return (to man's normal state). That early return is what I call the repeated accumulation of the attributes (of the Tâo). With that <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> repeated accumulation of those attributes, there comes the subjugation (of every obstacle to such return). Of this subjugation we know not what shall be the limit; and when one knows not what the limit shall be, he may be the ruler of a state.
 
 3\. He who possesses the mother of the state may continue long. His case is like that (of the plant) of which we say that its roots are deep and its flower stalks firm:—this is the way to secure that its enduring life shall long be seen.
 
@@ -512,7 +512,7 @@ In par. 3 ‘the mother of the state’ is the Tâo as in ch. 1, and especially 
 
 ## 60.
 
-60\. 1. Governing a great state is like cooking small fish. <span id="p104">[<sup><small>p. 104</small></sup>]</span> 2\. Let the kingdom be governed according to the Tâo, and the manes of the departed will not manifest their spiritual energy. It is not that those manes have not that spiritual energy, but it will not be employed to hurt men. It is not that it could not hurt men, but neither does the ruling sage hurt them.
+60\. 1. Governing a great state is like cooking small fish. <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> 2\. Let the kingdom be governed according to the Tâo, and the manes of the departed will not manifest their spiritual energy. It is not that those manes have not that spiritual energy, but it will not be employed to hurt men. It is not that it could not hurt men, but neither does the ruling sage hurt them.
 
 3\. When these two do not injuriously affect each other, their good influences converge in the virtue (of the Tâo).
 
@@ -531,7 +531,7 @@ Whatever Lâo-dze meant to teach in par. 2, he laid in it a foundation for the s
 
 61\. 1. What makes a great state is its being (like) low-lying, down-flowing (stream);—it becomes the centre to which tend (all the small states) under heaven.
 
-2\. (To illustrate from) the case of all females:—the female always overcomes the male by her stillness. Stillness may be considered (a sort of) abasement. <span id="p105">[<sup><small>p. 105</small></sup>]</span> 3\. Thus it is that a great state, by condescending to small states, gains them for itself; and that small states, by abasing themselves to a great state, win it over to them. In the one case the abasement leads to gaining adherents, in the other case to procuring favour.
+2\. (To illustrate from) the case of all females:—the female always overcomes the male by her stillness. Stillness may be considered (a sort of) abasement. <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> 3\. Thus it is that a great state, by condescending to small states, gains them for itself; and that small states, by abasing themselves to a great state, win it over to them. In the one case the abasement leads to gaining adherents, in the other case to procuring favour.
 
 4\. The great state only wishes to unite men together and nourish them; a small state only wishes to be received by, and to serve, the other. Each gets what it desires, but the great state must learn to abase itself
 
@@ -550,7 +550,7 @@ No treasures give good men so rich a grace; Bad men it guards, and doth their il
 
 3\. Therefore when the sovereign occupies his place as the Son of Heaven, and he has appointed his three ducal ministers, though (a prince) were to send in a round symbol-of-rank large enough to fill both the hands, and that as the precursor of the team of horses (in the court-yard), such an offering would not be equal to (a lesson of) this Tâo, which one might present on his knees.
 
-4\. Why was it that the ancients prized this Tâo <span id="p106">[<sup><small>p. 106</small></sup>]</span> so much? Was it not because it could be got by seeking for it, and the guilty could escape (from the stain of their guilt) by it? This is the reason why all under heaven consider it the most valuable thing.
+4\. Why was it that the ancients prized this Tâo <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> so much? Was it not because it could be got by seeking for it, and the guilty could escape (from the stain of their guilt) by it? This is the reason why all under heaven consider it the most valuable thing.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/10600.jpg), ‘Practising the Tâo.’ ![](/image/book/Taoism/Taoist_texts_vol_1/10601.jpg), ‘The value set on the Tâo,’ would have been a more appropriate title. The chapter sets forth that value in various manifestations of it.
 
@@ -567,7 +567,7 @@ Par. 3 is not easily translated, or explained. See the rules on presenting offer
 
 63\. 1. (It is the way of the Tâo) to act without (thinking of) acting; to conduct affairs without (feeling the) trouble of them; to taste without discerning any flavour; to consider what is small as great, and a few as many; and to recompense injury with kindness.
 
-2\. (The master of it) anticipates things that are difficult while they are easy, and does things that would become great while they are small. All difficult things in the world are sure to arise from a previous state in which they were easy, and all great things from one in which they were small. Therefore the sage, while he never does what is great, is able on that account to accomplish the greatest things. <span id="p107">[<sup><small>p. 107</small></sup>]</span> 3\. He who lightly promises is sure to keep but little faith; he who is continually thinking things easy is sure to find them difficult. Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties.
+2\. (The master of it) anticipates things that are difficult while they are easy, and does things that would become great while they are small. All difficult things in the world are sure to arise from a previous state in which they were easy, and all great things from one in which they were small. Therefore the sage, while he never does what is great, is able on that account to accomplish the greatest things. <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> 3\. He who lightly promises is sure to keep but little faith; he who is continually thinking things easy is sure to find them difficult. Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/10700.jpg), ‘Thinking in the Beginning.’ The former of these two characters is commonly misprinted ![](/image/book/Taoism/Taoist_texts_vol_1/10701.jpg), and this has led Chalmers to mistranslate them by ‘The Beginning of Grace.’ The chapter sets forth the passionless method of the Tâo, and how the sage accordingly accomplishes his objects easily by forestalling in his measures all difficulties. In par. 1 the clauses are indicative, and not imperative, and therefore we have to supplement the text in translating in some such way, as I have done. They give us a cluster of aphorisms illustrating the procedure of the Tâo ‘by contraries,’ and conclude with one, which is the chief glory of Lâo-dze's teaching, though I must think that its value is somewhat diminished by the method in which he reaches it. It has not the prominence in the later teaching of Tâoist writers which we should expect, nor is it found (so far as I know) in Kwang-dze, Han Fei, or Hwâi-nan. It is quoted, however, twice by Liû Hsiang;—see my note on par. 2 of ch. 49.
 
@@ -580,7 +580,7 @@ It follows from the whole chapter that the Tâoistic ‘doing nothing’ was not
 
 64\. 1. That which is at rest is easily kept hold of; before a thing has given indications of its presence, it is easy to take measures against it; that which is brittle is easily broken; that which is very small is easily dispersed. Action should be taken before a thing has made its appearance; order should be secured before disorder has begun.
 
-2\. The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a <span id="p108">[<sup><small>p. 108</small></sup>]</span> (small) heap of earth; the journey of a thousand lî commenced with a single step.
+2\. The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> (small) heap of earth; the journey of a thousand lî commenced with a single step.
 
 3\. He who acts (with an ulterior purpose) does harm; he who takes hold of a thing (in the same way) loses his hold. The sage does not act (so), and therefore does no harm; he does not lay hold (so), and therefore does not lose his hold. (But) people in their conduct of affairs are constantly ruining them when they are on the eve of success. If they were careful at the end, as (they should be) at the beginning, they would not so ruin them.
 
@@ -597,7 +597,7 @@ It follows from the whole chapter that the Tâoistic ‘doing nothing’ was not
 
 2\. The difficulty in governing the people arises from their having much knowledge. He who (tries to) govern a state by his wisdom is a scourge to it while he who does not (try to) do so is a blessing.
 
-3\. He who knows these two things finds in them also his model and rule. Ability to know this <span id="p109">[<sup><small>p. 109</small></sup>]</span> model and rule constitutes what we call the mysterious excellence (of a governor). Deep and far-reaching is such mysterious excellence, showing indeed its possessor as opposite to others, but leading them to a great conformity to him.
+3\. He who knows these two things finds in them also his model and rule. Ability to know this <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> model and rule constitutes what we call the mysterious excellence (of a governor). Deep and far-reaching is such mysterious excellence, showing indeed its possessor as opposite to others, but leading them to a great conformity to him.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/10900.jpg), ‘Pure, unmixed Excellence.’ The chapter shows the powerful and beneficent influence of the Tâo in government, in contrast with the applications and contrivances of human wisdom. Compare ch. 19. My ‘simple and ignorant’ is taken from Julien. More literally the translation would be ‘to make them stupid.’ My ‘scourge’ in par. 2 is also after Julien's ‘fléau.’
 
@@ -614,7 +614,7 @@ It follows from the whole chapter that the Tâoistic ‘doing nothing’ was not
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/10901.jpg), 'Putting one's self Last.' The subject is the power of the Tâo, by its display of humility in attracting men. The subject and the way in which it is illustrated are frequent themes in the King. See chapters 8, 22, 39, 42, 61, et al.
 
-The last sentence of par. 3 is found also in ch. 22. There seem to be no quotations from the chapter in Han Fei or Hwâi-nan; but Wû Khäng quotes passages from Tung Kung-shû <span id="p110">[<sup><small>p. 110</small></sup>]</span> (of the second century B. C.), and Yang Hsiung (B. C. 53-A. D. 18), which seem to show that the phraseology of it was familiar to them. The former says:—‘When one places himself in his qualities below others, his person is above them; when he places them behind those of others, his person is before them;’ the other, ‘Men exalt him who humbles himself below them; and give the precedence to him who puts himself behind them.’
+The last sentence of par. 3 is found also in ch. 22. There seem to be no quotations from the chapter in Han Fei or Hwâi-nan; but Wû Khäng quotes passages from Tung Kung-shû <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> (of the second century B. C.), and Yang Hsiung (B. C. 53-A. D. 18), which seem to show that the phraseology of it was familiar to them. The former says:—‘When one places himself in his qualities below others, his person is above them; when he places them behind those of others, his person is before them;’ the other, ‘Men exalt him who humbles himself below them; and give the precedence to him who puts himself behind them.’
 
 
 <a id="c67"></a>
@@ -629,7 +629,7 @@ The last sentence of par. 3 is found also in ch. 22. There seem to be no quotati
 
 4\. Gentleness is sure to be victorious even in battle, and firmly to maintain its ground. Heaven will save its possessor, by his (very) gentleness protecting him.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/11000.jpg), ‘The Three Precious Things.’ This title is taken from par. 2, and suggests to us how the early framer of these titles intended to express by them the subject-matter of their several chapters. The three things are the three distinguishing qualities of the possessor of the Tâo, the <span id="p111">[<sup><small>p. 111</small></sup>]</span> three great moral qualities appearing in its followers, the qualities, we may venture to say, of the Tâo itself. The same phrase is now the common designation of Buddhism in China,—the Tri-ratna or Ratna-traya, ‘the Precious Buddha,’ ‘the Precious Law,’ and ‘the Precious Priesthood (or rather Monkhood) or Church;’ appearing also in the ‘Tri-sarana,’ or ‘formula of the Three Refuges,’ what Dr. Eitel calls ‘the most primitive formula fidei of the early Buddhists, introduced before Southern and Northern Buddhism separated.’ I will not introduce the question of whether Buddhism borrowed this designation from Tâoism, after its entrance into China. It is in Buddhism the formula of a peculiar Church or Religion; in Tâoism a rule for the character, or the conduct which the Tâo demands from all men. ‘My Tâo’ in par. 1 is the reading of Wang Pî; Ho-shang Kung's text is simply a ![](/image/book/Taoism/Taoist_texts_vol_1/11100.jpg). Wang Pî's reading is now generally adopted.
+![](/image/book/Taoism/Taoist_texts_vol_1/11000.jpg), ‘The Three Precious Things.’ This title is taken from par. 2, and suggests to us how the early framer of these titles intended to express by them the subject-matter of their several chapters. The three things are the three distinguishing qualities of the possessor of the Tâo, the <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> three great moral qualities appearing in its followers, the qualities, we may venture to say, of the Tâo itself. The same phrase is now the common designation of Buddhism in China,—the Tri-ratna or Ratna-traya, ‘the Precious Buddha,’ ‘the Precious Law,’ and ‘the Precious Priesthood (or rather Monkhood) or Church;’ appearing also in the ‘Tri-sarana,’ or ‘formula of the Three Refuges,’ what Dr. Eitel calls ‘the most primitive formula fidei of the early Buddhists, introduced before Southern and Northern Buddhism separated.’ I will not introduce the question of whether Buddhism borrowed this designation from Tâoism, after its entrance into China. It is in Buddhism the formula of a peculiar Church or Religion; in Tâoism a rule for the character, or the conduct which the Tâo demands from all men. ‘My Tâo’ in par. 1 is the reading of Wang Pî; Ho-shang Kung's text is simply a ![](/image/book/Taoism/Taoist_texts_vol_1/11100.jpg). Wang Pî's reading is now generally adopted.
 
 The concluding sentiment of the chapter is equivalent to the saying of Mencius (VII, ii, IV, 2), ‘If the ruler of a state love benevolence, he will have no enemy under heaven.’ ‘Heaven’ is equivalent to 'the Tâo, 'the course of events,—Providence, as we should say.
 
@@ -653,7 +653,7 @@ Thus we say, 'Men's wills he bends,
 Thus we say, 'Like Heaven's his ends,
 &nbsp;&nbsp;&nbsp;&nbsp;No sage of old more bright.’
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/11200.jpg), ‘Matching Heaven.’ The chapter describes the work of the practiser of the Tâo as accomplished like that of Heaven, without striving or crying. He appears under the figure of a mailed warrior ( ![](/image/book/Taoism/Taoist_texts_vol_1/11201.jpg)) of the ancient chariot. The chapter is a sequel of the preceding, and is joined on to it by Wû Khäng, as is also the next.
 
@@ -677,7 +677,7 @@ We do not know who the master of the military art referred to was. Perhaps the a
 
 70\. 1. My words are very easy to know, and very easy to practise; but there is no one in the world who is able to know and able to practise them.
 
-2\. There is an originating and all-comprehending <span id="p113">[<sup><small>p. 113</small></sup>]</span> (principle) in my words, and an authoritative law for the things (which I enforce). It is because they do not know these, that men do not know me.
+2\. There is an originating and all-comprehending <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> (principle) in my words, and an authoritative law for the things (which I enforce). It is because they do not know these, that men do not know me.
 
 3\. They who know me are few, and I am on that account (the more) to be prized. It is thus that the sage wears (a poor garb of) hair cloth, while he carries his (signet of) jade in his bosom.
 
@@ -696,7 +696,7 @@ Par. 2 is twice quoted by Hwâi-nan, though his text is not quite the same in bo
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/11302.jpg), ‘The Disease of Knowing.’ Here, again, we have the Tâo working ‘by contraries,’—in the matter of knowledge. Compare par. 1 with Confucius's account of what knowledge is in the Analects, 11, ch. 17. The par. 1 is found in one place in Hwâi-nan, lengthened out by the addition of particles; but the variation is unimportant. In another place, however, he seems to have had the correct text before him.
 
-Par. 2 is in Han Fei also lengthened out, but with an <span id="p114">[<sup><small>p. 114</small></sup>]</span> important variation ( ![](/image/book/Taoism/Taoist_texts_vol_1/11400.jpg) for ![](/image/book/Taoism/Taoist_texts_vol_1/11401.jpg)), and I cannot construe his text. His ![](/image/book/Taoism/Taoist_texts_vol_1/11402.jpg) is probably a transcriber's error.
+Par. 2 is in Han Fei also lengthened out, but with an <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> important variation ( ![](/image/book/Taoism/Taoist_texts_vol_1/11400.jpg) for ![](/image/book/Taoism/Taoist_texts_vol_1/11401.jpg)), and I cannot construe his text. His ![](/image/book/Taoism/Taoist_texts_vol_1/11402.jpg) is probably a transcriber's error.
 
 
 <a id="c72"></a>
@@ -717,7 +717,7 @@ In par. 1 ‘the great dread’ is death, and the things which ought to be feare
 
 Pars. 2 and 3 are supplementary to 1. For ![](/image/book/Taoism/Taoist_texts_vol_1/11404.jpg), the second character of Ho-shang Kung's text in par. 2, Wang Pî reads ![](/image/book/Taoism/Taoist_texts_vol_1/11405.jpg), which has the same name as the other; and according to the Khang-hsî dictionary, the two characters are interchangeable. I have also followed Wû Khäng in adopting ![](/image/book/Taoism/Taoist_texts_vol_1/11405.jpg) for the former of the two ![](/image/book/Taoism/Taoist_texts_vol_1/11406.jpg) in par. 3. Wû adopted this reading from a commentator Liû of Lü-ling. It gives a good meaning, and is supported by the structure of other sentences made on similar lines.
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 In par. 4 ‘the sage’ must be ‘the ruler who is a sage,’ a master of the Tâo, ‘the king’ of ch. 25. He ‘loves himself,’ i. e. his life, and takes the right measures to prolong his life, but without any demonstration that he is doing so.
 
@@ -745,7 +745,7 @@ Alia explicatio.
 
 3\. Vitae si non taedet, nec patrii soli taedebit.
 
-4\. Quare sanctus majestatis fastum non affectat, immo similem se caeteris ostendit. <span id="p116">[<sup><small>p. 116</small></sup>]</span> 5\. Sibi recte consulens, populorum amans, non se pretiosum et inaccessibilem facit.
+4\. Quare sanctus majestatis fastum non affectat, immo similem se caeteris ostendit. <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> 5\. Sibi recte consulens, populorum amans, non se pretiosum et inaccessibilem facit.
 
 6\. Quidquid ergo timorem incutere potest, hoc evitat; quod amorem conciliat et benignitatem, se demonstrat hoc eligi et ultro amplectitur.
 
@@ -765,7 +765,7 @@ On this account the sage feels a difficulty (as to what to do in the former case
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/11600.jpg), ‘Allowing Men to take their Course.’ The chapter teaches that rulers should not be hasty to punish, especially by the infliction of death. Though they may seem to err in leniency, yet Heaven does not allow offenders to escape.
 
-While Heaven hates the ill-doer, yet we must not always conclude from Its judgments that every one who suffers from them is an ill-doer; and the two lines which rhyme, and illustrate this point, are equivalent to the sentiment in our Old Book, ‘Clouds and darkness are round about Him.’ They are ascribed to Lâo-dze by Lieh-dze (VI, 7 a); but, it has been said, that they are quoted by him ‘in an entirely different connexion.’ But the same text in two <span id="p117">[<sup><small>p. 117</small></sup>]</span> different sermons may be said to be in different connexions. In Lieh-dze and our King the lines have the same meaning, and substantially the same application. Indeed Kang Kan, of our fourth century, the commentator of Lieh-dze, quotes the comment of Wang Pî on this passage, condensing it into, ‘Who can know the mind of Heaven? Only the sage can do so.’
+While Heaven hates the ill-doer, yet we must not always conclude from Its judgments that every one who suffers from them is an ill-doer; and the two lines which rhyme, and illustrate this point, are equivalent to the sentiment in our Old Book, ‘Clouds and darkness are round about Him.’ They are ascribed to Lâo-dze by Lieh-dze (VI, 7 a); but, it has been said, that they are quoted by him ‘in an entirely different connexion.’ But the same text in two <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> different sermons may be said to be in different connexions. In Lieh-dze and our King the lines have the same meaning, and substantially the same application. Indeed Kang Kan, of our fourth century, the commentator of Lieh-dze, quotes the comment of Wang Pî on this passage, condensing it into, ‘Who can know the mind of Heaven? Only the sage can do so.’
 
 
 <a id="c74"></a>
@@ -785,7 +785,7 @@ This chapter and the next are rightly joined on to the preceding by Wû Khäng.
 
 ## 75.
 
-75\. 1. The people suffer from famine because of the multitude of taxes consumed by their superiors. It is through this that they suffer famine. <span id="p118">[<sup><small>p. 118</small></sup>]</span> 2\. The people are difficult to govern because of the (excessive) agency of their superiors (in governing them). It is through this that they are difficult to govern.
+75\. 1. The people suffer from famine because of the multitude of taxes consumed by their superiors. It is through this that they suffer famine. <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> 2\. The people are difficult to govern because of the (excessive) agency of their superiors (in governing them). It is through this that they are difficult to govern.
 
 3\. The people make light of dying because of the greatness of their labours in seeking for the means of living. It is this which makes them think light of dying. Thus it is that to leave the subject of living altogether out of view is better than to set a high value on it.
 
@@ -808,7 +808,7 @@ It is not easy to determine whether rulers, or people, or both, are intended in 
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/11801.jpg), ‘A Warning against (trusting in) Strength.’ To trust in one's force is contrary to the Tâo, whose strength is more in weakness and humility.
 
-In par. 1 the two characters which I have rendered by <span id="p119">[<sup><small>p. 119</small></sup>]</span> ‘(so it is with) all things’ are found in the texts of both Ho-shang Kung and Wang Pî, but Wû Khäng and Ziâo Hung both reject them. I should also have neglected them, but they are also found in Liû Hsiang's Shwo Wän (X, 4 a), with all the rest of pars. 1 and 2, as from Lâo-dze. They are an anakoluthon, such as is elsewhere found in our King; e.g. ![](/image/book/Taoism/Taoist_texts_vol_1/11900.jpg) in ch. 21, par. 2.
+In par. 1 the two characters which I have rendered by <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> ‘(so it is with) all things’ are found in the texts of both Ho-shang Kung and Wang Pî, but Wû Khäng and Ziâo Hung both reject them. I should also have neglected them, but they are also found in Liû Hsiang's Shwo Wän (X, 4 a), with all the rest of pars. 1 and 2, as from Lâo-dze. They are an anakoluthon, such as is elsewhere found in our King; e.g. ![](/image/book/Taoism/Taoist_texts_vol_1/11900.jpg) in ch. 21, par. 2.
 
 The ‘above’ and ‘below’ in par. 4 seem to be merely a play on the words, as capable of meaning ‘more and less honourable.’
 
@@ -825,7 +825,7 @@ The ‘above’ and ‘below’ in par. 4 seem to be merely a play on the words,
 
 4\. Therefore the (ruling) sage acts without claiming the results as his; he achieves his merit and does not rest (arrogantly) in it:—he does not wish to display his superiority.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/11901.jpg), ‘The Way of Heaven;’ but the chapter contrasts that way, unselfish and magnanimous, with the way of man, selfish and contracted, and illustrates the point by the method of stringing a bow. This must be seen as it is done in China fully to understand the illustration. I have known great athletes in this country tasked to the utmost <span id="p120">[<sup><small>p. 120</small></sup>]</span> of their strength to adjust and bend a large Chinese bow from Peking.
+![](/image/book/Taoism/Taoist_texts_vol_1/11901.jpg), ‘The Way of Heaven;’ but the chapter contrasts that way, unselfish and magnanimous, with the way of man, selfish and contracted, and illustrates the point by the method of stringing a bow. This must be seen as it is done in China fully to understand the illustration. I have known great athletes in this country tasked to the utmost <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> of their strength to adjust and bend a large Chinese bow from Peking.
 
 The ‘sage’ of par. 4 is the ‘King’ of ch. 25. Compare what is said of him with ch. 2, par. 4, et al.
 
@@ -859,7 +859,7 @@ Is king o' men for a' that.’
 
 But the Tâoist of Lâo-dze is a higher ideal than Burns's honest man.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Par. 4 is separated from this chapter, and made to begin the next by Wû Khäng.
 
@@ -878,7 +878,7 @@ Par. 4 is separated from this chapter, and made to begin the next by Wû Khäng.
 
 Par. 1 presents us with a case which the statements of the chapter are intended to meet:—two disputants, one good, and the other bad; the latter, though apparently reconciled, still retaining a grudge, and ready to wreak his dissatisfaction, when he has an opportunity. The ![](/image/book/Taoism/Taoist_texts_vol_1/12101.jpg) = ‘for,’ ‘for the good of.’
 
-Par. 2 is intended to solve the question. The terms of a contract or agreement were inscribed on a slip of wood, which was then divided into two; each party having one half of it. At the settlement, if the halves perfectly fitted to each other, it was carried through. The one who had the right in the dispute has his part of the agreement, but does not insist on it, and is forbearing; the other insists on the conditions being even now altered in his favour. The <span id="p122">[<sup><small>p. 122</small></sup>]</span> characters by which this last case is expressed, are very enigmatical, having reference to the satisfaction of the government dues of Lâo-dze's time,—a subject into which it would take much space to go.
+Par. 2 is intended to solve the question. The terms of a contract or agreement were inscribed on a slip of wood, which was then divided into two; each party having one half of it. At the settlement, if the halves perfectly fitted to each other, it was carried through. The one who had the right in the dispute has his part of the agreement, but does not insist on it, and is forbearing; the other insists on the conditions being even now altered in his favour. The <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> characters by which this last case is expressed, are very enigmatical, having reference to the satisfaction of the government dues of Lâo-dze's time,—a subject into which it would take much space to go.
 
 Par. 3 decides the question by the action of Heaven, which is only another name for the course of the Tâo.
 
@@ -893,7 +893,7 @@ Par. 3 decides the question by the action of Heaven, which is only another name 
 
 5\. There should be a neighbouring state within sight, and the voices of the fowls and dogs should be heard all the way from it to us, but I would make the people to old age, even to death, not have any intercourse with it.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/12200.jpg), ‘Standing Alone.’ The chapter sets forth what Lâo-dze conceived the ancient government of simplicity was, and what he would have government in all time to be. He does not use the personal pronoun ‘I’ as the subject of the thrice-recurring ![](/image/book/Taoism/Taoist_texts_vol_1/12201.jpg), but it is most natural to suppose that he is himself that subject; and he modestly supposes himself in charge of a little state and a small <span id="p123">[<sup><small>p. 123</small></sup>]</span> population. The reader can judge for himself of the consummation that would be arrived at;—a people rude and uninstructed, using quippos, abstaining from war and all travelling, kept aloof from intercourse even with their neighbours, and without the appliances of what we call civilisation.
+![](/image/book/Taoism/Taoist_texts_vol_1/12200.jpg), ‘Standing Alone.’ The chapter sets forth what Lâo-dze conceived the ancient government of simplicity was, and what he would have government in all time to be. He does not use the personal pronoun ‘I’ as the subject of the thrice-recurring ![](/image/book/Taoism/Taoist_texts_vol_1/12201.jpg), but it is most natural to suppose that he is himself that subject; and he modestly supposes himself in charge of a little state and a small <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> population. The reader can judge for himself of the consummation that would be arrived at;—a people rude and uninstructed, using quippos, abstaining from war and all travelling, kept aloof from intercourse even with their neighbours, and without the appliances of what we call civilisation.
 
 The text is nearly all found in Sze-mâ Khien and Kwang-dze. The first member of par. 1, however, is very puzzling. The old Jesuit translators, Julien, Chalmers, and V. von Strauss, all differ in their views of it. Wû Khäng and Ziâo Hung take what I have now rendered by ‘abilities,’ as meaning ‘implements of agriculture,’ but their view is based on a custom of the Han dynasty, which is not remote enough for the purpose, and on the suppression, after Wang Pî, of a ![](/image/book/Taoism/Taoist_texts_vol_1/12300.jpg) in Ho-shang Kung's text.
 
@@ -910,7 +910,7 @@ The text is nearly all found in Sze-mâ Khien and Kwang-dze. The first member of
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/12301.jpg), ‘The Manifestation of Simplicity.’ The chapter shows how quietly and effectively the Tâo proceeds, and by contraries in a way that only the master of it can understand. The author, says Wû Khäng, ‘sums up in this the subject-matter of the two Parts of his Treatise, showing that in all its five thousand characters, there is nothing beyond what is here said.’
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Par. 2 suggests to Dr. Chalmers the well-known lines of Bunyan as an analogue of it:—
 

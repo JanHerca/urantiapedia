@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 ## PRAPÂ_TH_AKA IV, KÂ_N__D_IKÂ 1.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. And having placed the Avadânas on a layer (of grass) on which branches of the Plaksha (tree) have been spread,
 
-10\. [^353] He cuts off (the prescribed portions) from the <span id="p102">[<sup><small>p. 102</small></sup>]</span> Avadânas in the way prescribed for Sthâlîpâkas, (and puts those portions) into (another) brazen vessel;
+10\. [^353] He cuts off (the prescribed portions) from the <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> Avadânas in the way prescribed for Sthâlîpâkas, (and puts those portions) into (another) brazen vessel;
 
 11\. And (the portion) for the Svish<i>t</i>ak<i>t</i>t oblation separately.
 
@@ -74,7 +74,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 19\. Or he should sacrifice a Sthâlîpâka.
 
-20\. [^354] Or he should offer food to a cow. <span id="p103">[<sup><small>p. 103</small></sup>]</span>
+20\. [^354] Or he should offer food to a cow. <span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 21\. [^355] Or he should burn down brushwood in the forest and should say, ‘This is my Ash<i>t</i>akâ.’
 
@@ -101,7 +101,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. [^357] In the northern part of that enclosure they make the Laksha<i>n</i>a and carry the fire (to that place).
 
-9\. To the west of the fire he places a mortar so that it stands firmly, and husks, holding his left hand uppermost, one handful of rice-grains which he has seized with one grasp. <span id="p104">[<sup><small>p. 104</small></sup>]</span>
+9\. To the west of the fire he places a mortar so that it stands firmly, and husks, holding his left hand uppermost, one handful of rice-grains which he has seized with one grasp. <span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 10\. When (the rice) has been husked,
 
@@ -123,7 +123,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 19\. Having carried the fire round the pits on their west side, he should put it down on the Laksha<i>n</i>a.
 
-20\. He strews (round the fire) one handful of Darbha grass which he has cut off in one portion. <span id="p105">[<sup><small>p. 105</small></sup>]</span>
+20\. He strews (round the fire) one handful of Darbha grass which he has cut off in one portion. <span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 21\. And (he strews it into) the pits,
 
@@ -149,7 +149,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 32\. [^366] And a piece of linen tape.
 
-33\. [^367] After he has invited an odd number of blameless Brâhma<i>n</i>as, whose faces should be turned towards the north, to sit down on a pure spot, <span id="p106">[<sup><small>p. 106</small></sup>]</span>
+33\. [^367] After he has invited an odd number of blameless Brâhma<i>n</i>as, whose faces should be turned towards the north, to sit down on a pure spot, <span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 34\. [^368] And has given them Darbha grass (in order that they may sit down thereon),
 
@@ -168,7 +168,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 3.
 
@@ -186,7 +186,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. [^377] After he leas touched water, (he does) the same for the other two.
 
-8\. Seizing, again with his left hand, the Darvî spoon, he should cut off one-third of the mixture (of <span id="p108">[<sup><small>p. 108</small></sup>]</span> the different kinds of sacrificial food) and should put down (that Pi<i>nd</i>a), from right to left, on the Darbha grass in the eastern pit, pronouncing his father's name, ‘N.N.! This Pi<i>nd</i>a is thine, and of those who follow thee here, and of those whom thou followest. To thee Svadhâ!’
+8\. Seizing, again with his left hand, the Darvî spoon, he should cut off one-third of the mixture (of <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> the different kinds of sacrificial food) and should put down (that Pi<i>nd</i>a), from right to left, on the Darbha grass in the eastern pit, pronouncing his father's name, ‘N.N.! This Pi<i>nd</i>a is thine, and of those who follow thee here, and of those whom thou followest. To thee Svadhâ!’
 
 9\. [^378] After he has touched water, (he does) the same for the other two.
 
@@ -200,7 +200,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 14\. After he has touched water, (he does) the same for the other two.
 
-15\. [^379] In the same way (he offers) the oil (to the fathers); <span id="p109">[<sup><small>p. 109</small></sup>]</span>
+15\. [^379] In the same way (he offers) the oil (to the fathers); <span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 16\. [^380] In the same way the perfume.
 
@@ -218,7 +218,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 23\. [^382] He looks at the Pi<i>nd</i>as with (the words), ‘May we give you an abode, O Fathers!’ (MB. II, 3, 11).
 
-24\. [^383] Seizing, again with his left hand, the linen thread, he should put it down, from right to left, on the Pi<i>nd</i>a in the eastern pit, pronouncing his father's <span id="p110">[<sup><small>p. 110</small></sup>]</span> name, ‘N.N.! This garment is thine, and is that of those who follow thee here, and of those whom thou followest. To thee Svadhâ!’ (MB. II, 3, 12).
+24\. [^383] Seizing, again with his left hand, the linen thread, he should put it down, from right to left, on the Pi<i>nd</i>a in the eastern pit, pronouncing his father's <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> name, ‘N.N.! This garment is thine, and is that of those who follow thee here, and of those whom thou followest. To thee Svadhâ!’ (MB. II, 3, 12).
 
 25\. [^384] After he has touched water, (he does) the same for the other two.
 
@@ -240,7 +240,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 34\. Or he should give them to a cow.
 
-35\. [^385] On the occasion of a lucky event (such as the birth of a son, &c.) or of a meritorious work (such as the dedication of a pond or of a garden) he should give food to an even number (of Brâhma<i>n</i>as). <span id="p111">[<sup><small>p. 111</small></sup>]</span>
+35\. [^385] On the occasion of a lucky event (such as the birth of a son, &c.) or of a meritorious work (such as the dedication of a pond or of a garden) he should give food to an even number (of Brâhma<i>n</i>as). <span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 36\. [^386] The rite (is performed) from left to right.
 
@@ -260,7 +260,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 5\. [^389] The Havis is prepared (by one who has set up the sacred <i>S</i>rauta fires) in the Dakshi<i>n</i>âgni (i.e. in that of the three fires which is situated towards the south).
 
-6\. And from the same (fire the fire is taken which) <span id="p112">[<sup><small>p. 112</small></sup>]</span> is carried forward (in order to be used at the ceremonies).
+6\. And from the same (fire the fire is taken which) <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> is carried forward (in order to be used at the ceremonies).
 
 7\. In the domestic fire (the Havis is prepared) by one who has not set up the (<i>S</i>rauta) fires.
 
@@ -292,7 +292,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 21\. [^400] Vegetables (are taken instead of meat) as ingredient to the Anvâhârya(-rice).
 
-22\. At animal sacrifices offered to the Fathers let— <span id="p113">[<sup><small>p. 113</small></sup>]</span> him sacrifice the omentum with (the verse), ‘Carry the omentum, O <i>G</i>âtavedas, to the Fathers’ (MB. II, 3, 16);
+22\. At animal sacrifices offered to the Fathers let— <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> him sacrifice the omentum with (the verse), ‘Carry the omentum, O <i>G</i>âtavedas, to the Fathers’ (MB. II, 3, 16);
 
 23\. At (such sacrifices) offered to the gods, with (the verse), ‘<i>G</i>âtavedas, go to the gods with the omentum’ (ibid. 17).
 
@@ -308,7 +308,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 29\. [^403] And he should offer (Â<i>d</i>ya) to Sîtâ, Â<i>d</i>â, Ara<i>d</i>â, Anaghâ.
 
-30\. The same deities (receive offerings) at the <span id="p114">[<sup><small>p. 114</small></sup>]</span> furrow-sacrifice, at the thrashing-floor-sacrifice, at the sowing, at the reaping of the crop, and at the putting of the crop into the barn.
+30\. The same deities (receive offerings) at the <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> furrow-sacrifice, at the thrashing-floor-sacrifice, at the sowing, at the reaping of the crop, and at the putting of the crop into the barn.
 
 31\. And at mole hills he should sacrifice to the king of moles.
 
@@ -327,7 +327,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. And, according to some (teachers), also at (the sacrifices) described above (the following rites should be performed).
 
-3\. He should touch the earth, to the west of the fire, with his two hands turned downwards, with (the verse), ‘We partake of the earth’s’ (MB. II, 4, 1). <span id="p115">[<sup><small>p. 115</small></sup>]</span>
+3\. He should touch the earth, to the west of the fire, with his two hands turned downwards, with (the verse), ‘We partake of the earth’s’ (MB. II, 4, 1). <span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 4\. In the night-time (he pronounces that Mantra so that it ends with the word) ‘goods’ (vasu), in the day-time (so that it ends) with ‘wealth’ (dhanam).
 
@@ -341,7 +341,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. [^407] When undertaking ceremonies for the obtainment of special wishes, let him fast during three (days and) nights,
 
-10\. [^408] Or (let him omit) three meals. <span id="p116">[<sup><small>p. 116</small></sup>]</span>
+10\. [^408] Or (let him omit) three meals. <span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 11\. [^409] At such ceremonies, however, as are repeated regularly, (let him do so only) before their first performance.
 
@@ -357,7 +357,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 17\. To both directions, if desirous of both.
 
-18\. One who desires that his stock of cattle may increase, should offer a sacrifice of rice and barley <span id="p117">[<sup><small>p. 117</small></sup>]</span> with (the verse), ‘He who has a thousand arms, the protector of cow-keepers’ (MB. II, 4, 7).
+18\. One who desires that his stock of cattle may increase, should offer a sacrifice of rice and barley <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> with (the verse), ‘He who has a thousand arms, the protector of cow-keepers’ (MB. II, 4, 7).
 
 19\. Having murmured the Kautomata verse (ibid. 8) over fruits of a big tree, he should give them—
 
@@ -381,7 +381,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 29\. Now (follows) another (ceremony with the same five verses).
 
-30\. With the first (verse) one who is desirous of the enjoyment (of riches), should worship the sun, within sight of (that) person rich in wealth (from <span id="p118">[<sup><small>p. 118</small></sup>]</span> whom he hopes to obtain wealth); then he will obtain wealth.
+30\. With the first (verse) one who is desirous of the enjoyment (of riches), should worship the sun, within sight of (that) person rich in wealth (from <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> whom he hopes to obtain wealth); then he will obtain wealth.
 
 31\. With the second (verse) one who desires that his stock of horses and elephants may increase, should sacrifice fried grains, while the sun has a halo.
 
@@ -407,7 +407,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. [^417] The seventh (verse is), ‘She who athwart’ (MB. I, 5, 6).
 
-7\. [^418] (Then follow) the verses of the Vâmadevya, <span id="p119">[<sup><small>p. 119</small></sup>]</span>
+7\. [^418] (Then follow) the verses of the Vâmadevya, <span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 8\. (And) the Mahâvyâh<i>ri</i>tis.
 
@@ -421,7 +421,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 13\. [^420] One who desires to gain a hundred cart-loads (of gold), should keep the vow (of fasting) through one fortnight and should on the first day of a dark fortnight feed the Brâhma<i>n</i>as with boiled milk-rice prepared of one Kâ<i>n</i>sa of rice.
 
-14\. [^421] At the evening twilight (of every day of that fortnight), having left the village in a westerly direction, and having put wood on the fire at a place where <span id="p120">[<sup><small>p. 120</small></sup>]</span> four roads meet, he should sacrifice the small grains (of that rice), turning his face towards the sun, with (the words), ‘To Bhala Svâhâ! To Bhala Svâhâ!’ (ibid. 17. 18).
+14\. [^421] At the evening twilight (of every day of that fortnight), having left the village in a westerly direction, and having put wood on the fire at a place where <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> four roads meet, he should sacrifice the small grains (of that rice), turning his face towards the sun, with (the words), ‘To Bhala Svâhâ! To Bhala Svâhâ!’ (ibid. 17. 18).
 
 15\. (He should repeat those rites) in the same way the two next dark fortnights.
 
@@ -451,7 +451,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 10\. (Soil covered) with big sorts of grass, by one who is desirous of strength,
 
-11\. (Soil covered) with tender grass, by one who is desirous of cattle. <span id="p121">[<sup><small>p. 121</small></sup>]</span>
+11\. (Soil covered) with tender grass, by one who is desirous of cattle. <span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 12\. (The site of the house) should have the form of a brick,
 
@@ -471,7 +471,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 20\. The house-door.
 
-21\. So that (he?) may not be exposed to looks (?). <span id="p122">[<sup><small>p. 122</small></sup>]</span>
+21\. So that (he?) may not be exposed to looks (?). <span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 22\. [^424] 'Let him avoid an A<i>s</i>vattha tree on the east-side (of his house), and a Plaksha on the south-side, a Nyagrodha on the west-side, and on the north-side an Udumbara.
 
@@ -485,7 +485,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 27\. [^427] Let him put wood on the fire in the middle of the house, and sacrifice a black cow,
 
-28\. Or a white goat, <span id="p123">[<sup><small>p. 123</small></sup>]</span>
+28\. Or a white goat, <span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 29\. (The one or the other) together with milk-rice.
 
@@ -511,7 +511,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 40\. In due order, without a transposition.
 
-41\. (He should offer a Bali) in the east with (the formula), ‘(Adoration) to Indra!’ in the intermediate direction—‘To Vâyu!’ in the south—‘To Yama!’ in the intermediate direction—‘(Svadhâ) to the Fathers!’ in the west—‘(Adoration) to Varu<i>n</i>a!’ in the intermediate direction—‘To Mahârâ<i>n</i>a!’ in the north—‘To Soma!’ in the intermediate direction—‘To Mahendra!’ downwards— <span id="p124">[<sup><small>p. 124</small></sup>]</span> ‘To Vâsuki!’ upwards, in the sky (i.e. throwing the Bali into the air), with (the formula), ‘Adoration to Brahman!’
+41\. (He should offer a Bali) in the east with (the formula), ‘(Adoration) to Indra!’ in the intermediate direction—‘To Vâyu!’ in the south—‘To Yama!’ in the intermediate direction—‘(Svadhâ) to the Fathers!’ in the west—‘(Adoration) to Varu<i>n</i>a!’ in the intermediate direction—‘To Mahârâ<i>n</i>a!’ in the north—‘To Soma!’ in the intermediate direction—‘To Mahendra!’ downwards— <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> ‘To Vâsuki!’ upwards, in the sky (i.e. throwing the Bali into the air), with (the formula), ‘Adoration to Brahman!’
 
 42\. To the east, upwards, and downwards this should be done constantly, day by day.
 
@@ -530,7 +530,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. [^432] (Walking?) towards the side, (he should offer a Bali) to the hosts of other beings, looking downwards.
 
-5\. [^433] Returning (to the fire) without looking back, he should, together with the persons belonging to his <span id="p125">[<sup><small>p. 125</small></sup>]</span> family, as far as they have been initiated (by the Upanayana), eat the fried grains.
+5\. [^433] Returning (to the fire) without looking back, he should, together with the persons belonging to his <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> family, as far as they have been initiated (by the Upanayana), eat the fried grains.
 
 6\. (This ceremony) procures happiness.
 
@@ -548,7 +548,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 13\. Now another ceremony (performed with the same verse).
 
-14\. Having gone out of the village in an easterly or in a northerly direction, he should at a place where four roads meet, or on a mountain, set an elevated surface, consisting of the dung of beasts of the forest, on fire, should sweep the coals away, and should make an oblation of butter (on that surface) with his mouth, repeating that Mantra in his mind. <span id="p126">[<sup><small>p. 126</small></sup>]</span>
+14\. Having gone out of the village in an easterly or in a northerly direction, he should at a place where four roads meet, or on a mountain, set an elevated surface, consisting of the dung of beasts of the forest, on fire, should sweep the coals away, and should make an oblation of butter (on that surface) with his mouth, repeating that Mantra in his mind. <span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 15\. If (that oblation of butter) catches fire, twelve villages (will be his).
 
@@ -576,7 +576,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 9.
 
@@ -596,7 +596,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. On a dangerous road let him make knots in the skirts of the garments (of himself and of his companions),
 
-9\. Approaching those (of the travellers) who wear garments (with skirts). <span id="p128">[<sup><small>p. 128</small></sup>]</span>
+9\. Approaching those (of the travellers) who wear garments (with skirts). <span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 10\. (Let him do so with the three formulas, MB. II, 6, 13-15) with the word Svâhâ at the end of each.
 
@@ -616,7 +616,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 18\. This will bring him luck.
 
-19\. (The verses), ‘Thy worm is killed by Atri’ (MB. II, 7, 1-4), he should murmur, besprinkling a place where he has a worm with water. <span id="p129">[<sup><small>p. 129</small></sup>]</span>
+19\. (The verses), ‘Thy worm is killed by Atri’ (MB. II, 7, 1-4), he should murmur, besprinkling a place where he has a worm with water. <span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 20\. If he intends to do this for cattle, he should fetch in the afternoon an earth-clod taken out of a furrow, and should put it down in the open air.
 
@@ -634,7 +634,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. Or when they perform it.
 
-5\. Let them announce three times (to the guest) separately (each of the following things which are <span id="p130">[<sup><small>p. 130</small></sup>]</span> brought to him): a bed (of grass to sit down on), water for washing the feet, the Argha water, water for sipping, and the Madhuparka (i.e. a mixture of ghee, curds, and honey).
+5\. Let them announce three times (to the guest) separately (each of the following things which are <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> brought to him): a bed (of grass to sit down on), water for washing the feet, the Argha water, water for sipping, and the Madhuparka (i.e. a mixture of ghee, curds, and honey).
 
 6\. Let him spread out the bed (of grass, so that the points of the grass are) turned to the north, with (the verse), ‘The herbs which’ (MB. II, 8, 3), and let him sit down thereon;
 
@@ -654,7 +654,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 14\. The Madhuparka he should accept with (the formula), 'The glory's glory art thou' (ibid. 11).
 
-15\. [^448] Let him drink (of it) three times with (the <span id="p131">[<sup><small>p. 131</small></sup>]</span> formula which he repeats thrice), 'The glory's food art thou; the might's food art thou; the bliss's food art thou; bestow bliss on me' (MB. II, 8, 12);
+15\. [^448] Let him drink (of it) three times with (the <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> formula which he repeats thrice), 'The glory's food art thou; the might's food art thou; the bliss's food art thou; bestow bliss on me' (MB. II, 8, 12);
 
 16\. [^449] Silently a fourth time.
 
@@ -670,7 +670,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 22\. (He should say), ‘Make it (ready),’ if it is a sacrifice.
 
-23\. There are six persons to whom the Arghya reception is due, (namely), <span id="p132">[<sup><small>p. 132</small></sup>]</span>
+23\. There are six persons to whom the Arghya reception is due, (namely), <span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 24\. [^452] A teacher, an officiating priest, a Snâtaka, a king, the father-in-law, a friend coming as a guest.
 

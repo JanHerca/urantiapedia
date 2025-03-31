@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:2:15Z
   </table>
 </figure>
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 ## PART IV. THE BOOKS OF SHANG. BOOK I. THE SPEECH OF THANG.
 
@@ -42,7 +42,7 @@ There were in the Shû, when the collection was formed, thirty-one documents of 
 
 He had summoned his people to take the field with him against Kieh, the cruel and doomed sovereign of Hsiâ, and finding them backward to the enterprise, he sets forth in this Book his reasons for attacking the tyrant, argues against their reluctance, using in the end both promises and threats to induce them to obey his orders.
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 The king said, 'Come, ye multitudes of the people., listen all to my words. It is not I, the little child [^95], who dare to undertake a rebellious enterprise; but for the many crimes of the sovereign of Hsiâ, Heaven has given the charge to destroy him.\*
 
@@ -50,7 +50,7 @@ The king said, 'Come, ye multitudes of the people., listen all to my words. It i
 
 ‘Now you are saying, “What are the crimes of Hsiâ to us?” The king of Hsiâ in every way exhausts the strength of his people, and exercises oppression in the cities of Hsiâ. His multitudes are become entirely indifferent (to his service), and feel no bond of union’(to him). They are saying, “When wilt thou, O sun, expire? We will all perish with thee [^96].” Such is the course of (the sovereign) of Hsiâ, and now I must go (and punish him).
 
-Assist, I pray you, me, the One man, to carry out the punishment appointed by Heaven. I will greatly reward you. On no account disbelieve me;—will not eat my words. If you do not obey the words which I have thus spoken to you, I will put <span id="p86">[<sup><small>p. 86</small></sup>]</span> your children to death with you;—you shall find no forgiveness.’
+Assist, I pray you, me, the One man, to carry out the punishment appointed by Heaven. I will greatly reward you. On no account disbelieve me;—will not eat my words. If you do not obey the words which I have thus spoken to you, I will put <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> your children to death with you;—you shall find no forgiveness.’
 
 
 

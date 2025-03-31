@@ -32,11 +32,11 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span> p. 146
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span> p. 146
 
 TALAVAKÂRA OR KENA-UPANISHAD.
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 ## FIRST KHA<i>N</i><i>D</i>A.
 
@@ -48,7 +48,7 @@ TALAVAKÂRA OR KENA-UPANISHAD.
 
 4\. 'It is different from the known, it is also above the unknown, thus we have heard from those of old, who taught us this [^366].
 
-5\. 'That which is not expressed by speech and <span id="p148">[<sup><small>p. 148</small></sup>]</span> by which speech is expressed, that alone know as Brahman, not that which people here adore.
+5\. 'That which is not expressed by speech and <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> by which speech is expressed, that alone know as Brahman, not that which people here adore.
 
 6\. 'That which does not think by mind, and by which, they say, mind is thought [^367], that alone know as Brahman, not that which people here adore.
 
@@ -62,7 +62,7 @@ TALAVAKÂRA OR KENA-UPANISHAD.
 
 1\. The Teacher says: ‘If thou thinkest I know it well, then thou knowest surely but little, what is that form of Brahman known, it may be, to thee [^368]?’
 
-2\. The Pupil says: 'I do not think I know it well, nor do I know that I do not know it. He <span id="p149">[<sup><small>p. 149</small></sup>]</span> among us who knows this, he knows it, nor does he know that he does not know it [^369].
+2\. The Pupil says: 'I do not think I know it well, nor do I know that I do not know it. He <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> among us who knows this, he knows it, nor does he know that he does not know it [^369].
 
 3\. 'He by whom it (Brahman) is not thought, by him it is thought; he by whom it is thought, knows it not. It is not understood by those who understand it, it is understood by those who do not understand it.
 
@@ -72,7 +72,7 @@ TALAVAKÂRA OR KENA-UPANISHAD.
 
 ## THIRD KHA<i>N</i><i>D</i>A [^370].
 
-1\. Brahman obtained the victory for the Devas. The Devas became elated by the victory of Brahman, <span id="p150">[<sup><small>p. 150</small></sup>]</span> and they thought, this victory is ours only, this greatness is ours only.
+1\. Brahman obtained the victory for the Devas. The Devas became elated by the victory of Brahman, <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> and they thought, this victory is ours only, this greatness is ours only.
 
 2\. Brahman perceived this and appeared to them. But they did not know it, and said: ‘What sprite (yaksha or yakshya) is this?’
 
@@ -94,7 +94,7 @@ TALAVAKÂRA OR KENA-UPANISHAD.
 
 11\. Then they said to Indra: ‘O Maghavan, find out what sprite this is.’ He went towards it, but it disappeared from before him.
 
-12\. Then in the same space (ether) he came <span id="p151">[<sup><small>p. 151</small></sup>]</span> towards a woman, highly adorned: it was Umâ, the daughter of Himavat [^371]. He said to her: ‘Who is that sprite?’
+12\. Then in the same space (ether) he came <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> towards a woman, highly adorned: it was Umâ, the daughter of Himavat [^371]. He said to her: ‘Who is that sprite?’
 
 ## FOURTH KHA<i>N</i><i>D</i>A.
 
@@ -104,13 +104,13 @@ TALAVAKÂRA OR KENA-UPANISHAD.
 
 3\. And therefore Indra is, as it were, above the other gods, for he touched it nearest, he first knew it.
 
-4\. This is the teaching of Brahman, with regard to the gods (mythological): It is that which now <span id="p152">[<sup><small>p. 152</small></sup>]</span> flashes forth in the lightning, and now vanishes again.
+4\. This is the teaching of Brahman, with regard to the gods (mythological): It is that which now <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> flashes forth in the lightning, and now vanishes again.
 
 5\. And this is the teaching of Brahman, with regard to the body (psychological): It is that which seems to move as mind, and by it imagination remembers again and again [^373].
 
 6\. That Brahman is called Tadvana [^374], by the name of Tadvana it is to be meditated on. All beings have a desire for him who knows this.
 
-7\. The Teacher: 'As you have asked me to tell you the Upanishad, the Upanishad has now <span id="p153">[<sup><small>p. 153</small></sup>]</span> been told you. We have told you the Brâhmî Upanishad.
+7\. The Teacher: 'As you have asked me to tell you the Upanishad, the Upanishad has now <span id="p153"><sup><small>[ p. 153 ]</small></sup></span> been told you. We have told you the Brâhmî Upanishad.
 
 8\. 'The feet on which that Upanishad stands are penance, restraint, sacrifice; the Vedas are all its limbs [^375], the True is its abode.
 

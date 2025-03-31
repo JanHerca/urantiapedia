@@ -40,7 +40,7 @@ See the preliminary note on [p. 433](Shih_King_Part4_3#p433).
 
 PROTEST OF A WIDOW AGAINST BEING URGED TO MARRY AGAIN, AND HER APPEAL TO HER MOTHER AND TO HEAVEN.
 
-THIS piece, it is said, was made by Kung <i>K</i>iang, the widow of Kung-po, son of the marquis Hsî of Wei (B.C. 855-814). Kung-po having died an early death, her parents (who must have been the marquis of <i>Kh</i>î and his wife or one of the ladies of his harem) wanted to force her to a second marriage, against which she protests. The ode was preserved, no doubt, as an example of <span id="p435">[<sup><small>p. 435</small></sup>]</span> what the Chinese have always considered a great virtue,—the refusal of a, widow to marry again.
+THIS piece, it is said, was made by Kung <i>K</i>iang, the widow of Kung-po, son of the marquis Hsî of Wei (B.C. 855-814). Kung-po having died an early death, her parents (who must have been the marquis of <i>Kh</i>î and his wife or one of the ladies of his harem) wanted to force her to a second marriage, against which she protests. The ode was preserved, no doubt, as an example of <span id="p435"><sup><small>[ p. 435 ]</small></sup></span> what the Chinese have always considered a great virtue,—the refusal of a, widow to marry again.
 
 It floats about, that boat of cypress wood, There in the middle of the Ho [^600]. With his two tufts of hair falling over his forehead [^601], He was my mate; And I swear that till death I will have no other. O mother, O Heavens [^602], Why will you not understand me?
 
@@ -54,7 +54,7 @@ CONTRAST BETWEEN THE BEAUTY AND SPLENDOUR OF HSÜAN <i>K</i>IANG AND HER VICIOUS
 
 Hsüan <i>K</i>iang was a princess of <i>Kh</i>î, who, towards the close of the seventh century B.C., became wife to the marquis of Wei, known as duke Hsüan. She was beautiful and unfortunate, but various things are related of her indicative of the grossest immoralities prevailing in the court of Wei.
 
-How rich and splendid Is her pheasant-figured <span id="p436">[<sup><small>p. 436</small></sup>]</span> robe [^603]! Her black hair in masses like clouds, No false locks does she descend to. There are her earplugs of jade, Her comb-pin of ivory, And her high forehead, so white. She appears like a visitant from heaven! She appears like a goddess [^604].
+How rich and splendid Is her pheasant-figured <span id="p436"><sup><small>[ p. 436 ]</small></sup></span> robe [^603]! Her black hair in masses like clouds, No false locks does she descend to. There are her earplugs of jade, Her comb-pin of ivory, And her high forehead, so white. She appears like a visitant from heaven! She appears like a goddess [^604].
 
 <a id="o6"></a>
 
@@ -64,7 +64,7 @@ CELEBRATING THE PRAISE OF DUKE WĂN;—HIS DILIGENCE, FORESIGHT, USE OF DIVINATI
 
 The state of Wei was reduced to extremity by an irruption of some northern hordes in B.C. 660, and had nearly disappeared from among the states of <i>K</i>âu. Under the marquis Wei, known in history as duke Wăn, its fortunes revived, and he became a sort of second founder of the state.
 
-When Ting culminated (at night-fall) [^605] He began to build the palace at <i>Kh</i>û [^606], Determining} <span id="p437">[<sup><small>p. 437</small></sup>]</span> its aspects by means of the sun. He built the palace at Khû. He planted about it hazel and chesnut trees, The Î, the Thung, the Ȝze, and the varnish tree. Which, when cut down, might afford materials for lutes.
+When Ting culminated (at night-fall) [^605] He began to build the palace at <i>Kh</i>û [^606], Determining} <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> its aspects by means of the sun. He built the palace at Khû. He planted about it hazel and chesnut trees, The Î, the Thung, the Ȝze, and the varnish tree. Which, when cut down, might afford materials for lutes.
 
 He ascended those old walls, And thence surveyed (the site of) <i>Kh</i>û. He surveyed <i>Kh</i>û and Thang [^607], With the lofty hills and high elevations about. He descended and examined the mulberry trees. He then divined by the tortoise-shell, and got a favourable response [^608]; And thus the issue has been truly good.
 

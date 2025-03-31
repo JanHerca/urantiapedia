@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 ## IV. TREATISE KILAIM
 
@@ -52,7 +52,7 @@ CONTAINS LAWS DERIVED FROM, AND ENFORCING THE DIVINE COMMANDS.—(Levit. xix. 19
 
 § 4. Among the \[fruits of\] trees, pears and crustumina [^39] are not kilaim; nor are quinces and medlars. The apple and crab apple, apricots and almonds, plums and pistachios, although similar \[in flavour\] are, nevertheless, kilaim.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 § 5. Radishes and rape, mustard and lapsano, [^40] Greek and Egyptian pumpkins \[together\] and bitter pumpkins, although similar, are, nevertheless, kilaim.
 

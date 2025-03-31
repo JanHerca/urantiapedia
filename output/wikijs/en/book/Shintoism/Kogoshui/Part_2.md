@@ -33,11 +33,11 @@ dateCreated: 2025-2-12T12:5:15Z
 </figure>
 
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ## A SCROLL OF GLEANINGS FROM ANCIENT STORIES TOGETHER WITH A PREFACE BY IMBE-NO-SUKUNE-HIRONARI, LOWER GRADE OF THE JUNIOR FIFTH COURT RANK
 
@@ -59,7 +59,7 @@ When all was finished, they were to bring a fine sacred Sakaki tree with five hu
 
 Ame-no-Uzume-no-Mikoto (“uzume” siginfies a strong, brave woman, and therefore such a woman is still called “osushi,” which is identical in meaning with “uzume” and differs only in pronunciation) was then to arrange a wreath of spindle-tree and throw a scarf made of club moss around her shoulders, and, holding bamboo grass and leaves from the “oke” tree<a id="fr_20"></a>[20](Part_3#note_20) in one hand and a spear adorned with tinkling bells in the other, was to perform skilfully in company with the other gods an inspired religious dance, _placing a tub bottom upwards_<a id="fr_21"></a>[21](Part_3#note_21) (signifying an oath) and kindling sacred bonfires, before the Heavenly Rock-Cave.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Thus doing, as Omoikane-no-Kami had suggested, they first tried to construct a mirror, as an image of the Sun-Goddess; but as the first mirror made by Ishikoritome-no-Kami was slightly defective and therefore unfit for use (this Mirror is the Deity at Hinokuma in Ki-I Province), a second was moulded which was ideally beautiful (this Mirror is the Deity of the Ise Shrine). When all this was completed, Futotama-no-Mikoto prayerfully recired a liturgy full of eulogizing words:—
 
@@ -81,7 +81,7 @@ The Sun-Goddess coming forth from the Rock-Cave now illumined the sky and conseq
 
 Then the two Gods Ame-no-Koyane-no-Mikoto and Futotama-no-Mikoto respectfully besought the Sun-Goddess never more to hide her face.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 As a punishment for bringing about this catastrophe the Gods inflicted on Susano-O-no-Kami a heavy expiatory fine—the hair of his head, and his finger and toe nails being also cut off for his offence; and thus satisfied, they banished that evil God Susano-O from Heaven. Susano-O-no-Kami then descended to the banks of the River Hi in Izumo Province, where with his heavenly ten-span sword (the sword, otherwise called Ame-no-Hahakiri, is now preserved at the Isonokami Shrine—the archaic Japanese word for “serpent” is “haha”, so that the Ame-no-Hahakiri Sword signifies the weapon by which the monster serpent was slain), he slew a serpent with an eight-forked head and tail, in whose tail was concealed the divine sword “Ame-no-Murakumo-no-Tsurugi” or the “Heavenly Sword of Assembled Clouds” (So named, because above the monster serpent there always hung a mass of miraculous clouds. The Imperial Prince Yamatotakeru-no-Mikoto on his expedition in the eastern provinces, thanks to the miraculous virtue of this same divine sword, narrowly escaped falling a victim to the enemy’s treacherous strategy by mowing away the grass of the wilderness of Sagami Province. From that time on, owing to the Prince’s providential escape from danger, the sword “Ame-no-Murakumo” was re-named “Kusanagi-no-Tsurugi,” signifying “Herb-quelling or Grass-mowing Sword”). Susano-O-no-Kami presented the Heavenly Gods with this sword.
 
@@ -159,13 +159,13 @@ Hiza-to-o-shi
 Yuki-no-yoroshi-mo
 O-o-yo-sogoro-mo_”).
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 In the 6th year of his reign, the same Emperor having worshipped the Eighty Myriads of Gods, the shrines in honour of the Gods of Heaven and Earth were erected, and land and houses alloted for the Divine service.<a id="fr_76"></a>[76](Part_3#note_76) It was in the reign of this Emperor that regular taxes were for the first time imposed upon men and women. Men were to pay them by presenting the produce of the hunting of wild animals in the mountains and fields, whilst women were to pay by means of their home handicraft. Established once for all as a State Institution, this ordinance has never been abrogated, and we Japanese still bring to the shrines the skins of bears and deer, stags’ horns, and cloth as offerings, when worshipping the gods.
 
 In the days of the Emperor (Suinin) reigning at the Tamaki Palace in Makimuku<a id="fr_77"></a>[77](Part_3#note_77) His Majesty appointed Yamato-Hime-no-Mikoto (who was his second daughter by his consort Saho-Hime<a id="fr_78"></a>[78](Part_3#note_78)) to be the Imperial Guardian Priestess sacred to Amaterasu-Ō-Mikami, and in obedience to a divine revelation she erected a shrine to that Goddess beside the River Isuzu in Ise Province, and an Abstinence Palace<a id="fr_79"></a>[79](Part_3#note_79) was attached thereto in which consecrated abode the Imperial priestess as consecrated Abbess dwelt. As these matters were previously ordained by Amaterasu-Ō-Mikami and Chimata-no-Kami in Heaven, they were now actually carried out on earth. Chimata-no-Kami had already settled in Ise long before this Emperor dedicated the Shrine of Isuzu to Amaterasu-Ō-Mikami.
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 It was in the same Emperor’s reign that bows, arrows and swords were first offered as votive gifts to the Gods, and land and houses again appointed to the divine service.
 
@@ -179,7 +179,7 @@ In the days of the Empress (Jingō) who was reigning at the Wakasakura<a id="fr_
 
 During the reign of the Emperor (Ōjin) at the Toyoakira Palace in Karushima,<a id="fr_86"></a>[86](Part_3#note_86) the King<a id="fr_87"></a>[87](Part_3#note_87) of Kudara \[Pèkché\] sent as tribute to the Imperial Court a learned man named Wani \[Wang-In\], who founded the Fumi family of Obito rank dwelling in Kōchi. Yutsuki,<a id="fr_88"></a>[88](Part_3#note_88) ancestor of the Hata family of Kimi rank, was also naturalized in Japan, with a number of people under him who were living in his one hundred and twenty estates in Korea. Achi-no-Omi, ancestor of the Aya family of Atae rank, arrived in Japan and offered allegiance to the Emperor, bringing with him to the Empire the numerous inhabitants of his seventeen estates in Korea. The Hata<a id="fr_89"></a>[89](Part_3#note_89) \[Shin or Chin\] and Aya \[Kan or Han\] immigrants, and those from Kudara, became naturalized in this country. Each of these groups of people was numbered by tens of thousands, nevertheless, it is most deeply to be regretted that their services to Japan have, so far, not been publicly recognized; and, still further, that the homage due to the divine spirits of their respective ancestors is not yet paid with due religious ceremonies under the auspices of the Imperial Government, although their respective shrines were privately erected for worship by their own descendants.
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 In the reign of the Emperor (Richū) who dwelt at the Nochi-no-Iware-Wakasakura<a id="fr_90"></a>[90](Part_3#note_90) Palace in Iware, an Imperial Household Treasury beside the Sacred Treasury<a id="fr_91"></a>[91](Part_3#note_91) which had hitherto been used for both Deity and Sovereign was erected to lodge, the Imperial Household property, because ever since the Empress Jingō’s conquest, Korea had continued to pay tribute to Japan, and, consequently in the course of years our national wealth had greatly increased. Achi-no-Omi<a id="fr_92"></a>[92](Part_3#note_92) and the learned sage Wani of Kudara \[Pèkché\] were therefore appointed recording officers in charge of the Treasury accounts, and then for the first time the institution of an hereditary corporation attached to the Treasuries was established.
 
@@ -201,7 +201,7 @@ Third, of old, Amaterasu-Ō-Mikami, symbolized by the Sacred Mirror, remained in
 
 Fourth, ever since the Divine Age it had been the sacred prerogative of the Imbe family to be entrusted with the offical work of constructing Shintō shrines: thus the official head of the Imbe family, with his kinsfolk of the Miki and Araka Districts,<a id="fr_123"></a>[123](Part_3#note_123) began the work by cutting down forest trees with consecrated axes, turning the sod with consecrated mattocks, and finished the entire structure with the aid of craftsmen. When completed, the shrines and their gates were consecrated by the Imbe family with the prescribed ceremonial rites of Shintō,<a id="fr_124"></a>[124](Part_3#note_124) and thus became actually fit for divine abodes. In violation of these dear old Shintō customs and usages, the services of the Imbe family are today wholly dispensed with, whether for re-building the Ise Shrine or erecting the sacrcd tabernacles<a id="fr_125"></a>[125](Part_3#note_125) or pavilions for the Great Harvest Festival<a id="fr_126"></a>[126](Part_3#note_126) at the enthronement of a new Emperor. Is this not a gross injustice to the time-honoured privilege of the Imbe family?
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Fifth, the Ōtonohogai or Shintō Ceremony for Blessing the Great Palace and the Religious Service for the Guardian Gods of the Imperial Gates were both originally entrusted to Futotama-no-Mikoto,<a id="fr_127"></a>[127](Part_3#note_127) so it is beyond dispute that the Imbe family alone should enjoy the time-honoured hierarchic privilege in both cases of Shintō worship, while, as the Nakatomi and the Imbe, who are the officially commissioned priests of the Shintō Bureau, used to attend to the Shintō rites and ceremonies conjointly, an officer of the Imperial Household Department was accustomed to report himself in the following words: “Both Nakatomi and Imbe are present at the August Gates in order that they may solemnize the Shintō Ceremony for Blessing the Great Palace.” In the Hōki<a id="fr_128"></a>[128](Part_3#note_128) Era, however, it was Nakatomi-no-Asomi-Tsune of the Lower Grade of the Junior Fifth Court Rank<a id="fr_129"></a>[129](Part_3#note_129) and the Third Rank of the Imperial Household Department that arbitrarily changed the words in the report to the Emperor, saying: “Nakatomi with Imbe<a id="fr_130"></a>[130](Part_3#note_130) _under him_ is now at the August Gates.” In this way the Imbe, once placed in a position inferior to that of the Nakatomi, have, owing to the procrastination and negligence of the officals of the Imperial Household Department, never been restored to their former rightful place all this time. This is a thing that I feel keenly regrettable.
 
@@ -252,13 +252,13 @@ On the 13th day of the 2nd Month in the 2nd Year of Daidō.<a id="fr_154"></a>[1
 
 ## Footnotes
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 <a id="p16_note_*"></a>
 
 [\*](#p16_fr_*) The numbers refer to the notes of Part III.
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 <a id="p17_note_*"></a>
 

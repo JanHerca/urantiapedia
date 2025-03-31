@@ -62,7 +62,7 @@ A notable example of this natural and simple style is Jáḥiz whose diction Ham
 
 With such assiduity was the art of official writing cultivated, so great was the importance attached to it and so highly did it come to be appreciated, that the Kátib, or secretary, not infrequently rose to the highest position in the state, that of Wazír, or chief minister. Tha‘álibí throws considerable light upon the rise and development of this official correspondence. He says that epistolary writing began with ‘Abd al-Ḥamíd (ob. A.H. 133), Kátib, or secretary, to Marwán the last of the Omayyad Khalífas, and ended with Ibn al-Amíd (ob. A.H. 359 or 360), the Wazír of Rukn al-Daula, the Buwayhid prince. [^58]
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 In this striving after an ornate and elevated style the adoption of a species of composition, that had raised pulpit oratory above the language of every-day life, seems to be a natural result, and thus rhymed prose became the essential feature not only of official writing, but also of the private correspondence of the learned and the cultured.
 

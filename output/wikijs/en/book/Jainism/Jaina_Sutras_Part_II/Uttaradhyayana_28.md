@@ -42,7 +42,7 @@ Right knowledge, faith, conduct, and austerities; beings who follow this road, w
 
 I. Knowledge is fivefold: 1. <i>S</i>ruta, knowledge derived from the sacred books; 2. Âbhinibôdhika, perception [^395]; 3. Avadhi, supernatural knowledge; 4. Mana<i>h</i>paryâya [^396], knowledge of the thoughts of other people; 5. Kêvala, the highest, unlimited knowledge. (4)
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 This is the fivefold knowledge. The wise ones have taught the knowledge of substances, qualities, and all developments [^397]. (5)
 
@@ -58,7 +58,7 @@ The characteristic of time is duration [^401], that of soul the realisation [^40
 
 The characteristic of Soul is knowledge, faith, conduct, austerities, energy, and realisation (of its developments). (11)
 
-The characteristic of matter is sound, darkness, <span id="p154">[<sup><small>p. 154</small></sup>]</span> lustre (of jewels, &c.), light, shade, sunshine; colour, taste, smell, and touch. (12)
+The characteristic of matter is sound, darkness, <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> lustre (of jewels, &c.), light, shade, sunshine; colour, taste, smell, and touch. (12)
 
 The characteristic of development is singleness, separateness [^403], number, form, conjunction, and disjunction. (13)
 
@@ -70,7 +70,7 @@ II. Faith is produced by 1. nisarga, nature; 2. upadê<i>s</i>a, instruction; 3.
 
 1\. He who truly comprehends, by a spontaneous effort of his mind [^404], (the nature of) soul, inanimate things, merit, and demerit, and who puts an end to sinful influences [^405], (believes by) nature. (17)
 
-He who spontaneously believes the four truths (explicitly mentioned in the last verse), which the <span id="p155">[<sup><small>p. 155</small></sup>]</span> <i>G</i>inas have taught, (thinking) they are of this and not of a different nature, believes by nature. (18)
+He who spontaneously believes the four truths (explicitly mentioned in the last verse), which the <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> <i>G</i>inas have taught, (thinking) they are of this and not of a different nature, believes by nature. (18)
 
 2\. But he who believes these truths, having learned them from somebody else, either a <i>Kh</i>admastha [^406] or a <i>G</i>ina, believes by instruction. (19)
 
@@ -84,7 +84,7 @@ He who spontaneously believes the four truths (explicitly mentioned in the last 
 
 7\. He who understands the true nature of all substances by means of all proofs (pramâ<i>n</i>a) and nayas [^409], believes by a complete course of study. (24)
 
-8\. He who sincerely performs (all duties implied) <span id="p156">[<sup><small>p. 156</small></sup>]</span> by right knowledge, faith, and conduct, by asceticism and discipline, and by all Samitis and Guptis, believes by religious exercise. (25)
+8\. He who sincerely performs (all duties implied) <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> by right knowledge, faith, and conduct, by asceticism and discipline, and by all Samitis and Guptis, believes by religious exercise. (25)
 
 9\. He who though not versed in the sacred doctrines [^410] nor acquainted with other systems [^411], holds no wrong doctrines, believes by brief exposition. (26)
 
@@ -96,7 +96,7 @@ There is no (right) conduct without right belief [^415], and it must be cultivat
 
 Without (right) faith there is no (right) knowledge, without (right) knowledge there is no virtuous conduct [^416], without virtues there is no deliverance [^417], and without deliverance there is no perfection. (30)
 
-(The excellence of faith depends on the following) eight points: 1. that one has no doubts (about the truth of the tenets); 2. that one has no preference (for heterodox tenets); 3. that one does not doubt <span id="p157">[<sup><small>p. 157</small></sup>]</span> its saving qualities [^418]; 4. that one is not shaken in the right belief (because heretical sects are more prosperous); 5. that one praises (the pious); 6. that one encourages (weak brethren); 7. that one supports or loves the confessors of the Law; 8. that one endeavours to exalt it. (31)
+(The excellence of faith depends on the following) eight points: 1. that one has no doubts (about the truth of the tenets); 2. that one has no preference (for heterodox tenets); 3. that one does not doubt <span id="p157"><sup><small>[ p. 157 ]</small></sup></span> its saving qualities [^418]; 4. that one is not shaken in the right belief (because heretical sects are more prosperous); 5. that one praises (the pious); 6. that one encourages (weak brethren); 7. that one supports or loves the confessors of the Law; 8. that one endeavours to exalt it. (31)
 
 III. Conduct, which produces the destruction of all Karman, is 1. sâmâyika [^419], the avoidance of everything sinful; 2. <i>kh</i>êdôpasthâpana, the initiation of a novice; 3. parihâravi<i>s</i>uddhika, purity produced by peculiar austerities [^420]; 4. sûkshma samparâya, reduction of desire; 5. akashâya yathâkhyâta, annihilation of sinfulness according to the precepts of the Arhats, as well in the case of a <i>Kh</i>admastha as of a <i>G</i>ina. (32, 33)
 

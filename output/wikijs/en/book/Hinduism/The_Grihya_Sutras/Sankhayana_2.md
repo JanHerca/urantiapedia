@@ -33,13 +33,13 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ## ADHYÂYA II, KHA<i>ND</i>A 1.
 
 1\. [^119]. In the eighth year after the conception let him initiate a Brâhma<i>n</i>a,
 
-2\. With an antelope-skin, <span id="p59">[<sup><small>p. 59</small></sup>]</span>
+2\. With an antelope-skin, <span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 3\. Or in the tenth year after the conception.
 
@@ -53,7 +53,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 8\. Until the twenty-fourth for a Vai<i>s</i>ya.
 
-9\. [^120]. After that (time has passed), they become patitasâvitrîka (men who have lost their right of learning the Sâvitrî). <span id="p60">[<sup><small>p. 60</small></sup>]</span>
+9\. [^120]. After that (time has passed), they become patitasâvitrîka (men who have lost their right of learning the Sâvitrî). <span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 10\. Let them not initiate such men,
 
@@ -87,7 +87,7 @@ And wearing a girdle.
 
 24\. Or all (sorts of staffs are to be used) by (men of) all (castes).
 
-25\. Whatsoever (the student) wears at his initiation, is at the disposal of the teacher. <span id="p61">[<sup><small>p. 61</small></sup>]</span>
+25\. Whatsoever (the student) wears at his initiation, is at the disposal of the teacher. <span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 26 [^123]. Having had him shaved all round (his head) he should initiate him.
 
@@ -101,7 +101,7 @@ And wearing a girdle.
 
 ## KHA<i>ND</i>A 2.
 
-1\. ‘Here has come to us, protecting (us) from evil words, purifying our kin as a purifier, clothing herself, by (the power of) inhalation and exhalation, with strength, this friendly goddess, this blessed girdle’—with these words, three times repeated, he ties the girdle from left to right thrice round. <span id="p62">[<sup><small>p. 62</small></sup>]</span>
+1\. ‘Here has come to us, protecting (us) from evil words, purifying our kin as a purifier, clothing herself, by (the power of) inhalation and exhalation, with strength, this friendly goddess, this blessed girdle’—with these words, three times repeated, he ties the girdle from left to right thrice round. <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 2 [^126]. (There should be) one knot, or also three, or also five.
 
@@ -113,7 +113,7 @@ And wearing a girdle.
 
 6\. [^129]. ‘Descending from the same <i>Ri</i>shis?’ says the teacher.
 
-7\. ‘Descending from the same <i>Ri</i>shis, sir,’ says the other. <span id="p63">[<sup><small>p. 63</small></sup>]</span>
+7\. ‘Descending from the same <i>Ri</i>shis, sir,’ says the other. <span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 8\. ‘Declare (that thou art) a student, sir.’
 
@@ -133,7 +133,7 @@ And wearing a girdle.
 
 
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 3.
 
@@ -141,7 +141,7 @@ And wearing a girdle.
 
 2\. [^132]. 'In Indra's course I move; in the sun's course I move after him'—with these words he turns round from left to right,
 
-3\. And grasping down with the span of his right hand over (the student's) right shoulder he touches the place of his heart with the words, ‘May I be dear to thy inviolate heart.’ <span id="p65">[<sup><small>p. 65</small></sup>]</span>
+3\. And grasping down with the span of his right hand over (the student's) right shoulder he touches the place of his heart with the words, ‘May I be dear to thy inviolate heart.’ <span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 4\. Having silently turned round from right to left,
 
@@ -155,7 +155,7 @@ And wearing a girdle.
 
 3\. [^136]. With the same text (see chap. 3, 2) he turns round as before,
 
-4\. And touching with the span of his right hand (the student's) right shoulder, he murmurs: <span id="p66">[<sup><small>p. 66</small></sup>]</span>
+4\. And touching with the span of his right hand (the student's) right shoulder, he murmurs: <span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 5 [^137]. ‘A student art thou. Put on fuel. Eat water. Do the service. Do not sleep in the day-time. Keep silence till the putting on of fuel.’
 
@@ -180,7 +180,7 @@ And wearing a girdle.
 
 8\. They seat themselves to the north of the fire,
 
-9\. [^140]. The teacher with his face turned eastward, the other westward. <span id="p67">[<sup><small>p. 67</small></sup>]</span>
+9\. [^140]. The teacher with his face turned eastward, the other westward. <span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 10 [^141]. After (the student) has said, ‘Recite, sir!’—
 
@@ -193,7 +193,7 @@ And wearing a girdle.
 
 1\. [^142]. ‘Waters are ye by name; happy ones are ye by name; sappy ones are ye by name; undecaying ones are ye by name; fearless ones are ye by name; immortal ones are ye by name. Of you, being such, may I partake; receive me into your favour’—with these words (the teacher) makes the student sip water three times,
 
-2\. [^143]. And hands over to him the staff with the five <span id="p68">[<sup><small>p. 68</small></sup>]</span> verses, ‘Blessing may give us’ (Rig-veda V, 51, 11-15).
+2\. [^143]. And hands over to him the staff with the five <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> verses, ‘Blessing may give us’ (Rig-veda V, 51, 11-15).
 
 3\. [^144]. An optional gift is the fee for the sacrifice.
 
@@ -210,7 +210,7 @@ And wearing a girdle.
 
 
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 7.
 
@@ -226,7 +226,7 @@ And wearing a girdle.
 
 6\. [^150]. And has grasped round (those Ku<i>s</i>a shoots) in 'heir middle with his hands, holding the right uppermost,
 
-7\. The teacher, having seized them at their tops <span id="p70">[<sup><small>p. 70</small></sup>]</span> with his left hand, and with his right hand sprinkling them with water, then makes the other say:
+7\. The teacher, having seized them at their tops <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> with his left hand, and with his right hand sprinkling them with water, then makes the other say:
 
 8\. [^151]. ‘Recite the Sâvitrî, sir!’ says the other.
 
@@ -262,11 +262,11 @@ I recite the <i>Ri</i>shis to thee!' says the teacher.
 
 17\. [^153]. ‘Recite faith and insight, sir!’ says the other.
 
-‘I recite faith and insight to thee!’ says the teacher. <span id="p71">[<sup><small>p. 71</small></sup>]</span>
+‘I recite faith and insight to thee!’ says the teacher. <span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 18 [^154]. In that way, according to what <i>Ri</i>shi each hymn belongs to and what its deity and its metre is, thus (with the corresponding indications of <i>Ri</i>shi, &c.) let him recite each hymn;
 
-19\. [^155]. Or also, if he does not know the <i>Ri</i>shis, deities, and metres, the teacher recites this verse, ‘That glorious (splendour) of Savitar’ (Rig-veda III, 62, 10), pâda by pâda, hemistich by hemistich, (and finally) without a stop, and says, when he has finished, ‘This (verse belongs to Savitar; it is a Gâyatrî; Vi<i>s</i>vâmitra is its <i>Ri</i>shi).’ <span id="p72">[<sup><small>p. 72</small></sup>]</span>
+19\. [^155]. Or also, if he does not know the <i>Ri</i>shis, deities, and metres, the teacher recites this verse, ‘That glorious (splendour) of Savitar’ (Rig-veda III, 62, 10), pâda by pâda, hemistich by hemistich, (and finally) without a stop, and says, when he has finished, ‘This (verse belongs to Savitar; it is a Gâyatrî; Vi<i>s</i>vâmitra is its <i>Ri</i>shi).’ <span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 20\. Let him thus recite (the hymns belonging to) each <i>Ri</i>shi, or (each) Anuvâka;
 
@@ -282,7 +282,7 @@ I recite the <i>Ri</i>shis to thee!' says the teacher.
 
 26\. The teacher may optionally say at the beginning of the hymn, ‘This is the commencement.’
 
-27\. [^158]. This has been (further) explained in (the treatise about) the <i>Ri</i>shisvâdhyâya. <span id="p73">[<sup><small>p. 73</small></sup>]</span>
+27\. [^158]. This has been (further) explained in (the treatise about) the <i>Ri</i>shisvâdhyâya. <span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 28 [^159]. When (the lesson) is finished, he takes the young Ku<i>s</i>a shoots, makes of cow-dung a pit at their roots, and sprinkles water on the Ku<i>s</i>a (shoots) for each hymn.
 
@@ -291,7 +291,7 @@ I recite the <i>Ri</i>shis to thee!' says the teacher.
 
 ## KHA<i>ND</i>A 8.
 
-1\. [^161]. In the afternoon, having obtained by begging fried barley grains, he shall sacrifice them with his hand on the fire according to the rites of the Â<i>g</i>ya oblations with the text, ‘The lord of the seat, the <span id="p74">[<sup><small>p. 74</small></sup>]</span> wonderful’ (Rig-veda I, 18, 6 seq.), verse by verse, down to the end of the hymn,
+1\. [^161]. In the afternoon, having obtained by begging fried barley grains, he shall sacrifice them with his hand on the fire according to the rites of the Â<i>g</i>ya oblations with the text, ‘The lord of the seat, the <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> wonderful’ (Rig-veda I, 18, 6 seq.), verse by verse, down to the end of the hymn,
 
 2\. [^162]. Causing the teacher by (the gift of) food to pronounce auspicious wishes.
 
@@ -308,7 +308,7 @@ I recite the <i>Ri</i>shis to thee!' says the teacher.
 
 
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 10.
 
@@ -322,7 +322,7 @@ I recite the <i>Ri</i>shis to thee!' says the teacher.
 
 ‘Being inflamed make me prosperous in offspring and wealth. Svâhâ!
 
-Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we grow and gain vigour. Svâhâ!' <span id="p76">[<sup><small>p. 76</small></sup>]</span>
+Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we grow and gain vigour. Svâhâ!' <span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 5\. Having then sprinkled (water) round (the fire),
 
@@ -338,7 +338,7 @@ Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we gr
 
 2\. [^169]. The rules for it have been explained by the initiation.
 
-3\. He does not recite the Sâvitrî. <span id="p77">[<sup><small>p. 77</small></sup>]</span>
+3\. He does not recite the Sâvitrî. <span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 4 [^170]. Some say that the handing over of the staff forms the end (of this ceremony).
 
@@ -358,14 +358,14 @@ Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we gr
 
 12\. (So also) the Vrâtika and Aupanishada (observances).
 
-13\. [^175]. When the time has elapsed, when the duties <span id="p78">[<sup><small>p. 78</small></sup>]</span> have been observed, when the Veda has been studied down to the _S<i>a</i>m_yu-Bârhaspatya-(hymn), let (the teacher then), should he intend to instruct (the student) in the secret (part of the Veda), ascertain the time (through which the student has to observe the special rites) and the rules to be observed, from the (special) directions (that are handed down on this subject).
+13\. [^175]. When the time has elapsed, when the duties <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> have been observed, when the Veda has been studied down to the _S<i>a</i>m_yu-Bârhaspatya-(hymn), let (the teacher then), should he intend to instruct (the student) in the secret (part of the Veda), ascertain the time (through which the student has to observe the special rites) and the rules to be observed, from the (special) directions (that are handed down on this subject).
 
 
 ## KHA<i>ND</i>A 12.
 
-1\. [^176]. After (the student) has eaten something in the morning, in the afternoon, to the north-east— <span id="p79">[<sup><small>p. 79</small></sup>]</span>
+1\. [^176]. After (the student) has eaten something in the morning, in the afternoon, to the north-east— <span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
-2\. Having sacrificed, the teacher then asks him with regard to those deities to whom he has been given in charge (see above, chap. 3, 1), ‘Hast thou fulfilled the duties of holiness before Agni, Indra, the Sun, and the Vi<i>s</i>ve devâs?’ <span id="p80">[<sup><small>p. 80</small></sup>]</span>
+2\. Having sacrificed, the teacher then asks him with regard to those deities to whom he has been given in charge (see above, chap. 3, 1), ‘Hast thou fulfilled the duties of holiness before Agni, Indra, the Sun, and the Vi<i>s</i>ve devâs?’ <span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 3\. If he answers, ‘I have fulfilled them, sir!’—
 
@@ -373,7 +373,7 @@ Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we gr
 
 5\. [^177]. He turns the skirt (of that garment) upwards so that it cannot slip down,
 
-6\. [^178]. (And says) 'Leaving off for three days the putting on of fuel, the going for alms, the sleeping on the ground, and the obedience to the teacher, fast in the forest, in a god's house or in a place where Agnihotra is performed, keeping silence, with earnest care.' <span id="p81">[<sup><small>p. 81</small></sup>]</span>
+6\. [^178]. (And says) 'Leaving off for three days the putting on of fuel, the going for alms, the sleeping on the ground, and the obedience to the teacher, fast in the forest, in a god's house or in a place where Agnihotra is performed, keeping silence, with earnest care.' <span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 7\. Here some (teachers) prescribe the same observances only for one night, during which he is to stand.
 
@@ -381,7 +381,7 @@ Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we gr
 
 9\. When those three days or that night has elapsed, going out from the village he shall avoid to look at the following (persons or things) that form impediments for the study (of the Veda):
 
-10\. [^180]. Raw flesh, a _K<i>a</i>n_<i>a</i>âla, a woman that has lately been confined, or that has her courses, blood, persons whose hands have been cut off, cemeteries, and all sorts of corpse-like (animals?) which enter (their dens?) with the mouth first (?), keeping them away from the place where he dwells. <span id="p82">[<sup><small>p. 82</small></sup>]</span>
+10\. [^180]. Raw flesh, a _K<i>a</i>n_<i>a</i>âla, a woman that has lately been confined, or that has her courses, blood, persons whose hands have been cut off, cemeteries, and all sorts of corpse-like (animals?) which enter (their dens?) with the mouth first (?), keeping them away from the place where he dwells. <span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 11\. Going out (from the village) in a north-eastern direction the teacher sits down on a clean spot. turning his face to the east.
 
@@ -393,7 +393,7 @@ Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we gr
 
 15\. He gives (to the teacher) the turban, a vessel, a good cow.
 
-16\. (The teacher accepts the gifts) with the verses, <span id="p83">[<sup><small>p. 83</small></sup>]</span> ‘Thou him’ (Rig-veda I, 18, 5), and, ‘High in the sky’ (Rig-veda X, 107, 2), or (he accepts them) all with the Pra<i>n</i>ava (i.e. the syllable Om).
+16\. (The teacher accepts the gifts) with the verses, <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> ‘Thou him’ (Rig-veda I, 18, 5), and, ‘High in the sky’ (Rig-veda X, 107, 2), or (he accepts them) all with the Pra<i>n</i>ava (i.e. the syllable Om).
 
 17\. Here some prepare a mess of rice for the Vi<i>s</i>ve devâs at all sections (of the Âra<i>s</i>yaka);
 
@@ -417,7 +417,7 @@ Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we gr
 
 6\. And he ties the sacrificial cord to the staff.
 
-7\. Here it is said also: <span id="p84">[<sup><small>p. 84</small></sup>]</span>
+7\. Here it is said also: <span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 8 [^185]. 'Let him sacrifice the sacrificial cord and the staff, the girdle and also the skin in water after the completion of his vow with a Varu<i>n</i>a-verse or with the essence (of the Vedas, i.e. the syllable Om).
 
@@ -429,7 +429,7 @@ Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we gr
 
 3\. Let him pour oblations of prepared Vai<i>s</i>vadeva food in the evening and in the morning into the (sacred) domestic fire.
 
-4\. ‘To Agni svâhâ! To Soma svâhâ! To Indra and Agni svâhâ! To Vish<i>n</i>u svâhâ! To Bharadvâ<i>n</i>a Dhanvantari svâhâ! To the Vi<i>n</i>ve devâs svâhâ! To Pra<i>n</i>âpati svâhâ! To Aditi svâhâ! To Anumati svâhâ! To Agni Svish<i>n</i>ak<i>n</i>t <span id="p85">[<sup><small>p. 85</small></sup>]</span> svâhâ!’—having thus offered the oblations belonging to those deities,
+4\. ‘To Agni svâhâ! To Soma svâhâ! To Indra and Agni svâhâ! To Vish<i>n</i>u svâhâ! To Bharadvâ<i>n</i>a Dhanvantari svâhâ! To the Vi<i>n</i>ve devâs svâhâ! To Pra<i>n</i>âpati svâhâ! To Aditi svâhâ! To Anumati svâhâ! To Agni Svish<i>n</i>ak<i>n</i>t <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> svâhâ!’—having thus offered the oblations belonging to those deities,
 
 5\. He then shall offer Balis (i.e. portions of food) in the centre of the floor to the same deities; (then another Bali with the words,) ‘Adoration to Brahman and to the Brâhma<i>n</i>as!’ and (with the verse), ‘Vâstoshpati, accept us’ (Rig-veda VII, 54, 1) in the centre of the floor to Vâstoshpati.
 
@@ -439,7 +439,7 @@ Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we gr
 
 8\. [^189]. Then (turned) towards the disk of the sun, 'Adoration to Aditi and to the Âdityas! Adoration
 
-5\. ‘He shall offer a Bali to those deities, i.e. to those ten deities to whom he has sacrificed, to Agni, &c. (see Sûtra 4), addressing them with the word, “Adoration (to such and such a deity”)—because in the other cases the word “adoration” (nama<i>h</i>) has been prescribed for the Bali.’ Nârâya<i>n</i>a. <span id="p86">[<sup><small>p. 86</small></sup>]</span> to the Nakshatras, to seasons, to months, to half-months, to days and nights, to years!’
+5\. ‘He shall offer a Bali to those deities, i.e. to those ten deities to whom he has sacrificed, to Agni, &c. (see Sûtra 4), addressing them with the word, “Adoration (to such and such a deity”)—because in the other cases the word “adoration” (nama<i>h</i>) has been prescribed for the Bali.’ Nârâya<i>n</i>a. <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> to the Nakshatras, to seasons, to months, to half-months, to days and nights, to years!’
 
 9\. ‘To Pûshan, the path-maker; to Dhâtar, to Vidhâtar, and to the Maruts’—(thus) on the thresholds.
 
@@ -465,7 +465,7 @@ I8. With the sacrificial cord suspended over the right shoulder he pours out the
 
 20\. Or let him give alms (of food) to a student.
 
-21\. [^190]. Let him immediately afterwards offer food to a female under his protection, to a pregnant woman, to boys, and to old people. <span id="p87">[<sup><small>p. 87</small></sup>]</span>
+21\. [^190]. Let him immediately afterwards offer food to a female under his protection, to a pregnant woman, to boys, and to old people. <span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 22 [^191]. Let him throw (some food) on the ground for the dogs, for the dog-butchers, and for the birds.
 
@@ -483,7 +483,7 @@ I8. With the sacrificial cord suspended over the right shoulder he pours out the
 
 2\. [^194]. Let the Argha not be without flesh.
 
-3\. On the occasion of a sacrifice and of a wedding let (the guest) say, ‘Make it (ready).’ <span id="p88">[<sup><small>p. 88</small></sup>]</span>
+3\. On the occasion of a sacrifice and of a wedding let (the guest) say, ‘Make it (ready).’ <span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 4\. The animal (offered) to the teacher is sacred to Agni;
 
@@ -503,7 +503,7 @@ I8. With the sacrificial cord suspended over the right shoulder he pours out the
 
 
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 16.
 
@@ -521,7 +521,7 @@ I8. With the sacrificial cord suspended over the right shoulder he pours out the
 
 ## KHA<i>ND</i>A 17.
 
-1\. 'Even if a man constantly gather grass and perform the Agnihotra, a Brâhma<i>n</i>a who stays (in his <span id="p90">[<sup><small>p. 90</small></sup>]</span> house) without receiving honour takes away all his good works.
+1\. 'Even if a man constantly gather grass and perform the Agnihotra, a Brâhma<i>n</i>a who stays (in his <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> house) without receiving honour takes away all his good works.
 
 2\. 'One should give (even) if it were only a water-pot; one should sacrifice (even) if it were a piece of wood; (even) down to one hymn or to one Anuvâka the Brahmaya<i>g</i><i>g</i>a is enjoined.
 

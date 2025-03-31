@@ -32,11 +32,11 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 _The Poems entitled_ Almoällakât _exhibit an exact picture of their virtues and their vices, their wisdom and their folly; and show what may be constantly expected from men of open hearts and boiling passions, with no law to control, and little religion to restrain ahem_.—Six W. JONES: Discourse on The Arabs.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 <figure id="Figure_00300" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/00300.jpg">
@@ -52,7 +52,7 @@ They adjured, entreated, expostulated; but, when it grew late, they found themse
 
 He next relates his courtship of Fatima, and his more dangerous amour with a girl of a tribe at war with his own, whose beauties he very minutely and luxuriantly delineates. From these love-tales he proceeds to the commendation of his own fortitude, when he was passing a desert in the darkest night; and the mention of the morning which succeeded leads him to a long description of his hunter, and of a chase in the forest, followed by a feast on the game which had been pierced by his javelins.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Here his narrative seems to be interrupted by a storm of lightning and violent rain;—he nobly describes the shower, and the torrent which it produced down all the adjacent mountains; and, his companions retiring to avoid the storm, the drama (for the poem has the form of a dramatic pastoral) ends abruptly.
 

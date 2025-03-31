@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:1:50Z
   </table>
 </figure>
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 [^60]
 
@@ -54,13 +54,13 @@ Explanation of the separate lines by the duke of <i>K</i>âu.
 
 4\. In the fourth NINE, undivided, (we see its subject as the dragon looking) as if he were leaping up, but still in the deep. There will be no mistake.
 
-5\. In the fifth NINE, undivided, (we see its subject as) the dragon on the wing in the sky. It will be advantageous to meet with the great man. <span id="p58">[<sup><small>p. 58</small></sup>]</span> 6\. In the sixth (or topmost) NINE, undivided, (we see its subject as) the dragon exceeding the proper limits. There will be occasion for repentance.
+5\. In the fifth NINE, undivided, (we see its subject as) the dragon on the wing in the sky. It will be advantageous to meet with the great man. <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> 6\. In the sixth (or topmost) NINE, undivided, (we see its subject as) the dragon exceeding the proper limits. There will be occasion for repentance.
 
 7\. (The lines of this hexagram are all strong and undivided, as appears from) the use of the number NINE. If the host of dragons (thus) appearing were to divest themselves of their heads, there would be good fortune.
 
 
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 [^61]
 
@@ -68,7 +68,7 @@ Explanation of the separate lines by the duke of <i>K</i>âu.
 
 ![](image/book/Confucianism/The_I_Ching/hex000000.jpg)
 
-Khwăn (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare. When the superior man (here <span id="p60">[<sup><small>p. 60</small></sup>]</span> intended) has to make any movement, if he take the initiative, he will go astray; if he follow, he will find his (proper) lord. The advantageousness will be seen in his getting friends in the south-west, and losing friends in the north-east. If he rest in correctness and firmness, there will be good fortune.
+Khwăn (represents) what is great and originating, penetrating, advantageous, correct and having the firmness of a mare. When the superior man (here <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> intended) has to make any movement, if he take the initiative, he will go astray; if he follow, he will find his (proper) lord. The advantageousness will be seen in his getting friends in the south-west, and losing friends in the north-east. If he rest in correctness and firmness, there will be good fortune.
 
 1\. In the first SIX, divided, (we see its subject) treading on hoarfrost. The strong ice will come (by and by).
 
@@ -78,13 +78,13 @@ Khwăn (represents) what is great and originating, penetrating, advantageous, co
 
 4\. The fourth SIX, divided, (shows the symbol of) a sack tied up. There will be no ground for blame or for praise.
 
-5\. The fifth SIX, divided, (shows) the yellow lower garment. There will be great good fortune. <span id="p61">[<sup><small>p. 61</small></sup>]</span> 6\. The sixth SIX, divided (shows) dragons fighting in the wild. Their blood is purple and yellow.
+5\. The fifth SIX, divided, (shows) the yellow lower garment. There will be great good fortune. <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> 6\. The sixth SIX, divided (shows) dragons fighting in the wild. Their blood is purple and yellow.
 
 7\. (The lines of this hexagram are all weak and divided, as appears from) the use of the number six. If those (who are thus represented) be perpetually correct and firm, advantage will arise.
 
 
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 [^62]
 
@@ -98,7 +98,7 @@ Khwăn (represents) what is great and originating, penetrating, advantageous, co
 
 2\. The second SIX, divided, shows (its subject) distressed and obliged to return; (even) the horses of her chariot (also) seem to be retreating. (But) not by a spoiler (is she assailed), but by one who seeks her to be his wife. The young lady maintains her firm correctness, and declines a union. After ten years she will be united, and have children.
 
-3\. The third SIX, divided, shows one following the deer without (the guidance of) the forester, and only finding himself in the midst of the forest. The superior man, acquainted with the secret risks, thinks it better to give up the chase. If he went forward, he would regret it. <span id="p63">[<sup><small>p. 63</small></sup>]</span> 4\. The fourth SIX, divided, shows (its subject as a lady), the horses of whose chariot appear in retreat. She seeks, however, (the help of) him who seeks her to be his wife. Advance will be fortunate; all will turn out advantageously.
+3\. The third SIX, divided, shows one following the deer without (the guidance of) the forester, and only finding himself in the midst of the forest. The superior man, acquainted with the secret risks, thinks it better to give up the chase. If he went forward, he would regret it. <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> 4\. The fourth SIX, divided, shows (its subject as a lady), the horses of whose chariot appear in retreat. She seeks, however, (the help of) him who seeks her to be his wife. Advance will be fortunate; all will turn out advantageously.
 
 5\. The fifth NINE, undivided, shows the difficulties in the way of (its subject's) dispensing the rich favours that might be expected from him. With firmness and correctness there will be good fortune in small things; (even) with them in great things there will be evil.
 
@@ -106,7 +106,7 @@ Khwăn (represents) what is great and originating, penetrating, advantageous, co
 
 
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 [^63]
 
@@ -114,7 +114,7 @@ Khwăn (represents) what is great and originating, penetrating, advantageous, co
 
 ![](image/book/Confucianism/The_I_Ching/hex100010.jpg)
 
-Măng (indicates that in the case which it presupposes) there will be progress and success. I do not (go and) seek the youthful and inexperienced, <span id="p65">[<sup><small>p. 65</small></sup>]</span> but he comes and seeks me. When he shows (the sincerity that marks) the first recourse to divination, I instruct him. If he apply a second and third time, that is troublesome; and I do not instruct the troublesome. There will be advantage in being firm and correct.
+Măng (indicates that in the case which it presupposes) there will be progress and success. I do not (go and) seek the youthful and inexperienced, <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> but he comes and seeks me. When he shows (the sincerity that marks) the first recourse to divination, I instruct him. If he apply a second and third time, that is troublesome; and I do not instruct the troublesome. There will be advantage in being firm and correct.
 
 1\. The first SIX, divided, (has respect to) the dispelling of ignorance. It will be advantageous to use punishment (for that purpose), and to remove the shackles (from the mind). But going on in that way (of punishment) will give occasion for regret.
 
@@ -126,11 +126,11 @@ Măng (indicates that in the case which it presupposes) there will be progress a
 
 5\. The fifth SIX, divided, shows its subject as a simple lad without experience. There will be good fortune.
 
-6\. In the topmost NINE, undivided, we see one smiting the ignorant (youth). But no advantage <span id="p66">[<sup><small>p. 66</small></sup>]</span> will come from doing him an injury. Advantage would come from warding off injury from him.
+6\. In the topmost NINE, undivided, we see one smiting the ignorant (youth). But no advantage <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> will come from doing him an injury. Advantage would come from warding off injury from him.
 
 
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 [^64]
 
@@ -152,13 +152,13 @@ Hsü intimates that, with the sincerity which is declared in it, there will be b
 
 6\. The topmost SIX, divided, shows its subject entered into the cavern. (But) there are three guests coming, without being urged, (to his help).
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 If he receive them respectfully, there will be good fortune in the end.
 
 
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 [^65]
 
@@ -172,7 +172,7 @@ Sung intimates how, though there is sincerity in one's contention, he will yet m
 
 2\. The second NINE, undivided, shows its subject unequal to the contention. If he retire and keep concealed (where) the inhabitants of his city are (only) three hundred families, he will fall into no mistake.
 
-3\. The third SIX, divided, shows its subject keeping in the old place assigned for his support, and firmly correct. Perilous as the position is, there will be good fortune in the end. Should he perchance <span id="p70">[<sup><small>p. 70</small></sup>]</span> engage in the king's business, he will not (claim the merit of) achievement.
+3\. The third SIX, divided, shows its subject keeping in the old place assigned for his support, and firmly correct. Perilous as the position is, there will be good fortune in the end. Should he perchance <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> engage in the king's business, he will not (claim the merit of) achievement.
 
 4\. The fourth NINE, undivided, shows its subject unequal to the contention. He returns to (the study of Heaven's) ordinances, changes (his wish to contend), and rests in being firm and correct. There will be good fortune.
 
@@ -182,7 +182,7 @@ S. The fifth NINE, undivided, shows its subject contending;—and with great goo
 
 
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 [^66]
 
@@ -190,7 +190,7 @@ S. The fifth NINE, undivided, shows its subject contending;—and with great goo
 
 ![](image/book/Confucianism/The_I_Ching/hex000010.jpg)
 
-Sze indicates how, in the case which it supposes, with firmness and correctness, and (a leader of) age <span id="p72">[<sup><small>p. 72</small></sup>]</span> and experience, there will be good fortune and no error.
+Sze indicates how, in the case which it supposes, with firmness and correctness, and (a leader of) age <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> and experience, there will be good fortune and no error.
 
 1\. The first SIX, divided, shows the host going forth according to the rules (for such a movement). If these be not good, there will be evil.
 
@@ -206,7 +206,7 @@ Sze indicates how, in the case which it supposes, with firmness and correctness,
 
 
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 [^67]
 
@@ -214,7 +214,7 @@ Sze indicates how, in the case which it supposes, with firmness and correctness,
 
 ![](image/book/Confucianism/The_I_Ching/hex010000.jpg)
 
-Pî indicates that (under the conditions which it supposes) there is good fortune. But let (the principal party intended in it) re-examine himself, (as if) <span id="p74">[<sup><small>p. 74</small></sup>]</span> by divination, whether his virtue be great, unintermitting, and firm. If it be so, there will be no error. Those who have not rest will then come to him; and with those who are (too) late in coming it will be ill.
+Pî indicates that (under the conditions which it supposes) there is good fortune. But let (the principal party intended in it) re-examine himself, (as if) <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> by divination, whether his virtue be great, unintermitting, and firm. If it be so, there will be no error. Those who have not rest will then come to him; and with those who are (too) late in coming it will be ill.
 
 1\. The first SIX, divided, shows its subject seeking by his sincerity to win the attachment of his object. There will be no error. Let (the breast) be full of sincerity as an earthenware vessel is of its contents, and it will in the end bring other advantages.
 
@@ -222,7 +222,7 @@ Pî indicates that (under the conditions which it supposes) there is good fortun
 
 In the third SIX, divided, we see its subject seeking for union with such as ought not to be associated with.
 
-4\. In the fourth SIX, divided, we see its subject <span id="p75">[<sup><small>p. 75</small></sup>]</span> seeking for union with the one beyond himself. With firm correctness there will be good fortune.
+4\. In the fourth SIX, divided, we see its subject <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> seeking for union with the one beyond himself. With firm correctness there will be good fortune.
 
 5\. The fifth NINE, undivided, affords the most illustrious instance of seeking union and attachment. (We seem to see in it) the king urging his pursuit of the game (only) in three directions, and allowing the escape of all the animals before him, while the people of his towns do not warn one another (to prevent it). There will be good fortune.
 
@@ -230,7 +230,7 @@ In the third SIX, divided, we see its subject seeking for union with such as oug
 
 
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 [^68]
 
@@ -242,7 +242,7 @@ Hsiâo <i>Kh</i>û indicates that (under its conditions) there will be progress 
 
 1\. The first NINE, undivided, shows its subject returning and pursuing his own course. What mistake should he fall into? There will be good fortune.
 
-2\. The second NINE, undivided, shows its subject, by the attraction (of the former line), returning (to the proper course). There will be good fortune. <span id="p77">[<sup><small>p. 77</small></sup>]</span> 3\. The third NINE, undivided, suggests the idea of a carriage, the strap beneath which has been removed, or of a husband and wife looking on each other with averted eyes.
+2\. The second NINE, undivided, shows its subject, by the attraction (of the former line), returning (to the proper course). There will be good fortune. <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> 3\. The third NINE, undivided, suggests the idea of a carriage, the strap beneath which has been removed, or of a husband and wife looking on each other with averted eyes.
 
 4\. The fourth SIX, divided, shows its subject possessed of sincerity. The danger of bloodshed is thereby averted, and his (ground for) apprehension dismissed. There will be no mistake.
 
@@ -252,7 +252,7 @@ Hsiâo <i>Kh</i>û indicates that (under its conditions) there will be progress 
 
 
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 [^69]
 
@@ -260,7 +260,7 @@ Hsiâo <i>Kh</i>û indicates that (under its conditions) there will be progress 
 
 ![](image/book/Confucianism/The_I_Ching/hex111011.jpg)
 
-(Lî suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success. <span id="p79">[<sup><small>p. 79</small></sup>]</span> 1\. The first NINE, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
+(Lî suggests the idea of) one treading on the tail of a tiger, which does not bite him. There will be progress and success. <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> 1\. The first NINE, undivided, shows its subject treading his accustomed path. If he go forward, there will be no error.
 
 2\. The second NINE, undivided, shows its subject treading the path that is level and easy;—a quiet and solitary man, to whom, if he be firm and correct, there will be good fortune.
 
@@ -270,11 +270,11 @@ Hsiâo <i>Kh</i>û indicates that (under its conditions) there will be progress 
 
 5\. The fifth NINE, undivided, shows the resolute tread of its subject. Though he be firm and correct, there will be peril.
 
-6\. The sixth NINE, undivided, tells us to look at (the whole course) that is trodden, and examine the <span id="p80">[<sup><small>p. 80</small></sup>]</span> presage which that gives. If it be complete and without failure, there will be great good fortune.
+6\. The sixth NINE, undivided, tells us to look at (the whole course) that is trodden, and examine the <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> presage which that gives. If it be complete and without failure, there will be great good fortune.
 
 
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 [^70]
 
@@ -290,17 +290,17 @@ In Thâi (we see) the little gone and the great come. (It indicates that) there 
 
 3\. The third NINE, undivided, shows that, while there is no state of peace that is not liable to be disturbed, and no departure (of evil men) so that they shall not return, yet when one is firm and correct, as he realises the distresses that may arise, he will commit no error. There is no occasion for sadness at the certainty (of such recurring changes); and in this mood the happiness (of the present) may be (long) enjoyed.
 
-4\. The fourth SIX, divided, shows its subject fluttering (down);—not relying on his own rich <span id="p82">[<sup><small>p. 82</small></sup>]</span> resources, but calling in his neighbours. (They all come) not as having received warning, but in the sincerity (of their hearts).
+4\. The fourth SIX, divided, shows its subject fluttering (down);—not relying on his own rich <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> resources, but calling in his neighbours. (They all come) not as having received warning, but in the sincerity (of their hearts).
 
 5\. The fifth six, divided, reminds us of (king) Tî-yî's (rule about the) marriage of his younger sister. By such a course there is happiness and there will be great good fortune.
 
 6\. The sixth six, divided, shows us the city wall returned into the moat. It is not the time to use the army. (The subject of the line) may, indeed, announce his orders to the people of his own city; but however correct and firm he may be, he will have cause for regret.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 [^71]
 
@@ -308,7 +308,7 @@ In Thâi (we see) the little gone and the great come. (It indicates that) there 
 
 ![](image/book/Confucianism/The_I_Ching/hex111000.jpg)
 
-In Phî there is the want of good understanding between the (different classes of) men, and its indication is unfavourable to the firm and correct <span id="p84">[<sup><small>p. 84</small></sup>]</span> course of the superior man. We see in it the great gone and the little come.
+In Phî there is the want of good understanding between the (different classes of) men, and its indication is unfavourable to the firm and correct <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> course of the superior man. We see in it the great gone and the little come.
 
 1\. The first SIX, divided, suggests the idea of grass pulled up, and bringing with it other stalks with whose roots it is connected. With firm correctness (on the part of its subject), there will be good fortune and progress.
 
@@ -318,13 +318,13 @@ The third SIX, divided, shows its subject ashamed of the purpose folded (in his 
 
 4\. The fourth NINE, undivided, shows its subject acting in accordance with the ordination (of Heaven), and committing no error. His companions will come and share in his happiness.
 
-5\. In the fifth NINE, undivided, we see him who <span id="p85">[<sup><small>p. 85</small></sup>]</span> brings the distress and obstruction to a close,—the great man and fortunate. (But let him say), ‘We may perish! We may perish!’ (so shall the state of things become firm, as if) bound to a clump of bushy mulberry trees.
+5\. In the fifth NINE, undivided, we see him who <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> brings the distress and obstruction to a close,—the great man and fortunate. (But let him say), ‘We may perish! We may perish!’ (so shall the state of things become firm, as if) bound to a clump of bushy mulberry trees.
 
 6\. The sixth NINE, undivided, shows the overthrow (and removal of) the condition of distress and obstruction. Before this there was that condition. Hereafter there will be joy.
 
 
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 [^72]
 
@@ -344,11 +344,11 @@ Thung <i>Z</i>ăn (or ‘Union of men’) appears here (as we find it) in the (r
 
 5\. In the fifth NINE, undivided, (the representative of) the union of men first wails and cries out, and then laughs. His great host conquers, and he (and the subject of the second line) meet together.
 
-6\. The topmost NINE, undivided, (shows the representative <span id="p87">[<sup><small>p. 87</small></sup>]</span> of) the union of men in the suburbs. There will be no occasion for repentance.
+6\. The topmost NINE, undivided, (shows the representative <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> of) the union of men in the suburbs. There will be no occasion for repentance.
 
 
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 [^73]
 
@@ -372,7 +372,7 @@ Tâ Yû indicates that, (under the circumstances which it implies), there will b
 
 
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 [^74]
 
@@ -382,7 +382,7 @@ Tâ Yû indicates that, (under the circumstances which it implies), there will b
 
 <i>Kh</i>ien indicates progress and success. The superior man, (being humble as it implies), will have a (good) issue (to his undertakings).
 
-1\. The first SIX, divided, shows us the superior man who adds humility to humility. (Even) the great <span id="p90">[<sup><small>p. 90</small></sup>]</span> stream may be crossed with this, and there will be good fortune.
+1\. The first SIX, divided, shows us the superior man who adds humility to humility. (Even) the great <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> stream may be crossed with this, and there will be good fortune.
 
 2\. The second SIX, divided, shows us humility that has made itself recognised. With firm correctness there will be good fortune.
 
@@ -395,7 +395,7 @@ Tâ Yû indicates that, (under the circumstances which it implies), there will b
 6\. The sixth SIX, divided, shows us humility that has made itself recognised. The subject of it will with advantage put his hosts in motion; but (he will only) punish his own towns and state.
 
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 [^75]
 
@@ -411,7 +411,7 @@ Yü indicates that, (in the state which it implies), feudal princes may be set u
 
 3\. The third SIX, divided, shows one looking up (for favours), while he indulges the feeling of pleasure and satisfaction. If he would understand!—If he be late in doing so, there will indeed be occasion for repentance.
 
-4\. The fourth NINE, undivided, shows him from whom the harmony and satisfaction come. Great <span id="p92">[<sup><small>p. 92</small></sup>]</span> is the success which he obtains. Let him not allow suspicions to enter his mind, and thus friends will gather around him.
+4\. The fourth NINE, undivided, shows him from whom the harmony and satisfaction come. Great <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> is the success which he obtains. Let him not allow suspicions to enter his mind, and thus friends will gather around him.
 
 5\. The fifth six, divided, shows one with a chronic complaint, but who lives on without dying.
 
@@ -419,7 +419,7 @@ Yü indicates that, (in the state which it implies), feudal princes may be set u
 
 
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 [^76]
 
@@ -435,13 +435,13 @@ Sui indicates that (under its conditions) there will be great progress and succe
 
 3\. The third SIX, divided, shows us one who cleaves to the man of age and experience, and lets go. the little boy. Such following will get what it seeks; but it will be advantageous to adhere to what is firm and correct.
 
-4\. The fourth NINE, undivided, shows us one followed and obtaining (adherents). Though he be firm and correct, there will be evil. If he be sincere (however) in his course, and make that evident, into what error will he fall? <span id="p94">[<sup><small>p. 94</small></sup>]</span> 5\. The fifth NINE, undivided, shows us (the ruler) sincere in (fostering all) that is excellent. There will be good fortune.
+4\. The fourth NINE, undivided, shows us one followed and obtaining (adherents). Though he be firm and correct, there will be evil. If he be sincere (however) in his course, and make that evident, into what error will he fall? <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> 5\. The fifth NINE, undivided, shows us (the ruler) sincere in (fostering all) that is excellent. There will be good fortune.
 
 6\. The topmost SIX, divided, shows us (that sincerity) firmly held and clung to, yea, and bound fast. (We see) the king with it presenting his offerings on the western mountain.
 
 
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 [^77]
 
@@ -457,7 +457,7 @@ Kû indicates great progress and success (to him who deals properly with the con
 
 3\. The third NINE, undivided, shows (a son) dealing with the troubles caused by his father. There may be some small occasion for repentance, but there will not be any great error.
 
-4\. The fourth SIX, divided, shows (a son) viewing <span id="p96">[<sup><small>p. 96</small></sup>]</span> indulgently the troubles caused by his father. If he go forward, he will find cause to regret it.
+4\. The fourth SIX, divided, shows (a son) viewing <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> indulgently the troubles caused by his father. If he go forward, he will find cause to regret it.
 
 5\. The fifth SIX, divided, shows (a son) dealing with the troubles caused by his father. He obtains the praise of using (the fit instrument for his work).
 
@@ -465,7 +465,7 @@ Kû indicates great progress and success (to him who deals properly with the con
 
 
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 [^78]
 
@@ -475,7 +475,7 @@ Kû indicates great progress and success (to him who deals properly with the con
 
 Lin (indicates that under the conditions supposed in it) there will be great progress and success, while it will be advantageous to be firmly correct. In the eighth month there will be evil.
 
-1\. The first NINE, undivided, shows its subject advancing in company (with the subject of the <span id="p98">[<sup><small>p. 98</small></sup>]</span> second line). Through his firm correctness there will be good fortune.
+1\. The first NINE, undivided, shows its subject advancing in company (with the subject of the <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> second line). Through his firm correctness there will be good fortune.
 
 2\. The second NINE, undivided, shows its subject advancing in company (with the subject of the first line). There will be good fortune; (advancing) will be in every way advantageous.
 
@@ -489,7 +489,7 @@ Lin (indicates that under the conditions supposed in it) there will be great pro
 
 
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 [^79]
 
@@ -497,7 +497,7 @@ Lin (indicates that under the conditions supposed in it) there will be great pro
 
 ![](image/book/Confucianism/The_I_Ching/hex110000.jpg)
 
-Kwân shows (how he whom it represents should be like) the worshipper who has washed his hands, but not (yet) presented his offerings;—with sincerity <span id="p100">[<sup><small>p. 100</small></sup>]</span> and an appearance of dignity (commanding reverent regard).
+Kwân shows (how he whom it represents should be like) the worshipper who has washed his hands, but not (yet) presented his offerings;—with sincerity <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> and an appearance of dignity (commanding reverent regard).
 
 1\. The first SIX, divided, shows the looking of a lad;—not blamable in men of inferior rank, but matter for regret in superior men.
 
@@ -511,7 +511,7 @@ Kwân shows (how he whom it represents should be like) the worshipper who has wa
 
 6\. The sixth NINE, undivided, shows its subject contemplating his character to see if it be indeed that of a superior man. He will not fall into error.
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 
 
@@ -525,7 +525,7 @@ Shih Ho indicates successful progress (in the condition of things which it suppo
 
 1\. The first NINE, undivided, shows one with his feet in the stocks and deprived of his toes. There will be no error.
 
-2\. The second SIX, divided, shows one biting through the soft flesh, and (going on to) bite off the nose. There will be no error. <span id="p102">[<sup><small>p. 102</small></sup>]</span> 3\. The third SIX, divided, shows one gnawing dried flesh, and meeting with what is disagreeable. There will be occasion for some small regret, but no (great) error.
+2\. The second SIX, divided, shows one biting through the soft flesh, and (going on to) bite off the nose. There will be no error. <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> 3\. The third SIX, divided, shows one gnawing dried flesh, and meeting with what is disagreeable. There will be occasion for some small regret, but no (great) error.
 
 4\. The fourth NINE, undivided, shows one gnawing the flesh dried on the bone, and getting the pledges of money and arrows. It will be advantageous to him to realise the difficulty of his task and be firm,—in which case there will be good fortune.
 
@@ -535,7 +535,7 @@ Shih Ho indicates successful progress (in the condition of things which it suppo
 
 
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 [^81]
 
@@ -543,7 +543,7 @@ Shih Ho indicates successful progress (in the condition of things which it suppo
 
 ![](image/book/Confucianism/The_I_Ching/hex100101.jpg)
 
-Pî indicates that there should be free course (in what it denotes). There will be little advantage (however) if it be allowed to advance (and take the lead). <span id="p104">[<sup><small>p. 104</small></sup>]</span> 1\. The first NINE, undivided, shows one adorning (the way of) his feet. He can discard a carriage and walk on foot.
+Pî indicates that there should be free course (in what it denotes). There will be little advantage (however) if it be allowed to advance (and take the lead). <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> 1\. The first NINE, undivided, shows one adorning (the way of) his feet. He can discard a carriage and walk on foot.
 
 2\. The second SIX, divided, shows one adorning his beard.
 
@@ -555,10 +555,10 @@ Pî indicates that there should be free course (in what it denotes). There will 
 
 6\. The sixth NINE, undivided, shows one with white as his (only) ornament. There will be no error.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 [^82]
 
@@ -566,7 +566,7 @@ Pî indicates that there should be free course (in what it denotes). There will 
 
 ![](image/book/Confucianism/The_I_Ching/hex100000.jpg)
 
-Po indicates that (in the state which it symbolises) it will not be advantageous to make a movement in any direction whatever. <span id="p106">[<sup><small>p. 106</small></sup>]</span> 1\. The first SIX, divided, shows one overturning the couch by injuring its legs. (The injury will go on to) the destruction of (all) firm correctness, and there will be evil.
+Po indicates that (in the state which it symbolises) it will not be advantageous to make a movement in any direction whatever. <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> 1\. The first SIX, divided, shows one overturning the couch by injuring its legs. (The injury will go on to) the destruction of (all) firm correctness, and there will be evil.
 
 2\. The second SIX, divided, shows one overthrowing the couch by injuring its frame. (The injury will go on to) the destruction of (all) firm correctness, and there will be evil.
 
@@ -580,7 +580,7 @@ Po indicates that (in the state which it symbolises) it will not be advantageous
 
 
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 [^83]
 
@@ -588,7 +588,7 @@ Po indicates that (in the state which it symbolises) it will not be advantageous
 
 ![](image/book/Confucianism/The_I_Ching/hex000001.jpg)
 
-Fû indicates that there will be free course and progress (in what it denotes). (The subject of it) finds no one to distress him in his exits and <span id="p108">[<sup><small>p. 108</small></sup>]</span> entrances; friends come to him, and no error is committed . He will return and repeat his (proper) course. In seven days comes his return. There will be advantage in whatever direction movement is made.
+Fû indicates that there will be free course and progress (in what it denotes). (The subject of it) finds no one to distress him in his exits and <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> entrances; friends come to him, and no error is committed . He will return and repeat his (proper) course. In seven days comes his return. There will be advantage in whatever direction movement is made.
 
 1\. The first NINE, undivided, shows its subject returning (from an error) of no great extent, which would not proceed to anything requiring repentance. There will be great good fortune.
 
@@ -602,10 +602,10 @@ Fû indicates that there will be free course and progress (in what it denotes). 
 
 6\. The topmost SIX, divided, shows its subject all astray on the subject of returning. There will be evil. There will be calamities and errors. If with his views he put the hosts in motion, the end will be a great defeat, whose issues will extend to the ruler of the state. Even in ten years he will not be able to repair the disaster.
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 [^84]
 
@@ -613,13 +613,13 @@ Fû indicates that there will be free course and progress (in what it denotes). 
 
 ![](image/book/Confucianism/The_I_Ching/hex111001.jpg)
 
-Wû Wang indicates great progress and success, while there will be advantage in being firm and <span id="p110">[<sup><small>p. 110</small></sup>]</span> correct. If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction.
+Wû Wang indicates great progress and success, while there will be advantage in being firm and <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> correct. If (its subject and his action) be not correct, he will fall into errors, and it will not be advantageous for him to move in any direction.
 
 1\. The first NINE, undivided, shows its subject free from all insincerity. His advance will be accompanied with good fortune.
 
 2\. The second SIX, divided, shows one who reaps without having ploughed (that he might reap), and gathers the produce of his third year's fields without having cultivated them the first year for that end. To such a one there will be advantage in whatever direction he may move.
 
-3\. The third SIX, divided, shows calamity happening to one who is free from insincerity;—as in <span id="p111">[<sup><small>p. 111</small></sup>]</span> the case of an ox that has been tied up. A passer by finds it (and carries it off), while the people in the neighbourhood have the calamity (of being accused and. apprehended).
+3\. The third SIX, divided, shows calamity happening to one who is free from insincerity;—as in <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> the case of an ox that has been tied up. A passer by finds it (and carries it off), while the people in the neighbourhood have the calamity (of being accused and. apprehended).
 
 4\. The fourth NINE, undivided, shows (a case) in which, if its subject can remain firm and correct, there will be no error.
 
@@ -629,7 +629,7 @@ Wû Wang indicates great progress and success, while there will be advantage in 
 
 
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 [^85]
 
@@ -643,7 +643,7 @@ Under the conditions of Tâ <i>Kh</i>û it will be advantageous to be firm and c
 
 2\. The second NINE, undivided, shows a carriage with the strap under it removed.
 
-3\. The third NINE, undivided, shows its subject urging his way with good horses. It will be advantageous for him to realise the difficulty (of his course), and to be firm and correct, exercising himself daily in his charioteering and methods of defence; <span id="p113">[<sup><small>p. 113</small></sup>]</span> then there will be advantage in whatever direction he may advance.
+3\. The third NINE, undivided, shows its subject urging his way with good horses. It will be advantageous for him to realise the difficulty (of his course), and to be firm and correct, exercising himself daily in his charioteering and methods of defence; <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> then there will be advantage in whatever direction he may advance.
 
 4\. The fourth six, divided, shows the young bull, (and yet) having the piece of wood over his horns. There will be great good fortune.
 
@@ -651,10 +651,10 @@ Under the conditions of Tâ <i>Kh</i>û it will be advantageous to be firm and c
 
 6\. The sixth NINE, undivided, shows its subject (as) in command of the firmament of heaven. There will be progress.
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 [^86]
 
@@ -668,7 +668,7 @@ Under the conditions of Tâ <i>Kh</i>û it will be advantageous to be firm and c
 
 2\. The second SIX, divided, shows one looking downwards for nourishment, which is contrary to what is proper; or seeking it from the height (above), advance towards which will lead to evil.
 
-3\. The third SIX, divided, shows one acting contrary to the method of nourishing. However firm he may be, there will be evil. For ten years let him not take any action, (for) it will not be in any way advantageous. <span id="p115">[<sup><small>p. 115</small></sup>]</span> 4\. The fourth SIX, divided, shows one looking downwards for (the power to) nourish. There will be good fortune. Looking with a tiger's downward unwavering glare, and with his desire that impels him to spring after spring, he will fall into no error.
+3\. The third SIX, divided, shows one acting contrary to the method of nourishing. However firm he may be, there will be evil. For ten years let him not take any action, (for) it will not be in any way advantageous. <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> 4\. The fourth SIX, divided, shows one looking downwards for (the power to) nourish. There will be good fortune. Looking with a tiger's downward unwavering glare, and with his desire that impels him to spring after spring, he will fall into no error.
 
 5\. The fifth SIX, divided, shows one acting contrary to what is regular and proper; but if he abide in firmness, there will be good fortune. He should not, (however, try to) cross the great stream.
 
@@ -676,7 +676,7 @@ Under the conditions of Tâ <i>Kh</i>û it will be advantageous to be firm and c
 
 
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 [^87]
 
@@ -688,7 +688,7 @@ Tâ Kwo suggests to us a beam that is weak. There will be advantage in moving (u
 
 1\. The first SIX, divided, shows one placing mats of the white mâo grass under things set on the ground. There will be no error.
 
-2\. The second NINE, undivided, shows a decayed <span id="p117">[<sup><small>p. 117</small></sup>]</span> willow producing shoots, or an old husband in possession of his young wife. There will be advantage in every way.
+2\. The second NINE, undivided, shows a decayed <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> willow producing shoots, or an old husband in possession of his young wife. There will be advantage in every way.
 
 3\. The third NINE, undivided, shows a beam that is weak. There will be evil.
 
@@ -700,7 +700,7 @@ Tâ Kwo suggests to us a beam that is weak. There will be advantage in moving (u
 
 
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 [^88]
 
@@ -712,7 +712,7 @@ Khan, here repeated, shows the possession of sincerity, through which the mind i
 
 1\. The first SIX, divided, shows its subject in the double defile, and (yet) entering a cavern within it. There will be evil.
 
-2\. The second NINE, undivided, shows its subject <span id="p119">[<sup><small>p. 119</small></sup>]</span> in all the peril of the defile. He will, however, get a little (of the deliverance) that he seeks.
+2\. The second NINE, undivided, shows its subject <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> in all the peril of the defile. He will, however, get a little (of the deliverance) that he seeks.
 
 3\. The third SIX, divided, shows its subject, whether he comes or goes ( =descends or ascends), confronted by a defile. All is peril to him and unrest. (His endeavours) will lead him into the cavern of the pit. There should be no action (in such a case).
 
@@ -724,7 +724,7 @@ Khan, here repeated, shows the possession of sincerity, through which the mind i
 
 
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 [^89]
 
@@ -732,7 +732,7 @@ Khan, here repeated, shows the possession of sincerity, through which the mind i
 
 ![](image/book/Confucianism/The_I_Ching/hex101101.jpg)
 
-Lî indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success. <span id="p121">[<sup><small>p. 121</small></sup>]</span> Let (its subject) also nourish (a docility like that of) the cow, and there will be good fortune.
+Lî indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success. <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> Let (its subject) also nourish (a docility like that of) the cow, and there will be good fortune.
 
 1\. The first NINE, undivided, shows one ready to move with confused steps. But he treads at the same time reverently, and there will be no mistake.
 
@@ -742,7 +742,7 @@ Lî indicates that, (in regard to what it denotes), it will be advantageous to b
 
 4\. The fourth NINE, undivided, shows the manner of its subject's coming. How abrupt it is, as with fire, with death, to be rejected (by all)!
 
-5\. The fifth SIX, divided, shows its subject as one with tears flowing in torrents, and groaning in sorrow. There will be good fortune. <span id="p122">[<sup><small>p. 122</small></sup>]</span> 6\. The topmost NINE, undivided, shows the king employing its subject in his punitive expeditions. Achieving admirable (merit), he breaks (only) the chiefs (of the rebels). Where his prisoners were not their associates, he does not punish. There will be no error.
+5\. The fifth SIX, divided, shows its subject as one with tears flowing in torrents, and groaning in sorrow. There will be good fortune. <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> 6\. The topmost NINE, undivided, shows the king employing its subject in his punitive expeditions. Achieving admirable (merit), he breaks (only) the chiefs (of the rebels). Where his prisoners were not their associates, he does not punish. There will be no error.
 
 
 

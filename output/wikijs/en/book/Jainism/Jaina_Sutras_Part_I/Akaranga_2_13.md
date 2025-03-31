@@ -59,7 +59,7 @@ If he extracts or removes pus or blood from them. (10)
 
 If he wipes or rubs the mendicant's body, &c. [^476] (see §§ 2-8 down to) if he perfumes or fumigates it with any sort of incense. (11)
 
-If he wipes or rubs a wound in (the mendicant's) <span id="p187">[<sup><small>p. 187</small></sup>]</span> body (&c. [^477], down to) if he sprinkles or washes it with hot or cold water; (12)
+If he wipes or rubs a wound in (the mendicant's) <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> body (&c. [^477], down to) if he sprinkles or washes it with hot or cold water; (12)
 
 If he cuts or incises it with any sharp instrument; if after having done so, he extracts or removes pus or blood from it. (13)
 
@@ -81,7 +81,7 @@ If the other leading him to, or treating him in, a garden or a park, wipes or ru
 
 One should neither be pleased with nor prohibit it, if the other tries to cure him by pure charms;
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 If the other tries to cure him by impure charms;
 

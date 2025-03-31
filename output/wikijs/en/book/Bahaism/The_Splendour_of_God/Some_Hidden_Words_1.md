@@ -34,7 +34,7 @@ dateCreated: 2025-2-4T22:17:56Z
 
 O Son of Existence! My lamp thou art, and My Light is in thee. Therefore be illumined by it, and seek no one but Me; for I have created thee rich, and upon thee have I showered abundant grace.
 
-By the Hands of Power I have made thee, and <span id="p92">[<sup><small>p. 92</small></sup>]</span> by the Fingers of Strength have I created thee. I have placed in thee the essence of My Light.
+By the Hands of Power I have made thee, and <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> by the Fingers of Strength have I created thee. I have placed in thee the essence of My Light.
 
 Therefore depend upon It, and upon nothing else, for My Action is perfect and My Command has effect. Doubt this not, and have no uncertainty therein.
 
@@ -50,7 +50,7 @@ My Right to thee is great and cannot be denied. My Mercy for thee is ample and c
 
 O Son of Spirit! The Gospel of Light I herald to thee; rejoice in it. And to the state of Holiness I call thee; Abide in it, that thou mayest be in peace for ever and ever.
 
-O Son of Man! Magnify My Command, that <span id="p93">[<sup><small>p. 93</small></sup>]</span> I may reveal to thee the secrets of greatness and illumine thee with the Light of Eternity.
+O Son of Man! Magnify My Command, that <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> I may reveal to thee the secrets of greatness and illumine thee with the Light of Eternity.
 
 O Son of Man! My Calamity is My Providence. In appearance it is fire and vengeance; in reality it is Light and Mercy. Therefore approach it, that thou mayest become an Eternal Light and an Immortal Spirit. This is My Command; know thou It.
 
@@ -62,7 +62,7 @@ Therefore empty thyself of doubts and fancies; then enter into this Mansion, tha
 
 O Children of Men! Do ye know why We have created ye from one clay? That no one should glorify himself over the other. Be ye ever mindful of how ye were created.
 
-Since We created ye all from the same substance, ye must be as one soul, walking with the same feet, eating with one mouth, and living in one land, that ye may manifest with your being, <span id="p94">[<sup><small>p. 94</small></sup>]</span> and by your deeds and actions, the signs of unity and the spirit of Oneness.
+Since We created ye all from the same substance, ye must be as one soul, walking with the same feet, eating with one mouth, and living in one land, that ye may manifest with your being, <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> and by your deeds and actions, the signs of unity and the spirit of Oneness.
 
 This is My Counsel to ye, O People of Light! Therefore follow it, that ye may attain the fruits of Holiness from the Tree of Might and Power.
 
@@ -72,7 +72,7 @@ O Stranger to The Friend! The candle of thy mind is lighted by the hand of My Po
 
 O My Friends! Extinguish the lamp of ignorance, and kindle the Ever-burning Torch of guidance in the heart and mind. For in a short while the Assayers of Being shall accept naught but pure virtue in the portico of the Presence of the Adored One, and will receive none but holy deeds.
 
-O Children of Imagination! Know ye that when the Radiant Morn dawns from the eternal horizon of Holiness, then all the Satanic secrets and deeds, which have been committed in the <span id="p95">[<sup><small>p. 95</small></sup>]</span> dark night, shall become manifest to the people of the world.
+O Children of Imagination! Know ye that when the Radiant Morn dawns from the eternal horizon of Holiness, then all the Satanic secrets and deeds, which have been committed in the <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> dark night, shall become manifest to the people of the world.
 
 The Sun of Truth is the Word of God, upon which depends the training of the people of the country of thought.
 
@@ -84,7 +84,7 @@ All the good names and lofty qualities are of the Word. The Word is the Fire of 
 
 Outwardly it is the burning fire, while inwardly it is calm light. This is the water which giveth life to all things.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 We beg of God that we may partake of this Life-giving Water of Heaven, and quaff from the Spiritual Chalice of Rest, and thus be free from all that tends to withhold us from approaching His love.
 

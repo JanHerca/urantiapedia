@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 ## IV. TO THE RULERS OF THE PEOPLE.
 
@@ -42,7 +42,7 @@ This letter is known to us only by the testimony of the Ven. Francis Gonzaga, O.
 
 To all _podestàs_, and consuls, judges and governors, in whatever part of the world, and to all others to whom this letter may come, Brother Francis, your little and contemptible servant, wishes health and peace to you.
 
-Consider and see that the day of death draws nigh. [^507] I ask you, therefore, with such reverence as I can, not to forget the Lord on account of the cares and solicitudes of this world and not to <span id="p126">[<sup><small>p. 126</small></sup>]</span> turn aside from His commandments, for all those who forget Him and decline from His commandments are cursed [^508] and they shall be forgotten by Him. [^509] And when the day of death comes, all that which they think they have shall be taken away from them. [^510] And the wiser and more powerful they may have been in this world, so much the greater torments shall they endure in hell. [^511]
+Consider and see that the day of death draws nigh. [^507] I ask you, therefore, with such reverence as I can, not to forget the Lord on account of the cares and solicitudes of this world and not to <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> turn aside from His commandments, for all those who forget Him and decline from His commandments are cursed [^508] and they shall be forgotten by Him. [^509] And when the day of death comes, all that which they think they have shall be taken away from them. [^510] And the wiser and more powerful they may have been in this world, so much the greater torments shall they endure in hell. [^511]
 
 Wherefore, I strongly advise you, my lords, to put aside all care and solicitude and to receive readily the most holy Body and Blood of our Lord Jesus Christ in holy commemoration of Him. And cause so great honor to be rendered the Lord by the people committed to you, that every evening it may be announced by a crier or by another sign to the end that praises and thanks shall resound to the Lord God Almighty from all the people. And if you do not do this, know that you are beholden to render an account before your Lord God Jesus Christ on the day of Judgment. Let those who keep this writing with them and observe it know that they are blessed by the Lord God.
 

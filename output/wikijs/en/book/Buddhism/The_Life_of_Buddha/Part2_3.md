@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 
 THE Blessed One wondered who was worthy of being the first to hear the word of salvation. “Where is there a man of virtue, intelligence and energy, to whom I can teach the law?” he asked himself. “His heart must be innocent of hatred, his mind must be tranquil, and he must not keep the knowledge to himself as if it were some dark secret.”
@@ -41,7 +41,7 @@ He thought of Rudraka, son of Rama. He remembered that he had been free from hat
 
 “It is a great pity that Rudraka, son of Rama, should have died without hearing the law. He would have understood it, and he, in turn, could have taught it.”
 
-He thought of Arata Kalama. He remembered his clear intellect and his virtuous life, and he decided <span id="p115">[<sup><small>p. 115</small></sup>]</span> that Arata Kalama would be glad to propagate the knowledge. And this question arose in his mind: “Where is Arata Kalama now?” Then he learned that Arata Kalama had been dead three days, and he said:
+He thought of Arata Kalama. He remembered his clear intellect and his virtuous life, and he decided <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> that Arata Kalama would be glad to propagate the knowledge. And this question arose in his mind: “Where is Arata Kalama now?” Then he learned that Arata Kalama had been dead three days, and he said:
 
 “Arata Kalama died without hearing the law; great is Arata Kalama's loss.”
 
@@ -57,7 +57,7 @@ At Mount Gaya he met a monk named Upaka. At the sight of the Blessed One, Upaka 
 
 equal can not be found on earth or in the sky.“ ”Where are you going?" asked Upaka.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 “I am going to Benares,” said the Blessed One, “and there I shall light the lamp that will bring light into the world, a light that will dazzle even the eyes of the blind. I am going to Benares, and there I shall beat the drums that will awaken mankind, the drums that will sound even in the ears of the deaf. I am going to Benares, and there I shall teach the law.”
 

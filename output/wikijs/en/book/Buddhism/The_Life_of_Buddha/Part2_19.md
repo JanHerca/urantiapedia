@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 
 THE Master was happy to number these relatives among his disciples, and he took them with him to the Bamboo Grove. There, poor Nanda was suffering. He kept thinking of Sundarika; she often appeared to him in his dreams, and he regretted having left her. The Buddha knew of his unhappiness, and he decided to cure him.
@@ -47,7 +47,7 @@ One day, he took him by the hand and led him to a tree where a hideous monkey wa
 
 “What are you talking about!” exclaimed Nanda. “Do you mean to say that this monkey looks like Sundarika, who is grace, who is beauty itself?”
 
-“In what way is Sundarika different? Are they not both females, do they not both awaken the desire of the male? I believe you would be willing to leave the path of holiness and run to Sundarika's <span id="p201">[<sup><small>p. 201</small></sup>]</span> arms, just as somewhere in this wood there is a monkey that can be roused to a frenzy of love by the violent ardor of this female. They will both become old and decrepit, and then you, as well as the monkey, will wonder what could have caused your folly. They will both die, and perhaps you and the monkey will then understand the vanity of passion. Sundarika is no different from this monkey.”
+“In what way is Sundarika different? Are they not both females, do they not both awaken the desire of the male? I believe you would be willing to leave the path of holiness and run to Sundarika's <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> arms, just as somewhere in this wood there is a monkey that can be roused to a frenzy of love by the violent ardor of this female. They will both become old and decrepit, and then you, as well as the monkey, will wonder what could have caused your folly. They will both die, and perhaps you and the monkey will then understand the vanity of passion. Sundarika is no different from this monkey.”
 
 But Nanda was not listening. He was sighing. He was dreaming that he saw slender, graceful Sundarika wandering in a garden bright with flowers.
 
@@ -59,7 +59,7 @@ Nanda obeyed. He felt the earth suddenly give way under him, and a fierce wind s
 
 Nanda saw a house of shining silver surrounded by an emerald field. An Apsaras, far lovelier than Sundarika, was standing at the door. She was smiling. Maddened by desire, Nanda rushed to her, but she stopped him with a sudden gesture.
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 “Be pure on earth,” she said to him; “keep your vows, Nanda. After your death, you will be reborn here; then you may come to my arms.”
 
@@ -77,7 +77,7 @@ And he left.
 
 Nanda was very disturbed. He ran to the Master; he fell at his feet and wept. The Master said to him:
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 “Your thoughts are evil, Nanda. You are a slave to your feelings. First it was Sundarika, now it is an Apsaras, who turns your head. And you would be reborn! Reborn among the Gods? What folly, what vanity! Strive to attain wisdom, Nanda; give heed to my teachings, and kill your devouring passions.”
 
@@ -91,7 +91,7 @@ He made a robe for himself of the same size as the Master's. Some monks saw him 
 
 “Here comes the Master. Let us rise and greet him.”
 
-But as Nanda drew near, they saw their mistake. <span id="p204">[<sup><small>p. 204</small></sup>]</span> They were embarrassed, and as they sat down again, they said:
+But as Nanda drew near, they saw their mistake. <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> They were embarrassed, and as they sat down again, they said:
 
 “He has not been in the community as long as we have; why should we rise in his presence?”
 
@@ -103,7 +103,7 @@ Finally, a monk went to the Buddha and told him. He was very displeased. He asse
 
 “Yes, Blessed One,” replied Nanda; “I wore a robe of the same size as yours.”
 
-“What!” said the Master, “a disciple dares to make a robe for himself of the same size as the Buddha's! What do you mean by such audacity? An action of this kind does not tend to arouse the faith of the unbeliever, nor does it help to strengthen the faith of the believer. You must shorten your robe, Nanda, and, in the future, any <span id="p205">[<sup><small>p. 205</small></sup>]</span> monk who makes a robe for himself of the same size as the Buddha's, or larger than the Buddha's, will be committing a grave offense, an offense for which he will be severely punished.”
+“What!” said the Master, “a disciple dares to make a robe for himself of the same size as the Buddha's! What do you mean by such audacity? An action of this kind does not tend to arouse the faith of the unbeliever, nor does it help to strengthen the faith of the believer. You must shorten your robe, Nanda, and, in the future, any <span id="p205"><sup><small>[ p. 205 ]</small></sup></span> monk who makes a robe for himself of the same size as the Buddha's, or larger than the Buddha's, will be committing a grave offense, an offense for which he will be severely punished.”
 
 Nanda saw the error of his ways, and he realized that to be a true saint, he would have to conquer his pride.
 

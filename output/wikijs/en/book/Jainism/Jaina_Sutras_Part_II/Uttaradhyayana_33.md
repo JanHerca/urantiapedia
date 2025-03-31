@@ -46,7 +46,7 @@ The eight kinds of Karman are briefly the following:
 
 4\. Môhanîya (which leads to delusion);
 
-5\. Âyu<i>h</i>karman (which determines the length of life); <span id="p193">[<sup><small>p. 193</small></sup>]</span> 6\. Nâman (which determines the name or individuality of the embodied soul);
+5\. Âyu<i>h</i>karman (which determines the length of life); <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> 6\. Nâman (which determines the name or individuality of the embodied soul);
 
 7\. Gôtra (which determines his Gôtra);
 
@@ -72,7 +72,7 @@ The eight kinds of Karman are briefly the following:
 
 The three kinds of Môhanîya referring to faith are: 1. right faith; 2. wrong faith; 3. faith partly right and partly wrong. (9)
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 The two kinds of Môhanîya referring to conduct are: 1. what is experienced in the form of the four cardinal passions; 2. what is experienced in the form of feelings different from them. (10)
 
@@ -90,7 +90,7 @@ Thus the division of Karman and the subdivisions have been told.
 
 Now hear their number of atoms [^543], place, time, and development. (16)
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 The number of atoms of every Karman is infinite; it is (infinitely) greater than (the number) of fettered [^544] souls, but less than that of the perfected ones. (17)
 
@@ -106,7 +106,7 @@ The longest duration of Âyushka is thirty-three Krores of Krores of Sâgarôpam
 
 The longest duration of Nâman and Gôtra is twenty Krores of Krores of Sâgarôpamâs, and the shortest eight muhûrtas. (23)
 
-The number of perfected souls is infinite, and that <span id="p196">[<sup><small>p. 196</small></sup>]</span> of the subdivisions of Karman [^547] is also (infinite); the number of atoms in all these (subdivisions) exceeds (the number) of all souls. (24)
+The number of perfected souls is infinite, and that <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> of the subdivisions of Karman [^547] is also (infinite); the number of atoms in all these (subdivisions) exceeds (the number) of all souls. (24)
 
 Therefore a wise man should know the different subdivisions of these Karmans, and should exert himself to prevent and to destroy them. (25)
 

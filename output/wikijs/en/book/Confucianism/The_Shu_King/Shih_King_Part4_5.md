@@ -44,7 +44,7 @@ AN UNFORTUNATE WOMAN, WHO HAD BEEN SEDUCED INTO AN IMPROPER CONNEXION, NOW CAST 
 
 An extract is given from the pathetic history here related, because it shows how divination was used among the common people, and entered generally into the ordinary affairs of life.
 
-A simple-looking lad you were, Carrying cloth <span id="p438">[<sup><small>p. 438</small></sup>]</span> to exchange it for silk. (But) you came not so to purchase silk;—You came to make proposals to me. I convoyed you through the <i>Kh</i>î [^609], As far as Tun-_kh_iû [^610], ‘It is not I,’ (I said), ‘who would protract the time; But you have had no good go-between. I pray you be not angry, And let autumn be the time.’
+A simple-looking lad you were, Carrying cloth <span id="p438"><sup><small>[ p. 438 ]</small></sup></span> to exchange it for silk. (But) you came not so to purchase silk;—You came to make proposals to me. I convoyed you through the <i>Kh</i>î [^609], As far as Tun-_kh_iû [^610], ‘It is not I,’ (I said), ‘who would protract the time; But you have had no good go-between. I pray you be not angry, And let autumn be the time.’
 
 I ascended that ruinous wall, To look towards Fû-kwan [^611]; And when I saw (you) not (coming from) it, My tears flowed in streams. When I did see (you coming from) Fû-kwan, I laughed and I spoke. You had consulted, (you said), the tortoiseshell and the divining stalks, And there was nothing unfavourable in their response [^612]. ‘Then come,’ (I said), ‘with your carriage, And I will remove with my goods.’
 

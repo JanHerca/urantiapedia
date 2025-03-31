@@ -67,7 +67,7 @@ To Ambarísha's side, and said:
 ‘Gone is the steed, O King, and this
 Is due to thee, in care remiss.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 Such heedless faults will kings destroy
 Who fail to guard what they enjoy.
@@ -170,7 +170,7 @@ When Vísvámitra, glorious saint,
 Had heard the boy's heart-rending plaint.
 He soothed his grief, his tears he dried,
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 Then called his sons to him, and cried:
 ‘The time is come for you to show
@@ -299,7 +299,7 @@ And, fraught with anguish, memory came
 For quick he knew, with anger fired,
 That all the Immortals had conspired
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 To lap his careless soul in ease,
 And mar his long austerities.
@@ -399,7 +399,7 @@ When trees in spring to blossom start,
 I, with Kandarpa for my friend,
 Close to thy side mine aid will lend.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Do thou thy beauteous splendour arm
 With every grace and winsome charm,
@@ -521,7 +521,7 @@ Yea, as the fiery flood of Fate
 Lays all creation desolate.
 He o'er the conquered Gods may reign:
 O, grant him what he longs to gain.’
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Then all the Blest, by Brahmá led,
 Approached the saint and sweetly said:
@@ -648,7 +648,7 @@ Held it as ruler of the land,
 A pledge in his successive hand.
 This bow the mighty Rudra bore
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 At Daksha's [^245] sacrifice of yore,
 When carnage of the Immortals stained
@@ -748,7 +748,7 @@ Our race has prized from age to age.
 Too strong for those who yet have reigned,
 Though great in might each nerve they strained.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Titan and fiend its strength defies,
 God, spirit, minstrel of the skies.
@@ -875,7 +875,7 @@ Who fills Kaus'alyá's soul with joy,
 By Vis'vámitra guarded well
 Among the good Videhans dwell.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Their ruler Janak, prompt to own
 The peerless might my child has shown,
@@ -1002,7 +1002,7 @@ Thus in the presence of the priest
 The royal Janak spoke, and ceased.
 Then came his henchmen, prompt and brave,
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 To whom his charge the monarch gave.
 Soon as they heard his will, in haste
@@ -1124,7 +1124,7 @@ And, of her husband long bereaved,
 She bore a son by him conceived.
 Because her rival mixed the bane
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 To render her conception vain,
 And fruit unripened to destroy,

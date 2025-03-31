@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-THE beautiful elegiac verses with which this masterpiece of ancient Arabic poetry opens have been compared, by Dr. Carlyle, to Goldsmith's _Deserted Village_. “But the Arab,” <span id="p383">[<sup><small>p. 383</small></sup>]</span> remarks Burton, “with equal simplicity and pathos, has a fire, a force of language, and a depth of feeling, which the Irishman, admirable as his verse is, could never rival.” ([_Pilgrimage_](./errata.htm#2), vol. iii., p. 54.) Carlyle's translation, as follows, of these verses, however inadequately it may represent the beauties of the original, can hardly fail of pleasing the English reader, from the grace and smoothness of the rhythm:
+THE beautiful elegiac verses with which this masterpiece of ancient Arabic poetry opens have been compared, by Dr. Carlyle, to Goldsmith's _Deserted Village_. “But the Arab,” <span id="p383"><sup><small>[ p. 383 ]</small></sup></span> remarks Burton, “with equal simplicity and pathos, has a fire, a force of language, and a depth of feeling, which the Irishman, admirable as his verse is, could never rival.” ([_Pilgrimage_](./errata.htm#2), vol. iii., p. 54.) Carlyle's translation, as follows, of these verses, however inadequately it may represent the beauties of the original, can hardly fail of pleasing the English reader, from the grace and smoothness of the rhythm:
 
 THOSE dear abodes which once contained the fair
 &nbsp;&nbsp;Amidst Mitata's wilds I seek in vain;
@@ -64,7 +64,7 @@ The matted thistles, bending to the gale,
 Amidst the windings of that lonely vale
 &nbsp;&nbsp;The teeming antelope and ostrich stray:
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 The large-eyed mother of the herd, that flies
 &nbsp;&nbsp;Man's noisy haunts, here finds a sure retreat,
@@ -106,7 +106,7 @@ What graceful forms those envious folds enclose!
 Sure Weira's antelopes or Tudah's roes
 &nbsp;&nbsp;Through yonder veils their sportive young survey!
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 The band moved on—to trace their steps I strove;
 &nbsp;&nbsp;I saw them urge the camels’ hastening flight,
@@ -141,7 +141,7 @@ This is Mr. Lyall's rendering of the same passage, from his translation of Lebī
 7\. The large-eyed wild-kine lie down there by their young ones
 &nbsp;&nbsp;  just born, and their calves roam in herds over the plain.
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 8\. The torrents have scored afresh the traces of the tents, as though
 &nbsp;&nbsp;  they were lines of writing in a book which the pens make new again,
@@ -174,7 +174,7 @@ This is Mr. Lyall's rendering of the same passage, from his translation of Lebī
 
 \*\*\* The subjoined notes on Lebīd's Poem are, for the most part, adapted from those appended to Mr. Lyall's translation.
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 vv. 1, 2. Minia \[Mina\], a place in Dariyyeh, a province of Nejd, on the route from Mecca to el-Basrah. There is a valley of the same name near Mecca. Ghaul, er-Rijâm, and er-Rayyân, hills in the neighbourhood. \[Captain Burton renders these couplets as follows:
 
@@ -198,7 +198,7 @@ From this it is evident that writing and books were not so strange to the Arabs 
 
 v. 9. The reference here is to the _weshm_ or tracery pricked into the skin of a woman's hands and arms. The pattern is pricked out with a needle, and there is sprinkled over the skin and rubbed into it a preparation called _na’ûr_, which may either mean powdered indigo or powdered lamp-black. As the rains which deepened and broadened the traces of the tents are in v. 8 compared to a writer who goes over lines of writing again with a pen, so in v. 9 they are likened to a woman who renews the tattooing by sprinkling fresh pigment over the old lines; which being rubbed in, the lines appear afresh. \[Lane (“Modern Egyptians”) states that the females of the lower orders in Cairo tattoo upon the face, front of the chin, back of right hand, and arms. The operation is generally performed at the age of about five or six years, by gipsy women.\]
 
-v. 11. \[“Canals” see rite on v. 5, Zuheyr's Mo‘all.\] “Thumâm,” _i.e._ panic grass. Forskal (p. 20) says that the name is used for _Panicum Dichotomum;_ but it is applied by the <span id="p389">[<sup><small>p. 389</small></sup>]</span> Arabs to many species of _panicum_. The grass is used for thatching and for stuffing holes in the tents so as to keep out the weather.
+v. 11. \[“Canals” see rite on v. 5, Zuheyr's Mo‘all.\] “Thumâm,” _i.e._ panic grass. Forskal (p. 20) says that the name is used for _Panicum Dichotomum;_ but it is applied by the <span id="p389"><sup><small>[ p. 389 ]</small></sup></span> Arabs to many species of _panicum_. The grass is used for thatching and for stuffing holes in the tents so as to keep out the weather.
 
 v. 12. “Hid themselves in carriages”: the word used (_takannus_) is appropriate to the action of a hare or a fox creeping into its hole (_kinâs_).
 
@@ -215,7 +215,7 @@ v. 43. Mr. Lyall renders this couplet:
 And she shone in the face of the mirk with a white glimmering light
 &nbsp;&nbsp;  like a pearl born in a sea-shell that has dropped from its string,
 
-<span id="p390">[<sup><small>p. 390</small></sup>]</span>
+<span id="p390"><sup><small>[ p. 390 ]</small></sup></span>
 
 The restless roaming of the cow is compared to the pearl rolling about on the ground.
 
@@ -238,7 +238,7 @@ v. 58. “The flag of the wine-merchant.” Wine-shops were distinguished by fla
 
 vv, 60, 61. Morning draught: singing-girls—see Amriolkais, v. 74; Tarafa, vv. 46, 48-51; Amru, v. 1, and _Notes_.
 
-<span id="p391">[<sup><small>p. 391</small></sup>]</span>
+<span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
 v. 63. “A swift horse, whose girths resemble my sash adorned with gems.” Mr. Lyall translates this hemistich: “a swift mare, my girdle its reins as I went forth at dawn;” and explains that the poet “threw the bridle over his shoulders so that it became a girdle to him, in order that he might have his hands free for his weapons.”
 

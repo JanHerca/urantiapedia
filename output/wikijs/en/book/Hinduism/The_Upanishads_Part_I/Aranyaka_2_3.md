@@ -42,7 +42,7 @@ THIRD ADHYÂYA [^548].
 
 3\. To him who knows the food and the feeder in that uktha, a strong son is born, and food is never wanting. Herbs and trees are food, animals the feeder, for animals eat herbs and trees.
 
-4\. Of them again those who have teeth above <span id="p222">[<sup><small>p. 222</small></sup>]</span> and below, shaped after the likeness of man, are feeders, the other animals are food. Therefore these overcome the other animals, for the eater is over the food.
+4\. Of them again those who have teeth above <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> and below, shaped after the likeness of man, are feeders, the other animals are food. Therefore these overcome the other animals, for the eater is over the food.
 
 5\. He who knows this is over his friends.
 
@@ -56,7 +56,7 @@ Among animated beings again the self develops gradually, for in some sap (blood)
 
 4\. And in man again the self develops gradually, for he is most endowed with knowledge. He says what he has known, he sees what he has known [^553]. He knows what is to happen to-morrow, he knows heaven and hell. By means of the mortal he desires the immortal—thus is he endowed.
 
-5\. With regard to the other animals hunger and thirst only are a kind of understanding. But they do not say what they have known, nor do they see <span id="p223">[<sup><small>p. 223</small></sup>]</span> what they have known. They do not know what is to happen to-morrow, nor heaven and hell. They go so far and no further, for they are born according to their knowledge (in a former life).
+5\. With regard to the other animals hunger and thirst only are a kind of understanding. But they do not say what they have known, nor do they see <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> what they have known. They do not know what is to happen to-morrow, nor heaven and hell. They go so far and no further, for they are born according to their knowledge (in a former life).
 
 ## THIRD KHA<i>N</i><i>D</i>A.
 
@@ -70,7 +70,7 @@ Among animated beings again the self develops gradually, for in some sap (blood)
 
 5\. That man (conceived as uktha) is the sacrifice, which is a succession now of speech and now of thought. That sacrifice is fivefold, viz. the Agnihotra, the new and full moon sacrifices, the four-monthly sacrifices, the animal sacrifice, the Soma sacrifice. The Soma sacrifice is the most perfect of sacrifices, for in it these five kinds of ceremonies are seen: the first which precedes the libations (the Dîkshâ, &c.), then three libations, and what follows (the Avabh<i>ri</i>tha, &c.) is the fifth.
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 ## FOURTH KHA<i>N</i><i>D</i>A.
 
@@ -96,9 +96,9 @@ The five Sâmans are explained by the commentator. The p. 226 Gâyatra is formed
 
 The metres require no explanation.
 
-In identifying certain portions of the Nishkevalya hymn with a bird, the head of the bird corresponds to the hymns indram id gâthina<i>h</i>, &c.; the right wing to the hymns abhi tvâ <i>s</i>ûra, &c.; the left wing to the hymns tvâm id dhi, &c.; the tail to the hymns imâ nu kam, &c.; the body to the hymns tad id âsa, &c. All this was explained in the first Âra<i>n</i>yaka. <span id="p225">[<sup><small>p. 225</small></sup>]</span> 3\. He performs the Prastâva in five ways, he performs the Udgîtha in five ways, he performs the <span id="p226">[<sup><small>p. 226</small></sup>]</span> Pratihâra in five ways, he performs the Upadrava in five ways, he performs the Nidhana in five ways [^559]. All this together forms one thousand Stobhas, or musical syllables [^560].
+In identifying certain portions of the Nishkevalya hymn with a bird, the head of the bird corresponds to the hymns indram id gâthina<i>h</i>, &c.; the right wing to the hymns abhi tvâ <i>s</i>ûra, &c.; the left wing to the hymns tvâm id dhi, &c.; the tail to the hymns imâ nu kam, &c.; the body to the hymns tad id âsa, &c. All this was explained in the first Âra<i>n</i>yaka. <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> 3\. He performs the Prastâva in five ways, he performs the Udgîtha in five ways, he performs the <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> Pratihâra in five ways, he performs the Upadrava in five ways, he performs the Nidhana in five ways [^559]. All this together forms one thousand Stobhas, or musical syllables [^560].
 
-4\. Thus also are the <i>Ri</i><i>k</i> verses, contained in the Nishkevalya, recited (by the Hot<i>ri</i>) in five orders. What precedes the eighty t<i>ri</i><i>k</i>as, that is one order, then follow the three sets of eighty t<i>ri</i><i>k</i>as each, and what comes after is the fifth order [^561]. <span id="p227">[<sup><small>p. 227</small></sup>]</span> 5\. This (the hymns of this Sastra) as a whole (if properly counted with the Stobha syllables) comes to one thousand (of B<i>ri</i>hatî verses). That (thousand) is the whole, and ten, ten is called the whole. For number is such (measured by ten). Ten tens are a hundred, ten hundreds are a thousand, and that is the whole. These are the three metres (the tens, pervading everything). And this food also (the three sets of hymns being represented as food) is threefold, eating, drinking, and chewing. He obtains that food by those (three numbers, ten, hundred, and thousand, or by the three sets of eighty t<i>ri</i><i>k</i>as).
+4\. Thus also are the <i>Ri</i><i>k</i> verses, contained in the Nishkevalya, recited (by the Hot<i>ri</i>) in five orders. What precedes the eighty t<i>ri</i><i>k</i>as, that is one order, then follow the three sets of eighty t<i>ri</i><i>k</i>as each, and what comes after is the fifth order [^561]. <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> 5\. This (the hymns of this Sastra) as a whole (if properly counted with the Stobha syllables) comes to one thousand (of B<i>ri</i>hatî verses). That (thousand) is the whole, and ten, ten is called the whole. For number is such (measured by ten). Ten tens are a hundred, ten hundreds are a thousand, and that is the whole. These are the three metres (the tens, pervading everything). And this food also (the three sets of hymns being represented as food) is threefold, eating, drinking, and chewing. He obtains that food by those (three numbers, ten, hundred, and thousand, or by the three sets of eighty t<i>ri</i><i>k</i>as).
 
 ## FIFTH KHA<i>N</i><i>D</i>A.
 
@@ -110,7 +110,7 @@ In identifying certain portions of the Nishkevalya hymn with a bird, the head of
 
 4\. This has been said by a <i>Ri</i>shi (Rv. X, 124, 9):—
 
-5\. ‘Poets through their understanding discovered Indra dancing an Anush<i>t</i>ubh.’ This is meant to say: They discovered (and meditated) in speech (called Anush<i>t</i>ubh)—at that time (when they worshipped <span id="p228">[<sup><small>p. 228</small></sup>]</span> the uktha)—the Prâ<i>n</i>a (breath) connected with Indra.
+5\. ‘Poets through their understanding discovered Indra dancing an Anush<i>t</i>ubh.’ This is meant to say: They discovered (and meditated) in speech (called Anush<i>t</i>ubh)—at that time (when they worshipped <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> the uktha)—the Prâ<i>n</i>a (breath) connected with Indra.
 
 6\. He (who takes the recited verses as Anush<i>t</i>ubhs) is able to become celebrated and of good report.
 
@@ -122,7 +122,7 @@ In identifying certain portions of the Nishkevalya hymn with a bird, the head of
 
 10\. For the self (in the heart) is the middle of these members, and the B<i>ri</i>hatî is the middle of the metres.
 
-11\. ‘He is able to become celebrated and of good <span id="p229">[<sup><small>p. 229</small></sup>]</span> report, but (the other) able to die before his time,’ thus he said. For the B<i>ri</i>hatî is the complete self, therefore let him work towards the B<i>ri</i>hatî (let him reckon the <i>s</i>astra recitation as a thousand B<i>ri</i>hatîs).
+11\. ‘He is able to become celebrated and of good <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> report, but (the other) able to die before his time,’ thus he said. For the B<i>ri</i>hatî is the complete self, therefore let him work towards the B<i>ri</i>hatî (let him reckon the <i>s</i>astra recitation as a thousand B<i>ri</i>hatîs).
 
 ## SIXTH KHA<i>N</i><i>D</i>A.
 
@@ -138,7 +138,7 @@ In identifying certain portions of the Nishkevalya hymn with a bird, the head of
 
 6\. 'He (the Hot<i>ri</i>) makes the body out of Indra;—'for out of this thousand of B<i>ri</i>hatî verses turned into Anush<i>t</i>ubhs, and therefore out of Prâ<i>n</i>a as connected with Indra [^565], and out of the B<i>ri</i>hatî (which is Prâ<i>n</i>a), he makes speech, that is Anush<i>t</i>ubh, as a body [^566].
 
-7\. This Mahaduktha is the highest development <span id="p230">[<sup><small>p. 230</small></sup>]</span> of speech, and it is fivefold, viz. measured, not measured, music, true, and untrue.
+7\. This Mahaduktha is the highest development <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> of speech, and it is fivefold, viz. measured, not measured, music, true, and untrue.
 
 8\. A <i>Ri</i><i>k</i> verse, a gâthâ [^567], a kumbyâ [^568] are measured (metrical). A Ya<i>g</i>us line, an invocation, and general remarks [^569], these are not measured (they are in prose). A Sâman, or any portion (parvan) of it, is music. Om is true, Na is untrue.
 
@@ -148,7 +148,7 @@ In identifying certain portions of the Nishkevalya hymn with a bird, the head of
 
 11\. That syllable Om (yes) goes forward (to the first cause of the world) and is empty. Therefore if a man says Om (yes) to everything, then that (which he gives away) is wanting to him here [^571]. If he says Om (yes) to everything, then he would empty himself, and would not be capable of any enjoyments.
 
-12\. That syllable Na (no) is full for oneself [^572]. If a man says No to everything, then his reputation <span id="p231">[<sup><small>p. 231</small></sup>]</span> would become evil, and that would ruin him even here.
+12\. That syllable Na (no) is full for oneself [^572]. If a man says No to everything, then his reputation <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> would become evil, and that would ruin him even here.
 
 13\. Therefore let a man give at the proper time only, not at the wrong time. Thus he unites the true and the untrue, and from the union of those two he grows, and becomes greater and greater.
 
@@ -158,13 +158,13 @@ In identifying certain portions of the Nishkevalya hymn with a bird, the head of
 
 ## SEVENTH KHA<i>N</i><i>D</i>A.
 
-1\. This (nishkevalya-<i>s</i>astra) becomes perfect as a thousand of B<i>ri</i>hatîs. It is glory (the glorious Brahman, not the absolute Brahman), it is Indra. Indra is the lord of all beings. He who thus knows Indra as the lord of all beings, departs from this world by loosening the bonds of life [^573]\—so said Mahidâsa Aitareya. Having departed he becomes Indra (or Hira<i>n</i>yagarbha) and shines in those worlds [^574]. <span id="p232">[<sup><small>p. 232</small></sup>]</span> 2\. And with regard to this they say: ‘If a man obtains the other world in this form (by meditating on the prâ<i>n</i>a, breath, which is the uktha, the hymn of the mahâvrata), then in what form does he obtain this world [1](Aranyaka_2_3#fn575)?’
+1\. This (nishkevalya-<i>s</i>astra) becomes perfect as a thousand of B<i>ri</i>hatîs. It is glory (the glorious Brahman, not the absolute Brahman), it is Indra. Indra is the lord of all beings. He who thus knows Indra as the lord of all beings, departs from this world by loosening the bonds of life [^573]\—so said Mahidâsa Aitareya. Having departed he becomes Indra (or Hira<i>n</i>yagarbha) and shines in those worlds [^574]. <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> 2\. And with regard to this they say: ‘If a man obtains the other world in this form (by meditating on the prâ<i>n</i>a, breath, which is the uktha, the hymn of the mahâvrata), then in what form does he obtain this world [1](Aranyaka_2_3#fn575)?’
 
 3\. Here the blood of the woman is a form of Agni (fire); therefore no one should despise it. And the seed of the man is a form of Âditya (sun); therefore no one should despise it. This self (the woman) gives her self (skin, blood, and flesh) to that self (fat, bone, and marrow), and that self (man) gives his self (fat, bone, and marrow) to this self (skin, blood, and flesh). Thus [2](Aranyaka_2_3#fn576) these two grow together. In this form (belonging to the woman and to fire) he goes to that world (belonging to the man and the sun), and in that form (belonging to man and the sun) he goes to this world (belonging to the woman and to fire [3](Aranyaka_2_3#fn577)).
 
 ## EIGHTH KHA<i>N</i><i>D</i>A.
 
-1\. Here (with regard to obtaining Hira<i>n</i>yagarbha) there are these <i>S</i>lokas: <span id="p233">[<sup><small>p. 233</small></sup>]</span> 2\. The fivefold body into which the indestructible (prâ<i>n</i>a, breath) enters, that body which the harnessed horses (the senses) draw about, that body where the true of the true (the highest Brahman) follows after, in that body (of the worshipper) all gods [^578] become one.
+1\. Here (with regard to obtaining Hira<i>n</i>yagarbha) there are these <i>S</i>lokas: <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> 2\. The fivefold body into which the indestructible (prâ<i>n</i>a, breath) enters, that body which the harnessed horses (the senses) draw about, that body where the true of the true (the highest Brahman) follows after, in that body (of the worshipper) all gods [^578] become one.
 
 3\. That body into which goes the indestructible (the breath) which we have joined (in meditation), proceeding from the indestructible (the highest Brahman), that body which the harnessed horses (the senses) draw about, that body where the true of the true follows after, in that body all gods become one.
 
@@ -172,7 +172,7 @@ In identifying certain portions of the Nishkevalya hymn with a bird, the head of
 
 5\. That in which the poets rejoiced (the revealed nature of prâ<i>n</i>a, breath), in it the gods exist all joined together. Having driven away evil by means of that Brahman (which is hidden in prâ<i>n</i>a), the enlightened man goes to the Svarga world (becomes one with Hira<i>n</i>yagarbha [^580], the universal spirit).
 
-6\. No one wishing to describe him (prâ<i>n</i>a, breath) by speech, describes him by calling him ‘woman,’ ‘neither woman nor man,’ or ‘man’ (all such names applying only to the material body, and not to prâ<i>n</i>a or breath). <span id="p234">[<sup><small>p. 234</small></sup>]</span> 7\. Brahman (as hidden beneath prâ<i>n</i>a) is called the A; and the I (ego) is gone there (the worshipper should know that he is uktha and prâ<i>n</i>a).
+6\. No one wishing to describe him (prâ<i>n</i>a, breath) by speech, describes him by calling him ‘woman,’ ‘neither woman nor man,’ or ‘man’ (all such names applying only to the material body, and not to prâ<i>n</i>a or breath). <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> 7\. Brahman (as hidden beneath prâ<i>n</i>a) is called the A; and the I (ego) is gone there (the worshipper should know that he is uktha and prâ<i>n</i>a).
 
 8\. This becomes perfect as a thousand of B<i>ri</i>hatî verses, and of that hymn, perfect with a thousand Brihad verses, there are 36,000 syllables. So many are also the thousands of days of human life [^581]. By means of the syllable of life (the a) alone (which is contained in that thousand of hymns) does a man obtain the day of life (the mahâvrata day, which completes the number of the days in the Gavâmayana, sacrifice), and by means of the day of life (he obtains) the syllable of life.
 
@@ -182,7 +182,7 @@ In identifying certain portions of the Nishkevalya hymn with a bird, the head of
 
 11\. ‘Come hither on that which is quicker than mind,’ and (Rv. VIII, 73, 2) ‘Come hither on that which is quicker than the twinkling of an eye,’ yea, the twinkling of an eye [^582].
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 
 

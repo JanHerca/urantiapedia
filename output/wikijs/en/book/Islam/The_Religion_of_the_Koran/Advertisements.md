@@ -29,7 +29,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 The following advertisements appeared at the end of the original book. They are included for completeness.
 
@@ -55,7 +55,7 @@ THE BUSTĀN OF SADI. From the Persian. Translated with Introduction by A. Hart E
 
 A CHINESE QUIETIST. From the Mystical Philosophy of Liehtsze. Translated by Lionel Giles, M.A. 2/- net.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 _Just Out_
 
@@ -89,7 +89,7 @@ BRAHMA-KNOWLEDGE: An Outline of the Philosophy of the Vedãnta. As set forth by 
 
 THE CONDUCT OF LIFE; or, The Universal Order of Confucius. A translation of one of the four Confucian Books, hitherto known as the Doctrine of the Mean. By Ku Hung Ming, M.A. (Edin.). 1/- net.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 THE TEACHINGS OF ZOROASTER. Translated with Introduction by Dr, S. A. Kapadia Lecturer, University College, London. 2/- net.
 
@@ -123,7 +123,7 @@ I. The Book of History (Shu-King). By W. Gorn Old 1/- net.
 
 II. The Book of Odes (Shi-King). By L. Cranmer-Byng. 1/- net.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 THE SAYINGS OF LAO TZŬ From the Chinese. Translated with Introduction by Lionel Giles, of the British Museum. 1/- net.
 

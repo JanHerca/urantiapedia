@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p208">[<sup><small>p. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 1, SECTION 1,
 
@@ -42,7 +42,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 3\. [^645] ‘This, O Varu<i>n</i>a’ (&c.; see I, chap. 27, Sûtra 2, down to): ‘Hail! Good luck!’
 
-He then makes the wife who has taken a bath, who wears a clean dress and ornaments, and has spoken with a Brâhma<i>n</i>a, sit down to the west of the fire, facing the east, in a round apartment. Standing to the east (of the wife), facing the west he parts her hair upwards (i.e. beginning from the front) with a porcupine's quill that has three white spots, holding (also) a bunch of unripe fruits, with the Vyâh<i>n</i>tis (and) with the two (verses), ‘I invoke Râkâ,’ (and), ‘Thy graces, O Râkâ’ (Taitt. Sa<i>n</i>h. III, 3, 11, 5). Then he recites over (his wife the formulas), ‘Soma alone is our king, thus say the Brâhma<i>n</i>a tribes, sitting near thy banks, O Gaṅgâ, <span id="p209">[<sup><small>p. 209</small></sup>]</span> whose wheel does not roll back (?)!’ (and), ‘May we find our way with thee through all hostile powers, as through streams of water’ (above I, 20, 5).
+He then makes the wife who has taken a bath, who wears a clean dress and ornaments, and has spoken with a Brâhma<i>n</i>a, sit down to the west of the fire, facing the east, in a round apartment. Standing to the east (of the wife), facing the west he parts her hair upwards (i.e. beginning from the front) with a porcupine's quill that has three white spots, holding (also) a bunch of unripe fruits, with the Vyâh<i>n</i>tis (and) with the two (verses), ‘I invoke Râkâ,’ (and), ‘Thy graces, O Râkâ’ (Taitt. Sa<i>n</i>h. III, 3, 11, 5). Then he recites over (his wife the formulas), ‘Soma alone is our king, thus say the Brâhma<i>n</i>a tribes, sitting near thy banks, O Gaṅgâ, <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> whose wheel does not roll back (?)!’ (and), ‘May we find our way with thee through all hostile powers, as through streams of water’ (above I, 20, 5).
 
 
 
@@ -59,7 +59,7 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 5\. After she has sipped water, he touches her belly with (the formula), ‘With my ten (fingers) I touch. thee that thou mayst give birth to a child after ten months.’
 
-6\. [^647] (He pounds) the last shoot of a Nyagrodha trunk (and mixes the powder) with ghee, or a silkworm (and mixes the powder) with a pap prepared of panick seeds, or a splinter of a sacrificial post taken from the north-easterly part (of that post) exposed to the fire, or (he takes ashes or soot \[?\] of) <span id="p210">[<sup><small>p. 210</small></sup>]</span> a fire that has been kindled by attrition, and inserts that into the right nostril of (the wife) whose head rests on the widely spread root (of an Udumbara tree?).
+6\. [^647] (He pounds) the last shoot of a Nyagrodha trunk (and mixes the powder) with ghee, or a silkworm (and mixes the powder) with a pap prepared of panick seeds, or a splinter of a sacrificial post taken from the north-easterly part (of that post) exposed to the fire, or (he takes ashes or soot \[?\] of) <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> a fire that has been kindled by attrition, and inserts that into the right nostril of (the wife) whose head rests on the widely spread root (of an Udumbara tree?).
 
 7\. If she miscarries, he should three times stroke (her body), from the navel upwards, with her wet hand, with (the formula), 'Thitherwards, not hitherwards, may Tvash<i>t</i>_ri_ bind thee in his bonds. Making (the mother) enter upon the seasons, live ten months (in thy mother's womb); do not bring death to men.’
 
@@ -76,7 +76,7 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 ‘Be a stone, be an axe, be insuperable gold. Thou indeed art the Veda called son; so live a hundred autumns.
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 ‘From limb by limb thou art produced; out of the heart thou art born. Thou indeed art the self (âtman) called son; so live a hundred autumns.’
 
@@ -100,7 +100,7 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 (e) 'Ke<i>s</i>inî, <i>S</i>valominî, Ba<i>s</i>âbo<i>s</i>â, Upakâ<i>s</i>ini—go away, vanish from here. Svâhâ!
 
-(f) 'The servants of Kuvera, Vi<i>s</i>vavâsa (?), sent by the king of demons, all of one common origin, <span id="p212">[<sup><small>p. 212</small></sup>]</span> walk through the villages, visiting those who wake (?). Svâhâ!
+(f) 'The servants of Kuvera, Vi<i>s</i>vavâsa (?), sent by the king of demons, all of one common origin, <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> walk through the villages, visiting those who wake (?). Svâhâ!
 
 (g) '“Kill them! Bind them!” thus (says) this messenger of Brahman. Agni has encompassed them. Indra knows them; B<i>ri</i>haspati knows them; I the Brâhma<i>ri</i>a know them who seize (men), who have prominent teeth, rugged hair, hanging breasts. Svâhâ!
 
@@ -116,7 +116,7 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 ‘I know thy heart, O earth, that dwells in heaven, in the moon: thus may I, the lord of immortality, not weep over distress (falling to my lot) through my sons.’
 
-9\. Now (follows) the medhâ<i>g</i>anana (or production <span id="p213">[<sup><small>p. 213</small></sup>]</span> of intelligence). With (an instrument of) gold over which he has laid a Darbha shoot tied (to that piece of gold) he gives to the child, which is held so that it faces the east, ghee to eat, with the formulas, ‘Bhû_h_! I sacrifice the _Ri_<i>g</i>as over thee! Bhuva_h_! I sacrifice the Ya<i>g</i>us over thee! Suva_h_! I sacrifice the Sâmans over thee! Bhûr bhuva_h<i>g</i>h_! I sacrifice the Atharvan and Aṅgiras hymns over thee!’
+9\. Now (follows) the medhâ<i>g</i>anana (or production <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> of intelligence). With (an instrument of) gold over which he has laid a Darbha shoot tied (to that piece of gold) he gives to the child, which is held so that it faces the east, ghee to eat, with the formulas, ‘Bhû_h_! I sacrifice the _Ri_<i>g</i>as over thee! Bhuva_h_! I sacrifice the Ya<i>g</i>us over thee! Suva_h_! I sacrifice the Sâmans over thee! Bhûr bhuva_h<i>g</i>h_! I sacrifice the Atharvan and Aṅgiras hymns over thee!’
 
 10\. [^651] He then bathes the child with lukewarm water with (the following Mantras):
 
@@ -132,7 +132,7 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 ## PA<i>T</i>ALA 1, SECTION 4.
 
-1\. ‘The four divine quarters of the heaven, the consorts of Wind, whom the sun surveys: to their <span id="p214">[<sup><small>p. 214</small></sup>]</span> long life I turn thee; may consumption go away to destruction!’
+1\. ‘The four divine quarters of the heaven, the consorts of Wind, whom the sun surveys: to their <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> long life I turn thee; may consumption go away to destruction!’
 
 2\. [^652] Having placed (him there) he addresses (his wife with the Mantra), ‘May no demon do harm to thy son, no cow that rushes upon him (?). Mayst thou become the friend of treasures; mayst thou live in prosperity in thy own way.’
 
@@ -148,7 +148,7 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 8\. [^653] They take the Sûtikâgni away, and they bring the Aupâsana fire.
 
-9\. Having put wood on that fire, and having performed the rites down to the Vyâh<i>ri</i>ti oblations, they sacrifice twelve oblations with the verses, ‘May Dhât<i>ri</i> give us wealth’ (III, 3, II, 2-5); according to some (teachers they make) thirteen (oblations). <span id="p215">[<sup><small>p. 215</small></sup>]</span>
+9\. Having put wood on that fire, and having performed the rites down to the Vyâh<i>ri</i>ti oblations, they sacrifice twelve oblations with the verses, ‘May Dhât<i>ri</i> give us wealth’ (III, 3, II, 2-5); according to some (teachers they make) thirteen (oblations). <span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 10\. ‘This, O Varu<i>ri</i>a’ (&c.; see I, chap. 27, Sûtra 2, down to): ‘Hail! Good luck!’ Then let him give a name to the child, of two syllables or of four syllables, beginning with a sonant, with a semi-vowel in it, with a long vowel (or) the Visarga at its end, or a name that contains the particle su, for such a name has a firm foundation; thus it is understood.
 
@@ -164,7 +164,7 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 16\. When he returns from a journey, or when his son returns, he touches him with (the formula), 'With Soma's lustre I touch thee, with Agni's splendour, with the glory of the sun.’
 
-17\. [^656] With (the formula), ‘With the hu<i>m</i>kâra (the mystical syllable hu<i>m</i>) of the cattle I kiss thee, N.N.! For the sake of long life and of glory! Hu_m_!’ he <span id="p216">[<sup><small>p. 216</small></sup>]</span> kisses his head. Then he seizes with his right hand (his son's) right hand together with the thumb, with the five sections, ‘Agni is long-lived.’
+17\. [^656] With (the formula), ‘With the hu<i>m</i>kâra (the mystical syllable hu<i>m</i>) of the cattle I kiss thee, N.N.! For the sake of long life and of glory! Hu_m_!’ he <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> kisses his head. Then he seizes with his right hand (his son's) right hand together with the thumb, with the five sections, ‘Agni is long-lived.’
 
 18\. [^657] ‘May Agni bestow on thee long life everywhere’ (Taitt. Sa<i>m</i>h. I, 3, 14, 4)—this (verse) he murmurs in (his son's) right ear as above.
 
@@ -185,7 +185,7 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 1\. In the third year (he performs) the _K<i>û</i>d_âkarman (i.e. the tonsure of the child's head).
 
-2\. In the fortnight (&c., as in the preceding section, Sûtra 2, down to): ‘Hail! Good luck!’ The boy sits down to the west of the fire, facing the east; <span id="p217">[<sup><small>p. 217</small></sup>]</span>
+2\. In the fortnight (&c., as in the preceding section, Sûtra 2, down to): ‘Hail! Good luck!’ The boy sits down to the west of the fire, facing the east; <span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 3\. [^658] To the north (of the fire) his mother or a student (brahma<i>k</i>ârin) holds a lump of bull's dung;
 
@@ -207,7 +207,7 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 On the left side with (the Mantra), ‘(The razor) with which Pûshan has shaven (the beard) of B<i>ri</i>haspati, of Agni, of Indra, for the sake of long life, with that I shave thy (head), N.N.!’
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Before with (the Mantra), ‘That he may long live in joy, and may long see the sun.’
 

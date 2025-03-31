@@ -32,7 +32,7 @@ dateCreated: 2025-2-4T22:17:56Z
   </table>
 </figure>
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 <span id="t1"></span>
 
@@ -50,7 +50,7 @@ Trustworthiness . . . is the door of tranquillity to all the world; the best gar
 
 Make not light of any matter, but speak in Truthfulness and Sincerity.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 Refuse not to discharge the due reward of any one; respect possessors of talent; stain not tongues with slander.
 
@@ -80,7 +80,7 @@ Now, by the Grace and Authority of the Word of God, these four great barriers ha
 
 Certain laws and principles are necessary and indispensable for Persia; but it is suitable that these should be accomplished in accord with the wish of the Shah, the eminent doctors, and the great State authorities.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 The fear of God is the real guardian and the ideal protector. Flee from that which is redolent of corruption (or sedition).
 
@@ -96,7 +96,7 @@ Schools must first train the children in the principles of Religion, so that the
 
 The trustees (members) of the House of Justice must consult upon the ordinances as they are outwardly revealed in the Book, and then enforce of these whatever prove agreeable to them.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Moderation is desirable in every affair.
 
@@ -112,7 +112,7 @@ Deprive not yourselves of that which is created for you.
 
 Charity is beloved and acceptable before God, and is accounted the chief among all good deeds.
 
-The Reflective Faculty (or the Mind) is the depository of crafts, arts and sciences. Exert <span id="p89">[<sup><small>p. 89</small></sup>]</span> yourselves, so that the gems of knowledge and wisdom may proceed from this ideal mine, and conduce to the tranquillity and union of the different nations of the world.
+The Reflective Faculty (or the Mind) is the depository of crafts, arts and sciences. Exert <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> yourselves, so that the gems of knowledge and wisdom may proceed from this ideal mine, and conduce to the tranquillity and union of the different nations of the world.
 
 Under all circumstances, whether in adversity or comfort, in glory or affliction . . . show forth love and affection, compassion and union.
 
@@ -126,7 +126,7 @@ Knowledge is like unto wings for the being (of man) and is as a ladder for ascen
 
 Knowledge is the means of honour, prosperity, joy, gladness, happiness and exultation.
 
-He (The Bab) says in description of ‘He-whom-God-shall-manifest’;—‘Verily, He is the One who shall utter in all grades, “Verily, I am God. There is no God but Me, the Lord of all things, and all besides Me is created by Me! O ye My <span id="p90">[<sup><small>p. 90</small></sup>]</span> creatures! Ye are to worship Me!”’ Likewise, in another place, speaking of ‘He-whom-God-shall-manifest,’ he says, ‘Verily, I (The Bab) am the first one of those who worship Him.’
+He (The Bab) says in description of ‘He-whom-God-shall-manifest’;—‘Verily, He is the One who shall utter in all grades, “Verily, I am God. There is no God but Me, the Lord of all things, and all besides Me is created by Me! O ye My <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> creatures! Ye are to worship Me!”’ Likewise, in another place, speaking of ‘He-whom-God-shall-manifest,’ he says, ‘Verily, I (The Bab) am the first one of those who worship Him.’
 
 Now, man must reflect upon the ‘Worshipper’ (The Bab); and the ‘Worshipped One’ (Baha‘u‘llah); perchance the people of the earth may attain to a drop of the Sea of Knowledge, and comprehend the Station of this Manifestation. Verily, He hath appeared, and hath spoken in Truth. Blessed is he who confesses and acknowledges, and woe unto every remote denier.”
 

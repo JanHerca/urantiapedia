@@ -38,7 +38,7 @@ SEVENTH PRAPÂ<i>TH</i>AKA.
 
 1\. Nârada approached Sanatkumâra and said, ‘Teach me, Sir!’ Sanatkumâra said to him: ‘Please to tell me what you know; afterward I shall tell you what is beyond.’
 
-2\. Nârada said: 'I know the Rig-veda, Sir, the Ya<i>g</i>ur-veda, the Sâma-veda, as the fourth the Âtharva<i>n</i>a, as the fifth the Itihâsa-purâ<i>n</i>a (the Bhârata); the Veda of the Vedas (grammar); the Pitrya (the rules for the sacrifices for the ancestors); the Râ<i>s</i>i (the science of numbers); the Daiva (the science of portents); the Nidhi (the science of time); the Vâkovâkya (logic); the Ekâyana (ethics); the Deva-vidyâ (etymology); the Brahma-vidyâ (pronunciation, <i>s</i>ikshâ, ceremonial, kalpa, prosody, <i>kh</i>andas); the Bhûta-vidyâ (the science of demons); the Kshatra-vidyâ <span id="p110">[<sup><small>p. 110</small></sup>]</span> (the science of weapons); the Nakshatra-vidyâ (astronomy); the Sarpa and Deva<i>g</i>ana-vidyâ (the science of serpents or poisons, and the sciences of the genii, such as the making of perfumes, dancing, singing, playing, and other fine arts) [^300]. All this I know, Sir.
+2\. Nârada said: 'I know the Rig-veda, Sir, the Ya<i>g</i>ur-veda, the Sâma-veda, as the fourth the Âtharva<i>n</i>a, as the fifth the Itihâsa-purâ<i>n</i>a (the Bhârata); the Veda of the Vedas (grammar); the Pitrya (the rules for the sacrifices for the ancestors); the Râ<i>s</i>i (the science of numbers); the Daiva (the science of portents); the Nidhi (the science of time); the Vâkovâkya (logic); the Ekâyana (ethics); the Deva-vidyâ (etymology); the Brahma-vidyâ (pronunciation, <i>s</i>ikshâ, ceremonial, kalpa, prosody, <i>kh</i>andas); the Bhûta-vidyâ (the science of demons); the Kshatra-vidyâ <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> (the science of weapons); the Nakshatra-vidyâ (astronomy); the Sarpa and Deva<i>g</i>ana-vidyâ (the science of serpents or poisons, and the sciences of the genii, such as the making of perfumes, dancing, singing, playing, and other fine arts) [^300]. All this I know, Sir.
 
 3\. ‘But, Sir, with all this I know the Mantras only, the sacred books, I do not know the Self. I have heard from men like you, that he who knows the Self overcomes grief. I am in grief. Do, Sir, help me over this grief of mine.’
 
@@ -46,7 +46,7 @@ Sanatkumâra, said to him: 'Whatever you have read, is only a name.
 
 4\. 'A name is the Rig-veda, Ya<i>g</i>ur-veda, Sâma-veda, and as the fourth the Âtharvana, as the fifth the Itihâsa-purâ<i>n</i>a, the Veda of the Vedas, the Pitrya, the Râ<i>s</i>i, the Daiva, the Nidhi, the Vâkovâkya, the Ekâyana, the Deva-vidyâ, the Brahma-vidyâ, the Bhûta-vidyâ, the Kshatra-vidyâ, the Nakshatra-vidyâ, the Sarpa and Devagana-vidyâ. All these are a name only. Meditate on the name.
 
-5\. ‘He who meditates on the name as Brahman [^301], <span id="p111">[<sup><small>p. 111</small></sup>]</span> is, as it were, lord and master as far as the name reaches-he who meditates on the name as Brahman.’
+5\. ‘He who meditates on the name as Brahman [^301], <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> is, as it were, lord and master as far as the name reaches-he who meditates on the name as Brahman.’
 
 ‘Sir, is there something better than a name?’
 
@@ -68,7 +68,7 @@ Sanatkumâra, said to him: 'Whatever you have read, is only a name.
 ‘Sir, tell it me.’
 
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ## THIRD KHA<i>N</i><i>D</i>A.
 
@@ -87,7 +87,7 @@ Sanatkumâra, said to him: 'Whatever you have read, is only a name.
 
 1\. 'Will [^304] (saṅkalpa) is better than mind. For when a man wills, then he thinks in his mind, then he sends forth speech, and he sends it forth in a name. In a name the sacred hymns are contained, in the sacred hymns all sacrifices.
 
-2\. 'All these therefore (beginning with mind and <span id="p113">[<sup><small>p. 113</small></sup>]</span> ending in sacrifice) centre in will, consist of will, abide in will. Heaven and earth willed, air and ether willed, water and fire willed. Through the will of heaven and earth &c. rain wills; through the will of rain food wills; through the will of food the vital airs will; through the will of the vital airs the sacred hymns will; through the will of the sacred hymns the sacrifices will; through the will of the sacrifices the world (as their reward) wills; through the will of the world everything wills [1](Khandogya_7#fn305). This is will. Meditate on will.
+2\. 'All these therefore (beginning with mind and <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> ending in sacrifice) centre in will, consist of will, abide in will. Heaven and earth willed, air and ether willed, water and fire willed. Through the will of heaven and earth &c. rain wills; through the will of rain food wills; through the will of food the vital airs will; through the will of the vital airs the sacred hymns will; through the will of the sacred hymns the sacrifices will; through the will of the sacrifices the world (as their reward) wills; through the will of the world everything wills [1](Khandogya_7#fn305). This is will. Meditate on will.
 
 3\. ‘He who meditates on will as Brahman, he, being himself safe, firm, and undistressed, obtains the safe, firm, and undistressed worlds which he has willed; he is, as it were, lord and master as far as will reaches—he who meditates on will as Brahman.’
 
@@ -100,7 +100,7 @@ Sanatkumâra, said to him: 'Whatever you have read, is only a name.
 
 ## FIFTH KHA<i>N</i><i>D</i>A.
 
-1\. 'Consideration (<i>k</i>itta) [^306] is better than will. For when a man considers, then he wills, then he thinks in his mind, then he sends forth speech, and he <span id="p114">[<sup><small>p. 114</small></sup>]</span> sends it forth in a name. In a name the sacred hymns are contained, in the sacred hymns all sacrifices.
+1\. 'Consideration (<i>k</i>itta) [^306] is better than will. For when a man considers, then he wills, then he thinks in his mind, then he sends forth speech, and he <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> sends it forth in a name. In a name the sacred hymns are contained, in the sacred hymns all sacrifices.
 
 2\. 'All these (beginning with mind and ending in sacrifice) centre in consideration, consist of consideration, abide in consideration. Therefore if a man is inconsiderate, even if he possesses much learning, people say of him, he is nothing, whatever he may know; for, if he were learned, he would not be so inconsiderate. But if a man is considerate, even though he knows but little, to him indeed do people listen gladly. Consideration is the centre, consideration is the self, consideration is the support of all these. Meditate on consideration.
 
@@ -115,7 +115,7 @@ Sanatkumâra, said to him: 'Whatever you have read, is only a name.
 
 ## SIXTH KHA<i>N</i><i>D</i>A.
 
-1\. 'Reflection (dhyâna) [^307] is better than consideration. The earth reflects, as it were, and thus does the sky, the heaven, the water, the mountains, gods and men. Therefore those who among men obtain <span id="p115">[<sup><small>p. 115</small></sup>]</span> greatness here on earth, seem to have obtained a part of the object of reflection (because they show a certain repose of manner). Thus while small and vulgar people are always quarrelling, abusive, and slandering, great men seem to have obtained a part of the reward of reflection. Meditate on reflection.
+1\. 'Reflection (dhyâna) [^307] is better than consideration. The earth reflects, as it were, and thus does the sky, the heaven, the water, the mountains, gods and men. Therefore those who among men obtain <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> greatness here on earth, seem to have obtained a part of the object of reflection (because they show a certain repose of manner). Thus while small and vulgar people are always quarrelling, abusive, and slandering, great men seem to have obtained a part of the reward of reflection. Meditate on reflection.
 
 2\. ‘He who meditates on reflection as Brahman, is lord and master, as it were, as far as reflection reaches—he who meditates on reflection as Brahman.’
 
@@ -130,7 +130,7 @@ Sanatkumâra, said to him: 'Whatever you have read, is only a name.
 
 1\. 'Understanding (vi<i>g</i>ñâna) is better than reflection. Through understanding we understand the Rig-veda, the Ya<i>g</i>ur-veda, the Sâma-veda, and as the fourth the Âtharvana, as the fifth the Itihâsa-purâ<i>n</i>a [^308], the Veda of the Vedas, the Pitrya, the Râ<i>s</i>i, the Daiva, the Nidhi, the Vâkovâkya, the Ekâyana, the Deva-vidyâ, the Brahma-vidyâ, the Bhûta-vidyâ, the Kshatra-vidyâ, the Nakshatra-vidyâ, the Sarpa and Deva<i>g</i>ana-vidyâ, heaven, earth, air, ether, water, fire, gods, men, cattle, birds, herbs, trees, all beasts down to worms, midges, and ants; what is right and what is wrong; what is true and what is false; what is good and what is bad; what is pleasing and what is not pleasing; food and savour, this world and that, all this we understand through understanding. Meditate on understanding.
 
-2\. ‘He who meditates on understanding as Brahman, reaches the worlds where there is understanding <span id="p116">[<sup><small>p. 116</small></sup>]</span> and knowledge [^309]; he is, as it were, lord and master as far as understanding reaches—he who meditates on understanding as Brahman.’
+2\. ‘He who meditates on understanding as Brahman, reaches the worlds where there is understanding <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> and knowledge [^309]; he is, as it were, lord and master as far as understanding reaches—he who meditates on understanding as Brahman.’
 
 ‘Sir, is there something better than understanding?’
 
@@ -154,7 +154,7 @@ Sanatkumâra, said to him: 'Whatever you have read, is only a name.
 
 ## NINTH KHA<i>N</i><i>D</i>A.
 
-1\. 'Food (anna) is better than power. Therefore if a man abstain from food for ten days, though he live, he would be unable to see, hear, perceive, think, act, and understand. But when he obtains <span id="p117">[<sup><small>p. 117</small></sup>]</span> food, he is able to see, hear, perceive, think, act, and understand. Meditate on food.
+1\. 'Food (anna) is better than power. Therefore if a man abstain from food for ten days, though he live, he would be unable to see, hear, perceive, think, act, and understand. But when he obtains <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> food, he is able to see, hear, perceive, think, act, and understand. Meditate on food.
 
 2\. ‘He who meditates on food as Brahman, obtains the worlds rich in food and drink; he is, as it were, lord and master as far as food reaches—he who meditates on food as Brahman.’
 
@@ -180,7 +180,7 @@ Sanatkumâra, said to him: 'Whatever you have read, is only a name.
 
 ## ELEVENTH KHA<i>N</i><i>D</i>A.
 
-1\. 'Fire (te<i>g</i>as) is better than water. For fire united with air, warms the ether. Then people say, It is hot, it burns, it will rain. Thus does fire, after showing this sign (itself) first, create water. And <span id="p118">[<sup><small>p. 118</small></sup>]</span> thus again thunderclaps come with lightnings, flashing upwards and across the sky. Then people say, There is lightning and thunder, it will rain. Then also does fire, after showing this sign first, create water. Meditate on fire.
+1\. 'Fire (te<i>g</i>as) is better than water. For fire united with air, warms the ether. Then people say, It is hot, it burns, it will rain. Thus does fire, after showing this sign (itself) first, create water. And <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> thus again thunderclaps come with lightnings, flashing upwards and across the sky. Then people say, There is lightning and thunder, it will rain. Then also does fire, after showing this sign first, create water. Meditate on fire.
 
 2\. ‘He who meditates on fire as Brahman, obtains, resplendent himself, resplendent worlds, full of light and free of darkness; he is, as it were, lord and master as far as fire reaches—he who meditates on fire as Brahman.’
 
@@ -199,7 +199,7 @@ Sanatkumâra, said to him: 'Whatever you have read, is only a name.
 
 ‘Sir, is there something better than ether?’
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Yes, there Is something better than ether.’
 
@@ -232,7 +232,7 @@ Yes, there Is something better than ether.’
 ‘Sir, tell it me.’
 
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 ## FIFTEENTH KHA<i>N</i><i>D</i>A.
 
@@ -242,7 +242,7 @@ Yes, there Is something better than ether.’
 
 3\. 'But, if after the spirit has departed from them, one shoves them together with a poker, and burns them to pieces, no one would say, Thou offendest thy father, mother, brother, sister, tutor or a Brâhma<i>n</i>a.
 
-4\. ‘Spirit then is all this. He who sees this, perceives this, and understands this, becomes an ativâdin [^316]. If people say to such a man, Thou <span id="p121">[<sup><small>p. 121</small></sup>]</span> art an ativâdin, he may say, I am an ativâdin; he need not deny it.’
+4\. ‘Spirit then is all this. He who sees this, perceives this, and understands this, becomes an ativâdin [^316]. If people say to such a man, Thou <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> art an ativâdin, he may say, I am an ativâdin; he need not deny it.’
 
 
 ## SIXTEENTH KHA<i>N</i><i>D</i>A [1](Khandogya_7#fn317).
@@ -270,7 +270,7 @@ Yes, there Is something better than ether.’
 ‘Sir, I desire to understand it.’
 
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 ## NINETEENTH KHA<i>N</i><i>D</i>A.
 
@@ -299,7 +299,7 @@ Yes, there Is something better than ether.’
 ‘Sir, I desire to understand it.’
 
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 ## TWENTY-THIRD KHA<i>N</i><i>D</i>A.
 
@@ -321,7 +321,7 @@ Yes, there Is something better than ether.’
 
 1\. 'The Infinite indeed is below, above, behind, before, right and left—it is indeed all this.
 
-‘Now follows the explanation of the Infinite as <span id="p124">[<sup><small>p. 124</small></sup>]</span> the I: I am below, I am above, I am behind, before, right and left—I am all this.
+‘Now follows the explanation of the Infinite as <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> the I: I am below, I am above, I am behind, before, right and left—I am all this.
 
 2\. 'Next follows the explanation of the Infinite as the Self: Self is below, above, behind, before, right and left—Self is all this.
 
@@ -336,7 +336,7 @@ Yes, there Is something better than ether.’
 
 2\. 'There is this verse, "He who sees this, does not see death, nor illness, nor pain; he who sees this, sees everything, and obtains everything everywhere.
 
-‘“He is one (before creation), he becomes three <span id="p125">[<sup><small>p. 125</small></sup>]</span> (fire, water, earth), he becomes five, he becomes seven, he becomes nine; then again he is called the eleventh, and hundred and ten and one thousand and twenty [^324].”
+‘“He is one (before creation), he becomes three <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> (fire, water, earth), he becomes five, he becomes seven, he becomes nine; then again he is called the eleventh, and hundred and ten and one thousand and twenty [^324].”
 
 ‘When the intellectual aliment has been purified, the whole nature becomes purified. When the whole nature has been purified, the memory becomes firm. And when the memory (of the Highest Self) remains firm, then all the ties (which bind us to a belief in anything but the Self) are loosened.
 

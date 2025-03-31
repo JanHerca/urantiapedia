@@ -40,7 +40,7 @@ Then when it is grown up and big, fat and of a large belly, fattened and of a pl
 
 As long as no guest comes, the poor (animal) lives; but as soon as a guest arrives, its head is cut off, and it is eaten. (3)
 
-As this ram is well treated for the sake of <span id="p28">[<sup><small>p. 28</small></sup>]</span> a guest, even so an ignorant, great sinner longs (as it were) for life in hell. (4)
+As this ram is well treated for the sake of <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> a guest, even so an ignorant, great sinner longs (as it were) for life in hell. (4)
 
 An ignorant man kills, tells lies, robs on the highway, steals foreign goods, deceives, (always thinking of some one) whom he could plunder, the villain. (5)
 
@@ -54,7 +54,7 @@ Then the sinner who has been killing living beings, at the end of his life falls
 
 As a man for the sake of one Kâkinî [^117] (risks and) loses a thousand (Kârshâpa<i>n</i>as), or as the king lost his kingdom (and life) by eating a mango-fruit which he was strictly forbidden (by his physician) [^118]: (11)
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Even so are human pleasures compared with the pleasures of the gods: divine life and pleasures surpass (the former) a thousand times and more. (12)
 
@@ -66,7 +66,7 @@ The capital is human life, the gain is heaven; through the loss of that capital 
 
 These are the two courses open to the sinner; they consist in misery, as corporal punishment, &c.; for the slave to his lusts [^121] has forfeited human life and divine life. (17)
 
-Having once forfeited them, he will have to endure these two states of misery; it will be <span id="p30">[<sup><small>p. 30</small></sup>]</span> difficult for him to attain an upward course [^122] for a long time to come. (18)
+Having once forfeited them, he will have to endure these two states of misery; it will be <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> difficult for him to attain an upward course [^122] for a long time to come. (18)
 
 Considering what is at stake, one should weigh (the chances of) the sinner and of the virtuous man (in one's mind).
 
@@ -80,7 +80,7 @@ When one thus knows that a (virtuous) monk or householder will be gladdened (by 
 
 As a drop of water at the top of a blade of Ku<i>s</i>a-grass dwindles down to naught when compared with the ocean, so do human pleasures when compared with divine pleasures. (23)
 
-The pleasures in this very limited life of men are like (the water at) the top of a blade of Ku<i>s</i>a-grass; for the sake of what will a man not care to gain and <span id="p31">[<sup><small>p. 31</small></sup>]</span> to keep (so precious a good which he risks to lose)? (24)
+The pleasures in this very limited life of men are like (the water at) the top of a blade of Ku<i>s</i>a-grass; for the sake of what will a man not care to gain and <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> to keep (so precious a good which he risks to lose)? (24)
 
 He who has not renounced pleasure, will miss his aim (i.e. the true end of his soul); for though he has been taught the right way, he will go astray again and again. (25)
 

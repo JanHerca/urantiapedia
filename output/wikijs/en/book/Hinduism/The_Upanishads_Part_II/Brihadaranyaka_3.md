@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 THIRD ADHYÂYA.
 
@@ -50,7 +50,7 @@ He replied: ‘O glory of the Sâman [^386]’ and drove them away.
 
 The Brâhma<i>n</i>as became angry and said: ‘How could he call himself the wisest among us?’
 
-Now there was A<i>s</i>vala, the Hot<i>ri</i> priest of <i>G</i>anaka Vaideha. He asked him: ‘Are you indeed the <span id="p122">[<sup><small>p. 122</small></sup>]</span> wisest among us, O Yâ<i>g</i>_ñ_avalkya?’ He replied: ‘I bow before the wisest (the best knower of Brahman), but I wish indeed to have these cows.’
+Now there was A<i>s</i>vala, the Hot<i>ri</i> priest of <i>G</i>anaka Vaideha. He asked him: ‘Are you indeed the <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> wisest among us, O Yâ<i>g</i>_ñ_avalkya?’ He replied: ‘I bow before the wisest (the best knower of Brahman), but I wish indeed to have these cows.’
 
 Then A<i>s</i>vala, the Hot<i>ri</i> priest, undertook to question him.
 
@@ -64,7 +64,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘By the Adhvaryu priest, who is the eye, who is �
 
 5\. ‘Yâ<i>g</i>_ñ_avalkya,’ he said, ‘everything here is reached by the waxing and waning of the moon, everything is overcome by the waxing and waning of the moon. By what means then is the sacrificer freed beyond the reach of the waxing and waning of the moon?’
 
-Yâ<i>g</i>_ñ_avalkya said: ‘By the Udgât<i>ri</i> priest, who is Vâyu (the wind), who is the breath. For the <span id="p123">[<sup><small>p. 123</small></sup>]</span> breath is the Udgât<i>ri</i> of the sacrifice, and the breath is the wind, and he is the Udgât<i>ri</i>. This constitutes freedom, and perfect freedom.’
+Yâ<i>g</i>_ñ_avalkya said: ‘By the Udgât<i>ri</i> priest, who is Vâyu (the wind), who is the breath. For the <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> breath is the Udgât<i>ri</i> of the sacrifice, and the breath is the wind, and he is the Udgât<i>ri</i>. This constitutes freedom, and perfect freedom.’
 
 6\. ‘Yâ<i>g</i>_ñ_avalkya,’ he said, ‘this sky is, as it were, without an ascent (staircase.) By what approach does the sacrificer approach the Svarga world?’
 
@@ -92,7 +92,7 @@ Next follow the achievements.
 
 ‘Those which, when offered, flame up; those which, when offered, make an excessive noise; and those which, when offered, sink down [^389].’
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 ‘What does he gain by them?’
 
@@ -118,7 +118,7 @@ Next follow the achievements.
 
 ‘The Puronuvâkyâ is Prâ<i>n</i>a (up-breathing), the Yâ<i>g</i>yâ the Apâ<i>n</i>a (down-breathing), the <i>S</i>asyâ the Vyâna (back-breathing).’
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 ‘What does he gain by them?’
 
@@ -145,7 +145,7 @@ After that A<i>s</i>vala held his peace.
 
 6\. ‘The ear is one Graha, and that is seized by sound as the Atigrâha, for with the ear one hears sounds.’
 
-7\. ‘The mind is one Graha, and that is seized by <span id="p126">[<sup><small>p. 126</small></sup>]</span> desire as the Atigrâha, for with the mind one desires desires.’
+7\. ‘The mind is one Graha, and that is seized by <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> desire as the Atigrâha, for with the mind one desires desires.’
 
 8\. ‘The arms are one Graha, and these are seized by work as the Atigrâha, for with the arms one works work.’
 
@@ -163,7 +163,7 @@ After that A<i>s</i>vala held his peace.
 
 ‘The name,’ he replied; ‘for the name is endless, the Vi<i>s</i>vedevas are endless, and by it he gains the endless world.’
 
-13\. ‘Yâ<i>g</i>_ñ_avalkya,’ he said,‘ when the speech of this dead person enters into the fire [^395], breath into the air, the eye into the sun, the mind into the moon, the hearing into space, into the earth the body, into the ether the self, into the shrubs the hairs of the body, into the trees the hairs of the head, when the <span id="p127">[<sup><small>p. 127</small></sup>]</span> blood and the seed are deposited in the water, where is then that person?’
+13\. ‘Yâ<i>g</i>_ñ_avalkya,’ he said,‘ when the speech of this dead person enters into the fire [^395], breath into the air, the eye into the sun, the mind into the moon, the hearing into space, into the earth the body, into the ether the self, into the shrubs the hairs of the body, into the trees the hairs of the head, when the <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> blood and the seed are deposited in the water, where is then that person?’
 
 Yâ<i>g</i>_ñ_avalkya said: ‘Take my hand, my friend. We two alone shall know of this; let this question of ours not be (discussed) in public.’ Then these two went out and argued, and what they said was karman (work), what they praised was karman [^396], viz. that a man becomes good by good work, and bad by bad work. After that <i>G</i>âratkârava Ârtabhâga held his peace.
 
@@ -176,7 +176,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘Take my hand, my friend. We two alone shall know
 
 He said: ‘And where do they go who have performed a horse-sacrifice?’
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya replied: ‘Thirty-two journeys of the car of the sun is this world. The earth surrounds it on every side, twice as large, and the ocean surrounds this earth on every side, twice as large. Now there is between [^400] them a space as large as the edge of a razor or the wing of a mosquito. Indra, having become a bird, handed them (through the space) to Vâyu (the air), and Vâyu (the air), holding them within himself, conveyed them to where they dwell who have performed a horse-sacrifice. Somewhat in this way did he praise Vâyu indeed. Therefore Vâyu (air) is everything by itself, and Vâyu is all things together. He who knows this, conquers death.’ After that Bhugyu Lâhyâyani held his peace.
 
@@ -189,7 +189,7 @@ Yâ<i>g</i>_ñ_avalkya replied: ‘This, thy Self, who is within all.’
 
 ‘Which Self, O Yâ<i>g</i>_ñ_avalkya, is within all?’
 
-Yâ<i>g</i>_ñ_avalkya replied: ‘He who breathes in the up-breathing, he is thy Self, and within all. He who breathes in the down-breathing, he is thy Self, and within all. He who breathes in the on-breathing, he is thy Self, and within all. He who breathes in <span id="p129">[<sup><small>p. 129</small></sup>]</span> the out-breathing, he is thy Self, and within all. This is thy Self, who is within all.’
+Yâ<i>g</i>_ñ_avalkya replied: ‘He who breathes in the up-breathing, he is thy Self, and within all. He who breathes in the down-breathing, he is thy Self, and within all. He who breathes in the on-breathing, he is thy Self, and within all. He who breathes in <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> the out-breathing, he is thy Self, and within all. This is thy Self, who is within all.’
 
 2\. Ushasta Kâkrâya<i>n</i>a said: ‘As one might say, this is a cow, this is a horse, thus has this been explained by thee. Tell me the Brahman which is visible, not invisible, the Self, who is within all.’
 
@@ -208,7 +208,7 @@ Yâ<i>g</i>_ñ_avalkya replied: ‘This, thy Self, who is within all.’
 
 ‘Which Self, O Yâ<i>g</i>_ñ_avalkya, is within all?’
 
-Yâ<i>g</i>_ñ_avalkya replied: ‘He who overcomes hunger and thirst, sorrow, passion, old age, and death. When Brâhma<i>n</i>as know that Self, and have risen above the desire for sons [^404], wealth, and (new) worlds [^405], they wander about as mendicants. For a desire for sons is desire for wealth, a desire for wealth is desire for worlds. Both these are indeed desires. Therefore let a Brâhma<i>n</i>a, after he has done with learning, <span id="p130">[<sup><small>p. 130</small></sup>]</span> wish to stand by real strength [^406]; after he has done with that strength and learning, he becomes a Muni (a Yogin); and after he has done with what is not the knowledge of a Muni, and with what is the knowledge of a Muni, he is a Brâhma<i>n</i>a. By whatever means he has become a Brâhma<i>n</i>a, he is such indeed [^407]. Everything else is of evil.’ After that Kahola Kaushîtakeya held his peace.
+Yâ<i>g</i>_ñ_avalkya replied: ‘He who overcomes hunger and thirst, sorrow, passion, old age, and death. When Brâhma<i>n</i>as know that Self, and have risen above the desire for sons [^404], wealth, and (new) worlds [^405], they wander about as mendicants. For a desire for sons is desire for wealth, a desire for wealth is desire for worlds. Both these are indeed desires. Therefore let a Brâhma<i>n</i>a, after he has done with learning, <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> wish to stand by real strength [^406]; after he has done with that strength and learning, he becomes a Muni (a Yogin); and after he has done with what is not the knowledge of a Muni, and with what is the knowledge of a Muni, he is a Brâhma<i>n</i>a. By whatever means he has become a Brâhma<i>n</i>a, he is such indeed [^407]. Everything else is of evil.’ After that Kahola Kaushîtakeya held his peace.
 
 
 ## SIXTH BRÂHMA<i>N</i>A [^408].
@@ -225,7 +225,7 @@ Yâ<i>g</i>_ñ_avalkya replied: ‘He who overcomes hunger and thirst, sorrow, p
 
 ‘In the worlds of the Gandharvas, O Gârgî,’ he replied.
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 ‘In what then are the worlds of the Gandharvas woven, like warp and woof?’
 
@@ -260,7 +260,7 @@ Yâ<i>g</i>_ñ_avalkya replied: ‘He who overcomes hunger and thirst, sorrow, p
 Yâ<i>g</i>_ñ_avalkya said: ‘O Gârgî, Do not ask too much, lest thy head should fall off. Thou askest too much about a deity about which we are not to ask too much [^409]. Do not ask too much, O Gârgî.’ After that Gargî Vâ<i>k</i>aknavî held her peace.
 
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 ## SEVENTH BRÂHMA<i>N</i>A [^410].
 
@@ -268,7 +268,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘O Gârgî, Do not ask too much, lest thy head sh
 
 Yâ<i>g</i>_ñ_avalkya said: ‘O Gautama, I believe I know that thread and the puller within.’
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 The other said: ‘Anybody may say, I know, I know. Tell what thou knowest.’
 
@@ -284,7 +284,7 @@ The other said: ‘So it is, O Yâ<i>g</i>_ñ_avalkya. Tell now (who is) the pul
 
 6\. ‘He who dwells in the sky, and within the sky, whom the sky does not know, whose body the sky is, and who pulls (rules) the sky within, he is thy Self, the puller (ruler) within, the immortal.’
 
-7\. ‘He who dwells in the air (vâyu), and within the air, whom the air does not know, whose body the <span id="p134">[<sup><small>p. 134</small></sup>]</span> air is, and who pulls (rules) the air within, he is thy Self, the puller (ruler) within, the immortal.’
+7\. ‘He who dwells in the air (vâyu), and within the air, whom the air does not know, whose body the <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> air is, and who pulls (rules) the air within, he is thy Self, the puller (ruler) within, the immortal.’
 
 8\. ‘He who dwells in the heaven (dyu), and within the heaven, whom the heaven does not know, whose body the heaven is, and who pulls (rules) the heaven within, he is thy Self, the puller (ruler) within, the immortal.’
 
@@ -298,7 +298,7 @@ The other said: ‘So it is, O Yâ<i>g</i>_ñ_avalkya. Tell now (who is) the pul
 
 13\. ‘He who dwells in the darkness (tamas), and within the darkness, whom the darkness does not know, whose body the darkness is, and who pulls (rules) the darkness within, he is thy Self, the puller (ruler) within, the immortal.’
 
-14\. ‘He who dwells in the light (te<i>g</i>as), and within the light, whom the light does not know, whose <span id="p135">[<sup><small>p. 135</small></sup>]</span> body the light is, and who pulls (rules) the light within, he is thy Self, the puller (ruler) within, the immortal.’
+14\. ‘He who dwells in the light (te<i>g</i>as), and within the light, whom the light does not know, whose <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> body the light is, and who pulls (rules) the light within, he is thy Self, the puller (ruler) within, the immortal.’
 
 So far with respect to the gods (adhidaivatam); now with respect to beings (adhibhûtam).
 
@@ -314,7 +314,7 @@ So far with respect to the gods (adhidaivatam); now with respect to beings (adhi
 
 20\. ‘He who dwells in the mind, and within the mind, whom the mind does not know, whose body the mind is, and who pulls (rules) the mind within, he is thy Self, the puller (ruler) within, the immortal.’
 
-21\. ‘He who dwells in the skin, and within the skin, whom the skin does not know, whose body the <span id="p136">[<sup><small>p. 136</small></sup>]</span> skin is, and who pulls (rules) the skin within, he is thy Self, the puller (ruler) within, the immortal.’
+21\. ‘He who dwells in the skin, and within the skin, whom the skin does not know, whose body the <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> skin is, and who pulls (rules) the skin within, he is thy Self, the puller (ruler) within, the immortal.’
 
 22\. ‘He who dwells in knowledge [^413], and within knowledge, whom knowledge does not know, whose body knowledge is, and who pulls (rules) knowledge within, he is thy Self, the puller (ruler) within, the immortal.’
 
@@ -327,7 +327,7 @@ So far with respect to the gods (adhidaivatam); now with respect to beings (adhi
 
 Yâ<i>g</i>_ñ_avalkya said: ‘Ask, O Gârgî.’
 
-2\. She said: ‘O Yâ<i>g</i>_ñ_avalkya, as the son of a warrior from the Kâ<i>s</i>îs or Videhas might string his loosened bow, take two pointed foe-piercing arrows in his hand and rise to do battle, I have risen to <span id="p137">[<sup><small>p. 137</small></sup>]</span> fight thee with two questions. Answer me these questions.’
+2\. She said: ‘O Yâ<i>g</i>_ñ_avalkya, as the son of a warrior from the Kâ<i>s</i>îs or Videhas might string his loosened bow, take two pointed foe-piercing arrows in his hand and rise to do battle, I have risen to <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> fight thee with two questions. Answer me these questions.’
 
 Yâ<i>g</i>_ñ_avalkya said: ‘Ask, O Gârgî.’
 
@@ -345,13 +345,13 @@ Yâ<i>g</i>_ñ_avalkya said [^417]: ‘Ask, O Gârgî.’
 
 Gârgî said: ‘In what then is the ether woven, like warp and woof?’
 
-8\. He said: ‘O Gârgî, the Brâhma<i>n</i>as call this the Akshara (the imperishable). It is neither coarse nor fine, neither short nor long, neither red (like fire) nor fluid (like water); it is without shadow, without darkness, without air, without ether, without <span id="p138">[<sup><small>p. 138</small></sup>]</span> attachment [^418], without taste, without smell, without eyes, without ears, without speech, without mind, without light (vigour), without breath, without a mouth (or door), without measure, having no within and no without, it devours nothing, and no one devours it.’
+8\. He said: ‘O Gârgî, the Brâhma<i>n</i>as call this the Akshara (the imperishable). It is neither coarse nor fine, neither short nor long, neither red (like fire) nor fluid (like water); it is without shadow, without darkness, without air, without ether, without <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> attachment [^418], without taste, without smell, without eyes, without ears, without speech, without mind, without light (vigour), without breath, without a mouth (or door), without measure, having no within and no without, it devours nothing, and no one devours it.’
 
 9\. ‘By the command of that Akshara (the imperishable), O Gârgî, sun and moon stand apart [^419]. By the command of that Akshara, O Gârgî, heaven and earth stand apart. By the command of that Akshara, O Gârgî, what are called moments (nimesha), hours (muhûrta), days and nights, half-months, months, seasons, years, all stand apart. By the command of that Akshara, O Gârgî, some rivers flow to the East from the white mountains, others to the West, or to any other quarter. By the command of that Akshara, O Gârgî, men praise those who give, the gods follow the sacrificer, the fathers the Darvî-offering.’
 
 10\. ‘Whosoever, O Gârgî, without knowing that Akshara (the imperishable), offers oblations in this world, sacrifices, and performs penance for a thousand years, his work will have an end. Whosoever, O Gargî, without knowing this Akshara, departs this world, he is miserable (like a slave) [^420]. But he, O Gârgî, who departs this world, knowing this Akshara, he is a Brâhma<i>n</i>a.’
 
-11\. ‘That Brahman,’ O Gârgî, ‘is unseen, but seeing; unheard, but hearing; unperceived, but perceiving; unknown, but knowing. There is nothing <span id="p139">[<sup><small>p. 139</small></sup>]</span> that sees but it, nothing that hears but it, nothing that perceives but it, nothing that knows but it. In that Akshara then, O Gârgî, the ether is woven, like warp and woof.’
+11\. ‘That Brahman,’ O Gârgî, ‘is unseen, but seeing; unheard, but hearing; unperceived, but perceiving; unknown, but knowing. There is nothing <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> that sees but it, nothing that hears but it, nothing that perceives but it, nothing that knows but it. In that Akshara then, O Gârgî, the ether is woven, like warp and woof.’
 
 12\. Then said Gargî: ‘Venerable Brâhmans, you may consider it a great thing, if you get off by bowing before him. No one, I believe, will defeat him in any argument concerning Brahman.’ After that Vâka<i>k</i>navî held her peace.
 
@@ -364,7 +364,7 @@ Gârgî said: ‘In what then is the ether woven, like warp and woof?’
 
 ‘Thirty-three,’ he said.
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 ‘Yes,’ he said, and asked again: ‘How many gods are there really, O Yâ<i>g</i>_ñ_avalkya?’
 
@@ -396,7 +396,7 @@ Yâ<i>g</i>_ñ_avalkya replied: ‘The eight Vasus, the eleven Rudras, the twelv
 
 3\. He asked: ‘Who are the Vasus.’
 
-Yâ<i>g</i>_ñ_avalkya replied: ‘Agni (fire), P<i>ri</i>thivî (earth), Vâyu (air), Antariksha (sky), Âditya (sun), Dyu (heaven), <i>K</i>andramas (moon), the Nakshatras (stars), these are the Vasus, for in them all that dwells (this world) [^427] rests; and therefore they are called Vasus.’ <span id="p141">[<sup><small>p. 141</small></sup>]</span> 4\. He asked: ‘Who are the Rudras?’
+Yâ<i>g</i>_ñ_avalkya replied: ‘Agni (fire), P<i>ri</i>thivî (earth), Vâyu (air), Antariksha (sky), Âditya (sun), Dyu (heaven), <i>K</i>andramas (moon), the Nakshatras (stars), these are the Vasus, for in them all that dwells (this world) [^427] rests; and therefore they are called Vasus.’ <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> 4\. He asked: ‘Who are the Rudras?’
 
 Yâ<i>g</i>_ñ_avalkya replied: ‘These ten vital breaths (prâ<i>n</i>as, the senses, i.e. the five <i>g</i>_ñ_ânendriyas, and the five karmendriyas), and Âtman [^428], as the eleventh. When they depart from this mortal body, they make us cry (rodayanti), and because they make us cry, they are called Rudras.’
 
@@ -422,7 +422,7 @@ Yâ<i>g</i>_ñ_avalkya replied: ‘Agni (fire), P<i>ri</i>thivî (earth), Vâyu 
 
 8\. He asked: ‘Who are the three gods?’
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya replied: ‘These three worlds, for in them all these gods exist.’
 
@@ -440,7 +440,7 @@ He asked: ‘Who is the one god?’
 
 Yâ<i>g</i>_ñ_avalkya replied: ‘Breath (prâ<i>n</i>a), and he is Brahman (the Sûtrâtman), and they call him That (tyad).’
 
-10\. <i>S</i>âkalya said [^431]: ‘Whosoever knows that person (or god) whose dwelling (body) is the earth, whose sight (world) is fire [^432], whose mind is light,—the principle <span id="p143">[<sup><small>p. 143</small></sup>]</span> of every (living) self, he indeed is a teacher, O Yâ<i>g</i>_ñ_avalkya.’
+10\. <i>S</i>âkalya said [^431]: ‘Whosoever knows that person (or god) whose dwelling (body) is the earth, whose sight (world) is fire [^432], whose mind is light,—the principle <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> of every (living) self, he indeed is a teacher, O Yâ<i>g</i>_ñ_avalkya.’
 
 Yâ<i>g</i>_ñ_avalkya said: ‘I know that person, the principle of every self, of whom thou speakest. This corporeal (material, earthy) person, “he is he.” But tell me [^433], <i>S</i>âkalya, who is his devatâ [^434] (deity)?’
 
@@ -458,7 +458,7 @@ Yâ<i>g</i>_ñ_avalkya replied: ‘I know that person, the principle of every se
 
 <i>S</i>âkalya replied: ‘The True [^437].’
 
-13\. <i>S</i>âkalya said: ‘Whosoever knows that person <span id="p144">[<sup><small>p. 144</small></sup>]</span> whose dwelling is ether, whose sight is the ear, whose mind is light,—the principle of every self, he indeed is a teacher, O Yâ<i>g</i>_ñ_avalkya.’
+13\. <i>S</i>âkalya said: ‘Whosoever knows that person <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> whose dwelling is ether, whose sight is the ear, whose mind is light,—the principle of every self, he indeed is a teacher, O Yâ<i>g</i>_ñ_avalkya.’
 
 Yâ<i>g</i>_ñ_avalkya replied: ‘I know that person, the principle of every self, of whom thou speakest. The person who hears [^438] and answers, “he is he.” But tell me, <i>S</i>âkalya, who is his devatâ?’
 
@@ -478,7 +478,7 @@ Yâ<i>g</i>_ñ_avalkya replied: ‘I know that person, the principle of every se
 
 16\. <i>S</i>âkalya said: ‘Whosoever knows that person whose dwelling is water, whose sight is the heart, whose mind is light,—the principle of every self, he indeed is a teacher, O Yâ<i>g</i>_ñ_avalkya.’
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya replied: ‘I know that person, the principle of every self, of whom thou speakest. The person in the water, “he is he.” But tell me, <i>S</i>âkalya, who is his devatâ?’
 
@@ -496,7 +496,7 @@ Yâ<i>g</i>_ñ_avalkya replied: ‘I know that person, the principle of every se
 
 19\. Yâ<i>g</i>_ñ_avalkya said: ‘I know the quarters with their deities and their abodes.’
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 <i>S</i>âkalya said: 'If thou knowest the quarters with their deities and their abodes,
 
@@ -538,7 +538,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘In Sraddhâ (faith), for if a man believes, then
 
 Yâ<i>g</i>_ñ_avalkya said: ‘In the heart, for by the heart faith knows, and therefore faith abides in the heart.’
 
-<i>S</i>âkalya said: ‘So it is indeed, O Yâ<i>g</i>_ñ_avalkya.’ <span id="p147">[<sup><small>p. 147</small></sup>]</span> 22\. <i>S</i>âkalya said: ‘Which is thy deity in the Western quarter?’
+<i>S</i>âkalya said: ‘So it is indeed, O Yâ<i>g</i>_ñ_avalkya.’ <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> 22\. <i>S</i>âkalya said: ‘Which is thy deity in the Western quarter?’
 
 Yâ<i>g</i>_ñ_avalkya said: ‘Varu<i>n</i>a.’
 
@@ -576,7 +576,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘In the heart, for with the heart do we know what
 
 24\. <i>S</i>âkalya said: ‘Which is thy deity in the zenith?’
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya said: ‘Agni.’
 
@@ -610,7 +610,7 @@ Yâ<i>g</i>_ñ_avalkya said: ‘In the Udâna (the out-breathing) [^448].’
 
 <i>S</i>âkalya said: ‘In what does the Udâna abide?’
 
-Yâ<i>g</i>_ñ_avalkya said: ‘In the Samâna [^449]. That Self <span id="p149">[<sup><small>p. 149</small></sup>]</span> (âtman) is to be described by No, no [^450]! He is incomprehensible, for he cannot be (is not) comprehended; he is imperishable, for he cannot perish; he is unattached, for he does not attach himself; unfettered, he does not suffer, he does not fail.’
+Yâ<i>g</i>_ñ_avalkya said: ‘In the Samâna [^449]. That Self <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> (âtman) is to be described by No, no [^450]! He is incomprehensible, for he cannot be (is not) comprehended; he is imperishable, for he cannot perish; he is unattached, for he does not attach himself; unfettered, he does not suffer, he does not fail.’
 
 ‘These are the eight abodes (the earth, &c.), the eight worlds (fire, &c.), the eight gods (the immortal food, &c.), the eight persons (the corporeal, &c.) He who after dividing and uniting these persons [^451], went beyond (the Samâna), that person, taught in the Upanishads, I now ask thee (to teach me). If thou shalt not explain him to me, thy head will fall.’
 
@@ -624,7 +624,7 @@ But those Brâhma<i>n</i>as durst not (say anything).
 
 1\. 'As a mighty tree in the forest, so in truth is man, his hairs are the leaves, his outer skin is the bark.
 
-2\. 'From his skin flows forth blood, sap from the skin (of the tree); and thus from the wounded <span id="p150">[<sup><small>p. 150</small></sup>]</span> man [^452] comes forth blood, as from a tree that is struck.
+2\. 'From his skin flows forth blood, sap from the skin (of the tree); and thus from the wounded <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> man [^452] comes forth blood, as from a tree that is struck.
 
 3\. 'The lumps of his flesh are (in the tree) the layers of wood, the fibre is strong like the tendons [^453] . The bones are the (hard) wood within, the marrow is made like the marrow of the tree.
 
@@ -636,7 +636,7 @@ But those Brâhma<i>n</i>as durst not (say anything).
 
 7\. ‘Once born, he is not born (again); for who should create him again [^457]?’
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 ‘Brahman, who is knowledge and bliss, he is the principle, both to him who gives gifts [^458], and also to him who stands firm, and knows.’
 

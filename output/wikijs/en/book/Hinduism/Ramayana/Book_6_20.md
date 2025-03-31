@@ -83,7 +83,7 @@ With martial stalk the captains hied.
 Welcomed with honour as was meet
 They stooped to press their monarch's feet,
 
-<span id="p435">[<sup><small>p. 435</small></sup>]</span>
+<span id="p435"><sup><small>[ p. 435 ]</small></sup></span>
 
 And each a place in order found
 On stool, on cushion, or the ground.
@@ -192,7 +192,7 @@ And ne'er repents one hasty deed;
 And hapless he whose troubled soul
 Mourns over days beyond control.
 
-<span id="p436">[<sup><small>p. 436</small></sup>]</span>
+<span id="p436"><sup><small>[ p. 436 ]</small></sup></span>
 
 Thou hast, in beauty's toils ensnared,
 A desperate deed of boldness dared;
@@ -309,7 +309,7 @@ Thy city with unsparing foes.
 O, be the Maithil dame restored
 Ere loosened from the clanging cord
 
-<span id="p437">[<sup><small>p. 437</small></sup>]</span>
+<span id="p437"><sup><small>[ p. 437 ]</small></sup></span>
 
 The vengeful shafts of Ráma fly,
 And low in death thy princes lie.
@@ -423,7 +423,7 @@ And to the son of Raghu give
 Fair robes and gems and precious ore,
 And Sitá to his arms restore.’
 
-<span id="p438">[<sup><small>p. 438</small></sup>]</span>
+<span id="p438"><sup><small>[ p. 438 ]</small></sup></span>
 
 
 
@@ -530,7 +530,7 @@ That giant chief sublime in air
 With other four in bright array
 Comes armed to conquer and to slay.’
 
-<span id="p439">[<sup><small>p. 439</small></sup>]</span>
+<span id="p439"><sup><small>[ p. 439 ]</small></sup></span>
 
 Soon as his warning speech they heard,
 The Vánar chieftains undeterred
@@ -652,7 +652,7 @@ Urged by his brother's fault to fly.
 With righteous soul that loathes the sin,
 He fled from Lanká and his kin.
 
-<span id="p440">[<sup><small>p. 440</small></sup>]</span>
+<span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 
 If strangers question, doubt will rise
 And chill the heart of one so wise.
@@ -765,7 +765,7 @@ And Ráma toward Vibhíshan moved.
 So moves, a brother God to greet,
 Lord Indra from his heavenly seat.
 
-<span id="p441">[<sup><small>p. 441</small></sup>]</span>
+<span id="p441"><sup><small>[ p. 441 ]</small></sup></span>
 
 
 
@@ -876,7 +876,7 @@ And halt them on the ocean sands.
 O Monarch, rise, this peril meet;
 Risk not the danger of defeat.
 
-<span id="p442">[<sup><small>p. 442</small></sup>]</span>
+<span id="p442"><sup><small>[ p. 442 ]</small></sup></span>
 
 First let each wiser art be tried;
 Bribe them, or win them, or divide.’

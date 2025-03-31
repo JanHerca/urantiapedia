@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 4\. The school of Shammai bless “the light, the food, the spices, and the distinction of the day;” but the school of Hillel bless “the light, the spices, the food, and the distinction of the day.” The school of Shammai say, “who created the light of fire;” but the school of Hillel say, “Creator of the lights of fire.”
 
-6\. Men must not bless light and spices of idolatrous Gentiles, nor light and spices of corpses, nor light and spices <span id="p60">[<sup><small>p. 60</small></sup>]</span> before an idol. They must not bless the light until they have enjoyed the light.
+6\. Men must not bless light and spices of idolatrous Gentiles, nor light and spices of corpses, nor light and spices <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> before an idol. They must not bless the light until they have enjoyed the light.
 
 7\. “If one have eaten, and forgotten, and not blessed?” The school of Shammai say, “he must return to his place and bless.” But the school of Hillel say, “he may bless in the place where he recollects.” “How long is one obliged to bless?” “Until the food in his stomach be digested.”
 

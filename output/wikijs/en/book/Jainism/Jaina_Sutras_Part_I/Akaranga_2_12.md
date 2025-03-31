@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:15:12Z
 
 TWELFTH LECTURE.
 
-If a monk or a nun see various colours (or forms), viz. in wreaths, dressed images, dolls, clothes [^474], woodwork, plastering, paintings, jewelry, ivory-work, strings, leaf-cutting, they should not for the sake of pleasing the eye resolve to go where they will see various colours (or forms). All that has been said <span id="p186">[<sup><small>p. 186</small></sup>]</span> in the last chapter with regard to sounds should be repeated here with regard to colours (or forms); only the passages on music are to be omitted. (1)
+If a monk or a nun see various colours (or forms), viz. in wreaths, dressed images, dolls, clothes [^474], woodwork, plastering, paintings, jewelry, ivory-work, strings, leaf-cutting, they should not for the sake of pleasing the eye resolve to go where they will see various colours (or forms). All that has been said <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> in the last chapter with regard to sounds should be repeated here with regard to colours (or forms); only the passages on music are to be omitted. (1)
 
 
 

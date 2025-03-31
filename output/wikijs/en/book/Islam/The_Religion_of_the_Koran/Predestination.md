@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 CHAPTER III., Verse 163.—Those who said of their brethren, whilst they themselves stayed at home, “Had they obeyed us they would not have been killed”; say, “Ward off from yourselves death, if ye do speak the truth.”
 
@@ -44,7 +44,7 @@ Chapter XVI., Verse 63.—If God were to punish men for their wrongdoing, He wou
 
 They set down to God what they abhor themselves; and their tongues describe the lie that “Good is to be theirs”; without a doubt theirs is the Fire, for, verily, they shall be sent on there!
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Chapter XVII., Verse 14.—And every man's augury have we fastened on his neck.
 

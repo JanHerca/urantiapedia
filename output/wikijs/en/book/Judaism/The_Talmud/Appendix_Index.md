@@ -29,7 +29,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p381">[<sup><small>p. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 ABRAHAM to BLASPHEMY
 
@@ -103,7 +103,7 @@ Birds, tame, offerings for leprosy, [296](Treatise15_14#p296), [297](Treatise15_
 
 Blasphemy, [191](Treatise10_7#p191).
 
-<span id="p382">[<sup><small>p. 382</small></sup>]</span>
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 
 BLEMISHES to ELEAZAR.
 
@@ -223,7 +223,7 @@ Eleazar, Rabbi, on abrogating the Sabbath, [106](Treatise4_6#p106), [107](Treati
 
 —Hamodai, R., on profaning holy offerings, [226](Treatise12_3#p226).
 
-<span id="p383">[<sup><small>p. 383</small></sup>]</span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 ELEAZAR to HEAVE-OFFERINGS
 
@@ -293,7 +293,7 @@ Hashim II., Caliph of Cordova, orders the Talmud to be translated into Arabic, [
 
 Heating and cooking, [86](Treatise3_2#p86), [87](Treatise3_3#p87). Heave-offerings, rules for, [173](Treatise9_3#p173).
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 HEAVEN to LAMB
 
@@ -365,7 +365,7 @@ King, the, his privileges, [179](Treatise10_2#p179), [180](Treatise10_2#p180).
 
 Lamb, the, for the daily sacrifice, [246](Treatise13_3#p246); its position, [247](Treatise13_3#p247); distribution of its members preparatory to being burnt, [248](Treatise13_4#p248), [249](Treatise13_4#p249).
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 Laver, the, [352](Treatise18_11#p352); dimensions, [352](Treatise18_11#p352), [353](Treatise18_12#p353); the oxen, [353](Treatise18_12#p353).
 
@@ -433,7 +433,7 @@ Moked, the House, [242](Treatise13_1#p242); chambers and doors, [255](Treatise14
 
 Molech, [192](Treatise10_7#p192).
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 MONEY to PRIEST
 
@@ -523,7 +523,7 @@ Precepts, binding, on the sons of Noah, [32](Introduction_5#p32), [33](Introduct
 
 Priest High, the, [119](Treatise5_1#p119), _see_ High Priests.
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 PRIESTS to SANHEDRIN
 
@@ -591,7 +591,7 @@ Sandals, [313](Treatise16_7#p313).
 
 Sanhedrin, the, [176](Treatise10_1#p176); judges required for various offences, [176](Treatise10_1#p176), [177](Treatise10_1#p177); tribunal of [71](Treatise2_5#p71) members, [177](Treatise10_1#p177); the Great, [177](Treatise10_1#p177); the Small, [178](Treatise10_1#p178); the High Priest's duties and privileges, [178](Treatise10_1#p178), [179](Treatise10_2#p179); the king's privileges, [179](Treatise10_2#p179), [180](Treatise10_2#p180); judgments, [180](Treatise10_2#p180); witnesses examined, [181](Treatise10_3#p181)\-[183](Treatise10_3#p183), [185](Treatise10_4#p185)\-[187](Treatise10_5#p187); verdicts, [183](Treatise10_3#p183); judgments in money and souls, [183](Treatise10_3#p183)[185](Treatise10_4#p185); intimidating witnesses, [184](Treatise10_4#p184); stoning, [187](Treatise10_5#p187)\-[189](Treatise10_6#p189); hanging, [189](Treatise10_6#p189); burning, [190](Treatise10_6#p190); beheading, [191](Treatise10_7#p191); strangling, [191](Treatise10_7#p191), [201](Treatise10_10#p201)\-[203](Treatise10_11#p203); blasphemy, idolatry, [191](Treatise10_7#p191); giving his seed to Molech, [192](Treatise10_7#p192); profaning the Sabbath, [192](Treatise10_7#p192); enticing, [193](Treatise10_7#p193); sorcery, [193](Treatise10_7#p193); stubborn and rebellious sons, [194](Treatise10_8#p194),
 
-<span id="p388">[<sup><small>p. 388</small></sup>]</span>
+<span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 
 SAPLINGS to TALMUD
 
@@ -685,7 +685,7 @@ Talith, the, [359](Appendix_Note_Judaism#p359).
 
 Talmud, the Babylon, [2](Introduction_1#p2); called the _Shas_ by the Jews, [10](Introduction_2#p10); its commencement and completion, [10](Introduction_2#p10); period of its compilation, [11](Introduction_2#p11); adopted by all orthodox Jews, [14](Introduction_3#p14); periodically banned and burnt, [14](Introduction_3#p14); its fascinating influence, [14](Introduction_3#p14); rules of interpretation, [15](Introduction_3#p15); legendary parts, [15](Introduction_3#p15);
 
-<span id="p389">[<sup><small>p. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 TALMUD to ZOMA
 

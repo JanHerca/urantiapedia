@@ -42,7 +42,7 @@ Mogheerah, the great-grandfather of the poet ’Omar, had, by a wealthy marriage
 
 ’Omar's mother was an Arab woman of Hadramaut, a province ever famed for its female beauty; and it happened that he was born on the same day that his renowned namesake the Caliph ’Omar was murdered by the fanatic Persian slave Firooz (a.h. 23, a.d. 643). ’Abd-Allah had a second son, called Hirth, by his other wife, an Abyssinian woman. The half-blood Hirth, an austere Muslim, passed his life in government employment; while ’Omar idled and made love-songs, and got himself into trouble through his amours, from which it was often his brother's painful task to extricate him.
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 “One year,” says Mr. Palgrave, on the authority of the poet's best biographer Aboo-l-Faraj, "on the very high day of the great annual festival, when the pilgrims, assembled from all quarters of the Mohammedan world at Mecca, were engaged in the evening performance of their solemn traditionary rite, pacing seven times in prayer round the sacred Ka’abeh, Zeynab, a young girl of noble birth, happened to be present among the crowd of worshippers, from whom, however, she was easily to be distinguished by her surpassing beauty and the gay dresses of her numerous attendants. What next followed ’Omar may best recite after his own fashion, and in his own metre, which we have as far as possible preserved in the translation; though the rhyme, which if rendered would have necessitated too frequent divergence from the original style and imagery, has been omitted:
 

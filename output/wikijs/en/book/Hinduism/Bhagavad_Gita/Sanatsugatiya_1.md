@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:22:6Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Dh<i>ri</i>tarâsh<i>t</i>ra said:
 
@@ -46,7 +46,7 @@ Dh<i>ri</i>tarâsh<i>t</i>ra said:
 
 What, do you not yourself know more about this (subject), that Sanâtana should explain (it) to me? Explain (it) yourself, O Vidura! if there is any remnant of intelligence (left) in you.
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 Vidura said:
 
@@ -58,7 +58,7 @@ Do you, O Vidura! speak to the ancient Sanâtana for me, so that there may be a 
 
 Vai<i>s</i>ampâyana [^608] said:
 
-(Then) Vidura meditated on that sage whose vows are laudable [^609]. And he, too, O descendant of Bharata! knowing of such meditation, made his appearance. And he [^610], too, received him with the ceremonies prescribed in the ordinances. After he had been comfortably seated, and had taken rest, Vidura then spoke to him: 'Venerable sir! there is some doubt in Dh<i>ri</i>tarâsh<i>t</i>ra's mind, which cannot <span id="p151">[<sup><small>p. 151</small></sup>]</span> be explained by me. Do you be pleased to explain (it) to him. Hearing it (explained), this lord of men may cross beyond all misery, so that gain and loss [1](Sanatsugatiya_2#fn611), (what is) agreeable and (what is) odious, old age and death, fear and vindictiveness, hunger and thirst, frenzy and worldly greatness, disgust and also laziness, desire and wrath, ruin and prosperity, may not trouble him.’
+(Then) Vidura meditated on that sage whose vows are laudable [^609]. And he, too, O descendant of Bharata! knowing of such meditation, made his appearance. And he [^610], too, received him with the ceremonies prescribed in the ordinances. After he had been comfortably seated, and had taken rest, Vidura then spoke to him: 'Venerable sir! there is some doubt in Dh<i>ri</i>tarâsh<i>t</i>ra's mind, which cannot <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> be explained by me. Do you be pleased to explain (it) to him. Hearing it (explained), this lord of men may cross beyond all misery, so that gain and loss [1](Sanatsugatiya_2#fn611), (what is) agreeable and (what is) odious, old age and death, fear and vindictiveness, hunger and thirst, frenzy and worldly greatness, disgust and also laziness, desire and wrath, ruin and prosperity, may not trouble him.’
 
 
 

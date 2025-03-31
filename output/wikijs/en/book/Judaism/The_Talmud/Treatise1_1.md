@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span> p. 49
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span> p. 49
 
 ## SELECTIONS FROM THE TALMUD. THE MISHNA. TREATISE I.
 
@@ -42,7 +42,7 @@ Recitation of the Shemah—Blessings—Rabbi Gamaliel—Exemptions from the reci
 
 ### CHAPTER I.
 
-1\. “From what time do we recite the Shemah [^7] in the evening?” “From the hour the priests [^8] enter (the temple) to eat their heave offerings, until the end of the first watch.” [^9] The words of R. Eleazar; but the Sages say “until midnight” Rabban Gamaliel says, “until the pillar of the morn ascend.” It happened that his sons came from a banquet. They said to him, “we have not yet said the Shemah.” He said to them, “if the pillar of the morn be not yet ascended, you are bound to say it; and not only this, but all that the <span id="p50">[<sup><small>p. 50</small></sup>]</span> Sages say, ‘till midnight,’ they command till the pillar of the morn ascend.” The burning of the fat and members they command “till the pillar of the morn ascend.” And all offerings, which must be eaten the same day, they command “till the pillar of the morn ascend.” If so, why do the Sages say “until midnight?” “To withhold man from transgression.”
+1\. “From what time do we recite the Shemah [^7] in the evening?” “From the hour the priests [^8] enter (the temple) to eat their heave offerings, until the end of the first watch.” [^9] The words of R. Eleazar; but the Sages say “until midnight” Rabban Gamaliel says, “until the pillar of the morn ascend.” It happened that his sons came from a banquet. They said to him, “we have not yet said the Shemah.” He said to them, “if the pillar of the morn be not yet ascended, you are bound to say it; and not only this, but all that the <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> Sages say, ‘till midnight,’ they command till the pillar of the morn ascend.” The burning of the fat and members they command “till the pillar of the morn ascend.” And all offerings, which must be eaten the same day, they command “till the pillar of the morn ascend.” If so, why do the Sages say “until midnight?” “To withhold man from transgression.”
 
 2\. “From what time do we recite the Shemah in the morning?” When one can discern betwixt “blue and white,” R. Eleazar says “betwixt blue and leek green.” And it may be finished “until the sun shine forth.” R. Joshua says “until the third hour.” [^10] For such is the way of royal princes to rise at the third hour. He who recites Shemah afterwards loses nothing. He is like a man reading the Law.
 
@@ -50,7 +50,7 @@ Recitation of the Shemah—Blessings—Rabbi Gamaliel—Exemptions from the reci
 
 4\. In the morning two blessings are said before (the Shemah), and one after it; and in the evening two blessings before and two after it, one long and one short. [^13] Where the (Sages) have said to lengthen, none is allowed to shorten; and to shorten none is allowed to lengthen: to close, none is allowed not to close; not to close, none is allowed to close.
 
-5\. We commemorate the departure from Egypt at night; <span id="p51">[<sup><small>p. 51</small></sup>]</span> said R. Eleazar, son of Azariah, “truly I am a son of seventy years, and was not clear that thou shouldst say the departure from Egypt at night until the son of Zoma expounded, ‘that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life;’ [^14] the days of thy life (are) days; all the days of thy life (include) the nights.” But the Sages say, “the days of thy life (are) this world; all the days of thy life (include) the days of the Messiah.”
+5\. We commemorate the departure from Egypt at night; <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> said R. Eleazar, son of Azariah, “truly I am a son of seventy years, and was not clear that thou shouldst say the departure from Egypt at night until the son of Zoma expounded, ‘that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life;’ [^14] the days of thy life (are) days; all the days of thy life (include) the nights.” But the Sages say, “the days of thy life (are) this world; all the days of thy life (include) the days of the Messiah.”
 
 
 

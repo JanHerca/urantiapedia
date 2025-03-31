@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 5, SECTION 14.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 3\. On the day before that Ash<i>t</i>akâ, under (the Nakshatra) Anûrâdhâs, in the afternoon he puts wood on the fire, strews southward-pointed and eastward-pointed Darbha grass around it, and turns rice out of four shallow cups over which he has laid one purifier, with (the Mantra), 'I turn out, impelled by the god Savit_ri_, this cake prepared from four cups (of rice), which may drive away all suffering from the Fathers in the other world. On the impulse of the god Savit_ri_, with the arms of the two A<i>t</i>vins, with Pûshan's hands I turn thee out, agreeable to the fathers, the grandfathers, the great-grandfathers.’
 
-4\. [^686] With the same purifier he silently strains the Proksha<i>d</i>î water; he silently sprinkles (with that water the rice and the vessels), silently husks (the rice), silently bakes it in four dishes like a Puro<i>d</i>â<i>d</i>a, sprinkles (Â<i>d</i>ya) on it, takes it from the fire, sprinkles (water) round (the fire) from right to left, and puts a piece of Udumbara wood on (the fire). With the (spoon called) Darvi which is made of Udumbara wood, he cuts off in one continual line which is directed towards south-east, (the Avadâna portions) <span id="p233">[<sup><small>p. 233</small></sup>]</span> one after the other, spreading under and sprinkling over them (Â<i>d</i>ya), and sacrifices them, one after the other, in one continual line which is directed towards south-east, with (the Mantras), 'The mortars, the pressing-stones have made their noise, preparing the annual offering. Ekâsh<i>d</i>akâ! May we be rich in offspring, in valiant sons, the lords of wealth. Svadhâ! Adoration!
+4\. [^686] With the same purifier he silently strains the Proksha<i>d</i>î water; he silently sprinkles (with that water the rice and the vessels), silently husks (the rice), silently bakes it in four dishes like a Puro<i>d</i>â<i>d</i>a, sprinkles (Â<i>d</i>ya) on it, takes it from the fire, sprinkles (water) round (the fire) from right to left, and puts a piece of Udumbara wood on (the fire). With the (spoon called) Darvi which is made of Udumbara wood, he cuts off in one continual line which is directed towards south-east, (the Avadâna portions) <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> one after the other, spreading under and sprinkling over them (Â<i>d</i>ya), and sacrifices them, one after the other, in one continual line which is directed towards south-east, with (the Mantras), 'The mortars, the pressing-stones have made their noise, preparing the annual offering. Ekâsh<i>d</i>akâ! May we be rich in offspring, in valiant sons, the lords of wealth. Svadhâ! Adoration!
 
 ‘God Agni! The cake which is prepared with ghee and accompanied by (the word) svadhâ, that the Fathers may satiate themselves—(this our) offering carry duly, Agni. I, the son, sacrifice an oblation to my fathers. Svadhâ! Adoration!
 
@@ -52,7 +52,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. Cutting off (the Avadânas destined for the Svish<i>t</i>ak<i>t</i>t oblation) together from the cake and from the (other) food and mixing them with clarified butter, he makes an oblation thereof with (the formula), ‘To Agni Kavyavâhana Svish<i>t</i>ak<i>t</i>t svadhâ! Adoration!’
 
-7\. [^687] That (cake) with ghee and honey and with the food (mentioned in Sûtras 5. 6) he touches in the way prescribed for the <i>S</i>râddha ceremony and puts <span id="p234">[<sup><small>p. 234</small></sup>]</span> down lumps (of it) according to the ritual of the Pi<i>nd</i>a offerings.
+7\. [^687] That (cake) with ghee and honey and with the food (mentioned in Sûtras 5. 6) he touches in the way prescribed for the <i>S</i>râddha ceremony and puts <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> down lumps (of it) according to the ritual of the Pi<i>nd</i>a offerings.
 
 8\. (The remains of) that (cake, &c.) he serves to learned Brâhma<i>n</i>as.
 
@@ -69,7 +69,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 3\. He sprinkles (the cow with water) with (the words), ‘I sprinkle thee agreeable to the Fathers.’
 
-4\. [^690] When it has been sprinkled and fire has been <span id="p235">[<sup><small>p. 235</small></sup>]</span> carried round it, they kill it to the west of the fire, its head being turned to the west, its feet to the south.
+4\. [^690] When it has been sprinkled and fire has been <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> carried round it, they kill it to the west of the fire, its head being turned to the west, its feet to the south.
 
 5\. [^691] After it has been killed, he silently ‘strengthens’ its sense-organs (by touching them) with water, and silently takes out the omentum, the heart, and the kidneys.
 
@@ -79,7 +79,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. [^692] He sacrifices the omentum entirely. The other parts (Sûtra 5) he should offer to the Brâhma<i>n</i>as and should feed them (with those parts of the cow).
 
-9\. When the food (for the Brâhma<i>n</i>as) is ready, he cuts off (the Avadânas) together from the mess of boiled rice, and from the pieces of meat, and mixing them with clarified butter he makes oblations <span id="p236">[<sup><small>p. 236</small></sup>]</span> thereof with the verses, ‘Behold the Ekâsh<i>n</i>akâ, the giver of food with meat and ghee, (which is offered) with (the word) svadhâ. By the Brâhma<i>n</i>as that food is purified. May it be an imperishable (blessing) to me! Svadhâ! Adoration!’
+9\. When the food (for the Brâhma<i>n</i>as) is ready, he cuts off (the Avadânas) together from the mess of boiled rice, and from the pieces of meat, and mixing them with clarified butter he makes oblations <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> thereof with the verses, ‘Behold the Ekâsh<i>n</i>akâ, the giver of food with meat and ghee, (which is offered) with (the word) svadhâ. By the Brâhma<i>n</i>as that food is purified. May it be an imperishable (blessing) to me! Svadhâ! Adoration!’
 
 ‘The Ekâsh<i>t</i>akâ, devoting herself to austerities, the consort of the year, exuberant (with milk), has poured forth milk. May you live on that milk, O Fathers, all together. May this (food) be well offered and well sacrificed by me! Svadhâ! Adoration!
 

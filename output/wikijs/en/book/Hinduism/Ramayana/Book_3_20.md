@@ -63,7 +63,7 @@ Two leagues across from side to side.
 Tall elephants fresh beauty gave
 To grassy bank and lilied wave,
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 By many a swan and sáras stirred,
 Mallard, and gay-winged water-bird.
@@ -184,7 +184,7 @@ The very thing, O Prince, which thou
 Hast sought, I wished to urge but now,
 Bid thee with wife and brother see
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 Agastya, glorious devotee.
 I count this thing an omen fair
@@ -307,7 +307,7 @@ To issue forth whom I devoured?
 Thy brother in a ram's disguise-
 Is gone where Yama's kingdom lies.’
 
-<span id="p242">[<sup><small>p. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 When from the words Agastya said
 He knew his brother fiend was dead,
@@ -426,7 +426,7 @@ Here Gods to living things, who win
 Their favour, pure from cruel sin,
 Give royal rule and many a good,
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 Immortal life and spirithood. I
 Now, Lakshman, we are near the place:
@@ -540,7 +540,7 @@ Stood suppliant by the anchorite,
 While Lakshman's strength and Sítá's grace
 Stood by the pride of Raghu's race.
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 The sage his arms round Rama threw
 And welcomed him with honours due,
@@ -661,7 +661,7 @@ The wish that stirs thy heart reveal,
 And hence my guest I bade thee be,
 That this pure grove might shelter thee.
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 So now, thereafter, thus I speak:
 The shades of Panchavatí seek;
@@ -755,7 +755,7 @@ Delighted to each tender bride:
 ‘Sons shalt thou bear, to rule the three
 Great worlds, in might resembling me,’
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 Aditi, Diti, and Danú
 Obeyed his will as consorts true,
@@ -855,7 +855,7 @@ By Sítá's side shall be my place.’
 &nbsp;&nbsp;&nbsp;&nbsp;Bent low, and due obeisance paid,
 &nbsp;&nbsp;&nbsp;&nbsp;Embraced the royal bird.
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 He often in the days gone by
 &nbsp;&nbsp;&nbsp;&nbsp;Had heard his father tell
@@ -962,7 +962,7 @@ With holy grass, and reed, and leaves.
 The mighty chief with careful toil
 Had cleared the ground and smoothed the soil
 
-<span id="p248">[<sup><small>p. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 Where now, his loving labour done,
 Rose a fair home for Raghu's son.
@@ -1078,7 +1078,7 @@ Grow pleasant in their noonday strength,
 And where a while they chance to fall
 Fling a faint splendour over all.
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 See, o'er the woods where grass is wet
 With hoary drops that cling there yet,
@@ -1196,7 +1196,7 @@ On to his cot the hero hied,
 And after rites at morning due
 Within the leafy shade withdrew.
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 Then, honoured by the devotees,
 As royal Ráma sat at ease,
@@ -1315,7 +1315,7 @@ This answer eloquent returned:
 On her ensnared in Ráma's net
 His eyes the royal Rama set,
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 And thus, her passion to beguile,
 Addressed her with a gentle smile:
@@ -1439,7 +1439,7 @@ Then told her injuries and shame,
 When Khara saw his sister lie
 With blood-stained limbs and troubled eye,
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 Wild fury in his bosom woke,
 And thus the monstrous giant spoke;
@@ -1560,7 +1560,7 @@ The hero by his consort's side,
 And faithful Lakshman ready still
 To wait upon his brother's will.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 Then noble Ráma raised his eye
 And saw the giants standing nigh,

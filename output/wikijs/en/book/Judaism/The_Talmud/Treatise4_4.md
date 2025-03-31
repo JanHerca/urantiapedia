@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-1\. “A place in which men are accustomed to do work on the eve of the passover?” “For half a day they may work.” “A place in which they are not accustomed to work?” “They must not work.” “If one goes from a place where they work to a place where they do not work; or from a place where they do not work to a place where they <span id="p101">[<sup><small>p. 101</small></sup>]</span> do work?” “The Sages put on him the burden [^133] of the place from which he went, or the burden of the place to which he came; but a man should not change the customs of a place, as it causes quarrels.”
+1\. “A place in which men are accustomed to do work on the eve of the passover?” “For half a day they may work.” “A place in which they are not accustomed to work?” “They must not work.” “If one goes from a place where they work to a place where they do not work; or from a place where they do not work to a place where they <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> do work?” “The Sages put on him the burden [^133] of the place from which he went, or the burden of the place to which he came; but a man should not change the customs of a place, as it causes quarrels.”
 
 2\. Like to him is he who carried fruits of the Sabbatical year from a place where they were finished growing to a place where they were not finished growing; or from a place where they were not finished to a place where they were finished. He is bound to remove them. Rabbi Judah said, “they can say to him, go and bring them for yourself from the field.” [^134]
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 4\. “A place where men are accustomed to eat roast meat on the night of the passover?” “They may eat it.” “A place in which they are not accustomed to eat it?” “They may not eat it.” “A place in which they are accustomed to light a candle on the night of the Day of Atonement?” “They may light it.” “A place in which they are not accustomed to light it?” “They may not light it.” But men may light candles in the synagogues, and in the schools, and in the dark streets, and for the sick.
 
-5\. “A place in which men are accustomed to do work on the ninth of Ab;” [^136] “They may work.” “A place in which they are not accustomed to work?” “They may not work.” But everywhere the disciples of the Sages are idle. Rabban Simon, the son of Gamaliel, said, “a man may always make himself a disciple of the Sages.” But the Sages say, “in Judah they did work on the eves of the passovers for half a day, and in Galilee they did nothing.” And work in <span id="p102">[<sup><small>p. 102</small></sup>]</span> the night before the passover the school of Shammai disallowed; but the school of Hillel “allowed it till sunrise.”
+5\. “A place in which men are accustomed to do work on the ninth of Ab;” [^136] “They may work.” “A place in which they are not accustomed to work?” “They may not work.” But everywhere the disciples of the Sages are idle. Rabban Simon, the son of Gamaliel, said, “a man may always make himself a disciple of the Sages.” But the Sages say, “in Judah they did work on the eves of the passovers for half a day, and in Galilee they did nothing.” And work in <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> the night before the passover the school of Shammai disallowed; but the school of Hillel “allowed it till sunrise.”
 
 6\. Rabbi Meier said, “every work which was begun before the fourteenth day of Nisan may be finished on the fourteenth; but it must not be commenced on the fourteenth, even though it can be finished.” And the Sages say, “three trades can carry on business on the eves of the passovers for half a day; and these are they—the tailors, and the barbers, and the washers.” Rabbi José, the son of Judah, said, “also shoemakers.”
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 9\. BEREITHA—EXTERNAL TRADITION.
 
-Hezekiah the king did six things; to three the Sages consented, and to three they did not consent. He carried the bones of his father (Ahaz) on a rope bed, [^141] and they consented. <span id="p103">[<sup><small>p. 103</small></sup>]</span> He powdered the brazen serpent, [^142] and they consented. He concealed the book of medicines, [^143] and they consented. And to three they did not consent: he cut off (the gold from) the doors of the temple [^144] and sent it to the Assyrian king, and they did not consent. He stopped the waters of the upper Gihon, [^145] and they did not consent. He introduced an intercalary Nisan, and they did not consent.
+Hezekiah the king did six things; to three the Sages consented, and to three they did not consent. He carried the bones of his father (Ahaz) on a rope bed, [^141] and they consented. <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> He powdered the brazen serpent, [^142] and they consented. He concealed the book of medicines, [^143] and they consented. And to three they did not consent: he cut off (the gold from) the doors of the temple [^144] and sent it to the Assyrian king, and they did not consent. He stopped the waters of the upper Gihon, [^145] and they did not consent. He introduced an intercalary Nisan, and they did not consent.
 
 
 

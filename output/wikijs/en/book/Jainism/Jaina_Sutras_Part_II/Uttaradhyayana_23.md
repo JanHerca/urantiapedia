@@ -36,7 +36,7 @@ TWENTY-THIRD LECTURE [^312]. KÊ<i>S</i>I AND GAUTAMA.
 
 There was a <i>G</i>ina, Pâr<i>s</i>va [^313] by name, an Arhat, worshipped by the people, who was thoroughly enlightened and omniscient, a prophet of the Law, and a <i>G</i>ina. (1)
 
-And there was a famous disciple of this Light of <span id="p120">[<sup><small>p. 120</small></sup>]</span> the World, the young <i>S</i>rama<i>n</i>a Kê<i>s</i>i, who had completely mastered the sciences and right conduct. (2)
+And there was a famous disciple of this Light of <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> the World, the young <i>S</i>rama<i>n</i>a Kê<i>s</i>i, who had completely mastered the sciences and right conduct. (2)
 
 He possessed the light of <i>S</i>ruta and Avadhi knowledge [^314], and was surrounded by a crowd of disciples; wandering from village to village he arrived in the town of <i>S</i>râvastî. (3)
 
@@ -54,7 +54,7 @@ The young <i>S</i>rama<i>n</i>a Kê<i>s</i>i and the famous Gautama, both lived 
 
 The pupils of both, who, controlled themselves, who practised austerities, who possessed virtues, and who protected their Self, made the following reflection: (10)
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 ‘Is our Law the right one, or is the other Law [^315] the right one? are our conduct and doctrines right, or the other? (it)
 
@@ -74,7 +74,7 @@ Kê<i>s</i>i, the young <i>S</i>rama<i>n</i>a, and the famous Gautama, sitting t
 
 There assembled many heretics out of curiosity, and many thousands of laymen; (19)
 
-Gods, Dânavas, Gandharvas, Yakshas, Râkshasas, <span id="p122">[<sup><small>p. 122</small></sup>]</span> and Kinnaras (assembled there), and there came together invisible ghosts [^318] too. (20)
+Gods, Dânavas, Gandharvas, Yakshas, Râkshasas, <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> and Kinnaras (assembled there), and there came together invisible ghosts [^318] too. (20)
 
 Kê<i>s</i>i said to Gautama, ‘I want to ask you something, holy man.’ Then to these words of Kê<i>s</i>i Gautama made the following reply: “Sir, ask whatever you like.” Then with his permission Kê<i>s</i>i spoke to Gautama: (21, 22)
 
@@ -86,7 +86,7 @@ Then to these words of Kê<i>s</i>i Gautama made the following reply: "Wisdom re
 
 “The first [^319] saints were simple but slow of understanding, the last saints prevaricating and slow of understanding, those between the two simple and wise; hence there are two forms of the Law [^320]. (26)
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 “The first could but with difficulty understand the precepts of the Law, and the last could only with difficulty observe them, but those between them easily understood and observed them.” (27)
 
@@ -104,7 +104,7 @@ To these words of Kê<i>s</i>i Gautama made the following reply: "Deciding the m
 
 ‘Well, Gautama, you possess wisdom, you have destroyed my doubt; but I have another doubt, which you must explain to me, Gautama. (34)
 
-‘Gautama, you stand in the midst of many <span id="p124">[<sup><small>p. 124</small></sup>]</span> thousand (foes) who make an attack on you; how have you vanquished them [^321]? (35)
+‘Gautama, you stand in the midst of many <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> thousand (foes) who make an attack on you; how have you vanquished them [^321]? (35)
 
 “By vanquishing one, five are vanquished; by vanquishing five, ten are vanquished; by this tenfold victory, I vanquish all foes.” (36)
 
@@ -118,7 +118,7 @@ Kê<i>s</i>i said to Gautama: ‘Whom do you call a foe?’ To these words of K�
 
 “Having cut off all fetters, and having destroyed them by the right means, I have got rid of my fetters and am set free, O sage.” (41)
 
-Kê<i>s</i>i said to Gautama: ‘What do you call fetters?’ <span id="p125">[<sup><small>p. 125</small></sup>]</span> To these words of Kê<i>s</i>i Gautama made the following reply: (42)
+Kê<i>s</i>i said to Gautama: ‘What do you call fetters?’ <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> To these words of Kê<i>s</i>i Gautama made the following reply: (42)
 
 “Love, hatred, &c., are heavy fetters, attachment is a dangerous one; having regularly destroyed them, I live up to the rules of conduct.” (43)
 
@@ -140,7 +140,7 @@ Kê<i>s</i>i said to Gautama, ‘What do you call that plant?’ To these words 
 
 Kê<i>s</i>i said to Gautama, ‘What do you call the fire?’ To these words of Kê<i>s</i>i Gautama made the following reply: (52)
 
-“The passions are the fire; knowledge, a virtuous life, and penances are the water; sprinkled <span id="p126">[<sup><small>p. 126</small></sup>]</span> with the drops of knowledge the fire of the passions is extinguished and does not burn me.” (53)
+“The passions are the fire; knowledge, a virtuous life, and penances are the water; sprinkled <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> with the drops of knowledge the fire of the passions is extinguished and does not burn me.” (53)
 
 ‘Well, Gautama, &c. (as in verse 28). (54)
 
@@ -166,7 +166,7 @@ Kê<i>s</i>i said to Gautama, ‘What do you call the path?’ To these words of
 
 ‘Is there a shelter, a refuge, a firm ground for the beings carried away by the great flood of water? do you know the island, O Gautama?’ (65)
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 “There is a large, great island in the midst of water, which is not inundated by the great flood of water.” (66)
 
@@ -192,7 +192,7 @@ Kê<i>s</i>i said to Gautama, ‘What do you call this boat?’ To these words o
 
 Kê<i>s</i>i said to Gautama, ‘What do you call this sun?’ To these words of Kê<i>s</i>i Gautama made the following reply: (77)
 
-“Risen has he who put an end to the Circle of <span id="p128">[<sup><small>p. 128</small></sup>]</span> Births, the omniscient <i>G</i>ina, the luminary, who brings light into the whole world of living beings.” (78)
+“Risen has he who put an end to the Circle of <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> Births, the omniscient <i>G</i>ina, the luminary, who brings light into the whole world of living beings.” (78)
 
 ‘Well, Gautama, &c. (as in verse 28). (79)
 
@@ -212,7 +212,7 @@ After his doubt had been solved, Kê<i>s</i>i, of enormous sanctity, bowed his h
 
 And in the pleasant (Tinduka park) he sincerely adopted the Law of the five vows, which was proclaimed by the first Tîrthakara, according to the teaching of the last Tîrthakara. (87)
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 In that meeting of Kê<i>s</i>i and Gautama, knowledge and virtuous conduct were for ever brought to eminence, and subjects of the greatest importance were settled. (88)
 

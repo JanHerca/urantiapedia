@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T19:16:7Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 After studying the philosophy of Alfarabi, one comes to three conclusions; first, that Alfarabi brought about the first penetration of Arabism into Hellenism and of Hellenism into Arabism.
 

@@ -36,7 +36,7 @@ THE LIFE OF GURU NANAK. CHAPTER XII
 
 Meanwhile the Guru made a journey to the south of India. He wore wooden sandals, took a stick in his hand, twisted a rope round his head as a turban, and on his forehead put a patch and a streak. On that occasion he was accompanied by Saido and Gheho of the Jat tribe. He proceeded to the Dravidian country now named Madras.
 
-His companions, seeing his morning ablutions, thought that he worshipped the river god, Khwaja Khizir,[^1] and derived his power from him. They <span id="p148">[<sup><small>p. 148</small></sup>]</span> determined to worship the same god, and advance themselves if possible to a higher spiritual eminence than the Guru had attained. While travelling one night for the purpose of their worship they met a man carrying a fish in his hand. After mutual interrogations he said that he was the river god taking an offering to the Guru, and that it was from the Guru he had obtained his power, and not the Guru from him. He added: ‘I am water, he is air, a superior element; I am often contained in him.’ Saido and Gheho then went and prostrated them selves before the Guru. He asked them why they had come to him at that hour. They used formerly only to come after sunrise. They then confessed to him the whole story of their attempted worship of Khwaja Khizir, and begged his forgiveness. The Guru composed the following on that occasion:—
+His companions, seeing his morning ablutions, thought that he worshipped the river god, Khwaja Khizir,[^1] and derived his power from him. They <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> determined to worship the same god, and advance themselves if possible to a higher spiritual eminence than the Guru had attained. While travelling one night for the purpose of their worship they met a man carrying a fish in his hand. After mutual interrogations he said that he was the river god taking an offering to the Guru, and that it was from the Guru he had obtained his power, and not the Guru from him. He added: ‘I am water, he is air, a superior element; I am often contained in him.’ Saido and Gheho then went and prostrated them selves before the Guru. He asked them why they had come to him at that hour. They used formerly only to come after sunrise. They then confessed to him the whole story of their attempted worship of Khwaja Khizir, and begged his forgiveness. The Guru composed the following on that occasion:—
 
 He who batheth in the immortal water of divine knowledge taketh with him the sixty-eight places of pilgrimage.
 The Guru's instruction is jewels and gems; by serving him his disciples find them.
@@ -50,7 +50,7 @@ He who is imbued with the true Name obtaineth it; that Guru is called sandal.
 Fix thine attention on His feet by whose odour vegetables
 are perfumed.
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Through the Guru man obtaineth real life, and through the Guru man departeth to God's home.
 Nanak, through the Guru man is absorbed in the True One; through the Guru man obtaineth the special dignity of _deliverance_.[^1]
@@ -73,7 +73,7 @@ He who repeateth not God's name shall wander in birth and death.
 God's worth cannot be known without serving the true Guru.
 Whatever service God causeth men to do, that will be done.
 It is God Himself who acteth; whom besides shall I mention? God beholdeth His own greatness.
-He whom God inspireth serveth the Guru <span id="p150">[<sup><small>p. 150</small></sup>]</span> Nanak, they who give their lives shall be saved, and shall obtain honour in God's court.[^1]
+He whom God inspireth serveth the Guru <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> Nanak, they who give their lives shall be saved, and shall obtain honour in God's court.[^1]
 
 The Guru arrived at a Saravagi or Jain temple, which was much frequented. Narbhi, the Jain priest, went with his disciple to visit him. The Jains attach an exaggerated value to life in every form. The Jain priest heard that the Guru had not the same tender scruples on the subject, and began to catechize him. 'Eatest thou old or new corn? (that is, dost thou eat corn with worms in it or not?) ‘Drinkest thou cold water; shakest thou the trees of the forest to eat their fruit? Who is thy guru, and what power hath he to pardon thee since thou violatest all rules and destroyest life?’ The Guru in reply uttered the following pauri:—
 
@@ -90,7 +90,7 @@ After this the Guru launched out into a satire on the Jains:—
 
 They have their hair plucked out, they drink dirty water, they beg and eat others' leavings;
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 They spread out their ordure, they inhale its smell, they are shy to look at water;
 They have their heads plucked like sheep; the pluckers' hands are smeared with ashes—
@@ -107,7 +107,7 @@ The Jains make not gifts or perform ablutions; dust lighteth on their plucked he
 From water gems arose when Meru was made the churning staff.[^3]
 The gods appointed the sixty-eight places of pilgrimages, and holy days were fixed accordingly by their orders.
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 After ablution the Muhammadans pray; after ablution the Hindus worship; the wise ever bathe.
 The dead and the living are purified when water is poured on their heads.
@@ -128,7 +128,7 @@ Serpents, deer, fish, and sensualists who have women in their homes.
 Nanak, if it rain in Sawan, there are four _species of animals_ which feel discomfort—
 Cows' calves, the poor, travellers, and servants.
 
-The Jain priest went and fell at his feet and be came a convert to his faith. On that occasion the Guru completed his hymns in the Majh ki War, and Saido and Gheho wrote them down from his dictation. It is said that the Guru then went to an island in the ocean, governed by an inhuman tyrant. The name of the island has not been preserved. Besides <span id="p153">[<sup><small>p. 153</small></sup>]</span> Saido and Gheho a third Jat called Siho accompanied him thither. On seeing them the tyrant resolved to put them to death for trespassing on his domain. He seized the Guru as the first victim of his rage. The Guru fell into a trance and sang the following:—
+The Jain priest went and fell at his feet and be came a convert to his faith. On that occasion the Guru completed his hymns in the Majh ki War, and Saido and Gheho wrote them down from his dictation. It is said that the Guru then went to an island in the ocean, governed by an inhuman tyrant. The name of the island has not been preserved. Besides <span id="p153"><sup><small>[ p. 153 ]</small></sup></span> Saido and Gheho a third Jat called Siho accompanied him thither. On seeing them the tyrant resolved to put them to death for trespassing on his domain. He seized the Guru as the first victim of his rage. The Guru fell into a trance and sang the following:—
 
 He to whom the Lord is compassionate and merciful, will do the Master's work.
 That worshipper whom God causeth to abide by His order, will worship Him.
@@ -145,7 +145,7 @@ Receiveth a hundred reproaches by day and a thousand by night.[^3]
 
 The Pir then fell at his feet, invited the Guru to abide with him and desist from his wanderings, upon which the Guru uttered the following reflection and instruction:—
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 Rest, sit at home, there is trouble in ever travelling.
 A place of rest is recognized when men dwell there permanently.

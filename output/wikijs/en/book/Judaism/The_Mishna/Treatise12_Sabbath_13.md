@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ### CHAPTER XIII.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 6. If a stag enter a house, and one man shuts him in, he is guilty; if two shut him in, they are absolved; if one man is not able to shut him in, and \[therefore\] two shut him in, they are guilty. [^144] R. Simeon absolves them.
 
-§ 7. If one man places himself in the door \[entry, to prevent the deer from getting out again\], but does not \[completely\] fill it, and a second person places \[himself next to him\], and does fill it, the second is guilty. If the first places himself in the door \[entry\], and fills it, and a second person comes and places himself at his side, <span id="p57">[<sup><small>p. 57</small></sup>]</span> although the first should afterwards get up and go away \[leaving the second in the entry\], the first is guilty, and the second is absolved. For what is this like? Like as if he had locked his house to secure his property, and a stag is found secured within it.
+§ 7. If one man places himself in the door \[entry, to prevent the deer from getting out again\], but does not \[completely\] fill it, and a second person places \[himself next to him\], and does fill it, the second is guilty. If the first places himself in the door \[entry\], and fills it, and a second person comes and places himself at his side, <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> although the first should afterwards get up and go away \[leaving the second in the entry\], the first is guilty, and the second is absolved. For what is this like? Like as if he had locked his house to secure his property, and a stag is found secured within it.
 
 
 

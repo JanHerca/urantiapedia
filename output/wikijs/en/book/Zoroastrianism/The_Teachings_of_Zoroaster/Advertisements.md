@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T12:15:21Z
   </table>
 </figure>
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 The following historical advertisements followed the text of the original book. They are included for completeness—JBH.
 
@@ -69,7 +69,7 @@ The Sayings of Lao-Tzu
 
 From the Chinese. Translated with Introduction by LIONEL GILES, of the British Museum. \[_Ready_.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 The Religion of the Koran
 
@@ -105,7 +105,7 @@ _Others in preparation and will be duly announced_
 
 JOHN MURRAY, ALBEMARLE STREET, LONDON, W.
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## EXTRACTS FROM A FEW PRESS OPINIONS
 
@@ -149,7 +149,7 @@ JOHN MURRAY, ALBEMARLE STREET, LONDON, W.
 
 **Public Opinion**.—“These tiny books have much to commend them.”
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 **All Literary Communications to be addressed to the Editors of**
 

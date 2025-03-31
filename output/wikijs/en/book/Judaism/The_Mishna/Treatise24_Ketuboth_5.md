@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 ### CHAPTER V.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 3. A Yabam [^829] does not qualify \[his sister-in-law, who expects to be married by him\] to eat of heave. If \[out of the twelve preparatory months allowed her\] she has passed six months \[during the lifetime\] of her \[intended\] husband, and six months before the Yeboom, or even the whole twelve months before \[the death of\] her \[intended\] husband, less one day before the Yeboom, or the whole twelve months before the Yeboom, [^830] less one day before her \[intended\] husband's \[death\], she is not \[entitled\] to eat of heave. Such was the first \[eldest\] Mishna, but a subsequent Bethdin decided, in no case is the woman \[entitled\] to eat of heave until she is placed under the nuptial canopy.
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 § 4. Should a man by vow consecrate \[the produce of\] his wife's industry, she \[nevertheless has a right to\] subsist on her earnings. \[If he consecrate\] the surplus, [^831] R. Meir saith, “It is consecrated:” R. Jochanan, the Sandaller, saith, “It is Choolin \[non-consecrated\].” [^832]
 
@@ -50,11 +50,11 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 6. He who by vow interdicts his wife from connubial intercourse, Beth Shammai hold \[after\] two weeks, Beth Hillel hold after \[one\] week \[he must either be absolved from his vow by a person properly qualified, or he must divorce her\]. Students may, for the purpose of studying the law, be absent without the consent of their wives during thirty days: workmen during one week. The marriage duty mentioned in the Law, [^835] is incumbent on men of independence [^836] daily, on workmen twice a week, \[on\] ass drivers [^837] once a week, \[on\] camel drivers [^838] once in thirty days, \[on\] navigators [^839] once in six months. Such is the dictum of R. Eleazar.
 
-§ 7. A woman who is refractory against her husband [^840] has her Ketubah diminished by \[a deduction of\] seven dinar every week. <span id="p255">[<sup><small>p. 255</small></sup>]</span> R. Jehudah saith “\[By\] seven terpaïkin.” [^841] How long is the deduction to be continued? Until it reaches \[the full amount of\] her Ketubah. R. José saith, “He \[the husband\] continues the deductions \[so long as she remains refractory\], for should any inheritance fall to her from any other quarter, he can therefrom recover them.” Thus likewise, should the husband prove refractory against his wife, [^842] they increase her Ketubah by \[the addition of\] three dinar every week. R. Jehudah saith “\[By\] three terpaïkin.”
+§ 7. A woman who is refractory against her husband [^840] has her Ketubah diminished by \[a deduction of\] seven dinar every week. <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> R. Jehudah saith “\[By\] seven terpaïkin.” [^841] How long is the deduction to be continued? Until it reaches \[the full amount of\] her Ketubah. R. José saith, “He \[the husband\] continues the deductions \[so long as she remains refractory\], for should any inheritance fall to her from any other quarter, he can therefrom recover them.” Thus likewise, should the husband prove refractory against his wife, [^842] they increase her Ketubah by \[the addition of\] three dinar every week. R. Jehudah saith “\[By\] three terpaïkin.”
 
 § 8. He who provides his wife \[with her maintenance\] through a third person, [^843] must not allow her less than two kab wheat or four kab barley \[a week\]. R. José stated that this \[double\] allowance of barley was granted only through \[the decision of\] R. Ishmael \[to those\] who resided near Idumea. [^844] He \[the husband\] must \[also\] allow her half a kab of legumes, half a lug of oil, a kab of dried figs, or a maneh weight of fig-cake: and if he has none, he must allow her fruits of another kind in its stead. \[Further\] he must provide her with a bedstead, a pillow, and a mattress \[another version has: “if he has no pillow he must provide her with a mattress”\], \[Moreover\] he must give her a bonnet \[cap\] for her head, a girdle for her loins, shoes every festival, and wearing apparel to the value of fifty zooz every year. He must not give her new garments in the summer season nor worn-out ones in the rainy season; but he must give her garments to the value of fifty zooz in the rainy season, so that she wears the old ones in the hot weather, and the worn-out ones belong to her.
 
-§ 9. He must further allow her a meah in money for her petty expences, and she takes her meals with him every Sabbath evening. Should he not allow her a meah in money for her petty expences, her earnings belong to her. [^845] What quantity of work is she bound to do for him? Five selah weight \[of spun wool\] for warp [^846] in Judea, which \[are equal to\] ten selah in Galilee, or ten selah weight for shute [^847] in Judea, which are \[equal to\] twenty selah in Galilee. If <span id="p256">[<sup><small>p. 256</small></sup>]</span> she is suckling, the quantity of her labor is \[to be\] diminished, and that of her sustenance increased. To whom do \[all\] the \[above\] stipulations apply? To the poor in Israel, but with respect to persons of distinction, every thing is regulated according to rank \[and station in society\]. [^848]
+§ 9. He must further allow her a meah in money for her petty expences, and she takes her meals with him every Sabbath evening. Should he not allow her a meah in money for her petty expences, her earnings belong to her. [^845] What quantity of work is she bound to do for him? Five selah weight \[of spun wool\] for warp [^846] in Judea, which \[are equal to\] ten selah in Galilee, or ten selah weight for shute [^847] in Judea, which are \[equal to\] twenty selah in Galilee. If <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> she is suckling, the quantity of her labor is \[to be\] diminished, and that of her sustenance increased. To whom do \[all\] the \[above\] stipulations apply? To the poor in Israel, but with respect to persons of distinction, every thing is regulated according to rank \[and station in society\]. [^848]
 
 
 

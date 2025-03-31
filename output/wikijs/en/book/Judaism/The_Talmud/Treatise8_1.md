@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 ## TREATISE VIII.
 
@@ -46,7 +46,7 @@ When Rain is to be prayed for—Proclamations for Fasting—Ceremonial of Fastin
 
 2\. We ask for rain only near to the season of rains. Rabbi Judah said, [^311] “he who passes last before the ark on the last holiday of the feast of tabernacles remembers it; the first does not remember it. On the first holiday of the passover the first remembers it, the last does not remember it.” How long do we ask for rain? Rabbi Judah said, “till the pass-over be ended.” Rabbi Meier said, “till Nisan depart, [^312] as is said, [^313] ‘And He will cause to come down for you the rain, the former rain, and the latter rain in the first _month_.’”
 
-3\. On the third day of Marchesvan [^314] we ask for the rain. Rabban Gamaliel said, “on the seventh, fifteen days after the <span id="p159">[<sup><small>p. 159</small></sup>]</span> feast, that the last Israelite returning home from the feast may reach the river Euphrates.”
+3\. On the third day of Marchesvan [^314] we ask for the rain. Rabban Gamaliel said, “on the seventh, fifteen days after the <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> feast, that the last Israelite returning home from the feast may reach the river Euphrates.”
 
 4\. If the seventeenth day of Marchesvan arrive, and the rain does not come down?“ ”Men of eminence begin to fast for three days. They may eat and drink by night. And they may work, and wash, and anoint themselves, and put on their sandals, and use their couches.”
 

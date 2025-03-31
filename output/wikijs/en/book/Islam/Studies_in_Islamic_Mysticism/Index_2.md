@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T20:3:38Z
   </table>
 </figure>
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Abú Sa‘íd ibn Abi ’l-Khayr, [1](./1_Introduction#p1)\-[76](./1_3#p76); authorities for his biography, [1](./1_Introduction#p1)\-[3](./1_Introduction#p3); his birth and early education, [3](./1_Introduction#p3)\-[5](./1_1#p5); his theological studies, [6](./1_1#p6); his conversion to Ṣúfisim, [6](./1_1#p6)\-[9](./1_1#p9); his lineage as a Ṣúfí, [10](./1_1#p10); his austerities, [11](./1_1#p11)\-[16](./1_1#p16); he buries his books of theology, [20](./1_1#p20); the tree planted by him at Mayhana, [20](./1_1#p20); his mystical illumination, attained at the age of forty, [24](./1_1#p24)\-[25](./1_1#p25); his journey to Níshápúr, [26](./1_1#p26), [27](./1_1#p27); his telepathic powers, [27](./1_1#p27), [28](./1_1#p28)\-[36](./1_1#p36), [38](./1_1#p38)\-[41](./1_1#p41), [68](./1_3#p68); charges brought against him by the Sunnis, Shí‘ites, and Mu‘tazilites, [28](./1_1#p28), [29](./1_1#p29); his relations with Qushayrí, [33](./1_1#p33)\-[36](./1_1#p36); his luxury and extravagance, [35](./1_1#p35)\-[37](./1_1#p37) anecdotes showing how he maintained himself and his disciples, [38](./1_1#p38)\-[41](./1_1#p41); his vengeance on an Amír who refused to pay his debts, [42](./1_1#p42); his reported meeting with Avicenna, [42](./1_1#p42); his visit to Abú ’l-Ḥasan Kharaqání, [42](./1_1#p42)\-[44](./1_1#p44); his refusal to make the pilgrimage to Mecca, [44](./1_1#p44), [61](./1_2#p61); his death, [45](./1_1#p45); his epitaph, [45](./1_1#p45); description of his personal appearance, [45](./1_1#p45); regulations which he made for the inmates of his convent, [46](./1_1#p46), [76](./1_3#p76); his barber and tailor, [47](./1_1#p47); his desire to observe the Sunna of the Prophet, [47](./1_1#p47); the quatrains attributed to him, [1](./1_Introduction#p1), [4](./1_1#p4), [48](./1_2#p48); the character of his mysticism, [48](./1_2#p48) foll., [70](./1_3#p70), [76](./1_3#p76); sayings on self-negation, [50](./1_2#p50) foll.; he called himself Nobody the son of Nobody, [53](./1_2#p53); his ideal of charity and brotherhood, [55](./1_2#p55), [56](./1_2#p56); his pantheism, [57](./1_2#p57), [64](./1_2#p64); his attitude towards Islam, [57](./1_2#p57) foll.; his innovations in Ṣúfistic practice, [58](./1_2#p58); his miracles, [65](./1_2#p65) foll.; veneration paid to his relics, [73](./1_3#p73)\-[75](./1_3#p75)
 
@@ -64,7 +64,7 @@ Begging, [14](./1_1#p14)
 
 Being, Absolute, [83](./2_Introduction#p83); identical with Thought, [83](./2_Introduction#p83); its three stages of manifestation, [84](./2_Introduction#p84), [94](./2_2#p94) foll. _See_ Essence
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Being, contingent or phenomenal, [83](./2_Introduction#p83), [104](./2_4#p104), [153](./2_Appendix2#p153), [186](./3_Introduction#p186), [187](./3_Introduction#p187), [189](./3_Introduction#p189), [190](./3_Introduction#p190), [199](./3_Argument#p199), [209](./3_vv_1_100#p209), [221](./3_vv_200_299#p221), [222](./3_vv_200_299#p222)\-[223](./3_vv_200_299#p223), [232](./3_vv_300_399#p232), [242](./3_vv_400_499#p242), [251](./3_vv_500_599#p251). _See_ Phenomena
 
@@ -162,7 +162,7 @@ Fruit, the forbidden, [119](./2_4#p119), [223](./3_vv_200_299#p223)
 
 God, the nature of, [97](./2_2#p97) foll., [103](./2_3#p103), [104](./2_4#p104), [149](./2_Appendix2#p149) foll.; the substance of the universe, [99](./2_3#p99), [152](./2_Appendix2#p152); the essence of all religious beliefs, [130](./2_6#p130) foll., [159](./2_Appendix2#p159), [264](./3_vv_700_799#p264); the only real agent, [16](./1_1#p16), [51](./1_2#p51), [52](./1_2#p52), [54](./1_2#p54), [126](./2_6#p126), [161](./2_Appendix2#p161), [262](./3_vv_700_799#p262), [264](./3_vv_700_799#p264); the ways to, innumerable, [50](./1_2#p50); the way to, a single step, [50](./1_2#p50); the finite God of religion, [159](./2_Appendix2#p159), [160](./2_Appendix2#p160). _See_ Essence, the Divine; Attributes, the Divine; Names, the Divine; Allah
 
-Gospel, the, opening words of, according to Jílí, [139](./2_7#p139); typifies the second stage in the mystical <span id="p274">[<sup><small>p. 274</small></sup>]</span> ascent of the soul, [138](./2_7#p138); the true doctrine of, [140](./2_7#p140)
+Gospel, the, opening words of, according to Jílí, [139](./2_7#p139); typifies the second stage in the mystical <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> ascent of the soul, [138](./2_7#p138); the true doctrine of, [140](./2_7#p140)
 
 Ḥadíth. _See_ Traditions of the Prophet
 
@@ -250,7 +250,7 @@ Man, the earthly, [82](./2_Introduction#p82); the heavenly, [82](./2_Introductio
 
 Man, the Great, [155](./2_Appendix2#p155). _See_ Macrocosm Man, the nature and function of, [154](./2_Appendix2#p154) foll.
 
-Man, the Perfect, [77](./2_Introduction#p77) foll., [184](./3_Introduction#p184); unites the One and the Many, [78](./2_Introduction#p78), [84](./2_Introduction#p84); created in the image of God, [79](./2_Introduction#p79), [80](./2_Introduction#p80), [86](./2_Introduction#p86), [106](./2_4#p106), [107](./2_4#p107); the microcosm, [82](./2_Introduction#p82), [84](./2_Introduction#p84), [106](./2_4#p106); the _Quṭb_ and preserver of the universe, [86](./2_Introduction#p86), [105](./2_4#p105), [130](./2_6#p130); the vicegerent of God, [113](./2_4#p113), [130](./2_6#p130), [156](./2_Appendix2#p156); his threefold nature, [86](./2_Introduction#p86). [103](./2_3#p103), [104](./2_4#p104); identified with Adam, [154](./2_Appendix2#p154) foll.; identified with Mohammed, <span id="p275">[<sup><small>p. 275</small></sup>]</span> [86](./2_Introduction#p86), [88](./2_Introduction#p88), [104](./2_4#p104) foll.; the Logos, [104](./2_4#p104) foll.; not absolutely identical with God, [108](./2_4#p108), [118](./2_4#p118), [142](./2_7#p142); the Spirit whence all things have their origin, [108](./2_4#p108); his faculties, [115](./2_4#p115) foll. _See_ Adam; Mohammed; _al-insánu ’l-kámil_
+Man, the Perfect, [77](./2_Introduction#p77) foll., [184](./3_Introduction#p184); unites the One and the Many, [78](./2_Introduction#p78), [84](./2_Introduction#p84); created in the image of God, [79](./2_Introduction#p79), [80](./2_Introduction#p80), [86](./2_Introduction#p86), [106](./2_4#p106), [107](./2_4#p107); the microcosm, [82](./2_Introduction#p82), [84](./2_Introduction#p84), [106](./2_4#p106); the _Quṭb_ and preserver of the universe, [86](./2_Introduction#p86), [105](./2_4#p105), [130](./2_6#p130); the vicegerent of God, [113](./2_4#p113), [130](./2_6#p130), [156](./2_Appendix2#p156); his threefold nature, [86](./2_Introduction#p86). [103](./2_3#p103), [104](./2_4#p104); identified with Adam, [154](./2_Appendix2#p154) foll.; identified with Mohammed, <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> [86](./2_Introduction#p86), [88](./2_Introduction#p88), [104](./2_4#p104) foll.; the Logos, [104](./2_4#p104) foll.; not absolutely identical with God, [108](./2_4#p108), [118](./2_4#p118), [142](./2_7#p142); the Spirit whence all things have their origin, [108](./2_4#p108); his faculties, [115](./2_4#p115) foll. _See_ Adam; Mohammed; _al-insánu ’l-kámil_
 
 Man, the Primal, [86](./2_Introduction#p86)
 
@@ -346,7 +346,7 @@ Prophet, the. _See_ Mohammed
 
 Prophets, the, [7](./1_1#p7), [78](./2_Introduction#p78), [123](./2_5#p123), [131](./2_7#p131), [133](./2_7#p133), [137](./2_7#p137) foll.; superior to the saints, [141](./2_7#p141); types of Divine attributes, [149](./2_Appendix2#p149)
 
-<span id="p276">[<sup><small>p. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 Punishment, future, [132](./2_7#p132), [136](./2_7#p136), [137](./2_7#p137), [160](./2_Appendix2#p160)
 
@@ -442,7 +442,7 @@ Thoughts, the power of materialising them, [102](./2_3#p102), [136](./2_7#p136)
 
 Throne of God, the. See _al-‘arsh_
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Time, spiritual, [223](./3_vv_200_299#p223), [245](./3_vv_400_499#p245); unreal, [242](./3_vv_400_499#p242), [245](./3_vv_400_499#p245)
 

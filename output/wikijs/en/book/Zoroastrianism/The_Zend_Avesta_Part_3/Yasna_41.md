@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## YASNA XLI. A PRAYER TO AHURA AS THE KING, THE LIFE, AND THE REWARDER.
 
-1\. Praises, and songs, and adorations do we offer to Ahura Mazda, and to Righteousness the Best; yea, we offer and we ascribe them, and proclaim them. 2. And to Thy good Kingdom, O Ahura Mazda! <span id="p290">[<sup><small>p. 290</small></sup>]</span> may we attain for ever, and a good King be Thou over us; and let each man of us, and so each woman, thus abide, O Thou most beneficent of beings, and for both the worlds! 3. Thus do we render Thee, the helpful Yazad, endowed with good devices, the friend of them (who worship Thee) with (well-adjusted) ritual; so may’st Thou be to us our life, and our body's vigour, O Thou most beneficent of beings, and that for both the worlds!
+1\. Praises, and songs, and adorations do we offer to Ahura Mazda, and to Righteousness the Best; yea, we offer and we ascribe them, and proclaim them. 2. And to Thy good Kingdom, O Ahura Mazda! <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> may we attain for ever, and a good King be Thou over us; and let each man of us, and so each woman, thus abide, O Thou most beneficent of beings, and for both the worlds! 3. Thus do we render Thee, the helpful Yazad, endowed with good devices, the friend of them (who worship Thee) with (well-adjusted) ritual; so may’st Thou be to us our life, and our body's vigour, O Thou most beneficent of beings, and that for both the worlds!
 
 4\. Aye, let us win and conquer (?) long life, O Ahura Mazda! in Thy grace, and through Thy will may we be powerful. May’st Thou lay hold on us to help, and long, and with salvation, O Thou most beneficent of beings!
 

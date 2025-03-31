@@ -36,7 +36,7 @@ SECOND ADHYÂYA [^525].
 
 ## FIRST KHA<i>N</i><i>D</i>A.
 
-1\. He (the sun), who shines, honoured this world (the body of the worshipper, by entering into it), in the form of man [^526] (the worshipper who meditates on breath). For he who shines (the sun) is (the same as) the breath. He honoured this (body of the worshipper) during a hundred years, therefore there are a hundred years in the life of a man. Because he honoured him during a hundred years, therefore there are (the poets of the first Ma<i>n</i><i>d</i>ala of the Rig-veda, called) the Satar<i>k</i>in, (having honour for a <span id="p215">[<sup><small>p. 215</small></sup>]</span> hundred years.) Therefore people call him who is really Prâ<i>n</i>a (breath), the Satar<i>k</i>in poets [^527].
+1\. He (the sun), who shines, honoured this world (the body of the worshipper, by entering into it), in the form of man [^526] (the worshipper who meditates on breath). For he who shines (the sun) is (the same as) the breath. He honoured this (body of the worshipper) during a hundred years, therefore there are a hundred years in the life of a man. Because he honoured him during a hundred years, therefore there are (the poets of the first Ma<i>n</i><i>d</i>ala of the Rig-veda, called) the Satar<i>k</i>in, (having honour for a <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> hundred years.) Therefore people call him who is really Prâ<i>n</i>a (breath), the Satar<i>k</i>in poets [^527].
 
 2\. He (breath) placed himself in the midst of all whatsoever exists. Because he placed himself in the midst of all whatsoever exists, therefore there are (the poets of the second to the ninth Ma<i>n</i><i>d</i>ala of the Rig-veda, called) the Mâdhyamas. Therefore people call him who is really Prâ<i>n</i>a (breath), the Mâdhyama poets.
 
@@ -46,7 +46,7 @@ SECOND ADHYÂYA [^525].
 
 5\. The Devas (speech, &c.) said to him (the breath): ‘He is to be loved by all of us.’ Because the Devas said of him, that he was to be loved (vâma) by all of them, therefore there is (the poet of the fourth Ma<i>n</i><i>d</i>ala of the Rig-veda, called) Vâmadeva. Therefore people call him who is really Prâ<i>n</i>a (breath), Vâmadeva.
 
-6\. He (breath) guarded all this whatsoever from evil. Because he guarded (atrâyata) all this whatsoever <span id="p216">[<sup><small>p. 216</small></sup>]</span> from evil, therefore there are (the poets of the fifth Ma<i>n</i><i>d</i>ala of the Rig-veda, called) Atraya<i>h</i>. Therefore people call him who is really Prâ<i>n</i>a (breath), Atraya<i>h</i>.
+6\. He (breath) guarded all this whatsoever from evil. Because he guarded (atrâyata) all this whatsoever <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> from evil, therefore there are (the poets of the fifth Ma<i>n</i><i>d</i>ala of the Rig-veda, called) Atraya<i>h</i>. Therefore people call him who is really Prâ<i>n</i>a (breath), Atraya<i>h</i>.
 
 ## SECOND KHA<i>N</i><i>D</i>A.
 
@@ -56,7 +56,7 @@ SECOND ADHYÂYA [^525].
 
 3\. He (breath) went forth towards [^529] all this whatsoever. Because he went forth toward all this whatsoever, therefore there are (the poets of the eighth Ma<i>n</i><i>d</i>ala of the Rig-veda, called) the Pragâthas. Therefore people call him who is really Prâ<i>n</i>a (breath), the Pragâthas.
 
-4\. He (breath) purified all this whatsoever. Because he purified all this whatsoever, therefore there <span id="p217">[<sup><small>p. 217</small></sup>]</span> are (the hymns and also the poets [^530] of the ninth Ma<i>n</i><i>d</i>ala of the Rig-veda, called) the Pavamânîs. Therefore people called him who is really Prâ<i>n</i>a (breath), the Pavamânîs.
+4\. He (breath) purified all this whatsoever. Because he purified all this whatsoever, therefore there <span id="p217"><sup><small>[ p. 217 ]</small></sup></span> are (the hymns and also the poets [^530] of the ninth Ma<i>n</i><i>d</i>ala of the Rig-veda, called) the Pavamânîs. Therefore people called him who is really Prâ<i>n</i>a (breath), the Pavamânîs.
 
 5\. He (breath) said: ‘Let me be everything whatsoever, small (kshudra) and great (mahat), and this became the Kshudrasûktas and Mahâsûktas.’ Therefore there were (the hymns and also the poets of the tenth Ma<i>n</i><i>d</i>ala of the Rig-veda, called) the Kshudrasûktas (and Mahâsûktas). Therefore people call him who is really Prâ<i>n</i>a (breath), the Kshudrasûktas (and Mahâsûktas).
 
@@ -64,7 +64,7 @@ SECOND ADHYÂYA [^525].
 
 7\. He (breath) is a <i>Ri</i><i>k</i> (verse), for he did honour [^532] to all beings (by entering into them). Because he did honour to all beings, therefore there was the <i>Ri</i><i>k</i> verse. Therefore people call him who is really Prâ<i>n</i>a (breath), <i>Ri</i><i>k</i>.
 
-8\. He (breath) is an Ardhar<i>k</i>a (half-verse), for he did honour to all places (ardha) [^533]. Because he did honour to all places, therefore there was the Ardhar<i>k</i>a. Therefore people call him who is really Prâ<i>n</i>a (breath), Ardhar<i>k</i>a. <span id="p218">[<sup><small>p. 218</small></sup>]</span> 9\. He (breath) is a Pada (word) [^534], for he got into all these beings. Because he got (pâdi) into all these beings, therefore there was the Pada (word). Therefore people call him who is really Prâ<i>n</i>a (breath), Pada.
+8\. He (breath) is an Ardhar<i>k</i>a (half-verse), for he did honour to all places (ardha) [^533]. Because he did honour to all places, therefore there was the Ardhar<i>k</i>a. Therefore people call him who is really Prâ<i>n</i>a (breath), Ardhar<i>k</i>a. <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> 9\. He (breath) is a Pada (word) [^534], for he got into all these beings. Because he got (pâdi) into all these beings, therefore there was the Pada (word). Therefore people call him who is really Prâ<i>n</i>a (breath), Pada.
 
 10\. He (breath) is an Akshara (syllable), for he pours out (ksharati) gifts to all these beings, and without him no one can pour out (atiksharati) gifts. Therefore there was the Akshara (syllable). Therefore people call him who is really Prâ<i>n</i>a (breath), Akshara [^535].
 
@@ -72,7 +72,7 @@ SECOND ADHYÂYA [^525].
 
 ## THIRD KHA<i>N</i><i>D</i>A.
 
-1\. While Vi<i>s</i>vâmitra was going to repeat the hymns of this day (the mahâvrata), Indra sat down near him [^537]. Vi<i>s</i>vâmitra (guessing that Indra wanted food) said to him, ‘This (the verses of the hymn) is food,’ and repeated the thousand B<i>ri</i>hatî verses [^538] <span id="p219">[<sup><small>p. 219</small></sup>]</span> By means of this he went to the delightful home of Indra (Svarga).
+1\. While Vi<i>s</i>vâmitra was going to repeat the hymns of this day (the mahâvrata), Indra sat down near him [^537]. Vi<i>s</i>vâmitra (guessing that Indra wanted food) said to him, ‘This (the verses of the hymn) is food,’ and repeated the thousand B<i>ri</i>hatî verses [^538] <span id="p219"><sup><small>[ p. 219 ]</small></sup></span> By means of this he went to the delightful home of Indra (Svarga).
 
 2\. Indra said to him: ‘<i>Ri</i>shi, thou hast come to my delightful home. <i>Ri</i>shi, repeat a second hymn [^539].’ Vi<i>s</i>vâmitra (guessing that Indra wanted food) said to him, ‘This (the verses of the hymn) is food,’ and repeated the thousand B<i>ri</i>hatî verses. By means of this he went to the delightful home of Indra (Svarga).
 
@@ -81,7 +81,7 @@ SECOND ADHYÂYA [^525].
 4\. Indra said to him: ‘<i>Ri</i>shi, thou hast come to my delightful home. I grant thee a boon.’ Vi<i>s</i>vâmitra said: ‘May I know thee.’ Indra said: ‘I am Prâ<i>n</i>a (breath), O <i>Ri</i>shi, thou art Prâ<i>n</i>a, all things are Prâ<i>n</i>a. For it is Prâ<i>n</i>a who shines as the sun, and I here pervade all regions under that form. This food of mine (the hymn) is my friend and my support (dakshi<i>n</i>a). This is the food prepared by Visvâmitra. I am verily he who shines (the sun).’
 
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 ## FOURTH KHA<i>N</i><i>D</i>A.
 
@@ -95,7 +95,7 @@ SECOND ADHYÂYA [^525].
 
 5\. This becomes perfect as a thousand of B<i>ri</i>hatî verses. He who knows this, after this thousand of B<i>ri</i>hatîs thus accomplished, becomes full of knowledge, full of the gods, full of Brahman, full of the immortal, and then goes also to the gods.
 
-6\. What I am (the worshipper), that is he (sun); what he is, that am I. <span id="p221">[<sup><small>p. 221</small></sup>]</span> 7\. This has been said by a <i>Ri</i>shi (Rv. I, 115, 1): ‘The sun is the self of all that moves and rests.’
+6\. What I am (the worshipper), that is he (sun); what he is, that am I. <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> 7\. This has been said by a <i>Ri</i>shi (Rv. I, 115, 1): ‘The sun is the self of all that moves and rests.’
 
 8\. Let him look to that, let him look to that!
 

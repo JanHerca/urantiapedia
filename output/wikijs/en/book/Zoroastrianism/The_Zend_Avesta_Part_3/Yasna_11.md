@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 [^1014].
 
-1\. Three clean creatures (full of blessings) curse betimes while yet invoking, the cow, the horse, and then H(a)oma. The cow cries to her driver [^1015] thus: <span id="p245">[<sup><small>p. 245</small></sup>]</span> Childless be thou, shorn of offspring, evil-famed, and slander-followed, who foddered [^1016] fairly dost not use me, but fattenest me for wife or children, and for thy niggard selfish meal.
+1\. Three clean creatures (full of blessings) curse betimes while yet invoking, the cow, the horse, and then H(a)oma. The cow cries to her driver [^1015] thus: <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> Childless be thou, shorn of offspring, evil-famed, and slander-followed, who foddered [^1016] fairly dost not use me, but fattenest me for wife or children, and for thy niggard selfish meal.
 
 2\. The horse cries to his rider thus: Be not spanner [^1017] of the racers; stretch no coursers to full-speed; do not stride across the fleetest, thou, who dost not pray me swiftness in the meeting thick with numbers, in the circuit thronged with men.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 6\. In his house is born no fire-priest, warrior ne’er in chariot standing, never more the thrifty tiller. In his home be born Dahâkas, Mûrakas of evil practice, doing deeds of double nature.
 
-7\. Quick, cut off then H(a)oma's portion, gift of flesh for doughty H(a)oma! Heed lest H(a)oma <span id="p246">[<sup><small>p. 246</small></sup>]</span> bind thee fettered, as he bound the fell Turanian Frangrasyan [^1020] (the murderous robber) fast in iron close-surrounded in the mid-third [^1021] of this earth! 8. Thereupon spake Zarathu<i>s</i>tra [^1022]; Praise to H(a)oma made by Mazda, good is H(a)oma Mazda-made.
+7\. Quick, cut off then H(a)oma's portion, gift of flesh for doughty H(a)oma! Heed lest H(a)oma <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> bind thee fettered, as he bound the fell Turanian Frangrasyan [^1020] (the murderous robber) fast in iron close-surrounded in the mid-third [^1021] of this earth! 8. Thereupon spake Zarathu<i>s</i>tra [^1022]; Praise to H(a)oma made by Mazda, good is H(a)oma Mazda-made.
 
 ---
 
@@ -56,7 +56,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ---
 
-10\.  [^1026]To thee, O holy H(a)oma! bearer of the ritual sanctity, I offer this my person which is seen (by all to be) mature, (and fit for gift); to H(a)oma the effective do I offer it, and to the sacred exhilaration which he bestows; and do thou grant to me (for this), O holy H(a)oma! thou that drivest death afar, (Heaven) the best world of the saints, shining, all brilliant. <span id="p247">[<sup><small>p. 247</small></sup>]</span> 11\. (The Ashem Vohû, &c.)
+10\.  [^1026]To thee, O holy H(a)oma! bearer of the ritual sanctity, I offer this my person which is seen (by all to be) mature, (and fit for gift); to H(a)oma the effective do I offer it, and to the sacred exhilaration which he bestows; and do thou grant to me (for this), O holy H(a)oma! thou that drivest death afar, (Heaven) the best world of the saints, shining, all brilliant. <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> 11\. (The Ashem Vohû, &c.)
 
 12-15. May’st Thou rule at Thy will, O Lord [^1027]!
 

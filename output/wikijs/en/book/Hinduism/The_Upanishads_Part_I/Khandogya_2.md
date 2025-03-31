@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 SECOND PRAPÂTHAKA.
 
@@ -50,7 +50,7 @@ SECOND PRAPÂTHAKA.
 
 1\. Let a man meditate on the fivefold Sâman [^126] as the five worlds. The hiṅkâra is, the earth, the prastâva the fire, the udgîtha the sky, the pratihâra the sun, the nidhana heaven; so in an ascending line.
 
-2\. In a descending line, the hiṅkâra is heaven, <span id="p24">[<sup><small>p. 24</small></sup>]</span> the prastâva the sun, the udgîtha the sky, the pratihâra the fire, the nidhana the earth.
+2\. In a descending line, the hiṅkâra is heaven, <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> the prastâva the sun, the udgîtha the sky, the pratihâra the fire, the nidhana the earth.
 
 3\. The worlds in an ascending and in a descending line belong to him who knowing this meditates on the fivefold Sâman as the worlds [^127].
 
@@ -64,7 +64,7 @@ SECOND PRAPÂTHAKA.
 
 1\. Let a man meditate on the fivefold Sâman in all waters. When the clouds gather, that is the hiṅkâra; when it rains, that is the prastâva that which flows in the east [^128], that is the udgîtha that which flows in the west [^129], that is the pratihâra the sea is the nidhana.
 
-2\. He does not die in water [^130], nay, he is rich in <span id="p25">[<sup><small>p. 25</small></sup>]</span> water who knowing this meditates on the fivefold Sâman as all waters.
+2\. He does not die in water [^130], nay, he is rich in <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> water who knowing this meditates on the fivefold Sâman as all waters.
 
 ## FIFTH KHA<i>N</i><i>D</i>A.
 
@@ -82,7 +82,7 @@ SECOND PRAPÂTHAKA.
 
 1\. Let a man meditate on the fivefold Sâman, which is greater than great, as the prâ<i>n</i>as (senses). The hiṅkâra is smell [^131] (nose), the prastâva speech (tongue), the udgîtha sight (eye), the pratihâra hearing (ear), the nidhana mind. These are one greater than the other.
 
-2\. What is greater than great belongs to him, nay, he conquers the worlds which are greater than <span id="p26">[<sup><small>p. 26</small></sup>]</span> great, who knowing this meditates on the fivefold Sâman, which is greater than great, as the prâ<i>n</i>as (senses).
+2\. What is greater than great belongs to him, nay, he conquers the worlds which are greater than <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> great, who knowing this meditates on the fivefold Sâman, which is greater than great, as the prâ<i>n</i>as (senses).
 
 ## EIGHTH KHA<i>N</i><i>D</i>A.
 
@@ -98,7 +98,7 @@ SECOND PRAPÂTHAKA.
 
 2\. Let him know that all beings are dependent on him (the sun). What he is before his rising, that is the hiṅkâra. On it animals are dependent. Therefore animals say hiṅ (before sunrise), for they share the hiṅkâra of that Sâman (the sun).
 
-3\. What he is when first risen, that is the prastâva. On it men are dependent. Therefore men love praise (prastuti) and celebrity, for they share the prastâva of that Sâman. <span id="p27">[<sup><small>p. 27</small></sup>]</span> 4\. What he is at the time of the saṅgava [^134], that is the âdi, the first, the Om. On it birds are dependent. Therefore birds fly about in the sky without support, holding themselves, for they share the âdi [^135] (the Om) of that Sâman.
+3\. What he is when first risen, that is the prastâva. On it men are dependent. Therefore men love praise (prastuti) and celebrity, for they share the prastâva of that Sâman. <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> 4\. What he is at the time of the saṅgava [^134], that is the âdi, the first, the Om. On it birds are dependent. Therefore birds fly about in the sky without support, holding themselves, for they share the âdi [^135] (the Om) of that Sâman.
 
 5\. What he is just at noon, that is the udgîtha. On it the Devas are dependent (because they are brilliant). Therefore they are the best of all the descendants of Pra<i>g</i>âpati, for they share the udgîtha of that Sâman.
 
@@ -108,7 +108,7 @@ SECOND PRAPÂTHAKA.
 
 8\. What he is when he first sets, that is the nidhana. On it the fathers are dependent. Therefore they put them [^136] down (nidadhati), for they share the nidhana of that Sâman. Thus a man meditates on the sevenfold Sâman as the sun.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 ## TENTH KHA<i>N</i><i>D</i>A.
 
@@ -126,7 +126,7 @@ SECOND PRAPÂTHAKA.
 
 ## ELEVENTH KHA<i>N</i><i>D</i>A [^139].
 
-1\. The hiṅkâra is mind, the prastâva speech, the udgîtha sight, the pratihâra hearing, the nidhana <span id="p29">[<sup><small>p. 29</small></sup>]</span> breath. That is the Gâyatra Sâman, as interwoven in the (five) prâ<i>n</i>as [^140].
+1\. The hiṅkâra is mind, the prastâva speech, the udgîtha sight, the pratihâra hearing, the nidhana <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> breath. That is the Gâyatra Sâman, as interwoven in the (five) prâ<i>n</i>as [^140].
 
 2\. He who thus knows this Gâyatra interwoven in the prâ<i>n</i>as, keeps his senses, reaches the full life, he lives long [^141], becomes great with children and cattle, great by fame. The rule of him who thus meditates on the Gâyatra is, ‘Be not high-minded.’
 
@@ -140,7 +140,7 @@ SECOND PRAPÂTHAKA.
 
 1, 2. Next follows the Vâmadevya as interwoven in generation [^144].
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ## FOURTEENTH KHA<i>N</i><i>D</i>A.
 
@@ -156,7 +156,7 @@ SECOND PRAPÂTHAKA.
 
 ## SIXTEENTH KHA<i>N</i><i>D</i>A.
 
-1\. The hiṅkâra is spring, the prastâva summer, the udgîtha the rainy season, the pratihâra autumn, <span id="p31">[<sup><small>p. 31</small></sup>]</span> the nidhana winter. That is the Vairâ<i>g</i>a Sâman, as interwoven in the seasons.
+1\. The hiṅkâra is spring, the prastâva summer, the udgîtha the rainy season, the pratihâra autumn, <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> the nidhana winter. That is the Vairâ<i>g</i>a Sâman, as interwoven in the seasons.
 
 2\. He who thus knows the Vairâ<i>g</i>a, as interwoven in the seasons, shines (virâ<i>g</i>ati) through children, cattle, and glory of countenance. He reaches the full life, he lives long, becomes great with children and cattle, great by fame. His rule is, ‘Never complain of the seasons.’
 
@@ -172,7 +172,7 @@ SECOND PRAPÂTHAKA.
 
 2\. He who thus knows these Revatîs, as interwoven in animals, becomes rich in animals [^148], he reaches the full life, he lives long, becomes great with children and cattle, great by fame. His rule is, ‘Never complain of animals.’
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 ## NINETEENTH KHA<i>N</i><i>D</i>A.
 
@@ -190,7 +190,7 @@ SECOND PRAPÂTHAKA.
 
 1\. The hiṅkâra is the threefold knowledge, the prastâva these three worlds, the udgîtha Agni (fire), Vâyu (air), and Âditya (sun), the pratihâra the stars, the birds, and the rays, the nidhana the serpents, Gandharvas, and fathers. That is the Sâman, as interwoven in everything.
 
-2\. He who thus knows this Sâman, as interwoven in everything, he becomes everything. <span id="p33">[<sup><small>p. 33</small></sup>]</span> 3\. And thus it is said in the following verse: There are the fivefold three (the three kinds of sacrificial knowledge, the three worlds &c. in their fivefold form, i. e. as identified with the hiṅkâra, the prastâva, &c.), and the other forms of the Sâman. Greater than these there is nothing else besides.’
+2\. He who thus knows this Sâman, as interwoven in everything, he becomes everything. <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> 3\. And thus it is said in the following verse: There are the fivefold three (the three kinds of sacrificial knowledge, the three worlds &c. in their fivefold form, i. e. as identified with the hiṅkâra, the prastâva, &c.), and the other forms of the Sâman. Greater than these there is nothing else besides.’
 
 4\. He who knows this, knows everything. All regions offer him gifts. His rule is, ‘Let him meditate (on the Sâman), knowing that he is. everything, yea, that he is everything [^149].’
 
@@ -198,14 +198,14 @@ SECOND PRAPÂTHAKA.
 
 1\. The udgîtha, of which a poet said, I choose the deep sounding note of the Sâman as good for cattle, belongs to Agni; the indefinite note belongs to Pra<i>g</i>âpati, the definite note to Soma, the soft and smooth note to Vâyu, the smooth and strong note to Indra, the heron-like note to B<i>ri</i>haspati, the dull note to Varu<i>n</i>a. Let a man cultivate all of these, avoiding, however, that of Varu<i>n</i>a.
 
-2\. Let a man sing [^151], wishing to obtain by his song immortality for the Devas. ‘May I obtain by my song oblations (svadhâ) for the fathers, hope for men, fodder and water for animals, heaven for the sacrificer, food for myself,’ thus reflecting on these in his mind, let a man (Udgât<i>ri</i> priest) sing praises, without making mistakes in pronunciation, &c. <span id="p34">[<sup><small>p. 34</small></sup>]</span> 3\. All vowels (svara) belong to Indra, all sibilants (ûshman) to Pra<i>g</i>âpati, all consonants (spar<i>s</i>a) to M<i>ri</i>tyu (death). If somebody should reprove him for his vowels, let him say, ‘I went to Indra as my refuge (when pronouncing my vowels): he will answer thee.’
+2\. Let a man sing [^151], wishing to obtain by his song immortality for the Devas. ‘May I obtain by my song oblations (svadhâ) for the fathers, hope for men, fodder and water for animals, heaven for the sacrificer, food for myself,’ thus reflecting on these in his mind, let a man (Udgât<i>ri</i> priest) sing praises, without making mistakes in pronunciation, &c. <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> 3\. All vowels (svara) belong to Indra, all sibilants (ûshman) to Pra<i>g</i>âpati, all consonants (spar<i>s</i>a) to M<i>ri</i>tyu (death). If somebody should reprove him for his vowels, let him say, ‘I went to Indra as my refuge (when pronouncing my vowels): he will answer thee.’
 
 4\. And if somebody should reprove him for his sibilants, let him say, ‘I went to Pra<i>g</i>âpati as my refuge: he will smash thee.’ And if somebody should reprove him for his consonants, let him say, ‘I went to M<i>ri</i>tyu as my refuge: he will reduce thee to ashes.’
 
 5\. All vowels are to be pronounced with voice (ghosha) and strength (bala), so that the Udgât<i>ri</i> may give strength to Indra. All sibilants are to be pronounced, neither as if swallowed (agrasta) [^152], nor as if thrown out (nirasta) [^153], but well opened [^154] (viv<i>ri</i>ta), so that the Udgât<i>ri</i> may give himself to Pra<i>g</i>âpati. All consonants are to be pronounced slowly, and without crowding them together [^155], so that the Udgât<i>ri</i> may withdraw himself from M<i>ri</i>tyu.
 
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 ## TWENTY-THIRD KHA<i>N</i><i>D</i>A.
 
@@ -219,7 +219,7 @@ SECOND PRAPÂTHAKA.
 
 ## TWENTY-FOURTH KHA<i>N</i><i>D</i>A.
 
-1\. The teachers of Brahman (Veda) declare, as the Prâta<i>h</i>\-savana (morning-oblation) belongs to the Vasus, the Mâdhyandina-savana (noon-libation) to <span id="p36">[<sup><small>p. 36</small></sup>]</span> the Rudras, the third Savana (evening-libation) to the Âdityas and the Vi<i>s</i>ve Devas,
+1\. The teachers of Brahman (Veda) declare, as the Prâta<i>h</i>\-savana (morning-oblation) belongs to the Vasus, the Mâdhyandina-savana (noon-libation) to <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> the Rudras, the third Savana (evening-libation) to the Âdityas and the Vi<i>s</i>ve Devas,
 
 2\. Where then is the world of the sacrificer? He who does not know this, how can he perform the sacrifice? He only who knows, should perform it [^157].
 
@@ -235,7 +235,7 @@ SECOND PRAPÂTHAKA.
 
 8\. ‘Open the door of the world (the sky), let us see thee, that we may rule wide (in the sky).’
 
-9\. Then he sacrifices, saying: ‘Adoration to <span id="p37">[<sup><small>p. 37</small></sup>]</span> Vâyu (air), who dwells in the sky, who dwells in the world. Obtain that world for me, the sacrificer! That is the world for the sacrificer!’
+9\. Then he sacrifices, saying: ‘Adoration to <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> Vâyu (air), who dwells in the sky, who dwells in the world. Obtain that world for me, the sacrificer! That is the world for the sacrificer!’
 
 10\. ‘I (the sacrificer) shall go thither, when this life is over. Take this! Cast back the bolt!’ Having said this, he rises. For him the Rudras fulfil the noon-oblation.
 

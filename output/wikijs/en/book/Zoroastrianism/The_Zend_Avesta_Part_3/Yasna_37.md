@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## YASNA XXXVII. TO AHURA, THE HOLY CREATION, THE FRAVASHIS OF THE JUST, AND THE BOUNTIFUL IMMORTALS.
 
-1\. Thus therefore do we worship Ahura Mazda, who made the Kine (the living creation), and the (embodied) Righteousness (which is incarnate in the clean), and the waters, and the wholesome plants, the stars, and the earth, and all (existing) objects <span id="p286">[<sup><small>p. 286</small></sup>]</span> that are good. 2. Yea, we worship Him for His Sovereign Power and His greatness, beneficent (as they are), and with priority among the Yazads [^1191] who abide beside the Kine (and care for her protection and support).
+1\. Thus therefore do we worship Ahura Mazda, who made the Kine (the living creation), and the (embodied) Righteousness (which is incarnate in the clean), and the waters, and the wholesome plants, the stars, and the earth, and all (existing) objects <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> that are good. 2. Yea, we worship Him for His Sovereign Power and His greatness, beneficent (as they are), and with priority among the Yazads [^1191] who abide beside the Kine (and care for her protection and support).
 
 3\. And we worship Him under His name as Lord, to Mazda dear, the most beneficent (of names). We worship him with our bones, and with our flesh, (with our bodies and our life). And we worship the [^1192] Fravashis of the saints, of holy men, and holy women; (4.) and Righteousness the Best do we worship, the most beauteous, the Bountiful Immortal and that which is endowed with light in all things good.
 

@@ -40,7 +40,7 @@ These two ways of life ending with death have been declared: death with one's wi
 
 Death against one's will is that of ignorant men, and it happens (to the same individual) many times. Death with one's will is that of wise men, and at best [^94] it happens but once. (3)
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Mahâvîra has (thus) described the first kind in which an ignorant man, being attached to pleasures, does very cruel actions. (4)
 
@@ -60,7 +60,7 @@ Then he suffers ill and is attacked by disease; and he is in dread of the next w
 
 I have heard of the places in hell, and of the destination of the sinner, where the fools who do cruel deeds will suffer violently. (12)
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Then going to the place where he is to be born again according to his deeds, he feels remorse, as I have heard (from my teacher). (13)
 
@@ -76,7 +76,7 @@ Full of peace and without injury to any one is, as I have heard (from my teacher
 
 Some householders are superior to some monks in self-control; but the saints are superior to all householders in self-control. (20)
 
-Bark and skin (of a goat), nakedness, twisted <span id="p23">[<sup><small>p. 23</small></sup>]</span> hair, baldness—these (outward tokens) will not save a sinful ascetic. (21)
+Bark and skin (of a goat), nakedness, twisted <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> hair, baldness—these (outward tokens) will not save a sinful ascetic. (21)
 
 A sinner, though he be a mendicant (friar), will not escape hell; but a pious man, whether monk or householder, ascends to heaven. (22)
 
@@ -90,7 +90,7 @@ To the highest regions, in due order, to those where there is no delusion, and t
 
 Having heard (this) from the venerable men who control themselves and subdue their senses, the virtuous and the learned do not tremble in the hour of death. (29)
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 A wise man having weighed (both kinds of death) and chosen the better one (taught in) the Law of Compassion, will become calm through patience, with an undisturbed mind (at the time of death). (30)
 

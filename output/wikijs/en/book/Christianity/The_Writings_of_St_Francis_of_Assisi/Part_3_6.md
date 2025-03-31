@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 ## VI. THE OFFICE OF THE PASSION.
 
@@ -48,7 +48,7 @@ Although the early biographies of St. Francis are silent as to this opuscule, it
 
 5\. For Christmas and the days following, to the close of the Epiphany octave.
 
-The text of the Office given in the Quaracchi edition is that of the Assisi MS. 338, only a few rubrical notes having been omitted. The Office may also be <span id="p155">[<sup><small>p. 155</small></sup>]</span> found in MSS. at Oxford, [^572] Berlin, [^573] and Liegnitz [^574] already described. [^575] It has never before, so far as I know, been translated into English. Here it is:—
+The text of the Office given in the Quaracchi edition is that of the Assisi MS. 338, only a few rubrical notes having been omitted. The Office may also be <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> found in MSS. at Oxford, [^572] Berlin, [^573] and Liegnitz [^574] already described. [^575] It has never before, so far as I know, been translated into English. Here it is:—
 
 ## OFFICE OF THE PASSION OF THE LORD.
 
@@ -62,7 +62,7 @@ _Psalm_.
 
 Ps. 55: 9. O God, I have declared to Thee my life; Thou hast set my tears in Thy sight.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Ps. 40: 8. All my enemies devised evils against me.
 
@@ -82,7 +82,7 @@ Ps. 87: 9. Thou hast put away my acquaintance far from me; they have set me an a
 
 Ps. 21: 20. Holy Father, remove not Thy help far from me: My God, look toward my help.
 
-Ps. 37: 23. Attend unto my help, O Lord, the God of my salvation,—Glory be. Holy Virgin Mary, there is none like unto Thee born in the world among women, daughter and handmaid <span id="p157">[<sup><small>p. 157</small></sup>]</span> of the most high King, the heavenly Father! Mother of our most holy Lord Jesus Christ, Spouse of the Holy Ghost; pray for us, with St. Michael Archangel, and all the Virtues of heaven, and all the Saints, to thy most holy, beloved Son, our Lord and Master. Glory be to the Father and to the Son and to the Holy Ghost. As it was in the beginning is now and ever shall be world without end. Amen.
+Ps. 37: 23. Attend unto my help, O Lord, the God of my salvation,—Glory be. Holy Virgin Mary, there is none like unto Thee born in the world among women, daughter and handmaid <span id="p157"><sup><small>[ p. 157 ]</small></sup></span> of the most high King, the heavenly Father! Mother of our most holy Lord Jesus Christ, Spouse of the Holy Ghost; pray for us, with St. Michael Archangel, and all the Virtues of heaven, and all the Saints, to thy most holy, beloved Son, our Lord and Master. Glory be to the Father and to the Son and to the Holy Ghost. As it was in the beginning is now and ever shall be world without end. Amen.
 
 **Note that the foregoing antiphon is said at all the Hours and it is said for antiphon, chapter, hymn, versicle, and prayer, and at Matins and at all the Hours likewise. He said nothing else in them except this antiphon with its Psalms. At the completion of the office Blessed Francis always said: Let us bless the Lord God living and true; let us refer praise, glory, honor, blessing and all praise to Him, always. Amen. Amen. Fiat. Fiat**.
 
@@ -98,7 +98,7 @@ Ps. 87: 3. Let my prayer come in before Thee; incline Thy ear to my petition.
 
 Ps. 68: 19. Attend to my soul and deliver it: save me because of my enemies.
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 Ps. 21: 10. For Thou art He that hast drawn me out of the womb; my hope from the breasts of my mother;
 
@@ -120,7 +120,7 @@ Thou art my Father, most holy, my king and my God.
 
 Ps. 37: 23. Attend unto my help, O Lord God of my salvation.
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 AT PRIME.
 
@@ -146,7 +146,7 @@ Ps. 56: 8. My heart is ready, O God, my heart is ready; I will sing, and rehears
 Ps. 56: 9. Arise, O my glory, arise psaltery and harp;
 I will arise early.
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 Ps. 56: 10. I will give praise to Thee, O Lord, among the people; I will sing a psalm to Thee among the nations;
 
@@ -172,7 +172,7 @@ Ps. 40: 7. They went out and spoke to the same purpose.
 
 Ps. 21: 8. All they that saw me have laughed me to scorn; they have spoken with the lips and wagged the head.
 
-Ps. 21: 7. But I am a worm and no man, a <span id="p161">[<sup><small>p. 161</small></sup>]</span> reproach of men and outcast of the people.
+Ps. 21: 7. But I am a worm and no man, a <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> reproach of men and outcast of the people.
 
 Ps. 30: 12. I am become a reproach among all my enemies and very much to my neighbors; and a fear to my acquaintance.
 
@@ -194,7 +194,7 @@ Ps. 141: 4. When my spirit failed me, then Thou knewest my paths. In this way wh
 
 Ps. 141: 5. I looked on my right-hand, and beheld, and there was no one that would know me. Flight hath failed me; and there is no one that hath regard to my soul.
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Ps. 68: 8. Because for Thy sake I have borne reproach; shame hath covered my face.
 
@@ -216,7 +216,7 @@ Thou art my Father, most holy; my King and my God.
 
 Ps. 37: 23. Attend unto my help, O Lord God of my salvation.
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 AT NONES.
 
@@ -247,7 +247,7 @@ Ps. 68: 22. And they gave me gall for my food: and in my thirst they gave me vin
 
 Ps. 21: 16. And Thou hast brought me into the dust of death;
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 Ps. 68: 27. and they have added to the grief of my wounds.
 I slept and rose again; and my most holy Father received me with glory.
@@ -271,7 +271,7 @@ _Psalm_.
 
 Ps. 46: 2. O clap your hands, all ye nations, shout unto God with the voice of joy.
 
-<span id="p165">[<sup><small>p. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 Ps. 46: 3. For the Lord is high, terrible: He is a great king over all the earth.
 For the most holy Father of heaven, our King, before ages sent His beloved Son from on high:
@@ -296,7 +296,7 @@ Ps. 95: 9. Let all the earth be moved at His presence;
 
 Ps. 95: 10. say among the gentiles that the Lord hath reigned.
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 **It is said up to this place daily from Good Friday until the feast of the Ascension. On the feast of the Ascension, however, these versicles are added over and above:**
 
@@ -320,7 +320,7 @@ Ps. 69: 2. O God, _etc_. (Ps. 69), _as in the Psalter_.
 
 **It is said daily at Compline until the octave of Pentecost**.
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 EASTER SUNDAY AT MATINS.
 
@@ -348,7 +348,7 @@ Ps. 95: 7. Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord g
 
 Ps. 95: 8. bring to the Lord glory unto His Name.
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 **It is said up to this place daily from Easter Sunday to the feast of the Ascension at all the Hours except at Vespers and Compline and Prime. On the night of the Ascension these verses are added:—**
 
@@ -368,7 +368,7 @@ _Ant_. Holy Mary.
 
 _Psalm_. Have mercy on me, etc.—_as above, p._ [159](#p159).
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 AT TIERCE, SEXT AND NONES.
 
@@ -408,7 +408,7 @@ Ps. 65: 1. Shout with joy to God, all the earth.
 
 Ps. 65: 2. Sing ye a Psalm to His name: give glory to His praise.
 
-Ps. 65: 3. Say unto God, How terrible are Thy works, O Lord: in the multitude <span id="p170">[<sup><small>p. 170</small></sup>]</span> of Thy strength Thy enemies shall lie to Thee.
+Ps. 65: 3. Say unto God, How terrible are Thy works, O Lord: in the multitude <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> of Thy strength Thy enemies shall lie to Thee.
 
 Ps. 65: 4. Let all the earth adore Thee and sing to Thee: let it sing a psalm to Thy Name.
 
@@ -434,7 +434,7 @@ _Psalm_.
 
 Ps. 19: 2. May the Lord hear thee in the day of tribulation: may the Name of the God of Jacob protect thee: may He
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 Ps. 19: 3. send thee help from the sanctuary and defend thee out of Sion:
 
@@ -466,7 +466,7 @@ _Psalm_.
 
 Ps. 70: 1. In Thee, O Lord, have I hoped, let me never be put to confusion.
 
-<span id="p172">[<sup><small>p. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 Ps. 70: 2. Deliver me in Thy justice and rescue me: incline Thine ear unto and save me.
 
@@ -494,7 +494,7 @@ _Ant_. Holy Mary.
 
 _Psalm_. O clap your hands. . . _as above, p_. [164](#p164).
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 **Here begin other Psalms which our most blessed Father Francis likewise arranged; which are to be said in place of the foregoing Psalms of the Passion of the Lord from the Advent of the Lord until Christmas eve and not longer**.
 
@@ -527,7 +527,7 @@ Exod. 15: 7. And in the multitude of Thy glory Thou hast put down Thy adversarie
 
 Ps. 68: 33. Let the poor see and rejoice: seek ye God and your soul shall live.
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 Ps. 68: 35. Let the heavens and the earth praise Him: the sea and everything that creepeth therein.
 
@@ -568,7 +568,7 @@ _Psalm_. O clap your hands, etc.—_as above, p_. [164](#p164).
 
 **Also note that the whole Psalm is not said but up to the verse, “Let all the earth be moved”; understand**
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 **however that the whole verse “Bring your own bodies” must be said. At the end of this verse “Glory be to the Father” is said. And thus it is said daily at Vespers from Advent until Christmas eve.**
 
@@ -594,7 +594,7 @@ Ps. 41: 9. In the day time the Lord hath commanded His mercy: and a canticle to 
 Ps. 117: 24. This is the day which the Lord hath made: let us rejoice and be glad in it.
 For the beloved and most holy Child has been given to us and born for us by the wayside.
 
-<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 Luke 2: 7. And laid in a manger because He had no room in the inn.
 

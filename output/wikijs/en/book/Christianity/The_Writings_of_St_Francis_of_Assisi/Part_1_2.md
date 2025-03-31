@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 ### II. SALUTATION OF THE VIRTUES.
 
@@ -42,7 +42,7 @@ Now follows the
 
 ## SALUTATION OF THE VIRTUES. [^135]
 
-Hail, [^136] queen wisdom! May the Lord save thee with thy sister holy pure simplicity! O <span id="p21">[<sup><small>p. 21</small></sup>]</span> Lady, holy poverty, may the Lord save thee with thy sister holy humility! O Lady, holy charity, may the Lord save thee with thy sister holy obedience! O all ye most holy virtues, may the Lord, from whom you proceed and come, save you! There is absolutely no man in the whole world who can possess one among you unless he first die. He who possesses one and does not offend the others, possesses all; and he who offends one, possesses none and offends all; and every one \[of them\] confounds vices and sins. Holy wisdom confounds Satan and all his wickednesses. Pure holy simplicity confounds all the wisdom of this world and the wisdom of the flesh. Holy poverty confounds cupidity and avarice and the cares of this world. Holy humility confounds pride and all the men of this world and all things that are in the world. Holy charity confounds all diabolical and fleshly temptations and all fleshly fears. Holy obedience confounds all bodily and fleshly desires and keeps the body mortified to the obedience of the spirit and to the obedience of one's brother and makes a man subject to all the men of this world and not to men alone, but also to all beasts and wild animals, so that they may do with him whatsoever they will, in so far as it may be granted to them from above by the Lord.
+Hail, [^136] queen wisdom! May the Lord save thee with thy sister holy pure simplicity! O <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> Lady, holy poverty, may the Lord save thee with thy sister holy humility! O Lady, holy charity, may the Lord save thee with thy sister holy obedience! O all ye most holy virtues, may the Lord, from whom you proceed and come, save you! There is absolutely no man in the whole world who can possess one among you unless he first die. He who possesses one and does not offend the others, possesses all; and he who offends one, possesses none and offends all; and every one \[of them\] confounds vices and sins. Holy wisdom confounds Satan and all his wickednesses. Pure holy simplicity confounds all the wisdom of this world and the wisdom of the flesh. Holy poverty confounds cupidity and avarice and the cares of this world. Holy humility confounds pride and all the men of this world and all things that are in the world. Holy charity confounds all diabolical and fleshly temptations and all fleshly fears. Holy obedience confounds all bodily and fleshly desires and keeps the body mortified to the obedience of the spirit and to the obedience of one's brother and makes a man subject to all the men of this world and not to men alone, but also to all beasts and wild animals, so that they may do with him whatsoever they will, in so far as it may be granted to them from above by the Lord.
 
 
 

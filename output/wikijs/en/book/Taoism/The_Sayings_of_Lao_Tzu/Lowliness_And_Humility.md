@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:11:52Z
 </figure>
 
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 ALL things in Nature work silently. They come into being and possess nothing. They fulfil their functions and make no claim.
 
@@ -47,7 +47,7 @@ Goodness strives not, and therefore it is not rebuked.
 
 He that humbles himself shall be preserved entire. He that bends shall be made straight. He that is empty shall be filled. He that is worn out shall be renewed. He who has little shall succeed. He who has much shall go astray.
 
-Therefore the Sage embraces Unity, and is a model for all under Heaven. He is free from self-display, therefore he shines forth; from self-assertion, therefore he is distinguished; from self-glorification, therefore he has merit; from self-exaltation, therefore he rises superior to all. Inasmuch as he does not strive, there <span id="p34">[<sup><small>p. 34</small></sup>]</span> is no one in the world who can strive with him.
+Therefore the Sage embraces Unity, and is a model for all under Heaven. He is free from self-display, therefore he shines forth; from self-assertion, therefore he is distinguished; from self-glorification, therefore he has merit; from self-exaltation, therefore he rises superior to all. Inasmuch as he does not strive, there <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> is no one in the world who can strive with him.
 
 He who, conscious of being strong, is content to be weak, he shall be the paragon of mankind. Being the paragon of mankind, Virtue will never desert him. He returns to the state of a little child.
 
@@ -61,7 +61,7 @@ Thus it is that “Some things are increased by being diminished, others are dim
 
 What makes a kingdom great is its being like a down-flowing river,—-the central point towards which all the smaller streams under Heaven converge; or like the female throughout the world, who by quiescence always overcomes the male. And quiescence is a form of humility.
 
-Therefore, if a great kingdom humbles itself before a small kingdom, it shall make that small kingdom its prize. And if a small kingdom humbles itself before a great kingdom, it shall win <span id="p35">[<sup><small>p. 35</small></sup>]</span> over that great kingdom. Thus the one humbles itself in order to attain, the other attains because it is humble. If the great kingdom has no further desire than to bring men together and to nourish them, the small kingdom will have no further desire than to enter the service of the other. But in order that both may have their desire, the great one must learn humility.
+Therefore, if a great kingdom humbles itself before a small kingdom, it shall make that small kingdom its prize. And if a small kingdom humbles itself before a great kingdom, it shall win <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> over that great kingdom. Thus the one humbles itself in order to attain, the other attains because it is humble. If the great kingdom has no further desire than to bring men together and to nourish them, the small kingdom will have no further desire than to enter the service of the other. But in order that both may have their desire, the great one must learn humility.
 
 The reason why rivers and seas are able to be lords over a hundred mountain streams, is that they know how to keep below them. That is why they are able to reign over all the mountain streams.
 
@@ -71,7 +71,7 @@ The Sage expects no recognition for what he does; he achieves merit but does not
 
 I have three precious things, which I hold fast and prize. The first is gentleness; the second is frugality; the third is humility, which keeps me from putting myself before others. Be gentle, and you can be bold; be frugal, and you can be liberal; avoid putting yourself before others, and you can become a leader among men.
 
-But in the present day men cast off gentleness, and are all for being bold; they spurn frugality, <span id="p36">[<sup><small>p. 36</small></sup>]</span> and retain only extravagance; they discard humility, and aim only at being first. Therefore they shall surely perish.
+But in the present day men cast off gentleness, and are all for being bold; they spurn frugality, <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> and retain only extravagance; they discard humility, and aim only at being first. Therefore they shall surely perish.
 
 Gentleness brings victory to him who attacks, and safety to him who defends. Those whom Heaven would save, it fences round with gentleness.
 

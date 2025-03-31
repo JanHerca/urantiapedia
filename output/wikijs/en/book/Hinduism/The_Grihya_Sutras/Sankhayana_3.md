@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 ## ADHYÂYA III, KHA<i>ND</i>A 1.
 
@@ -55,7 +55,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9\. With (the verse), ‘House by house the shining one’ (Rig-veda I, 123, 4) (he takes) the parasol,
 
-10\. With (the verse), ‘Rise up’ (Rig-veda X, 18, 6), the shoes, <span id="p92">[<sup><small>p. 92</small></sup>]</span>
+10\. With (the verse), ‘Rise up’ (Rig-veda X, 18, 6), the shoes, <span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 11\. With (the verse), ‘Long be thy hook’ (Rig-veda VIII, 17, 10) he takes a bamboo staff.
 
@@ -77,7 +77,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. [^205]. If he wishes to have a house built, he draws with an Udumbara branch three times a line round (the building-ground) with (the words), ‘Here I include the dwellings for the sake of food,’ and sacrifices in (its) centre on an elevated spot,
 
-2\. (With the texts,) 'Who art thou? Whose art <span id="p93">[<sup><small>p. 93</small></sup>]</span> thou? To whom do I sacrifice thee, desirous of (dwelling in the) village? Svâhâ!
+2\. (With the texts,) 'Who art thou? Whose art <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> thou? To whom do I sacrifice thee, desirous of (dwelling in the) village? Svâhâ!
 
 ‘Thou art the gods’ share on this (earth). From here have sprung the fathers who have passed away. The ruler has sacrificed, desirous of (dwelling in the) village, not omitting anything that belongs to the gods. Svâhâ!’
 
@@ -97,7 +97,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 3.
 
@@ -117,7 +117,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 6\. Those to the north with (the words), 'The Brahman and the Kshatra!
 
-7\. [^208]. 'Fortune the pinnacle, law the chief post! <span id="p95">[<sup><small>p. 95</small></sup>]</span>
+7\. [^208]. 'Fortune the pinnacle, law the chief post! <span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 8\. ‘Day and night the two door jambs!’
 
@@ -141,7 +141,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 7\. Of the B<i>ri</i>hat in the afternoon;
 
-8\. The four Mahâvyâh<i>ri</i>tis, the three verses, ‘Vâstoshpati!’ (Rig-veda VII, 54, 1-3), (the single verses,) ‘Driving away calamity,’ (and) ‘Vâstoshpati, <span id="p96">[<sup><small>p. 96</small></sup>]</span> a firm post’ (Rig-veda VII, 55, 1; VIII, 17, 14), and to (Agni) Svish<i>ri</i>ak<i>ri</i>t a tenth oblation of cooked food at night.
+8\. The four Mahâvyâh<i>ri</i>tis, the three verses, ‘Vâstoshpati!’ (Rig-veda VII, 54, 1-3), (the single verses,) ‘Driving away calamity,’ (and) ‘Vâstoshpati, <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> a firm post’ (Rig-veda VII, 55, 1; VIII, 17, 14), and to (Agni) Svish<i>ri</i>ak<i>ri</i>t a tenth oblation of cooked food at night.
 
 9\. Taking with himself his eldest son and his wife, carrying grain, let him enter (the house with the words),
 
@@ -157,7 +157,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 6.
 
@@ -185,7 +185,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4\. Let him pronounce auspicious words.
 
-5\. [^214]. When accepting the water for washing the feet he says, ‘The milk of Virâ<i>g</i> art thou; may I obtain <span id="p98">[<sup><small>p. 98</small></sup>]</span> the milk of Virâ_g_; in me (may) the milk of Padyâ Virâ<i>g</i> (dwell)!’
+5\. [^214]. When accepting the water for washing the feet he says, ‘The milk of Virâ<i>g</i> art thou; may I obtain <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> the milk of Virâ_g_; in me (may) the milk of Padyâ Virâ<i>g</i> (dwell)!’
 
 ## KHA<i>ND</i>A 8.
 
@@ -195,7 +195,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. [^216]. He thrice eats of it, sprinkling it with water, with (the verse), ‘From the good you have led us to the better, ye gods! Through thee, the nourishment, may we obtain thee. Thus enter into us, O potion, bringing refreshment; be a saviour to us, to men and animals!’
 
-4\. With (the verse), ‘This art thou, breath; the truth I speak This art thou; from all directions thou hast entered (into all beings). Thou driving away old age and sickness from my body be at home with me. Do not forsake us, Indra!’—he touches the place of the heart; <span id="p99">[<sup><small>p. 99</small></sup>]</span>
+4\. With (the verse), ‘This art thou, breath; the truth I speak This art thou; from all directions thou hast entered (into all beings). Thou driving away old age and sickness from my body be at home with me. Do not forsake us, Indra!’—he touches the place of the heart; <span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 5\. With (the words), ‘The navel art thou; do not fear; the knot of the breathing powers art thou; do not loosen thyself,’ (he touches) the navel;
 
@@ -219,7 +219,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KHA<i>ND</i>A 10.
 
-1\. The new moon that follows after the Phâlguna <span id="p100">[<sup><small>p. 100</small></sup>]</span> full moon, falls under (the Nakshatra) Revatî: on that (new moon day) he shall have the marks made (on his cattle),
+1\. The new moon that follows after the Phâlguna <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> full moon, falls under (the Nakshatra) Revatî: on that (new moon day) he shall have the marks made (on his cattle),
 
 2\. [^218]. With (the words), ‘Thou art the world, thousandfold prospering. To Indra may exertion (?) give thee. Inviolate art thou, unhurt, sap, food, protection. For as many (cows) I shall do this now, for more (than these) may I do it in the latest year.’
 
@@ -235,7 +235,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. He sacrifices, after having kindled amid the cows a well-inflamed fire, Â_g_ya oblations (with the words),
 
-4\. Here is delight; take delight here. Svâhâ! <span id="p101">[<sup><small>p. 101</small></sup>]</span> Here is still-standing; here is (your) own still-standing. Svâhâ!
+4\. Here is delight; take delight here. Svâhâ! <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> Here is still-standing; here is (your) own still-standing. Svâhâ!
 
 ‘I have let the calf join its mother. May the calf, sucking its mother's breast, support increase of wealth among us. Svâhâ!’
 
@@ -265,7 +265,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 12.
 
@@ -279,7 +279,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 5\. [^224]. With (the verses), 'She in whom Yama, the son of Vivasvat, and all gods are contained, the Ash<i>t</i>akâ whose face is turned to all sides, she has satiated my desires.
 
-‘They call thy teeth “the pressing-stones;” thy <span id="p103">[<sup><small>p. 103</small></sup>]</span> udder is (Soma) Pavamâna; . . . . are the months and half-months. Adoration to thee, O glad-faced one! Svâhâ!’
+‘They call thy teeth “the pressing-stones;” thy <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> udder is (Soma) Pavamâna; . . . . are the months and half-months. Adoration to thee, O glad-faced one! Svâhâ!’
 
 
 ## KHA<i>ND</i>A 13.
@@ -290,7 +290,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. Or (he shall do so) with the verse, ‘Carry the omentum, <i>G</i>âtavedas, to the Manes, where thou knowest them in the world of virtue. May streams of fat flow to them; may the wishes of the sacrificer be fulfilled. Svâhâ!’
 
-4\. (Then follow) the four Mahâvyâh<i>ri</i>tis (and) the four (verses), ‘They who have thirsted’ (see Sûtra 2): (thus is offered) an eightfold oblation of cooked food, together with the cut-off portions. <span id="p104">[<sup><small>p. 104</small></sup>]</span>
+4\. (Then follow) the four Mahâvyâh<i>ri</i>tis (and) the four (verses), ‘They who have thirsted’ (see Sûtra 2): (thus is offered) an eightfold oblation of cooked food, together with the cut-off portions. <span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 5 [^226]. Or, 'Interposed are the mountains; interposed is the wide earth to me. With the sky and all the points of the horizon I interpose another one instead of the father. To N.N. svâhâ!
 
@@ -309,7 +309,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. On the last (Ash<i>t</i>akâ) he sacrifices cakes,
 
-2\. With the words, 'The Ukthya and the Atirâtra. the Sadya<i>h</i>krî together with the metre—Ash<i>h</i>akâ! <span id="p105">[<sup><small>p. 105</small></sup>]</span> Preparer of cakes! Adoration to thee, O glad-faced one. Svâhâ!
+2\. With the words, 'The Ukthya and the Atirâtra. the Sadya<i>h</i>krî together with the metre—Ash<i>h</i>akâ! <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> Preparer of cakes! Adoration to thee, O glad-faced one. Svâhâ!
 
 3\. [^228]. A cow or a goat is the animal (to be sacrificed), or a mess of cooked food (should be offered).
 

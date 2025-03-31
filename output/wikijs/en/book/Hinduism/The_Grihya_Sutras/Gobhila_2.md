@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 ## PRAPÂ_TH_AKA II, KÂ_N__D_IKÂ 1.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. [^188] Taking them in his hand he should offer them to the girl, and (reciting the formula): ‘Right alone is the first; right nobody oversteps; on right this earth is founded. May N.N. become this universe!’—he should pronounce her name and should say: ‘Take one of these.’
 
-8\. If she takes one of the first four (clods), he should marry her, <span id="p43">[<sup><small>p. 43</small></sup>]</span>
+8\. If she takes one of the first four (clods), he should marry her, <span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 9\. [^189] And according to some (teachers) also, if (she takes) the mixed one.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 13\. [^191] Then one of the people who assist at the wedding, fills a cup with ‘firm’ water, and having walked with the water-pot round the fire on its front side, silent, wrapped in his robe, he stations himself to the south (of the fire), facing the north
 
-14\. Another person with a goad (walks in the same way and stations himself in the same place). <span id="p44">[<sup><small>p. 44</small></sup>]</span>
+14\. Another person with a goad (walks in the same way and stations himself in the same place). <span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 15\. They place roasted grain mixed with <i>S</i>amî leaves, to the amount of four handfuls, in a winnowing basket behind the fire,
 
@@ -80,7 +80,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 22\. She should make the end of the rush-mat (Sûtra 20) reach the end of the Barhis.
 
-23\. On the east end of the rush-mat she sits down to the right of the bridegroom. <span id="p45">[<sup><small>p. 45</small></sup>]</span>
+23\. On the east end of the rush-mat she sits down to the right of the bridegroom. <span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 24\. [^194] While she touches his right shoulder with her right hand, he sacrifices six oblations of Â<i>g</i>ya with (the verse), ‘May Agni go as the first,’ and the following (verses) (MB. I, 1, 9-14)—
 
@@ -105,7 +105,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. [^197] After (Â<i>g</i>ya) has been spread under and poured over (the fried grain), she sacrifices that in the fire without opening her joined hands, with (the verse which the bridegroom \[?\] recites), ‘This woman says’ (MB. I, 2, 2).
 
-7\. [^198] (The verses), ‘The god Aryaman,’ and, ‘Pûshan’ <span id="p46">[<sup><small>p. 46</small></sup>]</span> (l.l. 3. 4) (are repeated) at the two following (oblations of fried grain).
+7\. [^198] (The verses), ‘The god Aryaman,’ and, ‘Pûshan’ <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> (l.l. 3. 4) (are repeated) at the two following (oblations of fried grain).
 
 8\. [^199] After that sacrifice the husband, passing (behind her back), returns in the same way, and leads her round the fire so that their right sides are turned towards it, or a Brâhma<i>n</i>a versed in the Mantras (does the same), with (the verse), ‘The maid from the fathers’ (MB. I, 2, 5).
 
@@ -121,7 +121,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 14\. [^200] The lookers-on he should address with (the verse), ‘Auspicious ornaments wears this woman’ (I. 1. 8).
 
-15\. [^201] To the west of the fire the water-carrier follows (their way) and besprinkles the bridegroom on his forehead, and also the other one (i.e. the bride), <span id="p47">[<sup><small>p. 47</small></sup>]</span> with this verse (which the bridegroom murmurs), ‘May (the Vi<i>s</i>ve devâs) anoint (or, unite)’ (l.l. 9).
+15\. [^201] To the west of the fire the water-carrier follows (their way) and besprinkles the bridegroom on his forehead, and also the other one (i.e. the bride), <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> with this verse (which the bridegroom murmurs), ‘May (the Vi<i>s</i>ve devâs) anoint (or, unite)’ (l.l. 9).
 
 16\. After she has been (thus) besprinkled, he puts up her joined hands with his left hand, seizes with his right hand her right hand with the thumb, her hand being turned with the palm upwards, and murmurs these six verses referring to the seizing of (a girl's) hand, ‘I seize thy hand’ (MB. I, 2, 10-15).
 
@@ -147,7 +147,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. The remnants of each oblation he should pour out over the bride's head.
 
-8\. After the sacrifice they arise, go out (of the house), and he shows her the ‘firm star’ (i.e. the polar-star). <span id="p48">[<sup><small>p. 48</small></sup>]</span>
+8\. After the sacrifice they arise, go out (of the house), and he shows her the ‘firm star’ (i.e. the polar-star). <span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 9\. (Repeating the formula): ‘Firm art thou. May I, N.N., become firm in the house of N.N., my husband’—she should pronounce her husband's and her own name.
 
@@ -167,7 +167,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 17\. Some say (that this reception should be offered) when (the bridegroom and his companions) have arrived (at the house of the bride's father).
 
-18\. [^209] The first food which he eats, should be food <span id="p49">[<sup><small>p. 49</small></sup>]</span> fit for sacrifice, over which he has murmured (the verses quoted in Sûtra 21).
+18\. [^209] The first food which he eats, should be food <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> fit for sacrifice, over which he has murmured (the verses quoted in Sûtra 21).
 
 19\. Or he should prepare on the following day a mess of cooked food, of which they eat together.
 
@@ -188,7 +188,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. [^213] On the way he should address crossways, rivers and unevennesses (of the soil), big trees, and burial grounds, with (the verse), ‘May no waylayers meet us’ (ibid. 12).
 
-3\. [^214] If the axle breaks, or something that is bound gets loose, or if the chariot is overturned, or if some other accident happens, they should put wood on the fire which they carry with themselves, should <span id="p50">[<sup><small>p. 50</small></sup>]</span> make oblations (of Â<i>ri</i>ya) with the Vyâh<i>ri</i>tis, should procure a new piece (instead of that which has been damaged), and should besmear it with the remnants of the Â<i>ri</i>ya (that has been offered), with (the verse), ‘He who without binding’ (Sâma-veda I, 244).
+3\. [^214] If the axle breaks, or something that is bound gets loose, or if the chariot is overturned, or if some other accident happens, they should put wood on the fire which they carry with themselves, should <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> make oblations (of Â<i>ri</i>ya) with the Vyâh<i>ri</i>tis, should procure a new piece (instead of that which has been damaged), and should besmear it with the remnants of the Â<i>ri</i>ya (that has been offered), with (the verse), ‘He who without binding’ (Sâma-veda I, 244).
 
 4\. Having sung the Vâmadevya, he should mount (again).
 
@@ -211,7 +211,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 5.
 
@@ -231,7 +231,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. When she has had her monthly illness and the blood has ceased to flow, that is the time for cohabiting.
 
-9\. With his right hand he should touch her secret parts with the verse, ‘May Vish<i>n</i>u make thy womb <span id="p52">[<sup><small>p. 52</small></sup>]</span> ready’ (MB. I, 4, 6), and with that, ‘Give conception, Sinîvâlî’ (l.l. 7).
+9\. With his right hand he should touch her secret parts with the verse, ‘May Vish<i>n</i>u make thy womb <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> ready’ (MB. I, 4, 6), and with that, ‘Give conception, Sinîvâlî’ (l.l. 7).
 
 10\. When those two verses are finished, they cohabit.
 
@@ -254,7 +254,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. [^222] (He buys it with the Mantras):
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 ‘If thou belongest to Soma, I buy thee for the king Soma.
 
@@ -276,7 +276,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 10\. In the morning, after she has been washed, sitting on northward-pointed Darbha grass, (all over her body), including her head, she lies down to the west of the fire on northward-pointed Darbha grass, with her head to the east.
 
-11\. Her husband, standing behind her, should seize (the pounded Nyagrodha shoot) with the <span id="p54">[<sup><small>p. 54</small></sup>]</span> thumb and the fourth finger of his right hand, and should insert it into her right nostril with the verse, ‘A man is Agni, a man is Indra’ (MB. I, 4, 9).
+11\. Her husband, standing behind her, should seize (the pounded Nyagrodha shoot) with the <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> thumb and the fourth finger of his right hand, and should insert it into her right nostril with the verse, ‘A man is Agni, a man is Indra’ (MB. I, 4, 9).
 
 12\. Then they should do what they like.
 
@@ -295,7 +295,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 5\. He then parts her hair upwards (i.e. beginning from the front), the first time with Darbha blades, with (the word), ‘Bhû_h_!’ the second time with (the word), ‘Bhuva_h_!’ the third time with (the word), ‘Sva_h_!’—
 
-6\. Then with (a splint of) Vîratara (wood) with this verse, 'With which Aditi's' (ibid. 2); <span id="p55">[<sup><small>p. 55</small></sup>]</span>
+6\. Then with (a splint of) Vîratara (wood) with this verse, 'With which Aditi's' (ibid. 2); <span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 7\. Then with a full spindle, with this verse, ‘I invoke Râkâ’ (ibid. 3. 4)
 
@@ -319,7 +319,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 17\. [^227] When they announce to him that a son has been born, he should say, ‘Delay still cutting off the navel-string and giving him the breast.’
 
-18\. [^228] Let him have rice and barley-grains pounded in the same way as the (Nyagrodha) shoot. <span id="p56">[<sup><small>p. 56</small></sup>]</span>
+18\. [^228] Let him have rice and barley-grains pounded in the same way as the (Nyagrodha) shoot. <span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 19\. [^229] Seizing (that pounded <i>s</i>ubstance) with the thumb and the fourth finger of his right hand, he smears it on the tongue of the boy, with the formula, ‘This order’ (MB. I, 5, 8).
 
@@ -338,7 +338,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. [^231] On the third (Tithi) of the third bright fortnight after his birth, in the morning the father has the child washed, including his head, and after sunset, when the evening-red has disappeared, he worships (the moon), holding up his joined hands.
 
-2\. Then the mother, having dressed the son in a clean garment, hands him, from south to north, with his face turned to the north, to the father. <span id="p57">[<sup><small>p. 57</small></sup>]</span>
+2\. Then the mother, having dressed the son in a clean garment, hands him, from south to north, with his face turned to the north, to the father. <span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 3\. She then passes behind his back and stations herself to the north (of her husband).
 
@@ -354,7 +354,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 9\. He who is going to perform (that ceremony—the father or a representative of the father), sits down to the west of the fire on northward-pointed Darbha grass, facing the east.
 
-10\. [^234] Then the mother, having dressed the son in a clean garment, hands him, from south to north, <span id="p58">[<sup><small>p. 58</small></sup>]</span> with his face turned to the north, to the performer (of the ceremony).
+10\. [^234] Then the mother, having dressed the son in a clean garment, hands him, from south to north, <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> with his face turned to the north, to the performer (of the ceremony).
 
 11\. She then passes behind his back and sits down to the north (of him), on northward-pointed Darbha grass.
 
@@ -372,7 +372,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 18\. A cow constitutes the sacrificial fee.
 
-19\. [^237] Every month (after the birth) of the boy, (or) <span id="p59">[<sup><small>p. 59</small></sup>]</span> after one year, or on the Parvan days of the year (i.e. on the last Tithi of each of the three seasons) he should sacrifice to Agni and Indra, to Heaven and Earth, and to the Vi<i>s</i>ve devâs.
+19\. [^237] Every month (after the birth) of the boy, (or) <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> after one year, or on the Parvan days of the year (i.e. on the last Tithi of each of the three seasons) he should sacrifice to Agni and Indra, to Heaven and Earth, and to the Vi<i>s</i>ve devâs.
 
 20\. [^238] Having sacrificed to the deity (of the Tithi and of the Nakshatra respectively), he should sacrifice to the Tithi and to the Nakshatra.
 
@@ -391,7 +391,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 9.
 
@@ -409,7 +409,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. The boiled rice with sesamum seeds (Sutra 5) and all seeds (mentioned in Sûtra 6) are given to the barber.
 
-8\. Then the mother, having dressed the son in a clean garment, sits down to the west of the fire on northward-pointed Darbha grass, facing the east. <span id="p61">[<sup><small>p. 61</small></sup>]</span>
+8\. Then the mother, having dressed the son in a clean garment, sits down to the west of the fire on northward-pointed Darbha grass, facing the east. <span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 9\. To the west (of her), facing the east, the person stations himself who is going to perform that (ceremony).
 
@@ -425,7 +425,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 15\. Pressing them down with his left hand, and seizing with his right hand the razor of Udumbara wood or the mirror, he touches with it (the Darbha blades), with the (Mantra), ‘Axe! Do no harm to him!’ (ibid. 6).
 
-16\. With (the Mantra), 'With which Pûshan has shaven B<i>ri</i>haspati's head' (ibid. 7), he moves forward (that razor or the mirror) three times towards the east without cutting (the hair); once with the Ya<i>ri</i>us, twice silently. <span id="p62">[<sup><small>p. 62</small></sup>]</span>
+16\. With (the Mantra), 'With which Pûshan has shaven B<i>ri</i>haspati's head' (ibid. 7), he moves forward (that razor or the mirror) three times towards the east without cutting (the hair); once with the Ya<i>ri</i>us, twice silently. <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 17\. Then (the barber) with the razor of metal cuts the hair and throws (the cut off hair ends) on the bull's dung.
 
@@ -447,7 +447,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 26\. They throw the hair on the bull's dung (mentioned above), take it to the forest, and bury it.
 
-27\. Some throw them on a bunch (of grass or the like). <span id="p63">[<sup><small>p. 63</small></sup>]</span>
+27\. Some throw them on a bunch (of grass or the like). <span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 28\. Then they may do what they like.
 
@@ -469,7 +469,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. Let them not initiate such men, nor teach them, nor perform sacrifices for them, nor form matrimonial alliances with them.
 
-7\. On the day on which the youth is going to receive the initiation, on that day, early in the morning, they give him to eat, and have his hair arranged, and wash him, and deck him with ornaments, and put on him a (new) garment which has not yet been washed. <span id="p64">[<sup><small>p. 64</small></sup>]</span>
+7\. On the day on which the youth is going to receive the initiation, on that day, early in the morning, they give him to eat, and have his hair arranged, and wash him, and deck him with ornaments, and put on him a (new) garment which has not yet been washed. <span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 8\. [^252] Their garments are made of linen, of hempen cloth, of cotton, or of wool (according to the caste to which the student belongs).
 
@@ -487,7 +487,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 15\. [^255] To the east of the house on a surface besmeared (with cow-dung) wood has been put on the fire.
 
-16\. Having sacrificed with (the Mantras which the student recites) ‘Agni! Lord of the vow’ (MB. I, 6, 9-13), the teacher stations himself to the west <span id="p65">[<sup><small>p. 65</small></sup>]</span> of the fire, on northward-pointed Darbha grass, facing the east.
+16\. Having sacrificed with (the Mantras which the student recites) ‘Agni! Lord of the vow’ (MB. I, 6, 9-13), the teacher stations himself to the west <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> of the fire, on northward-pointed Darbha grass, facing the east.
 
 17\. Between the fire and the teacher the student (stands), raising his joined hands, turning his face towards the teacher, on northward-pointed Darbha grass.
 
@@ -507,7 +507,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 25\. Or also of his Gotra, according to some (teachers).
 
-26\. Having let the water run out of his joined <span id="p66">[<sup><small>p. 66</small></sup>]</span> hands (over the student's hands), the teacher with his right hand seizes (the student's) right hand together with the thumb, with (the formula), 'By the impulse of the god Savit_ri_, with the arms of the two A<i>s</i>vins, with Pûshan's hands I seize thy hand, N.N.!' (ibid. 18).
+26\. Having let the water run out of his joined <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> hands (over the student's hands), the teacher with his right hand seizes (the student's) right hand together with the thumb, with (the formula), 'By the impulse of the god Savit_ri_, with the arms of the two A<i>s</i>vins, with Pûshan's hands I seize thy hand, N.N.!' (ibid. 18).
 
 27\. He then makes him turn round from left to right with (the formula), 'Move in the sun's course after him, N.N.!' (ibid. 19).
 
@@ -525,7 +525,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 34\. ‘Put on fuel. Eat water. Do the service. Do not sleep in the day-time’ (ibid. 26).
 
-35\. Having gone in a northerly direction from <span id="p67">[<sup><small>p. 67</small></sup>]</span> the fire, the teacher sits down to the east, on northward-pointed Darbha grass,
+35\. Having gone in a northerly direction from <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> the fire, the teacher sits down to the east, on northward-pointed Darbha grass,
 
 36\. The student to the west, bending his right knee, turning his face towards the teacher, also on northward-pointed Darbha grass.
 
@@ -549,7 +549,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 46\. After sunset he puts a piece of wood on the fire with (the Mantra), ‘To Agni I have brought a piece of wood’ (ibid. 32).
 
-47\. Through a period of three nights he avoids eating pungent or saline food. <span id="p68">[<sup><small>p. 68</small></sup>]</span>
+47\. Through a period of three nights he avoids eating pungent or saline food. <span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 48\. At the end of that (period) a mess of boiled rice-grains (is offered) to Savit_ri_.
 

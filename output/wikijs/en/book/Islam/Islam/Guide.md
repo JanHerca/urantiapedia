@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T10:15:16Z
   </table>
 </figure>
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 The system of transliteration used in this volume for rendering Arabic and Persian words in Latin letters closely follows standard modern international practise.
 

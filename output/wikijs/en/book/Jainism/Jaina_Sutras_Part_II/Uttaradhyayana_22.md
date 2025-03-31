@@ -44,7 +44,7 @@ His wife was <i>S</i>ivâ by name; and her famous son was the venerable Arish<i>
 
 This Arish<i>t</i>anêmi, who was gifted with an excellent voice and possessed the thousand and eight lucky marks of the body, was a Gautama, and his skin was black. (5)
 
-His body was strong like that of a bull, and hard <span id="p113">[<sup><small>p. 113</small></sup>]</span> like steel; he was well proportioned, and had a belly like that of a fish.
+His body was strong like that of a bull, and hard <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> like steel; he was well proportioned, and had a belly like that of a fish.
 
 Kê<i>s</i>ava asked the girl Râ<i>g</i>îmatî [^291] in marriage for him. (6)
 
@@ -56,7 +56,7 @@ He had taken a bath containing all (lucky) herbs, and had performed the customar
 
 Riding on the best mast elephant [^293] of Vâsudêva he looked beautiful, like a jewel worn on the head. (10)
 
-He sat under a raised umbrella, fanned by two chowries, and he was surrounded on all sides by a host of Da<i>s</i>ârhas [^294] and by a complete army drawn <span id="p114">[<sup><small>p. 114</small></sup>]</span> up in rank and file, while the heavenly sound of musical instruments reached the sky. (11, 12)
+He sat under a raised umbrella, fanned by two chowries, and he was surrounded on all sides by a host of Da<i>s</i>ârhas [^294] and by a complete army drawn <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> up in rank and file, while the heavenly sound of musical instruments reached the sky. (11, 12)
 
 With such pomp and splendour the hero of the V<i>ri</i>sh<i>n</i>is started from his own palace. (13)
 
@@ -74,7 +74,7 @@ Having heard these words, which announced the slaughter of many animals, the gre
 
 Then the famous man presented the charioteer with his pair of earrings, his neck-chain, and all his ornaments. (20)
 
-When he had formed his resolution, the gods <span id="p115">[<sup><small>p. 115</small></sup>]</span> descended (from heaven), according to the established custom, to celebrate, with great pomp together with their retinue, the event of his renunciation. (21)
+When he had formed his resolution, the gods <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> descended (from heaven), according to the established custom, to celebrate, with great pomp together with their retinue, the event of his renunciation. (21)
 
 Surrounded by gods and men, and sitting on an excellent palankin, the Venerable One left Dvârakâ and ascended mount Raivataka [^297] (22)
 
@@ -90,7 +90,7 @@ In this manner Râma and Kêsava, the Da<i>s</i>ârhas, and many people paid hom
 
 When the daughter of the king heard of the ordination of the <i>G</i>ina, laughter and gaiety forsook her, and she was overwhelmed with affliction' [^299]. (28)
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Râ<i>g</i>îmatî thought: ‘Shame upon my life, that I have been forsaken by him! it is better I should turn nun.’ (29)
 
@@ -102,7 +102,7 @@ When she had entered the order, the virtuous and very learned lady induced there
 
 On her way to mount Raivataka it began to rain; her clothes being wet, she entered a cave and waited there in the darkness while it was raining. (33)
 
-She took off her clothes and was naked as she was born, thus she was seen by Rathanêmi [^301], whose <span id="p117">[<sup><small>p. 117</small></sup>]</span> (peace of) mind became (thereby) disturbed; and afterwards she saw him. (34)
+She took off her clothes and was naked as she was born, thus she was seen by Rathanêmi [^301], whose <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> (peace of) mind became (thereby) disturbed; and afterwards she saw him. (34)
 
 She was frightened when she discovered herself alone with the monk; folding her arms over her breast she sank down trembling. (35)
 
@@ -118,7 +118,7 @@ The daughter of the best king, true to self-control and her vows, maintained the
 
 ‘If you owned the beauty of Vai<i>s</i>rama<i>n</i>a [^303], the pleasing manners of Nalakûbara [^304], if you were like Purandara [^305] himself, I should have no desire for you. (41)
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 ‘Fie upon you, famous knight, who want to quaff the vomited drink for the sake of this life; it would be better for you to die [^306]. (42)
 
@@ -132,7 +132,7 @@ Having heard these well-spoken words of the virtuous lady, he returned to the La
 
 Protected in thoughts, words, and acts, subduing his senses and keeping the vows, he practised true <i>S</i>rama<i>n</i>ahood throughout life. (47)
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 After practising severe austerities both of them became Kêvalins, and having completely annihilated their Karman, they reached the highest perfection. (48)
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 
 DEVADATTA was eager to succeed the Buddha as head of the community. One day, he said to King Ajatasatru: “My lord, the Buddha holds you in contempt. He hates you. You must put him to death, for your glory is at stake. Send some men to the Bamboo Grove with orders to kill him; I shall lead the way.”
@@ -41,7 +41,7 @@ Ajatasatru was easily persuaded. The assassins came to the Bamboo Grove, but whe
 
 “This is the second time, thanks to Devadatta, that an elephant has paid homage to me.”
 
-Then Devadatta himself tried to do harm to the Master. He saw him meditating in the shade of a <span id="p262">[<sup><small>p. 262</small></sup>]</span> tree; and he had the audacity to throw a sharp stone at him. It struck him in the foot; the wound began to bleed. The Master said:
+Then Devadatta himself tried to do harm to the Master. He saw him meditating in the shade of a <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> tree; and he had the audacity to throw a sharp stone at him. It struck him in the foot; the wound began to bleed. The Master said:
 
 “You have committed a serious offense, Devadatta; the punishment will be terrible. Vain are your criminal attempts upon the life of the Blessed One; he will not meet with an untimely death. The Blessed One will pass away of his own accord, and at the hour he chooses.”
 
@@ -53,7 +53,7 @@ A son was born to Ajatasatru on the day he issued the order for his father's dea
 
 Then Ajatasatru began to repent. One day, he heard Queen Vaidehi saying to the infant prince, as she carried him in her arms:
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 “May your father be as kind to you as his father was to him. Once, when he was a child, he had a sore on his finger; it hurt him, and he cried; no ointment would heal it; so Vimbasara put the finger to his lips and drew out the pus, and Ajatasatru was able to laugh again and play. Oh, love your father, little child; do not punish him with your cruelty for having been cruel to Vimbasara.”
 
@@ -65,7 +65,7 @@ Ajatasatru took Jivaka's advice. He went to the Blessed One; he confessed his mi
 
 “Your father,” the Buddha said to him, “has been reborn among the most powerful Gods; he knows of your repentance, and he forgives you. Heed me, King Ajatasatru; know the law, and cease to suffer.”
 
-Ajatasatru issued a proclamation, banishing Devadatta from the kingdom, and ordering the inhabitants <span id="p264">[<sup><small>p. 264</small></sup>]</span> to close their doors to him if he were to seek refuge in their homes.
+Ajatasatru issued a proclamation, banishing Devadatta from the kingdom, and ordering the inhabitants <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> to close their doors to him if he were to seek refuge in their homes.
 
 Devadatta was then near Cravasti where he hoped to be received by King Prasenajit, but he was scornfully denied an audience and was told to leave the kingdom. Thwarted in his attempts to enlist followers, he finally set out for Kapilavastu.
 
@@ -87,7 +87,7 @@ He was admitted to her presence.
 
 “Woman, he spurned you; take your revenge.”
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 “Be quiet, monk. Your words are evil.”
 
@@ -103,7 +103,7 @@ Gopa blushed. From her gentle eyes fell tears of shame.
 
 In his rage he sprang at her. She put out her hand to protect herself, and he fell to the ground. As he rolled over, blood gushed from his mouth.
 
-He fled. The Sakyas heard that he was in Kapilavastu; they made him leave the city under an escort of guards, and he was taken to the Buddha who was to decide his fate. He pretended to be repentant, but he had dipped his nails in a deadly <span id="p266">[<sup><small>p. 266</small></sup>]</span> poison, and as he lay prostrate before the Maser, he tried to scratch his ankle. The Master pushed him away with his toe; then the ground opened; fierce flames burst forth, and they swallowed up the infamous Devadatta.
+He fled. The Sakyas heard that he was in Kapilavastu; they made him leave the city under an escort of guards, and he was taken to the Buddha who was to decide his fate. He pretended to be repentant, but he had dipped his nails in a deadly <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> poison, and as he lay prostrate before the Maser, he tried to scratch his ankle. The Master pushed him away with his toe; then the ground opened; fierce flames burst forth, and they swallowed up the infamous Devadatta.
 
 <figure class="table chapter-navigator">
   <table>

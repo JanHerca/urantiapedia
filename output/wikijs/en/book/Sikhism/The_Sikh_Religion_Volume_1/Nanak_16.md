@@ -34,13 +34,13 @@ dateCreated: 2025-2-12T12:8:12Z
 
 THE LIFE OF GURU NANAK. CHAPTER XVI
 
-There lived in a town called Khadur a Sikh named Jodha who used to repeat God's name while <span id="p183">[<sup><small>p. 183</small></sup>]</span> the rest of the inhabitants worshipped Durga. Their priest was a man called Lahina. One day when Jodha was repeating Guru Nanak's Japji, Lahina heard him and inquired whose composition it was. Jodha duly informed him, and they became intimate. On being introduced to the Guru, Lahina told his name, upon which the Guru said, ‘Thy _lahina_ is here, where else can it be found?’ In the Panjabi language the word lahina means to take or receive, and, the Guru meant, ‘What thou desirest to receive—salvation-is here, and nowhere else.’ After some spiritual instruction from the lips of the Guru, Lahina threw away the tinkling bells he wore on his hands and feet to dance before the goddess, and began to repeat God's name. He made it a practice afterwards to perform menial service for the Guru.[^1]
+There lived in a town called Khadur a Sikh named Jodha who used to repeat God's name while <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> the rest of the inhabitants worshipped Durga. Their priest was a man called Lahina. One day when Jodha was repeating Guru Nanak's Japji, Lahina heard him and inquired whose composition it was. Jodha duly informed him, and they became intimate. On being introduced to the Guru, Lahina told his name, upon which the Guru said, ‘Thy _lahina_ is here, where else can it be found?’ In the Panjabi language the word lahina means to take or receive, and, the Guru meant, ‘What thou desirest to receive—salvation-is here, and nowhere else.’ After some spiritual instruction from the lips of the Guru, Lahina threw away the tinkling bells he wore on his hands and feet to dance before the goddess, and began to repeat God's name. He made it a practice afterwards to perform menial service for the Guru.[^1]
 
 It is said that Lahina in a vision saw a female in a red dress shampooing the Guru. Lahina asked her who she was. She replied that she was Durga, and that she came once a week to do service for the Guru. On this Lahina became convinced of the divine mission of Guru Nanak.
 
 A Jogi went to visit the Guru and congratulate him on the large number of converts he had made. The Guru replied that he had few real Sikhs, as the Jogi himself would see. The Guru and the Jogi determined to proceed into the forest and there make trial of the Sikh converts who accompanied them in numbers. For this purpose the Guru assumed a terrible guise. He put on dirty, tattered clothes, took a knife in his hand, and proceeded with some hunting dogs into the forest, ostensibly in quest of game. On this several of his Sikhs fled. It was on that occasion the Guru composed the following:—
 
-<span id="p184">[<sup><small>p. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 I have a dog[^1] and two bitches[^2] with me;
 Every morning they bark at the wind.[^3]
@@ -65,7 +65,7 @@ O Creator, I remain in the guise of a huntsman.[^5]
 
 As the party proceeded they found the road covered with copper coins. Some Sikhs took them up and departed. Further on were found silver coins. Several Sikhs took up the silver coins and returned home. As the Guru's party proceeded further, they saw gold coins on the road. Several of the remaining Sikhs took up the gold coins and quickly vanished. Only the Jogi, two Sikhs, and the Guru's attendant Lahina now remained.
 
-On proceeding further they found a funeral pyre. Near the corpse were four lighted lamps. A sheet was stretched over it as it lay on the ground and emitted an offensive smell. The Guru said, ‘Let <span id="p185">[<sup><small>p. 185</small></sup>]</span> whoever wisheth to accompany me eat of this.’ The Sikhs quailed at the dreadful proposal, but Lahina remained staunch in his faith in the Guru. Without more ado he clasped his hands and asked the Guru if he should begin to eat the head or the feet of the corpse. The Guru told him to begin at the waist. Lahina lifted the winding-sheet in order to begin to eat, when lo! it is said, a dish of sacred food appeared instead of the corpse! Lahina offered the sacred food to the Guru first, and said he would partake of his leavings. The Guru replied, 'Thou hast obtained this sacred food because thou didst desire to share it with others. The wealth given by God which man useth himself or burieth in the earth, is like carrion; but the wealth which man shareth with others is as sacred food. Thou hast obtained, my secret; thou art in mine image. I will tell thee the real thing, the spell which is the essence of religion, and by which thou shalt have happiness here and hereafter. The following, which is the preamble of the Japji, is the spell meant by the Guru:—
+On proceeding further they found a funeral pyre. Near the corpse were four lighted lamps. A sheet was stretched over it as it lay on the ground and emitted an offensive smell. The Guru said, ‘Let <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> whoever wisheth to accompany me eat of this.’ The Sikhs quailed at the dreadful proposal, but Lahina remained staunch in his faith in the Guru. Without more ado he clasped his hands and asked the Guru if he should begin to eat the head or the feet of the corpse. The Guru told him to begin at the waist. Lahina lifted the winding-sheet in order to begin to eat, when lo! it is said, a dish of sacred food appeared instead of the corpse! Lahina offered the sacred food to the Guru first, and said he would partake of his leavings. The Guru replied, 'Thou hast obtained this sacred food because thou didst desire to share it with others. The wealth given by God which man useth himself or burieth in the earth, is like carrion; but the wealth which man shareth with others is as sacred food. Thou hast obtained, my secret; thou art in mine image. I will tell thee the real thing, the spell which is the essence of religion, and by which thou shalt have happiness here and hereafter. The following, which is the preamble of the Japji, is the spell meant by the Guru:—
 
 There is but one God whose name is True, the Creator,
 devoid of fear and enmity, immortal, unborn, self-existent, great, and bountiful. Repeat His name.
@@ -74,7 +74,7 @@ The True One is, was, O Nanak; the True One also shall be.
 
 The Guru instructed Lahina to utter the spell with a pure heart. It would fulfil all his desires, bestow happiness in this world and salvation in the next; and by the continual practice of it the light of God should dawn in his heart. Upon this the Jogi said, ‘O Nanak, he shall be thy Guru who is produced from thy body—ang.’ Upon this the Guru. embraced Lahina, addressed him. as Angad, and Promised that he should be his successor. The Jogi and the Guru then went to their respective homes.
 
-<span id="p186">[<sup><small>p. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 The Sikhs who had deserted the Guru, afterwards bitterly regretted their conduct. They who had found the copper money said, that if they had gone further they would have found the silver money; and they who had found the silver money said that if they had gone further, they would have found the gold money. Upon this the Guru composed the following:—
 
@@ -93,7 +93,7 @@ Nanak is with those who are low-born among the lowly;
 _Nay_, who are lowest of the low; how can he rival the great?
 Where Thou, O Lord, watchest over the lowly, Thy look of favour shall be their reward.[^2]
 
-The successor of Pir Baha-ul-Din, the Musalman prelate of Multan, went accompanied by several of his followers to visit Guru Nanak. On meeting him he said, 'I have loaded the load; do something <span id="p187">[<sup><small>p. 187</small></sup>]</span> for me'—that is, pray that I may have a successful journey to the next world.
+The successor of Pir Baha-ul-Din, the Musalman prelate of Multan, went accompanied by several of his followers to visit Guru Nanak. On meeting him he said, 'I have loaded the load; do something <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> for me'—that is, pray that I may have a successful journey to the next world.
 
 The Guru replied:—
 

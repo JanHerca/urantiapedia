@@ -119,7 +119,7 @@ And Indra with his thousand eyes,
 And may they grant the truth to be
 E'en as the words that startled me.’
 
-<span id="p413">[<sup><small>p. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 
 
@@ -218,7 +218,7 @@ For to these ears such words are sweet.
 &nbsp;&nbsp;&nbsp;&nbsp;The Vánar knew the lady's thought, [^862]
 And gave the answer fondly sought:
 
-<span id="p414">[<sup><small>p. 414</small></sup>]</span>
+<span id="p414"><sup><small>[ p. 414 ]</small></sup></span>
 
 ‘Bright as the sun that lights the sky
 Dear as the Moon to every eye.
@@ -326,7 +326,7 @@ The noblest of thy woodland kind.
 Who couldst, unmoved by terror, brook
 On Rávan, king of fiends, to look.
 
-<span id="p415">[<sup><small>p. 415</small></sup>]</span>
+<span id="p415"><sup><small>[ p. 415 ]</small></sup></span>
 
 Now may we commune here as friends,
 For he whom royal Ráma sends
@@ -430,7 +430,7 @@ To Ráma far beyond the sea;
 Will place thee on Prasravan hill
 Where Raghu's son is waiting still.’
 
-<span id="p416">[<sup><small>p. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;‘How canst thou bear me hence?’ she cried,
 ‘The way is long, the sea is wide.
@@ -535,7 +535,7 @@ In low obeisance reverent.
 And on his finger bound the gem
 She loosened from her diadem.
 
-<span id="p417">[<sup><small>p. 417</small></sup>]</span>
+<span id="p417"><sup><small>[ p. 417 ]</small></sup></span>
 
 
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 
 AT the end of three months, the Master descended to earth and took the road to Cravasti. As he was approaching Jeta's park, he met a young girl. She was the servant of a wealthy inhabitant of the city who happened to be working in the fields that day. She was taking him a bowl of rice for his meal. At the sight of the Buddha, she felt strangely happy.
@@ -45,7 +45,7 @@ She sighed. Her glance fell on the bowl of rice.
 
 She presented the bowl to the Buddha. He accepted it and continued on his way to Jeta's park. The young girl, her eyes shining with happiness, went to look for her master.
 
-<span id="p223">[<sup><small>p. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 “Where is my rice?” he asked, as soon as he saw her.
 
@@ -65,7 +65,7 @@ She went to Jeta's park; she sat at the Buddha's feet, and she became one of the
 
 Among those who sought instruction from the Blessed One at the same time as this young slave was Suprabha, the daughter of a prominent citizen of Cravasti. Suprabha was very beautiful. To see her was to fall in love with her, and she was courted by all the distinguished young men of the city. This caused her father no little concern. “To which one shall I give her in marriage?” he would repeatedly ask himself; “those whom I refuse will become my bitter enemies.”
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 And for hours at a time, he would remain deep in thought.
 
@@ -83,7 +83,7 @@ Suprabha's father went to King Prasenajit and received permission to have a hera
 
 “That seven days from this day, there will be held an assembly of all the young men who wish to marry Suprabha. The young girl herself will select a husband from among their number.”
 
-On the seventh day, a host of suitors gathered in the magnificent garden belonging to Suprabha's father. She appeared, riding in a chariot. She was holding a yellow banner on which was painted the picture of the Blessed One. She was singing his <span id="p225">[<sup><small>p. 225</small></sup>]</span> praises. They all looked at her in amazement, and they wondered, “What will she say to us?” She finally addressed the young men.
+On the seventh day, a host of suitors gathered in the magnificent garden belonging to Suprabha's father. She appeared, riding in a chariot. She was holding a yellow banner on which was painted the picture of the Blessed One. She was singing his <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> praises. They all looked at her in amazement, and they wondered, “What will she say to us?” She finally addressed the young men.
 
 “I can not love any of you,” said she, “but do not think that I spurn you. Love is not my aim in life; I want to take refuge with the Buddha. I shall go to the park where he dwells, and he will instruct me in the law.”
 
@@ -97,7 +97,7 @@ His friends agreed to help him. Before Suprabha was aware of it, she was surroun
 
 And their cries followed her:
 
-“O saintly one, you make manifest the power <span id="p226">[<sup><small>p. 226</small></sup>]</span> of the faithful; O saint, you render manifest the power of the Buddha. It would be unjust to condemn you to the earthly pleasures of love, O saintly one, O saint.”
+“O saintly one, you make manifest the power <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> of the faithful; O saint, you render manifest the power of the Buddha. It would be unjust to condemn you to the earthly pleasures of love, O saintly one, O saint.”
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,7 +32,7 @@ dateCreated: 2025-2-4T22:17:56Z
   </table>
 </figure>
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 _The Fourth Valley_:
 
@@ -50,7 +50,7 @@ He will be established on the throne of—‘Say, all is from God,’ and rest o
 
 He will look upon things with the vision of oneness . . . and see the light of unity manifest and present in all the existent things. All the differences which the traveller sees in the world of Being during the various stages of his journey, are due to the view of the traveller himself. We bring an illustration in order that this fact may become thoroughly evident:
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 Consider the phenomenal sun which shines forth on all beings with the same effulgence. . . .
 
@@ -62,7 +62,7 @@ Some weak souls, having enclosed the ground of knowledge within the wall of self
 
 An agreeable odour is unpleasant to the beetle, and a fragrant perfume has no effect upon one afflicted with a cold.
 
-Hence, for the guidance of the multitude, it has been said, ‘Remove the cold from thy head and <span id="p65">[<sup><small>p. 65</small></sup>]</span> brain, so that the Fragrance of God may fill thy nostrils.’
+Hence, for the guidance of the multitude, it has been said, ‘Remove the cold from thy head and <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> brain, so that the Fragrance of God may fill thy nostrils.’
 
 The difference of place is now made clear.
 
@@ -80,7 +80,7 @@ The ignorant, who have gained no portion from the splendour of the Beautiful One
 
 ‘If God should punish men for their iniquity, He would not leave (on the earth) any moving thing; but He giveth them respite unto an appointed time’ (Koran).
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 A pure heart is like unto a mirror; purify it with the polish of Love, and severance from all save God, until the Ideal Sun may reflect therein, and the Eternal Morn may dawn.
 
@@ -96,7 +96,7 @@ For (in this case) the Owner of the house becomes manifest in His Own House (_i.
 
 The action and effect of the Light is from the Giver of Light; this is why all move through Him, and arise by His Desire.
 
-This is that Fountain wherefrom drink those <span id="p67">[<sup><small>p. 67</small></sup>]</span> near unto God; as it is said, ‘A Fountain whereof those shall drink who are near (unto God).’
+This is that Fountain wherefrom drink those <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> near unto God; as it is said, ‘A Fountain whereof those shall drink who are near (unto God).’
 
 Let no one suppose these explanations to be redolent of anthropomorphism, or indicative of a degrading or restricting of the worlds (or states) of the True One to the planes of the creatures . . . for God, in His Essence, is sanctified above ascent or descent, entrance or exit. He has been, and will be everlastingly independent of (or free from) the attributes of the creatures.
 
@@ -112,7 +112,7 @@ Thus the lovers of the Face of the Beloved One have said, ‘O Thou whose essenc
 
 How can a mortal shadow compare with the Immortal Sun?
 
-Yea, such mentions as are made concerning the stages of knowledge, concern only the knowledge <span id="p68">[<sup><small>p. 68</small></sup>]</span> of the splendour of that Sun of Truth which becomes manifest in the mirrors (_i.e._ prophets, manifestations).
+Yea, such mentions as are made concerning the stages of knowledge, concern only the knowledge <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> of the splendour of that Sun of Truth which becomes manifest in the mirrors (_i.e._ prophets, manifestations).
 
 The reflection of that Light is within the hearts; but it is veiled through sensual coverings and accidental conditions; as is the case with a light enclosed within an iron lantern. When the lantern is removed the radiance of the light will appear.
 
@@ -132,7 +132,7 @@ Books are not sufficient for the Mystery of the Beloved, nor can it be exhausted
 
 ‘Knowledge is but one point, but the ignorant have multiplied it.’
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 I do not wish to mention much of the former sayings; for to speak of the sayings of others would be an evidence of acquired learning (_i.e._ mediate knowledge), and not of the Divine Gift (_i.e._ immediate knowledge).
 
@@ -148,7 +148,7 @@ Although a short illustration has already been given as to the beginning and end
 
 For instance . . . consider . . . how you are the first in relation to your son, and the last in relation to your father; how, outwardly (_i.e._ according to the soul), (you bear evidence) of the inward mysteries which, as a Divine Gift, are deposited within you.
 
-Consequently, being the first, the last, the manifest, the hidden, becomes true of you in the sense set forth above; so that in these four <span id="p70">[<sup><small>p. 70</small></sup>]</span> grades bestowed on you, you may comprehend the (corresponding) grades of the Divine; . . . ‘Verily! He is the First and the Last, the Manifest and the Hidden!’
+Consequently, being the first, the last, the manifest, the hidden, becomes true of you in the sense set forth above; so that in these four <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> grades bestowed on you, you may comprehend the (corresponding) grades of the Divine; . . . ‘Verily! He is the First and the Last, the Manifest and the Hidden!’
 
 The First is identical with the Last, and the Last is the same as the First.
 
@@ -168,7 +168,7 @@ It is evident that these states depend upon the view of the traveller.
 
 In every city he sees a world; in every valley he comes upon a fountain; in every desert he hears a melody.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Peace be on whomsoever accomplisheth this supreme journey, and followeth the True One through the Lights of Guidance.
 

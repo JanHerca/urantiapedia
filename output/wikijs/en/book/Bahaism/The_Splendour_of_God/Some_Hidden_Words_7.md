@@ -34,7 +34,7 @@ dateCreated: 2025-2-4T22:17:56Z
 
 The principle of religion is to acknowledge what is revealed by God, and to obey the laws established in His Book.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 The source of all good is trust in God, obedience to His Command, and satisfaction in His Will,
 

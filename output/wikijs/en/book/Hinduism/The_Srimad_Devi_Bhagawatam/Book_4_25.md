@@ -36,11 +36,11 @@ dateCreated: 2025-1-14T22:24:17Z
 
 ## Chapter XXI
 
-**On the killing of the sons of Devakî** <span id="p329">[<sup><small>p. 329</small></sup>]</span> 1\. Vyâsa said :— O King! Thus, in due course, Devakî, the goddess incarnate, being united according to rules with Vâsudeva, became pregnant.
+**On the killing of the sons of Devakî** <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 1\. Vyâsa said :— O King! Thus, in due course, Devakî, the goddess incarnate, being united according to rules with Vâsudeva, became pregnant.
 
 2-4. When full ten months were over, a good-looking and beautiful child (male) was first born to Devakî. Then the good-natured Vâsudeva remembered his promise, and also what is ordained by Heaven; and he spoke to Devakî, the part incarnate of Aditi “O fair-looking! You know that I saved your life at your marriage by swearing on oath to deliver all your fresh-born children to Kamsa. Now has come the time to hand over your child to Kamsa.”
 
-5\. O good-haired woman! Now I will hand your this son to Kamsa. Know Kamsa is very cruel and wicked. I cannot say what step he will take, urged on by Fate, to kill your child. O Sweet One! We have no hands in the matter. The effects of Karma are exceedingly puzzling. Ordinary persons cannot know them. <span id="p330">[<sup><small>p. 330</small></sup>]</span> 6\. All persons are subject to Time, the Destroyer, and enjoy the merits or demerits of their past deeds. The effects of past Karma are fashioned by the Creator; knowing this, allow me to take away your child.
+5\. O good-haired woman! Now I will hand your this son to Kamsa. Know Kamsa is very cruel and wicked. I cannot say what step he will take, urged on by Fate, to kill your child. O Sweet One! We have no hands in the matter. The effects of Karma are exceedingly puzzling. Ordinary persons cannot know them. <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> 6\. All persons are subject to Time, the Destroyer, and enjoy the merits or demerits of their past deeds. The effects of past Karma are fashioned by the Creator; knowing this, allow me to take away your child.
 
 7\. Devakî said :— O Lord! Certainly men have to suffer fully the effects of their past Karmas. But can that not be upset by residing in holy places, practising penances and asceticism or by making generous gifts?
 
@@ -64,7 +64,7 @@ Note :— Here is a diplomatic statement!
 
 19-20. Effort, application and manifestation of energy are certainly the duties of man; but their effects are all under the Great Destiny or Fate.
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 The Pundits knowing the ancient lore say that there are three kinds of Karma mentioned in the Purânas and Âgamas :— First, the Sanchita Karma (done in past births); the Prârabdha Karma, the Karma already done; and the Vartamân Karma (Karma in hand).
 
@@ -82,7 +82,7 @@ The Pundits knowing the ancient lore say that there are three kinds of Karma men
 
 29-30. O Goddess! I have never done any blameable action, nor have I told any lie. Therefore do you fulfill your truth and hand over your baby. O Devakî! Dharma is the only thing permanent and real in this fleeting world. Even the births and deaths of high souled persons are subject to the great Destiny. Therefore the Jîvas ought not to be sorry when there is no help for it.
 
-31\. O dear one! What shall I say to you! Know this much that his life is spent in vain who is lost to Truth. O beautiful one! Whose this life is destroyed, what can he expect in the life to come! <span id="p332">[<sup><small>p. 332</small></sup>]</span> 32\. Therefore, O Goddess! Give me your baby and I will hand it over to Kamsa. If we can observe this truth, we will meet with ample rewards afterwards; there is no doubt in it.
+31\. O dear one! What shall I say to you! Know this much that his life is spent in vain who is lost to Truth. O beautiful one! Whose this life is destroyed, what can he expect in the life to come! <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> 32\. Therefore, O Goddess! Give me your baby and I will hand it over to Kamsa. If we can observe this truth, we will meet with ample rewards afterwards; there is no doubt in it.
 
 33\. Where there are pains and pleasures for the Jîvas, there it is highly incumbent on us to do good and meritorious deeds. If we can act according to Truth, we will certainly get good fruits.
 
@@ -104,7 +104,7 @@ O High-minded One! Let me have your eighth son brought here, when he will be bor
 
 45\. The ministers, hearing the king Kamsa’s those words, began to praise him very much and exclaimed repeatedly “Well done” “Well done.” They went away to their respective homes, when ordered to do so by Kamsa.
 
-46-49. Now Nârada, the best of the Munis, arrived to Kamsa. The king Kamsa, the son of Ugrasena, stood up at once and offered him water to wash <span id="p333">[<sup><small>p. 333</small></sup>]</span> his mouth and with green grass and rice worshipped him devotedly and enquired of his welfare. He then asked the Muni about the cause of his untimely arrival there. The Maharsi Nârada then smilingly and with sweet words repeatedly uttered “Kamsa,” “Kamsa” and then said, O blessed one! I went perchance to Sumeru Mountain. There Brahmâ and other gods formed an assembly and were thus thinking out plans that Visnu, the Supreme God, would take His birth in the womb of Devakî, the wife of Vâsudeva to kill Kamsa.
+46-49. Now Nârada, the best of the Munis, arrived to Kamsa. The king Kamsa, the son of Ugrasena, stood up at once and offered him water to wash <span id="p333"><sup><small>[ p. 333 ]</small></sup></span> his mouth and with green grass and rice worshipped him devotedly and enquired of his welfare. He then asked the Muni about the cause of his untimely arrival there. The Maharsi Nârada then smilingly and with sweet words repeatedly uttered “Kamsa,” “Kamsa” and then said, O blessed one! I went perchance to Sumeru Mountain. There Brahmâ and other gods formed an assembly and were thus thinking out plans that Visnu, the Supreme God, would take His birth in the womb of Devakî, the wife of Vâsudeva to kill Kamsa.
 
 50\. Now I ask you, you are very expert as a politician; then why have you not killed the son of Vâsudeva? Kamsa said :— “I will kill the eighth son according to the Heavenly Voice.”
 
@@ -123,7 +123,7 @@ Here ends the 21st Chapter of S’rî Mad Devî Bhâgavatam, the Mahâ Purânam 
 
 &nbsp;&nbsp;&nbsp;&nbsp;## Chapter XXII
 
-**On the part incarnations of the several Devas** <span id="p333">[<sup><small>p. 333</small></sup>]</span> 1\. Janamejaya asked :— O grandfather! What bad act did that child commit, that no sooner he was born than he was killed by Kamsa? <span id="p334">[<sup><small>p. 334</small></sup>]</span> 2\. Especially, Maharsi Nârada is the the best amongst the Munis and foremost amongst the Brahmâ-vids (Knowers of Brahmâ), always doing virtuous acts, and learned; why did he become the agent in this very sinful act?
+**On the part incarnations of the several Devas** <span id="p333"><sup><small>[ p. 333 ]</small></sup></span> 1\. Janamejaya asked :— O grandfather! What bad act did that child commit, that no sooner he was born than he was killed by Kamsa? <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> 2\. Especially, Maharsi Nârada is the the best amongst the Munis and foremost amongst the Brahmâ-vids (Knowers of Brahmâ), always doing virtuous acts, and learned; why did he become the agent in this very sinful act?
 
 3\. Pundits declare that the doers and stimulators of any evil deed both are equally responsible; then how is it that Nârada, being the best of the Munis, instigated the wicked Kamsa to do this evil act!
 
@@ -143,7 +143,7 @@ Here ends the 21st Chapter of S’rî Mad Devî Bhâgavatam, the Mahâ Purânam 
 
 13\. Brahmâ said :— O my sons! I was very angry to you before and cursed you; now I am very much pleased with you; ask boons from me that you all desire.
 
-14-15. Vyâsa said :— Hearing Brahmâ’s words, they were very glad and becoming very anxious to secure their objects of desire, said :— O our grand <span id="p335">[<sup><small>p. 335</small></sup>]</span> sire! Today thou art pleased unto us; now favour us with our desired boons. That we may be invulnerable to all the Devas, human beings, the big serpents the Gandarbhas, and the Lord of Siddhas, (semi-divine beings supposed to be of great purity and holiness and said to be particularly characterised by eight supernatural faculties called Siddhis).
+14-15. Vyâsa said :— Hearing Brahmâ’s words, they were very glad and becoming very anxious to secure their objects of desire, said :— O our grand <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> sire! Today thou art pleased unto us; now favour us with our desired boons. That we may be invulnerable to all the Devas, human beings, the big serpents the Gandarbhas, and the Lord of Siddhas, (semi-divine beings supposed to be of great purity and holiness and said to be particularly characterised by eight supernatural faculties called Siddhis).
 
 16\. Vyâsa said :— Brahmâ told them “What you have asked, you would certainly get; O blessed ones! better go now; my words will be found to be literally true. No doubt in this.”
 
@@ -159,7 +159,7 @@ Here ends the 21st Chapter of S’rî Mad Devî Bhâgavatam, the Mahâ Purânam 
 
 26\. And at about this time the Bhagavân, the Protector of the devotee appeared in the eighth womb of Devakî to serve the purpose of the gods and to relieve the load of the Earth.
 
-27-28. The King said :— O best of Munis! “You have described the part incarnations of (1) Kas’yapa as Vâsudeva and (2) of Bhagavân Hari to relieve the burden of the Goddess Earth as prayed by Her; and (3) of Ananta Deva; but you have not described the part incarnations of the other Devas. How the other Devas incarnated as their parts on this earth, kindly describe them now.” <span id="p336">[<sup><small>p. 336</small></sup>]</span> 29\. Vyâsa said :— The part incarnations of Suras and Asuras on this earth, and their names I am now saying to you in brief; hear.
+27-28. The King said :— O best of Munis! “You have described the part incarnations of (1) Kas’yapa as Vâsudeva and (2) of Bhagavân Hari to relieve the burden of the Goddess Earth as prayed by Her; and (3) of Ananta Deva; but you have not described the part incarnations of the other Devas. How the other Devas incarnated as their parts on this earth, kindly describe them now.” <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> 29\. Vyâsa said :— The part incarnations of Suras and Asuras on this earth, and their names I am now saying to you in brief; hear.
 
 30-32. Vâsudeva was the part incarnation of Kas’yapa, Devakî was of Aditi, Baladeva, of Ananta; Vâsudeva S’rî Krisna, of S’rîmân Nârâyana; the son of Dharma existing even at that time in his physical body; Arjuna, of Nara, the younger brother of Nârâyana.
 
@@ -179,7 +179,7 @@ Here ends the 21st Chapter of S’rî Mad Devî Bhâgavatam, the Mahâ Purânam 
 
 46-47. Kubalaya, the elephant of Kamsa, was part incarnate of Arista, the sun of Diti. Vakî was the daughter of Bali, Vaka was her younger.
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 The powerful son of Drona, As’vatthâmâ, though known as the part incarnate of Rudra, was really born of the four parts of Yama, Rudra, Cupidity and Anger.
 
@@ -198,7 +198,7 @@ Thus ends the 22nd chapter in 4th book of S’rîmad Devî Bhâgavatam the Mahâ
 
 **ChapterXXIII**
 
-**On the birth of S’rî Krisna** <span id="p337">[<sup><small>p. 337</small></sup>]</span> 1-2. Vyâsa said :— The six sons of Devakî being thus killed by Kamsa and the seventh womb being miscarried, Kamsa began, when Devakî was pregnant for the eighth time, to think of the cause of his own death as advised by Nârada and watched carefully, day and night, so that this time there would be born a son and there be no miscarriage.
+**On the birth of S’rî Krisna** <span id="p337"><sup><small>[ p. 337 ]</small></sup></span> 1-2. Vyâsa said :— The six sons of Devakî being thus killed by Kamsa and the seventh womb being miscarried, Kamsa began, when Devakî was pregnant for the eighth time, to think of the cause of his own death as advised by Nârada and watched carefully, day and night, so that this time there would be born a son and there be no miscarriage.
 
 3\. On the other hand the Bhagavân Hari came down and rested on the body of Vâsudeva as part incarnate and then entered into the womb of Devakî, in due order.
 
@@ -208,7 +208,7 @@ Thus ends the 22nd chapter in 4th book of S’rîmad Devî Bhâgavatam the Mahâ
 
 6\. Kamsa then imprisoned Devakî, who was being worshipped by gods, and engaged servants to take care of her.
 
-7\. Vâsudeva, too, entered into the prison with his wife Devakî, thinking of his issue and also being attracted by his attachment towards his wife. <span id="p338">[<sup><small>p. 338</small></sup>]</span> 8\. Visnu, here, the Deva of the Devas, to accomplish the purpose of the gods began to grow regularly in the womb of Devakî, being incessantly adored and praised by the gods.
+7\. Vâsudeva, too, entered into the prison with his wife Devakî, thinking of his issue and also being attracted by his attachment towards his wife. <span id="p338"><sup><small>[ p. 338 ]</small></sup></span> 8\. Visnu, here, the Deva of the Devas, to accomplish the purpose of the gods began to grow regularly in the womb of Devakî, being incessantly adored and praised by the gods.
 
 9-10. When the tenth month was complete, on the eighth day of the dark fortnight, under the star Rohinî, Kamsa became much bewildered with fear and called on his Dânava followers and said “You must all carefully protect Devakî in the prison.
 
@@ -226,7 +226,7 @@ Thus ends the 22nd chapter in 4th book of S’rîmad Devî Bhâgavatam the Mahâ
 
 21\. The blessed Devakî looking on that exceedingly beautiful child, was struck with wonder and told her husband, her whole body being filled with joy.
 
-22\. O Lord! Look at the face of your new born child, a very rare thing to see such a face as this. Alas! The son of my paternal uncle, Kamsa, will kill my this new born child. <span id="p339">[<sup><small>p. 339</small></sup>]</span> 23\. “Kamsa will do so.” Saying this, Vâsudeva took up that child in his arms and began to look amorously at the face of that child of wonderful deeds.
+22\. O Lord! Look at the face of your new born child, a very rare thing to see such a face as this. Alas! The son of my paternal uncle, Kamsa, will kill my this new born child. <span id="p339"><sup><small>[ p. 339 ]</small></sup></span> 23\. “Kamsa will do so.” Saying this, Vâsudeva took up that child in his arms and began to look amorously at the face of that child of wonderful deeds.
 
 24\. Thus looking, Vâsudeva thought “What can I do now so as to relieve me from my sorrows owing to the future destruction of this child.”
 
@@ -246,7 +246,7 @@ Thus ends the 22nd chapter in 4th book of S’rîmad Devî Bhâgavatam the Mahâ
 
 36-37. But that child, the moment she was lulled to sleep, began to cry in a sonorous voice; the royal guards at once woke up on that cry, and being bewildered with fear, hurriedly went to their king and said “O King! Come quickly. Devakî has brought forth a child.”
 
-38-39. The King of the Bhojas, hearing their words, went there quickly and saw the doors open, called on Vâsudeva “O blessed one! Let me have the eighth son of Devakî, my death incarnate; I will at once kill that enemy of mine, born as part incarnate of Hari.” <span id="p340">[<sup><small>p. 340</small></sup>]</span> 40\. Vyâsa said :— O King! Hearing Kamsa’s words, Vâsudeva handed over to him the female child crying and very much bewildered with fear.
+38-39. The King of the Bhojas, hearing their words, went there quickly and saw the doors open, called on Vâsudeva “O blessed one! Let me have the eighth son of Devakî, my death incarnate; I will at once kill that enemy of mine, born as part incarnate of Hari.” <span id="p340"><sup><small>[ p. 340 ]</small></sup></span> 40\. Vyâsa said :— O King! Hearing Kamsa’s words, Vâsudeva handed over to him the female child crying and very much bewildered with fear.
 
 41\. At the sight of the female child, the king was very much astonished and began to think that the Heavenly Voice and the Seer Nârada’s words turned out false.
 
@@ -271,7 +271,7 @@ Thus ends the 23rd Chapter in the 4th Skandha of S’rî Mad Devî Bhâgavatam, 
 
 ## Chapter XXIV
 
-**On the stealing away of Pradyûmna** <span id="p340">[<sup><small>p. 340</small></sup>]</span> 1-2. Vyâsa said :— On the other hand, there, at the house of Nanda, early in the next morning, commenced the grand birth day festivity. Kamsa came <span id="p341">[<sup><small>p. 341</small></sup>]</span> to know, afterwards, by his spies as will as by general rumour, that at Gokula, in the house of Nanda, a very joyous festival on a grand scale was being performed; he also knew before that the other wives of Vâsudeva, his animals and his servants were all staying at Nanda’s residence in Gokula.
+**On the stealing away of Pradyûmna** <span id="p340"><sup><small>[ p. 340 ]</small></sup></span> 1-2. Vyâsa said :— On the other hand, there, at the house of Nanda, early in the next morning, commenced the grand birth day festivity. Kamsa came <span id="p341"><sup><small>[ p. 341 ]</small></sup></span> to know, afterwards, by his spies as will as by general rumour, that at Gokula, in the house of Nanda, a very joyous festival on a grand scale was being performed; he also knew before that the other wives of Vâsudeva, his animals and his servants were all staying at Nanda’s residence in Gokula.
 
 3-4. O Bhârata! Thus all these gave reasons to Kamsa to suspect the place Gokula. Especially Nârada told him before that the residents, the cowherds at Gokula, Nanda and others, their wives, Devakî and Vâsudeva were all Devas incarnates; and consequently they were his enemies.
 
@@ -287,7 +287,7 @@ Thus ends the 23rd Chapter in the 4th Skandha of S’rî Mad Devî Bhâgavatam, 
 
 13\. The enemy-destroyer Krisna removed the sorrows of his father and mother and released them from their prisons and gave over the kingdom of Mathurâ to Ugrasena (the father of Kamsa).
 
-14-15. The high minded Vâsudeva, then, with the triple girdle made of Munja grass, performed the Upanayana ceremonies (wearing the sacred thread round the body) of Râma and Krisna and made them accept the vow of Brahmacharya. They then departed to the hermitage of the holy Muni S’andîpana to acquire knowledge. Learning all the vidyâs (knowledges) there, they returned quickly to Mathurâ. <span id="p342">[<sup><small>p. 342</small></sup>]</span> 16\. The two sons of Ânakadundubhi stayed there and on attaining their twelfth year, became proficient in all the branches of learning and became very powerful.
+14-15. The high minded Vâsudeva, then, with the triple girdle made of Munja grass, performed the Upanayana ceremonies (wearing the sacred thread round the body) of Râma and Krisna and made them accept the vow of Brahmacharya. They then departed to the hermitage of the holy Muni S’andîpana to acquire knowledge. Learning all the vidyâs (knowledges) there, they returned quickly to Mathurâ. <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> 16\. The two sons of Ânakadundubhi stayed there and on attaining their twelfth year, became proficient in all the branches of learning and became very powerful.
 
 17\. That time Jarâsandha, being grieved at the killing of his son-in-law Kamsa, collected a strong and numerous army and marched to Mathurâ.
 
@@ -305,7 +305,7 @@ Yavana means a Greek, an Ionian; then any foreigner, or barbarian (the word is a
 
 23\. If you want to dwell at ease and comfort, you ought to dwell in that country or place which is adjacent to a sea or a mountain; where there is no fear from an enemy, the sages will always remain there.
 
-24\. See! The Bhagavân Hari, being afraid, as it were, of his enemy has taken refuge on the body of the thousand headed S’esa serpent as his sleeping place and is sleeping at ease and comfort on the ocean. It seems likely that the enemy of Trîpurâ, the great S’iva is also dwelling on the Kailâs’a mountain. <span id="p343">[<sup><small>p. 343</small></sup>]</span> 25\. We, too, are being constantly worried by our enemies here; therefore we ought not to live here any longer. We should all go to Dwârkâ city with our friends, relatives and wealth.
+24\. See! The Bhagavân Hari, being afraid, as it were, of his enemy has taken refuge on the body of the thousand headed S’esa serpent as his sleeping place and is sleeping at ease and comfort on the ocean. It seems likely that the enemy of Trîpurâ, the great S’iva is also dwelling on the Kailâs’a mountain. <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> 25\. We, too, are being constantly worried by our enemies here; therefore we ought not to live here any longer. We should all go to Dwârkâ city with our friends, relatives and wealth.
 
 26\. Garuda, the king of the birds, has given us the detailed information of the city Dwârkâ. That beautiful city is situated on the sea shore in the vicinity of the Raivataka mountain.”
 
@@ -331,7 +331,7 @@ Yavana means a Greek, an Ionian; then any foreigner, or barbarian (the word is a
 
 37\. The wicked Yavana mistaking Muchukunda for S’rî Krisna, gave him a good kick. The powerful king Muchukunda got up and was very angry; his eyes became red and reduced that vicious Yavana instantly into ashes.
 
-38\. When Muchukunda burnt the Yavana, he saw the lotus-eyed Krisna; he bowed down to that Supreme Deva, Vâsudeva, and went to forest. <span id="p344">[<sup><small>p. 344</small></sup>]</span> 39\. S’rî Krisna then went back to the city Dwârkâ with Râma and made Ugrasena there the king and began to enjoy at his will.
+38\. When Muchukunda burnt the Yavana, he saw the lotus-eyed Krisna; he bowed down to that Supreme Deva, Vâsudeva, and went to forest. <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> 39\. S’rî Krisna then went back to the city Dwârkâ with Râma and made Ugrasena there the king and began to enjoy at his will.
 
 40\. At the marriage ceremony of S’is’upâla, at the palace of the king of Vidarbha, Janârdan Visnu carried away by force Rukminî, the bride elect from the Svayambara assembly (where the husband is self elected by the bride herself) and afterwards married her according to the rule called Râkhsasa Vidhi (one of the eight forms of marriage in Hindu Law in which a girl is forcibly seized and carried away after the defeat or destruction of her relatives in battle).
 
@@ -349,7 +349,7 @@ Yavana means a Greek, an Ionian; then any foreigner, or barbarian (the word is a
 
 49\. O Mother! Has any evil minded enemy stolen away my son from the lying-in chamber? Or have You Yourself done this to make a fun and see the amusement? It seems that some one of my enemies has done so to insult me; however, You, O Mother! ought not to put your devotee under this shameful condition.
 
-50\. O Mother! This Dwârakâ city is well guarded; a very strong fort is built in its middle and my place is in the midst of that again; and the lying in-chamber is again in the middle; I therefore must say that it is due to my bad luck that the child is stolen away! <span id="p345">[<sup><small>p. 345</small></sup>]</span> 51\. O Mother! I did not go to the house of my enemy; the Yâdavas also did not go there; this city is guarded by valiant soldiers; then how is it, under what charm, the baby has been stolen? O Mother! Now I come to know that it is due to Your Mâyâ; such things are common due to Your Mâyâ in the three worlds.
+50\. O Mother! This Dwârakâ city is well guarded; a very strong fort is built in its middle and my place is in the midst of that again; and the lying in-chamber is again in the middle; I therefore must say that it is due to my bad luck that the child is stolen away! <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> 51\. O Mother! I did not go to the house of my enemy; the Yâdavas also did not go there; this city is guarded by valiant soldiers; then how is it, under what charm, the baby has been stolen? O Mother! Now I come to know that it is due to Your Mâyâ; such things are common due to Your Mâyâ in the three worlds.
 
 52\. O Mother! When I am ignorant of your deepest mysteries, how can there exist anyone among the little minded Jîvas that can know your doings? My watchmen could not see anything, where my child was taken away and who has stolen it. O Mother! I come to the conclusion that it is hidden behind the screen of Your Mâyâ.
 
@@ -363,7 +363,7 @@ Yavana means a Greek, an Ionian; then any foreigner, or barbarian (the word is a
 
 57\. O Goddess! The wise seers say that the birth of a child in any house is the highest bliss there, and the death of a child is the greatest sorrow that can befall to any house. Therefore, O Mother! What shall I do in this? What shall I say more than that my heart is going to burst, due to the disappearance of my child.
 
-58\. O Mother! I will perform all the necessary sacrifices, take up vows, perform all sorts of worship to the entire satisfaction of the Great Fate (Ordainer of things); You be pleased to remove my sorrow. O Mother! If my son be alive, kindly shew him once to me. Mother! There is no other than You Who is fully capable to destroy this my pain and sorrow, raging in my heart. <span id="p346">[<sup><small>p. 346</small></sup>]</span> 59\. Vyâsa said :— He who brings into practice, things that are considered impracticable for the Devas and removes the load of the Goddess Earth with ease and alacrity, the same Saviour of world, S’rî Krisna thus chanted hymns in adoration of the Great Goddess. The Devî then became visible to him and said.
+58\. O Mother! I will perform all the necessary sacrifices, take up vows, perform all sorts of worship to the entire satisfaction of the Great Fate (Ordainer of things); You be pleased to remove my sorrow. O Mother! If my son be alive, kindly shew him once to me. Mother! There is no other than You Who is fully capable to destroy this my pain and sorrow, raging in my heart. <span id="p346"><sup><small>[ p. 346 ]</small></sup></span> 59\. Vyâsa said :— He who brings into practice, things that are considered impracticable for the Devas and removes the load of the Goddess Earth with ease and alacrity, the same Saviour of world, S’rî Krisna thus chanted hymns in adoration of the Great Goddess. The Devî then became visible to him and said.
 
 60\. O Lord of the Devas! Do not any longer be sorrowful and miserable; there had been a curse on you before; and, for that reason, the Daitya S’ambara has stolen away your son by his demonic magic.
 
@@ -378,7 +378,7 @@ Here ends the Twenty-fourth Chapter of the Fourth Book of S’rî Mad Devî Bhâ
 
 ## Chapter XXV
 
-**On the Devî’s Highest Supremacy** <span id="p346">[<sup><small>p. 346</small></sup>]</span> 1\. The King said :— O Best of Munis! Hearing these sorrows of S’rî Krisna, the part incarnate of Visnu Bhagavân, I am in doubt on your utterances.
+**On the Devî’s Highest Supremacy** <span id="p346"><sup><small>[ p. 346 ]</small></sup></span> 1\. The King said :— O Best of Munis! Hearing these sorrows of S’rî Krisna, the part incarnate of Visnu Bhagavân, I am in doubt on your utterances.
 
 2\. Behold! Bhagavân Vâsudeva is the part incarnate of Nârâyana; how could the Asura S’ambara steal away His son from the lying-in-chamber!
 
@@ -390,7 +390,7 @@ Here ends the Twenty-fourth Chapter of the Fourth Book of S’rî Mad Devî Bhâ
 
 6\. Vyâsa said :— O King! The Mâyâ called S’âmbhavî (Pârvatî's) is the cause; it fascinates and deludes the minds of human beings. Thus it is known to us. Who is there in this world that is not deluded by this Mâyâ?
 
-7\. The Jîvas, no sooner they are born as human beings, are immediately overcome with human qualities; the Deva or Asura qualities or their natures do not then visibly exist. <span id="p347">[<sup><small>p. 347</small></sup>]</span> 8-9. O King! Hunger, thirst, sleep, fear, lassitude, delusion, sorrow, doubt, pleasure, egoism, old age, disease, death, non-knowledge, knowledge, displeasure, envy, jealousy, pride and weariness; all these human qualities are seen to exist in human embodiments.
+7\. The Jîvas, no sooner they are born as human beings, are immediately overcome with human qualities; the Deva or Asura qualities or their natures do not then visibly exist. <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> 8-9. O King! Hunger, thirst, sleep, fear, lassitude, delusion, sorrow, doubt, pleasure, egoism, old age, disease, death, non-knowledge, knowledge, displeasure, envy, jealousy, pride and weariness; all these human qualities are seen to exist in human embodiments.
 
 10-11. Behold! The night wanderer Râksasa Mâricha assumed, by his Mâyâ, the form of a golden deer and came before S’rî Râmchandra; and Râmchandra was not the least aware of it. Then the stealing away of Sîtâ, the death of Jatâyu, Râma’s going to the forest on the very day of his installation to the throne of Ayodhyâ; the death of his father due to his bereavement, all these S’rî Râmchandra did not know a bit beforehand.
 
@@ -412,7 +412,7 @@ Here ends the Twenty-fourth Chapter of the Fourth Book of S’rî Mad Devî Bhâ
 
 20\. Behold also Râmachandra could not know about the departure of Sîtâ to Pâtâla; getting angry once He was about to kill his brother Laksmana even.
 
-21\. Râma, the slayer of the Râks’asa Khara did not know that Kâla Purusa was coming to him. He, incarnating in the human body, did acts all becoming to a man. Similarly S’rî Krisna, the descendant of Yadu, taking human birth did acts all like a man. What more discussion can there be in this? <span id="p348">[<sup><small>p. 348</small></sup>]</span> 22\. Lo! From the very outset He fled, out of fear of Kamsa, to Gokula; afterwards he fled out of fear of Jarâsandha to the Dwârkâ city.
+21\. Râma, the slayer of the Râks’asa Khara did not know that Kâla Purusa was coming to him. He, incarnating in the human body, did acts all becoming to a man. Similarly S’rî Krisna, the descendant of Yadu, taking human birth did acts all like a man. What more discussion can there be in this? <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> 22\. Lo! From the very outset He fled, out of fear of Kamsa, to Gokula; afterwards he fled out of fear of Jarâsandha to the Dwârkâ city.
 
 23\. Knowing all the rites and ceremonies of the Sanâtan Dharma (the Eternal Religion) He stole away Rukminî who was chosen as bride elect by S’is’upâla. This act was very unreligious of Him.
 
@@ -430,7 +430,7 @@ Here ends the Twenty-fourth Chapter of the Fourth Book of S’rî Mad Devî Bhâ
 
 31-32. In the first month He subsisted on fruits only and meditated on S’iva and repeated silently the S’iva mantra. Thus He practised very severe austerities. In the second month He subsisted on water only and stood on only one leg. In the third month he lived on air only and stood on the end of His great toe.
 
-33-36. Thus time passed away. In the sixth month the God Rudra, holding Moon on His forehead, was pleased with His asceticism and devotion and appeared before Him on that spot. The God Mahâ Deva came on a bull; He was attended by Brahmâ  and Visnu, Indra and the other Devas, Yakshas and Gandarbhas and addressed thus :— “O high minded Krisna of Yadu’s descent; I am pleased with Your severe asceticism; now ask Your desired boon; I will grant it just now. I fulfil all the desires of all my devotees; <span id="p349">[<sup><small>p. 349</small></sup>]</span> what desire, then, there can be that is not fulfilled, when I am seen by the devotees!”
+33-36. Thus time passed away. In the sixth month the God Rudra, holding Moon on His forehead, was pleased with His asceticism and devotion and appeared before Him on that spot. The God Mahâ Deva came on a bull; He was attended by Brahmâ  and Visnu, Indra and the other Devas, Yakshas and Gandarbhas and addressed thus :— “O high minded Krisna of Yadu’s descent; I am pleased with Your severe asceticism; now ask Your desired boon; I will grant it just now. I fulfil all the desires of all my devotees; <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> what desire, then, there can be that is not fulfilled, when I am seen by the devotees!”
 
 37-38. Vyâsa said :— The son of Devakî was very glad to see the God S’amkara and fell prostrate at His feet. Then that eternal supreme God of the Devas began to recite hymns in praise of Him in a tone as deep as the rumbling of a cloud.
 
@@ -450,7 +450,7 @@ Here ends the Twenty-fourth Chapter of the Fourth Book of S’rî Mad Devî Bhâ
 
 47-48. O Lord! In order to preserve the cause of religion, I had to hand over the best prosperous kingdom to Ugrasena, due to the curse of Yayâti. My elders made him the king of the Yâdavas; following their examples, I gave him the kingdom and am now serving him always like his servant.
 
-49\. O S’ambhu! The householder’s life is exceedingly troublesome;  it makes one subject to one’s wife and go against his religion. There we are <span id="p350">[<sup><small>p. 350</small></sup>]</span> always dependent on others; and no word is heard or dreamt even, how to free oneself from those bondages of the world. Oh! What an irony of Fate.
+49\. O S’ambhu! The householder’s life is exceedingly troublesome;  it makes one subject to one’s wife and go against his religion. There we are <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> always dependent on others; and no word is heard or dreamt even, how to free oneself from those bondages of the world. Oh! What an irony of Fate.
 
 50\. O Destroyer of cupid! My wife Jâmbavatî, on seeing the sons of my wife Rukminî has urged me to practise this Tapasyâ so that she might get excellent sons born to her also.
 
@@ -472,7 +472,7 @@ Here ends the Twenty-fourth Chapter of the Fourth Book of S’rî Mad Devî Bhâ
 
 Note: Here Visnis and Andhkas are meant.
 
-62\. Then you and your elder brother Balabhadra (Balarâma) will give up your bodies and will ascend to the Heavens; O Mighty Person! Do not grieve in matters that cannot be avoided. <span id="p351">[<sup><small>p. 351</small></sup>]</span> 63\. You should know that there can be no remedy to what will inevitably come to pass; therefore no one is to grieve for them; this is all along my view.
+62\. Then you and your elder brother Balabhadra (Balarâma) will give up your bodies and will ascend to the Heavens; O Mighty Person! Do not grieve in matters that cannot be avoided. <span id="p351"><sup><small>[ p. 351 ]</small></sup></span> 63\. You should know that there can be no remedy to what will inevitably come to pass; therefore no one is to grieve for them; this is all along my view.
 
 64\. O Madhusûdana! After Your death, due to the curse of Astâvakra Muni, your wives will be forcibly stolen away by indomitable robbers. There is no doubt in this.
 
@@ -494,7 +494,7 @@ Note: Here Visnis and Andhkas are meant.
 
 74\. In these three worlds there is nothing higher or more excellent than Her. Therefore this birth cannot be crowned with success in any other way than remembering that Highest Force, the Parâ S’akti and Her place.
 
-75-77. One should always think, without any difference, that Eternal World Mother, thus “Let me not be born in that family which has not that Supreme Goddess for its presiding Deity; I am that Goddess Bhagavatî and no other; I am Brahmâ, untouched by sorrows.” One should hear first from the mouth of one’s Spiritual Guide; next by hearing Vedanta and <span id="p352">[<sup><small>p. 352</small></sup>]</span> other religious scriptures, one should first form an idea of that Bhagavatî; and then if one daily meditates on That Goddess, the Highest Self incarnate with one minded devotion, one will get, within a short period, the Eternal Freedom; else there is not the least chance, even if one performs lots of innumerable good works of becoming free.
+75-77. One should always think, without any difference, that Eternal World Mother, thus “Let me not be born in that family which has not that Supreme Goddess for its presiding Deity; I am that Goddess Bhagavatî and no other; I am Brahmâ, untouched by sorrows.” One should hear first from the mouth of one’s Spiritual Guide; next by hearing Vedanta and <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> other religious scriptures, one should first form an idea of that Bhagavatî; and then if one daily meditates on That Goddess, the Highest Self incarnate with one minded devotion, one will get, within a short period, the Eternal Freedom; else there is not the least chance, even if one performs lots of innumerable good works of becoming free.
 
 78\. S’vetâs’vatara and other pure hearted Risis obtained this freedom from the bondages of Mâyâ by meditating, in their hearts, this Highest Self and nothing else.
 

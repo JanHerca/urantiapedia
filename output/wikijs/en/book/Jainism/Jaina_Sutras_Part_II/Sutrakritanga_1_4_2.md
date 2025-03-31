@@ -36,7 +36,7 @@ SECOND CHAPTER.
 
 A monk, living single [^803], should not fall in love; if he loves pleasures, he should again become indifferent. Now hear the pleasures of <i>S</i>rama<i>n</i>as, which some monks enjoy. (1)
 
-When a monk breaks the law, dotes (on a woman), and is absorbed by that passion, she afterwards <span id="p276">[<sup><small>p. 276</small></sup>]</span> scolds him [^804], lifts her foot, and tramples on his head. (2)
+When a monk breaks the law, dotes (on a woman), and is absorbed by that passion, she afterwards <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> scolds him [^804], lifts her foot, and tramples on his head. (2)
 
 ‘O monk, if you will not live with me as a woman who has still her hair, I shall tear it out; but do not live separated from me.’ (3)
 
@@ -48,7 +48,7 @@ But when they have captured him, they send him on all sorts of errands [^805]: '
 
 ‘Give me the collyrium-box, my ornaments, the lute, Lôdhra-powder [^809], a Lôdhra-flower, the Vê<i>n</i>upalâsika-lute [^810], a pill! (7)
 
-‘A Utpalakush<i>t</i>a [^811], Tagara [^812]\-powder, and aloe pounded together with U<i>s</i>îra [^813], oil for anointing the <span id="p277">[<sup><small>p. 277</small></sup>]</span> face, baskets of bamboo wickerwork to put my things in! (8)
+‘A Utpalakush<i>t</i>a [^811], Tagara [^812]\-powder, and aloe pounded together with U<i>s</i>îra [^813], oil for anointing the <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> face, baskets of bamboo wickerwork to put my things in! (8)
 
 ‘Reach me the lip-salve, fetch the umbrella and slippers, the knife to cut the string, have my robe dyed bluish! (9)
 
@@ -62,7 +62,7 @@ But when they have captured him, they send him on all sorts of errands [^805]: '
 
 ‘The small pot, the drum, and the ball of cloth for the boy (to play with). <i>S</i>rama<i>n</i>a, the rainy season is at hand, look after the house and the stores! (14)
 
-‘(Fetch) the chair with woven twine seat [^818], the wooden shoes [^819] to walk on!’ Pregnant women order <span id="p278">[<sup><small>p. 278</small></sup>]</span> their husbands about like slaves to fulfil their craving. (15)
+‘(Fetch) the chair with woven twine seat [^818], the wooden shoes [^819] to walk on!’ Pregnant women order <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> their husbands about like slaves to fulfil their craving. (15)
 
 When a son, the reward (of their wedded life), is born, (the mother bids the father) to hold the baby, or to give it her. Thus some supporters of their sons have to carry burdens like camels. (16)
 

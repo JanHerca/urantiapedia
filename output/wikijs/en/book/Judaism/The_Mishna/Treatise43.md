@@ -56,7 +56,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 \[Relates to offences which, if wantonly committed, are punished by excision, but which, if inadvertently committed, entail the obligation to bring sin or trespass offerings.\]
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 ## XLVII. TREATISE MEHILAH, TRESPASS.
 
@@ -98,7 +98,7 @@ LEGAL PURIFICATIONS; CONTAINS
 
 \[Contains laws relating to uncleanness arising from a corpse, founded on Num. xix. 14.\]
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 \_\_\_\_\_\_\_\_\_
 

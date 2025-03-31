@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 1. On the day of atonement, it is forbidden to eat and to drink, to wash, to anoint, [^353] to lace on \[leather\] shoes, and to indulge in sexual intercourse. A king and a bride \[until the 30th day after her nuptials\] may wash their faces; and a lying-in woman may lace \[put\] on \[leather\] shoes. Such is the dictum of Rabbi Eleazar: but the sages prohibit it.
 
-§ 2. Whosoever eats food to the size of a large date, that is, the date with the kernel, or drinks a mouthful, is guilty. All kinds of <span id="p127">[<sup><small>p. 127</small></sup>]</span> food are alike computed by the size of the date, [^354] and all liquids by the mouthful; but food and beverage are not to be joined in the computation. [^354]
+§ 2. Whosoever eats food to the size of a large date, that is, the date with the kernel, or drinks a mouthful, is guilty. All kinds of <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> food are alike computed by the size of the date, [^354] and all liquids by the mouthful; but food and beverage are not to be joined in the computation. [^354]
 
 § 3. If on one occasion \[through oblivion\], man has eaten and drank, he needs bring but one sin-offering; if he has eaten and \[also\] done work, he must bring two \[separate\] sin-offerings; if he has eaten food which is not edible \[properly and usually adapted for human sustenance\], or has drunk liquids which are not properly and usually adapted for beverage—as if, for instance, he leas drunk brine or fish-lie—he is absolved.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 7. If a building tumble down, and it is doubtful if any person be buried beneath the ruins or not; if it is doubtful whether he be dead or alive, or whether it be a heathen or an Israelite, it is permitted to remove the ruins from above him on the Sabbath; if he be found alive, the ruins are to be entirely removed \[so as to extricate him\]; but should he be dead, he is to be left \[till afterwards\].
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 § 8. The sin-offering, and trespass-offering for sins done wittingly, atone \[for sin\]. The Yom Kipur and death, make atonement through \[sincere\] penitence; penitence makes atonement for slight transgressions against positive or negative commandments; in grave transgressions, it obtains a respite [^359] until Yom Kipur completes the atonement.
 

@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:54:6Z
 
 SEVENTEENTH LECTURE. THE BAD <i>S</i>RAMA<i>N</i>A.
 
-A Nirgrantha who has entered the order, who has learned the Law, who has received religious <span id="p78">[<sup><small>p. 78</small></sup>]</span> discipline, and who has obtained the benefit of Bôdhi which is difficult to obtain, may perhaps afterwards begin to live as he likes. (1)
+A Nirgrantha who has entered the order, who has learned the Law, who has received religious <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> discipline, and who has obtained the benefit of Bôdhi which is difficult to obtain, may perhaps afterwards begin to live as he likes. (1)
 
 (He will say:) I have a good bed and wherewithal to cover me; I obtain food and drink; I know everything that comes to pass, friend; why then should I study, sir? (2)
 
@@ -50,7 +50,7 @@ He who uses a bed, a plank, a chair, a seat, or his duster [^204], without havin
 
 He who walks with great haste and without care, being overbearing and fierce, is called a bad <i>S</i>rama<i>n</i>a. (8)
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 He who carelessly inspects things [^205], throwing down his duster at random, not being attentive to the inspection of things, is called a bad <i>S</i>rama<i>n</i>a. (9)
 
@@ -70,7 +70,7 @@ He who eats after sunset, and when admonished, makes an angry reply, is called a
 
 He who leaves his own teacher, and follows heretical ones, who continuously changes his school [^206], being of a bad disposition, is called a bad <i>S</i>rama<i>n</i>a. (17)
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 He who has left his own house, and busies himself in another's house, who lives by fortune-telling, is called a bad <i>S</i>rama<i>n</i>a. (18)
 

@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 ## ADHYÂYA I, KA<i>ND</i>IKÂ 1.
 
@@ -41,7 +41,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. [^359]. There are three (kinds of) Pâkaya<i>g</i><i>g</i>as, the hutas, (i.e. the sacrifices) offered over the fire; over something that is not the fire, the prahutas; and at the feeding of Brâhma<i>g</i>as, those offered in the Brahman.
 
-3\. [^360]. And they quote also <i>Rik<i>as, ‘He who with a piece of wood or with an oblation, or with knowledge (“veda”).’ <span id="p160">[<sup><small>p. 160</small></sup>]</span>
+3\. [^360]. And they quote also <i>Rik<i>as, ‘He who with a piece of wood or with an oblation, or with knowledge (“veda”).’ <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 4 [^361]. Even he who only puts a piece of wood (on the fire) full of belief, should think, ‘Here I offer a sacrifice; adoration to that (deity)!’
 
@@ -59,7 +59,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 
 
-<span id="p161">[<sup><small>p. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ. 2.
 
@@ -75,7 +75,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 7Soma and Soma's men—these (oblations he makes) to the different quarters (of the horizon, of which those are the presiding deities).
 
-6\. To Brahman and Brahman's men in the middle, <span id="p162">[<sup><small>p. 162</small></sup>]</span>
+6\. To Brahman and Brahman's men in the middle, <span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 7\. To the Vi<i>s</i>ve devâs, to all day-walking beings—thus by day;
 
@@ -95,7 +95,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 2\. With two (Ku<i>s</i>a blades used as) strainers the purifying of the Â<i>s</i>ya (is done).
 
-3\. [^367]. Having taken two Ku<i>s</i>a blades with unbroken tops, which do not bear a young shoot in them, of the measure of a span, at their two ends with his <span id="p163">[<sup><small>p. 163</small></sup>]</span> thumbs and fourth fingers, with his hands turned with the inside upwards, he purifies (the Â<i>s</i>ya, from the west) to the east, with (the words), ‘By the impulse of Savit<i>ri</i> I purify thee with this uninjured purifier, with the rays of the good sun’—once with this formula, twice silently.
+3\. [^367]. Having taken two Ku<i>s</i>a blades with unbroken tops, which do not bear a young shoot in them, of the measure of a span, at their two ends with his <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> thumbs and fourth fingers, with his hands turned with the inside upwards, he purifies (the Â<i>s</i>ya, from the west) to the east, with (the words), ‘By the impulse of Savit<i>ri</i> I purify thee with this uninjured purifier, with the rays of the good sun’—once with this formula, twice silently.
 
 4\. [^368]. The strewing (of grass) round (the fire) may be done or not done in the Â<i>g</i>ya offerings.
 
@@ -111,7 +111,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 10\. With reference thereto the following sacrificial stanza is sung:
 
-‘He who has to perform (different) Pâkaya<i>g</i><i>g</i>as, should offer them with the same Â<i>g</i>ya, the same <span id="p164">[<sup><small>p. 164</small></sup>]</span> Barhis, and the same Svish<i>g</i>ak<i>g</i>t, even if the deity (of those sacrifices) is not the same.’
+‘He who has to perform (different) Pâkaya<i>g</i><i>g</i>as, should offer them with the same Â<i>g</i>ya, the same <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> Barhis, and the same Svish<i>g</i>ak<i>g</i>t, even if the deity (of those sacrifices) is not the same.’
 
 
 
@@ -141,7 +141,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 ## KA<i>ND</i>IKÂ 5.
 
-1\. [^377]. Let him first examine the family (of the intended bride or bridegroom), as it has been said above, <span id="p165">[<sup><small>p. 165</small></sup>]</span> 'Those who on the mother's and on the father's side.’
+1\. [^377]. Let him first examine the family (of the intended bride or bridegroom), as it has been said above, <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> 'Those who on the mother's and on the father's side.’
 
 2\. Let him give the girl to a (young man) endowed with intelligence.
 
@@ -157,7 +157,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 6.
 
@@ -171,7 +171,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 5\. [^384]. He may marry her, after a mutual agreement has been made (between the lover and the damsel): this (is the wedding called) Gândharva.
 
-6\. [^385]. He may marry her after gladdening (her father) by money: this (is the wedding called) Âsura. <span id="p167">[<sup><small>p. 167</small></sup>]</span>
+6\. [^385]. He may marry her after gladdening (her father) by money: this (is the wedding called) Âsura. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 7 [^386]. He may carry her off while (her relatives) sleep or pay no attention: this (is the wedding called) Pai<i>s</i>â<i>s</i>a.
 
@@ -191,7 +191,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 4\. Her other fingers, (if he is) desirous of female (children);
 
-5\. The hand on the hair-side together with the <span id="p168">[<sup><small>p. 168</small></sup>]</span> thumb, (if) desirous of both (male and female children).
+5\. The hand on the hair-side together with the <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> thumb, (if) desirous of both (male and female children).
 
 6\. [^389]. Leading her three times round the fire and the water-pot, so that their right sides are turned towards (the fire, &c.), he murmurs, ‘This am I, that art thou; that art thou, this am I; the heaven I, the earth thou; the Sâman I, the <i>Rik<i> thou. Come! Let us here marry. Let us beget offspring. Loving, bright, with genial mind may we live a hundred autumns.’
 
@@ -207,7 +207,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 12\. This is the rule about the portions to be cut off.
 
-13\. [^393]. 'To god Aryaman the girls have made sacrifice, <span id="p169">[<sup><small>p. 169</small></sup>]</span> to Agni; may he, god Aryaman, loosen her from this, and not from that place, Svâhâ!
+13\. [^393]. 'To god Aryaman the girls have made sacrifice, <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> to Agni; may he, god Aryaman, loosen her from this, and not from that place, Svâhâ!
 
 ‘To god Varu<i>n</i>a the girls have made sacrifice, to Agni; may he, god Varu<i>n</i>a, &c.
 
@@ -223,7 +223,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 18\. The left one with the following (<i>Rik<i>).
 
-19\. [^395]. He then causes her to step forward in a northeastern direction seven steps with (the words), ‘For sap with one step, for juice with two steps, for thriving of wealth with three steps, for comfort with four steps, for offspring with five steps, for the seasons <span id="p170">[<sup><small>p. 170</small></sup>]</span> with six steps. Be friend with seven steps. So be thou devoted to me. Let us acquire many sons who may reach old age!’
+19\. [^395]. He then causes her to step forward in a northeastern direction seven steps with (the words), ‘For sap with one step, for juice with two steps, for thriving of wealth with three steps, for comfort with four steps, for offspring with five steps, for the seasons <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> with six steps. Be friend with seven steps. So be thou devoted to me. Let us acquire many sons who may reach old age!’
 
 20\. [^396]. Joining together their two heads, (the bridegroom? the Â<i>k</i>ârya?) sprinkles them (with water) from the water-pot.
 
@@ -245,7 +245,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 4\. [^400]. (He pronounces the verse), ‘The living one they bewail’ (Rig-veda X, 40, 10), if she weeps.
 
-5\. They constantly carry the nuptial fire in front. <span id="p171">[<sup><small>p. 171</small></sup>]</span>
+5\. They constantly carry the nuptial fire in front. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 6 [^401]. At lovely places, trees, and cross-ways let him murmur (the verse), ‘May no waylayers meet us’ (Rig-veda X, 85, 32).
 
@@ -261,7 +261,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 12\. [^404]. When he has fulfilled (this) observance (and has had intercourse with his wife), he should give the bride's shift to (the Brâhma<i>n</i>a) who knows the Sûryâ hymn (Rig-veda X, 85);
 
-13\. 'Food to the Brâhma<i>n</i>as; <span id="p172">[<sup><small>p. 172</small></sup>]</span>
+13\. 'Food to the Brâhma<i>n</i>as; <span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 14\. Then he should cause them to pronounce auspicious words.
 
@@ -295,7 +295,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 3
 
-2\. The fasting (which takes place) thereat has been declared by (the corresponding rules regarding) the Dar<i>s</i>apûr<i>s</i>amâsa sacrifices. <span id="p173">[<sup><small>p. 173</small></sup>]</span>
+2\. The fasting (which takes place) thereat has been declared by (the corresponding rules regarding) the Dar<i>s</i>apûr<i>s</i>amâsa sacrifices. <span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 3 [^408]. And (so has been declared) the binding together of the fuel and of the Barhis,
 
@@ -315,7 +315,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 11\. But if he (cooks the portions) throwing (them) together, he should (touch and) sacrifice them, after he has put (the single portions) into different vessels.
 
-12\. [^410]. The portions of sacrificial food, when they <span id="p174">[<sup><small>p. 174</small></sup>]</span> have been cooked, he sprinkles (with Â<i>g</i>ya, takes them from the fire towards the north, places them on the Barhis, and sprinkles the fuel with Â<i>g</i>ya with the formula, ‘This fuel is thy self, <i>G</i>âtavedas; thereby burn thou and increase, and, O burning One, make us increase and through offspring, cattle, holy lustre, and nourishment make us prosper. Svâhâ!’
+12\. [^410]. The portions of sacrificial food, when they <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> have been cooked, he sprinkles (with Â<i>g</i>ya, takes them from the fire towards the north, places them on the Barhis, and sprinkles the fuel with Â<i>g</i>ya with the formula, ‘This fuel is thy self, <i>G</i>âtavedas; thereby burn thou and increase, and, O burning One, make us increase and through offspring, cattle, holy lustre, and nourishment make us prosper. Svâhâ!’
 
 13\. [^411]. Having silently poured out the two Âghâras (or Â<i>g</i>ya oblations poured out with the Sruva, the one from north-west to south-east, the other from south-west to north-east), he should sacrifice the two Â<i>g</i>ya portions with (the formulas), ‘To Agni svâhâ! To Soma svâhâ!’—
 
@@ -325,7 +325,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 16\. [^414]. ‘Therefore of a man who is sitting with his face to the west the southern (i.e. right) eye is northern, the northern (i.e. left) eye is southern.’
 
-17\. [^415]. In the middle (of the two Â<i>g</i>ya portions he <span id="p175">[<sup><small>p. 175</small></sup>]</span> sacrifices the other) Havis, or more to the west, finishing (the oblations) in the east or in the north.
+17\. [^415]. In the middle (of the two Â<i>g</i>ya portions he <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> sacrifices the other) Havis, or more to the west, finishing (the oblations) in the east or in the north.
 
 18\. To the north-east the oblation to (Agni) Svish<i>t</i>ak<i>t</i>t.
 
@@ -343,7 +343,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 24\. [^419]. He pours out the full vessel on the Barhis.
 
-25\. [^420]. This is the Avabh<i>ri</i>tha. <span id="p176">[<sup><small>p. 176</small></sup>]</span>
+25\. [^420]. This is the Avabh<i>ri</i>tha. <span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 26\. This is the standard form of the Pâkaya<i>ri</i><i>ri</i>as.
 
@@ -368,7 +368,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 5\. Having carried fire round (it), performing that act only (without repeating a corresponding Mantra), they lead it to the north.
 
-6\. [^422]. In front of it they carry a fire-brand. <span id="p177">[<sup><small>p. 177</small></sup>]</span>
+6\. [^422]. In front of it they carry a fire-brand. <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 7 [^423] This is the <i>S</i>âmitra (fire).
 
@@ -380,7 +380,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 11\. [^426]. At the same fire they cook a mess of food.
 
-12\. [^427]. Having cut off the eleven Avadânas (or portions which have to be cut off) from the animal, from all its limbs, having boiled them at the <i>S</i>âmitra (fire), <span id="p178">[<sup><small>p. 178</small></sup>]</span> and having warmed the heart on a spit, let him sacrifice first from the mess of cooked food (mentioned in Sûtra 11);
+12\. [^427]. Having cut off the eleven Avadânas (or portions which have to be cut off) from the animal, from all its limbs, having boiled them at the <i>S</i>âmitra (fire), <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> and having warmed the heart on a spit, let him sacrifice first from the mess of cooked food (mentioned in Sûtra 11);
 
 13\. Or together with the Avadâna portions.
 
@@ -400,7 +400,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 3
 
-2\. [^431]. If, however, (the <i>K</i>aitya) is distant, (he should send his Bali) through a leaf-messenger. <span id="p179">[<sup><small>p. 179</small></sup>]</span>
+2\. [^431]. If, however, (the <i>K</i>aitya) is distant, (he should send his Bali) through a leaf-messenger. <span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 3
 
@@ -422,7 +422,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 1\. [^435]. The Upanishad (treats of) the Garbhalambhana, the Pu<i>m</i>savana, and the Anavalobhana (i.e. the ceremonies for securing the conception of a child, the male gender of the child, and for preventing disturbances which could endanger the embryo).
 
-2\. [^436]. If he does not study (that Upanishad), he <span id="p180">[<sup><small>p. 180</small></sup>]</span> should in the third month of her pregnancy, under (the Nakshatra) Tishya, give to eat (to the wife), after she has fasted, in curds from a cow which has a calf of the same colour (with herself), two beans and one barley grain for each handful of curds.
+2\. [^436]. If he does not study (that Upanishad), he <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> should in the third month of her pregnancy, under (the Nakshatra) Tishya, give to eat (to the wife), after she has fasted, in curds from a cow which has a calf of the same colour (with herself), two beans and one barley grain for each handful of curds.
 
 3\. To his question, ‘What dost thou drink? What dost thou drink?’ she should thrice reply, ‘Generation of a male child! Generation of a male child!’
 
@@ -440,7 +440,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 
 
-<span id="p181">[<sup><small>p. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 14.
 
@@ -464,7 +464,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 6\. He gives orders to two lute-players, ‘Sing king Soma.’
 
-7\. [^440]. (They sing) ‘May Soma our king bless the human race. Settled is the wheel of N.N.’—(here they name) the river near which they dwell. <span id="p182">[<sup><small>p. 182</small></sup>]</span>
+7\. [^440]. (They sing) ‘May Soma our king bless the human race. Settled is the wheel of N.N.’—(here they name) the river near which they dwell. <span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 8\. And whatever aged Brâhma<i>n</i>a woman, whose husbands and children are alive, tell them, that let them do.
 
@@ -482,7 +482,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 3\. [^442]. He touches (the child's) two shoulders with (the verse), ‘Be a stone, be an axe, be insuperable gold. Thou indeed art the Veda, called son; so live a hundred autumns’—and with (the verses), ‘Indra, give the best treasures’ (Rig-veda II, 21, 6), Bestow on us, O bountiful one, O speedy one' (Rig-veda III, 36, 10).
 
-4\. And let them give him a name beginning with <span id="p183">[<sup><small>p. 183</small></sup>]</span> a sonant, with a semivowel in it, with the Visarga at its end, consisting of two syllables,
+4\. And let them give him a name beginning with <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> a sonant, with a semivowel in it, with the Visarga at its end, consisting of two syllables,
 
 5\. Or of four syllables;
 
@@ -510,7 +510,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 4\. Boiled rice with ghee, if desirous of splendour:
 
-5\. (Such) food, mixed with curds, honey and ghee he should give (to the child) to eat with (the verse), ‘Lord of food, give us food painless and strong; <span id="p184">[<sup><small>p. 184</small></sup>]</span> bring forward the giver; bestow power on us, on men and animals.’
+5\. (Such) food, mixed with curds, honey and ghee he should give (to the child) to eat with (the verse), ‘Lord of food, give us food painless and strong; <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> bring forward the giver; bestow power on us, on men and animals.’
 
 6\. The rite only (without the Mantra) for a girl.
 
@@ -534,7 +534,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 7\. Taking of that (water), (and) fresh butter, or (some) drops of curds, he three times moistens (the boy's) head, from the left to the right, with (the formula), ‘May Aditi cut thy hair; may the waters moisten thee for vigour!’
 
-8\. [^445]. Into the right part (of the hair) he puts each <span id="p185">[<sup><small>p. 185</small></sup>]</span> time three Ku<i>s</i>a bunches, with the points towards (the boy) himself, with (the words), ‘Herb! protect him!’
+8\. [^445]. Into the right part (of the hair) he puts each <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> time three Ku<i>s</i>a bunches, with the points towards (the boy) himself, with (the words), ‘Herb! protect him!’
 
 9\. (With the words,) ‘Axe! do no harm to him!’ he presses a copper razor (on the Ku<i>s</i>a blades),
 
@@ -556,7 +556,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 15\. Thus three times on the left side (of the head).
 
-16\. [^447]. Let him wipe off the edge of the razor with (the words), ‘If thou shavest, as a shaver, his hair with the razor, the wounding, the well-shaped, purify his head, but do not take away his life.’ <span id="p186">[<sup><small>p. 186</small></sup>]</span>
+16\. [^447]. Let him wipe off the edge of the razor with (the words), ‘If thou shavest, as a shaver, his hair with the razor, the wounding, the well-shaped, purify his head, but do not take away his life.’ <span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 17\. Let him give orders to the barber, ‘With lukewarm water doing what has to be done with water, without doing harm to him, arrange (his hair) well.’
 
@@ -590,7 +590,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 7\. [^452]. Having bathed and silently stood during the rest of the day, let him break his silence in the presence of his teacher, (saying to him,) ‘I give an optional gift (to thee).’
 
-8\. An ox and a cow is the sacrificial fee. <span id="p187">[<sup><small>p. 187</small></sup>]</span>
+8\. An ox and a cow is the sacrificial fee. <span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 9 [^453]. Let (the teacher) impose (on the youth the observances declared below) for one year.
 
@@ -630,7 +630,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 1
 
-12\. Their girdles are: that of a Brâhma<i>n</i>a made of Mu<i>nd</i>a grass, that of a Kshatriya a bow-string, that of a Vai<i>n</i>ya woollen. <span id="p188">[<sup><small>p. 188</small></sup>]</span>
+12\. Their girdles are: that of a Brâhma<i>n</i>a made of Mu<i>nd</i>a grass, that of a Kshatriya a bow-string, that of a Vai<i>n</i>ya woollen. <span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 13\. Their staffs are: that of a Brâhma<i>n</i>a of Palâ<i>n</i>a wood, that of a Kshatriya of Udumbara wood, that of a Vai<i>n</i>ya of Bilva wood.
 
@@ -660,7 +660,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 8
 
-7\. He should cause him to look at the sun while the teacher says, ‘God Savit_ri_, this is thy Brahma<i>k</i>ârin; protect him; may he not die.’ <span id="p189">[<sup><small>p. 189</small></sup>]</span>
+7\. He should cause him to look at the sun while the teacher says, ‘God Savit_ri_, this is thy Brahma<i>k</i>ârin; protect him; may he not die.’ <span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 8\. (And further the teacher says), 'Whose Brahma<i>k</i>ârin art thou? The breath's Brahma<i>k</i>ârin art thou. Who does initiate thee, and whom (does he initiate)? To whom shall I give thee in charge?’
 
@@ -678,7 +678,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 1\. Some (do this) with a Mantra: ‘To Agni I have brought a piece of wood, to the great <i>G</i>âtavedas. Through that piece of wood increase thou, O Agni; through the Brahman (may) we (increase). Svâhâ!’
 
-2\. Having put the fuel (on the fire) and having <span id="p190">[<sup><small>p. 190</small></sup>]</span> touched the fire, he three times wipes off his face with (the words), ‘With splendour I anoint myself.’
+2\. Having put the fuel (on the fire) and having <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> touched the fire, he three times wipes off his face with (the words), ‘With splendour I anoint myself.’
 
 3\. ‘For with splendour does he anoint himself’—this is understood (in the <i>S</i>ruti).
 
@@ -706,7 +706,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 22.
 
@@ -732,7 +732,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 11\. He should stand the rest of the day.
 
-12\. [^459]. After sunset (the student) should cook the Brâhmaudana (or boiled rice with which the Brâhma<i>n</i>as are to be fed) for the Anuprava<i>n</i>anîya sacrifice (the sacrifice to be performed after a part of the Veda has been studied), and should announce to the teacher (that it is ready). <span id="p192">[<sup><small>p. 192</small></sup>]</span>
+12\. [^459]. After sunset (the student) should cook the Brâhmaudana (or boiled rice with which the Brâhma<i>n</i>as are to be fed) for the Anuprava<i>n</i>anîya sacrifice (the sacrifice to be performed after a part of the Veda has been studied), and should announce to the teacher (that it is ready). <span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 13\. The teacher should sacrifice, while the student takes hold of him, with the verse, ‘The wonderful lord of the abode’ (Rig-Veda I, 18, 6).
 
@@ -750,7 +750,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 20\. [^462]. When he has fulfilled those observances, (the teacher) performs (for him) the ‘production of intelligence,’ (in the following way):
 
-21\. [^463]. While (the student) towards an unobjectionable direction (of the horizon) sprinkles thrice (water) from the left to the right with a water-pot round a <span id="p193">[<sup><small>p. 193</small></sup>]</span> Palâ<i>s</i>a (tree) with one root, or round a Ku<i>s</i>a bunch, if there is no Palâ<i>s</i>a, (the teacher) causes him to say, ‘O glorious one, thou art glorious. As thou, O glorious one, art glorious, thus, O glorious one, lead me to glory. As thou art the preserver of the treasure of sacrifice for the gods, thus may I become the preserver of the treasure of the Veda for men.’
+21\. [^463]. While (the student) towards an unobjectionable direction (of the horizon) sprinkles thrice (water) from the left to the right with a water-pot round a <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> Palâ<i>s</i>a (tree) with one root, or round a Ku<i>s</i>a bunch, if there is no Palâ<i>s</i>a, (the teacher) causes him to say, ‘O glorious one, thou art glorious. As thou, O glorious one, art glorious, thus, O glorious one, lead me to glory. As thou art the preserver of the treasure of sacrifice for the gods, thus may I become the preserver of the treasure of the Veda for men.’
 
 22\. [^464]. Thereby, beginning with his having the hair cut, and ending with the giving in charge, the imposing of observances has been declared.
 
@@ -774,7 +774,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 ## KA<i>ND</i>IKÂ 23.
 
-1\. [^470]. He chooses priests (for officiating at a sacrifice) with neither deficient nor superfluous limbs, 'who on <span id="p194">[<sup><small>p. 194</small></sup>]</span> the mother's and on the father's side (&c.),' as it has been said above.
+1\. [^470]. He chooses priests (for officiating at a sacrifice) with neither deficient nor superfluous limbs, 'who on <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> the mother's and on the father's side (&c.),' as it has been said above.
 
 2\. Let him choose young men as officiating priests: thus (declare) some (teachers).
 
@@ -788,7 +788,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 7\. [^474]. He chooses the Hot<i>ri</i> first.
 
-8\. With (the formula), ‘Agni is my Hot_ri_; he is my Hot_ri_; I choose thee N.N. as my Hot_ri_’ (he chooses) the Hot_ri_. <span id="p195">[<sup><small>p. 195</small></sup>]</span>
+8\. With (the formula), ‘Agni is my Hot_ri_; he is my Hot_ri_; I choose thee N.N. as my Hot_ri_’ (he chooses) the Hot_ri_. <span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 9\. With (the formula), ‘<i>K</i>andramas (the moon) is my Brahman; he is my Brahman; I choose thee N.N. as my Brahman’ (he chooses) the Brahman.
 
@@ -810,11 +810,11 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 18\. In the same way the others according to the prescriptions (given above).
 
-19\. [^477]. And if (the priest who accepts the invitation) <span id="p196">[<sup><small>p. 196</small></sup>]</span> is going to perform the sacrifice (for the inviting person, he should add), ‘May that bless me; may that enter upon me; may I thereby enjoy (bliss).’
+19\. [^477]. And if (the priest who accepts the invitation) <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> is going to perform the sacrifice (for the inviting person, he should add), ‘May that bless me; may that enter upon me; may I thereby enjoy (bliss).’
 
 20\. [^478]. The functions of an officiating priest are not to be exercised, if abandoned (by another priest), or at an Ahîna sacrifice with small sacrificial fee, or for a person that is sick, or suffering, or affected with consumption, or decried among the people in his village, or of despised extraction: for such persons (the functions of a Ritvi<i>g</i> should not be exercised).
 
-21\. [^479]. He (who is chosen as a _Ri<i>tvi</i>g_) should ask the Somapravâka, ‘What sacrifice is it? Who are <span id="p197">[<sup><small>p. 197</small></sup>]</span> the priests officiating? What is the fee for the sacrifice?’
+21\. [^479]. He (who is chosen as a _Ri<i>tvi</i>g_) should ask the Somapravâka, ‘What sacrifice is it? Who are <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> the priests officiating? What is the fee for the sacrifice?’
 
 22\. If (all the conditions) are favourable, he should accept.
 
@@ -842,7 +842,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 6\. Or butter, if he can get no honey.
 
-7\. A seat, the water for washing the feet, the Arghya water (i.e. perfumed water into which flowers have been thrown), the water for sipping, the honey-mixture, <span id="p198">[<sup><small>p. 198</small></sup>]</span> a cow: every one of these things they announce three times (to the guest).
+7\. A seat, the water for washing the feet, the Arghya water (i.e. perfumed water into which flowers have been thrown), the water for sipping, the honey-mixture, <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> a cow: every one of these things they announce three times (to the guest).
 
 8\. With (the verse), ‘I am the highest one among my people, as the sun among the thunderbolts. Here I tread on him whosoever infests me’—he should sit down on the seat (made of) northward-pointed (grass).
 
@@ -862,7 +862,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 16\. With (the formula), ‘May the Rudras eat thee with the Trish<i>t</i>ubh metre’—to the south;
 
-17\. With (the formula), ‘May the Âdityas eat thee with the <i>G</i>agatî metre’—to the west; <span id="p199">[<sup><small>p. 199</small></sup>]</span>
+17\. With (the formula), ‘May the Âdityas eat thee with the <i>G</i>agatî metre’—to the west; <span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 18\. With (the formula), ‘May the Vi<i>s</i>ve devâs eat thee with the Anush<i>s</i>ubh metre’—to the north.
 
@@ -892,7 +892,7 @@ Seeing this the <i>Ri</i>shi has said, ‘To him who does not keep away from him
 
 31\. Having murmured, ‘Destroyed is my sin; my sin is destroyed,’ (he says,) ‘Om, do it,’ if he chooses to have her killed.
 
-32\. Having murmured, ‘The mother of the Rudras, the daughter of the Vasus’ (Rig-veda VIII, 101, 15), <span id="p200">[<sup><small>p. 200</small></sup>]</span> (he says,) ‘Om, let her loose,’ if he chooses to let her loose.
+32\. Having murmured, ‘The mother of the Rudras, the daughter of the Vasus’ (Rig-veda VIII, 101, 15), <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> (he says,) ‘Om, let her loose,’ if he chooses to let her loose.
 
 33\. [^483]. Let the Madhuparka not be without flesh, without flesh.
 

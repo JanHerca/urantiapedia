@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 v. 6. The Bedouins feed their camels with the leaves of the erak-tree.
 
@@ -62,7 +62,7 @@ Its brightest honours showered down on me:
 But, above all, come join the merry ring
 Where gay youths laugh and blooming maidens sing.—_RṚ._
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 vv. 48-51. The singing-girls who sang at the drinking-parties of the ancient Arabs were Greeks, Syrians, or Persians. Until after El-Islâm the Arabs, though masters of rhythm and metre, had no indigenous system of singing except the rude song (originally of the camel-driver) called _rajez_. These girls probably sang for the most part in their own tongue, and played the music which they had learned in Persian ’Irâk or Syria; but in the life of En-Nâbigha of Dubyân, as given in the _Aghânî_ (ix. 164), a singing girl of Yethrib (afterwards El-Madîna) is mentioned, who sang one of that poet's pieces in Arabic, and so enabled him to detect a fault of prosody.—_Lyall:_ Notes on vv. 60, 61, Lebīd's Mo‘all.
 
@@ -122,7 +122,7 @@ What though we wade in wealth or soar in fame?
 Earth's highest station ends in “Here he lies!”
 And “dust to dust” concludes the noblest song.
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 And the Persian Sa‘dī: “When the pure and spotless soul is about to depart, of what importance is it whether we expire upon a throne or upon the bare ground?”
 

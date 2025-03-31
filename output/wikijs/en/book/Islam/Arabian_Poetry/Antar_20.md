@@ -52,7 +52,7 @@ A knight in whom I took refuge when my efforts failed, at my up-risings and my d
 
 My brother exposed him to a sea of death in his malice, and the hearts of the envious exult!
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 He planned his murder, and he has abandoned me: no more will my honour and my engagements be respected!
 
@@ -74,7 +74,7 @@ Grieve they must ever in tears from their eyes for him who was the illustrious k
 
 May God destroy Malik, son of Carad, and make him suffer what the tribe of Themood endured!
 
-Altogether the wretched Malik found matters very unpleasant, to say the least, and there was nothing for it but to emigrate with his family;—meanwhile concealing himself, lest Amarah, to whom he had also betrothed Abla, should suspect his design, and prevent his departure. But presently Amarah, now that his formidable rival was dead, resolves to lose no time in claiming his bride; and, accompanied by Oorwah the son of <span id="p238">[<sup><small>p. 238</small></sup>]</span> Wird, and ten other horsemen, he departs for the land of Yemen, to procure the dowry (by plunder, of course); and Malik resolves to take advantage of his absence and remove with his family. But when he acquainted Abla of how he had promised her in marriage to Vachid, she protested that she would never become the bride of either Amarah or Vachid, since her heart was buried in the grave of Antar, exclaiming:
+Altogether the wretched Malik found matters very unpleasant, to say the least, and there was nothing for it but to emigrate with his family;—meanwhile concealing himself, lest Amarah, to whom he had also betrothed Abla, should suspect his design, and prevent his departure. But presently Amarah, now that his formidable rival was dead, resolves to lose no time in claiming his bride; and, accompanied by Oorwah the son of <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> Wird, and ten other horsemen, he departs for the land of Yemen, to procure the dowry (by plunder, of course); and Malik resolves to take advantage of his absence and remove with his family. But when he acquainted Abla of how he had promised her in marriage to Vachid, she protested that she would never become the bride of either Amarah or Vachid, since her heart was buried in the grave of Antar, exclaiming:
 
 O heart! be patient under the agonies I endure!—But how can my tears cease to flow?—no balm is there to soothe them!
 

@@ -48,7 +48,7 @@ The dangers of the world:—
 
 There are continual showers, squalls, and torrents hundreds of thousands of waves succeed one another.
 
-<span id="p380">[<sup><small>p. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 Address the True Guru, and there shall be no fear that thy bark will founder.
 
@@ -79,7 +79,7 @@ The really holy are few:—
 
 The saints are few, not many; deceit and wrangling Prevail in the world.[^2]
 
-<span id="p381">[<sup><small>p. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 The following has reference to the concremation of widows:—
 
@@ -113,7 +113,7 @@ He is a Khatri who is brave in good deeds
 And who employeth his body in charity.[^1]
 The Khatri who inspecteth his ground before sowing his gifts,
 
-<span id="p382">[<sup><small>p. 382</small></sup>]</span>
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 
 Shall be acceptable in _God's_ court.
 The Khatri who practiseth greed, covetousness, and falsehood,
@@ -142,7 +142,7 @@ A purse-proud person addressed improper language to the Guru. When the Guru's di
 
 Impute not blame to the Rai;[^2] his intellect is forsaking him in his old age.
 
-<span id="p383">[<sup><small>p. 383</small></sup>]</span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 The blind man talketh much and falleth into the pit.
 Whatever the Perfect One hath done is perfect; there is no deficiency or excess in it.

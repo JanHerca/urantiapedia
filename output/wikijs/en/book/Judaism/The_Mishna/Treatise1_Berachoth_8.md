@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 ### CHAPTER VIII.
 
-§ 1. The following are the points relating to meals, respecting which the schools of Shammai and of Hillel differ. Beth Shammai <span id="p11">[<sup><small>p. 11</small></sup>]</span> hold that on festivals man must first say the blessing of the day and then \[that\] on the wine: whereas, Beth Hillel hold, he must \[first\] say the blessing on the wine and then that of the day.
+§ 1. The following are the points relating to meals, respecting which the schools of Shammai and of Hillel differ. Beth Shammai <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> hold that on festivals man must first say the blessing of the day and then \[that\] on the wine: whereas, Beth Hillel hold, he must \[first\] say the blessing on the wine and then that of the day.
 
 § 2. Beth Shammai say, the hands must be washed first, and the goblet \[for the blessing\] be filled afterwards. But Beth Hillel say the goblet must be filled first, and then the hands be washed.
 

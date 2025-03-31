@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 CHAPTER XV., Verse 29.—And when thy Lord said to the angels, “Verily, I am creating a mortal from crackling clay of black mud wrought into shape;
 
@@ -48,7 +48,7 @@ He said, “Then get thee forth therefrom, and, verily, thou art to be pelted! (
 
 Said he, “O my Lord! respite me until the day when they shall be raised.” He said, “Then, verily, thou art of the respited until the day of the noted time.”
 
-He said, “O my Lord! for that Thou hast seduced me, I will surely make it seem seemly for them on earth, and I will surely seduce them <span id="p54">[<sup><small>p. 54</small></sup>]</span> all together; (40) save such of Thy servants amongst them as are sincere.” Said He, “This is a right way against Me. Verily, my servants thou hast no authority over, save over those who follow thee of such as are seduced; and, verily, Hell is promised to them all together!”
+He said, “O my Lord! for that Thou hast seduced me, I will surely make it seem seemly for them on earth, and I will surely seduce them <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> all together; (40) save such of Thy servants amongst them as are sincere.” Said He, “This is a right way against Me. Verily, my servants thou hast no authority over, save over those who follow thee of such as are seduced; and, verily, Hell is promised to them all together!”
 
 <figure class="table chapter-navigator">
   <table>

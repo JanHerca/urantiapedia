@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 
 THE hero's clothes had become threadbare in the six years he had been wearing them, and he thought: “It would be well if I had some new clothes; otherwise I shall have to go naked, and that would be immodest.”
@@ -47,7 +47,7 @@ Sakra made a stone and set it down on the edge of the pool.
 
 “Man of virtue,” said the God, “give me the shroud; I shall wash it for you.”
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 “No, no,” replied the Saint. “I know the duties of a monk; I myself shall wash the shroud.”
 
@@ -65,7 +65,7 @@ Then he saw a reed coming out of his navel, and the reed grew so fast that it so
 
 Then he saw worms crawling up his legs and completely covering them.
 
-Then he saw birds flying toward him from all <span id="p85">[<sup><small>p. 85</small></sup>]</span> points of the horizon, and when the birds were near his head, they seemed to be of gold.
+Then he saw birds flying toward him from all <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> points of the horizon, and when the birds were near his head, they seemed to be of gold.
 
 Finally, he saw himself at the foot of a mountain of filth and excrement; he climbed the mountain; he reached the summit; he descended, and neither the filth nor the excrement had defiled him.
 
@@ -81,7 +81,7 @@ Purna, from the doorstep, saw the hero walking toward Sujata's house. He was dif
 
 “Mistress, he is coming! He is coming! And your eyes will be blinded by his splendor!”
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 “Let him come! Oh, let him come!” cried Sujata. “It is for him that I have prepared this wonderful milk.”
 
@@ -103,7 +103,7 @@ Then he asked the young girl:
 
 He left, carrying the bowl in his hands, and he walked to the banks of the river. He bathed; he ate. When the bowl was empty, he threw it into the water, and he said:
 
-“If I am to become Buddha this very day, may <span id="p87">[<sup><small>p. 87</small></sup>]</span> the bowl go upstream; if not, may it go with the current.”
+“If I am to become Buddha this very day, may <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> the bowl go upstream; if not, may it go with the current.”
 
 The bowl floated out to the middle of the river, then rapidly started upstream. It disappeared in a whirlpool, and the hero heard the muffled ring as it landed, in the subterranean world, among those other bowls the former Buddhas had emptied and thrown away.
 
@@ -115,7 +115,7 @@ The road was sprinkled with gold-dust; rare palms, covered with precious stones,
 
 He approached the tree. On the side of the road, he saw Svastika, the reaper.
 
-“They are tender, these grasses you are mowing, Svastika. Give me some grass; I want to cover <span id="p88">[<sup><small>p. 88</small></sup>]</span> the seat I shall occupy when I attain supreme knowledge. They are green, these grasses you are mowing, Svastika. Give me some grass, and you will know the law some day, for I shall teach it to you, and you may teach it to others.”
+“They are tender, these grasses you are mowing, Svastika. Give me some grass; I want to cover <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> the seat I shall occupy when I attain supreme knowledge. They are green, these grasses you are mowing, Svastika. Give me some grass, and you will know the law some day, for I shall teach it to you, and you may teach it to others.”
 
 The reaper gave the Saint eight handfuls of grass.
 

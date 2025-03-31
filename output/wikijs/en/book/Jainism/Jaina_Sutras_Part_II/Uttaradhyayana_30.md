@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 THIRTIETH LECTURE. THE ROAD OF PENANCE.
 
@@ -46,7 +46,7 @@ Hear attentively how a monk destroys (the Karman) acquired by love and hatred in
 
 As a large tank, when its supply of water has been stopped, gradually dries up by the consumption of the water and by evaporation, so the Karman of a monk, which he acquired in millions [^466] of births, is annihilated by austerities, if there is no influx of bad Karman. (5, 6)
 
-Austerities are of two kinds: external and internal; <span id="p175">[<sup><small>p. 175</small></sup>]</span> external austerities are of six kinds, and internal are of six kinds [^467]. (7)
+Austerities are of two kinds: external and internal; <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> external austerities are of six kinds, and internal are of six kinds [^467]. (7)
 
 External austerities are:
 
@@ -56,7 +56,7 @@ External austerities are:
 
 <i>a</i>. The temporary fasting is briefly of six kinds: 1. in the form of a line [^470]; 2. in the form of a square; 3. in the form of a cube; 4. of a sixth power; 5. of a twelfth power; 6. of any arrangement. Temporary fasting (can be practised) for different objects which one has in mind. (10, 11)
 
-<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 <i>b</i>. Fasting which is to precede death, is of two kinds with regard to the motions of the body: with change (of position) and without change. (12)
 
@@ -68,7 +68,7 @@ And again it is twofold: admitting of relief [^471], or not; one may either leav
 
 <i>b</i>. (Place means) a village, a scotfree town [^473], a capital, a camp of merchants [^474], a mine, a settlement of a wild tribe [^475], a place with an earth wall [^476], a poor town [^477], a town with a harbour [^478], a large town [^479], an isolated town [^480], and an open town [^481]. (16)
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 In a hermitage, a vihâra [^482], a halting-place for procession [^483], a resting-place for travellers [^484], a station of herdsmen, a camp on high ground, a caravan's camp, a fortified place of refuge. (17)
 
@@ -82,7 +82,7 @@ Or if he collects alms in a part of the third Paurushî, or in its last quarter,
 
 <i>d</i>. Abstinence with reference to state of mind (is observed by him) who accepts alms from a woman or man, from an adorned or unadorned person, from one of any age or dress, of any temper or colour: if that person does not change his disposition or condition [^486]. (22, 23)
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 <i>e</i>. A monk who observes abstinence according to the particulars which have been enumerated with regard to substance, place, time, and state of mind, observes abstinence with regard to development [^487] too. (24)
 
@@ -92,7 +92,7 @@ Or if he collects alms in a part of the third Paurushî, or in its last quarter,
 
 5\. Mortification of the flesh consists in the different postures as Virâsana, &c., which benefit the soul, and which are difficult to perform. (27)
 
-6\. Using unfrequented lodgings and beds consists in living and sleeping in separate and <span id="p179">[<sup><small>p. 179</small></sup>]</span> unfrequented places where there are neither women nor cattle. (28)
+6\. Using unfrequented lodgings and beds consists in living and sleeping in separate and <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> unfrequented places where there are neither women nor cattle. (28)
 
 Thus external austerities have been briefly explained; I shall now explain internal austerities in due order. (29)
 
@@ -116,7 +116,7 @@ Internal austerities are:
 
 3\. There are ten [^492] kinds of service, as serving the Â<i>k</i>ârya, &c. [^493]; doing service consists in giving one's assistance as well as one is able. (33)
 
-4\. Study is fivefold: 1. saying or learning one's lesson; 2. (questioning the teacher about it); 3. repetition; 4. pondering; 5. religious discourse. (34) <span id="p180">[<sup><small>p. 180</small></sup>]</span> 5\. Abstaining to meditate on painful and sinful things [^494], one should, with a collected mind, engage in pure meditations on the Law; this the wise call meditation. (35)
+4\. Study is fivefold: 1. saying or learning one's lesson; 2. (questioning the teacher about it); 3. repetition; 4. pondering; 5. religious discourse. (34) <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> 5\. Abstaining to meditate on painful and sinful things [^494], one should, with a collected mind, engage in pure meditations on the Law; this the wise call meditation. (35)
 
 6\. If a monk remains motionless when lying down, sitting, or standing upright, this is called abandoning of the body, which is the sixth kind (of internal austerities). (36)
 

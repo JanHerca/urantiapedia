@@ -64,7 +64,7 @@ In the wild wood endure to hear
 The ravening lion's voice of fear?
 Where sleeps my strong-armed hero, where
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 Like Lord Mahendra's standard, fair?
 Where is, by Lakshman's side, his bed,
@@ -187,7 +187,7 @@ He murmured forth his sad complaint:
 Her brimming eyes with tears ran o'er,
 As spouts the new fallen water pour;
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 His suppliant hands, with fear dismayed
 She gently clasped in hers, and laid,
@@ -302,7 +302,7 @@ Showed glorious as the mighty deep.
 The torrents down its wooded side
 Poured, some unstained, while others dyed
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 Gold, ashy, silver, ochre, bore
 The tints of every mountain ore.
@@ -426,7 +426,7 @@ Thy hand has made a Bráhman bleed.
 Let not this pang thy bosom wring:
 No twice-born youth am I, O King,
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 For of a Vais'ya sire I came,
 Who wedded with a S'udrá dame.
@@ -553,7 +553,7 @@ Alone the mourning pair I led,
 Their souls with woe disquieted,
 And let the dame and hermit lay
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 Their hands upon the breathless clay.
 The father touched his son, and pressed
@@ -675,7 +675,7 @@ Back to my memory came the wrong
 Done in wild youth, O lady dear.
 When 'twas my boast to shoot by ear.
 
-<span id="p172">[<sup><small>p. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 The deed has borne the fruit, which now
 Hangs ripe upon the bending bough:
@@ -800,7 +800,7 @@ Skilled in the lore of dreaming, they
 First touched the bed on which he lay.
 But none replied; no sound was heard.
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 Nor hand, nor head, nor body stirred.
 They trembled, and their dread increased,
@@ -921,7 +921,7 @@ Clasping her husband's lifeless clay
 A while the weeping votaress lay,
 Till chamberlains removed her thence
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 O'ercome by sorrow's violence.
 Then in a cask of oil they laid
@@ -1043,7 +1043,7 @@ In kingless realms no merchant bands
 Who travel forth to distant lands,
 With precious wares their wagons load.
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 And fear no danger on the road,
 No sage secure in self-control,
@@ -1158,7 +1158,7 @@ Crossing the M'aliní that flowed
 With gentle stream athwart the road.
 They traversed Gangás holy waves
 
-<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 Where she Hastinapura  [^341] lives,
 Thence to Panchala  [^342] westward fast
@@ -1212,7 +1212,7 @@ A sight that chilled his soul with awe.
 The dream that dire events foretold
 Left Bharat's heart with horror cold,
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 And with consuming woes distraught,
 Upon his aged sire he thought.
@@ -1336,7 +1336,7 @@ Sumitrá skilled in duty's claim,
 Who brave S'atrughna also bore,
 Second in age,—her health declare.
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 And she, in self-conceit most sage,
 With selfish heart most prone to rage,

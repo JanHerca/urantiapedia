@@ -32,14 +32,14 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 
 KANTHAKA bravely carried him a great distance. When the sun finally peered between the eyelids of night, the most noble of men saw that he was near a wood where dwelt many pious hermits. Deer were asleep under the trees, and birds fluttered about fearlessly. Siddhartha felt rested, and he thought he need go no further. He dismounted and gently stroked his horse. There was happiness in his glance and in his voice as he said to Chandaka:
 
 “Truly, a horse has the strength and swiftness of a God. And you, dear friend, by bearing me company, have proved to me how great is your affection and your courage. It was a noble deed and pleases me. Those who, like yourself, can combine energy and devotion are indeed rare. You have shown that you are my friend, and you expect no reward from me! Yet it is usually a selfish interest that brings men together. I assure you, you have made me very happy. Take the horse now and return to the city. I have found the forest I was seeking.”
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 The hero took off his jewels and handed them to Chandaka.
 
@@ -47,7 +47,7 @@ The hero took off his jewels and handed them to Chandaka.
 
 With tears in his eyes, Chandaka replied:
 
-“Oh, how they will weep, those who love you! You are young, you are beautiful, the palace of the Gods should be your home; yet you would live in the woods and sleep on the coarse grass? I knew of <span id="p64">[<sup><small>p. 64</small></sup>]</span> your cruel resolve; I should not have gone to fetch Kanthaka; but a supernatural power urged me, deceived me, and I brought him to you. How could I have done such a thing of my own will? Sorrow will now find its way into Kapilavastu. O prince, your father loves you dearly, do not forsake him! And Mahaprajapati? What has she not done for you! She is your foster-mother; do not be ungrateful! And is there not still another woman who loves you? Do not abandon faithful Gopa! Raise your son with her help, and one day he will bring you glory!”
+“Oh, how they will weep, those who love you! You are young, you are beautiful, the palace of the Gods should be your home; yet you would live in the woods and sleep on the coarse grass? I knew of <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> your cruel resolve; I should not have gone to fetch Kanthaka; but a supernatural power urged me, deceived me, and I brought him to you. How could I have done such a thing of my own will? Sorrow will now find its way into Kapilavastu. O prince, your father loves you dearly, do not forsake him! And Mahaprajapati? What has she not done for you! She is your foster-mother; do not be ungrateful! And is there not still another woman who loves you? Do not abandon faithful Gopa! Raise your son with her help, and one day he will bring you glory!”
 
 He wept bitterly. The hero was silent. Chanda continued:
 
@@ -57,7 +57,7 @@ He seized the hero's hand.
 
 “Do not forsake us! Come back, oh, come back!”
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 Siddhartha still remained silent. Finally, he said in a solemn voice:
 
@@ -67,7 +67,7 @@ Kanthaka was licking his feet. The hero gently stroked his horse and spoke to hi
 
 “Do not weep. You have shown that you are a noble animal. Be patient. The time is near when your toil will be rewarded.”
 
-Then he took a sword that Chandaka was holding. The hilt was of gold and was studded with jewels; the blade was sharp. With one blow he cut <span id="p66">[<sup><small>p. 66</small></sup>]</span> off his hair, then tossed the sword into the air where it glistened like a new star. The Gods caught it and held it in great reverence.
+Then he took a sword that Chandaka was holding. The hilt was of gold and was studded with jewels; the blade was sharp. With one blow he cut <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> off his hair, then tossed the sword into the air where it glistened like a new star. The Gods caught it and held it in great reverence.
 
 But the hero was still wearing his gorgeous robe. He wanted a plain one, one suitable to a hermit. Whereupon a hunter appeared, wearing a coarse garment made of a reddish material. Siddhartha said to him:
 
@@ -77,7 +77,7 @@ But the hero was still wearing his gorgeous robe. He wanted a plain one, one sui
 
 Siddhartha joyfully donned the coarse, reddish-colored clothes belonging to the hunter, and the hunter reverently accepted the hero's robe, then he disappeared into the sky. Siddhartha realized that the Gods themselves had wished to present him with his hermit's robe, and he rejoiced. Chandaka was filled with wonder.
 
-Arrayed in his reddish-colored robes, the saintly hero set out on the path to the hermitage. He was <span id="p67">[<sup><small>p. 67</small></sup>]</span> like the king of the mountains wrapped in clouds at dusk.
+Arrayed in his reddish-colored robes, the saintly hero set out on the path to the hermitage. He was <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> like the king of the mountains wrapped in clouds at dusk.
 
 And Chandaka, with a heavy heart, took the road back to Kapilavastu.
 

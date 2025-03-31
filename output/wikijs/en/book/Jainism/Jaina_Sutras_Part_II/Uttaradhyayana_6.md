@@ -36,7 +36,7 @@ SIXTH LECTURE. THE FALSE ASCETIC [^103].
 
 All men who are ignorant of the Truth are subject to pain; in the endless Sa<i>m</i>sâra they suffer in many ways. (1)
 
-Therefore a wise man, who considers well the ways that lead to bondage [^104] and birth, should <span id="p25">[<sup><small>p. 25</small></sup>]</span> himself search for the truth, and be kind towards all creatures. (2)
+Therefore a wise man, who considers well the ways that lead to bondage [^104] and birth, should <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> himself search for the truth, and be kind towards all creatures. (2)
 
 ‘Mother, father, daughter-in-law, brother, wife, and sons will not be able to help me, when I suffer for my own deeds [^105].’ (3)
 
@@ -50,7 +50,7 @@ Seeing that to accept (presents) leads to hell, one should not accept even a bla
 
 Here some are of opinion that they will be delivered from all misery by merely attending the teacher [^109], without abstaining from sins. (8)
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Acknowledging the truth about bondage and liberation, but talking only, not acting (in accordance with these tenets), they seek comfort for themselves in mighty words. (9)
 
@@ -66,7 +66,7 @@ Recognising the cause of Karman, one should wander about waiting for one's death
 
 An ascetic should not lay by any store, not even so little as the grease (sticking to his alms-bowl); but as a bird with its plumage [^111], so he with his alms-bowl should wander about without desires. (15)
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Receiving alms in a manner to avoid faults [^112], and controlling one's self, one should wander about in a village (&c.) without a fixed residence; careful among the careless one should beg one's food. (16)
 

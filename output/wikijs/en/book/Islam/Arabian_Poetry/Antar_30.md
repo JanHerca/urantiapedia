@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 Thus, once more, every obstacle to Antar's marriage appears to be removed; but in reality his treacherous uncle is as much averse as ever to his union with Abla, and he soon devises another stratagem to bring about the hero's death. Artfully instructed by her father, Abla demands of Antar that at her marriage she should be as exalted as was Jaida, the daughter of Zahir: when she was married to her cousin Khalid, the son of Moharib, the bridle of her camel was held by the daughter of Moawiyah, son of Nizal. The hero boldly promises that at Abla's marriage Jaida herself shall hold her bridle, with Khalid's head slung round her neck. To this wild proposal the father of Abla pretends opposition; but, as he had anticipated, Antar is resolute; and that same night the hero, eager to gratify the wishes of his darling Abla, set out on his perilous enterprise, exclaiming:
 
@@ -46,7 +46,7 @@ Now that I am going in quest of him, no eternity is there for Khalid.
 
 No, no; let Jaida no longer boast;—short will be the happiness of their country—soon will the tiger come!
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 O Abla! may the riches that come for thee rejoice thee, when Fortune casts me among thy enemies!
 

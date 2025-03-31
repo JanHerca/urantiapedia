@@ -32,11 +32,11 @@ dateCreated: 2025-2-7T10:38:9Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 **M**.I. 1. AT what time does one begin to recite [^5]. the Shma‘ [^6] in the evening? [^7] At the hour that the priests enter (the Temple precincts) to eat their portion [^8] \[and they may say it\] until the end of the first watch. [^9] Such is the opinion of R. Eliezer. [^10] But the Majority [^11] say: until midnight.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 **M**.Rabban Gamaliel [^12] says: until the first sign of gray of dawn ascends. [^13]
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 \[So\] the duty of burning the fat pieces and the limbs of the sacrifices, and the eating of the paschal lambs, [^16] lasts until the first sign of gray of dawn ascends, and so the duty of consuming all the things that are to be eaten on one day lasts until the first sign of gray of dawn ascends. If so, why did the Majority say \[of the Shma‘\], until midnight? Solely to keep men far from transgression.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 **T**.
 
@@ -58,7 +58,7 @@ Rabbi [^20] says: There are four watches [^21] in the night. An _‘Onah_ is the
 
 R. Nathan [^22] says: There are three watches in the night, for it is said: “_in the beginning of the middle watch_,” [^23] and every “middle” has one after it and one before.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 <a id="m4"></a>
 
@@ -70,7 +70,7 @@ R. Joshua [^26] says: Until \[the end of\] the third hour, [^27] for such is the
 
 **T**. I. 2. At what time does one begin to recite the Shma‘ in the mornings? Others [^31] say: When it is light enough to recognize one's companion [^32] at the distance of four cubits. Its legal recitation is at the moment that the sun first shines out, so that a man may join the _Ge’ullah_ [^33] to the _Tephillah_, [^34] and thus be praying the Tephillah in the daytime.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 **T**.
 
@@ -82,13 +82,13 @@ R. Judah [1](Berakoth_1_1#fn_35) said: Once I was walking behind R. _T_. Aqiba [
 
 **M**.I. 5 (3): The School of Shammai [^38] say: In the evening all should turn on their side, [^39] and so recite, and in the morning stand, for it is said: “_and when thou liest down, and when thou risest up_.” [^40] But the School of Hillel say: Every one recites according to his own way, for it is said: "_and when thou_ 
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 **M**._goest in the way_.“ [^41] If so, why is there said: ”and when thou liest down and when thou risest up?" This refers to the time when men are in the habit (lit. way) of lying down, and the time when they are in the habit of standing.
 
 6\. (3 _cont_.). R. Tarphon [^42] said: I was on a journey and I turned on my side to recite in accordance with the School of Shammai, and I put myself in danger because of robbers. They said to him: Thou didst deserve to be guilty of thy own life because thou didst trangress the words of the School of Hillel.
 
-**T**. I. 4. An incident is told of R. Ishmael [^43] and R. Eleazar ben Azariah, that they were resting in a certain place, and R. Ishmael had turned on his side and R. Eleazar ben Azariah was upright. When the time of reciting the Shma‘ arrived, R. Ishmael was upright and R. Eleazar ben Azariah was turned on his side. R. Ishmael said to him: What is this, Eleazar? He said to him: Brother Ishmael, people asked a man, Why so fine a beard? He said to them, With a view to the barbers. [^44] So <span id="p7">[<sup><small>p. 7</small></sup>]</span> I who was upright turned on my side, and thou who wast on thy side raised thyself upright. He \[_i.e._ R. Ishmael\] said to him: Thou didst turn on thy side to fulfil \[the Law\] according to the opinion of the School of Shammai, and I stood upright to fulfil \[it\] according to the opinion of the School of Hillel. [1](Berakoth_1_1#fn_45) According to another account, that the disciples should not see \[what we do\], and make a fixed rule according to thy opinion.
+**T**. I. 4. An incident is told of R. Ishmael [^43] and R. Eleazar ben Azariah, that they were resting in a certain place, and R. Ishmael had turned on his side and R. Eleazar ben Azariah was upright. When the time of reciting the Shma‘ arrived, R. Ishmael was upright and R. Eleazar ben Azariah was turned on his side. R. Ishmael said to him: What is this, Eleazar? He said to him: Brother Ishmael, people asked a man, Why so fine a beard? He said to them, With a view to the barbers. [^44] So <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> I who was upright turned on my side, and thou who wast on thy side raised thyself upright. He \[_i.e._ R. Ishmael\] said to him: Thou didst turn on thy side to fulfil \[the Law\] according to the opinion of the School of Shammai, and I stood upright to fulfil \[it\] according to the opinion of the School of Hillel. [1](Berakoth_1_1#fn_45) According to another account, that the disciples should not see \[what we do\], and make a fixed rule according to thy opinion.
 
 <a id="m7"></a>
 
@@ -98,7 +98,7 @@ R. Judah [1](Berakoth_1_1#fn_35) said: Once I was walking behind R. _T_. Aqiba [
 
 In a place where they bid one use the long form it is not permissible to use the short, and where to
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 **M**.use the short, it is not permissible to use the long. Where \[they have bidden men\] “seal” [^52] it is not permissible not to seal, and where not to seal, it is not permissible to seal.
 
@@ -110,7 +110,7 @@ The following are the Benedictions which are said in the long form—the Benedic
 
 7\. The following are the Benedictions which one
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 **T**.
 
@@ -120,7 +120,7 @@ does not “seal” with “Blessed”—when one utters a Benediction over frui
 
 9\. The following are the Benedictions in which one bends forward, the first Benediction, [^60] at its beginning and its end; and in the _Modim_, [^61] at its beginning and at its end. And as for him who bends forward in every single Benediction, he is to be instructed that he should not bend forward. We do not respond together with him who pronounces the Benediction. [^62] \[But\] R. Judah used to respond together with him who pronounced the Benediction: “_Holy, holy, holy, is the LORD of hosts, the whole earth is full of His glory_,” and “_Blessed be the glory of the LORD out of His place_.” [^63] All these (words) R. Judah used to say together with him who pronounced the Benediction.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 <a id="m8"></a>
 
@@ -130,7 +130,7 @@ does not “seal” with “Blessed”—when one utters a Benediction over frui
 
 **T**. I. 10. We make mention of the Going forth from Egypt at nights. R. Eleazar ben Azariah said: Lo, I was about seventy years old, and had not the merit of hearing that the Going forth from Egypt should be said at nights until Ben Zoma expounded it to the effect that it is said: “_that thou mayest remember the day of thy going forth, from the land of Egypt all the days of thy life_”; [^70]
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 **T**.
 
@@ -138,7 +138,7 @@ does not “seal” with “Blessed”—when one utters a Benediction over frui
 
 11\. Similarly \[we read\]: “_Remember ye not the former things, neither consider the things of old_.” [^75] “Remember ye not the former things”—these are the yoke of the \[heathen\] kingdoms. “Neither consider the things of old”—these are the yoke of Egypt. “_Behold, I will do a new thing; now shall it spring forth; shall ye not know it?_” [^76]—this is the
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 **T**.
 
@@ -150,7 +150,7 @@ war with Gog. [^77] We may speak in parables and ask, To what may this be compar
 
 14\. Although He afterwards called Abraham, Abram, [^84] this was not in blame but in praise;
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 **T**.
 
@@ -158,7 +158,7 @@ war with Gog. [^77] We may speak in parables and ask, To what may this be compar
 
 15\. Like unto it is: “_In Salem also is his tabernacle, and his dwelling-place in Zion_.” [^86] Yet, with what object does Scripture restore to it (Jerusalem) its former name? [^87] Lo, He says: “_For this city hath been to me a provocation of mine anger and of my fury_.” [^88] Perchance even now it \[is mentioned\] in anger and fury? We are expressly told: “_The mountain which God hath desired for his abode_.” [^89] Lo, it \[is mentioned\] with desire and longing. He would teach us that her desolation hath made an atonement for her. [^90] Whence do we learn that the Shekinah does not return to the midst of her \[Jerusalem\] until she is made a “mountain”? We are expressly told: “_In Salem also is his tabernacle, and his dwelling-place in Zion_,” \[and\] we find that when it was \[called\] Salem it was called a “mountain.” That means to say that the Shekinah does not return to the midst of her until she is made a “mountain.” For it is said: "_And Abraham_ 
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 **T**.
 

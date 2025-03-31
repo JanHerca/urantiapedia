@@ -44,7 +44,7 @@ His relations on seeing him will surround him and cry: 'Child, we have brought y
 
 ‘The old people are kind-spoken; your sons, child, are very young; you have married your wife; (take care) that she will not go to another man. (5)
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 ‘Come, child, let us go home; we can do all the work, you need not (do it); the next time we shall take care (that you will not be overburdened with work); child, let us meanwhile go to our house. (6)
 
@@ -62,7 +62,7 @@ Men do not (easily) get over this attachment, as (they do not get over) the ocea
 
 But a monk should renounce it; for every attachment is but a cause of sin. He should not desire life, having been instructed in the best Law. (13)
 
-There are these whirlpools which have been <span id="p265">[<sup><small>p. 265</small></sup>]</span> pointed out by <i>K</i>â<i>s</i>yapa: the wise keep clear of them, but the ignorant go down in them. (14)
+There are these whirlpools which have been <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> pointed out by <i>K</i>â<i>s</i>yapa: the wise keep clear of them, but the ignorant go down in them. (14)
 
 Kings and ministers of kings, Brâhma<i>n</i>as and Kshattriyas try with pleasant things to seduce a monk who leads a holy life. (15)
 

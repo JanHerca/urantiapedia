@@ -32,7 +32,7 @@ dateCreated: 2024-11-21T10:26:39Z
   </table>
 </figure>
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 _Alexander:_ in Persian poetry the type of the most fortunate one, as is Darius of the most unfortunate.
 
@@ -42,7 +42,7 @@ _Diwan:_ a Diwan consists of a series of groups of ghazals _(q.v.),_ the first c
 
 _Ferhad:_ a lover famous in Eastern story. He loved Shirin (the sweet one), who was the wife of King Khosru, about the end of the sixth century. He was a sculptor, and renowned throughout Persia. The King, fearing his rivalry, tried to divert his mind from his passion, and sought to find for him some impossible task. As Shirin had demanded a “river of milk,” he was bidden to clear away the rocks obstructing the passage of the great mountain of Beysitoun, and to cause the rivers on the opposite sides of the mountain to join. Ferhad agreed on condition that, if he were successful, Shirin should be given to him. For years he laboured, and carved out wonderful caverns, which can be seen to this day; and the Joui-shir (stream of milk) still flows from the mountain between Hamadân and Hulwân. Only a few days' work remained to be done, when the King heard reports that the project was succeeding: he thereupon sent a messenger to tell Ferhad that Shirin was dead. On hearing this, Ferhad died, some say by killing himself with his axe, others say by throwing himself over a precipice.
 
-_Ghazal,_ or _gazel:_ a form of verse written in a succession of couplets. The first two lines rhyme, and of the succeeding couplets the first line is unrhymed, the second rhymes with the first couplet, and so on, throughout the poem; so that, in the whole poem, all the words which rhyme, rhyme with one another. When this form of verse consists of only four lines, it is called a _Rubai._ The <span id="p110">[<sup><small>p. 110</small></sup>]</span> length of a ghazal varies, but it is not supposed to be longer than eighteen couplets. Often the couplets within a ghazal have no apparent connection, and are complete in themselves. The last couplet usually contains the name of the poet.
+_Ghazal,_ or _gazel:_ a form of verse written in a succession of couplets. The first two lines rhyme, and of the succeeding couplets the first line is unrhymed, the second rhymes with the first couplet, and so on, throughout the poem; so that, in the whole poem, all the words which rhyme, rhyme with one another. When this form of verse consists of only four lines, it is called a _Rubai._ The <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> length of a ghazal varies, but it is not supposed to be longer than eighteen couplets. Often the couplets within a ghazal have no apparent connection, and are complete in themselves. The last couplet usually contains the name of the poet.
 
 _Hatim,_ or _Hatim Tai:_ an Arabian chief famed for his generosity: he never refused a request. He was born in Yemen, in Arabia Felix, in pre-Musulman times. Some one asked for his head, and he gave it, and so died.
 
@@ -56,7 +56,7 @@ _Kafir:_ an unbeliever; one who is not a Musulman.
 
 _Kaikobad:_ a Sultan of the Seljukian dynasty, renowned not only for his successful wars, but as a great builder of palaces.
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 _Kerbela:_ the place of the massacre of Hussain, the grandson of the Prophet, and his children, by the Ommeyyades. It is situated in Mesopotamia, near the western bank of the Tigris, twenty-eight miles from the ruins of Babylon. It is a great place of pilgrimage for the Shiahs, who hold that the spiritual leadership of Islam devolved upon Ali, the son-in-law of Muhammad, and his descendants. The tomb of Hussain is in a large mosque; and each year two hundred thousand pilgrims from all parts of the Musulman world visit it, sometimes carrying the bones of their ancestors to be buried there. The story of the death of Hussain is annually read, and sometimes enacted as a miracle-play, in Shiah communities, with much wailing and sorrow, on the tenth day of the Mohurrum celebrations.
 
@@ -78,7 +78,7 @@ _Masiha:_ Messiah. Jesus is known in Musulman tradition as the Healer.
 
 _Phœnix:_ a fabulous bird of great size and beauty, habitually dwelling in the Caucasus Mountains, but appearing at very rare intervals. If it spreads its wings over the head of a man, he becomes a king. It was supposed to live for seventeen hundred years, and only one existed in the world at a time.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 _Rustum:_ son of Zal, Prince of Seistan: a traditional hero of Persia, famous for his indomitable strength and bravery. He conquered the Dives, or evil spirits, and performed other miraculous deeds, comparable to the labours of Hercules. He is the hero of the _Shah-Nameh_ of Firdausi.
 

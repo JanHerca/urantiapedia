@@ -34,13 +34,13 @@ dateCreated: 2025-2-5T12:26:57Z
 
 
 
-<span id="pxvi">[<sup><small>p. xvi</small></sup>]</span> <span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="pxvi">[<sup><small>p. xvi</small></sup>]</span> <span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 1\. _Question_. Of what religion [^0] are you?
 
 _Answer_. The Buddhist.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 2\. Q. _What is Buddhism?_
 
@@ -64,7 +64,7 @@ A. An Upâsikâ.
 
 7\. Q. _When was this doctrine first preached?_
 
-A. There is some disagreement as to the actual <span id="p3">[<sup><small>p. 3</small></sup>]</span> date, but according to the Sinhalese Scriptures it was in the year 2513 of the (present) Kali-Yuga.
+A. There is some disagreement as to the actual <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> date, but according to the Sinhalese Scriptures it was in the year 2513 of the (present) Kali-Yuga.
 
 8\. Q. _Give the important dates in the last birth of the Founder_.
 
@@ -82,7 +82,7 @@ A. Yes; but the wisest, noblest and most holy being who had developed himself in
 
 A. Yes; as will be explained later on.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 12\. Q. _Was Buddha his name?_
 
@@ -110,7 +110,7 @@ A. In India, one hundred miles north-east of the city of Benares, and about fort
 
 18\. Q. _On what river?_
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 A. The Rohinî, now called the Kohana.
 
@@ -132,7 +132,7 @@ A, Around each palace were gardens of the most beautiful and fragrant flowers, w
 
 23\. Q. _Was he living alone?_
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 A. No; in his sixteenth year he was married to the Princess Yasodharâ, daughter of the King Suprabuddha. Many beautiful maidens, skilled in dancing and music, were also in continual attendance to amuse him.
 
@@ -152,7 +152,7 @@ A. No. He left all and went alone into the jungle.
 
 A. To discover the cause of our sufferings and the way to escape from them.
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 23\. Q. _Was it not selfishness that made him do this?_
 
@@ -172,7 +172,7 @@ A. Not one in this present world-period: this is why Buddhists so love him, and 
 
 32\. Q. _But have not many men given up all earthly blessings, and even life itself, for the sake of their fellow-men?_
 
-A. Certainly. But we believe that this surpassing unselfishness and love for humanity showed themselves <span id="p8">[<sup><small>p. 8</small></sup>]</span> in his renouncing the bliss of Nirvâṇa countless ages ago, when he was born as the Brâhmaṇa Sumedha, in the time of Dipankara Buddha: he had then reached the stage where he might have entered Nirvâṇa, had he not loved mankind more than himself. This renunciation implied his voluntarily enduring the miseries of earthly lives until he became Buddha, for the sake of teaching all beings the way to emancipation and to give rest to the world.
+A. Certainly. But we believe that this surpassing unselfishness and love for humanity showed themselves <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> in his renouncing the bliss of Nirvâṇa countless ages ago, when he was born as the Brâhmaṇa Sumedha, in the time of Dipankara Buddha: he had then reached the stage where he might have entered Nirvâṇa, had he not loved mankind more than himself. This renunciation implied his voluntarily enduring the miseries of earthly lives until he became Buddha, for the sake of teaching all beings the way to emancipation and to give rest to the world.
 
 33\. Q. _How old was he when he went to the jungle?_
 
@@ -190,7 +190,7 @@ A. Those of a very old man broken down by age, of a sick man, of a decaying corp
 
 A. No, his attendant, Channa, also saw them.
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 37\. Q. _Why should these sights, so familiar to everybody, have caused him to go to the jungle?_
 
@@ -206,7 +206,7 @@ A. Yes; he seems to have felt for all beings so strong a pity and love as that.
 
 40\. Q. _And how did he expect to learn the cause of sorrow in the jungle?_
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 A. By removing far away from all that could prevent his thinking deeply of the causes of sorrow and the nature of man.
 
@@ -226,7 +226,7 @@ A. To the river Anomâ, a long way from Kapilavastu.
 
 A. He sprang from his horse, cut off his beautiful hair with his sword, put on the yellow dress of an ascetic, and giving his ornaments and horse to Channa, ordered him to take them back to his father, the King.
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 45\. Q. _What then?_
 
@@ -254,7 +254,7 @@ A. That by severe penances and torture of the body a man may acquire perfect wis
 
 50\. Q. _Did the Prince find this to be so?_
 
-A. No; he learned their systems and practised all <span id="p12">[<sup><small>p. 12</small></sup>]</span> their penances, but he could not thus discover the cause of human sorrow and the way to absolute emancipation.
+A. No; he learned their systems and practised all <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> their penances, but he could not thus discover the cause of human sorrow and the way to absolute emancipation.
 
 51\. Q. _What did he then do?_
 
@@ -276,7 +276,7 @@ A. He sat and meditated, concentrating his mind upon the higher problems of life
 
 A. Yes, through the whole period. He took less and less food and water until, it is said, he ate scarcely more than one grain of rice or of sesamum seed each day.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 56\. Q. _Did this give him the wisdom he longed for?_
 
@@ -294,7 +294,7 @@ A. The thought came to him that knowledge could never be reached by mere fasting
 
 A. He received food from Sujâtâ, a nobleman's, daughter, who saw him sitting at the foot of a nyagrodha (banyan) tree, He arose, took his almsbowl, bathed in the river Nêranjarâ, ate the food, and went into the jungle.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 60\. Q. _What did he do there?_
 
@@ -310,7 +310,7 @@ A. The side facing the east. [^4]
 
 63\. Q. _What did he obtain that night?_
 
-A. The knowledge of his previous births, of the causes of re-births, and of the way to extinguish desires. Just before the break of the next day his mind was entirely opened, like the full-blown lotus flower; the light of supreme knowledge, or the Four Truths, poured <span id="p15">[<sup><small>p. 15</small></sup>]</span> in upon him. He had become Buddha—the Enlightened, the all-knowing—_the Sarvajña_.
+A. The knowledge of his previous births, of the causes of re-births, and of the way to extinguish desires. Just before the break of the next day his mind was entirely opened, like the full-blown lotus flower; the light of supreme knowledge, or the Four Truths, poured <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> in upon him. He had become Buddha—the Enlightened, the all-knowing—_the Sarvajña_.
 
 64\. Q. _Had he at last discovered the cause of human misery?_
 
@@ -324,7 +324,7 @@ A. Yes, mighty and terrible struggles. He had to conquer in his body all those n
 
 A. At first he was reluctant to teach it to the people at large.
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 67\. Q. _Why?_
 
@@ -344,7 +344,7 @@ A. Yes, a partly ruined stupa, or dagoba, is still standing on that very spot.
 
 71\. Q. _Did those five companions readily listen to him?_
 
-A. At first, no; but so great was the spiritual. beauty of his appearance, so sweet and convincing <span id="p17">[<sup><small>p. 17</small></sup>]</span> his teaching, that they soon turned and gave him the closest attention.
+A. At first, no; but so great was the spiritual. beauty of his appearance, so sweet and convincing <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> his teaching, that they soon turned and gave him the closest attention.
 
 72\. Q. _What effect did this discourse have upon them?_
 
@@ -364,7 +364,7 @@ A. He called the disciples together, gave them full instructions, and sent them 
 
 76\. Q. _What was the essence of it?_
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 A. That the way of emancipation lies in leading the holy life and following the rules laid down, which will be explained later on.
 
@@ -394,7 +394,7 @@ A. Sâriputra and Moggallâna, formerly chief disciples of Sanjaya, the ascetic.
 
 83\. Q. _For what did they become renowned?_
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 A. Sâriputra for his profound learning (_Prajña_), Moggallâna for his exceptional spiritual powers (_Iddhi_).
 
@@ -412,7 +412,7 @@ A. Yes. His father went with all his relatives and ministers to meet him and rec
 
 87\. Q. _Did he consent to resume his old rank?_
 
-A. No. In all sweetness he explained to his father that the Prince Siddhârtha had passed out of existence, as such, and was now changed into the condition of a Buddha, to whom all beings were equally akin and equally dear. Instead of ruling over one tribe or nation, like an earthly king, he, <span id="p20">[<sup><small>p. 20</small></sup>]</span> through his Dharma, would win the hearts of all men to be his followers.
+A. No. In all sweetness he explained to his father that the Prince Siddhârtha had passed out of existence, as such, and was now changed into the condition of a Buddha, to whom all beings were equally akin and equally dear. Instead of ruling over one tribe or nation, like an earthly king, he, <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> through his Dharma, would win the hearts of all men to be his followers.
 
 88\. Q. _Did he see Yasodharâ and his son Râhula?_
 
@@ -426,7 +426,7 @@ A. To one and all he preached the Dharma as the cure for all sorrows. His father
 
 A. Prajâpatî, the aunt and foster-mother of Prince Siddhartha. With her, Yasodharâ and many other ladies were admitted into the order as _Bhikkhunis_ or female devotees.
 
-91\. Q. _What effect did the taking up of the religious life by his sons Siddhartha and Ânanda, his_ <span id="p21">[<sup><small>p. 21</small></sup>]</span> _nephew Devadatta, his son's wife Yasodharâ and his grandson Râhula, have upon the old king Suddhodana?_
+91\. Q. _What effect did the taking up of the religious life by his sons Siddhartha and Ânanda, his_ <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> _nephew Devadatta, his son's wife Yasodharâ and his grandson Râhula, have upon the old king Suddhodana?_
 
 A. It grieved him much and he complained to the Buddha, who then made it a rule of the order that no person should thenceforth be ordained without the consent of his parents if alive.
 
@@ -440,7 +440,7 @@ A. Not the least, but the evil he plotted against him recoiled upon himself, and
 
 94\. Q. _For how many years was the Buddha engaged in teaching?_
 
-A. Forty-five years, during which time he preached a great many discourses. His custom and that of his <span id="p22">[<sup><small>p. 22</small></sup>]</span> disciples was to travel and preach during the eight dry months, but during the season of _Wâs_—the rains—he and they would stop in the pânsulas and vihâras which had been built for them by various kings and other wealthy converts.
+A. Forty-five years, during which time he preached a great many discourses. His custom and that of his <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> disciples was to travel and preach during the eight dry months, but during the season of _Wâs_—the rains—he and they would stop in the pânsulas and vihâras which had been built for them by various kings and other wealthy converts.
 
 95\. Q. _Which were the most famous of these buildings?_
 
@@ -452,7 +452,7 @@ A. People of all ranks, nations and castes; rajas and coolies, rich and poor, mi
 
 97\. Q. _Give some account of the decease of the Buddha?_
 
-A. In the forty-fifth season after his attaining Buddhahood, on the full-moon day of May, knowing that his end was near, he came at evening to Kusinâgâra, a place about one hundred and twenty miles from Benares. In the sâla grove of the Mallas, the Uparvartana <span id="p23">[<sup><small>p. 23</small></sup>]</span> of Kusinâgâra, between two sâla trees, he had his bedding spread with the head towards the north according to the ancient custom. He lay upon it, and with his mind perfectly clear, gave his final instructions to his disciples and bade them farewell.
+A. In the forty-fifth season after his attaining Buddhahood, on the full-moon day of May, knowing that his end was near, he came at evening to Kusinâgâra, a place about one hundred and twenty miles from Benares. In the sâla grove of the Mallas, the Uparvartana <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> of Kusinâgâra, between two sâla trees, he had his bedding spread with the head towards the north according to the ancient custom. He lay upon it, and with his mind perfectly clear, gave his final instructions to his disciples and bade them farewell.
 
 98\. _Q. Did he also make new converts in those last hours?_
 
@@ -470,7 +470,7 @@ A. “Bhikkhus,” he said, “I now impress it upon you, the parts and powers o
 
 A. His existence is apparently as clearly proved as that of any other character of ancient history.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 102\. Q. _Name some of the proofs?_
 
@@ -484,13 +484,13 @@ A. (1) The testimony of those who personally knew him.
 
 (5) The fact that in the very year of his death and at various times subsequently, conventions and councils of the Sangha were held, for the verification of the actual teachings of the Founder, and the handing down of those verified teachings from teacher to pupil, to the present day.
 
-(3) After his cremation his relics were divided among eight kings and a stûpa was erected over each portion. The portion given to King Ajâtasatru, and by him covered with a stûpa at Râjagriha, was taken, less <span id="p25">[<sup><small>p. 25</small></sup>]</span> than two centuries later, by the Emperor Asoka and distributed throughout his Empire. He, of course, had ample means of knowing whether the relics were those of the Buddha or not, since they had been in charge of the royal house of Patna from the beginning.
+(3) After his cremation his relics were divided among eight kings and a stûpa was erected over each portion. The portion given to King Ajâtasatru, and by him covered with a stûpa at Râjagriha, was taken, less <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> than two centuries later, by the Emperor Asoka and distributed throughout his Empire. He, of course, had ample means of knowing whether the relics were those of the Buddha or not, since they had been in charge of the royal house of Patna from the beginning.
 
 (7) Many of the Buddha's disciples, being Arahats and thus having control over their vital powers, must have lived to great ages, and there was nothing to have prevented two or three of them, in succession to each other, to have covered the whole period between the death of the Buddha and the reign of Asoka, and thus to have enabled the latter to get from his contemporary every desired attestation of the fact of the Buddha's life. [^7]
 
 (8) The “Mahâvansa,” the best authenticated ancient history known to us, records the events of Sinhalese history to the reign of King Vijaya, 543 B.C.—almost the time of the Buddha—and gives most particulars of his life, as well as those of Emperor Asoka and all other sovereigns related to Buddhistic history.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 105\. Q. _By what names of respect is the Buddha called?_
 

@@ -42,7 +42,7 @@ WARNINGS, SUPPOSED TO BE ADDRESSED TO KING LÎ, ON THE ISSUES OF THE COURSE WHIC
 
 This ode, like the ninth of the second decade, is attributed to duke Mû of Shâo. The structure of the piece is peculiar, for, after the first stanza, we have king Wăn introduced delivering a series of warnings to <i>K</i>âu-hsin, the last king of the Shang dynasty. They are put into Wăn's mouth, in the hope that Lî, if, indeed, he was the monarch whom the writer had in view, would transfer the figure of <i>K</i>âu-hsin to himself, and alter his course so as to avoid a similar ruin.
 
-How vast is God, The ruler of men below! How arrayed in terrors is God, With many things irregular in his ordinations. Heaven gave birth to the multitudes of the people, But the nature it confers is not to be depended on. All are (good) <span id="p411">[<sup><small>p. 411</small></sup>]</span> at first, But few prove themselves to be so at the last [^554].
+How vast is God, The ruler of men below! How arrayed in terrors is God, With many things irregular in his ordinations. Heaven gave birth to the multitudes of the people, But the nature it confers is not to be depended on. All are (good) <span id="p411"><sup><small>[ p. 411 ]</small></sup></span> at first, But few prove themselves to be so at the last [^554].
 
 King Wăn said, ‘Alas! Alas! you sovereign of Shang, That you should have such violently oppressive ministers, That you should have such extortionate exactors, That you should have them in offices, That you should have them in the conduct of affairs! “Heaven made them with their insolent dispositions;” But it is you who employ them, and give them strength.’
 
@@ -50,7 +50,7 @@ King Wăn said, ‘Alas! Alas! you (sovereign of) Yin-shang, You ought to employ
 
 King Wăn said, ‘Alas! Alas! you (sovereign of) Yin-shang, You show a strong fierce will in the centre of the kingdom, And consider the contracting of enmities a proof of virtue. All-unintelligent are you. Of your (proper) virtue, And so, you have no (good) men behind you, nor by your side. Without any intelligence of your (proper) virtue, You have no (good) intimate adviser or minister.’
 
-King Wăn said, ‘Alas! Alas! you (sovereign of) Yin-shang, It is not Heaven that flushes your face with spirits, So that you follow what is evil and imitate it. You go wrong in all your conduct; You make no distinction between the light and the <span id="p412">[<sup><small>p. 412</small></sup>]</span> darkness; But amid clamour and shouting, You turn the day into night [^555].’
+King Wăn said, ‘Alas! Alas! you (sovereign of) Yin-shang, It is not Heaven that flushes your face with spirits, So that you follow what is evil and imitate it. You go wrong in all your conduct; You make no distinction between the light and the <span id="p412"><sup><small>[ p. 412 ]</small></sup></span> darkness; But amid clamour and shouting, You turn the day into night [^555].’
 
 King Wăn said, ‘Alas! Alas! you (sovereign of) Yin-shang, (All round you) is like the noise of cicadas, Or like the bubbling of boiling soup. Affairs, great and small, are approaching to ruin, And still you (and your creatures) go on in this course. Indignation is rife against you here in the Middle Kingdom, And extends to the demon regions [^556].’
 
@@ -59,7 +59,7 @@ King Wăn said, 'Alas! Alas! you (sovereign of) Yin-shang, It is not God that ha
 King Wăn said, ‘Alas! Alas! you (sovereign of) Shang, People have a saying, “When a tree falls utterly, While its branches and leaves are yet uninjured, It must first have been uprooted.” The beacon of Yin is not far distant;—It is in the age of the (last) sovereign of Hsiâ.’
 
 
-<span id="p413">[<sup><small>p. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 <a id="o2"></a>
 
@@ -71,19 +71,19 @@ The sixth ode in the seventh decade of the Minor Odes of the Kingdom is attribut
 
 Outward demeanour, cautious and grave, Is an indication of the (inward) virtue. People have the saying, ‘There is no wise man who is not (also) stupid.’ The stupidity of the ordinary man Is determined by his (natural) defects. The stupidity of the wise man Is from his doing violence (to his proper character).
 
-What is most powerful is the being the man [^557];— <span id="p414">[<sup><small>p. 414</small></sup>]</span> In all quarters (of the state) men are influenced by it. To an upright virtuous conduct All in the four quarters of the state render obedient homage. With great counsels and determinate orders, With far-reaching plans and timely announcements, And with reverent care of his outward demeanour, One will become the pattern of the people.
+What is most powerful is the being the man [^557];— <span id="p414"><sup><small>[ p. 414 ]</small></sup></span> In all quarters (of the state) men are influenced by it. To an upright virtuous conduct All in the four quarters of the state render obedient homage. With great counsels and determinate orders, With far-reaching plans and timely announcements, And with reverent care of his outward demeanour, One will become the pattern of the people.
 
 As for the circumstances of the present time, You are bent on error and confusion in your government. Your virtue is subverted; You are besotted by drink [^558]. Although you thus pursue nothing but pleasure, How is it you do not think of your relation to the past, And do not widely study the former kings, That you might hold fast their wise laws?
 
 Shall not those whom great Heaven does not approve of, Surely as the waters flow from a spring, Sink down together in ruin? Rise early and go to bed late, Sprinkle and sweep your courtyard;—So as to be a pattern to the people [^559]. Have in good order your chariots and horses, Your bows and arrows, and (other) weapons of war;—To be prepared for warlike action, To keep at a distance (the hordes of) the south.
 
-Perfect what concerns your officers and people; <span id="p415">[<sup><small>p. 415</small></sup>]</span> Be careful of your duties as a prince (of the kingdom). To be prepared for unforeseen dangers, Be cautious of what you say; Be reverentially careful of your outward behaviour; In all things be mild and correct. A flaw in a mace of white jade May be ground away; But for a flaw in speech Nothing can be done.
+Perfect what concerns your officers and people; <span id="p415"><sup><small>[ p. 415 ]</small></sup></span> Be careful of your duties as a prince (of the kingdom). To be prepared for unforeseen dangers, Be cautious of what you say; Be reverentially careful of your outward behaviour; In all things be mild and correct. A flaw in a mace of white jade May be ground away; But for a flaw in speech Nothing can be done.
 
 Do not speak lightly; your words are your own [^560]. Do not say, ‘This is of little importance; No one can hold my tongue for me.’ Words are not to be cast away. Every word finds its answer; Every good deed has its recompense. If you are gracious among your friends, And to the people, as if they were you: children, Your descendants will continue in unbroken line, And all the people will surely be obedient to you.
 
 Looked at in friendly intercourse with superior men, You make your countenance harmonious and mild; Anxious not to do anything wrong. Looked at in your chamber, You ought to be equally free from shame before the light which shines in. Do not say, ‘This place is not public; No one can see me here.’ The approaches of spiritual beings Cannot be calculated beforehand; But the more should they not be slighted [^561].
 
-<span id="p416">[<sup><small>p. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 O prince, let your practice of virtue Be entirely good and admirable. Watch well over your behaviour, And allow nothing wrong in your demeanour. Committing no excess, doing nothing injurious, There are few who will not in such a case take you for their pattern. When one throws to me a peach, I return to him a plum [^562]. To look for horns on a young ram Will only weary you, my son [^563].
 
@@ -91,7 +91,7 @@ The tough and elastic wood Can be fitted with the silken string [^564]. The mild
 
 Oh! my son, When you did not know what was good, and what was not good, Not only did I lead you by the hand, But I showed the difference between them by appealing to instances. Not (only) did I charge you face to face, But I held you by the ear [^565]. And still perhaps you do not know, Although you have held a son in your arms. If people be not self-sufficient, Who comes to a late maturity after early instruction?
 
-Great Heaven is very intelligent, And I pass, <span id="p417">[<sup><small>p. 417</small></sup>]</span> my life without pleasure. When I see you so dark and stupid, My heart is full of pain. I taught you with assiduous repetition, And you listened to me with contempt. You would not consider me as your teacher, But regarded me as troublesome. Still perhaps you do not know;—But you are very old.
+Great Heaven is very intelligent, And I pass, <span id="p417"><sup><small>[ p. 417 ]</small></sup></span> my life without pleasure. When I see you so dark and stupid, My heart is full of pain. I taught you with assiduous repetition, And you listened to me with contempt. You would not consider me as your teacher, But regarded me as troublesome. Still perhaps you do not know;—But you are very old.
 
 Oh! my son, I have told you the old ways. Hear and follow my counsels:—Then shall you have no cause for great regret. Heaven is now inflicting calamities, And is destroying the state. My illustrations are not taken from things remote:—Great Heaven makes no mistakes. If you go on to deteriorate in your virtue, You will bring the people to great distress.
 
@@ -103,7 +103,7 @@ THE WRITER MOURNS OVER THE MISERY AND DISORDER OF THE TIMES, WITH A VIEW TO REPR
 
 King Lî is not mentioned by name in the piece, but the second line of stanza 7 can only be explained of him. He was driven from the throne, in consequence of his misgovernment, in B.C. 842, and only saved his life by flying to <i>K</i>ih, a place in the present Ho <i>K</i>âu, department Phing-yang, Shan-hsî, where he remained till his death in B.C. 828. The government in the meantime was carried on by the dukes of Shâo and <i>K</i>âu, whose administration, called the period of ‘Mutual Harmony,’ forms an important chronological era in Chinese history. On the authority of a reference in the Ȝo <i>K</i>wan, the piece is ascribed to an earl of _Z_ui.
 
-Luxuriant is that young mulberry tree, And beneath it wide is the shade; But they will pluck its leaves till it is quite destroyed [^566]. The distress <span id="p418">[<sup><small>p. 418</small></sup>]</span> inflicted on these (multitudes of the) people, Is an unceasing sorrow to my heart; My commiseration fills (my breast). O thou bright and great Heaven, Shouldest thou not have compassion on us?
+Luxuriant is that young mulberry tree, And beneath it wide is the shade; But they will pluck its leaves till it is quite destroyed [^566]. The distress <span id="p418"><sup><small>[ p. 418 ]</small></sup></span> inflicted on these (multitudes of the) people, Is an unceasing sorrow to my heart; My commiseration fills (my breast). O thou bright and great Heaven, Shouldest thou not have compassion on us?
 
 The four steeds (gallop about), eager and strong [^567]; The tortoise-and-serpent and the falcon banners fly about. Disorder grows, and no peace can be secured. Every state is being ruined; There are no black heads among the people [^568]. Everything is reduced to ashes by calamity. Oh! alas! The doom of the kingdom hurries on.
 
@@ -111,7 +111,7 @@ There is nothing to arrest the doom of the kingdom; Heaven does not nourish us. 
 
 The grief of my heart is extreme, And I dwell on (the condition of) our land. I was born at an unhappy time, To meet with the severe anger of Heaven. From the west to the east, There is no quiet place of abiding. Many are the distresses I meet with; Very urgent is the trouble on our borders.
 
-Heaven is sending down death and disorder, And} <span id="p419">[<sup><small>p. 419</small></sup>]</span> has put an end to our king. It is (now) sending down those devourers of the grain, So that the husbandry is all in evil case. Alas for our middle states [^571]! All is in peril and going to ruin. I have no strength (to do anything), And think of (the Power in) the azure vault.
+Heaven is sending down death and disorder, And} <span id="p419"><sup><small>[ p. 419 ]</small></sup></span> has put an end to our king. It is (now) sending down those devourers of the grain, So that the husbandry is all in evil case. Alas for our middle states [^571]! All is in peril and going to ruin. I have no strength (to do anything), And think of (the Power in) the azure vault.
 
 <a id="o4"></a>
 
@@ -121,21 +121,21 @@ KING HSÜAN, ON OCCASION OF A GREAT DROUGHT, EXPOSTULATES WITH GOD AND ALL THE S
 
 King Hsüan does not occur by name in the ode, though the remarkable prayer which it relates is ascribed to a king in stanza 1. All critics have admitted the statement of the Preface that the piece was made, in admiration of king Hsüan, by _Z_ăng Shû, a great officer, we may presume, of the court. The standard chronology places the commencement of the drought in B.C. 822, the sixth year of Hsüan's reign. How long it continued we cannot tell.
 
-Bright was the milky way, Shining and revolving in the sky. The king said, 'Oh! What crime is chargeable on us now, That Heaven (thus) sends down death and disorder? Famine comes again and again. There is no spirit I have not sacrificed to [^572]; There is no victim I have grudged; Our <span id="p420">[<sup><small>p. 420</small></sup>]</span> jade symbols, oblong and round, are exhausted [^573];—How is it that I am not heard?
+Bright was the milky way, Shining and revolving in the sky. The king said, 'Oh! What crime is chargeable on us now, That Heaven (thus) sends down death and disorder? Famine comes again and again. There is no spirit I have not sacrificed to [^572]; There is no victim I have grudged; Our <span id="p420"><sup><small>[ p. 420 ]</small></sup></span> jade symbols, oblong and round, are exhausted [^573];—How is it that I am not heard?
 
 ‘The drought is excessive; Its fervours become more and more tormenting. I have not ceased offering pure sacrifices; From the border altars I have gone to the ancestral temple [^574]. To the (Powers) above and below I have presented my offerings and then’ buried them [^575];—There is no spirit whom I have not honoured. Hâu-_k_î is not equal to the occasion; God does not come to us. This wasting and ruin of our country,—Would that it fell (only) on me!
 
-‘The drought is excessive, And I may not try to excuse myself. I am full of terror, and feel the peril, Like the clap of thunder or the roll. Of the remnant of <i>K</i>âu, among the black-haired people, There will not be half a man left; Nor will God from his great heaven exempt (even) me. Shall <span id="p421">[<sup><small>p. 421</small></sup>]</span> we not mingle our fears together? (The sacrifices to) my ancestors will be extinguished [^576].
+‘The drought is excessive, And I may not try to excuse myself. I am full of terror, and feel the peril, Like the clap of thunder or the roll. Of the remnant of <i>K</i>âu, among the black-haired people, There will not be half a man left; Nor will God from his great heaven exempt (even) me. Shall <span id="p421"><sup><small>[ p. 421 ]</small></sup></span> we not mingle our fears together? (The sacrifices to) my ancestors will be extinguished [^576].
 
 ‘The drought is excessive, And it cannot be stopped. More fierce and fiery, It is leaving me no place. My end is near;—I have none to look up, none to look round, to. The many dukes and their ministers of the past [^577] Give me no help. O ye parents and (nearer) ancestors [^578], How can ye bear to see me thus?
 
-‘The drought is excessive;—Parched are the hills, and the streams are dried. The demon of drought exercises his oppression, As if scattering flames and fire [^579] My heart is terrified with the heat;—My sorrowing heart is as if on fire. The <span id="p422">[<sup><small>p. 422</small></sup>]</span> many dukes and their ministers of the past Do not hear me. O God, from thy great heaven, Grant me the liberty to withdraw (into retirement [^580]).
+‘The drought is excessive;—Parched are the hills, and the streams are dried. The demon of drought exercises his oppression, As if scattering flames and fire [^579] My heart is terrified with the heat;—My sorrowing heart is as if on fire. The <span id="p422"><sup><small>[ p. 422 ]</small></sup></span> many dukes and their ministers of the past Do not hear me. O God, from thy great heaven, Grant me the liberty to withdraw (into retirement [^580]).
 
 ‘The drought is excessive;—I struggle and fear to go away. How is it that I am afflicted with this drought? I cannot ascertain the cause of it. In praying for a good year I was abundantly early [^581]. I was not late (in sacrificing) to (the spirits of) the four quarters and of the land [^582]. God in great heaven Does not consider me. Reverent to the intelligent spirits, I ought not to be thus the object of their anger.
 
 ‘The drought is excessive;—All is dispersion, and the bonds of government are relaxed. Reduced to extremities are the heads of departments; Full of distress are my chief ministers, The Master of the Horse, the Commander of the Guards, The chief Cook [^583], and my attendants. There is no one who has not (tried to) help (the people); They have not refrained on the ground of being unable. I look up to the great heaven;—Why am I plunged in this sorrow?
 
-‘I look up to the great heaven, But its stars sparkle bright. My great officers and excellent men, Ye have reverently drawn near (to Heaven) with all <span id="p423">[<sup><small>p. 423</small></sup>]</span> your powers. Death is approaching, But do not cast away what you have done. You are seeking not for me only, But to give rest to all our departments. I look up to the great heaven;—When shall I be favoured with repose?’
+‘I look up to the great heaven, But its stars sparkle bright. My great officers and excellent men, Ye have reverently drawn near (to Heaven) with all <span id="p423"><sup><small>[ p. 423 ]</small></sup></span> your powers. Death is approaching, But do not cast away what you have done. You are seeking not for me only, But to give rest to all our departments. I look up to the great heaven;—When shall I be favoured with repose?’
 
 <a id="o5"></a>
 
@@ -145,13 +145,13 @@ CELEBRATING THE APPOINTMENT BY KING HSÜAN OF A RELATIVE TO BE THE MARQUIS OF SH
 
 That the king who appears in this piece was king Hsüan is sufficiently established. He appears in it commissioning ‘his great uncle,’ an elder brother, that is, of his mother, to go and rule, as marquis of Shăn, and chief or president of the states in the south of the kingdom, to defend the borders against the encroaching hordes of the south, headed by the princes of Khû, whose lords bad been rebellious against the middle states even in the time of the Shang dynasty;—see the last of the Sacrificial Odes of Shang.
 
-Grandly lofty are the mountains, With their large masses reaching to the heavens. From those mountains was sent down a spirit, Who produced the birth of (the princes of) Fû and Shăn [^584]. Fû and <span id="p424">[<sup><small>p. 424</small></sup>]</span> Shăn Are the support of <i>K</i>âu, Screens to all the states, Diffusing (their influence) over the four quarters of the kingdom.
+Grandly lofty are the mountains, With their large masses reaching to the heavens. From those mountains was sent down a spirit, Who produced the birth of (the princes of) Fû and Shăn [^584]. Fû and <span id="p424"><sup><small>[ p. 424 ]</small></sup></span> Shăn Are the support of <i>K</i>âu, Screens to all the states, Diffusing (their influence) over the four quarters of the kingdom.
 
 Full of activity is the chief of Shăn, And the king would employ him to continue the services (of his fathers), With his capital in Hsieh [^585], Where he should be a pattern to the states of the south. The king gave charge to the earl of Shâo, To arrange all about the residence of the chief of Shăn, Where he should do what was necessary for the regions of the south, And where his posterity might maintain his merit.
 
 Of the services of the chief of Shăn The foundation was laid by the earl of Shâo, Who first built the walls (of his city), And then completed his ancestral temple [^586]. When the temple was completed, wide and grand, The king conferred on the chief of Shâo Four noble steeds, With the hooks for the trappings of the breast-bands, glittering bright [^587].
 
-<span id="p425">[<sup><small>p. 425</small></sup>]</span>
+<span id="p425"><sup><small>[ p. 425 ]</small></sup></span>
 
 <a id="o6"></a>
 
@@ -161,7 +161,7 @@ CELEBRATING THE VIRTUES OF <i>K</i>UNG SHAN-FÛ, WHO APPEARS TO HAVE BEEN ONE OF
 
 Heaven, in giving birth to the multitudes of the people, To every faculty and relationship annexed its law. The people possess this normal nature, And they (consequently) love its normal virtue [^588]. Heaven beheld the ruler of <i>K</i>âu, Brilliantly affecting it by his conduct below, And to maintain him, its Son, Gave birth to <i>K</i>ung Shan-fû [^589].
 
-<i>K</i>ung Shan-fû went forth, having sacrificed to the spirit of the road [^590]. His four steeds were strong; <span id="p426">[<sup><small>p. 426</small></sup>]</span> His men were alert, He was always anxious lest he should not be equal to his commission; His steeds went on without stopping, To the tinkling of their eight bells. The king had given charge to <i>K</i>ung Shan-fû, To fortify the city there in the east.
+<i>K</i>ung Shan-fû went forth, having sacrificed to the spirit of the road [^590]. His four steeds were strong; <span id="p426"><sup><small>[ p. 426 ]</small></sup></span> His men were alert, He was always anxious lest he should not be equal to his commission; His steeds went on without stopping, To the tinkling of their eight bells. The king had given charge to <i>K</i>ung Shan-fû, To fortify the city there in the east.
 
 <a id="o7"></a>
 
@@ -176,7 +176,7 @@ Very grand is the mountain of Liang, Which was made cultivable by Yü. Bright is
 When the marquis of Han left the court, he sacrificed to the spirit of the road. He went forth, and lodged for the night in Tû.
 
 
-<span id="p427">[<sup><small>p. 427</small></sup>]</span>
+<span id="p427"><sup><small>[ p. 427 ]</small></sup></span>
 
 <a id="o8"></a>
 
@@ -188,7 +188,7 @@ Hû was probably the same earl of Shâo, who is mentioned in ode 5, as building 
 
 The king gave charge to Hû of Shâo:—'You have everywhere made known (and carried out my orders). When (the kings) Wăn and Wû received their appointment, The duke of Shâo was their strong support. You not (only) have a regard to me the little child But you try to resemble that duke of Shâo. You have commenced and earnestly displayed your merit; And I will make you happy.
 
-‘I give you a large libation-cup of jade [^591], And a jar of herb-flavoured spirits from the black millet [^592]. I have made announcement to the Accomplished one [^593], And confer on you hills, lands, and fields. In (<i>Kh</i>î-)_k_âu shall you receive investiture, According as your ancestor received his.’ Hû bowed with <span id="p428">[<sup><small>p. 428</small></sup>]</span> his head to the ground (and said), ‘May the Son of Heaven live for ever!’
+‘I give you a large libation-cup of jade [^591], And a jar of herb-flavoured spirits from the black millet [^592]. I have made announcement to the Accomplished one [^593], And confer on you hills, lands, and fields. In (<i>Kh</i>î-)_k_âu shall you receive investiture, According as your ancestor received his.’ Hû bowed with <span id="p428"><sup><small>[ p. 428 ]</small></sup></span> his head to the ground (and said), ‘May the Son of Heaven live for ever!’
 
 <a id="o10"></a>
 
@@ -202,7 +202,7 @@ I look up to great Heaven, But it shows us no kindness. Very long have we been d
 
 Why is it that Heaven is (thus) reproving (you)? Why is it that Heaven is not blessing (you)? You neglect your great barbarian (foes), And regard me with hatred. You are regardless of the evil omens (that abound [^595]), And your demeanour is all unseemly. (Good) men are going away, And the country is sure to go to ruin.
 
-Heaven is letting down its net, And many (are the calamities in it). (Good) men are going away, And my heart is sorrowful. Heaven is letting down <span id="p429">[<sup><small>p. 429</small></sup>]</span> its net, And soon (all will be caught in it). (Good) men are going away, And my heart is sad.
+Heaven is letting down its net, And many (are the calamities in it). (Good) men are going away, And my heart is sorrowful. Heaven is letting down <span id="p429"><sup><small>[ p. 429 ]</small></sup></span> its net, And soon (all will be caught in it). (Good) men are going away, And my heart is sad.
 
 Right from the spring comes the water bubbling, Revealing its depth. The sorrow of my heart,—Is it (only) of to-day? Why were these things not, before me? Or why were they not after me? But mysteriously great Heaven Is able to strengthen anything. Do not disgrace your great ancestors This will save your posterity [^596].
 

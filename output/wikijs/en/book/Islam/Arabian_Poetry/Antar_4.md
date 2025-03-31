@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 Antar was now become celebrated for his verses as well as for his remarkable strength and courage; and, as may be readily supposed, he was making considerable progress in winning the affection of his beloved Abla. But in the eyes of the maiden's father, Malik, he was far from being a desirable match; and even her mother ridiculed Antar's amorous poetry, and his love for her daughter. One day she sneeringly asked him to recite some of his verses about Abla, and he thus complied:
 
@@ -54,7 +54,7 @@ Thy bosom is created as an enchantment;—O may God protect it ever in that perf
 
 To be connected with thee is to be connected with every joy; but separated from all my world is the bond of thy connection.
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 Under thy veil is the rosebud of my life, and thine eyes are guarded with a multitude of arrows: round thy tent is a lion-warrior, the sword's edge, and the spear's point.
 

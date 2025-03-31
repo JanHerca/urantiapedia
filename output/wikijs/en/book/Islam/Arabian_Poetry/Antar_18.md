@@ -48,7 +48,7 @@ O thou, my hope!—O may the western breeze tell thee of my ardent wish to retur
 
 May it waft thee my salutation, when the sparkling dawn bursts the veil of night!
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 May God moisten thy nights, and bedew thee with his rain-charged clouds!
 
@@ -60,7 +60,7 @@ No sooner had Antar concluded than Khosrewan appeared on the plain, “mounted o
 
 “But Antar kept him employed, and wearied him, and prevented his executing his designs, so that the chieftain's wrath became intense. He snatched up one of his darts, and shook it and hurled it at him—it flew from his hand like the blinding lightning, or descending fate. Antar stood firm; and when it came near him he met it, and dexterously turning it off with his shield, it bounded away, and fell upon the ground far off. Khosrewan snatched out a second dart and levelled it at him; but Antar sprang out of its way, and it passed harmless. He aimed a third; but Antar rendered it fruitless by his dexterity and his persevering activity. He hurled the fourth; but it shared the same fate as the others.
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 “When Khosrewan saw how Antar had parried the darts, his indignation was extreme. Again he took up his mace, and he roared even as a lion roars;—then stretching himself out with it he hurled it, backing it with a howl that made the plains and the air rebellow. Antar threw away his spear, and met the mace, and caught it with his right hand in the air; then, aiming it at Khosrewan, he cried out: ‘Take that, thou son of a two thousand-horned cuckold!—I am the lover of Abla, and am alone—the Phœnix of the world!’ Khosrewan saw him grasp the mace in the air, and was horrified, for his strength and force were exhausted. He retreated, and attempted to fly from his antagonist, for he was now convinced of his destruction. He moved round his shield between his shoulders; but he felt that his fate was nigh at hand, for the mace fell upon his shield more forcibly than the stone of a sling: furiously it rattled on the Persian chief, and hurled him off his saddle to the distance of twelve cubits, and broke his ribs and snapped his spine.
 

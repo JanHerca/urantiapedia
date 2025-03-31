@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 SIXTH LECTURE, CALLED PRAISE OF MAHÂVÎRA.
 
@@ -44,7 +44,7 @@ This wise and clever great sage possessed infinite knowledge and infinite faith.
 
 This wise man had explored all beings, whether they move or not, on high, below, and on earth, as well as the eternal and transient things. Like a lamp he put the Law in a true light. (4)
 
-He sees everything; his knowledge has got beyond (the four lower stages) [^849]; he has no impurity; he is virtuous, of a fixed mind, the highest, the <span id="p288">[<sup><small>p. 288</small></sup>]</span> wisest in the whole world; he has broken from all ties; he is above danger and the necessity to continue life [^850]. (5)
+He sees everything; his knowledge has got beyond (the four lower stages) [^849]; he has no impurity; he is virtuous, of a fixed mind, the highest, the <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> wisest in the whole world; he has broken from all ties; he is above danger and the necessity to continue life [^850]. (5)
 
 Omniscient, wandering about without a home, crossing the flood (of the Sa<i>m</i>sâra), wise, and of an unlimited perception, without an equal, he shines forth (or he does penance) like the sun, and he illumines the darkness like a brilliant fire, (6)
 
@@ -58,7 +58,7 @@ By his vigour he is the most vigorous; as Sudar<i>s</i>ana (Mêru), the best of 
 
 It touches the sky and is immersed in the earth; round it revolve the suns [^853]; it has the colour of gold, and contains many Nandana (parks) [^854]; on it the Mahêndras enjoy themselves. (11)
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 This mountain is distinguished by (many) names; it has the colour of burnished gold; it is the greatest of all mountains, difficult to ascend on account of its rocks; this excellent mountain is like a part of the earth on fire. (12)
 
@@ -70,7 +70,7 @@ As Nishadha [^856] is the best of long-stretched mountains, and Ru<i>k</i>aka of
 
 After having taught the highest Law he practised the highest contemplation [^857], which is the purest of pure, pure without a flaw, thoroughly white (as it were) like mother-of-pearl and the moon. (16)
 
-Having annihilated all his Karman, the great sage by his knowledge, virtue, and faith reached <span id="p290">[<sup><small>p. 290</small></sup>]</span> the insurpassable, highest perfection, a state which has a beginning but no end. (17)
+Having annihilated all his Karman, the great sage by his knowledge, virtue, and faith reached <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> the insurpassable, highest perfection, a state which has a beginning but no end. (17)
 
 As the <i>S</i>âlmalî, in which the Supar<i>n</i>a [^858] gods take their delight, is most famous among trees, as Nandana is among parks, so is the Omniscient most famous through his knowledge and virtue. (18)
 
@@ -82,7 +82,7 @@ As Airâva<i>n</i>a is the best of elephants, the lion of beasts, Gaṅgâ of ri
 
 As Vishvaksêna [^860] is the most famous of warriors, as the lotus is the best of flowers, as Dantavakra is the best of Kshattriyas, so Vardhamâna is the best of sages. (22)
 
-As giving safety is the best of gifts, as the best of true speeches is that which causes no distress, <span id="p291">[<sup><small>p. 291</small></sup>]</span> as chastity is the highest of austerities, so is the <i>S</i>rama<i>n</i>a <i>G</i><i>ñ</i>ât<i>ri</i>putra the highest of men. (23)
+As giving safety is the best of gifts, as the best of true speeches is that which causes no distress, <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> as chastity is the highest of austerities, so is the <i>S</i>rama<i>n</i>a <i>G</i><i>ñ</i>ât<i>ri</i>putra the highest of men. (23)
 
 As the Lavasaptamas [^861] are the highest of those gods who live very long, as the palace Saudharman is the best of heavenly abodes, as Nirvâ<i>n</i>a is the chief object of the Law, so there is no wiser man than <i>G</i><i>ñ</i>ât<i>ri</i>putra. (24)
 
@@ -94,7 +94,7 @@ He understood the doctrines of the Kriyâvâdins, of the Akriyâvâdins, of the 
 
 He abstained [^863] from women, and from eating at night, he practised austerities for the removal of pain, he knew this world and that beyond; the lord renounced [^863] everything at every time. (28)
 
-Having heard and believing in the Law, which <span id="p292">[<sup><small>p. 292</small></sup>]</span> has been proclaimed and taught by the Arhat, and has been demonstrated with arguments, people will either make an end of their mundane existence, or they will become like Indra, the king of gods. (29)
+Having heard and believing in the Law, which <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> has been proclaimed and taught by the Arhat, and has been demonstrated with arguments, people will either make an end of their mundane existence, or they will become like Indra, the king of gods. (29)
 
 Thus I say.
 

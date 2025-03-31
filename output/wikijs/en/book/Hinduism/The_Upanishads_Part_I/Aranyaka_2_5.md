@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 FIFTH ADHYÂYA.
 
@@ -44,7 +44,7 @@ FIFTH ADHYÂYA.
 
 3\. This (seed), which is strength gathered from all the limbs of the body, he (the man) bears as self in his self (body). When he commits the seed to the woman, then he (the father) causes it to be born. That is his first birth. (1)
 
-4\. That seed becomes the self of the woman, as <span id="p244">[<sup><small>p. 244</small></sup>]</span> if one of her own limbs. Therefore it does not injure her.
+4\. That seed becomes the self of the woman, as <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> if one of her own limbs. Therefore it does not injure her.
 
 5\. She nourishes his (her husband's) self (the son) within her. (2) She who nourishes, is to be nourished.
 

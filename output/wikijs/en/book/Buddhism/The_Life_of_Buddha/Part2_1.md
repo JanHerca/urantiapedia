@@ -32,15 +32,15 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span> p. 101
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span> p. 101
 
 ## PART TWO
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ![](/image/book/Buddhism/The_Life_of_Buddha/10200.jpg)
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 
 THE Buddha never moved. He remained under the tree, his legs crossed. He was filled with bliss at having attained perfect knowledge. He thought, “I have found deliverance.” One whole week he remained under the tree of knowledge, without moving.
@@ -57,7 +57,7 @@ It was then that Mara, whom defeat had left inconsolable, went to the Buddha and
 
 But the Blessed One answered:
 
-“No, Mara, I shall not quench the flame, I shall <span id="p104">[<sup><small>p. 104</small></sup>]</span> not enter nirvana. I must first gain many disciples, and they, in turn, must win others over to my law. By word and by deed I must silence my adversaries. No, Mara, I shall not enter nirvana until the Buddha is glorified throughout the world, until his beneficent law is recognized.”
+“No, Mara, I shall not quench the flame, I shall <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> not enter nirvana. I must first gain many disciples, and they, in turn, must win others over to my law. By word and by deed I must silence my adversaries. No, Mara, I shall not enter nirvana until the Buddha is glorified throughout the world, until his beneficent law is recognized.”
 
 Mara left him. He was crestfallen, and he seemed to hear divine voices mocking him.
 
@@ -71,7 +71,7 @@ He picked up a piece of dead wood, and began drawing figures in the sand. His th
 
 “Father,” said Trishna, “we are beautiful; we have seductive ways.”
 
-“We shall go to this man,” continued Arati; “we <span id="p105">[<sup><small>p. 105</small></sup>]</span> shall bind him with the chains of love, and we shall bring him to you, humbled and craven.”
+“We shall go to this man,” continued Arati; “we <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> shall bind him with the chains of love, and we shall bring him to you, humbled and craven.”
 
 They went to the Buddha, and they sang:
 
@@ -83,7 +83,7 @@ In despair they returned to their father. “Father,” cried Rati, “see what 
 
 “Love will never hurt him,” said Trishna, “for he was able to resist our charms.”
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 “Oh,” sighed Arati, “how cruelly he has punished us.”
 
@@ -103,7 +103,7 @@ They implored the Buddha.
 
 And the three daughters of the Evil One left his presence, more beautiful than ever before.
 
-The fifth week the Blessed One remained under the tree. But, suddenly, there blew a bitter <span id="p107">[<sup><small>p. 107</small></sup>]</span> wind, and a cold rain fell. Then Mucilinda, the serpent-king, said to himself: “The Blessed One must not suffer from the rain or from the cold.” He left his home. Seven times he coiled himself around the Buddha, and he spread his hood above the Buddha's head to shelter him. And thus the Buddha suffered not at all during this period of bad weather.
+The fifth week the Blessed One remained under the tree. But, suddenly, there blew a bitter <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> wind, and a cold rain fell. Then Mucilinda, the serpent-king, said to himself: “The Blessed One must not suffer from the rain or from the cold.” He left his home. Seven times he coiled himself around the Buddha, and he spread his hood above the Buddha's head to shelter him. And thus the Buddha suffered not at all during this period of bad weather.
 
 The sixth week he went to a fig-tree where goatherds often forgathered. There, some Gods awaited him, and they humbly bowed as he approached. He said.
 
@@ -111,7 +111,7 @@ The sixth week he went to a fig-tree where goatherds often forgathered. There, s
 
 The seventh week he remained under the tree of knowledge.
 
-Two brothers, Trapusha and Bhallika, were returning to the northern countries. They were merchants and had five hundred chariots in their train. As they came near the tree, the chariots stopped. In vain did the drivers try to encourage or goad the beasts that drew them; they could not advance a step. The wheels kept sinking in the <span id="p108">[<sup><small>p. 108</small></sup>]</span> mud up to the hubs. Trapusha and Bhallika became alarmed, but a God appeared who reassured them and said:
+Two brothers, Trapusha and Bhallika, were returning to the northern countries. They were merchants and had five hundred chariots in their train. As they came near the tree, the chariots stopped. In vain did the drivers try to encourage or goad the beasts that drew them; they could not advance a step. The wheels kept sinking in the <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> mud up to the hubs. Trapusha and Bhallika became alarmed, but a God appeared who reassured them and said:
 
 “Walk a little way, O merchants, and you will find one to whom you should do homage.”
 
@@ -131,7 +131,7 @@ The Blessed One had no bowl in which to receive alms. He did not know what to do
 
 “Truly, it would be unseemly for a monk to receive alms in a golden bowl.”
 
-And he refused the golden bowls. The Gods then brought him silver bowls, which he also refused. <span id="p109">[<sup><small>p. 109</small></sup>]</span> He likewise refused emerald bowls, and he would only accept bowls made of stone.
+And he refused the golden bowls. The Gods then brought him silver bowls, which he also refused. <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> He likewise refused emerald bowls, and he would only accept bowls made of stone.
 
 He then received the cakes the merchants offered him. When he had finished eating, he said:
 

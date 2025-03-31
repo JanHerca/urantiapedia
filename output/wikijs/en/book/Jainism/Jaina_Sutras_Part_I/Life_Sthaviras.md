@@ -32,13 +32,13 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 At that period, at that age the Venerable Ascetic Mahâvîra had nine Ga<i>n</i>as and eleven Ga<i>n</i>adharas.
 
 ‘Why, now, has it been said, that the Venerable Ascetic Mahâvîra had nine Ga<i>n</i>as, but eleven Ga<i>n</i>adharas?’
 
-‘The oldest monk of the Venerable Ascetic Mahâvîra was Indrabhûti of the Gautama gotra, who instructed five hundred <i>S</i>rama<i>n</i>as; the middle-aged monk was Agnibhûti of the Gautama gotra, who instructed five hundred Srama<i>n</i>as; the youngest was Vâyubhûti of the Gautama gotra, who instructed five hundred <i>S</i>rama<i>n</i>as. The Sthavira Ârya-Vyakta of the Bhâradvâ<i>g</i>a gotra instructed five hundred <i>S</i>rama<i>n</i>as; the Sthavira Ârya-Sudharman of the Agnive<i>s</i>yâyana gotra instructed five hundred <i>S</i>rama<i>n</i>as; the Sthavira Ma<i>n</i><i>d</i>ikaputra [^663] of the Vâsish<i>th</i>a gotra instructed two hundred and fifty <i>S</i>rama<i>n</i>as; the Sthavira Mauryaputra of the Kâ<i>s</i>yapa gotra instructed two hundred and fifty <i>S</i>rama<i>n</i>as; the Sthavira Akampita of the Gautama gotra and Sthavira A<i>k</i>alabhrât<i>ri</i> of the Hâritâyana gotra, both Sthaviras instructed together three hundred <i>S</i>rama<i>n</i>as each; the Sthaviras Metârya and Prabhâsa, both of the Kau<i>n</i><i>d</i>i<i>n</i>ya gotra, instructed together <span id="p287">[<sup><small>p. 287</small></sup>]</span> three hundred <i>S</i>rama<i>n</i>as each [^664]. Therefore, Sir, has it been said that the Venerable Ascetic Mahâvîra had nine Ga<i>n</i>as, but eleven Ga<i>n</i>adharas: (1)
+‘The oldest monk of the Venerable Ascetic Mahâvîra was Indrabhûti of the Gautama gotra, who instructed five hundred <i>S</i>rama<i>n</i>as; the middle-aged monk was Agnibhûti of the Gautama gotra, who instructed five hundred Srama<i>n</i>as; the youngest was Vâyubhûti of the Gautama gotra, who instructed five hundred <i>S</i>rama<i>n</i>as. The Sthavira Ârya-Vyakta of the Bhâradvâ<i>g</i>a gotra instructed five hundred <i>S</i>rama<i>n</i>as; the Sthavira Ârya-Sudharman of the Agnive<i>s</i>yâyana gotra instructed five hundred <i>S</i>rama<i>n</i>as; the Sthavira Ma<i>n</i><i>d</i>ikaputra [^663] of the Vâsish<i>th</i>a gotra instructed two hundred and fifty <i>S</i>rama<i>n</i>as; the Sthavira Mauryaputra of the Kâ<i>s</i>yapa gotra instructed two hundred and fifty <i>S</i>rama<i>n</i>as; the Sthavira Akampita of the Gautama gotra and Sthavira A<i>k</i>alabhrât<i>ri</i> of the Hâritâyana gotra, both Sthaviras instructed together three hundred <i>S</i>rama<i>n</i>as each; the Sthaviras Metârya and Prabhâsa, both of the Kau<i>n</i><i>d</i>i<i>n</i>ya gotra, instructed together <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> three hundred <i>S</i>rama<i>n</i>as each [^664]. Therefore, Sir, has it been said that the Venerable Ascetic Mahâvîra had nine Ga<i>n</i>as, but eleven Ga<i>n</i>adharas: (1)
 
 All these eleven Ga<i>n</i>adharas of the Venerable Ascetic Mahâvîra, who knew the twelve Aṅgas, the fourteen Pûrvas, and the whole Siddhânta of the Ga<i>n</i>ins, died, &c. (all down to) freed from all pains in Râ<i>g</i>ag<i>ri</i>ha after fasting a month without drinking water. The Sthaviras Indrabhûti and Ârya Sudharman both died after the Nirvâ<i>n</i>a of Mahâvira. The Nirgrantha <i>S</i>rama<i>n</i>as of the present time are all (spiritual) descendants of the monk Ârya Sudharman, the rest of the Ga<i>n</i>adharas left no descendants. (2)
 
@@ -62,7 +62,7 @@ In the short redaction the list of Sthaviras after .Ârya Ya<i>s</i>obhadra is t
 
 &nbsp;&nbsp;&nbsp;&nbsp;8. i. Ârya Mahâgiri of the Ailâpatya gotra and
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;ii. Ârya Suhastin of the Vâsish<i>th</i>a gotra;
 
@@ -92,7 +92,7 @@ In the detailed redaction the list of Sthaviras after Ârya Ya<i>s</i>obhadra is
 
 &nbsp;&nbsp;&nbsp;&nbsp;γ. The Pu<i>n</i><i>d</i>ravardhanîyâ <i>S</i>âkhâ, and
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;δ. The Dâsîkharba<i>t</i>ikâ <i>S</i>âkhâ.
 
@@ -150,7 +150,7 @@ and seven female disciples:
 
 &nbsp;&nbsp;&nbsp;&nbsp;b. Balissaha, who both together founded the Uttarabalissaha Ga<i>n</i>a, which was divided into four <i>S</i>âkhâs
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;α. Kau<i>s</i>ambikâ,
 
@@ -198,7 +198,7 @@ and into six Kulas:
 
 &nbsp;&nbsp;&nbsp;&nbsp;ζ´. Parihâsaka.
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;b. Bhadraya<i>s</i>as of the Bhâradvâ<i>g</i>a gotra, who founded the U<i>d</i>uvâ<i>t</i>ika Ga<i>n</i>a, which was divided into four <i>S</i>âkhâs:
 
@@ -254,7 +254,7 @@ and into seven Kulas:
 
 &nbsp;&nbsp;&nbsp;&nbsp;α´. Vâtsalîya (Pr. Va<i>k</i><i>kh</i>ali<i>g</i><i>g</i>a),
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;β´. Prîtidharmika,
 
@@ -310,7 +310,7 @@ Both Sthaviras had together five disciples:
 
 &nbsp;&nbsp;&nbsp;&nbsp;10. a. Ârya Indradatta (Pr. Indadinna) of the Kâ<i>s</i>yapa gotra,
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;b. Priyagantha, founder of the Madhyamâ <i>S</i>âkhâ,
 
@@ -350,7 +350,7 @@ Both Sthaviras had together five disciples:
 
 &nbsp;&nbsp;&nbsp;&nbsp;15. Ârya Pushyagiri of the Kau<i>s</i>ika gotra.
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;16. Ârya Phalgumitra of the Gautama gotra.
 
@@ -388,7 +388,7 @@ Both Sthaviras had together five disciples:
 
 &nbsp;&nbsp;&nbsp;&nbsp;33. Ârya <i>S</i>â<i>n</i><i>d</i>ilya [^673].
 
-<span id="p295">[<sup><small>p. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 Bowing down my head, I pay my reverence to the Sthavira <i>G</i>ambû of the Gautama gotra, who possessed steady virtue, good conduct, and knowledge. ix.
 

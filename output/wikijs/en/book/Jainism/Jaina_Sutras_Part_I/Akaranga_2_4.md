@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 FOURTH LECTURE, CALLED MODES OF SPEECH [^413].
 
@@ -40,13 +40,13 @@ FOURTH LECTURE, CALLED MODES OF SPEECH [^413].
 
 A monk or a nun, hearing and perceiving these uses of speech, should know that the following ones are not to be employed and have not hitherto been employed (by persons of exemplary conduct); those who speak in wrath or in pride, for deception or for gain, who speak, knowingly or unknowingly, hard words. They should avoid all this, which is blamable. Employing their judgment, they should know something for certain and something for uncertain [^414]: (1) (N. N.) having received food or not having received food, having eaten it or not having eaten it, has come or has not come, comes or does not come, will come or will not come. (2)
 
-Well considering (what one is to say), speaking with precision, one should employ language in moderation and restraint: the singular, dual, plural; feminine, masculine, neuter gender; praise, blame, <span id="p150">[<sup><small>p. 150</small></sup>]</span> praise mixed with blame, blame mixed with praise; past, present, or future (tenses), the first and second, or third (person) [^415]. If one thinks it necessary to speak in the singular, he should speak in the singular; if he thinks it necessary to speak in the plural, he should speak in the plural, &c. Considering well: this is a woman, this is a man, this is a eunuch, this is to be called thus, this is to be called otherwise, speaking with precision, he should employ language in moderation and restraint. (3)
+Well considering (what one is to say), speaking with precision, one should employ language in moderation and restraint: the singular, dual, plural; feminine, masculine, neuter gender; praise, blame, <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> praise mixed with blame, blame mixed with praise; past, present, or future (tenses), the first and second, or third (person) [^415]. If one thinks it necessary to speak in the singular, he should speak in the singular; if he thinks it necessary to speak in the plural, he should speak in the plural, &c. Considering well: this is a woman, this is a man, this is a eunuch, this is to be called thus, this is to be called otherwise, speaking with precision, he should employ language in moderation and restraint. (3)
 
 For the avoidance of these occasions to sin, a mendicant should know that there are four kinds of speech: the first is truth; the second is untruth; the third is truth mixed with untruth; what is neither truth, nor untruth, nor truth mixed with untruth, that is the fourth kind of speech: neither truth nor untruth [^416]. Thus I say.
 
 All past, present, and future Arhats have taught and declared, teach and declare, will teach and declare these four kinds of speech; and they have explained all those things which are devoid of intellect, which possess colour, smell, taste, touch, which are subject to decay and increase, which possess various qualities. (4)
 
-A monk (or a nun should know that) before (the utterance) speech is speech in (antecedent) non-existence [^417]; that while uttered, it is (real) speech; <span id="p151">[<sup><small>p. 151</small></sup>]</span> that the moment after it has been uttered, the spoken speech is speech in (subsequent) non-existence. (5)
+A monk (or a nun should know that) before (the utterance) speech is speech in (antecedent) non-existence [^417]; that while uttered, it is (real) speech; <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> that the moment after it has been uttered, the spoken speech is speech in (subsequent) non-existence. (5)
 
 A monk or a nun, well considering, should not use speech whether truth or untruth, or truth mixed with untruth, if it be sinful, blamable, rough, stinging, coarse, hard, leading to sins, to discord and factions, to grief and outrage, to destruction of living beings. (6)
 
@@ -56,7 +56,7 @@ A monk or a nun, if addressing a man who, if addressed, does not answer, should 
 
 But in that case they should say: ‘N. N.! O long-lived one! O long-lived ones! O layman! O pupil! O faithful one! O lover of faith!’ Considering well, they should use such sinless, blameless, &c., speech. (9)
 
-A monk or a nun, if addressing a woman who, if addressed, does not answer, should not say: ‘You hussy! you wench! &c.’ (repeat the above list of <span id="p152">[<sup><small>p. 152</small></sup>]</span> abusive words adapted to females). Considering well, they should not use such sinful, blamable, &c., speech. (10)
+A monk or a nun, if addressing a woman who, if addressed, does not answer, should not say: ‘You hussy! you wench! &c.’ (repeat the above list of <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> abusive words adapted to females). Considering well, they should not use such sinful, blamable, &c., speech. (10)
 
 A monk or a nun, if addressing a woman who, if addressed, does not answer, should say: ‘O long-lived one! O sister! madam! my lady! O lay-sister! O pupil! O faithful one! O lover of faith!’ Considering well, they should use such sinless, blameless, &c., speech. (11)
 
@@ -72,7 +72,7 @@ Thus I say. (13)
 
 ## SECOND LESSON.
 
-A monk or a nun, seeing any sort (of diseases), should not talk of them in this way: ‘He has got boils, or leprosy, &c. (see I, 6, 1, § 3); his hand is cut, or his foot, nose, ear, lip is cut.’ For as all such people, spoken to in such language, become <span id="p153">[<sup><small>p. 153</small></sup>]</span> angry, hence, considering well, they should not speak to them in such language. (1)
+A monk or a nun, seeing any sort (of diseases), should not talk of them in this way: ‘He has got boils, or leprosy, &c. (see I, 6, 1, § 3); his hand is cut, or his foot, nose, ear, lip is cut.’ For as all such people, spoken to in such language, become <span id="p153"><sup><small>[ p. 153 ]</small></sup></span> angry, hence, considering well, they should not speak to them in such language. (1)
 
 A monk or a nun, seeing any sort (of good qualities), should speak thus: ‘He is strong, powerful, vigorous, famous, well-formed, well-proportioned, handsome.’ For as all such people, spoken to in such language, do not become angry, they should, considering well, speak to them in such language. (2)
 
@@ -84,7 +84,7 @@ A monk or a nun, seeing food, &c., prepared, should not speak about it in this w
 
 A monk or a nun, seeing food, &c., prepared, should speak about it in this way: ‘This has been executed with great effort, with sin, with much labour; it is very good, it is excellent, it is well seasoned, it is most delicious, it is most agreeable;’ considering well, they should use such sinless, &c., language. (6)
 
-A monk or a nun, seeing a man, a cow, a buffalo, deer, cattle, a bird, a snake, an aquatic animal of <span id="p154">[<sup><small>p. 154</small></sup>]</span> increased bulk, should not speak about them in this way: ‘He (or it) is fat, round, fit to be killed or cooked;’ considering well, they should not use such sinful, &c., language. (7)
+A monk or a nun, seeing a man, a cow, a buffalo, deer, cattle, a bird, a snake, an aquatic animal of <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> increased bulk, should not speak about them in this way: ‘He (or it) is fat, round, fit to be killed or cooked;’ considering well, they should not use such sinful, &c., language. (7)
 
 A monk or a nun, seeing a man, a cow, &c., of increased bulk, should speak about them in this way: ‘He is of increased bulk, his body is well grown, well compacted, his flesh and blood are abundant, his limbs are fully developed;’ considering well, they should use such sinless, &c., language. (8)
 
@@ -94,7 +94,7 @@ A monk or a nun, seeing any sort of cows (or oxen), should speak about them in t
 
 A monk or a nun, seeing big trees in parks, on hills, or in woods, should speak about them in this way: ‘These (trees) are fit for palaces, gates, houses, benches, bolts, boats, buckets, stools, trays, ploughs, mattocks(?), machines, poles, the nave of a wheel(?), ga<i>n</i><i>d</i>î [^421], seats, beds, cars, sheds;’ considering well, they should not use such sinful, &c., language. (11)
 
-A monk or a nun, seeing big trees in parks, on hills, or in woods, should speak about them in this way: ‘These trees are noble, high and round, big; <span id="p155">[<sup><small>p. 155</small></sup>]</span> they have many branches, extended branches, they are very magnificent,’ &c. (see § 4); considering well, they should use such sinless, &c., language. (12)
+A monk or a nun, seeing big trees in parks, on hills, or in woods, should speak about them in this way: ‘These trees are noble, high and round, big; <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> they have many branches, extended branches, they are very magnificent,’ &c. (see § 4); considering well, they should use such sinless, &c., language. (12)
 
 A monk or a nun, seeing many wild fruits, should not speak about them in this way: ‘They are ripe, they should be cooked or eaten, they are just in season, or soft, or they have just split;’ considering well, they should not use such sinful, &c., language. (13)
 
@@ -106,7 +106,7 @@ A monk or a nun, seeing many vegetables, should speak about them in this way: �
 
 A monk or a nun, hearing any sort of sounds, should not speak about them in this way: ‘This is a good sound, this is a bad sound;’ considering well, they should not use such sinless, &c., language; but they should call them good, if they are good; bad, if they are bad; considering well, they should use such sinless, &c., language. (17)
 
-In the same manner they should speak about the <span id="p156">[<sup><small>p. 156</small></sup>]</span> (five) colours, as black, &c.; the (two) smells, as pleasant or unpleasant; the (five) tastes, as sharp &c.; the (five) kinds of touch, as hard, &c. (18)
+In the same manner they should speak about the <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> (five) colours, as black, &c.; the (two) smells, as pleasant or unpleasant; the (five) tastes, as sharp &c.; the (five) kinds of touch, as hard, &c. (18)
 
 A monk or a nun, putting aside wrath, pride, deceit, and greed, considering well, speaking with precision, what one has heard, not too quick, with discrimination, should employ language in moderation and restraint.
 

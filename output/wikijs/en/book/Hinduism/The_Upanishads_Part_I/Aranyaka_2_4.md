@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 FOURTH ADHYÂYA.
 
@@ -42,7 +42,7 @@ With this adhyâya begins the real Upanishad, best known under the name of the A
 
 This is well expressed in the Kaushîtaki-upanishad III, 2, where Indra says to Pratardana: ‘I am Prâ<i>n</i>a; meditate on me as the conscious self (pra<i>g</i>ñâtman), as life, as immortality. Life is prâ<i>n</i>a, prâ<i>n</i>a is life. Immortality is prâ<i>n</i>a, prâ<i>n</i>a is immortality. By prâ<i>n</i>a he obtains immortality in the other world, by knowledge (pra<i>g</i>ñâ) true conception. Prâ<i>n</i>a is consciousness (pra<i>g</i>ñâ), consciousness is prâ<i>n</i>a.’
 
-This, however, though it may have satisfied the mind of the Brahmans for a time, was not a final solution. That final solution of the problem not simply of life, but of existence, is given in the Upanishad which teaches that Âtman, the Self, and not Prâ<i>n</i>a, Life, is the last and only cause of everything. In some places this <span id="p237">[<sup><small>p. 237</small></sup>]</span> doctrine is laid down in all its simplicity. Our true self, it is said, has its true being in the Highest Self only. In other passages, however, and nearly in the whole of this Upanishad, this simple doctrine is mixed up with much that is mythological, fanciful, and absurd, arthavâda, as the commentators call it, but as it might often be more truly called, anarthavâda, and it is only towards the end that the identity of the self-conscious self with the Highest Self or Brahman is clearly enuntiated.
+This, however, though it may have satisfied the mind of the Brahmans for a time, was not a final solution. That final solution of the problem not simply of life, but of existence, is given in the Upanishad which teaches that Âtman, the Self, and not Prâ<i>n</i>a, Life, is the last and only cause of everything. In some places this <span id="p237"><sup><small>[ p. 237 ]</small></sup></span> doctrine is laid down in all its simplicity. Our true self, it is said, has its true being in the Highest Self only. In other passages, however, and nearly in the whole of this Upanishad, this simple doctrine is mixed up with much that is mythological, fanciful, and absurd, arthavâda, as the commentators call it, but as it might often be more truly called, anarthavâda, and it is only towards the end that the identity of the self-conscious self with the Highest Self or Brahman is clearly enuntiated.
 
 Adoration to the Highest Self. Hari, Om!
 
@@ -52,7 +52,7 @@ Adoration to the Highest Self. Hari, Om!
 
 3\. Ambhas (water), Marî<i>k</i>i (light), Mara (mortal), and Ap (water).
 
-4\. That Ambhas (water) is above the heaven, and it is heaven, the support. The Marî<i>k</i>is (the lights) are the sky. The Mara (mortal) is the earth, and the waters under the earth are the Ap world [^585]. (2) <span id="p238">[<sup><small>p. 238</small></sup>]</span> 5\. He thought: ‘There are these worlds; shall I send forth guardians of the worlds?’
+4\. That Ambhas (water) is above the heaven, and it is heaven, the support. The Marî<i>k</i>is (the lights) are the sky. The Mara (mortal) is the earth, and the waters under the earth are the Ap world [^585]. (2) <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> 5\. He thought: ‘There are these worlds; shall I send forth guardians of the worlds?’
 
 He then formed the Purusha (the person) [^586], taking him forth from the water [^587]. (3)
 
@@ -70,7 +70,7 @@ The heart burst forth. From the heart proceeded mind, from mind <i>K</i>andramas
 
 The navel burst forth. From the navel proceeded the Apâna (the down-breathing) [^592], from Apâna death.
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 The generative organ burst forth. From the organ proceeded seed, from seed water. (4)
 
@@ -88,7 +88,7 @@ He led man [^595] towards them. Then they said: ‘Well done [^596], indeed.’ 
 
 3\. He said to them: ‘Enter, each according to his place.’ (3)
 
-4\. Then Agni (fire), having become speech, entered the mouth. Vâyu (air), having become scent, entered the nostrils. Âditya (sun), having become sight, entered the eyes. The Di<i>s</i> (regions), having become hearing, entered the ears. The shrubs and trees, having become hairs, entered the skin. <i>K</i>andramas (the moon), having become mind, entered <span id="p240">[<sup><small>p. 240</small></sup>]</span> the heart. Death, having become down-breathing, entered the navel. The waters, having become seed, entered the generative organ. (4)
+4\. Then Agni (fire), having become speech, entered the mouth. Vâyu (air), having become scent, entered the nostrils. Âditya (sun), having become sight, entered the eyes. The Di<i>s</i> (regions), having become hearing, entered the ears. The shrubs and trees, having become hairs, entered the skin. <i>K</i>andramas (the moon), having become mind, entered <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> the heart. Death, having become down-breathing, entered the navel. The waters, having become seed, entered the generative organ. (4)
 
 5\. Then Hunger and Thirst spoke to him (the Self): ‘Allow us two (a place).’ He said to them: ‘I assign you to those very deities there, I make you co-partners with them.’ Therefore to whatever deity an oblation is offered, hunger and thirst are co-partners in it. (5)
 
@@ -102,7 +102,7 @@ He brooded over the water [^597]. From the water thus brooded on, matter [^598] 
 
 He tried to grasp it by scent (breath). He could not grasp it by scent. If he had grasped it by scent, man would be satisfied by smelling food. (4)
 
-He tried to grasp it by the eye. He could not <span id="p241">[<sup><small>p. 241</small></sup>]</span> grasp it by the eye. If he had grasped it by the eye, man would be satisfied by seeing food. (5)
+He tried to grasp it by the eye. He could not <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> grasp it by the eye. If he had grasped it by the eye, man would be satisfied by seeing food. (5)
 
 He tried to grasp it by the ear. He could not grasp it by the ear. If he had grasped it by the ear, man would be satisfied by hearing food. (6)
 
@@ -120,7 +120,7 @@ He tried to grasp it by the down-breathing (the breath which helps to swallow fo
 
 5\. And then he thought: ‘By what way shall I get there [^602]?’
 
-6\. And then he thought: ‘If speech names, if scent smells, if the eye sees, if the ear hears, if the skin feels, if the mind thinks, if the off-breathing digests, if the organ sends forth, then what am I?’ (11) <span id="p242">[<sup><small>p. 242</small></sup>]</span> 7\. Then opening the suture of the skull, he got in by that door.
+6\. And then he thought: ‘If speech names, if scent smells, if the eye sees, if the ear hears, if the skin feels, if the mind thinks, if the off-breathing digests, if the organ sends forth, then what am I?’ (11) <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> 7\. Then opening the suture of the skull, he got in by that door.
 
 8\. That door is called the Vid<i>ri</i>ti (tearing asunder), the Nândana (the place of bliss).
 

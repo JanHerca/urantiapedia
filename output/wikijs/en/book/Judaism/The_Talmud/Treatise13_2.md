@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 4\. The priests arranged the great fire of preparation eastward, and then made an opening eastward, so that the heads of the inward faggots touched the heap on the altar. And there was a division between the faggots, that the priests might kindle the chips there.
 
-5\. The priest chose from the faggots the best figwood to arrange the second fire of preparation for the incense opposite the western horn southwards. He prolonged it from the <span id="p245">[<sup><small>p. 245</small></sup>]</span> horn towards the north four cubits, reckoning for five seahs [^534] of live coals, and on the Sabbath he reckoned for eight seahs of live coals. As they placed there the two cups of frankincense of the showbread. The members and cauls (of the sacrifices) which were not consumed by the fire overnight, were returned again by the priests to the great fire of preparation. And they kindled both the preparations with fire; and they came down, and entered into the chamber of hewn stone. [^535]
+5\. The priest chose from the faggots the best figwood to arrange the second fire of preparation for the incense opposite the western horn southwards. He prolonged it from the <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> horn towards the north four cubits, reckoning for five seahs [^534] of live coals, and on the Sabbath he reckoned for eight seahs of live coals. As they placed there the two cups of frankincense of the showbread. The members and cauls (of the sacrifices) which were not consumed by the fire overnight, were returned again by the priests to the great fire of preparation. And they kindled both the preparations with fire; and they came down, and entered into the chamber of hewn stone. [^535]
 
 
 

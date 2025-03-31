@@ -36,7 +36,7 @@ THE LIFE OF GURU NANAK. CHAPTER XIII
 
 The Guru then turned his thoughts towards Ceylon, and succeeded in reaching that country, where he took his seat in Raja Shivnabh's garden.
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span> At that time it was barren, but it is said to have become green on the Guru's arrival. The gardener requested the king to go and see the faqir who had caused the withered garden to bloom anew. The king sent beautiful damsels to dance before the Guru and tempt him with their charms. The Guru, wrapped up in his own thoughts, neither spoke to them nor noticed them. The king came and inquired his name, caste, and whether he was a Jogi. The Guru replied as follows:—
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span> At that time it was barren, but it is said to have become green on the Guru's arrival. The gardener requested the king to go and see the faqir who had caused the withered garden to bloom anew. The king sent beautiful damsels to dance before the Guru and tempt him with their charms. The Guru, wrapped up in his own thoughts, neither spoke to them nor noticed them. The king came and inquired his name, caste, and whether he was a Jogi. The Guru replied as follows:—
 
 The Jogi who is associated with the Name and is pure, hath not a particle of uncleanness.
 He who keepeth with him the name of the Beloved, which is ever true, hath escaped birth and death.
@@ -56,7 +56,7 @@ The king again inquired if he were a Hindu or a Muhammadan. The Guru continued h
 The True Guru hath solved _the problem_ of the two ways.
 It is he who fixeth attention on the One God, and whose mind wavereth not, who can understand it.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 He who abideth in the Word and ever worshippeth day and night, hath ended his doubts.
 
@@ -80,7 +80,7 @@ Nanak, my mind is satisfied with the supreme state.
 
 Saido and Gheho subsequently wrote out the Pransangali from memory.
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 On his return to India the Guru, having heard of the fair of Shivrat[^1], went to Achal Batala[^2] to preach his doctrines. The whole country crowded to see and hear him, and showered offerings on him. The Jogis on witnessing his success became very Jealous and determined to humble him. Bhangarnath, their superior, asked him why he mixed acid with his milk, that is, why he a holy man led a family life. ‘When the milk becometh sour,’ said Bhangarnath, 'no butter is produced by churning. Why hast thou doffed thy hermit's dress, and donned ordinary clothes?’
 
@@ -88,7 +88,7 @@ The Guru replied: ‘O Bhangarnath, thy mother was an unskilful woman. She knew 
 
 Bhangarnath made no reply to the Guru's question but broached another subject: ‘O Nanak, thou hast exhibited miracles to the world; why art thou slow to exhibit them to us also?’ The Guru replied: 'I have nothing worth showing you. Man hath absolutely no shelter except in the companionship of the hymns of the Guru. Were man to move the earth, that would not induce God to grant him undeserved favours. Hear the Word; I speak verily, I have no miracle except the True Name:—
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 Were I to put on a dress of fire, construct a house of snow and eat iron;
 Were I to turn all my troubles into water, drink it, and drive the earth as a steed;
@@ -103,7 +103,7 @@ In Batala the Guru vanquished in argument all priests who attended the fair, and
 Make divine knowledge thy molasses, meditation thy dhava flowers, good actions thy fermenting bark[^5] to put into them.
 Make the love of God thy furnace, devotion the sealing of the still; in this way shall nectar be distilled.
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Father, by quaffing the divine juice the mind becometh intoxicated and easily absorbed in God's love.
 I have arranged to fix my attention on God day and night, and heard the unbeaten sound.
@@ -123,7 +123,7 @@ Who maketh pilgrimage on each of the three hundred and sixty days of the year;
 Who washeth the filth of _pride_ from his heart—
 Nanak saith, he is a hermit.
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 The Jogis then asked the Guru if he were an Audhut. The Guru told them what an Audhut ought to be:—
 
@@ -155,7 +155,7 @@ When he speaketh, he uttereth divine wisdom
 He day and night waketh in the contemplation of God
 He attacheth a string to the vacant sphere,[^1]
 And by the Guru's favour never dieth.
-All the gods do obeisance to him <span id="p161">[<sup><small>p. 161</small></sup>]</span>
+All the gods do obeisance to him <span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 Who in this way performeth the Guru's service,
 And who alloweth not his tongue to taste dainties-
 Nanak saith, these are the marks of a Jogi.
@@ -188,7 +188,7 @@ Who hath abandoned wrath, avarice, and pride—
 Nanak saith, such a man is a Bairagi.
 
 He who abideth lonely in the house of enjoyment,
-And dwelleth in the house of worship— <span id="p162">[<sup><small>p. 162</small></sup>]</span>
+And dwelleth in the house of worship— <span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 Where the cat fleeth at the sound of a mouse[^1]—
 Nanak saith, is a Bairagi.
 
@@ -214,7 +214,7 @@ Divine knowledge his staff, and the Omnipresent the ashes _he smeareth on his bo
 Make God's praise thy prayer, the Guru's instruction thy sect of Atits,[^2]
 The renunciation of desires and quarrels thy sitting in contemplation in God's citadel[^3]—
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 From the sound of thy horn a melody shall thus be produced which day and night shall fill thee with music.
 In everything is Thy light contained, O God, and many and various are its colours.

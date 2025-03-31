@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 TWENTY-FIRST LECTURE. SAMUDRAPÂLA.
 
@@ -52,7 +52,7 @@ youth, and had a fine figure and good looks. (6) His father procured him a beaut
 
 Once upon a time he saw from the window of his palace a man sentenced to death, dressed for execution, on his way to the place of execution. (8)
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Agitated by what he saw, Samudrapâla spoke thus: ‘Of wicked actions this is the bad result.’ (9)
 
@@ -64,13 +64,13 @@ One should keep the five great vows, viz. not to kill, to speak the truth, not t
 
 A monk should have compassion on all beings, should be of a forbearing character, should be restrained and chaste, and abstaining from everything sinful; he should live with his senses under control. (13)
 
-Now and then [^284] he should travel in one country, <span id="p110">[<sup><small>p. 110</small></sup>]</span> taking into consideration its resources and his own ability; like a lion he should not be frightened by any noise; and whatever words he hears, he should not make an improper reply. (14)
+Now and then [^284] he should travel in one country, <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> taking into consideration its resources and his own ability; like a lion he should not be frightened by any noise; and whatever words he hears, he should not make an improper reply. (14)
 
 In utter indifference he should walk about, and bear everything, be it pleasant or unpleasant; he should not approve of everything everywhere, nor care for [^285] respectful treatment or blame. (15)
 
 There are many opinions here among men, which a monk places in their true light; there will rise many dangerous and dreadful calamities, caused by gods, men, or animals, which are difficult to be borne and cause easily-discouraged men to sink under them; but a monk who comes in contact with them will not be afraid, like a stately elephant at the head of the battle. (16, 17)
 
-Cold and heat, flies and gnats, unpleasant feelings, and many diseases attack the body; without flinching [^286] he should bear them, and should <span id="p111">[<sup><small>p. 111</small></sup>]</span> not recall to his memory the pleasures he once enjoyed. (18)
+Cold and heat, flies and gnats, unpleasant feelings, and many diseases attack the body; without flinching [^286] he should bear them, and should <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> not recall to his memory the pleasures he once enjoyed. (18)
 
 Giving up love, hatred, and delusion, a monk who is always careful and who is steadfast even as Mount Mêru cannot be shaken by the storm, should bear calamities, guarding himself. (19)
 
@@ -82,7 +82,7 @@ A merciful (monk) should use beds distant from others, which are not got ready f
 
 The great sage (Samudrapâla), understanding the sacred lore and practising completely the best Law, shone forth like the sun in the sky, being possessed of the highest knowledge and glory. (23)
 
-Having annihilated his Karman both meritorious <span id="p112">[<sup><small>p. 112</small></sup>]</span> and sinful, being steadfast [^289], and free from all fetters, Samudrapâla crossed the ocean-like Flood of worldly existence and obtained exemption from transmigration. (24)
+Having annihilated his Karman both meritorious <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> and sinful, being steadfast [^289], and free from all fetters, Samudrapâla crossed the ocean-like Flood of worldly existence and obtained exemption from transmigration. (24)
 
 Thus I say.
 

@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 ## KÂ_N__D_A II, KA<i>ND</i>IKÂ 1.
 
@@ -53,7 +53,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 8\. He throws a piece of fresh butter, or of ghee, or some curds into it (i.e. into the water, Sara 6).
 
-9\. [^757]. Taking some (water) he moistens the hair near the right ear with (the formula), ‘On the impulse of Savit<i>ri</i> may the divine waters moisten <span id="p302">[<sup><small>p. 302</small></sup>]</span> thy body in order that long life and splendour may be thine.’
+9\. [^757]. Taking some (water) he moistens the hair near the right ear with (the formula), ‘On the impulse of Savit<i>ri</i> may the divine waters moisten <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> thy body in order that long life and splendour may be thine.’
 
 10\. [^758]. Having unravelled (the hair) with a porcupine's quill that has three white spots, he puts three young Ku<i>s</i>a shoots into it with (the formula), ‘Herb’ (Vâ_g_. Sa<i>s</i>h. IV, 1).
 
@@ -67,7 +67,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 15\. Behind with (the verse), ‘The threefold age’ (Vâ_g_. Sa<i>m</i>h. III, 62).
 
-16\. [^760]. Then on the left side with (the verse), ‘With that prayer by which mayst thou, a mighty one, go to heaven, and long mayst thou see the sun: with that prayer I shave thee for the sake of life, of existence, of glory, of welfare.’ <span id="p303">[<sup><small>p. 303</small></sup>]</span>
+16\. [^760]. Then on the left side with (the verse), ‘With that prayer by which mayst thou, a mighty one, go to heaven, and long mayst thou see the sun: with that prayer I shave thee for the sake of life, of existence, of glory, of welfare.’ <span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 17\. Three times he shaves round the head, from left to right;
 
@@ -91,7 +91,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. He should initiate a Brâhma<i>n</i>a, when he is eight years old, or in the eighth year after the conception,
 
-2\. Â<i>s</i>valâyana, when he is eleven years old, <span id="p304">[<sup><small>p. 304</small></sup>]</span>
+2\. Â<i>s</i>valâyana, when he is eleven years old, <span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 3\. A Vai<i>s</i>ya, when he is twelve years old.
 
@@ -109,7 +109,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 10\. Or silently.
 
-11\. He gives him the staff. <span id="p305">[<sup><small>p. 305</small></sup>]</span>
+11\. He gives him the staff. <span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 12\. (The student) accepts it with (the verse), ‘My staff which fell down to the ground in the open air, that I take up again for the sake of long life, of holiness, of holy lustre.’
 
@@ -127,7 +127,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 19\. He then says to him, ‘Whose pupil (brahma<i>k</i>ârin) art thou?’
 
-20\. [^771]. After (the student) has said, ‘Yours!’—(the <span id="p306">[<sup><small>p. 306</small></sup>]</span> teacher replies,) 'Indra's pupil art thou; Agni is thy teacher; I am thy teacher, N.N.!’
+20\. [^771]. After (the student) has said, ‘Yours!’—(the <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> teacher replies,) 'Indra's pupil art thou; Agni is thy teacher; I am thy teacher, N.N.!’
 
 21\. He then gives him in charge to living beings with (the formulas), ‘To Pra<i>g</i>âpati I give thee in charge. To the god Savit<i>ri</i> I give thee in charge. To the waters, the herbs I give thee in charge. To Heaven and Earth I give thee in charge. To the Vi<i>g</i>ve devâs I give thee in charge. To all beings I give thee in charge for the sake of freedom from harm.’
 
@@ -141,7 +141,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4\. [^773]. Some say, to (the student) who is standing or seated to the south (of the fire);
 
-5\. Pâda by Pâda, (then) hemistich by hemistich, and the third time the whole (verse), reciting it together (with the student); <span id="p307">[<sup><small>p. 307</small></sup>]</span>
+5\. Pâda by Pâda, (then) hemistich by hemistich, and the third time the whole (verse), reciting it together (with the student); <span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 6\. After one year, or after six months, or after twenty-four days, or after twelve days, or after six days, or after three days.
 
@@ -163,7 +163,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ‘To Agni I have brought a piece of wood, to the great <i>G</i>âtavedas. As thou, Agni, art inflamed by wood, thus I am inflamed by life, insight, vigour, offspring, cattle, holy lustre.
 
-‘May my teacher be the father of living sons; may I be full of insight, not forgetful (of what I have learned); may I become full of glory, of splendour, of holy lustre, an enjoyer of food. Svâhâ! <span id="p308">[<sup><small>p. 308</small></sup>]</span>
+‘May my teacher be the father of living sons; may I be full of insight, not forgetful (of what I have learned); may I become full of glory, of splendour, of holy lustre, an enjoyer of food. Svâhâ! <span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 4\. In the same way (he puts on) a second (piece of wood); and thus a third.
 
@@ -191,7 +191,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4\. A Vai<i>s</i>ya, with the word ‘Lady’ put at the end.
 
-5\. [^779]. (He should beg) from three women who will not refuse; <span id="p309">[<sup><small>p. 309</small></sup>]</span>
+5\. [^779]. (He should beg) from three women who will not refuse; <span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 6\. From six, twelve, or an indefinite number.
 
@@ -217,7 +217,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 17\. The upper garment of a Brâhma<i>n</i>a should be an antelope-skin,
 
-18\. That of a Râ<i>g</i>anya the skin of a spotted deer, <span id="p310">[<sup><small>p. 310</small></sup>]</span>
+18\. That of a Râ<i>g</i>anya the skin of a spotted deer, <span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 19\. That of a Vai<i>g</i>ya a goat's or cow's skin.
 
@@ -245,7 +245,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 31\. If he behaves thus, his fame when he has become a Snâtaka (i.e. when he has taken the bath at the end of his studentship) will be (such that people will say of him), ‘To-day he stays there; to-day he stays there.’
 
-32\. [^785]. There are three (kinds of) Snâtakas: a Vidyâ-snâtaka (i.e. a Snâtaka by knowledge), a Vrata-snâtaka <span id="p311">[<sup><small>p. 311</small></sup>]</span> (i.e. a Snâtaka by the completion of his vows), and a Vidyâ-vrata-snâtaka (i.e. a Snâtaka both by knowledge and by the completion of his vows).
+32\. [^785]. There are three (kinds of) Snâtakas: a Vidyâ-snâtaka (i.e. a Snâtaka by knowledge), a Vrata-snâtaka <span id="p311"><sup><small>[ p. 311 ]</small></sup></span> (i.e. a Snâtaka by the completion of his vows), and a Vidyâ-vrata-snâtaka (i.e. a Snâtaka both by knowledge and by the completion of his vows).
 
 33\. He who performs the Samâvartana ceremony, after having finished the study of the Veda, but before the time of his vows has expired, is a Vidyâ-snâtaka.
 
@@ -265,7 +265,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 41\. [^787]. After the time has passed, (they should do) as has been prescribed.
 
-42\. [^788]. A person whose ancestors through three generations have been patitasâvitrîkas, is excluded <span id="p312">[<sup><small>p. 312</small></sup>]</span> from the sacrament (of initiation) and from being taught the Veda.
+42\. [^788]. A person whose ancestors through three generations have been patitasâvitrîkas, is excluded <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> from the sacrament (of initiation) and from being taught the Veda.
 
 43\. [^789]. Of such persons those who desire to receive the sacrament, may perform the sacrifice of Vrâtyastoma and then study the Veda, if they like. For (of persons who have done that) it is said, ‘Intercourse with them is permitted.’
 
@@ -281,7 +281,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 5\. [^792]. Rules (regarding the performance of sacrifices), (texts) to be used (at the sacrifices according to those rules), and reasoning (on the meaning of the rites and texts): that is the Veda.
 
-6\. [^793]. Some say (that the Veda should be studied) with its six Aṅgas; <span id="p313">[<sup><small>p. 313</small></sup>]</span>
+6\. [^793]. Some say (that the Veda should be studied) with its six Aṅgas; <span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 7\. Not so that he only knows the ceremonial.
 
@@ -293,7 +293,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 11\. With that he besprinkles himself with (the words), ‘Therewith I besprinkle myself for the sake of prosperity, of glory, of holiness, of holy lustre.’
 
-12\. [^795]. (A second time he draws water out of a second of the eight vessels with the formula given in Sûtra 10, putting instead of the words, ‘The shining one, &c.,’ the verse): ‘By which you have created prosperity, by which you have touched surâ, with which you have anointed the eyes, which is your’ glory, O A<i>s</i>vins.' <span id="p314">[<sup><small>p. 314</small></sup>]</span>
+12\. [^795]. (A second time he draws water out of a second of the eight vessels with the formula given in Sûtra 10, putting instead of the words, ‘The shining one, &c.,’ the verse): ‘By which you have created prosperity, by which you have touched surâ, with which you have anointed the eyes, which is your’ glory, O A<i>s</i>vins.' <span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 13\. (And he draws water out of three other vessels) with (the three verses), ‘Ye waters are’ (Vâ_g_. Sa<i>s</i>h. XI, 50-52), verse by verse.
 
@@ -307,7 +307,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 Rising, bearing a shining spear, Indra stands with the Maruts; he stands with the gods who walk in the evening. Thou art a thousandfold winner; make me a thousandfold winner. Make me attain to renown.’
 
-17\. Having eaten curds or sesamum seeds, and having had his matted hair, the hair of his body, and his nails cut, he should cleanse his teeth with an Udumbara branch with (the verse), ‘Array yourselves for the enjoyment of food. Here has come king Soma: he will purify my mouth with glory and fortune.’ <span id="p315">[<sup><small>p. 315</small></sup>]</span>
+17\. Having eaten curds or sesamum seeds, and having had his matted hair, the hair of his body, and his nails cut, he should cleanse his teeth with an Udumbara branch with (the verse), ‘Array yourselves for the enjoyment of food. Here has come king Soma: he will purify my mouth with glory and fortune.’ <span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 18\. Having anointed himself and bathed again, he takes up the salve for nose and mouth with (the words), ‘Satiate my up-breathing and down-breathing; satiate my eye; satiate my ear!’
 
@@ -319,7 +319,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 22\. [^798]. If (he has only) one (garment), he should cover himself (with a part of that garment as if it were an upper garment) with the second part of the former (Mantra; Sûtra 20).
 
-23\. [^799]. He takes flowers with (the formula), ‘(The <span id="p316">[<sup><small>p. 316</small></sup>]</span> flowers) which _G<i>amadagni has brought for the sake of faith (has brought to </i>S_raddhâ?), of love, of the senses, them I take with glory and with fortune.’
+23\. [^799]. He takes flowers with (the formula), ‘(The <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> flowers) which _G<i>amadagni has brought for the sake of faith (has brought to </i>S_raddhâ?), of love, of the senses, them I take with glory and with fortune.’
 
 24\. He then ties them (to his head) with (the verse), ‘The high, wide glory, which Indra has created for the Apsarases, the flowers bound up with that, I tie on to me, to bring me glory!’
 
@@ -344,7 +344,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 1\. We shall state the rules of conduct for a Snâtaka.
 
-2\. Another (may observe those rules) optionally. <span id="p317">[<sup><small>p. 317</small></sup>]</span>
+2\. Another (may observe those rules) optionally. <span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 3 [^801]. Dancing, singing, and playing musical instruments, let him neither perform himself nor go (to see or hear it).
 
@@ -364,7 +364,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 11\. An ichneumon (nakula), sakula;
 
-12\. [^805]. A skull (kapâla), bhagâla; <span id="p318">[<sup><small>p. 318</small></sup>]</span>
+12\. [^805]. A skull (kapâla), bhagâla; <span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 13 [^806]. A rainbow (Indra-dhanu, Indra's bow), ma<i>n</i>idhanu (the jewelled bow).
 
@@ -387,7 +387,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 3\. [^812]. He shall avoid seeing women, <i>S</i>ûdras, dead bodies, black birds, and dogs, and shall not talk to (such beings).
 
-4\. [^813]. He shall not eat funeral food, or food of a <span id="p319">[<sup><small>p. 319</small></sup>]</span> <i>S</i>ûdra, or of a woman lying-in (during the period of her impurity).
+4\. [^813]. He shall not eat funeral food, or food of a <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> <i>S</i>ûdra, or of a woman lying-in (during the period of her impurity).
 
 5\. He shall not void urine or excrements, or spit out in the sun-shine, and shall riot cover himself against the sun.
 
@@ -405,7 +405,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 2\. [^816]. Of the Vai<i>s</i>vadeva food he should, after having sprinkled (water) round (the sacred fire), make oblations, with the word Svâhâ (each time repeated), to Brahman, to Pra<i>s</i>âpati, to the (deities) of the house, to Ka<i>s</i>yapa, and to Anumati.
 
-3\. [^817]. To the domestic deities (he offers) three <span id="p320">[<sup><small>p. 320</small></sup>]</span> (Balis) in the water-pot: to Par<i>g</i>anya, to the waters, to the Earth;
+3\. [^817]. To the domestic deities (he offers) three <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> (Balis) in the water-pot: to Par<i>g</i>anya, to the waters, to the Earth;
 
 4\. To Dhât<i>ri</i> and Vidhât<i>ri</i> at the two doorposts;
 
@@ -429,7 +429,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 14\. Afterwards the householder and his wife.
 
-15\. [^819]. Or the householder (should eat) first, because <span id="p321">[<sup><small>p. 321</small></sup>]</span> the <i>S</i>ruti says, ‘Therefore the householder should eat the sweetest food before his guests.’
+15\. [^819]. Or the householder (should eat) first, because <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> the <i>S</i>ruti says, ‘Therefore the householder should eat the sweetest food before his guests.’
 
 16\. [^820]. Every day he should sacrifice with the word svâhâ. If he has no food (to offer, he should make his offering) with something else, be it even a piece of wood (only), to the gods, or be it (only) a water-pot, to the Fathers and to men.
 
@@ -455,7 +455,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 9\. And to Pra<i>g</i>âpati, to the gods, to the <i>Ri</i>shis, to Faith, to Insight, to Sadasaspati, to Anumati.
 
-10\. [^822]. The same (oblations are made) when the <span id="p322">[<sup><small>p. 322</small></sup>]</span> observances are imposed (on a student) or given up (by him, after having been kept through the prescribed period of time).
+10\. [^822]. The same (oblations are made) when the <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> observances are imposed (on a student) or given up (by him, after having been kept through the prescribed period of time).
 
 11\. With (the verse), ‘Sadasaspati’ (Vâ_g_. Sa<i>m</i>h. XXXII, 13) (the teacher) three times (sacrifices) fried grains.
 
@@ -471,7 +471,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 17\. [^824]. As many pupils as he wishes to obtain, so many sesamum grains should he sacrifice with a dice-board, with the Sâvitrî or with the Anuvâka, ‘Bright-resplending’ (Vâ_g_. Sa<i>m</i>h. XVII, 80 seqq.).
 
-18\. [^825]. After they have eaten (the remainder of the sacrificial food, the teacher) should pronounce the word Om and then repeat the Sâvitrî three times, and the beginnings of the Adhyâyas to (the students) who are seated facing the west; <span id="p323">[<sup><small>p. 323</small></sup>]</span>
+18\. [^825]. After they have eaten (the remainder of the sacrificial food, the teacher) should pronounce the word Om and then repeat the Sâvitrî three times, and the beginnings of the Adhyâyas to (the students) who are seated facing the west; <span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 19\. The beginnings of the sections belonging to the (different) <i>Ri</i>shis, if they are Bahv<i>ri</i><i>ri</i>as (i.e. if they study the <i>Ri</i>g-Veda),
 
@@ -494,7 +494,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 2\. If one has partaken of a <i>S</i>râddha dinner, if a meteor falls, or distant thundering is heard, or if the earth quakes, or if fiery apparitions are seen, and when a new season begins, (the study shall be interrupted) until the same time next day.
 
-3\. [^828]. If the Utsarga ceremony has been performed, <span id="p324">[<sup><small>p. 324</small></sup>]</span> if clouds appear, . . . ., (it shall be interrupted) through a period of three nights or till twilight has thrice passed.
+3\. [^828]. If the Utsarga ceremony has been performed, <span id="p324"><sup><small>[ p. 324 ]</small></sup></span> if clouds appear, . . . ., (it shall be interrupted) through a period of three nights or till twilight has thrice passed.
 
 4\. [^829]. After he has eaten, until he has (washed and) dried his hands; while being in water; at nighttime; at the time of the morning and evening twilight; while a dead body or a _K<i>a</i>n_<i>a</i>âla is in the village.
 
@@ -506,7 +506,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 8\. [^830]. If one who has performed with him the Tânûnaptra ceremony, or a fellow-pupil (has died), for three nights.
 
-9\. If one who is not his fellow-pupil, (has died,) for one night. <span id="p325">[<sup><small>p. 325</small></sup>]</span>
+9\. If one who is not his fellow-pupil, (has died,) for one night. <span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 10\. After having studied five months and a half, they should celebrate the Utsarga,
 
@@ -532,7 +532,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 13.
 
@@ -546,7 +546,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 5\. [^836]. Or (he may) not (do so), because (that verse) has been prescribed for (the erection of) the Agni (-altar), and the act of sowing stands in connection (with it).
 
-6\. After the front-bullock has been sprinkled (with water), they then should plough unploughed ground. <span id="p327">[<sup><small>p. 327</small></sup>]</span>
+6\. After the front-bullock has been sprinkled (with water), they then should plough unploughed ground. <span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 7 [^837]. He should make oblations of cooked sacrificial food to the same deities as above, when sowing both rice and barley, and at the sacrifice to Sîtâ.
 
@@ -566,7 +566,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 6\. He makes oblations of the mess of cooked sacrificial food to Vish<i>n</i>u, to _S<i>n</i>n_a, to the full moon of _S<i>n</i>n_a, and to the rainy season,
 
-7\. (And oblations) of the grains with (the verse), ‘Accompanied with grains’ (Vâ_g_. Sa<i>m</i>h. XX, 29). <span id="p328">[<sup><small>p. 328</small></sup>]</span>
+7\. (And oblations) of the grains with (the verse), ‘Accompanied with grains’ (Vâ_g_. Sa<i>m</i>h. XX, 29). <span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 8\. He sacrifices flour, over which ghee has been poured, to the serpents (with the following Mantras):
 
@@ -586,7 +586,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 ‘Lord of the overpowering serpents belonging to Sûrya, of the celestial ones, wash thyself!’
 
-13\. [^842]. Each time after the washing has been done, he offers to the serpents a Bali of flour, picking out <span id="p329">[<sup><small>p. 329</small></sup>]</span> (portions of it) with (the spoon called) Darvî (with the formulas):
+13\. [^842]. Each time after the washing has been done, he offers to the serpents a Bali of flour, picking out <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> (portions of it) with (the spoon called) Darvî (with the formulas):
 
 14\. 'Lord of the serpents belonging to Agni, of the yellowish, terrestrial ones, this is thy Bali!
 
@@ -604,7 +604,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 17\. (He offers) collyrium, ointment, and garlands with (the same formulas), putting at their end, respectively, the words, ‘Salve thy eyes!’ ‘Anoint thyself!’ ‘Put on garlands!’
 
-18\. The remainder of the flour he pours out on the elevated spot (mentioned in Sûtra 11), pours water on it out of a water-pot, and worships the <span id="p330">[<sup><small>p. 330</small></sup>]</span> serpents with the three (verses), ‘Adoration be to the serpents’ (Vâ_g_. Sa<i>m</i>h. XIII, 6 seqq.).
+18\. The remainder of the flour he pours out on the elevated spot (mentioned in Sûtra 11), pours water on it out of a water-pot, and worships the <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> serpents with the three (verses), ‘Adoration be to the serpents’ (Vâ_g_. Sa<i>m</i>h. XIII, 6 seqq.).
 
 19\. At that distance in which he wishes the serpents not to approach (the house), he should three times walk round the house, sprinkling an uninterrupted stream of water round it, with the two (verses), ‘Beat away, O white one, with thy foot’ (Sûtras 4 and 5).
 
@@ -618,7 +618,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 24\. [^846]. With the Darvî (spoon) he rinses his mouth. Having washed it, he puts it away.
 
-20\. According to the commentators he gives these things to the man who holds the fire-brand (Sûtra 11). <span id="p331">[<sup><small>p. 331</small></sup>]</span>
+20\. According to the commentators he gives these things to the man who holds the fire-brand (Sûtra 11). <span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 25 [^847]. They eat the (rice) grains which must not form one coherent mass.
 
@@ -634,7 +634,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 3\. [^849]. After he has eaten (his portion of the sacrificial food), he offers a Bali to the Maruts. For the <i>S</i>ruti says, ‘The Maruts eat what is not-sacrificed.’
 
-4\. [^850]. (This Bali he offers) in A<i>s</i>vattha leaves, because it is said, ‘The Maruts stood in the A<i>s</i>vattha tree.’ <span id="p332">[<sup><small>p. 332</small></sup>]</span>
+4\. [^850]. (This Bali he offers) in A<i>s</i>vattha leaves, because it is said, ‘The Maruts stood in the A<i>s</i>vattha tree.’ <span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 5 [^851]. (He offers it) with (the texts), ‘Brilliantly resplendent’ (Var. Sa<i>s</i>h. XVII, 80-85), Mantra by Mantra,
 
@@ -658,7 +658,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 3\. [^856]. After he has eaten (his portion of the sacrificial food), he sacrifices with his joined hands a P<i>ri</i>shâtaka prepared with curds, with the words, ‘May what is deficient be made full to me; may what is full not decay to me. Svâhâ!’
 
-4\. The inmates of the house look at the mixture of curds, honey, and ghee, with the Anuvâka, <span id="p333">[<sup><small>p. 333</small></sup>]</span> ‘May Indra come hither’ (Vâ_g_. Sa<i>m</i>h. XX, 47 seqq.).
+4\. The inmates of the house look at the mixture of curds, honey, and ghee, with the Anuvâka, <span id="p333"><sup><small>[ p. 333 ]</small></sup></span> ‘May Indra come hither’ (Vâ_g_. Sa<i>m</i>h. XX, 47 seqq.).
 
 5\. [^857]. They let the calves join their mothers that night and the Âgrahâya<i>n</i>î night.
 
@@ -677,7 +677,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 5\. If it is impossible (to take one of the two species of corn), (that) is excluded.
 
-6\. To the east or to the north of the field, on a <span id="p334">[<sup><small>p. 334</small></sup>]</span> clean spot that has been ploughed, so that the crop he not damaged,
+6\. To the east or to the north of the field, on a <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> clean spot that has been ploughed, so that the crop he not damaged,
 
 7\. Or in the village, because (there) both (rice and barley) are united, and because no obstacle is there.
 
@@ -693,7 +693,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 Her, who rich in horses, rich in cows, rich in delight indefatigably supports living beings, Urvarâ (i.e. the field) who is wreathed with threshing-floors, I invoke at this sacrifice, the firm One. May she not abandon me. Svâhâ!
 
-10\. He makes oblations of the cooked sacrificial food to Sîtâ, Ya<i>g</i>â (the goddess of sacrifice), <i>S</i>amâ (the goddess of zealous devotion), Bhûti (the goddess of welfare). <span id="p335">[<sup><small>p. 335</small></sup>]</span>
+10\. He makes oblations of the cooked sacrificial food to Sîtâ, Ya<i>g</i>â (the goddess of sacrifice), <i>S</i>amâ (the goddess of zealous devotion), Bhûti (the goddess of welfare). <span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 11\. Some say that the giving (of the sacrificial food to the deities) accompanies the Mantras.
 
@@ -705,7 +705,7 @@ Her, who rich in horses, rich in cows, rich in delight indefatigably supports li
 
 15\. [^863]. Then to the west with (the Mantra), ‘The powerful ones, the excellent ones, prosperity, earth, Pârsh<i>n</i>i, _S<i>n</i>m_kuri, may they protect thee from the west, and be vigilant and not abandon thee. To them I bring adoration, and I offer this Bali to them.’
 
-16\. Then to the north with (the Mantra), ‘The fearful ones, like to Vâyu in speed, may they protect <span id="p336">[<sup><small>p. 336</small></sup>]</span> thee from the north, on the field, on the threshing-floor, in the house, on the way, and be vigilant and not abandon thee. To them I bring adoration, and I offer this Bali to them.’
+16\. Then to the north with (the Mantra), ‘The fearful ones, like to Vâyu in speed, may they protect <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> thee from the north, on the field, on the threshing-floor, in the house, on the way, and be vigilant and not abandon thee. To them I bring adoration, and I offer this Bali to them.’
 
 17\. [^864]. Of another (sort of food) as the chief (food used at this sacrifice), and with the remainder of Â<i>g</i>ya, he distributes Balis as above.
 

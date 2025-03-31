@@ -36,7 +36,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. [^667] Now (follows) the sacrifice of the <i>s</i>ûlagava (or spit-ox, for propitiating Rudra and averting plague in cattle).
 
-2\. In the fortnight of the increasing moon, under an auspicious constellation, he puts wood on the fire, strews (Darbha grass) on the entire surface around the fire, cooks a mess of sacrificial food with milk, <span id="p221">[<sup><small>p. 221</small></sup>]</span> sprinkles it (with Â<i>g</i>ya), takes it from the fire, builds two huts to the west of the fire, and has the spit-ox led to the southerly (hut) with (the verse), ‘May the fallow steeds, the harmonious ones, bring thee hither, together with the white horses, the bright, wind-swift, strong ones, that are as quick as thought. Come quickly to my offering, <i>S</i>arva! Om!’
+2\. In the fortnight of the increasing moon, under an auspicious constellation, he puts wood on the fire, strews (Darbha grass) on the entire surface around the fire, cooks a mess of sacrificial food with milk, <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> sprinkles it (with Â<i>g</i>ya), takes it from the fire, builds two huts to the west of the fire, and has the spit-ox led to the southerly (hut) with (the verse), ‘May the fallow steeds, the harmonious ones, bring thee hither, together with the white horses, the bright, wind-swift, strong ones, that are as quick as thought. Come quickly to my offering, <i>S</i>arva! Om!’
 
 3\. [^668] To the northerly (hut he has) the ‘bountiful one’ (led);—(i.e. the consort of the spit-ox);
 
@@ -48,7 +48,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ‘To the god Bhava svâhâ! To the god Rudra svâhâ! To the god <i>S</i>arva svâhâ! To the god Î<i>s</i>âna . . . Pa<i>s</i>upati . . . Ugra . . . Bhîma svâhâ! To the great god svâhâ!’
 
-7\. Then he sacrifices the consort's rice to the consort (of Rudra, with the Mantra), ‘To the consort <span id="p222">[<sup><small>p. 222</small></sup>]</span> of the god Bhava svâhâ! To the consort of the god Rudra . . . <i>S</i>arva . . . Î<i>s</i>âna . . . Pa<i>s</i>upati . . . Ugra . . . Bhîma . . . of he great god svâhâ!’
+7\. Then he sacrifices the consort's rice to the consort (of Rudra, with the Mantra), ‘To the consort <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> of the god Bhava svâhâ! To the consort of the god Rudra . . . <i>S</i>arva . . . Î<i>s</i>âna . . . Pa<i>s</i>upati . . . Ugra . . . Bhîma . . . of he great god svâhâ!’
 
 8\. Then he sacrifices of the middle portion of rice with (the Mantra), ‘To the conqueror svâhâ! To the conqueror svâhâ!’
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. [^669] Now follows the distribution of Palâ<i>s</i>a leaves (at different places).
 
-2\. ‘Protector of the house, touch them! To the protector of the house svâhâ! Protectress of the <span id="p223">[<sup><small>p. 223</small></sup>]</span> house, touch them! To the protectress of the house svâhâ! Protector of the door, touch them! To the protector of the door svâhâ! Protectress of the door, touch them! To the protectress of the door svâhâ!’—with (these formulas) he puts down four leaves; (then other leaves) with (the formulas), ‘Noisy ones, touch them! To the noisy ones svâhâ! Quivered ones. . . ye that run in the rear . . . Minglers (?) . . . Choosers . . . Eaters, touch them! To the eaters svâhâ!’—
+2\. ‘Protector of the house, touch them! To the protector of the house svâhâ! Protectress of the <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> house, touch them! To the protectress of the house svâhâ! Protector of the door, touch them! To the protector of the door svâhâ! Protectress of the door, touch them! To the protectress of the door svâhâ!’—with (these formulas) he puts down four leaves; (then other leaves) with (the formulas), ‘Noisy ones, touch them! To the noisy ones svâhâ! Quivered ones. . . ye that run in the rear . . . Minglers (?) . . . Choosers . . . Eaters, touch them! To the eaters svâhâ!’—
 
 3\. Then again ten (leaves) with (the formula), ‘Divine hosts, touch them! To the divine hosts svâhâ!’
 
@@ -74,7 +74,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. [^671] He then performs worship (before that basket) with (the formula), ‘Adoration to the quivered one, to him who wears the quiver! To the lord of the thieves adoration!’
 
-7\. [^672] With sandal salve, surâ and water, unground, fried grains, cow-dung, with a bunch of dûrvâ grass, with Udumbara, Palâ<i>s</i>a, Sami, Vikaṅkata, and <span id="p224">[<sup><small>p. 224</small></sup>]</span> A<i>s</i>vattha (branches), and with a cow-tail he besprinkles his cows, the bull first, with (the words), ‘Bring luck! Bring luck!’ Then (the bull) will bring him luck.
+7\. [^672] With sandal salve, surâ and water, unground, fried grains, cow-dung, with a bunch of dûrvâ grass, with Udumbara, Palâ<i>s</i>a, Sami, Vikaṅkata, and <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> A<i>s</i>vattha (branches), and with a cow-tail he besprinkles his cows, the bull first, with (the words), ‘Bring luck! Bring luck!’ Then (the bull) will bring him luck.
 
 8\. [^673] He then cooks that mess of sacrificial food, sacred to Kshetrapati (the lord of the field), with milk, sprinkles it (with Â<i>g</i>ya), takes it from the fire, and performs a sacrifice to Kshetrapati on the path where his cows use to go, without a fire, on four or on seven leaves.
 

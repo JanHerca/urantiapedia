@@ -93,7 +93,7 @@ E. B. COWELL.
 
 [^2]: vii:3 iv. 148.
 
-[^3]: viii:1 Beal's transl. <span id="p157">[<sup><small>p. 157</small></sup>]</span>.
+[^3]: viii:1 Beal's transl. <span id="p157"><sup><small>[ p. 157 ]</small></sup></span>.
 
 [^4]: viii:2 Hiouen-thsang twice refers to Jātakas, _Julien_, i. 137, 197.
 
@@ -103,7 +103,7 @@ E. B. COWELL.
 
 [^7]: x:1 We have an interesting illustration of the proverbial character of some of the Jātaka stories in the Sāṇkhya Aphorisms, iv. 11, “he who is without hope is happy like Piṅgalā,” which finds its explanation in Jāt. 330. It is also referred to in the Mahābh. xii. 6520.
 
-[^8]: x:2 As _e.g._ Fausböll, iii. <span id="p495">[<sup><small>p. 495</small></sup>]</span>. Cf. _Divyāvad_. <span id="p377">[<sup><small>p. 377</small></sup>]</span>, 1.
+[^8]: x:2 As _e.g._ Fausböll, iii. <span id="p495"><sup><small>[ p. 495 ]</small></sup></span>. Cf. _Divyāvad_. <span id="p377"><sup><small>[ p. 377 ]</small></sup></span>, 1.
 
 [^9]: x:3 See also several papers in the eighth volume of the _Journal of the Ceylon Branch of the R. A. Society_.
 

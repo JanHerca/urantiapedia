@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:40:26Z
   </table>
 </figure>
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 <small>A note by a later hand, copied from another scripture.</small>
 

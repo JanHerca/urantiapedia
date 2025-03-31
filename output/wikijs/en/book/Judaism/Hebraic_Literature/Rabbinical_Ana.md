@@ -32,9 +32,9 @@ dateCreated: 2025-2-7T10:36:56Z
   </table>
 </figure>
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 IT WAS said of Rabbi Tarphon, that though a very wealthy man, he was not charitable according to his means. One time Rabbi Akiba said to him, “Shall I invest some money for thee in real estate, in a manner which will be very profitable?” Rabbi Tarphon answered in the affirmative, and brought to Rabbi Akiba four thousand denars in gold, to be so applied. Rabbi Akiba immediately distributed the same among the poor. Some time after this Rabbi Tarphon met Rabbi Akiba, and asked him where the real estate which he had bought for him was. situated. Akiba led his friend to the college, and showed. him a little boy, who recited for them the 112th psalm. When he reached the ninth verse, “He distributeth, he giveth to the needy, his righteousness endureth forever:”
 
@@ -50,7 +50,7 @@ IT WAS said of Rabbi Tarphon, that though a very wealthy man, he was not charita
 
 Rabbi Jochanan, the son of Lakkai, was once riding outside of Jerusalem, and his pupils had followed him. They saw a poor woman collecting the grain which dropped from the mouths and troughs of some feeding cattle, belonging to Arabs. When she saw the Rabbi, she addressed him in these brief words, “O Rabbi, assist me.” He replied, “My daughter, whose daughter art thou?”
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 “I am the daughter of Nakdimon, the son of Guryon,” she answered.
 
@@ -72,7 +72,7 @@ The Rabbi sympathized with the woman, helped her, and wept for her.
 
 Nachum, whatever occurred to him, was in the habit of saying, “This too is for the best.” In his old age he became blind; both of his hands and both of his legs were amputated, and the trunk of his body was covered with a sore inflammation. His scholars said to him, “If thou art a righteous man, why art thou so sorely afflicted?”
 
-“All this,” he answered, "I brought upon myself. Once I was traveling to the house of my father-in-law, and I had with me thirty asses laden with provisions and all manner of precious articles. A man by the wayside called to me, ‘O Rabbi, assist me.’ I told him to wait until I unloaded my asses. When that time arrived and I had removed their burdens from my beasts, I found to my sorrow that the poor man had fallen and expired. I threw myself upon his body and wept bitterly. ‘Let these eyes, which had no pity on thee, be blind,’ I said; ‘these hands that delayed to assist thee, let them be cut off, and also these feet, which did not run to aid thee.’ And yet I was not satisfied until I prayed that my whole body might be stricken <span id="p293">[<sup><small>p. 293</small></sup>]</span> with a sore inflammation. Rabbi Akiba said to me, ‘Woe to me that I find thee in this state!’ But I replied, ‘Happy to thee that thou meetest me in this state, for through this I hope that my iniquity may be forgiven, and all my righteous deeds still remain recorded to gain me a reward of life eternal in the future world.’”
+“All this,” he answered, "I brought upon myself. Once I was traveling to the house of my father-in-law, and I had with me thirty asses laden with provisions and all manner of precious articles. A man by the wayside called to me, ‘O Rabbi, assist me.’ I told him to wait until I unloaded my asses. When that time arrived and I had removed their burdens from my beasts, I found to my sorrow that the poor man had fallen and expired. I threw myself upon his body and wept bitterly. ‘Let these eyes, which had no pity on thee, be blind,’ I said; ‘these hands that delayed to assist thee, let them be cut off, and also these feet, which did not run to aid thee.’ And yet I was not satisfied until I prayed that my whole body might be stricken <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> with a sore inflammation. Rabbi Akiba said to me, ‘Woe to me that I find thee in this state!’ But I replied, ‘Happy to thee that thou meetest me in this state, for through this I hope that my iniquity may be forgiven, and all my righteous deeds still remain recorded to gain me a reward of life eternal in the future world.’”
 
 ---
 
@@ -98,7 +98,7 @@ Rabbi Ashi said, “He who hardens his heart with pride, softens his brains with
 
 Rabbi Joshua said “Meekness is better than sacrifice”; for is it not written, “The sacrifices of God are a broken heart—a broken contrite spirit, Thou, oh Lord, will not despise?”
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 The son of Rabbi Hunnah said, “He who possesses a knowledge of God's law, without the fear of Him, is as one who has been intrusted with the inner keys of a treasury, but from whom the outer ones are withheld.”
 
@@ -118,7 +118,7 @@ Greatly astonished, his attendants addressed him thus: “Sire! all that is coll
 
 “Because,” answered the monarch, “I wish travelers to learn from the action I now order you to perform, how abhorrent dishonesty is in my eyes.”
 
-<span id="p295">[<sup><small>p. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 Rabbi Eleazer said: “He who is guided by righteousness and justice in all his doings, may justly be asserted to have copied God in His unbounded beneficence. For of Him (blessed be His name) we read, ‘He loveth righteousness and justice’; that is, ‘The earth is filled with the loving kindness of God.’” Might we think that to follow such a course is an easy task? No! The virtue of beneficence can be gained only by great efforts. Will it be difficult, however, for him that has the fear of God constantly before his eyes to acquire this attribute? No; he will easily attain it, whose every act is done in the fear of the Lord.
 
@@ -132,7 +132,7 @@ Secondly, he had never gone to his night's rest with a heart harboring ill-will 
 
 Thirdly, he was not penurious, following the example of the righteous job, of whom the sages relate that he declined to receive the change due him after making a purchase.
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 Another Rabbi bearing also the name of Nechumah, replied to Rabbi Akiba, that he believed himself to have been blessed with long life because, in his official capacity, he had invariably set his face against accepting presents, mindful of what Solomon wrote, “He that hateth gifts will live.” Another of his merits he conceived to be that of never resenting an offense; mindful of the words of Rabba, “He who is indulgent toward others” faults, will be mercifully dealt with by the Supreme Judge.”
 
@@ -148,7 +148,7 @@ Rabbi Ulah was once asked, “How extended should be this honor due to parents?�
 
 He replied:—
 
-“Listen, and I will tell ye how thoroughly it was observed by a heathen, Damah, the son of Nethina. He was a diamond merchant, and the sages desired to purchase from <span id="p297">[<sup><small>p. 297</small></sup>]</span> him a jewel for the ephod of the high priest. When they reached his house, they found that the key of the safe in which the diamond was kept was in the possession of Damah's father, who was sleeping. The son absolutely refused to wake his father, to obtain the key, even when the sages in their impatience offered him a much larger sum for the jewel than he had demanded. And further, when his father awoke, and he delivered the diamond to the purchasers, and they offered him the larger sum which they had named, he took from it his first price, returning the balance to them, with the words, ‘I will not profit by the honor of my father.’”
+“Listen, and I will tell ye how thoroughly it was observed by a heathen, Damah, the son of Nethina. He was a diamond merchant, and the sages desired to purchase from <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> him a jewel for the ephod of the high priest. When they reached his house, they found that the key of the safe in which the diamond was kept was in the possession of Damah's father, who was sleeping. The son absolutely refused to wake his father, to obtain the key, even when the sages in their impatience offered him a much larger sum for the jewel than he had demanded. And further, when his father awoke, and he delivered the diamond to the purchasers, and they offered him the larger sum which they had named, he took from it his first price, returning the balance to them, with the words, ‘I will not profit by the honor of my father.’”
 
 ---
 
@@ -168,7 +168,7 @@ A certain man, a miller, bad a father living with him, at the time when all peop
 
 He said this because they who labored for the government were beaten if their work proved unsatisfactory, and he thought “it is better for me to run the chance of being beaten than to allow my father to risk it.” Therefore, he deserved the reward of the son who “honors his father.”
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 Rabbi Chiyah asserted that God preferred honor shown to parents, to that displayed toward Himself. “It is written,” said he, “‘Honor the Lord from thy wealth.’ How? Through charity, good deeds, putting the mezuzah upon thy doorposts, making a tabernacle for thyself during Succoth, etc.; all this if thou art able. If thou art poor the omission is not counted a sin or a neglect. But it is written, ‘Honor thy father and thy mother,’ and the duty is demanded alike of rich and poor; aye, even shouldst thou be obliged to beg for them from door to door.”
 
@@ -190,7 +190,7 @@ Simon, the son of Jochai, said: “As the reward to those who honor their parent
 
 Rabbi Jochanan said, “It is best to study by night, when all is quiet; as it is written, ‘Shout forth praises in the night.’”
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 Reshbi Lakish said, “Study by day and by night; as it is written, ‘Thou shalt meditate therein day and night.’”
 
@@ -210,7 +210,7 @@ The other workman, who was wise, replied, “We have the profit of the reward wh
 
 It is the same in studying the law. One man says, “What does it profit me to study the law when I must ever continue it or else forget what I have learned.” But the other man replies, “God will reward us for the will which we display even though we do forget.”
 
-Rabbi Ze-irah has said that even a single letter in the law which we might deem of no importance, if wanting, would <span id="p300">[<sup><small>p. 300</small></sup>]</span> neutralize the whole law. In Deuteronomy 22: 17, we read, “Neither shall he take to himself many wives, that his heart may turn away.” Solomon transgressed this precept, and it is said by Rabbi Simon that the angels took note of his ill-doing and addressed the Deity: “Sovereign of the world, Solomon has made Thy law even as a law liable to change and diminution. Three precepts he has disregarded, namely, ‘He shall not acquire for himself many horses’; (neither shall he take to himself many wives (nor shall he acquire to himself too much silver and gold.'” Then the Lord replied, “Solomon will perish from the earth; aye, and a hundred Solomons after him, and yet the smallest letter of the law shall not be dispensed with.”
+Rabbi Ze-irah has said that even a single letter in the law which we might deem of no importance, if wanting, would <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> neutralize the whole law. In Deuteronomy 22: 17, we read, “Neither shall he take to himself many wives, that his heart may turn away.” Solomon transgressed this precept, and it is said by Rabbi Simon that the angels took note of his ill-doing and addressed the Deity: “Sovereign of the world, Solomon has made Thy law even as a law liable to change and diminution. Three precepts he has disregarded, namely, ‘He shall not acquire for himself many horses’; (neither shall he take to himself many wives (nor shall he acquire to himself too much silver and gold.'” Then the Lord replied, “Solomon will perish from the earth; aye, and a hundred Solomons after him, and yet the smallest letter of the law shall not be dispensed with.”
 
 ---
 
@@ -224,7 +224,7 @@ To this question the following answer was returned: “As water runs down from a
 
 Another Rabbi inquired, “Wherefore has the Word of God been likened to wine and milk?” The reply made was, “As these fluids cannot be preserved in golden vessels, but only in those of earthenware, so those minds will be the best receptacles of learning which are found in homely bodies.”
 
-Rabbi Joshua ben Chaninah, who was very homely in appearance, possessed great wisdom and erudition; and one of his favorite sayings was, that “though many have exhibited a vast amount of knowledge, notwithstanding their <span id="p301">[<sup><small>p. 301</small></sup>]</span> personal attractions, yet had they been less handsome, their acquirements might have been more extensive.”
+Rabbi Joshua ben Chaninah, who was very homely in appearance, possessed great wisdom and erudition; and one of his favorite sayings was, that “though many have exhibited a vast amount of knowledge, notwithstanding their <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> personal attractions, yet had they been less handsome, their acquirements might have been more extensive.”
 
 The precepts are compared to a lamp; the law of God to a light. The lamp gives light only so long as it contains oil. So he who observes the precepts receives his reward while performing them. The law, however, is a light perpetual; it is a protection forever to the one who studies it, as it is written:—
 
@@ -238,7 +238,7 @@ The darkness in which the man walked was the lack of religious knowledge. The to
 
 “A good name is more fragrant than rich perfume, and the day of death is better than the day of one's birth.”
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Rabbi Jochanan, the son of Broka, and Rabbi Eleazer, the son of Chismah, visited their teacher, Rabbi Josah, and he said to them:—
 
@@ -264,7 +264,7 @@ Rabbi Jochanan, the son of Broka, and Rabbi Eleazer, the son of Chismah, visited
 
 “‘Why is the law of God compared to a goad?’ he said. 'Because the goad causes the ox to draw the furrow straight, and the straight furrow brings forth a plenty of good food for the life of man. So does the law of God keep man's heart straight, that it may produce good food to provide for the life eternal. But lest thou shouldst say, ”The goad is movable, so therefore must the law be,“ it is also written, ”as nails,“ and likewise, as ”nails fastened," lest thou shouldst argue that nails pounded into wood diminish from sight with each stroke, and that therefore by this comparison God's law would be liable to diminution also. No; as a nail fastened or planted, as a tree is planted to bring forth fruit and multiply.
 
-“'The men of assemblies are those who gather in numbers to study the law. Frequently controversies arise among them, and thou mightest say, “With so many differing opinions how can I settle to a study of the <span id="p303">[<sup><small>p. 303</small></sup>]</span> law?” Thy answer is written in the words which are given by one shepherd. From one God have all the laws proceeded. Therefore make thy ears as a sieve, and incline thy heart to possess all these words.”
+“'The men of assemblies are those who gather in numbers to study the law. Frequently controversies arise among them, and thou mightest say, “With so many differing opinions how can I settle to a study of the <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> law?” Thy answer is written in the words which are given by one shepherd. From one God have all the laws proceeded. Therefore make thy ears as a sieve, and incline thy heart to possess all these words.”
 
 Then said Rabbi Josah, “Happy the generation which Rabbi Eleazer teaches.”
 
@@ -284,7 +284,7 @@ Rabba always said that the possession of wisdom and a knowledge of the law neces
 
 Rabba said, “Holy Writ does not tell us that to study God's commands shows a good understanding, but to do them. We must learn, however, before we can be able to perform; and he who acts contrary through life to the teachings of the Most High had better never have been born.”
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 “The wise man is in his smallest actions great: the fool is in his greatest actions small.”
 
@@ -302,7 +302,7 @@ When souls stand at the judgment-seat of God, the poor, the rich, and the wicked
 
 When the rich man is questioned, and answers that the care of his fortune occupied his time, he is told that Rabbi Eleazer possessed a thousand forests and a thousand ships, and yet abandoned all the luxuries of wealth and journeyed from town to town searching and expounding the law.
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 When the wicked man pleads temptation as an excuse for his evil course, he is asked if he has been more tempted than Joseph, more cruelly tried than he was, with good or evil fortune.
 
@@ -328,7 +328,7 @@ No. He has not so much ordained as permitted them. “It is for yourselves,” H
 
 A king had a son whom be daily discovered carousing with dissolute companions, eating and drinking.
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 “Eat at my table,” said the king; “eat and drink, my son, even as pleaseth thee; but let it be at my table, and not with dissolute companions.”
 
@@ -354,7 +354,7 @@ Rabbi Chelboh said, “We should not hurry when we leave a place of worship.”
 
 “This,” said Abayyeh, “is in reference to leaving a place of worship; but we should certainly hasten on our way thither, as it is written, ‘Let us know and hasten to serve the Lord.’”
 
-Rabbi Zabid said, "When I used to see the Rabbis hurrying to a lecture in their desire to obtain good seats, I thought to myself, ‘they are violating the Sabbath.’ When, however, I heard Rabbi Tarphon say, ‘One should always hasten to perform a commandment even on the Sabbath,’ <span id="p307">[<sup><small>p. 307</small></sup>]</span> as it is written, ‘They shall follow after the Lord when He roareth like a lion,’ I hurried also, in order to be early in attendance.”
+Rabbi Zabid said, "When I used to see the Rabbis hurrying to a lecture in their desire to obtain good seats, I thought to myself, ‘they are violating the Sabbath.’ When, however, I heard Rabbi Tarphon say, ‘One should always hasten to perform a commandment even on the Sabbath,’ <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> as it is written, ‘They shall follow after the Lord when He roareth like a lion,’ I hurried also, in order to be early in attendance.”
 
 That place wherein we can best pray to God is His house; as it is written:—
 
@@ -376,7 +376,7 @@ Eleazer prayed, “Let it come to pass that the maiden to whom I shall say, ‘L
 
 Suppose a slave had appeared and answered all the requirement which Eleazer proposed, would Abraham and Isaac have been satisfied? But God prospered his mission, and “Rebecca came out.”
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 Caleb said, “He that will smite Kiryath-sepher, and capture it, to him will I give \`Achsah, my daughter, for wife.”
 
@@ -402,7 +402,7 @@ Said Rabbi Simon ben Jochai, "The requests of three persons were granted before 
 
 ---
 
-Rabbi Jochanan said in the name of Rabbi Joseh, "To those who delight in the Sabbath shall God give inheritance without end. As it is written, ‘Then shalt thou find delight in the Lord,’ etc. 'And I will cause thee to enjoy <span id="p309">[<sup><small>p. 309</small></sup>]</span> the inheritance of Jacob, thy father.' Not as it was promised to Abraham, ‘Arise and walk through the land to its length and breadth.’ Not as it was promised to Isaac, ‘I will give thee all that this land contains’; but as it was promised to Jacob, ‘And thou shalt spread abroad, to the West, and to the Fast, to the North, and to the South.’”
+Rabbi Jochanan said in the name of Rabbi Joseh, "To those who delight in the Sabbath shall God give inheritance without end. As it is written, ‘Then shalt thou find delight in the Lord,’ etc. 'And I will cause thee to enjoy <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> the inheritance of Jacob, thy father.' Not as it was promised to Abraham, ‘Arise and walk through the land to its length and breadth.’ Not as it was promised to Isaac, ‘I will give thee all that this land contains’; but as it was promised to Jacob, ‘And thou shalt spread abroad, to the West, and to the Fast, to the North, and to the South.’”
 
 Rabbi Jehudah said that if the Israelites had strictly observed the first Sabbath, after the command to sanctify the seventh day had been given, they would have, been spared captivity; as it is written, “And it came to pass on the seventh day, that there went out some of the people to gather (the Mannah), but they found nothing.” And in the next chapter we find, “Then came Amalek, and fought with Israel in Rephidim.”
 
@@ -412,7 +412,7 @@ One Joseph, a Jew, who honored the Sabbath, had a very rich neighbor, who was a 
 
 Rabbi Ishmael, the son of Joshua, was asked, “How did the rich people of the land of Israel become so wealthy?” He answered, “They gave their tithes in due season, as it is written, ‘Thou shalt give tithes, in order that thou mayest become rich.’” “But,” answered his questioner, “tithes were given to the Levites, only while the holy temple existed. What merit did they possess while they dwelt in Babel, that they became wealthy there also?” “Because,” replied the Rabbi, “they honored the Holy Law by expounding it.” “But in other countries, where they did not expound the Law, how did they deserve wealth?” “By honoring the Sabbath,” was the answer.
 
-<span id="p310">[<sup><small>p. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 Rabbi Achiya, the son of Abah, said, “I sojourned once in Ludik, and was entertained by a certain wealthy man on the Sabbath day. The table was spread with a sumptuous repast, and the dishes were of silver and gold. Before making a blessing over the meal the master of the house said, ‘Unto the Lord belongeth the earth, with all that it contains.’ After the blessing he said, ‘The heavens are the heavens of the Lord, but the earth hath He given to the children of men.’ I said to my host, ‘I trust you will excuse me, my dear sir, if I take the liberty of asking you how you have merited this prosperity?’ He answered, ‘I was formerly a butcher, and I always selected the finest cattle to be killed for the Sabbath, in order that the people might have the best meat on that day. To this, I believe firmly, I owe my prosperity.’ I replied, ‘Blessed be the Lord, that He hath given thee all this.’”
 
@@ -428,7 +428,7 @@ But if the house is not ready, if no preparations have been made to greet the Sa
 
 “May all thy Sabbaths be like this;” and the weeping angel of goodness, responds, “Amen!”
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 Samson sinned against the Lord through his eyes, as it is written, “I have seen a woman of the daughters of the Philistines. . . . This one take for me, for she pleaseth in my eyes.” Therefore through his eyes was he punished, as it is written, “And the Philistines seized him, and put out his eyes.”
 
@@ -442,7 +442,7 @@ Joseph buried his father. “And Joseph went up to bury his father.” There was
 
 When trouble and sorrow become the portion of Israel, and the fainthearted separate from their people, two angels lay their hands upon the head of him who withdraws, saying, “This one shall not see the comfort of the congregation.”
 
-When trouble comes to the congregation it is not right for a in an to say, “I will go home; I will eat and drink; and things shall be peaceful to me;” 'tis of such a one that the holy book speaks, saying, "And behold there is gladness and joy; slaying of oxen, and killing of sheep; eating of flesh, and drinking of wine. ‘Let us eat and drink, for to-morrow we must die.’ And it was revealed <span id="p312">[<sup><small>p. 312</small></sup>]</span> in my ears by the Lord of Hosts; surely the iniquity shall not be forgiven ye until ye die.”
+When trouble comes to the congregation it is not right for a in an to say, “I will go home; I will eat and drink; and things shall be peaceful to me;” 'tis of such a one that the holy book speaks, saying, "And behold there is gladness and joy; slaying of oxen, and killing of sheep; eating of flesh, and drinking of wine. ‘Let us eat and drink, for to-morrow we must die.’ And it was revealed <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> in my ears by the Lord of Hosts; surely the iniquity shall not be forgiven ye until ye die.”
 
 Our teacher, Moses, always bore his share in the troubles of the congregation, as it is written, “They took a stone and put it under him.” Could they not have given him a chair or a cushion? But then he said, “Since the Israelites are in trouble (during the war with Amalek) lo, I will bear my part with them, for he who bears his portion of the burden will live to enjoy the hour of consolation. Woe to the one who thinks, ‘Ah, well, I will neglect my duty; who can know whether I bear my part or not;’ even the stones of his house, aye, the limbs of the trees, shall testify against him, as it is written, ‘For the stones will cry from the wall, and the limbs of the trees will testify.’”
 
@@ -454,7 +454,7 @@ Rabbi Simon, the son of Eleazer, said, “Hast thou ever noted the fowls of the 
 
 Rabbi Judah said, "Most mule-drivers are cruel. They beat their poor beasts unmercifully. Most camel-drivers are upright. They travel through deserts and dangerous places, and have time for meditation and thoughts of God.
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 The majority of seamen are religious. Their daily peril makes them so. The best doctors are deserving of punishment. In the pursuit of knowledge they experiment on their patients, and often with fatal results. The best of butchers deserve to be rated with the Amalekites, they are accustomed to blood and cruelty; as it is written of the Amalekites, ‘How he met thee by the way and smote the hindmost of thee, and that were feeble behind thee, when thou wast faint and weary.’”
 
@@ -476,7 +476,7 @@ Alexander wandered to the gates of Paradise and knocked for entrance.
 
 “We know him not,” replied the angel; “this is the Lord's gate, only the righteous enter here.”
 
-Alexander begged for something to prove that he had reached the gates of Paradise, and a small piece of a skull was given to him. He showed it to his wise men, who placed it in one scale of a balance. Alexander poured gold <span id="p314">[<sup><small>p. 314</small></sup>]</span> and silver into the other scale, but the small bone weighed heavier; he poured in more, adding his crown jewels, his diadem; but still the bone outweighed them all. Then one of the wise men, taking a grain of dust from the ground placed that upon the bone, and lo, the scale flew up.
+Alexander begged for something to prove that he had reached the gates of Paradise, and a small piece of a skull was given to him. He showed it to his wise men, who placed it in one scale of a balance. Alexander poured gold <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> and silver into the other scale, but the small bone weighed heavier; he poured in more, adding his crown jewels, his diadem; but still the bone outweighed them all. Then one of the wise men, taking a grain of dust from the ground placed that upon the bone, and lo, the scale flew up.
 
 The bone was that which surrounds the eye of man; the eye of man which naught can satisfy save the dust which covers it in the grave.
 
@@ -494,7 +494,7 @@ When the devouring flames seize upon the cedar, shall not the lowly hyssop fear 
 
 Mourn for those who are left; mourn not for the one taken by God from earth. He has entered into the eternal rest, while we are bowed with sorrow.
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 Rabbi Akiba was once traveling through the country, and he had with him an ass, a rooster, and a lamp.
 
@@ -516,7 +516,7 @@ Upon another occasion these same Rabbis went up to Jerusalem. When they reached 
 
 “Ye ask me why I am merry,” said he; “come now, tell me why ye weep?”
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 “Because the Bible tells us that a stranger (one not descended from Aaron) who approaches the holy of holies shall be put to death, and now behold the foxes make of it a dwelling-place. Why should we not weep?”
 
@@ -530,7 +530,7 @@ Still another time, when Rabbi Eleazer was very sick and his friends and scholar
 
 While Rabbi Eleazer was sick, the four elders, Rabbi Tarphon, Rabbi Joshua, Rabbi Eleazer, the son of Azoria, and Rabbi Akiba, called upon him.
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 “Thou art better to Israel than the raindrops to earth, or the raindrops are fox this world only, while thou, my teacher, have helped the ripening of fruit for this world and the next,” said Rabbi Tarphon.
 
@@ -548,7 +548,7 @@ Then said Rabbi Akiba:—
 
 “Yes,” answered Akiba. "‘Twelve years old was Manassah when he became king, and fifty-and-five years did he reign in Jerusalem, and he did what was evil in the eyes of the Lord’ (Kings). Now, how was this? Did Hezekiah teach the law to the whole world and not to his son Manassah? Assuredly not; but Manassah paid no attention to his precepts, and neglected the word of God until he was afflicted with bodily pain, as it is written, ‘And the Lord spoke to Manassah and to his people, but they listened not, wherefore the Lord brought over them the captains of the armies belonging to the king of Assyria, and they took Manassah prisoner with chains, and bound him with fetters, and led him off to Babylon; and when he was in distress he besought the Lord his God, and humbled himself greatly before the God of his fathers. And he prayed to Him, and He permitted Himself to be entreated by him and heard his supplication, and brought him back to Jerusalem unto his kingdom. Then did Manassah feel conscious that the Lord is indeed the (true) God.’
 
-“Now, what did the King of Assyria to Manassah? He placed him in a copper barrel and had a fire kindled beneath it, and while enduring great torture of his body, Manassah was further tortured in his mind. ‘Shall I call <span id="p318">[<sup><small>p. 318</small></sup>]</span> upon the Almighty?’ he thought. ‘Alas! His anger burns against me. To call upon my idols is to call in vain,—alas, alas, what hope remains to me!’
+“Now, what did the King of Assyria to Manassah? He placed him in a copper barrel and had a fire kindled beneath it, and while enduring great torture of his body, Manassah was further tortured in his mind. ‘Shall I call <span id="p318"><sup><small>[ p. 318 ]</small></sup></span> upon the Almighty?’ he thought. ‘Alas! His anger burns against me. To call upon my idols is to call in vain,—alas, alas, what hope remains to me!’
 
 “He prayed to the greatest of his idols, and waited in vain for a reply. He called to the lesser gods, and remained unanswered. Then with trembling heart he addressed the great Eternal.
 
@@ -564,7 +564,7 @@ Said Rabbi Eleazer, the great, “It is commanded ”thou shalt love the Lord th
 
 “Does not ‘with all thy soul’ include ‘with all that is loved by thee?’
 
-“Some people love themselves more than they love their money; to them 'tis said, ‘with all thy soul;’ while for those <span id="p319">[<sup><small>p. 319</small></sup>]</span> who love their money more than themselves the commandment reads, ‘with all that is loved by thee.’”
+“Some people love themselves more than they love their money; to them 'tis said, ‘with all thy soul;’ while for those <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> who love their money more than themselves the commandment reads, ‘with all that is loved by thee.’”
 
 But Rabbi Akiba always expounded the words, “with all thy soul,” to mean “even though thy life be demanded of thee.”
 
@@ -600,7 +600,7 @@ And Papus replied:—
 
 When Rabbi Akiba was led forth to execution, it was just at the time of the morning service.
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 “‘Hear, O Israel! the Lord our God, the Lord is one,’” he exclaimed in a loud and firm voice.
 
@@ -634,7 +634,7 @@ The latter saluted him, and asked:—
 
 “How,” inquired Rabbi Meir, “wouldst thou explain the verse, ‘Better is the end of a thing than the beginning thereof.’ If a man buys merchandise in his youth and meets with losses, is it likely that he will recover his substance in old age? Or, if a person studies God's law in his youth and forgets it, is it probable that it will return to his memory in his latter days?”
 
-“Thy teacher, Akiba, said not so,” replied Elishah; "he explained the verse, 'Better is the end of a thing when <span id="p321">[<sup><small>p. 321</small></sup>]</span> the beginning was good.' My own life proves the soundness of this explanation. On the day when I was admitted into the covenant of Abraham, my father made a great feast. Some of his visitors sang, some of them danced, but the Rabbis conversed upon God's wisdom and His laws. This latter pleased my father, Abuyah, and he said, 'When my son grows up ye shall teach him and he shall become like ye; he did not cause me to study for God's sake but only to make his name famous through me. Therefore, in my latter days have I become wicked and an apostate; and now, return home.”
+“Thy teacher, Akiba, said not so,” replied Elishah; "he explained the verse, 'Better is the end of a thing when <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> the beginning was good.' My own life proves the soundness of this explanation. On the day when I was admitted into the covenant of Abraham, my father made a great feast. Some of his visitors sang, some of them danced, but the Rabbis conversed upon God's wisdom and His laws. This latter pleased my father, Abuyah, and he said, 'When my son grows up ye shall teach him and he shall become like ye; he did not cause me to study for God's sake but only to make his name famous through me. Therefore, in my latter days have I become wicked and an apostate; and now, return home.”
 
 “And wherefore?”
 
@@ -648,7 +648,7 @@ Elishah answered:—
 
 What caused such a learned man as Elishah to turn to evil ways?
 
-It is reported that once while studying the law in the vale of Genusan, he saw a man climbing a tree. The man found a bird's-nest in the tree, and taking the mother with the young ones he still departed in peace. He saw another man who finding a bird's-nest followed the Bible's command and took the young only, allowing the mother to fly away; and yet a serpent stung him as he descended, and he died. “Now,” thought he, "where is the Bible's truth and promises? Is it not written, ‘And the young thou mayest take to thyself, but the mother thou shalt surely let go, that it may be well with thee and that thou mayest live many days.’ Now, where is the long life to this man who <span id="p322">[<sup><small>p. 322</small></sup>]</span> followed the precept, while the one who transgressed it is unhurt?”
+It is reported that once while studying the law in the vale of Genusan, he saw a man climbing a tree. The man found a bird's-nest in the tree, and taking the mother with the young ones he still departed in peace. He saw another man who finding a bird's-nest followed the Bible's command and took the young only, allowing the mother to fly away; and yet a serpent stung him as he descended, and he died. “Now,” thought he, "where is the Bible's truth and promises? Is it not written, ‘And the young thou mayest take to thyself, but the mother thou shalt surely let go, that it may be well with thee and that thou mayest live many days.’ Now, where is the long life to this man who <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> followed the precept, while the one who transgressed it is unhurt?”
 
 He had not heard how Rabbi Akiba expounded this verse, that the days would be long in the future world where all is happiness.
 
@@ -672,7 +672,7 @@ The colleges listened to the appeal and supported the daughters of Elishah.
 
 ---
 
-Rabbi Judah, Rabbi Joseh, and Rabbi Simon were conversing one day, when Judah ben Gerim entered the apartment and sat down with the three. Rabbi Judah was <span id="p323">[<sup><small>p. 323</small></sup>]</span> speaking in a complimentary strain of the Gentiles (Romans). “See,” said he, “how they have improved their cities, how beautiful they have made them, and how much they have done for the comfort and convenience of the citizens; bath-houses, bridges, fine broad streets, surely much credit is due them.”
+Rabbi Judah, Rabbi Joseh, and Rabbi Simon were conversing one day, when Judah ben Gerim entered the apartment and sat down with the three. Rabbi Judah was <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> speaking in a complimentary strain of the Gentiles (Romans). “See,” said he, “how they have improved their cities, how beautiful they have made them, and how much they have done for the comfort and convenience of the citizens; bath-houses, bridges, fine broad streets, surely much credit is due them.”
 
 “Nay,” answered Rabbi Simon, “all that they have done has been from a selfish motive. The bridges bring them in a revenue, for all who use them are taxed; the bath-houses are for their personal adornment—'tis all selfishness, not patriotism.”
 
@@ -686,7 +686,7 @@ So leaving the city, Simon and his son took refuge in a lonely cave. Near its mo
 
 When Rabbi Phineas, his son-in-law, heard of his return, he called upon him at once, and noticing an apparent neglect in the mental and physical condition of his relative, he exclaimed, “Woe, woe! that I meet thee in so sad a condition!”
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 But Rabbi Simon answered:—
 
@@ -716,7 +716,7 @@ So the blind man carried the lame man, and they ate of the figs.
 
 “‘Lo, the blind carried the lame,’ and he punished them accordingly.
 
-“So it is with us. The world is the orchard in which the Eternal King has placed us, to keep watch and ward, <span id="p325">[<sup><small>p. 325</small></sup>]</span> to till its soil and care for its fruit. But the soul and body are the man; if one violates the precepts, so does the other, and after death the soul may not say, ‘It is the fault of the body to which I was tied that I committed sins;’ no, God will do as did the owner of the orchard, as it is written:—
+“So it is with us. The world is the orchard in which the Eternal King has placed us, to keep watch and ward, <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> to till its soil and care for its fruit. But the soul and body are the man; if one violates the precepts, so does the other, and after death the soul may not say, ‘It is the fault of the body to which I was tied that I committed sins;’ no, God will do as did the owner of the orchard, as it is written:—
 
 “‘He shall call from the heaven above, and to the earth to judge his people.’
 
@@ -752,7 +752,7 @@ The emperor replied, “I wish that such thieves would come every night.”
 
 Thus was it with Adam; God took a rib from him, but placed a woman instead of it.
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 Rabbi Joshua, of Saknin, said in the name of Rabbi Levi, “The Lord considered from what part of the man he should form woman; not from the head, lest she should be proud; not from the eyes, lest she should wish to see everything; not from the mouth, lest she might be talkative; nor from the ear, lest she should wish to hear everything; nor from the heart, lest she should be jealous; nor from the hand, lest she should wish to find out everything; nor from the feet in order that she might not be a wanderer; only from the most hidden place, that is covered even when a man is naked—namely, the rib.”
 
@@ -770,7 +770,7 @@ When Rabbi Eleazer was sick his scholars visited him, and said, “Rabbi, teach 
 
 The Rabbi answered, “Give honor to your comrades. Know to whom you pray. Restrain your children from frivolous conversation, and place them among the learned men, in order that they may acquire wisdom. So way you merit life in the future world.”
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 When Rabbi Jochanan was sick his scholars also called upon him. When he beheld them he burst into tears.
 
@@ -782,7 +782,7 @@ The scholars of Rabbi Johanan, the son of Zakai, asked of their teacher this que
 
 “Wherefore is it, that according to the law, the punishment of a highwayman is not as severe as the punishment of a sneak thief? According to the Mosaic law, if a man steals an ox or a sheep, and kills it or sells it, he is required to restore five oxen for the one ox, and four sheep for the one sheep; but for the highwayman we find, ‘When he hath sinned and is conscious of his guilt, he shall restore that he hath taken violently away; he shall restore it and its principal, and the fifth part thereof he shall add thereto.’ Therefore, he who commits a highway robbery pays as punishment one-fifth of the same, while a sneak thief is obliged to return five oxen for one ox, and four sheep for one sheep. Wherefore is this?”
 
-“Because,” replied the teacher, "the highway robber treats the servant as the master. He takes away violently in the presence of the servant, the despoiled man, and the master—God, But the sneak thief imagines that God's eye is not upon him. He acts secretly, thinking, as the Psalmist says, ‘The Lord doth not see, neither will the God of Jacob regard it.’ Listen to a parable. Two men made a <span id="p328">[<sup><small>p. 328</small></sup>]</span> feast. One invited all the inhabitants of the city, and omitted inviting the king. The other invited neither the king nor his subjects. Which one deserves condemnation? Certainly the one who invited the subjects and not the king. The people of the earth are God's subjects. The sneak thief fears their eyes, yet he does not honor the eye of the king, the eye of God, which watches all his actions.”
+“Because,” replied the teacher, "the highway robber treats the servant as the master. He takes away violently in the presence of the servant, the despoiled man, and the master—God, But the sneak thief imagines that God's eye is not upon him. He acts secretly, thinking, as the Psalmist says, ‘The Lord doth not see, neither will the God of Jacob regard it.’ Listen to a parable. Two men made a <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> feast. One invited all the inhabitants of the city, and omitted inviting the king. The other invited neither the king nor his subjects. Which one deserves condemnation? Certainly the one who invited the subjects and not the king. The people of the earth are God's subjects. The sneak thief fears their eyes, yet he does not honor the eye of the king, the eye of God, which watches all his actions.”
 
 Rabbi Meir says, “This law teaches us how God regards industry. If a person steals an ox he must return five in its place, because while the animal was in his unlawful possession it could not work for its rightful owner. A lamb, however, does no labor, and is not profitable that way; therefore he is only obliged to replace it fourfold.”
 
@@ -798,7 +798,7 @@ Rabbi Nachman dined with his teacher, Rabbi Yitzchak, and upon departing after t
 
 “So it is with thee, my pupil. How shall I bless thee? Thou art perfect in the law, eminent in the land, respected, and blessed with means. May God grant that all thy offspring may prove goodly as thyself.”
 
-A wise man, say the Rabbis, was Gebiah ben Pesisah. When the children of Canaan accused the Israelites of stealing <span id="p329">[<sup><small>p. 329</small></sup>]</span> their land, saying, “The land of Canaan is ours, as it is written, ”The land of Canaan and its boundaries belong to the Canaanites,'" and demanded restitution, Gebiah offered to argue the case before the ruler.
+A wise man, say the Rabbis, was Gebiah ben Pesisah. When the children of Canaan accused the Israelites of stealing <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> their land, saying, “The land of Canaan is ours, as it is written, ”The land of Canaan and its boundaries belong to the Canaanites,'" and demanded restitution, Gebiah offered to argue the case before the ruler.
 
 Said Gebiah to the Africans, “Ye bring your proof from the Pentateuch, and by the Pentateuch will I refute it. ‘Cursed be Canaan; a servant of servants shall he be unto his brethren.’ To whom does the property of a slave belong? To his master. Even though the land belonged to ye, through your servitude it became Israel's.”
 
@@ -818,9 +818,9 @@ Again Gebiah appeared as counsel for the sages.
 
 “From the Pentateuch, which is your proof, will I confound ye” said he. “Is it not written ‘Abraham gave all that he had to Isaac, but unto the sons of the concubines that Abraham had, Abraham gave gifts?’ The man who gives his children their inheritance during his life does not design to give it to them again after his death. To Isaac Abraham left all that he had; to his other children he gave gifts, and sent them away.”
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

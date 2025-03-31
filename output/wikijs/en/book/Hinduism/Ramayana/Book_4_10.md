@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:11:38Z
   </table>
 </figure>
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 [1](Book_4_10#fn523)
 
@@ -123,7 +123,7 @@ With startled wild bees' murmuring.
 Thine eyes to yonder Cassias  [^527] turn
 Whose glorious clusters glow and burn.
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 Those trees in yellow robes behold,
 Like giants decked with burnished gold.
@@ -213,7 +213,7 @@ In creatures of inferior kind.
 See how the peahen turns to meet
 Her consort now with love-drawn feet.
 
-<span id="p321">[<sup><small>p. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 So, Lakshman, if my large-eyed dear,
 The child of Janak still were here,
@@ -315,7 +315,7 @@ Gleam with the drops that hang on them.
 Life has no pleasure left for me
 While my dear queen I may not see,
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 Who loved so well those blooms that vie
 With the full splendour of her eye,
@@ -415,7 +415,7 @@ Wake thoughts of anguish in my breast.
 &nbsp;&nbsp;&nbsp;&nbsp;That lotus-covered stream behold
 Whose waters run so fresh and cold,
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 Sweet rill, the wildfowl's loved resort,
 Where curlew, swan, and diver sport;
@@ -534,7 +534,7 @@ Then forth upon his journey went
 The hero on his task intent,
 Nor thought of Pampá's lovely brook,
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 Or trees which murmuring breezes shook,
 Though on dark woods his glances fell,
@@ -638,7 +638,7 @@ Then fear not, lord of Vánar race.
 Alas, in thee I clearly find
 The weakness of the Vánar kind,
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 That loves from thought to thought to range,
 Fix no belief and welcome change.
@@ -732,7 +732,7 @@ Is glorious with the light you bring.
 How have you reached, like Gods in face,
 Best lords of earth, this lonely place,
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 With tresses coiled in hermit guise, [^545]
 And splendours of those lotus eyes?
@@ -840,7 +840,7 @@ And all his heart with joy was stirred.
 And hope that league with them would bring
 Redress and triumph to his king.
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 
 
@@ -932,7 +932,7 @@ Should ever save and prosper all.
 He now to win Sugríva's grace
 Has sought his woodland dwelling-place.
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 Son of a king of glorious fame;—
 Who knows not Das'aratha's name?—
@@ -1044,7 +1044,7 @@ Then, wood with wood engendering, [^555] came
 Neath his deft hands the kindled flame.
 Between the chiefs that fire he placed
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 With wreaths of flowers and worship graced.
 And round its blazing glory went
@@ -1147,7 +1147,7 @@ A solitary moaner's woe.
 But soon, dear Prince, thy heart shall be
 From every trace of sorrow free;
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 For I thy darling will restore,
 Lost like the prize of holy lore. [^559]
@@ -1239,7 +1239,7 @@ Then toll me, Vánar lord, I pray,
 And he, beneath this hand, to-day
 &nbsp;&nbsp;&nbsp;&nbsp;To Yama's halls shall go.’
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 
 
@@ -1360,7 +1360,7 @@ Their constancy and love endure.
 Gold, silver, jewels rich and rare
 They count as wealth for friends to share.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Yea, be they rich or poor and low,
 Blest with all joys or sunk in woe,
@@ -1474,7 +1474,7 @@ Their steps where'er he lists to wend,—
 Through them alone, in toil and pain,
 My wretched life I still sustain.
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 Enough, for thou hast heard in brief
 The story of my pain and grief.
@@ -1586,7 +1586,7 @@ But they, when once the tale was known,
 Placed me as king on Báli's throne.
 There for a while I justly reigned
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 And all with equal care ordained,
 When joyous from the demon slain
@@ -1705,7 +1705,7 @@ To the barred mouth I sadly came,
 And called aloud Sugríva's name.
 But all was still: no voice replied,
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 And hope within my bosom died.
 With furious efforts, vain at first,

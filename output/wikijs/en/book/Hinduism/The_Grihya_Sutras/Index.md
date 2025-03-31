@@ -29,7 +29,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 \[This is the index to the previous section, Âpastamba's Ya<i>g</i><i>g</i>a-Paribhâshâ-Sûtras, not the entire volume. References are to Sûtras (unless a page number is specified explicitly), with a raised c indicating the commentary for the Sûtra. The entries are sorted in Sanskrit alphabetic order.—JBH\]
 
@@ -135,7 +135,7 @@ a<i>s</i>rotriya, person ignorant of the Veda, [2c](Paribhasha_25#an2c).
 
 ash<i>t</i>akâ, [p. 344](Paribhasha_125#p344).
 
-ash<i>t</i>âkapâla, the cake baked in eight cups (at the full-moon and new-moon sacrifices), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76). <span id="p366">[<sup><small>p. 366</small></sup>]</span> asannipâtin, not producing an immediate effect, [42](Paribhasha_50#an42).
+ash<i>t</i>âkapâla, the cake baked in eight cups (at the full-moon and new-moon sacrifices), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76). <span id="p366"><sup><small>[ p. 366 ]</small></sup></span> asannipâtin, not producing an immediate effect, [42](Paribhasha_50#an42).
 
 asamavetârtha, words (of a Mantra) not connected with the sacrifice, [133c](Paribhasha_150#an133c).
 
@@ -265,7 +265,7 @@ ekadevatâ, offering for one deity, [123](Paribhasha_125#an123).
 
 ekaprakara<i>n</i>a, one (typical) performance, [70](Paribhasha_75#an70).
 
-ekamantra, accompanied by one Mantra, [38](Paribhasha_50#an38). <span id="p367">[<sup><small>p. 367</small></sup>]</span> ekâda<i>s</i>akapâla, cake baked in eleven cups (at the full-moon and new- moon sacrifices), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76), [124c](Paribhasha_125#an124c).
+ekamantra, accompanied by one Mantra, [38](Paribhasha_50#an38). <span id="p367"><sup><small>[ p. 367 ]</small></sup></span> ekâda<i>s</i>akapâla, cake baked in eleven cups (at the full-moon and new- moon sacrifices), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76), [124c](Paribhasha_125#an124c).
 
 ekâha, sacrifice accomplished in one day, [140](Paribhasha_150#an140).
 
@@ -389,7 +389,7 @@ dakshi<i>n</i>a, right, [92](Paribhasha_100#an92) (_g_ânu).
 
 dakshi<i>n</i>â, southward, [94](Paribhasha_100#an94).
 
-dakshi<i>n</i>âpavarga, towards the south, [60](Paribhasha_75#an60). <span id="p368">[<sup><small>p. 368</small></sup>]</span> darvihoma, libation from a ladle, [85](Paribhasha_100#an85), ([86](Paribhasha_100#an86) to [91](Paribhasha_100#an91)), [92](Paribhasha_100#an92), [95](Paribhasha_100#an95).
+dakshi<i>n</i>âpavarga, towards the south, [60](Paribhasha_75#an60). <span id="p368"><sup><small>[ p. 368 ]</small></sup></span> darvihoma, libation from a ladle, [85](Paribhasha_100#an85), ([86](Paribhasha_100#an86) to [91](Paribhasha_100#an91)), [92](Paribhasha_100#an92), [95](Paribhasha_100#an95).
 
 dar<i>s</i>apûr<i>s</i>amâsau, the new and full-moon sacrifices, [5](Paribhasha_25#an5), [7c](Paribhasha_25#an7c), [14c](Paribhasha_25#an14c), [111](Paribhasha_125#an111), [114](Paribhasha_125#an114), [122](Paribhasha_125#an122)c, [123c](Paribhasha_125#an123c), [127c](Paribhasha_150#an127c), [148c](Paribhasha_150#an148c), [155c](Paribhasha_159#an155c) to [158c](Paribhasha_159#an158c); [p. 344](Paribhasha_125#p344).
 
@@ -517,7 +517,7 @@ prak<i>ri</i>ti, norm (for a sacrifice), [114](Paribhasha_125#an114), [122c](Par
 
 prak<i>ri</i>tidevatâ, the deity of the prak<i>ri</i>ti, [127](Paribhasha_150#an127).
 
-pra<i>n</i>î, to bring forward (the fire), [159](Paribhasha_159#an159). <span id="p369">[<sup><small>p. 369</small></sup>]</span> pratitantram, at every sacrifice, [29](Paribhasha_50#an29).
+pra<i>n</i>î, to bring forward (the fire), [159](Paribhasha_159#an159). <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> pratitantram, at every sacrifice, [29](Paribhasha_50#an29).
 
 pratinidhâ, to substitute, [135](Paribhasha_150#an135).
 
@@ -647,7 +647,7 @@ yûpa, the sacrificial post for fastening the animal, [130c](Paribhasha_150#an13
 
 yûpadravya, material for the sacrificial post, [150](Paribhasha_150#an150).
 
-rathakâra, chariot-maker, or name of a clan, [2c](Paribhasha_25#an2c). <span id="p370">[<sup><small>p. 370</small></sup>]</span> ratha<i>s</i>abda, the sound of a carriage, [36](Paribhasha_50#an36).
+rathakâra, chariot-maker, or name of a clan, [2c](Paribhasha_25#an2c). <span id="p370"><sup><small>[ p. 370 ]</small></sup></span> ratha<i>s</i>abda, the sound of a carriage, [36](Paribhasha_50#an36).
 
 Râkâ, the full moon on the first day of the lunar phase, [65c](Paribhasha_75#an65c).
 
@@ -785,7 +785,7 @@ sa<i>m</i>nipat, Caus., to let coincide, [45](Paribhasha_50#an45), [96](Paribhas
 
 sa<i>m</i>nî, to offer the Sâ<i>m</i>nâyya, [79](Paribhasha_100#an79).
 
-samavadyo, to divide (the butter), [90](Paribhasha_100#an90). <span id="p371">[<sup><small>p. 371</small></sup>]</span> samavetârtha, words (of a Mantra) connected with the sacrifice, [133c](Paribhasha_150#an133c).
+samavadyo, to divide (the butter), [90](Paribhasha_100#an90). <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> samavetârtha, words (of a Mantra) connected with the sacrifice, [133c](Paribhasha_150#an133c).
 
 samas, to join (ropes), [61](Paribhasha_75#an61), [62](Paribhasha_75#an62).
 

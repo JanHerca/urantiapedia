@@ -44,13 +44,13 @@ The piece is referred to the time of king Hsüan (B.C. 827 to 782).
 
 Level and smooth is the courtyard, And lofty are the pillars around it. Pleasant is the exposure of the chamber to the light, And deep and wide are its recesses. Here will our noble lord repose.
 
-On the rush-mat below and that of fine bamboos above it, May he repose in slumber! May he sleep <span id="p350">[<sup><small>p. 350</small></sup>]</span> and awake, (Saying), ‘Divine for me my dreams [^408]. What dreams are lucky? They have been of bears and grisly bears; They have been of cobras and (other) snakes.’
+On the rush-mat below and that of fine bamboos above it, May he repose in slumber! May he sleep <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> and awake, (Saying), ‘Divine for me my dreams [^408]. What dreams are lucky? They have been of bears and grisly bears; They have been of cobras and (other) snakes.’
 
 The chief diviner will divine them. ‘The bears and grisly bears Are the auspicious intimations of sons; The cobras and (other) snakes Are the auspicious intimations of daughters [^409].’
 
 Sons shall be born to him:—They will be put to sleep on couches; They will be clothed in robes; They will have sceptres to play with; Their cry will be loud. They will be (hereafter) resplendent with red knee-covers, The (future) king, the princes of the land.
 
-Daughters shall be born to him:—They will be put to sleep on the ground; They will be clothed with wrappers; They will have tiles to play with [^410]. It will be theirs neither to do wrong nor to do good [^411]. Only about the spirits and the food will <span id="p351">[<sup><small>p. 351</small></sup>]</span> they have to think, And to cause no sorrow to their parents.
+Daughters shall be born to him:—They will be put to sleep on the ground; They will be clothed with wrappers; They will have tiles to play with [^410]. It will be theirs neither to do wrong nor to do good [^411]. Only about the spirits and the food will <span id="p351"><sup><small>[ p. 351 ]</small></sup></span> they have to think, And to cause no sorrow to their parents.
 
 <a id="o6"></a>
 
@@ -68,7 +68,7 @@ A LAMENTATION OVER THE UNSETTLED STATE OF THE KINGDOM DENOUNCING THE INJUSTICE A
 
 This piece is referred to-the time of king Yû (B.C. 781, to 771), the unworthy son of king Hsüan. The ‘Grand-Master’ Yin must have been one of the ‘three Kung,’ the highest ministers at the court of <i>K</i>âu, and was, probably, the chief of the three, and administrator of the government under Yû.
 
-Lofty is that southern hill [^413], With its masses of rocks! Awe-inspiring are you, O (Grand-)Master <span id="p352">[<sup><small>p. 352</small></sup>]</span> Yin, And the people all look to you! A fire burns in their grieving hearts; They do not dare to speak of you even in jest. The kingdom is verging to extinction;—How is it that you do not consider the state of things?
+Lofty is that southern hill [^413], With its masses of rocks! Awe-inspiring are you, O (Grand-)Master <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> Yin, And the people all look to you! A fire burns in their grieving hearts; They do not dare to speak of you even in jest. The kingdom is verging to extinction;—How is it that you do not consider the state of things?
 
 Lofty is that southern hill, And vigorously grows the vegetation on it! Awe-inspiring are you,—O (Grand-)Master Yin, But how is it that you are so unjust? Heaven is continually redoubling its inflictions; Deaths and disorder increase and multiply; No words of satisfaction come from the people; And yet you do not correct nor bemoan yourself
 
@@ -76,7 +76,7 @@ The Grand-Master Yin Is the foundation of our <i>K</i>âu, And the balance of th
 
 He does nothing himself personally, And the people have no confidence in him. Making no enquiry about them, and no trial of their services, He should not deal deceitfully with superior men. If he dismissed them on the requirement of justice, Mean men would not be endangering (the commonweal); And his mean relatives Would not be in offices of importance.
 
-Great Heaven, unjust, Is sending down these exhausting disorders. Great Heaven, unkind, Is sending down these great miseries. Let superior men come (into office), And that would bring rest to the people's hearts. Let superior men execute <span id="p353">[<sup><small>p. 353</small></sup>]</span> their justice, And the animosities and angers would disappear [^414].
+Great Heaven, unjust, Is sending down these exhausting disorders. Great Heaven, unkind, Is sending down these great miseries. Let superior men come (into office), And that would bring rest to the people's hearts. Let superior men execute <span id="p353"><sup><small>[ p. 353 ]</small></sup></span> their justice, And the animosities and angers would disappear [^414].
 
 O unpitying great Heaven, There is no end to the disorder! With every month it continues to grow, So that the people have no repose. I am as if intoxicated with the grief of my heart. Who holds the ordering of the kingdom? He attends not himself to the government, And the result is toil and pain to the people.
 
@@ -88,7 +88,7 @@ From great Heaven is the injustice, And our king has no repose. (Yet) he will no
 
 I, <i>K</i>iâ-fû, have made this poem, To lay bare a the king's disorders. If you would but change your heart, Then would the myriad regions be nourished.
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 <a id="o8"></a>
 
@@ -100,7 +100,7 @@ Look into the middle of the forest; There are (only) large faggots and small bra
 
 If one say of a hill that it is low, There are its ridges and its large masses. The false calumnies of the people,—How is it that you do not repress them [^417]? You call those experienced ancients, You consult the diviner of dreams. They all say, ‘We are very wise, But who can distinguish the male and female crow [^418]?’
 
-Look at the rugged and stony field;—Luxuriantly rises in it the springing grain. (But) Heaven moves and shakes me, As if it could not overcome me [^419]. <span id="p355">[<sup><small>p. 355</small></sup>]</span> They sought me (at first) to be a pattern (to them), (Eagerly) as if they could not get me; (Now) they regard me with great animosity, And will not use my strength.
+Look at the rugged and stony field;—Luxuriantly rises in it the springing grain. (But) Heaven moves and shakes me, As if it could not overcome me [^419]. <span id="p355"><sup><small>[ p. 355 ]</small></sup></span> They sought me (at first) to be a pattern (to them), (Eagerly) as if they could not get me; (Now) they regard me with great animosity, And will not use my strength.
 
 <a id="o9"></a>
 
@@ -116,13 +116,13 @@ The sun and moon announce evil, Not keeping to their proper paths. Throughout th
 
 Grandly flashes the lightning of the thunder. There is a want of rest, a want of good. The streams all bubble up and overflow. The crags on the hill-tops fall down. High banks become valleys; Deep valleys become hills. Alas for the men of this time! How does (the king) not stop these things?
 
-Hwang-fû is the President; Fan is the Minister <span id="p356">[<sup><small>p. 356</small></sup>]</span> of Instruction; <i>K</i>iâ-po is the (chief) Administrator; <i>K</i>ung-yün is the chief Cook; Ȝâu is the Recorder of the Interior; Khwei is Master of the Horse; Yü is Captain of the Guards; And the beautiful wife blazes, now in possession of her place [^420].
+Hwang-fû is the President; Fan is the Minister <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> of Instruction; <i>K</i>iâ-po is the (chief) Administrator; <i>K</i>ung-yün is the chief Cook; Ȝâu is the Recorder of the Interior; Khwei is Master of the Horse; Yü is Captain of the Guards; And the beautiful wife blazes, now in possession of her place [^420].
 
 This Hwang-fû Will not acknowledge that he is acting. out of season. But why does he call us to move, Without coming and consulting with us? He has removed our walls and roofs; And our fields are all either a marsh or a moor. He says, ‘I am not injuring you; The laws require that thus it should be.’
 
 Hwang-fû is very wise; He has built a great city for himself in Hsiang. He chose three men as his ministers, All of them possessed of great wealth. He could not bring himself to leave a single minister, Who might guard our king. He (also) selected those who had chariots and horses, To go and reside in Hsiang [^421].
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 I have exerted myself to discharge my service, And do not dare to make a report of my toils. Without crime or offence of any kind, Slanderous mouths are loud against me. (But) the calamities of the lower people Do not come down from Heaven. A multitude of (fair) words, and hatred behind the back;—The earnest, strong pursuit of this is from men.
 
@@ -136,7 +136,7 @@ THE WRITER OF THIS PIECE MOURNS OVER THE MISERABLE STATE OF THE KINGDOM, THE INC
 
 Great and wide Heaven, How is it you have contracted your kindness, Sending down death and famine, Destroying all through the kingdom? Compassionate Heaven, arrayed in terrors, How is it you exercise no forethought, no care? Let alone the criminals:—They have suffered for their guilt. But those who have no crime Are indiscriminately involved in ruin.
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 How is it, O great Heaven, That the king will not hearken to the justest words? He is like a man going (astray), Who knows not where he will proceed to. All ye officers, Let each of you attend to his duties. How do ye not stand in awe of one another? Ye do not stand in awe of Heaven.
 

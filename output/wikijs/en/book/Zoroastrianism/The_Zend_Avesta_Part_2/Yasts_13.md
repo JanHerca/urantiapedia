@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 The Fravashi is the inner power in every being that maintains it and makes it grow and subsist. Originally the Fravashis were the same as the Pit<i>ri</i>s of the Hindus or the Manes of the Latins, that is to say, the everlasting and deified souls of the dead (see §§ 49-52); but in course of time they gained a wider domain, and not only men, but gods and even physical objects, like the sky and the earth, &c. (§§ 85-86), had each a Fravashi (see Ormazd et Ahriman, §§ 111-113).
 
@@ -52,7 +52,7 @@ The fifth part (XXVIII, § 129) is devoted to Saoshya<i>n</i><i>t</i> alone; The
 
 The seventh part (XXX, §§ 139-142) is devoted to the holy women of Mazdeism from Hvôvi, Zarathu<i>s</i>tra's wife, down to Srûta<i>t</i>\-fedhri, Vanghu-fedhri, and Ereda<i>t</i>\-fedhri, the future mothers of his three unborn sons.
 
-The second, third, and fourth enumerations all end with the <span id="p180">[<sup><small>p. 180</small></sup>]</span> name of Astva<i>t</i>\-ereta (that is to say, Saoshya<i>n</i><i>t</i>), which shows that they do not refer to successive generations, but to three independent branches, which are each developed apart down to the time of the Saviour.
+The second, third, and fourth enumerations all end with the <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> name of Astva<i>t</i>\-ereta (that is to say, Saoshya<i>n</i><i>t</i>), which shows that they do not refer to successive generations, but to three independent branches, which are each developed apart down to the time of the Saviour.
 
 ---
 
@@ -76,7 +76,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 2\. 'Through their brightness and glory, O Zarathu<i>s</i>tra! I maintain that sky, there above, shining and seen afar, and encompassing this earth all around.
 
-3\. 'It looks like a palace, that stands built of a <span id="p181">[<sup><small>p. 181</small></sup>]</span> heavenly substance [^812], firmly established, with ends that lie afar, shining in its body of ruby over the three-thirds (of the earth) [^813]; it is like a garment inlaid with stars, made of a heavenly substance, that Mazda puts on, along with Mithra and Rashnu and Spe<i>n</i>ta-Ârmaiti, and on no side can the eye perceive the end of it.
+3\. 'It looks like a palace, that stands built of a <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> heavenly substance [^812], firmly established, with ends that lie afar, shining in its body of ruby over the three-thirds (of the earth) [^813]; it is like a garment inlaid with stars, made of a heavenly substance, that Mazda puts on, along with Mithra and Rashnu and Spe<i>n</i>ta-Ârmaiti, and on no side can the eye perceive the end of it.
 
 4\. 'Through their brightness and glory, O Zarathu<i>s</i>tra! I maintain Ardvi Sara Anâhita, the wide-expanding and health-giving, who hates the Daêvas and obeys the laws of Ahura, who is worthy of sacrifice in the material world, worthy of prayer in the material world; the life-increasing and holy, the flocks-increasing and holy, the fold-increasing and holy, the wealth-increasing and holy, the country-increasing and holy [^814];
 
@@ -84,7 +84,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 6\. 'The large river, known afar, that is as large as the whole of all the waters that run along the earth; that runs powerfully from the height Hukairya down to the sea Vouru-Kasha.
 
-7\. 'All the shores of the sea Vouru-Kasha are boiling over, all the middle of it is boiling over, <span id="p182">[<sup><small>p. 182</small></sup>]</span> when she runs down there, when she streams down there, she, Ardvi Sûra Anâhita, who has a thousand cells and a thousand channels; the extent of each of those cells, of each of those channels, is as much as a man can ride in forty days, riding on a good horse.
+7\. 'All the shores of the sea Vouru-Kasha are boiling over, all the middle of it is boiling over, <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> when she runs down there, when she streams down there, she, Ardvi Sûra Anâhita, who has a thousand cells and a thousand channels; the extent of each of those cells, of each of those channels, is as much as a man can ride in forty days, riding on a good horse.
 
 8\. 'From this river of mine alone flow all the waters that spread all over the seven Karshvares; this river of mine alone goes on bringing waters, both in summer and in winter. This river of mine purifies the seed in males, the womb in females, the milk in females’ breasts [^816].
 
@@ -92,7 +92,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 10\. 'Upon which run the many streams and rivers; upon which the many kinds of plants grow up from the ground, to nourish animals and men, to nourish the Aryan nations, to nourish the five kinds of animals [^817], and to help the faithful.
 
-11\. 'Through their brightness and glory, O Zarathu<i>s</i>tra! I maintain in the womb the child that has been conceived, so that it does not die from the <span id="p183">[<sup><small>p. 183</small></sup>]</span> assaults of Vîdôtu [^818], and I develop in it [^819] the bones, the hair, the . . . .  [^820], the entrails, the feet, and the sexual organs.
+11\. 'Through their brightness and glory, O Zarathu<i>s</i>tra! I maintain in the womb the child that has been conceived, so that it does not die from the <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> assaults of Vîdôtu [^818], and I develop in it [^819] the bones, the hair, the . . . .  [^820], the entrails, the feet, and the sexual organs.
 
 12\. 'Had not the awful Fravashis of the faithful given help unto me, those animals and men of mine, of which there are such excellent kinds, would not subsist; strength would belong to the Dru<i>g</i>, the dominion would belong to the Dru<i>g</i>, the material world would belong to the Dru<i>g</i>.
 
@@ -102,7 +102,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 15\. 'Through their brightness and glory the females conceive offspring; through their brightness and glory they bring forth in safety; it is through their brightness and glory when they become blessed with children.
 
-16\. 'Through their brightness and glory a man is born who is a chief in assemblies and meetings [^821], who listens well [^822] to the (holy) words, whom Wisdom <span id="p184">[<sup><small>p. 184</small></sup>]</span> holds dear [^823], and who returns a victor from discussions with Gaotema, the heretic [^824].
+16\. 'Through their brightness and glory a man is born who is a chief in assemblies and meetings [^821], who listens well [^822] to the (holy) words, whom Wisdom <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> holds dear [^823], and who returns a victor from discussions with Gaotema, the heretic [^824].
 
 ‘Through their brightness and glory the sun goes his way; through their brightness and glory the moon goes her way; through their brightness and glory the stars go their way.
 
@@ -112,7 +112,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 18\. 'And the man who in life shall treat the Fravashis of the faithful well, will become a ruler of the country with full power, and a chief most strong; so shall any man of you become, who shall treat Mithra well, the lord of wide pastures, and Ar<i>s</i>tâ<i>t</i>, who makes the world grow, who makes the world increase.
 
-19\. ‘Thus do I proclaim unto thee, O pure Spitama! the vigour and strength, the glory, the help, and the joy that are in the Fravashis of the faithful, <span id="p185">[<sup><small>p. 185</small></sup>]</span> the awful and overpowering Fravashis; and how they come to help me, how they bring assistance unto me, the awful Fravashis of the faithful [^827].’
+19\. ‘Thus do I proclaim unto thee, O pure Spitama! the vigour and strength, the glory, the help, and the joy that are in the Fravashis of the faithful, <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> the awful and overpowering Fravashis; and how they come to help me, how they bring assistance unto me, the awful Fravashis of the faithful [^827].’
 
 ## II.
 
@@ -122,7 +122,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 22\. ' "Who maintain the sky, who maintain the waters, who maintain the earth, who maintain the cattle, who maintain in the womb the child that has been conceived, so that it does not die from the assaults of Vîdôtu, and develop in it the bones, the hair, the . . . ., the entrails, the feet, and the sexual organs [^830];
 
-23\. ' "Who are much-bringing, who move with <span id="p186">[<sup><small>p. 186</small></sup>]</span> awfulness, well-moving, swiftly moving, quickly moving, who move when invoked; who are to be invoked in the conquest of good, who are to be invoked in fights against foes, who are to be invoked in battles;
+23\. ' "Who are much-bringing, who move with <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> awfulness, well-moving, swiftly moving, quickly moving, who move when invoked; who are to be invoked in the conquest of good, who are to be invoked in fights against foes, who are to be invoked in battles;
 
 24\. ' "Who give victory to their invoker, who give boons to their lover, who give health to the sick man, who give good Glory to the faithful man that brings libations and invokes them with a sacrifice and words of propitiation [^831];
 
@@ -132,7 +132,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 26\. We worship the good, strong, beneficent Fravashis of the faithful, who are the mightiest of drivers, the lightest of those driving forwards, the slowest of the retiring [^835], the safest [^835] of all bridges, the least-erring [^835] of all weapons and arms [^836], and who never turn their backs [^837].
 
-27\. At once, wherever they come, we worship them, the good ones, the excellent ones, the good, the strong, the beneficent Fravashis of the faithful. They are to be invoked when the bundles of baresma are tied; they are to be invoked in fights against foes, in battles [^838], and there where gallant men strive to conquer foes. <span id="p187">[<sup><small>p. 187</small></sup>]</span> 28\. Mazda invoked them for help, when he fixed the sky and the waters and the earth and the plants; when Spe<i>n</i>ta-Mainyu fixed the sky, when he fixed the waters, when the earth, when the cattle, when the plants, when the child conceived in the womb, so that it should not die from the assaults of Vîdôtu, and developed in it the bones, the hair, the . . . ., the entrails, the feet, and the sexual organs [^839].
+27\. At once, wherever they come, we worship them, the good ones, the excellent ones, the good, the strong, the beneficent Fravashis of the faithful. They are to be invoked when the bundles of baresma are tied; they are to be invoked in fights against foes, in battles [^838], and there where gallant men strive to conquer foes. <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> 28\. Mazda invoked them for help, when he fixed the sky and the waters and the earth and the plants; when Spe<i>n</i>ta-Mainyu fixed the sky, when he fixed the waters, when the earth, when the cattle, when the plants, when the child conceived in the womb, so that it should not die from the assaults of Vîdôtu, and developed in it the bones, the hair, the . . . ., the entrails, the feet, and the sexual organs [^839].
 
 29\. Spe<i>n</i>ta-Mainyu maintained the sky, and they sustained it from below, they, the strong Fravashis, who sit in silence, gazing with sharp looks; whose eyes and ears are powerful, who bring long joy, high and high-girded; well-moving and moving afar, loud-snorting [^840], possessing riches and a high renown.
 
@@ -144,7 +144,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 31\. We worship the good, strong, beneficent Fravashis of the faithful; whose will is dreadful unto those who vex them; powerfully working and most beneficent; who in battle break the dread arms of their foes and haters.
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 ## VI.
 
@@ -158,7 +158,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 ## VIII.
 
-35\. We worship the good, strong, beneficent Fravashis of the faithful, of high renown, smiting in battle, most strong, shield-bearing and harmless to those who are true, whom both the pursuing and the fleeing invoke for help: the pursuer invokes <span id="p189">[<sup><small>p. 189</small></sup>]</span> them for a swift race, and for a swift race does the fleer invoke them;
+35\. We worship the good, strong, beneficent Fravashis of the faithful, of high renown, smiting in battle, most strong, shield-bearing and harmless to those who are true, whom both the pursuing and the fleeing invoke for help: the pursuer invokes <span id="p189"><sup><small>[ p. 189 ]</small></sup></span> them for a swift race, and for a swift race does the fleer invoke them;
 
 36\. Who turn to that side where are faithful men, most devoted to holiness, and where is the greatest piety, where the faithful man is rejoiced, and where the faithful man is not ill-treated [^844].
 
@@ -174,7 +174,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 ## XI.
 
-40\. We worship the good, strong, beneficent <span id="p190">[<sup><small>p. 190</small></sup>]</span> Fravashis of the faithful; awful, overpowering, and victorious, smiting in battle, sorely wounding, blowing away (the foes), moving along to and fro, of good renown, fair of body, godly of soul, and holy; who give victory to their invoker, who give boons to their lover, who give health to the sick man [^852];
+40\. We worship the good, strong, beneficent <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> Fravashis of the faithful; awful, overpowering, and victorious, smiting in battle, sorely wounding, blowing away (the foes), moving along to and fro, of good renown, fair of body, godly of soul, and holy; who give victory to their invoker, who give boons to their lover, who give health to the sick man [^852];
 
 41\. Who give good glory to him who worships them with a sacrifice, as that man did worship them, the holy Zarathu<i>s</i>tra, the chief of the material world, the head of the two-footed race, in whatever struggle he had to enter, in whatever distress he did fear;
 
@@ -182,7 +182,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness. . . .
 
 43\. They shed Satavaêsa [^855] between the earth and the sky, him to whom the waters belong [^856], who listens to appeals and makes the waters flow and the plants grow up, to nourish animals and men, to nourish the Aryan nations, to nourish the five kinds of animals [^857], and to help the faithful [^858].
 
-44\. Satavaêsa comes down and flows between the earth and the sky, he to whom the waters belong, who listens to appeals and makes the waters and the plants grow up, fair, radiant, and full of <span id="p191">[<sup><small>p. 191</small></sup>]</span> light, to nourish animals and men, to nourish the Aryan nations, to nourish the five kinds of animals, and to help the faithful.
+44\. Satavaêsa comes down and flows between the earth and the sky, he to whom the waters belong, who listens to appeals and makes the waters and the plants grow up, fair, radiant, and full of <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> light, to nourish animals and men, to nourish the Aryan nations, to nourish the five kinds of animals, and to help the faithful.
 
 ## XII.
 
@@ -196,7 +196,7 @@ When the wind blows from behind them [^860] and brings their breath unto men,
 
 48\. And those nations are smitten at one stroke by their fifties and their hundreds, by their hundreds and their thousands, by their thousands and their tens of thousands, by their tens of thousands and their myriads of myriads, against which turn the awful Fravashis of the faithful, along with Mithra and Rashnu, and the awful cursing thought of the wise and the victorious wind.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 ## XIII.
 
@@ -204,7 +204,7 @@ When the wind blows from behind them [^860] and brings their breath unto men,
 
 50\. ‘Who will praise us? Who will offer us a sacrifice? Who will meditate upon us? Who will bless us [^865]? Who will receive us with meat and clothes in his hand [^866] and with a prayer worthy of bliss [^867]? Of which of us will the name be taken for invocation [^868]? Of which of you will the soul be worshipped by you with a sacrifice [^869]? To whom will this gift of ours be given, that he may have never-failing food for ever and ever?’
 
-51\. And the man who offers them up a sacrifice, <span id="p193">[<sup><small>p. 193</small></sup>]</span> with meat and clothes in his hand, with a prayer worthy of bliss, the awful Fravashis of the faithful, satisfied, unharmed, and unoffended, bless thus:
+51\. And the man who offers them up a sacrifice, <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> with meat and clothes in his hand, with a prayer worthy of bliss, the awful Fravashis of the faithful, satisfied, unharmed, and unoffended, bless thus:
 
 52\. ‘May there be in this house flocks of animals and men! May there be a swift horse and a solid chariot! May there be a man who knows how to praise God [^870] and rule in an assembly, who will offer us sacrifices with meat and clothes in his hand, and with a prayer worthy of bliss [^871].’
 
@@ -218,7 +218,7 @@ When the wind blows from behind them [^860] and brings their breath unto men,
 
 55\. We worship the good, strong, beneficent Fravashis of the faithful, who show a beautiful growth to the fertile [^873] plants, which had stood before for a long time in the same place without growing:
 
-56\. And now they grow up along the path made <span id="p194">[<sup><small>p. 194</small></sup>]</span> by Mazda, along the way made by the gods, in the time appointed to them, at the wish of Ahura Mazda, at the wish of the Amesha-Spe<i>n</i>tas.
+56\. And now they grow up along the path made <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> by Mazda, along the way made by the gods, in the time appointed to them, at the wish of Ahura Mazda, at the wish of the Amesha-Spe<i>n</i>tas.
 
 ## XVI.
 
@@ -236,7 +236,7 @@ When the wind blows from behind them [^860] and brings their breath unto men,
 
 ## XIX.
 
-61\. We worship the good, strong, beneficent Fravashis of the faithful, who watch over the body <span id="p195">[<sup><small>p. 195</small></sup>]</span> of Keresâspa, the son of Sâma [^877], the club-bearer with plaited hair, to the number of ninety thousand, and nine thousand, and nine hundred, and ninety-nine.
+61\. We worship the good, strong, beneficent Fravashis of the faithful, who watch over the body <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> of Keresâspa, the son of Sâma [^877], the club-bearer with plaited hair, to the number of ninety thousand, and nine thousand, and nine hundred, and ninety-nine.
 
 ## XX.
 
@@ -248,7 +248,7 @@ When the wind blows from behind them [^860] and brings their breath unto men,
 
 ## XXII.
 
-64\. We worship the good, strong, beneficent Fravashis of the faithful, who are greater, who are <span id="p196">[<sup><small>p. 196</small></sup>]</span> stronger, who are swifter, who are more powerful, who are more victorious, who are more healing, who are more effective than can be expressed by words; who run by tens of thousands into the midst of the Myazdas.
+64\. We worship the good, strong, beneficent Fravashis of the faithful, who are greater, who are <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> stronger, who are swifter, who are more powerful, who are more victorious, who are more healing, who are more effective than can be expressed by words; who run by tens of thousands into the midst of the Myazdas.
 
 65\. And when the waters come up from the sea Vouru-Kasha, O Spitama Zarathu<i>s</i>tra! along with the Glory made by Mazda [^880], then forwards come the awful Fravashis of the faithful, many and many hundreds, many and many thousands, many and many tens of thousands,
 
@@ -260,7 +260,7 @@ When the wind blows from behind them [^860] and brings their breath unto men,
 
 69\. And when the all-powerful sovereign of a country has been surprised by his foes and haters, he invokes them, the awful Fravashis of the faithful.
 
-70\. And they come to his help, if they have not been hurt by him, if they have been rejoiced by him, if they have not been harmed nor offended, the awful Fravashis of the faithful: they come flying unto him, it seems as if they were well-winged birds. <span id="p197">[<sup><small>p. 197</small></sup>]</span> 71\. They come in as a weapon and as a shield, to keep him behind and to keep him in front, from the Dru<i>g</i> unseen, from the female Varenya fiend, from the evil-doer bent on mischief, and from that fiend who is all death, Angra Mainyu. It will be as if there were a thousand men watching over one man [^882];
+70\. And they come to his help, if they have not been hurt by him, if they have been rejoiced by him, if they have not been harmed nor offended, the awful Fravashis of the faithful: they come flying unto him, it seems as if they were well-winged birds. <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> 71\. They come in as a weapon and as a shield, to keep him behind and to keep him in front, from the Dru<i>g</i> unseen, from the female Varenya fiend, from the evil-doer bent on mischief, and from that fiend who is all death, Angra Mainyu. It will be as if there were a thousand men watching over one man [^882];
 
 72\. So that neither the sword well-thrust, neither the club well-falling, nor the arrow well-shot, nor the spear well-darted, nor the stones flung from the arm shall destroy him.
 
@@ -270,7 +270,7 @@ When the wind blows from behind them [^860] and brings their breath unto men,
 
 We worship the souls; those of the tame animals; those of the wild animals; those of the animals that live in the waters; those of the animals that live under the ground; those of the flying ones; those of the running ones; those of the grazing ones [^886].
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 We worship their Fravashis [^887].
 
@@ -294,7 +294,7 @@ We worship them, the effective; we worship them, the most effective.
 
 77\. When Angra Mainyu broke into the creation of the good holiness, then came in across Vohû Manô and Âtar [^889].
 
-78\. They destroyed the malice of the fiend Angra Mainyu, so that the waters did not stop flowing nor did the plants stop growing; but at once the most beneficent waters of the creator and <span id="p199">[<sup><small>p. 199</small></sup>]</span> ruler, Ahura Mazda, flowed forward and his plants went on growing.
+78\. They destroyed the malice of the fiend Angra Mainyu, so that the waters did not stop flowing nor did the plants stop growing; but at once the most beneficent waters of the creator and <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> ruler, Ahura Mazda, flowed forward and his plants went on growing.
 
 79\. We worship all the waters;
 
@@ -316,7 +316,7 @@ We worship the good, strong, beneficent Fravashis of the faithful by their names
 
 82\. We worship the good, strong, beneficent Fravashis of the Amesha-Spe<i>n</i>tas, the bright ones, whose looks perform what they wish, the tall, quickly coming to do, strong, and lordly, who are undecaying and holy;
 
-83\. Who are all seven of one thought, who are all seven of one speech, who are all seven of one deed; whose thought is the same, whose speech is the same, whose deed is the same, whose father and <span id="p200">[<sup><small>p. 200</small></sup>]</span> commander is the same, namely, the Maker, Ahura Mazda;
+83\. Who are all seven of one thought, who are all seven of one speech, who are all seven of one deed; whose thought is the same, whose speech is the same, whose deed is the same, whose father and <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> commander is the same, namely, the Maker, Ahura Mazda;
 
 84\. Who see one another's soul thinking of good thoughts, thinking of good words, thinking of good deeds, thinking of Garô-nmâna, and whose ways [^893] are shining as they go down towards the libations [^894].
 
@@ -344,7 +344,7 @@ That of the living man [^903];
 
 That of the holy creation [^904].
 
-87\. We worship the Fravashi of Gaya Maretan [^905], <span id="p201">[<sup><small>p. 201</small></sup>]</span> who first listened unto the thought and teaching of Ahura Mazda; of whom Ahura formed the race of the Aryan nations, the seed of the Aryan nations.
+87\. We worship the Fravashi of Gaya Maretan [^905], <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> who first listened unto the thought and teaching of Ahura Mazda; of whom Ahura formed the race of the Aryan nations, the seed of the Aryan nations.
 
 We worship the piety and the Fravashi of the holy Zarathu<i>s</i>tra;
 
@@ -352,7 +352,7 @@ We worship the piety and the Fravashi of the holy Zarathu<i>s</i>tra;
 
 89\. Who was the first Priest, the first Warrior, the first Plougher of the ground; who first took the turning of the wheel [^910] from the hands of the Daêva and of the cold-hearted man; who first in the material world pronounced the praise of Asha [^911], thus bringing the Daêvas to naught, and confessed himself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra, one who hates the Daêvas, and obeys the laws of Ahura.
 
-90\. Who first in the material world said the word that destroys the Daêvas, the law of Ahura; who first in the material world proclaimed the word that destroys the Daêvas, the law of Ahura; who <span id="p202">[<sup><small>p. 202</small></sup>]</span> first in the material world declared all the creation of the Daêvas unworthy of sacrifice and prayer; who was strong, giving all the good things of life, the first bearer of the Law amongst the nations;
+90\. Who first in the material world said the word that destroys the Daêvas, the law of Ahura; who first in the material world proclaimed the word that destroys the Daêvas, the law of Ahura; who <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> first in the material world declared all the creation of the Daêvas unworthy of sacrifice and prayer; who was strong, giving all the good things of life, the first bearer of the Law amongst the nations;
 
 91\. In whom was heard the whole Mãthra, the word of holiness; who was the lord and master of the world [^912], the praiser of the most great, most good and most fair Asha [^913]; who had a revelation of the Law, that most excellent of all beings;
 
@@ -364,7 +364,7 @@ We worship the piety and the Fravashi of the holy Zarathu<i>s</i>tra;
 
 95\. ‘There will Mithra, the lord of wide pastures, increase all the excellences of our countries, and allay their troubles; there will the powerful Apãm-Napâ<i>t</i> [^915] increase all the excellences of our countries, and allay their troubles.’
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 We worship the piety and Fravashi of Maidhyô-m<i>a</i>ungha, the son of Arâsti [^916], who first listened unto the word and teaching of Zarathu<i>s</i>tra.
 
@@ -388,7 +388,7 @@ We worship the Fravashi of the holy Fradhidaya.
 
 We worship the Fravashi of the holy Usmânara, the son of Paêshata.
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 We worship the Fravashi of the holy Vohu-rao<i>k</i>ah, the son of Frânya;
 
@@ -408,7 +408,7 @@ We worship the Fravashi of the holy Thrimithwa<i>n</i><i>t</i>, the son of Spit�
 
 We worship the Fravashi of the holy D<i>a</i>ungha, the son of Zairita.
 
-99\. We worship the Fravashi of the holy king Vî<i>s</i>tâspa [^923]; the gallant one, who was the incarnate <span id="p205">[<sup><small>p. 205</small></sup>]</span> Word, the mighty-speared, and lordly one; who, driving the Dru<i>g</i> [^924] before him, sought wide room for the holy religion; who, driving the Dru<i>g</i> [^924] before him, made wide room for the holy religion, who made himself the arm and support of this law of Ahura, of this law of Zarathu<i>s</i>tra.
+99\. We worship the Fravashi of the holy king Vî<i>s</i>tâspa [^923]; the gallant one, who was the incarnate <span id="p205"><sup><small>[ p. 205 ]</small></sup></span> Word, the mighty-speared, and lordly one; who, driving the Dru<i>g</i> [^924] before him, sought wide room for the holy religion; who, driving the Dru<i>g</i> [^924] before him, made wide room for the holy religion, who made himself the arm and support of this law of Ahura, of this law of Zarathu<i>s</i>tra.
 
 100\. Who took her [^925], standing bound [^926], from the hands of the Hunus [^927], and established her to sit in the middle \[of the world\], high ruling, never falling back, holy, nourished with plenty of cattle and pastures, blessed with plenty of cattle and pastures [^927].
 
@@ -426,7 +426,7 @@ We worship the Fravashi of the holy Varâza;
 
 We worship the Fravashi of the holy Bû<i>g</i>i-sravah [^929].
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 We worship the Fravashi of the holy Berezy-ar<i>s</i>ti;
 
@@ -456,7 +456,7 @@ We worship the Fravashi of the holy Âtare-dâta;
 
 We worship the Fravashi of the holy Âtare-<i>k</i>ithra;
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 We worship the Fravashi of the holy Âtare-<i>h</i><i>v</i>arenah;
 
@@ -480,7 +480,7 @@ We worship the Fravashi of the holy Frashao<i>s</i>tra [^935], the son of Hvôva
 
 We worship the Fravashi of the holy <i>G</i>âmâspa [^936], the son of Hvôva;
 
-<span id="p208">[<sup><small>p. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 We worship the Fravashi of the holy Avârao<i>s</i>tri [^937].
 
@@ -496,7 +496,7 @@ We worship the Fravashi of the holy Vohu-nemah, the son of Avârao<i>s</i>tri,
 
 To withstand evil dreams, to withstand evil visions, to withstand evil . . . . [^939], to withstand the evil Pairikas.
 
-105\. We worship the Fravashi of the holy Mãthravâka, the son of Sîmaê<i>z</i>i, the Aêthrapati, the Hamidhpati [^940], who was able to smite down most of the evil, unfaithful Ashemaoghas, that shout the hymns [^941], and acknowledge no lord and no master [^942], the dreadful ones whose Fravashis are to be broken [^943]; to withstand the evil done by the faithful [^944]. <span id="p209">[<sup><small>p. 209</small></sup>]</span> 106\. We worship the Fravashi of the holy Ashastu, the son of Maidhyô-m<i>a</i>ungha [^945].
+105\. We worship the Fravashi of the holy Mãthravâka, the son of Sîmaê<i>z</i>i, the Aêthrapati, the Hamidhpati [^940], who was able to smite down most of the evil, unfaithful Ashemaoghas, that shout the hymns [^941], and acknowledge no lord and no master [^942], the dreadful ones whose Fravashis are to be broken [^943]; to withstand the evil done by the faithful [^944]. <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> 106\. We worship the Fravashi of the holy Ashastu, the son of Maidhyô-m<i>a</i>ungha [^945].
 
 We worship the Fravashi of the holy Avarethrabah, the son of Râstare-vagha<i>n</i><i>t</i>.
 
@@ -516,7 +516,7 @@ We worship the Fravashi of the holy Frâyaodha, the son of Karesna.
 
 We worship the Fravashi of the holy and good Arshya; Arshya, the chief in assemblies, the most energetic of the worshippers of Mazda.
 
-<span id="p210">[<sup><small>p. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 We worship the Fravashi of the holy Dâraya<i>t</i>\-ratha;
 
@@ -550,7 +550,7 @@ We worship the Fravashi of the holy Ashâvanghu, the son of Biva<i>n</i>dangha [
 
 We worship the Fravashi of the holy <i>G</i>arô-danghu, the son of Pairi<i>s</i>tîra [^950];
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 We worship the Fravashi of the holy Neremyazdana, the son of Âthwyôza.
 
@@ -578,7 +578,7 @@ We worship the Fravashi of the holy Khshoiwrâspa, the son of Kh<i>s</i>tâvaên
 
 We worship the Fravashi of the holy Vohv-asti, the son of Pouru-dhâkh<i>s</i>ti;
 
-<span id="p212">[<sup><small>p. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 We worship the Fravashi of the holy Gayadhâsti, the son of Pouru-dhâkh<i>s</i>ti;
 
@@ -608,7 +608,7 @@ We worship the Fravashi of the holy Usinemah.
 
 We worship the Fravashi of the holy Ashaskyaothna, the son of Gayadhâsti [^959].
 
-<span id="p213">[<sup><small>p. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 We worship the Fravashi of the holy Vohu-nemah, the son of Katu;
 
@@ -642,7 +642,7 @@ We worship the Fravashi of the holy Frâ<i>k</i>ya, the son of Taurvâti.
 
 We worship the Fravashi of the holy Vahmaêdâta, the son of Mãthravâka [^962].
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 We worship the Fravashi of the holy U<i>s</i>tra, the son of Sadhanah.
 
@@ -684,7 +684,7 @@ We worship the Fravashi of the holy <i>H</i><i>v</i>âkhshathra.
 
 We worship the Fravashi of the holy Ashô-paoirya.
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 We worship the Fravashi of the holy ASTVA<i>T</i>\-ERETA [^963].
 
@@ -722,7 +722,7 @@ We worship the Fravashi of the holy Frya.
 
 We worship the Fravashi of the holy one whose name is Ashem-yêNhê-vereza;
 
-<span id="p216">[<sup><small>p. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 We worship the Fravashi of the holy one whose name is Ashem-yahmâi-u<i>s</i>tâ [^965].
 
@@ -748,7 +748,7 @@ We worship the Fravashi of the holy Vîsrûtâra.
 
 We worship the Fravashi of the holy Baremna.
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 We worship the Fravashi of the holy Visrûta.
 
@@ -778,7 +778,7 @@ We worship the Fravashi of the holy Avahya, the son of Spe<i>n</i>ta.
 
 We worship the Fravashi of the holy Aêta, the son of Mâyu;
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 We worship the Fravashi of the holy Yaêtu<i>s</i>\-g<i>a</i>u, the son of Vyâtana.
 
@@ -806,7 +806,7 @@ We worship the Fravashi of the holy and pure Avare-g<i>a</i>u, the son of Aoighi
 
 We worship the Fravashi of the holy Gaoma<i>n</i><i>t</i>, the son of Zavan, a Rao<i>z</i>dya man of the Rao<i>z</i>dya land.
 
-We worship the Fravashi of the holy Thri<i>t</i>, the son of Aêvo-saredha-fyaê<i>s</i>ta, a Tanya man of the Tanya land. <span id="p219">[<sup><small>p. 219</small></sup>]</span> 126\. We worship the Fravashi of the holy Tîrô-nakathwa, of the Uspaê<i>s</i>ta-Saêna house [^976].
+We worship the Fravashi of the holy Thri<i>t</i>, the son of Aêvo-saredha-fyaê<i>s</i>ta, a Tanya man of the Tanya land. <span id="p219"><sup><small>[ p. 219 ]</small></sup></span> 126\. We worship the Fravashi of the holy Tîrô-nakathwa, of the Uspaê<i>s</i>ta-Saêna house [^976].
 
 We worship the Fravashi of the holy Utayuti Vi<i>t</i>\-kavi, the son of Zighri, of the Saêna house [^976];
 
@@ -834,7 +834,7 @@ We worship the Fravashi of the holy <i>H</i><i>v</i>are-<i>k</i>aê<i>s</i>man;
 
 We worship the Fravashi of the holy Frâda<i>t</i>\-<i>h</i><i>v</i>arenah;
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 We worship the Fravashi of the holy Vareda<i>t</i>\-<i>h</i><i>v</i>arenah;
 
@@ -850,7 +850,7 @@ We worship the Fravashi of the holy ASTVA<i>T</i>\-ERETA [^984];
 
 ## XXVIII.
 
-129\. Whose name will be the victorious SAOSHYA<i>N</i><i>T</i> and whose name will be Astva<i>t</i>\-ereta. He will be SAOSHYA<i>N</i><i>T</i> (the Beneficent One), because he will benefit the whole bodily world; he will be ASTVA<i>T</i>\-ERETA (he who makes the bodily creatures <span id="p221">[<sup><small>p. 221</small></sup>]</span> rise up), because as a bodily creature and as a living creature he will stand against the destruction of the bodily creatures, to withstand the Dru<i>g</i> of the two-footed brood, to withstand the evil done by the faithful [^985].
+129\. Whose name will be the victorious SAOSHYA<i>N</i><i>T</i> and whose name will be Astva<i>t</i>\-ereta. He will be SAOSHYA<i>N</i><i>T</i> (the Beneficent One), because he will benefit the whole bodily world; he will be ASTVA<i>T</i>\-ERETA (he who makes the bodily creatures <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> rise up), because as a bodily creature and as a living creature he will stand against the destruction of the bodily creatures, to withstand the Dru<i>g</i> of the two-footed brood, to withstand the evil done by the faithful [^985].
 
 ## XXIX.
 
@@ -862,7 +862,7 @@ We worship the Fravashi of the holy Aoshnara, the son of Pouru-<i>g</i>îra [^99
 
 We worship the Fravashi of the holy Uzava, the son of Tûmâspa [^993].
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 We worship the Fravashi of the holy Aghraêratha, the demi-man [^994].
 
@@ -884,7 +884,7 @@ We worship the Fravashi of the holy king Syâvarshan [^999];
 
 We worship the Fravashi of the holy king Husravah [^999];
 
-133\. For the well-shapened Strength [^1000], for the Victory made by Ahura, for the crushing Ascendant; for the righteousness of the law, for the innocence of <span id="p223">[<sup><small>p. 223</small></sup>]</span> the law, for the unconquerable power of the law; for the extermination of the enemies at one stroke;
+133\. For the well-shapened Strength [^1000], for the Victory made by Ahura, for the crushing Ascendant; for the righteousness of the law, for the innocence of <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> the law, for the unconquerable power of the law; for the extermination of the enemies at one stroke;
 
 134\. And for the vigour of health, for the Glory made by Mazda, for the health of the body, and for a good, virtuous offspring, wise, chief in assemblies, bright, and clear-eyed, that frees \[their father\] from the pangs \[of hell\], of good intellect; and for that part in the blessed world that falls to wisdom and to those who do not follow impiety;
 
@@ -896,7 +896,7 @@ We worship the Fravashi of the holy king Husravah [^999];
 
 To withstand the wicked one that deceives his friend and the niggard that causes the destruction of the world [^1006].
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 We worship the Fravashi of the holy and gallant Haoshyangha;
 
@@ -922,7 +922,7 @@ We worship the Fravashi of the holy Huma [^1012].
 
 We worship the Fravashi of the holy Zairi<i>k</i>i.
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 We worship the Fravashi of the holy Vîspa-taurvashi.
 
@@ -958,7 +958,7 @@ We worship the Fravashi of the holy Hu<i>k</i>ithra.
 
 We worship the Fravashi of the holy Kanuka.
 
-<span id="p226">[<sup><small>p. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 We worship the Fravashi of the holy maid Srûta<i>t</i>\-fedhri [^1019].
 
@@ -976,7 +976,7 @@ We worship the Fravashis of the holy women in the Turanian countries.
 
 We worship the Fravashis of the holy men in the Sairimyan countries [^1024];
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 We worship the Fravashis of the holy women in the Sairimyan countries.
 
@@ -996,7 +996,7 @@ We worship the Fravashis of the holy women in all countries.
 
 146\. They protect us when in distress with manifest assistance, with the assistance of Ahura Mazda and of the holy, powerful Sraosha, and with the Mãthra-Spe<i>n</i>ta, the all-knowing, who hates the Daêvas with a mighty hate, a friend of Ahura Mazda, whom Zarathu<i>s</i>tra worshipped so greatly in the material world.
 
-147\. May the good waters and the plants and <span id="p228">[<sup><small>p. 228</small></sup>]</span> the Fravashis of the faithful abide down here! May you be rejoiced and well received in this house! Here are the Âthravans of the countries [^1028], thinking of good holiness. Our hands are lifted up for asking help, and for offering a sacrifice unto you, O most beneficent Fravashis!
+147\. May the good waters and the plants and <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> the Fravashis of the faithful abide down here! May you be rejoiced and well received in this house! Here are the Âthravans of the countries [^1028], thinking of good holiness. Our hands are lifted up for asking help, and for offering a sacrifice unto you, O most beneficent Fravashis!
 
 148\. We worship the Fravashis of all the holy men and holy women whose souls are worthy of sacrifice [^1029], whose Fravashis are worthy of invocation.
 
@@ -1010,7 +1010,7 @@ We worship the men of the primitive law who have been in these houses, boroughs,
 
 We worship the men of the primitive law who are in these houses, boroughs, towns, and countries.
 
-151\. We worship the men of the primitive law <span id="p229">[<sup><small>p. 229</small></sup>]</span> in all houses, boroughs, towns, and countries, who obtained these houses, who obtained these boroughs, who obtained these towns, who obtained these countries, who obtained holiness, who obtained the Mãthra, who obtained the \[blessedness of the\] soul, who obtained all the perfections of goodness.
+151\. We worship the men of the primitive law <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> in all houses, boroughs, towns, and countries, who obtained these houses, who obtained these boroughs, who obtained these towns, who obtained these countries, who obtained holiness, who obtained the Mãthra, who obtained the \[blessedness of the\] soul, who obtained all the perfections of goodness.
 
 152\. We worship Zarathu<i>s</i>tra, the lord and master of all the material world, the man of the primitive law; the wisest of all beings, the best-ruling of all beings, the brightest of all beings, the most glorious of all beings, the most worthy of sacrifice amongst all beings, the most worthy of prayer amongst all beings, the most worthy of propitiation amongst all beings, the most worthy of glorification amongst all beings, whom we call well-desired and worthy of sacrifice and prayer as much as any being can be, in the perfection of his holiness.
 
@@ -1022,7 +1022,7 @@ We worship those good things that stand between (the earth and the heavens) and 
 
 154\. We worship the souls of the wild beasts and of the tame [^1033].
 
-We worship the souls of the holy men and women, born at any time, whose consciences struggle, or will struggle, or have struggled, for the good. <span id="p230">[<sup><small>p. 230</small></sup>]</span> 155\. We worship the spirit, conscience, perception, soul, and Fravashi of the holy men and holy women who struggle, will struggle, or have struggled, and teach the Law, and who have struggled for holiness.
+We worship the souls of the holy men and women, born at any time, whose consciences struggle, or will struggle, or have struggled, for the good. <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> 155\. We worship the spirit, conscience, perception, soul, and Fravashi of the holy men and holy women who struggle, will struggle, or have struggled, and teach the Law, and who have struggled for holiness.
 
 Yê<i>n</i>hê hâtãm: All those beings to whom Ahura Mazda . . .
 

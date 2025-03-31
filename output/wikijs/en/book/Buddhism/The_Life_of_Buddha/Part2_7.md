@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 
 THE Blessed One remembered that King Vimbasara had once expressed a desire to know the law, and he resolved to go to Rajagriha. He set out with the eldest Kasyapa and a few of his new disciples, and he went to live in a wood, near the city.
@@ -49,7 +49,7 @@ He has surely made a mistake,“ said one brahman; ”he should have prostrated 
 
 “Yes,” said another, “Kasyapa is a great master.”
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 “The king has made a strange blunder,” a third added; “he has mistaken the pupil for the master.”
 
@@ -69,7 +69,7 @@ Seven times he prostrated himself, and the crowd exclaimed in admiration:
 
 “Mighty is he who has convinced Kasyapa of his ignorance! Kasyapa thought he was the greatest of teachers, and now see him bow before another! Oh, mighty is he who is Kasyapa's master!”
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Then the Blessed One spoke to them of the four great truths. When he had finished, King Vimbasara approached him, and, in front of them all, boldly uttered these words:
 
@@ -87,7 +87,7 @@ The Master consented. The king left; he knew great happiness.
 
 Many of those who had accompanied the king now followed his example, and professed their faith in the Buddha, in the law and in the community of the saints.
 
-The next day, the inhabitants of Rajagriha left <span id="p138">[<sup><small>p. 138</small></sup>]</span> their homes and went to the wood; they were eager to see the Blessed One; They all admired him, and they praised his power and his glory.
+The next day, the inhabitants of Rajagriha left <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> their homes and went to the wood; they were eager to see the Blessed One; They all admired him, and they praised his power and his glory.
 
 The time came for him to go to the king's palace, but the road was so crowded with spectators that it was impossible to advance a step. Suddenly, a young brahman appeared before the Master. No one knew whence he came. He said:
 
@@ -101,7 +101,7 @@ He had a pleasant voice. He beckoned to the crowd to make way, and they obeyed w
 
 He continued to sing:
 
-“He is here, he who is omniscient, the gentle Master, the sublime Buddha. He is supreme in the world; I am happy to serve him. Not to serve the ignorant, but humbly to serve the wise and to venerate those who are noble: is there in the world a holier joy? To live in a land of peace, to do many good works, to seek the triumph of righteousness: <span id="p139">[<sup><small>p. 139</small></sup>]</span> is there in the world a holier joy? To have skill and knowledge, to love acts of generosity, to walk in the path of justice: is there in the world a holier joy?”
+“He is here, he who is omniscient, the gentle Master, the sublime Buddha. He is supreme in the world; I am happy to serve him. Not to serve the ignorant, but humbly to serve the wise and to venerate those who are noble: is there in the world a holier joy? To live in a land of peace, to do many good works, to seek the triumph of righteousness: <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> is there in the world a holier joy? To have skill and knowledge, to love acts of generosity, to walk in the path of justice: is there in the world a holier joy?”
 
 The young brahman managed to make a way through the crowd, and he led the Master to the palace of King Vimbasara. Then, his work done, he rose from the earth, and upon attaining the highest reaches of the sky, vanished into the light. And the people of Rajagriha knew that a God had deemed it an honor to serve the Buddha and exalt his grandeur.
 
@@ -111,7 +111,7 @@ Vimbasara received the Blessed One with great reverence. At the end of the meal,
 
 The Buddha smiled with pleasure. A golden basin was brought, filled with sweet-scented water. The king took the basin and poured the water over the Master's hands. And he said:
 
-“As this water pours from my hands into your <span id="p140">[<sup><small>p. 140</small></sup>]</span> hands, my Lord, so may the Bamboo Grove pass from my hands into your hands, my Lord.”
+“As this water pours from my hands into your <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> hands, my Lord, so may the Bamboo Grove pass from my hands into your hands, my Lord.”
 
 The earth trembled: the law now had soil in which to take root. And that same day, the Master and his disciples went to live in the Bamboo Grove.
 

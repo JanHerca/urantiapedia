@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 III. 1. He whose dead lieth before him [^141] is exempt from the recitation of the Shma‘, [^142]† and from the Phylacteries. [^142]† In the case of those who
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 **M**.carry the bier, and them who take their places, and them who take the places of these, [^143] including those who are in front of the bier and those who are behind it, and also those who are required for the bier—they are under obligation to recite the Shma‘. Both classes are exempt from the Prayer. [^144]
 
@@ -44,7 +44,7 @@ III. 1. He whose dead lieth before him [^141] is exempt from the recitation of t
 
 2\. When they have buried the dead person and have returned, then if they are able to begin and to finish, [^145] before they reach the line \[of mourners\] [^146] let them begin. But if they cannot, let them not begin. They who are standing in the inner line are exempt, but the outer are under obligation \[to recite the Shma‘\].
 
-**T**. II. 11. When they have buried the dead person and are standing in a row. They in the inner row which sees the face (of the bearers) are free (from obligation to recite), but they in that which does not see the face are under obligation. R. Judah says: If only one row is there they that attend out <span id="p23">[<sup><small>p. 23</small></sup>]</span> of respect are under obligation, they that attend as mourners are free. Suppose they have gone down for the lamentations, they who see the face are free, but they who form the second row after them are under obligation, and all they who take part in the lamentations leave off for the recitation of the Shma‘, but do not leave off for the Prayer. It is recorded that once our Rabbis left off for the recital of the Shma‘ and for the Prayer.
+**T**. II. 11. When they have buried the dead person and are standing in a row. They in the inner row which sees the face (of the bearers) are free (from obligation to recite), but they in that which does not see the face are under obligation. R. Judah says: If only one row is there they that attend out <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> of respect are under obligation, they that attend as mourners are free. Suppose they have gone down for the lamentations, they who see the face are free, but they who form the second row after them are under obligation, and all they who take part in the lamentations leave off for the recitation of the Shma‘, but do not leave off for the Prayer. It is recorded that once our Rabbis left off for the recital of the Shma‘ and for the Prayer.
 
 <a id="m3"></a>
 
@@ -58,17 +58,17 @@ III. 1. He whose dead lieth before him [^141] is exempt from the recitation of t
 
 4\. He who is ceremonially unclean [^148] repeats the Shma‘ in his heart only, and does not say a Benediction either before it or after it. But at a meal he says the Benediction after but not before. [^149] R. Judah says: he says the Benediction before them and after them. [^150]
 
-5\. Should one have begun to stand in the Prayer and then remember that he is ceremonially unclean let him not make a pause, but say the <span id="p24">[<sup><small>p. 24</small></sup>]</span> short form. Should one have gone down to bathe, [^151] if he can come out and cover himself and recite, before the sun actually rises, let him come out and cover himself and recite. But if not, let him cover himself with water and recite. But he must not cover himself with dirty water, nor with water used for steeping flax, [^152] until he has poured water into them. And how far should he move from them, and from excrement? Four cubits.
+5\. Should one have begun to stand in the Prayer and then remember that he is ceremonially unclean let him not make a pause, but say the <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> short form. Should one have gone down to bathe, [^151] if he can come out and cover himself and recite, before the sun actually rises, let him come out and cover himself and recite. But if not, let him cover himself with water and recite. But he must not cover himself with dirty water, nor with water used for steeping flax, [^152] until he has poured water into them. And how far should he move from them, and from excrement? Four cubits.
 
 6\. A man with a running issue, and a woman, at certain times, require the bath. But R. Judah exempts them. (Summary only.)
 
-**T**. II. 12. One ceremonially unclean and ill, who has poured over himself nine qabs [^153] of water, lo, he recites (the Shma‘). But he does not set others free from their obligation [^154] until he enters into a bath [^155] containing forty _seahs_ [^156]. R. Judah says: He must enter into a bath containing forty _seahs_ in any case. [^157] They that have an issue, whether male or female, and women in their separation, and they who are recovering from childbirth, are permitted to read (aloud) in the Law, and to learn in Mishna, and in Midrash, and in Halakoth and <span id="p25">[<sup><small>p. 25</small></sup>]</span> Haggadoth, but they who are ceremonially unclean are forbidden all. R. Jose says: Such a man learns in the Halakoth to which he is accustomed, so long as he does not lay the mishna in order before others. [^158]
+**T**. II. 12. One ceremonially unclean and ill, who has poured over himself nine qabs [^153] of water, lo, he recites (the Shma‘). But he does not set others free from their obligation [^154] until he enters into a bath [^155] containing forty _seahs_ [^156]. R. Judah says: He must enter into a bath containing forty _seahs_ in any case. [^157] They that have an issue, whether male or female, and women in their separation, and they who are recovering from childbirth, are permitted to read (aloud) in the Law, and to learn in Mishna, and in Midrash, and in Halakoth and <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> Haggadoth, but they who are ceremonially unclean are forbidden all. R. Jose says: Such a man learns in the Halakoth to which he is accustomed, so long as he does not lay the mishna in order before others. [^158]
 
 13\. One ceremonially unclean who has no water to bathe himself, lo, he recites the Shim', but not loud enough for himself to hear it, and he does not say the Benedictions either before or after it. Such is the opinion of R. Meir. [^159] But the Majority say: he recites the Shma‘ and that aloud for himself to hear it, he says the Benedictions before and after it. R. Meir said: Once we were sitting in front of R. Aqiba and were reciting the Shma‘, but not aloud for us to hear it, because of a quaestor who was standing at the door. They said to him: A time of danger is no proof. [^160]
 
 14\. Lo, if a man is standing in the open country naked, or doing his work naked—lo, he must cover himself with straw or stubble or anything else, and so recite \[the Shma‘\], in accordance with the saying, It is not praiseworthy for a man to be standing naked; for when the Holy One, blessed be He, created man He did not create him naked. For it is said: “_When I made the cloud his garment and thick darkness his swaddling-band_.” [^161] “When I made the cloud his garment”—this means the sac; "and thick darkness his swaddling-band—this means the placenta. Lo, a man who has an apron of cloth or of leather girded on his loins, lo, he recites \[the Shma‘\]. But in either case the man does not say the Prayer until he covers his heart.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 **T**.
 
@@ -80,7 +80,7 @@ III. 1. He whose dead lieth before him [^141] is exempt from the recitation of t
 
 18\. A man may not stand and pray when he
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 **T**.
 
@@ -92,7 +92,7 @@ feels he ought to relieve nature.' For it is said: _Prepare to meet_ [^167] _thy
 
 21\. Hillel the Elder [^170] says: Show not thyself naked, show not thyself clothed; show not thyself standing, show not thyself sitting; show not thyself laughing, show not thyself weeping; for it is said: "_A time to laugh and a time to weep;_ 
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 **T**.a time to embrace and a time to refrain from embracing." [^171]
 

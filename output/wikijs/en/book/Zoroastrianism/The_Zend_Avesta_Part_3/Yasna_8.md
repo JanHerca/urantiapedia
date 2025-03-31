@@ -40,7 +40,7 @@ It is weal; it is weal to this (man),
 
 When toward Righteousness Best there is right.
 
-I offer the Myazda (of the) meat-offering with a complete and sacred offering; and I offer Haurvatatâ<i>t</i> (who guards the water), and Ameretatâ<i>t</i> (who guards the plants and the wood), and the flesh of the blessed Kine; and I offer the Haoma and the Haoma juice, the wood-billets and the perfume for the praise of Ahura Mazda, and of the Ahuna-vairya, the veracious word, and for that of the pious and beneficent Prayer for blessings, and for the redoubted Curse of the wise, and for the praise of the Haoma, and of the Mãthra of the holy Zarathu<i>s</i>tra; and may it come to us with sacred fulness (to accept and to recompense our gift). <span id="p229">[<sup><small>p. 229</small></sup>]</span> 2\. (The Ratu speaks.) Eat, O ye men, of this Myazda, the meat-offering, ye who have deserved it by your righteousness and correctness!
+I offer the Myazda (of the) meat-offering with a complete and sacred offering; and I offer Haurvatatâ<i>t</i> (who guards the water), and Ameretatâ<i>t</i> (who guards the plants and the wood), and the flesh of the blessed Kine; and I offer the Haoma and the Haoma juice, the wood-billets and the perfume for the praise of Ahura Mazda, and of the Ahuna-vairya, the veracious word, and for that of the pious and beneficent Prayer for blessings, and for the redoubted Curse of the wise, and for the praise of the Haoma, and of the Mãthra of the holy Zarathu<i>s</i>tra; and may it come to us with sacred fulness (to accept and to recompense our gift). <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> 2\. (The Ratu speaks.) Eat, O ye men, of this Myazda, the meat-offering, ye who have deserved it by your righteousness and correctness!
 
 3\. O ye Bountiful Immortals, and thou, the Mazdayasnian law, ye just men and just women, and ye Zaothras, whoever among these Mazdayasnians would call himself a Mazdayasnian desiring to live in the practice of the liberality of Righteousness \[for by sorcery the settlements of Righteousness are ruined\], do ye cause (such an one) to be (still further) taught, (ye), who are the waters, the plants, and the Zaothras!
 
@@ -52,7 +52,7 @@ I offer the Myazda (of the) meat-offering with a complete and sacred offering; a
 
 ---
 
-7\. I will incite, even I who am Zarathu<i>s</i>tra [^948], the <span id="p230">[<sup><small>p. 230</small></sup>]</span> heads of the houses, villages, Za<i>n</i>tus, and provinces, to the careful following of this Religion which is that of Ahura, and according to Zarathu<i>s</i>tra, in their thoughts, their words, and their deeds.
+7\. I will incite, even I who am Zarathu<i>s</i>tra [^948], the <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> heads of the houses, villages, Za<i>n</i>tus, and provinces, to the careful following of this Religion which is that of Ahura, and according to Zarathu<i>s</i>tra, in their thoughts, their words, and their deeds.
 
 8\. I pray for the freedom and glory of the entire existence of the holy (man) while I bless it, and I pray for the repression and shame [^949] of the entire existence [^950] of the wicked.
 

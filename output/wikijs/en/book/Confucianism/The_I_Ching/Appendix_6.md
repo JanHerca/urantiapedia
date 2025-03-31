@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:1:50Z
   </table>
 </figure>
 
-<span id="p433">[<sup><small>p. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 The Orderly Sequence of the Hexagrams  [^297]
 
@@ -44,13 +44,13 @@ The Orderly Sequence of the Hexagrams  [^297]
 
 6-8. Sung is sure to cause the rising up of the multitudes [^300]; and hence it is followed by Sze. Sze has the signification of multitudes [^300], and between multitudes there must be some bond of union. Hence it is followed by Pî, which denotes being attached to.
 
-8-11. (Multitudes in) union must be subjected to some restraint. Hence Pî is followed by Hsiâo <span id="p434">[<sup><small>p. 434</small></sup>]</span> Khû. When things axe subjected to restraint, there come to be rites of ceremony, and hence Hsiâo Khû is followed by Lî [^301]. The treading (on what is proper) leads to Thâi, which issues in a state of freedom and repose, and hence Lî is followed by Thâi.
+8-11. (Multitudes in) union must be subjected to some restraint. Hence Pî is followed by Hsiâo <span id="p434"><sup><small>[ p. 434 ]</small></sup></span> Khû. When things axe subjected to restraint, there come to be rites of ceremony, and hence Hsiâo Khû is followed by Lî [^301]. The treading (on what is proper) leads to Thâi, which issues in a state of freedom and repose, and hence Lî is followed by Thâi.
 
 11-16. Thâi denotes things having free course. They cannot have that for ever, and hence it is followed by Phî (denoting being shut up and restricted). Things cannot for ever be shut up, and hence Phî is followed by Thung Žân. To him who cultivates union with men, things must come to belong, and hence Thung Žân. is followed by Tâ Yû. Those who, have what is great should not allow in themselves the feeling of being full, and hence Tâ Yû is followed by <i>Kh</i>ien. When great possessions are associated with humility, there is sure to be pleasure and satisfaction; and hence <i>Kh</i>ien is followed by Yü.
 
 16-19. Where such complacency is awakened, (he who causes it) is sure to have followers [^302]. They who follow another are sure to have services (to perform), and hence Sui is followed by Kû [^303]. Kû means (the performance of) services. He who performs such services may afterwards become great, and hence Kû is followed by Lin. Lin means great [^303].
 
-19-23. What is great draws forth contemplation, and hence Lin is followed by Kwân. He who attracts contemplation will then bring about the union of others with himself, and hence Kwân is followed by Shih Ho. Shih Ho means union. But things should not be united in a reckless or irregular way, and hence Shih Ho is followed by <span id="p435">[<sup><small>p. 435</small></sup>]</span> Pî. Pî denotes adorning. When ornamentation has been carried to the utmost, its progress comes to an end; and hence Pî is followed by Po. Po denotes decay and overthrow.
+19-23. What is great draws forth contemplation, and hence Lin is followed by Kwân. He who attracts contemplation will then bring about the union of others with himself, and hence Kwân is followed by Shih Ho. Shih Ho means union. But things should not be united in a reckless or irregular way, and hence Shih Ho is followed by <span id="p435"><sup><small>[ p. 435 ]</small></sup></span> Pî. Pî denotes adorning. When ornamentation has been carried to the utmost, its progress comes to an end; and hence Pî is followed by Po. Po denotes decay and overthrow.
 
 23-26. Things cannot be done away for ever. When decadence and overthrow have completed their work at one end, reintegration commences at the other; and hence Po is followed by Fû. When the return (thus indicated) has taken place, we have not any rash disorder, and Fû. is followed by Wû Wang. Given the freedom from disorder and insincerity (which this name denotes), there may be the accumulation (of virtue), and Wû Wang is followed by Tâ <i>Kh</i>û.
 
@@ -58,7 +58,7 @@ The Orderly Sequence of the Hexagrams  [^297]
 
 ## SECTION II
 
-31, 32. Heaven and earth existing, all (material) things then got their existence. All (material) things having existence, afterwards there came male and female. From the existence of male and female there came afterwards husband and wife. From <span id="p436">[<sup><small>p. 436</small></sup>]</span> husband and wife there came father and son. From father and son there came ruler and minister. From ruler and minister there came high and low. When (the distinction of) high and low had existence, afterwards came the arrangements of propriety and righteousness.
+31, 32. Heaven and earth existing, all (material) things then got their existence. All (material) things having existence, afterwards there came male and female. From the existence of male and female there came afterwards husband and wife. From <span id="p436"><sup><small>[ p. 436 ]</small></sup></span> husband and wife there came father and son. From father and son there came ruler and minister. From ruler and minister there came high and low. When (the distinction of) high and low had existence, afterwards came the arrangements of propriety and righteousness.
 
 The rule for the relation of husband and wife is that it should be long-enduring. Hence Hsien is followed by Hăng. Hăng denotes long enduring [^304].
 
@@ -66,7 +66,7 @@ The rule for the relation of husband and wife is that it should be long-enduring
 
 37-40. When the right administration of the family is at an end, misunderstanding and division will ensue; and hence Kiâ <i>Z</i>ăn is followed by Khwei. Khwei denotes misunderstanding and division; and such a state is sure to give rise to difficulties and complications. Khwei therefore is followed by <i>K</i>ien. <i>K</i>ien denotes difficulties; but things cannot remain for ever in such a state. <i>K</i>ien therefore is followed by <i>K</i>ieh, which denotes relaxation and ease.
 
-40-44. In a state of relaxation and ease there are sure to be losses; and hence <i>K</i>ieh is followed <span id="p437">[<sup><small>p. 437</small></sup>]</span> by Sun. But when Sun (or diminution) is going on without end, increase is sure to come. Sun therefore is followed by Yî. When increase goes on without end, there is sure to come a dispersing of it, and hence Yî is followed by Kwâi. Kwâi denotes dispersion. But dispersion must be succeeded by a meeting (again). Hence Kwâi is followed by Kâu, which denotes such meeting.
+40-44. In a state of relaxation and ease there are sure to be losses; and hence <i>K</i>ieh is followed <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> by Sun. But when Sun (or diminution) is going on without end, increase is sure to come. Sun therefore is followed by Yî. When increase goes on without end, there is sure to come a dispersing of it, and hence Yî is followed by Kwâi. Kwâi denotes dispersion. But dispersion must be succeeded by a meeting (again). Hence Kwâi is followed by Kâu, which denotes such meeting.
 
 44-48. When things meet together, a collection is then formed. Hence Kâu is followed by Žhui, which name denotes, being collected. When (good men) are collected and mount to the highest places, there results what we call an upward advance; and hence Žhui is followed by Shăng. When such advance continues without stopping, there is sure to come distress; and hence Shăng is followed by Khwăn. When distress is felt in the height (that has been gained), there is sure to be a return to the ground beneath; and hence Khwăn is followed by Žing.
 
@@ -74,7 +74,7 @@ The rule for the relation of husband and wife is that it should be long-enduring
 
 49-55. For changing the substance of things there is nothing equal to the caldron; and hence Kö is followed by Ting. For presiding over (that and all other) vessels, no one is equal to the eldest son, and hence Ting is followed by <i>K</i>ăn. <i>K</i>ăn conveys the idea of putting in motion. But things cannot be kept in motion forever. The motion is stopped; and hence <i>K</i>ăn is followed by Kăn, which gives the idea of arresting or stopping. Things cannot be kept for ever in a state of repression, and hence Kăn is followed by <i>K</i>ien, which gives the idea of
 
-<span id="p438">[<sup><small>p. 438</small></sup>]</span>
+<span id="p438"><sup><small>[ p. 438 ]</small></sup></span>
 
 (gradually) advancing. With advance there must be a certain point that is arrived at, and hence Kien is succeeded by Kwei Mei. When things thus find the proper point to which to come, they are sure to become great. Hence Kwei Mei is succeeded by Făng, which conveys the idea of being great.
 
@@ -84,9 +84,9 @@ The rule for the relation of husband and wife is that it should be long-enduring
 
 59-62. A state of division cannot continue for ever, and therefore Hwan is followed by Žieh. Žieh (or the system of regulations) having been established, men believe in it, and hence it is followed by <i>K</i>ung Fû. When men have the belief which <i>K</i>ung Fû implies, they are sure to carry it into practice; and hence it is succeeded by Hsiâo Kwo.
 
-62-64. He that surpasses others is sure to remedy (evils that exist), and therefore Hsiâo Kwo is succeeded by <i>K</i>î Žî. But the succession of events cannot come to an end, and therefore <i>K</i>î Žî is <span id="p439">[<sup><small>p. 439</small></sup>]</span> succeeded by Wei Žî, with which (the hexagrams) come to a close.
+62-64. He that surpasses others is sure to remedy (evils that exist), and therefore Hsiâo Kwo is succeeded by <i>K</i>î Žî. But the succession of events cannot come to an end, and therefore <i>K</i>î Žî is <span id="p439"><sup><small>[ p. 439 ]</small></sup></span> succeeded by Wei Žî, with which (the hexagrams) come to a close.
 
-<span id="p440">[<sup><small>p. 440</small></sup>]</span>
+<span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 
 
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:14Z
   </table>
 </figure>
 
-<span id="p418">[<sup><small>p. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 All the errata Eggeling which specifies here have been fixed in the etext using the linked errata file. These are marked \*(Eggeling)\* in the errata file.—JBH
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 SIXTH ADHYÂYA.
 
@@ -48,7 +48,7 @@ SIXTH ADHYÂYA.
 
 5\. And that Self, consisting of (knowledge), is Brahman (m.) [^609], it is Indra, it is Pra<i>g</i>âpati [^610]. All these Devas, these five great elements, earth, air, ether, water, fire, these and those which are, as it were, small and mixed [^611], and seeds of this kind and that kind, born from eggs, born from the womb., born from heat, born from germs [^612], horses, cows, men, elephants, and whatsoever breathes, whether walking or flying, and what is immoveable—all that is led (produced) by knowledge (the Self).
 
-6\. It rests on knowledge (the Self). The world <span id="p246">[<sup><small>p. 246</small></sup>]</span> is led (produced) by knowledge (the Self). Knowledge is its cause [^613].
+6\. It rests on knowledge (the Self). The world <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> is led (produced) by knowledge (the Self). Knowledge is its cause [^613].
 
 7\. Knowledge is Brahman. (3)
 

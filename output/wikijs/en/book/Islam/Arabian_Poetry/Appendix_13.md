@@ -67,7 +67,7 @@ Where sunshine settles, and whence clouds retreat;
 Firm is its base, its summit seeks the skies,
 O’erlooks the storm, and all its rage defies.—_Ret. Rev._
 
-<span id="p403">[<sup><small>p. 403</small></sup>]</span>
+<span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 
 vv. 25, 26. The “dark rock” is the glory and great name of the tribe, says Mr Lyall, in a note on the following parallel verses, from the spirited song of ‘Abd-el-Melik, son of ‘Abd-er-Rahīm, of the Benu-d-Dayyān (“Songs from the _Hamāseh_,” &c.):
 
@@ -96,7 +96,7 @@ v. 30. “Concealing hatred in our bosoms, as the mote is concealed in the close
 
 v 34. “The sacred month”: see note on v. 3, Lebīd.
 
-v. 37. Al Mondar, the son of Amriolkais the son of Numan, and of Maiwiah, the daughter of Aus, a lady of such transcendent beauty that she was called Maissamai, _i.e._ “water of heaven,” governed after his father in Hīra. From his mother he and his posterity were likewise surnamed Al Mondar Ebn Maissamai, which appellation they had in common with the Kings of Ghassan, according to Al Jauharius. For these last princes were so denominated from Abu Amer, of the tribe of Azd, the father of Amru Mazikia, who, by his surprising liberality and beneficence, supplied the want of rain, furnishing his people with corn when an extreme drought had rendered it so dear that they were incapable of buying it. This prince was deposed by <span id="p404">[<sup><small>p. 404</small></sup>]</span> Khosru Kobad, King of Persia.—_Ancient Universal History_, vol. xviii., p. 432.
+v. 37. Al Mondar, the son of Amriolkais the son of Numan, and of Maiwiah, the daughter of Aus, a lady of such transcendent beauty that she was called Maissamai, _i.e._ “water of heaven,” governed after his father in Hīra. From his mother he and his posterity were likewise surnamed Al Mondar Ebn Maissamai, which appellation they had in common with the Kings of Ghassan, according to Al Jauharius. For these last princes were so denominated from Abu Amer, of the tribe of Azd, the father of Amru Mazikia, who, by his surprising liberality and beneficence, supplied the want of rain, furnishing his people with corn when an extreme drought had rendered it so dear that they were incapable of buying it. This prince was deposed by <span id="p404"><sup><small>[ p. 404 ]</small></sup></span> Khosru Kobad, King of Persia.—_Ancient Universal History_, vol. xviii., p. 432.
 
 v. 38. “The Day of Hayarin”: see note on vv. 25, 26.
 

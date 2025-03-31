@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T12:2:15Z
 
 THE KING, ENTERTAINING THE CHIEF AMONG THE FEUDAL PRINCES, EXPRESSES HIS ADMIRATION OF THEM, AND GOOD WISHES FOR THEM.
 
-They flit about, the greenbeaks [^461], With their <span id="p374">[<sup><small>p. 374</small></sup>]</span> variegated wings, To be rejoiced in are these princes! May they receive the blessing of Heaven [^462]!
+They flit about, the greenbeaks [^461], With their <span id="p374"><sup><small>[ p. 374 ]</small></sup></span> variegated wings, To be rejoiced in are these princes! May they receive the blessing of Heaven [^462]!
 
 <a id="o6"></a>
 
@@ -50,7 +50,7 @@ AGAINST DRUNKENNESS. DRINKING ACCORDING TO RULE AT ARCHERY CONTESTS AND THE SEAS
 
 There are good grounds for referring the authorship of this piece to duke Wû of Wei (B.C. 812 to 7 58), who played an important part in the kingdom, during the affairs which terminated in the death of king Yû, and the removal of the capital from Hâo to Lo. The piece, we may suppose, is descriptive of things as they were at the court of king Yû.
 
-When the guests first approach the mats [^463], They take their, places on the left and the right in an orderly manner. The dishes of bamboo and wood are arranged in rows, With the sauces and kernels displayed in them. The spirits are mild and good, And they drink, all equally reverent. The bells and drums are properly arranged [^464], And they raise their pledge-cups with order and ease [^465]. (Then) the great <span id="p375">[<sup><small>p. 375</small></sup>]</span> target is set up; The bows and arrows are made ready for the shooting. The archers are arranged in classes; ‘Show your skill in shooting,’ (it is said by one). ‘I shall hit that mark’ (is the response), ‘And pray you to drink the cup [^466]’.
+When the guests first approach the mats [^463], They take their, places on the left and the right in an orderly manner. The dishes of bamboo and wood are arranged in rows, With the sauces and kernels displayed in them. The spirits are mild and good, And they drink, all equally reverent. The bells and drums are properly arranged [^464], And they raise their pledge-cups with order and ease [^465]. (Then) the great <span id="p375"><sup><small>[ p. 375 ]</small></sup></span> target is set up; The bows and arrows are made ready for the shooting. The archers are arranged in classes; ‘Show your skill in shooting,’ (it is said by one). ‘I shall hit that mark’ (is the response), ‘And pray you to drink the cup [^466]’.
 
 The dancers move with their flutes to the notes of the organ and drum, While all the instruments perform in harmony. All this is done to please the meritorious ancestors, Along with the observance of all ceremonies. When all the ceremonies have been fully performed, Grandly and fully, (The personators of the dead say), ‘We confer on you great blessings, And may your descendants, also be happy!’ These are happy and delighted, And each of them exerts his ability. A guest [^467] draws the spirits; An attendant enters again with a cup, And fills it,—the cup of rest [^467]. Thus are performed your seasonal ceremonies [^468].
 

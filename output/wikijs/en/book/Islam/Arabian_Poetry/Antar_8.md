@@ -62,7 +62,7 @@ He is my support and stay against those who, when they see my exaltation, would 
 
 He is a king to whose name princes shall bow, and Shall point at him to pay their homage.
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 He is the asylum of all who refer to him to dissipate their sorrows, as he relieves my griefs.
 
@@ -82,7 +82,7 @@ I am the friend of sorrow and desire. I am o’erwhelmed by them, and I am worn 
 
 I complain to God of my afflictions and my love; and to no one else do I complain.
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 Abla was deeply moved by Antar's evident distress, for she loved him both for his courage and his eloquence. “Where,” said she, playfully, “is my share of thy plunder, cousin? Am I now of no consequence to thee?”—“Truly,” replied he, “I gave all to thy father and thy uncles.” He then gave her the two female slaves and the jewels he had received from the King; but the perfumes he divided among his aunts, telling Abla that she had no need of them, her breath being sweeter than any perfumes.
 

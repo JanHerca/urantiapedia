@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 CHAPTER III., Verse 16.—God bears witness that there is no God but He, and the angels, and those possessed of knowledge standing up for justice. There is no God but He, the Mighty, the Wise…
 
@@ -44,7 +44,7 @@ Chapter VIII., Verse 12.—When your Lord inspired the angels—“Verily, I am 
 
 That is, because they went into opposition against God and His apostle; for he who goes into opposition against God and His apostle—verily, God is keen to punish.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Chapter XVI., Verse 3.—He sends down the angels with the Spirit at His bidding upon whom He will of His servants (to say), “Give warning that there is no God but Me.”
 

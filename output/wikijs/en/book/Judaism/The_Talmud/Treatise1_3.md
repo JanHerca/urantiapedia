@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 1\. He whose dead lies before him is exempted from reciting the Shemah,—from the prayer,—and from the phylacteries. [^22] Those who carry the bier, and those who relieve them, and those who relieve the relief, those who go before the bier, and those who follow it, who are required for the bier, are exempted from reciting the Shemah. But those not required for the bier are bound to recite it. Both (parties) are exempted from the prayer.
 

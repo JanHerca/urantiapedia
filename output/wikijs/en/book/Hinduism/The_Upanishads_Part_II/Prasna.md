@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span> p. 269 p. 270 p. 271
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span> p. 269 p. 270 p. 271
 
 PRAS_Ñ_A-UPANISHAD.
 
@@ -44,7 +44,7 @@ Adoration to the Highest Self! Hari<i>h</i>, Om!
 
 2\. That <i>Ri</i>shi said to them: ‘Stay here a year longer, with penance, abstinence, and faith; then you may ask questions according to your pleasure, and if we know them, we shall tell you all.’
 
-3\. Then [^870] Kabandhin Kâtyâyana approached him and asked: ‘Sir, from whence may these creatures be born?’ <span id="p272">[<sup><small>p. 272</small></sup>]</span> 4\. He replied: ‘Pra<i>g</i>âpati (the lord of creatures) was desirous of creatures (pra<i>g</i>â<i>h</i>). He performed penance’ [^871], and having performed penance, he produces a pair, matter (rayi) and spirit (prâ<i>n</i>a), thinking that they together should produce creatures for him in many ways.
+3\. Then [^870] Kabandhin Kâtyâyana approached him and asked: ‘Sir, from whence may these creatures be born?’ <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> 4\. He replied: ‘Pra<i>g</i>âpati (the lord of creatures) was desirous of creatures (pra<i>g</i>â<i>h</i>). He performed penance’ [^871], and having performed penance, he produces a pair, matter (rayi) and spirit (prâ<i>n</i>a), thinking that they together should produce creatures for him in many ways.
 
 5 [^872]. The sun is spirit, matter is the moon. All this, what has body and what has no body, is matter, and therefore body indeed is matter.
 
@@ -54,7 +54,7 @@ Adoration to the Highest Self! Hari<i>h</i>, Om!
 
 8 [^873]. (They knew) him who assumes all forms, the golden [^874], who knows all things, who ascends highest, alone in his splendour, and warms us; the thousand-rayed, who abides in a hundred places, the spirit of all creatures, the Sun, rises.
 
-9\. The year indeed is Pra<i>g</i>âpati, and there are two paths thereof, the Southern and the Northern. Now those who here believe in sacrifices and pious gifts as work done, gain the moon only as their <span id="p273">[<sup><small>p. 273</small></sup>]</span> (future) world, and return again. Therefore the <i>Ri</i>shis who desire offspring, go to the South, and that path of the Fathers is matter (rayi).
+9\. The year indeed is Pra<i>g</i>âpati, and there are two paths thereof, the Southern and the Northern. Now those who here believe in sacrifices and pious gifts as work done, gain the moon only as their <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> (future) world, and return again. Therefore the <i>Ri</i>shis who desire offspring, go to the South, and that path of the Fathers is matter (rayi).
 
 10\. But those who have sought the Self by penance, abstinence, faith, and knowledge, gain by the Northern path Âditya, the sun. This is the home of the spirits, the immortal, free from danger, the highest. From thence they do not return, for it is the end. Thus says the <i>S</i>loka [^875]:
 
@@ -66,7 +66,7 @@ Adoration to the Highest Self! Hari<i>h</i>, Om!
 
 14\. Food is Pra<i>g</i>âpati. Hence proceeds seed, and from it these creatures are born.
 
-15\. Those therefore who observe this rule of Pra<i>g</i>âpati (as laid down in § 13), produce a pair, and to them belongs this Brahma-world here [^878]. But <span id="p274">[<sup><small>p. 274</small></sup>]</span> those in whom dwell penance, abstinence, and truth,
+15\. Those therefore who observe this rule of Pra<i>g</i>âpati (as laid down in § 13), produce a pair, and to them belongs this Brahma-world here [^878]. But <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> those in whom dwell penance, abstinence, and truth,
 
 16\. To them belongs that pure Brahma-world, to them, namely, in whom there is nothing crooked, nothing false, and no guile.’
 
@@ -79,7 +79,7 @@ Adoration to the Highest Self! Hari<i>h</i>, Om!
 
 3 [^882]. Then Prâ<i>n</i>a (breath, spirit, life), as the best, said to them: Be not deceived, I alone, dividing myself fivefold, support this body and keep it.
 
-4\. They were incredulous; so he, from pride, did as if he were going out from above. Thereupon, <span id="p275">[<sup><small>p. 275</small></sup>]</span> as he went out, all the others went out, and as he returned, all the others returned. As bees go out when their queen [^883] goes out, and return when she returns, thus (did) speech, mind, eye, and ear; and, being satisfied, they praise Prâ<i>n</i>a, saying:
+4\. They were incredulous; so he, from pride, did as if he were going out from above. Thereupon, <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> as he went out, all the others went out, and as he returned, all the others returned. As bees go out when their queen [^883] goes out, and return when she returns, thus (did) speech, mind, eye, and ear; and, being satisfied, they praise Prâ<i>n</i>a, saying:
 
 5\. He is Agni (fire), he shines as Sûrya (sun), he is Par<i>g</i>anya (rain), the powerful (Indra), he is Vâyu, (wind), he is the earth, he is matter, he is God—he is what is and what is not, and what is immortal.
 
@@ -91,7 +91,7 @@ Adoration to the Highest Self! Hari<i>h</i>, Om!
 
 9\. O Prâ<i>n</i>a, thou art Indra by thy light, thou art Rudra, as a protector; thou movest in the sky, thou art the sun, the lord of lights.
 
-10\. When thou showerest down rain, then, O Prâ<i>n</i>a, these creatures of thine are delighted [^886], hoping that there will be food, as much as they desire. <span id="p276">[<sup><small>p. 276</small></sup>]</span> 11\. Thou art a Vrâtya [^887], O Prâ<i>n</i>a, the only <i>Ri</i>shi [^888], the consumer of everything, the good lord. We are the givers of what thou hast to consume, thou, O Mâtari<i>s</i>va [^889], art our father.
+10\. When thou showerest down rain, then, O Prâ<i>n</i>a, these creatures of thine are delighted [^886], hoping that there will be food, as much as they desire. <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> 11\. Thou art a Vrâtya [^887], O Prâ<i>n</i>a, the only <i>Ri</i>shi [^888], the consumer of everything, the good lord. We are the givers of what thou hast to consume, thou, O Mâtari<i>s</i>va [^889], art our father.
 
 12\. Make propitious that body of thine which dwells in speech, in the ear, in the eye, and which pervades the mind; do not go away!
 
@@ -104,13 +104,13 @@ Adoration to the Highest Self! Hari<i>h</i>, Om!
 
 2\. He replied: 'You ask questions more difficult, but you are very fond of Brahman, therefore I shall tell it you.
 
-3\. This Prâ<i>n</i>a (spirit) is born of the Self. Like the shadow thrown on a man, this (the prâ<i>n</i>a) is <span id="p277">[<sup><small>p. 277</small></sup>]</span> spread out over it (the Brahman) [^891]. By the work of the mind [^892] does it come into this body.
+3\. This Prâ<i>n</i>a (spirit) is born of the Self. Like the shadow thrown on a man, this (the prâ<i>n</i>a) is <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> spread out over it (the Brahman) [^891]. By the work of the mind [^892] does it come into this body.
 
 4\. As a king commands officials, saying to them: Rule these villages or those, so does that Prâ<i>n</i>a (spirit) dispose the other prâ<i>n</i>as, each for their separate work.
 
 5\. The Apâna (the down-breathing) in the organs of excretion and generation; the Prâ<i>n</i>a himself dwells in eye and ear, passing through mouth and nose. In the middle is the Samâna [^893] (the on-breathing); it carries what has been sacrificed as food equally (over the body), and the seven lights proceed from it.
 
-6\. The Self [^894] is in the heart. There are the 101 arteries, and in each of them there are a hundred (smaller veins), and for each of these branches there are 72,000 [^895]. In these the Vyâna (the back-breathing) moves. <span id="p278">[<sup><small>p. 278</small></sup>]</span> 7\. Through one of them, the Udâna (the out-breathing) leads (us) upwards to the good world by good work, to the bad world by bad work, to the world of men by both.
+6\. The Self [^894] is in the heart. There are the 101 arteries, and in each of them there are a hundred (smaller veins), and for each of these branches there are 72,000 [^895]. In these the Vyâna (the back-breathing) moves. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> 7\. Through one of them, the Udâna (the out-breathing) leads (us) upwards to the good world by good work, to the bad world by bad work, to the world of men by both.
 
 8\. The sun rises as the external Prâ<i>n</i>a, for it assists the Prâ<i>n</i>a in the eye [^896]. The deity that exists in the earth, is there in support of man's Apâna (down-breathing). The ether between (sun and earth) is the Samâna (on-breathing), the air is Vyâna (back-breathing).
 
@@ -123,7 +123,7 @@ Adoration to the Highest Self! Hari<i>h</i>, Om!
 12\. He who has known the origin [^898], the entry, the place, the fivefold distribution, and the internal state [^899] of the Prâ<i>n</i>a, obtains immortality, yes, obtains immortality.’
 
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 ## FOURTH QUESTION.
 
@@ -133,7 +133,7 @@ Adoration to the Highest Self! Hari<i>h</i>, Om!
 
 3\. The fires of the prâ<i>n</i>as are, as it were [^901], awake in that town (the body). The Apâna is the Gârhapatya fire, the Vyâna the Anvâhâryapa<i>k</i>ana fire; and because it is taken out of the Gârhapatya fire, which is fire for taking out [^902], therefore the Prâ<i>n</i>a is the Âhavanîya fire [^903].
 
-Now the Apâna is identified with the Gârhapatya fire, no reason being given except afterwards, when it is said that the Prâ<i>n</i>a is the Âhavanîya fire, being taken out of the Gârhapatya, here called p. 280 pra<i>n</i>ayana, in the same manner as the prâ<i>n</i>a proceeds in sleep from the apâna. The Vyâna is identified with the Dakshi<i>n</i>âgni, the Southern fire, because it issues from the heart through an aperture on the right. <span id="p280">[<sup><small>p. 280</small></sup>]</span> 4\. Because it carries equally these two oblations, the out-breathing and the in-breathing, the Samâna is he (the Hot<i>ri</i> priest) [^904]. The mind is the sacrificer, the Udâna is the reward of the sacrifice, and it leads the sacrificer every day (in deep sleep) to Brahman.
+Now the Apâna is identified with the Gârhapatya fire, no reason being given except afterwards, when it is said that the Prâ<i>n</i>a is the Âhavanîya fire, being taken out of the Gârhapatya, here called p. 280 pra<i>n</i>ayana, in the same manner as the prâ<i>n</i>a proceeds in sleep from the apâna. The Vyâna is identified with the Dakshi<i>n</i>âgni, the Southern fire, because it issues from the heart through an aperture on the right. <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> 4\. Because it carries equally these two oblations, the out-breathing and the in-breathing, the Samâna is he (the Hot<i>ri</i> priest) [^904]. The mind is the sacrificer, the Udâna is the reward of the sacrifice, and it leads the sacrificer every day (in deep sleep) to Brahman.
 
 5\. There that god [^905] (the mind) enjoys in sleep greatness. What has been seen, he [^905] sees again; what has been heard, he hears again; what has been enjoyed in different countries and quarters, he enjoys again; what has been seen and not seen, heard and not heard, enjoyed and not enjoyed, he sees it all; he, being all, sees.
 
@@ -141,7 +141,7 @@ Now the Apâna is identified with the Gârhapatya fire, no reason being given ex
 
 7\. And, O friend, as birds go to a tree to roost, thus all this rests in the Highest Âtman,—
 
-8\. The earth and its subtile elements, the water and its subtile elements, the light and its subtile elements, the air and its subtile elements, the ether and its subtile elements; the eye and what can be <span id="p281">[<sup><small>p. 281</small></sup>]</span> seen, the ear and what can be heard, the nose and what can be smelled, the taste and what can be tasted, the skin and what can be touched, the voice and what can be spoken, the hands and what can be grasped, the feet and what can be walked, the mind and what can be perceived, intellect (buddhi) and what can be conceived, personality and what can be personified, thought and what can be thought, light and what can be lighted up, the Prâ<i>n</i>a and what is to be supported by it.
+8\. The earth and its subtile elements, the water and its subtile elements, the light and its subtile elements, the air and its subtile elements, the ether and its subtile elements; the eye and what can be <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> seen, the ear and what can be heard, the nose and what can be smelled, the taste and what can be tasted, the skin and what can be touched, the voice and what can be spoken, the hands and what can be grasped, the feet and what can be walked, the mind and what can be perceived, intellect (buddhi) and what can be conceived, personality and what can be personified, thought and what can be thought, light and what can be lighted up, the Prâ<i>n</i>a and what is to be supported by it.
 
 9\. For he it is who sees, hears, smells, tastes, perceives, conceives, acts, he whose essence is knowledge [^907], the person, and he dwells in the highest, indestructible Self,—
 
@@ -154,7 +154,7 @@ Now the Apâna is identified with the Gârhapatya fire, no reason being given ex
 
 1\. Then <i>S</i>aivya Satyakâma asked him:—‘Sir, if some one among men should meditate here until death on the syllable Om, what would he obtain by it?’
 
-2\. He replied: 'O Satyakâma, the syllable Om (AUM) is the highest and also the other Brahman; <span id="p282">[<sup><small>p. 282</small></sup>]</span> therefore he who knows it arrives by the same means [^908] at one of the two.
+2\. He replied: 'O Satyakâma, the syllable Om (AUM) is the highest and also the other Brahman; <span id="p282"><sup><small>[ p. 282 ]</small></sup></span> therefore he who knows it arrives by the same means [^908] at one of the two.
 
 3\. If he meditate on one Mâtrâ (the A) [^909], then, being enlightened by that only, he arrives quickly at the earth [^910]. The <i>Ri</i><i>k</i>\-verses lead him to the world of men, and being endowed there with penance, abstinence, and faith, he enjoys greatness.
 
@@ -162,7 +162,7 @@ Now the Apâna is identified with the Gârhapatya fire, no reason being given ex
 
 5\. Again, he who meditates with this syllable AUM of three Mâtrâs, on the Highest Person, he comes to light and to the sun. And as a snake is freed from its skin, so is he freed from evil. He is led up by the Sâman-verses to the Brahma-world [^913]; and from him, full of life (Hira<i>n</i>yagarbha, the lord of the Satya-loka [^914]), he learns [^915] to see the all-pervading, the Highest Person. And there are these two <i>S</i>lokas:
 
-6\. The three Mâtrâs (A + U + M), if employed separate, and only joined one to another, are mortal [^916]; <span id="p283">[<sup><small>p. 283</small></sup>]</span> but in acts, external, internal, or intermediate, if well performed, the sage trembles not [^917].
+6\. The three Mâtrâs (A + U + M), if employed separate, and only joined one to another, are mortal [^916]; <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> but in acts, external, internal, or intermediate, if well performed, the sage trembles not [^917].
 
 7\. Through the <i>Ri</i><i>k</i>\-verses he arrives at this world, through the Ya<i>g</i>us-verses at the sky, through the Sâman-verses at that which the poets teach,—he arrives at this by means of the Oṅkâra; the wise arrives at that which is at rest, free from decay, from death, from fear,—the Highest.’
 
@@ -175,7 +175,7 @@ Now the Apâna is identified with the Gârhapatya fire, no reason being given ex
 
 3\. He reflected: What is it by whose departure I shall depart, and by whose staying I shall stay?
 
-4\. He sent forth (created) Prâ<i>n</i>a (spirit) [^919]; from <span id="p284">[<sup><small>p. 284</small></sup>]</span> Prâ<i>n</i>a <i>S</i>raddhâ (faith) [^920], ether, air, light, water, earth, sense, mind, food; from food came vigour, penance, hymns, sacrifice, the worlds, and in the worlds the name [^921] also.
+4\. He sent forth (created) Prâ<i>n</i>a (spirit) [^919]; from <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> Prâ<i>n</i>a <i>S</i>raddhâ (faith) [^920], ether, air, light, water, earth, sense, mind, food; from food came vigour, penance, hymns, sacrifice, the worlds, and in the worlds the name [^921] also.
 
 5\. As these flowing rivers [^922] that go towards the ocean, when they have reached the ocean, sink into it, their name and form are broken, and people speak of the ocean only, exactly thus these sixteen parts of the spectator that go towards the person (purusha), when they have reached the person, sink into him, their name and form are broken, and people speak of the person only, and he becomes without parts and immortal. On this there is this verse:
 

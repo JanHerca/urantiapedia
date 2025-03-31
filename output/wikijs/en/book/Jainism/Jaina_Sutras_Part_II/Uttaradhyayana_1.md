@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 UTTARÂDHYAYANA. FIRST LECTURE. ON DISCIPLINE.
 
@@ -42,7 +42,7 @@ A monk who, on receiving an order [^48] from his superior [^49], walks up to him
 
 But a monk who, on receiving an order from his superior, does not walk up to him, being insubordinate and inattentive, is called ill-behaved. (3)
 
-As a bitch with sore ears is driven away everywhere, <span id="p2">[<sup><small>p. 2</small></sup>]</span> thus a bad, insubordinate, and talkative (pupil) is turned out. (4)
+As a bitch with sore ears is driven away everywhere, <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> thus a bad, insubordinate, and talkative (pupil) is turned out. (4)
 
 As a pig leaves a trough filled with grain to feed on faeces, so a brute (of a man) turns away from virtue, and takes to evil ways. (5)
 
@@ -56,7 +56,7 @@ When reprimanded a wise man should not be angry, but he should be of a forbearin
 
 He should do nothing mean [^52], nor talk much; but after having learned his lesson, he should meditate by himself. (10)
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 If he by chance does anything mean, he should never deny it, but if he has done it, he should say: ‘I have done it;’ if he has not done it, ‘I have not done it.’ (11)
 
@@ -74,7 +74,7 @@ He should never do anything disagreeable to the wise [^53], neither in words nor
 
 He should not (sit) by the side of the teacher, nor before him, nor behind him; he should not touch (the teacher's) thigh with his own, nor answer his call from the couch. (18)
 
-A well-behaved monk should not sit on his hams [^54], <span id="p4">[<sup><small>p. 4</small></sup>]</span> nor cross his arms [^55], nor stretch out his legs, nor stand (too) close to his teacher. (19)
+A well-behaved monk should not sit on his hams [^54], <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> nor cross his arms [^55], nor stretch out his legs, nor stand (too) close to his teacher. (19)
 
 If spoken to by the superior, he should never remain silent, but should consider it as a favour; asking for his command [^56], he should always politely approach his teacher. (20)
 
@@ -86,7 +86,7 @@ When a pupil who observes the above rules of conduct, questions the teacher abou
 
 A monk should avoid untruth, nor should he speak positively (about future things, his plans, &c.); he should avoid sinful speech, and always keep free from deceit. (24)
 
-He should not tell anything sinful or meaningless [^58] <span id="p5">[<sup><small>p. 5</small></sup>]</span> or hurtful, neither for his own sake nor for anybody else's, nor without such a motive. (25).
+He should not tell anything sinful or meaningless [^58] <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> or hurtful, neither for his own sake nor for anybody else's, nor without such a motive. (25).
 
 In barbers' shops [^59] or houses, on the ground separating two houses, or on the highway a single monk should not stand with a single woman, nor should he converse with her. (26)
 
@@ -104,7 +104,7 @@ A monk should not approach (dining people) sitting in a row, but should collect 
 
 A monk should wait (for his alms) alone, not too far from other monks, nor too near them, but so that he is not seen by another party; another monk should not pass him to get the start of him. (33)
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Neither boldly erect nor humbly bowing down, standing neither too close by nor too far off, a monk should accept permitted [^61] food that was prepared for somebody else [^62]. (34)
 
@@ -118,7 +118,7 @@ A monk should avoid as unallowed such food as is well dressed, or well cooked, o
 
 A good pupil has the best opinion (of his teacher), thinking that he treats him like his son or brother or a near relation [^64]; but a malevolent pupil imagines himself treated like a slave. (39)
 
-He should not provoke his teacher's anger, nor <span id="p7">[<sup><small>p. 7</small></sup>]</span> should he himself grow angry; he should not offend the teacher nor irritate him by proclaiming his faults [^65]. (40)
+He should not provoke his teacher's anger, nor <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> should he himself grow angry; he should not offend the teacher nor irritate him by proclaiming his faults [^65]. (40)
 
 Perceiving the teacher's anger one should pacify him by kindness, appease him with folded hands, and promise not to do wrong again. (41)
 
@@ -132,7 +132,7 @@ An intelligent man who has learned (the sacred texts) takes his duties upon hims
 
 When the worthy teachers, who are thoroughly enlightened and from early times well versed in conduct [^68], are satisfied (with a pupil), they will make over to him their extensive and weighty [^69] knowledge of the sacred texts. (46)
 
-His knowledge will be honoured, his doubts will be removed, he will gladden the heart of his teacher <span id="p8">[<sup><small>p. 8</small></sup>]</span> by his good acts; kept in safety by the performance of austerities and by meditation, being as it were a great light, he will keep the five vows. (47)
+His knowledge will be honoured, his doubts will be removed, he will gladden the heart of his teacher <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> by his good acts; kept in safety by the performance of austerities and by meditation, being as it were a great light, he will keep the five vows. (47)
 
 Honoured by gods, Gandharvas, and men, he will, on leaving this body which consists of dirt and impurities, become either an eternal Siddha [^70], or a god of great power and small imperfections. (48)
 

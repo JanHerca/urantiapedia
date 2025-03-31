@@ -36,7 +36,7 @@ dateCreated: 2025-1-14T22:24:17Z
 
 ## Chapter XI
 
-**On the merits of the Devî in the story of Satyavrata** <span id="p159">[<sup><small>p. 159</small></sup>]</span> 1-5. Lomas’a said :— O Munis! Utatthya, the son of Devadatta, was quite ignorant of anything of the Vedas, Japam (muttering of mantra), meditation of the deity, worship of the Devas, Âsana (Posture), Prânâyâma (withholding the breath by way of religious austerity), Pratyâhâra (restraint of mind), Bhûtas’uddhi (purification of the elements of the body by respiratory attraction and replacement), mantra (a mystical formula regarding some deity), Kîlaka (chanting of a mantra to serve as a pin of protection), Gâyattrî (the famous mantra of the Brâhmins), Saucha (cleanliness, external and internal), rules how to bathe, Âchamana (sipping of water and reciting mantrams before worship), Prânâgnihotra (offering of oblations to the fire of Prâna or to the fire of life), the offering of a sacrifice, hospitality, Sandhyâ (the morning, mid-day or evening prayer), collecting fuels for oblations, and offering of oblations. Daily he rose in the morning and somehow rinsed his mouth and washed his teeth and bathed in the Ganges river without any mantrams (like a Sûdra).
+**On the merits of the Devî in the story of Satyavrata** <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> 1-5. Lomas’a said :— O Munis! Utatthya, the son of Devadatta, was quite ignorant of anything of the Vedas, Japam (muttering of mantra), meditation of the deity, worship of the Devas, Âsana (Posture), Prânâyâma (withholding the breath by way of religious austerity), Pratyâhâra (restraint of mind), Bhûtas’uddhi (purification of the elements of the body by respiratory attraction and replacement), mantra (a mystical formula regarding some deity), Kîlaka (chanting of a mantra to serve as a pin of protection), Gâyattrî (the famous mantra of the Brâhmins), Saucha (cleanliness, external and internal), rules how to bathe, Âchamana (sipping of water and reciting mantrams before worship), Prânâgnihotra (offering of oblations to the fire of Prâna or to the fire of life), the offering of a sacrifice, hospitality, Sandhyâ (the morning, mid-day or evening prayer), collecting fuels for oblations, and offering of oblations. Daily he rose in the morning and somehow rinsed his mouth and washed his teeth and bathed in the Ganges river without any mantrams (like a Sûdra).
 
 6\. That stupid fellow ate indiscriminately, did not know what to eat and what not to eat. During the mid-day he collected the fruits from the forest and used to eat them.
 
@@ -46,7 +46,7 @@ dateCreated: 2025-1-14T22:24:17Z
 
 10\. He used to think thus :— Fate has made me a fool; I do not find any other cause for it. Oh! I got the exceedingly good birth amongst men; but all this has been rendered in vain by Fate.
 
-11\. Oh! As a fair woman, if barren, a cow if giving no milk, and a tree without any fruits are all useless, so Fate has rendered my life, too, quite useless. <span id="p160">[<sup><small>p. 160</small></sup>]</span> 12\. Why am I cursing Fate? This is all the fruits of my past Karma. In my previous life I never wrote a book and presented to a good Brâhmin; hence I am illiterate in this birth.
+11\. Oh! As a fair woman, if barren, a cow if giving no milk, and a tree without any fruits are all useless, so Fate has rendered my life, too, quite useless. <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> 12\. Why am I cursing Fate? This is all the fruits of my past Karma. In my previous life I never wrote a book and presented to a good Brâhmin; hence I am illiterate in this birth.
 
 13\. In my former birth I did not impart any knowledge to my favourite pupils; hence I am wicked and a cursed Brâhmin in this birth.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-1-14T22:24:17Z
 
 23\. Once on a time, a hunter named Nisâda, exceedingly clever in hunting, came accidentally with bows and arms in his hands, while hunting a deer in that wide forest. He looked like a second God of Death (Yama) and seemed to be very cruel.
 
-24\. That savage mountaineer, drawing his bow so as to touch the ear, pierced a boar with his sharp arrows. The boar, being very much terrified, fled with enormous rapidity to the Muni Satyavrata. <span id="p161">[<sup><small>p. 161</small></sup>]</span> 25\. On seeing the distressed condition of the boar trembling with fear and his body besmeared with blood, the Muni was moved with mercy.
+24\. That savage mountaineer, drawing his bow so as to touch the ear, pierced a boar with his sharp arrows. The boar, being very much terrified, fled with enormous rapidity to the Muni Satyavrata. <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> 25\. On seeing the distressed condition of the boar trembling with fear and his body besmeared with blood, the Muni was moved with mercy.
 
 26\. While the boar, pierced with arrows and besmeared with blood, was running away in front of him, mercy took possession of the Muni, therefore the Muni began to tremble and agreeably to the human nature exclaimed “Ai” “Ai” (go to that direction), the seed mantram of the Goddess of learning with “m” left out (Aim, Aim).
 
@@ -86,7 +86,7 @@ dateCreated: 2025-1-14T22:24:17Z
 
 35\. The boar struck with arrows has gone this way, it is true. How can I tell a lie? Again this man is hungry and is therefore asking, he will instantly kill the boar no sooner he finds him. How then can I speak truth?
 
-36\. Where speaking out the truth causes injury and the loss of lives, that truth is no truth at all; moreover, even untruth, when tempered with mercy for the welfare of others, is recognised as truth. Really speaking, whatever <span id="p162">[<sup><small>p. 162</small></sup>]</span> leads to the welfare of all the beings in this world, that is truth; and every thing else is not truth.
+36\. Where speaking out the truth causes injury and the loss of lives, that truth is no truth at all; moreover, even untruth, when tempered with mercy for the welfare of others, is recognised as truth. Really speaking, whatever <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> leads to the welfare of all the beings in this world, that is truth; and every thing else is not truth.
 
 37\. O Jamadagni! Thus placed between the horns of a religious dilemma what shall I do now so as to meet both the ends — to save the life of the boar, to do the welfare, as well as not to speak untruth.”
 
@@ -114,7 +114,7 @@ dateCreated: 2025-1-14T22:24:17Z
 
 49\. That Great Goddess is known as Kâmadâ (the giver of all desires); for She grants all desires when men with devotion remember Her, worship Her, take Her name, meditate Her and eulogise Her.
 
-50-56. O King! The wise sages ought to see the persons diseased, distressed, hungry, those without any wealth, the hypocrite, the cheat, the afflicted, <span id="p163">[<sup><small>p. 163</small></sup>]</span> the sensual, the covetous, the incapable, always suffering from mental troubles; again those who are wealthy with their children and grand-children, prosperous, healthy, with enjoyments, versed in the Vedas, literary, kings, heroes, those who command over many, those attended with relations and kinsmen and endowed with all good qualities; and then judge for themselves that those people did not worship the Goddess and therefore they were sufferers and these people worshipped the Goddess and hence they were happy in this world.
+50-56. O King! The wise sages ought to see the persons diseased, distressed, hungry, those without any wealth, the hypocrite, the cheat, the afflicted, <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> the sensual, the covetous, the incapable, always suffering from mental troubles; again those who are wealthy with their children and grand-children, prosperous, healthy, with enjoyments, versed in the Vedas, literary, kings, heroes, those who command over many, those attended with relations and kinsmen and endowed with all good qualities; and then judge for themselves that those people did not worship the Goddess and therefore they were sufferers and these people worshipped the Goddess and hence they were happy in this world.
 
 57\. Vyâsa said :— Thus I heard from the mouth of Lomas'a Muni, in assembly of the sages, the good merits of the Great Goddess.
 
@@ -127,13 +127,13 @@ Here ends the Eleventh Chapter on the merits of the Devî in the story of Satyav
 
 ## Chapter XII
 
-**On the Ambâ Yajña rules** <span id="p163">[<sup><small>p. 163</small></sup>]</span> 1\. The king spoke :— O Lord! Kindly describe the rules and regulations as to how the Devî Yajña (sacrifice) is performed with its duly prescribed rites and ceremonies. Hearing it I will unwearied perform it, as far as it lies in my power, with as little delay as possible.
+**On the Ambâ Yajña rules** <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> 1\. The king spoke :— O Lord! Kindly describe the rules and regulations as to how the Devî Yajña (sacrifice) is performed with its duly prescribed rites and ceremonies. Hearing it I will unwearied perform it, as far as it lies in my power, with as little delay as possible.
 
 2\. How the worship is done, what are the mantras, what are the articles required for oblations, how many Brâhmins are required and what Daksinâs are to be paid to them, describe in detail all these.
 
 3-5. Vyâsa said :— O king! I am telling you duly how the Yajña is performed, hear. The actions are always threefold according as the preparations are made and according as they are practised with regard to the observed rules. The threefold divisions are Sâttvik, Râjasik and Tâmasic. The Munis do the Sâttvik Pûjâ, the kings celebrate Râjasic and the Rakshasas do the Tâmasik Pûjâs. There is another Pûjâ which is devoid of qualities and which is performed by the liberated ones. I will describe to you all these in detail.
 
-6-7. O king! The Yajña is then called Sâttvik, when it is performed in a Sâttvik country, like Benares, etc., in Sâttvik time, e.g., in Uttarâyana, when the materials collected are earned rightly, when the mantras are those of the Vedas, when the Brâhmin is Srotriya, where there is Sâttvik faith, void of any attachment towards the sensual objects, when all these happen to coincide. O king! When all the above takes place and there is purification of materials, actions, and mantras, i.e., when the <span id="p164">[<sup><small>p. 164</small></sup>]</span> materials are all right, when the actions are done as they ought to be, and where there is no error or omission, etc., in the mantras, etc., then and then only the Yajña becomes perfect and no doubt yield full results; there would be nothing contrary to this.
+6-7. O king! The Yajña is then called Sâttvik, when it is performed in a Sâttvik country, like Benares, etc., in Sâttvik time, e.g., in Uttarâyana, when the materials collected are earned rightly, when the mantras are those of the Vedas, when the Brâhmin is Srotriya, where there is Sâttvik faith, void of any attachment towards the sensual objects, when all these happen to coincide. O king! When all the above takes place and there is purification of materials, actions, and mantras, i.e., when the <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> materials are all right, when the actions are done as they ought to be, and where there is no error or omission, etc., in the mantras, etc., then and then only the Yajña becomes perfect and no doubt yield full results; there would be nothing contrary to this.
 
 8-9. If the Yajña is performed with articles not rightly earned, then there is no fame either in this world nor there is any reward in the next world. Therefore it is necessary that the Yajña should be performed with rightly earned materials; then there is fame in this world and better state in the next world; and happiness is also acquired; there is no doubt in this.
 
@@ -151,7 +151,7 @@ Here ends the Eleventh Chapter on the merits of the Devî in the story of Satyav
 
 17\. O king! How could all these happen in a place where S’rî Bhagavân Kesava Himself and the high souled Yudhisthîra were present? If one argues, one would conclude “there must have been something wrong in that Yajña.”
 
-18\. If you say that nothing wrong happened in the Yajña, all these were caused by Fate; then it comes to this :— that the Vedic mantras, Âgamas and the other Vedic rites are all fruitless. <span id="p165">[<sup><small>p. 165</small></sup>]</span> 19\. If it be argued that though the Vedic mantras are powerful enough to bear fruits, yet whatever is predestined to come to pass, will surely pass, then the proposition resolves into this :— that all the means, expedients, and appliances lead to meaningless conclusions.
+18\. If you say that nothing wrong happened in the Yajña, all these were caused by Fate; then it comes to this :— that the Vedic mantras, Âgamas and the other Vedic rites are all fruitless. <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> 19\. If it be argued that though the Vedic mantras are powerful enough to bear fruits, yet whatever is predestined to come to pass, will surely pass, then the proposition resolves into this :— that all the means, expedients, and appliances lead to meaningless conclusions.
 
 20\. Then the Âgamas, the Vedas merely recommend a vidhi or precept by stating the good arising from its proper observance and the evils arising from its omission and also by adducing historical instances as its support; in other words, they are powerless as far as bearing fruits is concerned; all the acts are meaningless, asceticism to attain Heaven comes as useless and the peculiar duties of caste are fruitless. O king! This view is exceedingly culpable; it is never fit for acceptance by the highsouled persons.
 
@@ -169,7 +169,7 @@ Here ends the Eleventh Chapter on the merits of the Devî in the story of Satyav
 
 27\. O King! This is then the instance where the contrary fruits were borne out by the agent employed in performing the Yajña; there is no doubt in this. This is not possible in the other cases.
 
-28\. See, again, the king of Pânchâla performed his sacrifice to get a son to kill Drona, the son of Bhâradvâja; and though he did this out of angry motives, still Dhristadyumna was born out of fire; and Draupadî sprang out of the altar. <span id="p166">[<sup><small>p. 166</small></sup>]</span> 29\. Again, in days of yore, Das’aratha, the king of Kosala, was sonless; and he instituted a sacrifice to get one son; and lo! be got four sons.
+28\. See, again, the king of Pânchâla performed his sacrifice to get a son to kill Drona, the son of Bhâradvâja; and though he did this out of angry motives, still Dhristadyumna was born out of fire; and Draupadî sprang out of the altar. <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> 29\. Again, in days of yore, Das’aratha, the king of Kosala, was sonless; and he instituted a sacrifice to get one son; and lo! be got four sons.
 
 30\. Therefore O King! If the Yajña be performed according to proper rules and regulations, it yields fruits in all respects; again if it be done unrighteously, without any regard for the rules, etc., it yields results just the contrary; there is no doubt in this.
 
@@ -187,7 +187,7 @@ Here ends the Eleventh Chapter on the merits of the Devî in the story of Satyav
 
 39\. That Yajña is called Mânas Yâg or mânasic (mental) where the high-souled Munis, void of worldly desires, collect mentally all the necessary articles and perform the Yajña with the sole object of liberation from the bondages of the world.
 
-40\. In all the other Yajñas (than the Mânas Yâg) some imperfections or other naturally arise, due to some defects in the materials, or want of faith, or in the performance or in the Brâhmins. <span id="p167">[<sup><small>p. 167</small></sup>]</span> 41\. No other Yajñas can be so complete as the Mânasa Yajña; the reason being that in the other Yajñas some, imperfections come out due to time, place, and separate ingredients to be collected.
+40\. In all the other Yajñas (than the Mânas Yâg) some imperfections or other naturally arise, due to some defects in the materials, or want of faith, or in the performance or in the Brâhmins. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> 41\. No other Yajñas can be so complete as the Mânasa Yajña; the reason being that in the other Yajñas some, imperfections come out due to time, place, and separate ingredients to be collected.
 
 42-43. Now hear who are the persons fit to undertake this mental Yajña in honour of the Great Goddess. First this mind is to be purified, by making it void of the Gunas; the mind being pure, the body becomes also pure, there is no doubt. When the mind becomes completely pure, after it has abandoned all sensual objects, fit for enjoyment, then that man is entitled to perform the Mother's Yajña.
 
@@ -199,7 +199,7 @@ Here ends the Eleventh Chapter on the merits of the Devî in the story of Satyav
 
 49-50. Prâna Vâyu stands for Gârhapatya; Apâna, for Âhavanîya; Vyâna for Daksinâ; Samâna for Avasathya; and Udâna for Sabhya Agni. These fires are all very terrible; then one should place these carefully on the altar with great concentration of mind. He is to collect then all the other necessary materials and think that all are very pure and free from any defects.
 
-51-57. In the Mânasic Yajña, mind is the offerer of oblations and mind the Yajamâna, the performer of the Sacrifice; and the Presiding Deity of the Sacrifice is the Nirguna Brahmâ. The Great Goddess, the Nirguna Energy, who is always auspicious and gives the feeling of dispassion and indifference to worldly objects is the awarder of fruits in this Yajña. She is the Brahmâ Vidyâ, She is the substratum of all and She is all pervading. The Brâhmin is to take the Devî's name and offer oblations in the fire of Prâna, the necessary articles for the Devî's satisfaction. Then he is to make his Chitta and Prâna void of any worldly thought, or any worldly support and to offer oblations to the Eternal Brahmâ through the mouth of Kundalinî (the Serpent Fire.) Next, within his Nirvikalpa mind, by means of Samâdhi, be should meditate own Self, the Mahes'varî Herself by his consciousness. Thus, when he will see his own self in all the beings and all the beings in his own self, then <span id="p168">[<sup><small>p. 168</small></sup>]</span> the Jîva will get the vision of the Goddess Mahâvidyâ, giving auspicious liberation (Moksa). O King! After the high souled Munis have seen the Goddess, of everlasting intelligence and bliss, then he becomes the knower of Brâhman. All the Mâyâ, the cause of this Universe becomes burnt up; only, as long as the body remains, the Prârabdha Karma remains.
+51-57. In the Mânasic Yajña, mind is the offerer of oblations and mind the Yajamâna, the performer of the Sacrifice; and the Presiding Deity of the Sacrifice is the Nirguna Brahmâ. The Great Goddess, the Nirguna Energy, who is always auspicious and gives the feeling of dispassion and indifference to worldly objects is the awarder of fruits in this Yajña. She is the Brahmâ Vidyâ, She is the substratum of all and She is all pervading. The Brâhmin is to take the Devî's name and offer oblations in the fire of Prâna, the necessary articles for the Devî's satisfaction. Then he is to make his Chitta and Prâna void of any worldly thought, or any worldly support and to offer oblations to the Eternal Brahmâ through the mouth of Kundalinî (the Serpent Fire.) Next, within his Nirvikalpa mind, by means of Samâdhi, be should meditate own Self, the Mahes'varî Herself by his consciousness. Thus, when he will see his own self in all the beings and all the beings in his own self, then <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> the Jîva will get the vision of the Goddess Mahâvidyâ, giving auspicious liberation (Moksa). O King! After the high souled Munis have seen the Goddess, of everlasting intelligence and bliss, then he becomes the knower of Brâhman. All the Mâyâ, the cause of this Universe becomes burnt up; only, as long as the body remains, the Prârabdha Karma remains.
 
 58\. Then the Jîvas become liberated, while living; and when the body dissolves, he attains to final liberation. Therefore, O Child! Whoever worships the Mother becomes crowned with success; there is no doubt in this.
 
@@ -217,7 +217,7 @@ O King! Hear now about the Devî Yajña, that was performed by Visnu in the begi
 
 68\. O King! Do this sacrifice duly and deliver your father from hell by the merits that you will acquire thereby.
 
-69\. O Sinless One! The sin incurred on account of insulting a Brâhmin is serious and leads the sinner to hell. Your father committed that sin and incurred the curse from a Brâhmin. Therefore he has gone to the hell. <span id="p169">[<sup><small>p. 169</small></sup>]</span> 70\. Your father died also out of a snake bite which is not a meritorious one. The death occurred also in a palace built high up in the air (on a pillar), instead of taking place on the ground on a bed of Kus'a grass.
+69\. O Sinless One! The sin incurred on account of insulting a Brâhmin is serious and leads the sinner to hell. Your father committed that sin and incurred the curse from a Brâhmin. Therefore he has gone to the hell. <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> 70\. Your father died also out of a snake bite which is not a meritorious one. The death occurred also in a palace built high up in the air (on a pillar), instead of taking place on the ground on a bed of Kus'a grass.
 
 71\. O best of the Kurus! The death did not occur in any battle nor on the banks of the Ganges. Void of proper bathing and charities, etc., he died in a palace.
 
@@ -233,7 +233,7 @@ O King! Hear now about the Devî Yajña, that was performed by Visnu in the begi
 
 80\. But your father, hearing even the curse from a Brâhmin, retained his attachment towards his body; therefore he did not attain dispassion.
 
-81\. He thought thus :— “My body is now free from any disease; my kingdom is free from enemies or any other source of danger; how can I now get myself saved from this untimely death.” Thinking thus, he ordered to call the Brâhmans, who know the mantrams. <span id="p170">[<sup><small>p. 170</small></sup>]</span> 82\. Then that king ascended to the palace, with medicines, many mantras and many other instruments.
+81\. He thought thus :— “My body is now free from any disease; my kingdom is free from enemies or any other source of danger; how can I now get myself saved from this untimely death.” Thinking thus, he ordered to call the Brâhmans, who know the mantrams. <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 82\. Then that king ascended to the palace, with medicines, many mantras and many other instruments.
 
 83-84. He considered his fate to be the strongest and therefore did not take his bath in any holy place; he did not perform any charities, did not sleep on the ground or remember any mantram of the Devî. Due to Kali entering into his body, he committed the sin of insulting an ascetic and plunged himself in the ocean of delusion and died bitten by the Taksaka snake on the top of a palace.
 
@@ -250,13 +250,13 @@ Thus ends the twelfth chapter on the Ambâ Yajña rules in the 3rd Adhyâya of S
 
 ## Chapter XIII
 
-**On the Devî Yajña by S’rî Visnu** <span id="p170">[<sup><small>p. 170</small></sup>]</span> 1-3. The King spoke :— O Grandfather! How did Visnu, the Powerful, the Cause of the world, perform the Devî Yajña? Whose help did he receive and what priests with their knowledge of the Vedas did he engage, kindly tell all these to me in special details. I will very attentively hear first this Devî Yajña, performed by Visnu; and then I will make arrangements to do that myself accordingly.
+**On the Devî Yajña by S’rî Visnu** <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 1-3. The King spoke :— O Grandfather! How did Visnu, the Powerful, the Cause of the world, perform the Devî Yajña? Whose help did he receive and what priests with their knowledge of the Vedas did he engage, kindly tell all these to me in special details. I will very attentively hear first this Devî Yajña, performed by Visnu; and then I will make arrangements to do that myself accordingly.
 
 4\. Vyâsa said :— O noble one! Hear in detail that very wonderful thing, how Visnu celebrated the Devî Yajña comformably to the rules laid down in the S’âstras.
 
 5\. When Brahmâ, Visnu, and Mahes’a were each given powers by the Devî, the Goddess of the Universe, and when they parted, these three Devas became free from their womanhood, while they were coming back in their aerial cars and turned out men, as they were before.
 
-6\. These three Devas, found the great ocean before them. They brought out world from it; and built, in that world, dwelling abodes; and they themselves began to live in some of them. <span id="p171">[<sup><small>p. 171</small></sup>]</span> 7\. That world became fixed, steady and the supporter of all beings when the Goddess imparted the power of fixture, steadiness, and the power of supporting to the world. The earth, filled with marrow, then, became fixed and the great supporter by Her power.
+6\. These three Devas, found the great ocean before them. They brought out world from it; and built, in that world, dwelling abodes; and they themselves began to live in some of them. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> 7\. That world became fixed, steady and the supporter of all beings when the Goddess imparted the power of fixture, steadiness, and the power of supporting to the world. The earth, filled with marrow, then, became fixed and the great supporter by Her power.
 
 8-10. O King! The name of this earth is Medinî, since it was made out of the marrow of the two Asuras Madhu and Kaitabha. This earth is termed Dharâ because it supports all; is termed Prithvî because it is very capacious; and it is called Mahî because it is great, since it supports so many beings. O King! the Ananta serpent is holding it on her thousand-hoods. To make the earth remain solid and compact, Brahmâ built at places mountains. As iron nails in a log of wood, so these hills and mountains within this earth made it fixed. Therefore the Pundits call these mountains “Mahîdhara,” holder of the earth.
 
@@ -278,7 +278,7 @@ Thus ends the twelfth chapter on the Ambâ Yajña rules in the 3rd Adhyâya of S
 
 19\. Mahâdeva, too, built the exceedingly beautiful Kailâs’a and stayed there with his Bhûtas and played with them at his will.
 
-20\. The third Loka termed Heaven was built on the top of Meru, decorated with various precious gems and jewels and stones. It was fixed as the abode of Indra. <span id="p172">[<sup><small>p. 172</small></sup>]</span> 21-22. When the great ocean was churned, Pârijâta, the best of all the trees, the elephant Airâvata with four tusks, the Heavenly cow yielding the milk of all desires, the Uchchais’ravâ horse and Apsarâs, Rambhâ and others, arose and were taken by Indra. These became the ornaments of Heaven.
+20\. The third Loka termed Heaven was built on the top of Meru, decorated with various precious gems and jewels and stones. It was fixed as the abode of Indra. <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> 21-22. When the great ocean was churned, Pârijâta, the best of all the trees, the elephant Airâvata with four tusks, the Heavenly cow yielding the milk of all desires, the Uchchais’ravâ horse and Apsarâs, Rambhâ and others, arose and were taken by Indra. These became the ornaments of Heaven.
 
 23\. The Moon and Dhanvantarî, the great phyisician also came out of the churning of the ocean. These surrounded with many other members began to shine, being situated above the Heavens.
 
@@ -296,7 +296,7 @@ Thus ends the twelfth chapter on the Ambâ Yajña rules in the 3rd Adhyâya of S
 
 34\. When the big altar and chiti (pile of wood for burning, stack of sacrificial bricks) were finished, the Brâhmanas began to recite slowly the Devî mantrams with their root mantrams.
 
-Note :— Chiti, lit pile of wood for burning, is perhaps the Mûlâdhâra, the sacral plexus, where the fire called Kundalinî is first kindled by processes of Yoga. <span id="p173">[<sup><small>p. 173</small></sup>]</span> 35-37. Then the profuse quantities of ghee were offered as oblations to to the Sacred Fire. Thus when the Homa, (offering oblations of ghee to the fire) ceremony was finished elaborately and conforming to the rules of the S’âstras, the sweet and melodious Heavenly voice was heard in the air, addressing Visnu Bhagavân, thus :— O Visnu! Let You be the supreme amongst the gods; honour and worship shall be Thine first; and you would be the most powerful of the Devas. Indra together with Brahmâ, and the other Devas, all will worship You.
+Note :— Chiti, lit pile of wood for burning, is perhaps the Mûlâdhâra, the sacral plexus, where the fire called Kundalinî is first kindled by processes of Yoga. <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> 35-37. Then the profuse quantities of ghee were offered as oblations to to the Sacred Fire. Thus when the Homa, (offering oblations of ghee to the fire) ceremony was finished elaborately and conforming to the rules of the S’âstras, the sweet and melodious Heavenly voice was heard in the air, addressing Visnu Bhagavân, thus :— O Visnu! Let You be the supreme amongst the gods; honour and worship shall be Thine first; and you would be the most powerful of the Devas. Indra together with Brahmâ, and the other Devas, all will worship You.
 
 38-39. O Achyuta! (O Infallible One!) Those men on the earth that will be devoted to you, will certainly be endowed with power and you shall be the bestower of boons and all their desires. O Visnu! you will be the Supreme of the Devas and you will be the God of the gods; you will be the first and foremost in all the sacrifices and you will be worshipped by the sacrificers.
 
@@ -312,7 +312,7 @@ Note :— Chiti, lit pile of wood for burning, is perhaps the Mûlâdhâra, the 
 
 48\. You should respect and worship all those powers by all means and with very great attention; never shew the slightest trace of pride to them; never do you thus insult them.
 
-49\. These S’aktis, capable of bestowing all the desires, will be worshipped in Pratimâs (images of clay, etc.) in the whole of India. <span id="p174">[<sup><small>p. 174</small></sup>]</span> 50\. O Deva of the Devas! The fame of all these S’aktis, as well as of You will be spread in the seven worlds and in the whole Universe.
+49\. These S’aktis, capable of bestowing all the desires, will be worshipped in Pratimâs (images of clay, etc.) in the whole of India. <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> 50\. O Deva of the Devas! The fame of all these S’aktis, as well as of You will be spread in the seven worlds and in the whole Universe.
 
 51\. O Hari! The human beings on this earth will constantly worship with selfish ends these powers and you, for the fructification of their desires.
 
@@ -333,11 +333,11 @@ Here ends the thirteenth chapter on the Devî Yajña by S’rî Visnu in the thi
 
 ## Chapter XIV
 
-**On the narration of the glories of the Devî** <span id="p174">[<sup><small>p. 174</small></sup>]</span> 1-2. Janamejaya spoke :— O Dvîja! I have heard in detail the Devî Yajña, performed by S’rî Visnu. Now describe Her Glory and glorious deeds. After hearing these, the Devî’s glorious deeds, I will also perform that, the best of all sacrifices. Thereby I will no doubt be pure through your favour.
+**On the narration of the glories of the Devî** <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> 1-2. Janamejaya spoke :— O Dvîja! I have heard in detail the Devî Yajña, performed by S’rî Visnu. Now describe Her Glory and glorious deeds. After hearing these, the Devî’s glorious deeds, I will also perform that, the best of all sacrifices. Thereby I will no doubt be pure through your favour.
 
 3\. Vyâsa said :— O king! Hear, I am describing to you the history of the most auspicious mighty deeds of the Devî, according to the Purânas.
 
-4-5. In days of yore, there reigned in the country of Kosala, the king Dhruvasandhi of the Solar Dynasty. He was the son of Puspa and cele- <span id="p175">[<sup><small>p. 175</small></sup>]</span> brated on account of his great prowess. He was truthful, religious, engaged in doing good to his subjects, obeying the laws of the four castes and Âs’ramas. He being pure, performed his regal duties in the flourishing city of Ayodhyâ.
+4-5. In days of yore, there reigned in the country of Kosala, the king Dhruvasandhi of the Solar Dynasty. He was the son of Puspa and cele- <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> brated on account of his great prowess. He was truthful, religious, engaged in doing good to his subjects, obeying the laws of the four castes and Âs’ramas. He being pure, performed his regal duties in the flourishing city of Ayodhyâ.
 
 6\. The Brâhmanas, Ksattriyas, Vais'yas, and S’ûdras and other good persons all lived religiously under his rule, each abiding by his own profession.
 
@@ -361,7 +361,7 @@ Here ends the thirteenth chapter on the Devî Yajña by S’rî Visnu in the thi
 
 16\. The sight of these two sons delighted very much the people. Now seeing these Kritachûdas, and playing, the king was merged in the ocean of pleasure.
 
-17-18. Sudars'ana was the eldest; but Satrujit, the second beautiful son by Lîlâvatî was of sweet and persuasive speech. His beautiful figure and sweet words gave very much delight to the king, and for these qualities, the child Satrujit turned out also a favourite of the people and ministers. <span id="p176">[<sup><small>p. 176</small></sup>]</span> 19\. The king could not show so much affection to the unfortunate Sudars’ana as he showed to Satrujit.
+17-18. Sudars'ana was the eldest; but Satrujit, the second beautiful son by Lîlâvatî was of sweet and persuasive speech. His beautiful figure and sweet words gave very much delight to the king, and for these qualities, the child Satrujit turned out also a favourite of the people and ministers. <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> 19\. The king could not show so much affection to the unfortunate Sudars’ana as he showed to Satrujit.
 
 20-21. Thus some days having passed, one day the king Dhruvasandhi went out on an hunting expedition to the forest. He killed in the forest many deer, Ruru (a kind of deer), elephants, boar, hare, buffaloes, rhinoceros, camels and amused himself very much with this hunting affair.
 
@@ -385,7 +385,7 @@ Here ends the thirteenth chapter on the Devî Yajña by S’rî Visnu in the thi
 
 34-35. The minister-in-chief as well as the other members proposed that as Sudars’ana is the son of the legal wife, calm and quiet, beautiful and endowed with all the royal qualifications, he is fit for the throne. Maharsi Vas’istha said, the royal son, though not attained to proper age is still religious; therefore he is really fit be installed as king on the royal throne.
 
-36\. When the wise aged ministers thus decided, Yudhâjit, the king of Ujjain, on hearing the decision hastened to the spot. <span id="p177">[<sup><small>p. 177</small></sup>]</span> 37\. He was the father of Lîlâvatî; on hearing the demise of his son-in-law he came there, so that his daughter’s son might get the kingdom.
+36\. When the wise aged ministers thus decided, Yudhâjit, the king of Ujjain, on hearing the decision hastened to the spot. <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> 37\. He was the father of Lîlâvatî; on hearing the demise of his son-in-law he came there, so that his daughter’s son might get the kingdom.
 
 38\. Next, Vîrasena, the king of the country of Kalinga and the father of Manoramâ, came there also with the object that his daughter’s son Sudars’ana be the Emperor.
 
@@ -409,7 +409,7 @@ Here ends the thirteenth chapter on the Devî Yajña by S’rî Visnu in the thi
 
 49\. O king! The two kings quarrelling with each other, remained there; the subjects and the Risis, seeing this, were very anxious.
 
-50\. Hundreds of tributary princes wanting that the two kings might be <span id="p178">[<sup><small>p. 178</small></sup>]</span> involved into quarrels with each other, came to the spot, with their soldiers, though they had to undergo great hardships in doing so.
+50\. Hundreds of tributary princes wanting that the two kings might be <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> involved into quarrels with each other, came to the spot, with their soldiers, though they had to undergo great hardships in doing so.
 
 51\. Many aborigines, from the inhabitants of Sringaverpur, hearing the demise of the late king, also appeared on the scene with the sole object to plunder.
 
@@ -424,7 +424,7 @@ Thus ends the Fourteenth Chapter on the narration of the glories of the Devî an
 
 ## Chapter XV
 
-**On the battle between Yudhâjit and Vîrasena** <span id="p178">[<sup><small>p. 178</small></sup>]</span> 1\. Vyâsa said :— O king! When the war was declared, the two kings, excited by greed and anger, took up arms; and a dreadful encounter ensued.
+**On the battle between Yudhâjit and Vîrasena** <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> 1\. Vyâsa said :— O king! When the war was declared, the two kings, excited by greed and anger, took up arms; and a dreadful encounter ensued.
 
 2\. On one side the king Yudhâjit of long arms, surrounded by his own army, with bows and arrows came ready to fight.
 
@@ -436,7 +436,7 @@ Thus ends the Fourteenth Chapter on the narration of the glories of the Devî an
 
 6\. O King! A dreadful fight then ensued between the cavalries, the warriors on the elephants; and the Devas, men, and Munis began to witness this terrible battle with wonder and astonishment. Birds, vultures and crows, desirous to eat the flesh of the dead soldiers, flew in the air.
 
-7\. Blood of elephants, horses and warriors, the bodies that lay dead, flowed in torrents awfully like rivers in that deadly battle ground. The torrent of blood excited fear amongst those who came to see it, as the river Vaitarani on the way to hell (the Lord of Death) is very fearful to the sinners. <span id="p179">[<sup><small>p. 179</small></sup>]</span> 8\. The human skulls were driven ashore by the current and they look like so many hollow shells of gourds scattered there for the play of the boys on the banks of the Jumnâ.
+7\. Blood of elephants, horses and warriors, the bodies that lay dead, flowed in torrents awfully like rivers in that deadly battle ground. The torrent of blood excited fear amongst those who came to see it, as the river Vaitarani on the way to hell (the Lord of Death) is very fearful to the sinners. <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> 8\. The human skulls were driven ashore by the current and they look like so many hollow shells of gourds scattered there for the play of the boys on the banks of the Jumnâ.
 
 9\. When any warrior lay dead on the field, the vultures began to fly about in the air for devouring his flesh. It seemed then that the soul of the warrior beholding his beautiful body tried to reenter into his body, though he thought that it had become very inaccessible to him.
 
@@ -452,7 +452,7 @@ Thus ends the Fourteenth Chapter on the narration of the glories of the Devî an
 
 15\. Some Brahmachârî fought in the battle and was slain. He went up to the heavens; instantly a lovely eyed Devakanyâ, a celestial nymph desired to select him as bridegroom with great devotion. But that clever man did not accept the offer, thinking that his vow of Brahmacharya would be thus broken.
 
-16-17. O King! Thus when the battle was deadly, the king Yudhâjit shot a sharp, dreadful arrow at Vîrasena and severed his head from body. Vîrasena lay dead on the battle field and his army was routed. The soldiers fled away from the battle. <span id="p180">[<sup><small>p. 180</small></sup>]</span> 18-19. Hearing that her father was slain in the battle, Manoramâ became very terrified and anxious. She then began to think that the vicious wicked king Yudhâjit will surely slay her son, for kingdom's sake and to satisfy his enmity with her father.
+16-17. O King! Thus when the battle was deadly, the king Yudhâjit shot a sharp, dreadful arrow at Vîrasena and severed his head from body. Vîrasena lay dead on the battle field and his army was routed. The soldiers fled away from the battle. <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> 18-19. Hearing that her father was slain in the battle, Manoramâ became very terrified and anxious. She then began to think that the vicious wicked king Yudhâjit will surely slay her son, for kingdom's sake and to satisfy his enmity with her father.
 
 20\. What shall I do now? My father is slain in the battle. My husband is no more. My child is a minor to-day. Where shall I go?
 
@@ -476,7 +476,7 @@ Thus ends the Fourteenth Chapter on the narration of the glories of the Devî an
 
 32\. The husband was alive, and still his queen Kaikeyi banished the eldest son of his king, S’rî Râmchandra to the forest; and the king Das’aratha sacrificed his life for that very reason.
 
-33\. The ministers no doubt wanted before to install my son as the king; but now they are not independent; they have now yielded themselves to the king Yudhâjit. <span id="p181">[<sup><small>p. 181</small></sup>]</span> 34\. There is no brother of mine powerful enough to release me from my bondage; I see I have fallen into a great difficulty by the combination of unforeseen circumstances.
+33\. The ministers no doubt wanted before to install my son as the king; but now they are not independent; they have now yielded themselves to the king Yudhâjit. <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> 34\. There is no brother of mine powerful enough to release me from my bondage; I see I have fallen into a great difficulty by the combination of unforeseen circumstances.
 
 35\. Though the success depends on Fate, still one should make an earnest effort. If one does not make any effort, fate also remains asleep. I will therefore soon make out a plan to save my son.
 
@@ -496,7 +496,7 @@ Thus ends the Fourteenth Chapter on the narration of the glories of the Devî an
 
 50\. Bhâradvâja asked, “O lotus eyed! Who are you and whose wife are you? Why have you taken so much trouble to come here? Answer all these truly.”
 
-51\. “O beautiful one! are you a Devî or a human being? your son is a very minor. Why have you come in this dense forest? It seems, as if you are deprived of your kingdom.” <span id="p182">[<sup><small>p. 182</small></sup>]</span> 52\. Thus asked by the best of the Munis, the beautiful Manoramâ became very much afflicted with grief and began to weep; she could not speak anything herself and ordered Vidalla to inform the Muni all what had happened.
+51\. “O beautiful one! are you a Devî or a human being? your son is a very minor. Why have you come in this dense forest? It seems, as if you are deprived of your kingdom.” <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> 52\. Thus asked by the best of the Munis, the beautiful Manoramâ became very much afflicted with grief and began to weep; she could not speak anything herself and ordered Vidalla to inform the Muni all what had happened.
 
 53-54. Vidalla then said :— There was a king of Kosala, named Dhruvasandhi. She is the legal wife of that king. Her name is Manoramâ. That powerful king of the Solar Dynasty was killed by a lion in a forest. This boy Sudars’ana is his son.
 
@@ -521,9 +521,9 @@ Here ends the Fifteenth chapter on the Devî Mâhâtmya and the battle between Y
 
 ## Chapter XVI
 
-**On the glory of the Devî** <span id="p182">[<sup><small>p. 182</small></sup>]</span> 1\. Vyâsa said :— After gaining the victory in the battle, the king Yudhâjit returned to the city of Ayodhyâ with his huge army and asked where are Sudars’ana and Manoramâ? He wanted to kill Sudars’ana.
+**On the glory of the Devî** <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> 1\. Vyâsa said :— After gaining the victory in the battle, the king Yudhâjit returned to the city of Ayodhyâ with his huge army and asked where are Sudars’ana and Manoramâ? He wanted to kill Sudars’ana.
 
-2\. He repeatedly exclaimed “Where are they gone?” and sent his servants <span id="p183">[<sup><small>p. 183</small></sup>]</span> on their search. Then, on an auspicious day, he installed his daughter’s son on the throne.
+2\. He repeatedly exclaimed “Where are they gone?” and sent his servants <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> on their search. Then, on an auspicious day, he installed his daughter’s son on the throne.
 
 3\. Maharsi Vas’istha was engaged as the priest; he and the other ministers began to chant the auspicious hymns of the Atharvaveda and with the jars, filled with water, and consecrated by these hymns, installed S’atrûjit on the throne.
 
@@ -543,7 +543,7 @@ Here ends the Fifteenth chapter on the Devî Mâhâtmya and the battle between Y
 
 13-15. Hearing that Yudhâjit was coming there with his army, Manoramâ began to think that his son was a minor and became very sorrowful, distressed and terrified. Then she with tears in her eyes addressed the Muni thus :— “Yudhâjit is coming here; what shall I do and whither shall I go? He has slain my father, and has installed his daughter’s son on the throne. Still he is not satisfied and he is now coming with his army here to kill my minor child.”
 
-16-21. O Lord! In days of yore, I heard that the Pândavas, when they went to the forest, lived in the holy hermitage of the Munis with Draupadî. One day the five brethren went a hunting, and the beautiful Draupadî stayed without any fear with other maid servants in the <span id="p184">[<sup><small>p. 184</small></sup>]</span> hermitage where there was the chanting of the Vedas by Dhaumya, Attri, Gâlava, Paila, Jâvâli, Gautama, Bhrigu, Chyavana, Kanva of the Atrigotra, Jatu, Kratu, Vîtihotra, Sumantu, Yajñadatt, Vatsala, Râs'âsana, Kahoda, Yavakrî, Yajñakrit, Kratu and other holy high souled Risis like Bhâradvâja and others.
+16-21. O Lord! In days of yore, I heard that the Pândavas, when they went to the forest, lived in the holy hermitage of the Munis with Draupadî. One day the five brethren went a hunting, and the beautiful Draupadî stayed without any fear with other maid servants in the <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> hermitage where there was the chanting of the Vedas by Dhaumya, Attri, Gâlava, Paila, Jâvâli, Gautama, Bhrigu, Chyavana, Kanva of the Atrigotra, Jatu, Kratu, Vîtihotra, Sumantu, Yajñadatt, Vatsala, Râs'âsana, Kahoda, Yavakrî, Yajñakrit, Kratu and other holy high souled Risis like Bhâradvâja and others.
 
 22-23. While the five great heroes Arjuna and others, the destroyers of their enemies, were roaming in the forests, Jayadratha, the king of Sindhu came with his army to the hermitage, hearing the reciting of the Vedic hymns.
 
@@ -565,7 +565,7 @@ Here ends the Fifteenth chapter on the Devî Mâhâtmya and the battle between Y
 
 35\. Dhaumya said :— “The five Pândavas have gone out on hunting, ascended on a chariot. They will return at noon with their game.”
 
-36-37. Hearing the Muni's words Jayadratha got up, and going near to Draupadî, bowed down to her and said :— “O Fair One! Is there every- <span id="p185">[<sup><small>p. 185</small></sup>]</span> thing well with you? Where have your husbands gone? To-day it is eleven years that you are residing in the forest.”
+36-37. Hearing the Muni's words Jayadratha got up, and going near to Draupadî, bowed down to her and said :— “O Fair One! Is there every- <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> thing well with you? Where have your husbands gone? To-day it is eleven years that you are residing in the forest.”
 
 38\. Draupadî then said :— “O prince! Let all be well with you, wait here for a short while; the Pândavas are coming quickly.”
 
@@ -583,7 +583,7 @@ Here ends the Fifteenth chapter on the Devî Mâhâtmya and the battle between Y
 
 48-49. O Muni! It is through avarice that men commit sinful deeds; they do not care what good or bad will happen to them in the next world. Thoroughly overpowered by greed, they take away in mind, word and deed other’s things; and thus they become fallen.
 
-50-51. Lo! Human beings always worship the Gods for wealth; but the Devas do not give them wealth instantly; they give them these things through others by making them carry on trade, make gifts, or shew their strength or by making them steal. <span id="p186">[<sup><small>p. 186</small></sup>]</span> 52\. The Vais’yas worship the Gods simply because they think they will be highly prosperous and therefore they sell many things as grains, cloth and the like.
+50-51. Lo! Human beings always worship the Gods for wealth; but the Devas do not give them wealth instantly; they give them these things through others by making them carry on trade, make gifts, or shew their strength or by making them steal. <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> 52\. The Vais’yas worship the Gods simply because they think they will be highly prosperous and therefore they sell many things as grains, cloth and the like.
 
 53\. O Controlled one! Is there not the desire to take away the other’s property in this act of merchandise? Certainly there is. Besides the merchants, when they find that when people are in urgent need of buying articles from them, expect that the price of those articles might run higher.
 
@@ -606,7 +606,7 @@ Thus ends the Sixteenth Chapter on the glory of the Devî and the going of the K
 
 ## Chapter XVII
 
-**On the story of** **Vis****’vâmitra** <span id="p186">[<sup><small>p. 186</small></sup>]</span> 1-3. Vyâsa said :— O King! Hearing thus the words of the Maharsi Bhâradvâja and seeing that he made a firm resolve, the King Yudhâjit called his prime minister quickly and asked, “O intelligent one! What am I to do now? I want to carry away by force this boy with his mother sweet Manoramâ; no one desirous of one’s welfare won’t trifle away his enemy, be he even a very weak one; if he does so, that enemy <span id="p187">[<sup><small>p. 187</small></sup>]</span> will get stronger day by day, as the disease consumption becomes stronger; and will ultimately become the cause of death.
+**On the story of** **Vis****’vâmitra** <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> 1-3. Vyâsa said :— O King! Hearing thus the words of the Maharsi Bhâradvâja and seeing that he made a firm resolve, the King Yudhâjit called his prime minister quickly and asked, “O intelligent one! What am I to do now? I want to carry away by force this boy with his mother sweet Manoramâ; no one desirous of one’s welfare won’t trifle away his enemy, be he even a very weak one; if he does so, that enemy <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> will get stronger day by day, as the disease consumption becomes stronger; and will ultimately become the cause of death.
 
 4\. There is no warrior, nor any soldiers here of the other party; no one will be able to resist me; I can take away, as I like, the enemy of my daughter’s son and can kill him.
 
@@ -630,7 +630,7 @@ Thus ends the Sixteenth Chapter on the glory of the Devî and the going of the K
 
 16\. O King! Hearing thus the Vas'istha's words, Vis’vâmitra, the King, ordered at once his powerful followers to carry the cow Nandinî away by fastening a cord round her neck per sheer force.
 
-17-19. The followers, obeying the order at once bound the cow with ropes and began to carry her away by force. At this Nandinî, trembling and with tears in her eyes, began to say to the Muni “O One! whose wealth consists only in asceticism! Are you going to leave me? Otherwise <span id="p188">[<sup><small>p. 188</small></sup>]</span> why these fellows are binding me with a cord and dragging me away?” At this the Muni replied “O Nandinî! I have never parted with you; I perform all my sacrifices through your milk. O auspicious one! I honoured this king, my guests, with eatables prepared from your food and for that reason he is carrying you away from me by sheer force. What can I do? O Nandinî! I have not the least desire to part with you.”
+17-19. The followers, obeying the order at once bound the cow with ropes and began to carry her away by force. At this Nandinî, trembling and with tears in her eyes, began to say to the Muni “O One! whose wealth consists only in asceticism! Are you going to leave me? Otherwise <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> why these fellows are binding me with a cord and dragging me away?” At this the Muni replied “O Nandinî! I have never parted with you; I perform all my sacrifices through your milk. O auspicious one! I honoured this king, my guests, with eatables prepared from your food and for that reason he is carrying you away from me by sheer force. What can I do? O Nandinî! I have not the least desire to part with you.”
 
 20\. Hearing these words from the Muni, the cow became very angry and bellowed loudly and terribly.
 
@@ -654,7 +654,7 @@ Thus ends the Sixteenth Chapter on the glory of the Devî and the going of the K
 
 30\. O king! You are very intelligent; consider that by, combinations of circumstances, a hair can kill a powerful tiger and a gnat can kill an elephant. Therefore dost thou forsake this rashness and hear my beneficent advice.
 
-31\. Vyâsa said :— O king! The best of kings, Yudhâjit hearing the prime minister's advice bowed down humbly at the feet of the Muni and returned to his own city. <span id="p189">[<sup><small>p. 189</small></sup>]</span> 32\. Manoramâ, too, became free from anxiety, and, remaining peaceful in the hermitage, began to nourish and support her child, engaged in vows.
+31\. Vyâsa said :— O king! The best of kings, Yudhâjit hearing the prime minister's advice bowed down humbly at the feet of the Muni and returned to his own city. <span id="p189"><sup><small>[ p. 189 ]</small></sup></span> 32\. Manoramâ, too, became free from anxiety, and, remaining peaceful in the hermitage, began to nourish and support her child, engaged in vows.
 
 33\. The lovely son of the king began to grow daily like the phases of the waxing moon and sport fearlessly with the boys of the Munis, altogether, wherever they liked, a sight very auspicious.
 
@@ -674,7 +674,7 @@ Thus ends the Sixteenth Chapter on the glory of the Devî and the going of the K
 
 44\. Thus, expert in many branches of learning, Sudars’ana served his Mother in that forest and began to wander on the banks of the Ganges.
 
-45\. One day the Mother of the Universe gave the bows, sharpened arrows, quiver and a mail coat of armour to that boy in that forest. <span id="p190">[<sup><small>p. 190</small></sup>]</span> 46-47. O King! At this time the extraordinary beautiful and lovely princess S’as’ikalâ, endowed with all auspicious qualities, the daughter of the king of Kâshi, came to hear that a beautiful prince named Sudars’ana, a second Kandarpa, full of heroism and endowed with all auspicious qualities is dwelling in a forest.
+45\. One day the Mother of the Universe gave the bows, sharpened arrows, quiver and a mail coat of armour to that boy in that forest. <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> 46-47. O King! At this time the extraordinary beautiful and lovely princess S’as’ikalâ, endowed with all auspicious qualities, the daughter of the king of Kâshi, came to hear that a beautiful prince named Sudars’ana, a second Kandarpa, full of heroism and endowed with all auspicious qualities is dwelling in a forest.
 
 48\. The princess, hearing this from a soothsayer, mentally loved and desired him and wanted finally to accept him as her legal husband.
 
@@ -696,7 +696,7 @@ Thus ends the Sixteenth Chapter on the glory of the Devî and the going of the K
 
 58\. S’as’ikalâ replied “O Noble one! What beautiful thing is therein that hermitage that is extraordinary and worth describing.”
 
-59\. The Brâhmana said “O fair one! There is staying the most lovely Sudars’ana, the son of the King Dhruvasandhi. He is the loveliest of all men. <span id="p191">[<sup><small>p. 191</small></sup>]</span> 60\. O fair one! He who has not seen him, I think, has his eyes given to him in vain.
+59\. The Brâhmana said “O fair one! There is staying the most lovely Sudars’ana, the son of the King Dhruvasandhi. He is the loveliest of all men. <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> 60\. O fair one! He who has not seen him, I think, has his eyes given to him in vain.
 
 61\. O auspicious one! It appears as if the Creator, with a view to see how it looks, has invested him with all the qualities.
 
@@ -709,7 +709,7 @@ Thus ends the seventeenth chapter on the story of Vis’vâmitra and on the gett
 
 ## Chapter XVIII
 
-**The Svayambara of S’as’ikalâ** <span id="p191">[<sup><small>p. 191</small></sup>]</span> 1\. Vyâsa said :— The King's lovely daughter was very glad on hearing the words of the Brâhmana, and drowned herself in ecstacy of love. The Brâhmin also departed, thinking of the whole affair.
+**The Svayambara of S’as’ikalâ** <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> 1\. Vyâsa said :— The King's lovely daughter was very glad on hearing the words of the Brâhmana, and drowned herself in ecstacy of love. The Brâhmin also departed, thinking of the whole affair.
 
 2\. The daughter was already attached to the prince, and now she became the more merged in love for him and became very anxious. Now, on the departure of the Brâhmin, she felt herself struck by the arrows of love.
 
@@ -723,7 +723,7 @@ Thus ends the seventeenth chapter on the story of Vis’vâmitra and on the gett
 
 8\. The bedding, betel leaves, music, singing, and dancing, all now fail to give me satisfaction and peace.
 
-9\. O companion! I would have gone to-day where is residing that deceiver; but I fear for my father as well for the honour of my family. <span id="p192">[<sup><small>p. 192</small></sup>]</span> 10\. My father is not yet declaring the svayamvara for my marriage. What shall I do? Had he given me in marriage to that Sudars’an, I would have allowed him embrace me and satisfy his passions to-day!
+9\. O companion! I would have gone to-day where is residing that deceiver; but I fear for my father as well for the honour of my family. <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> 10\. My father is not yet declaring the svayamvara for my marriage. What shall I do? Had he given me in marriage to that Sudars’an, I would have allowed him embrace me and satisfy his passions to-day!
 
 11\. O friend! look at the strange ideas of the Creator! There are hundreds of kings today who are influential and I do not consider them beautiful; and that King's son is exiled from his kingdom and yet he has stolen away my heart.”
 
@@ -743,7 +743,7 @@ Once engaged in meditation on that excellent root mantra on Kâma, and, while re
 
 21\. The Munis, who have taken vows, addressed Manoramâ also “Your son will soon become the lord of the world; you need not care any more.”
 
-22\. Then the lean and thin Manoramâ, hearing the Muni's words said “O Brâhmanas! Let your âsiss (words of benedictions) be justified with success. What wonder that a kingdom be obtained by the good will of the Sâdhus! <span id="p193">[<sup><small>p. 193</small></sup>]</span> 23\. There is no force, no minister, no help, no property; how, under what combinations, can then my son get kingship?
+22\. Then the lean and thin Manoramâ, hearing the Muni's words said “O Brâhmanas! Let your âsiss (words of benedictions) be justified with success. What wonder that a kingdom be obtained by the good will of the Sâdhus! <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> 23\. There is no force, no minister, no help, no property; how, under what combinations, can then my son get kingship?
 
 24\. You are the best of the knowers of mantrams; due to the influence of your good will, my son will surely be a king; there is no doubt in this.”
 
@@ -765,7 +765,7 @@ Once engaged in meditation on that excellent root mantra on Kâma, and, while re
 
 33-34. O king! Brahmâ, Visnu, S’ambhu, Indra, Varuna, Yama, Vâyû, Agni, Kuvera, Vis'vakarmâ, Pûsâ, Bhaga, the two Asvins, Âdityas, Vasus, Rudras, Vis'vedevas, Maruts, all worship the Supreme Deity of Creation, Preservation and Dissolution.
 
-35\. Who is there amongst tho wise that does not serve this Highest Energy? The real nature of that Auspicious Goddess, the Bestower all desires, Sudars’ana came to know very well. <span id="p194">[<sup><small>p. 194</small></sup>]</span> 36\. She is the Real Essence, Brahmâ, very rarely realised; She is the Higher Vidyâ and the Lower Vidyâ (Avidyâ) and She is the vital energy, the Mukhya Prâna, of the best of the Yogis, who are desirous of liberation.
+35\. Who is there amongst tho wise that does not serve this Highest Energy? The real nature of that Auspicious Goddess, the Bestower all desires, Sudars’ana came to know very well. <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> 36\. She is the Real Essence, Brahmâ, very rarely realised; She is the Higher Vidyâ and the Lower Vidyâ (Avidyâ) and She is the vital energy, the Mukhya Prâna, of the best of the Yogis, who are desirous of liberation.
 
 37\. O king! What individual is there that is able to realise the nature of Pramâtmâ (the Highest Universal Self) without having recourse to Her, Who is manifesting this universal consciousness, by bringing into existence these Sâtvik, Râjasik, and Tâmasik creations.
 
@@ -781,7 +781,7 @@ Accordingly the king employed many artisans, had platforms covered with beautifu
 
 45-47. Thus the assembly hall for Svayambara built and decorated and all the necessary articles and equipments brought thither, the fair eyed S’as’ikalâ, told her companions with sorrow “Better go to my mother and say her privately that I have already selected mentally my husband the beautiful Sudars'ana, the son of the king Dhruvasandhi in my mind; I won't marry any other prince than him; the Goddess Bhagavatî has settled him for my husband.”
 
-48-50. Vyâsa said, the companion of S’as’ikalâ hearing thus, went quickly to her mother Vaidarbhî and addressed her sweetly in private “O chaste one! Your daughter, with a sorrowful heart, has sent me to you to say the following; Please hear and do at your earliest convenience, what is good and beneficial.” She said “There is staying in the hermitage of Bhâradvâja, the son of the king Dhruvasandhi; I have mentally selected him as my husband; I won't select any other prince.” <span id="p195">[<sup><small>p. 195</small></sup>]</span> 51\. Vyâsa said :— The queen, hearing her words, told to her husband, when he returned to the palace, all her daughter's words as she had heard them.
+48-50. Vyâsa said, the companion of S’as’ikalâ hearing thus, went quickly to her mother Vaidarbhî and addressed her sweetly in private “O chaste one! Your daughter, with a sorrowful heart, has sent me to you to say the following; Please hear and do at your earliest convenience, what is good and beneficial.” She said “There is staying in the hermitage of Bhâradvâja, the son of the king Dhruvasandhi; I have mentally selected him as my husband; I won't select any other prince.” <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> 51\. Vyâsa said :— The queen, hearing her words, told to her husband, when he returned to the palace, all her daughter's words as she had heard them.
 
 52-53. Hearing this, the king Subâhu was astonished and then laughed frequently and then began to say to his wife, the daughter of the king of Vidarbha the following true words :— “O fair one! That king’s son Sudars’ana is a minor, he has been exiled to the forest; now he is helpless and is residing with his mother in a dense forest.
 
@@ -796,13 +796,13 @@ Thus ends the Eighteenth Chapter of the 3rd Skandha about the Svayambara of S’
 
 ## Chapter XIX
 
-**On the going to the Svayamvara assembly of Sudars’ana** <span id="p195">[<sup><small>p. 195</small></sup>]</span> 1-2. Vyâsa said :— After the king Subâhu had spoken thus, the Queen made her daughter S’as’ikalâ, who had always sweet smiles on her lips sit on her lap and after consoling her with sweet words, began to say “O fair eyed! You always practise vows and other religious performances; why are you, then, speaking these unpleasant words? The King has heard all what you wanted to say and has been very sorry.
+**On the going to the Svayamvara assembly of Sudars’ana** <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> 1-2. Vyâsa said :— After the king Subâhu had spoken thus, the Queen made her daughter S’as’ikalâ, who had always sweet smiles on her lips sit on her lap and after consoling her with sweet words, began to say “O fair eyed! You always practise vows and other religious performances; why are you, then, speaking these unpleasant words? The King has heard all what you wanted to say and has been very sorry.
 
 3-5. That Sudars'ana is very unfortunate, deprived of his kingdom, helpless, void of wealth and army, abandoned by his friends, exiled with his mother in the forest, subsisting on roots and fruits, lean and thin. Thus he is not worthy of becoming the husband of yours. There are many learned, beautiful, approved of all, qualified with all royal marks, princes fit to become your husband. They all will come in this Svayamvara.
 
 6\. There is one brother of this Sudars'ana, who is endowed with all kingly qualifications, beautiful, and qualified  in various other ways. He is the king of the Kosala country.
 
-7\. There is another point worth consideration; please hear it. The King Yudhâjit is trying his best to kill Sudars'ana on a befitting opportunity. <span id="p196">[<sup><small>p. 196</small></sup>]</span> 8\. He already counselled with his ministers and killed in a desperate fight the king Vîrasena and installed his daughter’s son on the throne.
+7\. There is another point worth consideration; please hear it. The King Yudhâjit is trying his best to kill Sudars'ana on a befitting opportunity. <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> 8\. He already counselled with his ministers and killed in a desperate fight the king Vîrasena and installed his daughter’s son on the throne.
 
 9\. Even he came up so far as the hermitage of Bhâradvâja to kill Sudars'ana; afterwards he was prevented by the Munis from doing so then he returned home.”
 
@@ -824,7 +824,7 @@ Thus ends the Eighteenth Chapter of the 3rd Skandha about the Svayambara of S’
 
 21\. Please depend unto Her, at Whose command this whole universe, moving and unmoving is resting, unto that Great Destiny and come to this place without fail.
 
-22\. What the Goddess, whose commands S’ankara all the other Devas obey, has ordered, can never turn out false. <span id="p197">[<sup><small>p. 197</small></sup>]</span> 23\. O Brâhmin! You the foremost amongst the virtuous; do therefore call on that King’s son in privacy and speak out all there to him. What shall I say more to you. Do all that my object may be fullfilled.”
+22\. What the Goddess, whose commands S’ankara all the other Devas obey, has ordered, can never turn out false. <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> 23\. O Brâhmin! You the foremost amongst the virtuous; do therefore call on that King’s son in privacy and speak out all there to him. What shall I say more to you. Do all that my object may be fullfilled.”
 
 24\. Thus saying, she gave the Brâhmin his Daksinâ and sent him to Sudars’ana. He went there and reported all the matter duly to him and quickly returned back.
 
@@ -846,7 +846,7 @@ Svayamvara.
 
 33\. Vyâsa said :— Thus saying, Sudars’ana mounted on his chariot and was ready to start. Seeing this Manoramâ began to bless him and so cheer him.
 
-34-37. O Son! Let Ambikâ Devî protect your front; Padmalochanâ protect your back; Pârvatî, your two sides; S’ivâ Devî, all around you; Vârâhî, in dreadful paths; Durgâ, in royal forts, Kâlikâ, in terrible fights; Parames'varî, in the platform hall; Mâtamgî, in the Svayamvara hall; Bhavanî, the Avertress of world, amidst the kings; Girijâ, in mountain passes; Chamundâ, in the sacrificial ground, and let the eternal Kâmagâ, protect you in the forests. <span id="p198">[<sup><small>p. 198</small></sup>]</span> 38\. O Descendant of Raghu family! Let the Vaisnavî force protect you in quarrels; let Bhairavî protect you in battles and amongst your enemies.
+34-37. O Son! Let Ambikâ Devî protect your front; Padmalochanâ protect your back; Pârvatî, your two sides; S’ivâ Devî, all around you; Vârâhî, in dreadful paths; Durgâ, in royal forts, Kâlikâ, in terrible fights; Parames'varî, in the platform hall; Mâtamgî, in the Svayamvara hall; Bhavanî, the Avertress of world, amidst the kings; Girijâ, in mountain passes; Chamundâ, in the sacrificial ground, and let the eternal Kâmagâ, protect you in the forests. <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> 38\. O Descendant of Raghu family! Let the Vaisnavî force protect you in quarrels; let Bhairavî protect you in battles and amongst your enemies.
 
 39\. O Son! Let the Mahâ Mâyâ Jagaddhâtrî Bhuvanes’varî protect you everywhere and at all times.
 
@@ -872,7 +872,7 @@ Svayamvara.
 
 52\. Can it be that the princess will overlook these Kings with soldiers and weapons, and select the long armed Sudars’ana?”
 
-53\. Then the King Yudhâjit addressed all the other kings “I will slay Sudars’ana for the sake of the daughter; there is no doubt in this.” <span id="p199">[<sup><small>p. 199</small></sup>]</span> 54-55. Hearing Yudhâjit's words, the king of Keral, the foremost of those who know morals, began to say :— “O king! In this Ichchhâ svayamvara, it is not proper to fight. Here there will be no marriage for the prowess; there is no arrangement fixed to steal away the bride elect by force; here the bride will select of her own free choice; what cause can then there crop up here for quarrels?
+53\. Then the King Yudhâjit addressed all the other kings “I will slay Sudars’ana for the sake of the daughter; there is no doubt in this.” <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> 54-55. Hearing Yudhâjit's words, the king of Keral, the foremost of those who know morals, began to say :— “O king! In this Ichchhâ svayamvara, it is not proper to fight. Here there will be no marriage for the prowess; there is no arrangement fixed to steal away the bride elect by force; here the bride will select of her own free choice; what cause can then there crop up here for quarrels?
 
 56\. Before, you had driven him out of his kingdom; and though you are the superior king, you have taken his kingdom by force and installed your daughter’s son on the throne.
 
@@ -895,9 +895,9 @@ Thus ends the Nineteenth Chapter on the going to the Svayamvara assembly of Suda
 
 ## Chapter XX
 
-**On the Svayamvara hall and the kings’ conversation there** <span id="p199">[<sup><small>p. 199</small></sup>]</span> 1\. Vyâsa said :— O Noble minded one! The king Yudhâjit replied to the address of the king of Keral, thus :—
+**On the Svayamvara hall and the kings’ conversation there** <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> 1\. Vyâsa said :— O Noble minded one! The king Yudhâjit replied to the address of the king of Keral, thus :—
 
-2-3. O King! You are truthful and have restrained your passions. What you have told just now in this assembly of kings is all correct and approved by morality. O best of the kings! You are born of a high family; you better say how can this take place that when so many fit persons are present here to become the bridegroom, can an unworthy person take away the offer? <span id="p200">[<sup><small>p. 200</small></sup>]</span> 4\. As a jackal never becomes fit to enjoy what are the dues of a lion, so this Sudars’ana is also unfit to acquire this bride elect.
+2-3. O King! You are truthful and have restrained your passions. What you have told just now in this assembly of kings is all correct and approved by morality. O best of the kings! You are born of a high family; you better say how can this take place that when so many fit persons are present here to become the bridegroom, can an unworthy person take away the offer? <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> 4\. As a jackal never becomes fit to enjoy what are the dues of a lion, so this Sudars’ana is also unfit to acquire this bride elect.
 
 5\. The Brâhmanas have the Vedas as their strength; the Ksattriya kings take bows and arrows to be their source of strength; this is ordained everywhere. Therefore O King! What wrong have I done in my statement. Kindly explain.
 
@@ -919,7 +919,7 @@ Thus ends the Nineteenth Chapter on the going to the Svayamvara assembly of Suda
 
 17\. Your brother, too, is come here to have the princess; he has got his army and is also marked with his strength and valor. The powerful Yudhâjit has come here also to help him.
 
-18\. O observer of good vows! Seeing you without any army, we have narrated to you all the facts. Now think and do accordingly. If you please, remain here or go anywhere else.” <span id="p201">[<sup><small>p. 201</small></sup>]</span> 19-20. Sudars’ana replied :— “True, I have no army, no help, no wealth, no forts, no friends or no kings to protect me. Hearing that Svayamvara will be held here, I have come here to witness it. But there is one particularity here; it is this :— The Devî Bhagavatî has ordered me in my dream to come here. Under Her command I have come here; there is no doubt in this.
+18\. O observer of good vows! Seeing you without any army, we have narrated to you all the facts. Now think and do accordingly. If you please, remain here or go anywhere else.” <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> 19-20. Sudars’ana replied :— “True, I have no army, no help, no wealth, no forts, no friends or no kings to protect me. Hearing that Svayamvara will be held here, I have come here to witness it. But there is one particularity here; it is this :— The Devî Bhagavatî has ordered me in my dream to come here. Under Her command I have come here; there is no doubt in this.
 
 21\. I have got no other object in view; I have obeyed what the Bhagavatî Bhuvanes’varî has ordered me to do. Today will happen, no doubt, what She has ordained.
 
@@ -937,7 +937,7 @@ Thus ends the Nineteenth Chapter on the going to the Svayamvara assembly of Suda
 
 29-30. What She has willed, She will do that. I am not to care for that. O high minded ones! You need not be afraid at all in this. I have told you all truth. Victory or defeat, I feel no shame in either of them. For I am always under the control of Bhagavatî; therefore if there be any shame here, it is all Hers.”
 
-31-33. Vyâsa said :— Hearing thus his words, and seeing that his mind is firmly devoted to Bhagavatî, the kings saw each other and said thus :— “O Sudars’ana! What you have said is quite true; it is never otherwise; still Yudhâjit, the king of Ujjain is intent on killing you. O intelligent! O sinless! we have all come to know that there is no trace of evil in you. We were all overcome with pity for you; hence we have informed you; now think and do the needful?” <span id="p202">[<sup><small>p. 202</small></sup>]</span> 34\. Sudars’ana said, “You are all kind and large hearted; what you all have said is quite true. What shall I tell you, being a minor as yet!
+31-33. Vyâsa said :— Hearing thus his words, and seeing that his mind is firmly devoted to Bhagavatî, the kings saw each other and said thus :— “O Sudars’ana! What you have said is quite true; it is never otherwise; still Yudhâjit, the king of Ujjain is intent on killing you. O intelligent! O sinless! we have all come to know that there is no trace of evil in you. We were all overcome with pity for you; hence we have informed you; now think and do the needful?” <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> 34\. Sudars’ana said, “You are all kind and large hearted; what you all have said is quite true. What shall I tell you, being a minor as yet!
 
 35\. O kings! No one can cause the death of another. All this world, moving and unmoving, is under the control of Fate.
 
@@ -961,7 +961,7 @@ Thus ends the Nineteenth Chapter on the going to the Svayamvara assembly of Suda
 
 47\. The words of the Bhagavatî are the best proof; I do not know any other. My mind is entirely given up to Her. There will be nothing otherwise than what She has ordained; whether it is good or whether it is bad.
 
-48\. O kings! Let Yudhâjit remain in peace. I have no enmity with him. He, who will deal inimically with me, will certainly reap his reward. There is not the least doubt in this.” <span id="p203">[<sup><small>p. 203</small></sup>]</span> 49\. Vyâsa said :— O king! When Sudars’ana addressed them thus, all the kings became very glad and they all remained there for the Svayamvara. Sudars’ana, too, went to his camp and remained also calm and quiet.
+48\. O kings! Let Yudhâjit remain in peace. I have no enmity with him. He, who will deal inimically with me, will certainly reap his reward. There is not the least doubt in this.” <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> 49\. Vyâsa said :— O king! When Sudars’ana addressed them thus, all the kings became very glad and they all remained there for the Svayamvara. Sudars’ana, too, went to his camp and remained also calm and quiet.
 
 50\. Next day the king Subâhu invited all the kings present in his city to their respective seats in the Svayamvara hall.
 
@@ -983,7 +983,7 @@ Thus ends the Nineteenth Chapter on the going to the Svayamvara assembly of Suda
 
 61\. Vyâsa said :— When Subâhu had spoken thus, S’as’ikalâ, who generally talked little, replied with sweet sonorous words, impregnated with religious truth.
 
-62\. “Father! I won’t go before the kings who are inspired by lust; women like me never go there; it is those that are dissolute that attend those places. <span id="p204">[<sup><small>p. 204</small></sup>]</span> 63\. Father! I have heard from the religious texts that women should cast their glances on their husbands only and not on any other.
+62\. “Father! I won’t go before the kings who are inspired by lust; women like me never go there; it is those that are dissolute that attend those places. <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> 63\. Father! I have heard from the religious texts that women should cast their glances on their husbands only and not on any other.
 
 64\. The woman that goes to many persons is mentally claimed by all; each of them contemplates strongly “Let this woman be mine.” Thus her chastity is destroyed.
 

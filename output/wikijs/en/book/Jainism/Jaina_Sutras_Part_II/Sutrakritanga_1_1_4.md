@@ -40,7 +40,7 @@ A wise monk who fully appreciates this, should not mix with those (heretics); wi
 
 Some say that those who own possessions and engage in undertakings (may reach perfection); but a monk should take his refuge to those who neither own possessions nor engage in undertakings. (3)
 
-A wise man should beg food which has been <span id="p247">[<sup><small>p. 247</small></sup>]</span> prepared (for somebody else), and he should accept what is freely given him, without greed and passions; he should abstain from overbearing behaviour [^716]. (4)
+A wise man should beg food which has been <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> prepared (for somebody else), and he should accept what is freely given him, without greed and passions; he should abstain from overbearing behaviour [^716]. (4)
 
 He should know the talk of people: some say things which are the outcome of a wrong understanding and are but opinions of others repeated. (5)
 
@@ -52,7 +52,7 @@ Some beings have motion, others not; it depends on certain conditions whether th
 
 (E. g. big creatures) have one form of bodily existence and then another [^720]. But all are subject to pain; hence they should not be killed. (9)
 
-This is the quintessence of wisdom: not to kill anything. Know this to be the legitimate conclusion <span id="p248">[<sup><small>p. 248</small></sup>]</span> from the principle of the reciprocity with regard to non-killing [^721]. (10)
+This is the quintessence of wisdom: not to kill anything. Know this to be the legitimate conclusion <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> from the principle of the reciprocity with regard to non-killing [^721]. (10)
 
 Living (according to the rules of conduct), and without greed, one should take care of the highest good [^722].
 

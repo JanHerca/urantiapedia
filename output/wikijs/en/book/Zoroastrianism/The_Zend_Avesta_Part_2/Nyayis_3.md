@@ -52,7 +52,7 @@ Be propitiation . . . .
 
 9\. Yathâ aha vairyô: The will of the Lord is the law of holiness . . . .
 
-10 [^1528]. Give us strength and victory! Give us welfare in cattle and in bread! Give us a great number of male children, praisers \[of God\] and chiefs in assemblies, who smite and are not smitten, who smite at one stroke their enemies, who smite at one stroke their foes, ever in joy and ready to help. <span id="p356">[<sup><small>p. 356</small></sup>]</span> 11\. Ye gods of full Glory, ye gods of full healing, let your greatness become manifest! let your assistance become manifest as soon as you are called for! and ye, Waters, manifest your Glory, and impart it to the man who offers you a sacrifice.
+10 [^1528]. Give us strength and victory! Give us welfare in cattle and in bread! Give us a great number of male children, praisers \[of God\] and chiefs in assemblies, who smite and are not smitten, who smite at one stroke their enemies, who smite at one stroke their foes, ever in joy and ready to help. <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> 11\. Ye gods of full Glory, ye gods of full healing, let your greatness become manifest! let your assistance become manifest as soon as you are called for! and ye, Waters, manifest your Glory, and impart it to the man who offers you a sacrifice.
 
 Ashem Vohû: Holiness is the best of all good . . . .
 

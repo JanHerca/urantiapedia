@@ -48,7 +48,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. In the hall, in its easterly part, he puts down the fire and puts wood on it.
 
-8\. To the west of the fire he spreads out a red bull's skin with the neck to the east, with the hair outside. <span id="p194">[<sup><small>p. 194</small></sup>]</span>
+8\. To the west of the fire he spreads out a red bull's skin with the neck to the east, with the hair outside. <span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 9\. [^625] On that (skin) they both sit down facing the east or the north, so that the wife sits behind her husband, with (the verse), ‘Here may the cows sit down, here the horses, here the men. Here may also Pûshan with a thousand (sacrificial) gifts sit down.’
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 14\. He worships the seven <i>Ri</i>shis (ursa major) with (the verse), ‘The seven <i>Ri</i>shis who have led to firmness she, Arundhatî, who stands first among the six K<i>ri</i>ttikâs (pleiads):—may she, the eighth one, who leads the conjunction of the (moon with the) six K<i>ri</i>ttikâs, the first (among conjunctions) shine upon us!’ Then he worships the polar star with (the formula), 'Firm dwelling, firm origin. The firm one art thou, standing on the side of firmness. Thou art the pillar of the stars; thus protect me against my adversary.
 
-Adoration be to the Brahman, to the firm, immovable one! Adoration be to the Brahman's son, Pra<i>g</i>âpati! Adoration to the Brahman's children, <span id="p195">[<sup><small>p. 195</small></sup>]</span> to the thirty-three gods! Adoration to the Brahman's children and grandchildren, to the Aṅgiras!
+Adoration be to the Brahman, to the firm, immovable one! Adoration be to the Brahman's son, Pra<i>g</i>âpati! Adoration to the Brahman's children, <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> to the thirty-three gods! Adoration to the Brahman's children and grandchildren, to the Aṅgiras!
 
 He who knows thee (the polar star) as the firm, immovable Brahman with its children and with its grandchildren, with such a man children and grandchildren will firmly dwell, servants and pupils, garments and woollen blankets, bronze and gold, wives and kings, food, safety, long life, glory, renown, splendour, strength, holy lustre, and the enjoyment of food. May all these things firmly and immovably dwell with me!’
 
@@ -78,7 +78,7 @@ He who knows thee (the polar star) as the firm, immovable Brahman with its child
 
 ‘I know thee as the unfailing Brahman. May I not fall from this world and from this country. May he who hates me, my rival, fall from this world and from this country.
 
-‘I know thee as the nave of the universe. May I become the nave of this country. I know thee as the centre of the universe. May I become the centre of this country. I know thee as the string that holds the universe. May I become the string that holds this country. I know thee as the pillar <span id="p196">[<sup><small>p. 196</small></sup>]</span> of the universe. May I become the pillar of this country. I know thee as the navel of the universe. May I become the navel of this country.
+‘I know thee as the nave of the universe. May I become the nave of this country. I know thee as the centre of the universe. May I become the centre of this country. I know thee as the string that holds the universe. May I become the string that holds this country. I know thee as the pillar <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> of the universe. May I become the pillar of this country. I know thee as the navel of the universe. May I become the navel of this country.
 
 ‘As the navel is the centre of the Prâ<i>n</i>as, thus I am the navel. May hundred-and-onefold evil befall him who hates us and whom we hate; may more than hundred-and-onefold merit fall to my lot!’
 
@@ -96,7 +96,7 @@ He who knows thee (the polar star) as the firm, immovable Brahman with its child
 
 8\. In the evening and in the morning he constantly sacrifices (_g_uhoti) with his hand (and not with the Darvî) the two following oblations of rice or of barley: ‘To Agni Svâhâ! To Pra<i>g</i>âpati Svâhâ!’
 
-9\. Some (teachers) state that in the morning the <span id="p197">[<sup><small>p. 197</small></sup>]</span> former (of these oblations) should be directed to Sûrya.
+9\. Some (teachers) state that in the morning the <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> former (of these oblations) should be directed to Sûrya.
 
 10\. Through a period of three nights they should eat no saline food, should sleep on the ground, wear ornaments, and should be chaste.
 
@@ -122,7 +122,7 @@ He who knows thee (the polar star) as the firm, immovable Brahman with its child
 
 ‘Vâyu! Expiation! &c.
 
-‘Sun! Expiation! &c.’ <span id="p198">[<sup><small>p. 198</small></sup>]</span>
+‘Sun! Expiation! &c.’ <span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 2\. Having sacrificed (these oblations), he then pours the remainder as an oblation on her head, with (the formulas), ‘Bhû_h_! I sacrifice fortune over thee. Svâhâ! Bhuva_h_! I sacrifice glory over thee. Svâhâ! Suva_h_! I sacrifice beauty over thee. Svâhâ! Bhûr bhuva_h<i> suva</i>h_! I sacrifice brightness over thee. Svâhâ!’
 
@@ -134,7 +134,7 @@ He who knows thee (the polar star) as the firm, immovable Brahman with its child
 
 6\. [^629] He then seeks her mouth with his mouth, with (the two verses), 'Honey! Lo! Honey! This is honey! my tongue's speech is honey; in my mouth dwells the honey of the bee; on my teeth dwells concord.
 
-‘The (magic charm of) concord that belongs to the <i>k</i>akravâka birds, that is brought out of the <span id="p199">[<sup><small>p. 199</small></sup>]</span> rivers, of which the divine Gandharva is possessed, thereby we are concordant.’
+‘The (magic charm of) concord that belongs to the <i>k</i>akravâka birds, that is brought out of the <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> rivers, of which the divine Gandharva is possessed, thereby we are concordant.’
 
 7\. [^630] A woman that has her monthly courses, keeps through a period of three nights the observances prescribed in the Brâhma<i>n</i>a.
 
@@ -153,7 +153,7 @@ He who knows thee (the polar star) as the firm, immovable Brahman with its child
 
 (d) [^632] 'As the earth is pregnant with Agni, as the heaven is with Indra pregnant, as Vâyu dwells in the womb of the regions (of the earth), thus I place an embryo into thy womb.
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 (e) 'Open thy womb; take in the sperm; may a male child, an embryo be begotten in the womb. The mother bears him ten months; may he be born, the most valiant of his kin.
 
@@ -173,7 +173,7 @@ And (besides with the two Mantras), ‘United are our names’ (above, 24, 4), a
 
 4\. Only the first time and after her monthly courses, according to Bâdarâya<i>n</i>a.
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 
 
@@ -190,7 +190,7 @@ And (besides with the two Mantras), ‘United are our names’ (above, 24, 4), a
 
 5\. Or he should count all the sacrifices (that have been left out), and should offer them.
 
-6\. (The punarâdhâna or repeated setting up of the fire is performed in the following way): in an enclosed space, having raised (the surface), sprinkled it (with water), strewn it with sand, and covered it with Udumbara or Plaksha branches, he silently brings together the things belonging to (the sacrifice) according as he is able to get them, produces fire by attrition out of a sacrificially pure piece of wood, or gets a common fire, places it in a big vessel, sets it in a blaze, and puts (fuel) on it with the words, ‘Bhû_h_! Bhuva_h_! Suva_h_! Om! Fixity!’ <span id="p202">[<sup><small>p. 202</small></sup>]</span>
+6\. (The punarâdhâna or repeated setting up of the fire is performed in the following way): in an enclosed space, having raised (the surface), sprinkled it (with water), strewn it with sand, and covered it with Udumbara or Plaksha branches, he silently brings together the things belonging to (the sacrifice) according as he is able to get them, produces fire by attrition out of a sacrificially pure piece of wood, or gets a common fire, places it in a big vessel, sets it in a blaze, and puts (fuel) on it with the words, ‘Bhû_h_! Bhuva_h_! Suva_h_! Om! Fixity!’ <span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 7\. He then puts wood on the fire, performs (the rites) down to the Vyâh<i>ri</i>ti oblations, and offers two ‘mindâ oblations’ (i.e. oblations for making up for defects) with (the two Mantras), ‘If a defect (mindâ) has arisen in me,’ (and), ‘Agni has given me back my eye’ (Taitt. Sa<i>ri</i>h. III, 2, 5, 4).
 
@@ -198,7 +198,7 @@ And (besides with the two Mantras), ‘United are our names’ (above, 24, 4), a
 
 9\. He offers four ‘abhyâvartin oblations’ with (the Mantras), ‘Agni who turns to us (abhyâvartin)!’ ‘Agni Aṅgiras!’ ‘Again with sap,’ ‘With wealth’ (Taitt. Sa<i>m</i>h. IV. 2, 1, 2. 3).
 
-10\. [^638] Having made oblations with the single Vyâh<i>ri</i>tis and with (the three Vyâh<i>ri</i>tis together), and having made an oblation with the verse, ‘Thou art quick, Agni, and free from imprecation. Verily (satyam) thou art quick. Held by us in our quick mind (manas), with thy quick (mind) thou carriest the offering (to the gods). Being quick bestow medicine on us! Svâhâ!’—this (last) oblation contains an allusion to the mind (manas), it refers to Pra<i>ri</i>âpati, and alludes to the number seven (?),—he quickly repeats in his mind the da<i>ri</i>ahot<i>ri</i> formula (Taitt. Âra<i>ri</i>y. III, 1, 1). Then he makes the sagraha oblation (?); (then follow the <span id="p203">[<sup><small>p. 203</small></sup>]</span> oblations), ‘This, O Varu<i>ri</i>a’ (&c.; see I, 2, 8, 16, down to the end of the Sûtra). Then he serves food to the Brâhma<i>ri</i>as and causes them to say, ‘An auspicious day! Hail! Good luck!’ he then performs in the known way the sacrifice of a mess of cooked food to Agni.
+10\. [^638] Having made oblations with the single Vyâh<i>ri</i>tis and with (the three Vyâh<i>ri</i>tis together), and having made an oblation with the verse, ‘Thou art quick, Agni, and free from imprecation. Verily (satyam) thou art quick. Held by us in our quick mind (manas), with thy quick (mind) thou carriest the offering (to the gods). Being quick bestow medicine on us! Svâhâ!’—this (last) oblation contains an allusion to the mind (manas), it refers to Pra<i>ri</i>âpati, and alludes to the number seven (?),—he quickly repeats in his mind the da<i>ri</i>ahot<i>ri</i> formula (Taitt. Âra<i>ri</i>y. III, 1, 1). Then he makes the sagraha oblation (?); (then follow the <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> oblations), ‘This, O Varu<i>ri</i>a’ (&c.; see I, 2, 8, 16, down to the end of the Sûtra). Then he serves food to the Brâhma<i>ri</i>as and causes them to say, ‘An auspicious day! Hail! Good luck!’ he then performs in the known way the sacrifice of a mess of cooked food to Agni.
 
 11\. Here he gives an optional gift to his Guru: a pair of clothes, a milch cow, or a bull.
 

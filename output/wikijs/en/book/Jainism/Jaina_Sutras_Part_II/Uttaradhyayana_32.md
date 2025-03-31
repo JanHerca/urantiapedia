@@ -38,7 +38,7 @@ With attentive mind hear me explain for your benefit the deliverance from the be
 
 By the teaching of true [^520] knowledge, by the avoidance of ignorance and delusion, and by the destruction of love and hatred, one arrives at final deliverance which is nothing but bliss. (2)
 
-This is the road to it: to serve the Gurus and the old (teachers), to avoid throughout foolish people, to <span id="p185">[<sup><small>p. 185</small></sup>]</span> apply oneself earnestly to study, and to ponder zealously on the meaning of the Sûtras. (3)
+This is the road to it: to serve the Gurus and the old (teachers), to avoid throughout foolish people, to <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> apply oneself earnestly to study, and to ponder zealously on the meaning of the Sûtras. (3)
 
 A <i>S</i>rama<i>n</i>a engaged in austerities, who longs for righteousness [^521], should eat the proper quantity of allowed food, should select a companion of right understanding, and should live in a place suited to seclusion. (4)
 
@@ -54,7 +54,7 @@ I shall explain in due order the means which must be adopted by him who wants to
 
 Pleasant food [^524] should not be enjoyed with preference, for it generally makes men over-strong [^525]; and desires rush upon the strong, like birds upon a tree with sweet fruits. (10)
 
-<span id="p186">[<sup><small>p. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 As in a forest, full of fuel, a fire fanned by the wind cannot be extinguished, so the fire (as it were) of the senses of him who eats as he lists; it does not benefit any chaste man. (11)
 
@@ -72,7 +72,7 @@ To a man who longs for liberation, who is afraid of the Sa<i>m</i>sâra, and liv
 
 To those who have overcome the attachment (to women), all others will offer no difficulties [^527]; even as to those who have crossed the great ocean, no river, though big like the Ganges, (will offer any difficulty). (18)
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 From desire of pleasure arises the misery of the whole world, the gods included; whatever misery of body and mind there is, the dispassionate will put an end to it. (19)
 
@@ -88,7 +88,7 @@ He who is passionately fond of ‘colours,’ will come to untimely ruin; just a
 
 He who passionately hates (a colour), will at the same moment suffer pain. It is the fault of an undisciplined man that he is annoyed (by a colour); it is not the ‘colour’ itself that annoys him. (25)
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 He who is very fond of a lovely ‘colour,’ hates all others; hence a fool will suffer misery, but a dispassionate sage is not affected by it. (26)
 
@@ -100,7 +100,7 @@ When he is not satisfied with those ‘colours,’ and his craving for them grow
 
 When he is overcome by violent desire, takes another's property, and is not satisfied with those ‘colours’ and their possession, then his deceit and falsehood increase on account of his greed; yet he will not get rid of his misery. (30)
 
-After and before he has lied [^533], and when he is on the point of lying, he feels infinitely unhappy. Thus when he takes another's property, and is (after all) not satisfied by the ‘colours’ (he has <span id="p189">[<sup><small>p. 189</small></sup>]</span> obtained), he becomes unhappy, and nobody will protect him [^534]. (31)
+After and before he has lied [^533], and when he is on the point of lying, he feels infinitely unhappy. Thus when he takes another's property, and is (after all) not satisfied by the ‘colours’ (he has <span id="p189"><sup><small>[ p. 189 ]</small></sup></span> obtained), he becomes unhappy, and nobody will protect him [^534]. (31)
 
 How, then, can a man who is devoted to ‘colours,’ ever derive any happiness from anything? He suffers pain at the time of their enjoyment to procure which he had suffered misery. (32)
 
@@ -124,7 +124,7 @@ Verses 74-86 apply to touches; substitute touches' and ‘body.’
 
 Verses 87-99 apply to feelings; substitute ‘feelings’ and ‘mind.’
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 The lines corresponding to the comparison in verse 24, run as follows:
 
@@ -142,7 +142,7 @@ Pleasant things (by themselves) do not cause indifference nor emotions (as anger
 
 Anger, pride, deceit, greed; disgust, aversion to self-control and delight in sensual things [^535]; mirth, fear, sorrow, carnal desire for women, men, or both; all these manifold passions arise in him who is attached to pleasures; and so do other emotions produced by those (before mentioned) arise in him who is to be pitied, who (ought to be) ashamed of himself, and who is hateful. (102, 103)
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 A monk should not desire a companion, not (even) one who is able to perform his religious duties; nor, if he regrets having taken the vows, (should he desire for) a worldly reward of his austerities [^536]. Such emotions of an infinite variety arise in one who is the slave of his senses. (104)
 
@@ -154,7 +154,7 @@ He who endeavours to recognise the vanity of all desires [^537], will arrive at 
 
 The dispassionate man who has performed all duties will quickly remove the obstructions to right knowledge and to right faith, and whatever Karman produces obstruction (to righteousness). (108)
 
-Then he knows and sees all things, he is free from delusion and hindrances, his Âsravas have gone, <span id="p192">[<sup><small>p. 192</small></sup>]</span> and he is proficient in meditation and concentration of thoughts, and being pure he will arrive at beatitude when his life is spent. (109)
+Then he knows and sees all things, he is free from delusion and hindrances, his Âsravas have gone, <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> and he is proficient in meditation and concentration of thoughts, and being pure he will arrive at beatitude when his life is spent. (109)
 
 He will get rid of all misery which always afflicts mankind; recovered from the long illness, as it were, and glorious, he becomes infinitely happy, and obtains the (final) aim. (110)
 

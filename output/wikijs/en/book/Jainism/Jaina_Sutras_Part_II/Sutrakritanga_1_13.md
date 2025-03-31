@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:54:6Z
   </table>
 </figure>
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 THIRTEENTH LECTURE, CALLED THE REAL TRUTH.
 
@@ -44,7 +44,7 @@ Those who explain the pure doctrine according to their individual opinion, falsi
 
 Those who on being questioned conceal the truth, defraud themselves of the real good. These bad men who believe themselves good and are full of deceit, will go to endless punishment. (4)
 
-He who is of a wrathful disposition and calls everything by its true name [^947], who renews a composed quarrel, will, like a blind man groping his way with <span id="p321">[<sup><small>p. 321</small></sup>]</span> a stick, do harm to himself, being still subject to passion and possessing evil Karman. (5)
+He who is of a wrathful disposition and calls everything by its true name [^947], who renews a composed quarrel, will, like a blind man groping his way with <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> a stick, do harm to himself, being still subject to passion and possessing evil Karman. (5)
 
 He who is quarrelsome and talks improperly, is not impartial nor beyond the reach of deceit [^948]; but he who executes the commands (of his teacher) and controls himself, sees nothing but the truth and is exempt from deceit. (6)
 
@@ -56,7 +56,7 @@ He is always turned round by delusion, and has no place in the Gôtra where the 
 
 A Brâhma<i>n</i>a or Kshattriya by birth, a scion of the Ugra [^949] race or a Li<i>k</i><i>kh</i>avi [^950], who enters the order eating alms given him by others, is not stuck up on account of his renowned Gôtra. (10)
 
-His pedigree on his mother's and on his father's <span id="p322">[<sup><small>p. 322</small></sup>]</span> side will be of no use to him, nothing will but right knowledge and conduct: when after becoming a monk he acts like a householder, he will not succeed in obtaining final Liberation. (11)
+His pedigree on his mother's and on his father's <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> side will be of no use to him, nothing will but right knowledge and conduct: when after becoming a monk he acts like a householder, he will not succeed in obtaining final Liberation. (11)
 
 If a poor monk subsisting on the meanest food is attached to vanities, desires fame, and not being awakened, (makes his monkhood) a means of subsistence, he will suffer again and again (in the Circle of Births). (12)
 
@@ -70,7 +70,7 @@ The wise leave off these kinds of pride, the pious do not cultivate them; the gr
 
 A monk who looks upon his body as on a corpse and fully understands the Law, will on entering a village or a town distinguish between what may be accepted and what may not, and will not be greedy of food or drink. (17)
 
-A monk having conquered aversion to control and delight in sensual objects, living in company with many brethren or leading a single life, should <span id="p323">[<sup><small>p. 323</small></sup>]</span> silently repeat to himself: ‘A man must come and go (according to his Karman) alone’ (i.e. without deriving any help from others). (18)
+A monk having conquered aversion to control and delight in sensual objects, living in company with many brethren or leading a single life, should <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> silently repeat to himself: ‘A man must come and go (according to his Karman) alone’ (i.e. without deriving any help from others). (18)
 
 Knowing it by intuition or having learned it from others, one should teach the Law which is a benefit to men; the pious are not given to blameable sinful practices. (19)
 

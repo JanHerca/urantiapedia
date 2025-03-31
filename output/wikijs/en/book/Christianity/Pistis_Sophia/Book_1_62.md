@@ -45,7 +45,7 @@ James came forward, kissed the breast of Jesus and said: "My Lord, thy spirit ha
 
 “‘2. Lay hand on weapon and shield and stand up to help me.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 “‘3. Draw forth a sword and conceal it \[_sic_\] from my oppressors. Say unto my soul: I am thy salvation.
 
@@ -69,7 +69,7 @@ James came forward, kissed the breast of Jesus and said: "My Lord, thy spirit ha
 
 “13. But when they molested me, I clothed me in a sack and humbled my soul with fasting, and my prayer will return into my breast.
 
-“‘14. I was pleasing unto thee, as unto my neighbour and as unto my brother; and I <span id="p80">[<sup><small>p. 80</small></sup>]</span> humbled myself as one in mourning and as one who is sad.
+“‘14. I was pleasing unto thee, as unto my neighbour and as unto my brother; and I <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> humbled myself as one in mourning and as one who is sad.
 
 “‘15. They have rejoiced over me, and they are put to shame. Scourges have gathered themselves together against me and I knew not; they were cut off and were troubled.
 
@@ -93,7 +93,7 @@ James came forward, kissed the breast of Jesus and said: "My Lord, thy spirit ha
 
 “‘25. And let them not say: Well done, our soul. Let them not say: We have consumed him.
 
-“‘26. Let them be put to shame and be scorned, who rejoice at my mischance. Let <span id="p81">[<sup><small>p. 81</small></sup>]</span> them be clothed with shame and disgrace who speak boastingly against me.
+“‘26. Let them be put to shame and be scorned, who rejoice at my mischance. Let <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> them be clothed with shame and disgrace who speak boastingly against me.
 
 “‘27. Let them who desire my justification, exult and rejoice and let them who desire the peace of his slave, say: May the Lord be great and arise.
 
@@ -117,13 +117,13 @@ Jesus said unto her: “Well said, Mary.”
 
 Jesus continued again and said unto his disciples: "It came to pass then, when Pistis Sophia had proclaimed the ninth repentance, that the lion-faced power oppressed her again, desiring to take away all powers from her. She cried out again to the Light, saying: **(99)**
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 “‘O Light, in whom I have had faith from the beginning, for whose sake I have endured these great pains, help me.’
 
 “And in that hour her repentance was accepted from her. The First Mystery hearkened unto her, and I was sent off at his command. I came to help her, and led her up out of the chaos, because she had repented, and also because she had had faith in the Light and had endured these great pains and these great perils. She had been deluded through the god-like Self-willed, and had not been deluded through anything else, save through a light-power, because of its resemblance to the Light in which she had had faith. For this cause then was I sent forth at the command of the First Mystery to help her secretly. I did not however yet go to the region of the æons at all; but I passed down through the midst out of them, without any single power knowing it, either those of the interior of the interior or those of the exterior of the exterior, save only the First Mystery.
 
-“It came to pass then, when I came into the chaos to help her, that she saw me, that I was understanding and shone exceedingly and was full of compassion for her. For I was not self-willed as the lion-faced power, which had taken away the light-power from Sophia, and had also oppressed her in order to take away from her the whole light in her. Sophia then saw me, that I shone ten-thousand times more than the lion-faced power, **(100)** and that I was full of compassion for her. And she knew that I came out of the Height of heights, in whose light she had had faith from the beginning. Pistis Sophia then <span id="p83">[<sup><small>p. 83</small></sup>]</span> took courage and uttered the tenth repentance, saying:
+“It came to pass then, when I came into the chaos to help her, that she saw me, that I was understanding and shone exceedingly and was full of compassion for her. For I was not self-willed as the lion-faced power, which had taken away the light-power from Sophia, and had also oppressed her in order to take away from her the whole light in her. Sophia then saw me, that I shone ten-thousand times more than the lion-faced power, **(100)** and that I was full of compassion for her. And she knew that I came out of the Height of heights, in whose light she had had faith from the beginning. Pistis Sophia then <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> took courage and uttered the tenth repentance, saying:
 
 <small>The tenth repentance of Sophia.</small>
 
@@ -157,7 +157,7 @@ Peter answered and said: "O Lord, concerning this thy light-power prophesied afo
 
 “‘4. The arrows of the strong \[one\] are made sharp with the coal of the desert.
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 “‘5. Woe unto me, that my dwelling is far off, and I dwelt in the tents of Kedar.
 
@@ -185,7 +185,7 @@ Jesus continued again in the discourse and said unto his disciples: "It came to 
 
 “‘4. And they desired to lead me craftily, in order to consume my whole light.
 
-“‘5. For this cause then will the Light take <span id="p85">[<sup><small>p. 85</small></sup>]</span> away their whole light, and also their whole matter will be made naught. And it will take away their light and not suffer them to abide in the thirteenth æon, their dwelling-place, and will not have their name in the region of those who shall live.
+“‘5. For this cause then will the Light take <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> away their whole light, and also their whole matter will be made naught. And it will take away their light and not suffer them to abide in the thirteenth æon, their dwelling-place, and will not have their name in the region of those who shall live.
 
 “‘6. And the four-and-twenty emanations will see what hath befallen thee, O lion-faced power, and will be afraid and not be disobedient, but give the purification of their light.
 
@@ -205,7 +205,7 @@ Then Salome came forward and said: "My Lord, concerning this thy light-power pro
 
 “‘4. Thou lovedst all words of submerging and a crafty tongue.
 
-“‘5. Wherefor will God bring thee to naught <span id="p86">[<sup><small>p. 86</small></sup>]</span> utterly, and will uproot thee and drag thee out from thy dwelling-place, and will root out thy root and cast it away from the living. (Selah.)
+“‘5. Wherefor will God bring thee to naught <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> utterly, and will uproot thee and drag thee out from thy dwelling-place, and will root out thy root and cast it away from the living. (Selah.)
 
 “‘6. The righteous will see and be afraid, and they will mock at him and say:
 
@@ -225,7 +225,7 @@ It came to pass then, when Jesus had heard these words which Salome spake, that 
 
 <small>Self-willed aideth his emanations and they again oppress Sophia.</small>
 
-And Jesus continued again in the discourse and said unto his disciples: "It came to pass then thereafter, that I drew near unto the chaos, shining very exceedingly, to take away the light from that lion-faced power. As I shone exceedingly, it was in fear and cried out to its self-willed god, that he should help it. And forthwith the self-willed god looked out of the thirteenth æon, and looked down into the chaos, exceedingly wrathful **(105)** and desiring to help his lion-faced power. And forthwith the lion-faced power, it <span id="p87">[<sup><small>p. 87</small></sup>]</span> and all its emanations, surrounded. Pistis Sophia, desiring to 'take away the whole light in Sophia. It came to pass then, when they oppressed Sophia, that she cried to the height, crying unto me that I should help her. It came to pass then, when she looked to the height, that she saw Self-willed exceedingly wrathful, and she was in fear, and uttered the twelfth repentance because of Self-willed and his emanations. She cried on high unto me, saying:
+And Jesus continued again in the discourse and said unto his disciples: "It came to pass then thereafter, that I drew near unto the chaos, shining very exceedingly, to take away the light from that lion-faced power. As I shone exceedingly, it was in fear and cried out to its self-willed god, that he should help it. And forthwith the self-willed god looked out of the thirteenth æon, and looked down into the chaos, exceedingly wrathful **(105)** and desiring to help his lion-faced power. And forthwith the lion-faced power, it <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> and all its emanations, surrounded. Pistis Sophia, desiring to 'take away the whole light in Sophia. It came to pass then, when they oppressed Sophia, that she cried to the height, crying unto me that I should help her. It came to pass then, when she looked to the height, that she saw Self-willed exceedingly wrathful, and she was in fear, and uttered the twelfth repentance because of Self-willed and his emanations. She cried on high unto me, saying:
 
 <small>The twelfth repentance of Sophia.</small>
 
@@ -247,7 +247,7 @@ And Jesus continued again in the discourse and said unto his disciples: "It came
 
 “‘9. May all the powers of his emanation be lightless and may his matter be without any light in it.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 “‘10. May his emanations remain in the chaos and not dare to go to their region. May their light in them die away and let them not go to the thirteenth æon, their region.
 
@@ -265,7 +265,7 @@ And Jesus continued again in the discourse and said unto his disciples: "It came
 
 “‘17. They loved to descend to the chaos; so let them abide therein, and they shall not be brought up \[therefrom\] from now on. They desired not the region of Righteousness for dwelling-place, and they shall not be taken thither from now on.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 ‘"18. He put on darkness as a garment, and it entered into him as water, and it entered in into all his powers as oil.
 
@@ -293,7 +293,7 @@ And Andrew came forward and said: "My Lord and Saviour, thy light-power hath pro
 
 “‘1. God, keep not silent at my praise-singing.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 <small>Andrew interpreteth the twelfth repentance from Psalm cviii.</small>
 
@@ -325,7 +325,7 @@ And Andrew came forward and said: "My Lord and Saviour, thy light-power hath pro
 
 “‘15. Let them be ever present to the Lord and his memory be rooted out from the earth;
 
-“‘16. In that he hath not thought of using <span id="p91">[<sup><small>p. 91</small></sup>]</span> mercy and hath persecuted a poor and wretched man and hath persecuted a sorry creature to slay him.
+“‘16. In that he hath not thought of using <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> mercy and hath persecuted a poor and wretched man and hath persecuted a sorry creature to slay him.
 
 “‘17. He loved cursing,—and it shall come unto him. He desired not blessing,—it shall stay far from him.
 
@@ -353,7 +353,7 @@ And Andrew came forward and said: "My Lord and Saviour, thy light-power hath pro
 
 ## CHAPTER 57
 
-And Jesus continued again in the discourse and said unto his disciples: "It came to pass <span id="p92">[<sup><small>p. 92</small></sup>]</span> again thereafter that Pistis Sophia cried unto me, saying:
+And Jesus continued again in the discourse and said unto his disciples: "It came to pass <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> again thereafter that Pistis Sophia cried unto me, saying:
 
 “O Light of lights, I have transgressed in the twelve æons, and have descended from them; wherefor have I uttered the twelve repentances, \[one\] for each æon. Now, therefore, O Light of lights, forgive me my transgression, for it is exceedingly great, because I have abandoned the regions of the height and have come to dwell in the regions of the chaos.’
 
@@ -371,7 +371,7 @@ And Jesus continued again in the discourse and said unto his disciples: "It came
 
 “‘5. And my transgression is the lion-faced power, which will never be hidden from thee; for because of it have I gone down.
 
-“‘6. And I alone among the invisibles, in whose regions I was, have transgressed, and have gone down into the chaos. Moreover I have <span id="p93">[<sup><small>p. 93</small></sup>]</span> transgressed, that thy commandment may be accomplished.’
+“‘6. And I alone among the invisibles, in whose regions I was, have transgressed, and have gone down into the chaos. Moreover I have <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> transgressed, that thy commandment may be accomplished.’
 
 “This then Pistis Sophia said. Now, therefore, let him whom his spirit urgeth to understand her words, come forward and proclaim her thought.”
 
@@ -395,7 +395,7 @@ Jesus said unto her: “Well said, finely, Martha, blessed \[one\].”
 
 <small>Jesus sendeth forth a light-power to help Sophia.</small>
 
-And Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when Pistis Sophia had said these words, that the time was fulfilled that she should be led out of the chaos. And of myself, without the First Mystery, I despatched out of myself a light-power, and I sent it down to the chaos, so that it might lead Pistis Sophia forth from the deep regions of the chaos, and lead \[her\] to the higher regions of the chaos, until the command should come from the First Mystery that she should be led entirely forth out of the chaos. And my light-power led Pistis Sophia up to the higher regions <span id="p94">[<sup><small>p. 94</small></sup>]</span> of the chaos. It came to pass then, when the emanations of Self-willed had noticed that Pistis Sophia was led forth into the higher regions of the chaos, that they also sped after her upwards, desiring to bring her again into the lower regions of the chaos. And my light-power, which I had sent to lead up Sophia out of the chaos, shone exceedingly. It came to pass then, when the emanations of Self-willed pursued Sophia, **(113)** when she had been led into the higher regions of the chaos, that she again sang praises and cried out unto me, saying:
+And Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when Pistis Sophia had said these words, that the time was fulfilled that she should be led out of the chaos. And of myself, without the First Mystery, I despatched out of myself a light-power, and I sent it down to the chaos, so that it might lead Pistis Sophia forth from the deep regions of the chaos, and lead \[her\] to the higher regions of the chaos, until the command should come from the First Mystery that she should be led entirely forth out of the chaos. And my light-power led Pistis Sophia up to the higher regions <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> of the chaos. It came to pass then, when the emanations of Self-willed had noticed that Pistis Sophia was led forth into the higher regions of the chaos, that they also sped after her upwards, desiring to bring her again into the lower regions of the chaos. And my light-power, which I had sent to lead up Sophia out of the chaos, shone exceedingly. It came to pass then, when the emanations of Self-willed pursued Sophia, **(113)** when she had been led into the higher regions of the chaos, that she again sang praises and cried out unto me, saying:
 
 <small>Sophia uttereth a song of praise.</small>
 
@@ -411,7 +411,7 @@ And Jesus continued again in the discourse and said unto his disciples: "It came
 
 “‘6. And let not their resolution which they have formed, to take away my power, take effect for them. And as they have spoken against me, to take from me my light, take rather from them theirs instead of mine.
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 “‘7. And they have proposed to take away my whole light and have not been able to take it, for thy light-power was with me.
 
@@ -439,7 +439,7 @@ And it came to pass, when Jesus had finished speaking these words unto his disci
 
 “‘7. They have devised a resolution, and it hath not taken effect for them.
 
-“‘8. And they are vanquished, although they <span id="p96">[<sup><small>p. 96</small></sup>]</span> be mighty, and what they have wickedly pre-pared is fallen upon them.
+“‘8. And they are vanquished, although they <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> be mighty, and what they have wickedly pre-pared is fallen upon them.
 
 “‘9. My hope is in the Lord, and I shall not be afraid, for thou art my God, my Saviour.’”
 
@@ -455,7 +455,7 @@ And Jesus continued again in the discourse and said unto his disciples: "It came
 
 <small>Sophia uttereth another song of praise.</small>
 
-“‘1. The Light hath become a wreath round <span id="p97">[<sup><small>p. 97</small></sup>]</span> my head; and I shall not depart from it, so that the emanations of Self-willed may not rob it from me.
+“‘1. The Light hath become a wreath round <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> my head; and I shall not depart from it, so that the emanations of Self-willed may not rob it from me.
 
 “‘2. And though all the matters be shaken, **(116)** yet shall I not be shaken.
 
@@ -475,7 +475,7 @@ And Mary, the mother of Jesus, answered and said: "My Lord, thy light-power hath
 
 “‘1. The Lord is on my head as a wreath, and I shall not depart from him.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 <small>Mary, his mother, interpreteth the song of Sophia from the xixth ode of Solomon.</small>
 
@@ -495,7 +495,7 @@ It came to pass then, when Jesus had heard his. mother Mary say these words, tha
 
 <small>The First Mystery and Jesus sent forth two light-powers to help Sophia.</small>
 
-And Jesus continued again in the discourse and said unto his disciples: “It came to pass when Pistis Sophia had uttered the thirteenth repentance,—in that hour was fulfilled the commandment of all the tribulations which were de-creed for Pistis Sophia for the fulfilment of the First Mystery, which was from the beginning, and the time had come to save her out of the chaos and lead her out from all the darknesses. For her repentance was accepted from her through the First Mystery; and that mystery sent me a great light-power out of the height, that I might help Pistis Sophia **(118)** and lead her up out of the chaos. So I looked towards the æons into the height and saw that light-power which the First Mystery had sent me, that I might save Pistis Sophia out of the chaos. It came to pass, therefore, when I had seen it, coming forth from the æons and hastening down to me,—I was above <span id="p99">[<sup><small>p. 99</small></sup>]</span> the chaos,—that another light-power went forth out of me, that it too might help Pistis Sophia. And the light-power which had come from the height through the First Mystery, came down upon the light-power which had gone out of me; and they met together and became a great stream of light.”
+And Jesus continued again in the discourse and said unto his disciples: “It came to pass when Pistis Sophia had uttered the thirteenth repentance,—in that hour was fulfilled the commandment of all the tribulations which were de-creed for Pistis Sophia for the fulfilment of the First Mystery, which was from the beginning, and the time had come to save her out of the chaos and lead her out from all the darknesses. For her repentance was accepted from her through the First Mystery; and that mystery sent me a great light-power out of the height, that I might help Pistis Sophia **(118)** and lead her up out of the chaos. So I looked towards the æons into the height and saw that light-power which the First Mystery had sent me, that I might save Pistis Sophia out of the chaos. It came to pass, therefore, when I had seen it, coming forth from the æons and hastening down to me,—I was above <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> the chaos,—that another light-power went forth out of me, that it too might help Pistis Sophia. And the light-power which had come from the height through the First Mystery, came down upon the light-power which had gone out of me; and they met together and became a great stream of light.”
 
 When then Jesus had said this unto his disciples, he said: “Understand ye in what manner I discourse with you?”
 
@@ -507,7 +507,7 @@ Mary started forward again and said: "My Lord, I understand what thou sayest. Co
 
 “‘11. Truth sprouted forth out of the earth, and righteousness looked down from heaven.’
 
-“‘Grace’ then is the light-power which hath come down through the First Mystery; for the First Mystery hath hearkened unto Pistis Sophia and hath had **(119)** mercy on her in all her tribulations. ‘Truth’ on the other hand is the power which hath gone forth out of thee, for that thou hast fulfilled the truth, in order to save her out of the chaos. And ‘righteousness’ again is the power which hath come forth through the First Mystery, which will guide Pistis Sophia. And ‘peace’ again is the power which hath gone forth out of thee, so that it should enter into the emanations of Self-willed and take from them the lights which they have taken away from Pistis Sophia, that is, so that thou mayest gather them together into Pistis Sophia and make them at peace with <span id="p100">[<sup><small>p. 100</small></sup>]</span> her power. ‘Truth’ on the other hand is the power which went forth out of thee, when thou wast in the lower regions of the chaos. For this cause thy power hath said through David
+“‘Grace’ then is the light-power which hath come down through the First Mystery; for the First Mystery hath hearkened unto Pistis Sophia and hath had **(119)** mercy on her in all her tribulations. ‘Truth’ on the other hand is the power which hath gone forth out of thee, for that thou hast fulfilled the truth, in order to save her out of the chaos. And ‘righteousness’ again is the power which hath come forth through the First Mystery, which will guide Pistis Sophia. And ‘peace’ again is the power which hath gone forth out of thee, so that it should enter into the emanations of Self-willed and take from them the lights which they have taken away from Pistis Sophia, that is, so that thou mayest gather them together into Pistis Sophia and make them at peace with <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> her power. ‘Truth’ on the other hand is the power which went forth out of thee, when thou wast in the lower regions of the chaos. For this cause thy power hath said through David
 
 ‘Truth sprouted out of the earth,’ because thou wert in the lower regions of the chaos. ‘Righteousness’ on the other hand which hath ‘looked down from heaven,’—it is the power which hath come down from the height through the First Mystery and hath entered into Pistis Sophia.”
 
@@ -525,11 +525,11 @@ And Mary answered and said: "My Lord, concerning the word which thy power hath p
 
 <small>The story of the phantom spirit.</small>
 
-“When thou wert little, before the spirit had <span id="p101">[<sup><small>p. 101</small></sup>]</span> come upon thee, whilst thou wert in a vineyard with Joseph, the spirit came out of the height and came to me in my house, like unto thee; and I had not known him, but I thought that thou wast he. And the spirit said unto me: Where is Jesus, my brother, that I meet with him?' And when he had said this unto me, I was at a loss and thought it was a phantom to try me. So I seized him and bound him to the foot of the bed in my house, until I went forth to you, to thee and Joseph in the field, and I found you on the vineyard, Joseph propping up the vineyard. It came to pass, therefore, when thou didst hear me speak the word unto Joseph, that thou didst understand the word, wert joyful and saidest: ‘Where is he, that I may see him; else I await him in this place.’ And it came to pass, when Joseph had heard thee say these words, that he was startled. And we went down **(121)** together, entered the house and found the spirit bound to the bed. And we looked on thee and him and found thee like unto him. And he who was bound to the bed was unloosed; he took thee in his arms and kissed thee, and thou also didst kiss him. Ye became one.
+“When thou wert little, before the spirit had <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> come upon thee, whilst thou wert in a vineyard with Joseph, the spirit came out of the height and came to me in my house, like unto thee; and I had not known him, but I thought that thou wast he. And the spirit said unto me: Where is Jesus, my brother, that I meet with him?' And when he had said this unto me, I was at a loss and thought it was a phantom to try me. So I seized him and bound him to the foot of the bed in my house, until I went forth to you, to thee and Joseph in the field, and I found you on the vineyard, Joseph propping up the vineyard. It came to pass, therefore, when thou didst hear me speak the word unto Joseph, that thou didst understand the word, wert joyful and saidest: ‘Where is he, that I may see him; else I await him in this place.’ And it came to pass, when Joseph had heard thee say these words, that he was startled. And we went down **(121)** together, entered the house and found the spirit bound to the bed. And we looked on thee and him and found thee like unto him. And he who was bound to the bed was unloosed; he took thee in his arms and kissed thee, and thou also didst kiss him. Ye became one.
 
 <small>Of the spiritual and material bodies of Jesus.</small>
 
-“This then is the word and its solution. ‘Grace’ is the spirit which hath come down out of the height through the First Mystery, for it hath had mercy on the race of men and sent its spirit that he should forgive the sins of the whole world, and they should receive the mysteries and inherit the Light-kingdom. ‘Truth’ on the other hand is the power which hath sojourned with me. When it had come forth out of Barbēlō, <span id="p102">[<sup><small>p. 102</small></sup>]</span> it became material body for thee, and hath made proclamation concerning the region of Truth. ‘Righteousness’ is thy spirit, who hath brought the mysteries out of the height to give them to the race of men. ‘Peace’ on the other hand is the power which hath sojourned in thy material body according to the world, which hath baptized the race of men, until it should make it stranger unto sin and make it at peace with thy spirit, so that they may be at peace with the emanations of the Light; that is, ‘Grace and truth kissed each other.’ As it saith: ‘Truth sprouted forth out of the earth,’—‘truth’ is thy material body **(122)** which sprouted forth out of me according to the world of men, and hath made proclamation concerning the region of Truth. And again as it saith: ‘Righteousness \[looked down\] from heaven’—‘righteousness’ is the power which looked out of the height, which will give the mysteries of the Light to the race of men, so that they will become righteous and good, and inherit the Light-kingdom.”
+“This then is the word and its solution. ‘Grace’ is the spirit which hath come down out of the height through the First Mystery, for it hath had mercy on the race of men and sent its spirit that he should forgive the sins of the whole world, and they should receive the mysteries and inherit the Light-kingdom. ‘Truth’ on the other hand is the power which hath sojourned with me. When it had come forth out of Barbēlō, <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> it became material body for thee, and hath made proclamation concerning the region of Truth. ‘Righteousness’ is thy spirit, who hath brought the mysteries out of the height to give them to the race of men. ‘Peace’ on the other hand is the power which hath sojourned in thy material body according to the world, which hath baptized the race of men, until it should make it stranger unto sin and make it at peace with thy spirit, so that they may be at peace with the emanations of the Light; that is, ‘Grace and truth kissed each other.’ As it saith: ‘Truth sprouted forth out of the earth,’—‘truth’ is thy material body **(122)** which sprouted forth out of me according to the world of men, and hath made proclamation concerning the region of Truth. And again as it saith: ‘Righteousness \[looked down\] from heaven’—‘righteousness’ is the power which looked out of the height, which will give the mysteries of the Light to the race of men, so that they will become righteous and good, and inherit the Light-kingdom.”
 
 It came to pass then, when Jesus had heard these words which his mother Mary spake, that he said: “Well said, finely, Mary.”
 
@@ -543,13 +543,13 @@ Jesus said unto her: “I bid thee speak their solution.”
 
 <small>The other Mary further interpreteth the same scripture from the baptism, of Jesus.</small>
 
-Mary said: "My Lord, ‘Grace and truth met together,’—‘grace’ then is the spirit who hath <span id="p103">[<sup><small>p. 103</small></sup>]</span> come upon thee, when thou didst receive the baptism from John. ‘Grace’ then is the godly spirit who hath come upon thee; he hath had mercy on the race of men, hath come down and hath met with the power of Sabaōth, the Good which is in thee and which hath made proclamation concerning the regions of Truth. It hath said again: ‘Righteousness and peace kissed each other,’—‘righteousness’ then is the spirit of the Light, which did come upon thee and hath brought the mysteries of the height, **(123)** to give them unto the race of men. ‘Peace’ on the other hand is the power of Sabaōth, the Good, which is in thee,—he who hath baptized and hath forgiven the race of men,—and it hath made them at peace with the sons of the Light. And moreover as thy power hath said through David: ‘Truth sprouted forth out of the earth,’—that is the power of Sabaōth, the Good, which sprouted forth out of Mary, thy mother, the dweller on earth. ‘Righteousness,’ which ‘looked down from heaven,’ on the other hand is the spirit in the height who hath brought all mysteries of the height and given them to the race of men; and they have become righteous and good, and have inherited the Light-kingdom.”
+Mary said: "My Lord, ‘Grace and truth met together,’—‘grace’ then is the spirit who hath <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> come upon thee, when thou didst receive the baptism from John. ‘Grace’ then is the godly spirit who hath come upon thee; he hath had mercy on the race of men, hath come down and hath met with the power of Sabaōth, the Good which is in thee and which hath made proclamation concerning the regions of Truth. It hath said again: ‘Righteousness and peace kissed each other,’—‘righteousness’ then is the spirit of the Light, which did come upon thee and hath brought the mysteries of the height, **(123)** to give them unto the race of men. ‘Peace’ on the other hand is the power of Sabaōth, the Good, which is in thee,—he who hath baptized and hath forgiven the race of men,—and it hath made them at peace with the sons of the Light. And moreover as thy power hath said through David: ‘Truth sprouted forth out of the earth,’—that is the power of Sabaōth, the Good, which sprouted forth out of Mary, thy mother, the dweller on earth. ‘Righteousness,’ which ‘looked down from heaven,’ on the other hand is the spirit in the height who hath brought all mysteries of the height and given them to the race of men; and they have become righteous and good, and have inherited the Light-kingdom.”
 
 And it came to pass, when Jesus had heard Mary speak these words, that he said: “Well said, Mary, inheritress of the Light.”
 
 <small>Mary, the mother, again further interpreteth the same scripture from the meeting of herself with Elizabeth, mother of John the Baptizer.</small>
 
-And Mary, the mother of Jesus, again came forward, fell down at his feet, kissed them and said: "My Lord, my son and my Saviour, be not wroth with me, but pardon me, that I may once more speak the solution of these words. ‘Grace and truth met together,’—it is I, Mary, <span id="p104">[<sup><small>p. 104</small></sup>]</span> thy mother, and Elizabeth, mother of John, whom I have met. **(124)** ‘Grace’ then is the power of Sabaōth in me, which went forth out of me, which thou art. Thou hast had mercy on the whole race of men. ‘Truth’ on the other hand is the power in Elizabeth, which is John, who did come and hath made proclamation concerning the way of Truth, which thou art,—who hath made proclamation before thee. And again, ‘Grace and truth met together,’—that is thou, my Lord, thou who didst meet John on the day when thou hadst to receive the baptism. And again thou and John are ‘Righteousness and peace kissed Of the incarnation of Jesus. each other.’—‘Truth hath sprouted forth out of the earth, and righteousness looked down from heaven,’—this is, during the time when thou didst minister unto thyself, thou didst have the form of Gabriēl, thou didst look down upon me from heaven and speak with me. And when thou hadst spoken with me, thou didst sprout up in me,—that is the ‘truth,’ that is the power of Sabaōth, the Good, which is in thy material body, that is the ‘truth’ which ‘sprouted up out of the earth.’”
+And Mary, the mother of Jesus, again came forward, fell down at his feet, kissed them and said: "My Lord, my son and my Saviour, be not wroth with me, but pardon me, that I may once more speak the solution of these words. ‘Grace and truth met together,’—it is I, Mary, <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> thy mother, and Elizabeth, mother of John, whom I have met. **(124)** ‘Grace’ then is the power of Sabaōth in me, which went forth out of me, which thou art. Thou hast had mercy on the whole race of men. ‘Truth’ on the other hand is the power in Elizabeth, which is John, who did come and hath made proclamation concerning the way of Truth, which thou art,—who hath made proclamation before thee. And again, ‘Grace and truth met together,’—that is thou, my Lord, thou who didst meet John on the day when thou hadst to receive the baptism. And again thou and John are ‘Righteousness and peace kissed Of the incarnation of Jesus. each other.’—‘Truth hath sprouted forth out of the earth, and righteousness looked down from heaven,’—this is, during the time when thou didst minister unto thyself, thou didst have the form of Gabriēl, thou didst look down upon me from heaven and speak with me. And when thou hadst spoken with me, thou didst sprout up in me,—that is the ‘truth,’ that is the power of Sabaōth, the Good, which is in thy material body, that is the ‘truth’ which ‘sprouted up out of the earth.’”
 
 It came to pass then, when Jesus had heard his mother Mary speak these words, that he said: “Well said, and finely. This is the solution of all the words concerning which my light-power hath prophesied aforetime through the prophet David.”
 

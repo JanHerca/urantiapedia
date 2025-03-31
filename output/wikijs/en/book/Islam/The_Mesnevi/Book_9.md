@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p165">[<sup><small>p. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 ## IX. The Poor Scenite Arab and his Wife.
 
@@ -57,7 +57,7 @@ Among those very Arabs thou’rt devoid of shifts.
 What need of war have we? We're wounded; we are slain;
 <sup id="v10"><small>10</small></sup>  The dart of want has pierced us through and through with pain.
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 What need of faults, O sinless one? We're in hell-fire!
 What solace have we? Overwhelmed with deep desire!
@@ -94,7 +94,7 @@ Hast never seen reality of famine near?
 Our outward look is black, like dark pretender's heart.
 This lacks enlightenment, though his exterior's smart.
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 He has no hope of God, nor any good to show,
 Though more than Seth or Adam he pretend to know.
@@ -127,7 +127,7 @@ Expects a guiding soul; he finds a carcase; all.
 As when, in dead of night, one does not know the east,[^286]
 <sup id="v40"><small>40</small></sup>  To offer one's devotion's licit, turning west.
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Pretenders carry famine in their heart of hearts.
 We suffer only want of bread for our repasts.
@@ -164,7 +164,7 @@ Thou’rt sure whole death will follow, as the light the sun.
 If thou canst learn to think this part of death is sweet,
 <sup id="v55"><small>55</small></sup>  Thou knowest that God will make its whole thy tastes to meet.
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 Our troubles are the heralds of our death to come.
 Turn not thy face away from herald, as do some.”
@@ -200,7 +200,7 @@ The woman raised a shout: “O man of simple mind!
 Talk not to me of claims, pretensions, and such stuff.
 I care not one pin's point for pride and flimsy fluff.
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 Why preach so loud of sentiment and honour's call?
 Just look at our condition. Shame upon thee fall!
@@ -233,7 +233,7 @@ A foe may God prove ever to thy drivelling guile!
 Thou art both snake and snake-catcher, in one combined.
 A serpent-charming serpent! Arab's pride enshrined!
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 Did crows but realise their ugliness supreme,
 As white as snow they'd change, through rage and arrant shame.
@@ -265,7 +265,7 @@ Is always proud when he his cap away can pull.
 A man of God resembles precious sense of sight.
 <sup id="v100"><small>100</small></sup>  Our eyes should not be bandaged, or we can't see right.
 
-<span id="p172">[<sup><small>p. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 The dealer who exposes slaves free from defects,
 Strips off the useless cloak that hides all ill effects.
@@ -303,7 +303,7 @@ Those fangs are enemies to every serpent's life,
 “I never will submit to spell of lust and greed.
 For cov’tousness I've conquered. Its maw I'll not feed.
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 Thank God that greed is not among my sins, at least.
 Contentment fills my heart;—a true, perpetual feast.
@@ -341,7 +341,7 @@ It permeates their being, as sugar scents roseleaf.”
 “Alas! Thou wast a treasure valued by my heart!
 I loved to pour my soul forth in thy ears apart!
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 A kind of milk is speech; its teat the soul,—or gland.
 To make it freely flow requires a loving hand.
@@ -378,7 +378,7 @@ When even in peacemakings I've no longer joy?
 Be quiet! Hold thy peace! Or, by the Lord of life,
 I'll quit this tent for ever; thou’lt not be my wife!
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 Much better to walk barefoot than with shoe too small!
 The toil of travel's sweeter than strife in one's wall!”
@@ -414,7 +414,7 @@ And thou, priest-like, didst worship me! Alas! Alas!
 My heart I cultivated just as thou desiredst.
 Thou thoughtest ’twas fond. I knew thou it with love inspiredst.
 
-<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 Like potherbs o’er the fire, thou addedst what thou wouldst,
 <sup id="v165"><small>165</small></sup>  Sharp vinegar, or honey. What thou wishedst, thou couldst.
@@ -449,7 +449,7 @@ By turning supplicant a twofold witchery claims.
 If he, whose pride at times pain causes to thy mind,
 To supplication stoop, thou’lt small resistance find.
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 He, whose fierce tyranny our bleeding hearts most grieves,
 <sup id="v180"><small>180</small></sup>  By tendering excuses, us excuseless leaves.
@@ -481,7 +481,7 @@ While lusts and rage are marks of bestiality.
 Fair woman is a ray from out the sun of Truth;
 Not loved? A creator; not created, forsooth.[^292]
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 The husband, now, contrition felt for what he'd said,
 As sinner, at death's door, repents of evil deed.
@@ -517,7 +517,7 @@ My heart, like moon eclipsed, Thou’st darkened with dismay.
 My star was never brighter than the full-faced moon;
 When darkened with eclipse, it surely sets too soon.
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 True, kings and princes sound my praises in their routs;
 My star eclipsed, the rabble raise their clamorous shouts:
@@ -549,7 +549,7 @@ But is not this of all God's works the constant mark?
 ‘Be, and it is!’[^294] A bat that drives man on, His laws!
 Of entity, non-entity, that course is cause!
 
-<span id="p180">[<sup><small>p. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 Th’ uncoloured being stained with colour's various tinge,
 One Moses ’gainst another's certain to impinge.
@@ -583,7 +583,7 @@ Non-entity encroachment dreads from thy short trip.
 Apparently, it thee invites unto its breast;
 But really, it repels; club-like is its protest.
 
-<span id="p181">[<sup><small>p. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 Know then, dear friend, that Pharaoh's shrink from Moses’ call
 Was, really, like a wrong shoe on one's foot. That's all.
@@ -617,7 +617,7 @@ The mote of thy existence quick they'll force to cower.
 If they conceal that power,—exert it not for thee,
 <sup id="v250"><small>250</small></sup>  All thy docility will turn to pride. Thou’lt see.
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 E’en as the bestial quality, in man aye found,
 Unto its human yokemate[^297] slave and serf is bound.
@@ -649,7 +649,7 @@ Sole; but within him bears a thousand systems furled.
 As though by magic, the vast universe he makes
 Around himself revolve, who smallest compass takes.
 
-<span id="p183">[<sup><small>p. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 The fools saw him alone; thence judged him some weak thing!
 Weak can he ever be who's upheld by the King?
@@ -682,7 +682,7 @@ The life-blood in that vase from being's fount was brought.
 God enters in relation with material form,
 That He may be asylum to each earthborn worm.
 
-<span id="p184">[<sup><small>p. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 No man can inlet find to injure soul of saint;
 An oyster-shell is crushed; its pearl escapes attaint.
@@ -720,7 +720,7 @@ Their looks sank downcast;—sad anxiety's resort.
 The first day came; they saw each visage jaundiced o’er;
 And thence, in fell dismay, they laments uttered, sore.
 
-<span id="p185">[<sup><small>p. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 Their scarlet skins, the second day, told plainer still,
 Time for repentance was but short, and hope was _nil_.
@@ -754,7 +754,7 @@ As milk, kind counsel flows from love's unsullied fount!'
 The untold wrongs you'd heaped upon my patient head
 Had curdled milk of counsel in my bosom's stead.
 
-<span id="p186">[<sup><small>p. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 The Lord replied: ‘A grace I'll now on thee bestow;
 I'll soothe the wounds inflicted by their rancour's bow.’
@@ -785,7 +785,7 @@ Are they of tears fit objects,—men of violence?
 What motive for thy tears? Say. Grievest thou for their acts?
 <sup id="v320"><small>320</small></sup>  Mournest thou th’ extinction of their merciless, vile pacts?
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 Or is’t, perchance, their hearts, corrupt, gangrened, thou’dst weep?
 On their empoisoned tongues, so adderlike, thou’dst keep?
@@ -817,7 +817,7 @@ Foul, black as ink, and fetid, shocks the senses all.
 These dash together; now this, now that, uppermost;
 Their waves a turmoil make, as though by tempest tost.
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 That show of fierce collision's made by matter's form;
 <sup id="v335"><small>335</small></sup>  In truth, the spirits ’tis that compacts make, or storm.
@@ -856,7 +856,7 @@ E’er ruby can acquire ripe tinge, bright effulgence!
 <sup id="v350"><small>350</small></sup>  The salad cress is ready in a month or two;
 The rose requires some years before it shows its hue.
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 To this end has the Lord, whose name be ever blessed,
 In holy writ declared: “Appointed term.”[^306] We've cessed.
@@ -891,7 +891,7 @@ He saw a thousand dangers in the sway conferred;
 A danger to one's life, one's faith, one's inner self;
 Such trial has no equal on the whole world's shelf.
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 E’en Solomon sagacity did much require,
 To shield him from mistakes in all his vast empire.
@@ -928,7 +928,7 @@ The form in which ’tis waged thou’rt now about to hear.
 Had psychic indication proved sufficient sign,
 Material creation ’d been a useless coin.
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 Is love for God thy thought, aim, wish, design, intent?
 To forms of worship, fasting, thou wilt yield assent.
@@ -966,7 +966,7 @@ If wished for, each can find them. They're not obsolete.
 Sense must be gathered from material, outward form;
 Some sense is patent; some is hard to find, difform.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 The indication's feeble;—tree and water see;—
 How different, apparently, their natures be!
@@ -1004,7 +1004,7 @@ This know, then, thou also, My friend, as though beheld.
 But, wonderful! Believer's heart can Me contain!
 If Me thou’dst seek, there look for Me, with might and main!”[^308]
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 His words were: “Seek within My servants. There thou’lt meet
 The paradise of My aspect. Thou most discreet!”[^309]
@@ -1040,7 +1040,7 @@ What you allege is somewhat many might deceive.
 Each word upon your tongues is surely out of place,
 As lisping talk of son to sire, without preface.
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 Your rash objections would deserve to be chastised,
 <sup id="v430"><small>430</small></sup>  But that I have decreed that mercy's higher prized.
@@ -1075,7 +1075,7 @@ Fair Bagdād's city prides itself to kiss his rod.
 If unto him thou have recourse, a prince thou’lt be.
 Why, then, to misery cleave, such as we hourly see?
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 Companionship with fortune's minions brings good luck;
 <sup id="v445"><small>445</small></sup>  Where's an elixir like their power, my dearest duck?
@@ -1113,7 +1113,7 @@ In justice’ court would fail, and bring reproof.
 A witness credible is, then, _sine quā non_.
 <sup id="v460"><small>460</small></sup>  For suitor's plea to stand, proof it must rest upon.”
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 His wife rejoined: “The witness thou requir’st to bring,
 Must, by some shrewd contrivance, from thy prospects spring.
@@ -1146,7 +1146,7 @@ A Tigris flowed with water, sweet as honey.—Didst?
 A very ocean is it, rapid in its course;
 <sup id="v475"><small>475</small></sup>  With boats and ships, with fishers' hooks, both fine and coarse.
 
-<span id="p197">[<sup><small>p. 197</small></sup>]</span>
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 
 Go then, good man! The Caliph thee his state shall show!
 Thou’lt comprehend the text: “Beneath which rivers flow.”[^311]
@@ -1178,7 +1178,7 @@ By day and night he travels;—load not over large!
 Anxiety fast holds him, lest the pot should break;
 Most watchfully he guards it from misfortune's freak.
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 His wife spends all her days in prayers on his behalf;
 Her worship o’er, she adds: “Lord! shield my better half!
@@ -1211,7 +1211,7 @@ The hopeful show enjoyment of fruition's share!
 A voice proclaimed: “Come forward, all ye sons of want!”
 Beneficence seeks beggars, as for gifts they pant.
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 Beneficence hunts up for beggars and for need,
 As beauty seeks her mirror, with a special greed.
@@ -1247,7 +1247,7 @@ God's essence he'd deny, God's attributes disown.
 Man's fancy is a creature;—born with mortal lot.
 God was not born. His scripture says: “Nor was begot.”[^316]
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 The man in love with self, and with his fancy's freak,
 Can never be a lover who to God will seek.
@@ -1283,7 +1283,7 @@ Undress thyself. Come in; and see the nude, the free.
 There's no admission granted to a bath, while dressed.
 But clothes, the body, this, the soul, leave all unguessed.
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 Our Arab man, from far in desert's sandy waste,
 Has reached at length the walls of Bagdād, home of taste.
@@ -1319,7 +1319,7 @@ What he thought water, was entranced by Joseph's spell!
 Again, as Moses hasted for a coal of fire,
 And found the burning bush, that led him to empire
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 Or Jesus, who escaped his foes with one fleet bound,
 And found himself then landed where the sun goes round![^318]
@@ -1351,7 +1351,7 @@ Who seek the finite lose th’ Infinite, as we wot.
 When finite with the finite falls in love, perforce,
 His loved one soon returns to her infinite source.
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 A beard that puts itself into another's grasp,
 In lather's smothered; emblem of a weak mind's gasp.
@@ -1387,7 +1387,7 @@ If beggar save his king from want, it's surely meet.
 The water's fresh; the little jar green-glazed and new;
 Filled from a pool replenished by the rain and dew.”
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 On hearing this the guards were laughing in their sleeves;
 But still, as precious, took the jar;—polite court-reeves!
@@ -1423,7 +1423,7 @@ The principles, with him, are most unwelcome bores.
 A syntax-teacher rears a host of grammar's sons,
 With whom his syntax passes for the sun of suns.
 
-<span id="p205">[<sup><small>p. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 A teacher who inculcates abnegation's creed,
 Surrounds himself with pupils free from lust and greed.
@@ -1458,7 +1458,7 @@ To show the grammar dissolution turns upon.
 All syntax, grammar, jurisprudence, law, and art,
 Thou’lt find, my friend, of knowledge is but a small part.
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 Our little learning is the Arab's water-pot.
 In Caliph, of God's wisdom we've an emblem got.
@@ -1496,7 +1496,7 @@ Whose fulness cannot be confined in any place.
 That treasure latent was. Through fulness it burst forth,
 More glorious than the heavens became thenceforth the earth.
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 The latent treasure, pouring out its riches great,
 The earth made kinglike, clothed with more than regal state.
@@ -1528,7 +1528,7 @@ And when with food thou’rt filled, polluted straight becomest.
 So, being doglike or a stock, senseless, impure,
 How canst thou progress make in path of virtue, sure?
 
-<span id="p208">[<sup><small>p. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 Whatever ’tis thou huntest, dog thou art, in sooth.
 Feed not, then, thus, the dog of lust's voracious tooth.
@@ -1566,7 +1566,7 @@ That form it is corrupts,—can men to sin allure.
 The gold's an essence fixed, produced by nature's God;
 The idol stamp is transitory;—soon downtrod.
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 Thou for one flea to flames thy bed wouldst never give;
 For one musquito's hum, not wish to cease to live.
@@ -1600,7 +1600,7 @@ Now hear whence has arisen the ground of their dispute:
 Parts finite;—not parts infinite of th’ infinite,
 Like scent of rose,—part infinite of definite.
 
-<span id="p210">[<sup><small>p. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 The verdure's beauty infinite is, as a part;
 The cooing of the dove's as infinite, in logic art.
@@ -1634,7 +1634,7 @@ In that dread day shall gulp dishonour's foulest lye.
 The wretch whose countenance beams not bright as the sun,
 <sup id="v680"><small>680</small></sup>  Shall strive in vain behind the densest veil to run.
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 If, like some thorns, his stem display no single rose,
 That springtide will prove fatal to his safe repose.

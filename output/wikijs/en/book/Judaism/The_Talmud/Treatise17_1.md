@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 ## TREATISE XVII.
 
@@ -44,7 +44,7 @@ Pouring Water—Vessels—Water—Who may pour—How it is to be poured—Hindra
 
 1\. A Quarter log [^659] of water is poured on the hands of one person; also on the hands of two persons. Half a log on three or four. From a log for five, ten, or even one hundred (persons.) R. José says, “provided there be not less for the last than a quarter log.” Men may add (water) for the second washing, [^660] but they must not add it for the first.
 
-2\. They may put water for hands in all vessels, even in vessels of dung, or vessels of stone, or vessels of earth. But they must not pour it on hands out of the (broken) sides of vessels, or the bottom of a tub, or the bung of a cask. Nor may one give it to his neighbour out of the hollow of his hand: because they must not draw or consecrate, or sprinkle the water of purification, or put it on hands, except it be in a vessel. They can only preserve vessels by the covering bound [^661] upon them. Nor can they preserve from <span id="p325">[<sup><small>p. 325</small></sup>]</span> uncleanness water in open earthen vessels, [^662] only in (covered) vessels.
+2\. They may put water for hands in all vessels, even in vessels of dung, or vessels of stone, or vessels of earth. But they must not pour it on hands out of the (broken) sides of vessels, or the bottom of a tub, or the bung of a cask. Nor may one give it to his neighbour out of the hollow of his hand: because they must not draw or consecrate, or sprinkle the water of purification, or put it on hands, except it be in a vessel. They can only preserve vessels by the covering bound [^661] upon them. Nor can they preserve from <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> uncleanness water in open earthen vessels, [^662] only in (covered) vessels.
 
 3\. Water which is unfit for animals to drink, is unfit (for washing) in vessels; but on the ground it is fit. If ink, gum, or vitriol black drop into it, and its colour be changed, it is unfit. If one made use of it, or soaked his bread in it, it is unfit. Simeon the Temanite said, “even if he intended to soak it in one vessel and it dropped into another, it is fit.”
 

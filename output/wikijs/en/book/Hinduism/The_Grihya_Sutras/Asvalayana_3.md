@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 ## ADHYÂYA III, KA<i>ND</i>IKÂ 1.
 
@@ -63,7 +63,7 @@ If he gives to men, this is the sacrifice to men.
 
 2\. He should go out of the village to the east or to the north, bathe in water, sip water on a clean spot, clad with the sacrificial cord; he should spread out, his garment being not wet, a great quantity of Darbha grass, the tufts of which are directed towards the east, and should sit down thereon with his face turned to the east, making a lap, putting together his hands in which he holds purifiers (i.e. Ku<i>s</i>a blades), so that the right hand lies uppermost.
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 It is understood (in the <i>S</i>ruti), ‘This is what Darbha grass is: it is the essence of waters and herbs. He thus makes the Brahman provided with essence.’
 
@@ -80,7 +80,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 1\. [^528]. He then should recite for himself (the following texts, viz.) the <i>Rik<i>as, the Ya<i>k</i>us, the Sâmans, the Atharvan and Aṅgiras hymns, the Brâhma<i>k</i>as, the Kalpa (Sûtras), the Gâthâs, the (texts in honour of kings and heroes, called) Nârâ<i>k</i>a<i>k</i>sîs, the Itihâsas and Purâ<i>k</i>as.
 
-2\. In that he recites the <i>Rik<i>as, he thereby satiates the gods with oblations of milk—in that (he recites) the Ya<i>k</i>us, with oblations of ghee—the Sâmans, with oblations of honey—the Atharvan and Aṅgiras hymns, with oblations of Soma—the Brâhma<i>k</i>as, Kalpas, Gâthâs, Nârâ<i>k</i>a<i>k</i>sîs, Itihâsas and Purâ<i>k</i>as, with oblations of ambrosia. <span id="p219">[<sup><small>p. 219</small></sup>]</span>
+2\. In that he recites the <i>Rik<i>as, he thereby satiates the gods with oblations of milk—in that (he recites) the Ya<i>k</i>us, with oblations of ghee—the Sâmans, with oblations of honey—the Atharvan and Aṅgiras hymns, with oblations of Soma—the Brâhma<i>k</i>as, Kalpas, Gâthâs, Nârâ<i>k</i>a<i>k</i>sîs, Itihâsas and Purâ<i>k</i>as, with oblations of ambrosia. <span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 3\. In that he recites the <i>Rik<i>as, rivers of milk flow, as a funeral oblation, to his Fathers. In that (he recites) the Ya<i>k</i>us, rivers of ghee—the Sâmans, rivers of honey—the Atharvan and Aṅgiras hymns, rivers of Soma—the Brâhma<i>k</i>as, Kalpas, Gâthâs, Nârâ<i>k</i>a<i>k</i>sîs, Itihâsas and Purâ<i>k</i>as, rivers of ambrosia.
 
@@ -95,7 +95,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 1\. [^529]. He satiates the deities: ‘Pra<i>g</i>âpati, Brahman, the Vedas, the gods, the <i>Ri</i>shis, all metres, the word Om, the word Vasha_t_, the Vyâh<i>g</i>tis, the Sâvitrî, the sacrifices, Heaven and Earth, the air, days and nights, the numbers, the Siddhas, the oceans, the rivers, the mountains, the fields, herbs, trees, Gandharvas and Apsaras, the snakes, the birds, the cows, the Sâdhyas, the Vipras, the Yakshas, the Rakshas, the beings that have these (Rakshas, &c.) at their end.’
 
-2\. [^530]. Then the <i>Ri</i>shis: ‘The (_Ri<i>shis) of the hundred (</i>Ri_<i>shis) of the hundred (</i>as), the (<i>Ri</i>shis) of the middle (Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>alas), G<i>shis) of the hundred (</i>tsamada, <span id="p220">[<sup><small>p. 220</small></sup>]</span> Vi<i>shis) of the hundred (</i>vâmitra, Vâmadeva, Atri, Bharadvâ<i>shis) of the hundred (</i>a, Vasish<i>shis) of the hundred (</i>a, the Pragâthas, the Pavamâna hymns, the (<i>Ri</i>shis) of the short hymns, and of the long hymns.’
+2\. [^530]. Then the <i>Ri</i>shis: ‘The (_Ri<i>shis) of the hundred (</i>Ri_<i>shis) of the hundred (</i>as), the (<i>Ri</i>shis) of the middle (Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>alas), G<i>shis) of the hundred (</i>tsamada, <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> Vi<i>shis) of the hundred (</i>vâmitra, Vâmadeva, Atri, Bharadvâ<i>shis) of the hundred (</i>a, Vasish<i>shis) of the hundred (</i>a, the Pragâthas, the Pavamâna hymns, the (<i>Ri</i>shis) of the short hymns, and of the long hymns.’
 
 3\. (Then) with the sacrificial cord suspended over the right shoulder:
 
@@ -113,7 +113,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 5.
 
@@ -129,7 +129,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 6\. ‘I praise Agni the Purohita’—this one verse (Rig-Veda I, 1, 1),
 
-7\. [^536]. ‘The Kushumbhaka (mungoose?) has said it’—‘If thou criest, O bird, announce luck to us Sung by <i>G</i>amadagni’—‘In thy abode the whole world rests’ <span id="p222">[<sup><small>p. 222</small></sup>]</span> —‘Come to our sacrifice, O you that are worthy of sacrifice, with care’—‘Whosoever, be he ours, be he alien’—‘Look on, look about’—‘Come here, Agni, the Maruts’ friend'—‘The oblation, O king, cooked for thee’—each time two verses;
+7\. [^536]. ‘The Kushumbhaka (mungoose?) has said it’—‘If thou criest, O bird, announce luck to us Sung by <i>G</i>amadagni’—‘In thy abode the whole world rests’ <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> —‘Come to our sacrifice, O you that are worthy of sacrifice, with care’—‘Whosoever, be he ours, be he alien’—‘Look on, look about’—‘Come here, Agni, the Maruts’ friend'—‘The oblation, O king, cooked for thee’—each time two verses;
 
 8\. ‘United is your will’ (Rig-veda X, 191, 4)—this one verse;
 
@@ -139,7 +139,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 11\. [^539]. Sitting down to the west of the fire on Darbha grass, the tufts of which are directed towards the east, he should put Darbha blades into a water-pot, and making a Brahmâ<i>ñ</i><i>ñ</i>ali (i.e. joining his hands as a sign of veneration for the Brahman), he should murmur (the following texts):
 
-12\. The Vyâh<i>ri</i>tis preceded by (the syllable) Om (stand first); (these) and the Sâvitrî he should repeat three times and then recite the beginning of the Veda. <span id="p223">[<sup><small>p. 223</small></sup>]</span>
+12\. The Vyâh<i>ri</i>tis preceded by (the syllable) Om (stand first); (these) and the Sâvitrî he should repeat three times and then recite the beginning of the Veda. <span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 13\. In the same way at the Utsarga (i.e. at the ceremony performed at the end of the term of Vedic study).
 
@@ -169,7 +169,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 ## KA<i>ND</i>IKÂ 6.
 
-1\. [^545]. Instead of the Kâmya ceremonies (i.e. the ceremonies, prescribed in the <i>S</i>rauta-sûtra, by which <span id="p224">[<sup><small>p. 224</small></sup>]</span> special wishes are attained, oblations of) boiled (rice) grains, for the attainment of those wishes, (should be made by the G<i>ri</i>hya sacrificer).
+1\. [^545]. Instead of the Kâmya ceremonies (i.e. the ceremonies, prescribed in the <i>S</i>rauta-sûtra, by which <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> special wishes are attained, oblations of) boiled (rice) grains, for the attainment of those wishes, (should be made by the G<i>ri</i>hya sacrificer).
 
 2\. He attains (thereby) those same wishes.
 
@@ -183,7 +183,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 7\. When he has sneezed, yawned, seen a disagreeable sight, smelt a bad smell, when his eye palpitates, and when he hears noises in his ears, he should murmur, ‘Well-eyed may I become with my eyes, well-vigoured with my face, well-hearing with my ears. May will and insight dwell in me!’
 
-8\. [^546]. If he has gone to a wife to whom he ought not to go, or if he has performed a sacrifice for a person for whom he ought not to do so, or has eaten forbidden food, or accepted what he ought not to accept, or pushed against a piled-up (fire altar) or <span id="p225">[<sup><small>p. 225</small></sup>]</span> against a sacrificial post, he should sacrifice two Â<i>g</i>ya oblations with (the verses),
+8\. [^546]. If he has gone to a wife to whom he ought not to go, or if he has performed a sacrifice for a person for whom he ought not to do so, or has eaten forbidden food, or accepted what he ought not to accept, or pushed against a piled-up (fire altar) or <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> against a sacrificial post, he should sacrifice two Â<i>g</i>ya oblations with (the verses),
 
 ‘May my faculties return into me, may life return, may prosperity return; may my goods return to me; may the divine power return into me. Svâhâ!
 
@@ -201,7 +201,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 2\. [^547]. If (the sun) rises (while he is sleeping without being sick), being fatigued without having done any work, or having done work that is not becoming, he should keep silence, &c., as before, and perform his worship (to the sun) with the following four (verses, Rig-veda X, 37, 9 seq.).
 
-3\. [^548]. Invested with the sacrificial cord, constantly fulfilling the prescribed duties regarding the use of <span id="p226">[<sup><small>p. 226</small></sup>]</span> water, he should perform the Sandhyâ (or twilight devotion), observing silence.
+3\. [^548]. Invested with the sacrificial cord, constantly fulfilling the prescribed duties regarding the use of <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> water, he should perform the Sandhyâ (or twilight devotion), observing silence.
 
 4\. In the evening he should, turning his face to the north-west, to the region between the chief (west) point and the intermediate (north-western) point (of the horizon), murmur the Sâvitrî, (beginning) when the sun is half set, until the stars appear.
 
@@ -223,7 +223,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 2
 
-1\. Now when returning (home from his teacher) he should get the following things, viz. a jewel (to be tied round the neck), two ear-rings, a pair of garments, a parasol, a pair of shoes, a staff, a wreath, (pounded seed of the Kara<i>ñ</i><i>ñ</i>a fruit) for rubbing with, ointment, eye salve, a turban; (all that) for himself and for the teacher. <span id="p227">[<sup><small>p. 227</small></sup>]</span>
+1\. Now when returning (home from his teacher) he should get the following things, viz. a jewel (to be tied round the neck), two ear-rings, a pair of garments, a parasol, a pair of shoes, a staff, a wreath, (pounded seed of the Kara<i>ñ</i><i>ñ</i>a fruit) for rubbing with, ointment, eye salve, a turban; (all that) for himself and for the teacher. <span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 2\. If he cannot get it for both, only for the teacher.
 
@@ -241,7 +241,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 9\. Having washed himself with lukewarm water, and having put on two (new) garments which have not yet been washed, with (the verse), ‘Garments with fat splendour you put on, (Mitra and Varu<i>n</i>a)’ (Rig-veda I, 152, 1); he should anoint his eyes with (the words), ‘The sharpness of the stone art thou; protect my eye.’
 
-10\. With (the words), ‘The sharpness of the stone <span id="p228">[<sup><small>p. 228</small></sup>]</span> art thou; protect my ear’—he should tie on the two ear-rings.
+10\. With (the words), ‘The sharpness of the stone <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> art thou; protect my ear’—he should tie on the two ear-rings.
 
 11\. After having salved his two hands with ointment, a Brâhma<i>n</i>a should salve his head first,
 
@@ -270,7 +270,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 
 
-<span id="p229">[<sup><small>p. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 9.
 
@@ -280,7 +280,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 2\. [^555]. With (the hymn), ‘Mine, Agni, be vigour’ (Rig-veda X, 128, 1), verse by verse, he should put pieces of wood (on the fire).
 
-3\. [^556]. He should pass that night at a place where they will do honour to him. <span id="p230">[<sup><small>p. 230</small></sup>]</span>
+3\. [^556]. He should pass that night at a place where they will do honour to him. <span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 4 [^557]. When, after having finished his (task of) learning, he has offered something to the teacher, or has received his permission, he should take a bath (which signifies the end of his studentship).
 
@@ -297,7 +297,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 3 the teacher's?) name—
 
-2\. [^559]. (And should say), ‘Here we will dwell, sir!’ <span id="p231">[<sup><small>p. 231</small></sup>]</span>
+2\. [^559]. (And should say), ‘Here we will dwell, sir!’ <span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 3\. With a loud voice (the words) following after the name.
 
@@ -315,7 +315,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 10\. ‘Praise the renowned youth who sits on the war-chariot’ (Rig-veda II, 33, 11)—if (he hears disagreeable voices) of deer.
 
-11\. From the direction, or from the (being) from which he expects danger, towards that direction he should throw a fire-brand, burning on both sides, or having twirled about a churning-stick from the right to the left, with (the words), ‘Safety be to me, Mitra <span id="p232">[<sup><small>p. 232</small></sup>]</span> and Varu<i>n</i>a; encounter the foes and burn them up with your flame. May they find none who knows them and no support; divided by discord may they go to death’—
+11\. From the direction, or from the (being) from which he expects danger, towards that direction he should throw a fire-brand, burning on both sides, or having twirled about a churning-stick from the right to the left, with (the words), ‘Safety be to me, Mitra <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> and Varu<i>n</i>a; encounter the foes and burn them up with your flame. May they find none who knows them and no support; divided by discord may they go to death’—
 
 12\. He turns the churning-stick downwards with (the verse), ‘The combined wealth of both, heaped together’ (Rig-veda X, 84, 7).
 
@@ -340,7 +340,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 ‘The Vedas are covered; they are covered by the metres. By them, &c.
 
-‘All is covered; it is covered by Brahman. By it, &c. Svâhâ!’ <span id="p233">[<sup><small>p. 233</small></sup>]</span>
+‘All is covered; it is covered by Brahman. By it, &c. Svâhâ!’ <span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 2 [^562]. Then, stationing himself towards the north, east, he murmurs the Svasti-Âtreya and, ‘Of what we are in fear, Indra’ (Rig-veda VIII, 61, 13 seqq.), down to the end of the hymn.
 
@@ -365,7 +365,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 9\. The seventh (he recites) over the horses.
 
-10\. The eighth he should cause (the king) to repeat while looking at the arrows; <span id="p234">[<sup><small>p. 234</small></sup>]</span>
+10\. The eighth he should cause (the king) to repeat while looking at the arrows; <span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 11\. (The verse), ‘Like a serpent it encircles the arm with its windings’ (Rig-veda VI, 75, 14), when he ties to his arm the leather (by which the arm is protected against the bow-string).
 
@@ -383,7 +383,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 1
 
-18\. With (the verse), ‘Shot off fall down’ (Rig-veda VI, 75, 16), he should shoot off the arrows. <span id="p235">[<sup><small>p. 235</small></sup>]</span>
+18\. With (the verse), ‘Shot off fall down’ (Rig-veda VI, 75, 16), he should shoot off the arrows. <span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 19 [^568]. ‘Where the arrows fly’ (l.l. v. 17)—this (verse) he should murmur while they are fighting.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 There are two Ya<i>s</i>ts dedicated to Sraosha, the angel of divine worship [^731]: one is a part of the Yasna (LVII \[LVI\]), and this, the other, is called the Srôsh Ya<i>s</i>t Hâdhôkht. Whether it belonged to the so-called Hâdhôkht Nosk [^732], one of the twenty-one Nosks of which the original Avesta was formed [^733], or whether it was recited in the Hâdhôkht sacrifice [^734], a particular liturgy, is a matter on which we have no sufficient information.
 
@@ -56,7 +56,7 @@ Be propitiation, with sacrifice, prayer, propitiation, and glorification.
 
 Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 ## I.
 
@@ -72,7 +72,7 @@ The faithful one who pronounces most words of blessing is the most victorious in
 
 The Law of the worshippers of Mazda is the truest giver of all the good things, of all those that are the offspring of the good principle; and so is the Law of Zarathu<i>s</i>tra.
 
-4\. And he who should pronounce that word [^742], O Zarathu<i>s</i>tra! either a man or a woman, with a mind all intent on holiness, with words all intent on <span id="p161">[<sup><small>p. 161</small></sup>]</span> holiness, with deeds all intent on holiness, when he is in fear either of high waters or of the darkness of a rainy night;
+4\. And he who should pronounce that word [^742], O Zarathu<i>s</i>tra! either a man or a woman, with a mind all intent on holiness, with words all intent on <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> holiness, with deeds all intent on holiness, when he is in fear either of high waters or of the darkness of a rainy night;
 
 Or at the fords of a river, or at the branching-off of roads;
 
@@ -80,7 +80,7 @@ Or in the meeting together of the faithful, or the rushing together of the worsh
 
 5\. Whether on the road [^744] or in the law [^745] he has to fear, not in that day nor in that night shall the tormenting fiend, who wants to torment him, prevail to throw upon him the look of his evil eye, and the malice of the thief [^746] who carries off cattle shall not reach him.
 
-6\. Pronounce then that word, O Zarathu<i>s</i>tra! that word to be spoken [^747], when thou fall upon the idolaters [^748] and thieves and Daêvas rushing together. Then the malice of the wicked worshippers of the Daêvas, of the Yâtus and their followers, of the Pairikas and their followers, will be affrighted and rush away. Down are the Daêvas! Down are the Daêva-worshippers, and they take back their mouths from biting [^749]. <span id="p162">[<sup><small>p. 162</small></sup>]</span> 7\. And therefore we take around us the holy-natured Sraosha, the holy, the fiend-smiter, as one does with shepherds’ dogs; therefore we sacrifice unto the holy-natured Sraosha, the holy, the fiend-smiter, with good thoughts, good words, and good deeds.
+6\. Pronounce then that word, O Zarathu<i>s</i>tra! that word to be spoken [^747], when thou fall upon the idolaters [^748] and thieves and Daêvas rushing together. Then the malice of the wicked worshippers of the Daêvas, of the Yâtus and their followers, of the Pairikas and their followers, will be affrighted and rush away. Down are the Daêvas! Down are the Daêva-worshippers, and they take back their mouths from biting [^749]. <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> 7\. And therefore we take around us the holy-natured Sraosha, the holy, the fiend-smiter, as one does with shepherds’ dogs; therefore we sacrifice unto the holy-natured Sraosha, the holy, the fiend-smiter, with good thoughts, good words, and good deeds.
 
 8 [^750]. For his brightness and glory, for his strength and victorious power, for his offering sacrifices unto the gods [^751], I will offer him a sacrifice worth being heard. I will offer up libations unto the holy Sraosha, unto the great Ashi Vanguhi [^752], and unto Nairyô-sangha [^753], the tall-formed.
 
@@ -96,7 +96,7 @@ Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda . . . .
 
 10 [^755]. We sacrifice unto the holy, tall-formed, fiend-smiting Sraosha, who makes the world increase, the holy and master of holiness;
 
-Who strikes the evil-doing [^756] man, who strikes the evil-doing woman; who smites the fiendish <span id="p163">[<sup><small>p. 163</small></sup>]</span> Dru<i>g</i>, and is most strong and world-destroying; who maintains and looks over all this moving [^757] world;
+Who strikes the evil-doing [^756] man, who strikes the evil-doing woman; who smites the fiendish <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> Dru<i>g</i>, and is most strong and world-destroying; who maintains and looks over all this moving [^757] world;
 
 11\. Who, never sleeping, wakefully guards the creation of Mazda; who, never sleeping, wakefully maintains the creation of Mazda; who protects all the material world with his club uplifted, from the hour when the sun is down;
 
@@ -112,7 +112,7 @@ For his brightness and glory, for his strength and victorious power . . . . [^75
 
 We sacrifice unto the holy, tall-formed, fiend-smiting Sraosha, who makes the world increase, the holy and master of holiness;
 
-Who with peace and friendship [^760] watches the Dru<i>g</i> and the most beneficent Spirit: so that the Amesha-Spe<i>n</i>tas may go along the seven Karshvares of the earth [^761]; who is the teacher of the <span id="p164">[<sup><small>p. 164</small></sup>]</span> Law [^762]: he himself was taught it by Ahura Mazda, the holy One.
+Who with peace and friendship [^760] watches the Dru<i>g</i> and the most beneficent Spirit: so that the Amesha-Spe<i>n</i>tas may go along the seven Karshvares of the earth [^761]; who is the teacher of the <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> Law [^762]: he himself was taught it by Ahura Mazda, the holy One.
 
 For his brightness and glory, for his strength and victorious power . . . .
 
@@ -136,7 +136,7 @@ The friends of Ashi Vanguhi [^766];
 
 The friends of the good <i>K</i>isti [^767];
 
-The friends of the most right <i>K</i>ista [^768]; <span id="p165">[<sup><small>p. 165</small></sup>]</span> 17\. The friends of all gods;
+The friends of the most right <i>K</i>ista [^768]; <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> 17\. The friends of all gods;
 
 The friends of the Mãthra Spe<i>n</i>ta;
 
@@ -160,7 +160,7 @@ We sacrifice unto the holy, tall-formed, fiend-smiting Sraosha, who makes the wo
 
 The first \[Sraosha\], the next, the middle, and the highest; with the first sacrifice, with the next, with the middle, and with the highest [^770]. We sacrifice unto all \[the moments\] [^771] of the holy and strong Sraosha, who is the incarnate Word;
 
-19\. The strong Sraosha, of the manly courage, the warrior of the strong arms, who breaks the skulls of the Daêvas; who smites with heavy blows [^772] and is strong to smite; the holy Sraosha, who smites <span id="p166">[<sup><small>p. 166</small></sup>]</span> with heavy blows; we sacrifice unto the crushing Ascendant of both the holy Sraosha and Ar<i>s</i>ti [^773].
+19\. The strong Sraosha, of the manly courage, the warrior of the strong arms, who breaks the skulls of the Daêvas; who smites with heavy blows [^772] and is strong to smite; the holy Sraosha, who smites <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> with heavy blows; we sacrifice unto the crushing Ascendant of both the holy Sraosha and Ar<i>s</i>ti [^773].
 
 20\. We sacrifice for all the houses protected by Sraosha, where the holy Sraosha is dear and friendly treated and satisfied, as well as the faithful man [^774], rich in good thoughts, rich in good words, rich in good deeds.
 
@@ -192,7 +192,7 @@ We sacrifice unto the body of the long-traditional teaching;
 
 We sacrifice unto the bodies of the Amesha-Spe<i>n</i>tas;
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 We sacrifice unto the bodies of ourselves, the Saoshya<i>n</i><i>t</i>s, the two-footed part of the holy creation;
 

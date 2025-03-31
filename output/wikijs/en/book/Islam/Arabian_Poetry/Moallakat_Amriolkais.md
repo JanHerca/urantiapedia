@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/00600.jpg) STAY!—Let us weep at the remembrance of our beloved, _at the sight of_ the station _where her tent was raised_, by the edge of yon bending sands between Dahul and Haumel,
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. “Then gushed the tears from my eyes, through excess of regret, and flowed down my neck, till my sword-belt was drenched in the stream.”
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 8\. “Yet hast thou passed many days in sweet converse with the fair: but none so sweet as the day which thou spentest by _the pool of_ Daratjuljul.”
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 16\. Delightful, too, was the day when Fatima first rejected me on the summit of yon sand-hill, and took an oath, which she declared inviolable.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 17\. “O Fatima!” said I, "away with so much coyness; and if thou hadst resolved to abandon me, yet at last relent!
 
@@ -88,7 +88,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 25\. She said: “By Him who created me,” and gave me her lovely hand, “I am unable to refuse thee; for I perceive that the blindness of thy passion is not to be removed.”
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 26\. Then I rose with her; and as we walked she drew over our footsteps the train of her pictured robe.
 
@@ -108,7 +108,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 34\. Her locks were elegantly turned above her head; and the riband which bound them was lost in her tresses, part braided, part dishevelled.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 35\. She discovered a waist taper as a well-twisted cord; and a leg both as white and as smooth as the stem of a young palm, or a fresh reed, bending over the rivulet.
 
@@ -128,7 +128,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 43\. And I said to her, when she seemed to extend her sides, to drag on her unwieldy length, and to advance slowly with her breast:
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 44\. "Dispel thy gloom, O tedious night! that the morn may rise; although my sorrows are such, that the morning-light will not give more comfort than thy shades.
 
@@ -148,7 +148,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 52\. Rapid as the pierced wood in the hands of a playful child, which he whirls quickly round with a well-fastened cord.
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 53\. He has the loins of an antelope, and the thighs of an ostrich; he trots like a wolf, and gallops like a young fox.
 
@@ -168,7 +168,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 61\. Then the busy cook dresses the game, roasting part, baking part on hot stones, and quickly boiling the rest in a vessel of iron.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 62\. In the evening we depart; and when the beholder's eye ascends to the head of my hunter, and then descends to his feet, it is unable at once to take in all his beauties.
 
@@ -188,7 +188,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 70\. On _mount_ Taima it leaves not one trunk of a palm tree, nor a single edifice, which is not built with well-cemented stone.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 71\. Mount Tebeir stands in the heights of the flood, like a venerable chief wrapped in a striped mantle.
 

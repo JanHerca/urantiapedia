@@ -29,7 +29,7 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 Abad_i_, [300](./Appendix1_4#p300)
 
@@ -727,7 +727,7 @@ Idr_i_sids, [34](./1_2#p34),[102](./2_2#p102)
 
 I_hat_a, [332](./Appendix1_6#p332)
 
-<span id="p378">[<sup><small>p. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 I_h_s_a_n, [293](./Appendix1_2#p293)
 
@@ -868,7 +868,7 @@ Ja‘far a_s_\-_Sa_diq, [42](./1_2#p42), [173](./3_2#p173)
 
 Al-Jafr, [249](./3_5#p249)
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 Jahannam, [308](./Appendix1_5#p308)
 
@@ -1013,7 +1013,7 @@ Kharas, [340](./Appendix1_6#p340), [341](./Appendix1_6#p341)
 
 Kh_a_rijites, [23](./1_1#p23)\-[27](./1_1#p27), [32](./1_1#p32), [40](./1_2#p40), [44](./1_2#p44), [57](./1_3#p57), [59](./1_3#p59), [123](./3_1#p123)\-[126](./3_1#p126), [131](./3_1#p131), [172](./3_2#p172), [212](./3_3#p212), [292](./Appendix1_1#p292), [294](./Appendix1_3#p294), [296](./Appendix1_3#p296)
 
-<span id="p380">[<sup><small>p. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 Kha_t_ar_a_t, [331](./Appendix1_6#p331)
 
@@ -1173,7 +1173,7 @@ Mashh_u_r_a_t, [259](./3_5#p259)
 
 Mashya, [294](./Appendix1_3#p294)
 
-<span id="p381">[<sup><small>p. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 Ma_s_la_h_a, [101](./2_2#p101)
 
@@ -1305,7 +1305,7 @@ Munkar, [296](./Appendix1_3#p296), [298](./Appendix1_3#p298); [305](./Appendix1_
 
 Munazzah, [324](./Appendix1_6#p324)
 
-<span id="p382">[<sup><small>p. 382</small></sup>]</span>
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 
 Muntazar, [313](./Appendix1_5#p313); see, too, Mu_h_ammad al-Muntazar
 
@@ -1454,7 +1454,7 @@ Ottoman Turks, [36](./1_2#p36), [52](./1_3#p52), [53](./1_3#p53), [54](./1_3#p54
 <br>
 <br>
 
-<span id="p383">[<sup><small>p. 383</small></sup>]</span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 Pan-Islamic movement, [59](./1_3#p59)
 
@@ -1603,7 +1603,7 @@ Sab‘_i_ya, [42](./1_2#p42)
 
 Sa‘da, [36](./1_2#p36)
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 Sa‘d ad-D_i_n; see at-Taft_a_z_a_n_i_
 
@@ -1757,7 +1757,7 @@ _S_ifat al-fi‘l, [291](./Appendix1_1#292), [338](./Appendix1_6#p338)
 
 _S_ifat al-ma‘_a_n_i_, [337](./Appendix1_6#p337)
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 _S_if_a_t ‘aql_i_ya, [190](./3_3#p190)
 
@@ -1916,7 +1916,7 @@ At-Tirmidh_i_, [81](./2_1#p81)
 
 Toledo, [82](./2_1#p82)
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 Tours, [82](./2_1#p82), f.
 

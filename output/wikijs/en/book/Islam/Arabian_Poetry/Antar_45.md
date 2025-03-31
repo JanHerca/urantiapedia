@@ -56,7 +56,7 @@ O that my soul had bade farewell, and that his hands had not beckoned to me a do
 
 Alas! his kindnesses, were I to comment on them, my tongue would fail ere I could repeat them!
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 I swear I will not sleep from taking vengeance: I will not repose, but on the back of my stallion.
 

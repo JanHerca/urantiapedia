@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:26:57Z
   </table>
 </figure>
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 106\. Q. _What is the meaning of the word Buddha?_
 
@@ -46,7 +46,7 @@ A. Yes; our belief is that, under the operation of eternal causation, a Buddha t
 
 A. A person, hearing and seeing one of the Buddhas on earth, becomes seized with the determination to so live that at some future time, when he shall become-fitted for it, he also will be a Buddha for the guiding-of mankind out of the cycle of re-birth.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 109\. Q. _How does he proceed?_
 
@@ -62,7 +62,7 @@ A. In the _Jâtakatthakathâ_, a book containing stories of the Bodhisattva's re
 
 113\. Q. _What lesson do these stories teach?_
 
-A. That a man can carry, throughout a long series of re-incarnations, one great, good purpose which enables <span id="p29">[<sup><small>p. 29</small></sup>]</span> him to conquer bad tendencies and develop virtuous ones.
+A. That a man can carry, throughout a long series of re-incarnations, one great, good purpose which enables <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> him to conquer bad tendencies and develop virtuous ones.
 
 113 Q. _Can we fix the number of re-incarnations through which a Bodhisattva must pass before he can become a Buddha?_
 
@@ -74,7 +74,7 @@ A. Bodhisattvas—the future Buddhas—are divided into three classes.
 
 115\. Q. _Proceed. How are these three kinds of Bodhisats called?_
 
-A. Pannâdhika, or Udghatitagnya—“he who attains least quickly;” Saddhâdhika, or Vipachitagnya—“he who attains less quickly;” and Vîriyâdhika, or Gneyya—“he who attains quickly.” The Pannâdhika Bodhisats take the course of Intelligence; the Saddhâdhika take the course of Faith; the Vîryâdhika take the course of energetic action. The first is guided by Intelligence and does not hasten; the second is full of Faith, and does not care to take the guidance <span id="p30">[<sup><small>p. 30</small></sup>]</span> of Wisdom; and the third never delays to do what is good. Regardless of the consequences to himself, he does it when he sees that it is best that it should be done.
+A. Pannâdhika, or Udghatitagnya—“he who attains least quickly;” Saddhâdhika, or Vipachitagnya—“he who attains less quickly;” and Vîriyâdhika, or Gneyya—“he who attains quickly.” The Pannâdhika Bodhisats take the course of Intelligence; the Saddhâdhika take the course of Faith; the Vîryâdhika take the course of energetic action. The first is guided by Intelligence and does not hasten; the second is full of Faith, and does not care to take the guidance <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> of Wisdom; and the third never delays to do what is good. Regardless of the consequences to himself, he does it when he sees that it is best that it should be done.
 
 116\. Q. _When our Bodhisattva became Buddha, what did he see was the cause of human misery? Tell me in one word_.
 
@@ -92,7 +92,7 @@ A. Because it makes us prize what is not worth prizing, grieve for what we shoul
 
 A. To know the whole secret of man's existence and destiny, so that we may estimate at no more than their actual value this life and its relations; and so that we may live in a way to ensure the greatest happiness and the least suffering for our fellowmen and ourselves.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 120\. Q. _What is the light that can dispel this ignorance of ours and remove all sorrows?_
 
@@ -114,7 +114,7 @@ A. Yes: but all men suffer from them in degree.
 
 A. By complete conquest over, and destruction of, this eager thirst for life and its pleasures, which causes sorrow.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 125\. Q. _How may we gain such a conquest?_
 
@@ -134,7 +134,7 @@ A. Emancipation from the miseries of earthly existence and of re-births, all of 
 
 129\. Q. _And when this salvation or emancipation is attained, what do we reach?_
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 A. Nirvâṇa.
 
@@ -152,7 +152,7 @@ A. No. When Kûtadanta asked the Buddha “Where is Nirvâṇa,” he replied th
 
 133\. Q. _What causes us to be re-born?_
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 A. The unsatisfied selfish desire (Sk., _trishna;_ Pâlî, _tanha_) for things that belong to the state of personal existence in the material world. This unquenched thirst for physical existence (_bhâva_) is a force, and has a creative power in itself so strong that it draws the being back into mundane life.
 
@@ -172,7 +172,7 @@ A. It is; of a cause either immediate or remote.
 
 A. Applied to individuals, it is Karma, that is, action. It means that our own actions or deeds bring upon us whatever of joy or misery we experience.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 138\. Q. _Can a bad man escape from the out-workings of his Karma?_
 
@@ -192,7 +192,7 @@ A. Perfectly consistent: there can be no doubt of it.
 
 142\. Q. _May all men become Buddhas?_
 
-A. It is not in the nature of every man to become a Buddha; for a Buddha is developed only at long intervals of time, and seemingly, when the state of <span id="p36">[<sup><small>p. 36</small></sup>]</span> humanity absolutely requires such a teacher to show it. the forgotten Path to Nirvâṇa. But every being may equally reach Nirvâṇa, by conquering Ignorance and: gaining Wisdom.
+A. It is not in the nature of every man to become a Buddha; for a Buddha is developed only at long intervals of time, and seemingly, when the state of <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> humanity absolutely requires such a teacher to show it. the forgotten Path to Nirvâṇa. But every being may equally reach Nirvâṇa, by conquering Ignorance and: gaining Wisdom.
 
 143\. Q. _Does Buddhism teach that man is re-born, only upon our earth?_
 
@@ -204,7 +204,7 @@ A. Buddhism teaches that there are whole _Sakwalas_ or systems of worlds, of var
 
 145\. Q. Has not the Buddha summed up his whole doctrine in one _gâthâ_, or verse?
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 146\. A. Yes.
 
@@ -228,7 +228,7 @@ A. Yes: the first line embodies the whole spirit of the _Vinâya Pitaka_, the se
 
 14S. Q. _Do these precepts show that Buddhism is an active or a passive religion?_
 
-A. To ‘cease from sin’ may be called passive, but to ‘get virtue’ and to 'cleanse one's own heart,' or mind, are altogether _active_ qualities. Buddha taught <span id="p38">[<sup><small>p. 38</small></sup>]</span> that we should not merely not be evil, but that we should be positively good.
+A. To ‘cease from sin’ may be called passive, but to ‘get virtue’ and to 'cleanse one's own heart,' or mind, are altogether _active_ qualities. Buddha taught <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> that we should not merely not be evil, but that we should be positively good.
 
 149\. Q. _Who or what are the “Three Guides” [^9] that a Buddhist is supposed to follow?_
 
@@ -236,7 +236,7 @@ A. They are disclosed in the formula called the Tisaraṇa: “I follow Buddha a
 
 150\. Q. _What does he mean when repeating this formula?_
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 A. He means that he regards the Buddha as his all-wise Teacher, Friend and Exemplar; the Law, or Doctrine, as containing the essential and immutable principles of Justice and Truth and the path that leads to the realisation of perfect peace of mind on earth; and the Order as the teachers and exemplars of that excellent Law taught by Buddha.
 
@@ -250,7 +250,7 @@ A. Certainly not.
 
 153\. Q. _What are the five observances, or universal_ 
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 _precepts, called the Pancha Sila, which are imposed on the laity in general?_
 
@@ -268,7 +268,7 @@ I observe the precept to abstain from using intoxicants.
 
 154\. Q. _What strikes the intelligent person on reading these Silas?_
 
-A. That one who observes them strictly must escape from every cause productive of human misery. <span id="p41">[<sup><small>p. 41</small></sup>]</span> If we study history we shall find that it has all sprung from one or another of these causes.
+A. That one who observes them strictly must escape from every cause productive of human misery. <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> If we study history we shall find that it has all sprung from one or another of these causes.
 
 155\. Q. _In which Silas is the far-seeing wisdom of the Buddha most plainly shown?_
 
@@ -280,7 +280,7 @@ A. He is said to acquire more or less merit according to the manner and time of 
 
 157\. Q. _What are the other observances which it is considered meritorious for the laity as such to undertake voluntarily to keep?_
 
-A. The _Atthanga Silo_, or the Eight-fold Precept, which embraces the five above enumerated (omitting <span id="p42">[<sup><small>p. 42</small></sup>]</span> the word “unlawful” in the third), with three additional; _viz_.:—
+A. The _Atthanga Silo_, or the Eight-fold Precept, which embraces the five above enumerated (omitting <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> the word “unlawful” in the third), with three additional; _viz_.:—
 
 I observe the precept to abstain from eating at an unseasonable time.
 
@@ -296,7 +296,7 @@ A. There is no great merit in any merely outward act; all depends upon the inwar
 
 159\. Q. _Give an example_.
 
-A. A rich man may expend lakhs of rupees in building dâgobas or vihâras, in erecting statues of Buddha, in festivals and processions, in feeding <span id="p43">[<sup><small>p. 43</small></sup>]</span> priests, in giving alms to the poor, or in planting trees, digging tanks, or constructing rest-houses by the roadside for travellers, and yet have comparatively little merit if it be done for display, and to make himself praised by men, or for any other selfish motives. But he who does the least of these things with a kind motive, as from love for his fellow-men, gains great merit. A good deed done with a bad motive benefits others, but not the doer. One who approves of a good deed when done by another shares in the merit, if his sympathy is real, not pretended. The same rule as to evil deeds.
+A. A rich man may expend lakhs of rupees in building dâgobas or vihâras, in erecting statues of Buddha, in festivals and processions, in feeding <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> priests, in giving alms to the poor, or in planting trees, digging tanks, or constructing rest-houses by the roadside for travellers, and yet have comparatively little merit if it be done for display, and to make himself praised by men, or for any other selfish motives. But he who does the least of these things with a kind motive, as from love for his fellow-men, gains great merit. A good deed done with a bad motive benefits others, but not the doer. One who approves of a good deed when done by another shares in the merit, if his sympathy is real, not pretended. The same rule as to evil deeds.
 
 160\. Q. _But which is said to be the greatest of all meritorious actions?_
 
@@ -308,7 +308,7 @@ A. The three collections of books called _Tripitakas_, or “_Three Baskets_.”
 
 162\. Q. _What are the names of the three Pitakas, or groups of books?_
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 A. The _Vinâya Pitaka_, the _Sutta Pitaka_ and the _Abhidhamma Pitaka_.
 
@@ -328,7 +328,7 @@ A. Dr. Rhys-Davids estimates them at 1,752,800.
 
 A. In 88–76 B.C., under the Sinhalese King, Wattagamini; or 330 years after the Parinirvâṇa of the Buddha.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 167\. Q. _Have we reason to believe that all the discourses of the Buddha are known to us?_
 
@@ -340,7 +340,7 @@ A. Not at all. Man must emancipate himself. Until he does that he will continue 
 
 169\. Q. _What, then, was the Buddha to us, and all other beings?_
 
-A. An all-seeing, all-wise Counsellor; one who discovered the safe path and pointed it out; one who showed the cause of, and the only cure for, human suffering. In pointing to the road, in showing <span id="p46">[<sup><small>p. 46</small></sup>]</span> us how to escape dangers, he became our Guide. He is to us like one leading a blind man across a narrow bridge over a swift and deep stream and so saving his life.
+A. An all-seeing, all-wise Counsellor; one who discovered the safe path and pointed it out; one who showed the cause of, and the only cure for, human suffering. In pointing to the road, in showing <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> us how to escape dangers, he became our Guide. He is to us like one leading a blind man across a narrow bridge over a swift and deep stream and so saving his life.
 
 170\. _Q. If we were to try to represent the whole spirit of the Buddha's doctrine by one word, which word should we choose?_
 
@@ -354,7 +354,7 @@ A. Because it teaches that every man gets, under the operations of unerring KARM
 
 A. A causation operating on the moral, as well as on the physical and other planes. Buddhists say there is no miracle in human affairs what a man sows that he must and will reap.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 173\. Q. _What other good words have been used to express the essence of Buddhism?_
 
@@ -374,7 +374,7 @@ A. Forty-nine days.
 
 177\. Q. _What do we call the first discourse preached by the Buddha—that which he addressed to his five former companions?_
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 A. The _Dhammacakka-ppavattana sutta_,—the Sûtra of the Definition of the Rule of Doctrine. [^12]
 
@@ -388,7 +388,7 @@ A. He did not; he opposed it. The worship of gods, demons, trees, etc, was conde
 
 160\. Q. _But do not Buddhists make reverence_ 
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 _before the statue to the Buddha, his relics, and the monuments enshrining them?_
 
@@ -404,7 +404,7 @@ A. The Buddhist reverences the Buddha's statue and the other things you have men
 
 183\. _Q. Has the Buddha himself given us something definite upon this subject?_
 
-A. Certainly. In the _Mahâ Pari-Nirvâṇa Sutta_  <span id="p50">[<sup><small>p. 50</small></sup>]</span> he says that emancipation is attainable only by leading the Holy life, according to the Noble Eight-fold Path, not by external worship (_âmisa pûja_), nor by adoration of himself, or of another, or of any image.
+A. Certainly. In the _Mahâ Pari-Nirvâṇa Sutta_  <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> he says that emancipation is attainable only by leading the Holy life, according to the Noble Eight-fold Path, not by external worship (_âmisa pûja_), nor by adoration of himself, or of another, or of any image.
 
 184\. Q. _What was the Buddha's estimate of ceremonialism?_
 
@@ -424,7 +424,7 @@ A. Among others, these: It teaches the highest goodness without a creating God; 
 
 188\. Q. _Specify the two main divisions of ‘meditation,’_ i.e._, of the process by which one extinguishes passion and attains knowledge_.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 A. _Samatha_ and _Vidarsama_: (1) the attenuation of passion by leading the holy life and by continued effort to subdue the senses; (2) the attainment of supernormal wisdom by reflection: each of which embraces twenty aspects, but I need not here specify them.
 
@@ -434,7 +434,7 @@ A. (1) _Sottâpatti_, the beginning or entering into which follows after one's c
 
 190\. Q. _Does popular Buddhism contain nothing but what is true, and in accord with science?_
 
-A. Like every other religion that has existed many centuries, it certainly now contains untruth mingled with truth; ever gold is found mixed with <span id="p53">[<sup><small>p. 53</small></sup>]</span> dross. The poetical imagination, the zeal, or the lingering superstition of Buddhist devotees have, in various ages, and in various lands, caused the noble principles of the Buddha's moral doctrines to be coupled more or less with what might be removed to advantage.
+A. Like every other religion that has existed many centuries, it certainly now contains untruth mingled with truth; ever gold is found mixed with <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> dross. The poetical imagination, the zeal, or the lingering superstition of Buddhist devotees have, in various ages, and in various lands, caused the noble principles of the Buddha's moral doctrines to be coupled more or less with what might be removed to advantage.
 
 191\. Q. _When such perversions are discovered, what should be the tree Buddhist's earnest desire?_
 
@@ -450,7 +450,7 @@ A. In the _Sanyutta Nikâya_.
 
 194\. Q. _Are there any dogmas in Buddhism which we are required to accept on faith?_
 
-A. No: we are earnestly enjoined to accept <span id="p54">[<sup><small>p. 54</small></sup>]</span> nothing whatever on faith; whether it be written in books, handed down from our ancestors, or taught by the sages.
+A. No: we are earnestly enjoined to accept <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> nothing whatever on faith; whether it be written in books, handed down from our ancestors, or taught by the sages.
 
 195\. Q. _Did he himself really teach that noble rule?_
 
@@ -458,7 +458,7 @@ A. Yes. The Buddha has said that we must not believe in a thing said merely beca
 
 196\. Q. _When, then, must we believe?_
 
-A. We are to believe when the writing, doctrine or saying is corroborated by our own reason and consciousness. “For this,” says he in concluding, “I taught you not to believe merely because you have heard, but when you believed of your own consciousness, then to act accordingly and abundantly.” (See the _Kâlâma Sutta_ of the _Anguttara Nikâya_, and the _Mahâ Pari Nirvâṇa Sutta_.) <span id="p55">[<sup><small>p. 55</small></sup>]</span> 197\. Q. _What does the Buddha call himself?_
+A. We are to believe when the writing, doctrine or saying is corroborated by our own reason and consciousness. “For this,” says he in concluding, “I taught you not to believe merely because you have heard, but when you believed of your own consciousness, then to act accordingly and abundantly.” (See the _Kâlâma Sutta_ of the _Anguttara Nikâya_, and the _Mahâ Pari Nirvâṇa Sutta_.) <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> 197\. Q. _What does the Buddha call himself?_
 
 A. He says that he and the other Buddhas are only “preachers” of truth who point out the way: we ourselves must make the effort.
 
@@ -474,7 +474,7 @@ A. The _Dhammapada_ says: “Like a beautiful flower full of color without scent
 
 A. In the _Dhammapada_ the Buddha said: “If a man foolishly does me wrong, I will return to him the protection of my ungrudging love; the more evil comes from him, the more good shall go from me.” This is the path followed by the Arhat. [^14] To return evil for evil is positively forbidden in Buddhism.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 201\. Q. _Does it encourage cruelly?_
 
@@ -482,7 +482,7 @@ A. No, indeed. In the Five Precepts and in many of his discourses, the Buddha te
 
 202\. Q. _In which discourse is this stated?_
 
-A. The _Dhammika Sutta_ says: “Let him (the householder) not destroy, or cause to be destroyed, any life at all, or _sanction the acts of those who do so_. <span id="p57">[<sup><small>p. 57</small></sup>]</span>[^15] etc.
+A. The _Dhammika Sutta_ says: “Let him (the householder) not destroy, or cause to be destroyed, any life at all, or _sanction the acts of those who do so_. <span id="p57"><sup><small>[ p. 57 ]</small></sup></span>[^15] etc.
 
 203\. Q. _Does it approve of drunkenness?_
 
@@ -500,7 +500,7 @@ A. Absolute chastity being a condition of full spiritual development, is most hi
 
 A. The _Anguttara Nikâya_, chap. iv, 55.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 207\. Q. _What does it teach as to the duty of parents to children?_
 
@@ -524,7 +524,7 @@ A. To show affection to him; order her household aright; be hospitable to guests
 
 212\. Q. _Where are these precepts taught?_
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 A. In the _Sigâlovâda Sutta_.
 
@@ -546,7 +546,7 @@ A. That it is a taint worse than all taints that a man can put upon himself.
 
 217\. Q. _What does it say about uncharitableness towards others?_
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 A. That the fault of others is easily perceived, but that of oneself difficult to perceive; a man winnows his neighbor's faults like chaff, but his own fault he hides, as a cheat hides the bad die from the gambler.
 
@@ -564,7 +564,7 @@ A. The killers of father, mother, and holy Arhats; bhikkhus who sow discord in t
 
 221\. Q. _Does Buddhism specify places or conditions of torment into which a bad man's Karma draws him on leaving this life?_
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 A. Yes., They are: Sanjîva; Kâlasûtra; Sanghâta; Raurava; Mahâ-Raurava; Tâpa; Pratâpa; Avîchi.
 
@@ -582,7 +582,7 @@ A. According to our religion they are on a footing of perfect equality with men.
 
 225\. Q. _What does a modern critic say about the effect of Buddhism on woman?_
 
-A. That “it has done more for the happiness and <span id="p62">[<sup><small>p. 62</small></sup>]</span> enfranchisement of woman than any other creed” (Sir Lepel Griffin).
+A. That “it has done more for the happiness and <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> enfranchisement of woman than any other creed” (Sir Lepel Griffin).
 
 226\. Q. _What did the Buddha teach about caste?_
 
@@ -594,7 +594,7 @@ A. Ânanda, passing by a well, was thirsty and asked Prakriti, a girl of the Mâ
 
 228\. Q. What did the Buddha say in Vasalasutta about a man of the Pariah Sopâka caste?
 
-A. That by his merits he reached the highest fame; that many Khattiyas (Kshattriyas) and Brahmans went to serve him; and that after death he was born in the Brahma world: while there are many <span id="p63">[<sup><small>p. 63</small></sup>]</span> Brâhmaṇas who for their evil deeds are born in hell,
+A. That by his merits he reached the highest fame; that many Khattiyas (Kshattriyas) and Brahmans went to serve him; and that after death he was born in the Brahma world: while there are many <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> Brâhmaṇas who for their evil deeds are born in hell,
 
 229\. Q. _Does Buddhism teach the immortality of the soul?_
 
@@ -610,7 +610,7 @@ A. Exactly so.
 
 232\. Q. _If the idea of a separate human soul_ 
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 _is to be rejected, what is it in man which gives him the impression of having a permanent personality?_
 
@@ -618,11 +618,11 @@ A. _Tanhâ_, or the unsatisfied desire for existence. The being having done that
 
 233\. Q. _What is it that is born?_
 
-A. A new aggregation of Skandhas, or personality [^18] <span id="p65">[<sup><small>p. 65</small></sup>]</span> caused by the last generative thought of the dying person.
+A. A new aggregation of Skandhas, or personality [^18] <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> caused by the last generative thought of the dying person.
 
 234\. Q. _How many Skandhas are there?_
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 A. Five.
 
@@ -640,17 +640,17 @@ A. To the ripened Karma of the individual in his preceding births.
 
 235\. Q. _What is the force or energy that is at work, under the guidance of Karma, to produce the new being?_
 
-A. Tanhâ—the will to _live_. [^19] <span id="p67">[<sup><small>p. 67</small></sup>]</span> 239\. Q. _Upon what is the doctrine of re-births founded?_
+A. Tanhâ—the will to _live_. [^19] <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> 239\. Q. _Upon what is the doctrine of re-births founded?_
 
 A. Upon the perception that perfect justice, equilibrium and adjustment are inherent in the universal system of Nature. Buddhists do not believe that one life—even though it were extended to one hundred or five hundred years—is long enough for the reward or punishment of a man's deeds. The great circle of re-births will be more or less quickly run through according to the preponderating purity or impurity of the several lives of the individual.
 
 240\. Q. _Is this new aggregation of Skandhas—this new personality—the same being as that in the previous birth, whose Tanhâ has brought it into existence?_
 
-A. In one sense it is a new being; in another it is not. In Pâlî it is—“nacha so nacha añño,” which means not the same nor yet another. During this <span id="p68">[<sup><small>p. 68</small></sup>]</span>[^20] and while the man A. B., of forty, is identical, as regards. personality, with the youth A. B., of eighteen, yet, by the continual waste and reparation of his body, and change of mind and character, he is a different being. Nevertheless, the man in his old age justly reaps the reward or suffering consequent upon his thoughts and actions at every previous stage of his life. So the new being of a re-birth, being the same individuality as before, with but a changed form, or new aggregation of Skandhas, justly reaps the consequences of his actions and thoughts in the previous existence.
+A. In one sense it is a new being; in another it is not. In Pâlî it is—“nacha so nacha añño,” which means not the same nor yet another. During this <span id="p68"><sup><small>[ p. 68 ]</small></sup></span>[^20] and while the man A. B., of forty, is identical, as regards. personality, with the youth A. B., of eighteen, yet, by the continual waste and reparation of his body, and change of mind and character, he is a different being. Nevertheless, the man in his old age justly reaps the reward or suffering consequent upon his thoughts and actions at every previous stage of his life. So the new being of a re-birth, being the same individuality as before, with but a changed form, or new aggregation of Skandhas, justly reaps the consequences of his actions and thoughts in the previous existence.
 
 241\. Q. _But the aged man remembers the incidents of his youth, despite his being physically and mentally changed. Why, then, is not the recollection of past lives brought over by us from our last birth into. the present birth?_
 
-A. Because memory is included within the Skandhas; and the Skandhas having changed with the new reincarnation, a new Memory, the record of that particular existence, develops. Yet the record or reflection of all the past earth-lives must survive; for, <span id="p69">[<sup><small>p. 69</small></sup>]</span> when Prince Siddhârthâ became Buddha, the full sequence of his previous births was seen by him. If their several incidents had left no trace behind, this could not have been so, as there would have been nothing for him to see. And any one who attains to the fourth state of Dhyâna (psychical insight) can thus retrospectively trace the line of his lives.
+A. Because memory is included within the Skandhas; and the Skandhas having changed with the new reincarnation, a new Memory, the record of that particular existence, develops. Yet the record or reflection of all the past earth-lives must survive; for, <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> when Prince Siddhârthâ became Buddha, the full sequence of his previous births was seen by him. If their several incidents had left no trace behind, this could not have been so, as there would have been nothing for him to see. And any one who attains to the fourth state of Dhyâna (psychical insight) can thus retrospectively trace the line of his lives.
 
 242\. Q, _What is the ultimate point towards which fend all these series of changes in form?_
 
@@ -662,7 +662,7 @@ A. No; that would he as absolute selfishness as though the reward hoped for had 
 
 244\. Q. _Please make it a little clearer_.
 
-A. Nirvâṇa is the synonym of unselfishness, the entire surrender of selfhood to truth. The ignorant man aspires to nirvâṇic happiness without the least idea of its nature. Absence of selfishness is Nirvâṇa. Doing good with the view to getting results, or leading <span id="p70">[<sup><small>p. 70</small></sup>]</span> the holy life with the object of gaining heavenly happiness, is not the Noble Life that the Buddha enjoined. Without hope of reward the Noble Life should be lived, and that is the highest life. The nirvâṇic state can be attained while one is living on this earth.
+A. Nirvâṇa is the synonym of unselfishness, the entire surrender of selfhood to truth. The ignorant man aspires to nirvâṇic happiness without the least idea of its nature. Absence of selfishness is Nirvâṇa. Doing good with the view to getting results, or leading <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> the holy life with the object of gaining heavenly happiness, is not the Noble Life that the Buddha enjoined. Without hope of reward the Noble Life should be lived, and that is the highest life. The nirvâṇic state can be attained while one is living on this earth.
 
 245\. Q. _Name the ten great obstacles to advancement, called Sanyojanas, the Fetters_.
 
@@ -678,7 +678,7 @@ A. Greed, Malice, Sloth, Pride, and Doubt.
 
 248\. Q. _Why do we see this minute division of feelings, impulses, workings of the mind, obstacles and_ 
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 _aids to advancement so much used in the Buddha's teachings? It is very confusing to a beginner_.
 
@@ -694,7 +694,7 @@ A. He knew the nature of the Knowable and the Unknowable, the Possible and the I
 
 251\. Q. _What do we call the basic principle on which the whole of the Buddha's teaching is constructed?_
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 A. It is called _Paticca Samuppâdâ_. [^21]
 
@@ -708,7 +708,7 @@ A. That even he was as helpless in this vast ocean of thought as one who is drif
 
 254\. Q. _Then why should the Buddha say, in the Parinibbâna Sutta, that he “has no such thing as the closed fist of a teacher, who keeps something back?” If his whole teaching was open to every one's comprehension, why should so great and learned a man as Buddha Ghosha declare it so hard to understand?_
 
-A. The Buddha evidently meant that he taught <span id="p73">[<sup><small>p. 73</small></sup>]</span> everything freely; but equally certain is it that the real basis of the Dharma can only be understood by him who has perfected his powers of comprehension. It is, therefore, incomprehensible to common, unenlightened persons.
+A. The Buddha evidently meant that he taught <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> everything freely; but equally certain is it that the real basis of the Dharma can only be understood by him who has perfected his powers of comprehension. It is, therefore, incomprehensible to common, unenlightened persons.
 
 255\. Q. _How does the teaching of the Buddha support this view?_
 

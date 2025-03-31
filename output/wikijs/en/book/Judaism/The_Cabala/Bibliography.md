@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:39Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 The following references are given for the sake of those who may be sufficiently interested in the subject to enter further into its details:
 
@@ -52,7 +52,7 @@ Freystadt, _Philosophia cabbalistica; Ex fontibus primariis adumbravit atque int
 
 Tholuck, _De ortu Cabbalae_, Hamburg, 1837.
 
-Hamberger, _die hohe Bedeutung der altjüdischen_  <span id="p111">[<sup><small>p. 111</small></sup>]</span> _Tradition oder der sogenannten Kabbalah_, Sulzbach, 1844 (a review of Molitor's work).
+Hamberger, _die hohe Bedeutung der altjüdischen_  <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> _Tradition oder der sogenannten Kabbalah_, Sulzbach, 1844 (a review of Molitor's work).
 
 Lutterbeck, _die neutestamentlichen Lehrbegriffe_, Vol. 1., 1853.
 

@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:54:6Z
 
 THIRD CHAPTER.
 
-If a monk should eat forbidden food which a pious (layman) has prepared for some guest, and which food has been mixed up with even thousand (times more <span id="p244">[<sup><small>p. 244</small></sup>]</span> pure food) [^705], he would be neither monk nor layman. (1)
+If a monk should eat forbidden food which a pious (layman) has prepared for some guest, and which food has been mixed up with even thousand (times more <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> pure food) [^705], he would be neither monk nor layman. (1)
 
 <i>S</i>rama<i>n</i>as who do not comprehend this and do not know what is dangerous, who care for the pleasures of the moment only, will suffer death an endless number of times, like big [^706] fishes who when the water rises are by the water (deposited) on dry land and are killed (there), poor things, by hungry <i>dh</i>aṅkas and herons. (2-4)
 
@@ -42,7 +42,7 @@ We hear also of another error of some (philosophers): some say that the world ha
 
 The great <i>Ri</i>shi [^709] said, that the world has been created by Svayambhû; Mâra originated Mâyâ, therefore the world (appears to be) uneternal. (7)
 
-Some Brâhma<i>n</i>as and <i>S</i>rama<i>n</i>as say that the <span id="p245">[<sup><small>p. 245</small></sup>]</span> universe was produced from the (primeval) egg, and He (Brahman) created the things. These ignorant men speak untruth. (8)
+Some Brâhma<i>n</i>as and <i>S</i>rama<i>n</i>as say that the <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> universe was produced from the (primeval) egg, and He (Brahman) created the things. These ignorant men speak untruth. (8)
 
 Those who on arguments of their own maintain that the world has been created, do not know the truth. Nor will (the world) ever perish. (9)
 
@@ -54,7 +54,7 @@ Some say that the soul (of him who is) pure will become free from bad Karman (on
 
 A wise man should consider that these (heretics) do not lead a life of chastity, and that all these disputants proclaim their own creed in opposition (to the others). (13)
 
-(Others [^712] maintain that) perfection can only be reached by their method of religious life, not otherwise; and that even before (that time) they have <span id="p246">[<sup><small>p. 246</small></sup>]</span> their senses under control and possess everything to be wished for [^713]. (14)
+(Others [^712] maintain that) perfection can only be reached by their method of religious life, not otherwise; and that even before (that time) they have <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> their senses under control and possess everything to be wished for [^713]. (14)
 
 Some say that they will be perfected and sound.
 

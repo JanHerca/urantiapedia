@@ -30,9 +30,9 @@ dateCreated: 2024-11-19T20:43:59Z
 </figure>
 
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 <span id="s1"></span>
 
@@ -48,7 +48,7 @@ Keep us from the path of error;
 Forgive us our trespasses, and show us righteousness.
 
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 <span id="s2"></span>
 
@@ -66,7 +66,7 @@ Which passed beyond the palace of the cerulean portico!
 
 ## ADDRESS TO THE SOUL
 
-Forty years of thy precious existence have expired; <span id="p31">[<sup><small>p. 31</small></sup>]</span>
+Forty years of thy precious existence have expired; <span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 Yet thy life hath not passed beyond childhood.
 Thou hast spent all in lust and licence;
 Not a moment hast thou acted according to righteousness.
@@ -83,7 +83,7 @@ Generosity will make thee renowned throughout the universe;
 Generosity will secure thee happiness.
 Beside generosity there is nothing in the world,
 Nor is aught more current in any market!
-Generosity will be the source of delight; <span id="p32">[<sup><small>p. 32</small></sup>]</span>
+Generosity will be the source of delight; <span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 Generosity will be the harvest of life.
 Freshen the heart of the world by generosity;
 Fill the globe with the renown of thy generosity.
@@ -100,7 +100,7 @@ Be conqueror of the world through kindness and benevolence;
 Be a chief in the kingdom of kindness and generosity.
 Benevolence is the attribute of men of piety,
 Benevolence is the duty of the prosperous.
-Benevolence is the touchstone of the alloy of sin, <span id="p33">[<sup><small>p. 33</small></sup>]</span>
+Benevolence is the touchstone of the alloy of sin, <span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 Benevolence is the medicine for all ills.
 Be not, if you can, void of benevolence,
 That you may snatch the ball of excellence owing to benevolence.
@@ -117,7 +117,7 @@ The miser is not worthy that thou shouldest mention his name.
 And were fortune to become his servant,
 Pay no regard to the property of the miser—
 Speak not of the miser's property and possessions.
-Were the miser a devotee both on land and sea, <span id="p34">[<sup><small>p. 34</small></sup>]</span>
+Were the miser a devotee both on land and sea, <span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 He would be so it is ordered—unknown in Paradise.
 Though the miser be rich in possessions,
 He would suffer distress, as if he were a poor man.
@@ -137,7 +137,7 @@ For exalted will be the dignity of friendship.
 Humility exalteth a man,
 Humility is a decoration to men of position.
 Every one who is human is humble;
-Nought becometh a man save magnanimity. <span id="p35">[<sup><small>p. 35</small></sup>]</span>
+Nought becometh a man save magnanimity. <span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 The man of wisdom maketh choice of humility;
 The bough laden with fruit rests upon the earth.
 Humility will increase thy reputation,
@@ -151,7 +151,7 @@ It is more than delightful to find in him humility.
 Humility will make thee beloved in the world
 Thou wilt become dear in men's hearts as their own soul.
 Do not withhold humility from mankind,
-For thus thou mayest withdraw thy neck (from perplexity) as it were a sword (from the scabbard). <span id="p36">[<sup><small>p. 36</small></sup>]</span>
+For thus thou mayest withdraw thy neck (from perplexity) as it were a sword (from the scabbard). <span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 Humility on the part of the exalted is commendable.
 If a beggar be humble, it is his nature.
 
@@ -167,7 +167,7 @@ Pride is the habit of the ignorant,
 Pride doth not proceed from men of intelligence.
 Pride caused the fall of Azazil, [^7]
 And led to his being ensnared in the prison of the accursed.
-Whoever is by nature arrogant, <span id="p37">[<sup><small>p. 37</small></sup>]</span>
+Whoever is by nature arrogant, <span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 His head is filled with pride beyond imagination.
 Pride is the source of adversity,
 Pride is the nature of the evil-disposed.
@@ -185,7 +185,7 @@ Since without learning one cannot know God.
 A man of wisdom is a student of learning,
 For the market of wisdom is always brisk.
 Whoever is fortunate as regards Eternity,
-Maketh choice of the pursuit of knowledge. <span id="p38">[<sup><small>p. 38</small></sup>]</span>
+Maketh choice of the pursuit of knowledge. <span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 This pursuit of knowledge is a duty on thy part,
 Even if it be necessary to traverse the earth.
 Go, seize fast hold of the skirt of knowledge,
@@ -200,7 +200,7 @@ For thine affairs will be settled by knowledge.
 ## AS REGARDS AVOIDING THE SOCIETY OF THE IGNORANT
 
 O soul! if thou art wise and intelligent,
-Make not choice of the society of the ignorant. <span id="p39">[<sup><small>p. 39</small></sup>]</span>
+Make not choice of the society of the ignorant. <span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 Dart from the ignorant, as it were an arrow;
 Mix not with them, as it were sugar and milk.
 If thou hast a dragon for a friend in the cave,
@@ -212,7 +212,7 @@ And no one hath heard therefrom but base words.
 No one in the world is so despicable as the ignorant,
 For nothing is more worthless than ignorance.
 The end of the ignorant will be the abode of the lost,
-For the ignorant seldom end life well. <span id="p40">[<sup><small>p. 40</small></sup>]</span>
+For the ignorant seldom end life well. <span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 It is best that the ignorant should be abased,
 For it is fitting that the ignorant should find disgrace.
 It is well to shun the ignorant,
@@ -228,7 +228,7 @@ Since justice is the adornment of royalty,
 Why dost thou not fix thine heart upon justice?
 Thy kingdom will be established
 If justice cometh to thine aid.
-Since Nushirwan [^8] made choice of justice <span id="p41">[<sup><small>p. 41</small></sup>]</span>
+Since Nushirwan [^8] made choice of justice <span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 His name is now held in remembrance for his goodness.
 Peace befalleth the kingdom from the effects of justice,
 Since from justice the kingdom attaineth its wishes.
@@ -243,7 +243,7 @@ Close the door of oppression against mankind;
 Withhold not thy favour from thy subjects;
 Gratify the desires of those who seek justice.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 <span id="s12"></span>
 
@@ -259,7 +259,7 @@ If a tyrant raiseth a sigh from the soul
 The anguish createth a flame over land and water.
 Do not oppress poor helpless people,
 Without further thought as to the narrowness of the grave.
-Be not disposed towards the market-place of oppression; <span id="p43">[<sup><small>p. 43</small></sup>]</span>
+Be not disposed towards the market-place of oppression; <span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 Be not neglectful of the smoke of men's hearts.
 O man of haste! be not an oppressor of humanity,
 For of a sudden the wrath of God will overtake thee.
@@ -275,7 +275,7 @@ Thou wilt exercise sway in the kingdom of repose.
 If thou art pinched with the trials of poverty,
 Then, in the estimation of the wise, wealth is nought.
 The poor man is not disgraced by poverty,
-For mankind attain glory from penury. <span id="p44">[<sup><small>p. 44</small></sup>]</span>
+For mankind attain glory from penury. <span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 Gold and silver are the glory of the rich,
 But the poor have inward repose.
 Be not distressed if thou art not wealthy,
@@ -291,7 +291,7 @@ If thou hast any token of good fortune.
 
 Beware! thou that art snared in the net of avarice,
 Lest thou be mad and intoxicated with the cup of greed.
-Waste not thy life in the acquisition of wealth, <span id="p45">[<sup><small>p. 45</small></sup>]</span>
+Waste not thy life in the acquisition of wealth, <span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 Since an earthen pot is not of the same value as a pearl.
 Whosoever hath fallen into the snare of greed
 Giveth the harvest of his life to the winds.
@@ -302,7 +302,7 @@ Like the helpless, with distress of heart.
 Why dost thou distress thyself with the anguish of gold?
 Why dost thou bear the burden of distress, as if thou wert an ass?
 Why dost thou undergo anguish on account of wealth,
-For it will of a sudden be swept away. <span id="p46">[<sup><small>p. 46</small></sup>]</span>
+For it will of a sudden be swept away. <span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 Hast thou thus given thine heart to the picture of money?
 For with the taste thereof thou wilt become a penitent boon companion.
 Thou art become such a lover of the face of gold,
@@ -317,7 +317,7 @@ Who on account of the world scattereth faith to the winds.
 ## DESCRIPTION OF OBEDIENCE AND WORSHIP
 
 When fortune is a person's slave
-His heart is perpetually disposed towards obedience. <span id="p47">[<sup><small>p. 47</small></sup>]</span>
+His heart is perpetually disposed towards obedience. <span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 It is not fit to turn aside one's head from servitude,
 Since fortune is obtainable from obedience.
 Happiness is procured from obedience;
@@ -329,7 +329,7 @@ Since no excellence is more lofty than obedience.
 Keep thine ablutions freshened with the waters of obedience,
 So that to-morrow thou mayest be free as from fire.
 i Stablish thy prayers with sincerity,
-So that thou mayest attain everlasting prosperity. <span id="p48">[<sup><small>p. 48</small></sup>]</span>
+So that thou mayest attain everlasting prosperity. <span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 Enlightenment of soul springeth from obedience,
 Just as the earth deriveth light from the sun.
 Worship the Creator;
@@ -343,7 +343,7 @@ That thou mayest become happy, like the prosperous.
 Whoever is clad with the garment of religion
 Hath no fear for the trials of the day of judgment.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 <span id="s16"></span>
 
@@ -362,7 +362,7 @@ Lest he becometh as the light of the sun concealed by the clouds.
 Do not give way to thy lusts,
 Lest thou be suddenly snatched to perdition.
 If thine heart doth not turn aside from sin,
-Amongst the lowest of the low will be thine abode. <span id="p50">[<sup><small>p. 50</small></sup>]</span>
+Amongst the lowest of the low will be thine abode. <span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 Do not destroy the house of life
 With the torrent of bad and improper actions.
 If thou keepest away from sin and iniquity,
@@ -377,7 +377,7 @@ For a man with a soul desires this (religious) intoxication.
 The ruby wine in the golden goblet
 Is soul-inspiring, as it were a beautiful pearl.
 Welcome is the fire of desire to those inspired with love!
-Welcome are the delightful pains of the lords of love! <span id="p51">[<sup><small>p. 51</small></sup>]</span>
+Welcome are the delightful pains of the lords of love! <span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 Bring this wine as it were the water of immortality, [^10]
 For from its fragrance the soul findeth deliverance from grief!
 Happy that soul that desires a Friend! [^11]
@@ -389,7 +389,7 @@ Wine—the purest like a beautiful face!
 Happy men of soul who adore wine!
 Happy the flavour of wine to men of spirit!
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 <span id="s18"></span>
 
@@ -404,7 +404,7 @@ That thou be not ashamed before the face of thy friends.
 Place not thy foot outside the street of fidelity,
 Since tyranny is not fitting in the case of friends.
 It is wrong to separate thyself from beloved ones;
-It is contrary to fidelity to sever thyself from thy comrades. <span id="p53">[<sup><small>p. 53</small></sup>]</span>
+It is contrary to fidelity to sever thyself from thy comrades. <span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 Want of fidelity is the attribute of women.
 Do not learn the unseemly conduct of that sex.
 
@@ -420,7 +420,7 @@ Thy wealth and possessions are increased by gratitude;
 Victory entereth thy door, owing to gratitude.
 Wert thou to show gratitude to God till the day of reckoning,
 Thou would’st not discharge a thousandth part (of thy duties).
-Yes I it is best to lisp thy gratitude, <span id="p54">[<sup><small>p. 54</small></sup>]</span>
+Yes I it is best to lisp thy gratitude, <span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 For gratitude to Him is an ornament to Islam.
 If thou restrainest not thy tongue from gratitude to God,
 Thou wilt attain everlasting felicity.
@@ -438,7 +438,7 @@ For save patience there is no key for them.
 Patience giveth thee the desire of thine heart,
 For at the hands of mankind thy difficulties are solved.
 Patience is best in every case,
-For in this sentence is much meaning. <span id="p55">[<sup><small>p. 55</small></sup>]</span>
+For in this sentence is much meaning. <span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 Patience giveth thee thy desire,
 It relieveth thee from pain and misfortune.
 Patience is the key of the door of thine aspirations,
@@ -457,7 +457,7 @@ Since from rectitude a man's name is exalted.
 If thou breathest truth at morn
 Thou wilt avoid the darkness of ignorance.
 Beware that thou breathest nought save rectitude,
-Since the right hand holdeth pre-eminence over the left, <span id="p56">[<sup><small>p. 56</small></sup>]</span>
+Since the right hand holdeth pre-eminence over the left, <span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 Nought is better in the world than rectitude,
 For in the rosebud of rectitude there is no thorn.
 
@@ -478,7 +478,7 @@ For a liar is despised and without repute.
 Nought is worse than unrighteousness;
 O son! therefrom ariseth loss of fair name.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 <span id="s23"></span>
 
@@ -496,7 +496,7 @@ One is a payer of taxes, and another sits on a throne;
 One is exalted, and another debased;
 One sitteth on a mat, and another upon a throne;
 One is in rags, and another is clad in silk;
-One hath no bread, and another revels in wealth; <span id="p58">[<sup><small>p. 58</small></sup>]</span>
+One hath no bread, and another revels in wealth; <span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 One is disappointed, and another prosperous;
 One is afflicted, and another rolleth in riches;
 One hath a transient fate, and another is established throughout eternity;
@@ -510,7 +510,7 @@ One is of good disposition, and another is of hasty temper;
 One is patient, and another is quarrelsome;
 One is at ease, another in pain;
 One is in difficulties, another is prosperous;
-One is a chieftain in the world of luxury, <span id="p59">[<sup><small>p. 59</small></sup>]</span>
+One is a chieftain in the world of luxury, <span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 Another is a captive in the snares of adversity;
 One is established in the rose garden of comfort,
 Another is associated with anguish, pain, and distress;
@@ -523,7 +523,7 @@ Another sleepeth intoxicated in the corner of a wine shop;
 One is fixed firm as a peg at the door of religion,
 Another is a sinner in the way of infidelity;
 One is prosperous, learned, and intelligent,
-Another is unfortunate, ignorant, and abashed; <span id="p60">[<sup><small>p. 60</small></sup>]</span>
+Another is unfortunate, ignorant, and abashed; <span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 One is a champion, agile, and a warrior,
 Another is faint-hearted, indolent, and without courage;
 One exceedeth all limits in the possession of wealth,
@@ -539,7 +539,7 @@ For this therefore place no reliance upon fortune,
 For it will suddenly deprive thy soul of life.
 Put no reliance upon a numberless army,
 For it may be that thou wilt not be aided by victory.
-Put no reliance upon kingdom, position, and rank, <span id="p61">[<sup><small>p. 61</small></sup>]</span>
+Put no reliance upon kingdom, position, and rank, <span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 For they existed before thee, and will remain after thee.
 Do not wrong because thou seest wrong on the part of a true friend;
 Good fruit doth not grow from bad seed.
@@ -551,7 +551,7 @@ Many are the fierce warriors who scatter armies;
 Many are the lion-like men who smite with the sword;
 Many are the moon-faced beauties of graceful figure;
 Many are the lovely ones with stature like the sun;
-Many are the newly arisen with lovely cheeks; <span id="p62">[<sup><small>p. 62</small></sup>]</span>
+Many are the newly arisen with lovely cheeks; <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 Many are the freshly decked brides;
 Many are the famous, and many are the fortunate;
 Many are they like the cypress in stature, and many are the rosy-cheeked beauties
@@ -564,7 +564,7 @@ For misfortune may rain upon it from Heaven.
 Set not thine heart upon this material abode,
 For thou wilt not find therein delight for thy soul.
 Place not thine affections upon this ancient and ruined dwelling
-For it will not be void of grief and pain. <span id="p63">[<sup><small>p. 63</small></sup>]</span>
+For it will not be void of grief and pain. <span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 The world hath no permanence, O my son!
 Pass not thy life therein in negligence.
 Fix not thy heart upon this perishable abode.

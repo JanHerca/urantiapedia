@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 THE following list of works is intentionally limited. Its aim is to give collectively and in alphabetical order a fuller reference to the principal and most accessible sources of information cited in the course of the present volume.
 
@@ -54,7 +54,7 @@ Fr. Francisci Bartholi, O.F.M.: _Tractatus de Indulgentia S. Mariae de Portiuncu
 
 Fr. Bartholomaeus Pisanus, O.F.M.: _De Conformitate Vitae B. Francisci ad vitam D. N. Jesu Christi_. Milan, 1510. [^627]
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Fr. Bernardus de Bessa, O.F.M.: _Liber de Laudibus B. Francisci_. In _Anal. Franc._, t. III.
 
@@ -78,7 +78,7 @@ _Vita Secunda S. Francisci_. Ed. Amoni. Rome, 1880.
 
 _Tractatus de Miraculis_. Ed. Van Ortroy, S.J., in _Anal. Boll._, t. XVIII, 1899.
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 _Vita S. Clarae_. Ed. Sedulius, O.F.M. Antwerp, 1613.
 
@@ -98,7 +98,7 @@ Fr. Thomas Eccleston, O.F.M.: _De Adventu Fratrum Minorum in Angliam_ in _Anal. 
 
 Fr. Edouard d’Alençon, O.M.Cap.: [^628] _Epistola S. Francisci ad Ministrum Generalem in sua forma authentica_. Rome, 1899. _La Benediction de S. François_. Paris, 1896. See also _Sacrum Commercium_.
 
-Fr. Ehrle, S.J.: “Die Historischen Handschriften von S. Francesco in Assisi” in the _Archiv für_  <span id="p192">[<sup><small>p. 192</small></sup>]</span> _Litteratur und Kirchengeschichte des Mittelalters_, t. I, pp. 484 seq. “Controversen über die Anfänge des Minoritenordens” in _Zeitschrift für Katholische Theologie_, t. XI, pp. 725 seq.
+Fr. Ehrle, S.J.: “Die Historischen Handschriften von S. Francesco in Assisi” in the _Archiv für_  <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> _Litteratur und Kirchengeschichte des Mittelalters_, t. I, pp. 484 seq. “Controversen über die Anfänge des Minoritenordens” in _Zeitschrift für Katholische Theologie_, t. XI, pp. 725 seq.
 
 Mgr. Faloci-Pulignani: “Tre Autografi di S. Francesco” in _Misc. Francescana_, t. VI, pp. 33 seq., and “La Calligrafia di S. Francesco,” _l.c._, t. VII, pp. 67 seq.
 
@@ -120,7 +120,7 @@ Fr. Leonard Lemmens, O.F.M.: “Die Anfänge des Clarissenordens ” in _Römisc
 
 Abbé Leon Le Monnier: _Histoire de S. François_ 
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 _d’Assise_. (English translation by a Franciscan Tertiary. Kegan Paul, 1894.)
 
@@ -144,7 +144,7 @@ _Opuscula S. P. Francisci Assisiensis_. Edita a PP. Collegii S. Bonaventurae, Qu
 
 Fr. Panfilo da Magliano, O.F.M.: _Storia Compendiosa di San Francesco_. Rome, 1874-1876.
 
-Paul Sabatier: _Vie de S. François d’Assise_. Paris, 1894. (English translation by L. S. Houghton.) _Regula antiqua Fratrum et Sororum de Poenitentia_. Paris. (English translation in Adderley and Marsons’ _Third Orders_. Mowbray, 1902.) _Description du MS. Franciscain de Liegnitz_. Paris, 1901. _Examen de quelques_  <span id="p194">[<sup><small>p. 194</small></sup>]</span> _Travaux resents sur les Opuscules de Saint François_. Paris, 1904. See also under _Actus_, Bartholi, and _Speculum_.
+Paul Sabatier: _Vie de S. François d’Assise_. Paris, 1894. (English translation by L. S. Houghton.) _Regula antiqua Fratrum et Sororum de Poenitentia_. Paris. (English translation in Adderley and Marsons’ _Third Orders_. Mowbray, 1902.) _Description du MS. Franciscain de Liegnitz_. Paris, 1901. _Examen de quelques_  <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> _Travaux resents sur les Opuscules de Saint François_. Paris, 1904. See also under _Actus_, Bartholi, and _Speculum_.
 
 Fr. Hyacinth. Sbaralea, O.M.Conv.: _Supplementum et Castigatio ad Scriptores Trium Ordinum S. Francisci_. Rome, 1806.
 
@@ -166,7 +166,7 @@ _Trium Sociorum, Legenda S. Francisci Assis_. Ed. Faloci. Foligno, 1898. (Englis
 
 Fr. Ubald d’Alençon, O.M.Cap.: _Les Opuscules de S. François d'Assise_. Paris, 1905.
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 Fr. Van Ortroy, S.J. For his article on the _Opuscula_ of St. Francis, see _Analecta Bollandiana_, t. xxiv, fasc. iii (1905), p. 411 seq.
 

@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 ## YASNA VII. PRESENTATION OF OFFERINGS BY THE PRIEST WITH THE OBJECT OF PROPITIATION NAMED.
 
-1\. With a complete and sacred offering [^946] I offer and I give this meat-offering, and (with it) Haurvatâ<i>t</i> (who guards the water), and Ameretatâ<i>t</i> (who guards the plants and the wood), and the flesh of the Kine of blessed gift, for the propitiation of Ahura Mazda, and of the Bountiful Immortals (all, and) for the propitiation of Sraosha (Obedience) the blessed, endowed with sanctity, who smites with the blow of victory, and who causes the settlements to advance. <span id="p223">[<sup><small>p. 223</small></sup>]</span> 2\. And I offer the Haoma and Haoma-juice with a complete and sacred offering for the propitiation of the Fravashi of Zarathu<i>s</i>tra Spitâma the saint, and I offer the wood-billets with the perfume for Thy propitiation, the Fire's, O Ahura Mazda's son!
+1\. With a complete and sacred offering [^946] I offer and I give this meat-offering, and (with it) Haurvatâ<i>t</i> (who guards the water), and Ameretatâ<i>t</i> (who guards the plants and the wood), and the flesh of the Kine of blessed gift, for the propitiation of Ahura Mazda, and of the Bountiful Immortals (all, and) for the propitiation of Sraosha (Obedience) the blessed, endowed with sanctity, who smites with the blow of victory, and who causes the settlements to advance. <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> 2\. And I offer the Haoma and Haoma-juice with a complete and sacred offering for the propitiation of the Fravashi of Zarathu<i>s</i>tra Spitâma the saint, and I offer the wood-billets with the perfume for Thy propitiation, the Fire's, O Ahura Mazda's son!
 
 3\. And I offer the Haomas with a complete and sacred offering for propitiation \[to the good waters\] for the good waters Mazda-made. And I offer this Haoma-water with scrupulous exactness and with sanctity, and this fresh milk, and the plant Hadhânaêpata uplifted with a complete and sacred offering for the propitiation of the waters which are Mazda-made.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 5\. And I offer to the Asnya with a complete and sacred offering, as lords of the ritual order, and to Hâvani, and to Sâvanghi and Vîsya, holy lords of the ritual order, and to Mithra of the wide pastures, of the thousand ears, and myriad eyes, the Yazad of the spoken name, and to Raman <i>H</i><i>v</i>âstra.
 
-6\. And I offer with a complete and sacred offering to Rapithwina, the holy lord of the ritual order; and I offer to Frâda<i>t</i>\-fshu and to the Za<i>n</i>tuma, and to <span id="p224">[<sup><small>p. 224</small></sup>]</span> Asha Vahi<i>s</i>ta (who is Righteousness the Best) and to Ahura Mazda's Fire.
+6\. And I offer with a complete and sacred offering to Rapithwina, the holy lord of the ritual order; and I offer to Frâda<i>t</i>\-fshu and to the Za<i>n</i>tuma, and to <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> Asha Vahi<i>s</i>ta (who is Righteousness the Best) and to Ahura Mazda's Fire.
 
 7\. And I offer with a complete and sacred offering to Uzayêirina, Frâda<i>t</i>\-vîra, and to the Da<i>h</i><i>v</i>yuma\*, the holy lord of the ritual order, and to that lofty Ahura Napâ<i>t</i>\-apãm, and to the waters which Mazda created.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 10\. And I offer with a complete and sacred offering to the Mâhya, lords of the ritual order, to the new and the waning moon (the moon within), and to the full moon which scatters night, holy lords of the ritual order.
 
-11\. And I offer with a complete and sacred offering to the Yearly festivals, the lords of the ritual order, to Maidhyô-zaremaya, and Maidhyô-shema, to Paiti<i>s</i>hahya, and to Ayâthrima the furtherer (the breeder), the spender of the strength of males, and <span id="p225">[<sup><small>p. 225</small></sup>]</span> to Maidhyâirya and Hamaspathmaêdhaya, holy lords of the ritual order, and I offer with sanctity to the several seasons, the lords of the ritual order.
+11\. And I offer with a complete and sacred offering to the Yearly festivals, the lords of the ritual order, to Maidhyô-zaremaya, and Maidhyô-shema, to Paiti<i>s</i>hahya, and to Ayâthrima the furtherer (the breeder), the spender of the strength of males, and <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> to Maidhyâirya and Hamaspathmaêdhaya, holy lords of the ritual order, and I offer with sanctity to the several seasons, the lords of the ritual order.
 
 12\. And I offer with a complete and sacred offering to all those lords who are the thirty and three, who approach the nearest round about our Hâvani, and who are the lords of Asha (the ritual by-eminence), of Righteousness who is (the Best), whose observances are inculcated as precepts by Mazda, and uttered forth by Zarathu<i>s</i>tra.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 15\. And I offer with a complete and sacred offering to the Mãthra Spe<i>n</i>ta, the holy, the effective, revealed against the Daêvas, the Zarathu<i>s</i>trian law, and to the long descent of the good Religion, of the Mazdayasnian faith.
 
-16\. And I offer with a complete and sacred offering to Mount Ushi-darena, the Mazda-made, brilliant <span id="p226">[<sup><small>p. 226</small></sup>]</span> with holiness, and to all the mountains shining with holiness, of abundant brightness, and which Mazda made, and to the Royal glory unconsumed and Mazda-made. And I offer with a complete and sacred offering to Ashi Vanguhi, and to <i>K</i>isti Vanguhi, and to Ereth<i>e</i>, and to Rasãstâ<i>t</i>, and to the Glory (and the) Benefit which Mazda made.
+16\. And I offer with a complete and sacred offering to Mount Ushi-darena, the Mazda-made, brilliant <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> with holiness, and to all the mountains shining with holiness, of abundant brightness, and which Mazda made, and to the Royal glory unconsumed and Mazda-made. And I offer with a complete and sacred offering to Ashi Vanguhi, and to <i>K</i>isti Vanguhi, and to Ereth<i>e</i>, and to Rasãstâ<i>t</i>, and to the Glory (and the) Benefit which Mazda made.
 
 17\. And I offer with a complete and sacred offering to the good and pious Prayer for blessings of the pious man, and to that Yazad, the swift and dreadful Curse of the wise.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 19\. And I offer with a complete and sacred blessing to that lofty lord who is Righteousness (the Best), and the Day-lords, the lords of the days during their duration, and to those of the days during daylight, and to the Month-lords, and the Year-lords, and to those of the seasons, the lords who are lords of the ritual, and at the time of Hâvani.
 
-20\. And I offer the Myazda meat-offering with a complete and sacred offering, and Haurvatâ<i>t</i> (who guards the water), and Ameretatâ<i>t</i> (who guards the wood), and the flesh of the Kine of blessed gift, for the propitiation of Sraosha (Obedience) the blessed, whose body is the Mãthra, him of the <span id="p227">[<sup><small>p. 227</small></sup>]</span> daring spear, the lordly, the Yazad of the spoken name.
+20\. And I offer the Myazda meat-offering with a complete and sacred offering, and Haurvatâ<i>t</i> (who guards the water), and Ameretatâ<i>t</i> (who guards the wood), and the flesh of the Kine of blessed gift, for the propitiation of Sraosha (Obedience) the blessed, whose body is the Mãthra, him of the <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> daring spear, the lordly, the Yazad of the spoken name.
 
 21\. And I offer the Haoma and the Haoma juice for the propitiation of the Fravashi of Zarathu<i>s</i>tra Spitâma the saint, the Yazad of the spoken name.
 
@@ -86,7 +86,7 @@ And I offer the wood-billets with the perfume for Thy propitiation, the Fire's, 
 
 26\. We sacrifice to the Ahuna-vairya, and to the veracious word correctly uttered, and to the good and pious prayer for blessings, and to the dreadful curse of the wise, the Yazad, and to Haurvatâ<i>t</i> and Ameretatâ<i>t</i>, and to the flesh of the Kine of blessed gift, and to the Haoma and Haoma-juice, and to the wood-billets, and the perfume, for the praise of the pious and good prayer for blessings.
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 The YêNhê hâtãm.
 

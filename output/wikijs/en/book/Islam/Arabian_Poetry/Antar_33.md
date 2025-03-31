@@ -42,7 +42,7 @@ Augment my sorrows and my lamentations; aid me to weep till thou seest wonders f
 
 Weep, too, from the excesses that I endure;—fear not—only guard the trees from the breath of my burning sighs.
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 Quit me not till I die of love—the victim of passion, of absence, and separation!
 

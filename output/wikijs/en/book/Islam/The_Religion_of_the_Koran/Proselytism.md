@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 CHAPTER II., Verse 189.—But fight them that there be no sedition, and that the religion may be God's; but if they desist, then let there be no hostility save against the unjust.
 

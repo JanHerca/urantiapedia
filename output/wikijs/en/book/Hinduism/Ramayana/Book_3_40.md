@@ -122,7 +122,7 @@ His swift-winged arrows Ráma sent,
 Each bright with gold and ornament.
 To serpents many-faced they turned:
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 The giant hosts they ate and burned.
 Where'er these fled in wild dismay
@@ -248,7 +248,7 @@ With bravest heart can brook,
 Met in the front of deadly fight,
 On Raghu's son to look.
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 The giant hosts were brave and strong,
 &nbsp;&nbsp;&nbsp;&nbsp;Good at the bow and spear:
@@ -365,7 +365,7 @@ Their consecrating hymns of praise,
 He spoiled the Soma's sacred juice
 Poured forth by them in solemn use.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 The sacrifice his hands o'erthrew,
 And cruelly the Bráhmans slew.
@@ -487,7 +487,7 @@ Untouched by favour, ire, and hate,
 And him the people celebrate.
 O weak of mind, without a trace
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 Of virtues that a king should grace,
 Who hast not learnt from watchful spy
@@ -613,7 +613,7 @@ And execute the words I say
 Come, giant King, this treasure seek,
 For thou art strong and they are weak.
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Let Sítá of the faultless frame
 Be borne away and be thy dame.
@@ -729,7 +729,7 @@ Lay on the margin of the deep.
 And grey rocks rose amid the red
 Of coral washed from ocean's bed.
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 High soared the mountain peaks that bore
 Treasures of gold and silver ore,
@@ -859,7 +859,7 @@ Roams with his wife in mean attire.
 This wretch, his Warrior tribe's disgrace
 Has slain the best of giant race.
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Harsh, wicked, fierce and greedy-souled,
 A fool, with senses uncontrolled,
@@ -979,7 +979,7 @@ The darling whom his arms defend?
 Less vain the hope to steal away
 The glory of the Lord of Day.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 O Rávan, guard thee from the fire
 Of vengeful Ráma's kindled ire,—
@@ -1092,7 +1092,7 @@ Beardless as yet and dark of hue;
 A single robe his only wear,
 His temples veiled with waving hair,
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 Around his neck a chain of gold,
 He grasped the bow he loved to bold;
@@ -1217,7 +1217,7 @@ Of that illustrious anchorite,
 And heedless of a hermit foe,
 Recalled my earlier overthow.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 I charged him in my rage and scorn
 To slay him with my pointed horn,
@@ -1336,7 +1336,7 @@ If honour and reward he seek.
 Or, when some prudent course he sees
 Which, spoken, may his king displease
 
-<span id="p276">[<sup><small>p. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 He should by hints of dexterous art
 His counsel to his lord impart.

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:38:9Z
   </table>
 </figure>
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 ## Points in Dispute between the Schools of Shammai and Hillel: The Order of the Benedictions.
 
@@ -44,7 +44,7 @@ The School of Shammai say: One pronounces the Benediction over the day, and afte
 
 The School of Hillel say: One pronounces the Benediction over the wine, and afterwards over the day. For the wine carries with it the saying of sanctification of the day. [^399] Another reason \[given\] is: The Benediction of the wine is constant, but the Benediction of the day is not constant. [^400] And the Rule is according to the words of the School of Hillel.
 
-III. 8. The question of honouring the day and honouring the night. The honouring of the day <span id="p66">[<sup><small>p. 66</small></sup>]</span>
+III. 8. The question of honouring the day and honouring the night. The honouring of the day <span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
  takes the precedence over honouring the night. [^401] If one has only one cup (of wine), the sanctification of the day takes the precedence over the honouring of the day and the honouring of the night. [^402]
 
 In the case of sabbath nights and feast-day nights. In them \[both\] is the sanctification of the day (spoken) over the cup, and in them \[both\] is the mention \[of the holiness of the day\] in the Benediction after the meal. [^403]
@@ -59,7 +59,7 @@ Sabbath, and feast—day, and the first day of the month, and the weekdays of th
 
 **T**. VI. 2. The School of Shammai say: Men wash their hands, and afterwards mix the cup. Perchance \[any\] moisture which is on the outside of the cup [^406] becomes unclean through the hands, and makes the cup unclean again.
 
-But the School of Hillel say: The outside of the cup is unclean in any case. Another reason \[given\] <span id="p67">[<sup><small>p. 67</small></sup>]</span> is: The washing of hands is only joined to a meal. (Hence) men mix the cup, and after that wash their hands. [^407]
+But the School of Hillel say: The outside of the cup is unclean in any case. Another reason \[given\] <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> is: The washing of hands is only joined to a meal. (Hence) men mix the cup, and after that wash their hands. [^407]
 
 <a id="m3"></a>
 
@@ -75,7 +75,7 @@ But the School of Hillel say: The outside of the cup is unclean in any case. Ano
 
 **M**.VIII. 4 (3). The School of Shammai say: One _M_. wipes his hands [^409] with a napkin, and lays it on the table; [^410] and the School of Hillel say: On the cushion. [^411]
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 **T**.
 
@@ -93,7 +93,7 @@ Another reason \[is given\]: The washing of the hands is not for ordinary food. 
 
 **M**.VIII. 5. The School of Shammai say: Lamp and food and spices [^416] and _Habdalah_. [^417] But the
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 **M**.\[paragraph continues\] School of Hillel say: Lamp and spices and food and Habdalah.
 
@@ -107,7 +107,7 @@ He who is accustomed \[to use such forms\] says many _Habdaloth_, [^419] and he 
 
 In the Lecture Hall, the School of Shammai say: One person says the Benediction for them all, and the School of Hillel say: Each single one says the Benediction for himself. [^420]
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 ## The Wording of the Benediction over the Lamp.
 
@@ -119,7 +119,7 @@ In the Lecture Hall, the School of Shammai say: One person says the Benediction 
 
 7 (6). They do not say a Benediction over the lamp nor over the spices that belong to heathen; [^423] nor over the lamp nor over the spices that are for the dead; [^424] not over the lamp nor over the spices that belong to idol-worship. [^425] They do not say a Benediction over the lamp until they enjoy its light.
 
-**T**. VI. 7. If one has a lamp (_nêr_) hidden in his bosom, [^426] or within a lantern and sees the flame <span id="p71">[<sup><small>p. 71</small></sup>]</span> without using its light, or uses its light without seeing the flame—we do not say the Benediction [^427] over it until he sees the flame and uses its light. If it be a lantern with glass, one says the Benediction over it, although it is not extinguished. [^428]
+**T**. VI. 7. If one has a lamp (_nêr_) hidden in his bosom, [^426] or within a lantern and sees the flame <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> without using its light, or uses its light without seeing the flame—we do not say the Benediction [^427] over it until he sees the flame and uses its light. If it be a lantern with glass, one says the Benediction over it, although it is not extinguished. [^428]
 
 In the case of a lamp belonging to a Gentile we do not say the Benediction over it. An Israelite who lights \[his lamp\] from a Gentile's, and a Gentile who lights \[his lamp\] from an Israelite's—we say the Benediction over it \[in each case\].
 
@@ -129,7 +129,7 @@ Fire [^429] and hybrids [^430] were not \[made in\] the six days of creation. Bu
 
 8\. In the case of the fire and spices of a bath, [^433] one does not say the Benediction over them. If one is standing in a spice—shop all the day one says the Benediction only once. If one enters and goes out repeatedly, one says the Benediction each single time.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 <a id="m8"></a>
 
@@ -143,7 +143,7 @@ Fire [^429] and hybrids [^430] were not \[made in\] the six days of creation. Bu
 
 9 (8). Suppose that wine comes to them after the food, and there is there only that \[one\] cup, [^437] the School of Shammai say: One says the Benediction over the wine, and afterwards the Benediction over the food. But the School of Hillel say: One says the Benediction over the food, and afterwards the Benediction over the wine. [^438] They answer “Amen” after an Israelite who says the Benediction, but they do not say “Amen” after a Cuthæan (_i.e._ 
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 **M**.\[paragraph continues\] Samaritan) who says the Benediction, until one hears all the Benediction. [^439]
 
@@ -155,7 +155,7 @@ V. 21. In the case of a heathen who says the Benediction in the Name (of the Loa
 
 23\. If ten are walking on a journey, although they all eat of one loaf, [^444] each single one says the Benediction for himself. If they have sat down to eat, although each single one eats of his own loaf, one says the Benediction for them all. [^445]
 
-24\. In the case of workmen who are doing their work near the master of the house, behold, these say two Benedictions. One says the first Benediction, <span id="p74">[<sup><small>p. 74</small></sup>]</span> and he includes that for Jerusalem [^446] along with that for the Land, [^447] and seals it with that for the Land. If they are working with him for their food, [^448] or the master of the house says the Benediction for them, they say four Benedictions. [^449]
+24\. In the case of workmen who are doing their work near the master of the house, behold, these say two Benedictions. One says the first Benediction, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> and he includes that for Jerusalem [^446] along with that for the Land, [^447] and seals it with that for the Land. If they are working with him for their food, [^448] or the master of the house says the Benediction for them, they say four Benedictions. [^449]
 
 <figure class="table chapter-navigator">
   <table>

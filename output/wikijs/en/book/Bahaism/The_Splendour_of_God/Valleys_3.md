@@ -46,7 +46,7 @@ In an ocean he will see a drop, and in a drop he will detect the mysteries of an
 
 In this valley, through absolute vision, a traveller does not see in God's creation any difference or contradiction; and at every moment he will say, ‘Thou canst not see, in the creation of the Most Merciful One, any difference. Turn thou thine eyes whether thou can see any flaws!’ (Koran).
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 He will see justice in injustice and witness grace in justice; he will find many a knowledge concealed in ignorance. . . .
 
@@ -58,7 +58,7 @@ The people of the valley beyond this see the beginning and the end as one; nay, 
 
 As it is said, ‘A perfect realisation of Divine Unity is to strip it from all attributes. . . .’
 
-Hence, in this connection, Khaji Abd-‘Allah has set forth a subtle point and consummation in his interpretation of the verse ‘Direct us in the Right Way’ (Koran), and it is this: ‘Point unto us the right way, that is bless us with Love, thine Essence; so that, becoming free from all regard for ourselves, and for all else save Thee, we may be wholly captivated by Thee, so as to know none but Thee, to see naught save Thee, to think of naught beside Thee.’ (Khaji Abd-‘Allah was, adds Ali Kuli Khan, a high, mystic Sufi leader, of the house of Ansar, in the middle ages of Islam. His tomb is situated in Herat. ‘Ansar’ literally means ‘helpers’;—hence, a <span id="p62">[<sup><small>p. 62</small></sup>]</span> term denominating those people of Medina who first believed in Mohammed.)
+Hence, in this connection, Khaji Abd-‘Allah has set forth a subtle point and consummation in his interpretation of the verse ‘Direct us in the Right Way’ (Koran), and it is this: ‘Point unto us the right way, that is bless us with Love, thine Essence; so that, becoming free from all regard for ourselves, and for all else save Thee, we may be wholly captivated by Thee, so as to know none but Thee, to see naught save Thee, to think of naught beside Thee.’ (Khaji Abd-‘Allah was, adds Ali Kuli Khan, a high, mystic Sufi leader, of the house of Ansar, in the middle ages of Islam. His tomb is situated in Herat. ‘Ansar’ literally means ‘helpers’;—hence, a <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> term denominating those people of Medina who first believed in Mohammed.)
 
 Nay, they pass even beyond this station, as it is said, ‘Love is a screen between the lover and the Beloved.’ . . .
 

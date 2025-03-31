@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 SECOND VALLÎ, OR, THE CHAPTER ON ÂNANDA (BLISS).
 
@@ -44,7 +44,7 @@ He who knows the Brahman attains the highest (Brahman). On this the following ve
 
 ‘He who knows Brahman, which is (i.e. cause, not effect), which is conscious, which is without end, as hidden in the depth (of the heart), in the highest ether, he enjoys all blessings, at one with the omniscient Brahman.’
 
-From that Self [^213] (Brahman) sprang ether (âkâ<i>s</i>a, that through which we hear); from ether air (that through which we hear and feel); from air fire (that through which we hear, feel, and see); from fire water (that through which we hear, feel, see, and taste); from water earth (that through which we hear, feel, see, taste, and smell). From earth herbs, from herbs food, from food seed, from seed man. Man thus consists of the essence of food. This is his head, <span id="p55">[<sup><small>p. 55</small></sup>]</span> this his right arm, this his left arm, this his trunk (Âtman), this the seat (the support) [1](Taittiriyaka_2#fn214).
+From that Self [^213] (Brahman) sprang ether (âkâ<i>s</i>a, that through which we hear); from ether air (that through which we hear and feel); from air fire (that through which we hear, feel, and see); from fire water (that through which we hear, feel, see, and taste); from water earth (that through which we hear, feel, see, taste, and smell). From earth herbs, from herbs food, from food seed, from seed man. Man thus consists of the essence of food. This is his head, <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> this his right arm, this his left arm, this his trunk (Âtman), this the seat (the support) [1](Taittiriyaka_2#fn214).
 
 On this there is also the following <i>S</i>loka:
 
@@ -60,7 +60,7 @@ Different from this, which consists of the essence of food, is the other, the in
 On this there is also the following <i>S</i>loka:
 
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ## THIRD ANUVÂKA.
 
@@ -78,7 +78,7 @@ On this there is also the following <i>S</i>loka:
 
 Different from this, which consists of mind, is the other, the inner Self, which consists of understanding. The former is filled by this. It also has the shape of man. Like the human shape of the former is the human shape of the latter. Faith is its head. What is right is its right arm. What is true is its left arm.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 Absorption (yoga) is its trunk. The great (intellect?) is the seat (the support).
 
@@ -104,7 +104,7 @@ Thereupon follow the questions of the pupil:
 
 ‘Does any one who knows not, after he has departed this life, ever go to that world? Or does he who knows, after he has departed, go to that world [^218]?’
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 The answer is: He wished, may I be many [1](Taittiriyaka_2#fn219), may I grow forth. He brooded over himself (like a man performing penance). After he had thus brooded, he sent forth (created) all, whatever there is. Having sent forth, he entered into it. Having entered it, he became sat (what is manifest) and tyat (what is not manifest), defined and undefined, supported and not supported, (endowed with) knowledge and without knowledge (as stones), real and unreal [2](Taittiriyaka_2#fn220). The Sattya (true) became all this whatsoever, and therefore the wise call it (the Brahman) Sat-tya (the true).
 
@@ -113,7 +113,7 @@ On this there is also this <i>S</i>loka:
 
 ## SEVENTH ANUVÂKA.
 
-‘In the beginning this was non-existent (not yet defined by form and name). From it was born what exists. That made itself its Self, therefore it is called the Self-made [^221].’ That which is Self-made is a flavour [^222] (can be tasted), for only after perceiving a flavour can any one perceive pleasure. Who could breathe, who could breathe forth, if that bliss (Brahman) <span id="p59">[<sup><small>p. 59</small></sup>]</span> existed not in the ether (in the heart)? For he alone causes blessedness.
+‘In the beginning this was non-existent (not yet defined by form and name). From it was born what exists. That made itself its Self, therefore it is called the Self-made [^221].’ That which is Self-made is a flavour [^222] (can be tasted), for only after perceiving a flavour can any one perceive pleasure. Who could breathe, who could breathe forth, if that bliss (Brahman) <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> existed not in the ether (in the heart)? For he alone causes blessedness.
 
 When he finds freedom from fear and rest in that which is invisible, incorporeal, undefined, unsupported, then he has obtained the fearless. For if he makes but the smallest distinction in it, there is fear for him} [^223]. But that fear exists only for one who thinks himself wise [^224], (not for the true sage.)
 
@@ -128,7 +128,7 @@ Now this is an examination of (what is meant by) Bliss (ânanda):
 
 Let there be a noble young man, who is well read (in the Veda), very swift, firm, and strong, and let the whole world be full of wealth for him, that is one measure of human bliss.
 
-One hundred times that human bliss (2) is one measure of the bliss of human Gandharvas (genii), <span id="p60">[<sup><small>p. 60</small></sup>]</span> and likewise of a great sage (learned in the Vedas) who is free from desires.
+One hundred times that human bliss (2) is one measure of the bliss of human Gandharvas (genii), <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> and likewise of a great sage (learned in the Vedas) who is free from desires.
 
 One hundred times that bliss of human Gandharvas is one measure of the bliss of divine Gandharvas (genii), and likewise of a great sage who is free from desires.
 
@@ -146,18 +146,18 @@ One hundred times that bliss of Indra is one measure of the bliss of B<i>ri</i>h
 
 One hundred times that bliss of B<i>ri</i>haspati is one measure of the bliss of Pra<i>g</i>âpati, and likewise of a great sage who is free from desires.
 
-One hundred times that bliss of Pra<i>g</i>âpati is one <span id="p61">[<sup><small>p. 61</small></sup>]</span> measure of the bliss of Brahman, and likewise of a great sage who is free from desires.
+One hundred times that bliss of Pra<i>g</i>âpati is one <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> measure of the bliss of Brahman, and likewise of a great sage who is free from desires.
 
 (5) He [^226] who is this (Brahman) in man, and he who is that (Brahman) in the sun, both are one [^227].
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 He who knows this, when he has departed this world, reaches and comprehends the Self which consists of food, the Self which consists of breath, the Self which consists of mind, the Self which consists of understanding, the Self which consists of bliss.
 
 On this there is also this <i>S</i>loka:
 
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 ## NINTH ANUVÂKA [^231].
 

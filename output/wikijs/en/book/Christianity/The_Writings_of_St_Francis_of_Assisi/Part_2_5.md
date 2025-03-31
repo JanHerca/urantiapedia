@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 ## V. TO ALL THE CUSTODES.
 
@@ -44,13 +44,13 @@ The letter was first published in its present form by M. Sabatier in 1900 from a
 
 To all the custodes of the Brothers Minor to whom this letter shall come, Brother Francis, your servant and little one in the Lord God, sends greeting with new signs of heaven and earth [^513] which on the part of the Lord are great and most excellent and which are accounted least of all by many religious and by other men.
 
-I entreat you more than if it were a question <span id="p128">[<sup><small>p. 128</small></sup>]</span> of myself that, when it is becoming and it may seem to be expedient, you humbly beseech the clerics to venerate above all the most holy Body and Blood of our Lord Jesus Christ and His Holy Name and written words which sanctify the body. [^514] They ought to hold as precious the chalices, corporals, ornaments of the altar, and all that pertain to the Sacrifice. And if the most holy Body of the Lord be lodged very poorly in any place, let It according to the command of the Church be placed by them and left in a precious place, and let It be carried with great veneration and administered to others with discretion. The Names also and written words of the Lord, wheresoever they may be found in unclean places, let them be collected, and they ought to be put in a proper place.
+I entreat you more than if it were a question <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> of myself that, when it is becoming and it may seem to be expedient, you humbly beseech the clerics to venerate above all the most holy Body and Blood of our Lord Jesus Christ and His Holy Name and written words which sanctify the body. [^514] They ought to hold as precious the chalices, corporals, ornaments of the altar, and all that pertain to the Sacrifice. And if the most holy Body of the Lord be lodged very poorly in any place, let It according to the command of the Church be placed by them and left in a precious place, and let It be carried with great veneration and administered to others with discretion. The Names also and written words of the Lord, wheresoever they may be found in unclean places, let them be collected, and they ought to be put in a proper place.
 
 And in all the preaching you do, admonish the people concerning penance and that no one can be saved except he that receives the most sacred Body and Blood of the Lord. [^515] And while It is being sacrificed by the priest on the altar and It is being carried to any place, let all the people on bended knees render praise, honor, and glory to the Lord God Living and True.
 
 And you shall so announce and preach His praise to all peoples that at every hour and when the bells are rung praise and thanks shall always be given to the Almighty God by all the people through the whole earth.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 And to whomsoever of my brothers, custodes, this writing shall come, let them copy it and keep it with them and cause it to be copied for the brothers who have the office of preaching and the care of brothers, and let them unto the end preach all those things that are contained in this writing: let them know they have the blessing of the Lord God and mine. And let these be for them through true and holy obedience.
 

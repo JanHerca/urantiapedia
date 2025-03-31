@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 Propitiation be to Sraosha, Obedience the blessed, the mighty, the incarnate word of reason, whose body is the Mãthra, him of the daring spear, devoted to the Lord, for (his) sacrificial worship, homage, propitiation, and praise.
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 ## I.
 
@@ -48,7 +48,7 @@ Propitiation be to Sraosha, Obedience the blessed, the mighty, the incarnate wor
 
 3\. For his splendour and his glory, for his might, and the blow which smites with victory, I will worship him with the Yasna of the Yazads, with a Yasna loud intoned, him Obedience the blessed, with the consecrated waters, and the good Blessedness, the lofty, and Nairya-sangha, the stately; and may he draw near to us to aid us, he who smites with victory, Obedience the blessed!
 
-4\. We worship Sraosha, Obedience the blessed, and that lofty Lord who is Ahura Mazda Himself, Him who has attained the most to this our ritual, Him who has approached the nearest to us in our celebrations. And we worship all the words of Zarathu<i>s</i>tra, and all the deeds well done (for him), both those that have been done (in times gone by), <span id="p299">[<sup><small>p. 299</small></sup>]</span> and those which are yet to be done (for him in times to come).
+4\. We worship Sraosha, Obedience the blessed, and that lofty Lord who is Ahura Mazda Himself, Him who has attained the most to this our ritual, Him who has approached the nearest to us in our celebrations. And we worship all the words of Zarathu<i>s</i>tra, and all the deeds well done (for him), both those that have been done (in times gone by), <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> and those which are yet to be done (for him in times to come).
 
 ## II.
 
@@ -60,7 +60,7 @@ For his splendour and his glory, for his might, and the blow which smites with v
 
 7\. We worship Sraosha (Obedience) the blessed, the stately, who smites with the blow of victory, who furthers the settlements, the holy ritual chief.
 
-8\. Who first chanted the Gâthas, the five [^1243] Gâthas of Zarathu<i>s</i>tra, the Spitâma, the holy (with the fashion) of their metres [^1244], and after the well-constructed order of their words, together with the Zand which they contain, and the questions [^1245] which they <span id="p300">[<sup><small>p. 300</small></sup>]</span> utter, and the answers which they give, for the Bountiful Immortals, for their sacrifice and homage, their propitiation, and their praise.
+8\. Who first chanted the Gâthas, the five [^1243] Gâthas of Zarathu<i>s</i>tra, the Spitâma, the holy (with the fashion) of their metres [^1244], and after the well-constructed order of their words, together with the Zand which they contain, and the questions [^1245] which they <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> utter, and the answers which they give, for the Bountiful Immortals, for their sacrifice and homage, their propitiation, and their praise.
 
 For his splendour and his glory, for his might . . . .
 
@@ -76,7 +76,7 @@ For his splendour and his glory, for his might . . . .
 
 For his splendour and his glory, for his might . . . .
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 ## VI.
 
@@ -90,7 +90,7 @@ For his splendour and his glory, for his might . . . .
 
 15\. We worship Sraosha (Obedience) the blessed and the stately, who is the conqueror of the Kayadha, and the Kâidhya, who was the smiter of the Lie-demon of the Daêvas, the one veritably powerful, the destroyer of the world, who is the guardian and watchman over all the migrations (?) of the tribes.
 
-16\. Who sleeplessly and vigilant guards the creatures of Ahura, who sleeplessly and with vigilance <span id="p302">[<sup><small>p. 302</small></sup>]</span> saves them, who with halberd raised on high guards all the corporeal world after setting of the sun, (17) who has never slept in quiet since the two Spirits made the worlds, \[^1252]\], who guards the homes of Asha, who battles all (?) the days long and the nights with all the Daêvas \[(Pâzand) the Mâzanian\], (18) nor terror-stricken does he turn in affright before (their power); but before him all the Daêvas turn in affright against their will, and rush to darkness is their fear.
+16\. Who sleeplessly and vigilant guards the creatures of Ahura, who sleeplessly and with vigilance <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> saves them, who with halberd raised on high guards all the corporeal world after setting of the sun, (17) who has never slept in quiet since the two Spirits made the worlds, \[^1252]\], who guards the homes of Asha, who battles all (?) the days long and the nights with all the Daêvas \[(Pâzand) the Mâzanian\], (18) nor terror-stricken does he turn in affright before (their power); but before him all the Daêvas turn in affright against their will, and rush to darkness is their fear.
 
 For his splendour and his glory, for his might . . . .
 
@@ -102,7 +102,7 @@ For his splendour and his glory, for his might . . . .
 
 ## IX.
 
-21\. We worship Sraosha (Obedience) the blessed, <span id="p303">[<sup><small>p. 303</small></sup>]</span> whose house stands with its thousand pillars, as victorious, on the highest height of high Haraiti, self-lighted from within, star-studded from without, (22) to whom the Ahuna-vairya has come, the axe of victory [^1258], and the Haptanghâiti, and the Fshûshômãthra which smites with victory, and all the Yasna sections.
+21\. We worship Sraosha (Obedience) the blessed, <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> whose house stands with its thousand pillars, as victorious, on the highest height of high Haraiti, self-lighted from within, star-studded from without, (22) to whom the Ahuna-vairya has come, the axe of victory [^1258], and the Haptanghâiti, and the Fshûshômãthra which smites with victory, and all the Yasna sections.
 
 For his splendour and his glory, for his might . . . .
 
@@ -114,7 +114,7 @@ For his splendour and his glory, for his might . . . .
 
 And in this Religion, Ahura Mazda has been confessed [^1260] with faith, and the Good Mind likewise with Him, and Righteousness the Best, and Khshathra-vairya, and Piety the Bounteous, and the Universal Weal and Immortality; and the question to the Lord is asked, and Mazda's lore (is written).
 
-25\. O Sraosha (Obedience), thou blessed one, and stately! protect us for the lives; yea, for both, (for that) of this world which is corporeal, and for the world of mind, against unhappy [^1261] death, and the remorseless Wrath of rapine, against the hosts with ill-intent, who lift their bloody spears [^1262] against us; <span id="p304">[<sup><small>p. 304</small></sup>]</span> yea, against their assaults whom [^1263] the Wrath-demon will set on, and Vîdhâtu, demon-made. 26. Therefore may’st thou, O Sraosha, the blessed and the stately! grant swiftness to our teams, soundness to our bodies, and abundant observation [^1264] of our foes, and their smiting (as we mark them), and their sudden death.
+25\. O Sraosha (Obedience), thou blessed one, and stately! protect us for the lives; yea, for both, (for that) of this world which is corporeal, and for the world of mind, against unhappy [^1261] death, and the remorseless Wrath of rapine, against the hosts with ill-intent, who lift their bloody spears [^1262] against us; <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> yea, against their assaults whom [^1263] the Wrath-demon will set on, and Vîdhâtu, demon-made. 26. Therefore may’st thou, O Sraosha, the blessed and the stately! grant swiftness to our teams, soundness to our bodies, and abundant observation [^1264] of our foes, and their smiting (as we mark them), and their sudden death.
 
 For his splendour and his glory, for his might . . . .
 
@@ -124,7 +124,7 @@ For his splendour and his glory, for his might . . . .
 
 For his splendour and his glory, for his might . . . .
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 ## XII.
 
@@ -136,7 +136,7 @@ For his splendour and his glory, for his might . . . .
 
 33\. We worship Sraosha (Obedience) the blessed and the stately, him who smites with victory, both here and not here, and on this entire earth. And we worship all the (gifts) of Sraosha (Obedience) the blessed, the mighty, and the strong, whose body is the Mãthra.
 
-Yea, we worship (all the martial gifts) of Sraosha (Obedience) the mighty, both armed with shielding armour, and a warrior strong of hand, skull-cleaver of the Daêvas, conquering the endowments [^1271] of the conqueror, the holy conqueror of the conqueror, and (his) victorious powers, and the Ascendency which it bestows, and we worship <span id="p306">[<sup><small>p. 306</small></sup>]</span> this Ascendency of Sraosha's (the same which conquers theirs); and that of Ar<i>s</i>ti do we praise as well. 34. And every house by Sraosha guarded do we worship, wherein the blessed friendly Sraosha is befriended and made welcome, where, the holy man is far advanced (?) in holy thoughts, and righteous words and deeds.
+Yea, we worship (all the martial gifts) of Sraosha (Obedience) the mighty, both armed with shielding armour, and a warrior strong of hand, skull-cleaver of the Daêvas, conquering the endowments [^1271] of the conqueror, the holy conqueror of the conqueror, and (his) victorious powers, and the Ascendency which it bestows, and we worship <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> this Ascendency of Sraosha's (the same which conquers theirs); and that of Ar<i>s</i>ti do we praise as well. 34. And every house by Sraosha guarded do we worship, wherein the blessed friendly Sraosha is befriended and made welcome, where, the holy man is far advanced (?) in holy thoughts, and righteous words and deeds.
 
 For his splendour and his glory, for his might, which smites with victory, I will worship him with the Yasna of the Yazads, with a Yasna loud-intoned, him Obedience the blessed, with the consecrated waters, and the good Blessedness, the lofty, and Nairya-sangha, the stately, and may he come to us to aid us, he who smites with victory, Obedience the blessed!
 

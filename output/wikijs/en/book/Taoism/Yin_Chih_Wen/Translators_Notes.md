@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:11:59Z
   </table>
 </figure>
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 <a id="xref_1"></a>
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-12T12:11:59Z
 
 <a id="xref_5"></a>
 
-5\. The word benevolence translates the Chinese _fang pien_ literally “deeds of benevolence,” which is the common version <span id="p40">[<sup><small>p. 40</small></sup>]</span> of the Buddhist term _upâya_ and means “method” or “successful way of attaining an end.” It is especially applied in the literature of the Mahayana, in the sense which the English word “method” has acquired among Wesleyan Methodists. _Prajnâ_, “wisdom,” is in itself insufficient because it is enlightenment in the abstract. In order to become efficient for salvation it must be applied, and the method of applying _prajnâ_ is _upâya_, commonly designated _kausala_, i. e., “good or excellent.” The method of salvation according to Buddhist teachers is by “deeds of benevolence” as indicated by its Chinese translation.
+5\. The word benevolence translates the Chinese _fang pien_ literally “deeds of benevolence,” which is the common version <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> of the Buddhist term _upâya_ and means “method” or “successful way of attaining an end.” It is especially applied in the literature of the Mahayana, in the sense which the English word “method” has acquired among Wesleyan Methodists. _Prajnâ_, “wisdom,” is in itself insufficient because it is enlightenment in the abstract. In order to become efficient for salvation it must be applied, and the method of applying _prajnâ_ is _upâya_, commonly designated _kausala_, i. e., “good or excellent.” The method of salvation according to Buddhist teachers is by “deeds of benevolence” as indicated by its Chinese translation.
 
 The commentator interprets the term _fang pien_ in a popular sense and takes it for “any deed that is beneficial to others.” In Buddhism this word plays a very important part, and its adoption here shows how strongly the author of this short treatise was influenced by Indian thought.
 
@@ -70,7 +70,7 @@ The commentator interprets the term _fang pien_ in a popular sense and takes it 
 
 <a id="xref_9"></a>
 
-9\. The three doctrines are Confucianism, Buddhism and Taoism. The commentator evidently thinks humaneness (_jên_) to be the essence of Confucianism, compassion (_karunâ_) that <span id="p41">[<sup><small>p. 41</small></sup>]</span> of Buddhism, and response and retribution (_kan ying_) that of Taoism, and declares that they all come out of the human heart, which is one and the same in all three religions.
+9\. The three doctrines are Confucianism, Buddhism and Taoism. The commentator evidently thinks humaneness (_jên_) to be the essence of Confucianism, compassion (_karunâ_) that <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> of Buddhism, and response and retribution (_kan ying_) that of Taoism, and declares that they all come out of the human heart, which is one and the same in all three religions.
 
 <a id="xref_10"></a>
 
@@ -98,7 +98,7 @@ The commentator interprets the term _fang pien_ in a popular sense and takes it 
 
 <a id="xref_16"></a>
 
-16\. The Chinese show great respect for writing and writing materials, because, they say, by them we become acquainted with the virtues, wisdom and sayings of ancient sages. Any <span id="p42">[<sup><small>p. 42</small></sup>]</span> writing, to the Chinese, partakes of the nature of spirit, and there is a special order of monks who make it their duty to collect written scraps of paper and burn them, to save them the disgrace of any disrespectful treatment.
+16\. The Chinese show great respect for writing and writing materials, because, they say, by them we become acquainted with the virtues, wisdom and sayings of ancient sages. Any <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> writing, to the Chinese, partakes of the nature of spirit, and there is a special order of monks who make it their duty to collect written scraps of paper and burn them, to save them the disgrace of any disrespectful treatment.
 
 <a id="xref_17"></a>
 
@@ -123,7 +123,7 @@ The commentator interprets the term _fang pien_ in a popular sense and takes it 
 “Sabba pâpassa akaranam,
 Kusalassa upasampadâ.”
 
-Niao Che, a Buddhist recluse who lived in Hang Chou about 800 A. D., declares: “Even a three year old child can <span id="p43">[<sup><small>p. 43</small></sup>]</span> say this, but even a gray-haired man finds it difficult to practise.” Cf. also Psalm xxxiv, 14 and xxxvii, 27.
+Niao Che, a Buddhist recluse who lived in Hang Chou about 800 A. D., declares: “Even a three year old child can <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> say this, but even a gray-haired man finds it difficult to practise.” Cf. also Psalm xxxiv, 14 and xxxvii, 27.
 
 <a id="xref_22"></a>
 

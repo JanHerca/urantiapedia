@@ -30,7 +30,7 @@ dateCreated: 2025-2-5T20:16:49Z
 </figure>
 
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 
 Accomplishments, Eighteen [60](181#p60), [287](287#p287)
@@ -189,7 +189,7 @@ Four worlds of misery [98](201#p98), [262](277#p262)
 
 Friends, which should be avoided [266](279#p266)
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 Gifts, rules about [18](157#p18)
 
@@ -383,7 +383,7 @@ Touch, six spheres of [184](247#p184)
 
 Trance, mystic [188](250#p188), [192](251#p192)
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 Treasure guarded by snakes [211](257#p211)
 

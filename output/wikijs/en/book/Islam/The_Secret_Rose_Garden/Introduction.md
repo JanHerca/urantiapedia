@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T18:16:44Z
   </table>
 </figure>
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 The light of light is His beauty heart-ravishing,
 And His bewitching state the union of unions.
@@ -49,7 +49,7 @@ He wrote the _Gulshan i Rāz_, or _Secret Rose Garden_, as a reply to questions 
 
 Very little is known of Mahmūd Shabistarī's life. He wrote beside the Gulshan i Rāz two treatises on Sūfiism called _Hakk ul Yakin_ and _Risala i Shadīd_.
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 We learn he had a very favourite disciple called Shaikh Ibrahim.
 
@@ -63,7 +63,7 @@ The _Gulshan i Rāz_ was translated into English and published, with the Persian
 
 Readers of Sūfī poetry for the first time are liable to be amazed, perhaps even repelled, by the extravagant language, by the familiarity with the Deity, by the apparent disregard of all human and Divine laws. But on further examination the wonder of the Sūfīs' love for their Beloved shines out with a clear intensity, a beautiful luminous brightness.
 
-They are in love with The One, and their love <span id="p13">[<sup><small>p. 13</small></sup>]</span> takes the form of exquisite songs of praise and wonder:
+They are in love with The One, and their love <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> takes the form of exquisite songs of praise and wonder:
 
 “I heard entranced; my spirit rushed to meet
 Love's welcome order, for the voice was sweet.”
@@ -90,7 +90,7 @@ In a clear vision I can see Him face to face.”
 
 ## SŪFĪ SYMBOLISM
 
-In reading the enraptured poetry of the Sūfīs, it should be borne in mind that, though the <span id="p14">[<sup><small>p. 14</small></sup>]</span> symbols of earthly love and beauty are freely used, yet the real meaning is concealed. No doubt this was originally done to keep secret their mystic love, lest the profane should scoff. But as time went on certain words began to have a recognized meaning amongst themselves. For instance:
+In reading the enraptured poetry of the Sūfīs, it should be borne in mind that, though the <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> symbols of earthly love and beauty are freely used, yet the real meaning is concealed. No doubt this was originally done to keep secret their mystic love, lest the profane should scoff. But as time went on certain words began to have a recognized meaning amongst themselves. For instance:
 
 EMBRACES and KISSES are raptures of love.
 
@@ -112,7 +112,7 @@ The CHEEK means Divine essence of names and qualities.
 
 The DOWN is the world of pure spirits which is nearest to Divinity.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 The MOLE on the cheek is the point of indivisible Unity.
 
@@ -122,7 +122,7 @@ We thus see that to the Sūfī the love between man and woman is a shadowed pict
 
 The history of mysticism contains many impassioned love songs to the Absolute, but in Sūfī poetry there is a peculiar richness, a depth, a colour which fascinates and charms so many of us.
 
-Sūfī poetry abounds in allegories and love romances, the stories of Laylā and Majnūm, Yūsuf and Zulaikā, Salāmān and Absāl, in which it is easy to read the hidden meaning of passion for the Absolute. Various are the love themes of the Sūfīs; we hear songs of: the nightingale in love with the rose, the moth fluttering round the light of the candle, the moaning dove who has lost her mate, the snow melting in the desert and mounting as vapour to the sky, of a dark night in the desert through which a frenzied <span id="p16">[<sup><small>p. 16</small></sup>]</span> camel madly plunges, of a reed torn from its bed and made into a flute whose plaintive music fills the eyes with tears. [^0]
+Sūfī poetry abounds in allegories and love romances, the stories of Laylā and Majnūm, Yūsuf and Zulaikā, Salāmān and Absāl, in which it is easy to read the hidden meaning of passion for the Absolute. Various are the love themes of the Sūfīs; we hear songs of: the nightingale in love with the rose, the moth fluttering round the light of the candle, the moaning dove who has lost her mate, the snow melting in the desert and mounting as vapour to the sky, of a dark night in the desert through which a frenzied <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> camel madly plunges, of a reed torn from its bed and made into a flute whose plaintive music fills the eyes with tears. [^0]
 
 ## THE BELOVED
 
@@ -143,7 +143,7 @@ In beggar's rags or robes of royalty,
 In Union's cell or in distraction haunts,
 There's none but He, by God, there's none but He.” [^2]
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 The Sūfīs realized that it is impossible in spatial terms to describe that which is even beyond pure spirit.
 
@@ -155,7 +155,7 @@ The inability to describe to the uninitiated the secret love of the mystic for t
 
 “I boasted among men that I had known you. They see your picture in all works of mine. They come and ask me who is he? I know not how to answer them. I say, ‘Indeed, I cannot tell.’ They blame me and they go away in scorn. And you sit there smiling. I put my tales of you into lasting songs. The secret gushes out from my heart. They come and ask me, ‘Tell me all your meaning.’ I know not how to answer them. I say, ‘Ah, who knows what they mean.’ They smile and go away in utter scorn. And you sit there smiling.” [^4]
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## FROM THE UNREAL TO THE REAL
 
@@ -170,7 +170,7 @@ Wherever we turn, and silver in the waste.”
 
 So exquisite is the vision of the All-Beautiful that whoever has had this vision instantly becomes enamoured, and leaves the world of shadows and change to contemplate the One.
 
-He will not rest until he has purified his life, cast aside everything that may be a hindrance in his path, and he will spend his whole life in communion with God, at the same time pouring out <span id="p19">[<sup><small>p. 19</small></sup>]</span> in love-songs and praise all the worship and adoration of his soul.
+He will not rest until he has purified his life, cast aside everything that may be a hindrance in his path, and he will spend his whole life in communion with God, at the same time pouring out <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> in love-songs and praise all the worship and adoration of his soul.
 
 “By God, sun never rose or set but Thou wert
 My heart's desire and my dream.
@@ -195,7 +195,7 @@ Passing through a world of shadows he fixes his eye on Eternity; the happenings 
 
 Earthly love seems worthless, insipid, and dull, compared to his flaming devotion for the Unchangeable.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 He has one desire, one aim, one goal--to reach the bliss which he has briefly touched in rare moments of ecstasy and rapture.
 
@@ -209,7 +209,7 @@ Its diamond turrets like a day-dream rise.”
 
 I have already said that little is known of Shabistarī's life, but of his learning and knowledge of Sūfiism there is ample evidence in this book; and though he does not charm with the subtle fascination of Hafiz, though he has not the originality of Rūmī or in style cannot compare with the elegance of Jāmī, yet in plainness and directness of speech, and in earnestness of purpose, he perhaps outweighs them all. He gives us a clear, bright vision in brilliant sunshine of Virtue and Vice, Reality and Illusion, Wisdom and Ignorance.
 
-We do not find ourselves in the twilight of a faintly-coloured land where we sometimes wander, drawn hither by the sweet voices of the Sūfīs, where, midst the delicate perfumes of an Oriental garden, the lover is singing entrancing <span id="p21">[<sup><small>p. 21</small></sup>]</span> love-songs, whether of earthly passion or of Divine intoxication remains a matter of heated controversy to this day.
+We do not find ourselves in the twilight of a faintly-coloured land where we sometimes wander, drawn hither by the sweet voices of the Sūfīs, where, midst the delicate perfumes of an Oriental garden, the lover is singing entrancing <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> love-songs, whether of earthly passion or of Divine intoxication remains a matter of heated controversy to this day.
 
 Neither are we given such daring advice as Jāmī gives when he sings:
 
@@ -222,7 +222,7 @@ He makes a passionate appeal to humanity to seek for the Truth, to desire the su
 
 ## THE SECRET ROSE GARDEN
 
-It is nearly seven hundred years since Mahmūd planted his garden with roses of Love and Adoration, of Reason and of spiritual Illumination. Since then many have wandered there, lingering in the secret paths and plucking the scented <span id="p22">[<sup><small>p. 22</small></sup>]</span> blossoms to carry back into the world of shadows and unreality. What is the fadeless colour of these Roses? What is their lasting grace of form, and what perfumed attar from them lingers on through the ages?
+It is nearly seven hundred years since Mahmūd planted his garden with roses of Love and Adoration, of Reason and of spiritual Illumination. Since then many have wandered there, lingering in the secret paths and plucking the scented <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> blossoms to carry back into the world of shadows and unreality. What is the fadeless colour of these Roses? What is their lasting grace of form, and what perfumed attar from them lingers on through the ages?
 
 The poem opens with the statement of the sole existence of the One Real Being, and of the illusion of this world's mirage. How is man to reach knowledge of God? By thought, for--
 
@@ -235,7 +235,7 @@ The soul-amazing beauty of the Beloved's face.”
 
 And these atoms are ever longing to rejoin their source.
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 The journey to the Beloved has only two stages: dying to self and uniting with the Truth.
 
@@ -249,7 +249,7 @@ This is the holy state of the saints and prophets.
 
 But the man must not rest in this Divine union. He must return to this world of unreality, and in the downward journey must keep the ordinary laws and creeds of men.
 
-This phenomenal existence, i.e. Not-being, is an illusion which is typified by considering the unreality of echoes and reflections and by pondering on past and future time, and on passing <span id="p24">[<sup><small>p. 24</small></sup>]</span> events, which seem at the moment of their existence to be real, but fading into the past become vague and shadowy.
+This phenomenal existence, i.e. Not-being, is an illusion which is typified by considering the unreality of echoes and reflections and by pondering on past and future time, and on passing <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> events, which seem at the moment of their existence to be real, but fading into the past become vague and shadowy.
 
 The dispositions acquired by man in this life will in the next world be manifested in spiritual bodies; each form will be appropriate to its past life. The material idea of Paradise and houris will then be known to be an idle tale. No quality or distinction will remain for the perfect will. Then drink of the cup of union with God.
 
@@ -259,7 +259,7 @@ Such is the hope of the Sūfīs, but in this world the intoxication of the cup o
 
 All round his garden Mahmūd has planted these roses of Reason, Belief, Knowledge, and Faith; they are blooming everywhere, beautiful in their vivid colouring of Truth and Purity. But it is in the centre that we find a Rose-tree of glory unequalled, glowing with the blossoms of love's devotion; this is the tree which Mahmūd planted with all his heart's adoration--the description of the perfect face of the Beloved.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 It is at this spot we wait entranced, and through the mystic stillness we seem to hear the voice of him who, long ago for love's sake, planted this Rose-tree, echoing his sublime utterance:
 

@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 ## <i>K</i>ETOKHILA-SUTTA. INTRODUCTION
 
@@ -42,7 +42,7 @@ THE following translation has been made from a text, based on the Turnour and Ph
 
 The argument of this Sutta may be shortly stated thus. The means by which freedom from barrenness and bondage of heart can be reached are zeal and determined effort. But that zeal will be crippled in its struggle against barrenness by want of confidence in the teacher, his doctrine, his order, or his system of self-culture, and by want of concord with the brethren. And that zeal will be crippled in its struggle against bondage by sensuality, by sloth, or by a craving after a future life in any of its various forms. If the disciple be strenuously diligent in the struggle against these things he need not fear or doubt, he will never fail, but will assuredly reach even to the supreme security of Arahatship.
 
-When I first read this Sutta I was irresistibly reminded of that passage in the New Testament where the exhortation to the disciple, ‘giving all diligence’ to add to his faith <span id="p222">[<sup><small>p. 222</small></sup>]</span> virtue, knowledge, temperance, patience, godliness, and brotherly kindness, is followed by the figure that these things will make him to be ‘neither barren nor unfruitful;’ and closes with the promise that if be do these things, giving diligence to make his calling and election sure, he shall never fall, but shall enter into that everlasting kingdom which is the supreme goal of the Christian life.
+When I first read this Sutta I was irresistibly reminded of that passage in the New Testament where the exhortation to the disciple, ‘giving all diligence’ to add to his faith <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> virtue, knowledge, temperance, patience, godliness, and brotherly kindness, is followed by the figure that these things will make him to be ‘neither barren nor unfruitful;’ and closes with the promise that if be do these things, giving diligence to make his calling and election sure, he shall never fall, but shall enter into that everlasting kingdom which is the supreme goal of the Christian life.
 
 The analogy is sufficiently close to throw considerable light upon our Sutta, but it touches only the barrenness. The bondage is specially Buddhistic, and is allied with the doctrine of the Sanyo<i>g</i>anas, or fetters, which the pilgrim along the Noble Path has to break before he can reach the full fruit of Arahatship. It should be compared also with the fivefold bond mentioned in the Tevi<i>gg</i>a Sutta, Chap. I, §§ 26-28, the word there used being bandhana<i>m</i>, as against vinibandhana<i>m</i> here, and the fivefold bond being a fivefold division of our first bondage.
 

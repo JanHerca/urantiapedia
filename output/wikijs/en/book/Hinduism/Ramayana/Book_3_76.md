@@ -125,7 +125,7 @@ A shape transcending thought I wore,
 And through the triple world's extent
 My fame for might and valour went.
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 Scarce might the sun and moon on high,
 Scarce Sakra, with ray beauty vie.
@@ -248,7 +248,7 @@ Now ere with wearied steeds the sun
 Through western skies his course have run,
 Deep in a pit my body lay
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 And burn it in the wonted way.
 When in the grave my corse is placed,
@@ -368,7 +368,7 @@ Naught in the world is dark or dim,
 Where'er the mighty Day-God gleams
 Resplendent with a thousand beams.
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 He over rocky height and hill,
 Through gloomy cave, by lake and rill,
@@ -487,7 +487,7 @@ Their growth is ever fresh and young.
 There S'avarí is dwelling yet,
 Who served each vanished anchoret.
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 Beneath the shade of holy boughs
 That ancient votaress keeps her vows.
@@ -607,7 +607,7 @@ That thou content with scanty food
 All touch of ire hast long subdued;
 That all thy vows are well maintained;
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 While peace of mind is surely gained:
 That reverence of the saints who taught
@@ -730,7 +730,7 @@ For power and might preeminent
 And he to musing Lakshman spoke
 The thoughts that in his bosom woke:
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 ‘Mine eyes this wondrous home have viewed
 Of those great saints with souls subdued,

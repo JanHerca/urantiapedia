@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 This Ya<i>s</i>t bears the name of Râma <i>H</i><i>v</i>âstra, the Genius who presides over the 21st day of the month (Sîrôzah, § 21), and is devoted to his Hamkâr, Vayu.
 
@@ -60,7 +60,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 1\. I will sacrifice to the Waters and to Him who divides them [^1097]. I will sacrifice to Peace, whose breath is friendly, and to Weal, both of them.
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 To this Vayu do we sacrifice, this Vayu do we invoke, for this house, for the master of this house, and for the man here who is offering libations and giving gifts. To this excellent God do we sacrifice, that he may accept our meat and our prayers, and grant us in return to crush our enemies at one stroke.
 
@@ -74,7 +74,7 @@ To this Vayu do we sacrifice, this Vayu do we invoke, for this house, for the ma
 
 To this part of thee do we sacrifice, O Vayu! that belongs to Spe<i>n</i>ta Mainyu [^1102].
 
-For his brightness and glory, I will offer unto him a sacrifice worth being heard, namely, unto the awful Vayu, who works highly. We offer up a sacrifice unto the awful Vayu, who works highly, with the libations, with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the <span id="p251">[<sup><small>p. 251</small></sup>]</span> holy spells, the words, the deeds, the libations, and the well-spoken words.
+For his brightness and glory, I will offer unto him a sacrifice worth being heard, namely, unto the awful Vayu, who works highly. We offer up a sacrifice unto the awful Vayu, who works highly, with the libations, with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> holy spells, the words, the deeds, the libations, and the well-spoken words.
 
 Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda . . . .
 
@@ -98,7 +98,7 @@ For his brightness and glory, I will offer unto him a sacrifice worth being hear
 
 10\. I will sacrifice to the Waters and to Him who divides them . . . .
 
-To this Vayu do we sacrifice, this Vayu do we invoke . . . . <span id="p252">[<sup><small>p. 252</small></sup>]</span> 11\. To him did Takhma Urupa [^1107], the well-armed [^1108], offer up a sacrifice on a golden throne, under golden beams and a golden canopy, with bundles of baresma and offerings of full-boiling \[milk\].
+To this Vayu do we sacrifice, this Vayu do we invoke . . . . <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> 11\. To him did Takhma Urupa [^1107], the well-armed [^1108], offer up a sacrifice on a golden throne, under golden beams and a golden canopy, with bundles of baresma and offerings of full-boiling \[milk\].
 
 12\. He begged of him a boon, saying: ‘Grant me this, O Vayu! who dost work highly, that I may conquer all Daêvas and men, all the Yâtus and Pairikas, and that I may ride Angra Mainyu, turned into the shape of a horse, all around the earth from one end to the other, for thirty years.’
 
@@ -114,7 +114,7 @@ For his brightness and glory, I will offer unto him a sacrifice worth being hear
 
 To this Vayu do we sacrifice, this Vayu do we invoke . . . .
 
-15\. Unto him did the bright Yima, the good shepherd, <span id="p253">[<sup><small>p. 253</small></sup>]</span> sacrifice from the height Hukairya, the all-shining and golden, on a golden throne, under golden beams and a golden canopy, with bundles of baresma and offerings of full-boiling \[milk\].
+15\. Unto him did the bright Yima, the good shepherd, <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> sacrifice from the height Hukairya, the all-shining and golden, on a golden throne, under golden beams and a golden canopy, with bundles of baresma and offerings of full-boiling \[milk\].
 
 16\. He begged of him a boon, saying: ‘Grant me this, O Vayu! who dost work highly, that I may become the most glorious of the men born to behold the sun: that I may make in my reign both animals and men undying, waters and plants undrying, and the food for eating creatures never-failing [^1110].’
 
@@ -132,7 +132,7 @@ For his brightness and glory, I will offer unto him a sacrifice worth being hear
 
 To this Vayu do we sacrifice, this Vayu do we invoke . . . .
 
-19\. Unto him did the three-mouthed A<i>z</i>i Dahâka offer up a sacrifice in his accursed palace of Kviri<i>n</i>ta [^1112], <span id="p254">[<sup><small>p. 254</small></sup>]</span> on a golden throne, under golden beams and a golden canopy, with bundles of baresma and offerings of full-boiling \[milk\].
+19\. Unto him did the three-mouthed A<i>z</i>i Dahâka offer up a sacrifice in his accursed palace of Kviri<i>n</i>ta [^1112], <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> on a golden throne, under golden beams and a golden canopy, with bundles of baresma and offerings of full-boiling \[milk\].
 
 20\. He begged of him a boon, saying: ‘Grant me this, O Vayu! who dost work highly, that I may make all the seven Karshvares of the earth empty of men [^1113].’
 
@@ -148,7 +148,7 @@ To this Vayu do we sacrifice, this Vayu do we invoke . . . .
 
 23\. Unto him did Thraêtaona, the heir of the valiant Âthwya clan, offer up a sacrifice in the four-cornered Varena, on a golden throne, under golden beams and a golden canopy, with bundles of baresma and offerings of full-boiling \[milk\].
 
-24\. He begged of him a boon, saying: ‘Grant me this, O Vayu! who dost work highly, that I may overcome A<i>z</i>i Dahâka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses, that most powerful, fiendish Dru<i>g</i>, that <span id="p255">[<sup><small>p. 255</small></sup>]</span> demon baleful to the world, the strongest Drum that Angra Mainyu created against the material world, to destroy the world of the good principle; and that I may deliver his two wives, Savanghavâ<i>k</i> and Erenavâ<i>k</i>, who are the fairest of body amongst women, and the most wonderful creatures in the world [^1114].’
+24\. He begged of him a boon, saying: ‘Grant me this, O Vayu! who dost work highly, that I may overcome A<i>z</i>i Dahâka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses, that most powerful, fiendish Dru<i>g</i>, that <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> demon baleful to the world, the strongest Drum that Angra Mainyu created against the material world, to destroy the world of the good principle; and that I may deliver his two wives, Savanghavâ<i>k</i> and Erenavâ<i>k</i>, who are the fairest of body amongst women, and the most wonderful creatures in the world [^1114].’
 
 25\. Vayu, who works highly, granted him that boon, as the Maker, Ahura Mazda, did pursue it.
 
@@ -166,7 +166,7 @@ To this Vayu do we sacrifice, this Vayu do we invoke . . . .
 
 28\. He begged of him a boon, saying: ‘Grant me this, O Vayu! who dost work highly, that I may succeed in avenging my brother Urvâkhshaya [^1117], that I may smite Hitâspa and yoke him to my chariot.’
 
-The Ga<i>n</i>darewa, who lives beneath the waters, <span id="p256">[<sup><small>p. 256</small></sup>]</span> is the son of Ahura in the deep, he is the only master of the deep [^1118].
+The Ga<i>n</i>darewa, who lives beneath the waters, <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> is the son of Ahura in the deep, he is the only master of the deep [^1118].
 
 29\. Vayu, who works highly, granted him that boon, as the Maker, Ahura Mazda, did pursue it.
 
@@ -184,7 +184,7 @@ To this Vayu do we sacrifice, this Vayu do we invoke . . . .
 
 32\. He begged of him a boon, saying: 'Grant me this, O Vayu! who dost work highly, that the gallant Husravah, he who unites the Aryan nations into one kingdom [^1121], may not smite us; that I may flee from king Husravah [^1122]; . . . .
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 ‘That king Husravah and all the Aryans in the Forest may smite him [^1123].’
 
@@ -214,7 +214,7 @@ For his brightness and glory, I will offer unto him a sacrifice worth being hear
 
 38\. I will sacrifice to the Waters and to Him who divides them . . . .
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 To this Vayu do we sacrifice, this Vayu do we invoke . . . .
 
@@ -236,7 +236,7 @@ To this Vayu do we sacrifice, this Vayu do we invoke . . . .
 
 We sacrifice to that Vayu that belongs to the Good Spirit [^1127], the bright and glorious Vayu.
 
-43\. My name is Vayu, O holy Zarathu<i>s</i>tra! My name is Vayu, because I go through (vyêmi) the two worlds [^1128], the one which the Good Spirit has <span id="p259">[<sup><small>p. 259</small></sup>]</span> made and the one which the Evil Spirit has made.
+43\. My name is Vayu, O holy Zarathu<i>s</i>tra! My name is Vayu, because I go through (vyêmi) the two worlds [^1128], the one which the Good Spirit has <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> made and the one which the Evil Spirit has made.
 
 My name is the Overtaker (apaêta), O holy Zarathu<i>s</i>tra! My name is the Overtaker, because I can overtake the creatures of both worlds, the one that the Good Spirit has made and the one that the Evil Spirit has made.
 
@@ -274,7 +274,7 @@ My name is He that crosses over easily.
 
 My name is He that goes along hurling away.
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 My name is He that crushes at one stroke.
 
@@ -302,7 +302,7 @@ My name is Piercingness of spear; my name is He of the piercing spear.
 
 My name is the Glorious; my name is the Over-glorious.
 
-496\. Invoke these names of mine, O holy Zarathu<i>s</i>tra! in the midst of the havocking hordes, in the midst of the columns moving forwards, in the strife of the conflicting nations. <span id="p261">[<sup><small>p. 261</small></sup>]</span> 50\. Invoke these names of mine, O holy Zarathu<i>s</i>tra! when the all-powerful tyrant of a country falls upon thee, rushes upon thee, deals wounds upon thee, or hurls his chariot against thee, to rob thee [^1136] of thy wealth, to rob thee of thy health.
+496\. Invoke these names of mine, O holy Zarathu<i>s</i>tra! in the midst of the havocking hordes, in the midst of the columns moving forwards, in the strife of the conflicting nations. <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> 50\. Invoke these names of mine, O holy Zarathu<i>s</i>tra! when the all-powerful tyrant of a country falls upon thee, rushes upon thee, deals wounds upon thee, or hurls his chariot against thee, to rob thee [^1136] of thy wealth, to rob thee of thy health.
 
 51\. Invoke these names of mine, O holy Zarathu<i>s</i>tra! when the unholy Ashemaogha falls upon thee, rushes upon thee, deals wounds upon thee, or hurls his chariot against thee, to rob thee of thy strength, to rob thee of thy wealth, to rob thee of thy health.
 
@@ -310,7 +310,7 @@ My name is the Glorious; my name is the Over-glorious.
 
 53\. O thou Vayu! who strikest fear upon all men and horses, who in all creatures workest against the Daêvas, both into the lowest places and into those a thousand times deep dost thou enter with equal power [^1138].
 
-54\. ‘With what manner of sacrifice shall I worship thee? With what manner of sacrifice shall I forward and worship thee? With what manner of sacrifice will be achieved thy adoration, O great Vayu! thou who art high-up girded, firm, swift-moving, high-footed, wide-breasted, wide-thighed, with untrembling eyes, as powerful in sovereignty as any absolute sovereign in the world?’ <span id="p262">[<sup><small>p. 262</small></sup>]</span> 55\. 'Take thou a baresma, O holy Zarathu<i>s</i>tra! turn it upwards or downwards, according as it is full day or dawning; upwards during the day, downwards at the dawn [^1139].
+54\. ‘With what manner of sacrifice shall I worship thee? With what manner of sacrifice shall I forward and worship thee? With what manner of sacrifice will be achieved thy adoration, O great Vayu! thou who art high-up girded, firm, swift-moving, high-footed, wide-breasted, wide-thighed, with untrembling eyes, as powerful in sovereignty as any absolute sovereign in the world?’ <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> 55\. 'Take thou a baresma, O holy Zarathu<i>s</i>tra! turn it upwards or downwards, according as it is full day or dawning; upwards during the day, downwards at the dawn [^1139].
 
 56\. ‘If thou makest me worshipped with a sacrifice, then I shall say unto thee with my own voice things of health, made by Mazda and full of glory, so that Angra Mainyu may never do harm unto thee, nor the Yâtus, nor those addicted to the works of the Yâtu, whether Daêvas or men.’
 
@@ -346,7 +346,7 @@ For his brightness and glory, I will offer unto him a sacrifice worth being hear
 
 58\. Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
-I bless the sacrifice and invocation unto, and the <span id="p263">[<sup><small>p. 263</small></sup>]</span> strength and vigour of Râma <i>H</i><i>v</i>âstra, and Vayu, who works highly, more powerful to afflict than all the other creatures: this part of thee that belongs to the Good Spirit.
+I bless the sacrifice and invocation unto, and the <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> strength and vigour of Râma <i>H</i><i>v</i>âstra, and Vayu, who works highly, more powerful to afflict than all the other creatures: this part of thee that belongs to the Good Spirit.
 
 Ashem Vohû: Holiness is the best of all good . . . .
 

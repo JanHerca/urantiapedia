@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 ## ADHYÂYA V, KHA<i>ND</i>A 1.
 
@@ -49,7 +49,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 6\. And at the time of the Vai<i>s</i>vadeva sacrifice.
 
-7\. [^299]. Having carried a common fire to a place that has been smeared (with cowdung), which is elevated, and <span id="p134">[<sup><small>p. 134</small></sup>]</span> which has been sprinkled (with water), he makes (the sacred fire) redescend (from its receptacle, with the formula), ‘Redescend!’
+7\. [^299]. Having carried a common fire to a place that has been smeared (with cowdung), which is elevated, and <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> which has been sprinkled (with water), he makes (the sacred fire) redescend (from its receptacle, with the formula), ‘Redescend!’
 
 8\. [^300]. If the fire goes out, he sacrifices the two Sarvaprâya<i>s</i><i>s</i>itta oblations (oblations for general expiation) and (other oblations) with (the formulas), ‘Protect us, Agni, that we may prosper. Svâhâ! Protect us that we may obtain all wealth. Svâhâ! The sacrifice protect, O resplendent one! Svâhâ! Protect everything, O hundredfold wise one. Svâhâ!’
 
@@ -63,7 +63,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. Having cooked barley-grains with milk,
 
-4\. He shall sacrifice with the two (verses), ‘Thou <span id="p135">[<sup><small>p. 135</small></sup>]</span> hast us, Agni’ (Rig-veda IV, 1, 4. 5), (and with the verses), ‘We propitiate thy wrath’ (I, 24, 14), ‘This my prayer, Varu<i>n</i>a’ (I, 25, 19), ‘Loosen the highest, Varu<i>n</i>a’ (I, 24, 15), ‘This prayer of the man who exercises himself’ (VIII, 42, 3),
+4\. He shall sacrifice with the two (verses), ‘Thou <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> hast us, Agni’ (Rig-veda IV, 1, 4. 5), (and with the verses), ‘We propitiate thy wrath’ (I, 24, 14), ‘This my prayer, Varu<i>n</i>a’ (I, 25, 19), ‘Loosen the highest, Varu<i>n</i>a’ (I, 24, 15), ‘This prayer of the man who exercises himself’ (VIII, 42, 3),
 
 5\. [^302]. (And with the words), ‘The domestic one, he who goes away from the house, the refreshing one, he who goes into the kennel, he who dwells in the kennel, he who comes out of it, the greedy one, the destroyer of enemies’—to the different directions (of the horizon), beginning with that belonging to Varu<i>n</i>a (i.e. the west), from left to right.
 
@@ -81,7 +81,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. (And) having prepared a mess of cooked food,
 
-3\. He shall sacrifice with (the formulas), ‘To <span id="p136">[<sup><small>p. 136</small></sup>]</span> Vish<i>n</i>u svâhâ! To Indra and Agni svâhâ! To Vi<i>n</i>vakarman svâhâ!’ (and with the verses), ‘Whom the men’ (Rig-veda III, 8, 6 seq.), verse by verse.
+3\. He shall sacrifice with (the formulas), ‘To <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> Vish<i>n</i>u svâhâ! To Indra and Agni svâhâ! To Vi<i>n</i>vakarman svâhâ!’ (and with the verses), ‘Whom the men’ (Rig-veda III, 8, 6 seq.), verse by verse.
 
 4\. He recites over (the garden), ‘O tree with thy hundred branches’ (Rig-veda III, 8, 11).
 
@@ -105,7 +105,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. If a dove or an owl sits down (on his house),
 
-2\. Let him sacrifice with (the hymn), ‘O gods, the dove’ (Rig-veda X, 165), verse by verse. <span id="p137">[<sup><small>p. 137</small></sup>]</span>
+2\. Let him sacrifice with (the hymn), ‘O gods, the dove’ (Rig-veda X, 165), verse by verse. <span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 3\. If he has seen a bad dream or an occurrence boding misfortune,
 
@@ -147,7 +147,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. [^305]. If (his wife) gives birth to a child, without the Sîmantonnayana having been performed,
 
-2\. [^306]. (Or if) the <i>G</i>âtakarman has not been performed (for the child), <span id="p138">[<sup><small>p. 138</small></sup>]</span>
+2\. [^306]. (Or if) the <i>G</i>âtakarman has not been performed (for the child), <span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 3 [^307]. He places, when ten days have elapsed since (the delivery), the little child in the mother's lap,
 
@@ -171,7 +171,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KHA<i>ND</i>A 9.
 
-1\. [^312]. Now (follows) the Sapi<i>nd</i>îkara<i>n</i>a. <span id="p139">[<sup><small>p. 139</small></sup>]</span>
+1\. [^312]. Now (follows) the Sapi<i>nd</i>îkara<i>n</i>a. <span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 2 [^313]. Let him fill four water-pots (for the Manes) from the father upwards,
 
@@ -194,7 +194,7 @@ And with the two (verses), ‘Equal the design’ (Rig-veda X, 191, 3. 4).
 
 2\. Let him fast and sacrifice a hundred and eight pieces of Udumbara wood, which are besmeared with curds, honey, and ghee, with the two (verses), ‘No (harm) to us in our offspring’ (Rig-veda I, 114, 8. 9).
 
-3\. [^315]. And let him murmur the hymn, ‘For welfare may Indra and Agni’ (Rig-veda VII, 35); and (the same hymn should be used) at all (ceremonies), such <span id="p140">[<sup><small>p. 140</small></sup>]</span> as that of the sacrifice after assent has been declared (see above, I, 7, 1).
+3\. [^315]. And let him murmur the hymn, ‘For welfare may Indra and Agni’ (Rig-veda VII, 35); and (the same hymn should be used) at all (ceremonies), such <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> as that of the sacrifice after assent has been declared (see above, I, 7, 1).
 
 4\. [^316]. After he has sacrificed seventeen one span long pieces of Palâ<i>s</i>a wood, he then seizes the Sruva.
 

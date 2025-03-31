@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 SIXTH LECTURE, CALLED BEGGING FOR A BOWL [^432].
 
@@ -46,7 +46,7 @@ As regards the acceptance of a bowl, those four precepts which have been given i
 
 A monk or a nun should not accept a bowl which the layman has, for the mendicant's sake, bought, &c. (see the Lecture called Begging of Clothes [^435]). (I )
 
-A monk or a nun should not accept any very expensive bowls of the following description: bowls made of iron, tin, lead, silver, gold, brass, a mixture of <span id="p167">[<sup><small>p. 167</small></sup>]</span> gold, silver, and copper, pearl, glass, mother of pearl, horn, ivory, cloth, stone, or leather; for such very expensive bowls are impure and unacceptable. (2)
+A monk or a nun should not accept any very expensive bowls of the following description: bowls made of iron, tin, lead, silver, gold, brass, a mixture of <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> gold, silver, and copper, pearl, glass, mother of pearl, horn, ivory, cloth, stone, or leather; for such very expensive bowls are impure and unacceptable. (2)
 
 A monk or a nun should not accept bowls which contain a band of the same precious materials specialised in § 2; for &c. (3)
 
@@ -76,7 +76,7 @@ A monk or a nun may beg for a left-off bowl which no other <i>S</i>rama<i>n</i>a
 
 This is the fourth rule.
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 A monk or a nun having adopted one of these four rules should not say, &c. (see II, 1, t r, § 12, all down to) we respect each other accordingly. (7)
 
@@ -86,7 +86,7 @@ The householder may say (to one of his people): ‘O long-lived one! (or, O sist
 
 The householder may say (to the mendicant): ‘O long-lived <i>S</i>rama<i>n</i>a! stay a while till they have cooked or prepared our food, &c., then we shall give you, O long-lived one! your alms-bowl filled with food or drink; it is not good, not meet that a mendicant should get an empty alms-bowl.’ After consideration, the mendicant should answer: ‘O long-lived one! (or, O sister!) it is indeed not meet for me to eat or drink food &c. which is âdhâkarmika; do not cook or prepare it; if you want to give me anything, give it as it is.’ After these words the householder might offer him the alms-bowl filled with food or drink which had been cooked or prepared: he should not accept such an alms-bowl, for it is impure and unacceptable. (10)
 
-Perhaps the householder will bring and give the mendicant an alms-bowl; the mendicant should then, after consideration, say: ‘O long-lived one! (or, O <span id="p169">[<sup><small>p. 169</small></sup>]</span> sister!) I shall in your presence closely inspect the interior of the bowl.’
+Perhaps the householder will bring and give the mendicant an alms-bowl; the mendicant should then, after consideration, say: ‘O long-lived one! (or, O <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> sister!) I shall in your presence closely inspect the interior of the bowl.’
 
 The Kevalin says: This is the reason: In the alms-bowl there might be living beings or seeds or grass. Hence it has been said to the mendicant, &c., that he should closely inspect the interior of the alms-bowl. (11)
 
@@ -105,7 +105,7 @@ A monk or a nun, entering the abode of a householder for the sake of alms, shoul
 
 The Kevalin says: This is the reason: Living beings, seeds or dust might fall into his bowl. Hence it has been said to the mendicant, &c., that he should after examining his alms-bowl, taking out any living beings, circumspectly enter or leave the householder's abode. (1)
 
-On such an occasion the householder might perhaps, going in the house, fill the alms-bowl with cold water and, returning, offer it him; (the mendicant) should not accept such an alms-bowl [^437] either in <span id="p170">[<sup><small>p. 170</small></sup>]</span> the householder's hand or his vessel; for it is impure and unacceptable. (2)
+On such an occasion the householder might perhaps, going in the house, fill the alms-bowl with cold water and, returning, offer it him; (the mendicant) should not accept such an alms-bowl [^437] either in <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> the householder's hand or his vessel; for it is impure and unacceptable. (2)
 
 Perhaps he has, inadvertently, accepted it; then he should empty it again in (the householder's) water-pot; or (on his objecting to it) he should put down the bowl and the water somewhere, or empty it in some wet place. (3)
 

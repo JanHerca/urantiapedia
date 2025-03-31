@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 **CHAPTER V.**
 
@@ -52,7 +52,7 @@ Jelāl's first royal protector, ‘Alā’u-’d-Dīn Keyqubād, was now dead, a
 
 The monarch one day made a feast in the vineyards, and went forth into the fields for a walk, alone. He picked up a young snake, carried it indoors, placed it in a gold box, sealed this up, and then rejoined his courtiers.
 
-To those attendants the king exhibited the sealed packet, as having just then been privately received from the Qaysar[^26] <span id="p111">[<sup><small>p. 111</small></sup>]</span> of Constantinople with a message to this effect: “If your religion of Islām be the true faith, some one of your wise men will be able to see into this packet without breaking its seals, and to tell what it contains.”
+To those attendants the king exhibited the sealed packet, as having just then been privately received from the Qaysar[^26] <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> of Constantinople with a message to this effect: “If your religion of Islām be the true faith, some one of your wise men will be able to see into this packet without breaking its seals, and to tell what it contains.”
 
 The king then called upon his ministers to prove their loyalty to him, and their faithfulness to their religion, by solving this riddle. None of them was able.
 
@@ -72,7 +72,7 @@ Jelāl used to call Fātima his _right eye;_ her sister Hediyya, _his left eye;_
 
 When Fātima's marriage was solemnised, all the angels of heaven were present, and wished the young couple all happiness.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 She was a saint, and continually worked miracles. She fasted by day and watched by night, tasting food only once in three days. She was very charitable to the poor, the orphans, and the widows, distributing to them food and raiment.
 

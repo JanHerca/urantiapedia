@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 AUGUST MÜLLER: _Die Beherrscher der Gläubigen_. Berlin, 1882. A very brightly written sketch based on thorough knowledge.
 
@@ -64,7 +64,7 @@ STANLEY LANE-POOLE: _A History of Egypt in the Middle Ages_. New York, 1901. For
 
 H. L. FLEISCHER: _Briefwechsel zwischen den Anführern der Wahhabiten und dem Pasha von Damaskus_. _Kleinere Schriften_, iii, pp. 341 ff. First published in ZDMG for year 1857.
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 E. REHATSEK; _The History of the Wahhabys in Arabia and In India_. Journal of Asiatic Society of Bengal. No. xxxviii (read January, 1880).
 

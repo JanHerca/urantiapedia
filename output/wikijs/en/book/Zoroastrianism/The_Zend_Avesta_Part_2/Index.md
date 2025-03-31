@@ -29,11 +29,11 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span> p. 363
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span> p. 363
 
 INDEX TO THE VENDÎDÂD, VOLUME IV; AND TO THE SÎRÔZAHS, YA<i>S</i>TS, AND NYÂYI<i>S</i>, VOLUME XXIII.
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span> p. 365
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span> p. 365
 
 The references in small Roman numerals are to the Introduction to the Vendîdâd; those preceded by II are to this volume; the others are to the Vendîdâd.
 
@@ -133,7 +133,7 @@ Akayadha, man, II, 219.
 
 Akem Mano, demon, lxxii; II, 297, 308.
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Âkhnangha, man, II, 217.
 
@@ -289,7 +289,7 @@ Ar<i>s</i>ti, genius, II, 166.
 
 Ar<i>s</i>va<i>n</i><i>t</i>, man, II, 210.
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 Artaxerxes, xliv, lv; II, 53.
 
@@ -449,7 +449,7 @@ Avesta, lii. n 2. Meaning of the word, xxx. See Âba<i>s</i>tâ and Zand Âvast�
 
 Aw<i>z</i>\-dânva, lake, II, 301.
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Ayêhi, demon, 228.
 
@@ -635,7 +635,7 @@ Daêvô-<i>t</i>bi<i>s</i>, man, II, 204.
 
 Dahae, people, II, 227. n 2.
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Dahâk, demon, II, 298. n 1. See A<i>z</i>i Dahâka.
 
@@ -799,7 +799,7 @@ Ferîdûn, II, 297. n 5.
 
 Fimbul winter, 11.
 
-Firdausi quoted, 167. n 3; II, 5 8. n 1, 60. n 2, 62. n 2, n 4, 63. n 1, 64. n 2, 66. n 2, n 11, 67. n 4, n 5, n 6, 68. n 3, 71. n 7, 80. n 1, n 6, n 7, 81. n 2, 114. n 2, 207. n 3, 208. n 2, 222. n 5, 223. n 5, 224. n 6, 237. n 3, 241. n 2, <span id="p370">[<sup><small>p. 370</small></sup>]</span> 253. n 3, 292. n 1, 293. n 6, 297. n 5, 327. n 8.
+Firdausi quoted, 167. n 3; II, 5 8. n 1, 60. n 2, 62. n 2, n 4, 63. n 1, 64. n 2, 66. n 2, n 11, 67. n 4, n 5, n 6, 68. n 3, 71. n 7, 80. n 1, n 6, n 7, 81. n 2, 114. n 2, 207. n 3, 208. n 2, 222. n 5, 223. n 5, 224. n 6, 237. n 3, 241. n 2, <span id="p370"><sup><small>[ p. 370 ]</small></sup></span> 253. n 3, 292. n 1, 293. n 6, 297. n 5, 327. n 8.
 
 Fire, its purity, xx, lxxxix; how defiled, 9, 80, 110, 168. n 7; how purified, 135; its innocuity, 51; son of Ahura Mazda, II, 322. n 5.
 
@@ -967,7 +967,7 @@ Good-Thought Paradise, II, 317.
 
 Gôpatishâh, man, 20. n 2; II, 114. n 7, 307. n 6.
 
-<span id="p371">[<sup><small>p. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 Gô<i>s</i>, genius, II, 9, 17, 88, 110-118 (Gô<i>s</i> Ya<i>s</i>t).
 
@@ -1141,7 +1141,7 @@ Humâyaka, people, II, 80.
 
 Hunni, II, 205. n 4.
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 Hunus, people, II, 205.
 
@@ -1317,7 +1317,7 @@ Kavâta, king, II, 65. n 1, 222, 30;. See Qobad.
 
 Kavis, heretics, II, 26. n 2.
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 Kavis, kings, II, 213, 215, 218. See Aipivôhu, Apîvêh, Ari<i>s</i>, Armîn, Arshan, Byârshan, Husravah, Kavâta, Kaus, Khosrav, Pashîn, Qobad, Syâvakhsh, Syâvarshâna, Usa, Usadha.
 
@@ -1483,7 +1483,7 @@ Maretan, man. See Gaya.
 
 Margiana, land, II, 123. n 4.
 
-<span id="p374">[<sup><small>p. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 Margus, river, II, 123. n 4.
 
@@ -1641,7 +1641,7 @@ Ormazd, II, 177. n 2. See Ahura Mazda.
 
 Ôshêdar Bâmî, man, II, 79. n 3, 164. n 1, 220. n 3, 226. n 1.
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 Ôshêdar Mâh, II, 264. n 1, 220. n 2.
 
@@ -1797,7 +1797,7 @@ Priest, wandering, 157. n 1, 162. n 1; unworthy, 189.
 
 Priesthood, xlvii.
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 Proclus, xiii.
 
@@ -1953,7 +1953,7 @@ Seistan, land, II, 123. n 3, 288. n 2.
 
 Selm, man. See Sairima.
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 Seoses, man, xlv.
 
@@ -2133,7 +2133,7 @@ Takhma-Urupa, prince, II, 60. n 1, 204, 252, 292, 326.
 
 Tanâfûhr, xcvi.
 
-<span id="p378">[<sup><small>p. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 Tanuperetha, xcvi.
 
@@ -2309,7 +2309,7 @@ Vanâra, man, II, 205.
 
 Va<i>n</i>daremaini, man, II, 80.
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 Vanghâpara, 152.
 
@@ -2481,7 +2481,7 @@ Vyar<i>s</i>va<i>n</i><i>t</i>, man, II, 210.
 
 Vyâtana, man, II, 218.
 
-<span id="p380">[<sup><small>p. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 Walking without Kostî, 199.
 

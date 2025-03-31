@@ -73,7 +73,7 @@ Thick darkness o'er the sun was spread.
 The cows their thirsty calves denied,
 And elephants flung their food aside.
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 Tris'anku,  [1](Book_2_50#fn315) Jupiter looked dread,
 And Mercury and Mars the red,
@@ -191,7 +191,7 @@ Roused from his bed, though lord of all,
 In semblance of a friendless thrall.
 Janak's dear child who ne'er has met
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 With aught save joy and comfort yet,
 Will reach to-day the forest, worn
@@ -314,7 +314,7 @@ Upon my sons who tame the foe?
 When with delight shall youthful bands
 Of Bráhman maidens in their hands
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 Bear fruit and flowers in goodly show,
 And circling round Ayodhyá go?
@@ -437,7 +437,7 @@ This bitter grief to harbour now?
 As the long banks of cloud distil
 Their water when they see the hill,
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 So shall the drops of rapture run
 From thy glad eyes to see thy son
@@ -557,7 +557,7 @@ The Vedas' lore, the wealth we prize,
 There still, like wives at home, shall dwell,
 Whose love and truth protect them well.
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 To follow thee our hearts are bent;
 We need not plan or argument.
@@ -684,7 +684,7 @@ All care of house and home resigned,
 Caring for us with heart and mind,
 These people of the city yearn
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 To see us to our home return:
 To quit their lives will they consent,
@@ -801,7 +801,7 @@ Which traces of his chariot showed,
 But when at length those traces failed,
 A deep despair their hearts assailed.
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 The chariot marks no more discerned,
 The hopeless sages backward turned:
@@ -923,7 +923,7 @@ The helpless, lordless, godless land,
 Cursed for Kaikeyí's guilt will fall,
 And swift destruction seize it all.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 For, Ráma forced from home to fly,
 The king his sire will surely die,
@@ -1047,7 +1047,7 @@ Thy well-loved towers again will see,
 And, coming from my wild retreat,
 My mother and my father meet.’
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 Then burning grief inflamed his eye,
 As his right arm he raised on high,
@@ -1173,7 +1173,7 @@ Drawn from the stream by Lakshman's hand.
 And Lakshman with observance meet
 Bathed his beloved brother's feet,
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 Who rested with his Maithil spouse:
 Then sat him down 'neath distant boughs.

@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:55:40Z
 
 § 3. A man may break open a cask, to eat dry figs out of it; provided always, he does it not with the intention to prepare the cask for subsequent use. He must not pierce the bung-hole of a cask; such is the dictum of R. Jehudah; but the sages permit it. \[According to another version, R. José permits it\]. He must not spile a cask \[bore a hole in the side thereof\]: and, if it is spiled, he must not put wax on it, because he \[thereby\] smoothens it down. R. Jehudah said, “Such a case was once brought before R. Jochanan, ben Sachai, at Arob, when he remarked, ‘I doubt whether I ought not to have inflicted a sin-offering on the accused.’”
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 § 4. They may put cooked victuals into a cave \[cellar\] to save them; also put good water \[in a vessel\] into water that is not drinkable, to keep it \[the former\] cool: likewise cold water \[in a vessel\], into hot water, to warm \[the former\]. He whose clothes have dropped into the water while on the road, may unhesitatingly go on with them. As soon as he arrives at the outmost court \[of the town or village\] he may spread his clothes in the sun, but not before the people \[publicly\].
 

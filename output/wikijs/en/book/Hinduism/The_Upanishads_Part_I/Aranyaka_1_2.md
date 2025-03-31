@@ -42,7 +42,7 @@ SECOND ADHYÂYA.
 
 3\. In the second verse of (the Pragâtha [^399]), indra nedîya ed ihi, pra sû tirâ sa<i>k</i>îbhir ye ta ukthina<i>h</i> (Rv. VIII, 53, 5, 6), there occurs the word ukthina<i>h</i>, reciters of hymns [^400]. Verily, this day (the mahâvrata) is an uktha (hymn), and as endowed with an uktha, the form of this day is perfect.
 
-4\. In the first verse (of another Pragâtha) the word vîra, strong, occurs (Rv. I, 40, 3), and as endowed with the word vîra, strong, the form of this day is perfect. <span id="p167">[<sup><small>p. 167</small></sup>]</span> 5\. In the second verse (of another Pragâtha) the word suvîryam, strength, occurs (Rv. I. 40, 1), and as endowed with the word suvîrya, strength, the form of this day is perfect.
+4\. In the first verse (of another Pragâtha) the word vîra, strong, occurs (Rv. I, 40, 3), and as endowed with the word vîra, strong, the form of this day is perfect. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> 5\. In the second verse (of another Pragâtha) the word suvîryam, strength, occurs (Rv. I. 40, 1), and as endowed with the word suvîrya, strength, the form of this day is perfect.
 
 6\. In the first verse (of another Pragâtha) the word ukthyam, to be hymned, occurs (Rv. I, 40, 5). Verily, this day is an uktha, and as endowed with an uktha, the form of this day is perfect.
 
@@ -56,7 +56,7 @@ SECOND ADHYÂYA.
 
 11\. In (the Pragâtha) pra va indrâya b<i>ri</i>hate (Rv. VIII, 89, 3) (the word b<i>ri</i>hat occurs). Verily, b<i>ri</i>hat is mahat (great), and as endowed with mahat, great, the form of this day (mahâvrata) is perfect.
 
-12\. In (the Pragâtha) b<i>ri</i>had indrâya gâyata (Rv. VIII, 89, 1) <span id="p168">[<sup><small>p. 168</small></sup>]</span> (the word b<i>ri</i>hat occurs). Verily, b<i>ri</i>hat is mahat (great), and as endowed with mahat, the form of this day is perfect.
+12\. In (the Pragâtha) b<i>ri</i>had indrâya gâyata (Rv. VIII, 89, 1) <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> (the word b<i>ri</i>hat occurs). Verily, b<i>ri</i>hat is mahat (great), and as endowed with mahat, the form of this day is perfect.
 
 13\. In (the Pragâtha) naki<i>h</i> sudâso ratham pary âsa na rîramad (Rv. VII, 32, 10) the words paryâsa (he moved round) and na rîramad (he did not enjoy) occur, and as endowed with the words paryasta and rânti the form of this day is perfect [^402].
 
@@ -64,7 +64,7 @@ He recites all (these) Pragâthas, in order to obtain all the days (of the sacri
 
 ## SECOND KHA<i>N</i><i>D</i>A [^407].
 
-1\. He recites the hymn, asat su me <i>g</i>arita<i>h</i> sâbhivega<i>h</i> (Rv. X, 27, 1), (and in. it the word) satyadhv<i>ri</i>tam, the destroyer of truth. Verily, that day <span id="p169">[<sup><small>p. 169</small></sup>]</span> is truth, and as endowed with the word satya, truth, the form of this day is perfect [^408].
+1\. He recites the hymn, asat su me <i>g</i>arita<i>h</i> sâbhivega<i>h</i> (Rv. X, 27, 1), (and in. it the word) satyadhv<i>ri</i>tam, the destroyer of truth. Verily, that day <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> is truth, and as endowed with the word satya, truth, the form of this day is perfect [^408].
 
 2\. That hymn is composed by Vasukra. Verily, Vasukra is Brahman, and that day is Brahman. Thus he obtains Brahman by means of Brahman [^409].
 
@@ -78,7 +78,7 @@ He recites all (these) Pragâthas, in order to obtain all the days (of the sacri
 
 7\. In the verse ûrvam gavyam mahi g<i>ri</i><i>n</i>âna indra the word mahi, great, occurs. Endowed with the word mahat, the form of this day is perfect.
 
-8\. That hymn is composed by Bharadvâ<i>g</i>a, and Bharadvâ<i>g</i>a was he who knew most, who lived longest, and performed the greatest austerities among the <i>Ri</i>shis, and by this hymn he drove away evil. Therefore if he recites the hymn of Bharadvâ<i>g</i>a, <span id="p170">[<sup><small>p. 170</small></sup>]</span> then, after having driven away evil, he becomes learned, long-lived, and full of austerities.
+8\. That hymn is composed by Bharadvâ<i>g</i>a, and Bharadvâ<i>g</i>a was he who knew most, who lived longest, and performed the greatest austerities among the <i>Ri</i>shis, and by this hymn he drove away evil. Therefore if he recites the hymn of Bharadvâ<i>g</i>a, <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> then, after having driven away evil, he becomes learned, long-lived, and full of austerities.
 
 9\. He recites the hymn kayâ subhâ savayasa<i>h</i> sanîlâ<i>h</i> (Rv. I, 165, 1).
 
@@ -96,11 +96,11 @@ He recites all (these) Pragâthas, in order to obtain all the days (of the sacri
 
 16\. Everybody is the friend of him who knows this, and for whom a Hot<i>ri</i> priest who knows this, recites this hymn.
 
-17\. The next hymn, <i>g</i>anish<i>th</i>â ugra<i>h</i> sahase turâya (Rv. I, 73, 1), forms a Nividdhâna [^413], and, <span id="p171">[<sup><small>p. 171</small></sup>]</span> according to the one-day (ekâha) ceremonial, is perfect in form. On that day much is done now and then which has to be hidden, and has to be atoned for (by recitation of hymns). Atonement is rest, the one-day sacrifice. Therefore at the end of the year (on the last day but one of the sacrifice that lasts a whole year) the sacrificers rest on this atonement as their rest.
+17\. The next hymn, <i>g</i>anish<i>th</i>â ugra<i>h</i> sahase turâya (Rv. I, 73, 1), forms a Nividdhâna [^413], and, <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> according to the one-day (ekâha) ceremonial, is perfect in form. On that day much is done now and then which has to be hidden, and has to be atoned for (by recitation of hymns). Atonement is rest, the one-day sacrifice. Therefore at the end of the year (on the last day but one of the sacrifice that lasts a whole year) the sacrificers rest on this atonement as their rest.
 
 He who knows this rests firm, and they also for whom a Hot<i>ri</i> priest who knows this, recites this hymn [^414].
 
-18\. These, if recited straight on, are ninety-seven verses [^415]. The ninety are three Virâ<i>g</i>, each consisting of thirty, and then the seven verses which are over. Whatever is the praise of the seven, is the praise of ninety also. <span id="p172">[<sup><small>p. 172</small></sup>]</span> 19\. By repeating the first and last verses three times each, they become one hundred and one verses.
+18\. These, if recited straight on, are ninety-seven verses [^415]. The ninety are three Virâ<i>g</i>, each consisting of thirty, and then the seven verses which are over. Whatever is the praise of the seven, is the praise of ninety also. <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> 19\. By repeating the first and last verses three times each, they become one hundred and one verses.
 
 20\. There are five fingers, of four joints each, two pits (in the elbow and the arm), the arm, the eye, the shoulder-blade; this makes twenty-five. The other three parts have likewise twenty-five each [^416]. That makes a hundred, and the trunk is the one hundred and first.
 
@@ -116,7 +116,7 @@ He who knows this rests firm, and they also for whom a Hot<i>ri</i> priest who k
 
 3\. That is not to be regarded.
 
-4\. Some say, there should be three planks, because there are these three threefold worlds, and it should be like them. <span id="p173">[<sup><small>p. 173</small></sup>]</span> 5\. That is not to be regarded.
+4\. Some say, there should be three planks, because there are these three threefold worlds, and it should be like them. <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> 5\. That is not to be regarded.
 
 6\. Let there be two, for these two worlds (the earth and heaven) are seen as if most real, while the ether (space) between the two is the sky (antariksha). Therefore let there be two planks.
 
@@ -135,7 +135,7 @@ He who knows this rests firm, and they also for whom a Hot<i>ri</i> priest who k
 
 2\. Others say: ‘Let it be one span (prâde<i>s</i>a), for by that measure verily the vital airs were measured.’ That is not to be regarded [^419].
 
-3\. Let it be one fist (mush<i>t</i>i), for by that measure verily all eatable food is made, and by that measure <span id="p174">[<sup><small>p. 174</small></sup>]</span> all eatable food is taken; therefore let it be one fist above the ground.
+3\. Let it be one fist (mush<i>t</i>i), for by that measure verily all eatable food is made, and by that measure <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> all eatable food is taken; therefore let it be one fist above the ground.
 
 4\. They say: ‘Let him mount the swing from east to west, like he who shines; for the sun mounts these worlds from east to west.’ That is not to be regarded.
 
@@ -151,7 +151,7 @@ He who knows this rests firm, and they also for whom a Hot<i>ri</i> priest who k
 
 10\. The Hot<i>ri</i> mounts the swing, the Udgât<i>ri</i> the seat made of Udumbara wood. The swing is masculine, the seat feminine, and they form a union. Thus he makes a union at the beginning of the uktha in order to get offspring.
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 He who knows this, gets offspring and cattle.
 
@@ -165,7 +165,7 @@ He who knows this, gets offspring and cattle.
 
 16\. Others say: ‘Let him descend after he has taken the food in his hand.’ That is not to be regarded. For, verily, that respect is not shown which is shown to one after he has approached quite close.
 
-17\. Let him descend after he has seen the food. For, verily, that is real respect which is shown to one when he sees it. Only after having actually <span id="p176">[<sup><small>p. 176</small></sup>]</span> seen the food (that is brought to the sacrifice), let him descend from the swing.
+17\. Let him descend after he has seen the food. For, verily, that is real respect which is shown to one when he sees it. Only after having actually <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> seen the food (that is brought to the sacrifice), let him descend from the swing.
 
 18\. Let him descend turning towards the east, for in the east the seed of the gods springs up [^426]. Therefore let him rise turning towards the east, yea, turning towards the east.
 

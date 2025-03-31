@@ -34,17 +34,17 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## THE BOOK OF THE GREAT DECEASE. MAHÂ-PARINIBBÂNA-SUTTA. CHAPTER I.
 
-1\.[^1] Thus have I heard. The Blessed One was once dwelling in Râ<i>g</i>agaha, on the hill called the Vulture's Peak. Now at that time A<i>g</i>âtasattu, the son of the queen-consort of Videha origin[^2], the king of Magadha, was desirous of attacking the Va<i>gg</i>ians; and he said to himself, ’I will root out these Va<i>gg</i>ians, <span id="p2">[<sup><small>p. 2</small></sup>]</span> mighty and powerful[^3] though they be, I will destroy these Va<i>gg</i>ians, I will bring these Va<i>gg</i>ians to utter ruin!’
+1\.[^1] Thus have I heard. The Blessed One was once dwelling in Râ<i>g</i>agaha, on the hill called the Vulture's Peak. Now at that time A<i>g</i>âtasattu, the son of the queen-consort of Videha origin[^2], the king of Magadha, was desirous of attacking the Va<i>gg</i>ians; and he said to himself, ’I will root out these Va<i>gg</i>ians, <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> mighty and powerful[^3] though they be, I will destroy these Va<i>gg</i>ians, I will bring these Va<i>gg</i>ians to utter ruin!’
 
 2\. So he spake to the Brâhman Vassakâra, the prime-minister of Magadha, and said:
 
 ‘Come now, O Brâhman, do you go to the Blessed One, and bow down in adoration at his feet on my behalf, and enquire in my name whether he is free from illness and suffering, and in the enjoyment of case and comfort, and vigorous health. Then tell him that A<i>g</i>âtasattu, son of the Vedehi, the king of Magadha, in his eagerness to attack the Va<i>gg</i>ians, has resolved, “I will root out these Va<i>gg</i>ians, mighty and powerful though they be, I will destroy these Va<i>gg</i>ians, I will bring these Va<i>gg</i>ians to utter ruin!” And bear carefully in mind whatever the Blessed One may predict, and repeat it to me. For the Buddhas speak nothing untrue!’
 
-3\. Then the Brâhman Vassakâra, hearkened to the words of the king, saying, ‘Be it as you say.’ And ordering a number of magnificent carriages to be made ready, he mounted one of them, left Râ<i>g</i>agaha with his train, and went to the Vulture's Peak, riding as far as the ground was passable for carriages, <span id="p3">[<sup><small>p. 3</small></sup>]</span> and then alighting and proceeding on foot to the place where the Blessed One was. On arriving there he exchanged with the Blessed One the greetings and compliments of friendship and civility, sat down respectfully by his side \[and then delivered to him the message even as the king had commanded[^4]\].
+3\. Then the Brâhman Vassakâra, hearkened to the words of the king, saying, ‘Be it as you say.’ And ordering a number of magnificent carriages to be made ready, he mounted one of them, left Râ<i>g</i>agaha with his train, and went to the Vulture's Peak, riding as far as the ground was passable for carriages, <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> and then alighting and proceeding on foot to the place where the Blessed One was. On arriving there he exchanged with the Blessed One the greetings and compliments of friendship and civility, sat down respectfully by his side \[and then delivered to him the message even as the king had commanded[^4]\].
 
 4\. Now at that time the venerable Ânanda was standing behind the Blessed One, and fanning him. And the Blessed One said to him: ‘Have you heard, Ânanda, that the Va<i>gg</i>ians hold full and frequent public assemblies?’
 
@@ -64,13 +64,13 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘We may expect then,’ answered the Brâhman, ‘the welfare and not the decline of the Vaggians when they are possessed of any one of these conditions of welfare, how much more so when they are possessed of all the seven. So, Gotama, the Va<i>gg</i>ians cannot be overcome by the king of Magadha; that is, not in battle, without diplomacy or breaking up their alliance[^8]. And now, Gotama, we must go; we are busy, and have much to do.’
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 ‘Whatever you think most fitting, O Brâhman,’ was the reply. And the Brâhman Vassakâra, delighted and pleased with the words of the Blessed One, rose from his seat, and went his way.
 
 6\. Now soon after he had gone the Blessed One addressed the venerable Ânanda, and said: ‘Go now, Ânanda, and assemble in the Service Hall such of the Brethren[^9] as live in the neighbourhood of Râgagaha.’
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 And he did so; and returned to the Blessed One, and informed him, saying:
 
@@ -82,13 +82,13 @@ And the Blessed One arose, and went to the Service Hall; and when he was seated,
 
 ‘Even so, Lord,’ said the Brethren, in assent, to the Blessed One; and he spake as follows:
 
-‘So long, O mendicants, as the brethren meet together in full and frequent assemblies—so long as they meet together in concord, and rise in concord, and carry out in concord the duties of the order—so long as the brethren shall establish nothing that has not been already prescribed, and abrogate nothing that has been already established, and act in accordance with the rules of the order as now laid down—so long as the brethren honour and esteem and revere and support the elders of experience and long standing, the fathers and leaders of the order, and hold it a point of duty to hearken to their words—so long as the brethren fall not under the influence of that craving which, springing up within them, would give rise to renewed existence[^10]—so long as the brethren delight in a life of solitude—so long as the brethren so train their minds[^11] that good and holy men shall come to them, and those who have come shall dwell at case <span id="p7">[<sup><small>p. 7</small></sup>]</span> —so long may the brethren be expected, not to decline, but to prosper. So long as these seven conditions shall continue to exist among the brethren, so long as they are well-instructed in these conditions, so long may the brethren be expected not to decline, but to prosper.’
+‘So long, O mendicants, as the brethren meet together in full and frequent assemblies—so long as they meet together in concord, and rise in concord, and carry out in concord the duties of the order—so long as the brethren shall establish nothing that has not been already prescribed, and abrogate nothing that has been already established, and act in accordance with the rules of the order as now laid down—so long as the brethren honour and esteem and revere and support the elders of experience and long standing, the fathers and leaders of the order, and hold it a point of duty to hearken to their words—so long as the brethren fall not under the influence of that craving which, springing up within them, would give rise to renewed existence[^10]—so long as the brethren delight in a life of solitude—so long as the brethren so train their minds[^11] that good and holy men shall come to them, and those who have come shall dwell at case <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> —so long may the brethren be expected, not to decline, but to prosper. So long as these seven conditions shall continue to exist among the brethren, so long as they are well-instructed in these conditions, so long may the brethren be expected not to decline, but to prosper.’
 
 7\. ‘Other seven conditions of welfare will I teach you, O brethren. Listen well, and attend, and I will speak.’
 
 And on their expressing their assent, he spake as follows:
 
-‘So long as the brethren shall not engage in, or be fond of, or be connected with business—so long as the brethren shall not be in the habit of or be fond of, or be partakers in idle talk—so long as the brethren shall not be addicted to, or be fond of, or indulge in slothfulness—so long as the brethren shall not frequent, or be fond of, or indulge in society—so long as the brethren shall neither have, nor fall under the influence of, sinful desires—so long as the brethren shall not become the friends, companions, or intimates of sinners—so long as the brethren shall not come to a stop on their way \[to Nirvâ<i>n</i>a[^12]\] because they <span id="p8">[<sup><small>p. 8</small></sup>]</span> have attained to any lesser thing—so long may the brethren be expected not to decline, but to prosper.
+‘So long as the brethren shall not engage in, or be fond of, or be connected with business—so long as the brethren shall not be in the habit of or be fond of, or be partakers in idle talk—so long as the brethren shall not be addicted to, or be fond of, or indulge in slothfulness—so long as the brethren shall not frequent, or be fond of, or indulge in society—so long as the brethren shall neither have, nor fall under the influence of, sinful desires—so long as the brethren shall not become the friends, companions, or intimates of sinners—so long as the brethren shall not come to a stop on their way \[to Nirvâ<i>n</i>a[^12]\] because they <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> have attained to any lesser thing—so long may the brethren be expected not to decline, but to prosper.
 
 ‘So long as these conditions shall continue to exist among the brethren, so long as they are instructed in these conditions, so long may the brethren be expected not to decline, but to prosper.’
 
@@ -104,7 +104,7 @@ And on their expressing their assent, he spake as follows:
 
 And on their expressing their assent, he spake as follows:
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 ‘So long as the brethren shall exercise themselves in the sevenfold higher wisdom, that is to say, in mental activity, search after truth, energy, joy, peace, earnest contemplation, and equanimity of mind, so long may the brethren be expected not to decline, but to prosper.
 
@@ -122,17 +122,17 @@ And on their expressing their assent, he spake as follows:
 
 And on their expressing their assent, he spake as follows:
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 ‘So long as the brethren shall persevere in kindness of action, speech, and thought amongst the saints, both in public and in private—so long as they shall divide without partiality, and share in common with the upright and the holy, all such things as they receive in accordance with the just provisions of the order, down even to the mere contents of a begging bowl—so long as the brethren shall live among the saints in the practice, both in public and in private, of those virtues which (unbroken, intact, unspotted, unblemished) are productive of freedom[^15], and praised by the wise; which are untarnished by the desire of future life, or by the belief in the efficacy of outward acts[^16]; and which are conducive to high and holy thoughts—so long as the brethren shall live among the saints, cherishing, both in public and in private, that noble and saving faith which leads to the complete destruction of the sorrow of him who acts according to it—so long may the brethren be expected not to decline, but to prosper.
 
-‘So long as these six conditions shall continue to <span id="p11">[<sup><small>p. 11</small></sup>]</span> exist among the brethren so long as they are instructed in these six conditions, so long may the brethren be expected not to decline, but to prosper.’
+‘So long as these six conditions shall continue to <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> exist among the brethren so long as they are instructed in these six conditions, so long may the brethren be expected not to decline, but to prosper.’
 
 ---
 
 12\. And whilst the Blessed One stayed there at Râ<i>g</i>agaha on the Vulture's Peak he held that comprehensive religious talk with the brethren on the nature of upright conduct, and of earnest contemplation, and of intelligence. ’Great is the fruit, great the advantage of earnest contemplation when set round with upright conduct. Great is the fruit, great the advantage of intellect when set round with earnest contemplation. The mind set round with intelligence is freed from the great evils, that is to say, from sensuality, from individuality, from delusion, and from ignorance[^17].’ [^18]
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 13\. Now when the Blessed One had sojourned at Râ<i>g</i>agaha as long as he pleased, he addressed the venerable Ânanda, and said: ‘Come, Ânanda, let us go to Ambala<i>tth</i>ikâ.’
 
@@ -148,7 +148,7 @@ And on their expressing their assent, he spake as follows:
 
 Then the Blessed One proceeded, with a great company of the brethren, to Nâlandâ; and there, at Nâlandâ, the Blessed One stayed in the Pâvârika mango grove.
 
-16\. [^19]Now the venerable Sâriputta came to the <span id="p13">[<sup><small>p. 13</small></sup>]</span> place where the Blessed One was, and having saluted him, took his seat respectfully at his side, and said: ‘Lord! such faith have I in the Blessed One, that methinks there never has been, nor will there be, nor is there now any other, whether Sama<i>n</i>a or Brâhman, who is greater and wiser than the Blessed One, that is to say, as regards the higher wisdom.’
+16\. [^19]Now the venerable Sâriputta came to the <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> place where the Blessed One was, and having saluted him, took his seat respectfully at his side, and said: ‘Lord! such faith have I in the Blessed One, that methinks there never has been, nor will there be, nor is there now any other, whether Sama<i>n</i>a or Brâhman, who is greater and wiser than the Blessed One, that is to say, as regards the higher wisdom.’
 
 ‘Grand and bold are the words of thy mouth, Sâriputta: verily, thou hast burst forth into a song of ecstasy! of course then thou hast known all the Blessed Ones who in the long ages of the past have been Arahat Buddhas, comprehending their minds with yours, and aware what their conduct was, what their doctrine, what their wisdom, what their mode of life, and what salvation they attained to?’
 
@@ -164,11 +164,11 @@ But at least then, O Sâriputta, thou knowest me as the Arahat Buddha now alive,
 
 ‘You see then, Sâriputta, that you know not the hearts of the Arahat Buddhas of the past and of the future. Why therefore are your words so grand and bold? Why do you burst forth into such a song of ecstasy?’
 
-17\. ‘O Lord! I have not the knowledge of the hearts of the Arahat Buddhas that have been, and are to come, and now are. I only know the lineage <span id="p14">[<sup><small>p. 14</small></sup>]</span> of the faith. just, Lord, as a king might have a border city, strong in its foundations, strong in its ramparts and tora<i>n</i>as, and with one gate alone; and the king might have a watchman there, clever, expert, and wise, to stop all strangers and admit only friends. And he, on going over the approaches all round the city, might not so observe all the joints and crevices in the ramparts of that city as to know where even a cat could get out. That might well be. Yet all living things of larger size that entered or left the city, would have to do so by that gate. Thus only is it, Lord, that I know the lineage of the faith. I know that the Arahat Buddhas of the past, putting away all lust, ill-will, sloth, pride, and doubt; knowing all those mental faults which make men weak; training their minds in the four kinds of mental activity; thoroughly exercising themselves in the sevenfold higher wisdom, received the full fruition of Enlightenment. And I know that the Arahat Buddhas of the times to come will \[do the same\]. And I know that the Blessed One, the Arahat Buddha of to-day, has \[done so\] now[^20].’
+17\. ‘O Lord! I have not the knowledge of the hearts of the Arahat Buddhas that have been, and are to come, and now are. I only know the lineage <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> of the faith. just, Lord, as a king might have a border city, strong in its foundations, strong in its ramparts and tora<i>n</i>as, and with one gate alone; and the king might have a watchman there, clever, expert, and wise, to stop all strangers and admit only friends. And he, on going over the approaches all round the city, might not so observe all the joints and crevices in the ramparts of that city as to know where even a cat could get out. That might well be. Yet all living things of larger size that entered or left the city, would have to do so by that gate. Thus only is it, Lord, that I know the lineage of the faith. I know that the Arahat Buddhas of the past, putting away all lust, ill-will, sloth, pride, and doubt; knowing all those mental faults which make men weak; training their minds in the four kinds of mental activity; thoroughly exercising themselves in the sevenfold higher wisdom, received the full fruition of Enlightenment. And I know that the Arahat Buddhas of the times to come will \[do the same\]. And I know that the Blessed One, the Arahat Buddha of to-day, has \[done so\] now[^20].’
 
 ---
 
-18\. There in the Pavârika mango grove the Blessed One held that comprehensive religious talk <span id="p15">[<sup><small>p. 15</small></sup>]</span> with the brethren on the nature of upright conduct, and of earnest contemplation, and of intelligence. ‘Great is the fruit, great the advantage of earnest contemplation when set round with upright conduct. Great is the fruit, great the advantage of intellect when set round with earnest contemplation. The mind set round with intelligence is freed from the great evils, that is to say, from sensuality, from individuality, from delusion, and from ignorance.’
+18\. There in the Pavârika mango grove the Blessed One held that comprehensive religious talk <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> with the brethren on the nature of upright conduct, and of earnest contemplation, and of intelligence. ‘Great is the fruit, great the advantage of earnest contemplation when set round with upright conduct. Great is the fruit, great the advantage of intellect when set round with earnest contemplation. The mind set round with intelligence is freed from the great evils, that is to say, from sensuality, from individuality, from delusion, and from ignorance.’
 
 ---
 
@@ -180,17 +180,17 @@ Then the Blessed One proceeded, with a great company of the brethren, to Pâ<i>t
 
 20\. [^21] Now the disciples at Pâ<i>t</i>aligâma heard of his arrival there, and they went to the place where he was, took their seats respectfully beside him, and invited him to their village rest house. And the Blessed One signified, by silence, his consent.
 
-21\. Then the Pâ<i>t</i>aligâma disciples seeing that he had accepted the invitation, rose from their seats, and went away to the rest house, bowing to the Blessed One and keeping him on their right as they past him[^22]. On arriving there they made the rest <span id="p16">[<sup><small>p. 16</small></sup>]</span> house fit in every way for occupation[^23], placed seats in it, set up a water-pot, and fixed an oil lamp. Then they returned to the Blessed One, and bowing, stood beside him, and said: ‘All things are ready, Lord! It is time for you to do what you deem most fit.’
+21\. Then the Pâ<i>t</i>aligâma disciples seeing that he had accepted the invitation, rose from their seats, and went away to the rest house, bowing to the Blessed One and keeping him on their right as they past him[^22]. On arriving there they made the rest <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> house fit in every way for occupation[^23], placed seats in it, set up a water-pot, and fixed an oil lamp. Then they returned to the Blessed One, and bowing, stood beside him, and said: ‘All things are ready, Lord! It is time for you to do what you deem most fit.’
 
 22\. And the Blessed One robed himself, took his bowl and other things, went with the brethren to the rest house, washed his feet, entered the hall, and took his seat against the centre pillar, with his face towards the east. And the brethren also, after washing their feet, entered the hall, and took their seats round the Blessed One, against the western wall, and facing the cast. And the Pâ<i>t</i>aligâma disciples too, after washing their feet, entered the hall, and took their seats opposite the Blessed One, against the eastern wall, and facing towards the west.
 
-23\. [^24] Then the Blessed One addressed the Pâ<i>t</i>aligâma disciples, and said: 'Fivefold, O householders, is the loss of the wrong-doer through his want of rectitude. In the first place the wrong-doer, devoid of rectitude, falls into great poverty through sloth; in the next place his evil repute gets noised abroad; thirdly, whatever society he enters—whether of Brâhmans, nobles, heads of houses, or Sama<i>n</i>as— <span id="p17">[<sup><small>p. 17</small></sup>]</span> he enters shyly and confused; fourthly, he is full of anxiety when he dies; and lastly, on the dissolution of the body, after death, he is reborn into some unhappy state of suffering or woe[^25]. This, O householders, is the fivefold loss of the evil-doer!’
+23\. [^24] Then the Blessed One addressed the Pâ<i>t</i>aligâma disciples, and said: 'Fivefold, O householders, is the loss of the wrong-doer through his want of rectitude. In the first place the wrong-doer, devoid of rectitude, falls into great poverty through sloth; in the next place his evil repute gets noised abroad; thirdly, whatever society he enters—whether of Brâhmans, nobles, heads of houses, or Sama<i>n</i>as— <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> he enters shyly and confused; fourthly, he is full of anxiety when he dies; and lastly, on the dissolution of the body, after death, he is reborn into some unhappy state of suffering or woe[^25]. This, O householders, is the fivefold loss of the evil-doer!’
 
 24\. ‘Fivefold, O householders, is the gain of the well-doer through his practice of rectitude. In the first place the well-doer, strong in rectitude, acquires great wealth through his industry; in the next place, good reports of him are spread abroad; thirdly, whatever society he enters—whether of nobles, Brâhmans, heads of houses, or members of the order—he enters confident and self-possessed; fourthly, he dies without anxiety; and lastly, on the dissolution of the body, after death, he is reborn into some happy state in heaven. This, O householders, is the fivefold gain of the well-doer.’
 
 25\. When the Blessed One had thus taught the disciples, and incited them, and roused them, and gladdened them, far into the night with religious discourse, he dismissed them, saying, ‘The night is far spent, O householders. It is time for you to do what you deem most fit.’ ‘Even so, Lord!’ answered the disciples of Pâ<i>t</i>aligâma, and they rose from their seats, and bowing to the Blessed One, and keeping him on their right hand as they passed him, they departed thence.
 
-And the Blessed One, not long after the disciples <span id="p18">[<sup><small>p. 18</small></sup>]</span> of Pâ<i>t</i>aligâma had departed thence, entered into his private chamber.
+And the Blessed One, not long after the disciples <span id="p18"><sup><small>[ p. 18 ]</small></sup></span> of Pâ<i>t</i>aligâma had departed thence, entered into his private chamber.
 
 26\. At that time Sunîdha and Vassakâra, the chief ministers of Magadha, were building a fortress at Pâ<i>t</i>aligâma to repel the Va<i>gg</i>ians, and there were a number of fairies who haunted in thousands the plots of ground there. Now, wherever ground is so occupied by powerful fairies, they bend the hearts of the most powerful kings and ministers to build dwelling-places there, and fairies of middling and inferior power bend in a similar way the hearts of middling or inferior kings and ministers.
 
@@ -200,7 +200,7 @@ And the Blessed One, not long after the disciples <span id="p18">[<sup><small>p.
 
 28\. They act, Ânanda, as if they had consulted with the Tâvati<i>m</i>sa, angels. \[And telling him of what he had seen, and of the influence such fairies had, he added\]: ‘And among famous places of residence and haunts of busy men, this will become the chief, the city of Pâ<i>t</i>ali-putta, a centre for the interchange of all kinds of wares. But three dangers will hang over Pâ<i>t</i>ali-putta, that of fire, that of water, and that of dissension[^26].’
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 29\. Now Sunîdha and Vassakâra, the chief ministers of Magadha, proceeded to the place where the Blessed One was. And when they had come there they exchanged with the Blessed One the greetings and compliments of friendship and civility, and stood there respectfully on one side. And, so standing, Sunîdha and Vassakâra, the chief ministers of Magadha, spake thus to the Blessed One:
 
@@ -208,7 +208,7 @@ And the Blessed One, not long after the disciples <span id="p18">[<sup><small>p.
 
 30\. Then when Sunîdha and Vassakâra, the chief ministers of Magadha, perceived that he had given his consent, they returned to the place where they dwelt. And on arriving there, they prepared sweet dishes of boiled rice, and cakes; and informed the Blessed One, saying:
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 ‘The hour of food has come, O Gotama, and all is ready.’
 
@@ -223,7 +223,7 @@ Revered, they will revere him: honoured, they honour him again;
 Are gracious to him as a mother to her own, her only son.  
 And the man who has the grace of the gods, good fortune he beholds[^27].’
 
- <span id="p21">[<sup><small>p. 21</small></sup>]</span> 2\. And when he had thanked the ministers in these verses he rose from his seat and departed thence. And they followed him as he went, saying, ’The gate the Sama<i>n</i>a Gotama goes out by to-day shall be called Gotama's gate, and the ferry at which he crosses the river shall be called Gotama’s ferry.‘ And the gate he went out at was called Gotama’s gate.
+ <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> 2\. And when he had thanked the ministers in these verses he rose from his seat and departed thence. And they followed him as he went, saying, ’The gate the Sama<i>n</i>a Gotama goes out by to-day shall be called Gotama's gate, and the ferry at which he crosses the river shall be called Gotama’s ferry.‘ And the gate he went out at was called Gotama’s gate.
 
 ---
 
@@ -234,7 +234,7 @@ And the man who has the grace of the gods, good fortune he beholds[^27].’
 ‘They who cross the ocean drear  
 Making a solid path across the pools—
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Whilst the vain world ties its basket rafts-  
 These are the wise, these are the saved indeed[^30]!’

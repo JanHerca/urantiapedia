@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 [^214]
 
@@ -50,7 +50,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra, one who hates the Daêvas and obeys the laws of Ahura; For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness [^220] . . . .
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Unto Asha-Vahi<i>s</i>ta, the fairest; unto the much-desired Airyaman, made by Mazda, and unto the good Saoka, with eyes of love, made by Mazda and holy [^221];
 
@@ -62,7 +62,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness [^222]. . . .
 
 1\. Ahura Mazda spake unto Spitama Zarathu<i>s</i>tra, saying: ‘That thou mayest increase Asha-Vahi<i>s</i>ta, O Spitama Zarathu<i>s</i>tra! with hymns of praise, with performance of the office, with invocations, holy words, sacrifice, blessings, and adoration—once to abide in the shining luminous space, in the beautiful abodes [^223]—for the sacrifice and invocation of us, the Amesha-Spe<i>n</i>tas [^224]’ . . . .
 
-2\. Zarathu<i>s</i>tra said: 'Say unto me the right words, such as they are, O Ahura Mazda! that I may increase Asha-Vahi<i>s</i>ta, with hymns of praise, <span id="p43">[<sup><small>p. 43</small></sup>]</span> with performance of the office, with invocations, holy words, sacrifice, blessings, and adoration,—once to abide in the shining luminous space, in the beautiful abodes,—for the sacrifice and invocation of you, the Amesha-Spe<i>n</i>tas.
+2\. Zarathu<i>s</i>tra said: 'Say unto me the right words, such as they are, O Ahura Mazda! that I may increase Asha-Vahi<i>s</i>ta, with hymns of praise, <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> with performance of the office, with invocations, holy words, sacrifice, blessings, and adoration,—once to abide in the shining luminous space, in the beautiful abodes,—for the sacrifice and invocation of you, the Amesha-Spe<i>n</i>tas.
 
 3 [^225]. '. . . . I proclaim Asha-Vahi<i>s</i>ta: if I proclaim Asha-Vahi<i>s</i>ta, then easy is the way to the abode of the other Amesha-Spe<i>n</i>tas [^226], which Ahura Mazda keeps with Good Thoughts, which Ahura Mazda keeps with Good Words, which Ahura Mazda keeps with Good Deeds [^227];
 
@@ -70,7 +70,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness [^222]. . . .
 
 ## II.
 
-5\. 'The Airyaman prayer [^228] smites down the strength of all the creatures of Angra Mainyu, of the Yâtus and Pairikas [^229]. It is the greatest of spells, the best of spells, the very best of all spells; the <span id="p44">[<sup><small>p. 44</small></sup>]</span> fairest of spells, the very fairest of all spells; the fearful one amongst spells, the most fearful of all spells; the firm one amongst spells, the firmest of all spells; the victorious one amongst spells, the most victorious of all spells; the healing one amongst spells, the best-healing of all spells.
+5\. 'The Airyaman prayer [^228] smites down the strength of all the creatures of Angra Mainyu, of the Yâtus and Pairikas [^229]. It is the greatest of spells, the best of spells, the very best of all spells; the <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> fairest of spells, the very fairest of all spells; the fearful one amongst spells, the most fearful of all spells; the firm one amongst spells, the firmest of all spells; the victorious one amongst spells, the most victorious of all spells; the healing one amongst spells, the best-healing of all spells.
 
 6\. 'One may heal with Holiness, one may heal with the Law, one may heal with the knife, one may heal with herbs, one may heal with the Holy Word: amongst all remedies this one is the healing one that heals with the Holy Word; this one it is that will best drive away sickness from the body of the faithful: for this one is the best-healing of all remedies [^230].
 
@@ -78,7 +78,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness [^222]. . . .
 
 8\. 'The brood of the Snake fled away; the brood of the Wolf fled away; the brood of the Two-legged [^233] fled away. Pride fled away; Scorn fled away; Hot Fever fled away; Slander fled away; Discord fled away; the Evil Eye fled away.
 
-9\. 'The most lying words of falsehood fled away; the <i>G</i>ahi [^234], addicted to the Yâtu, fled away; the <span id="p45">[<sup><small>p. 45</small></sup>]</span> <i>G</i>ahi, who makes one pine [^235], fled away; the wind that blows from the North [^236] fled away; the wind that blows from the North vanished away.
+9\. 'The most lying words of falsehood fled away; the <i>G</i>ahi [^234], addicted to the Yâtu, fled away; the <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> <i>G</i>ahi, who makes one pine [^235], fled away; the wind that blows from the North [^236] fled away; the wind that blows from the North vanished away.
 
 10\. 'He it is who smites me that brood of the Snake, and who might smite those Daêvas by thousands of thousands, by ten thousands of ten thousands; he smites sickness, he smites death, he smites the Daêvas, he smites the Daêva's counter-work, he smites the unholy Ashemaogha, he smites the oppressor of men.
 
@@ -90,7 +90,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness [^222]. . . .
 
 14\. 'He exclaimed, did Angra Mainyu: "Woe is me! Here is the god Asha-Vahi<i>s</i>ta, who will smite the sickliest of all sicknesses, who will afflict the sickliest of all sicknesses;
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 ‘ "He will smite the deadliest of all deaths, he will afflict the deadliest of all deaths;
 
@@ -122,7 +122,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness [^222]. . . .
 
 16\. ' "He will smite the most lying words of falsehood, he will afflict the most lying words of falsehood;
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 ‘ "He will smite the <i>G</i>ahi, addicted to the Yâtu, he will afflict the <i>G</i>ahi, addicted to the Yâtu;
 
@@ -138,7 +138,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness [^222]. . . .
 
 19\. 'Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 ‘I bless the sacrifice and prayer and the strength and vigour of Asha-Vahi<i>s</i>ta, the fairest; of the much-desired Airyaman, made by Mazda; and of the good Saoka, with eyes of love, made by Mazda and holy [^246].
 

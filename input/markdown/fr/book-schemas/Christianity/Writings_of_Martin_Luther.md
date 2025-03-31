@@ -43,13 +43,13 @@ Grand Catéchisme | Large_Catechism
 		Grand Catéchisme — Article III. | Large_Catechism_2_3
 	Troisième partie. DE LA PRIÈRE. | #
 		Grand Catéchisme — Le Notre Père. | Large_Catechism_3_1
-		Grand Catéchisme — La première demande. | Large_Catechism_3_2#p1
-		Grand Catéchisme — La deuxième demande. | Large_Catechism_3_2#p2
-		Grand Catéchisme — La troisième demande. | Large_Catechism_3_2#p3
-		Grand Catéchisme — La quatrième demande. | Large_Catechism_3_2#p4
-		Grand Catéchisme — La cinquième demande. | Large_Catechism_3_2#p5
-		Grand Catéchisme — La sixième demande. | Large_Catechism_3_2#p6
-		Grand Catéchisme — La septième et dernière demande. | Large_Catechism_3_2#p7
+		Grand Catéchisme — La première demande. | Large_Catechism_3_1#p1
+		Grand Catéchisme — La deuxième demande. | Large_Catechism_3_1#p2
+		Grand Catéchisme — La troisième demande. | Large_Catechism_3_1#p3
+		Grand Catéchisme — La quatrième demande. | Large_Catechism_3_1#p4
+		Grand Catéchisme — La cinquième demande. | Large_Catechism_3_1#p5
+		Grand Catéchisme — La sixième demande. | Large_Catechism_3_1#p6
+		Grand Catéchisme — La septième et dernière demande. | Large_Catechism_3_1#p7
 	Grand Catéchisme — Quatrième partie. | Large_Catechism_4_0
 	Grand Catéchisme — [Cinquième partie.] | Large_Catechism_5_0
 	Grand Catéchisme — Conclusion | Large_Catechism_5_Conclusion

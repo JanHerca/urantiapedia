@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 8, SECTION 27.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. He erects the southern door-post with (the verse), ‘Here I erect a firm house; it stands in peace, streaming ghee. Thus may we walk in thee, O house, blessed with heroes, with all heroes, with unharmed heroes;’
 
-3\. The northern (door-post) with (the verse), ‘Stand here firmly, O house, rich in horses and cows, rich in delight; rich in sap, overflowing with milk be set up, for the sake of great happiness.’ <span id="p205">[<sup><small>p. 205</small></sup>]</span>
+3\. The northern (door-post) with (the verse), ‘Stand here firmly, O house, rich in horses and cows, rich in delight; rich in sap, overflowing with milk be set up, for the sake of great happiness.’ <span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 4\. [4](#fn640) With (the verse), ‘To thee (may) the young child (go), to thee the calf with its companion, to thee the golden cup; to thee may they go with pots of curds’—he touches the two posts, after they have been erected.
 
@@ -65,7 +65,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. [^642] The two verses commencing ‘Vâstoshpati!’ (Taitt. Sa<i>m</i>h. III, 4, 10, 1).
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 ‘Vâstoshpati! Be our furtherer; make our wealth increase in cows and horses, O Indu (i.e. Soma). Free from decay may we dwell in thy friendship; give us thy favour, as a father to his sons. Svâhâ!
 
@@ -87,7 +87,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. [^643] 'House, do not fear, do not tremble; bringing strength we come back. Bringing strength, gaining wealth, wise I come back to the house, rejoicing in my mind.
 
-‘Of which the traveller thinks, in which much joy <span id="p207">[<sup><small>p. 207</small></sup>]</span> dwells, the house I call. May it know us as we know it.
+‘Of which the traveller thinks, in which much joy <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> dwells, the house I call. May it know us as we know it.
 
 ‘Hither are called the cows; hither are called goats and sheep; and the sweet essence of food is called hither to our house.
 

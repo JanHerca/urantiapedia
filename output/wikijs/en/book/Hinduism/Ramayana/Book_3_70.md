@@ -108,7 +108,7 @@ And free me from this load of woe.
 O Palm, in rich ripe fruitage dressed
 Round as the beauties of her breast,
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 If thou have heart to know and feel,
 My peerless consort's fate reveal.
@@ -233,7 +233,7 @@ Wept for the wife he vainly sought.
 And Lakshman whose fraternal breast
 Longed for his weal, the chief addressed
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Whose soul gave way beneath the pain
 When all his eager search was vain.
@@ -355,7 +355,7 @@ But ne'er can I return to see
 Those chambers where my queen should be
 And hear the scornful people speak
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 Of Ráma as a coward weak.
 For mine will be the coward's shame
@@ -480,7 +480,7 @@ Nor has my darling, lotus-eyed,
 Sought lilies by the river's side,
 For without me she ne'er would go
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 To streamlets where the wild flowers grow,
 Tell me not, brother, she has strayed
@@ -601,7 +601,7 @@ Then as again his sorrow woke
 Thus to his brother chief he spoke:
 ‘Those deer thy eager question heard
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 And rose at once by pity stirred:
 See, in thy search their aid they lend,
@@ -725,7 +725,7 @@ Creator when compassionate.
 And so, I ween, the Immortals turn
 Cold eyes upon me now, and spurn
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 The weakling prompt at pity's call,
 Devoted to the good of all.
@@ -844,7 +844,7 @@ Nor who the chiefs who met and fought,
 Nor what the prize the foemen sought;
 Who marked the ground with hoof and wheel,
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 Or whose the hand that plied the steel
 Which left this spot, the battle o'er,
@@ -966,7 +966,7 @@ And call to vigorous life again.
 Be manly godlike vigour shown;
 Put forth that noblest strength, thine own.
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 Strive, best of old Ikshváku's strain,
 Strive till the conquered foe be slain.
@@ -1090,7 +1090,7 @@ The vulture, in my fate enwound,
 Lies bleeding, dying on the ground.’
 &nbsp;&nbsp;&nbsp;&nbsp;Then Ráma and his brother stirred
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 By pity mourned the royal bird,
 And, as their hands his limbs caressed,
@@ -1210,7 +1210,7 @@ So was this royal bird revered.
 Bring fuel for the funeral site:
 These hands the solemn fire shall light
 
-<span id="p310">[<sup><small>p. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 And on the burning pyre shall lay
 The bird who died for me to-day.
@@ -1329,7 +1329,7 @@ The prince in words like these addressed:
 ‘Behold thy treasure fond and fair:
 Ayomukhi  [^517] the name I bear.
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 In thickets of each lofty hill,
 On islets of each brook and rill,
@@ -1450,7 +1450,7 @@ Declare by what occasion led
 These solitary wilds you tread,
 With swords and bows and shafts to pierce,
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 Like bulls whose horns are strong and fierce.
 Why have you sought this forest land

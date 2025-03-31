@@ -43,7 +43,7 @@ _E.T.N._—W. G. Aston’s English translation of the _Nihongi_
 _E.T.K._—B. H. Chamberlain’s English translation of the _Kojiki_
 _T.A.S.J._—_Transactions of the Asiatic Society of Japan_
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## CHAPTER l
 
@@ -65,7 +65,7 @@ Only those shrines which were closely related to the Nakatomi family enjoyed spe
 
 In substance the _Kogoshūi_ is chiefly a protest written by Imbe-no-Hironari against a rival family. Hence, one naturally presumes that the work breathes a spirit of rivalry and jealousy, p. 4 and in some respects this is an undeniable fact. For example, in the _Kogoshūi_ the part taken by Takami-Musubi-no-Kami is fairly prominent in the issue of Divine Commands in High Heaven together with Amaterasu-Ō-Mikami, whereas the _Nihongi_ directs those commands to Amaterasu-Ō-Mikami alone. Why is this? Because Takami-Musubi-no-Kami being regarded as the divine ancestor of the Imbe family, it is reasonable to suppose that Imbe-no-Hironari desired to claim the same high position for his own divine ancestor Takami-Musubi-no-Kami as that of the Divine Imperial Ancestress Amaterasu-Ō-Mikami herself. Therefore, Nasa (or Kusakabe-Katsutaka) published his contradiction of the _Kogoshūi_ account styling his book _Gisai_ or _My Inability to Agree with Imbe-no-Hironari_ (_i.e._, briefly, _Kusakabe’s Critique on Imbe-no-Hironari’s Kogoshūi_). At the same time one must remember that the _Kogoshūi_ records a tradition specially transmitted to and preserved by the Imbe family, just as the _Nihongi_ preserves various traditions as different versions of one and the same event, and so one may reasonably conclude that the value of the _Kogoshūi_ is equal to that of the family records preserved by the Takahashi family, the Hata family,[^1] and so forth. From this standpoint, it appears that Moto-Ori and Hirata greatly sympathize with Imbe-no-Hironari’s attitude and are against the author Kusakabe (_Vide_ Moto-Ori, The _Gisai-Ben_. The _Collected Works_, Japanese edition, vol. v, pp. 1445-1447).
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 ## CHAPTER III
 
@@ -153,10 +153,10 @@ The opening of the 9th century was a time when Chinese culture gained great infl
 
 ## Footnotes
 
-[^1]: For example, the _Takahashi-Ujibumi_, the _Hata-Uji-no-Honkeichō_, _etc_. <span id="p4">[<sup><small>p. 4</small></sup>]</span>
+[^1]: For example, the _Takahashi-Ujibumi_, the _Hata-Uji-no-Honkeichō_, _etc_. <span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
-[^2]: _Eurya Ochnacea Szyse_ (_Cleyera Japonica_). This tree is still revered as sacred to the Gods of Shintō. Some commentators opine that “sakaki” was a name originally given to all evergreens. <span id="p7">[<sup><small>p. 7</small></sup>]</span>
+[^2]: _Eurya Ochnacea Szyse_ (_Cleyera Japonica_). This tree is still revered as sacred to the Gods of Shintō. Some commentators opine that “sakaki” was a name originally given to all evergreens. <span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
-[^3]: _Vide_ W. G. Aston. _E.T.N._, vol. I. pp. 43, 44. <span id="p8">[<sup><small>p. 8</small></sup>]</span>
+[^3]: _Vide_ W. G. Aston. _E.T.N._, vol. I. pp. 43, 44. <span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 [^4]: Amatsu-Kami-no-Yogoto otherwise called “Nakatomi-no-Yogoto” or “Congratulatory Address by the Nakatomi Family” (_Vide_ Fujiwara-no-Yorinaga’s Diary, called “Taiki-Bekki” in the Japanese edition).

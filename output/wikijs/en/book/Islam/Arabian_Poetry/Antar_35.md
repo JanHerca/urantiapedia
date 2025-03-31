@@ -38,7 +38,7 @@ Shortly before the appointed day of Abla's bridal, Antar arrived in the neighbou
 
 Fawn of the huntsman, thy captor is come: say not he is not come; to! here he is—certain are all thy hopes!—rejoice in the aid of the sword of thy hero!
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Understand the tale I tell thee: how long wilt thou delay? Joy is now descending on thy home, and will ever endure, summer and winter.
 
@@ -50,7 +50,7 @@ All my sorrows and griefs have vanished. My joy depends on thee, O Chief! Approa
 
 “When Shiboob heard these words, he pretended being tired, and sat down near the tent. Just at that time Abla also appeared and looked at him, and, as he was dressed in woman's clothes—‘This damsel cannot be a Kendeyan maid,’ she said: ‘she must be a damsel of Shedad's’.” Then went pit-a-pat Shiboob's heart; but he turned towards her, and calmed her mind, and uncovered his face. She recognised him. ‘O Shiboob!’ said she, ‘where is my cousin Antar?’—‘Here he is,’ replied Shiboob, ‘hard by; and with him his friend Oorwah, and a hundred horsemen. We arrived here last night, and I am come to procure intelligence of you: I shall return and inform him.’—‘Shiboob,’ said she, ‘there are still three days for the marriage with Mas-hil, son of Tarak; but let that rather be the means of separation. Return immediately and tell him my situation; but let him not think of assaulting the tribe; he must lie in wait for me till I set out: then let him rush forth, and slay all that are with me. Do you seize the bridle of my camel, and we will return to our native land. All—all must taste of death; bid Antar not to spare even my father.’
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 “Shiboob, having heard this, returned to Antar, and related to him all that Abla had told him.”
 

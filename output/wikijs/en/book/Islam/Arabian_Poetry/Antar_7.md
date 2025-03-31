@@ -46,7 +46,7 @@ The sun, as it sets, turns towards her, and says: Darkness obscures the land—d
 
 The tamarisk trees complain of her in the morn and the eve, and say: Away, thou waning beauty, thou form of the laurel!
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 She turns away abashed, and throws aside her veil, and the roses are scattered from her soft fresh cheeks.
 
@@ -68,7 +68,7 @@ Will fortune ever, O daughter of Malik! ever bless me with thy embrace, that wou
 
 If my eye could see her baggage-camels, and her family, I would rub my cheeks on the hoofs of her camels. I will kiss the earth where thou art; mayhap the fire of my love and ecstacy may be quenched.
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 Shall thou and I ever meet as formerly on Mount Saadi? or will the messenger come from thee to announce thy meeting? or will he relate that thou art in the land of Nejd?
 

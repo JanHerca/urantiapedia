@@ -128,7 +128,7 @@ satyasyâtmâ, vidyuta âtmâ, te<i>g</i>asa âtmâ.
 
 3\. Bâlâki said: ‘The person that is in the sun, on him I meditate (as Brahman).’
 
-A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! do not challenge me (to a disputation) on this [^757]. I meditate on him who is called great, clad in white raiment [^758], the supreme, the head of all beings. Whoso meditates <span id="p303">[<sup><small>p. 303</small></sup>]</span> on him thus, becomes supreme, and the head of all beings.’
+A<i>g</i>âta<i>s</i>atru said to him: ‘No, no! do not challenge me (to a disputation) on this [^757]. I meditate on him who is called great, clad in white raiment [^758], the supreme, the head of all beings. Whoso meditates <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> on him thus, becomes supreme, and the head of all beings.’
 
 4\. Bâlâki said: ‘The person that is in the moon, on him I meditate.’
 
@@ -148,7 +148,7 @@ A<i>g</i>âta<i>s</i>atru said to him: ‘Do not challenge me on this. I meditat
 
 8\. Bâlâki said: ‘The person that is in the air, on him I meditate.’
 
-A<i>g</i>âta<i>s</i>atru said to him: ‘Do not challenge me on this. I meditate on him as Indra Vaiku<i>n</i><i>th</i>a, as the unconquerable army. Whoso meditates on him thus, becomes victorious, unconquerable, conquering his enemies.’ <span id="p304">[<sup><small>p. 304</small></sup>]</span> 9\. Bâlâki said: ‘The person that is in the fire, on him I meditate.’
+A<i>g</i>âta<i>s</i>atru said to him: ‘Do not challenge me on this. I meditate on him as Indra Vaiku<i>n</i><i>th</i>a, as the unconquerable army. Whoso meditates on him thus, becomes victorious, unconquerable, conquering his enemies.’ <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 9\. Bâlâki said: ‘The person that is in the fire, on him I meditate.’
 
 A<i>g</i>âta<i>s</i>atru said to him: ‘Do not challenge me on this. I meditate on him as powerful. Whoso meditates on him thus, becomes powerful among others [^760].’
 
@@ -166,7 +166,7 @@ A<i>g</i>âta<i>s</i>atru said to him: 'Do not challenge me on this. I meditate 
 
 Bâlâki said: 'The sound that follows a man, on that I meditate.
 
-A<i>g</i>âta<i>s</i>atru said to him: ‘Do not challenge me on <span id="p305">[<sup><small>p. 305</small></sup>]</span> this. I meditate on him as life. Whoso meditates on him thus, neither he himself nor his offspring will faint before the time.’
+A<i>g</i>âta<i>s</i>atru said to him: ‘Do not challenge me on <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> this. I meditate on him as life. Whoso meditates on him thus, neither he himself nor his offspring will faint before the time.’
 
 14\. Bâlâki said: ‘The person that is in the shadow, on him I meditate.’
 
@@ -186,7 +186,7 @@ A<i>g</i>âta<i>s</i>atru said to him: ‘Do not challenge me on this. I meditat
 
 18\. Bâlâki said The person that is in the left eye, on him I meditate.’
 
-A<i>g</i>âta<i>s</i>atru said to him: ‘Do not challenge me on this. I meditate on him as the self of the true, as the self of lightning, as the self of light. Whoso <span id="p306">[<sup><small>p. 306</small></sup>]</span> meditates on him thus, he becomes the self of these.’
+A<i>g</i>âta<i>s</i>atru said to him: ‘Do not challenge me on this. I meditate on him as the self of the true, as the self of lightning, as the self of light. Whoso <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> meditates on him thus, he becomes the self of these.’
 
 19\. After this Bâlâki became silent. A<i>g</i>âta<i>s</i>atru said to him: ‘Thus far only (do you know), O Bâlâki?’ ‘Thus far only,’ replied Bâlâki.
 
@@ -196,7 +196,7 @@ Thereupon Bâlâki came, carrying fuel in his hand, saying: ‘May I come to you
 
 20\. And A<i>g</i>âta<i>s</i>atru said to him: 'Where this person here slept, where he was, whence he thus came back, is this: The arteries of the heart called Hita extend from the heart of the person towards the surrounding body. Small as a hair divided a thousand times, they stand full of a thin fluid of various colours, white, black, yellow, red. In these the person is when sleeping he sees no dream.
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 Then he becomes one with that prâ<i>n</i>a alone. Then speech goes to him with all names, the eye with all forms, the car with all sounds, the mind with all thoughts. And when he awakes, then, as from a burning fire, sparks proceed in all directions, thus from that self the prâ<i>n</i>as (speech, &c.) proceed, each towards its place, from the prâ<i>n</i>as the gods, from the gods the worlds. And as a razor might be fitted in a razor-case, or as fire in the fire-place (the ara<i>n</i>i on the altar), even thus this conscious self enters the self of the body (considers the body as himself) to the very hairs and nails. And the other selfs (such as speech, &c.) follow that self, as his people follow the master of the house. And as the master feeds with his people, nay, as his people feed on the master, thus does this conscious self feed with the other selfs, as a master with his people, and the other selfs follow him, as his people follow the master. So long as Indra did not understand that self, the Asuras conquered him. When he understood it, he conquered the Asuras and obtained the pre-eminence among all gods, sovereignty, supremacy. And thus also he who knows this obtains pre-eminence among all beings, sovereignty, supremacy,—yea, he who knows this.
 

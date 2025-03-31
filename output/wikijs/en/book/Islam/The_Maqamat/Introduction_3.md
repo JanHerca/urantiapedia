@@ -41,7 +41,7 @@ MAQAMA, plural Maqámát, from … he stood, primarily signifies an occasion of 
 
 (3) Come near and eat, or, if thou wilt, stand and speak. [^62]
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 The practice of standing to speak goes back to Homeric times:—
 
@@ -67,7 +67,7 @@ And councils where words are followed by deeds. [^67]
 Concerning every battlefield and in every _maqáma_ (situation);
 Which obtain from poetry covenants and contracts. [^68]
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 …
 Of many a _maqáma_\—speech—whose weapons have rendered other people's talk weak, wherein there are waves of language which cannot be cleared away,
@@ -96,7 +96,7 @@ Solitary ones who have not heard the barking of the dogs of _maqáma_\—a compa
  [^74] …
 Maqáma = Majlis, a company of people.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 (6) By Hamadhání:—
 

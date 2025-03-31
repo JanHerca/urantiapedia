@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:54:6Z
 
 THIRD CHAPTER.
 
-If a monk who abstains from actions, suffers pain (for acts done) through ignorance, that Karman will <span id="p258">[<sup><small>p. 258</small></sup>]</span> be annihilated through control. The wise reach (perfection) getting rid of death. (1)
+If a monk who abstains from actions, suffers pain (for acts done) through ignorance, that Karman will <span id="p258"><sup><small>[ p. 258 ]</small></sup></span> be annihilated through control. The wise reach (perfection) getting rid of death. (1)
 
 Those who resist the seductions [^755] are placed on a line with those who have crossed the Sa<i>m</i>sâra. Therefore look up (at beatitude as the end in view). Those (virtuous men) regard pleasures as equal to diseases. (2)
 
@@ -48,7 +48,7 @@ So he who knows the pursuit of pleasures, must sooner or later give up their enj
 
 Lest the lot of the wicked should fall to you, escape (the influence of the senses), and discipline yourself! The wicked will much and strongly grieve, groan, and wail. (7)
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 See, life in this world (is transient); though your life lasts a hundred years, you die as a short-lived man; mind that (your) years swiftly pass. Nevertheless greedy men are attached to pleasures. (8)
 
@@ -64,7 +64,7 @@ The man also who still lives in the house, should, in accordance with his creed 
 
 Being instructed in the creed of the Lord, exert yourself in the truth (i.e. in control)! A monk who has thoroughly subdued his selfishness should collect pure alms. (14)
 
-Knowing the truth, one should live up to it, <span id="p260">[<sup><small>p. 260</small></sup>]</span> seeking the Law, earnest in the performance of austerities, possessing the Guptis, being accomplished, one should always exert oneself, intent on the soul's benefit, and desiring the highest good (viz. liberation). (15)
+Knowing the truth, one should live up to it, <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> seeking the Law, earnest in the performance of austerities, possessing the Guptis, being accomplished, one should always exert oneself, intent on the soul's benefit, and desiring the highest good (viz. liberation). (15)
 
 The fool thinks that his wealth, cattle, and relations will save him; they him, or he them. But they are no help, no protection. (16)
 
@@ -76,7 +76,7 @@ He should know that the present time is the best opportunity to mend, and that a
 
 O ye monks, the virtuous (<i>G</i>inas) that have been and will be, the followers of the Law of Kâ<i>s</i>yapa [^763], they all have commended these virtues. (20)
 
-Do not kill living beings in the threefold way [^764], being intent on your spiritual welfare and abstaining from sins. In this way numberless men have reached <span id="p261">[<sup><small>p. 261</small></sup>]</span> perfection, and others, who live now, and who are to come, (will reach it). (21)
+Do not kill living beings in the threefold way [^764], being intent on your spiritual welfare and abstaining from sins. In this way numberless men have reached <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> perfection, and others, who live now, and who are to come, (will reach it). (21)
 
 Thus spoke the Arhat G<i>ñ</i>ât<i>ri</i>putra, the reverend, famous native of Vai<i>s</i>âlî [^765], who possessed the highest knowledge and the highest faith, who possessed (simultaneously) the highest knowledge and faith.
 

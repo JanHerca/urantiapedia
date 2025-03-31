@@ -38,7 +38,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 **T**. VII. 2. He that seeth idolatry says: Blessed be He who is slow to anger. \[He that seeth\] a place from which idolatry was uprooted says: Blessed be He who hath uprooted idolatry from our land; may it be pleasing in Thy sight, O LORD our God, that idolatry be uprooted from our land, and from all places in Israel, and mayest Thou turn the hearts of them that worship idols to worship Thee.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 **T**.
 
@@ -48,7 +48,7 @@ Ben Zoma saw hosts in the Temple area. He said: Blessed be He who created all th
 
 And so Ben Zoma used to say: “What does a good guest say? Remember the landlord for good! How many kinds of wine hath he brought before us! How many kinds of portions of meat hath he brought before us! How many kinds of fine bread hath he brought before us! All that he did, he did only for my sake. But what does an evil guest say? Well, what have I eaten of his? One bit of bread have I eaten of his; one portion of meat have I eaten of his; one cup have I drunk of his; all that he did, he did only for the sake of his wife and his children. And so it says ”_Remember that thou magnify His work, whereof men have sung_." [^453]
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 <a id="m2"></a>
 
@@ -56,7 +56,7 @@ And so Ben Zoma used to say: “What does a good guest say? Remember the landlor
 
 _M_. IX. 2. At [^454] shooting stars, [^455] and at earthquakes, and at lightnings, and at thunder, and at wind(s), one says: “Blessed be He whose power filleth the world.” At mountains and hills, at seas and rivers and at deserts, he says: “Blessed be the Maker of the works of creation.” R. Judah says: He who sees the Great Sea [^456] says: “Blessed be He who made the Great Sea.” \[This he says\] when he sees it at intervals. [^457] At rains, and at good tidings, he says: “Blessed be the Good and the Doer of good,” and at ill reports he says “Blessed be He who judgeth in truth.”
 
-**T**. VII. 1. The Benediction in the invitation [^458] is derived from the Law, for it is said: “_And thou shalt eat and be full, and thou shalt bless_” [^459]—this is the Benediction in the invitation; “_the LORD thy God_”—this is the first Benediction; “_for the. . . land_”—this is the Benediction for the land; “_good_” this is \[the Benediction for\] Jerusalem; and so it says: “_this goodly mountain, and Lebanon_.” [^460] “_Which he hath given thee_,” [^461]—this is \[the Benediction\] “who art Good and doest good.” Whence do we learn that just as thou blessest Him after it (_i.e._ the meal), so thou blessest Him before it? It is expressly said: “_which he gave thee_,” _i.e._ from the <span id="p77">[<sup><small>p. 77</small></sup>]</span> time that He is giving it thee and whence \[do we learn that we bless Him\] even for the mountains and for the hills? [^462] It is expressly said: “_for the land_.” Whence even for the Law and even for the commandments? It is expressly said: “_Who gave thee_,” and in another place he says: “_And I will give thee the tables of stone_.” [^463] R. Meir says: Whence \[do we learn that\] just as thou sayest a Benediction over what is good, so thou sayest a Benediction over what is evil. It is expressly said: “_Which the LORD thy God gave thee_,” [^464]—“thy God” means “thy Judge,” in every judgment which He adjudges thee, whether for good or for punishment.
+**T**. VII. 1. The Benediction in the invitation [^458] is derived from the Law, for it is said: “_And thou shalt eat and be full, and thou shalt bless_” [^459]—this is the Benediction in the invitation; “_the LORD thy God_”—this is the first Benediction; “_for the. . . land_”—this is the Benediction for the land; “_good_” this is \[the Benediction for\] Jerusalem; and so it says: “_this goodly mountain, and Lebanon_.” [^460] “_Which he hath given thee_,” [^461]—this is \[the Benediction\] “who art Good and doest good.” Whence do we learn that just as thou blessest Him after it (_i.e._ the meal), so thou blessest Him before it? It is expressly said: “_which he gave thee_,” _i.e._ from the <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> time that He is giving it thee and whence \[do we learn that we bless Him\] even for the mountains and for the hills? [^462] It is expressly said: “_for the land_.” Whence even for the Law and even for the commandments? It is expressly said: “_Who gave thee_,” and in another place he says: “_And I will give thee the tables of stone_.” [^463] R. Meir says: Whence \[do we learn that\] just as thou sayest a Benediction over what is good, so thou sayest a Benediction over what is evil. It is expressly said: “_Which the LORD thy God gave thee_,” [^464]—“thy God” means “thy Judge,” in every judgment which He adjudges thee, whether for good or for punishment.
 
 3\. He who sees a negro, or a man with red spots, or one with white spots, or a humpback, or a dwarf, says: “Blessed be He who makes creatures different.” \[He who sees\] one who has lost a limb, or a lame man, or a blind man, or one afflicted with boils, says: “Blessed be He that judgeth in truth.”
 
@@ -66,7 +66,7 @@ _M_. IX. 2. At [^454] shooting stars, [^455] and at earthquakes, and at lightnin
 
 6\. If one walks in a burial-ground one says: “Blessed be He who knows the number of you all; He will judge you; He will raise you up; Blessed be He who is faithful in His word, restoring the dead to life.”
 
-He who sees the sun, and the moon, and the stars, and the planets, says: “Blessed be He who maketh the things of Creation.” R. Judah says: <span id="p78">[<sup><small>p. 78</small></sup>]</span> He who says a Benediction over the sun—lo, this is another way. [^467] And so R. Judah used to say: “He who seeth the sea continually, and any change takes place in it, must say a Benediction.” [^468]
+He who sees the sun, and the moon, and the stars, and the planets, says: “Blessed be He who maketh the things of Creation.” R. Judah says: <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> He who says a Benediction over the sun—lo, this is another way. [^467] And so R. Judah used to say: “He who seeth the sea continually, and any change takes place in it, must say a Benediction.” [^468]
 
 <a id="m3"></a>
 
@@ -82,13 +82,13 @@ He who sees the sun, and the moon, and the stars, and the planets, says: “Bles
 
 5\. (3 _cont_.). How so? If his wife is with child and he says: “May it be Thy pleasure that my wife bears a male child”—lo, this is a prayer in vain. [^473] Or if he is on a journey, and hears shrieks in the city, and says: “May it be Thy pleasure that these be not in my house”—lo, this is a prayer in vain. [^474]
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 **T**.
 
 T. VII. 7. R. Meir used to say: Behold, it says, “_And thou shalt love the LORD thy God with all thy heart_,” [^475] etc.—with thy two natures, with thy good nature and with thy evil nature. “_With all thy soul_,”—even when He takes away thy soul. Another explanation is: “With all thy soul,” with [^476] the soul which He created in thee, for it is said: “_Let my soul live, and it shall praise Thee_.” [^477] And it says: “_All my bones shall say, LORD, who is like unto Thee?_” [^478] Ben Azzai says: “With all thy soul,”—Give thy soul to His commandments. There are words which are foolish prayers. [^479] How so? A man gathers a hundred _kors_, [^480] and says, May it be Thy good pleasure that they be two hundred. A man collects a hundred flasks [^481] and says: May it be Thy good pleasure that they be two hundred. Behold this is a prayer in vain. But he ought to pray that a blessing be gathered with them, and not a curse.
 
-8\. R. Dosethai bar Jannai, [^482] says in the name of R. Meir: Behold, He saith in \[the passage about\] Isaac: [^483] “_And I will bless thee, and will multiply thy seed_.” [^484] Isaac expounded the words and said: Seeing that no blessing rests on one save by the work of one's hands—he arose and sowed. [^485] For <span id="p80">[<sup><small>p. 80</small></sup>]</span> it is said: “_And Isaac sowed in that land, and found in that year a hundred measures_,” etc., and a hundred quantities. [^486] A hundred measures, for they measured them a hundred times, for each one there was a hundred in what they measured. [^487]
+8\. R. Dosethai bar Jannai, [^482] says in the name of R. Meir: Behold, He saith in \[the passage about\] Isaac: [^483] “_And I will bless thee, and will multiply thy seed_.” [^484] Isaac expounded the words and said: Seeing that no blessing rests on one save by the work of one's hands—he arose and sowed. [^485] For <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> it is said: “_And Isaac sowed in that land, and found in that year a hundred measures_,” etc., and a hundred quantities. [^486] A hundred measures, for they measured them a hundred times, for each one there was a hundred in what they measured. [^487]
 
 9\. He who performs any commandment must say a Benediction. He who makes himself a _sukkah_ [^488] says: “Blessed be He who enabled us to reach this season.” [^489] When he enters in to dwell in it he says: “Blessed be He who sanctified us by His commandments, and commanded us to dwell in a _sukkah_.” And when he has said the Benediction over it on the first day, he need not say the Benediction again.
 
@@ -96,7 +96,7 @@ T. VII. 7. R. Meir used to say: Behold, it says, “_And thou shalt love the LOR
 
 He that makes for himself _Tsitsith_ [^491] says: “Blessed be He who brought us to this time,” when he wraps himself in (the shawl on which they are) he says: “to wrap oneself in Tsitsith.”
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 **T**.
 
@@ -112,7 +112,7 @@ The father of the boy needs a Benediction for himself: “Blessed be He who sanc
 
 And they that stand by say: “As Thou hast made him enter the covenant, so mayest Thou make him enter the law and the marriage canopy.”
 
-13\. He who says the Benediction [^496] says: "He who sanctified the beloved [^497] from the womb set a statute in his flesh; his offspring did He seal [^498] with the sign of the holy covenant. Therefore in reward for this did the living God, our Portion and our <span id="p82">[<sup><small>p. 82</small></sup>]</span> Rock, give commandment to deliver [^499] the beloved of our race for the sake of His covenant which He set in our flesh. Blessed be He who maketh the covenant!" [^500]
+13\. He who says the Benediction [^496] says: "He who sanctified the beloved [^497] from the womb set a statute in his flesh; his offspring did He seal [^498] with the sign of the holy covenant. Therefore in reward for this did the living God, our Portion and our <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> Rock, give commandment to deliver [^499] the beloved of our race for the sake of His covenant which He set in our flesh. Blessed be He who maketh the covenant!" [^500]
 
 14\. He who makes a journey to separate Contributions [^501] and Tithes says: “Blessed be He who sanctified us to separate Contribution and Tithes.” When does he begin to say the Benediction over them? At the moment that he separates them.
 
@@ -122,19 +122,19 @@ And they that stand by say: “As Thou hast made him enter the covenant, so maye
 
 ## On Praying when Entering and when Leaving a Town.
 
-**M**.IX. 6 (4). He that enters into a town prays two prayers—one on his entrance, and one on his exit. [4](Berakoth_3_9#fn_502) Ben Azzai [^503] says: Four, two on his entrance, and two on his exit. And one gives praise for <span id="p83">[<sup><small>p. 83</small></sup>]</span> what is past, and calleth out for what is about to come. [^504]
+**M**.IX. 6 (4). He that enters into a town prays two prayers—one on his entrance, and one on his exit. [4](Berakoth_3_9#fn_502) Ben Azzai [^503] says: Four, two on his entrance, and two on his exit. And one gives praise for <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> what is past, and calleth out for what is about to come. [^504]
 
 **T**.
 
 **T**. VII. 16. He that entereth into a town prays two prayers, one on his entrance and one on his exit. Ben Azzai says, Four; two on his entrance and two on his exit. What does he say on his entrance? “May it be pleasing before Thee, O LORD our God, that Thou wilt cause me to enter this town in peace.” If he has entered in peace he says: “I acknowledge [^505] before Thee that Thou hast caused me to enter in peace. May it be pleasing before Thee, O LORD my God, that Thou wilt bring me out of this town in peace.” If he has gone out in peace he says: “I acknowledge before Thee, O LORD my God, that Thou hast brought me out of this town in peace, and even as Thou hast brought me out in peace so mayest Thou cause me to walk in peace and mayest uphold me in peace until I reach my home in peace.”
 
-17\. He that entereth into a \[public\] bath [^506] prays two prayers, one when he enters and one when he goes out. When he enters he says: "May it be pleasing before Thee, O LORD my God, that Thou wilt cause me to enter in peace, and wilt bring me out in peace And let no mischief happen to me, [^507] and if any mischief happen to me let my death be <span id="p84">[<sup><small>p. 84</small></sup>]</span> an atonement  [^508] for all my iniquities, and deliver Thou me from this and all like it in the future that is to come.“ [^509] If he has gone out in peace he says: ”I acknowledge before Thee, O LORD my God, that Thou hast brought me out in peace. Even so may it be pleasing before Thee, [^510] O LORD my God, that I may come to my home in peace.”
+17\. He that entereth into a \[public\] bath [^506] prays two prayers, one when he enters and one when he goes out. When he enters he says: "May it be pleasing before Thee, O LORD my God, that Thou wilt cause me to enter in peace, and wilt bring me out in peace And let no mischief happen to me, [^507] and if any mischief happen to me let my death be <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> an atonement  [^508] for all my iniquities, and deliver Thou me from this and all like it in the future that is to come.“ [^509] If he has gone out in peace he says: ”I acknowledge before Thee, O LORD my God, that Thou hast brought me out in peace. Even so may it be pleasing before Thee, [^510] O LORD my God, that I may come to my home in peace.”
 
 18\. R. Judah says: There are three Benedictions which one must say every day: “Blessed be He who did not make me a Gentile”; “Blessed be He who did not make me a woman”; “Blessed be He who did not make me an uneducated man.” [^511] Blessed be He who did not make me a Gentile—“_All the nations_ (Gentiles) _are as nothing before Him_.” [^512] Blessed be He who did not make me a woman—for a woman is under no obligation to keep the commandments. [^513] Blessed be He who did not make me an uneducated person—for no uneducated person fears sin. [^514]
 
 They say in parables, To what is the matter like? To a king of flesh and blood who told his servant to boil him some broth, though he had never boiled him broth in his life. The result was he burnt the broth and provoked his master. \[He told him\] to make him a fold to his shirt, though he had never made him a fold to a shirt in his life.
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 The result was that he soiled the shirt, and _T_. provoked his master. [^515]
 
@@ -150,7 +150,7 @@ The result was that he soiled the shirt, and _T_. provoked his master. [^515]
 
 8_a_ (5_b_). A man must not behave irreverently when opposite the eastern gate, [^520] for it is set opposite the Most Holy Sanctuary. He must not enter the Temple area with his staff, and his
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 **M**.shoe(s), [1](Berakoth_3_9#fn_521) and with his purse, and with the dust on his feet. [2](Berakoth_3_9#fn_522) Nor should he make it a short cut, [3](Berakoth_3_9#fn_523) much less spit there. What of wearing shoes? For this is out of respect; it is forbidden to enter with them. And spitting? For this comes from contempt. It is the regulation. [4](Berakoth_3_9#fn_524)
 
@@ -162,13 +162,13 @@ The result was that he soiled the shirt, and _T_. provoked his master. [^515]
 
 ## The Closing Words of the Benedictions.
 
-**M**.IX. 8_b_ (5_c_). All the “seals” [^529] of the Benedictions which were in the Temple were \[_i.e._ were closed <span id="p87">[<sup><small>p. 87</small></sup>]</span> with\] “from ever.” [^530] (But) from the time that the Heretics [^531] spoiled things, and said, “There is no world save one,” they ordered that \[men\] should say: “from ever to ever.” [^532]
+**M**.IX. 8_b_ (5_c_). All the “seals” [^529] of the Benedictions which were in the Temple were \[_i.e._ were closed <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> with\] “from ever.” [^530] (But) from the time that the Heretics [^531] spoiled things, and said, “There is no world save one,” they ordered that \[men\] should say: “from ever to ever.” [^532]
 
 **T**. VII. 21. All the “seals” of the Benedictions which were said in the Temple were “to everlasting.” From the time that the Heretics \[_minim_\] spoiled things, and said, There is no world save one, they ordained that men should say, “from everlasting and to everlasting,” and \[so\] acknowledge that this world is when compared to the world to come only like the vestibule in front of the dining-hall. [^533]
 
 22\. They did not answer “Amen” in the Temple. And whence do we know that they did not answer “Amen” in the Temple? Because it is said: “_Stand up and bless the LORD your God from ever to ever_;” [^534] and it says \[then\] “_And let them bless thy glorious name, which is exalted above all blessing and praise_,” above every single Blessing and above every single \[ascription of\] praise. [^535]
 
-20\. He that openeth \[his Benediction\] with Yôd, Hê, [^536] and closeth [^537] with Yôd, Hê—behold, this is a wise man, \[He that openeth\] with the Aleph but <span id="p88">[<sup><small>p. 88</small></sup>]</span> not with Daleth, [^538] and closeth with Yôd, Hê—behold, this is a middling man. \[He that openeth\] with Yôd, Hê, and closeth with Aleph but not with Daleth—behold, this is an uneducated man. \[He that openeth\] with Aleph but not with Daleth, and closeth with Aleph but not with Daleth—behold, this is another Way \[altogether\]. [^539]
+20\. He that openeth \[his Benediction\] with Yôd, Hê, [^536] and closeth [^537] with Yôd, Hê—behold, this is a wise man, \[He that openeth\] with the Aleph but <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> not with Daleth, [^538] and closeth with Yôd, Hê—behold, this is a middling man. \[He that openeth\] with Yôd, Hê, and closeth with Aleph but not with Daleth—behold, this is an uneducated man. \[He that openeth\] with Aleph but not with Daleth, and closeth with Aleph but not with Daleth—behold, this is another Way \[altogether\]. [^539]
 
 <a id="m8c"></a>
 
@@ -176,7 +176,7 @@ The result was that he soiled the shirt, and _T_. provoked his master. [^515]
 
 **M**.IX. 8_c_ (5_d_). And they ordered that a man should salute his companion in the Name. [^540] For it is said: “_And, behold, Boaz came from Bethlehem, and said to the reapers: The LORD be with you, and they said to him: The LORD bless thee_.” [^541] And it says: “_The LORD be with thee, thou mighty man of valour_.” [^542] And it says: “_Despise not thy mother when she is old_.” [^543]° And it says: “_It is time to work for the LORD; they have made thy law void_.” [^544] R. Nathan says: They break Thy law, at a time when they work for the LORD. [^545]
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 **T**.
 
@@ -186,7 +186,7 @@ The result was that he soiled the shirt, and _T_. provoked his master. [^515]
 
 R. Meir used to say: Thou hast no man in Israel who is not performing a hundred commandments every day. He recites the Shma‘; he says Benedictions before it and after it; he eats his bread, and says a Benediction before it and after it; he prays the Eighteen Benedictions three times, and he does the rest of all the commandments and says Benedictions over them.
 
-25\. And so R. Meir used to say: Thou hast no man in Israel whom the commandments [^555] do not <span id="p90">[<sup><small>p. 90</small></sup>]</span> surround. _Tephillin_ are on his head; and _Tephillin_ on his arm; and a _Mezuzah_ on his door; and four _Tsitsith_ surround him. And concerning them said David: “_With seven a day do I praise thee, because of thy righteous judgments_.” [^556] When he entered into the public bath, circumcision was on his flesh, for it is said: “_For the Chief Musician; set to the Eighth. A Psalm of David_.” [^557] And it says, “_The angel of the LORD encampeth round about them that fear him, and delivereth them_.” [^558]
+25\. And so R. Meir used to say: Thou hast no man in Israel whom the commandments [^555] do not <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> surround. _Tephillin_ are on his head; and _Tephillin_ on his arm; and a _Mezuzah_ on his door; and four _Tsitsith_ surround him. And concerning them said David: “_With seven a day do I praise thee, because of thy righteous judgments_.” [^556] When he entered into the public bath, circumcision was on his flesh, for it is said: “_For the Chief Musician; set to the Eighth. A Psalm of David_.” [^557] And it says, “_The angel of the LORD encampeth round about them that fear him, and delivereth them_.” [^558]
 
 <figure class="table chapter-navigator">
   <table>

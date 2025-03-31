@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 1\. The son of Zoma said, “Who is wise? He who is willing to receive instruction from all men, as is said, ‘Than all my teachers.’ [^484] Who is mighty? He who subdues his evil imagination, as is said, ‘_He that is_ slow to anger is better than the mighty, and he that ruleth his spirit than he that taketh a city.’ [^485] Who is rich? He who rejoices in his lot, as is said, ‘For thou shalt eat the labour of thine hands, happy shalt thou be and it shall be well with thee;’ [^486] happy shalt thou be in this world, and it shall be well with thee in the world to come. Who is honourable? He who honours mankind, as is said, ‘For them that honour me I will honour, and they that despise me shall be lightly esteemed.’” [^487]
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 4\. Rabbi Levitas of Jabneh said, “be very humble of spirit, as all the hope of man is to be food for worms.” Rabbi Johanan, son of Beroka, said, “whosoever profanes God's name in secret, will be punished publicly, whether it be, done ignorantly or presumptuously, it is all one in the profanation of God's name.”
 
-5\. Rabbi Ishmael, his son, said, “he who learns that he may be able to teach others, will be enabled to study and to teach others; but he who studies in order to perform the precepts, will be enabled to study, teach, observe, and do the commandments.” Rabbi Zadok said, “make not the study of the law subservient to thy aggrandizement, neither make a hatchet thereof to hew therewith.” And <span id="p229">[<sup><small>p. 229</small></sup>]</span> thus said Hillel, “whosoever receiveth any emolument from the words of the law deprives himself of life.”
+5\. Rabbi Ishmael, his son, said, “he who learns that he may be able to teach others, will be enabled to study and to teach others; but he who studies in order to perform the precepts, will be enabled to study, teach, observe, and do the commandments.” Rabbi Zadok said, “make not the study of the law subservient to thy aggrandizement, neither make a hatchet thereof to hew therewith.” And <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> thus said Hillel, “whosoever receiveth any emolument from the words of the law deprives himself of life.”
 
 6\. Rabbi José said, “he who honours the law, his person shall be honoured by mankind; and he who profanes the law, his person shall be dishonoured by mankind.”
 
@@ -58,7 +58,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 12\. Rabbi Eliezer, son of Shamua, said, “let the honour of thy disciple be as dear to thee as thine own, and the honour of thy companion as the fear of thy master, and the fear of thy master as the fear of God.”
 
-13\. Rabbi Judah said, “be careful in doctrine, for an error in doctrine is presumptuous sin.” Rabbi Simon said, <span id="p230">[<sup><small>p. 230</small></sup>]</span> “there are three crowns—the crown of the law, the crown of the priesthood, and the crown of monarchy, but the crown of a good name is better than all of them.”
+13\. Rabbi Judah said, “be careful in doctrine, for an error in doctrine is presumptuous sin.” Rabbi Simon said, <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> “there are three crowns—the crown of the law, the crown of the priesthood, and the crown of monarchy, but the crown of a good name is better than all of them.”
 
 14\. Rabbi Nehorai said, “flee to a place where the law is studied, and do not say that it will follow thee, for thy companions will establish it for thee, and lean not to thine own understanding.”
 
@@ -72,7 +72,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 19\. The younger Samuel used to say, “rejoice not when thine enemy falls, and let not thy heart be glad when he stumbles, lest the Lord see it and it be evil in His sight, and He turn His wrath from him.”
 
-20\. Elisha, son of Abuya, said, “he who teaches a child, is like to one who writes on clean paper; but he who teaches old people is like to one who writes on blotted paper.” Rabbi José, the son of Judah, of a village near Babylon said, “to what may he who learns the law from little children be likened? To one who eats unripe grapes and drinks new wine.” “And to what may he who learns the law from old men be likened? To one who eats ripe grapes and drinks old wine.” Rabbi Meier said, “look not at the <span id="p231">[<sup><small>p. 231</small></sup>]</span> flask, but that which is therein, for there are new flasks full of old wine, and old flasks which have not even new wine in them.”
+20\. Elisha, son of Abuya, said, “he who teaches a child, is like to one who writes on clean paper; but he who teaches old people is like to one who writes on blotted paper.” Rabbi José, the son of Judah, of a village near Babylon said, “to what may he who learns the law from little children be likened? To one who eats unripe grapes and drinks new wine.” “And to what may he who learns the law from old men be likened? To one who eats ripe grapes and drinks old wine.” Rabbi Meier said, “look not at the <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> flask, but that which is therein, for there are new flasks full of old wine, and old flasks which have not even new wine in them.”
 
 21\. Rabbi Eleazer Hakapher said, “envy, lust, and ambition take men out of the world.”
 

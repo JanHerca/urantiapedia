@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-1\. The boil and the burning cause uncleanness in one week with two marks, with white hair and with spreading. <span id="p284">[<sup><small>p. 284</small></sup>]</span> “What is a boil?” “If one receive a knock with wood, or. stone, or oil dregs, or the waters of Tiberias, everything which is not through fire. This is the boil.” “What is a burning?” “If one receive a burn from live coals, or hot ashes, everything which is from fire. This is the burning.”
+1\. The boil and the burning cause uncleanness in one week with two marks, with white hair and with spreading. <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> “What is a boil?” “If one receive a knock with wood, or. stone, or oil dregs, or the waters of Tiberias, everything which is not through fire. This is the boil.” “What is a burning?” “If one receive a burn from live coals, or hot ashes, everything which is from fire. This is the burning.”
 
 2\. The boil and the burning are not identified one with the other, and they do not spread from one to the other, and they do not spread in the skin of the flesh, and the skin of the flesh does not spread in them. “If they become a running sore?” “They are clean.” “If they form a skin like the peeling of garlic?” “This is the scab of the boil mentioned in the law.” “They are changed and healed even though in their place there be a scar?” “They are judged to be skin of flesh.”
 

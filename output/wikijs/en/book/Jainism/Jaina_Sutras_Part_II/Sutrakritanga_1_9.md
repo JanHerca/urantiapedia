@@ -44,7 +44,7 @@ After a man has done acts which cause the death of living beings, his pleasure-s
 
 ‘Mother, father, daughter-in-law, brother, wife, and sons will not be able to help me, when I suffer for my own deeds [^889].’ (5)
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Taking to heart this truth from which flow the most important truths, a monk, without property and without egoism, should follow the teaching of the <i>G</i>inas. (6)
 
@@ -60,7 +60,7 @@ Deceit [^891], greed [^892], anger [^893], and pride [^894]: combat these causes
 
 Washing, dyeing, making urine, evacuation of the bowels, vomiting, anointing of the eyes, and whatever is contrary to the rules of conduct [^895]: from all this a wise man should abstain. (12)
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 Perfumes, wreaths, bathing, cleansing of the teeth, property, actions referring to women: from all this a wise man should abstain. (13)
 
@@ -76,7 +76,7 @@ Shoes, an umbrella, dice, chowries, working for another, helping each other: fro
 
 A monk should not void his excrements or urine among plants; he should never rinse his mouth (even) with distilled water after having removed (everything endowed with life). (19)
 
-He should never eat or drink out of a householder's vessel; nor wear his clothes, especially if he <span id="p304">[<sup><small>p. 304</small></sup>]</span> is a naked monk: from all this a wise man should abstain. (20)
+He should never eat or drink out of a householder's vessel; nor wear his clothes, especially if he <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> is a naked monk: from all this a wise man should abstain. (20)
 
 A stool or bed or a seat in a house, asking of news and recollection (of past sports): from all this a wise man should abstain. (21)
 
@@ -90,7 +90,7 @@ In speaking (a monk) should use as few words as possible; he should not delight 
 
 One will repent of having used the third kind of speech [^900]; a secret should not be made known. This is the Nirgrantha's commandment. (26)
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 (A monk) should not call one names [^901], nor ‘friend,’ nor by his Gôtra; ‘thou, thou’ is vulgar; never address one by ‘thou!’ (27)
 
@@ -108,7 +108,7 @@ He should obey and serve a wise and pious teacher, (such teachers) as are heroes
 
 These men, who do not see the light (as it were) in domestic life, are the beloved of the people; these heroes, free from bondage, do not desire life. (34)
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 They do not long for sensual pleasures, they do not engage in works. All that (the heretics) always talk about, is opposed to the right faith. (35)
 

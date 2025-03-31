@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-08-13T14:02:03.086Z
 ---
 
-<span id="p501">[<sup><small>p. 501</small></sup>]</span>
+<span id="p501"><sup><small>[ p. 501 ]</small></sup></span>
 
 thority for the invasion of a new northern race, which may have been of the Teutonic type, as occurring before the close of Palaeolithic times. These were the people described above, migrating along the shores of the Baltic with a new northern Maglemose culture and crude naturalistic art.
 
@@ -18,7 +18,7 @@ The above outline of the beginnings of the Neolithic Age shows that the Palaeoli
 
 The rise of the spirit of man through the Old Stone Age cannot be traced continuously in a single race because the races were changing ; as at the present time, one race replaced another, or two races dwelt side by side. The sudden appearance in Europe at least 25,000 years ago of a human race with a high order of brain power and ability was not a leap forward but the effect of a long process of evolution elsewhere. When the prehistoric archaeology of eastern Europe and of Asia has been investigated we may obtain some light on this antecedent development.
 
-During this age the rudiments of all the modern economic powers of man were developed : the guidance of the hand by the mind, manifested in his creative industry ; his inventive faculty ; the currency or spread of his inventions; the adaptation of means to ends in utensils, in weapons, and in clothing. The same is true of the aesthetic powers, of close observation, of the sense of form, of proportion, of symmetry, the appreciation of beauty of animal form and the beauty of line, color, and form in modelling and sculpture. Finally, the schematic representation and notation of ideas so far as we can perceive was alphabetic rather than pictographic. ’ Of the musical sense we have at present no evidence. The religious sense, the appreciation of <span id="p502">[<sup><small>p. 502</small></sup>]</span> some power or powers behind the great phenomena of nature, is evidenced in the reverence for the dead, in burials apparently related to notions of a future existence of the dead, and especially in the mysteries of the art of the caverns.
+During this age the rudiments of all the modern economic powers of man were developed : the guidance of the hand by the mind, manifested in his creative industry ; his inventive faculty ; the currency or spread of his inventions; the adaptation of means to ends in utensils, in weapons, and in clothing. The same is true of the aesthetic powers, of close observation, of the sense of form, of proportion, of symmetry, the appreciation of beauty of animal form and the beauty of line, color, and form in modelling and sculpture. Finally, the schematic representation and notation of ideas so far as we can perceive was alphabetic rather than pictographic. ’ Of the musical sense we have at present no evidence. The religious sense, the appreciation of <span id="p502"><sup><small>[ p. 502 ]</small></sup></span> some power or powers behind the great phenomena of nature, is evidenced in the reverence for the dead, in burials apparently related to notions of a future existence of the dead, and especially in the mysteries of the art of the caverns.
 
 All these steps indicate the possession of certain generic faculties of mind similar to our own. That this mind of the Upper Palaeolithic races was of a kind capable of a high degree of education we entertain no doubt whatever because of the very advanced order of brain which is developed in the higher members of these ancient races ; in fact, it may be fairly assumed from experiences in the education of existing races of much lower brain capacity, such as the Eskimo or Fuegian. The emergence of such a mind from the mode of life of the Old Stone Age is one of the greatest mysteries of psychology and of history.
 
@@ -76,7 +76,7 @@ The rise and faU of cultures and of industries, which is at this very day the ou
 
 (25) Ripley, 1899,1, p. 121.
 
-<span id="p503">[<sup><small>p. 503</small></sup>]</span>
+<span id="p503"><sup><small>[ p. 503 ]</small></sup></span>
 
 APPENDIX
 
@@ -114,7 +114,7 @@ Ail terrors vanish; the blue walls of heaven Fly instant — and the boundless v
 
 The same conceptionf of the early periods in the development of humanity is found in the Ilistoire universelle of Bossuet, in a curious passage undoubtedly suggested by Lucretius :
 
-'^'Toiit commence: il n’y a point d’histoire ancienne ou il ne paraisse, non seulement dans ces premiers temps, mais encore longtemps apres, des vestiges manifestes de la nouveaute du monde. On voit les lois s’etablir, <span id="p504">[<sup><small>p. 504</small></sup>]</span> les moeurs se polir, et les empires se former: le genre humain sort pen a pen de Fignorance; I’experience rinstruit, et les arts sont inventes on perfectionnes. A mesure que les hommes se multiplient, la terre se penple de proche en proche: on passe les montagnes et les precipices; on traverse les fieuves et enfin les mers, et on etablit de nouvelles habitations. La terre, qui n’etait an commencement qu’une foret immense, prend une autre forme; les bois abattus font place aux champs, aux piturages, aux hameaux, aux bourgades, et enfin aux villes. On s’instruit a prendre certains animaux, a apprivoiser les autres, et a les accoutumer au service. On eut d’abord a combattre les b^tes farouches: les premiers heros se signalkent dans ces guerres; elles firent inventer les armes, que les hommes tournerent apres centre leurs semblables. Nemrod, le premier guerrier et le premier conquerant, est appele dans Fecriture un fort chasseur. Avec les animaux, Fhomme sut encore adoucir les fruits et les plantes ; il plia jusqu’aux metaux a son usage, et peu a peu il y fit servir toute la nature.’^
+'^'Toiit commence: il n’y a point d’histoire ancienne ou il ne paraisse, non seulement dans ces premiers temps, mais encore longtemps apres, des vestiges manifestes de la nouveaute du monde. On voit les lois s’etablir, <span id="p504"><sup><small>[ p. 504 ]</small></sup></span> les moeurs se polir, et les empires se former: le genre humain sort pen a pen de Fignorance; I’experience rinstruit, et les arts sont inventes on perfectionnes. A mesure que les hommes se multiplient, la terre se penple de proche en proche: on passe les montagnes et les precipices; on traverse les fieuves et enfin les mers, et on etablit de nouvelles habitations. La terre, qui n’etait an commencement qu’une foret immense, prend une autre forme; les bois abattus font place aux champs, aux piturages, aux hameaux, aux bourgades, et enfin aux villes. On s’instruit a prendre certains animaux, a apprivoiser les autres, et a les accoutumer au service. On eut d’abord a combattre les b^tes farouches: les premiers heros se signalkent dans ces guerres; elles firent inventer les armes, que les hommes tournerent apres centre leurs semblables. Nemrod, le premier guerrier et le premier conquerant, est appele dans Fecriture un fort chasseur. Avec les animaux, Fhomme sut encore adoucir les fruits et les plantes ; il plia jusqu’aux metaux a son usage, et peu a peu il y fit servir toute la nature.’^
 
 Lucretius, On the Nature of Things, metrical version by J, M. Good. Bohn’s Classical Library, London, 1890.
 
@@ -164,7 +164,7 @@ To strip your neighbor’s garden of a flower And rob a shrine at midnight’s s
 
 *Tlte Satires, Epistles and Ars Poetica of Horace, the. Latin Text with Conington’s Translation, pp. 29, 31. George Bell & Sons, London, 1904.
 
-<span id="p505">[<sup><small>p. 505</small></sup>]</span>
+<span id="p505"><sup><small>[ p. 505 ]</small></sup></span>
 
 NOTE III
 
@@ -202,7 +202,7 @@ Kobeltf discusses the habits of the wild cattle and of the bison as follows:
 
 “ One is inclined to consider the ancient wild cattle of Europe, the Urochs, or Auerochs, as the inhabitants of boggy forests. The Auerochs survived to the seventeenth century in the forests of Poland and then became extinct. It is described as of a black color with a light stripe along the back.
 
-“The bison, or Wisent, is generally regarded as the inhabitant of the open steppe, or at least of dryer, opener woods; it differs so little from the American bison that both can be considered only as races of one species, the Bison prisms of Pleistocene times, which spread over the temperate zone of both hemispheres. The American bison has always avoided the w^oods and roamed the prairies in countless herds. But all reliable historic records describe the Wisent as a forest animal, and its few remaining survivors are <span id="p506">[<sup><small>p. 506</small></sup>]</span> entirely limited to the forests. Apparently it was never so widely and generally distributed as the Auerochs and reached western Europe later, for it is not found in the north, and never in conjunction with the maninui and rhinoceros. Remains of the bison have also been found in Asia Minor. In Lithuania the bison lives together in herds, resenting the approach of all strangers. In the Caucasus it lives wild in certain high valleys and here it is a true mountain animal, its favorite haunts being the forests of beech, hornbeam, and evergreens from. 4,000 to 8,000 feet above sea-level. Only in winter does it descend to lower levels. It is uncertain whether the Wisent does not also occur in Siberia. Kohn and Andree assert positively that it is found in large numbers in the wooded mountains of Sajan, in Siberia (1895).”
+“The bison, or Wisent, is generally regarded as the inhabitant of the open steppe, or at least of dryer, opener woods; it differs so little from the American bison that both can be considered only as races of one species, the Bison prisms of Pleistocene times, which spread over the temperate zone of both hemispheres. The American bison has always avoided the w^oods and roamed the prairies in countless herds. But all reliable historic records describe the Wisent as a forest animal, and its few remaining survivors are <span id="p506"><sup><small>[ p. 506 ]</small></sup></span> entirely limited to the forests. Apparently it was never so widely and generally distributed as the Auerochs and reached western Europe later, for it is not found in the north, and never in conjunction with the maninui and rhinoceros. Remains of the bison have also been found in Asia Minor. In Lithuania the bison lives together in herds, resenting the approach of all strangers. In the Caucasus it lives wild in certain high valleys and here it is a true mountain animal, its favorite haunts being the forests of beech, hornbeam, and evergreens from. 4,000 to 8,000 feet above sea-level. Only in winter does it descend to lower levels. It is uncertain whether the Wisent does not also occur in Siberia. Kohn and Andree assert positively that it is found in large numbers in the wooded mountains of Sajan, in Siberia (1895).”
 
 *^scliyiiis, Prometheus Bound. Elizabeth Barrett Browning. Poetical Worhs of Elisabeth Barrett Browning, pp. 148, i49- Oxford edition, 1906. Henry Frowde, London, Edinburgh, Glasgow, New York, and Toronto. • /
 
@@ -218,7 +218,7 @@ THE Cr6~MAGNONS OE THE CANARY ISLANDS*
 
 * Abercromby, Hon. John, The Prehistcric Pottery of the Canary Iski 7 ids and Its Makers. Royal Anthropological Institute, November 17, 1914. Nature^ December 3, 1914, p. 3S3.
 
-<span id="p507">[<sup><small>p. 507</small></sup>]</span>
+<span id="p507"><sup><small>[ p. 507 ]</small></sup></span>
 
 ■; GUANCHE CHARACTERISTICS RESEMBLING CRO-MAGNON*'^
 
@@ -242,7 +242,7 @@ Page 29.
 
 “The Guanche chiefs were much respected. At Teneriffe the coronation of the chief took place in an enclosure surrounded with stones (the Togaror), in the presence of nobles and people. One of his nearest kinsmen brought him the insignia of power. According to Viera y Clavijo, this was the humerus of one of his ancestors, carefully preserved in a case of leather; according to Viana, it was the skull of one of his predecessors.
 
-“The chief (Menceg) placed the relic on his head, pronouncing the sacramental formula: T swear upon the bone of him who has borne this royal crown, that I will imitate his acts and work for the happiness of my <span id="p508">[<sup><small>p. 508</small></sup>]</span> subjects.’ Each noble, in turn, then received the bone from the hands of the chief, placed it upon his shoulder and swore fidelity to his sovereign. . . . These chiefs led a very simple life: their food was like that of the people, their apparel but little more elaborate, and their dwellings— -like those of their subjects— consisted of camSy only theirs were a little larger than those of the common people. They did not disdain to inspect their flocks or their harvests in person, and were, indeed, no richer than the average mortal.”
+“The chief (Menceg) placed the relic on his head, pronouncing the sacramental formula: T swear upon the bone of him who has borne this royal crown, that I will imitate his acts and work for the happiness of my <span id="p508"><sup><small>[ p. 508 ]</small></sup></span> subjects.’ Each noble, in turn, then received the bone from the hands of the chief, placed it upon his shoulder and swore fidelity to his sovereign. . . . These chiefs led a very simple life: their food was like that of the people, their apparel but little more elaborate, and their dwellings— -like those of their subjects— consisted of camSy only theirs were a little larger than those of the common people. They did not disdain to inspect their flocks or their harvests in person, and were, indeed, no richer than the average mortal.”
 
 * Verneau, Dr. R., Cinq annees de sejour aux ties Canaries. (Ouvrage couronne par TAcademie des sciences, 1891.)
 
@@ -266,7 +266,7 @@ Page 47.
 
 ^“The Guanches were above all troglodytes — that is to say, they lived in caves. There is no lack of large, well-sheltered caves in the Canary Islands. ■ The slopes of the mountains and the walls of their ravines are honeycomiDed with them. The islanders may have their choice.
 
-<span id="p509">[<sup><small>p. 509</small></sup>]</span>
+<span id="p509"><sup><small>[ p. 509 ]</small></sup></span>
 
 The caves are almost never further excavated. They are used just as they are.
 
@@ -300,7 +300,7 @@ At Teneriffe Dr. Verneau received hospitality in a cabin worthy of the Palaeolit
 
 (And this host was the most important personage in the place.)
 
-<span id="p510">[<sup><small>p. 510</small></sup>]</span>
+<span id="p510"><sup><small>[ p. 510 ]</small></sup></span>
 
 Page 289.
 
@@ -322,7 +322,7 @@ American estimates of Postglacial time have been made chiefly from the recession
 
 5.000 years w’^ere allowed; for the time since the disappearance of the ice in Sweden, 7,000 years; for the retreat of the ice from Germany across the Baltic, 12,000 years; giving a total of 24,000 years as compared with a total of between 30,000 and 50,000 years allowed by Penck for the retreat of the ice-fields of the Alps.”
 
-<span id="p511">[<sup><small>p. 511</small></sup>]</span>
+<span id="p511"><sup><small>[ p. 511 ]</small></sup></span>
 
 NOTE VII
 
@@ -340,7 +340,7 @@ The Periplus of Hanno purports to be a Greek translation of a Carthaginian inscr
 
 Hanno is a very common Carthaginian name, but recent writers think it not improbable that this Hanno was either the father or the son of that Hamilcar who led the great Carthaginian expedition to Sicily in 480 B. C. In the former case the Periplus might be assigned to a date about 520 B. C.; in the latter, some fifty years later.
 
-The narrative was certainly extant at an early period, for it is cited in the work on Marvellous Narratives ascribed to Aristotle, which belongs to <span id="p512">[<sup><small>p. 512</small></sup>]</span> the third century B* C., and Pliny also expressly refers to it. The authenticity of the work is now generally conceded.
+The narrative was certainly extant at an early period, for it is cited in the work on Marvellous Narratives ascribed to Aristotle, which belongs to <span id="p512"><sup><small>[ p. 512 ]</small></sup></span> the third century B* C., and Pliny also expressly refers to it. The authenticity of the work is now generally conceded.
 
 *B unbury, E, H. History of Ancient Geography^ voh I, pp. John Murray,
 
@@ -356,7 +356,7 @@ The skull and jaw fragments, as described on pages 130--144, on which were found
 
 Many anatomists questioned the association of the Piltdown jaw with the Piltdown skull. Some anatomists held that the jaw is not prehuman and does not belong with the skull at all. After reconsidering the original discovery and subsequent geological and anatomical evidence, Dr. A. Smith Woodward still (letter of January 27, 1917) feels convinced that the jaw and skull fragments are prehuman and belong to a single individual of the Piltdown race. His opinion is supported by W. P. Pycraft, D. M. S. Watson, and other British anatomists who have made a very careful investigation and comparison of the original Piltdown specimens with similar bones of anthropoid apes.
 
-On the other hand, Gerrit S. Miller, Jr./ from a careful comparative study of a cast of the Piltdown jaw with the jaws of various types of chimpanzee, still maintains that the portions of the Piltdowm jaw preserved, including the upper eye-tooth, or canine, are genericaily identical with those of an adult chimpanzee. This new species of chimpanzee, wffiich Miller believes to be characteristic of the European Pleistocene, he names Fan veins. If Miller's theory be correct it would deprive the Piltdown specimen of its jaw and incline us to refer the Piltdown skull to the genus Homo rather than to the supposed more ancient genus Eoanthropus, <span id="p513">[<sup><small>p. 513</small></sup>]</span> lillers theory, however, has not been strengthened by the recent researches of the British Museum above alluded to, nor by the additional excayations of Smith Woodward near the locality where the jaw was found, both of which are said to confirm the original opinion of Dawson and Smith Woodward that the jaw belongs with the skull.
+On the other hand, Gerrit S. Miller, Jr./ from a careful comparative study of a cast of the Piltdown jaw with the jaws of various types of chimpanzee, still maintains that the portions of the Piltdowm jaw preserved, including the upper eye-tooth, or canine, are genericaily identical with those of an adult chimpanzee. This new species of chimpanzee, wffiich Miller believes to be characteristic of the European Pleistocene, he names Fan veins. If Miller's theory be correct it would deprive the Piltdown specimen of its jaw and incline us to refer the Piltdown skull to the genus Homo rather than to the supposed more ancient genus Eoanthropus, <span id="p513"><sup><small>[ p. 513 ]</small></sup></span> lillers theory, however, has not been strengthened by the recent researches of the British Museum above alluded to, nor by the additional excayations of Smith Woodward near the locality where the jaw was found, both of which are said to confirm the original opinion of Dawson and Smith Woodward that the jaw belongs with the skull.
 
 * Miller, Gerrit S., Jr., The Jaw of the Piltdown Man, Smitlisonian Institution, Washington '^ovember 24, 1915.
 
@@ -375,7 +375,7 @@ PAMILY SEPULTURE OE LA FERRASSIE, FRANCE
 
 The only instance of the knee-flexed burial position known in the Lower Palaeolithic is the unique family sepulture at the Mousterian station of La Ferrassie, in Dordogne, discovered by D. Peyrony in the years igog-igii. It includes the remains of two adults and two children. One of the adult skeletons lay upon its back with the legs strongly flexed. The body lay upon the floor of the cave without any sign of a cavity to contain it. The head and shoulders had been protected and surrounded by slabs of stone, while the rest of the body may have been covered by pelts or woven branches. The second skeleton was that of a woman with the arms folded upon the breast, while the legs were pressed against the body, indicating that they were bound with cords or thongs. Two children were interred in shallow graves.
 
-This sepulture, like that of Spy, Belgium, of late Mousterian times, was apparently a case of genuine burial, testifying to the ancient reverence for the dead, joined, perhaps, with the belief in a life after dea ' 1. In the Ferrassie burial, close to the children's remains, there w;as a ave filled <span id="p514">[<sup><small>p. 514</small></sup>]</span> with ashes and bones of the wild ox. Similarly, in the interment at La Chapelle-aux-Saints there was a cavity containing a bison horn and a second cavity where large bones of the same animal were found, indicating possibly the remains of sacrificial offerings or funeral feasts.
+This sepulture, like that of Spy, Belgium, of late Mousterian times, was apparently a case of genuine burial, testifying to the ancient reverence for the dead, joined, perhaps, with the belief in a life after dea ' 1. In the Ferrassie burial, close to the children's remains, there w;as a ave filled <span id="p514"><sup><small>[ p. 514 ]</small></sup></span> with ashes and bones of the wild ox. Similarly, in the interment at La Chapelle-aux-Saints there was a cavity containing a bison horn and a second cavity where large bones of the same animal were found, indicating possibly the remains of sacrificial offerings or funeral feasts.
 
 NOTE XI
 
@@ -391,7 +391,7 @@ Then follows the Aurignacian, the first stage of the Upper Palaeolithic cultures
 
 * J. de Morgan, 1 ^. Capitan, and P. Boudy, ^^Stations preMstoriques du sud Tunisien,” Rev.rEcoled'Anthr., 1910, pp. 105-136, 206-221, 267-286, 335-347; 1911, pp. 217-228.
 
-<span id="p515">[<sup><small>p. 515</small></sup>]</span>
+<span id="p515"><sup><small>[ p. 515 ]</small></sup></span>
 
 TT, ^ important change occurs, as indicated in the stations ar’ed by a crossed circle, in the genesis of new modes of fashioning the in -s which are for a long time peculiar to this region and which — centring in the stations crowded around Gafsa in the heart of Tunis — receive the name of CAPSIAN.
 
@@ -442,7 +442,7 @@ Africa . — At Mostaganem (8) are the eight stations of Aboukir,Ain-bou-Brahim,
 Spaln . — At V^lez Blanco are the three stations of Ambrosio, Cueva Chiquita de los Treinta, and Fuente de los Molinos; at the Cuevas de Vera are the three caves known as Serrdn, Zajara, and Humosa; while the figure 8 marks the eight caves of Paloniarico, Las Perneras, Bermeja, Las Palomas, Tazona, Ahumada, Cueva de los Tollos, and Cueva del Tesoro. Only the Capsian stations of Spain are named here. For the names of others see Fig. 272, p. 519. </figcaption>
 </figure>
 
-The explanation of the life and art of the Capsian is probably that of a climatic change in this region of Africa from a moist and semiforested condition favorable to the larger kinds of game to an arid condition in which <span id="p516">[<sup><small>p. 516</small></sup>]</span> the larger kinds of game became less numerous and the chase was abandoned. This is Capitan^s opinion, that the Capsian corresponds to new climatic conditions in northern Africa; for in the depths of the limestone caves it appears that men food parth^ consisted of the animals of the chase, but more commonly of edible land snails belonging to species still existing in this region and occurring in great abundance during the winter and spring rains. This change of climate came after the close of Mousterian time, namely, the period which we estimated (p. 281) at about 25,000 years B. C. on the theory that the Fourth Glaciation closed not less than 25,000 years ago (p. 41).
+The explanation of the life and art of the Capsian is probably that of a climatic change in this region of Africa from a moist and semiforested condition favorable to the larger kinds of game to an arid condition in which <span id="p516"><sup><small>[ p. 516 ]</small></sup></span> the larger kinds of game became less numerous and the chase was abandoned. This is Capitan^s opinion, that the Capsian corresponds to new climatic conditions in northern Africa; for in the depths of the limestone caves it appears that men food parth^ consisted of the animals of the chase, but more commonly of edible land snails belonging to species still existing in this region and occurring in great abundance during the winter and spring rains. This change of climate came after the close of Mousterian time, namely, the period which we estimated (p. 281) at about 25,000 years B. C. on the theory that the Fourth Glaciation closed not less than 25,000 years ago (p. 41).
 
 LOWER PALEOLITHIC OE AFRICA
 
@@ -454,7 +454,7 @@ THE CAPSIAN — UPPER AND LOWER
 
 The succeeding Aurignacian industry of the Mediterranean also had its centre of dispersion in the northwestern part of Africa — a centre known through the labors of de Morgan, Gapitan, and Boudy, and, more recently, through those of Pailary, Gobert, and Breuil. Obermaier regards the Lower Capsian as presenting an industry containing only the Lower Aurignacian (types of Chiteiperron) and Upper Aurignacian (t3^es of La Gravette) and considers that the Middle Aurignacian is wanting in northern Africa. This Middle Aurignacian culture is regarded as of French origin, having apparently extended southward only in the Cantabrian region, where it is typically represented at Castillo, Hornos de la Pena, and the Cueva del Conde.
 
-The Upper Capsian, then, is regarded as extending from Post-Aurlgnacian time through the entire epoch of the Solutrean and the Magdalenian of western Europe. Thus for a very long period of time there was no contact whatever between the industry of northwestern Africa and of southwestern Europe. During this period the Capsian itself developed <span id="p517">[<sup><small>p. 517</small></sup>]</span> its peculiar forms, and toward the close of the Upper Palaeolithic this industry spread into Spain as indicated by the dotted area and arrows in the accompanying map (Fig. 27 i , J 5 ).
+The Upper Capsian, then, is regarded as extending from Post-Aurlgnacian time through the entire epoch of the Solutrean and the Magdalenian of western Europe. Thus for a very long period of time there was no contact whatever between the industry of northwestern Africa and of southwestern Europe. During this period the Capsian itself developed <span id="p517"><sup><small>[ p. 517 ]</small></sup></span> its peculiar forms, and toward the close of the Upper Palaeolithic this industry spread into Spain as indicated by the dotted area and arrows in the accompanying map (Fig. 27 i , J 5 ).
 
 Obermaier, Hugo, El IloMhre psil^ xgi^^y'g, 203.
 
@@ -467,7 +467,7 @@ In the development of the Capsian Itself* it is found that the iiv dus try varie
 B. Late Capsian (Tardenoisian) industry from Africa. After Obermaier. </figcaption>
 </figure>
 
-On the other hand, the identity of tht Lower Capsian with the Aurignacian in Europe is strongly insisted upon by the same authors. The Lower Capsian is a Tunisian phase of the Aurignacian of Europe and absolutely identical with it. The forms from the rock shelters of Redeyef, Foum-el-Maza, and, above all, El Mekta are absolutely typical. In the latter station occur, moreover, forms closely paralleling those distinctive of the Aurignacian of Europe, Lower, Middle, and Upper — the great picks; the large flakes finely retouched; the long, fine blades retouched on one or both sides, often curved, with blunted backs; the notched blades; the <span id="p518">[<sup><small>p. 518</small></sup>]</span> nuclei with edges worked into grattoirs; and, above all, the blades with square-edged grattoirs across the ends, often presenting a lateral burin, so characteristic of the Aurignacian. Thus these authors conclude that human evolution and probably the human stock in Tunis was uniform with that of Europe throughout all Aurignacian time until its very close, and that, following this, an independent evolution in North Africa took place.
+On the other hand, the identity of tht Lower Capsian with the Aurignacian in Europe is strongly insisted upon by the same authors. The Lower Capsian is a Tunisian phase of the Aurignacian of Europe and absolutely identical with it. The forms from the rock shelters of Redeyef, Foum-el-Maza, and, above all, El Mekta are absolutely typical. In the latter station occur, moreover, forms closely paralleling those distinctive of the Aurignacian of Europe, Lower, Middle, and Upper — the great picks; the large flakes finely retouched; the long, fine blades retouched on one or both sides, often curved, with blunted backs; the notched blades; the <span id="p518"><sup><small>[ p. 518 ]</small></sup></span> nuclei with edges worked into grattoirs; and, above all, the blades with square-edged grattoirs across the ends, often presenting a lateral burin, so characteristic of the Aurignacian. Thus these authors conclude that human evolution and probably the human stock in Tunis was uniform with that of Europe throughout all Aurignacian time until its very close, and that, following this, an independent evolution in North Africa took place.
 
 * Obermaier, Hugo, El Hombre fosU, 1916, pp. 346, 347.
 
@@ -513,7 +513,7 @@ Lower Palreolithic Mousterian, Acheulean, and Chellean Stages
 
 PALAEOLITHIC HISTORY OF SPAIN
 
-Having now considered northern Africa, it is interesting to look at Spain as influenced by Africa on the south, by the industrial and artistic life of France on. the north, and as having an important independent evo^ lution of its own. These conditions are fully described in Hugo Obermaier’s recent work, El Emnhre Jdsil* to wiich the reader is referred. Over eighty Palaeolithic stations have been discovered in Spain. Siiain shares with the greater part of Africa (including Egypt), with Syria, Mesopotamia, and parts of India, the extraordinarily wide distribution of industries <span id="p519">[<sup><small>p. 519</small></sup>]</span> resembling those of the three Lower Palaeolithic stages — the Chellean, the Acheiilean, and the Mousterian.
+Having now considered northern Africa, it is interesting to look at Spain as influenced by Africa on the south, by the industrial and artistic life of France on. the north, and as having an important independent evo^ lution of its own. These conditions are fully described in Hugo Obermaier’s recent work, El Emnhre Jdsil* to wiich the reader is referred. Over eighty Palaeolithic stations have been discovered in Spain. Siiain shares with the greater part of Africa (including Egypt), with Syria, Mesopotamia, and parts of India, the extraordinarily wide distribution of industries <span id="p519"><sup><small>[ p. 519 ]</small></sup></span> resembling those of the three Lower Palaeolithic stages — the Chellean, the Acheiilean, and the Mousterian.
 
 * Obermaier, Hugo, ® ITowfire/dii/, 1916.
 
@@ -546,7 +546,7 @@ Southeast . — At Velez Blanco are the three stations of Ambrosio, Cueva Chiqui
 
 By what types of man these industries were pursued in these different countries it would be premature to say. At the beginning of the Upper Paljeolithic a profound change occurs, for in the Aurignacian industry we have to do with a Mediterraneo-European culture exhibiting advances in technique which are not developed elsewhere.
 
-<span id="p520">[<sup><small>p. 520</small></sup>]</span>
+<span id="p520"><sup><small>[ p. 520 ]</small></sup></span>
 
 IMPORTANT PALAiOLITHIC SITES IN SPAIN AND PORTUGAL
 
@@ -830,7 +830,7 @@ Lisbon and environs (fifteen station.^)
 
 ■f '
 
-<span id="p521">[<sup><small>p. 521</small></sup>]</span>
+<span id="p521"><sup><small>[ p. 521 ]</small></sup></span>
 
 At the close^ of Upper Aurignadan time the community of culture ceases in Spain itself, and this country divides sharply into two regions, ^ northern a,nd southern.
 
@@ -840,7 +840,7 @@ SOUTHERN AND EASTERN SPAIN — THE CAPSTAN
 
 At the same time the southern and eastern regions of Spain were completely under the influence of the Upper Capsian industry of northern Africa and in these regions the typical forms of the Lower Capsian ( = Lower and Upper Aurignacian) tend to become reduced in size and to evolve toward the geometric forms until they finally acquire the aspect of the Tardenoisian microliths. Thus wt find that in the Upper Capsian of eastern and southern Spain, as in northern Africa, true Solutrean and Magdalenian implements are unknown. These implements are replaced by the microlithic industry, chiefly characterized by trapezoidal forms which can be traced eastward along the coast of Africa to Egypt, Phoenicia, and even to the Crimea. A notable part of this industry found its way also into Sicily.
 
-The final phase of the Upper Capsian of Spain is essentially identical with the Tardenoisian of France. Certain discoveries have been made in Guadalajara, in Murcia, and in Albacete (Alpera). To these must be added other Azilio-Tardenoisian stations no less important found in Portugal in the valley of the Tagus. At Mugem and at other stations heaps of sea-shells of a great variety of species prove that when the Upper Capsian men w-ere living they sought the same kinds of food in Spain as in northern <span id="p522">[<sup><small>p. 522</small></sup>]</span>
+The final phase of the Upper Capsian of Spain is essentially identical with the Tardenoisian of France. Certain discoveries have been made in Guadalajara, in Murcia, and in Albacete (Alpera). To these must be added other Azilio-Tardenoisian stations no less important found in Portugal in the valley of the Tagus. At Mugem and at other stations heaps of sea-shells of a great variety of species prove that when the Upper Capsian men w-ere living they sought the same kinds of food in Spain as in northern <span id="p522"><sup><small>[ p. 522 ]</small></sup></span>
 
 Africa. In these heaps the trapezoidal forms of implements predominate, closely similar to those of the Tardenoisian. The animal life of these deposits does not include any sort of domestic animal except the dog.
 
@@ -854,7 +854,7 @@ Obermaier observes that it is as yet impossible to determine the period of the c
 
 This art is characterized by its numerous reproductions of the human figure. In almost all the important rock shelters of the eastern region (Alpera) it has been possible to distinguish layers of more recent designs painted over the classic Quaternary paintings, and classified— on account of their superposition— as ^Tost-Palaeolithic.^' Of these a small portion are figures still retaining the naturalistic style — representations of animals and men — but poor in conception, stiff and lifeless, in most cases bearing no comparison with the vigor abandon of the figures of Alpera. The greater part of these designs consist of geometric or conventionalized signs or figures.
 
-Still purer in style and more abundant are the instances of this conventionalized mural art in southern Spain, where M. de Gongora, Yilanova, Jimenez de la Espada, Gonzalez de Linares, M. Gomez Moreno, F. de Motos, H. Breuil, J. Cabre, and E. Hernandez-Pacheco have devoted themselves sedulously to its study. Numerous painted rock shelters are known, but almost all without the slightest trace of Paheolithic art and with numerous conventionalized (schematic) petroglyphs, in Andalusia <span id="p523">[<sup><small>p. 523</small></sup>]</span> (Velez Blanco, Ronda, and Tarifa) and throughout the Sierra Morena uencahente). In many cases it would be difficult to guess the derivalon of these designs of human or animal figures, were it not for the existence of gradations in conventionalization from the naturalistic design to the final geometric scheme. With these, arranged in a regular manner, there occur further a great number of ramiform, pectiniform, steliiform, serpentine, and alphabet-like signs, with designs in zigzags, circles, and dots.
+Still purer in style and more abundant are the instances of this conventionalized mural art in southern Spain, where M. de Gongora, Yilanova, Jimenez de la Espada, Gonzalez de Linares, M. Gomez Moreno, F. de Motos, H. Breuil, J. Cabre, and E. Hernandez-Pacheco have devoted themselves sedulously to its study. Numerous painted rock shelters are known, but almost all without the slightest trace of Paheolithic art and with numerous conventionalized (schematic) petroglyphs, in Andalusia <span id="p523"><sup><small>[ p. 523 ]</small></sup></span> (Velez Blanco, Ronda, and Tarifa) and throughout the Sierra Morena uencahente). In many cases it would be difficult to guess the derivalon of these designs of human or animal figures, were it not for the existence of gradations in conventionalization from the naturalistic design to the final geometric scheme. With these, arranged in a regular manner, there occur further a great number of ramiform, pectiniform, steliiform, serpentine, and alphabet-like signs, with designs in zigzags, circles, and dots.
 
 Another important centre is found in western Spain (Estremadura) the notable designs of which are mentioned by Lope de Vega in 1597 — doubtless referring to the paintings of Canchal de las Cabras in Las Batuecas.
 
@@ -867,7 +867,7 @@ Slight infiltrations of the same art have been recognized in northern Spain at C
 <figcaption>Fig. 273. — string</figcaption>
 </figure>
 
-<span id="p524">[<sup><small>p. 524</small></sup>]</span>
+<span id="p524"><sup><small>[ p. 524 ]</small></sup></span>
 
 Of equally great interest is the explanation which this art affords of the remarkable painted pebbles of Mas d'Azil which are now seen to be partly pictographic in origin, chiefly schematized representations of the human figure which gradually begin to assume shapes closely resembling those of the Phcenician alphabet. As early as 1912 Henri Breuil was considering this pictographic theory and beginning to refer to the ^ Azilian signs’ at Las Batuecas as reminiscent both of the painted pebbles of Mas d’Azil and of the mural paintings of Andalusia. But chiefly he made clear the importance of the ^'dotted lines, ramiform, pectiniform, and stelliform signs, zigzags, circles, and figures vaguely resembling alphabetic forms.” A very ingenious study of these schematic Azilian signs has been made by Obermaier in El Homhre Jdsil, /SRhtrt he endeavors to trace the conventionalized descendants of human figure of the ancient naturalistic style as shown in Fig. 274. The demonstration of this theory may in good time make possible a logical interpretation of a great part of these same painted pebbles of the Azilian. Obermaier feels confident that they should be considered as religious symbols, and that these petroglyphs of Spain will supply a proof that many of the designs on these pebbles plainly show conventionalized human figures.
 
@@ -882,7 +882,7 @@ a b c d e f
 
 Some years ago A. B. Cook drew attention to the fact that a native tribe in central Australia, the Arunta, is distinguished by each clan having a deposit of ^churingas’ in a cave. There the churinga of each individual of the clan, be it man or woman, is the object of vigilant protection. They are made of wood or stone, and in the latter case show a striking resemblance in form and decoration to the Azilian pebbles. The Australian sees in each churinga the incarnation of one of his ancestors, whose spirit has passed to him and whose qualities he has inherited. It is noteworthy that, according to Australian beliefs, they can acquire the gift of speech by means of the ‘bull-roarer,’ an amulet of stone or bone.
 
-By analogy with the preceding, it is possible that some of the Azilian pebbles represent such ‘stones of the ancestors,’ an incarnation of masculine or feminine forefathers whose symbols w^ere the objects of an especial cult. F. .Sarasin found in the cave of Birseck, near Arlesheim, SvdtzerJand, a t3npical Azilian deposit with painted pebbles which had all <span id="p525">[<sup><small>p. 525</small></sup>]</span> been intentionally broken, without exception. He advanced the not improbable theory that this evidenced an act of the extremest hostility against the sanctuary of a tribe, performed in order to despoil its members forever of the protection of their ancestors, seeking in this way to subjugate or annihilate them.
+By analogy with the preceding, it is possible that some of the Azilian pebbles represent such ‘stones of the ancestors,’ an incarnation of masculine or feminine forefathers whose symbols w^ere the objects of an especial cult. F. .Sarasin found in the cave of Birseck, near Arlesheim, SvdtzerJand, a t3npical Azilian deposit with painted pebbles which had all <span id="p525"><sup><small>[ p. 525 ]</small></sup></span> been intentionally broken, without exception. He advanced the not improbable theory that this evidenced an act of the extremest hostility against the sanctuary of a tribe, performed in order to despoil its members forever of the protection of their ancestors, seeking in this way to subjugate or annihilate them.
 
 In the Capsian silhouettes there is little likeness to the naturalistic art of the Crd-Magnons in the north of Spain and in France. We are reminded rather of the rock paintings of the Bushmen and of the huntingscenes depicted by North American Indians, but on the w^hole there is greater tendency to grouping and composition of standing figures, masculine and feminine, in ceremonies and in the chase. The male figures are mostly nude, and occasionally have head ornaments of feathers; while the female figures are represented with kirtles, head-dresses, and ornaments on the body, arms, and ankles. Masculine figures in the chase are accompanied by hunting-dogs and exhibit the bow and arrow. If these drawings are correctly assigned to the close of the Upper Palaeolithic, this is the most ancient representation of this primitive weapon of the chase of which we have record. The arrow seems to be single-barbed, as shown in the accompanying cut from Alpera. It may have been pointed with flint fastened on one side to the shaft. We recall that double-barbed arrow-heads were in use in Magdalenian times, as shown in the cavern of Niaux.
 

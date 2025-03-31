@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 FOURTH LECTURE, CALLED RIGHTEOUSNESS.
 
@@ -44,7 +44,7 @@ This is the pure, unchangeable, eternal law, which the clever ones, who understa
 
 Having adopted (the law), one should not hide it, nor forsake it. Correctly understanding the law, one should arrive at indifference for the impressions of the senses [^184], and ‘not act on the motives of the world.’ ‘He who is not of this mind [^185], how should he come to the other [^186]?’
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 What has been said here, has been seen (by the omniscient ones), heard (by the believers), acknowledged (by the faithful), and thoroughly understood by them. Those who acquiesce and indulge (in worldly pleasures), are born again and again. ‘Day and night exerting thyself, steadfast,’ always having ready wisdom, perceive that the careless (stand) outside (of salvation); if careful, thou wilt always conquer. Thus I say. (3)
 
@@ -54,11 +54,11 @@ What has been said here, has been seen (by the omniscient ones), heard (by the b
 
 There are as many âsravas [^187] as there are parisravas, and there are as many parisravas as there are âsravas. There are as many anâsravas as there are aparisravas, and there are as many aparisravas as there are anâsravas. He who well understands these words and regards the world according to the instruction (and understands), that which has been distinctly declared, that ‘wise man proclaims (the truth) here to men,’ who still belong to the sa<i>m</i>sâra, who are awakened, and have reached discrimination. (1)
 
-‘Those also who are afflicted and careless’ (will be instructed). I say this as a truth. There is nothing secure from the mouth of death. Those who are led by their desires, who are the tabernacle of fraud, ‘who seized by Time dwell in the heap (of karman),’ are born again and again. \[Many who are again and again (immersed) in delusion, (will <span id="p38">[<sup><small>p. 38</small></sup>]</span> often renew) their acquaintance with the places of pain; they experience the pains inherent in regeneration. He who often does cruel acts, often undergoes (punishment in hell, &c.) He who seldom does cruel acts, seldom undergoes (punishment).\] [^188] (2)
+‘Those also who are afflicted and careless’ (will be instructed). I say this as a truth. There is nothing secure from the mouth of death. Those who are led by their desires, who are the tabernacle of fraud, ‘who seized by Time dwell in the heap (of karman),’ are born again and again. \[Many who are again and again (immersed) in delusion, (will <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> often renew) their acquaintance with the places of pain; they experience the pains inherent in regeneration. He who often does cruel acts, often undergoes (punishment in hell, &c.) He who seldom does cruel acts, seldom undergoes (punishment).\] [^188] (2)
 
 Some say thus, also the wise ones; the wise ones say thus, also some others [^189]. Many and several in this world, Brâhma<i>n</i>as or <i>S</i>rama<i>n</i>as, raise this discussion: We have seen, heard, acknowledged, thoroughly understood, in the upper, nether, and sidelong directions, and in all ways examined it: all sorts of living beings may be slain, or treated with violence, or abused, or tormented, or driven away. Know about this: there is no wrong in it. (3)
 
-That is a doctrine of the unworthy. But those who are teachers, have said: You have wrongly seen, wrongly heard, wrongly acknowledged, wrongly understood, in the upper, nether, and sidelong directions, in all ways wrongly examined it, when you say thus, speak thus, declare thus, explain thus: All sorts of living beings may be slain, or treated with violence, or abused, or tormented, or driven away. Know about this: there is no wrong in it. That is a doctrine of the unworthy. (4) But we say thus, speak thus, declare thus, explain thus: <span id="p39">[<sup><small>p. 39</small></sup>]</span> All sorts of living beings should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away. Know about this, there is no wrong in it. This is the doctrine of the teachers. (5)
+That is a doctrine of the unworthy. But those who are teachers, have said: You have wrongly seen, wrongly heard, wrongly acknowledged, wrongly understood, in the upper, nether, and sidelong directions, in all ways wrongly examined it, when you say thus, speak thus, declare thus, explain thus: All sorts of living beings may be slain, or treated with violence, or abused, or tormented, or driven away. Know about this: there is no wrong in it. That is a doctrine of the unworthy. (4) But we say thus, speak thus, declare thus, explain thus: <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> All sorts of living beings should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away. Know about this, there is no wrong in it. This is the doctrine of the teachers. (5)
 
 First the persuasion of every one should be ascertained, and then we will ask them severally: Ye professors! is pain pleasant to you, or unpleasant? If they give the right answer, reply: For all sorts of living beings pain is unpleasant, disagreeable. and greatly feared. Thus I say. (6)
 
@@ -71,7 +71,7 @@ First the persuasion of every one should be ascertained, and then we will ask th
 
 All the professors, conversant with pain, preach renunciation. Thus thoroughly knowing karman, observing the commandment, wise, unattached (to the world), recognising thy Self as one [^191], subdue the body, chastise thyself, weaken thyself: ‘just as fire consumes old wood!’ Thus with a composed mind, unattached, ‘unhesitatingly avoid wrath!’ Considering the shortness of life ‘know pain, or what will come [^192];’ one shall feel the several feelings; and perceive the world suffering under them. (2)
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 Those who are free from sinful acts are called anidâna [^193]. Hence a very wise man should not be inflamed (by wrath). Thus I say. (3)
 
@@ -86,7 +86,7 @@ That man is called a worthy one, a hero, one to be followed, who living in chast
 
 He who desires the current of karman, is a fool who has not cut off the fetters of, nor conquered the connection with, (the world.) For such as dwell in darkness, and are without knowledge, there is no success in faith. Thus I say. (2)
 
-‘Whence should he have it [^196], who does not get it <span id="p41">[<sup><small>p. 41</small></sup>]</span> early, late, or in the middle of life?’ But the discerning one is awakened, and ceases to act. See that it is good to be so! Cutting off that ‘whence bondage, cruel death, and dreadful pain,’ ‘and the (desire for) external (objects) flow, he who among mortals knows freedom from acts,’ ‘seeing that acts will bear fruit, the knower of the sacred lore, parts from (karman).’ (3)
+‘Whence should he have it [^196], who does not get it <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> early, late, or in the middle of life?’ But the discerning one is awakened, and ceases to act. See that it is good to be so! Cutting off that ‘whence bondage, cruel death, and dreadful pain,’ ‘and the (desire for) external (objects) flow, he who among mortals knows freedom from acts,’ ‘seeing that acts will bear fruit, the knower of the sacred lore, parts from (karman).’ (3)
 
 There are those who have established themselves in the truth, who (were, are, or will be) heroes, endowed (with knowledge), always exerting themselves, full of equanimity [^197], valuing the world (as it deserves) in the east, west, south, north. We shall tell the knowledge of them who (were, &c.) heroes, endowed (with knowledge), always exerting themselves, full of equanimity, valuing the world (as it deserves).
 

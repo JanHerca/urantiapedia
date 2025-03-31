@@ -32,23 +32,23 @@ dateCreated: 2025-1-16T23:40:16Z
   </table>
 </figure>
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span> p. 135
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span> p. 135
 
 **PART III**
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 **PRAYERS OF ST. FRANCIS**
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 ## I. THE PRAISES.
 
-THIS opuscule is composed of two parts: a paraphrase of the Lord's Prayer and the Praises properly so-called. It is contained in all the early MS. collections of St. Francis’ works [^527] either in its entirety as it is given here, or in part—that is, the Paraphrase without the Praises or vice versa. With the exception of a single codex which attributes the paternity of this paraphrase to the Blessed Brother Giles, [^528] the third companion of St. Francis, the MSS. authorities are unanimous in ascribing the entire work to St. Francis. This fact, taken in conjunction with the internal argument in its favor, puts the authority of the Praises beyond doubt, in the opinion of the Quaracchi editors. M. Sabatier is of like mind and even expresses regret [^529] that Professor Boehmer [^530] should have been <span id="p138">[<sup><small>p. 138</small></sup>]</span> misled into classing the Praises as doubtful or unauthentic. Those who accept the French critic's views as to the value of his _Speculum Perfectionis_ will find in that remarkable work an additional argument in favor of the genuinity of the complete opuscule now engaging our attention. In particular M. Sabatier applies to the present Praises what is said in the _Speculum_ of the penance imposed by St. Francis on the brothers at Portiuncula for speaking idle words. [^531]
+THIS opuscule is composed of two parts: a paraphrase of the Lord's Prayer and the Praises properly so-called. It is contained in all the early MS. collections of St. Francis’ works [^527] either in its entirety as it is given here, or in part—that is, the Paraphrase without the Praises or vice versa. With the exception of a single codex which attributes the paternity of this paraphrase to the Blessed Brother Giles, [^528] the third companion of St. Francis, the MSS. authorities are unanimous in ascribing the entire work to St. Francis. This fact, taken in conjunction with the internal argument in its favor, puts the authority of the Praises beyond doubt, in the opinion of the Quaracchi editors. M. Sabatier is of like mind and even expresses regret [^529] that Professor Boehmer [^530] should have been <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> misled into classing the Praises as doubtful or unauthentic. Those who accept the French critic's views as to the value of his _Speculum Perfectionis_ will find in that remarkable work an additional argument in favor of the genuinity of the complete opuscule now engaging our attention. In particular M. Sabatier applies to the present Praises what is said in the _Speculum_ of the penance imposed by St. Francis on the brothers at Portiuncula for speaking idle words. [^531]
 
 The Quaracchi Fathers have edited the text of the Praises according to the Assisian, Antonian, and Isidorean (1/25) MSS. and have collated these early versions with the editions of the Praises given in the _Monumenta_ (fol. 275 v), _Firmamenta_ (fol. 18 v), and the _Liber Conformitatum_ (fruct. xii, P. II, c. vi). [^532] The result of their labors is here translated as follows:—
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 ## PRAISES.
 
@@ -60,7 +60,7 @@ _Who art in heaven_, in the angels and in the saints illuminating them unto know
 
 _Hallowed be Thy Name:_ may Thy knowledge shine in us that we may know the breadth of Thy benefits, the length of Thy promises, the height of Thy majesty, and the depth of Thy judgments. [^534]
 
-_Thy Kingdom come_, that Thou mayest reign in us by grace and mayest make us come to Thy Kingdom, where there is the clear vision of Thee, <span id="p140">[<sup><small>p. 140</small></sup>]</span> the perfect love of Thee, the blessed company of Thee, the eternal enjoyment of Thee.
+_Thy Kingdom come_, that Thou mayest reign in us by grace and mayest make us come to Thy Kingdom, where there is the clear vision of Thee, <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> the perfect love of Thee, the blessed company of Thee, the eternal enjoyment of Thee.
 
 _Thy will be done on earth as it is in heaven_, that we may love Thee with the whole heart by always thinking of Thee; with the whole soul by always desiring Thee; with the whole mind by directing all our intentions to Thee and seeking Thy honor in all things and with all our strength, by spending all the powers and senses of body and soul in the service of Thy love and not in anything else; and that we may love our neighbors even as ourselves, drawing to the best of our power all to Thy love; rejoicing in the good of others as in our own and compassionating \[them\] in troubles and giving offence to no one.
 
@@ -70,7 +70,7 @@ _And forgive us our trespasses_, by Thy ineffable mercy in virtue of the Passion
 
 _As we forgive their that trespass against us_, and what we do not fully forgive, do Thou, O Lord, make us fully forgive, that for Thy sake we may truly love our enemies and devoutly intercede for them with Thee; that we may render no evil for evil, but in Thee may strive to do good to all.
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 _And lead us not into temptation_, hidden or visible, sudden or continuous.
 
@@ -92,7 +92,7 @@ Give praise to God all ye His servants and you that fear Him, little and great. 
 
 Let the heavens and the earth praise Him, the Glorious, and every creature which is in heaven and on earth and under the earth, in the seas and all that are in them. [^541] Let us praise and exalt Him above all forever.
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Glory be to the Father, and to the Son, and to the Holy Ghost. Let us praise and exalt Him above all forever.
 

@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:15:34Z
 </figure>
 
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 This Ya<i>s</i>t, one of the longest of the Avesta and one of the most interesting in a literary point of view, is not very instructive for mythology. It consists of long descriptive pieces, sometimes rather spirited, and of fervent prayers and invocations for mercy or protection. Originally Mithra was the god of the heavenly light (§§ 12, 50, 67, 104, 124 seq., 136 seq., &c.); and in that character he knows the truth, as he sees everything; he is therefore taken as a witness of truth, he is the preserver of oaths and good faith (§§ 2, 44 seq., 79 seq., 81 seq., &c.); he chastises those who break their promises and lie to Mithra, destroys their houses and smites them in battle (§§ 17 seq., 28 seq., 35 seq., 47 seq., 99 seq., 105 seq., 112 seq., 128 seq., &c.).
 
@@ -57,7 +57,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## I.
 
-1\. Ahura Mazda spake unto Spitama Zarathu<i>s</i>tra, saying: 'Verily, when I created Mithra, the lord of <span id="p120">[<sup><small>p. 120</small></sup>]</span> wide pastures, O Spitama! I created him as worthy of sacrifice, as worthy of prayer as myself, Ahura Mazda [^557].
+1\. Ahura Mazda spake unto Spitama Zarathu<i>s</i>tra, saying: 'Verily, when I created Mithra, the lord of <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> wide pastures, O Spitama! I created him as worthy of sacrifice, as worthy of prayer as myself, Ahura Mazda [^557].
 
 2\. 'The ruffian who lies unto Mithra [^558] brings death unto the whole country, injuring as much the faithful world as a hundred evil-doers [^559] could do. Break not the contract, O Spitama! neither the one that thou hadst entered into with one of the unfaithful, nor the one that thou hadst entered into with one of the faithful who is one of thy own faith [^560]. For Mithra stands for both the faithful and the unfaithful.
 
@@ -71,7 +71,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘We offer up libations unto Mithra, the lord of wide pastures, who gives a happy dwelling and a good dwelling to the Aryan nations.
 
-5\. 'May he come to us for help! May he come to us for ease! May he come to us for joy! May he come to us for mercy! May he come to us for health! May he come to us for victory! May he <span id="p121">[<sup><small>p. 121</small></sup>]</span> come to us for good conscience [^561]! May he come to us for bliss [^562]! he, the awful and overpowering, worthy of sacrifice and prayer, not to be deceived anywhere in the whole of the material world, Mithra, the lord of wide pastures.
+5\. 'May he come to us for help! May he come to us for ease! May he come to us for joy! May he come to us for mercy! May he come to us for health! May he come to us for victory! May he <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> come to us for good conscience [^561]! May he come to us for bliss [^562]! he, the awful and overpowering, worthy of sacrifice and prayer, not to be deceived anywhere in the whole of the material world, Mithra, the lord of wide pastures.
 
 6\. 'I will offer up libations unto him, the strong Yazata, the powerful Mithra, most beneficent to the creatures: I will apply unto him with charity [^563] and prayers: I will offer up a sacrifice worth being heard unto him, Mithra, the lord of wide pastures, with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the holy spells, with the speech, with the deeds, with the libations, and with the rightly-spoken words.
 
@@ -79,7 +79,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ## II.
 
-7\. 'We sacrifice unto Mithra, the lord of wide pastures, who is truth-speaking, a chief in assemblies, with a thousand ears, well-shapen, with ten thousand eyes, high, with full knowledge [^565], strong, sleepless, and ever awake [^566]; <span id="p122">[<sup><small>p. 122</small></sup>]</span> 8\. 'To whom the chiefs of nations offer up sacrifices, as they go to the field, against havocking hosts, against enemies coming in battle array, in the strife of conflicting nations.
+7\. 'We sacrifice unto Mithra, the lord of wide pastures, who is truth-speaking, a chief in assemblies, with a thousand ears, well-shapen, with ten thousand eyes, high, with full knowledge [^565], strong, sleepless, and ever awake [^566]; <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> 8\. 'To whom the chiefs of nations offer up sacrifices, as they go to the field, against havocking hosts, against enemies coming in battle array, in the strife of conflicting nations.
 
 9\. 'On whichever side he has been worshipped first in the fulness of faith of a devoted heart, to that side turns Mithra, the lord of wide pastures, with the fiend-smiting wind, with the cursing thought of the wise [^567].
 
@@ -97,13 +97,13 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 12\. 'We sacrifice unto Mithra, the lord of wide pastures, . . . . sleepless, and ever awake;
 
-13\. 'Who first of the heavenly gods reaches over the Hara [^569], before the undying, swift-horsed sun [^570]; <span id="p123">[<sup><small>p. 123</small></sup>]</span> who, foremost in a golden array, takes hold of the beautiful summits, and from thence looks over the abode of the Aryans with a beneficent eye.
+13\. 'Who first of the heavenly gods reaches over the Hara [^569], before the undying, swift-horsed sun [^570]; <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> who, foremost in a golden array, takes hold of the beautiful summits, and from thence looks over the abode of the Aryans with a beneficent eye.
 
 14\. 'Where the valiant chiefs draw up their many troops in array [^571]; where the high mountains, rich in pastures and waters, yield plenty to the cattle [^572]; where the deep lakes, with salt waters, stand [^573]; where wide-flowing rivers swell and hurry towards I<i>s</i>kata and Pouruta, Mouru and Harôyu, the Gava-Sughdha and <i>H</i><i>v</i>âirizem [^574];
 
 15\. 'On Arezahi and Savahi, on Fradadhafshu and Vîdadhafshu, on Vourubare<i>s</i>ti and Vourubare<i>s</i>ti, on this bright Karshvare of <i>H</i><i>v</i>aniratha [^575], the abode of cattle, the dwelling of cattle, the powerful Mithra looks with a health-bringing eye;
 
-16\. 'He who moves along all the Karshvares, a Yazata unseen, and brings glory; he who moves along all the Karshvares, a Yazata unseen, and brings sovereignty; and increases [^576] strength for <span id="p124">[<sup><small>p. 124</small></sup>]</span> victory to those who, with a pious intent, holily offer him libations.
+16\. 'He who moves along all the Karshvares, a Yazata unseen, and brings glory; he who moves along all the Karshvares, a Yazata unseen, and brings sovereignty; and increases [^576] strength for <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> victory to those who, with a pious intent, holily offer him libations.
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
@@ -117,7 +117,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 19\. 'On whatever side there is one who has lied unto Mithra, on that side Mithra stands forth, angry and offended, and his wrath [^577] is slow to relent [^578].
 
-20\. 'Those who lie unto Mithra, however swift they may be running, cannot overtake [^579]; riding, cannot . . . . [^579]; driving, cannot [^579] The spear that the foe of Mithra flings, darts backwards, for the <span id="p125">[<sup><small>p. 125</small></sup>]</span> number of the evil spells that the foe of Mithra works out [^580].
+20\. 'Those who lie unto Mithra, however swift they may be running, cannot overtake [^579]; riding, cannot . . . . [^579]; driving, cannot [^579] The spear that the foe of Mithra flings, darts backwards, for the <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> number of the evil spells that the foe of Mithra works out [^580].
 
 21\. 'And even though the spear be flung well, even though it reach the body, it makes no wound, for the number of the evil spells that the foe of Mithra works out [^580]. The wind drives away the spear that the foe of Mithra flings, for the number of the evil spells that the foe of Mithra works out.
 
@@ -135,7 +135,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 ## VII.
 
@@ -155,7 +155,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘Who upholds the columns of the lofty house and makes its pillars [^585] solid; who gives herds of oxen and male children to that house in which he has been satisfied; he breaks to pieces those in which he has been offended.
 
-29\. 'Thou, O Mithra! art both bad and good to <span id="p127">[<sup><small>p. 127</small></sup>]</span> nations; thou, O Mithra! art both bad and good to men; thou, O Mithra! keepest in thy hands both peace and trouble for nations.
+29\. 'Thou, O Mithra! art both bad and good to <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> nations; thou, O Mithra! art both bad and good to men; thou, O Mithra! keepest in thy hands both peace and trouble for nations.
 
 30\. 'Thou makest houses large, beautiful with women, beautiful with chariots, with well-laid foundations [^586], and high above their groundwork [^587]; thou makest that house lofty, beautiful with women, beautiful with chariots, with well-laid foundations, and high above its groundwork, of which the master, pious and holding libations in his hand, offers thee a sacrifice, in which thou art invoked by thy own name and with the proper words.
 
@@ -167,7 +167,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 32\. 'Listen unto our sacrifice [^588], O Mithra! Be thou pleased with our sacrifice, O Mithra! Come and sit at our sacrifice! Accept our libations! Accept them as they have been consecrated [^589]! Gather them together with love and lay them in the Garô-nmâna!
 
-33\. 'Grant us these boons which we beg of thee, O powerful god! in accordance [^590] with the words of revelation, namely, riches, strength, and victory, good conscience and bliss [^591], good fame and a good <span id="p128">[<sup><small>p. 128</small></sup>]</span> soul; wisdom and the knowledge that gives happiness [^592], the victorious strength given by Ahura, the crushing Ascendant of Asha Vahi<i>s</i>ta, and conversation (with God) on the Holy Word [^593].
+33\. 'Grant us these boons which we beg of thee, O powerful god! in accordance [^590] with the words of revelation, namely, riches, strength, and victory, good conscience and bliss [^591], good fame and a good <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> soul; wisdom and the knowledge that gives happiness [^592], the victorious strength given by Ahura, the crushing Ascendant of Asha Vahi<i>s</i>ta, and conversation (with God) on the Holy Word [^593].
 
 34\. 'Grant that we, in a good spirit and high spirit, exalted in joy and a good spirit, may smite all our foes; that we, in a good spirit and high spirit, exalted in joy and a good spirit, may smite all our enemies; that we, in a good spirit and high spirit, exalted in joy and a good spirit, may smite all the malice of Daêvas and Men, of the Yâtus and Pairikas, of the oppressors, the blind, and the deaf [^594].
 
@@ -181,7 +181,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 36\. 'Who sets the battle a going, who stands against (armies) in battle, who, standing against (armies) in battle, breaks asunder the lines arrayed. The wings of the columns gone to battle shake, and he throws terror upon the centre of the havocking host.
 
-37\. 'He can bring and does bring down upon them distress and fear; he throws down the heads of those who lie unto Mithra, he takes off the heads of those who lie unto Mithra. <span id="p129">[<sup><small>p. 129</small></sup>]</span> 38\. 'Sad is the abode, unpeopled with children, where abide men who lie unto Mithra, and, verily, the fiendish killer of faithful men. The grazing cow goes a sad straying way, driven along the vales [^597] of the Mithradru<i>g</i>es: they [^598] stand on the road, letting tears run over their chins [^599].
+37\. 'He can bring and does bring down upon them distress and fear; he throws down the heads of those who lie unto Mithra, he takes off the heads of those who lie unto Mithra. <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> 38\. 'Sad is the abode, unpeopled with children, where abide men who lie unto Mithra, and, verily, the fiendish killer of faithful men. The grazing cow goes a sad straying way, driven along the vales [^597] of the Mithradru<i>g</i>es: they [^598] stand on the road, letting tears run over their chins [^599].
 
 39\. 'Their falcon-feathered arrows, shot from the string of the well-bent bow, fly towards the mark, and hit it not, as Mithra, the lord of wide pastures, angry, offended, and unsatisfied, comes and meets them.
 
@@ -191,7 +191,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘Their clubs, well falling and striking at the heads of men, hit not the mark, as Mithra, the lord of wide pastures, angry, offended, and unsatisfied, comes and meets them.
 
-41\. 'Mithra strikes fear into them; Rashnu [^600] strikes a counter-fear into them [^601]; the holy Sraosha blows them away from every side towards the two Yazatas, the maintainers of the world [^602]. They make the ranks of the army melt away, as Mithra, the lord <span id="p130">[<sup><small>p. 130</small></sup>]</span> of wide pastures, angry, offended, and unsatisfied, comes and meets them [^603].
+41\. 'Mithra strikes fear into them; Rashnu [^600] strikes a counter-fear into them [^601]; the holy Sraosha blows them away from every side towards the two Yazatas, the maintainers of the world [^602]. They make the ranks of the army melt away, as Mithra, the lord <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> of wide pastures, angry, offended, and unsatisfied, comes and meets them [^603].
 
 42\. 'They cry unto Mithra, the lord of wide pastures, saying: “O Mithra, thou lord of wide pastures! here are our fiery horses taking us away, as they flee from Mithra; here are our sturdy arms cut to pieces by the sword, O Mithra!”
 
@@ -205,7 +205,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘Whose dwelling, wide as the earth, extends over the material world, large [^604], unconfined [^604], and bright, a far-and-wide-extending abode.
 
-45\. 'Whose eight friends [^605] sit as spies for Mithra, on all the heights, at all the watching-places, observing the man who lies unto Mithra, looking at those, remembering those who have lied unto Mithra, but guarding the ways of those whose life is sought by <span id="p131">[<sup><small>p. 131</small></sup>]</span> men who lie unto Mithra, and, verily, by the fiendish killers of faithful men.
+45\. 'Whose eight friends [^605] sit as spies for Mithra, on all the heights, at all the watching-places, observing the man who lies unto Mithra, looking at those, remembering those who have lied unto Mithra, but guarding the ways of those whose life is sought by <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> men who lie unto Mithra, and, verily, by the fiendish killers of faithful men.
 
 46\. 'Helping and guarding, guarding behind and guarding, in front, Mithra, the lord of wide pastures, proves an undeceivable spy and watcher for the man to whom he comes to help with all the strength of his soul, he of the ten thousand spies, the powerful, all-knowing, undeceivable god.
 
@@ -225,7 +225,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 49 'We sacrifice unto Mithra, the lord of wide pastures, . . . . sleepless, and ever awake;
 
-50\. 'For whom the Maker, Ahura Mazda, has <span id="p132">[<sup><small>p. 132</small></sup>]</span> built up a dwelling on the Hara Berezaiti, the bright mountain around which the many (stars) revolve [^608], where come neither night nor darkness, no cold wind and no hot wind, no deathful sickness, no uncleanness made by the Daêvas, and the clouds cannot reach up unto the Haraiti Bareza [^609];
+50\. 'For whom the Maker, Ahura Mazda, has <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> built up a dwelling on the Hara Berezaiti, the bright mountain around which the many (stars) revolve [^608], where come neither night nor darkness, no cold wind and no hot wind, no deathful sickness, no uncleanness made by the Daêvas, and the clouds cannot reach up unto the Haraiti Bareza [^609];
 
 51\. 'A dwelling that all the Amesha-Spe<i>n</i>tas, in one accord with the sun, made for him in the fulness of faith of a devoted heart, and he surveys the whole of the material world from the Haraiti Bareza.
 
@@ -239,7 +239,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 54\. 'Who, with hands lifted up, ever cries unto Ahura Mazda, saying: "I am the kind keeper of all creatures, I am the kind maintainer of all creatures; yet men worship me not with a sacrifice in which I am invoked by my own name, as they worship the other gods with sacrifices in which they are invoked by their own names.
 
-55 [^612]. “If men would worship me with a sacrifice <span id="p133">[<sup><small>p. 133</small></sup>]</span> in which I were invoked by my own name, as they worship the other Yazatas with sacrifices in which they are invoked by their own names, then I would come to the faithful at the appointed time; I would come in the appointed time of my beautiful, immortal life.”
+55 [^612]. “If men would worship me with a sacrifice <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> in which I were invoked by my own name, as they worship the other Yazatas with sacrifices in which they are invoked by their own names, then I would come to the faithful at the appointed time; I would come in the appointed time of my beautiful, immortal life.”
 
 56 [^613]. 'But the pious man, holding libations in his hands, does worship thee with a sacrifice, in which thou art invoked by thy own name, and with the proper words.
 
@@ -251,7 +251,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 57\. 'Listen unto our sacrifice, O Mithra! Be thou pleased with our sacrifice, O Mithra! Come and sit at our sacrifice! Accept our libations! Accept them as they have been consecrated! Gather them together with love and lay them in the Garô-nmâna!
 
-58\. 'Grant us these boons which we beg of thee, O powerful god! in accordance with the words of revelation, namely, riches, strength, and victory, good conscience and bliss, good fame and a good soul; wisdom and the knowledge that gives happiness, the victorious strength given by Ahura, the crushing Ascendant of Asha-Vahi<i>s</i>ta, and conversation (with God) on the Holy Word. <span id="p134">[<sup><small>p. 134</small></sup>]</span> 59\. 'Grant that we, in a good spirit and high spirit, exalted in joy and a good spirit, may smite all our foes; that we, in a good spirit and high spirit, exalted in joy and a good spirit, may smite all our enemies; that we, in a good spirit and high spirit, exalted in joy and a good spirit, may smite all the malice of Daêvas and Men, of the Yâtus and Pairikas, of the oppressors, the blind, and the deaf.
+58\. 'Grant us these boons which we beg of thee, O powerful god! in accordance with the words of revelation, namely, riches, strength, and victory, good conscience and bliss, good fame and a good soul; wisdom and the knowledge that gives happiness, the victorious strength given by Ahura, the crushing Ascendant of Asha-Vahi<i>s</i>ta, and conversation (with God) on the Holy Word. <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> 59\. 'Grant that we, in a good spirit and high spirit, exalted in joy and a good spirit, may smite all our foes; that we, in a good spirit and high spirit, exalted in joy and a good spirit, may smite all our enemies; that we, in a good spirit and high spirit, exalted in joy and a good spirit, may smite all the malice of Daêvas and Men, of the Yâtus and Pairikas, of the oppressors, the blind, and the deaf.
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
@@ -267,7 +267,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 61\. 'We sacrifice unto Mithra, the lord of wide pastures, . . . . sleepless, and ever awake;
 
-‘Firm-legged [^615], a watcher fully awake; valiant, a chief in assemblies; making the waters flow forward; listening to appeals; making the waters run and the plants grow up; ruling over the <span id="p135">[<sup><small>p. 135</small></sup>]</span> Karshwares [^616]; delivering [^617]; happy [^618]; undeceivable; endowed with many senses [^619]; a creature of wisdom;
+‘Firm-legged [^615], a watcher fully awake; valiant, a chief in assemblies; making the waters flow forward; listening to appeals; making the waters run and the plants grow up; ruling over the <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> Karshwares [^616]; delivering [^617]; happy [^618]; undeceivable; endowed with many senses [^619]; a creature of wisdom;
 
 62\. 'Who gives neither strength nor vigour to him who has lied unto Mithra; who gives neither glory nor any boon to him who has lied unto Mithra.
 
@@ -283,7 +283,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘Who takes possession [^621] of the beautiful, wide-expanding law, greatly and powerfully, and whose face looks over all the seven Karshvares of the earth;
 
-65\. 'Who is swift amongst the swift, liberal amongst the liberal, strong amongst the strong, a chief of assembly amongst the chiefs of assemblies; increase-giving, fatness-giving, cattle-giving, sovereignty-giving, son-giving, cheerfulness [^622]\-giving, and bliss [^622]\-giving. <span id="p136">[<sup><small>p. 136</small></sup>]</span> 66\. 'With whom proceed Ashi Vanguhi, and Pâre<i>n</i>di on her light chariot [^623], the awful Manly Courage, the awful kingly Glory, the awful sovereign Sky, the awful cursing thought [^624] of the wise, the awful Fravashis of the faithful, and he who keeps united together the many faithful worshippers of Mazda [^625].
+65\. 'Who is swift amongst the swift, liberal amongst the liberal, strong amongst the strong, a chief of assembly amongst the chiefs of assemblies; increase-giving, fatness-giving, cattle-giving, sovereignty-giving, son-giving, cheerfulness [^622]\-giving, and bliss [^622]\-giving. <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> 66\. 'With whom proceed Ashi Vanguhi, and Pâre<i>n</i>di on her light chariot [^623], the awful Manly Courage, the awful kingly Glory, the awful sovereign Sky, the awful cursing thought [^624] of the wise, the awful Fravashis of the faithful, and he who keeps united together the many faithful worshippers of Mazda [^625].
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
@@ -295,7 +295,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 68\. 'Whose chariot is embraced [^630] by the great Ashi Vanguhi; to whom the Law of Mazda opens a way, that he may go easily; whom four heavenly steeds, white, shining, seen afar, beneficent, endowed with knowledge, swiftly [^631] carry along the heavenly space [^632], while the cursing thought of the wise pushes it forward;
 
-69\. 'From whom all the Daêvas unseen and the Varenya fiends [^633] flee away in fear. Oh! may we <span id="p137">[<sup><small>p. 137</small></sup>]</span> never fall across the rush of the angry lord [^634], who goes and rushes from a thousand sides against his foe, he, of the ten thousand spies, the powerful, all-knowing, undeceivable god.
+69\. 'From whom all the Daêvas unseen and the Varenya fiends [^633] flee away in fear. Oh! may we <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> never fall across the rush of the angry lord [^634], who goes and rushes from a thousand sides against his foe, he, of the ten thousand spies, the powerful, all-knowing, undeceivable god.
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
@@ -311,7 +311,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘For his brightness and glory, we offer him a sacrifice worth being heard . . . .
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 ## XIX.
 
@@ -329,7 +329,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘Thou hast good horses, thou hast a good chariot: thou art bringing help at every appeal, and art powerful.
 
-77\. 'I will pray unto thee for help, with many consecrations, with good consecrations of libations; with many offerings, with good offerings of libations, that we, abiding in thee, may long inhabit a good abode, full of all the riches that can be wished for. <span id="p139">[<sup><small>p. 139</small></sup>]</span> 78\. 'Thou keepest those nations that tender a good worship to Mithra, the lord of wide pastures; thou dashest in pieces those that delight in havoc. Unto thee will I pray for help: may he come to us for help, the awful, most powerful Mithra, the worshipful and praiseworthy, the glorious lord of nations.
+77\. 'I will pray unto thee for help, with many consecrations, with good consecrations of libations; with many offerings, with good offerings of libations, that we, abiding in thee, may long inhabit a good abode, full of all the riches that can be wished for. <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> 78\. 'Thou keepest those nations that tender a good worship to Mithra, the lord of wide pastures; thou dashest in pieces those that delight in havoc. Unto thee will I pray for help: may he come to us for help, the awful, most powerful Mithra, the worshipful and praiseworthy, the glorious lord of nations.
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
@@ -349,7 +349,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘Who made a dwelling for Rashnu, and to whom Rashnu gave all his soul for long friendship;
 
-82\. 'To whom Ahura Mazda gave a thousand <span id="p140">[<sup><small>p. 140</small></sup>]</span> senses [^647] and ten thousand eyes to see. With those eyes and those senses, he watches the man who injures Mithra, the man who lies unto Mithra. Through those eyes and those senses, he is undeceivable, he, of the ten thousand spies, the powerful, all-knowing, undeceivable god.
+82\. 'To whom Ahura Mazda gave a thousand <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> senses [^647] and ten thousand eyes to see. With those eyes and those senses, he watches the man who injures Mithra, the man who lies unto Mithra. Through those eyes and those senses, he is undeceivable, he, of the ten thousand spies, the powerful, all-knowing, undeceivable god.
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
@@ -369,7 +369,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘Whom the poor man, who follows the good law, when wronged and deprived of his rights, invokes for help, with hands uplifted.
 
-85\. 'The voice of his wailing reaches up to the sky, it goes over the earth all around, it goes over <span id="p141">[<sup><small>p. 141</small></sup>]</span> the seven Karshvares, whether he utters his prayer in a low tone of voice [^650] or aloud.
+85\. 'The voice of his wailing reaches up to the sky, it goes over the earth all around, it goes over <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> the seven Karshvares, whether he utters his prayer in a low tone of voice [^650] or aloud.
 
 86\. 'The cow driven astray invokes him for help [^651], longing for the stables:
 
@@ -383,7 +383,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 88\. 'We sacrifice unto Mithra, the lord of wide pastures, . . . . sleepless, and ever awake;
 
-‘To whom the enlivening, healing, fair, lordly, golden-eyed Haoma offered up a sacrifice on the highest of the heights, on the Haraiti Bareza [^653], he <span id="p142">[<sup><small>p. 142</small></sup>]</span> the undefiled to one undefiled, with undefiled baresma, undefiled libations, and undefiled words;
+‘To whom the enlivening, healing, fair, lordly, golden-eyed Haoma offered up a sacrifice on the highest of the heights, on the Haraiti Bareza [^653], he <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> the undefiled to one undefiled, with undefiled baresma, undefiled libations, and undefiled words;
 
 89\. 'Whom [^654] the holy Ahura Mazda has established as a priest, quick in performing the sacrifice and loud in song. He performed the sacrifice with a loud voice, as a priest quick in sacrifice and loud in song, a priest to Ahura Mazda, a priest to the Amesha-Spe<i>n</i>tas. His voice reached up to the sky, went over the earth all around, went over the seven Karshvares.
 
@@ -391,7 +391,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 91\. 'Hail to Mithra, the lord of wide pastures, who has a thousand ears and ten thousand eyes! Thou art worthy of sacrifice and prayer: mayest thou have sacrifice and prayer in the houses of men! Hail to the man who shall offer thee a sacrifice, with the holy wood in his hand, the baresma in his hand, the holy meat in his hand, the holy mortar in his hand [^656], with his hands well-washed, with the mortar well-washed, with the bundles of baresma tied up, the Haoma uplifted, and the Ahuna Vairya sung through.
 
-92\. 'The holy Ahura Mazda confessed that religion and so did Vohu-Manô, so did Asha-Vahi<i>s</i>ta, so did Khshathra-Vairya, so did Spe<i>n</i>ta-Ârmaiti, so <span id="p143">[<sup><small>p. 143</small></sup>]</span> did Haurvatâ<i>t</i> and Ameretâ<i>t</i>; and all the Amesha-Spe<i>n</i>tas longed for and confessed his religion. The kind Mazda conferred upon him the mastership of the world; and \[^657]\] who saw thee amongst all creatures the right lord and master of the world, the best cleanser of these creatures.
+92\. 'The holy Ahura Mazda confessed that religion and so did Vohu-Manô, so did Asha-Vahi<i>s</i>ta, so did Khshathra-Vairya, so did Spe<i>n</i>ta-Ârmaiti, so <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> did Haurvatâ<i>t</i> and Ameretâ<i>t</i>; and all the Amesha-Spe<i>n</i>tas longed for and confessed his religion. The kind Mazda conferred upon him the mastership of the world; and \[^657]\] who saw thee amongst all creatures the right lord and master of the world, the best cleanser of these creatures.
 
 93\. 'So mayest thou in both worlds, mayest thou keep us in both worlds, O Mithra, lord of wide pastures! both in this material world and in the world of the spirit, from the fiend of Death, from the fiend Aêshma [^658], from the fiendish hordes, that lift up the spear of havoc, and from the onsets of Aêshma, wherein the evil-doing Aêshma rushes along with Vîdôtu [^659], made by the Daêvas.
 
@@ -403,7 +403,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 95\. We sacrifice unto Mithra, the lord of wide pastures, . . . . sleepless, and ever awake;
 
-‘Who goes over the earth, all her breadth over, after the setting of the sun [^661], touches both ends of <span id="p144">[<sup><small>p. 144</small></sup>]</span> this wide, round earth, whose ends lie afar, and surveys everything that is between the earth and the heavens,
+‘Who goes over the earth, all her breadth over, after the setting of the sun [^661], touches both ends of <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> this wide, round earth, whose ends lie afar, and surveys everything that is between the earth and the heavens,
 
 96\. 'Swinging in his hands a club with a hundred knots, a hundred edges, that rushes forwards and fells men down; a club cast out of red brass, of strong, golden brass; the strongest of all weapons, the most victorious of all weapons [^662];
 
@@ -419,7 +419,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘From whom all the Daêvas unseen and the Varenya fiends flee away in fear [^668].
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 ‘The lord of nations, Mithra, the lord of wide pastures, drives forward at the right-hand side of this wide, round earth, whose ends lie afar.
 
@@ -439,7 +439,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 ## XXVII.
 
@@ -457,7 +457,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 ‘ "Should the evil words of the earthly man be a hundred times worse, they would not rise so high as the good words of the heavenly Mithra;
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 ‘ "Should the evil deeds of the earthly man be a hundred times worse, they would not rise so high as the good deeds of the heavenly Mithra;
 
@@ -471,7 +471,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 109\. ' “To whom shall I give in return, without his thinking of it, the awful sovereignty, beautifully arrayed, with many armies, and most perfect; the sovereignty of an all-powerful tyrant, who fells down heads, valiant, smiting, and unsmitten; who orders chastisement to be done and his order is done at once, which he has ordered in his anger?”
 
-‘O Mithra! when thou art offended and not satisfied, he [^677] soothes thy mind, and makes Mithra satisfied. <span id="p148">[<sup><small>p. 148</small></sup>]</span> 110\. ’ "To whom shall I, in my might, impart sickness and death? To whom shall I impart poverty and sterility [^678]? Of whom shall I at one stroke cut off the offspring?
+‘O Mithra! when thou art offended and not satisfied, he [^677] soothes thy mind, and makes Mithra satisfied. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> 110\. ’ "To whom shall I, in my might, impart sickness and death? To whom shall I impart poverty and sterility [^678]? Of whom shall I at one stroke cut off the offspring?
 
 111\. ' “From whom shall I take away, without his thinking of it, the awful sovereignty, beautifully arrayed, with many armies, and most perfect; the sovereignty of an all-powerful tyrant, who fells down heads, valiant, smiting, and unsmitten; who orders chastisement to be done and his order is done at once, which he has ordered in his anger?”
 
@@ -487,7 +487,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 113\. 'And then cattle and males come to graze, as many as he wants.
 
-‘May Mithra and Ahura [^681], the high gods, come to us for help, when the poniard lifts up its voice <span id="p149">[<sup><small>p. 149</small></sup>]</span> aloud [^682], when the nostrils of the horses quiver, when the poniards . . . . [^683], when the strings of the bows whistle and shoot sharp arrows; then the brood of those whose libations are hated fall smitten to the ground, with their hair torn off.
+‘May Mithra and Ahura [^681], the high gods, come to us for help, when the poniard lifts up its voice <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> aloud [^682], when the nostrils of the horses quiver, when the poniards . . . . [^683], when the strings of the bows whistle and shoot sharp arrows; then the brood of those whose libations are hated fall smitten to the ground, with their hair torn off.
 
 114\. 'So mayest thou, O Mithra, lord of wide pastures! give swiftness to our teams, strength to our own bodies, and that we may watch with full success those who hate us, smite down our foes, and destroy at one stroke our adversaries, our enemies, and those who hate us [^684].
 
@@ -505,7 +505,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 ‘Mithra is fortyfold between two partners [^688];
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 ‘Mithra is fiftyfold between wife and husband [^689];
 
@@ -533,7 +533,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 ‘Offer up a sacrifice unto Mithra, O Spitama! and order thy pupils to do the same.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 ‘Let the worshipper of Mazda sacrifice unto thee [^695] with small cattle, with black cattle, with flying birds, gliding forward on wings.
 
@@ -541,7 +541,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 121\. Zarathu<i>s</i>tra asked him: ‘O Ahura Mazda! how shall the faithful man drink the libations cleanly prepared, which if he does and he offers them unto Mithra, the lord of wide pastures, Mithra will be pleased with him and without anger?’
 
-122\. Ahura Mazda answered: 'Let them wash their bodies three days and three nights; let them undergo thirty strokes [^697] for the sacrifice and prayer unto Mithra, the lord of wide pastures. Let them wash their bodies two days and two nights; let them undergo twenty strokes for the sacrifice and prayer unto Mithra, the lord of wide pastures. Let no <span id="p152">[<sup><small>p. 152</small></sup>]</span> man drink of these libations who does not know the staota yêsnya [^698]: Vîspê ratavô [^699].
+122\. Ahura Mazda answered: 'Let them wash their bodies three days and three nights; let them undergo thirty strokes [^697] for the sacrifice and prayer unto Mithra, the lord of wide pastures. Let them wash their bodies two days and two nights; let them undergo twenty strokes for the sacrifice and prayer unto Mithra, the lord of wide pastures. Let no <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> man drink of these libations who does not know the staota yêsnya [^698]: Vîspê ratavô [^699].
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard . . . .
 
@@ -557,7 +557,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 126\. 'At his right hand drives Rashnu-Razi<i>s</i>ta [^706], the most beneficent and most well-shapen.
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 ‘At his left hand drives the most upright <i>K</i>ista [^707], the holy one, bearing libations in her hands, clothed with white clothes, and white herself; and the cursing thought [^708] of the Law of Mazda.
 
@@ -571,7 +571,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 130\. 'On a side of the chariot of Mithra, the lord of wide pastures, stand a thousand spears well-made and sharp-piercing. They go through the heavenly space, they fall through the heavenly space upon the skulls of the Daêvas.
 
-‘On a side of the chariot of Mithra, the lord of <span id="p154">[<sup><small>p. 154</small></sup>]</span> wide pastures, stand a thousand steel-hammers, two-edged, well-made. They go through the heavenly space, they fall through the heavenly space upon the skulls of the Daêvas.
+‘On a side of the chariot of Mithra, the lord of <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> wide pastures, stand a thousand steel-hammers, two-edged, well-made. They go through the heavenly space, they fall through the heavenly space upon the skulls of the Daêvas.
 
 131\. 'On a side of the chariot of Mithra, the lord of wide pastures, stand a thousand swords, two-edged and well-made. They go through the heavenly space, they fall through the heavenly space upon the skulls of the Daêvas.
 
@@ -581,7 +581,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 133\. 'After he has smitten the Daêvas, after he has smitten down the men who lied unto Mithra, Mithra, the lord of wide pastures, drives forward through Arezahê and Savahê, through Fradadhafshu and Vîdadhafshu, through Vourubare<i>s</i>ti and Vouru<i>g</i>are<i>s</i>ti, through this our Karshvare, the bright <i>H</i><i>v</i>aniratha [^716].
 
-134\. 'Angra Mainyu, who is all death, flees away in fear; Aêshma, the evil-doing Peshotanu, flees <span id="p155">[<sup><small>p. 155</small></sup>]</span> away in fear; the long-handed Bûshyãsta flees away in fear; all the Daêvas unseen and the Varenya fiends flee away in fear.
+134\. 'Angra Mainyu, who is all death, flees away in fear; Aêshma, the evil-doing Peshotanu, flees <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> away in fear; the long-handed Bûshyãsta flees away in fear; all the Daêvas unseen and the Varenya fiends flee away in fear.
 
 135\. 'Oh! may we never fall across the rush of Mithra, the lord of wide pastures, when in anger! May Mithra, the lord of wide pastures, never smite us in his anger; he who stands up upon this earth as the strongest of all gods, the most valiant of all gods, the most energetic of all gods, the swiftest of all gods, the most fiend-smiting of all gods, he, Mithra, the lord of wide pastures [^717].
 
@@ -599,7 +599,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 138\. ' "When Mithra's boons will come to him, as he follows God's teaching, and thinks according to God's teaching.
 
-‘ “Woe to that man, I think,”—said Ahura Mazda,— <span id="p156">[<sup><small>p. 156</small></sup>]</span> “O holy Zarathu<i>s</i>tra! for whom an unholy priest, not pious [^720], who is not the Word incarnate, stands behind the baresma, however full may be the bundles of baresma he ties, however long may be the sacrifice he performs.”
+‘ “Woe to that man, I think,”—said Ahura Mazda,— <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> “O holy Zarathu<i>s</i>tra! for whom an unholy priest, not pious [^720], who is not the Word incarnate, stands behind the baresma, however full may be the bundles of baresma he ties, however long may be the sacrifice he performs.”
 
 139\. 'He does not delight Ahura Mazda, nor the other Amesha-Spe<i>n</i>tas, nor Mithra, the lord of wide pastures, he who thus scorns Mazda, and the other Amesha-Spe<i>n</i>tas, and Mithra, the lord of wide pastures, and the Law, and Rashnu, and Ar<i>s</i>tâ<i>t</i>, who makes the world grow, who makes the world increase.
 
@@ -615,7 +615,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 ‘For his brightness and glory, I will offer him a sacrifice worth being heard. . . .
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 ## XXXIV.
 
@@ -635,7 +635,7 @@ A warrior with a silver helm [^680], a golden cuirass [^680], who kills with the
 
 ‘We sacrifice unto the Mithra within countries;
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 ‘We sacrifice unto the Mithra in this country [^725];
 

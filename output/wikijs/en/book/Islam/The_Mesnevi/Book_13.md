@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 ## XIII. The Prophet's First Amanuensis.
 
@@ -60,7 +60,7 @@ This turbid stream had never flowed thence, heavily.”
 Not caring to expose his scribe to all his friends,
 <sup id="v10"><small>10</small></sup>  The Prophet held his peace, to watch th’ adventure's ends.
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 The scribe's heart hardened more and more as time rolled on.
 Repentance he felt not; his pride grew thereupon.
@@ -97,7 +97,7 @@ Despair thou not; take consolation to thy soul;
 “Thou Lover of forgiveness! Pardon to me grant!
 Physician of the soul! Relieve my direful want!”
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 Such counsel wise drove mad that erring sinner, quite.
 Think not of him. ’Twill tire thy mind beyond respite.
@@ -135,7 +135,7 @@ But stay till I depart: then straightway thou shalt see.
 Thy lovers then shall loathe thy charms, adored before.
 To worms, and toads, and snakes they'll fling thee, as cheap store.
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Thy stench shall make him hold his nose in deep disgust,
 Who lately in thy presence would have licked the dust.”
@@ -168,7 +168,7 @@ While they themselves his sport are, in his cursed fist.
 Hast never seen the devil? Look at thy own self!
 Who'd paint his forehead blue, unless deceived by elf?[^355]
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 Whoever hath a doubt or trouble in his mind,
 In secret's a philosopher, as you may find.
@@ -201,7 +201,7 @@ Until he envied Adam in his froward heart?
 The son of Beor, Balaam, in the world's esteem,
 Was equal unto Moses. So all men did deem.
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 To him alone was homage paid by high and low;
 His prayers were reckoned medicine for every woe.
@@ -236,7 +236,7 @@ Their blood may lawfully be shed for needs of man;
 The brute is held of low degree on this our earth;
 As being weighed against great man's superior worth.
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 What value will attach to thee, thou arrant fool,
 If, like an ass, thou spite the lords of reason's school?
@@ -273,7 +273,7 @@ The axe sets not its trenchant edge to lop off leaves;
 A flame is not abashed, though many thorns collect;
 Whole herds of sheep can never butcher's knife deflect.
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 To inward idea's power the outward sign must yield.
 That power, ’tis, makes revolve the heavens’ vast starry field.
@@ -307,7 +307,7 @@ They're but the leaves of autumn by the wild winds blown.
 Now turn we from this subject, most engaging still,
 To learn about those angels, victims of self-will.
 
-<span id="p242">[<sup><small>p. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 The sins of all mankind were known to them as sure;
 No wickedness escapes the glance of spirits pure.
@@ -344,7 +344,7 @@ Would he have learnt as well its love the rose to meet?
 Should he achieve a notion of that love's intent;
 ’Twould be mere surmise, like deaf man's from lips’ consent.
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 Such deaf man once was made aware by some kind friend,
 That next door dwelt an invalid near to his end.
@@ -378,7 +378,7 @@ Asked Deafy; “whose advice is’t leads you on your way?”
 “Death tracks my hours!” said he; “pray leave me now to rest.”
 The other answered: “Better can't be found; he's best.”
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 The visitor retired, quite pleased with his rich art;
 And offered thanks for having played so kind a part.
@@ -415,7 +415,7 @@ Beware offence to give, while proffering a kiss!
 The Prophet said one was a hypocrite, he knew:
 “Go, worship, friend; thy act's no worship, as I trew!”
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 For fear lest we should trespass, even as we pray,
 <sup id="v165"><small>165</small></sup>  Our worship has the prayer: “Lord, guide us in Thy way!”[^363]
@@ -449,7 +449,7 @@ Thou, son of fire, begone, disgraced, cursed, none too soon!”
 Investigations, reasonings, on days of cloud,
 By night, in darkness, guide the doubting crowd;
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 But, when the sun shines,—when God's temple's clearly seen,
 No doubt remains which way to turn one's face, I ween.
@@ -478,7 +478,7 @@ They sang of old in pride: “We're God's elect,” jejune.
 You pray for grace on all the sins of wicked men;
 <sup id="v190"><small>190</small></sup>  You curse your own foul egotism, greed's hungry ken.
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 Beware lest God's just jealousy break forth amain,
 And smite you to the earth, ne’er more to rise again.

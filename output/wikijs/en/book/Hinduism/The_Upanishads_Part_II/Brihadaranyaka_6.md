@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 SIXTH ADHYÂYA.
 
@@ -46,7 +46,7 @@ SIXTH ADHYÂYA.
 
 4\. He who knows success, whatever desire he desires, it succeeds to him. The ear indeed is success. For in the ear are all these Vedas successful. He who knows this, whatever desire he desires, it succeeds to him.
 
-5\. He who knows the home, becomes a home of his own people, a home of all men. The mind <span id="p202">[<sup><small>p. 202</small></sup>]</span> indeed is the home. He who knows this, becomes a home of his own people and a home of all men.
+5\. He who knows the home, becomes a home of his own people, a home of all men. The mind <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> indeed is the home. He who knows this, becomes a home of his own people and a home of all men.
 
 6\. He who knows generation [^593], becomes rich in offspring and cattle. Seed indeed is generation. He who knows this, becomes rich in offspring and cattle.
 
@@ -69,7 +69,7 @@ Then the king said: ‘Have you been taught by your father!’ ‘Yes,’ he rep
 
 ‘Do you know how they come back to this world?’ ‘No,’ he replied [^599].
 
-<span id="p205">[<sup><small>p. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 ‘Do you know how that world does never become full with the many who again and again depart thither?’ ‘No,’ he replied.
 
@@ -89,7 +89,7 @@ Then the king said: ‘Have you been taught by your father!’ ‘Yes,’ he rep
 
 ‘You may go, Sir,’ the son replied.
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 Then Gautama went where (the place of) Pravâha<i>n</i>a Gaivali was, and the king offered him a seat, ordered water for him, and gave him the proper offerings. Then he said to him: ‘Sir, we offer a boon to Gautama.’
 
@@ -103,26 +103,26 @@ The king said: ‘Gautama, do you wish (for instruction from me) in the proper w
 
 Gautama replied: ‘I come to you as a pupil.’
 
-In word only have former sages (though Brahmans) come as pupils (to people of lower rank), but Gautama actually dwelt as a pupil (of Pravâha<i>n</i>a, who was a Râ<i>g</i>anya) in order to obtain the fame of having respectfully served his master [^601]. <span id="p207">[<sup><small>p. 207</small></sup>]</span> 8\. The king said: 'Do not be offended with us, neither you nor your forefathers, because this knowledge has before now never dwelt with any Brâhma<i>n</i>a [^602]. But I shall tell it to you, for who could refuse you when you speak thus?
+In word only have former sages (though Brahmans) come as pupils (to people of lower rank), but Gautama actually dwelt as a pupil (of Pravâha<i>n</i>a, who was a Râ<i>g</i>anya) in order to obtain the fame of having respectfully served his master [^601]. <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> 8\. The king said: 'Do not be offended with us, neither you nor your forefathers, because this knowledge has before now never dwelt with any Brâhma<i>n</i>a [^602]. But I shall tell it to you, for who could refuse you when you speak thus?
 
 9\. 'The altar (fire), O Gautama, is that world (heaven) [^603]; the fuel is the sun itself, the smoke his rays, the light the day, the coals the quarters, the sparks the intermediate quarters. On that altar the Devas offer the <i>s</i>raddhâ libation (consisting of water [^604]). From that oblation rises Soma, the king (the moon).
 
 10\. 'The altar, O Gautama, is Par<i>g</i>anya (the god of rain); the fuel is the year itself, the smoke the clouds, the light the lightning, the coals the thunderbolt, the sparks the thunderings. On that altar the Devas offer Soma, the king (the moon). From that oblation rises rain.
 
-11\. 'The altar, O Gautama, is this world [^605]; the fuel is the earth itself, the smoke the fire, the light the night, the coals the moon, the sparks the stars. On that altar the Devas offer rain. From that oblation rises food. <span id="p208">[<sup><small>p. 208</small></sup>]</span> 12\. 'The altar, O Gautama, is man; the fuel the opened mouth, the smoke the breath, the light the tongue, the coals the eye, the sparks the ear. On that altar the Devas offer food. From that oblation rises seed.
+11\. 'The altar, O Gautama, is this world [^605]; the fuel is the earth itself, the smoke the fire, the light the night, the coals the moon, the sparks the stars. On that altar the Devas offer rain. From that oblation rises food. <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> 12\. 'The altar, O Gautama, is man; the fuel the opened mouth, the smoke the breath, the light the tongue, the coals the eye, the sparks the ear. On that altar the Devas offer food. From that oblation rises seed.
 
 13\. 'The altar, O Gautama, is woman [^606]. On that altar the Devas offer seed. From that oblation rises man. He lives so long as he lives, and then when he dies,
 
 14\. 'They take him to the fire (the funeral pile), and then the altar-fire is indeed fire, the fuel fuel, the smoke smoke, the light light, the coals coals, the sparks sparks. In that very altar-fire the Devas offer man, and from that oblation man rises, brilliant in colour.
 
-15\. 'Those who thus know this (even G<i>ri</i>hasthas), and those who in the forest worship faith and the True [^607] (Brahman Hira<i>n</i>yagarbha), go to light (ar<i>k</i>is), from light to day, from day to the increasing half, from the increasing half to the six months when the sun goes to the north, from those six months to the world of the Devas (Devaloka), from the world of the Devas to the sun, from the sun to the place of lightning. When they have thus reached the place of lightning a spirit [^608] comes near them, and leads them to the worlds of the (conditioned) Brahman. In these worlds of Brahman they dwell exalted for ages. There is no returning for them. <span id="p209">[<sup><small>p. 209</small></sup>]</span> 16\. 'But they who conquer the worlds (future states) by means of sacrifice, charity, and austerity, go to smoke, from smoke to night, from night to the decreasing half of the moon, from the decreasing half of the moon to the six months when the sun goes to the south, from these months to the world of the fathers, from the world of the fathers to the moon. Having reached the moon, they become food, and then the Devas feed on them there, as sacrificers feed on Soma, as it increases and decreases [^609]. But when this (the result of their good works on earth) ceases, they return again to that ether, from ether to the air, from the air to rain, from rain to the earth. And when they have reached the earth, they become food, they are offered again in the altar-fire, which is man (see § 11), and thence are born in the fire of woman. Thus they rise up towards the worlds, and go the same round as before.
+15\. 'Those who thus know this (even G<i>ri</i>hasthas), and those who in the forest worship faith and the True [^607] (Brahman Hira<i>n</i>yagarbha), go to light (ar<i>k</i>is), from light to day, from day to the increasing half, from the increasing half to the six months when the sun goes to the north, from those six months to the world of the Devas (Devaloka), from the world of the Devas to the sun, from the sun to the place of lightning. When they have thus reached the place of lightning a spirit [^608] comes near them, and leads them to the worlds of the (conditioned) Brahman. In these worlds of Brahman they dwell exalted for ages. There is no returning for them. <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> 16\. 'But they who conquer the worlds (future states) by means of sacrifice, charity, and austerity, go to smoke, from smoke to night, from night to the decreasing half of the moon, from the decreasing half of the moon to the six months when the sun goes to the south, from these months to the world of the fathers, from the world of the fathers to the moon. Having reached the moon, they become food, and then the Devas feed on them there, as sacrificers feed on Soma, as it increases and decreases [^609]. But when this (the result of their good works on earth) ceases, they return again to that ether, from ether to the air, from the air to rain, from rain to the earth. And when they have reached the earth, they become food, they are offered again in the altar-fire, which is man (see § 11), and thence are born in the fire of woman. Thus they rise up towards the worlds, and go the same round as before.
 
 ‘Those, however, who know neither of these two paths, become worms, birds,, and creeping things.’
 
 
 ## THIRD BRÂHMA<i>N</i>A [^610].
 
-1\. If a man wishes to reach greatness (wealth for performing sacrifices), he performs the upasad rule during twelve days [^611] (i. e. he lives on small quantities of milk), beginning on an auspicious day of the light half of the moon during the northern progress of the sun, collecting at the same time in a cup or a dish <span id="p210">[<sup><small>p. 210</small></sup>]</span> made of Udumbara wood all sorts of herbs, including fruits. He sweeps the floor (near the house-altar, âvasathya), sprinkles it, lays the fire, spreads grass round it according to rule [^612], prepares the clarified butter (â<i>g</i>ya), and on a day, presided over by a male star (nakshatra), after having properly mixed the Mantha [^613] (the herbs, fruits, milk, honey, &c.), he sacrifices (he pours â<i>g</i>ya into the fire), saying [^614]: ‘O <i>G</i>âtavedas, whatever adverse gods there are in thee, who defeat the desires of men, to them I offer this portion; may they, being pleased, please me with all desires.’ Svâhâ!
+1\. If a man wishes to reach greatness (wealth for performing sacrifices), he performs the upasad rule during twelve days [^611] (i. e. he lives on small quantities of milk), beginning on an auspicious day of the light half of the moon during the northern progress of the sun, collecting at the same time in a cup or a dish <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> made of Udumbara wood all sorts of herbs, including fruits. He sweeps the floor (near the house-altar, âvasathya), sprinkles it, lays the fire, spreads grass round it according to rule [^612], prepares the clarified butter (â<i>g</i>ya), and on a day, presided over by a male star (nakshatra), after having properly mixed the Mantha [^613] (the herbs, fruits, milk, honey, &c.), he sacrifices (he pours â<i>g</i>ya into the fire), saying [^614]: ‘O <i>G</i>âtavedas, whatever adverse gods there are in thee, who defeat the desires of men, to them I offer this portion; may they, being pleased, please me with all desires.’ Svâhâ!
 
 ‘That cross deity who lies down [^615], thinking that all things are kept asunder by her, I worship thee as propitious with this stream of ghee.’ Svâhâ!
 
@@ -134,7 +134,7 @@ He then says, Svâhâ to Speech, Svâhâ to the Support, pours ghee into the fir
 
 He then says, Svâhâ to the Eye, Svâhâ to Success, pours ghee into the fire, and throws what remains into the Mantha (mortar).
 
-He then says, Svâhâ to the Ear, Svâhâ to the <span id="p211">[<sup><small>p. 211</small></sup>]</span> Home, pours ghee into the fire, and throws what remains into the Mantha (mortar).
+He then says, Svâhâ to the Ear, Svâhâ to the <span id="p211"><sup><small>[ p. 211 ]</small></sup></span> Home, pours ghee into the fire, and throws what remains into the Mantha (mortar).
 
 He then says, Svâhâ to the Mind, Svâhâ to Offspring, pours ghee into the fire, and throws what remains into the Mantha (mortar).
 
@@ -158,7 +158,7 @@ He then says, Svâhâ to Kshatra (the knighthood), pours ghee into the fire, and
 
 He then says, Svâhâ to the Past, pours ghee into the fire, and throws what remains into the Mantha (mortar).
 
-<span id="p212">[<sup><small>p. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 He then says, Svâhâ to the Future, pours ghee into the fire, and throws what remains into the Mantha (mortar).
 
@@ -172,7 +172,7 @@ He then says, Svâhâ to Pra<i>g</i>âpati, pours ghee into the fire, and throws
 
 5\. Then he holds it (the Mantha) forth, saying
 
-‘Thou [^616] knowest all, we know thy greatness. He is <span id="p213">[<sup><small>p. 213</small></sup>]</span> indeed a king, a ruler, the highest lord. May that king, that ruler make me the highest lord.’
+‘Thou [^616] knowest all, we know thy greatness. He is <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> indeed a king, a ruler, the highest lord. May that king, that ruler make me the highest lord.’
 
 6\. Then he eats it, saying: 'Tat savitur vare<i>n</i>yam [^617] (We meditate on that adorable light)—The winds drop honey for the righteous, the rivers drop honey, may our plants be sweet as honey! Bhû<i>h</i> (earth) Svâhâ!
 
@@ -182,7 +182,7 @@ He then says, Svâhâ to Pra<i>g</i>âpati, pours ghee into the fire, and throws
 
 He repeats the whole Sâvitrî verse, and all the verses about the honey, thinking, May I be all this! Bhûr, Bhuva<i>h</i>, Sva<i>h</i>, Svâhâ! Having thus swallowed all, he washes his hands, and sits down behind the altar, turning his head to the East. In the morning he worships Âditya (the sun), with the hymn, ‘Thou art the best lotus of the four quarters, may I become the best lotus among men.’ Then returning as he came, he sits down behind the altar and recites the genealogical list [^618].
 
-7\. Uddâlaka Âruni told this (Mantha-doctrine) to his pupil Vâ<i>g</i>asaneya Yâ<i>g</i>_ñ_avalkya, and said: ‘If a man were to pour it on a dry stick, branches would grow, and leaves spring forth.’ <span id="p214">[<sup><small>p. 214</small></sup>]</span> 8\. Vâ<i>g</i>asaneya Yâ<i>g</i>_ñ_avalkya told the same to his pupil Madhuka Paiṅgya, and said: ‘If a man were to pour it on a dry stick, branches would grow, and leaves spring forth.’
+7\. Uddâlaka Âruni told this (Mantha-doctrine) to his pupil Vâ<i>g</i>asaneya Yâ<i>g</i>_ñ_avalkya, and said: ‘If a man were to pour it on a dry stick, branches would grow, and leaves spring forth.’ <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> 8\. Vâ<i>g</i>asaneya Yâ<i>g</i>_ñ_avalkya told the same to his pupil Madhuka Paiṅgya, and said: ‘If a man were to pour it on a dry stick, branches would grow, and leaves spring forth.’
 
 9\. Madhuka Paiṅgya told the same to his pupil <i>K</i>ûla Bhâgavitti, and said: ‘If a man were to pour it on a dry stick, branches would grow, and leaves spring forth.’
 
@@ -196,7 +196,7 @@ Let no one tell this [^619] to any one, except to a son or to a pupil [^620].
 
 13\. Four things are made of the wood of the Udumbara tree, the sacrificial ladle (sruva), the cup (<i>k</i>amasa), the fuel, and the two churning sticks.
 
-There are ten kinds of village (cultivated) seeds, viz. rice and barley (brîhiyavâs), sesamum and kidney-beans (tilamâshâs), millet and panic seed (a<i>n</i>upriyaṅgavas), wheat (godhûmâs), lentils (masûrâs), pulse (khalvâs), and vetches (khalakulâs [^621]) . After having <span id="p215">[<sup><small>p. 215</small></sup>]</span> ground these he sprinkles them with curds (dadhi), honey, and ghee, and then offers (the proper portions) of clarified butter [1](Brihadaranyaka_6#fn622) (â<i>g</i>ya).
+There are ten kinds of village (cultivated) seeds, viz. rice and barley (brîhiyavâs), sesamum and kidney-beans (tilamâshâs), millet and panic seed (a<i>n</i>upriyaṅgavas), wheat (godhûmâs), lentils (masûrâs), pulse (khalvâs), and vetches (khalakulâs [^621]) . After having <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> ground these he sprinkles them with curds (dadhi), honey, and ghee, and then offers (the proper portions) of clarified butter [1](Brihadaranyaka_6#fn622) (â<i>g</i>ya).
 
 
 ## FOURTH BRÂHMA<i>N</i>A [^623].
@@ -205,13 +205,13 @@ There are ten kinds of village (cultivated) seeds, viz. rice and barley (brîhiy
 
 2\. And Pra<i>g</i>âpati thought, let me make an abode for him, and he created a woman (<i>S</i>atarûpâ).
 
-Tâ<i>m</i> [^624] s<i>ri</i>sh<i>t</i>vâdha upâsta, tasmât striyam adha upâsîta. Sa etam prâ_ñ_<i>k</i>a<i>m</i> grâvâ<i>n</i>am âtmana eva samudapârayat, tenainâm abhyas<i>ri</i><i>g</i>at. <span id="p216">[<sup><small>p. 216</small></sup>]</span> 3\. Tasyâ vedir upastho, lomâni barhi<i>s</i>, <i>k</i>armâdhishava<i>n</i>e, samiddho [^625] madhyatas, tau mushkau. Sa yâvân ha vai vâ<i>g</i>apeyena ya<i>g</i>amânasya loko bhavati tâvân asya loko bhavati ya eva<i>m</i> vidvân adhopahâsa<i>m</i> <i>k</i>araty a sa [^626] strî<i>n</i>a<i>m</i> suk<i>ri</i>ta<i>m</i> v<i>ri</i>ṅkte 'tha ya idam avidvân adhopahâsa<i>m</i> <i>k</i>araty âsya striya<i>h</i> suk<i>ri</i>ta<i>m</i> v<i>ri</i>_ñ_<i>g</i>ate.
+Tâ<i>m</i> [^624] s<i>ri</i>sh<i>t</i>vâdha upâsta, tasmât striyam adha upâsîta. Sa etam prâ_ñ_<i>k</i>a<i>m</i> grâvâ<i>n</i>am âtmana eva samudapârayat, tenainâm abhyas<i>ri</i><i>g</i>at. <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> 3\. Tasyâ vedir upastho, lomâni barhi<i>s</i>, <i>k</i>armâdhishava<i>n</i>e, samiddho [^625] madhyatas, tau mushkau. Sa yâvân ha vai vâ<i>g</i>apeyena ya<i>g</i>amânasya loko bhavati tâvân asya loko bhavati ya eva<i>m</i> vidvân adhopahâsa<i>m</i> <i>k</i>araty a sa [^626] strî<i>n</i>a<i>m</i> suk<i>ri</i>ta<i>m</i> v<i>ri</i>ṅkte 'tha ya idam avidvân adhopahâsa<i>m</i> <i>k</i>araty âsya striya<i>h</i> suk<i>ri</i>ta<i>m</i> v<i>ri</i>_ñ_<i>g</i>ate.
 
 4\. Etad dha sma vai tadvidvân Uddâlaka Âru<i>n</i>ir âhaitad dha sma vai tadvidvân Nâko Maudgalya âhaitad dha sma vai tadvidvân Kumârahârita âha, bahavo maryâ brâhma<i>n</i>âyanâ [^627] nirindriyâ visuk<i>ri</i>to'smâl lokât prayanti [^628] ya ida<i>m</i> avidvâ<i>m</i>so 'dhopahâsa<i>m</i> <i>k</i>arantîti. Bahu vâ [^629] ida<i>m</i> suptasya va <i>g</i>âgrato vâ reta<i>h</i> skandati,
 
 5\. Tad abhim<i>ri</i><i>s</i>ed anu vâ mantrayeta yan me 'dya reta<i>h</i> p<i>ri</i>thivîm askântsîd yad oshadhîr apy asarad yad apa<i>h</i>, idam aha<i>m</i> tad reta âdade punar mâm aitv indriyam punas te<i>g</i>a<i>h</i> punar bhaga<i>h</i>, punar agnayo [^630] dhish<i>n</i>yâ yathâsthâna<i>m</i> kalpantâm, ity anâmikâṅgush<i>th</i>âbhyâm âdâyântare<i>n</i>a stanau vâ bhruvau vâ nim<i>ri</i>_ñ_<i>g</i>yât [^631].
 
-6\. If a man see himself in the water [^632], he should <span id="p217">[<sup><small>p. 217</small></sup>]</span> recite the following verse: ‘May there be in me splendour, strength, glory, wealth, virtue.’
+6\. If a man see himself in the water [^632], he should <span id="p217"><sup><small>[ p. 217 ]</small></sup></span> recite the following verse: ‘May there be in me splendour, strength, glory, wealth, virtue.’
 
 She is the best of women whose garments are pure [^633]. Therefore let him approach a woman whose garments are pure, and whose fame is pure, and address her.
 
@@ -221,7 +221,7 @@ She is the best of women whose garments are pure [^633]. Therefore let him appro
 
 9\. Sa yâm i<i>k</i><i>kh</i>et kâmayeta meti tasyâm artha<i>m</i> nish<i>t</i>âya [^637] mukhena mukha<i>m</i> sandhâyopastham asyâ abhim<i>ri</i><i>s</i>ya <i>g</i>aped aṅgâdaṅgât sambhavasi h<i>ri</i>dayâd adhi <i>g</i>âyase, sa tvam aṅgakashâyo [^638] 'si digdhaviddhâm [^639] iva mâdayemâm amûm mayîti [^640].
 
-10\. Atha yâm i<i>k</i><i>kh</i>en na garbha<i>m</i> dadhîteti [^641] tasyâm artha<i>m</i> nish<i>t</i>âya mukhena mukha<i>m</i> sandhâyâbhiprâ<i>n</i>yâpânyâd indriye<i>n</i>a te retasâ reta âdada ity aretâ [^642] eva bhavati. <span id="p218">[<sup><small>p. 218</small></sup>]</span> 11\. Atha yâm i<i>k</i><i>kh</i>ed garbha<i>m</i> dadhîteti tasyâm artha<i>m</i> nish<i>t</i>âya mukhena mukha<i>m</i> sandhâyâpânyâbhiprâ<i>n</i>yâd indriye<i>n</i>a te retâsa reta âdadhâmîti garbhi<i>n</i>y eva bhavati.
+10\. Atha yâm i<i>k</i><i>kh</i>en na garbha<i>m</i> dadhîteti [^641] tasyâm artha<i>m</i> nish<i>t</i>âya mukhena mukha<i>m</i> sandhâyâbhiprâ<i>n</i>yâpânyâd indriye<i>n</i>a te retasâ reta âdada ity aretâ [^642] eva bhavati. <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> 11\. Atha yâm i<i>k</i><i>kh</i>ed garbha<i>m</i> dadhîteti tasyâm artha<i>m</i> nish<i>t</i>âya mukhena mukha<i>m</i> sandhâyâpânyâbhiprâ<i>n</i>yâd indriye<i>n</i>a te retâsa reta âdadhâmîti garbhi<i>n</i>y eva bhavati.
 
 12\. Now again, if a man's wife has a lover and the husband hates him, let him (according to rule) [^643] place fire by an unbaked jar, spread a layer of arrows in inverse order [^644], anoint these three arrow-heads [^645] with butter in inverse order, and sacrifice, saying: ‘Thou hast sacrificed in my fire, I take away thy up and down breathing, I here [^646].’
 
@@ -233,7 +233,7 @@ She is the best of women whose garments are pure [^633]. Therefore let him appro
 
 He whom a Brâhma<i>n</i>a who knows this curses, departs from this world without strength and without good works. Therefore let no one wish even for sport with the wife of a <i>S</i>rotriya [^647] who knows this, for he who knows this, is a dangerous enemy.
 
-13\. When the monthly illness seizes his wife, she <span id="p219">[<sup><small>p. 219</small></sup>]</span> should for three days not drink from a metal vessel, and wear a fresh dress. Let no V<i>ri</i>shala or V<i>ri</i>shalî (a <i>S</i>ûdra man or woman) touch her. At the end of the three days, when she has bathed, the husband should make her pound rice [^648].
+13\. When the monthly illness seizes his wife, she <span id="p219"><sup><small>[ p. 219 ]</small></sup></span> should for three days not drink from a metal vessel, and wear a fresh dress. Let no V<i>ri</i>shala or V<i>ri</i>shalî (a <i>S</i>ûdra man or woman) touch her. At the end of the three days, when she has bathed, the husband should make her pound rice [^648].
 
 14\. And if a man wishes that a white son should be born to him, and that he should know one Veda, and live to his full age, then, after having prepared boiled rice with milk and butter, they should both eat, being fit to have offspring.
 
@@ -243,21 +243,21 @@ He whom a Brâhma<i>n</i>a who knows this curses, departs from this world withou
 
 17\. And if a man wishes that a learned daughter should be born to him, and that she should live to her full age, then, after having prepared boiled rice with sesamum and butter, they should both eat, being fit to have offspring.
 
-18\. And if a man wishes that a learned son should be born to him, famous, a public man, a popular speaker, that he should know all the Vedas, and that <span id="p220">[<sup><small>p. 220</small></sup>]</span> he should live to his full age, then, after having prepared boiled rice with meat and butter, they should both eat, being fit to have offspring. The meat should be of a young or of an old bull.
+18\. And if a man wishes that a learned son should be born to him, famous, a public man, a popular speaker, that he should know all the Vedas, and that <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> he should live to his full age, then, after having prepared boiled rice with meat and butter, they should both eat, being fit to have offspring. The meat should be of a young or of an old bull.
 
 19\. And then toward morning, after having, according to the rule of the Sthâlîpâka (pot-boiling), performed the preparation of the Â<i>g</i>ya (clarified butter [^650]), he sacrifices from the Sthâlîpâka bit by bit, saying: ‘This is for Agni, Svâhâ! This is for Anumati, Svâhâ! This is for the divine Savit<i>ri</i>, the true creator, Svâhâ!’ Having sacrificed, he takes out the rest of the rice and eats it, and after having eaten, he gives it to his wife. Then he washes his hands, fills a water-jar, and sprinkles her thrice with it, saying: ‘Rise hence, O Vi<i>s</i>vâvasu [^651], seek another blooming girl, a wife with her husband.’
 
-20\. Then he embraces her, and says: ‘I am Ama (breath), thou art Sâ (speech) [^652]. Thou art Sâ (speech), I am Ama (breath). I am the Sâman, thou art the <i>Ri</i><i>k</i> [^653]. I am the sky, thou art the earth. Come, let us strive together, that a male child may be begotten [^654].’ <span id="p221">[<sup><small>p. 221</small></sup>]</span> 21\. Athâsyâ ûrû vihâpayati, vi<i>g</i>ihîthâ<i>m</i> dyâvâp<i>ri</i>thivî iti tasyâm artha<i>m</i> nish<i>t</i>âya mukhena mukha<i>m</i> sandhâya trir enâm anulomâm [^655] anumârsh<i>t</i>i, Vish<i>n</i>ur yoni<i>m</i> kalpayatu, Tvash<i>t</i>â rûpâ<i>n</i>i pi<i>m</i>satu, âsi_ñ_<i>k</i>atu Pra<i>g</i>âpatir Dhâtâ garbha<i>m</i> dadhatu te. Garbha<i>m</i> dhehi Sinîvâli, garbha<i>m</i> dhehi p<i>ri</i>thush<i>t</i>uke, garbha<i>m</i> te A<i>s</i>vinau devâv âdhattâm pushkarasra<i>g</i>au.
+20\. Then he embraces her, and says: ‘I am Ama (breath), thou art Sâ (speech) [^652]. Thou art Sâ (speech), I am Ama (breath). I am the Sâman, thou art the <i>Ri</i><i>k</i> [^653]. I am the sky, thou art the earth. Come, let us strive together, that a male child may be begotten [^654].’ <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> 21\. Athâsyâ ûrû vihâpayati, vi<i>g</i>ihîthâ<i>m</i> dyâvâp<i>ri</i>thivî iti tasyâm artha<i>m</i> nish<i>t</i>âya mukhena mukha<i>m</i> sandhâya trir enâm anulomâm [^655] anumârsh<i>t</i>i, Vish<i>n</i>ur yoni<i>m</i> kalpayatu, Tvash<i>t</i>â rûpâ<i>n</i>i pi<i>m</i>satu, âsi_ñ_<i>k</i>atu Pra<i>g</i>âpatir Dhâtâ garbha<i>m</i> dadhatu te. Garbha<i>m</i> dhehi Sinîvâli, garbha<i>m</i> dhehi p<i>ri</i>thush<i>t</i>uke, garbha<i>m</i> te A<i>s</i>vinau devâv âdhattâm pushkarasra<i>g</i>au.
 
 22\. Hira<i>n</i>mayî ara<i>n</i>î yâbhyâ<i>m</i> nirmanthatâm [^656] a<i>s</i>vinau [^657], ta<i>m</i> te garbha<i>m</i> havâmahe [^658] da<i>s</i>ame mâsi sûtave. Yathâgnigarbhâ p<i>ri</i>thivî, yathâ dyaur indre<i>n</i>a garbhi<i>n</i>î, vâyur di<i>s</i>â<i>m</i> yathâ garbha eva<i>m</i> garbha<i>m</i> dadhâ<i>m</i>î te 'sav iti [^659].
 
-23\. Soshyantîm [^660] adbhir abhyukshati. Yathâ vâyu<i>h</i> [^661] pushkari<i>n</i>î<i>m</i> sami_ñ_<i>g</i>ayati sarvata<i>h</i>, evâ te garbha e<i>g</i>atu sahâvaitu garâyu<i>n</i>â. Indrasyâya<i>m</i> vra<i>g</i>a<i>h</i> k<i>ri</i>ta<i>h</i> sârga<i>l</i>a<i>h</i> [^662] sapari<i>s</i>raya<i>h</i> [^663], tam indra nir<i>g</i>ahi garbhe<i>n</i>a sâvarâ<i>m</i> [^664] saheti. <span id="p222">[<sup><small>p. 222</small></sup>]</span> 24 [^665]. When the child is born, he prepares the fire, places the child on his lap, and having poured p<i>ri</i>shadâ<i>g</i>ya, i.e. dadhi (thick milk) mixed with gh<i>ri</i>ta (clarified butter) into a metal jug, he sacrifices bit by bit of that p<i>ri</i>shadâ<i>g</i>ya, saying: ‘May I, as I increase in this my house, nourish a thousand! May fortune never fail in his race, with offspring and cattle, Svâhâ!’
+23\. Soshyantîm [^660] adbhir abhyukshati. Yathâ vâyu<i>h</i> [^661] pushkari<i>n</i>î<i>m</i> sami_ñ_<i>g</i>ayati sarvata<i>h</i>, evâ te garbha e<i>g</i>atu sahâvaitu garâyu<i>n</i>â. Indrasyâya<i>m</i> vra<i>g</i>a<i>h</i> k<i>ri</i>ta<i>h</i> sârga<i>l</i>a<i>h</i> [^662] sapari<i>s</i>raya<i>h</i> [^663], tam indra nir<i>g</i>ahi garbhe<i>n</i>a sâvarâ<i>m</i> [^664] saheti. <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> 24 [^665]. When the child is born, he prepares the fire, places the child on his lap, and having poured p<i>ri</i>shadâ<i>g</i>ya, i.e. dadhi (thick milk) mixed with gh<i>ri</i>ta (clarified butter) into a metal jug, he sacrifices bit by bit of that p<i>ri</i>shadâ<i>g</i>ya, saying: ‘May I, as I increase in this my house, nourish a thousand! May fortune never fail in his race, with offspring and cattle, Svâhâ!’
 
 ‘I offer to thee. in my mind the vital breaths which are in me, Svâhâ!’
 
 ‘Whatever [^666] in my work I have done too much, or whatever I have here done too little, may the wise Agni Svish<i>t</i>ak<i>ri</i>t make this right and proper for us, Svâhâ!’
 
-25\. Then putting his mouth near the child's right ear, he says thrice, Speech, speech [^667]! After <span id="p223">[<sup><small>p. 223</small></sup>]</span> that he pours together thick milk, honey, and clarified butter, and feeds the child with (a ladle of) pure gold [^668], saying: ‘I give thee Bhû<i>h</i>, I give thee Bhuva<i>h</i>, I give thee Sva<i>h</i> [^669]. Bhûr, Bhuva<i>h</i>, Sva<i>h</i>, I give thee all [^670].’
+25\. Then putting his mouth near the child's right ear, he says thrice, Speech, speech [^667]! After <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> that he pours together thick milk, honey, and clarified butter, and feeds the child with (a ladle of) pure gold [^668], saying: ‘I give thee Bhû<i>h</i>, I give thee Bhuva<i>h</i>, I give thee Sva<i>h</i> [^669]. Bhûr, Bhuva<i>h</i>, Sva<i>h</i>, I give thee all [^670].’
 
 26 [^671]. Then he gives him his name, saying: ‘Thou art Veda;’ but this is his secret name [^672].
 
@@ -265,7 +265,7 @@ He whom a Brâhma<i>n</i>a who knows this curses, departs from this world withou
 
 28 [^674]. Then he addresses the mother of the boy:
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>a
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>a
 
 ‘Thou art I<i>l</i>â Maitrâvaru<i>n</i>î: thou strong woman hast born a strong boy. Be thou blessed with strong children thou who hast blessed me with a strong child.’
 
@@ -284,7 +284,7 @@ Oxford University Press
 
 \[1921\]
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>hume
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>hume
 
 SIXTH ADHYÂYA
 
@@ -315,7 +315,7 @@ Again, my strength; again, my glow!
 Again the altars and the fire
 Be found in their accustomed place!’
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>hume
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>hume
 
 Having spoken thus, he should take it with ring-finger and thumb, and rub it on between his breasts or his eye-brows.
 
@@ -341,7 +341,7 @@ As if by poisoned arrow pierced!’
 
 12\. Now, if one's wife have a paramour, and he hate him, let him put fire in an unannealed vessel, spread out a row of reed arrows in inverse order, and therein sacrifice in inverse
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>hume
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>hume
 
 order those reed arrows, their heads smeared with ghee, saying:—
 
@@ -363,7 +363,7 @@ Verily, he whom a Brahman who knows this curses—he departs from this world imp
 
 16\. Now, in case one wishes, ‘That a swarthy son with red eyes be born to me! that he be able to repeat three Vedas! that he attain the full length of life!’—they two should have rice boiled with water and should eat it prepared with ghee. They two are likely to beget \[him\].
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>hume
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>hume
 
 17\. Now, in case one wishes, ‘That a learned (_pandita_) daughter be born to me! that she attain the full length of life!’—they two should have rice boiled with sesame and should eat it prepared with ghee. They two are likely to beget \[her\].
 
@@ -386,7 +386,7 @@ Come, let us two together clasp!
 Together let us semen mix,
 A male, a son for to procure!’
 
-<span id="p172">[<sup><small>p. 172</small></sup>]</span>hume
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>hume
 
 21\. Then he spreads apart her thighs, saying: ‘Spread yourselves apart, heaven and earth!’ Inserting the member in her and joining mouth with mouth, he strokes her three times as the hair lies, saying:—
 
@@ -425,7 +425,7 @@ The after-birth along with babe!' [^684]
 
 24\. When \[the son\] is born, he \[i. e. the father\] builds up a fire, places him on his lap, mingles ghee and coagulated milk in a metal dish, and makes an oblation, ladling out of the mingled ghee and coagulated milk, and saying-
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>hume
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>hume
 
 ‘In this son may I be increased,
 And have a thousand in mine house!
@@ -460,20 +460,20 @@ O heroine! She has borne a hero!' [^691]
 Continue to be such a woman abounding in heroes—
 She who has made us abound in a hero!’
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>hume
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>hume
 
 Of such a son, verily, they say: ‘Ah, you have gone beyond your father! Ah, you have gone beyond your grandfather!’
 
 Ah, he reaches the highest pinnacle of splendor, glory, and sacred knowledge who is born as the son of a Brahman who knows this!
 
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>b
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>b
 
 ## FIFTH BRÂHMANA.
 
 1\. Now follows the stem [^692]:
 
-1\. Pautimâshîputra from Kâtyâyanîputra, <span id="p225">[<sup><small>p. 225</small></sup>]</span> 2\. Kâtyâyanîputra from Gotamîputra,
+1\. Pautimâshîputra from Kâtyâyanîputra, <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> 2\. Kâtyâyanîputra from Gotamîputra,
 3\. Gotamîputra from Bhâradvâ<i>g</i>îputra,
 4\. Bhâradvâ<i>g</i>îputra from Pârâ<i>s</i>arîputra,
 5\. Pârâ<i>s</i>arîputra from Aupasvatîputra,
@@ -504,7 +504,7 @@ Ah, he reaches the highest pinnacle of splendor, glory, and sacred knowledge who
 27\. Mâ<i>n</i><i>d</i>ûkâyanîputra from Mâ<i>n</i><i>d</i>ûkîputra,
 28\. Mâ<i>n</i><i>d</i>ûkîputra from <i>S</i>â<i>n</i><i>d</i>ilîputra,
 29\. <i>S</i>â<i>n</i><i>d</i>ilîputra from Râthîtarîputra,
-30 [^695]. Râthîtarîputra from Bhâlukîputra, <span id="p226">[<sup><small>p. 226</small></sup>]</span> 31\. Bhâlukîputra from Krau_ñ_<i>k</i>ikîputrau,
+30 [^695]. Râthîtarîputra from Bhâlukîputra, <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> 31\. Bhâlukîputra from Krau_ñ_<i>k</i>ikîputrau,
 32\. Krau_ñ_<i>k</i>ikîputrau from Vai<i>t</i><i>t</i>abhatîputra [^696],
 33\. Vai<i>t</i><i>t</i>abhatîputra from Kâr<i>s</i>akeyîputra [^697],
 34\. Kâr<i>s</i>akeyîputra from Prâ<i>k</i>înayogîputra,
@@ -530,7 +530,7 @@ Ah, he reaches the highest pinnacle of splendor, glory, and sacred knowledge who
 51\. Vâ<i>k</i> from Ambhi<i>n</i>î,
 52\. Ambhi<i>n</i>î from Âditya, the Sun.
 
-As coming from Âditya, the Sun, these pure [^699] Ya<i>g</i>us verses have been proclaimed by Yâgñavalkya Vâ<i>g</i>asaneya. <span id="p227">[<sup><small>p. 227</small></sup>]</span> 4 [^700]. The same as far as Sâñ<i>g</i>îvîputra (No. 36), then
+As coming from Âditya, the Sun, these pure [^699] Ya<i>g</i>us verses have been proclaimed by Yâgñavalkya Vâ<i>g</i>asaneya. <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> 4 [^700]. The same as far as Sâñ<i>g</i>îvîputra (No. 36), then
 
 36\. Sâñ<i>g</i>îvîputra from Mâ<i>n</i><i>d</i>ûkâyani,
 37\. Mâ<i>n</i><i>d</i>ûkâyani from Mâ<i>n</i><i>d</i>avya,
@@ -582,11 +582,11 @@ Adoration to Brahman!
 
 [^593]: 202:1 This is wanting in the <i>Kh</i>ând. Up. Roer and Poley read Pra<i>g</i>âpati for pra<i>g</i>âti. MS, I. O. 3 75 has pra<i>g</i>âti, MS. I. O. 1973 pra<i>g</i>âpati.
 
-[^594]: 202:2 Here we have Pra<i>g</i>âpati, instead of Brahman, in the <i>Kh</i>ând. Up.; also sresh<i>th</i>a instead of vasish<i>th</i>a. <span id="p203">[<sup><small>p. 203</small></sup>]</span> but breathing with the breath, speaking with the tongue, seeing with the eye, knowing with the mind, generating with seed. Thus we have lived.' Then the ear entered in.
+[^594]: 202:2 Here we have Pra<i>g</i>âpati, instead of Brahman, in the <i>Kh</i>ând. Up.; also sresh<i>th</i>a instead of vasish<i>th</i>a. <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> but breathing with the breath, speaking with the tongue, seeing with the eye, knowing with the mind, generating with seed. Thus we have lived.' Then the ear entered in.
   11\. The mind departed, and having been absent for a year, it came back and said: ‘How have you been able to live without me?’ They replied: ‘Like fools, not knowing with their mind, but breathing with the breath, seeing with the eye, hearing with the ear, generating with seed. Thus we have lived.’ Then the mind entered in.
   12\. The seed departed, and having been absent for a year, it came back and said: ‘How have you been able to live without me?’ They replied: ‘Like impotent people, not generating with seed, but breathing with the breath, seeing with the eye, hearing with the ear, knowing with the mind. Thus we have lived.’ Then the seed entered in.
   13\. The (vital) breath, when on the point of departing, tore up these senses, as a great, excellent horse of the Sindhu country might tare up the pegs to which he is tethered. They said to him: ‘Sir, do not depart. We shall not be able to live without thee.’ He said: ‘Then make me an offering.’ They said: ‘Let it be so.’
-  14\. Then the tongue said: ‘If I am the richest, then thou art the richest by it.’ The eye said: ‘If I am the firm rest, then thou art possessed of firm rest by it.’ The ear said: ‘If I am success, then thou art possessed of success by it.’ The mind said: ‘If I am the home, thou art the home by it.’ The seed said: ‘If I am generation, thou art possessed of generation by it.’ He said: ‘What shall be food, what shall be dress for me?’ <span id="p204">[<sup><small>p. 204</small></sup>]</span>
+  14\. Then the tongue said: ‘If I am the richest, then thou art the richest by it.’ The eye said: ‘If I am the firm rest, then thou art possessed of firm rest by it.’ The ear said: ‘If I am success, then thou art possessed of success by it.’ The mind said: ‘If I am the home, thou art the home by it.’ The seed said: ‘If I am generation, thou art possessed of generation by it.’ He said: ‘What shall be food, what shall be dress for me?’ <span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
   They replied: ‘Whatever there is, even unto dogs, worms, insects, and birds [^595], that is thy food, and water thy dress. He who thus knows the food of Ana (the breath) [^596], by him nothing is eaten that is not (proper) food, nothing is received that is not (proper) food. <i>S</i>rotriyas (Vedic theologians) who know this, rinse the mouth with water when they are going to eat, and rinse the mouth with water after they have eaten, thinking that thereby they make the breath dressed (with water).’
 
 [^595]: 204:1 It may mean, every kind of food, such as is eaten by dogs, worms, insects, and birds.

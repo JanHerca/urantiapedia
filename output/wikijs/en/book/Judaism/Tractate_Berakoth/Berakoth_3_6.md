@@ -36,7 +36,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 **M**.VI. 1. What is the form of the Benediction over fruits? [^274] Over the fruits of trees a man says: “Thou that createst the fruit of the tree”; with the exception of wine, for over wine he says: “Thou that createst the fruit of the vine.” Over the fruits of the earth he says: “Thou that createst the fruit of the ground”; with the exception of a piece of bread, for over a piece of bread he says: “Thou that bringest forth bread from the earth.” Over vegetables he says: "Thou
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 **M**.that createst the fruit of the ground.“ R. Judah used to say: ”Thou that createst different kinds of herbs.”
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 4\. If a man has in front of him many kinds \[of fruit\], R. Judah says: If among them there is one of the seven kinds he says the Benediction over it. [^281]
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 **M**.\[paragraph continues\] But the Majority say: He says the Benediction over whichever of them he likes.
 
@@ -58,11 +58,11 @@ T. IV. 1. Let not a man taste anything until he pronounces a Benediction, for it
 
 3\. In the case of unmixed wine, they say over it the Benediction: “Thou that createst the fruit of the tree,” [^287] and take of it for washing the hands. If one has put water into it they say over it the Benediction: “Thou that createst the fruit of the vine,” and they do not take of it for washing the hands. These are the words of R. Eliezer. But the Majority say: unmixed or mixed are all one. [^288] They say over it the Benediction: “Thou that createst the fruit of the vine,” and do not take of it for washing the hands.
 
-4\. If they have brought before him different <span id="p46">[<sup><small>p. 46</small></sup>]</span> kinds of dessert he says the Benediction over them: “Thou that createst different kinds of sweetmeats.” [^289] Over the seeds [^290] he says: “Thou that createst different kinds of seeds.” And over the herbs he says: “Thou that createst different kinds of herbs.” And over the vegetables he says: “Thou that createst the fruit of the ground.” R. Judah says: “Blessed is He that causeth the earth to produce by His word.” R. Meir says: Even if he has seen the piece of bread and says: “Blessed be He who created this piece of bread; how beautiful is it!”—this is its Benediction. [^291]
+4\. If they have brought before him different <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> kinds of dessert he says the Benediction over them: “Thou that createst different kinds of sweetmeats.” [^289] Over the seeds [^290] he says: “Thou that createst different kinds of seeds.” And over the herbs he says: “Thou that createst different kinds of herbs.” And over the vegetables he says: “Thou that createst the fruit of the ground.” R. Judah says: “Blessed is He that causeth the earth to produce by His word.” R. Meir says: Even if he has seen the piece of bread and says: “Blessed be He who created this piece of bread; how beautiful is it!”—this is its Benediction. [^291]
 
 5\. If he has seen figs, and has said: “Blessed be He who has created these figs; how beautiful they are”—this is their Benediction. R. Jose says: Everyone who changes the formula which the Majority formed in a Benediction has not fulfilled his obligation. R. Judah says, If anything is changed from its natural condition, and one then makes a change in the Benediction of it, he has fulfilled his obligation. [^292]
 
-6\. He that cheweth \[grains of\] wheat says the Benediction over them, “that createst different kinds of seeds.” If he has baked them or boiled them, at the time when the grains remain \[distinct\], he says the Benediction over them: “Who bringest bread out from the earth,” [^293] and (after the meal) he says three Benedictions over them. [^294] If the grains do not remain \[distinct\] he says the Benediction over them: "who createst different <span id="p47">[<sup><small>p. 47</small></sup>]</span> kinds of foods," and he says One Benediction after them. [1](Berakoth_3_6#fn_295)
+6\. He that cheweth \[grains of\] wheat says the Benediction over them, “that createst different kinds of seeds.” If he has baked them or boiled them, at the time when the grains remain \[distinct\], he says the Benediction over them: “Who bringest bread out from the earth,” [^293] and (after the meal) he says three Benedictions over them. [^294] If the grains do not remain \[distinct\] he says the Benediction over them: "who createst different <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> kinds of foods," and he says One Benediction after them. [1](Berakoth_3_6#fn_295)
 
 7\. He that cheweth rice [2](Berakoth_3_6#fn_296) says the Benediction over it: “who createst different kinds of seeds.” If he has baked it, or boiled it, so long as the grains remain \[distinct\], he says the Benediction over them: “who createst different kinds of foods,” and does not say any Benediction after it at all. This is the general principle, that in the case of everything which begins with (the Benediction) “who bringest out bread,” one says three Benedictions after it.
 
@@ -72,7 +72,7 @@ T. IV. 1. Let not a man taste anything until he pronounces a Benediction, for it
 
 **M**.VI. 5. If a man has said the Benediction over the wine that comes before the meal he lets the wine that is after the meal go free. [^297] If he has said the Benediction over the _hors d'œuvre_ that is before the meal, he lets the _hors d’œuvre_ that comes after the meal go free. If he has said the Benediction over the piece of bread he lets the _hors d’œuvre_ go free; if over the _hors d’œuvres_ [^298] he does not let the piece of bread go free. The school of Shammai says: nor anything that is cooked in the pot. [^299]
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 <a id="m2"></a>
 
@@ -82,7 +82,7 @@ T. IV. 1. Let not a man taste anything until he pronounces a Benediction, for it
 
 **T**. IV. 8. In what manner is the order of the feast? The guests enter and sit on benches \[and\] on chairs until they have all entered. When they have all entered and are given water [^305] for their hands, each one washes one hand. When they have mixed them the cup each one says the Benediction for himself. When the _hors d’œuvres_ have been brought each one says the Benediction for himself.
 
-If they have gone upstairs [^306] and reclined, and are <span id="p49">[<sup><small>p. 49</small></sup>]</span> given water for their hands, although he washes one hand \[before\], he \[now\] washes both his hands. When the cup is mixed for them, although he has said the Benediction over the first he says one \[again\] over the second. When the _hors d’œuvres_ have been brought, although he has said the Benediction over the first he says one \[again\] over the second, and one person says it for them all. He that comes after three _hors d’œuvres_ is not allowed to enter.
+If they have gone upstairs [^306] and reclined, and are <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> given water for their hands, although he washes one hand \[before\], he \[now\] washes both his hands. When the cup is mixed for them, although he has said the Benediction over the first he says one \[again\] over the second. When the _hors d’œuvres_ have been brought, although he has said the Benediction over the first he says one \[again\] over the second, and one person says it for them all. He that comes after three _hors d’œuvres_ is not allowed to enter.
 
 9\. Rabban Simeon ben Gamaliel says: This was a great custom in Jerusalem; a towel was spread on the top of the doorway; all the time that the towel was spread guests could enter; when the towel was removed guests were not allowed to enter.
 
@@ -92,7 +92,7 @@ If they have gone upstairs [^306] and reclined, and are <span id="p49">[<sup><sm
 
 12\. Ben Zoma was asked: Why when wine comes in the middle of food does each one say the Benediction for himself? He said to them: because the gullet is not empty. [^309]
 
-13\. If rice is brought them and wine, one says a <span id="p50">[<sup><small>p. 50</small></sup>]</span> Benediction over the rice and lets the wine go free; [^310] if radishes and unripe dates, one says a Benediction over the radishes and lets the unripe dates go free. [^311]
+13\. If rice is brought them and wine, one says a <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> Benediction over the rice and lets the wine go free; [^310] if radishes and unripe dates, one says a Benediction over the radishes and lets the unripe dates go free. [^311]
 
 V. 5. What is the order of reclining? When there are two couches, the eldest [^312] reclines at the head of the first, and the second to him, below him; [^313] and when there are three couches the eldest reclines at the head of the middle one, the second to him above him, the third to him below him. So they go on arranging them.
 
@@ -102,7 +102,7 @@ The order of mixing the cup—how is it \[arranged\]? In the middle of the meal 
 
 7\. Two wait each for the other at a dish; [^314] but three do not wait. [^315] He who says the Benediction stretches his hand out first \[to take the food\]. If he wishes to assign the honour to his teacher, or to one who is older than himself, he is permitted to do so.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 **T**.
 
@@ -118,7 +118,7 @@ Rabban Simeon ben Gamaliel says: Pieces of bread are a great sign to guests. So 
 
 15\. We say [^319] the Benediction over that corn which is of the choicest. How so? In the case of a whole loaf of Lesbian flour [^320] and a whole loaf of
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 **T**.
 
@@ -128,7 +128,7 @@ Now there is an incident in \[the life of\] Rabban Gamaliel and some Elders, who
 
 R. Judah says in the name of Rabban Gamaliel: In the case of everything which is one of the seven
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 **T**.
 
@@ -136,17 +136,17 @@ kinds and is not a kind of corn, and in the case of corn which is not made into 
 
 16\. There is an incident in the life of R. Tarphon, who was sitting in the shadow of a dovecot on a sabbath in the afternoon. A bucket of cold water was brought before him. R. Tarphon said to his disciples: In what manner shall he who drinketh water to satisfy his thirst say the Benediction? His disciples said to him: “Teach us, O our Rabbi.” He said to them: “Thou that createst souls and that which they need.” He said to them: “Shall I discuss this?” They said to him: “Teach us.” He said to them: Behold He said: “_and they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a travelling company of Ishmaelites_,” [^324] etc. But is it not the custom of Arabs to he carrying nothing but skins of evil odour and resin? But \[we read\] that they set that righteous man [^325] among their precious things. [^326] Now behold these words yield the argument of the less to the greater: If this happened at a time when the righteous were under \[God's\] anger, and mercy was shown them, how much more in the time of His mercy!
 
-17\. Like that \[are the words\] “_So they drew near, and carried them in their coats_,” [^327] etc. And do not these words yield an argument of the less to the <span id="p54">[<sup><small>p. 54</small></sup>]</span> greater? If at the time of God's wrath against the righteous mercy is shown to them, how much more at the time that He has mercy upon them! Like that expression thou findest it said: [^328] “The lion had not eaten the carcase, nor torn the ass.”  [^329] And, behold, the words yield an argument of the less to the greater. If at the time of God's wrath against the righteous mercy is shown to them, how much more at the time that He has mercy upon them! He said to them: Shall I discuss it? They said: Teach us, O our Master. He said to them: Why did Judah deserve the kingdom? They said to him:  [^330] Because he made confession  [^331] about Tamar.
+17\. Like that \[are the words\] “_So they drew near, and carried them in their coats_,” [^327] etc. And do not these words yield an argument of the less to the <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> greater? If at the time of God's wrath against the righteous mercy is shown to them, how much more at the time that He has mercy upon them! Like that expression thou findest it said: [^328] “The lion had not eaten the carcase, nor torn the ass.”  [^329] And, behold, the words yield an argument of the less to the greater. If at the time of God's wrath against the righteous mercy is shown to them, how much more at the time that He has mercy upon them! He said to them: Shall I discuss it? They said: Teach us, O our Master. He said to them: Why did Judah deserve the kingdom? They said to him:  [^330] Because he made confession  [^331] about Tamar.
 
-18\. There is an incident of four elders who were sitting in the portico of R. Joshua. These were they: Eleazar ben Mattai, Chananiah ben Chakinai, and Simeon ben Azzai, and Simeon the Temanite. [^332] They were occupied with what R. Aqiba had taught them: Why did Judah deserve the kingdom? Because he made confession about Tamar. They added further of themselves: “_Which wise men tell from their fathers, and have not hid it; unto whom alone the land was given, and no stranger passed among them_.” [^333] He [^334] said to them: What! Is a reward given for transgression? [^335] But [^336] why did Judah deserve the kingdom? Because he delivered his brother from death, for it is said: "_And Judah_ <span id="p55">[<sup><small>p. 55</small></sup>]</span> _said unto his brothers, What profit_,“ etc.? ”_Come, and let us sell him to the Ishmaelites, and let not our hand be upon him_." [^337] He [^338] said to them: It is sufficient unto the deliverance that it should atone for the sale. [^339]
+18\. There is an incident of four elders who were sitting in the portico of R. Joshua. These were they: Eleazar ben Mattai, Chananiah ben Chakinai, and Simeon ben Azzai, and Simeon the Temanite. [^332] They were occupied with what R. Aqiba had taught them: Why did Judah deserve the kingdom? Because he made confession about Tamar. They added further of themselves: “_Which wise men tell from their fathers, and have not hid it; unto whom alone the land was given, and no stranger passed among them_.” [^333] He [^334] said to them: What! Is a reward given for transgression? [^335] But [^336] why did Judah deserve the kingdom? Because he delivered his brother from death, for it is said: "_And Judah_ <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> _said unto his brothers, What profit_,“ etc.? ”_Come, and let us sell him to the Ishmaelites, and let not our hand be upon him_." [^337] He [^338] said to them: It is sufficient unto the deliverance that it should atone for the sale. [^339]
 
-But why did Judah deserve the kingdom? Because of his humility. For it is said: “_Now therefore, let thy servant, I pray thee, abide instead of the lad_,” [^340] etc. Even Saul deserved the kingdom only because of his humility, for it is said: “_Lest my father leave caring for the asses, and take thought for us_,” [^341] etc. He accounted his servant like himself. But Samuel did not so, but \[said\]: “_Lo, thy father hath left the care of the asses, and taketh thought for you, saying, What shall I do for my son?_” [^342] And when he was fleeing from the princedom, what does it say? “_Therefore they asked of the LORD further, Is there yet a man to come hither? And He said_,” [^343] etc. He [^344] said to them: But was he \[Judah\] not a surety, and the end of being surety is to become free from suretyship. [^345] But why did Judah deserve the kingdom? Because he sanctified the name of God \[lit.: the Place\] at the Sea, for when the tribes came and stood on \[the edge of\] the sea, this one said: I am going down first, and this said: I am going down first; the tribe of Judah made haste and went down first, and sanctified the name of God at the sea. And concerning that time does it say: “_Save me, O God; for the waters are come in unto my soul. I sink in deep mire_,” [^346] etc., and so it says: "_When Israel went forth out of Egypt, the_ <span id="p56">[<sup><small>p. 56</small></sup>]</span> _house of Jacob from a people of strange language; Judah became his sanctuary, Israel his dominion_." [^347] Judah, because he sanctified the name of God at the Sea: therefore Israel became his, _i.e._ Judah's, dominion.
+But why did Judah deserve the kingdom? Because of his humility. For it is said: “_Now therefore, let thy servant, I pray thee, abide instead of the lad_,” [^340] etc. Even Saul deserved the kingdom only because of his humility, for it is said: “_Lest my father leave caring for the asses, and take thought for us_,” [^341] etc. He accounted his servant like himself. But Samuel did not so, but \[said\]: “_Lo, thy father hath left the care of the asses, and taketh thought for you, saying, What shall I do for my son?_” [^342] And when he was fleeing from the princedom, what does it say? “_Therefore they asked of the LORD further, Is there yet a man to come hither? And He said_,” [^343] etc. He [^344] said to them: But was he \[Judah\] not a surety, and the end of being surety is to become free from suretyship. [^345] But why did Judah deserve the kingdom? Because he sanctified the name of God \[lit.: the Place\] at the Sea, for when the tribes came and stood on \[the edge of\] the sea, this one said: I am going down first, and this said: I am going down first; the tribe of Judah made haste and went down first, and sanctified the name of God at the sea. And concerning that time does it say: “_Save me, O God; for the waters are come in unto my soul. I sink in deep mire_,” [^346] etc., and so it says: "_When Israel went forth out of Egypt, the_ <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> _house of Jacob from a people of strange language; Judah became his sanctuary, Israel his dominion_." [^347] Judah, because he sanctified the name of God at the Sea: therefore Israel became his, _i.e._ Judah's, dominion.
 
 19\. If \[during the meal\] they have moved to conduct a bride home, [^348] and have left there \[at the meal\] even one old man, or even a sick man, it is not necessary for them to say a Benediction in irregular order; [^349] and, when they return, it is not necessary for them to say it as at the beginning. If they have not left anyone there, even an old man, or a sick man, it is necessary for them to say a Benediction in irregular order, and when they return it is necessary to say it as at the beginning.
 
 20\. In the case of the master of the house who is reclining and eating, [^350] and his partner calls him to speak with him, it is not necessary to say a Benediction in irregular order, and when he returns it is not necessary to say it as at the beginning. If he withdraws \[voluntarily and for some time\] it is necessary to say a Benediction in irregular order, and when he returns it is necessary to say it as at the beginning.
 
-21\. In the case of workmen who are picking figs, or cutting dates, or plucking olives, although they repeatedly break off and eat (some of what they pick), it is not necessary for them to say the Benediction in irregular order, and when they return it is not necessary for them to say the <span id="p57">[<sup><small>p. 57</small></sup>]</span> Benediction as at the beginning. If they withdraw it is necessary to say the Benediction in irregular order, and when they return it is necessary for them to say the Benediction as at the beginning.
+21\. In the case of workmen who are picking figs, or cutting dates, or plucking olives, although they repeatedly break off and eat (some of what they pick), it is not necessary for them to say the Benediction in irregular order, and when they return it is not necessary for them to say the <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> Benediction as at the beginning. If they withdraw it is necessary to say the Benediction in irregular order, and when they return it is necessary for them to say the Benediction as at the beginning.
 
 VI. 8. If one has eaten figs, and grapes, and pomegranates, he says three Benedictions [1](Berakoth_3_6#fn_351) over them. [2](Berakoth_3_6#fn_352) This is the opinion of Rabban Gamaliel. But the Majority say: One Benediction \[which is\] the summary of three. R. Aqiba says: even if he eats vegetable _potage_ as his meal, he says three Benedictions over it. And he who drinks water to satisfy his thirst says \[the Benediction\], “For all came into existence by His word.” [3](Berakoth_3_6#fn_353) R. Tarphon says: \[He says\], “Thou that createst souls and their needs.” [4](Berakoth_3_6#fn_354)
 
@@ -156,13 +156,13 @@ VI. 8. If one has eaten figs, and grapes, and pomegranates, he says three Benedi
 
 **T**. V. 1. A man does not eat on the eve of the sabbath from the afternoon [^355] and onwards, so that he may enter on the sabbath with desire. These are the words of R. Judah. R. Jose says: He continues to eat until the time that it is getting dark.
 
-2\. An incident \[is related\] of Rabban Simeon ben Gamaliel and R. Judah and R. Jose, that they were reclining at a meal in Accho, and the holy <span id="p58">[<sup><small>p. 58</small></sup>]</span> day drew on. [^356] Rabban Simeon ben Gamaliel said to R. Jose: Let us leave off for the sabbath. [^357] He said to him: Every single day dost thou prefer my words of Judah, and now thou preferrest the words of Judah to mine! “_Will he even force the queen with me in the house?_” [^358]
+2\. An incident \[is related\] of Rabban Simeon ben Gamaliel and R. Judah and R. Jose, that they were reclining at a meal in Accho, and the holy <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> day drew on. [^356] Rabban Simeon ben Gamaliel said to R. Jose: Let us leave off for the sabbath. [^357] He said to him: Every single day dost thou prefer my words of Judah, and now thou preferrest the words of Judah to mine! “_Will he even force the queen with me in the house?_” [^358]
 
 He said to him: If so let us not leave off. Perhaps you \[two\] will decide the Rule in Israel. [^359] They say that they did not move thence until they had decided the Rule according [^360] to the words of R. Jose.
 
 3\. In the case of guests who are reclining at a meal near the master of the house, and the holy day has drawn on, they move with the darkness to the Lecture Hall, [^361] and, when they return, mix them the cup, saying over it the sanctification of the day. [^362] Such are the words of R. Judah. R. Jose says: Each eats on until the time that it is dark. [^363]
 
-4\. When the first cup is mixed for him (the master of the house) he says over it the Benediction after the meal, and makes mention of the Benediction <span id="p59">[<sup><small>p. 59</small></sup>]</span> of the sabbath in the Benediction after the meal. And at the second \[cup\] he says over it the sanctification of the day.
+4\. When the first cup is mixed for him (the master of the house) he says over it the Benediction after the meal, and makes mention of the Benediction <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> of the sabbath in the Benediction after the meal. And at the second \[cup\] he says over it the sanctification of the day.
 
 <figure class="table chapter-navigator">
   <table>

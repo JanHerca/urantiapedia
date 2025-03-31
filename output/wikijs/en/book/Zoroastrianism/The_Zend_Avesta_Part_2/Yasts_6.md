@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 ## (YA<i>S</i>T TO THE SUN.)
 
@@ -56,7 +56,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness [^421]. . . .
 
 1\. We sacrifice unto the undying, shining, swift-horsed Sun.
 
-When the light of the sun waxes warmer [^423], when the brightness of the sun waxes warmer, then up <span id="p86">[<sup><small>p. 86</small></sup>]</span> stand the heavenly Yazatas, by hundreds and thousands: they gather together its Glory, they make its Glory pass down, they pour its Glory upon the earth made by Ahura, for the increase of the world of holiness, for the increase of the creatures of holiness [^424], for the increase of the undying, shining, swift-horsed Sun.
+When the light of the sun waxes warmer [^423], when the brightness of the sun waxes warmer, then up <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> stand the heavenly Yazatas, by hundreds and thousands: they gather together its Glory, they make its Glory pass down, they pour its Glory upon the earth made by Ahura, for the increase of the world of holiness, for the increase of the creatures of holiness [^424], for the increase of the undying, shining, swift-horsed Sun.
 
 2\. And when the sun rises up, then the earth, made by Ahura, becomes clean [^425]; the running waters become clean, the waters of the wells become clean, the waters of the sea become clean, the standing waters become clean; all the holy creatures, the creatures of the Good Spirit, become clean.
 
@@ -64,7 +64,7 @@ When the light of the sun waxes warmer [^423], when the brightness of the sun wa
 
 4\. He who offers up a sacrifice unto the undying, shining, swift-horsed Sun—to withstand darkness, to withstand the Daêvas born of darkness, to withstand the robbers and bandits, to withstand the Yâtus and Pairikas, to withstand death that creeps in unseen—offers it up to Ahura Mazda, offers it up to the Amesha-Spe<i>n</i>tas, offers it up to his own soul [^426]. He rejoices all the heavenly and worldly Yazatas, who offers up a sacrifice unto the undying, shining, swift-horsed Sun.
 
-5\. I will sacrifice unto Mithra, the lord of wide <span id="p87">[<sup><small>p. 87</small></sup>]</span> pastures, who has a thousand ears, ten thousand eyes.
+5\. I will sacrifice unto Mithra, the lord of wide <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> pastures, who has a thousand ears, ten thousand eyes.
 
 I will sacrifice unto the club of Mithra, the lord of wide pastures, well struck down [^427] upon the skulls of the Daêvas.
 

@@ -38,7 +38,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. We shall explain that (bath).
 
-3\. During the northern course of the sun, in the time of the increasing moon, under (the Nakshatra) Rohi<i>ri</i>î, (or) M<i>ri</i>ga<i>ri</i>iras, (or) Tishya, (or) Uttarâ <span id="p162">[<sup><small>p. 162</small></sup>]</span> Phalgunî, (or) Hasta, (or) <i>K</i>itrâ, or the two Vi<i>ri</i>âkhâs: under these (Nakshatras) he may take the bath.
+3\. During the northern course of the sun, in the time of the increasing moon, under (the Nakshatra) Rohi<i>ri</i>î, (or) M<i>ri</i>ga<i>ri</i>iras, (or) Tishya, (or) Uttarâ <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> Phalgunî, (or) Hasta, (or) <i>K</i>itrâ, or the two Vi<i>ri</i>âkhâs: under these (Nakshatras) he may take the bath.
 
 4\. [^542] He goes to a place near which water is, puts wood on the fire, performs the rites down to the oblations made with the Vyâh<i>ri</i>tis, and puts a piece of Palâ<i>ri</i>a wood on (the fire) with (the verse), ‘Let us prepare this song like a chariot, for <i>G</i>âtavedas who deserves it, with our prayer. For his foresight in this assembly is a bliss to us. Agni! Dwelling in thy friendship may we not suffer harm. Svâhâ!’
 
@@ -50,13 +50,13 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. [^544] After he has served food to the Brâhma<i>n</i>as, and has caused them to say, ‘An auspicious day! Hail! Good luck!’ he discharges himself of his vow by (repeating) these (Mantras), ‘Agni, lord of the vow, I have kept the vow.’
 
-9\. Having (thus) discharged himself of his vow, he worships the sun with the two (verses), ‘Upwards <span id="p163">[<sup><small>p. 163</small></sup>]</span> that (<i>G</i>âtavedas)’ (Taitt. Sa<i>m</i>h. I, 4, 43, 1), and, ‘The bright’ (ibid.).
+9\. Having (thus) discharged himself of his vow, he worships the sun with the two (verses), ‘Upwards <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> that (<i>G</i>âtavedas)’ (Taitt. Sa<i>m</i>h. I, 4, 43, 1), and, ‘The bright’ (ibid.).
 
 10\. [^545] With (the words), ‘(Loosen) from us thy highest band, Varu<i>n</i>a,’ he takes off the upper garment which he has worn during his studentship, and puts on another (garment). With (the words), ‘(Loosen) the lowest (fetter),’ (he takes off) the under garment; with (the words), ‘(Take) away the middle (fetter),’ the girdle. With (the words), ‘And may we, O Âditya, under thy law (&c.),’ (he deposes) his staff. The girdle, the staff, and the black antelope's skin he throws into water, sits down to the west of the fire, facing the east, and touches the razor (with which he is going to be shaven), with (the formula), ‘Razor is thy name; the axe is thy father. Adoration to thee! Do no harm to me!’
 
 11\. [^546] Having handed over (that razor) to the barber, he touches the water with which his hair is to be moistened, with (the formula), ‘Be blissful, (O waters), when we touch you.’ \[(The barber) then pours together warm and cold water. Having poured warm (water) into cold (water)—\]
 
-12\. [^547] (The barber) moistens the hair near the right ear with (the words), ‘May the waters moisten thee for life, for old age and splendour’ (Taitt. Sa<i>m</i>hitâ I, 2, 1, 1). <span id="p164">[<sup><small>p. 164</small></sup>]</span>
+12\. [^547] (The barber) moistens the hair near the right ear with (the words), ‘May the waters moisten thee for life, for old age and splendour’ (Taitt. Sa<i>m</i>hitâ I, 2, 1, 1). <span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 13\. [^548] With (the words), ‘Herb! protect him’ (Taitt. Sa<i>m</i>h., loc. cit.), he puts an herb with the point upwards into (the hair).
 
@@ -68,7 +68,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 17\. He has the beard shaven first, then the hair in his arm-pits, then the hair (on his head), then the hair of his body, then (he has) his nails (cut).
 
-18\. A person who is kindly disposed (towards the student), gathers the hair, the beard, the hair of the body, and the nails (that have been cut off), in a lump of bull's dung, and buries (that lump of dung) in a cow-stable, or near an Udumbara tree, or in a clump of Darbha grass, with (the words), ‘Thus I <span id="p165">[<sup><small>p. 165</small></sup>]</span> hide the sin of N.N., who belongs to the Gotra N.N.’
+18\. A person who is kindly disposed (towards the student), gathers the hair, the beard, the hair of the body, and the nails (that have been cut off), in a lump of bull's dung, and buries (that lump of dung) in a cow-stable, or near an Udumbara tree, or in a clump of Darbha grass, with (the words), ‘Thus I <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> hide the sin of N.N., who belongs to the Gotra N.N.’
 
 19\. Having rubbed himself with powder such as is used in bathing, he cleanses his teeth with a stick of Udumbara wood—
 
@@ -82,13 +82,13 @@ dateCreated: 2025-1-14T23:38:48Z
 
 3\. [^551] Or (instead of performing these rites in the neighbourhood of water) they make an enclosure in a cow-stable and cover it (from all sides); that (the student) enters before sunrise, and in that (enclosure) the whole (ceremony) is performed. ‘On that day the sun does not shine upon him,’ some say. ‘For he who shines (i.e. the sun), shines by the splendour of those who have taken the bath. Therefore the face of a Snâtaka is, as it were, resplendent (?).’
 
-4\. [^552] (His friends or relations) bring him all sorts of <span id="p166">[<sup><small>p. 166</small></sup>]</span> perfumes, or ground sandal wood; he besprinkles that (with water), and worships the gods by raising his joined hands towards the east, with (the formulas), ‘Adoration to Graha (the taker) and to Abhigraha (the seizer)! Adoration to _S<i>âka and </i>G<i>âka and </i>ñ_<i>âka and </i>abha! Adoration to those deities who are seizers!’ (Then) he anoints himself with (that salve of sandal wood) with (the verse), ‘The scent that dwells with the Apsaras, and the splendour that dwells with the Gandharvas, divine and human scent: may that here enter upon me!’
+4\. [^552] (His friends or relations) bring him all sorts of <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> perfumes, or ground sandal wood; he besprinkles that (with water), and worships the gods by raising his joined hands towards the east, with (the formulas), ‘Adoration to Graha (the taker) and to Abhigraha (the seizer)! Adoration to _S<i>âka and </i>G<i>âka and </i>ñ_<i>âka and </i>abha! Adoration to those deities who are seizers!’ (Then) he anoints himself with (that salve of sandal wood) with (the verse), ‘The scent that dwells with the Apsaras, and the splendour that dwells with the Gandharvas, divine and human scent: may that here enter upon me!’
 
 5\. They bring him a pair of (new) garments that have not yet been washed. He besprinkles them (with water) and puts on the under garment with (the formula), 'Thou art Soma's body; protect my body! Thou who art my own body, enter upon me; thou who art a blissful body, enter upon me.' Then he touches water, (puts on) the upper garment with the same (Mantra), and sits down to the west of the fire, facing the east.
 
 6\. [^553] They bring him two ear-rings and a perforated pellet of sandal wood or of Badarî wood, overlaid with gold (at its aperture); these two things he ties to a Darbha blade, holds them over the fire, and pours over them (into the fire) oblations (of ghee) with (the Mantras),
 
-‘May this gold which brings long life and splendour and increase of wealth, and which gets through (all adversities), enter upon me for the sake of long life, of splendour, and of victory. Svâhâ! <span id="p167">[<sup><small>p. 167</small></sup>]</span> ’(This gold) brings high gain, superiority in battles, superiority in assemblies; it conquers treasures. All perfections unitedly dwell together in this gold. Svâhâ!
+‘May this gold which brings long life and splendour and increase of wealth, and which gets through (all adversities), enter upon me for the sake of long life, of splendour, and of victory. Svâhâ! <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> ’(This gold) brings high gain, superiority in battles, superiority in assemblies; it conquers treasures. All perfections unitedly dwell together in this gold. Svâhâ!
 
 ‘I have obtained an auspicious name like (the name) of a father of gold. Thus may (the gold) make me shine with golden lustre; (may it make me) beloved among many people; may it make me full of holy lustre. Svâhâ!
 
@@ -104,7 +104,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. He puts on the two ear-rings, the right one to his right ear, the left one to his left ear, with (the verse which he repeats for each of the two earrings), ‘Virâ<i>g</i> and Svarâ_g_, and the aiding powers that dwell in our house, the prosperity that dwells in the face of royalty: therewith unite me.’
 
-2\. [^554] With (the Mantra), ‘With the seasons and the combinations of seasons, for the sake of long life, of <span id="p168">[<sup><small>p. 168</small></sup>]</span> splendour, with the sap that dwells in the year: therewith we make them touch the jaws’—he clasps the two ear-rings.
+2\. [^554] With (the Mantra), ‘With the seasons and the combinations of seasons, for the sake of long life, of <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> splendour, with the sap that dwells in the year: therewith we make them touch the jaws’—he clasps the two ear-rings.
 
 3\. [^555] With (the Mantra), ‘This herb is protecting, overcoming, and powerful. May it make me shine with golden lustre; (may it make me) beloved among many people; may it make me full of holy lustre. Thou art not a bond’—he ties the pellet (of wood, mentioned above, Section 10, Sûtra 6) to his neck.
 
@@ -116,7 +116,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 5\. [^557] ‘The salve coming from the Trikakud (mountain), born on the Himavat, therewith I anoint you (i.e. the eyes), and with fortune and splendour. (I put?) into myself the demon of the mountain (?)’—with (this verse) he anoints himself with Traikakuda salve, (or) if he cannot get that, with some other (salve).
 
-6\. With (the verse), ‘My mind that has fled away’ (Taitt. Sa<i>m</i>hitâ VI, 6, 7, 2) he looks into a mirror. <span id="p169">[<sup><small>p. 169</small></sup>]</span>
+6\. With (the verse), ‘My mind that has fled away’ (Taitt. Sa<i>m</i>hitâ VI, 6, 7, 2) he looks into a mirror. <span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 7\. [^558] With (the formula), ‘On the impulse of the god,’ &c., he takes a staff of reed (which somebody hands him), and with (the formula), ‘Thou art the thunderbolt of Indra. O A<i>m</i>vins, protect me!’—he thrice wipes it off, upwards from below.
 

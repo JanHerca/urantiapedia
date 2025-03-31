@@ -32,7 +32,7 @@ dateCreated: 2024-11-10T11:17:18Z
   </table>
 </figure>
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span> p. 69
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span> p. 69
 
 ## GLOSSARY OF TECHNICAL AND ALLEGORICAL EXPRESSIONS IN USE AMONG THE SÚFÍ POETS.
 
@@ -52,7 +52,7 @@ A. _alast_. “Art thou not?” The words uttered by the voice of God, “Art th
 
 A. _anáníyat_. Egotism.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 P. _angusht_. Finger. God's all-comprehending power.
 
@@ -76,7 +76,7 @@ A. _baitu ’l harám_. The Holy of Holies. In Sufi poetry it represents the Per
 
 A. _baitu ’l mucaddas_. The House of Holiness. Ordinarily used to designate the Temple at Jerusalem, but in Sufiistic language, a heart unpolluted by earthly love.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 P. _pákbází_. Purity. Inclination towards holiness without expecting reward or promotion, but rather seeking after God for His own sake.
 
@@ -100,7 +100,7 @@ P. _ján_. Soul. Darling. The manifestations of the Beloved (God).
 
 P. _jánán_. Darling of darlings. A constant mistress. God, the concentration of stability.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 A. _jáhil_. Ignorant. Worldly.
 
@@ -122,7 +122,7 @@ P. _chashm_. The eye. The beauty of Joseph.
 
 A. _hajj_. Pilgrimage. The prosecution of the journey by devotion alone. See Part I. Chapter IV.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 A. _hál_. State. Ecstasy. The beatific state induced by continued contemplation of God. This is considered to be a divine gift, and a sure prognostication of speedily arriving at The Truth.
 
@@ -144,7 +144,7 @@ P. _kharábát_. Tavern. The stage in which the Traveller is immersed in the Div
 
 A. _khirkah_. The patched and ragged garment of a religious recluse. Comeliness and soundness of principle.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 A.P. _khatt i sabz_. Verdure. Down just appearing upon the cheek. The state of limbo, _barzakh_ (cf. Sale's Corán, chap. XXIII. note u).
 
@@ -164,7 +164,7 @@ A. _dunyá_. The world. Anything that hinders man from seeking after God.
 
 A. _dair_. Monastery. The world of Humanity.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 A. _dín_. Religion. Belief arising from the stage called _tafrikah_, q.v.
 
@@ -188,7 +188,7 @@ P. _zanakh_. The chin. The point at which one beholds God.
 
 A. _zuhd_. Abstinence. Forsaking the outer world and giving oneself up entirely to contemplation.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 A. _sá ’id_. Arm. God's attribute of Might.
 
@@ -214,7 +214,7 @@ P. _shor_. Disturbance. Noise. Intercourse between God and man.
 
 A. _shuhúd_. Gaze. The unobstructed vision of the Godhead.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 A. _sabá_. The Zephyr. The breathings of the Spirit.
 
@@ -240,7 +240,7 @@ A. _faná_. Vanishing. The total annihilation of self in the contemplation of Go
 
 A. _faná e tamám_. Complete disappearance. Total annihilation and absorption of self in the contemplation of God. Death.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 A. _cátil_. Slayer. The first manifestation of desire on the part of man and of attraction on the part of God.
 
@@ -264,7 +264,7 @@ A. _kufr_. Unbelief. The darkness of the stations on the road.
 
 P. _kinár_. Embrace. Discovery of the mysteries of the Godhead.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 P. _gúsh_. Ear. Capacity for receiving the words of God by pursuing knowledge. Sometimes it means knowledge itself, exoteric and esoteric.
 
@@ -284,7 +284,7 @@ A. _misál_. Fiction. The stage in which the Traveller arrives at a Comprehensio
 
 A. _makkmúrí_. Drunkenness. Returning from the stage called _wusúl_ (see _wasl_), by way of cessation.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 A. _murákibeh_. Observation. Rejecting conventionalities, and penetrating deeply into the truths of Religion.
 
@@ -312,7 +312,7 @@ P. _miyán_. Middle. Waist. The state of the Traveller when nothing remains to v
 
 P. _mai khána_. Tavern. The dominion of Divine Love.
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 P. _maikedeh_. Wine-house. That stage of the journey in which inclination is developed into love by the effect of prayer (see Part I. Chap. V.).
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 <span id="an76"></span>
 
@@ -76,7 +76,7 @@ Without distinction of caste, the Aindrâgna offering is omitted for one who off
 
 Even though he be not a Somayâ<i>g</i>in, says the commentary.
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 This whole matter is summed up in Kapardin's commentary: Amâvâsyâyâm asomayâ<i>g</i>ina aindrâgna-sâ<i>g</i>nâyyayor vikalpa_h_. Paur<i>g</i>amâsyâ_m<i>g</i>g<i>g</i>n<i>g</i>h_. Tadrahitâpi paur<i>g</i>amâsî purushârtha<i>m</i> sâdhayati. Tatra dvayor eva hi yâgayo_h<i>g</i>n<i>g</i>s<i>g</i>k_yatvam asti, pratyeka<i>m</i> nâmayogât. Tasmâd agnîshomîyayâgarahitâv evetarau purushârtha_m<i>g</i>h_.
 
@@ -114,7 +114,7 @@ Also, because, when the Amâvâsyâ sacrifice is barred, the Pit<i>ri</i>ya<i>ri
 
 ## SÛTRA LXXXIII.
 
-A principal act (pradhâna) is accompanied by auxiliary acts (aṅga). <span id="p339">[<sup><small>p. 339</small></sup>]</span>
+A principal act (pradhâna) is accompanied by auxiliary acts (aṅga). <span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 <span id="an83c"></span>
 
@@ -162,7 +162,7 @@ They are offered with the word Svâhâ.
 
 **Commentary.**
 
-According to Kâtyâyana I, 2, 6-7, the <i>g</i>uhotis are <span id="p340">[<sup><small>p. 340</small></sup>]</span> offered sitting, the ya<i>g</i>atis standing. See Sûtra XCII. The <i>g</i>uhoti acts consist in pouring melted butter into the fire of the Âhavanîya altar, which is so called because ‘âhûyanteऽsminn âhutaya<i>h</i> kshipyanta iti.’
+According to Kâtyâyana I, 2, 6-7, the <i>g</i>uhotis are <span id="p340"><sup><small>[ p. 340 ]</small></sup></span> offered sitting, the ya<i>g</i>atis standing. See Sûtra XCII. The <i>g</i>uhoti acts consist in pouring melted butter into the fire of the Âhavanîya altar, which is so called because ‘âhûyanteऽsminn âhutaya<i>h</i> kshipyanta iti.’
 
 <span id="an88"></span>
 
@@ -210,7 +210,7 @@ One pours out (_g_uhoti) the Darvi-homas, sitting west of the Âhavanîya fire, 
 
 ## SÛTRA XCIII.
 
-If it is distinctly stated, it is done in a different way. <span id="p341">[<sup><small>p. 341</small></sup>]</span>
+If it is distinctly stated, it is done in a different way. <span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 <span id="an93c"></span>
 
@@ -252,7 +252,7 @@ The Vasha<i>t</i>kâra consists in the word Vasha_t_, to be uttered by the Hot_r
 
 ## SÛTRA XCVII.
 
-With the Grahas the act should be made to coincide with the Upayâma. <span id="p342">[<sup><small>p. 342</small></sup>]</span>
+With the Grahas the act should be made to coincide with the Upayâma. <span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 <span id="an97c"></span>
 
@@ -294,7 +294,7 @@ When the two last are sliced off, he should say for each portion, vyâvartethâm
 
 **Commentary.**
 
-Each slice, avadâna, is said to be about a thumb's breadth. In the case of sâ<i>m</i>nâyya, the mixture of sour and sweet milk, a kind of coagulated sour milk, each portion is to be of the same breadth, but, as it is fluid, it is <span id="p343">[<sup><small>p. 343</small></sup>]</span> taken out with a ladle (sruva) of a corresponding size; see Kâtyâyana I, 9, 7.
+Each slice, avadâna, is said to be about a thumb's breadth. In the case of sâ<i>m</i>nâyya, the mixture of sour and sweet milk, a kind of coagulated sour milk, each portion is to be of the same breadth, but, as it is fluid, it is <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> taken out with a ladle (sruva) of a corresponding size; see Kâtyâyana I, 9, 7.
 
 
 

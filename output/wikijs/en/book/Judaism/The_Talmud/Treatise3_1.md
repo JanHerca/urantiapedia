@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 ## TREATISE III.
 
@@ -46,7 +46,7 @@ Removals—Work to be avoided—Discussion between the Schools of Shammai and Hi
 
 2\. A man must not sit before the barber near to evening prayer, [^90] until he has prayed. He must not enter a bath, nor a tannery, nor eat, nor judge. “But if they began?” “They need not cease.” They may cease to read the “Hear,” [^91] etc., but they must not cease to pray.
 
-3\. A tailor must not go out with his needle near dusk, [^90] <span id="p84">[<sup><small>p. 84</small></sup>]</span> lest he forget and go (afterwards). Nor a scribe go out with his pen. Nor may one search his garments. Nor shall one read at the light of the lamp. In truth they said, “the teacher may overlook when children are reading, but he himself shall not read.” Similar to him, one with an issue shall not eat with her who has an issue, because of the custom of transgression.
+3\. A tailor must not go out with his needle near dusk, [^90] <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> lest he forget and go (afterwards). Nor a scribe go out with his pen. Nor may one search his garments. Nor shall one read at the light of the lamp. In truth they said, “the teacher may overlook when children are reading, but he himself shall not read.” Similar to him, one with an issue shall not eat with her who has an issue, because of the custom of transgression.
 
 4\. And these following are from the decisions which they mentioned of the upper chamber of Hananiah, the son of Hezekiah, the son of Gorion, when the Sages went up to visit him. The school of Shammai was counted, and was more numerous than the school of Hillel. And eighteen matters were determined on that day.
 
@@ -58,7 +58,7 @@ Removals—Work to be avoided—Discussion between the Schools of Shammai and Hi
 
 8\. The school of Shammai said, “they must not give skins to a tanner, nor articles to a strange laundress; except they can be sufficiently done while it is yet day.” But all of them the school of Hillel allow “with the sun.”
 
-9\. Said Rabbi Simon, the son of Gamaliel, “the house of my father used to give white articles to a strange laundress three days before the Sabbath.” But both schools agree that “they may carry [^92] beams to the oil-press and logs to the wine-press.” <span id="p85">[<sup><small>p. 85</small></sup>]</span> 
+9\. Said Rabbi Simon, the son of Gamaliel, “the house of my father used to give white articles to a strange laundress three days before the Sabbath.” But both schools agree that “they may carry [^92] beams to the oil-press and logs to the wine-press.” <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> 
 
 10\. “They must not fry flesh, onions, and eggs; except they be sufficiently fried while it is yet day. They must not put bread in the oven at dusk, nor a cake on coals, except its face be sufficiently crusted while it is yet day.” Rabbi Eliezer said, “that its under side be sufficiently crusted.”
 

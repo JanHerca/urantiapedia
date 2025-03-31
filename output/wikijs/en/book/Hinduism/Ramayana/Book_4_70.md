@@ -94,7 +94,7 @@ Reft of my brother and my sway.
 From this tall mountain's summit I
 Will cast me headlong down and die.
 
-<span id="p390">[<sup><small>p. 390</small></sup>]</span>
+<span id="p390"><sup><small>[ p. 390 ]</small></sup></span>
 
 
 
@@ -212,7 +212,7 @@ As mountains, menacing the sky,
 And wild infernal forms between
 The ridges of the waves were seen.
 
-<span id="p391">[<sup><small>p. 391</small></sup>]</span>
+<span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
 They saw the billows rave and swell,
 And their sad spirits sank and fell;
@@ -321,7 +321,7 @@ Then spoke the aged chief again:
 For to the task will I incite
 A chieftain of sufficient might.’
 
-<span id="p392">[<sup><small>p. 392</small></sup>]</span>
+<span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
 
 
@@ -433,7 +433,7 @@ Great store of herbs from hill and mead,
 Which, scattered o'er the troubled wave.
 The Amrit to the toilers gave,
 
-<span id="p393">[<sup><small>p. 393</small></sup>]</span>
+<span id="p393"><sup><small>[ p. 393 ]</small></sup></span>
 
 But now my days are wellnigh told,
 My strength is gone, my limbs are old,

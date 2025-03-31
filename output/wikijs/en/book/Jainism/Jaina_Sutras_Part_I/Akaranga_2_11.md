@@ -40,7 +40,7 @@ If a monk or a nun hear any sounds, viz. of the Vi<i>n</i>â, Vipam<i>k</i>î, V
 
 The same precepts apply to sounds of kettledrums, viz. of the Tâla, Lattiyâ, Gohiyâ [^471], or Kirikiriyâ; (3)
 
-<span id="p184">[<sup><small>p. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 Also to sounds of wind instruments, viz. the conch, flute, Kharamukhî, or Piripiriyâ. (4)
 
@@ -64,7 +64,7 @@ Nor to places where story-tellers or acrobats perform, or where continuously sto
 
 Nor to places where quarrels, affrays, riots, conflicts between two kingdoms, anarchical or revolutionary disturbances occur; (15)
 
-<span id="p185">[<sup><small>p. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 Nor to places where a young well-attended girl, well-attired and well-ornamented, is paraded, or where somebody is led to death. (16)
 

@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 PÂRASKARA-G_RI_HYA-SÛTRA.
 =========================
@@ -42,7 +42,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 1\. [^662] Now henceforth the performance of the domestic sacrifices of cooked food (will be explained).
 
-2\. [^663]. Having wiped (around the surface on which he intends to perform a sacrifice), having besmeared it (with cowdung), having drawn the lines thereon, having taken the earth out (of the lines), having besprinkled (the place with water), having established the (sacred) fire, having spread out the seat for the Brahman to the south, having carried forward (the Pra<i>s</i>îta water), having spread (Ku<i>s</i>a grass) round (the fire), having put down (the different things used at the sacrifice) according as they are wanted, having prepared two (Ku<i>s</i>a blades used as) strainers, having consecrated the Proksha<i>s</i>î <span id="p270">[<sup><small>p. 270</small></sup>]</span> water, having sprinkled (with that water the sacrificial implements) according to what is needed, having poured out (the Â<i>s</i>ya or sacrificial butter into the pot), and having put the sacrificial butter on the fire, he should (lustrate the butter by) moving a fire-brand round it.
+2\. [^663]. Having wiped (around the surface on which he intends to perform a sacrifice), having besmeared it (with cowdung), having drawn the lines thereon, having taken the earth out (of the lines), having besprinkled (the place with water), having established the (sacred) fire, having spread out the seat for the Brahman to the south, having carried forward (the Pra<i>s</i>îta water), having spread (Ku<i>s</i>a grass) round (the fire), having put down (the different things used at the sacrifice) according as they are wanted, having prepared two (Ku<i>s</i>a blades used as) strainers, having consecrated the Proksha<i>s</i>î <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> water, having sprinkled (with that water the sacrificial implements) according to what is needed, having poured out (the Â<i>s</i>ya or sacrificial butter into the pot), and having put the sacrificial butter on the fire, he should (lustrate the butter by) moving a fire-brand round it.
 
 3\. Having warmed the (sacrificial spoon called) Sruva, having wiped it, having besprinkled it (with water), and warmed it again, he should put it down.
 
@@ -53,7 +53,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 ## KA<i>ND</i>IKÂ 2.
 
-1\. [^665]. The setting up of the Âvasathya (or sacred domestic) fire (is performed) at the time of his wedding. <span id="p271">[<sup><small>p. 271</small></sup>]</span>
+1\. [^665]. The setting up of the Âvasathya (or sacred domestic) fire (is performed) at the time of his wedding. <span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 2 [^666]. At the time of the division of the inheritance, according to some (teachers).
 
@@ -67,7 +67,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 7\. [^671]. Having cooked a mess of sacrificial food for the deities of the Agnyâdheya, and having sacrificed the two Â<i>g</i>ya portions, he sacrifices (the following) Â<i>g</i>ya oblations:
 
-8\. [^672]. ‘Thou, Agni’ (Vâ_g_. Sa<i>m</i>hitâ XXI, 3); ‘Thus <span id="p272">[<sup><small>p. 272</small></sup>]</span> thou, Agni’ (Vâ_g_. Sa<i>m</i>hitâ XXI, 4); ‘This, O Varu<i>m</i>a’ (XXI, 1); ‘For this I entreat thee’ (XXI, 2); ‘Thy hundred’ (Kâty.-<i>S</i>raut. XXV, 1, 11); ‘And quick, Agni’ (Kâty. l.l.); ‘The highest one’ (Vâ_g_. Sa<i>m</i>h. XII, 12); ‘Be both to us’ (ibid. V, 3)—with (these verses he sacrifices) eight (oblations) before (the oblations of cooked food).
+8\. [^672]. ‘Thou, Agni’ (Vâ_g_. Sa<i>m</i>hitâ XXI, 3); ‘Thus <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> thou, Agni’ (Vâ_g_. Sa<i>m</i>hitâ XXI, 4); ‘This, O Varu<i>m</i>a’ (XXI, 1); ‘For this I entreat thee’ (XXI, 2); ‘Thy hundred’ (Kâty.-<i>S</i>raut. XXV, 1, 11); ‘And quick, Agni’ (Kâty. l.l.); ‘The highest one’ (Vâ_g_. Sa<i>m</i>h. XII, 12); ‘Be both to us’ (ibid. V, 3)—with (these verses he sacrifices) eight (oblations) before (the oblations of cooked food).
 
 9\. Thus he sacrifices also afterwards, after he has made oblations of the mess of cooked food to the deities of the Agnyâdheya.
 
@@ -81,7 +81,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 3.
 
@@ -101,7 +101,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 8\. [^678]. He sits down thereon with (the verse), ‘I am the highest one among my people, as the sun among the thunder-bolts. Here I tread on whosoever infests me.’
 
-9\. [^679]. With the feet (he treads) on the other (bundle of grass). <span id="p274">[<sup><small>p. 274</small></sup>]</span>
+9\. [^679]. With the feet (he treads) on the other (bundle of grass). <span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 10\. When he is seated on the couch, he washes (for his guest) the left foot and then the right foot.
 
@@ -119,7 +119,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 17\. [^684]. With (the formula), ‘By the impulse of the god Savit<i>ri</i>’ (Vâ_g_. Sa<i>m</i>h. l.l.) he accepts it.
 
-18\. [^685]. Taking it into his left hand he stirs it about <span id="p275">[<sup><small>p. 275</small></sup>]</span> three times with the fourth finger of his right hand with (the formula), ‘Adoration to the brown-faced One. What has been damaged in thee, when the food was eaten, that I cut off from thee.’
+18\. [^685]. Taking it into his left hand he stirs it about <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> three times with the fourth finger of his right hand with (the formula), ‘Adoration to the brown-faced One. What has been damaged in thee, when the food was eaten, that I cut off from thee.’
 
 19\. And with the fourth finger and the thumb he spirts away (some part of the Madhuparka) three times.
 
@@ -137,7 +137,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 26\. When (the guest) has sipped water, (the host), holding a butcher's knife, says to him three times, ‘A cow!’
 
-27\. He replies, 'The mother of the Rudras, the daughter of the Vasus, the sister of the Âdityas, the <span id="p276">[<sup><small>p. 276</small></sup>]</span> navel of immortality. To the people who understand me, I say, “Do not kill the guiltless cow, which is Aditi.” I kill my sin and N.N.‘s sin,’—thus, if he chooses to have it killed.
+27\. He replies, 'The mother of the Rudras, the daughter of the Vasus, the sister of the Âdityas, the <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> navel of immortality. To the people who understand me, I say, “Do not kill the guiltless cow, which is Aditi.” I kill my sin and N.N.‘s sin,’—thus, if he chooses to have it killed.
 
 28\. But if he chooses to let it loose, he should say, 'My sin and N.N.‘s sin has been killed. Om! Let it loose! Let it eat grass!’
 
@@ -153,7 +153,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 2\. On the following five occasions, viz. the wedding, the tonsure (of the child's head), the initiation (of the Brahma<i>k</i>ârin), the cutting of the beard, and the parting of the hair, (on these occasions) in the outer hall,
 
-3\. On a place that has been smeared (with cow-dung), which is elevated, and which has been sprinkled (with water), he establishes the fire, <span id="p277">[<sup><small>p. 277</small></sup>]</span>
+3\. On a place that has been smeared (with cow-dung), which is elevated, and which has been sprinkled (with water), he establishes the fire, <span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 4\. Having kindled it by attrition, according to some teachers, at his marriage.
 
@@ -173,7 +173,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 12\. [^694]. He then makes her put on the (under) garment with (the verse), ‘Live to old age; put on the garment! Be a protectress of the human tribes against imprecation. Live a hundred years full of vigour; clothe thyself in wealth and children. Blessed with life put on this garment!’
 
-13\. [^695]. Then the upper garment with (the verse), ‘The goddesses who spun, who wove, who spread <span id="p278">[<sup><small>p. 278</small></sup>]</span> out, and who drew out the threads on both sides, may those goddesses clothe thee for the sake of long life. Blessed with life put on this garment!’
+13\. [^695]. Then the upper garment with (the verse), ‘The goddesses who spun, who wove, who spread <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> out, and who drew out the threads on both sides, may those goddesses clothe thee for the sake of long life. Blessed with life put on this garment!’
 
 14\. [^696]. (The bride's father?) anoints the two, (while the bridegroom recites the verse,) 
 
@@ -183,7 +183,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 ‘Soma has acquired (thee) first (as his wife); after him the Gandharva has acquired (thee). Thy third husband is Agni; the fourth is thy human husband.
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 ‘Soma has given thee to the Gandharva; the Gandharva has given thee to Agni. Wealth and children Agni has given to me, and besides this wife.
 
@@ -203,7 +203,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 6\. [^699]. The place for the insertion (of the peculiar oblations belonging to the different sacrifices) is the interval between the general expiation and the oblation to Pra<i>g</i>âpati.
 
-7\. At the wedding (he may make oblations) with the Râsh<i>t</i>rabh<i>t</i>t formulas (i.e. the formulas procuring royal power), if he likes, and with the <i>G</i>aya and Abhyâtâna formulas (i.e. the formulas procuring <span id="p280">[<sup><small>p. 280</small></sup>]</span> victory, and aiming \[at the hostile powers\]), if he knows them—
+7\. At the wedding (he may make oblations) with the Râsh<i>t</i>rabh<i>t</i>t formulas (i.e. the formulas procuring royal power), if he likes, and with the <i>G</i>aya and Abhyâtâna formulas (i.e. the formulas procuring <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> victory, and aiming \[at the hostile powers\]), if he knows them—
 
 8\. [^700]. Because it has been said, ‘By what sacrifice he wishes to attain success.’
 
@@ -211,7 +211,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 ‘Pra<i>g</i>âpati, the powerful one in victorious battles, has given victories (or, the Gaya formulas) to manly Indra. To him all subjects bowed down; he has become powerful and worthy of sacrifice. Svâhâ!
 
-10\. [^702]. (The Abhyâtâna formulas run thus): ‘May Agni, the lord of beings, protect me. May Indra, (the lord) of the noblest, Yama, of the earth, Vâyu, of the air, the Sun, of heaven, the Moon, of the Nakshatras, B<i>ri</i>haspati, of the Brahman, Mitra, of truth, Varu<i>ri</i>a, of the waters, the sea, of the rivers, food, the lord of royalty, protect me. May Soma, (the lord) of herbs, Savit_ri_, of impulses, Rudra, of cattle, Tvash<i>ri</i>_ri_, of forms, Vish<i>ri</i>u, of mountains, the Maruts, the lords of hosts, protect me. May the fathers, <span id="p281">[<sup><small>p. 281</small></sup>]</span> the grandfathers, the former, the later, the fathers, the grandfathers protect me here in this power of holiness, in this worldly power, in this prayer, in this Purohitaship, in this sacrifice, in this invocation of the gods. Svâhâ!’—this is added each time.
+10\. [^702]. (The Abhyâtâna formulas run thus): ‘May Agni, the lord of beings, protect me. May Indra, (the lord) of the noblest, Yama, of the earth, Vâyu, of the air, the Sun, of heaven, the Moon, of the Nakshatras, B<i>ri</i>haspati, of the Brahman, Mitra, of truth, Varu<i>ri</i>a, of the waters, the sea, of the rivers, food, the lord of royalty, protect me. May Soma, (the lord) of herbs, Savit_ri_, of impulses, Rudra, of cattle, Tvash<i>ri</i>_ri_, of forms, Vish<i>ri</i>u, of mountains, the Maruts, the lords of hosts, protect me. May the fathers, <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> the grandfathers, the former, the later, the fathers, the grandfathers protect me here in this power of holiness, in this worldly power, in this prayer, in this Purohitaship, in this sacrifice, in this invocation of the gods. Svâhâ!’—this is added each time.
 
 11\. (He then makes other oblations with the following texts:)
 
@@ -227,7 +227,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 ## KA<i>ND</i>IKÂ 6.
 
-1\. [^703]. The girl's brother pours out of his joined hands into her joined hands fried grain mixed with <i>S</i>amî leaves. <span id="p282">[<sup><small>p. 282</small></sup>]</span>
+1\. [^703]. The girl's brother pours out of his joined hands into her joined hands fried grain mixed with <i>S</i>amî leaves. <span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 2 [^704]. This she sacrifices, with firmly joined hands, standing, (while the bridegroom recites the verses,)
 
@@ -250,7 +250,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 ## KA<i>ND</i>IKÂ 7.
 
-1\. [^706]. He then makes her tread on a stone, to the north of the fire, with her right foot, (repeating the <span id="p283">[<sup><small>p. 283</small></sup>]</span> verse,) ‘Tread on this stone; like a stone be firm. Tread the foes down; turn away the enemies.’
+1\. [^706]. He then makes her tread on a stone, to the north of the fire, with her right foot, (repeating the <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> verse,) ‘Tread on this stone; like a stone be firm. Tread the foes down; turn away the enemies.’
 
 2\. He then sings a song: ‘Sarasvatî! Promote this (our undertaking), O gracious one, bountiful one, thou whom we sing first of all that is, in whom what is, has been born, in whom this whole world dwells—that song I will sing to-day which will be the highest glory of women.’
 
@@ -268,7 +268,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 1\. [^709]. Then he makes her step forward in a northern direction seven steps (with the words),
 
-‘One for sap, two for juice, three for the prospering of wealth, four for comfort, five for cattle, six for the seasons. Friend! be with seven steps (united to me). So be thou devoted to me.’ <span id="p284">[<sup><small>p. 284</small></sup>]</span>
+‘One for sap, two for juice, three for the prospering of wealth, four for comfort, five for cattle, six for the seasons. Friend! be with seven steps (united to me). So be thou devoted to me.’ <span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 2\. (The words), ‘May Vish<i>n</i>u lead thee’ are added to every part (of the formula).
 
@@ -288,7 +288,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 9\. [^712]. He then recites over her (the verse), ‘Auspicious ornaments does this woman wear. Come up to her and behold her. Having brought luck to her, go away back to your houses.’
 
-10\. [^713]. A strong man snatches her up from the <span id="p285">[<sup><small>p. 285</small></sup>]</span> ground, and sets her down in an eastern or northern direction in an out-of-the-way house, on a red bull's hide, with (the words),
+10\. [^713]. A strong man snatches her up from the <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> ground, and sets her down in an eastern or northern direction in an out-of-the-way house, on a red bull's hide, with (the words),
 
 ‘Here may the cows sit down, here the horses, here the men. Here may sacrifice with a thousand gifts, here may Pûshan sit down.’
 
@@ -312,7 +312,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 ‘Firm art thou; I see thee, the firm one. Firm be thou with me, O thriving one!
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 ‘To me B<i>ri</i>haspati has given thee; obtaining offspring through me, thy husband, live with me a hundred autumns.’
 
@@ -324,7 +324,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 1\. [^719]. Beginning from the wedding the worshipping of the Aupâsana (i.e. sacred domestic) fire (is prescribed).
 
-2\. [^720]. After sunset and before sunrise (the fire should <span id="p287">[<sup><small>p. 287</small></sup>]</span> be worshipped) with (oblations of) curds, (rice) grains, or fried grains.
+2\. [^720]. After sunset and before sunrise (the fire should <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> be worshipped) with (oblations of) curds, (rice) grains, or fried grains.
 
 3\. (He sacrifices) in the evening with (the formulas), ‘To Agni svâhâ! To Pra<i>g</i>âpati svâhâ!’
 
@@ -336,7 +336,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 1\. [^722]. If (in the chariot) of a king the axle breaks, or something that is bound loosens itself, or the chariot is overturned, or if another accident happens, or (if one of these same things occurs) when a bride is carried home, he establishes the same fire, prepares Â<i>m</i>ya, and sacrifices (two Â<i>m</i>ya oblations) separately with the two Mantras, ‘Here is joy’ (Vâ_g_. Sa<i>m</i>h. VIII, 51 a).
 
-2\. Having got ready another chariot, he (i.e. the Purohita or the bridegroom) should make the king or the woman sit down thereon with (the formula), ‘In royal power’ down to the word, ‘in sacrifice’ <span id="p288">[<sup><small>p. 288</small></sup>]</span> (Vâ_g_. Sa<i>m</i>h. XX, 10), and with the (verse), ‘I have seized thee’ (ibid. XII, 11).
+2\. Having got ready another chariot, he (i.e. the Purohita or the bridegroom) should make the king or the woman sit down thereon with (the formula), ‘In royal power’ down to the word, ‘in sacrifice’ <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> (Vâ_g_. Sa<i>m</i>h. XX, 10), and with the (verse), ‘I have seized thee’ (ibid. XII, 11).
 
 3\. The two beasts that draw the chariot, constitute the sacrificial fee.
 
@@ -354,7 +354,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 ‘Sûrya! Expiation! Thou art the expiation of the gods. I, the Brâhma<i>n</i>a, entreat thee, desirous of protection. The substance which dwells in her that brings death to cattle, that extirpate in her. Svâhâ!
 
-‘Kandra! Expiation! Thou art the expiation of the gods. I, the Brâhma<i>n</i>a, entreat thee, desirous <span id="p289">[<sup><small>p. 289</small></sup>]</span> of protection. The substance which dwells in her that brings destruction to the house, that extirpate in her. Svâhâ!
+‘Kandra! Expiation! Thou art the expiation of the gods. I, the Brâhma<i>n</i>a, entreat thee, desirous <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> of protection. The substance which dwells in her that brings destruction to the house, that extirpate in her. Svâhâ!
 
 ‘Gandharva! Expiation! Thou art the expiation of the gods. I, the Brâhma<i>n</i>a, entreat thee, desirous of protection. The substance which dwells in her that brings destruction to fame, that extirpate in her. Svâhâ!’
 
@@ -368,7 +368,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 7\. After he has led her to his house, be should cohabit with her after each of her monthly periods,
 
-8\. [^726]. Or as he likes, because it has been said, ‘May we have intercourse as we like, until a child is born.’ <span id="p290">[<sup><small>p. 290</small></sup>]</span>
+8\. [^726]. Or as he likes, because it has been said, ‘May we have intercourse as we like, until a child is born.’ <span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 9 [^727]. He then touches her heart, (reaching) over her right shoulder, with (the verse), ‘O thou whose hair is well parted! Thy heart that dwells in heaven, in the moon, that I know; may it know me. May we see a hundred autumns; may we live a hundred autumns; may we hear a hundred autumns.’
 
@@ -384,7 +384,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 4\. Outside (the house) the wife offers the Bali with (the formulas), 'Adoration to the wife! Adoration to the man! To every time of life, adoration! To the white one with the black teeth, the lord of the bad women, adoration!
 
-‘They who allure my offspring, dwelling in the village or in the forest, to them be adoration; I offer <span id="p291">[<sup><small>p. 291</small></sup>]</span> a Bali to them. Be welfare to me! May they give me offspring.’
+‘They who allure my offspring, dwelling in the village or in the forest, to them be adoration; I offer <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> a Bali to them. Be welfare to me! May they give me offspring.’
 
 5\. The remainder he washes out with water. Then (follows) feeding of the Brâhma<i>n</i>as.
 
@@ -399,7 +399,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 2\. Before (the child in his mother's womb) moves, in the second or third month (of pregnancy).
 
-3\. [^732]. On a day on which the moon stands in conjunction with a Nakshatra (that has a name) of masculine gender, on that day, after having caused (his wife) to fast, to bathe, and to put on two garments which have not yet been washed, and after having in the night-time crushed in water descending roots and shoots of a Nyagrodha tree, he inserts (that into her right nostril) as above, with the two (verses), <span id="p292">[<sup><small>p. 292</small></sup>]</span> ‘The gold-child’ (Vâ_g_. Sa<i>m</i>h. XIII, 4) and ‘Formed of water’ (ibid. XXXI, 17);
+3\. [^732]. On a day on which the moon stands in conjunction with a Nakshatra (that has a name) of masculine gender, on that day, after having caused (his wife) to fast, to bathe, and to put on two garments which have not yet been washed, and after having in the night-time crushed in water descending roots and shoots of a Nyagrodha tree, he inserts (that into her right nostril) as above, with the two (verses), <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> ‘The gold-child’ (Vâ_g_. Sa<i>m</i>h. XIII, 4) and ‘Formed of water’ (ibid. XXXI, 17);
 
 4\. [^733]. A Ku<i>s</i>a needle and a Soma stalk, according to some (teachers).
 
@@ -416,7 +416,7 @@ If he desires; ‘May (the son) become valiant,’ he recites over him (i.e. ove
 
 3\. In her first pregnancy, in the sixth or eighth month.
 
-4\. [^736]. After he has cooked a mess of sacrificial food, containing sesamum and Mudga beans, and has sacrificed to Pra<i>g</i>âpati, he parts for the wife, who is seated to the west of the fire on a soft chair, her hair upwards (i.e. beginning from the front) with a bunch containing an even number of unripe Udumbara <span id="p293">[<sup><small>p. 293</small></sup>]</span> fruits, and with three bunches of Darbha grass, with a porcupine's quill that has three white spots, with a stick of Vîratara wood, and with a full spindle. with the words, ‘Bhûr bhuva_h<i>g</i>h_.’
+4\. [^736]. After he has cooked a mess of sacrificial food, containing sesamum and Mudga beans, and has sacrificed to Pra<i>g</i>âpati, he parts for the wife, who is seated to the west of the fire on a soft chair, her hair upwards (i.e. beginning from the front) with a bunch containing an even number of unripe Udumbara <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> fruits, and with three bunches of Darbha grass, with a porcupine's quill that has three white spots, with a stick of Vîratara wood, and with a full spindle. with the words, ‘Bhûr bhuva_h<i>g</i>h_.’
 
 5\. Or (he parts the hair once) with each of the (three) Mahâvyâh<i>ri</i>tis.
 
@@ -435,7 +435,7 @@ If he desires; ‘May (the son) become valiant,’ he recites over him (i.e. ove
 
 2\. [^741] Athâvarâvapatanam, avaitu p<i>ri</i><i>ri</i>ni _s<i>ri</i>m<i>ri</i>s<i>ri</i>g_arâyv attave, naiva mâ<i>ri</i>sena pîvari na kasmi<i>ri</i>_s<i>ri</i>k<i>ri</i>g_arâyu padyatâm iti.
 
-3\. When the boy is born, he performs for him, before the navel-string is cut off, the medhâ<i>g</i>anana <span id="p294">[<sup><small>p. 294</small></sup>]</span> (production of intelligence) and the âyushya (rite for procuring long life).
+3\. When the boy is born, he performs for him, before the navel-string is cut off, the medhâ<i>g</i>anana <span id="p294"><sup><small>[ p. 294 ]</small></sup></span> (production of intelligence) and the âyushya (rite for procuring long life).
 
 4\. [^742]. (The medhâ<i>g</i>anana is performed in the following way:) With his fourth finger and with (an instrument of) gold he gives (to the child) honey and ghee, or ghee (alone), to eat with (the formulas), ‘Bhû<i>h</i> I put into thee; bhuva<i>h</i> I put into thee; sva<i>h</i> I put into thee. Bhûr bhuva_h<i>g</i>h_ everything I put into thee.’
 
@@ -459,7 +459,7 @@ If he desires; ‘May (the son) become valiant,’ he recites over him (i.e. ove
 
 7\. And three times the verse, ‘The threefold age’ (Vâ_g_. Sa<i>m</i>h. III, 62).
 
-8\. If he desires, ‘May he live his full term of <span id="p295">[<sup><small>p. 295</small></sup>]</span> life,’ he should touch him with the Vâtsapra hymn (Vâ_g_. Sa<i>m</i>h. XII, 18-29).
+8\. If he desires, ‘May he live his full term of <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> life,’ he should touch him with the Vâtsapra hymn (Vâ_g_. Sa<i>m</i>h. XII, 18-29).
 
 9\. From the Anuvâka beginning with ‘From heaven’ (XII, 18 seqq.) he omits the last <i>Rik<i> (XII, 29).
 
@@ -479,7 +479,7 @@ If he desires; ‘May (the son) become valiant,’ he recites over him (i.e. ove
 
 17\. [^744]. He recites over the place at which (the child) is born: ‘I know, O earth, thy heart that dwells in heaven, in the moon. That I know; may it know me. May we see a hundred autumns; may we live a hundred autumns; may we hear a hundred autumns.’
 
-18\. [^745]. He then touches him with (the verse), ‘Be a stone, be an axe, be imperishable gold. Thou indeed art the Self called son; thus live a hundred autumns.’ <span id="p296">[<sup><small>p. 296</small></sup>]</span>
+18\. [^745]. He then touches him with (the verse), ‘Be a stone, be an axe, be imperishable gold. Thou indeed art the Self called son; thus live a hundred autumns.’ <span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 19 [^746]. He then recites over his mother (the verse), ‘Thou art I<i>d</i>â, the daughter of Mitra and Varu<i>d</i>a; thou strong woman hast born a strong son. Be thou blessed with strong children, thou who hast blessed us with a strong son.’
 
@@ -493,7 +493,7 @@ If he desires; ‘May (the son) become valiant,’ he recites over him (i.e. ove
 
 ‘May Âlikhat, Animisha, Ki<i>m</i>vadanta, Upa<i>m</i>ruti, Haryaksha, Kumbhin, <i>S</i>atru, Pâtrapâ<i>m</i>i, N<i>m</i>ma<i>m</i>i, Hantrîmukha, Sarshapâru<i>m</i>a, <i>K</i>yavana vanish hence. Svâhâ!’
 
-24\. [^749]. If (the demon bringing disease) Kumâra attacks the boy, the father covers him with a net <span id="p297">[<sup><small>p. 297</small></sup>]</span> or with an upper garment, takes him on his lap, and murmurs: Kûrkura, Sukûrkura, Kûrkura, who holds fast children. _K<i>et! </i>k_et! doggy! let him loose. Reverence be to thee, the Sîsara, barker, bender.
+24\. [^749]. If (the demon bringing disease) Kumâra attacks the boy, the father covers him with a net <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> or with an upper garment, takes him on his lap, and murmurs: Kûrkura, Sukûrkura, Kûrkura, who holds fast children. _K<i>et! </i>k_et! doggy! let him loose. Reverence be to thee, the Sîsara, barker, bender.
 
 ‘That is true that the gods have given a boon to thee. Hast thou then chosen even this boy?
 
@@ -517,7 +517,7 @@ If he desires; ‘May (the son) become valiant,’ he recites over him (i.e. ove
 
 4\. (The name) of a Brâhma<i>n</i>a (should end in)
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 _s_arman (for inst. Vish<i>n</i>u<i>n</i>arman), that of a Kshatriya in varman (for inst. Lakshmîvarman), that of a Vai<i>n</i>ya in gupta (for inst. <i>K</i>andragupta).
 
@@ -545,7 +545,7 @@ _s_arman (for inst. Vish<i>n</i>u<i>n</i>arman), that of a Kshatriya in varman (
 
 
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 19.
 
@@ -571,7 +571,7 @@ _s_arman (for inst. Vish<i>n</i>u<i>n</i>arman), that of a Kshatriya in varman (
 
 7\. (He feeds the child) with flesh of (the bird called) Bhâradvâ<i>g</i>î, if he wishes (to the child) fluency of speech,
 
-8\. With flesh of partridge, if abundance of nourishment, <span id="p300">[<sup><small>p. 300</small></sup>]</span>
+8\. With flesh of partridge, if abundance of nourishment, <span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 9\. With fish, if swiftness,
 

@@ -36,7 +36,7 @@ Boast not of thine own glory over the poor; for I walk before him, and I see the
 
 If thou encounter poverty, grieve not; for, in the Time, the King of Riches will descend to thee. Fear not humility, for glory shall be thy portion.
 
-Be not engrossed with this world, for with fire <span id="p102">[<sup><small>p. 102</small></sup>]</span> We test the gold, and with gold We try the servants.
+Be not engrossed with this world, for with fire <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> We test the gold, and with gold We try the servants.
 
 Thou desirest gold, and We desire the separation from it. Thou hast realised therein the riches of thyself, while I realise thy wealth to consist in thy freedom from it. By My Life! This is My Knowledge, while that is thine imagining; how can My Thought agree with Thine?
 
@@ -52,7 +52,7 @@ Let not poverty trouble thee, nor rest assured in wealth. All poverty is succeed
 
 To be poor in all save God is a great blessing; make it not small, for, in the end, it will make thee rich in God.
 
-Know ye that wealth is a strong barrier between the seeker and the Desired One, between <span id="p103">[<sup><small>p. 103</small></sup>]</span> the lover and the Beloved. Never shall the rich arrive at the abode of Nearness, nor enter into the city of contentment and resignation; save only a few.
+Know ye that wealth is a strong barrier between the seeker and the Desired One, between <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> the lover and the Beloved. Never shall the rich arrive at the abode of Nearness, nor enter into the city of contentment and resignation; save only a few.
 
 God is the state of that wealthy one, whose wealth preventeth him not from the Everlasting Kingdom, and depriveth him not of the Eternal Possessions.
 

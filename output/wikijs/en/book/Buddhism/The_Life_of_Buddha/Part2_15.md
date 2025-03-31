@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 
 WHEN Siddhartha had retired from the world, King Suddhodana had chosen Nanda, another one of his sons, to succeed him to the throne. Nanda was happy to think that one day he would be king, and he was also happy at the thought of his coming marriage to Princess Sundarika, to beautiful Sundarika whom he loved dearly.
@@ -47,9 +47,9 @@ The Master feared for his brother; he was afraid he would stray into the path of
 
 “Yes. And I am also happy because I love Sundarika, and because Sundarika will soon be my bride.”
 
-“Poor man!” cried the Master. “How can you <span id="p183">[<sup><small>p. 183</small></sup>]</span> be happy, you who live in darkness? Would you see the light? Then first rid yourself of happiness: fear is born of happiness, fear and suffering. He neither fears nor suffers who no longer knows happiness. Rid yourself of love: fear is born of love, fear and suffering. He neither fears nor suffers who no longer knows love. If you seek happiness in the world, your efforts will come to nothing, your pleasure will turn to pain; death is always present, ready to swoop down on the unfortunate and still their laughter and their song. The world is but flame and smoke, and everything in the world suffers from birth, from old age and from death. Since you first began pitifully to wander from existence to existence, you have shed more tears than there is water in the rivers or in the seas. You have grieved and you have wept at being thwarted in your desires, and you have wept and you have grieved when that happened which you dreaded. A mother's death, a father's death, a brother's death, a sister's death, the death of a son, the death of a daughter, oh, how many times, down through the ages, have these not caused you heartache? And how many times have you not lost your fortune? And each time you had cause for grief, you wept and you wept and you wept, and you have shed more tears than there is water in the rivers or in the seas!”
+“Poor man!” cried the Master. “How can you <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> be happy, you who live in darkness? Would you see the light? Then first rid yourself of happiness: fear is born of happiness, fear and suffering. He neither fears nor suffers who no longer knows happiness. Rid yourself of love: fear is born of love, fear and suffering. He neither fears nor suffers who no longer knows love. If you seek happiness in the world, your efforts will come to nothing, your pleasure will turn to pain; death is always present, ready to swoop down on the unfortunate and still their laughter and their song. The world is but flame and smoke, and everything in the world suffers from birth, from old age and from death. Since you first began pitifully to wander from existence to existence, you have shed more tears than there is water in the rivers or in the seas. You have grieved and you have wept at being thwarted in your desires, and you have wept and you have grieved when that happened which you dreaded. A mother's death, a father's death, a brother's death, a sister's death, the death of a son, the death of a daughter, oh, how many times, down through the ages, have these not caused you heartache? And how many times have you not lost your fortune? And each time you had cause for grief, you wept and you wept and you wept, and you have shed more tears than there is water in the rivers or in the seas!”
 
-<span id="p184">[<sup><small>p. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 Nanda, at first, paid little heed to what the Buddha was saying, but as he began to listen the words moved him deeply. The Master continued:
 
@@ -71,7 +71,7 @@ He did not answer. She turned to the Master. “Are you taking him with you?”
 
 “Yes,” replied the Master.
 
-<span id="p185">[<sup><small>p. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 “But he will come back soon?”
 

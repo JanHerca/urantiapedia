@@ -36,7 +36,7 @@ dateCreated: 2025-2-12T12:15:42Z
 
 1-10 [^1081], 11. We worship thee, the Fire, O Ahura Mazda's son! We worship the fire Berezi-savangha (of the lofty use [^1082]), and the fire Vohu-fryâna (the good and friendly [^1083]), and the fire Urvâzi<i>s</i>ta (the most beneficial and most helpful [^1084]), and the fire Vâzi<i>s</i>ta (the most supporting [^1085]), and the fire Sp<i>e</i>ni<i>s</i>ta (the most bountiful [^1086]), and Nairya-sangha the Yazad of the royal lineage [^1087], and that fire which is the house-lord of all houses and Mazda-made, even the son of Ahura Mazda, the holy lord of the ritual order, with all the fires.
 
-12\. And we worship the good and best waters Mazda-made, holy, all the waters Mazda-made and holy, and all the plants which Mazda made, and which are holy. <span id="p259">[<sup><small>p. 259</small></sup>]</span> 13\. And we worship the Mãthra-spe<i>n</i>ta (the bounteous word-of-reason), the Zarathu<i>s</i>trian law against the Daêvas, and its long descent.
+12\. And we worship the good and best waters Mazda-made, holy, all the waters Mazda-made and holy, and all the plants which Mazda made, and which are holy. <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> 13\. And we worship the Mãthra-spe<i>n</i>ta (the bounteous word-of-reason), the Zarathu<i>s</i>trian law against the Daêvas, and its long descent.
 
 14\. And we worship Mount Ushi-darena which is Mazda-made and shining with its holiness, and all the mountains shining with holiness, and of abundant glory, and which Mazda made—.
 

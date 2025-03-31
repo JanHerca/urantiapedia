@@ -46,7 +46,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. The next (six) (Ya<i>g</i>us formulas, II, 15, 6-11) over the (house when it is) finished, according to the characteristics contained in the single formulas.
 
-7\. He sets a piece of Palâ<i>s</i>a wood or of <i>S</i>amî wood on fire, takes the fire up (in a dish) with the next verse (II, 15, 12), carries it to the house with <span id="p286">[<sup><small>p. 286</small></sup>]</span> the next Ya<i>s</i>us (II, 15, 13), and places the fire in the north-eastern part of the house with the next (II, 15, 14).
+7\. He sets a piece of Palâ<i>s</i>a wood or of <i>S</i>amî wood on fire, takes the fire up (in a dish) with the next verse (II, 15, 12), carries it to the house with <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> the next Ya<i>s</i>us (II, 15, 13), and places the fire in the north-eastern part of the house with the next (II, 15, 14).
 
 8\. The place for the water-barrel is to the south of that spot.
 
@@ -65,7 +65,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 7, SECTION 18.
 
-1\. [^779] When a boy is attacked by the dog-demon (i.e. epilepsy), (the father or another performer of the ceremony), having devoted himself to austerities <span id="p287">[<sup><small>p. 287</small></sup>]</span> (such as fasting), covers him with a net. Then he causes a gong to be beaten or a bell to be rung, takes (the boy) by another way than the door into the gambling-hall, raises (the earth in the middle of the hall) at the place in which they gamble, sprinkles it (with water), casts the dice, lays (the boy) on his back on the dice, and besprinkles him with his joined hands with curds and salt, with the next (eleven) (formulas, II, 16, 1-11), in the morning, at noon, and at night.
+1\. [^779] When a boy is attacked by the dog-demon (i.e. epilepsy), (the father or another performer of the ceremony), having devoted himself to austerities <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> (such as fasting), covers him with a net. Then he causes a gong to be beaten or a bell to be rung, takes (the boy) by another way than the door into the gambling-hall, raises (the earth in the middle of the hall) at the place in which they gamble, sprinkles it (with water), casts the dice, lays (the boy) on his back on the dice, and besprinkles him with his joined hands with curds and salt, with the next (eleven) (formulas, II, 16, 1-11), in the morning, at noon, and at night.
 
 2\. Then he will get well.
 
@@ -77,7 +77,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. [^782] After the ceremonies down to the Â<i>m</i>yabhâga oblations have been performed in the same way as at the fortnightly sacrifices, he sacrifices of the Sthâlîpâka, and with each of the next (formulas, II, 16, 15-17) he offers with his joined hands Ki<i>m</i><i>m</i>uka flowers.
 
-7\. With the next (three) verses (II, 17, 1-3) (he offers) pieces of Âragvadha wood (Cathartocarpus fistula); <span id="p288">[<sup><small>p. 288</small></sup>]</span>
+7\. With the next (three) verses (II, 17, 1-3) (he offers) pieces of Âragvadha wood (Cathartocarpus fistula); <span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 8\. Then the Â<i>g</i>ya oblations (indicated by the) next (Mantras, II, 17, 4-7).
 
@@ -96,7 +96,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. The unground grain (which is left over, see above, VII, 18, 11) they give to the boys to eat.
 
-2\. Let him repeat in the same way this Bali-offering of whatever food he has got or of flour, from that day to full moon of (the month) Mârga<i>s</i>îrsha. <span id="p289">[<sup><small>p. 289</small></sup>]</span>
+2\. Let him repeat in the same way this Bali-offering of whatever food he has got or of flour, from that day to full moon of (the month) Mârga<i>s</i>îrsha. <span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 3\. On the day of the full moon of Mârga<i>s</i>îrsha after sunset a Sthâlîpâka (is offered as above, VII, 18, 5).
 
@@ -118,7 +118,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 12\. In the same way the lying down, &c., is repeated thrice.
 
-13\. [^784] Having prepared a Sthâlîpâka for Lana and <span id="p290">[<sup><small>p. 290</small></sup>]</span> one for Kshetrapati, he goes out in an easterly or northerly direction, prepares a raised surface, (and then follow the ceremonies) beginning with the putting of wood on the fire.
+13\. [^784] Having prepared a Sthâlîpâka for Lana and <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> one for Kshetrapati, he goes out in an easterly or northerly direction, prepares a raised surface, (and then follow the ceremonies) beginning with the putting of wood on the fire.
 
 14\. To the west of the fire he builds two huts.
 
@@ -134,7 +134,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. He gives them water to drink in the same order in which they have been led (to their places), takes three portions of boiled rice (from the Sthâlîpâka prepared for Î<i>g</i>âna), takes (these portions of rice) to the fire, makes (the three gods) touch them with the next (formulas, II, 18, II-13), sacrifices of these portions, to each god of the portion which belongs to him, with the next (formulas, II, 18, 14-30), cuts off (Avadânas) from all (portions), and sacrifices with the next Ya<i>g</i>us (II, 18, 31) to Agni Svish<i>g</i>ak<i>g</i>t.
 
-5\. Having worshipped (the god Î<i>g</i>âna) with the next Ya<i>g</i>us (II, 18, 32), he distributes with the next (formulas, II, 18, 33-39) leaves together with portions of boiled rice, two (leaves) with each (Ya<i>g</i>us), then ten to the divine hosts (II, 18, 40), and ten to the (divine hosts) that follow (and are referred to in the next Ya<i>g</i>us, II, 18, 41). <span id="p291">[<sup><small>p. 291</small></sup>]</span>
+5\. Having worshipped (the god Î<i>g</i>âna) with the next Ya<i>g</i>us (II, 18, 32), he distributes with the next (formulas, II, 18, 33-39) leaves together with portions of boiled rice, two (leaves) with each (Ya<i>g</i>us), then ten to the divine hosts (II, 18, 40), and ten to the (divine hosts) that follow (and are referred to in the next Ya<i>g</i>us, II, 18, 41). <span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 6\. With the next (formulas, II, 18, 42-45) he does the same as before (i.e. he distributes two leaves with each Mantra).
 

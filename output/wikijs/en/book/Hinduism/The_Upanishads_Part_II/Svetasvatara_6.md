@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 ## SIXTH ADHYÂYA.
 
@@ -42,9 +42,9 @@ dateCreated: 2025-1-15T22:54:18Z
 
 3 [^836]. He who, after he has done that work and rested again, and after he has brought together one essence (the self) with the other (matter), with one, two, three, or eight, with time also and with the subtile qualities of the mind,
 
-4\. Who, after starting [^837] the works endowed with (the three) qualities, can order all things, yet when, in the absence of all these, he has caused the destruction of the work, goes on, being in truth [^838] different (from all he has produced); <span id="p261">[<sup><small>p. 261</small></sup>]</span> 5\. He is the beginning, producing the causes which unite (the soul with the body), and, being <span id="p262">[<sup><small>p. 262</small></sup>]</span> above the three kinds of time (past, present, future), he is seen as without parts [^839], after we have first worshipped that adorable god, who has many forms, and who is the true source (of all things), as dwelling in our own mind.
+4\. Who, after starting [^837] the works endowed with (the three) qualities, can order all things, yet when, in the absence of all these, he has caused the destruction of the work, goes on, being in truth [^838] different (from all he has produced); <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> 5\. He is the beginning, producing the causes which unite (the soul with the body), and, being <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> above the three kinds of time (past, present, future), he is seen as without parts [^839], after we have first worshipped that adorable god, who has many forms, and who is the true source (of all things), as dwelling in our own mind.
 
-6\. He is beyond all the forms of the tree [^840] (of the world) and of time, he is the other, from whom this world moves round, when [^841] one has known him who <span id="p263">[<sup><small>p. 263</small></sup>]</span> brings good and removes evil, the lord of bliss, as dwelling within the self, the immortal, the support of all.
+6\. He is beyond all the forms of the tree [^840] (of the world) and of time, he is the other, from whom this world moves round, when [^841] one has known him who <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> brings good and removes evil, the lord of bliss, as dwelling within the self, the immortal, the support of all.
 
 7\. Let us know that highest great lord of lords [^842], the highest deity of deities, the master of masters, the highest above, as god, the lord of the world, the adorable.
 
@@ -54,11 +54,11 @@ dateCreated: 2025-1-15T22:54:18Z
 
 10\. That only god who spontaneously covered himself, like a spider, with threads drawn from the first cause (pradhâna), grant us entrance into Brahman [^845].
 
-11\. He is the one God, hidden in all beings, all-pervading, <span id="p264">[<sup><small>p. 264</small></sup>]</span> the self within all beings, watching over all works, dwelling in all beings, the witness, the perceiver [^846], the only one, free from qualities.
+11\. He is the one God, hidden in all beings, all-pervading, <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> the self within all beings, watching over all works, dwelling in all beings, the witness, the perceiver [^846], the only one, free from qualities.
 
 12 [^847]. He is the one ruler of many who (seem to act, but really do) not act [^848]; he makes the one seed manifold. The wise who perceive him within their self, to them belongs eternal happiness, not to others.
 
-13 [^849]. He is the eternal among eternals, the thinker among thinkers, who, though one, fulfils the desires of many. He who has known that cause which is to be apprehended by <i>S</i>âṅkhya (philosophy) and Yoga (religious discipline), he is freed from all fetters. <span id="p265">[<sup><small>p. 265</small></sup>]</span> 14\. The [^850] sun does not shine there, nor the moon and the stars, nor these lightnings, and much less this fire. When he shines, everything shines after him; by his light all this is lightened.
+13 [^849]. He is the eternal among eternals, the thinker among thinkers, who, though one, fulfils the desires of many. He who has known that cause which is to be apprehended by <i>S</i>âṅkhya (philosophy) and Yoga (religious discipline), he is freed from all fetters. <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> 14\. The [^850] sun does not shine there, nor the moon and the stars, nor these lightnings, and much less this fire. When he shines, everything shines after him; by his light all this is lightened.
 
 15\. He is the one bird [^851] in the midst of the world; he is also (like) the fire (of the sun) that has set in the ocean. A man who knows him truly, passes over death [^852]; there is no other path to go.
 
@@ -66,13 +66,13 @@ dateCreated: 2025-1-15T22:54:18Z
 
 17\. He who has become that [^856], he is the immortal, remaining the lord, the knower, the ever-present guardian of this world, who rules this world for ever, for no one else is able to rule it.
 
-18\. Seeking for freedom I go for refuge to that God who is the light of his own thoughts [^857], he who <span id="p266">[<sup><small>p. 266</small></sup>]</span> first creates Brahman (m.) [^858] and delivers the Vedas to him;
+18\. Seeking for freedom I go for refuge to that God who is the light of his own thoughts [^857], he who <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> first creates Brahman (m.) [^858] and delivers the Vedas to him;
 
 19\. Who is without parts, without actions, tranquil, without fault, without taint [^859], the highest bridge to immortality—like a fire that has consumed its fuel.
 
 20\. Only when men shall roll up the sky like a hide, will there be an end of misery, unless God has first been known [^860].
 
-21\. Through the power of his penance and through the grace of God [^861] has the wise <i>S</i>vetâ<i>s</i>vatara truly [^862] proclaimed Brahman, the highest and holiest, to the best of ascetics [^863], as approved by the company of <i>Ri</i>shis. <span id="p267">[<sup><small>p. 267</small></sup>]</span> 22\. This highest mystery in the Vedânta, delivered in a former age, should not be given to one whose passions have not been subdued, nor to one who is not a son, or who is not a pupil [^864].
+21\. Through the power of his penance and through the grace of God [^861] has the wise <i>S</i>vetâ<i>s</i>vatara truly [^862] proclaimed Brahman, the highest and holiest, to the best of ascetics [^863], as approved by the company of <i>Ri</i>shis. <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> 22\. This highest mystery in the Vedânta, delivered in a former age, should not be given to one whose passions have not been subdued, nor to one who is not a son, or who is not a pupil [^864].
 
 23\. If these truths have been told to a high-minded man, who feels the highest devotion for God, and for his Guru as for God, then they will shine forth,—then they will shine forth indeed.
 

@@ -33,7 +33,7 @@ dateCreated: 2025-2-12T12:15:34Z
 </figure>
 
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 This Ya<i>s</i>t to the Moon is recited on the day of the Moon, and on those of Bahman, Gô<i>s</i>, and Râm [^430] (Anquetil, II, 185). Bah-man and Gô<i>s</i> are so far connected with the Moon that all three are gao<i>k</i>ithra: ‘Bahman [^431], the Moon, and Gô<i>s</i> [^432], all three, are having in them the seed of the bull; Bahman can neither be seen nor seized with the hand; the Moon proceeded from Bahman [^433] and can be seen, but cannot be seized with the hand; Gô<i>s</i> proceeded from the Moon [^434] and can both be seen and seized with the hand [^435].’ Râm is referred to here as being <i>h</i><i>v</i>âstra, ‘lord of good pastures [^436].’
 
@@ -47,7 +47,7 @@ Ashem Vohû: Holiness is the best of all good . . . .
 
 I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra, one who hates the Daêvas and obeys the laws of Ahura; For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness . . . .
 
-Unto the Moon that keeps in it the seed of the <span id="p89">[<sup><small>p. 89</small></sup>]</span> Bull; unto the only-created Bull and unto the Bull [^437] of many species;
+Unto the Moon that keeps in it the seed of the <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> Bull; unto the only-created Bull and unto the Bull [^437] of many species;
 
 Be propitiation, with sacrifice, prayer, propitiation, and glorification.
 
@@ -59,7 +59,7 @@ Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 
 For fifteen days does the moon wax [^440]; for fifteen days does the moon wane. As long as her waxing, so long is the waning [^441]; as long as her waning, so long is the waxing.
 
-‘Who is there but thee [^442] who makes the moon wax and wane [^443]?’ <span id="p90">[<sup><small>p. 90</small></sup>]</span> 3\. We sacrifice unto the Moon that keeps in it the seed of the Bull, the holy and master of holiness.
+‘Who is there but thee [^442] who makes the moon wax and wane [^443]?’ <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> 3\. We sacrifice unto the Moon that keeps in it the seed of the Bull, the holy and master of holiness.
 
 Here I look at the moon, here I perceive the moon; here I look at the light of the moon, here I perceive the light of the moon. The Amesha-Spe<i>n</i>tas stand up [^444], holding its glory; the Amesha-Spe<i>n</i>tas stand up, pouring its glory upon the earth, made by Mazda [^445].
 
@@ -73,7 +73,7 @@ We sacrifice unto the full moon, the holy and master of holiness;
 
 We sacrifice unto the Vîshaptatha, the holy and master of holiness.
 
-; it has the same meaning in Vend. XVIII, 9 \[23\]; cf. Yt. XXII, 18.} <span id="p91">[<sup><small>p. 91</small></sup>]</span> 5\. I will sacrifice unto the Moon, that keeps in it the seed of the Bull, the liberal, bright, glorious, water-giving [^449], warmth-giving, wisdom-giving [^450], wealth-giving [^451], riches-giving, thoughtfulness-giving [^452], weal-giving, freshness-giving [^453], prosperity-giving [^454], the liberal, the healing.
+; it has the same meaning in Vend. XVIII, 9 \[23\]; cf. Yt. XXII, 18.} <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> 5\. I will sacrifice unto the Moon, that keeps in it the seed of the Bull, the liberal, bright, glorious, water-giving [^449], warmth-giving, wisdom-giving [^450], wealth-giving [^451], riches-giving, thoughtfulness-giving [^452], weal-giving, freshness-giving [^453], prosperity-giving [^454], the liberal, the healing.
 
 6\. For its brightness and glory, I will offer unto it a sacrifice worth being heard, namely, unto the Moon that keeps in it the seed of the Bull.
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T18:16:44Z
   </table>
 </figure>
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 I wish to acknowledge my indebtedness to Professor E. H. Whinfield, whose book, the standard translation of the _Gulshan i Rāz_, has been of the greatest assistance to me in compiling this little volume. I am grateful to Dr. R. A. Nicholson for kind permission to quote from his works on Sūfiism, and to Captain L. Cranmer-Byng I offer my best thanks for his kind interest in my work, and for many helpful hints and suggestions.
 

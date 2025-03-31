@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 1\. “How do we bless for fruit?” “For fruit of a tree say, ‘Who createst the fruit of the wood,’ excepting the wine. For wine say, ‘Who createst the fruit of the vine.’ For fruits of the earth say, ‘Who createst the fruit of the ground,’ excepting the morsel. For the morsel say, ‘Who bringest forth bread from the earth.’ For vegetables say, ‘Who createst the fruit of the ground.’ R. Judah says, ‘Who createst various kinds of herbs.’”
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 3\. For the thing which groweth not from the earth, say, “(Who createst) everything.” For vinegar, unripe fruit, and locusts, say “everything.” For milk, cheese, and eggs, say “everything.” R. Judah says, “whatever it be, which had its origin in a curse, is not to be blessed.”
 
-4\. If a man have before him many kinds of fruits? R. Judah says, “if there be among them of the seven [^29] kinds, he is to bless them.” But the Sages say “he may bless whichever of them he pleases.” <span id="p57">[<sup><small>p. 57</small></sup>]</span> 5\. “If one blessed the wine before food?” “The blessing frees the wine after food.” “If he blessed the titbit before food?” “It frees the titbit after food.” “If he blessed the bread?” “It frees the titbit.” But the blessing on the titbit does not free the bread. The school of Shammai say, “neither does it free the cookery.”
+4\. If a man have before him many kinds of fruits? R. Judah says, “if there be among them of the seven [^29] kinds, he is to bless them.” But the Sages say “he may bless whichever of them he pleases.” <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> 5\. “If one blessed the wine before food?” “The blessing frees the wine after food.” “If he blessed the titbit before food?” “It frees the titbit after food.” “If he blessed the bread?” “It frees the titbit.” But the blessing on the titbit does not free the bread. The school of Shammai say, “neither does it free the cookery.”
 
 6\. “If several persons sit down to eat?” “Each blesses for himself.” “But if they recline together?” “One blesses for all.” “If wine come to them during food?” “Each blesses for himself.” “But if after food?” “One blesses for all.” He also blesses for the incense, even though they have not brought it till after the repast.
 

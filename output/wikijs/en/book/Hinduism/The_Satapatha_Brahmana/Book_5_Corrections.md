@@ -31,7 +31,7 @@ dateCreated: 2025-1-14T23:38:14Z
 
 
 
-<span id="p591">[<sup><small>p. 591</small></sup>]</span>
+<span id="p591"><sup><small>[ p. 591 ]</small></sup></span>
 
 Page 13, paragraphs 7, 8. We have probably to translate—the gods were created on its reaching heaven,—they were created on its entering this earth.
 

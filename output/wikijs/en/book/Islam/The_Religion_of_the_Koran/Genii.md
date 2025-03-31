@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 CHAPTER VI., Verse 112.—So have we made for every prophet an enemy—devils of men and jinns; some of them inspire others with specious speech to lead astray; but had thy Lord pleased, they would not have done it; so leave them with what they do devise.
 
@@ -46,7 +46,7 @@ Chapter LI., Verse 55.—And I have not created the jinn and mankind save that t
 
 I do not desire any provision from them, and I do not wish them to feed Me.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Chapter LXXII., Verse 1.—In the name of the Merciful and Compassionate God.
 
@@ -68,7 +68,7 @@ Say, “I have been inspired that there listened a company of the jinn, and they
 
 “But, verily, when we heard the guidance we believed therein; and he who believes in his Lord shall fear neither diminution nor loss.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 “And, verily, of us are some who are Muslims, and of us some are trespassers; but those of us who are Muslims, they strive after right direction (15) and as for the trespassers they are fuel for Hell.”
 

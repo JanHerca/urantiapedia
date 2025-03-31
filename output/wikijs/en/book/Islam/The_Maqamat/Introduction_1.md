@@ -32,7 +32,7 @@ dateCreated: 2024-11-25T21:24:44Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 THE Ḥáfiz Aḥmad ibn al-Ḥusain ibn Yaḥya ibn Ṣa‘íd ibn Bashar Abú’l-Faḍl al-Hamadhání, surnamed Badí ‘al-Zamán (the Wonder of the Age), was born at Hamadhán on the 13th of Jumádí al-Ákhir A.H. 358 (A.D. 967) and, therefore, like many other eminent Arabic writers, lived far from Arabia and may have even been of Persian origin. [^0] He himself claimed to be descended from the tribes of Taghlib and Muḍar. [^1]
 
@@ -44,7 +44,7 @@ He is said to have satirized his native place in the well-known lines:—[^2]
 Hamadhán is my native town, I must allow it that honour, but it is the vilest of cities.
 In ugliness its children are like its old men, and, in reason, its old men are like its children.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 On page 419 of the Letters he quotes the verse of another poet:—
 
@@ -88,7 +88,7 @@ As no one had imagined there was a scholar who, under any circumstances, had the
 
 On the death of al-Khwárazmí in A.H. 383 (according to Ibn al-Athír in A.H. 393) Hamadhání found himself without a rival. How long he remained at Nishapur is not known, but writing to Shaikh Abd ‘Alí for a letter to the Amír he complains that his sojourn there had been long, that he was suffering from insomnia and, if there should be any delay in sending the letter, he would be obliged to leave without it. [^24] After leaving this city he visited every important town in Khurásán, Sijistán (Seistan) and the kingdom of Ghazna, probably reciting his maqámát to admiring audiences wherever he went. He finally settled in Herat [^25] where he greatly improved his position and circumstances by marrying the daughter of a rich man named Abú ‘Alí Ḥusain al-Khushnámí. By this marriage he had an only daughter to whom he refers in the most affectionate terms. He writes: ‘I am as devoted to her as a father to an only son and I would not exchange her for ten sons.’ [^26]
 
-He appears to have carried on an extensive correspondence with a large number of distinguished personages, the chief among whom were: Shaikh Abd ‘Abbás, first minister of Sulṭán Maḥmúd of Ghazna, Adnán ibn Muḥammad, the governor of <span id="p7">[<sup><small>p. 7</small></sup>]</span> Herat, Abú Ja‘far al-Míkálí, Muḥammad ibn Zuheir, the governor of Balkh, the Wazír of Rayy and others.
+He appears to have carried on an extensive correspondence with a large number of distinguished personages, the chief among whom were: Shaikh Abd ‘Abbás, first minister of Sulṭán Maḥmúd of Ghazna, Adnán ibn Muḥammad, the governor of <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> Herat, Abú Ja‘far al-Míkálí, Muḥammad ibn Zuheir, the governor of Balkh, the Wazír of Rayy and others.
 
 Proficiency in the epistolary art, such as Hamadhání could boast of, was a sure passport to preferment in the author's time, but he does not appear to have held any official position and the allusions to his being appointed governor of Baṣra [^27] and administrator of a province in Syria [^28] are, in all probability, a fiction. [^29] He died at Herat on Friday, the 11th Jumádí’l ‘Ula. A.H. 398 (February, 1008) [^30] at the comparatively early age of forty lunar years, or eight years younger than Ḥarírí was when he began to compose his Maqámát. [^31]
 

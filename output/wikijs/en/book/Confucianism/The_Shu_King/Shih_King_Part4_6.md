@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T12:2:15Z
 
 <a id="o0"></a>
 
-KING Wăn, it has been seen, had for his capital the city of Făng, from which his son, king Wû, moved the seat of government to Hâo. In the time of king <i>Kh</i>ăng, a city was built by the duke <span id="p439">[<sup><small>p. 439</small></sup>]</span> of Kâu, near the present Lo-yang, and called ‘the eastern capital.’ Meetings of the princes of the states assembled there; but the court continued to be held at Hâo till the accession of king Phing in B.C. 770. From that time, the kings of <i>K</i>âu sank nearly to the level of the princes of the states, and the poems collected in their domain were classed among the ‘Lessons of Manners from the States,’ though still distinguished by the epithet ‘royal’ prefixed to them.
+KING Wăn, it has been seen, had for his capital the city of Făng, from which his son, king Wû, moved the seat of government to Hâo. In the time of king <i>Kh</i>ăng, a city was built by the duke <span id="p439"><sup><small>[ p. 439 ]</small></sup></span> of Kâu, near the present Lo-yang, and called ‘the eastern capital.’ Meetings of the princes of the states assembled there; but the court continued to be held at Hâo till the accession of king Phing in B.C. 770. From that time, the kings of <i>K</i>âu sank nearly to the level of the princes of the states, and the poems collected in their domain were classed among the ‘Lessons of Manners from the States,’ though still distinguished by the epithet ‘royal’ prefixed to them.
 
 <a id="o1"></a>
 
@@ -46,7 +46,7 @@ There is no specific mention of the old. capital of <i>K</i>âu in the piece, bu
 
 There was the millet with its drooping heads; There was the sacrificial millet coming into blade [^613]. Slowly I moved about, In my heart all-agitated. Those who knew me said I was sad at heart. Those who did not know me, Said I was seeking for something. O thou distant and azure Heaven [^614]! By what man was this (brought about) [^615]?
 
-<span id="p440">[<sup><small>p. 440</small></sup>]</span>
+<span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 
 <a id="o9"></a>
 

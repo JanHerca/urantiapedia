@@ -32,13 +32,13 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 _I have only seen the fourteenth volume of this work, which comprises all that is elegant and noble in composition. So lofty, so various, and so bold is its style, that I do not hesitate to rank it amongst the most finished poems_.—Sir W. Jones.
 
 _This is the work, and not, as is generally supposed, the “Thousand and One Nights,” which is the source of the stories that fill the tents and cottages of Arabia and Egypt_.—Von Hammer.
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 <figure id="Figure_17100" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/17100.jpg">
@@ -60,7 +60,7 @@ The work was very favourably noticed by the leading reviewers of the day, some o
 
 This singular work is the only record of the every-day life of the Arabs ere yet they had come under the influence of El-Islám. “Even in a translation,” says a judicious critic, “Antar must be perused with pleasure by those to whom the simple modes of life afford matter of interesting speculation, and by those who are gratified with flowing and luxuriant descriptions, united to lively and picturesque sketches of events and characters.” Here the virtues and the vices of these Children of the Desert are faithfully portrayed: hospitable, brave, vindictive; at once liberal and avaricious; withal possessing a punctilious sense of honour: such were the pre-Islamite Arabs, whom the pen of El-Asma’ee has so vividly delineated. The Poetry with which the work is richly jewelled is the poetry of nature, abounding in touches of pathos, far beyond the reach of art.
 
-I regret that I have been unable to obtain any German or French translation of the account of Antar's suspending his Kasidah on the Kaaba; but my friend Mr. E. J. W. Gibb, of <span id="p174">[<sup><small>p. 174</small></sup>]</span> Lochwood, Lanarkshire, a young Orientalist of much promise, has favoured me with a translation of the Death of Antar—one of the noblest of heroic poems—from the French version of M. Caussin de Perceval, which is appended to the following rough sketch of the leading incidents in the First Part, according to Mr Hamilton's translation.
+I regret that I have been unable to obtain any German or French translation of the account of Antar's suspending his Kasidah on the Kaaba; but my friend Mr. E. J. W. Gibb, of <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> Lochwood, Lanarkshire, a young Orientalist of much promise, has favoured me with a translation of the Death of Antar—one of the noblest of heroic poems—from the French version of M. Caussin de Perceval, which is appended to the following rough sketch of the leading incidents in the First Part, according to Mr Hamilton's translation.
 
 ---
 
@@ -70,7 +70,7 @@ It is far from improbable that the famous Arabian Romance of Antar furnished the
 
 Many of the tales and fictions which were popular in Europe in mediæval times, and which, collected from oral tradition, have been preserved in such works as the “Clericali Disciplina” of Petrus Alphonsus, and the “Gesta Romanorum,” have been traced to Eastern sources—to Arabia and Syria, and thence to India, through Persia. These fictions probably came into Europe, partly through the Saracens of Spain, partly through intercourse with the East during the Crusades.
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 But in the 8th, 9th, and 10th centuries there was free intercourse between the Eastern and Western countries of the Roman world. Hároon Er-Rasheed and Charlemagne interchanged presents and messages of good-will; and the wondrous adventures of Antar may well have become known to early European writers of Chivalric Romance, when communication was thus open between Asia and Europe.
 

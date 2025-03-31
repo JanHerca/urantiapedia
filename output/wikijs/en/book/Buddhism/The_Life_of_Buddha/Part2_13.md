@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 
 THE following day, the Master went through the city, begging his food from house to house. He was soon recognized, and the people of Kapilavastu exclaimed:
@@ -47,7 +47,7 @@ One of Gopa's maidens heard the excitement as she was leaving the palace. She as
 
 Gopa gave a start. She thought, “He who once, for all his gorgeous jewels, was radiant with light, now wears coarse clothes, now has for sole adornment the divine brilliance of his person.” And she murmured, “How beautiful he must be!”
 
-<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 She ascended to the terrace of the palace. Surrounded by a crowd of people, the Master was approaching. A majestic splendor emanated from his person. Gopa trembled with joy, and in a voice full of fervor she sang:
 
@@ -65,9 +65,9 @@ Suddhodana was greatly disturbed. He left the palace, and approaching his son, h
 
 “We are a race of warriors,” said the king; “no Sakya was ever a beggar.”
 
-“You belong to the Sakya race; I, in the course of my previous existences, have sought supreme knowledge; I have learned the beauty of charity; I have known the joy of self-sacrifice. When I was the child Dharmapala, the queen, my mother, was <span id="p177">[<sup><small>p. 177</small></sup>]</span> playing with me one day, and she forgot to greet my father, King Brahmadatta, as he passed by. In order to punish her, he ordered one of the guards to cut off my hands, for he thought it would hurt her more to see me suffer than to suffer herself. My mother pleaded with him and offered her hands instead, but he was inexorable, and he was obeyed. I was smiling, and to see me smile, soon brought a smile to my mother's face. My father then ordered the guard to cut off my feet. This was done, and still I kept smiling. In a violent rage, he cried, ‘Cut off his head!’ My mother became terrified; she cowered before him. ‘Cut off my head,’ she begged, ‘but spare your son, O king!’ The king was about to yield when I spoke up in a childish voice. ‘Mother, it is for your salvation that I give my head. When I am dead, let my body be placed on a pike and exposed to view; let it be food for the birds of the air.’ And, as the executioner seized me by the hair, I added, ‘Oh, that I might become the Buddha and set free all who are born and who die in the worlds!’ And now, King Suddhodana, now at last 1 have attained wisdom; I am the Buddha; I know the path that leads to deliverance. Do not disturb me at my task. Be wide awake; be quick of apprehension; follow the sacred path of virtue. He sleeps in peace who leads a life of holiness, he sleeps on earth and in the other worlds.”
+“You belong to the Sakya race; I, in the course of my previous existences, have sought supreme knowledge; I have learned the beauty of charity; I have known the joy of self-sacrifice. When I was the child Dharmapala, the queen, my mother, was <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> playing with me one day, and she forgot to greet my father, King Brahmadatta, as he passed by. In order to punish her, he ordered one of the guards to cut off my hands, for he thought it would hurt her more to see me suffer than to suffer herself. My mother pleaded with him and offered her hands instead, but he was inexorable, and he was obeyed. I was smiling, and to see me smile, soon brought a smile to my mother's face. My father then ordered the guard to cut off my feet. This was done, and still I kept smiling. In a violent rage, he cried, ‘Cut off his head!’ My mother became terrified; she cowered before him. ‘Cut off my head,’ she begged, ‘but spare your son, O king!’ The king was about to yield when I spoke up in a childish voice. ‘Mother, it is for your salvation that I give my head. When I am dead, let my body be placed on a pike and exposed to view; let it be food for the birds of the air.’ And, as the executioner seized me by the hair, I added, ‘Oh, that I might become the Buddha and set free all who are born and who die in the worlds!’ And now, King Suddhodana, now at last 1 have attained wisdom; I am the Buddha; I know the path that leads to deliverance. Do not disturb me at my task. Be wide awake; be quick of apprehension; follow the sacred path of virtue. He sleeps in peace who leads a life of holiness, he sleeps on earth and in the other worlds.”
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 King Suddhodana wept with admiration. The Buddha continued:
 

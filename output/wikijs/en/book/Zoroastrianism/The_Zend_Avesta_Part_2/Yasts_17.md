@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:15:34Z
   </table>
 </figure>
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Ashi Vanguhi or ‘the good Ashi [^1150]’ is a feminine impersonation of piety [^1151], and she is, at the same time, the source of all the good and riches that are connected with piety [^1152]. She is described, therefore, as a goddess of Fortune and Wealth, and is invoked in company with Pâre<i>n</i>di, the goddess of Treasures (Sîrôzah 25).
 
@@ -42,7 +42,7 @@ She appears in the latter character in the first part of the Ya<i>s</i>t (§§ 1
 
 1\. We sacrifice to Ashi Vanguhi, who is shining, high, tall-formed, well worthy of sacrifice, with a loud-sounding chariot, strong, welfare-giving, healing, with fulness of intellect [^1154], and powerful;
 
-2\. The daughter of Ahura Mazda, the sister of the Amesha-Spe<i>n</i>tas, who endows all the <span id="p271">[<sup><small>p. 271</small></sup>]</span> Saoshya<i>n</i><i>t</i>s [^1155] with the enlivening intelligence; she also brings heavenly wisdom at her wish, and comes to help him who invokes her from near and him who invokes her from afar, and worships her with offerings of libations.
+2\. The daughter of Ahura Mazda, the sister of the Amesha-Spe<i>n</i>tas, who endows all the <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> Saoshya<i>n</i><i>t</i>s [^1155] with the enlivening intelligence; she also brings heavenly wisdom at her wish, and comes to help him who invokes her from near and him who invokes her from afar, and worships her with offerings of libations.
 
 3 [^1156]. For her brightness and glory, I will offer her a sacrifice worth being heard; I will offer up unto Ashi Vanguhi a good sacrifice with an offering of libations. We sacrifice unto Ashi Vanguhi with the libations; with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the holy spells, with the words, with the deeds, with the libations, and with the rightly-spoken words.
 
@@ -56,7 +56,7 @@ Yê<i>n</i>hê hâtãm: All those beings of whom Ahura Mazda . . . .
 
 Homage unto Haoma, because all other drinks are attended with Aêshma [^1158], the fiend of the wounding spear: but the drinking of Haoma is attended with Asha and with Ashi Vanguhi herself [^1159].
 
-6\. Ashi is fair; Ashi is radiant with joy; she is far-piercing with her rays. Ashi gives good Glory <span id="p272">[<sup><small>p. 272</small></sup>]</span> unto those men whom thou dost follow, O Ashi! Full of perfumes is the house in which the good, powerful Ashi Vanguhi puts her . . . . [^1160] feet, for long friendship.
+6\. Ashi is fair; Ashi is radiant with joy; she is far-piercing with her rays. Ashi gives good Glory <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> unto those men whom thou dost follow, O Ashi! Full of perfumes is the house in which the good, powerful Ashi Vanguhi puts her . . . . [^1160] feet, for long friendship.
 
 7\. Those men whom thou dost attend, O Ashi! are kings of kingdoms, that are rich in horses, with large tributes, with snorting horses, sounding chariots, flashing swords, rich in aliments and in stores of food [^1161]; well-scented where the beds are spread and full of all the other riches that may be wished for. Happy the man whom thou dost attend! do thou attend me, thou rich in all sorts of desirable things and strong!
 
@@ -64,7 +64,7 @@ Homage unto Haoma, because all other drinks are attended with Aêshma [^1158], t
 
 9\. The men whom thou dost attend, O Ashi Vanguhi! have beds that stand well-spread, well-adorned, well-made, provided with cushions and with feet inlaid with gold. Happy the man whom thou dost attend! Do thou attend me, thou rich in all sorts of desirable things and strong!
 
-10\. The men whom thou dost attend, O Ashi Vanguhi! have their ladies that sit on their beds, waiting for them: they lie on the cushions, adorning themselves, . . . . [^1162], with square bored ear-rings and a necklace of gold: ‘When will our lord come? when shall we enjoy in our bodies the joys of love?’ <span id="p273">[<sup><small>p. 273</small></sup>]</span> Happy the man whom thou dost attend! Do thou attend me, thou rich in all sorts of desirable things and strong!
+10\. The men whom thou dost attend, O Ashi Vanguhi! have their ladies that sit on their beds, waiting for them: they lie on the cushions, adorning themselves, . . . . [^1162], with square bored ear-rings and a necklace of gold: ‘When will our lord come? when shall we enjoy in our bodies the joys of love?’ <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> Happy the man whom thou dost attend! Do thou attend me, thou rich in all sorts of desirable things and strong!
 
 11\. The men whom thou dost attend, O Ashi Vanguhi! have daughters that sit . . . . [^1163]; thin is their waist, beautiful is their body, long are their fingers; they are as fair of shape as those who look on can wish. Happy the man whom thou dost attend! Do thou attend me, thou rich in all sorts of desirable things and strong!
 
@@ -72,7 +72,7 @@ Homage unto Haoma, because all other drinks are attended with Aêshma [^1158], t
 
 13\. The men whom thou dost attend, O Ashi Vanguhi! have large-humped, burden-bearing camels, flying from the ground or fighting with holy fieriness [^1165]. Happy the man whom thou dost attend! Do thou attend me, thou rich in all sorts of desirable things and strong!
 
-14\. The men whom thou dost attend, O Ashi Vanguhi! have hoards of silver and gold brought together from far distant regions; and garments of splendid make. Happy the man whom thou dost attend! Do thou attend me, thou rich in all sorts of desirable things and strong! <span id="p274">[<sup><small>p. 274</small></sup>]</span> 15\. Do not turn thy look from me! turn thy mercy towards me, O great Ashi! thou art well-made and of a noble seed [^1166]; thou art sovereign at thy wish; thou art Glory in a bodily form.
+14\. The men whom thou dost attend, O Ashi Vanguhi! have hoards of silver and gold brought together from far distant regions; and garments of splendid make. Happy the man whom thou dost attend! Do thou attend me, thou rich in all sorts of desirable things and strong! <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> 15\. Do not turn thy look from me! turn thy mercy towards me, O great Ashi! thou art well-made and of a noble seed [^1166]; thou art sovereign at thy wish; thou art Glory in a bodily form.
 
 16\. Thy father is Ahura Mazda, the greatest of all gods, the best of all gods; thy mother is Ârmaiti Spe<i>n</i>ta; thy brothers are Sraosha [^1167], a god of Asha, and Rashnu [^1168], tall and strong, and Mithra [^1169], the lord of wide pastures, who has ten thousand spies and a thousand ears; thy sister is the Law of the worshippers of Mazda.
 
@@ -80,7 +80,7 @@ Homage unto Haoma, because all other drinks are attended with Aêshma [^1158], t
 
 18\. And he [^1171] said aloud: 'I am Spitama Zarathu<i>s</i>tra, who, first of mortals, recited the praise of the excellent Asha [^1172] and offered up sacrifice unto Ahura Mazda and the Amesha-Spe<i>n</i>tas; in whose birth and growth the waters and the plants rejoiced; in whose birth and growth the waters and the plants grew; in whose birth and growth all the creatures of the good creation cried out, Hail [^1173]!
 
-19\. 'In whose birth and growth Angra Mainyu rushed away from this wide, round earth, whose ends lie afar, and he, the evil-doing Angra Mainyu, who is all death, said: "All the gods together <span id="p275">[<sup><small>p. 275</small></sup>]</span> have not been able to smite me down in spite of myself, and Zarathu<i>s</i>tra alone can reach me in spite of myself.
+19\. 'In whose birth and growth Angra Mainyu rushed away from this wide, round earth, whose ends lie afar, and he, the evil-doing Angra Mainyu, who is all death, said: "All the gods together <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> have not been able to smite me down in spite of myself, and Zarathu<i>s</i>tra alone can reach me in spite of myself.
 
 20\. ‘ “He smites me with the Ahuna Vairya, as strong a weapon as a stone big as a house [^1174]; he burns me with Asha-Vahi<i>s</i>ta, as if it were melting brass [^1175]. He makes it better for me that I should leave this earth, he, Spitama Zarathu<i>s</i>tra, the only one who can daunt me.” ’
 
@@ -96,7 +96,7 @@ Spitama Zarathu<i>s</i>tra came nearer unto her, he leant against her chariot.
 
 24 [^1178]. To her did Haoshyangha, the Paradhâta, offer up a sacrifice, upon the enclosure of the Hara, the beautiful height, made by Mazda,
 
-25\. He begged of her a boon, saying: ‘Grant <span id="p276">[<sup><small>p. 276</small></sup>]</span> me this, O great Ashi Vanguhi! that I may overcome all the Daêvas of Mâzana; that I may never fear and bow through terror before the Daêvas, but that all the Daêvas may fear and bow in spite of themselves before me, that they may fear and flee down to darkness.’
+25\. He begged of her a boon, saying: ‘Grant <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> me this, O great Ashi Vanguhi! that I may overcome all the Daêvas of Mâzana; that I may never fear and bow through terror before the Daêvas, but that all the Daêvas may fear and bow in spite of themselves before me, that they may fear and flee down to darkness.’
 
 26\. The great Ashi Vanguhi ran and came to his side: Haoshyangha, the Paradhâta, obtained that boon.
 
@@ -116,7 +116,7 @@ For her brightness and glory, I will offer her a sacrifice . . . .
 
 For her brightness and glory, I will offer her a sacrifice . . . .
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 ## V.
 
@@ -134,7 +134,7 @@ For her brightness and glory, I will offer her a sacrifice . . . .
 
 36\. We sacrifice to Ashi Vanguhi, who is shining, high . . . . and powerful.
 
-37 [^1181]. To her did Haoma offer up a sacrifice, Haoma, the enlivening, the healing, the beautiful, the lordly, with golden eyes, upon the highest height of the Haraiti Bareza. <span id="p278">[<sup><small>p. 278</small></sup>]</span> 38\. He begged of her a boon, saying: ‘Grant me this, O great Ashi Vanguhi! that I may bind the Turanian murderer, Franghrasyan, that I may drag him bound, that I may bring him bound unto king Husravah, that king Husravah may kill him, behind the <i>K</i>aê<i>k</i>asta lake, the deep lake of salt waters, to avenge the murder of his father Syâvarshâna, a man, and of Aghraêratha, a semi-man.’
+37 [^1181]. To her did Haoma offer up a sacrifice, Haoma, the enlivening, the healing, the beautiful, the lordly, with golden eyes, upon the highest height of the Haraiti Bareza. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> 38\. He begged of her a boon, saying: ‘Grant me this, O great Ashi Vanguhi! that I may bind the Turanian murderer, Franghrasyan, that I may drag him bound, that I may bring him bound unto king Husravah, that king Husravah may kill him, behind the <i>K</i>aê<i>k</i>asta lake, the deep lake of salt waters, to avenge the murder of his father Syâvarshâna, a man, and of Aghraêratha, a semi-man.’
 
 39\. The great Ashi Vanguhi ran and came to his side. Haoma, the enlivening, the healing, the beautiful, the lordly, with golden eyes, obtained that boon.
 
@@ -152,7 +152,7 @@ For her brightness and glory, I will offer her a sacrifice . . . .
 
 For her brightness and glory, I will offer her a sacrifice worth being heard . . . .
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 ## VIII.
 
@@ -172,7 +172,7 @@ For her brightness and glory, I will offer her a sacrifice worth being heard . .
 
 49\. To her did the tall Kavi Vî<i>s</i>tâspa offer up a sacrifice behind the waters of the river Dâitya.
 
-50\. He begged of her a boon, saying: 'Grant me this, O great Ashi Vanguhi! that I may put to flight A<i>s</i>ta-aurva<i>n</i><i>t</i>, the son of Vîspô-thaurvô-asti, the all-afflicting, of the brazen helmet, of the brazen armour, of the thick neck, behind whom seven <span id="p280">[<sup><small>p. 280</small></sup>]</span> hundred camels . . . .; that I may put to flight the <i>H</i><i>v</i>yaona murderer, Are<i>g</i>a<i>t</i>\-aspa; that I may put to flight Dar<i>s</i>inika, the worshipper of the Daêvas;
+50\. He begged of her a boon, saying: 'Grant me this, O great Ashi Vanguhi! that I may put to flight A<i>s</i>ta-aurva<i>n</i><i>t</i>, the son of Vîspô-thaurvô-asti, the all-afflicting, of the brazen helmet, of the brazen armour, of the thick neck, behind whom seven <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> hundred camels . . . .; that I may put to flight the <i>H</i><i>v</i>yaona murderer, Are<i>g</i>a<i>t</i>\-aspa; that I may put to flight Dar<i>s</i>inika, the worshipper of the Daêvas;
 
 51\. ‘And that I may smite Tãthrava<i>n</i><i>t</i> of the bad law; that I may smite Spin<i>g</i>auru<i>s</i>ka, the worshipper of the Daêvas; and that I may bring unto the good law the nations of the Varedhakas and of the <i>H</i><i>v</i>yaonas; and that I may smite of the <i>H</i><i>v</i>yaona nations their fifties and their hundreds, their hundreds and their thousands, their thousands and their tens of thousands, their tens of thousands and their myriads of myriads.’
 
@@ -186,7 +186,7 @@ For her brightness and glory, I will offer her a sacrifice worth being heard . .
 
 54\. And the great Ashi Vanguhi said: 'None of those libations will be accepted by me, which are sent to me either by a man whose seed is dried out [^1184], or by the courtezan who produces untimely issues [^1185], or by young boys, or by girls who have known no man [^1186].
 
-‘When the Turanians and the swift-horsed Naotaras [^1187], clapping their hands, ran after me, <span id="p281">[<sup><small>p. 281</small></sup>]</span> 55\. 'I hid myself under the foot of a bull walking under his burden; then young boys, and girls who had known no man, discovered me, even while the Turanians and the swift-horsed Naotaras, clapping their hands, were running after me.
+‘When the Turanians and the swift-horsed Naotaras [^1187], clapping their hands, ran after me, <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> 55\. 'I hid myself under the foot of a bull walking under his burden; then young boys, and girls who had known no man, discovered me, even while the Turanians and the swift-horsed Naotaras, clapping their hands, were running after me.
 
 56\. ‘Even I hid myself under the throat of a ram of hundredfold energy: then again young boys, and girls who had known no man, discovered me, even while the Turanians and the swift-horsed Naotaras, clapping their hands, were running after me.’
 
@@ -196,7 +196,7 @@ For her brightness and glory, I will offer her a sacrifice worth being heard . .
 
 59\. This is the third wailing of the great Ashi Vanguhi: ‘This is the worst deed that men and tyrants do, namely, when they deprive maids, that have been barren for a long time, of marrying and bringing forth children. What shall I do? Shall I go back to the heavens? Shall I sink into the earth?’
 
-60\. Ahura Mazda answered: ‘O fair and wise Ashi, go not back to the heavens, sink not into the <span id="p282">[<sup><small>p. 282</small></sup>]</span> earth! Stay here and walk inside the fine kingly palace.’
+60\. Ahura Mazda answered: ‘O fair and wise Ashi, go not back to the heavens, sink not into the <span id="p282"><sup><small>[ p. 282 ]</small></sup></span> earth! Stay here and walk inside the fine kingly palace.’
 
 61\. I shall worship thee with such a sacrifice, I shall worship and forward thee with such a sacrifice as Vî<i>s</i>tâspa offered unto thee, behind the river Dâitya [^1188]. The Zoatar lifted up a loud voice, with baresma before him. With that sort of sacrifice shall I worship thee? With that sort of sacrifice shall I worship and forward thee, O fair and wise Ashi?
 

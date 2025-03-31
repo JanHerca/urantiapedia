@@ -33,7 +33,7 @@ dateCreated: 2025-1-14T23:38:47Z
 </figure>
 
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 ## KÂ_N__D_A III, KA<i>ND</i>IKÂ 1.
 
@@ -47,7 +47,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. [^867]. Having made oblations of the mess of cooked food to the Âgraya<i>n</i>a deities, he makes another oblation to (Agni) Svish<i>n</i>ak<i>n</i>t with (the verse), ‘Agni, make this (sacrifice) full, that it may be well offered. And may the god destroy all hostile powers. Come hither, showing us a good path. Bestow on us long life, full of splendour and free from decay. Svâhâ!’
 
-4\. He then eats (of the fresh fruits with the <span id="p338">[<sup><small>p. 338</small></sup>]</span> verses), 'May Agni eat first, for he knows how the Havis (is fit for sacrifice); may he, the friend of all human tribes, make the herbs blessed to us.
+4\. He then eats (of the fresh fruits with the <span id="p338"><sup><small>[ p. 338 ]</small></sup></span> verses), 'May Agni eat first, for he knows how the Havis (is fit for sacrifice); may he, the friend of all human tribes, make the herbs blessed to us.
 
 From the good you have led us to the better, ye gods! Through thee, the nourishment, may we obtain thee. Thus enter into us, O potion, bringing refreshment, for the good of our children and of ourselves, and pleasant.’
 
@@ -65,7 +65,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 ‘The night whom men welcome like a cow that comes to them, (the night) which is the consort of the year, may that (night) be auspicious to us. Svâhâ!
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 ‘The night which is the image of the year, that we worship. May I reach old age, imparting strength to my offspring. Svâhâ!
 
@@ -79,7 +79,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 5\. After the cleaning he says, ‘The Bali offering is finished.’
 
-6\. [^872]. After they have spread out to the west of the fire a layer (of straw) and a garment that has <span id="p340">[<sup><small>p. 340</small></sup>]</span> not yet been washed, they ‘redescend,’ having bathed, wearing garments which have not yet been washed: the master (of the house) southward, his wife to the north (of her husband, and then the other persons belonging to the house) so that each younger one lies more to the north.
+6\. [^872]. After they have spread out to the west of the fire a layer (of straw) and a garment that has <span id="p340"><sup><small>[ p. 340 ]</small></sup></span> not yet been washed, they ‘redescend,’ having bathed, wearing garments which have not yet been washed: the master (of the house) southward, his wife to the north (of her husband, and then the other persons belonging to the house) so that each younger one lies more to the north.
 
 7\. Having caused the Brahman to sit down southward, and having placed to the north a water-pot, a <i>S</i>amî branch, an earth-clod taken out of a furrow, and a stone, he murmurs, looking at the fire: ‘This Agni is most valiant, he is most blessed, the best giver of a thousand boons, highly powerful. May he establish us both in the highest place.’
 
@@ -93,7 +93,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 12\. [^874]. Those who have received the initiation murmur, ‘May a good winter, a good spring, a good summer be bestowed on us. Blessed may be to us the rains; may the autumns be blessed to us.’
 
-13\. With (the verse), ‘Be soft to us, O earth’ (Vâ_g_. Sa<i>m</i>h. XXXV, 21), they lie down on their right sides, their heads turned towards the east. <span id="p341">[<sup><small>p. 341</small></sup>]</span>
+13\. With (the verse), ‘Be soft to us, O earth’ (Vâ_g_. Sa<i>m</i>h. XXXV, 21), they lie down on their right sides, their heads turned towards the east. <span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 14 [14](#fn875). They arise with (the verse), 'Up! with life, with blessed life. Up! with Par<i>m</i>anya's eye, with the seven spaces of the earth.’
 
@@ -113,7 +113,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 5\. [^879]. Having cooked a mess of sacrificial food and having sacrificed the two Â<i>g</i>ya portions, he sacrifices Â<i>g</i>ya oblations with (the texts):
 
-(a [^880]) 'Thirty sisters go to the appointed place, <span id="p342">[<sup><small>p. 342</small></sup>]</span> putting on the same badge. They spread out the seasons, the knowing sages; having the metres in their midst they walk around, the brilliant ones. Svâhâ!
+(a [^880]) 'Thirty sisters go to the appointed place, <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> putting on the same badge. They spread out the seasons, the knowing sages; having the metres in their midst they walk around, the brilliant ones. Svâhâ!
 
 (b) 'The shining one clothes herself with clouds, with the ways of the sun, the divine night: manifold animals which are born, look about in this mother's lap. Svâhâ!
 
@@ -123,7 +123,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 (e) 'In my favour dwelt the omniscient one; he has found a firm standing; he has got a footing. May I be in his (i.e. the sacrificer's?) favour, as you are; may none of you supplant the other in her work.
 
-(f [^882]) 'On the five dawns follows the fivefold milking; on the cow with the five names, the rive seasons. The five regions (of the sky) are established <span id="p343">[<sup><small>p. 343</small></sup>]</span> through the fifteenfold (Stoma); with one common face (they look over) the one world. Svâhâ!
+(f [^882]) 'On the five dawns follows the fivefold milking; on the cow with the five names, the rive seasons. The five regions (of the sky) are established <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> through the fifteenfold (Stoma); with one common face (they look over) the one world. Svâhâ!
 
 (g) 'She who shone forth as the first, is the child of truth. One (of them) bears the majesty of the waters; one wanders in the courses of the sun; one (in those) of the heat; Savit<i>ri</i> shall govern one. Svâhâ!
 
@@ -135,7 +135,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 6\. [^884]. He makes offerings of the mess of cooked food with (the verses):
 
-‘May the earth be peaceful, the air friendly to us; <span id="p344">[<sup><small>p. 344</small></sup>]</span> may the heavens give us bliss and safety. May the points (of the horizon), the intermediate points, the upper points give us bliss, and may day and night create long life for us. Svâhâ!
+‘May the earth be peaceful, the air friendly to us; <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> may the heavens give us bliss and safety. May the points (of the horizon), the intermediate points, the upper points give us bliss, and may day and night create long life for us. Svâhâ!
 
 ‘May the waters, the rays protect us from all sides; may the creator, may the ocean turn away evil. The present and the future, may all be safe for me. Protected by Brahman, may I be well guarded. Svâhâ!
 
@@ -151,7 +151,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 11\. Also to the female (ancestors he makes Pi<i>nd</i>a offerings) and pours (for them) strong liquor and water oblations into pits, and (offers) collyrium, salves, and garlands.
 
-12\. (He may also make oblations), if he likes, to the teacher and to the pupils who have no children. <span id="p345">[<sup><small>p. 345</small></sup>]</span>
+12\. (He may also make oblations), if he likes, to the teacher and to the pupils who have no children. <span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 13 [^885]. And in the middle of the rainy season (there is) a fourth Ash<i>t</i>akâ on which vegetables are offered.
 
@@ -171,7 +171,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 ‘To thee (may) the young child (go), to thee the calf with its companions, to thee the cup of Parisrut, to thee (may they go) with pots of curds.
 
-<span id="p346">[<sup><small>p. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 ‘The consort of Peace, the great one, beautifully attired—bestow on us, O blessed one, wealth and manly power, which may be rich in horses and cows, full of sap like a tree's leaf. May our wealth increase here, clothing itself with prospering'—with (these four Mantras) he approaches the four (posts).
 
@@ -185,7 +185,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 (b) 'Vâstoshpati! Be our furtherer; make our wealth increase in cows and horses, O Indu (i.e. Soma). Free from decay may we dwell in thy friendship; give us thy favour, as a father to his sons. Svâhâ!
 
-(c) 'Vâstoshpati! Let us be in a fellowship with thee, which may be valiant, joyful, and well proceeding. Protect our wishes when we rest and <span id="p347">[<sup><small>p. 347</small></sup>]</span> when we do our work. Protect us always, ye (gods), and give us welfare. Svâhâ!
+(c) 'Vâstoshpati! Let us be in a fellowship with thee, which may be valiant, joyful, and well proceeding. Protect our wishes when we rest and <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> when we do our work. Protect us always, ye (gods), and give us welfare. Svâhâ!
 
 (d) 'Driving away calamity, Vâstoshpati, assuming all shapes, be a kind friend to us. Svâhâ!
 
@@ -203,7 +203,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 (f) ‘As a lucky, a happy (place), give me this dwelling-place, Brahman and Pra<i>g</i>âpati, and all deities. Svâhâ!’
 
-9\. After he has partaken (of the sacrificial food), let him put into a brass vessel the different things which he has brought together, Udumbara leaves with strong liquor, green turf, cowdung, curds, <span id="p348">[<sup><small>p. 348</small></sup>]</span> honey, ghee, Ku<i>s</i>a grass, and barley, and let him besprinkle the seats and shrines (for the images of the gods).
+9\. After he has partaken (of the sacrificial food), let him put into a brass vessel the different things which he has brought together, Udumbara leaves with strong liquor, green turf, cowdung, curds, <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> honey, ghee, Ku<i>s</i>a grass, and barley, and let him besprinkle the seats and shrines (for the images of the gods).
 
 10\. He touches (the wall and the posts) at their eastern juncture with (the words), ‘May luck and glory protect thee at thy eastern juncture.’
 
@@ -227,7 +227,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 17\. Then to the north: 'May the sleepless one and the not-slumbering one protect me from the north.
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 ‘The Moon is the sleepless one; the Wind is the not-slumbering one; to them I apply; to them be adoration; may they protect me from the north.’
 
@@ -247,7 +247,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 2\. To the north-east he digs a pit like (the pit for) a sacrificial post, strews into it Ku<i>s</i>a grass, fried grains, fruits of the soap-tree, and other auspicious things, and therein he establishes the water-barrel with (the words), ‘The sea art thou.’
 
-3\. [^892]. He pours water into it with (the verse), ‘Ye <span id="p350">[<sup><small>p. 350</small></sup>]</span> waters, rich in wealth, ye possess goods. Ye bring us good insight and immortality. Ye are the rulers over wealth and blessed offspring. May Sarasvatî give strength to him who praises her!’—
+3\. [^892]. He pours water into it with (the verse), ‘Ye <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> waters, rich in wealth, ye possess goods. Ye bring us good insight and immortality. Ye are the rulers over wealth and blessed offspring. May Sarasvatî give strength to him who praises her!’—
 
 4\. And with the three (verses), ‘O waters, ye are’ (Vâ_g_. Sa<i>m</i>hitâ XI, 50 seqq.).
 
@@ -271,7 +271,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 1\. [^893]. (Now will be declared) the making water round about a servant who is disposed to run away.
 
-2\. While (the servant) is sleeping, he should discharge his urine into the horn of a living animal, and should three times walk round him, turning his left side towards him, and sprinkle (the urine) round him, <span id="p351">[<sup><small>p. 351</small></sup>]</span> with (the verse), 'From the mountain (on which thou art born), from thy mother, from thy sister, from thy parents and thy brothers, from thy friends I sever thee.
+2\. While (the servant) is sleeping, he should discharge his urine into the horn of a living animal, and should three times walk round him, turning his left side towards him, and sprinkle (the urine) round him, <span id="p351"><sup><small>[ p. 351 ]</small></sup></span> with (the verse), 'From the mountain (on which thou art born), from thy mother, from thy sister, from thy parents and thy brothers, from thy friends I sever thee.
 
 ‘Run-away servant, I have made water round thee. Having been watered round, where wilt thou go?’
 
@@ -285,7 +285,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 2\. [^897]. It procures (to the sacrificer) heavenly rewards, cattle, sons, wealth, renown, long life.
 
-3\. [^898]. Having taken the sacred domestic fire to the <span id="p352">[<sup><small>p. 352</small></sup>]</span> forest, and having performed the ‘outspreading,’ he should sacrifice the animal to Rudra.
+3\. [^898]. Having taken the sacred domestic fire to the <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> forest, and having performed the ‘outspreading,’ he should sacrifice the animal to Rudra.
 
 4\. One that is not gelded.
 
@@ -305,7 +305,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 ‘The hosts, Rudra, which thou hast to the east, to them this Bali (is given). To them and to thee be adoration!
 
-‘The hosts, Rudra, which thou hast to the south . . . to the west . . . to the north . . . upwards . . . <span id="p353">[<sup><small>p. 353</small></sup>]</span> downwards, to them this Bali (is given). To them and to thee be adoration!’
+‘The hosts, Rudra, which thou hast to the south . . . to the west . . . to the north . . . upwards . . . <span id="p353"><sup><small>[ p. 353 ]</small></sup></span> downwards, to them this Bali (is given). To them and to thee be adoration!’
 
 12\. [^904]. The contents of the stomach and of the entrails, besmeared with blood, he throws into the fire or buries them in the earth.
 
@@ -327,7 +327,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 3\. [^909]. (It is performed) on the full-moon day of Kârttika, or on the (day on which the moon stands in conjunction with) Revatî in the Â<i>vayu</i>vayu<i>vayu</i>a month.
 
-4\. [^910]. Having set a fire in a blaze in the midst of the <span id="p354">[<sup><small>p. 354</small></sup>]</span> cows, and having prepared Â<i>m</i>ya, he sacrifices six (oblations) with (the Mantras), ‘Here is delight’ (Vâ_g_. Sa<i>m</i>h. VIII, 51).
+4\. [^910]. Having set a fire in a blaze in the midst of the <span id="p354"><sup><small>[ p. 354 ]</small></sup></span> cows, and having prepared Â<i>m</i>ya, he sacrifices six (oblations) with (the Mantras), ‘Here is delight’ (Vâ_g_. Sa<i>m</i>h. VIII, 51).
 
 5\. [^911]. With (the verses), ‘May Pûshan go after our cows; may Pûshan watch over our horses; may Pûshan give us strength’—he sacrifices of (the sacrificial food) destined for Pûshan.
 
@@ -335,7 +335,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 7\. [^913]. When (the bull) stands in the midst of the cows, he recites over it (the texts beginning with) ‘Bringing refreshment,’ down to the end of the Anuvâka (Vâ_g_. Sa<i>m</i>h. XVIII, 45-50).
 
-8\. With the milk of all (the cows) he should cook milk-rice and give it to the Brâhma<i>n</i>as to eat. <span id="p355">[<sup><small>p. 355</small></sup>]</span>
+8\. With the milk of all (the cows) he should cook milk-rice and give it to the Brâhma<i>n</i>as to eat. <span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 9 [^914]. Some also sacrifice an animal.
 
@@ -361,7 +361,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 9\. [^918]. Singing the Yama song and murmuring the Yama hymn, according to some (teachers).
 
-10\. [^919]. If (the dead person) has received the initiation, <span id="p356">[<sup><small>p. 356</small></sup>]</span> (the rites) from the election of the site (for the _S<i>ma</i>s<i>ma<i>S</i>rauta) fires.
+10\. [^919]. If (the dead person) has received the initiation, <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> (the rites) from the election of the site (for the _S<i>ma</i>s<i>ma<i>S</i>rauta) fires.
 
 11\. They burn him with his (sacred) domestic fire, if he has kept that;
 
@@ -385,7 +385,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 21\. They pour out with joined hands one libation of water to the deceased person with (the words), ‘N.N.! This water to thee!’
 
-22\. When they have come out (of the water) and <span id="p357">[<sup><small>p. 357</small></sup>]</span> have sat down on a pure spot that is covered with grass, (those who are versed in ancient tales) should entertain them (by telling such tales).
+22\. When they have come out (of the water) and <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> have sat down on a pure spot that is covered with grass, (those who are versed in ancient tales) should entertain them (by telling such tales).
 
 23\. [^921]. They return to the village without looking back, in one row, the youngest walking in front.
 
@@ -403,7 +403,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 30\. Through ten nights, according to some (teachers).
 
-31\. (During that period they) should not perform Svâdhyâya (or study the Vedic texts for themselves). <span id="p358">[<sup><small>p. 358</small></sup>]</span>
+31\. (During that period they) should not perform Svâdhyâya (or study the Vedic texts for themselves). <span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 32\. They should intermit the standing rites, except those performed with the three (<i>S</i>rauta) fires,
 
@@ -429,7 +429,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 43\. [^929]. And they for the (others).
 
-44\. [^930]. If one dies while being absent on a journey, (his relations) shall sit (on the ground, as prescribed for impure persons) from the time when they have heard (of his death), performing the water libation <span id="p359">[<sup><small>p. 359</small></sup>]</span> (at that time), until the period (of their impurity) has expired;
+44\. [^930]. If one dies while being absent on a journey, (his relations) shall sit (on the ground, as prescribed for impure persons) from the time when they have heard (of his death), performing the water libation <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> (at that time), until the period (of their impurity) has expired;
 
 45\. If (that period has already) elapsed, through one night or three nights.
 
@@ -455,7 +455,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 11.
 
@@ -469,7 +469,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 5\. [^940]. (He should name that deity also) at the touching (of the animal with the grass-blade), at (its) being bound (to the branch), at its being sprinkled (with water), and at (the preparation and oblation) of the mess of cooked food.
 
-6\. After he has sacrificed the omentum, he cuts off the Avadâna portions, <span id="p361">[<sup><small>p. 361</small></sup>]</span>
+6\. After he has sacrificed the omentum, he cuts off the Avadâna portions, <span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 7 [^941]. All of them, or three, or five.
 
@@ -489,7 +489,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 3\. (And) he shall offer a mess of cooked food to Nir<i>ri</i>ti.
 
-4\. [^945]. The Avadâna portions are sacrificed into water (and not into fire). <span id="p362">[<sup><small>p. 362</small></sup>]</span>
+4\. [^945]. The Avadâna portions are sacrificed into water (and not into fire). <span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 5 [^946]. The Puro<i>d</i>â<i>d</i>a (or sacrificial cake), which belongs to the animal sacrifice, is cooked on the ground (and not in the Kapâlas).
 
@@ -511,7 +511,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 2\. [^949]. He approaches the court with (the words), Court! Thou that belongest to the Aṅgiras! Trouble art thou by name; vehemence art thou by name. Thus be adoration to thee!
 
-3\. [^950]. He then enters (the court) with (the words), ‘(May) the court and the assembly, the two unanimous <span id="p363">[<sup><small>p. 363</small></sup>]</span> daughters of Pra<i>g</i>âpati (protect me). May one who does not know me, be below me. May (all) people be considerate in what they say.’
+3\. [^950]. He then enters (the court) with (the words), ‘(May) the court and the assembly, the two unanimous <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> daughters of Pra<i>g</i>âpati (protect me). May one who does not know me, be below me. May (all) people be considerate in what they say.’
 
 4\. When he has arrived at the assembly, he should murmur, ‘Superior (to my adversaries) I have come hither, brilliant, not to be contradicted. The lord of this assembly is a man insuperable in his power.’
 
@@ -527,7 +527,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 1\. Now the mounting of a chariot (is declared).
 
-2\. After he has given the order, ‘Put the horses to it,’ and it has been announced, ‘They are,’ he goes to (the chariot, saying), ‘This is the Virâ_g_,’ and touches the two wheels, <span id="p364">[<sup><small>p. 364</small></sup>]</span>
+2\. After he has given the order, ‘Put the horses to it,’ and it has been announced, ‘They are,’ he goes to (the chariot, saying), ‘This is the Virâ_g_,’ and touches the two wheels, <span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 3\. The right (wheel) with (the words), ‘The Rathantara art thou’—
 
@@ -541,7 +541,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 8\. (If going in his chariot) toward (images of) gods, let him descend (from the chariot) before he has reached them; if toward Brâhma<i>n</i>as, just before (reaching them); if toward cows, when amid them; if toward fathers, when he has reached them.
 
-9\. A woman or a Vedic student shall not be charioteers. <span id="p365">[<sup><small>p. 365</small></sup>]</span>
+9\. A woman or a Vedic student shall not be charioteers. <span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 10\. Having driven a moment beyond (the point to which he intends to go) he should murmur, ‘Here is rest, rest here’ (Vâ_g_. Sa<i>m</i>h. VIII, 51).
 
@@ -563,7 +563,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 3\. He then mounts it with (the words), 'With Indra's thunder-bolt I bestride thee. Make me arrive safely.’
 
-4\. Thereby it has also been declared how he should mount a horse. <span id="p366">[<sup><small>p. 366</small></sup>]</span>
+4\. Thereby it has also been declared how he should mount a horse. <span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 5\. When he is going to mount a camel, he addresses it: ‘Thou art the son of Tvash<i>t</i>_ri_; Tvash<i>t</i>_ri_ is thy deity. Make me arrive safely.’
 
@@ -585,7 +585,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 14\. A burial-ground he addresses: ‘Adoration to Rudra who dwells among the Fathers. Make me arrive safely.’
 
-15\. A cow-stable he addresses: ‘Adoration to Rudra who dwells among the dung-heaps. Make me arrive safely.’ <span id="p367">[<sup><small>p. 367</small></sup>]</span>
+15\. A cow-stable he addresses: ‘Adoration to Rudra who dwells among the dung-heaps. Make me arrive safely.’ <span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 16\. And wheresoever else it be, let him always say, ‘Adoration to Rudra.’ For the <i>S</i>ruti says, ‘Rudra is this universe.’
 
@@ -599,7 +599,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 21\. A tree that serves as a mark (of a boundary, &c.), he addresses: ‘May neither the flash of lightning (destroy thee), nor axe nor wind nor punishment which the king sends. May thy shoots grow up; may rain fall on thee, in safety from the wind. May fire not destroy thy root. Blessing on thee, O lord of the forest! Blessing on me, O lord of the forest!’
 
-22\. If he receives something (given to him), he accepts it with (the formula), ‘May Heaven give thee; may the Earth accept thee.’ Thus (the thing given) does not decrease to him who gives it, and what he receives increases. <span id="p368">[<sup><small>p. 368</small></sup>]</span>
+22\. If he receives something (given to him), he accepts it with (the formula), ‘May Heaven give thee; may the Earth accept thee.’ Thus (the thing given) does not decrease to him who gives it, and what he receives increases. <span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 23\. If boiled rice is given to him, he accepts it with (the formula), ‘May Heaven, &c.,’ and he partakes thereof twice. with (the formulas), ‘May Brahman eat thee!’—‘May Brahman partake of thee!’
 

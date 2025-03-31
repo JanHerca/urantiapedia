@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 <figure id="Figure_29600" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/29600.jpg">
@@ -60,7 +60,7 @@ Nejim casts a glance to the other bank. He sees tents richly adorned; numerous f
 
 When night had covered with its shadows the two banks of the Euphrates—
 
-“Let us quit this place,” says the blind Jezar to his slave; "the voices which I hear from the other side seem to me too far off for the range of my arrows. Bring me nearer the edge: <span id="p298">[<sup><small>p. 298</small></sup>]</span> my heart tells me that a glorious stroke is about to immortalise my name and my revenge!”
+“Let us quit this place,” says the blind Jezar to his slave; "the voices which I hear from the other side seem to me too far off for the range of my arrows. Bring me nearer the edge: <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> my heart tells me that a glorious stroke is about to immortalise my name and my revenge!”
 
 Nejim takes the blind man by the hand; brings him close to the water; makes him sit upon the bank opposite the tent of Antar, and gives him his bow and quiver. Jezar chooses the keenest of his arrows, places it upon the string, and with listening ear awaits the hour of vengeance.
 
@@ -74,7 +74,7 @@ Scarcely does his resounding voice echo in the hollow bed of the valley of the E
 
 At that voice, which makes him think that his arrow has missed its mark, the blind Jezar, struck by terror at the thought of the vengeance of Antar, swoons upon the bank, and his slave, thinking him dead, flies upon his camel, leaving his inanimate master where he lay. Antar's brother swims across the river, stumbles against a body which he takes for a corpse, and bears it upon his shoulders, with the bow and arrows, to the camp.
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 ## III.
 
@@ -106,7 +106,7 @@ Already they are turning the rein, when an old sheikh, more reflective and more 
 
 “My cousins, that is indeed the spear of Antar, that is indeed his helmet, his armour, and his courser, whose colour resembles a dark night;—but that is neither his lofty figure nor his manly bearing. It is the figure and the deportment of a timid woman, borne down by the weight of the iron which galls her frail limbs. Believe my surmises—Antar is dead, or else a mortal illness hinders him from mounting his horse; and this false warrior whom Abjer bears is Abla, who, to frighten us, has clad herself with her husband's arms, whilst the real Antar is perchance laid dying in the women's litter.”
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 The horsemen, recognising something probable in the old man's words, retrace their steps and follow at a distance the caravan, without daring to attack it.
 
@@ -126,7 +126,7 @@ Only a small number, still trusting the voice of the old sheikh, continue to fol
 
 Antar, spite of his weakness, places Abla in the litter, and mounted upon Abjer, clad in his arms, he marches slowly beside her.
 
-At the close of the day, they reach a valley not far front the tribe of Abs. This place was called the “Valley of <span id="p302">[<sup><small>p. 302</small></sup>]</span> Gazelles.” Surrounded by inaccessible mountains, one could only enter it from the desert side by a narrow and tortuous pass, where three horsemen could scarcely march abreast. Antar, stopping at the opening of this defile, causes first to enter his flocks, his slaves, and the camel which bears the litter of his dear Abla. When the whole caravan is in safety in the valley, he comes back, to stand alone as sentinel at the end of the gorge, opposite the plain and the Arabs who are following him afar. At this moment his agonies increase; his entrails are torn; each step of his courser makes him suffer torments like to the fire of hell. Death invades his limbs, and yet reveres his dauntless soul. He faces the Arabs; he stops Abjer; he plants the point of his spear in the ground, and leaning against the stem, like a resting warrior allowing his horse to breathe, he stands motionless at the entrance of the pass.
+At the close of the day, they reach a valley not far front the tribe of Abs. This place was called the “Valley of <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> Gazelles.” Surrounded by inaccessible mountains, one could only enter it from the desert side by a narrow and tortuous pass, where three horsemen could scarcely march abreast. Antar, stopping at the opening of this defile, causes first to enter his flocks, his slaves, and the camel which bears the litter of his dear Abla. When the whole caravan is in safety in the valley, he comes back, to stand alone as sentinel at the end of the gorge, opposite the plain and the Arabs who are following him afar. At this moment his agonies increase; his entrails are torn; each step of his courser makes him suffer torments like to the fire of hell. Death invades his limbs, and yet reveres his dauntless soul. He faces the Arabs; he stops Abjer; he plants the point of his spear in the ground, and leaning against the stem, like a resting warrior allowing his horse to breathe, he stands motionless at the entrance of the pass.
 
 ## VII.
 

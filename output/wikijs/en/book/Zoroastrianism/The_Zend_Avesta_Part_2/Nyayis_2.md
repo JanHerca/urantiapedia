@@ -48,7 +48,7 @@ May this prayer come unto Ahura Mazda! May it come unto the Amesha-Spe<i>n</i>ta
 
 May I grow in health of body through Vohu-Manô, Khshathra, and Asha, and come to that luminous space, to that highest of all high things, when the world, O Spe<i>n</i>ta Mainyu, has come to an end!
 
-6 [^1520]. We sacrifice unto Mithra, the lord of wide pastures, who is truth-speaking, a chief in assemblies, with a thousand ears, well-shapen, with ten thousand <span id="p354">[<sup><small>p. 354</small></sup>]</span> eyes, high, with full knowledge, strong, sleepless, and ever awake.
+6 [^1520]. We sacrifice unto Mithra, the lord of wide pastures, who is truth-speaking, a chief in assemblies, with a thousand ears, well-shapen, with ten thousand <span id="p354"><sup><small>[ p. 354 ]</small></sup></span> eyes, high, with full knowledge, strong, sleepless, and ever awake.
 
 7\. We sacrifice unto Mithra, the lord of all countries, whom Ahura Mazda made the most glorious of all the heavenly gods.
 
@@ -82,7 +82,7 @@ We sacrifice unto the Mithra behind countries.
 
 13 [^1524]. For his brightness and glory, I will offer unto him a sacrifice worth being heard . . . .
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 We offer up libations unto Mithra . . . .
 

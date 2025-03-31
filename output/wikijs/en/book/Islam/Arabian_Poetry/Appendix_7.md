@@ -84,7 +84,7 @@ Then like the wild fawn gazed from side to side.
 Her jet-black tresses down her shoulder strayed,
 Like clustering dates amid the palm-trees’ shade.—R. R.
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 v. 33. “Her hair, like bunches of dates clustering on the palm-tree”—a favourite [comparison](./errata.htm#1) of the old poets of Arabia; also that of a pretty girl's tresses to the branches of the vine: see verses from the Romance of Antar, [p. 191](./Antar_3#p191) of the present volume.
 

@@ -44,7 +44,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 ## On Certain Points in the Eighteen.
 
-25\. The Eighteen Benedictions which the Majority have ordered, correspond to the eighteen times that the LORD is mentioned in the Psalm beginning “_Give to the LORD, O ye sons of the mighty_.” [^269] One combines \[the Benediction about\] the _Minim_ [^270] with <span id="p43">[<sup><small>p. 43</small></sup>]</span> that about the Pharisees, [1](Berakoth_3_6#fn_271) and that about the Proselytes with that about the Elders, [2](Berakoth_3_6#fn_272) and that about David with that about Jerusalem. [3](Berakoth_3_6#fn_273) If men have said each of these by themselves, their obligation is fulfilled. [^271]
+25\. The Eighteen Benedictions which the Majority have ordered, correspond to the eighteen times that the LORD is mentioned in the Psalm beginning “_Give to the LORD, O ye sons of the mighty_.” [^269] One combines \[the Benediction about\] the _Minim_ [^270] with <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> that about the Pharisees, [1](Berakoth_3_6#fn_271) and that about the Proselytes with that about the Elders, [2](Berakoth_3_6#fn_272) and that about David with that about Jerusalem. [3](Berakoth_3_6#fn_273) If men have said each of these by themselves, their obligation is fulfilled. [^271]
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 1\. At first every one who wished to (cleanse) the altar, cleansed it. When they were many, they ran and mounted the ascent, and each one, who at the middle outstripped his companion by four cubits, won _it_. If two were equal the president said to them, “lift your fingers.” [^198] “And what is that?” “They lifted one or two fingers, but no one lifted the thumb in the Sanctuary.”
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 4\. The third lot [^199] was for new men who came to offer incense, and they cast the lots. The fourth lot was for new men with the old, who should carry the members from the ascent to the altar.
 
-5\. The daily offering was with nine, ten, eleven, twelve, priests; not less and not more. “How?” “Itself with nine: <span id="p122">[<sup><small>p. 122</small></sup>]</span> at the feast of Tabernacles in the hand of one, a glass of water there is ten. The evening offering with eleven, itself with nine, and in the hands of two, two faggots of wood. On Sabbath, eleven; itself with nine, and two, in their hands two fragments of incense of the shewbread. And on the Sabbath in the feast of Tabernacles in the hand of one a glass of water.”
+5\. The daily offering was with nine, ten, eleven, twelve, priests; not less and not more. “How?” “Itself with nine: <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> at the feast of Tabernacles in the hand of one, a glass of water there is ten. The evening offering with eleven, itself with nine, and in the hands of two, two faggots of wood. On Sabbath, eleven; itself with nine, and two, in their hands two fragments of incense of the shewbread. And on the Sabbath in the feast of Tabernacles in the hand of one a glass of water.”
 
 6\. The ram was offered with eleven; the flesh with five, the inner part, and the fine flour and the wine, to each two and two.
 

@@ -32,13 +32,13 @@ dateCreated: 2025-2-12T12:11:52Z
   </table>
 </figure>
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 THE Tao which can be expressed in words is not the eternal Tao; the name which can be uttered is not its eternal name. Without a name, it is the Beginning of Heaven and Earth; with a name, it is the Mother of all things. Only one who is eternally free from earthly passions can apprehend its spiritual essence; he who is ever clogged by passions can see no more than its outer form. These two things, the spiritual and the material, though we call them by different names, in their origin are one and the same. This sameness is a mystery,—the mystery of mysteries. It is the gate of all spirituality.
 
 How unfathomable is Tao! It seems to be the ancestral progenitor of all things. How pure and clear is Tao! It would seem to be everlasting. I know not of whom it is the offspring. It appears to have been anterior to any Sovereign Power. [^1]
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 Tao eludes the sense of sight, and is therefore called colourless. It eludes the sense of hearing, and is therefore called soundless. It eludes the sense of touch, and is therefore called incorporeal. These three qualities cannot be apprehended, and hence they may be blended into unity.
 
@@ -50,7 +50,7 @@ Tao in itself is vague, impalpable,—how impalpable, how vague! Yet within it t
 
 From of old until now, its name has never passed away. It watches over the beginning of all things. How do I know this about the beginning of things? Through Tao.
 
-There is something, chaotic yet complete, which existed before Heaven and Earth. Oh, how still it is, and formless, standing alone without changing, reaching everywhere without suffering harm! It must be regarded as the Mother of the Universe. Its name I know not. To designate it, I call it Tao. Endeavouring to describe it, I call it Great. <span id="p21">[<sup><small>p. 21</small></sup>]</span> Being great, it passes on; passing on, it becomes remote; having become remote, it returns.
+There is something, chaotic yet complete, which existed before Heaven and Earth. Oh, how still it is, and formless, standing alone without changing, reaching everywhere without suffering harm! It must be regarded as the Mother of the Universe. Its name I know not. To designate it, I call it Tao. Endeavouring to describe it, I call it Great. <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> Being great, it passes on; passing on, it becomes remote; having become remote, it returns.
 
 Therefore Tao is great; Heaven is great; Earth is great; and the Sovereign also is great. In the Universe there are four powers, of which the Sovereign is one. Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from Tao; but the law of Tao is its own spontaneity.
 
@@ -64,7 +64,7 @@ All-pervading is the Great Tao. It can be at once on the right hand and on the l
 
 The whole world will flock to him who holds the mighty form of Tao. They will come and receive no hurt, but find rest, peace, and tranquillity.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 With music and dainties we may detain the passing guest. But if we open our mouths to speak of Tao, he finds it tasteless and insipid.
 
@@ -86,7 +86,7 @@ Hence there is not a single thing but pays homage to Tao and extols its Virtue. 
 
 Thus it is that Tao, engendering all things, nourishes them, develops them, and fosters them; perfects them, ripens them, tends them, and protects them.
 
-Production without possession, action without <span id="p23">[<sup><small>p. 23</small></sup>]</span> self-assertion, development without domination this is its mysterious operation.
+Production without possession, action without <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> self-assertion, development without domination this is its mysterious operation.
 
 The World has a First Cause, which may be regarded as the Mother of the World. When one has the Mother, one can know the Child. He who knows the Child and still keeps the Mother, though his body perish, shall run no risk of harm.
 

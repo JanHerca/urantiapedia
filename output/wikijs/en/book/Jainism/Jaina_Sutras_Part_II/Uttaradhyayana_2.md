@@ -36,7 +36,7 @@ SECOND LECTURE. ON TROUBLES [^72].
 
 O long-lived (<i>G</i>ambûsvâmin)! I (Sudharman) have heard the following Discourse [^73] from the Venerable (Mahâvîra):
 
-Here [^74], forsooth, the Venerable Ascetic Mahâvîra of the Kâ<i>s</i>yapa Gôtra has declared twenty-two troubles which a monk must learn and know, bear and conquer, in order not to be vanquished by them when he lives the life of a wandering mendicant. <span id="p9">[<sup><small>p. 9</small></sup>]</span> These, then, are the twenty-two troubles declared by the Venerable Ascetic Mahâvîra, which a monk must learn and know, bear and conquer, in order not to be vanquished by them when he lives the life of a wandering mendicant:
+Here [^74], forsooth, the Venerable Ascetic Mahâvîra of the Kâ<i>s</i>yapa Gôtra has declared twenty-two troubles which a monk must learn and know, bear and conquer, in order not to be vanquished by them when he lives the life of a wandering mendicant. <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> These, then, are the twenty-two troubles declared by the Venerable Ascetic Mahâvîra, which a monk must learn and know, bear and conquer, in order not to be vanquished by them when he lives the life of a wandering mendicant:
 
 1\. diga<i>ñ</i><i>kh</i>â (<i>g</i>ugupsâ)-parîsahâ, hunger;
 
@@ -82,7 +82,7 @@ Here [^74], forsooth, the Venerable Ascetic Mahâvîra of the Kâ<i>s</i>yapa G�
 
 22\. sammatta (samyaktva)-p., righteousness.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[^77]The enumeration of the troubles has been delivered by the Kâ<i>s</i>yapa [^78], I shall explain them to you in due order. Listen to me. (1)
 
@@ -96,7 +96,7 @@ Wandering about on deserted ways, in pain, thirsty, with dry throat, and distres
 
 3\. If a restrained, austere ascetic occasionally suffers from cold on his wanderings, he should not walk beyond the (prescribed) time, remembering the teaching of the <i>G</i>ina. (6)
 
-‘I have no shelter and nothing to cover my skin, therefore I shall make a fire to warm myself;’ such a thought should not be entertained by a monk. (7) <span id="p11">[<sup><small>p. 11</small></sup>]</span> 4\. If he suffers from the heat of hot things, or from the heat of his body, or from the heat of summer, he should not lament the loss of comfort. (8)
+‘I have no shelter and nothing to cover my skin, therefore I shall make a fire to warm myself;’ such a thought should not be entertained by a monk. (7) <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> 4\. If he suffers from the heat of hot things, or from the heat of his body, or from the heat of summer, he should not lament the loss of comfort. (8)
 
 A wise man, suffering from heat, should not long for a bath, or pour water over his body, or fan himself. (9)
 
@@ -114,7 +114,7 @@ A sage should turn away from this discontent; he should wander about free from s
 
 8\. In this world men have a natural liking for women; he who knows (and renounces) them, will easily perform his duties as a <i>S</i>rama<i>n</i>a. (16)
 
-A wise man who knows that women are a slough, as it were, will get no harm from them, but will wander about searching for the Self. (17) <span id="p12">[<sup><small>p. 12</small></sup>]</span> 9\. Alone, living on allowed food [^80], he should wander about, bearing all troubles, in a village or a town or a market-place or a capital. (18)
+A wise man who knows that women are a slough, as it were, will get no harm from them, but will wander about searching for the Self. (17) <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> 9\. Alone, living on allowed food [^80], he should wander about, bearing all troubles, in a village or a town or a market-place or a capital. (18)
 
 Different (from other men) a monk should wander about, he should acquire no property; but not being attached to householders, he should live without a fixed residence. (19)
 
@@ -132,7 +132,7 @@ If a monk hears bad words, cruel and rankling ones, he should silently overlook 
 
 13\. A monk should not be angry if beaten, nor should he therefore entertain sinful thoughts; knowing patience to be the highest good, a monk should meditate on the Law. (26)
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 If somebody strikes a restrained, resigned <i>S</i>rama<i>n</i>a somewhere, he should think: ‘I have not lost my life.’ (27)
 
@@ -154,7 +154,7 @@ In the sun his pain will grow insupportable; still a monk, though hurt by the gr
 
 18\. When by the heat of summer his body sweats and is covered with dirt and dust, a wise monk should not lament his loss of comfort. (36)
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 He should bear (all this), waiting for the destruction of his Karman [^85], (and practising) the noble, excellent Law; he should carry the filth on his body till he expires. (37)
 
@@ -174,7 +174,7 @@ Not resentful, having few wants, begging from strangers, and not being dainty, a
 
 A monk should not think: ‘Those lied who said that there were, are, and will be <i>G</i>inas.’ (45)
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 All these troubles have been declared by the Kâ<i>s</i>yapa. A monk should not be vanquished by them, when attacked by any anywhere.
 

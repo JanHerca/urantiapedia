@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 ## XI. The Lion's Hunt, in Company.
 
@@ -59,7 +59,7 @@ A dog has sometimes charge of palace-yard below.
 The company, then, set out for the woods amain,
 <sup id="v10"><small>10</small></sup>  As followers of the lion's majesty, and train.
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 A mountain-ox, an ibex, next a hare, they took;
 Since fortune smiled on them in each succeeding nook.
@@ -96,7 +96,7 @@ And if I spare you, justice will be clean reversed.
 To rid the world of scandal, I must end your lives;
 Your story shall a moral point; whoe’er contrives.”
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 With this he smiled again most grimly on the pair.
 Trust not a lion's smile, all ye to live who care.
@@ -131,7 +131,7 @@ Thyself thou shouldst have vanquished in my presence dread.
 “All perisheth, except His counsel” ’s holy writ.[^333]
 If we're not of “His counsel,” life cannot us fit.
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 He that will lose his life for God's sake, hath it still;
 “All perisheth” hath then no power his soul to kill.
@@ -163,7 +163,7 @@ My cot's too small for two selves to find room therein.
 The thread's not double in a needle's single eye.
 As thou’rt now single, enter. Room thou’lt find. Pray, try!”
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 The thread and needle have relation, each to each;
 <sup id="v55"><small>55</small></sup>  For needle's eye a camel's far beyond all reach.
@@ -196,7 +196,7 @@ Our host invites his guest to enter, free from scorn:
 Our thread is single,—free from knots and tangle; done,
 As ‘Be,’ though duplex as to form, in sense is one.”
 
-<span id="p223">[<sup><small>p. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 That “Be” ’s a rope, of power collective, to the end
 That nullity may be united to a friend.
@@ -230,7 +230,7 @@ As through elysium, streams;—flowers springing aye, anon.
 O Lord! Do Thou vouchsafe to my weak, erring soul
 To see the realm where, voiceless, spirit thoughts may stroll,
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 That so my mind, in glee, on foot or head, may wing
 Its flight to the far bourn that parts from nothing, thing,
@@ -265,7 +265,7 @@ To serve as stop-gap in the interval of munch.
 The hare a light repast will furnish ere you sleep;
 The royal paunch from indigestion's pains ’twill keep.”
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 The lion answered: “Well said, fox. Thou’rt justice’ self.
 Who taught thee with such judgment rare to portion pelf?
@@ -299,7 +299,7 @@ Then let us, as the fox, glean wisdom from those lays.
 The bones, the skeletons of all those old-world wolves,
 Consider well, ye readers;—think upon yourselves.
 
-<span id="p226">[<sup><small>p. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 Who's wise will from his heart cast out all fond conceits
 Of greatness, when he hears of ‘Ād's[^336] and Pharaoh's feats.
@@ -333,7 +333,7 @@ A madman must he be who'd rush in lion's maw.
 O that the stroke had fallen upon the body frail;
 <sup id="v125"><small>125</small></sup>  And that the heart and faith had ’scaped! ’Twere vast avail!
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 Upon this point I feel my strength must all give way.
 How shall I tell the secrets of this mystic play?

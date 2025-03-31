@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:2:15Z
   </table>
 </figure>
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 ## PART III. THE BOOKS OF HSIÂ. BOOK I. THE TRIBUTE OF YÜ.
 
@@ -42,7 +42,7 @@ It has been repeatedly said in the Introduction that the Tribute of Yü describe
 
 Altogether the Books of Hsiâ are properly no more than three;—a fact which shows that in so early a period the duty of the recorder was little exercised, or that the destruction of its monuments in the course of time was nearly complete. We may assume that it was in consequence of both of these things that, when the collection of the Shû was made, only three documents of Hsiâ were found, to go into it.
 
-The word ‘Tribute’ in the name of this first Book is not to be understood only in the sense of a contribution paid by one nation to another in acknowledgment of subjection, but also as the contribution of revenue paid by subjects to their proper ruler. The term, moreover, gives a very inadequate idea of the contents, which describe generally the labours of Yü in remedying the disasters occasioned by the inundation with which he had to cope, and how he then defined the boundaries of the different provinces, made other important territorial divisions, and determined the quality of the soil in each province, and the proportion of revenue it should pay, with other particulars. The Book, if we could fully credit it, would be a sort of domesday book of China in the twenty-third century <span id="p64">[<sup><small>p. 64</small></sup>]</span> B.C., in the compass of a few pages. In the classification of the Books of the Shû according to their subject-matter, this is rightly considered as a Canon. The first section of it is divided into one short introductory chapter, and nine others, each containing the account of one province.
+The word ‘Tribute’ in the name of this first Book is not to be understood only in the sense of a contribution paid by one nation to another in acknowledgment of subjection, but also as the contribution of revenue paid by subjects to their proper ruler. The term, moreover, gives a very inadequate idea of the contents, which describe generally the labours of Yü in remedying the disasters occasioned by the inundation with which he had to cope, and how he then defined the boundaries of the different provinces, made other important territorial divisions, and determined the quality of the soil in each province, and the proportion of revenue it should pay, with other particulars. The Book, if we could fully credit it, would be a sort of domesday book of China in the twenty-third century <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> B.C., in the compass of a few pages. In the classification of the Books of the Shû according to their subject-matter, this is rightly considered as a Canon. The first section of it is divided into one short introductory chapter, and nine others, each containing the account of one province.
 
 ## Section 1.
 
@@ -52,7 +52,7 @@ The word ‘Tribute’ in the name of this first Book is not to be understood on
 
 The soil of this province was whitish and mellow. Its contribution of revenue was the highest of the highest class, with some proportion of the second. Its fields were the average of the middle class.
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 The (waters of the) Hăng and Wei were brought to their proper channels, and Tâ-lü was made capable of cultivation.
 
@@ -68,7 +68,7 @@ They floated along the <i>K</i>î and Thâ, and so reached the Ho.
 
 4\. The sea and (mount) Tâi were the boundaries of <i>Kh</i>ing <i>K</i>âu [^78].
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 (The territory of) Yü-î was defined; and the Wei and Ȝze were made to keep their (old) channels.
 
@@ -78,7 +78,7 @@ They floated along the Wăn, and so reached the <i>K</i>î.
 
 5\. The sea, mount Tâi, and the Hwâi were (the boundaries of) Hsü <i>K</i>âu [^79].
 
-The Hwâi and the Î (rivers) were regulated. The (hills) Mang and Yü were made fit for cultivation. (The waters of) Tâ-yeh were confined (so as to form <span id="p67">[<sup><small>p. 67</small></sup>]</span> a marsh); and (the tract of) Tung-yüan was successfully brought under management.
+The Hwâi and the Î (rivers) were regulated. The (hills) Mang and Yü were made fit for cultivation. (The waters of) Tâ-yeh were confined (so as to form <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> a marsh); and (the tract of) Tung-yüan was successfully brought under management.
 
 The soil of this province was red, clayey, and rich. Its grass and trees grew more and more bushy. Its fields were the second of the highest class; its contribution of revenue was the average of the second. Its articles of tribute were—earth of five different colours, variegated pheasants from the valleys of mount Yü, the solitary dryandra from the south of mount Yî, and the sounding-stones that (seemed to) float on the (banks of the) Sze. The wild tribes about the Hwâi brought oyster-pearls and fish, and their baskets full of deep azure and other silken fabrics, chequered and pure white.
 
@@ -86,7 +86,7 @@ They floated along the Hwâi and the Sze, and so reached the Ho.
 
 6\. The Hwâi and the sea formed (the boundaries of) Yang <i>K</i>âu [^80].
 
-The (lake of) Phăng-lî was confined to its proper limits, and the sun-birds (= the wild geese) had places <span id="p68">[<sup><small>p. 68</small></sup>]</span> to settle on. The three <i>K</i>iang were led to enter the sea, and it became possible to still the marsh of <i>K</i>ăn. The bamboos, small and large, then spread about; the grass grew thin and long, and the trees rose high; the soil was miry.
+The (lake of) Phăng-lî was confined to its proper limits, and the sun-birds (= the wild geese) had places <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> to settle on. The three <i>K</i>iang were led to enter the sea, and it became possible to still the marsh of <i>K</i>ăn. The bamboos, small and large, then spread about; the grass grew thin and long, and the trees rose high; the soil was miry.
 
 The fields of this province were the lowest of the lowest class; its contribution of revenue was the highest of the lowest class, with a proportion of the class above. Its articles of tribute were gold, silver, and copper; yâo and khwăn stones; bamboos, small and large; (elephants') teeth, hides, feathers, hair, and timber. The wild people of the islands brought garments of grass, with silks woven in shell-patterns in their baskets. Their bundles contained small oranges and pummeloes,—rendered when specially required.
 
@@ -94,7 +94,7 @@ They followed the course of the <i>K</i>iang and the sea, and so reached the Hw�
 
 7\. (Mount) <i>K</i>ing and the south of (mount) Hăng formed (the boundaries of) <i>K</i>ing <i>K</i>âu [^81].
 
-The <i>K</i>iang and the Han pursued their (common) course to the sea, as if they were hastening to court. The nine <i>K</i>iang were brought into complete order. The Tho and <i>Kh</i>ien (streams) were conducted by <span id="p69">[<sup><small>p. 69</small></sup>]</span> their proper channels. The land in (the marsh of) Yün (became visible), and (the marsh of) Măng was made capable of cultivation.
+The <i>K</i>iang and the Han pursued their (common) course to the sea, as if they were hastening to court. The nine <i>K</i>iang were brought into complete order. The Tho and <i>Kh</i>ien (streams) were conducted by <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> their proper channels. The land in (the marsh of) Yün (became visible), and (the marsh of) Măng was made capable of cultivation.
 
 The soil of this province was miry. Its fields were the average of the middle class; and its contribution of revenue was the lowest of the highest class. Its articles of tribute were feathers, hair, (elephants') teeth, and hides; gold, silver, and copper; _kh_un trees, wood for bows, cedars, and cypresses; grindstones, whetstones, flint stones to make arrow-heads, and cinnabar; and the _kh_ün and lû bamboos, with the hû tree, (all good for making arrows)—of which the Three Regions were able to contribute the best specimens. The three-ribbed-rush was sent in bundles, put into cases. The baskets were filled with silken fabrics, azure and deep purple, and with strings of pearls that were not quite round. From the (country of the) nine <i>K</i>iang, the great tortoise was presented when specially required (and found).
 
@@ -102,7 +102,7 @@ They floated down the <i>K</i>iang, the Tho, the <i>Kh</i>ien, and the Han, and 
 
 8\. The <i>K</i>ing (mountain) and the Ho were (the boundaries of) Yü <i>K</i>âu [^82].
 
-The Î, the Lo, the <i>Kh</i>an, and the <i>K</i>ien were conducted to the Ho. The (marsh of) Yung-po was <span id="p70">[<sup><small>p. 70</small></sup>]</span> confined within its proper limits. The (waters of that of) Ko were led to (the marsh of) Mang-_k_û.
+The Î, the Lo, the <i>Kh</i>an, and the <i>K</i>ien were conducted to the Ho. The (marsh of) Yung-po was <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> confined within its proper limits. The (waters of that of) Ko were led to (the marsh of) Mang-_k_û.
 
 The soil of this province was mellow; in the lower parts it was (in some places) rich, and (in others) dark and thin. Its fields were the highest of the middle class; and its contribution of revenue was the average of the highest class, with a proportion of the very highest. Its articles of tribute were varnish, hemp, fine cloth of dolichos fibre, and the bœhmerea. The baskets were full of chequered silks, and of fine floss silk. Stones for polishing sounding-stones were rendered when required.
 
@@ -112,7 +112,7 @@ They floated along the Lo, and so reached the Ho.
 
 The (hills) Min and Po were made capable of cultivation. The Tho and <i>Kh</i>ien streams were conducted by their proper channels. Sacrifices were offered to (the hills) Ȝhâi and Mâng on the regulation (of the country about them).\* (The country of) the wild tribes about the Ho was successfully operated on.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 The soil of this province was greenish and light. Its fields were the highest of the lowest class; and its contribution of revenue was the average of the lowest class, with proportions of the rates immediately above and below. Its articles of tribute, were—the best gold, iron, silver, steel, flint stones to make arrow-heads, and sounding-stones; with the skins of bears, foxes, and jackals, and (nets) woven of their hair.
 
@@ -124,7 +124,7 @@ The Weak-water was conducted westwards. The King was led to mingle its waters wi
 
 (The mountains) <i>K</i>ing and <i>Kh</i>î were sacrificed to.\* (Those of) <i>K</i>ung-nan and <i>Kh</i>un-wû (were also regulated), and (all the way) on to Niâo-shû. Successful measures could now be taken with the plains and swamps, even to (the marsh of) <i>K</i>û-yeh. (The country of) San-wei was made habitable, and the (affairs of the) people of San-miâo were greatly arranged.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 The soil of the province was yellow and mellow. Its fields were the highest of the highest class, and its contribution of revenue the lowest of the second. Its articles of tribute were the _kh_iû jade and the lin, and (the stones called) lang-kan.
 
@@ -138,7 +138,7 @@ The division of the Book into two sections is a convenient arrangement, but mode
 
 1\. (Yü) surveyed and described (the hills), beginning with <i>Kh</i>ien and <i>Kh</i>î, and proceeding to mount <i>K</i>ing; then, crossing the Ho, Hû-khâu, and Leî-shâu, going on to Thâi-yo. (After these came) Tî-_k_û and Hsî-khăng, from which he went on to Wang-wû; (then there were) Thâi-hang and Mount Hăng, from which he proceeded to the rocks of <i>K</i>ieh, where he reached the sea.
 
-(South of the Ho, he surveyed) Hsî-_kh_ing, <i>K</i>û-yü, <span id="p73">[<sup><small>p. 73</small></sup>]</span> and Niâo-shû, going on to Thâi-hwâ; (then) Hsiung-_R_, Wâi-fang, and Thung-pâi, from which he proceeded to Pei-wei.
+(South of the Ho, he surveyed) Hsî-_kh_ing, <i>K</i>û-yü, <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> and Niâo-shû, going on to Thâi-hwâ; (then) Hsiung-_R_, Wâi-fang, and Thung-pâi, from which he proceeded to Pei-wei.
 
 He surveyed and described Po-_kh_ung, going on to (the other) mount <i>K</i>ing; and Nêi-fang, from which he went on to Tâ-pieh.
 
@@ -152,7 +152,7 @@ He traced the Ho from <i>K</i>î-shih as far as Lung-măn; and thence, southward
 
 From Po-_kh_ung he traced the Yang, which, flowing eastwards, became the Han. Farther east it became the water of Ȝhang-lang; and after passing the three Dykes, it went on to Tâ-pieh, southwards from which it entered the <i>K</i>iang. Eastward still, and whirling on, it formed the marsh of Phăng-lî; and from that its eastern flow was the northern <i>K</i>iang, as which it entered the sea.
 
-From mount Min he traced the <i>K</i>iang, which, branching off to the east, formed the Tho; eastward again, it reached the Lî, passed the nine <i>K</i>iang, and <span id="p74">[<sup><small>p. 74</small></sup>]</span> went on to Tung-ling; then flowing east, and winding to the north, it joined (the Han) with its eddying movements. From that its eastern flow was the middle <i>K</i>iang, as which it entered the sea.
+From mount Min he traced the <i>K</i>iang, which, branching off to the east, formed the Tho; eastward again, it reached the Lî, passed the nine <i>K</i>iang, and <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> went on to Tung-ling; then flowing east, and winding to the north, it joined (the Han) with its eddying movements. From that its eastern flow was the middle <i>K</i>iang, as which it entered the sea.
 
 He traced the Yen water, which, flowing eastward, became the <i>K</i>î, and entered the Ho. (Thereafter) it flowed out, and became the Yung (marsh). Eastward, it issued forth on the north of Thâo-_kh_iû, and flowed farther east to (the marsh of) Ko; then it went north-east, and united with the Wăn; thence it went north, and (finally) entered the sea on the east.
 
@@ -164,7 +164,7 @@ He traced the Lo from (the hill) Hsiung-_R_. Flowing to the north-east, it unite
 
 3\. (Thus), throughout the nine provinces a similar order was effected:—the grounds along the waters were everywhere made habitable; the hills were cleared of their superfluous wood and sacrificed to;\* the sources of the rivers were cleared; the marshes were well banked; and access to the capital was secured for all within the four seas.
 
-The six magazines (of material wealth) were fully attended to; the different parts of the country were subjected to an exact comparison, so that contribution <span id="p75">[<sup><small>p. 75</small></sup>]</span> of revenue could be carefully adjusted according to their resources. (The fields) were all classified with reference to the three characters of the soil; and the revenues for the Middle Region were established.
+The six magazines (of material wealth) were fully attended to; the different parts of the country were subjected to an exact comparison, so that contribution <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> of revenue could be carefully adjusted according to their resources. (The fields) were all classified with reference to the three characters of the soil; and the revenues for the Middle Region were established.
 
 4\. He conferred lands and surnames. (He said), 'Let me set the example of a reverent attention to my virtue, and none will act contrary to my conduct, Five hundred It formed the Domain of the Sovereign. From the first hundred they brought as revenue the whole plant of the grain; from the second, the cars, with a portion of the stalk; from the third, the straw, but the people had to perform various services; from the fourth, the grain in the husk; and from the fifth, the grain cleaned.
 
@@ -174,7 +174,7 @@ Five hundred lî (still beyond) formed the Peace-securing Domain. In the first t
 
 Five hundred lî (remoter still) formed the Domain of Restraint. The (first) three hundred were occupied by the tribes of the Î; the (other) two hundred, by criminals undergoing the lesser banishment.
 
-Five hundred lî (the most remote) constituted the Wild Domain. The (first) three hundred were <span id="p76">[<sup><small>p. 76</small></sup>]</span> occupied by the tribes of the Man; the (other) two hundred, by criminals undergoing the greater banishment.
+Five hundred lî (the most remote) constituted the Wild Domain. The (first) three hundred were <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> occupied by the tribes of the Man; the (other) two hundred, by criminals undergoing the greater banishment.
 
 5\. On the east, reaching to the sea; on the west, extending to the moving sands; to the utmost limits of the north and south:—his fame and influence filled up (all within) the four seas. Yü presented the dark-coloured symbol of his rank, and announced the completion of his work.
 

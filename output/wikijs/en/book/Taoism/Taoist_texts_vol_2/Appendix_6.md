@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:14:13Z
   </table>
 </figure>
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 ## BOOK I.
 
@@ -62,7 +62,7 @@ Par. 1. Nan-kwo Dze-khî in a trance, and his disciple. The notes of heaven, ear
 
 10\. The penumbra and the shadow. Kwang-dze's dream that he was a butterfly.
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 ## BOOK III.
 
@@ -100,7 +100,7 @@ Par. 1. Confucius explains the influence of the cripple Wang Thâi over the peop
 
 5\. The deformed favourites of duke Ling of Wei and duke Hwan of Khî. Argument between Kwang-dze and Hui-dze, growing out of the former's account of them.
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 ## BOOK VI.
 
@@ -136,7 +136,7 @@ Par. 1. Nieh Khüeh, Wang Î, and Phû-î-dze. That Shun was inferior in his Tâ
 
 ## BOOK VIII.
 
-Par. 4. How two shepherd slaves lose their sheep in <span id="p301">[<sup><small>p. 301</small></sup>]</span> different ways. The corresponding cases of the righteous Po-î and the robber Kih.
+Par. 4. How two shepherd slaves lose their sheep in <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> different ways. The corresponding cases of the righteous Po-î and the robber Kih.
 
 ## BOOK X.
 
@@ -166,7 +166,7 @@ Par. 4. The loss and recovery by Yâo of his dark-coloured Pearl;—the Tâo.
 
 7\. Yü and Po-khang Dze-kâo. The latter vindicates his resignation of dignity and taking to farming.
 
-9\. Confucius and Lâo-dze;—on the attitude to the Tâo of a great sage and ruler. <span id="p302">[<sup><small>p. 302</small></sup>]</span> 10\. Kiang-lü Mien and Ki Khêh;—on the counsel which the former had given to the ruler of Lû.
+9\. Confucius and Lâo-dze;—on the attitude to the Tâo of a great sage and ruler. <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> 10\. Kiang-lü Mien and Ki Khêh;—on the counsel which the former had given to the ruler of Lû.
 
 11\. Dze-kung and the old gardener;—argument of the latter in favour of the primitive simplicity, and remarks thereon by Confucius.
 
@@ -194,7 +194,7 @@ Par. 2. Tang, a minister of Shang, and Kwang-dze on the nature of Benevolence.
 
 5\. Confucius and Lâo-dze. The former has not yet got the Tâo, and Lâo-dze explains the reason.
 
-6\. Confucius and Lâo-dze. Confucius talks of Benevolence <span id="p303">[<sup><small>p. 303</small></sup>]</span> and Righteousness; and how the tables are turned on him. He is deeply impressed by the other.
+6\. Confucius and Lâo-dze. Confucius talks of Benevolence <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> and Righteousness; and how the tables are turned on him. He is deeply impressed by the other.
 
 7\. Dze-kung, in consequence of the Master's report of his interview, goes also to see Lâo-Sze; and is nonplussed and lectured by him.
 
@@ -226,7 +226,7 @@ Par. 2. Hui-dze and Kwang-dze;—vindication by the latter of his behaviour on t
 
 3\. Mr. Deformed and Mr. One-foot;—their submission under pain and in prospect of death.
 
-4\. Kwang-dze and the skull;—what he said to it, and its appearance to him at night in a dream. <span id="p304">[<sup><small>p. 304</small></sup>]</span> 5\. The sadness of Confucius on the departure of Yen Hui for Khî; and his defence of it to Dze-kung. The appearance of a strange bird in Lû, and his moralizings on it.
+4\. Kwang-dze and the skull;—what he said to it, and its appearance to him at night in a dream. <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 5\. The sadness of Confucius on the departure of Yen Hui for Khî; and his defence of it to Dze-kung. The appearance of a strange bird in Lû, and his moralizings on it.
 
 6\. Lieh-dze and the skull. The transmutations of things.
 
@@ -264,7 +264,7 @@ Par. 1. Kwang-dze and his disciples;—the great tree that was of no use, and th
 
 3\. Pei-kung Shê and prince Khing-kî;—how the former collected taxes and made a peal of bells.
 
-4\. How the Thâi-kung Zän condoled with Confucius on his distresses, and tried to convert him to Tâoism. <span id="p305">[<sup><small>p. 305</small></sup>]</span> 5\. Confucius and Dze-sang Hû. The Tâoistic effect of their conversation on the former. The dying charge of Shun to Yü.
+4\. How the Thâi-kung Zän condoled with Confucius on his distresses, and tried to convert him to Tâoism. <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> 5\. Confucius and Dze-sang Hû. The Tâoistic effect of their conversation on the former. The dying charge of Shun to Yü.
 
 6\. Kwang-dze in rags before the king of Wei. The apologue of the climbing monkey.
 
@@ -302,7 +302,7 @@ Par. 1. Knowledge, Dumb Inaction, Head-strong Stammerer, and Hwang-Tî on the T�
 
 3\. Nieh Khüeh questioning Phei-î about the Tâo.
 
-4\. Shun and his minister Khäng;—that man is not his own. <span id="p306">[<sup><small>p. 306</small></sup>]</span> 5\. Confucius and Lâo Tan;—on the Perfect Tâo.
+4\. Shun and his minister Khäng;—that man is not his own. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> 5\. Confucius and Lâo Tan;—on the Perfect Tâo.
 
 6\. Tung-kwo Dze's question to Kwang-dze about where the Tâo was to be found, and the reply.
 
@@ -342,7 +342,7 @@ Pars. 1, 2. Hsü Wû-kwei, Nü Shang, and the marquis Wû of Wei:—Hsü's disco
 
 9\. Nan-po Dze-khî and his attendant Yen Khäng-dze.
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 The trance is the highest result of the Tâo. Practical lesson to be drawn from it.
 
@@ -380,7 +380,7 @@ Par. 2. Against delaying to do good when it is in one's power to do it. The apol
 
 3\. The big fish caught by the son of the duke of Zän.
 
-4\. The Resurrectionist Students. <span id="p308">[<sup><small>p. 308</small></sup>]</span> 5\. How Lâo Lâi-dze admonished Confucius.
+4\. The Resurrectionist Students. <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> 5\. How Lâo Lâi-dze admonished Confucius.
 
 6\. The dream of the ruler Yüan of Sung about a tortoise.
 
@@ -416,7 +416,7 @@ Par. 1. Yâo's proffers of the throne to Hsü Yû and Dze-kâu Kih-fû. Shun's p
 
 7\. Prince Mâu of Kung-shan, living in retirement, was not far from the Tâo.
 
-8\. Confucius and the disciples Yen Hui, Dze-lû, and Dze-kung, during the perilous time between Khän and Zhâi. <span id="p309">[<sup><small>p. 309</small></sup>]</span> 9\. Shun and the northerner Wû-kâi who refuses the throne. Thang, and Pien Sui and Wû Kwang, who both refused it.
+8\. Confucius and the disciples Yen Hui, Dze-lû, and Dze-kung, during the perilous time between Khän and Zhâi. <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> 9\. Shun and the northerner Wû-kâi who refuses the throne. Thang, and Pien Sui and Wû Kwang, who both refused it.
 
 10\. The case of the brothers Po-î and Shû-khî, who refused the proffers of king Wû.
 
@@ -450,7 +450,7 @@ Par. 1. Lieh-dze and the effect of his over-manifestation of his attractive qual
 
 11\. Khâo-fû the Correct, and his humility.
 
-12\. Kwang-dze's rebuke of the man who boasted of having received chariots from the king of Sung, and comparison of him to the boy who stole a pearl from under the chin of the Black Dragon when he was asleep. <span id="p310">[<sup><small>p. 310</small></sup>]</span> 13\. Kwang-dze declines the offer of official dignity. The apologue of the sacrificial ox.
+12\. Kwang-dze's rebuke of the man who boasted of having received chariots from the king of Sung, and comparison of him to the boy who stole a pearl from under the chin of the Black Dragon when he was asleep. <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> 13\. Kwang-dze declines the offer of official dignity. The apologue of the sacrificial ox.
 
 14\. Kwang-dze, about to die, opposes the wish of his disciples to give him a grand burial. His own description of what his burial should be.
 

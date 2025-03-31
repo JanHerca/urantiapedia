@@ -42,7 +42,7 @@ IN this division we have thirty-one sacrificial odes of <i>K</i>âu, arranged in
 
 CELEBRATING THE REVERENTIAL MANNER IN WHICH A SACRIFICE TO KING WĂN WAS PERFORMED, AND FURTHER PRAISING HIM.
 
-Chinese critics agree in assigning this piece to the sacrifice mentioned in the Shû, in the end of the thirteenth Book of Part V, when, the building of Lo being finished, king <i>Kh</i>ăng came to <span id="p314">[<sup><small>p. 314</small></sup>]</span> the new city, and offered a red bull to Wăn, and the same to Wû. It seems to me to have been sung in honour of Wăn, after the service was completed. This determination of the occasion of the piece being accepted, we should refer it to B.C. 1108.
+Chinese critics agree in assigning this piece to the sacrifice mentioned in the Shû, in the end of the thirteenth Book of Part V, when, the building of Lo being finished, king <i>Kh</i>ăng came to <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> the new city, and offered a red bull to Wăn, and the same to Wû. It seems to me to have been sung in honour of Wăn, after the service was completed. This determination of the occasion of the piece being accepted, we should refer it to B.C. 1108.
 
 Oh! solemn is the ancestral temple in its pure stillness. Reverent and harmonious were the distinguished assistants [^345]; Great was the number of the officers [^346]:—(All) assiduous followers of the virtue of (king Wăn). In response to him in heaven, Grandly they hurried about in the temple. Distinguished is he and honoured, And will never be wearied of among men.
 
@@ -56,7 +56,7 @@ According to the Preface, there is an announcement here of the realization of co
 
 The ordinances of Heaven,—How deep are they and unintermitting! And oh! how illustrious Was the singleness of the virtue of king Wăn [^347]!
 
-How does he (now) show his kindness? We will receive it, Striving to be in accord with him, our} <span id="p315">[<sup><small>p. 315</small></sup>]</span> king Wăn; And may his remotest descendant be abundantly the same!
+How does he (now) show his kindness? We will receive it, Striving to be in accord with him, our} <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> king Wăn; And may his remotest descendant be abundantly the same!
 
 <a id="o13"></a>
 
@@ -78,7 +78,7 @@ The Preface says that this piece was made on the occasion of king <i>Kh</i>ăng'
 
 Ye, brilliant and accomplished princes, Have conferred on me this happiness. Your favours to me are without limit, And my descendants will preserve (the fruits of) them.
 
-Be not mercenary nor extravagant in your states, And the king will honour you. Thinking of this <span id="p316">[<sup><small>p. 316</small></sup>]</span> service, He will enlarge the dignity of your successors.
+Be not mercenary nor extravagant in your states, And the king will honour you. Thinking of this <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> service, He will enlarge the dignity of your successors.
 
 What is most powerful is the being the man:—Its influence will be felt throughout your states. What is most distinguished is the being virtuous:—It will secure the imitation of all the princes. Ah! the former kings cannot be forgotten!
 
@@ -100,7 +100,7 @@ APPROPRIATE TO A SACRIFICE TO KING <i>KH</i>ĂNG.
 
 Khăng was the honorary title of Sung, the son and successor of king Wû, B.C. 1115 to 1079.
 
-Heaven made its determinate appointment, which our two sovereigns received [^349]. King <i>Kh</i>ăng did not dare to rest idly in it, But night and day enlarged <span id="p317">[<sup><small>p. 317</small></sup>]</span> its foundations by his deep and silent virtue. How did he continue and glorify (his heritage), Exerting all his heart, And so securing its tranquillity!
+Heaven made its determinate appointment, which our two sovereigns received [^349]. King <i>Kh</i>ăng did not dare to rest idly in it, But night and day enlarged <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> its foundations by his deep and silent virtue. How did he continue and glorify (his heritage), Exerting all his heart, And so securing its tranquillity!
 
 <a id="o17"></a>
 
@@ -122,7 +122,7 @@ Do I not, night and day, Revere the majesty of Heaven, Thus to preserve (its fav
 
 APPROPRIATE TO KING WÛ'S SACRIFICING TO HEAVEN, AND TO THE SPIRITS OF THE HILLS AND RIVERS, ON A PROGRESS THROUGH THE KINGDOM, AFTER THE OVERTHROW OF THE SHANG DYNASTY.
 
-Here again there is an agreement among the critics. We find from the Ȝo <i>K</i>wan and ‘the Narratives of the States.’ that the <span id="p318">[<sup><small>p. 318</small></sup>]</span> piece was, when those compilations were made, considered to be the work of the duke of <i>K</i>âu; and, no doubt, it was made by him soon after the accession of Wû to the kingdom, and when he was making a royal progress in assertion of his being appointed by Heaven to succeed to the rulers of Shang. The ‘I’ in the fourteenth line is, most probably, to be taken of the duke of <i>K</i>âu, who may have recited the piece on occasion of the sacrifices, in the hearing of the assembled princes and lords.
+Here again there is an agreement among the critics. We find from the Ȝo <i>K</i>wan and ‘the Narratives of the States.’ that the <span id="p318"><sup><small>[ p. 318 ]</small></sup></span> piece was, when those compilations were made, considered to be the work of the duke of <i>K</i>âu; and, no doubt, it was made by him soon after the accession of Wû to the kingdom, and when he was making a royal progress in assertion of his being appointed by Heaven to succeed to the rulers of Shang. The ‘I’ in the fourteenth line is, most probably, to be taken of the duke of <i>K</i>âu, who may have recited the piece on occasion of the sacrifices, in the hearing of the assembled princes and lords.
 
 Now is he making a progress through his states; May Heaven deal with him as its son!
 
@@ -130,7 +130,7 @@ Truly are the honour and succession come from it to the House of <i>K</i>âu. To
 
 Brilliant and illustrious is the House of <i>K</i>âu. He has regulated the positions of the princes; He has called in shields and spears; He has returned to their cases bows and arrows [^352]. He will cultivate admirable virtue, And display it throughout these great regions. Truly will the king preserve the appointment.
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 <a id="o19"></a>
 
@@ -154,7 +154,7 @@ Blessing is sent down in large measure. Careful and exact is all our deportment;
 
 APPROPRIATE TO ONE OF THE BORDER SACRIFICES, WHEN HÂU-<i>K</i>Î WAS WORSHIPPED AS THE CORRELATE OF GOD, AND CELEBRATING HIM.
 
-Hâu-_k_î was the same as <i>Kh</i>î, who appears in Part II of the Shû as Minister of Agriculture to Yâo and Shun, and co-operating with <span id="p320">[<sup><small>p. 320</small></sup>]</span> Yü in his labours on the flooded land. The name Hâu belongs to him as lord of Thâi; that of <i>K</i>î, as Minister of Agriculture. However the combination arose, Hâu-_k_î became historically the name of <i>Kh</i>î of the time of Yâo and Shun, the ancestor to whom the kings of <i>K</i>âu traced their lineage. He was to the people the Father of Husbandry, who first taught men to plough and sow and reap. Hence, when the kings offered sacrifice and prayer to God at the commencement of spring for his blessing on the labours of the year, they associated Hâu-_k_î with him at the service.
+Hâu-_k_î was the same as <i>Kh</i>î, who appears in Part II of the Shû as Minister of Agriculture to Yâo and Shun, and co-operating with <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> Yü in his labours on the flooded land. The name Hâu belongs to him as lord of Thâi; that of <i>K</i>î, as Minister of Agriculture. However the combination arose, Hâu-_k_î became historically the name of <i>Kh</i>î of the time of Yâo and Shun, the ancestor to whom the kings of <i>K</i>âu traced their lineage. He was to the people the Father of Husbandry, who first taught men to plough and sow and reap. Hence, when the kings offered sacrifice and prayer to God at the commencement of spring for his blessing on the labours of the year, they associated Hâu-_k_î with him at the service.
 
 O accomplished Hâu-_k_î, Thou didst prove thyself the correlate of Heaven. Thou didst give grain-food to our multitudes:—The immense gift of thy goodness. Thou didst confer on us the wheat and the barley, Which God appointed for the nourishment of all. And without distinction of territory or boundary, The rules of social duty were diffused throughout these great regions.
 
@@ -171,7 +171,7 @@ The place of this piece among the sacrificial odes makes us assign it to the con
 
 Ah! ah! ministers and officers, Reverently attend to your public duties. The king has given you perfect rules;—Consult about them and consider them.
 
-Ah! ah! ye assistants, It is now the end of <span id="p321">[<sup><small>p. 321</small></sup>]</span> spring [^354]; And what have ye to seek for? (Only) how to manage the new fields and those of the third year, How beautiful are the wheat and the barley! The bright and glorious God Will in them give us a good year. Order all our men To be provided with their spuds and hoes:—Anon we shall see the sickles at work.
+Ah! ah! ye assistants, It is now the end of <span id="p321"><sup><small>[ p. 321 ]</small></sup></span> spring [^354]; And what have ye to seek for? (Only) how to manage the new fields and those of the third year, How beautiful are the wheat and the barley! The bright and glorious God Will in them give us a good year. Order all our men To be provided with their spuds and hoes:—Anon we shall see the sickles at work.
 
 <a id="o22"></a>
 
@@ -181,7 +181,7 @@ FURTHER INSTRUCTIONS TO THE OFFICERS OF HUSBANDRY.
 
 Again there is a difficulty in determining to what sacrifice this piece should be referred. The Preface says it was sung on the occasions of sacrifice by the king to God, in spring and summer, for a good year. But the note on the first two lines will show that this view cannot be accepted without modification.
 
-Oh! yes, king <i>Kh</i>ăng [^355] Brightly brought himself near [^355]. Lead your husbandmen To sow their various kinds of grain, Going vigorously to work <span id="p322">[<sup><small>p. 322</small></sup>]</span> on your private fields [^356], All over the thirty lî [^357]. Attend to your ploughing, With your ten thousand men all in pairs.
+Oh! yes, king <i>Kh</i>ăng [^355] Brightly brought himself near [^355]. Lead your husbandmen To sow their various kinds of grain, Going vigorously to work <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> on your private fields [^356], All over the thirty lî [^357]. Attend to your ploughing, With your ten thousand men all in pairs.
 
 <a id="o23"></a>
 
@@ -195,7 +195,7 @@ A flock of egrets is flying, About the marsh there in the west [^358]. My visito
 
 There, (in their states), not disliked, Here, (in <i>K</i>âu), never tired of;—They are sure, day and night, To perpetuate their fame.
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 <a id="o24"></a>
 
@@ -217,7 +217,7 @@ The critics agree in holding that this piece was made on occasion of the duke of
 
 There are the blind musicians; there are the blind musicians; In the court of (the temple of) <i>K</i>âu. [^359]
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 There are (the music-frames with their) face-boards and posts, The high toothed-edge (of the former), and the feathers stuck (in the latter); With the drums, large and small, suspended from them; And the hand-drums and sounding-stones, the instrument to give the signal for commencing, and the stopper. These being all complete, the music is struck up. The pan-pipe and the double flute begin at the same time [^360].
 
@@ -229,7 +229,7 @@ Harmoniously blend their sounds; In solemn unison they give forth their notes. O
 
 SUNG IN THE LAST MONTH OF WINTER, AND IN SPRING, WHEN THE KING PRESENTED A FISH IN THE ANCESTRAL TEMPLE.
 
-Such is the argument of this piece given in the Preface, and in which the critics generally concur. In the Lî <i>K</i>î, IV, vi, 49, it is recorded that the king, in the third Month of winter, gave orders to his chief fisher to commence his duties, and went himself to see his operations. He partook of the fish first captured, but previously presented some as an offering in the back apartment of the ancestral temple. In the third month of spring, again, when the sturgeons began to make their appearance (Lî <i>K</i>î, IV, i, 25), the king presented one in the same place. On <span id="p325">[<sup><small>p. 325</small></sup>]</span> these passages, the prefatory notice was, no doubt, constructed. Choice specimens of the earliest-caught fish were presented by the sovereign to his ancestors, as an act of duty, and an acknowledgment that it was to their favour that he and the people were indebted for the supplies of food, which they received from the waters.
+Such is the argument of this piece given in the Preface, and in which the critics generally concur. In the Lî <i>K</i>î, IV, vi, 49, it is recorded that the king, in the third Month of winter, gave orders to his chief fisher to commence his duties, and went himself to see his operations. He partook of the fish first captured, but previously presented some as an offering in the back apartment of the ancestral temple. In the third month of spring, again, when the sturgeons began to make their appearance (Lî <i>K</i>î, IV, i, 25), the king presented one in the same place. On <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> these passages, the prefatory notice was, no doubt, constructed. Choice specimens of the earliest-caught fish were presented by the sovereign to his ancestors, as an act of duty, and an acknowledgment that it was to their favour that he and the people were indebted for the supplies of food, which they received from the waters.
 
 Oh! in the Khî and the Khü, There are many fish in the warrens;—Sturgeons, large and snouted, Thryssas, yellow-jaws, mud-fish, and carp;—For offerings, for sacrifice, That our bright happiness may be increased.
 
@@ -247,7 +247,7 @@ They come full of harmony; They are here in all gravity;—The princes assisting
 
 With penetrating wisdom thou didst play the man. A sovereign with the gifts both of peace and war, Giving rest even to great Heaven [^361], And ensuring prosperity to thy descendants.
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 ‘Thou comfortest me with the eyebrows of longevity; Thou makest me great with manifold blessings, I offer this sacrifice to my meritorious father, And to my accomplished mother [^362].’
 
@@ -259,7 +259,7 @@ APPROPRIATE TO AN OCCASION WHEN THE FEUDAL PRINCES HAD BEEN ASSISTING KING <i>KH
 
 They appeared before their sovereign king, To seek from him the rules (they were to observe). With their dragon-emblazoned banners, flying bright, The bells on them and their front-boards tinkling, And with the rings on the ends of the reins glittering, Admirable was their majesty and splendour.
 
-He led them to appear before his father shrined on the left [^363], Where he discharged his filial duty, and presented his offerings;—That he might have granted to him long life, And ever preserve (his dignity). Great and many are his blessings. They are the brilliant and accomplished princes, Who cheer him with his many sources of happiness, <span id="p327">[<sup><small>p. 327</small></sup>]</span> Enabling him to perpetuate them in their brightness as pure blessing.
+He led them to appear before his father shrined on the left [^363], Where he discharged his filial duty, and presented his offerings;—That he might have granted to him long life, And ever preserve (his dignity). Great and many are his blessings. They are the brilliant and accomplished princes, Who cheer him with his many sources of happiness, <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> Enabling him to perpetuate them in their brightness as pure blessing.
 
 <a id="o29"></a>
 
@@ -274,7 +274,7 @@ The noble visitor! The noble visitor! Drawn, like his ancestors, by white horses
 The noble guest will stay (but) a night or two! The noble guest will stay (but) two nights or four! Give him ropes, To bind his horses [^364].
 
 I will convoy him (with a parting feast); I will comfort him in every possible way. Adorned with such great dignity, It is very natural that he should be blessed.
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 <a id="o210"></a>
 
@@ -299,7 +299,7 @@ The speaker in this piece is, by common consent, king <i>Kh</i>ăng. The only qu
 
 Alas for me, who am a little child, On whom has devolved the unsettled state! Solitary am I and full of distress. Oh! my great Father, All thy life long, thou wast filial.
 
-Thou didst think of my great grandfather, (Seeing <span id="p329">[<sup><small>p. 329</small></sup>]</span> him, as it were) ascending and descending in the court, I, the little child, Day and night will be as reverent.
+Thou didst think of my great grandfather, (Seeing <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> him, as it were) ascending and descending in the court, I, the little child, Day and night will be as reverent.
 
 Oh! ye great kings, As your successor, I will strive not to forget you.
 
@@ -319,7 +319,7 @@ I take counsel at the beginning of my (rule), How I can follow (the example of) 
 
 KING <i>KH</i>ĂNG SHOWS HIS SENSE OF WHAT WAS REQUIRED OF HIM TO PRESERVE THE FAVOUR OF HEAVEN, A CONSTANT JUDGE; INTIMATES HIS GOOD PURPOSES; AND ASKS THE HELP OF HIS MINISTERS TO BE ENABLED TO PERFORM THEM.
 
-Let me be reverent! Let me be reverent! (The way of) Heaven is evident, And its appointment <span id="p330">[<sup><small>p. 330</small></sup>]</span> is not easily preserved [^365]. Let me not say that it is high aloft above me. It ascends and descends about our doings; It daily inspects us wherever we are.
+Let me be reverent! Let me be reverent! (The way of) Heaven is evident, And its appointment <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> is not easily preserved [^365]. Let me not say that it is high aloft above me. It ascends and descends about our doings; It daily inspects us wherever we are.
 
 I am a little child, Without intelligence to be reverently (attentive to my duties); But by daily progress and monthly advance, I will learn to hold fast the gleams (of knowledge), till I arrive at bright intelligence. Assist me to bear the burden (of my position), And show me how to display a virtuous conduct.
 
@@ -331,7 +331,7 @@ KING <i>KH</i>ĂNG ACKNOWLEDGES THAT HE HAD ERRED, AND STATES HIS PURPOSE TO HE 
 
 This piece has been considered by some critics as the conclusion of the council in the ancestral temple, with which the previous two also are thought to be connected. The Preface says that the king asks in it for the assistance of his ministers, but no such request is expressed. I seem myself to see in it, with Sû <i>Kh</i>eh and others, a reference to the suspicions which <i>Kh</i>ăng at one time, we know, entertained of the fidelity of the duke of <i>K</i>âu, when he was inclined to believe the rumours spread against him by his other uncles, who joined in rebellion with the son of the last king of Shang.
 
-I condemn myself (for the past), And will be on my guard against future calamity. I will have nothing to do with a wasp, To seek for myself its painful sting. At first indeed it seemed to be <span id="p331">[<sup><small>p. 331</small></sup>]</span> (but) a wren [^366]. But it took wing, and became a large bird. I am unequal to the many difficulties of the kingdom, And am placed in the midst of bitter experiences.
+I condemn myself (for the past), And will be on my guard against future calamity. I will have nothing to do with a wasp, To seek for myself its painful sting. At first indeed it seemed to be <span id="p331"><sup><small>[ p. 331 ]</small></sup></span> (but) a wren [^366]. But it took wing, and became a large bird. I am unequal to the many difficulties of the kingdom, And am placed in the midst of bitter experiences.
 
 <a id="o35"></a>
 
@@ -345,7 +345,7 @@ They clear away the grass and the bushes; And the ground is laid open by their p
 
 In thousands of pairs they remove the roots, Some in the low wet land, some along the dykes.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 There are the master and his eldest son; His younger sons, and all their children; Their strong helpers, and their hired servants. How the noise of their eating the viands brought to them resounds! (The husbands) think lovingly of their wives; (The wives) keep close to their husbands. (Then) with their sharp ploughshares They set to work on the south-lying acres.
 
@@ -371,7 +371,7 @@ Very sharp are the excellent shares, With which they set to work on the south-ly
 
 They sow their various kinds of grain, Each seed containing in it a germ of life.
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 There are those who come to see them, With their baskets round and square, Containing the provisions of millet.
 
@@ -391,7 +391,7 @@ Those hundred houses being full, The wives and children have a feeling of repose
 
 AN ODE APPROPRIATE TO THE PREPARATIONS AND PROGRESS OF A FEAST AFTER A SACRIFICE.
 
-The Preface and the editors of the Yung-_kh_ăng Shih say that the piece has reference to the entertainment given, the day after a <span id="p334">[<sup><small>p. 334</small></sup>]</span> sacrifice, in the ancestral temple, to the personators of the dead, described on [p. 301](Shih_King_Part1_Intro#p301). <i>K</i>û Hsî denies this, and holds simply that it belongs to the feast after a sacrifice, without further specifying what sacrifice. The old view is probably the more correct.
+The Preface and the editors of the Yung-_kh_ăng Shih say that the piece has reference to the entertainment given, the day after a <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> sacrifice, in the ancestral temple, to the personators of the dead, described on [p. 301](Shih_King_Part1_Intro#p301). <i>K</i>û Hsî denies this, and holds simply that it belongs to the feast after a sacrifice, without further specifying what sacrifice. The old view is probably the more correct.
 
 In his silken robes, clean and bright, With his cap on his head, looking so respectful, From the hall he goes to the foot of the stairs, And (then) from the sheep to the oxen [^369]. (He inspects) the tripods, large and small, And the curved goblet of rhinoceros horn [^370]. The good spirits are mild, (But) there is no noise, no insolence:—An auspice (this) of great longevity.
 
@@ -403,7 +403,7 @@ AN ODE IN PRAISE OF KING WÛ, AND RECOGNISING THE DUTY TO FOLLOW HIS COURSE.
 
 This was sung, according to the Preface, at the conclusion of the dance in honour of king Wû;—see on the last piece of the second decade.
 
-Oh! powerful was the king's army, But he nursed it, in obedience to circumstances, while the <span id="p335">[<sup><small>p. 335</small></sup>]</span> time was yet dark. When the time was clearly bright, He thereupon donned his grand armour. We have been favoured to receive What the martial king accomplished. To deal aright with what we have inherited, We have to be sincere imitators of thy course, (O king).
+Oh! powerful was the king's army, But he nursed it, in obedience to circumstances, while the <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> time was yet dark. When the time was clearly bright, He thereupon donned his grand armour. We have been favoured to receive What the martial king accomplished. To deal aright with what we have inherited, We have to be sincere imitators of thy course, (O king).
 
 <a id="o39"></a>
 
@@ -423,7 +423,7 @@ CELEBRATING THE PRAISE OF KING WĂN.
 
 This is the only account of the piece that can be given from itself. The Ȝo <i>K</i>wan, however, refers it to the dance of king Wû; and the Preface says it contains the words with which Wû accompanied his grant of fiefs and appanages in the ancestral temple to his principal followers.
 
-King Wăn laboured earnestly:—Right is it we should have received (the kingdom). We will diffuse (his virtue), ever cherishing the thought of <span id="p336">[<sup><small>p. 336</small></sup>]</span> him; Henceforth we will seek only the settlement (of the kingdom). It was he through whom came the appointment of Kâu. Oh! let us ever cherish the thought of him.
+King Wăn laboured earnestly:—Right is it we should have received (the kingdom). We will diffuse (his virtue), ever cherishing the thought of <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> him; Henceforth we will seek only the settlement (of the kingdom). It was he through whom came the appointment of Kâu. Oh! let us ever cherish the thought of him.
 
 <a id="o311"></a>
 

@@ -29,7 +29,7 @@ dateCreated: 2025-1-15T22:11:38Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 [^0]
 

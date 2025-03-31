@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 <figure id="Figure_07900" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/07900.jpg">
@@ -44,7 +44,7 @@ WHEN Amru had finished his extravagant panegyric on the tribe of Tagleb, and had
 
 Although, if we believe Asmai, the poet was considerably above a hundred years old at this time, yet he is said to have poured forth his couplets with such boiling ardour, that, without perceiving it, “he cut his hand with the string of his bow, on which,” after the manner of the Arabian orators, “he leaned while he was speaking.”
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Whatever was his age, the wisdom and art of his composition are finely contrasted with the youthful imprudence of his adversary, who must have exasperated the King, instead of conciliating his good will, and seems even to have menaced the very man from whom he was asking a favourable judgment. Hareth, on the contrary, begins with complimenting the Queen, whose name was Asoma, and who heard him behind the tapestry: he appears to have introduced another of his favourites, Hinda, merely because that was the name of the king's mother; and he celebrates the monarch himself, as a model of justice, valour, and magnanimity. The description of his camel, which he interweaves according to custom, is very short; and he opens the defence of his tribe with coolness and moderation; but as he proceeds his indignation seems to be kindled, and the rest of his harangue consists of sharp expostulations and bitter sarcasms, not without much sound reasoning, and a number of allusions to facts, which cannot but be imperfectly known to us, though they must have been fresh in the memory of his hearers.
 
@@ -52,7 +52,7 @@ The general scope of his argument is that no blame was justly imputable to the s
 
 The oration, or poem, or whatever it may be denominated, had its full effect on the mind of the royal umpire, who decided the cause in favour of the Becrites, and lost his life for a decision apparently just. He must have remarked the fiery spirit of the poet Amru, from the style of his eloquence, as Cæsar first discovered the impetuous vehemence of Brutus’ temper from his speech delivered at Nice, in favour of King Deiotarus: but neither the Arabian nor the Roman tyrant were sufficiently on their guard against men whom they had irritated even to fury.
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 This poem is composed in _light_ verse, or metre of the eleventh class, consisting of epitrites, ionic feet, and pæons, variously intermixed, as in this form:
 

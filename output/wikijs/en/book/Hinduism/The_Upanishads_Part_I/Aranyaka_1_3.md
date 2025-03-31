@@ -48,7 +48,7 @@ THIRD ADHYÂYA.
 
 6\. If he begins with the sound Him, that sound is the holding apart of divine and human speech.
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 Therefore, he who begins, after having uttered the sound Him, holds apart divine and human speech [^429].
 
@@ -70,7 +70,7 @@ Therefore, he who begins, after having uttered the sound Him, holds apart divine
 
 8\. Therefore, let him say these Vyâh<i>ri</i>tis (sacred interjections) first.
 
-9\. These interjections Bhûs, Bhuvas, Svar are the three Vedas, Bhûs the <i>Ri</i><i>g</i>\-veda, Bhuvas the Ya<i>g</i>ur-veda, Svar the Sâma-veda. Therefore (by <span id="p178">[<sup><small>p. 178</small></sup>]</span> intercalating these) he does not begin simply with a <i>Ri</i><i>k</i>, Ya<i>g</i>us, or Sâman verse, he does not start with a <i>Ri</i><i>k</i>, Ya<i>g</i>us, or Sâman verse.
+9\. These interjections Bhûs, Bhuvas, Svar are the three Vedas, Bhûs the <i>Ri</i><i>g</i>\-veda, Bhuvas the Ya<i>g</i>ur-veda, Svar the Sâma-veda. Therefore (by <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> intercalating these) he does not begin simply with a <i>Ri</i><i>k</i>, Ya<i>g</i>us, or Sâman verse, he does not start with a <i>Ri</i><i>k</i>, Ya<i>g</i>us, or Sâman verse.
 
 ## THIRD KHA<i>N</i><i>D</i>A.
 
@@ -82,7 +82,7 @@ Therefore, he who begins, after having uttered the sound Him, holds apart divine
 
 4\. ‘O B<i>ri</i>haspati, the first point of speech;’—for this is the first and highest point of speech.
 
-5\. ‘That which you have uttered, making it a name;’—for names are made by speech. <span id="p179">[<sup><small>p. 179</small></sup>]</span> 6\. ‘That (name) which was the best and without a flaw;’—for this is the best and without a flaw.
+5\. ‘That which you have uttered, making it a name;’—for names are made by speech. <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> 6\. ‘That (name) which was the best and without a flaw;’—for this is the best and without a flaw.
 
 7\. ‘That which was hidden by their love, is made manifest;’—for this was hidden in the body, viz. those deities (which enter the body, Agni as voice, entering the mouth, &c.); and that was manifest among the gods in heaven. This is what was intended by the verse.
 
@@ -104,7 +104,7 @@ Therefore, he who begins, after having uttered the sound Him, holds apart divine
 
 8\. ‘Whatever has been offered at feasts came to thee;’—this means everything is in thy power.
 
-9\. ‘All turn their thought also on thee [^438];’—this <span id="p180">[<sup><small>p. 180</small></sup>]</span> means all these beings, all minds, all thoughts also turn to thee.
+9\. ‘All turn their thought also on thee [^438];’—this <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> means all these beings, all minds, all thoughts also turn to thee.
 
 10\. ‘When these two become three protectors;’—i. e. when these two united beget offspring.
 
@@ -120,7 +120,7 @@ Therefore, he who begins, after having uttered the sound Him, holds apart divine
 
 16\. Of this (the first foot of Rv. X, 120, 1) the eight syllables are Gâyatrî, the eleven syllables are Trish<i>t</i>ubh, the twelve syllables are <i>G</i>agatî, the ten syllables are Virâ<i>g</i>. The Virâ<i>g</i>, consisting of ten syllables, rests in these three metres [^441].
 
-17\. The word purusha, consisting of three syllables, that indeed goes into the Virâ<i>g</i> [^442]. <span id="p181">[<sup><small>p. 181</small></sup>]</span> 18\. Verily, these are all metres, these (Gâyatrî, Trish<i>t</i>ubh, Gagatî) having the Virâ<i>g</i> as the fourth. In this manner this day is complete in all metres to him who knows this.
+17\. The word purusha, consisting of three syllables, that indeed goes into the Virâ<i>g</i> [^442]. <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> 18\. Verily, these are all metres, these (Gâyatrî, Trish<i>t</i>ubh, Gagatî) having the Virâ<i>g</i> as the fourth. In this manner this day is complete in all metres to him who knows this.
 
 ## FIFTH KHA<i>N</i><i>D</i>A.
 
@@ -137,7 +137,7 @@ Sadyo ga<i>g</i>ñâno ni ri<i>n</i>âti <i>s</i>atrûn
 Anu yam vi<i>s</i>ve madanti ûmâ<i>h</i> sho
 &nbsp;&nbsp;&nbsp;&nbsp;dhenûnâm ishudhyasi.
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 In nada<i>m</i> va odatînâm (Rv. VIII, 69, 2), odati [^444] are the waters in heaven, for they water all this; and they are the waters in the mouth, for they water all good food.
 
@@ -149,7 +149,7 @@ In nada<i>m</i> va odatînâm (Rv. VIII, 69, 2), odati [^444] are the waters in 
 
 6\. He extends a Trish<i>t</i>ubh and an Anush<i>t</i>ubh [^445]. Trish<i>t</i>ubh is the man, Anush<i>t</i>ubh the wife, and they make a couple. Therefore does a man, after having found a wife, consider himself a more perfect man.
 
-7\. These verses, by repeating the first three times, become twenty-five. The trunk is the twenty-fifth, and Pra<i>g</i>âpati is the twenty-fifth [^446]. There are ten fingers on his hands, ten toes on his feet, two legs, two arms, and the trunk the twenty-fifth. He adorns that trunk as the twenty-fifth. Now this day consists of twenty-five, and the Stoma hymn of that day consists of twenty-five: it becomes the same <span id="p183">[<sup><small>p. 183</small></sup>]</span> through the same. Therefore the two, the day and the hymn, are twenty-five [1](Aranyaka_3_1#fn447).
+7\. These verses, by repeating the first three times, become twenty-five. The trunk is the twenty-fifth, and Pra<i>g</i>âpati is the twenty-fifth [^446]. There are ten fingers on his hands, ten toes on his feet, two legs, two arms, and the trunk the twenty-fifth. He adorns that trunk as the twenty-fifth. Now this day consists of twenty-five, and the Stoma hymn of that day consists of twenty-five: it becomes the same <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> through the same. Therefore the two, the day and the hymn, are twenty-five [1](Aranyaka_3_1#fn447).
 
 
 ## SIXTH KHA<i>N</i><i>D</i>A.
@@ -166,7 +166,7 @@ This is an exact repetition of the third kha<i>n</i><i>d</i>a. According to the 
 
 4\. Then follows the hymn, N<i>ri</i><i>n</i>âm u tvâ n<i>ri</i>ta<i>m</i>a<i>m</i> gobhir ukthai<i>h</i> (Rv. I, 51, 4), with the auspicious word uktha.
 
-5\. He extends the first two pâdas, which are too small, by one syllable (Rv. X, 120, 1 a, and Rv. VIII, 69, 2 a) [^448]. Into the small heart the vital spirits are placed, into the small stomach food is placed. It <span id="p184">[<sup><small>p. 184</small></sup>]</span> serves for the attainment of these desires. He who knows this, obtains these desires.
+5\. He extends the first two pâdas, which are too small, by one syllable (Rv. X, 120, 1 a, and Rv. VIII, 69, 2 a) [^448]. Into the small heart the vital spirits are placed, into the small stomach food is placed. It <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> serves for the attainment of these desires. He who knows this, obtains these desires.
 
 6\. The two feet, each consisting of ten syllables (Rv. X, 120, 1 a, b), serve for the gaining of both kinds of food [^449], of what has feet (animal food), and what has no feet (vegetable food).
 
@@ -178,7 +178,7 @@ This is an exact repetition of the third kha<i>n</i><i>d</i>a. According to the 
 
 2\. The verse (VIII, 69, 2) nada<i>m</i> va odatînâm, &c., is by its syllables an Ush<i>n</i>ih [^453], by its feet an Anush<i>t</i>ubh [^454]. Ush<i>n</i>ih is life, Anush<i>t</i>ubh, speech. He thus places life and speech in him (the sacrificer.)
 
-3\. By repeating the first verse three times, they <span id="p185">[<sup><small>p. 185</small></sup>]</span> become twenty-five. The trunk is the twenty-fifth, and Pra<i>g</i>âpati is the twenty-fifth. There are ten fingers on his hands, ten toes on his feet, two legs, two arms, and the trunk the twenty-fifth. He adorns that trunk as the twenty-fifth. Now this day consists of twenty-five, and the Stoma hymn of that day consists of twenty-five: it becomes the same through the same. Therefore the two, the day and the hymn, are twenty-five. This is the twenty-fifth with regard to the body.
+3\. By repeating the first verse three times, they <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> become twenty-five. The trunk is the twenty-fifth, and Pra<i>g</i>âpati is the twenty-fifth. There are ten fingers on his hands, ten toes on his feet, two legs, two arms, and the trunk the twenty-fifth. He adorns that trunk as the twenty-fifth. Now this day consists of twenty-five, and the Stoma hymn of that day consists of twenty-five: it becomes the same through the same. Therefore the two, the day and the hymn, are twenty-five. This is the twenty-fifth with regard to the body.
 
 4\. Next, with regard to the deities: The eye, the ear, the mind, speech, and breath, these five deities (powers) have entered into that person (purusha), and that person entered into the five deities. He is wholly pervaded there with his limbs to the very hairs and nails. Therefore all beings to the very insects are born as pervaded (by the deities or senses) [^455].
 
@@ -188,7 +188,7 @@ This is an exact repetition of the third kha<i>n</i><i>d</i>a. According to the 
 
 7\. ‘As large as heaven and earth, so large is it;’—verily, the self (<i>g</i>îvâtman) is as large as heaven and earth.
 
-8\. ‘A thousandfold are the thousand powers [^457];’— <span id="p186">[<sup><small>p. 186</small></sup>]</span> by saying this the poet pleases the hymns (the senses), and magnifies them.
+8\. ‘A thousandfold are the thousand powers [^457];’— <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> by saying this the poet pleases the hymns (the senses), and magnifies them.
 
 9\. ‘As far as Brahman reaches, so far reaches speech;’—wherever there is Brahman, there is a word; and wherever there is a word, there is Brahman, this was intended.
 

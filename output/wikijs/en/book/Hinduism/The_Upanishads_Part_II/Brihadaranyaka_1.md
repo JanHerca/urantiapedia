@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span> p. 71 p. 72 p. 73
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span> p. 71 p. 72 p. 73
 
 B<i>RI</i>HADÂRA<i>N</i>YAKA-UPANISHAD.
 
@@ -40,7 +40,7 @@ FIRST ADHYÂYA [^246].
 
 ## FIRST BRÂHMA<i>N</i>A.
 
-1\. Verily [^247] the dawn is the head of the horse which is fit for sacrifice, the sun its eye, the wind its breath, the mouth the Vai<i>s</i>vânara [^248] fire, the year the body of the sacrificial horse. Heaven is the back, the sky the belly, the earth the chest [^249], the quarters the two sides, the intermediate quarters the ribs, the members the seasons, the joints the months and half-months, the feet days and nights, the bones the stars, the <span id="p74">[<sup><small>p. 74</small></sup>]</span> flesh the clouds. The half-digested food is the sand, the rivers the bowels [^250], the liver and the lungs [^251] the mountains, the hairs the herbs and trees. As the sun rises, it is the forepart, as it sets, the hindpart of the horse. When the horse shakes itself [^252], then it lightens; when it kicks, it thunders; when it makes water, it rains; voice [^253] is its voice.
+1\. Verily [^247] the dawn is the head of the horse which is fit for sacrifice, the sun its eye, the wind its breath, the mouth the Vai<i>s</i>vânara [^248] fire, the year the body of the sacrificial horse. Heaven is the back, the sky the belly, the earth the chest [^249], the quarters the two sides, the intermediate quarters the ribs, the members the seasons, the joints the months and half-months, the feet days and nights, the bones the stars, the <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> flesh the clouds. The half-digested food is the sand, the rivers the bowels [^250], the liver and the lungs [^251] the mountains, the hairs the herbs and trees. As the sun rises, it is the forepart, as it sets, the hindpart of the horse. When the horse shakes itself [^252], then it lightens; when it kicks, it thunders; when it makes water, it rains; voice [^253] is its voice.
 
 2\. Verily Day arose after the horse as the (golden) vessel [^254], called Mahiman (greatness), which (at the sacrifice) is placed before the horse. Its place is in the Eastern sea. The Night arose after the horse as the (silver) vessel, called Mahiman, which (at the sacrifice) is placed behind the horse. Its place is in the Western sea. Verily, these two vessels (or greatnesses) arose to be on each side of the horse.
 
@@ -49,17 +49,17 @@ As a racer he carried the Devas, as a stallion the Gandharvas, as a runner the A
 
 ## SECOND BRÂHMA<i>N</i>A [^255].
 
-1\. In the beginning there was nothing (to be perceived) <span id="p75">[<sup><small>p. 75</small></sup>]</span> here whatsoever. By Death indeed all this was concealed,—by hunger; for death is hunger. Death (the first being) thought, ‘Let me have a body.’ Then he moved about, worshipping. From him thus worshipping water was produced. And he said: ‘Verily, there appeared to me, while I worshipped (ar<i>k</i>ate), water (ka).’ This is why water is called ar-ka [^256]. Surely there is water (or pleasure) for him who thus knows the reason why water is called arka.
+1\. In the beginning there was nothing (to be perceived) <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> here whatsoever. By Death indeed all this was concealed,—by hunger; for death is hunger. Death (the first being) thought, ‘Let me have a body.’ Then he moved about, worshipping. From him thus worshipping water was produced. And he said: ‘Verily, there appeared to me, while I worshipped (ar<i>k</i>ate), water (ka).’ This is why water is called ar-ka [^256]. Surely there is water (or pleasure) for him who thus knows the reason why water is called arka.
 
 2\. Verily water is arka. And what was there as the froth of the water, that was hardened, and became the earth. On that earth he (Death) rested, and from him, thus resting and heated, Agni (Virâ<i>g</i>) proceeded, full of light.
 
-3\. That being divided itself threefold, Âditya (the sun) as the third, and Vâyu (the air) as the third [^257]. That spirit (prâ<i>n</i>a) [^258] became threefold. The head was the Eastern quarter, and the arms this and that quarter <span id="p76">[<sup><small>p. 76</small></sup>]</span> (i. e. the N. E. and S. E., on the left and right sides). Then the tail was the Western quarter, and the two legs this and that quarter (i. e. the N. W. and S. W.) The sides were the Southern and Northern quarters, the back heaven, the belly the sky, the dust the earth. Thus he (M<i>ri</i>tyu, as arka) stands firm in the water, and he who knows this stands firm wherever he goes.
+3\. That being divided itself threefold, Âditya (the sun) as the third, and Vâyu (the air) as the third [^257]. That spirit (prâ<i>n</i>a) [^258] became threefold. The head was the Eastern quarter, and the arms this and that quarter <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> (i. e. the N. E. and S. E., on the left and right sides). Then the tail was the Western quarter, and the two legs this and that quarter (i. e. the N. W. and S. W.) The sides were the Southern and Northern quarters, the back heaven, the belly the sky, the dust the earth. Thus he (M<i>ri</i>tyu, as arka) stands firm in the water, and he who knows this stands firm wherever he goes.
 
 4\. He desired [^259], ‘Let a second body be born of me,’ and he (Death or Hunger) embraced Speech in his mind. Then the seed became the year. Before that time there was no year. Speech [^260] bore him so long as a year, and after that time sent him forth. Then when he was born, he (Death) opened his mouth, as if to swallow him. He cried Bhâ<i>n</i>! and that became speech [^261].
 
 5\. He thought, ‘If I kill him, I shall have but little food.’ He therefore brought forth by that speech and by that body (the year) all whatsoever exists, the <i>Ri</i><i>k</i>, the Ya<i>g</i>us, the Sâman, the metres, the sacrifices, men, and animals.
 
-And whatever he (Death) brought forth, that he resolved to eat (ad). Verily because he eats everything, therefore is Aditi (Death) called Aditi. He who thus knows why Aditi is called Aditi, becomes an eater of everything, and everything becomes his food [^262]. <span id="p77">[<sup><small>p. 77</small></sup>]</span> 6\. He desired to sacrifice again with a greater sacrifice. He toiled and performed penance. And while he toiled and performed penance, glorious power [^263] went out of him. Verily glorious power means the senses (prâ<i>n</i>a). Then when the senses had gone out, the body took to swelling (<i>s</i>va-yitum), and mind was in the body.
+And whatever he (Death) brought forth, that he resolved to eat (ad). Verily because he eats everything, therefore is Aditi (Death) called Aditi. He who thus knows why Aditi is called Aditi, becomes an eater of everything, and everything becomes his food [^262]. <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> 6\. He desired to sacrifice again with a greater sacrifice. He toiled and performed penance. And while he toiled and performed penance, glorious power [^263] went out of him. Verily glorious power means the senses (prâ<i>n</i>a). Then when the senses had gone out, the body took to swelling (<i>s</i>va-yitum), and mind was in the body.
 
 7\. He desired that this body should be fit for sacrifice (medhya), and that he should be embodied by it. Then he became a horse (a<i>s</i>va), because it swelled (a<i>s</i>vat), and was fit for sacrifice (medhya); and this is why the horse-sacrifice is called A<i>s</i>va-medha.
 
@@ -67,7 +67,7 @@ Verily he who knows him thus, knows the A<i>s</i>vamedha. Then, letting the hors
 
 Verily the shining sun is the A<i>s</i>vamedha-sacrifice, and his body is the year; Agni is the sacrificial fire (arka), and these worlds are his bodies. These two are the sacrificial fire and the A<i>s</i>vamedha-sacrifice, and they are again one deity, viz. Death. He (who knows this) overcomes another death, death does not reach him, death is his Self, he becomes one of those deities.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 ## THIRD BRÂHMA<i>N</i>A [^265].
 
@@ -75,7 +75,7 @@ Verily the shining sun is the A<i>s</i>vamedha-sacrifice, and his body is the ye
 
 2\. They said to speech (Vâ<i>k</i>): ‘Do thou sing out for us (the udgîtha).’ ‘Yes,’ said speech, and sang (the udgîtha). Whatever delight there is in speech, that she obtained for the Devas by singing (the three pavamânas); but that she pronounced well (in the other nine pavamânas), that was for herself. The Asuras knew: ‘Verily, through this singer they will overcome us.’ They therefore rushed at the singer and pierced her with evil. That evil which consists in saying what is bad, that is that evil.
 
-3\. Then they (the Devas) said to breath (scent): ‘Do thou sing out for us.’ ‘Yes,’ said breath, and sang. Whatever delight there is in breath (smell), that he obtained for the Devas by singing; but that he smelled well, that was for himself. The Asuras knew: ‘Verily, through this singer they will overcome us.’ They therefore rushed at the singer, and <span id="p79">[<sup><small>p. 79</small></sup>]</span> pierced him with evil. That evil which consists in smelling what is bad, that is that evil.
+3\. Then they (the Devas) said to breath (scent): ‘Do thou sing out for us.’ ‘Yes,’ said breath, and sang. Whatever delight there is in breath (smell), that he obtained for the Devas by singing; but that he smelled well, that was for himself. The Asuras knew: ‘Verily, through this singer they will overcome us.’ They therefore rushed at the singer, and <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> pierced him with evil. That evil which consists in smelling what is bad, that is that evil.
 
 4\. Then they said to the eye: ‘Do thou sing out for us.’ ‘Yes,’ said the eye, and sang. Whatever delight there is in the eye, that he obtained for the Devas by singing; but that he saw well, that was for himself The Asuras knew: ‘Verily, through this singer they will overcome us.’ They therefore rushed at the singer, and pierced him with evil. That evil which consists in seeing what is bad, that is that evil.
 
@@ -85,7 +85,7 @@ Verily the shining sun is the A<i>s</i>vamedha-sacrifice, and his body is the ye
 
 Thus they overwhelmed these deities with evils, thus they pierced them with evil.
 
-7\. Then they said to the breath in the mouth [^268]: ‘Do thou sing for us.’ ‘Yes,’ said the breath, and sang. The Asuras knew: ‘Verily, through this singer <span id="p80">[<sup><small>p. 80</small></sup>]</span> they will overcome us.’ They therefore rushed at him and pierced him with evil. Now as a ball of earth will be scattered when hitting a stone, thus they perished, scattered in all directions. Hence the Devas rose, the Asuras fell. He who knows this, rises by his self, and the enemy who hates him falls.
+7\. Then they said to the breath in the mouth [^268]: ‘Do thou sing for us.’ ‘Yes,’ said the breath, and sang. The Asuras knew: ‘Verily, through this singer <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> they will overcome us.’ They therefore rushed at him and pierced him with evil. Now as a ball of earth will be scattered when hitting a stone, thus they perished, scattered in all directions. Hence the Devas rose, the Asuras fell. He who knows this, rises by his self, and the enemy who hates him falls.
 
 8\. Then they (the Devas) said: ‘Where was he then who thus stuck to us [^269]?’ It was (the breath) within the mouth (âsye 'ntar [^270]), and therefore called Ayâsya; he was the sap (rasa) of the limbs (aṅga), and therefore called Âṅgirasa.
 
@@ -97,7 +97,7 @@ Thus they overwhelmed these deities with evils, thus they pierced them with evil
 
 12\. He carried speech across first. When speech had become freed from death, it became (what it had been before) Agni (fire). That Agni, after having stepped beyond death, shines.
 
-13\. Then he carried breath (scent) across. When breath had become freed from death, it became <span id="p81">[<sup><small>p. 81</small></sup>]</span> Vâyu (air). That Vâyu, after having stepped beyond death, blows.
+13\. Then he carried breath (scent) across. When breath had become freed from death, it became <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> Vâyu (air). That Vâyu, after having stepped beyond death, blows.
 
 14\. Then he carried the eye across. When the eye had become freed from death, it became Âditya (the sun). That Âditya, after having stepped beyond death, burns.
 
@@ -109,7 +109,7 @@ Thus they overwhelmed these deities with evils, thus they pierced them with evil
 
 The Devas said: ‘Verily, thus far, whatever food there is, thou hast by singing acquired it for thyself. Now therefore give us a share in that food.’ He said: ‘You there, enter into me.’ They said Yes, and entered all into him. Therefore whatever food is eaten by breath, by it the other senses are satisfied.
 
-18\. If a man knows this, then his own relations come to him in the same manner; he becomes their supporter, their chief leader, their strong ruler [^273]. And if ever anyone tries to oppose [^274] one who is possessed of such knowledge among his own relatives, then he <span id="p82">[<sup><small>p. 82</small></sup>]</span> will not be able to support his own belongings. But he who follows the man who is possessed of such knowledge, and who with his permission wishes to support those whom he has to support, he indeed will be able to support his own belongings.
+18\. If a man knows this, then his own relations come to him in the same manner; he becomes their supporter, their chief leader, their strong ruler [^273]. And if ever anyone tries to oppose [^274] one who is possessed of such knowledge among his own relatives, then he <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> will not be able to support his own belongings. But he who follows the man who is possessed of such knowledge, and who with his permission wishes to support those whom he has to support, he indeed will be able to support his own belongings.
 
 19\. He was called Ayâsya Âṅgirasa, for he is the sap (rasa) of the limbs (aṅga). Verily, breath is the sap of the limbs. Yes, breath is the sap of the limbs. Therefore from whatever limb breath goes away, that limb withers, for breath verily is the sap of the limbs.
 
@@ -121,7 +121,7 @@ He (breath) is also Sâman (the Udgîtha), for speech is Sâman (Sama-veda), and
 
 22\. Or because he is equal (sama) to a grub, equal to a gnat, equal to an elephant, equal to these three worlds, nay, equal to this universe, therefore he is Sâman. He who thus knows this Sâman, obtains union and oneness with Sâman.
 
-23\. He (breath) is Udgîtha [^276]. Breath verily is Ut, for by breath this universe is upheld (uttabdha); and speech is Gîthâ, song. And because he is ut and gîthâ, therefore he (breath) is Udgîtha. <span id="p83">[<sup><small>p. 83</small></sup>]</span> 24\. And thus Brahmadatta <i>K</i>aikitâneya (the grandson of <i>K</i>ikitâna), while taking Soma (râ<i>g</i>an), said: ‘May this Soma strike my head off, if Ayâsya Âṅgirasa sang another Udgîtha than this. He sang it indeed as speech and breath.’
+23\. He (breath) is Udgîtha [^276]. Breath verily is Ut, for by breath this universe is upheld (uttabdha); and speech is Gîthâ, song. And because he is ut and gîthâ, therefore he (breath) is Udgîtha. <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> 24\. And thus Brahmadatta <i>K</i>aikitâneya (the grandson of <i>K</i>ikitâna), while taking Soma (râ<i>g</i>an), said: ‘May this Soma strike my head off, if Ayâsya Âṅgirasa sang another Udgîtha than this. He sang it indeed as speech and breath.’
 
 25\. He who knows what is the property of this Sâman, obtains property. Now verily its property is tone only. Therefore let a priest, who is going to perform the sacrificial work of a Sama-singer, desire that his voice may have a good tone, and let him perform the sacrifice with a voice that is in good tone. Therefore people (who want a priest) for a sacrifice, look out for one who possesses a good voice, as for one who possesses property. He who thus knows what is the property of that Sâman, obtains property.
 
@@ -131,7 +131,7 @@ He (breath) is also Sâman (the Udgîtha), for speech is Sâman (Sama-veda), and
 
 Next follows the Abhyâroha [^277] (the ascension) of the Pavamâna verses. Verily the Prastot<i>ri</i> begins to sing the Sâman, and when he begins, then let him (the sacrificer) recite these (three Ya<i>g</i>us-verses):
 
-‘Lead me from the unreal to the real! Lead me <span id="p84">[<sup><small>p. 84</small></sup>]</span> from darkness to light! Lead me from death to immortality!’
+‘Lead me from the unreal to the real! Lead me <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> from darkness to light! Lead me from death to immortality!’
 
 Now when he says, ‘Lead me from the unreal to the real,’ the unreal is verily death, the real immortality. He therefore says, ‘Lead me from death to immortality, make me immortal.’
 
@@ -142,7 +142,7 @@ When he says, ‘Lead me from death to immortality,’ there is nothing there, a
 28\. Next come the other Stotras with which the priest may obtain food for himself by singing them. Therefore let the sacrificer, while these Stotras are being sung, ask for a boon, whatever desire he may desire. An Udgât<i>ri</i> priest who knows this obtains by his singing whatever desire he may desire either for himself or for the sacrificer. This (knowledge) indeed is called the conqueror of the worlds. He who thus knows this Sâman [^279], for him there is no fear of his not being admitted to the worlds [^280].
 
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 ## FOURTH BRÂHMA<i>N</i>A [^281].
 
@@ -150,7 +150,7 @@ When he says, ‘Lead me from death to immortality,’ there is nothing there, a
 
 2\. He feared, and therefore any one who is lonely fears. He thought, ‘As there is nothing but myself, why should I fear?’ Thence his fear passed away. For what should he have feared? Verily fear arises from a second only.
 
-3\. But he felt no delight. Therefore a man who is lonely feels no delight. He wished for a second. He was so large as man and wife together. He then made this his Self to fall in two (pat), and thence arose husband (pati) and wife (patnî). Therefore Yâ<i>g</i>_ñ_avalkya said: ‘We two [^282] are thus (each of us) like half a shell [^283].’ Therefore the void which was <span id="p86">[<sup><small>p. 86</small></sup>]</span> there, is filled by the wife. He embraced her, and men were born.
+3\. But he felt no delight. Therefore a man who is lonely feels no delight. He wished for a second. He was so large as man and wife together. He then made this his Self to fall in two (pat), and thence arose husband (pati) and wife (patnî). Therefore Yâ<i>g</i>_ñ_avalkya said: ‘We two [^282] are thus (each of us) like half a shell [^283].’ Therefore the void which was <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> there, is filled by the wife. He embraced her, and men were born.
 
 4\. She thought, ‘How can he embrace me, after having produced me from himself? I shall hide myself.’
 
@@ -162,13 +162,13 @@ She then became a cow, the other became a bull and embraced her, and hence cows 
 
 And when they say, ‘Sacrifice to this or sacrifice to that god,’ each god is but his manifestation, for he is all gods.
 
-Now, whatever there is moist, that he created from seed; this is Soma. So far verily is this universe either food or eater. Soma indeed is food, Agni eater. This is the highest creation of Brahman, <span id="p87">[<sup><small>p. 87</small></sup>]</span> when he created the gods from his better part [^286], and when he, who was (then) mortal [^287], created the immortals. Therefore it was the highest creation. And he who knows this, lives in this his highest creation.
+Now, whatever there is moist, that he created from seed; this is Soma. So far verily is this universe either food or eater. Soma indeed is food, Agni eater. This is the highest creation of Brahman, <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> when he created the gods from his better part [^286], and when he, who was (then) mortal [^287], created the immortals. Therefore it was the highest creation. And he who knows this, lives in this his highest creation.
 
 7\. Now all this was then undeveloped. It became developed by form and name, so that one could say, ‘He, called so and so, is such a one [^288].’ Therefore at present also all this is developed by name and form, so that one can say, ‘He, called so and so, is such a one.’
 
 He (Brahman or the Self) entered thither, to the very tips of the finger-nails, as a razor might be fitted in a razor-case, or as fire in a fire-place [^289].
 
-He cannot be seen, for, in part only, when breathing, he is breath by name; when speaking, speech by name; when seeing, eye by name; when hearing, ear by name; when thinking, mind by name. All these are but the names of his acts. And he who worships (regards) him as the one or the other, does not know him, for he is apart from this (when qualified) by the one or the other (predicate). Let men worship him as Self, for in the Self all these are one. This Self is the footstep of everything, for through it one knows everything [^290]. And as one can find again by footsteps what was lost, thus he who knows this finds glory and praise. <span id="p88">[<sup><small>p. 88</small></sup>]</span> 8\. This, which is nearer to us than anything, this Self, is dearer than a son, dearer than wealth, dearer than all else.
+He cannot be seen, for, in part only, when breathing, he is breath by name; when speaking, speech by name; when seeing, eye by name; when hearing, ear by name; when thinking, mind by name. All these are but the names of his acts. And he who worships (regards) him as the one or the other, does not know him, for he is apart from this (when qualified) by the one or the other (predicate). Let men worship him as Self, for in the Self all these are one. This Self is the footstep of everything, for through it one knows everything [^290]. And as one can find again by footsteps what was lost, thus he who knows this finds glory and praise. <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> 8\. This, which is nearer to us than anything, this Self, is dearer than a son, dearer than wealth, dearer than all else.
 
 And if one were to say to one who declares another than the Self dear, that he will lose what is dear to him, very likely it would be so. Let him worship the Self alone as dear. He who worships the Self alone as dear, the object of his love will never perish [^291].
 
@@ -178,17 +178,17 @@ And if one were to say to one who declares another than the Self dear, that he w
 
 Now if a man worships another deity, thinking the deity is one and he another, he does not know. He is like a beast for the Devas. For verily, as many beasts nourish a man, thus does every man nourish the Devas. If only one beast is taken away, it is not pleasant; how much more when many are taken! Therefore it is not pleasant to the Devas that men should know this.
 
-11\. Verily in the beginning this was Brahman, one <span id="p89">[<sup><small>p. 89</small></sup>]</span> only. That being one, was not strong enough. It created still further the most excellent Kshatra (power), viz. those Kshatras (powers) among the Devas,—Indra, Varu<i>n</i>a, Soma, Rudra, Par<i>g</i>anya, Yama, M<i>ri</i>tyu, Î<i>s</i>âna. Therefore there is nothing beyond the Kshatra, and therefore at the Râ<i>g</i>asûya sacrifice the Brâhma<i>n</i>a sits down below the Kshatriya. He confers that glory on the Kshatra alone. But Brahman is (nevertheless) the birth-place of the Kshatra. Therefore though a king is exalted, he sits down at the end (of the sacrifice) below the Brahman, as his birth-place. He who injures him, injures his own birth-place. He becomes worse, because he has injured one better than himself.
+11\. Verily in the beginning this was Brahman, one <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> only. That being one, was not strong enough. It created still further the most excellent Kshatra (power), viz. those Kshatras (powers) among the Devas,—Indra, Varu<i>n</i>a, Soma, Rudra, Par<i>g</i>anya, Yama, M<i>ri</i>tyu, Î<i>s</i>âna. Therefore there is nothing beyond the Kshatra, and therefore at the Râ<i>g</i>asûya sacrifice the Brâhma<i>n</i>a sits down below the Kshatriya. He confers that glory on the Kshatra alone. But Brahman is (nevertheless) the birth-place of the Kshatra. Therefore though a king is exalted, he sits down at the end (of the sacrifice) below the Brahman, as his birth-place. He who injures him, injures his own birth-place. He becomes worse, because he has injured one better than himself.
 
 12\. He [^292] was not strong enough. He created the Vi<i>s</i> (people), the classes of Devas which in their different orders are called Vasus, Rudras, Âdityas, Vi<i>s</i>ve Devas, Maruts.
 
 13\. He was not strong enough. He created the <i>S</i>ûdra colour (caste), as Pûshan (as nourisher). This earth verily is Pûshan (the nourisher); for the earth nourishes all this whatsoever.
 
-14\. He was not strong enough. He created still further the most excellent Law (dharma). Law is the Kshatra (power) of the Kshatra [^293], therefore there is nothing higher than the Law. Thenceforth even a weak man rules a stronger with the help of the Law, as with the help of a king. Thus the Law is what is called the true. And if a man declares what is true, they say he declares the Law; and if he declares the Law, they say he declares what is true. Thus both are the same. <span id="p90">[<sup><small>p. 90</small></sup>]</span> 15\. There are then this Brahman, Kshatra, Vis, and <i>S</i>ûdra. Among the Devas that Brahman existed as Agni (fire) only, among men as Brâhma<i>n</i>a, as Kshatriya through the (divine) Kshatriya, as Vaisya through the (divine) Vaisya, as <i>S</i>ûdra through the (divine) <i>S</i>ûdra. Therefore people wish for their future state among the Devas through Agni (the sacrificial fire) only; and among men through the Brâhma<i>n</i>a, for in these two forms did Brahman exist.
+14\. He was not strong enough. He created still further the most excellent Law (dharma). Law is the Kshatra (power) of the Kshatra [^293], therefore there is nothing higher than the Law. Thenceforth even a weak man rules a stronger with the help of the Law, as with the help of a king. Thus the Law is what is called the true. And if a man declares what is true, they say he declares the Law; and if he declares the Law, they say he declares what is true. Thus both are the same. <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> 15\. There are then this Brahman, Kshatra, Vis, and <i>S</i>ûdra. Among the Devas that Brahman existed as Agni (fire) only, among men as Brâhma<i>n</i>a, as Kshatriya through the (divine) Kshatriya, as Vaisya through the (divine) Vaisya, as <i>S</i>ûdra through the (divine) <i>S</i>ûdra. Therefore people wish for their future state among the Devas through Agni (the sacrificial fire) only; and among men through the Brâhma<i>n</i>a, for in these two forms did Brahman exist.
 
 Now if a man departs this life without having seen his true future life (in the Self), then that Self, not being known, does not receive and bless him, as if the Veda had not been read, or as if a good work had not been done. Nay, even if one who does not know that (Self), should perform here on earth some great holy work, it will Perish for him in the end. Let a man worship the Self only as his true state. If a man worships the Self only as his true state, his work does not Perish, for whatever he desires that he gets from that Self.
 
-16\. Now verily this Self (of the ignorant man) is the world [^294] of all creatures. In so far as man sacrifices and pours out libations, he is the world of the Devas; in so far as he repeats the hymns, &c., he is the world of the <i>Ri</i>shis; in so far as he offers cakes to the Fathers and tries to obtain offspring, he is the world of the Fathers; in so far as he gives shelter and food to men, he is the world of men; in so far as he finds fodder and water for the animals, he is the world of the animals; in so far as quadrupeds, birds, and even ants live in his houses, he is their world. And as every one wishes his own world not to be injured, <span id="p91">[<sup><small>p. 91</small></sup>]</span> thus all beings wish that he who knows this should not be injured. Verily this is known and has been well reasoned.
+16\. Now verily this Self (of the ignorant man) is the world [^294] of all creatures. In so far as man sacrifices and pours out libations, he is the world of the Devas; in so far as he repeats the hymns, &c., he is the world of the <i>Ri</i>shis; in so far as he offers cakes to the Fathers and tries to obtain offspring, he is the world of the Fathers; in so far as he gives shelter and food to men, he is the world of men; in so far as he finds fodder and water for the animals, he is the world of the animals; in so far as quadrupeds, birds, and even ants live in his houses, he is their world. And as every one wishes his own world not to be injured, <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> thus all beings wish that he who knows this should not be injured. Verily this is known and has been well reasoned.
 
 17\. In the beginning this was Self alone, one only. He desired, ‘Let there be a wife for me that I may have offspring, and let there be wealth for me that I may offer sacrifices.’ Verily this is the whole desire, and, even if wishing for more, he would not find it. Therefore now also a lonely person desires, ‘Let there be a wife for me that I may have offspring, and let there be wealth for me that I may offer sacrifices.’ And so long as he does not obtain either of these things, he thinks he is incomplete. Now his completeness (is made up as follows): mind is his self (husband); speech the wife; breath the child; the eye all worldly wealth, for he finds it with the eye; the ear his divine wealth, for he hears it with the ear. The body (âtman) is his work, for with the body he works. This is the fivefold [^295] sacrifice, for fivefold is the animal, fivefold man, fivefold all this whatsoever. He who knows this, obtains all this.
 
@@ -199,7 +199,7 @@ Now if a man departs this life without having seen his true future life (in the 
 
 ‘Three he made for himself, one he gave to the animals. In it all rests, whatsoever breathes and breathes not. (2)
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 ‘Why then do these not perish, though they are always eaten? He who knows this imperishable one, he eats food with his face. (3)
 
@@ -209,7 +209,7 @@ Now if a man departs this life without having seen his true future life (in the 
 
 When it is said, that ‘one he gave to animals,’ that is milk. For in the beginning (in their infancy) both men and animals live on milk. And therefore they either make a new-born child lick gh<i>ri</i>ta (butter), or they make it take the breast. And they call a new-born creature ‘at<i>ri</i><i>n</i>âda,’ i.e. not eating herbs. When it is said, that ‘in it all rests, whatsoever breathes and breathes not,’ we see that all this, whatsoever breathes and breathes not, rests and depends on milk.
 
-And when it is said (in another Brâhma<i>n</i>a), that a man who sacrifices with milk a whole year [^298], overcomes death again, let him not think so. No, on <span id="p93">[<sup><small>p. 93</small></sup>]</span> the very day on which he sacrifices, on that day he overcomes death again; for he who knows this, offers to the gods the entire food (viz. milk).
+And when it is said (in another Brâhma<i>n</i>a), that a man who sacrifices with milk a whole year [^298], overcomes death again, let him not think so. No, on <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> the very day on which he sacrifices, on that day he overcomes death again; for he who knows this, offers to the gods the entire food (viz. milk).
 
 When it is said, ‘Why do these not perish, though they are always eaten,’ we answer, Verily, the Person is the imperishable, and he produces that food again and again [^299].
 
@@ -223,7 +223,7 @@ When it is said, that ‘he goes even to the Devas, he lives on strength,’ tha
 
 Whatever sound there is, that is speech. Speech indeed is intended for an end or object, it is nothing by itself.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 The up-breathing, the down-breathing, the back-breathing, the out-breathing, the on-breathing, all that is breathing is breath (prâ<i>n</i>a) only. Verily that Self consists of it; that Self consists of speech, mind, and breath.
 
@@ -245,7 +245,7 @@ What is known, has the form of speech, for speech is known. Speech, having becom
 
 11\. Of that speech (which is the food of Pra<i>g</i>âpati) earth is the body, light the form, viz. this fire. And so far as speech extends, so far extends the earth, so far extends fire.
 
-12\. Next, of this mind heaven is the body, light the form, viz. this sun. And so far as this mind <span id="p95">[<sup><small>p. 95</small></sup>]</span> extends, so far extends heaven, so far extends the sun. If they (fire and sun) embrace each other, then wind is born, and that is Indra, and he is without a, rival. Verily a second is a rival, and he who knows this, has no rival.
+12\. Next, of this mind heaven is the body, light the form, viz. this sun. And so far as this mind <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> extends, so far extends heaven, so far extends the sun. If they (fire and sun) embrace each other, then wind is born, and that is Indra, and he is without a, rival. Verily a second is a rival, and he who knows this, has no rival.
 
 13\. Next, of this breath water is the body, light the form, viz. this moon. And so far as this breath extends, so far extends water, so far extends the moon.
 
@@ -255,11 +255,11 @@ These are all alike, all endless. And he who worships them as finite, obtains a 
 
 15\. Now verily that Pra<i>g</i>âpati, consisting of sixteen digits, who is the year, is the same as a man who knows this. His wealth constitutes the fifteen digits, his Self the sixteenth digit. He is increased and decreased by that wealth. His Self is the nave, his wealth the felly. Therefore even if he loses everything, if he lives but with his Self, people say, he lost the felly (which can be restored again).
 
-16\. Next there are verily three worlds, the world of men, the world of the Fathers, the world of the Devas. The world of men can be gained by a son <span id="p96">[<sup><small>p. 96</small></sup>]</span> only, not by any other work. By sacrifice the world of the Fathers, by knowledge the world of the Devas is gained. The world of the Devas is the best of worlds, therefore they praise knowledge.
+16\. Next there are verily three worlds, the world of men, the world of the Fathers, the world of the Devas. The world of men can be gained by a son <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> only, not by any other work. By sacrifice the world of the Fathers, by knowledge the world of the Devas is gained. The world of the Devas is the best of worlds, therefore they praise knowledge.
 
 17\. Next follows the handing over. When a man thinks he is going to depart, he says to his son: ‘Thou art Brahman (the Veda, so far as acquired by the father); thou art the sacrifice (so far as performed by the father); thou art the world.’ The son answers: ‘I am Brahman, I am the sacrifice, I am the world.’ Whatever has been learnt (by the father) that, taken as one, is Brahman. Whatever sacrifices there are, they, taken as one, are the sacrifice. Whatever worlds there are, they, taken as one, are the world. Verily here ends this (what has to be done by a father, viz. study, sacrifice, &c.) ‘He (the son), being all this, preserved me from this world [^306],’ thus he thinks. Therefore they call a son who is instructed (to do all this), a world-son (lokya), and therefore they instruct him.
 
-When a father who knows this, departs this world, then he enters into his son together with his own spirits (with speech, mind, and breath). If there is anything done amiss by the father, of all that the son delivers him, and therefore he is called Putra, son [^307]. By help of his son the father stands firm in this world [^308]. Then these divine immortal spirits (speech, mind, and breath) enter into him. <span id="p97">[<sup><small>p. 97</small></sup>]</span> 18\. From the earth and from fire, divine speech enters into him. And verily that is divine speech whereby, whatever he says, comes to be.
+When a father who knows this, departs this world, then he enters into his son together with his own spirits (with speech, mind, and breath). If there is anything done amiss by the father, of all that the son delivers him, and therefore he is called Putra, son [^307]. By help of his son the father stands firm in this world [^308]. Then these divine immortal spirits (speech, mind, and breath) enter into him. <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> 18\. From the earth and from fire, divine speech enters into him. And verily that is divine speech whereby, whatever he says, comes to be.
 
 19\. From heaven and the sun, divine mind enters into him. And verily that is divine mind whereby he becomes joyful, and grieves no more.
 
@@ -267,7 +267,7 @@ When a father who knows this, departs this world, then he enters into his son to
 
 Whatever grief these creatures suffer, that is all one [^309] (and therefore disappears). Only what is good approaches him; verily, evil does not approach the Devas.
 
-21\. Next follows the consideration of the observances [^310] (acts). Pra<i>g</i>âpati created the actions (active senses). When they had been created, they strove among themselves. Voice held, I shall speak; the eye held, I shall see; the ear held, I shall hear; and thus the other actions too, each according to its own act. Death, having become weariness, took them and seized them. Having seized them, death held them back (from their work). Therefore speech grows weary, the eye grows weary, the ear grows weary. But death did not seize the central breath. Then the others tried to know him, and <span id="p98">[<sup><small>p. 98</small></sup>]</span> said: ‘Verily, he is the best of us, he who, whether moving or not, does not tire and does not perish. Well, let all of us assume his form.’ Thereupon they all assumed his form, and therefore they are called after him ‘breaths’ (spirits).
+21\. Next follows the consideration of the observances [^310] (acts). Pra<i>g</i>âpati created the actions (active senses). When they had been created, they strove among themselves. Voice held, I shall speak; the eye held, I shall see; the ear held, I shall hear; and thus the other actions too, each according to its own act. Death, having become weariness, took them and seized them. Having seized them, death held them back (from their work). Therefore speech grows weary, the eye grows weary, the ear grows weary. But death did not seize the central breath. Then the others tried to know him, and <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> said: ‘Verily, he is the best of us, he who, whether moving or not, does not tire and does not perish. Well, let all of us assume his form.’ Thereupon they all assumed his form, and therefore they are called after him ‘breaths’ (spirits).
 
 In whatever family there is a man who knows this, they call that family after his name. And he who strives with one who knows this, withers away and finally dies. So far with regard to the body.
 
@@ -284,7 +284,7 @@ Agni (fire) held, I shall burn; Âditya (the sun) held, I shall warm; <i>K</i>an
 Therefore let a man perform one observance only, let him breathe up and let him breathe down, that the evil death may not reach him. And when he performs it, let him try to finish it. Then he obtains through it union and oneness with that deity (with prâ<i>n</i>a).
 
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 ## SIXTH BRÂHMA<i>N</i>A [^312].
 

@@ -35,13 +35,13 @@ dateCreated: 2025-2-12T12:15:34Z
 
 
 
-<span id="p346">[<sup><small>p. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 <span id="p374">[<sup><small>p. 347p374</small></sup>]</span>
 
-<span id="p348">[<sup><small>p. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 A Nyâyi<i>s</i> is properly a begging prayer, as opposed to Sitâyi<i>s</i>, a prayer of praise. It is a term particularly applied to five prayers addressed to the Sun, to Mithra, to the Moon, to Waters, and to Fire. Every layman over eight years old is bound to recite the Nyâyi<i>s</i>: he recites it standing and girded with his Kôstî.
 
@@ -59,7 +59,7 @@ The first four Nyâyi<i>s</i> must be recited especially on the days over which 
 
 1\. \[^1500]!\]
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 Hail unto thee, O Ahura Mazda, in the threefold way [^1501]! \[Hail unto thee\] before all other creatures!
 
@@ -95,7 +95,7 @@ Hail to the Bull!
 
 Hail to Gaya [^1506]!
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Hail to the Fravashi of the holy Spitama Zarathu<i>s</i>tra!
 
@@ -123,7 +123,7 @@ We sacrifice unto Ti<i>s</i>trya, bright and glorious.
 
 We sacrifice unto the star Vana<i>n</i><i>t</i> [^1512], made by Mazda.
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 We sacrifice unto Ti<i>s</i>trya, the bright and glorious star.
 
@@ -159,7 +159,7 @@ We sacrifice unto the bright, undying, shining, swift-horsed Sun.
 
 10\. I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra . . . .
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 Unto the bright, undying, shining, swift-horsed Sun;
 

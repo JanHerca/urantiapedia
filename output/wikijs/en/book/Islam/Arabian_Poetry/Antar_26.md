@@ -44,7 +44,7 @@ I serve a tribe, whose hearts are the reverse of what they exhibit in their fond
 
 I am, in the field, the prince of their tribe; but, the battle over, I am more despised than a slave.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 O that I could annihilate this affection of a lover! how it humiliates me!—it agonizes my heart—it enfeebles my courage.
 
@@ -70,7 +70,7 @@ Wild beasts are tamed by gentle treatment;
 
 But men are never to be induced to abandon their iniquity.
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 But presently they hear, in the calmness of the night, a female voice crying out, evidently in sore distress; upon which Antar slackens his bridle, and gallops in the direction whence proceeded the cries. He discovers a lady, who informs him that she is of the noble tribe of Kendeh; her husband, As-hath, the son of Obad; that a famine having visited their land, they were proceeding, with their family, to the country of Harith, where they intended to settle, having a daughter married there, when they were attacked by a horseman of the desert, called Sudam, the son of Salheb, with forty plundering Arabs, who had slain her three sons, wounded her husband, and taken herself and her three daughters captive; and that the brigands were about to convey them to the mountains of Toweila, there to sell them as slaves. Consigning the ladies to the care of his brother, Antar grasped his spear, and turned to meet Sudam and his followers, whom he now saw hastily advancing towards him. The hero is assailed by several of the brigands at once, but he cuts them down on either side, and at length encounters Sudam, and, striking him on the breast with his cleaving Dhami, the chief falls to the ground dead, weltering in his blood.
 
@@ -80,7 +80,7 @@ Were my heart my own, I should desire nothing beyond you—it would covet nothin
 
 But it loves what tortures it; where no word, no deed encourages it.
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Having escorted the old sheikh and his family to the land of Harith, Antar took leave of them, and, in company with Shiboob, proceeded to Mecca. “He alighted in the Sacred Valley, and there he resided; passing his days in hunting, to relieve his sorrows and afflictions, and his nights with Shiboob, in talking over old stories and past events.”
 

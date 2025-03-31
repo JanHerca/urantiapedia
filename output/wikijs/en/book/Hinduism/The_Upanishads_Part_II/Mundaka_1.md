@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span> p. 26 p. 27
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span> p. 26 p. 27
 
 MU<i>N</i><i>D</i>AKA-UPANISHAD.
 
@@ -48,16 +48,16 @@ FIRST MU<i>N</i><i>D</i>AKA.
 
 4\. He said to him: ‘Two kinds of knowledge must be known, this is what all who know Brahman tell us, the higher and the lower knowledge.’
 
-5\. 9 The lower knowledge is the <i>Ri</i>g-veda, Ya<i>g</i>ur-veda, Sâma-veda, Atharva-veda, <i>S</i>ikshâ (phonetics), Kalpa (ceremonial), Vyâkara<i>n</i>a (grammar), Nirukta (etymology), <i>Kh</i>andas (metre), <i>G</i>yotisha (astronomy) [^155]; <span id="p28">[<sup><small>p. 28</small></sup>]</span> but the higher knowledge is that by which the Indestructible (Brahman) is apprehended.’
+5\. 9 The lower knowledge is the <i>Ri</i>g-veda, Ya<i>g</i>ur-veda, Sâma-veda, Atharva-veda, <i>S</i>ikshâ (phonetics), Kalpa (ceremonial), Vyâkara<i>n</i>a (grammar), Nirukta (etymology), <i>Kh</i>andas (metre), <i>G</i>yotisha (astronomy) [^155]; <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> but the higher knowledge is that by which the Indestructible (Brahman) is apprehended.’
 
 6\. ‘That which cannot be seen, nor seized, which has no family and no caste [^156], no eyes nor ears, no hands nor feet, the eternal, the omnipresent (all-pervading), infinitesimal, that which is imperishable, that it is which the wise regard as the source of all beings.’
 
 7\. ‘As the spider sends forth and draws in its thread, as plants grow on the earth, as from every man hairs spring forth on the head and the body, thus does everything arise here from the Indestructible.’
 
-8\. ‘The Brahman swells by means of brooding (penance) [^157]; hence is produced matter (food); from matter breath [^158], mind, the true [^159], the worlds (seven), and from the works (performed by men in the worlds), the immortal (the eternal effects, rewards, and punishments of works).’ <span id="p29">[<sup><small>p. 29</small></sup>]</span> 9\. ‘From him who perceives all and who knows all, whose brooding (penance) consists of knowledge, from him (the highest Brahman) is born that Brahman [^160], name, form [^161], and matter (food).’
+8\. ‘The Brahman swells by means of brooding (penance) [^157]; hence is produced matter (food); from matter breath [^158], mind, the true [^159], the worlds (seven), and from the works (performed by men in the worlds), the immortal (the eternal effects, rewards, and punishments of works).’ <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> 9\. ‘From him who perceives all and who knows all, whose brooding (penance) consists of knowledge, from him (the highest Brahman) is born that Brahman [^160], name, form [^161], and matter (food).’
 
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ## SECOND KHA<i>N</i><i>D</i>A.
 
@@ -65,7 +65,7 @@ FIRST MU<i>N</i><i>D</i>AKA.
 
 2\. When the fire is lighted and the flame flickers, let a man offer his oblations between the two portions of melted butter, as an offering with faith.
 
-3\. If a man's Agnihotra sacrifice [^166] is not followed <span id="p31">[<sup><small>p. 31</small></sup>]</span> by the new-moon and full-moon sacrifices, by the four-months' sacrifices, and by the harvest sacrifice, if it is unattended by guests, not offered at all, or without the Vaisvadeva ceremony, or not offered according to rule, then it destroys his seven worlds [^167].
+3\. If a man's Agnihotra sacrifice [^166] is not followed <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> by the new-moon and full-moon sacrifices, by the four-months' sacrifices, and by the harvest sacrifice, if it is unattended by guests, not offered at all, or without the Vaisvadeva ceremony, or not offered according to rule, then it destroys his seven worlds [^167].
 
 4\. Kâlî (black), Karâlî (terrific), Mano<i>g</i>avâ (swift as thought), Sulohitâ (very red), Sudhûmravar<i>n</i>â (purple), Sphuliṅginî (sparkling), and the brilliant Vi<i>s</i>varûpî [^168] (having all forms), all these playing about are called the seven tongues (of fire).
 
@@ -73,7 +73,7 @@ FIRST MU<i>N</i><i>D</i>AKA.
 
 6\. Come hither, come hither! the brilliant oblations say to him, and carry the sacrificer on the rays of the sun, while they utter pleasant speech and praise him, saying: ‘This is thy holy Brahma-world (Svarga), gained by thy good works.’
 
-7\. But frail, in truth, are those boats, the sacrifices, the eighteen, in which this lower ceremonial has been told [^169]. Fools who praise this as the highest good, are subject again and again to old age and death. <span id="p32">[<sup><small>p. 32</small></sup>]</span> 8\. Fools dwelling in darkness, wise in their own conceit, and puffed up with vain knowledge, go round and round staggering to and fro, like blind men led by the blind [^170].
+7\. But frail, in truth, are those boats, the sacrifices, the eighteen, in which this lower ceremonial has been told [^169]. Fools who praise this as the highest good, are subject again and again to old age and death. <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> 8\. Fools dwelling in darkness, wise in their own conceit, and puffed up with vain knowledge, go round and round staggering to and fro, like blind men led by the blind [^170].
 
 9\. Children, when they have long lived in ignorance, consider themselves happy. Because those who depend on their good works are, owing to their passions, improvident, they fall and become miserable when their life (in the world which they had gained by their good works) is finished.
 
@@ -81,7 +81,7 @@ FIRST MU<i>N</i><i>D</i>AKA.
 
 11\. But those [^171] who practise penance and faith in the forest, tranquil, wise, and living on alms, depart free from passion through the sun to where that immortal Person dwells whose nature is imperishable [^172].
 
-12\. Let a Brâhma<i>n</i>a, after he has examined all these worlds which are gained by works, acquire freedom from all desires. Nothing that is eternal (not made) can be gained by what is not eternal (made). Let him, in order to understand this, take <span id="p33">[<sup><small>p. 33</small></sup>]</span> fuel in his hand and approach a Guru who is learned and dwells entirely in Brahman.
+12\. Let a Brâhma<i>n</i>a, after he has examined all these worlds which are gained by works, acquire freedom from all desires. Nothing that is eternal (not made) can be gained by what is not eternal (made). Let him, in order to understand this, take <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> fuel in his hand and approach a Guru who is learned and dwells entirely in Brahman.
 
 13\. To that pupil who has approached him respectfully, whose thoughts are not troubled by any desires, and who has obtained perfect peace, the wise teacher truly told that knowledge of Brahman through which he knows the eternal and true Person.
 

@@ -55,7 +55,7 @@ In which the Creator is praised[^2] that will redound to thy glory.
 As there is one sun and many seasons,
 In which there are wisas, chasas, gharis, pahars, lunar and week days, and months;
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 So, O Nanak, there is but one God, although His forms are many.
 
@@ -82,7 +82,7 @@ Prostrate thyself before him—this is a greatly religious act.
 The infidel knoweth not the taste of God's essence; he beareth the thorn of pride in his heart.
 The more he moveth, the more it pricketh him, and the more pain he feeleth: his head shall feel death's mace.
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 The saints of God are absorbed in God's name, and have destroyed the pain and fear of transmigration.
 They have found God the imperishable Being, and great honour is theirs in the earth's continents and the universe.
@@ -101,7 +101,7 @@ Thou shalt find a home with comfort and peace in God's own palace, and not retur
 O God, Searcher of hearts, Arranger,[^3] fulfil the desires of my heart.
 The slave Nanak craveth the happiness of being made the dust of the saints' feet.
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

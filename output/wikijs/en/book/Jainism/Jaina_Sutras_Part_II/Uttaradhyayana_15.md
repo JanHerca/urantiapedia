@@ -36,7 +36,7 @@ FIFTEENTH LECTURE. THE TRUE MONK [^186].
 
 He who adopts the Law in the intention to live as a monk, should live in company (with other monks), upright, and free from desire; he should abandon his former connections, and not longing for pleasures, he should wander about as an unknown beggar: then he is a true monk. (1)
 
-Free from love he should live, a model of <span id="p70">[<sup><small>p. 70</small></sup>]</span> righteousness [^187], abstaining from sins, versed in the sacred lore, protecting his soul (from every wrong), wise, hardy, observing everything; he who is attached to nothing, is a true monk. (2)
+Free from love he should live, a model of <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> righteousness [^187], abstaining from sins, versed in the sacred lore, protecting his soul (from every wrong), wise, hardy, observing everything; he who is attached to nothing, is a true monk. (2)
 
 Ignorant of abuse and injury, a steadfast monk should be a model of righteousness, always protecting his soul (from sins), neither rash nor passionate; when he endures everything, then he is a true monk. (3)
 
@@ -46,7 +46,7 @@ He does not expect respectful treatment, nor hospitality, nor reverence, nor, in
 
 If he does not care for his life, or abandons every delusion, if he avoids men and women, always practises austerities, and does not betray any curiosity, then he is a true monk. (6)
 
-He who does not profess and live on divination from cuts and shreds [^188], from sounds on the earth or in the air, from dreams, from diagrams, sticks, and <span id="p71">[<sup><small>p. 71</small></sup>]</span> properties of buildings, from changes in the body, from the meaning [^189] of the cries (of animals)—he is a true monk. (7)
+He who does not profess and live on divination from cuts and shreds [^188], from sounds on the earth or in the air, from dreams, from diagrams, sticks, and <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> properties of buildings, from changes in the body, from the meaning [^189] of the cries (of animals)—he is a true monk. (7)
 
 Spells, roots, every kind of medical treatment, emetics, purgatives, fumigation, anointing of the eye, and bathing, the patient's lamentation, and his consolation—he who abstains from all these things, is a true monk. (8)
 
@@ -54,7 +54,7 @@ He who does not praise, or pay attention to, the warriors, Ugras [^190], princes
 
 He who does not, for earthly gain, improve his acquaintance with householders, with whom he fell in as a monk, or was in friendly relation before that time, he is a true monk. (to)
 
-A Nirgrantha is forbidden to take from householders, if they do not give it themselves, bed, lodging, <span id="p72">[<sup><small>p. 72</small></sup>]</span> drink, food, or any dainties and spices; he who is not angry at such occasions, he is a true monk. (11)
+A Nirgrantha is forbidden to take from householders, if they do not give it themselves, bed, lodging, <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> drink, food, or any dainties and spices; he who is not angry at such occasions, he is a true monk. (11)
 
 If a monk gets any food and drink, or dainties and spices, and does not feel compassion (on a sick fellow-monk) in thoughts, words, and deeds, (then he is not a true monk) [^191]; but if he has his thoughts, words, and acts under strict discipline, then he is a true monk. (12)
 
@@ -62,7 +62,7 @@ Dish-water [^192], barley-pap, cold sour gruel [^193], water in which barley has
 
 There are many voices on the earth, of gods, of men, and of beasts, dreadful, frightful, and awful noises; if he hears them without trembling, then he is a true monk. (14)
 
-He who understands all religious disputations, \[who lives together with fellow-monks\] [^194], who practises self-discipline [^195], who meditates on his soul, who is wise, hardy, and observes everything, who <span id="p73">[<sup><small>p. 73</small></sup>]</span> is calm, and does not hurt anybody, he is a true monk. (15)
+He who understands all religious disputations, \[who lives together with fellow-monks\] [^194], who practises self-discipline [^195], who meditates on his soul, who is wise, hardy, and observes everything, who <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> is calm, and does not hurt anybody, he is a true monk. (15)
 
 He who, not living by any art, without house,
 

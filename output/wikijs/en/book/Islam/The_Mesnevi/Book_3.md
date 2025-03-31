@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 ## III. The Jewish King, Persecutor of the Christians.[^79]
 
@@ -55,7 +55,7 @@ The master quick rejoined: “Look now; break one; halt! halt!”
 As soon as one was broken, both were gone from sight.
 Poor squint-eye nearly lost his wits in childish fright.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 There was but one; his eyes were cause that he saw two.
 The one away, the other consequently was gone too.
@@ -91,7 +91,7 @@ Then let an intercessor plead,—some prince,—your queen.
 Let all this happen where some spacious public place
 May let all see, that all may know of my disgrace.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Then drive me forth; away from thee in exile sent;
 And they'll receive me, under feint of sorrow bent.
@@ -125,7 +125,7 @@ His doctrine take to heart; nought else have you to fear.”
 The Vazīr having laid this plot before the King,
 All shame and scruple vanished; ’twas a perfect thing.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 In presence of the public, nose, ears were cut off.
 The rabble wondered greatly; now's the time to scoff.
@@ -162,7 +162,7 @@ Like hawks and eagles, heinous sins make us their prey.
 Thou shieldest us, O gracious God! But ever still,
 With froward hearts and minds we counteract Thy will.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 This world's a granary, of which we steal the corn.
 <sup id="v55"><small>55</small></sup>  The wheat is there all garnered; we it spoil in scorn.
@@ -198,7 +198,7 @@ To wander. Judge and judgment, then, it does not see.
 By night the pris’ner loses sense of bars, of chains;
 By night the monarch knows no state, no pomp retains;
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 The merchant counts no more, in sleep, his gains and loss;
 <sup id="v70"><small>70</small></sup>  The prince and peasant, equal, on their couches toss.
@@ -230,7 +230,7 @@ Attests the truth: “Sleep is death's brother,”[^89] to all men.
 But lest-it should escape, and not come back at call,
 A tether to it's bound; it's not quite free withal.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 It must come back by day from roaming where it wills,
 The cares of life to bear;—a burthen that soon kills.
@@ -262,7 +262,7 @@ Who begs of fancy; parleys with it, even. Pish!
 A demon in his sleep he sees; an angel deems.[^92]
 <sup id="v95"><small>95</small></sup>  Through lust he swoons with sensual pleasure as he dreams.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 His seed he sows in sandy, salt, and desert land;
 And wakes to find no harvest's ripened to his hand.
@@ -298,7 +298,7 @@ Inquire of his and my friend, great Husāmu-’d-Dīn.[^96]
 While on thy way, should envy seize thee by the throat,
 <sup id="v110"><small>110</small></sup>  Know, Satan's sin was envy; malice made him gloat.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 He envied Adam's rise to such sublime estate.
 He wars with all who're good, through envy and through hate.
@@ -332,7 +332,7 @@ Abase thyself; a champion be of theirs. Amen.
 Be not a cut-throat, like that Vazīr, of men's faith;
 <sup id="v125"><small>125</small></sup>  Seek not to turn believing souls from what God saith.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 That Vazīr seemed a pastor of the truth, in sham;
 As one who bitter aloes mixed in sweet plum jam.
@@ -366,7 +366,7 @@ But venture not too near it; black is its surcease.
 The lightning flashes brightly, shining as it flies
 But oft, alas, it strikes man blind, or dead he lies.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Be wise betimes; for “he that's void of common sense,
 Is like the ox with yoke on neck.” So ‘Alī,—Hence!
@@ -403,7 +403,7 @@ With penitence, with fasting made, and prayer, to clash.
 A second taught that fasting did no good at all;
 That charity, beneficence, was all in all.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 A third explained: “Thy fasting,—charity itself,-
 Syntheism[^101] is. With God, thou deifiest thyself.
@@ -434,7 +434,7 @@ Renounce. The world, and more, thou’lt dream of in thy trance.”
 A tenth assures: “That which the Lord hath given to man,
 God hath made pleasant to the eyes. Deny, who can.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Take what is thine. Avert thee not; ’tis folly still
 To take to groaning, moaning, when all's at thy will.”
@@ -471,7 +471,7 @@ Who teaches two exist, is but a squint-eye, he.”
 The last gave out: “A hundred really are but one.”
 Unless a madman, whom could have such doctrines won?
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 In them these paradoxes fitly found their place,
 <sup id="v185"><small>185</small></sup>  In words and sense his doctrines lacked all claim to grace.
@@ -539,7 +539,7 @@ Th’ Almighty One, who with one breath, one word, did bring
 Ten thousand worlds, besides, disclose themselves to sight,
 If thou direct thy vision towards the God of Light.
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 In man's esteem the world is vast, without an end;
 With Power Infinite compared, a grain of sand.
@@ -571,7 +571,7 @@ By God, in punishment, to Venus’ star was changed.[^105]
 From woman into Venus? Sure, that change was sad.
 To dust and ashes turn. Less shame in this. Art mad?
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Thy soul it is must lift thee to heaven's highest home;
 <sup id="v225"><small>225</small></sup>  The flesh can but consign thee deep to hell's dark dome.
@@ -606,7 +606,7 @@ Though sophistlike I rave, ’tis unto Him I turn.
 Another stratagem the Vazīr next conceived;
 From public life withdrew, and solitude achieved.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Admiring followers all were fain to mourn his loss;
 For forty days, and more, in cell he bore his cross.
@@ -643,7 +643,7 @@ Heaven's mercy, save us; or, we perish, we enrage!”
 To them he thus: “O men of little sense, take heed;
 You foolishly are seeking elsewhere what you need.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 Your ears stop up with wool; list not to speech of man;
 <sup id="v255"><small>255</small></sup>  The mote that blinds your eyes cast out. Then, see you can.
@@ -675,7 +675,7 @@ But true sublimity's God's attribute. We sigh.
 The food of every bird He gives in providence
 He says whose figs devoured shall be these ten days hence.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Who ’d give, in lieu of mother's milk, to infants, bread,
 Would kill them with improper food before them spread.
@@ -710,7 +710,7 @@ But our remonstrance is a truly piteous cry.
 We weep our eyes out through our grief thee not to see,
 With sighs our hearts burst, vainly looking out for thee.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 An infant quarrels not with its attentive nurse;
 And yet it weeps, through knowing not what's good from worse.
@@ -745,7 +745,7 @@ Like unborn babe in mother's womb, till time be full.
 Before almighty power creation stands in wait,
 As canvas ’fore the needle ’broiderer's hand may mate.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 A demon here, an angel there, or man, is bid
 <sup id="v300"><small>300</small></sup>  To be; now joy, now sorrow, rises up amid.
@@ -779,7 +779,7 @@ I'll righteousness ensue, all trespasses abjure.’
 By this thou seest that sickness is not all an ill.
 ’Tis but a time for waking conscience good to will.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 Know then the aphorism, O seeker after truth,—
 <sup id="v315"><small>315</small></sup>  Whoe’er thou be, to whom scent of it may give ruth:
@@ -813,7 +813,7 @@ The goods of worldly life they choose. Then be it so.
 The prophets are of race from heaven deriving birth;
 To heaven they tend with heart and soul while here on earth.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 ’Twould never end the branches of this theme to count.
 <sup id="v330"><small>330</small></sup>  So let us sip again from our old story's fount.
@@ -851,7 +851,7 @@ Behold this scroll; take, study it; thyself instruct,
 Thus one by one their minds prepared were to be chief:
 <sup id="v345"><small>345</small></sup>  “’Tis thou’rt the chosen one; all else would be a thief.”
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 He named them each successor; made them so to feel.
 Whate’er he told to one, to each did he reveal.
@@ -882,7 +882,7 @@ Whom he'd appointed in his place their way to show.
 Whom must we recognise successor to our saint?
 Into whose hands commit the task of our restraint?
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 He was a sun of light; his fire hath turned to fume,
 A candle now we need our darkness to illume.
@@ -918,7 +918,7 @@ Behind it hid thou’lt find God's unity—thy gains.
 If thou the body vex not,—bring not low betimes,
 The flesh will thee destroy, my friend, in fiery flames.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 The flesh it is that shows itself to human heart;
 The flesh it is demands asceticism's sharp smart.
@@ -955,7 +955,7 @@ The dead Vazīr's successorship is mine to-day!”[^113]
 A second captain started up, as from ambush;
 Contested all those words; his own claim then did push.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Forth from his bosom he another scroll produced,
 And then the people's wrath flamed high; not soon reduced.
@@ -985,7 +985,7 @@ Prefer the company of those who spirit seek.
 A life without a soul or spirit in our frame,
 Like wooden sword in sheath, were but a senseless name.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 Within its sheath while kept, of value it may seem;
 When drawn, ’tis only fit for matchwood, men will deem,
@@ -1020,7 +1020,7 @@ The spirit ever leads to haunts of holy men;
 Beware! Feed thou thy soul with love from holy ground.
 Make haste! Seek means of grace from one who grace has found.
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 Petition make! Seize hold upon the skirts of saints.
 Through them thou’lt learn how God his favour grants.

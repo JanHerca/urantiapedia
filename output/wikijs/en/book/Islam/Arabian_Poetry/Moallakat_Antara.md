@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/05400.jpg) HAVE the bards who preceded me left any theme unsung? _What, therefore, shall be my subject? Love only must supply my lay_. Dost thou then recollect, after long consideration, the mansion of thy beloved?
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. I felt myself attached to her at our first interview, although I had slain her countrymen in battle: I assure thee, by the life of thy father, that of my attachment there can be no doubt.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 8\. _Thou hast possessed thyself of my heart;_ thou hast fixed thy abode in it (imagine not that I delude thee), and art settled there as a beloved and cherished inhabitant.
 
@@ -66,7 +66,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 15\. Or like the scent of a blooming bower, whose plants the gentle rains have kept in continual verdure, which no filth has sullied, and to which there has been no resort:
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 16\. Every morning-cloud, clear of hail, has drenched it with a plentiful shower, and has left all the little cavities in the earth both round and bright as coins of silver:
 
@@ -84,7 +84,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 23\. She waves her tail in her playful mood, and proudly moves her body from side to side, even at the end of her nightly excursion: she strikes the hills with her quickly-moving and firmly-trampling hoofs.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 24\. Thus the bird without ears, between whose feet there is but a small space, _the swift ostrich_ beats the ground in his evening course.
 
@@ -104,7 +104,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 32\. _When she rests_, she crouches on the soft bank of Ridaa, and groans through fatigue, like the soft sounding reed, which she presses with her weight.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 33\. _Her sweat_ resembles thick rob or tenacious pitch, which the kindled fire causes to bubble in the sides of a caldron;
 
@@ -124,7 +124,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 41\. And when I return to sobriety, the dew of my liberality continues as fresh as before: give due honour, therefore, to those qualities which thou knowest me to possess.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 42\. Many a consort of a fair one, whose beauty required no ornaments, have I left prostrate on the ground; and the life-blood has run sounding from his veins, opened by my javelin, like the mouth of a camel with a divided lip:
 
@@ -142,7 +142,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 49\. Has this arm laid prone with a rapid blow from a well-straightened javelin, firm between the knots:
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 50\. Broad were the lips of the wound; and the noise of the rushing blood called forth the wolves, prowling in the night, and pinched with hunger:
 
@@ -160,7 +160,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 57\. Then I fixed him with my lance; I struck him to the heart with an Indian scimitar, the blade of which was of a bright water, and rapid was the stroke it gave:
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 58\. A warrior, whose armour seemed to be braced on a lofty tree; a chief, who, like a king, wore sandals of leather stained with Egyptian thorn: a hero, without an equal.
 
@@ -180,7 +180,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 66\. When my tribe has placed me as a shield between them and the hostile spears, I have not ignobly declined the danger, although the place where I fixed my foot was too narrow to admit a companion.
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 67\. When I heard the din of Morra raised in the field, and the sons of Rabeia in the thick dust;
 
@@ -200,7 +200,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 75\. Had he known the art of discourse, he would have addressed me in a plaintive strain; and had he possessed the faculty of speech, he would have spoken to me distinctly.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 76\. In the midst of the black dust, the horses were impetuously rushing with disfigured countenances; every robust stallion and every strong-limbed short-haired male.
 

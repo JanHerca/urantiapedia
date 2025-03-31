@@ -31,7 +31,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 ## ALL THE ASAVAS. SABBÂSAVA-SUTTA.
 
@@ -51,7 +51,7 @@ Then the Blessed One spake:
 
 ‘I say that there is destruction of the Âsavas, brethren, to him who knows, to him who sees; not to him who knows not, to him who sees not. And what do I say, brethren, is the destruction of the Âsavas to him who knows, to him who sees? It is (a matter of) wise consideration, and of foolish consideration.
 
-3\. 'In him, brethren, who considers unwisely, Âsavas which have not arisen spring up, and Âsavas which have arisen are increased. In him, brethren, who considers wisely, Âsavas which have not arisen <span id="p297">[<sup><small>p. 297</small></sup>]</span> spring not up, and Âsavas which have arisen do not increase.
+3\. 'In him, brethren, who considers unwisely, Âsavas which have not arisen spring up, and Âsavas which have arisen are increased. In him, brethren, who considers wisely, Âsavas which have not arisen <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> spring not up, and Âsavas which have arisen do not increase.
 
 ---
 
@@ -65,7 +65,7 @@ Then the Blessed One spake:
 
 6\. 'And which, brethren, are those things which he should not consider, which he nevertheless considers?
 
-‘There are things which, when a man considers them, the Âsava of Lust springs up within him, which had not sprung up before; and the Âsava of Lust, which had sprung up, grows great; the Âsava of <span id="p298">[<sup><small>p. 298</small></sup>]</span> Life springs up within him, which had not sprung up before; and the Âsava of Life, which had sprung up, grows great; the Âsava of Ignorance springs up within him, which had not sprung up before; and the Âsava of Ignorance, which had sprung up grows great.
+‘There are things which, when a man considers them, the Âsava of Lust springs up within him, which had not sprung up before; and the Âsava of Lust, which had sprung up, grows great; the Âsava of <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> Life springs up within him, which had not sprung up before; and the Âsava of Life, which had sprung up, grows great; the Âsava of Ignorance springs up within him, which had not sprung up before; and the Âsava of Ignorance, which had sprung up grows great.
 
 ‘These are the things which ought not to be considered, things which he considers.
 
@@ -81,7 +81,7 @@ Then the Blessed One spake:
 
 9\. 'Unwisely doth he consider thus:
 
-‘"Have I existed during the ages that are past, or have I not? What was I during the ages that are past? How was I during the ages that are <span id="p299">[<sup><small>p. 299</small></sup>]</span> past? Having been what, what did I become in the ages that are past? Shall I exist during the ages of the future, or shall I not? What shall I be during the ages of the future? How shall I be during the ages of the future? Having been what, what shall I become during the ages of the future?”
+‘"Have I existed during the ages that are past, or have I not? What was I during the ages that are past? How was I during the ages that are <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> past? Having been what, what did I become in the ages that are past? Shall I exist during the ages of the future, or shall I not? What shall I be during the ages of the future? How shall I be during the ages of the future? Having been what, what shall I become during the ages of the future?”
 
 ‘Or he debates within himself as to the present:
 
@@ -101,7 +101,7 @@ Do I after all exist, or am I not? How am I? This is a being; whence now did it 
 
 11\. 'This, brethren, is called the walking in delusion, the jungle of delusion[^3], the wilderness of delusion, the puppet show of delusion, the writhing of delusion, the fetter of delusion.
 
-12\. 'Bound, brethren, with this fetter of delusion, <span id="p300">[<sup><small>p. 300</small></sup>]</span> he ignorant unconverted man becomes not freed from birth, decay, and death, from sorrows, lamentations, pains, and griefs, and from expedients[^4]—he does not become free, I say, from pain.
+12\. 'Bound, brethren, with this fetter of delusion, <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> he ignorant unconverted man becomes not freed from birth, decay, and death, from sorrows, lamentations, pains, and griefs, and from expedients[^4]—he does not become free, I say, from pain.
 
 ---
 
@@ -113,7 +113,7 @@ Do I after all exist, or am I not? How am I? This is a being; whence now did it 
 
 ‘These are the things which ought not to be considered, things which he considers.
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span> 5\. 'And which, brethren, are those things which should be considered, and which he does consider?
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span> 5\. 'And which, brethren, are those things which should be considered, and which he does consider?
 
 ‘There are things, brethren, which, when a man considers them, the Âsava of Lust, if it had not sprung up before, springs not up within him; and the Âsava of Lust, which had sprung up, is put away; the Âsava of Life, if it had not sprung up before, springs not up within him; and the Âsava of Life, which had sprung up, is put away; the Âsava of Ignorance, if it had not sprung up before, springs not up within him; and the Âsava of Ignorance, which had sprung up, is put away.
 
@@ -129,7 +129,7 @@ These are the Âsavas, brethren, which are to be abandoned by insight.
 
 18\. 'And which are the Âsavas to be abandoned by subjugation (samvarâ)?
 
-‘Herein, brethren, a Bhikkhu, wisely reflecting, <span id="p302">[<sup><small>p. 302</small></sup>]</span> remains shut in by the subjugation of the organ of Sight. For whereas to the man not shut in by the subjugation of the organ of sight Âsavas may arise, full of vexation and distress, to the man shut in by the subjugation of the organ of sight the Âsavas, full of vexation and distress, are not.
+‘Herein, brethren, a Bhikkhu, wisely reflecting, <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> remains shut in by the subjugation of the organ of Sight. For whereas to the man not shut in by the subjugation of the organ of sight Âsavas may arise, full of vexation and distress, to the man shut in by the subjugation of the organ of sight the Âsavas, full of vexation and distress, are not.
 
 19\. 'Wisely reflecting, he remains shut in by the subjugation of the organ of Hearing. For whereas to the man not shut in by the subjugation of the organ of hearing Âsavas may arise, full of vexation and distress, to the man shut in by the subjugation of the organ of hearing the Âsavas, full of vexation and distress, are not.
 
@@ -137,7 +137,7 @@ These are the Âsavas, brethren, which are to be abandoned by insight.
 
 21\. 'Wisely reflecting, he remains shut in by the subjugation of the organ of Taste. For whereas to the man not shut in by the subjugation of the organ of taste Âsavas may arise, full of vexation and distress, to the man shut in by the subjugation of the organ of taste the Âsavas, full of vexation and distress, are not.
 
-22\. ‘Wisely reflecting, he remains shut in by the subjugation of the organ of Touch. For whereas to the man not shut in by the subjugation of the organ of touch Âsavas may arise, full of vexation and distress, to the man shut in by the subjugation of the organ of touch the Âsavas, full of vexation and distress, are not. <span id="p303">[<sup><small>p. 303</small></sup>]</span> 3\. ’Wisely reflecting, he remains shut in by the subjugation of the organ of Mind. For whereas to the man not shut in by the subjugation of the organ of mind Âsavas may arise, full of vexation and distress, to the man shut in by the subjugation of the organ of mind the Âsavas, full of vexation and distress, are not.
+22\. ‘Wisely reflecting, he remains shut in by the subjugation of the organ of Touch. For whereas to the man not shut in by the subjugation of the organ of touch Âsavas may arise, full of vexation and distress, to the man shut in by the subjugation of the organ of touch the Âsavas, full of vexation and distress, are not. <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> 3\. ’Wisely reflecting, he remains shut in by the subjugation of the organ of Mind. For whereas to the man not shut in by the subjugation of the organ of mind Âsavas may arise, full of vexation and distress, to the man shut in by the subjugation of the organ of mind the Âsavas, full of vexation and distress, are not.
 
 ‘These, brethren, are called the Âsavas to be abandoned by subjugation.
 
@@ -151,7 +151,7 @@ These are the Âsavas, brethren, which are to be abandoned by insight.
 
 26\. 'Wisely reflecting, he makes use of an abode; only to ward off cold, to ward off heat, to ward off the contact of gad-flies and mosquitoes, of wind and sun, and snakes; only to avoid the dangers of the climate, and to secure the delight of privacy.
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 27\. ’Wisely reflecting, he makes use of medicine and other necessaries for the sick; only to ward off the pain that causes injury, and to preserve his health.
 
@@ -173,7 +173,7 @@ These are the Âsavas, brethren, which are to be abandoned by insight.
 
 31\. 'And which, brethren, are the Âsavas to be abandoned by avoidance[^8]?
 
-‘Herein, brethren, a Bhikkhu wisely reflecting, avoids a rogue elephant, he avoids a furious horse, be avoids a wild bull, he avoids a mad dog, a snake, a stump in the path, a thorny bramble, a pit, a precipice, a dirty tank or pool. When tempted to <span id="p305">[<sup><small>p. 305</small></sup>]</span> it in a place where one should not sit, or to walk where one should not walk, or to cultivate the acquaintance of bad companions, he is skilled to shun the evil: and wisely reflecting he avoids that, as a place whereon one should not sit, that, as a place wherein one should not walk, those men, as companions that are bad.
+‘Herein, brethren, a Bhikkhu wisely reflecting, avoids a rogue elephant, he avoids a furious horse, be avoids a wild bull, he avoids a mad dog, a snake, a stump in the path, a thorny bramble, a pit, a precipice, a dirty tank or pool. When tempted to <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> it in a place where one should not sit, or to walk where one should not walk, or to cultivate the acquaintance of bad companions, he is skilled to shun the evil: and wisely reflecting he avoids that, as a place whereon one should not sit, that, as a place wherein one should not walk, those men, as companions that are bad.
 
 32\. 'For whereas, brethren, to the man who avoideth not, Âsavas may arise, full of vexation and distress; to him who avoids, the Âsavas, full of vexation and distress, are not.
 
@@ -193,7 +193,7 @@ These are the Âsavas, brethren, which are to be abandoned by insight.
 
 35\. 'And which, brethren, are the Âsavas to be abandoned by cultivation[^10]?
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 ‘[^11]Herein, brethren, a Bhikkhu, wisely reflecting, cultivates that part of the higher wisdom called Mindfulness, dependent on seclusion, dependent on passionlessness, dependent on the utter ecstasy of contemplation, resulting in the passing off of thoughtlessness.
 
@@ -205,7 +205,7 @@ These are the Âsavas, brethren, which are to be abandoned by insight.
 
 ---
 
-38\. 'And then when a Bhikkhu has by insight put away the Âsavas to be abandoned by insight, and by subjugation has put away the Âsavas to be abandoned by subjugation, and by right use has put away the Âsavas to be abandoned by right use, and by endurance has put away the Âsavas to be abandoned by endurance, and by avoidance has put away the Âsavas to be abandoned by avoidance, <span id="p307">[<sup><small>p. 307</small></sup>]</span> and by removal has put away the Âsavas to be abandoned by removal, and by cultivation has put away the Âsavas to be abandoned by cultivation—that Bhikkhu, brethren, remains shut in by the subjugation of the Âsavas, he has destroyed that Craving Thirst, by thorough penetration of mind he has rolled away every Fetter, and he has made an end of Pain.’
+38\. 'And then when a Bhikkhu has by insight put away the Âsavas to be abandoned by insight, and by subjugation has put away the Âsavas to be abandoned by subjugation, and by right use has put away the Âsavas to be abandoned by right use, and by endurance has put away the Âsavas to be abandoned by endurance, and by avoidance has put away the Âsavas to be abandoned by avoidance, <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> and by removal has put away the Âsavas to be abandoned by removal, and by cultivation has put away the Âsavas to be abandoned by cultivation—that Bhikkhu, brethren, remains shut in by the subjugation of the Âsavas, he has destroyed that Craving Thirst, by thorough penetration of mind he has rolled away every Fetter, and he has made an end of Pain.’
 
 ---
 

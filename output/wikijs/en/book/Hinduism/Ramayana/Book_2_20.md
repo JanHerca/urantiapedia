@@ -113,7 +113,7 @@ Wouldst grant my first aud second prayer.
 Those offered boons, pledged with thee then,
 I now demand, O King of men,
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 Of thee, O Monarch, good and just,
 Whose righteous soul observes each trust.
@@ -236,7 +236,7 @@ The pride of Manu's race he binds
 To him the people's grateful minds.
 He wins the subjects with his truth,
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 The poor with gifts and gentle ruth,
 His teachers with his docile will,
@@ -360,7 +360,7 @@ To people, lord, and Bharat too.
 O wicked traitress, fierce and vile,
 Who lovest deeds of sin and guile,
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 What crime or grievance dost thou see,
 What fault in Ráma or in me?
@@ -485,7 +485,7 @@ Soon wilt thou rule as empress o'er
 My noble house unvext before.
 But then to wild confusion left,
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 Of Ráma and of me bereft.
 If Bharat to thy plan consent
@@ -598,7 +598,7 @@ With anger raging in his breast,
 Sank for a while beneath the pain,
 Then to Kaikeyí spoke again:
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ‘Childless so long, at length I won,
 With mighty toil, from Heaven a son,
@@ -718,7 +718,7 @@ With texts, before the sacred flame,
 Thee and thy son, I scorn and hate,
 And all at once repudiate.
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 The night is fled: the dawn is near:
 Soon will the holy priests be here
@@ -843,7 +843,7 @@ The praises of his lord and king:
 The sparkling sea delights our eyes,
 Wake, calm with gentle soul, and thus
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Give rapture, mighty King, to us.
 As Mátali  [^279] this selfsame hour
@@ -965,7 +965,7 @@ With milky branches overlaid,
 All brimming from each sacred flood,
 And decked with many a lotus bud
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 And dancing-women fair and free,
 Gay with their gems, were there to see,
@@ -1091,7 +1091,7 @@ Or thronged the prince's rich abode,
 And with delight his bosom swelled
 As onward still his course he held
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Through many a sumptuous court
 Like Indra's palace nobly made,
@@ -1212,7 +1212,7 @@ Thine by thy father's high decree,
 As He, the worlds who formed and planned,
 The kingship gave to Indra's hand.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Then shall mine eyes my king adore
 When lustral rites and fast are o'er,
@@ -1331,7 +1331,7 @@ And loving care to us have shown:
 Thus blest shall we and ours remain,
 Yea still more blest in Ráma's reign.
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 No more of dainty fare we need,
 And but one cherished object heed,
@@ -1453,7 +1453,7 @@ The sire to whom he owes his birth
 Should be his deity on earth.
 Hast thou, by pride and folly moved,
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 With bitter taunt the king reproved?
 Has scorn of thine or cruel jest
@@ -1580,7 +1580,7 @@ That his own lips have not expressed
 His will, nor made his longing known
 That Bharat should ascend the throne.
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 To Bharat I would yield my wife,
 My realm and wealth, mine own dear life,
@@ -1706,7 +1706,7 @@ Upon the splendid hero's face.
 Nor had the chieftain, mighty-armed.
 Lost the bright look all hearts that charmed,
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 As e'en from autumn moons is thrown
 A splendour which is all their own.
@@ -1817,7 +1817,7 @@ Her hero son, her matchless boy
 She blessed him in her pride and joy
 &nbsp;&nbsp;&nbsp;&nbsp;With tender words, and said:
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 “Be like thy royal sires of old,
 The nobly good, the lofty-souled!
@@ -1942,7 +1942,7 @@ The floods of Rain-time on it burst.
 &nbsp;&nbsp;&nbsp;&nbsp;I mourning, like a cow bereaved,
 &nbsp;&nbsp;&nbsp;&nbsp;Had been this day among the dead.”
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 
 

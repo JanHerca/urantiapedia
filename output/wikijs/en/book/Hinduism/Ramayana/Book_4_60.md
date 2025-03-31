@@ -96,7 +96,7 @@ So skilled in arts of dance and song.
 But say what cause your steps has led
 The mazes of this grove to tread.
 
-<span id="p383">[<sup><small>p. 383</small></sup>]</span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 How, strangers did ye chance to spy
 The wood concealed from wanderer's eye?
@@ -216,7 +216,7 @@ On you, in lore of counsel tried,
 Our king Sugríva most relied.
 Your hearts, with strong affection fraught,
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 His weal in every labour sought,
 And the true valour of your band
@@ -319,7 +319,7 @@ To cleave the mountain like a flower.
 O Angad, mark my counsel well:
 If in this cave thou choose to dwell,
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 
 
@@ -434,7 +434,7 @@ Most glorious and strong and bold.
 Upon the slope of Vindhya's hill
 He saw the Vánars calm and still.
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 These words he uttered while the sight
 Filled his fierce spirit with delight:
@@ -551,7 +551,7 @@ Were formed by Maya's magic skill.
 Through the dark maze our steps were bent,
 And wandering there a month we spent,
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 And lost, in fruitless error, thus
 The days our king allotted us.
@@ -652,7 +652,7 @@ Swift through the fourth the falcon springs
 The fifth the slower vulture wings.
 Up to the sixth the gay swans rise,
 
-<span id="p388">[<sup><small>p. 388</small></sup>]</span>
+<span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 
 Where royal Vainateya  [1](Book_4_60#fn772) flies.
 We too, O chiefs, of vulture race,
@@ -765,7 +765,7 @@ And waters as they foamed along,
 And knew the lovely hill must be
 Mount Vindhya by the southern sea.
 
-<span id="p389">[<sup><small>p. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 Revered by heavenly beings, stood
 Near where I lay, a sacred wood,

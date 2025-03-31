@@ -29,7 +29,7 @@ dateCreated: 2025-2-4T22:17:56Z
   </table>
 </figure>
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 ## THE BENEDICTION OF ABBAS EFFENDI, THE PROPHET OF THE BAHAI RELIGION, TO THE AUTHOR OF THIS BOOK:
 

@@ -29,7 +29,7 @@ dateCreated: 2025-2-7T10:38:15Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 (These advertisements appeared at the end of the original book. This portion was transcribed for completeness. There were no page numbers in this section; the page numbers have been supplied for technical reasons.—JBH.)
 
@@ -47,7 +47,7 @@ The Rev. CANON G. H. BOX, M.A.
 
 THE object of the Series is to provide short, cheap, and handy text-books for students, either working by themselves or in classes. The aim is to furnish in translations important texts unencumbered by commentary or elaborate notes, which can be had in larger works.
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 ### FIRST SERIES
 
@@ -77,7 +77,7 @@ Palestinian-Jewish and Cognate Texts
 
 11\. The Testaments of Abraham, Isaac and Jacob. The Rev. Canon Box and S. Gazelee.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 ### FIRST SERIES—_continued_
 
@@ -105,7 +105,7 @@ Hellenistic-Jewish Texts
 
 7\. The Book of Joseph and Asenath. Translated from the Greek text by E. W. Brooks.
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 ### THIRD SERIES
 

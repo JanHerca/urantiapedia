@@ -32,14 +32,14 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 
 KING Suddhodana heard that his son had attained supreme knowledge and that he was living at Rajagriha, in the Bamboo Grove. He had a great desire to see him again, and he sent a messenger to him, with these words: “Your father, King Suddhodana, longs to see you, O Master.”
 
 When the messenger arrived at the Bamboo Grove, he found the Master addressing his disciples.
 
-“There is a forest clinging to the slope of a mountain, and at the foot of the mountain, a wide, deep pool. Wild beasts live on the banks of this pool. A man appears who would harm these beasts, who would make them suffer, who would let them die. He closes up the good path that leads away from the pool, the path that is safe to travel, and he opens up a treacherous path that ends in a dreadful swamp. The beasts are now in danger; one by one, they will perish. But let a man appear who, on the contrary, seeks the welfare of these wild beasts, who seeks their comfort, their prosperity. He will destroy the treacherous path <span id="p148">[<sup><small>p. 148</small></sup>]</span> that ends in a swamp, and he will open up a safe path that leads to the peaceful mountain top. Then the beasts will no longer be in danger; they will thrive and multiply. Now understand what I have told you, O disciples. Like these beasts on the banks of the wide, deep pool, man lives near the pleasures of the world. He who would do him harm, who would make him suffer, who would let him die, is Mara, the Evil One. The swamp wherein all beings perish is pleasure, desire, ignorance. He who seeks the welfare, the comfort, the prosperity of all is the Perfect One, the Saint, the blessed Buddha. It was I, O disciples, who opened up the safe path; it was I who destroyed the treacherous path. You will not go to the swamp; you will climb the mountain and reach the bright summit. All that a master can do who pities his disciples and who seeks their welfare, I have done for you, O my disciples.”
+“There is a forest clinging to the slope of a mountain, and at the foot of the mountain, a wide, deep pool. Wild beasts live on the banks of this pool. A man appears who would harm these beasts, who would make them suffer, who would let them die. He closes up the good path that leads away from the pool, the path that is safe to travel, and he opens up a treacherous path that ends in a dreadful swamp. The beasts are now in danger; one by one, they will perish. But let a man appear who, on the contrary, seeks the welfare of these wild beasts, who seeks their comfort, their prosperity. He will destroy the treacherous path <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> that ends in a swamp, and he will open up a safe path that leads to the peaceful mountain top. Then the beasts will no longer be in danger; they will thrive and multiply. Now understand what I have told you, O disciples. Like these beasts on the banks of the wide, deep pool, man lives near the pleasures of the world. He who would do him harm, who would make him suffer, who would let him die, is Mara, the Evil One. The swamp wherein all beings perish is pleasure, desire, ignorance. He who seeks the welfare, the comfort, the prosperity of all is the Perfect One, the Saint, the blessed Buddha. It was I, O disciples, who opened up the safe path; it was I who destroyed the treacherous path. You will not go to the swamp; you will climb the mountain and reach the bright summit. All that a master can do who pities his disciples and who seeks their welfare, I have done for you, O my disciples.”
 
 The messenger listened in a transport of delight. Then he fell at the Master's feet and said:
 
@@ -47,7 +47,7 @@ The messenger listened in a transport of delight. Then he fell at the Master's f
 
 The Master extended his hands and said: “Come, O monk.”
 
-The messenger stood up, and, suddenly, his clothes, of their own accord, took the shape and color of a monk's robe. He forgot everything, and <span id="p149">[<sup><small>p. 149</small></sup>]</span> the message that Suddhodana had entrusted to him was never delivered.
+The messenger stood up, and, suddenly, his clothes, of their own accord, took the shape and color of a monk's robe. He forgot everything, and <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> the message that Suddhodana had entrusted to him was never delivered.
 
 The king became weary of waiting for his return. Each day, the desire to see his son became more intense, and he sent another messenger to the Bamboo Grove. But for this man's return he also waited in vain. Nine times he sent messengers to the Blessed One, and nine times the messengers, upon hearing the sacred word, decided to remain and become monks.
 
@@ -57,7 +57,7 @@ Suddhodana finally summoned Udayin.
 
 “I shall go, my lord,” replied Udayin.
 
-He went. Long before he arrived at the Bamboo Grove, he had made up his mind to become a monk, but King Suddhodana's words had affected <span id="p150">[<sup><small>p. 150</small></sup>]</span> him deeply, and he thought, “I shall tell the Master of his father's grief. He will be moved to pity and will go to him.”
+He went. Long before he arrived at the Bamboo Grove, he had made up his mind to become a monk, but King Suddhodana's words had affected <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> him deeply, and he thought, “I shall tell the Master of his father's grief. He will be moved to pity and will go to him.”
 
 The Master was happy to see Udayin become one of his disciples.
 

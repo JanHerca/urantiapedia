@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 ## VI. The Greater (Spiritual) Warfare.
 
@@ -59,7 +59,7 @@ Then will it cease to burn: “He willed, and it befell!”[^179]
 Our fleshly lusts in us are but a part of hell;
 <sup id="v10"><small>10</small></sup>  Parts have the qualities of their universal.
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 The foot of God alone can stamp out hell's alarms.
 Who else but God supreme to bend such bow has arms?
@@ -92,7 +92,7 @@ When in thy mind's eye thou a beam hast, unconfessed?
 Cast out that beam; make clear thy eye from every mote;
 Then mayst thou entertain the hope to see his cote.”
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 Whoever shall his heart cleanse from all passions’ bale,
 <sup id="v25"><small>25</small></sup>  Will soon perceive therein a court and presence hale.
@@ -124,7 +124,7 @@ A friend that is not constant's better out of mind.
 When Rome's ambassador had heard those words so wise,[^189]
 His eager curiosity began to rise.
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 He sought for ‘Umer with redoubled zeal and zest;
 But in so doing lost his horse, and eke his chest.
@@ -161,7 +161,7 @@ Why then this tremor? It my every limb has bound.
 A ghostly awe is this; it's not a mortal fear.
 Most certainly it's not a dread of this man here.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 He who fears God has admonition of the Lord;
 Both men and demons stand in awe of his mere word.”
@@ -195,7 +195,7 @@ Her veil removed, the groom alone is at her call.
 Entranced are many Gnostic worshippers, I ween;
 Few gain admission to the presence-chamber scene.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ‘Umer told all the stations passed through by his soul;—
 Its flights, fights, tribulations, ere it was made whole.
@@ -233,7 +233,7 @@ Is seized with darkness of eclipse, like night amain.
 What is’t He says, by which the teeming eye of cloud
 Sheds forth its tears, as drops from water-skin unsewed?
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 What incantation to the earth addresses He,
 To make it produce cattle,—whose hides used may be?
@@ -268,7 +268,7 @@ Inside they're pearls of price, whose value knows no fall.
 Such men by nature are just like the musk-deer's pod;
 It's fed with blood of artery, musk it yields, through God.
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 Ask not how ’tis that outward blood can change like this;
 <sup id="v100"><small>100</small></sup>  Becoming musk when in the pod secreted ’tis.
@@ -301,7 +301,7 @@ Our acts are but the sequels of God's agencies.
 The letter, or the spirit, ’tis, our reason weighs.
 But both at once it cannot comprehend always.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Examining the spirit, letter we neglect;
 At one time forwards, backwards we cannot prospect.
@@ -335,7 +335,7 @@ Compulsion and election's difference to draw.
 Another hand also thou shakest when thou’rt near.
 Know: God it is creates the movement in them both;
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 And yet there's no resemblance in their motions loth.
 Thou’rt sorry that thou shakedst that man's hand anon,
@@ -369,7 +369,7 @@ In sleep, God's lethargy it is in which we sink.
 In weeping, we are clouds from which His mercy flows.
 In laughter, we're the flash with which His lightning glows.
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 In anger, we're reflections of the wrath of God.
 In amity, the mirrors of His favour's nod.
@@ -403,7 +403,7 @@ Thou art a partial,—seekest explanation still;
 Unless thy speech contain some use, propound it not;
 And if it have, objection quit; give what thou’st got.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Thanks are incumbent upon every mortal's head;
 Contention and sour looks are surely no one's bread.
@@ -441,7 +441,7 @@ The saints and prophets study; they were as thou art.
 Read thou it carefully; read, mark, digest its tales;
 Thy soul, like bird in cage, will long to break its rails.
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 The bird shut up, imprisoned in a little cage,
 That seeks not to get out, is ignorant, not sage.

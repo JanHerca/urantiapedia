@@ -36,7 +36,7 @@ NINTH LECTURE. THE PRAVRA<i>G</i>YÂ OF KING NAMI [^130].
 
 After (Nami) had descended from the world of the gods, and had been born as a man, he put an end to the influence of delusion, and remembered his former birth. (1)
 
-Remembering his former birth, king Nami <span id="p36">[<sup><small>p. 36</small></sup>]</span> became a Svaya<i>m</i>sa<i>m</i>buddha in the true Law, and placing his son on the throne he retired from the world. (2)
+Remembering his former birth, king Nami <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> became a Svaya<i>m</i>sa<i>m</i>buddha in the true Law, and placing his son on the throne he retired from the world. (2)
 
 After having enjoyed, in the company of the beautiful ladies of his seraglio, excellent pleasures which match those of the heavens, king Nami became enlightened and gave up his pleasures. (3)
 
@@ -52,7 +52,7 @@ On hearing this, the royal Seer Nami, pursuing his reasons and arguments, answer
 
 ‘In Mithilâ is the sacred [^132] tree Manôrama, full of leaves, flowers, and fruits, which sheds a cool shadow; this tree is always a favourite resort of many (birds). (9)
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ‘Now, as this sacred tree Manôrama is shaken by the storm, the birds, suffering, destitute of refuge, and miserable, scream aloud.’ (10)
 
@@ -74,7 +74,7 @@ Indra answered (see verse 11): (17)
 
 Nami answered (see verse 8): (19)
 
-‘Making Faith his fortress, Penance and Self-control the bolt (of its gate), Patience its strong wall, so that guarded in three ways [^135] it is impregnable; making Zeal his bow, its string Carefulness in walking (iriyâ), and its top (where the string is <span id="p38">[<sup><small>p. 38</small></sup>]</span> fastened) Content, he should bend (this bow) with Truth, piercing with the arrow, Penance, (the foe's) mail, Karman—(in this way) a sage will be the victor in battle and get rid of the Sa<i>m</i>sâra.' (20-22)
+‘Making Faith his fortress, Penance and Self-control the bolt (of its gate), Patience its strong wall, so that guarded in three ways [^135] it is impregnable; making Zeal his bow, its string Carefulness in walking (iriyâ), and its top (where the string is <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> fastened) Content, he should bend (this bow) with Truth, piercing with the arrow, Penance, (the foe's) mail, Karman—(in this way) a sage will be the victor in battle and get rid of the Sa<i>m</i>sâra.' (20-22)
 
 Indra answered (see verse 11): (23)
 
@@ -102,7 +102,7 @@ Nami answered (see verse 8): (33)
 
 ‘Fight with your Self; why fight with external foes? He who conquers himself through himself, will obtain happiness. (35)
 
-‘The five senses, anger, pride, delusion, and greed <span id="p39">[<sup><small>p. 39</small></sup>]</span> —difficult to conquer is one's self; but when that is conquered, everything is conquered [^137].' (36)
+‘The five senses, anger, pride, delusion, and greed <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> —difficult to conquer is one's self; but when that is conquered, everything is conquered [^137].' (36)
 
 Indra answered (see verse 11): (37)
 
@@ -122,7 +122,7 @@ Nami answered: (43)
 
 Indra answered: (45)
 
-“Multiply your gold and silver, your jewels and <span id="p40">[<sup><small>p. 40</small></sup>]</span> pearls, your copper, fine robes, and carriages, and your treasury; then you will be a true Kshattriya.” (46)
+“Multiply your gold and silver, your jewels and <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> pearls, your copper, fine robes, and carriages, and your treasury; then you will be a true Kshattriya.” (46)
 
 Nami answered: (47)
 
@@ -146,7 +146,7 @@ Throwing off the guise of a Brâhma<i>n</i>a, and making visible his true form, 
 
 “Bravo for your simplicity, O saint! bravo for your humility, O saint! bravo for your perfect patience! bravo for your perfect liberation! (57)
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 “Here (on earth) you are the highest man, Reverend sir, and hereafter you will be the highest; exempt from all blemishes you will reach Perfection, a higher state than which there is none in this world.” (58)
 

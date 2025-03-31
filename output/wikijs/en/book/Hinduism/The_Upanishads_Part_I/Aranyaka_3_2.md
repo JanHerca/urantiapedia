@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T22:0:10Z
   </table>
 </figure>
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 SECOND ADHYÂYA [^652].
 
@@ -48,7 +48,7 @@ SECOND ADHYÂYA [^652].
 
 5\. He who thus knows this self, which consists of sight, hearing, metre, mind, and speech, as like unto the days, obtains union, likeness, or nearness with the days, has sons and cattle, and lives his full age.
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 ## SECOND KHA<i>N</i><i>D</i>A.
 
@@ -71,7 +71,7 @@ SECOND ADHYÂYA [^652].
 9\. He who knows this self which consists of sight, hearing, metre, mind, and speech, as like unto syllables, obtains union, likeness, or nearness with the syllables, has sons and cattle, and lives his full age.
 
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 ## THIRD KHA<i>N</i><i>D</i>A.
 
@@ -93,7 +93,7 @@ SECOND ADHYÂYA [^652].
 
 9\. This has also been declared by a <i>Ri</i>shi (Rv. I, 115, 1):—
 
-10\. ‘The bright face of the gods arose, the eye of Mitra, Varu<i>n</i>a, and Agni; it filled heaven and earth <span id="p260">[<sup><small>p. 260</small></sup>]</span> and the sky,—the sun is the self of all that rests and moves.’
+10\. ‘The bright face of the gods arose, the eye of Mitra, Varu<i>n</i>a, and Agni; it filled heaven and earth <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> and the sky,—the sun is the self of all that rests and moves.’
 
 11\. ‘This I think to be the regular Sa<i>m</i>hitâ as conceived by me,’ thus said Bâdhva.
 
@@ -113,7 +113,7 @@ SECOND ADHYÂYA [^652].
 
 4\. Here it is clearly said that he has no luck in what he has learnt, and that he does not know the path of virtue.
 
-5\. Therefore let no one who knows this, lay the sacrificial fire (belonging to the Mahâvrata) for another, let him not sing the Sâmans of the Mahâvrata <span id="p261">[<sup><small>p. 261</small></sup>]</span> for another, let him not recite the Sastras of that day for another.
+5\. Therefore let no one who knows this, lay the sacrificial fire (belonging to the Mahâvrata) for another, let him not sing the Sâmans of the Mahâvrata <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> for another, let him not recite the Sastras of that day for another.
 
 6\. However, let him willingly do this for a father or for an Â<i>k</i>ârya; for that is done really for himself.
 
@@ -123,7 +123,7 @@ SECOND ADHYÂYA [^652].
 
 9\. Next, when the sun is seen pierced, and seems like the nave of a cart-wheel, when he sees his own shadow pierced, let him know then that it is so (as stated before, i. e. that he is going to die soon).
 
-10\. Next, when he sees himself in a mirror or in the water with a crooked head, or without a head [^665], or when his pupils are seen inverted [^666] or not straight, let him know then that it is so. <span id="p262">[<sup><small>p. 262</small></sup>]</span> 11\. Next, let him cover his eyes and watch, then threads are seen as if falling together [^667]. But if he does not see them, let him know then that it is so.
+10\. Next, when he sees himself in a mirror or in the water with a crooked head, or without a head [^665], or when his pupils are seen inverted [^666] or not straight, let him know then that it is so. <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> 11\. Next, let him cover his eyes and watch, then threads are seen as if falling together [^667]. But if he does not see them, let him know then that it is so.
 
 12\. Next, let him cover his ears and listen, and there will be a sound as if of a burning fire or of a carriage [^668]. But if he does not hear it, let him know then that it is so.
 
@@ -137,7 +137,7 @@ SECOND ADHYÂYA [^652].
 
 17\. If he sees a black man with black teeth, and that man kills him; or a boar kills him; a monkey jumps on [^671] him; the wind carries him along quickly; having swallowed gold he spits it out [^672]; he eats honey; he chews stalks; he carries a red lotus; he drives with asses and boars; wearing a wreath of red flowers (naladas) he drives a black cow with a black calf, facing the south [^673],
 
-18\. If a man sees any one of these (dreams), let <span id="p263">[<sup><small>p. 263</small></sup>]</span> him fast, and cook a pot of milk, sacrifice it, accompanying each oblation with a verse of the Râtri hymn (Rv. X, 12 7), and then, after having fed the Brâhma<i>n</i>as, with other food (prepared at his house) eat himself the (rest of the) oblation.
+18\. If a man sees any one of these (dreams), let <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> him fast, and cook a pot of milk, sacrifice it, accompanying each oblation with a verse of the Râtri hymn (Rv. X, 12 7), and then, after having fed the Brâhma<i>n</i>as, with other food (prepared at his house) eat himself the (rest of the) oblation.
 
 19\. Let him know that the person within all beings, not heard here [^674], not reached, not thought, not subdued, not seen, not understood, not classed, but hearing, thinking, seeing, classing, sounding, understanding, knowing, is his Self.
 
@@ -159,7 +159,7 @@ The mute consonants represent the up-breathing, the sibilants the down-breathing
 
 3\. Next comes this divine lute (the human body, made by the gods). The lute made by man is an imitation of it.
 
-4\. As there is a head of this, so there is a head of that (lute, made by man). As there is a stomach <span id="p264">[<sup><small>p. 264</small></sup>]</span> of this, so there is the cavity [^676] (In the board) of that. As there is a tongue of this, so there is a tongue [^677] in that. As there are fingers of this, so there are strings of that [^678]. As there are vowels of this, so there are tones of that. As there are consonants of this, so there are touches of that. As this is endowed with sound and firmly strung, so that is endowed with sound and firmly strung. As this is covered with a hairy skin, so that is covered with a hairy skin.
+4\. As there is a head of this, so there is a head of that (lute, made by man). As there is a stomach <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> of this, so there is the cavity [^676] (In the board) of that. As there is a tongue of this, so there is a tongue [^677] in that. As there are fingers of this, so there are strings of that [^678]. As there are vowels of this, so there are tones of that. As there are consonants of this, so there are touches of that. As this is endowed with sound and firmly strung, so that is endowed with sound and firmly strung. As this is covered with a hairy skin, so that is covered with a hairy skin.
 
 5\. Verily, in former times they covered a lute with a hairy skin.
 
@@ -171,7 +171,7 @@ The mute consonants represent the up-breathing, the sibilants the down-breathing
 
 ## SIXTH KHA<i>N</i><i>D</i>A.
 
-1\. Next K<i>ri</i>sh<i>n</i>a-Hârita [^679] confided this Brâhma<i>n</i>a [^680] concerning speech to him (his pupil): <span id="p265">[<sup><small>p. 265</small></sup>]</span> 2\. Pra<i>g</i>âpati, the year, after having sent forth all creatures, burst. He put himself together again by means of <i>kh</i>andas (Vedas). Because he put himself together again by means of <i>kh</i>andas, therefore (the text of the Veda) is called Sa<i>m</i>hitâ (put together).
+1\. Next K<i>ri</i>sh<i>n</i>a-Hârita [^679] confided this Brâhma<i>n</i>a [^680] concerning speech to him (his pupil): <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> 2\. Pra<i>g</i>âpati, the year, after having sent forth all creatures, burst. He put himself together again by means of <i>kh</i>andas (Vedas). Because he put himself together again by means of <i>kh</i>andas, therefore (the text of the Veda) is called Sa<i>m</i>hitâ (put together).
 
 3\. Of that Sa<i>m</i>hitâ the letter <i>n</i> is the strength, the letter sh the breath and self (Âtman).
 
@@ -183,7 +183,7 @@ The mute consonants represent the up-breathing, the sibilants the down-breathing
 
 7\. Sthavira Sâkalya said: ‘If we recite the verses according to the Sa<i>m</i>hitâ, and if we say the adhyâya of Mâ<i>n</i><i>d</i>ûkeya, then the letters <i>n</i> and sh have by this been obtained for us.’
 
-8\. Here the <i>Ri</i>shis, the Kâvasheyas [^683], knowing <span id="p266">[<sup><small>p. 266</small></sup>]</span> this, said: ‘Why should we repeat (the Veda), why should we sacrifice? We offer as a sacrifice breath in speech, or speech in breath. What is the beginning (of one), that is the end (of the other).’
+8\. Here the <i>Ri</i>shis, the Kâvasheyas [^683], knowing <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> this, said: ‘Why should we repeat (the Veda), why should we sacrifice? We offer as a sacrifice breath in speech, or speech in breath. What is the beginning (of one), that is the end (of the other).’
 
 9\. Let no one tell these Sa<i>m</i>hitâs (Ait. Âr. III, 1-III, 2) to one who is not a resident pupil, who has not been with his teacher at least one year, and who is not himself to become an instructor [^684]. Thus say the teachers, yea, thus say the teachers.
 
@@ -209,7 +209,7 @@ Then follow some more rules as to the reading of the Veda in general:
 
 19\. ‘This (the Veda thus learnt and studied) is the name of that Great Being; and he who thus knows the name of that Great Being, he becomes Brahman, yea, he becomes Brahman.’
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span> p. 268
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span> p. 268
 
 
 

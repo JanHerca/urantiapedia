@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/06700.jpg) HOLLA!—Awake, sweet damsel, and bring our morning draught in thy capacious goblet; nor suffer the rich wines of Enderein to be longer hoarded:
 
@@ -52,7 +52,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 9\. Surely our allotted hour of fate will overtake us; since we are destined to death, and death to us.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 10\. O stay a while, before we separate, thou lovely rider on camels, that we may relate to thee our sorrows, and thou to us thy delights!
 
@@ -90,7 +90,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 26\. That our days of prosperity, in which we have refused to obey the commands of kings, have been long and brilliant.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 27\. Many a chief of his nation, on whom the regal diadem has been placed, the refuge of those who implored his protection,
 
@@ -110,7 +110,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 35\. Surely hatred after hatred is manifested by thee, _O hostile chief!_ and thy secret rancour has been revealed:
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 36\. But we have inherited glory, as the race of Maad well knows; we have fought with valour till our fame has been illustrious.
 
@@ -130,7 +130,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 44\. Our scimitars, whose strokes are furiously interchanged, are as little regarded by us as twisted sashes in the hands of playful children.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 45\. Their armour and ours, stained reciprocally with our blood, seems to be dyed or painted with the juice of the crimson syringa-flower.
 
@@ -152,7 +152,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 54\. Oh, let no people be infatuated and violent against us; for we will requite their infatuation, which surpasses the folly of the most foolish!
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 55\. On what pretence, O Amru, son of Hinda, should we be subject to the sovereign whom thou wouldst place over us?
 
@@ -174,7 +174,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 64\. From Attab also and from Celthum we have received the inheritance transmitted from their progenitors.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 65\. By Dhu’lborra, of whose fame thou hast heard the report, have we been protected; and through him we protect those who seek our aid.
 
@@ -194,7 +194,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 73\. We succoured the right wing, when our troops engaged in combat, and our valiant brothers gave support to the left.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 74\. They made a fierce attack against the legions which opposed them, and we not less fiercely assailed the squadrons by which we were opposed.
 
@@ -214,7 +214,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 82\. On the morning of attack, we are borne into the field on short-haired steeds, which have been known to us from the time when we weaned them, and which we rescued from our foes after they had been taken.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 83.\* They rush to the fight, armed with breastplates of steel; they leave it with their manes dishevelled and dusty, and the reins, tied in knots, lie on their necks.
 
@@ -236,7 +236,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 92\. Behind us come our lovely, our charming damsels, whom we guard so vigilantly that they cannot be made captive, or even treated with disrespect:
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 93\. Fair maidens, descended from Josham the son of Becr, who comprise every species of beauty, both in the opinion of men and in truth.
 
@@ -256,7 +256,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 101.\* We seem, when our drawn scimitars are displayed, to protect mankind, as fathers protect their children.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 102.\* Our heroes roll the heads of their enemies, as the strong well-made youths roll their balls in the smooth vale.
 

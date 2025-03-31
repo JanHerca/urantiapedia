@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T12:27:9Z
   </table>
 </figure>
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 
 TWO young brahmans, Sariputra and Maudgalyayana, were living at that time in the city of Rajagriha. They were intimate friends and were both pupils of the hermit Sanjaya. To each other they had made this promise: “Whichever one of us first obtains deliverance from death will immediately tell the other.”
@@ -45,7 +45,7 @@ But then he thought:
 
 “This is not the proper time to question him. He is collecting alms; I must not disturb him. I shall follow him, and when he is satisfied with the offerings he has received, I shall approach and speak to him.”
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 The venerable Asvajit presently stopped asking for alms. Then Sariputra went up to him and greeted him in a friendly manner. Asvajit returned Sariputra's greeting.
 
@@ -65,7 +65,7 @@ The venerable Asvajit spoke this one sentence:
 
 Sariputra rejoiced at these words. It was as if the truth had been revealed to him. “All that is born has an end,” he thought. He thanked Asvajit, and, filled with hope, he went to find Maudgalyayana.
 
-“Friend,” said Maudgalyayana when he saw <span id="p143">[<sup><small>p. 143</small></sup>]</span> Sariputra, “friend, how serene is your countenance! How clear and radiant your glance! Have you obtained deliverance from death?”
+“Friend,” said Maudgalyayana when he saw <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> Sariputra, “friend, how serene is your countenance! How clear and radiant your glance! Have you obtained deliverance from death?”
 
 “Yes, friend. Near Rajagriha, there is a master who teaches deliverance from death.”
 

@@ -58,7 +58,7 @@ When it is said that Soma is bought for a goat, gold, &c., that it is re-bought 
 
 The Soma-plant, which is supposed to be bought from northern barbarians, is botanically described in an Âyur-vedic extract, quoted in the Dhûrtasvâmi-bhâshya<i>t</i>îkâ (MS. E.I.H. 531, p. 3b), as
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 _s<i>yâmâlâmlâ </i>k<i>yâmâlâmlâ </i>n<i>yâmâlâmlâ </i>k<i>yâmâlâmlâ </i>m_salâ, _s<i>yâmâlâmlâ </i>kh<i>yâmâlâmlâ </i>g_anam. ‘The creeper called Soma is dark, sour, without leaves, milky, fleshy on the surface, producing phlegm and vomiting, food for goats.’
 
@@ -86,7 +86,7 @@ All priestly performances take place on the northern side of the Vihâra.
 
 **Commentary.**
 
-Uttarata-upa<i>k</i>âra<i>h</i> has to be taken as a compound. Vihâra is explained as vihriyanteऽgnaya_h<i>k</i>n<i>k</i>k<i>k</i>s_e, i.e. the sacrificial ground. Upa<i>k</i>âra is explained as adhvaryvâdînâ_m<i>k</i>m_<i>k</i>ara_h_, and this sa<i>k</i><i>k</i>ara, according to Kâtyâyana I, 3, 42, is the path between the <i>K</i>âtvâla and Utkara, the Utkara being on the west, the pra<i>k</i>îtâs on the east of the Vihâra. Kâtyâyana I, 8, 26, expresses the same rule by uttarata-upa<i>k</i>âro ya<i>k</i><i>k</i>a_h_, the vihâra being the place where the ya<i>k</i><i>k</i>a takes place. <span id="p331">[<sup><small>p. 331</small></sup>]</span>
+Uttarata-upa<i>k</i>âra<i>h</i> has to be taken as a compound. Vihâra is explained as vihriyanteऽgnaya_h<i>k</i>n<i>k</i>k<i>k</i>s_e, i.e. the sacrificial ground. Upa<i>k</i>âra is explained as adhvaryvâdînâ_m<i>k</i>m_<i>k</i>ara_h_, and this sa<i>k</i><i>k</i>ara, according to Kâtyâyana I, 3, 42, is the path between the <i>K</i>âtvâla and Utkara, the Utkara being on the west, the pra<i>k</i>îtâs on the east of the Vihâra. Kâtyâyana I, 8, 26, expresses the same rule by uttarata-upa<i>k</i>âro ya<i>k</i><i>k</i>a_h_, the vihâra being the place where the ya<i>k</i><i>k</i>a takes place. <span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 <span id="an55"></span>
 
@@ -128,7 +128,7 @@ Sacrificial acts intended for the gods, should be performed by the priest toward
 
 ## SÛTRA LX.
 
-Sacrificial acts intended for the Fathers should be performed by the priest towards the south, after he has placed the Brahmanic cord over the right and <span id="p332">[<sup><small>p. 332</small></sup>]</span> under the left arm (prâ<i>k</i>înâvîtin), and turning towards the left.
+Sacrificial acts intended for the Fathers should be performed by the priest towards the south, after he has placed the Brahmanic cord over the right and <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> under the left arm (prâ<i>k</i>înâvîtin), and turning towards the left.
 
 <span id="an61"></span>
 
@@ -170,7 +170,7 @@ And let a man sacrifice with the Paur<i>n</i>amâsyâ sacrifice at the time of t
 
 **Commentary.**
 
-Here the full moon is called paur<i>n</i>amâsî, the sacrifice paur<i>n</i>amâsyâ. Satyavrata joins the two Sûtras in one, and leaves out ya<i>n</i>eteti, which may have belonged to the commentary. <span id="p333">[<sup><small>p. 333</small></sup>]</span>
+Here the full moon is called paur<i>n</i>amâsî, the sacrifice paur<i>n</i>amâsyâ. Satyavrata joins the two Sûtras in one, and leaves out ya<i>n</i>eteti, which may have belonged to the commentary. <span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 <span id="an65"></span>
 
@@ -186,7 +186,7 @@ The full moon (paur<i>n</i>amâsî) is really the very moment on which the moon 
 
 The meaning of purastâd, which I have translated by before, is doubtful. One commentator says it has no object, and should be dropped, purastâd ity etat padam asmin sûtra idânîm anvaya_m<i> na labhate prayo</i>g_anâbhâvât. Purastâd, before, may, however, mean before the second day, on which the real sacrifice takes place, and the commentator mentions purastât-paur<i> na labhate prayo</i>amâsî as a name of the _k<i> na labhate prayo</i>s_î-yuktâ, i.e. the full moon beginning on the fourteenth day. The same kind of full moon is also called Anumati, Pûrvâ-paur<i> na labhate prayo</i>amâsî, and Sandhyâ-paur<i> na labhate prayo</i>amâsî, while that which takes place on the pratipad, the first day of the lunar phase, is called Râkâ, Uttarâ-paur<i> na labhate prayo</i>amâsî, Astamitoditâ, and _S<i> na labhate prayo</i>h_pûritâ.
 
-Corresponding to these two kinds of Paur<i>n</i>amâsî there are also two kinds of Amâvâsyâ. That which falls on the fourteenth day is called Pûrvâ-amâvâsyâ, or Sinîvâlî, the ἕνη καὶ νέα; that which falls on the pratipad, the first day of the new phase, is called Kuhû, Uttarâ-amâvâsyâ. <i>S</i>voyuktâ. See also Ait.-Brâhm. II, 4; Nir. XI, 31-32. <span id="p334">[<sup><small>p. 334</small></sup>]</span>
+Corresponding to these two kinds of Paur<i>n</i>amâsî there are also two kinds of Amâvâsyâ. That which falls on the fourteenth day is called Pûrvâ-amâvâsyâ, or Sinîvâlî, the ἕνη καὶ νέα; that which falls on the pratipad, the first day of the new phase, is called Kuhû, Uttarâ-amâvâsyâ. <i>S</i>voyuktâ. See also Ait.-Brâhm. II, 4; Nir. XI, 31-32. <span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 <span id="an66"></span>
 
@@ -222,7 +222,7 @@ Let a man observe that new-moon day (amâvâsyâ) as a day of abstinence, on whi
 
 **Commentary.**
 
-This Sûtra has to be connected with Sûtra LXV. The abstinence takes place on the day, if the actual new moon, the nearest approach of sun and moon, falls on the afternoon, at night, or at twilight. And this new moon, the junction of the fifteenth day and the pratipad, is called Kuhû. We should read amâvâsyâm. <span id="p335">[<sup><small>p. 335</small></sup>]</span>
+This Sûtra has to be connected with Sûtra LXV. The abstinence takes place on the day, if the actual new moon, the nearest approach of sun and moon, falls on the afternoon, at night, or at twilight. And this new moon, the junction of the fifteenth day and the pratipad, is called Kuhû. We should read amâvâsyâm. <span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 <span id="an69"></span>
 
@@ -252,7 +252,7 @@ This Sûtra is variously explained: Satyavrata's commentary, which I have follow
 
 ## SÛTRA LXXI.
 
-The special rules are limited by (the purpose of) the (typical) performance (prakara<i>n</i>a). <span id="p336">[<sup><small>p. 336</small></sup>]</span>
+The special rules are limited by (the purpose of) the (typical) performance (prakara<i>n</i>a). <span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 <span id="an71c"></span>
 

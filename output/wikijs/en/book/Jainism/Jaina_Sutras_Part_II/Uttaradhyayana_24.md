@@ -36,7 +36,7 @@ TWENTY-FOURTH LECTURE. THE SAMITIS.
 
 The eight articles [^326] of the creed are the Samitis and the Guptis; there are five Samitis and three Guptis. (1)
 
-The Samitis [^327] are: 1. îryâ-samiti (going by paths trodden by men, beasts, carts, &c., and looking carefully so as not to occasion the death of any living creature); 2. bhâshâ-samiti (gentle, salutary, sweet, righteous speech); 3. êsha<i>n</i>â-samiti (receiving alms in a manner to avoid the forty-two faults that are laid down); 4. âdâna-samiti (receiving and keeping of the things necessary for <span id="p130">[<sup><small>p. 130</small></sup>]</span> religious exercises, after having carefully examined them); 5. u<i>k</i><i>k</i>âra-samiti (performing the operations of nature in an unfrequented place). The three Guptis (which are here included in the term Samiti in its wider application) are: 1. mano-gupti (preventing the mind from wandering in the forest of sensual pleasures by employing it in contemplation, study, &c.); 2. vâg-gupti (preventing the tongue from saying bad things by a vow of silence, &c.); 3. kâya-gupti (putting the body in an immovable posture as in the case of Kâyôtsarga). (2)
+The Samitis [^327] are: 1. îryâ-samiti (going by paths trodden by men, beasts, carts, &c., and looking carefully so as not to occasion the death of any living creature); 2. bhâshâ-samiti (gentle, salutary, sweet, righteous speech); 3. êsha<i>n</i>â-samiti (receiving alms in a manner to avoid the forty-two faults that are laid down); 4. âdâna-samiti (receiving and keeping of the things necessary for <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> religious exercises, after having carefully examined them); 5. u<i>k</i><i>k</i>âra-samiti (performing the operations of nature in an unfrequented place). The three Guptis (which are here included in the term Samiti in its wider application) are: 1. mano-gupti (preventing the mind from wandering in the forest of sensual pleasures by employing it in contemplation, study, &c.); 2. vâg-gupti (preventing the tongue from saying bad things by a vow of silence, &c.); 3. kâya-gupti (putting the body in an immovable posture as in the case of Kâyôtsarga). (2)
 
 The eight Samitis are thus briefly enumerated, in which the whole creed taught by the <i>G</i>inas and set forth in the twelve Aṅgas, is comprehended. (3)
 
@@ -48,15 +48,15 @@ The effort is fourfold, viz. as regards: 1. substance, 2. place, 3. time, and 4.
 
 With regard to substance: the (walking monk) should look with his eyes; with regard to place: the space of a yuga (i.e. four hastas or cubits); with regard to time: as long as he walks; and with regard to condition of mind: carefully [^330]. (7)
 
-He walks carefully who pays attention only to <span id="p131">[<sup><small>p. 131</small></sup>]</span> his walk and his body (executing it), whilst he avoids attending to the objects of sense, but (minds) his study, the latter in all five ways [^331]. (8)
+He walks carefully who pays attention only to <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> his walk and his body (executing it), whilst he avoids attending to the objects of sense, but (minds) his study, the latter in all five ways [^331]. (8)
 
 2\. To give way to: anger, pride, deceit and greed, laughter, fear, loquacity and slander [^332]; these eight faults should a well-disciplined monk avoid; he should use blameless and concise speech at the proper time. (9, 10)
 
 3\. As regards begging [^333], a monk should avoid the faults in the search [^334], in the receiving [^335], and in the use [^336] of the three kinds of objects, viz. food, articles of use, and lodging. (11)
 
-A zealous monk should avoid in the first (i.e. in the search for alms) the faults occasioned either by the giver (udgama) or by the receiver (utpâdana); in the second (i.e. in the receiving of alms) the faults inherent in the receiving; and in the use of the articles received, the four faults [^337]. (12) <span id="p132">[<sup><small>p. 132</small></sup>]</span> 4\. If a monk takes up or lays down the two kinds of things belonging to his general and <span id="p133">[<sup><small>p. 133</small></sup>]</span> supplementary [^338] outfit, he should proceed in the following way. (13)
+A zealous monk should avoid in the first (i.e. in the search for alms) the faults occasioned either by the giver (udgama) or by the receiver (utpâdana); in the second (i.e. in the receiving of alms) the faults inherent in the receiving; and in the use of the articles received, the four faults [^337]. (12) <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> 4\. If a monk takes up or lays down the two kinds of things belonging to his general and <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> supplementary [^338] outfit, he should proceed in the following way. (13)
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 A zealous monk should wipe the thing after having inspected it with his eyes, and then he should take it up or put it down, having the Samiti in both respects [^339]. (I 4)
 
@@ -64,7 +64,7 @@ A zealous monk should wipe the thing after having inspected it with his eyes, an
 
 \[A place may be not frequented and not seen (by people), or not frequented but seen, or frequented and not seen, or frequented and seen. (16)\] [^340]
 
-In a place neither frequented nor seen by other people, which offers no obstacles to self-control, which is even, not covered with grass or leaves [^341], and has <span id="p135">[<sup><small>p. 135</small></sup>]</span> been brought into its present condition [^342] not long ago, which is spacious, has an inanimate surface-layer [^343], not too near (the village, &c.), not perforated by holes, and is exempt from insects and seeds—in such a place he should leave his excrements, &c. (17, 18)
+In a place neither frequented nor seen by other people, which offers no obstacles to self-control, which is even, not covered with grass or leaves [^341], and has <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> been brought into its present condition [^342] not long ago, which is spacious, has an inanimate surface-layer [^343], not too near (the village, &c.), not perforated by holes, and is exempt from insects and seeds—in such a place he should leave his excrements, &c. (17, 18)
 
 The five Samitis are thus briefly enumerated, I shall now explain in due order the three Guptis [^344]. (19)
 
@@ -76,7 +76,7 @@ A zealous monk should prevent his mind from desires for the misfortune of somebo
 
 A zealous monk should prevent his speech from (expressing) desires, &c. (as in verse 21). (23)
 
-3\. In standing, sitting, lying down, jumping, going, and in the use of his organs, a zealous monk should prevent his body from intimating obnoxious desires, <span id="p136">[<sup><small>p. 136</small></sup>]</span> from doing acts which cause misery to living beings, or which cause their destruction. (24, 25)
+3\. In standing, sitting, lying down, jumping, going, and in the use of his organs, a zealous monk should prevent his body from intimating obnoxious desires, <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> from doing acts which cause misery to living beings, or which cause their destruction. (24, 25)
 
 These are the five Samitis for the practice of the religious life, and the Guptis for the prevention of everything sinful. (26)
 
@@ -137,7 +137,7 @@ Thus I say.
 [^338]: 131:7 There are altogether forty-six faults to be avoided. As they are frequently alluded to in the sacred texts, a systematical enumeration and description of them according to the Dîpikâ will be useful.
   There are sixteen udgama-dôshas by which food, &c. becomes unfit for a <i>G</i>aina monk:
   1\. Âdhâkarmika, the fault inherent in food, &c., which a layman has prepared especially for religious mendicants of whatever sect.
-  2\. Auddê<i>s</i>ika, is food, &c., which a layman has prepared for a particular monk. <span id="p132">[<sup><small>p. 132</small></sup>]</span> 
+  2\. Auddê<i>s</i>ika, is food, &c., which a layman has prepared for a particular monk. <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> 
   3\. Pûtika, is food, &c., which is pure on the whole, but contains particles impure on account of the first fault.
   4\. Unmi<i>s</i>ra, is food, &c., of which a part only had been especially prepared for the monk in question.
   5\. Sthâpanâkarmika, is food, &c., which has been reserved for the monk.
@@ -157,7 +157,7 @@ Thus I say.
   1\. Dhâtrîkarman, when the monk plays with the layman's children.
   2\. Dûtakarman, when he gives him information about what his people are doing.
   3\. Nimitta, when he speaks in praise of almsgiving.
-  4\. Â<i>g</i>îvikâ, when he makes his birth and family known to him. <span id="p133">[<sup><small>p. 133</small></sup>]</span> 5\. Vapanîka, when he expatiates upon his misery.
+  4\. Â<i>g</i>îvikâ, when he makes his birth and family known to him. <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> 5\. Vapanîka, when he expatiates upon his misery.
   6\. <i>K</i>ikitsâ, when he cures sick people.
   7\. Krôdhapi<i>n</i><i>d</i>a, when he extorts alms by threats.
   8\. Mânapi<i>n</i><i>d</i>a, when he tells the layman that he has laid a wager with other monks that he would get alms from him.
@@ -179,7 +179,7 @@ Thus I say.
   7\. Unmi<i>s</i>rita, when the layman mixes up pure with impure food.
   8\. Aparita (?), when one joint possessor gives away from the store against the other's will.
   9\. Lipta, when the layman gives food, &c., with a ladle or his hand, soiled with milk, butter, &c.
-  10\. <i>Kh</i>ardita, when in giving alms he spills milk, &c. <span id="p134">[<sup><small>p. 134</small></sup>]</span>
+  10\. <i>Kh</i>ardita, when in giving alms he spills milk, &c. <span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
   There are four faults of paribhôgaisha<i>n</i>â:
   1\. Sa<i>m</i>yô<i>g</i>anâ, when the monk puts together the ingredients for a good meal.
   2\. Apramâ<i>n</i>a, when he accepts a greater than the prescribed quantity of food.

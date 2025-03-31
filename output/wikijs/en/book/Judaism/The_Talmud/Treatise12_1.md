@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 ## TREATISE XII.
 
@@ -48,7 +48,7 @@ The Oral Law—Its Transmission—Names of the “Receivers”—Maxims—Apothe
 
 3\. Antigonus of Soco received (the law) from Simon the Just. He used to say, “be not as servants, who serve their master for the sake of receiving a reward, but be like servants who serve their master without the view of receiving a reward; and let the fear of heaven be upon you.”
 
-4\. José, son of Joezer of Zeredah, and José, son of Jochanan of Jerusalem, received (the oral law) from him. José, son of Joezer of Zeredah, said, “let thy house be a house of <span id="p219">[<sup><small>p. 219</small></sup>]</span> assembly for the wise, and dust thyself with the dust of their feet, and drink their words in thirstiness.”
+4\. José, son of Joezer of Zeredah, and José, son of Jochanan of Jerusalem, received (the oral law) from him. José, son of Joezer of Zeredah, said, “let thy house be a house of <span id="p219"><sup><small>[ p. 219 ]</small></sup></span> assembly for the wise, and dust thyself with the dust of their feet, and drink their words in thirstiness.”
 
 5\. José, son of Jochanan of Jerusalem, said, “let thy house be wide open, and let the poor be thy children. Discourse not much with women, not even with thy wife, much less with thy neighbour's wife.” Hence the wise men say, “whoever converses much with women brings evil on himself, neglects the study of the law, and at last will inherit hell.”
 
@@ -64,7 +64,7 @@ The Oral Law—Its Transmission—Names of the “Receivers”—Maxims—Apothe
 
 11\. Abtalyon said, “ye Sages, be cautious of your words, lest ye be doomed to captivity, and carried captive to a place of bad waters, and the disciples who follow you should drink of them, by which means the name of God may be profaned.”
 
-12\. Hillel and Shamai received it of them. Hillel said, “be thou of the disciples of Aaron, who loved peace, and pursued peace, so that thou love mankind, and allure them to the study of the law.” <span id="p220">[<sup><small>p. 220</small></sup>]</span> 13\. He used to say, “whoever aggrandises his name, destroys his name, and he who does not increase his knowledge in the law, shall be cut off, and he who does not study the law, is deserving of death, and he who serves himself with the crown of the law, will perish.”
+12\. Hillel and Shamai received it of them. Hillel said, “be thou of the disciples of Aaron, who loved peace, and pursued peace, so that thou love mankind, and allure them to the study of the law.” <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> 13\. He used to say, “whoever aggrandises his name, destroys his name, and he who does not increase his knowledge in the law, shall be cut off, and he who does not study the law, is deserving of death, and he who serves himself with the crown of the law, will perish.”
 
 14\. He also said, “if I perform not good works myself, who can do them for me?” and “when I consider myself, what am I?” and “if not now, when shall I?”
 

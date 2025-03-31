@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 1\. One may bring out wine sufficient for the cup, [^117] milk sufficient for a gulp, honey sufficient for a bruise, oil sufficient to anoint a small member, water sufficient to moisten the eye-salve, and the rest of all beverages a quarter of a log, and whatever can be poured out [^118] a quarter of a log. Rabbi Simeon says, “all of them by the quarter log.” And they did not mention these measures save for those who reserve them.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:37:48Z
 
 4\. Bird-lime sufficient to put on the top of a perch; pitch or sulphur to fill a hole; wax sufficient to fill the mouth of a small hole; brick-clay sufficient to make a mouth of a crucible bellows for goldsmiths,—Rabbi Judah says, “sufficient to make a crucible stand;” bran sufficient to put on the mouth of a crucible blow-pipe for goldsmiths; ointment sufficient to anoint the little finger of girls,—Rabbi Judah says, “sufficient to make the hair grow;” Rabbi Nehemiah says, “to freshen the temple.”
 
-5\. Red earth “as the seal of merchants,”—the words of R. Akiba; but the Sages say, “as the seal of letters;” dung and fine sand, “sufficient to manure a cabbage stalk,”—the words of Rabbi Akiba; but the Sages say, “sufficient to manure a leek;” coarse sand sufficient to put on a full lime-hod; a reed sufficient to make a pen. “But if it be <span id="p94">[<sup><small>p. 94</small></sup>]</span> thick or split?” “sufficient to boil with it a hen's egg easy (to be cooked) amongst eggs, mixed with oil and put in a pan.”
+5\. Red earth “as the seal of merchants,”—the words of R. Akiba; but the Sages say, “as the seal of letters;” dung and fine sand, “sufficient to manure a cabbage stalk,”—the words of Rabbi Akiba; but the Sages say, “sufficient to manure a leek;” coarse sand sufficient to put on a full lime-hod; a reed sufficient to make a pen. “But if it be <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> thick or split?” “sufficient to boil with it a hen's egg easy (to be cooked) amongst eggs, mixed with oil and put in a pan.”
 
 6\. A bone sufficient to make a spoon,—Rabbi Judah said, “sufficient to make the ward of a key;” glass sufficient to scrape the top of a shuttle; a lump of earth or a stone sufficient to fling at a bird; Rabbi Eliezer said, “sufficient to fling at a beast.”
 

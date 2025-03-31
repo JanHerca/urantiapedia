@@ -32,7 +32,7 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 8, SECTION 21.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. Having caused them with the next (formula, II, 20, 1) to touch (the food, he gives it to them to eat).
 
-9\. When they have eaten (and gone away), he goes after them, circumambulates them, turning his right side towards them, spreads out southward-pointed Darbha grass in two different layers, pours water on it with the next (formulas, II, 20, 2-7), distributes the Pi<i>nd</i>as, ending in the south, with the next (formulas, II, 20, 8-13), pours out water as before with the next (formulas, 14-19), worships (the <span id="p293">[<sup><small>p. 293</small></sup>]</span> ancestors) with the next (formulas, II, 20, 20-23), sprinkles with the next (verse, 24) water three times from right to left round (the Pi<i>nd</i>as) with a water-pot, besprinkles the vessels, which are turned upside down, repeating the next Ya<i>n</i>us (25) at least three times without taking breath, sets up the vessels two by two, cuts off (Avadânas) from all (portions of food), and eats of the remains at least one morsel with the next Ya<i>n</i>us (26).
+9\. When they have eaten (and gone away), he goes after them, circumambulates them, turning his right side towards them, spreads out southward-pointed Darbha grass in two different layers, pours water on it with the next (formulas, II, 20, 2-7), distributes the Pi<i>nd</i>as, ending in the south, with the next (formulas, II, 20, 8-13), pours out water as before with the next (formulas, 14-19), worships (the <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> ancestors) with the next (formulas, II, 20, 20-23), sprinkles with the next (verse, 24) water three times from right to left round (the Pi<i>nd</i>as) with a water-pot, besprinkles the vessels, which are turned upside down, repeating the next Ya<i>n</i>us (25) at least three times without taking breath, sets up the vessels two by two, cuts off (Avadânas) from all (portions of food), and eats of the remains at least one morsel with the next Ya<i>n</i>us (26).
 
 10\. Of the dark fortnight that follows after the full moon of Mâgha, the eighth day falls under (the constellation of) _G<i>yesh</i>th_â: this day is called Ekâsh<i>yesh</i>akâ.
 
@@ -69,7 +69,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. [^790] After the ceremonies down to the Â<i>g</i>yabhâga oblations have been performed in the same way as at the fortnightly sacrifices, he makes with his joined hands oblations of the cake with the next (verse, II, 20, 27).
 
-2\. [^791] The rest (of the cake) he makes ready, divides (it) into eight parts and offers it to the Brâhma<i>n</i>as. <span id="p294">[<sup><small>p. 294</small></sup>]</span>
+2\. [^791] The rest (of the cake) he makes ready, divides (it) into eight parts and offers it to the Brâhma<i>n</i>as. <span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 3\. On the following day he touches a cow with a Darbha blade, with the words, ‘I touch thee agreeable to the Fathers.’
 
@@ -91,7 +91,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 12\. This rite has been explained in the description of the monthly <i>S</i>râddha.
 
-13\. If he goes out in order to beg for something, <span id="p295">[<sup><small>p. 295</small></sup>]</span> let him murmur the next (Mantras, II, 21, 10-16) and then state his desire.
+13\. If he goes out in order to beg for something, <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> let him murmur the next (Mantras, II, 21, 10-16) and then state his desire.
 
 14\. If he has obtained a chariot, he has the horses put to it, lets it face the east, and touches with the next (verse, II, 21, 17) the two wheels of the chariot or the two side-pieces.
 
@@ -116,7 +116,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 3\. [^794] One who wishes that his wife should not be touched by other men, should have big living centipedes ground to powder, and should insert (that powder) with the next (formula, II, 22, 3), while she is sleeping, into her secret parts.
 
-4\. For success (in the generation of children) <span id="p296">[<sup><small>p. 296</small></sup>]</span> let him wash (his wife) with the urine of a red-brown cow.
+4\. For success (in the generation of children) <span id="p296"><sup><small>[ p. 296 ]</small></sup></span> let him wash (his wife) with the urine of a red-brown cow.
 
 5\. For success (in trade) let him sacrifice with the next (verse—II, 22, 4—some portion) from the articles of trade which he has in his house.
 
@@ -126,7 +126,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. If a fruit falls on him from a tree, or a bird befouls him, or a drop of water falls on him when no rain is expected, he should wipe that off with the next (Mantras, II, 22, 11-13), according to the characteristics (contained in these Mantras).
 
-9\. If a post of his house puts forth shoots, or if honey is made in his house (by bees), or if the footprint of a dove is seen on the hearth, or if diseases arise in his household, or in the case of other miracles or prodigies, let him perform in the new-moon night, at dead of night, at a place where he does not hear the noise of water, the rites from the putting (of wood) on the fire down to the Â<i>g</i>yabhâga oblations, and let him offer the oblations (indicated in the) next (Mantras, II, 22, 14-23), and enter upon the performance of the <i>G</i>aya and following oblations. <span id="p297">[<sup><small>p. 297</small></sup>]</span>
+9\. If a post of his house puts forth shoots, or if honey is made in his house (by bees), or if the footprint of a dove is seen on the hearth, or if diseases arise in his household, or in the case of other miracles or prodigies, let him perform in the new-moon night, at dead of night, at a place where he does not hear the noise of water, the rites from the putting (of wood) on the fire down to the Â<i>g</i>yabhâga oblations, and let him offer the oblations (indicated in the) next (Mantras, II, 22, 14-23), and enter upon the performance of the <i>G</i>aya and following oblations. <span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 
 10\. Having performed (the ceremonies) down to the sprinkling (of water) round (the fire), he puts up towards the south with the next (verse, II, 22, 24) a stone as a barrier for those among whom a death has occurred.
 

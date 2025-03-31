@@ -41,7 +41,7 @@ dateCreated: 2024-11-24T18:21:59Z
 “The sword is sharp, O son of the tribe of Ghalib,
 Sharp indeed: but where is the striker for the sword?”
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 And my ancestor waved the sword with his hand, and said: “As to the smiter—I am the smiter!” and struck off the head of the blacksmith, and separated it from his body. He then cased it with gold, and called it Dhami, on account of its sharpness. He laid it by amongst his treasures, and when he died it came in succession to my father with the rest of the arms; and when my father perceived his death was at hand, he called me to him privately. “O my son,” said he, “I know your brother is of a tyrannical, obstinate disposition, one that likes violence and hates justice, and I am aware that at my death he will usurp my property.”—“What measures shall I take?” said I.—He answered: “Take this sword and conceal it, and let no one know anything about it: and when you see that he takes forcible possession of all my property, cattle and wealth, do you be content, my son, with this sword, for it will be of great benefit to you: for if you present it to Nushirvan, king of Persia, he will exalt you with his liberality and favours; and if you present it to the Emperor of Europe, he will enrich you with gold and silver.”
 

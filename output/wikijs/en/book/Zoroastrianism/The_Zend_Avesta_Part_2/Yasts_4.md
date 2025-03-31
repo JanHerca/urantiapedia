@@ -48,7 +48,7 @@ I confess myself a worshipper of Mazda, a follower of Zarathu<i>s</i>tra, one wh
 
 For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness [^250] . . . . .
 
-Unto Haurvatâ<i>t</i>, the master; unto the prosperity <span id="p49">[<sup><small>p. 49</small></sup>]</span> of the seasons and unto the years, the masters of holiness [^251],
+Unto Haurvatâ<i>t</i>, the master; unto the prosperity <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> of the seasons and unto the years, the masters of holiness [^251],
 
 Be propitiation, with sacrifice, prayer, propitiation, and glorification.
 
@@ -60,7 +60,7 @@ We sacrifice unto Haurvatâ<i>t</i>, the Amesha-Spe<i>n</i>ta; we sacrifice unto
 
 2\. 'He who against the thousands of thousands of those Daêvas, against their ten thousands of ten thousands, against their numberless myriads would invoke the name of Haurvatâ<i>t</i>, as one of the Amesha-Spe<i>n</i>tas, he would smite the Nasu, he would smite Ha<i>s</i>i [^253], he would smite Ba<i>s</i>i [^253], he would smite Saêni [^253], he would smite Bû<i>g</i>i [^253].
 
-3 [^254]. 'I proclaim the faithful man as the first \[of men\]; if I proclaim the faithful man as the first <span id="p50">[<sup><small>p. 50</small></sup>]</span> \[of men\] [^255], then Rashnu Razi<i>s</i>ta [^256], then every heavenly Yazata of male nature in company with the Amesha-Spe<i>n</i>tas will free the faithful man [^257]
+3 [^254]. 'I proclaim the faithful man as the first \[of men\]; if I proclaim the faithful man as the first <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> \[of men\] [^255], then Rashnu Razi<i>s</i>ta [^256], then every heavenly Yazata of male nature in company with the Amesha-Spe<i>n</i>tas will free the faithful man [^257]
 
 4\. 'From the Nasu, from Ha<i>s</i>i, from Ga<i>s</i>i [^258], from Saêni, from Bû<i>g</i>i; from the hordes with the wide front, from the hordes with the many spears uplifted, from the evil man who oppresses, from the wilful sinner [^259], from the oppressor of men, from the Yâtu, from the Pairika, from the straying way.
 
@@ -68,7 +68,7 @@ We sacrifice unto Haurvatâ<i>t</i>, the Amesha-Spe<i>n</i>ta; we sacrifice unto
 
 Ahura Mazda answered: 'It is when a man pronouncing my spell, either reading [^261] or reciting it by heart, draws the furrows [^262] and hides [^263] there himself, \[saying\]:
 
-6\. “I will smite thee, O Dru<i>g</i>! whomsoever thou art, whomsoever thou art amongst the Dru<i>g</i>es that come in an open way, whomsoever thou art amongst the Dru<i>g</i>es that come by hidden ways, whomsoever thou art amongst the Dru<i>g</i>es that defile by contact; whatsoever Dru<i>g</i> thou art, I smite thee away from the Aryan countries; whatsoever Dru<i>g</i> thou art, I bind thee; I smite thee down, O Dru<i>g</i>! I throw thee down below, O Dru<i>g</i>!” <span id="p51">[<sup><small>p. 51</small></sup>]</span> 7\. 'He draws \[then\] three furrows [^264]: I proclaim him one of the faithful; he draws six furrows [^264]: I proclaim him one of the faithful; he draws nine furrows [^264]: I proclaim him one of the faithful.
+6\. “I will smite thee, O Dru<i>g</i>! whomsoever thou art, whomsoever thou art amongst the Dru<i>g</i>es that come in an open way, whomsoever thou art amongst the Dru<i>g</i>es that come by hidden ways, whomsoever thou art amongst the Dru<i>g</i>es that defile by contact; whatsoever Dru<i>g</i> thou art, I smite thee away from the Aryan countries; whatsoever Dru<i>g</i> thou art, I bind thee; I smite thee down, O Dru<i>g</i>! I throw thee down below, O Dru<i>g</i>!” <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> 7\. 'He draws \[then\] three furrows [^264]: I proclaim him one of the faithful; he draws six furrows [^264]: I proclaim him one of the faithful; he draws nine furrows [^264]: I proclaim him one of the faithful.
 
 8\. 'The names of those (Amesha-Spe<i>n</i>tas) smite the men turned to Nasus [^265] by the Dru<i>g</i>es; the seed and kin of the deaf [^266] are smitten, the scornful [^267] are dead, as the Zaotar Zarathu<i>s</i>tra blows them away to woe [^268], however fierce, at his will and wish, as many as he wishes.
 
@@ -76,7 +76,7 @@ Ahura Mazda answered: 'It is when a man pronouncing my spell, either reading [^2
 
 10\. 'O Zarathu<i>s</i>tra! let not that spell be shown to any one, except by the father to his son, or by the brother to his brother from the same womb, or by the Âthravan to his pupil [^269] in black hair, devoted to the good law, who, devoted to the good law, holy [^270] and brave, stills all the Dru<i>g</i>es [^271].
 
-11\. 'For his brightness and glory, I will offer unto him a sacrifice worth being heard, namely, unto Haurvatâ<i>t</i>, the Amesha-Spe<i>n</i>ta. Unto Haurvatâ<i>t</i>, the Amesha-Spe<i>n</i>ta, we offer up the libations, the Haoma and meat, the baresma, the wisdom of the tongue, the <span id="p52">[<sup><small>p. 52</small></sup>]</span> holy spells, the speech, the deeds, the libations, and the rightly-spoken words.
+11\. 'For his brightness and glory, I will offer unto him a sacrifice worth being heard, namely, unto Haurvatâ<i>t</i>, the Amesha-Spe<i>n</i>ta. Unto Haurvatâ<i>t</i>, the Amesha-Spe<i>n</i>ta, we offer up the libations, the Haoma and meat, the baresma, the wisdom of the tongue, the <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> holy spells, the speech, the deeds, the libations, and the rightly-spoken words.
 
 12\. 'Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:37:48Z
   </table>
 </figure>
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 ## TREATISE XIV.
 
@@ -44,7 +44,7 @@ Priests and Levites guarding the Temple—Officer of the Watch—Gates—Chamber
 
 1\. The priests guarded the sanctuary in three places, in the House Abtinas, [^563] in the House Nitzus, [^564] and in the House Moked; [^565] and the Levites in twenty-one places, five at the five gates of the Mountain of the House, four at its four corners inside, five at the five gates of the Court, four at its four corners outside, and one in the chamber of the Offering, and one in the chamber of the Veil, and one behind the House of Atonement.
 
-2\. The Captain of the Mountain of the House went round to every Watch in succession with torches flaming before him, and to every guard who did not stand forth, the Captain said, “Peace be to thee.” If it appeared that he slept, he beat him with his staff; and he had permission to set fire to his cushion. [^566] And they said, “what is the voice in the Court?” “It is the voice of the Levite being beaten, and his garments burned, because he slept on his guard.” [^567] <span id="p256">[<sup><small>p. 256</small></sup>]</span> Rabbi Eliezer, the son of Jacob, said, “once they found the brother of my mother asleep, and they burned his cushion.”
+2\. The Captain of the Mountain of the House went round to every Watch in succession with torches flaming before him, and to every guard who did not stand forth, the Captain said, “Peace be to thee.” If it appeared that he slept, he beat him with his staff; and he had permission to set fire to his cushion. [^566] And they said, “what is the voice in the Court?” “It is the voice of the Levite being beaten, and his garments burned, because he slept on his guard.” [^567] <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> Rabbi Eliezer, the son of Jacob, said, “once they found the brother of my mother asleep, and they burned his cushion.”
 
 3\. There were five gates to the Mountain of the House, two Huldah gates in the south which served for going in and out, Kipunus in the west served for going in and out; Tadi [^568] in the north served for no (ordinary) purpose. Upon the east gate was portrayed the city Shushan. Through it one could see the High Priest who burned the heifer, and all his assistants going out to the Mount of Olives.
 
@@ -56,7 +56,7 @@ Priests and Levites guarding the Temple—Officer of the Watch—Gates—Chamber
 
 7\. To the House Moked were two doors one open to the Chel, and one open to the court. Said Rabbi Judah, “the one open to the court had a wicket, through which they went in to sweep the court.”
 
-8\. The House Moked was arched, and spacious, and surrounded <span id="p257">[<sup><small>p. 257</small></sup>]</span> with stone divans, and the elders of the Courses slept there with the keys of the court in their hands; and also the young priests each with his pillow on the ground.
+8\. The House Moked was arched, and spacious, and surrounded <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> with stone divans, and the elders of the Courses slept there with the keys of the court in their hands; and also the young priests each with his pillow on the ground.
 
 9\. And there was a place a cubit square with a tablet of marble, and to it was fastened a ring, and a chain upon which the keys were suspended. When the time approached for locking the gates, the priest lifted up the tablet by the ring, and took the keys from the chain and locked inside, and the Levites slept outside. When he had finished locking, he returned the keys to the chain, and the tablet to its place, laid his pillow over it, and fell asleep. If sudden defilement happened, he rose and went out in the gallery that ran under the arch, and candles flamed on either side, until he came to the house of baptism. Rabbi Eleazer the son of Jacob, says, “in the gallery that went under the Chel, he passed out through Tadi.”
 

@@ -44,7 +44,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 5\. The (Brahma<i>k</i>ârin) hides it with the next Ya<i>k</i>us (II, 7, 5) at the root of an Udumbara tree or in a tuft of Darbha grass.
 
-6\. [^764] With water of the description stated above he <span id="p276">[<sup><small>p. 276</small></sup>]</span> bathes with the six next (verses; II, 7, 6-11), and with the next (II, 7, 12) he cleanses his teeth with a stick of Udumbara wood.
+6\. [^764] With water of the description stated above he <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> bathes with the six next (verses; II, 7, 6-11), and with the next (II, 7, 12) he cleanses his teeth with a stick of Udumbara wood.
 
 7\. Having bathed and shampooed his body with such ingredients as are used in bathing, (aromatic powder, &c.),
 
@@ -54,7 +54,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 10\. Having performed (the ceremonies) down to the sprinkling (of water) round (the fire), he should tie (one of the ear-rings) with the same (verses) to his right ear, and with the same (verses one) to his left ear.
 
-11\. In the same way he should with the following (formulas, M. II, 8, 9-9, 5), according to the characteristics (contained in them), (put) a wreath on his <span id="p277">[<sup><small>p. 277</small></sup>]</span> head, anoint (his eyes), look into a mirror, (put on) shoes, (and should take) a parasol and a staff.
+11\. In the same way he should with the following (formulas, M. II, 8, 9-9, 5), according to the characteristics (contained in them), (put) a wreath on his <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> head, anoint (his eyes), look into a mirror, (put on) shoes, (and should take) a parasol and a staff.
 
 12\. He keeps silence until the stars appear.
 
@@ -79,7 +79,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. Having touched the person who washes him, he should touch himself (i.e. his own heart) with the next (formula, M. II, 9, II).
 
-7\. (The host, taking the Argha water) in an <span id="p278">[<sup><small>p. 278</small></sup>]</span> earthen vessel which he holds with two bunches of grass, announces (to the guest), ‘The Argha water!’
+7\. (The host, taking the Argha water) in an <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> earthen vessel which he holds with two bunches of grass, announces (to the guest), ‘The Argha water!’
 
 8\. (The guest) should recite the next (formula, II, 9, 12) over (that water) and should murmur the next Ya<i>g</i>us (II, 9, 13), while a part (of the water) is poured over his joined hands.
 
@@ -97,7 +97,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 15\. (The host) announces the cow with (the word), ‘The cow!’
 
-16\. After the guest has recited the next (formula, M. II, 10, 6) over (the cow, the host) cools its omentum, and having performed the ‘spreading under’ and the sprinkling over (of Â<i>s</i>ya), he sacrifices it with the next (verse, M. II, 10, 7) with a Palâ<i>s</i>a leaf from the middle or the end (of the stalk). <span id="p279">[<sup><small>p. 279</small></sup>]</span>
+16\. After the guest has recited the next (formula, M. II, 10, 6) over (the cow, the host) cools its omentum, and having performed the ‘spreading under’ and the sprinkling over (of Â<i>s</i>ya), he sacrifices it with the next (verse, M. II, 10, 7) with a Palâ<i>s</i>a leaf from the middle or the end (of the stalk). <span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 17\. If the guest chooses to let (the cow) loose, he murmurs the next (formulas, II, 10, 8-11) in a low voice (and says) loudly, ‘Om! Let it loose!’ (II, 10, 12).
 

@@ -29,11 +29,11 @@ dateCreated: 2025-2-12T12:5:15Z
  </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 <a id="note_1"></a>
 
@@ -141,7 +141,7 @@ As regards the expression “wakigo” in connection with this, _vide_ K. A. Flo
 
 [22](Part_2#fr_22) 22. “Shimenawa” is the ordinary form of the rather archaic “shirikumenawa.” According to B. H. Chamberlain, in perfect agreement with the learned Moto-Ori, “shirikumenawa” denotes straw rope so constructed that the roots of the straw project and are visible at the end of the rope. Moto-Ori’s explanation shows that this is more likely to be the proper significance of the word than “back-limiting-rope” (“shirihe-kagiri-me-nawa”) which, as Kamo-Mabuchi had previously suggested, might have originated when the event narrated in the legend was described (B. H. Chamberlain, _E.T.K._, p. 59). According to our view, “shime” may mean “to forbid,” just as “shimeno” denotes a “forbidden field,” so that the land encircled by a rope is simply taboo, _i.e._, a sacred precinct forbidden to be approached or trodden upon by ordinary unclean feet. Since the entrance to the Rock-Cave was barred by a similar rope, this “shimeno” was probably a tabooed forbidden ground or sanctuary, which laymen must not enter. We cannot understand the explanation given in a note in the _Kogoshūi_ that this rope represents “the sun’s shadow.”
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 <a id="note_23"></a>
 
@@ -167,7 +167,7 @@ As regards the expression “wakigo” in connection with this, _vide_ K. A. Flo
 
 [28](Part_2#fr_28) 28. According to the _Nihongi_, this Edict was issued by Amaterasu-Ō-Mikami alone (W. G. Aston, _E.T.N._, vol. I, p. 77).
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 <a id="note_29"></a>
 
@@ -181,7 +181,7 @@ As regards the expression “wakigo” in connection with this, _vide_ K. A. Flo
 
 [31](Part_2#fr_31) 31. In both the _Kojiki_ and _Nihongi_ accounts, five instead of three heavenly attendants, called the “Gods of the Five Hereditary Corporations”, are mentioned—the two additional divinities being Ishikoritome-no-Mikoto and Tamanoya-no-Mikoto.
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 <a id="note_32"></a>
 
@@ -291,7 +291,7 @@ As regards the expression “wakigo” in connection with this, _vide_ K. A. Flo
 
 [58](Part_2#fr_58) 58. _I.e._, the Goddess of Food; hence some of the Japanese commentators have identified her with Toyouke-Hime or Toyouke-Daijin of the Outer Shrine in Ise.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 <a id="note_59"></a>
 
@@ -333,7 +333,7 @@ As regards the expression “wakigo” in connection with this, _vide_ K. A. Flo
 
 [68](Part_2#fr_68) 68. The heavenly offences are such, for example, as were committed by Susano-O-no-Mikoto, brother of the Sun-Goddess Amaterasu-Ō-Mikami, in Heaven.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 <a id="note_69"></a>
 
@@ -419,7 +419,7 @@ Two other similar songs of the same sort, according to the _Kōtaijingū-Gishiki
 
 [79](Part_2#fr_79) 79. _Vide_ [p. 29](Part2#p29).
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 The author of the _Kogoshūi_ took the Abstinence Palace to be the abode of the Guardian Priestess Yamato-Hime-no-Mikoto, but this is incorrect. That the palace or shrine was for the Sun-Goddess herself is proved by the description given in the _Nihongi_.
 
@@ -551,7 +551,7 @@ Uraha-no-Kami, Futonorito-no-Kami and Kushi-Machi-no-Kami. Ban-Nobutomo, The _Se
 
 [108](Part_2#fr_108) 108. Kiyomihara, a place at Asuka, in Takechi-Kōri, Yamato.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 <a id="note_109"></a>
 
@@ -611,7 +611,7 @@ Kai-Shi-Sui, greatly incensed by the injustice of his master Chōji’s unfair r
 
 [122](Part_2#fr_122) 122. _I.e._, Ame-no-Uzume-no-Mikoto. _Vide_ [p. 21](Part2#p21).
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 <a id="note_123"></a>
 
@@ -747,7 +747,7 @@ Another Buddhist Sūtra similarly described the Brahmanistic God Maheśvara:
 
 [150](Part_2#fr_150) 150. An allusion to the _Tendainofu_ (Tien-Tai-Fu) by Sonshaku (Sun-Cho) in the _Monzen_ (_Wen-Hsuan_), one of the Chinese Classics. _Vide_ also the _Shūsuihen_ (_Chiu-Shui-Pien_), by Sōshi (Chuang-Tzu), a follower of Rōshi (Lao-Tzu) and contemporary of Mōshi (Meng-Tzu, Mencius) in the 4th century B.C., according to the Chinese tradition.
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 <a id="note_151"></a>
 

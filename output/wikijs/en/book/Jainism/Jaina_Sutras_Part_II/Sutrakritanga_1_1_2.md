@@ -36,7 +36,7 @@ SECOND CHAPTER.
 
 Again some [^688] say: 'It is proved that there are individual souls; they experience pleasure and pain; and (on dying) they lose their state of life. (1)
 
-‘But misery (and pleasure) is not caused by (the souls) themselves; how could it be caused by other (agents, as time, &c.)? Pleasure and misery, final beatitude [^689] and temporal (pleasure and pain) are not <span id="p240">[<sup><small>p. 240</small></sup>]</span> caused by (the souls) themselves, nor by others; but the individual souls experience them; it is the lot assigned them by destiny.’ This is what they (i.e. the fatalists) say. (2, 3)
+‘But misery (and pleasure) is not caused by (the souls) themselves; how could it be caused by other (agents, as time, &c.)? Pleasure and misery, final beatitude [^689] and temporal (pleasure and pain) are not <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> caused by (the souls) themselves, nor by others; but the individual souls experience them; it is the lot assigned them by destiny.’ This is what they (i.e. the fatalists) say. (2, 3)
 
 Those who proclaim these opinions, are fools who fancy themselves learned; they have no knowledge, and do not understand that things depend partly on fate, and partly on human exertion [^690]. (4)
 
@@ -52,7 +52,7 @@ The unhappy animal, being of a weak intellect, runs into the dangerous (place), 
 
 So some unworthy <i>S</i>rama<i>n</i>as who hold wrong doctrines are afraid of what is free from danger, and are not afraid of real dangers. (to)
 
-The fools dread the preaching of the Law, but <span id="p241">[<sup><small>p. 241</small></sup>]</span> they do not dread works, being without discernment and knowledge. (11)
+The fools dread the preaching of the Law, but <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> they do not dread works, being without discernment and knowledge. (11)
 
 Shaking off greed [^693], pride [^694], deceit [^695], and wrath [^696], one becomes free from Karman. This is a subject (which an ignorant man, like) a brute animal, does not attend to. (12)
 
@@ -68,7 +68,7 @@ As when a man in a wood who does not know it, follows a guide who also does not 
 
 As when one blind man is the guide of another, the man walks a great distance, loses his way, or follows a wrong way; (19)
 
-Thus some who search after salvation and pretend <span id="p242">[<sup><small>p. 242</small></sup>]</span> to practise the (true) Law, follow the false Law and do not arrive at the thoroughly right (thing, viz. self-control). (20)
+Thus some who search after salvation and pretend <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> to practise the (true) Law, follow the false Law and do not arrive at the thoroughly right (thing, viz. self-control). (20)
 
 Thus some (wrong philosophers) do not apply to others for arguments, but they continue to err because they believe their own arguments to be right [^698]. (21)
 
@@ -80,7 +80,7 @@ There is the doctrine of the Kriyâvâdins [^700], which has been previously exp
 
 ‘He who intends (to kill) a living being but does not do it by (an act of) his body, and he who unknowingly kills one, both are affected by that act through a slight contact (with it) only, but the demerit (in their case) is not fully developed [^701].’ (25)
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 ‘There are three ways of committing sins: by one's own activity, by commission, by approval (of the deed). (26)
 

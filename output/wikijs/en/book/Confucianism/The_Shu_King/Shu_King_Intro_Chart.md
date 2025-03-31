@@ -36,7 +36,7 @@ This chart is intended to represent approximately the aspect of the principal zo
 
 In order to apply the chart to a practical purpose, the reader is advised to cut out a sheet of paper (cardboard is preferable) with its upper edge exactly fitting the curved line A B O C D, and to draw, near to the bottom of the paper, a line coinciding with ‘the hour-line’ on the chart.
 
-This being done, if it be asked what will be the aspect of the heavens when the Sun sets at the Vernal Equinox, the reader is to move the line at the bottom of the cardboard along the horizontal ‘hour-line’ of the chart until the place of the Sun in the Ecliptic at the Vernal Equinox O just touches the curved top of the paper; then all the stars not covered over are above the horizon at the time of that sunset, viz. in this case Aldebaran, Sirius, Spica, &c.; the Pleiades are just setting, Regulus and α Hydræ are very near the meridian, β Centauri is on the point of rising, and α Serpentis is well up above the horizon. This exactly corresponds with that state of the heavens which Yâo, (alleged in the Chinese records to have flourished about B.C. 2300,) indicated to his astronomers (Hsî and Ho) would be the case, viz. that he would find the star (or the <span id="p28">[<sup><small>p. 28</small></sup>]</span> stellar division) Shun Hwo (corresponding, it is said, to α Hydræ) culminating at the time of sunset at the Vernal Equinox [^21].
+This being done, if it be asked what will be the aspect of the heavens when the Sun sets at the Vernal Equinox, the reader is to move the line at the bottom of the cardboard along the horizontal ‘hour-line’ of the chart until the place of the Sun in the Ecliptic at the Vernal Equinox O just touches the curved top of the paper; then all the stars not covered over are above the horizon at the time of that sunset, viz. in this case Aldebaran, Sirius, Spica, &c.; the Pleiades are just setting, Regulus and α Hydræ are very near the meridian, β Centauri is on the point of rising, and α Serpentis is well up above the horizon. This exactly corresponds with that state of the heavens which Yâo, (alleged in the Chinese records to have flourished about B.C. 2300,) indicated to his astronomers (Hsî and Ho) would be the case, viz. that he would find the star (or the <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> stellar division) Shun Hwo (corresponding, it is said, to α Hydræ) culminating at the time of sunset at the Vernal Equinox [^21].
 
 Again, if it be required to find what constellation it culminating at the time of sunset at the Summer Solstice, the cardboard must be moved, as before, towards the right hand until the position of the Sun at the Summer Solstice, viz. G, just touches the horizon curve, when it will be seen that α Serpentis and Antares are then culminating, Regulus and β Centauri are just setting, while the constellations of Aquila and Aquarius are rising; Vega is a conspicuous object above the eastern horizon. This again corresponds to the indications given by Yâo to his astronomers, viz. that they would find the constellation Scorpio culminating at the time.
 
@@ -48,7 +48,7 @@ The reader may easily make for himself many other interesting applications of th
 
 The following table has been calculated for the apparent positions of the principal stars in the years B.C. 2300, B.C. 1500, A.D. 1, and A.D. 1000; except in one instance it will be found to confirm a similar calculation made by Biot for the earliest of these dates.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Name of Star. | For | the | year | B.C. | 2300. | For | the | year | B.C. | 1500. | For | the | year | A.D. | 1. | For | the | year | A.D. | 1000. | For | the | year | A.D. | 1872.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
@@ -80,7 +80,7 @@ Antares | 12 | 24 | 0 | 98 | 16.5 | 13 | 6 | 50 | 102 | 37.4 | 14 | 30 | 11 | 10
 Fomalhaut | 18 | 16 | 30 | 134 | 54.0 | 19 | 15 | 43 | 133 | 57.8 | 20 | 58 | 57 | 129 | 17.4 | 22 | 1 | 5 | 124 | 46.9 | 22 | 50 | 34 | 120 | 16.1 
 α Pegasi | 19 | 24 | 1 | 92 | 34.4 | 20 | 6 | 35 | 90 | 33.5 | 21 | 24 | 14 | 84 | 49.4 | 22 | 15 | 19 | 80 | 2.6 | 22 | 58 | 41 | 75 | 27.0
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 [![Chart of the Principal Stars, chiefly Zodiacal, for the Epoch B.C. 2300](tn/03000.jpg)
 Click to enlarge](/image/book/Confucianism/The_Shu_King/03000.jpg)

@@ -38,7 +38,7 @@ dateCreated: 2025-2-7T10:38:9Z
 
 **T**.
 
-III. 1. Just as a fixed law was given [^177] for reciting the Shma‘, so did the Majority set a time for the Prayer. Why did they say: The Morning <span id="p29">[<sup><small>p. 29</small></sup>]</span> Prayer \[may be said\] until midday? Because the _T_. morning continual burnt-offering was offered until midday. [^178] R. Judah says: Until the fourth hour. And why did they say: The Afternoon Prayer until the evening? Because the continual burnt-offering between the evenings [^179] was offered until the evening. R. Judah says: Until the division of the afternoon? The eleventh hour _minus_ a quarter. [^180]
+III. 1. Just as a fixed law was given [^177] for reciting the Shma‘, so did the Majority set a time for the Prayer. Why did they say: The Morning <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> Prayer \[may be said\] until midday? Because the _T_. morning continual burnt-offering was offered until midday. [^178] R. Judah says: Until the fourth hour. And why did they say: The Afternoon Prayer until the evening? Because the continual burnt-offering between the evenings [^179] was offered until the evening. R. Judah says: Until the division of the afternoon? The eleventh hour _minus_ a quarter. [^180]
 
 2\. The evening prayer has no fixed law. R. Eleazar bar Jose [^181] says: \[It ends\] with the closing of the gates. [^182]
 
@@ -46,7 +46,7 @@ III. 1. Just as a fixed law was given [^177] for reciting the Shma‘, so did th
 
 Everyone whose own mind finds pleasure in what he does [^185]—it is a good sign for him; if his own mind does not find pleasure in what he does it is a bad sign for him.
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 <a id="m2"></a>
 
@@ -58,7 +58,7 @@ Everyone whose own mind finds pleasure in what he does [^185]—it is a good sig
 
 ## The Eighteen Prayers and their Abstract.
 
-3\. Rabban Gamaliel used to say: a man prays the Eighteen \[Benedictions\] every day. R. Joshua used to say the abstract [^191] of the Eighteen. R. Joshua [^192] used to say: If his Prayer <span id="p31">[<sup><small>p. 31</small></sup>]</span> is fluent [^193] in his mouth he prays the Eighteen, _M_. and if not the abstract of the Eighteen. [^194]
+3\. Rabban Gamaliel used to say: a man prays the Eighteen \[Benedictions\] every day. R. Joshua used to say the abstract [^191] of the Eighteen. R. Joshua [^192] used to say: If his Prayer <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> is fluent [^193] in his mouth he prays the Eighteen, _M_. and if not the abstract of the Eighteen. [^194]
 
 <a id="m4"></a>
 
@@ -66,7 +66,7 @@ Everyone whose own mind finds pleasure in what he does [^185]—it is a good sig
 
 4\. R. Eliezer used to say: He that maketh his prayer a fixed portion [^195]—his prayer is not true supplication. R. Joshua used to say: He that travelleth in a dangerous place prays the Prayer in a shortened form, the abstract of the Eighteen, and says: _Save, O LORD, Thy people, the remnant of Israel;_ [^196] and at every branch-road of their journey let their needs be before Thee. Blessed art Thou, O LORD, that hearest prayer.
 
-**T**. III. 7. If one is walking in a place of danger and of robbers he prays the Prayer in a shortened form. What is the Prayer in a shortened form? R. Eliezer says: “Do Thy will in heaven above, and give quietness of spirit to them that fear Thee in the earth, and do that which is good in Thine eyes, blessed art Thou that hearest prayer.” R. Jose says: “Hear the voice of the prayer of Thy people Israel, and perform their request quickly, blessed art Thou that hearest prayer.” R. Eleazar bar Zadoq says: "Hear the voice of the cry of Thy <span id="p32">[<sup><small>p. 32</small></sup>]</span> people Israel, and perform their request quickly, blessed art Thou that hearest prayer.“ Others say: ”The needs of Thy people are many and their intelligence is short, let it be acceptable before Thee, O LORD our God, that Thou shouldest give to each one all his needs, and (to) every creature sufficient for its wants, blessed art Thou that hearest prayer.“ R. Eleazar bar Zadoq said, My father used to pray the Prayer in a shortened form on sabbath eves: ”Of Thy love, O LORD our God, with which Thou hast loved Israel Thy people, and of Thy compassion, O our King, with which Thou hast had compassion on the sons of Thy covenant, Thou hast given to us, O LORD our God, this great and holy seventh day in love.“ And over the cup [^197] he used to say: ”Who did sanctify the sabbath day“; and he did not add the ”seal.”
+**T**. III. 7. If one is walking in a place of danger and of robbers he prays the Prayer in a shortened form. What is the Prayer in a shortened form? R. Eliezer says: “Do Thy will in heaven above, and give quietness of spirit to them that fear Thee in the earth, and do that which is good in Thine eyes, blessed art Thou that hearest prayer.” R. Jose says: “Hear the voice of the prayer of Thy people Israel, and perform their request quickly, blessed art Thou that hearest prayer.” R. Eleazar bar Zadoq says: "Hear the voice of the cry of Thy <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> people Israel, and perform their request quickly, blessed art Thou that hearest prayer.“ Others say: ”The needs of Thy people are many and their intelligence is short, let it be acceptable before Thee, O LORD our God, that Thou shouldest give to each one all his needs, and (to) every creature sufficient for its wants, blessed art Thou that hearest prayer.“ R. Eleazar bar Zadoq said, My father used to pray the Prayer in a shortened form on sabbath eves: ”Of Thy love, O LORD our God, with which Thou hast loved Israel Thy people, and of Thy compassion, O our King, with which Thou hast had compassion on the sons of Thy covenant, Thou hast given to us, O LORD our God, this great and holy seventh day in love.“ And over the cup [^197] he used to say: ”Who did sanctify the sabbath day“; and he did not add the ”seal.”
 
 <a id="m5"></a>
 
@@ -82,7 +82,7 @@ Everyone whose own mind finds pleasure in what he does [^185]—it is a good sig
 
 **M**.IV. 6. Should one be sitting in a ship, or on a raft, [^199] let him direct his intention towards the most Holy Sanctuary.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 B.
 
@@ -94,7 +94,7 @@ B.
 
 **M**.IV. 7. R. Eleazar ben Azariah used to say: The Additional Prayers are said only in the local congregation. [^204] But the Teacher [^205] says: Both in a local congregation and where there is no local congregation. R. Judah used to say in his name: [^206] In every place where there is a local congregation the individual is exempt from the Additional Prayers. [^207]
 
-**T**. III. 10. In every festival in which there is no Additional service, as, for example, Chanuka and Purim, at the morning and the afternoon service one <span id="p34">[<sup><small>p. 34</small></sup>]</span> prays the Eighteen, and says an abstract corresponding to the needs of the occasion. [^208] If he does not say this he is not made to turn back. And in every festival in which there is an Additional service, as, for example, the beginning of the month, and the ordinary days in a festival, at the morning and the afternoon service he prays the Eighteen, and says \[the special section for\] the sanctification of the day [^209] in the Benediction about the Temple service. [^210] R. Eleazar says (that he says it) in the _Hoda’ah_. [^211] And if he does not he is turned back.
+**T**. III. 10. In every festival in which there is no Additional service, as, for example, Chanuka and Purim, at the morning and the afternoon service one <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> prays the Eighteen, and says an abstract corresponding to the needs of the occasion. [^208] If he does not say this he is not made to turn back. And in every festival in which there is an Additional service, as, for example, the beginning of the month, and the ordinary days in a festival, at the morning and the afternoon service he prays the Eighteen, and says \[the special section for\] the sanctification of the day [^209] in the Benediction about the Temple service. [^210] R. Eleazar says (that he says it) in the _Hoda’ah_. [^211] And if he does not he is turned back.
 
 And in the Additional services he prays seven [^212] \[Benedictions\] and says \[the special section for\] the sanctification of the day in the middle.
 
@@ -102,7 +102,7 @@ And in the Additional services he prays seven [^212] \[Benedictions\] and says \
 
 12\. On sabbath, and festival, and the Day of Atonement, one prays seven prayers, and says \[the special section for\] the sanctification of the day in the middle. [^214]
 
-13\. The case of the festival of New Year's Day, which falls upon a sabbath. The School of <span id="p35">[<sup><small>p. 35</small></sup>]</span> Shammai say: One prays ten [1](Berakoth_2_5#fn_215) \[Benedictions\], and says that for the sabbath by itself, and that for the festival by itself, and he begins with that for the sabbath. But the School of Hillel says: he prays nine [2](Berakoth_2_5#fn_216) \[Benedictions\].
+13\. The case of the festival of New Year's Day, which falls upon a sabbath. The School of <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Shammai say: One prays ten [1](Berakoth_2_5#fn_215) \[Benedictions\], and says that for the sabbath by itself, and that for the festival by itself, and he begins with that for the sabbath. But the School of Hillel says: he prays nine [2](Berakoth_2_5#fn_216) \[Benedictions\].
 
 The case of a festival which falls on a sabbath. The School of Shammai say: he prays eight \[Benedictions\], and says that for the sabbath by itself, and that for the festival by itself, and he begins with that for the sabbath. But the School of Hillel say: he prays seven, beginning with that for the sabbath, and ending with that for the sabbath, and he says \[the special section for\] the sanctification of the day in the middle. R. Nathan says: also he seals it with: “Blessed be Thou that sanctifiest the sabbath and Israel and the festival seasons.” [3](Berakoth_2_5#fn_217)
 

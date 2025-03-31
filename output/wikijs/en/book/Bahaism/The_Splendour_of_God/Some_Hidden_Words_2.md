@@ -34,7 +34,7 @@ dateCreated: 2025-2-4T22:17:56Z
 
 O Son of Man! In My Ancient Entity and in My Eternal Being, was I hidden. I knew My Love in thee, therefore I created thee; upon thee I laid My Image, and to thee revealed My Beauty.
 
-O Son of Man! I loved thy creation, therefore I created thee. Wherefore love Me, that I may <span id="p97">[<sup><small>p. 97</small></sup>]</span> acknowledge thee, and in the Spirit of Life confirm thee.
+O Son of Man! I loved thy creation, therefore I created thee. Wherefore love Me, that I may <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> acknowledge thee, and in the Spirit of Life confirm thee.
 
 O Son of Existence! Thy paradise is My Love; thy heaven is My Nearness; therefore enter thou and tarry not. This was ordained for thee from Our Supreme Kingdom and exalted Majesty.
 
@@ -50,7 +50,7 @@ O Son of Perception! Look thou to My Face and turn from all save Me; for My Auth
 
 If thou seekest another than Me; yea, if thou searchest the universe for evermore, yet shall thy search be in vain.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 O Son of the Highest Sight! I have placed within thee a spirit from Me, that thou mightest be My Lover! Why hast thou forsaken Me and sought to love another?
 
@@ -70,7 +70,7 @@ O Son of Existence! Thy heart is My Home; purify it for My Descent. Thy spirit i
 
 O Son of Man! Put thy hand into My Treasury! Then will I lift My Head radiant above thy treasures.
 
-O Son of Man! My Greatness is My Bounty <span id="p99">[<sup><small>p. 99</small></sup>]</span> to thee. My Majesty is My Mercy to thee; but that which is due to Me none can realise or comprehend. Verily I have treasured it in the stores of My Secrets, in the treasury of My Command;—as a favour to My servants and a mercy to My people.
+O Son of Man! My Greatness is My Bounty <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> to thee. My Majesty is My Mercy to thee; but that which is due to Me none can realise or comprehend. Verily I have treasured it in the stores of My Secrets, in the treasury of My Command;—as a favour to My servants and a mercy to My people.
 
 O Children of the Spirit! Ye are My treasures, for in ye have I treasured the pearls of My Mysteries and the gems of My Knowledge.
 

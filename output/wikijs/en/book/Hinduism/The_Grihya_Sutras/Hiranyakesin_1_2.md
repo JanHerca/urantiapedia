@@ -46,7 +46,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. [^503] (The teacher says), ‘Happily, god Savit_ri_, may I attain the goal with this N.N.’—here he pronounces (the student's) two names.
 
-7\. [^504] With (the verse), ‘For bliss may the goddesses afford us their protection; may the waters afford drink to us. With bliss and happiness may they overflow us’—both wipe themselves off. <span id="p151">[<sup><small>p. 151</small></sup>]</span>
+7\. [^504] With (the verse), ‘For bliss may the goddesses afford us their protection; may the waters afford drink to us. With bliss and happiness may they overflow us’—both wipe themselves off. <span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 8\. [^505] Then (the teacher) touches with his right hand (the boy's) right shoulder, and with his left (hand) his left (shoulder), and draws (the boy's) right arm towards himself with the Vyâh<i>ri</i>tis, the Sâvitrî verse, and with (the formula), 'By the impulse of the god Savit_ri_, with the arms of the two A<i>ri</i>vins, with Pûshan's hands I initiate thee, N.N.!’
 
@@ -56,7 +56,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ‘By the impulse of the god Savit<i>ri</i> become B<i>ri</i>haspati's pupil. Eat water. Put on fuel. Do the service. Do not sleep in the day-time'—thus (the teacher) instructs him.
 
-11\. [^508] Then (the teacher) gradually moves his right <span id="p152">[<sup><small>p. 152</small></sup>]</span> hand down over (the boy's) right shoulder and touches the place of his heart with (the formulas), 'Thy heart shall dwell in my heart; my mind thou shalt follow with thy mind; in my word thou shalt rejoice with all thy heart; may B<i>ri</i>haspati join thee to me!
+11\. [^508] Then (the teacher) gradually moves his right <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> hand down over (the boy's) right shoulder and touches the place of his heart with (the formulas), 'Thy heart shall dwell in my heart; my mind thou shalt follow with thy mind; in my word thou shalt rejoice with all thy heart; may B<i>ri</i>haspati join thee to me!
 
 ‘To me alone thou shalt adhere. In me thy thoughts shall dwell. Upon me thy veneration shall be bent. When I speak, thou shalt be silent.’
 
@@ -74,7 +74,7 @@ And (again the formulas),
 
 ‘Suva_h_! I place thee in the Sâmans, in Sûrya, in heaven, in the eye, in the Brahman, N.N.!
 
-‘May I be beloved (?) and dear to thee, N.N.! <span id="p153">[<sup><small>p. 153</small></sup>]</span> May I be dear to thee, the fire (?), N.N.! Let us dwell here! Let us dwell in breath and life! Dwell in breath and life, N.N.!’—
+‘May I be beloved (?) and dear to thee, N.N.! <span id="p153"><sup><small>[ p. 153 ]</small></sup></span> May I be dear to thee, the fire (?), N.N.! Let us dwell here! Let us dwell in breath and life! Dwell in breath and life, N.N.!’—
 
 14\. [^510] He then seizes with his right hand (the boy's) right hand together with the thumb, with the five sections, ‘Agni is long-lived.’
 
@@ -92,7 +92,7 @@ And (again the formulas),
 
 4\. [^512] Approaching his mouth to (the boy's) mouth he murmurs, ‘Intelligence may Indra give thee, intelligence the goddess Sarasvatî. Intelligence may the two A<i>s</i>vins, wreathed with lotus, bestow on thee.’
 
-5\. [^513] He then gives (the boy) in charge (to the gods and demons, with the formulas), ‘To Kashaka (?) I <span id="p154">[<sup><small>p. 154</small></sup>]</span> give thee in charge. To Antaka I give thee in charge. To Aghora (“the not frightful one”) I give thee in charge. To Disease . . . to Yama . . . to Makha . . . to Va<i>s</i>inî (“the ruling goddess”) . . . to the earth together with Vai<i>s</i>vânara . . . to the waters . . . to the herbs . . . to the trees . . . to Heaven and Earth . . . to welfare . . . to holy lustre . . . to the Vi<i>s</i>ve devâs . . . to all beings . . . to all deities I give thee in charge.’
+5\. [^513] He then gives (the boy) in charge (to the gods and demons, with the formulas), ‘To Kashaka (?) I <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> give thee in charge. To Antaka I give thee in charge. To Aghora (“the not frightful one”) I give thee in charge. To Disease . . . to Yama . . . to Makha . . . to Va<i>s</i>inî (“the ruling goddess”) . . . to the earth together with Vai<i>s</i>vânara . . . to the waters . . . to the herbs . . . to the trees . . . to Heaven and Earth . . . to welfare . . . to holy lustre . . . to the Vi<i>s</i>ve devâs . . . to all beings . . . to all deities I give thee in charge.’
 
 6\. [^514] He now teaches him the Sâvitrî, if he has (already) been initiated before.
 
@@ -106,7 +106,7 @@ And (again the formulas),
 
 11\. Having recited over (the boy the verse), ‘We call thee, the lord of the hosts’ (Taitt. Sa<i>m</i>h. II, 3, 14, 3), he then recites (the Sâvitrî) to him, firstly Pâda by Pâda, then hemistich by hemistich, and then the whole verse (in the following way),
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 ‘Bhûs! Tat Savitur vare<i>n</i>ya<i>m</i> (That adorable splendour)—
 
@@ -128,7 +128,7 @@ And (again the formulas),
 
 2\. [^517] One (of these pieces of wood he puts on the fire) with (the Mantra), ‘To Agni I have brought a piece of wood, to the great <i>G</i>âtavedas. As thou art inflamed, Agni, through that piece of wood, thus inflame me through wisdom, insight, offspring, cattle, holy lustre, and through the enjoyment of food. Svâhâ!’—
 
-3\. (Then he puts on the fire) two (pieces of wood with the same Mantra, using the dual instead of the <span id="p156">[<sup><small>p. 156</small></sup>]</span> singular), ‘To Agni (I have brought) two pieces of wood;’
+3\. (Then he puts on the fire) two (pieces of wood with the same Mantra, using the dual instead of the <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> singular), ‘To Agni (I have brought) two pieces of wood;’
 
 4\. (Then) four (pieces of wood, using the plural), ‘To Agni (I have brought) pieces of wood.’
 
@@ -148,7 +148,7 @@ And (again the formulas),
 
 12\. [^521] He then gives an optional gift to his Guru (i.e. to the teacher).
 
-13\. [^522] (The teacher) makes him rise with (the verse which the student recites), ‘Up! with life’ (Taitt. Sa<i>m</i>h. I, 2, 8, 1); he gives him in charge (to the sun) with (the words), ‘Sun! This is thy son; I give him in charge to thee;’ and he worships the sun with (the Mantra), ‘That bright eye created by the gods which rises in the east: may we see it a hundred autumns; may we live a hundred autumns; may we <span id="p157">[<sup><small>p. 157</small></sup>]</span> rejoice a hundred autumns; may we be glad a hundred autumns; may we prosper a hundred autumns; may we hear a hundred autumns; may we speak a hundred autumns; may we live undecaying a hundred autumns; and may we long see the sun.’
+13\. [^522] (The teacher) makes him rise with (the verse which the student recites), ‘Up! with life’ (Taitt. Sa<i>m</i>h. I, 2, 8, 1); he gives him in charge (to the sun) with (the words), ‘Sun! This is thy son; I give him in charge to thee;’ and he worships the sun with (the Mantra), ‘That bright eye created by the gods which rises in the east: may we see it a hundred autumns; may we live a hundred autumns; may we <span id="p157"><sup><small>[ p. 157 ]</small></sup></span> rejoice a hundred autumns; may we be glad a hundred autumns; may we prosper a hundred autumns; may we hear a hundred autumns; may we speak a hundred autumns; may we live undecaying a hundred autumns; and may we long see the sun.’
 
 14\. [^523] ‘May Agni further give thee life. May Agni further grant thee bliss. May Indra with the Maruts here give (that) to thee; may the sun with the Vasus give (it) to thee’—with (this verse the teacher) gives him a staff, and then hands over to him a bowl (for collecting alms).
 
@@ -164,7 +164,7 @@ And (again the formulas),
 
 20\. [^526] ‘May all gods bless thee whose first garment we accept. May after thee, the prosperous one, the well-born, many brothers and friends be born’—with (this verse the teacher) takes (for himself) the former garment (of the student).
 
-21\. When the food (with which the Brâhma<i>n</i>as shall be entertained) is ready, (the student) takes some portion of boiled rice, cakes, and flour, mixes <span id="p158">[<sup><small>p. 158</small></sup>]</span> (these substances) with clarified butter, and sacrifices with (the formulas), ‘To Agni svâhâ! To Soma svâhâ! To Agni, the eater of food, svâhâ! To Agni, the lord of food, svâhâ! To Pra<i>n</i>âpati svâhâ! To the Vi<i>n</i>ve devâs svâhâ! To all deities svâhâ! To Agni Svish<i>n</i>ak<i>n</i>t svâhâ!’
+21\. When the food (with which the Brâhma<i>n</i>as shall be entertained) is ready, (the student) takes some portion of boiled rice, cakes, and flour, mixes <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> (these substances) with clarified butter, and sacrifices with (the formulas), ‘To Agni svâhâ! To Soma svâhâ! To Agni, the eater of food, svâhâ! To Agni, the lord of food, svâhâ! To Pra<i>n</i>âpati svâhâ! To the Vi<i>n</i>ve devâs svâhâ! To all deities svâhâ! To Agni Svish<i>n</i>ak<i>n</i>t svâhâ!’
 
 22\. Thus (let him sacrifice) wherever (oblations of food are prescribed) for which the deities (to whom they shall be offered) are not indicated.
 
@@ -181,7 +181,7 @@ And (again the formulas),
 
 1\. [^530] He keeps through three days the (following) vow:
 
-2\. [^531] He eats no pungent or saline food and no vegetables; he sleeps on the ground; he does not drink out of an earthen vessel; he does not give the remnants of his food to a <i>S</i>ûdra; he does not eat honey or meat; he does not sleep in the daytime; <span id="p159">[<sup><small>p. 159</small></sup>]</span> in the morning and in the evening he brings (to his teacher) the food which he has received as alms and a pot of water; every day (he fetches) a bundle of firewood; in the morning and in the evening, or daily in the evening he puts fuel on (the fire, in the following way):
+2\. [^531] He eats no pungent or saline food and no vegetables; he sleeps on the ground; he does not drink out of an earthen vessel; he does not give the remnants of his food to a <i>S</i>ûdra; he does not eat honey or meat; he does not sleep in the daytime; <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> in the morning and in the evening he brings (to his teacher) the food which he has received as alms and a pot of water; every day (he fetches) a bundle of firewood; in the morning and in the evening, or daily in the evening he puts fuel on (the fire, in the following way):
 
 3\. [^532] Before sprinkling (water) round (the fire), he wipes (with his wet hand) from left to right round (the fire) with the verse, ‘As you have loosed, O Vasus, the buffalo-cow’ (Taitt. Sa<i>m</i>h. IV, 7, 15, 7), and sprinkles (water) round (the fire) as above.
 
@@ -195,7 +195,7 @@ And (again the formulas),
 
 ‘May insight, the fragrant one, that assumes all shapes, the gold-coloured, mobile one, come to me. Rich in sap, swelling with milk, may she, insight, the lovely-faced one, rejoice in me! Svâhâ!’
 
-5\. [^534] Having wiped round (the fire) in the same way, he sprinkles (water) round (the fire) as above. <span id="p160">[<sup><small>p. 160</small></sup>]</span>
+5\. [^534] Having wiped round (the fire) in the same way, he sprinkles (water) round (the fire) as above. <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 6\. [^535] He worships the fire with the Mantras, ‘What thy splendour is, Agni, may I thereby’ (Taitt. Sa<i>m</i>h. III, 5, 3, 2), and ‘On me may insight, on me offspring’ (Taitt. Âra<i>m</i>yaka X, 44).
 
@@ -213,7 +213,7 @@ And (again the formulas),
 
 13\. He does not have intercourse with women.
 
-14\. [^540] (The studentship lasts) forty-eight years, or <span id="p161">[<sup><small>p. 161</small></sup>]</span> twenty-four (years), or twelve (years), or until he has learnt (the Veda).
+14\. [^540] (The studentship lasts) forty-eight years, or <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> twenty-four (years), or twelve (years), or until he has learnt (the Veda).
 
 15\. He should not, however, omit keeping the observances.
 

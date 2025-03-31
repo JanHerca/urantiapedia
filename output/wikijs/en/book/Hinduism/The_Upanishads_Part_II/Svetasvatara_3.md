@@ -32,7 +32,7 @@ dateCreated: 2025-1-15T22:54:18Z
   </table>
 </figure>
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 ## THIRD ADHYÂYA [^748].
 
@@ -40,7 +40,7 @@ dateCreated: 2025-1-15T22:54:18Z
 
 2\. For there is one Rudra only, they do not allow a second, who rules all the worlds by his powers. He stands behind all persons [^751], and after having created all worlds he, the protector, rolls it up [^752] at the end of time.
 
-3 [^753]. That one god, having his eyes, his face, his arms, and his feet in every place, when producing heaven and earth, forges them together with his arms and his wings [^754]. <span id="p245">[<sup><small>p. 245</small></sup>]</span> 4\. He [^755], the creator and supporter of the gods, Rudra, the great seer, the lord of all, he who formerly gave birth to Hira<i>n</i>yagarbha, may he endow us with good thoughts.
+3 [^753]. That one god, having his eyes, his face, his arms, and his feet in every place, when producing heaven and earth, forges them together with his arms and his wings [^754]. <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> 4\. He [^755], the creator and supporter of the gods, Rudra, the great seer, the lord of all, he who formerly gave birth to Hira<i>n</i>yagarbha, may he endow us with good thoughts.
 
 5 [^756]. O Rudra, thou dweller in the mountains, look upon us with that most blessed form of thine which is auspicious, not terrible, and reveals no evil!
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-15T22:54:18Z
 
 8 [^759]. I know that great person (purusha) of sunlike lustre beyond the darkness [^760]. A man who knows him truly, passes over death; there is no other path to go [^761].
 
-9\. This whole universe is filled by this person (purusha), to whom there is nothing superior, from whom there is nothing different, than whom there is <span id="p246">[<sup><small>p. 246</small></sup>]</span> nothing smaller or larger, who stands alone, fixed like a tree in the sky [^762].
+9\. This whole universe is filled by this person (purusha), to whom there is nothing superior, from whom there is nothing different, than whom there is <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> nothing smaller or larger, who stands alone, fixed like a tree in the sky [^762].
 
 10\. That which is beyond this world is without form and without suffering. They who know it, become immortal, but others suffer pain indeed [^763].
 
@@ -58,7 +58,7 @@ dateCreated: 2025-1-15T22:54:18Z
 
 12\. That person (purusha) is the great lord; he is the mover of existence [^765], he possesses that purest power of reaching everything [^766], he is light, he is undecaying.
 
-13 [^767]. The person (purusha), not larger than a thumb, <span id="p247">[<sup><small>p. 247</small></sup>]</span> dwelling within, always dwelling in the heart of man, is perceived by the heart, the thought [^768], the mind; they who know it become immortal.
+13 [^767]. The person (purusha), not larger than a thumb, <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> dwelling within, always dwelling in the heart of man, is perceived by the heart, the thought [^768], the mind; they who know it become immortal.
 
 14 [^769]. The person (purusha) with a thousand heads. a thousand eyes, a thousand feet, having compassed the earth on every side, extends beyond it by ten fingers' breadth.
 
@@ -68,7 +68,7 @@ dateCreated: 2025-1-15T22:54:18Z
 
 17\. Separate from all the senses, yet reflecting the qualities of all the senses, it is the lord and ruler of all, it is the great refuge of all.
 
-18\. The embodied spirit within the town with nine gates [^773], the bird, flutters outwards, the ruler of <span id="p248">[<sup><small>p. 248</small></sup>]</span> the whole world, of all that rests and of all that moves.
+18\. The embodied spirit within the town with nine gates [^773], the bird, flutters outwards, the ruler of <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> the whole world, of all that rests and of all that moves.
 
 19\. Grasping without hands, hasting without feet, he sees without eyes, he hears without ears. He knows what can be known, but no one knows him; they call him the first, the great person (purusha).
 

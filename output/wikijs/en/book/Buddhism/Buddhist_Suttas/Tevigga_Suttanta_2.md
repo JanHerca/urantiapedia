@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 <span id="Short"></span>
 
@@ -56,7 +56,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘This, too, (&c., see § II, 2.)[^2]
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 4\. 'Putting away lying, he abstains from speaking falsehood. He speaks truth, from the truth he never swerves; faithful and trustworthy, he injures not his fellow man by deceit.
 
@@ -74,7 +74,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 ‘This, too, (&c., see § II, 2)
 
-8\. 'He refrains from injuring any herb or any creature. He takes but one meal a day; abstaining <span id="p191">[<sup><small>p. 191</small></sup>]</span> from food at night time, or at the wrong time. He abstains from dancing, singing, music, and theatrical shows. He abstains from wearing, using, or adorning himself with garlands, and scents, and unguents, and he abstains from lofty couches and large beds.
+8\. 'He refrains from injuring any herb or any creature. He takes but one meal a day; abstaining <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> from food at night time, or at the wrong time. He abstains from dancing, singing, music, and theatrical shows. He abstains from wearing, using, or adorning himself with garlands, and scents, and unguents, and he abstains from lofty couches and large beds.
 
 ‘This, too, (&c., see § II, 2)
 
@@ -94,7 +94,7 @@ dateCreated: 2025-2-5T20:16:23Z
 
 End of the Short Paragraphs on Conduct.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 <span id="Middle"></span>
 
@@ -110,7 +110,7 @@ End of the Short Paragraphs on Conduct.
 
 3\. 'Or whereas some Sama<i>n</i>a-Brahmans, who live on the food provided by the faithful, continue addicted to witnessing public spectacles: that is to say, dancing, singing, concerts, theatrical representations, recitations, instrumental music, funeral ceremonies, drummings, balls, gymnastics, tumblings, feasts in honour of the dead, combats between elephants, horses, buffaloes, bulls, goats, rams, cocks, and quails, cudgel playing, boxing, wrestling, fencing, musters, marching, and reviews of troops. He, on the other hand, refrains from such public spectacles.
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 ‘This, too, (&c., see § II, 2.)
 
@@ -122,7 +122,7 @@ End of the Short Paragraphs on Conduct.
 
 ‘This, too, (&c., see § II, 2.)
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 6\. ’Or whereas some Sama<i>n</i>a-Brâhmans, who live on the food provided by the faithful, continue addicted to the use of articles for the adornment of their persons: that is to say, unguents; fragrant oils; perfumed baths; shampooings; mirrors; antimony for the eyebrows and eyelashes; flowers; cosmetics; dentifrices; bracelets; diadems; handsome walking-sticks; tiaras; swords; umbrellas; embroidered slippers; fillets; jewelry; fans of the buffalo tail; and long white garments. He, on the other hand, refrains from the use of such articles for the adornment of the person.
 
@@ -132,7 +132,7 @@ End of the Short Paragraphs on Conduct.
 
 ‘This, too, (&c., see § II, 2)
 
-8\. 'Or whereas some Sama<i>n</i>a-Brâhmans, who live on the food provided by the faithful, continue addicted to wrangling: that is to say, to saying, “You are ignorant of this doctrine and discipline, but I understand them!” “What do you know of doctrine or discipline?” “You are heterodox, but I am orthodox!” “My discourse is profitable, but yours is worthless!” “That which you should speak <span id="p195">[<sup><small>p. 195</small></sup>]</span> first you speak last, and that which you should speak last you speak first!” “What you have long studied I have completely overturned!” “Your errors are made quite plain!” “You are disgraced!” “Go away and escape from this disputation; or if not, extricate yourself from your difficulties!” He, on the other hand, refrains from such wrangling.
+8\. 'Or whereas some Sama<i>n</i>a-Brâhmans, who live on the food provided by the faithful, continue addicted to wrangling: that is to say, to saying, “You are ignorant of this doctrine and discipline, but I understand them!” “What do you know of doctrine or discipline?” “You are heterodox, but I am orthodox!” “My discourse is profitable, but yours is worthless!” “That which you should speak <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> first you speak last, and that which you should speak last you speak first!” “What you have long studied I have completely overturned!” “Your errors are made quite plain!” “You are disgraced!” “Go away and escape from this disputation; or if not, extricate yourself from your difficulties!” He, on the other hand, refrains from such wrangling.
 
 ‘This, too, (&c., see § II, 2)
 
@@ -148,7 +148,7 @@ End of the Short Paragraphs on Conduct.
 
 End of the Middle Paragraphs on Conduct.
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 <span id="Long"></span>
 
@@ -160,7 +160,7 @@ End of the Middle Paragraphs on Conduct.
 
 ‘This, too, (&c., see § II, 2.)
 
-2\. 'Or whereas some Sama<i>n</i>a-Brâhmans, who live on the food provided by the faithful, continue to gain a livelihood by such low arts, by such lying <span id="p197">[<sup><small>p. 197</small></sup>]</span> practices as these: that is to say, by explaining the good and bad points in jewels, sticks, garments, swords, arrows, bows, weapons of war, women, men, youths, maidens, male and female slaves, elephants, horses, bulls, oxen, goats, sheep, fowl, snipe, iguanas, long-eared creatures, turtle, and deer.—
+2\. 'Or whereas some Sama<i>n</i>a-Brâhmans, who live on the food provided by the faithful, continue to gain a livelihood by such low arts, by such lying <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> practices as these: that is to say, by explaining the good and bad points in jewels, sticks, garments, swords, arrows, bows, weapons of war, women, men, youths, maidens, male and female slaves, elephants, horses, bulls, oxen, goats, sheep, fowl, snipe, iguanas, long-eared creatures, turtle, and deer.—
 
 ‘He, on the other hand, refrains from seeking a livelihood by such low arts, by such lying practices.
 
@@ -176,7 +176,7 @@ End of the Middle Paragraphs on Conduct.
 
 4\. 'Or whereas some Sama<i>n</i>a-Brahmans, who live on the food provided by the faithful, continue to gain a livelihood by such low arts and such lying practices as these: that is to say, by predicting—
 
-‘“There will be an eclipse of the moon.” “There will be an eclipse of the sun.” “There will be an eclipse of a planet.” “The sun and the moon will be in conjunction.” "The sun and the moon will be in <span id="p198">[<sup><small>p. 198</small></sup>]</span> opposition.“ ”The planets will be in conjunction.“ ”The planets will be in opposition.“ ”There will be falling meteors, and fiery coruscations in the atmosphere.“ ”There will be earthquakes, thunderbolts, and forked lightnings.“ ”The rising and setting of the sun, moon, or planets will be cloudy or clear.“ And then: ”The eclipse of the moon will have such and such a result.“ ”The eclipse of the sun will have such and such a result.“ ”The eclipse of the moon will have such and such a result.“ ”The sun and the moon being in conjunction will have such and such a result.“ ”The sun and the moon being in opposition will have such and such a result.“ ”The planets being in conjunction will have such and such a result.“ ”The planets being in opposition will have such and such a result.“ ”The falling meteors and fiery coruscations in the atmosphere will have such and such a result.“ ”The earthquakes, thunderbolts, and forked lightnings will have such and such a result.“ ”The rising and setting of the sun, moon, or planets, cloudy or clear, will have such and such a result.”
+‘“There will be an eclipse of the moon.” “There will be an eclipse of the sun.” “There will be an eclipse of a planet.” “The sun and the moon will be in conjunction.” "The sun and the moon will be in <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> opposition.“ ”The planets will be in conjunction.“ ”The planets will be in opposition.“ ”There will be falling meteors, and fiery coruscations in the atmosphere.“ ”There will be earthquakes, thunderbolts, and forked lightnings.“ ”The rising and setting of the sun, moon, or planets will be cloudy or clear.“ And then: ”The eclipse of the moon will have such and such a result.“ ”The eclipse of the sun will have such and such a result.“ ”The eclipse of the moon will have such and such a result.“ ”The sun and the moon being in conjunction will have such and such a result.“ ”The sun and the moon being in opposition will have such and such a result.“ ”The planets being in conjunction will have such and such a result.“ ”The planets being in opposition will have such and such a result.“ ”The falling meteors and fiery coruscations in the atmosphere will have such and such a result.“ ”The earthquakes, thunderbolts, and forked lightnings will have such and such a result.“ ”The rising and setting of the sun, moon, or planets, cloudy or clear, will have such and such a result.”
 
 ‘He, on the other hand, refrains from seeking a livelihood by such low arts, by such lying practices.
 
@@ -184,7 +184,7 @@ End of the Middle Paragraphs on Conduct.
 
 5\. 'Or whereas some Sama<i>n</i>a-Brâhmans, who live on the food provided by the faithful, continue to gain a livelihood by such low arts and such lying practices as these: that is to say, by predicting—
 
-‘“There will be an abundant rainfall.” “There will be a deficient rainfall.” “There will be an abundant harvest.” “There will be famine.” “There will be tranquillity.” “There will be disturbances.” “The season will be sickly.” “The season will be healthy.” <span id="p199">[<sup><small>p. 199</small></sup>]</span> Or by drawing deeds, making up accounts, giving pills, making verses, or arguing points of casuistry.—
+‘“There will be an abundant rainfall.” “There will be a deficient rainfall.” “There will be an abundant harvest.” “There will be famine.” “There will be tranquillity.” “There will be disturbances.” “The season will be sickly.” “The season will be healthy.” <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> Or by drawing deeds, making up accounts, giving pills, making verses, or arguing points of casuistry.—
 
 ‘He, on the other hand, refrains from seeking a livelihood by such low arts, by such lying practices.
 
@@ -196,7 +196,7 @@ End of the Middle Paragraphs on Conduct.
 
 ‘This, too, (&c., see § II, 2)
 
-7\. 'Or whereas some Sama<i>n</i>a-Brâhmans, who live on the food provided by the faithful, continue to gain a livelihood by such low arts and such lying practices as these: that is to say, by teaching the ritual for making vows and performing them; for blessing fields; for imparting virility and rendering impotent; for choosing the site of a house; for performing a house-warming. By teaching forms of words to be used when cleansing the mouth, when bathing, and when making offerings to the god of <span id="p200">[<sup><small>p. 200</small></sup>]</span> fire. By prescribing medicines to produce vomiting or purging, or to remove obstructions in the higher or lower intestines, or to relieve head-ache. By preparing oils for the ear, collyriums, catholicons, antimony, and cooling drinks. By practising cautery, midwifery, or the use of root decoctions or salves.—
+7\. 'Or whereas some Sama<i>n</i>a-Brâhmans, who live on the food provided by the faithful, continue to gain a livelihood by such low arts and such lying practices as these: that is to say, by teaching the ritual for making vows and performing them; for blessing fields; for imparting virility and rendering impotent; for choosing the site of a house; for performing a house-warming. By teaching forms of words to be used when cleansing the mouth, when bathing, and when making offerings to the god of <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> fire. By prescribing medicines to produce vomiting or purging, or to remove obstructions in the higher or lower intestines, or to relieve head-ache. By preparing oils for the ear, collyriums, catholicons, antimony, and cooling drinks. By practising cautery, midwifery, or the use of root decoctions or salves.—
 
 ‘He, on the other hand, refrains from seeking a livelihood by such low arts, by such lying practices.
 

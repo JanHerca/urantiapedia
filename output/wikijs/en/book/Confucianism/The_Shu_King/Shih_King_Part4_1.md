@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T12:2:15Z
   </table>
 </figure>
 
-<span id="p430">[<sup><small>p. 430</small></sup>]</span>
+<span id="p430"><sup><small>[ p. 430 ]</small></sup></span>
 
 ## IV. LESSONS FROM THE STATES. ODES AND STANZAS ILLUSTRATING THE RELIGIOUS VIEWS AND PRACTICES OF THE WRITERS AND THEIR TIMES.
 

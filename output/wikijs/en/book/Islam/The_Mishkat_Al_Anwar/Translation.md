@@ -32,9 +32,9 @@ dateCreated: 2024-11-23T12:49:50Z
   </table>
 </figure>
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 \[The references in square brackets are to the pages of the Cairo Arabic edition. {these are written in the form \[p. 3\], to avoid confusion with the footnote indicators.—jbh}\]
 
@@ -48,7 +48,7 @@ _And Prayer for MUHAMMED! of all lights the Light; Sire of them that do the righ
 
 You have asked me, dear brother—and may Allâh decree for you the quest of man's chiefest bliss, make you candidate for the Ascent to the highest height anoint your vision with the light of Reality, and purge your inward parts from all that is not the Real!—You have asked me, I say, to communicate to you the mysteries of the Lights Divine, together with the allusions behind the literal meaning of certain texts in the Koran and certain sayings in the Traditions.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 And principally this text[^1]:—
 
@@ -60,7 +60,7 @@ What is the significance of His comparison of LIGHT with Niche, and Glass, and L
 
 And this Tradition
 
-_“Allâh hath Seventy Thousand Veils of_ <span id="p77">[<sup><small>p. 77</small></sup>]</span>
+_“Allâh hath Seventy Thousand Veils of_ <span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 _Light and Darkness: were He to withdraw their curtain, then would the splendours of His Aspect[^2] surely consume everyone who apprehended Him with his sight.”_
 
@@ -77,14 +77,14 @@ Or, as the Prophet has said—
 “There is a knowledge like the form of a hidden
 thing, known to none save those who know God.”
 
-If then these speak of that secret, only the Children of Ignorance will contradict them. And howsoever many these Ignorants be, the <span id="p78">[<sup><small>p. 78</small></sup>]</span> Mysteries must from the gaze of sinners be kept inviolate.
+If then these speak of that secret, only the Children of Ignorance will contradict them. And howsoever many these Ignorants be, the <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> Mysteries must from the gaze of sinners be kept inviolate.
 
 But I believe that your heart has been opened by the Light and your consciousness purged of the darkness of Ignorance. I will, therefore, not be so niggardly as to deny you direction to these glorious truths in all their fineness and all their divineness; for the wrong done in keeping Wisdom from her Children is not less than that of yielding her to those who are Strangers to her. As the poet hath it—
 
 “He who bestoweth Knowledge on fools loseth it,
 And he who keepeth the deserving from her doeth a wrong.”
 
-You must, however, be content with a very summarized explanation of the subject; for the full demonstration of my theme would demand a treatment of both its principles and its parts for which my time is at present insufficient, and for which neither my mind nor my energies are free. The keys of all hearts are in the hands of Allah: He opens them when He pleases, as He pleases, and with what <span id="p79">[<sup><small>p. 79</small></sup>]</span> He pleases. At this time, then, it shall suffice to open up to you three chapters or parts, whereof the first is as hereunder follows.
+You must, however, be content with a very summarized explanation of the subject; for the full demonstration of my theme would demand a treatment of both its principles and its parts for which my time is at present insufficient, and for which neither my mind nor my energies are free. The keys of all hearts are in the hands of Allah: He opens them when He pleases, as He pleases, and with what <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> He pleases. At this time, then, it shall suffice to open up to you three chapters or parts, whereof the first is as hereunder follows.
 
 <br>
 
