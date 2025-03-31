@@ -38,7 +38,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 2\. Ahura sait que je suis le meilleur don de sa justice, celui qui a vécu et qui vit éternellement. Je les adore par leurs noms, tandis que je m'approche avec louanges [^1069]. Le Bon Royaume doit être choisi, ce sort qui porte le plus sur (nos bénédictions [^1070]).
 
-3\. Que Sraosha (Obéissance) soit ici présent pour <span id="p255">[<sup><small>p. 255</small></sup>]</span> le sacrifice d'Ahura Mazda, le très bienfaisant, le saint, qui nous est si cher au début, ainsi qu'à la fin ; oui, qu'il soit présent ici [^1071].
+3\. Que Sraosha (Obéissance) soit ici présent pour <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> le sacrifice d'Ahura Mazda, le très bienfaisant, le saint, qui nous est si cher au début, ainsi qu'à la fin ; oui, qu'il soit présent ici [^1071].
 
 4\. En tant qu'Ahû (vénéré et) à choisir, l'Âtarevakhsha me parle ainsi.
 

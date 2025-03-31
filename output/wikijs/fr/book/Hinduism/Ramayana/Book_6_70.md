@@ -118,7 +118,7 @@ Que des troupes soient placées près de chaque porte,
 Et, armé de fragments de roche
 Et les arbres, chaque voie et chaque allée bloquent.
 
-<span id="p475">[<sup><small>p. 475</small></sup>]</span>
+<span id="p475"><sup><small>[ p. 475 ]</small></sup></span>
 
 Ainsi parla Rama : le chef obéit,
 Et les rapides Vánars se tenaient en rang,
@@ -232,7 +232,7 @@ Avec du sang et Lakshman à ses côtés,
 Et abattez le grand Hanúmán.
 Le spoiler de notre glorieuse ville.
 
-<span id="p476">[<sup><small>p. 476</small></sup>]</span>
+<span id="p476"><sup><small>[ p. 476 ]</small></sup></span>
 
 
 
@@ -347,7 +347,7 @@ Celui qui règne sur le ciel, il l'a fièrement foulé.
 Derrière lui marchait une foule immense
 De guerriers géants, grands et forts,
 
-<span id="p477">[<sup><small>p. 477</small></sup>]</span>
+<span id="p477"><sup><small>[ p. 477 ]</small></sup></span>
 
 Sur les éléphants des races les plus nobles.
 Avec des voitures, avec des chameaux et avec des chevaux :
@@ -455,7 +455,7 @@ Il pleuvait rapidement sur la tête de Kumbhakrna.
 Dont la lance arrêtait chaque projectile plus mortel,
 Et il est tombé inoffensif dans la plaine.
 
-<span id="p478">[<sup><small>p. 478</small></sup>]</span>
+<span id="p478"><sup><small>[ p. 478 ]</small></sup></span>
 
 Puis avec ses yeux furieux illuminés
 Le géant se précipita sur l'ennemi,
@@ -555,7 +555,7 @@ Son œil embrumé avouait sa peur ;
 Pourtant, à la tête de Sugríva, il envoya
 Un sommet de la montagne de Lanká.
 
-<span id="p479">[<sup><small>p. 479</small></sup>]</span>
+<span id="p479"><sup><small>[ p. 479 ]</small></sup></span>
 
 Aucune force ne pouvait arrêter la masse précipitée :
 Sugriva tomba et resta allongé sans connaissance.
@@ -673,7 +673,7 @@ Et de ta chair je nourris ma faim.
 Il cessa et Ráma, sans se décourager,
 Sur sa corde ces flèches posées
 
-<span id="p480">[<sup><small>p. 480</small></sup>]</span>
+<span id="p480"><sup><small>[ p. 480 ]</small></sup></span>
 
 Qui a percé les majestueux arbres Sál,
 Et Báli, roi de Vánars, le tua.
@@ -783,7 +783,7 @@ Mon cœur insensé était trop audacieux :
 J'ai conduit mon sage conseiller d'ici,
 Et je récolterai les fruits de mes offenses.
 
-<span id="p481">[<sup><small>p. 481</small></sup>]</span>
+<span id="p481"><sup><small>[ p. 481 ]</small></sup></span>
 
 
 
@@ -893,7 +893,7 @@ Mais son club Devántak a bien joué
 Et il détourna chaque rocher et chaque arbre.
 Et pourtant, assaillis par trois ennemis de ce genre,
 
-<span id="p482">[<sup><small>p. 482</small></sup>]</span>
+<span id="p482"><sup><small>[ p. 482 ]</small></sup></span>
 
 Le cœur d’Angad s’est effondré ou a tremblé.
 Il tua la puissante bête qui portait

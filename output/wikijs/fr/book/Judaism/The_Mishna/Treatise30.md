@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 ‏סדר נזיקין‎
 
@@ -70,7 +70,7 @@ Contient les lois cérémonielles. Il traite également de l'institution du Sanh
 
 \[Contient des préceptes pour l'administration des serments.\]
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 ## XXXVI. TRAITÉ ÉDIOTH, TÉMOIGNAGES.
 

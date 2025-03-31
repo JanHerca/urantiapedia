@@ -36,7 +36,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 4 [^1540]. Qu'Ahura Mazda se réjouisse ! . . . .
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 Salut à toi, ô Feu, fils d'Ahura Mazda, toi le bienfaisant et le très grand Yazata !
 
@@ -64,7 +64,7 @@ Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
 Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
-7 [^1543]. Je bénis le sacrifice et l'invocation, et la <span id="p359">[<sup><small>p. 359</small></sup>]</span> bonne offrande, l'offrande bienfaisante, l'offrande d'assistance qui t'est offerte, ô Âtar, fils d'Ahura Mazda !
+7 [^1543]. Je bénis le sacrifice et l'invocation, et la <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> bonne offrande, l'offrande bienfaisante, l'offrande d'assistance qui t'est offerte, ô Âtar, fils d'Ahura Mazda !
 
 Tu es digne de sacrifice et d’invocation ; puisses-tu recevoir le sacrifice et l’invocation dans les maisons des hommes.
 
@@ -80,7 +80,7 @@ Puisses-tu devenir adulte pour protéger (cette maison) ! Puisses-tu devenir exc
 
 La connaissance, la sagacité ; la rapidité de la langue ; la sainteté de l'âme ; une bonne mémoire ; et puis la compréhension qui continue à croître et celle qui ne s'acquiert pas par l'apprentissage [^1547] ;
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 Et puis le courage viril,
 

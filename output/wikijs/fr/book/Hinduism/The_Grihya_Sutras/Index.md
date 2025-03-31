@@ -29,7 +29,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 Ceci est l'index de la section précédente, les Ya<i>g</i><i>g</i>a-Paribhâshâ-Sûtras d'Âpastamba, et non du volume entier. Les références renvoient aux Sûtras (sauf si un numéro de page est explicitement spécifié), avec un c en relief indiquant le commentaire du Sûtra. Les entrées sont classées par ordre alphabétique sanskrit. — JBH\]
 
@@ -135,7 +135,7 @@ a<i>s</i>rotriya, personne ignorante du Veda, [2c](Paribhasha_25#an2c).
 
 ash<i>t</i>akâ, [p. 344](Paribhasha_125#p344).
 
-ash<i>t</i>âkapâla, le gâteau cuit dans huit coupes (lors des sacrifices de pleine lune et de nouvelle lune), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76). <span id="p366">[<sup><small>p. 366</small></sup>]</span> asannipâtin, ne produisant pas d'effet immédiat, [42](Paribhasha_50#an42).
+ash<i>t</i>âkapâla, le gâteau cuit dans huit coupes (lors des sacrifices de pleine lune et de nouvelle lune), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76). <span id="p366"><sup><small>[ p. 366 ]</small></sup></span> asannipâtin, ne produisant pas d'effet immédiat, [42](Paribhasha_50#an42).
 
 asamavetârtha, paroles (d'un Mantra) non liées au sacrifice, [133c](Paribhasha_150#an133c).
 
@@ -265,7 +265,7 @@ ekadevatâ, offrande pour une divinité, [123](Paribhasha_125#an123).
 
 ekaprakara<i>n</i>a, une performance (typique), [70](Paribhasha_75#an70).
 
-ekamantra, accompagné d'un mantra, [38](Paribhasha_50#an38). <span id="p367">[<sup><small>p. 367</small></sup>]</span> ekâda<i>s</i>akapâla, gâteau cuit dans onze coupes (lors des sacrifices de pleine lune et de nouvelle lune), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76), [124c](Paribhasha_125#an124c).
+ekamantra, accompagné d'un mantra, [38](Paribhasha_50#an38). <span id="p367"><sup><small>[ p. 367 ]</small></sup></span> ekâda<i>s</i>akapâla, gâteau cuit dans onze coupes (lors des sacrifices de pleine lune et de nouvelle lune), [74](Paribhasha_75#an74), [76](Paribhasha_100#an76), [124c](Paribhasha_125#an124c).
 
 ekâha, sacrifice accompli en un jour, [140](Paribhasha_150#an140).
 
@@ -389,7 +389,7 @@ dakshina, à droite, [92](Paribhasha_100#an92) (_g_ânu).
 
 dakshin<i>n</i>â, vers le sud, [94](Paribhasha_100#an94).
 
-dakshin<i>n</i>âpavarga, vers le sud, [60](Paribhasha_75#an60). <span id="p368">[<sup><small>p. 368</small></sup>]</span> darvihoma, libation à la louche, [85](Paribhasha_100#an85), ([86](Paribhasha_100#an86) à [91](Paribhasha_100#an91)), [92](Paribhasha_100#an92), [95](Paribhasha_100#an95).
+dakshin<i>n</i>âpavarga, vers le sud, [60](Paribhasha_75#an60). <span id="p368"><sup><small>[ p. 368 ]</small></sup></span> darvihoma, libation à la louche, [85](Paribhasha_100#an85), ([86](Paribhasha_100#an86) à [91](Paribhasha_100#an91)), [92](Paribhasha_100#an92), [95](Paribhasha_100#an95).
 
 dar<i>s</i>apûr<i>s</i>amâsau, les sacrifices de la nouvelle lune et de la pleine lune, [5](Paribhasha_25#an5), [7c](Paribhasha_25#an7c), [14c](Paribhasha_25#an14c), [111](Paribhasha_125#an111), [114](Paribhasha_125#an114), [122](Paribhasha_125#an122)c, [123c](Paribhasha_125#an123c), [127c](Paribhasha_150#an127c), [148c](Paribhasha_150#an148c), [155c](Paribhasha_159#an155c) à [158c](Paribhasha_159#an158c); [p. 344](Paribhasha_125#p344).
 
@@ -517,7 +517,7 @@ prak<i>ri</i>ti, norme (pour un sacrifice), [114](Paribhasha_125#an114), [122c](
 
 prak<i>ri</i>tidevatâ, la divinité de la prak<i>ri</i>ti, [127](Paribhasha_150#an127).
 
-pra<i>n</i>î, faire avancer (le feu), [159](Paribhasha_159#an159). <span id="p369">[<sup><small>p. 369</small></sup>]</span> pratitantram, à chaque sacrifice, [29](Paribhasha_50#an29).
+pra<i>n</i>î, faire avancer (le feu), [159](Paribhasha_159#an159). <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> pratitantram, à chaque sacrifice, [29](Paribhasha_50#an29).
 
 pratinidhâ, pour remplacer, [135](Paribhasha_150#an135).
 
@@ -785,7 +785,7 @@ sa<i>m</i>nipat, Caus., laisser coïncider, [45](Paribhasha_50#an45), [96](Parib
 
 sa<i>m</i>nî, pour offrir le Sâ<i>m</i>nâyya, [79](Paribhasha_100#an79).
 
-samavadyo, diviser (le beurre), [90](Paribhasha_100#an90). <span id="p371">[<sup><small>p. 371</small></sup>]</span> samavetârtha, paroles (d'un Mantra) liées au sacrifice, [133c](Paribhasha_150#an133c).
+samavadyo, diviser (le beurre), [90](Paribhasha_100#an90). <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> samavetârtha, paroles (d'un Mantra) liées au sacrifice, [133c](Paribhasha_150#an133c).
 
 samas, joindre (des cordes), [61](Paribhasha_75#an61), [62](Paribhasha_75#an62).
 

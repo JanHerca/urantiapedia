@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 III. 1. Celui dont le mort repose devant lui [^141] est exempté de la récitation du Shma', [^142]† et des Phylactères. [^142]† Dans le cas de ceux qui
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 **M**. porte le cercueil, ainsi que ceux qui le remplacent et ceux qui le remplacent, [^143] y compris ceux qui sont devant le cercueil et ceux qui sont derrière, et ceux qui sont requis pour le cercueil – ils sont tenus de réciter le Shma'. Les deux catégories sont exemptées de la prière. [^144]
 
@@ -58,7 +58,7 @@ III. 1. Celui dont le mort repose devant lui [^141] est exempté de la récitati
 
 4\. Celui qui est rituellement impur [^148] répète le Shma' dans son cœur seulement, et ne prononce pas de bénédiction, ni avant ni après. Mais lors d'un repas, il prononce la bénédiction après, mais pas avant. [^149] R. Judah dit : il prononce la bénédiction avant et après. [^150]
 
-5\. Si quelqu'un commence la prière debout et se souvient ensuite qu'il est rituellement impur, qu'il ne marque pas de pause, mais dise la forme courte <span id="p24">[<sup><small>p. 24</small></sup>]</span>. Si quelqu'un est descendu se baigner, [^151] s'il peut sortir, se couvrir et réciter, avant le lever du soleil, qu'il sorte, se couvrir et réciter. Sinon, qu'il se couvre d'eau et récite. Mais il ne doit pas se couvrir d'eau sale, ni d'eau de trempage du lin, [^152] avant d'y avoir versé de l'eau. Et à quelle distance doit-il s'éloigner d'eux et des excréments ? Quatre coudées.
+5\. Si quelqu'un commence la prière debout et se souvient ensuite qu'il est rituellement impur, qu'il ne marque pas de pause, mais dise la forme courte <span id="p24"><sup><small>[ p. 24 ]</small></sup></span>. Si quelqu'un est descendu se baigner, [^151] s'il peut sortir, se couvrir et réciter, avant le lever du soleil, qu'il sorte, se couvrir et réciter. Sinon, qu'il se couvre d'eau et récite. Mais il ne doit pas se couvrir d'eau sale, ni d'eau de trempage du lin, [^152] avant d'y avoir versé de l'eau. Et à quelle distance doit-il s'éloigner d'eux et des excréments ? Quatre coudées.
 
 6\. Un homme souffrant d'une diarrhée et une femme ont besoin de prendre un bain à certains moments. Mais R. Judah les en exempte. (Résumé seulement.)
 
@@ -68,7 +68,7 @@ III. 1. Celui dont le mort repose devant lui [^141] est exempté de la récitati
 
 14\. Si un homme se tient nu en pleine nature, ou travaille nu, il doit se couvrir de paille, de chaume ou de quoi que ce soit d'autre, et réciter le Shma', conformément au dicton : « Il n'est pas louable pour un homme de se tenir nu ; car lorsque le Saint, béni soit-Il, créa l'homme, il ne le créa pas nu. Car il est dit : « Quand j'ai fait du nuage son vêtement et de l'obscurité son lange » [^161]. « Quand j'ai fait du nuage son vêtement » – cela signifie le sac ; « et de l'obscurité son lange – cela signifie le placenta. » Un homme qui porte un tablier de tissu ou de cuir autour des reins récite le Shma'. Mais dans les deux cas, l'homme ne dit la Prière qu'après avoir couvert son cœur.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 **T**.
 
@@ -80,7 +80,7 @@ III. 1. Celui dont le mort repose devant lui [^141] est exempté de la récitati
 
 18\. Un homme ne peut pas se lever et prier lorsqu'il
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 **T**.
 
@@ -92,7 +92,7 @@ Il estime qu'il doit soulager la nature. Car il est dit : « Prépare-toi à ren
 
 21\. Hillel l'Ancien [^170] dit : Ne te montre pas nu, ne te montre pas habillé ; ne te montre pas debout, ne te montre pas assis ; ne te montre pas en train de rire, ne te montre pas en train de pleurer ; car il est dit : « Un temps pour rire et un temps pour pleurer ;
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 **T**.un temps pour embrasser et un temps pour s'abstenir d'embrasser. [^171]
 

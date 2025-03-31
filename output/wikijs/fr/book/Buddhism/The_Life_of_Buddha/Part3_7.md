@@ -32,14 +32,14 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 
 Le Maître arriva dans la ville de Kausambi et, au début, il en fut très heureux. Les habitants écoutèrent ses paroles avec enthousiasme et nombre d'entre eux devinrent moines. Le roi Udayana était parmi les croyants et autorisa son fils Rashtrapala à entrer dans la communauté.
 
 C'est pourtant à Kausambi que le Maître connut l'une de ses plus grandes souffrances. Un jour, un moine fut réprimandé pour une faute mineure. Il refusa de reconnaître sa faute ; il fut donc puni. Il refusa de se soumettre au châtiment et, comme c'était un homme agréable, d'un grand esprit et d'un grand savoir, nombreux furent ceux qui prirent son parti. En vain, les autres le supplièrent de revenir sur le droit chemin.
 
-« Ne prenez pas cet air prétentieux », lui dirent-ils ; « ne vous croyez pas incapable de commettre des erreurs. Écoutez nos sages conseils. Adressez-vous aux autres moines comme il convient de s'adresser à ceux qui professent une foi qui est aussi la vôtre ; ils s'adresseront à vous comme il convient de s'adresser à celui qui professe une foi qui est aussi la leur. La communauté grandira, la communauté <span id="p240">[<sup><small>p. 240</small></sup>]</span> ne s'épanouira que si les moines prennent conseil les uns des autres. »
+« Ne prenez pas cet air prétentieux », lui dirent-ils ; « ne vous croyez pas incapable de commettre des erreurs. Écoutez nos sages conseils. Adressez-vous aux autres moines comme il convient de s'adresser à ceux qui professent une foi qui est aussi la vôtre ; ils s'adresseront à vous comme il convient de s'adresser à celui qui professe une foi qui est aussi la leur. La communauté grandira, la communauté <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> ne s'épanouira que si les moines prennent conseil les uns des autres. »
 
 « Ce n'est pas à toi de me dire ce qui est bien ou mal », répondit-il. « Arrête de me réprimander. »
 

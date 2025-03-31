@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 SEIZIÈME CONFÉRENCE, INTIMÉ LA CHANSON [^972].
 
@@ -42,7 +42,7 @@ Il est un Brâhmane pour cette raison qu'il a cessé toutes les actions péchere
 
 Il est un Sramana car il n'est gêné par aucun obstacle, il est libre de désirs, de possession, de meurtre, de mensonges et de relations sexuelles ; il est exempt de colère, d'orgueil, de tromperie, d'avidité, d'amour et de haine, renonçant ainsi à toute passion qui le conduit au péché, comme le meurtre d'êtres. Un tel homme mérite le nom de Sramana, celui qui maîtrise ses sens, est bien qualifié pour sa tâche et abandonne son corps. (3)
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 Il est un Bhikshu pour cette raison qu'il n'est pas vaniteux, mais modeste et obéissant (à son Guru), qu'il soumet ses sens, est bien qualifié (pour sa tâche), et abandonne son corps, qu'il supporte tous les troubles et calamités, qu'il pratique avec un esprit pur la conduite (prescrite), se dépense bien, est constant et ne mange qu'une quantité modérée [^974] de nourriture qui lui est donnée par d'autres. (Un tel homme) mérite le nom de Bhikshu. (4)
 

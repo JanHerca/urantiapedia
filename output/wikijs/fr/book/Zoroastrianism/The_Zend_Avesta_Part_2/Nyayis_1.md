@@ -32,13 +32,13 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p346">[<sup><small>p. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 <span id="p374">[<sup><small>p. 347p374</small></sup>]</span>
 
-<span id="p348">[<sup><small>p. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 Un Nyâyi<i>s</i> est proprement une prière de supplication, par opposition au Sitâyi<i>s</i>, une prière de louange. Ce terme s'applique particulièrement à cinq prières adressées au Soleil, à Mithra, à la Lune, aux Eaux et au Feu. Tout laïc de plus de huit ans est tenu de réciter le Nyâyi<i>s</i> : il le récite debout et ceint de son Kôstî.
 
@@ -56,7 +56,7 @@ Les quatre premiers Nyâyi doivent être récités spécialement les jours où p
 
 1\. \[^1500]!\]
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 Salut à toi, ô Ahura Mazda, de la triple manière [^1501] ! \[Salut à toi\] avant toutes les autres créatures !
 
@@ -92,7 +92,7 @@ Salut au taureau !
 
 Salut à Gaya [^1506] !
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Salut au Fravashi du saint Spitama Zarathu<i>s</i>tra !
 
@@ -120,7 +120,7 @@ Nous sacrifions à Tistrya, brillante et glorieuse.
 
 Nous sacrifions à l'étoile Vana<i>n</i><i>t</i> [^1512], fabriquée par Mazda.
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 Nous sacrifions à Tistrya, l'étoile brillante et glorieuse.
 
@@ -156,7 +156,7 @@ Nous sacrifions au Soleil brillant, immortel, rayonnant et rapide.
 
 10\. Je me confesse comme un adorateur de Mazda, un disciple de Zarathustra . . . .
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 Au soleil brillant, immortel, resplendissant, au cheval rapide ;
 

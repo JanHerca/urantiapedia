@@ -62,7 +62,7 @@ Un exemple notable de ce style naturel et simple est Jáḥiz dont le langage, �
 
 L'art de l'écriture officielle fut cultivé avec une telle assiduité, l'importance qu'on lui accordait était si grande et il devint si apprécié, que le Kátib, ou secrétaire, s'éleva souvent à la plus haute position de l'État, celle de Wazír, ou ministre en chef. Tha'álibí jette une lumière considérable sur l'apparition et le développement de cette correspondance officielle. Il dit que l'écriture épistolaire commença avec 'Abd al-Ḥamíd (ob. 133 A.H.), Kátib, ou secrétaire, de Marwán, le dernier des califes omeyyades, et se termina avec Ibn al-Amíd (ob. 359 ou 360 A.H.), le Wazír de Rukn ad-Daula, le prince Buwayhid. [^58]
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 Dans cet effort pour un style orné et élevé, l'adoption d'un type de composition qui a élevé l'éloquence en chaire au-dessus du langage de la vie quotidienne semble être un résultat naturel, et ainsi la prose rimée est devenue la caractéristique essentielle non seulement de l'écriture officielle, mais aussi de la correspondance privée des érudits et des cultivés.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:1:34Z
   </table>
 </figure>
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 [1](Book_4_10#fn523)
 
@@ -123,7 +123,7 @@ Avec le murmure effrayé des abeilles sauvages.
 Tes yeux se tournent vers Cassias là-bas [^527]
 Dont les grappes glorieuses brillent et brûlent.
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 Ces arbres aux robes jaunes contemplent,
 Comme des géants parés d’or bruni.
@@ -213,7 +213,7 @@ Chez les créatures d’espèce inférieure.
 Voyez comment la paonne se tourne pour rencontrer
 Son époux a maintenant les pieds dessinés par l'amour.
 
-<span id="p321">[<sup><small>p. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 Alors, Lakshman, si mon cher aux grands yeux,
 L'enfant de Janak était toujours là,
@@ -315,7 +315,7 @@ Brille avec les gouttes qui pendent sur eux.
 La vie n'a plus de plaisir pour moi
 Même si je ne vois pas ma chère reine,
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 Qui a tant aimé ces fleurs qui rivalisent
 Avec toute la splendeur de son œil,
@@ -415,7 +415,7 @@ Réveillez des pensées d’angoisse dans ma poitrine.
 Ce ruisseau couvert de lotus, contemple
 Dont les eaux sont si douces et froides,
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 Doux ruisseau, lieu de villégiature préféré des oiseaux sauvages,
 Où s'ébattent courlis, cygnes et plongeons ;
@@ -534,7 +534,7 @@ Puis il se mit en route
 Le héros est déterminé à accomplir sa tâche,
 Je n'ai pas pensé au joli ruisseau de Pampá,
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 Ou des arbres que les brises murmurantes secouaient,
 Bien que ses regards se soient posés sur des bois sombres,
@@ -638,7 +638,7 @@ Alors n'ayez pas peur, seigneur de la race Vánar.
 Hélas, en toi je trouve clairement
 La faiblesse du genre Vánar,
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 Qui aime de pensée en pensée à portée,
 Ne vous fiez à aucune croyance et accueillez le changement.
@@ -732,7 +732,7 @@ C'est glorieux avec la lumière que tu apportes.
 Comment avez-vous atteint, comme des dieux en visage,
 Meilleurs seigneurs de la terre, cet endroit solitaire,
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 Avec des tresses enroulées en guise d'ermite, [^545]
 Et les splendeurs de ces yeux de lotus ?
@@ -840,7 +840,7 @@ Et tout son cœur fut rempli de joie.
 Et j'espère que cette alliance avec eux apporterait
 Réparation et triomphe pour son roi.
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 
 
@@ -932,7 +932,7 @@ Que tout le monde soit sauvé et prospère.
 Il doit maintenant gagner la grâce de Sugríva
 A cherché sa demeure dans les bois.
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 Fils d'un roi de renommée glorieuse ;
 Qui ne connaît pas le nom de Das'aratha ?
@@ -1044,7 +1044,7 @@ Puis, bois avec bois engendrant, [^555] vint
 Sous ses mains habiles, la flamme s'est allumée.
 Entre les chefs qui tirent il a placé
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 Avec des couronnes de fleurs et un culte honoré.
 Et tout autour de sa gloire flamboyante
@@ -1147,7 +1147,7 @@ Le malheur d'un gémissement solitaire.
 Mais bientôt, cher Prince, ton cœur sera
 Libre de toute trace de chagrin ;
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 Car je restaurerai ton bien-aimé,
 Perdu comme le prix de la sainte tradition. [^559]
@@ -1239,7 +1239,7 @@ La demeure de mon ennemi.
 Et lui, sous cette main, aujourd'hui
 J'irai dans les salles de Yama.
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 
 
@@ -1360,7 +1360,7 @@ Leur constance et leur amour perdurent.
 Or, argent, bijoux riches et rares
 Ils sont considérés comme une richesse à partager entre amis.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Oui, qu’ils soient riches ou pauvres et humbles,
 Béni de toutes les joies ou plongé dans le malheur,
@@ -1474,7 +1474,7 @@ Leurs pas, où qu'il veuille aller,
 Par eux seuls, dans le travail et la douleur,
 Je continue à mener ma misérable vie.
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 Assez, car tu as entendu en bref
 L'histoire de ma douleur et de mon chagrin.
@@ -1586,7 +1586,7 @@ Mais eux, une fois l'histoire connue,
 Il m'a placé comme roi sur le trône de Báli.
 Là, pendant un certain temps, j'ai régné avec justice
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 Et tous ordonnés avec le même soin,
 Quand la joie vient du démon tué
@@ -1705,7 +1705,7 @@ La grotte était fermée et ne laissait aucun chemin.
 Et il cria à haute voix le nom de Sugríva.
 Mais tout était calme : aucune voix ne répondit,
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 Et l’espoir dans mon sein est mort.
 Avec des efforts furieux, vains au début,

@@ -32,15 +32,15 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 **PARTIE II.**
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 **SIX LETTRES DE SAINT FRANÇOIS**
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 ## LES LETTRES DE SAINT FRANÇOIS.
 
@@ -48,9 +48,9 @@ dateCreated: 2025-1-18T19:47:35Z
 
 Des dix-sept lettres attribuées à saint François dans l'édition de Wadding des _Opuscula_, cinq ne peuvent être admises comme authentiques, du moins sous la forme donnée dans cet ouvrage, et les autres doivent, à deux exceptions près, être reclassées.
 
-Français Dans la première catégorie, nous devons placer la lettre familière dans laquelle saint François donne à saint Antoine la permission d'enseigner la théologie (Épître III, dans l'édition de Wadding), et qui a été exclue par les éditeurs Quaracchi comme douteuse au motif qu'elle existe sous trop de formes différentes. [^369] Les lettres à frère Élie, aux ministres provinciaux et aux Custodes (Épîtres VII, IX et XIV, dans l'édition de Wadding), ont été traduites par Wadding en latin à partir d'un texte espagnol, [^370] et ne nous sont pas parvenues dans leur forme originale. Elles ne figurent donc pas dans l'édition Quaracchi. Il en va de même pour la lettre (Épis. XVII, dans l'édition de Wadding) au « frère » Giacoma dei Settisoli, qui est clairement un extrait du chapitre XVIII de l'Actus B. Francisci et Sociorum ejus. [^371] Suivant la <span id="p94">[<sup><small>p. 94</small></sup>]</span> Éditeurs Quaracchi, j'ai exclu ces cinq lettres du présent ouvrage.
+Français Dans la première catégorie, nous devons placer la lettre familière dans laquelle saint François donne à saint Antoine la permission d'enseigner la théologie (Épître III, dans l'édition de Wadding), et qui a été exclue par les éditeurs Quaracchi comme douteuse au motif qu'elle existe sous trop de formes différentes. [^369] Les lettres à frère Élie, aux ministres provinciaux et aux Custodes (Épîtres VII, IX et XIV, dans l'édition de Wadding), ont été traduites par Wadding en latin à partir d'un texte espagnol, [^370] et ne nous sont pas parvenues dans leur forme originale. Elles ne figurent donc pas dans l'édition Quaracchi. Il en va de même pour la lettre (Épis. XVII, dans l'édition de Wadding) au « frère » Giacoma dei Settisoli, qui est clairement un extrait du chapitre XVIII de l'Actus B. Francisci et Sociorum ejus. [^371] Suivant la <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> Éditeurs Quaracchi, j'ai exclu ces cinq lettres du présent ouvrage.
 
-Quant à la reclassification des autres lettres attribuées à saint François par Wadding, les épîtres IV, V et XIII de son édition sont sans aucun doute d'authentiques écrits de saint François, mais ce ne sont pas des lettres ; du moins, les plus anciens manuscrits ne les présentent pas sous forme épistolaire. Les deux premières sont des fragments d'une « règle de vie » et d'une « dernière volonté », écrites par saint François pour sainte Claire ; la n° XIII est une Instruction sur le Saint-Sacrement. Toutes trois sont reproduites ailleurs dans le présent volume sous leur forme originale. [^372] Pour le reste, les épîtres numérotées I et II par Wadding forment le texte d'une seule et même lettre « À tous les fidèles » ; celles numérotées VI et VIII semblent être un résumé de la véritable lettre « À un ministre », et la n° X fait partie de la lettre « Au Chapitre général », également donnée ci-dessous, tandis que les épîtres XI et XII ne forment qu'une seule lettre dans les plus anciens codex et appartiennent à cette même lettre au Chapitre général. Les deux seules lettres de saint François qui, tant sur le fond que sur la forme, peuvent être acceptées telles que Wadding les donne, sont les lettres n° VIII et XV, adressées respectivement aux <span id="p95">[<sup><small>p. 95</small></sup>]</span> Règles et à frère Léon. En un mot, à la suite de ce processus d'élimination et de reclassification, seules cinq des dix-sept lettres attribuées à saint François par Wadding nous sont parvenues, à savoir :
+Quant à la reclassification des autres lettres attribuées à saint François par Wadding, les épîtres IV, V et XIII de son édition sont sans aucun doute d'authentiques écrits de saint François, mais ce ne sont pas des lettres ; du moins, les plus anciens manuscrits ne les présentent pas sous forme épistolaire. Les deux premières sont des fragments d'une « règle de vie » et d'une « dernière volonté », écrites par saint François pour sainte Claire ; la n° XIII est une Instruction sur le Saint-Sacrement. Toutes trois sont reproduites ailleurs dans le présent volume sous leur forme originale. [^372] Pour le reste, les épîtres numérotées I et II par Wadding forment le texte d'une seule et même lettre « À tous les fidèles » ; celles numérotées VI et VIII semblent être un résumé de la véritable lettre « À un ministre », et la n° X fait partie de la lettre « Au Chapitre général », également donnée ci-dessous, tandis que les épîtres XI et XII ne forment qu'une seule lettre dans les plus anciens codex et appartiennent à cette même lettre au Chapitre général. Les deux seules lettres de saint François qui, tant sur le fond que sur la forme, peuvent être acceptées telles que Wadding les donne, sont les lettres n° VIII et XV, adressées respectivement aux <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> Règles et à frère Léon. En un mot, à la suite de ce processus d'élimination et de reclassification, seules cinq des dix-sept lettres attribuées à saint François par Wadding nous sont parvenues, à savoir :
 
 1\. _Lettre à tous les fidèles_ (Ep. I et II de Wadding).
 

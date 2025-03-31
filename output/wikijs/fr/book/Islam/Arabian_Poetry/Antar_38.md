@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 Le roi Zoheir eut bientôt à désirer la présence du champion d'Abs et d'Adnan. Ayant refusé de donner sa fille en mariage à Numan, roi de Hirah, celui-ci envoie son frère, le prince Aswad, avec une grande armée pour ravager le pays d'Abs; et Antar résolut patriotiquement d'aider son souverain et vieil ami à repousser les envahisseurs. L'armée du prince Aswad fut détruite par un stratagème de Shiboob, qui sut s'introduire dans leurs sacs d'eau et, les ouvrant, laissa échapper toute l'eau. Affaiblis par la soif, ils furent facilement vaincus par une très petite force d'Absiens, et, entre autres, le prince Aswad fut fait prisonnier.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Pendant ce temps, la célèbre guerrière Jaida, qui avait été capturée par Antar et s'était enfuie, quitta son pays pour se venger de la mort de Khalid. Elle ne rencontra pas Antar, mais attaqua un groupe d'Absiens, fit prisonniers Malik et Abla, puis se rendit en Irak et les livra à Numan, qui déclara qu'il ferait pendre Abla à côté d'Antar et qu'il ne laisserait pas un seul Absien en vie. Mais lorsqu'il apprit la grande victoire d'Antar sur l'armée de son frère, il envoya un satrape au héros, lui proposant d'échanger Abla et les autres femmes absiennes contre le prince Aswad et ses compagnons. Le messager royal revint avec la réponse qu'il fallait rendre Abla et tous ses bijoux avant de libérer le prince Aswad. Numan, ayant entendu de son satrape un récit effrayant des exploits et du prodigieux courage d'Antar, se rendit immédiatement à la demande du héros. Dès qu'Abla et son père furent rendus à leur tribu, Antar procéda à la libération de ses prisonniers, parmi lesquels se trouvait Maadi Kereb, un cousin de Jaida.
 
@@ -46,7 +46,7 @@ La belle ennemie du héros, Jaida, toujours brûlante de venger la mort de son m
 
 Ô par ma tribu ! les larmes ont suppuré mes joues, et dans la grandeur de mon agonie le sommeil m'a abandonné.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 Ces vêtements de deuil ont affaibli mes énergies, et la maladie a affaibli mes os et ma peau ;
 
@@ -82,7 +82,7 @@ La baguette du bonheur flottait au-dessus de nous, comme si la fortune nous avai
 
 Ô Hijar ! Hé ! Je t'enseignerai ma position : tu n'oseras pas me combattre, déshonoré comme tu l'es !
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 As-tu oublié dans la Vallée des Torrents les actes de ma valeur, et comment j'ai renversé les armées, aussi intrépides soient-elles ?
 
@@ -112,7 +112,7 @@ Ni la poussée de la lance ni la bataille ne font partie de mes qualifications ;
 
 Je m'appelle Ocab : mais en vérité je ne suis pas un homme de combat ; et l'épée dans la paume de ma main ne poursuit que les pélicans.
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 Antar se moqua des vers d’Ocab et le laissa partir. « Retourne dans ta famille, lui dit-il, et n’allez plus chez le Persan, sinon vous serez en danger ; car quand ils vous verront sain et sauf, ils vous accuseront et vous feront peut-être mourir. » — « Vous avez bien raison, mon seigneur, dit-il ; par la foi d’un Arabe, si j’avais su que ces Perses seraient ainsi vaincus, je ne vous aurais pas quitté ; et j’aurais probablement pu m’emparer de quelques-uns de leurs biens et les rapporter à ma famille. » — « Cheik, dit le compagnon d’Antar, cette affaire a échoué ; mais allons, prends les dépouilles de ce satrape et retourne dans ta famille, et ne passe pas ta soirée en homme mort. » — « Oui, mon seigneur, dit Ocab, c’est un homme sage que celui qui retourne sain et sauf auprès de ses amis. » — Il courut donc vers le satrape et le dépouilla. « Autour de sa taille, il portait une ceinture et une épée. Ocab, voyant toutes ces richesses, fut stupéfait. Il l'ayant entièrement pillé, il dit à Antar : « Ô mon seigneur, je ne me séparerai plus jamais de toi. Je voudrais que tu me présentes à ton roi, que je lui baise la main et que je lui offre mes services. Alors, je resterai à jamais fidèle à ton parti, et chaque fois que tu tueras un satrape, je le pillerai. » Antar rit de bon cœur.
 

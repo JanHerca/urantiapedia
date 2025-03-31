@@ -90,7 +90,7 @@ En éléphant, en voiture et en monture.
 Les Vánars ont vu l'ennemi géant
 Versez depuis la porte dans un spectacle galant,
 
-<span id="p466">[<sup><small>p. 466</small></sup>]</span>
+<span id="p466"><sup><small>[ p. 466 ]</small></sup></span>
 
 Réjouis-toi avec la joie féroce des guerriers
 Et il cria, impatient de se battre.
@@ -209,7 +209,7 @@ Les rochers et les arbres que Vánars a jetés.
 Féroce comme un lion affamé quand
 Des cerfs imprudents s'approchent de sa tanière,
 
-<span id="p467">[<sup><small>p. 467</small></sup>]</span>
+<span id="p467"><sup><small>[ p. 467 ]</small></sup></span>
 
 Angad, les yeux rouges de fureur,
 Agitant un arbre au-dessus de sa tête.
@@ -294,7 +294,7 @@ Il rassembla pourtant des forces pour saisir son épée ;
 Et, coupé par la lame scintillante,
 La tête du géant fut posée sur terre. [^972]
 
-<span id="p468">[<sup><small>p. 468</small></sup>]</span>
+<span id="p468"><sup><small>[ p. 468 ]</small></sup></span>
 
 
 
@@ -420,7 +420,7 @@ Le seigneur de Lanká répondit.
 Aml espère gagner la gloire éternelle
 Ce bras te protégera dans le \* ??
 
-<span id="p469">[<sup><small>p. 469</small></sup>]</span>
+<span id="p469"><sup><small>[ p. 469 ]</small></sup></span>
 
 Et finira ta gloire et ta vie.
 « Souviens-toi », s’écria le fils du Dieu du Vent,
@@ -538,7 +538,7 @@ Son corps comprimé par ces énormes bras
 Le don de Dieu du géant \*\*\*\*\*
 Mais conscient que lui-même faisait partie
 
-<span id="p470">[<sup><small>p. 470</small></sup>]</span>
+<span id="p470"><sup><small>[ p. 470 ]</small></sup></span>
 
 De Vishnu, il était ferme dans son cœur.
 
@@ -657,7 +657,7 @@ Et toi et les tiens, nous te conduirons à la ruine.
 Et Vedavati, [^977] avant de mourir
 Tué par mon insulte impitoyable, il s'écria :
 
-<span id="p471">[<sup><small>p. 471</small></sup>]</span>
+<span id="p471"><sup><small>[ p. 471 ]</small></sup></span>
 
 « Un descendant de ma lignée royale
 Je te tuerai, vil misérable, toi et les tiens.
@@ -758,7 +758,7 @@ Qui vous conduit à une vitesse incontrôlable
 Pour me réveiller. Retenez bien mes mots,
 Le roi tremblera de consternation,
 
-<span id="p472">[<sup><small>p. 472</small></sup>]</span>
+<span id="p472"><sup><small>[ p. 472 ]</small></sup></span>
 
 De Vishn'u, il était ferme dans son cœur.
 Le fils du Dieu du Vent assista au combat,
@@ -870,7 +870,7 @@ Et toi et les tiens, nous te conduirons à la ruine.
 Et Vedavati, [^983] avant de mourir
 Tué par mon insulte impitoyable, il s'écria :
 
-<span id="p473">[<sup><small>p. 473</small></sup>]</span>
+<span id="p473"><sup><small>[ p. 473 ]</small></sup></span>
 
 « Un descendant de ma lignée royale
 Je te tuerai, vil misérable, toi et les tiens.
@@ -970,7 +970,7 @@ Qui vous conduit à une vitesse incontrôlable
 Pour me réveiller. Retenez bien mes mots,
 Le roi tremblera de consternation,
 
-<span id="p474">[<sup><small>p. 474</small></sup>]</span>
+<span id="p474"><sup><small>[ p. 474 ]</small></sup></span>
 
 Que le feu soit éteint et qu'Indra soit tué
 Avant que vous ne rompiez mon repos en vain.

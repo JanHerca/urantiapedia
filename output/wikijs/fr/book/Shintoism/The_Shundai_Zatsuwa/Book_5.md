@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T22:28:34Z
   </table>
 </figure>
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 ## LA LUNE LE MÉMENTO DES GÉNÉRATIONS.
 
@@ -42,7 +42,7 @@ Ce que j'ai dit de « l'émotion qui ne cesse jamais » fait référence à l'am
 « Les hommes qui sont partis ne viennent pas à moi
 Les hommes du futur ne m'entendent pas.
 
-et tandis que je le lis, mon admiration ne connaît pas de limites. Car voici la pensée de Kushi[^2] <span id="p126">[<sup><small>p. 126</small></sup>]</span> : « Personne ne me connaît, personne de ma génération ; et les hommes du passé qui étaient d'un même cœur que moi, avec qui je voudrais parler, sont hors de ma portée ; et les hommes de l'âge à venir qui seront du même esprit, ne m'entendent pas et ne me connaissent pas. » Il en est de même pour tous ceux qui ont un cœur : Kushi n'est pas le seul à se lamenter ainsi. Moi aussi, je vois la lune avec un tel esprit et je pleure. Le présent est le passé pour le futur, et à cette époque, quelqu'un comme moi se lamentera en regardant la lune.
+et tandis que je le lis, mon admiration ne connaît pas de limites. Car voici la pensée de Kushi[^2] <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> : « Personne ne me connaît, personne de ma génération ; et les hommes du passé qui étaient d'un même cœur que moi, avec qui je voudrais parler, sont hors de ma portée ; et les hommes de l'âge à venir qui seront du même esprit, ne m'entendent pas et ne me connaissent pas. » Il en est de même pour tous ceux qui ont un cœur : Kushi n'est pas le seul à se lamenter ainsi. Moi aussi, je vois la lune avec un tel esprit et je pleure. Le présent est le passé pour le futur, et à cette époque, quelqu'un comme moi se lamentera en regardant la lune.
 
 ## ABANDONNER LE MONDE MAIS PAS SOI-MÊME.
 
@@ -50,7 +50,7 @@ Lorsque le célèbre prêtre Saigyō partit en pèlerinage vers l'Est, il arriva
 
 Il y avait alors à Takao un prêtre très mauvais, nommé Bungaku. Très fier du pouvoir qu'il avait reçu de Kamakura, il détestait Saigyō et disait : « Si je le rencontre, je l'insulterai en face. » Un jour, Saigyō arriva à Takao et Bungaku lui demanda de passer la nuit avec lui, ravi par cette occasion. Il dit à ses disciples : « Voyez ! Quand il viendra, je le frapperai ! » et attendit, le poing fermé. Tous étaient dans une attente troublée, mais à l'arrivée de Saigyō, le courage de Bungaku s'évanouit et il le salua respectueusement. Alors, les disciples demandèrent à Bungaku : « Pourquoi n'as-tu pas frappé Saigyō ? » Mais Bungaku répondit : « Voyez l'esprit de son visage ! Il devrait me frapper ! » Combien la haute pureté et l'esprit merveilleux de Saigyō étaient évidents ! Notre seul regret est que le confucianisme n'était pas encore connu du monde et que même un tel homme ignorait la vérité. Doté d'un caractère pur et clair, il détestait les mœurs du monde et devint prêtre. Vraiment, c'était lamentable !
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Abandonner ses parents et son seigneur pour se sauver en devenant prêtre, c'est certes abandonner le monde ; mais au lieu d'abandonner ses parents et son seigneur, ce n'est pas s'abandonner soi-même. Sans s'abandonner soi-même, on n'abandonne pas le monde. Le désir de gloire et de gain dans le monde, et l'abandon du monde dans l'espoir du paradis, diffèrent comme le pur et l'impur, et pourtant tous deux découlent du désir de son propre bonheur. Le bouddhisme considère nos relations humaines comme « empruntées » et enseigne donc que parents et seigneur peuvent être abandonnés. Il n'en est rien ! Si nous devons abandonner quoi que ce soit, abandonnons d'abord réputation, gain et plaisir ! Alors, il ne sera plus nécessaire de fuir le monde. Mais dans la doctrine célèbre, il y a place pour le plaisir naturel. Il n'est pas nécessaire d'abandonner les relations humaines ni quoi que ce soit. Mais les abandonner par désir du paradis est une manifestation honteuse de l'aspiration au bonheur.
 
@@ -72,7 +72,7 @@ Même dans ma jeunesse, les jeunes gens ne mentionnaient jamais le prix de quoi 
 
 ---
 
-Nous ne devons pas non plus perdre notre temps. « La force ne vient pas deux fois. Un jour n'est pas deux fois demain. Au moment du travail, il faut peiner. Les années et les mois n'attendent pas l'homme. » Nés avec l'amour du savoir, ne pensons pas que l'âge est sans vertu et l'avenir sans réputation, et que nous périssons comme les arbres et l'herbe. Efforcez-vous chaque jour avec diligence. Il y avait un homme de Kaga qui aimait l'esthétisme p. 131 de Rikiyu[^3] <span id="p131">[<sup><small>p. 131</small></sup>]</span> et pratiquait assidûment les cérémonies du thé. Lorsqu'il reçut l'ordre de se rendre à Edo, il emporta son équipement et, même dans les auberges, accrochait sa bouilloire et préparait son thé. Ses associés lui rétorquèrent : « Même si vous aimez le thé, prenez des vacances en chemin. » Mais il répondit : « Un jour de route n'est pas un autre jour ; c'est aussi un jour de ma vie ! Ce n'est donc pas un jour pour omettre mon thé cérémoniel. » Il ne fit aucune différence et ne s'arrêta pas un jour.
+Nous ne devons pas non plus perdre notre temps. « La force ne vient pas deux fois. Un jour n'est pas deux fois demain. Au moment du travail, il faut peiner. Les années et les mois n'attendent pas l'homme. » Nés avec l'amour du savoir, ne pensons pas que l'âge est sans vertu et l'avenir sans réputation, et que nous périssons comme les arbres et l'herbe. Efforcez-vous chaque jour avec diligence. Il y avait un homme de Kaga qui aimait l'esthétisme p. 131 de Rikiyu[^3] <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> et pratiquait assidûment les cérémonies du thé. Lorsqu'il reçut l'ordre de se rendre à Edo, il emporta son équipement et, même dans les auberges, accrochait sa bouilloire et préparait son thé. Ses associés lui rétorquèrent : « Même si vous aimez le thé, prenez des vacances en chemin. » Mais il répondit : « Un jour de route n'est pas un autre jour ; c'est aussi un jour de ma vie ! Ce n'est donc pas un jour pour omettre mon thé cérémoniel. » Il ne fit aucune différence et ne s'arrêta pas un jour.
 
 Les érudits doivent donc se fixer sur la « Voie ». Elle ne doit en aucun cas être abandonnée, et il n'y a pas un jour dans la vie qui ne soit consacré à sa pratique. Aller ou venir, il n'y a pas de lieu sans elle. Ne nous pressons pas, de peur de l'abandonner rapidement. Ni par hâte ni par paresse, nous ne devons jamais suivre la « Voie ».
 

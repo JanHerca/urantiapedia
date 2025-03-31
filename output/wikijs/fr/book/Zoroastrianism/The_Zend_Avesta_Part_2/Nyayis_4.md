@@ -50,7 +50,7 @@ Soyez propitiatoire [^1529] . . . .
 
 7\. « Moi, Ahura Mazda, je l'ai fait tomber avec une grande vigueur, pour l'augmentation de la maison, du bourg, de la ville, du pays [^1531].
 
-8\. « Celui de qui elle entendra le staota yêsnya [^1532] ; celui de qui elle entendra l'Ahuna <span id="p357">[<sup><small>p. 357</small></sup>]</span> vairya [^1533] ; celui de qui elle entendra l'Asha-vahi<i>s</i>ta [^1534] ; celui par qui les bonnes eaux seront rendues pures ; avec les paroles des hymnes sacrés [^1535], il entrera d'abord dans le Garô-nmâna d'Ahura Mazda : elle lui donnera les bienfaits demandés [^1536]. »
+8\. « Celui de qui elle entendra le staota yêsnya [^1532] ; celui de qui elle entendra l'Ahuna <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> vairya [^1533] ; celui de qui elle entendra l'Asha-vahi<i>s</i>ta [^1534] ; celui par qui les bonnes eaux seront rendues pures ; avec les paroles des hymnes sacrés [^1535], il entrera d'abord dans le Garô-nmâna d'Ahura Mazda : elle lui donnera les bienfaits demandés [^1536]. »
 
 9 [^1537]. « Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu ; je lui offrirai un sacrifice bien accompli. Ainsi peux-tu nous conseiller quand on t'appelle ! Puisse-tu être pleinement adorée. »
 

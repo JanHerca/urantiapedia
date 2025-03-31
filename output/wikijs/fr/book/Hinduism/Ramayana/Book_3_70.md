@@ -104,7 +104,7 @@ Et libère-moi de ce fardeau de malheur.
 Ô Palmier, vêtu de riches fruits mûrs
 Ronde comme les beautés de sa poitrine,
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 Si tu as le cœur de savoir et de ressentir,
 Le destin de mon incomparable consort révélé.
@@ -229,7 +229,7 @@ Il pleurait la femme qu'il cherchait en vain.
 Et Lakshman dont le sein fraternel
 Aspirant à son bien-être, le chef s'adressa
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Dont l'âme a cédé sous la douleur
 Quand toutes ses recherches acharnées furent vaines.
@@ -351,7 +351,7 @@ Mais je ne pourrai jamais revenir pour voir
 Ces chambres où ma reine devrait être
 Et entendez les gens méprisants parler
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 De Ráma comme un lâche et faible.
 Car ce sera la honte du lâche
@@ -476,7 +476,7 @@ Et ma chérie aux yeux de lotus,
 Cherchait des lys au bord de la rivière,
 Car sans moi elle ne partirait jamais
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 Aux ruisseaux où poussent les fleurs sauvages,
 Ne me dis pas, frère, elle s'est égarée
@@ -597,7 +597,7 @@ Puis, comme sa tristesse s'est réveillée à nouveau
 Ainsi, il parla à son frère chef :
 « Ces cerfs ont entendu ta question avide
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 Et se leva aussitôt, poussé par la pitié :
 Vois, dans ta recherche ils t'apportent leur aide,
@@ -721,7 +721,7 @@ Créateur quand il est compatissant.
 Et donc, je pense, les Immortels se tournent
 Des yeux froids sur moi maintenant, et du mépris
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 Le faible répond à l'appel de la pitié,
 Dévoué au bien de tous.
@@ -840,7 +840,7 @@ Ni qui sont les chefs qui se sont rencontrés et ont combattu,
 Ni quel était le prix recherché par les ennemis ;
 Qui a marqué le sol avec ses sabots et ses roues,
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 Ou dont la main qui a manié l'acier
 Qui a quitté cet endroit, la bataille terminée,
@@ -962,7 +962,7 @@ Et appelle à nouveau à une vie vigoureuse.
 Soyez viril et montrez une vigueur divine ;
 Déployez votre force la plus noble, la vôtre.
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 Efforcez-vous, meilleur de la souche du vieux Ikshváku,
 Efforcez-vous jusqu’à ce que l’ennemi vaincu soit tué.
@@ -1086,7 +1086,7 @@ Le vautour, blessé dans mon destin,
 Il est allongé sur le sol, saignant et mourant.
 Alors Ráma et son frère s'agitèrent
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 Par pitié, l'oiseau royal pleurait,
 Et, tandis que leurs mains caressaient ses membres,
@@ -1206,7 +1206,7 @@ Ainsi cet oiseau royal était vénéré.
 Apportez du carburant pour le lieu des funérailles :
 Ces mains seront éclairées par le feu solennel
 
-<span id="p310">[<sup><small>p. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 Et sur le bûcher ardent sera déposé
 L'oiseau qui est mort pour moi aujourd'hui.
@@ -1325,7 +1325,7 @@ Le prince s'adressa à lui en ces termes :
 « Voici ton trésor précieux et beau :
 Ayomukhi [^517] le nom que je porte.
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 Dans les fourrés de chaque haute colline,
 Sur les îlots de chaque ruisseau et rigole,
@@ -1446,7 +1446,7 @@ Déclarer par quelle occasion a conduit
 Ces étendues sauvages et solitaires que tu foules,
 Avec des épées, des arcs et des flèches pour percer,
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 Comme des taureaux dont les cornes sont fortes et féroces.
 Pourquoi avez-vous recherché cette terre forestière ?

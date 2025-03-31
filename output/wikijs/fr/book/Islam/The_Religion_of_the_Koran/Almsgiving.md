@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 CHAPITRE II., Verset 211. — Ils te demanderont ce qu’ils doivent dépenser en aumônes. Dis : « Tout bien que vous ferez, qu’il soit destiné aux père et mère, aux proches, à l’orphelin, au pauvre et au garçon du voyage ; et tout bien que vous ferez, Dieu le sait. »
 
@@ -44,7 +44,7 @@ Ceux qui dépensent leurs biens dans le sentier d'Allah ne font pas suivre ce qu
 
 (265).—Les paroles aimables et le pardon valent mieux que l’aumône suivie d’un ennui, et Dieu est riche et clément.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 Ô vous qui croyez ! Ne rendez pas votre aumône vaine par des moqueries et des ennuis, comme celui qui dépense ce qu'il a pour les apparences devant les hommes, et ne croit pas en Dieu ni au Jour dernier. Car son image est comme celle d'un caillou recouvert de terre, sur lequel une forte pluie tombe et le laisse nu. Ils ne peuvent rien faire de ce qu'ils gagnent, car Dieu ne guide pas les gens mécréants.
 

@@ -32,9 +32,9 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 1, SECTION 1.
 
@@ -68,7 +68,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 15\. [^461] Ayant avec les deux (versets), « Je prends (le feu) pour moi », et « Le feu qui (est entré) » — a pris possession du feu,
 
-16\. [^462] Et ayant, au nord du feu, étendu de l'herbe Darbha, il prépare les objets (suivants), <span id="p139">[<sup><small>p. 139</small></sup>]</span> selon ce qui est requis (pour la cérémonie qu'il va accomplir) :
+16\. [^462] Et ayant, au nord du feu, étendu de l'herbe Darbha, il prépare les objets (suivants), <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> selon ce qui est requis (pour la cérémonie qu'il va accomplir) :
 
 17\. [^463] Une pierre, un vêtement (neuf) qui n'a pas encore été lavé, une peau (d'antilope, ou de cerf tacheté, etc.), une ceinture triplement torsadée d'herbe Mu<i>ñ</i><i>ñ</i>a s'il est un Brâhma<i>ñ</i>a (qui doit être initié), une corde d'arc pour un Râ<i>ñ</i>anya, un fil de laine pour un Vai<i>ñ</i>ya, un bâton de Bilva ou de bois de Palâ<i>ñ</i>a pour un Brâhma<i>ñ</i>a, de bois de Nyagrodha pour un Râ<i>ñ</i>anya, de bois d'Udumbara pour un Vai<i>ñ</i>ya.
 
@@ -80,7 +80,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 21\. Tous (ces objets) ensemble, ou (l'un après l'autre) comme cela se produit.
 
-22\. [^466] À ce moment-là, le Brahman suspend le cordon sacrificiel sur son épaule gauche, boit de l'eau, passe du côté ouest du feu au côté sud, jette un brin d'herbe du siège du Brahman, touche l'eau et s'assoit, le visage tourné vers le feu. <span id="p140">[<sup><small>p. 140</small></sup>]</span>
+22\. [^466] À ce moment-là, le Brahman suspend le cordon sacrificiel sur son épaule gauche, boit de l'eau, passe du côté ouest du feu au côté sud, jette un brin d'herbe du siège du Brahman, touche l'eau et s'assoit, le visage tourné vers le feu. <span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 23\. [^467] Il prend comme « purificateurs » deux lames de Darbha droites avec des pointes ininterrompues d'une longueur d'un empan, les coupe avec autre chose que son ongle, les essuie avec de l'eau, verse de l'eau dans un récipient sur lequel il a posé les purificateurs, remplit (ce récipient) jusqu'au bord, purifie (l'eau) trois fois avec les deux passoires de Darbha, en tenant leurs pointes vers le nord, place (l'eau) sur l'herbe de Darbha sur le côté nord du feu, et la recouvre d'herbe de Darbha.
 
@@ -90,7 +90,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 26\. Après avoir aspergé (d'eau) l'herbe Darbha avec laquelle le combustible a été lié, il la jette dans le feu.
 
-27\. [^470] Il fait fondre l'Â<i>ya dans l'Â</i>ya, verse l'Â<i>ya dans l'Â<i>ya dans l'Â<i>ya dans l'Â<i>ya dans le pot d'Â<i>ya</i> sur lequel il a posé les purificateurs, prend des charbons (du feu) vers le nord, met (l'Â<i>ya dans l'Â<i>ya dans l'Â<i>ya) sur ces (charbons), jette la lumière (sur le <span id="p141">[<sup><small>p. 141</small></sup>]</span> Â<i>ya dans l'Â</i>ya au moyen de lames de Darbha brûlantes), jette deux jeunes pousses de Darbha dedans, fait tourner un tison autour d'elle trois fois, la prend (des charbons) vers le nord, repousse les charbons (dans le feu), purifie l'Â<i>ya dans le Â</i>ya trois fois avec les deux purificateurs, en tenant leurs pointes vers le nord, (en les tirant à travers le Â<i>ya dans le Â</i>ya d'ouest en est et) en les ramenant (à l'ouest à chaque fois), jette les deux purificateurs dans le feu,
+27\. [^470] Il fait fondre l'Â<i>ya dans l'Â</i>ya, verse l'Â<i>ya dans l'Â<i>ya dans l'Â<i>ya dans l'Â<i>ya dans le pot d'Â<i>ya</i> sur lequel il a posé les purificateurs, prend des charbons (du feu) vers le nord, met (l'Â<i>ya dans l'Â<i>ya dans l'Â<i>ya) sur ces (charbons), jette la lumière (sur le <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> Â<i>ya dans l'Â</i>ya au moyen de lames de Darbha brûlantes), jette deux jeunes pousses de Darbha dedans, fait tourner un tison autour d'elle trois fois, la prend (des charbons) vers le nord, repousse les charbons (dans le feu), purifie l'Â<i>ya dans le Â</i>ya trois fois avec les deux purificateurs, en tenant leurs pointes vers le nord, (en les tirant à travers le Â<i>ya dans le Â</i>ya d'ouest en est et) en les ramenant (à l'ouest à chaque fois), jette les deux purificateurs dans le feu,
 
 
 
@@ -111,7 +111,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. [^472] Ensuite (le professeur) asperge d'eau autour du feu (de la manière suivante) :
 
-8\. Du côté sud (du feu, il asperge <span id="p142">[<sup><small>p. 142</small></sup>]</span> d'eau) d'ouest en est avec (les mots) : « Aditi ! Donne ton consentement ! » —
+8\. Du côté sud (du feu, il asperge <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> d'eau) d'ouest en est avec (les mots) : « Aditi ! Donne ton consentement ! » —
 
 9\. À l'ouest, du sud au nord, avec (les mots) : « Anumati ! Donne ton consentement ! » À l'ouest, d'ouest en est, avec (les mots) : « Sarasvatî ! Donne ton consentement ! »
 
@@ -123,7 +123,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 13\. [^474] S'approchant du Darvi (au feu) par la jonction nord des piquets (disposés autour du feu), et fixant son esprit sur (la formule), 'À Pra<i>g</i>âpati, à Manu svâhâ!' (sans prononcer ce Mantra), il sacrifie un (courant d'Â<i>g</i>ya) droit, long, ininterrompu, dirigé vers le sud-est.
 
-14\. S'approchant du Darvi (vers le feu) par la jonction sud des piquets (disposés autour du feu), <span id="p143">[<sup><small>p. 143</small></sup>]</span> (il sacrifie) un (courant d'Â<i>g</i>ya) droit, dirigé vers le nord-est, avec (le Mantra qu'il prononce), 'À Indra svâhâ!'
+14\. S'approchant du Darvi (vers le feu) par la jonction sud des piquets (disposés autour du feu), <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> (il sacrifie) un (courant d'Â<i>g</i>ya) droit, dirigé vers le nord-est, avec (le Mantra qu'il prononce), 'À Indra svâhâ!'
 
 15\. Ayant (ainsi) versé les deux oblations d'Âghâra, il sacrifie les deux Â<i>g</i>yabhâgas,
 
@@ -143,7 +143,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 1, SECTION 3.
 
@@ -165,7 +165,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 « Pour cela, je t'en supplie » (Taitt. Sa<i>m</i>h., loc. cit.),
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 'Toi, Agni' (Taitt. Sa<i>m</i>h. II, 5, 12, 3),
 
@@ -183,7 +183,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 10\. [^485] L'Abhyâtâna (oblations) avec (les dix-huit Mantras), 'Agni est le seigneur des êtres ; puisse-t-il me protéger' (&c.).
 
-11\. [^486] (Les mots), « Dans ce pouvoir de sainteté, dans <span id="p146">[<sup><small>p. 146</small></sup>]</span> ce pouvoir mondain (&c.) » sont ajoutés à (chaque section des) formules d'Abhyâtâna.
+11\. [^486] (Les mots), « Dans ce pouvoir de sainteté, dans <span id="p146"><sup><small>[ p. 146 ]</small></sup></span> ce pouvoir mondain (&c.) » sont ajoutés à (chaque section des) formules d'Abhyâtâna.
 
 12\. [^487] Avec (la dernière des formules Abhyâtâna) « Pères ! Grands-pères ! » il sacrifie ou accomplit un culte, portant le cordon sacrificiel sur son épaule droite.
 
@@ -196,7 +196,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## PA<i>T</i>ALA 1, SECTION 4.
 
-1\. [^490] Le garçon marche sur (cette pierre) du pied droit, avec (le vers) : « Marche sur cette pierre ; sois ferme comme une pierre. Détruis ceux qui cherchent à te faire du mal ; surmonte tes ennemis. » <span id="p147">[<sup><small>p. 147</small></sup>]</span>
+1\. [^490] Le garçon marche sur (cette pierre) du pied droit, avec (le vers) : « Marche sur cette pierre ; sois ferme comme une pierre. Détruis ceux qui cherchent à te faire du mal ; surmonte tes ennemis. » <span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 2\. [^491] Après que (le garçon) a enlevé son vieux (vêtement), (le professeur) lui fait mettre un (nouveau) vêtement qui n'a pas encore été lavé, avec (les versets),
 
@@ -212,7 +212,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. [^493] Il enroule ensuite la ceinture trois fois de gauche à droite autour (du garçon, de sorte qu'elle couvre) son nombril. (Il ne le fait que) deux fois, selon certains (enseignants). (Cela se fait) avec (le verset),
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 « Voici qu'elle est venue à nous, celle qui chasse le péché, purifiant notre garde et notre protection, nous apportant la force par (le pouvoir de) l'inspiration et de l'expiration, la sœur des dieux, cette ceinture bénie. »
 
@@ -228,7 +228,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. [^496] Il le confie ensuite (aux dieux), à un Brâhmane, avec (le vers) : « Nous confions ce (garçon) à Brahman, ô Indra, pour le bien du grand savoir. Puisse-t-il (Brahman ?) le conduire à la vieillesse, et puisse-t-il (le garçon) veiller longtemps sur l'apprentissage. »
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Un Râganya (il confie la charge aux dieux) avec (le vers) : « Nous confions ce garçon, ô Indra, à Brahman, pour l'amour de la grande royauté. Puisse-t-il le conduire à la vieillesse, et puisse-t-il veiller longtemps sur la royauté. »
 
@@ -242,7 +242,7 @@ Un Vai<i>s</i>ya (il confie la responsabilité) avec (le vers) : « Nous confion
 
 12\. Certains font manger (au garçon) (cette nourriture avec ces deux versets).
 
-13\. [^499] Après que (le garçon) a bu une gorgée d'eau, (le maître) lui fait toucher (l'eau) et récite sur lui (le verset) : « Cent automnes sont devant nous, ô dieux, avant que vous n'ayez fait pourrir nos corps, avant que (nos) <span id="p150">[<sup><small>p. 150</small></sup>]</span> fils ne deviennent pères ; ne nous détruisez pas avant que nous ayons atteint (notre âge). »
+13\. [^499] Après que (le garçon) a bu une gorgée d'eau, (le maître) lui fait toucher (l'eau) et récite sur lui (le verset) : « Cent automnes sont devant nous, ô dieux, avant que vous n'ayez fait pourrir nos corps, avant que (nos) <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> fils ne deviennent pères ; ne nous détruisez pas avant que nous ayons atteint (notre âge). »
 
 Fin du Premier Pa<i>t</i>ala.
 

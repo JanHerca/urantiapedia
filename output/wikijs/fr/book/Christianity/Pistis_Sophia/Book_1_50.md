@@ -70,7 +70,7 @@ Et Jésus continua son discours et dit à ses disciples : « Il arriva de nouvea
 
 « 13. Mais je t'ai chanté des louanges, ô Lumière, et mon repentir t'atteindra **(69)** dans les hauteurs.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 « 14. Que ta lumière vienne sur moi,
 
@@ -118,7 +118,7 @@ Philippe répondit à Jésus : « Mon Seigneur, écoute-moi, je vais te dire ce 
 
 « 2. Que mes pleurs parviennent jusqu'à toi ; incline ton oreille vers ma supplication, ô Éternel !
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 « 3. Car mon âme est pleine de mal, ma vie s'est rapprochée du monde d'en bas.
 
@@ -148,7 +148,7 @@ Philippe répondit à Jésus : « Mon Seigneur, écoute-moi, je vais te dire ce 
 
 16. Tes colères se sont abattues sur moi, et tes terreurs m'ont trompé.
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 17. Ils m'entourent comme les eaux, Ils me saisissent tout le jour.
 
@@ -178,7 +178,7 @@ Il arriva ensuite que Jésus poursuivit son discours et dit à ses disciples : �
 
 « 5. Et ma puissance a eu foi en ton mystère ; et de plus, ma puissance s'est confiée à la Lumière lorsqu'elle était parmi ceux d'en haut ; et elle s'est confiée à elle lorsqu'elle était dans le chaos d'en bas.
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 « 6. Que tous les pouvoirs en moi aient confiance en la Lumière lorsque je suis dans les ténèbres d'en bas, et qu'ils aient à nouveau confiance en la Lumière s'ils parviennent dans la région des hauteurs.
 
@@ -211,7 +211,7 @@ André s'avança et dit : « Mon Seigneur, concernant la solution de la sixième
 
 « 7. Car la grâce est avec le Seigneur, et avec lui une grande rédemption.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 « 8. Et il délivrera Israël de toutes ses iniquités. »
 
@@ -223,7 +223,7 @@ Jésus lui dit : « Bien dit, André, bienheureux. Voici la solution de sa repen
 
 Il arriva donc que, lorsque Jésus eut achevé de dire ces paroles à ses disciples, il leur dit : « Comprenez-vous de quelle manière je vous parle ? »
 
-Marie dit : « Oui, Seigneur, j'ai compris la parole que tu as dite. Quant à la parole que tu as dite : À la dissolution de tout le Mélange, tu siégeras sur une force lumineuse et tes disciples, <span id="p64">[<sup><small>p. 64</small></sup>]</span> c'est-à-dire nous-mêmes, siégeront à ta droite, et tu jugeras les dieux tyranniques qui n'ont pas renoncé à la purification de leur lumière, et le feu sage les mordra jusqu'à ce qu'ils abandonnent la dernière lumière qui est en eux. » — À propos de cette parole, ta force lumineuse a donc prophétisé autrefois par David, dans le Psaume quatre-vingt-unième, en disant :
+Marie dit : « Oui, Seigneur, j'ai compris la parole que tu as dite. Quant à la parole que tu as dite : À la dissolution de tout le Mélange, tu siégeras sur une force lumineuse et tes disciples, <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> c'est-à-dire nous-mêmes, siégeront à ta droite, et tu jugeras les dieux tyranniques qui n'ont pas renoncé à la purification de leur lumière, et le feu sage les mordra jusqu'à ce qu'ils abandonnent la dernière lumière qui est en eux. » — À propos de cette parole, ta force lumineuse a donc prophétisé autrefois par David, dans le Psaume quatre-vingt-unième, en disant :
 
 « Dieu s’assiéra dans l’assemblée (synagogue) **(77)** des dieux et éprouvera les dieux. »
 
@@ -307,7 +307,7 @@ Lorsque Jésus eut dit cela à ses disciples, Thomas s'avança et dit : « Mon S
 
 « 10. Toutes les voies de l'Éternel sont grâce et vérité pour ceux qui recherchent sa justice et ses préceptes.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 « 11. À cause de ton nom, ô Seigneur, pardonne-moi mon péché, car il est extrêmement grand.
 
@@ -377,7 +377,7 @@ Après avoir dit cela à ses disciples, Jésus leur répondit : « Il arriva alo
 
 10. Mon pouvoir a commencé à décliner pendant que je suis dans ces afflictions, et le temps que je passe dans le chaos diminue. Ma lumière est diminuée, car ils m'ont enlevé mon pouvoir, et tous mes pouvoirs sont ballottés.
 
-« 11. Je suis devenu impuissant en présence de tous les dirigeants des éons qui me haïssent, et en présence des vingt-quatre émanations dans la région desquelles j'étais. Et mon frère, mon <span id="p72">[<sup><small>p. 72</small></sup>]</span> paire, a eu peur de me secourir, à cause de ce dans quoi ils m'ont placé.
+« 11. Je suis devenu impuissant en présence de tous les dirigeants des éons qui me haïssent, et en présence des vingt-quatre émanations dans la région desquelles j'étais. Et mon frère, mon <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> paire, a eu peur de me secourir, à cause de ce dans quoi ils m'ont placé.
 
 12. Et tous les princes d'en haut m'ont considéré comme une matière sans lumière. Je suis devenu comme une puissance matérielle tombée des mains des princes,
 
@@ -447,7 +447,7 @@ Et après avoir dit cela, il dit : « Comprenez-vous ce que je dis ? »
 
 Marie s'avança et dit : « Seigneur, à ce sujet tu nous as dit autrefois par similitude : Vous avez attendu avec moi dans les épreuves, et je vous laisserai un royaume, comme mon Père me l'a laissé, afin que vous mangiez et buviez à ma table dans mon royaume ; et vous serez assis sur douze trônes et vous jugerez les douze tribus d'Israël. »
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 Il lui dit : « Bien dit, Marie. »
 
@@ -483,7 +483,7 @@ Jésus continua encore et dit à ses disciples : « Il arriva alors que par la s
 
 14. Et toi, ô Lumière – c'est pourquoi je te chante des louanges – sauve-moi. Je sais que tu me sauveras, car j'ai accompli ta volonté depuis mon éon. J'ai accompli ta volonté, comme les invisibles qui sont dans ma région, et comme mon couple. Et je pleurais, cherchant sans cesse la Lumière.
 
-« 15. Maintenant donc, toutes les émanations de l'Obstiné m'ont entouré et se sont réjouies à mon sujet et m'ont cruellement opprimé à mon insu <span id="p77">[<sup><small>p. 77</small></sup>]</span> \[elles\]. Et elles se sont enfuies et ont cessé de me quitter, mais n'ont eu aucune pitié pour moi.
+« 15. Maintenant donc, toutes les émanations de l'Obstiné m'ont entouré et se sont réjouies à mon sujet et m'ont cruellement opprimé à mon insu <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> \[elles\]. Et elles se sont enfuies et ont cessé de me quitter, mais n'ont eu aucune pitié pour moi.
 
 16. Ils sont revenus et m'ont tenté, ils m'ont opprimé d'une grande oppression et ont grincé les dents contre moi, voulant m'ôter entièrement ma lumière.
 

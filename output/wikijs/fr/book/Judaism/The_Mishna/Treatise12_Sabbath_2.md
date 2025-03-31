@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 4. Il est interdit de percer une coquille d'œuf, de la remplir d'huile et de la placer sur la lampe, de façon à ce qu'elle y coule. Même si elle est en terre cuite, cela n'est pas permis. Mais Rabbi Jehudah l'autorise. Si le potier l'avait ainsi assemblée à l'origine, cela est permis, car il ne s'agit alors que d'un seul récipient. Il est interdit de remplir un plat d'huile et de le placer à côté de la lampe, et d'y introduire l'extrémité de la mèche, de façon à ce qu'elle attire l'huile. Mais Rabbi Jehudah l'autorise.
 
-§ 5. Celui qui éteint la lampe parce qu'il craint les païens, [^81] les brigands, un mauvais esprit, [^82] ou que les malades dorment, est absous ; mais \[si son intention est\] de sauver sa lampe, son huile ou sa mèche, il <span id="p41">[<sup><small>p. 41</small></sup>]</span> est coupable ; R. José l'admet dans les deux cas, sauf la mèche, car il forme ainsi un charbon.
+§ 5. Celui qui éteint la lampe parce qu'il craint les païens, [^81] les brigands, un mauvais esprit, [^82] ou que les malades dorment, est absous ; mais \[si son intention est\] de sauver sa lampe, son huile ou sa mèche, il <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> est coupable ; R. José l'admet dans les deux cas, sauf la mèche, car il forme ainsi un charbon.
 
 § 6. C'est pour trois péchés que les femmes meurent en couches : parce qu'elles ne prennent pas soin de leur séparation aux temps convenables, [^83] de séparer le premier gâteau de la pâte, [^84] et d'allumer la lampe \[pour le sabbat\].
 

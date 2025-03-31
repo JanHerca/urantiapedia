@@ -29,7 +29,7 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Page [1](/fr/book/Buddhism/Amitabha/Amitabha_01#p1).
 
@@ -65,7 +65,7 @@ Page [31](/fr/book/Buddhism/Amitabha/Amitabha_04#p31).
 
 <span id="an_10">10</span> L'histoire de Kevaddha est un récit abrégé d'un ancien texte bouddhiste pali. Les versets ainsi que d'autres détails sont traduits presque littéralement. Cf. _Buddhism in Translations_ de Henry Warren, pp. 308-313.
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 Page [32](/fr/book/Buddhism/Amitabha/Amitabha_05#p32).
 
@@ -77,7 +77,7 @@ Page [40](/fr/book/Buddhism/Amitabha/Amitabha_05#p40).
 
 Page 56.
 
-<span id="an_13">13</span> Padhâna sutta, 16. _S.BE_, X, <span id="p71">[<sup><small>p. 71</small></sup>]</span>.
+<span id="an_13">13</span> Padhâna sutta, 16. _S.BE_, X, <span id="p71"><sup><small>[ p. 71 ]</small></sup></span>.
 
 Page [64](/fr/book/Buddhism/Amitabha/Amitabha_08#p64).
 
@@ -87,7 +87,7 @@ Page [74](/fr/book/Buddhism/Amitabha/Amitabha_10#p74).
 
 <span id="an_15">15</span> Cf. la traduction de T. Suzuki du Discours sur l'éveil de la foi dans le Mahayana d'Açvaghosha, pp. 101, 142 et suiv. Le terme « vérité suprême » est appelé par Açvaghosha en sanskrit _paramârthasatya_.
 
-<span id="an_16">16</span> Comparer à l'Abstract of Form Lectures de Samuel Beal sur la littérature bouddhiste en Chine, <span id="p177">[<sup><small>p. 177</small></sup>]</span>, où l'on peut lire : « Celui qui possède le soi le plus élevé est capable de voir Bouddha. Bouddha, bien qu'il réside dans le monde, ne peut être vu que par ceux qui possèdent ce soi le plus élevé. Mahârâja ! Il est tout à fait vrai que, bien que Bouddha ait atteint le Nirvâna, puissiez-vous néanmoins le contempler. »
+<span id="an_16">16</span> Comparer à l'Abstract of Form Lectures de Samuel Beal sur la littérature bouddhiste en Chine, <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>, où l'on peut lire : « Celui qui possède le soi le plus élevé est capable de voir Bouddha. Bouddha, bien qu'il réside dans le monde, ne peut être vu que par ceux qui possèdent ce soi le plus élevé. Mahârâja ! Il est tout à fait vrai que, bien que Bouddha ait atteint le Nirvâna, puissiez-vous néanmoins le contempler. »
 
 Page [87](/fr/book/Buddhism/Amitabha/Amitabha_11#p87).
 
@@ -101,7 +101,7 @@ Page [96](/fr/book/Buddhism/Amitabha/Amitabha_12#p96).
 
 <span id="an_19">19</span> Le _Saddharmapundarîka_, chapitre 7.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Page [98](/fr/book/Buddhism/Amitabha/Amitabha_12#p98).
 

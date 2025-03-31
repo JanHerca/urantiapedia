@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 ## ADHYÂYA III, KA<i>ND</i>IKÂ 1.
 
@@ -62,7 +62,7 @@ S’il donne aux hommes, c’est un sacrifice aux hommes.
 
 2\. Il doit sortir du village vers l'est ou vers le nord, se baigner dans l'eau, boire de l'eau sur un endroit propre, vêtu du cordon sacrificiel ; il doit étendre, son vêtement n'étant pas mouillé, une grande quantité d'herbe Darbha, dont les touffes sont dirigées vers l'est, et doit s'asseoir dessus avec son visage tourné vers l'est, faisant un giron, joignant ses mains dans lesquelles il tient des purificateurs (c'est-à-dire des lames de Ku<i>s</i>a), de sorte que la main droite soit en haut.
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Il est entendu (dans le Sruti) : « Voici ce qu'est l'herbe Darbha : elle est l'essence des eaux et des herbes. Il confère ainsi au Brahman son essence. »
 
@@ -79,7 +79,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 1\. [^528]. Il doit ensuite réciter pour lui-même (les textes suivants, à savoir) les Rikas, les Yakus, les Samans, les hymnes Atharvan et Aṅgiras, les Brâhmakas, les Kalpa (Sûtras), les Gâthas, les Nârâkasîs, les Itihâsas et les Purâkas.
 
-2\. En récitant les Rikas, il rassasie les dieux d'oblations de lait ; en récitant les Yakus, d'oblations de ghee ; les Samans, d'oblations de miel ; les hymnes Atharvan et Aṅgiras, d'oblations de Soma ; les Brâhma, Kalpas, Gâthas, Nârâ, Itihâsas et Purâ, d'oblations d'ambroisie. <span id="p219">[<sup><small>p. 219</small></sup>]</span>
+2\. En récitant les Rikas, il rassasie les dieux d'oblations de lait ; en récitant les Yakus, d'oblations de ghee ; les Samans, d'oblations de miel ; les hymnes Atharvan et Aṅgiras, d'oblations de Soma ; les Brâhma, Kalpas, Gâthas, Nârâ, Itihâsas et Purâ, d'oblations d'ambroisie. <span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 3\. En récitant les Rikas, des fleuves de lait coulent, en offrande funéraire, à ses Pères. En récitant les Yakus, fleuves de ghee, les Sâmans, fleuves de miel, les hymnes Atharvan et Aṅgiras, fleuves de Soma, les Brâhma, les Kalpas, les Gâthas, les Nârâ, les Itihâsas et les Purâk, fleuves d'ambroisie.
 
@@ -94,7 +94,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 1\. [^529]. Il rassasie les divinités : « Pragâpati, Brahman, les Védas, les dieux, les Rishis, tous les mètres, le mot Om, le mot Vasha_t_, les Vyâhgtis, les Sâvitrî, ​​les sacrifices, le Ciel et la Terre, l'air, les jours et les nuits, les nombres, les Siddhas, les océans, les rivières, les montagnes, les champs, les herbes, les arbres, les Gandharvas et les Apsaras, les serpents, les oiseaux, les vaches, les Sâdhyas, les Vipras, les Yakshas, ​​les Rakshas, ​​les êtres qui ont ces (Rakshas, ​​etc.) à leur fin. »
 
-2\. [^530]. Puis les Rishis : « Les (_Ri<i>shis) des cent (</i>Ri_<i>shis) des cent (</i>as), les (<i>Ri</i>shis) du milieu (Ma<i>shis) des cent (</i><i>shis) des cent (</i>alas), G<i>shis) des cent (</i>tsamada, <span id="p220">[<sup><small>p. 220</small></sup>]</span> Vi<i>shis) des cent (</i>vâmitra, Vâmadeva, Atri, Bharadvâ<i>shis) des cent (</i>a, Vasish<i>shis) des cent (</i>a, les Pragâthas, les hymnes Pavamâna, les (<i>Ri</i>shis) des hymnes courts et des hymnes longs.
+2\. [^530]. Puis les Rishis : « Les (_Ri<i>shis) des cent (</i>Ri_<i>shis) des cent (</i>as), les (<i>Ri</i>shis) du milieu (Ma<i>shis) des cent (</i><i>shis) des cent (</i>alas), G<i>shis) des cent (</i>tsamada, <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> Vi<i>shis) des cent (</i>vâmitra, Vâmadeva, Atri, Bharadvâ<i>shis) des cent (</i>a, Vasish<i>shis) des cent (</i>a, les Pragâthas, les hymnes Pavamâna, les (<i>Ri</i>shis) des hymnes courts et des hymnes longs.
 
 3\. (Ensuite) avec le cordon sacrificiel suspendu sur l'épaule droite :
 
@@ -112,7 +112,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 ## O<i>ICI 5.
 
@@ -128,7 +128,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 6\. « Je loue Agni le Purohita » — ce seul verset (Rig-Veda I, 1, 1),
 
-7\. [^536]. 'Le Kushumbhaka (mangouste ?) l'a dit' — 'Si tu cries, ô oiseau, annonce-nous la chance Chanté par <i>G</i>amadagni' — 'Dans ta demeure le monde entier repose' <span id="p222">[<sup><small>p. 222</small></sup>]</span> — 'Venez à notre sacrifice, ô vous qui êtes dignes du sacrifice, avec soin' — 'Quiconque, qu'il soit à nous, qu'il soit étranger' — 'Regarde, regarde autour de toi' — 'Viens ici, Agni, l'ami des Maruts' — 'L'oblation, ô roi, a cuit pour toi' — chaque fois deux versets ;
+7\. [^536]. 'Le Kushumbhaka (mangouste ?) l'a dit' — 'Si tu cries, ô oiseau, annonce-nous la chance Chanté par <i>G</i>amadagni' — 'Dans ta demeure le monde entier repose' <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> — 'Venez à notre sacrifice, ô vous qui êtes dignes du sacrifice, avec soin' — 'Quiconque, qu'il soit à nous, qu'il soit étranger' — 'Regarde, regarde autour de toi' — 'Viens ici, Agni, l'ami des Maruts' — 'L'oblation, ô roi, a cuit pour toi' — chaque fois deux versets ;
 
 8\. « Votre volonté est unie » (Rig-veda X, 191, 4) — ce seul verset ;
 
@@ -138,7 +138,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 11\. [^539]. S'asseyant à l'ouest du feu sur l'herbe Darbha, dont les touffes sont orientées vers l'est, il placera les brins de Darbha dans un pot à eau et, faisant un Brahmâ<i>ñ</i><i>ñ</i>ali (c'est-à-dire joignant les mains en signe de vénération pour le Brahman), il murmurera (les textes suivants) :
 
-12\. Les Vyâh<i>ri</i>tis sont précédés de (la syllabe) Om (se placent en premier) ; (ceux-ci) et le Sâvitrî, ​​il doit les répéter trois fois, puis réciter le début du Véda. <span id="p223">[<sup><small>p. 223</small></sup>]</span>
+12\. Les Vyâh<i>ri</i>tis sont précédés de (la syllabe) Om (se placent en premier) ; (ceux-ci) et le Sâvitrî, ​​il doit les répéter trois fois, puis réciter le début du Véda. <span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 13\. De la même manière à l'Utsarga (c'est-à-dire à la cérémonie célébrée à la fin du trimestre d'études védiques).
 
@@ -168,7 +168,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 ## O<i>ICI 6.
 
-1\. [^545]. Au lieu des cérémonies Kâmya (c'est-à-dire les cérémonies prescrites dans le <i>S</i>rauta-sûtra, par lesquelles <span id="p224">[<sup><small>p. 224</small></sup>]</span> des souhaits particuliers sont exaucés, des oblations de) grains (de riz) bouillis, pour l'exaucement de ces souhaits, (devraient être faites par le sacrificateur G<i>ri</i>hya).
+1\. [^545]. Au lieu des cérémonies Kâmya (c'est-à-dire les cérémonies prescrites dans le <i>S</i>rauta-sûtra, par lesquelles <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> des souhaits particuliers sont exaucés, des oblations de) grains (de riz) bouillis, pour l'exaucement de ces souhaits, (devraient être faites par le sacrificateur G<i>ri</i>hya).
 
 2\. Il atteint (ainsi) ces mêmes souhaits.
 
@@ -182,7 +182,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 7\. Lorsqu'il a éternué, bâillé, vu un spectacle désagréable, senti une mauvaise odeur, que son œil palpite ou qu'il entend des bruits dans ses oreilles, il devrait murmurer : « Que mes yeux soient clairs, mon visage vigoureux, mes oreilles bien entendues. Que la volonté et la perspicacité habitent en moi ! »
 
-8\. [^546]. S'il est allé vers une épouse à laquelle il ne devait pas aller, ou s'il a accompli un sacrifice pour une personne à laquelle il ne devait pas le faire, ou a mangé une nourriture interdite, ou accepté ce qu'il ne devait pas accepter, ou s'est heurté à un autel de feu empilé ou <span id="p225">[<sup><small>p. 225</small></sup>]</span> contre un poteau sacrificiel, il doit sacrifier deux oblations Â<i>g</i>ya avec (les versets),
+8\. [^546]. S'il est allé vers une épouse à laquelle il ne devait pas aller, ou s'il a accompli un sacrifice pour une personne à laquelle il ne devait pas le faire, ou a mangé une nourriture interdite, ou accepté ce qu'il ne devait pas accepter, ou s'est heurté à un autel de feu empilé ou <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> contre un poteau sacrificiel, il doit sacrifier deux oblations Â<i>g</i>ya avec (les versets),
 
 « Que mes facultés reviennent en moi, que la vie revienne, que la prospérité revienne ; que mes biens reviennent en moi ; que la puissance divine revienne en moi. Svâhâ !
 
@@ -222,7 +222,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 2
 
-1\. Lorsqu'il revient (de chez lui après avoir été soigné par son maître), il doit se procurer les objets suivants : un bijou (à nouer autour du cou), deux boucles d'oreilles, une paire de vêtements, un parasol, une paire de chaussures, un bâton, une couronne (des graines pilées du fruit de Kara<i>ñ</i><i>ñ</i>a) pour se frictionner, une pommade, un collyre, un turban ; tout cela pour lui et pour le maître. <span id="p227">[<sup><small>p. 227</small></sup>]</span>
+1\. Lorsqu'il revient (de chez lui après avoir été soigné par son maître), il doit se procurer les objets suivants : un bijou (à nouer autour du cou), deux boucles d'oreilles, une paire de vêtements, un parasol, une paire de chaussures, un bâton, une couronne (des graines pilées du fruit de Kara<i>ñ</i><i>ñ</i>a) pour se frictionner, une pommade, un collyre, un turban ; tout cela pour lui et pour le maître. <span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 2\. S'il ne peut pas l'obtenir pour les deux, seulement pour le professeur.
 
@@ -269,7 +269,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 
 
-<span id="p229">[<sup><small>p. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 9.
 
@@ -279,7 +279,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 2\. [^555]. Avec (l'hymne) « A moi, Agni, sois vigoureux » (Rig-veda X, 128, 1), verset par verset, il devrait mettre des morceaux de bois (sur le feu).
 
-3\. [^556]. Il devrait passer la nuit dans un endroit où on lui fera honneur. <span id="p230">[<sup><small>p. 230</small></sup>]</span>
+3\. [^556]. Il devrait passer la nuit dans un endroit où on lui fera honneur. <span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 4 [^557]. Lorsque, après avoir terminé son apprentissage, il a offert quelque chose au maître, ou a reçu sa permission, il doit prendre un bain (qui signifie la fin de son apprentissage).
 
@@ -296,7 +296,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 3 le nom du professeur ?)
 
-2\. [^559]. (Et devrait dire) : « Ici nous habiterons, monsieur ! » <span id="p231">[<sup><small>p. 231</small></sup>]</span>
+2\. [^559]. (Et devrait dire) : « Ici nous habiterons, monsieur ! » <span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 3\. Avec une voix forte (les mots) suivant le nom.
 
@@ -314,7 +314,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 10\. « Louez le jeune homme renommé qui est assis sur le char de guerre » (Rig-veda II, 33, 11) — s'il entend des voix désagréables de cerfs.
 
-11\. De la direction, ou de l'être, dont il craint le danger, il doit lancer un tison, brûlant des deux côtés, ou, après avoir fait tournoyer un bâton de barattage de droite à gauche, avec les mots suivants : « Sécurité à moi, Mitra <span id="p232">[<sup><small>p. 232</small></sup>]</span> et Varu<i>n</i>a ; affronte les ennemis et brûle-les de tes flammes. Puissent-ils ne trouver personne qui les connaisse ni aucun soutien ; divisés par la discorde, puissent-ils aller à la mort »
+11\. De la direction, ou de l'être, dont il craint le danger, il doit lancer un tison, brûlant des deux côtés, ou, après avoir fait tournoyer un bâton de barattage de droite à gauche, avec les mots suivants : « Sécurité à moi, Mitra <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> et Varu<i>n</i>a ; affronte les ennemis et brûle-les de tes flammes. Puissent-ils ne trouver personne qui les connaisse ni aucun soutien ; divisés par la discorde, puissent-ils aller à la mort »
 
 12\. Il tourne le bâton de barattage vers le bas avec (le verset) : « La richesse combinée des deux, entassée ensemble » (Rig-veda X, 84, 7).
 
@@ -339,7 +339,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 « Les Védas sont couverts ; ils sont couverts par les mètres. Par eux, etc.
 
-« Tout est couvert ; tout est couvert par Brahman. Par lui, etc. Svâhâ ! » <span id="p233">[<sup><small>p. 233</small></sup>]</span>
+« Tout est couvert ; tout est couvert par Brahman. Par lui, etc. Svâhâ ! » <span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 2 [^562]. Puis, se postant vers le nord, l'est, il murmure le Svasti-Âtreya et : « De ce que nous craignons, Indra » (Rig-veda VIII, 61, 13 seq.), jusqu'à la fin de l'hymne.
 
@@ -364,7 +364,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 9\. Le septième (il récite) sur les chevaux.
 
-10\. Il doit faire répéter le huitième (au roi) en regardant les flèches ; <span id="p234">[<sup><small>p. 234</small></sup>]</span>
+10\. Il doit faire répéter le huitième (au roi) en regardant les flèches ; <span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 11\. (Le verset) « Comme un serpent, il entoure le bras de ses enroulements » (Rig-veda VI, 75, 14), lorsqu'il attache à son bras le cuir (par lequel le bras est protégé contre la corde de l'arc).
 
@@ -382,7 +382,7 @@ En regardant le point où le ciel et la terre se touchent, ou en fermant les yeu
 
 1
 
-18\. Avec (le verset) « Tiré, tombe » (Rig-veda VI, 75, 16), il devrait décocher les flèches. <span id="p235">[<sup><small>p. 235</small></sup>]</span>
+18\. Avec (le verset) « Tiré, tombe » (Rig-veda VI, 75, 16), il devrait décocher les flèches. <span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 19 [^568]. « Là où volent les flèches » (llv 17) — ce (verset) il devrait murmurer pendant qu'ils se battent.
 

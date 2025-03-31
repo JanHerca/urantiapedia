@@ -36,7 +36,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 **M**.VI. 1. Quelle est la forme de la bénédiction sur les fruits ? [^274] Sur les fruits des arbres, on dit : « Toi qui crées le fruit de l’arbre » ; à l’exception du vin, car sur le vin, il dit : « Toi qui crées le fruit de la vigne ». Sur les fruits de la terre, il dit : « Toi qui crées le fruit du sol » ; à l’exception d’un morceau de pain, car sur un morceau de pain, il dit : « Toi qui fais sortir le pain de la terre ». Sur les légumes, il dit : « Toi
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 **M**.qui crées les fruits de la terre.“ R. Judah avait l’habitude de dire : ”Toi qui crées différentes sortes d’herbes.”
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 4\. Si un homme a devant lui plusieurs sortes de fruits, R. Judah dit : Si parmi eux il y en a une des sept sortes, il dit la bénédiction sur elle. [^281]
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 **M**.\[le paragraphe continue\] Mais la Majorité dit : Il dit la Bénédiction sur celui d'entre eux qu'il veut.
 
@@ -72,7 +72,7 @@ T. IV. 1. Que nul ne goûte à quoi que ce soit avant d'avoir prononcé une bén
 
 **M**.VI. 5. Si un homme a dit la bénédiction sur le vin servi avant le repas, il laisse libre le vin servi après le repas. [^297] S'il a dit la bénédiction sur le hors-d'œuvre servi avant le repas, il laisse libre le hors-d'œuvre servi après le repas. S'il a dit la bénédiction sur le morceau de pain, il laisse libre le hors-d'œuvre ; s'il l'a dit sur les hors-d'œuvre [^298], il ne laisse pas libre le morceau de pain. L'école de Shammaï dit : ni rien de ce qui est cuit dans la marmite. [^299]
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 <a id="m2"></a>
 
@@ -92,7 +92,7 @@ S'ils sont montés [^306] et se sont allongés, et qu'on leur donne de l'eau pou
 
 12\. On demanda à Ben Zoma : « Pourquoi, lorsque le vin est servi au milieu d'un repas, chacun récite-t-il la bénédiction pour lui-même ? » Il leur répondit : « Parce que le gosier n'est pas vide. » [^309]
 
-13\. Si on leur apporte du riz et du vin, on dit une <span id="p50">[<sup><small>p. 50</small></sup>]</span> bénédiction sur le riz et on laisse le vin libre ; [^310] si on leur apporte des radis et des dattes vertes, on dit une bénédiction sur les radis et on laisse les dattes vertes libre. [^311]
+13\. Si on leur apporte du riz et du vin, on dit une <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> bénédiction sur le riz et on laisse le vin libre ; [^310] si on leur apporte des radis et des dattes vertes, on dit une bénédiction sur les radis et on laisse les dattes vertes libre. [^311]
 
 V. 5. Quel est l'ordre des inclinaisons ? Lorsqu'il y a deux lits, l'aîné [^312] s'incline à la tête du premier, et le second à côté de lui, en dessous de lui ; [^313] et lorsqu'il y a trois lits, l'aîné s'incline à la tête de celui du milieu, le second à côté de lui, au-dessus de lui, et le troisième à côté de lui, en dessous de lui. Ils continuent ainsi à les disposer.
 
@@ -102,7 +102,7 @@ L'ordre de préparation de la coupe : comment est-il organisé ? Au milieu du re
 
 7\. Deux personnes s'attendent l'une l'autre à un plat ; [^314] mais trois n'attendent pas. [^315] Celui qui prononce la bénédiction tend la main le premier \[pour prendre la nourriture\]. S'il désire attribuer cet honneur à son maître, ou à quelqu'un de plus âgé que lui, il lui est permis de le faire.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 **T**.
 
@@ -118,7 +118,7 @@ Rabban Siméon ben Gamaliel dit : « Les morceaux de pain sont un excellent sign
 
 15\. Nous récitons [^319] la bénédiction sur le grain le plus fin. Comment ? Dans le cas d'un pain entier de farine lesbienne [^320] et d'un pain entier de
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 **T**.
 
@@ -128,7 +128,7 @@ Il y a un incident dans la vie de Rabban Gamaliel et de quelques anciens, alors 
 
 R. Judah dit au nom de Rabban Gamaliel : Dans le cas de tout ce qui est l'un des sept
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 **T**.
 
@@ -162,7 +162,7 @@ Il lui dit : « Si c'est le cas, ne nous arrêtons pas. Peut-être que vous deux
 
 3\. Si des invités sont à table près du maître de maison, et que le jour saint est déjà avancé, ils se dirigent vers la salle de conférence avec l'obscurité, [^361] et, à leur retour, ils leur préparent la coupe, en récitant dessus la sanctification du jour. [^362] Telles sont les paroles de Rabbi Judah. ​​Rabbi José dit : Chacun mange jusqu'à la tombée de la nuit. [^363]
 
-4\. Quand la première coupe est préparée pour lui (le maître de maison), il récite dessus la bénédiction après le repas, et fait mention de la bénédiction <span id="p59">[<sup><small>p. 59</small></sup>]</span> du sabbat dans la bénédiction après le repas. Et à la seconde \[coupe\], il récite dessus la sanctification du jour.
+4\. Quand la première coupe est préparée pour lui (le maître de maison), il récite dessus la bénédiction après le repas, et fait mention de la bénédiction <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> du sabbat dans la bénédiction après le repas. Et à la seconde \[coupe\], il récite dessus la sanctification du jour.
 
 <figure class="table chapter-navigator">
   <table>

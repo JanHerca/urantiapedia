@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p256">[<sup><small>p. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 
 DEVADATTA songeait : « Siddhartha a voulu m'humilier en faisant peu de cas de mon intelligence. Je vais lui prouver qu'il se trompe. Ma gloire éclipsera la sienne : la lampe de chevet deviendra le soleil. Mais le roi Vimbasara est son fidèle ami ; il le protège. Tant que le roi est vivant, je ne peux rien faire. Le prince Ajatasatru, en revanche, m'honore et me tient en haute estime ; il a une confiance absolue en moi. S'il régnait, j'obtiendrais tout ce que je désire. »
@@ -61,7 +61,7 @@ Les gardes continuèrent de surveiller de près et, au bout de quelques jours, i
 
 « Ils ne mentent pas, père », dit Ajatasatru
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 Soudain, le remords l'envahit. Il tomba aux pieds du roi et, du plus profond de sa honte, s'écria :
 

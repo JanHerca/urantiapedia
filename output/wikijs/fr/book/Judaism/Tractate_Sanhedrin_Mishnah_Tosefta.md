@@ -110,6 +110,8 @@ Il s'agit d'une traduction du traité Sanhédrin du Talmud, qui traite de la pro
 - [Index général](/fr/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta/General_Index)
 - [Publicités](/fr/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta/Advertisements)
 
+<br>
+
 ## Liens externes
 
 - [Site de textes sacrés](https://sacred-texts.com/jud/tsa/index.htm)

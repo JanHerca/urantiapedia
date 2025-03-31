@@ -475,7 +475,7 @@ Les actes accomplis, les prophéties prononcées et les enseignements dispensés
 
 Ceux qui, forts de leur sagesse et de leur infaillibilité, et vivant à l'écart du peuple indien, rejettent toute connaissance de leurs systèmes théologiques, et considèrent ainsi le sikhisme comme une religion païenne, et le bonheur spirituel et la loyauté de ses adeptes comme des éléments négligeables, sont des hommes dont le triomphe sera de courte durée et dont la gloire ne se transmettra pas aux générations futures avec l'enthousiasme des ménestrels. Je ne désespère pas que, lorsque des dirigeants éclairés prendront connaissance des mérites de la religion sikh, ils ne la laisseront pas volontairement périr dans le grand abîme où tant de croyances ont été englouties.
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,23 +32,23 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span> p. 135
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span> p. 135
 
 **PARTIE III**
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 **PRIÈRES DE SAINT FRANÇOIS**
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 ## I. LES LOUANGES.
 
-Cet opuscule se compose de deux parties : une paraphrase du Notre Père et les Louanges proprement dites. Il est présent dans tous les premiers recueils de manuscrits de saint François [^527], soit intégralement, comme ici, soit en partie, c'est-à-dire la Paraphrase sans les Louanges, ou vice versa. À l'exception d'un seul codex qui attribue la paternité de cette paraphrase au bienheureux frère Gilles, [^528] troisième compagnon de saint François, les autorités manuscrites sont unanimes à attribuer l'ouvrage entier à saint François. Ce fait, combiné à l'argumentation interne en sa faveur, met hors de doute l'autorité des Louanges, de l'avis des éditeurs Quaracchi. M. Sabatier partage cet avis et regrette même [^529] que le professeur Boehmer [^530] ait été <span id="p138">[<sup><small>p. 138</small></sup>]</span> induit en erreur en classant les Louanges comme douteuses ou inauthentiques. Ceux qui acceptent les vues du critique français quant à la valeur de son Speculum Perfectionis trouveront dans cette œuvre remarquable un argument supplémentaire en faveur de l'authenticité de l'opuscule complet qui nous intéresse maintenant. En particulier, M. Sabatier applique aux présentes Louanges ce que dit le Speculum de la pénitence imposée par saint François aux frères de la Portioncule pour avoir prononcé des paroles vaines. [^531]
+Cet opuscule se compose de deux parties : une paraphrase du Notre Père et les Louanges proprement dites. Il est présent dans tous les premiers recueils de manuscrits de saint François [^527], soit intégralement, comme ici, soit en partie, c'est-à-dire la Paraphrase sans les Louanges, ou vice versa. À l'exception d'un seul codex qui attribue la paternité de cette paraphrase au bienheureux frère Gilles, [^528] troisième compagnon de saint François, les autorités manuscrites sont unanimes à attribuer l'ouvrage entier à saint François. Ce fait, combiné à l'argumentation interne en sa faveur, met hors de doute l'autorité des Louanges, de l'avis des éditeurs Quaracchi. M. Sabatier partage cet avis et regrette même [^529] que le professeur Boehmer [^530] ait été <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> induit en erreur en classant les Louanges comme douteuses ou inauthentiques. Ceux qui acceptent les vues du critique français quant à la valeur de son Speculum Perfectionis trouveront dans cette œuvre remarquable un argument supplémentaire en faveur de l'authenticité de l'opuscule complet qui nous intéresse maintenant. En particulier, M. Sabatier applique aux présentes Louanges ce que dit le Speculum de la pénitence imposée par saint François aux frères de la Portioncule pour avoir prononcé des paroles vaines. [^531]
 
 Les Pères Quaracchi ont édité le texte des Louanges selon les manuscrits d'Assise, d'Antonio et d'Isidore (1/25) et ont collationné ces premières versions avec les éditions des Louanges données dans les Monumenta (fol. 275 v), les Firmamenta (fol. 18 v) et le Liber Conformitatum (fruct. xii, p. II, c. vi). [^532] Le résultat de leurs travaux est traduit ici comme suit :
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 ## LOUANGES.
 
@@ -60,7 +60,7 @@ _Toi qui es au ciel_, dans les anges et dans les saints, les illuminant pour la 
 
 _Que ton nom soit sanctifié :_ que ta connaissance brille en nous afin que nous connaissions l'étendue de tes bienfaits, la longueur de tes promesses, la hauteur de ta majesté et la profondeur de tes jugements. [^534]
 
-_Que ton règne vienne_, afin que tu règnes en nous par grâce et que tu nous fasses parvenir à ton royaume, où il y a la claire vision de toi, <span id="p140">[<sup><small>p. 140</small></sup>]</span> ton amour parfait, ta compagnie bénie, la jouissance éternelle de toi.
+_Que ton règne vienne_, afin que tu règnes en nous par grâce et que tu nous fasses parvenir à ton royaume, où il y a la claire vision de toi, <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> ton amour parfait, ta compagnie bénie, la jouissance éternelle de toi.
 
 _Que ta volonté soit faite sur la terre comme au ciel_, afin que nous t'aimions de tout notre cœur en pensant toujours à toi ; de toute notre âme en te désirant toujours ; de tout notre esprit en dirigeant toutes nos intentions vers toi et en recherchant ton honneur en toutes choses et de toutes nos forces, en dépensant toutes les forces et tous les sens du corps et de l'âme au service de ton amour et non à autre chose ; et que nous aimions notre prochain comme nous-mêmes, attirant tous les hommes à ton amour du mieux que nous pouvons ; nous réjouissant du bien des autres comme du nôtre, et compatissant dans leurs difficultés sans offenser personne.
 
@@ -70,7 +70,7 @@ _Et pardonne-nous nos offenses_, par ton ineffable miséricorde, en vertu de la 
 
 _Comme nous pardonnons à ceux qui nous ont offensés_, et ce que nous ne pardonnons pas entièrement, fais-nous, Seigneur, pardonner entièrement, afin que, pour l'amour de toi, nous aimions vraiment nos ennemis et que nous intercédions pieusement pour eux auprès de toi ; afin que nous ne rendions pas le mal pour le mal, mais que nous nous efforcions en toi de faire le bien à tous.
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 _Et ne nous induis pas en tentation_, cachée ou visible, soudaine ou continue.
 
@@ -92,7 +92,7 @@ Louez Dieu, vous tous ses serviteurs et vous qui le craignez, petits et grands. 
 
 Que les cieux et la terre le louent, lui, le Glorieux, ainsi que toutes les créatures qui sont dans les cieux, sur la terre, sous la terre, dans les mers, et tout ce qui s'y trouve. [^541] Louons-le et exaltons-le au-dessus de tout pour toujours.
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Gloire au Père, au Fils et au Saint-Esprit. Louons-le et exaltons-le au-dessus de tout pour toujours.
 

@@ -38,7 +38,7 @@ Le malheureux prince trouve cependant une amie dans la vieille dame de Kendeh, q
 
 Ne garde pas la méchanceté, ô Shiboob ! — renonce-y, car rien de bon n'est jamais né de la méchanceté.
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 La violence est infâme : son résultat est toujours incertain, et personne ne peut agir justement lorsqu'il est poussé par la haine.
 
@@ -50,7 +50,7 @@ Mais avant qu'Antar puisse venir à sa délivrance, Maisoor a décidé de pendre
 
 Le prince Shas exprime sa contrition à Antar et lui promet de lui faire amplement amende honorable pour le passé. Antar ayant présenté à As-hath tous les chevaux et le butin, le vieux cheikh prend congé et s'en va dans son pays, tandis que le héros et le prince Shas commencent leur voyage vers le pays du Hedjaz, avec le fidèle Shiboob pour guide. Le cinquième jour, ils atteignent les eaux de la tribu d'Akhram, où ils se reposent pour la nuit.
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 Antar fit un rêve délicieux de sa bien-aimée Abla, et le matin, quand il se réveilla, il récita ainsi :
 

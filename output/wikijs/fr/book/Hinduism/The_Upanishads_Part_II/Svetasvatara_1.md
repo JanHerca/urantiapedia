@@ -32,17 +32,17 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span> p. 229 p. 230 p. 231
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span> p. 229 p. 230 p. 231
 
 <i>S</i>VETÂ<i>S</i>VATARA-UPANISHAD.
 
 ## PREMIER ADHYÂYA.
 
-1\. Les étudiants de Brahma disent : Brahman est-il la cause [^701] ? D'où naissons-nous ? Où vivons-nous et où allons-nous ? Ô vous qui connaissez Brahman, (dites-nous) sous les ordres de qui nous demeurons, que ce soit dans la douleur ou dans le plaisir ? <span id="p232">[<sup><small>p. 232</small></sup>]</span> 2\. Faut-il considérer comme cause le temps, ou la nature [^702], ou la nécessité, ou le hasard, ou les éléments, ou celui qu'on appelle la personne (purusha, vi<i>g</i>_ñ_ânâtmâ) ? Leur union ne peut pas non plus être, car elle n'est pas indépendante d'elle-même [^703], et le soi aussi est impuissant, car il existe (indépendamment de lui) une cause du bien et du mal [^704].
+1\. Les étudiants de Brahma disent : Brahman est-il la cause [^701] ? D'où naissons-nous ? Où vivons-nous et où allons-nous ? Ô vous qui connaissez Brahman, (dites-nous) sous les ordres de qui nous demeurons, que ce soit dans la douleur ou dans le plaisir ? <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> 2\. Faut-il considérer comme cause le temps, ou la nature [^702], ou la nécessité, ou le hasard, ou les éléments, ou celui qu'on appelle la personne (purusha, vi<i>g</i>_ñ_ânâtmâ) ? Leur union ne peut pas non plus être, car elle n'est pas indépendante d'elle-même [^703], et le soi aussi est impuissant, car il existe (indépendamment de lui) une cause du bien et du mal [^704].
 
 3\. Les sages, adonnés à la méditation et à la concentration, ont perçu le pouvoir de Dieu lui-même [^705], caché dans ses propres qualités (gu<i>n</i>a). Lui, étant unique, domine toutes ces causes : le temps, le moi et le reste [^706].
 
-4 [^707]. Nous méditons sur celui qui (comme une roue) a une jante à trois pneus, seize extrémités, cinquante rayons, vingt contre-rayons et six jeux de huit ; <span id="p233">[<sup><small>p. 233</small></sup>]</span> dont la corde unique est multiple, qui avance sur trois routes différentes et dont l'illusion naît de deux causes. <span id="p234">[<sup><small>p. 234</small></sup>]</span> 5 [^708]. Nous méditons sur le fleuve dont l'eau est composée de cinq ruisseaux, qui est sauvage et sinueuse avec ses cinq sources, dont les vagues sont les cinq souffles vitaux, dont la source est l'esprit, le cours des cinq sortes de perceptions. Il a cinq tourbillons, ses rapides sont les cinq douleurs ; il a cinquante sortes de souffrances et cinq branches.
+4 [^707]. Nous méditons sur celui qui (comme une roue) a une jante à trois pneus, seize extrémités, cinquante rayons, vingt contre-rayons et six jeux de huit ; <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> dont la corde unique est multiple, qui avance sur trois routes différentes et dont l'illusion naît de deux causes. <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> 5 [^708]. Nous méditons sur le fleuve dont l'eau est composée de cinq ruisseaux, qui est sauvage et sinueuse avec ses cinq sources, dont les vagues sont les cinq souffles vitaux, dont la source est l'esprit, le cours des cinq sortes de perceptions. Il a cinq tourbillons, ses rapides sont les cinq douleurs ; il a cinquante sortes de souffrances et cinq branches.
 
 6\. Dans cette vaste roue de Brahma, où toutes choses vivent et reposent, l'oiseau vole, tant qu'il pense que le soi (en lui) est différent du moteur (le dieu, le seigneur). Lorsqu'il est béni par lui, il acquiert l'immortalité [^709].
 
@@ -52,13 +52,13 @@ dateCreated: 2025-1-16T20:6:29Z
 
 9\. Il y a deux êtres, l'un connaissant (î<i>s</i>vara), l'autre ignorant (<i>g</i>îva), tous deux non-nés, l'un fort, l'autre faible [^714] ; il y a celle qui n'est pas née, par qui chaque homme reçoit la récompense de ses œuvres [^715] ; et il y a le Soi infini (apparaissant) sous toutes les formes, mais lui-même inactif. Lorsqu'un homme découvre ces trois êtres, c'est Brahma [^716].
 
-10\. Ce qui est périssable [^717] est le Pradhâna [^718] (le premier), l'immortel et l'impérissable est Hara [^719]. <span id="p236">[<sup><small>p. 236</small></sup>]</span> Le dieu unique gouverne le périssable (le pradhâna) et le soi (vivant) [^720]. En méditant sur lui, en se joignant à lui, en ne faisant qu'un avec lui, il y a à la fin une cessation supplémentaire de toute illusion.
+10\. Ce qui est périssable [^717] est le Pradhâna [^718] (le premier), l'immortel et l'impérissable est Hara [^719]. <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> Le dieu unique gouverne le périssable (le pradhâna) et le soi (vivant) [^720]. En méditant sur lui, en se joignant à lui, en ne faisant qu'un avec lui, il y a à la fin une cessation supplémentaire de toute illusion.
 
 11\. Quand ce dieu est connu, toutes les chaînes tombent, les souffrances sont anéanties, et la naissance et la mort cessent. De la méditation sur lui naît, lors de la dissolution du corps, le troisième état, celui de la souveraineté universelle [^721] ; mais seul celui qui est seul est satisfait [^722].
 
 12\. Ce qui repose éternellement en soi doit être connu ; et au-delà, rien n'a besoin d'être connu. En connaissant celui qui jouit [^723], celui qui jouit et celui qui gouverne, tout a été déclaré triple, et c'est Brahman.
 
-13\. Comme la forme du feu, tant qu'elle existe dans le sous-bois [^724], n'est pas vue, ni sa graine détruite, <span id="p237">[<sup><small>p. 237</small></sup>]</span> mais qu'elle doit être saisie encore et encore au moyen du bâton et du sous-bois, il en est de même dans les deux cas, et le Soi doit être saisi dans le corps au moyen du pr<i>n</i>ava (la syllabe Om).
+13\. Comme la forme du feu, tant qu'elle existe dans le sous-bois [^724], n'est pas vue, ni sa graine détruite, <span id="p237"><sup><small>[ p. 237 ]</small></sup></span> mais qu'elle doit être saisie encore et encore au moyen du bâton et du sous-bois, il en est de même dans les deux cas, et le Soi doit être saisi dans le corps au moyen du pr<i>n</i>ava (la syllabe Om).
 
 14\. En faisant de son corps le sous-bois et de la syllabe Om le bois supérieur, l'homme, après avoir répété l'exercice de la méditation, percevra le dieu brillant, comme l'étincelle cachée dans le bois [^725].
 

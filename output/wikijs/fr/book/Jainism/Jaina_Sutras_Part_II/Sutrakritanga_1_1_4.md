@@ -52,7 +52,7 @@ Certains êtres ont du mouvement, d’autres non ; cela dépend de certaines con
 
 (Par exemple, les grandes créatures) ont une forme d'existence corporelle, puis une autre [^720]. Mais toutes sont sujettes à la douleur ; il ne faut donc pas les tuer. (9)
 
-Telle est la quintessence de la sagesse : ne rien tuer. Sachez que telle est la conclusion légitime <span id="p248">[<sup><small>p. 248</small></sup>]</span> du principe de réciprocité concernant le non-meurtre [^721]. (10)
+Telle est la quintessence de la sagesse : ne rien tuer. Sachez que telle est la conclusion légitime <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> du principe de réciprocité concernant le non-meurtre [^721]. (10)
 
 En vivant (selon les règles de conduite), et sans cupidité, on devrait prendre soin du plus grand bien [^722].
 

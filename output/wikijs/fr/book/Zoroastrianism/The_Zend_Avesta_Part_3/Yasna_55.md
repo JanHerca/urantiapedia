@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 ## YASNA LV (SP. LIV). LE CULTE DES GÂTHAS COMME CONCLU, ET CELUI DU STAOTA YÊSNYA COMME DÉBUT.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 2\. Ce que les Gâthas (peuvent) être pour nous, qui sont nos gardiens et nos défenseurs, et notre nourriture spirituelle, oui, qui (peuvent) être pour nos âmes à la fois nourriture et vêtement, tels sont ces Gâthas pour nous, gardiens et défenseurs, et nourriture (spirituelle), tels ils sont à la fois nourriture et vêtement pour l'âme.
 
-Et (puissent-ils) être pour nous (pour cette offrande) d'abondants donneurs de récompenses, et des justes et des vertueux, pour le monde au-delà du présent, après la séparation de notre conscience et de notre corps. 3. Et que celles-ci (les Louanges de l'Offrande) se manifestent et apparaissent pour nous avec puissance et assaut victorieux, avec santé et guérison, avec progrès et avec croissance, avec préparation et protection, avec bienfaisance et sainteté, et abondant en dons [^1228] envers celui qui peut comprendre ; oui, qu'elles apparaissent (avec une libre libéralité envers les éclairés), qu'elles apparaissent comme <span id="p295">[<sup><small>p. 295</small></sup>]</span> Mazda, le plus bienfaisant, les a produits, Lui qui est victorieux quand Il frappe, et qui aide les colonies à progresser, pour la protection et la sauvegarde de l'ordre religieux des colonies qui sont maintenant en cours de développement, et de celles qui nous apporteront le salut, et pour la protection de toute la création du saint (et du pur).
+Et (puissent-ils) être pour nous (pour cette offrande) d'abondants donneurs de récompenses, et des justes et des vertueux, pour le monde au-delà du présent, après la séparation de notre conscience et de notre corps. 3. Et que celles-ci (les Louanges de l'Offrande) se manifestent et apparaissent pour nous avec puissance et assaut victorieux, avec santé et guérison, avec progrès et avec croissance, avec préparation et protection, avec bienfaisance et sainteté, et abondant en dons [^1228] envers celui qui peut comprendre ; oui, qu'elles apparaissent (avec une libre libéralité envers les éclairés), qu'elles apparaissent comme <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> Mazda, le plus bienfaisant, les a produits, Lui qui est victorieux quand Il frappe, et qui aide les colonies à progresser, pour la protection et la sauvegarde de l'ordre religieux des colonies qui sont maintenant en cours de développement, et de celles qui nous apporteront le salut, et pour la protection de toute la création du saint (et du pur).
 
 ---
 

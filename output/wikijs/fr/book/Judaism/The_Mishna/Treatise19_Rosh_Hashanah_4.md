@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 ### CHAPITRE IV.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 6. Il faut réciter au moins dix textes de l'Écriture Sainte relatifs à ‏מלכיות‎, dix relatifs à ‏זכרונות‎ et dix relatifs à ‏שופרות‎. R. Jochanan ben Nourrie dit : « L'obligation de lire ces textes sera dûment remplie si seulement trois de chaque classe ont été récités, mais aucun texte relatif à l'une ou l'autre classe contenant des prédictions de châtiment ne doit être utilisé. Les textes de la loi doivent être lus en premier, et les textes de conclusion doivent être tirés des prophètes. » Mais R. José dit : « Il suffit que le verset de conclusion soit tiré de la loi. »
 
-§ 7. Le deuxième de ceux qui, à la fête du nouvel an, officient au pupitre de lecture \[‏תיבה‎\] en tant que ministres de la congrégation, [^506] fera <span id="p166">[<sup><small>p. 166</small></sup>]</span> sonner le shophar par une autre personne, et les jours où le Hallel est lu, le premier ministre [^507] doit lire le Hallel.
+§ 7. Le deuxième de ceux qui, à la fête du nouvel an, officient au pupitre de lecture \[‏תיבה‎\] en tant que ministres de la congrégation, [^506] fera <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> sonner le shophar par une autre personne, et les jours où le Hallel est lu, le premier ministre [^507] doit lire le Hallel.
 
 § 8. Il n'est pas permis, pour sonner le shophar à la fête du nouvel an, de sortir des limites sabbatiques pour enlever un tas de pierres, [^508] de monter sur un arbre, de monter sur un animal ou de nager sur les eaux pour obtenir un shophar, ni de le couper avec quoi que ce soit qui ne puisse être utilisé en raison d'une transgression du repos sabbatique, ni en raison d'un commandement négatif direct de la loi ; mais une personne peut, si elle le souhaite, verser de l'eau ou du vin dans le shophar. [^509] On ne peut pas empêcher les enfants de sonner, mais, au contraire, il est licite de s'occuper de leur apprendre à sonner ; mais celui qui enseigne ainsi, comme d'ailleurs les autres personnes qui écoutent ces sons, ne peut pour autant être libéré de son obligation.
 

@@ -36,13 +36,13 @@ LA VIE DE GURU NANAK. CHAPITRE I
 
 Pour récapituler ce qui a été exposé plus en détail dans l'introduction, Guru Nanak, le fondateur de la religion sikh, est né, selon tous les anciens documents sikhs, au petit matin du troisième jour de la moitié claire du mois de Baisakh (avril-mai) de l'an 1469 après J.-C. ; mais pour des raisons de commodité, son anniversaire est désormais célébré par les Sikhs à l'occasion de la pleine lune du mois de Kartik (octobre-novembre). Son père, qui s'appelait Kalu, était comptable dans le village de Talwandi, dans l'actuel district de Lahore au Panjab, et sa mère était Tripta, mémorable dans les écrits sikhs pour sa dévotion envers son fils.
 
-Les biographes sikhs relatent minutieusement toutes les circonstances de la naissance de Guru Nanak. Daulatan, une sage-femme, assista à cette cérémonie. Le lendemain matin, interrogée par l'astrologue Hardial, venu rédiger l'horoscope de l'enfant, sur la nature de la voix qu'il avait émise à sa naissance, elle répondit qu'elle ressemblait à la voix riante d'un sage participant à une réunion sociale ; et elle se montra incapable de comprendre la nature de l'enfant. L'astrologue souhaita le voir, mais sa mère refusa en raison du froid. Il insista, et l'enfant lui fut amené emmailloté. À la vue du nourrisson, l'astrologue l'aurait vénéré, les mains jointes. Il déclara que l'enfant devait porter l'ombrelle, symbole de dignité royale ou prophétique en Orient. En même temps, il regrettait de ne jamais vivre assez longtemps pour voir l'éminence du jeune Nanak, vénéré comme il se doit par les hindous et les musulmans, et pas seulement par les hindous <span id="p2">[<sup><small>p. 2</small></sup>]</span> comme lors des précédentes manifestations humaines du Créateur. Le nom de l'enfant devrait résonner sur terre et au ciel. La nature inanimée devrait crier « Nanak, Nanak ! » Il devrait avoir pouvoir sur la matière afin de traverser indemne les profondeurs de l'océan. Il devrait adorer et reconnaître un seul Dieu, et la créature qu'il devrait traiter comme une créature. En d'autres termes, il devrait être un monothéiste, et non un adorateur de divinités mineures et d'idoles.
+Les biographes sikhs relatent minutieusement toutes les circonstances de la naissance de Guru Nanak. Daulatan, une sage-femme, assista à cette cérémonie. Le lendemain matin, interrogée par l'astrologue Hardial, venu rédiger l'horoscope de l'enfant, sur la nature de la voix qu'il avait émise à sa naissance, elle répondit qu'elle ressemblait à la voix riante d'un sage participant à une réunion sociale ; et elle se montra incapable de comprendre la nature de l'enfant. L'astrologue souhaita le voir, mais sa mère refusa en raison du froid. Il insista, et l'enfant lui fut amené emmailloté. À la vue du nourrisson, l'astrologue l'aurait vénéré, les mains jointes. Il déclara que l'enfant devait porter l'ombrelle, symbole de dignité royale ou prophétique en Orient. En même temps, il regrettait de ne jamais vivre assez longtemps pour voir l'éminence du jeune Nanak, vénéré comme il se doit par les hindous et les musulmans, et pas seulement par les hindous <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> comme lors des précédentes manifestations humaines du Créateur. Le nom de l'enfant devrait résonner sur terre et au ciel. La nature inanimée devrait crier « Nanak, Nanak ! » Il devrait avoir pouvoir sur la matière afin de traverser indemne les profondeurs de l'océan. Il devrait adorer et reconnaître un seul Dieu, et la créature qu'il devrait traiter comme une créature. En d'autres termes, il devrait être un monothéiste, et non un adorateur de divinités mineures et d'idoles.
 
 On dit que, à l'âge de cinq ans, Nanak commença à parler de sujets divins et qu'il comprenait parfaitement le sens de son langage. On lui accordait une grande confiance ; hindous et musulmans lui adressaient leur langage caractéristique d'adulation religieuse.
 
 À Nankana[^1], chaque lieu auquel Nanak était associé est considéré comme sacré. À l'endroit où il jouait avec les enfants de son âge et passait ensuite ses nuits en dévotion, se trouvait un petit bassin construit par Rai Bular, le propriétaire du village, en souvenir affectueux de l'enfance du gourou, à une époque où sa renommée s'était largement répandue. Le bassin fut considérablement agrandi par Kaura Mal, le diwan (ministre des finances) de Zakaria Khan, satrape de Lahore. Kaura Mal était un fervent admirateur du gourou Nanak et mit son influence matérielle et politique considérable au service de l'amélioration de la condition des Sikhs. Cet endroit est appelé Balkrira, ou le terrain de jeu des enfants.
 
-Lorsque Nanak eut sept ans, son père, à la manière des Hindous, demanda à l'astrologue du village de choisir une période propice pour le début de l'éducation du garçon. Le maître d'école pensa que le moment était venu. L'école semblait modeste et les frais de scolarité raisonnables. C'était l'épouse de Kalu, et non, comme aujourd'hui, l'usurier du village, qui était la gardienne des richesses de la maison. Kalu lui prit une pièce correspondant à trois <span id="p3">[<sup><small>p. 3</small></sup>]</span> farthings de monnaie anglaise, de la noix de bétel et du riz, et les présenta au maître d'école avec son fils. En Inde, des tablettes de bois peintes en noir sont utilisées pour apprendre aux enfants les lettres de leur langue. Le maître d'école écrit les lettres avec une sorte de craie liquide sur la tablette ; et les enfants répètent leurs noms à voix haute avec beaucoup de bruit et d'énergie. Le maître d'école écrivit l'alphabet pour Nanak, et ce dernier le recopia de mémoire au bout d'une journée.
+Lorsque Nanak eut sept ans, son père, à la manière des Hindous, demanda à l'astrologue du village de choisir une période propice pour le début de l'éducation du garçon. Le maître d'école pensa que le moment était venu. L'école semblait modeste et les frais de scolarité raisonnables. C'était l'épouse de Kalu, et non, comme aujourd'hui, l'usurier du village, qui était la gardienne des richesses de la maison. Kalu lui prit une pièce correspondant à trois <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> farthings de monnaie anglaise, de la noix de bétel et du riz, et les présenta au maître d'école avec son fils. En Inde, des tablettes de bois peintes en noir sont utilisées pour apprendre aux enfants les lettres de leur langue. Le maître d'école écrit les lettres avec une sorte de craie liquide sur la tablette ; et les enfants répètent leurs noms à voix haute avec beaucoup de bruit et d'énergie. Le maître d'école écrivit l'alphabet pour Nanak, et ce dernier le recopia de mémoire au bout d'une journée.
 
 On raconte qu'à cette occasion, le jeune gourou composa un acrostiche sur son alphabet. Comme dans des compositions similaires dans d'autres langues, les lettres furent prises consécutivement, et les mots dont elles formaient les initiales furent employés pour exprimer métriquement les aspirations divines du gourou, ses principes et son admiration pour les attributs du Créateur.
 
@@ -77,7 +77,7 @@ Celui qui considère le mal et le bien comme étant la même chose, sera ainsi a
 CH. Celui qui a créé les quatre Védas,[^4] les quatre mines,[^5] et les quatre âges[^6]
 A été à chaque époque un Jogi, un homme du monde ou un pandit érudit.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 CHH. L'ombre de Dieu est sur tout ; le doute est son œuvre.
 Ô Dieu, ayant créé le doute, Tu égares l'homme. Ceux que Tu favorises rencontrent le Gourou.
@@ -105,7 +105,7 @@ Il regarde l'ouvrage de ses mains, donne ses ordres, et sauve ceux sur qui il po
 N. Celui dans le cœur duquel Dieu habite chante ses louanges.
 Le Créateur mélange les hommes avec Lui-même, et ils ne naissent pas de nouveau.
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 T. L'océan terrible[^1] est profond, et personne ne trouve sa fin.
 Nous n’avons ni bateau ni radeau ; nous nous noyons ; sauve-nous, ô Roi Sauveur.
@@ -155,7 +155,7 @@ Méditez sur Lui, absorbez-vous dans le Véritable et soyez un sacrifice pour Lu
 H. Il n’y a pas d’autre Donateur que Celui qui a créé les créatures et leur a donné leur subsistance.
 Méditez sur le nom de Dieu, absorbez-vous dans le nom de Dieu, et vous en tirerez profit jour et nuit.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 A. Ce que Dieu qui a créé le monde doit faire, il continue de le faire.
 Il agit et fait agir les autres ; Il sait tout ; ainsi dit le poète Nanak.
@@ -170,7 +170,7 @@ Afin que, chaque fois que cela est nécessaire, une véritable marque puisse y �
 Là[^3] on obtient la grandeur, les joies éternelles et les délices éternels.
 Ceux dans le cœur desquels se trouve la vérité en portent les marques sur leur front.
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 C'est par la miséricorde de Dieu que les hommes l'obtiennent et non par de vaines paroles.
 L'un vient, l'autre s'en va ; nous leur donnons de grands noms.[^1]
@@ -199,7 +199,7 @@ Le souffle pris sans penser à Dieu est gaspillé en vain.
 Je vendrais ce corps si seulement je trouvais un acheteur.
 Nanak, le corps qui n'est pas rempli du vrai Nom n'a aucune valeur.[^2]
 
-Il existe également des preuves internes satisfaisantes de ses propres compositions que Guru Nanak étudiait le persan. Kalu estimait que la société des religieux n'était pas de nature à favoriser les intérêts laïcs de son fils. Rai Bular promit que si Nanak apprenait le persan, langue dans laquelle étaient alors rédigés tous les documents et comptes de l'État, il le nommerait comptable du village, succédant ainsi à son père. Le persan n'a jamais été la langue des hindous, qui le méprisaient comme la langue des étrangers et des conquérants <span id="p12">[<sup><small>p. 12</small></sup>]</span> et de la littérature musulmane impure[^1] ; mais les hindous de l'époque de Nanak s'y adonnaient comme ils le font aujourd'hui, simplement pour gagner leur vie. Nanak ne tarda pas à étonner son persan comme il avait auparavant étonné son maître hindou. En réponse aux injonctions de Rukn-ul-Din, il assuma à son tour le rôle de maître et composa l'acrostiche suivant sur les lettres de l'alphabet persan.
+Il existe également des preuves internes satisfaisantes de ses propres compositions que Guru Nanak étudiait le persan. Kalu estimait que la société des religieux n'était pas de nature à favoriser les intérêts laïcs de son fils. Rai Bular promit que si Nanak apprenait le persan, langue dans laquelle étaient alors rédigés tous les documents et comptes de l'État, il le nommerait comptable du village, succédant ainsi à son père. Le persan n'a jamais été la langue des hindous, qui le méprisaient comme la langue des étrangers et des conquérants <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> et de la littérature musulmane impure[^1] ; mais les hindous de l'époque de Nanak s'y adonnaient comme ils le font aujourd'hui, simplement pour gagner leur vie. Nanak ne tarda pas à étonner son persan comme il avait auparavant étonné son maître hindou. En réponse aux injonctions de Rukn-ul-Din, il assuma à son tour le rôle de maître et composa l'acrostiche suivant sur les lettres de l'alphabet persan.
 
 ALIF. Souviens-toi de Dieu et bannis de ton cœur toute négligence à son égard.
 Maudite soit la vie de celui qui, dans ce monde, respire sans prononcer le Nom.
@@ -252,7 +252,7 @@ Ton corps deviendra un tas de poussière dans la tombe.
 ZOE. C'étaient des tyrans qui n'écoutaient pas le Nom :
 Comment l’homme peut-il obtenir la paix sans son Maître ?
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 'AIN. Pratique les bonnes œuvres au mieux de tes capacités :
 Sans bonnes œuvres et sans vertus, l’homme mourra plein de regrets.
@@ -291,7 +291,7 @@ Quel ordre va-t-Il passer dans notre cas, ô Rukn-ul-Din ?
 LAM. Ceux sur qui Il jette Son regard de miséricorde en sont devenus dignes.
 À quoi sert le désir de vivre si l’homme ne règle pas sa propre conduite ?
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ALIF. Dieu est en toi ; pourquoi ne penses-tu pas à Lui, ô homme ignorant ?
 En servant le gourou, on trouve Dieu et on obtient enfin la délivrance.
@@ -305,7 +305,7 @@ Il ne semble pas que l'acquisition du persan ait orienté les pensées de Nanak 
 
 
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

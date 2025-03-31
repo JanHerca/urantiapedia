@@ -79,7 +79,7 @@ Les capitaines s'enfuirent d'un pas martial.
 Accueilli avec honneur comme il se doit
 Ils se penchèrent pour presser les pieds de leur monarque,
 
-<span id="p435">[<sup><small>p. 435</small></sup>]</span>
+<span id="p435"><sup><small>[ p. 435 ]</small></sup></span>
 
 Et chacun a trouvé sa place dans l'ordre
 Sur un tabouret, sur un coussin ou au sol.
@@ -188,7 +188,7 @@ Et ne se repent jamais d’une action hâtive ;
 Et malheureux celui dont l'âme troublée
 Pleure les jours hors de contrôle.
 
-<span id="p436">[<sup><small>p. 436</small></sup>]</span>
+<span id="p436"><sup><small>[ p. 436 ]</small></sup></span>
 
 Tu as été pris au piège dans les filets de la beauté,
 Un acte d'audace désespéré a été osé ;
@@ -305,7 +305,7 @@ Ta ville est pleine d'ennemis impitoyables.
 Oh, que la dame Maithil soit restaurée
 Ere détaché du cordon résonnant
 
-<span id="p437">[<sup><small>p. 437</small></sup>]</span>
+<span id="p437"><sup><small>[ p. 437 ]</small></sup></span>
 
 Les flèches vengeresses de Rama volent,
 Et tes princes reposent dans la mort.
@@ -419,7 +419,7 @@ Et donne au fils de Raghu
 De belles robes, des pierres précieuses et du minerai précieux,
 Et Sita sera rétablie dans ses bras.
 
-<span id="p438">[<sup><small>p. 438</small></sup>]</span>
+<span id="p438"><sup><small>[ p. 438 ]</small></sup></span>
 
 
 
@@ -526,7 +526,7 @@ Ce chef géant sublime dans l'air
 Avec quatre autres en pleine lumière
 Vient armé pour conquérir et tuer.
 
-<span id="p439">[<sup><small>p. 439</small></sup>]</span>
+<span id="p439"><sup><small>[ p. 439 ]</small></sup></span>
 
 Dès qu'ils entendirent son discours d'avertissement,
 Les chefs Vánar ne se découragent pas
@@ -648,7 +648,7 @@ Poussé par la faute de son frère à voler.
 Avec une âme juste qui déteste le péché,
 Il s'est enfui de Lanká et de sa famille.
 
-<span id="p440">[<sup><small>p. 440</small></sup>]</span>
+<span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 
 Si des étrangers posent des questions, le doute surgira.
 Et glacer le cœur d’un si sage.
@@ -761,7 +761,7 @@ Et Rama se dirigea vers Vibhishana.
 Ainsi se déplace, un frère Dieu pour saluer,
 Le Seigneur Indra depuis son siège céleste.
 
-<span id="p441">[<sup><small>p. 441</small></sup>]</span>
+<span id="p441"><sup><small>[ p. 441 ]</small></sup></span>
 
 
 
@@ -872,7 +872,7 @@ Et les arrêter sur le sable de l'océan.
 Ô Monarque, lève-toi, ce péril est imminent ;
 Ne risquez pas le danger de la défaite.
 
-<span id="p442">[<sup><small>p. 442</small></sup>]</span>
+<span id="p442"><sup><small>[ p. 442 ]</small></sup></span>
 
 Que l'on essaie d'abord chaque art le plus sage ;
 Soudoyer les, les gagner ou les diviser.

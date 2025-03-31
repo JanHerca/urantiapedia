@@ -34,9 +34,9 @@ dateCreated: 2025-2-7T10:44:27Z
 
 « L'Aggadah est précieuse aux yeux du Seigneur, comme l'expliquent les Midrashim. »
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 ## NOTE D'INTRODUCTION
 
@@ -44,9 +44,9 @@ Les Midrashim sont d'anciennes interprétations rabbiniques des Saintes Écritur
 
 Les Midrashim, pour la plupart, sont nés d'un désir louable de familiariser le peuple avec les Écritures Saintes, devenues, au fil du temps, lettre morte pour eux suite aux changements de la langue vernaculaire. Ces Midrashim n'ont que peu ou pas de rapport avec les Halakhot ou décisions juridiques du Talmud, si ce n'est leur objectif d'illustration et d'explication. Ce ne sont pas des interprétations littérales, mais figuratives et allégoriques, et donc énigmatiques. Elles doivent cependant être reçues comme des paroles des sages, et certains les considèrent même comme aussi contraignantes que la loi de Moïse elle-même. Les extraits suivants en sont assez représentatifs.
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 ## LES MIDRASHIM
 
@@ -68,7 +68,7 @@ _Ibid._, chap. 63.
 
 _Ibid._, chap. 68.
 
-Vayash Kihu, « Et l'embrassa » (Gen. xxxiii. 4), Rabbi Yanai demande : « Pourquoi ce mot (dans l'hébreu original) est-il si pointu ? » « C'est pour enseigner qu'Ésaü n'est pas venu pour l'embrasser, mais pour le mordre » ; seul le cou de Jacob notre père devint dur comme du marbre, et cela émoussa les dents du méchant. » « Et qu'enseigne l'expression <span id="p238">[<sup><small>p. 238</small></sup>]</span> « Et ils pleurèrent » ? « L'un pleura pour son cou et l'autre pour ses dents. »
+Vayash Kihu, « Et l'embrassa » (Gen. xxxiii. 4), Rabbi Yanai demande : « Pourquoi ce mot (dans l'hébreu original) est-il si pointu ? » « C'est pour enseigner qu'Ésaü n'est pas venu pour l'embrasser, mais pour le mordre » ; seul le cou de Jacob notre père devint dur comme du marbre, et cela émoussa les dents du méchant. » « Et qu'enseigne l'expression <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> « Et ils pleurèrent » ? « L'un pleura pour son cou et l'autre pour ses dents. »
 
 _Midrash Rabbah_, chap. 78.
 
@@ -84,7 +84,7 @@ Abraham conclut une alliance avec le peuple du pays. Lorsque les anges se prése
 
 _Ibid._
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 Sichem, fils de Hamor, rassembla des jeunes filles jouant du tambourin devant la tente de Dina. Lorsqu'elle « sortit pour les voir », il l'enleva… et elle lui enfanta Osnath. Les fils de Jacob voulurent la tuer, de peur que le peuple du pays ne commence à calomnier la maison de leur père. Jacob, cependant, gravait le saint Nom sur une plaque de métal, la suspendit à son cou et la renvoya. Tout cela étant observé devant le Saint – béni soit-Il ! – l'ange Michel fut envoyé, qui la conduisit en Égypte, dans la maison de Poti-Phéra ; car Osnath était digne de devenir l'épouse de Joseph.
 
@@ -114,7 +114,7 @@ _Bamidbar Rabbah_, chap. 2.
 
 _Ibid._, chap. 7.
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 « Abraham se leva de bon matin et sella son âne » (Genèse 12:3). C'est sur cet âne que Moïse monta également à son arrivée en Égypte ; car il est dit (Exode 4:20) : « Moïse prit sa femme et ses fils, et les fit monter sur un âne. » C'est sur cet âne que montera aussi le Fils de David, comme il est dit (Zacharie 9:9) : « Pauvre et monté sur un âne. »
 
@@ -172,7 +172,7 @@ _Tal. Yerushalmi P'sachim_, Shabbath, XVI. fol. 30, col. 2.
 
 _T. debei Aliahu_, chap. 2.
 
-Rabbi Yérémie, fils d'Éléazar, a dit : « Lorsque le Saint, béni soit-Il !, créa Adam, il le créa androgyne, car il est écrit (Genèse v. 2) : « Il les créa mâle et femelle. » Rabbi Sh'muel bar Nahman a dit : « Lorsque le Saint, béni soit-Il !, créa Adam, il le créa avec deux visages ; puis il le scia <span id="p244">[<sup><small>p. 244</small></sup>]</span> en deux, et le fendit (en deux), faisant l'un à la moitié, et l'autre à l'autre. »
+Rabbi Yérémie, fils d'Éléazar, a dit : « Lorsque le Saint, béni soit-Il !, créa Adam, il le créa androgyne, car il est écrit (Genèse v. 2) : « Il les créa mâle et femelle. » Rabbi Sh'muel bar Nahman a dit : « Lorsque le Saint, béni soit-Il !, créa Adam, il le créa avec deux visages ; puis il le scia <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> en deux, et le fendit (en deux), faisant l'un à la moitié, et l'autre à l'autre. »
 
 _Midrash Rabbah_, chap. 8.
 
@@ -188,7 +188,7 @@ Rabbi Yochanan dit : « Adam et Ève semblaient avoir environ vingt ans lorsqu�
 
 _Ibid._, chap. 14.
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 Rav Acha dit que lorsque Dieu s'apprêtait à créer Adam, il consulta les anges qui le servaient et leur demanda : « Devons-nous créer l'homme ? » Ils demandèrent : « À quoi servira cet homme ? » Il répondit : « Sa sagesse sera plus grande que la vôtre. » Un jour, il rassembla donc le bétail, les bêtes et les oiseaux, et leur demanda leur nom un par un, mais ils ne le savaient pas. Il les fit alors passer devant Adam et lui demanda : « Quel est le nom de celui-ci et de l'autre ? » Adam répondit : « Celui-ci est un bœuf, celui-ci est un âne », et ainsi de suite. « Et toi, pourquoi t'appelles-tu Adam ? » (c'est-à-dire homme en hébreu). « Je devrais m'appeler Adam », répondit-il, « car j'ai été créé d'Adamah » (la terre). « Et quel est mon nom ? » « Il convient que tu sois appelé Seigneur, car tu es Seigneur de toutes tes créatures. » Rav Acha dit : « Je suis l'Éternel, c'est là mon nom » (Ésaïe XLII, 8). (C'est là mon nom par lequel Adam m'a appelé.)
 
@@ -204,7 +204,7 @@ _Ibid._, chap. 28.
 
 Concernant l'os coccygien, le Midrash Kohelet (fol. 114, 3) contient une histoire intéressante, qu'il est opportun d'insérer ici. Hadrien (dont les os doivent être broyés et son nom effacé) demanda un jour au rabbin Josué ben Chanania : « De quoi le corps humain sera-t-il reconstruit lorsqu'il renaîtra ? » « De Luz, un petit os de la colonne vertébrale », répondit-il. « Prouve-le-moi », dit Hadrien. Le rabbin prit alors Luz, un petit os de la colonne vertébrale, et le plongea dans l'eau, mais il ne se ramollit pas ; il le jeta au feu, mais il ne se consuma pas ; il le mit dans un moulin, mais il ne put être broyé ; il le plaça sur une enclume et le frappa avec un marteau, mais l'enclume se fendit et le marteau se brisa. (Voir aussi Zohar dans « Genèse », 206, etc.)
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 « Tu feras une fenêtre à l'arche » (Genèse VI, 16). Rabbi Amma dit : « C'était une vraie fenêtre. » Rabbi Lévi, quant à lui, soutenait qu'il s'agissait d'une pierre précieuse et que, durant les douze mois où Noé était dans l'arche, il n'avait eu besoin ni de la lumière du soleil le jour ni de la lune la nuit, grâce à cette pierre qu'il avait laissée suspendue. Il savait que c'était le jour lorsqu'elle était faible et la nuit lorsqu'elle étincelait.
 
@@ -220,7 +220,7 @@ _Ibid._, chap. 32.
 
 Au moment où Dieu dit au serpent : « Tu marcheras sur ton ventre » (Genèse 3.14), les anges qui le servaient descendirent et lui coupèrent les mains et les pieds. Sa voix se fit alors entendre d'un bout à l'autre du monde. Bereshith Midrash Rabbah, chap. 20.
 
-Quand Dieu dit au serpent : « Et tu marcheras sur ton ventre » (Gen. iii. 4), le serpent répondit : « Seigneur de l'univers ! Si telle est ta volonté, je serai comme un poisson de la mer sans pieds. » Mais quand Dieu lui dit : « Et tu mangeras de la poussière », il répondit : « Si les poissons mangent de la poussière, moi aussi je la mangerai. » Alors Dieu saisit le serpent et lui déchira la langue en deux, et dit : « Ô méchant ! tu as commencé (à pécher) par ta mauvaise langue ; <span id="p247">[<sup><small>p. 247</small></sup>]</span> ainsi je le proclamerai à tous ceux qui viennent au monde que c'est ta langue qui t'a causé tout cela. »
+Quand Dieu dit au serpent : « Et tu marcheras sur ton ventre » (Gen. iii. 4), le serpent répondit : « Seigneur de l'univers ! Si telle est ta volonté, je serai comme un poisson de la mer sans pieds. » Mais quand Dieu lui dit : « Et tu mangeras de la poussière », il répondit : « Si les poissons mangent de la poussière, moi aussi je la mangerai. » Alors Dieu saisit le serpent et lui déchira la langue en deux, et dit : « Ô méchant ! tu as commencé (à pécher) par ta mauvaise langue ; <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> ainsi je le proclamerai à tous ceux qui viennent au monde que c'est ta langue qui t'a causé tout cela. »
 
 _Lettres de Rabbi Akiva_.
 
@@ -266,7 +266,7 @@ _Midrash Tillin Terumah, Kedoshim_.
 
 Dans Ézéchiel v. 5, nous lisons : « J'ai placé Jérusalem au milieu des nations et des pays qui l'entourent. » Interprétant littéralement ces mots, on affirmait que Jérusalem était le centre même du monde, ou, comme l'appelait curieusement Jérôme, « le nombril de la terre ». Le Talmud illustre magnifiquement ce point de vue. C'est dans les six dernières lignes du neuvième chapitre de Derech Eretz Zuta, qui se lit ainsi : « Issi ben Yochanan, au nom de Shemuel Hakaton, dit : “Le monde est comme le globe oculaire de l'homme ; le blanc est l'océan qui entoure le monde, le noir est le monde lui-même, la pupille est Jérusalem, et l'image dans la pupille est le Temple. Puisse-t-il être construit de nos jours et aux jours de tout Israël ! Amen !” » Le souvenir de cette idée est encore vivant aujourd'hui parmi les chrétiens grecs, qui montrent encore la pierre sacrée dans l'église du Saint-Sépulcre à Jérusalem. Cette notion ne se limite pas au judaïsme. Les lecteurs classiques se rappelleront immédiatement l'appellation Omphalos ou nombril appliquée au temple de Delphes (Pindare, Pyth., iv. 131, vi. 3 ; Eurip. Ion., 461 ; Æsch. Chœph., 1034 ; Eum. 40, 167 ; Strabon, etc.).
 
-Deux étincelles jaillirent d'entre les deux chérubins, détruisirent les serpents et les scorpions, et brûlèrent les épines dans le désert. Leur fumée, s'élevant et se répandant, <span id="p250">[<sup><small>p. 250</small></sup>]</span> parfuma le monde, de sorte que les nations dirent (Cant. iii. 6) : « Qui est celle-ci qui monte du désert comme des colonnes de fumée, parfumées ? »
+Deux étincelles jaillirent d'entre les deux chérubins, détruisirent les serpents et les scorpions, et brûlèrent les épines dans le désert. Leur fumée, s'élevant et se répandant, <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> parfuma le monde, de sorte que les nations dirent (Cant. iii. 6) : « Qui est celle-ci qui monte du désert comme des colonnes de fumée, parfumées ? »
 
 _Ibid._, _Vayakhel_.
 
@@ -290,7 +290,7 @@ _Midrash Shochar Tov sur Ps. lxxxv_.
 
 _Midrash Mishle_.
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 Voir aussi le Talmud, Kethuboth, fol. 111, col. 1. Le Dr Benisch traduit par « et fera l'expiation pour sa terre et son peuple ». Les Targums de Jonathan et du Yerushalmi disent : « Il fera l'expiation pour sa terre et pour son peuple » ; et Onkelos le dit ainsi : « Il fera miséricorde à sa terre et à son peuple. » Notre traduction, cependant, est conforme au sens que lui donne le Talmud. Des Juifs parcourent le monde avec des sacs de terre de Terre Sainte, qu'ils vendent en petites quantités à prix fort à ceux qui en ont les moyens, et croient en sa vertu protectrice contre les vers de la tombe.
 
@@ -326,7 +326,7 @@ _Midrash Rabbah Bereshith_, chap. 17.
 
 _Pesikta_.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 (Cant. v. i), « Je suis entré dans mon jardin », les synagogues et les académies ; « Ma sœur, mon épouse », la congrégation d'Israël ; « J'ai cueilli ma myrrhe avec mes aromates », la Bible (c'est-à-dire) ; « J'ai mangé mon rayon de miel avec mon miel » (ce qui signifie) les Halachoth, Midrashoth et Aggadoth ; « J'ai bu mon vin avec mon lait », allusion aux bonnes œuvres réservées aux sages d'Israël. Après cela, « Mangez, ô amis ! buvez, oui, buvez librement, ô bien-aimés ! »
 
@@ -338,7 +338,7 @@ _Midrash Rabbah Devarim_, chap. 15.
 
 Cette tradition nous est rappelée lors de la cérémonie de clôture de Yom Kippour, où nous répétons : « Tu ouvriras promptement les portes cachées à ceux qui s'attachent à ta loi. » Il s'agit des « portes du Temple », censées être enfoncées dans le sol.
 
-Rabbi Akiva rencontra un jour, au cours d'un voyage, un homme d'une laideur remarquable, peinant sous un lourd fardeau de bois. Rabbi Akiva lui dit : « Je t'adjure de me dire si tu es un homme ou un démon. » « Rabbi », dit-il, « j'étais autrefois un homme, et il y a maintenant quelque temps que j'ai quitté ce monde. Jour après jour, je dois porter un fardeau comme celui-ci, sous lequel je suis obligé de m'incliner et de me soumettre trois fois par jour au feu. » Rabbi Akiva lui demanda alors : « Quelle était la raison de ce châtiment ? » et il répondit : « J'ai commis une immoralité le Jour du Grand Pardon. » Le Rabbi lui demanda s'il connaissait quelque chose qui pourrait lui permettre d'obtenir la rémission de son châtiment. <span id="p254">[<sup><small>p. 254</small></sup>]</span> « Oui », fut la réponse. « Quand un fils que j'ai laissé derrière moi sera appelé à la lecture (publique) de la loi et dira : “Béni soit le Seigneur béni”, je serai retiré de l'enfer et emmené au Paradis. » Le rabbin nota le nom de l'homme et sa demeure, où il se rendit ensuite et s'enquit de lui. Les habitants du lieu répondirent seulement : « Le nom des méchants pourrira » (Prov. X. 7). Malgré cela, le rabbin insista et dit : « Amenez-moi son fils. » Lorsqu'ils l'amenèrent, il apprit au garçon à réciter la bénédiction, ce qu'il fit le sabbat suivant, lors de la lecture publique de la loi ; sur quoi son père fut immédiatement transporté de l'enfer au Paradis. Cette même nuit, le père se rendit directement chez Rabbi Akiva et exprima avec gratitude son espoir que l'esprit du rabbin soit aussi apaisé que le sien.
+Rabbi Akiva rencontra un jour, au cours d'un voyage, un homme d'une laideur remarquable, peinant sous un lourd fardeau de bois. Rabbi Akiva lui dit : « Je t'adjure de me dire si tu es un homme ou un démon. » « Rabbi », dit-il, « j'étais autrefois un homme, et il y a maintenant quelque temps que j'ai quitté ce monde. Jour après jour, je dois porter un fardeau comme celui-ci, sous lequel je suis obligé de m'incliner et de me soumettre trois fois par jour au feu. » Rabbi Akiva lui demanda alors : « Quelle était la raison de ce châtiment ? » et il répondit : « J'ai commis une immoralité le Jour du Grand Pardon. » Le Rabbi lui demanda s'il connaissait quelque chose qui pourrait lui permettre d'obtenir la rémission de son châtiment. <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> « Oui », fut la réponse. « Quand un fils que j'ai laissé derrière moi sera appelé à la lecture (publique) de la loi et dira : “Béni soit le Seigneur béni”, je serai retiré de l'enfer et emmené au Paradis. » Le rabbin nota le nom de l'homme et sa demeure, où il se rendit ensuite et s'enquit de lui. Les habitants du lieu répondirent seulement : « Le nom des méchants pourrira » (Prov. X. 7). Malgré cela, le rabbin insista et dit : « Amenez-moi son fils. » Lorsqu'ils l'amenèrent, il apprit au garçon à réciter la bénédiction, ce qu'il fit le sabbat suivant, lors de la lecture publique de la loi ; sur quoi son père fut immédiatement transporté de l'enfer au Paradis. Cette même nuit, le père se rendit directement chez Rabbi Akiva et exprima avec gratitude son espoir que l'esprit du rabbin soit aussi apaisé que le sien.
 
 _Midrash Assereth Hadibroht_.
 
@@ -350,7 +350,7 @@ Il y a quatre points cardinaux dans le monde, etc. Dieu a créé le point nord, 
 
 Pirké d'Rab. Eliézer, chap. 3.
 
-Un jour, un Min demanda à Rabbi Akiva : « Qui a créé ce monde ? » « Le Saint, béni soit-Il ! » lui répondit-il. « Donne-moi une preuve irréfutable », supplia l'autre. « Reviens demain », répondit le Rabbi. Le lendemain, le Rabbi revint et demanda : « De quoi es-tu vêtu ? » « D'un vêtement », lui répondit-il. « Qui l'a fait ? » demanda le Rabbi. « Un tisserand », dit l'autre. « Je ne te crois pas », dit le Rabbi ; je m'en donne une preuve irréfutable. » <span id="p255">[<sup><small>p. 255</small></sup>]</span> « Je n'ai pas besoin de le démontrer », dit le Min ; « il est évident qu'un tisserand l'a fait. » « Et ainsi tu sauras que Dieu a créé le monde », observa le Rabbi. Après le départ du Min, les disciples du Rabbi lui demandèrent : « Qu'est-ce qu'une preuve irréfutable ? » Il dit : « Mes enfants, comme une maison implique un constructeur, un vêtement un tisserand et une porte un charpentier, de même l’existence du monde implique que le Saint – béni soit-Il ! – l’a créé. »
+Un jour, un Min demanda à Rabbi Akiva : « Qui a créé ce monde ? » « Le Saint, béni soit-Il ! » lui répondit-il. « Donne-moi une preuve irréfutable », supplia l'autre. « Reviens demain », répondit le Rabbi. Le lendemain, le Rabbi revint et demanda : « De quoi es-tu vêtu ? » « D'un vêtement », lui répondit-il. « Qui l'a fait ? » demanda le Rabbi. « Un tisserand », dit l'autre. « Je ne te crois pas », dit le Rabbi ; je m'en donne une preuve irréfutable. » <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> « Je n'ai pas besoin de le démontrer », dit le Min ; « il est évident qu'un tisserand l'a fait. » « Et ainsi tu sauras que Dieu a créé le monde », observa le Rabbi. Après le départ du Min, les disciples du Rabbi lui demandèrent : « Qu'est-ce qu'une preuve irréfutable ? » Il dit : « Mes enfants, comme une maison implique un constructeur, un vêtement un tisserand et une porte un charpentier, de même l’existence du monde implique que le Saint – béni soit-Il ! – l’a créé. »
 
 _Midrash Terouma_.
 
@@ -380,7 +380,7 @@ _Ibid._
 
 Rabbi Avin a dit que quatre sortes d'excellence ont été créées dans le monde : (1.) l'excellence de l'homme sur le règne animal ; (2.) l'excellence de l'aigle sur les tribus à plumes ;
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 (3.) la supériorité du bœuf sur le bétail domestique ; et (4.) la supériorité du lion sur les bêtes sauvages. Tous étaient attachés au char de Dieu ; comme il est dit (Ézéchiel 1.10) : « Quant à la ressemblance de leurs visages, ils avaient tous quatre une face d’homme, une face de lion, une face de bœuf et une face d’aigle. » Et pourquoi tout cela ? Pour qu’ils ne s’exaltent pas, mais sachent qu’un royaume des cieux est au-dessus d’eux ; et c’est pourquoi il est dit (Ecclésiaste 5.8) : « Celui qui est au-dessus des plus hauts regarde, et il y en a qui sont plus hauts qu’eux. » Tel est le sens d’Exode 15.1 : « Il a triomphé glorieusement. »
 
@@ -394,7 +394,7 @@ _Bamidbar_, chap. 4.
 
 _Midrash Shir Hashirim_.
 
-Rabbi Ismaël dit que les cinq doigts de la main droite du Saint d'Israël — béni soit-Il ! — sont chacun la cause efficiente des rédemptions. (1.) Avec son petit doigt, il indiqua à Noé comment construire l'arche ; comme il est dit (Gen. vi. 15) : « Et c'est ainsi que tu la feras. » (2.) Avec le doigt le plus proche du petit, il frappa les Égyptiens ; comme il est dit (Exode viii. 19) : « Ceci est le doigt de Dieu. » (3.) Avec le troisième doigt du petit <span id="p258">[<sup><small>p. 258</small></sup>]</span>, il écrivit les tables ; comme il est dit (Exode xxxi. 18) : « Tables de pierre écrites par le doigt de Dieu. » (4.) Avec le quatrième doigt, celui qui est à côté du pouce, le Saint – béni soit-Il ! – a indiqué à Moïse combien les Israélites devaient donner en rançon pour leurs âmes ; comme il est dit (Exode xxx. 13) : « Ceci, ils le donneront. » (5.) Avec le pouce et toute la main, le Saint – béni soit-Il ! – détruira à l'avenir les enfants d'Ésaü, car ils oppriment les enfants d'Israël, ainsi que les enfants d'Ismaël, car ils sont leurs ennemis ; comme il est dit (Michée v. 9) : « Ta main sera levée sur tes adversaires, et tous tes ennemis seront retranchés. »
+Rabbi Ismaël dit que les cinq doigts de la main droite du Saint d'Israël — béni soit-Il ! — sont chacun la cause efficiente des rédemptions. (1.) Avec son petit doigt, il indiqua à Noé comment construire l'arche ; comme il est dit (Gen. vi. 15) : « Et c'est ainsi que tu la feras. » (2.) Avec le doigt le plus proche du petit, il frappa les Égyptiens ; comme il est dit (Exode viii. 19) : « Ceci est le doigt de Dieu. » (3.) Avec le troisième doigt du petit <span id="p258"><sup><small>[ p. 258 ]</small></sup></span>, il écrivit les tables ; comme il est dit (Exode xxxi. 18) : « Tables de pierre écrites par le doigt de Dieu. » (4.) Avec le quatrième doigt, celui qui est à côté du pouce, le Saint – béni soit-Il ! – a indiqué à Moïse combien les Israélites devaient donner en rançon pour leurs âmes ; comme il est dit (Exode xxx. 13) : « Ceci, ils le donneront. » (5.) Avec le pouce et toute la main, le Saint – béni soit-Il ! – détruira à l'avenir les enfants d'Ésaü, car ils oppriment les enfants d'Israël, ainsi que les enfants d'Ismaël, car ils sont leurs ennemis ; comme il est dit (Michée v. 9) : « Ta main sera levée sur tes adversaires, et tous tes ennemis seront retranchés. »
 
 _Pirké d'Rab. Eliézer_, chap. 48.
 
@@ -408,7 +408,7 @@ _Midrash Rabbah Eicha_.
 
 « Comment la ville est-elle solitaire ? » (Lam. i. 1). Trois prophètes ont utilisé ce mot « comment » dans leurs prophéties : Moïse, Isaïe et Jérémie. Moïse dit (Deut. i. 12) : « Comment puis-je moi-même supporter votre fardeau ? » s'exclama Isaïe.
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 (Isaïe i. 21), « Comment la ville fidèle est-elle devenue une prostituée ! » Jérémie dit (Lam. i. 1), « Comment la ville est-elle solitaire ! » Rabbi Lévi dit : « La chose est semblable à une matrone qui a trois amis ; l'un la vit dans sa prospérité, un autre dans sa dissipation, et le troisième dans sa souillure. Ainsi Moïse vit Israël dans sa gloire et sa prospérité, et il dit : « Comment puis-je moi-même supporter votre fardeau ! » Ésaïe les vit dans leur dissipation, et il dit : « Comment est la ville fidèle », etc. ; et Jérémie les vit dans leur souillure, et il dit : « Comment la ville est-elle solitaire ! »
 
@@ -426,7 +426,7 @@ Rabbi Yohanan ben Zachay raconte qu'un jour, rencontrant un homme qui ramassait 
 
 _Tanu d'Eliyahu_.
 
-Rabbi Berachia dit : « Afin que les Minim, les apostats et les méchants Israélites n'échappent pas à l'enfer à cause de leur circoncision, le Saint – béni soit-Il ! – envoie un ange pour en annuler les effets, et ils descendent aussitôt vers leur destin. Lorsque la Géhenne voit <span id="p260">[<sup><small>p. 260</small></sup>]</span> cela, elle ouvre sa bouche et les lèche. » Tel est le sens de (Isaïe v. 14) : « Et elle ouvrit sa bouche à ceux qui n'avaient pas la loi » (c'est-à-dire à ceux qui n'avaient pas le signe de l'alliance).
+Rabbi Berachia dit : « Afin que les Minim, les apostats et les méchants Israélites n'échappent pas à l'enfer à cause de leur circoncision, le Saint – béni soit-Il ! – envoie un ange pour en annuler les effets, et ils descendent aussitôt vers leur destin. Lorsque la Géhenne voit <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> cela, elle ouvre sa bouche et les lèche. » Tel est le sens de (Isaïe v. 14) : « Et elle ouvrit sa bouche à ceux qui n'avaient pas la loi » (c'est-à-dire à ceux qui n'avaient pas le signe de l'alliance).
 
 _Midrash Rabbath Shemoth_, chap. 19.
 
@@ -476,7 +476,7 @@ Les averses de pluie sont plus grandes que le don de la Loi, car le don de la Lo
 
 _Midrash Shochar Tov_, 117
 
-<span id="p262">[<sup><small>p. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 David était un berger d’Israël, et le berger de David était le Saint – béni soit-Il ! – comme il est dit (Ps. xxiii. x) : « L’Éternel est mon berger. »
 
@@ -494,15 +494,15 @@ _Yalkut Eliezer_, fol. 65, col. 2, n- 36.
 
 _Yalkut Jethro_, n. 271.
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 « Écoutons la conclusion de toute l'affaire » (Ecclésiaste xii. 13). Tu entendras toujours la Loi, même si tu ne la comprends pas. « Craignez Dieu » et donnez-lui votre cœur. « Et observez ses commandements », car c'est à cause de la Loi que le monde entier a été créé pour que le monde l'étudie.
 
 _Koheleth, tel que donné dans Tse-enah Ure-enah_.
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

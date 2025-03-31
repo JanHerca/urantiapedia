@@ -80,7 +80,7 @@ Pour jeter un pont à travers la mer,
 La ville de notre ennemi à atteindre
 Qui couronne la montagne près de la plage ;
 
-<span id="p428">[<sup><small>p. 428</small></sup>]</span>
+<span id="p428"><sup><small>[ p. 428 ]</small></sup></span>
 
 Et quand nos pieds fouleront cette île,
 Réjouis-toi et considère ton ennemi comme mort.
@@ -203,7 +203,7 @@ Cela augure bien de la gloire de notre entreprise.
 Ce bras tuera le démon ; et elle.
 Mon épouse sera à nouveau libre.
 
-<span id="p429">[<sup><small>p. 429</small></sup>]</span>
+<span id="p429"><sup><small>[ p. 429 ]</small></sup></span>
 
 Mon œil palpitant vers le haut préfigure
 Le triomphe tant attendu sur mes ennemis.
@@ -315,7 +315,7 @@ L'étoile polaire et les Sept Saints [^914]
 Brille de mille feux dans le ciel du nord,
 Et le grand Tris'anku, [^915] roi glorieux,
 
-<span id="p430">[<sup><small>p. 430</small></sup>]</span>
+<span id="p430"><sup><small>[ p. 430 ]</small></sup></span>
 
 Le fils d'Ikshváku dont nous sommes issus,
 Des rayons dans une gloire sans nuages ​​à proximité
@@ -424,7 +424,7 @@ Que sa jeune vie s'est déroulée dans le malheur.
 Respire, doux vent, ô respire là où elle
 Reste prisonnier, et puis souffle sur moi,
 
-<span id="p431">[<sup><small>p. 431</small></sup>]</span>
+<span id="p431"><sup><small>[ p. 431 ]</small></sup></span>
 
 Et, même si je ne peux pas rencontrer mon amour,
 Ton baiser sera divinement doux.
@@ -541,7 +541,7 @@ Les Dieux-Serpents prirent d'assaut leur forteresse ;
 J'ai escaladé le mont Kailása et je l'ai renversé
 Kuvera [^920] et son équipage Yaksha,
 
-<span id="p432">[<sup><small>p. 432</small></sup>]</span>
+<span id="p432"><sup><small>[ p. 432 ]</small></sup></span>
 
 L'ami hautain et convaincant de S'iva
 Sous un bras plus puissant pour se plier ?
@@ -655,7 +655,7 @@ Empêtrés dans le filet que nous tissons,
 La pénalité qu'ils doivent tous deux payer,
 Et ils perdent leur vie aujourd'hui.
 
-<span id="p433">[<sup><small>p. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 Puis avec son âme de guerrier en feu,
 Nikumbha parla avec une colère brûlante :
@@ -759,7 +759,7 @@ La principale gloire de l'île des géants :
 Ainsi, avant que son parcours ardent ne soit terminé,
 Un nuage d'automne laisse entrer le soleil.
 
-<span id="p434">[<sup><small>p. 434</small></sup>]</span>
+<span id="p434"><sup><small>[ p. 434 ]</small></sup></span>
 
 Il entendit des voix propices s'élever
 Avec un accord fort, la note de louange,

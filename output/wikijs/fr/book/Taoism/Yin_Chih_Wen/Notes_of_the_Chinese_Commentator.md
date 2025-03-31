@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:52Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 <a name="xref_CC1"></a>
 
@@ -70,7 +70,7 @@ La famille Tou a sauvé des gens et a ainsi noblement obtenu l'olea à cinq bran
 
 Tou Yü-Chün n'avait pas encore eu de fils à trente ans. Une nuit, son grand-père lui apparut en rêve et lui dit : « Tu n'auras peut-être pas de descendance, ni ne vivras longtemps, si tu ne fais pas preuve de diligence dans tes œuvres de bienfaisance. »
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 Yü-Chün était un homme aisé et pouvait se permettre de nombreuses actions charitables. Un de ses serviteurs lui déroba une somme considérable. Lorsque le fait fut révélé, le coupable prit la fuite, laissant sa fille de treize ans, à qui était attachée une note sur laquelle était écrit : « Je mets cette fille et ma maison en vente. Avec l'argent ainsi récupéré, je souhaite payer ma dette. »
 
@@ -94,7 +94,7 @@ Sung Chiao et Sung Ch'i (XIe siècle apr. J.-C.) étaient frères. Alors qu'ils 
 
 Dix ans plus tard, le vieux Sung rencontra à nouveau le moine sur la route. Le moine, stupéfait, s'exclama : « Votre destin a soudainement changé. On dirait que vous avez sauvé des millions de vies. » Sung dit en riant : « Comment ai-je pu, moi, un pauvre disciple de Confucius, accomplir un tel exploit ? » « Oui », répondit le moine. « Même les créatures les plus humbles profitent de la vie, vous savez. » Après un bref moment de réflexion, Sung dit : « Je me souviens qu'il y a une dizaine de jours, j'ai trouvé une fourmilière sous mon porche, menacée d'inondation. J'ai pris quelques bambous et j'ai construit un pont au-dessus de l'eau pour permettre aux pauvres fourmis de la traverser. Serait-ce cela ? » « Exactement », répondit le moine, « le jeune Sung est maintenant en tête, mais vous ne le suivrez pas. »
 
-Lors de la proclamation de l'ordre des diplômés littéraires, <span id="p30">[<sup><small>p. 30</small></sup>]</span> le cadet Sung fut désigné premier et l'aîné Sung second. Mais l'impératrice Chang Hsien décréta que le cadet ne devait pas précéder l'aîné, et Sung Chiao fut placé en tête de la liste.
+Lors de la proclamation de l'ordre des diplômés littéraires, <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> le cadet Sung fut désigné premier et l'aîné Sung second. Mais l'impératrice Chang Hsien décréta que le cadet ne devait pas précéder l'aîné, et Sung Chiao fut placé en tête de la liste.
 
 <a name="xref_CC6"></a>
 
@@ -106,7 +106,7 @@ Shun Shu-Ao, de l'État de Chu, sortait souvent lorsqu'il était enfant. Un jour
 
 Quand Shun était un homme, il a été nommé ministre d’État.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 <a name="xref_CC7"></a>
 
@@ -120,7 +120,7 @@ La différence entre des sages comme Yao et Shun et des misérables comme Chieh 
 
 L'âme d'un véritable gentleman [^8] a ses racines dans ce recoin obscur, qu'il examine et purifie dans un silence solennel et en privé. Simplement ceci, un cœur pour sauver le monde ; pas une once de cœur pour la mondanité. Simplement ceci, un cœur pour aimer l'humanité ; pas une once de cœur pour haïr les gens. Simplement ceci, un cœur pour avoir du respect pour autrui ; pas une once de cœur pour prendre le monde à la légère. Simplement ceci, un cœur pour promouvoir sincèrement sa conversion ; pas une once de cœur pour s'illusionner soi-même. Telle est la voie de la purification personnelle et le fondement sûr de la félicité.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 <a name="xref_CC8"></a>
 
@@ -136,7 +136,7 @@ Li Kwang-Yüen, éminent chercheur de vérité, fut un jour averti par un étran
 
 ## 9\. LA MALADIE DE L'ÉGOTISME.
 
-Mère Cheng avait l'habitude d'instruire ses enfants à cet effet : « Lorsque les autres font du bien, accomplissez-le comme si c'était votre œuvre et assurez-vous de la mener à bien. Traitez <span id="p33">[<sup><small>p. 33</small></sup>]</span> les biens des autres comme s'ils étaient les vôtres, afin d'en faire un usage réfléchi. »
+Mère Cheng avait l'habitude d'instruire ses enfants à cet effet : « Lorsque les autres font du bien, accomplissez-le comme si c'était votre œuvre et assurez-vous de la mener à bien. Traitez <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> les biens des autres comme s'ils étaient les vôtres, afin d'en faire un usage réfléchi. »
 
 Hsieh Wen-Ching dit : « Si un homme a mille problèmes, c'est parce qu'il s'accroche à l'idée de soi. C'est pourquoi il complote et manigance de mille façons différentes. Lui seul veut être riche, lui seul veut être honoré, lui seul veut vivre dans l'aisance, lui seul veut être heureux, lui seul veut profiter de la vie, lui seul veut être béni par la longévité ; et la pauvreté, la misère, le danger ou la souffrance des autres lui sont totalement indifférents. C'est pour cette raison que la volonté de vie [^11] des autres est ignorée et que la Raison céleste est négligée. Guérissez seulement de la maladie de l'égoïsme, et votre cœur s'élargira jusqu'à l'immensité de l'espace infini, de sorte que la richesse, l'honneur, le bonheur, le confort, la santé et la longévité pourront tous être appréciés avec les autres. Alors, la volonté de vivre obtiendra son accomplissement, tous les désirs naturels seront satisfaits, et la Raison céleste se manifestera dans une exubérance indicible. »
 
@@ -146,7 +146,7 @@ Hsieh Wen-Ching dit : « Si un homme a mille problèmes, c'est parce qu'il s'acc
 
 La piété filiale guide toutes les actions. Elle est la racine ultime de l'humanité ; et est-il possible que cette racine pourrisse tandis que les branches et les feuilles poussent avec luxuriance ?
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Yao-Jao Hou dit : « Les quatre éléments essentiels de la piété filiale sont : (1) Être établi dans la vertu ; (2) Entretenir la famille ; (3) Garder le corps intact ; (4) Cultiver le caractère. »
 
@@ -176,7 +176,7 @@ La grande vertu du ciel et de la terre est de créer, et tous les êtres vivants
 
 Acheter des animaux captifs pour les libérer n'est qu'un élan de compassion. Les personnes irréfléchies méprisent des créatures chétives comme les fourmis, les araignées, etc., et les tuent sans raison, sans pitié ni remords ; mais les cœurs pieux s'abstiennent d'une telle cruauté.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 <a name="xref_CC14"></a>
 

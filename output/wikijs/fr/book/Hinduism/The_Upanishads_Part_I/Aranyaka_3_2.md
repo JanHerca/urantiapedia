@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 DEUXIÈME ADHYÂYA [^652].
 
@@ -48,7 +48,7 @@ DEUXIÈME ADHYÂYA [^652].
 
 5\. Celui qui connaît ainsi ce soi, qui consiste en la vue, l'ouïe, la métrique, l'esprit et la parole, comme semblable aux jours, obtient l'union, la ressemblance ou la proximité avec les jours, a des fils et du bétail, et vit son âge complet.
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 ## DEUXIÈME KHA<i>N</i><i>D</i>A.
 
@@ -71,7 +71,7 @@ DEUXIÈME ADHYÂYA [^652].
 9\. Celui qui connaît ce soi qui consiste en la vue, l'ouïe, la métrique, l'esprit et la parole, comme semblables aux syllabes, obtient l'union, la ressemblance ou la proximité avec les syllabes, a des fils et du bétail, et vit son âge complet.
 
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 ## TROISIÈME KHA<i>N</i><i>D</i>A.
 
@@ -93,7 +93,7 @@ DEUXIÈME ADHYÂYA [^652].
 
 9\. Ceci a également été déclaré par un Rishi (Rv. I, 115, 1) :
 
-10\. « Le visage lumineux des dieux s'éleva, l'œil de Mitra, de Varu<i>n</i>a et d'Agni ; il remplit le ciel et la terre <span id="p260">[<sup><small>p. 260</small></sup>]</span> et le ciel, — le soleil est le soi de tout ce qui repose et bouge. »
+10\. « Le visage lumineux des dieux s'éleva, l'œil de Mitra, de Varu<i>n</i>a et d'Agni ; il remplit le ciel et la terre <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> et le ciel, — le soleil est le soi de tout ce qui repose et bouge. »
 
 11\. « Je pense que c'est là le Samhitâ régulier tel que je l'ai conçu », dit ainsi Bâdhva.
 
@@ -113,7 +113,7 @@ DEUXIÈME ADHYÂYA [^652].
 
 4\. Ici, il est clairement dit qu'il n'a pas de chance dans ce qu'il a appris, et qu'il ne connaît pas le chemin de la vertu.
 
-5\. Que personne donc, sachant cela, ne donne le feu sacrificiel (appartenant au Mahâvrata) à un autre, qu'il ne chante pas les Sâmans du Mahâvrata <span id="p261">[<sup><small>p. 261</small></sup>]</span> à un autre, qu'il ne récite pas les Sastras de ce jour à un autre.
+5\. Que personne donc, sachant cela, ne donne le feu sacrificiel (appartenant au Mahâvrata) à un autre, qu'il ne chante pas les Sâmans du Mahâvrata <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> à un autre, qu'il ne récite pas les Sastras de ce jour à un autre.
 
 6\. Cependant, qu'il le fasse volontiers pour un père ou pour un Â<i>k</i>ârya ; car c'est en réalité pour lui-même qu'il le fait.
 
@@ -123,7 +123,7 @@ DEUXIÈME ADHYÂYA [^652].
 
 9\. Ensuite, quand le soleil est vu percé, et semble comme le moyeu d'une roue de charrette, quand il voit sa propre ombre percée, qu'il sache alors qu'il en est ainsi (comme dit précédemment, c'est-à-dire qu'il va bientôt mourir).
 
-10\. Ensuite, lorsqu'il se voit dans un miroir ou dans l'eau avec la tête tordue, ou sans tête [^665], ou lorsque ses pupilles sont vues inversées [^666] ou non droites, qu'il sache alors que c'est ainsi. <span id="p262">[<sup><small>p. 262</small></sup>]</span> 11\. Ensuite, qu'il se couvre les yeux et regarde, alors des fils apparaissent comme s'ils tombaient ensemble [^667]. Mais s'il ne les voit pas, qu'il sache alors que c'est ainsi.
+10\. Ensuite, lorsqu'il se voit dans un miroir ou dans l'eau avec la tête tordue, ou sans tête [^665], ou lorsque ses pupilles sont vues inversées [^666] ou non droites, qu'il sache alors que c'est ainsi. <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> 11\. Ensuite, qu'il se couvre les yeux et regarde, alors des fils apparaissent comme s'ils tombaient ensemble [^667]. Mais s'il ne les voit pas, qu'il sache alors que c'est ainsi.
 
 12\. Ensuite, qu'il se bouche les oreilles et écoute ; il entendra un bruit comme celui d'un feu brûlant ou d'un chariot [^668]. Mais s'il ne l'entend pas, qu'il sache alors que c'est ainsi.
 
@@ -159,7 +159,7 @@ Les consonnes muettes représentent l'expiration ascendante, les sifflantes l'ex
 
 3\. Vient ensuite ce luth divin (le corps humain, fabriqué par les dieux). Le luth fabriqué par l'homme en est une imitation.
 
-4\. Comme il y a une tête de ceci, ainsi il y a une tête de cela (luth, fabriqué par l'homme). Comme il y a un ventre <span id="p264">[<sup><small>p. 264</small></sup>]</span> de ceci, ainsi il y a la cavité [^676] (Dans la table) de cela. Comme il y a une langue de ceci, ainsi il y a une langue [^677] dans cela. Comme il y a des doigts de ceci, ainsi il y a des cordes de cela [^678]. Comme il y a des voyelles de ceci, ainsi il y a des tons de cela. Comme il y a des consonnes de ceci, ainsi il y a des touches de cela. Comme ceci est doté de son et fermement cordé, ainsi cela est doté de son et fermement cordé. Comme ceci est recouvert d'une peau velue, ainsi cela est recouvert d'une peau velue.
+4\. Comme il y a une tête de ceci, ainsi il y a une tête de cela (luth, fabriqué par l'homme). Comme il y a un ventre <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> de ceci, ainsi il y a la cavité [^676] (Dans la table) de cela. Comme il y a une langue de ceci, ainsi il y a une langue [^677] dans cela. Comme il y a des doigts de ceci, ainsi il y a des cordes de cela [^678]. Comme il y a des voyelles de ceci, ainsi il y a des tons de cela. Comme il y a des consonnes de ceci, ainsi il y a des touches de cela. Comme ceci est doté de son et fermement cordé, ainsi cela est doté de son et fermement cordé. Comme ceci est recouvert d'une peau velue, ainsi cela est recouvert d'une peau velue.
 
 5\. En vérité, autrefois, on couvrait un luth d'une peau velue.
 
@@ -171,7 +171,7 @@ Les consonnes muettes représentent l'expiration ascendante, les sifflantes l'ex
 
 ## SIXIÈME KHA<i>N</i><i>D</i>A.
 
-1\. Ensuite, K<i>ri</i>sh<i>n</i>a-Hârita [^679] confia à ce Brâhma<i>n</i>a [^680] concernant la parole qu'il lui (son élève) a prononcée : <span id="p265">[<sup><small>p. 265</small></sup>]</span> 2\. Pra<i>g</i>âpati, l'année, après avoir envoyé toutes les créatures, éclata. Il se reconstitua au moyen des <i>kh</i>andas (Védas). Parce qu'il se reconstitua au moyen des <i>kh</i>andas, c'est pourquoi (le texte du Véda) est appelé Sa<i>m</i>hitâ (reconstitué).
+1\. Ensuite, K<i>ri</i>sh<i>n</i>a-Hârita [^679] confia à ce Brâhma<i>n</i>a [^680] concernant la parole qu'il lui (son élève) a prononcée : <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> 2\. Pra<i>g</i>âpati, l'année, après avoir envoyé toutes les créatures, éclata. Il se reconstitua au moyen des <i>kh</i>andas (Védas). Parce qu'il se reconstitua au moyen des <i>kh</i>andas, c'est pourquoi (le texte du Véda) est appelé Sa<i>m</i>hitâ (reconstitué).
 
 3\. De ce Sa<i>m</i>hitâ, la lettre <i>n</i> est la force, la lettre sh le souffle et le soi (Âtman).
 
@@ -209,7 +209,7 @@ Ensuite, suivez quelques règles supplémentaires concernant la lecture du Véda
 
 19\. « Ceci (le Véda ainsi appris et étudié) est le nom de ce Grand Être ; et celui qui connaît ainsi le nom de ce Grand Être, il devient Brahman, oui, il devient Brahman. »
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span> p. 268
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span> p. 268
 
 <figure class="table chapter-navigator">
   <table>

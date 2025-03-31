@@ -60,7 +60,7 @@
 	"Page ID": {
 		"scope": "markdown",
 		"prefix": "pp",
-		"body": "<span id=\"p${1:number}\">[<sup><small>p. ${1:number}</small></sup>]</span>",
+		"body": "<span id=\"p${1:number}\"><sup><small>[ p. ${1:number} ]</small></sup></span>",
 		"description": "Page number"
 	},
 	"Figure": {

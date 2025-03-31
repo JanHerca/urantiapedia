@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 
 Les eaux claires du Nairanjana coulaient à travers une terre riche et fertile. De petits villages somnolaient à l'ombre d'arbres magnifiques, et de vastes prairies s'étendaient à perte de vue. Le héros pensa : « Comme c'est agréable ici ! Quel endroit propice à la méditation ! Peut-être trouverai-je ici le chemin de la sagesse. C'est ici que je résiderai. »
@@ -45,7 +45,7 @@ Maya, la mère du héros, vivait parmi les dieux. Elle entendait leurs cris et l
 
 Elle a dit :
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 « Quand tu es né dans le jardin, on m'a assuré, ô mon fils, que tu contemplerais la vérité. Et plus tard, Asita a prédit que tu libérerais le monde. Mais ces prédictions n'étaient que mensonges. Tu n'as acquis la gloire par aucune conquête royale, tu n'as pas atteint la connaissance suprême ! Tu es mort, pitoyablement et seul. Qui t'aidera, ô mon fils ? Qui te ramènera à la vie ? Pendant dix lunes, je t'ai porté dans mon ventre, ô mon joyau, et maintenant je ne peux que pleurer. »
 
@@ -61,7 +61,7 @@ Pourtant, la véritable connaissance ne lui parvenait pas. Il sentait qu'il s'af
 
 Il y avait un village appelé Uruvilva, près de l'endroit où Siddhartha passait de longues heures en méditation. Le chef du village avait dix filles. Elles vénéraient le héros et lui apportaient des céréales et des fruits en guise d'aumônes. Il touchait rarement à ces offrandes, mais un jour, les filles remarquèrent qu'il avait tout mangé. Le lendemain, elles arrivèrent avec un grand plat rempli de riz bouilli, qu'il vida. Le jour suivant, chacune apporta un mets différent, et le héros les mangea tous. Il commença à prendre du poids et, bientôt, il se rendit au village pour mendier sa nourriture. Les habitants rivalisèrent d'aumônes et, bientôt, il retrouva force et beauté.
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Mais les cinq disciples qui s'étaient joints à lui se dirent les uns aux autres :
 

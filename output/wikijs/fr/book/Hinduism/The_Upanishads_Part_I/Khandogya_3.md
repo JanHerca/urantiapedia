@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 TROISIÈME PRAPÂ<i>TH</i>AKA.
 
@@ -46,7 +46,7 @@ TROISIÈME PRAPÂ<i>TH</i>AKA.
 
 4\. Cette essence s'est répandue et s'est dirigée vers le soleil [^162]. Et cela forme ce que nous appelons la lumière rouge (rohita) du soleil levant.
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 ## DEUXIÈME KHA<i>N</i><i>D</i>A.
 
@@ -66,7 +66,7 @@ TROISIÈME PRAPÂ<i>TH</i>AKA.
 
 ## QUATRIÈME KHA<i>N</i><i>D</i>A.
 
-1\. Les rayons du soleil du nord sont les cellules de miel à gauche. Les (hymnes des) Atharvâṅgiras sont les abeilles, l'Itihâsa-purâ<i>n</i>a [^163] (la lecture des anciennes histoires) est la fleur, l'eau est le nectar. <span id="p40">[<sup><small>p. 40</small></sup>]</span> 2\. Ces mêmes hymnes des Atharvâṅgiras (en tant qu'abeilles) couvaient l'Itihâsa-purâ<i>n</i>a ; et de lui, ainsi couvé, jaillissaient comme son essence (nectar), la renommée, la gloire du visage, la vigueur, la force et la santé.
+1\. Les rayons du soleil du nord sont les cellules de miel à gauche. Les (hymnes des) Atharvâṅgiras sont les abeilles, l'Itihâsa-purâ<i>n</i>a [^163] (la lecture des anciennes histoires) est la fleur, l'eau est le nectar. <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> 2\. Ces mêmes hymnes des Atharvâṅgiras (en tant qu'abeilles) couvaient l'Itihâsa-purâ<i>n</i>a ; et de lui, ainsi couvé, jaillissaient comme son essence (nectar), la renommée, la gloire du visage, la vigueur, la force et la santé.
 
 3\. Cela s'est répandu et est allé vers le soleil. Et cela forme ce que nous appelons la lumière extrêmement sombre (para<i>h</i> k<i>ri</i>sh<i>n</i>am) du soleil.
 
@@ -83,7 +83,7 @@ TROISIÈME PRAPÂ<i>TH</i>AKA.
 
 
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 ## SIXIÈME KHA<i>N</i><i>D</i>A.
 
@@ -123,7 +123,7 @@ TROISIÈME PRAPÂ<i>TH</i>AKA.
 
 3\. Celui qui connaît ainsi ce nectar devient l'un des Maruts, avec Soma à leur tête ; il voit le nectar et se réjouit. Et, ayant pénétré cette couleur, il s'élève à nouveau de cette couleur.
 
-4\. Tant que le soleil se lève à l'ouest et se couche <span id="p43">[<sup><small>p. 43</small></sup>]</span> à l'est, il se lève au nord et se couche au sud deux fois plus longtemps ; et il suit ainsi la suprématie souveraine des Maruts.
+4\. Tant que le soleil se lève à l'ouest et se couche <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> à l'est, il se lève au nord et se couche au sud deux fois plus longtemps ; et il suit ainsi la suprématie souveraine des Maruts.
 
 ## DIXIÈME KHA<i>N</i><i>D</i>A.
 
@@ -135,7 +135,7 @@ TROISIÈME PRAPÂ<i>TH</i>AKA.
 
 4\. Tant que le soleil se lève au nord et se couche au sud, il se lève en haut et se couche en bas deux fois plus longtemps ; et il suit le pouvoir souverain des Sâdhyas [^166].
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 ## ONZIÈME KHA<i>N</i><i>D</i>A.
 
@@ -153,7 +153,7 @@ Mais personne ne devrait le dire à quelqu'un d'autre, même s'il lui donnait to
 
 ## DOUZIÈME KHA<i>N</i><i>D</i>A.
 
-1\. Le Gâyatrî [^169] (verset) est tout ce qui existe ici. Gâyatrî est en effet la parole, car la parole <span id="p45">[<sup><small>p. 45</small></sup>]</span> chante (gâya-ti) et protège (trâya-te) tout ce qui existe ici.
+1\. Le Gâyatrî [^169] (verset) est tout ce qui existe ici. Gâyatrî est en effet la parole, car la parole <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> chante (gâya-ti) et protège (trâya-te) tout ce qui existe ici.
 
 2\. Que Gâyatrî est aussi la terre, car tout ce qui existe ici repose sur la terre, et ne va pas au-delà.
 
@@ -163,7 +163,7 @@ Mais personne ne devrait le dire à quelqu'un d'autre, même s'il lui donnait to
 
 5. Que Gâyatrî a quatre pieds [^171] et est sextuple [^172]. Et cela est également déclaré par un verset du Rig-Veda (Rig-Veda X, 90, 3) :
 
-6\. « Telle est sa grandeur (celle de Brahman, sous le déguisement de Gâyatrî [^173]) ; plus grande qu'elle est la Personne [^174] (purusha). Ses pieds sont toutes choses. L'immortel à trois pieds est au ciel (c'est-à-dire en lui-même). » <span id="p46">[<sup><small>p. 46</small></sup>]</span> 7\. Le Brahman qui a été ainsi décrit (comme immortel à trois pieds au ciel, et comme Gâyatrî) est le même que l'éther qui nous entoure ;
+6\. « Telle est sa grandeur (celle de Brahman, sous le déguisement de Gâyatrî [^173]) ; plus grande qu'elle est la Personne [^174] (purusha). Ses pieds sont toutes choses. L'immortel à trois pieds est au ciel (c'est-à-dire en lui-même). » <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> 7\. Le Brahman qui a été ainsi décrit (comme immortel à trois pieds au ciel, et comme Gâyatrî) est le même que l'éther qui nous entoure ;
 
 8\. Et l'éther qui nous entoure est le même que l'éther qui est en nous. Et l'éther qui est en nous,
 
@@ -177,7 +177,7 @@ Mais personne ne devrait le dire à quelqu'un d'autre, même s'il lui donnait to
 
 3. La porte occidentale est l'Apâna (le souffle descendant), c'est-à-dire la parole, c'est-à-dire Agni (le feu). Que l'homme médite sur cela comme sur la gloire du visage et la santé. Celui qui connaît cela devient glorieux et en bonne santé.
 
-4\. La porte nord est le Samâna (le souffle), c'est-à-dire l'esprit, c'est-à-dire Par<i>g</i>anya (la pluie). Que l'homme médite sur cela comme sur la célébrité et la beauté. <span id="p47">[<sup><small>p. 47</small></sup>]</span> Celui qui connaît cela devient célèbre et beau.
+4\. La porte nord est le Samâna (le souffle), c'est-à-dire l'esprit, c'est-à-dire Par<i>g</i>anya (la pluie). Que l'homme médite sur cela comme sur la célébrité et la beauté. <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> Celui qui connaît cela devient célèbre et beau.
 
 5. La porte supérieure est l'Udâna (expiration), c'est-à-dire l'air, c'est-à-dire l'éther. Que l'homme médite sur cela comme sur la force et la grandeur. Celui qui connaît cela devient fort et grand.
 
@@ -185,7 +185,7 @@ Mais personne ne devrait le dire à quelqu'un d'autre, même s'il lui donnait to
 
 7\. Or, cette lumière qui brille au-dessus de ce ciel, plus haut que tout, au-dessus de tout, dans le monde le plus élevé, au-delà duquel il n'y a pas d'autres mondes, c'est la même lumière qui est dans l'homme. Et nous en avons cette preuve visible [^176] :
 
-8\. C'est-à-dire, lorsque nous percevons ainsi par le toucher la chaleur présente dans le corps [^177]. Et nous en avons cette preuve audible : lorsque, après nous être bouché les oreilles, nous écoutons ce qui ressemble au roulement d'une voiture, au mugissement d'un bœuf ou au bruit d'un feu brûlant [^178] (dans les oreilles). Que l'homme médite sur cela comme sur le (Brahman) qui est vu et entendu. <span id="p48">[<sup><small>p. 48</small></sup>]</span> Celui qui sait cela devient remarquable et célèbre, oui, il devient célèbre.
+8\. C'est-à-dire, lorsque nous percevons ainsi par le toucher la chaleur présente dans le corps [^177]. Et nous en avons cette preuve audible : lorsque, après nous être bouché les oreilles, nous écoutons ce qui ressemble au roulement d'une voiture, au mugissement d'un bœuf ou au bruit d'un feu brûlant [^178] (dans les oreilles). Que l'homme médite sur cela comme sur le (Brahman) qui est vu et entendu. <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> Celui qui sait cela devient remarquable et célèbre, oui, il devient célèbre.
 
 ## QUATORZIÈME KHA<i>N</i><i>D</i>A.
 
@@ -199,7 +199,7 @@ Or, l'homme est une créature dotée de volonté. Tel qu'il est dans ce monde, t
 
 4\. Celui de qui proviennent toutes les œuvres, tous les désirs, toutes les odeurs et tous les goûts, qui embrasse tout cela, qui ne parle jamais et qui n'est jamais surpris, lui, mon soi dans le cœur, est ce Brahman (n.). Quand je serai parti d'ici, je l'obtiendrai (ce Soi). Celui qui a cette foi [^180] n'a aucun doute ; ainsi a dit <i>S</i>â<i>n</i><i>d</i>ilya [^181], oui, ainsi a-t-il dit.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 ## QUINZIÈME KHA<i>N</i><i>D</i>A [^182].
 
@@ -211,7 +211,7 @@ Or, l'homme est une créature dotée de volonté. Tel qu'il est dans ce monde, t
 
 4\. « Quand je dis que je me tourne vers Prâna, alors Prâna signifie tout ce qui existe ici – vers cela je me tourne. »
 
-5\. « Quand j'ai dit, je me tourne vers Bhû<i>h</i>, ce que j'ai dit est, je me tourne vers la terre, le ciel et le paradis. » <span id="p50">[<sup><small>p. 50</small></sup>]</span> 6\. « Quand j'ai dit, je me tourne vers Bhuva<i>h</i>, ce que j'ai dit est, je me tourne vers Agni (le feu), Vâyu (l'air), Âditya (le soleil). »
+5\. « Quand j'ai dit, je me tourne vers Bhû<i>h</i>, ce que j'ai dit est, je me tourne vers la terre, le ciel et le paradis. » <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> 6\. « Quand j'ai dit, je me tourne vers Bhuva<i>h</i>, ce que j'ai dit est, je me tourne vers Agni (le feu), Vâyu (l'air), Âditya (le soleil). »
 
 7\. « Quand j'ai dit : « Je me tourne vers le Sva<i>h</i> », j'ai dit : « Je me tourne vers le <i>Ri</i><i>g</i>-veda, le Ya<i>g</i>ur-veda et le Sâma-veda. » C'est ce que j'ai dit, oui, c'est ce que j'ai dit. »
 
@@ -225,7 +225,7 @@ Or, l'homme est une créature dotée de volonté. Tel qu'il est dans ce monde, t
 
 4\. Si quelque chose le ronge dans ce (deuxième) âge, qu'il dise : « Prânas, Rudras, prolongez ma libation de midi jusqu'à la troisième, afin que moi, le sacrificateur, je ne périsse pas au milieu des Prânas ou des Rudras. » Ainsi, il se remet de sa maladie et devient guéri.
 
-5\. Les quarante-huit années suivantes constituent la troisième <span id="p51">[<sup><small>p. 51</small></sup>]</span> libation. La <i>G</i>agatî comporte quarante-huit syllabes, la troisième libation est offerte avec des hymnes <i>G</i>agatî. Les Âdityas sont liés à cette partie. Les Prâ<i>n</i>as sont les Âdityas, car ils reprennent tout cela (âdadate).
+5\. Les quarante-huit années suivantes constituent la troisième <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> libation. La <i>G</i>agatî comporte quarante-huit syllabes, la troisième libation est offerte avec des hymnes <i>G</i>agatî. Les Âdityas sont liés à cette partie. Les Prâ<i>n</i>as sont les Âdityas, car ils reprennent tout cela (âdadate).
 
 6\. Si quelque chose le ronge dans ce (troisième) âge, qu'il dise : « Prânas, Âdityas, prolongez cette troisième libation jusqu'à l'âge accompli, afin que moi, le sacrificateur, je ne périsse pas au milieu des Prânas ou des Âdityas. » Ainsi, il se remet de sa maladie et devient entier.
 
@@ -241,9 +241,9 @@ Or, l'homme est une créature dotée de volonté. Tel qu'il est dans ce monde, t
 
 4\. La pénitence, la libéralité, la droiture, la bonté, la véracité, tout cela constitue ses Dakshi<i>n</i>âs (dons accordés aux prêtres, etc.)
 
-5\. Par conséquent, lorsqu'ils disent : « Il y aura une <span id="p52">[<sup><small>p. 52</small></sup>]</span> naissance » et « il y a eu une naissance » (termes utilisés lors du sacrifice du Soma et signifiant en réalité « Il versera le jus du Soma » et « il a versé le jus du Soma »), c'est sa nouvelle naissance. Sa mort est la cérémonie d'Avabh<i>ri</i>tha (lorsque les vases sacrificiels sont emportés pour être purifiés).
+5\. Par conséquent, lorsqu'ils disent : « Il y aura une <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> naissance » et « il y a eu une naissance » (termes utilisés lors du sacrifice du Soma et signifiant en réalité « Il versera le jus du Soma » et « il a versé le jus du Soma »), c'est sa nouvelle naissance. Sa mort est la cérémonie d'Avabh<i>ri</i>tha (lorsque les vases sacrificiels sont emportés pour être purifiés).
 
-6\. Ghora Âṅgirasa, après avoir communiqué ceci (la vision du sacrifice) à K<i>ri</i>sh<i>n</i>a, le fils de Devăkî [^187]\—et il n'eut plus jamais soif (après d'autres connaissances)—dit : « Qu'un homme, lorsque sa fin approche, <span id="p53">[<sup><small>p. 53</small></sup>]</span> se réfugie dans cette Triade [^188] : « Tu es l'impérissable », « Tu es l'immuable », « Tu es le bord de Prâ<i>n</i>a. » » À ce sujet, il y a deux versets du <i>Ri</i><i>k</i> (Rig-veda VIII, 6, 30) :
+6\. Ghora Âṅgirasa, après avoir communiqué ceci (la vision du sacrifice) à K<i>ri</i>sh<i>n</i>a, le fils de Devăkî [^187]\—et il n'eut plus jamais soif (après d'autres connaissances)—dit : « Qu'un homme, lorsque sa fin approche, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> se réfugie dans cette Triade [^188] : « Tu es l'impérissable », « Tu es l'immuable », « Tu es le bord de Prâ<i>n</i>a. » » À ce sujet, il y a deux versets du <i>Ri</i><i>k</i> (Rig-veda VIII, 6, 30) :
 
 7\. « Alors ils voient (en eux-mêmes) la lumière toujours présente de l'ancienne semence (du monde, le Sat), la plus élevée, qui est illuminée dans le brillant (Brahman). » Rig-veda I, 50, 10 :
 
@@ -253,7 +253,7 @@ Or, l'homme est une créature dotée de volonté. Tel qu'il est dans ce monde, t
 
 1. Que l'homme médite sur l'esprit en tant que Brahman (n.), ceci se rapporte au corps. Que l'homme médite sur l'éther en tant que Brahman (n.), ceci se rapporte aux Dévas. Ainsi, la méditation relative au corps et celle relative aux Dévas ont été enseignées.
 
-2. Ce Brahman (l'esprit) a quatre pieds (quartiers). <span id="p54">[<sup><small>p. 54</small></sup>]</span> La parole a un pied, le souffle a un pied, l'œil a un pied, la voiture a un pied – autant en ce qui concerne le corps. Ensuite, en ce qui concerne les dieux, Agni (le feu) a un pied, Vâyu (l'air) a un pied, Âditya (le soleil) a un pied, les quarts ont un pied. Ainsi, le culte qui se rapporte au corps et celui qui se rapporte aux Devas ont été enseignés.
+2. Ce Brahman (l'esprit) a quatre pieds (quartiers). <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> La parole a un pied, le souffle a un pied, l'œil a un pied, la voiture a un pied – autant en ce qui concerne le corps. Ensuite, en ce qui concerne les dieux, Agni (le feu) a un pied, Vâyu (l'air) a un pied, Âditya (le soleil) a un pied, les quarts ont un pied. Ainsi, le culte qui se rapporte au corps et celui qui se rapporte aux Devas ont été enseignés.
 
 3\. La parole est en effet le quatrième pied de Brahman. Ce pied brille d'Agni (le feu) comme lumière et réchauffe. Celui qui connaît cela rayonne et réchauffe par sa célébrité, sa renommée et la gloire de son visage.
 
@@ -267,7 +267,7 @@ Or, l'homme est une créature dotée de volonté. Tel qu'il est dans ce monde, t
 
 1\. Âditya (le soleil [^191]) est Brahman, voici la doctrine, et voici son explication plus complète :
 
-Au commencement, cela n'existait pas [^192]. Cela devint <span id="p55">[<sup><small>p. 55</small></sup>]</span> existant, cela grandit. Cela se transforma en œuf [^193]. L'œuf pondit pendant une année. L'œuf se brisa. Les deux moitiés étaient, l'une en argent, l'autre en or.
+Au commencement, cela n'existait pas [^192]. Cela devint <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> existant, cela grandit. Cela se transforma en œuf [^193]. L'œuf pondit pendant une année. L'œuf se brisa. Les deux moitiés étaient, l'une en argent, l'autre en or.
 
 2\. L'argent devint cette terre, l'or le ciel, l'épaisse membrane (du blanc) les montagnes, la fine membrane (du joug) la brume avec les nuages, les petites veines les rivières, le fluide la mer.
 

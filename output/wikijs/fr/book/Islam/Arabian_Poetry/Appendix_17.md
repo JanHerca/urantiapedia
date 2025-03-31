@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 vv. 1-7. Les anciens poètes arabes de l'époque païenne commençaient généralement leurs églogues par une sorte d'adresse amoureuse à une maîtresse réelle ou imaginaire. Cette pratique était désapprouvée par l'Islam, et El-Būsīrī, dans ses sept premiers couplets, présente un ami qui le réprimande d'être amoureux et de tenter de cacher le fait.
 
-<span id="p463">[<sup><small>p. 463</small></sup>]</span>
+<span id="p463"><sup><small>[ p. 463 ]</small></sup></span>
 
 vv. 8-11. Dans les quatre versets suivants, le poète reconnaît sa passion secrète et l'inutilité de ses tentatives pour en supprimer la manifestation.
 
@@ -42,7 +42,7 @@ vv. 12-28. Dans ces versets, le poète déplore les défauts de sa vie. L’« e
 
 v. 29. C'est par ce vers que le poète commence son énumération des vertus de Mahomet, qu'il aurait dû chercher à imiter dans ses dévotions nocturnes et (v. 30) ses longs jeûnes. C'est une habitude chez ceux qui jeûnent longtemps en Orient de lier de grosses pierres rondes entre leurs ceintures et le creux de leur ventre et de leurs flancs, afin de calmer les rongements de la faim.
 
-<span id="p464">[<sup><small>p. 464</small></sup>]</span>
+<span id="p464"><sup><small>[ p. 464 ]</small></sup></span>
 
 v. 31-58. Au v. 31, le poète commence à réciter les miracles traditionnels du Prophète : comment, lorsqu'avant sa mission, il se retirait dans les montagnes autour de La Mecque pour méditer et prier, ces montagnes trouvaient des voix et l'incitaient à renoncer à son saint dessein, en lui révélant où se trouvait de l'or dans leurs recoins, ce qui l'élèverait au-dessus de tous ses concitoyens en richesse et en influence ; le v. 33 récite l'idée prégnante, qui ne se trouve pas dans le Coran, que toute la création matérielle a été tirée du néant par Dieu, simplement pour manifester l'amour divin envers la première des choses créées, la lumière de l'esprit de Mahomet. Le verset 35 commence la liste des titres du Prophète, tels qu'ils sont célébrés dans tout le monde musulman. « Le Bien-aimé de Dieu » (_habību 'llāh_) est son style le plus élevé, le plus sacré et le plus spécial ; comme Adam est appelé « l'Élu de Dieu » ; Noé, « le sauvé de Dieu », Abraham, « l'ami de Dieu », Moïse, « l'interlocuteur de Dieu » et Jésus, « l'Esprit de Dieu », ainsi que « la Parole de Dieu ». Mahomet est considéré comme un prophète pour les démons ainsi que pour toute l'humanité. Au v. 39, on fait allusion à la science illimitée qui lui aurait été communiquée directement par Dieu lorsqu'il fut admis en la présence divine, seule de toutes les créatures, à l'occasion de son célèbre « voyage nocturne ». Ces éloges continuent dans des passages spéciaux jusqu'au v. 58, qui mentionne la sainteté du tombeau du Prophète à Médine (et non à La Mecque, comme on le suppose généralement), et la bénédiction du pèlerin qui le visite avec révérence.
 

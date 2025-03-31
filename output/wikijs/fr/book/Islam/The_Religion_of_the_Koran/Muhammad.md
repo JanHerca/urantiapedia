@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Chapitre III, Verset 136. — Muhammad n’est qu’un apôtre ; les apôtres ont disparu avant lui. Et s’il meurt ou est tué, reculerez-vous sur vos talons ? Celui qui recule sur ses talons ne fait aucun mal à Dieu ; mais Dieu récompensera les reconnaissants. Il n’appartient à aucune âme de mourir, sauf par la permission de Dieu, écrite pour un temps déterminé. Mais celui qui désire la récompense de ce monde, Nous lui en donnerons une partie, et celui qui désire la récompense de l’avenir, Nous lui en donnerons une partie, et Nous récompenserons les reconnaissants.
 
@@ -56,7 +56,7 @@ Nous avons donc éprouvé les uns par les autres, pour qu'ils disent : Sont-ce l
 
 Et quand ceux qui croient à Nos signes viennent à toi, dis : « Que la paix soit sur vous ! Dieu s'est prescrit une miséricorde. Quiconque parmi vous fait le mal par ignorance, puis se repent et fait le bien, certes, Il est Pardonneur et Miséricordieux.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 (55).—Ainsi nous détaillons nos signes, afin que la voie des pécheurs soit claire.
 

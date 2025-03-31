@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 ## ADHYÂYA III, KHA<i>ND</i>A 1.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. Avec (le vers), « Maison par maison, celui qui brille » (Rig-veda I, 123, 4) (il prend) le parasol,
 
-10\. Avec (le verset), « Lève-toi » (Rig-veda X, 18, 6), les chaussures, <span id="p92">[<sup><small>p. 92</small></sup>]</span>
+10\. Avec (le verset), « Lève-toi » (Rig-veda X, 18, 6), les chaussures, <span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 11\. Avec (le verset) « Que ton crochet soit long » (Rig-veda VIII, 17, 10), il prend un bâton de bambou.
 
@@ -96,7 +96,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 ## CHAPITRE 3.
 
@@ -116,7 +116,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. Ceux du nord avec (les mots), « Le Brahman et le Kshatra !
 
-7\. [^208]. « La fortune est le pinacle, la loi le poste principal ! » <span id="p95">[<sup><small>p. 95</small></sup>]</span>
+7\. [^208]. « La fortune est le pinacle, la loi le poste principal ! » <span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 8\. 'Jour et nuit les deux montants de la porte !'
 
@@ -140,7 +140,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. Du B<i>ri</i>hat dans l'après-midi ;
 
-8\. Les quatre Mahâvyâh<i>ri</i>tis, les trois versets, 'Vâstoshpati!' (Rig-veda VII, 54, 1-3), (les versets individuels), 'Chasser la calamité', (et) 'Vâstoshpati, <span id="p96">[<sup><small>p. 96</small></sup>]</span> un poteau ferme' (Rig-veda VII, 55, 1; VIII, 17, 14), et à (Agni) Svish<i>ri</i>ak<i>ri</i>ta dixième oblation de nourriture cuite le soir.
+8\. Les quatre Mahâvyâh<i>ri</i>tis, les trois versets, 'Vâstoshpati!' (Rig-veda VII, 54, 1-3), (les versets individuels), 'Chasser la calamité', (et) 'Vâstoshpati, <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> un poteau ferme' (Rig-veda VII, 55, 1; VIII, 17, 14), et à (Agni) Svish<i>ri</i>ak<i>ri</i>ta dixième oblation de nourriture cuite le soir.
 
 9\. Prenant avec lui son fils aîné et sa femme, portant du blé, qu'il entre (dans la maison avec les paroles),
 
@@ -156,7 +156,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 6.
 
@@ -184,7 +184,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. Qu'il prononce des paroles de bon augure.
 
-5\. [^214]. En acceptant l'eau pour se laver les pieds, il dit : « Tu es le lait de Virâ<i>g</i> ; puis-je obtenir <span id="p98">[<sup><small>p. 98</small></sup>]</span> le lait de Virâ_g_ ; en moi (que) le lait de Padyâ Virâ<i>g</i> (habite) ! »
+5\. [^214]. En acceptant l'eau pour se laver les pieds, il dit : « Tu es le lait de Virâ<i>g</i> ; puis-je obtenir <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> le lait de Virâ_g_ ; en moi (que) le lait de Padyâ Virâ<i>g</i> (habite) ! »
 
 ## CHAPITRE 8.
 
@@ -194,7 +194,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. [^216]. Il en mange trois fois, l'aspergeant d'eau, avec (le verset) : « Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture, puissions-nous vous obtenir. Ainsi, entre en nous, ô potion, qui apporte le rafraîchissement ; sois un sauveur pour nous, pour les hommes et les animaux ! »
 
-4\. Avec (le verset) : « C'est toi, souffle ; en vérité, je dis cela ; de toutes parts tu es entré (dans tous les êtres). Toi qui chasses la vieillesse et la maladie de mon corps, sois chez moi. Ne nous abandonne pas, Indra ! » — il touche le cœur ; <span id="p99">[<sup><small>p. 99</small></sup>]</span>
+4\. Avec (le verset) : « C'est toi, souffle ; en vérité, je dis cela ; de toutes parts tu es entré (dans tous les êtres). Toi qui chasses la vieillesse et la maladie de mon corps, sois chez moi. Ne nous abandonne pas, Indra ! » — il touche le cœur ; <span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 5\. Avec (les mots) : « Tu es le nombril ; n'aie pas peur ; tu es le nœud des pouvoirs respiratoires ; ne te desserre pas », (il touche) le nombril ;
 
@@ -218,7 +218,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## SECTION<i>10.
 
-1\. La nouvelle lune qui suit la pleine lune de Phâlguna <span id="p100">[<sup><small>p. 100</small></sup>]</span> tombe sous (le Nakshatra) Revatî : ce jour-là (de la nouvelle lune), il fera faire les marques (sur son bétail),
+1\. La nouvelle lune qui suit la pleine lune de Phâlguna <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> tombe sous (le Nakshatra) Revatî : ce jour-là (de la nouvelle lune), il fera faire les marques (sur son bétail),
 
 2\. [^218]. Avec (ces mots) : « Tu es le monde, mille fois prospère. Que l'effort (?) te donne à Indra. Tu es inviolable, indemne, sève, nourriture, protection. Pour autant de (vaches) je ferai cela maintenant, pour davantage (que celles-ci) je le ferai l'année prochaine. »
 
@@ -234,7 +234,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. Il sacrifie, après avoir allumé au milieu des vaches un feu bien allumé, Â_g_ya oblations (avec les mots),
 
-4\. Ici est le délice ; prenez ici plaisir. Svâhâ ! <span id="p101">[<sup><small>p. 101</small></sup>]</span> Ici est l'immobilité ; ici est (votre) propre immobilité. Svâhâ !
+4\. Ici est le délice ; prenez ici plaisir. Svâhâ ! <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> Ici est l'immobilité ; ici est (votre) propre immobilité. Svâhâ !
 
 « J'ai laissé le veau rejoindre sa mère. Puisse le veau, tétant le sein de sa mère, favoriser l'accroissement de la richesse parmi nous. Svâhâ ! »
 
@@ -264,7 +264,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## SECTION<i>12.
 
@@ -289,7 +289,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. Ou (il le fera) avec le verset : « Porte l'épiploon, Gâtavedas, aux Mânes, là où tu les connais dans le monde de la vertu. Que des flots de graisse coulent vers eux ; que les souhaits du sacrificateur soient exaucés. Svâhâ ! »
 
-4\. (Suivent ensuite) les quatre Mahâvyâh<i>ri</i>tis (et) les quatre (verset) « Ceux qui ont soif » (voir Sûtra 2) : (ainsi est offerte) une oblation octuple de nourriture cuite, avec les portions coupées. <span id="p104">[<sup><small>p. 104</small></sup>]</span>
+4\. (Suivent ensuite) les quatre Mahâvyâh<i>ri</i>tis (et) les quatre (verset) « Ceux qui ont soif » (voir Sûtra 2) : (ainsi est offerte) une oblation octuple de nourriture cuite, avec les portions coupées. <span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 5 [^226]. Ou : « Les montagnes sont interposées ; la vaste terre est interposée pour moi. Avec le ciel et tous les points de l'horizon, j'interpose un autre à la place du père. À NN svâhâ !
 
@@ -308,7 +308,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. Lors du dernier (Ash<i>t</i>akâ), il sacrifie des gâteaux,
 
-2\. Avec les mots « L'Ukthya et l'Atirâtra. » le Sadya<i>h</i>krî avec le mètre — Ash<i>h</i>akâ ! <span id="p105">[<sup><small>p. 105</small></sup>]</span> Préparateur de gâteaux ! Adoration à toi, ô toi au visage joyeux. Svâhâ !
+2\. Avec les mots « L'Ukthya et l'Atirâtra. » le Sadya<i>h</i>krî avec le mètre — Ash<i>h</i>akâ ! <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> Préparateur de gâteaux ! Adoration à toi, ô toi au visage joyeux. Svâhâ !
 
 3\. [^228]. Une vache ou une chèvre est l'animal (à sacrifier), ou un plat de nourriture cuite (à offrir).
 

@@ -34,17 +34,17 @@ dateCreated: 2025-2-12T22:30:58Z
 
 LA VIE DE GURU NANAK. CHAPITRE IV
 
-Après un court séjour chez les saints hommes qu'il fréquentait récemment, le gourou, accompagné de Mardana, se rendit à Saiyidpur, l'actuelle ville d'Eminabad, dans le district de Gujranwala, au Panjab. Nanak et son compagnon trouvèrent refuge chez Lalo, un charpentier. Lorsque le dîner fut prêt, Lalo informa le gourou et lui demanda de le manger dans les règles sacrées[^1]. Le gourou dit : « La terre entière est ma règle sacrée, et celui qui aime la vérité est pur. C'est pourquoi, ôte le doute de ton esprit. » Sur ce, Lalo servit le dîner, et le gourou le mangea là où il était assis. Deux jours plus tard, le gourou souhaita partir, mais Lalo le persuada de prolonger son séjour. Le gourou y consentit, mais il se trouva bientôt en butte aux gémonies car, fils d'une Khatri, il résidait chez une Sudar. Au bout de quinze jours, Malik Bhago, intendant des Pathans propriétaires de Saiyidpur, donna un grand festin auquel étaient conviés les hindous des quatre castes. Un brahmane alla dire au gourou que, puisque les quatre castes avaient été invitées, il devait lui aussi profiter des bienfaits de Malik Bhago. Le gourou répondit : « Je n'appartiens à aucune des quatre castes ; pourquoi suis-je invité ? » Le brahmane répliqua : « C'est pour cette raison que l'on te traite d'hérétique. Malik Bhago sera mécontent de ton refus d'hospitalité. » Sur ce, le brahmane s'en alla et <span id="p44">[<sup><small>p. 44</small></sup>]</span> Malik Bhago nourrit ses invités, mais le gourou n'était pas parmi eux.
+Après un court séjour chez les saints hommes qu'il fréquentait récemment, le gourou, accompagné de Mardana, se rendit à Saiyidpur, l'actuelle ville d'Eminabad, dans le district de Gujranwala, au Panjab. Nanak et son compagnon trouvèrent refuge chez Lalo, un charpentier. Lorsque le dîner fut prêt, Lalo informa le gourou et lui demanda de le manger dans les règles sacrées[^1]. Le gourou dit : « La terre entière est ma règle sacrée, et celui qui aime la vérité est pur. C'est pourquoi, ôte le doute de ton esprit. » Sur ce, Lalo servit le dîner, et le gourou le mangea là où il était assis. Deux jours plus tard, le gourou souhaita partir, mais Lalo le persuada de prolonger son séjour. Le gourou y consentit, mais il se trouva bientôt en butte aux gémonies car, fils d'une Khatri, il résidait chez une Sudar. Au bout de quinze jours, Malik Bhago, intendant des Pathans propriétaires de Saiyidpur, donna un grand festin auquel étaient conviés les hindous des quatre castes. Un brahmane alla dire au gourou que, puisque les quatre castes avaient été invitées, il devait lui aussi profiter des bienfaits de Malik Bhago. Le gourou répondit : « Je n'appartiens à aucune des quatre castes ; pourquoi suis-je invité ? » Le brahmane répliqua : « C'est pour cette raison que l'on te traite d'hérétique. Malik Bhago sera mécontent de ton refus d'hospitalité. » Sur ce, le brahmane s'en alla et <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> Malik Bhago nourrit ses invités, mais le gourou n'était pas parmi eux.
 
 Lorsque Malik Bhago apprit l'absence du gourou au festin, il ordonna qu'on le fasse venir. Bhago lui demanda pourquoi il n'avait pas répondu à son invitation. Le gourou répondit qu'il était un faqir qui ne désirait pas de mets délicats, mais que si manger de la main de Malik Bhago lui procurait une quelconque satisfaction, il ne manquerait pas de rien. Malik Bhago ne se laissa pas apaisé et chargea le gourou, fils d'un Khatri, de dîner avec Lalo, un homme de basse caste, tout en refusant d'assister au festin. Sur ce, le gourou demanda à Malik Bhago sa part et demanda en même temps à Lalo de lui apporter du pain de sa maison. Lorsque les deux mets arrivèrent, le gourou prit le pain grossier de Lalo dans sa main droite et le pain délicat de Malik Bhago dans sa main gauche, et les pressa tous les deux. On raconte que du pain de Lalo coula du lait et du pain de Malik Bhago, du sang. Cela signifiait que le pain de Lalo avait été obtenu par un travail honnête et était pur, tandis que celui de Malik Bhago avait été obtenu par la corruption et l'oppression, et était donc impur. Le gourou n'hésita pas à accepter le premier.
 
 Après cela, le gourou et Mardana se dirigèrent vers une forêt isolée, sans entrer dans un village ni s'attarder au bord d'une rivière. En chemin, la faim les prit et Mardana se plaignit. Le gourou lui ordonna de continuer tout droit et d'entrer dans un village où vivaient les Upal Khatris. Il n'eut qu'à se tenir en silence devant leurs maisons, et des hindous et des musulmans viendraient lui rendre hommage, non seulement lui fournir de la nourriture, mais aussi apporter des tapis et les étendre devant lui pour qu'il puisse les fouler. Mardana obéit et réussit sa mission.
 
-Mardana reçut ensuite l'ordre de se rendre dans un autre village. Là aussi, il reçut de grands hommages. <span id="p45">[<sup><small>p. 45</small></sup>]</span> Les villageois vinrent se prosterner à ses pieds et lui offrirent de généreux présents d'argent[^1] et de vêtements. Il les lia en paquets et les apporta au gourou. En les voyant, le gourou rit et demanda à Mardana ce qu'il avait apporté. Il répondit que les villageois lui avaient fait de généreux présents d'argent et de vêtements, et qu'il pensait les apporter à son maître. Le gourou répondit qu'ils n'appartenaient à aucun d'eux. Mardana demanda comment il devait s'en débarrasser. Le gourou lui dit de les jeter, ordre auquel il obéit aussitôt. Le gourou lui expliqua les effets désastreux des offrandes sur les laïcs. « Les offrandes sont comme du poison et ne peuvent être digérées. Elles ne peuvent apporter du bien que par une fervente adoration de Dieu à toute heure. » Lorsque l’homme accomplit un culte limité et dépend des offrandes pour sa subsistance, l’effet sur lui est comme s’il avait pris du poison.
+Mardana reçut ensuite l'ordre de se rendre dans un autre village. Là aussi, il reçut de grands hommages. <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> Les villageois vinrent se prosterner à ses pieds et lui offrirent de généreux présents d'argent[^1] et de vêtements. Il les lia en paquets et les apporta au gourou. En les voyant, le gourou rit et demanda à Mardana ce qu'il avait apporté. Il répondit que les villageois lui avaient fait de généreux présents d'argent et de vêtements, et qu'il pensait les apporter à son maître. Le gourou répondit qu'ils n'appartenaient à aucun d'eux. Mardana demanda comment il devait s'en débarrasser. Le gourou lui dit de les jeter, ordre auquel il obéit aussitôt. Le gourou lui expliqua les effets désastreux des offrandes sur les laïcs. « Les offrandes sont comme du poison et ne peuvent être digérées. Elles ne peuvent apporter du bien que par une fervente adoration de Dieu à toute heure. » Lorsque l’homme accomplit un culte limité et dépend des offrandes pour sa subsistance, l’effet sur lui est comme s’il avait pris du poison.
 
 On raconte que le gourou et Mardana rendirent visite à un brigand notoire appelé Cheikh Sajjan. Avec une extrême impartialité, il avait construit un temple pour ses hôtes hindous et une mosquée pour ses invités musulmans ; il leur avait par ailleurs fourni ostensiblement tout le nécessaire à leur confort. Son hospitalité, cependant, était aussi trompeuse que celle du célèbre brigand grec Procuste. À la nuit tombée, Sajjan laissa ses invités dormir. Il les jeta ensuite dans un puits où ils périrent. Le lendemain matin, il prit un bâton de pèlerin et un chapelet, et étendit un tapis pour prier dans l'esprit authentique d'un ancien pharisien. Cheikh Sajjan, voyant le gourou, interpréta la satisfaction spirituelle sur son visage comme une conscience de richesse matérielle et espérait un grand profit d'une telle aubaine. Comme à son habitude, il invita ses invités à dormir. Le gourou demanda la permission de réciter un hymne à Dieu et, l'ayant obtenu, répéta :
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Le bronze est brillant et éclatant, mais en le frottant, sa noirceur noire apparaît,
 Qui ne peut pas être enlevé même en le lavant cent fois.
@@ -61,14 +61,14 @@ Je veux des yeux que je ne peux pas avoir ; comment puis-je monter et parcourir 
 À quoi servent les services, les vertus et l’intelligence ?
 Nanak, souviens-toi du Nom, ainsi tu pourras être libéré de tes chaînes.[^6]
 
-Shaikh Sajjan, entendant cet avertissement et cet hymne pénétrant, comprit. Il comprit que toutes les fautes que le gourou lui avait imputées étaient les siennes. Sur ce, il lui fit <span id="p47">[<sup><small>p. 47</small></sup>]</span> hommage, lui baisa les pieds et le pria de lui pardonner ses péchés. Le gourou dit alors : « Shaikh Sajjan, auprès du trône de Dieu, la grâce s'obtient par deux choses : la confession ouverte et la réparation du tort. » Shaikh Sajjan lui demanda d'accomplir pour lui les actes par lesquels les péchés étaient pardonnés et la grâce obtenue. Le cœur du gourou fut alors touché et il lui demanda de déclarer avec exactitude le nombre de meurtres qu'il avait commis. Shaikh Sajjan admit une longue liste des crimes les plus odieux. Le gourou lui demanda de produire tous les biens de ses victimes qu'il avait conservés. Le Cheikh s'exécuta, sur quoi le Guru lui dit de tout donner aux pauvres. Il obéit à l'ordre et devint un disciple du Guru après avoir reçu le charanpahul.[^1] On dit que le premier temple sikh[^2] fut construit à l'endroit où cette conversation avait eu lieu.
+Shaikh Sajjan, entendant cet avertissement et cet hymne pénétrant, comprit. Il comprit que toutes les fautes que le gourou lui avait imputées étaient les siennes. Sur ce, il lui fit <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> hommage, lui baisa les pieds et le pria de lui pardonner ses péchés. Le gourou dit alors : « Shaikh Sajjan, auprès du trône de Dieu, la grâce s'obtient par deux choses : la confession ouverte et la réparation du tort. » Shaikh Sajjan lui demanda d'accomplir pour lui les actes par lesquels les péchés étaient pardonnés et la grâce obtenue. Le cœur du gourou fut alors touché et il lui demanda de déclarer avec exactitude le nombre de meurtres qu'il avait commis. Shaikh Sajjan admit une longue liste des crimes les plus odieux. Le gourou lui demanda de produire tous les biens de ses victimes qu'il avait conservés. Le Cheikh s'exécuta, sur quoi le Guru lui dit de tout donner aux pauvres. Il obéit à l'ordre et devint un disciple du Guru après avoir reçu le charanpahul.[^1] On dit que le premier temple sikh[^2] fut construit à l'endroit où cette conversation avait eu lieu.
 
 Le gourou, ayant entendu parler d'une foire religieuse à Kurkhetar, près de Thanesar, dans l'actuel district d'Ambala, souhaita, à l'occasion d'une éclipse solaire, s'y rendre afin de prêcher aux pèlerins rassemblés. Ayant besoin de rafraîchissements, il entreprit de cuire un cerf qu'un disciple lui avait offert. Les brahmanes exprimèrent leur horreur devant son utilisation de la viande, sur quoi il répondit :
 
 L'homme est d'abord conçu dans la chair, il demeure dans la chair.
 Lorsqu'il vivifie, il obtient une bouche de chair : ses os, sa peau et son corps sont faits de chair.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Lorsqu'il est retiré du ventre maternel, il saisit des mamelles de chair.
 Sa bouche est de chair, sa langue est de chair, son souffle est de chair.
@@ -93,7 +93,7 @@ Un fœtus est conçu à partir de chair ; nous sommes des vases de chair.
 Tu considères comme mauvaise, ô mon seigneur, la chair qui vient de l'étranger[^1], et comme bonne la chair de ta propre maison.
 Tous les animaux sont issus de la chair, et l'âme réside dans la chair.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Ceux dont le gourou est aveugle mangent des choses qui ne devraient pas être mangées et s'abstiennent de ce qui devrait être mangé.
 Nous sommes conçus dans la chair, nous naissons de la chair ; nous sommes des vases de chair.
@@ -141,7 +141,7 @@ Rares sont ceux qui se rasent la tête selon les instructions de leur gourou.
 Nanak ayant abandonné tous les plaisirs, toutes les affections et tout égoïsme,
 A mis un chapeau de cette façon.[^2]
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 Le Cheikh demanda alors au Guru à quelle secte religieuse il appartenait. Le Guru répondit :
 
@@ -169,7 +169,7 @@ Et bois à la cascade[^7] du cerveau.
 Je rejette ma faible intelligence pour la sagesse élevée de mon gourou.
 De cette façon, Nanak porte un pagne.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 Le Cheikh voulut alors savoir à quelle secte correspondaient les pantoufles du gourou. Le gourou répondit :
 
@@ -195,7 +195,7 @@ Qui obéissent à l’appel de Dieu et ne prêtent attention à aucun autre ;
 Qui, assis dans une attitude contemplative au firmament[^6], joue de la musique spontanée—
 Dit Nanak, ni les Védas ni le Coran ne connaissent les louanges de ces saints hommes.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Le Cheikh dit finalement : « Bien joué ! Pourquoi interroger davantage celui qui témoigne de Dieu ? Le contempler suffit. » Puis il serra la main du gourou, lui baisa les pieds et partit.
 
@@ -204,7 +204,7 @@ Guru Nanak poursuivit sa route et arriva à Dihli. Un éléphant appartenant au 
 C'est Lui (montrant vers le haut) qui détruit et qui, en détruisant, ranime.
 Nanak, il n’y a pas d’autre Dieu que lui.
 
-L'animal mourut alors, les chroniqueurs en déduisant qu'il mourut selon la volonté du gourou, car il l'avait précédemment rappelé à la vie. L'empereur lui ordonna de le ranimer. Le gourou répondit : « Salut à Votre Majesté ! Le fer, chauffé au feu, devient rouge et ne peut être tenu un seul instant dans la main. De même, les faqirs <span id="p57">[<sup><small>p. 57</small></sup>]</span> rougissent sous l'effet de l'amour divin et ne peuvent être contraints. » Le monarque, dit-on, fut satisfait de cette réponse et demanda au gourou d'accepter un présent de sa part. Le gourou répondit :
+L'animal mourut alors, les chroniqueurs en déduisant qu'il mourut selon la volonté du gourou, car il l'avait précédemment rappelé à la vie. L'empereur lui ordonna de le ranimer. Le gourou répondit : « Salut à Votre Majesté ! Le fer, chauffé au feu, devient rouge et ne peut être tenu un seul instant dans la main. De même, les faqirs <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> rougissent sous l'effet de l'amour divin et ne peuvent être contraints. » Le monarque, dit-on, fut satisfait de cette réponse et demanda au gourou d'accepter un présent de sa part. Le gourou répondit :
 
 Nanak a soif de Dieu et ne se soucie de rien d'autre. Je demande Dieu, je ne demande rien d'autre.
 Le roi retourna à son palais et le gourou continua ses pérégrinations.
@@ -225,7 +225,7 @@ Les adorateurs à qui Dieu accorde sa bonté l'adorent ;
 La nuit est agréable pour ceux qui le désirent dans leur cœur.
 C'est par l'instruction du gourou à ses disciples que cette connaissance est obtenue,
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Que le Bienveillant sauve ceux sur qui Il porte un regard favorable.
 Presses à huile, rouets, moulins à bras, tours de potier,

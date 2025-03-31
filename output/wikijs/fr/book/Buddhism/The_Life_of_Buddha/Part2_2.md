@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 
 Le Bouddha commença à se demander comment il allait propager la connaissance. Il se dit :
@@ -41,7 +41,7 @@ J'ai découvert une vérité profonde. Elle était difficile à percevoir ; elle
 
 Et le Bienheureux n’était pas enclin à prêcher la doctrine.
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 Alors Brahma, par sa suprême intelligence, comprit les doutes qui assaillaient le Bienheureux. Il fut pris de peur. « Le monde est perdu », se dit-il, « le monde est détruit si le Parfait, le Saint, le Bouddha, se tient désormais à l'écart, s'il ne va pas parmi les hommes prêcher la doctrine et propager la connaissance. »
 

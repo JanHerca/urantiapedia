@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 ## MAHÂ-SUDASSANA SUTTA. INTRODUCTION
 
@@ -42,7 +42,7 @@ Ce Sutta suit dans le Dîgha Nikâya immédiatement le Livre de la Grande Mort e
 
 La partie entre parenthèses est le commentaire, probablement rédigé à Ceylan au Ve siècle de notre ère. J'ai inclus la partie du commentaire qui explique les mots du verset, car elle présente un intérêt exceptionnel. Il y a tout lieu de croire, pour les raisons exposées dans l'introduction aux « Récits de Naissances Bouddhistes », que ces récits appartiennent à une période très ancienne de l'histoire du bouddhisme ; et nous pouvons être certains que si ce récit particulier avait été extrait de notre Sutta par l'auteur du commentaire, il n'aurait pas osé introduire de telles modifications dans ce qu'il considérait comme des écrits sacrés.
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 ## MAHÂ-SUDASSANA <i>G</i>ÂTAKA. LE GRAND ROI DE GLOIRE
 
@@ -77,7 +77,7 @@ Dans ces versets, les mots « Comme tous les éléments constitutifs sont transi
 
 Et pourquoi ? « Leur nature est la croissance et la décadence. » Tous ont la qualité inhérente de naître à l'existence (individuelle), et ont aussi la qualité inhérente de vieillir ; ou (en d'autres termes) leur nature même est de naître et de se dissoudre. Il faut donc comprendre qu'ils sont impermanents.
 
-« Et puisqu'ils sont impermanents, lorsqu'ils sont produits, ils se dissolvent à nouveau. » Ayant pris naissance, ayant atteint un état[^13], ils se dissolvent assurément. Car toutes ces choses prennent naissance, prenant une forme individuelle ; et se dissolvent, se brisant. Pour elles, dès qu'il y a naissance, il y a ce qu'on appelle un état ; dès qu'il y a un état, il y a ce qu'on appelle <span id="p241">[<sup><small>p. 241</small></sup>]</span> désintégration[^14]. Car pour l'être non né, il n'existe pas d'état, et il n'existe pas d'état sans désintégration. Ainsi, tous les composés, ayant atteint les trois marques caractéristiques (impermanence, douleur et absence de principe permanent[^15]), sont sujets, de telle ou telle manière, à la dissolution. Toutes ces choses composantes, sans exception, sont donc impermanentes, momentanées[^16], méprisables, instables, désintégrantes, tremblantes, frémissantes, non durables, sûres de disparaître[^17], seulement pour un temps[^18], et sans substance ; — aussi temporaires[^18] qu'un fantôme, qu'un mirage ou qu'une écume !
+« Et puisqu'ils sont impermanents, lorsqu'ils sont produits, ils se dissolvent à nouveau. » Ayant pris naissance, ayant atteint un état[^13], ils se dissolvent assurément. Car toutes ces choses prennent naissance, prenant une forme individuelle ; et se dissolvent, se brisant. Pour elles, dès qu'il y a naissance, il y a ce qu'on appelle un état ; dès qu'il y a un état, il y a ce qu'on appelle <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> désintégration[^14]. Car pour l'être non né, il n'existe pas d'état, et il n'existe pas d'état sans désintégration. Ainsi, tous les composés, ayant atteint les trois marques caractéristiques (impermanence, douleur et absence de principe permanent[^15]), sont sujets, de telle ou telle manière, à la dissolution. Toutes ces choses composantes, sans exception, sont donc impermanentes, momentanées[^16], méprisables, instables, désintégrantes, tremblantes, frémissantes, non durables, sûres de disparaître[^17], seulement pour un temps[^18], et sans substance ; — aussi temporaires[^18] qu'un fantôme, qu'un mirage ou qu'une écume !
 
 « Comment donc, chère dame Subhaddâ, peut-on y trouver le moindre signe de bien-être ? Comprends plutôt que « le mieux est qu'ils s'enfoncent dans le repos » ; mais leur enfoncement dans le repos, leur cessation, vient de la cessation de tout le cycle (de la vie), et est identique au Nirvânâ. Cela et cela ne font qu'un[^19]. Et par conséquent, le bien-être n'existe pas. »
 
@@ -87,7 +87,7 @@ Et lorsque Mahâ Sudassana eut ainsi amené son discours au point où se trouvai
 
 \[Lorsque le Maître eut conclu cette leçon dans la vérité, il résuma le <i>G</i>âtaka, en disant : « Celle qui était alors Subhaddâ la reine était la mère de Râhula, le grand conseiller était Râhula, le reste de la suite était la suite du Bouddha, et Mahâ Sudassana moi-même. »\]
 
-<span id="p242">[<sup><small>p. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 ## INTRODUCTION (suite)
 
@@ -95,7 +95,7 @@ Le mot traduit par « éléments constitutifs » ou « composés » dans ce Gât
 
 Le terme Confections (pour utiliser une terminologie différente) est parfois utilisé, comme dans la première ligne de ces versets (utilisé à cet égard), pour désigner toutes les choses qui ont été rassemblées, constituées, par des causes préexistantes ; et dans ce sens, il inclut, comme le commentateur le souligne ici, toutes ces qualités matérielles ou mentales qui s'unissent pour former un individu, une chose ou un être séparé, qu'il soit conscient ou inconscient.
 
-On l'emploie plus couramment, en référence particulière à leur origine due à des causes préexistantes, et en allusion à la catégorie plus large désignée par le même mot, celle des seules confections mentales, de tous les êtres sensibles en général, ou de l'homme seul. En ce sens, il constitue à lui seul l'une des cinq classes ou agrégats (khandhâ) dans lesquels les qualités matérielles et mentales de chaque individu sont divisées dans les écrits bouddhiques : la classe des dispositions, des capacités et de tout ce qui, ensemble, constitue ce que nous appelons le caractère. Cette classe a naturellement été à nouveau divisée et subdivisée ; et une liste complète des Confections dans ce sens, telles qu'elles sont maintenant reconnues par les bouddhistes orthodoxes, se trouve dans mon manuel « Bouddhisme ». À l'époque où les Pâli Pi<i>t</i>akas ont atteint leur forme actuelle, aucune liste aussi élaborée et détaillée des Confections ne semble avoir été établie ; mais la <span id="p243">[<sup><small>p. 243</small></sup>]</span> Le sens général du mot était, comme le montrent clairement les passages où il apparaît, l'idée que ces détails réunis véhiculent. C'est ce second sens, plus courant, qui est particulièrement souligné dans le dernier vers de la strophe ci-dessus.
+On l'emploie plus couramment, en référence particulière à leur origine due à des causes préexistantes, et en allusion à la catégorie plus large désignée par le même mot, celle des seules confections mentales, de tous les êtres sensibles en général, ou de l'homme seul. En ce sens, il constitue à lui seul l'une des cinq classes ou agrégats (khandhâ) dans lesquels les qualités matérielles et mentales de chaque individu sont divisées dans les écrits bouddhiques : la classe des dispositions, des capacités et de tout ce qui, ensemble, constitue ce que nous appelons le caractère. Cette classe a naturellement été à nouveau divisée et subdivisée ; et une liste complète des Confections dans ce sens, telles qu'elles sont maintenant reconnues par les bouddhistes orthodoxes, se trouve dans mon manuel « Bouddhisme ». À l'époque où les Pâli Pi<i>t</i>akas ont atteint leur forme actuelle, aucune liste aussi élaborée et détaillée des Confections ne semble avoir été établie ; mais la <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> Le sens général du mot était, comme le montrent clairement les passages où il apparaît, l'idée que ces détails réunis véhiculent. C'est ce second sens, plus courant, qui est particulièrement souligné dans le dernier vers de la strophe ci-dessus.
 
 ---
 
@@ -105,7 +105,7 @@ On peut sérieusement se demander si elle en a le droit. Le salut bouddhiste ét
 
 L'une des nombreuses idées impliquées dans l'état d'Arahat était la dissolution absolue de l'individualité. Gotama, à tort ou à raison, n'a aucune importance, soutenait que la libération de la douleur, le bien-être absolu et le bonheur étaient incompatibles avec l'existence en tant qu'individu distinct (qu'il soit animal, dieu ou homme). La cessation des Confections, loin d'être redoutable, était le résultat inévitable de l'émancipation du cœur et de l'esprit dans l'état d'Arahat.
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span> Mais ce n'était pas une chose désirable, et ne pouvait, en fait, être réalisée indépendamment de toutes les autres choses impliquées dans l'état d'Arahant. La formation de ces Confections cesse dans le Nirvânâ, et dans le Nirvânâ seulement ; et lorsque le poète déclare que leur cessation est bénie, il dit la même chose que s'il avait dit : « Le Nirvânâ est béni[^22]. »
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span> Mais ce n'était pas une chose désirable, et ne pouvait, en fait, être réalisée indépendamment de toutes les autres choses impliquées dans l'état d'Arahant. La formation de ces Confections cesse dans le Nirvânâ, et dans le Nirvânâ seulement ; et lorsque le poète déclare que leur cessation est bénie, il dit la même chose que s'il avait dit : « Le Nirvânâ est béni[^22]. »
 
 ---
 
@@ -119,7 +119,7 @@ Il s'agit en réalité d'une sorte de merveilleux conte de fées, d'un magnifiqu
 
 Retracer toutes les phrases rhétoriques de notre Sutta jusqu'à leur première apparition dans les hymnes védiques constituerait une tâche philologique historique intéressante, bien que cela éclairerait davantage les formes de langage bouddhistes que les formes de croyance bouddhistes. Dans son précieux ouvrage, « La Légende du Bouddha », M. Senart l'a déjà fait à propos des sept trésors (mentionnés dans la première partie du Sutta), en s'appuyant sur le passage correspondant du poème sanskrit bouddhiste plus tardif appelé Lalita Vistara. Les descriptions de la cité royale et de son merveilleux Palais de la Justice sont probablement de l'auteur, quoique dans le même esprit ; et elles rappellent irrésistiblement, par nombre de leurs expressions, le poème similaire, mais plus simple et plus beau, dans lequel un auteur juif, quelque trois siècles plus tard, décrivait la Jérusalem céleste.
 
-Lorsque les bouddhistes du Nord, longtemps après, eurent étouffé l'enseignement simple du fondateur de leur religion sous les subtilités de la spéculation théologique et métaphysique, et eurent complètement oublié le Noble Sentier, leur but n'était plus un changement de cœur dans l'état d'Arahat à atteindre sur terre, mais une vie de bonheur, sous un changement de condition extérieure, dans un paradis de félicité <span id="p246">[<sup><small>p. 246</small></sup>]</span> au-delà des cieux. L'un des livres les plus populaires parmi les bouddhistes de Chine et du Japon est une description de ce paradis céleste qui est le leur, appelée le Sukhâvatî-vyûha, le « Livre du Pays Heureux », dont le texte sanskrit vient d'être publié par le professeur Max Müller dans le volume de la revue de la Royal Asiatic Society de cette année. Il est instructif de constater que plusieurs des expressions utilisées sont mot pour mot identiques aux phrases correspondantes dans le « Livre du Grand Roi de Gloire ».
+Lorsque les bouddhistes du Nord, longtemps après, eurent étouffé l'enseignement simple du fondateur de leur religion sous les subtilités de la spéculation théologique et métaphysique, et eurent complètement oublié le Noble Sentier, leur but n'était plus un changement de cœur dans l'état d'Arahat à atteindre sur terre, mais une vie de bonheur, sous un changement de condition extérieure, dans un paradis de félicité <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> au-delà des cieux. L'un des livres les plus populaires parmi les bouddhistes de Chine et du Japon est une description de ce paradis céleste qui est le leur, appelée le Sukhâvatî-vyûha, le « Livre du Pays Heureux », dont le texte sanskrit vient d'être publié par le professeur Max Müller dans le volume de la revue de la Royal Asiatic Society de cette année. Il est instructif de constater que plusieurs des expressions utilisées sont mot pour mot identiques aux phrases correspondantes dans le « Livre du Grand Roi de Gloire ».
 
 <figure class="table chapter-navigator">
   <table>

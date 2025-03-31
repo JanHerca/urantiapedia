@@ -72,7 +72,7 @@ Que le mot idam soit la règle.
 
 **Commentaire.**
 
-Cela signifie que l'offrande (havis) destinée à chaque divinité doit être indiquée par les mots idam, ceci, Agne_h_, est pour Agni, etc. Ainsi, nous lisons à propos des offrandes destinées à certains dieux et déesses : idam Dhâtur, idam Anumatyâ, Râkâyâm Sinîvâlyâ_h_, Kuhvâ_h_. <span id="p344">[<sup><small>p. 344</small></sup>]</span>
+Cela signifie que l'offrande (havis) destinée à chaque divinité doit être indiquée par les mots idam, ceci, Agne_h_, est pour Agni, etc. Ainsi, nous lisons à propos des offrandes destinées à certains dieux et déesses : idam Dhâtur, idam Anumatyâ, Râkâyâm Sinîvâlyâ_h_, Kuhvâ_h_. <span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 <span id="an105"></span>
 
@@ -164,7 +164,7 @@ Quand on dit que les ish<i>t</i>is de vœux sont exécutés dans un murmure, cel
 
 ## SÛTRA CXIV.
 
-Le sacrifice Dar<i>s</i>a-pûr<i>s</i>amâsa est la Prak<i>s</i>ti ou norme pour tous les ish<i>s</i>is. <span id="p346">[<sup><small>p. 346</small></sup>]</span>
+Le sacrifice Dar<i>s</i>a-pûr<i>s</i>amâsa est la Prak<i>s</i>ti ou norme pour tous les ish<i>s</i>is. <span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 <span id="an114c"></span>
 
@@ -200,7 +200,7 @@ Et les Aikâda<i>s</i>inas sont la norme pour les Pa<i>s</i>uga<i>s</i>as.
 
 **Commentaire.**
 
-Les règles pour les Pa<i>s</i>uga<i>s</i>as doivent donc être reprises des Aikâda<i>s</i>inas, du Savanîya, de l'Agnîshomîya-pa<i>s</i>u et du Dar<i>s</i>a-pûr<i>s</i>amâsa, dans la mesure où elles ont été modifiées dans chaque cas particulier, et sont <span id="p347">[<sup><small>p. 347</small></sup>]</span> finalement déterminées par les règles de chaque Pa<i>s</i>uga<i>s</i>a, comme par exemple l'Âditya-pa<i>s</i>u.
+Les règles pour les Pa<i>s</i>uga<i>s</i>as doivent donc être reprises des Aikâda<i>s</i>inas, du Savanîya, de l'Agnîshomîya-pa<i>s</i>u et du Dar<i>s</i>a-pûr<i>s</i>amâsa, dans la mesure où elles ont été modifiées dans chaque cas particulier, et sont <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> finalement déterminées par les règles de chaque Pa<i>s</i>uga<i>s</i>a, comme par exemple l'Âditya-pa<i>s</i>u.
 
 <span id="an119"></span>
 
@@ -242,7 +242,7 @@ Ici, le Vikâra, la modification, est perçu à partir de la similitude.
 
 **Commentaire.**
 
-S'il a été établi que le Dar<i>s</i>a-pûr<i>s</i>amâsa est la prak<i>s</i>ti ou norme pour tous les ish<i>s</i>is, alors la similarité détermine la modification dans tous les détails, tels que les offrandes et les dieux à qui elles sont faites. Ainsi, Karu, étant une offrande végétale, serait classé comme un vikâra du puro<i>s</i>â<i>s</i>a, qui se produit dans le sacrifice du Dar<i>s</i>a-pûr<i>s</i>amâsa, et est également végétal. Miel et eau <span id="p348">[<sup><small>p. 348</small></sup>]</span> serait considéré comme le plus proche de l'Â<i>s</i>ya dans le Dar<i>s</i>a-pûr<i>s</i>amâsa. L'Âmikshâ, une préparation à base de lait, se rapprocherait le plus du Sâ<i>s</i>nâyya, qui est un mélange de lait aigre et sucré.
+S'il a été établi que le Dar<i>s</i>a-pûr<i>s</i>amâsa est la prak<i>s</i>ti ou norme pour tous les ish<i>s</i>is, alors la similarité détermine la modification dans tous les détails, tels que les offrandes et les dieux à qui elles sont faites. Ainsi, Karu, étant une offrande végétale, serait classé comme un vikâra du puro<i>s</i>â<i>s</i>a, qui se produit dans le sacrifice du Dar<i>s</i>a-pûr<i>s</i>amâsa, et est également végétal. Miel et eau <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> serait considéré comme le plus proche de l'Â<i>s</i>ya dans le Dar<i>s</i>a-pûr<i>s</i>amâsa. L'Âmikshâ, une préparation à base de lait, se rapprocherait le plus du Sâ<i>s</i>nâyya, qui est un mélange de lait aigre et sucré.
 
 <span id="an123"></span>
 

@@ -29,7 +29,7 @@ dateCreated: 2025-3-16T22:26:58Z
   </table>
 </figure>
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 Les publicités historiques suivantes ont été reproduites à la suite du texte original. Elles sont incluses par souci d'exhaustivité – JBH.
 
@@ -69,7 +69,7 @@ Les paroles de Lao-Tseu
 
 Du chinois. Traduit avec introduction par LIONEL GILES, du British Museum. \[_Prêt_.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 La religion du Coran
 
@@ -105,7 +105,7 @@ _D'autres sont en préparation et seront dûment annoncés_
 
 JOHN MURRAY, ALBEMARLE STREET, LONDRES, W.
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## EXTRAITS DE QUELQUES AVIS DE PRESSE
 
@@ -149,7 +149,7 @@ JOHN MURRAY, ALBEMARLE STREET, LONDRES, W.
 
 **Opinion publique**.—« Ces petits livres ont beaucoup à offrir. »
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 **Toutes les communications littéraires doivent être adressées aux éditeurs de**
 

@@ -36,11 +36,11 @@ dateCreated: 2025-1-16T20:4:14Z
 
 ## Chapitre XXI
 
-**Sur le meurtre des fils de Devakî** <span id="p329">[<sup><small>p. 329</small></sup>]</span> 1\. Vyâsa dit : — Ô Roi ! Ainsi, en temps voulu, Devakî, la déesse incarnée, étant unie selon les règles à Vâsudeva, devint enceinte.
+**Sur le meurtre des fils de Devakî** <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 1\. Vyâsa dit : — Ô Roi ! Ainsi, en temps voulu, Devakî, la déesse incarnée, étant unie selon les règles à Vâsudeva, devint enceinte.
 
 2-4. Dix mois plus tard, un beau garçon naquit de Devakî. Alors, le bienveillant Vâsudeva se souvint de sa promesse, ainsi que de ce qui est ordonné par le Ciel ; et il dit à Devakî, l'incarnation d'Aditi : « Ô belle ! Tu sais que je t'ai sauvé la vie lors de ton mariage en jurant de remettre tous tes enfants à Kamsa. Le moment est venu de remettre ton enfant à Kamsa. »
 
-5\. Ô femme à la belle chevelure ! Je vais maintenant remettre votre fils à Kamsa. Sache que Kamsa est très cruel et méchant. Je ne peux pas dire quelle décision il prendra, poussé par le Destin, pour tuer votre enfant. Ô douce ! Nous n'avons rien à voir avec cette affaire. Les effets du karma sont extrêmement déroutants. Les gens ordinaires ne peuvent les connaître. <span id="p330">[<sup><small>p. 330</small></sup>]</span> 6\. Tous les êtres humains sont soumis au Temps, le Destructeur, et profitent des mérites ou des démérites de leurs actes passés. Les effets du karma passé sont façonnés par le Créateur ; sachant cela, permettez-moi de vous enlever votre enfant.
+5\. Ô femme à la belle chevelure ! Je vais maintenant remettre votre fils à Kamsa. Sache que Kamsa est très cruel et méchant. Je ne peux pas dire quelle décision il prendra, poussé par le Destin, pour tuer votre enfant. Ô douce ! Nous n'avons rien à voir avec cette affaire. Les effets du karma sont extrêmement déroutants. Les gens ordinaires ne peuvent les connaître. <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> 6\. Tous les êtres humains sont soumis au Temps, le Destructeur, et profitent des mérites ou des démérites de leurs actes passés. Les effets du karma passé sont façonnés par le Créateur ; sachant cela, permettez-moi de vous enlever votre enfant.
 
 7\. Devakî dit : — Ô Seigneur ! Certes, les hommes doivent subir pleinement les effets de leurs karmas passés. Mais ne peut-on pas les surmonter en résidant dans des lieux saints, en pratiquant la pénitence et l'ascèse, ou en faisant des dons généreux ?
 
@@ -64,7 +64,7 @@ Remarque : Voici une déclaration diplomatique !
 
 19-20. L'effort, l'application et la manifestation de l'énergie sont certainement les devoirs de l'homme ; mais leurs effets sont tous soumis au Grand Destin ou au Sort.
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 Les Pundits connaissant les traditions anciennes disent qu'il existe trois sortes de Karma mentionnés dans les Purânas et les Âgamas : - Premièrement, le Sanchita Karma (accompli dans les naissances passées) ; le Prârabdha Karma, le Karma déjà accompli ; et le Vartamân Karma (Karma en cours).
 
@@ -82,7 +82,7 @@ Les Pundits connaissant les traditions anciennes disent qu'il existe trois sorte
 
 29-30. Ô Déesse ! Je n'ai jamais commis d'acte répréhensible, ni menti. C'est pourquoi, accomplis ta vérité et remets ton enfant. Ô Devakî ! Le Dharma est la seule chose permanente et réelle en ce monde éphémère. Même les naissances et les morts des personnes à l'âme élevée sont soumises au grand Destin. C'est pourquoi les Jîvas ne devraient pas s'attrister lorsqu'il n'y a aucune issue.
 
-31\. Ô ma chère ! Que te dirai-je ? Sache que celui qui est perdu dans la Vérité passe sa vie en vain. Ô belle ! Celui dont la vie est détruite, à quoi peut-il s'attendre dans la vie à venir ! <span id="p332">[<sup><small>p. 332</small></sup>]</span> 32\. C'est pourquoi, ô Déesse ! Donne-moi ton enfant et je le remettrai à Kamsa. Si nous pouvons observer cette vérité, nous en serons largement récompensés ; cela ne fait aucun doute.
+31\. Ô ma chère ! Que te dirai-je ? Sache que celui qui est perdu dans la Vérité passe sa vie en vain. Ô belle ! Celui dont la vie est détruite, à quoi peut-il s'attendre dans la vie à venir ! <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> 32\. C'est pourquoi, ô Déesse ! Donne-moi ton enfant et je le remettrai à Kamsa. Si nous pouvons observer cette vérité, nous en serons largement récompensés ; cela ne fait aucun doute.
 
 33. Là où les Jîvas connaissent souffrances et plaisirs, il nous incombe fortement d'accomplir de bonnes actions méritoires. Si nous agissons selon la Vérité, nous en récolterons assurément de bons fruits.
 
@@ -123,7 +123,7 @@ Ici se termine le 21e chapitre du S'rî Mad Devî Bhâgavatam, le Mahâ Purânam
 
 ## Chapitre XXII
 
-**Sur les incarnations des différents Devas** <span id="p333">[<sup><small>p. 333</small></sup>]</span> 1\. Janamejaya demanda : — Ô grand-père ! Quel acte mauvais cet enfant a-t-il commis, pour qu'à peine né il soit tué par Kamsa ? <span id="p334">[<sup><small>p. 334</small></sup>]</span> 2\. Maharsi Nârada est particulièrement le meilleur parmi les Munis et le plus important parmi les Brahmâ-vids (Connaisseurs de Brahmâ), accomplissant toujours des actes vertueux et érudits ; pourquoi est-il devenu l'agent de cet acte si pécheur ?
+**Sur les incarnations des différents Devas** <span id="p333"><sup><small>[ p. 333 ]</small></sup></span> 1\. Janamejaya demanda : — Ô grand-père ! Quel acte mauvais cet enfant a-t-il commis, pour qu'à peine né il soit tué par Kamsa ? <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> 2\. Maharsi Nârada est particulièrement le meilleur parmi les Munis et le plus important parmi les Brahmâ-vids (Connaisseurs de Brahmâ), accomplissant toujours des actes vertueux et érudits ; pourquoi est-il devenu l'agent de cet acte si pécheur ?
 
 3\. Les pandits déclarent que les auteurs et les stimulants de toute mauvaise action sont tous deux également responsables ; alors comment se fait-il que Nârada, étant le meilleur des Munis, ait incité le méchant Kamsa à commettre cet acte maléfique !
 
@@ -143,7 +143,7 @@ Ici se termine le 21e chapitre du S'rî Mad Devî Bhâgavatam, le Mahâ Purânam
 
 13\. Brahmâ dit : — Ô mes fils ! J'étais très en colère contre vous auparavant et je vous ai maudits ; maintenant je suis très content de vous ; demandez-moi les bienfaits que vous désirez tous.
 
-14-15. Vyâsa dit : — En entendant les paroles de Brahmâ, ils furent très heureux et devinrent très désireux de s'assurer l'objet de leurs désirs, et dit : — Ô notre grand <span id="p335">[<sup><small>p. 335</small></sup>]</span> père ! Aujourd'hui tu nous as été agréable ; maintenant favorise-nous des bienfaits que nous désirons. Afin que nous soyons invulnérables à tous les Devas, aux êtres humains, aux grands serpents les Gandarbhas, et au Seigneur des Siddhas (êtres semi-divins supposés être d'une grande pureté et sainteté et réputés particulièrement caractérisés par huit facultés surnaturelles appelées Siddhis).
+14-15. Vyâsa dit : — En entendant les paroles de Brahmâ, ils furent très heureux et devinrent très désireux de s'assurer l'objet de leurs désirs, et dit : — Ô notre grand <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> père ! Aujourd'hui tu nous as été agréable ; maintenant favorise-nous des bienfaits que nous désirons. Afin que nous soyons invulnérables à tous les Devas, aux êtres humains, aux grands serpents les Gandarbhas, et au Seigneur des Siddhas (êtres semi-divins supposés être d'une grande pureté et sainteté et réputés particulièrement caractérisés par huit facultés surnaturelles appelées Siddhis).
 
 16\. Vyâsa dit : — Brahmâ leur dit : « Ce que vous avez demandé, vous l'obtiendrez certainement ; Ô bienheureux ! partez maintenant ; mes paroles se révéleront littéralement vraies. Aucun doute là-dessus. »
 
@@ -159,7 +159,7 @@ Ici se termine le 21e chapitre du S'rî Mad Devî Bhâgavatam, le Mahâ Purânam
 
 26\. Et à peu près à cette époque, le Bhagavân, le Protecteur du dévot, apparut dans le huitième ventre de Devakî pour servir le dessein des dieux et pour soulager le fardeau de la Terre.
 
-27-28. Le Roi dit : — Ô meilleur des Munis ! « Tu as décrit les incarnations partielles de (1) Kas'yapa comme Vâsudeva et (2) de Bhagavân Hari pour soulager le fardeau de la Déesse Terre comme Elle l'a prié ; et (3) d'Ananta Deva ; mais tu n'as pas décrit les incarnations partielles des autres Devas. Comment les autres Devas se sont incarnés comme leurs parties sur cette terre, s'il te plaît décris-les maintenant. » <span id="p336">[<sup><small>p. 336</small></sup>]</span> 29\. Vyâsa dit : — Les incarnations partielles des Suras et des Asuras sur cette terre, et leurs noms, je te les dis maintenant brièvement ; écoute.
+27-28. Le Roi dit : — Ô meilleur des Munis ! « Tu as décrit les incarnations partielles de (1) Kas'yapa comme Vâsudeva et (2) de Bhagavân Hari pour soulager le fardeau de la Déesse Terre comme Elle l'a prié ; et (3) d'Ananta Deva ; mais tu n'as pas décrit les incarnations partielles des autres Devas. Comment les autres Devas se sont incarnés comme leurs parties sur cette terre, s'il te plaît décris-les maintenant. » <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> 29\. Vyâsa dit : — Les incarnations partielles des Suras et des Asuras sur cette terre, et leurs noms, je te les dis maintenant brièvement ; écoute.
 
 30-32. Vâsudeva était l'incarnation partielle de Kas'yapa, Devakî était d'Aditi, Baladeva, d'Ananta ; Vâsudeva S'rî Krisna, de S'rîmân Nârâyana ; le fils de Dharma existant même à cette époque dans son corps physique ; Arjuna, de Nara, le frère cadet de Nârâyana.
 
@@ -179,7 +179,7 @@ Ici se termine le 21e chapitre du S'rî Mad Devî Bhâgavatam, le Mahâ Purânam
 
 46-47. Kubalaya, l'éléphant de Kamsa, était une incarnation partielle d'Arista, le soleil de Diti. Vakî était la fille de Bali, Vaka était sa cadette.
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 Le puissant fils de Drona, As'vatthâmâ, bien que connu comme la partie incarnée de Rudra, est en réalité né des quatre parties de Yama, Rudra, Cupidité et Colère.
 
@@ -198,7 +198,7 @@ Ainsi se termine le 22ème chapitre du 4ème livre du S'rîmad Devî Bhâgavatam
 
 **Chapitre XXIII**
 
-**Sur la naissance de S'rî Krisna** <span id="p337">[<sup><small>p. 337</small></sup>]</span> 1-2. Vyâsa dit :— Les six fils de Devakî étant ainsi tués par Kamsa et la septième matrice étant avortée, Kamsa commença, lorsque Devakî fut enceinte pour la huitième fois, à réfléchir à la cause de sa propre mort comme le lui avait conseillé Nârada et veilla attentivement, jour et nuit, afin que cette fois-ci naisse un fils et qu'il n'y ait pas d'avorton.
+**Sur la naissance de S'rî Krisna** <span id="p337"><sup><small>[ p. 337 ]</small></sup></span> 1-2. Vyâsa dit :— Les six fils de Devakî étant ainsi tués par Kamsa et la septième matrice étant avortée, Kamsa commença, lorsque Devakî fut enceinte pour la huitième fois, à réfléchir à la cause de sa propre mort comme le lui avait conseillé Nârada et veilla attentivement, jour et nuit, afin que cette fois-ci naisse un fils et qu'il n'y ait pas d'avorton.
 
 3\. D'autre part, le Bhagavân Hari descendit et se reposa sur le corps de Vâsudeva en tant que partie incarnée, puis entra dans le ventre de Devakî, dans l'ordre approprié.
 
@@ -208,7 +208,7 @@ Ainsi se termine le 22ème chapitre du 4ème livre du S'rîmad Devî Bhâgavatam
 
 6\. Kamsa emprisonna alors Devakî, qui était vénérée par les dieux, et engagea des serviteurs pour prendre soin d'elle.
 
-7\. Vâsudeva entra également en prison avec sa femme Devakî, pensant à sa descendance et étant également attiré par son attachement envers sa femme. <span id="p338">[<sup><small>p. 338</small></sup>]</span> 8\. Visnu, ici, le Deva des Devas, pour accomplir le dessein des dieux commença à grandir régulièrement dans le ventre de Devakî, étant sans cesse adoré et loué par les dieux.
+7\. Vâsudeva entra également en prison avec sa femme Devakî, pensant à sa descendance et étant également attiré par son attachement envers sa femme. <span id="p338"><sup><small>[ p. 338 ]</small></sup></span> 8\. Visnu, ici, le Deva des Devas, pour accomplir le dessein des dieux commença à grandir régulièrement dans le ventre de Devakî, étant sans cesse adoré et loué par les dieux.
 
 9-10. Lorsque le dixième mois fut terminé, le huitième jour de la quinzaine obscure, sous l'étoile Rohinî, Kamsa fut très déconcerté par la peur et appela ses disciples Dânava et dit : « Vous devez tous soigneusement protéger Devakî dans la prison.
 
@@ -226,7 +226,7 @@ Ainsi se termine le 22ème chapitre du 4ème livre du S'rîmad Devî Bhâgavatam
 
 21\. La bienheureuse Devakî, regardant cet enfant extrêmement beau, fut frappée d'émerveillement et le dit à son mari, tout son corps étant rempli de joie.
 
-22\. Ô Seigneur ! Regarde le visage de ton nouveau-né, chose très rare de voir un visage pareil. Hélas ! Le fils de mon oncle paternel, Kamsa, tuera mon nouveau-né. <span id="p339">[<sup><small>p. 339</small></sup>]</span> 23\. « Kamsa le fera. » Disant cela, Vâsudeva prit cet enfant dans ses bras et se mit à contempler amoureusement le visage de cet enfant aux actes merveilleux.
+22\. Ô Seigneur ! Regarde le visage de ton nouveau-né, chose très rare de voir un visage pareil. Hélas ! Le fils de mon oncle paternel, Kamsa, tuera mon nouveau-né. <span id="p339"><sup><small>[ p. 339 ]</small></sup></span> 23\. « Kamsa le fera. » Disant cela, Vâsudeva prit cet enfant dans ses bras et se mit à contempler amoureusement le visage de cet enfant aux actes merveilleux.
 
 24\. En regardant ainsi, Vâsudeva pensa : « Que puis-je faire maintenant pour me soulager de mes chagrins dus à la destruction future de cet enfant ? »
 
@@ -246,7 +246,7 @@ Ainsi se termine le 22ème chapitre du 4ème livre du S'rîmad Devî Bhâgavatam
 
 36-37. Mais cette enfant, dès qu'elle fut endormie, se mit à pleurer d'une voix sonore ; les gardes royaux s'éveillèrent aussitôt à ce cri et, effrayés, se précipitèrent vers leur roi et dirent : « Ô roi ! Viens vite. Devakî a donné naissance à un enfant. »
 
-38-39. Le roi des Bhojas, entendant leurs paroles, s'y rendit rapidement et vit les portes ouvertes, appela Vâsudeva : « Ô bienheureux ! Laisse-moi le huitième fils de Devakî, ma mort incarnée ; je tuerai immédiatement mon ennemi, né en partie incarné de Hari. » <span id="p340">[<sup><small>p. 340</small></sup>]</span> 40\. Vyâsa dit : — Ô Roi ! En entendant les paroles de Kamsa, Vâsudeva lui remit l'enfant femelle en pleurs et très effrayée.
+38-39. Le roi des Bhojas, entendant leurs paroles, s'y rendit rapidement et vit les portes ouvertes, appela Vâsudeva : « Ô bienheureux ! Laisse-moi le huitième fils de Devakî, ma mort incarnée ; je tuerai immédiatement mon ennemi, né en partie incarné de Hari. » <span id="p340"><sup><small>[ p. 340 ]</small></sup></span> 40\. Vyâsa dit : — Ô Roi ! En entendant les paroles de Kamsa, Vâsudeva lui remit l'enfant femelle en pleurs et très effrayée.
 
 41\. À la vue de l'enfant femelle, le roi fut très étonné et commença à penser que la Voix Céleste et les paroles du Voyant Nârada s'étaient révélées fausses.
 
@@ -271,7 +271,7 @@ Ainsi se termine le 23ème chapitre du 4ème Skandha du S'rî Mad Devi Bhâgavat
 
 ## Chapitre XXIV
 
-**Sur l'enlèvement de Pradyûmna** <span id="p340">[<sup><small>p. 340</small></sup>]</span> 1-2. Vyâsa dit :— D'autre part, là, dans la maison de Nanda, tôt le lendemain matin, commença la grande fête du jour de naissance. Kamsa apprit plus tard, par ses espions autant que par la rumeur générale, qu'à Gokula, dans la maison de Nanda, une fête très joyeuse et de grande envergure était en cours ; il savait aussi auparavant que les autres épouses de Vâsudeva, ses animaux et ses serviteurs séjournaient tous à la résidence de Nanda à Gokula.
+**Sur l'enlèvement de Pradyûmna** <span id="p340"><sup><small>[ p. 340 ]</small></sup></span> 1-2. Vyâsa dit :— D'autre part, là, dans la maison de Nanda, tôt le lendemain matin, commença la grande fête du jour de naissance. Kamsa apprit plus tard, par ses espions autant que par la rumeur générale, qu'à Gokula, dans la maison de Nanda, une fête très joyeuse et de grande envergure était en cours ; il savait aussi auparavant que les autres épouses de Vâsudeva, ses animaux et ses serviteurs séjournaient tous à la résidence de Nanda à Gokula.
 
 3-4. Ô Bhârata ! Ainsi, tout cela donna à Kamsa des raisons de soupçonner Gokula. Nârada, en particulier, lui avait dit auparavant que les habitants de Gokula, les bouviers, Nanda et d'autres, leurs épouses, Devakî et Vâsudeva, étaient tous des Devas incarnés ; et par conséquent, ses ennemis.
 
@@ -287,7 +287,7 @@ Ainsi se termine le 23ème chapitre du 4ème Skandha du S'rî Mad Devi Bhâgavat
 
 13\. L'ennemi-destructeur Krisna a enlevé les chagrins de son père et de sa mère et les a libérés de leurs prisons et a donné le royaume de Mathurâ à Ugrasena (le père de Kamsa).
 
-14-15. Vâsudeva, au grand esprit, muni de la triple ceinture d'herbe Munja, accomplit alors les cérémonies Upanayana (port du fil sacré autour du corps) de Râma et Krishna et leur fit accepter le vœu de Brahmacharya. Ils partirent ensuite pour l'ermitage du saint Muni S'andîpana afin d'acquérir la connaissance. Après y avoir appris tous les vidyâs (connaissances), ils retournèrent rapidement à Mathurâ. <span id="p342">[<sup><small>p. 342</small></sup>]</span> 16\. Les deux fils d'Ânakadundubhi y séjournèrent et, à l'âge de douze ans, ils devinrent compétents dans toutes les branches du savoir et devinrent très puissants.
+14-15. Vâsudeva, au grand esprit, muni de la triple ceinture d'herbe Munja, accomplit alors les cérémonies Upanayana (port du fil sacré autour du corps) de Râma et Krishna et leur fit accepter le vœu de Brahmacharya. Ils partirent ensuite pour l'ermitage du saint Muni S'andîpana afin d'acquérir la connaissance. Après y avoir appris tous les vidyâs (connaissances), ils retournèrent rapidement à Mathurâ. <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> 16\. Les deux fils d'Ânakadundubhi y séjournèrent et, à l'âge de douze ans, ils devinrent compétents dans toutes les branches du savoir et devinrent très puissants.
 
 17\. A cette époque, Jarâsandha, affligé par le meurtre de son gendre Kamsa, rassembla une armée forte et nombreuse et marcha sur Mathurâ.
 
@@ -305,7 +305,7 @@ Yavana signifie un Grec, un Ionien ; puis tout étranger, ou barbare (le mot s'a
 
 23\. Si vous voulez vivre dans le confort et l'aisance, vous devriez habiter dans ce pays ou ce lieu qui est adjacent à une mer ou à une montagne ; là où il n'y a pas de crainte d'un ennemi, les sages y resteront toujours.
 
-24\. Voyez ! Le Bhagavân Hari, effrayé, pour ainsi dire, par son ennemi, a trouvé refuge sur le corps du serpent S'esa à mille têtes comme lieu de repos et dort à l'aise et confortablement sur l'océan. Il semble probable que l'ennemi de Trîpurâ, le grand S'iva, réside également sur la montagne Kailâs'a. <span id="p343">[<sup><small>p. 343</small></sup>]</span> 25\. Nous aussi, nous sommes constamment inquiétés par nos ennemis ici ; c'est pourquoi nous ne devrions plus vivre ici. Nous devrions tous aller à Dwârkâ avec nos amis, nos proches et nos biens.
+24\. Voyez ! Le Bhagavân Hari, effrayé, pour ainsi dire, par son ennemi, a trouvé refuge sur le corps du serpent S'esa à mille têtes comme lieu de repos et dort à l'aise et confortablement sur l'océan. Il semble probable que l'ennemi de Trîpurâ, le grand S'iva, réside également sur la montagne Kailâs'a. <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> 25\. Nous aussi, nous sommes constamment inquiétés par nos ennemis ici ; c'est pourquoi nous ne devrions plus vivre ici. Nous devrions tous aller à Dwârkâ avec nos amis, nos proches et nos biens.
 
 26\. Garuda, le roi des oiseaux, nous a donné des informations détaillées sur la cité de Dwârkâ. Cette belle cité est située au bord de la mer, à proximité du mont Raivataka.
 
@@ -331,7 +331,7 @@ Yavana signifie un Grec, un Ionien ; puis tout étranger, ou barbare (le mot s'a
 
 37\. Le méchant Yavana, prenant Muchukunda pour S'rî Krishna, lui donna un bon coup de pied. Le puissant roi Muchukunda se releva, très en colère ; ses yeux devinrent rouges et réduisirent instantanément ce vicieux Yavana en cendres.
 
-38\. Lorsque Muchukunda brûla le Yavana, il vit Krishna aux yeux de lotus ; il s'inclina devant ce Déva suprême, Vâsudeva, et se rendit dans la forêt. <span id="p344">[<sup><small>p. 344</small></sup>]</span> 39\. S'rî Krisna retourna alors à la ville de Dwârkâ avec Râma et y fit d'Ugrasena le roi et commença à jouir à sa guise.
+38\. Lorsque Muchukunda brûla le Yavana, il vit Krishna aux yeux de lotus ; il s'inclina devant ce Déva suprême, Vâsudeva, et se rendit dans la forêt. <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> 39\. S'rî Krisna retourna alors à la ville de Dwârkâ avec Râma et y fit d'Ugrasena le roi et commença à jouir à sa guise.
 
 40\. Lors de la cérémonie de mariage de S'is'upâla, au palais du roi de Vidarbha, Janârdan Visnu enleva de force Rukminî, la mariée élue de l'assemblée de Svayambara (où le mari est auto-élu par la mariée elle-même) et l'épousa ensuite selon la règle appelée Râkhsasa Vidhi (l'une des huit formes de mariage dans la loi hindoue dans laquelle une fille est saisie de force et emmenée après la défaite ou la destruction de ses proches au combat).
 
@@ -349,7 +349,7 @@ Yavana signifie un Grec, un Ionien ; puis tout étranger, ou barbare (le mot s'a
 
 49\. Ô Mère ! Un ennemi mal intentionné a-t-il enlevé mon fils de la chambre d'accouchement ? Ou bien avez-vous fait cela pour vous moquer et vous amuser ? Il semble que l'un de mes ennemis ait agi ainsi pour m'insulter ; cependant, ô Mère ! Vous ne devriez pas placer votre fidèle dans une situation aussi honteuse.
 
-50\. Ô Mère ! Cette cité de Dwârakâ est bien gardée ; un fort très solide est construit en son milieu et ma place se trouve encore au milieu ; et la chambre où je couche est encore au milieu ; je dois donc dire que c'est à cause de ma malchance que l'enfant a été volé ! <span id="p345">[<sup><small>p. 345</small></sup>]</span> 51\. Ô Mère ! Je ne suis pas allé chez mon ennemi ; les Yâdavas n'y sont pas allés non plus ; cette cité est gardée par de vaillants soldats ; alors comment se fait-il, sous quel charme, que l'enfant ait été volé ? Ô Mère ! Je comprends maintenant que c'est grâce à Ta Mâyâ ; de telles choses sont courantes grâce à Ta Mâyâ dans les trois mondes.
+50\. Ô Mère ! Cette cité de Dwârakâ est bien gardée ; un fort très solide est construit en son milieu et ma place se trouve encore au milieu ; et la chambre où je couche est encore au milieu ; je dois donc dire que c'est à cause de ma malchance que l'enfant a été volé ! <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> 51\. Ô Mère ! Je ne suis pas allé chez mon ennemi ; les Yâdavas n'y sont pas allés non plus ; cette cité est gardée par de vaillants soldats ; alors comment se fait-il, sous quel charme, que l'enfant ait été volé ? Ô Mère ! Je comprends maintenant que c'est grâce à Ta Mâyâ ; de telles choses sont courantes grâce à Ta Mâyâ dans les trois mondes.
 
 52\. Ô Mère ! Si j'ignore tes plus profonds mystères, comment peut-il y avoir quelqu'un parmi les Jîvas à l'esprit étroit qui puisse connaître tes agissements ? Mes gardiens n'ont rien vu, ni où mon enfant a été emmené, ni qui l'a volé. Ô Mère ! J'en conclus qu'il est caché derrière l'écran de Ta Mâyâ.
 
@@ -363,7 +363,7 @@ Yavana signifie un Grec, un Ionien ; puis tout étranger, ou barbare (le mot s'a
 
 57\. Ô Déesse ! Les sages voyants disent que la naissance d'un enfant dans une maison est la plus grande félicité, et que la mort d'un enfant est la plus grande tristesse qui puisse s'abattre sur une maison. Alors, ô Mère ! Que faire dans cette situation ? Que dire de plus, sinon que mon cœur va éclater à cause de la disparition de mon enfant.
 
-58\. Ô Mère ! J'accomplirai tous les sacrifices nécessaires, prononcerai des vœux, accomplirai toutes sortes d'adorations pour l'entière satisfaction du Grand Destin (Ordonnateur des choses) ; qu'il Vous plaise d'enlever ma douleur. Ô Mère ! Si mon fils est vivant, veuillez me le montrer une fois. Mère ! Il n'y a personne d'autre que Vous qui soit pleinement capable de détruire cette douleur et ce chagrin qui font rage dans mon cœur. <span id="p346">[<sup><small>p. 346</small></sup>]</span> 59\. Vyâsa dit : — Celui qui met en pratique les choses considérées comme impraticables pour les Devas et qui enlève le fardeau de la Déesse Terre avec facilité et empressement, le même Sauveur du monde, S'rî Krishna, chanta ainsi des hymnes en adoration à la Grande Déesse. La Devî lui devint alors visible et dit.
+58\. Ô Mère ! J'accomplirai tous les sacrifices nécessaires, prononcerai des vœux, accomplirai toutes sortes d'adorations pour l'entière satisfaction du Grand Destin (Ordonnateur des choses) ; qu'il Vous plaise d'enlever ma douleur. Ô Mère ! Si mon fils est vivant, veuillez me le montrer une fois. Mère ! Il n'y a personne d'autre que Vous qui soit pleinement capable de détruire cette douleur et ce chagrin qui font rage dans mon cœur. <span id="p346"><sup><small>[ p. 346 ]</small></sup></span> 59\. Vyâsa dit : — Celui qui met en pratique les choses considérées comme impraticables pour les Devas et qui enlève le fardeau de la Déesse Terre avec facilité et empressement, le même Sauveur du monde, S'rî Krishna, chanta ainsi des hymnes en adoration à la Grande Déesse. La Devî lui devint alors visible et dit.
 
 60\. Ô Seigneur des Dévas ! Ne sois plus triste et misérable ; une malédiction pesait sur toi auparavant ; et, pour cette raison, le Daitya S'ambara a volé ton fils par sa magie démoniaque.
 
@@ -378,7 +378,7 @@ Ici se termine le vingt-quatrième chapitre du quatrième livre du S'rî Mad Dev
 
 ## Chapitre XXV
 
-**Sur la plus haute suprématie de Devî** <span id="p346">[<sup><small>p. 346</small></sup>]</span> 1\. Le Roi dit : — Ô Meilleur des Munis ! En entendant ces chagrins de S'rî Krisna, l'incarnation partielle de Visnu Bhagavân, je suis en doute sur vos paroles.
+**Sur la plus haute suprématie de Devî** <span id="p346"><sup><small>[ p. 346 ]</small></sup></span> 1\. Le Roi dit : — Ô Meilleur des Munis ! En entendant ces chagrins de S'rî Krisna, l'incarnation partielle de Visnu Bhagavân, je suis en doute sur vos paroles.
 
 2\. Voyez ! Bhagavân Vâsudeva est l'incarnation partielle de Nârâyana ; comment l'Asura S'ambara a-t-il pu dérober Son fils de la chambre mortuaire !
 
@@ -390,7 +390,7 @@ Ici se termine le vingt-quatrième chapitre du quatrième livre du S'rî Mad Dev
 
 6\. Vyâsa dit : — Ô Roi ! La Mâyâ appelée S'âmbhavî (Pârvatî) en est la cause ; elle fascine et trompe l'esprit des êtres humains. Ainsi nous le savons. Qui est-il en ce monde qui ne soit pas trompé par cette Mâyâ ?
 
-7\. Les Jîvas, dès leur naissance en tant qu'êtres humains, sont immédiatement envahis par les qualités humaines ; les qualités de Deva ou d'Asura, ou leurs natures, n'existent alors pas visiblement. <span id="p347">[<sup><small>p. 347</small></sup>]</span> 8-9. Ô Roi ! La faim, la soif, le sommeil, la peur, la lassitude, l'illusion, la tristesse, le doute, le plaisir, l'égoïsme, la vieillesse, la maladie, la mort, la non-connaissance, la connaissance, le déplaisir, l'envie, la jalousie, l'orgueil et la lassitude ; toutes ces qualités humaines se voient exister dans les incarnations humaines.
+7\. Les Jîvas, dès leur naissance en tant qu'êtres humains, sont immédiatement envahis par les qualités humaines ; les qualités de Deva ou d'Asura, ou leurs natures, n'existent alors pas visiblement. <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> 8-9. Ô Roi ! La faim, la soif, le sommeil, la peur, la lassitude, l'illusion, la tristesse, le doute, le plaisir, l'égoïsme, la vieillesse, la maladie, la mort, la non-connaissance, la connaissance, le déplaisir, l'envie, la jalousie, l'orgueil et la lassitude ; toutes ces qualités humaines se voient exister dans les incarnations humaines.
 
 10-11. Voyez ! Le voyageur nocturne Râksasa Mâricha prit, par sa Mâyâ, la forme d'un cerf doré et se présenta devant S'rî Râmchandra ; et Râmchandra n'en fut pas le moins du monde conscient. Puis, la disparition de Sîtâ, la mort de Jatâyu, le départ de Râma dans la forêt le jour même de son intronisation sur le trône d'Ayodhyâ ; la mort de son père suite à son deuil, tout cela S'rî Râmchandra l'ignora.
 
@@ -412,7 +412,7 @@ Ici se termine le vingt-quatrième chapitre du quatrième livre du S'rî Mad Dev
 
 20\. Voici aussi Râmachandra ne pouvait pas savoir que Sîtâ était partie pour Pâtâla ; un jour, il se mit en colère et fut sur le point de tuer son frère Laksmana.
 
-21\. Râma, le tueur des Râks'asa Khara, ignorait que Kâla Purusa venait à lui. Lui, incarné dans un corps humain, accomplit des actes tout à fait dignes d'un homme. De même, S'rî Krishna, le descendant de Yadu, prenant naissance humaine, accomplit tout à fait les actes d'un homme. Que peut-on encore dire à ce sujet ? <span id="p348">[<sup><small>p. 348</small></sup>]</span> 22\. Voilà ! Dès le début, par peur de Kamsa, il s'enfuit à Gokula ; ensuite, par peur de Jarâsandha, il s'enfuit à la cité de Dwârkâ.
+21\. Râma, le tueur des Râks'asa Khara, ignorait que Kâla Purusa venait à lui. Lui, incarné dans un corps humain, accomplit des actes tout à fait dignes d'un homme. De même, S'rî Krishna, le descendant de Yadu, prenant naissance humaine, accomplit tout à fait les actes d'un homme. Que peut-on encore dire à ce sujet ? <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> 22\. Voilà ! Dès le début, par peur de Kamsa, il s'enfuit à Gokula ; ensuite, par peur de Jarâsandha, il s'enfuit à la cité de Dwârkâ.
 
 23\. Connaissant tous les rites et cérémonies du Sanâtan Dharma (la Religion Éternelle), il enleva Rukminî, choisie comme épouse par S'is'upâla. Cet acte était très peu religieux de sa part.
 
@@ -430,7 +430,7 @@ Ici se termine le vingt-quatrième chapitre du quatrième livre du S'rî Mad Dev
 
 31-32. Le premier mois, il se nourrissait uniquement de fruits, méditait sur Shiva et répétait silencieusement le mantra Shiva. Il pratiquait ainsi des austérités très sévères. Le deuxième mois, il se nourrissait uniquement d'eau et se tenait sur une seule jambe. Le troisième mois, il se nourrissait uniquement d'air et se tenait sur le bout de son gros orteil.
 
-33-36. Ainsi s'écoula le temps. Au sixième mois, le dieu Rudra, tenant la Lune sur son front, fut satisfait de son ascèse et de sa dévotion et apparut devant Lui à cet endroit. Le dieu Mahâ Deva arriva sur un taureau ; il était accompagné de Brahmâ et Visnu, d'Indra et des autres Devas, Yakshas et Gandarbhas, et s'adressa ainsi : « Ô Krishna au noble esprit, descendant de Yadu ; je suis satisfait de ton ascèse sévère ; demande maintenant la faveur que tu désires ; je te l'accorderai à l'instant même. Je comble tous les désirs de tous mes dévots ; <span id="p349">[<sup><small>p. 349</small></sup>]</span> quel désir, alors, peut-il y avoir qui ne soit exaucé, lorsque je suis vu par les dévots ! »
+33-36. Ainsi s'écoula le temps. Au sixième mois, le dieu Rudra, tenant la Lune sur son front, fut satisfait de son ascèse et de sa dévotion et apparut devant Lui à cet endroit. Le dieu Mahâ Deva arriva sur un taureau ; il était accompagné de Brahmâ et Visnu, d'Indra et des autres Devas, Yakshas et Gandarbhas, et s'adressa ainsi : « Ô Krishna au noble esprit, descendant de Yadu ; je suis satisfait de ton ascèse sévère ; demande maintenant la faveur que tu désires ; je te l'accorderai à l'instant même. Je comble tous les désirs de tous mes dévots ; <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> quel désir, alors, peut-il y avoir qui ne soit exaucé, lorsque je suis vu par les dévots ! »
 
 37-38. Vyâsa dit : Le fils de Devakî fut très heureux de voir le Dieu S'amkara et se prosterna à ses pieds. Alors, ce Dieu suprême et éternel des Dévas se mit à réciter des hymnes à sa louange, d'une voix aussi profonde que le grondement d'un nuage.
 
@@ -450,7 +450,7 @@ Ici se termine le vingt-quatrième chapitre du quatrième livre du S'rî Mad Dev
 
 47-48. Ô Seigneur ! Afin de préserver la cause de la religion, j'ai dû céder le royaume le plus prospère à Ugrasena, à cause de la malédiction de Yayâti. Mes aînés l'ont fait roi des Yâdavas ; suivant leur exemple, je lui ai donné le royaume et je le sers désormais toujours comme son serviteur.
 
-49\. Ô S'ambhu ! La vie de chef de famille est extrêmement pénible ; elle rend dépendant de sa femme et va à l'encontre de sa religion. Nous sommes là, <span id="p350">[<sup><small>p. 350</small></sup>]</span> toujours dépendants des autres ; et on n'entend ni ne rêve même de se libérer de ces servitudes du monde. Oh ! Quelle ironie du destin.
+49\. Ô S'ambhu ! La vie de chef de famille est extrêmement pénible ; elle rend dépendant de sa femme et va à l'encontre de sa religion. Nous sommes là, <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> toujours dépendants des autres ; et on n'entend ni ne rêve même de se libérer de ces servitudes du monde. Oh ! Quelle ironie du destin.
 
 50\. Ô Destructeur de Cupidon ! Mon épouse Jâmbavatî, en voyant les fils de ma femme Rukminî, m'a exhorté à pratiquer cette Tapasyâ afin qu'elle puisse également avoir d'excellents fils.
 
@@ -472,7 +472,7 @@ Ici se termine le vingt-quatrième chapitre du quatrième livre du S'rî Mad Dev
 
 Remarque : Ici, il s'agit des Visnis et des Andhkas.
 
-62\. Alors toi et ton frère aîné Balabhadra (Balarâma) abandonnerez vos corps et monterez aux Cieux ; Ô Puissant ! Ne vous affligez pas des choses inévitables. <span id="p351">[<sup><small>p. 351</small></sup>]</span> 63\. Sachez qu'il n'y a pas de remède à ce qui arrivera inévitablement ; par conséquent, personne ne doit s'affliger pour eux ; c'est mon point de vue depuis toujours.
+62\. Alors toi et ton frère aîné Balabhadra (Balarâma) abandonnerez vos corps et monterez aux Cieux ; Ô Puissant ! Ne vous affligez pas des choses inévitables. <span id="p351"><sup><small>[ p. 351 ]</small></sup></span> 63\. Sachez qu'il n'y a pas de remède à ce qui arrivera inévitablement ; par conséquent, personne ne doit s'affliger pour eux ; c'est mon point de vue depuis toujours.
 
 64\. Ô Madhusûdana ! Après ta mort, à cause de la malédiction d'Astâvakra Muni, tes femmes seront enlevées de force par des brigands indomptables. Cela ne fait aucun doute.
 
@@ -494,7 +494,7 @@ Remarque : Ici, il s'agit des Visnis et des Andhkas.
 
 74\. Dans ces trois mondes, rien n'est plus élevé ni plus excellent qu'Elle. C'est pourquoi cette naissance ne peut être couronnée de succès que par le souvenir de cette Force suprême, la Parâ S'akti, et de sa place.
 
-75-77. Il faut toujours penser, sans distinction, à cette Mère du Monde Éternelle, ainsi : « Que je ne naisse pas dans une famille qui n'a pas cette Déesse Suprême pour Déité présidante ; je suis cette Déesse Bhagavatî et nulle autre ; je suis Brahmâ, intouchable par les chagrins. » Il faut d'abord écouter la bouche de son Guide Spirituel ; ensuite, en écoutant le Vedanta et <span id="p352">[<sup><small>p. 352</small></sup>]</span> autres écritures religieuses, il faut d'abord se faire une idée de cette Bhagavatî ; et alors, si l'on médite quotidiennement sur cette Déesse, le Soi Suprême incarné avec une dévotion unifiée, on obtiendra, en peu de temps, la Liberté Éternelle ; sinon, il n'y a aucune chance, même en accomplissant d'innombrables bonnes œuvres, de devenir libre.
+75-77. Il faut toujours penser, sans distinction, à cette Mère du Monde Éternelle, ainsi : « Que je ne naisse pas dans une famille qui n'a pas cette Déesse Suprême pour Déité présidante ; je suis cette Déesse Bhagavatî et nulle autre ; je suis Brahmâ, intouchable par les chagrins. » Il faut d'abord écouter la bouche de son Guide Spirituel ; ensuite, en écoutant le Vedanta et <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> autres écritures religieuses, il faut d'abord se faire une idée de cette Bhagavatî ; et alors, si l'on médite quotidiennement sur cette Déesse, le Soi Suprême incarné avec une dévotion unifiée, on obtiendra, en peu de temps, la Liberté Éternelle ; sinon, il n'y a aucune chance, même en accomplissant d'innombrables bonnes œuvres, de devenir libre.
 
 78\. S'vetâs'vatara et d'autres Risis au cœur pur ont obtenu cette libération des liens de Mâyâ en méditant, dans leur cœur, sur ce Soi Supérieur et rien d'autre.
 

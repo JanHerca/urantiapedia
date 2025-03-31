@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:59:21Z
 
 DIX-SEPTIÈME CONFÉRENCE. LE MAUVAIS <i>SRAMA<i>N</i>A.
 
-Un Nirgrantha qui est entré dans l'ordre, qui a appris la Loi, qui a reçu la discipline religieuse <span id="p78">[<sup><small>p. 78</small></sup>]</span> et qui a obtenu le bénéfice de Bôdhi qui est difficile à obtenir, peut peut-être ensuite commencer à vivre comme il l'entend. (1)
+Un Nirgrantha qui est entré dans l'ordre, qui a appris la Loi, qui a reçu la discipline religieuse <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> et qui a obtenu le bénéfice de Bôdhi qui est difficile à obtenir, peut peut-être ensuite commencer à vivre comme il l'entend. (1)
 
 (Il dira) J'ai un bon lit et de quoi me couvrir ; je me procure de la nourriture et de la boisson ; je sais tout ce qui arrive, mon ami ; pourquoi donc devrais-je étudier, monsieur ? (2)
 
@@ -50,7 +50,7 @@ Celui qui utilise un lit, une planche, une chaise, un siège ou son plumeau [^20
 
 Celui qui marche avec une grande hâte et sans souci, étant autoritaire et féroce, est appelé un mauvais <i>S</i>rama<i>n</i>a. (8)
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Celui qui inspecte les choses avec négligence [^205], jetant son chiffon au hasard, n'étant pas attentif à l'inspection des choses, est appelé un mauvais <i>S</i>rama<i>n</i>a. (9)
 
@@ -70,7 +70,7 @@ Celui qui mange après le coucher du soleil et qui, lorsqu'on l'exhorte, répond
 
 Celui qui abandonne son propre maître et suit les hérétiques, qui change continuellement d'école [^206], étant de mauvaise disposition, est appelé un mauvais <i>S</i>rama<i>n</i>a. (17)
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Celui qui a quitté sa propre maison et s'occupe dans la maison d'un autre, qui vit de la divination, est appelé un mauvais <i>S</i>rama<i>n</i>a. (18)
 

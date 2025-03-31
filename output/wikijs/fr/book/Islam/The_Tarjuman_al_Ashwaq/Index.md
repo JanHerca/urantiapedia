@@ -29,9 +29,9 @@ dateCreated: 2024-11-21T9:13:38Z
   </table>
 </figure>
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 ## I. PERSONNES, LIEUX ET LIVRES
 
@@ -185,7 +185,7 @@ Iblis, [49](./2#p49), [53](./2#p53), [98](./25#p98).
 
 Ibn al-'Adím, [5](./Introduction#p5).
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 Ibn Junayd al-Ifriqí, [97](./24#p97), [100](./25#p100)
 
@@ -337,7 +337,7 @@ Quss b. Dit, [11](./Introduction#p11).
 
 Quṭb, le, [114](./30#p114), [116](./30#p116), [123](./38#p123), [136](./48#p136), [139](./52#p139), [141](./54#p141), [143](./56#p143), [149](./61#p149).
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 ### R
 
@@ -447,7 +447,7 @@ az-Zawra, [112](./30#p112), [116](./30#p116), [138](./51#p138), [139](./52#p139)
 
 Zaynab, [54](./3#p54), [87](./20#p87), [89](./20#p89).
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 ## II. SUJETS ET TERMES TECHNIQUES
 
@@ -585,7 +585,7 @@ L'homme, l'organisme le plus parfait, [83](./18#p83).
 
 _al-manáẓir al-'ulá_, [48](./1#p48). _Voir_ Idées, le Divin.
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 _maqám_, [48](./1#p48).
 

@@ -38,7 +38,7 @@ dateCreated: 2025-1-18T19:34:13Z
 
 Il arriva alors, lorsque Jésus eut fini de raconter à ses disciples toutes les aventures qui étaient arrivées à Pistis Sophia lorsqu'elle était dans le chaos, et la manière dont elle avait chanté les louanges de la Lumière pour qu'elle la sauve et la conduise hors du chaos, et la conduise dans les douze éons, et aussi la manière dont elle l'avait sauvée de toutes les afflictions dans lesquelles les dirigeants du chaos l'avaient contrainte, parce qu'elle aspirait à aller vers la Lumière, que Jésus poursuivit son discours et dit à ses disciples : « Il arriva alors, après tout cela, que je pris Pistis Sophia et la conduisis dans le treizième éon, brillant d'une lumière insondable, la lumière qui m'entourait étant sans mesure. J'entrai dans la région des vingt-quatre invisibles, brillant d'une lumière insondable. Et ils furent dans une grande agitation ; ils regardèrent et virent Sophia, qui était avec moi. Elle, ils la connaissaient, mais moi, ils ignoraient qui j'étais, mais me tenaient pour une sorte de de l'émanation du Pays de Lumière.
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Lorsque Pistis Sophia vit ses semblables, les invisibles, elle fut transportée de joie et d'exultation. Elle désira proclamer les merveilles que j'avais accomplies sur elle, ici-bas, sur la terre des hommes, jusqu'à ce que je la sauve. Elle vint au milieu des invisibles et, parmi eux, me chanta des louanges en disant :
 
@@ -62,7 +62,7 @@ Lorsque Pistis Sophia vit ses semblables, les invisibles, elle fut transportée 
 
 « 9. Quand ma force m'a manqué, tu m'as donné de la force ; et quand ma lumière m'a manqué, tu m'as rempli de lumière purifiée.
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 « 10. J'étais dans l'obscurité et dans l'ombre du chaos, lié par les puissantes chaînes du chaos, et aucune lumière n'était en moi.
 
@@ -88,7 +88,7 @@ Lorsque Pistis Sophia vit ses semblables, les invisibles, elle fut transportée 
 
 « 21. Je te rendrai grâce, ô Lumière, de m'avoir sauvé, et pour tes œuvres merveilleuses dans la race humaine. »
 
-« Voici donc le chant que Pistis Sophia <span id="p151">[<sup><small>p. 151</small></sup>]</span> a prononcé au milieu des vingt-quatre invisibles, désirant qu'ils connaissent toutes les merveilles que j'avais accomplies pour elle, et désirant qu'ils sachent que je suis allé dans le monde des hommes et que je leur ai donné les mystères de la Hauteur. Maintenant donc, que celui qui est élevé dans sa pensée s'avance et dise la solution du chant que Pistis Sophia a prononcé. »
+« Voici donc le chant que Pistis Sophia <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> a prononcé au milieu des vingt-quatre invisibles, désirant qu'ils connaissent toutes les merveilles que j'avais accomplies pour elle, et désirant qu'ils sachent que je suis allé dans le monde des hommes et que je leur ai donné les mystères de la Hauteur. Maintenant donc, que celui qui est élevé dans sa pensée s'avance et dise la solution du chant que Pistis Sophia a prononcé. »
 
 ## CHAPITRE 82
 
@@ -174,7 +174,7 @@ Jésus répondit à Marie : « Qu'y a-t-il dans ce monde qui leur soit semblable
 
 <small>De la gloire des douze éons.</small>
 
-« Et si je vous conduis dans les douze éons, alors vous verrez la gloire dans laquelle ils sont ; et à cause de la grande gloire, la région des dirigeants du Destin comptera pour vous comme les ténèbres <span id="p157">[<sup><small>p. 157</small></sup>]</span> des ténèbres, et elle aura pour vous la condition d'un grain de poussière à cause de la grande distance qui la sépare d'elle et à cause de la grande condition, elle est considérablement plus grande qu'eux, comme je vous l'ai déjà dit à un autre moment.
+« Et si je vous conduis dans les douze éons, alors vous verrez la gloire dans laquelle ils sont ; et à cause de la grande gloire, la région des dirigeants du Destin comptera pour vous comme les ténèbres <span id="p157"><sup><small>[ p. 157 ]</small></sup></span> des ténèbres, et elle aura pour vous la condition d'un grain de poussière à cause de la grande distance qui la sépare d'elle et à cause de la grande condition, elle est considérablement plus grande qu'eux, comme je vous l'ai déjà dit à un autre moment.
 
 <small>De la gloire du treizième éon.</small>
 
@@ -200,7 +200,7 @@ Et si je vous conduis dans la région de ceux de la Droite, alors vous verrez la
 
 Il arriva donc que, lorsque Jésus eut fini de dire ces paroles à ses disciples, Marie-Madeleine s’avança et dit : « Mon Seigneur, ne sois pas en colère contre moi si je t’interroge, car nous t’interrogeons sur tout avec précision. »
 
-Jésus répondit à Marie : « Demande ce que tu désires interroger, et je te le révélerai ouvertement, sans similitude. Tout ce sur quoi tu interroges, je te le dirai avec précision et certitude. Je te perfectionnerai en toute puissance et en toutes plénitudes, de l’intérieur des intérieurs à l’extérieur des extérieurs, de l’Ineffable aux ténèbres des ténèbres, de sorte que vous serez appelées « les plénitudes parfaites <span id="p159">[<sup><small>p. 159</small></sup>]</span> dans toutes les gnoses. » Maintenant donc, Marie, demande ce que tu peux interroger, et je te le révélerai avec une grande joie et une grande exultation. »
+Jésus répondit à Marie : « Demande ce que tu désires interroger, et je te le révélerai ouvertement, sans similitude. Tout ce sur quoi tu interroges, je te le dirai avec précision et certitude. Je te perfectionnerai en toute puissance et en toutes plénitudes, de l’intérieur des intérieurs à l’extérieur des extérieurs, de l’Ineffable aux ténèbres des ténèbres, de sorte que vous serez appelées « les plénitudes parfaites <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> dans toutes les gnoses. » Maintenant donc, Marie, demande ce que tu peux interroger, et je te le révélerai avec une grande joie et une grande exultation. »
 
 <small>Marie interroge à nouveau Jésus.</small>
 
@@ -212,7 +212,7 @@ Et Jésus répondit et dit à Marie : « C'est bien beau, en effet, de poser des
 
 <small>Des douze sauveurs et de leurs régions dans l'héritage.</small>
 
-« J'ai donc dit : « Ceci aura lieu <span id="p160">[<sup><small>p. 160</small></sup>]</span> au moment de la consommation \[et\] de l'ascension de l'univers. » Les douze sauveurs du Trésor et les douze ordres de chacun d'eux, qui sont les émanations des sept Voix et des cinq Arbres, ils seront avec moi dans la région des héritages de la Lumière ; étant rois avec moi dans mon royaume, et chacun d'eux étant roi sur ses émanations, et de plus chacun d'eux étant roi selon sa gloire, le grand selon sa grandeur et le petit selon sa petitesse.
+« J'ai donc dit : « Ceci aura lieu <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> au moment de la consommation \[et\] de l'ascension de l'univers. » Les douze sauveurs du Trésor et les douze ordres de chacun d'eux, qui sont les émanations des sept Voix et des cinq Arbres, ils seront avec moi dans la région des héritages de la Lumière ; étant rois avec moi dans mon royaume, et chacun d'eux étant roi sur ses émanations, et de plus chacun d'eux étant roi selon sa gloire, le grand selon sa grandeur et le petit selon sa petitesse.
 
 « Et le sauveur des émanations de la première Voix sera dans la région des âmes de ceux qui ont reçu le premier mystère du Premier Mystère dans mon royaume.
 
@@ -224,7 +224,7 @@ Et Jésus répondit et dit à Marie : « C'est bien beau, en effet, de poser des
 
 « Et le cinquième sauveur de la cinquième Voix du Trésor de la Lumière sera dans la région des âmes de ceux qui ont reçu le cinquième mystère du Premier Mystère dans les héritages de la Lumière.
 
-<span id="p161">[<sup><small>p. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 « Et le sixième sauveur des émanations de la sixième Voix du Trésor de la Lumière sera dans la région des âmes de ceux qui ont reçu le sixième mystère du Premier Mystère.
 
@@ -240,7 +240,7 @@ Et Jésus répondit et dit à Marie : « C'est bien beau, en effet, de poser des
 
 « Et le douzième sauveur, c'est-à-dire le sauveur des émanations du cinquième Arbre du Trésor de la Lumière, sera dans la région des âmes de ceux qui ont reçu le douzième mystère du Premier Mystère dans les héritages de la Lumière.
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 <small>De l'ascension de ceux du Trésor dans l'Héritage.</small>
 
@@ -256,7 +256,7 @@ Et Jésus répondit et dit à Marie : « C'est bien beau, en effet, de poser des
 
 « Et Yew et le gardien du voile de la Grande Lumière, et le récepteur de Lumière, et les deux grands guides, et le grand Sabaoth, le Bon, seront rois dans le premier sauveur de la première Voix du Trésor de la Lumière, \[le sauveur\] qui sera dans **(193)** la région de ceux qui ont reçu le premier mystère du Premier Mystère. Car en vérité, Yew et le gardien de la région de ceux de la Droite et Melchisédech, le grand récepteur de Lumière, et les deux grands guides sont issus de la lumière purifiée et totalement pure du premier Arbre jusqu'au cinquième.
 
-« Yew est en vérité le surveillant de la Lumière, qui est sorti le premier de la pure lumière du premier Arbre ; d'autre part, le gardien du voile de ceux de la Droite est sorti du second Arbre ; et les deux guides de nouveau <span id="p163">[<sup><small>p. 163</small></sup>]</span> sont sortis de la lumière pure et entièrement purifiée des troisième et quatrième Arbres du Trésor de la Lumière ; Melchisédech est de nouveau sorti du cinquième Arbre ; d'autre part, Sabaoth, le Bon, que j'ai appelé mon père, est sorti de Yew, le surveillant de la Lumière.
+« Yew est en vérité le surveillant de la Lumière, qui est sorti le premier de la pure lumière du premier Arbre ; d'autre part, le gardien du voile de ceux de la Droite est sorti du second Arbre ; et les deux guides de nouveau <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> sont sortis de la lumière pure et entièrement purifiée des troisième et quatrième Arbres du Trésor de la Lumière ; Melchisédech est de nouveau sorti du cinquième Arbre ; d'autre part, Sabaoth, le Bon, que j'ai appelé mon père, est sorti de Yew, le surveillant de la Lumière.
 
 « Ces six-là, par ordre du Premier Mystère, le dernier Secours les a placés dans la région de ceux de la Droite, pour l'organisation du rassemblement de la lumière supérieure issue des éons des dirigeants, des mondes et de toutes les races qui les composent. Je vous dirai pour chacun d'eux la tâche qui lui a été confiée dans l'expansion de l'univers. En raison de l'importance de la tâche qui leur a été confiée, **(194)** ils seront co-rois dans le premier sauveur de la première Voix du Trésor de la Lumière, qui sera dans la région des âmes de ceux qui ont reçu le premier mystère du Premier Mystère.
 
@@ -264,7 +264,7 @@ Et Jésus répondit et dit à Marie : « C'est bien beau, en effet, de poser des
 
 « Et la Vierge de Lumière et le grand guide du Milieu, que les dirigeants des éons ont coutume d'appeler le Grand If d'après le nom d'un grand dirigeant qui est dans leur région, lui et la Vierge de Lumière et ses douze ministres, de qui vous avez reçu votre forme et de qui vous avez reçu le pouvoir, ils seront tous rois avec le premier sauveur de la première Voix dans la région des âmes de ceux qui recevront le premier mystère du Premier Mystère dans les héritages de la Lumière.
 
-« Et les quinze aides des sept vierges de la Lumière qui sont au milieu, ils s'étendront dans les régions des douze sauveurs, <span id="p164">[<sup><small>p. 164</small></sup>]</span> et le reste des anges du milieu, chacun selon sa gloire, régneront avec moi dans les héritages de la Lumière. Et je régnerai sur eux tous dans les héritages de la Lumière.
+« Et les quinze aides des sept vierges de la Lumière qui sont au milieu, ils s'étendront dans les régions des douze sauveurs, <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> et le reste des anges du milieu, chacun selon sa gloire, régneront avec moi dans les héritages de la Lumière. Et je régnerai sur eux tous dans les héritages de la Lumière.
 
 <small>Mais cela n’arrivera pas avant la consommation de l’éon.</small>
 
@@ -278,11 +278,11 @@ Et Jésus répondit et dit à Marie : « C'est bien beau, en effet, de poser des
 
 <small>De l'ascension des âmes des parfaits.</small>
 
-« [Les âmes] viendront toutes, chacune au moment où elle recevra les mystères ; et tous les dirigeants qui se seront repentis passeront et entreront dans la région du Milieu. Et ceux du Milieu les baptiseront et leur donneront l'onction spirituelle et les scelleront des <span id="p165">[<sup><small>p. 165</small></sup>]</span> sceaux de leurs mystères. Et ils passeront par ceux de toutes les régions du Milieu, et ils passeront par la région de la Droite et l'intérieur de la région des neuf gardes et l'intérieur de la région des Sauveurs-Jumeaux et l'intérieur de la région des trois **(196)** Amens et des douze sauveurs et l'intérieur des cinq Arbres et des sept Voix. Chacun leur donne son sceau de son mystère, et ils passent à l'intérieur de tous et vont dans la région des héritages de la Lumière ; et chacun demeure dans la région jusqu'à laquelle il a reçu des mystères dans les héritages de la Lumière.
+« [Les âmes] viendront toutes, chacune au moment où elle recevra les mystères ; et tous les dirigeants qui se seront repentis passeront et entreront dans la région du Milieu. Et ceux du Milieu les baptiseront et leur donneront l'onction spirituelle et les scelleront des <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> sceaux de leurs mystères. Et ils passeront par ceux de toutes les régions du Milieu, et ils passeront par la région de la Droite et l'intérieur de la région des neuf gardes et l'intérieur de la région des Sauveurs-Jumeaux et l'intérieur de la région des trois **(196)** Amens et des douze sauveurs et l'intérieur des cinq Arbres et des sept Voix. Chacun leur donne son sceau de son mystère, et ils passent à l'intérieur de tous et vont dans la région des héritages de la Lumière ; et chacun demeure dans la région jusqu'à laquelle il a reçu des mystères dans les héritages de la Lumière.
 
 <small>Du rang des âmes des parfaits.</small>
 
-En un mot, toutes les âmes des hommes qui recevront les mystères de la Lumière précéderont tous les dirigeants repentants, et elles précéderont toutes celles de la région du Milieu et celles de toute la région de la Droite, et elles précéderont celles de toute la région du Trésor de la Lumière. En un mot, elles précéderont toutes celles de la région [du Trésor], et elles précéderont toutes celles des régions du premier Commandement, et elles passeront à l'intérieur de toutes et entreront dans l'Héritage de la Lumière jusqu'à la région de leur mystère ; et chacun demeurera dans la région jusqu'à laquelle il a reçu les mystères. Et ceux de la région du Milieu et de la Droite, et ceux de toute la région du Trésor, chacun demeurera dans la région de l'ordre dans lequel il a été placé depuis le commencement, jusqu'à ce que l'univers soit ressuscité. Et chacun d'eux accomplit son économie à laquelle il a été assigné, relativement au rassemblement des âmes qui <span id="p166">[<sup><small>p. 166</small></sup>]</span> ont reçu les mystères, relativement à cette économie, afin qu'ils puissent sceller **(197)** toutes les âmes qui recevront les mystères et qui passeront par leur intérieur vers l'Héritage de la Lumière.
+En un mot, toutes les âmes des hommes qui recevront les mystères de la Lumière précéderont tous les dirigeants repentants, et elles précéderont toutes celles de la région du Milieu et celles de toute la région de la Droite, et elles précéderont celles de toute la région du Trésor de la Lumière. En un mot, elles précéderont toutes celles de la région [du Trésor], et elles précéderont toutes celles des régions du premier Commandement, et elles passeront à l'intérieur de toutes et entreront dans l'Héritage de la Lumière jusqu'à la région de leur mystère ; et chacun demeurera dans la région jusqu'à laquelle il a reçu les mystères. Et ceux de la région du Milieu et de la Droite, et ceux de toute la région du Trésor, chacun demeurera dans la région de l'ordre dans lequel il a été placé depuis le commencement, jusqu'à ce que l'univers soit ressuscité. Et chacun d'eux accomplit son économie à laquelle il a été assigné, relativement au rassemblement des âmes qui <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> ont reçu les mystères, relativement à cette économie, afin qu'ils puissent sceller **(197)** toutes les âmes qui recevront les mystères et qui passeront par leur intérieur vers l'Héritage de la Lumière.
 
 « Maintenant donc, Marie, voici la parole sur laquelle tu m'interroges avec précision et certitude. Pour le reste, que celui qui a des oreilles pour entendre entende. »
 
@@ -306,7 +306,7 @@ Il arriva donc qu'après toutes ces paroles, Jésus continua son discours et dit
 
 <small>Que les régions au-delà des Aides sont indescriptibles.</small>
 
-« Et ensuite, je vous parlerai aussi de la gloire du Secours qui est au-dessus du petit Secours. Mais je ne pourrai pas vous parler des régions de ceux qui sont au-dessus de tous les Secours ; **(199)** car il n'existe aucun type en ce monde pour les décrire, car il n'existe en ce monde aucune ressemblance qui leur soit semblable, à laquelle je puisse les comparer, ni aucune grandeur ni lumière qui leur soit semblable, non seulement en ce monde, mais ils n'ont pas non plus de ressemblance avec ceux de la Hauteur de la Justice depuis leur région jusqu'en haut. C'est pourquoi, en fait, il n'existe aucun moyen de les décrire en ce monde, à cause de la grande gloire de ceux de la Hauteur et de leur <span id="p168">[<sup><small>p. 168</small></sup>]</span> grandeur immense. C'est pourquoi, il n'existe aucun moyen de les décrire en ce monde. »
+« Et ensuite, je vous parlerai aussi de la gloire du Secours qui est au-dessus du petit Secours. Mais je ne pourrai pas vous parler des régions de ceux qui sont au-dessus de tous les Secours ; **(199)** car il n'existe aucun type en ce monde pour les décrire, car il n'existe en ce monde aucune ressemblance qui leur soit semblable, à laquelle je puisse les comparer, ni aucune grandeur ni lumière qui leur soit semblable, non seulement en ce monde, mais ils n'ont pas non plus de ressemblance avec ceux de la Hauteur de la Justice depuis leur région jusqu'en haut. C'est pourquoi, en fait, il n'existe aucun moyen de les décrire en ce monde, à cause de la grande gloire de ceux de la Hauteur et de leur <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> grandeur immense. C'est pourquoi, il n'existe aucun moyen de les décrire en ce monde. »
 
 Il arriva donc, lorsque Jésus eut fini de dire ces paroles à ses disciples, que Marie-Madeleine s'avança et dit à Jésus : « Mon Seigneur, ne t'irrite pas si je t'interroge, car je t'accable sans cesse. Maintenant donc, mon Seigneur, ne t'irrite pas si je t'interroge sur tout avec précision et certitude. Car mes frères l'annonceront au genre humain, afin qu'il entende, se repente et soit sauvé des jugements violents des dirigeants mauvais, qu'il atteigne les hauteurs et hérite du Royaume de Lumière ; car, mon Seigneur, nous sommes compatissants non seulement envers nous-mêmes, mais envers tout le genre humain, afin qu'il soit sauvé de tous les jugements violents. Maintenant donc, mon Seigneur, c'est pourquoi nous l'interrogeons sur tout avec certitude ; car mes frères l'annoncent au genre humain tout entier, **(200)** afin qu'il échappe aux dirigeants violents des ténèbres et soit sauvé des mains des oppresseurs violents des ténèbres les plus lointaines. »
 

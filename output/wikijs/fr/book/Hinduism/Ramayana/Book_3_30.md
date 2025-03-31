@@ -61,7 +61,7 @@ Avec le nez coupé et l'oreille mutilée :
 Mes entailles saignaient comme une rivière,
 Je t'ai cherché et j'ai été consolé.
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 Ces deux fois sept géants, courageux et forts,
 Tu as envoyé pour venger le tort,
@@ -185,7 +185,7 @@ Et les étoiles brillaient dans un emblème coûteux.
 Sa bannière était suspendue sur des épées flamboyantes,
 Et de douces cloches, toujours tintantes, se balançaient.
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Cette puissante armée avec épée et bouclier
 Et la rame était prête pour le champ :
@@ -305,7 +305,7 @@ Au paradis avec mes flèches acérées.
 Poussé par une fureur guerrière,
 Cela pourrait causer la mort même de la Mort.
 
-<span id="p256">[<sup><small>p. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 Je ne chercherai plus ma maison
 Jusqu'à ce que mes flèches pointues aient tué
@@ -419,7 +419,7 @@ Ton bras guerrier, je le sais, pourrait frapper
 Mais ce jour-là, je me battrais seul
 Jusqu'à ce que tous les démons soient renversés.
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 Il parla et Lakshman ne répondit rien.
 Il apporta ses flèches et son arc,
@@ -542,7 +542,7 @@ Le chef au bras fort agitait son arme.
 Dès que les enfants de la nuit
 J'ai vu Khara se précipiter vers le combat,
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 Ses seigneurs poussent un cri surnaturel et puissant
 Ils suivirent leur chef et se rassemblèrent près d'eux.
@@ -664,7 +664,7 @@ Une pluie torrentielle d'arbres feuillus.
 Combat sauvage et merveilleux, l'œil pour effrayer,
 Et dresser sur la tête chaque cheveu tremblant,
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 Comme les démons qui aimaient errer
 La nuit, l'héroïque Rama s'efforçait !
@@ -782,7 +782,7 @@ Et résonnèrent bruyamment leurs cris joyeux,
 « Honneur à Rama ! » noblement fait !
 Tu as bien combattu, fils de Kakutstha !
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 Mais les trois grands, l'armée qui menait,
 Furieux de voir leur chef mort,
@@ -904,7 +904,7 @@ Que des coursiers attelés tiraient avec rapidité,
 Comme une immense colline avec un triple sommet
 Il se précipita vers le prince pour le chercher,
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 Toujours, comme un gros nuage, envoyant
 Sa pluie de flèches accompagnée de nombreux cris
@@ -1010,7 +1010,7 @@ Rama a saigné de nombreuses flèches.
 Haut sur sa voiture, la rose géante
 Préparé dans un conflit mortel pour fermer,
 
-<span id="p262">[<sup><small>p. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 Et tous les esprits le virent debout
 Comme Yama avec son nœud coulant à la main.
@@ -1132,7 +1132,7 @@ Par cupidité ou par convoitise, une vie de péché,
 Comme une dame de brahmane, insensée,
 Mange la grêle tombée [^476] et meurt.
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Ta main a tué le pur et le bon,
 Les saints ermites du bois de Dandak,
@@ -1254,7 +1254,7 @@ Le mal en pensée, en parole et en acte.
 Ma main prendra ta vie
 Alors que Garud [^477] s'emparait du jus divin.
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 Toi, déchiré par les flèches, tu mourras aujourd'hui.
 Ton corps reposera sur le sol,
@@ -1372,7 +1372,7 @@ Et une fermeté comme celle de Vishnu !
 Ainsi ayant chanté, le train brillant
 Ils se sont à nouveau tournés vers leurs demeures célestes.
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 Puis les grands saints de race royale
 Et la station la plus élevée cherchait l'endroit,

@@ -48,7 +48,7 @@ Est-ce le narcisse des jardins, doté de pouvoirs visuels, ou sa joue, comme la 
 
 Je délire d'amour pour elle ; mais que mes moqueurs voient les torrents de mes larmes, qui n'ont pas de fin !
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Ô Abla, mon cœur souffre des tortures par amour pour toi : cette séparation fréquente et ces échos me remplissent de douleur.
 

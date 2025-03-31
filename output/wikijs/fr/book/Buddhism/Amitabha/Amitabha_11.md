@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Açvaghosha avait des conversations quotidiennes avec Kanishka, auxquelles non seulement ses amis Charaka et le roi de Magadha, mais aussi la princesse Bhadraçrî, sa future épouse, avaient désormais l'habitude de se joindre.
 
@@ -46,13 +46,13 @@ Un jour, Subâhu fut retenu par d'importantes affaires d'État, et lorsqu'il fit
 
 – Mon plaisir ? s’écria le roi désolé. Ne me demande pas quel est mon plaisir. Je ne vois que mon devoir, et c’est de vous sauver ou de mourir avec vous !
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 Kanishka était un homme d’actes, non de paroles. Il ordonna à Charaka de hisser immédiatement sur la tour du palais un drapeau bleu, qui était le signe secret pour appeler les généraux gandhâra qui campaient aux environs de la ville. S’étant renseigné sur la situation et ayant appris que toutes les portes étaient aux mains des conspirateurs, il demanda au roi de faire venir en sa présence le premier ministre traître qui était à la tête de la conspiration, indiquant, comme si de rien n’était, qu’il désirait lui parler.
 
 Le premier ministre entra, et le roi lui parla gracieusement de sa fidélité au roi Subâhu et au royaume de Magadha, et dit que lui-même, soucieux d'honorer le peuple de Magadha, souhaitait lui témoigner quelque reconnaissance et lui conférer quelque faveur, à lui, le plus fidèle serviteur du roi Subâhu.
 
-Pendant que le roi Kanishka passait son temps à ne rien faire, le premier ministre se sentait mal à l’aise, car ses complices, les généraux du sud, attendaient le signal pour vaincre les quelques gardes étrangers, fermer les portes et prendre possession du palais. Kanishka <span id="p85">[<sup><small>p. 85</small></sup>]</span> s’enquit de sa santé, de sa prospérité générale, de ses enfants, de ses frères et sœurs, jusqu’à ce que le premier ministre perde patience et dise : « Sire, permettez-moi de me retirer ; un certain nombre de mes amis des provinces du sud, des hommes de grande importance dans leurs pays lointains, sont arrivés et sont impatients de me rencontrer ainsi que mon souverain. »
+Pendant que le roi Kanishka passait son temps à ne rien faire, le premier ministre se sentait mal à l’aise, car ses complices, les généraux du sud, attendaient le signal pour vaincre les quelques gardes étrangers, fermer les portes et prendre possession du palais. Kanishka <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> s’enquit de sa santé, de sa prospérité générale, de ses enfants, de ses frères et sœurs, jusqu’à ce que le premier ministre perde patience et dise : « Sire, permettez-moi de me retirer ; un certain nombre de mes amis des provinces du sud, des hommes de grande importance dans leurs pays lointains, sont arrivés et sont impatients de me rencontrer ainsi que mon souverain. »
 
 Avec une courtoisie royale qui ne pouvait être refusée, le roi Kanishka répondit : « Laissez-moi vous accompagner pour les saluer. Vos amis sont mes amis, et les vassaux de mon très noble allié le roi Subâhu sont mes alliés. »
 
@@ -81,7 +81,7 @@ Le roi Kanishka raconta alors l'histoire de Brahmadatta, le puissant roi de Bén
 
 Le roi Kanishka était un bon conteur, et les Indiens, qu'ils soient de haute ou de basse naissance, aiment entendre une histoire bien racontée, même s'ils la connaissent par cœur. Aussi les conspirateurs furent-ils comme envoûtés et oublièrent-ils leurs mauvais desseins ; ils ne remarquèrent pas non plus que la salle commençait à se remplir de plus en plus des officiers du roi de Gandhâra. Ils écoutèrent les aventures du prince Longue-Vie ; comment, au cours d'une chasse, il fut laissé seul avec le roi Brahmadatta dans la forêt, comment le roi s'étendit et s'endormit, comment le prince tira son épée, comment le roi fut effrayé lorsqu'il se réveilla et apprit qu'il était au pouvoir du fils de son ennemi ; et enfin comment chacun accorda à l'autre sa vie et fit la paix, démontrant ainsi la sagesse de la maxime selon laquelle la haine ne peut être apaisée par la haine, mais est apaisée par l'amour, et par l'amour seulement.[18](/fr/book/Buddhism/Amitabha/Amitabha_16#an_18)
 
-Lorsque le roi eut terminé l’histoire du prince Longue-Vie, la salle était bondée d’officiers armés de l’armée du Gandhâra. Voyant son avantage, le roi Kanishka, éprouvant la satisfaction de celui qui a remporté une grande victoire au combat, s’arrêta et jeta un regard bon enfant sur le groupe de conspirateurs. <span id="p90">[<sup><small>p. 90</small></sup>]</span> Il resta aussi maître de lui-même qu’un maître d’école enseignant à une classe de garçons rebelles. « Je suis impatient d’être en paix avec le monde entier », dit-il, « mais la question se pose : que faire des traîtres et des conspirateurs qui se méprennent sur mes bonnes intentions et ne tolèrent pas la bienveillance de notre grand maître ? » Puis, s’adressant au premier ministre du Magadha par son nom complet et son titre, il ajouta : « Donne-moi ton avis, mon ami. J’avais l’intention de favoriser ton bien-être, alors que tu essayais de m’ôter la vie. Que dois-je faire de toi et de tes associés ? »
+Lorsque le roi eut terminé l’histoire du prince Longue-Vie, la salle était bondée d’officiers armés de l’armée du Gandhâra. Voyant son avantage, le roi Kanishka, éprouvant la satisfaction de celui qui a remporté une grande victoire au combat, s’arrêta et jeta un regard bon enfant sur le groupe de conspirateurs. <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> Il resta aussi maître de lui-même qu’un maître d’école enseignant à une classe de garçons rebelles. « Je suis impatient d’être en paix avec le monde entier », dit-il, « mais la question se pose : que faire des traîtres et des conspirateurs qui se méprennent sur mes bonnes intentions et ne tolèrent pas la bienveillance de notre grand maître ? » Puis, s’adressant au premier ministre du Magadha par son nom complet et son titre, il ajouta : « Donne-moi ton avis, mon ami. J’avais l’intention de favoriser ton bien-être, alors que tu essayais de m’ôter la vie. Que dois-je faire de toi et de tes associés ? »
 
 Le premier ministre fut bouleversé. Il tomba à genoux et sanglota : « Tu es aussi sage que l’Éveillé, le Tathâgata Omniscient. Si seulement tu étais aussi son égal en miséricorde et en compassion. Tu ne devrais jamais regretter de m’avoir pardonné ma transgression ! »
 
@@ -89,7 +89,7 @@ Le roi Kanishka ne répondit pas, mais regarda autour de lui et jeta des regards
 
 Açvaghosha dit : « Ce n’est pas moi, monsieur, mais vous qui êtes le roi. Prononcez votre jugement selon votre propre jugement. Je suis persuadé que les graines de bonté tomberont ici sur une bonne terre. »
 
-« Merci, vénérable monsieur. J’ai appris du Grand Maître de tous les êtres que ne haïr personne est la plus haute sagesse. Mais un roi est responsable du bien-être de son peuple et ne peut laisser un crime impuni. Le devoir d’un juge est la justice. Dans le cas présent, je ne pense pas que j’approuverais votre action s’il s’agissait d’une trahison absolue, mais j’y vois un trait rédempteur qui est votre patriotisme, aussi malavisé soit-il. Levez-vous, messieurs, et si vous voulez promettre de bannir immédiatement de votre cœur tout mensonge, toute rancune et toute envie, venez me serrer la main en signe de votre <span id="p92">[<sup><small>p. 92</small></sup>]</span> fidélité à la fois à votre auguste souverain, le roi de Magadha, et à moi-même, son allié et frère sur le trône. »
+« Merci, vénérable monsieur. J’ai appris du Grand Maître de tous les êtres que ne haïr personne est la plus haute sagesse. Mais un roi est responsable du bien-être de son peuple et ne peut laisser un crime impuni. Le devoir d’un juge est la justice. Dans le cas présent, je ne pense pas que j’approuverais votre action s’il s’agissait d’une trahison absolue, mais j’y vois un trait rédempteur qui est votre patriotisme, aussi malavisé soit-il. Levez-vous, messieurs, et si vous voulez promettre de bannir immédiatement de votre cœur tout mensonge, toute rancune et toute envie, venez me serrer la main en signe de votre <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> fidélité à la fois à votre auguste souverain, le roi de Magadha, et à moi-même, son allié et frère sur le trône. »
 
 <figure class="table chapter-navigator">
   <table>

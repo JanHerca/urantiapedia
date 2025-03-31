@@ -80,7 +80,7 @@ Il y a la doctrine des Kriyâvâdins [^700], qui a été expliquée précédemme
 
 « Celui qui a l'intention de tuer un être vivant mais ne le fait pas par son corps, et celui qui en tue un sans le savoir, tous deux sont affectés par cet acte par un léger contact seulement, mais le démérite (dans leur cas) n'est pas pleinement développé [^701]. » (25)
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 « Il y a trois manières de commettre des péchés : par sa propre activité, par commission, par approbation (de l'acte). » (26)
 

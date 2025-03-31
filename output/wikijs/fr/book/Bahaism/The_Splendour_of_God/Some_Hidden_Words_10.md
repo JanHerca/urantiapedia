@@ -40,7 +40,7 @@ Un seul pas te sépare du plan de la Proximité et de l’Arbre Exalté de l’A
 
 Dépassez les degrés inférieurs de l’imagination et élevez-vous vers les hauteurs de la Certitude. Ouvrez l’œil de la Vérité, afin de pouvoir contempler la Beauté Radieuse, et dites : « Béni soit Dieu, le Plus Excellent des Créateurs ! »
 
-Écoutez vraiment : l'œil mortel ne percevra jamais la Beauté Éternelle ; et l'esprit mort <span id="p108">[<sup><small>p. 108</small></sup>]</span> ne se délecte que de l'argile sans vie ; car ce qui se ressemble voit ce qui se ressemble et a de l'affinité avec ce qui est de son espèce.
+Écoutez vraiment : l'œil mortel ne percevra jamais la Beauté Éternelle ; et l'esprit mort <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> ne se délecte que de l'argile sans vie ; car ce qui se ressemble voit ce qui se ressemble et a de l'affinité avec ce qui est de son espèce.
 
 Sois aveugle pour pouvoir contempler ma beauté. Sois sourd pour pouvoir entendre ma douce mélodie et ma voix. Sois ignorant pour pouvoir profiter d’une partie de ma connaissance. Sois pauvre pour pouvoir obtenir une part éternelle de la mer de ma richesse éternelle.
 
@@ -54,7 +54,7 @@ Ne vous contentez pas de la beauté mortelle, rejetez la beauté éternelle et n
 
 Mais après avoir obtenu ces choses, tu étais si voilé par toi-même que tes yeux ne pouvaient pas contempler la Beauté du Bien-Aimé, et ta main n'atteignait pas le bord du vêtement de l'Ami. Étonnez-vous de cela, ô possesseurs de perspicacité.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Ô mon ami de la parole ! Réfléchis un peu ! As-tu déjà entendu parler d’un bien-aimé et d’un étranger qui habitent dans le même cœur ? C’est pourquoi, renvoie l’étranger, afin que le bien-aimé puisse entrer dans sa demeure.
 
@@ -68,7 +68,7 @@ Hélas ! Hélas ! Ô amoureux de la passion ! Avec la rapidité de l'éclair, vo
 
 Vous n’avez pas respiré un souffle désintéressé, ni une brise d’abnégation n’est venue du jardin de vos cœurs.
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Vous avez jeté aux vents les conseils miséricordieux du Bien-Aimé, vous les avez effacés de la tablette de votre esprit et vous êtes devenus comme de vils animaux se régalant dans les pâturages de la luxure et du désir.
 
@@ -106,7 +106,7 @@ Aucune paix ne t'est destinée, sinon en t'éloignant de toi-même et en venant 
 
 Mon amour est ma forteresse. Quiconque y entre est sauvé et en sécurité ; quiconque s'en détourne s'égare et périt.
 
-Dieu, singulier et seul, demeure dans son propre lieu, qui est saint au-dessus de l'espace et du temps, <span id="p113">[<sup><small>p. 113</small></sup>]</span> mention et expression, signe, description et définition, hauteur et profondeur.
+Dieu, singulier et seul, demeure dans son propre lieu, qui est saint au-dessus de l'espace et du temps, <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> mention et expression, signe, description et définition, hauteur et profondeur.
 
 Ô mon Dieu ! Ô mon Dieu ! Orne la tête de tes élus de la couronne de l'Amour, et leurs tempes de la parure de la vertu.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ### CHAPITRE XIII.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 6. Si un cerf entre dans une maison, et qu'un homme l'enferme, il est coupable ; si deux l'enferment, ils sont absous ; si un homme ne peut l'enfermer, et que deux l'enferment donc, ils sont coupables. [^144] R. Siméon les absout.
 
-§ 7. Si un homme se place dans la porte \[entrée, pour empêcher le cerf de ressortir\], mais ne la remplit pas \[complètement\], et qu'un second se place \[à côté de lui\] et la remplit, le second est coupable. Si le premier se place dans la porte \[entrée\] et la remplit, et qu'un second vienne se placer à ses côtés, <span id="p57">[<sup><small>p. 57</small></sup>]</span>, même si le premier se lève ensuite et s'en va \[laissant le second dans l'entrée\], le premier est coupable, et le second est absous. Car à quoi cela ressemble-t-il ? C'est comme s'il avait fermé sa maison à clé pour protéger ses biens, et qu'on y trouve un cerf enfermé.
+§ 7. Si un homme se place dans la porte \[entrée, pour empêcher le cerf de ressortir\], mais ne la remplit pas \[complètement\], et qu'un second se place \[à côté de lui\] et la remplit, le second est coupable. Si le premier se place dans la porte \[entrée\] et la remplit, et qu'un second vienne se placer à ses côtés, <span id="p57"><sup><small>[ p. 57 ]</small></sup></span>, même si le premier se lève ensuite et s'en va \[laissant le second dans l'entrée\], le premier est coupable, et le second est absous. Car à quoi cela ressemble-t-il ? C'est comme s'il avait fermé sa maison à clé pour protéger ses biens, et qu'on y trouve un cerf enfermé.
 
 <figure class="table chapter-navigator">
   <table>

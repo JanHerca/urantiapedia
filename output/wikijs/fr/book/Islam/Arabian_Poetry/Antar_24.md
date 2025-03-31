@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 Antar a enduré de nombreux jours et semaines de suspense torturant, sa seule source de consolation étant la compagnie du roi Zoheir, jusqu'à ce que Shiboob revienne enfin avec des nouvelles d'Abla.
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 « Après avoir traversé plusieurs villes du Yémen, dit Shiboob, je suis arrivé à Sana et à Aden, et j'ai rencontré de nombreuses difficultés jusqu'à ce que j'atteigne la tribu de Tey. C'est là que j'ai trouvé Abla, sous la puissance de Moofrij : là, elle s'occupe des chameaux et des moutons. Il l'a vêtue de vêtements de cuir brut, et la fait servir dans les plus humbles fonctions jour et nuit. Sa mère aussi la menace, et la traite durement dans ses paroles, de sorte qu'elle pleure aussi bien quand elle se lève que quand elle se couche. Elle invoque ton nom, et cherche son secours habituel auprès de toi nuit et jour. »
 
@@ -56,7 +56,7 @@ Demande à mes soupirs brûlants qui montent en haut : ils te diront la passion 
 
 Par votre violence vous surmontez ma faiblesse : je n'ai ni la patience ni la résignation pour la supporter.
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 Ô oiseau du tamaris ! — toute la nuit, penché, il pleure sa compagne qui est partie et ne revient pas ; —
 

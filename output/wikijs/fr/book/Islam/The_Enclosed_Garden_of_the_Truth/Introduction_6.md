@@ -57,7 +57,7 @@ Il demande à Sanâ'î de ne pas répéter le dicton « _La paresse est plus dou
 
 Sanâ'î nous dit qu'il se soumit aux conseils de son ami, mais qu'il fit valoir les difficultés de logement et de nourriture, car le travail ne pouvait être accompli sans amis et sans abri. Ahmad ben Mas'ûd lui construisit alors une maison, lui donna une allocation pour son entretien pendant un an et lui envoya également une provision de vêtements. Il fut ainsi en mesure d'achever et d'organiser ses écrits sans aucun souci ni anxiété. La préface se termine par les éloges de son généreux ami.
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

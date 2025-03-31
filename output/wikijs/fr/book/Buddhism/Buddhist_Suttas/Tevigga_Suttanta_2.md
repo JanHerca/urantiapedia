@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 <span id="Court"></span>
 
@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « Ceci aussi, (&c., voir § II, 2.)[^2]
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 4\. Rejetant le mensonge, il s'abstient de dire des faussetés. Il dit la vérité, et ne s'en écarte jamais ; fidèle et digne de confiance, il ne trompe pas son prochain.
 
@@ -92,7 +92,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 Fin des courts paragraphes sur la conduite.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 <span id="Milieu"></span>
 
@@ -108,7 +108,7 @@ Fin des courts paragraphes sur la conduite.
 
 3\. « Ou alors que certains Brahmanes Sama<i>n</i>a, qui vivent de la nourriture fournie par les fidèles, continuent d'assister à des spectacles publics : danses, chants, concerts, représentations théâtrales, récitations, musique instrumentale, cérémonies funéraires, tambours, bals, gymnastique, acrobaties, fêtes en l'honneur des morts, combats d'éléphants, de chevaux, de buffles, de taureaux, de chèvres, de béliers, de coqs et de cailles, jeux de gourdin, boxe, lutte, escrime, rassemblements, marches et revues de troupes. Lui, en revanche, s'abstient de tels spectacles publics. »
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 « Ceci aussi (&c., voir § II, 2.)
 
@@ -120,7 +120,7 @@ Fin des courts paragraphes sur la conduite.
 
 « Ceci aussi (&c., voir § II, 2.)
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 6\. « Ou alors que certains Brahmanes Samana, qui vivent de la nourriture fournie par les fidèles, continuent à se livrer à l'usage d'objets pour la parure de leur personne : onguents ; huiles parfumées ; bains parfumés ; shampooings ; miroirs ; antimoine pour les sourcils et les cils ; fleurs ; cosmétiques ; dentifrices ; bracelets ; diadèmes ; belles cannes ; diadèmes ; épées ; parapluies ; pantoufles brodées ; bandeaux ; bijoux ; éventails en queue de buffle ; et longs vêtements blancs. Lui, en revanche, s'abstient de l'usage de tels objets pour la parure de sa personne. »
 
@@ -146,7 +146,7 @@ Fin des courts paragraphes sur la conduite.
 
 Fin des paragraphes intermédiaires sur la conduite.
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 <span id="Long"></span>
 
@@ -174,7 +174,7 @@ Fin des paragraphes intermédiaires sur la conduite.
 
 4\. « Ou alors que certains Brahmanes Sama<i>n</i>a, qui vivent de la nourriture fournie par les fidèles, continuent à gagner leur vie par des arts aussi bas et des pratiques mensongères que celles-ci : c'est-à-dire en prédisant...
 
-« Il y aura une éclipse de lune. » « Il y aura une éclipse de soleil. » « Il y aura une éclipse de planète. » « Le soleil et la lune seront en conjonction. » « Le soleil et la lune seront en <span id="p198">[<sup><small>p. 198</small></sup>]</span> opposition. » « Les planètes seront en conjonction. » « Les planètes seront en opposition. » « Il y aura des chutes de météores et des éclairs ardents dans l'atmosphère. » « Il y aura des tremblements de terre, des coups de foudre et des éclairs en fourche. » « Le lever et le coucher du soleil, de la lune ou des planètes seront nuageux ou clairs. » Et puis : « L'éclipse de lune aura tel ou tel résultat. » « L'éclipse de soleil aura tel ou tel résultat. » « L'éclipse de lune aura tel ou tel résultat. » « Le soleil et la lune étant en conjonction auront tel ou tel résultat. » « Le soleil et la lune étant en opposition auront tel ou tel résultat. » « Les planètes étant en conjonction auront tel ou tel résultat. » « Les planètes étant en opposition auront tel ou tel résultat. » « Les météores qui tombent et les coruscations de feu dans l'atmosphère auront tel ou tel résultat. » « Les tremblements de terre, les coups de foudre et les éclairs en fourche auront tel ou tel résultat. » « Le lever et le coucher du soleil, de la lune ou des planètes, nuageux ou clair, auront tel ou tel résultat. »
+« Il y aura une éclipse de lune. » « Il y aura une éclipse de soleil. » « Il y aura une éclipse de planète. » « Le soleil et la lune seront en conjonction. » « Le soleil et la lune seront en <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> opposition. » « Les planètes seront en conjonction. » « Les planètes seront en opposition. » « Il y aura des chutes de météores et des éclairs ardents dans l'atmosphère. » « Il y aura des tremblements de terre, des coups de foudre et des éclairs en fourche. » « Le lever et le coucher du soleil, de la lune ou des planètes seront nuageux ou clairs. » Et puis : « L'éclipse de lune aura tel ou tel résultat. » « L'éclipse de soleil aura tel ou tel résultat. » « L'éclipse de lune aura tel ou tel résultat. » « Le soleil et la lune étant en conjonction auront tel ou tel résultat. » « Le soleil et la lune étant en opposition auront tel ou tel résultat. » « Les planètes étant en conjonction auront tel ou tel résultat. » « Les planètes étant en opposition auront tel ou tel résultat. » « Les météores qui tombent et les coruscations de feu dans l'atmosphère auront tel ou tel résultat. » « Les tremblements de terre, les coups de foudre et les éclairs en fourche auront tel ou tel résultat. » « Le lever et le coucher du soleil, de la lune ou des planètes, nuageux ou clair, auront tel ou tel résultat. »
 
 « Lui, au contraire, s'abstient de chercher à gagner sa vie par des arts aussi bas, par des pratiques aussi mensongères.
 
@@ -182,7 +182,7 @@ Fin des paragraphes intermédiaires sur la conduite.
 
 5\. « Ou alors que certains Brahmanes Samana, qui vivent de la nourriture fournie par les fidèles, continuent à gagner leur vie par des arts aussi bas et des pratiques mensongères que celles-ci : c'est-à-dire en prédisant…
 
-« Il y aura des pluies abondantes. » « Il y aura des pluies insuffisantes. » « Il y aura une récolte abondante. » « Il y aura la famine. » « Il y aura la tranquillité. » « Il y aura des troubles. » « La saison sera malsaine. » « La saison sera saine. » <span id="p199">[<sup><small>p. 199</small></sup>]</span> Ou en rédigeant des actes, en établissant des comptes, en administrant des pilules, en faisant des vers ou en argumentant des points de casuistique.
+« Il y aura des pluies abondantes. » « Il y aura des pluies insuffisantes. » « Il y aura une récolte abondante. » « Il y aura la famine. » « Il y aura la tranquillité. » « Il y aura des troubles. » « La saison sera malsaine. » « La saison sera saine. » <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> Ou en rédigeant des actes, en établissant des comptes, en administrant des pilules, en faisant des vers ou en argumentant des points de casuistique.
 
 « Lui, au contraire, s'abstient de chercher à gagner sa vie par des arts aussi bas, par des pratiques aussi mensongères.
 

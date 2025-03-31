@@ -32,15 +32,15 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span> p. 101
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span> p. 101
 
 ## DEUXIÈME PARTIE
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ![](/image/book/Buddhism/La_Vie_du_Bouddha/10200.jpg)
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 
 Le Bouddha ne bougea pas. Il resta sous l'arbre, les jambes croisées. Il était rempli de félicité d'avoir atteint la connaissance parfaite. Il pensa : « J'ai trouvé la délivrance. » Il resta une semaine entière sous l'arbre de la connaissance, immobile.
@@ -83,7 +83,7 @@ Désespérés, ils retournèrent auprès de leur père. « Père », s'écria Ra
 
 « L’amour ne lui fera jamais de mal », dit Trishna, « car il a su résister à nos charmes. »
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 « Oh », soupira Arati, « comme il nous a cruellement punis. »
 
@@ -131,7 +131,7 @@ Le Bienheureux n'avait pas de coupe pour recevoir l'aumône. Il ne savait que fa
 
 « En vérité, il serait inconvenant pour un moine de recevoir l’aumône dans un bol en or. »
 
-Et il refusa les coupes d'or. Les Dieux lui apportèrent alors des coupes d'argent, qu'il refusa également. <span id="p109">[<sup><small>p. 109</small></sup>]</span> Il refusa également les coupes d'émeraude, et il n'accepta que les coupes en pierre.
+Et il refusa les coupes d'or. Les Dieux lui apportèrent alors des coupes d'argent, qu'il refusa également. <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> Il refusa également les coupes d'émeraude, et il n'accepta que les coupes en pierre.
 
 Il reçut ensuite les gâteaux que les marchands lui offraient. Après avoir fini de manger, il dit :
 

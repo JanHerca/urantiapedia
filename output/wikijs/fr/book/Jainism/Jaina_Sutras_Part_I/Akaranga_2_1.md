@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 DEUXIÈME LIVRE
 
@@ -54,7 +54,7 @@ Un moine ou une nonne en tournée de mendicité ne doit pas accepter comme aumô
 
 Mais lorsqu'ils reconnaissent ces choses comme ayant été accomplies plus d'une fois, comme ayant été accomplies deux fois, trois fois, alors ils peuvent les accepter, s'ils les obtiennent ; car elles sont pures et acceptables. (6)
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 Un moine ou une nonne désirant entrer dans la demeure d'un maître de maison pour recueillir des aumônes ne doit pas entrer ou sortir avec un hérétique ou un maître de maison ; ou un moine qui évite toute nourriture interdite, etc., avec quelqu'un qui ne le fait pas. (7)
 
@@ -66,7 +66,7 @@ Un moine ou une nonne en tournée de mendicité ne doit pas donner, immédiateme
 
 Français Un moine ou une nonne en tournée de mendicité ne doit pas accepter de nourriture, etc., d'un maître de maison qu'il sait donner par respect pour un Nirgrantha, au nom d'un autre ascète, de la nourriture, etc., qu'il a achetée, volée ou prise, bien qu'elle ne devait pas être prise ni donnée, mais qu'elle a été prise de force, en agissant de manière pécheresse envers toutes sortes d'êtres vivants ; car une telle nourriture, etc., préparée par un autre homme [^326] ou par le donateur lui-même, apportée de la maison ou non apportée de la maison, appartenant au donateur ou ne lui appartenant pas, partagée ou goûtée, ou non partagée ou goûtée, est impure et inacceptable.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 Dans ce précepte, remplacez « au nom d'un compagnon ascétique » par (2) « au nom de plusieurs compagnons ascétiques », (3) « au nom d'une compagne ascétique », (4) « au nom de plusieurs compagnes ascétiques » ; il y aura donc quatre préceptes analogues. (11)
 
@@ -83,7 +83,7 @@ Ainsi je dis. (14)
 
 
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 ## DEUXIÈME LEÇON.
 
@@ -91,7 +91,7 @@ Un moine ou une nonne en tournée de mendicité ne doit pas accepter de nourritu
 
 Un moine ou une nonne en tournée de mendicité peut accepter de la nourriture, etc., provenant de familles non blâmées et non censurées, à savoir des familles nobles, des familles distinguées, des familles royales, des familles appartenant à la lignée d'Ikshvâku, de Hari, des familles de vachers, des familles de Vai<i>s</i>ya, des familles de barbiers, des familles de charpentiers, des familles de takurs, des familles de tisserands ; car une telle nourriture, etc., est pure et acceptable. (2)
 
-Un moine ou une nonne en tournée de mendicité ne doit pas accepter de nourriture, etc., dans le cas suivant : lors d'assemblées, ou lors d'offrandes aux mânes, ou lors d'une fête d'Indra, de Skanda, de Rudra, de Mukunda, de démons, de Yakshas ou de serpents, ou lors d'une fête en l'honneur d'une tombe, d'un sanctuaire, d'un arbre, d'une colline, d'une grotte, d'un puits, d'un réservoir, d'un étang, d'une rivière, d'un lac, de la mer ou d'une mine ; lorsque, lors de fêtes similaires, de nombreux Sramanas et Brâhma, <span id="p93">[<sup><small>p. 93</small></sup>]</span> invités, indigents et mendiants sont reçus avec de la nourriture, etc. (tout comme au § 1, jusqu'à) acceptable. (3)
+Un moine ou une nonne en tournée de mendicité ne doit pas accepter de nourriture, etc., dans le cas suivant : lors d'assemblées, ou lors d'offrandes aux mânes, ou lors d'une fête d'Indra, de Skanda, de Rudra, de Mukunda, de démons, de Yakshas ou de serpents, ou lors d'une fête en l'honneur d'une tombe, d'un sanctuaire, d'un arbre, d'une colline, d'une grotte, d'un puits, d'un réservoir, d'un étang, d'une rivière, d'un lac, de la mer ou d'une mine ; lorsque, lors de fêtes similaires, de nombreux Sramanas et Brâhma, <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> invités, indigents et mendiants sont reçus avec de la nourriture, etc. (tout comme au § 1, jusqu'à) acceptable. (3)
 
 Mais lorsqu'il constate que tous ont reçu leur part et savourent leur repas, il s'adresse à la femme, à la sœur, à la belle-fille, à la nourrice, au serviteur ou à l'esclave du maître de maison et lui dit : « Ô toi qui as vécu longtemps ! (ou, ô sœur !) veux-tu me donner à manger ? » Après ces paroles du mendiant, l'autre peut apporter de la nourriture, etc., et la lui donner. Qu'il la demande ou que l'autre la lui donne, il peut l'accepter ; car elle est pure et acceptable. (4)
 
@@ -132,7 +132,7 @@ Un moine ou une nonne entrant ou sortant des lieux extérieurs pour des pratique
 
 Un moine ou une nonne errant de village en village devrait le faire avec la tenue complète [^335]. (8)
 
-Un moine ou une nonne ne doit pas, avec son équipement complet, entrer ou sortir de la demeure d'un maître de maison pour recueillir des aumônes, ni des lieux extérieurs destinés aux pratiques religieuses et à l'étude, ni errer de village en village en s'apercevant qu'une pluie forte et répandue tombe, ou qu'un brouillard fort et répandu <span id="p97">[<sup><small>p. 97</small></sup>]</span> arrive, ou qu'un vent fort soulève beaucoup de poussière, ou que de nombreux insectes volants sont dispersés et tombent. (9)
+Un moine ou une nonne ne doit pas, avec son équipement complet, entrer ou sortir de la demeure d'un maître de maison pour recueillir des aumônes, ni des lieux extérieurs destinés aux pratiques religieuses et à l'étude, ni errer de village en village en s'apercevant qu'une pluie forte et répandue tombe, ou qu'un brouillard fort et répandu <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> arrive, ou qu'un vent fort soulève beaucoup de poussière, ou que de nombreux insectes volants sont dispersés et tombent. (9)
 
 Un moine ou une nonne en tournée de mendicité ne doit pas accepter de nourriture, etc., dans les maisons des kshatriyas, des rois, des messagers et des proches des rois, qu'ils soient à l'intérieur ou à l'extérieur, ni les inviter ; car une telle nourriture est impure et inacceptable. Ainsi dis-je. (10)
 
@@ -149,7 +149,7 @@ Un moine ou une moniale désirant entrer dans la demeure d'un maître de maison 
 
 Certains mendiants disent à ceux qui suivent les mêmes règles de conduite, vivent (au même endroit), ou errent de village en village : « C'est en effet un petit village, il est trop peuplé, et il n'est pas grand ; révérends messieurs, allez dans les villages éloignés pour demander l'aumône [^337]. »
 
-Un mendiant peut avoir des parents ou des relations, par exemple un maître de maison ou sa femme, ou des filles, ou des belles-filles, ou des nourrices, ou des esclaves ou des domestiques, hommes et femmes. Il a l'intention de visiter les familles avec lesquelles il est lié par parenté ou par alliance avant (le moment de la mendicité) : « J'y apporterai (pense-t-il) de la nourriture ou des friandises ou du lait ou du lait caillé épais ou du beurre frais ou du ghee ou du sucre ou de l'huile ou du miel ou de la viande ou de l'alcool, un plat de sésame [^338], ou du sucre brut, ou un repas de blé grillé [^339], ou un repas de caillé et de sucre avec des épices [^340] ; après avoir mangé et bu, et avoir nettoyé et frotté le bol d'aumône, je vais, <span id="p99">[<sup><small>p. 99</small></sup>]</span> avec d'autres mendiants, entrer ou sortir de la demeure d'un maître de maison pour recueillir des aumônes. Comme cela serait un péché, il ne devrait pas le faire. (4)
+Un mendiant peut avoir des parents ou des relations, par exemple un maître de maison ou sa femme, ou des filles, ou des belles-filles, ou des nourrices, ou des esclaves ou des domestiques, hommes et femmes. Il a l'intention de visiter les familles avec lesquelles il est lié par parenté ou par alliance avant (le moment de la mendicité) : « J'y apporterai (pense-t-il) de la nourriture ou des friandises ou du lait ou du lait caillé épais ou du beurre frais ou du ghee ou du sucre ou de l'huile ou du miel ou de la viande ou de l'alcool, un plat de sésame [^338], ou du sucre brut, ou un repas de blé grillé [^339], ou un repas de caillé et de sucre avec des épices [^340] ; après avoir mangé et bu, et avoir nettoyé et frotté le bol d'aumône, je vais, <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> avec d'autres mendiants, entrer ou sortir de la demeure d'un maître de maison pour recueillir des aumônes. Comme cela serait un péché, il ne devrait pas le faire. (4)
 
 Mais, au temps convenable, entrant là avec les autres mendiants, il pourra y accepter dans ces familles ou dans d'autres des aumônes qui lui sont agréables et données par respect pour son vêtement, et manger son repas.
 
@@ -166,7 +166,7 @@ Lorsqu'un moine ou une nonne, entrant dans la demeure d'un maître de maison, co
 
 Lorsqu'un moine ou une nonne en tournée de mendicité rencontre des murs ou des portes, ou des verrous ou des trous pour les installer, ils doivent, s'il y a un chemin détourné, les éviter (les obstacles) et ne pas continuer tout droit.
 
-Le Kevalin dit : Voici la raison : en marchant là, il pourrait trébucher ou tomber ; lorsqu'il trébuche ou tombe, son corps pourrait être contaminé par des excréments, de l'urine, de l'humeur flegmatique, du mucus, de la salive, de la bile, de la matière, du sperme ou du sang. Et si son corps est souillé, il ne doit pas l'essuyer ou <span id="p100">[<sup><small>p. 100</small></sup>]</span> frotter ou gratter ou nettoyer [^342] ou le réchauffer ou le sécher sur le sol nu ou la terre humide \[^343]\] sur un rocher ou un morceau d'argile contenant de la vie, ou du bois habité par des vers, ou quoi que ce soit contenant des œufs, des êtres vivants, etc. (jusqu'à) des toiles d'araignée ; mais il doit d'abord mendier de la paille ou des feuilles, du bois ou un tesson de poterie, qui doit être exempt de poussière, se retirer avec lui dans un endroit isolé et sur un tas de cendres ou d'os, etc. (voir II, 1, 1, § 2), qu'il a examiné et nettoyé à plusieurs reprises, il doit essuyer ou frotter avec circonspection, réchauffer ou sécher (son corps). (2)
+Le Kevalin dit : Voici la raison : en marchant là, il pourrait trébucher ou tomber ; lorsqu'il trébuche ou tombe, son corps pourrait être contaminé par des excréments, de l'urine, de l'humeur flegmatique, du mucus, de la salive, de la bile, de la matière, du sperme ou du sang. Et si son corps est souillé, il ne doit pas l'essuyer ou <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> frotter ou gratter ou nettoyer [^342] ou le réchauffer ou le sécher sur le sol nu ou la terre humide \[^343]\] sur un rocher ou un morceau d'argile contenant de la vie, ou du bois habité par des vers, ou quoi que ce soit contenant des œufs, des êtres vivants, etc. (jusqu'à) des toiles d'araignée ; mais il doit d'abord mendier de la paille ou des feuilles, du bois ou un tesson de poterie, qui doit être exempt de poussière, se retirer avec lui dans un endroit isolé et sur un tas de cendres ou d'os, etc. (voir II, 1, 1, § 2), qu'il a examiné et nettoyé à plusieurs reprises, il doit essuyer ou frotter avec circonspection, réchauffer ou sécher (son corps). (2)
 
 Lorsqu'un moine ou une nonne en tournée de mendicité perçoit une vache vicieuse venant vers eux, ou un buffle vicieux venant vers eux, ou un homme vicieux, un cheval, un éléphant, un lion, un tigre, un loup, une panthère, un ours, une hyène, un <i>sarabha</i>, un shakal, un chat, un chien, un sanglier, un renard, un léopard venant vers eux, ils doivent, s'il y a un chemin détourné, les éviter avec circonspection et ne pas continuer tout droit. (3)
 
@@ -193,7 +193,7 @@ Ainsi je dis. (6)
 
 ## SIXIÈME LEÇON.
 
-Lorsqu'un moine ou une nonne en tournée de mendicité s'aperçoit que de nombreux animaux affamés se sont rencontrés et se rassemblent à la recherche de nourriture, par exemple des poulets ou des cochons, ou que des corbeaux <span id="p103">[<sup><small>p. 103</small></sup>]</span> se sont rencontrés et se rassemblent, là où une offrande est jetée à terre, ils doivent, s'il y a un chemin détourné, les éviter et ne pas continuer tout droit. (1)
+Lorsqu'un moine ou une nonne en tournée de mendicité s'aperçoit que de nombreux animaux affamés se sont rencontrés et se rassemblent à la recherche de nourriture, par exemple des poulets ou des cochons, ou que des corbeaux <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> se sont rencontrés et se rassemblent, là où une offrande est jetée à terre, ils doivent, s'il y a un chemin détourné, les éviter et ne pas continuer tout droit. (1)
 
 Un moine ou une nonne en tournée de mendicité ne doit pas se tenir appuyé contre le montant de la porte de la demeure du maître de maison, ni contre son évier ou son crachoir, ni en vue ou en face de sa salle de bain ou de ses latrines ; il ne doit pas non plus contempler une meurtrière, un endroit réparé ou une fissure (de la maison) ou les bains, en montrant dans cette direction avec un bras ou en pointant avec un doigt, en s'inclinant de haut en bas. (2)
 
@@ -201,7 +201,7 @@ Ils ne doivent pas non plus mendier en montrant du doigt le maître de maison, e
 
 S'il voit quelqu'un manger, par exemple le maître de maison ou sa femme, etc., il devrait, après réflexion, dire : « Ô toi qui vis longtemps ! (ou, ô sœur !) veux-tu me donner un peu de cette nourriture ? » Après ces mots, l'autre pourrait se laver ou s'essuyer la main, le pot, la cuillère ou l'assiette à l'eau froide ou chaude [^348]. Il devrait, après réflexion, dire : « Ô toi qui vis longtemps ! (ou, ô sœur !) ne te lave ni ne t'essuie la main, le pot, la cuillère ou l'assiette ! Si tu veux me donner quelque chose, donne-le tel quel ! » Après ces mots, l'autre pourrait lui en donner une part, après s'être lavé ou essuyé la main, etc., à l'eau froide ou chaude. Mais il ne devrait rien accepter d'une telle main, etc., qui ait été préalablement traité ainsi ; car c'est impur et inacceptable. (4)
 
-Il faut également savoir que la nourriture, etc., est impure <span id="p104">[<sup><small>p. 104</small></sup>]</span> et inacceptable si elle est donnée avec une main mouillée, même si la main n'est pas mouillée volontairement. (5)
+Il faut également savoir que la nourriture, etc., est impure <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> et inacceptable si elle est donnée avec une main mouillée, même si la main n'est pas mouillée volontairement. (5)
 
 La même règle s'applique à une main humide, etc., à une main poussiéreuse, etc., et à une main souillée par de l'argile, de la rosée, de l'orpiment, du vermillon, du réalgar, du collyre, de la craie blanche, de l'alun, de la farine de riz, du kukkusa, des drogues moulues. (6)
 
@@ -230,7 +230,7 @@ Un moine ou une nonne en tournée de mendicité ne doit pas accepter de nourritu
 
 Un moine ou une nonne en tournée de mendicité ne devrait pas accepter de nourriture, etc., déposée sur le corps terrestre, le corps éolien ou le corps ardent, car une telle nourriture est impure et inacceptable. Le Kevalin dit : Voici la raison : un laïc pourrait, pour le bien du mendiant, attiser ou raviver le feu, et en retirer la nourriture, etc., pour la donner au mendiant. C’est pourquoi il a été dit, etc., qu’il ne devrait pas accepter de telle nourriture. (4)
 
-Français Quand un moine ou une nonne en tournée de mendicité voit qu'un laïc pourrait, pour le bien du mendiant, <span id="p107">[<sup><small>p. 107</small></sup>]</span> refroidir de la nourriture trop chaude, etc., en soufflant ou en l'éventant avec un van, un éventail, une feuille de palmier, une branche ou une partie de branche, une queue d'oiseau, une queue de paon, un tissu, un coin de tissu, la main ou la bouche, il devrait, après réflexion, dire (au maître de maison ou à sa femme) : « Ô toi qui vis longtemps ! (ou, ô sœur !) ne souffle pas et n'évente pas la nourriture chaude, etc., avec un van, etc. ; mais si tu veux me la donner, donne-la telle quelle. » Après ces mots, l'autre pourrait la donner après l'avoir soufflée ou l'avoir ventilée avec un van, etc. ils ne devraient pas accepter une telle nourriture, car elle est impure et inacceptable. (5)
+Français Quand un moine ou une nonne en tournée de mendicité voit qu'un laïc pourrait, pour le bien du mendiant, <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> refroidir de la nourriture trop chaude, etc., en soufflant ou en l'éventant avec un van, un éventail, une feuille de palmier, une branche ou une partie de branche, une queue d'oiseau, une queue de paon, un tissu, un coin de tissu, la main ou la bouche, il devrait, après réflexion, dire (au maître de maison ou à sa femme) : « Ô toi qui vis longtemps ! (ou, ô sœur !) ne souffle pas et n'évente pas la nourriture chaude, etc., avec un van, etc. ; mais si tu veux me la donner, donne-la telle quelle. » Après ces mots, l'autre pourrait la donner après l'avoir soufflée ou l'avoir ventilée avec un van, etc. ils ne devraient pas accepter une telle nourriture, car elle est impure et inacceptable. (5)
 
 Un moine ou une nonne en tournée de mendicité ne doit pas accepter de nourriture, etc., qui est placée sur des matières végétales ou animales [^352] ; car une telle nourriture est impure et inacceptable. (6)
 
@@ -253,7 +253,7 @@ Un moine ou une nonne en tournée de mendicité ne doit pas accepter de jus de m
 
 Lorsqu'un moine ou une nonne en tournée de mendicité sent, dans les maisons de voyageurs, les maisons de jardin, les maisons de maîtres ou les maisons de maîtres, l'odeur de nourriture, de boisson ou de doux parfums, ils ne doivent pas les sentir, étant indifférents aux odeurs, et n'étant ni avides, ni désireux, ni avides, ni avides de l'odeur agréable. (2)
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Un moine ou une nonne en tournée de mendicité ne doit pas accepter de produits crus non encore modifiés par des instruments [^355], comme des racines bulbeuses poussant dans l'eau ou sur un sol sec, ou des tiges de moutarde ; car ils sont impurs et inacceptables. Il en va de même pour le poivre long, le poivre long moulu, le poivre commun, le poivre commun moulu, le gingembre ou le gingembre en poudre. (3)
 
@@ -285,7 +285,7 @@ Ainsi je dis. (15)
 
 
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## NEUVIÈME LEÇON.
 
@@ -301,7 +301,7 @@ Un moine ou une nonne en tournée de mendicité pourrait, parmi la quantité de 
 
 Un moine ou une nonne en tournée de mendicité pourrait, de la quantité de boisson reçue, ne boire que la partie savoureuse et rejeter la partie astringente. Comme ce serait un péché, ils ne devraient pas le faire ; ils devraient plutôt consommer tout, qu'il s'agisse de boisson savoureuse ou astringente, et ne rien rejeter. (5)
 
-Un moine ou une nonne, ayant reçu une quantité de nourriture plus que suffisante, pourrait rejeter (le superflu) sans avoir considéré ni consulté <span id="p113">[<sup><small>p. 113</small></sup>]</span> ses compagnons ascètes vivant dans le voisinage, qui suivent les mêmes règles de conduite, sont agréables et ne doivent pas être évités ; comme ce serait un péché, ils ne devraient pas le faire. Sachant cela, ils devraient s'y rendre et, après réflexion, dire : « Ô Srama<i>n</i>as à longue vie ! Cette nourriture, etc., est trop pour moi, mangez-la ou buvez-la ! » Après ces mots, l'autre pourrait dire : « Ô Srama<i>n</i>a à longue vie ! Nous mangerons ou boirons autant de cette nourriture ou de cette boisson que nous le désirons ; ou, si nous le désirons en entier, nous le mangerons ou le boirons en entier. » (6)
+Un moine ou une nonne, ayant reçu une quantité de nourriture plus que suffisante, pourrait rejeter (le superflu) sans avoir considéré ni consulté <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> ses compagnons ascètes vivant dans le voisinage, qui suivent les mêmes règles de conduite, sont agréables et ne doivent pas être évités ; comme ce serait un péché, ils ne devraient pas le faire. Sachant cela, ils devraient s'y rendre et, après réflexion, dire : « Ô Srama<i>n</i>as à longue vie ! Cette nourriture, etc., est trop pour moi, mangez-la ou buvez-la ! » Après ces mots, l'autre pourrait dire : « Ô Srama<i>n</i>a à longue vie ! Nous mangerons ou boirons autant de cette nourriture ou de cette boisson que nous le désirons ; ou, si nous le désirons en entier, nous le mangerons ou le boirons en entier. » (6)
 
 Un moine ou une nonne en tournée de mendicité ne doit pas accepter de nourriture, etc., qui a été déposée devant la porte pour le bien d'autrui, si le maître de maison ne le lui a pas permis, ou s'il la lui donne ; mais au contraire, il peut l'accepter.
 
@@ -316,7 +316,7 @@ Ainsi je dis. (7)
 
 Un mendiant, ayant collecté des aumônes pour beaucoup, pourrait, sans consulter ses compagnons ascètes, les distribuer à ceux qu'il désigne ; ce serait un péché, il ne devrait pas le faire. Prenant la nourriture, il devrait se rendre là (où se trouve son maître, etc.) et dire : « Ô Srama ! J'ai des parents (spirituels) proches ou éloignés : un maître, un sous-maître, un guide religieux, un Sthavira, un chef de Ga ; un Ga ; en vérité, je leur donnerai. » L'autre pourrait lui répondre : « Eh bien, ô Srama ! Donne-moi telle portion ! » Il devrait donner autant que l'autre le demande ; s'il demande la totalité, il devrait la donner entièrement. (1)
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 Un mendiant isolé, ayant recueilli une nourriture agréable, pourrait la couvrir de nourriture désagréable, en pensant : « Le maître ou le sous-maître, etc., voyant ce que j'ai reçu, pourrait le prendre lui-même ; en vérité, je ne donnerai rien à personne ! » Comme ce serait un péché, il ne devrait pas le faire.
 
@@ -367,7 +367,7 @@ Voici maintenant la septième règle pour la mendicité. Un moine ou une nonne p
 
 Voici les sept règles pour mendier de la nourriture ; suivons maintenant les sept règles pour mendier de la boisson. Elles sont cependant les mêmes que celles concernant la nourriture, seule la quatrième énonce ce précepte : un moine ou une nonne peut accepter comme boisson l'eau ayant servi à arroser de la farine ou du sésame, etc. (II, 1, 7, § 7), si elle est de nature à nécessiter peu de nettoyage et d'élimination (des impures) ; car, etc. (10)
 
-Celui qui a adopté l'une de ces sept règles pour mendier de la nourriture ou de la boisson ne devrait pas dire : « Ces personnes révérendes ont choisi une mauvaise règle, moi seul <span id="p119">[<sup><small>p. 119</small></sup>]</span> ai bien choisi. » (Mais il devrait dire) : « Ces personnes révérendes, qui suivent ces règles, et moi qui suis cette règle, nous nous efforçons tous selon le commandement de la <i>G</i>ina, et nous nous respectons les uns les autres en conséquence. »
+Celui qui a adopté l'une de ces sept règles pour mendier de la nourriture ou de la boisson ne devrait pas dire : « Ces personnes révérendes ont choisi une mauvaise règle, moi seul <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> ai bien choisi. » (Mais il devrait dire) : « Ces personnes révérendes, qui suivent ces règles, et moi qui suis cette règle, nous nous efforçons tous selon le commandement de la <i>G</i>ina, et nous nous respectons les uns les autres en conséquence. »
 
 C'est certainement là tout le devoir, etc.
 

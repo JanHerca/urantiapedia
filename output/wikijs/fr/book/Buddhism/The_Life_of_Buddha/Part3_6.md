@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 
 Le Maître quitta le parc de Jeta. Il s'arrêta dans les villes et les villages pour prêcher la loi, et beaucoup de gens adoptèrent la vraie foi.
@@ -45,7 +45,7 @@ Un jour, un vieil homme et sa femme invitèrent le Maître à prendre son repas 
 
 « Maître », dit la femme, « mon mari et moi vivons ensemble depuis notre plus tendre enfance ; nous avons maintenant atteint un âge avancé. La vie nous a été clémente. Jamais la moindre dispute ne nous a séparés. Nous nous aimons toujours autant qu'autrefois, et le soir de notre vie est aussi doux que l'aube. Puisse-t-il nous être accordé, mon Seigneur, de nous aimer dans notre prochaine existence comme nous nous sommes aimés en cette vie. »
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 « Cela vous sera accordé », dit le Maître ; « les Dieux vous ont protégé ! »
 
@@ -65,7 +65,7 @@ Il continua. Il arriva dans une vaste forêt où vivait un troupeau de buffles a
 
 Les gardiens virent le Bienheureux marcher tranquillement et crièrent :
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 « Prends garde, voyageur. Ne t'approche pas de nous. Il y a un buffle féroce ici. »
 

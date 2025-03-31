@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 1\. La prière du matin peut être dite jusqu'à midi. R. Judah dit « jusqu'à la quatrième heure ». La prière de l'après-midi jusqu'au soir. R. Judah dit « jusqu'à la moitié de l'après-midi ». La prière du soir n'a pas de limite, et les prières supplémentaires peuvent être dites toute la journée. R. Judah dit « jusqu'à la septième heure ».
 

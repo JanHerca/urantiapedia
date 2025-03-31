@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/08200.jpg) La belle Asoma nous informe-t-elle de son départ ? Oh, pourquoi les voyageurs sont-ils si souvent las de leur séjour ?
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. Elle l'allume avec abondance de bois entre les stations montagneuses d'Akeik et de Shakhsein, et il flamboie comme la splendeur du soleil.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 8\. J'ai contemplé son feu de loin, sur la colline d'où partent nos excursions ; mais oh, la chaleur torride et les calamités de la guerre m'empêchent de l'approcher
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 16\. Car nos frères, la famille d'Arakem, _aux yeux de dragon_, ont transgressé les limites de la justice contre nous, et ont été véhéments dans leurs invectives ;
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 17\. Ils ont confondu parmi nous les innocents avec les coupables, et la plus parfaite innocence n'a pas échappé à leur censure.
 
@@ -90,7 +90,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 26\. Épais et ferme, protégé contre les calamités ; ne pouvant être affaibli par aucun désastre, si grave et violent soit-il.
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 27\.\* Confiez à notre sagesse toute affaire importante dont vous désirez être tirés, et par laquelle les assemblées de chefs sont rendues malheureuses.
 
@@ -108,7 +108,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 34\. Nous marchâmes alors contre les fils de Tameim, et lorsque le mois sacré exigea une cessation de notre guerre, nous emmenâmes les filles de leur tribu pour en faire nos servantes.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 35\. _Contre nous_, l'homme vaillant ne pouvait pas garder son terrain sur le terrain plat, et la fuite précipitée ne pouvait servir à l'âme faible.
 
@@ -128,7 +128,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 43\. Sachez que nous et vous, le jour où nous avons conclu notre traité, étions également liés par nos engagements respectifs.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 44\ Sommes-nous responsables des crimes du Canada ? Leur chef conquérant aura-t-il le butin, et des représailles seront-elles exercées sur nous ?
 
@@ -150,7 +150,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 53\. Et ils ne profanèrent pas les lieux saints des fils de Rizaah sur les collines de Nitaa, quand ils les implorèrent pour leur miséricorde.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 54\ Ils les laissèrent cependant blessés dans la plaine, et revinrent avec des troupeaux captifs et des troupeaux si nombreux, que leurs conducteurs furent assourdis par leurs cris.
 
@@ -170,7 +170,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 62\ Il les conduisit et leur fournit des dattes et de l'eau, ainsi la volonté de Dieu fut accomplie, et les hommes affligés furent voués à l'affliction.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 63\ Alors vous les avez invités à vous attaquer par votre manque de circonspection, et la vaine sécurité de votre joie intempérante les a poussés à vous être hostiles.
 
@@ -190,7 +190,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 71\. Et ils s'assemblèrent, en armure complète, autour du guerrier Kais, ce vaillant prince du Yémen, qui se tenait _ferme et brillant_ comme une falaise blanche.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 72\. Puis vint une légion de jeunes gens de haute naissance, que rien ne pouvait retenir sauf nos lances longues et étincelantes ;
 
@@ -212,7 +212,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 81\. Nous avons racheté nos captifs avec neuf rois de race illustre, dont le butin était extrêmement précieux.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 82\. Avec les chevaux, avec les chevaux noirs des fils d'Aus, venaient des escadrons entiers, féroces comme des aigles au bec recourbé :
 

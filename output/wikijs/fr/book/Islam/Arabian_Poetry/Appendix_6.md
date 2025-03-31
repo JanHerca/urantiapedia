@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 OUTRE l'élégante traduction du Mo'allaqah d'Antara par le professeur E. H. Palmer, incluse dans un petit volume intitulé « Le Chant du roseau et autres pièces », publié par MM. Trübner et Cie, de Londres, les seules tentatives qui ont été faites pour traduire des passages des « Sept poèmes arabes » en vers anglais sont les seize premiers vers de Lebīd par Carlyle, et quelques-uns des passages les plus frappants des autres poèmes par l'auteur anonyme d'un article sur les Mo'allaqāt dans le vol. La « traduction savante » de Carlyle des distiques d'ouverture de Lebid, comme Burton l'appelle à moitié dédaigneusement dans son « Pèlerinage à El-Médine et à la Mecque », constitue le premier de ses « Spécimens de poésie arabe », mais a été omise dans la réimpression de ses traductions dans le présent volume, afin qu'elle puisse être placée de manière plus appropriée, avec les autres passages versifiés des Mo'allaqāt, parmi les Notes suivantes.
 

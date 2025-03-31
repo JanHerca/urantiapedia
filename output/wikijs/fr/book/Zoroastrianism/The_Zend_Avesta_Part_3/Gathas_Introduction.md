@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## LES GÂTHAS.
 

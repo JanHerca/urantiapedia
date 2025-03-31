@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T10:15:16Z
   </table>
 </figure>
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 Le système de translittération utilisé dans ce volume pour traduire les mots arabes et persans en lettres latines suit de près la pratique internationale moderne standard.
 

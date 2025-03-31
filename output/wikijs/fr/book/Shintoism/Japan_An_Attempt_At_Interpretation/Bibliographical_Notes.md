@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T22:27:43Z
   </table>
 </figure>
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 \—Dans la préparation de cet essai, j'ai été très redevable aux _Transactions de la Société asiatique du Japon_, et en particulier aux contributions suivantes :—
 
@@ -59,7 +59,7 @@ dateCreated: 2025-2-12T22:27:43Z
 
 « La rébellion d’Arima », par le Dr Geertz, vol. IX.
 
-<span id="p487">[<sup><small>p. 487</small></sup>]</span>
+<span id="p487"><sup><small>[ p. 487 ]</small></sup></span>
 
 (SUR L'HISTOIRE ET LA SOCIOLOGIE DU JAPON)
 

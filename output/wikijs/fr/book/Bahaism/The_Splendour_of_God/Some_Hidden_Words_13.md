@@ -36,7 +36,7 @@ dateCreated: 2025-2-5T10:15:31Z
 
 Ô peuple du monde ! Je vous enjoint de vous efforcer d'élever votre rang. Accrochez-vous à la vertu de Dieu et saisissez l'ourlet de ce qui est juste.
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 En vérité, je dis que la langue est faite pour dire le bien. Ne la souillez pas par des paroles mauvaises. Dieu vous a pardonné ce qui est passé. Désormais, vous devez tous dire ce qui est convenable. Évitez l'exécration, l'injure et tout ce qui est aggravant pour l'homme. La position de l'homme est élevée.
 
@@ -54,7 +54,7 @@ Il incombe à tous d’aider ces âmes qui sont les sources de l’autorité et 
 
 Ô serviteurs ! Ne faites pas des causes d’ordre des causes de confusion, et ne faites pas de la raison de l’union une occasion de dispute. Cette Parole exaltée ressemble à de l’eau pour éteindre le feu de la haine et de l’animosité qui est déposé dans tous les esprits et tous les cœurs.
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Les différentes confessions atteindront la Lumière de l'Union réelle par la simple Parole. En vérité, Il dit la Vérité et guide sur le Chemin ; et Il est le Puissant, le Fort et le Merveilleux.
 

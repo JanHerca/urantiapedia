@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 Ainsi, une fois de plus, tous les obstacles au mariage d'Antar semblent avoir été levés ; mais en réalité, son oncle perfide est toujours aussi opposé à son union avec Abla, et il imagine bientôt un autre stratagème pour provoquer la mort du héros. Instruite astucieusement par son père, Abla exige d'Antar qu'à son mariage elle soit aussi élevée que l'était Jaida, la fille de Zahir : lorsqu'elle épousa son cousin Khalid, le fils de Moharib, la bride de son chameau était tenue par la fille de Moawiyah, fils de Nizal. Le héros promet hardiment qu'au mariage d'Abla, Jaida elle-même tiendra sa bride, avec la tête de Khalid autour de son cou. À cette proposition extravagante, le père d'Abla feint de s'opposer ; mais, comme il l'avait prévu, Antar est résolu ; et cette même nuit, le héros, désireux de satisfaire les désirs de sa chérie Abla, se lance dans sa périlleuse entreprise en s'écriant :
 
@@ -46,7 +46,7 @@ Maintenant que je pars à sa recherche, il n'y a plus d'éternité pour Khalid.
 
 Non, non, que Jaida ne se vante plus ; le bonheur de leur pays sera de courte durée, et bientôt le tigre viendra !
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 Ô Abla, que les richesses qui viennent pour toi te réjouissent, lorsque la Fortune me jette parmi tes ennemis !
 

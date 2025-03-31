@@ -72,7 +72,7 @@ v. 26. M. Lyall, dans une note sur l'une de ses traductions de Chants du _Hamās
 De nombreux jours sont nôtres, longtemps éclairés de gloire,
 &nbsp;&nbsp;quand nous résistâmes au Roi et ne voulumes pas le servir.
 
-<span id="p398">[<sup><small>p. 398</small></sup>]</span>
+<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 « Jours » (_Ayyām_), explique-t-il, est le mot utilisé dans la légende arabe pour les batailles : on dit, « le jour d'el-Kuālb », « le jour de Shi'b Jebeleh », etc., bien que le combat ait pu (comme ce fut le cas à el-Kulāb) durer plus d'un jour. (Voir note sur les vv. 25, 26, Mo'all de Hareth.)
 
@@ -89,7 +89,7 @@ v. 40. « Nos javelots finement travaillés en roseaux de Khathaian », c'est-à
 
 v. 45. La fleur de seringa. — L'arbre de Judas, sur lequel le traître se pendit après avoir trahi son maître : on dit que l'arbre pleurait du sang dont ses fleurs sont encore profondément teintées. — _Nott_. Odes de Hafiz. — Dans le roman d'Antar, les guerriers dont l'armure est tachée de sang sont souvent comparés aux fleurs de l'arbre de Judas ; et le héros lui-même décrit les coupes de vin comme des manteaux semblables à la fleur de Judas. C'est le _Cercis Siliquastrum_ des botanistes, selon Hamilton, « dont les fleurs sont d'une couleur pourpre très brillante, sortant des branches et de la tige de tous côtés en grandes grappes et sur de courts pédoncules. »
 
-<span id="p399">[<sup><small>p. 399</small></sup>]</span>
+<span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 
 v. 66. Colaib Ebn Rabiah gouvernait les Banu Maad (les Sarrasins de Procope), et était si fier qu’il ne permettait pas que l’on chasse dans son voisinage, ni qu’on abreuve les chameaux avec les siens, ni qu’on allume un feu près de celui dont il se servait lui-même. Il fut finalement tué par un certain Jassas, pour avoir tiré sur un chameau, nommé Sarab, qu’il avait trouvé en train de paître dans un endroit interdit. Ce chameau appartenait à un Arabe qui avait été hébergé par Basus, un proche parent de Jassas. Le meurtre de Colaib Ebn Rebiah déclencha une guerre de quarante ans [voir Argument préfixé au poème d’Amru, page [65](./Moallakat_Amru_Argument#p65)\], d’où sont venus les proverbes arabes : « un pire présage que Sarab » ; « plus sinistre que Basus. » — Il n'est peut-être pas inopportun de remarquer ici que les rois et les chefs des Arabes défendaient généralement aux autres d'amener leurs troupeaux dans les lieux et les pâturages qu'ils choisissaient pour eux-mêmes. Pour connaître les limites de ces pâturages, lorsqu'ils arrivaient dans une vallée ou une plaine fertile, ils faisaient aboyer un chien, et s'appropriaient toute l'étendue du terrain sur lequel il pouvait être entendu. — _Histoire universelle ancienne_, vol. xviii, p. [440].
 

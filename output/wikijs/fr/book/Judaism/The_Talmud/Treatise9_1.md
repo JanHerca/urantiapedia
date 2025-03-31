@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 ## TRAITÉ IX.
 
@@ -48,7 +48,7 @@ Qu’est-ce qu’un enfant ? — Offrandes — Tordu et droit — Rémission des
 
 2\. L'école de Shammaï dit : « L'apparition dans le Temple est avec deux pièces d'argent, et le sacrifice de paix avec un méah d'argent. » [^349] Mais l'école de Hillel dit : « L'apparition est avec un méah d'argent, et l'offrande de fête avec deux pièces d'argent. »
 
-3\. Les holocaustes des fêtes fixées proviennent de l'argent ordinaire ; mais le sacrifice de paix provient des dîmes. « Les offrandes de la première fête de la Pâque ? » [^350] L'école de Shammaï dit : « de l'argent ordinaire », mais l'école de Hillel dit : « des dîmes. » <span id="p170">[<sup><small>p. 170</small></sup>]</span> 4\. Les Israélites s'acquittent de leur devoir par des vœux, des offrandes volontaires et des dîmes d'animaux ; et les prêtres par des sacrifices pour le péché, des sacrifices pour le délit, et par la poitrine, l'épaule et les premiers-nés, mais pas par des volailles ni par des offrandes de viande.
+3\. Les holocaustes des fêtes fixées proviennent de l'argent ordinaire ; mais le sacrifice de paix provient des dîmes. « Les offrandes de la première fête de la Pâque ? » [^350] L'école de Shammaï dit : « de l'argent ordinaire », mais l'école de Hillel dit : « des dîmes. » <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 4\. Les Israélites s'acquittent de leur devoir par des vœux, des offrandes volontaires et des dîmes d'animaux ; et les prêtres par des sacrifices pour le péché, des sacrifices pour le délit, et par la poitrine, l'épaule et les premiers-nés, mais pas par des volailles ni par des offrandes de viande.
 
 5\. « Si quelqu'un a une famille nombreuse et de faibles revenus ? » « Il doit apporter davantage d'holocaustes et moins d'holocaustes. » « Si quelqu'un a une famille nombreuse et de gros revenus ? » « Il doit apporter davantage d'holocaustes et moins d'holocaustes. » « Si les deux sont petits ? » « On dit qu'un méah d'argent et deux pièces d'argent suffisent. » « Si les deux sont importants ? » « Il est dit que chacun donnera selon ses moyens, selon la bénédiction que l'Éternel, ton Dieu, t'aura accordée. » [^351]
 

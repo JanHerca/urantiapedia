@@ -44,7 +44,7 @@ Il y a longtemps que j'ai bu le sang des cavaliers, dont ils m'ont nourri avant 
 
 Je tuerai ce misérable avec le tranchant de mon épée, qui fend la chair avant les os.
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 Ses demeures seront cette nuit trouvées désertes et désolées, et je ne m'écarterai pas de ma parole : son corps reposera dans les déserts, abattu, et tu pourras voir son visage rampant dans la poussière.
 

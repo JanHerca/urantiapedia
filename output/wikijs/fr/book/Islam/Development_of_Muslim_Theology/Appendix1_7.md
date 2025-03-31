@@ -42,7 +42,7 @@ _Livre I_. _De la pureté cérémonielle_ (_Tahara_)
 
 3\. L'utilisation du cure-dent.
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 4\. Description des différentes étapes d'une ablution cérémonielle (_wudu_).
 
@@ -98,7 +98,7 @@ _Livre II. De la Prière_
 
 17\. Prière pour la pluie.
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 18\. Prière en présence de l'ennemi.
 
@@ -150,7 +150,7 @@ _Livre VI. Du troc et autres transactions commerciales_
 
 2\. Description et conditions du marché avec paiement d'avance (_salam_).
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 3\. De mise en gage (_rahn_).
 
@@ -210,7 +210,7 @@ _Livre VIII. Du mariage et sujets connexes_
 
 1\. Les conditions du mariage (_nikah_). Quelles femmes un homme peut voir et dans quelle mesure.
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 2\. La forme d'un mariage légal.
 
@@ -266,7 +266,7 @@ _Livre X. Des ordonnances restrictives de Dieu_ (_hadd_)
 
 1\. De la fornication (_zina_) de celui qui a été ou est marié (_muhsan_), et de celui qui n'a pas été ou n'est pas marié.
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 2\. D'accuser de fornication.
 
@@ -324,7 +324,7 @@ _Livre XV. Des jugements et des preuves_ (_qada_, _shahada_)
 
 5\. La différence des revendications (_haqq_), de la part de Dieu, et de la part de l'homme, et leur traitement juridique.
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 _Livre XVI. De l'affranchissement des esclaves_
 

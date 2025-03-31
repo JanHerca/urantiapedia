@@ -42,7 +42,7 @@ La connaissance juste, la foi, la conduite et les austérités : les êtres qui 
 
 I. La connaissance est quintuple : 1. Sruta, la connaissance tirée des livres sacrés ; 2. Âbhinibôdhika, la perception [^395] ; 3. Avadhi, la connaissance surnaturelle ; 4. Manahparyâya [^396], la connaissance des pensées d'autrui ; 5. Kêvala, la connaissance la plus élevée et illimitée. (4)
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 C'est la quintuple connaissance. Les sages ont enseigné la connaissance des substances, des qualités et de tous les développements [^397]. (5)
 
@@ -58,7 +58,7 @@ La caractéristique du temps est la durée [^401], celle de l'âme la réalisati
 
 La caractéristique de l'Âme est la connaissance, la foi, la conduite, les austérités, l'énergie et la réalisation (de ses développements). (11)
 
-La caractéristique de la matière est le son, l'obscurité, <span id="p154">[<sup><small>p. 154</small></sup>]</span> l'éclat (des bijoux, etc.), la lumière, l'ombre, le soleil ; la couleur, le goût, l'odorat et le toucher. (12)
+La caractéristique de la matière est le son, l'obscurité, <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> l'éclat (des bijoux, etc.), la lumière, l'ombre, le soleil ; la couleur, le goût, l'odorat et le toucher. (12)
 
 La caractéristique du développement est l’unicité, la séparation [^403], le nombre, la forme, la conjonction et la disjonction. (13)
 
@@ -70,7 +70,7 @@ II. La foi est produite par 1. nisarga, la nature ; 2. upadê<i>s</i>a, l'instru
 
 1\. Celui qui comprend véritablement, par un effort spontané de son esprit [^404], (la nature de) l'âme, les choses inanimées, le mérite et le démérite, et qui met fin aux influences pécheresses [^405], (croit par) nature. (17)
 
-Celui qui croit spontanément aux quatre vérités (explicitement mentionnées dans le dernier verset), que les <span id="p155">[<sup><small>p. 155</small></sup>]</span> <i>Ginas</i> ont enseignées, (pensant) qu'elles sont de cette nature et non d'une autre nature, croit par nature. (18)
+Celui qui croit spontanément aux quatre vérités (explicitement mentionnées dans le dernier verset), que les <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> <i>Ginas</i> ont enseignées, (pensant) qu'elles sont de cette nature et non d'une autre nature, croit par nature. (18)
 
 2\. Mais celui qui croit à ces vérités, après les avoir apprises de quelqu'un d'autre, soit un <i>Kh</i>admastha [^406] soit un <i>G</i>ina, croit par instruction. (19)
 
@@ -84,7 +84,7 @@ Celui qui croit spontanément aux quatre vérités (explicitement mentionnées d
 
 7\. Celui qui comprend la véritable nature de toutes les substances au moyen de toutes les preuves (pramâ<i>n</i>a) et nayas [^409], croit par un cours d'étude complet. (24)
 
-8\. Celui qui accomplit sincèrement (tous les devoirs impliqués) <span id="p156">[<sup><small>p. 156</small></sup>]</span> par la bonne connaissance, la foi et la bonne conduite, par l'ascétisme et la discipline, et par tous les Samitis et Guptis, croit par l'exercice religieux. (25)
+8\. Celui qui accomplit sincèrement (tous les devoirs impliqués) <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> par la bonne connaissance, la foi et la bonne conduite, par l'ascétisme et la discipline, et par tous les Samitis et Guptis, croit par l'exercice religieux. (25)
 
 9\. Celui qui, bien que n'étant pas versé dans les doctrines sacrées [^410] ni familiarisé avec d'autres systèmes [^411], ne détient aucune fausse doctrine, croit par une brève exposition. (26)
 
@@ -96,7 +96,7 @@ Il n'y a pas de conduite (correcte) sans croyance correcte [^415], et elle doit 
 
 Sans foi (juste), il n'y a pas de connaissance (juste), sans connaissance (juste), il n'y a pas de conduite vertueuse [^416], sans vertus, il n'y a pas de délivrance [^417], et sans délivrance, il n'y a pas de perfection. (30)
 
-(L'excellence de la foi dépend des huit points suivants) : 1. qu'on n'a aucun doute (sur la vérité des principes) ; 2. qu'on n'a aucune préférence (pour les principes hétérodoxes) ; 3. qu'on ne doute pas <span id="p157">[<sup><small>p. 157</small></sup>]</span> de ses qualités salvatrices [^418] ; 4. qu'on n'est pas ébranlé dans la bonne croyance (parce que les sectes hérétiques sont plus prospères) ; 5. qu'on loue (les pieux) ; 6. qu'on encourage (les frères faibles) ; 7. qu'on soutient ou aime les confesseurs de la Loi ; 8. qu'on s'efforce de l'exalter. (31)
+(L'excellence de la foi dépend des huit points suivants) : 1. qu'on n'a aucun doute (sur la vérité des principes) ; 2. qu'on n'a aucune préférence (pour les principes hétérodoxes) ; 3. qu'on ne doute pas <span id="p157"><sup><small>[ p. 157 ]</small></sup></span> de ses qualités salvatrices [^418] ; 4. qu'on n'est pas ébranlé dans la bonne croyance (parce que les sectes hérétiques sont plus prospères) ; 5. qu'on loue (les pieux) ; 6. qu'on encourage (les frères faibles) ; 7. qu'on soutient ou aime les confesseurs de la Loi ; 8. qu'on s'efforce de l'exalter. (31)
 
 III. La conduite qui produit la destruction de tout Karman est : 1. sâmâyika [^419], l’évitement de tout péché ; 2. khêdôpasthâpana, l’initiation d’un novice ; 3. parihâravi<i>s</i>uddhika, la pureté produite par des austérités particulières [^420] ; 4. sûkshma samparâya, la réduction du désir ; 5. akashâya yathâkhyâta, l’annihilation du péché selon les préceptes des Arhats, aussi bien dans le cas d’un Khadmastha que d’un Gina. (32, 33)
 

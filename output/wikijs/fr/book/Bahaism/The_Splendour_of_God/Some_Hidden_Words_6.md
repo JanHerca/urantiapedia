@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T10:15:31Z
   </table>
 </figure>
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 Vous êtes les arbres de mon jardin ; vous devez porter des fruits frais et beaux, afin que vous et les autres puissiez en profiter. C'est pourquoi il est nécessaire que vous vous engagiez dans les arts et les affaires.
 

@@ -41,7 +41,7 @@ MAQAMA, pluriel Maqámát, de … il se leva, signifie principalement une occasi
 
 (3) Approche-toi et mange, ou, si tu veux, lève-toi et parle. [^62]
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 La pratique de se lever pour parler remonte à l'époque homérique :
 
@@ -67,7 +67,7 @@ Et des conseils où les paroles sont suivies d'actes. [^67]
 Concernant chaque champ de bataille et dans chaque _maqáma_ (situation) ;
 Qui obtiennent de la poésie des alliances et des contrats. [^68]
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 …
 De nombreux _maqáma_\—discours—dont les armes ont affaibli le discours des autres, dans lesquels il y a des vagues de langage qui ne peuvent être éliminées,
@@ -96,7 +96,7 @@ Les solitaires qui n'ont pas entendu les aboiements des chiens de _maqáma_\—u
  [^74] …
 Maqáma = Majlis, une société de personnes.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 (6) Par Hamadhání :—
 

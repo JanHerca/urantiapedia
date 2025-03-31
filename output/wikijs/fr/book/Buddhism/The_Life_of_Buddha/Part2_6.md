@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 
 Le Bienheureux marchait depuis longtemps. Il était fatigué. Arrivé dans un petit bois, il y entra et s'assit au pied d'un arbre. Il était sur le point de s'endormir lorsqu'une troupe de trente jeunes hommes entra dans le bois. Il les observa.
@@ -47,7 +47,7 @@ Nous sommes musiciens. Nous errons de ville en ville. Nous avons souvent joué d
 
 Les musiciens se moquaient du Maître.
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 « Joue de ton luth », dit-il alors à celui qui riait le plus fort.
 
@@ -93,7 +93,7 @@ Kasyapa réfléchit un instant, puis il tomba aux pieds du Bienheureux et dit :
 
 « Instruis-moi, ô Maître ! Ne me laisse plus marcher dans la nuit ! »
 
-Alors le Bienheureux gravit une montagne et <span id="p134">[<sup><small>p. 134</small></sup>]</span> s'adressa aux frères Kasyapa et à leurs disciples.
+Alors le Bienheureux gravit une montagne et <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> s'adressa aux frères Kasyapa et à leurs disciples.
 
 « Ô moines, dit-il, tout dans le monde est en feu. L'œil est en feu ; tout ce qu'il voit est en feu ; tout ce que nous contemplons dans le monde est en feu. Pourquoi ? Parce que le feu de l'amour et de la haine ne s'éteint pas. Vous êtes aveuglés par les flammes de ce feu, et vous souffrez le tourment de la naissance et de la vieillesse, de la mort et de la misère. Ô moines, tout dans le monde est en feu ! Comprenez-moi, et pour vous le feu s'éteindra ; vos yeux ne seront plus aveuglés par les flammes, et vous ne jouirez plus du spectacle flamboyant qui vous enchante aujourd'hui. Comprenez-moi, et vous saurez qu'il y a une fin à la naissance, vous saurez que nous ne retournerons jamais sur cette terre. »
 

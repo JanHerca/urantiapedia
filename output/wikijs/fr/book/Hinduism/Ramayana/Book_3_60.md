@@ -129,7 +129,7 @@ Avec des éclairs sur la poitrine et les membres.
 Une armée puissante obéit à sa volonté
 Et des troupes d'esclaves remplissent son palais ;
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 Ses seigneurs d’État sont sages et fidèles,
 Il a des parents et une suite.
@@ -251,7 +251,7 @@ Accroché comme une plante grimpante aux arbres,
 Et comme une pauvre chose abandonnée
 La forêt résonna de cris sauvages.
 Mais le géant arriva rapidement à ses côtés,
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 Elle cria le nom de Rama à haute voix.
 Féroce comme la mort sinistre, il posa une main
@@ -370,7 +370,7 @@ Du ciel au-dessus du firmament. [^506]
 Les oiseaux de toutes les ailes s'étaient rassemblés
 Aux arbres majestueux bercés par les brises :
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 Ceux-ci inclinèrent leurs têtes balayées par le vent et
 dit:
@@ -494,7 +494,7 @@ Et éloigne follement ses lèvres
 D'un médicament qui arrêterait la décomposition.
 Autour de ton cou solidement enroulé
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 La spirale mortelle du destin est liée,
 Et toi, ô Ravan, ne crains pas
@@ -617,7 +617,7 @@ Il vit huit géants, forts et redoutables,
 Nourri de la chair des victimes ensanglantées,
 Fier du bienfait que Brahma a donné,
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 Et confiant dans son pouvoir de sauver.
 Il s'adressa ainsi aux puissants chefs
@@ -741,7 +741,7 @@ Bien que conduit par Celui qui règne sur le ciel.
 Pas de Dieu au ciel, pas de sage sur terre,
 Aucun ménestrel de naissance céleste,
 
-<span id="p295">[<sup><small>p. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 Je ne vois aucun esprit dans les mondes
 Un match de puissance et de force pour moi.
@@ -865,7 +865,7 @@ Oui, si le regard de Ráma est brillant
 Avec fureur, ta forme devrait s'illuminer,
 Si tu étais brûlé ce jour-là, tu tomberais et mourrais
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 Comme un chameau tué par l'œil de Rudra. [^507]
 Celui qui du ciel pouvait jeter la lune,
@@ -987,7 +987,7 @@ Le corps du sourire,
 Véritable épouse \* au destin heureux
 W \* et dédier
 
-<span id="p297">[<sup><small>p. 297</small></sup>]</span>
+<span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 
 Elle regarde et désire ardemment le visage de Rama,
 Mais il voit une foule de démons courir,
@@ -1111,7 +1111,7 @@ Présagé par les cris du chacal.
 Que la dame Maitil soit projetée
 De l'indignation de chaque démon affamé !
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 Hélas, si Lakshman avait la chance d'entendre
 Ce cri amer de malheur et de peur
@@ -1236,7 +1236,7 @@ Forte de son influence fils et royale !
 De retour à mon berceau, vais-je réparer
 Si Sítá vit pour m'accueillir là-bas,
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 Mais si ma femme a péri, je
 Le reste de l'amour des rayons mourra sûrement,
@@ -1358,7 +1358,7 @@ Pour gagner mon amour, ton frère a été tué.
 Pas l'amour, mais le sombre décret de Bharat
 Pour partager son exil, il t'a conseillé,
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 Ou entendant maintenant son cri amer
 Tu volerais sûrement à son secours.

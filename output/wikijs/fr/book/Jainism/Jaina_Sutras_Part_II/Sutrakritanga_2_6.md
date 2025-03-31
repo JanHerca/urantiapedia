@@ -38,7 +38,7 @@ Gôsâla.
 
 Écoute, Ârdraka [^1194], ce qu'a fait (Mahâvîra). Au début, il errait seul ; mais maintenant, il s'est entouré de nombreux moines et enseigne à chacun d'eux la Loi en détail. (1)
 
-<span id="p410">[<sup><small>p. 410</small></sup>]</span>
+<span id="p410"><sup><small>[ p. 410 ]</small></sup></span>
 
 L'homme inconstant a choisi ce mode de vie [^1195] : se tenir debout au milieu d'une foule, entouré de moines, et enseigner ses doctrines au profit du plus grand nombre. Par conséquent, sa vie passée et sa vie présente ne sont pas identiques. (2)
 
@@ -54,7 +54,7 @@ Ardraka.
 
 « Celui qui enseigne les grands vœux (des moines) et les cinq petits vœux (des laïcs [^1197]), les cinq Âsravas et l'arrêt des Âsravas, et le contrôle, qui évite Karman dans cette vie bénie de <i>S</i>rama<i>n</i>as, celui-là, je l'appelle un <i>S</i>rama<i>n</i>a. » (6)
 
-<span id="p411">[<sup><small>p. 411</small></sup>]</span>
+<span id="p411"><sup><small>[ p. 411 ]</small></sup></span>
 
 Gôsâla.
 
@@ -92,7 +92,7 @@ Ardraka.
 
 « Ne faisant rien sans but, ni sans considération, ni sur ordre du roi, ni par crainte de qui que ce soit, il répond ou non aux questions (selon les circonstances) ; mais il (répond) aux personnes honorables avec un but précis (dans son esprit) [^1199]. (17)
 
-<span id="p413">[<sup><small>p. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 « Lui, le sage, enseigne (la Loi) impartialement, qu'il aille (chez ses disciples) ou non ; parce que les hommes indignes sont déchus de la vraie foi, il ne va pas dans les lieux (fréquentés par eux). » (18)
 
@@ -134,7 +134,7 @@ Il est impossible de confondre (un fragment du grenier) avec un homme ; seul un 
 
 « N'employez pas de paroles qui vous feraient du mal ; car de telles paroles sont incompatibles avec les vertus. Aucun moine ordonné ne devrait prononcer de vaines paroles [^1207]. » (33)
 
-<span id="p416">[<sup><small>p. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 « Oh ! vous avez exploré ce sujet ; vous avez examiné à fond les conséquences des actes [^1208] des êtres vivants ; votre (renommée) atteint les océans d'Orient et d'Occident ; vous voyez (l'univers comme s'il) se tenait dans la paume de vos mains ! (34)
 
@@ -152,7 +152,7 @@ En examinant minutieusement les conséquences des actes des êtres vivants, (nos
 
 Ils s'abstiennent de mauvaises actions, craignant de nuire aux êtres vivants, et ne font de mal à aucune créature ; c'est pourquoi ils ne consomment pas de tels aliments. C'est une maxime des moines de notre foi. (41)
 
-<span id="p417">[<sup><small>p. 417</small></sup>]</span>
+<span id="p417"><sup><small>[ p. 417 ]</small></sup></span>
 
 « (Ayant atteint) cette perfection [^1213] dans la Loi des Nirgranthas et y étant fermement attaché, il faut vivre sans tromperie [^1214]. Le sage éveillé, doté de toutes les vertus, acquiert ainsi une très grande renommée. » (42)
 
@@ -170,7 +170,7 @@ Un Védantin [^1218].
 
 « Nous suivons tous deux (à peu près la même) Loi ; nous y sommes restés fermes et nous le ferons dans les temps à venir ; (nous croyons que) la vertu consiste en une bonne conduite et que la connaissance (est nécessaire à la libération) ; et en ce qui concerne le Cercle des Naissances, il n'y a aucune différence entre nous. » (46)
 
-<span id="p418">[<sup><small>p. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 « (Mais nous supposons) une âme invisible, grande, éternelle, impérissable et indestructible, qui surpasse tous les autres êtres à tous égards, comme la lune surpasse les étoiles. » (47)
 
@@ -188,7 +188,7 @@ Un Hastitâpasa [^1220].
 
 « Chaque année, nous tuons un gros éléphant avec une flèche et nous en vivons afin d'épargner la vie d'autres animaux. » (52)
 
-<span id="p419">[<sup><small>p. 419</small></sup>]</span>
+<span id="p419"><sup><small>[ p. 419 ]</small></sup></span>
 
 Ardraka.
 

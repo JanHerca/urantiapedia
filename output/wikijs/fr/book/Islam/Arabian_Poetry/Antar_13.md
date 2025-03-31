@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 Tandis qu’Antar était parti aider la tribu de Mazin, un événement survint qui ruina ses espoirs de conquérir sa bien-aimée Abla et déclencha une série de malheurs pour lui-même, pour sa famille et même pour toute la tribu d’Abs. Ce fut les fiançailles d’Abla avec un noble absidien nommé Amarah : « un fat vaniteux, très méticuleux dans sa toilette, amateur de parfums et toujours en compagnie de femmes et de jeunes filles ». La renommée de la beauté d’Abla étant parvenue jusqu’à cet exquis bédouin, il envoya une esclave dans les tentes de la famille de Carad pour voir si Abla était aussi belle qu’on le disait d’elle ; et la jeune fille revenant avec un récit élogieux des charmes d’Abla, Amarah conçut une violente passion pour elle – « ses oreilles tombèrent amoureuses sous ses yeux ». Il rendit visite au vieux Malik et demanda sa fille en mariage, promettant une belle dot. Malik le perfide est ravi à la perspective d'un tel gendre, et donne très volontiers son consentement, espérant, sans doute, qu'Antar est à ce moment-là devenu la nourriture des corbeaux et des vautours.
 

@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 7. Si un bâtiment s'écroule et qu'il est douteux qu'une personne soit enterrée sous les ruines ou non, s'il est douteux qu'elle soit morte ou vivante, ou qu'elle soit un païen ou un Israélite, il est permis d'enlever les ruines au-dessus d'elle le jour du sabbat ; si elle est trouvée vivante, les ruines doivent être entièrement enlevées \[afin de la dégager\] ; mais si elle est morte, elle doit être laissée \[jusqu'à plus tard\].
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 § 8. Le sacrifice pour le péché et le sacrifice pour la faute commise sciemment expient le péché. Le Yom Kippour et la mort font l'expiation par la pénitence sincère ; la pénitence fait l'expiation des transgressions légères contre les commandements positifs ou négatifs ; dans les transgressions graves, elle obtient un répit [^359] jusqu'à ce que le Yom Kippour achève l'expiation.
 

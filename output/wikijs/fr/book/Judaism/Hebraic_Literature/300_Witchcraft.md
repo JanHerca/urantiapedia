@@ -60,7 +60,7 @@ Un magicien avait l'habitude de dépouiller les morts de leurs linceuls. Un jour
 
 _Bava Bathra_, fol. 58, col. 1
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Personne n’était autorisé à siéger au Sanhédrin à moins d’avoir des connaissances en magie.
 
@@ -78,7 +78,7 @@ Si les orgueilleux (en Israël) cessaient, les magiciens cesseraient aussi ; com
 
 _Ibid._, fol. 98, col. 1.
 
-Français Parmi ceux qui n'ont aucune part dans le monde à venir se trouve celui qui lit les livres des étrangers, les livres étrangers, les livres des étrangers. Voir aussi Sanhédrin, fol. 90, col. 1. Or Rav Yoseph dit : « Il est interdit de lire le Livre du Fils de Sirach, . . . car il y est écrit (Ecclésiastique XLII. 9, etc., tel que cité, ou plutôt mal cité, dans le Talmud) : « Une fille est un faux trésor pour son père : à cause de l'inquiétude pour elle, il ne peut dormir la nuit ; quand elle est jeune, de peur qu'elle ne soit séduite ; dans sa virginité, de peur qu'elle ne se prostitue ; en âge de se marier, <span id="p191">[<sup><small>p. 191</small></sup>]</span> de peur qu'elle ne se marie pas ; et une fois mariée, de peur qu'elle ne soit pas sans enfants ; et lorsqu'elle sera vieille, de peur qu'elle ne pratique la sorcellerie.
+Français Parmi ceux qui n'ont aucune part dans le monde à venir se trouve celui qui lit les livres des étrangers, les livres étrangers, les livres des étrangers. Voir aussi Sanhédrin, fol. 90, col. 1. Or Rav Yoseph dit : « Il est interdit de lire le Livre du Fils de Sirach, . . . car il y est écrit (Ecclésiastique XLII. 9, etc., tel que cité, ou plutôt mal cité, dans le Talmud) : « Une fille est un faux trésor pour son père : à cause de l'inquiétude pour elle, il ne peut dormir la nuit ; quand elle est jeune, de peur qu'elle ne soit séduite ; dans sa virginité, de peur qu'elle ne se prostitue ; en âge de se marier, <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> de peur qu'elle ne se marie pas ; et une fois mariée, de peur qu'elle ne soit pas sans enfants ; et lorsqu'elle sera vieille, de peur qu'elle ne pratique la sorcellerie.
 
 _Sanhédrin_, fol. 100, col. 2.
 
@@ -98,7 +98,7 @@ Pour la cécité nocturne, qu'un homme prenne une corde de crin et en attache un
 
 _Gittin_, fol. 69, col. 1.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 Selon les rabbins, un homme ne doit pas boire d'eau la nuit, car il s'exposerait ainsi au pouvoir de Shavriri, le démon de la cécité. Que faire alors s'il a soif ? S'il est accompagné d'un autre homme, qu'il le réveille et dise : « J'ai soif » ; mais s'il est seul, qu'il tape sur le couvercle de la cruche (pour faire croire au démon qu'il est accompagné), et, s'adressant à lui par son nom et celui de sa mère, qu'il dise : « Ta mère t'a ordonné de te méfier de Shavriri, vriri, riri, iri, ri », dans une coupe blanche. Rachi explique que, par cette incantation, le démon se contracte et disparaît progressivement à mesure que les sons du mot Shavriri diminuent.
 

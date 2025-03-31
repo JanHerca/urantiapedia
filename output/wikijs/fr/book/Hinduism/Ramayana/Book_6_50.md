@@ -49,7 +49,7 @@ Ces aventures désespérées cherchent,
 « Je ne pouvais pas », s'écria Sugríva, «
 Sur le roi géant à regarder,
 
-<span id="p458">[<sup><small>p. 458</small></sup>]</span>
+<span id="p458"><sup><small>[ p. 458 ]</small></sup></span>
 
 Ni défi à la lutte mortelle
 Le démon qui t'a volé ta femme.
@@ -172,7 +172,7 @@ Puis, frappant d'un coup terrible,
 Il a brisé une tourelle du toit,
 Comme lorsque le fougueux Lévine a envoyé
 
-<span id="p459">[<sup><small>p. 459</small></sup>]</span>
+<span id="p459"><sup><small>[ p. 459 ]</small></sup></span>
 
 Par Indra des nuages ​​a déchiré
 Le fier sommet du Seigneur des Neiges,-
@@ -293,7 +293,7 @@ Sur Angad, le tueur de ses ennemis.
 Mais Angad arracha à son ennemi
 La masse meurtrière que portait le guerrier,
 
-<span id="p460">[<sup><small>p. 460</small></sup>]</span>
+<span id="p460"><sup><small>[ p. 460 ]</small></sup></span>
 
 Et ses coursiers roulaient bas dans la poussière,
 Son chauffeur et sa voiture en or.
@@ -403,7 +403,7 @@ Le lien magique que personne ne peut perdre.
 Brave Ráma, brûlant encore de savoir
 La station de son ennemi rusé,
 
-<span id="p461">[<sup><small>p. 461</small></sup>]</span>
+<span id="p461"><sup><small>[ p. 461 ]</small></sup></span>
 
 Donné à dix chefs, parmi les meilleurs
 De toute l'armée, son plus haut commandement.
@@ -531,7 +531,7 @@ Bientôt le couple en transe renaîtra,
 Et de nos cœurs tout chagrin disparaît.
 Bien qu'il soit prosterné sur la terre,
 
-<span id="p462">[<sup><small>p. 462</small></sup>]</span>
+<span id="p462"><sup><small>[ p. 462 ]</small></sup></span>
 
 Ne croyez pas que la mort de Rama soit proche ;
 Ne croyez pas que Lakshmí oubliera
@@ -651,7 +651,7 @@ Toi, ô mon seigneur et ma vie, tu es tué.
 Le voyant flatteur d'autrefois
 Mon doux sourire de jeune fille me louerait,
 
-<span id="p463">[<sup><small>p. 463</small></sup>]</span>
+<span id="p463"><sup><small>[ p. 463 ]</small></sup></span>
 
 Et jure que l'eau bénite a été versée
 Par les mains des Brahmanes sur ma tête
@@ -768,7 +768,7 @@ Les chefs de l'équipage géant.
 Transpercé par des flèches, avec des ruisseaux de sang rouge.
 Tu reposes sur ton humble lit :
 
-<span id="p464">[<sup><small>p. 464</small></sup>]</span>
+<span id="p464"><sup><small>[ p. 464 ]</small></sup></span>
 
 Alors il s'enfonce dans le repos, son voyage terminé,
 Au milieu des rayons fléchés du soleil cramoisi.
@@ -895,7 +895,7 @@ Des éclairs rouges jaillissaient des bancs de nuages.
 Les montagnes tremblaient, les vagues sauvages s'élevaient,
 Et frappé de coups impitoyables
 
-<span id="p465">[<sup><small>p. 465</small></sup>]</span>
+<span id="p465"><sup><small>[ p. 465 ]</small></sup></span>
 
 Chaque arbre majestueux est tombé sans racines
 Qui bordait la marge de la mer.

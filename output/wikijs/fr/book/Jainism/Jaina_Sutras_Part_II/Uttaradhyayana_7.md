@@ -54,7 +54,7 @@ Alors le pécheur qui a tué des êtres vivants, à la fin de sa vie, tombe de s
 
 Comme un homme pour un seul Kâkinî [^117] (risque et) perd mille (Kârshâpa<i>n</i>as), ou comme le roi a perdu son royaume (et la vie) en mangeant une mangue qui lui avait été strictement interdite (par son médecin) [^118] : (11)
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 De même les plaisirs humains sont comparés aux plaisirs des dieux : la vie et les plaisirs divins surpassent (les premiers) mille fois et plus. (12)
 
@@ -80,7 +80,7 @@ Quand on sait ainsi qu'un moine (vertueux) ou un chef de famille sera réjoui (p
 
 Comme une goutte d'eau au sommet d'un brin d'herbe Kusa se réduit à néant comparée à l'océan, ainsi les plaisirs humains se réduisent à néant comparés aux plaisirs divins. (23)
 
-Les plaisirs de cette vie très limitée des hommes sont comme (l'eau au) sommet d'un brin d'herbe de Kusa ; pour quoi un homme ne se soucierait-il pas d'acquérir et de <span id="p31">[<sup><small>p. 31</small></sup>]</span> conserver (un bien si précieux qu'il risque de perdre) ? (24)
+Les plaisirs de cette vie très limitée des hommes sont comme (l'eau au) sommet d'un brin d'herbe de Kusa ; pour quoi un homme ne se soucierait-il pas d'acquérir et de <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> conserver (un bien si précieux qu'il risque de perdre) ? (24)
 
 Celui qui n'a pas renoncé au plaisir manquera son but (c'est-à-dire le véritable but de son âme) ; car bien qu'on lui ait enseigné la bonne voie, il s'égarera encore et encore. (25)
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 
 À ce moment-là, les femmes du palais vinrent rendre hommage au Maître. Gopa, seule,
@@ -43,7 +43,7 @@ manquait. Le roi manifesta sa surprise.
 
 Le Maître quitta son siège et se rendit aux appartements de Gopa. Elle avait abandonné ses vêtements coûteux et ses voiles somptueux ; elle avait jeté ses bracelets et ses colliers ; elle portait une robe rougeâtre, faite d'une étoffe grossière. À la voir ainsi vêtue, il sourit de bonheur. Elle tomba à ses pieds et l'adora.
 
-« Voyez-vous, dit-elle, je voulais m'habiller comme vous êtes habillé ; je voulais connaître votre vie pour vivre comme vous vivez. Vous ne mangez qu'une fois par jour, et je ne mange qu'une fois par jour. Vous avez renoncé à dormir dans un lit ; regardez autour de vous : vous ne verrez pas de lit, car voici le banc sur lequel je dors. Et désormais <span id="p180">[<sup><small>p. 180</small></sup>]</span> j'en aurai fini avec les doux parfums, et je ne mettrai plus de fleurs dans mes cheveux. »
+« Voyez-vous, dit-elle, je voulais m'habiller comme vous êtes habillé ; je voulais connaître votre vie pour vivre comme vous vivez. Vous ne mangez qu'une fois par jour, et je ne mange qu'une fois par jour. Vous avez renoncé à dormir dans un lit ; regardez autour de vous : vous ne verrez pas de lit, car voici le banc sur lequel je dors. Et désormais <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> j'en aurai fini avec les doux parfums, et je ne mettrai plus de fleurs dans mes cheveux. »
 
 « J'étais conscient de ta grande vertu, Gopa », répondit le Maître. « Elle ne t'a pas fait défaut, et je t'en félicite. Combien de femmes au monde auraient eu le courage d'agir comme toi ? »
 

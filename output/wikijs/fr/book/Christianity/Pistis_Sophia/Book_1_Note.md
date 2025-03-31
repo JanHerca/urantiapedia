@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:34:13Z
   </table>
 </figure>
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 <small>Une note écrite par une main ultérieure, copiée d'une autre écriture.</small>
 

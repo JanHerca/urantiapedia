@@ -72,7 +72,7 @@ Lorsque les concombres sont jeunes, nous pouvons savoir s’ils seront bons à m
 
 La pauvreté vient de Dieu, mais pas la saleté.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Nos bonnes actions et nos dons généreux vont au ciel comme des messagers et plaident pour nous devant notre Père céleste.
 
@@ -130,7 +130,7 @@ La rose pousse parmi les épines.
 
 Le vin appartient au maître mais c'est au serveur qu'on doit les remerciements.
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 Celui qui fréquente des choses impures devient lui-même impur ; celui dont les relations sont pures devient chaque jour plus saint.
 
@@ -180,7 +180,7 @@ La maison d’un homme signifie sa femme.
 
 Celui qui répudie sa femme est haï devant Dieu.
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 Si ta femme est petite, penche-toi pour prendre conseil auprès d'elle.
 
@@ -216,7 +216,7 @@ La prière est la seule arme d’Israël, une arme héritée de ses pères, une 
 
 Quand les justes meurent, ils vivent, car leur exemple est vivant.
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 Que le fruit prie pour le bien-être de la feuille.
 
@@ -278,7 +278,7 @@ Quand le bœuf est à terre, nombreux sont les bouchers.
 
 Descends d'un pas dans le choix de ta femme ; monte d'un pas dans le choix de ton ami.
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 Battez les dieux et leurs prêtres trembleront.
 
@@ -316,7 +316,7 @@ Rabbi Gamaliel ordonna à son serviteur Tobi d'apporter quelque chose de bon du 
 
 Les arbres de la forêt demandèrent un jour aux arbres fruitiers : « Pourquoi le bruissement de vos feuilles n'est-il pas entendu au loin ? » Les arbres fruitiers répondirent : « Nous pouvons nous passer de ce bruissement pour manifester notre présence ; nos fruits témoignent pour nous. » Les arbres fruitiers demandèrent alors aux arbres de la forêt :
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 « Pourquoi tes feuilles bruissent-elles presque continuellement ? » « Nous sommes obligés d'attirer l'attention de l'homme sur notre existence. »
 
@@ -404,7 +404,7 @@ La charité est plus que des sacrifices.
 
 Un jour, un philosophe demanda au rabbin Akiba : « Si votre Dieu aime les pauvres, pourquoi ne les soutient-il pas ? »
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 « Dieu permet que les pauvres soient toujours avec nous », répondit Akiba, « afin que les occasions de faire le bien ne manquent jamais. »
 
@@ -436,7 +436,7 @@ Des larmes sont versées sur l’autel de Dieu pour celui qui abandonne son prem
 
 Celui qui aime sa femme comme lui-même et l'honore plus que lui-même, élèvera correctement ses enfants ; il rencontrera aussi l'accomplissement du verset : « Et tu sauras qu'il y a de la paix dans ta tente, et tu surveilleras ta demeure et tu ne manqueras de rien. »
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 Je n’appelle jamais ma femme « épouse », mais « maison », car c’est elle, en effet, qui fait de moi ma maison.
 
@@ -480,7 +480,7 @@ Il vaut mieux supporter une fausse accusation en silence, que de parler et de fa
 
 Celui qui peut avoir honte ne fera pas facilement le mal.
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 Il y a une grande différence entre celui qui peut avoir honte devant sa propre âme et celui qui n’a honte que devant son prochain.
 
@@ -530,7 +530,7 @@ Celui qui a plus de savoir que de bonnes œuvres est comme un arbre aux nombreus
 
 ---
 
-Mieux vaut la malédiction du juste que la bénédiction du méchant. Mieux vaut la malédiction d'Achia, le Sélonite, que la bénédiction de Bil'am, fils de Beor. Ainsi Achia maudit les Israélites : « Et l'Éternel frappera Israël comme le roseau qu'on secoue dans l'eau. » Le roseau plie, mais ne se rompt pas, car il pousse près de l'eau, et ses racines sont fortes. Ainsi Bil'am bénit Israël, « comme des cèdres au bord des eaux. » Les cèdres ne poussent pas au bord des eaux ; <span id="p344">[<sup><small>p. 344</small></sup>]</span> leurs racines sont faibles, et quand soufflent les vents violents, elles se brisent.
+Mieux vaut la malédiction du juste que la bénédiction du méchant. Mieux vaut la malédiction d'Achia, le Sélonite, que la bénédiction de Bil'am, fils de Beor. Ainsi Achia maudit les Israélites : « Et l'Éternel frappera Israël comme le roseau qu'on secoue dans l'eau. » Le roseau plie, mais ne se rompt pas, car il pousse près de l'eau, et ses racines sont fortes. Ainsi Bil'am bénit Israël, « comme des cèdres au bord des eaux. » Les cèdres ne poussent pas au bord des eaux ; <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> leurs racines sont faibles, et quand soufflent les vents violents, elles se brisent.
 
 ---
 
@@ -556,7 +556,7 @@ Le roi suivit ce conseil. Il envoya des ouvriers et des matériaux sur l'île d�
 
 Le jour arriva; l'esclave affranchi, qui avait été fait roi, fut privé de son autorité; avec son pouvoir, il perdit ses vêtements royaux; nu, il fut placé sur un navire, et ses voiles furent levées vers l'île désolée.
 
-Lorsqu'il approcha de ses rivages, le peuple qu'il avait envoyé là-bas vint à sa rencontre avec musique, <span id="p346">[<sup><small>p. 346</small></sup>]</span> chants et une grande joie. Ils firent de lui un prince parmi eux, et il vécut désormais avec eux dans la douceur et la paix.
+Lorsqu'il approcha de ses rivages, le peuple qu'il avait envoyé là-bas vint à sa rencontre avec musique, <span id="p346"><sup><small>[ p. 346 ]</small></sup></span> chants et une grande joie. Ils firent de lui un prince parmi eux, et il vécut désormais avec eux dans la douceur et la paix.
 
 L'homme riche et bienveillant est Dieu, et l'esclave à qui il a donné la liberté est l'âme qu'il donne à l'homme. L'île où l'esclave arrive est le monde ; nu et en pleurs, il apparaît à ses parents, qui sont des habitants qui l'accueillent chaleureusement et le font roi. Les amis qui lui parlent des coutumes du pays sont ses « bons penchants ». L'année de son règne est la durée de sa vie, et l'île désolée est le monde futur, qu'il doit embellir par ses bonnes actions, « les ouvriers et les matériaux », sous peine de vivre solitaire et désolé à jamais.
 
@@ -582,7 +582,7 @@ Le vieil homme répondit :
 
 Le vieil homme vécut assez longtemps pour goûter à ce fruit, et se souvenant des paroles de l'empereur, il résolut de lui rendre visite. Alors, prenant un petit panier, il le remplit des meilleures figues de l'arbre et partit pour sa mission. Après avoir expliqué son intention au garde du palais, il fut admis auprès du souverain.
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 « Eh bien, demanda l’empereur, quel est ton souhait ? »
 
@@ -636,7 +636,7 @@ Le propriétaire semblait quelque peu perplexe face à ce mode de distribution, 
 
 Le fils du marchand partagea alors le poulet. Il donna la tête au propriétaire et à sa femme, les pattes aux deux fils, les ailes aux deux filles, et prit le corps pour lui. Ce fut sa troisième action sage.
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 Le propriétaire a dit :
 
@@ -656,7 +656,7 @@ Le citoyen ainsi chargé arriva à Athina et rencontra très vite l'homme qu'il 
 
 Le cordonnier répara la corde, et l'homme lui paya une pièce de monnaie d'une valeur supérieure à celle des chaussures.
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 Le lendemain, alors qu'il marchait avec le même homme, il cassa la corde de son autre chaussure et, se rendant chez le cordonnier, il lui paya la même grosse somme pour la réparer.
 
@@ -690,7 +690,7 @@ Cherchant le Hiérosolymitain qui l’avait trompé, il dit :
 
 « Que cela te serve de leçon », répondit le Hiérosolymitain. « Je ne pense pas que tu seras aussi prompt à te moquer de nous à l'avenir. »
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Un jeune homme, lors de ses voyages à travers la campagne, rencontra une jeune femme et ils s'attachèrent mutuellement. Lorsque le jeune homme fut obligé de quitter le quartier de la résidence de la demoiselle, ils se retrouvèrent pour se dire au revoir. Au cours de la séparation, ils se jurèrent fidélité et promirent d'attendre jusqu'à ce qu'un jour, ils puissent se marier. « Qui sera le témoin de nos fiançailles ? » demanda le jeune homme. Juste à ce moment, ils aperçurent une belette passer devant eux et disparaître dans les bois. « Voyez », poursuivit-il, « cette belette et ce puits près duquel nous nous trouvons seront les témoins de nos fiançailles. » Et ainsi ils se séparèrent. Les années passèrent, la jeune fille resta fidèle, mais le jeune homme se maria. Un fils lui naquit, qui fit le bonheur de ses parents. Un jour, alors que l'enfant jouait, il se fatigua et, étendu par terre, s'endormit. Une belette le mordit au cou et le vidait de son sang. Les parents furent consumés par le chagrin de cette calamité, et ce ne fut que lorsqu'un autre fils leur fut donné qu'ils oublièrent leur chagrin. Mais lorsque ce deuxième enfant put marcher seul, il erra hors de la maison et, penché sur le puits, regardant son ombre dans l'eau, perdit l'équilibre et se noya. Alors le père se souvint de son parjure et de ses témoins, la belette et le puits. Il raconta la situation à sa femme, qui accepta le divorce. Il alla alors chercher la jeune fille à qui il avait promis le mariage, et la trouva toujours en attente de son retour. Il lui raconta comment, par l'action de Dieu, il avait été puni pour sa faute, après quoi ils se marièrent et vécurent en paix.
 
@@ -698,7 +698,7 @@ Un sage Israélite, résidant à quelque distance de Jérusalem, envoya son fils
 
 Dès que son maître mourut, l'esclave, enchanté de sa bonne fortune, se hâta de se rendre à Jérusalem, informa le fils de son défunt maître de ce qui s'était passé et lui montra le testament.
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 Le jeune homme fut surpris et attristé par cette nouvelle. Après le temps de deuil, il commença à réfléchir sérieusement à sa situation. Il alla trouver son maître, lui expliqua la situation, lui lut le testament de son père et exprima avec amertume la déception de ses espoirs et attentes légitimes. Il ne voyait rien qui puisse offenser son père et se plaignait haut et fort de l'injustice qu'il avait subie.
 
@@ -716,7 +716,7 @@ Pour empêcher ces choses, il a légué ses biens à son esclave, sachant bien q
 
 Le jeune homme suivit ses conseils et rendit ensuite sa liberté à l'esclave. Mais il avait toujours l'habitude de s'exclamer :
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 « La sagesse réside dans les vieillards, et l’intelligence dans la longueur des jours. »
 
@@ -774,7 +774,7 @@ Rabbi Jochanan, fils de Lévi, jeûna et pria le Seigneur de lui permettre de co
 
 Mais le rabbin continua à le supplier :
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 « Je ne te dérangerai ni ne t’interrogerai, dit-il ; laisse-moi seulement t’accompagner sur ton chemin. »
 
@@ -800,7 +800,7 @@ Le matin, en les quittant, Élie dit : « Que l’Éternel n’établisse sur vo
 
 Jochanan ne put résister plus longtemps à sa curiosité. « Dis-moi », dit-il à Élie, « dis-moi le sens de tous ces actes dont j'ai été témoin. À ceux qui nous ont traités avec froideur, tu as adressé de bons vœux ; à ceux qui nous ont fait grâce, tu n'as rien fait de convenable. Même si nous devons nous séparer, je te prie de m'expliquer le sens de tes actes. »
 
-« Écoute », dit Élie, « et apprends à faire confiance à Dieu, même si tu ne peux comprendre ses voies. » Nous sommes d'abord entrés dans la maison du pauvre homme, qui nous a traités avec tant de bonté. Sache qu'il avait été décrété que ce jour-là même, sa femme mourrait. J'ai prié le Seigneur que la vache serve de rédemption pour elle ; Dieu a exaucé mes prières, et la femme a été préservée auprès de son mari. L'homme riche, que nous avons ensuite appelé, nous a traités froidement, et j'ai réparé son mur. Je l'ai réparé sans nouvelles fondations, sans creuser jusqu'à l'ancienne. S'il l'avait réparé lui-même, il aurait creusé et ainsi découvert un trésor qui repose là enfoui, mais qui est maintenant à jamais perdu pour lui. Aux membres de la synagogue qui se sont montrés inhospitaliers, j'ai dit : « Puissiez-vous tous être présidents, et là où plusieurs gouvernent, il ne peut y avoir de paix ! » Mais aux autres, j'ai dit : « Puissiez-vous n'avoir qu'un seul président ! » Avec un seul chef, aucun malentendu ne peut survenir. Or, si tu vois le méchant prospérer, ne sois pas envieux ; si tu vois le juste dans la pauvreté <span id="p358">[<sup><small>p. 358</small></sup>]</span> et la détresse, ne t’irrite pas et ne doute pas de la justice de Dieu. Le Seigneur est juste, tous ses jugements sont vrais ; ses yeux observent tous les hommes, et personne ne peut dire : « Que fais-tu ? »
+« Écoute », dit Élie, « et apprends à faire confiance à Dieu, même si tu ne peux comprendre ses voies. » Nous sommes d'abord entrés dans la maison du pauvre homme, qui nous a traités avec tant de bonté. Sache qu'il avait été décrété que ce jour-là même, sa femme mourrait. J'ai prié le Seigneur que la vache serve de rédemption pour elle ; Dieu a exaucé mes prières, et la femme a été préservée auprès de son mari. L'homme riche, que nous avons ensuite appelé, nous a traités froidement, et j'ai réparé son mur. Je l'ai réparé sans nouvelles fondations, sans creuser jusqu'à l'ancienne. S'il l'avait réparé lui-même, il aurait creusé et ainsi découvert un trésor qui repose là enfoui, mais qui est maintenant à jamais perdu pour lui. Aux membres de la synagogue qui se sont montrés inhospitaliers, j'ai dit : « Puissiez-vous tous être présidents, et là où plusieurs gouvernent, il ne peut y avoir de paix ! » Mais aux autres, j'ai dit : « Puissiez-vous n'avoir qu'un seul président ! » Avec un seul chef, aucun malentendu ne peut survenir. Or, si tu vois le méchant prospérer, ne sois pas envieux ; si tu vois le juste dans la pauvreté <span id="p358"><sup><small>[ p. 358 ]</small></sup></span> et la détresse, ne t’irrite pas et ne doute pas de la justice de Dieu. Le Seigneur est juste, tous ses jugements sont vrais ; ses yeux observent tous les hommes, et personne ne peut dire : « Que fais-tu ? »
 
 Sur ces mots, Élie disparut, et Jochanan resta seul.
 
@@ -824,7 +824,7 @@ Lorsque Dieu s'apprêta à créer l'homme, les anges se rassemblèrent autour de
 
 Mais d’autres disaient :
 
-<span id="p359">[<sup><small>p. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 « Écoute-nous, Roi Tout-Puissant, ne crée plus rien ! La glorieuse harmonie des cieux que Tu as envoyée sur terre sera troublée, détruite par l'homme. »
 
@@ -878,7 +878,7 @@ Alors les officiers des ravisseurs dirent : « Ces hommes sont des hommes de mor
 
 Mais Pélatya, fils de Yehoyada, s'avança et s'adressa ainsi à Nebucadnetsar :
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 « Voici, si un troupeau est livré entre les mains d’un berger, et qu’un loup vole un agneau du troupeau, dites-moi, qui est responsable envers le maître de l’animal perdu ? »
 
@@ -914,7 +914,7 @@ Bar Kamtzah parla alors traîtreusement au roi contre les Juifs, en disant : « 
 
 « Envoyez un sacrifice à leur Temple et il sera rejeté », répondit Bar Kamtzah.
 
-Le souverain envoya alors un veau en bon état pour être sacrifié pour lui dans le Temple, mais par les machinations <span id="p363">[<sup><small>p. 363</small></sup>]</span> de Bar Kamtzah, le messager lui infligea une tache et, bien sûr, n'étant pas apte au sacrifice, il ne fut pas accepté.
+Le souverain envoya alors un veau en bon état pour être sacrifié pour lui dans le Temple, mais par les machinations <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> de Bar Kamtzah, le messager lui infligea une tache et, bien sûr, n'étant pas apte au sacrifice, il ne fut pas accepté.
 
 C'est pour cette raison que César fut envoyé prendre Jérusalem et assiégea la ville pendant deux ans. Quatre riches citoyens de Jérusalem avaient accumulé suffisamment de vivres pour que les habitants puissent survivre bien plus longtemps, mais le peuple, impatient de combattre les Romains, détruisit les entrepôts et provoqua une terrible famine dans la ville.
 
@@ -948,7 +948,7 @@ Sa mort a immédiatement suivi ses paroles courageuses.
 
 « Ma religion m'enseigne : « Tu n'adoreras aucun autre Dieu », dit le troisième fils, « et j'accueille favorablement le sort accordé à mes frères plutôt que de m'incliner devant toi ou tes images. »
 
-Le même hommage fut exigé du quatrième fils, mais courageux et fidèle comme ses frères, il répondit : « Celui qui <span id="p365">[<sup><small>p. 365</small></sup>]</span> sacrifie à un autre Dieu qu'au Seigneur seul », et fut impitoyablement tué.
+Le même hommage fut exigé du quatrième fils, mais courageux et fidèle comme ses frères, il répondit : « Celui qui <span id="p365"><sup><small>[ p. 365 ]</small></sup></span> sacrifie à un autre Dieu qu'au Seigneur seul », et fut impitoyablement tué.
 
 « Écoute, Israël ! L'Éternel, notre Dieu, est l'unique Éternel ! » s'écria le cinquième garçon, abandonnant sa jeune vie au mot d'ordre des armées d'Israël.
 
@@ -972,7 +972,7 @@ Le tyran parlait toujours avec douceur et avec des mots gentils.
 
 « Regarde, continua l'autre, tes frères sont massacrés devant toi ; leur sort sera le tien si tu refuses d'obéir à mes désirs. Regarde, je vais jeter mon anneau à terre, baisse-toi et ramasse-le ; je considérerai alors l'allégeance à mes dieux. »
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 « Crois-tu que je crains tes menaces ? » répondit le jeune homme, serein ; « pourquoi devrais-je craindre un être humain plus que le grand Dieu, le Roi des rois ? »
 
@@ -998,7 +998,7 @@ Elle jeta ses bras autour du jeune homme, le serrant fort contre sa poitrine et 
 
 « Non », répondit-il en se moquant, « je ne peux pas le faire, car tes propres lois l’interdisent ; « Que ce soit un bœuf ou un mouton, tu ne le tueras pas, lui et ses petits, le même jour. »
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 « Oh, malheur à toi », répondit la mère, « toi qui respectes si rigoureusement les lois. » Puis, serrant son fils contre son cœur : « Va, mon cher », dit-elle, « dis à Abraham que mon sacrifice a surpassé le sien. Il a bâti un autel pour y sacrifier Isaac ; ta mère a bâti sept autels et sacrifié sept Isaacs en un seul jour. Il n'a été que tenté ; ta mère a accompli sa volonté. »
 
@@ -1032,7 +1032,7 @@ Le roi fut attristé et surpris, et Maïmonide, frappé de stupeur, fut incapabl
 
 « La mort est la peine pour quiconque tente d'assassiner son souverain », dit le roi. « Choisis maintenant ton châtiment. »
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Moïse demanda trois jours de réflexion, ce que le roi lui accorda. Durant ce temps, il prépara une mixture et demanda à ses disciples de la préparer et de l'appliquer selon ses instructions, lorsqu'il serait ramené inconscient. Il se présenta alors devant le roi et demanda qu'on lui ouvre les veines. L'artère vitale manqua, comme il l'avait prévu, et le résultat fut conforme à ses prévisions. Après sa guérison, il s'enfuit d'Égypte et se réfugia dans une grotte, où il écrivit son Fad Hazakah (la « Main forte »), composé de quatorze divisions, symbolisées par le mot Yad, qui signifie également quatorze.
 
@@ -1044,7 +1044,7 @@ Maïmonide mourut à l'âge de soixante-dix ans et sa dépouille fut inhumée au
 
 Sous le règne d'un évêque de Metz, vivait un Juif du nom de Rabbi Amnon. Issu d'une famille illustre, d'un grand mérite personnel, il était riche et respecté de l'évêque et du peuple. L'évêque le pressa fréquemment d'abjurer le judaïsme et d'embrasser le christianisme, mais sans succès. Or, un jour, pressé plus que d'habitude et soucieux d'être débarrassé des importunités de l'évêque, il dit précipitamment : « J'examinerai la question et te donnerai une réponse dans trois jours. »
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 Dès qu'il eut quitté l'évêque, son cœur se serra, et une conscience troublée le blâma d'avoir admis, même de cette manière, un doute sur la vraie foi. Il rentra chez lui accablé de chagrin ; on lui servit de la nourriture, mais il refusa de manger ; et lorsque ses amis vinrent lui rendre visite et s'enquérèrent de la cause de son abattement, il refusa leurs consolations, disant : « Je descendrai au tombeau en deuil pour ces paroles. » Le troisième jour, alors qu'il se lamentait encore de son imprudente concession, l'évêque le fit appeler, mais il refusa de répondre.
 
@@ -1062,7 +1062,7 @@ Rabbi Amnon supporta tout cela avec la plus grande résignation, espérant ferme
 
 Sa vie après cela ne se résumait évidemment qu'à quelques jours. La fête du Nouvel An arriva, de son vivant, et il demanda à être conduit à la synagogue. On le conduisit à la maison de Dieu et, pendant l'office, il demanda à prononcer une prière. Voici ses dernières paroles :
 
-« Je proclamerai la sainteté majestueuse de ce jour, car il est terrible et terrible. Ton royaume s'élève là-dessus ; <span id="p371">[<sup><small>p. 371</small></sup>]</span> Ton trône est établi dans la miséricorde, et sur lui Tu reposes » en vérité. Tu es le juge qui châtie, et rien ne peut te rester caché. Tu rends témoignage, tu écris, tu scelles, tu enregistres et tu te souviens de toutes choses, oui, de celles que nous imaginons depuis longtemps enfouies dans le passé. Tu ouvres le Livre des Annales ; le grand _shophar_ (cornet) sonne ; même les anges sont terrifiés et s'écrient à haute voix : « Le Jour du Jugement se lève sur nous », car en matière de jugement, eux, les anges, ne sont pas sans défaut.
+« Je proclamerai la sainteté majestueuse de ce jour, car il est terrible et terrible. Ton royaume s'élève là-dessus ; <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> Ton trône est établi dans la miséricorde, et sur lui Tu reposes » en vérité. Tu es le juge qui châtie, et rien ne peut te rester caché. Tu rends témoignage, tu écris, tu scelles, tu enregistres et tu te souviens de toutes choses, oui, de celles que nous imaginons depuis longtemps enfouies dans le passé. Tu ouvres le Livre des Annales ; le grand _shophar_ (cornet) sonne ; même les anges sont terrifiés et s'écrient à haute voix : « Le Jour du Jugement se lève sur nous », car en matière de jugement, eux, les anges, ne sont pas sans défaut.
 
 Tous ceux qui sont venus au monde passent devant toi. Comme le berger fait passer le troupeau qu'il compte sous sa houlette, ainsi toi, Seigneur, tu fais passer devant toi toute âme vivante. Tu comptes, tu visites, fixant les limites de chaque créature, ton jugement et ta sentence.
 
@@ -1070,9 +1070,9 @@ Tous ceux qui sont venus au monde passent devant toi. Comme le berger fait passe
 
 Lorsqu'il eut terminé cette déclaration, dans laquelle il se proposait de reconnaître son péché et la justice de son châtiment, Rabbi Amnon expira, mourant dignement dans la maison de Dieu, parmi les fils d'Israël assemblés.
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 TROISIÈME CONFÉRENCE, INTIMÉ CHAUD ET FROID.
 
@@ -43,7 +43,7 @@ Les imprudents dorment, les sages veillent toujours. Sache que, dans ce monde, l
 Mais un homme toujours dans l'ignorance, sujet à la vieillesse et à la mort, ne connaît pas la loi. Voyant les êtres vivants souffrir, entrez sincèrement dans la vie religieuse [^155]. Considérant cela, ô prudent, regarde !
 
 Connaissant la misère qui résulte de l’action,
-L'égaré et l'insouciant revient à la vie ; <span id="p29">[<sup><small>p. 29</small></sup>]</span> Sans tenir compte des sons et des couleurs, debout,
+L'égaré et l'insouciant revient à la vie ; <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> Sans tenir compte des sons et des couleurs, debout,
 En évitant Mâra, on est libéré de la mort [1](Akaranga_1_3#fn156).
 
 S'abstenant soigneusement des plaisirs et cessant les mauvaises actions, il est un héros, se protégeant lui-même, qui est fondé sur la connaissance [2](Akaranga_1_3#fn157). (3) Celui qui connaît la violence exercée pour des objets particuliers, sait ce qui est exempt de violence [3](Akaranga_1_3#fn158) ; celui qui connaît ce qui est exempt de violence, connaît la violence exercée pour des objets particuliers. Pour celui qui est sans karman, il n'y a pas d'appellation [4](Akaranga_1_3#fn159). La condition des êtres vivants découle du karman.
@@ -58,7 +58,7 @@ En examinant le karman et sa racine, c'est-à-dire en le tuant [5](Akaranga_1_3#
 Regardez, Monsieur, la naissance et la vieillesse ici,
 Examinez et connaissez le bonheur des vivants,
 De là le plus savant, connaissant (ce qu'on appelle) le bien suprême,
-Celui qui a une intuition juste ne commet pas de péché. (1) <span id="p30">[<sup><small>p. 30</small></sup>]</span> Défaites ici le lien avec les mortels ;
+Celui qui a une intuition juste ne commet pas de péché. (1) <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> Défaites ici le lien avec les mortels ;
 Celui qui vit par le péché est sujet aux deux [^164],
 Désireux de plaisirs, ils accumulent du karman,
 Influencés par cela, ils renaissent. (2)
@@ -71,7 +71,7 @@ En les coupant, il se sait libre du karman. (4)
 
 Cet homme sera libéré de la mort ; c'est un sage qui voit le danger [^166], qui connaît le bien suprême en ce monde, qui mène une vie circonspecte, calme, prudent, doté (de connaissances, etc.), toujours contenu, aspirant à la mort, il devrait mener une vie religieuse. Les actions pécheresses sont nombreuses, certes ; soyez donc fidèle à la vérité ! S'y complaisant [^167], un homme sage détruit tout karman. (1)
 
-Nombreux sont, en effet, les projets de cet homme (du monde) ; il veut satisfaire ses désirs ; il provoque ainsi le massacre, la souffrance, le châtiment, le massacre, le blâme, <span id="p31">[<sup><small>p. 31</small></sup>]</span> le châtiment de toute une province. C’est en faisant de telles choses que certains se sont donné beaucoup de mal [^168]. (2)
+Nombreux sont, en effet, les projets de cet homme (du monde) ; il veut satisfaire ses désirs ; il provoque ainsi le massacre, la souffrance, le châtiment, le massacre, le blâme, <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> le châtiment de toute une province. C’est en faisant de telles choses que certains se sont donné beaucoup de mal [^168]. (2)
 
 Par conséquent, la seconde croyance (c'est-à-dire la fausse croyance) n'est pas respectée. Le connaisseur, voyant la vanité (du monde) \[^169]\], le Brahman suit l'incomparable (le contrôle des <i>G</i>ainas). Il ne doit pas tuer, ni inciter autrui à tuer, ni consentir au meurtre d'autrui. « Évite la gaieté, ne te délecte pas des créatures (c'est-à-dire des femmes), possède l'intuition la plus élevée, » s'abstient des actes pécheurs. (3)
 
@@ -90,7 +90,7 @@ Il ne devrait pas prendre la vie des êtres vivants.
 
 ## TROISIÈME LEÇON.
 
-« Connaissant les liens du monde, (l'insouciance n'est pas à son avantage [^171]). » « Regarde l'extérieur <span id="p32">[<sup><small>p. 32</small></sup>]</span> (le monde par analogie avec toi-même) ; \[alors\] tu ne tueras ni ne détruiras (les êtres vivants) ; » c'est-à-dire que par égard réciproque \[en examinant attentivement\] il ne commet aucun acte pécheur. Quelle est la caractéristique d'un sage ? « Reconnaissant l'égalité (de tous les êtres vivants), il s'apaise. » (1)
+« Connaissant les liens du monde, (l'insouciance n'est pas à son avantage [^171]). » « Regarde l'extérieur <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> (le monde par analogie avec toi-même) ; \[alors\] tu ne tueras ni ne détruiras (les êtres vivants) ; » c'est-à-dire que par égard réciproque \[en examinant attentivement\] il ne commet aucun acte pécheur. Quelle est la caractéristique d'un sage ? « Reconnaissant l'égalité (de tous les êtres vivants), il s'apaise. » (1)
 
 Connaissant le bien suprême, il ne faut jamais être négligent ;
 En se gardant soi-même, toujours prudent, on doit passer la vie sur le bon chemin.
@@ -102,7 +102,7 @@ Certains ne se souviennent pas de ce qui a précédé le présent : « Quel a é
 Il n’y a pas de chose passée, ni de chose future ;
 C’est ce qu’affirment les Tathâgatas.
 
-Celui dont le karman a cessé et dont la conduite est droite, <span id="p33">[<sup><small>p. 33</small></sup>]</span> qui reconnaît la vérité (énoncée ci-dessus) et détruit le péché (pense) :
+Celui dont le karman a cessé et dont la conduite est droite, <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> qui reconnaît la vérité (énoncée ci-dessus) et détruit le péché (pense) :
 
 Qu'est-ce que le mécontentement et qu'est-ce que le plaisir ? Sans être soumis à aucun des deux, il faut vivre ;
 
@@ -117,7 +117,7 @@ Homme ! Tu es ton propre ami ; pourquoi désires-tu un ami au-delà de toi-même
 
 ## QUATRIÈME LEÇON.
 
-Cet homme (c'est-à-dire l'affranchi) triomphe de la colère, de l'orgueil, de la tromperie et de la cupidité. Telle est la doctrine du Voyant qui ne nuit pas aux êtres vivants et a mis fin (aux actes et au sa<i>m</i>sâra). Prévenir <span id="p34">[<sup><small>p. 34</small></sup>]</span> la propension au péché détruit les actions antérieures. Celui qui sait une chose, sait tout ; et celui qui sait tout, sait une chose [^180]. Celui qui est négligent à tous égards est en danger [^181] ; celui qui n'est pas négligent à tous égards est à l'abri du danger. (1)
+Cet homme (c'est-à-dire l'affranchi) triomphe de la colère, de l'orgueil, de la tromperie et de la cupidité. Telle est la doctrine du Voyant qui ne nuit pas aux êtres vivants et a mis fin (aux actes et au sa<i>m</i>sâra). Prévenir <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> la propension au péché détruit les actions antérieures. Celui qui sait une chose, sait tout ; et celui qui sait tout, sait une chose [^180]. Celui qui est négligent à tous égards est en danger [^181] ; celui qui n'est pas négligent à tous égards est à l'abri du danger. (1)
 
 Celui qui conquiert une passion en conquiert plusieurs ; et celui qui conquiert plusieurs en conquiert un. « Connaissant la misère du monde », rejetant le lien avec le monde, « les héros entreprennent le grand voyage », ils s'élèvent progressivement ; « ils ne désirent pas la vie. » (2)
 
@@ -127,7 +127,7 @@ Celui qui connaît [^182] la colère, connaît l'orgueil ; celui qui connaît l'
 
 Par conséquent, un homme sage devrait éviter la colère, l’orgueil, la tromperie, la cupidité, l’amour, la haine, l’illusion, la conception, la naissance, la mort, l’enfer, l’existence animale et la douleur.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Telle est la doctrine du Voyant, qui ne nuit pas aux êtres vivants et a mis fin (aux actes et au sa<i>m</i>sâra). Empêcher la propension au péché détruit les actions passées. Y a-t-il une faiblesse terrestre chez le Voyant ? Il n'en existe aucune, il n'y en a aucune. Ainsi dis-je. (4)
 

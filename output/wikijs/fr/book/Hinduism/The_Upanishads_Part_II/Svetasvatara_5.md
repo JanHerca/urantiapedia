@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 ## CINQUIÈME ADHYÂYA.
 
@@ -40,13 +40,13 @@ dateCreated: 2025-1-16T20:6:29Z
 
 2\. C'est lui qui, n'étant qu'un, règne sur tout germe (cause), sur toutes les formes et sur tous les germes ; c'est lui qui, au commencement, porte [^809] dans ses pensées le fils sage, le fougueux, qu'il désire regarder [^810] pendant qu'il naît [^811].
 
-3 [^812]. Dans ce champ [^813] où le dieu, après avoir tendu un filet après l'autre [^814] de diverses manières, le resserre à nouveau, le Seigneur, le grand Soi [^815], ayant <span id="p256">[<sup><small>p. 256</small></sup>]</span> créé en outre les seigneurs [^816], exerce ainsi sa seigneurie sur tous.
+3 [^812]. Dans ce champ [^813] où le dieu, après avoir tendu un filet après l'autre [^814] de diverses manières, le resserre à nouveau, le Seigneur, le grand Soi [^815], ayant <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> créé en outre les seigneurs [^816], exerce ainsi sa seigneurie sur tous.
 
 4\. Comme le char (du soleil) brille, éclairant tous les quartiers, au-dessus, au-dessous et à travers, ainsi ce dieu, le saint, l'adorable, étant un, règne sur tout ce qui a la nature d'un germe [^817].
 
 5\. Lui, étant un, règne sur tous et sur toute chose, de sorte que le germe universel mûrit sa nature, diversifie toutes les natures qui peuvent être mûries [^818] et détermine toutes les qualités [^819].
 
-6 [^820]. Brahma (Hira<i>n</i>yagarbha) sait cela, ce qui est caché dans les Upanishads, qui sont cachés dans les Védas, comme le germe de Brahma. Les anciens dieux <span id="p257">[<sup><small>p. 257</small></sup>]</span> et poètes qui le savaient, ils le sont devenus et sont devenus immortels.
+6 [^820]. Brahma (Hira<i>n</i>yagarbha) sait cela, ce qui est caché dans les Upanishads, qui sont cachés dans les Védas, comme le germe de Brahma. Les anciens dieux <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> et poètes qui le savaient, ils le sont devenus et sont devenus immortels.
 
 7 [^821]. Mais celui qui est doté de qualités, accomplit des œuvres fructueuses et jouit de la récompense de tout ce qu'il a fait, migre par ses propres œuvres, maître de la vie, assumant toutes les formes, guidé par les trois Gu<i>n</i>as et suivant les trois chemins [^822].
 

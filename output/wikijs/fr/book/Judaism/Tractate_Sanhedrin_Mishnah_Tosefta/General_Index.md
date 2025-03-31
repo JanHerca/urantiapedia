@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:30Z
   </table>
 </figure>
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 AARON, [27](1_1#p27)
 
@@ -174,7 +174,7 @@ Roi, [48](1_5#p48) et suiv.
 
 Les proches comme témoins ou juges, [60](2_1#p60), [61](2_1#p61)
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Koré, la compagnie de, [127](4_C#p127)
 

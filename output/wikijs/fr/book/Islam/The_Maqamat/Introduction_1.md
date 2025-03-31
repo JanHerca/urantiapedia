@@ -32,7 +32,7 @@ dateCreated: 2024-11-25T21:24:44Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 Le Ḥáfiz Aḥmad ibn al-Ḥusain ibn Yaḥya ibn Ṣa‘íd ibn Bashar Abú’l-Faḍl al-Hamadhání, surnommé Badí ‘al-Zamán (la Merveille du Siècle), naquit à Hamadhán le 13 Joumádí al-Ákhir 358 A.H. (967 A.D.) et, par conséquent, comme beaucoup d’autres écrivains arabes éminents, vécut loin de l’Arabie et peut-être même était-il d’origine perse. [^0] Il prétendait lui-même être un descendant des tribus de Taghlib et de Muḍar. [^1]
 
@@ -44,7 +44,7 @@ On dit qu'il a satirisé sa ville natale dans les lignes bien connues :—[^2]
 Hamadhán est ma ville natale, je dois lui accorder cet honneur, mais c'est la plus vile des villes.
 Dans la laideur, ses enfants sont comme ses vieillards, et, dans la raison, ses vieillards sont comme ses enfants.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 À la page 419 des Lettres, il cite le vers d'un autre poète :
 
@@ -88,7 +88,7 @@ Comme personne n'aurait pu imaginer qu'il y eût un savant qui, quelles que soie
 
 À la mort d’al-Khwárazmí en 383 A.H. (selon Ibn al-Athír en 393 A.H.), Hamadhání se retrouva sans rival. On ne sait pas combien de temps il resta à Nishapur, mais dans une lettre adressée à Shaikh Abd ‘Alí pour demander une lettre à l’émir, il se plaignit que son séjour y avait été long, qu’il souffrait d’insomnie et que, s’il y avait un retard dans l’envoi de la lettre, il serait obligé de partir sans l’envoyer. [^24] Après avoir quitté cette ville, il visita toutes les villes importantes du Khurásán, du Sijistán (Seistan) et du royaume de Ghazna, récitant probablement son maqámát devant un public admiratif partout où il allait. Il s’installa finalement à Hérat [^25] où il améliora considérablement sa situation et ses conditions de vie en épousant la fille d’un homme riche nommé Abú ‘Alí Ḥusain al-Khushnámí. De ce mariage, il eut une fille unique à laquelle il se réfère dans les termes les plus affectueux. Il écrit : « Je lui suis aussi dévoué qu’un père à son fils unique et je ne l’échangerais pas contre dix fils. » [^26]
 
-Il semble avoir entretenu une correspondance abondante avec un grand nombre de personnages éminents, dont les principaux étaient : Cheikh Abd 'Abbás, premier ministre du sultan Maḥmúd de Ghazna, Adnán ibn Muḥammad, le gouverneur de <span id="p7">[<sup><small>p. 7</small></sup>]</span> Herat, Abú Ja'far al-Míkálí, Muḥammad ibn Zuheir, le gouverneur de Balkh, le vizir de Rayy et d'autres.
+Il semble avoir entretenu une correspondance abondante avec un grand nombre de personnages éminents, dont les principaux étaient : Cheikh Abd 'Abbás, premier ministre du sultan Maḥmúd de Ghazna, Adnán ibn Muḥammad, le gouverneur de <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> Herat, Abú Ja'far al-Míkálí, Muḥammad ibn Zuheir, le gouverneur de Balkh, le vizir de Rayy et d'autres.
 
 La compétence dans l'art épistolaire, dont Hamadhání pouvait se vanter, était un passeport sûr pour l'avancement à l'époque de l'auteur, mais il ne semble pas avoir occupé de poste officiel et les allusions à sa nomination comme gouverneur de Baṣra [^27] et administrateur d'une province en Syrie [^28] sont, selon toute probabilité, une fiction. [^29] Il mourut à Herat le vendredi 11 Jumádí'l 'Ula. A.H. 398 (février 1008) [^30] à l'âge relativement jeune de quarante années lunaires, soit huit ans plus jeune que Ḥarírí lorsqu'il commença à composer son Maqámát. [^31]
 

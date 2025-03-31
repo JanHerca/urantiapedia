@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 ## YASNA XLV. LA DOCTRINE DU DUALISME. HOMMAGE À AHURA.
 
@@ -56,17 +56,17 @@ Le prophète ardent proclame donc la séparation totale entre le bien et le mal,
 
 9\. Et il désire d'autant plus ardemment rendre hommage à Ahura, qu'Il s'approche de lui avec la Puissance de Son Autorité divine dans le bonheur comme dans le malheur, bénissant hommes et troupeaux tant qu'ils se multiplient sous l'influence de la Piété. 10. Comme les louanges étaient les « plus grandes », ainsi il cherche à « magnifier » le Seigneur dans les Yasnas d'Âramaiti, Ahura étant célèbre pour Son dessein immuable, car Il accordera les « deux éternels » dans Son saint Royaume, quand il sera affermi ! 11. Oui, il chercherait à magnifier Celui qui méprise les Daêvas et leur parti autant qu'eux, à leur tour, professent faire peu de cas de Lui et de Son Royaume religieux, contrastant comme ils l'étaient avec le prophète d'Ahura, qui L'honorait dans la sainte Insight, le Daêna du Saoshya<i>n</i>t. Et ce Saoshya<i>n</i>t est déclaré être le maître contrôlant de chaque fidèle adorateur, et lui, ou le fidèle vénérateur de l'Ahura vilipendé, est aussi comme notre ami, notre frère, non, comme Ahura Lui-même (verset 4), notre véritable Père dans la Foi.
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Traduction.
 
 1\. Oui, je parlerai ; écoutez ! Maintenant, écoutez, vous qui êtes venus de près et de loin en quête de la connaissance. Maintenant, réfléchissez clairement à tout ce qui le concerne. Le faux docteur ne nous tuera pas une seconde fois. Le méchant est cerné par sa foi et sa langue !
 
-2\. Oui, je déclarerai les deux premiers [^581] esprits du monde, dont le plus généreux a ainsi parlé au nuisible [^582] : Ni nos pensées, ni nos commandements, ni nos <span id="p126">[<sup><small>p. 126</small></sup>]</span> entendements, ni nos croyances, ni nos actes, ni nos consciences, ni nos âmes, ne sont d'accord [^583].
+2\. Oui, je déclarerai les deux premiers [^581] esprits du monde, dont le plus généreux a ainsi parlé au nuisible [^582] : Ni nos pensées, ni nos commandements, ni nos <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> entendements, ni nos croyances, ni nos actes, ni nos consciences, ni nos âmes, ne sont d'accord [^583].
 
 3\. Ainsi, je vais déclarer le premier [^584] (enseignement) de ce monde, celui que m'a enseigné le très sage Mazda Ahura. Et ceux d'entre vous qui n'obéiront pas à ce Mãthra, tel que je le conçois et le déclare maintenant, finiront leur vie dans le malheur.
 
-4\. Ainsi, je déclarerai le meilleur (être) de ce monde. Par (la perspicacité de Sa) Justice, Mazda, qui a établi ces (choses) [^585], a reconnu (ce qu'Il dit comme étant vrai ; oui, je le déclarerai) le père du Bon Esprit laborieux (en nous). Ainsi est Sa <span id="p127">[<sup><small>p. 127</small></sup>]</span> fille par les bonnes actions (notre) Piété. Ne se laisse pas tromper, le Seigneur omniscient [^586].
+4\. Ainsi, je déclarerai le meilleur (être) de ce monde. Par (la perspicacité de Sa) Justice, Mazda, qui a établi ces (choses) [^585], a reconnu (ce qu'Il dit comme étant vrai ; oui, je le déclarerai) le père du Bon Esprit laborieux (en nous). Ainsi est Sa <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> fille par les bonnes actions (notre) Piété. Ne se laisse pas tromper, le Seigneur omniscient [^586].
 
 5\. Oui, ainsi je déclarerai ce que le Très-Bon m'a dit, cette parole qu'il est préférable que les mortels écoutent. Ceux qui m'accordent une attention obéissante [^587], sur eux vient la Faveur et l'Être Immortel, et dans les actes de Sa Bonne Esprit vient le Seigneur.
 
@@ -76,11 +76,11 @@ Traduction.
 
 8\. Je voudrais le servir fidèlement dans nos hymnes d'hommage et de louange, car maintenant, de mes yeux, je le vois clairement, Seigneur du bon esprit [^592], de la parole et de l'action, sachant par ma justice qu'il est Ahura Mazda. Et à Lui (non pas ici seul, mais) dans sa demeure de chant [^593], nous porterons sa louange.
 
-9\. Oui, c'est Lui que nous cherchons à honorer avec notre meilleur Esprit, qui désirant (le bien), viendra à nous (pour nous bénir) dans le bonheur et la tristesse [^595]. Puisse-t-Il, Ahura Mazda, nous rendre [^596] vigoureux par le pouvoir royal de Khshathra, <span id="p129">[<sup><small>p. 129</small></sup>]</span> nos troupeaux et nos hommes dans l'épargne pour favoriser, grâce au bon soutien et à la bonne tenue [^597] de Son Bon Esprit, (lui-même né en nous) par Sa Justice.
+9\. Oui, c'est Lui que nous cherchons à honorer avec notre meilleur Esprit, qui désirant (le bien), viendra à nous (pour nous bénir) dans le bonheur et la tristesse [^595]. Puisse-t-Il, Ahura Mazda, nous rendre [^596] vigoureux par le pouvoir royal de Khshathra, <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> nos troupeaux et nos hommes dans l'épargne pour favoriser, grâce au bon soutien et à la bonne tenue [^597] de Son Bon Esprit, (lui-même né en nous) par Sa Justice.
 
 10\. C'est à Lui que nous cherchons à rendre hommage dans les Yasnas de notre Piété, lui qui, dans Son énergie persistante [^598], fut réputé être (en vérité) le Seigneur Ahura Mazda, car Il a désigné dans Son royaume, par Son saint Ordre et Son Bon Esprit, à la fois la Fortune et l'Immortalité, pour accorder [^599] le couple puissant et éternel à notre terre (et à la création).
 
-11\. (Nous voudrions le magnifier et le louer) qui a méprisé les dieux Daêva et les hommes étrangers, ceux qui auparavant le méprisaient. Bien différents sont ceux qui l'honoraient. Ce dernier est, par la foi généreuse du Saoshya<i>n</i>t, lui aussi le Seigneur du pouvoir salvateur [^600], <span id="p130">[<sup><small>p. 130</small></sup>]</span> un ami, un frère ou un père pour nous, Seigneur Mazda [^601] !
+11\. (Nous voudrions le magnifier et le louer) qui a méprisé les dieux Daêva et les hommes étrangers, ceux qui auparavant le méprisaient. Bien différents sont ceux qui l'honoraient. Ce dernier est, par la foi généreuse du Saoshya<i>n</i>t, lui aussi le Seigneur du pouvoir salvateur [^600], <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> un ami, un frère ou un père pour nous, Seigneur Mazda [^601] !
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span> p. 44 p. 45
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span> p. 44 p. 45
 
 TAITTIRÎYAKA-UPANISHAD.
 
@@ -47,7 +47,7 @@ Adoration à Brahman ! Adoration à toi, ô Vâyu (air) ! Tu es vraiment le Brah
 (1-5) [^198] Qu'il me protège ! Qu'il protège le professeur ! Oui, qu'il me protège, et qu'il protège le professeur ! Om ! Paix ! paix ! paix !
 
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 ## DEUXIÈME ANUVÂKA.
 
@@ -70,7 +70,7 @@ Ensuite, en ce qui concerne la connaissance, l'enseignant est le premier éléme
 
 L'élève, quant à lui, connaît leur union. Cette union se réalise par la récitation du Véda. Voilà pour la connaissance.
 
-Ensuite, en ce qui concerne la descendance. La mère est <span id="p47">[<sup><small>p. 47</small></sup>]</span> le premier élément, le père le second, la descendance étant leur union. Cette union se fait par la procréation. Voilà pour la descendance.
+Ensuite, en ce qui concerne la descendance. La mère est <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> le premier élément, le père le second, la descendance étant leur union. Cette union se fait par la procréation. Voilà pour la descendance.
 
 4\. Ensuite, en ce qui concerne le soi (corps). La mâchoire inférieure est le premier élément, la mâchoire supérieure le second, la parole leur union. Cette union se fait par la parole. Voilà pour le Soi. Ce sont les grands Sa<i>m</i>hitâs. Celui qui connaît ces Sa<i>m</i>hitâs (unions), comme expliqué ici, s'unit à la progéniture, au bétail, à la lumière védique, à la nourriture et au monde céleste.
 
@@ -83,7 +83,7 @@ Puisse mon corps être capable, ma langue douce, puisse-je entendre beaucoup ave
 
 Elle (<i>S</i>rî, le bonheur) rapproche et répand,
 
-2\. Et se fabrique sans délai des vêtements, des vaches, de la nourriture et des boissons en tout temps ; apporte donc ce <i>S</i>rî (bonheur) ici, à moi, la laineuse, avec <span id="p48">[<sup><small>p. 48</small></sup>]</span> son bétail [1](Taittiriyaka_1#fn203) ! Svâhâ [2](Taittiriyaka_1#fn204) ! Puissent les étudiants brahmaniques venir à moi, Svâhâ ! Puissent-ils venir de tous côtés, Svâhâ ! Puissent-ils venir à moi, Svâhâ ! Puissent-ils pratiquer la retenue, Svâhâ ! Puissent-ils jouir de la paix, Svâhâ !
+2\. Et se fabrique sans délai des vêtements, des vaches, de la nourriture et des boissons en tout temps ; apporte donc ce <i>S</i>rî (bonheur) ici, à moi, la laineuse, avec <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> son bétail [1](Taittiriyaka_1#fn203) ! Svâhâ [2](Taittiriyaka_1#fn204) ! Puissent les étudiants brahmaniques venir à moi, Svâhâ ! Puissent-ils venir de tous côtés, Svâhâ ! Puissent-ils venir à moi, Svâhâ ! Puissent-ils pratiquer la retenue, Svâhâ ! Puissent-ils jouir de la paix, Svâhâ !
 
 3\. Puissé-je être une gloire parmi les hommes, Svâhâ ! Puissé-je être meilleur que le plus riche, Svâhâ ! Puissé-je entrer en toi, ô trésor (Om), Svâhâ ! Toi, ô trésor [3](Taittiriyaka_1#fn205), entre en moi, Svâhâ ! En toi, composé de mille branches, en toi, ô trésor, je suis purifié, Svâhâ ! Comme l'eau coule vers le bas, comme les mois deviennent l'année, ainsi, ô conservateur du monde, puissent les étudiants de Brahman venir toujours à moi de tous côtés, Svâhâ !
 
@@ -98,7 +98,7 @@ Bhû est ce monde, Bhuvas est le ciel, Suvas est l'autre monde.
 
 2\. Mahas est le soleil. Tous les mondes sont multipliés par le soleil. Bhû est Agni (le feu), Bhuvas est Vâyu (l'air), Suvas est Âditya (le soleil). Mahas est la lune. Toutes les lumières célestes sont multipliées par la lune.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Bhû est le verset <i>Ri</i><i>k</i>, Bhuvas est le verset Sâman, Suvas est le verset Ya<i>g</i>us.
 
@@ -122,7 +122,7 @@ Entre les deux palais pend la luette, comme un mamelon — c'est le point de dé
 (1) Adore ainsi, ô Prâ<i>k</i>înayogya !
 
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 ## SEPTIÈME ANUVÂKA.
 
@@ -137,7 +137,7 @@ Or, en ce qui concerne le soi (le corps) : « Prânâ (inspiration ascendante), 
 
 1\. Om signifie Brahman. 2. Om signifie tout cela. 3. Om signifie obéissance. Lorsqu'on leur dit : « Om, parle », ils parlent. 4. Après Om, ils chantent des Sâmans. 5. Après Om, ils récitent des hymnes. 6. Après Om, l'Adhvaryu donne la réponse. 7. Après Om, le prêtre brahmane donne des ordres. 8. Après Om, il (le sacrificateur) autorise l'accomplissement de l'Agnihotra. 9. Lorsqu'un brahmane va commencer sa conférence, il dit : 10. « Om, puis-je acquérir Brahman (le Véda). » Il acquiert ainsi le Véda.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## NEUVIÈME ANUVÂKA [^209].
 
@@ -150,7 +150,7 @@ Satyava<i>k</i>as Râthîtara pense que seul le vrai est nécessaire. Taponitya 
 
 ## DIXIÈME ANUVÂKA.
 
-1\. « Je suis celui qui secoue l'arbre (c'est-à-dire l'arbre du monde, qui doit être abattu par la connaissance). » 2. Ma gloire est comme le sommet d'une montagne. 3. Moi, dont la pure lumière (de la connaissance) s'est élevée très haut, je suis celui qui est véritablement immortel, car il réside dans le soleil. <span id="p52">[<sup><small>p. 52</small></sup>]</span> 4\. Je suis le trésor le plus brillant. 5. Je suis sage, immortel, impérissable [^210]. » 6. Tel est l'enseignement du Véda, du poète Tri<i>s</i>aṅku.
+1\. « Je suis celui qui secoue l'arbre (c'est-à-dire l'arbre du monde, qui doit être abattu par la connaissance). » 2. Ma gloire est comme le sommet d'une montagne. 3. Moi, dont la pure lumière (de la connaissance) s'est élevée très haut, je suis celui qui est véritablement immortel, car il réside dans le soleil. <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> 4\. Je suis le trésor le plus brillant. 5. Je suis sage, immortel, impérissable [^210]. » 6. Tel est l'enseignement du Véda, du poète Tri<i>s</i>aṅku.
 
 
 ## ONZIÈME ANUVÂKA.

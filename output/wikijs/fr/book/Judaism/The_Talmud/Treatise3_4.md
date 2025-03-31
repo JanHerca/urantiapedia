@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 1\. « Avec quoi peuvent-ils recouvrir (les marmites pour conserver la chaleur) ? » « Et avec quoi ne peuvent-ils pas les recouvrir ? » « Ils ne peuvent les recouvrir ni de lie d'huile, ni de fumier, ni de sel, ni de chaux, ni de sable frais ou sec, ni de paille, ni de peaux de raisin, ni de laine, ni d'herbes quand ils sont frais, mais ils peuvent les recouvrir quand ils sont secs. Ils peuvent les recouvrir de vêtements, de fruits, d'ailes de colombe, de sciure de charpentier et d'étoupe de lin fin. » Rabbi Judah interdit le « fin », mais autorise le « grossier ».
 

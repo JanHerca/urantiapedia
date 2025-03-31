@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 1\. On ne peut pas discuter des relations illicites avec trois, [^353] ni de l'œuvre de la création avec deux, [^354] ni des chérubins avec un seul, [^355] sauf si l'on est sage et que l'on comprend cela par sa propre connaissance. Quiconque considère quatre choses, il serait bon pour lui de ne pas venir au monde. Qu'y a-t-il en haut ? Qu'y a-t-il en bas ? Qu'y a-t-il devant ? Qu'y a-t-il derrière ? Et quiconque ne se soucie pas de l'honneur de son Créateur, il serait bon pour lui de ne pas venir au monde.
 

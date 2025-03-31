@@ -34,7 +34,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## YASNA XLII. UN SUPPLÉMENT À L'HAPTANGHÂITI [^1212].
 
-1\. Nous Vous adorons, ô Immortels Généreux ! avec toute la collection de ce Yasna, Haptanghâiti <span id="p291">[<sup><small>p. 291</small></sup>]</span> (comme nous résumons tout). Et nous sacrifions aux sources des eaux, aux gués des rivières, aux bifurcations des routes et aux carrefours des chemins.
+1\. Nous Vous adorons, ô Immortels Généreux ! avec toute la collection de ce Yasna, Haptanghâiti <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> (comme nous résumons tout). Et nous sacrifions aux sources des eaux, aux gués des rivières, aux bifurcations des routes et aux carrefours des chemins.
 
 2\. Et nous sacrifions aux collines où coulent les torrents, et aux lacs qui regorgent d'eaux, et au blé qui remplit les champs de blé ; et nous sacrifions à la fois au protecteur et au Créateur, à la fois à Zarathoustra et au Seigneur.
 

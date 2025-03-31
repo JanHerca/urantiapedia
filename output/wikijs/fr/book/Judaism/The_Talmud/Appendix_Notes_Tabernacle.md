@@ -36,7 +36,7 @@ La Guemara, dans le Traité du Shabbat, fait les observations suivantes sur le T
 
 Aben Ezra et Ramban, reprenant la vieille tradition, disent qu'il y avait des figures sur chaque étendard. Sur l'étendard de Ruben, il y avait l'image d'un homme. Sur l'étendard de Juda, celle d'un lion. Sur l'étendard d'Éphraïm, celle d'un bœuf. Et sur l'étendard de Dan, celle d'un aigle. Ils étaient donc semblables aux chérubins qu'avait vus le prophète Ézéchiel.
 
-<span id="p374">[<sup><small>p. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 Les rabbins affirment que les vases du Tabernacle étaient une copie conforme d'existences réelles au ciel. « Rabbi José, fils de Rabbi Juda, dit : Une arche de feu, une table de feu et un chandelier de feu descendirent du ciel. Moïse les vit et les fit à leur image. » Ils pensent également que l'Arche d'Alliance est cachée dans une chambre sous l'enceinte du Temple, et qu'elle et tous les vases sacrés seront retrouvés à la venue du Messie. Les Apocryphes, cependant, nous informent que Jérémie déposa le Tabernacle, l'Arche et l'Autel des Parfums dans une « caverne creuse, sur la montagne où Moïse gravit et vit l'héritage de Dieu ». Et « ce lieu restera inconnu jusqu'au moment où Dieu rassemblera son peuple et le recevra dans sa miséricorde ». [^821] Les vases sacrés, qui furent emportés à Rome après la destruction de Jérusalem en 70 apr. J.-C., et que l'on voit aujourd'hui sculptés sur l'arc de Titus, furent emportés en Afrique par les Vandales sous Genséric. Bélisaire les rapporta à Constantinople en 520 apr. J.-C. Ils furent ensuite renvoyés à Jérusalem, et de là, on suppose qu'ils furent emportés en Perse, lorsque Chosroès pilla la Ville sainte en juin 614.
 

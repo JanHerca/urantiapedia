@@ -32,14 +32,14 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 
 À l'heure même où le printemps naquit, Maya fit un rêve pendant son sommeil. Elle vit un jeune éléphant descendre du ciel. Il avait six grandes défenses ; il était blanc comme la neige des sommets. Maya le vit entrer dans son ventre, et des milliers de dieux apparurent soudain devant elle. Ils la louèrent de chants immortels, et Maya comprit que jamais plus elle ne connaîtrait l'inquiétude, la haine ou la colère.
 
 Puis elle s'éveilla. Elle était heureuse ; un bonheur qu'elle n'avait jamais éprouvé auparavant. Se levant, elle se para de couleurs vives et, suivie de ses plus belles demoiselles, franchit les portes du palais. Elle se promena dans les jardins jusqu'à un petit bois, où elle trouva un siège ombragé. Puis elle envoya deux de ses demoiselles au roi Suddhodana avec ce message : « Le roi doit venir au bois ; la reine Maya désire le voir et l'y attendra. »
 
-Le roi s'exécuta promptement. Il quitta la salle où, avec l'aide de ses conseillers, il rendait justice aux habitants de la ville. <span id="p9">[<sup><small>p. 9</small></sup>]</span> Il se dirigea vers le bois, mais, au moment d'y entrer, une étrange sensation le saisit. Ses membres vacillèrent, ses mains tremblèrent et des larmes lui perlèrent aux yeux. Et il pensa :
+Le roi s'exécuta promptement. Il quitta la salle où, avec l'aide de ses conseillers, il rendait justice aux habitants de la ville. <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> Il se dirigea vers le bois, mais, au moment d'y entrer, une étrange sensation le saisit. Ses membres vacillèrent, ses mains tremblèrent et des larmes lui perlèrent aux yeux. Et il pensa :
 
 Jamais, même au plus fort de la bataille contre mes plus braves ennemis, je ne me suis senti aussi profondément perturbé qu'en ce moment. Pourquoi ne puis-je pas entrer dans le bois où la reine m'attend ? Quelqu'un peut-il expliquer mon agitation ?
 

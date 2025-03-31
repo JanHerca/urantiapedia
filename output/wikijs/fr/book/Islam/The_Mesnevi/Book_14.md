@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p248">[<sup><small>p. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 ## XIV. Les artistes chinois et romains.
 
@@ -57,7 +57,7 @@ L'enfant et l'homme, dans ces œuvres, répètent leurs joies respectives.
 L'enfant, en jouant, joue exactement le même rôle,
 Il agira comme un héros lorsqu'il sera grand, il aura appris l'art du débat.
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 Les querelles des hommes sont les mêmes que celles des garçons ;
 <sup id="v10"><small>10</small></sup> Ils sont insensés, déraisonnables ; ils se disputent pour de simples jouets.
@@ -91,7 +91,7 @@ Mais la connaissance acquise sensuellement est un fardeau.
 C’est Dieu qui a dit : « Un âne avec des volumes à sa charge. »[^371]
 Ainsi, la connaissance est un fardeau, lorsqu'elle n'est pas conforme au code de Dieu.
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 Toute science ne vient pas directement de la parole de Dieu,
 N'a pas d'endurance ; c'est de la peinture ; nos yeux détectent.
@@ -128,7 +128,7 @@ Cela me révèle son âme sereinement lumineuse.
 Les rapports, les traditions, les chaînes de preuves sont perdus ;
 Quand l'âme communie avec l'âme, les esprits peuvent s'aborder librement.
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 Cette énigme est résolue : « J'étais hier soir un Kurde de naissance ;
 <sup id="v40"><small>40</small></sup> Et puis, ce matin, je suis Arabe, par placenta. »[^372]
@@ -162,7 +162,7 @@ Les couleurs sont comme des nuages, la simplicité est la lune.
 Quelle que soit la teinte que vous voyez embellir les nuages,
 Vous savez que cela vient du soleil, de la lune ou des étoiles dans la foule.
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 Finalement, les Chinois avaient complètement accompli leur tâche.
 Leurs cœurs battaient d'une joie intense, leurs poitrines tremblaient.
@@ -198,7 +198,7 @@ Dans le coeur du saint se reflète, le plus multiforme.
 Son cœur poli est nettoyé de la souillure de l'être ;
 Et à chaque instant contemple le train d'une nouvelle beauté.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 Ils méprisent la dorure extérieure, la coquille de la science ;
 La bannière de la certitude réelle flotte là où ils s'élèvent.

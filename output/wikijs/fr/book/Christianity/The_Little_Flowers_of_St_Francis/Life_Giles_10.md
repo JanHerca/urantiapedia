@@ -50,7 +50,7 @@ La veille de saint Georges, à l'heure de matines, cinquante-deux ans après (ca
 
 Comment un saint homme, étant en prière, vit l'âme de frère Gilles aller à la vie éternelle
 
-Un homme de bien, étant en prière, lorsque frère Gilles quitta cette vie, vit son âme monter au ciel, avec une multitude d'autres âmes qui <span id="p232">[<sup><small>p. 232</small></sup>]</span> à cette heure-là sortirent du Purgatoire ; et il vit Jésus-Christ venir à la rencontre de l'âme de frère Gilles, et, avec une multitude d'anges et toutes ces âmes, monter dans la gloire du Paradis, au son d'une grande et douce musique.
+Un homme de bien, étant en prière, lorsque frère Gilles quitta cette vie, vit son âme monter au ciel, avec une multitude d'autres âmes qui <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> à cette heure-là sortirent du Purgatoire ; et il vit Jésus-Christ venir à la rencontre de l'âme de frère Gilles, et, avec une multitude d'anges et toutes ces âmes, monter dans la gloire du Paradis, au son d'une grande et douce musique.
 
 
 ## CHAPITRE IX

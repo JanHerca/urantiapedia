@@ -45,7 +45,7 @@ HUITIÈME PRAPÂ<i>TH</i>AKA.
 
 4\. Et s'ils lui disaient : « Si tout ce qui existe est contenu dans cette cité de Brahman, tous les êtres et tous les désirs (tout ce qui peut être imaginé ou désiré), alors qu'en reste-t-il, lorsque la vieillesse l'atteint et le disperse, ou lorsqu'il tombe en morceaux ? »
 
-5\. Il devrait alors dire : « Par la vieillesse du corps, cela (l'éther, ou Brahman en lui) ne vieillit pas ; par la mort du corps, cela (l'éther, ou Brahman en lui) n'est pas tué. Cela (le Brahman) <span id="p127">[<sup><small>p. 127</small></sup>]</span> est la véritable cité de Brahma (et non le corps [^327]). En elle sont contenus tous les désirs. C'est le Soi, libre du péché, libre de la vieillesse, de la mort et du chagrin, de la faim et de la soif, qui ne désire que ce qu'il devrait désirer, et n'imagine que ce qu'il devrait imaginer. Or, comme ici-bas, les gens suivent ce qu'on leur commande et dépendent de l'objet auquel ils sont attachés, qu'il s'agisse d'un pays ou d'un lopin de terre,
+5\. Il devrait alors dire : « Par la vieillesse du corps, cela (l'éther, ou Brahman en lui) ne vieillit pas ; par la mort du corps, cela (l'éther, ou Brahman en lui) n'est pas tué. Cela (le Brahman) <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> est la véritable cité de Brahma (et non le corps [^327]). En elle sont contenus tous les désirs. C'est le Soi, libre du péché, libre de la vieillesse, de la mort et du chagrin, de la faim et de la soif, qui ne désire que ce qu'il devrait désirer, et n'imagine que ce qu'il devrait imaginer. Or, comme ici-bas, les gens suivent ce qu'on leur commande et dépendent de l'objet auquel ils sont attachés, qu'il s'agisse d'un pays ou d'un lopin de terre,
 
 6\. « Et comme ici-bas, tout ce qui a été acquis par l'effort périt, ainsi périt tout ce qui est acquis pour l'autre monde par les sacrifices et autres bonnes actions accomplies sur terre. Ceux qui partent d'ici-bas sans avoir découvert le Soi et ces vrais désirs, pour eux, il n'y a de liberté dans aucun monde. Mais ceux qui partent d'ici-bas, après avoir découvert le Soi et ces vrais désirs [^328], pour eux, il y a de la liberté dans tous les mondes. »
 
@@ -53,7 +53,7 @@ HUITIÈME PRAPÂ<i>TH</i>AKA.
 
 1\. « Ainsi celui qui désire le monde [^329] des pères, par sa seule volonté les pères viennent le recevoir, et ayant obtenu le monde des pères, il est heureux.
 
-2\. « Et celui qui désire le monde des mères, par sa seule volonté les mères viennent le recevoir, <span id="p128">[<sup><small>p. 128</small></sup>]</span> et ayant obtenu le monde des mères, il est heureux.
+2\. « Et celui qui désire le monde des mères, par sa seule volonté les mères viennent le recevoir, <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> et ayant obtenu le monde des mères, il est heureux.
 
 3\. « Et celui qui désire le monde des frères, par sa seule volonté, les frères viennent le recevoir, et ayant obtenu le monde des frères, il est heureux.
 
@@ -72,7 +72,7 @@ HUITIÈME PRAPÂ<i>TH</i>AKA.
 « Quel que soit l'objet auquel il est attaché, quel que soit l'objet qu'il désire, par sa seule volonté, il lui parvient, et l'ayant obtenu, il est heureux.
 
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 ## TROISIÈME KHA<i>N</i><i>D</i>A.
 
@@ -92,7 +92,7 @@ HUITIÈME PRAPÂ<i>TH</i>AKA.
 
 2\. Ainsi, celui qui a traversé cette rive, s'il est aveugle, cesse d'être aveugle ; s'il est blessé, cesse d'être blessé ; s'il est affligé, cesse d'être affligé. Ainsi, lorsque cette rive a été traversée, la nuit devient véritablement le jour, car le monde de Brahman est illuminé une fois pour toutes [^334].
 
-3\. Et ce monde de Brahman appartient à ceux <span id="p131">[<sup><small>p. 131</small></sup>]</span> seulement qui le trouvent par l'abstinence — pour eux, il y a la liberté dans tous les mondes.
+3\. Et ce monde de Brahman appartient à ceux <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> seulement qui le trouvent par l'abstinence — pour eux, il y a la liberté dans tous les mondes.
 
 ## CINQUIÈME KHA<i>N</i><i>D</i>A.
 
@@ -111,11 +111,11 @@ Ce que les gens appellent la vie d'un ermite (aranyâyana), c'est en réalité l
 Or, ce monde de Brahman appartient à ceux qui trouvent les lacs Ara et <i>N</i>ya dans le monde de Brahman au moyen de l'abstinence ; pour eux, il y a la liberté dans tous les mondes [^337].
 
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 ## SIXIÈME KHA<i>N</i><i>D</i>A.
 
-1\. Or, ces artères du cœur sont constituées d'une substance brune, d'une substance blanche, bleue, jaune et rouge <span id="p133">[<sup><small>p. 133</small></sup>]</span>, et le soleil est donc brun, blanc, bleu, jaune et rouge.
+1\. Or, ces artères du cœur sont constituées d'une substance brune, d'une substance blanche, bleue, jaune et rouge <span id="p133"><sup><small>[ p. 133 ]</small></sup></span>, et le soleil est donc brun, blanc, bleu, jaune et rouge.
 
 2\. Comme une très longue route mène à deux endroits, l'un au commencement, l'autre à la fin, ainsi les rayons du soleil vont aux deux mondes, à l'un et à l'autre. Ils partent du soleil et pénètrent dans ces artères ; ils partent de ces artères et pénètrent dans le soleil.
 
@@ -125,7 +125,7 @@ Or, ce monde de Brahman appartient à ceux qui trouvent les lacs Ara et <i>N</i>
 
 5\. Mais lorsqu'il quitte ce corps, il part alors vers le haut par ces mêmes rayons (vers les mondes qu'il a gagnés par le mérite, non par la connaissance) ; ou il sort en méditant sur Om [^339] (et s'assurant ainsi une entrée dans le Brahmaloka).
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 Et tandis que son esprit défaille, il se dirige vers le soleil. Car le soleil est la porte du monde (de Brahman). Ceux qui savent y entrent ; ceux qui ne savent pas en sont exclus. Il y a ce verset [1](Khandogya_8#fn340) : « Le cœur possède cent et une artères ; l’une d’elles pénètre le sommet de la tête ; en remontant par elle, l’homme atteint l’immortel ; les autres servent à partir dans des directions différentes, oui, dans des directions différentes [2](Khandogya_8#fn341). »
 
@@ -135,7 +135,7 @@ Et tandis que son esprit défaille, il se dirige vers le soleil. Car le soleil e
 
 2\. Les Devas (dieux) et les Asuras (démons) entendirent tous deux ces paroles et dirent : « Eh bien, cherchons ce Soi par lequel, si l'on l'a recherché, tous les mondes et tous les désirs sont obtenus. »
 
-Ainsi parlant, Indra quitta les Devas, Viro<i>k</i>ana les Asuras, et tous deux, sans avoir communiqué l'un avec l'autre, s'approchèrent de Pra<i>g</i>âpati, <span id="p135">[<sup><small>p. 135</small></sup>]</span> tenant du combustible dans leurs mains, comme c'est la coutume pour les élèves qui s'approchent de leur maître.
+Ainsi parlant, Indra quitta les Devas, Viro<i>k</i>ana les Asuras, et tous deux, sans avoir communiqué l'un avec l'autre, s'approchèrent de Pra<i>g</i>âpati, <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> tenant du combustible dans leurs mains, comme c'est la coutume pour les élèves qui s'approchent de leur maître.
 
 3\. Ils y demeurèrent comme élèves pendant trente-deux ans. Alors Pragâpati leur demanda : « Pourquoi avez-vous tous deux habité ici ? »
 
@@ -148,7 +148,7 @@ Ils demandèrent : « Seigneur, celui qui est perçu dans l’eau, et celui qui 
 Il répondit : « C'est lui-même qui est vu dans tout cela [^344]. »
 
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 ## HUITIÈME KHA<i>N</i><i>D</i>A.
 
@@ -172,7 +172,7 @@ Alors tous deux s'en allèrent satisfaits dans leur cœur.
 
 4\. Et Pragâpati, les regardant, dit : « Ils s'en vont tous deux sans avoir perçu et sans avoir connu le Soi, et celui de ces deux [^346], qu'ils soient Devas ou Asuras, qui suivra cette doctrine (upanishad), périra. »
 
-Alors Virokana, satisfait dans son cœur, alla vers les Asuras et leur prêcha cette doctrine, que seul le soi (le corps) doit être adoré, que seul le <span id="p137">[<sup><small>p. 137</small></sup>]</span> soi (le corps) doit être servi, et que celui qui adore le soi et sert le soi, gagne les deux mondes, celui-ci et le suivant.
+Alors Virokana, satisfait dans son cœur, alla vers les Asuras et leur prêcha cette doctrine, que seul le soi (le corps) doit être adoré, que seul le <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> soi (le corps) doit être servi, et que celui qui adore le soi et sert le soi, gagne les deux mondes, celui-ci et le suivant.
 
 5\. C'est pourquoi, même aujourd'hui, ils appellent Âsura un homme qui ne fait pas l'aumône ici-bas, qui n'a pas la foi et n'offre pas de sacrifices, car telle est la doctrine (upanishad) des Asuras. Ils ornent le corps du défunt de parfums, de fleurs et de beaux vêtements, pensant ainsi conquérir ce monde [^347].
 
@@ -182,7 +182,7 @@ Alors Virokana, satisfait dans son cœur, alla vers les Asuras et leur prêcha c
 
 2\. Prenant du combustible à la main, il revint comme élève auprès de Pragâpati. Pragâpati lui dit : « Maghavat (Indra), puisque tu es parti avec Virokana, le cœur satisfait, dans quel but es-tu revenu ? »
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 Il dit : « Seigneur, comme ce moi (l'ombre) est bien paré, lorsque le corps est bien paré, bien habillé, lorsque le corps est bien habillé, bien nettoyé, si le corps est bien nettoyé, ce moi sera aussi aveugle, si le corps est aveugle, boiteux, si le corps est boiteux, estropié, si le corps est estropié, et périra en fait dès que le corps périra. C'est pourquoi je ne vois aucun bien dans cette (doctrine). »
 
@@ -196,7 +196,7 @@ Il vécut encore trente-deux ans avec lui, puis Pra<i>g</i>âpati dit :
 
 Indra s'en alla, le cœur satisfait. Mais avant de retourner auprès des Dévas, il vit cette difficulté. Bien qu'il soit vrai que ce soi n'est ni aveugle, même si le corps l'est, ni boiteux, même si le corps est boiteux, bien qu'il soit vrai que ce soi n'est pas rendu défectueux par les défauts de son corps (le corps),
 
-2\. Ni frappé quand il (le corps) est frappé, ni boiteux quand il est boiteux, mais c'est comme s'ils le frappaient (le soi) en rêve, comme s'ils le poursuivaient [^350]. <span id="p139">[<sup><small>p. 139</small></sup>]</span> Il devient même conscient, pour ainsi dire, de la douleur et verse des larmes. Je ne vois donc aucun bien à cela.
+2\. Ni frappé quand il (le corps) est frappé, ni boiteux quand il est boiteux, mais c'est comme s'ils le frappaient (le soi) en rêve, comme s'ils le poursuivaient [^350]. <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> Il devient même conscient, pour ainsi dire, de la douleur et verse des larmes. Je ne vois donc aucun bien à cela.
 
 3\. Prenant du combustible dans ses mains, il retourna comme élève auprès de Pragâpati. Pragâpati lui dit : « Maghavat, puisque tu es parti satisfait de ton cœur, dans quel but es-tu revenu ? »
 
@@ -208,7 +208,7 @@ Il dit : « Seigneur, bien qu'il soit vrai que ce soi n'est pas aveugle même si
 
 Il vécut encore trente-deux ans avec lui. Puis Pragâpati dit :
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 ## ONZIÈME KHA<i>N</i><i>D</i>A.
 
@@ -226,13 +226,13 @@ Il y vécut encore cinq ans. Cela faisait en tout cent un ans, et on dit donc qu
 
 ## DOUZIÈME KHA<i>N</i><i>D</i>A.
 
-1\. « Maghavat, ce corps est mortel et toujours retenu par la mort. C'est la demeure de ce Soi qui est <span id="p141">[<sup><small>p. 141</small></sup>]</span> immortel et sans corps [^353]. Lorsqu'il est dans le corps (en pensant que ce corps est moi et que je suis ce corps), le Soi est retenu par le plaisir et la douleur. Tant qu'il est dans le corps, il ne peut se libérer du plaisir et de la douleur. Mais lorsqu'il est libéré du corps (quand il se sait différent du corps), alors ni le plaisir ni la douleur ne le touchent [^354].
+1\. « Maghavat, ce corps est mortel et toujours retenu par la mort. C'est la demeure de ce Soi qui est <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> immortel et sans corps [^353]. Lorsqu'il est dans le corps (en pensant que ce corps est moi et que je suis ce corps), le Soi est retenu par le plaisir et la douleur. Tant qu'il est dans le corps, il ne peut se libérer du plaisir et de la douleur. Mais lorsqu'il est libéré du corps (quand il se sait différent du corps), alors ni le plaisir ni la douleur ne le touchent [^354].
 
 2\. « Le vent est sans corps, le nuage, l'éclair et le tonnerre sont sans corps (sans mains, pieds, etc.). Or, comme ceux-ci, s'élevant de cet éther céleste (espace), apparaissent sous leur propre forme, dès qu'ils se sont approchés de la plus haute lumière,
 
 3\. « Ainsi cet être serein, surgissant de ce corps, apparaît sous sa propre forme, dès qu'il s'est approché de la plus haute lumière (la connaissance du Soi [^355]). Il (dans cet état) est la personne la plus élevée (uttama pûrusha). Il se déplace là, riant (ou mangeant), jouant et se réjouissant (en esprit), que ce soit avec des femmes, des voitures ou des proches, sans se soucier du corps dans lequel il est né [^356]. »
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 « Comme un cheval attaché à une charrette, ainsi l'esprit [^357] (prâ<i>n</i>a, pra<i>g</i>ñâtman) est attaché à ce corps.
 
@@ -243,7 +243,7 @@ Il y vécut encore cinq ans. Cela faisait en tout cent un ans, et on dit donc qu
 « Les Dévas qui sont dans le monde de Brahman méditent sur ce Soi (comme l'a enseigné Pragâpati à Indra, et Indra aux Dévas). Par conséquent, tous les mondes leur appartiennent, ainsi que tous les désirs. Celui qui connaît ce Soi et le comprend, obtient tous les mondes et tous les désirs. » Ainsi a dit Pragâpati, oui, ainsi a dit Pragâpati.
 
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 ## TREIZIÈME KHA<i>N</i><i>D</i>A [^359].
 
@@ -259,7 +259,7 @@ Je viens à la salle de Pragâpati, à la maison ; je suis le glorieux parmi les
 
 
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 ## QUINZIÈME KHA<i>N</i><i>D</i>A.
 

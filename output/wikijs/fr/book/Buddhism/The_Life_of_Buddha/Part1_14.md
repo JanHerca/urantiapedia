@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 
 GOPA s'était réveillée au cœur de la nuit. Un étrange malaise la submergeait. Elle appela son bien-aimé, le prince Siddhartha, mais sans réponse. Elle se leva. Elle courut à travers les couloirs du palais ; il était introuvable. Elle prit peur. Ses servantes dormaient. Un cri s'échappa de ses lèvres :
@@ -43,7 +43,7 @@ Les jeunes filles s'éveillèrent. Elles fouillèrent chaque pièce. Il n'y avai
 
 Il m'a dit un jour qu'il s'en irait, très loin, lui, le roi des hommes ! Mais je n'aurais jamais imaginé que cette cruelle séparation surviendrait si tôt. Oh, où es-tu, mon bien-aimé ? Où es-tu ? Je ne peux t'oublier, moi qui suis désespéré, si désespéré ! Où es-tu ? Où es-tu ? Tu es si belle ! Ta beauté est incomparable parmi les hommes. Tes yeux brillent. Tu es bon, et tu es aimé, mon bien-aimé ! N'étais-tu pas heureux ? Oh, ma chère, ma bien-aimée, où es-tu passé ?
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 Ses compagnons essayèrent en vain de la consoler.
 
@@ -63,7 +63,7 @@ On lui obéit, mais le prince était introuvable. Le roi s'effondra.
 
 « Que des cavaliers soient envoyés dans toutes les directions, et qu'ils me ramènent mon fils ! »
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 Pendant ce temps, Chandaka et le cheval Kanthaka revenaient lentement de l'ermitage. À l'approche de la ville, ils baissaient tous deux la tête, abattus. Des cavaliers les aperçurent.
 
@@ -83,7 +83,7 @@ Chandaka suivit les cavaliers jusqu'au palais. Le roi le convoqua aussitôt.
 
 L'écuyer lui raconta ce que le prince avait fait. Le roi en fut attristé, mais il ne put s'empêcher d'admirer la grandeur de son fils.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Gopa et Mahaprajapati entrèrent ; ils avaient entendu parler du retour de Chandaka. Ils l'interrogeèrent et découvrirent la grande résolution de Siddhartha.
 

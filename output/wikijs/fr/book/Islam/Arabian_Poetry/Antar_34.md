@@ -52,7 +52,7 @@ Keshaab, fils de Ghayath, gît prostré, au jour des horreurs, abattu par ma lam
 
 Ce seront toujours mes actes avec l'ennemi aussi longtemps que le soleil brillera et aussi longtemps que l'étoile du matin scintillera à l'aube.
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Je suis le fils de Shedad, et le lion devant lequel se prosterne tout homme qui habite dans le désert ou dans les villes.
 

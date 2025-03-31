@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 CHAPITRE III., Verset 182.—Chaque âme doit goûter la mort, et vous ne recevrez votre salaire qu'au jour de la résurrection.
 
@@ -44,7 +44,7 @@ Chapitre XIV., Verset 49. — Ne croyez donc pas que Dieu manque à sa promesse 
 
 (50).—Tu verras les pécheurs ce jour-là liés ensemble dans des chaînes, avec des chemises de poix et du feu couvrant leurs visages, afin que Dieu puisse récompenser chaque âme selon ce qu'elle a gagné ; en vérité, Dieu est prompt à compter !
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 Chapitre XVI., Verset 34. — À ceux que les anges enlèvent dans un bel état, ils diront : « Que la paix soit sur vous ! Entrez au Paradis pour ce que vous avez fait. »
 
@@ -58,7 +58,7 @@ Chapitre XXIII., Verset 104. — Et quand la trompette sonnera, et qu'il n'y aur
 
 Chapitre LXXV., Verset 35. — N'est-il pas capable de ressusciter les morts ?
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Chapitre III, verset 190. — « Seigneur, nous avons entendu un crieur qui appelait à la foi : « Croyez en votre Seigneur », et nous avons cru. Seigneur, pardonne-nous nos péchés et couvre nos offenses, et laisse-nous mourir avec les justes. Seigneur, et apporte-nous ce que tu nous as promis par tes apôtres, et ne nous déshonore pas au jour de la résurrection ; car, en vérité, tu ne manques pas à tes promesses ! » Et le Seigneur leur répondra : « Je ne gaspille pas le travail d'un ouvrier parmi vous, qu'il soit homme ou femme, l'un de vous est issu de l'autre. »
 

@@ -32,13 +32,13 @@ dateCreated: 2025-2-6T11:21:13Z
   </table>
 </figure>
 
-<span id="pxvi">[<sup><small>p. xvi</small></sup>]</span> <span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="pxvi">[<sup><small>p. xvi</small></sup>]</span> <span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 1\. _Question_. De quelle religion [^0] êtes-vous ?
 
 _Réponse_. Le bouddhiste.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 2\. Q. _Qu'est-ce que le bouddhisme ?_
 
@@ -62,7 +62,7 @@ A. Un Upâsikâ.
 
 7\. Q. _Quand cette doctrine a-t-elle été prêchée pour la première fois ?_
 
-A. Il y a un certain désaccord quant à la date réelle <span id="p3">[<sup><small>p. 3</small></sup>]</span>, mais selon les Écritures cinghalaises, c'était en l'an 2513 du Kali-Yuga (actuel).
+A. Il y a un certain désaccord quant à la date réelle <span id="p3"><sup><small>[ p. 3 ]</small></sup></span>, mais selon les Écritures cinghalaises, c'était en l'an 2513 du Kali-Yuga (actuel).
 
 8\. Q. _Donnez les dates importantes de la dernière naissance du Fondateur_.
 
@@ -80,7 +80,7 @@ A. Oui ; mais l’être le plus sage, le plus noble et le plus saint qui s’est
 
 A. Oui, comme cela sera expliqué plus tard.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 12\. Q. _Bouddha était-il son nom ?_
 
@@ -108,7 +108,7 @@ A. En Inde, à cent soixante kilomètres au nord-est de Bénarès et à environ 
 
 18\. Q. _Sur quelle rivière ?_
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 A. Les Rohinî, maintenant appelés les Kohana.
 
@@ -130,7 +130,7 @@ A, Autour de chaque palais se trouvaient des jardins de fleurs des plus belles e
 
 23\. Q. _Vivre seul ?_
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 R. Non ; à seize ans, il épousa la princesse Yasodharâ, fille du roi Suprabuddha. De nombreuses jeunes filles, talentueuses en danse et en musique, étaient constamment présentes pour le divertir.
 
@@ -150,7 +150,7 @@ A. Non. Il a tout laissé et est parti seul dans la jungle.
 
 A. Découvrir la cause de nos souffrances et le moyen d’y échapper.
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 23\. Q. _N'était-ce pas l'égoïsme qui l'a poussé à faire cela ?_
 
@@ -170,7 +170,7 @@ A. Aucun dans la période actuelle du monde : c’est pourquoi les bouddhistes l
 
 32\. Q. _Mais beaucoup d'hommes n'ont-ils pas renoncé à tous les biens terrestres, et même à la vie elle-même, pour le bien de leurs semblables ?_
 
-A. Certainement. Mais nous croyons que ce désintéressement et cet amour infinis pour l'humanité se sont manifestés <span id="p8">[<sup><small>p. 8</small></sup>]</span> par son renoncement à la félicité du Nirvâṇa, il y a des siècles, lorsqu'il naquit sous le nom de Brâhmaṇa Sumedha, à l'époque du Bouddha Dipankara : il avait alors atteint le stade où il aurait pu accéder au Nirvâṇa s'il n'avait pas aimé l'humanité plus que lui-même. Ce renoncement impliquait qu'il endurât volontairement les misères de la vie terrestre jusqu'à devenir Bouddha, afin d'enseigner à tous les êtres la voie de l'émancipation et d'apporter le repos au monde.
+A. Certainement. Mais nous croyons que ce désintéressement et cet amour infinis pour l'humanité se sont manifestés <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> par son renoncement à la félicité du Nirvâṇa, il y a des siècles, lorsqu'il naquit sous le nom de Brâhmaṇa Sumedha, à l'époque du Bouddha Dipankara : il avait alors atteint le stade où il aurait pu accéder au Nirvâṇa s'il n'avait pas aimé l'humanité plus que lui-même. Ce renoncement impliquait qu'il endurât volontairement les misères de la vie terrestre jusqu'à devenir Bouddha, afin d'enseigner à tous les êtres la voie de l'émancipation et d'apporter le repos au monde.
 
 33\. Q. _Quel âge avait-il lorsqu'il est allé dans la jungle ?_
 
@@ -188,7 +188,7 @@ A. Celles d'un homme très âgé, brisé par l'âge, d'un homme malade, d'un cad
 
 A. Non, son assistante, Channa, les a également vus.
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 37\. Q. _Pourquoi ces visions, si familières à tout le monde, l'auraient-elles poussé à se rendre dans la jungle ?_
 
@@ -204,7 +204,7 @@ A. Oui ; il semble avoir ressenti pour tous les êtres une pitié et un amour au
 
 40\. Q. _Et comment s'attendait-il à apprendre la cause de son chagrin dans la jungle ?_
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 A. En s'éloignant de tout ce qui pourrait l'empêcher de réfléchir profondément aux causes de la douleur et à la nature de l'homme.
 
@@ -224,7 +224,7 @@ A. Jusqu'à la rivière Anomâ, loin de Kapilavastu.
 
 A. Il sauta de son cheval, coupa ses beaux cheveux avec son épée, revêtit la robe jaune d'un ascète et, donnant ses ornements et son cheval à Channa, lui ordonna de les rapporter à son père, le roi.
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 45\. Q. _Et alors ?_
 
@@ -274,7 +274,7 @@ A. Il s'assit et médita, concentrant son esprit sur les problèmes supérieurs 
 
 R. Oui, pendant toute cette période. Il consommait de moins en moins de nourriture et d'eau, jusqu'à ne plus manger, dit-on, qu'un grain de riz ou de sésame par jour.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 56\. Q. _Cela lui a-t-il donné la sagesse à laquelle il aspirait ?_
 
@@ -292,7 +292,7 @@ A. L'idée lui vint que la connaissance ne pouvait jamais être atteinte par le 
 
 A. Il reçut de la nourriture de Sujâtâ, la fille d'un noble, qui le vit assis au pied d'un nyagrodha (banyan). Il se leva, prit son bol d'aumône, se baigna dans la rivière Nêranjarâ, mangea la nourriture et alla dans la jungle.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 60\. Q. _Qu'a-t-il fait là-bas ?_
 
@@ -322,7 +322,7 @@ A. Oui, des luttes puissantes et terribles. Il a dû vaincre dans son corps tous
 
 A. Au début, il était réticent à l’enseigner au grand public.
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 67\. Q. _Pourquoi ?_
 
@@ -362,7 +362,7 @@ A. Il convoqua les disciples, leur donna des instructions complètes et les envo
 
 76\. Q. _Quelle en était l'essence ?_
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 A. Que la voie de l’émancipation consiste à mener une vie sainte et à suivre les règles établies, qui seront expliquées plus tard.
 
@@ -392,7 +392,7 @@ A. Sâriputra et Moggallâna, anciens principaux disciples de Sanjaya, l'ascète
 
 83\. Q. _Pour quoi sont-ils devenus célèbres ?_
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 A. Sâriputra pour sa profonde érudition (_Prajña_), Moggallâna pour ses pouvoirs spirituels exceptionnels (_Iddhi_).
 
@@ -424,7 +424,7 @@ A. Il prêcha à tous le Dharma comme remède à tous les maux. Son père, son f
 
 A. Prajâpatî, tante et mère adoptive du prince Siddhartha. Avec elle, Yasodharâ et de nombreuses autres dames furent admises dans l'ordre comme Bhikkhunis ou dévotes.
 
-91\. Q. _Quel effet l'entrée dans la vie religieuse de ses fils Siddhartha et Ânanda, de son_ <span id="p21">[<sup><small>p. 21</small></sup>]</span> _neveu Devadatta, de l'épouse de son fils Yasodharâ et de son petit-fils Râhula, a-t-elle eu sur le vieux roi Suddhodana ?_
+91\. Q. _Quel effet l'entrée dans la vie religieuse de ses fils Siddhartha et Ânanda, de son_ <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> _neveu Devadatta, de l'épouse de son fils Yasodharâ et de son petit-fils Râhula, a-t-elle eu sur le vieux roi Suddhodana ?_
 
 A. Cela le chagrina beaucoup et il se plaignit au Bouddha, qui fit alors de l'ordre une règle selon laquelle personne ne devrait désormais être ordonné sans le consentement de ses parents, s'ils étaient en vie.
 
@@ -450,7 +450,7 @@ A. Des gens de tous rangs, nations et castes ; rajas et coolies, riches et pauvr
 
 97\. Q. _Donnez un compte rendu du décès du Bouddha ?_
 
-A. Dans la quarante-cinquième saison après avoir atteint la bouddhéité, un jour de pleine lune de mai, sachant que sa fin était proche, il arriva le soir à Kusinâgâra, un lieu situé à environ cent vingt milles de Bénarès. Dans le bosquet de sâla des Mallas, l'Uparvartana <span id="p23">[<sup><small>p. 23</small></sup>]</span> de Kusinâgâra, entre deux arbres sâla, il avait étendu sa couche, la tête tournée vers le nord, selon l'ancienne coutume. Il s'y étendit et, l'esprit parfaitement clair, donna ses dernières instructions à ses disciples et leur dit adieu.
+A. Dans la quarante-cinquième saison après avoir atteint la bouddhéité, un jour de pleine lune de mai, sachant que sa fin était proche, il arriva le soir à Kusinâgâra, un lieu situé à environ cent vingt milles de Bénarès. Dans le bosquet de sâla des Mallas, l'Uparvartana <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> de Kusinâgâra, entre deux arbres sâla, il avait étendu sa couche, la tête tournée vers le nord, selon l'ancienne coutume. Il s'y étendit et, l'esprit parfaitement clair, donna ses dernières instructions à ses disciples et leur dit adieu.
 
 98\. _Q. A-t-il également fait de nouveaux convertis au cours de ces dernières heures ?_
 
@@ -468,7 +468,7 @@ A. « Bhikkhus », dit-il, « je vous le rappelle, les parties et les pouvoirs d
 
 A. Son existence est apparemment aussi clairement prouvée que celle de tout autre personnage de l’histoire ancienne.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 102\. Q. _Nommez quelques-unes des preuves ?_
 
@@ -488,7 +488,7 @@ A. (1) Le témoignage de ceux qui l’ont connu personnellement.
 
 (8) Le « Mahâvansa », l’histoire ancienne la mieux authentifiée que nous connaissions, relate les événements de l’histoire cinghalaise jusqu’au règne du roi Vijaya, 543 av. J.-C. — presque l’époque du Bouddha — et donne la plupart des détails de sa vie, ainsi que de celles de l’empereur Asoka et de tous les autres souverains liés à l’histoire bouddhiste.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 105\. Q. _Par quels noms de respect le Bouddha est-il appelé ?_
 

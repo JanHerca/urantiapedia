@@ -121,7 +121,7 @@ Une forme transcendant la pensée que je portais,
 Et à travers l'étendue du triple monde
 Ma renommée de puissance et de valeur s'est envolée.
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 À peine le soleil et la lune pourraient-ils briller dans le ciel,
 Rare Sakra, avec une beauté rayonnante.
@@ -244,7 +244,7 @@ Maintenant, avec ses coursiers fatigués, le soleil
 Son parcours a traversé les cieux occidentaux,
 Au fond d'une fosse, mon corps gisait
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 Et brûlez-le de la manière habituelle.
 Quand mon corps sera placé dans la tombe,
@@ -364,7 +364,7 @@ Rien au monde n’est sombre ou terne,
 Partout où brille le puissant Dieu du Jour
 Resplendissant de mille rayons.
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 Il parcourt les hauteurs rocheuses et les collines,
 À travers une grotte sombre, près d'un lac et d'un ruisseau,
@@ -483,7 +483,7 @@ Leur croissance est toujours fraîche et jeune.
 Là habite encore S'avarí,
 Qui a servi chaque anachorète disparu.
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 Sous l'ombre des branches sacrées
 Cette ancienne votive tient ses vœux.
@@ -603,7 +603,7 @@ Que tu te contentes d'une nourriture maigre
 Tu as depuis longtemps apaisé toute trace de colère ;
 Que tous tes vœux soient bien tenus ;
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 Bien que la tranquillité d’esprit soit sûrement acquise :
 Cette révérence envers les saints qui ont enseigné
@@ -726,7 +726,7 @@ Pour le pouvoir et la puissance prééminents
 Et Lakshman, songeur, parla
 Les pensées qui s'éveillaient dans son sein :
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 « Mes yeux ont vu cette merveilleuse demeure
 De ces grands saints aux âmes soumises,

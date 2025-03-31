@@ -40,7 +40,7 @@ Car lorsqu'un amant sincère et un ami agréable parviennent à la rencontre de 
 
 Mais tout ce qui est avec lui, même la moelle et la peau, sera brûlé, et il ne restera que l'ami.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 « Lorsque les attributs de l'Ancien se manifestèrent, alors l'Interlocuteur (Moïse) consuma les attributs de toutes choses accidentelles. »
 
@@ -72,7 +72,7 @@ Toutes les mers ne contiennent pas de perles, toutes les branches ne portent pas
 
 Par conséquent, tant que le rossignol de la plantation spirituelle n’est pas retourné au jardin de roses divin, et que les lumières de l’aube spirituelle ne sont pas revenues au soleil de la réalité, faites un effort.
 
-Peut-être que dans cette terre mortelle, tu pourras respirer un parfum du jardin de roses immortelles, <span id="p80">[<sup><small>p. 80</small></sup>]</span> et te reposer pour toujours sous l'ombre des habitants de cette vallée (ville).
+Peut-être que dans cette terre mortelle, tu pourras respirer un parfum du jardin de roses immortelles, <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> et te reposer pour toujours sous l'ombre des habitants de cette vallée (ville).
 
 Lorsque tu auras atteint ce degré élevé et exalté et atteint cette grande station, alors tu verras l'Ami et tu oublieras les étrangers (c'est-à-dire tout le reste sauf Lui).
 
@@ -92,7 +92,7 @@ Oui ! Il est caché par l’intensité de la manifestation, et Il est caché par
 
 « Le Véritable est devenu manifeste, comme le soleil resplendissant. Dommage qu'Il soit venu dans la cité des aveugles ! »
 
-Dans cette vallée, le voyageur traverse les stades de « l’Unité de l’Existence » et de l’Apparence, et atteindra une Unité qui est sanctifiée au-dessus de ces deux stations. » <span id="p81">[<sup><small>p. 81</small></sup>]</span> \[« La doctrine mystique de l’Unité de l’Existence » est esquissée à partir de cette formule : « Seul Dieu existe ; Il est en toutes choses, et toutes choses sont en Lui. » — Note du traducteur.\]
+Dans cette vallée, le voyageur traverse les stades de « l’Unité de l’Existence » et de l’Apparence, et atteindra une Unité qui est sanctifiée au-dessus de ces deux stations. » <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> \[« La doctrine mystique de l’Unité de l’Existence » est esquissée à partir de cette formule : « Seul Dieu existe ; Il est en toutes choses, et toutes choses sont en Lui. » — Note du traducteur.\]
 
 « (L’état d’)extase peut pénétrer ce dicton, mais pas la controverse ni le conflit.
 
@@ -102,7 +102,7 @@ Celui qui a choisi une demeure dans cette Assemblée, ou découvert une brise de
 
 Bien que ces voyages n'aient pas de fin visible dans le monde du temps, si l'Assistance Invisible accorde à un voyageur dévoué (littéralement, quelqu'un séparé de tout sauf de Dieu), et si le Gardien du Commandement (c'est-à-dire la manifestation de Dieu) l'aide, il traversera ces sept étapes en seulement sept pas ; non, en sept souffles ; non, même en un souffle (un moment) si Dieu le veut ou le désire. « Cela est par Sa générosité envers qui Il veut. »
 
-Ceux qui s’élèvent dans le ciel de l’Unité et qui ont atteint la Mer de l’Abstraction ont considéré cette station, qui est la station dans cette cité de l’Immortalité en Dieu, comme la destination ultime de l’Arif – (celui qui est intime avec <span id="p82">[<sup><small>p. 82</small></sup>]</span> la plus haute pensée mystique) – et la demeure ultime des Amants.
+Ceux qui s’élèvent dans le ciel de l’Unité et qui ont atteint la Mer de l’Abstraction ont considéré cette station, qui est la station dans cette cité de l’Immortalité en Dieu, comme la destination ultime de l’Arif – (celui qui est intime avec <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> la plus haute pensée mystique) – et la demeure ultime des Amants.
 
 Mais, pour cette humble portion de la Mer des Significations, cette station n’est que le premier mur d’enceinte du cœur ; c’est-à-dire la première arrivée de l’homme dans la Cité du Cœur.
 
@@ -116,7 +116,7 @@ Faites un effort ; peut-être, comme un globe, pourra-t-il protéger cette lampe
 
 Car un cou levé dans l'Amour de Dieu sera certainement coupé par l'épée; une tête levée dans l'Amour sera assurément emportée par les vents; et le cœur lié à la commémoration du Bien-Aimé sera certainement rempli de chagrin.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Comme il est bien dit (par le poète) :
 

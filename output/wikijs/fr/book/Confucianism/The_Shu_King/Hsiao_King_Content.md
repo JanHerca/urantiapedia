@@ -29,13 +29,13 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p465">[<sup><small>p. 465</small></sup>]</span>
+<span id="p465"><sup><small>[ p. 465 ]</small></sup></span>
 
 <a id="c1"></a>
 
 ## CHAPITRE I. LA PORTÉE ET LA SIGNIFICATION DU TRAITÉ.
 
-(UNE FOIS), alors que <i>K</i>ung-nî [^631] était inoccupé et que son disciple Ȝăng [^632] était assis à ses côtés pour le servir, le Maître dit : « Shin, les anciens rois avaient une vertu parfaite et une règle de conduite universelle, grâce auxquelles ils étaient en accord avec tous sous le ciel. Par leur pratique, les gens étaient amenés à vivre en paix et en harmonie, et il n'y avait aucune rancune entre supérieurs et inférieurs. Sais-tu ce que c'était [^633] ? » Ȝăng se leva de sa natte et dit : « Comment <span id="p466">[<sup><small>p. 466</small></sup>]</span> pourrais-je, moi, Shan, qui suis si dépourvu d'intelligence, savoir cela ? » Le Maître dit : « (C'était de la piété filiale). Or, la piété filiale est la racine de (toute) vertu [^634], et (la tige) d'où naît (toute) doctrine (morale). Asseyez-vous à nouveau, et je vais vous expliquer le sujet. Nos corps – jusqu'au moindre cheveu et à chaque parcelle de peau – nous les avons reçus de nos parents, et nous ne devons pas présumer de les blesser ou de les endommager : c'est le début de la piété filiale. Lorsque nous avons établi notre caractère par la pratique de la voie (filiale), de manière à rendre notre nom célèbre dans les siècles futurs, et ainsi glorifier nos parents : c'est la fin de la piété filiale. Elle commence par le service des parents ; elle se poursuit par le service du souverain ; elle s'achève par l'établissement du caractère.
+(UNE FOIS), alors que <i>K</i>ung-nî [^631] était inoccupé et que son disciple Ȝăng [^632] était assis à ses côtés pour le servir, le Maître dit : « Shin, les anciens rois avaient une vertu parfaite et une règle de conduite universelle, grâce auxquelles ils étaient en accord avec tous sous le ciel. Par leur pratique, les gens étaient amenés à vivre en paix et en harmonie, et il n'y avait aucune rancune entre supérieurs et inférieurs. Sais-tu ce que c'était [^633] ? » Ȝăng se leva de sa natte et dit : « Comment <span id="p466"><sup><small>[ p. 466 ]</small></sup></span> pourrais-je, moi, Shan, qui suis si dépourvu d'intelligence, savoir cela ? » Le Maître dit : « (C'était de la piété filiale). Or, la piété filiale est la racine de (toute) vertu [^634], et (la tige) d'où naît (toute) doctrine (morale). Asseyez-vous à nouveau, et je vais vous expliquer le sujet. Nos corps – jusqu'au moindre cheveu et à chaque parcelle de peau – nous les avons reçus de nos parents, et nous ne devons pas présumer de les blesser ou de les endommager : c'est le début de la piété filiale. Lorsque nous avons établi notre caractère par la pratique de la voie (filiale), de manière à rendre notre nom célèbre dans les siècles futurs, et ainsi glorifier nos parents : c'est la fin de la piété filiale. Elle commence par le service des parents ; elle se poursuit par le service du souverain ; elle s'achève par l'établissement du caractère.
 
 « Il est dit dans les Odes Majeures du Royaume,
 
@@ -46,7 +46,7 @@ Cultiver votre vertu [^635].''
 
 ## CHAPITRE II. LA PIÉTÉ FILIALE CHEZ LE FILS DU CIEL.
 
-Celui qui aime ses parents n'osera pas (prendre le risque) d'être haï par quiconque, et celui qui les révère n'osera pas (prendre le risque) d'être méprisé par quiconque [^636]. Lorsque l'amour et la révérence (du Fils du Ciel) sont ainsi poussés à leur paroxysme au service de ses parents, les leçons de sa vertu affectent tout le monde, et il devient <span id="p468">[<sup><small>p. 468</small></sup>]</span> un modèle pour (tous ceux qui sont dans) les quatre mers [^637] : telle est la piété filiale du Fils du Ciel [^638].
+Celui qui aime ses parents n'osera pas (prendre le risque) d'être haï par quiconque, et celui qui les révère n'osera pas (prendre le risque) d'être méprisé par quiconque [^636]. Lorsque l'amour et la révérence (du Fils du Ciel) sont ainsi poussés à leur paroxysme au service de ses parents, les leçons de sa vertu affectent tout le monde, et il devient <span id="p468"><sup><small>[ p. 468 ]</small></sup></span> un modèle pour (tous ceux qui sont dans) les quatre mers [^637] : telle est la piété filiale du Fils du Ciel [^638].
 
 Il est dit dans (le Marquis de) Fû sur les Châtiments [^639],
 
@@ -58,7 +58,7 @@ Il est dit dans (le Marquis de) Fû sur les Châtiments [^639],
 
 Au-dessus des autres, et pourtant exempts d'orgueil, ils demeurent en haut, sans péril ; adhérant à l'économie et observant scrupuleusement les règles et les lois, ils sont abondants, sans débordement. Demeurer en haut sans péril est le long chemin pour préserver la noblesse ; être abondant sans débordement est le long chemin pour préserver les richesses. Lorsque leurs richesses et leur noblesse ne les quittent pas, ils sont alors capables de préserver les autels de leurs terres et de leurs céréales, et d'assurer l'harmonie de leur peuple et des hommes en fonction [^640] : telle est la piété filiale des princes d'État.
 
-<span id="p469">[<sup><small>p. 469</small></sup>]</span>
+<span id="p469"><sup><small>[ p. 469 ]</small></sup></span>
 
 Il est dit dans le Livre de poésie [^641],
 
@@ -72,7 +72,7 @@ Comme si on marchait sur de la glace mince !
 
 ## CHAPITRE IV. LA PIÉTÉ FILIALE CHEZ LES HAUTS MINISTRES ET LES GRANDS OFFICIERS.
 
-Ils ne se permettent pas de porter d'autres robes que celles prescrites par les lois des anciens rois [^642] ; ni de prononcer d'autres paroles que celles sanctionnées par leur discours ; ni d'adopter une conduite autre que celle illustrée par leurs voies vertueuses. Ainsi, aucune de leurs paroles n'étant contraire à ces sanctions, et aucune de leurs actions contraire à la (bonne) voie, <span id="p470">[<sup><small>p. 470</small></sup>]</span> de leur bouche ne sort aucun discours répréhensible, et dans leur conduite, on ne trouve aucune action répréhensible. Leurs paroles peuvent remplir tout ce qui est sous le ciel, et aucune erreur de langage ne sera trouvée en eux. Leurs actions peuvent remplir tout ce qui est sous le ciel, et aucune insatisfaction ni aversion ne sera éveillée par elles. Lorsque ces trois choses (leurs robes, leurs paroles et leur conduite) sont toutes complètes comme elles devraient l'être, ils peuvent alors préserver leurs temples ancestraux [^643] : telle est la piété filiale des hauts ministres et des grands officiers.
+Ils ne se permettent pas de porter d'autres robes que celles prescrites par les lois des anciens rois [^642] ; ni de prononcer d'autres paroles que celles sanctionnées par leur discours ; ni d'adopter une conduite autre que celle illustrée par leurs voies vertueuses. Ainsi, aucune de leurs paroles n'étant contraire à ces sanctions, et aucune de leurs actions contraire à la (bonne) voie, <span id="p470"><sup><small>[ p. 470 ]</small></sup></span> de leur bouche ne sort aucun discours répréhensible, et dans leur conduite, on ne trouve aucune action répréhensible. Leurs paroles peuvent remplir tout ce qui est sous le ciel, et aucune erreur de langage ne sera trouvée en eux. Leurs actions peuvent remplir tout ce qui est sous le ciel, et aucune insatisfaction ni aversion ne sera éveillée par elles. Lorsque ces trois choses (leurs robes, leurs paroles et leur conduite) sont toutes complètes comme elles devraient l'être, ils peuvent alors préserver leurs temples ancestraux [^643] : telle est la piété filiale des hauts ministres et des grands officiers.
 
 Il est dit dans le Livre de poésie [^644],
 
@@ -83,7 +83,7 @@ Au service de l'Homme.
 
 ## CHAPITRE V. LA PIÉTÉ FILIALE CHEZ LES OFFICIERS INFÉRIEURS.
 
-Comme ils servent leurs pères, ils servent leurs mères et les aiment de la même manière. Comme ils servent leurs pères, ils servent leurs dirigeants et les révèrent de la même manière. C'est pourquoi l'amour est ce qui est principalement rendu à la mère, et la révérence est ce qui est principalement rendu au dirigeant, tandis que ces deux choses sont données au père. Ainsi, lorsqu'ils servent leur dirigeant avec piété filiale, ils sont loyaux ; lorsqu'ils servent leurs supérieurs avec révérence, ils sont obéissants. Ne manquant pas à cette loyauté <span id="p471">[<sup><small>p. 471</small></sup>]</span> et à cette obéissance en servant leurs supérieurs, ils sont alors capables de conserver leurs émoluments et leurs positions, et de maintenir leurs sacrifices [^645] : telle est la piété filiale des officiers subalternes [^646].
+Comme ils servent leurs pères, ils servent leurs mères et les aiment de la même manière. Comme ils servent leurs pères, ils servent leurs dirigeants et les révèrent de la même manière. C'est pourquoi l'amour est ce qui est principalement rendu à la mère, et la révérence est ce qui est principalement rendu au dirigeant, tandis que ces deux choses sont données au père. Ainsi, lorsqu'ils servent leur dirigeant avec piété filiale, ils sont loyaux ; lorsqu'ils servent leurs supérieurs avec révérence, ils sont obéissants. Ne manquant pas à cette loyauté <span id="p471"><sup><small>[ p. 471 ]</small></sup></span> et à cette obéissance en servant leurs supérieurs, ils sont alors capables de conserver leurs émoluments et leurs positions, et de maintenir leurs sacrifices [^645] : telle est la piété filiale des officiers subalternes [^646].
 
 Il est dit dans le Livre de poésie [^647],
 
@@ -94,7 +94,7 @@ Ne déshonore pas ceux qui t'ont donné naissance.
 
 ## CHAPITRE VI. LA PIÉTÉ FILIALE CHEZ LE PEUPLE.
 
-Ils suivent le cours du ciel (dans le renouvellement des saisons) ; ils distinguent les avantages <span id="p472">[<sup><small>p. 472</small></sup>]</span> que procurent les (différents) sols [^648] ; ils sont soigneux de leur conduite et économes dans leurs dépenses ; — afin de nourrir leurs parents : — c'est la piété filiale du peuple.
+Ils suivent le cours du ciel (dans le renouvellement des saisons) ; ils distinguent les avantages <span id="p472"><sup><small>[ p. 472 ]</small></sup></span> que procurent les (différents) sols [^648] ; ils sont soigneux de leur conduite et économes dans leurs dépenses ; — afin de nourrir leurs parents : — c'est la piété filiale du peuple.
 
 C'est pourquoi, depuis le Fils du Ciel jusqu'au peuple, il n'y a jamais eu un homme dont la piété filiale ait été sans commencement et sans fin, sur qui la calamité ne soit arrivée.
 
@@ -108,11 +108,11 @@ C'est pourquoi, depuis le Fils du Ciel jusqu'au peuple, il n'y a jamais eu un ho
 
 Le disciple Ȝăng dit : « Immense est en effet la grandeur de la piété filiale ! » Le Maître répondit [^650],
 
-<span id="p473">[<sup><small>p. 473</small></sup>]</span>
+<span id="p473"><sup><small>[ p. 473 ]</small></sup></span>
 
 « Oui, la piété filiale est la constante (méthode) du Ciel, la droiture de la Terre et le devoir pratique de l'Homme [^651]. Le Ciel et la terre suivent invariablement la voie (que l'on peut ainsi décrire), et les peuples la prennent pour modèle. (Les anciens rois) imitaient les brillants luminaires du ciel et agissaient en accord avec les avantages (variables) offerts par la terre, de sorte qu'ils étaient en accord avec tout ce qui est sous le ciel ; et en conséquence, leurs enseignements, sans être sévères, étaient couronnés de succès, et leur gouvernement, sans être rigoureux, assurait un ordre parfait. »
 
-<span id="p474">[<sup><small>p. 474</small></sup>]</span>
+<span id="p474"><sup><small>[ p. 474 ]</small></sup></span>
 
 « Les anciens rois, voyant comment leurs enseignements [^652] pouvaient transformer le peuple, leur donnèrent donc l'exemple de l'amour le plus étendu, et aucun membre du peuple ne négligea ses parents ; ils leur présentèrent (la nature de) la vertu et de la droiture, et le peuple s'incita à les pratiquer ; ils allèrent devant eux avec révérence et courtoisie conciliante, et le peuple n'eut aucune querelle ; ils les guidèrent par les règles de la bienséance et par la musique, et le peuple fut harmonieux et bienveillant ; ils leur montrèrent ce qu'ils aimaient et ce qu'ils n'aimaient pas, et le peuple comprit leurs interdictions.
 
@@ -127,7 +127,7 @@ Et tout le monde vous admire.
 
 Le Maître dit : « Autrefois, lorsque les rois intelligents, par le moyen de la piété filiale, régnaient sur tout ce qui est sous le ciel, ils n'osaient pas recevoir avec irrespect les ministres des petits États ; combien moins le feraient-ils envers les ducs, les marquis, les comtes et les barons ! » C'est ainsi qu'ils obtinrent (les princes) des myriades d'États avec des cœurs joyeux (pour les aider) dans les services (sacrificiels) rendus à leurs prédécesseurs royaux [^654].
 
-<span id="p475">[<sup><small>p. 475</small></sup>]</span>
+<span id="p475"><sup><small>[ p. 475 ]</small></sup></span>
 
 Les dirigeants des États n'osaient pas mépriser les hommes sans épouse ni les veuves ; combien moins mépriseraient-ils leurs officiers et le peuple ! C'est ainsi qu'ils obtinrent avec joie l'aide de tout leur peuple pour servir les dirigeants, leurs prédécesseurs [^655].
 
@@ -140,7 +140,7 @@ Les chefs de clan n'osaient pas mépriser leurs servantes et leurs concubines ; 
 « À une conduite droite et vertueuse
 Tous, dans les quatre quartiers de l'État, rendent un hommage obéissant.
 
-<span id="p476">[<sup><small>p. 476</small></sup>]</span>
+<span id="p476"><sup><small>[ p. 476 ]</small></sup></span>
 
 <a id="c9"></a>
 
@@ -150,15 +150,15 @@ Tous, dans les quatre quartiers de l'État, rendent un hommage obéissant.
 
 Le disciple Ȝăng dit : « J'ose demander s'il n'y avait pas dans la vertu des sages quelque chose de plus grand que la piété filiale. » Le Maître répondit : « De toutes les créatures (avec leurs différentes natures) produites par le Ciel et la Terre, l'homme est la plus noble. De toutes les actions humaines, il n'y a pas de plus grande que la piété filiale. Dans la piété filiale, il n'y a rien de plus grand que la crainte révérencielle envers son père. Dans la crainte révérencielle montrée à son père, il n'y a rien de plus grand que de faire de lui le corrélat du Ciel [^659]. Le duc de <i>K</i>âu</i> fut l'homme qui (le premier) fit cela [^660].
 
-<span id="p477">[<sup><small>p. 477</small></sup>]</span>
+<span id="p477"><sup><small>[ p. 477 ]</small></sup></span>
 
 « Autrefois, le duc de Kâu sacrifiait à Hâu-kî, sur l'autel frontalier, comme au corrélat du Ciel, et dans la Salle Brillante, il honorait le roi Wăn et lui sacrifiait comme au corrélat de Dieu [^661]. La conséquence fut que de tous les États situés au sein des quatre mers, chaque prince venait, dans l'accomplissement de son devoir, participer aux sacrifices. Quoi de plus grand que la piété filiale dans la vertu des sages ? »
 
-« Maintenant, le sentiment d'affection grandit aux genoux des parents, et à mesure que le devoir de les nourrir s'exerce, l'affection se fond chaque jour dans la crainte respectueuse. » Les sages partirent de la crainte respectueuse pour enseigner les devoirs de révérence, et de l'affection pour enseigner ceux de l'amour. Les enseignements des sages, sans être sévères, furent couronnés de succès, et leur gouvernement, sans être rigoureux, <span id="p479">[<sup><small>p. 479</small></sup>]</span> fut efficace. Ce dont ils procédaient était la racine (de la piété filiale implantée par le Ciel).
+« Maintenant, le sentiment d'affection grandit aux genoux des parents, et à mesure que le devoir de les nourrir s'exerce, l'affection se fond chaque jour dans la crainte respectueuse. » Les sages partirent de la crainte respectueuse pour enseigner les devoirs de révérence, et de l'affection pour enseigner ceux de l'amour. Les enseignements des sages, sans être sévères, furent couronnés de succès, et leur gouvernement, sans être rigoureux, <span id="p479"><sup><small>[ p. 479 ]</small></sup></span> fut efficace. Ce dont ils procédaient était la racine (de la piété filiale implantée par le Ciel).
 
 La relation et les devoirs entre père et fils, (appartenant ainsi à) la nature conférée par le Ciel, (contiennent en eux le principe de) justice entre dirigeant et sujet [^662]. Le fils tire sa vie de ses parents, et aucun don plus grand ne saurait lui être transmis ; son dirigeant et son parent (ne font qu'un), son père le traite en conséquence, et aucune générosité ne saurait être plus grande. Ainsi, celui qui n'aime pas ses parents, mais aime les autres hommes, est qualifié de rebelle à la vertu ; et celui qui ne révère pas ses parents, mais révère les autres hommes, est qualifié de rebelle à la bienséance. Lorsque (le dirigeant) lui-même agit ainsi contrairement (aux principes) qui devraient le mettre en harmonie (avec tous les hommes), il ne présente rien à imiter au peuple. Il n'a rien à voir avec le bien, mais entièrement et uniquement avec ce qui nuit à la vertu. Bien qu'il puisse obtenir (sa volonté et être au-dessus des autres), l'homme supérieur ne lui donne pas son approbation.
 
-<span id="p480">[<sup><small>p. 480</small></sup>]</span>
+<span id="p480"><sup><small>[ p. 480 ]</small></sup></span>
 
 Il n'en est pas de même pour l'homme supérieur. Il parle, après avoir réfléchi à la pertinence de ses paroles ; il agit, après avoir réfléchi à la satisfaction de ses actes. Sa vertu et sa droiture sont dignes d'être honorées ; ses initiatives et ses actions méritent d'être imitées ; son comportement est digne d'être contemplé ; ses mouvements, qu'ils soient en avant ou en arrière, sont tous conformes à la règle. C'est ainsi qu'il se présente au peuple, qui le révère et l'aime, l'imite et lui ressemble. Ainsi, il est en mesure de faire réussir son enseignement de la vertu, et d'appliquer son gouvernement et ses ordres [^663].
 
@@ -173,7 +173,7 @@ Il n'a rien à redire dans son comportement.
 
 Le Maître dit : « Le service qu'un fils filial rend à ses parents est le suivant : dans sa conduite générale envers eux, il manifeste la plus grande révérence ; dans la façon dont il les nourrit, il s'efforce de leur donner le plus grand plaisir ; lorsqu'ils sont malades, il ressent la plus grande anxiété ; en les pleurant (morts), il manifeste toutes les manifestations de la douleur ; en leur sacrifiant, il fait preuve de la plus grande solennité. Lorsqu'un fils est complet dans ces cinq choses (on peut le déclarer) capable de servir ses parents. »
 
-<span id="p481">[<sup><small>p. 481</small></sup>]</span>
+<span id="p481"><sup><small>[ p. 481 ]</small></sup></span>
 
 Celui qui sert ainsi ses parents, dans une position élevée, sera exempt d'orgueil ; dans une position basse, il sera exempt d'insubordination ; et parmi ses pairs, il ne sera pas querelleur. Dans une position élevée, l'orgueil mène à la ruine ; dans une position basse, l'insubordination mène au châtiment ; entre pairs, la querelle mène au maniement des armes.
 
@@ -191,7 +191,7 @@ Le Maître dit : « Il y a trois mille offenses contre lesquelles les cinq chât
 
 ## CHAPITRE XII. AMPLIFICATION DE « LA RÈGLE DE CONDUITE GLOBALE » DU CHAPITRE I.
 
-Le Maître dit : « Pour enseigner aux gens à être affectueux et aimants, il n'y a rien de mieux que la piété filiale ; pour leur enseigner la bienséance et la soumission, il n'y a rien de mieux que le devoir fraternel ; pour changer leurs manières <span id="p482">[<sup><small>p. 482</small></sup>]</span> et changer leurs coutumes, il n'y a rien de mieux que la musique ; pour assurer le repos des supérieurs et le bon ordre du peuple, il n'y a rien de mieux que les règles de bienséance.
+Le Maître dit : « Pour enseigner aux gens à être affectueux et aimants, il n'y a rien de mieux que la piété filiale ; pour leur enseigner la bienséance et la soumission, il n'y a rien de mieux que le devoir fraternel ; pour changer leurs manières <span id="p482"><sup><small>[ p. 482 ]</small></sup></span> et changer leurs coutumes, il n'y a rien de mieux que la musique ; pour assurer le repos des supérieurs et le bon ordre du peuple, il n'y a rien de mieux que les règles de bienséance.
 
 Les Règles de bienséance ne sont que le développement du principe de Révérence. Ainsi, la révérence envers un père satisfait tous les fils ; la révérence envers un frère aîné satisfait tous les frères cadets ; la révérence envers un souverain satisfait tous les sujets [^667]. La révérence envers un seul homme satisfait des milliers et des myriades d'hommes. La révérence est accordée à quelques-uns, et le plaisir s'étend à beaucoup ; voilà ce que signifie une « Règle de Conduite Universelle ».
 
@@ -201,7 +201,7 @@ Les Règles de bienséance ne sont que le développement du principe de Révére
 
 Le Maître dit : « L'enseignement de la piété filiale par l'homme supérieur [^668] n'exige pas qu'il aille de famille en famille et voie quotidiennement les membres de chacune. Son enseignement de la piété filiale est un hommage de révérence à tous les pères sous le ciel ; son enseignement de la soumission fraternelle est un hommage de révérence à tous les frères aînés sous le ciel ; son enseignement du devoir d'un sujet est un hommage de révérence à tous les dirigeants sous le ciel. »
 
-<span id="p483">[<sup><small>p. 483</small></sup>]</span>
+<span id="p483"><sup><small>[ p. 483 ]</small></sup></span>
 
 « Il est dit dans le Livre de poésie [^669],
 
@@ -220,13 +220,13 @@ Le Maître dit : « La piété filiale avec laquelle l'homme supérieur sert ses
 
 ## CHAPITRE XV. LA PIÉTÉ FILIALE PAR RAPPORT À LA RÉPRIMANDE ET À LA REMONTOIRE.
 
-Le disciple Ȝăng dit : « J'ai entendu vos instructions sur l'affection de l'amour, sur le respect et la révérence, sur la façon de donner le repos à nos parents et de rendre notre nom célèbre ; j'oserais demander si la (simple) obéissance aux ordres de son père peut être qualifiée de piété filiale. » Le Maître répondit : « Quelles paroles sont-elles ! Quelles paroles sont-elles ! Autrefois, si le Fils de sept enfants avait sept ministres qui lui faisaient des remontrances, <span id="p484">[<sup><small>p. 484</small></sup>]</span> bien qu'il n'ait pas de bonnes méthodes de gouvernement, il ne perdrait pas la possession du royaume ; si le prince d'un État avait cinq de ces ministres, même si ses mesures pouvaient être tout aussi mauvaises, il ne perdrait pas son État ; si un grand officier en avait trois, il ne perdrait pas, dans un cas similaire, (la tête de) son clan ; Si un officier subalterne avait un ami prêt à le réprimander, sa réputation resterait attachée à son caractère ; et un père dont le fils lui adresserait des réprimandes ne sombrerait pas dans le gouffre des injustices [^670]. Par conséquent, en cas de conduite injuste, un fils ne doit en aucun cas s'abstenir de réprimander son père, ni un ministre de réprimander son souverain. Par conséquent, puisque la réprimande est requise en cas de conduite injuste, comment la simple obéissance aux ordres d'un père peut-elle être considérée comme de la piété filiale [^671] ?
+Le disciple Ȝăng dit : « J'ai entendu vos instructions sur l'affection de l'amour, sur le respect et la révérence, sur la façon de donner le repos à nos parents et de rendre notre nom célèbre ; j'oserais demander si la (simple) obéissance aux ordres de son père peut être qualifiée de piété filiale. » Le Maître répondit : « Quelles paroles sont-elles ! Quelles paroles sont-elles ! Autrefois, si le Fils de sept enfants avait sept ministres qui lui faisaient des remontrances, <span id="p484"><sup><small>[ p. 484 ]</small></sup></span> bien qu'il n'ait pas de bonnes méthodes de gouvernement, il ne perdrait pas la possession du royaume ; si le prince d'un État avait cinq de ces ministres, même si ses mesures pouvaient être tout aussi mauvaises, il ne perdrait pas son État ; si un grand officier en avait trois, il ne perdrait pas, dans un cas similaire, (la tête de) son clan ; Si un officier subalterne avait un ami prêt à le réprimander, sa réputation resterait attachée à son caractère ; et un père dont le fils lui adresserait des réprimandes ne sombrerait pas dans le gouffre des injustices [^670]. Par conséquent, en cas de conduite injuste, un fils ne doit en aucun cas s'abstenir de réprimander son père, ni un ministre de réprimander son souverain. Par conséquent, puisque la réprimande est requise en cas de conduite injuste, comment la simple obéissance aux ordres d'un père peut-elle être considérée comme de la piété filiale [^671] ?
 
 <a id="c16"></a>
 
 ## CHAPITRE XVI. L'INFLUENCE DE LA PIÉTÉ FILIALE ET LA RÉPONSE À CELLE-CI.
 
-Le Maître dit : « Autrefois, les rois intelligents servaient leurs pères avec piété filiale, et donc ils servaient le Ciel avec intelligence ; ils servaient leurs mères avec piété filiale, et donc ils servaient la Terre avec discernement [^672]. Ils suivaient <span id="p485">[<sup><small>p. 485</small></sup>]</span> la bonne voie à l'égard de leurs (propres) aînés et cadets, et donc ils assuraient la régulation des relations entre supérieurs et inférieurs (dans tout le royaume). »
+Le Maître dit : « Autrefois, les rois intelligents servaient leurs pères avec piété filiale, et donc ils servaient le Ciel avec intelligence ; ils servaient leurs mères avec piété filiale, et donc ils servaient la Terre avec discernement [^672]. Ils suivaient <span id="p485"><sup><small>[ p. 485 ]</small></sup></span> la bonne voie à l'égard de leurs (propres) aînés et cadets, et donc ils assuraient la régulation des relations entre supérieurs et inférieurs (dans tout le royaume). »
 
 « Lorsque le Ciel et la Terre furent servis avec intelligence et discrimination, les intelligences spirituelles déployèrent (leur pouvoir rétributif [^673]).
 
@@ -255,7 +255,7 @@ Et je ne l'oublierai jamais.
 
 
 
-<span id="p487">[<sup><small>p. 487</small></sup>]</span>
+<span id="p487"><sup><small>[ p. 487 ]</small></sup></span>
 
 <a id="c18"></a>
 
@@ -265,15 +265,15 @@ Le Maître dit : « Lorsqu'un fils filial pleure un parent, il se lamente, mais 
 
 Après trois jours, il peut manger ; car ainsi on enseigne au peuple qu'il ne faut pas nuire aux vivants à cause des morts, et que l'émaciation ne doit pas aller jusqu'à l'extinction de la vie : telle est la règle des sages. La période de deuil ne dépasse pas trois ans, pour montrer au peuple qu'elle doit prendre fin.
 
-« Un cercueil intérieur et extérieur sont fabriqués ; les linceuls sont également posés, ainsi que le linceul ; et (le corps) est soulevé (dans le cercueil). Les vases sacrificiels, ronds et carrés, sont (régulièrement) disposés, et (leur vue) remplit (les personnes en deuil) d'une (nouvelle) détresse [^678]. Les femmes se frappent la poitrine et les hommes frappent du pied, gémissant et pleurant, tandis qu'ils escortent tristement le cercueil jusqu'à la tombe. Ils consultent l'écaille de tortue pour déterminer la tombe et le sol qui l'entoure, et <span id="p488">[<sup><small>p. 488</small></sup>]</span> ils y déposent le corps en paix. Ils préparent le temple ancestral (pour recevoir la tablette du défunt), et y présentent des offrandes à l'esprit désincarné. Au printemps et en automne, ils offrent des sacrifices, pensant au défunt au fil des saisons. »
+« Un cercueil intérieur et extérieur sont fabriqués ; les linceuls sont également posés, ainsi que le linceul ; et (le corps) est soulevé (dans le cercueil). Les vases sacrificiels, ronds et carrés, sont (régulièrement) disposés, et (leur vue) remplit (les personnes en deuil) d'une (nouvelle) détresse [^678]. Les femmes se frappent la poitrine et les hommes frappent du pied, gémissant et pleurant, tandis qu'ils escortent tristement le cercueil jusqu'à la tombe. Ils consultent l'écaille de tortue pour déterminer la tombe et le sol qui l'entoure, et <span id="p488"><sup><small>[ p. 488 ]</small></sup></span> ils y déposent le corps en paix. Ils préparent le temple ancestral (pour recevoir la tablette du défunt), et y présentent des offrandes à l'esprit désincarné. Au printemps et en automne, ils offrent des sacrifices, pensant au défunt au fil des saisons. »
 
 « Les services rendus par l'amour et le respect envers les parents de leur vivant, et ceux rendus par le chagrin et la tristesse envers eux après leur mort, remplissent pleinement le devoir fondamental des hommes vivants. Les justes exigences de la vie et de la mort sont toutes satisfaites, et le service filial du fils envers ses parents est achevé. »
 
 ---
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>
@@ -370,7 +370,7 @@ Après trois jours, il peut manger ; car ainsi on enseigne au peuple qu'il ne fa
   Pour nourrir toute l’humanité.
   Personne n’aurait pu deviner son intention,
   Mais pour ton esprit qui te guide.'
-  Le septième morceau de la page précédente fut utilisé lors du sacrifice, dans la Salle Brillante, au roi Wăn, comme « corrélat de Dieu ». Les trois premiers vers ont été versifiés par : <span id="p478">[<sup><small>p. 478</small></sup>]</span>
+  Le septième morceau de la page précédente fut utilisé lors du sacrifice, dans la Salle Brillante, au roi Wăn, comme « corrélat de Dieu ». Les trois premiers vers ont été versifiés par : <span id="p478"><sup><small>[ p. 478 ]</small></sup></span>
   « Mes offrandes sont données ici,
   Un bélier, un taureau.
   Accepte-les, puissant Ciel,

@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 ## YASNA XXVII. PRÉLUDE AU RÉCITAL PRINCIPAL DE L'AHUNA-VAIRYA.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 3-5 [^1175]. 6. Les Haomas sont écrasés, ô Mazda, Khshathra et Asha, ô Seigneurs ! Bon est Sraosha qui accompagne le sacrifice avec une grande gloire [^1176], et puisse-t-il être présent et apporter une aide vigoureuse.
 
-7\. Nous offrons des actes salvateurs de sagesse et d'adoration avec le don sacré de l'Ahuna-vairya entonné avec sainteté, et des deux mortiers ici <span id="p281">[<sup><small>p. 281</small></sup>]</span> avancés [^1177] avec un acte sacré, et avec celui des paroles correctement prononcées également ; et puissent-ils donc être pour nous d'autant plus salvateurs dans leur sage signification
+7\. Nous offrons des actes salvateurs de sagesse et d'adoration avec le don sacré de l'Ahuna-vairya entonné avec sainteté, et des deux mortiers ici <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> avancés [^1177] avec un acte sacré, et avec celui des paroles correctement prononcées également ; et puissent-ils donc être pour nous d'autant plus salvateurs dans leur sage signification
 
 8-12 [^1178]. 13. De même que l'Ahû est excellent, ainsi le Ratu (celui qui gouverne) est, de par sa sainteté, un créateur de bonté mentale et d'actions de vie faites pour Mazda ; et le Royaume (est) pour Ahura, qui aux pauvres peut offrir un nourricier. 14. (Quel est Ton Royaume, Tes richesses ; comment puis-je t'appartenir dans mes actions, pour nourrir Tes pauvres, ô Mazda ? Au-delà ; oui, au-delà de tout, nous Te déclarons, loin des Daêvas et des mortels maudits par Khrafstra [^1179] !)
 

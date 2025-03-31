@@ -64,7 +64,7 @@ CÉLÉBRANT LES LOUANGES DU DUC WĂN ; SA DILIGENCE, SA PRÉVISION, SON USAGE DE
 
 L'État de Wei fut réduit à l'extrême par l'irruption de hordes du Nord en 660 av. J.-C. et avait presque disparu des États de Kâu. Sous le marquis Wei, connu dans l'histoire sous le nom de duc Wăn, sa fortune renaît, et il devient en quelque sorte le second fondateur de l'État.
 
-Lorsque Ting culmina (à la tombée de la nuit) [^605], il commença à construire le palais de <i>Kh</i>û [^606], déterminant} <span id="p437">[<sup><small>p. 437</small></sup>]</span> ses aspects au moyen du soleil. Il construisit le palais de Khû. Il planta autour de lui des noisetiers et des châtaigniers, le Î, le Thung, le Ȝze et l'arbre à vernis. Qui, une fois coupés, pourraient fournir des matériaux pour les luths.
+Lorsque Ting culmina (à la tombée de la nuit) [^605], il commença à construire le palais de <i>Kh</i>û [^606], déterminant} <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> ses aspects au moyen du soleil. Il construisit le palais de Khû. Il planta autour de lui des noisetiers et des châtaigniers, le Î, le Thung, le Ȝze et l'arbre à vernis. Qui, une fois coupés, pourraient fournir des matériaux pour les luths.
 
 Il gravit ces vieux murs, et de là examina (l'emplacement de) <i>Kh</i>û. Il examina <i>Kh</i>û et Thang [^607], avec les hautes collines et les hautes élévations alentour. Il descendit et examina les mûriers. Il devina alors grâce à l'écaille de tortue, et obtint une réponse favorable [^608] ; et ainsi l'issue fut vraiment bonne.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 
 Le roi Prasenajit avait une fille nommée Virupa. Elle avait atteint l'âge nubile. Malheureusement, elle était extrêmement laide ; aucun prince ni guerrier ne la voulait pour épouse, et même les marchands la regardaient d'un mauvais œil.
@@ -45,7 +45,7 @@ Ganga fut très flatté par l'offre de Prasenajit. Issu d'une famille modeste, e
 
 Il obéit. La nuit était sombre et le mariage eut lieu sans que Ganga ait vu sa fiancée. Puis Virupa raccompagna son mari chez lui.
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 Ganga vit sa femme le lendemain. Sa laideur l'effrayait. Il voulut la chasser de la maison, mais il n'osa pas ; il craignait la vengeance du roi. Il la garda chez lui, mais elle était pratiquement prisonnière ; elle n'avait le droit de sortir, sous aucun prétexte.
 

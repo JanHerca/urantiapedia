@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 DEUXIÈME MU<i>N</i><i>D</i>AKA.
 
@@ -48,7 +48,7 @@ DEUXIÈME MU<i>N</i><i>D</i>AKA.
 
 5\. De lui vient Agni (le feu) [^176], le soleil étant le combustible ; de la lune (Soma) vient la pluie (Par<i>g</i>anya) ; de la terre vient l'herbe ; et l'homme donne sa semence à la femme. Ainsi, de nombreux êtres sont engendrés par la Personne (purusha).
 
-6\. De lui viennent le <i>Ri</i><i>k</i>, le Sâman, le <span id="p35">[<sup><small>p. 35</small></sup>]</span> Ya<i>g</i>ush, les Dîkshâ (rites initiatiques), tous les sacrifices et offrandes d'animaux, et les honoraires accordés aux prêtres, l'année aussi, le sacrificateur, et les mondes, dans lesquels la lune brille avec éclat et le soleil.
+6\. De lui viennent le <i>Ri</i><i>k</i>, le Sâman, le <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Ya<i>g</i>ush, les Dîkshâ (rites initiatiques), tous les sacrifices et offrandes d'animaux, et les honoraires accordés aux prêtres, l'année aussi, le sacrificateur, et les mondes, dans lesquels la lune brille avec éclat et le soleil.
 
 7\. De lui sont aussi engendrés les nombreux Devas, les Sâdhyas (génies), les hommes, le bétail, les oiseaux, les respirations ascendantes et descendantes, le riz et le blé (pour les sacrifices), la pénitence, la foi, la vérité, l'abstinence et la loi.
 
@@ -59,7 +59,7 @@ DEUXIÈME MU<i>N</i><i>D</i>AKA.
 10\. La Personne est tout cela, sacrifice, pénitence, Brahman, le plus haut immortel ; celui qui sait cela caché dans la caverne (du cœur), celui-là, ô ami, disperse le nœud de l'ignorance ici sur terre.
 
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 ## DEUXIÈME KHA<i>N</i><i>D</i>A.
 
@@ -77,7 +77,7 @@ DEUXIÈME MU<i>N</i><i>D</i>AKA.
 
 7\. Celui qui comprend tout et qui sait tout, celui à qui appartient toute cette gloire dans le monde, le
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Le Soi est placé dans l'éther, dans la cité céleste de Brahman (le cœur). Il assume la nature de l'esprit et devient le guide du corps des sens. Il se nourrit, à proximité du cœur. Le sage qui comprend cela contemple l'Immortel qui rayonne, plein de félicité.
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 ## VII. Le marchand et le perroquet.
 
@@ -62,7 +62,7 @@ Laissez-le dans sa cage, pendant que vous vous occupez des forêts.
 Il souhaite que tu te souviennes de ton ami perdu,
 Lorsque vous buvez vos boissons alcoolisées, vous vous dirigez vers le champ.[^202]
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 C'est doux d'être pensé par une dame lointaine,
 La bien-aimée de quelqu'un, dont l'amour a enflammé son cœur.
@@ -97,7 +97,7 @@ Tous les torts lui semblent, par son amour, la plus pure félicité.
 Il aime la rose, et lui-même est une rose.
 Il s'aime lui-même et recherche l'amour pour ses malheurs.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Ainsi va l'âme, son histoire, juste l'histoire d'un perroquet.
 O où est Celui vers qui toutes les âmes se lamentent ?
@@ -130,7 +130,7 @@ Dans une retraite boisée, il a trouvé une volée de perroquets.
 Il arrêta sa bête, cria à tue-tête :
 Ce message, Polly l'avait fait, selon son choix.
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 Il vit un oiseau du troupeau, puis il se mit à trembler,
 Je suis tombé à terre, je ne pouvais plus respirer.
@@ -167,7 +167,7 @@ L'impatience qui se montre, goûte la colère qui est à venir.
 Un saint n’est pas blessé, quoi qu’il arrive,[^209]
 Avaler le poison tombé s'il le décidait une fois.
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 Il est entier et sain ; un régime strict est sa règle.
 Les étudiants pauvres sont en bonne santé dans l'école redoutée par la fièvre.
@@ -204,7 +204,7 @@ Présentez-nous les tours que vous avez entre les mains.
 L'honneur ainsi rendu était une insulte à leur foi,
 Éliminer les conflits de leur chemin.
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Quand ils eurent perçu ce qui lui était ainsi dû,
 Ils ont reconnu l'erreur, bien qu'un peu trop faible.
@@ -240,7 +240,7 @@ Ainsi les larmes coulent partout où le repentir apparaît.
 Pour pleurer, Adam est descendu dans ce monde souterrain ;
 Soupirer, gémir et gémir ; loin du doux Eden jeté,
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 Du paradis exclu, du ciel chassé,
 Comme un écolier avec un bonnet de fou, son grand péché est de se noyer.
@@ -278,7 +278,7 @@ Nous prêterons l'oreille au marchand et au perroquet.
 Notre marchand avait expédié rapidement son commerce,
 Puis il retourna chez lui, la porte de la maison ouverte avec joie.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 À chaque esclave mâle il apportait un cadeau rare ;
 <sup id="v105"><small>105</small></sup> Pour chacune de ses servantes, il avait acheté un cadeau.
@@ -314,7 +314,7 @@ La flèche que la pauvre Jill frappe, la tue immédiatement.
 Si seulement cela la blessait, pour une longue durée
 La douleur est l'œuvre de Dieu, quel que soit le climat.
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 Si Jack, à ce moment-là, devait expirer de peur,
 <sup id="v120"><small>120</small></sup> La blessure de Jill ne cessait de la tourmenter, de jour comme de nuit.
@@ -349,7 +349,7 @@ Les saints éclairés règnent sur nos cœurs, leur propre pouvoir.
 Tous les actes sont sans doute le fruit de l'expérience.
 L'homme n'est donc qu'un élève, tout le reste n'est qu'un prétexte.[^220]
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 Je vais maintenant clore ce sujet ; j'aurais encore beaucoup à dire ;
 <sup id="v135"><small>135</small></sup> Je suis empêché par les règles que j'obéis.
@@ -388,7 +388,7 @@ Et gémit, en détresse, sanglotant sauvagement, tout au long :
 « Mon perroquet, pourquoi, mon cher, as-tu le cœur si brisé ?
 <sup id="v150"><small>150</small></sup> Es-tu vraiment mort maintenant ? Si désireux de partir ?
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Pauvre petit animal, mon cher oiseau, avec toi je pourrais parler pendant des heures.
 Ma chérie, mon second moi, j'ai aimé ta marche.
@@ -424,7 +424,7 @@ Hélas ! Cet oiseau rapide, qui s'élève hardiment, est le mien,
 Les ignorants, les prétendants aux ennuis, sont tous là.
 « Je jure », jusqu'à « misère », lisez, pauvre esclave.[^222]
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 De la misère tu m'as libéré de ton visage.
 De l'écume, ainsi jaillit le clair courant de ton secours.
@@ -459,7 +459,7 @@ Comme un lion mâle, le chagrin rejette toutes sortes de condoléances.
 Celui qui dans ses sens est ainsi devenu ivre,
 Quelle rage féroce il ferait s'il était plongé dans des coupes.
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 Un lion en chaleur, lui, méprisant toutes les limites ;
 Aucune forêt ne pourrait le retenir, ni la jungle dense.
@@ -496,7 +496,7 @@ Ce n'est qu'une relation, chacune étant l'une des deux.
 Si la soif cherche de l'eau dans ce vaste domaine,
 L'eau, de son côté, la soif courtise à nouveau.
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Si quelqu'un t'aime, sois silencieux.
 Ton oreille réclame alors, tu devrais être attentif.
@@ -534,7 +534,7 @@ Que les anciens et les modernes soient tous sportifs.
 J'ai fait court mon histoire, les détails ne sont pas donnés.
 <sup id="v215"><small>215</small></sup> Sinon cela brûlerait tout le levain des articulations du cœur et de la langue.
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Quand je dis « lèvre », je veux dire « marge de la mer » ;
 Quand « Non ! » vous pouvez prendre son vrai sens comme « Oui ! ».
@@ -566,7 +566,7 @@ La jalousie de l'homme, la paille emportée par la porte.
 Sachez : La jalousie monte encore en notre Dieu ;
 La jalousie de l'homme a germé de cette noble verge.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 Laissons tomber ce sujet profond, prenons la plainte et gémissons,
 <sup id="v230"><small>230</small></sup> Contre la grande épreuve du fléau châtiment de l'amour.[^228]
@@ -600,7 +600,7 @@ Là où les unités apparaissent, tu es la somme du tout !
 Ce « _je_ » et ce « _nous_ » Tu les as ordonnés pour Ton état ;
 Que les psaumes, les hymnes et les laudes puissent encore s'élever jusqu'à ta porte.
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 Quand « je » et quand « nous » s’unirons tous deux en Un,
 <sup id="v245"><small>245</small></sup> Absorbés ils seront dans Ton essence seule.
@@ -639,7 +639,7 @@ Mon empressement ne naît ni de la joie, ni du chagrin ;
 Mon état est juste un état très souvent pas vu ;
 Ne contestez pas ; la vérité a toujours été victorieuse.
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 Ne pensez pas que mon état soit celui de tous ces hommes ordinaires ;
 Ne soyez pas bienfaiteur, pour tyranniser alors.
@@ -673,7 +673,7 @@ Dans l'espoir qu'une aide viendra à son secours,
 Sa chérie prend plaisir à ses luttes pour voir;
 Un effort est plus noble que le découragement.
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 Un marié n'est sûrement pas tout à fait exempt de soucis.
 Nous n'attendons pas ses gémissements, la douleur n'est pas ce qu'il craint.
@@ -710,7 +710,7 @@ Deviens un grain, tu seras picoré par les oiseaux.
 Tu caches ton grain ?Tu n'es rien d'autre qu'un piège à briques.
 Ta fleur est fermée ?Tu es une mauvaise herbe sur le toit.
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 Sa beauté, quiconque la propose à la vente,
 Invite de nombreux troubles à assaillir son cœur.
@@ -749,7 +749,7 @@ Mon âme n'est pas, certes, inférieure à la sienne.
 Le corps est une cage et une épine pour l'âme.
 Ainsi, le corps et l'âme sont rarement entièrement entiers.
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 Le corps dit : « Je te suivrai où tu pourras me conduire. »
 L'âme répond : « Non, ton désir est tout ce dont j'ai conscience. »
@@ -788,7 +788,7 @@ Ni l'un ni l'autre ne valent la moitié du prix.
 Ils n'ont pas de durée, ils produisent des effets.
 <sup id="v325"><small>325</small></sup> Par contraires, contraires tout ce qu'on en déduit.
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 Comme effet caché d'un régime sucré,
 Après une longue incubation, des furoncles éclatent, ou glaires.
@@ -823,7 +823,7 @@ Le meilleur « dossier » de l’homme doit être constitué de taches et de pla
 Ô Dieu, ta grâce, unique, nous soutient en tant qu’hommes,
 <sup id="v340"><small>340</small></sup> Un autre nom à Toi ne convient pas à une plume.
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 Aux serviteurs, Tu as gentiment accordé un jugement sûr.
 Ce don a fait le moyen, nous avons échappé à l'erreur.
@@ -862,7 +862,7 @@ La néantité rend chaque chose volée en retard.
 Considère, mon ami, en toi-même ; maintenant, un instant,
 Le printemps et l'automne, tu les vois sourire en toi.
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Veille à ce que ton cœur soit vert, donne ses bons fruits
 De la droiture, de la pureté, les meilleures recrues du ciel.
@@ -892,7 +892,7 @@ L'affliction d'un œil aveugle, où qu'il soit.
 En présence de Joseph, aucune coquetterie n'est de mise.[^243]
 Mais humilie-toi, de douces supplications s'infusent.
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 Le perroquet avait la mort simulée, comme une prière.
 <sup id="v370"><small>370</small></sup> Meurs à l’orgueil ; tu pourras ainsi vivre à jamais.

@@ -44,7 +44,7 @@ Je sers une tribu dont le cœur est à l'opposé de ce qu'ils manifestent dans l
 
 Je suis, sur le terrain, le prince de leur tribu ; mais, la bataille terminée, je suis plus méprisé qu'un esclave.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 Oh ! si je pouvais anéantir cette affection d'un amant ! Comme elle m'humilie ! Elle angoisse mon cœur, elle affaiblit mon courage.
 
@@ -70,7 +70,7 @@ Les bêtes sauvages sont apprivoisées par un traitement doux ;
 
 Mais les hommes ne doivent jamais être incités à abandonner leur iniquité.
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 Mais bientôt ils entendent, dans le calme de la nuit, une voix de femme qui crie, manifestement dans une grande détresse. Antar desserre alors sa bride et galope dans la direction d'où partent les cris. Il découvre une dame qui lui apprend qu'elle est de la noble tribu de Kendeh, son mari est As-hath, fils d'Obad ; qu'une famine ayant frappé leur pays, ils se dirigeaient avec leur famille vers le pays de Harith, où ils avaient l'intention de s'établir, ayant une fille mariée là-bas, lorsqu'ils furent attaqués par un cavalier du désert, nommé Soudam, fils de Salheb, avec quarante Arabes pillards, qui avaient tué ses trois fils, blessé son mari et emmené elle-même et ses trois filles captives ; et que les brigands allaient les conduire dans les montagnes de Toweila, pour les vendre comme esclaves. Confiant les dames à son frère, Antar saisit sa lance et se tourna vers Sudam et ses partisans, qu'il vit alors s'avancer précipitamment vers lui. Le héros est assailli par plusieurs brigands à la fois, mais il les coupe de chaque côté, et rencontre enfin Sudam, et, le frappant à la poitrine avec son Dhami tranchant, le chef tombe à terre mort, baignant dans son sang.
 
@@ -80,7 +80,7 @@ Si mon cœur m'appartenait, je ne désirerais rien d'autre que toi, il ne convoi
 
 Mais il aime ce qui le torture, là où aucune parole, aucun acte ne l'encourage.
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Après avoir escorté le vieux cheikh et sa famille jusqu'au pays de Harith, Antar prit congé d'eux et, en compagnie de Shiboob, se rendit à La Mecque. « Il descendit dans la Vallée Sacrée et y résida, passant ses journées à chasser pour soulager ses chagrins et ses afflictions, et ses nuits avec Shiboob à parler de vieilles histoires et d'événements passés. »
 

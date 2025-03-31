@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 4. S'il a rincé des récipients dans l'eau ou s'il l'a utilisée pour rincer des mesures, elle devient impropre ; mais s'il a rincé des récipients déjà rincés ou des récipients neufs, l'eau ainsi utilisée reste propre aux ablutions. R. José interdit son utilisation dans le cas de récipients neufs.
 
-§ 5. L'eau dans laquelle le boulanger a trempé ses petits pains est impropre aux ablutions, mais s'il y a seulement trempé ses mains, elle reste convenable. Tous sont habilités à verser de l'eau sur les mains d'autrui, même les sourds-muets, les idiots et les mineurs. Un homme peut tenir un tonneau entre ses genoux pour verser l'eau sur ses mains. Un singe peut verser de l'eau <span id="p359">[<sup><small>p. 359</small></sup>]</span> sur les mains d'une personne. R. José déclare ces deux dernières manières de verser de l'eau sur les mains comme légalement inappropriées.
+§ 5. L'eau dans laquelle le boulanger a trempé ses petits pains est impropre aux ablutions, mais s'il y a seulement trempé ses mains, elle reste convenable. Tous sont habilités à verser de l'eau sur les mains d'autrui, même les sourds-muets, les idiots et les mineurs. Un homme peut tenir un tonneau entre ses genoux pour verser l'eau sur ses mains. Un singe peut verser de l'eau <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> sur les mains d'une personne. R. José déclare ces deux dernières manières de verser de l'eau sur les mains comme légalement inappropriées.
 
 <figure class="table chapter-navigator">
   <table>

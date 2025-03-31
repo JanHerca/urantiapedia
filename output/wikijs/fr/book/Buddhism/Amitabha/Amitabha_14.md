@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Açvaghosha vit que tous les regards étaient braqués sur lui, et il raconta l'histoire de l'éléphant blanc. Il dit :
 
@@ -54,7 +54,7 @@ Quand Açvaghosha eut terminé la parabole du noble et puissant éléphant, les 
 
 Notre but n'est pas de vivre, mais, que nous mourions ou que nous vivions, d'éviter le mal et de laisser prévaloir le bien, la justice et la bienveillance. Le Tathâgata dit :
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 « Ne commettez pas de mal, mais faites de bonnes actions,
  Et que ton cœur soit pur.

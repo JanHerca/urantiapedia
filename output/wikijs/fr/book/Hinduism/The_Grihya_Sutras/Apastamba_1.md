@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 1, SECTION 1.
 
@@ -56,7 +56,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 10\. Se terminant au sud.
 
-11\. Les cérémonies occasionnées par des événements spéciaux (sont célébrées) selon les circonstances. <span id="p252">[<sup><small>p. 252</small></sup>]</span>
+11\. Les cérémonies occasionnées par des événements spéciaux (sont célébrées) selon les circonstances. <span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 12\. [^714] Après avoir allumé le feu, il étend autour de lui de l'herbe Darbha pointée vers l'est,
 
@@ -78,7 +78,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 21\. [^717] Du côté sud, il fait asseoir un Brâhma<i>n</i>a sur l'herbe Darbha.
 
-22\. Il fait fondre l'Â<i>g</i>ya, le verse, à l'ouest du feu, dans le pot à Â<i>g</i>ya, sur lequel il a posé deux purificateurs, tire des charbons (du feu sacrificiel) vers la joie, pose (l'Â<i>g</i>ya) dessus, jette <span id="p253">[<sup><small>p. 253</small></sup>]</span> dessus au moyen d'un brin d'herbe brûlant, jette deux pointes de Darbha dedans, fait tourner un tison autour d'elle trois fois, la retire du feu vers le nord, ramène les charbons (dans le feu), purifie (l'Â<i>g</i>ya) trois fois avec deux purificateurs pointés vers le nord, les déplaçant d'avant en arrière, et jette les purificateurs dans le feu.
+22\. Il fait fondre l'Â<i>g</i>ya, le verse, à l'ouest du feu, dans le pot à Â<i>g</i>ya, sur lequel il a posé deux purificateurs, tire des charbons (du feu sacrificiel) vers la joie, pose (l'Â<i>g</i>ya) dessus, jette <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> dessus au moyen d'un brin d'herbe brûlant, jette deux pointes de Darbha dedans, fait tourner un tison autour d'elle trois fois, la retire du feu vers le nord, ramène les charbons (dans le feu), purifie (l'Â<i>g</i>ya) trois fois avec deux purificateurs pointés vers le nord, les déplaçant d'avant en arrière, et jette les purificateurs dans le feu.
 
 
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. Lors des cérémonies appartenant aux Pères (l'eau est aspergée) seulement tout autour (du feu), en silence.
 
-5\. [^719] Ayant mis un morceau de bois sur le feu, il <span id="p254">[<sup><small>p. 254</small></sup>]</span> offre les deux oblations d'Âghâra comme aux sacrifices de la nouvelle et de la pleine lune, en silence.
+5\. [^719] Ayant mis un morceau de bois sur le feu, il <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> offre les deux oblations d'Âghâra comme aux sacrifices de la nouvelle et de la pleine lune, en silence.
 
 6\. [^720] Puis il offre les deux oblations Â<i>g</i>yabhâga, sur la partie orientale de la partie septentrionale (du feu) avec (les mots), 'À Agni Svâhâ!' sur la partie orientale de la partie méridionale (une autre oblation) exactement comme la précédente, avec (les mots), 'À Soma Svâhâ!'
 
@@ -103,7 +103,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. La désignation « Pâkaya<i>g</i><i>g</i>a » est utilisée pour les cérémonies liées à la vie mondaine.
 
-10\. [^723] Là, le rituel basé sur le Brâhma<i>n</i>a (est valable), <span id="p255">[<sup><small>p. 255</small></sup>]</span>
+10\. [^723] Là, le rituel basé sur le Brâhma<i>n</i>a (est valable), <span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 11\. [^724] (Auquel les mots font allusion), 'Il sacrifie deux fois ; il s'essuie (la main) deux fois ; il prend deux fois (la nourriture sacrificielle) ; étant parti, il sirote (le Sru<i>k</i>) et lèche (le Sru<i>k</i>).'
 
@@ -122,7 +122,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## PA<i>T</i>ALA 1, SECTION 3.
 
-1\. [^726] Sous le Maghâs (Nakshatra), des vaches sont fournies ; <span id="p256">[<sup><small>p. 256</small></sup>]</span>
+1\. [^726] Sous le Maghâs (Nakshatra), des vaches sont fournies ; <span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 2\. Sous le Phalgunî (Nakshatra) le mariage est célébré.
 
@@ -142,7 +142,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 10\. [^730] Que (le prétendant) évite dans sa cour une fille qui dort, qui pleure ou qui a quitté la maison.
 
-11\. [^731] Et qu'il évite celle qui a été donnée (à un autre), et qui est gardée (par ses proches), et celle qui a l'air méchante (?), ou qui est une très <span id="p257">[<sup><small>p. 257</small></sup>]</span> excellente (?), ou (qui est comme le cerf fabuleux) <i>s</i>arabha (?), une bossue, une fille d'apparence monstrueuse, une fille chauve, une fille dont la peau est comme celle d'une grenouille (?), une fille qui est passée dans une autre famille (?), une fille adonnée aux plaisirs sensuels (?), ou une bergère, ou une personne qui a trop d'amis, ou qui a une belle sœur cadette, ou une personne dont l'âge est trop proche de celui du marié (?).
+11\. [^731] Et qu'il évite celle qui a été donnée (à un autre), et qui est gardée (par ses proches), et celle qui a l'air méchante (?), ou qui est une très <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> excellente (?), ou (qui est comme le cerf fabuleux) <i>s</i>arabha (?), une bossue, une fille d'apparence monstrueuse, une fille chauve, une fille dont la peau est comme celle d'une grenouille (?), une fille qui est passée dans une autre famille (?), une fille adonnée aux plaisirs sensuels (?), ou une bergère, ou une personne qui a trop d'amis, ou qui a une belle sœur cadette, ou une personne dont l'âge est trop proche de celui du marié (?).
 
 12\. [^732] Les filles qui portent le nom d'un Nakshatra, ou d'une rivière, ou d'un arbre, sont répréhensibles.
 

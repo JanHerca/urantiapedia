@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 **CHAPITRE VI.**
 
@@ -46,7 +46,7 @@ A la mort de Sheykh Ferīdūn, Chelebī Husāmu-’d-Dīn fut nommé par Jelāl 
 
 Husâm se prosterna un jour devant Jelâl et lui raconta que, lorsque les disciples récitèrent les vers du Mesnevî et furent enchantés, il vit lui-même une troupe d'êtres invisibles, armés de gourdins et de cimeterres, qui les surveillaient. Si quelqu'un n'écoutait pas ces paroles sacrées avec révérence et foi, les gourdins et les épées étaient utilisés et il était jeté dans la fosse de feu de l'enfer. Jelâl confirma comme étant un fait tout ce que Husâm avait raconté.
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 ## 3.
 
@@ -68,7 +68,7 @@ Les nuages commencèrent alors à s'amonceler et à s'abaisser, peu de temps apr
 
 ## 6.
 
-Non seulement tous les revenus du collège, provenant de ses dotations, furent confiés par Jelāl à la seule administration de Husām, mais, quels que soient les dons et les contributions offerts par les princes et les amis, en argent ou en nature, ils furent tous <span id="p115">[<sup><small>p. 115</small></sup>]</span> confiés à ses soins, pour augmenter les ressources du fonds général. La famille de Jelāl, ainsi que son fils, bien que souvent lésés, s'en tirèrent comme disciples.
+Non seulement tous les revenus du collège, provenant de ses dotations, furent confiés par Jelāl à la seule administration de Husām, mais, quels que soient les dons et les contributions offerts par les princes et les amis, en argent ou en nature, ils furent tous <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> confiés à ses soins, pour augmenter les ressources du fonds général. La famille de Jelāl, ainsi que son fils, bien que souvent lésés, s'en tirèrent comme disciples.
 
 ## 7.
 
@@ -86,7 +86,7 @@ La reine crut à sa parole et se transporta aussitôt dans une autre partie du p
 
 Un certain Cheikh mourut à Qonya, il était recteur de deux collèges différents. Le prince qui était le fiduciaire des deux, choisit de nommer Husâmu-’d-Dîn comme recteur de l’un d’eux, et un grand festin fut préparé par le prince pour l’occasion.
 
-Jelāl fut informé de l'arrangement, et il exprima l'intention de porter lui-même le tapis de Husām à son nouveau <span id="p116">[<sup><small>p. 116</small></sup>]</span> collège, et de l'étendre lui-même pour Husām dans son nouveau siège.
+Jelāl fut informé de l'arrangement, et il exprima l'intention de porter lui-même le tapis de Husām à son nouveau <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> collège, et de l'étendre lui-même pour Husām dans son nouveau siège.
 
 Un certain bagarreur, un parent de Husâm, nommé Akhî Ahmed, était de la compagnie et il s'était senti irrité par la nomination de Husâm. Il s'avança, arracha le tapis de Husâm, le donna à l'un de ses compagnons pour qu'il le chasse du bâtiment et s'écria : « Nous ne permettrons pas que cet individu soit installé ici comme Sheykh. »
 
@@ -98,7 +98,7 @@ Jelâl s'adressa alors à la foule, leur reprochant un tel comportement. Il leur
 
 « Arrivé aux abords de sa ville natale, il se rendit au bord de la rivière pour faire ses ablutions. Là, il trouva un certain nombre de femmes occupées à faire la lessive. Parmi elles, une vieille femme s’avança, le regarda attentivement, puis s’écria : « Mais si notre petit Abū-’l-Lays n’est pas de retour ici ! Allez vite, les filles, et portez la nouvelle à notre famille. »
 
-« Le cheikh retourna aussitôt auprès de ses compagnons de voyage et donna l’ordre de recharger immédiatement leurs bêtes pour un retour immédiat à Damas. Interrogé sur la raison de ce changement soudain d’intention, il répondit : « Mon peuple me considère toujours comme le « petit Abū-’l-Lays » et me traitera en conséquence avec une indignité familière, me considérant comme un homme de peu d’importance et commettant ainsi un péché grave ; car <span id="p117">[<sup><small>p. 117</small></sup>]</span> il incombe à tous d’honorer les savants et les sages. Les respecter, c’est montrer de la révérence envers l’apôtre de Dieu, et le vénérer, c’est servir le Créateur. »
+« Le cheikh retourna aussitôt auprès de ses compagnons de voyage et donna l’ordre de recharger immédiatement leurs bêtes pour un retour immédiat à Damas. Interrogé sur la raison de ce changement soudain d’intention, il répondit : « Mon peuple me considère toujours comme le « petit Abū-’l-Lays » et me traitera en conséquence avec une indignité familière, me considérant comme un homme de peu d’importance et commettant ainsi un péché grave ; car <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> il incombe à tous d’honorer les savants et les sages. Les respecter, c’est montrer de la révérence envers l’apôtre de Dieu, et le vénérer, c’est servir le Créateur. »
 
 « En vérité, quand il était enfant, son père l’avait toujours appelé « petit Abū-’l-Lays ». Mais les étrangers ne comprendraient pas ce terme affectueux de cette façon ; ils le croiraient trop familier et trop facile, et susceptible d’attirer sur la ville et ses habitants le déplaisir divin. Il n’était pas compatible avec une véritable affection de permettre qu’une telle visite se produise. »
 
@@ -114,7 +114,7 @@ Finalement, Husāmu-’d-Dīn fut nommé recteur des deux collèges en question,
 
 Jelālu-’d-Dīn était de l’école d’Abū-Hanīfa, mais Husām appartenait à celle de Shāfi‘ī.[^30] Il songea à rejoindre l’école Hanefi, par déférence pour son maître. Jelāl lui recommanda cependant de rester ce qu’il avait toujours été et de s’efforcer d’inculquer à tous la doctrine de l’amour divin, telle qu’elle avait été exposée par Jelāl.
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 ## 11.
 
@@ -136,7 +136,7 @@ Il se réveilla et se leva. Il n'y avait personne en vue. Toute trace de sang av
 
 Mais maintenant il vit Husain s'approcher, qui lui dit :
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 « Eh bien, Cheikh Mohammed ! Jusqu’à ce que Jelālu-’d-Dīn te châtie, tu n’étais pas musulman et tu étais livré à la raideur de la nuque. Si je n’avais pas intercédé pour toi, tu serais mort pour toute l’éternité, exclu de tout espoir de paradis. »
 
@@ -158,7 +158,7 @@ Peu de temps après la mort de Husāmu-’d-Dīn, la veuve de Jelāl, Kirā Khā
 
 Tandis que son corps était porté vers sa dernière demeure, le cortège passa par une des portes de la ville. Là, les porteurs se trouvèrent arrêtés par une force invisible, de sorte qu'ils ne pouvaient plus bouger ni les mains ni les pieds. Cet effet singulier dura environ une demi-heure.
 
-Son beau-fils, Sultan Veled, avec les autres personnes <span id="p120">[<sup><small>p. 120</small></sup>]</span> en deuil, a entonné un hymne et a commencé une danse sacrée. Peu après, les porteurs ont recouvré l'usage de leurs membres et se sont retrouvés capables de continuer. Tout s'est bien passé et l'enterrement a été achevé.
+Son beau-fils, Sultan Veled, avec les autres personnes <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> en deuil, a entonné un hymne et a commencé une danse sacrée. Peu après, les porteurs ont recouvré l'usage de leurs membres et se sont retrouvés capables de continuer. Tout s'est bien passé et l'enterrement a été achevé.
 
 Cette même nuit, un saint homme de la confrérie vit Kira Khâtun au ciel près de son mari.[^31] Il lui demanda des renseignements sur l'arrêt des funérailles. Elle lui raconta ainsi : « La veille, un homme et une femme avaient été lapidés à mort à cette porte pour le péché d'adultère. J'ai eu pitié d'eux, j'ai intercédé pour leur pardon et j'ai obtenu pour eux l'admission au paradis. Ma préoccupation dans leur cause était la raison du retard rencontré par le cortège funèbre. »
 
@@ -170,7 +170,7 @@ Husâm raconta cet événement à Jelâl, qui sourit et dit : « Il y a des rais
 
 ## 16.
 
-Chaque fois que les grands de Qonya désiraient avoir une audience avec le Sheykh Shemsu-’d-Dīn de Tebrīz, de son vivant, ils demandaient à Husām de supplier <span id="p121">[<sup><small>p. 121</small></sup>]</span> Jelāl d’intercéder pour eux auprès des Sheens, et ainsi obtenir pour eux l’entrevue désirée.
+Chaque fois que les grands de Qonya désiraient avoir une audience avec le Sheykh Shemsu-’d-Dīn de Tebrīz, de son vivant, ils demandaient à Husām de supplier <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> Jelāl d’intercéder pour eux auprès des Sheens, et ainsi obtenir pour eux l’entrevue désirée.
 
 Jelāl et Husām avaient l'habitude de taxer ces nobles pour cette faveur, selon leurs moyens et leurs circonstances.
 

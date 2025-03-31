@@ -32,13 +32,13 @@ dateCreated: 2025-2-12T22:27:33Z
   </table>
 </figure>
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 L'une des attractions incontournables de la scène de Tokyo est la représentation, par le célèbre Kikugorô et sa compagnie, du Botan-Dôrô, ou « Lanterne aux Pivoines ». Cette pièce étrange, dont les scènes se déroulent au milieu du siècle dernier, est l'adaptation dramatique d'un roman du romancier Enchô, écrit en japonais courant, purement japonais, avec des couleurs locales, bien qu'inspiré d'un conte chinois. Je suis allé voir la pièce ; Kikugorô m'a fait découvrir une nouvelle forme de plaisir de la peur.
 
 « Pourquoi ne pas donner aux lecteurs anglophones la partie fantomatique de l'histoire ? » m'a demandé un ami qui me guide parfois dans les méandres de la philosophie orientale. « Cela permettrait d'expliquer certaines idées populaires sur le surnaturel, que les Occidentaux connaissent très mal. Et je pourrais vous aider pour la traduction. »
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 J'ai accepté avec plaisir cette suggestion ; et nous avons composé le résumé suivant de la partie la plus extraordinaire du roman d'Enchô. Ici et là, nous avons jugé nécessaire de condenser le récit original ; et nous avons essayé de rester fidèles au texte uniquement dans les passages conversationnels, dont certains présentent un intérêt psychologique particulier.
 
@@ -54,7 +54,7 @@ J'ai accepté avec plaisir cette suggestion ; et nous avons composé le résumé
 
 Il était une fois, dans le district d'Ushigomé, à Yedo, un hatamoto nommé Iijima Heizayémon, dont la fille unique, Tsuyu, était aussi belle que son nom, qui signifie « Rosée du matin ». Iijima prit une seconde épouse lorsque sa fille avait environ seize ans ; et, découvrant qu'O-Tsuyu
 
-\[1. Les _hatamoto_ étaient des samouraïs formant la force militaire spéciale du shogun. Leur nom signifie littéralement « Soutiens de la bannière ». Ils constituaient la plus haute classe de samouraïs, non seulement en tant que vassaux immédiats du shogun, mais aussi en tant qu'aristocratie militaire.\] <span id="p75">[<sup><small>p. 75</small></sup>]</span>n'étant pas satisfait de sa belle-mère, il fit construire pour la jeune fille une jolie villa à Yanagijima, comme résidence séparée, et lui donna une excellente servante, appelée O-Yoné, pour la servir.
+\[1. Les _hatamoto_ étaient des samouraïs formant la force militaire spéciale du shogun. Leur nom signifie littéralement « Soutiens de la bannière ». Ils constituaient la plus haute classe de samouraïs, non seulement en tant que vassaux immédiats du shogun, mais aussi en tant qu'aristocratie militaire.\] <span id="p75"><sup><small>[ p. 75 ]</small></sup></span>n'étant pas satisfait de sa belle-mère, il fit construire pour la jeune fille une jolie villa à Yanagijima, comme résidence séparée, et lui donna une excellente servante, appelée O-Yoné, pour la servir.
 
 O-Tsuyu vécut heureuse dans sa nouvelle demeure jusqu'au jour où le médecin de famille, Yamamoto Shijô, lui rendit visite, accompagné d'un jeune samouraï nommé Hagiwara Shinzaburô, résidant dans le quartier de Nedzu. Shinzaburô était un jeune homme d'une beauté rare et d'une grande douceur ; les deux jeunes gens tombèrent amoureux l'un de l'autre au premier regard. Avant même la fin de cette brève visite, ils réussirent, sans que le vieux médecin ne les entende, à se lier pour la vie. Et, au moment de se séparer, O-Tsuyu murmura au jeune homme : « Souviens-toi ! Si tu ne reviens pas me voir, je mourrai certainement ! »
 
@@ -76,13 +76,13 @@ Shijo répondit gravement :
 
 Le docteur resta un instant silencieux, comme s’il se recueillait ; puis il reprit, du ton vif et léger d’un homme résolu à ne pas prendre l’affaire au sérieux :
 
-Ma grande erreur a été de vous l'avoir présentée ; car il semble qu'elle soit tombée amoureuse de vous sur-le-champ. Je crains que vous n'ayez dit quelque chose pour encourager cette affection… <span id="p78">[<sup><small>p. 78</small></sup>]</span>lorsque vous étiez ensemble dans cette petite pièce. En tout cas, j'ai vu ce qu'elle ressentait pour vous ; et alors je me suis senti inquiet, craignant que son père ne l'apprenne et ne me fasse porter toute la responsabilité. Alors, pour être tout à fait franc, j'ai décidé qu'il valait mieux ne pas vous rendre visite ; et je suis resté volontairement absent longtemps. Mais, il y a quelques jours à peine, en visite chez Iijima, j'ai appris, à ma grande surprise, que sa fille était morte, ainsi que sa servante O-Yoné. Puis, me souvenant de tout ce qui s'était passé, j'ai su que la jeune femme avait dû mourir d'amour pour vous… \[_Rires_\] Ah, Tu es vraiment un pécheur ! Oui, tu l'es ! \[_Rires_\] N'est-ce pas un péché d'être né si beau que les filles meurent d'amour pour toi ?\[1\] . . . \[_Sérieusement_\] Eh bien, nous devons laisser les morts aux morts. Inutile d'en parler davantage ; tout ce que tu peux faire pour elle maintenant, c'est répéter le Nembutsu.\[2\] . . . Au revoir.
+Ma grande erreur a été de vous l'avoir présentée ; car il semble qu'elle soit tombée amoureuse de vous sur-le-champ. Je crains que vous n'ayez dit quelque chose pour encourager cette affection… <span id="p78"><sup><small>[ p. 78 ]</small></sup></span>lorsque vous étiez ensemble dans cette petite pièce. En tout cas, j'ai vu ce qu'elle ressentait pour vous ; et alors je me suis senti inquiet, craignant que son père ne l'apprenne et ne me fasse porter toute la responsabilité. Alors, pour être tout à fait franc, j'ai décidé qu'il valait mieux ne pas vous rendre visite ; et je suis resté volontairement absent longtemps. Mais, il y a quelques jours à peine, en visite chez Iijima, j'ai appris, à ma grande surprise, que sa fille était morte, ainsi que sa servante O-Yoné. Puis, me souvenant de tout ce qui s'était passé, j'ai su que la jeune femme avait dû mourir d'amour pour vous… \[_Rires_\] Ah, Tu es vraiment un pécheur ! Oui, tu l'es ! \[_Rires_\] N'est-ce pas un péché d'être né si beau que les filles meurent d'amour pour toi ?\[1\] . . . \[_Sérieusement_\] Eh bien, nous devons laisser les morts aux morts. Inutile d'en parler davantage ; tout ce que tu peux faire pour elle maintenant, c'est répéter le Nembutsu.\[2\] . . . Au revoir.
 
 \[1. Cette conversation peut paraître étrange au lecteur occidental ; mais elle est fidèle à la réalité. L'ensemble de la scène est typiquement japonais.
 
 2\. L'invocation _Namu Amida Butsu!_ (« Salut au Bouddha Amitâbha ! »), répétée, comme une prière, pour le bien des morts.\]
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Et le vieil homme se retira précipitamment, soucieux d'éviter de parler plus longuement de l'événement douloureux dont il se sentait involontairement responsable.
 
@@ -92,7 +92,7 @@ Shinzaburô resta longtemps stupéfait par la nouvelle de la mort d'O-Tsuyu. Mai
 
 Rien ne vint troubler la monotonie de sa solitude avant le Bon, la grande fête des Morts, qui commence le treizième jour du septième mois. Il décora alors sa maison et prépara tout pour la fête : il accrocha les lanternes qui guident les esprits qui reviennent et déposa la nourriture des fantômes sur le sbôryôdana, ou Table des Âmes.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Et le premier soir du Bon, après le coucher du soleil, il alluma une petite lampe devant la tablette d'O-Tsuyu et alluma les lanternes.
 
@@ -102,7 +102,7 @@ Mais tout à coup, ce silence fut rompu par le bruit des geta des femmes qui app
 
 \[1. Komageta dans l'original. La geta est une sandale ou un sabot en bois, dont il existe de nombreuses variétés, certaines très élégantes. La komageta, ou « geta de poney », doit son nom à l'écho sonore qu'elle produit sur un sol dur, semblable à celui d'un sabot.\]
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 ![La Lanterne Pivoine](/image/book/Shintoism/In_Ghostly_Japan/08000.jpg)
 
@@ -122,7 +122,7 @@ Shinzaburô appela simultanément la servante :
 
 \[1. Le type de lanterne mentionné ici n'est plus fabriqué ; et sa forme est mieux comprise en jetant un coup d'œil à l'image accompagnant cette histoire. Elle était totalement différente de la lanterne à main domestique moderne, peinte aux armoiries de son propriétaire ; mais elle n'était pas si différente de certaines lanternes encore fabriquées pour la Fête des Morts, appelées _Bon-dôrô_. Les fleurs qui l'ornaient n'étaient pas peintes : c'étaient des fleurs artificielles en crêpe de soie, fixées au sommet de la lanterne.\]
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 « C'est extraordinaire ! » s'écria Shinzaburô. « On m'a dit que vous étiez morts tous les deux ! »
 
@@ -138,7 +138,7 @@ Ils entrèrent donc et échangèrent des salutations ; et lorsque Shinzaburô le
 
 « Oh, comme c'est extraordinaire ! » s'écria Shinzaburô. « Est-ce vrai ? Ou n'est-ce qu'un rêve ? Moi aussi, je n'ai cessé de réciter le Nembutsu devant une tablette portant son nom ! Regardez ! » Et il leur montra la tablette d'O-Tsuyu à sa place sur l'Étagère des Âmes.
 
-« Nous vous sommes plus que reconnaissants de votre aimable souvenir », répondit O-Yoné en souriant. . . . <span id="p84">[<sup><small>p. 84</small></sup>]</span> « Quant à ma maîtresse », continua-t-elle en se tournant vers O-Tsuyu, qui était restée tout le temps réservée et silencieuse, cachant à moitié son visage avec sa manche, « quant à ma maîtresse, elle dit en fait qu'elle ne verrait pas d'inconvénient à être reniée par son père pendant sept existences,\[1\] ou même à être tuée par lui, pour votre bien ! . . . Allons ! ne lui permettez-vous pas de rester ici cette nuit ? »
+« Nous vous sommes plus que reconnaissants de votre aimable souvenir », répondit O-Yoné en souriant. . . . <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> « Quant à ma maîtresse », continua-t-elle en se tournant vers O-Tsuyu, qui était restée tout le temps réservée et silencieuse, cachant à moitié son visage avec sa manche, « quant à ma maîtresse, elle dit en fait qu'elle ne verrait pas d'inconvénient à être reniée par son père pendant sept existences,\[1\] ou même à être tuée par lui, pour votre bien ! . . . Allons ! ne lui permettez-vous pas de rester ici cette nuit ? »
 
 Shinzaburô pâlit de joie. Il répondit d'une voix tremblante d'émotion :
 
@@ -148,7 +148,7 @@ Shinzaburô pâlit de joie. Il répondit d'une voix tremblante d'émotion :
 
 2 Cette profession n'est pas encore éteinte. Le ninsomi utilise une sorte de loupe (ou parfois de miroir grossissant), appelée tengankyô ou ninsomigané.
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Les deux femmes passèrent la nuit chez le jeune samouraï et rentrèrent chez elles peu avant le lever du jour. Après cette nuit, elles revinrent chaque nuit pendant sept nuits, beau temps ou mauvais temps, toujours à la même heure. Shinzaburô s'attacha de plus en plus à la jeune fille ; et toutes deux furent liées, chacune à l'autre, par ce lien d'illusion plus fort que des liens de fer.
 
@@ -166,7 +166,7 @@ Shinzaburô répondit :
 
 \[1. La couleur et la forme de la robe, ainsi que la façon de porter les cheveux, sont réglementées par la coutume japonaise en fonction de l'âge de la femme.\]
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 Elle répondit doucement :
 
@@ -176,7 +176,7 @@ Tomozô s'étonna en écoutant, car le langage de la femme n'était pas celui d'
 
 Car le visage était le visage d'une femme longue
 
-\[1. Les formes de langage utilisées par les samouraïs et les autres classes supérieures différaient considérablement de celles de l'idiome populaire ; mais ces différences ne pouvaient être efficacement traduites en anglais.\] <span id="p88">[<sup><small>p. 88</small></sup>]</span>tête, et les doigts qui caressaient étaient des doigts d'os nus, et du corps sous la taille, il n'y avait rien : il se fondait en une ombre ténue. Là où les yeux de l'amant égaré voyaient la jeunesse, la grâce et la beauté, n'apparaissaient aux yeux de l'observateur que l'horreur et le vide de la mort. Simultanément, une autre silhouette féminine, plus étrange encore, surgit de l'intérieur de la chambre et se dirigea rapidement vers l'observateur, comme s'il discernait sa présence. Puis, terrorisé, il s'enfuit vers la demeure de Hakuôdô Yusai et, frappant frénétiquement aux portes, réussit à le réveiller.
+\[1. Les formes de langage utilisées par les samouraïs et les autres classes supérieures différaient considérablement de celles de l'idiome populaire ; mais ces différences ne pouvaient être efficacement traduites en anglais.\] <span id="p88"><sup><small>[ p. 88 ]</small></sup></span>tête, et les doigts qui caressaient étaient des doigts d'os nus, et du corps sous la taille, il n'y avait rien : il se fondait en une ombre ténue. Là où les yeux de l'amant égaré voyaient la jeunesse, la grâce et la beauté, n'apparaissaient aux yeux de l'observateur que l'horreur et le vide de la mort. Simultanément, une autre silhouette féminine, plus étrange encore, surgit de l'intérieur de la chambre et se dirigea rapidement vers l'observateur, comme s'il discernait sa présence. Puis, terrorisé, il s'enfuit vers la demeure de Hakuôdô Yusai et, frappant frénétiquement aux portes, réussit à le réveiller.
 
 ## V
 
@@ -184,13 +184,13 @@ Hakuôdô Yusai, le ninsomi, était un homme très âgé ; mais il avait beaucou
 
 « Si la femme est un fantôme », dit Yusai au serviteur effrayé, « si la femme est un fantôme, votre maître mourra bientôt, à moins qu'une intervention extraordinaire ne soit entreprise pour le sauver. Et si la femme est un fantôme, les signes de la mort apparaîtront sur son visage. Car l'esprit des vivants est yôki et pur ; l'esprit des morts est inki et impur, l'un est positif, l'autre négatif. Celui dont l'épouse est un fantôme ne peut vivre. Même si dans son sang existait la force d'une vie de cent ans, cette force doit rapidement périr… Cependant, je ferai tout mon possible pour sauver Hagiwara Sama. En attendant, Tomozô, ne dis rien à personne, pas même à ta femme, de cette affaire. Au lever du soleil, j'irai voir ton maître. »
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 ## VI
 
 Interrogé le lendemain matin par Yusai, Shinzaburô tenta d'abord de nier la présence de femmes dans la maison ; mais, constatant l'inutilité de cette manœuvre et le caractère désintéressé du vieil homme, il se laissa finalement convaincre d'avouer la réalité des faits et de donner les raisons de son désir de garder le secret. Quant à la dame Iijima, il avait l'intention, dit-il, d'en faire sa femme au plus vite.
 
-« Oh, folie ! » s’écria Yusai, perdant toute patience devant l’intensité de son alarme. « Sachez, monsieur, que les gens qui viennent ici, nuit après nuit, sont morts ! Vous êtes pris dans une terrible illusion !… Eh bien, le simple fait que vous ayez longtemps supposé qu'O-Tsuyu était morte, que vous ayez répété le Nembutsu pour elle et fait des offrandes devant sa tablette, en est la preuve !… Les lèvres des morts vous ont touché ! – les mains des morts vous ont caressé !… Même en cet instant, je vois sur votre visage les signes de la mort – et vous ne voulez pas le croire !… Écoutez-moi maintenant, monsieur, – je vous en prie, – si vous souhaitez <span id="p91">[<sup><small>p. 91</small></sup>]</span>vous sauver : sinon, il vous reste moins de vingt jours à vivre. Ils vous ont dit – ces gens – qu'ils résidaient dans le district de Shitaya, à Yanaka-no-Sasaki. Leur avez-vous jamais rendu visite à Cet endroit ? Non ! Bien sûr que non ! Alors, va aujourd'hui, dès que possible, à Yanaka-no-Sasaki et essaie de trouver leur maison !…
+« Oh, folie ! » s’écria Yusai, perdant toute patience devant l’intensité de son alarme. « Sachez, monsieur, que les gens qui viennent ici, nuit après nuit, sont morts ! Vous êtes pris dans une terrible illusion !… Eh bien, le simple fait que vous ayez longtemps supposé qu'O-Tsuyu était morte, que vous ayez répété le Nembutsu pour elle et fait des offrandes devant sa tablette, en est la preuve !… Les lèvres des morts vous ont touché ! – les mains des morts vous ont caressé !… Même en cet instant, je vois sur votre visage les signes de la mort – et vous ne voulez pas le croire !… Écoutez-moi maintenant, monsieur, – je vous en prie, – si vous souhaitez <span id="p91"><sup><small>[ p. 91 ]</small></sup></span>vous sauver : sinon, il vous reste moins de vingt jours à vivre. Ils vous ont dit – ces gens – qu'ils résidaient dans le district de Shitaya, à Yanaka-no-Sasaki. Leur avez-vous jamais rendu visite à Cet endroit ? Non ! Bien sûr que non ! Alors, va aujourd'hui, dès que possible, à Yanaka-no-Sasaki et essaie de trouver leur maison !…
 
 Et après avoir prononcé ce conseil avec la plus grande véhémence, Hakuôdô Yusai prit brusquement congé.
 
@@ -198,7 +198,7 @@ Shinzaburô, surpris mais pas convaincu, résolut après un moment de réflexion
 
 Soudain, son attention fut attirée par deux nouveaux tombeaux, placés côte à côte, au fond du temple. L'un était un tombeau ordinaire, tel qu'on aurait pu l'ériger pour une personne de rang modeste ; l'autre était un grand et beau monument ; devant lui était suspendue une magnifique lanterne à pivoines, probablement laissée là lors de la Fête des Morts. Shinzaburô se souvint que la lanterne à pivoines portée par O-Yoné était exactement semblable ; et la coïncidence lui parut étrange. Il examina de nouveau les tombeaux ; mais ils n'expliquaient rien. Aucun ne portait de nom personnel, seulement le _kaimyô_ bouddhiste, ou appellation posthume. Il décida alors d'aller chercher des renseignements au temple. Un acolyte affirma, en réponse à ses questions, que le grand tombeau avait été récemment érigé pour la fille d'Iijima Heizayemon, le _hatamoto_ d'Ushigomé ; et que le petit tombeau voisin était celui de sa servante O-Yoné, morte de chagrin peu après les funérailles de la jeune femme.
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Immédiatement, à la mémoire de Shinzaburô, revinrent, avec une signification différente et sinistre, les paroles d'O-Yoné : « Nous sommes partis et avons trouvé une toute petite maison à Yanaka-no-Sasaki. Là, nous pouvons à peine vivre maintenant, en faisant un peu de travail privé… » C'était bien là, la toute petite maison, et à Yanaka-no-Sasaki. Mais le petit travail privé…
 
@@ -208,7 +208,7 @@ Frappé de terreur, le samouraï se précipita chez Yusai et implora son aide et
 
 Le grand prêtre Ryôseki était un homme érudit et saint. Par vision spirituelle, il pouvait connaître le secret de toute souffrance et la nature du karma qui l'avait provoquée. Il écouta impassiblement l'histoire de Shinzaburô et lui dit :
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Un très grand danger vous menace maintenant, à cause d'une erreur commise dans l'un de vos états d'existence antérieurs. Le karma qui vous lie aux morts est très fort ; mais si j'essayais de vous en expliquer la nature, vous ne pourriez pas le comprendre. Je vous dirai donc simplement ceci : la personne décédée n'a aucun désir de vous nuire par haine, n'éprouve aucune inimitié envers vous ; elle est au contraire influencée par l'affection la plus passionnée pour vous. Cette jeune fille était probablement amoureuse de vous depuis une époque bien antérieure à votre vie actuelle, depuis au moins trois ou quatre existences passées ; et il semblerait que, bien que changeant nécessairement de forme et de condition à chaque naissance, elle n'ait pu cesser de vous suivre. Il ne sera donc pas facile d'échapper à son influence… Mais maintenant, je vais vous prêter ce puissant _mamori_.\[1\] C'est une image en or pur de ce Bouddha.
 
@@ -218,13 +218,13 @@ Un très grand danger vous menace maintenant, à cause d'une erreur commise dans
 
 2\. On parle alors d'un service spécial, consistant à offrir de la nourriture, etc., aux défunts n'ayant ni parents ni amis vivants pour prendre soin d'eux. Dans ce cas, cependant, le service revêt un caractère particulier et exceptionnel.
 
-3\. Le nom s'écrirait plus correctement _Ubô-Darani-Kyô_. C'est la prononciation japonaise du titre d'un très court sutra traduit du sanscrit en chinois par le prêtre indien Amoghavajra, probablement au cours du {footnote p. 96} huitième siècle. Le texte chinois contient des translittérations de mystérieux mots sanscrits, apparemment des mots talismaniques, comme ceux que l'on trouve dans la traduction de Kern du Saddharma-Pundarika, ch. xxvi.\] <span id="p96">[<sup><small>p. 96</small></sup>]</span>veillez à le réciter chaque soir chez vous sans faute. . . . De plus, je vous donnerai ce paquet d'_o-fuda_ ;\[1\]\—vous devez en coller un sur chaque ouverture de votre maison, aussi petite soit-elle. Si vous faites cela, le pouvoir des textes sacrés empêchera les morts d'y entrer. Mais, quoi qu’il arrive, ne manquez pas de réciter le sutra.
+3\. Le nom s'écrirait plus correctement _Ubô-Darani-Kyô_. C'est la prononciation japonaise du titre d'un très court sutra traduit du sanscrit en chinois par le prêtre indien Amoghavajra, probablement au cours du {footnote p. 96} huitième siècle. Le texte chinois contient des translittérations de mystérieux mots sanscrits, apparemment des mots talismaniques, comme ceux que l'on trouve dans la traduction de Kern du Saddharma-Pundarika, ch. xxvi.\] <span id="p96"><sup><small>[ p. 96 ]</small></sup></span>veillez à le réciter chaque soir chez vous sans faute. . . . De plus, je vous donnerai ce paquet d'_o-fuda_ ;\[1\]\—vous devez en coller un sur chaque ouverture de votre maison, aussi petite soit-elle. Si vous faites cela, le pouvoir des textes sacrés empêchera les morts d'y entrer. Mais, quoi qu’il arrive, ne manquez pas de réciter le sutra.
 
 Shinzaburô remercia humblement le grand prêtre puis, emportant avec lui l'image, le sutra et le paquet de textes sacrés, il se hâta de rejoindre sa maison avant l'heure du coucher du soleil.
 
 \[1. O-fuda est le nom général donné aux textes religieux utilisés comme charmes ou talismans. Ils sont parfois gravés ou gravés sur du bois, mais le plus souvent écrits ou imprimés sur de fines bandes de papier. Les O-fuda sont collés au-dessus des entrées de maison, sur les murs des pièces, sur des tablettes placées dans les sanctuaires familiaux, etc. Certains sont portés sur soi ; d’autres sont transformés en boulettes et avalés comme remède spirituel. Le texte des O-fuda plus longs est souvent accompagné d’images curieuses ou d’illustrations symboliques.\]
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 ## VIII
 
@@ -232,7 +232,7 @@ Grâce aux conseils et à l'aide de Yusai, Shinzaburô put, avant la tombée de 
 
 La nuit tomba, chaude et claire. Shinzaburô ferma les portes, noua la précieuse amulette autour de sa taille, entra dans sa moustiquaire et, à la lueur d'une lanterne nocturne, commença à réciter l'Ubô-Darani-Kyô. Il psalmodia longuement les mots, n'en comprenant que peu le sens ; puis il tenta de se reposer. Mais son esprit était encore trop perturbé par les étranges événements de la journée. Minuit passa ; et le sommeil ne lui vint pas. Enfin, il entendit le grondement de la grande cloche du temple de Dentsu-In, annonçant la huitième heure.
 
-\[1. Selon l'ancienne méthode japonaise de comptage du temps, cette _yatsudoki_ ou huitième heure était la même que nos deux heures du matin. Chaque heure japonaise était égale à deux heures européennes, de sorte qu'il n'y avait que six heures au lieu de nos douze ; et ces six heures étaient comptées à rebours dans l'ordre suivant : 9, 8, 7, 6, 5, 4. Ainsi, la neuvième heure correspondait à notre midi, ou minuit ; {note de bas de page p. 98} neuf heures et demie à notre heure ; huit à notre deux heures. Deux heures du matin, également appelée « l'heure du bœuf », était l'heure japonaise des fantômes et des gobelins.\] <span id="p98">[<sup><small>p. 98</small></sup>]</span>t cessé ; et Shinzaburô entendit soudain le bruit d'un geta venant de la même direction, mais cette fois plus lentement : karan-koron, karan-koron ! Aussitôt, une sueur froide lui perla le front. Ouvrant le sutra à la hâte, d'une main tremblante, il se remit à le réciter à voix haute. Les pas se rapprochaient de plus en plus, atteignirent la haie vive, s'arrêtèrent ! Puis, chose étrange, Shinzaburô se sentit incapable de rester sous sa moustiquaire : quelque chose de plus fort encore que sa peur le poussa à regarder ; et, au lieu de continuer à réciter l'Ubô-Darani-Kyô, il s'approcha stupidement des volets et, par une fente, regarda dans la nuit. Devant la maison, il vit O-Tsuyu debout, et O-Yoné avec la lanterne aux pivoines ; et tous deux contemplaient les textes bouddhistes collés au-dessus de l'entrée. Jamais auparavant, même à l'époque où elle vivait, O-Tsuyu n'avait paru aussi belle ; et Shinzaburô sentit son cœur attiré vers elle avec une force presque irrésistible. Mais la terreur de la mort et celle de l'inconnu se retenaient ; et une telle lutte entre son amour et sa peur se livra en lui qu'il devint comme quelqu'un souffrant physiquement des souffrances de l'enfer Shô-netsu.
+\[1. Selon l'ancienne méthode japonaise de comptage du temps, cette _yatsudoki_ ou huitième heure était la même que nos deux heures du matin. Chaque heure japonaise était égale à deux heures européennes, de sorte qu'il n'y avait que six heures au lieu de nos douze ; et ces six heures étaient comptées à rebours dans l'ordre suivant : 9, 8, 7, 6, 5, 4. Ainsi, la neuvième heure correspondait à notre midi, ou minuit ; {note de bas de page p. 98} neuf heures et demie à notre heure ; huit à notre deux heures. Deux heures du matin, également appelée « l'heure du bœuf », était l'heure japonaise des fantômes et des gobelins.\] <span id="p98"><sup><small>[ p. 98 ]</small></sup></span>t cessé ; et Shinzaburô entendit soudain le bruit d'un geta venant de la même direction, mais cette fois plus lentement : karan-koron, karan-koron ! Aussitôt, une sueur froide lui perla le front. Ouvrant le sutra à la hâte, d'une main tremblante, il se remit à le réciter à voix haute. Les pas se rapprochaient de plus en plus, atteignirent la haie vive, s'arrêtèrent ! Puis, chose étrange, Shinzaburô se sentit incapable de rester sous sa moustiquaire : quelque chose de plus fort encore que sa peur le poussa à regarder ; et, au lieu de continuer à réciter l'Ubô-Darani-Kyô, il s'approcha stupidement des volets et, par une fente, regarda dans la nuit. Devant la maison, il vit O-Tsuyu debout, et O-Yoné avec la lanterne aux pivoines ; et tous deux contemplaient les textes bouddhistes collés au-dessus de l'entrée. Jamais auparavant, même à l'époque où elle vivait, O-Tsuyu n'avait paru aussi belle ; et Shinzaburô sentit son cœur attiré vers elle avec une force presque irrésistible. Mais la terreur de la mort et celle de l'inconnu se retenaient ; et une telle lutte entre son amour et sa peur se livra en lui qu'il devint comme quelqu'un souffrant physiquement des souffrances de l'enfer Shô-netsu.
 
 Il entendit alors la voix de la servante qui disait :
 
@@ -244,7 +244,7 @@ Mais la jeune fille répondit en pleurant :
 
 \[1. _En-netsu_ ou _Shô-netsu_ (en sanscrit « Tapana ») est le sixième des huit enfers brûlants du bouddhisme japonais. Une journée passée dans cet enfer équivaut à des milliers (certains disent des millions) d'années humaines.\]
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 On m'a souvent dit que le cœur d'un homme change aussi vite que le ciel d'automne ; pourtant, le cœur de Hagiwara Sama ne peut sûrement pas être si cruel qu'il ait réellement l'intention de m'exclure de cette façon ! . . . Cher Yoné, je t'en prie, trouve un moyen de m'emmener à lui. . . . Si tu ne le fais pas, je ne rentrerai plus jamais, jamais chez moi.
 
@@ -256,7 +256,7 @@ O-Yoné répondit enfin :
 
 Et prenant O-Tsuyu par la main, elle l'emmena vers l'arrière de la demeure ; et là, toutes deux disparurent aussi soudainement que la lumière disparaît quand on souffle la flamme d'une lampe.
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 ## IX
 
@@ -278,7 +278,7 @@ Mais O-Tsuyu, en pleurs, répondit :
 
 « Cher Yoné, quoi qu'il arrive, je ne peux m'empêcher de penser à lui !… Tu sais que tu peux obtenir cent ryô pour me faire retirer l'o-fuda… Encore une fois, je t'en prie, cher Yoné ! — encore une fois, amène-moi face à face avec Hagiwara Sama, — je t'en supplie ! » Et cachant son visage sous sa manche, elle continua ainsi à supplier.
 
-« Oh ! pourquoi me demandes-tu de faire cela ? » répondit O-Yoné. « Tu sais très bien que je n'ai pas d'argent. Mais puisque tu persistes dans cette fantaisie, malgré tout ce que je peux dire, je suppose que je dois essayer de trouver l'argent d'une manière ou d'une autre et de l'apporter ici demain soir… » Puis, se tournant vers l'infidèle Tomozô, elle dit : « Tomozô, je dois te dire que Hagiwara Sama porte désormais sur lui un _mamori_ appelé _Kai-On-Nyôrai_, <span id="p105">[<sup><small>p. 105</small></sup>]</span> et que tant qu'il le portera, nous ne pourrons pas l'approcher. Il te faudra donc lui arracher ce _mamori_, par un moyen ou un autre, et lui retirer l'_o-fuda_. »
+« Oh ! pourquoi me demandes-tu de faire cela ? » répondit O-Yoné. « Tu sais très bien que je n'ai pas d'argent. Mais puisque tu persistes dans cette fantaisie, malgré tout ce que je peux dire, je suppose que je dois essayer de trouver l'argent d'une manière ou d'une autre et de l'apporter ici demain soir… » Puis, se tournant vers l'infidèle Tomozô, elle dit : « Tomozô, je dois te dire que Hagiwara Sama porte désormais sur lui un _mamori_ appelé _Kai-On-Nyôrai_, <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> et que tant qu'il le portera, nous ne pourrons pas l'approcher. Il te faudra donc lui arracher ce _mamori_, par un moyen ou un autre, et lui retirer l'_o-fuda_. »
 
 Tomozô répondit faiblement :
 
@@ -296,7 +296,7 @@ Un autre jour s'écoula, une autre nuit vint, et les morts l'accompagnèrent. Ma
 
 Le soleil était haut lorsqu'il s'aventura de nouveau à s'approcher de la demeure de son maître et à frapper aux portes coulissantes. Pour la première fois depuis des années, il n'obtint aucune réponse ; le silence l'effrayait. Il appela à plusieurs reprises, mais sans réponse. Puis, aidé par O-Miné, il réussit à entrer et à se rendre seul dans la chambre à coucher, où il appela de nouveau, en vain. Il ouvrit les volets grondants pour laisser entrer la lumière ; mais toujours pas de mouvement à l'intérieur de la maison. Il osa enfin soulever un coin de la moustiquaire. Mais à peine eut-il regardé en dessous qu'il s'enfuit de la maison avec un cri d'horreur.
 
-Shinzaburô était mort, horriblement mort, et son visage était celui d'un homme mort dans la plus grande agonie de la peur ; et à côté de lui, dans le lit, gisaient les os d'une femme ! <span id="p107">[<sup><small>p. 107</small></sup>]</span> Et les os de ses bras et les os de ses mains s'accrochaient fermement à son cou.
+Shinzaburô était mort, horriblement mort, et son visage était celui d'un homme mort dans la plus grande agonie de la peur ; et à côté de lui, dans le lit, gisaient les os d'une femme ! <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> Et les os de ses bras et les os de ses mains s'accrochaient fermement à son cou.
 
 ## XI
 
@@ -304,7 +304,7 @@ Hakuôdô Yusai, le diseur de bonne aventure, alla voir le corps à la prière d
 
 Ryôseki, sans attendre de connaître le but de la visite du vieil homme, l'invita aussitôt dans un appartement privé.
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 « Vous savez que vous êtes toujours le bienvenu ici », dit Ryôseki. « Veuillez vous asseoir confortablement… Eh bien, je suis au regret de vous annoncer la mort de Hagiwara Sama. »
 
@@ -332,7 +332,7 @@ Peu importe comment je les connais… Je veux maintenant vous parler des funéra
 
 \[1. Les principes masculin et féminin de l'univers, les forces actives et passives de la nature. Yusai fait ici référence à l'ancienne philosophie chinoise de la nature, plus connue des lecteurs occidentaux sous le nom de FENG-SHUI.\]
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 C'est ainsi que Shinzaburô fut enterré à côté d'O-Tsuyu, dans le cimetière de Shin-Banzui-In, à Yanaka-no-Sasaki.
 
@@ -347,7 +347,7 @@ Mon ami me demanda si l'histoire m'avait intéressé ; et je lui répondis que j
 
 « Je vous accompagne immédiatement », dit-il. « Mais qu'avez-vous pensé des personnages ? »
 
-« Pour la pensée occidentale », répondis-je, « Shinzaburô est une créature méprisable. Je l'ai comparé mentalement aux véritables amoureux de notre vieille littérature de ballades. Ils étaient trop heureux de suivre une bien-aimée décédée dans la tombe ; et pourtant, étant chrétiens, ils croyaient n'avoir qu'une seule vie humaine à vivre en ce monde. Mais Shinzaburô était bouddhiste, avec un million de vies derrière lui et un million de vies devant lui ; et il était trop égoïste pour renoncer à une seule existence misérable pour la jeune fille <span id="p111">[<sup><small>p. 111</small></sup>]</span>qui lui était revenue d'entre les morts. Il était encore plus lâche qu'égoïste. Bien que samouraï de naissance et de formation, il dut supplier un prêtre de le sauver des fantômes. Il se montra méprisable en tous points ; et O-Tsuyu fit bien de l'étrangler. »
+« Pour la pensée occidentale », répondis-je, « Shinzaburô est une créature méprisable. Je l'ai comparé mentalement aux véritables amoureux de notre vieille littérature de ballades. Ils étaient trop heureux de suivre une bien-aimée décédée dans la tombe ; et pourtant, étant chrétiens, ils croyaient n'avoir qu'une seule vie humaine à vivre en ce monde. Mais Shinzaburô était bouddhiste, avec un million de vies derrière lui et un million de vies devant lui ; et il était trop égoïste pour renoncer à une seule existence misérable pour la jeune fille <span id="p111"><sup><small>[ p. 111 ]</small></sup></span>qui lui était revenue d'entre les morts. Il était encore plus lâche qu'égoïste. Bien que samouraï de naissance et de formation, il dut supplier un prêtre de le sauver des fantômes. Il se montra méprisable en tous points ; et O-Tsuyu fit bien de l'étrangler. »
 
 « Du point de vue japonais, de même », répondit mon ami, « Shinzaburô est plutôt méprisable. Mais l'utilisation de ce personnage faible a permis à l'auteur de développer des incidents qui, autrement, n'auraient peut-être pas pu être gérés aussi efficacement. À mon avis, le seul personnage attrayant de l'histoire est celui d'O-Yoné : le type du serviteur loyal et aimant d'antan, intelligent, rusé, plein de ressources, fidèle non seulement jusqu'à la mort, mais au-delà de la mort… Eh bien, allons à Shin-Banzui-In. »
 
@@ -361,7 +361,7 @@ Nous nous frayâmes un chemin entre les mares d'eau de pluie et les vertes crêt
 
 « Les caractères ne sont pas faciles à déchiffrer », dit mon ami, « mais attendez ! »… Il tira de sa manche une feuille de papier blanc et doux, la posa sur l’inscription et commença à frotter le papier avec un morceau d’argile. Ce faisant, les caractères apparurent en blanc sur la surface noircie.
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 « Onzième jour, troisième mois — Rat, Frère aîné, Feu — Sixième année de Horéki » (1756 apr. J.-C.)… Il semblerait que ce soit la tombe d’un aubergiste de Nedzu, nommé Kichibei. Voyons ce qu’il y a sur l’autre monument. »
 

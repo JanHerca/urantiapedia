@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 CINQUIÈME ADHYÂYA.
 

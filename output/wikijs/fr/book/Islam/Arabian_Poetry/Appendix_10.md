@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-Les beaux vers élégiaques avec lesquels s'ouvre ce chef-d'œuvre de la poésie arabe ancienne ont été comparés par le Dr Carlyle au _Village abandonné_ de Goldsmith. <span id="p383">[<sup><small>p. 383</small></sup>]</span> « Mais l'Arabe, remarque Burton, a avec une simplicité et un pathétique équivalents un feu, une force de langage et une profondeur de sentiment que l'Irlandais, si admirable que soit sa poésie, ne pourrait jamais égaler. » ([_Pilgrimage_](./errata.htm#2), vol. iii., p. 54.) La traduction de Carlyle, comme suit, de ces vers, si inadéquate qu'elle puisse représenter les beautés de l'original, ne peut manquer de plaire au lecteur anglais, par la grâce et la douceur du rythme :
+Les beaux vers élégiaques avec lesquels s'ouvre ce chef-d'œuvre de la poésie arabe ancienne ont été comparés par le Dr Carlyle au _Village abandonné_ de Goldsmith. <span id="p383"><sup><small>[ p. 383 ]</small></sup></span> « Mais l'Arabe, remarque Burton, a avec une simplicité et un pathétique équivalents un feu, une force de langage et une profondeur de sentiment que l'Irlandais, si admirable que soit sa poésie, ne pourrait jamais égaler. » ([_Pilgrimage_](./errata.htm#2), vol. iii., p. 54.) La traduction de Carlyle, comme suit, de ces vers, si inadéquate qu'elle puisse représenter les beautés de l'original, ne peut manquer de plaire au lecteur anglais, par la grâce et la douceur du rythme :
 
 CES chères demeures qui abritaient autrefois la belle
 &nbsp;&nbsp;Au milieu des étendues sauvages de Mitata, je cherche en vain ;
@@ -64,7 +64,7 @@ Les chardons emmêlés, courbés sous le vent,
 Au milieu des méandres de cette vallée solitaire
 &nbsp;&nbsp;L'antilope grouillante et l'autruche errantes :
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 La mère du troupeau aux grands yeux, qui vole
 &nbsp;&nbsp;Les repaires bruyants de l'homme, trouvent ici une retraite sûre,
@@ -106,7 +106,7 @@ Quelles formes gracieuses renferment ces plis envieux !
 Bien sûr, les antilopes de Weira ou les chevreuils de Tudah
 &nbsp;&nbsp;À travers ces voiles là-bas, leur jeune enquête sportive !
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 Le groupe a continué sa route, je me suis efforcé de suivre leurs traces ;
 &nbsp;&nbsp;Je les ai vus pousser les chameaux à fuir plus vite,
@@ -141,7 +141,7 @@ Voici la traduction par M. Lyall du même passage, tiré de sa traduction du Mo�
 7\. Les vaches sauvages aux grands yeux se couchent là, à côté de leurs petits
 &nbsp;&nbsp; viennent de naître et leurs veaux errent en troupeaux dans la plaine.
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 8\. Les torrents ont de nouveau marqué les traces des tentes, comme si
 &nbsp;&nbsp; c'étaient des lignes d'écriture dans un livre que les plumes renouvellent,
@@ -174,7 +174,7 @@ Voici la traduction par M. Lyall du même passage, tiré de sa traduction du Mo�
 
 \*\*\* Les notes ci-jointes sur le poème de Lebīd sont, pour la plupart, adaptées de celles annexées à la traduction de M. Lyall.
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 vv. 1, 2. Minia \[Mina\], un endroit de Dariyyeh, une province du Nejd, sur la route de La Mecque à el-Basrah. Il y a une vallée du même nom près de La Mecque. Ghaul, er-Rijâm et er-Rayyân, collines dans les environs. \[Le capitaine Burton traduit ces couplets comme suit :
 
@@ -198,7 +198,7 @@ Il ressort de cela que l'écriture et les livres n'étaient pas aussi étrangers
 
 v. 9. Il s’agit ici du _weshm_ ou tracé piqué dans la peau des mains et des bras d’une femme. Le motif est piqué avec une aiguille, puis on répand sur la peau et on y frotte une préparation appelée _na’ûr_, qui peut signifier soit de l’indigo en poudre, soit du noir de fumée en poudre. De même que les pluies qui approfondissaient et élargissaient les traces des tentes sont comparées au v. 8 à un écrivain qui repasse les lignes d’écriture avec une plume, de même au v. 9 elles sont comparées à une femme qui renouvelle le tatouage en saupoudrant de nouveaux pigments sur les anciennes lignes ; une fois frottés, les lignes apparaissent à nouveau. \[Lane (« Modern Egyptians ») déclare que les femmes des ordres inférieurs du Caire tatouent sur le visage, le devant du menton, le dos de la main droite et les bras. L’opération est généralement effectuée à l’âge d’environ cinq ou six ans, par des femmes bohémiennes.\]
 
-v. 11. \[« Canaux » voir rite v. 5, Mo'all de Zuheyr.\] « Thumâm », c'est-à-dire herbe de panique. Forskal (p. 20) dit que le nom est utilisé pour _Panicum Dichotomum_ ;_ mais il est appliqué par les <span id="p389">[<sup><small>p. 389</small></sup>]</span> Arabes à de nombreuses espèces de _panicum_. L'herbe est utilisée pour couvrir les toits et pour boucher les trous dans les tentes afin de les protéger des intempéries.
+v. 11. \[« Canaux » voir rite v. 5, Mo'all de Zuheyr.\] « Thumâm », c'est-à-dire herbe de panique. Forskal (p. 20) dit que le nom est utilisé pour _Panicum Dichotomum_ ;_ mais il est appliqué par les <span id="p389"><sup><small>[ p. 389 ]</small></sup></span> Arabes à de nombreuses espèces de _panicum_. L'herbe est utilisée pour couvrir les toits et pour boucher les trous dans les tentes afin de les protéger des intempéries.
 
 v. 12. « Se cachèrent dans des carrosses » : le mot employé (_takannus_) convient à l'action d'un lièvre ou d'un renard se glissant dans son trou (_kinâs_).
 
@@ -215,7 +215,7 @@ v. 43. M. Lyall traduit ce distique :
 Et elle brillait au visage du Mirk avec une lumière blanche scintillante
 &nbsp;&nbsp;comme une perle née dans un coquillage qui est tombée de son fil,
 
-<span id="p390">[<sup><small>p. 390</small></sup>]</span>
+<span id="p390"><sup><small>[ p. 390 ]</small></sup></span>
 
 L'errance agitée de la vache est comparée à celle de la perle qui roule sur le sol.
 
@@ -238,7 +238,7 @@ v. 58. « Le drapeau du marchand de vin. » Les boutiques de vin étaient distin
 
 vv, 60, 61. Potage du matin : chanteuses — voir Amriolkais, v. 74, Tarafa, vv. 46, 48-51, Amru, v. 1, et _Notes_.
 
-<span id="p391">[<sup><small>p. 391</small></sup>]</span>
+<span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
 v. 63. « Un cheval rapide, dont les sangles ressemblent à ma ceinture ornée de pierres précieuses. » M. Lyall traduit cet hémistiche : « une jument rapide, ma ceinture ses rênes alors que je sortais à l'aube » ; et explique que le poète « jeta la bride sur ses épaules pour qu'elle devienne une ceinture pour lui, afin qu'il puisse avoir les mains libres pour ses armes. »
 

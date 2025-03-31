@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 
 Bien que le Bouddha ait châtié l'esprit d'Ajatasatru, le roi cédait parfois à la colère. Un jour, à la suite d'une querelle entre un homme de Rajagriha et un homme de Cravasti, il déclara la guerre au roi Prasenajit.
@@ -43,7 +43,7 @@ Le roi Prasenajit rassembla également ses troupes. Lui aussi avait des chars, d
 
 Ce fut une terrible bataille. Elle dura quatre jours. Le premier jour, Prasenajit perdit ses éléphants ; le deuxième, ses chevaux ; le troisième, ses chars furent détruits ; et le quatrième, ses fantassins furent tués ou faits prisonniers. Prasenajit lui-même, vaincu et pris de panique, s'enfuit dans le seul char épargné et s'échappa à Cravasti.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Là, dans une petite salle obscure, il se laissa tomber sur un divan bas. Il resta silencieux, en proie à ses pensées mélancoliques. Il ne bougea pas ; il semblait mort, à l'exception des larmes qui coulaient sur ses joues.
 
@@ -69,7 +69,7 @@ Lorsque les deux armées se rencontrèrent, le vacarme terrifia les dieux eux-m�
 
 «Tuez-moi», cria-t-il à Prasenajit.
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 « J'épargnerai ta vie », dit Prasenajit. « Je t'emmènerai auprès du Maître Béni, et il décidera de ton sort. »
 

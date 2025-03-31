@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p180">[<sup><small>p. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 ## XXI. TRAITÉ DE LA MEGUILLAH, OU DU ROULEAU DU LIVRE D'ESTHER.
 

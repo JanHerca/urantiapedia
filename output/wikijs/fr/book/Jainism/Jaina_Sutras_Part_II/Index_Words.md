@@ -29,7 +29,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p443">[<sup><small>p. 443</small></sup>]</span>
+<span id="p443"><sup><small>[ p. 443 ]</small></sup></span>
 
 akarmatâ, page [161](Uttaradhyayana_29#p161), ([172](Uttaradhyayana_29#p172)).
 
@@ -187,7 +187,7 @@ bois d'arani, [341](Sutrakritanga_2_1#p341).
 
 arati, [9](Uttaradhyayana_2#p9), [190](Uttaradhyayana_32#p190) n 1.
 
-arai<i>m</i> rai<i>m</i> va, [308](Sutrakritanga_1_10#p308) n 1. <span id="p444">[<sup><small>p. 444</small></sup>]</span> ar<i>g</i>u<i>n</i>a, une herbe, [216](Uttaradhyayana_36#p216) n 5.
+arai<i>m</i> rai<i>m</i> va, [308](Sutrakritanga_1_10#p308) n 1. <span id="p444"><sup><small>[ p. 444 ]</small></sup></span> ar<i>g</i>u<i>n</i>a, une herbe, [216](Uttaradhyayana_36#p216) n 5.
 
 ardhapê<i>t</i>a, [177](Uttaradhyayana_30#p177), n 4.
 
@@ -395,7 +395,7 @@ usu = ishu, [283](Sutrakritanga_1_5_1#p283) n 2.
 
 ussaya<i>n</i>a = mâna, [302](Sutrakritanga_1_9#p302) n 5.
 
-uhi<i>m</i><i>g</i>aliyâ, [221](Uttaradhyayana_36#p221). <span id="p445">[<sup><small>p. 445</small></sup>]</span> ri<i>g</i>vî, [178](Uttaradhyayana_30#p178) n 2.
+uhi<i>m</i><i>g</i>aliyâ, [221](Uttaradhyayana_36#p221). <span id="p445"><sup><small>[ p. 445 ]</small></sup></span> ri<i>g</i>vî, [178](Uttaradhyayana_30#p178) n 2.
 
 rishi, [244](Sutrakritanga_1_1_3#p244).
 
@@ -599,7 +599,7 @@ ga<i>k</i><i>kh</i>a, ([324](Sutrakritanga_1_14#p324)).
 
 ga<i>n</i>a, [149](Uttaradhyayana_26#p149), n 1, [179](Uttaradhyayana_30#p179) n 4.
 
-ga<i>n</i>ipi<i>d</i>age, [345](Sutrakritanga_2_1#p345). <span id="p446">[<sup><small>p. 446</small></sup>]</span> ga<i>n</i><i>th</i>iyasatta, [195](Uttaradhyayana_33#p195) n 1.
+ga<i>n</i>ipi<i>d</i>age, [345](Sutrakritanga_2_1#p345). <span id="p446"><sup><small>[ p. 446 ]</small></sup></span> ga<i>n</i><i>th</i>iyasatta, [195](Uttaradhyayana_33#p195) n 1.
 
 gandhana, [118](Uttaradhyayana_22#p118) n 3.
 
@@ -799,7 +799,7 @@ tha<i>n</i><i>d</i>illa = krôdha, [302](Sutrakritanga_1_9#p302) n 4.
 
 thilli, [373](Sutrakritanga_2_2#p373) n 4.
 
-thîhûya, [216](Uttaradhyayana_36#p216). <span id="p447">[<sup><small>p. 447</small></sup>]</span> da<i>m</i>samasaya, [9](Uttaradhyayana_2#p9).
+thîhûya, [216](Uttaradhyayana_36#p216). <span id="p447"><sup><small>[ p. 447 ]</small></sup></span> da<i>m</i>samasaya, [9](Uttaradhyayana_2#p9).
 
 da<i>n</i><i>d</i>a, [181](Uttaradhyayana_31#p181) n 1.
 
@@ -1011,7 +1011,7 @@ palimokkha, [317](Sutrakritanga_1_12#p317) n 3.
 
 paliyantam, [251](Sutrakritanga_1_2_1#p251) n 1.
 
-paliyâga = paripâka, [393](Sutrakritanga_2_3#p393). <span id="p448">[<sup><small>p. 448</small></sup>]</span> palyôpamâ, [84](Uttaradhyayana_18#p84) n 1, [200](Uttaradhyayana_34#p200) suiv.
+paliyâga = paripâka, [393](Sutrakritanga_2_3#p393). <span id="p448"><sup><small>[ p. 448 ]</small></sup></span> palyôpamâ, [84](Uttaradhyayana_18#p84) n 1, [200](Uttaradhyayana_34#p200) suiv.
 
 pallî, [176](Uttaradhyayana_30#p176) n 5.
 
@@ -1213,7 +1213,7 @@ masûra, une plante, [374](Sutrakritanga_2_2#p374).
 
 mahâpâlî, [84](Uttaradhyayana_18#p84), n 1.
 
-mâi<i>t</i><i>th</i>âna = mât<i>ri</i>sthâna (ou mâyâsthâna ?), [304](Sutrakritanga_1_9#p304) n 4. <span id="p449">[<sup><small>p. 449</small></sup>]</span> mâivâhaya (mât<i>ri</i>vâhaka), [219](Uttaradhyayana_36#p219).
+mâi<i>t</i><i>th</i>âna = mât<i>ri</i>sthâna (ou mâyâsthâna ?), [304](Sutrakritanga_1_9#p304) n 4. <span id="p449"><sup><small>[ p. 449 ]</small></sup></span> mâivâhaya (mât<i>ri</i>vâhaka), [219](Uttaradhyayana_36#p219).
 
 mânapi<i>n</i><i>d</i>a, [133](Uttaradhyayana_24#p133) n.
 
@@ -1423,7 +1423,7 @@ vêra = vaira, karmabandha, [408](Sutrakritanga_2_5#p408) n 2.
 
 vêrattiya, [144](Uttaradhyayana_26#p144).
 
-vêsâliya, [244](Sutrakritanga_1_1_3#p244) n 2. <span id="p450">[<sup><small>p. 450</small></sup>]</span> vêsâliya, [301](Sutrakritanga_1_8#p301) n 2.
+vêsâliya, [244](Sutrakritanga_1_1_3#p244) n 2. <span id="p450"><sup><small>[ p. 450 ]</small></sup></span> vêsâliya, [301](Sutrakritanga_1_8#p301) n 2.
 
 vainayika, [83](Uttaradhyayana_18#p83) n 2.
 
@@ -1629,7 +1629,7 @@ sîhaka<i>n</i><i>n</i>î, [217](Uttaradhyayana_36#p217).
 
 suuttara, [186](Uttaradhyayana_32#p186) n 2.
 
-sukhâ<i>s</i>âta, [159](Uttaradhyayana_29#p159), ([166](Uttaradhyayana_29#p166)). <span id="p451">[<sup><small>p. 451</small></sup>]</span> su<i>g</i>ôsiya, su<i>gh</i>ôsiya, [257](Sutrakritanga_1_2_2#p257) n 6.
+sukhâ<i>s</i>âta, [159](Uttaradhyayana_29#p159), ([166](Uttaradhyayana_29#p166)). <span id="p451"><sup><small>[ p. 451 ]</small></sup></span> su<i>g</i>ôsiya, su<i>gh</i>ôsiya, [257](Sutrakritanga_1_2_2#p257) n 6.
 
 subhagasô<i>n</i>iya, une plante, [392](Sutrakritanga_2_3#p392).
 

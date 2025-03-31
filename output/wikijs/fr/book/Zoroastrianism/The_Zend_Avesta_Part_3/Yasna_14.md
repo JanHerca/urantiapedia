@@ -38,7 +38,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 2\. Et à Vous, ô Immortels Généreux [^1062] ! je voudrais consacrer la chair de mon corps même [^1063], et toutes les bénédictions d'une vie prospère [^1064].
 
-3\. Dans ce Zaothra avec ce Baresman, je désire <span id="p254">[<sup><small>p. 254</small></sup>]</span> approcher les saints Yazads avec mes louanges [^1065], et tous les saints seigneurs de l'ordre rituel à leurs époques, Hâvani à son époque, et Sâvanghi et Vîsya à leurs époques. 4. Je me confesse Mazdayasnien, et de l'ordre de Zarathustra [^1066].
+3\. Dans ce Zaothra avec ce Baresman, je désire <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> approcher les saints Yazads avec mes louanges [^1065], et tous les saints seigneurs de l'ordre rituel à leurs époques, Hâvani à son époque, et Sâvanghi et Vîsya à leurs époques. 4. Je me confesse Mazdayasnien, et de l'ordre de Zarathustra [^1066].
 
 5\. Le Zaotar parle : En tant qu'Ahû (vénéré et) choisi, le Zaotar (?) me parle (?).
 

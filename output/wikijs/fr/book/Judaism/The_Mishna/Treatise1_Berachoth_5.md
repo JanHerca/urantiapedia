@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 1. Les hommes ne doivent pas se lever pour prier, sauf avec une profonde humilité. Les hommes pieux des temps anciens avaient l'habitude de marquer une pause d'une heure avant de commencer à prier, afin de tourner leur esprit vers la Divinité. Même si le roi le salue, il ne doit pas répondre à sa salutation, et même si un serpent s'enroule autour de son talon, il ne doit pas interrompre ses prières.
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 § 2. Le pouvoir divin de faire tomber la pluie doit être mentionné dans la bénédiction pour la résurrection des morts. La prière pour la pluie doit être faite dans la bénédiction pour l'année, et ‏הבדלה‎, \[la distinction entre le sabbat et le jour de la semaine\] dans la bénédiction ‏חונן הדעת‎ \[qui accorde gracieusement la connaissance\]. R. Akivah dit que ‏הבדלה‎ doit être dit dans une quatrième bénédiction. R. Éléazar dit, dans l'action de grâce \[‏מודים‎\].
 

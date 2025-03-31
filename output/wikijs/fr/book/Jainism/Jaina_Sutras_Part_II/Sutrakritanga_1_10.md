@@ -38,7 +38,7 @@ Le sage (Arhat), après avoir médité sur la Loi, l'a proclamée ; apprenez de 
 
 À aucun être vivant, qu'il se meuve ou non, qu'il soit en haut, en bas ou sur terre, en le forçant avec ses mains ou ses pieds [^904]. Il ne prendra rien non plus des chefs de famille qui ne lui soit donné librement. (2)
 
-Ayant maîtrisé la Loi et s'étant débarrassé de l'insouciance, il devrait vivre de nourriture autorisée [^905] et traiter <span id="p307">[<sup><small>p. 307</small></sup>]</span> tous les êtres comme lui-même voudrait être traité ; il ne devrait pas s'exposer à la culpabilité par son désir de vivre ; un moine qui accomplit des austérités ne devrait pas garder de réserve. (3)
+Ayant maîtrisé la Loi et s'étant débarrassé de l'insouciance, il devrait vivre de nourriture autorisée [^905] et traiter <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> tous les êtres comme lui-même voudrait être traité ; il ne devrait pas s'exposer à la culpabilité par son désir de vivre ; un moine qui accomplit des austérités ne devrait pas garder de réserve. (3)
 
 Refusant de fréquenter les femmes, un sage devrait errer, libre de toute attache terrestre. Voyez, chaque créature, chaque être, souffre et est affligé. (4)
 
@@ -52,7 +52,7 @@ Désirant une nourriture non autorisée [^906] et l'acceptant, le pécheur, nég
 
 Adonné à la violence, il accumule (Karman) ; à sa mort, il connaît une misère vraiment pénible. C'est pourquoi le sage considère attentivement la Loi ; le sage erre, libre de toute attache terrestre. (9)
 
-Il ne doit pas s'exposer à la culpabilité par son désir de vivre, mais il doit errer sans attachement. Après mûre réflexion, <span id="p308">[<sup><small>p. 308</small></sup>]</span> et luttant contre ses désirs terrestres, il ne doit rien dire qui implique le massacre d'êtres vivants. (10)
+Il ne doit pas s'exposer à la culpabilité par son désir de vivre, mais il doit errer sans attachement. Après mûre réflexion, <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> et luttant contre ses désirs terrestres, il ne doit rien dire qui implique le massacre d'êtres vivants. (10)
 
 Il ne doit pas désirer de nourriture illicite, et il ne doit pas se mêler à ceux qui désirent de telles choses ; il doit mortifier sa chair, en pensant (à son devoir) et en abandonnant ses chagrins sans tenir compte (des intérêts mondains). (11)
 
@@ -64,7 +64,7 @@ Un moine ayant vaincu l'aversion pour le contrôle et le plaisir des objets sens
 
 Gardant sa parole et possédant de la prudence, acquérant (pur) Lê<i>s</i>yâ [^908], il doit errer ; il ne doit pas construire une maison pour lui-même ou pour les autres, ni se comporter envers les autres comme un chef de famille. (15)
 
-Interrogé par quelqu'un qui maintient le caractère immuable de l'âme [^909], il devrait exposer la vraie (doctrine) ; ceux qui s'engagent dans des œuvres et <span id="p309">[<sup><small>p. 309</small></sup>]</span> sont tenus dans l'esclavage du monde, ne connaissent pas la Loi qui conduit à la Libération. (16)
+Interrogé par quelqu'un qui maintient le caractère immuable de l'âme [^909], il devrait exposer la vraie (doctrine) ; ceux qui s'engagent dans des œuvres et <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> sont tenus dans l'esclavage du monde, ne connaissent pas la Loi qui conduit à la Libération. (16)
 
 Les hommes ici ont des opinions diverses ; ils adhèrent à la doctrine des Kriyâvâdins et des Akriyâvâdins. L'iniquité d'un pécheur effréné qui, après sa naissance, nuit au corps (des êtres pour assurer son propre bonheur), ne cesse de croître. (17)
 

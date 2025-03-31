@@ -90,7 +90,7 @@ Reft de mon frère et de mon emprise.
 Du sommet de cette haute montagne, je
 Me jettera la tête la première et mourra.
 
-<span id="p390">[<sup><small>p. 390</small></sup>]</span>
+<span id="p390"><sup><small>[ p. 390 ]</small></sup></span>
 
 
 
@@ -208,7 +208,7 @@ Comme des montagnes menaçant le ciel,
 Et des formes infernales sauvages entre
 Les crêtes des vagues étaient visibles.
 
-<span id="p391">[<sup><small>p. 391</small></sup>]</span>
+<span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
 Ils ont vu les vagues se déchaîner et gonfler,
 Et leurs tristes esprits s'enfoncèrent et tombèrent ;
@@ -317,7 +317,7 @@ Alors le vieux chef reprit la parole :
 Car à la tâche j'inciterai
 Un chef d'une puissance suffisante.
 
-<span id="p392">[<sup><small>p. 392</small></sup>]</span>
+<span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
 
 
@@ -429,7 +429,7 @@ Grande réserve d'herbes de la colline et de l'hydromel,
 Qui, dispersé sur la vague troublée.
 L'Amrit a été donné aux travailleurs,
 
-<span id="p393">[<sup><small>p. 393</small></sup>]</span>
+<span id="p393"><sup><small>[ p. 393 ]</small></sup></span>
 
 Mais maintenant mes jours sont presque comptés,
 Ma force est partie, mes membres sont vieux,

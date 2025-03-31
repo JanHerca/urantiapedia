@@ -38,7 +38,7 @@ Hélas ! que cent mille langues idéales sont parlées par une seule langue, et 
 
 Que les gens de la Certitude sachent qu’un nouveau Jardin est apparu dans la Cour Ouverte de la Sainteté, et que tous les gens des Hauteurs et les temples du Ciel Exalté sont autour de lui.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Efforcez-vous d'atteindre cette station et de découvrir les vérités du mystère de l'Amour à partir de ses fleurs, et dévoilez l'abondante connaissance de l'Unité à partir de ses fruits éternels. Radieux sont les yeux de celui qui y est entré avec confiance.
 

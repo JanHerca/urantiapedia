@@ -38,7 +38,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 **T**.
 
-III. 1. De même qu'une loi fixe fut donnée [^177] pour la récitation du Shma', la Majorité fixa une heure pour la Prière. Pourquoi dirent-ils : La Prière du Matin <span id="p29">[<sup><small>p. 29</small></sup>]</span> \[peut être dite\] jusqu'à midi ? Parce que l'holocauste continuel du matin était offert jusqu'à midi. [^178] R. Judah dit : Jusqu'à la quatrième heure. Et pourquoi dirent-ils : La Prière de l'Après-midi jusqu'au soir ? Parce que l'holocauste continuel entre les deux soirs [^179] était offert jusqu'au soir. R. Judah dit : Jusqu'à la division de l'après-midi ? La onzième heure _moins_ un quart. [^180]
+III. 1. De même qu'une loi fixe fut donnée [^177] pour la récitation du Shma', la Majorité fixa une heure pour la Prière. Pourquoi dirent-ils : La Prière du Matin <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> \[peut être dite\] jusqu'à midi ? Parce que l'holocauste continuel du matin était offert jusqu'à midi. [^178] R. Judah dit : Jusqu'à la quatrième heure. Et pourquoi dirent-ils : La Prière de l'Après-midi jusqu'au soir ? Parce que l'holocauste continuel entre les deux soirs [^179] était offert jusqu'au soir. R. Judah dit : Jusqu'à la division de l'après-midi ? La onzième heure _moins_ un quart. [^180]
 
 2\. La prière du soir n'a pas de loi fixe. Rabbi Éléazar bar José [^181] dit : « [Elle se termine] avec la fermeture des portes. » [^182]
 
@@ -46,7 +46,7 @@ III. 1. De même qu'une loi fixe fut donnée [^177] pour la récitation du Shma'
 
 Quiconque trouve du plaisir dans ce qu'il fait est un bon signe pour lui ; si son esprit ne trouve pas de plaisir dans ce qu'il fait, c'est un mauvais signe pour lui.
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 <a id="m2"></a>
 
@@ -58,7 +58,7 @@ Quiconque trouve du plaisir dans ce qu'il fait est un bon signe pour lui ; si so
 
 ## Les dix-huit prières et leur résumé.
 
-3\. Rabban Gamaliel disait : « Un homme prie les Dix-huit bénédictions chaque jour. » Rabbi Josué récitait le résumé [^191] des Dix-huit. Rabbi Josué [^192] disait : « Si sa prière <span id="p31">[<sup><small>p. 31</small></sup>]</span> est fluide [^193] dans sa bouche, il prie les Dix-huit, _M_. » et sinon, le résumé des Dix-huit. [^194]
+3\. Rabban Gamaliel disait : « Un homme prie les Dix-huit bénédictions chaque jour. » Rabbi Josué récitait le résumé [^191] des Dix-huit. Rabbi Josué [^192] disait : « Si sa prière <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> est fluide [^193] dans sa bouche, il prie les Dix-huit, _M_. » et sinon, le résumé des Dix-huit. [^194]
 
 <a id="m4"></a>
 
@@ -82,7 +82,7 @@ Quiconque trouve du plaisir dans ce qu'il fait est un bon signe pour lui ; si so
 
 **M**.IV. 6. Si quelqu'un est assis dans un navire ou sur un radeau, [^199] il doit diriger son intention vers le très saint sanctuaire.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 B.
 
@@ -102,7 +102,7 @@ Et dans les services supplémentaires, il prie sept [^212] \[Bénédictions\] et
 
 12\. Le jour du sabbat, des fêtes et du Jour des Expiations, on prie sept prières et on dit \[la section spéciale pour\] la sanctification du jour au milieu. [^214]
 
-13\. Le cas de la fête du Nouvel An, qui tombe un sabbat. L'école de <span id="p35">[<sup><small>p. 35</small></sup>]</span> Shammaï dit : On prie dix [1](Berakoth_2_5#fn_215) \[Bénédictions\], et on dit celle-ci pour le sabbat seul, puis celle-là pour la fête seule, et on commence par celle du sabbat. Mais l'école de Hillel dit : on prie neuf [2](Berakoth_2_5#fn_216) \[Bénédictions\].
+13\. Le cas de la fête du Nouvel An, qui tombe un sabbat. L'école de <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Shammaï dit : On prie dix [1](Berakoth_2_5#fn_215) \[Bénédictions\], et on dit celle-ci pour le sabbat seul, puis celle-là pour la fête seule, et on commence par celle du sabbat. Mais l'école de Hillel dit : on prie neuf [2](Berakoth_2_5#fn_216) \[Bénédictions\].
 
 Le cas d'une fête qui tombe un sabbat. L'école de Shammaï dit : il prie huit bénédictions, la première pour le sabbat et la seconde pour la fête, et il commence par celle du sabbat. Mais l'école de Hillel dit : il prie sept bénédictions, la première pour le sabbat et la seconde pour le sabbat, et il dit la section spéciale pour la sanctification du jour au milieu. R. Nathan dit : il conclut également par : « Béni sois-tu, toi qui sanctifies le sabbat, Israël et les fêtes. » [3](Berakoth_2_5#fn_217)
 

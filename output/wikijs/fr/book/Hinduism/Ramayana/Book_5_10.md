@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:1:34Z
   </table>
 </figure>
 
-<span id="p394">[<sup><small>p. 394</small></sup>]</span>
+<span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
 [1](Book_5_10#fn789)
 
@@ -126,7 +126,7 @@ Il brillait comme cent soleils,
 Et la crête et le rocher d'or bruni
 Un éclair jaillit sur le flot qui roulait autour de lui,
 
-<span id="p395">[<sup><small>p. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 Les Vánar pensaient que la montagne s'élevait
 Une barre hostile s'interpose,
@@ -226,7 +226,7 @@ Logé à l'ombre des branches de Dandak.
 De là, Ravan, roi des géants, vola
 Sita, la joie de l'âme de Rama.
 
-<span id="p396">[<sup><small>p. 396</small></sup>]</span>
+<span id="p396"><sup><small>[ p. 396 ]</small></sup></span>
 
 Par le haut ordre de Ráma,
 Je pars en messager volontaire ;
@@ -313,7 +313,7 @@ Il déchira et déchira la forme du démon,
 Et, de la carcasse mutilée libérée,
 Il est réapparu à la vitesse d'une pensée. [^803]
 
-<span id="p397">[<sup><small>p. 397</small></sup>]</span>
+<span id="p397"><sup><small>[ p. 397 ]</small></sup></span>
 
 Ainsi, avec son habileté, il tua le démon,
 Puis il grandit jusqu'à sa stature habituelle.
@@ -424,7 +424,7 @@ Sans personne à côté d'elle, face à face ?
 Quand le soleil éclatant avait quitté le ciel
 Le Vánar éclipsait sa taille imposante,
 
-<span id="p398">[<sup><small>p. 398</small></sup>]</span>
+<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 Et, dans les limites les plus étroites restreintes,
 La taille d'un chat conservée. [1](Book_5_10#fn808)
@@ -534,7 +534,7 @@ Avec un arc, une masse et une lame étincelante ;
 Des démons de toutes formes et de toutes teintes,
 Certains sont féroces et immondes, d'autres sont beaux à voir.
 
-<span id="p399">[<sup><small>p. 399</small></sup>]</span>
+<span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 
 Il a vu les légions macabres attendre
 En surveillance stricte à la porte de Rávan,
@@ -606,7 +606,7 @@ Sur les pierres précieuses et l'or qui brillaient autour de lui,
 Et bien des fenêtres grillagées sont lumineuses
 Avec des pierres turques et de la lazulite.
 
-<span id="p400">[<sup><small>p. 400</small></sup>]</span>
+<span id="p400"><sup><small>[ p. 400 ]</small></sup></span>
 
 Il passa par le porche et les antichambres
 Chacun plus riche, plus beau que le précédent ;
@@ -708,7 +708,7 @@ Et bien des princesses au beau visage
 Celui que le bras de Rávan ​​avait arraché
 Des rois vaincus gisaient dans le sommeil.
 
-<span id="p401">[<sup><small>p. 401</small></sup>]</span>
+<span id="p401"><sup><small>[ p. 401 ]</small></sup></span>
 
 Il y a des arches ornées de joyaux qui s'élèvent haut au-dessus de nos têtes
 Un lustre en constante évolution
@@ -826,7 +826,7 @@ Le monarque des géants gisait,
 Parfumé au précieux parfum de santal
 Et gai avec des ornements dorés.
 
-<span id="p402">[<sup><small>p. 402</small></sup>]</span>
+<span id="p402"><sup><small>[ p. 402 ]</small></sup></span>
 
 Ses yeux de feu fermés dans le sommeil,
 Dans des robes scintillantes, le roi reposait

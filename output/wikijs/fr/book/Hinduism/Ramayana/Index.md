@@ -32,9 +32,9 @@ dateCreated: 2025-1-16T20:1:34Z
   </table>
 </figure>
 
-<span id="p568">[<sup><small>p. 568</small></sup>]</span>
+<span id="p568"><sup><small>[ p. 568 ]</small></sup></span>
 
-<span id="p568">[<sup><small>p. 568</small></sup>]</span>
+<span id="p568"><sup><small>[ p. 568 ]</small></sup></span>
 
 ## A.
 
@@ -116,7 +116,7 @@ Ayodhya, 4, 6, 11, 12, 14, 19, 32, 33, 38, 49, 70, 72, 79, 81, 83, 84, 85, 88, 9
 Ayomukh, 374 .
 Ayomukhi, 310 .
 
-<span id="p569">[<sup><small>p. 569</small></sup>]</span>
+<span id="p569"><sup><small>[ p. 569 ]</small></sup></span>
 
 ## B.
 
@@ -268,7 +268,7 @@ Dharmavardhan, 179.
 
 Dhritarashtri, 246.
 
-<span id="p570">[<sup><small>p. 570</small></sup>]</span>
+<span id="p570"><sup><small>[ p. 570 ]</small></sup></span>
 
 Dhṛṣṭāketu, 82.
 
@@ -420,7 +420,7 @@ Hastinapura, 176.
 
 Hastiprishtha, 179.
 
-<span id="p571">[<sup><small>p. 571</small></sup>]</span>
+<span id="p571"><sup><small>[ p. 571 ]</small></sup></span>
 
 Havishyand, 68 ans.
 
@@ -558,7 +558,7 @@ Cames 37, 38, 42, 283, 286,
 
 Cambodge, 13, 66.
 
-<span id="p572">[<sup><small>p. 572</small></sup>]</span>
+<span id="p572"><sup><small>[ p. 572 ]</small></sup></span>
 
 Cambodge 66.
 
@@ -713,7 +713,7 @@ Palais public, 485.
 
 Appartement de vacances, 15,16,18,19, 21, 30.
 
-<span id="p573">[<sup><small>p. 573</small></sup>]</span>
+<span id="p573"><sup><small>[ p. 573 ]</small></sup></span>
 
 ## M.
 
@@ -883,7 +883,7 @@ Mithilá, 9 notes, 21, 45, 60, 61, 78, 81, 83, 84, 85.
 
 Mithra, 459.
 
-<span id="p574">[<sup><small>p. 574</small></sup>]</span>
+<span id="p574"><sup><small>[ p. 574 ]</small></sup></span>
 
 Mlechchas, 66, 537, 550.
 
@@ -1045,7 +1045,7 @@ Transcendance, 22.
 
 Prayag, 158, 159, 196.
 
-<span id="p575">[<sup><small>p. 575</small></sup>]</span>
+<span id="p575"><sup><small>[ p. 575 ]</small></sup></span>
 
 Prithu, 81, 219.
 
@@ -1219,7 +1219,7 @@ S'ardúla, 441, 449, 450.
 
 S'ardulí, 246.
 
-<span id="p576">[<sup><small>p. 576</small></sup>]</span>
+<span id="p576"><sup><small>[ p. 576 ]</small></sup></span>
 
 Sarju, 11, 20, 22, 36, 37, 38, 50, _passim_.
 
@@ -1405,7 +1405,7 @@ Sous-sol, 199.
 
 Sutikshna, 9, 234, 236, 237, 240, 241.
 
-<span id="p577">[<sup><small>p. 577</small></sup>]</span>
+<span id="p577"><sup><small>[ p. 577 ]</small></sup></span>
 
 Suva, 35, 44, 45, 146.
 
@@ -1580,7 +1580,7 @@ Vanayu, 13 ans.
 
 Wang, 102 ans.
 
-<span id="p578">[<sup><small>p. 578</small></sup>]</span>
+<span id="p578"><sup><small>[ p. 578 ]</small></sup></span>
 
 Échoué, 550.
 
@@ -1750,7 +1750,7 @@ Yúpáksha, 420, 472.
 
 Yuvanás'va, 81, 219.
 
-<span id="p579">[<sup><small>p. 579</small></sup>]</span>
+<span id="p579"><sup><small>[ p. 579 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

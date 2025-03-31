@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 \[Un Mataridite décédé en 537 A.H. Ce credo est toujours utilisé comme manuel scolaire. Il est traduit de l'édition de Cureton (Londres, 1843) avec l'aide du commentaire d'at-Taftazani (Constantinople, 1310 A.H.). Les astérisques marquent les points sur lesquels al-Mataridi différait d'al-Ash'ari.\]
 
@@ -74,7 +74,7 @@ Un grand péché (_kabira_) n'exclut pas la créature qui croit de la Foi (_iman
 
 Et il peut y avoir un châtiment pour un petit et un pardon pour un grand, s'il ne s'agit pas de considérer comme licite ce qui est interdit, car cela est de la mécréance (_kufr_). Et l'intercession (_shafa'a_) des Messagers et des excellents en faveur de ceux qui commettent de grands péchés est établie.
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 Et les croyants qui commettent de grands péchés ne demeurent pas éternellement dans le Feu même s'ils meurent sans repentir.
 
@@ -88,7 +88,7 @@ Les anges sont des serviteurs de Dieu et travaillent selon ses ordres. Ils ne so
 
 Et Dieu a des livres qu'Il a révélés à Ses prophètes, et dans eux se trouvent Ses commandements et Ses promesses.
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 Le voyage nocturne (_mi'raj_) de l'Apôtre de Dieu – Sur qui soient la bénédiction et la paix ! tandis qu'il est éveillé, dans le corps, vers le Ciel, alors vers quel endroit Dieu le Très-Haut a voulu des Régions Exaltées, est une Vérité.
 

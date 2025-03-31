@@ -39,7 +39,7 @@ Le gourou partit ensuite pour Pasrur, puis pour Sialkot, la forteresse de la tri
 L’amitié avec les Karars est fausse, et son fondement est faux.
 Mula ne voyait pas d'où la mort lui viendrait.[^1]
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 Une fois sa mission accomplie à Sialkot, le gourou se rendit au sud du Panjab jusqu'à Mithankot (dans l'actuel district de Dera Ghazi Khan), où résidait Mian Mitha, un célèbre prêtre musulman. Le gourou s'installa dans un jardin près de la ville. Lorsque Mian Mitha apprit l'arrivée du gourou, il dit : « Nanak est un bon faqir ; mais si je le rencontre, je lui en tirerai le jus comme s'il s'agissait d'un citron. » Mardana, rapportant son discours au gourou, dit : « Mian Mitha est ton automate et jouera comme tu le fais jouer. » Mian Mitha poursuivit sa vantardise : « J'irai voir Nanak et, si je le rencontre, je lui enlèverai la crème comme je le ferais avec du lait écrémé. » Mian Mitha rencontra le gourou et, après l'avoir salué à la manière musulmane, s'assit. Il a défié le gourou par le slok suivant :
 
@@ -57,7 +57,7 @@ Agissez selon le Coran et vos livres sacrés.
 Mets la mèche de la peur dans ton corps
 Brûle en elle la connaissance de la vérité ;
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Ainsi ta lampe brûlera sans huile.
 Fais une telle lumière, et tu trouveras le Seigneur.
@@ -82,7 +82,7 @@ Nanak, le vrai Nom, la source de consolation dans ce dernier âge, procurera à 
 Vous craignez les lions, les chacals et les serpents ; mais ils habiteront dans vos tombeaux.
 Les bœufs déracineront vos tombeaux, et même la haine de vos ennemis à votre égard se refroidira.
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Frères, amis et amants lisez la fatiha[^1] et dites des prières _pour les défunts_.
 Nanak, _de telles_ choses sont fausses, et Dieu seul est vrai.
@@ -103,7 +103,7 @@ Comme du papier, ils seront battus avec des maillets et mis dans des presses ;
 Ils seront chauffés comme du fer, ils brûleront et crieront fort,
 Les têtes des misérables seront prises avec des pinces et placées sur des enclumes,
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 Sur lesquels ils seront battus avec des marteaux en rythme selon les instructions du forgeron[^1].
 Nanak, sans le vrai Nom, ils n'auront aucun repos ni dans ce monde ni dans le suivant.
@@ -126,7 +126,7 @@ Le nez et les yeux plaideront également non coupables, et c'est la pauvre âme 
 L'âme arrêtée au tribunal de la mort plaide : « Ce sont les sens qui ont égaré le monde entier :
 « Les sens réunis ont jeté l'homme dans la misère comme le forgeron met le fer sur l'enclume. »
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Nanak, celui qui ne rencontre pas le vrai Guru et n'obtient pas la connaissance divine, ne trouvera aucun repos dans ce monde ni dans le suivant.
 L'âme sera remplie soixante-dix fois comme une flèche ;
@@ -147,7 +147,7 @@ Fais de l’honnêteté ton coursier, de la vérité ta selle, de la continence 
 Les cinq vertus[^1] sont tes flèches, et la vérité ton épée et ton bouclier.
 Nanak, les hommes pieux qui ont la vérité dans leur cœur, obtiendront l'honneur à la cour de Dieu.
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Brahma qui est venu au monde en répétant les Védas ne peut pas décrire _Dieu_.
 Qu'est-ce que le pauvre Krishan qui, par ordre de Dieu, est descendu sur terre ?
@@ -167,7 +167,7 @@ L'homme sans foi est impur ; celui qui a le cœur tendre est pur.
 La connaissance est douceur. Les non-avares sont saints, les avares sont impatients.
 L'homme honnête a un visage brillant, l'homme ingrat un visage jaune.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 La vérité est le paradis, le mensonge est l'enfer.
 La douceur est une nourriture.

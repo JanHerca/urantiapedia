@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 2, SECTION 7.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 « Teka et Sasarama et Tûla et Vitûla et le blanc et le rouge. Lâchez-le ! . . . . le brun et le rouge.
 
-« Sur ces deux simples, les sarasyakâs (?) descendent <span id="p220">[<sup><small>p. 220</small></sup>]</span> dans le troisième ciel à partir d'ici. _Kh_at ! Va-t'en. Sîsarama ! Sârameya ! Adoration à toi, Sîsara !
+« Sur ces deux simples, les sarasyakâs (?) descendent <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> dans le troisième ciel à partir d'ici. _Kh_at ! Va-t'en. Sîsarama ! Sârameya ! Adoration à toi, Sîsara !
 
 « Ta mère est appelée le messager ; ton père est le ma<i>nd</i>âkaka (ma<i>nd</i>ûkaka, la grenouille ?). _Kh_at ! Va-t'en, etc.
 

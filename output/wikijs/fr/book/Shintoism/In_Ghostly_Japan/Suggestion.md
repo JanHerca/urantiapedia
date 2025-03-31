@@ -32,13 +32,13 @@ dateCreated: 2025-2-12T22:27:33Z
   </table>
 </figure>
 
-<span id="p197">[<sup><small>p. 197</small></sup>]</span>
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 
 J'ai eu le privilège de le rencontrer à Tokyo, où il effectuait un bref séjour avant de se rendre en Inde. Nous avons fait une longue promenade ensemble et avons discuté des religions orientales, qu'il connaissait infiniment mieux que moi. Tout ce que je pouvais lui dire sur les croyances locales, il le commentait de la manière la plus surprenante, citant d'étranges correspondances dans un culte vivant en Inde, en Birmanie ou à Ceylan. Puis, soudain, il a orienté la conversation dans une direction totalement inattendue.
 
 « J'ai réfléchi », dit-il, « à la constance de la proportion relative des sexes et je me suis demandé si la doctrine bouddhiste en fournissait une explication. Car il me semble que, dans des conditions karmiques ordinaires, la renaissance humaine se déroulerait nécessairement selon une alternance régulière. »
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 « Voulez-vous dire », ai-je demandé, « qu’un homme renaîtrait en tant que femme, et une femme en tant qu’homme ? »
 
@@ -62,7 +62,7 @@ J'ai eu le privilège de le rencontrer à Tokyo, où il effectuait un bref séjo
 
 « René dans l'un des cieux ? » demandai-je, « par la Naissance Apparitionnelle ? »
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 « Pas forcément », dit-il. « Un tel être pourrait renaître dans un monde de désir, comme celui-ci, mais ni seulement comme homme, ni seulement comme femme. »
 
@@ -72,7 +72,7 @@ J'ai eu le privilège de le rencontrer à Tokyo, où il effectuait un bref séjo
 
 « Mais vous savez, » observai-je, « qu'il existe des textes bouddhistes, dans le _Saddharma Pundarîka_, par exemple, et dans les _Vinayas_, — qui interdisent...
 
-« Ces textes, interrompit-il, se réfèrent à des êtres imparfaits – inférieurs à l’homme et à la femme : ils ne sauraient se référer à la condition que j’ai supposée… Mais, rappelez-vous, <span id="p201">[<sup><small>p. 201</small></sup>]</span> je ne prêche pas une doctrine ; j’élabore seulement une théorie. »
+« Ces textes, interrompit-il, se réfèrent à des êtres imparfaits – inférieurs à l’homme et à la femme : ils ne sauraient se référer à la condition que j’ai supposée… Mais, rappelez-vous, <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> je ne prêche pas une doctrine ; j’élabore seulement une théorie. »
 
 « Pourrais-je un jour publier votre théorie ? » ai-je demandé.
 

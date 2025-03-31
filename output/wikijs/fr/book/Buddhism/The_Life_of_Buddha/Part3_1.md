@@ -32,15 +32,15 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 ## TROISIEME PARTIE
 
-<span id="p210">[<sup><small>p. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 ![](/image/book/Buddhism/La_Vie_du_Bouddha/21000.jpg)
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 
 MAHAPRAJAPATI réfléchissait. Elle connaissait la vanité de ce monde. Elle voulait fuir le palais, fuir Kapilavastu, et mener une vie de sainteté.
@@ -81,7 +81,7 @@ Je n'ose entrer en sa présence. Trois fois déjà, il a rejeté ma demande, et 
 
 Il entra dans la salle. Il vit le Maître et lui dit :
 
-« Bienheureuse, Mahaprajapati, notre reine vénérée, se tient devant votre porte. Elle n'ose pas se présenter devant vous ; elle craint que vous ne fassiez à nouveau la sourde oreille à sa supplication. Pourtant, ce n'est pas la supplication d'une femme insensée, Bienheureuse. Cela vous serait-il si cher de l'exaucer ? La reine fut autrefois une mère pour vous ; elle a toujours été bienveillante envers vous ; elle mérite assurément d'être entendue. Pourquoi ne pas <span id="p214">[<sup><small>p. 214</small></sup>]</span> accueillir des femmes dans la communauté ? Il y a des femmes d'une grande piété, des femmes dotées du courage sacré de persévérer dans la voie de la sainteté. »
+« Bienheureuse, Mahaprajapati, notre reine vénérée, se tient devant votre porte. Elle n'ose pas se présenter devant vous ; elle craint que vous ne fassiez à nouveau la sourde oreille à sa supplication. Pourtant, ce n'est pas la supplication d'une femme insensée, Bienheureuse. Cela vous serait-il si cher de l'exaucer ? La reine fut autrefois une mère pour vous ; elle a toujours été bienveillante envers vous ; elle mérite assurément d'être entendue. Pourquoi ne pas <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> accueillir des femmes dans la communauté ? Il y a des femmes d'une grande piété, des femmes dotées du courage sacré de persévérer dans la voie de la sainteté. »
 
 « Ananda, dit le Maître, ne me demande pas de permettre aux femmes d’entrer dans la communauté. »
 

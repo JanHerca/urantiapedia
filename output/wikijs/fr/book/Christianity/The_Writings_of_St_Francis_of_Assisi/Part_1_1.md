@@ -32,15 +32,15 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 **PARTIE I.**
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 **ADMINISTRATIONS, RÈGLES, ETC.**
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 ## I. PAROLES D'ADMONITION DE NOTRE SAINT-PÈRE SAINT FRANÇOIS.
 
@@ -48,11 +48,11 @@ dateCreated: 2025-1-18T19:47:35Z
 
 Sous ce titre, une précieuse série de conseils spirituels sur la vie religieuse nous est parvenue de la plume de saint François. Les premières Légendes ne donnent aucune indication sur l'époque ou les circonstances de la composition de ces Admonitions ; il est également impossible de déterminer par qui elles ont été recueillies. Mais elles concordent si parfaitement avec les œuvres authentiques du saint et sont si imprégnées de son esprit que leur authenticité est admise par tous. [^73] De plus, les différents codex où l'on trouve ces Admonitions sont unanimes à les attribuer à saint François, tandis que le nombre des Admonitions [^74] et l'ordre dans lequel elles sont données dans les différents codex sont presque les mêmes que dans le codex laurentien de Florence, datant du XIIIe siècle.
 
-Français Les codex contenant les Admonitions de saint François se trouvent aux endroits suivants : 1. _Assise_ (Munic. lib. cod. 338, fol. 18) ; 2. _Berlin_ (Royal lib. cod. lat. 196, fol. 101) ; 3. _Florence_ (Laurentian lib. <span id="p4">[<sup><small>p. 4</small></sup>]</span> cod. X. Plut. XIX. dextr., fol. 448) ; 4. _Florence_ (cod. du couvent d'Ognissanti, fol. 5) ; 5. _Saint Floriano_ (monast. lib. cod. XI. 148, fol. 38) ; 6. _Foligno_ (cod. du Conv. des Capucins, fol. 21) ; 7. _Lemberg_ (Univ. lib. cod. 131, fol. 331) ;—8. _Liegnitz_ [^75] (lib. des SS. Pierre et Paul. cod. 12, fol. 131) ;—9. _Luttich_ (Munic. lib. cod. 343, fol. 154) ;—10. _Munich_ (Royal lib. cod. lat. 11354, fol. 25, numéro 1 seulement) ;—11. _Naples_ (Nation. lib. cod. XII. F. 32, folio antepaen. numéros 6-27) ;—12. _Oxford_ [^76] (Bodl. lib. cod. Canon miscell. 525, fol. 93) ;—13. _Paris_ (Nat. lib. cod. 38327, fol. 354);—14, 15. _Paris_ (Mazarin lib. cod. 1743, fol. 134, et cod. 989, fol. 191);—16. _Paris_ (codex à la lib. de la faculté de théologie prot., fol. 86);—17. _Prague_ (Metrop. lib. cod. B. XC., fol. 244);—18. _Rome_ (codex de la Coll. Saint-Antoine [^77] fol. 77) ; — 19, 20. _Rome_ (archiv. du Collège Saint-Isidore, cod. 1/25, fol. 14, et cod. 1/73, fol. 11) ; — 21, 22. _Rome_ (Vatic. lib. cod. 4354, fol. 39, et cod. 7650, fol. 10) ; — 23. _Tolède_ (capit. lib. cod. Cai. 25, no. 11, fol. 65) et — 24. _Volterra_ (Guarnacci lib. cod. 225, fol. 141).
+Français Les codex contenant les Admonitions de saint François se trouvent aux endroits suivants : 1. _Assise_ (Munic. lib. cod. 338, fol. 18) ; 2. _Berlin_ (Royal lib. cod. lat. 196, fol. 101) ; 3. _Florence_ (Laurentian lib. <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> cod. X. Plut. XIX. dextr., fol. 448) ; 4. _Florence_ (cod. du couvent d'Ognissanti, fol. 5) ; 5. _Saint Floriano_ (monast. lib. cod. XI. 148, fol. 38) ; 6. _Foligno_ (cod. du Conv. des Capucins, fol. 21) ; 7. _Lemberg_ (Univ. lib. cod. 131, fol. 331) ;—8. _Liegnitz_ [^75] (lib. des SS. Pierre et Paul. cod. 12, fol. 131) ;—9. _Luttich_ (Munic. lib. cod. 343, fol. 154) ;—10. _Munich_ (Royal lib. cod. lat. 11354, fol. 25, numéro 1 seulement) ;—11. _Naples_ (Nation. lib. cod. XII. F. 32, folio antepaen. numéros 6-27) ;—12. _Oxford_ [^76] (Bodl. lib. cod. Canon miscell. 525, fol. 93) ;—13. _Paris_ (Nat. lib. cod. 38327, fol. 354);—14, 15. _Paris_ (Mazarin lib. cod. 1743, fol. 134, et cod. 989, fol. 191);—16. _Paris_ (codex à la lib. de la faculté de théologie prot., fol. 86);—17. _Prague_ (Metrop. lib. cod. B. XC., fol. 244);—18. _Rome_ (codex de la Coll. Saint-Antoine [^77] fol. 77) ; — 19, 20. _Rome_ (archiv. du Collège Saint-Isidore, cod. 1/25, fol. 14, et cod. 1/73, fol. 11) ; — 21, 22. _Rome_ (Vatic. lib. cod. 4354, fol. 39, et cod. 7650, fol. 10) ; — 23. _Tolède_ (capit. lib. cod. Cai. 25, no. 11, fol. 65) et — 24. _Volterra_ (Guarnacci lib. cod. 225, fol. 141).
 
 Parmi les codex précédents, ceux de la Bibliothèque Laurentienne de Florence datent du XIIIe siècle ; ceux d'Ognissanti, de Florence, d'Assise, de Berlin, de Saint-Floriano, d'Oxford, de Rome (Saint-Antoine, Saint-Isidore et le codex du Vatican 4354), de Tolède et de Volterra datent du XIVe siècle, et les autres du XVe siècle.
 
-Pour l'édition Quaracchi des Admonitions, sur laquelle est basée la présente traduction, les deux plus anciens de tous ces codex, à savoir ceux de la Bibliothèque Laurentienne <span id="p5">[<sup><small>p. 5</small></sup>]</span> à Florence et de la Bibliothèque municipale d'Assise, [^78] ont été utilisés. On a également consulté ceux de Saint-Isidore de Rome et d'Ognissanti de Florence, ainsi que les éditions des Admonitions trouvées dans les Monumenta Ordinis Minorum (Salamanque, 1511, tract. 11, fol. 276 r), les Firmamenta Trium Ordinum [^79] (Paris, 1512, p. I, fol. 19 r) et le Liber Conformitatum de Barthélemy de Pise (Milan, 1510, fruct. XII, p. 11). À l'exception des titres et des paragraphes, qui diffèrent plus ou moins selon les codex, le codex laurentien a été suivi [^80].
+Pour l'édition Quaracchi des Admonitions, sur laquelle est basée la présente traduction, les deux plus anciens de tous ces codex, à savoir ceux de la Bibliothèque Laurentienne <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> à Florence et de la Bibliothèque municipale d'Assise, [^78] ont été utilisés. On a également consulté ceux de Saint-Isidore de Rome et d'Ognissanti de Florence, ainsi que les éditions des Admonitions trouvées dans les Monumenta Ordinis Minorum (Salamanque, 1511, tract. 11, fol. 276 r), les Firmamenta Trium Ordinum [^79] (Paris, 1512, p. I, fol. 19 r) et le Liber Conformitatum de Barthélemy de Pise (Milan, 1510, fruct. XII, p. 11). À l'exception des titres et des paragraphes, qui diffèrent plus ou moins selon les codex, le codex laurentien a été suivi [^80].
 
 Voilà en guise de préface à la
 
@@ -60,11 +60,11 @@ Voilà en guise de préface à la
 
 ### 1\. Du Corps du Seigneur
 
-Le Seigneur Jésus dit à ses disciples : « Je suis le Chemin, la Vérité et la Vie. Nul ne vient au Père que par moi. Si vous m'aviez connu, vous auriez certainement connu aussi mon Père ; et désormais vous le connaîtrez, et vous l'avez vu. » Philippe lui dit : Seigneur, montre-nous le Père, et cela nous suffit. Jésus lui dit : Il y a si longtemps que je suis avec vous, et vous ne m'avez pas connu ? Philippe, celui qui me voit voit aussi mon Père. Comment dis-tu : Montre-nous le Père ? » [^81] Le Père « habite une lumière inaccessible », [^82] et « Dieu est esprit », [^83] et « personne n'a jamais vu Dieu ». [^84] Parce que Dieu est esprit, c'est seulement par l'esprit qu'il peut être vu, car « c'est l'esprit qui vivifie ; la chair ne sert à rien ». [^85] Car le Fils, en tant qu'il est égal au Père, n'est vu par personne d'autre que par le Père, sinon par le Saint-Esprit. C'est pourquoi tous ceux qui ont vu le Seigneur Jésus-Christ selon l'humanité et n'ont pas vu et cru selon l'Esprit et la Divinité, qu'il était le Fils de Dieu, ont été condamnés. De même, tous ceux qui contemplent le sacrement du Corps du Christ, sanctifié par la parole du Seigneur sur l'autel par les mains du prêtre sous forme de pain et de vin, et qui ne voient pas et ne croient pas selon l'Esprit et la Divinité qu'il s'agit réellement du Corps et du Sang très saints de notre Seigneur Jésus-Christ, sont condamnés, Lui le Très-Haut l'ayant déclaré lorsqu'il a dit : « Ceci est mon Corps et le Sang de la Nouvelle Alliance », [^86] et « celui qui mange ma <span id="p7">[<sup><small>p. 7</small></sup>]</span> Chair et boit mon Sang a la vie éternelle. » [^87]
+Le Seigneur Jésus dit à ses disciples : « Je suis le Chemin, la Vérité et la Vie. Nul ne vient au Père que par moi. Si vous m'aviez connu, vous auriez certainement connu aussi mon Père ; et désormais vous le connaîtrez, et vous l'avez vu. » Philippe lui dit : Seigneur, montre-nous le Père, et cela nous suffit. Jésus lui dit : Il y a si longtemps que je suis avec vous, et vous ne m'avez pas connu ? Philippe, celui qui me voit voit aussi mon Père. Comment dis-tu : Montre-nous le Père ? » [^81] Le Père « habite une lumière inaccessible », [^82] et « Dieu est esprit », [^83] et « personne n'a jamais vu Dieu ». [^84] Parce que Dieu est esprit, c'est seulement par l'esprit qu'il peut être vu, car « c'est l'esprit qui vivifie ; la chair ne sert à rien ». [^85] Car le Fils, en tant qu'il est égal au Père, n'est vu par personne d'autre que par le Père, sinon par le Saint-Esprit. C'est pourquoi tous ceux qui ont vu le Seigneur Jésus-Christ selon l'humanité et n'ont pas vu et cru selon l'Esprit et la Divinité, qu'il était le Fils de Dieu, ont été condamnés. De même, tous ceux qui contemplent le sacrement du Corps du Christ, sanctifié par la parole du Seigneur sur l'autel par les mains du prêtre sous forme de pain et de vin, et qui ne voient pas et ne croient pas selon l'Esprit et la Divinité qu'il s'agit réellement du Corps et du Sang très saints de notre Seigneur Jésus-Christ, sont condamnés, Lui le Très-Haut l'ayant déclaré lorsqu'il a dit : « Ceci est mon Corps et le Sang de la Nouvelle Alliance », [^86] et « celui qui mange ma <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> Chair et boit mon Sang a la vie éternelle. » [^87]
 
 Français C'est pourquoi \[celui qui a\] [^88] l'Esprit du Seigneur qui habite dans ses fidèles, c'est lui qui reçoit le très saint Corps et le Sang du Seigneur : tous les autres qui n'ont pas ce même Esprit et qui présument le recevoir, mangent et boivent un jugement contre eux-mêmes. [^89] C'est pourquoi, « Ô fils des hommes, jusqu'à quand aurez-vous le cœur lent ? » [^90] Pourquoi ne voulez-vous pas connaître la vérité et « croire au Fils de Dieu ? » [^91] Voici qu'il s'humilie chaque jour comme lorsque de son « trône royal » [^92] il est venu dans le sein de la Vierge ; chaque jour il vient lui-même à nous avec la même humilité ; chaque jour il descend du sein de son Père sur l'autel dans les mains du prêtre. Et comme il est apparu dans la vraie chair aux saints apôtres, ainsi maintenant il se montre à nous dans le pain sacré ; Et comme eux, par leurs yeux charnels, ne voyaient que sa chair, mais le contemplant avec leurs yeux spirituels, croyaient qu'il était Dieu, ainsi, voyant le pain et le vin avec nos yeux charnels, nous voyons et croyons fermement qu'il s'agit de son Corps très saint et de son Sang véritable et vivant. Et ainsi, notre Seigneur est toujours avec ses fidèles, comme il le dit lui-même : « Voici, je suis avec vous tous les jours, jusqu'à la consommation du monde. » [^93]
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 ### 2\. Le mal de la volonté propre.
 
@@ -78,7 +78,7 @@ Si un supérieur ordonne à un sujet quelque chose qui soit contraire à son âm
 
 ### 4\. Que personne ne s'arroge la supériorité.
 
-« Je ne suis pas venu pour être servi, mais pour servir », dit le Seigneur. [^101] Que ceux qui sont placés au-dessus des autres se glorifient de cette supériorité autant que s’ils avaient été chargés de laver les pieds des frères ; et s’ils sont plus perturbés par la perte de leur supériorité qu’ils ne le seraient par la perte de la fonction de laver les pieds, d’autant plus <span id="p10">[<sup><small>p. 10</small></sup>]</span> ils amassent des trésors au péril de leur propre âme.
+« Je ne suis pas venu pour être servi, mais pour servir », dit le Seigneur. [^101] Que ceux qui sont placés au-dessus des autres se glorifient de cette supériorité autant que s’ils avaient été chargés de laver les pieds des frères ; et s’ils sont plus perturbés par la perte de leur supériorité qu’ils ne le seraient par la perte de la fonction de laver les pieds, d’autant plus <span id="p10"><sup><small>[ p. 10 ]</small></sup></span> ils amassent des trésors au péril de leur propre âme.
 
 ### 5\. Que personne ne se glorifie, sinon de la Croix du Seigneur.
 
@@ -90,7 +90,7 @@ Considérons tous, frères, le Bon Pasteur qui, pour sauver ses brebis, a endur�
 
 ### 7\. Que les bonnes œuvres accompagnent la connaissance.
 
-L'Apôtre dit : « La lettre tue, mais l'esprit vivifie. » [^105] Ceux qui cherchent seulement à connaître les mots pour être estimés plus savants parmi les autres et pour acquérir de grandes richesses à léguer à leurs parents et amis sont tués par la lettre. Et ceux qui ne suivent pas l'esprit des Saintes Écritures, mais cherchent plutôt à connaître seulement les mots et à les interpréter pour les autres, sont vivifiés par l'esprit des Saintes Écritures, ceux qui n'interprètent pas matériellement <span id="p12">[<sup><small>p. 12</small></sup>]</span> chaque texte qu'ils connaissent ou souhaitent connaître, mais qui, par la parole et l'exemple, les rendent à Dieu de qui vient tout bien.
+L'Apôtre dit : « La lettre tue, mais l'esprit vivifie. » [^105] Ceux qui cherchent seulement à connaître les mots pour être estimés plus savants parmi les autres et pour acquérir de grandes richesses à léguer à leurs parents et amis sont tués par la lettre. Et ceux qui ne suivent pas l'esprit des Saintes Écritures, mais cherchent plutôt à connaître seulement les mots et à les interpréter pour les autres, sont vivifiés par l'esprit des Saintes Écritures, ceux qui n'interprètent pas matériellement <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> chaque texte qu'ils connaissent ou souhaitent connaître, mais qui, par la parole et l'exemple, les rendent à Dieu de qui vient tout bien.
 
 ### 8\. D'éviter le péché d'envie.
 
@@ -112,7 +112,7 @@ Pour le serviteur de Dieu, rien ne devrait déplaire, si ce n'est le péché. Et
 
 Ainsi le serviteur de Dieu peut savoir s'il a l'Esprit de Dieu : si, lorsque le Seigneur opère quelque bien par lui, son corps, étant toujours en désaccord avec tout ce qui est bon, ne s'enfle pas pour autant ; mais s'il devient plutôt plus vil à ses propres yeux et s'il s'estime inférieur aux autres hommes. [^112]
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 ### 13\. De la patience.
 
@@ -126,7 +126,7 @@ On ne peut savoir combien de patience et d'humilité intérieures un serviteur d
 
 « Heureux les artisans de paix, car ils seront appelés fils de Dieu. » [^116] Ce sont de véritables artisans de paix qui, au milieu de toutes leurs souffrances dans ce monde, maintiennent la paix dans leur âme et dans leur corps pour l’amour de notre Seigneur Jésus-Christ.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ### 16\. De la pureté du cœur.
 
@@ -144,7 +144,7 @@ Heureux l'homme qui supporte son prochain selon la fragilité de sa nature, auta
 
 Heureux le serviteur qui abandonne tous ses biens au Seigneur Dieu, car celui qui garde quelque chose pour lui-même cache « l’argent de son maître » [^118] et ce « qu’il croit avoir lui sera enlevé » [^119].
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 ### 20\. Des bons et humbles religieux.
 
@@ -156,7 +156,7 @@ Heureux le religieux qui n'éprouve de plaisir ni de joie que dans les conversat
 
 ### 22\. Des religieux frivoles et bavards. [^122]
 
-Heureux le serviteur qui ne parle pas par espoir de récompense, qui ne manifeste pas tout et ne se hâte pas de parler, [^123] mais qui <span id="p17">[<sup><small>p. 17</small></sup>]</span> prévoit sagement ce qu'il doit dire et répondre. Malheur au religieux qui, ne cachant pas dans son cœur les bonnes choses que le Seigneur lui a révélées et ne les manifestant pas aux autres par son œuvre, cherche plutôt, par espoir de récompense, à les faire connaître aux hommes par des paroles : car il reçoit déjà sa récompense et ses auditeurs portent peu de fruit.
+Heureux le serviteur qui ne parle pas par espoir de récompense, qui ne manifeste pas tout et ne se hâte pas de parler, [^123] mais qui <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> prévoit sagement ce qu'il doit dire et répondre. Malheur au religieux qui, ne cachant pas dans son cœur les bonnes choses que le Seigneur lui a révélées et ne les manifestant pas aux autres par son œuvre, cherche plutôt, par espoir de récompense, à les faire connaître aux hommes par des paroles : car il reçoit déjà sa récompense et ses auditeurs portent peu de fruit.
 
 ### 23\. De la vraie correction.
 
@@ -166,7 +166,7 @@ Heureux le serviteur qui supporte la discipline, les accusations et les reproche
 
 Heureux celui qui se montrera aussi humble parmi ses sujets que s'il était parmi ses maîtres. Heureux le serviteur qui demeure toujours sous la verge de la correction. C'est un « serviteur fidèle et sage » [^126] qui ne tarde pas à se punir de toutes ses offenses, intérieurement par la contrition, extérieurement par la confession et par des œuvres de satisfaction.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ### 25\. Du véritable amour.
 
@@ -176,7 +176,7 @@ Heureux le frère qui aime son frère autant lorsqu'il est malade et incapable d
 
 Heureux le serviteur de Dieu qui fait confiance aux clercs qui vivent dans la droiture, selon la forme de la sainte Église romaine. Malheur à ceux qui les méprisent ! Car, même s'ils sont pécheurs, nul ne doit les juger, car le Seigneur lui-même se réserve le droit de les juger. Car, de même que l'administration qui leur est confiée, à savoir le Corps et le Sang très saints de notre Seigneur Jésus-Christ, qu'ils reçoivent et qu'eux seuls administrent aux autres, est plus grande que toute autre, de même le péché de ceux qui les offensent est plus grand que celui de tous les autres hommes de ce monde.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 ### 27\. Des Vertus mettant les Vices en fuite.
 

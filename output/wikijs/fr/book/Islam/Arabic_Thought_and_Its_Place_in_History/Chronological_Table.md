@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T10:51:55Z
   </table>
 </figure>
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 Années depuis la mort du prophète Mahomet jusqu'à la chute de la dynastie Muwahhid en Espagne.
 
@@ -58,7 +58,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 28 | 648 | Sept. | 25
 29 | 649 | „ | 14
 
-<span id="p297">[<sup><small>p. 297</small></sup>]</span>
+<span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -90,7 +90,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 55 | 674 | „ | 6
 56 | 675 | nov. | 25
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -122,7 +122,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 82 | 701 | „ | 15
 83 | 702 | „ | 4
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -154,7 +154,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 109 | 727 | Avr. | 28
 110 | 728 | „ | 16
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -185,7 +185,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 135 | 752 | „ | 18
 136 | 753 | „ | 7 Khalif Al-Mansur.
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -217,7 +217,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 162 | 778 | 28 septembre
 163 | 779 | „ | 17
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -249,7 +249,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 189 | 804 | „ | 8
 190 | 805 | 27 novembre
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -281,7 +281,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 216 | 831 | „ | 18
 217 | 832 | „ | 7 Fondation de Bayt al-Hikma (circ.)
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -312,7 +312,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 242 | 856 | „ | 10
 243 | 857 | Avr. | 30
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -343,7 +343,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 268 | 881 | „ | 1
 269 | 882 | Juillet | 21
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -375,7 +375,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 295 | 907 | „ | 12 Al Muqtadir Khalif.
 296 | 908 | 30 septembre
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -407,7 +407,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 322 | 933 | Déc. | 22 ar-Razi Khalif.
 323 | 934 | „ | 11 al-Mataridi d.
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -439,7 +439,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 349 | 960 | „ | 3
 350 | 961 | Fév. | 20
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -471,7 +471,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 376 | 986 | „ | 13
 377 | 987 | „ | 3
 
-<span id="p310">[<sup><small>p. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -503,7 +503,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 403 | 1012 | Juillet | 23
 404 | 1013 | „ | 13
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -535,7 +535,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 430 | 1038 | „ | 3
 431 | 1039 | 23 septembre
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -568,7 +568,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 457 | 1064 | „ | 13
 458 | 1065 | „ | 3
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -600,7 +600,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 484 | 1091 | Fév. | 23
 485 | 1092 | „ | 12
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -632,7 +632,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 511 | 1117 | „ | 5
 512 | 1118 | Avril | 24 Khalif Al-Mustarshid.
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -664,7 +664,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 538 | 1143 | „ | 16
 539 | 1144 | „ | 4
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -695,7 +695,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 564 | 1168 | „ | 5
 565 | 1169 | 25 septembre |
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -727,7 +727,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 591 | 1194 | „ | 16
 592 | 1195 | „ | 6
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -759,7 +759,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 618 | 1221 | Fév. | 25
 619 | 1222 | „ | 15
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---
@@ -791,7 +791,7 @@ A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 645 | 1247 | „ | 8
 646 | 1248 | Avr. | 26
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 A.H. | A.D. | DÉBUT DE L'ANNÉE MUSULMANE. | PRINCIPAUX ÉVÉNEMENTS.
 --- | --- | :---: | ---

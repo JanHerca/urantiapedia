@@ -32,7 +32,7 @@ dateCreated: 2024-11-25T21:10:31Z
   </table>
 </figure>
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 Les dictons et les proverbes de l'Antiquité et des temps modernes, dans toutes les langues que je connais ou auxquelles j'ai eu accès par des traductions, ont toujours eu pour moi un grand attrait. Tirés de l'expérience et de l'étude de la vie humaine, ils ont été réduits par des hommes sages à des phrases courtes et concises, généralement exprimées sous une forme pittoresque ou frappante, destinées à transmettre de saines vérités morales. Ils sont destinés à être des maximes de vie ou des règles de conduite, principalement destinées aux jeunes, mais peuvent être lus avec plaisir et profit aussi bien aux jeunes qu'aux vieux. C'est dans ce but que les éditeurs de la série _Wisdom of the East_ ont récemment publié un certain nombre de petits livres sur ce sujet, soigneusement <span id="p12">[<sup><small>12</small></sup>]</span> traduits par des spécialistes compétents, et qui ont été très appréciés par la presse et le public anglais. Leur désir principal, cependant, semble être « que ces livres soient les ambassadeurs de la bonne volonté et de la compréhension entre l'Orient et l'Occident », et aussi que « les grands idéaux et la noble philosophie de la pensée orientale puissent aider à une renaissance de ce véritable esprit de charité qui ne méprise ni ne craint les nations d'une autre croyance et d'une autre couleur. » (Voir Note éditoriale.)
 

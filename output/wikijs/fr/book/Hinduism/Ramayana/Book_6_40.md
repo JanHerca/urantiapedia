@@ -43,7 +43,7 @@ Sa chambre dans le palais recherchée.
 Alors, comme l’espoir le plus sûr de tous,
 Le monarque ordonna à ses serviteurs d'appeler
 
-<span id="p451">[<sup><small>p. 451</small></sup>]</span>
+<span id="p451"><sup><small>[ p. 451 ]</small></sup></span>
 
 Vidyujjihva, dont la compétence magique
 Rendu maître des moyens du mal.
@@ -165,7 +165,7 @@ Alors que \*\*\*\* le \*\*\*\*\*\*\*\*\* se prolonge
 Reprenant peu à peu ses esprits et ses forces,
 Sur la chère tête, elle \*\*\*\*\*\*\*\* son œil
 
-<span id="p452">[<sup><small>p. 452</small></sup>]</span>
+<span id="p452"><sup><small>[ p. 452 ]</small></sup></span>
 
 Et il s'écria avec un cri très amer :
 « Ah, quand je vois ta joue froide et morte,
@@ -289,7 +289,7 @@ De vastes armées qui combattent avec un arbre brandi,
 Pour qui, avec un œil qui ne dort jamais,
 Ton Rama veille-t-il constamment ?
 
-<span id="p453">[<sup><small>p. 453</small></sup>]</span>
+<span id="p453"><sup><small>[ p. 453 ]</small></sup></span>
 
 Seigneur du bras et de la poitrine puissants,
 Des premiers et des meilleurs guerriers terrestres,
@@ -412,7 +412,7 @@ Comme Saramá a commencé son histoire :
 « Là se tenait la mère royale : elle
 Elle a supplié son fils de te libérer,
 
-<span id="p454">[<sup><small>p. 454</small></sup>]</span>
+<span id="p454"><sup><small>[ p. 454 ]</small></sup></span>
 
 Et à ses conseils, larmes et prières,
 Les nobles plus âgés ajoutèrent les leurs :
@@ -535,7 +535,7 @@ L'océan avec un pont a traversé.
 Ô Roi géant, libère la dame,
 Et demandez la paix au fils de Raghu.
 
-<span id="p455">[<sup><small>p. 455</small></sup>]</span>
+<span id="p455"><sup><small>[ p. 455 ]</small></sup></span>
 
 
 
@@ -647,7 +647,7 @@ Le roi, entouré d'une armée
 Des géants entraînés à la guerre, dont les mains
 Maniez des masses, des épées et des lances, et tenez-vous debout.
 
-<span id="p456">[<sup><small>p. 456</small></sup>]</span>
+<span id="p456"><sup><small>[ p. 456 ]</small></sup></span>
 
 Tous ceux-ci sont des chefs que Rávan ​​a choisis
 Comme le plus puissant pour résister à ses ennemis ;
@@ -767,7 +767,7 @@ Et, vêtu de fleurs de toutes les couleurs,
 Et son alin doré \* thr \*.
 Il est plus juste de voir la tête de la montagne
 
-<span id="p457">[<sup><small>p. 457</small></sup>]</span>
+<span id="p457"><sup><small>[ p. 457 ]</small></sup></span>
 
 Elle s'étendait sur une longueur de cent lieues.
 Là se trouve la ville de Rávan, solidement située,

@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 TROISIÈME ADHYÂYA.
 
@@ -92,7 +92,7 @@ Ensuite, suivez les réalisations.
 
 « Celles qui, lorsqu'elles sont offertes, s'enflamment ; celles qui, lorsqu'elles sont offertes, font un bruit excessif ; et celles qui, lorsqu'elles sont offertes, s'enfoncent [^389]. »
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 « Qu'est-ce qu'il y gagne ? »
 
@@ -118,7 +118,7 @@ Ensuite, suivez les réalisations.
 
 « Le Puronuvâkyâ est le Prânâ (respiration ascendante), le Yâgyâ l'Apânâ (respiration descendante), le Sasyâ le Vyâna (respiration arrière). »
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 « Qu'est-ce qu'il y gagne ? »
 
@@ -163,7 +163,7 @@ Après cela, Asvala garda le silence.
 
 « Le nom », répondit-il ; « car le nom est sans fin, les Visvedevas sont sans fin, et par lui il obtient le monde sans fin. »
 
-13\. 'Yâ<i>g</i>_ñ_avalkya', dit-il, 'quand la parole de cette personne décédée entre dans le feu [^395], le souffle dans l'air, l'œil dans le soleil, l'esprit dans la lune, l'ouïe dans l'espace, dans la terre dans le corps, dans l'éther dans le soi, dans les arbustes dans les poils du corps, dans les arbres dans les poils de la tête, quand le <span id="p127">[<sup><small>p. 127</small></sup>]</span> sang et la semence sont déposés dans l'eau, où est alors cette personne ?'
+13\. 'Yâ<i>g</i>_ñ_avalkya', dit-il, 'quand la parole de cette personne décédée entre dans le feu [^395], le souffle dans l'air, l'œil dans le soleil, l'esprit dans la lune, l'ouïe dans l'espace, dans la terre dans le corps, dans l'éther dans le soi, dans les arbustes dans les poils du corps, dans les arbres dans les poils de la tête, quand le <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> sang et la semence sont déposés dans l'eau, où est alors cette personne ?'
 
 Yâ<i>g</i>_ñ_avalkya dit : « Prends ma main, mon ami. Nous deux seuls le saurons ; que cette question ne soit pas discutée en public. » Alors ces deux-là sortirent et discutèrent, et ce qu'ils disaient était karman (travail), ce qu'ils louaient était karman [^396], à savoir qu'un homme devient bon par une bonne action, et mauvais par une mauvaise action. Après cela, <i>G</i>âratkârava Ârtabhâga garda le silence.
 
@@ -176,7 +176,7 @@ Yâ<i>g</i>_ñ_avalkya dit : « Prends ma main, mon ami. Nous deux seuls le saur
 
 Il dit : « Et où vont ceux qui ont sacrifié un cheval ? »
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Yâgñavalkya répondit : « Ce monde a trente-deux voyages du char du soleil. La terre l'entoure de tous côtés, deux fois plus grande, et l'océan entoure cette terre de tous côtés, deux fois plus grande. Or, il y a entre eux un espace aussi grand que le fil d'un rasoir ou l'aile d'un moustique. Indra, devenu oiseau, les remit (à travers l'espace) à Vâyu (l'air), et Vâyu (l'air), les gardant en lui, les transporta là où demeurent ceux qui ont accompli le sacrifice d'un cheval. C'est un peu ainsi qu'il loua Vâyu. Par conséquent, Vâyu (l'air) est tout en lui-même, et Vâyu est toutes choses ensemble. Celui qui sait cela, conquiert la mort. » Après cela, Bhugyu Lâhyâyani garda le silence.
 
@@ -208,7 +208,7 @@ Yâ<i>g</i>_ñ_avalkya répondit : « Ceci, ton Soi, qui est en tout. »
 
 « Quel Soi, ô Yâgñavalkya, est en tout ? »
 
-Yâ<i>g</i>_ñ_avalkya répondit : « Celui qui surmonte la faim et la soif, le chagrin, la passion, la vieillesse et la mort. Lorsque les Brâhma<i>n</i>as connaissent ce Soi et se sont élevés au-dessus du désir de fils [^404], de richesse et de (nouveaux) mondes [^405], ils errent comme des mendiants. Car un désir de fils est un désir de richesse, un désir de richesse est un désir de mondes. Ces deux désirs sont en effet des désirs. Par conséquent, qu'un Brâhma<i>n</i>a, après avoir terminé son apprentissage, <span id="p130">[<sup><small>p. 130</small></sup>]</span> souhaite se tenir par une force réelle [^406] ; après avoir terminé avec cette force et cet apprentissage, il devient un Muni (un Yogin) ; et après avoir fait avec ce qui n'est pas la connaissance d'un Muni, et avec ce qui est la connaissance d'un Muni, il est un Brâhma<i>n</i>a. Par quelque moyen qu'il soit devenu un Brâhma<i>n</i>a, il l'est vraiment [^407]. Tout le reste est mauvais.' Après cela, Kahola Kaushîtakeya garda le silence.
+Yâ<i>g</i>_ñ_avalkya répondit : « Celui qui surmonte la faim et la soif, le chagrin, la passion, la vieillesse et la mort. Lorsque les Brâhma<i>n</i>as connaissent ce Soi et se sont élevés au-dessus du désir de fils [^404], de richesse et de (nouveaux) mondes [^405], ils errent comme des mendiants. Car un désir de fils est un désir de richesse, un désir de richesse est un désir de mondes. Ces deux désirs sont en effet des désirs. Par conséquent, qu'un Brâhma<i>n</i>a, après avoir terminé son apprentissage, <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> souhaite se tenir par une force réelle [^406] ; après avoir terminé avec cette force et cet apprentissage, il devient un Muni (un Yogin) ; et après avoir fait avec ce qui n'est pas la connaissance d'un Muni, et avec ce qui est la connaissance d'un Muni, il est un Brâhma<i>n</i>a. Par quelque moyen qu'il soit devenu un Brâhma<i>n</i>a, il l'est vraiment [^407]. Tout le reste est mauvais.' Après cela, Kahola Kaushîtakeya garda le silence.
 
 
 ## SIXIÈME BRÂHMA<i>N</i>A [^408].
@@ -225,7 +225,7 @@ Yâ<i>g</i>_ñ_avalkya répondit : « Celui qui surmonte la faim et la soif, le 
 
 « Dans les mondes des Gandharvas, ô Gârgî », répondit-il.
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 « Dans quoi donc sont tissés les mondes des Gandharvas, comme la chaîne et la trame ? »
 
@@ -260,7 +260,7 @@ Yâ<i>g</i>_ñ_avalkya répondit : « Celui qui surmonte la faim et la soif, le 
 Yâ<i>g</i>_ñ_avalkya dit : « Ô Gârgî, n'en demande pas trop, de peur que ta tête ne tombe. Tu en demandes trop au sujet d'une divinité à propos de laquelle nous ne devons pas trop en demander [^409]. N'en demande pas trop, ô Gârgî. » Après cela, Gargî Vâ<i>k</i>aknavî garda le silence.
 
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 ## SEPTIÈME BRÂHMA<i>N</i>A [^410].
 
@@ -268,7 +268,7 @@ Yâ<i>g</i>_ñ_avalkya dit : « Ô Gârgî, n'en demande pas trop, de peur que t
 
 Yâ<i>g</i>_ñ_avalkya dit : « Ô Gautama, je crois connaître ce fil et celui qui le tire à l'intérieur. »
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 L'autre dit : « N'importe qui peut dire : Je sais, je sais. Dis ce que tu sais. »
 
@@ -345,13 +345,13 @@ Yâ<i>g</i>_ñ_avalkya dit [^417] : « Demande, ô Gârgî. »
 
 Gârgî dit : « Dans quoi donc l'éther est-il tissé, comme chaîne et trame ? »
 
-8\. Il dit : « Ô Gârgî, les Brâhmanes appellent cela l'Akshara (l'impérissable). Il n'est ni grossier ni fin, ni court ni long, ni rouge (comme le feu) ni fluide (comme l'eau) ; il est sans ombre, sans obscurité, sans air, sans éther, sans <span id="p138">[<sup><small>p. 138</small></sup>]</span> attachement [^418], sans goût, sans odeur, sans yeux, sans oreilles, sans parole, sans esprit, sans lumière (vigueur), sans souffle, sans bouche (ou porte), sans mesure, n'ayant ni dedans ni dehors, il ne dévore rien, et personne ne le dévore. »
+8\. Il dit : « Ô Gârgî, les Brâhmanes appellent cela l'Akshara (l'impérissable). Il n'est ni grossier ni fin, ni court ni long, ni rouge (comme le feu) ni fluide (comme l'eau) ; il est sans ombre, sans obscurité, sans air, sans éther, sans <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> attachement [^418], sans goût, sans odeur, sans yeux, sans oreilles, sans parole, sans esprit, sans lumière (vigueur), sans souffle, sans bouche (ou porte), sans mesure, n'ayant ni dedans ni dehors, il ne dévore rien, et personne ne le dévore. »
 
 9\. « Par l'ordre de cet Akshara (l'impérissable), ô Gârgî, le soleil et la lune se distinguent [^419]. Par l'ordre de cet Akshara, ô Gârgî, le ciel et la terre se distinguent. Par l'ordre de cet Akshara, ô Gârgî, ce qu'on appelle les moments (nimesha), les heures (muhûrta), les jours et les nuits, les demi-mois, les mois, les saisons, les années, tout se distingue. Par l'ordre de cet Akshara, ô Gârgî, certaines rivières coulent vers l'est depuis les montagnes blanches, d'autres vers l'ouest, ou vers n'importe quelle autre région. Par l'ordre de cet Akshara, ô Gârgî, les hommes louent ceux qui donnent, les dieux suivent le sacrificateur, les pères l'offrande de Darvî. »
 
 10\. « Quiconque, ô Gârgî, sans connaître Akshara (l'impérissable), offre des oblations en ce monde, sacrifie et accomplit des pénitences pendant mille ans, son œuvre aura une fin. Quiconque, ô Gargî, sans connaître cet Akshara, quitte ce monde, il est misérable (comme un esclave) [^420]. Mais celui, ô Gârgî, qui quitte ce monde, connaissant cet Akshara, est un Brâhmane. »
 
-11\. « Ce Brahman, ô Gârgî, est invisible, mais il voit ; inaudible, mais il entend ; inaperçu, mais il perçoit ; inconnu, mais il sait. Il n'y a rien <span id="p139">[<sup><small>p. 139</small></sup>]</span> qui voie que lui, rien qui entend que lui, rien qui perçoive que lui, rien qui sache que lui. Dans cet Akshara donc, ô Gârgî, l'éther est tissé, comme une chaîne et une trame. »
+11\. « Ce Brahman, ô Gârgî, est invisible, mais il voit ; inaudible, mais il entend ; inaperçu, mais il perçoit ; inconnu, mais il sait. Il n'y a rien <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> qui voie que lui, rien qui entend que lui, rien qui perçoive que lui, rien qui sache que lui. Dans cet Akshara donc, ô Gârgî, l'éther est tissé, comme une chaîne et une trame. »
 
 12\. Alors Gargî dit : « Vénérables Brahmanes, vous pouvez considérer comme une grande chose que vous vous en tiriez en vous inclinant devant lui. Personne, je crois, ne le vaincra dans aucun débat concernant Brahman. » Après cela, Vâka<i>k</i>navî garda le silence.
 
@@ -364,7 +364,7 @@ Gârgî dit : « Dans quoi donc l'éther est-il tissé, comme chaîne et trame ?
 
 « Trente-trois », dit-il.
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 « Oui », dit-il, et il demanda à nouveau : « Combien y a-t-il réellement de dieux, ô Yâgñavalkya ? »
 
@@ -396,7 +396,7 @@ Yâgñavalkya répondit : « Les huit Vasus, les onze Rudras, les douze Âdityas
 
 3\. Il demanda : « Qui sont les Vasus ? »
 
-Yâ<i>g</i>_ñ_avalkya répondit : « Agni (le feu), P<i>ri</i>thivî (la terre), Vâyu (l'air), Antariksha (le ciel), Âditya (le soleil), Dyu (le ciel), <i>K</i>andramas (la lune), les Nakshatras (les étoiles), ce sont les Vasus, car en eux repose tout ce qui habite (ce monde) [^427] ; et c'est pourquoi ils sont appelés Vasus. » <span id="p141">[<sup><small>p. 141</small></sup>]</span> 4\. Il demanda : « Qui sont les Rudras ? »
+Yâ<i>g</i>_ñ_avalkya répondit : « Agni (le feu), P<i>ri</i>thivî (la terre), Vâyu (l'air), Antariksha (le ciel), Âditya (le soleil), Dyu (le ciel), <i>K</i>andramas (la lune), les Nakshatras (les étoiles), ce sont les Vasus, car en eux repose tout ce qui habite (ce monde) [^427] ; et c'est pourquoi ils sont appelés Vasus. » <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> 4\. Il demanda : « Qui sont les Rudras ? »
 
 Yâ<i>g</i>_ñ_avalkya répondit : « Ces dix souffles vitaux (prâ<i>n</i>as, les sens, c'est-à-dire les cinq <i>g</i>_ñ_ânendriyas, et les cinq karmendriyas), et Âtman [^428], comme onzième. Lorsqu'ils quittent ce corps mortel, ils nous font pleurer (rodayanti), et parce qu'ils nous font pleurer, on les appelle Rudras. »
 
@@ -422,7 +422,7 @@ Yâ<i>g</i>_ñ_avalkya répondit : « Agni (le feu), P<i>ri</i>thivî (la terre)
 
 8\. Il demanda : « Qui sont les trois dieux ? »
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya répondit : « Ces trois mondes, car en eux existent tous ces dieux. »
 
@@ -440,7 +440,7 @@ Il a demandé : « Qui est le dieu unique ? »
 
 Yâ<i>g</i>_ñ_avalkya répondit : « Souffle (prâ<i>n</i>a), et il est Brahman (le Sûtrâtman), et ils l'appellent Cela (tyad). »
 
-10\. <i>S</i>âkalya dit [^431] : « Quiconque connaît cette personne (ou ce dieu) dont la demeure (le corps) est la terre, dont la vue (le monde) est le feu [^432], dont l'esprit est la lumière, — le principe <span id="p143">[<sup><small>p. 143</small></sup>]</span> de chaque être (vivant), celui-là est vraiment un enseignant, ô Yâ<i>g</i>_ñ_avalkya. »
+10\. <i>S</i>âkalya dit [^431] : « Quiconque connaît cette personne (ou ce dieu) dont la demeure (le corps) est la terre, dont la vue (le monde) est le feu [^432], dont l'esprit est la lumière, — le principe <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> de chaque être (vivant), celui-là est vraiment un enseignant, ô Yâ<i>g</i>_ñ_avalkya. »
 
 Yâ<i>g</i>_ñ_avalkya dit : « Je connais cette personne, le principe de chaque soi, dont tu parles. Cette personne corporelle (matérielle, terrestre), « c'est lui ». Mais dis-moi [^433], <i>S</i>âkalya, qui est sa devatâ [^434] (déité) ? »
 
@@ -458,7 +458,7 @@ Yâ<i>g</i>_ñ_avalkya répondit : « Je connais cette personne, le principe de 
 
 <i>S</i>âkalya répondit : « Le Vrai [^437]. »
 
-13\. <i>S</i>âkalya dit : « Quiconque connaît cette personne <span id="p144">[<sup><small>p. 144</small></sup>]</span> dont la demeure est l'éther, dont la vue est l'oreille, dont l'esprit est la lumière, — le principe de chaque soi, celui-là est vraiment un enseignant, ô Yâ<i>g</i>_ñ_avalkya. »
+13\. <i>S</i>âkalya dit : « Quiconque connaît cette personne <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> dont la demeure est l'éther, dont la vue est l'oreille, dont l'esprit est la lumière, — le principe de chaque soi, celui-là est vraiment un enseignant, ô Yâ<i>g</i>_ñ_avalkya. »
 
 Yâ<i>g</i>_ñ_avalkya répondit : « Je connais cette personne, le principe de chaque soi, dont tu parles. La personne qui entend [^438] et répond : « C'est lui. » Mais dis-moi, <i>S</i>âkalya, qui est son devatâ ? »
 
@@ -478,7 +478,7 @@ Yâ<i>g</i>_ñ_avalkya répondit : « Je connais cette personne, le principe de 
 
 16\. <i>S</i>âkalya dit : « Quiconque connaît l'homme dont la demeure est l'eau, dont la vue est le cœur, dont l'esprit est la lumière, — le principe de chaque soi, celui-là est vraiment un enseignant, ô Yâ<i>g</i>_ñ_avalkya. »
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya répondit : « Je connais cette personne, le principe de chaque soi, dont tu parles. La personne dans l'eau, « c'est lui ». Mais dis-moi, <i>S</i>âkalya, qui est sa devatâ ? »
 
@@ -496,7 +496,7 @@ Yâ<i>g</i>_ñ_avalkya répondit : « Je connais cette personne, le principe de 
 
 19\. Yâ<i>g</i>_ñ_avalkya dit : « Je connais les quartiers avec leurs divinités et leurs demeures. »
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 <i>S</i>âkalya dit : « Si tu connais les quartiers avec leurs divinités et leurs demeures,
 
@@ -538,7 +538,7 @@ Yâ<i>g</i>_ñ_avalkya a dit : « Dans la Sraddhâ (foi), car si un homme croit,
 
 Yâ<i>g</i>_ñ_avalkya a dit : « Dans le cœur, car par le cœur la foi connaît, et donc la foi demeure dans le cœur. »
 
-<i>S</i>âkalya dit : « C'est bien ainsi, ô Yâ<i>g</i>_ñ_avalkya. » <span id="p147">[<sup><small>p. 147</small></sup>]</span> 22\. <i>S</i>âkalya dit : « Quelle est ta divinité dans le quartier occidental ? »
+<i>S</i>âkalya dit : « C'est bien ainsi, ô Yâ<i>g</i>_ñ_avalkya. » <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> 22\. <i>S</i>âkalya dit : « Quelle est ta divinité dans le quartier occidental ? »
 
 Yâ<i>g</i>_ñ_avalkya dit : « Varuna. »
 
@@ -576,7 +576,7 @@ Yâ<i>g</i>_ñ_avalkya dit : « Dans le cœur, car avec le cœur nous savons ce 
 
 24\. <i>S</i>âkalya dit : « Quelle est ta divinité au zénith ? »
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Yag_ñ_avalkya a dit : « Agni. »
 
@@ -610,7 +610,7 @@ Yâ<i>g</i>_ñ_avalkya a dit : « Dans l'Udâna (l'expiration) [^448]. »
 
 <i>S</i>âkalya dit : « En quoi réside l'Udâna ? »
 
-Yâ<i>g</i>_ñ_avalkya dit : « Dans le Samâna [^449]. Ce Soi <span id="p149">[<sup><small>p. 149</small></sup>]</span> (âtman) doit être décrit par Non, non [^450] ! Il est incompréhensible, car il ne peut être (n'est pas) compris ; il est impérissable, car il ne peut périr ; il est détaché, car il ne s'attache pas ; libre, il ne souffre pas, il ne faillit pas. »
+Yâ<i>g</i>_ñ_avalkya dit : « Dans le Samâna [^449]. Ce Soi <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> (âtman) doit être décrit par Non, non [^450] ! Il est incompréhensible, car il ne peut être (n'est pas) compris ; il est impérissable, car il ne peut périr ; il est détaché, car il ne s'attache pas ; libre, il ne souffre pas, il ne faillit pas. »
 
 « Ce sont les huit demeures (la terre, etc.), les huit mondes (le feu, etc.), les huit dieux (la nourriture immortelle, etc.), les huit personnes (le corporel, etc.). Celui qui, après avoir divisé et uni ces personnes [^451], est allé au-delà (du Samâna), cette personne, a enseigné dans les Upanishads, je te demande maintenant (de me l'enseigner). Si tu ne me l'expliques pas, ta tête tombera. »
 
@@ -636,7 +636,7 @@ Mais ces Brâhmanes n'osèrent rien dire.
 
 7\. « Une fois né, il ne naît pas (de nouveau) ; car qui le créerait de nouveau [^457] ? »
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 « Brahman, qui est connaissance et félicité, est le principe, à la fois pour celui qui donne des dons [^458], et aussi pour celui qui reste ferme et sait. »
 

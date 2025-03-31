@@ -36,7 +36,7 @@ Cette carte est destinée à représenter approximativement l'aspect des princip
 
 Afin d'appliquer le tableau à un but pratique, il est conseillé au lecteur de découper une feuille de papier (du carton est préférable) dont le bord supérieur épouse exactement la ligne courbe ABOCD, et de tracer, près du bas du papier, une ligne coïncidant avec « la ligne horaire » sur le tableau.
 
-Français Ceci étant fait, si l'on se demande quel sera l'aspect du ciel lorsque le Soleil se couchera à l'équinoxe de printemps, le lecteur devra déplacer la ligne au bas du carton le long de la « ligne horaire » horizontale de la carte jusqu'à ce que la position du Soleil dans l'écliptique à l'équinoxe de printemps O touche juste le sommet incurvé du papier ; alors toutes les étoiles non masquées sont au-dessus de l'horizon au moment de ce coucher de soleil, à savoir. dans ce cas Aldébaran, Sirius, Spica, etc. ; les Pléiades viennent de se coucher, Régulus et α Hydræ sont très proches du méridien, β Centauri est sur le point de se lever, et α Serpentis est bien au-dessus de l'horizon. Cela correspond exactement à l'état du ciel que Yâo, (supposé dans les archives chinoises avoir prospéré vers 2300 av. J.-C.), a indiqué à ses astronomes (Hsî et Ho) serait le cas, à savoir. qu'il trouverait l'étoile (ou la <span id="p28">[<sup><small>p. 28</small></sup>]</span> division stellaire) Shun Hwo (correspondant, dit-on, à α Hydræ) culminant au moment du coucher du soleil à l'équinoxe de printemps [^21].
+Français Ceci étant fait, si l'on se demande quel sera l'aspect du ciel lorsque le Soleil se couchera à l'équinoxe de printemps, le lecteur devra déplacer la ligne au bas du carton le long de la « ligne horaire » horizontale de la carte jusqu'à ce que la position du Soleil dans l'écliptique à l'équinoxe de printemps O touche juste le sommet incurvé du papier ; alors toutes les étoiles non masquées sont au-dessus de l'horizon au moment de ce coucher de soleil, à savoir. dans ce cas Aldébaran, Sirius, Spica, etc. ; les Pléiades viennent de se coucher, Régulus et α Hydræ sont très proches du méridien, β Centauri est sur le point de se lever, et α Serpentis est bien au-dessus de l'horizon. Cela correspond exactement à l'état du ciel que Yâo, (supposé dans les archives chinoises avoir prospéré vers 2300 av. J.-C.), a indiqué à ses astronomes (Hsî et Ho) serait le cas, à savoir. qu'il trouverait l'étoile (ou la <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> division stellaire) Shun Hwo (correspondant, dit-on, à α Hydræ) culminant au moment du coucher du soleil à l'équinoxe de printemps [^21].
 
 De nouveau, s'il est nécessaire de trouver quelle constellation culmine au moment du coucher du Soleil au solstice d'été, le carton doit être déplacé, comme précédemment, vers la droite jusqu'à ce que la position du Soleil au solstice d'été, à savoir G, touche juste la courbe de l'horizon, alors on verra que α Serpentis et Antarès culminent alors, Régulus et β Centauri se couchent, tandis que les constellations de l'Aigle et du Verseau se lèvent ; Véga est un objet visible au-dessus de l'horizon oriental. Cela correspond encore aux indications données par Yâo à ses astronomes, à savoir qu'ils trouveraient la constellation du Scorpion culminant à ce moment-là.
 
@@ -48,7 +48,7 @@ Le lecteur peut aisément tirer de nombreuses autres applications intéressantes
 
 Le tableau suivant a été calculé pour les positions apparentes des principales étoiles dans les années 2300 av. J.-C., 1500 av. J.-C., 1 et 1000 apr. J.-C. ; sauf dans un cas, il confirmera un calcul similaire fait par Biot pour la plus ancienne de ces dates.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Nom de l'étoile. | Pour | l'année | av. J.-C. | 2300. | Pour | l'année | av. J.-C. | 1500. | Pour | l'année | apr. J.-C. | 1. | Pour | l'année | apr. J.-C. | 1000. | Pour | l'année | apr. J.-C. | 1872.
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Antarès | 12 | 24 | 0 | 98 | 16,5 | 13 | 6 | 50 | 102 | 37,4 | 14 | 30 | 11 | 1
 Fomalhaut | 18 | 16 | 30 | 134 | 54.0 | 19 | 15 | 43 | 133 | 57.8 | 20 | 58 | 57 | 129 | 17.4 | 22 | 1 | 5 | 124 | 46.9 | 22 | 50 | 34 | 120 | 16.1 
 α Pégase | 19 | 24 | 1 | 92 | 34,4 | 20 | 6 | 35 | 90 | 33,5 | 21 | 24 | 14 | 84 | 49,4 | 22 | 15 | 19 | 80 | 2.6 | 22 | 58 | 41 | 75 | 27.0
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 [![Carte des principales étoiles, principalement zodiacales, pour l'époque 2300 av. J.-C.](tn/03000.jpg)
 Cliquez pour agrandir](/image/book/Confucianism/The_Shu_King/03000.jpg)

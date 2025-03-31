@@ -52,7 +52,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. L'Avadâna pour la première divinité (est pris) du milieu (du Sthâlîpâka) ;
 
-10\. On l'offre au centre (du feu). <span id="p265">[<sup><small>p. 265</small></sup>]</span>
+10\. On l'offre au centre (du feu). <span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 11\. (L'Avadâna) pour la deuxième (déité est prise) de la partie nord (du Sthâlîpâka) ;
 
@@ -70,7 +70,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 18\. Certains disent qu’un récipient plein (de grain) est le don sacrificiel.
 
-19\. [^746] À partir de ce moment-là, il devra offrir matin et soir de sa main ces deux oblations (à Agni et à Agni Svish<i>t</i>ak<i>t</i>t) de grains (de riz) ou d'orge. <span id="p266">[<sup><small>p. 266</small></sup>]</span>
+19\. [^746] À partir de ce moment-là, il devra offrir matin et soir de sa main ces deux oblations (à Agni et à Agni Svish<i>t</i>ak<i>t</i>t) de grains (de riz) ou d'orge. <span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 20\. Les divinités sont les mêmes que celles du Sthâlîpâka (qui vient d'être décrit).
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## PA<i>T</i>ALA 3, SECTION 8.
 
-1\. [^752] Lors des cérémonies d'ouverture et de conclusion de l'étude védique, le <i>Ri</i>shi qui est indiqué (comme le <span id="p267">[<sup><small>p. 267</small></sup>]</span> <i>Ri</i>shi du Kâ<i>nd</i>a qu'ils étudient, est la divinité à laquelle appartient la cérémonie),
+1\. [^752] Lors des cérémonies d'ouverture et de conclusion de l'étude védique, le <i>Ri</i>shi qui est indiqué (comme le <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> <i>Ri</i>shi du Kâ<i>nd</i>a qu'ils étudient, est la divinité à laquelle appartient la cérémonie),
 
 2\. Et en second lieu Sadasaspati (cf. Mantrap. I, 9, 8).
 
@@ -132,7 +132,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. Celui (par exemple, le père de l'épouse) qui souhaite que les cœurs des deux (mari et femme) soient en accord doit observer la chasteté pendant au moins trois nuits et préparer un Sthâlîpâka. Puis (les cérémonies) sont accomplies, depuis le dépôt du bois sur (le feu) jusqu'aux oblations Â<i>n</i>yabhâga ; et tandis que l'épouse le saisit, il sacrifie du Sthâlîpâka les oblations (indiquées par le) suivant (Mantras ; M. I, 14, 1-7) ; puis il entreprend l'accomplissement du <i>G</i>aya et des oblations suivantes, et accomplit (les rites) jusqu'à l'aspersion (d'eau) autour (du feu). (Les restes de) la (nourriture sacrificielle) avec du beurre, il les donnera à manger à un nombre pair de Brâhmanes, au moins à deux, et il leur fera formuler des vœux pour son succès.
 
-5\. [^754] Lorsque la lune, le jour suivant, sera en conjonction avec Tishya, elle répandra trois fois sept grains d'orge autour de la plante Clypea Hernandifolia avec la formule suivante : « Si tu appartiens à Varu<i>n</i>a, je te rachète de Varu<i>n</i>a. Si tu appartiens à Soma, je te rachète de Soma. » <span id="p270">[<sup><small>p. 270</small></sup>]</span>
+5\. [^754] Lorsque la lune, le jour suivant, sera en conjonction avec Tishya, elle répandra trois fois sept grains d'orge autour de la plante Clypea Hernandifolia avec la formule suivante : « Si tu appartiens à Varu<i>n</i>a, je te rachète de Varu<i>n</i>a. Si tu appartiens à Soma, je te rachète de Soma. » <span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 6\. Le jour suivant, elle redressera (la plante) avec le verset suivant (M. I, 15, 1), récitera les trois versets suivants (M. I, 15, 2-4) dessus, attachera (sa racine) avec le verset suivant (M. I, 15, 5) à ses mains afin que (son mari) ne la voie pas, et, lorsqu'ils seront couchés, elle embrassera son mari dans ses bras, le verset faisant allusion au mot upadhâna ('revêtir' ; M. I, 15, 6).
 

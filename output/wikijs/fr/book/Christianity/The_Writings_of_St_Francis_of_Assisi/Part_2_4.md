@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 ## IV. AUX DIRIGEANTS DU PEUPLE.
 

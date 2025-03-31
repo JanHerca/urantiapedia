@@ -43,7 +43,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 5\. « Une personne remplit-elle de l'eau pour son propre usage et pour sa purification ? » « Elle remplit d'abord pour elle-même et l'attache à l'épaulette ; puis elle remplit pour sa purification. » « Et si elle remplit d'abord cette eau pour sa purification, puis pour elle-même ? » « C'est interdit. » Elle doit mettre son eau personnelle derrière elle et l'eau de purification devant elle. « Et si elle met l'eau de purification derrière elle ? » « C'est interdit. » « Les deux sont de l'eau de purification. Il en met une devant et l'autre derrière ? » « C'est autorisé, car autrement ce n'est pas possible. »
 
-6\. « Si quelqu'un porte une corde à la main ? » [^637] « S'il va dans le chemin (droit), c'est permis. » « S'il s'écarte de son chemin ? » « C'est interdit. » On alla à Jabneh [^638] pendant <span id="p312">[<sup><small>p. 312</small></sup>]</span> trois fêtes, à ce sujet, et lors de la troisième fête, cela lui fut permis comme décision pour le moment.
+6\. « Si quelqu'un porte une corde à la main ? » [^637] « S'il va dans le chemin (droit), c'est permis. » « S'il s'écarte de son chemin ? » « C'est interdit. » On alla à Jabneh [^638] pendant <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> trois fêtes, à ce sujet, et lors de la troisième fête, cela lui fut permis comme décision pour le moment.
 
 7\. « Si quelqu'un enroulait la corde autour de sa main ? » « C'est permis ; mais s'il l'enroulait après (avoir puisé l'eau), c'est interdit. » R. José dit : « Ils autorisèrent cet acte comme décision provisoire. »
 
@@ -55,7 +55,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 11\. « Deux personnes ont puisé de l'eau pour se purifier, et chacune s'est aidée, ou chacune a pris une épine de l'autre ? » « Pour une purification, c'est permis, pour deux purifications, c'est interdit. » R. José a dit : « Même pour deux purifications, c'est permis, si c'est une condition entre elles. »
 
-12\. « Celui qui a cassé (quelque chose) en puisant de l'eau pour la purification dans le but de la préparer ensuite ? » « L'eau est permise. » « Mais s'il l'a préparée ? » « L'eau est interdite. » [^639] « Il a mangé dans le but de sécher <span id="p313">[<sup><small>p. 313</small></sup>]</span> le reste de sa nourriture ? » « L'eau est permise. » « Mais s'il l'a séchée ? » « L'eau est interdite. » « Il a mangé et en a laissé, et il a jeté ce qui restait dans sa main sous un figuier, ou dans le lieu de séchage, afin qu'il ne se perde pas ? » « L'eau est interdite. »
+12\. « Celui qui a cassé (quelque chose) en puisant de l'eau pour la purification dans le but de la préparer ensuite ? » « L'eau est permise. » « Mais s'il l'a préparée ? » « L'eau est interdite. » [^639] « Il a mangé dans le but de sécher <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> le reste de sa nourriture ? » « L'eau est permise. » « Mais s'il l'a séchée ? » « L'eau est interdite. » « Il a mangé et en a laissé, et il a jeté ce qui restait dans sa main sous un figuier, ou dans le lieu de séchage, afin qu'il ne se perde pas ? » « L'eau est interdite. »
 
 
 

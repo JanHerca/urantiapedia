@@ -49,7 +49,7 @@ Le Seigneur est un arbre fruitier dont le nom est ambroisie.
 Ceux qui y ont participé sont rassasiés ; je suis pour eux un sacrifice.
 Pourquoi ne m'apparais-tu pas, Seigneur, puisque tu demeures avec tous ?
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 Comment ma soif va-t-elle s'apaiser quand il y a un écran entre le Tank[^1]et moi ?
 Nanak est ton marchand ; toi, ô Seigneur, tu es son capital.
@@ -71,7 +71,7 @@ Le contentement est la ceinture. Ton nom, _ô Seigneur_, est la richesse et la j
 Mère, une autre tenue apporte un bonheur ruineux
 En le portant, le corps souffre et le péché entre dans l’esprit.
 
-À ce moment-là, son père Kalu avait entendu parler de l'arrivée de Nanak et partit à cheval à sa rencontre. Nanak <span id="p98">[<sup><small>p. 98</small></sup>]</span> s'inclina devant lui et tomba à ses pieds. Pendant ce temps, Kalu continuait de pleurer de joie. Il demanda à son fils de monter sur le cheval sur lequel il était venu et de rentrer chez lui avec lui. Nanak répondit qu'il n'avait pas besoin de cheval, puis il chanta :
+À ce moment-là, son père Kalu avait entendu parler de l'arrivée de Nanak et partit à cheval à sa rencontre. Nanak <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> s'inclina devant lui et tomba à ses pieds. Pendant ce temps, Kalu continuait de pleurer de joie. Il demanda à son fils de monter sur le cheval sur lequel il était venu et de rentrer chez lui avec lui. Nanak répondit qu'il n'avait pas besoin de cheval, puis il chanta :
 
 Connaître ta voie, ô Dieu, c'est comme des chevaux avec des selles d'or.
 Poursuivre la vertu, c'est comme utiliser des carquois, des flèches, des arcs, des lances et des ceintures d'épée.
@@ -92,7 +92,7 @@ Kalu dit encore : « Mon fils, dis-moi ce qui t'offense. Si tu le désires, je t
 Celui qui a créé le monde veille sur lui et assigne à ses créatures leurs divers devoirs.
 Tes dons, Seigneur, sont comme une lumière pour l'esprit, comme la lune et les lampes pour le corps.
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 Tes dons sont comme la lune et les lampes pour le corps, par lesquelles la douleur des ténèbres est dissipée.
 Le cortège nuptial des attributs qui accompagnent l'Époux qui a choisi son épouse, apparaît magnifique.
@@ -114,7 +114,7 @@ S'Il oublie, allez vous plaindre à Lui ; mais pourquoi le Créateur Lui-même o
 Il entend, voit, donne ses dons sans demander ni prier.
 Le Donateur, l'Arrangeur du monde donne Ses dons, Nanak, et Il est vrai.
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 Quand il agit lui-même, à qui devrions-nous nous plaindre ? Personne d'autre n'agit.[^1]
 
@@ -133,7 +133,7 @@ Par le bon destin, les hommes rencontrent Dieu et jouissent même des plaisirs
 dans cette vie.
 Par le mauvais destin, ceux qui se rencontrent se séparent, ô Nanak, mais malgré cela, ils se rencontrent à nouveau _par la faveur de Dieu_.[^3]
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Kalu, trouvant ses arguments vains, fit appel à son fils pour sa santé et sa sécurité, et lui fit remarquer qu'il s'en fichait. Voici la réponse du gourou :
 

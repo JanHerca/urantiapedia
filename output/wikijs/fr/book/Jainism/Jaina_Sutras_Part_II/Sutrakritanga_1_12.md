@@ -44,7 +44,7 @@ Sans percevoir la vérité, ils disent : cet objet (à savoir Môksha) est réal
 
 Ils se trouvent en contradiction avec leurs propres affirmations ; ils hésitent dans leur discours et sont incapables de répéter ce qu'on leur dit [^935]. Leur opinion a une contre-opinion courageuse, notre opinion n'a pas de contre-opinion courageuse ; et Karman a six sources [^936]. (5)
 
-Les Akriyâvâdins qui ne comprennent pas la vérité, avancent diverses opinions ; beaucoup d'hommes <span id="p317">[<sup><small>p. 317</small></sup>]</span> croyant en elles tourbillonneront dans le Cercle sans fin des Naissances. (6)
+Les Akriyâvâdins qui ne comprennent pas la vérité, avancent diverses opinions ; beaucoup d'hommes <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> croyant en elles tourbillonneront dans le Cercle sans fin des Naissances. (6)
 
 « Il n'y a ni lever ni coucher de soleil ; ni lune ni croissant ni décroissant ; ni rivières ni vents ni vents ; le monde entier est considéré comme irréel [^937]. » (7)
 
@@ -56,7 +56,7 @@ Beaucoup d'hommes dans ce monde qui ont étudié l'astrologie, l'art d'interpré
 
 Les (Kriyâvâdins) Sramanas et Brâhmans, comprenant le monde (selon leurs lumières), parlent ainsi : la misère est produite par nos propres actions, et non par celles d’autrui (à savoir, le destin, le créateur, etc.) [^940]. Mais la connaissance et la conduite justes mènent à la libération. (11)
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 Les (Tîrthakaras), étant (pour ainsi dire) les yeux du monde et ses dirigeants, enseignent le chemin qui est salutaire aux hommes ; ils ont déclaré que le monde est éternel dans la mesure où les créatures y vivent (à jamais), ô vous les hommes ! (12)
 
@@ -68,7 +68,7 @@ Les pécheurs ne peuvent anéantir leurs œuvres par de nouvelles œuvres ; les 
 
 Ils connaissent les voies passées, présentes et futures du monde ; ils sont les chefs des autres hommes, mais ne suivent aucun chef ; ils sont éveillés et mettent fin à l'existence mondaine. (16)
 
-Peu enclins à nuire aux êtres vivants, ils n'agissent pas et ne font pas agir les autres. Se maîtrisant toujours, <span id="p319">[<sup><small>p. 319</small></sup>]</span> ces hommes pieux pratiquent le contrôle, et certains deviennent des héros grâce à leur savoir. (17) Il considère les êtres petits et les êtres grands, le monde entier comme son égal ; il comprend l'immensité du monde, et, éveillé, il se domine parmi les insouciants. (18)
+Peu enclins à nuire aux êtres vivants, ils n'agissent pas et ne font pas agir les autres. Se maîtrisant toujours, <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> ces hommes pieux pratiquent le contrôle, et certains deviennent des héros grâce à leur savoir. (17) Il considère les êtres petits et les êtres grands, le monde entier comme son égal ; il comprend l'immensité du monde, et, éveillé, il se domine parmi les insouciants. (18)
 
 Ceux qui ont appris (la vérité) par eux-mêmes ou par d'autres sont capables (de se sauver) eux-mêmes et d'autres. Il faut toujours honorer un homme qui est comme une lumière et qui manifeste la Loi après l'avoir bien considérée. (19)
 

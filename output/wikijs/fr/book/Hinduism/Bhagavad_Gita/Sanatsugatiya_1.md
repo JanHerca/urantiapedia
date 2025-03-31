@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:0:42Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Dh<i>ri</i>tarâsh<i>t</i>ra a dit :
 
@@ -46,7 +46,7 @@ Dh<i>ri</i>tarâsh<i>t</i>ra a dit :
 
 Quoi, n'en sais-tu pas davantage toi-même sur ce sujet, pour que Sanâtana me l'explique ? Explique-le toi-même, ô Vidura ! s'il te reste encore un reste d'intelligence.
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 Vidura a dit :
 

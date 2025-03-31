@@ -62,7 +62,7 @@ _Voir Plan à la fin du Volume_.
 
 5\. Les deux portes du sud étaient appelées les portes de Hulda. _g gg g_, Où les Lévites veillaient.
 
-6\. L'assemblée du petit Sanhédrin à la porte de la <span id="p368">[<sup><small>p. 368</small></sup>]</span> Porte de l'Est, et là étaient assis trois rangées, chacune contenant vingt-trois hommes, _h hh h_, Boutiques dans la Cour des Gentils. Matthieu xxi. 12.
+6\. L'assemblée du petit Sanhédrin à la porte de la <span id="p368"><sup><small>[ p. 368 ]</small></sup></span> Porte de l'Est, et là étaient assis trois rangées, chacune contenant vingt-trois hommes, _h hh h_, Boutiques dans la Cour des Gentils. Matthieu xxi. 12.
 
 7\. Un mur d'environ dix mains de haut tout autour de la cour, percé de treize ouvertures comme si elles faisaient face à treize portes. _i iii i_, Dalles (Josèphe, _Antiquités_, xv. xi. 5) sur lesquelles était gravée l'interdiction faite aux étrangers d'entrer dans le temple (Actes xxi. 29). L'une de ces « pierres d'avertissement » a été découverte à Jérusalem en 1871. Un fac-similé (à échelle réduite) est désormais inclus dans ce volume, avec l'aimable autorisation du Comité du Fonds d'exploration de la Palestine. Sa traduction est la suivante : « Aucun étranger n'est autorisé à franchir la balustrade qui entoure le temple et son enceinte. S'il est découvert, le contrevenant en subira les conséquences et sera condamné à mort. »
 
@@ -82,7 +82,7 @@ FAC-SIMILÉ D'UNE INSCRIPTION GRECQUE SUR L'UNE DES « PIERRES D'AVERTISSEMENT �
 
 (_Découvert à Jérusalem_, 1873.)
 
-PAGE 368 <span id="p369">[<sup><small>p. 369</small></sup>]</span> 12\. La chambre des Nazaréens. Là, ils faisaient bouillir leurs sacrifices de paix et brûlaient leurs cheveux sous la chaudière.
+PAGE 368 <span id="p369"><sup><small>[ p. 369 ]</small></sup></span> 12\. La chambre des Nazaréens. Là, ils faisaient bouillir leurs sacrifices de paix et brûlaient leurs cheveux sous la chaudière.
 
 13\. La chambre des lépreux, où ils se rasaient les cheveux.
 
@@ -130,7 +130,7 @@ PAGE 368 <span id="p369">[<sup><small>p. 369</small></sup>]</span> 12\. La chamb
 
 35\. Douze marches montaient de l'autel au portique, sur un espace de vingt-deux coudées. De l'autel, vers l'ouest et jusqu'au côté est des marches, il y avait du terrain plat sur deux coudées. De là montaient trois marches, chacune d'une demi-coudée de hauteur et d'une coudée de largeur. Et au-dessus d'elles se trouvait une marche, haute d'une demi-coudée de hauteur et large de trois coudées, appelée Piazza (estrade). Au-dessus se trouvaient deux marches, hautes d'une demi-coudée de hauteur et larges de trois coudées. Cette place était également appelée Piazza. Et plus haut se trouvaient quatre marches, hautes d'une demi-coudée de hauteur et larges d'une coudée. Et plus haut encore, il y avait une marche, haute d'une demi-coudée de hauteur et large de quatre coudées. Cette place était également appelée Piazza. Nous constatons maintenant que le sol de l'entrée du portique était plus élevé de six coudées que celui de l'autel. _l l_, Jakin et Boaz – deux colonnes à l'entrée du portique.
 
-36\. Le porche de la maison : sa longueur du nord au sud était de soixante-dix coudées, et sa largeur d’est en ouest de onze coudées. À son entrée se trouvaient (_m m_) deux tables, l’une de marbre et l’autre d’argent. Les prêtres y déposaient les pains de proposition à leur entrée et à leur sortie. <span id="p371">[<sup><small>p. 371</small></sup>]</span> 37\. L’entrée du porche n’avait pas de portes, il n’y avait qu’un voile. Sa largeur était de vingt coudées et sa hauteur de quarante coudées. L’épaisseur du mur était de cinq coudées. Au-dessus se trouvaient cinq poutres ouvragées, superposées, pour l’ornement. On les appelait « soliveaux ».
+36\. Le porche de la maison : sa longueur du nord au sud était de soixante-dix coudées, et sa largeur d’est en ouest de onze coudées. À son entrée se trouvaient (_m m_) deux tables, l’une de marbre et l’autre d’argent. Les prêtres y déposaient les pains de proposition à leur entrée et à leur sortie. <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> 37\. L’entrée du porche n’avait pas de portes, il n’y avait qu’un voile. Sa largeur était de vingt coudées et sa hauteur de quarante coudées. L’épaisseur du mur était de cinq coudées. Au-dessus se trouvaient cinq poutres ouvragées, superposées, pour l’ornement. On les appelait « soliveaux ».
 
 38\. Deux chambres s'ouvrent sur le porche, au nord et au sud. C'est là que les couteaux brisés étaient rangés. Chaque chambre avait une petite porte à barreaux dans un coin de la cour. La mesure de chacune de ces chambres, du nord au sud, était de quinze coudées, et leur largeur était égale à celle du porche. La longueur totale du porche était de cent coudées.
 

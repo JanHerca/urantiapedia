@@ -54,7 +54,7 @@ Certains disent que l'âme (de celui qui est) pure sera libérée du mauvais Kar
 
 Un homme sage devrait considérer que ces (hérétiques) ne mènent pas une vie de chasteté, et que tous ces disputeurs proclament leur propre credo en opposition (aux autres). (13)
 
-(D'autres [^712] soutiennent que) la perfection ne peut être atteinte que par leur méthode de vie religieuse, et non autrement ; et que même avant (ce moment-là) ils ont <span id="p246">[<sup><small>p. 246</small></sup>]</span> leurs sens sous contrôle et possèdent tout ce qu'on peut souhaiter [^713]. (14)
+(D'autres [^712] soutiennent que) la perfection ne peut être atteinte que par leur méthode de vie religieuse, et non autrement ; et que même avant (ce moment-là) ils ont <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> leurs sens sous contrôle et possèdent tout ce qu'on peut souhaiter [^713]. (14)
 
 Certains disent qu’ils seront parfaits et sains.
 

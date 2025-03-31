@@ -42,7 +42,7 @@ Mes vœux ont été faits à quelqu'un comme la pleine lune, ressemblant aux bra
 
 Mais je suis seul et solitaire, même si une fois nous nous sommes rencontrés, et ici, maintenant qu'ils sont partis, il ne reste que le hibou et le corbeau !
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 O arbres de tamaris, où sont-ils passés ? Ils sont partis, et dans mon cœur la passion a laissé une flamme ardente !
 
@@ -58,7 +58,7 @@ Le roi ne fut pas peu surpris d'entendre son grave et savant frère se référer
 
 « De retour chez moi et ayant rejoint ma famille, j’envoyai un esclave pour me conduire ma femme et j’envoyai avec lui une grande quantité de chameaux et de moutons dans cette vallée et ce désert. Je les attendis avec anxiété jusqu’à ce que mon esclave revînt désespéré et rapporta tous mes biens. Je lui demandai ce qui se passait. « Je n’y ai vu personne, mon seigneur », dit-il. Je restai quelque temps tranquille et envoyai des émissaires à toutes les tribus arabes et dépensai auprès d’elles beaucoup d’or et d’argent, mais je n’ai jamais pu obtenir de nouvelles d’elle. Et même maintenant, mon frère, je la garde dans ma mémoire. C’est à cause d’elle que je me suis attaché à la Mecque et au sanctuaire sacré, jusqu’à ce que je revois aujourd’hui ces souvenirs d’elle, et maintenant toutes mes tristesses me reviennent ; et tandis que je méditais sur le passé, j’étais impatient que tu viennes avec moi à cet endroit, afin que je puisse renouveler les vœux faits il y a tant d’années. »
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 Asyed ayant ainsi terminé le récit de sa pathétique histoire, le roi fit étendre des tapis par les esclaves sous les tamaris, et, les chasseurs revenant bientôt avec une abondance de lièvres et de cerfs, un somptueux festin fut rapidement préparé. Ils passèrent la nuit au même endroit, mais au point du jour, ils furent surpris et faits prisonniers par une troupe de cavaliers de Cahtan, conduite par un jeune chef nommé Nazih, qui revenait triomphalement dans sa propre tribu avec ses distingués captifs, lorsqu'il fut rencontré par Antar. Le noble champion d'Abs assaillit impétueusement Nazih et le désarçonna. Shiboob le lia solidement, puis se hâta de libérer le roi et son frère. Antar proposa de mettre à mort Nazih et ses compagnons ; et, se mettant à dépouiller le jeune chef des vêtements, il découvrit à son poignet un bracelet de cornaline sur lequel étaient gravées les images de Lat et d'Uzza. Asyed reconnaît le bijou comme étant identique à celui qu'il avait offert à sa fiancée dans la Vallée des Tamaris : il interroge le jeune chef sur sa filiation et découvre en Nazih son propre fils. Asyed a finalement la chance de retrouver sa fiancée depuis longtemps perdue.
 

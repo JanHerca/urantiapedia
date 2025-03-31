@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 QUINZIÈME CONFÉRENCE, DITE LES YAMAKAS [^961].
 
@@ -44,7 +44,7 @@ Sur tel ou tel (article du credo), il a l'opinion correcte ; c'est pourquoi il e
 
 Ne soyez pas hostile envers vos semblables : telle est la Loi de celui qui est riche en contrôle ; celui qui est riche en contrôle renonce à tout, et dans ce monde médite sur les réflexions sur la vie [^962]. (4)
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 Celui dont l’âme est purifiée par la méditation sur ces réflexions est comparé à un navire sur l’eau ; comme un navire atteignant le rivage, il se libère de la misère. (5)
 

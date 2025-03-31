@@ -55,7 +55,7 @@ Dans lequel le Créateur est loué[^2], cela rejaillira sur ta gloire.
 Comme il y a un seul soleil et plusieurs saisons,
 Dans lequel il y a des wisas, des chasas, des gharis, des pahars, des jours lunaires et hebdomadaires, et des mois ;
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 Ainsi, ô Nanak, il n’y a qu’un seul Dieu, bien que Ses formes soient multiples.
 
@@ -82,7 +82,7 @@ Prosterne-toi devant lui : c’est un acte hautement religieux.
 L'infidèle ne connaît pas le goût de l'essence de Dieu ; il porte l'épine de l'orgueil dans son cœur.
 Plus il bouge, plus il est piqué, plus il ressent de douleur : sa tête sentira la masse de la mort.
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 Les saints de Dieu sont absorbés dans le nom de Dieu et ont détruit la douleur et la peur de la transmigration.
 Ils ont trouvé Dieu, l'Être impérissable, et un grand honneur leur est dû sur les continents de la terre et dans l'univers.
@@ -101,7 +101,7 @@ Tu trouveras un foyer avec confort et paix dans le palais de Dieu, et tu ne reto
 Ô Dieu, sondeur des cœurs, arrangeur,[^3] exauce les désirs de mon cœur.
 L'esclave Nanak aspire au bonheur d'être réduit à la poussière des pieds des saints.
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

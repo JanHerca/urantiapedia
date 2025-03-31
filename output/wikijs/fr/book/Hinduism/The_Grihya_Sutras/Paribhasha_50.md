@@ -78,7 +78,7 @@ La règle du sacrifice sont les Mantras et les Brâhma<i>n</i>as.
 
 ## SŒUR XXXI.
 
-Le nom Veda appartient à la fois aux Mantras et aux Brâhma<i>n</i>as. <span id="p324">[<sup><small>p. 324</small></sup>]</span>
+Le nom Veda appartient à la fois aux Mantras et aux Brâhma<i>n</i>as. <span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 <span id="an32"></span>
 
@@ -114,7 +114,7 @@ Mais les passages qui ne sont pas transmis ne doivent pas être classés comme d
 
 **Commentaire.**
 
-La raison pour laquelle de tels passages ne doivent pas être traités comme des Mantras est qu'ils ne doivent pas être soumis à certaines des règles précédentes, comme par exemple le murmure, prescrit dans le Sûtra IX. Ces passages varient naturellement à chaque sacrifice. En ce qui concerne les noms, une distinction est faite <span id="p325">[<sup><small>p. 325</small></sup>]</span> entre le gârhyam nâma, le nom familier d'une personne, tel que Ya<i>g</i><i>g</i>a<i>g</i>arman, et le nom astrologique, tel que Rauhi<i>g</i>a, dérivé de l'étoile Rohi<i>g</i>î.
+La raison pour laquelle de tels passages ne doivent pas être traités comme des Mantras est qu'ils ne doivent pas être soumis à certaines des règles précédentes, comme par exemple le murmure, prescrit dans le Sûtra IX. Ces passages varient naturellement à chaque sacrifice. En ce qui concerne les noms, une distinction est faite <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> entre le gârhyam nâma, le nom familier d'une personne, tel que Ya<i>g</i><i>g</i>a<i>g</i>arman, et le nom astrologique, tel que Rauhi<i>g</i>a, dérivé de l'étoile Rohi<i>g</i>î.
 
 <span id="an36"></span>
 
@@ -156,7 +156,7 @@ Si l'on dit que le prêtre coupe les plantes avec quatorze versets, cela signifi
 
 ## SŒUR XXXIX.
 
-Ceci s'applique également aux actes sacrificiels qui ont un nombre et doivent être exécutés par des actes séparés (répétés). <span id="p326">[<sup><small>p. 326</small></sup>]</span>
+Ceci s'applique également aux actes sacrificiels qui ont un nombre et doivent être exécutés par des actes séparés (répétés). <span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 <span id="an39c"></span>
 
@@ -230,7 +230,7 @@ Ainsi, nous lisons : « Il prend l'Abhri, la houe, avec quatre Mantras. »
 
 ## SÛTRA XLV.
 
-Il faut faire coïncider le début d'un acte sacrificiel avec la fin des Mantras. <span id="p328">[<sup><small>p. 328</small></sup>]</span>
+Il faut faire coïncider le début d'un acte sacrificiel avec la fin des Mantras. <span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 <span id="an45c"></span>
 
@@ -272,7 +272,7 @@ Dans le cas des mantras Hotrâ et Yâ<i>g</i>amâna, une agrégation a lieu.
 
 **Commentaire.**
 
-Les Hotrâs sont des mantras récités par le prêtre Hot_ri_\. Les Yâ<i>g</i>amânâs sont des mantras récités par le sacrificateur lui-même. Ce sont des hymnes qui accompagnent, sans toutefois prescrire, un acte sacrificiel. <span id="p329">[<sup><small>p. 329</small></sup>]</span>
+Les Hotrâs sont des mantras récités par le prêtre Hot_ri_\. Les Yâ<i>g</i>amânâs sont des mantras récités par le sacrificateur lui-même. Ce sont des hymnes qui accompagnent, sans toutefois prescrire, un acte sacrificiel. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 <span id="an50"></span>
 

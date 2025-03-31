@@ -42,7 +42,7 @@ Mogheerah, l'arrière-grand-père du poète Omar, avait réuni par un mariage ri
 
 La mère d'Omar était une femme arabe de Hadramaout, une province toujours célèbre pour sa beauté féminine. Il naquit le jour même où son homonyme, le calife Omar, fut assassiné par l'esclave persan fanatique Firooz (23 a.H., 643 ap. J.-C.). Abd-Allah eut un second fils, appelé Hirth, de son autre femme, une Abyssinienne. Hirth, un métis musulman austère, passa sa vie dans le gouvernement, tandis qu'Omar oisif et chantait des chansons d'amour, et s'attirait des ennuis à cause de ses amours, dont son frère avait souvent la pénible tâche de le tirer.
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 « Une année », dit M. Palgrave, sur l’autorité du meilleur biographe du poète, Aboo-l-Faraj, « le jour même de la grande fête annuelle, alors que les pèlerins, rassemblés de tous les quartiers du monde musulman à La Mecque, étaient engagés dans l’exécution du soir de leur rite traditionnel solennel, marchant sept fois en prière autour de la Ka’abeh sacrée, Zeynab, une jeune fille de noble naissance, se trouvait présente au milieu de la foule des fidèles, de laquelle, cependant, elle se distinguait facilement par sa beauté surpassant et les robes gaies de ses nombreux assistants. Ce qui suivit ensuite, 'Omar peut le mieux le réciter à sa propre mode et dans son propre mètre, que nous avons autant que possible préservé dans la traduction ; bien que la rime, qui si elle avait été rendue aurait nécessité une divergence trop fréquente du style et de l’imagerie originaux, ait été omise :
 

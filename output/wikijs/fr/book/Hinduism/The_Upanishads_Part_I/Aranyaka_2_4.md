@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 QUATRIÈME ADHYÂYA.
 
@@ -52,7 +52,7 @@ Adoration au Soi Supérieur. Hari, Om !
 
 3\. Ambhas (eau), Marî<i>k</i>i (lumière), Mara (mortel) et Ap (eau).
 
-4\. Que l'Ambhas (l'eau) est au-dessus du ciel, et c'est le ciel, le support. Les Marî<i>k</i>is (les lumières) sont le ciel. Le Mara (le mortel) est la terre, et les eaux sous la terre sont le monde Ap [^585]. (2) <span id="p238">[<sup><small>p. 238</small></sup>]</span> 5\. Il pensa : « Il y a ces mondes ; dois-je envoyer des gardiens de ces mondes ? »
+4\. Que l'Ambhas (l'eau) est au-dessus du ciel, et c'est le ciel, le support. Les Marî<i>k</i>is (les lumières) sont le ciel. Le Mara (le mortel) est la terre, et les eaux sous la terre sont le monde Ap [^585]. (2) <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> 5\. Il pensa : « Il y a ces mondes ; dois-je envoyer des gardiens de ces mondes ? »
 
 Il forma alors le Purusha (la personne) [^586], le sortant de l'eau [^587]. (3)
 
@@ -70,7 +70,7 @@ Le cœur a éclaté. Du cœur a jailli l'esprit, de l'esprit <i>K</i>andramas (l
 
 Le nombril jaillit. Du nombril procéda l'Apâna (le souffle descendant) [^592], de l'Apâna la mort.
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 L'organe génital jaillit. De l'organe jaillit la semence, et de la semence l'eau. (4)
 
@@ -88,7 +88,7 @@ Il conduisit l'homme [^595] vers eux. Alors ils dirent : « C'est bien [^596], v
 
 3\. Il leur dit : « Entrez, chacun selon sa place. » (3)
 
-4\. Alors Agni (le feu), devenu parole, entra dans la bouche. Vâyu (l'air), devenu parfum, pénétra dans les narines. Âditya (le soleil), devenu vue, pénétra dans les yeux. Les régions (Di<i>s</i>), devenues ouïe, pénétrèrent dans les oreilles. Les arbustes et les arbres, devenus poils, pénétrèrent dans la peau. <i>K</i>andramas (la lune), devenu esprit, pénétra <span id="p240">[<sup><small>p. 240</small></sup>]</span> dans le cœur. La mort, devenue respiration descendante, pénétra dans le nombril. Les eaux, devenues semence, pénétrèrent dans l'organe génital. (4)
+4\. Alors Agni (le feu), devenu parole, entra dans la bouche. Vâyu (l'air), devenu parfum, pénétra dans les narines. Âditya (le soleil), devenu vue, pénétra dans les yeux. Les régions (Di<i>s</i>), devenues ouïe, pénétrèrent dans les oreilles. Les arbustes et les arbres, devenus poils, pénétrèrent dans la peau. <i>K</i>andramas (la lune), devenu esprit, pénétra <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> dans le cœur. La mort, devenue respiration descendante, pénétra dans le nombril. Les eaux, devenues semence, pénétrèrent dans l'organe génital. (4)
 
 5. Alors la Faim et la Soif lui dirent : « Accorde-nous deux une place. » Il leur dit : « Je vous assigne à ces mêmes divinités, je fais de vous leurs co-partenaires. » Ainsi, quelle que soit la divinité à laquelle on offre une oblation, la faim et la soif y sont co-partenaires. (5)
 
@@ -120,7 +120,7 @@ Il a essayé de l'attraper par la respiration descendante (la respiration qui ai
 
 5\. Et puis il pensa : « Par quel chemin vais-je y arriver [^602] ? »
 
-6\. Et puis il pensa : « Si la parole nomme, si l'odeur sent, si l'œil voit, si l'oreille entend, si la peau sent, si l'esprit pense, si l'haleine digère, si l'organe émet, alors que suis-je ? » (11) <span id="p242">[<sup><small>p. 242</small></sup>]</span> 7\. Puis, ouvrant la suture du crâne, il entra par cette porte.
+6\. Et puis il pensa : « Si la parole nomme, si l'odeur sent, si l'œil voit, si l'oreille entend, si la peau sent, si l'esprit pense, si l'haleine digère, si l'organe émet, alors que suis-je ? » (11) <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> 7\. Puis, ouvrant la suture du crâne, il entra par cette porte.
 
 8\. Cette porte s'appelle la Vid<i>ri</i>ti (déchirure), la Nândana (le lieu de la félicité).
 

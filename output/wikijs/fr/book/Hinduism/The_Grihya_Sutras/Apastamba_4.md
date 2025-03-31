@@ -38,7 +38,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. Qu'il initie un Brâhmane dans la huitième année après la conception,
 
-3\. Un Râ<i>g</i>anya dans la onzième année, un Vai<i>g</i>ya dans la douzième année après la conception. <span id="p271">[<sup><small>p. 271</small></sup>]</span>
+3\. Un Râ<i>g</i>anya dans la onzième année, un Vai<i>g</i>ya dans la douzième année après la conception. <span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 4\. Printemps, été, automne : ce sont les saisons (propres) (à l'Upanayana), correspondant à l'ordre des castes.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. Vers le sud, sa mère ou une Brahma<i>k</i>ârin jette des grains d'orge sur une motte de crottin de taureau ; avec cette (crottin) elle attrape les cheveux (qui sont coupés), et les dépose avec le suivant (verset ; M. II, 1, 8) à la racine d'un arbre Udumbara ou dans une touffe d'herbe Darbha.
 
-9\. [^757] Après que (le garçon) se soit baigné, et que (les cérémonies) depuis le fait de mettre (du bois) sur (le feu) jusqu'aux oblations d'Â<i>s</i>yabhâga (aient été accomplies), il lui fait mettre un morceau de bois de Palâ<i>s</i>a sur le <span id="p272">[<sup><small>p. 272</small></sup>]</span> feu avec le verset suivant (M. II, 2, 1), et le fait marcher avec son pied droit sur une pierre au nord du feu, avec (le verset), 'Marche' (M. II, 2, 2).
+9\. [^757] Après que (le garçon) se soit baigné, et que (les cérémonies) depuis le fait de mettre (du bois) sur (le feu) jusqu'aux oblations d'Â<i>s</i>yabhâga (aient été accomplies), il lui fait mettre un morceau de bois de Palâ<i>s</i>a sur le <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> feu avec le verset suivant (M. II, 2, 1), et le fait marcher avec son pied droit sur une pierre au nord du feu, avec (le verset), 'Marche' (M. II, 2, 2).
 
 10\. Ayant récité les deux suivants (verset ; M. II. 2, 3. 4) sur un vêtement qui a été filé et tissé un jour, et l'a fait, avec les trois suivants (verset ; M. II. 2, 5-7), revêtir, il récite sur lui, après l'avoir revêtu, le suivant (verset ; M. II, 2, 8).
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## PA<i>T</i>ALA 4, SECTION 11.
 
-1\. Le garçon dit : « Je suis venu pour être étudiant » (II, 3, 26). <span id="p273">[<sup><small>p. 273</small></sup>]</span>
+1\. Le garçon dit : « Je suis venu pour être étudiant » (II, 3, 26). <span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 2\. L'autre (c'est-à-dire le professeur) doit demander ; le garçon doit répondre (II, 3, 27-30).
 
@@ -88,7 +88,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 12\. De la même manière (le premier et le deuxième Vyâh<i>ri</i>ti au début ou à la fin) des hémistiches ; le dernier (Vyâh<i>ri</i>ti, lorsqu'il répète) le verset entier.
 
-13\. Avec le mantra suivant (M. II, 4, 14), le garçon touche sa lèvre supérieure ; <span id="p274">[<sup><small>p. 274</small></sup>]</span>
+13\. Avec le mantra suivant (M. II, 4, 14), le garçon touche sa lèvre supérieure ; <span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 14\. Avec le suivant (II, 4, 15) ses deux oreilles ;
 
@@ -112,7 +112,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 24\. Aller chercher régulièrement du combustible dans la forêt.
 
-25\. Avec la formule suivante (M. II, 6, 14), le professeur instruit (l'élève dans ses devoirs). <span id="p275">[<sup><small>p. 275</small></sup>]</span>
+25\. Avec la formule suivante (M. II, 6, 14), le professeur instruit (l'élève dans ses devoirs). <span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 26\. [^762] Le quatrième jour (après l'Upanayana, le maître) prend le vêtement (de l'étudiant) pour lui avec le suivant (verset ; M. II, 6, 15), après lui avoir fait mettre un autre (vêtement).
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 ## XX. TRAITÉ TANITH, OU DU JEÛNE.
 

@@ -32,13 +32,13 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ## ADHYÂYA II, KHA<i>ND</i>A 1.
 
 1\. [^119]. Dans la huitième année après la conception, qu'il initie un Brâhmane,
 
-2\. Avec une peau d'antilope, <span id="p59">[<sup><small>p. 59</small></sup>]</span>
+2\. Avec une peau d'antilope, <span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 3\. Ou dans la dixième année après la conception.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. Jusqu'au vingt-quatrième pour un Vai<i>s</i>ya.
 
-9\. [^120]. Après cela (le temps passé), ils deviennent des patitasâvitrîka (des hommes ayant perdu leur droit d'apprendre le Sâvitrî). <span id="p60">[<sup><small>p. 60</small></sup>]</span>
+9\. [^120]. Après cela (le temps passé), ils deviennent des patitasâvitrîka (des hommes ayant perdu leur droit d'apprendre le Sâvitrî). <span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 10\. Qu'ils n'initient pas de tels hommes,
 
@@ -86,7 +86,7 @@ Et portant une ceinture.
 
 24\. Ou toutes (sortes de bâtons doivent être utilisées) par (les hommes de) toutes (castes).
 
-25\. Tout ce que l'élève porte lors de son initiation est à la disposition du professeur. <span id="p61">[<sup><small>p. 61</small></sup>]</span>
+25\. Tout ce que l'élève porte lors de son initiation est à la disposition du professeur. <span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 26 [^123]. Après l'avoir fait raser de tous côtés (la tête), il doit l'initier.
 
@@ -100,7 +100,7 @@ Et portant une ceinture.
 
 ## CHAPITRE 2.
 
-1\. « Voici venue à nous, nous protégeant des mauvaises paroles, purifiant notre famille comme un purificateur, revêtant, par (le pouvoir de) l'inspiration et de l'expiration, de force, cette déesse amicale, cette ceinture bénie » — avec ces mots, répétés trois fois, il noue la ceinture de gauche à droite trois fois. <span id="p62">[<sup><small>p. 62</small></sup>]</span>
+1\. « Voici venue à nous, nous protégeant des mauvaises paroles, purifiant notre famille comme un purificateur, revêtant, par (le pouvoir de) l'inspiration et de l'expiration, de force, cette déesse amicale, cette ceinture bénie » — avec ces mots, répétés trois fois, il noue la ceinture de gauche à droite trois fois. <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 2 [^126]. (Il devrait y avoir) un nœud, ou aussi trois, ou aussi cinq.
 
@@ -112,7 +112,7 @@ Et portant une ceinture.
 
 6\. [^129]. « Descendant des mêmes <i>Ri</i>shis ? » demande le professeur.
 
-7\. « Descendant des mêmes <i>Ri</i>shis, monsieur », dit l'autre. <span id="p63">[<sup><small>p. 63</small></sup>]</span>
+7\. « Descendant des mêmes <i>Ri</i>shis, monsieur », dit l'autre. <span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 8\. « Déclare (que tu es) un étudiant, monsieur. »
 
@@ -132,7 +132,7 @@ Et portant une ceinture.
 
 
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## CHAPITRE 3.
 
@@ -140,7 +140,7 @@ Et portant une ceinture.
 
 2\. [^132]. « Je me déplace dans la course d'Indra ; je me déplace dans la course du soleil à sa suite » — à ces mots, il se retourne de gauche à droite,
 
-3\. Et saisissant de la paume de sa main droite l'épaule droite (de l'étudiant), il touche l'endroit de son cœur en disant : « Que je sois cher à ton cœur inviolé. » <span id="p65">[<sup><small>p. 65</small></sup>]</span>
+3\. Et saisissant de la paume de sa main droite l'épaule droite (de l'étudiant), il touche l'endroit de son cœur en disant : « Que je sois cher à ton cœur inviolé. » <span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 4\. S'étant retourné silencieusement de droite à gauche,
 
@@ -154,7 +154,7 @@ Et portant une ceinture.
 
 3\. [^136]. Avec le même texte (voir chap. 3, 2), il se retourne comme précédemment,
 
-4\. Et touchant du revers de sa main droite l'épaule droite (de l'étudiant), il murmure : <span id="p66">[<sup><small>p. 66</small></sup>]</span>
+4\. Et touchant du revers de sa main droite l'épaule droite (de l'étudiant), il murmure : <span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 5 [^137]. « Tu es un étudiant. Fais le plein de combustible. Mange de l'eau. Accomplis le service. Ne dors pas pendant la journée. Garde le silence jusqu'à ce que tu fasses le plein. »
 
@@ -179,7 +179,7 @@ Et portant une ceinture.
 
 8\. Ils s'assoient au nord du feu,
 
-9\. [^140]. Le professeur avait le visage tourné vers l'est, l'autre vers l'ouest. <span id="p67">[<sup><small>p. 67</small></sup>]</span>
+9\. [^140]. Le professeur avait le visage tourné vers l'est, l'autre vers l'ouest. <span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 10 [^141]. Après que (l'étudiant) ait dit : « Récitez, monsieur ! » —
 
@@ -192,7 +192,7 @@ Et portant une ceinture.
 
 1\. [^142]. « Vous êtes des eaux par votre nom ; vous êtes des êtres heureux par votre nom ; vous êtes des êtres pleins de sève par votre nom ; vous êtes des êtres incorruptibles par votre nom ; vous êtes des êtres sans peur par votre nom ; vous êtes des êtres immortels par votre nom. De vous, étant tels, puis-je avoir part ; recevez-moi dans votre faveur » — avec ces mots (le professeur) fait boire de l'eau à l'élève à trois petites gorgées.
 
-2\. [^143]. Et lui remet le bâton avec les cinq <span id="p68">[<sup><small>p. 68</small></sup>]</span> versets, « Que la bénédiction nous soit donnée » (Rig-veda V, 51, 11-15).
+2\. [^143]. Et lui remet le bâton avec les cinq <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> versets, « Que la bénédiction nous soit donnée » (Rig-veda V, 51, 11-15).
 
 3\. [^144]. Un don facultatif est le prix du sacrifice.
 
@@ -209,7 +209,7 @@ Et portant une ceinture.
 
 
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 ## SECTION<i>7.
 
@@ -225,7 +225,7 @@ Et portant une ceinture.
 
 6\. [^150]. Et a saisi tout autour (ces pousses de Ku<i>s</i>a) par le milieu avec ses mains, tenant la droite en haut,
 
-7\. Le maître, les ayant saisis par le haut <span id="p70">[<sup><small>p. 70</small></sup>]</span> de la main gauche, et les ayant aspergés d'eau de la main droite, fait alors dire à l'autre :
+7\. Le maître, les ayant saisis par le haut <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> de la main gauche, et les ayant aspergés d'eau de la main droite, fait alors dire à l'autre :
 
 8\. [^151]. « Récitez le Sâvitrî, ​​monsieur ! » dit l'autre.
 
@@ -261,11 +261,11 @@ Et portant une ceinture.
 
 17\. [^153]. « Récitez la foi et la perspicacité, monsieur ! » dit l'autre.
 
-« Je te récite la foi et la perspicacité ! » dit le professeur. <span id="p71">[<sup><small>p. 71</small></sup>]</span>
+« Je te récite la foi et la perspicacité ! » dit le professeur. <span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 18 [^154]. De cette façon, selon quel Rishi appartient chaque hymne et quelle est sa divinité et son mètre, ainsi (avec les indications correspondantes de Rishi, etc.) qu'il récite chaque hymne ;
 
-19\. [^155]. Ou encore, s'il ne connaît pas les Rishis, les divinités et les mètres, le maître récite ce verset : « Cette glorieuse (splendeur) de Savitar » (Rig-veda III, 62, 10), pâda par pâda, hémistiche par hémistiche, (et finalement) sans interruption, et dit, lorsqu'il a terminé : « Ce verset (appartient à Savitar ; c'est une Gâyatrî ; Vi<i>s</i>vâmitra est son Rishi). » <span id="p72">[<sup><small>p. 72</small></sup>]</span>
+19\. [^155]. Ou encore, s'il ne connaît pas les Rishis, les divinités et les mètres, le maître récite ce verset : « Cette glorieuse (splendeur) de Savitar » (Rig-veda III, 62, 10), pâda par pâda, hémistiche par hémistiche, (et finalement) sans interruption, et dit, lorsqu'il a terminé : « Ce verset (appartient à Savitar ; c'est une Gâyatrî ; Vi<i>s</i>vâmitra est son Rishi). » <span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 20\. Qu'il récite ainsi (les hymnes appartenant à) chaque <i>Ri</i>shi, ou (à chaque) Anuvâka ;
 
@@ -281,7 +281,7 @@ Et portant une ceinture.
 
 26\. L'enseignant peut éventuellement dire au début de l'hymne : « Ceci est le commencement. »
 
-27\. [^158]. Ceci a été expliqué plus en détail dans le traité sur le Rishisvâdhyâya. <span id="p73">[<sup><small>p. 73</small></sup>]</span>
+27\. [^158]. Ceci a été expliqué plus en détail dans le traité sur le Rishisvâdhyâya. <span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 28 [^159]. Lorsque (la leçon) est terminée, il prend les jeunes pousses de Ku<i>s</i>a, fait un trou avec de la bouse de vache à leurs racines et asperge d'eau les Ku<i>s</i>a (pousses) pour chaque hymne.
 
@@ -290,7 +290,7 @@ Et portant une ceinture.
 
 ## CHAPITRE 8.
 
-1\. [^161]. L'après-midi, après avoir obtenu par mendicité des grains d'orge frits, il les sacrifiera de sa main sur le feu selon les rites des oblations Â<i>g</i>ya avec le texte : « Le seigneur du siège, le <span id="p74">[<sup><small>p. 74</small></sup>]</span> merveilleux » (Rig-veda I, 18, 6 ss.), verset par verset, jusqu'à la fin de l'hymne.
+1\. [^161]. L'après-midi, après avoir obtenu par mendicité des grains d'orge frits, il les sacrifiera de sa main sur le feu selon les rites des oblations Â<i>g</i>ya avec le texte : « Le seigneur du siège, le <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> merveilleux » (Rig-veda I, 18, 6 ss.), verset par verset, jusqu'à la fin de l'hymne.
 
 2\. [^162]. Amener le maître à formuler des vœux de bon augure par le don de nourriture.
 
@@ -307,7 +307,7 @@ Et portant une ceinture.
 
 
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 ## SECTION<i>10.
 
@@ -321,7 +321,7 @@ Et portant une ceinture.
 
 « Être enflammé me rend prospère en descendance et en richesse. Svâhâ !
 
-À toi appartient ce carburant, Agni ; par lui tu grandiras et gagneras en vigueur. Et puissions-nous grandir et gagner en vigueur. Svâhâ ! <span id="p76">[<sup><small>p. 76</small></sup>]</span>
+À toi appartient ce carburant, Agni ; par lui tu grandiras et gagneras en vigueur. Et puissions-nous grandir et gagner en vigueur. Svâhâ ! <span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 5\. Après avoir ensuite aspergé (d'eau) autour (du feu),
 
@@ -337,7 +337,7 @@ Et portant une ceinture.
 
 2\. [^169]. Les règles de cette pratique ont été expliquées par l'initiation.
 
-3\. Il ne récite pas le Sâvitrî. <span id="p77">[<sup><small>p. 77</small></sup>]</span>
+3\. Il ne récite pas le Sâvitrî. <span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 4 [^170]. Certains disent que la remise du bâton constitue la fin (de cette cérémonie).
 
@@ -357,14 +357,14 @@ Et portant une ceinture.
 
 12\. (De même) les Vrâtika et Aupanishada (observances).
 
-13\. [^175]. Lorsque le temps est écoulé, lorsque les devoirs <span id="p78">[<sup><small>p. 78</small></sup>]</span> ont été observés, lorsque le Véda a été étudié jusqu'au _S<i>a</i>m_yu-Bârhaspatya-(hymne), que (l'enseignant alors), s'il a l'intention d'instruire (l'étudiant) dans la partie secrète du Véda, détermine le temps (pendant lequel l'étudiant doit observer les rites spéciaux) et les règles à observer, à partir des directives (spéciales) (qui sont transmises à ce sujet).
+13\. [^175]. Lorsque le temps est écoulé, lorsque les devoirs <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> ont été observés, lorsque le Véda a été étudié jusqu'au _S<i>a</i>m_yu-Bârhaspatya-(hymne), que (l'enseignant alors), s'il a l'intention d'instruire (l'étudiant) dans la partie secrète du Véda, détermine le temps (pendant lequel l'étudiant doit observer les rites spéciaux) et les règles à observer, à partir des directives (spéciales) (qui sont transmises à ce sujet).
 
 
 ## SECTION<i>12.
 
-1\. [^176]. Après que (l'étudiant) a mangé quelque chose le matin, l'après-midi, au nord-est — <span id="p79">[<sup><small>p. 79</small></sup>]</span>
+1\. [^176]. Après que (l'étudiant) a mangé quelque chose le matin, l'après-midi, au nord-est — <span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
-2\. Après avoir sacrifié, le maître lui demande alors, à propos des divinités dont il a été chargé (voir ci-dessus, chap. 3, 1), « As-tu accompli les devoirs de sainteté devant Agni, Indra, le Soleil et les devâs Vi<i>s</i>ves ? ​​» <span id="p80">[<sup><small>p. 80</small></sup>]</span>
+2\. Après avoir sacrifié, le maître lui demande alors, à propos des divinités dont il a été chargé (voir ci-dessus, chap. 3, 1), « As-tu accompli les devoirs de sainteté devant Agni, Indra, le Soleil et les devâs Vi<i>s</i>ves ? ​​» <span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 3\. S'il répond : « Je les ai accomplis, monsieur ! » —
 
@@ -372,7 +372,7 @@ Et portant une ceinture.
 
 5\. [^177]. Il relève le pan (de ce vêtement) pour qu'il ne puisse pas glisser,
 
-6\. [^178]. (Et dit) « Abandonnez pendant trois jours le feu, la quête d'aumônes, le sommeil à même le sol et l'obéissance au maître, jeûnez dans la forêt, dans la maison d'un dieu ou dans un lieu où l'Agnihotra est pratiqué, en gardant le silence et en prenant grand soin. » <span id="p81">[<sup><small>p. 81</small></sup>]</span>
+6\. [^178]. (Et dit) « Abandonnez pendant trois jours le feu, la quête d'aumônes, le sommeil à même le sol et l'obéissance au maître, jeûnez dans la forêt, dans la maison d'un dieu ou dans un lieu où l'Agnihotra est pratiqué, en gardant le silence et en prenant grand soin. » <span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 7\. Ici, certains (enseignants) prescrivent les mêmes observances seulement pour une nuit, pendant laquelle il doit rester debout.
 
@@ -380,7 +380,7 @@ Et portant une ceinture.
 
 9\. Lorsque ces trois jours ou cette nuit seront écoulés, en sortant du village, il évitera de regarder les personnes ou les choses suivantes qui constituent des obstacles à l'étude (du Véda) :
 
-10\. [^180]. Chair crue, une _K<i>a</i>n_<i>a</i>âla, une femme récemment accouchée ou en période de règles, du sang, des personnes aux mains coupées, des cimetières et toutes sortes d'animaux cadavériques qui entrent (dans leurs tanières ?) la bouche la première (?), les tenant éloignés du lieu où ils habitent. <span id="p82">[<sup><small>p. 82</small></sup>]</span>
+10\. [^180]. Chair crue, une _K<i>a</i>n_<i>a</i>âla, une femme récemment accouchée ou en période de règles, du sang, des personnes aux mains coupées, des cimetières et toutes sortes d'animaux cadavériques qui entrent (dans leurs tanières ?) la bouche la première (?), les tenant éloignés du lieu où ils habitent. <span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 11\. En sortant (du village) en direction du nord-est, le professeur s'assoit sur un endroit propre, tournant son visage vers l'est.
 
@@ -392,7 +392,7 @@ Et portant une ceinture.
 
 15\. Il donne (au maître) le turban, un vase, une bonne vache.
 
-16\. (L'enseignant accepte les cadeaux) avec les versets, <span id="p83">[<sup><small>p. 83</small></sup>]</span> 'Tu lui' (Rig-veda I, 18, 5), et, 'Haut dans le ciel' (Rig-veda X, 107, 2), ou (il les accepte) tous avec le Pranava (c'est-à-dire la syllabe Om).
+16\. (L'enseignant accepte les cadeaux) avec les versets, <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> 'Tu lui' (Rig-veda I, 18, 5), et, 'Haut dans le ciel' (Rig-veda X, 107, 2), ou (il les accepte) tous avec le Pranava (c'est-à-dire la syllabe Om).
 
 17\. Ici, certains préparent un plat de riz pour les Vi<i>s</i>ve devâs dans toutes les sections (de l'Âra<i>s</i>yaka) ;
 
@@ -416,7 +416,7 @@ Et portant une ceinture.
 
 6\. Et il attache le cordon du sacrifice au bâton.
 
-7\. Ici il est également dit : <span id="p84">[<sup><small>p. 84</small></sup>]</span>
+7\. Ici il est également dit : <span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 8 [^185]. « Qu'il sacrifie le cordon sacrificiel et le bâton, la ceinture et aussi la peau dans l'eau après l'accomplissement de son vœu avec un verset de Varu<i>n</i>a ou avec l'essence (des Védas, c'est-à-dire la syllabe Om). »
 
@@ -428,7 +428,7 @@ Et portant une ceinture.
 
 3\. Qu'il verse des oblations de nourriture Vai<i>s</i>deva préparée le soir et le matin dans le feu domestique (sacré).
 
-4\. « À Agni svâhâ ! À Soma svâhâ ! À Indra et Agni svâhâ ! À Vishnu svâhâ ! À Bharadvâna Dhanvantari svâhâ ! Aux Vinve devâs svâhâ ! À Pranâpati svâhâ ! À Aditi svâhâ ! À Anumati svâhâ ! À Agni Svishnaknt <span id="p85">[<sup><small>p. 85</small></sup>]</span> svâhâ ! » — ayant ainsi offert les oblations appartenant à ces divinités,
+4\. « À Agni svâhâ ! À Soma svâhâ ! À Indra et Agni svâhâ ! À Vishnu svâhâ ! À Bharadvâna Dhanvantari svâhâ ! Aux Vinve devâs svâhâ ! À Pranâpati svâhâ ! À Aditi svâhâ ! À Anumati svâhâ ! À Agni Svishnaknt <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> svâhâ ! » — ayant ainsi offert les oblations appartenant à ces divinités,
 
 5\. Il offrira ensuite des Balis (c'est-à-dire des portions de nourriture) au centre du sol aux mêmes divinités ; (puis un autre Bali avec les mots) « Adoration à Brahman et aux Brâhma<i>n</i>as ! » et (avec le verset) « Vâstoshpati, accepte-nous » (Rig-veda VII, 54, 1) au centre du sol à Vâstoshpati.
 
@@ -438,7 +438,7 @@ Et portant une ceinture.
 
 8\. [^189]. Puis (se tourna) vers le disque du soleil : « Adoration à Aditi et aux Âdityas ! Adoration
 
-5\. « Il offrira un Bali à ces divinités, c'est-à-dire à ces dix divinités auxquelles il a sacrifié, à Agni, etc. (voir Sûtra 4), en leur adressant le mot « Adoration (à telle ou telle divinité) » — car dans les autres cas, le mot « adoration » (nama<i>h</i>) a été prescrit pour le Bali. » Nârâya<i>n</i>a. <span id="p86">[<sup><small>p. 86</small></sup>]</span> aux Nakshatras, aux saisons, aux mois, aux demi-mois, aux jours et aux nuits, aux années ! »
+5\. « Il offrira un Bali à ces divinités, c'est-à-dire à ces dix divinités auxquelles il a sacrifié, à Agni, etc. (voir Sûtra 4), en leur adressant le mot « Adoration (à telle ou telle divinité) » — car dans les autres cas, le mot « adoration » (nama<i>h</i>) a été prescrit pour le Bali. » Nârâya<i>n</i>a. <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> aux Nakshatras, aux saisons, aux mois, aux demi-mois, aux jours et aux nuits, aux années ! »
 
 9\. « À Pûshan, le traceur de chemins ; à Dhâtar, à Vidhâtar et aux Maruts » — (ainsi) sur les seuils.
 
@@ -464,7 +464,7 @@ I8. Avec le cordon sacrificiel suspendu sur l'épaule droite, il verse le reste 
 
 20\. Ou qu'il fasse l'aumône (de nourriture) à un étudiant.
 
-21\. [^190]. Qu'il offre immédiatement de la nourriture à une femme sous sa protection, à une femme enceinte, aux garçons et aux personnes âgées. <span id="p87">[<sup><small>p. 87</small></sup>]</span>
+21\. [^190]. Qu'il offre immédiatement de la nourriture à une femme sous sa protection, à une femme enceinte, aux garçons et aux personnes âgées. <span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 22 [^191]. Qu'il jette (de la nourriture) par terre pour les chiens, pour les bouchers et pour les oiseaux.
 
@@ -482,7 +482,7 @@ I8. Avec le cordon sacrificiel suspendu sur l'épaule droite, il verse le reste 
 
 2\. [^194]. Que l'Argha ne soit pas sans chair.
 
-3\. À l'occasion d'un sacrifice et d'un mariage, que (l'invité) dise : « Préparez-le. » <span id="p88">[<sup><small>p. 88</small></sup>]</span>
+3\. À l'occasion d'un sacrifice et d'un mariage, que (l'invité) dise : « Préparez-le. » <span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 4\. L'animal (offert) au maître est sacré pour Agni ;
 
@@ -502,7 +502,7 @@ I8. Avec le cordon sacrificiel suspendu sur l'épaule droite, il verse le reste 
 
 
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 ## CHAPITRE 16.
 
@@ -520,7 +520,7 @@ I8. Avec le cordon sacrificiel suspendu sur l'épaule droite, il verse le reste 
 
 ## CHAPITRE 17.
 
-1\. « Même si un homme ramasse constamment de l'herbe et accomplit l'Agnihotra, un Brâhma<i>n</i>a qui reste (dans sa <span id="p90">[<sup><small>p. 90</small></sup>]</span> maison) sans recevoir d'honneur lui enlève toutes ses bonnes œuvres.
+1\. « Même si un homme ramasse constamment de l'herbe et accomplit l'Agnihotra, un Brâhma<i>n</i>a qui reste (dans sa <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> maison) sans recevoir d'honneur lui enlève toutes ses bonnes œuvres.
 
 2\. « On devrait donner (même) si c'était seulement un pot d'eau ; on devrait sacrifier (même) si c'était un morceau de bois ; (même) jusqu'à un hymne ou à un Anuvâka, le Brahmaya<i>g</i><i>g</i>a est enjoint.
 

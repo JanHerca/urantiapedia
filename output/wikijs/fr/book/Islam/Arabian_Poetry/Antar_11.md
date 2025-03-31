@@ -41,7 +41,7 @@ dateCreated: 2024-11-24T18:21:59Z
 « L'épée est tranchante, ô fils de la tribu de Ghalib,
 Tranchant en effet : mais où est le percuteur de l'épée ?
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 Mon ancêtre agita l’épée de la main et dit : « Quant à celui qui frappe, c’est moi qui frappe ! » Il coupa la tête du forgeron et la sépara de son corps. Il la recouvrit ensuite d’or et l’appela Dhami, à cause de son tranchant. Il la mit de côté parmi ses trésors et, lorsqu’il mourut, elle succéda à mon père avec le reste des armes. Lorsque mon père s’aperçut que sa mort était proche, il m’appela à lui en privé. « Ô mon fils, dit-il, je sais que ton frère est d’un tempérament tyrannique et obstiné, qui aime la violence et déteste la justice, et je sais qu’à ma mort il usurpera mes biens. » « Quelles mesures dois-je prendre ? » dis-je. — Il répondit : « Prends cette épée et cache-la, et que personne n'en sache rien ; et quand tu verras qu'il prend possession de force de tous mes biens, bétail et richesses, sois content, mon fils, de cette épée, car elle te sera d'un grand profit : car si tu la présente à Nushirvan, roi de Perse, il t'élèvera par sa libéralité et ses faveurs ; et si tu la présente à l'empereur d'Europe, il t'enrichira d'or et d'argent. »
 

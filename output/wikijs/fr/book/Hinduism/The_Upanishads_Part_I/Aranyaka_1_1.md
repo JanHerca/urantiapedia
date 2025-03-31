@@ -32,15 +32,15 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 AITAREYA-ÂRA<i>N</i>YAKA.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 PREMIER ÂRA<i>N</i>YAKA.
 
@@ -56,7 +56,7 @@ PREMIER ADHYÂYA.
 
 4\. Celui qui désire la prospérité doit utiliser l'hymne pra vo devâyâgnaye (Ap. III, 13, 1).
 
-5\. Celui qui désire l'accroissement doit utiliser l'hymne, vi<i>s</i>o vi<i>s</i>o atithim (Ap. VIII, 74, 1). <span id="p158">[<sup><small>p. 158</small></sup>]</span> 6\. Le peuple (visa<i>h</i>) augmente en effet [^378], et donc lui (le sacrificateur) devient accru.
+5\. Celui qui désire l'accroissement doit utiliser l'hymne, vi<i>s</i>o vi<i>s</i>o atithim (Ap. VIII, 74, 1). <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> 6\. Le peuple (visa<i>h</i>) augmente en effet [^378], et donc lui (le sacrificateur) devient accru.
 
 7\. Mais (certains disent) il y a le mot atithim (dans cet hymne, qui signifie un invité ou un étranger demandant de la nourriture). Qu'il ne prenne donc pas cet hymne. En vérité, l'atithi (étranger) est capable [^379] de mendier.
 
@@ -74,7 +74,7 @@ PREMIER ADHYÂYA.
 
 14\. Les trois tristichs (suivants) commencent par un Anush<i>t</i>ubh [^381]. Or, Brahman est Gâyatrî, la parole est Anush<i>t</i>ubh. Il joint ainsi la parole à Brahman.
 
-15\. Celui qui désire la gloire devrait utiliser l'hymne, abodhy agni<i>h</i> samidhâ ganânâm (Ap. V, 1, 1). <span id="p159">[<sup><small>p. 159</small></sup>]</span> 16\. Celui qui désire une progéniture et du bétail devrait utiliser l'hymne, hotâ<i>g</i>anishta <i>k</i>etana<i>h</i> (Ap. II, 5, 1).
+15\. Celui qui désire la gloire devrait utiliser l'hymne, abodhy agni<i>h</i> samidhâ ganânâm (Ap. V, 1, 1). <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> 16\. Celui qui désire une progéniture et du bétail devrait utiliser l'hymne, hotâ<i>g</i>anishta <i>k</i>etana<i>h</i> (Ap. II, 5, 1).
 
 
 
@@ -103,7 +103,7 @@ Dans les autres (récitations accompagnant les) offrandes d'âgya (où Agni est 
 
 10\. Celui qui sait cela, obtient ce qu'il désire.
 
-11\. Les versets (contenus dans l'hymne agnim naro dîdhitibhi<i>h</i>) deviennent la mesure B<i>ri</i>hatî [^387] et <span id="p161">[<sup><small>p. 161</small></sup>]</span> la mesure Virâ<i>g</i>, (ils deviennent) la perfection qui appartient à ce jour (le mahâvrata). Puis ils deviennent aussi Anush<i>t</i>ubh [^388], car les offrandes d'â<i>g</i>ya (ghee) résident dans les Anush<i>t</i>ubhs [^389].
+11\. Les versets (contenus dans l'hymne agnim naro dîdhitibhi<i>h</i>) deviennent la mesure B<i>ri</i>hatî [^387] et <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> la mesure Virâ<i>g</i>, (ils deviennent) la perfection qui appartient à ce jour (le mahâvrata). Puis ils deviennent aussi Anush<i>t</i>ubh [^388], car les offrandes d'â<i>g</i>ya (ghee) résident dans les Anush<i>t</i>ubhs [^389].
 
 
 
@@ -115,7 +115,7 @@ Dans les autres (récitations accompagnant les) offrandes d'âgya (où Agni est 
 
 2\. D'autres disent : « Qu'il prenne un hymne Ushinih pour le Pra-uga. En vérité, Ushinih est la vie, et ainsi le sacrifiant a une longue vie. »
 
-D'autres disent : « Qu'il prenne un hymne Anush<i>t</i>ubh <span id="p162">[<sup><small>p. 162</small></sup>]</span> pour le Pra-uga. En vérité, Anush<i>t</i>ubh est la bravoure, et il sert à l'acquérir. »
+D'autres disent : « Qu'il prenne un hymne Anush<i>t</i>ubh <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> pour le Pra-uga. En vérité, Anush<i>t</i>ubh est la bravoure, et il sert à l'acquérir. »
 
 D'autres disent : « Qu'il prenne un hymne B<i>ri</i>hatî pour le Pra-uga. En vérité, B<i>ri</i>hatî est la fortune, et ainsi le sacrifiant devient chanceux. »
 
@@ -135,7 +135,7 @@ Mais nous disons : « Qu'il prenne seulement un hymne Gâyatrî. En vérité, G�
 
 7\. « Celui qui sait cela obtient tous les désirs. »
 
-Ceci (Gâyatrî pra-uga), selon le cérémonial d'un jour (ekâha) [^391], est parfait dans sa forme [^392]. Ce jour-là (le mahâvrata), beaucoup de choses sont faites de temps à autre qui <span id="p163">[<sup><small>p. 163</small></sup>]</span> doivent être cachées [^393], et doivent être expiées par la récitation d'hymnes). L'expiation (<i>s</i>ânti) est le repos, le sacrifice d'un jour. Par conséquent, à la fin de l'année (l'avant-dernier jour du sacrifice qui dure toute une année), les sacrificateurs se reposent sur cette expiation comme leur repos.
+Ceci (Gâyatrî pra-uga), selon le cérémonial d'un jour (ekâha) [^391], est parfait dans sa forme [^392]. Ce jour-là (le mahâvrata), beaucoup de choses sont faites de temps à autre qui <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> doivent être cachées [^393], et doivent être expiées par la récitation d'hymnes). L'expiation (<i>s</i>ânti) est le repos, le sacrifice d'un jour. Par conséquent, à la fin de l'année (l'avant-dernier jour du sacrifice qui dure toute une année), les sacrificateurs se reposent sur cette expiation comme leur repos.
 
 8\. Celui qui sait cela repose ferme, et ceux aussi pour qui un prêtre Hot<i>ri</i> qui sait cela, récite cet hymne.
 
@@ -151,7 +151,7 @@ Ceci (Gâyatrî pra-uga), selon le cérémonial d'un jour (ekâha) [^391], est p
 
 3\. Rv. I, 2, 4-6. Indravâyû ime sutâ, â yâtam upa nishk<i>ri</i>tam, 'Indra et Vâyu, ces Somas sont préparés, venez ici vers ce qui a été préparé.' Par nishk<i>ri</i>ta, préparé, il entend ce qui a été bien préparé (sa<i>m</i>sk<i>ri</i>ta).
 
-4\. Indra et Vâyu vont à ce qui a été préparé par celui qui sait cela, ou pour qui un prêtre Hot<i>ri</i> qui sait cela, récite. <span id="p164">[<sup><small>p. 164</small></sup>]</span> 5\. Rv. I, 2, 7. Mitra<i>m</i> huve pûtadaksham, dhiya<i>m</i> gh<i>ri</i>tâkî<i>m</i> sâdhantâ, 'J'appelle Mitra de la force sainte ; (lui et Varu<i>n</i>a) ils accomplissent la prière accompagnée de beurre clarifié.' En vérité, la parole est la prière accompagnée de beurre clarifié.
+4\. Indra et Vâyu vont à ce qui a été préparé par celui qui sait cela, ou pour qui un prêtre Hot<i>ri</i> qui sait cela, récite. <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> 5\. Rv. I, 2, 7. Mitra<i>m</i> huve pûtadaksham, dhiya<i>m</i> gh<i>ri</i>tâkî<i>m</i> sâdhantâ, 'J'appelle Mitra de la force sainte ; (lui et Varu<i>n</i>a) ils accomplissent la prière accompagnée de beurre clarifié.' En vérité, la parole est la prière accompagnée de beurre clarifié.
 
 6\. La parole est donnée à celui qui sait cela, ou à celui pour qui un prêtre Hot<i>ri</i> qui sait cela, récite.
 
@@ -169,7 +169,7 @@ Ceci (Gâyatrî pra-uga), selon le cérémonial d'un jour (ekâha) [^391], est p
 
 13\. En vérité, les Dévas Vi<i>s</i>s viennent à l'appel de celui qui sait cela, ou pour qui un prêtre Hot<i>ri</i> qui sait cela, récite.
 
-14\. Rv. I, 3, 7. Dâsvâ<i>m</i>so dâ<i>s</i>usha<i>h</i> sutam, « Venez, vous qui donnez, à la libation du donneur ! » Par dâ<i>s</i>usha<i>h</i>, il entend dadusha<i>h</i>, c'est-à-dire à la libation de quiconque donne. <span id="p165">[<sup><small>p. 165</small></sup>]</span> 15\. Les dieux exaucent son souhait, quel que soit le souhait qu'il récite dans ce verset,
+14\. Rv. I, 3, 7. Dâsvâ<i>m</i>so dâ<i>s</i>usha<i>h</i> sutam, « Venez, vous qui donnez, à la libation du donneur ! » Par dâ<i>s</i>usha<i>h</i>, il entend dadusha<i>h</i>, c'est-à-dire à la libation de quiconque donne. <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> 15\. Les dieux exaucent son souhait, quel que soit le souhait qu'il récite dans ce verset,
 
 16\. (Le souhait de celui) qui sait cela, ou pour qui un prêtre Hot<i>ri</i> qui sait cela, récite.
 
@@ -185,7 +185,7 @@ Ceci (Gâyatrî pra-uga), selon le cérémonial d'un jour (ekâha) [^391], est p
 
 Or, ce jour est composé de vingt-cinq, et l'hymne Stoma de ce jour est composé de vingt-cinq : il devient le même par le même. C'est pourquoi ces deux-là, le jour et l'hymne, sont vingt-cinq, oui, vingt-cinq.
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

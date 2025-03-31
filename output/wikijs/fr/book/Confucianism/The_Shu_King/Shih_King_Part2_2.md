@@ -44,7 +44,7 @@ La pièce fait référence à l'époque du roi Hsüan (827 à 782 av. J.-C.).
 
 La cour est plane et lisse, et les piliers qui l'entourent sont élevés. La chambre est agréablement exposée à la lumière, et ses recoins sont profonds et larges. C'est ici que notre noble seigneur reposera.
 
-Sur la natte de jonc en dessous et celle de bambous fins au-dessus, qu'il repose dans le sommeil ! Qu'il dorme <span id="p350">[<sup><small>p. 350</small></sup>]</span> et s'éveille, (en disant) : « Devinez pour moi mes rêves [^408]. Quels rêves sont chanceux ? Ils ont été d'ours et d'ours macabres ; Ils ont été de cobras et (d'autres) serpents. »
+Sur la natte de jonc en dessous et celle de bambous fins au-dessus, qu'il repose dans le sommeil ! Qu'il dorme <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> et s'éveille, (en disant) : « Devinez pour moi mes rêves [^408]. Quels rêves sont chanceux ? Ils ont été d'ours et d'ours macabres ; Ils ont été de cobras et (d'autres) serpents. »
 
 Le devin en chef les devinera. « Les ours et les ours macabres sont les signes auspicieux des fils ; les cobras et (autres) serpents sont les signes auspicieux des filles [^409]. »
 
@@ -68,7 +68,7 @@ UNE LAMENTATION SUR L'ÉTAT INSTABLE DU ROYAUME DÉNONCANT L'INJUSTICE ET LA NÉ
 
 Cette pièce se rapporte à l'époque du roi Yû (781 à 771 av. J.-C.), fils indigne du roi Hsüan. Le « Grand Maître » Yin devait être l'un des « trois Kung », les plus hauts ministres de la cour de Kâu, et était probablement leur chef et l'administrateur du gouvernement sous Yû.
 
-Haute est cette colline du sud [^413], Avec ses masses de rochers ! Tu es impressionnant, ô (Grand-)Maître <span id="p352">[<sup><small>p. 352</small></sup>]</span> Yin, Et tous les gens se tournent vers toi ! Un feu brûle dans leurs cœurs en deuil ; Ils n'osent pas parler de toi, même pour plaisanter. Le royaume est au bord de l'extinction ; — Comment se fait-il que tu ne considères pas l'état des choses ?
+Haute est cette colline du sud [^413], Avec ses masses de rochers ! Tu es impressionnant, ô (Grand-)Maître <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> Yin, Et tous les gens se tournent vers toi ! Un feu brûle dans leurs cœurs en deuil ; Ils n'osent pas parler de toi, même pour plaisanter. Le royaume est au bord de l'extinction ; — Comment se fait-il que tu ne considères pas l'état des choses ?
 
 Haute est cette colline du sud, et la végétation y pousse vigoureusement ! Tu es impressionnant, ô (Grand) Maître Yin, mais comment se fait-il que tu sois si injuste ? Le ciel redouble sans cesse ses châtiments ; les morts et le désordre augmentent et se multiplient ; aucun mot de satisfaction ne sort du peuple ; et pourtant tu ne te corriges ni ne te lamentes.
 
@@ -88,7 +88,7 @@ L'injustice vient du grand Ciel, et notre roi n'a aucun repos. (Pourtant) il ne 
 
 Moi, <i>Kiâ-fû</i>, j'ai composé ce poème pour mettre à nu les désordres du roi. Si seulement tu pouvais changer d'avis, les myriades de régions seraient nourries.
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 <a id="o8"></a>
 
@@ -100,7 +100,7 @@ Regardez au milieu de la forêt ; il n'y a (que) de gros fagots et de petites br
 
 Si l'on dit d'une colline qu'elle est basse, il y a ses crêtes et ses vastes masses. Les fausses calomnies du peuple, comment se fait-il que vous ne les réprimiez pas [^417] ? Vous appelez ces anciens expérimentés, vous consultez le devin des rêves. Ils disent tous : « Nous sommes très sages, mais qui peut distinguer le corbeau mâle de la femelle [^418] ? »
 
-Regardez le champ accidenté et pierreux ; — les céréales y poussent abondamment. (Mais) le ciel m'émeut et me secoue, Comme s'il ne pouvait me vaincre [^419]. <span id="p355">[<sup><small>p. 355</small></sup>]</span> Ils m'ont cherché (au début) pour être un modèle (pour eux), (avec empressement) comme s'ils ne pouvaient pas m'avoir ; (Maintenant) ils me regardent avec une grande animosité, Et ne veulent pas utiliser ma force.
+Regardez le champ accidenté et pierreux ; — les céréales y poussent abondamment. (Mais) le ciel m'émeut et me secoue, Comme s'il ne pouvait me vaincre [^419]. <span id="p355"><sup><small>[ p. 355 ]</small></sup></span> Ils m'ont cherché (au début) pour être un modèle (pour eux), (avec empressement) comme s'ils ne pouvaient pas m'avoir ; (Maintenant) ils me regardent avec une grande animosité, Et ne veulent pas utiliser ma force.
 
 <a id="o9"></a>
 
@@ -116,13 +116,13 @@ Le soleil et la lune annoncent le mal, ne suivant pas leur propre voie. Dans tou
 
 L'éclair du tonnerre fulmine avec majesté. On manque de repos, on manque de bien. Les ruisseaux bouillonnent et débordent. Les rochers des collines s'effondrent. Les hautes berges se transforment en vallées ; les vallées profondes en collines. Malheur aux hommes de ce temps ! Comment (le roi) ne pourrait-il pas mettre un terme à ces choses ?
 
-Hwang-fû est le président ; Fan est le ministre <span id="p356">[<sup><small>p. 356</small></sup>]</span> de l'instruction ; <i>K</i>iâ-po est l'administrateur (en chef) ; <i>K</i>ung-yün est le cuisinier en chef ; Ȝâu est le greffier de l'intérieur ; Khwei est le maître de la cavalerie ; Yü est le capitaine des gardes ; et la belle épouse brille, maintenant en possession de sa place [^420].
+Hwang-fû est le président ; Fan est le ministre <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> de l'instruction ; <i>K</i>iâ-po est l'administrateur (en chef) ; <i>K</i>ung-yün est le cuisinier en chef ; Ȝâu est le greffier de l'intérieur ; Khwei est le maître de la cavalerie ; Yü est le capitaine des gardes ; et la belle épouse brille, maintenant en possession de sa place [^420].
 
 Ce Hwang-fû refuse d'admettre qu'il agit hors de propos. Mais pourquoi nous appelle-t-il à partir, sans venir nous consulter ? Il a détruit nos murs et nos toits ; et nos champs ne sont plus que marais ou landes. Il dit : « Je ne vous fais aucun mal ; les lois l'exigent. »
 
 Hwang-fû est très sage ; il s'est bâti une grande ville à Hsiang. Il a choisi trois hommes comme ministres, tous très riches. Il ne pouvait se résoudre à laisser un seul ministre capable de protéger notre roi. Il a également choisi ceux qui possédaient des chars et des chevaux pour aller résider à Hsiang [^421].
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 Je me suis efforcé de remplir mon devoir, et je n'ose pas rendre compte de mes efforts. Sans crime ni offense d'aucune sorte, des bouches calomniatrices s'élèvent contre moi. (Mais) les calamités des gens inférieurs ne descendent pas du ciel. Une multitude de paroles (gentilles) et de la haine dans le dos ; — la poursuite sérieuse et acharnée de cela vient des hommes.
 
@@ -136,7 +136,7 @@ L'auteur de cette pièce se lamente sur l'état misérable du royaume, la condui
 
 Ciel vaste et vaste, comment se fait-il que tu aies contracté ta bonté, en envoyant la mort et la famine, et en détruisant tout le royaume ? Ciel compatissant, paré de terreurs, comment se fait-il que tu n'exerces aucune prévoyance, aucun soin ? Laissons de côté les criminels : ils ont souffert pour leur faute. Mais ceux qui n'ont commis aucun crime sont indistinctement entraînés dans la ruine.
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 Comment se fait-il, ô grand Ciel, que le roi n'écoute pas les paroles les plus justes ? Il est comme un homme qui s'égare et ne sait où il va. Vous tous, officiers, que chacun de vous accomplisse son devoir. Comment ne vous laissez-vous pas intimider les uns les autres ? Vous ne craignez pas le Ciel.
 

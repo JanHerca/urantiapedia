@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 4\. L'école de Shammaï bénit « la lumière, la nourriture, les épices et la distinction du jour » ; mais l'école d'Hillel bénit « la lumière, les épices, la nourriture et la distinction du jour ». L'école de Shammaï dit : « Qui a créé la lumière du feu » ; mais l'école d'Hillel dit : « Créateur des lumières du feu ».
 
-6\. On ne doit pas bénir la lumière et les aromates des païens idolâtres, ni la lumière et les aromates des cadavres, ni la lumière et les aromates <span id="p60">[<sup><small>p. 60</small></sup>]</span> devant une idole. On ne doit pas bénir la lumière avant d'en avoir joui.
+6\. On ne doit pas bénir la lumière et les aromates des païens idolâtres, ni la lumière et les aromates des cadavres, ni la lumière et les aromates <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> devant une idole. On ne doit pas bénir la lumière avant d'en avoir joui.
 
 7\. « Si quelqu'un a mangé, puis oublié, et n'a pas béni ? » L'école de Shammaï dit : « Il doit retourner à son lieu et bénir. » Mais l'école de Hillel dit : « Il peut bénir là où il se souvient. » « Combien de temps faut-il bénir ? » « Jusqu'à ce que la nourriture dans son estomac soit digérée. »
 

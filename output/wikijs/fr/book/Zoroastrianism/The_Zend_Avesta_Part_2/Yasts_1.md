@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 L'Ormazd Ya<i>s</i>t proprement dit se termine au § 23. Le reste du Ya<i>s</i>t, du § 24 jusqu'à la fin, manque dans plusieurs manuscrits, et est supposé par les Parsis être un fragment du Bahman Ya<i>s</i>t.
 
@@ -58,7 +58,7 @@ Les spéculations sur les pouvoirs mystiques des noms divins ont toujours été 
 
 Nous possédons trois traductions natives de ce Ya<i>s</i>t ; une en pahlavi (East India Office, XII, 39, et Saint-Pétersbourg, XCIX, 39 ; édité par Carl Salemann), une en persan (East India Office, XXII, 43), et une en sanskrit (Paris, fonds Burnouf, V, 66) ; les deux dernières éditées dans nos Études Iraniennes, II, 255).
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 La seconde partie du Yast, le fragment dit Bahman Yast, est dans un état de corruption extrême. Il est difficile d'établir un lien entre les idées, mais les §§ 28, 29 et 30 semblent indiquer assez clairement la lutte finale entre Ormazd et Ahriman et l'annihilation des Daêvas. Un lien est ainsi établi entre ce fragment et le Pahlavi Bahman Yast [^98], qui traite du même sujet. Si cette correspondance est réelle, le § 26 pourrait se référer au début du Pahlavi Bahman Yast, dans lequel Ahura montre à Zarathustra les temps à venir et la fin du monde.
 
@@ -78,7 +78,7 @@ Je récite la « Louange à la Sainteté [^102] » :
 
 Je me confesse comme un adorateur de Mazda, un disciple de Zarathustra, quelqu'un qui hait les Daêvas et obéit aux lois d'Ahura [^103] ;
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 Pour le sacrifice [^104], la prière, la propitiation et la glorification à \[Hâvani\] [^105], le saint et le maître de la sainteté ;
 
@@ -94,7 +94,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de sainteté : les rich
 
 « Qu'est-ce qui, dans la Sainte Parole, est le plus fort ? Qu'est-ce qui est le plus victorieux ? Qu'est-ce qui est le plus glorieux ? Qu'est-ce qui est le plus efficace ?
 
-2\. « Qu'est-ce qui frappe le plus les démons ? Qu'est-ce qui guérit le mieux ? Qu'est-ce qui détruit le mieux la malice des Daêvas et des Hommes ? Qu'est-ce qui permet au monde matériel d'accomplir au mieux ses désirs [^108] ? Qu'est-ce qui libère le mieux le monde matériel des angoisses du cœur [^109] ? » <span id="p24">[<sup><small>p. 24</small></sup>]</span> 3\. Ahura Mazda répondit : « Notre Nom, ô Spitama Zarathu<i>s</i>tra ! qui sont les Amesha-Spe<i>n</i>tas, c'est la partie la plus forte du Verbe Sacré ; c'est la plus victorieuse ; c'est la plus glorieuse ; c'est la plus efficace ;
+2\. « Qu'est-ce qui frappe le plus les démons ? Qu'est-ce qui guérit le mieux ? Qu'est-ce qui détruit le mieux la malice des Daêvas et des Hommes ? Qu'est-ce qui permet au monde matériel d'accomplir au mieux ses désirs [^108] ? Qu'est-ce qui libère le mieux le monde matériel des angoisses du cœur [^109] ? » <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> 3\. Ahura Mazda répondit : « Notre Nom, ô Spitama Zarathu<i>s</i>tra ! qui sont les Amesha-Spe<i>n</i>tas, c'est la partie la plus forte du Verbe Sacré ; c'est la plus victorieuse ; c'est la plus glorieuse ; c'est la plus efficace ;
 
 4\. « C'est ce qui frappe le plus les démons ; c'est ce qui guérit le mieux ; c'est ce qui détruit le mieux la malice des Daêvas et des Hommes ; c'est ce qui permet au monde matériel d'accomplir au mieux ses désirs ; c'est ce qui libère le mieux le monde matériel des angoisses du cœur. »
 
@@ -108,7 +108,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de sainteté : les rich
 
 « Mon troisième nom est le Fort [^113].
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 « Mon quatrième nom est Sainteté Parfaite [^114].
 
@@ -146,7 +146,7 @@ Mon vingtième nom est MAZDA (Celui qui sait tout).
 
 10\. « Si tu veux, ô Zarathustra, détruire la malice des Daêvas et des Hommes, des Yâtus et des Pairikas, des oppresseurs, des aveugles et des sourds [^120], des voyous à deux pattes [^121], des Ashemaoghas à deux pattes [^122], des loups à quatre pattes ;
 
-Et des hordes au large front, aux nombreuses lances [^123], aux lances droites, aux lances levées, portant la lance du ravage ; alors, récite ces noms-ci chaque jour et chaque nuit. <span id="p27">[<sup><small>p. 27</small></sup>]</span> 12\. 'Je suis le Gardien [^124] Je suis le Créateur et le Mainteneur [^125] ; Je suis le Discerneur [^126] ; Je suis l'Esprit le plus bienfaisant.
+Et des hordes au large front, aux nombreuses lances [^123], aux lances droites, aux lances levées, portant la lance du ravage ; alors, récite ces noms-ci chaque jour et chaque nuit. <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> 12\. 'Je suis le Gardien [^124] Je suis le Créateur et le Mainteneur [^125] ; Je suis le Discerneur [^126] ; Je suis l'Esprit le plus bienfaisant.
 
 « Mon nom est celui qui donne la santé ; mon nom est celui qui donne le meilleur de la santé.
 
@@ -170,7 +170,7 @@ Et des hordes au large front, aux nombreuses lances [^123], aux lances droites, 
 
 « Mon nom est le Producteur de prospérité [^128] ; mon nom est la Parole de prospérité [^129].
 
-« Mon nom est le Roi qui règne à sa guise ; <span id="p28">[<sup><small>p. 28</small></sup>]</span> mon nom est le Roi qui règne le plus à sa guise.
+« Mon nom est le Roi qui règne à sa guise ; <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> mon nom est le Roi qui règne le plus à sa guise.
 
 « Mon nom est le Roi libéral [^130] ; mon nom est le Roi le plus libéral.
 
@@ -190,13 +190,13 @@ Et des hordes au large front, aux nombreuses lances [^123], aux lances droites, 
 
 16\. « Ce sont mes noms.
 
-« Et celui qui dans ce monde matériel, ô Spitama Zarathu<i>s</i>tra ! récitera et prononcera ces noms qui sont les miens [^132], soit de jour, soit de nuit ; <span id="p29">[<sup><small>p. 29</small></sup>]</span> 17\. « Celui qui les prononcera, lorsqu'il se lèvera ou lorsqu'il se couchera ; lorsqu'il se couchera ou lorsqu'il se lèvera ; lorsqu'il attachera la ceinture sacrée [^133] ou lorsqu'il déliera la ceinture sacrée ; lorsqu'il sortira de sa demeure, ou lorsqu'il sortira de sa ville, ou lorsqu'il sortira de son pays et viendra dans un autre pays ;
+« Et celui qui dans ce monde matériel, ô Spitama Zarathu<i>s</i>tra ! récitera et prononcera ces noms qui sont les miens [^132], soit de jour, soit de nuit ; <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> 17\. « Celui qui les prononcera, lorsqu'il se lèvera ou lorsqu'il se couchera ; lorsqu'il se couchera ou lorsqu'il se lèvera ; lorsqu'il attachera la ceinture sacrée [^133] ou lorsqu'il déliera la ceinture sacrée ; lorsqu'il sortira de sa demeure, ou lorsqu'il sortira de sa ville, ou lorsqu'il sortira de son pays et viendra dans un autre pays ;
 
 18\. « Cet homme, ni ce jour-là ni cette nuit-là, ne sera blessé par les armes de l'ennemi qui se précipite comme Aêshma [^134] et qui a l'esprit Druga ; ni le couteau, ni l'arbalète, ni la flèche, ni l'épée, ni la massue, ni la pierre de fronde [^135] ne l'atteindront et ne le blesseront.
 
 19\. « Mais ces noms viendront le protéger de l'arrière et de l'avant [^136], du Druga invisible, du démon Varenya femelle [^137], du malfaiteur [^138] déterminé à faire le mal [^139], et de ce démon qui est toute mort, Angra Mainyu. Ce sera comme s'il y avait mille hommes veillant sur un seul homme [^140]. »
 
-20\. « Qui est celui qui frappera le démon afin de maintenir tes ordonnances ? Enseigne-moi clairement tes <span id="p30">[<sup><small>p. 30</small></sup>]</span> règles pour ce monde et pour l'autre, afin que Sraosha puisse venir avec Vohu-Manô et aider qui tu voudras [^141]. »
+20\. « Qui est celui qui frappera le démon afin de maintenir tes ordonnances ? Enseigne-moi clairement tes <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> règles pour ce monde et pour l'autre, afin que Sraosha puisse venir avec Vohu-Manô et aider qui tu voudras [^141]. »
 
 21\. « Salut à la gloire des Kavis [^142] ! Salut à l'Airyanem Vaê<i>g</i>ah [^143] ! Salut au Saoka [^144], créé par Mazda ! Salut aux eaux du Dâitya [^145] ! Salut à Ardvi [^146], le puits immaculé ! Salut au monde entier du Saint-Esprit ! »
 
@@ -206,7 +206,7 @@ Et des hordes au large front, aux nombreuses lances [^123], aux lances droites, 
 
 22\. « Nous adorons l'Ahuna Vairya [^149]. Nous adorons Asha-Vahisa, la plus belle, la plus immortelle et la plus bienfaisante [^150]. Nous adorons la Force, la Prospérité, la Puissance, la Victoire, la Gloire et la Vigueur [^151]. Nous adorons Ahura Mazda, brillante et glorieuse.
 
-'Yênghê hâtãm [^152] : Tous ces êtres [^153] dont Ahura Mazda connaît la bonté [^154] pour un sacrifice <span id="p31">[<sup><small>p. 31</small></sup>]</span> \[accompli\] dans la sainteté, tous ces êtres, hommes [^155] et femmes [^156], nous les adorons.
+'Yênghê hâtãm [^152] : Tous ces êtres [^153] dont Ahura Mazda connaît la bonté [^154] pour un sacrifice <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> \[accompli\] dans la sainteté, tous ces êtres, hommes [^155] et femmes [^156], nous les adorons.
 
 23\. 'Yathâ ahû vairyô: La volonté du Seigneur est la loi de la sainteté . . . .
 
@@ -220,7 +220,7 @@ Et des hordes au large front, aux nombreuses lances [^123], aux lances droites, 
 
 26\. « Tu sais cela, et ce qu'il en est, ô saint Zarathoustra ! D'après mon entendement et ma connaissance, à savoir comment le monde a commencé [^160] et comment il finira [^161].
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 « Mille remèdes, dix mille remèdes [^162] !
 
@@ -244,13 +244,13 @@ Et des hordes au large front, aux nombreuses lances [^123], aux lances droites, 
 
 « Nous adorons la langue d'Ahura Mazda, pour prononcer la Sainte Parole.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 « Nous adorons la montagne qui donne l'intelligence, qui préserve l'intelligence [^172] ; \[nous l'adorons\] jour et nuit, avec des offrandes de libations bien acceptées [^173].
 
 32\. « Nous adorons cette création \[d'Ahura\], Spe<i>n</i>ta-Ârmaiti ; et les saintes créations de cette créature et d'Asha \[Vahi<i>s</i>ta\], qui sont les plus saintes [^174].
 
-« Je prends ici comme seigneur et maître [^175] le plus grand de tous, Ahura Mazda ; pour frapper le démon Angra Mainyu ; pour frapper Aê<i>s</i>ma à la lance blessante [^176] ; pour frapper les démons Mâzainya 6 ; pour frapper tous les Daêvas et les démons Varenya [^177] ; pour accroître Ahura Mazda, <span id="p34">[<sup><small>p. 34</small></sup>]</span> brillant et glorieux ; pour accroître les Amesha-Spe<i>n</i>tas ; pour accroître l'étoile Ti<i>s</i>trya [^178], la brillante et glorieuse ; pour accroître les hommes fidèles ; pour accroître toutes les saintes créatures de l'Esprit Bienfaisant.
+« Je prends ici comme seigneur et maître [^175] le plus grand de tous, Ahura Mazda ; pour frapper le démon Angra Mainyu ; pour frapper Aê<i>s</i>ma à la lance blessante [^176] ; pour frapper les démons Mâzainya 6 ; pour frapper tous les Daêvas et les démons Varenya [^177] ; pour accroître Ahura Mazda, <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> brillant et glorieux ; pour accroître les Amesha-Spe<i>n</i>tas ; pour accroître l'étoile Ti<i>s</i>trya [^178], la brillante et glorieuse ; pour accroître les hommes fidèles ; pour accroître toutes les saintes créatures de l'Esprit Bienfaisant.
 
 'Ashem Vohû : La sainteté est le meilleur de tous les biens. . . . [^179]
 

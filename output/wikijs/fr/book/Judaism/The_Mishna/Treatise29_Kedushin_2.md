@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p310">[<sup><small>p. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 ### CHAPITRE II.
 
@@ -52,7 +52,7 @@ Avec ceci, et ceci, et cela, elle sera fiancée si toutes ces dattes ont la vale
 
 § 7. Si une personne a fiancé une mère et sa fille en même temps, ou deux sœurs en même temps, les fiançailles sont nulles pour l'une ou l'autre. Il arriva un jour qu'un homme cueillait des figues dans un panier pour cinq femmes, dont deux sœurs. Les figues appartenaient bien aux femmes, [^1107] mais c'était le fruit de l'année sabbatique. [^1108] L'homme dit : « Vous serez toutes fiancées à moi avec ceci. » L'une des femmes alla accepter le panier pour toutes les autres. Les sages décidèrent alors que les fiançailles étaient nulles, en ce qui concerne les sœurs.
 
-§ 8. Lorsqu'un prêtre fiance une femme avec sa part des sacrifices les plus saints, ou avec celle des sacrifices sacrés à un degré mineur, les fiançailles sont nulles. [^1109] De même, selon R. Meir, « S'il a fiancé une femme sciemment ou par erreur, avec sa part de la deuxième dîme. » [^1110] Les fiançailles sont nulles, selon R. Jehudah, <span id="p312">[<sup><small>p. 312</small></sup>]</span> s'il l'a fait par inadvertance, mais valides, s'il l'a fait volontairement. [^1111] S'il a utilisé des choses consacrées, les fiançailles sont valides, selon R. Meir, s'il les a utilisées volontairement à cette fin, mais nulles, s'il les a utilisées par inadvertance. R. Jehudah dit : « S’il les a utilisés par erreur, les fiançailles sont valides, mais elles sont nulles, s’il les a utilisés ainsi volontairement. »
+§ 8. Lorsqu'un prêtre fiance une femme avec sa part des sacrifices les plus saints, ou avec celle des sacrifices sacrés à un degré mineur, les fiançailles sont nulles. [^1109] De même, selon R. Meir, « S'il a fiancé une femme sciemment ou par erreur, avec sa part de la deuxième dîme. » [^1110] Les fiançailles sont nulles, selon R. Jehudah, <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> s'il l'a fait par inadvertance, mais valides, s'il l'a fait volontairement. [^1111] S'il a utilisé des choses consacrées, les fiançailles sont valides, selon R. Meir, s'il les a utilisées volontairement à cette fin, mais nulles, s'il les a utilisées par inadvertance. R. Jehudah dit : « S’il les a utilisés par erreur, les fiançailles sont valides, mais elles sont nulles, s’il les a utilisés ainsi volontairement. »
 
 § 9. Lorsqu'une personne utilise pour les fins de fiançailles les fruits de « Orlah » ou de « Kilaïm » des vignes ; ou avec un bœuf condamné à être lapidé \[Exode xxi. 29\] ; ou avec un veau dont le cou doit être coupé \[Deut. xxi\] ; ou avec l'offrande d'oiseaux du lépreux ; ou avec les cheveux d'un Nazaréen ; ou avec le premier-né d'un âne \[Exode xiii. 13\] ; ou avec de la viande bouillie dans du lait ; ou avec la chair d'animaux abattus pour un usage profane dans la cour du temple : de telles fiançailles sont nulles ; [^1112] mais si elle a vendu les articles mentionnés et en a utilisé le produit à cette fin, les fiançailles sont valides.
 

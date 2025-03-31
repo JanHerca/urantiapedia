@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 Chapitre II, verset 182. — Quand mes serviteurs t'interrogent à mon sujet, je suis tout près de toi, et je réponds à la prière de celui qui m'adresse une prière. Qu'ils me demandent donc une réponse, et qu'ils croient en moi, peut-être seront-ils bien dirigés.
 
@@ -44,7 +44,7 @@ Chapitre XIV., Verset 36. — Dis à mes serviteurs qui croient, qu'ils soient p
 
 Chapitre XVII., Verset 80. — Sois constant dans la prière depuis le déclin du soleil jusqu'au crépuscule de la nuit et la lecture de l'aube ; en vérité, la lecture de l'aube est toujours attestée.
 
-Chapitre XX., Verset 132. — Invite ton peuple à la prière et persévère dans <span id="p58">[<sup><small>p. 58</small></sup>]</span> la prière. Nous ne te demandons pas de pourvoir à nos besoins. Nous pourvoirons à nos besoins et le résultat sera la piété.
+Chapitre XX., Verset 132. — Invite ton peuple à la prière et persévère dans <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> la prière. Nous ne te demandons pas de pourvoir à nos besoins. Nous pourvoirons à nos besoins et le résultat sera la piété.
 
 Chapitre XXII, verset 76. — Soyez donc constants dans la prière, faites l'aumône, et attachez-vous à Dieu : il est votre souverain, un souverain excellent, et un excellent secours.
 

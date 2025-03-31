@@ -34,7 +34,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## YASNA XL. PRIÈRES POUR LES AIDES.
 
-1\. Et maintenant, dans ces dispensations, ô Ahura Mazda ! agis sagement [^1201] pour nous, et avec abondance <span id="p289">[<sup><small>p. 289</small></sup>]</span> avec Ta générosité et Ta tendresse [^1202] pour nous ; et accorde la récompense que Tu as désignée pour nos âmes, ô Ahura Mazda ! 2. Accorde-nous-en toi-même pour ce monde et le spirituel ; et maintenant, en tant que partie de cela (accorde) que nous puissions parvenir à la communion avec Toi et Ta Justice pour toute la durée.
+1\. Et maintenant, dans ces dispensations, ô Ahura Mazda ! agis sagement [^1201] pour nous, et avec abondance <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> avec Ta générosité et Ta tendresse [^1202] pour nous ; et accorde la récompense que Tu as désignée pour nos âmes, ô Ahura Mazda ! 2. Accorde-nous-en toi-même pour ce monde et le spirituel ; et maintenant, en tant que partie de cela (accorde) que nous puissions parvenir à la communion avec Toi et Ta Justice pour toute la durée.
 
 3\. Et accorde-nous, ô Ahura ! des hommes justes, à la fois amoureux et artisans de la justice. Donne-nous des bêtes dressées pour les pâturages, dressées pour la monte [^1203] et pour la charrue, afin qu'elles nous soient une compagnie utile [^1204], une source de vigueur durable et un moyen de nous réjouir de cette grâce [^1205].
 

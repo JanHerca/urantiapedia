@@ -29,7 +29,7 @@ dateCreated: 2025-1-16T20:3:37Z
   </table>
 </figure>
 
-<span id="p591">[<sup><small>p. 591</small></sup>]</span>
+<span id="p591"><sup><small>[ p. 591 ]</small></sup></span>
 
 Page 13, paragraphes 7, 8. Nous devons probablement traduire : les dieux ont été créés à son arrivée au ciel, ils ont été créés à son entrée sur cette terre.
 

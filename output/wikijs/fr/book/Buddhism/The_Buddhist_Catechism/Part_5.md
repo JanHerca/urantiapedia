@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:13Z
   </table>
 </figure>
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 
 325\. Q. _Le bouddhisme a-t-il le droit d'être considéré comme une religion scientifique, ou peut-il être classé comme une religion « révélée » ?_
@@ -45,7 +45,7 @@ R. Le _Kâlâma Sutta_, de l'_Anguthara Nikâya_.
 
 327\. Q. _Les bouddhistes acceptent-ils la théorie selon laquelle tout a été formé à partir de rien par un Créateur ?_
 
-A. Le Bouddha a enseigné que deux choses sont sans cause, à savoir « Akâsha » et « Nirvâṇa » : tout est issu d'Akâsha, en obéissance à une loi de mouvement qui lui est inhérente, et, après une certaine existence, disparaît. <span id="p96">[<sup><small>p. 96</small></sup>]</span> Rien n'est jamais sorti de rien. Nous ne croyons pas aux miracles ; c'est pourquoi nous nions la création et ne pouvons concevoir une création de quelque chose à partir de rien. Rien d'organique n'est éternel. Tout est dans un état de flux constant, et subit des changements et des réformes, maintenant la continuité selon la loi de l'évolution.
+A. Le Bouddha a enseigné que deux choses sont sans cause, à savoir « Akâsha » et « Nirvâṇa » : tout est issu d'Akâsha, en obéissance à une loi de mouvement qui lui est inhérente, et, après une certaine existence, disparaît. <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> Rien n'est jamais sorti de rien. Nous ne croyons pas aux miracles ; c'est pourquoi nous nions la création et ne pouvons concevoir une création de quelque chose à partir de rien. Rien d'organique n'est éternel. Tout est dans un état de flux constant, et subit des changements et des réformes, maintenant la continuité selon la loi de l'évolution.
 
 328\. Q. _Le bouddhisme est-il opposé à l'éducation et à l'étude des sciences ?_
 
@@ -57,7 +57,7 @@ A. La doctrine du Bouddha enseigne qu'il y a eu de nombreux ancêtres de la race
 
 330\. Q. _Autre ?_
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 A. Le bouddhisme soutient l’enseignement de l’indestructibilité de la force.
 
@@ -75,7 +75,7 @@ A. C’est à cause des karmas respectifs des enfants et des parents ; chacun a 
 
 334\. Q. _Est-ce qu'on dit quelque chose à propos du corps du Bouddha émettant une lumière vive ?_
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 A. Oui, c’était un rayonnement divin envoyé de l’intérieur par la puissance de sa sainteté.
 
@@ -101,7 +101,7 @@ A. Dans tous les vihâras où sont peintes des images du Bouddha. On les retrouv
 
 340\. Q. _Dans quel discours le Bouddha lui-même parle-t-il de cette brillance qui l'entoure ?_
 
-A. Dans le Mahâ-Parinibbana Sutta. Ānanda, son <span id="p99">[<sup><small>p. 99</small></sup>]</span> disciple favori, remarquant la grande splendeur qui émanait du corps de son Maître, le Bouddha dit qu'à deux occasions cette brillance extraordinaire se produit, (_a_) juste après qu'un Tathâgatâ ait obtenu la vision suprême, et (_b_) la nuit où il décède définitivement.
+A. Dans le Mahâ-Parinibbana Sutta. Ānanda, son <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> disciple favori, remarquant la grande splendeur qui émanait du corps de son Maître, le Bouddha dit qu'à deux occasions cette brillance extraordinaire se produit, (_a_) juste après qu'un Tathâgatâ ait obtenu la vision suprême, et (_b_) la nuit où il décède définitivement.
 
 341\. Q. _Où lisons-nous que cette grande luminosité est émise par le corps d'un autre Bouddha ?_
 
@@ -121,7 +121,7 @@ A. L'aura humaine.
 
 345\. Q. _Quel grand scientifique a prouvé l'existence de cette aura par des expériences soigneusement menées ?_
 
-A. Le baron von Reichenbach. Ses expériences sont décrites en détail dans ses Recherches, publiées <span id="p100">[<sup><small>p. 100</small></sup>]</span> en 1844-1845. Le Dr Baraduc, de Paris, a récemment photographié cette lumière.
+A. Le baron von Reichenbach. Ses expériences sont décrites en détail dans ses Recherches, publiées <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> en 1844-1845. Le Dr Baraduc, de Paris, a récemment photographié cette lumière.
 
 346\. Q. _Cette aura lumineuse est-elle un miracle ou un phénomène naturel ?_
 
@@ -137,7 +137,7 @@ R. Oui, dans tous les tableaux d'artistes chrétiens, cette lumière est représ
 
 349\. Q. _Quel incident historique appuie la théorie moderne de la suggestion hypnotique ?_
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 A. Celui de Chullapanthaka, tel que raconté dans le Commentaire Pâlî sur le Dhammapada, etc.
 
@@ -157,7 +157,7 @@ A. Retourner au vihâra et, si la même chose se produisait, saisir par le bras 
 
 A. Manomaya Iddhî.
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 354\. Q. _Les copies illusoires de la personne de l'Arhat étaient-elles matérielles ? Étaient-elles constituées de substance et le messager aurait-il pu les sentir et les manipuler ?_
 
@@ -181,7 +181,7 @@ A. Cela dépendrait de la volonté de l’Arhat, ou de l’hypnotiseur.
 
 359\. Q. _Que voulez-vous dire ?_
 
-A. En supposant que cinquante ou cinq cents personnes <span id="p103">[<sup><small>p. 103</small></sup>]</span> soient là, au lieu d'une seule, l'Arhat pourrait vouloir que l'illusion soit vue par tous de la même manière ; ou, s'il le voulait, il pourrait vouloir que le messager soit le seul à les voir.
+A. En supposant que cinquante ou cinq cents personnes <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> soient là, au lieu d'une seule, l'Arhat pourrait vouloir que l'illusion soit vue par tous de la même manière ; ou, s'il le voulait, il pourrait vouloir que le messager soit le seul à les voir.
 
 360\. Q. _Cette branche de la science est-elle bien connue de nos jours ?_
 
@@ -197,7 +197,7 @@ A. Il est dit : « Le monde existe par cause ; toutes choses existent par cause 
 
 363\. Q. _Le bouddhisme enseigne-t-il l'immuabilité de l'univers visible ; notre terre, le soleil, la lune_,
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 _les astres, les règnes minéral, végétal, animal et humain ?_
 
@@ -235,7 +235,7 @@ A. Oui, à la perfection.
 
 A. Oui, certains, mais pas tous de manière égale ; la capacité d’acquérir ces pouvoirs occultes varie selon l’individu.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 372\. Q. _Donnez des exemples_.
 
@@ -251,7 +251,7 @@ R. Non. Le Bouddha enseigne le contraire, dans cette belle histoire de Kisâ Got
 
 375\. Q. _Donnez-moi une idée des étapes successives du développement de Lokottara à Iddhî_.
 
-A. Il y a six degrés accessibles aux Arhats ; <span id="p107">[<sup><small>p. 107</small></sup>]</span> ce qui est plus élevé que ceux-ci ne peut être atteint que par un Bouddha.
+A. Il y a six degrés accessibles aux Arhats ; <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> ce qui est plus élevé que ceux-ci ne peut être atteint que par un Bouddha.
 
 376\. Q. _Décrivez les six étapes ou degrés_.
 
@@ -279,7 +279,7 @@ R. Non ; il les a expressément déconseillés, car ils tendent à semer la conf
 
 381\. Q. _Vous avez parlé d'un « déva » apparu au Prince [Siddhârtha](errata.htm#5) sous diverses formes ; que croient les bouddhistes concernant les races d'êtres élémentaires invisibles ayant des relations avec l'humanité ?_
 
-A. Ils croient qu'il existe des êtres qui habitent des mondes ou des sphères qui leur sont propres. La doctrine bouddhiste est que, par son développement intérieur et sa conquête de sa nature inférieure, l'Arhat devient <span id="p109">[<sup><small>p. 109</small></sup>]</span> supérieur même au plus redoutable des dévas, et peut soumettre et contrôler les ordres inférieurs.
+A. Ils croient qu'il existe des êtres qui habitent des mondes ou des sphères qui leur sont propres. La doctrine bouddhiste est que, par son développement intérieur et sa conquête de sa nature inférieure, l'Arhat devient <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> supérieur même au plus redoutable des dévas, et peut soumettre et contrôler les ordres inférieurs.
 
 382\. Q. _Combien de types de dévas existe-t-il ?_
 

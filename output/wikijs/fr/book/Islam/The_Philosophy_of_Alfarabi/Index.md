@@ -29,7 +29,7 @@ dateCreated: 2024-11-26T19:16:7Z
   </table>
 </figure>
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Action, humaine, [49](./4#p49).
 

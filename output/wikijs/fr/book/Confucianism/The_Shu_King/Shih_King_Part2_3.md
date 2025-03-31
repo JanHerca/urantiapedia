@@ -61,7 +61,7 @@ Les hommes graves et sages, bien qu'ils boivent, sont doux et maîtres d'eux-mê
 Les becs verts vont et viennent, ramassant du grain dans la cour. Hélas pour les affligés et les solitaires, jugés dignes des prisons ! Avec une poignée de grain, je sors et devine [^423] comment je pourrai devenir bon.
 
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 <a id="o3"></a>
 
@@ -77,7 +77,7 @@ Même les mûriers et les rottleras doivent être respectés [^425] ; mais perso
 
 
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 <a id="o4"></a>
 
@@ -101,7 +101,7 @@ Ces calomniateurs ! Qui a ourdi leurs complots ? Je prendrais ces calomniateurs 
 
 
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 <a id="o9"></a>
 
@@ -115,7 +115,7 @@ Les plats étaient bien chargés de millet, et les cuillères de bois d'épine �
 
 Dans les États de l'Est, grands et petits, les métiers à tisser sont vides. Alors des chaussures de fibre de dolichos sont fabriquées pour servir à marcher sur le givre. Des gentilshommes minces et élégants [^428] marchent sur cette route vers <i>K</i>âu. Leurs allées et venues me rendent le cœur triste.
 
-Eaux froides, jaillissant diversement de la source, Ne trempez pas le bois que j'ai coupé. Triste, je m'éveille et soupire : — Hélas pour nous, peuple laborieux ! Le bois a été coupé ; — Si seulement il était <span id="p363">[<sup><small>p. 363</small></sup>]</span> ramené à la maison ! Hélas pour nous, peuple laborieux ! Si seulement nous pouvions nous reposer !
+Eaux froides, jaillissant diversement de la source, Ne trempez pas le bois que j'ai coupé. Triste, je m'éveille et soupire : — Hélas pour nous, peuple laborieux ! Le bois a été coupé ; — Si seulement il était <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> ramené à la maison ! Hélas pour nous, peuple laborieux ! Si seulement nous pouvions nous reposer !
 
 Les fils de l'Est ne sont appelés qu'au service, sans encouragement ; tandis que les fils de l'Ouest brillent dans des robes splendides. Les fils des bateliers ont des fourrures d'ours et d'ours macabre. Les fils des familles les plus pauvres forment les officiers de la fonction publique.
 
@@ -123,7 +123,7 @@ Si nous leur présentons des spiritueux, ils les considèrent comme impropre à 
 
 Il y a la Voie Lactée dans le ciel [^430], Qui nous regarde dans la lumière ; Et les trois étoiles ensemble sont les Sœurs Tisseuses [^431], Passant en un jour à travers sept étapes (du ciel).
 
-Bien qu'ils passent par leurs sept étapes, ils n'accomplissent aucune œuvre brillante pour nous. Les bœufs de trait brillent de mille feux [^432], mais ils ne servent pas à tirer nos charrettes. À l'est se trouve Lucifer [^433] ; à l'ouest se trouve Hespérus [^433] ; long et courbé <span id="p364">[<sup><small>p. 364</small></sup>]</span> est le filet à lapins du ciel [^434] ; — mais ils n'occupent que leurs places.
+Bien qu'ils passent par leurs sept étapes, ils n'accomplissent aucune œuvre brillante pour nous. Les bœufs de trait brillent de mille feux [^432], mais ils ne servent pas à tirer nos charrettes. À l'est se trouve Lucifer [^433] ; à l'ouest se trouve Hespérus [^433] ; long et courbé <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> est le filet à lapins du ciel [^434] ; — mais ils n'occupent que leurs places.
 
 Au sud se trouve le tamis [^435], mais il ne sert à rien de tamiser. Au nord se trouve la louche [^436], mais elle ne sert à rien. Au sud se trouve le tamis, montrant distraitement son ouverture. Au nord se trouve la louche, levant son anse vers l'ouest.
 

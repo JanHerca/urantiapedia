@@ -36,7 +36,7 @@ TROISIÈME CHAPITRE.
 
 Comme au moment de la bataille, le lâche regarde derrière lui un fossé, un fourré ou une autre cachette [^774], (pensant que) personne ne sait qui va gagner ; (1)
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 « Un instant nous fera prendre la décision ; si nous perdons, nous fuirons. » Ainsi pense le lâche. (2)
 
@@ -56,7 +56,7 @@ Certains insultent un moine qui mène une vie sainte. Mais ces insulteurs sont l
 
 « C'est pourquoi vous avez encore un attachement, étant obéissants à la volonté des uns et des autres ; vous n'avez pas la pureté produite par le droit chemin, et n'avez pas dépassé le Cercle des Naissances. » (10)
 
-Or, un moine qui connaît (la vérité sur) Môksha <span id="p267">[<sup><small>p. 267</small></sup>]</span> devrait leur répondre [^778] : « Vous parlez ainsi, hésitant entre deux modes de vie (à savoir, celui des chefs de famille et celui des moines). » (11)
+Or, un moine qui connaît (la vérité sur) Môksha <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> devrait leur répondre [^778] : « Vous parlez ainsi, hésitant entre deux modes de vie (à savoir, celui des chefs de famille et celui des moines). » (11)
 
 « Vous mangez dans les récipients [^779] (des chefs de famille, et vous leur faites apporter de la nourriture pour un frère malade ; vous mangez des graines et buvez de l'eau froide [^780], et ce qui a été spécialement préparé (pour vous en cas de maladie). » (12)
 
@@ -70,7 +70,7 @@ Ils devraient être instruits dans la vérité par quelqu'un qui la connaît et 
 
 Lorsque (ces hérétiques) ne peuvent prouver (leur affirmation) par aucun argument, ils abandonnent la discussion et se rabattent sur leur (affirmation) audacieuse. (17)
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Vaincus par leurs passions et infectés par le mensonge, (ces hommes) ont recours à un langage grossier, comme les (sauvages) <i>T</i>aṅkana [^783] (quand ils sont battus) ont recours à leurs collines. (18)
 

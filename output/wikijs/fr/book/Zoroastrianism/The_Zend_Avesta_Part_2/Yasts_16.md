@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 Dîn (Daêna) préside le 24e jour du mois (Sîrôzah 24) et lui donne son nom ; elle est invoquée en compagnie de Kista, et de fait ce Yast, bien qu'il porte le nom de Daêna, est consacré à Kista (§§ 2, 7). Ces deux Génies sont cependant très étroitement liés dans leur nature, car Daêna est l'incarnation de la Loi ou Religion zoroastrienne, et Kista est la connaissance religieuse, la connaissance de ce qui conduit à la félicité (fargânak, nirvânâgñâna ; identique à Kisti).
 
@@ -56,7 +56,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 ## JE.
 
-1\. Nous sacrifions à la très juste <i>K</i>ista, faite par Mazda et sainte : nous sacrifions à la bonne Loi des adorateurs de Mazda, le fournisseur de bonnes provisions <span id="p265">[<sup><small>p. 265</small></sup>]</span>, qui court vite au but et libère au mieux des dangers [^1140], qui apporte des libations, qui est saint, intelligent et renommé, prompt au travail et prompt à l'ouvrage ; qui va vite et purifie bien ; la bonne Loi des adorateurs de Mazda ;
+1\. Nous sacrifions à la très juste <i>K</i>ista, faite par Mazda et sainte : nous sacrifions à la bonne Loi des adorateurs de Mazda, le fournisseur de bonnes provisions <span id="p265"><sup><small>[ p. 265 ]</small></sup></span>, qui court vite au but et libère au mieux des dangers [^1140], qui apporte des libations, qui est saint, intelligent et renommé, prompt au travail et prompt à l'ouvrage ; qui va vite et purifie bien ; la bonne Loi des adorateurs de Mazda ;
 
 2\. À qui Zarathoustra sacrifia, en disant : « Lève-toi de ton siège, sors de la Demeure [^1141], toi le très juste Kista, fait par Mazda et saint. Si tu es devant moi, reste pour moi ; si tu es derrière moi, rattrape-moi. »
 
@@ -68,7 +68,7 @@ Yênhê hâtãm : Tous ces êtres dont Ahura Mazda . . . .
 
 ## II.
 
-5\. Nous sacrifions à la très juste <i>K</i>ista, faite par Mazda et sainte : nous sacrifions à la bonne Loi des adorateurs de Mazda . . . . [^1142] <span id="p266">[<sup><small>p. 266</small></sup>]</span> 6\. À qui Zarathoustra a sacrifié pour la droiture de pensée, pour la droiture de parole, pour la droiture d'action, et pour ce bienfait,
+5\. Nous sacrifions à la très juste <i>K</i>ista, faite par Mazda et sainte : nous sacrifions à la bonne Loi des adorateurs de Mazda . . . . [^1142] <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> 6\. À qui Zarathoustra a sacrifié pour la droiture de pensée, pour la droiture de parole, pour la droiture d'action, et pour ce bienfait,
 
 7\. Que le très juste <i>K</i>ista, fait par Mazda et saint, lui donnerait la rapidité des pieds, l'ouïe rapide des oreilles, la force des bras, la santé de tout le corps, la robustesse de tout le corps et la vue du poisson Kara, qui vit sous les eaux et peut mesurer une ondulation des eaux pas plus épaisse qu'un cheveu, dans le Rangha, dont les extrémités sont lointaines et dont la profondeur est mille fois la hauteur d'un homme [^1143].
 
@@ -82,7 +82,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 10\. Que le très juste <i>K</i>ista, fait par Mazda et saint, lui donnerait la rapidité des pieds, l'ouïe rapide des oreilles, la force des bras, la santé de tout le corps, la robustesse de tout le corps et la vue du cheval mâle, qui, dans l'obscurité de la nuit, à travers la pluie, la neige, la grêle ou le grésil, d'aussi loin que neuf districts, peut percevoir le poil d'un cheval, mêlé à la terre, et sait s'il vient de la tête ou de la queue [^1144].
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
@@ -100,7 +100,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 14\. Nous sacrifions à la très juste <i>K</i>ista, faite par Mazda et sainte : nous sacrifions à la bonne Loi des adorateurs de Mazda . . . .
 
-15\. À qui la sainte Hvôvi [^1146] sacrifia en toute connaissance de cause, souhaitant que le saint Zarathustra lui donnât son bon narcotique [^1147], afin qu'elle puisse <span id="p268">[<sup><small>p. 268</small></sup>]</span> penser selon la loi, parler selon la loi et agir selon la loi.
+15\. À qui la sainte Hvôvi [^1146] sacrifia en toute connaissance de cause, souhaitant que le saint Zarathustra lui donnât son bon narcotique [^1147], afin qu'elle puisse <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> penser selon la loi, parler selon la loi et agir selon la loi.
 
 Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
@@ -122,7 +122,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 20\. Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
-Je bénis le sacrifice et la prière, et la force <span id="p269">[<sup><small>p. 269</small></sup>]</span> et la vigueur du très juste <i>K</i>ista, fait par Mazda et saint, et de la bonne Loi des adorateurs de Mazda.
+Je bénis le sacrifice et la prière, et la force <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> et la vigueur du très juste <i>K</i>ista, fait par Mazda et saint, et de la bonne Loi des adorateurs de Mazda.
 
 Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 

@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Il existe deux Ya<i>s</i>ts dédiés à Sraosha, l'ange du culte divin [^731] : l'un fait partie du Yasna (LVII \[LVI\]), et l'autre, appelé le Srôsh Ya<i>s</i>t Hâdhôkht. Qu'il appartienne au Hâdhôkht Nosk [^732], l'un des vingt et un Nosks dont l'Avesta originelle fut formée [^733], ou qu'il soit récité lors du sacrifice du Hâdhôkht [^734], une liturgie particulière, est une question sur laquelle nous n'avons pas suffisamment d'informations.
 
@@ -56,7 +56,7 @@ Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
 Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 ## JE.
 
@@ -80,7 +80,7 @@ Ou dans la réunion des fidèles, ou dans la ruée des adorateurs des Daêvas [^
 
 5\. Soit qu'il soit sur la route [^744], soit qu'il ait à craindre la loi [^745], ni ce jour-là ni cette nuit-là, le démon qui veut le tourmenter ne parviendra pas à jeter sur lui le regard de son mauvais œil, et la malice du voleur [^746] qui enlève le bétail ne l'atteindra pas.
 
-6\. Prononce donc ce mot, ô Zarathustra ! ce mot qui doit être prononcé [^747], lorsque tu tomberas sur les idolâtres [^748], les voleurs et les Daêvas se précipitant ensemble. Alors la malice des méchants adorateurs des Daêvas, des Yâtus et de leurs disciples, des Pairikas et de leurs disciples, sera effrayée et s'enfuira. À terre les Daêvas ! À terre les adorateurs des Daêvas, et ils retiennent leur bouche de mordre [^749]. <span id="p162">[<sup><small>p. 162</small></sup>]</span> 7\. Et c'est pourquoi nous emmenons autour de nous le Sraosha à la nature sainte, le saint, celui qui frappe les démons, comme on le fait avec les chiens des bergers ; c'est pourquoi nous sacrifions à Sraosha, le saint, le tueur de démons, avec de bonnes pensées, de bonnes paroles et de bonnes actions.
+6\. Prononce donc ce mot, ô Zarathustra ! ce mot qui doit être prononcé [^747], lorsque tu tomberas sur les idolâtres [^748], les voleurs et les Daêvas se précipitant ensemble. Alors la malice des méchants adorateurs des Daêvas, des Yâtus et de leurs disciples, des Pairikas et de leurs disciples, sera effrayée et s'enfuira. À terre les Daêvas ! À terre les adorateurs des Daêvas, et ils retiennent leur bouche de mordre [^749]. <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> 7\. Et c'est pourquoi nous emmenons autour de nous le Sraosha à la nature sainte, le saint, celui qui frappe les démons, comme on le fait avec les chiens des bergers ; c'est pourquoi nous sacrifions à Sraosha, le saint, le tueur de démons, avec de bonnes pensées, de bonnes paroles et de bonnes actions.
 
 8 [^750]. Pour son éclat et sa gloire, pour sa force et sa puissance victorieuse, pour ses sacrifices aux dieux [^751], je lui offrirai un sacrifice digne d'être entendu. J'offrirai des libations au saint Sraosha, au grand Ashi Vanguhi [^752] et à Nairyô-sangha [^753], le grand.
 
@@ -112,7 +112,7 @@ Pour son éclat et sa gloire, pour sa force et sa puissance victorieuse . . . . 
 
 Nous sacrifions au saint, au grand corps, au diable Sraosha, qui fait croître le monde, le saint et le maître de la sainteté ;
 
-Qui avec paix et amitié [^760] surveille le Druga et l'Esprit le plus bienfaisant : afin que les Amesha-Spe<i>n</i>tas puissent parcourir les sept Karshvares de la terre [^761] ; qui est l'enseignant de la <span id="p164">[<sup><small>p. 164</small></sup>]</span> Loi [^762] : il l'a lui-même apprise d'Ahura Mazda, le Saint.
+Qui avec paix et amitié [^760] surveille le Druga et l'Esprit le plus bienfaisant : afin que les Amesha-Spe<i>n</i>tas puissent parcourir les sept Karshvares de la terre [^761] ; qui est l'enseignant de la <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> Loi [^762] : il l'a lui-même apprise d'Ahura Mazda, le Saint.
 
 Pour son éclat et sa gloire, pour sa force et sa puissance victorieuse...
 
@@ -136,7 +136,7 @@ Les amis d'Ashi Vanguhi [^766];
 
 Les amis du bon <i>K</i>isti [^767];
 
-Les amis du plus droit <i>K</i>ista [^768]; <span id="p165">[<sup><small>p. 165</small></sup>]</span> 17\. Les amis de tous les dieux;
+Les amis du plus droit <i>K</i>ista [^768]; <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> 17\. Les amis de tous les dieux;
 
 Les amis du Mãthra Spe<i>n</i>ta ;
 
@@ -160,7 +160,7 @@ Nous sacrifions au saint, au grand corps, au diable Sraosha, qui fait croître l
 
 Le premier Sraosha, le suivant, le moyen et le plus élevé ; avec le premier sacrifice, avec le suivant, avec le moyen et avec le plus élevé [^770]. Nous sacrifions à tous les instants du saint et fort Sraosha, qui est le Verbe incarné ;
 
-19\. Le fort Sraosha, au courage viril, le guerrier aux bras puissants, qui brise les crânes des Daêvas ; qui frappe de coups violents [^772] et est fort pour frapper ; le saint Sraosha, qui frappe <span id="p166">[<sup><small>p. 166</small></sup>]</span> de coups violents ; nous sacrifions à l'Ascendant écrasant du saint Sraosha et d'Ar<i>s</i>ti [^773].
+19\. Le fort Sraosha, au courage viril, le guerrier aux bras puissants, qui brise les crânes des Daêvas ; qui frappe de coups violents [^772] et est fort pour frapper ; le saint Sraosha, qui frappe <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> de coups violents ; nous sacrifions à l'Ascendant écrasant du saint Sraosha et d'Ar<i>s</i>ti [^773].
 
 20\. Nous sacrifions pour toutes les maisons protégées par Sraosha, où le saint Sraosha est cher et amicalement traité et satisfait, ainsi que l'homme fidèle [^774], riche en bonnes pensées, riche en bonnes paroles, riche en bonnes actions.
 
@@ -192,7 +192,7 @@ Nous sacrifions au corps de l’enseignement traditionnel de longue date ;
 
 Nous sacrifions aux corps des Amesha-Spe<i>n</i>tas ;
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 Nous sacrifions nos propres corps, les Saoshya<i>n</i><i>t</i>s, la partie à deux pieds de la sainte création ;
 

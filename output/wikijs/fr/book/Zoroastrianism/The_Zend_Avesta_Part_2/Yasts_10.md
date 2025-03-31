@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Ce Yast, l'un des plus longs de l'Avesta et l'un des plus intéressants d'un point de vue littéraire, n'est pas très instructif pour la mythologie. Il se compose de longs passages descriptifs, parfois assez fougueux, et de prières et d'invocations ferventes à la miséricorde ou à la protection. À l'origine, Mithra était le dieu de la lumière céleste (§§ 12, 50, 67, 104, 124 et suiv., 136 et suiv., etc.) ; et en ce sens, il connaît la vérité, car il voit tout ; il est donc pris comme témoin de la vérité, il est le gardien des serments et de la bonne foi (§§ 2, 44 et suiv., 79 et suiv., 81 et suiv., etc.) ; il châtie ceux qui rompent leurs promesses et mentent à Mithra, détruit leurs maisons et les frappe au combat (§§ 17 et suivants, 28 et suivants, 35 et suivants, 47 et suivants, 99 et suivants, 105 et suivants, 112 et suivants, 128 et suivants, etc.).
 
@@ -70,7 +70,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Nous offrons des libations à Mithra, le seigneur des vastes pâturages, qui donne une demeure heureuse et une bonne demeure aux nations aryennes.
 
-5\. « Qu'il vienne à nous pour le secours ! Qu'il vienne à nous pour le bien-être ! Qu'il vienne à nous pour la joie ! Qu'il vienne à nous pour la miséricorde ! Qu'il vienne à nous pour la santé ! Qu'il vienne à nous pour la victoire ! Qu'il <span id="p121">[<sup><small>p. 121</small></sup>]</span> vienne à nous pour la bonne conscience [^561] ! Qu'il vienne à nous pour la félicité [^562] ! Lui, le terrible et le puissant, digne de sacrifice et de prière, à ne pas être trompé nulle part dans le monde matériel, Mithra, le seigneur des vastes pâturages.
+5\. « Qu'il vienne à nous pour le secours ! Qu'il vienne à nous pour le bien-être ! Qu'il vienne à nous pour la joie ! Qu'il vienne à nous pour la miséricorde ! Qu'il vienne à nous pour la santé ! Qu'il vienne à nous pour la victoire ! Qu'il <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> vienne à nous pour la bonne conscience [^561] ! Qu'il vienne à nous pour la félicité [^562] ! Lui, le terrible et le puissant, digne de sacrifice et de prière, à ne pas être trompé nulle part dans le monde matériel, Mithra, le seigneur des vastes pâturages.
 
 6\. « Je lui offrirai des libations, à lui le fort Yazata, au puissant Mithra, le plus bienfaisant envers les créatures : je m'adresserai à lui avec charité [^563] et prières : je lui offrirai un sacrifice digne d'être entendu, à lui Mithra, le seigneur des vastes pâturages, avec le Haoma et la viande, avec le baresma, avec la sagesse de la langue, avec les sorts sacrés, avec la parole, avec les actes, avec les libations et avec les paroles bien dites.
 
@@ -78,7 +78,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 ## II.
 
-7\. « Nous sacrifions à Mithra, le seigneur des vastes pâturages, qui dit la vérité, un chef dans les assemblées, avec mille oreilles, bien fait, avec dix mille yeux, haut, avec une pleine connaissance [^565], fort, sans sommeil et toujours éveillé [^566] ; <span id="p122">[<sup><small>p. 122</small></sup>]</span> 8\. « À qui les chefs des nations offrent des sacrifices, alors qu'ils vont sur le champ de bataille, contre des armées dévastatrices, contre des ennemis venant en ordre de bataille, dans les luttes des nations en conflit.
+7\. « Nous sacrifions à Mithra, le seigneur des vastes pâturages, qui dit la vérité, un chef dans les assemblées, avec mille oreilles, bien fait, avec dix mille yeux, haut, avec une pleine connaissance [^565], fort, sans sommeil et toujours éveillé [^566] ; <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> 8\. « À qui les chefs des nations offrent des sacrifices, alors qu'ils vont sur le champ de bataille, contre des armées dévastatrices, contre des ennemis venant en ordre de bataille, dans les luttes des nations en conflit.
 
 9\. « De quelque côté qu'il ait été adoré en premier dans la plénitude de la foi d'un cœur dévoué, de ce côté se tourne Mithra, le seigneur des vastes pâturages, avec le vent qui frappe les démons, avec la pensée maudite du sage [^567].
 
@@ -96,7 +96,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 12\. « Nous sacrifions à Mithra, le seigneur des vastes pâturages, . . . . sans sommeil et toujours éveillé ;
 
-13\. « Qui est le premier des dieux célestes à s'élever au-dessus du Hara [^569], devant le soleil immortel au cheval rapide [^570] ; <span id="p123">[<sup><small>p. 123</small></sup>]</span> qui, le premier dans une tenue dorée, s'empare des magnifiques sommets, et de là regarde d'un œil bienfaisant la demeure des Aryens.
+13\. « Qui est le premier des dieux célestes à s'élever au-dessus du Hara [^569], devant le soleil immortel au cheval rapide [^570] ; <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> qui, le premier dans une tenue dorée, s'empare des magnifiques sommets, et de là regarde d'un œil bienfaisant la demeure des Aryens.
 
 14\. « Là où les vaillants chefs rassemblent leurs nombreuses troupes en ordre de bataille [^571] ; là où les hautes montagnes, riches en pâturages et en eaux, donnent beaucoup au bétail [^572] ; là où se trouvent les lacs profonds aux eaux salées [^573] ; là où les rivières au large débit gonflent et se précipitent vers Iskata et Pouruta, Mouru et Harôyu, le Gava-Sughdha et Hvâirizem [^574] ;
 
@@ -134,7 +134,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 ## VII.
 
@@ -180,7 +180,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 36\. « Celui qui déclenche la bataille, qui se dresse contre les armées, qui, se dressant contre les armées, brise les lignes déployées. Les ailes des colonnes parties au combat tremblent, et il jette la terreur au centre de l'armée dévastatrice. »
 
-37\. « Il peut faire venir sur eux, et fait venir sur eux, la détresse et la peur ; il renverse la tête de ceux qui mentent à Mithra, il arrache la tête de ceux qui mentent à Mithra. » <span id="p129">[<sup><small>p. 129</small></sup>]</span> 38\. « Triste est la demeure, dépeuplée d'enfants, où demeurent les hommes qui mentent à Mithra, et, en vérité, le tueur diabolique d'hommes fidèles. La vache qui broute suit un triste chemin errant, chassée le long des vallées [^597] des Mithradru<i>g</i>es : ils [^598] se tiennent sur la route, laissant des larmes couler sur leur menton [^599]. »
+37\. « Il peut faire venir sur eux, et fait venir sur eux, la détresse et la peur ; il renverse la tête de ceux qui mentent à Mithra, il arrache la tête de ceux qui mentent à Mithra. » <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> 38\. « Triste est la demeure, dépeuplée d'enfants, où demeurent les hommes qui mentent à Mithra, et, en vérité, le tueur diabolique d'hommes fidèles. La vache qui broute suit un triste chemin errant, chassée le long des vallées [^597] des Mithradru<i>g</i>es : ils [^598] se tiennent sur la route, laissant des larmes couler sur leur menton [^599]. »
 
 39\. « Leurs flèches à plumes de faucon, tirées de la corde de l'arc bien tendu, volent vers la cible et ne la touchent pas, alors que Mithra, le seigneur des vastes pâturages, en colère, offensé et insatisfait, vient à leur rencontre.
 
@@ -190,7 +190,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Leurs massues, bien tombantes et frappant la tête des hommes, n'atteignent pas leur cible, lorsque Mithra, le seigneur des vastes pâturages, en colère, offensé et insatisfait, vient à leur rencontre.
 
-41\. « Mithra les effraie ; Rashnu [^600] leur inflige une contre-effroi [^601] ; le saint Sraosha les chasse de tous côtés vers les deux Yazatas, les gardiens du monde [^602]. Ils font fondre les rangs de l'armée, lorsque Mithra, le seigneur <span id="p130">[<sup><small>p. 130</small></sup>]</span> des vastes pâturages, en colère, offensé et insatisfait, vient à leur rencontre [^603]. »
+41\. « Mithra les effraie ; Rashnu [^600] leur inflige une contre-effroi [^601] ; le saint Sraosha les chasse de tous côtés vers les deux Yazatas, les gardiens du monde [^602]. Ils font fondre les rangs de l'armée, lorsque Mithra, le seigneur <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> des vastes pâturages, en colère, offensé et insatisfait, vient à leur rencontre [^603]. »
 
 42\. Ils crient à Mithra, le seigneur des vastes pâturages, en disant : « Ô Mithra, seigneur des vastes pâturages ! Voici nos chevaux de feu qui nous emmènent, alors qu'ils fuient Mithra ; voici nos bras robustes coupés en morceaux par l'épée, ô Mithra ! »
 
@@ -204,7 +204,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Dont la demeure, vaste comme la terre, s'étend sur le monde matériel, vaste [^604], sans limites [^604] et lumineuse, une demeure qui s'étend au loin et au loin.
 
-45\. « Dont les huit amis [^605] sont assis comme espions pour Mithra, sur toutes les hauteurs, à tous les postes de surveillance, observant l'homme qui ment à Mithra, regardant ceux-là, se souvenant de ceux qui ont menti à Mithra, mais gardant les voies de ceux dont la vie est recherchée par <span id="p131">[<sup><small>p. 131</small></sup>]</span> les hommes qui mentent à Mithra, et, en vérité, par les tueurs diaboliques d'hommes fidèles.
+45\. « Dont les huit amis [^605] sont assis comme espions pour Mithra, sur toutes les hauteurs, à tous les postes de surveillance, observant l'homme qui ment à Mithra, regardant ceux-là, se souvenant de ceux qui ont menti à Mithra, mais gardant les voies de ceux dont la vie est recherchée par <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> les hommes qui mentent à Mithra, et, en vérité, par les tueurs diaboliques d'hommes fidèles.
 
 46\. 'Aidant et gardant, gardant derrière et gardant devant, Mithra, le seigneur des vastes pâturages, se révèle un espion et un observateur introuvable pour l'homme à qui il vient en aide de toute la force de son âme, lui des dix mille espions, le dieu puissant, omniscient, introuvable.
 
@@ -224,7 +224,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 49 « Nous sacrifions à Mithra, le seigneur des vastes pâturages, . . . . sans sommeil et toujours éveillé ;
 
-50\. 'Pour qui le Créateur, Ahura Mazda, a <span id="p132">[<sup><small>p. 132</small></sup>]</span> construit une demeure sur le Hara Berezaiti, la montagne brillante autour de laquelle les nombreuses (étoiles) tournent [^608], où ne viennent ni nuit ni obscurité, ni vent froid ni vent chaud, ni maladie mortelle, ni impureté commise par les Daêvas, et où les nuages ​​ne peuvent atteindre le Haraiti Bareza [^609] ;
+50\. 'Pour qui le Créateur, Ahura Mazda, a <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> construit une demeure sur le Hara Berezaiti, la montagne brillante autour de laquelle les nombreuses (étoiles) tournent [^608], où ne viennent ni nuit ni obscurité, ni vent froid ni vent chaud, ni maladie mortelle, ni impureté commise par les Daêvas, et où les nuages ​​ne peuvent atteindre le Haraiti Bareza [^609] ;
 
 51\. 'Une demeure que tous les Amesha-Spe<i>n</i>tas, en un seul accord avec le soleil, ont construite pour lui dans la plénitude de la foi d'un cœur dévoué, et il contemple l'ensemble du monde matériel depuis le Haraiti Bareza.
 
@@ -238,7 +238,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 54\. « Qui, les mains levées, crie toujours à Ahura Mazda, en disant : « Je suis le bienveillant gardien de toutes les créatures, je suis le bienveillant soutien de toutes les créatures ; pourtant les hommes ne m'adorent pas par un sacrifice dans lequel je suis invoqué par mon propre nom, comme ils adorent les autres dieux par des sacrifices dans lesquels ils sont invoqués par leurs propres noms.
 
-55 [^612]. « Si les hommes m'adoraient par un sacrifice <span id="p133">[<sup><small>p. 133</small></sup>]</span> où je serais invoqué par mon propre nom, comme ils adorent les autres Yazatas par des sacrifices où ils sont invoqués par leur propre nom, alors je viendrais aux fidèles au moment fixé ; je viendrais au moment fixé de ma belle vie immortelle. »
+55 [^612]. « Si les hommes m'adoraient par un sacrifice <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> où je serais invoqué par mon propre nom, comme ils adorent les autres Yazatas par des sacrifices où ils sont invoqués par leur propre nom, alors je viendrais aux fidèles au moment fixé ; je viendrais au moment fixé de ma belle vie immortelle. »
 
 56 [^613]. « Mais l'homme pieux, tenant des libations dans ses mains, t'adore avec un sacrifice, dans lequel tu es invoqué par ton propre nom et avec les paroles appropriées.
 
@@ -250,7 +250,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 57\. « Écoute notre sacrifice, ô Mithra ! Sois satisfait de notre sacrifice, ô Mithra ! Viens t'asseoir à notre sacrifice ! Accepte nos libations ! Accepte-les comme elles ont été consacrées ! Rassemble-les avec amour et dépose-les dans le Garô-nmâna ! »
 
-58\. « Accorde-nous ces bienfaits que nous te demandons, ô dieu puissant ! conformément aux paroles de la révélation, à savoir la richesse, la force et la victoire, une bonne conscience et la félicité, une bonne renommée et une bonne âme ; la sagesse et la connaissance qui donne le bonheur, la force victorieuse donnée par Ahura, l'Ascendant écrasant d'Asha-Vahista, et la conversation (avec Dieu) sur la Sainte Parole. <span id="p134">[<sup><small>p. 134</small></sup>]</span> 59\. « Accorde-nous, dans un bon esprit et un esprit élevé, exaltés dans la joie et un bon esprit, de frapper tous nos ennemis ; que nous, dans un bon esprit et un esprit élevé, exaltés dans la joie et un bon esprit, de frapper tous nos ennemis ; afin que, dans un bon esprit et un esprit élevé, exaltés dans la joie et un bon esprit, nous puissions frapper toute la malice des Daêvas et des Hommes, des Yâtus et des Pairikas, des oppresseurs, des aveugles et des sourds.
+58\. « Accorde-nous ces bienfaits que nous te demandons, ô dieu puissant ! conformément aux paroles de la révélation, à savoir la richesse, la force et la victoire, une bonne conscience et la félicité, une bonne renommée et une bonne âme ; la sagesse et la connaissance qui donne le bonheur, la force victorieuse donnée par Ahura, l'Ascendant écrasant d'Asha-Vahista, et la conversation (avec Dieu) sur la Sainte Parole. <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> 59\. « Accorde-nous, dans un bon esprit et un esprit élevé, exaltés dans la joie et un bon esprit, de frapper tous nos ennemis ; que nous, dans un bon esprit et un esprit élevé, exaltés dans la joie et un bon esprit, de frapper tous nos ennemis ; afin que, dans un bon esprit et un esprit élevé, exaltés dans la joie et un bon esprit, nous puissions frapper toute la malice des Daêvas et des Hommes, des Yâtus et des Pairikas, des oppresseurs, des aveugles et des sourds.
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
@@ -266,7 +266,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 61\. « Nous sacrifions à Mithra, le seigneur des vastes pâturages, . . . . sans sommeil et toujours éveillé ;
 
-« Aux jambes fermes [^615], un observateur pleinement éveillé ; vaillant, un chef dans les assemblées ; faisant couler les eaux ; écoutant les appels ; faisant couler les eaux et pousser les plantes ; régnant sur les <span id="p135">[<sup><small>p. 135</small></sup>]</span> Karshwares [^616] ; délivrant [^617] ; heureux [^618] ; indéchiffrable ; doté de nombreux sens [^619] ; une créature de sagesse ;
+« Aux jambes fermes [^615], un observateur pleinement éveillé ; vaillant, un chef dans les assemblées ; faisant couler les eaux ; écoutant les appels ; faisant couler les eaux et pousser les plantes ; régnant sur les <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> Karshwares [^616] ; délivrant [^617] ; heureux [^618] ; indéchiffrable ; doté de nombreux sens [^619] ; une créature de sagesse ;
 
 62\. « Qui ne donne ni force ni vigueur à celui qui a menti à Mithra ; qui ne donne ni gloire ni aucun bienfait à celui qui a menti à Mithra.
 
@@ -282,7 +282,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Qui prend possession [^621] de la belle loi qui s'étend largement, grandement et puissamment, et dont le visage regarde tous les sept Karshvares de la terre ;
 
-65\. « Qui est rapide parmi les rapides, libéral parmi les libéraux, fort parmi les forts, un chef d'assemblée parmi les chefs d'assemblées ; donneur d'accroissement, donneur de graisse, donneur de bétail, donneur de souveraineté, donneur de fils, donneur de gaieté [^622]\ et donneur de félicité [^622]\. <span id="p136">[<sup><small>p. 136</small></sup>]</span> 66\. « Avec qui marchent Ashi Vanguhi et Pâre<i>n</i>di sur son char léger [^623], le redoutable Courage Viril, la redoutable Gloire royale, le redoutable Ciel souverain, la redoutable pensée maudite [^624] des sages, les redoutables Fravashis des fidèles, et celui qui maintient unis ensemble les nombreux fidèles adorateurs de Mazda [^625].
+65\. « Qui est rapide parmi les rapides, libéral parmi les libéraux, fort parmi les forts, un chef d'assemblée parmi les chefs d'assemblées ; donneur d'accroissement, donneur de graisse, donneur de bétail, donneur de souveraineté, donneur de fils, donneur de gaieté [^622]\ et donneur de félicité [^622]\. <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> 66\. « Avec qui marchent Ashi Vanguhi et Pâre<i>n</i>di sur son char léger [^623], le redoutable Courage Viril, la redoutable Gloire royale, le redoutable Ciel souverain, la redoutable pensée maudite [^624] des sages, les redoutables Fravashis des fidèles, et celui qui maintient unis ensemble les nombreux fidèles adorateurs de Mazda [^625].
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
@@ -294,7 +294,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 68\. « Dont le char est embrassé [^630] par le grand Ashi Vanguhi ; à qui la Loi de Mazda ouvre un chemin, pour qu'il puisse aller facilement ; à qui quatre coursiers célestes, blancs, brillants, vus de loin, bienfaisants, dotés de connaissance, emportent rapidement [^631] l'espace céleste [^632], tandis que la pensée maudite du sage le pousse en avant ;
 
-69\. « De qui tous les Daêvas invisibles et les démons Varenya [^633] fuient de peur. Oh ! puissions-nous <span id="p137">[<sup><small>p. 137</small></sup>]</span> ne jamais tomber sous la ruée du seigneur en colère [^634], qui va et se précipite de mille côtés contre son ennemi, lui, l'un des dix mille espions, le dieu puissant, omniscient et infidèle.
+69\. « De qui tous les Daêvas invisibles et les démons Varenya [^633] fuient de peur. Oh ! puissions-nous <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> ne jamais tomber sous la ruée du seigneur en colère [^634], qui va et se précipite de mille côtés contre son ennemi, lui, l'un des dix mille espions, le dieu puissant, omniscient et infidèle.
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
@@ -310,7 +310,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Pour son éclat et sa gloire, nous lui offrons un sacrifice digne d'être entendu...
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 ## XIX.
 
@@ -328,7 +328,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Tu as de bons chevaux, tu as un bon char ; tu apportes du secours à chaque appel, et tu es puissant.
 
-77\. « Je te prierai de m'aider, par de nombreuses consécrations, par de bonnes consécrations de libations ; par de nombreuses offrandes, par de bonnes offrandes de libations, afin que nous, demeurant en toi, puissions longtemps habiter une bonne demeure, pleine de toutes les richesses que l'on peut souhaiter. <span id="p139">[<sup><small>p. 139</small></sup>]</span> 78\. « Tu gardes les nations qui rendent un bon culte à Mithra, le seigneur des vastes pâturages ; tu écrases en morceaux celles qui se plaisent à la dévastation. Je te prierai de m'aider : qu'il vienne à nous pour nous aider, le terrible et très puissant Mithra, l'adorable et digne de louanges, le glorieux seigneur des nations.
+77\. « Je te prierai de m'aider, par de nombreuses consécrations, par de bonnes consécrations de libations ; par de nombreuses offrandes, par de bonnes offrandes de libations, afin que nous, demeurant en toi, puissions longtemps habiter une bonne demeure, pleine de toutes les richesses que l'on peut souhaiter. <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> 78\. « Tu gardes les nations qui rendent un bon culte à Mithra, le seigneur des vastes pâturages ; tu écrases en morceaux celles qui se plaisent à la dévastation. Je te prierai de m'aider : qu'il vienne à nous pour nous aider, le terrible et très puissant Mithra, l'adorable et digne de louanges, le glorieux seigneur des nations.
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
@@ -348,7 +348,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Qui a fait une demeure pour Rashnu, et à qui Rashnu a donné toute son âme pour une longue amitié ;
 
-82\. « À qui Ahura Mazda a donné mille <span id="p140">[<sup><small>p. 140</small></sup>]</span> sens [^647] et dix mille yeux pour voir. Avec ces yeux et ces sens, il observe l'homme qui blesse Mithra, l'homme qui ment à Mithra. Par ces yeux et ces sens, il est indubitable, lui, des dix mille espions, le dieu puissant, omniscient, indubitable. »
+82\. « À qui Ahura Mazda a donné mille <span id="p140"><sup><small>[ p. 140 ]</small></sup></span> sens [^647] et dix mille yeux pour voir. Avec ces yeux et ces sens, il observe l'homme qui blesse Mithra, l'homme qui ment à Mithra. Par ces yeux et ces sens, il est indubitable, lui, des dix mille espions, le dieu puissant, omniscient, indubitable. »
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
@@ -368,7 +368,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Celui que le pauvre homme qui suit la bonne loi, lorsqu'il est lésé et privé de ses droits, invoque à l'aide, les mains levées.
 
-85\. « La voix de ses gémissements atteint le ciel, elle parcourt la terre tout autour, elle parcourt <span id="p141">[<sup><small>p. 141</small></sup>]</span> les sept Karshvares, qu'il prononce sa prière à voix basse [^650] ou à voix haute.
+85\. « La voix de ses gémissements atteint le ciel, elle parcourt la terre tout autour, elle parcourt <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> les sept Karshvares, qu'il prononce sa prière à voix basse [^650] ou à voix haute.
 
 86\. 'La vache égarée l'invoque pour obtenir de l'aide [^651], désirant ardemment les étables :
 
@@ -382,7 +382,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 88\. « Nous sacrifions à Mithra, le seigneur des vastes pâturages, . . . . sans sommeil et toujours éveillé ;
 
-« À qui le Haoma vivifiant, guérisseur, beau, majestueux et aux yeux d'or a offert un sacrifice sur la plus haute des hauteurs, sur le Haraiti Bareza [^653], il <span id="p142">[<sup><small>p. 142</small></sup>]</span> l'immaculé à celui qui est immaculé, avec un baresma immaculé, des libations immaculées et des paroles immaculées ;
+« À qui le Haoma vivifiant, guérisseur, beau, majestueux et aux yeux d'or a offert un sacrifice sur la plus haute des hauteurs, sur le Haraiti Bareza [^653], il <span id="p142"><sup><small>[ p. 142 ]</small></sup></span> l'immaculé à celui qui est immaculé, avec un baresma immaculé, des libations immaculées et des paroles immaculées ;
 
 89\. « Que [^654] le saint Ahura Mazda a établi comme prêtre, prompt à accomplir le sacrifice et à chanter haut et fort. Il accomplit le sacrifice d'une voix forte, comme un prêtre prompt à sacrifier et à chanter haut et fort, un prêtre d'Ahura Mazda, un prêtre des Amesha-Spe<i>n</i>tas. Sa voix s'éleva jusqu'au ciel, parcourut la terre tout autour, parcourut les sept Karshvares. »
 
@@ -402,7 +402,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 95\. Nous sacrifions à Mithra, le seigneur des vastes pâturages, . . . . sans sommeil et toujours éveillé ;
 
-« Qui parcourt la terre, dans toute sa largeur, après le coucher du soleil [^661], touche les deux extrémités de <span id="p144">[<sup><small>p. 144</small></sup>]</span> cette terre large et ronde, dont les extrémités sont éloignées, et examine tout ce qui est entre la terre et les cieux,
+« Qui parcourt la terre, dans toute sa largeur, après le coucher du soleil [^661], touche les deux extrémités de <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> cette terre large et ronde, dont les extrémités sont éloignées, et examine tout ce qui est entre la terre et les cieux,
 
 96\. « Il brandit dans ses mains une massue à cent nœuds, à cent tranchants, qui s'élance et abat les hommes ; une massue en laiton rouge, en laiton doré et solide ; la plus forte de toutes les armes, la plus victorieuse de toutes les armes [^662] ;
 
@@ -418,7 +418,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « De qui tous les Daêvas invisibles et les démons Varenya fuient par peur [^668].
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 « Le seigneur des nations, Mithra, le seigneur des vastes pâturages, avance à la droite de cette terre large et ronde, dont les extrémités sont lointaines.
 
@@ -438,7 +438,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 ## XXVII.
 
@@ -456,7 +456,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Si les mauvaises paroles de l’homme terrestre étaient cent fois pires, elles ne s’élèveraient pas aussi haut que les bonnes paroles du Mithra céleste ;
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 « Si les mauvaises actions de l’homme terrestre étaient cent fois pires, elles ne s’élèveraient pas aussi haut que les bonnes actions du Mithra céleste ;
 
@@ -470,7 +470,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 109\. « À qui donnerai-je en retour, sans qu'il y pense, la souveraineté redoutable, magnifiquement déployée, avec de nombreuses armées, et la plus parfaite ; la souveraineté d'un tyran tout-puissant, qui abat les têtes, vaillant, frappant et invaincu ; qui ordonne que le châtiment soit fait et que son ordre soit exécuté immédiatement, ce qu'il a ordonné dans sa colère ? »
 
-« Ô Mithra ! Quand tu es offensé et insatisfait, il apaise ton esprit et satisfait Mithra. » <span id="p148">[<sup><small>p. 148</small></sup>]</span> 110\. « À qui, dans ma puissance, transmettrai-je la maladie et la mort ? À qui transmettrai-je la pauvreté et la stérilité [^678] ? De qui d'un seul coup retrancherai-je la descendance ?
+« Ô Mithra ! Quand tu es offensé et insatisfait, il apaise ton esprit et satisfait Mithra. » <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> 110\. « À qui, dans ma puissance, transmettrai-je la maladie et la mort ? À qui transmettrai-je la pauvreté et la stérilité [^678] ? De qui d'un seul coup retrancherai-je la descendance ?
 
 111\. « À qui ôterai-je, sans qu'il y pense, la souveraineté redoutable, magnifiquement déployée, avec de nombreuses armées, et très parfaite ; la souveraineté d'un tyran tout-puissant, qui fait tomber les têtes, vaillant, frappant et invaincu ; qui ordonne que le châtiment soit fait et que son ordre soit exécuté aussitôt, ce qu'il a ordonné dans sa colère ? »
 
@@ -486,7 +486,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 113\. « Et puis, du bétail et des mâles viennent paître, autant qu'il le veut.
 
-« Que Mithra et Ahura [^681], les dieux suprêmes, viennent à nous pour demander de l'aide, lorsque le poignard élève sa voix <span id="p149">[<sup><small>p. 149</small></sup>]</span> à haute voix [^682], lorsque les naseaux des chevaux tremblent, lorsque les poignards . . . . [^683], lorsque les cordes des arcs sifflent et tirent des flèches acérées ; alors la progéniture de ceux dont les libations sont haïes tombe frappée au sol, les cheveux arrachés.
+« Que Mithra et Ahura [^681], les dieux suprêmes, viennent à nous pour demander de l'aide, lorsque le poignard élève sa voix <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> à haute voix [^682], lorsque les naseaux des chevaux tremblent, lorsque les poignards . . . . [^683], lorsque les cordes des arcs sifflent et tirent des flèches acérées ; alors la progéniture de ceux dont les libations sont haïes tombe frappée au sol, les cheveux arrachés.
 
 114\. « Ainsi puisses-tu, ô Mithra, seigneur des vastes pâturages ! donner de la rapidité à nos équipes, de la force à nos propres corps, et que nous puissions surveiller avec plein succès ceux qui nous haïssent, abattre nos ennemis et détruire d'un seul coup nos adversaires, nos ennemis et ceux qui nous haïssent [^684].
 
@@ -504,7 +504,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 « Mithra est quarante fois entre deux partenaires [^688] ;
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 « Mithra est cinquante fois entre femme et mari [^689] ;
 
@@ -532,7 +532,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 « Offre un sacrifice à Mithra, ô Spitama ! et ordonne à tes élèves de faire de même.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 « Que l'adorateur de Mazda te sacrifie [^695] avec du petit bétail, avec du bétail noir, avec des oiseaux volants, glissant vers l'avant sur des ailes.
 
@@ -556,7 +556,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 126\. 'À sa droite se trouve Rashnu-Razi<i>s</i>ta [^706], le plus bienfaisant et le plus bien formé.
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 « À sa gauche se tient la très droite <i>K</i>ista [^707], la sainte, portant des libations dans ses mains, vêtue de vêtements blancs, et blanche elle-même ; et la pensée maudite [^708] de la Loi de Mazda.
 
@@ -580,7 +580,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 133\. « Après avoir vaincu les Daêvas, après avoir vaincu les hommes qui ont menti à Mithra, Mithra, le seigneur des vastes pâturages, avance à travers Arezahê et Savahê, à travers Fradadhafshu et Vîdadhafshu, à travers Vourubare<i>s</i>ti et Vouru<i>g</i>are<i>s</i>ti, à travers notre Karshvare, le brillant <i>H</i><i>v</i>aniratha [^716]. »
 
-134\. 'Angra Mainyu, qui n'est que mort, s'enfuit de peur ; Aêshma, le malfaisant Peshotanu, s'enfuit <span id="p155">[<sup><small>p. 155</small></sup>]</span> de peur ; le Bûshyãsta aux longues mains s'enfuit de peur ; tous les Daêvas invisibles et les démons Varenya s'enfuient de peur.
+134\. 'Angra Mainyu, qui n'est que mort, s'enfuit de peur ; Aêshma, le malfaisant Peshotanu, s'enfuit <span id="p155"><sup><small>[ p. 155 ]</small></sup></span> de peur ; le Bûshyãsta aux longues mains s'enfuit de peur ; tous les Daêvas invisibles et les démons Varenya s'enfuient de peur.
 
 135\. « Oh ! puissions-nous ne jamais tomber sur la ruée de Mithra, le seigneur des vastes pâturages, lorsque nous sommes en colère ! Puisse Mithra, le seigneur des vastes pâturages, ne jamais nous frapper dans sa colère ; lui qui se dresse sur cette terre comme le plus fort de tous les dieux, le plus vaillant de tous les dieux, le plus énergique de tous les dieux, le plus rapide de tous les dieux, le plus redoutable de tous les dieux, lui, Mithra, le seigneur des vastes pâturages [^717].
 
@@ -614,7 +614,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 ## XXXIV.
 
@@ -634,7 +634,7 @@ Guerrier coiffé d'un heaume d'argent [^680] et d'une cuirasse d'or [^680], tuan
 
 « Nous sacrifions au Mithra dans les pays ;
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 « Nous sacrifions au Mithra dans ce pays [^725] ;
 

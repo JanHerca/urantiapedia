@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 DEUXIÈME ADHYÂYA.
 
@@ -48,7 +48,7 @@ DEUXIÈME ADHYÂYA.
 
 5\. « Celui qui connaît cette âme vivante qui mange du miel (qui perçoit les objets) comme étant le Soi, toujours proche, le Seigneur du passé et du futur, désormais n'a plus peur. C'est cela. »
 
-6\. 'Celui qui (connaît) celui [^119] qui est né le premier de <span id="p16">[<sup><small>p. 16</small></sup>]</span> la chaleur couvante [^120] (car il est né avant l'eau), qui, entrant dans le cœur, y demeure, et a été perçu des éléments. C'est cela.'
+6\. 'Celui qui (connaît) celui [^119] qui est né le premier de <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> la chaleur couvante [^120] (car il est né avant l'eau), qui, entrant dans le cœur, y demeure, et a été perçu des éléments. C'est cela.'
 
 7\. '(Celui qui sait) Aditi aussi, qui est un avec toutes les déités, qui s'élève avec Prânâ (souffle ou Hiranyagarbha), qui, pénétrant dans le cœur, y demeure et est né des éléments. Ceci est cela.'
 
@@ -62,12 +62,12 @@ DEUXIÈME ADHYÂYA.
 
 12\. « La personne (purusha), de la taille d'un pouce [^122], se tient au milieu du Soi (corps ?), maître du passé et du futur, et désormais n'a plus peur. C'est cela. »
 
-13\. « Cette personne, de la taille d'un pouce, est comme une lumière sans fumée, seigneur du passé et de l'avenir, elle est la même aujourd'hui et demain. Ceci est cela. » <span id="p17">[<sup><small>p. 17</small></sup>]</span> 14\. « Comme l'eau de pluie tombée sur la crête d'une montagne coule le long des rochers de tous côtés, ainsi celui qui voit une différence entre les qualités court après elles de tous côtés. »
+13\. « Cette personne, de la taille d'un pouce, est comme une lumière sans fumée, seigneur du passé et de l'avenir, elle est la même aujourd'hui et demain. Ceci est cela. » <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> 14\. « Comme l'eau de pluie tombée sur la crête d'une montagne coule le long des rochers de tous côtés, ainsi celui qui voit une différence entre les qualités court après elles de tous côtés. »
 
 15\. « Comme l'eau pure versée dans l'eau pure reste la même, ainsi, ô Gautama, est le Soi d'un penseur qui sait. »
 
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## CINQUIÈME VALLÎ.
 
@@ -81,7 +81,7 @@ DEUXIÈME ADHYÂYA.
 
 5\. « Aucun mortel ne vit du souffle qui monte et du souffle qui descend. Nous vivons d'un autre, en qui ces deux souffles reposent. »
 
-6\. « Eh bien, ô Gautama, je vais te révéler ce mystère, le vieux Brahman, et ce qui arrive au Soi, après avoir atteint la mort. » <span id="p19">[<sup><small>p. 19</small></sup>]</span> 7\. « Certains entrent dans l'utérus pour avoir un corps, en tant qu'êtres organiques, d'autres entrent dans la matière inorganique, selon leur travail et selon leur connaissance [^125]. »
+6\. « Eh bien, ô Gautama, je vais te révéler ce mystère, le vieux Brahman, et ce qui arrive au Soi, après avoir atteint la mort. » <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> 7\. « Certains entrent dans l'utérus pour avoir un corps, en tant qu'êtres organiques, d'autres entrent dans la matière inorganique, selon leur travail et selon leur connaissance [^125]. »
 
 8\. « Lui, la Personne suprême, qui veille en nous pendant notre sommeil, façonnant une image magnifique après l'autre, voilà le Brillant, voilà Brahman, celui-là seul qu'on appelle l'Immortel. Tous les mondes sont contenus en lui, et nul ne va au-delà. C'est cela [^126]. »
 
@@ -93,14 +93,14 @@ DEUXIÈME ADHYÂYA.
 
 12\. « Il existe un seul maître, le Soi en toutes choses, qui multiplie la forme unique. Le bonheur éternel appartient aux sages qui le perçoivent en leur Soi, et non aux autres [^129]. »
 
-13\. « Il existe un penseur éternel, ayant des pensées non éternelles <span id="p20">[<sup><small>p. 20</small></sup>]</span>, qui, bien qu'unique, comble les désirs de beaucoup. Aux sages qui le perçoivent en eux-mêmes, appartient la paix éternelle, et non aux autres [^130]. ​​»
+13\. « Il existe un penseur éternel, ayant des pensées non éternelles <span id="p20"><sup><small>[ p. 20 ]</small></sup></span>, qui, bien qu'unique, comble les désirs de beaucoup. Aux sages qui le perçoivent en eux-mêmes, appartient la paix éternelle, et non aux autres [^130]. ​​»
 
 14\. « Ils perçoivent ce plaisir suprême et indescriptible, et disent : « C'est cela. Comment puis-je donc le comprendre ? A-t-il sa propre lumière, ou reflète-t-il la lumière ? »
 
 15\. « Le soleil n'y brille pas, ni la lune ni les étoiles, ni ces éclairs, et encore moins ce feu. Quand il brille, tout brille après lui ; par sa lumière, tout est éclairé [^131]. »
 
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 ## SIXIÈME VALLÎ.
 
@@ -110,7 +110,7 @@ DEUXIÈME ADHYÂYA.
 
 3\. 'De la terreur de Brahman brûle le feu, de la terreur le soleil brûle, de la terreur Indra et Vâyu, et la Mort, en tant que cinquième, s'enfuient [^137].'
 
-4\. « Si un homme ne pouvait pas le comprendre avant la dislocation de son corps, alors il doit reprendre corps dans les mondes de la création [^138]. » <span id="p22">[<sup><small>p. 22</small></sup>]</span> 5\. « Comme dans un miroir, ainsi (Brahman peut être vu clairement) ici dans ce « corps » ; comme dans un rêve, dans le monde des Pères ; comme dans l'eau, il est vu dans le monde des Gandharvas ; comme dans la lumière et l'ombre [^139], dans le monde de Brahmâ. »
+4\. « Si un homme ne pouvait pas le comprendre avant la dislocation de son corps, alors il doit reprendre corps dans les mondes de la création [^138]. » <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> 5\. « Comme dans un miroir, ainsi (Brahman peut être vu clairement) ici dans ce « corps » ; comme dans un rêve, dans le monde des Pères ; comme dans l'eau, il est vu dans le monde des Gandharvas ; comme dans la lumière et l'ombre [^139], dans le monde de Brahmâ. »
 
 6\. « Ayant compris que les sens sont distincts [^140] (de l'Âtman), et que leur lever et leur coucher (leur veille et leur sommeil) leur appartiennent dans leur existence distincte (et non à l'Âtman), un homme sage ne s'afflige plus. »
 
@@ -122,7 +122,7 @@ DEUXIÈME ADHYÂYA.
 
 10\. « Lorsque les cinq instruments de la connaissance restent immobiles avec l'esprit, et lorsque l'intellect ne bouge pas, cela s'appelle l'état le plus élevé. »
 
-11\. « Ceci, la ferme retenue des sens, est ce qu'on appelle le Yoga. Il doit alors être libre de toute inconscience, car le Yoga va et vient [^143]. » <span id="p23">[<sup><small>p. 23</small></sup>]</span> 12\. « Il (le Soi) ne peut être atteint ni par la parole, ni par l'esprit, ni par la vue. Comment peut-il être appréhendé, si ce n'est par celui qui dit : « Il est ? » »
+11\. « Ceci, la ferme retenue des sens, est ce qu'on appelle le Yoga. Il doit alors être libre de toute inconscience, car le Yoga va et vient [^143]. » <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> 12\. « Il (le Soi) ne peut être atteint ni par la parole, ni par l'esprit, ni par la vue. Comment peut-il être appréhendé, si ce n'est par celui qui dit : « Il est ? » »
 
 13. « Par les mots « Il est », il doit être appréhendé, et en admettant la réalité des deux (le Brahman invisible et le monde visible, comme venant de Brahman). Lorsqu'il a été appréhendé par les mots « Il est », alors sa réalité se révèle. »
 
@@ -132,7 +132,7 @@ DEUXIÈME ADHYÂYA.
 
 116\. « Il y a cent et une artères du cœur [^146], l'une d'elles pénètre le sommet de la tête [^147]. En remontant par elle, l'homme (à sa mort) atteint l'Immortel [^148] ; les autres artères servent à partir dans différentes directions. »
 
-17\. « La Personne pas plus grande qu'un pouce, le Soi intérieur, est toujours ancré dans le cœur des hommes [^149]. Qu'un homme tire ce Soi de son corps avec constance, <span id="p24">[<sup><small>p. 24</small></sup>]</span> comme on tire la moelle d'un roseau [^150]. Qu'il connaisse ce Soi comme le Brillant, l'Immortel ; oui, comme le Brillant, comme l'Immortel [^151]. »
+17\. « La Personne pas plus grande qu'un pouce, le Soi intérieur, est toujours ancré dans le cœur des hommes [^149]. Qu'un homme tire ce Soi de son corps avec constance, <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> comme on tire la moelle d'un roseau [^150]. Qu'il connaisse ce Soi comme le Brillant, l'Immortel ; oui, comme le Brillant, comme l'Immortel [^151]. »
 
 18\. Ayant reçu cette connaissance enseignée par la Mort et toute la règle du Yoga (méditation), Nâkiketa se libéra de la passion [^152] et de la mort, et obtint Brahman. Il en sera de même pour celui qui connaît ainsi ce qui se rapporte au Soi.
 

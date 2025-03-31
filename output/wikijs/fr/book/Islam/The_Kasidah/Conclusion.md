@@ -36,13 +36,13 @@ Ici le Hâjî termine son étude pratique de l'humanité. L'image du Destin joua
 > 
 > &nbsp;&nbsp;&nbsp;&nbsp;(Essai IV—398.)
 
-Le regret, c'est-à-dire le repentir, était l'un des quarante-deux péchés capitaux des anciens Egyptiens. « Tu ne consumeras pas ton cœur », dit le Rituel des Morts, la justification négative de l'âme ou du fantôme (Lepsius « Alteste des Todtenbuchs »). Nous avons emprunté l'examen compétitif aux Chinois ; et, en ces jours morbides d'introspection et de rétrospection faibles, nous pourrions apprendre la sagesse des vieux Khémites robustes. Quand il chante « Abjure le Pourquoi <span id="p127">[<sup><small>p. 127</small></sup>]</span> et cherche le Comment », il se réfère à la vieille différence scolastique de la _Demonstratio propter quid_ (pourquoi une chose est-elle ?), par opposition à la _Demonstratio quia_ (c'est-à-dire qu'une chose est). Le « grand Homme » finira par devenir immortel, comme le dit Shakespeare dans son noble sonnet :
+Le regret, c'est-à-dire le repentir, était l'un des quarante-deux péchés capitaux des anciens Egyptiens. « Tu ne consumeras pas ton cœur », dit le Rituel des Morts, la justification négative de l'âme ou du fantôme (Lepsius « Alteste des Todtenbuchs »). Nous avons emprunté l'examen compétitif aux Chinois ; et, en ces jours morbides d'introspection et de rétrospection faibles, nous pourrions apprendre la sagesse des vieux Khémites robustes. Quand il chante « Abjure le Pourquoi <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> et cherche le Comment », il se réfère à la vieille différence scolastique de la _Demonstratio propter quid_ (pourquoi une chose est-elle ?), par opposition à la _Demonstratio quia_ (c'est-à-dire qu'une chose est). Le « grand Homme » finira par devenir immortel, comme le dit Shakespeare dans son noble sonnet :
 
 > Et la Mort une fois morte, il n'y a plus de mort alors !
 
 Comme les grands païens, le Hâjî soutient que l'homme est né bon, tandis que le chrétien, « tourmenté par les choses divines », adhère à la doctrine réconfortante de la nature pécheresse innée. D'où le principe universel selon lequel l'homme doit faire le bien afin d'en tirer un profit ici ou dans l'au-delà ; l'« égoïsme éclairé » qui dit : « Agis bien et obtiens un intérêt composé dans un état futur. » L'allusion au « mot théiste » signifie apparemment que les fidèles d'une Déité personnelle doivent croire à la prescience absolue de l'Omniscient dans les détails comme dans les généraux. La règle de la Loi émancipe l'homme ; et ses exceptions sont les lacunes laissées par son ignorance. La plainte sur la fleur tombée, etc., nous rappelle les Pulambal (Lamentations) de l'écrivain anti-brahmanique, « Pathira-Giri yâr ». L'allusion à Mâyâ est tirée de Dâs Kabîr :
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 > &nbsp;Mâyâ jument, na man jument, mar mar gayâ, sarîr.
 > L'illusion meurt, l'esprit ne meurt pas, bien que mort et disparu soit la chair.

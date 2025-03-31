@@ -148,7 +148,7 @@ Apporte avec toi la belle Videha,
 Avec des manteaux célestes de cotte de mailles à l'épreuve des épées,
 Carquois, dont les flèches ne manquent jamais,
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 Et des épées à poignée d'or si tranchantes,
 Les rivaux du soleil en matière d'éclat.
@@ -266,7 +266,7 @@ Dont les louanges sont proclamées même par les bons,
 Sur ceux-ci, quatre-vingts voitures seront attribuées,
 Et chacun chargé de précieux trésors.
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 Mille taureaux leur suffisent,
 Deux cents éléphants de prix,
@@ -388,7 +388,7 @@ Bien qu'il ait connu les douceurs du pouvoir,
 Et il a versé ses dons en pluie généreuse,
 Il ne s'écartera pas du chemin du devoir,
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 Mais la vérité de son père est toujours préservée.
 Et elle dont la forme est si douce et belle
@@ -514,7 +514,7 @@ La loi est aussi profonde que les profondeurs de l'océan,
 Et inoxydable comme le ciel bleu foncé,
 Ainsi répondit Sumantra :
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 « Va alors, Sumantra, va et appelle
 Mes épouses et mes dames, toutes et toutes.
@@ -646,7 +646,7 @@ Ce jour de départ je préfère
 Sur cette belle terre, qui n'est plus à moi,
 Que je renonce avec tous ses royaumes,
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 Ses multitudes d’hommes, son grain,
 Que Bharat règne sur ses réserves de richesses.
@@ -770,7 +770,7 @@ Et désireux de périr par la corde,
 Elle dit à son mari : « Je voudrais savoir,
 Ô Monarque, pourquoi ris-tu ainsi ?
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Le roi répondit de nouveau :
 « Si je devais expliquer ce rire,
@@ -886,7 +886,7 @@ D'où s'enfuient l'écume légère et la vie.
 Ainsi, dans sa rage, la dame aux yeux longs
 Elle a prononcé son terrible discours sans être affectée par la honte.
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 Puis, répondant, Das'aratha parla :
 « Pourquoi. m'ayant plié sous le joug.
@@ -995,7 +995,7 @@ Ce lion chef des braves
 Il lui prit de la main la robe qu'elle lui avait donnée,
 Jette ses beaux vêtements sur le sol,
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 Et autour de sa taille le vêtement était attaché.
 Puis vite le héros Lakshman aussi
@@ -1117,7 +1117,7 @@ Dans les vêtements d'un dévot.
 Mon saint guide a dit la vérité :
 Elle est indigne dans sa tendre jeunesse,
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 Si doucement nourri, doux et juste,
 Les difficultés du bois à partager.
@@ -1242,7 +1242,7 @@ Les chevaux et la voiture d'état.
 Puis il se précipita vers le fils du monarque,
 Et levant les mains en signe de révérence, il dit
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 Que le char léger que l'or rendait beau,
 Avec les meilleurs destriers, je me tenais là.
@@ -1366,7 +1366,7 @@ Cela racontait les malheurs des dames.
 Puis Rama, Sita, Lakshman à l'intérieur
 Aux pieds du roi, et tristement allé
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Autour de lui, à pas lents et respectueux.
 Quand Ráma au cœur dévoué
@@ -1491,7 +1491,7 @@ Sumantra, exhorté à s'éloigner à toute vitesse,
 L'appel des citadins doit désobéir,
 Alors que le héros aux longs bras s'avançait,
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 La poussière soulevée par les roues de son char a été envoyée
 A été posé par des ruisseaux qui ont toujours coulé

@@ -40,7 +40,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 Que la propitiation soit à Sraosha, l'Obéissance bénie, le puissant, le verbe incarné de la raison, dont le corps est le Mãthra, celui de la lance audacieuse, dévoué au Seigneur, pour son culte sacrificiel, son hommage, sa propitiation et sa louange.
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 ## I.
 
@@ -48,7 +48,7 @@ Que la propitiation soit à Sraosha, l'Obéissance bénie, le puissant, le verbe
 
 3\. Pour sa splendeur et sa gloire, pour sa puissance et le coup qui frappe avec victoire, je l'adorerai avec le Yasna des Yazads, avec un Yasna entonné à haute voix, lui Obéissance le béni, avec les eaux consacrées, et la bonne Bénissance, la sublime, et Nairya-sangha, la majestueuse ; et puisse-t-il s'approcher de nous pour nous aider, lui qui frappe avec victoire, Obéissance le béni !
 
-4\. Nous adorons Sraosha, l'Obéissance bénie, et ce Seigneur sublime qu'est Ahura Mazda Lui-même, Celui qui a le plus atteint ce rituel, Celui qui s'est le plus rapproché de nous dans nos célébrations. Et nous adorons toutes les paroles de Zarathustra, et toutes les actions bien faites (pour lui), aussi bien celles qui ont été accomplies (dans les temps passés), <span id="p299">[<sup><small>p. 299</small></sup>]</span> que celles qui doivent encore l'être (pour lui dans les temps à venir).
+4\. Nous adorons Sraosha, l'Obéissance bénie, et ce Seigneur sublime qu'est Ahura Mazda Lui-même, Celui qui a le plus atteint ce rituel, Celui qui s'est le plus rapproché de nous dans nos célébrations. Et nous adorons toutes les paroles de Zarathustra, et toutes les actions bien faites (pour lui), aussi bien celles qui ont été accomplies (dans les temps passés), <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> que celles qui doivent encore l'être (pour lui dans les temps à venir).
 
 ## II.
 
@@ -60,7 +60,7 @@ Pour sa splendeur et sa gloire, pour sa puissance et le coup qui frappe avec vic
 
 7\. Nous adorons Sraosha (Obéissance) le béni, le majestueux, qui frappe du coup de la victoire, qui fait avancer les colonies, le chef rituel sacré.
 
-8\. Qui chanta le premier les Gâthas, les cinq [^1243] Gâthas de Zarathustra, le Spitâma, les saints (avec la manière) de leurs mètres [^1244], et selon l'ordre bien construit de leurs paroles, avec le Zand qu'ils contiennent, et les questions [^1245] qu'ils <span id="p300">[<sup><small>p. 300</small></sup>]</span> prononcent, et les réponses qu'ils donnent, pour les Immortels Généreux, pour leur sacrifice et leur hommage, leur propitiation et leur louange.
+8\. Qui chanta le premier les Gâthas, les cinq [^1243] Gâthas de Zarathustra, le Spitâma, les saints (avec la manière) de leurs mètres [^1244], et selon l'ordre bien construit de leurs paroles, avec le Zand qu'ils contiennent, et les questions [^1245] qu'ils <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> prononcent, et les réponses qu'ils donnent, pour les Immortels Généreux, pour leur sacrifice et leur hommage, leur propitiation et leur louange.
 
 Pour sa splendeur et sa gloire, pour sa puissance...
 
@@ -76,7 +76,7 @@ Pour sa splendeur et sa gloire, pour sa puissance...
 
 Pour sa splendeur et sa gloire, pour sa puissance...
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 ## VI.
 
@@ -90,7 +90,7 @@ Pour sa splendeur et sa gloire, pour sa puissance...
 
 15\. Nous adorons Sraosha (Obéissance) le béni et le majestueux, qui est le conquérant du Kayadha, et le Kâidhya, qui fut le frappeur du Démon-Mensonge des Daêvas, celui qui est véritablement puissant, le destructeur du monde, qui est le gardien et le veilleur de toutes les migrations (?) des tribus.
 
-16\. Qui garde sans sommeil et vigilant les créatures d'Ahura, qui sans sommeil et avec vigilance <span id="p302">[<sup><small>p. 302</small></sup>]</span> les sauve, qui avec une hallebarde élevée garde tout le monde corporel après le coucher du soleil, (17) qui n'a jamais dormi en paix depuis que les deux Esprits ont créé les mondes, \[^1252]\], qui garde les demeures d'Asha, qui combat tout (?) les jours et les nuits avec tous les Daêvas \[(Pâzand) les Mâzaniens\], (18) et ne se retourne pas, frappé de terreur, devant (leur puissance) ; mais devant lui tous les Daêvas se retournent, effrayés contre leur volonté, et se précipitent vers les ténèbres est leur peur.
+16\. Qui garde sans sommeil et vigilant les créatures d'Ahura, qui sans sommeil et avec vigilance <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> les sauve, qui avec une hallebarde élevée garde tout le monde corporel après le coucher du soleil, (17) qui n'a jamais dormi en paix depuis que les deux Esprits ont créé les mondes, \[^1252]\], qui garde les demeures d'Asha, qui combat tout (?) les jours et les nuits avec tous les Daêvas \[(Pâzand) les Mâzaniens\], (18) et ne se retourne pas, frappé de terreur, devant (leur puissance) ; mais devant lui tous les Daêvas se retournent, effrayés contre leur volonté, et se précipitent vers les ténèbres est leur peur.
 
 Pour sa splendeur et sa gloire, pour sa puissance...
 
@@ -102,7 +102,7 @@ Pour sa splendeur et sa gloire, pour sa puissance...
 
 ## IX.
 
-21\. Nous adorons Sraosha (Obéissance) le bienheureux, <span id="p303">[<sup><small>p. 303</small></sup>]</span> dont la maison se dresse avec ses mille piliers, comme victorieuse, sur la plus haute hauteur du haut Haraiti, auto-éclairée de l'intérieur, constellée d'étoiles de l'extérieur, (22) à qui est venu l'Ahuna-vairya, la hache de la victoire [^1258], et l'Haptanghâiti, et le Fshûshômãthra qui frappe avec victoire, et toutes les sections Yasna.
+21\. Nous adorons Sraosha (Obéissance) le bienheureux, <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> dont la maison se dresse avec ses mille piliers, comme victorieuse, sur la plus haute hauteur du haut Haraiti, auto-éclairée de l'intérieur, constellée d'étoiles de l'extérieur, (22) à qui est venu l'Ahuna-vairya, la hache de la victoire [^1258], et l'Haptanghâiti, et le Fshûshômãthra qui frappe avec victoire, et toutes les sections Yasna.
 
 Pour sa splendeur et sa gloire, pour sa puissance...
 
@@ -114,7 +114,7 @@ Pour sa splendeur et sa gloire, pour sa puissance...
 
 Et dans cette Religion, Ahura Mazda a été confessé [^1260] avec foi, et le Bon Esprit également avec Lui, et la Droiture la Meilleure, et Khshathra-vairya, et la Piété la Généreuse, et le Bien-être Universel et l'Immortalité ; et la question au Seigneur est posée, et la tradition de Mazda (est écrite).
 
-25\. Ô Sraosha (Obéissance), toi béni et majestueux ! Protège-nous pour nos vies ; oui, pour les deux, (pour ce) monde qui est corporel, et pour le monde de l'esprit, contre la mort malheureuse [^1261], et la colère impitoyable de la rapine, contre les armées mal intentionnées, qui lèvent leurs lances sanglantes [^1262] contre nous ; <span id="p304">[<sup><small>p. 304</small></sup>]</span> oui, contre leurs assauts que [^1263] le démon de la colère lancera, et Vîdhâtu, créé par le démon. 26. C'est pourquoi puisses-tu, ô Sraosha, le béni et le majestueux ! accorde la rapidité à nos équipes, la solidité à nos corps et une observation abondante [^1264] de nos ennemis, de leurs coups (comme nous les observons) et de leur mort subite.
+25\. Ô Sraosha (Obéissance), toi béni et majestueux ! Protège-nous pour nos vies ; oui, pour les deux, (pour ce) monde qui est corporel, et pour le monde de l'esprit, contre la mort malheureuse [^1261], et la colère impitoyable de la rapine, contre les armées mal intentionnées, qui lèvent leurs lances sanglantes [^1262] contre nous ; <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> oui, contre leurs assauts que [^1263] le démon de la colère lancera, et Vîdhâtu, créé par le démon. 26. C'est pourquoi puisses-tu, ô Sraosha, le béni et le majestueux ! accorde la rapidité à nos équipes, la solidité à nos corps et une observation abondante [^1264] de nos ennemis, de leurs coups (comme nous les observons) et de leur mort subite.
 
 Pour sa splendeur et sa gloire, pour sa puissance...
 
@@ -124,7 +124,7 @@ Pour sa splendeur et sa gloire, pour sa puissance...
 
 Pour sa splendeur et sa gloire, pour sa puissance...
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 ## XII.
 
@@ -136,7 +136,7 @@ Pour sa splendeur et sa gloire, pour sa puissance...
 
 33\. Nous adorons Sraosha (Obéissance), le bienheureux et le majestueux, celui qui frappe avec victoire, ici et ailleurs, et sur toute la terre. Et nous adorons tous les dons de Sraosha (Obéissance), le bienheureux, le puissant et le fort, dont le corps est le Mãthra.
 
-Oui, nous adorons (tous les dons martiaux) de Sraosha (Obéissance) le puissant, à la fois armé d'une armure protectrice, et un guerrier à la main forte, le fendeur de crâne des Daêvas, conquérant les dons [^1271] du conquérant, le saint conquérant du conquérant, et (ses) pouvoirs victorieux, et l'Ascendance qu'il confère, et nous adorons <span id="p306">[<sup><small>p. 306</small></sup>]</span> cette Ascendance de Sraosha (la même qui conquiert la leur) ; et celle d'Ar<i>s</i>ti nous louons également. 34. Et chaque maison gardée par Sraosha nous adorons, où le bienheureux et amical Sraosha est accueilli avec amitié et bienvenu, où l'homme saint est très avancé (?) dans les pensées saintes, les paroles et les actes justes.
+Oui, nous adorons (tous les dons martiaux) de Sraosha (Obéissance) le puissant, à la fois armé d'une armure protectrice, et un guerrier à la main forte, le fendeur de crâne des Daêvas, conquérant les dons [^1271] du conquérant, le saint conquérant du conquérant, et (ses) pouvoirs victorieux, et l'Ascendance qu'il confère, et nous adorons <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> cette Ascendance de Sraosha (la même qui conquiert la leur) ; et celle d'Ar<i>s</i>ti nous louons également. 34. Et chaque maison gardée par Sraosha nous adorons, où le bienheureux et amical Sraosha est accueilli avec amitié et bienvenu, où l'homme saint est très avancé (?) dans les pensées saintes, les paroles et les actes justes.
 
 Pour sa splendeur et sa gloire, pour sa puissance, qui frappe avec victoire, je l'adorerai avec le Yasna des Yazads, avec un Yasna à haute voix, lui Obéissance le béni, avec les eaux consacrées, et la bonne Bénissance, la sublime, et Nairya-sangha, le majestueux, et puisse-t-il venir à nous pour nous aider, lui qui frappe avec victoire, Obéissance le béni !
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:43:56Z
   </table>
 </figure>
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 ## DES TRÈS SAINTS STIGMATES DE SAINT FRANÇOIS ET DE LEURS CONSIDÉRATIONS
 
@@ -57,7 +57,7 @@ _La troisième considération portera sur la vision séraphique et l'empreinte d
 
 _La quatrième considération sera de savoir comment saint François est descendu de la montagne d'Alverne, après avoir_
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 _reçu les stigmates sacrés et retourna à Santa Maria degli Angeli._
 

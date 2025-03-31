@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 
 Ces paroles d'Asita plurent d'abord à Suddhodana, et il y réfléchit. « Ainsi, mon fils vivra, et vivra glorieusement », pensa-t-il, mais il s'inquiéta ensuite. Car il avait été dit que le prince renoncerait à la royauté, qu'il mènerait une vie d'ermite, et cela ne signifiait-il pas qu'à sa mort la famille de Suddhodana disparaîtrait ?
@@ -45,7 +45,7 @@ Maya avait une sœur, Mahaprajapati, qui, en beauté et en vertu, était presque
 
 Tous se réjouissaient alors de lui apporter de précieux cadeaux. Ils lui offraient des jouets qui auraient amusé un enfant de son âge : de minuscules animaux, des cerfs et des éléphants, des chevaux, des vaches, des oiseaux et des poissons, ainsi que de petits chars ; et ces jouets n'étaient ni en bois ni en argile, mais en or et en pierres précieuses. Ils lui apportaient également des matériaux précieux et des pierres précieuses rares, des colliers de perles et des bracelets sertis de pierres précieuses.
 
-Un jour, alors qu'il jouait dans un jardin non loin de la ville, Mahaprajapati pensa : « Il est temps que je lui apprenne à porter des colliers et des bracelets. » Elle ordonna aux serviteurs d'apporter les bijoux qui lui avaient été offerts. Elle les lui entoura les bras et le cou, mais c'était comme s'il n'en portait aucun. L'or et les pierres précieuses <span id="p22">[<sup><small>p. 22</small></sup>]</span> semblaient ternes et sans vie, tant la lumière qu'ils diffusaient était éclatante. Et la Déesse qui vivait parmi les fleurs de ce jardin vint trouver Mahaprajapati et lui dit :
+Un jour, alors qu'il jouait dans un jardin non loin de la ville, Mahaprajapati pensa : « Il est temps que je lui apprenne à porter des colliers et des bracelets. » Elle ordonna aux serviteurs d'apporter les bijoux qui lui avaient été offerts. Elle les lui entoura les bras et le cou, mais c'était comme s'il n'en portait aucun. L'or et les pierres précieuses <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> semblaient ternes et sans vie, tant la lumière qu'ils diffusaient était éclatante. Et la Déesse qui vivait parmi les fleurs de ce jardin vint trouver Mahaprajapati et lui dit :
 
 Si la terre était faite d'or, un seul rayon de lumière émanant de cet enfant, futur guide du monde, suffirait à en ternir la splendeur. La lumière des étoiles et celle de la lune, oui, même celle du soleil, sont atténuées par son éclat. Et voudriez-vous qu'il porte des bijoux, des babioles grossièrement façonnées par des joailliers et des orfèvres ? Femme, ôtez ces colliers, ôtez ces bracelets. Ils ne sont bons qu'à être portés par des esclaves ; donnez-les aux esclaves. Cet enfant aura ses pensées ; ce sont des joyaux d'une eau plus pure.
 
@@ -57,7 +57,7 @@ Le moment arriva d'emmener Siddhartha au temple des Dieux. Sur ordre du roi, les
 
 « Au temple des Dieux, mon fils », répondit-elle. L'enfant sourit et l'accompagna tranquillement à la rencontre de son père.
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 C'était un spectacle magnifique. Dans le cortège se trouvaient des brahmanes de la ville, des guerriers et tous les principaux marchands. Une armée de gardes suivait, et les Sakyas entouraient le char qui transportait le prince et le roi. Dans les rues, l'air était chargé d'encens, des fleurs jonchaient leur passage, et les passants agitaient drapeaux et banderoles.
 

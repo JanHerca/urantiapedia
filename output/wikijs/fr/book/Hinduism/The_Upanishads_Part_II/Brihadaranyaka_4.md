@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 QUATRIÈME ADHYÂYA.
 
@@ -54,7 +54,7 @@ Yâ<i>g</i>_ñ_avalkya dit : « Votre Majesté, ce (Brahman) se tient sur une se
 
 <i>G</i>anaka Vaideha dit : « Alors dis-moi, Yâ<i>g</i>_ñ_avalkya. »
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 Yâ<i>g</i>_ñ_avalkya a dit : « La langue est son corps, l'éther son lieu, et on devrait l'adorer comme une connaissance. »
 
@@ -70,7 +70,7 @@ Yâ<i>g</i>_ñ_avalkya a dit : « Mon père était d'avis qu'on ne devait pas ac
 
 <i>G</i>anaka Vaideha répondit : « Udaṅka <i>S</i>aulbâyana m'a dit que la vie (prâ<i>n</i>a) [^463] est Brahman. »
 
-Yâ<i>g</i>_ñ_avalkya dit : « Comme le dirait quelqu'un qui a eu (la bénédiction) d'un bon père, d'une bonne mère et d'un bon maître, ainsi <span id="p154">[<sup><small>p. 154</small></sup>]</span> Udaṅka <i>S</i>aulbâyana vous a dit que la vie est Brahman ; car à quoi sert une personne sans vie ? Mais vous a-t-il dit le corps et le lieu de repos de ce Brahman ? »
+Yâ<i>g</i>_ñ_avalkya dit : « Comme le dirait quelqu'un qui a eu (la bénédiction) d'un bon père, d'une bonne mère et d'un bon maître, ainsi <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> Udaṅka <i>S</i>aulbâyana vous a dit que la vie est Brahman ; car à quoi sert une personne sans vie ? Mais vous a-t-il dit le corps et le lieu de repos de ce Brahman ? »
 
 <i>Ganaka</i> Vaideha a dit : « Il ne me l'a pas dit. »
 
@@ -90,7 +90,7 @@ Yâ<i>g</i>_ñ_avalkya a dit : « Mon père était d'avis qu'on ne devait pas ac
 
 4\. Yâ<i>g</i>_ñ_avalkya dit : « Laissez-nous entendre ce que quelqu'un a pu vous dire. »
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 <i>G</i>anaka Vaideha répondit : « Barku Vârsh<i>n</i>a m'a dit que la vue (<i>k</i>akshus) est Brahman. »
 
@@ -116,7 +116,7 @@ Yâ<i>g</i>_ñ_avalkya a dit : « Mon père était d'avis qu'on ne devait pas ac
 
 <i>G</i>anaka Vaideha répondit : « Gardabhîvibhîta Bhâradvâ<i>g</i>a m'a dit que l'audition (<i>s</i>ruta) est Brahman. »
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Yâgñavalkya dit : « Comme le dirait quelqu'un qui a eu (la bénédiction) d'un bon père, d'une bonne mère et d'un bon maître, ainsi Gardabhîvibhîta Bhâradvâgña vous a dit qu'entendre est Brahman ; car à quoi sert une personne qui ne peut entendre ? Mais vous a-t-il dit le corps et le lieu de repos de ce Brahman ? »
 
@@ -138,7 +138,7 @@ Yâ<i>g</i>_ñ_avalkya a dit : « Mon père était d'avis qu'on ne devait pas ac
 
 6\. Yâ<i>g</i>_ñ_avalkya dit : « Laissez-nous entendre ce que quelqu'un a pu vous dire. »
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 <i>G</i>anaka Vaideha répondit : « Satyakâma <i>G</i>âbâla m'a dit que l'esprit [^466] (manas) est Brahman. »
 
@@ -164,7 +164,7 @@ Yâ<i>g</i>_ñ_avalkya a dit : « Mon père était d'avis qu'on ne devait pas ac
 
 <i>G</i>anaka Vaideha répondit : « Vidagdha <i>S</i>âkalya m'a dit que le cœur (hridaya) est Brahman. »
 
-Yâ<i>g</i>_ñ_avalkya dit : « Comme quelqu'un qui a eu (le bénéfice <span id="p158">[<sup><small>p. 158</small></sup>]</span> d'un bon père, d'une bonne mère et d'un bon maître pourrait le dire, ainsi Vidagdha <i>S</i>âkalya vous a dit que le cœur est Brahman ; car à quoi sert une personne sans cœur ? Mais vous a-t-il dit le corps et le lieu de repos de ce Brahman ? »
+Yâ<i>g</i>_ñ_avalkya dit : « Comme quelqu'un qui a eu (le bénéfice <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> d'un bon père, d'une bonne mère et d'un bon maître pourrait le dire, ainsi Vidagdha <i>S</i>âkalya vous a dit que le cœur est Brahman ; car à quoi sert une personne sans cœur ? Mais vous a-t-il dit le corps et le lieu de repos de ce Brahman ? »
 
 <i>Ganaka</i> Vaideha a dit : « Il ne me l'a pas dit. »
 
@@ -187,7 +187,7 @@ Yâ<i>g</i>_ñ_avalkya a dit : « Mon père était d'avis qu'on ne devait pas ac
 
 1\. <i>Ganaka</i> Vaideha, descendant de son trône, dit : « Je m'incline devant toi, ô Yâ<i>g</i>_ñ_avalkya, enseigne-moi. »
 
-Yâ<i>g</i>_ñ_avalkya dit : « Votre Majesté, comme un homme qui souhaite faire un long voyage se munirait d'un char ou d'un navire, ainsi votre esprit est bien <span id="p159">[<sup><small>p. 159</small></sup>]</span> fourni par ces Upanishads [^467]. Vous êtes honorable et riche, vous avez appris les Védas et on vous a enseigné les Upanishads. Où donc irez-vous en partant d'ici ? »
+Yâ<i>g</i>_ñ_avalkya dit : « Votre Majesté, comme un homme qui souhaite faire un long voyage se munirait d'un char ou d'un navire, ainsi votre esprit est bien <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> fourni par ces Upanishads [^467]. Vous êtes honorable et riche, vous avez appris les Védas et on vous a enseigné les Upanishads. Où donc irez-vous en partant d'ici ? »
 
 <i>Ganaka</i> Vaideha dit : « Monsieur, je ne sais pas où j'irai. »
 
@@ -197,7 +197,7 @@ Yâ<i>g</i>_ñ_avalkya dit : « Alors je vais te dire où tu iras. »
 
 2\. Yâ<i>g</i>_ñ_avalkya dit : « Cette personne qui est dans l'œil droit [^468], elle est appelée Indha, et celui qui est Indha, ils l'appellent en effet [^469] Indra mystérieusement, car les dieux aiment ce qui est mystérieux et n'aiment pas ce qui est évident.
 
-3\. « Or, ce qui, sous la forme d'une personne, est dans l'œil droit, est son épouse, Virâ<i>g</i> [^470]. Leur lieu de rencontre [^471] est l'éther dans le cœur, et leur nourriture la masse rouge dans le cœur. De plus, leur enveloppe [^472] est ce qui est comme un réseau dans le cœur, et la route sur laquelle ils se déplacent (du sommeil à l'éveil) est l'artère qui monte du cœur. Tel un cheveu divisé en mille parties, ainsi sont ses veines, appelées Hita [^473], placées <span id="p160">[<sup><small>p. 160</small></sup>]</span> fermement dans le cœur. C'est par eux que la nourriture coule en effet, et il (le Tai<i>g</i>asa) reçoit une nourriture pour ainsi dire plus pure [^474] que le Soi corporel (le Vai<i>s</i>vânara).
+3\. « Or, ce qui, sous la forme d'une personne, est dans l'œil droit, est son épouse, Virâ<i>g</i> [^470]. Leur lieu de rencontre [^471] est l'éther dans le cœur, et leur nourriture la masse rouge dans le cœur. De plus, leur enveloppe [^472] est ce qui est comme un réseau dans le cœur, et la route sur laquelle ils se déplacent (du sommeil à l'éveil) est l'artère qui monte du cœur. Tel un cheveu divisé en mille parties, ainsi sont ses veines, appelées Hita [^473], placées <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> fermement dans le cœur. C'est par eux que la nourriture coule en effet, et il (le Tai<i>g</i>asa) reçoit une nourriture pour ainsi dire plus pure [^474] que le Soi corporel (le Vai<i>s</i>vânara).
 
 4\. Son quartier oriental (celui du Tai<i>g</i>asa) sont les prâ<i>n</i>as (souffle) qui vont à l'Est ;
 
@@ -216,11 +216,11 @@ Yâ<i>g</i>_ñ_avalkya dit : « Alors je vais te dire où tu iras. »
 Alors Ganaka dit : « Que cette intrépidité vienne aussi à toi qui nous enseignes l'intrépidité. Je m'incline devant toi. Voici les Videhas, et voici moi (ton esclave). »
 
 
-<span id="p161">[<sup><small>p. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 ## TROISIÈME BRÂHMAN<i>A</i>.
 
-1\. Yâ<i>g</i>_ñ_avalkya vint trouver <i>G</i>anaka Vaideha, et il n'avait pas l'intention de lui parler [^476]. Mais lorsque précédemment <span id="p162">[<sup><small>p. 162</small></sup>]</span> <i>G</i>anaka Vaideha et Yâ<i>g</i>_ñ_avalkya eurent une dispute sur l'Agnihotra, Yâ<i>g</i>_ñ_avalkya lui avait accordé une faveur, et il choisit (pour une faveur) d'être libre de lui poser toutes les questions qu'il voulait. Yâ<i>g</i>_ñ_avalkya l'accorda, et ainsi le roi fut le premier à lui poser une question.
+1\. Yâ<i>g</i>_ñ_avalkya vint trouver <i>G</i>anaka Vaideha, et il n'avait pas l'intention de lui parler [^476]. Mais lorsque précédemment <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> <i>G</i>anaka Vaideha et Yâ<i>g</i>_ñ_avalkya eurent une dispute sur l'Agnihotra, Yâ<i>g</i>_ñ_avalkya lui avait accordé une faveur, et il choisit (pour une faveur) d'être libre de lui poser toutes les questions qu'il voulait. Yâ<i>g</i>_ñ_avalkya l'accorda, et ainsi le roi fut le premier à lui poser une question.
 
 2\. « Yâ<i>g</i>_ñ_avalkya, dit-il, qu'est-ce que la lumière de l'homme [^477] ? »
 
@@ -236,7 +236,7 @@ Yâ<i>g</i>_ñ_avalkya répondit : « La lune est en effet sa lumière ; car, n'
 
 4\. <i>Ganaka</i> Vaideha dit : « Quand le soleil s'est couché, ô Yâ<i>g</i>_ñ_avalkya, et que la lune s'est couchée, quelle est la lumière de l'homme ? »
 
-Yâ<i>g</i>_ñ_avalkya répondit : « Le feu est en effet sa lumière ; <span id="p163">[<sup><small>p. 163</small></sup>]</span> car, n'ayant que le feu pour lumière, l'homme s'assoit, se déplace, fait son travail et revient. »
+Yâ<i>g</i>_ñ_avalkya répondit : « Le feu est en effet sa lumière ; <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> car, n'ayant que le feu pour lumière, l'homme s'assoit, se déplace, fait son travail et revient. »
 
 5\. <i>G</i>anaka Vaideha dit : « Quand le soleil s'est couché, ô Yâ<i>g</i>_ñ_avalkya, et que la lune s'est couchée, et que le feu s'est éteint, quelle est alors la lumière de l'homme ? »
 
@@ -252,7 +252,7 @@ Yâ<i>g</i>_ñ_avalkya dit : « Le Soi est en effet sa lumière ; car, ayant le 
 
 Yâ<i>g</i>_ñ_avalkya répondit : « Celui qui est dans le cœur, entouré des Prâ<i>n</i>as [^478] (sens), l'homme de lumière, constitué de connaissance. Lui, restant le même, erre à travers les deux mondes [^479], comme s'il [^480] pensait, comme s'il se déplaçait. Pendant le sommeil (en rêve), il transcende ce monde et toutes les formes de mort (tout ce qui tombe sous l'emprise de la mort, tout ce qui est périssable). »
 
-8\. « En naissant, cet homme, en assumant son corps, <span id="p164">[<sup><small>p. 164</small></sup>]</span> s'unit à tous les maux ; lorsqu'il s'en va et meurt, il laisse tous les maux derrière lui.
+8\. « En naissant, cet homme, en assumant son corps, <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> s'unit à tous les maux ; lorsqu'il s'en va et meurt, il laisse tous les maux derrière lui.
 
 9\. « Et il y a deux états pour cette personne : l’un ici-bas, l’autre dans l’autre monde, et comme troisième [^481] un état intermédiaire, l’état de sommeil. Lorsqu’elle est dans cet état intermédiaire, elle voit ces deux états ensemble, l’un ici-bas, l’autre dans l’autre monde. Or, quelle que soit son admission dans l’autre monde, une fois cette admission obtenue, elle voit à la fois les maux et les bienfaits [^482]. »
 
@@ -272,7 +272,7 @@ Après avoir soumis par le sommeil tout ce qui appartient au corps, lui, non end
 
 « Ici, certains (objectent et) disent : « Non, ceci (le sommeil) est le même que le lieu de l'éveil, car ce qu'il voit lorsqu'il est éveillé, il le voit seulement lorsqu'il dort [^486] ».
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 Non, ici (dans le sommeil) la personne est auto-illuminée (comme nous l'avons expliqué auparavant).
 
@@ -280,7 +280,7 @@ Non, ici (dans le sommeil) la personne est auto-illuminée (comme nous l'avons e
 
 15\. Yâ<i>g</i>_ñ_avalkya dit : « Cet homme, ayant joui de cet état de félicité (samprasâda, sommeil profond), s'étant promené et ayant vu le bien et le mal, se hâte de revenir comme il est venu, à l'endroit d'où il est parti (le lieu du sommeil), pour rêver [^487]. Et quoi qu'il ait pu y voir, il n'en est pas suivi (affecté), car cet homme n'est attaché à rien. »
 
-<i>G</i>anaka Vaideha dit : « C'est bien vrai, Yâ<i>g</i>_ñ_avalkya. <span id="p167">[<sup><small>p. 167</small></sup>]</span> Je vous en donne mille, Monsieur. Parlez pour l'émancipation. »
+<i>G</i>anaka Vaideha dit : « C'est bien vrai, Yâ<i>g</i>_ñ_avalkya. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> Je vous en donne mille, Monsieur. Parlez pour l'émancipation. »
 
 16\. Yâgñavalkya dit : « Cet homme, après s'être amusé dans ce sommeil (rêve), après avoir erré et vu le bien et le mal, se hâte de revenir comme il est venu, à l'endroit d'où il est parti, pour se réveiller. Et quoi qu'il ait pu y voir, il n'en est pas affecté, car cet homme n'est attaché à rien. »
 
@@ -292,9 +292,9 @@ Non, ici (dans le sommeil) la personne est auto-illuminée (comme nous l'avons e
 
 19\. « Et comme un faucon, ou tout autre oiseau (rapide), après avoir erré ici dans l'air, se fatigue et, repliant ses ailes, est transporté vers son nid, ainsi cette personne se hâte vers cet état où, lorsqu'elle dort, elle ne désire plus de désirs et ne rêve plus de rêves.
 
-20\. « Il y a dans son corps des veines appelées Hitâ, aussi petites qu'un cheveu divisé en mille parties, pleines de blanc, de bleu, de jaune, de vert et de rouge [^488]. Or, <span id="p168">[<sup><small>p. 168</small></sup>]</span> lorsqu'on le tue, lorsqu'on le vainque, lorsqu'un éléphant le poursuit, lorsqu'il tombe dans un puits, il s'imagine, par ignorance, ce danger qu'il voit (généralement) au réveil. Mais lorsqu'il s'imagine être comme un dieu, ou comme un roi [^489], ou « Je suis tout cela », c'est là son monde le plus élevé [^490]. »
+20\. « Il y a dans son corps des veines appelées Hitâ, aussi petites qu'un cheveu divisé en mille parties, pleines de blanc, de bleu, de jaune, de vert et de rouge [^488]. Or, <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> lorsqu'on le tue, lorsqu'on le vainque, lorsqu'un éléphant le poursuit, lorsqu'il tombe dans un puits, il s'imagine, par ignorance, ce danger qu'il voit (généralement) au réveil. Mais lorsqu'il s'imagine être comme un dieu, ou comme un roi [^489], ou « Je suis tout cela », c'est là son monde le plus élevé [^490]. »
 
-21\. « Telle est en effet sa forme (véritable), libre de désirs, libre de mal, libre de peur [^491]. Or, comme un homme, lorsqu'il est embrassé par une épouse bien-aimée, ne connaît rien de ce qui est extérieur, rien de ce qui est intérieur, ainsi cette personne, lorsqu'elle est embrassée par le Soi intelligent (prâ<i>g</i>_ñ_a), ne connaît rien de ce qui est extérieur, rien de ce qui est intérieur. Telle est en effet sa forme (véritable), dans laquelle ses souhaits sont exaucés, dans laquelle le Soi (seul) est <span id="p169">[<sup><small>p. 169</small></sup>]</span> son souhait, dans laquelle aucun souhait n'est laissé, – libre de toute tristesse [^492]. »
+21\. « Telle est en effet sa forme (véritable), libre de désirs, libre de mal, libre de peur [^491]. Or, comme un homme, lorsqu'il est embrassé par une épouse bien-aimée, ne connaît rien de ce qui est extérieur, rien de ce qui est intérieur, ainsi cette personne, lorsqu'elle est embrassée par le Soi intelligent (prâ<i>g</i>_ñ_a), ne connaît rien de ce qui est extérieur, rien de ce qui est intérieur. Telle est en effet sa forme (véritable), dans laquelle ses souhaits sont exaucés, dans laquelle le Soi (seul) est <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> son souhait, dans laquelle aucun souhait n'est laissé, – libre de toute tristesse [^492]. »
 
 22\. « Alors un père n'est pas un père, une mère n'est pas une mère, les mondes ne sont pas des mondes, les dieux ne sont pas des dieux, les Védas ne sont pas des Védas. Alors un voleur n'est pas un voleur, un meurtrier ne est pas un meurtrier [^493], un Kân dâla [^494] n'est pas un Kân dâla, un Paulkasa [^495] n'est pas un Paulkasa, un Sâmân a [^496] n'est pas un Sâmân a, un Tâpasa [^497] n'est pas un Tâpasa. Il n'est suivi ni par le bien, ni par le mal, car il a alors surmonté toutes les peines du cœur [^498]. »
 
@@ -308,7 +308,7 @@ Non, ici (dans le sommeil) la personne est auto-illuminée (comme nous l'avons e
 
 27\. « Et quand (on dit que) là (dans la Sushupti) il n'entend pas, il entend pourtant, bien qu'il n'entende pas. Car l'audition est inséparable de celui qui entend, car elle ne peut périr. Mais il n'y a alors pas de second, rien d'autre différent de lui qu'il puisse entendre. »
 
-28\. « Et quand (on dit que) là (dans la Sushupti) il ne pense pas, il pense pourtant, bien qu'il ne pense pas. Car la pensée est inséparable du penseur, car elle ne peut périr. <span id="p171">[<sup><small>p. 171</small></sup>]</span> Mais il n'y a alors aucun second, rien d'autre différent de lui qu'il puisse penser.
+28\. « Et quand (on dit que) là (dans la Sushupti) il ne pense pas, il pense pourtant, bien qu'il ne pense pas. Car la pensée est inséparable du penseur, car elle ne peut périr. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> Mais il n'y a alors aucun second, rien d'autre différent de lui qu'il puisse penser.
 
 29\. « Et quand (on dit que) là (dans la Sushupti) il ne touche pas, il touche pourtant, bien qu'il ne touche pas. Car toucher est inséparable de celui qui touche, car il ne peut périr. Mais il n'y a alors pas de second, rien d'autre différent de lui qu'il puisse penser. »
 
@@ -326,7 +326,7 @@ Non, ici (dans le sommeil) la personne est auto-illuminée (comme nous l'avons e
 
 Alors Yâ<i>g</i>_ñ_avalkya eut peur que le roi, devenu plein de compréhension, ne le chasse de toutes ses positions [^504].
 
-34\. Et Yâ<i>g</i>_ñ_avalkya dit : « Cette personne, s'étant amusée dans cet état de sommeil (rêve), <span id="p173">[<sup><small>p. 173</small></sup>]</span> s'étant déplacée et ayant vu à la fois le bien et le mal, se hâte de revenir comme elle est venue, à l'endroit d'où elle est partie, à l'état de veille [1](Brihadaranyaka_4#fn505).
+34\. Et Yâ<i>g</i>_ñ_avalkya dit : « Cette personne, s'étant amusée dans cet état de sommeil (rêve), <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> s'étant déplacée et ayant vu à la fois le bien et le mal, se hâte de revenir comme elle est venue, à l'endroit d'où elle est partie, à l'état de veille [1](Brihadaranyaka_4#fn505).
 
 35\. « Maintenant, comme un chariot lourdement chargé avance en gémissant, ainsi ce Soi corporel, monté par le Soi intelligent, avance en gémissant, alors qu'un homme est sur le point d'expirer [2](Brihadaranyaka_4#fn506). »
 
@@ -347,7 +347,7 @@ Alors Yâ<i>g</i>_ñ_avalkya eut peur que le roi, devenu plein de compréhension
 
 3\. 'Et comme une chenille, après avoir atteint le bout d'un brin d'herbe, et après avoir fait une autre approche (vers un autre brin) [^515], se rassemble vers lui, ainsi ce Soi, après avoir rejeté ce corps [^516] et dissipé toute ignorance, et après avoir fait une autre approche (vers un autre corps), se rassemble vers lui.
 
-4\. Et comme un orfèvre, prenant un morceau d'or, le transforme en une autre forme, plus nouvelle et plus belle, ainsi ce Soi, après avoir rejeté ce corps <span id="p176">[<sup><small>p. 176</small></sup>]</span> et dissipé toute ignorance, se fait une autre forme, plus nouvelle et plus belle, que ce soit comme les Pères, ou comme les Gandharvas, ou comme les Devas, ou comme Pra<i>g</i>âpati, ou comme Brahman, ou comme d'autres êtres.
+4\. Et comme un orfèvre, prenant un morceau d'or, le transforme en une autre forme, plus nouvelle et plus belle, ainsi ce Soi, après avoir rejeté ce corps <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> et dissipé toute ignorance, se fait une autre forme, plus nouvelle et plus belle, que ce soit comme les Pères, ou comme les Gandharvas, ou comme les Devas, ou comme Pra<i>g</i>âpati, ou comme Brahman, ou comme d'autres êtres.
 
 5\. « Ce Soi est en effet Brahman, composé de connaissance, d'esprit, de vie, de vue, d'ouïe, de terre, d'eau, de vent, d'éther, de lumière et d'absence de lumière, de désir et d'absence de désir, de colère et d'absence de colère, de bien et de mal, et de toutes choses. Or, tel un homme est comme ceci ou comme cela [^517], selon ses actes et son comportement, tel il sera : un homme qui fait de bonnes actions deviendra bon, un homme qui fait de mauvaises actions, mauvais. Il devient pur par ses actes purs, mauvais par ses actes mauvais. »
 
@@ -357,7 +357,7 @@ Alors Yâ<i>g</i>_ñ_avalkya eut peur que le roi, devenu plein de compréhension
 
 Voilà pour l'homme qui désire. Mais quant à l'homme qui ne désire pas, qui, ne désirant pas, libéré des désirs, est satisfait de ses désirs, ou ne désire que le Soi, ses esprits vitaux ne s'en vont pas ailleurs ; étant Brahman, il va à Brahman.
 
-7\. « À ce sujet, il y a ce verset : « Lorsque tous les désirs <span id="p177">[<sup><small>p. 177</small></sup>]</span> qui étaient entrés dans son cœur sont anéantis, alors le mortel devient immortel, alors il obtient Brahman.
+7\. « À ce sujet, il y a ce verset : « Lorsque tous les désirs <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> qui étaient entrés dans son cœur sont anéantis, alors le mortel devient immortel, alors il obtient Brahman.
 
 « Et comme la mue d'un serpent repose sur une fourmilière, mort et rejeté, ainsi repose ce corps ; mais cet esprit immortel désincarné (prânâ, la vie) n'est que Brahman, n'est que lumière. »
 
@@ -371,7 +371,7 @@ Voilà pour l'homme qui désire. Mais quant à l'homme qui ne désire pas, qui, 
 
 10\. « Tous ceux qui adorent ce qui n'est pas la connaissance (avidyâ) entrent dans des ténèbres aveugles : ceux qui se délectent de la connaissance entrent, pour ainsi dire, dans des ténèbres plus grandes [^522].
 
-11\. « Il existe [^523] en effet des mondes sans bénédiction, <span id="p178">[<sup><small>p. 178</small></sup>]</span> couverts d'une obscurité aveuglante. Les hommes ignorants et non éclairés vont après la mort dans ces mondes.
+11\. « Il existe [^523] en effet des mondes sans bénédiction, <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> couverts d'une obscurité aveuglante. Les hommes ignorants et non éclairés vont après la mort dans ces mondes.
 
 12\. « Si un homme comprend le Soi en disant : « Je suis Lui », que pourrait-il souhaiter ou désirer pour qu'il languisse après le corps [^524].
 
@@ -395,7 +395,7 @@ Voilà pour l'homme qui désire. Mais quant à l'homme qui ne désire pas, qui, 
 
 22\. « Et il est ce grand Soi non né, constitué de connaissance, entouré par les Prânas, l'éther du cœur [^532]. En lui repose le souverain de tous, le seigneur de tous, le roi de tous. Il ne s'accroît pas par les bonnes actions, ni ne diminue par les mauvaises. Il est le seigneur de tous, le roi de toutes choses, le protecteur de toutes choses. Il est une rive [^533] et une frontière, afin que ces mondes ne soient pas confondus. Les Brâhmanes cherchent à le connaître par l'étude du Véda, par le sacrifice, par les dons, par la pénitence, par le jeûne, et celui qui le connaît devient un Muni. Ne désirant que ce monde (pour Brahman), les mendiants quittent leurs foyers. »
 
-Sachant cela, les anciens ne souhaitaient pas de descendance. Que ferons-nous de cette descendance, dirent-ils, <span id="p180">[<sup><small>p. 180</small></sup>]</span> nous qui possédons ce Soi et ce monde (de Brahman) [^534] ? Et eux, s'étant élevés au-dessus du désir de fils, de richesse et de nouveaux mondes, errent comme des mendiants. Car le désir de fils est un désir de richesse, et le désir de richesse est un désir de mondes. Tous deux ne sont en effet que des désirs. Lui, le Soi, doit être décrit par Non, non [^535] ! Il est incompréhensible, car il ne peut être compris ; il est impérissable, car il ne peut périr ; il est détaché, car il ne s'attache pas ; libre, il ne souffre pas, il ne faillit pas. Celui (qui sait), ces deux-là ne triomphent pas, soit qu'il dise que pour une raison quelconque il a fait le mal, ou pour une raison quelconque il a fait le bien - il triomphe des deux, et ni ce qu'il a fait, ni ce qu'il a omis de faire, ne le brûle (l'affecte).
+Sachant cela, les anciens ne souhaitaient pas de descendance. Que ferons-nous de cette descendance, dirent-ils, <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> nous qui possédons ce Soi et ce monde (de Brahman) [^534] ? Et eux, s'étant élevés au-dessus du désir de fils, de richesse et de nouveaux mondes, errent comme des mendiants. Car le désir de fils est un désir de richesse, et le désir de richesse est un désir de mondes. Tous deux ne sont en effet que des désirs. Lui, le Soi, doit être décrit par Non, non [^535] ! Il est incompréhensible, car il ne peut être compris ; il est impérissable, car il ne peut périr ; il est détaché, car il ne s'attache pas ; libre, il ne souffre pas, il ne faillit pas. Celui (qui sait), ces deux-là ne triomphent pas, soit qu'il dise que pour une raison quelconque il a fait le mal, ou pour une raison quelconque il a fait le bien - il triomphe des deux, et ni ce qu'il a fait, ni ce qu'il a omis de faire, ne le brûle (l'affecte).
 
 23\. Ceci est rapporté par un vers (<i>Ri</i><i>k</i>) : « Cette grandeur éternelle du Brâhma<i>n</i>a ne s'accroît ni ne diminue par l'action. Que l'homme s'efforce d'en trouver (connaître) la trace, car l'ayant trouvée (connue), il n'est souillé par aucune mauvaise action. »
 
@@ -403,7 +403,7 @@ Sachant cela, les anciens ne souhaitaient pas de descendance. Que ferons-nous de
 
 <i>Ganaka</i> Vaideha dit : « Monsieur, je vous donne les Videhas, ainsi que moi-même, pour être ensemble vos esclaves. »
 
-24\. Ceci [^537] est en effet le grand Soi non né, le <span id="p181">[<sup><small>p. 181</small></sup>]</span> fort [^538], le dispensateur de richesse. Celui qui sait cela obtient la richesse.
+24\. Ceci [^537] est en effet le grand Soi non né, le <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> fort [^538], le dispensateur de richesse. Celui qui sait cela obtient la richesse.
 
 25. Ce grand Soi non né, immortel, incorruptible, immortel, sans peur, est véritablement Brahman. Brahman est sans peur, et celui qui le sait devient véritablement le Brahman sans peur.
 
@@ -420,7 +420,7 @@ Sachant cela, les anciens ne souhaitaient pas de descendance. Que ferons-nous de
 
 4\. Et Maitreyî dit : « Que dois-je faire de ce par quoi je ne deviens pas immortel ? Ce que mon Seigneur sait [^540] (de l'immortalité), dis-le-moi clairement. »
 
-5\. Yâ<i>g</i>_ñ_avalkya répondit : « Toi qui m'es vraiment cher, tu as accru ce qui m'est cher (en <span id="p182">[<sup><small>p. 182</small></sup>]</span> toi) [^541]. Par conséquent, si tu veux, Madame, je vais te l'expliquer, et note bien ce que je dis. »
+5\. Yâ<i>g</i>_ñ_avalkya répondit : « Toi qui m'es vraiment cher, tu as accru ce qui m'est cher (en <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> toi) [^541]. Par conséquent, si tu veux, Madame, je vais te l'expliquer, et note bien ce que je dis. »
 
 6\. Et il dit : « En vérité, un mari n'est pas cher pour que vous aimiez le mari ; mais pour que vous aimiez le Soi, c'est pourquoi un mari est cher.
 
@@ -440,7 +440,7 @@ Sachant cela, les anciens ne souhaitaient pas de descendance. Que ferons-nous de
 
 « En vérité, les Dévas ne sont pas chers pour que vous aimiez les Dévas ; mais pour que vous aimiez le Soi, c'est pourquoi les Dévas sont chers.
 
-<span id="p183">[<sup><small>p. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 « En vérité, les Védas ne sont pas chers pour que vous aimiez les Védas ; mais pour que vous aimiez le Soi, c'est pourquoi les Védas sont chers.
 
@@ -454,7 +454,7 @@ Sachant cela, les anciens ne souhaitaient pas de descendance. Que ferons-nous de
 
 « Cette classe Brahman, cette classe Kshatra, ces mondes, ces Devas, ces Vedas, tous ces êtres, ce tout, tout est ce Soi.
 
-8\. 'Or, comme les sons d'un tambour, lorsqu'on le frappe, ne peuvent être saisis extérieurement (par eux-mêmes), mais le son est saisi lorsque le tambour est saisi, ou le batteur du tambour ; <span id="p184">[<sup><small>p. 184</small></sup>]</span> 9\. 'Et comme les sons d'une conque, lorsqu'on souffle, ne peuvent être saisis extérieurement (par eux-mêmes), mais le son est saisi lorsque le coquillage est saisi, ou le souffleur du coquillage ;
+8\. 'Or, comme les sons d'un tambour, lorsqu'on le frappe, ne peuvent être saisis extérieurement (par eux-mêmes), mais le son est saisi lorsque le tambour est saisi, ou le batteur du tambour ; <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> 9\. 'Et comme les sons d'une conque, lorsqu'on souffle, ne peuvent être saisis extérieurement (par eux-mêmes), mais le son est saisi lorsque le coquillage est saisi, ou le souffleur du coquillage ;
 
 10\. 'Et comme les sons d'un luth, lorsqu'il est joué, ne peuvent être saisis extérieurement (par eux-mêmes), mais le son est saisi, lorsque le luth est saisi, ou le joueur du luth ;
 
@@ -462,7 +462,7 @@ Sachant cela, les anciens ne souhaitaient pas de descendance. Que ferons-nous de
 
 12\. « Comme toutes les eaux trouvent leur centre dans la mer, tous les touchers dans la peau, tous les goûts dans la langue, toutes les odeurs dans le nez, toutes les couleurs dans l'œil, tous les sons dans l'oreille, toutes les perceptions dans l'esprit, toute connaissance dans le cœur, toutes les actions dans les mains, tous les mouvements dans les pieds, et tous les Védas dans la parole, —
 
-13\. « Comme une masse de sel n'a ni intérieur ni extérieur, mais est tout entière une masse de goût, ainsi ce Soi n'a ni intérieur ni extérieur, mais est tout entière une masse de connaissance ; et, s'étant élevé hors de ces éléments, il disparaît à nouveau en eux. Lorsqu'il est parti, il n'y a plus de connaissance (nom), je dis, ô Maitreyî », — ainsi parla Yâ<i>g</i>_ñ_avalkya. <span id="p185">[<sup><small>p. 185</small></sup>]</span> 14\. Alors Maitreyî dit : « Voilà, Seigneur, tu m'as plongé dans une confusion totale. Vraiment, je ne le comprends pas. »
+13\. « Comme une masse de sel n'a ni intérieur ni extérieur, mais est tout entière une masse de goût, ainsi ce Soi n'a ni intérieur ni extérieur, mais est tout entière une masse de connaissance ; et, s'étant élevé hors de ces éléments, il disparaît à nouveau en eux. Lorsqu'il est parti, il n'y a plus de connaissance (nom), je dis, ô Maitreyî », — ainsi parla Yâ<i>g</i>_ñ_avalkya. <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> 14\. Alors Maitreyî dit : « Voilà, Seigneur, tu m'as plongé dans une confusion totale. Vraiment, je ne le comprends pas. »
 
 Mais il répondit : « Ô Maîtreyî, je ne dis rien qui soit déconcertant. En vérité, bien-aimé, ce Soi est impérissable et d'une nature indestructible.
 
@@ -475,7 +475,7 @@ Mais il répondit : « Ô Maîtreyî, je ne dis rien qui soit déconcertant. En 
 
 1\. (Nous) de Pautimâshya,
 2\. Pautimâshya, de Gaupavana,
-3\. Gaupavana de Pautimâshya, <span id="p186">[<sup><small>p. 186</small></sup>]</span> 4\. Pautimâshya de Gaupavana,
+3\. Gaupavana de Pautimâshya, <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> 4\. Pautimâshya de Gaupavana,
 5\. Gaupavana de Kau<i>s</i>ika,
 6\. Kau<i>s</i>ika de Kau<i>n</i><i>d</i>inya,
 7\. Kau<i>n</i><i>d</i>inya de Sâ<i>n</i><i>d</i>ilya,
@@ -501,7 +501,7 @@ Mais il répondit : « Ô Maîtreyî, je ne dis rien qui soit déconcertant. En 
 
 3\. de Ghritakausika,
 
-24\. Gh<i>ri</i>takau<i>s</i>ika de Pârâ<i>s</i>aryâya<i>n</i>a, <span id="p187">[<sup><small>p. 187</small></sup>]</span> 25\. Pârâ<i>s</i>aryâya<i>n</i>a de Pârâ<i>s</i>arya,
+24\. Gh<i>ri</i>takau<i>s</i>ika de Pârâ<i>s</i>aryâya<i>n</i>a, <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> 25\. Pârâ<i>s</i>aryâya<i>n</i>a de Pârâ<i>s</i>arya,
 26\. Pârâ<i>s</i>arya de <i>G</i>âtukar<i>n</i>ya,
 27\. <i>G</i>âtukar<i>n</i>ya d'Âsurâya<i>n</i>a et Yâska [^547],
 28\. Âsurâya<i>n</i>a de Trava<i>n</i>i,
@@ -530,7 +530,7 @@ Mais il répondit : « Ô Maîtreyî, je ne dis rien qui soit déconcertant. En 
 51\. Mrityu Prâdhvamsana de Prâdhvamsana,
 52\. Prâdhvamsana d'Ekarshi,
 53\. Ekarshi de Viprakitti [^548],
-54\. Vipra<i>t</i>ti de Vyash<i>t</i>i, <span id="p188">[<sup><small>p. 188</small></sup>]</span> 55\. Vyash<i>t</i>i de Sanâru,
+54\. Vipra<i>t</i>ti de Vyash<i>t</i>i, <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> 55\. Vyash<i>t</i>i de Sanâru,
 56\. Sanâru de Sanâtana,
 57\. Sanâtana de la Sanaga,
 58\. Sanaga de Paramesh<i>th</i>in,

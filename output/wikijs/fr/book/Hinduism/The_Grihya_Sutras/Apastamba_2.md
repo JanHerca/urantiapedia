@@ -73,7 +73,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 2, SECTION 5.
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. Et l'oblation (est effectuée) avec le suivant (verset ; M. I, 5, 7).
 
-9\. (Suivent ensuite) de nouveau la circumambulation (M. I, 5, 8-10), l'injonction de marcher sur la pierre <span id="p261">[<sup><small>p. 261</small></sup>]</span> (I, 5, 11), et l'oblation avec le suivant (verset ; I, 5, 12) ;
+9\. (Suivent ensuite) de nouveau la circumambulation (M. I, 5, 8-10), l'injonction de marcher sur la pierre <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> (I, 5, 11), et l'oblation avec le suivant (verset ; I, 5, 12) ;
 
 10\. (Puis) la circumambulation à nouveau (I, 5, 13-15).
 
@@ -119,7 +119,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 21\. D'abord la bonne.
 
-22\. Lorsqu'elle monte (sur le char), il récite sur elle les versets suivants ; M. I, 6, 4-7. <span id="p262">[<sup><small>p. 262</small></sup>]</span>
+22\. Lorsqu'elle monte (sur le char), il récite sur elle les versets suivants ; M. I, 6, 4-7. <span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 23\. Avec le verset suivant (M. I, 6, 8), il étend deux fils dans les traces de roues (dans lesquelles le char doit aller), un bleu foncé dans la droite (la trace), un rouge dans la gauche.
 
@@ -142,7 +142,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 5\. S'ils passent près d'arbres à sève laiteuse ou près d'autres arbres qui servent de repères, près de rivières ou près de déserts, il doit murmurer les deux suivants (versets ; M. I, 7, 8. 9), selon les caractéristiques qu'ils contiennent (qui se rapportent à ces différents cas).
 
-6\. Au verset suivant, il lui montre la maison (M. I, 7, 10). <span id="p263">[<sup><small>p. 263</small></sup>]</span>
+6\. Au verset suivant, il lui montre la maison (M. I, 7, 10). <span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 7\. Avec les deux suivants (versets ; M. I, 7, 11. 12) il détele les deux animaux ; celui de droite en premier.
 
@@ -156,7 +156,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 12\. Lorsque les étoiles sont apparues, il sort (de la maison avec elle) en direction de l'est ou du nord, et lui montre l'étoile polaire et (l'étoile) Arundhatî avec les deux versets suivants (M. I, 9, 6-7), selon les caractéristiques (contenues dans ces versets).
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

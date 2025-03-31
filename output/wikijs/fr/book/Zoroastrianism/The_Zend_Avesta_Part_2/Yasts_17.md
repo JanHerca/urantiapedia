@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Ashi Vanguhi ou « la bonne Ashi » [^1150] est une incarnation féminine de la piété [^1151], et elle est, en même temps, la source de tout bien et de toute richesse liés à la piété [^1152]. Elle est donc décrite comme une déesse de la Fortune et de la Richesse, et est invoquée en compagnie de Pâre<i>n</i>di, la déesse des Trésors (Sîrôzah 25).
 
@@ -42,7 +42,7 @@ Elle apparaît dans ce dernier personnage dans la première partie du Ya<i>s</i>
 
 1\. Nous sacrifions à Ashi Vanguhi, qui est brillant, grand, de haute stature, bien digne de sacrifice, avec un char retentissant, fort, bienfaisant, guérisseur, avec une plénitude d'intellect [^1154], et puissant ;
 
-2\. La fille d'Ahura Mazda, la sœur des Amesha-Spe<i>n</i>tas, qui dote tous les <span id="p271">[<sup><small>p. 271</small></sup>]</span> Saoshya<i>n</i><i>t</i>s [^1155] de l'intelligence vivifiante ; elle apporte aussi la sagesse céleste à son souhait, et vient en aide à celui qui l'invoque de près et à celui qui l'invoque de loin, et l'adore avec des offrandes de libations.
+2\. La fille d'Ahura Mazda, la sœur des Amesha-Spe<i>n</i>tas, qui dote tous les <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> Saoshya<i>n</i><i>t</i>s [^1155] de l'intelligence vivifiante ; elle apporte aussi la sagesse céleste à son souhait, et vient en aide à celui qui l'invoque de près et à celui qui l'invoque de loin, et l'adore avec des offrandes de libations.
 
 3 [^1156]. Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu ; j'offrirai à Ashi Vanguhi un bon sacrifice avec une offrande de libations. Nous sacrifions à Ashi Vanguhi avec les libations ; avec le Haoma et la viande, avec le baresma, avec la sagesse de la langue, avec les sortilèges sacrés, avec les paroles, avec les actes, avec les libations et avec les paroles justes.
 
@@ -56,7 +56,7 @@ Yênhê hâtãm : Tous ces êtres dont Ahura Mazda . . . .
 
 Hommage à Haoma, car toutes les autres boissons sont accompagnées d'Aêshma [^1158], le démon de la lance blessante : mais la consommation de Haoma est accompagnée d'Asha et d'Ashi Vanguhi elle-même [^1159].
 
-6\. Ashi est belle ; Ashi est rayonnante de joie ; elle est perçante de ses rayons. Ashi donne la bonne gloire <span id="p272">[<sup><small>p. 272</small></sup>]</span> à ces hommes que tu suis, ô Ashi ! Pleine de parfums est la maison dans laquelle la bonne et puissante Ashi Vanguhi met ses . . . . [^1160] pieds, pour une longue amitié.
+6\. Ashi est belle ; Ashi est rayonnante de joie ; elle est perçante de ses rayons. Ashi donne la bonne gloire <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> à ces hommes que tu suis, ô Ashi ! Pleine de parfums est la maison dans laquelle la bonne et puissante Ashi Vanguhi met ses . . . . [^1160] pieds, pour une longue amitié.
 
 7\. Ces hommes que tu sers, ô Ashi ! sont des rois de royaumes riches en chevaux, aux tributs généreux, aux chevaux s'ébrouillant, aux chars retentissants, aux épées flamboyantes, riches en aliments et en réserves de nourriture [^1161] ; bien parfumés là où les lits sont étendus et remplis de toutes les autres richesses que l'on peut souhaiter. Heureux l'homme que tu sers ! Sers-moi, toi qui es riche de toutes sortes de choses désirables et fort !
 
@@ -64,7 +64,7 @@ Hommage à Haoma, car toutes les autres boissons sont accompagnées d'Aêshma [^
 
 9\. Les hommes que tu sers, ô Ashi Vanguhi ! ont des lits bien disposés, bien ornés, bien faits, pourvus de coussins et de pieds incrustés d'or. Heureux l'homme que tu sers ! Sers-moi, toi qui es riche de toutes sortes de choses désirables et fort !
 
-10\. Les hommes que tu sers, ô Ashi Vanguhi ! ont leurs dames assises sur leurs lits, qui les attendent : elles s'allongent sur les coussins, se parant, . . . . [^1162], de boucles d'oreilles carrées et d'un collier d'or : « Quand notre seigneur viendra-t-il ? Quand jouirons-nous dans nos corps des joies de l'amour ? » <span id="p273">[<sup><small>p. 273</small></sup>]</span> Heureux l'homme que tu sers ! Sers-moi, toi qui es riche de toutes sortes de choses désirables et fort !
+10\. Les hommes que tu sers, ô Ashi Vanguhi ! ont leurs dames assises sur leurs lits, qui les attendent : elles s'allongent sur les coussins, se parant, . . . . [^1162], de boucles d'oreilles carrées et d'un collier d'or : « Quand notre seigneur viendra-t-il ? Quand jouirons-nous dans nos corps des joies de l'amour ? » <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> Heureux l'homme que tu sers ! Sers-moi, toi qui es riche de toutes sortes de choses désirables et fort !
 
 11\. Les hommes que tu sers, ô Ashi Vanguhi ! ont des filles qui sont assises... [^1163] ; leur taille est fine, leur corps est beau, leurs doigts sont longs ; elles sont aussi belles que peuvent le souhaiter ceux qui les regardent. Heureux l'homme que tu sers ! Sers-moi, toi qui es riche de toutes sortes de choses désirables et fort !
 
@@ -72,7 +72,7 @@ Hommage à Haoma, car toutes les autres boissons sont accompagnées d'Aêshma [^
 
 13\. Les hommes que tu accompagnes, ô Ashi Vanguhi ! sont des chameaux à larges bosses, porteurs de fardeaux, volant du sol ou combattant avec une fougue sacrée [^1165]. Heureux l'homme que tu accompagnes ! Accompagne-moi, toi qui es riche de toutes sortes de choses désirables et fort !
 
-14\. Les hommes que tu sers, ô Ashi Vanguhi ! possèdent des trésors d'argent et d'or venus de régions lointaines, ainsi que des vêtements d'une confection splendide. Heureux l'homme que tu sers ! Sers-moi, toi qui es riche de toutes sortes de choses désirables et fort ! <span id="p274">[<sup><small>p. 274</small></sup>]</span> 15\. Ne détourne pas ton regard de moi ! Tourne ta miséricorde vers moi, ô grand Ashi ! Tu es bien fait et d'une noble lignée [^1166] ; tu es souverain à ta guise ; tu es la Gloire incarnée.
+14\. Les hommes que tu sers, ô Ashi Vanguhi ! possèdent des trésors d'argent et d'or venus de régions lointaines, ainsi que des vêtements d'une confection splendide. Heureux l'homme que tu sers ! Sers-moi, toi qui es riche de toutes sortes de choses désirables et fort ! <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> 15\. Ne détourne pas ton regard de moi ! Tourne ta miséricorde vers moi, ô grand Ashi ! Tu es bien fait et d'une noble lignée [^1166] ; tu es souverain à ta guise ; tu es la Gloire incarnée.
 
 16\. Ton père est Ahura Mazda, le plus grand de tous les dieux, le meilleur de tous les dieux ; ta mère est Ârmaiti Spe<i>n</i>ta ; tes frères sont Sraosha [^1167], un dieu d'Asha, et Rashnu [^1168], grand et fort, et Mithra [^1169], le seigneur des vastes pâturages, qui a dix mille espions et mille oreilles ; ta sœur est la Loi des adorateurs de Mazda.
 
@@ -80,7 +80,7 @@ Hommage à Haoma, car toutes les autres boissons sont accompagnées d'Aêshma [^
 
 18\. Et il [^1171] dit à haute voix : « Je suis Spitama Zarathu<i>s</i>tra, qui, le premier des mortels, récita les louanges de l'excellent Asha [^1172] et offrit un sacrifice à Ahura Mazda et à l'Amesha-Spe<i>n</i>tas ; de sa naissance et de sa croissance les eaux et les plantes se réjouirent ; de sa naissance et de sa croissance les eaux et les plantes croissèrent ; de sa naissance et de sa croissance toutes les créatures de la bonne création crièrent : Salut [^1173] !
 
-19\. 'Dans sa naissance et sa croissance, Angra Mainyu s'est précipité loin de cette terre vaste et ronde, dont les extrémités sont lointaines, et lui, le malfaisant Angra Mainyu, qui est toute mort, a dit : « Tous les dieux ensemble <span id="p275">[<sup><small>p. 275</small></sup>]</span> n'ont pas pu me frapper malgré moi, et Zarathu<i>s</i>tra seul peut m'atteindre malgré moi.
+19\. 'Dans sa naissance et sa croissance, Angra Mainyu s'est précipité loin de cette terre vaste et ronde, dont les extrémités sont lointaines, et lui, le malfaisant Angra Mainyu, qui est toute mort, a dit : « Tous les dieux ensemble <span id="p275"><sup><small>[ p. 275 ]</small></sup></span> n'ont pas pu me frapper malgré moi, et Zarathu<i>s</i>tra seul peut m'atteindre malgré moi.
 
 20\. « Il me frappe avec l'Ahuna Vairya, une arme aussi puissante qu'une pierre, grosse comme une maison [^1174] ; il me brûle avec l'Asha-Vahi<i>s</i>ta, comme s'il fondait du laiton [^1175]. Il me rend la vie meilleure si je quitte cette terre, lui, Spitama Zarathu<i>s</i>tra, le seul qui puisse me décourager. »
 
@@ -116,7 +116,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice...
 
 Pour son éclat et sa gloire, je lui offrirai un sacrifice...
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 ## V.
 
@@ -134,7 +134,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice...
 
 36\. Nous sacrifions à Ashi Vanguhi, qui est brillant, haut... et puissant.
 
-37 [^1181]. Haoma lui offrit un sacrifice, Haoma, la vivifiante, la guérisseuse, la belle, la majestueuse, aux yeux d'or, sur la plus haute hauteur du Haraiti Bareza. <span id="p278">[<sup><small>p. 278</small></sup>]</span> 38\. Il la supplia de lui accorder une faveur, en disant : « Accorde-moi ceci, ô grand Ashi Vanguhi ! Que je puisse lier le meurtrier touranien, Franghrasyan, que je puisse le traîner lié, que je puisse l'amener lié au roi Husravah, que le roi Husravah le tue, derrière le lac <i>K</i>aê<i>k</i>asta, le lac profond d'eaux salées, pour venger le meurtre de son père Syâvarshâna, un homme, et d'Aghraêratha, un semi-homme. »
+37 [^1181]. Haoma lui offrit un sacrifice, Haoma, la vivifiante, la guérisseuse, la belle, la majestueuse, aux yeux d'or, sur la plus haute hauteur du Haraiti Bareza. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> 38\. Il la supplia de lui accorder une faveur, en disant : « Accorde-moi ceci, ô grand Ashi Vanguhi ! Que je puisse lier le meurtrier touranien, Franghrasyan, que je puisse le traîner lié, que je puisse l'amener lié au roi Husravah, que le roi Husravah le tue, derrière le lac <i>K</i>aê<i>k</i>asta, le lac profond d'eaux salées, pour venger le meurtre de son père Syâvarshâna, un homme, et d'Aghraêratha, un semi-homme. »
 
 39\. Le grand Ashi Vanguhi courut à ses côtés. Haoma, le vivifiant, le guérisseur, le beau, le majestueux, aux yeux d'or, obtint ce don.
 
@@ -152,7 +152,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice...
 
 Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 ## VIII.
 
@@ -172,7 +172,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 49\. Le grand Kavi Vî<i>s</i>tâspa lui offrit un sacrifice derrière les eaux de la rivière Dâitya.
 
-50\. Il la supplia de lui accorder une faveur, en disant : « Accorde-moi ceci, ô grand Ashi Vanguhi ! Que je puisse mettre en fuite A<i>s</i>ta-aurva<i>n</i><i>t</i>, le fils de Vîspô-thaurvô-asti, le tout-affligeant, au casque d'airain, à l'armure d'airain, au cou épais, derrière lequel sept <span id="p280">[<sup><small>p. 280</small></sup>]</span> cents chameaux... ; que je puisse mettre en fuite le meurtrier d'<i>H</i><i>v</i>yaona, Are<i>g</i>a<i>t</i>-aspa ; que je puisse mettre en fuite Dar<i>s</i>inika, l'adorateur des Daêvas ;
+50\. Il la supplia de lui accorder une faveur, en disant : « Accorde-moi ceci, ô grand Ashi Vanguhi ! Que je puisse mettre en fuite A<i>s</i>ta-aurva<i>n</i><i>t</i>, le fils de Vîspô-thaurvô-asti, le tout-affligeant, au casque d'airain, à l'armure d'airain, au cou épais, derrière lequel sept <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> cents chameaux... ; que je puisse mettre en fuite le meurtrier d'<i>H</i><i>v</i>yaona, Are<i>g</i>a<i>t</i>-aspa ; que je puisse mettre en fuite Dar<i>s</i>inika, l'adorateur des Daêvas ;
 
 51\. 'Et que je puisse frapper Tãthrava<i>n</i><i>t</i> de la mauvaise loi ; que je puisse frapper Spin<i>g</i>auru<i>s</i>ka, l'adorateur des Daêvas ; et que je puisse amener à la bonne loi les nations des Varedhakas et des <i>H</i><i>v</i>yaonas ; et que je puisse frapper des nations <i>H</i><i>v</i>yaona leurs cinquantaines et leurs centaines, leurs centaines et leurs milliers, leurs milliers et leurs dizaines de milliers, leurs dizaines de milliers et leurs myriades de myriades.'
 
@@ -186,7 +186,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 54\. Et le grand Ashi Vanguhi dit : « Aucune de ces libations ne sera acceptée par moi, celles qui me sont envoyées soit par un homme dont la semence est desséchée [^1184], soit par la courtisane qui produit des enfants intempestifs [^1185], soit par de jeunes garçons, soit par des filles qui n'ont connu aucun homme [^1186].
 
-« Quand les Touraniens et les Naotaras aux chevaux rapides [^1187], frappant des mains, coururent après moi, <span id="p281">[<sup><small>p. 281</small></sup>]</span> 55\. « Je me suis caché sous le pied d'un taureau marchant sous son fardeau ; alors de jeunes garçons et des filles qui n'avaient connu aucun homme me découvrirent, alors même que les Touraniens et les Naotaras aux chevaux rapides, frappant des mains, couraient après moi.
+« Quand les Touraniens et les Naotaras aux chevaux rapides [^1187], frappant des mains, coururent après moi, <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> 55\. « Je me suis caché sous le pied d'un taureau marchant sous son fardeau ; alors de jeunes garçons et des filles qui n'avaient connu aucun homme me découvrirent, alors même que les Touraniens et les Naotaras aux chevaux rapides, frappant des mains, couraient après moi.
 
 56\. « Moi aussi, je me suis caché sous la gorge d'un bélier d'une énergie centuple : puis de jeunes garçons et des filles qui n'avaient connu aucun homme m'ont découvert, tandis que les Touraniens et les Naotaras aux chevaux rapides, frappant des mains, couraient après moi. »
 
@@ -196,7 +196,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 59\. Voici la troisième plainte du grand Ashi Vanguhi : « C’est le pire acte que commettent les hommes et les tyrans, à savoir priver des jeunes filles, longtemps stériles, de se marier et d’avoir des enfants. Que ferai-je ? Retournerai-je au ciel ? M’enfoncerai-je dans la terre ? »
 
-60\. Ahura Mazda répondit : « Ô belle et sage Ashi, ne retourne pas aux cieux, ne t'enfonce pas dans la <span id="p282">[<sup><small>p. 282</small></sup>]</span> terre ! Reste ici et marche dans le beau palais royal. »
+60\. Ahura Mazda répondit : « Ô belle et sage Ashi, ne retourne pas aux cieux, ne t'enfonce pas dans la <span id="p282"><sup><small>[ p. 282 ]</small></sup></span> terre ! Reste ici et marche dans le beau palais royal. »
 
 61\. Je t'adorerai avec un sacrifice, je t'adorerai et t'offrirai un sacrifice tel que celui que Vî<i>s</i>tâspa t'a offert, derrière la rivière Dâitya [^1188]. Le Zoatar éleva une voix forte, baresma devant lui. Avec ce genre de sacrifice t'adorerai-je ? Avec ce genre de sacrifice t'adorerai-je et offrirai-je un sacrifice, ô belle et sage Ashi ?
 

@@ -29,11 +29,11 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span> p. 363
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span> p. 363
 
 INDEX DU VENDÎDÂD, VOLUME IV ; ET DES SÎRÔZAHS, YA<i>S</i>TS ET NYÂYI<i>S</i>, VOLUME XXIII.
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span> p. 365
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span> p. 365
 
 Les références en petits chiffres romains renvoient à l'Introduction au Vendîdâd ; celles précédées de II renvoient à ce volume ; les autres renvoient au Vendîdâd.
 
@@ -133,7 +133,7 @@ Akāyadha, homme, II, 219.
 
 Deviens Vie, démon, lxxii ; II, 297, 308.
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Âkhnangha, homme, II, 217.
 
@@ -289,7 +289,7 @@ Ar<i>s</i>ti, génie, II, 166.
 
 Ar<i>s</i>va<i>n</i><i>t</i>, homme, II, 210.
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 Artaxerxès, xliv, lv; II, 53.
 
@@ -449,7 +449,7 @@ Avesta, lii. n 2. Sens du mot, xxx. Voir Âba<i>s</i>tâ et Z et Âvastâ.
 
 Aw<i>z</i>\-dânva, lac, II, 301.
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Ayêhi, démon, 228.
 
@@ -635,7 +635,7 @@ Daêvô-<i>t</i>bi<i>s</i>, homme, II, 204.
 
 Dahae, peuple, II, 227. n 2.
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Dahâk, démon, II, 298. n 1. Voir A<i>z</i>i Dahâka.
 
@@ -967,7 +967,7 @@ Paradis de la Bonne Pensée, II, 317.
 
 Gôpatishâh, homme, 20. n 2; II, 114. N° 7, 307. N° 6.
 
-<span id="p371">[<sup><small>p. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 Gô<i>s</i>, génie, II, 9, 17, 88, 110-118 (Gô<i>s</i> Ya<i>s</i>t).
 
@@ -1141,7 +1141,7 @@ Humâyaka, peuple, II, 80.
 
 Hun, II, 205. n
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 Hunus, peuple, II, 205.
 
@@ -1317,7 +1317,7 @@ Kavâta, roi, II, 65. n 1, 222, 30;. Voir Qobad.
 
 Kavis, hérétiques, II, 26. n 2.
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 Kavis, rois, II, 213, 215, 218. Voir Aipivôhu, Apîvêh, Aris<i>s</i>, Armîn, Arshan, Byârhan, Husravah, Kavāta, Kaus, Khosrav, Pashîn, Qobad, Syâvakhshâ,U®
 
@@ -1483,7 +1483,7 @@ Maretan, mec. Voir Gaya.
 
 Margiana, terre, II, 123. n 4.
 
-<span id="p374">[<sup><small>p. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 Margus, rivière, II, 123. n 4.
 
@@ -1641,7 +1641,7 @@ Ormazd, II, 177. n 2. Voir Ahura Mazda.
 
 Ôshêdar Bâmî, Man, II, 79. n 3, 164. n 1, 220. n 3, 226. n 1.
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 Ôshêdar Mâh, II, 264. n 1, 220. n 2.
 
@@ -1797,7 +1797,7 @@ Prêtre errant, 157. n 1, 162. n 1 ; indigne, 189.
 
 Sacerdoce, xlvii.
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 Proclus, xiii.
 
@@ -1953,7 +1953,7 @@ Je me tiens, terre, II, 123. n 3, 288. n 2.
 
 Selm, mec. Lac Sairima.
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 Concernant, mec, xlv.
 
@@ -2133,7 +2133,7 @@ Takhma-Urupa, prince, II, 60. n 1, 204, 252, 292, 326.
 
 Tanâfûhr, xcvi.
 
-<span id="p378">[<sup><small>p. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 Tanuperetha, xcvi.
 
@@ -2309,7 +2309,7 @@ Vanara, homme, II, 205.
 
 Vandaremaini, homme, II, 80.
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 Vanghapara, 152.
 
@@ -2481,7 +2481,7 @@ Vyar<i>s</i>va<i>n</i><i>t</i>, homme, II, 210.
 
 Vyâtana, main, II, 218.
 
-<span id="p380">[<sup><small>p. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 Marcher sans Kostî, 199.
 

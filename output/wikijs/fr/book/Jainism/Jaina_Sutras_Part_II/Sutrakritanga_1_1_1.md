@@ -32,9 +32,9 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span> p. 235
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span> p. 235
 
 SÛTRAKRI TÂṄGA.
 
@@ -54,7 +54,7 @@ Qu'est-ce qui cause l'esclavage (de l'âme) selon Mahâvîra ? et que faut-il sa
 
 Celui qui possède même une petite propriété en choses vivantes ou inertes [^673], ou qui consent à ce que d'autres la détiennent, ne sera pas délivré de la misère. (2)
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 Si un homme tue des êtres vivants, ou fait en sorte que d’autres hommes les tuent, ou consent à ce qu’ils les tuent, son iniquité ne fera qu’augmenter. (3)
 
@@ -68,7 +68,7 @@ Certains [^677] professent (la croyance exclusive dans) les cinq éléments gros
 
 « Ces cinq éléments grossiers (sont les causes originelles des choses), d'eux naît une autre (chose, à savoir âtman) [^678] ; car à la dissolution des (cinq éléments) les êtres vivants cessent d'exister. » (8)
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 « Et comme la Terre, bien qu'elle ne soit qu'un amas, présente de nombreuses formes, ainsi l'intelligent (principe, à savoir l'âtman) apparaît sous diverses formes comme l'univers [^679]. » (9)
 
@@ -82,7 +82,7 @@ Ainsi parlent certains insensés. (Mais comment peuvent-ils expliquer, selon leu
 
 Comment ceux qui tiennent de telles opinions peuvent-ils expliquer la diversité de l'existence dans le monde ? Ils vont de l'obscurité à l'obscurité la plus totale, étant fous et se livrant à des œuvres. (14)
 
-Certains [^682] disent qu'il y a cinq éléments et que <span id="p238">[<sup><small>p. 238</small></sup>]</span> l'âme est une sixième (substance), mais ils soutiennent que l'âme et le monde (c'est-à-dire les cinq éléments) sont éternels. (15)
+Certains [^682] disent qu'il y a cinq éléments et que <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> l'âme est une sixième (substance), mais ils soutiennent que l'âme et le monde (c'est-à-dire les cinq éléments) sont éternels. (15)
 
 « Ces (six substances) ne périssent pas non plus (sans ou avec une cause) ; le non-existant ne vient pas à l'existence, mais toutes choses sont éternelles par leur nature même [^683]. » (16)
 
@@ -92,7 +92,7 @@ Les <i>G</i>â<i>n</i>ayas [^686] disent qu'il y a quatre éléments : la terre,
 
 (Tous ces hérétiques disent) : « Ceux qui habitent dans des maisons, dans des bois ou sur des collines, seront délivrés de toute misère s'ils adoptent notre credo. » (19)
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 Mais ceux qui, ignorant la véritable relation des choses et n'étant pas versés dans la vraie Loi, soutiennent les opinions hérétiques ci-dessus ne traversent pas le Déluge de la Vie. (20)
 

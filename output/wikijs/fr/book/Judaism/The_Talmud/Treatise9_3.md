@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 1\. Il y a des règles plus importantes pour les choses saintes que pour l'offrande élevée. Car on peut baptiser des vases dans des vases pour l'offrande élevée, mais pas pour les choses saintes. L'extérieur, l'intérieur et l'anse (sont comptés séparément) pour l'offrande élevée, mais pas pour les choses saintes. Celui qui porte ce qui souille en le marchant peut porter l'offrande élevée, mais pas la chair sainte. Marcher sur les vêtements de ceux qui mangent l'offrande élevée souille pour la chair sainte. La mesure de la chair sainte n'est pas la même que celle de l'offrande élevée. Car pour la chair sainte, il faut défaire ses vêtements, se sécher, baptiser et ensuite les bander. Mais pour l'offrande élevée, il peut les bander et ensuite se baptiser.
 

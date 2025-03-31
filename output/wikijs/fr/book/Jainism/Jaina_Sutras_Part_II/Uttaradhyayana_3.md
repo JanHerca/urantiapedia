@@ -64,7 +64,7 @@ Les Yakshas qui sont doués de diverses vertus, (vivent dans les régions céles
 
 Déterminés à profiter des plaisirs divins et à changer de forme à volonté, ils vivent dans les cieux supérieurs de Kalpa pendant de nombreux siècles d'anciennes [^88] années. (15)
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Les Yakshas, ​​étant restés là selon leur mérite, en descendent à l'expiration de leur vie et naissent comme hommes.
 
@@ -76,7 +76,7 @@ Il aura des amis et des parents, sera de bonne famille, de belle apparence, en b
 
 Après avoir joui, en leur temps, des plaisirs incomparables de la vie humaine, il obtiendra la vraie connaissance par son pur mérite religieux acquis dans une vie antérieure. (19)
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Percevant que les quatre conditions requises sont difficiles à obtenir, il s'appliquera à la maîtrise de soi, et lorsque, par des pénitences, il aura secoué le reste du Karman, il deviendra un Siddha éternel. (20)
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 ## ADHYÂYA I, KA<i>ND</i>IKÂ 1.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. [^359]. Il y a trois (sortes de) Pâkaya<i>g</i><i>g</i>as, les hutas, (c'est-à-dire les sacrifices) offerts sur le feu ; sur quelque chose qui n'est pas le feu, les prahutas ; et lors de l'alimentation des Brâhma<i>g</i>as, ceux offerts dans le Brahman.
 
-3\. [^360]. Et ils citent aussi Rikas : « Celui qui, avec un morceau de bois, une offrande ou la connaissance (« veda »), a été élevé. » <span id="p160">[<sup><small>p. 160</small></sup>]</span>
+3\. [^360]. Et ils citent aussi Rikas : « Celui qui, avec un morceau de bois, une offrande ou la connaissance (« veda »), a été élevé. » <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 4 [^361]. Même celui qui met seulement un morceau de bois (sur le feu) plein de croyance, devrait penser : « Ici, j'offre un sacrifice ; adoration à cette (divinité) ! »
 
@@ -58,7 +58,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 
 
-<span id="p161">[<sup><small>p. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 ## O<i>ICI. 2.
 
@@ -74,7 +74,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 7Soma et les hommes de Soma - ceux-ci (il fait des oblations) aux différents quartiers (de l'horizon, dont ceux-là sont les divinités qui président).
 
-6\. À Brahman et aux hommes de Brahman au milieu, <span id="p162">[<sup><small>p. 162</small></sup>]</span>
+6\. À Brahman et aux hommes de Brahman au milieu, <span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 7\. Aux devâs Vi<i>s</i>ves, à tous les êtres qui marchent le jour — ainsi de jour ;
 
@@ -94,7 +94,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 2\. Avec deux lames Ku<i>s</i>a utilisées comme passoires, la purification de l'Â<i>s</i>ya (est effectuée).
 
-3\. [^367]. Ayant pris deux lames de Ku<i>s</i>a aux sommets intacts, qui ne portent pas de jeune pousse en elles, de la mesure d'un empan, à leurs deux extrémités avec ses <span id="p163">[<sup><small>p. 163</small></sup>]</span> pouces et ses index, les mains tournées avec l'intérieur vers le haut, il purifie (l'Â<i>s</i>ya, de l'ouest) vers l'est, avec (les mots) : « Par l'impulsion de Savi<i>ri</i> je te purifie avec ce purificateur intact, avec les rayons du bon soleil » — une fois avec cette formule, deux fois silencieusement.
+3\. [^367]. Ayant pris deux lames de Ku<i>s</i>a aux sommets intacts, qui ne portent pas de jeune pousse en elles, de la mesure d'un empan, à leurs deux extrémités avec ses <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> pouces et ses index, les mains tournées avec l'intérieur vers le haut, il purifie (l'Â<i>s</i>ya, de l'ouest) vers l'est, avec (les mots) : « Par l'impulsion de Savi<i>ri</i> je te purifie avec ce purificateur intact, avec les rayons du bon soleil » — une fois avec cette formule, deux fois silencieusement.
 
 4\. [^368]. L'éparpillement (d'herbe) autour (du feu) peut être fait ou non dans les offrandes Â<i>g</i>ya.
 
@@ -110,7 +110,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 10\. À ce propos, la strophe sacrificielle suivante est chantée :
 
-« Celui qui doit accomplir des Pâkaya<i>g</i><i>g</i>as (différents), doit les offrir avec le même Â<i>g</i>ya, le même <span id="p164">[<sup><small>p. 164</small></sup>]</span> Barhis et le même Svish<i>g</i>ak<i>g</i>t, même si la divinité (de ces sacrifices) n'est pas la même. »
+« Celui qui doit accomplir des Pâkaya<i>g</i><i>g</i>as (différents), doit les offrir avec le même Â<i>g</i>ya, le même <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> Barhis et le même Svish<i>g</i>ak<i>g</i>t, même si la divinité (de ces sacrifices) n'est pas la même. »
 
 
 
@@ -140,7 +140,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 ## O<i>ICI 5.
 
-1\. [^377]. Qu'il examine d'abord la famille (du futur époux ou de la future épouse), comme il a été dit plus haut, <span id="p165">[<sup><small>p. 165</small></sup>]</span> 'Ceux qui sont du côté maternel et du côté paternel.'
+1\. [^377]. Qu'il examine d'abord la famille (du futur époux ou de la future épouse), comme il a été dit plus haut, <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> 'Ceux qui sont du côté maternel et du côté paternel.'
 
 2\. Qu'il donne la fille à un (jeune homme) doué d'intelligence.
 
@@ -156,7 +156,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 ## O<i>ICI 6.
 
@@ -170,7 +170,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 5\. [^384]. Il peut l'épouser, après qu'un accord mutuel ait été conclu (entre l'amant et la demoiselle) : c'est le mariage appelé Gândharva.
 
-6\. [^385]. Il peut l'épouser après avoir réjoui (son père) avec de l'argent : c'est le mariage appelé Âsura. <span id="p167">[<sup><small>p. 167</small></sup>]</span>
+6\. [^385]. Il peut l'épouser après avoir réjoui (son père) avec de l'argent : c'est le mariage appelé Âsura. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 7 [^386]. Il peut l'enlever pendant que (ses proches) dorment ou ne pas y prêter attention : c'est ce mariage qu'on appelle Pai<i>s</i>â<i>s</i>a.
 
@@ -206,7 +206,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 12\. C'est la règle concernant les portions à couper.
 
-13\. [^393]. « Au dieu Aryaman, les filles ont fait un sacrifice, <span id="p169">[<sup><small>p. 169</small></sup>]</span> à Agni ; puisse-t-il, dieu Aryaman, la libérer de cet endroit, et non de cet autre, Svâhâ !
+13\. [^393]. « Au dieu Aryaman, les filles ont fait un sacrifice, <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> à Agni ; puisse-t-il, dieu Aryaman, la libérer de cet endroit, et non de cet autre, Svâhâ !
 
 « Au dieu Varu<i>n</i>a, les filles ont fait un sacrifice, à Agni ; puisse-t-il, dieu Varu<i>n</i>a, etc.
 
@@ -222,7 +222,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 18\. Celui de gauche avec ce qui suit (<i>Rik<i>).
 
-19\. [^395]. Il la fait alors avancer de sept pas vers le nord-est avec (les mots) : « Pour la sève d'un pas, pour le jus de deux pas, pour la prospérité de la richesse de trois pas, pour le confort de quatre pas, pour la descendance de cinq pas, pour les saisons <span id="p170">[<sup><small>p. 170</small></sup>]</span> de six pas. Sois amie de sept pas. Sois donc dévouée à moi. Faisons-nous beaucoup de fils qui atteindront un âge avancé ! »
+19\. [^395]. Il la fait alors avancer de sept pas vers le nord-est avec (les mots) : « Pour la sève d'un pas, pour le jus de deux pas, pour la prospérité de la richesse de trois pas, pour le confort de quatre pas, pour la descendance de cinq pas, pour les saisons <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> de six pas. Sois amie de sept pas. Sois donc dévouée à moi. Faisons-nous beaucoup de fils qui atteindront un âge avancé ! »
 
 20\. [^396]. Joignant leurs deux têtes, (l'époux ? l'Â<i>k</i>ârya ?) les asperge (d'eau) du pot à eau.
 
@@ -244,7 +244,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 4\. [^400]. (Il prononce le verset), « Ils pleurent la vivante » (Rig-veda X, 40, 10), si elle pleure.
 
-5\. Ils portent constamment le feu nuptial devant eux. <span id="p171">[<sup><small>p. 171</small></sup>]</span>
+5\. Ils portent constamment le feu nuptial devant eux. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 6 [^401]. Aux endroits charmants, près des arbres et des carrefours, qu'il murmure (le verset) : « Que les cheminots ne nous rencontrent pas » (Rig-veda X, 85, 32).
 
@@ -260,7 +260,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 12\. [^404]. Lorsqu'il a accompli (cette) observance (et a eu des rapports avec sa femme), il doit donner la chemise de la mariée au (brâhmane) qui connaît l'hymne Sûryâ (Rig-veda X, 85) ;
 
-13\. « Nourriture pour les Brâhma<i>n</i>as ; <span id="p172">[<sup><small>p. 172</small></sup>]</span>
+13\. « Nourriture pour les Brâhma<i>n</i>as ; <span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 14\. Alors il leur fera prononcer des paroles de bon augure.
 
@@ -294,7 +294,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 3
 
-2\. Le jeûne (qui a lieu) à cet endroit a été déclaré par (les règles correspondantes concernant) les sacrifices de Dar<i>s</i>apûr<i>s</i>amâsa. <span id="p173">[<sup><small>p. 173</small></sup>]</span>
+2\. Le jeûne (qui a lieu) à cet endroit a été déclaré par (les règles correspondantes concernant) les sacrifices de Dar<i>s</i>apûr<i>s</i>amâsa. <span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 3 [^408]. Et (ainsi a été déclaré) la liaison du combustible et des Barhis,
 
@@ -314,7 +314,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 11\. Mais s'il (cuit les portions) en les jetant ensemble, il doit les (toucher et) les sacrifier, après avoir mis (les portions individuelles) dans des récipients différents.
 
-12\. [^410]. Les portions de nourriture sacrificielle, lorsqu'elles <span id="p174">[<sup><small>p. 174</small></sup>]</span> ont été cuites, il les asperge (d'Â<i>g</i>ya), les retire du feu vers le nord, les place sur le Barhis et asperge le combustible d'Â<i>g</i>ya avec la formule : « Ce combustible est toi-même, <i>G</i>âtavedas ; par là brûle et multiplie, et, ô Celui qui brûle, fais-nous croître et par la descendance, le bétail, l'éclat sacré et la nourriture, fais-nous prospérer. Svâhâ ! »
+12\. [^410]. Les portions de nourriture sacrificielle, lorsqu'elles <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> ont été cuites, il les asperge (d'Â<i>g</i>ya), les retire du feu vers le nord, les place sur le Barhis et asperge le combustible d'Â<i>g</i>ya avec la formule : « Ce combustible est toi-même, <i>G</i>âtavedas ; par là brûle et multiplie, et, ô Celui qui brûle, fais-nous croître et par la descendance, le bétail, l'éclat sacré et la nourriture, fais-nous prospérer. Svâhâ ! »
 
 13\. [^411]. Après avoir versé silencieusement les deux Âghâras (ou oblations Â<i>g</i>ya versées avec le Sruva, l'une du nord-ouest au sud-est, l'autre du sud-ouest au nord-est), il doit sacrifier les deux portions Â<i>g</i>ya avec (les formules) : « À Agni svâhâ ! À Soma svâhâ ! »
 
@@ -324,7 +324,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 16\. [^414]. 'C'est pourquoi, chez un homme assis le visage tourné vers l'ouest, l'œil méridional (c'est-à-dire droit) est septentrional, et l'œil septentrional (c'est-à-dire gauche) est méridional.'
 
-17\. [^415]. Au milieu (des deux portions Â<i>g</i>ya, il <span id="p175">[<sup><small>p. 175</small></sup>]</span> sacrifie l'autre) Havis, ou plus à l'ouest, terminant (les oblations) à l'est ou au nord.
+17\. [^415]. Au milieu (des deux portions Â<i>g</i>ya, il <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> sacrifie l'autre) Havis, ou plus à l'ouest, terminant (les oblations) à l'est ou au nord.
 
 18\. Au nord-est, l'oblation à (Agni) Svish<i>t</i>ak<i>t</i>t.
 
@@ -342,7 +342,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 24\. [^419]. Il verse le vase plein sur les Barhis.
 
-25\. [^420]. Voici l'Avabhritha. <span id="p176">[<sup><small>p. 176</small></sup>]</span>
+25\. [^420]. Voici l'Avabhritha. <span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 26\. C'est la forme standard des Pâkaya<i>ri</i><i>ri</i>as.
 
@@ -367,7 +367,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 5\. Ayant porté le feu autour de lui, accomplissant cet acte seulement (sans répéter un Mantra correspondant), ils le conduisent vers le nord.
 
-6\. [^422]. Devant, ils portent un tison. <span id="p177">[<sup><small>p. 177</small></sup>]</span>
+6\. [^422]. Devant, ils portent un tison. <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 7 [^423] C'est le <i>S</i>âmitra (le feu).
 
@@ -379,7 +379,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 11\. [^426]. Au même feu, ils cuisent une grande quantité de nourriture.
 
-12\. [^427]. Après avoir coupé les onze Avadânas (ou parties qui doivent être coupées) de l'animal, de tous ses membres, les avoir fait bouillir au <i>S</i>âmitra (feu), <span id="p178">[<sup><small>p. 178</small></sup>]</span> et avoir réchauffé le cœur à la broche, qu'il sacrifie d'abord du mets cuit (mentionné dans le Sûtra 11) ;
+12\. [^427]. Après avoir coupé les onze Avadânas (ou parties qui doivent être coupées) de l'animal, de tous ses membres, les avoir fait bouillir au <i>S</i>âmitra (feu), <span id="p178"><sup><small>[ p. 178 ]</small></sup></span> et avoir réchauffé le cœur à la broche, qu'il sacrifie d'abord du mets cuit (mentionné dans le Sûtra 11) ;
 
 13\. Ou avec les portions Avadâna.
 
@@ -399,7 +399,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 3
 
-2\. [^431]. Si, cependant, (le <i>K</i>aitya) est éloigné, (il devrait envoyer son Bali) par l'intermédiaire d'un messager-feuille. <span id="p179">[<sup><small>p. 179</small></sup>]</span>
+2\. [^431]. Si, cependant, (le <i>K</i>aitya) est éloigné, (il devrait envoyer son Bali) par l'intermédiaire d'un messager-feuille. <span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 3
 
@@ -421,7 +421,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 1\. [^435]. L'Upanishad traite du Garbhalambhana, du Pu<i>m</i>savana et de l'Anavalobhana (c'est-à-dire les cérémonies visant à garantir la conception d'un enfant, le sexe masculin de l'enfant et à prévenir les troubles qui pourraient mettre en danger l'embryon).
 
-2\. [^436]. S'il n'étudie pas (cette Upanishad), il <span id="p180">[<sup><small>p. 180</small></sup>]</span> devrait, au troisième mois de sa grossesse, sous (le Nakshatra) Tishya, donner à manger (à sa femme), après qu'elle a jeûné, du lait caillé d'une vache qui a un veau de la même couleur (qu'elle), deux haricots et un grain d'orge pour chaque poignée de lait caillé.
+2\. [^436]. S'il n'étudie pas (cette Upanishad), il <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> devrait, au troisième mois de sa grossesse, sous (le Nakshatra) Tishya, donner à manger (à sa femme), après qu'elle a jeûné, du lait caillé d'une vache qui a un veau de la même couleur (qu'elle), deux haricots et un grain d'orge pour chaque poignée de lait caillé.
 
 3\. À sa question : « Que bois-tu ? Que bois-tu ? », elle devrait répondre trois fois : « Génération d'un enfant mâle ! Génération d'un enfant mâle ! »
 
@@ -439,7 +439,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 
 
-<span id="p181">[<sup><small>p. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 ## O<i>ICI 14.
 
@@ -463,7 +463,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 6\. Il donne l'ordre à deux joueurs de luth : « Chantez le roi Soma. »
 
-7\. [^440]. (Ils chantent) « Que Soma, notre roi, bénisse l'humanité. La roue de NN est posée » — (ici, ils nomment) la rivière près de laquelle ils habitent. <span id="p182">[<sup><small>p. 182</small></sup>]</span>
+7\. [^440]. (Ils chantent) « Que Soma, notre roi, bénisse l'humanité. La roue de NN est posée » — (ici, ils nomment) la rivière près de laquelle ils habitent. <span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 8\. Et si une femme brahmane âgée, dont le mari et les enfants sont encore en vie, dites-leur, qu'ils le fassent.
 
@@ -481,7 +481,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 3\. [^442]. Il touche les deux épaules (de l'enfant) avec (le vers) : « Sois une pierre, sois une hache, sois un or insurmontable. Tu es en vérité le Véda, appelé fils ; ainsi vis cent automnes » — et avec (les vers) : « Indra, donne les meilleurs trésors » (Rig-veda II, 21, 6), « Accorde-nous, ô généreux, ô prompt » (Rig-veda III, 36, 10).
 
-4\. Et qu'ils lui donnent un nom commençant par <span id="p183">[<sup><small>p. 183</small></sup>]</span> une sonante, avec une semi-voyelle à l'intérieur, avec le Visarga à sa fin, composé de deux syllabes,
+4\. Et qu'ils lui donnent un nom commençant par <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> une sonante, avec une semi-voyelle à l'intérieur, avec le Visarga à sa fin, composé de deux syllabes,
 
 5\. Ou de quatre syllabes ;
 
@@ -509,7 +509,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 4\. Riz bouilli avec du ghee, si vous désirez de la splendeur :
 
-5\. (Une telle) nourriture, mélangée à du lait caillé, du miel et du ghee, il devrait la donner (à l'enfant) à manger avec (le verset) : « Seigneur de la nourriture, donne-nous une nourriture indolore et forte ; <span id="p184">[<sup><small>p. 184</small></sup>]</span> fais venir le donateur ; accorde le pouvoir sur nous, sur les hommes et sur les animaux. »
+5\. (Une telle) nourriture, mélangée à du lait caillé, du miel et du ghee, il devrait la donner (à l'enfant) à manger avec (le verset) : « Seigneur de la nourriture, donne-nous une nourriture indolore et forte ; <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> fais venir le donateur ; accorde le pouvoir sur nous, sur les hommes et sur les animaux. »
 
 6\. Le rite seul (sans le Mantra) pour une fille.
 
@@ -533,7 +533,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 7\. Prenant de cette (eau), (et) du beurre frais, ou (quelques) gouttes de lait caillé, il humidifie trois fois la tête (du garçon), de gauche à droite, avec (la formule) : « Qu'Aditi te coupe les cheveux ; que les eaux t'humidifient pour te donner de la vigueur ! »
 
-8\. [^445]. Dans la partie droite (des cheveux), il met chaque <span id="p185">[<sup><small>p. 185</small></sup>]</span> fois trois touffes de Ku<i>s</i>a, les pointes dirigées vers lui, avec (les mots) : « Herbe ! Protégez-le ! »
+8\. [^445]. Dans la partie droite (des cheveux), il met chaque <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> fois trois touffes de Ku<i>s</i>a, les pointes dirigées vers lui, avec (les mots) : « Herbe ! Protégez-le ! »
 
 9\. (Avec ces mots) « Hache ! Ne lui fais pas de mal ! » il presse un rasoir en cuivre (sur les lames de Ku<i>s</i>a),
 
@@ -555,7 +555,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 15\. Ainsi trois fois sur le côté gauche (de la tête).
 
-16\. [^447]. Qu'il essuie le fil du rasoir en disant : « Si tu rases ses cheveux avec le rasoir, comme un rasoir, purifie sa tête, mais ne lui ôte pas la vie. » <span id="p186">[<sup><small>p. 186</small></sup>]</span>
+16\. [^447]. Qu'il essuie le fil du rasoir en disant : « Si tu rases ses cheveux avec le rasoir, comme un rasoir, purifie sa tête, mais ne lui ôte pas la vie. » <span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 17\. Qu'il donne des ordres au coiffeur : « Avec de l'eau tiède, fais ce qu'il faut faire avec de l'eau, sans lui faire de mal, arrange bien (ses cheveux). »
 
@@ -589,7 +589,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 7\. [^452]. Après s'être baigné et être resté silencieux pendant le reste de la journée, qu'il rompe son silence en présence de son maître (en lui disant) : « Je te fais un don facultatif. »
 
-8\. Un bœuf et une vache constituent le prix du sacrifice. <span id="p187">[<sup><small>p. 187</small></sup>]</span>
+8\. Un bœuf et une vache constituent le prix du sacrifice. <span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 9 [^453]. Que (le maître) impose (aux jeunes les observances énoncées ci-dessous) pendant un an.
 
@@ -629,7 +629,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 1
 
-12\. Leurs ceintures sont : celle d'un Brâhma<i>n</i>a en herbe Mu<i>nd</i>a, celle d'un Kshatriya en corde d'arc, celle d'un Vai<i>n</i>ya en laine. <span id="p188">[<sup><small>p. 188</small></sup>]</span>
+12\. Leurs ceintures sont : celle d'un Brâhma<i>n</i>a en herbe Mu<i>nd</i>a, celle d'un Kshatriya en corde d'arc, celle d'un Vai<i>n</i>ya en laine. <span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 13\. Leurs bâtons sont : celui d'un Brâhma<i>n</i>a en bois de Palâ<i>n</i>a, celui d'un Kshatriya en bois d'Udumbara, celui d'un Vai<i>n</i>ya en bois de Bilva.
 
@@ -659,7 +659,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 8
 
-7\. Il devrait lui faire regarder le soleil pendant que le maître dit : « Dieu Savitri, voici ton Brahma<i>k</i>ârin ; protège-le ; puisse-t-il ne pas mourir. » <span id="p189">[<sup><small>p. 189</small></sup>]</span>
+7\. Il devrait lui faire regarder le soleil pendant que le maître dit : « Dieu Savitri, voici ton Brahma<i>k</i>ârin ; protège-le ; puisse-t-il ne pas mourir. » <span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 8\. (Et plus loin le maître dit) : « De qui es-tu le Brahma<i>k</i>ârin ? Tu es le Brahma<i>k</i>ârin du souffle. Qui t'initie, et qui (initie-t-il) ? À qui te confierai-je ? »
 
@@ -677,7 +677,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 1\. Certains (font cela) avec un mantra : « À Agni, j'ai apporté un morceau de bois, aux grands Gâtavedas. Par ce morceau de bois, croisses, ô Agni ; par le Brahman, puissions-nous (croître). Svâhâ ! »
 
-2\. Ayant mis le combustible (sur le feu) et ayant <span id="p190">[<sup><small>p. 190</small></sup>]</span> touché le feu, il s'essuie trois fois le visage en disant : « Je m'oins de splendeur. »
+2\. Ayant mis le combustible (sur le feu) et ayant <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> touché le feu, il s'essuie trois fois le visage en disant : « Je m'oins de splendeur. »
 
 3\. « Car il s'oint de splendeur » — c'est ce qui est compris (dans le <i>S</i>ruti).
 
@@ -705,7 +705,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 22.
 
@@ -731,7 +731,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 11\. Il devrait rester debout le reste de la journée.
 
-12\. [^459]. Après le coucher du soleil, l'étudiant doit préparer le Brâhmaudana (le riz bouilli qui servira à nourrir les Brâhma<i>n</i>as) pour le sacrifice d'Anuprava<i>n</i>anîya (le sacrifice à effectuer après l'étude d'une partie du Véda), et doit annoncer à l'enseignant (qu'il est prêt). <span id="p192">[<sup><small>p. 192</small></sup>]</span>
+12\. [^459]. Après le coucher du soleil, l'étudiant doit préparer le Brâhmaudana (le riz bouilli qui servira à nourrir les Brâhma<i>n</i>as) pour le sacrifice d'Anuprava<i>n</i>anîya (le sacrifice à effectuer après l'étude d'une partie du Véda), et doit annoncer à l'enseignant (qu'il est prêt). <span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 13\. L'enseignant doit sacrifier, tandis que l'étudiant s'empare de lui, avec le verset : « Le merveilleux seigneur de la demeure » (Rig-Veda I, 18, 6).
 
@@ -749,7 +749,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 20\. [^462]. Une fois ces observances accomplies, (l'enseignant) réalise (pour lui) la « production d'intelligence » (de la manière suivante) :
 
-21\. [^463]. Tandis que (l'étudiant) vers une direction non contestable (de l'horizon) asperge trois fois (d'eau) de gauche à droite avec un pot d'eau autour d'un <span id="p193">[<sup><small>p. 193</small></sup>]</span> Palâ<i>s</i>a (arbre) à une racine, ou autour d'un bouquet de Ku<i>s</i>a, s'il n'y a pas de Palâ<i>s</i>a, (le professeur) lui fait dire : « Ô glorieux, tu es glorieux. Comme toi, ô glorieux, tu es glorieux, ainsi, ô glorieux, conduis-moi à la gloire. Comme tu es le gardien du trésor du sacrifice pour les dieux, ainsi puis-je devenir le gardien du trésor du Véda pour les hommes. »
+21\. [^463]. Tandis que (l'étudiant) vers une direction non contestable (de l'horizon) asperge trois fois (d'eau) de gauche à droite avec un pot d'eau autour d'un <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> Palâ<i>s</i>a (arbre) à une racine, ou autour d'un bouquet de Ku<i>s</i>a, s'il n'y a pas de Palâ<i>s</i>a, (le professeur) lui fait dire : « Ô glorieux, tu es glorieux. Comme toi, ô glorieux, tu es glorieux, ainsi, ô glorieux, conduis-moi à la gloire. Comme tu es le gardien du trésor du sacrifice pour les dieux, ainsi puis-je devenir le gardien du trésor du Véda pour les hommes. »
 
 22\. [^464]. Ainsi, depuis sa coupe de cheveux jusqu'à sa prise en charge, l'imposition d'observances a été déclarée.
 
@@ -787,7 +787,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 7\. [^474]. Il choisit d'abord le Hot<i>ri</i>.
 
-8\. Avec (la formule), 'Agni est mon Hot_ri_ ; il est mon Hot_ri_ ; je te choisis NN comme mon Hot_ri_' (il choisit) le Hot_ri_. <span id="p195">[<sup><small>p. 195</small></sup>]</span>
+8\. Avec (la formule), 'Agni est mon Hot_ri_ ; il est mon Hot_ri_ ; je te choisis NN comme mon Hot_ri_' (il choisit) le Hot_ri_. <span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 9\. Avec (la formule), '<i>K</i>andramas (la lune) est mon Brahman ; il est mon Brahman ; je te choisis NN comme mon Brahman' (il choisit) le Brahman.
 
@@ -809,7 +809,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 18\. De même les autres selon les prescriptions (données ci-dessus).
 
-19\. [^477]. Et si (le prêtre qui accepte l'invitation) <span id="p196">[<sup><small>p. 196</small></sup>]</span> va accomplir le sacrifice (pour la personne qui invite, il devrait ajouter), « Que cela me bénisse ; que cela entre en moi ; que je jouisse ainsi (de la béatitude). »
+19\. [^477]. Et si (le prêtre qui accepte l'invitation) <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> va accomplir le sacrifice (pour la personne qui invite, il devrait ajouter), « Que cela me bénisse ; que cela entre en moi ; que je jouisse ainsi (de la béatitude). »
 
 20\. [^478]. Les fonctions d'un prêtre officiant ne doivent pas être exercées s'il est abandonné (par un autre prêtre), ou lors d'un sacrifice Ahîna avec un faible prix sacrificiel, ou pour une personne malade, ou souffrante, ou atteinte de tuberculose, ou décriée par les gens de son village, ou d'origine méprisée : pour de telles personnes (les fonctions d'un Ritvi<i>g</i> ne doivent pas être exercées).
 
@@ -841,7 +841,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 6\. Ou du beurre, s'il ne peut pas obtenir de miel.
 
-7\. Un siège, l'eau pour se laver les pieds, l'eau d'Arghya (c'est-à-dire l'eau parfumée dans laquelle on a jeté des fleurs), l'eau à siroter, le mélange de miel, <span id="p198">[<sup><small>p. 198</small></sup>]</span> une vache : chacune de ces choses, ils l'annoncent trois fois (à l'invité).
+7\. Un siège, l'eau pour se laver les pieds, l'eau d'Arghya (c'est-à-dire l'eau parfumée dans laquelle on a jeté des fleurs), l'eau à siroter, le mélange de miel, <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> une vache : chacune de ces choses, ils l'annoncent trois fois (à l'invité).
 
 8\. Avec (le verset) : « Je suis le plus élevé parmi mon peuple, comme le soleil parmi les éclairs. Je foule aux pieds quiconque m'infeste » — il doit s'asseoir sur le siège (fait d') herbe pointant vers le nord.
 
@@ -861,7 +861,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 16\. Avec (la formule), « Que les Rudras te mangent avec le mètre Trish<i>t</i>ubh » — au sud ;
 
-17\. Avec (la formule), « Que les Âdityas te mangent avec le mètre <i>G</i>agatî » — à l'ouest ; <span id="p199">[<sup><small>p. 199</small></sup>]</span>
+17\. Avec (la formule), « Que les Âdityas te mangent avec le mètre <i>G</i>agatî » — à l'ouest ; <span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 18\. Avec (la formule), « Que les devâs Vi<i>s</i>ves te mangent avec le mètre Anush<i>s</i>ubh » — au nord.
 
@@ -891,7 +891,7 @@ Voyant cela, le Rishi dit : « À celui qui ne s'éloigne pas des vaches, à cel
 
 31\. Ayant murmuré : « Mon péché est détruit ; mon péché est détruit », (il dit) « Om, fais-le », s'il choisit de la faire tuer.
 
-32\. Ayant murmuré : « La mère des Rudras, la fille des Vasus » (Rig-veda VIII, 101, 15), <span id="p200">[<sup><small>p. 200</small></sup>]</span> (il dit) « Om, lâche-la », s'il choisit de la lâcher.
+32\. Ayant murmuré : « La mère des Rudras, la fille des Vasus » (Rig-veda VIII, 101, 15), <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> (il dit) « Om, lâche-la », s'il choisit de la lâcher.
 
 33\. [^483]. Que le Madhuparka ne soit pas sans chair, sans chair.
 

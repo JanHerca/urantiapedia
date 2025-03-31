@@ -40,7 +40,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 AJOUT CATÉCHÉTIQUE [^1140].
 
-4\. Mazda a fait une proclamation. (Question.) Qui a-t-il annoncé ? (Réponse.) Ce saint qui est à la fois céleste et terrestre. (Question.) De quel caractère est celui qui l'a ainsi annoncé ? (Réponse.) Il est le meilleur, et celui qui exerce le pouvoir souverain. (Question.) De quel caractère est l'homme qu'il a annoncé ? (Réponse.) <span id="p268">[<sup><small>p. 268</small></sup>]</span> Le saint et le meilleur, celui qui règne sans tyrannie capricieuse.
+4\. Mazda a fait une proclamation. (Question.) Qui a-t-il annoncé ? (Réponse.) Ce saint qui est à la fois céleste et terrestre. (Question.) De quel caractère est celui qui l'a ainsi annoncé ? (Réponse.) Il est le meilleur, et celui qui exerce le pouvoir souverain. (Question.) De quel caractère est l'homme qu'il a annoncé ? (Réponse.) <span id="p268"><sup><small>[ p. 268 ]</small></sup></span> Le saint et le meilleur, celui qui règne sans tyrannie capricieuse.
 
 Nous sacrifions aux différentes parties de l'Asha Vahi<i>s</i>ta (prière). Nous sacrifions à la récitation auditive de l'Asha Vahi<i>s</i>ta, à sa mémorisation, à son chant et à son usage sacrificiel [^1141] !
 

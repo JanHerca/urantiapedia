@@ -32,13 +32,13 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 ## PRAPÂ_TH_AKA III, KÂ_N__D_IKÂ 1.
 
 1\. [^259] Maintenant (suit) la cérémonie de Godâna (ou coupe de la barbe), dans la seizième année.
 
-2\. [^260] La coupe des cheveux (et de la barbe) a été expliquée par la (description du) _K<i>û</i>d<i>û</i>n_a (II, 9). <span id="p70">[<sup><small>p. 70</small></sup>]</span>
+2\. [^260] La coupe des cheveux (et de la barbe) a été expliquée par la (description du) _K<i>û</i>d<i>û</i>n_a (II, 9). <span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 3\. [^261] L'étudiant se fait couper les cheveux (et la barbe) lui-même.
 
@@ -72,7 +72,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 18\. « Dormir sur des lits surélevés »,
 
-19\. 'Exécutions de chant, de danse, etc., utilisation de parfums et de collyres, <span id="p71">[<sup><small>p. 71</small></sup>]</span>
+19\. 'Exécutions de chant, de danse, etc., utilisation de parfums et de collyres, <span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 20\. 'Bain,
 
@@ -107,7 +107,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 2.
 
@@ -133,7 +133,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 11\. Qu'il ne mange pas le matin avant d'avoir touché de l'eau.
 
-12\. [^268] Le soir, après avoir touché de l'eau, il ne doit pas manger avant d'avoir mis le morceau de bois sur le feu. <span id="p73">[<sup><small>p. 73</small></sup>]</span>
+12\. [^268] Le soir, après avoir touché de l'eau, il ne doit pas manger avant d'avoir mis le morceau de bois sur le feu. <span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 13\. Il devrait porter des vêtements sombres.
 
@@ -171,7 +171,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 30\. [^269] Les règles concernant les vêtements sombres, la position debout, la position assise, le chemin (de préparation) et la nourriture (sombre) peuvent être considérées comme facultatives.
 
-31\. Après qu'il a respecté son vœu pendant un tiers (du temps prescrit, le maître) devrait <span id="p74">[<sup><small>p. 74</small></sup>]</span> lui chanter le (premier) verset Stotriya (des Mahânâmnîs).
+31\. Après qu'il a respecté son vœu pendant un tiers (du temps prescrit, le maître) devrait <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> lui chanter le (premier) verset Stotriya (des Mahânâmnîs).
 
 32\. De la même manière les deux autres versets du Stotriya (après les deux tiers du temps et à la fin du temps entier).
 
@@ -191,7 +191,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 40\. Le feu, Â<i>g</i>ya, le soleil, un Brahman, un taureau, la nourriture, l'eau, le lait caillé,
 
-41\. Avec (les mots) : « J'ai contemplé le ciel ! J'ai contemplé la lumière ! » <span id="p75">[<sup><small>p. 75</small></sup>]</span>
+41\. Avec (les mots) : « J'ai contemplé le ciel ! J'ai contemplé la lumière ! » <span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 42\. De cette façon, tous (les objets énoncés dans le Sûtra 40) trois fois.
 
@@ -207,7 +207,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 48\. [^275] Un plat de nourriture cuite, consacré à Indra, est préparé. Qu'il en sacrifie une partie avec ce verset : « Au Ri__k, au Sâman, nous sacrifions » (Sâma-veda I, 369), ou (avec le verset) : « Le seigneur du siège, le merveilleux » (ibid. I, 171), ou avec les deux (versets).
 
-49\. [^276] Ceci (il devrait le faire) à (toutes) les cérémonies d'Anuprava<i>k</i>anîya. <span id="p76">[<sup><small>p. 76</small></sup>]</span>
+49\. [^276] Ceci (il devrait le faire) à (toutes) les cérémonies d'Anuprava<i>k</i>anîya. <span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 50\. [^277] Le Mantra doit être modifié partout (de sorte qu'il doive dire) : « J'ai gardé (le vœu), » « J'ai pu », « Ainsi j'ai prospéré », « J'ai subi. »
 
@@ -227,7 +227,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 58\. [^280] Il devrait éviter de vivre constamment du même grain, au même endroit et de porter le même vêtement.
 
-59\. Il doit accomplir le rite de « toucher l'eau » avec de l'eau puisée (d'un étang, etc.). <span id="p77">[<sup><small>p. 77</small></sup>]</span>
+59\. Il doit accomplir le rite de « toucher l'eau » avec de l'eau puisée (d'un étang, etc.). <span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 60\. [^281] À partir du moment où il lui est demandé (d'observer les devoirs de son Vrata), il ne doit pas manger dans un récipient en terre,
 
@@ -244,7 +244,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. [^284] Après que (le professeur) a sacrifié avec les Vyâh<i>ri</i>tis, il récite le Sâvitrî aux étudiants comme à l'Upanayana ;
 
-3\. Et (il chante) le Sâvitrî avec sa mélodie Sâman, <span id="p78">[<sup><small>p. 78</small></sup>]</span>
+3\. Et (il chante) le Sâvitrî avec sa mélodie Sâman, <span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 4\. Et (le Bârhaspatya Sâman, avec le texte), 'Soma, le roi, Varu<i>n</i>a' (Sâma-veda I, 91).
 
@@ -270,7 +270,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 15\. [^293] Ils devraient sortir du village en direction de l'est ou du nord, devraient aller vers l'eau qui atteint plus haut que leurs parties secrètes, devraient toucher l'eau (de la manière prescrite ci-dessus, I, 2), et devraient rassasier les mètres, les <i>Ri</i>shis et les enseignants (par des libations d'eau).
 
-16\. [^294] Après ce deuxième Upâkara<i>n</i>a, jusqu'à ce que le (principal) Upâkara<i>n</i>a (ait été exécuté) à nouveau pour les textes védiques, une interruption de l'étude (du Véda a lieu), si les nuages ​​se lèvent. <span id="p80">[<sup><small>p. 80</small></sup>]</span>
+16\. [^294] Après ce deuxième Upâkara<i>n</i>a, jusqu'à ce que le (principal) Upâkara<i>n</i>a (ait été exécuté) à nouveau pour les textes védiques, une interruption de l'étude (du Véda a lieu), si les nuages ​​se lèvent. <span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 17\. S'il y a des éclairs, ou s'il y a du tonnerre, ou s'il pleut, (il n'étudiera pas) jusqu'à la même heure le lendemain.
 
@@ -316,7 +316,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ### KÂ_N__D_IKÂ 4.
 
@@ -336,7 +336,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. Au nord ou à l'est de la maison du professeur se trouve une enceinte.
 
-9\. Là, le maître s'assoit, face au nord, sur l'herbe Darbha pointée vers l'est ; <span id="p83">[<sup><small>p. 83</small></sup>]</span>
+9\. Là, le maître s'assoit, face au nord, sur l'herbe Darbha pointée vers l'est ; <span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 10\. Face à l'est, l'étudiant est sur l'herbe Darbha pointée vers le nord.
 
@@ -360,7 +360,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 20\. Il devrait alors se lever et adorer le soleil avec le Mantra, « Se lever avec (les Maruts) qui portent des lances brillantes » (ibid. 6-9), etc.
 
-21\. [^306] Il peut éventuellement utiliser les sections individuelles de <span id="p84">[<sup><small>p. 84</small></sup>]</span> le Mantra séparément (le matin, à midi et le soir) comme indiqué dans le texte.
+21\. [^306] Il peut éventuellement utiliser les sections individuelles de <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> le Mantra séparément (le matin, à midi et le soir) comme indiqué dans le texte.
 
 22\. Il devrait ajouter (la formule) « Tu es l'œil » (ibid. 9) après (chacune des trois sections du Mantra, 6-8).
 
@@ -380,7 +380,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 30\. Ici, le professeur devrait l'honorer avec la cérémonie d'Argha.
 
-31\. (L'étudiant) devrait alors s'approcher d'un char attelé de bœufs et toucher ses deux pièces latérales ou les deux bras du timon du char avec <span id="p85">[<sup><small>p. 85</small></sup>]</span> (le verset), « Ô arbre, que tes membres soient forts » (ibid. 16).
+31\. (L'étudiant) devrait alors s'approcher d'un char attelé de bœufs et toucher ses deux pièces latérales ou les deux bras du timon du char avec <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> (le verset), « Ô arbre, que tes membres soient forts » (ibid. 16).
 
 32\. Avec (les derniers mots de ce verset), « Que celui qui se tient sur toi, gagne ce qui peut être gagné » — il le monte.
 
@@ -410,7 +410,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. Ou qui est resté debout toute la nuit—
 
-10\. Sauf ceux préparés à partir de légumes, de chair, d'orge ou de farine. <span id="p86">[<sup><small>p. 86</small></sup>]</span>
+10\. Sauf ceux préparés à partir de légumes, de chair, d'orge ou de farine. <span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 11\. Qu'il ne coure pas quand il pleut.
 
@@ -444,7 +444,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 26\. Il ne doit pas faire l'éloge d'une personne (de manière excessive).
 
-27\. Il ne doit pas parler de ce qu'il n'a pas vu, comme s'il l'avait vu, <span id="p87">[<sup><small>p. 87</small></sup>]</span>
+27\. Il ne doit pas parler de ce qu'il n'a pas vu, comme s'il l'avait vu, <span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 28\. Ni de ce qu'il n'a pas entendu, comme s'il l'avait entendu.
 
@@ -475,7 +475,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. [^314] Quand ses vaches sont chassées, il doit répéter (le verset) : « Que (Bhava), le tout-vaillant, (et Indra protègent) ces (vaches) pour moi » (MB. I, 8, 1).
 
-2\. Lorsqu'ils seront de retour, (il devrait répéter le verset) : « Ceux qui sont riches en douceurs » (ibid. 2). <span id="p88">[<sup><small>p. 88</small></sup>]</span>
+2\. Lorsqu'ils seront de retour, (il devrait répéter le verset) : « Ceux qui sont riches en douceurs » (ibid. 2). <span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 3\. S'il désire prospérer (dans son bétail), il doit lécher avec sa langue le front du veau premier-né, avant qu'il ne soit léché par sa mère, et doit avaler avec (la formule) : « Tu es le flegme des vaches » (ibid. 3).
 
@@ -491,7 +491,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. [^315] (Les rites à) la sortie (des vaches), au retour (des vaches), et à la mise en mouvement de la corde (avec les veaux).
 
-10\. Lors du sacrifice de la vache (c'est-à-dire le sacrifice par lequel les vaches prospèrent), des grains de riz bouillis avec du lait sont offerts. <span id="p89">[<sup><small>p. 89</small></sup>]</span>
+10\. Lors du sacrifice de la vache (c'est-à-dire le sacrifice par lequel les vaches prospèrent), des grains de riz bouillis avec du lait sont offerts. <span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 11\. Qu'il sacrifie à Agni, Pûshan, Indra et Î<i>s</i>vara.
 
@@ -519,7 +519,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. (Dans la mesure) de plus d'un prakrama (c'est-à-dire d'une étape).
 
-7\. Il met un plat sur le feu et fait frire (dans ce <span id="p90">[<sup><small>p. 90</small></sup>]</span> plat) une poignée de grains d'orge, sans les brûler.
+7\. Il met un plat sur le feu et fait frire (dans ce <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> plat) une poignée de grains d'orge, sans les brûler.
 
 8\. [^318] A l'ouest du feu, il place un mortier de manière à ce qu'il soit bien stable, et décortique (les grains), séparant (les grains décortiqués et les grains non décortiqués ?).
 
@@ -533,7 +533,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 13\. Il prend une fois une quantité de farine avec la cuillère Darvi, verse de l'eau sur l'endroit taché à l'est (du feu), et offre (là) un Bali avec (les mots) : « Ô roi des Serpents, demeurant vers l'est, ceci est ton Bali ! » (MB. II, 1, 1).
 
-14\. Il verse le reste de l'eau sur (ce Bali, en prenant soin) qu'elle n'emporte pas le Bali. <span id="p91">[<sup><small>p. 91</small></sup>]</span>
+14\. Il verse le reste de l'eau sur (ce Bali, en prenant soin) qu'elle n'emporte pas le Bali. <span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 15\. [^320] Se retournant de droite à gauche, il asperge la coupe en bois et la cuillère Darvi, les réchauffe et (répète l'offrande d'un Bali) de la même manière vers le sud, vers l'ouest et vers le nord, comme le Mantra (MB. II, I, 1. 2) court, sans se détourner (entre les offrandes individuelles de Bali).
 
@@ -547,7 +547,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 20\. [^323] Le reste (doit être exécuté) selon le rite Sthâlîpâka.
 
-21\. Au nord du feu, il place un bouquet d'herbe Darbha avec racines et murmure le mantra « Soma le roi » (ibid. 4) et « L'accord que vous avez conclu » (ibid. 5). <span id="p92">[<sup><small>p. 92</small></sup>]</span>
+21\. Au nord du feu, il place un bouquet d'herbe Darbha avec racines et murmure le mantra « Soma le roi » (ibid. 4) et « L'accord que vous avez conclu » (ibid. 5). <span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 22\. Le lendemain, il fait préparer de la farine de grains d'orge frits, et dans un nouveau pot, en le recouvrant d'un autre pot, il la met (dans sa maison).
 
@@ -565,7 +565,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. [^327] Le reste (doit être exécuté) selon le rite Sthâlîpâka.
 
-5\. Ayant porté le P<i>ri</i>shâtaka autour du feu, tournant son côté droit vers (le feu), et ayant fait regarder le P<i>ri</i>shâtaka par les Brâhma<i>ri</i>as, il devrait le regarder lui-même avec (le verset <span id="p93">[<sup><small>p. 93</small></sup>]</span> répété par les Brâhma<i>ri</i>as et par le sacrificateur), « Cet œil brillant, créé par les dieux, qui s'élève à l'est, puissions-nous le voir cent automnes ; puissions-nous vivre cent automnes ! »
+5\. Ayant porté le P<i>ri</i>shâtaka autour du feu, tournant son côté droit vers (le feu), et ayant fait regarder le P<i>ri</i>shâtaka par les Brâhma<i>ri</i>as, il devrait le regarder lui-même avec (le verset <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> répété par les Brâhma<i>ri</i>as et par le sacrificateur), « Cet œil brillant, créé par les dieux, qui s'élève à l'est, puissions-nous le voir cent automnes ; puissions-nous vivre cent automnes ! »
 
 6\. Après avoir régalé les Brâhmanes et s'être mangé lui-même, (le sacrificateur et sa famille) doivent attacher (à leurs bras, à leur cou, etc.) des amulettes faites de laque avec toutes sortes d'herbes, pour la prospérité.
 
@@ -587,7 +587,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 15\. Et sur (ces portions) de l'eau (est versée).
 
-16\. [^330] (Après que la nourriture a été préparée de cette <span id="p94">[<sup><small>p. 94</small></sup>]</span> manière), il doit l'avaler sans la mâcher, avec (le Mantra), « Du bon au meilleur » (ibid. 13).
+16\. [^330] (Après que la nourriture a été préparée de cette <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> manière), il doit l'avaler sans la mâcher, avec (le Mantra), « Du bon au meilleur » (ibid. 13).
 
 17\. De la même manière trois fois.
 
@@ -613,7 +613,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. [^332] Ils ont été expliqués par le sacrifice _S<i>râva</i>n_a.
 
-3\. [^333] Il ne murmure pas (ici) le mantra « Adoration à la Terre ». <span id="p95">[<sup><small>p. 95</small></sup>]</span>
+3\. [^333] Il ne murmure pas (ici) le mantra « Adoration à la Terre ». <span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 4\. Le matin, après avoir sacrifié l'oblation matinale (habituelle), il doit faire apporter les plantes et branches d'arbres suivantes : de l'herbe Darbha, une branche de Sami, de l'herbe Vîri<i>n</i>a, une branche de Badarî avec des fruits, de l'Apâmârga et du Sirîsha. Il doit ensuite jeter silencieusement une portion de farine d'orge frite dans le feu, faire prononcer des vœux de bon augure par les Brâhmanes et faire le tour de la maison en tournant son côté droit vers elle, en partant de la pièce réservée au feu (sacré), et en attisant la fumée (du feu sacré) avec ces objets (c'est-à-dire avec les plantes et les branches mentionnées ci-dessus).
 
@@ -627,7 +627,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. De cela (lait-riz), il devrait faire une oblation avec (le Mantra) : « Elle a brillé comme la première » (MB. II, 2, 1).
 
-10\. [^336] Le reste (doit être accompli) selon le rite Sthâlîpâka. <span id="p96">[<sup><small>p. 96</small></sup>]</span>
+10\. [^336] Le reste (doit être accompli) selon le rite Sthâlîpâka. <span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 11\. À l'ouest du feu, il touche les Barhis avec ses deux mains tournées vers le bas, et murmure les Vyâh<i>ri</i>tis (c'est-à-dire les paroles solennelles) : « Dans le Kshatra, je m'établis » (ibid. 2. 3).
 
@@ -651,7 +651,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 21\. Ils répètent les hymnes de bon augure dans la mesure où ils les connaissent ;
 
-22\. [^338] Le complexe de Sâmans appelé Arish<i>t</i>a, selon certains (enseignants). <span id="p97">[<sup><small>p. 97</small></sup>]</span>
+22\. [^338] Le complexe de Sâmans appelé Arish<i>t</i>a, selon certains (enseignants). <span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 23\. Après avoir touché l'eau, ils peuvent faire ce qu'ils veulent.
 
@@ -677,7 +677,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. Le huitième jour de la quinzaine sombre après l'Âgrahâya<i>t</i>î est appelé Apûpâsh<i>t</i>akâ (c'est-à-dire Ash<i>t</i>akâ des gâteaux).
 
-10\. [^341] Ayant préparé des grains de la manière prescrite <span id="p98">[<sup><small>p. 98</small></sup>]</span> pour les Sthâlîpâkas, il fait cuire (ces grains et prépare ainsi) un <i>k</i>aru.
+10\. [^341] Ayant préparé des grains de la manière prescrite <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> pour les Sthâlîpâkas, il fait cuire (ces grains et prépare ainsi) un <i>k</i>aru.
 
 11\. [^342] Et (en outre il prépare) huit gâteaux, sans les retourner dans le plat (dans lequel il les fait cuire) ;
 
@@ -695,7 +695,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 18\. [^346] (Lors du deuxième Ash<i>t</i>akâ, le) huitième jour après le jour de pleine lune de Taisha, une vache (est sacrifiée).
 
-19\. Peu avant le moment de la jonction (du jour et de la nuit, c'est-à-dire avant le crépuscule du matin), il doit placer cette (vache) à l'est du feu, et quand (ce moment) est venu, il doit sacrifier (Â<i>g</i>ya) avec <span id="p99">[<sup><small>p. 99</small></sup>]</span> (le verset), 'Que pensez-vous, ô bêtes' (MB. II, 2, 5).
+19\. Peu avant le moment de la jonction (du jour et de la nuit, c'est-à-dire avant le crépuscule du matin), il doit placer cette (vache) à l'est du feu, et quand (ce moment) est venu, il doit sacrifier (Â<i>g</i>ya) avec <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> (le verset), 'Que pensez-vous, ô bêtes' (MB. II, 2, 5).
 
 20\. Et après avoir sacrifié, il doit réciter sur (la vache) le verset : « Que ta mère te le permette » (ibid. 6).
 
@@ -719,7 +719,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 30\. Ils placent deux purificateurs (c'est-à-dire des brins d'herbe) sur (le corps de la vache) près de son nombril, le coupent dans le sens de ses poils et en retirent l'épiploon.
 
-31\. Il le crachera sur deux morceaux de bois, une branche simple et une branche fourchue, l'arrosera d'eau et le rôtira. <span id="p100">[<sup><small>p. 100</small></sup>]</span>
+31\. Il le crachera sur deux morceaux de bois, une branche simple et une branche fourchue, l'arrosera d'eau et le rôtira. <span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 32\. [^347] Quand la vache cesse de tomber, il doit dire : « Coupez la vache en morceaux.
 

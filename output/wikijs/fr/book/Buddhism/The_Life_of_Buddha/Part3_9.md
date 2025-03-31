@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 
 Dans la cité d'Atavi régnait un roi passionné de chasse. Un jour, il aperçut un cerf énorme et se lança à sa poursuite. Le cerf était rapide, et dans le feu de la chasse, le roi perdit de vue les autres chasseurs. Finalement, la proie s'échappa, et, las et découragé, le roi s'assit sous un arbre. Il s'endormit.
@@ -57,7 +57,7 @@ Il fit appeler son ministre et lui raconta ce qui s'était passé. Le ministre r
 
 Le roi approuva la suggestion. Des gardes furent envoyés à la prison et dirent à ceux dont les jours étaient comptés :
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 Non loin de la ville se trouve un arbre habité par un dieu très friand de riz. Quiconque lui déposera une assiette de riz au pied de l'arbre sera entièrement pardonné.
 
@@ -69,7 +69,7 @@ Malgré tous leurs efforts pour appréhender les coupables, la prison était à 
 
 Un vague malaise s'empara de la cité d'Atavi. On vit les anciens disparaître ; nul ne savait ce qu'ils étaient devenus. Et, chaque jour, les remords du roi devenaient plus poignants. Mais il n'eut pas le courage de sacrifier sa vie pour le bien-être de son peuple. Il pensa :
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 « Personne ne viendra à mon secours ? Il vit à Cravasti, et parfois à Rajagriha, m'a-t-on dit, un homme d'une grande puissance, un Bouddha, dont les prodiges sont loués à cor et à cri. On dit qu'il aime voyager. Pourquoi, alors, ne vient-il pas dans mon royaume ? »
 
@@ -85,7 +85,7 @@ Alavaka était dans une rage terrible. Il aurait voulu torturer cet homme assis 
 
 Alavaka parvint enfin à se maîtriser. Il pensa que la ruse réussirait peut-être là où la force avait échoué, et d'une voix douce, il dit :
 
-« Je vois que vous êtes un homme sage, mon Seigneur ; c’est toujours un plaisir pour moi d’interroger les hommes sages. Je leur pose quatre questions. S’ils peuvent répondre, ils sont libres d’aller où bon leur semble ; s’ils ne peuvent pas répondre, ils restent mes prisonniers, <span id="p251">[<sup><small>p. 251</small></sup>]</span> et je les dévore quand j’en ai envie. »
+« Je vois que vous êtes un homme sage, mon Seigneur ; c’est toujours un plaisir pour moi d’interroger les hommes sages. Je leur pose quatre questions. S’ils peuvent répondre, ils sont libres d’aller où bon leur semble ; s’ils ne peuvent pas répondre, ils restent mes prisonniers, <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> et je les dévore quand j’en ai envie. »
 
 « Posez-moi les quatre questions », dit le Bouddha.
 
@@ -103,7 +103,7 @@ Lorsqu'Alavaka entendit les réponses du Maître, il tomba à ses pieds et l'ado
 
 « Roi », dit le Dieu, « je te libère de ton engagement. »
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 Le roi était plus heureux que jamais. Lorsqu'il sut qui l'avait sauvé, il s'écria :
 

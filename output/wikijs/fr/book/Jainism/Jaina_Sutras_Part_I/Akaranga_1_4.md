@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 QUATRIÈME LEÇON, INTENTIONNÉE LA JUSTICE.
 
@@ -44,7 +44,7 @@ Telle est la loi pure, immuable, éternelle, que les intelligents, qui comprenne
 
 Ayant adopté (la loi), il ne faut ni la cacher, ni l'abandonner. En comprenant correctement la loi, il faut parvenir à l'indifférence aux impressions des sens [^184] et « ne pas agir selon les mobiles du monde ». « Celui qui n'est pas de cet avis [^185], comment parviendrait-il à l'autre [^186] ? »
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Ce qui a été dit ici a été vu (par les omniscients), entendu (par les croyants), reconnu (par les fidèles) et parfaitement compris par eux. Ceux qui acquiescent et s'adonnent (aux plaisirs du monde) naissent sans cesse. « Travaillant jour et nuit, persévérant », toujours doté de la sagesse, tu comprends que les insouciants sont exclus (du salut) ; si tu es prudent, tu triompheras toujours. Ainsi parle-je. (3)
 
@@ -58,7 +58,7 @@ Il y a autant d'âsravas [^187] que de parisravas, et autant de parisravas que d
 
 Certains disent ainsi, et les sages aussi ; les sages disent ainsi, et d'autres aussi [^189]. Nombreux sont ceux en ce monde, Brâhmanes ou Sâramiens, qui soulèvent cette discussion : Nous l'avons vu, entendu, reconnu, parfaitement compris, dans les directions supérieures, inférieures et latérales, et examiné de toutes les manières : toutes sortes d'êtres vivants peuvent être tués, ou traités avec violence, ou maltraités, ou tourmentés, ou chassés. Sachez-le : il n'y a aucun mal à cela. (3)
 
-C'est une doctrine d'indignes. Mais ceux qui sont enseignants ont dit : Vous avez mal vu, mal entendu, mal reconnu, mal compris, dans les directions supérieures, inférieures et latérales, vous avez mal examiné cela de toutes les manières, lorsque vous dites, parlez, déclarez, expliquez ainsi : Tous les êtres vivants peuvent être tués, ou traités avec violence, ou maltraités, ou tourmentés, ou chassés. Sachez-le : il n'y a aucun mal à cela. C'est une doctrine d'indignes. (4) Mais nous disons, parlons, déclarons, expliquons ainsi : <span id="p39">[<sup><small>p. 39</small></sup>]</span> Tous les êtres vivants ne doivent pas être tués, ni traités avec violence, ni maltraités, ni tourmentés, ni chassés. Sachez-le : il n'y a aucun mal à cela. Telle est la doctrine des enseignants. (5)
+C'est une doctrine d'indignes. Mais ceux qui sont enseignants ont dit : Vous avez mal vu, mal entendu, mal reconnu, mal compris, dans les directions supérieures, inférieures et latérales, vous avez mal examiné cela de toutes les manières, lorsque vous dites, parlez, déclarez, expliquez ainsi : Tous les êtres vivants peuvent être tués, ou traités avec violence, ou maltraités, ou tourmentés, ou chassés. Sachez-le : il n'y a aucun mal à cela. C'est une doctrine d'indignes. (4) Mais nous disons, parlons, déclarons, expliquons ainsi : <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> Tous les êtres vivants ne doivent pas être tués, ni traités avec violence, ni maltraités, ni tourmentés, ni chassés. Sachez-le : il n'y a aucun mal à cela. Telle est la doctrine des enseignants. (5)
 
 Il faut d'abord s'assurer de la persuasion de chacun, puis nous leur demanderons individuellement : « Ô professeurs ! La douleur vous est-elle agréable ou désagréable ? » S'ils donnent la bonne réponse, répondez : « Pour tous les êtres vivants, la douleur est désagréable, désagréable et très redoutée. » Ainsi dis-je. (6)
 
@@ -71,7 +71,7 @@ Il faut d'abord s'assurer de la persuasion de chacun, puis nous leur demanderons
 
 Tous les professeurs, familiers avec la douleur, prêchent le renoncement. Ainsi, connaissant parfaitement le karman, observant le commandement, sage, détaché (du monde), reconnaissant ton Soi comme un [^191], soumets ton corps, châtie-toi, affaiblis-toi : « Comme le feu consume le vieux bois ! » Ainsi, avec un esprit calme et détaché, « évite sans hésiter la colère ! » Considérant la brièveté de la vie, « connaît la douleur, ou ce qui adviendra » [^192] ; tu ressentiras les différents sentiments et percevras le monde en souffrance. (2)
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 Ceux qui sont exempts de péchés sont appelés anidâna [^193]. C'est pourquoi un homme très sage ne devrait pas s'enflammer (de colère). Ainsi dis-je. (3)
 

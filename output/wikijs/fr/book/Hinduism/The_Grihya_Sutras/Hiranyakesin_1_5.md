@@ -36,7 +36,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 [^590]
 
-1\. Lorsqu'il a vu la nouvelle lune pour la première fois, il boit de l'eau à petites gorgées, et tenant un pot d'eau dans ses mains, il adore la lune avec les quatre versets suivants : « Crois » (Taitt. Sa<i>m</i>h. I, 4, 32), « Que ton lait » (ibid. IV, 2, 7, 4), « Nouvelle et nouvelle encore (la lune) devient, en naissant » (ibid. II, 4, 14, 1), « Ce Soma que les Âdityas font gonfler » (ibid. II, 4, 14, 1). <span id="p180">[<sup><small>p. 180</small></sup>]</span>
+1\. Lorsqu'il a vu la nouvelle lune pour la première fois, il boit de l'eau à petites gorgées, et tenant un pot d'eau dans ses mains, il adore la lune avec les quatre versets suivants : « Crois » (Taitt. Sa<i>m</i>h. I, 4, 32), « Que ton lait » (ibid. IV, 2, 7, 4), « Nouvelle et nouvelle encore (la lune) devient, en naissant » (ibid. II, 4, 14, 1), « Ce Soma que les Âdityas font gonfler » (ibid. II, 4, 14, 1). <span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 2\. [^591] Lorsqu'il a bâillé, il murmure : « (Que) la volonté et la perspicacité (habitent) en moi. »
 
@@ -52,7 +52,7 @@ Qu'il essuie ensuite cette saleté avec autre chose que sa main, et qu'il se lav
 
 7\. [^595] « Si un fruit tombe du haut d'un arbre ou du ciel, c'est Vâyu (qui l'a fait tomber). Là où il a touché notre corps ou notre vêtement, (là) les eaux peuvent chasser la destruction » — ce (verset) il devrait murmurer, si un fruit tombe sur lui de manière inattendue.
 
-8\. [^596] « Adoration à celui qui habite aux carrefours, <span id="p181">[<sup><small>p. 181</small></sup>]</span> dont la flèche est le vent, à Rudra ! Adoration à Rudra qui habite aux carrefours ! » — cette (formule) il murmure lorsqu'il arrive à un carrefour ;
+8\. [^596] « Adoration à celui qui habite aux carrefours, <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> dont la flèche est le vent, à Rudra ! Adoration à Rudra qui habite aux carrefours ! » — cette (formule) il murmure lorsqu'il arrive à un carrefour ;
 
 9\. « Adoration à celui qui habite parmi le bétail, dont la flèche est le vent, à Rudra ! Adoration à Rudra qui habite parmi le bétail ! » — ainsi sur un tas de fumier ;
 
@@ -78,7 +78,7 @@ Qu'il essuie ensuite cette saleté avec autre chose que sa main, et qu'il se lav
 
 19\. [^601] « Si tu élèves ta voix divine, pénétrant sur les êtres vivants, chasse nos ennemis par ta voix. Ô mort, mène-les à la mort ! » — (ainsi) contre un chacal solitaire.
 
-20\. Puis il jette devant le chacal un tison qui brûle aux deux extrémités, vers la région où se fait entendre la voix du chacal, avec ces mots : « Feu ! Parle au feu ! Mort ! Parle à la mort ! » Puis il touche l’eau, <span id="p183">[<sup><small>p. 183</small></sup>]</span>
+20\. Puis il jette devant le chacal un tison qui brûle aux deux extrémités, vers la région où se fait entendre la voix du chacal, avec ces mots : « Feu ! Parle au feu ! Mort ! Parle à la mort ! » Puis il touche l’eau, <span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 21\. Et adore (le chacal) avec l'Anuvâka : « Tu es puissant, tu emportes » (Taitt. Sa<i>m</i>hitâ I, 3, 3).
 
@@ -109,7 +109,7 @@ Qu'il essuie ensuite cette saleté avec autre chose que sa main, et qu'il se lav
 
 ## PA<i>T</i>ALA 5, SECTION 18.
 
-1\. [^606] « Que Indra et Agni vous fassent partir. Que les deux Asvins vous protègent. Bishaspati est votre berger. Que Pûshan vous ramène » — <span id="p185">[<sup><small>p. 185</small></sup>]</span> il récite ce (verset) sur les vaches lorsqu'elles s'en vont (vers leurs pâturages), et (le verset) « Que Pûshan aille chercher nos vaches » (Taitt. Sash. IV, 1, 11, 2).
+1\. [^606] « Que Indra et Agni vous fassent partir. Que les deux Asvins vous protègent. Bishaspati est votre berger. Que Pûshan vous ramène » — <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> il récite ce (verset) sur les vaches lorsqu'elles s'en vont (vers leurs pâturages), et (le verset) « Que Pûshan aille chercher nos vaches » (Taitt. Sash. IV, 1, 11, 2).
 
 2\. Avec (le verset), « Ces vaches qui sont venues ici, exemptes de maladie et prolifiques, puissent-elles nager (pleines de richesse) comme des rivières ; puissent-elles déverser (leur richesse), comme (les rivières déversent leurs flots) dans l'océan » — il regarde les vaches, quand elles reviennent.
 

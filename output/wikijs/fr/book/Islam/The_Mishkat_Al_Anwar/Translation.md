@@ -32,9 +32,9 @@ dateCreated: 2024-11-23T12:49:50Z
   </table>
 </figure>
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 \[Les références entre crochets renvoient aux pages de l'édition arabe du Caire. {elles sont écrites sous la forme \[p. 3\], pour éviter toute confusion avec les indicateurs de notes de bas de page.—jbh}\]
 
@@ -48,7 +48,7 @@ _Et Prière pour MUHAMMED ! de toutes les lumières la Lumière ; Père de ceux 
 
 Tu m'as demandé, cher frère – et qu'Allâh décrète pour toi la quête du bonheur suprême de l'homme, te rende candidat à l'Ascension au plus haut sommet, oigne ta vision de la lumière de la Réalité, et purge ton intérieur de tout ce qui n'est pas le Réel ! – Tu m'as demandé, dis-je, de te communiquer les mystères des Lumières Divines, ainsi que les allusions derrière le sens littéral de certains textes du Coran et de certains dires des Traditions.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Et principalement ce texte[^1] :—
 
@@ -60,7 +60,7 @@ Quelle est la signification de sa comparaison de la LUMIÈRE avec la Niche, le V
 
 Et cette Tradition
 
-_« Allah a soixante-dix mille voiles de_ <span id="p77">[<sup><small>p. 77</small></sup>]</span>
+_« Allah a soixante-dix mille voiles de_ <span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 _Lumière et Ténèbres : s'il retirait leur rideau, alors les splendeurs de Son Aspect[^2] consumeraient sûrement tous ceux qui L'appréhendaient avec sa vue. »_
 
@@ -77,14 +77,14 @@ Ou, comme l'a dit le Prophète :
 « Il existe une connaissance semblable à la forme d'un
 chose, connue de personne sauf ceux qui connaissent Dieu.
 
-Si donc ceux-ci parlent de ce secret, seuls les Enfants de l'Ignorance les contrediront.Et quel que soit le nombre de ces Ignorants, les Mystères <span id="p78">[<sup><small>p. 78</small></sup>]</span> doivent être gardés inviolés du regard des pécheurs.
+Si donc ceux-ci parlent de ce secret, seuls les Enfants de l'Ignorance les contrediront.Et quel que soit le nombre de ces Ignorants, les Mystères <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> doivent être gardés inviolés du regard des pécheurs.
 
 Mais je crois que votre cœur a été ouvert par la Lumière et votre conscience purgée des ténèbres de l'Ignorance. Je ne serai donc pas assez avare pour vous refuser la direction de ces glorieuses vérités dans toute leur finesse et toute leur divinité ; car le mal fait en privant la Sagesse de ses Enfants n'est pas moindre que celui de la livrer à ceux qui lui sont étrangers. Comme le dit le poète :
 
 « Celui qui donne la connaissance aux insensés la perd,
 Et celui qui refuse d'elle ce qui la mérite fait une injustice.
 
-Il faut cependant se contenter d'une explication très sommaire du sujet, car la démonstration complète de mon thème exigerait un traitement à la fois de ses principes et de ses parties, pour lequel mon temps est actuellement insuffisant, et pour lequel ni mon esprit ni mes forces ne sont libres. Les clés de tous les cœurs sont dans les mains d'Allah : Il les ouvre quand Il veut, comme <span id="p79">[<sup><small>p. 79</small></sup>]</span> Il veut, et avec ce qu'Il veut. A ce stade, il suffira donc de vous ouvrir trois chapitres ou parties, dont le premier est comme suit.
+Il faut cependant se contenter d'une explication très sommaire du sujet, car la démonstration complète de mon thème exigerait un traitement à la fois de ses principes et de ses parties, pour lequel mon temps est actuellement insuffisant, et pour lequel ni mon esprit ni mes forces ne sont libres. Les clés de tous les cœurs sont dans les mains d'Allah : Il les ouvre quand Il veut, comme <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> Il veut, et avec ce qu'Il veut. A ce stade, il suffira donc de vous ouvrir trois chapitres ou parties, dont le premier est comme suit.
 
 <br>
 

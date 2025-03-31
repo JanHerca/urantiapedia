@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/05400.jpg) Les bardes qui m'ont précédé ont-ils laissé un thème non chanté ? _Quel sera donc mon sujet ? L'amour seul doit me fournir mon lai_. Te souviens-tu alors, après une longue réflexion, de la demeure de ta bien-aimée ?
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. Je me suis senti attaché à elle dès notre première entrevue, bien que j'aie tué ses compatriotes au combat : je t'assure, par la vie de ton père, que de mon attachement il ne peut y avoir aucun doute.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 8\. _Tu t'es emparé de mon cœur;_ tu y as fixé ta demeure (ne pense pas que je te trompe), et tu t'y es établi comme un habitant aimé et chéri.
 
@@ -66,7 +66,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 15\. Ou comme le parfum d'une tonnelle fleurie, dont les plantes ont été maintenues dans une verdure continue par les douces pluies, qu'aucune saleté n'a souillé, et vers laquelle il n'y a eu aucun recours :
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 16\. Chaque nuage du matin, exempt de grêle, l'a trempé d'une abondante pluie, et a laissé toutes les petites cavités de la terre à la fois rondes et brillantes comme des pièces d'argent :
 
@@ -84,7 +84,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 23\. Elle agite sa queue dans son humeur joueuse et bouge fièrement son corps d'un côté à l'autre, même à la fin de son excursion nocturne : elle frappe les collines avec ses sabots rapides et fermement piétinés.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 24\ Ainsi l'oiseau sans oreilles, entre les pattes duquel il n'y a qu'un petit espace, _l'autruche rapide_, bat la terre dans sa course du soir.
 
@@ -104,7 +104,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 32\. _Quand elle se repose_, elle s'accroupit sur la rive molle du Ridaa, et gémit de fatigue, comme le roseau au son doux, qu'elle presse de son poids.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 33\. _Sa sueur_ ressemble à de la sueur épaisse ou à de la poix tenace que le feu allumé fait bouillonner dans les parois d'un chaudron ;
 
@@ -124,7 +124,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 41\ Et quand je reviens à la sobriété, la rosée de ma libéralité continue aussi fraîche qu'auparavant : rends donc honneur aux qualités que tu sais que je possède.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 42\. J'ai laissé prosterné sur le sol plus d'un époux d'une belle femme, dont la beauté n'exigeait aucun ornement, et le sang de la vie a coulé en retentissant de ses veines, ouvertes par mon javelot, comme la bouche d'un chameau à la lèvre fendue.
 
@@ -142,7 +142,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 49\. Ce bras a-t-il été étendu à terre par un coup rapide d'un javelot bien tendu, ferme entre les nœuds :
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 50\. Les lèvres de la plaie étaient larges, et le bruit du sang qui coulait faisait sortir les loups, rôdant dans la nuit et pressés par la faim.
 
@@ -160,7 +160,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 57\. Alors je le fixai de ma lance, je le frappai au cœur avec un cimeterre indien dont la lame était d'une eau brillante, et rapide était le coup qu'il donnait :
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 58\. Un guerrier dont l'armure semblait être appuyée sur un arbre élevé ; un chef qui, comme un roi, portait des sandales de cuir tachée d'épine égyptienne : un héros sans égal.
 
@@ -180,7 +180,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 66\. Quand ma tribu m'a placé comme bouclier entre elle et les lances ennemies, je n'ai pas ignoblement décliné le danger, quoique l'endroit où je fixais mon pied fût trop étroit pour admettre un compagnon.
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 67\. Quand j'entendis le vacarme de Morra s'élever dans les champs, et les fils de Rabeia dans l'épaisse poussière;
 
@@ -200,7 +200,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 75\. S'il avait connu l'art du discours, il m'aurait adressé la parole d'une voix plaintive, et s'il avait possédé la faculté de parler, il m'aurait parlé distinctement.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 76\. Au milieu de la poussière noire, les chevaux se précipitaient impétueusement avec des visages défigurés ; chaque étalon robuste et chaque mâle aux membres forts et aux poils courts.
 

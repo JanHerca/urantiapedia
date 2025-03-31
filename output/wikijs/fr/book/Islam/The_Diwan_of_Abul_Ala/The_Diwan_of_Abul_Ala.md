@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T19:18:16Z
   </table>
 </figure>
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 ## I
 
@@ -55,7 +55,7 @@ Vains sont vos rêves d'entreprise merveilleuse,
 &nbsp;&nbsp;&nbsp;Chercher en vain un abri dans ce monde de visages
 S'il a été décidé autrement.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 ## IV
 
@@ -92,7 +92,7 @@ Mais si dans un jardin enchanté fleurissent
 &nbsp;&nbsp;&nbsp;Ah ! Dois-je aller avec une bêche profanatrice
 Et sous ses gloires construire un tombeau ?
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 ## IX
 
@@ -129,7 +129,7 @@ Je ne voudrais pas que tu gardes ni que tu affiches sans rien faire
 &nbsp;&nbsp;&nbsp;Mais je voudrais que vous semiez avec des mains sans sommeil
 Les vertus qui équilibreront votre compte.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## XIV
 
@@ -166,7 +166,7 @@ Si j'ai hébergé l'amour dans ma poitrine,
 &nbsp;&nbsp;&nbsp;Qui avec moi regardait jouer les étoiles qui flânaient,
 Qui a porté le fardeau de la même inquiétude,
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 ## XIX
 
@@ -203,7 +203,7 @@ Aucun sultan ne peut, à sa guise, ériger
 &nbsp;&nbsp;&nbsp;Que moi, à qui obéissent tous les mystères,
 Construire avec le crépuscule pour un architecte,
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 ## XXIV
 
@@ -240,7 +240,7 @@ Ah ! que l'enterrement d'hier,
 Et si vous le voulez, refusez le roseau du pleureur,
 Et, si vous le voulez, plantez des cyprès sur le chemin.
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 ## XXIX
 
@@ -277,7 +277,7 @@ Mais les yeux effrayés de l'humanité
 &nbsp;&nbsp;&nbsp;L'audace d'une gazelle errante
 Ou d'un oiseau emprisonné dans le vent ?
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 ## XXXIV
 
@@ -314,7 +314,7 @@ J'ai imaginé que notre bien-être est
 &nbsp;&nbsp;&nbsp;Et ainsi le musc, qui au fur et à mesure que vous le battez,
 Donne des parfums toujours plus délicieux.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 ## XXXIX
 
@@ -351,7 +351,7 @@ Un peu de sable jaune apaisera toute faim
 &nbsp;&nbsp;&nbsp;Et ah ! l'oiseau penché qu'est mon âme
 Ne soyez plus emprisonné dans la cage.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 ## XLIV
 
@@ -388,7 +388,7 @@ Astrologues ! — prêtez l'oreille à ce qu'ils disent !
 &nbsp;&nbsp;&nbsp;Et révèle fidèlement les jours de la mort,
 Et révélera sûrement ce jour plus long. "
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 ## XLIX
 
@@ -425,7 +425,7 @@ Il était le vitrier d'Erzerûm,
 &nbsp;&nbsp;&nbsp;Il n'y aura plus de magie de ce genre quand je
 Je suis brisé par les roues du char du Destin.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 ## LIV
 
@@ -462,7 +462,7 @@ Vers qui les générations se sont retirées ?
 &nbsp;&nbsp;&nbsp;Des autres, et sur cette route de la honte
 Devient de plus en plus pur. » — Oh, qu'ils enseignent !
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 ## LIX
 
@@ -499,7 +499,7 @@ Et si tu trouves un sage solitaire
 &nbsp;&nbsp;&nbsp;Le seigneur des hommes, le gardien du vent,
 Le vainqueur de toutes les armées et de l'âge.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 ## LXIV
 
@@ -536,7 +536,7 @@ Il y a un palais et le mur en ruine
 &nbsp;&nbsp;&nbsp;Et où l'amour murmurait depuis mille ans
 Les chenilles aux pieds soyeux rampent.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 ## LXIX
 
@@ -573,7 +573,7 @@ Je pense que notre monde n'est pas un lieu de repos,
 &nbsp;&nbsp;&nbsp;Jusqu'à ce que le propriétaire qu'il ne voit jamais
 Donne cet appartement à un autre invité.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 ## LXXIV
 
@@ -610,7 +610,7 @@ La bonne loi et la mauvaise loi disparaissent
 &nbsp;&nbsp;&nbsp;Et, comme le magnifique manteau Sar’aby,
 Ils nous captivent pendant une petite année.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 ## LXXIX
 
@@ -647,7 +647,7 @@ Un archer prit une flèche dans sa main ;
 &nbsp;&nbsp;&nbsp;Qu'il a fait descendre la justice de... ah, si haut !
 Il était un archer dans le pays du matin.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## LXXXIV
 
@@ -684,7 +684,7 @@ Voici la coupe sur laquelle ton esclave a marché;
 &nbsp;&nbsp;&nbsp;Ton esclave, souviens-toi qu'il vit par toi,
 Tandis que sous sa forme nous nous inclinons devant Dieu.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 ## LXXXIX
 
@@ -721,7 +721,7 @@ Mon village c'est la solitude, et moi
 &nbsp;&nbsp;&nbsp;Que pour un instant, je voie la main d'avertissement
 De celui qui a accosté le rocher, leur espion.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 ## XCIV
 
@@ -758,7 +758,7 @@ Héhé ! l'air splendide est plein d'ailes,
 &nbsp;&nbsp;&nbsp;Car si vous naviguez parmi les cieux
 Vous aussi, vous pourrez atteindre les rois souterrains.
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ## XCIX
 
@@ -795,7 +795,7 @@ _Il y avait un ver engraissé. Il regarda autour de lui,_
 _Aperçoit un parent et lui parle :_
 _Il me semble que ce monde est très bon._
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 ## CIV
 
@@ -832,7 +832,7 @@ Une nuit de silence ! C'était la mer qui se balançait
 &nbsp;&nbsp;&nbsp;Ils roulaient sous les étoiles ; ils jetaient une chaîne
 Autour des silences qui sont en moi.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ##CIX
 

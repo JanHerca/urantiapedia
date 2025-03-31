@@ -40,7 +40,7 @@ Mon vin est bien celui qui jaillit de la pointe de la lance, lorsque les coursie
 
 Je suis l'esclave dont on racontera que j'ai rencontré mille héros nés libres : mon cœur a été créé plus dur que l'acier ; comment, alors, puis-je craindre l'épée ou la lance ?
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 J'ai rencontré les destriers, et je ne m'en suis pas soucié : je suis élevé au-dessus d'Arcturus, et de la Lyre, ou de l'Aigle : quand le guerrier me voit, il m'évite, son courage faiblit, et il s'enfuit.
 

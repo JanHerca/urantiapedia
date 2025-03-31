@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 CHAPITRE II., Verset 179. — Le jeûne vous est prescrit comme il a été prescrit à ceux qui vous ont précédés. Peut-être craignez-vous. (180) Un certain nombre de jours, mais celui d'entre vous qui est malade ou en voyage, jeûnera un autre nombre de jours. Et ceux qui sont aptes à jeûner peuvent le racheter en donnant à manger à un pauvre ; mais celui qui suit un désir de faire une bonne œuvre, c'est mieux pour lui ; et si vous jeûnez, c'est mieux pour vous, si seulement vous saviez.
 

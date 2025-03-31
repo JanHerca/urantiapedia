@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 ## XI. La Chasse au Lion, en Compagnie.
 
@@ -59,7 +59,7 @@ Un chien a parfois la charge de la cour du palais en contrebas.
 La compagnie se dirigea alors vers les bois,
 <sup id="v10"><small>10</small></sup> En tant que disciples de la majesté du lion, et entraînez-vous.
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 Ils prirent un bœuf de montagne, un bouquetin, puis un lièvre ;
 Puisque la fortune leur souriait à chaque recoin successif.
@@ -96,7 +96,7 @@ Et si je t'épargne, la justice sera proprement renversée.
 Pour débarrasser le monde du scandale, je dois mettre fin à vos vies ;
 Votre histoire sera un point moral, celui qui l'invente.
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 Avec cela, il sourit encore une fois très sérieusement au couple.
 Ne faites pas confiance au sourire d'un lion, vous tous qui vivez et qui vous en souciez.
@@ -131,7 +131,7 @@ Toi-même tu aurais dû te vaincre en ma présence, effrayé.
 « Tout périt, sauf son conseil » écrit saint.[^333]
 Si nous ne sommes pas de « Son conseil », la vie ne peut pas nous convenir.
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 Celui qui perd sa vie pour l'amour de Dieu, la possède encore ;
 « Tout périt » n'a alors aucun pouvoir de son âme pour tuer.
@@ -163,7 +163,7 @@ Mon lit est trop petit pour que deux personnes puissent y trouver de la place.
 Le fil n'est pas double dans le chas simple d'une aiguille.
 Puisque tu es maintenant célibataire, entre. Tu trouveras une chambre. Je t'en prie, essaie !
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 Le fil et l'aiguille ont un rapport, chacun à chacun ;
 <sup id="v55"><small>55</small></sup> Pour le chas d'une aiguille, un chameau est bien au-delà de toute portée.
@@ -196,7 +196,7 @@ Notre hôte invite son invité à entrer, sans mépris :
 Notre fil est simple, sans nœuds ni enchevêtrement ; terminé,
 Comme « Être », bien que duplex quant à la forme, dans le sens est un.
 
-<span id="p223">[<sup><small>p. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 Ce « Être » est une corde, de pouvoir collectif, jusqu'au bout
 Cette nullité peut être unie à un ami.
@@ -230,7 +230,7 @@ Comme à travers l'Élysée, des ruisseaux ; des fleurs jaillissant toujours, à
 Ô Seigneur, accorde à mon âme faible et errante
 Pour voir le royaume où, sans voix, les pensées spirituelles peuvent errer,
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 Afin que mon esprit, dans la joie, à pied ou à tête, puisse s'envoler
 Son vol vers le lointain qui se sépare du néant, chose,
@@ -265,7 +265,7 @@ Pour servir de bouche-trou dans l'intervalle du grignotage.
 Le lièvre vous fournira un repas léger avant de dormir ;
 La panse royale des douleurs de l'indigestion se conservera.
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 Le lion répondit : « Bien dit, renard, tu es le seul juge. »
 Qui t'a enseigné avec un jugement si rare le partage du trésor ?
@@ -299,7 +299,7 @@ Alors, comme le renard, glanons la sagesse de ces paroles.
 Les os, les squelettes de tous ces loups du vieux monde,
 Réfléchissez bien, vous, lecteurs ; pensez à vous-mêmes.
 
-<span id="p226">[<sup><small>p. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 Celui qui est sage chassera de son cœur toutes les vanités flatteuses
 De grandeur, quand il entend parler des exploits d'Ad[^336] et de Pharaon.
@@ -333,7 +333,7 @@ Il faut être fou pour se précipiter dans la gueule du lion.
 Oh, que le coup soit tombé sur le corps fragile ;
 <sup id="v125"><small>125</small></sup> Et que le cœur et la foi s’étaient échappés ! C’était un grand bien !
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 Sur ce point, je sens que toutes mes forces doivent s'effondrer.
 Comment raconter les secrets de cette pièce mystique ?

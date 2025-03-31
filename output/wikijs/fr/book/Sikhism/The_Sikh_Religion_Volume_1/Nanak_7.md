@@ -41,7 +41,7 @@ Ne mets pas tes pieds sur deux bateaux de peur que tes biens ne sombrent.[^3]
 
 Le gourou répondit :
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Mets tes pieds sur deux bateaux et tes biens dessus aussi :[^1]
 Un bateau peut couler, mais l'autre traversera.[^2]
@@ -73,7 +73,7 @@ Alors Cheikh Brahm prononça ce qui suit :
 Quand tu aurais dû construire ton radeau, tu ne l'as pas fait ;
 Lorsque le fleuve déborde, il est difficile de le traverser.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 Ne mets pas ta main dans le feu, sinon elle brûlera,[^1] ma chère.
 Certains ont obtenu de l’honneur pour eux-mêmes en prononçant le nom de Dieu.
@@ -101,7 +101,7 @@ Alors Cheikh Brahm prononça ce qui suit :
 Ceux qui ont un amour sincère pour Dieu sont les vrais ;
 Mais ceux qui ont une chose dans leur cœur et en expriment une autre sont tenus pour menteurs.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 Ceux qui sont imprégnés de l’amour de Dieu et du désir de le contempler _sont également vrais_.
 Ceux qui oublient le nom de Dieu sont un fardeau pour la terre.
@@ -125,7 +125,7 @@ Seigneur, tu es inaccessible et sans égal ; je suis épuisé à prononcer tes l
 Que puis-je te demander ? Que puis-je te dire ? J'ai faim et soif de te voir.
 Sous l'instruction du Guru, j'ai obtenu le Seigneur ; la prière de Nanak a été exaucée.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Le gourou et le cheikh Brahm passèrent la nuit ensemble dans la forêt. Un villageois bienveillant et charitable, qui les avait aperçus, leur apporta une bassine de lait avant le lever du jour. Le cheikh sépara sa part de celle du gourou et prononça ces vers :
 
@@ -148,7 +148,7 @@ La nuit est sombre ; que deviendras-tu quand le voleur entrera par effraction da
 Ô inaccessible, incomparable Protecteur, entends ma supplication.
 Ô Nanak, l'insensé n'a jamais pensé à Dieu ; que peut-il voir dans une nuit noire ?
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 II
 
@@ -168,7 +168,7 @@ Si l'homme, sous l'instruction du Guru, médite sur le Nom, il obtiendra le repo
 La transmigration et la mort ne nous abandonnent jamais ; sans le Nom nous sommes affligés.
 Nanak, dans la troisième veille, les hommes, sous l'influence des trois qualités,[^2] ressentent l'amour du monde.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 IV
 
@@ -228,7 +228,7 @@ Lorsque le véritable _Guru_ est trouvé, la vérité est produite, et _l'homme 
 Lorsque l'homme est rempli de peur à cause des instructions du Guru, il obtient alors la compréhension et l'honneur en résulte.
 Nanak, le vrai Roi, fusionne alors l'homme avec Lui-même.[^2]
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Le gourou, après son agréable visite à Cheikh Brahm et dans sa région, où il fit plusieurs conversions, se rendit dans un pays appelé Bisiar, probablement l'État de Bushahir dans l'Himalaya, où il fut mal accueilli. Les habitants, jugeant sa présence impure, purifièrent chaque endroit où il avait posé le pied. Un seul homme, Jhanda, charpentier, se trouva là pour le traiter avec hospitalité. Il le conduisit chez lui, lui lava les pieds et but l'eau utilisée à cet effet. En buvant, il lui fut révélé que Nanak était un gourou. Il le suivit dans ses pérégrinations.
 
@@ -239,7 +239,7 @@ Peu de temps après, ils se retrouvèrent dans un désert solitaire. Mardana com
 Les demi-dieux, pour Te contempler, ô Dieu, firent des pèlerinages dans les souffrances et la faim.
 Les Jogis et les Jatis[^1] suivent leur propre chemin et portent des vêtements de couleur ocre.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Pour l'amour de toi, ô mon Seigneur, les darweshes sont imprégnés d'amour.
 Tes noms sont variés, Tes formes sont variées, le nombre de Tes mérites ne peut être compté.

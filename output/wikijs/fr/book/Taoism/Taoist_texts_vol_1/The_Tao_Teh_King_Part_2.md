@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:19Z
   </table>
 </figure>
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 PARTIE II.
 
@@ -52,7 +52,7 @@ PARTIE II.
 
 6\. Or, la bienséance est la forme atténuée de la franchise et de la bonne foi, et elle est aussi le commencement du désordre ; une appréhension rapide est
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 (seulement) une fleur du Tâo, et c'est le commencement de la bêtise.
 
@@ -104,7 +104,7 @@ La difficulté de la traduction réside dans le troisième paragraphe. La façon
 40\. 1. Le mouvement du Tâo
 Par contre, cela se produit ;
 Et la faiblesse marque le parcours
-Des hauts faits de Tâo. <span id="p84">[<sup><small>p. 84</small></sup>]</span> 2\. Toutes choses sous le ciel sont issues de Lui en tant qu'existantes (et nommées) ; cette existence est issue de Lui en tant qu'inexistantes (et non nommées).
+Des hauts faits de Tâo. <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> 2\. Toutes choses sous le ciel sont issues de Lui en tant qu'existantes (et nommées) ; cette existence est issue de Lui en tant qu'inexistantes (et non nommées).
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/08400.jpg), « Se passer de l'usage (des moyens) » — de leur usage, c'est-à-dire, tel qu'il nous apparaît. Le sujet de ce bref chapitre est l'action du Tâo par des moyens contraires, conduisant à un résultat opposé à celui qui existait auparavant, et par des moyens qui pourraient sembler calculés pour produire un résultat contraire.
 
@@ -149,12 +149,12 @@ Nous ne pouvons dire qui étaient les auteurs de phrases dont les paroles sont c
 
 3\. Ce que les autres hommes enseignent, je l'enseigne aussi. Les violents et les forts ne meurent pas de mort naturelle. Je ferai de cela la base de mon enseignement.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/08502.jpg), « Les Transformations du Tâo. » Au par. 2, nous avons <span id="p86">[<sup><small>p. 86</small></sup>]</span> le cas des épithètes dépréciatives que se donnent les rois et les princes, que nous avons déjà trouvé au ch. 39, et une leçon similaire en est tirée. Une telle dépréciation conduit à l'exaltation, et le cours contraire de l'auto-exaltation conduit à l'abaissement. Ce dernier cas est énoncé avec emphase au par. 3, et Lâo-dze dit que c'était la base de son enseignement. Jusqu'ici donc, nous avons dans ce chapitre une répétition de la leçon selon laquelle le mouvement du Tâo est par « contraires », et que sa faiblesse est le précurseur sûr de la force. Mais le lien entre cette leçon et ce qu'il dit au par. 1. Il est difficile de le retracer. Jusqu'à présent, du moins, cela m'a laissé perplexe. Ce passage semble nous offrir une cosmogonie. « Le Tao a produit l'Un. » Nous avons déjà vu que le Tao est « l'Un ». Devons-nous comprendre ici que le Tao et l'Un ne font qu'un ? Dans ce cas, quelle serait la signification du ![](/image/book/Taoism/Taoist_texts_vol_1/08600.jpg) (« produit ») ? Que le Tao, auparavant « inexistant », devienne désormais « existant », c'est-à-dire susceptible d'être nommé ? Tel semble être le point de vue de Sze-mâ Kwang (1009-1086 apr. J.-C.).
+![](/image/book/Taoism/Taoist_texts_vol_1/08502.jpg), « Les Transformations du Tâo. » Au par. 2, nous avons <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> le cas des épithètes dépréciatives que se donnent les rois et les princes, que nous avons déjà trouvé au ch. 39, et une leçon similaire en est tirée. Une telle dépréciation conduit à l'exaltation, et le cours contraire de l'auto-exaltation conduit à l'abaissement. Ce dernier cas est énoncé avec emphase au par. 3, et Lâo-dze dit que c'était la base de son enseignement. Jusqu'ici donc, nous avons dans ce chapitre une répétition de la leçon selon laquelle le mouvement du Tâo est par « contraires », et que sa faiblesse est le précurseur sûr de la force. Mais le lien entre cette leçon et ce qu'il dit au par. 1. Il est difficile de le retracer. Jusqu'à présent, du moins, cela m'a laissé perplexe. Ce passage semble nous offrir une cosmogonie. « Le Tao a produit l'Un. » Nous avons déjà vu que le Tao est « l'Un ». Devons-nous comprendre ici que le Tao et l'Un ne font qu'un ? Dans ce cas, quelle serait la signification du ![](/image/book/Taoism/Taoist_texts_vol_1/08600.jpg) (« produit ») ? Que le Tao, auparavant « inexistant », devienne désormais « existant », c'est-à-dire susceptible d'être nommé ? Tel semble être le point de vue de Sze-mâ Kwang (1009-1086 apr. J.-C.).
 
 Français La forme la plus singulière que prend cette vue se trouve dans l'un des traités sur notre Roi, attribué au patriarche taoïste Lü ( ![](/image/book/Taoism/Taoist_texts_vol_1/08601.jpg)), selon lequel « l'Un est le Ciel, qui a été formé par la congélation du Tâo ». Selon un autre traité, également attribué au même Lü ( ![](/image/book/Taoism/Taoist_texts_vol_1/08602.jpg)), l'Un était « l'éther primordial » ; le Deux, « la séparation de celui-ci en ses constituants Yin et Yang » ; et le Trois, « la production du ciel, de la terre et de l'homme par ceux-ci ». Français En citant le paragraphe, Hwâi-nan dze omet ![](/image/book/Taoism/Taoist_texts_vol_1/08603.jpg), et commence par ![](/image/book/Taoism/Taoist_texts_vol_1/08604.jpg), et son glossaire, Kâo Yû, fait de l'Un le Tâo, des Deux les Intelligences Spirituelles ( ![](/image/book/Taoism/Taoist_texts_vol_1/08605.jpg)), et du Trois le Souffle Harmonisant. D'après la mention du Yin et du Yang qui suit, je crois que Lâo-dze entendait par le Deux ces deux qualités ou éléments de l'éther primordial, qui seraient « l'Un ». Je n'ose pas me hasarder à deviner ce qu'étaient les « Trois ».
 
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 <a id="c43"></a>
 
@@ -190,7 +190,7 @@ La tristesse et la douleur sont-elles plus proches ?
 Qui s'attache à la gloire
 Rejette ce qui est plus grand ;
 Qui aime les grands magasins
-Renonce à l'État le plus riche. <span id="p88">[<sup><small>p. 88</small></sup>]</span> 3\. Qui est content
+Renonce à l'État le plus riche. <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> 3\. Qui est content
 N'ayez pas peur de la honte.
 Qui sait s'arrêter
 N'encourt aucun blâme.
@@ -225,7 +225,7 @@ Et l'éloquence un cri balbutiant.
 
 46\. 1. Quand le Tâo prévaut dans le monde, ils renvoient leurs chevaux rapides pour tirer les charrettes à fumier.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 Lorsque le Tâo est ignoré dans le monde, les chevaux de guerre se reproduisent dans les terres frontalières.
 
@@ -263,7 +263,7 @@ J'ai traduit le paragraphe 2 au passé, et il faudrait peut-être traduire le pr
 
 Ziâo Hung commence ses citations et commentaires sur ce chapitre par ce qui suit de Kumâragîva, au deuxième paragraphe : « Il poursuit le processus de diminution jusqu'à ce qu'il ne reste plus rien de grossier en lui qui ne soit écarté. Il l'écarte jusqu'à oublier tout ce qui était mauvais en lui. Il écarte alors tout ce qui est beau en lui. Il continue ainsi jusqu'à oublier tout ce qui était bon en lui. Mais le mauvais était mauvais, et le bon est juste. Ayant diminué le mauvais, et diminué aussi le juste, le processus se poursuit jusqu'à ce qu'ils soient tous deux oubliés. Passion et désir sont tous deux coupés ; et sa vertu et le Tâo sont en telle union qu'il ne fait rien ; mais bien qu'il ne fasse rien, il laisse toutes choses faire leur œuvre, et toutes choses sont faites. » Telle est la vision bouddhique de ce passage, peu intelligible, et que je ne partage pas.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 Français Dans un passage des « Récits de l'École » (Livre IX, Art. 2), nous avons une vision confucéenne du passage : « Que la perspicacité, l'intelligence, la ruse et la sagesse soient gardées par la stupidité, et le service du possesseur affectera le monde entier ; qu'elles soient gardées par la complaisance, et sa datation et sa force ébranleront l'âge ; qu'elles soient gardées par la timidité, et sa richesse sera toute dans les quatre mers ; qu'elles soient gardées par l'humilité, et il y aura ce que nous appelons la méthode de « la diminuer, et la diminuer encore ». » Mais je n'approuve pas non plus cela.
 
@@ -284,7 +284,7 @@ Ma propre vision de la portée du chapitre a été exposée ci-dessus en quelque
 
 Ma version du paragraphe 1 est tirée du Dr Chalmers. Un excellent commentaire en a été donné par l'avant-dernier empereur des deux premières grandes dynasties Song, entre 1111 et 1117 apr. J.-C. : « L'esprit du sage est libre de toute préoccupation et capable de recevoir ; calme et capable de réagir. »
 
-Français Au par. 2, j'adopte la lecture de obtenir ![](/image/book/Taoism/Taoist_texts_vol_1/09101.jpg) ('obtenir') au lieu de <span id="p92">[<sup><small>p. 92</small></sup>]</span> la plus courante ![](/image/book/Taoism/Taoist_texts_vol_1/09200.jpg) ('vertu' ou 'qualité'). Il y a un passage dans Han Ying (IX, 3 b, 4 a), dont le style, la plupart des lecteurs seront probablement d'accord avec moi, a été modelé sur le texte qui nous est présenté, bien que rien ne soit dit d'un quelconque lien entre lui et la parole de Lâo-dze. Français Je dois le considérer comme une suite de la conversation entre Confucius et certains de ses disciples sur le principe (le principe de Lâo) selon lequel « le mal doit être récompensé par la bonté », tel que rapporté dans le Con. Ana., XIV, 36. Nous lisons : — 'Dze-lû a dit : « Quand les hommes sont bons pour moi, je serai aussi bon pour eux ; quand ils ne sont pas bons pour moi, je ne serai pas non plus bon pour eux. » Dze-kung a dit : « Quand les hommes sont bons pour moi, je serai aussi bon pour eux ; quand ils ne sont pas bons pour moi, je les mènerai simplement en avant, que ce soit en avant ou en arrière. » Yen Hui a dit : Quand les hommes sont bons pour moi, je serai aussi bon pour eux ; quand ils ne sont pas bons pour moi, je serai quand même bon pour eux. » Les points de vue des trois disciples étant ainsi différents, ils ont renvoyé la question au Maître, qui a dit : « Les paroles de Dze-lû sont telles qu'on pourrait s'y attendre parmi les (tribus sauvages de) l'Homme et le Mo ; ceux de Dze-kung, tels qu'on pouvait s'y attendre entre amis ; ceux de Hui, tels qu'on pouvait s'y attendre entre parents et proches. » C'est tout. Le Maître était encore loin du point de vue de Lâo-dze, et de celui de son propre disciple favori, Yen Hui.
+Français Au par. 2, j'adopte la lecture de obtenir ![](/image/book/Taoism/Taoist_texts_vol_1/09101.jpg) ('obtenir') au lieu de <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> la plus courante ![](/image/book/Taoism/Taoist_texts_vol_1/09200.jpg) ('vertu' ou 'qualité'). Il y a un passage dans Han Ying (IX, 3 b, 4 a), dont le style, la plupart des lecteurs seront probablement d'accord avec moi, a été modelé sur le texte qui nous est présenté, bien que rien ne soit dit d'un quelconque lien entre lui et la parole de Lâo-dze. Français Je dois le considérer comme une suite de la conversation entre Confucius et certains de ses disciples sur le principe (le principe de Lâo) selon lequel « le mal doit être récompensé par la bonté », tel que rapporté dans le Con. Ana., XIV, 36. Nous lisons : — 'Dze-lû a dit : « Quand les hommes sont bons pour moi, je serai aussi bon pour eux ; quand ils ne sont pas bons pour moi, je ne serai pas non plus bon pour eux. » Dze-kung a dit : « Quand les hommes sont bons pour moi, je serai aussi bon pour eux ; quand ils ne sont pas bons pour moi, je les mènerai simplement en avant, que ce soit en avant ou en arrière. » Yen Hui a dit : Quand les hommes sont bons pour moi, je serai aussi bon pour eux ; quand ils ne sont pas bons pour moi, je serai quand même bon pour eux. » Les points de vue des trois disciples étant ainsi différents, ils ont renvoyé la question au Maître, qui a dit : « Les paroles de Dze-lû sont telles qu'on pourrait s'y attendre parmi les (tribus sauvages de) l'Homme et le Mo ; ceux de Dze-kung, tels qu'on pouvait s'y attendre entre amis ; ceux de Hui, tels qu'on pouvait s'y attendre entre parents et proches. » C'est tout. Le Maître était encore loin du point de vue de Lâo-dze, et de celui de son propre disciple favori, Yen Hui.
 
 
 <a id="c50"></a>
@@ -312,7 +312,7 @@ Ce paragraphe 4 est facile à traduire, et les différentes interprétations qu'
 
 ## 51.
 
-51\. 1. Toutes choses sont produites par le Tao et nourries par son action exhalatoire. Elles reçoivent leurs formes selon la nature de chacune et sont <span id="p94">[<sup><small>p. 94</small></sup>]</span> complétées selon les circonstances de leur état. C'est pourquoi toutes choses sans exception honorent le Tao et exaltent son action exhalatoire.
+51\. 1. Toutes choses sont produites par le Tao et nourries par son action exhalatoire. Elles reçoivent leurs formes selon la nature de chacune et sont <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> complétées selon les circonstances de leur état. C'est pourquoi toutes choses sans exception honorent le Tao et exaltent son action exhalatoire.
 
 2\. Cet hommage au Tâo et cette exaltation de son opération ne sont pas le résultat d'une quelconque ordination, mais toujours un hommage spontané.
 
@@ -331,7 +331,7 @@ Français Au par. 2, Wû Khäng dit que l'honneur du Fils du Ciel découle de sa
 
 ## 52.
 
-52\. 1. (Le Tao) qui a donné naissance à tout ce qui est sous le ciel doit être considéré comme leur mère à tous. <span id="p95">[<sup><small>p. 95</small></sup>]</span> 2\. Quand la mère est retrouvée, nous savons quels devraient être ses enfants. Quand on sait qu'on est l'enfant de sa mère et qu'on s'attache à préserver (les qualités de) la mère qui nous appartiennent, on sera jusqu'à la fin de sa vie à l'abri de tout danger.
+52\. 1. (Le Tao) qui a donné naissance à tout ce qui est sous le ciel doit être considéré comme leur mère à tous. <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> 2\. Quand la mère est retrouvée, nous savons quels devraient être ses enfants. Quand on sait qu'on est l'enfant de sa mère et qu'on s'attache à préserver (les qualités de) la mère qui nous appartiennent, on sera jusqu'à la fin de sa vie à l'abri de tout danger.
 
 3\. Qu'il garde la bouche fermée et obstrue les narines, et toute sa vie il sera exempt de tout effort pénible. Qu'il garde la bouche ouverte et consacre son souffle à l'avancement de ses affaires, et toute sa vie il n'aura aucune sécurité.
 
@@ -346,7 +346,7 @@ Et cache l'immuable à la vue des hommes.
 
 Pour comprendre le paragraphe 1, il faut se référer au premier chapitre du traité, où le Tâo, « n'ayant pas de nom », apparaît comme « le Commencement » ou « Causalité Première » du monde, puis, « ayant un nom », comme sa « Mère ». Il s'agit de la même chose ou du même concept dans ses deux phases, l'idéal ou l'absolu, et sa manifestation dans ses actes dénués de passion. Les anciens traducteurs jésuites rendent ce paragraphe par : « Mundus principium et causam suam habet in Divino ![](/image/book/Taoism/Taoist_texts_vol_1/09501.jpg), seu actione Divinae sapientiae quae dici potest ejus mater. » Jusqu'ici, je peux supposer qu'ils étaient d'accord avec moi pour comprendre que le sujet du paragraphe était le Tâo.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 Le paragraphe 2 énonce la loi de vie de l'homme, ainsi dérivée du Tâo. La dernière clause est donnée par les mêmes traducteurs comme équivalente à « Unde fit ut post mortem nihil ei timendum sit », un sens que les caractères ne peuvent pas traduire. Mais de cette clause, et du paragraphe suivant, je suis obligé de conclure que, même dans l'esprit de Lâo-dze, se trouvait le germe de la sublimation du cadre matériel qui se traduisit par l'ascétisme et les arts de préservation de la vie du taoïsme ultérieur.
 
@@ -367,7 +367,7 @@ J'ai suivi la lecture de l'avant-dernier caractère, qui est donnée par Ziâo H
 
 2\. Le grand Tâo (ou chemin) est très plat et facile ; mais les gens aiment les chemins détournés.
 
-3\. Leurs cours (cours et bâtiments) seront bien entretenues, mais leurs champs seront mal cultivés et leurs greniers très vides. Ils porteront des robes élégantes et <span id="p97">[<sup><small>p. 97</small></sup>]</span> ornées, porteront une épée tranchante à leur ceinture, se gâteront en mangeant et en buvant, et posséderont une surabondance de biens et de richesses ; de tels princes peuvent être qualifiés de voleurs et de vantards. Ceci est certainement contraire au Tao !
+3\. Leurs cours (cours et bâtiments) seront bien entretenues, mais leurs champs seront mal cultivés et leurs greniers très vides. Ils porteront des robes élégantes et <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> ornées, porteront une épée tranchante à leur ceinture, se gâteront en mangeant et en buvant, et posséderont une surabondance de biens et de richesses ; de tels princes peuvent être qualifiés de voleurs et de vantards. Ceci est certainement contraire au Tao !
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/09700.jpg), « Augmentation des preuves ». Le chapitre oppose le gouvernement du Tâo à celui mené dans un esprit d'ostentation et d'oppression.
 
@@ -388,7 +388,7 @@ Des sacrifices à son sanctuaire.
 2\. Tâo lorsqu'il est nourri en soi-même,
 Sa vigueur rendra vrai;
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 Et là où règne la famille
 Quelles richesses s'accumuleront !
@@ -410,7 +410,7 @@ Le Teh mentionné cinq fois au paragraphe 2 est la « vertu » du Tâo incarnée
 Ho-shang Kung illustre bien la portée des paragraphes 3 et 4. À propos de la première clause, il dit : « Prenez la personne de celui qui cultive le Tao et comparez-la à celle de celui qui ne le cultive pas : lequel est en état de décadence ? et lequel est en état de préservation ? »
 
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 <a id="c55"></a>
 
@@ -431,7 +431,7 @@ Là où l'esprit fait brûler le souffle vital,
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/09900.jpg), 'Le Charme Mystérieux' ; signifiant, apparemment, l'entière passivité du Tâo.
 
-Français Avec les paragraphes 1 et 2, comparez ce qui est dit sur l'enfant dans les chapitres 10 et 20, et sur l'immunité contre les dangers tels que décrits ici du disciple du Tâo au ch. 50. Mon « mal » dans le deuxième triplet du paragraphe 3 a été traduit par « félicité » ; mais une référence au dictionnaire Khang-hsî montrera que le sens que je donne à ![](/image/book/Taoism/Taoist_texts_vol_1/09901.jpg) est bien autorisé. C'est le seul sens autorisé ici. Les troisième et quatrième ![](/image/book/Taoism/Taoist_texts_vol_1/09902.jpg) dans ce paragraphe apparaissent dans le texte de Ho-shang Kung comme ![](/image/book/Taoism/Taoist_texts_vol_1/09903.jpg), et il commente les propositions en conséquence ; <span id="p100">[<sup><small>p. 100</small></sup>]</span> mais ![](/image/book/Taoism/Taoist_texts_vol_1/10000.jpg) est désormais la lecture admise. Ce paragraphe et le suivant sont éclairés par une conversation apocryphe attribuée à Lâo-dze dans le Shwo-wän de Liû Hsiang, X, 4 a.
+Français Avec les paragraphes 1 et 2, comparez ce qui est dit sur l'enfant dans les chapitres 10 et 20, et sur l'immunité contre les dangers tels que décrits ici du disciple du Tâo au ch. 50. Mon « mal » dans le deuxième triplet du paragraphe 3 a été traduit par « félicité » ; mais une référence au dictionnaire Khang-hsî montrera que le sens que je donne à ![](/image/book/Taoism/Taoist_texts_vol_1/09901.jpg) est bien autorisé. C'est le seul sens autorisé ici. Les troisième et quatrième ![](/image/book/Taoism/Taoist_texts_vol_1/09902.jpg) dans ce paragraphe apparaissent dans le texte de Ho-shang Kung comme ![](/image/book/Taoism/Taoist_texts_vol_1/09903.jpg), et il commente les propositions en conséquence ; <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> mais ![](/image/book/Taoism/Taoist_texts_vol_1/10000.jpg) est désormais la lecture admise. Ce paragraphe et le suivant sont éclairés par une conversation apocryphe attribuée à Lâo-dze dans le Shwo-wän de Liû Hsiang, X, 4 a.
 
 
 <a id="c56"></a>
@@ -457,7 +457,7 @@ Le paragraphe 2 se trouve entièrement dans les chapitres 4 et 52, à l’except
 
 57\. 1. Un État peut être gouverné par des mesures de correction ; les armes de guerre peuvent être utilisées avec une dextérité astucieuse ; (mais) le royaume n'est acquis que par la liberté d'action et de but.
 
-2\. Comment puis-je savoir qu'il en est ainsi ? Par ces <span id="p101">[<sup><small>p. 101</small></sup>]</span> faits : — Dans le royaume, la multiplication des lois prohibitives accroît la pauvreté du peuple ; plus le peuple possède d'instruments pour augmenter son profit, plus grand est le désordre dans l'État et le clan ; plus les hommes possèdent d'astuces, plus apparaissent d'étranges artifices ; plus il y a d'étalage de législation, plus il y a de voleurs et de brigands.
+2\. Comment puis-je savoir qu'il en est ainsi ? Par ces <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> faits : — Dans le royaume, la multiplication des lois prohibitives accroît la pauvreté du peuple ; plus le peuple possède d'instruments pour augmenter son profit, plus grand est le désordre dans l'État et le clan ; plus les hommes possèdent d'astuces, plus apparaissent d'étranges artifices ; plus il y a d'étalage de législation, plus il y a de voleurs et de brigands.
 
 3\. C'est pourquoi un sage a dit : « Je ne ferai rien (de propos délibéré), et les gens se transformeront d'eux-mêmes ; je prendrai plaisir à rester tranquille, et les gens deviendront d'eux-mêmes corrects. Je ne m'en soucierai pas, et les gens deviendront riches d'eux-mêmes ; je ne manifesterai aucune ambition, et les gens atteindront d'eux-mêmes la simplicité primitive. »
 
@@ -475,7 +475,7 @@ Nous ne savons pas si l'auteur citait un sage particulier au paragraphe 3, ou s'
 58\. 1. Le gouvernement qui semble le plus imprudent,
 Souvent la bonté envers le peuple est la meilleure des provisions ;
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 Ce qui s'immisce, touche à tout,
 Cela fonctionnera mais sera malade et apportera des déceptions.
@@ -495,7 +495,7 @@ Misère ! Le bonheur se trouve à ses côtés ! Le bonheur ! La misère se cache
 
 59\. 1. Pour régler l'humain (dans notre constitution) et rendre le service (approprié) au céleste, rien ne vaut la modération.
 
-2\. C'est seulement par cette modération que s'opère un retour rapide (à l'état normal de l'homme). Ce retour rapide est ce que j'appelle l'accumulation répétée des attributs (du Tâo). Avec cette <span id="p103">[<sup><small>p. 103</small></sup>]</span> accumulation répétée de ces attributs vient la subjugation (de tout obstacle à un tel retour). De cette subjugation, nous ignorons quelle sera la limite ; et lorsqu'on ignore quelle sera la limite, on peut être le dirigeant d'un État.
+2\. C'est seulement par cette modération que s'opère un retour rapide (à l'état normal de l'homme). Ce retour rapide est ce que j'appelle l'accumulation répétée des attributs (du Tâo). Avec cette <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> accumulation répétée de ces attributs vient la subjugation (de tout obstacle à un tel retour). De cette subjugation, nous ignorons quelle sera la limite ; et lorsqu'on ignore quelle sera la limite, on peut être le dirigeant d'un État.
 
 3\. Celui qui possède la mère de l'État peut perdurer longtemps. Son cas est comparable à celui de la plante dont on dit que ses racines sont profondes et ses tiges florales solides : c'est ainsi que sa longévité sera visible longtemps.
 
@@ -512,7 +512,7 @@ Au par. 3, « la mère de l'État » est le Tâo comme au ch. 1, et surtout au c
 
 ## 60.
 
-60\. 1. Gouverner un grand État, c'est comme cuisiner du petit poisson. <span id="p104">[<sup><small>p. 104</small></sup>]</span> 2\. Que le royaume soit gouverné selon le Tâo, et les mânes des défunts ne manifesteront pas leur énergie spirituelle. Ce n'est pas que ces mânes n'aient pas cette énergie spirituelle, mais elle ne sera pas employée à nuire aux hommes. Ce n'est pas qu'elle ne puisse pas nuire aux hommes, mais le sage qui règne ne leur fait pas de mal non plus.
+60\. 1. Gouverner un grand État, c'est comme cuisiner du petit poisson. <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> 2\. Que le royaume soit gouverné selon le Tâo, et les mânes des défunts ne manifesteront pas leur énergie spirituelle. Ce n'est pas que ces mânes n'aient pas cette énergie spirituelle, mais elle ne sera pas employée à nuire aux hommes. Ce n'est pas qu'elle ne puisse pas nuire aux hommes, mais le sage qui règne ne leur fait pas de mal non plus.
 
 3\. Lorsque ces deux éléments ne s'influencent pas mutuellement de manière néfaste, leurs bonnes influences convergent dans la vertu (du Tâo).
 
@@ -531,7 +531,7 @@ Quoi que Lâo-dze ait voulu enseigner dans le paragraphe 2, il y a posé les bas
 
 61\. 1. Ce qui fait un grand État, c'est qu'il est (comme) un ruisseau bas et descendant ; il devient le centre vers lequel tendent (tous les petits États) sous le ciel.
 
-2\. (Pour illustrer) le cas de toutes les femmes : la femme surpasse toujours l’homme par son immobilité. L’immobilité peut être considérée comme une forme d’abaissement. <span id="p105">[<sup><small>p. 105</small></sup>]</span> 3\. Ainsi, un grand État, en condescendant envers les petits États, les gagne ; et les petits États, en s’abaissant devant un grand État, le gagnent à leur cause. Dans un cas, l’abaissement conduit à gagner des adhérents, dans l’autre à s’assurer des faveurs.
+2\. (Pour illustrer) le cas de toutes les femmes : la femme surpasse toujours l’homme par son immobilité. L’immobilité peut être considérée comme une forme d’abaissement. <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> 3\. Ainsi, un grand État, en condescendant envers les petits États, les gagne ; et les petits États, en s’abaissant devant un grand État, le gagnent à leur cause. Dans un cas, l’abaissement conduit à gagner des adhérents, dans l’autre à s’assurer des faveurs.
 
 4\. Le grand État ne souhaite qu'unir les hommes et les nourrir ; un petit État ne souhaite qu'être accueilli et servir l'autre. Chacun obtient ce qu'il désire, mais le grand État doit apprendre à s'abaisser.
 
@@ -550,7 +550,7 @@ Aucun trésor ne donne aux hommes de bien une grâce aussi riche ; il protège l
 
 3\. C'est pourquoi, lorsque le souverain occupe sa place de Fils du Ciel, et qu'il a nommé ses trois ministres ducaux, même si (un prince) envoyait un symbole de rang rond assez grand pour remplir les deux mains, et cela comme précurseur de l'attelage de chevaux (dans la cour), une telle offrande ne serait pas égale à (une leçon de) ce Tâo, que l'on pourrait présenter à genoux.
 
-4\. Pourquoi les anciens accordaient-ils tant de prix à ce Tâo <span id="p106">[<sup><small>p. 106</small></sup>]</span> ? N'était-ce pas parce qu'on pouvait l'obtenir en le cherchant, et que les coupables pouvaient ainsi échapper à la tache de leur faute ? C'est pourquoi tous les hommes sous le ciel le considèrent comme la chose la plus précieuse.
+4\. Pourquoi les anciens accordaient-ils tant de prix à ce Tâo <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> ? N'était-ce pas parce qu'on pouvait l'obtenir en le cherchant, et que les coupables pouvaient ainsi échapper à la tache de leur faute ? C'est pourquoi tous les hommes sous le ciel le considèrent comme la chose la plus précieuse.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/10600.jpg), « Pratiquer le Tâo. » ![](/image/book/Taoism/Taoist_texts_vol_1/10601.jpg), « La valeur accordée au Tâo » aurait été un titre plus approprié. Le chapitre expose cette valeur dans ses diverses manifestations.
 
@@ -567,7 +567,7 @@ Le paragraphe 3 n'est pas facile à traduire ni à expliquer. Voir les règles r
 
 63\. 1. (C'est la voie du Tao) d'agir sans (penser à) agir ; de conduire les affaires sans (sentir) la peine d'elles ; de goûter sans discerner aucune saveur ; de considérer ce qui est petit comme grand, et peu comme grand ; et de récompenser le mal par la bonté.
 
-2\. (Le maître) anticipe les choses difficiles alors qu'elles sont faciles, et fait des choses qui deviendraient grandes alors qu'elles sont petites. Toutes les choses difficiles du monde naissent forcément d'un état antérieur où elles étaient faciles, et toutes les grandes choses d'un état où elles étaient petites. C'est pourquoi le sage, bien qu'il ne fasse jamais de grandes choses, est capable de ce fait d'accomplir les plus grandes choses. <span id="p107">[<sup><small>p. 107</small></sup>]</span> 3\. Celui qui promet à la légère est sûr de ne pas tenir sa foi ; celui qui pense continuellement que les choses sont faciles est sûr de les trouver difficiles. C'est pourquoi le sage voit des difficultés même dans ce qui semble facile, et ainsi n'en a jamais.
+2\. (Le maître) anticipe les choses difficiles alors qu'elles sont faciles, et fait des choses qui deviendraient grandes alors qu'elles sont petites. Toutes les choses difficiles du monde naissent forcément d'un état antérieur où elles étaient faciles, et toutes les grandes choses d'un état où elles étaient petites. C'est pourquoi le sage, bien qu'il ne fasse jamais de grandes choses, est capable de ce fait d'accomplir les plus grandes choses. <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> 3\. Celui qui promet à la légère est sûr de ne pas tenir sa foi ; celui qui pense continuellement que les choses sont faciles est sûr de les trouver difficiles. C'est pourquoi le sage voit des difficultés même dans ce qui semble facile, et ainsi n'en a jamais.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/10700.jpg), « Penser au commencement ». Le premier de ces deux caractères est souvent mal imprimé ![](/image/book/Taoism/Taoist_texts_vol_1/10701.jpg), ce qui a conduit Chalmers à les traduire par erreur par « Le commencement de la Grâce ». Le chapitre expose la méthode sans passion du Tâo, et comment le sage accomplit ainsi facilement ses objectifs en prévenant dans ses mesures toutes les difficultés. Dans le paragraphe 1, les clauses sont indicatives et non impératives, et nous devons donc compléter le texte en traduisant d'une manière ou d'une autre, comme je l'ai fait. Ils nous donnent un ensemble d'aphorismes illustrant la procédure du Tâo « par les contraires », et concluent par un seul, qui constitue la gloire principale de l'enseignement de Lâo-dze, bien que je doive penser que sa valeur soit quelque peu diminuée par la méthode employée. Il n'occupe pas l'importance attendue dans l'enseignement ultérieur des auteurs taoïstes, et on ne le trouve pas (à ma connaissance) chez Kwang-dze, Han Fei ou Hwâi-nan. Il est cependant cité deux fois par Liû Hsiang ; voir ma note au par. 2 du chapitre 49.
 
@@ -580,7 +580,7 @@ Il ressort de l'ensemble du chapitre que le « ne rien faire » taoïste n'étai
 
 64\. 1. Ce qui est au repos est facile à retenir ; avant qu'une chose ne donne des signes de sa présence, il est facile de prendre des mesures contre elle ; ce qui est fragile se brise facilement ; ce qui est très petit se disperse facilement. Il faut agir avant qu'une chose n'apparaisse ; il faut assurer l'ordre avant que le désordre ne s'installe.
 
-2\. L'arbre qui remplit les bras a grandi à partir du plus petit rejeton ; la tour de neuf étages s'est élevée d'un <span id="p108">[<sup><small>p. 108</small></sup>]</span> (petit) tas de terre ; le voyage de mille lî a commencé par un seul pas.
+2\. L'arbre qui remplit les bras a grandi à partir du plus petit rejeton ; la tour de neuf étages s'est élevée d'un <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> (petit) tas de terre ; le voyage de mille lî a commencé par un seul pas.
 
 3\. Celui qui agit (avec un but caché) fait du mal ; celui qui s'empare d'une chose (de la même manière) la perd. Le sage n'agit pas ainsi et ne fait donc aucun mal ; il ne s'empare pas ainsi et ne perd donc pas son emprise. (Mais) les gens, dans leur conduite des affaires, les ruinent constamment lorsqu'ils sont à la veille du succès. S'ils étaient prudents à la fin, comme ils devraient l'être au début, ils ne les ruineraient pas ainsi.
 
@@ -597,7 +597,7 @@ Il ressort de l'ensemble du chapitre que le « ne rien faire » taoïste n'étai
 
 2. La difficulté de gouverner un peuple vient de son excès de savoir. Celui qui gouverne un État par sa sagesse lui est un fléau, tandis que celui qui s'en abstient est une bénédiction.
 
-3\. Celui qui connaît ces deux choses trouve en elles aussi son modèle et sa règle. La capacité de connaître ce <span id="p109">[<sup><small>p. 109</small></sup>]</span> modèle et cette règle constitue ce que nous appelons l'excellence mystérieuse (d'un gouverneur). Profonde et d'une grande portée est cette excellence mystérieuse, montrant certes son possesseur comme opposé aux autres, mais les conduisant à une grande conformité à lui.
+3\. Celui qui connaît ces deux choses trouve en elles aussi son modèle et sa règle. La capacité de connaître ce <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> modèle et cette règle constitue ce que nous appelons l'excellence mystérieuse (d'un gouverneur). Profonde et d'une grande portée est cette excellence mystérieuse, montrant certes son possesseur comme opposé aux autres, mais les conduisant à une grande conformité à lui.
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/10900.jpg), « Excellence pure et sans mélange. » Ce chapitre montre l'influence puissante et bienfaisante du Tâo sur le gouvernement, en contraste avec les applications et les artifices de la sagesse humaine. Comparer au chapitre 19. Mon « simple et ignorant » est tiré de Julien. Plus littéralement, la traduction serait « pour les rendre stupides ». Mon « fléau » au paragraphe 2 est également tiré du « fléau » de Julien.
 
@@ -614,7 +614,7 @@ Il ressort de l'ensemble du chapitre que le « ne rien faire » taoïste n'étai
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/10901.jpg), « Se mettre en dernier. » Le sujet est la puissance du Tâo, par son humilité à attirer les hommes. Le sujet et la manière dont il est illustré sont des thèmes fréquents dans le Roi. Voir les chapitres 8, 22, 39, 42, 61, etc.
 
-Français La dernière phrase du par. 3 se trouve également au ch. 22. Il ne semble y avoir aucune citation de ce chapitre dans Han Fei ou Hwâi-nan ; mais Wû Khäng cite des passages de Tung Kung-shû <span id="p110">[<sup><small>p. 110</small></sup>]</span> (du deuxième siècle avant J.-C.) et de Yang Hsiung (53 avant J.-C.-18 après J.-C.), qui semblent montrer que la phraséologie leur était familière. Le premier dit : « Quand on se place dans ses qualités au-dessous des autres, sa personne est au-dessus d'eux ; quand on les place derrière celles des autres, sa personne est devant eux » ; l'autre : « Les hommes élèvent celui qui s'abaisse au-dessous d'eux ; et donnent la préséance à celui qui se place derrière eux. »
+Français La dernière phrase du par. 3 se trouve également au ch. 22. Il ne semble y avoir aucune citation de ce chapitre dans Han Fei ou Hwâi-nan ; mais Wû Khäng cite des passages de Tung Kung-shû <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> (du deuxième siècle avant J.-C.) et de Yang Hsiung (53 avant J.-C.-18 après J.-C.), qui semblent montrer que la phraséologie leur était familière. Le premier dit : « Quand on se place dans ses qualités au-dessous des autres, sa personne est au-dessus d'eux ; quand on les place derrière celles des autres, sa personne est devant eux » ; l'autre : « Les hommes élèvent celui qui s'abaisse au-dessous d'eux ; et donnent la préséance à celui qui se place derrière eux. »
 
 
 <a id="c67"></a>
@@ -629,7 +629,7 @@ Français La dernière phrase du par. 3 se trouve également au ch. 22. Il ne se
 
 4\. La douceur est sûre de remporter la victoire même au combat et de maintenir fermement sa position. Le ciel sauvera son possesseur, par sa douceur même qui le protège.
 
-![](/image/book/Taoism/Taoist_texts_vol_1/11000.jpg), « Les Trois Précieuses Choses ». Ce titre est tiré du par. 2 et nous suggère comment le premier rédacteur de ces titres entendait exprimer le sujet de leurs différents chapitres. Les trois choses sont les trois qualités distinctives du possesseur du Tâo, les <span id="p111">[<sup><small>p. 111</small></sup>]</span> trois grandes qualités morales qui apparaissent chez ses adeptes, les qualités, osons-nous dire, du Tâo lui-même. La même expression est aujourd'hui la désignation courante du bouddhisme en Chine : le Tri-ratna ou Ratna-traya, « le Précieux Bouddha », « la Précieuse Loi » et « la Précieuse Prêtrise (ou plutôt la Moinerie) ou l'Église » ; apparaissant également dans le « Tri-sarana », ou « formule des Trois Refuges », ce que le Dr Eitel appelle « la formule fidei la plus primitive des premiers bouddhistes, introduite avant la séparation des bouddhismes du Sud et du Nord ». Je n'aborderai pas la question de savoir si le bouddhisme a emprunté cette désignation au taoïsme, après son entrée en Chine. C'est dans le bouddhisme la formule d'une Église ou d'une religion particulière ; dans le taoïsme, une règle de caractère, ou de conduite, que le tao exige de tous les hommes. « Mon tao » au paragraphe 1 est la lecture de Wang Pî ; le texte de Ho-shang Kung est simplement un ![](/image/book/Taoism/Taoist_texts_vol_1/11100.jpg). La lecture de Wang Pî est maintenant généralement adoptée.
+![](/image/book/Taoism/Taoist_texts_vol_1/11000.jpg), « Les Trois Précieuses Choses ». Ce titre est tiré du par. 2 et nous suggère comment le premier rédacteur de ces titres entendait exprimer le sujet de leurs différents chapitres. Les trois choses sont les trois qualités distinctives du possesseur du Tâo, les <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> trois grandes qualités morales qui apparaissent chez ses adeptes, les qualités, osons-nous dire, du Tâo lui-même. La même expression est aujourd'hui la désignation courante du bouddhisme en Chine : le Tri-ratna ou Ratna-traya, « le Précieux Bouddha », « la Précieuse Loi » et « la Précieuse Prêtrise (ou plutôt la Moinerie) ou l'Église » ; apparaissant également dans le « Tri-sarana », ou « formule des Trois Refuges », ce que le Dr Eitel appelle « la formule fidei la plus primitive des premiers bouddhistes, introduite avant la séparation des bouddhismes du Sud et du Nord ». Je n'aborderai pas la question de savoir si le bouddhisme a emprunté cette désignation au taoïsme, après son entrée en Chine. C'est dans le bouddhisme la formule d'une Église ou d'une religion particulière ; dans le taoïsme, une règle de caractère, ou de conduite, que le tao exige de tous les hommes. « Mon tao » au paragraphe 1 est la lecture de Wang Pî ; le texte de Ho-shang Kung est simplement un ![](/image/book/Taoism/Taoist_texts_vol_1/11100.jpg). La lecture de Wang Pî est maintenant généralement adoptée.
 
 Le sentiment final du chapitre équivaut à la parole de Mencius (VII, ii, IV, 2) : « Si le chef d'un État aime la bienveillance, il n'aura pas d'ennemi sous le ciel. » « Le ciel » équivaut au « Tâo », au « cours des événements », à la Providence, comme nous dirions.
 
@@ -653,7 +653,7 @@ Qu'ils s'unissent à lui.'
 Ainsi disons-nous : « Comme le ciel est sa fin,
 Aucun sage d'autrefois n'était plus brillant.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/11200.jpg), « Correspondre au Ciel ». Ce chapitre décrit le travail du pratiquant du Tâo comme accompli comme celui du Ciel, sans effort ni cri. Il apparaît sous la figure d'un guerrier en cotte de mailles ( ![](/image/book/Taoism/Taoist_texts_vol_1/11201.jpg)) du char antique. Ce chapitre fait suite au précédent, auquel il est joint par Wû Khäng, comme l'est aussi le suivant.
 
@@ -717,7 +717,7 @@ Au paragraphe 1, « la grande crainte » est la mort, et les choses qui doivent 
 
 Français Les par. 2 et 3 sont complémentaires au 1. Pour ![](/image/book/Taoism/Taoist_texts_vol_1/11404.jpg), le deuxième caractère du texte de Ho-shang Kung au par. 2, Wang Pî lit ![](/image/book/Taoism/Taoist_texts_vol_1/11405.jpg), qui a le même nom que l'autre ; et selon le dictionnaire Khang-hsî, les deux caractères sont interchangeables. J'ai également suivi Wû Khäng en adoptant ![](/image/book/Taoism/Taoist_texts_vol_1/11405.jpg) pour le premier des deux ![](/image/book/Taoism/Taoist_texts_vol_1/11406.jpg) au par. 3. Wû a adopté cette lecture d'un commentateur Liû de Lü-ling. Cela donne un bon sens et est soutenu par la structure d'autres phrases faites sur des lignes similaires.
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 Au par. 4, « le sage » doit être « le dirigeant qui est un sage », un maître du Tâo, « le roi » du ch. 25. Il « s'aime lui-même », c'est-à-dire sa vie, et prend les mesures justes pour prolonger sa vie, mais sans aucune démonstration qu'il le fait.
 
@@ -745,7 +745,7 @@ Autres explications.
 
 3\. Vitae si non taedet, nec patrii soli taedebit.
 
-4\. Quare sanctus majestatis fastum non affectat, immo similem se caeteris ostendit. <span id="p116">[<sup><small>p. 116</small></sup>]</span> 5\. Sibi recte consulens, populorum amans, non se pretiosum et inaccessibilem facit.
+4\. Quare sanctus majestatis fastum non affectat, immo similem se caeteris ostendit. <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> 5\. Sibi recte consulens, populorum amans, non se pretiosum et inaccessibilem facit.
 
 6\. Quidquid ergo timorem incutere potest, hoc evitat; quod amorem conciliat et benignitatem, se demonstrat hoc eligi et ultro amplectitur.
 
@@ -785,7 +785,7 @@ Ce chapitre et le suivant sont à juste titre rattachés au précédent par Wû 
 
 ## 75.
 
-75\. 1. Le peuple souffre de la famine à cause de la multitude d'impôts prélevés par ses supérieurs. C'est à cause de cela qu'il souffre de la famine. <span id="p118">[<sup><small>p. 118</small></sup>]</span> 2\. Le peuple est difficile à gouverner à cause de l'intervention (excessive) de ses supérieurs (pour le gouverner). C'est à cause de cela qu'il est difficile à gouverner.
+75\. 1. Le peuple souffre de la famine à cause de la multitude d'impôts prélevés par ses supérieurs. C'est à cause de cela qu'il souffre de la famine. <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> 2\. Le peuple est difficile à gouverner à cause de l'intervention (excessive) de ses supérieurs (pour le gouverner). C'est à cause de cela qu'il est difficile à gouverner.
 
 3\. Les gens prennent la mort à la légère en raison de l'ampleur de leurs efforts pour trouver les moyens de vivre. C'est ce qui les pousse à la prendre à la légère. Il est donc préférable de laisser la vie de côté plutôt que de lui accorder une grande valeur.
 
@@ -808,7 +808,7 @@ Il n’est pas facile de déterminer si les dirigeants, les personnes, ou les de
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/11801.jpg), 'Avertissement contre (la confiance en) la Force.' Se fier à sa force est contraire au Tâo, dont la force réside davantage dans la faiblesse et l'humilité.
 
-Au par. 1, les deux caractères que j'ai rendus par <span id="p119">[<sup><small>p. 119</small></sup>]</span> « (ainsi en est-il de) toutes choses » se trouvent dans les textes de Ho-shang Kung et de Wang Pî, mais Wû Khäng et Ziâo Hung les rejettent tous deux. J'aurais dû les négliger également, mais on les trouve aussi dans le Shwo Wän (X, 4 a) de Liû Hsiang, avec tout le reste des par. 1 et 2, comme dans Lâo-dze. Ils constituent un anakoluthon, tel qu'on le trouve ailleurs dans notre Roi ; par exemple ![](/image/book/Taoism/Taoist_texts_vol_1/11900.jpg) au ch. 21, par. 2.
+Au par. 1, les deux caractères que j'ai rendus par <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> « (ainsi en est-il de) toutes choses » se trouvent dans les textes de Ho-shang Kung et de Wang Pî, mais Wû Khäng et Ziâo Hung les rejettent tous deux. J'aurais dû les négliger également, mais on les trouve aussi dans le Shwo Wän (X, 4 a) de Liû Hsiang, avec tout le reste des par. 1 et 2, comme dans Lâo-dze. Ils constituent un anakoluthon, tel qu'on le trouve ailleurs dans notre Roi ; par exemple ![](/image/book/Taoism/Taoist_texts_vol_1/11900.jpg) au ch. 21, par. 2.
 
 Les termes « au-dessus » et « en dessous » du paragraphe 4 semblent n’être qu’un jeu de mots, pouvant signifier « plus ou moins honorable ».
 
@@ -859,7 +859,7 @@ Il est le roi des hommes pour tout ça.
 
 Mais le taoïste de Lâo-dze est un idéal plus élevé que l’honnête homme de Burns.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Le paragraphe 4 est séparé de ce chapitre et est utilisé comme point de départ du suivant par Wû Khäng.
 
@@ -878,7 +878,7 @@ Le paragraphe 4 est séparé de ce chapitre et est utilisé comme point de dépa
 
 Le paragraphe 1 nous présente un cas auquel les énoncés du chapitre visent à répondre : deux adversaires, l’un bon, l’autre mauvais ; ce dernier, bien qu’apparemment réconcilié, conserve une rancune et est prêt à exprimer son mécontentement dès qu’il en a l’occasion. Le ![](/image/book/Taoism/Taoist_texts_vol_1/12101.jpg) = 'pour', 'pour le bien de'.
 
-Le paragraphe 2 vise à résoudre la question. Les termes d'un contrat ou d'un accord étaient inscrits sur un morceau de bois, qui était ensuite divisé en deux ; chaque partie en possédait une moitié. Lors du règlement, si les moitiés s'emboîtaient parfaitement, le contrat était exécuté. Celui qui avait le droit dans le litige possède sa part de l'accord, mais n'insiste pas et se montre indulgent ; l'autre insiste pour que les conditions soient modifiées en sa faveur. Les <span id="p122">[<sup><small>p. 122</small></sup>]</span> caractères par lesquels ce dernier cas est exprimé sont très énigmatiques, car ils se rapportent au paiement des cotisations gouvernementales du temps de Lâo-dze, un sujet qui prendrait beaucoup de temps.
+Le paragraphe 2 vise à résoudre la question. Les termes d'un contrat ou d'un accord étaient inscrits sur un morceau de bois, qui était ensuite divisé en deux ; chaque partie en possédait une moitié. Lors du règlement, si les moitiés s'emboîtaient parfaitement, le contrat était exécuté. Celui qui avait le droit dans le litige possède sa part de l'accord, mais n'insiste pas et se montre indulgent ; l'autre insiste pour que les conditions soient modifiées en sa faveur. Les <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> caractères par lesquels ce dernier cas est exprimé sont très énigmatiques, car ils se rapportent au paiement des cotisations gouvernementales du temps de Lâo-dze, un sujet qui prendrait beaucoup de temps.
 
 Le paragraphe 3 décide la question par l'action du Ciel, qui n'est qu'un autre nom pour le cours du Tâo.
 
@@ -910,7 +910,7 @@ Le texte se trouve presque entièrement dans Sze-mâ Khien et Kwang-dze. Le prem
 
 ![](/image/book/Taoism/Taoist_texts_vol_1/12301.jpg), « La Manifestation de la Simplicité ». Ce chapitre montre avec quelle discrétion et quelle efficacité le Tâo procède, et au contraire d'une manière que seul son maître peut comprendre. L'auteur, dit Wû Khäng, « résume ici le sujet des deux parties de son Traité, montrant que dans ses cinq mille caractères, il n'y a rien au-delà de ce qui est dit ici. »
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Le paragraphe 2 suggère au Dr Chalmers les lignes bien connues de Bunyan comme analogue :
 

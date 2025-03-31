@@ -60,7 +60,7 @@ Alors leurs troupes s'éloignèrent, terrorisées par mon bras ; elles s'enfuire
 
 Les coups de pied et les coups de sabots écrasaient leurs cous, et les fers à cheval fracassaient et martelaient leurs crânes.
 
-<span id="p213">[<sup><small>p. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 Combien de guerriers furent abattus par mon épée, tandis qu'ils déchiraient, dans une grande rage, leurs mains avec leurs dents !
 

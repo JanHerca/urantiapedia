@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 ## V. Le Lion et les Bêtes.
 
@@ -57,7 +57,7 @@ Mais je suis devenu méfiant. Ahmed n'a-t-il pas dit : « Fais confiance !
 Leur réponse fut : « Ô guide le plus sagace et le plus savant,
 <sup id="v10"><small>10</small></sup> Je te prie de rejeter ta prudence ; que le décret de Dieu demeure.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 La suspicion, la prudence, sont toujours corrosives pour le mal.
 Fais confiance à la Providence, et Dieu remplira ta bouche.
@@ -91,7 +91,7 @@ La vision de Dieu sur la providence est plus perçante que celle des hommes.
 En voyant avec Ses yeux, tu trouveras tout ce que tu désires.
 Un enfant qui ne peut encore ni saisir ni marcher,
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 <sup id="v25"><small>25</small></sup> Prend place sur le cou de son père et court. Doux animal de compagnie.
 Depuis quelques saisons, il ne retrouve presque plus de force dans ses membres ;
@@ -127,7 +127,7 @@ S'efforcer de rendre grâce donne la force d'accomplir cela.
 <sup id="v40"><small>40</small></sup> Allégue la contrainte. Tu déformeras le fondement de la gratitude.
 Grâce à tes pouvoirs, le pouvoir des remerciements se multiplie par dix.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 Accepte la faveur de la contrainte. Le pouvoir quittera tes mains.
 La contrainte affirme-t-elle ? C'est dormir, au fait.
@@ -162,7 +162,7 @@ Sauf le sort décrété par la Providence d'autrefois,
 Les projets de l’homme, ses plans, seront tous réduits à néant.
 Les dispensations de Dieu resteront les seules, pleines de sagesse.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Ne t'efforce donc pas, homme sensé, de quitter ton pays, à moins de renoncer à une bonne réputation.
 L'effort est une illusion. Sors ! Espèce de coquin stupide !
@@ -198,7 +198,7 @@ Son âme se séparer de son giron corporel ?
 L'ange lui répondit : « Roi des esprits et des hommes !
 <sup id="v70"><small>70</small></sup> Son imagination l'a trompé ; il ne le fera plus jamais.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 Ce n’est pas avec colère que je le regardais alors ;
 C'était étonnant de le voir ici, en pleine forme et en pleine forme.
@@ -231,7 +231,7 @@ Tous les efforts déployés pour accomplir le plan de Dieu sont vains.
 Tu n'as pas d'os brisés ; pourquoi attacher tes membres avec des attelles ?
 Soyez patient encore un peu, puis riez ; nous ne sommes pas de simples silex.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 C'est un mauvais investissement que de rechercher un gain matériel.[^147]
 <sup id="v85"><small>85</small></sup> Celui dont l'espoir est placé dans le ciel ne verra jamais la douleur.[^148]
@@ -268,7 +268,7 @@ Nous sommes prêts à abandonner la contrainte, pour de bon et pour toujours.
 Un traité qu'ils ont conclu avec le roi de la forêt,
 <sup id="v100"><small>100</small></sup> Qu'il ne perdrait rien par cette concession.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 Sa ration quotidienne doit toujours être prête ;
 Et il ne devrait avoir aucune raison de pénétrer sur leur terrain.
@@ -305,7 +305,7 @@ Mon inspiration vient de Dieu ; les petits moyens produisent de grandes fins.
 La sagesse que Dieu a enseignée à la petite abeille,
 <sup id="v115"><small>115</small></sup> Tu ne te trouves pas possédé par un lion, ni par moi.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 Nous voyons ses cellules disposées, remplies de douceur liquide,
 Les portails d'un tel art à ouvrir, Dieu l'a voulu.
@@ -336,7 +336,7 @@ Quand Dieu le chien des Sept Dormants[^151] applaudissait. Comment !
 L'appeler chien, l'accuser de défaut de race,
 Aucun mal ne peut le faire ; Dieu dans le ciel lui a donné place.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Ce n’est pas la plume qui a prescrit les qualités de la forme ;
 <sup id="v130"><small>130</small></sup> L'Omniscient, le Juste, l'a rendu multiforme.
@@ -372,7 +372,7 @@ Tu le sens dans ton pied ; tu sais que ce n'est pas un rêve.
 Plaies, troubles, peurs et soucis, de divers degrés,
 Tous surgissent de plusieurs côtés et se fixent en toi.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Supporte tout avec patience ; petit à petit tu en tireras des bénéfices.
 <sup id="v145"><small>145</small></sup> Tu reconnaîtras la vérité ; l'obscurité sera rendue claire.
@@ -409,7 +409,7 @@ Que les ennemis puissent entendre, mais ne pas soupçonner sa signification. Pis
 Il dénicherait dans les réponses tout ce qu'il désirait apprendre ;
 <sup id="v160"><small>160</small></sup> Et je ne donne toujours pas la moindre idée de la véritable tournure de ses pensées.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 Nous en avons assez dit sur ce sujet. Passons maintenant à notre histoire.
 Le lion, lui, est maintenu affamé dans la vallée.
@@ -446,7 +446,7 @@ Ainsi tu pourras apprendre à trouver le port du salut.
 Celui qui cherche la sagesse est, de la sagesse, source.
 <sup id="v175"><small>175</small></sup> Il évite les « sciences humaines » ; il jette leur dévolu sur elles.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Un souvenir rempli de traditions du Saint Coran
 Une « tablette cachée » est[^153] ; son esprit est le magasin de la sagesse.
@@ -477,7 +477,7 @@ Désormais il est un héraut ; les jugements de Dieu retentiront.
 Les planètes ont pu jusqu’à présent l’affecter ;
 Au-dessus des planètes, il repose maintenant et règne sur leur équilibre.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Si les formes matérielles trouvent beaucoup d'honneur à tes yeux,
 Tu douteras de la véracité de l'écrit : « La lune clave », à gauche et à droite.[^157]
@@ -513,7 +513,7 @@ Pour un tel œil, une telle étendue d'eau était une mer. Il avait raison.
 Un faux interprète des Écritures est une telle mouche.
 Son fantasme est la mare d'urine sur laquelle s'ébattent des pailles.
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 Si les mouches en imagination expliquent ainsi les choses qu'elles voient,
 Par les caprices du destin, chacun peut devenir un phénix.
@@ -551,7 +551,7 @@ Car Lui seul est éternel, libre de tout changement et entier.
 Les prières des hommes adressées aux rois et aux princes changent souvent de ton.
 Les prières des saints et des prophètes s’adressent à Dieu seul.
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 L'existence de la pompe vide et de l'orgueil du souverain de la terre,
 La gloire d’un prophète demeure en son Dieu.
@@ -589,7 +589,7 @@ Ils poussent leurs roadsters à la hâte, comme les pensées l'y invitent.
 Ils tiennent leurs coursiers pour perdus ; et pendant tout ce temps
 Comme un noble coursier, le roadster les a portés sur de nombreux kilomètres.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Ils commencent alors à gémir, affligés, et à demander leur chemin.
 Ils frappent à chaque porte qu'ils voient, ils supplient, ils prient :
@@ -629,7 +629,7 @@ De converseconverse se démarque, comme Frank de Negro.
 Par l'inverse de la lumière, nous distinguons la lumière ;
 <sup id="v250"><small>250</small></sup> C'est une conversation que la conversation montre à notre vue.
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 La lumière de Dieu n'a aucun lien avec l'être ;
 A l’inverse, l’homme n’a pas trouvé sa distinction.
@@ -662,7 +662,7 @@ Comme un pétard quand il tourne dans le noir avec un garçon et du ruban adhés
 Un éclair de flamme, grâce à la vitesse nécessaire du mouvement,
 Cela apparaît à nos yeux comme un véritable feu.
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Sa longueur et son extension, par la rapidité des faits,
 <sup id="v265"><small>265</small></sup> Semblent être les effets de l’acte créateur de Dieu.
@@ -700,7 +700,7 @@ Ne me prends pas pour un lièvre, et ne cherche pas à me combattre.
 Le lièvre lui dit : « Ô prince ! Aie pitié des faibles !
 Prêtez l’oreille aux histoires de ceux qui recherchent la justice.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 Que ton offrande de remerciements soit pour ton auguste état.
 <sup id="v280"><small>280</small></sup> Pauvre suppliant comme moi, tu ne me chasseras pas de ta porte.
@@ -738,7 +738,7 @@ Plus dodu, plus lisse, plus édenté. Oserais-je mentir ?
 Désormais, à travers ce lion, qui peut venir par ici ?
 <sup id="v295"><small>295</small></sup> C'est vrai. Je t'ai dit tout ce que j'ai dit.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 À partir de maintenant, pour toujours, ta ration est perdue, en vérité.
 Je te dis la vérité. La vérité est souvent déplaisante.
@@ -774,7 +774,7 @@ Il vante l'appât, mais sois sûr qu'il tend un piège.
 Son poison de sucre candi offert sera caché.
 Ses services apparemment bienveillants ne sont que le voile de la trahison.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Si Dieu ordonne ta chute, ta vue sera aveuglée ;
 <sup id="v310"><small>310</small></sup> « Entre ami et ennemi, tu ne verras pas la différence.
@@ -810,7 +810,7 @@ Combien de paires de chaque sont aussi étranges qu'un incube !
 Un synglottiste est alors un autre soi-même d’un homme ;
 Mais le syncardisme, plus que le synglottisme, est bien plus proche, elfe.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 Outre nos paroles, nos signes, nos caractères écrits,
 <sup id="v325"><small>325</small></sup> Des cœurs surgissent par centaines des interprètes muets.
@@ -849,7 +849,7 @@ Avec eux tu voyageras ; ainsi, l'eau ne manquera jamais.
 Le corbeau, en entendant cela, fut piqué avec jalousie.
 S'adressant à Salomon, il dit : « Cet oiseau a chanté un mensonge.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 Son insolence est grande pour se vanter ainsi auprès du roi.
 <sup id="v340"><small>340</small></sup> De telles faussetés sont tout à fait dégoûtantes. Qui a déjà entendu une chose pareille ?
@@ -887,7 +887,7 @@ Du début à la fin, son esprit pouvait les empêcher de se révolter.
 Quel que soit le nom qu’il lui ait donné, ce nom est resté inchangé.
 S'il disait : « Cette chose est active », elle ne fonctionnait jamais.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 Il savait dès le début qui croyait à la parole de Dieu.
 <sup id="v355"><small>355</small></sup> Lui aussi, dès le début, connaissait l'infidélité envers son Seigneur.
@@ -921,7 +921,7 @@ Une seule interdiction connue lui a coûté très cher.
 Il demanda : « L’interdiction a-t-elle été posée pour empêcher la joie ?
 Ou peut-on, par glose, y prêter une échappatoire ?
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 À son avis, l’explication ayant été déduite,
 Ses appétits, perplexes, préféraient goûter le blé.[^172]
@@ -954,7 +954,7 @@ Et maintenant nous nous détournons à nouveau de la morale, elle n’a pas de f
 Ils arrivèrent à l'endroit où se trouvait le puits. C'est là que le lion vit
 Le lièvre avait ralenti son allure et commençait à reculer.
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 A cela il lui répondit : « Que fais-tu ?
 Avancez encore. Nous devons découvrir l'ennemi.
@@ -991,7 +991,7 @@ Les planètes circulent, chacune dans sa sphère,
 Ils sont sujets à l'immersion lorsqu'ils sont proches du soleil.
 La lune, dans sa splendeur, surpasse de loin chaque petite étoile.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Mais à mesure que son changement se produit, elle s'amenuise presque jusqu'à devenir un cheveu.
 La terre elle-même, qui repose sur une ferme stabilité,
@@ -1028,7 +1028,7 @@ Quoi d’étonnant à ce que tout soit passager, à ce que toute souffrance ait 
 C'est ainsi que le lièvre a trompé le lion avec des mensonges spécieux ;
 Et il ajouta : « Voilà pourquoi je ne peux pas me lever. »
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 Le lion répondit : « Je ne vois rien qui puisse te faire peur.
 <sup id="v415"><small>415</small></sup> Montre-moi l’objet qui te paraît si effrayant.
@@ -1068,7 +1068,7 @@ Tu creuses un trou pour toi-même, à savoir notre histoire.
 Tu tisses une toile autour de toi, comme le fait le ver à soie ;
 <sup id="v430"><small>430</small></sup> Tu n'échapperas pas à moins de te conformer à la justice.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 Ne considérez pas les faibles comme s’ils n’avaient aucun ami.
 Réfléchis ; on dit : « Quand le secours de Dieu viendra. »[^174] Où est donc ta fin ?
@@ -1105,7 +1105,7 @@ Il commet l’erreur du lion, il se jette sur lui-même.
 Ô toi qui détestes un grain de beauté sur la joue de ton voisin,
 <sup id="v445"><small>445</small></sup> Réfléchis. Ce n'est qu'une image. Cherche tes propres traits.
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 Les croyants sont comme des miroirs ; chacun se voit dans chacun.
 Ainsi a dit le Prophète. Ses paroles nous enseignent la vérité.
@@ -1144,7 +1144,7 @@ Il frappa des mains de joie à l'idée d'avoir échappé à la mort,
 Sa tige et sa feuille jaillissent de la prison souterraine.
 Il se dresse rapidement, se lie d'amitié avec l'air qui l'entoure.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 Les feuilles éclatent de la tige et s'étalent au loin ;
 Jusqu'à ce qu'en grandissant naisse un arbre dont tous les hommes applaudissent la grâce.
@@ -1178,7 +1178,7 @@ Ses dents lui ont été extraites, par la grâce de notre Créateur.
 Lui que tant de gens ont écrasé sous la patte de la tyrannie,
 <sup id="v475"><small>475</small></sup> Comme si des détritus avaient été balayés par le balai de la mort.
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 Une convocation fut alors tenue par toutes les bêtes,
 L’hilarité et la joie animaient tous leurs cœurs.
@@ -1213,7 +1213,7 @@ Ne donne pas de l'air, tu n'es qu'un invité de passage.
 Ceux dont la royauté éternelle dure au-delà de tous les temps,[^176]
 <sup id="v490"><small>490</small></sup> Qui chantent les louanges de Dieu au-delà des sept sphères et climats,
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 Ils durent plus longtemps que les règnes transitoires des rois de courte durée.
 Ils sont les nourrisseurs infaillibles des âmes des hommes.

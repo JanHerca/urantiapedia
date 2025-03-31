@@ -42,7 +42,7 @@ Ils s'avancent vers la tête de la bataille ; mais lorsque le combat aura commen
 
 Ainsi un novice, qui n'a pas encore souffert de douleurs et n'est pas encore habitué à la vie de mendiant, se croit un héros jusqu'à ce qu'il pratique les austérités [^768]. (3)
 
-<span id="p262">[<sup><small>p. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 Quand, pendant l'hiver, ils souffrent du froid et des courants d'air, les faibles deviennent découragés comme les Kshattriyas qui ont perdu leur royaume. (4)
 
@@ -64,7 +64,7 @@ Lorsqu'ils sont piqués par des mouches et des moucherons, et incapables de supp
 
 Certains hommes faibles qui souffrent de l'arrachage des cheveux et qui sont incapables de préserver leur chasteté, seront découragés comme des poissons transpercés par une lance [^771]. (13)
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Certaines personnes de basse condition qui mènent une vie d'iniquité et entretiennent des opinions hérétiques, étant sujettes à l'amour et à la haine, blessent un moine. (14)
 

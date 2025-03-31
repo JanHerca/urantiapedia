@@ -32,14 +32,14 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 
 Le Maître resta quelque temps à Cravasti, puis il partit pour retourner à Rajagriha où l'attendait le roi Vimbasara. Il s'était arrêté pour se reposer dans un village situé à mi-chemin, lorsqu'il vit sept hommes s'approcher. Il les reconnut. Six étaient des parents, parmi les plus riches et les plus puissants des Sakyas. Ils s'appelaient Anuruddha, Bhadrika, Bhrigu, Kimbala, Devadatta et Ananda. Le septième était un barbier nommé Upali.
 
 Anuruddha s'était dit un jour que c'était une honte qu'aucun des Sakyas n'ait jugé bon de suivre le Bouddha. Il décida de donner le bon exemple et, comme il n'avait aucune raison de cacher son intention, il en fit part d'abord à Bhadrika, son meilleur ami. Bhadrika approuva sa décision et, après mûre réflexion, résolut de faire de même. Ces deux-là conquirent alors Ananda, Bhrigu, Kimbala et Devadatta en les convainquant qu'il n'existait pas de vocation plus élevée que celle de moine.
 
-Les six princes partirent alors rejoindre le Bouddha. <span id="p197">[<sup><small>p. 197</small></sup>]</span> Ils avaient à peine quitté Kapilavastu qu'Ananda, jetant un coup d'œil à Bhadrika, s'exclama :
+Les six princes partirent alors rejoindre le Bouddha. <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> Ils avaient à peine quitté Kapilavastu qu'Ananda, jetant un coup d'œil à Bhadrika, s'exclama :
 
 « Comment ça, Bhadrika ! Tu veux mener une vie de sainteté et tu gardes tous tes bijoux ? »
 
@@ -75,7 +75,7 @@ Il suivit les princes à distance. Il hésitait à les rejoindre. Bhadrika se re
 
 « Alors marche avec nous », dit Bhadrika.
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 Mais Upali hésitait encore. Anuruddha lui dit :
 

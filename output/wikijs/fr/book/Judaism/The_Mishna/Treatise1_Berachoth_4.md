@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 1. La prière du matin \[peut être dite\] jusqu'à midi. R. Jehudah dit : « jusqu'à la quatrième heure ». La prière ‏מנחה‎ jusqu'au soir. R. Jehudah dit : « jusqu'à \[l'expiration\] de la moitié du temps \[fixé pour\] le ‏מנחה‎ sacrifice. La prière du soir \[n'est pas limitée\] à une heure fixe, et la ‏מוסף‎ \[prière supplémentaire\] \[peut être dite\] toute la journée. R. Jehudah dit : « jusqu'à la septième heure \[seulement\] ».
 
-§ 2. R. Nehooniah ben Hakanah avait l'habitude de prononcer une courte prière en entrant au Beth Hamedrash \[Collège\], et de la répéter <span id="p6">[<sup><small>p. 6</small></sup>]</span> en le quittant. Ils \[les sages\] lui demandèrent : « Quelle est l'autorité pour cette prière ? » Il leur répondit : « Quand j'entre, je prie pour qu'aucune cause d'offense ne surgisse de moi ; et quand je sors, je rends grâces pour ma vocation \[d'enseignant de la loi\]. »
+§ 2. R. Nehooniah ben Hakanah avait l'habitude de prononcer une courte prière en entrant au Beth Hamedrash \[Collège\], et de la répéter <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> en le quittant. Ils \[les sages\] lui demandèrent : « Quelle est l'autorité pour cette prière ? » Il leur répondit : « Quand j'entre, je prie pour qu'aucune cause d'offense ne surgisse de moi ; et quand je sors, je rends grâces pour ma vocation \[d'enseignant de la loi\]. »
 
 § 3. Rabbon Gamaliel dit : « L'homme doit réciter quotidiennement les dix-huit bénédictions. » R. Josué dit : « Un recueil des dix-huit bénédictions. » R. Akivah dit : « Si le ‏תפלה‎ est couramment prononcé dans la bouche d'un homme, il récite les dix-huit bénédictions ; sinon, il ne récite qu'un recueil des dix-huit bénédictions. »
 

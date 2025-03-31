@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 ## TRAITÉ XII.
 
@@ -64,7 +64,7 @@ La loi orale — Sa transmission — Noms des « récepteurs » — Maximes — 
 
 11\. Abtalyon dit : « Sages, soyez prudents dans vos paroles, de peur d'être condamnés à la captivité, emmenés captifs dans un lieu aux eaux mauvaises, et que les disciples qui vous suivent n'en boivent, ce qui pourrait profaner le nom de Dieu. »
 
-12\. Hillel et Shamaï l'ont reçu d'eux. Hillel dit : « Sois de ces disciples d'Aaron, qui aimaient la paix et recherchaient la paix, afin d'aimer les hommes et de les inciter à l'étude de la loi. » <span id="p220">[<sup><small>p. 220</small></sup>]</span> 13\. Il avait l'habitude de dire : « Quiconque glorifie son nom le détruit, et celui qui n'augmente pas sa connaissance de la loi sera retranché, et celui qui n'étudie pas la loi mérite la mort, et celui qui se sert de la couronne de la loi périra. »
+12\. Hillel et Shamaï l'ont reçu d'eux. Hillel dit : « Sois de ces disciples d'Aaron, qui aimaient la paix et recherchaient la paix, afin d'aimer les hommes et de les inciter à l'étude de la loi. » <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> 13\. Il avait l'habitude de dire : « Quiconque glorifie son nom le détruit, et celui qui n'augmente pas sa connaissance de la loi sera retranché, et celui qui n'étudie pas la loi mérite la mort, et celui qui se sert de la couronne de la loi périra. »
 
 14\. Il a également dit : « Si je ne fais pas moi-même de bonnes œuvres, qui peut les faire pour moi ? » et « Quand je considère moi-même, que suis-je ? » et « Si ce n'est maintenant, quand le ferai-je ? »
 

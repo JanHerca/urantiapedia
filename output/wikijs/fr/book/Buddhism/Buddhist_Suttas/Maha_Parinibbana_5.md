@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 ## LE LIVRE DU GRAND DÉCÈS. MAHÂ-PARINIBBÂNA-SUTTA. CHAPITRE V.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 4\. Or, à cette époque, les arbres jumeaux Sâla ne formaient plus qu'une masse de fleurs hors saison[^2] ; et sur tout le corps du Tathâgata, celles-ci tombèrent, se répandirent et se dispersèrent, par révérence pour le successeur des anciens Bouddhas. Et des fleurs de Mandârava célestes, ainsi que de la poudre de santal céleste, tombèrent du ciel, et sur tout le corps du Tathâgata, elles descendirent, se répandirent et se dispersèrent, par révérence pour le successeur des anciens Bouddhas. Et une musique céleste résonna dans le ciel, par révérence pour le successeur des anciens Bouddhas. Et des chants célestes flottèrent des cieux, par révérence pour le successeur des anciens Bouddhas !
 
-5\. Alors le Béni du Ciel s'adressa au vénérable Ânanda et dit : « Les arbres jumeaux Sâla ne forment qu'une seule masse de fleurs hors saison ; sur tout le corps du Tathâgata, elles tombent, s'aspergent et se dispersent, par révérence pour le successeur des anciens Bouddhas. Et les fleurs célestes de Mandârava, ainsi que la poudre céleste de bois de santal, tombent du ciel, et sur tout le corps du Tathâgata, elles descendent, s'aspergent et se dispersent, par révérence <span id="p87">[<sup><small>p. 87</small></sup>]</span> pour le successeur des anciens Bouddhas. Et une musique céleste résonne dans le ciel, par révérence pour le successeur des anciens Bouddhas. Et des chants célestes viennent des cieux, par révérence pour le successeur des anciens Bouddhas ! »
+5\. Alors le Béni du Ciel s'adressa au vénérable Ânanda et dit : « Les arbres jumeaux Sâla ne forment qu'une seule masse de fleurs hors saison ; sur tout le corps du Tathâgata, elles tombent, s'aspergent et se dispersent, par révérence pour le successeur des anciens Bouddhas. Et les fleurs célestes de Mandârava, ainsi que la poudre céleste de bois de santal, tombent du ciel, et sur tout le corps du Tathâgata, elles descendent, s'aspergent et se dispersent, par révérence <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> pour le successeur des anciens Bouddhas. Et une musique céleste résonne dans le ciel, par révérence pour le successeur des anciens Bouddhas. Et des chants célestes viennent des cieux, par révérence pour le successeur des anciens Bouddhas ! »
 
 6\. « Or, ce n'est pas ainsi, Ânanda, que le Tathâgata est à juste titre honoré, révéré, vénéré, tenu pour sacré ou révéré. Mais le frère ou la sœur, l'homme ou la femme pieux, qui accomplit continuellement tous les devoirs, grands et petits, qui mène une vie correcte, suivant les préceptes – c'est celui-là qui honore, révère, vénère, tient pour sacré et révère le Tathâgata avec le plus grand respect. C'est pourquoi, Ânanda, sois constant dans l'accomplissement des devoirs, grands et petits, et mène une vie correcte, suivant les préceptes ; et ainsi, Ânanda, il faut l'enseigner. »
 
@@ -84,7 +84,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 20\. « Le lieu, Ânanda, où le croyant peut dire : « Ici le Tathâgata est finalement décédé dans cette disparition totale qui ne laisse absolument rien derrière ! » est un endroit à visiter avec des sentiments de révérence et de crainte respectueuse.
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 21\. 'Et il viendra, Ânanda, à de tels endroits, des croyants, des frères et des sœurs de l'ordre. ou des hommes et des femmes pieux, et diront : « Ici est né le Tathâgata ! » ou : « Ici le Tathâgata a atteint la suprême et parfaite vision pénétrante ! » ou : « Ici le royaume de la droiture a été établi par le Tathâgata ! » ou : « Ici le Tathâgata est décédé dans cette disparition totale qui ne laisse rien derrière ! »
 
@@ -108,7 +108,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 24\. « Que devons-nous faire, Seigneur, des restes du Tathâgata ? »
 
-« Ne vous gênez pas, Ânanda, en honorant les restes du Tathâgata. Soyez zélés, je vous en conjure, Ânanda, pour votre propre bien ! Consacrez-vous à votre propre bien ! Soyez sérieux, zélés, soyez attentifs à votre propre bien ! Il y a des sages, Ânanda, parmi les nobles, parmi les brahmanes, parmi les chefs de famille, qui sont de fervents croyants au Tathâgata ; et ils rendront l'honneur qui leur est dû aux restes du Tathâgata. » <span id="p92">[<sup><small>p. 92</small></sup>]</span> 5.[^6] « Que faut-il faire, Seigneur, des restes du Tathâgata ? »
+« Ne vous gênez pas, Ânanda, en honorant les restes du Tathâgata. Soyez zélés, je vous en conjure, Ânanda, pour votre propre bien ! Consacrez-vous à votre propre bien ! Soyez sérieux, zélés, soyez attentifs à votre propre bien ! Il y a des sages, Ânanda, parmi les nobles, parmi les brahmanes, parmi les chefs de famille, qui sont de fervents croyants au Tathâgata ; et ils rendront l'honneur qui leur est dû aux restes du Tathâgata. » <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> 5.[^6] « Que faut-il faire, Seigneur, des restes du Tathâgata ? »
 
 « Comme les hommes traitent les restes d’un roi des rois, ainsi, Ânanda, devraient-ils traiter les restes d’un Tathâgata. »
 
@@ -124,7 +124,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « Un Tathâgata, ou Arahat-Bouddha, est digne d'un dâgaba. Un Pa<i>kk</i>eka-Bouddha est digne d'un dâgaba[^12].
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Un véritable auditeur du Tathâgata est digne d'un dâgaba. Un roi des rois est digne d'un dâgaba.
 
@@ -152,7 +152,7 @@ Un véritable auditeur du Tathâgata est digne d'un dâgaba. Un roi des rois est
 
 33\. Alors le Béni appela les frères et dit : « Où donc, frères, est Ananda ? »
 
-Le vénérable Ânanda, Seigneur, est entré dans le <span id="p96">[<sup><small>p. 96</small></sup>]</span> Vihâra, et se tient appuyé contre le linteau de la porte, pleurant à cette pensée : « Hélas ! Je ne suis encore qu'un apprenti, quelqu'un qui n'a pas encore atteint sa propre perfection. Et le Maître est sur le point de m'abandonner, lui qui est si bon ! »
+Le vénérable Ânanda, Seigneur, est entré dans le <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> Vihâra, et se tient appuyé contre le linteau de la porte, pleurant à cette pensée : « Hélas ! Je ne suis encore qu'un apprenti, quelqu'un qui n'a pas encore atteint sa propre perfection. Et le Maître est sur le point de m'abandonner, lui qui est si bon ! »
 
 34\. Et le Béni du Ciel appela un certain frère et dit : « Va maintenant, frère, et appelle Ananda en mon nom, et dis : « Frère Ananda, le Maître t'appelle. »
 
@@ -168,7 +168,7 @@ Le vénérable Ânanda, Seigneur, est entré dans le <span id="p96">[<sup><small
 
 37\. « C'est un homme sage, frères, c'est Ananda.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 Il sait quand c'est le bon moment pour lui de venir rendre visite au Tathâgata, et quand c'est le bon moment pour les frères et sœurs de l'ordre, pour les hommes et les femmes pieux, pour un roi, ou pour les ministres d'un roi, pour d'autres enseignants ou leurs disciples, de venir rendre visite au Tathâgata.
 
@@ -194,13 +194,13 @@ Il sait quand c'est le bon moment pour lui de venir rendre visite au Tathâgata,
 
 « Que le Bienheureux ne meure pas dans cette petite ville de torchis, dans cette ville au milieu de la jungle, dans cette commune annexe[^19]. Car, Seigneur, il existe d'autres grandes cités, telles que Kampâ, Râgagaha, Sâvatthi, Sâketa, Kosambi et Bénarès. Que le Bienheureux meure dans l'une d'elles. Là se trouvent de nombreux nobles fortunés, des brahmanes et des chefs de famille, croyants au Tathâgata, qui rendront l'honneur qui leur est dû à la dépouille du Tathâgata[^20]. »
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 42\. « Ne dis pas cela, Ânanda ! Ne dis pas cela, Ânanda, que ce n'est qu'une petite ville de torchis, une ville au milieu de la jungle, une bourgade annexe. Il y a bien longtemps, Ânanda, vivait un roi nommé Mahâ-Sudassana, un roi des rois, un homme juste qui régnait avec justice, Seigneur des quatre coins de la terre, conquérant, protecteur de son peuple, possesseur des sept trésors royaux. Cette Kusinârâ, Ânanda, était la cité royale du roi Mahâ-Sudassana, sous le nom de Kusâvatî, et elle mesurait douze lieues de long à l'est et à l'ouest, et sept lieues de large au nord et au sud. »
 
 43\. 'Cette cité royale Kusâvatî, Ânanda, était puissante, prospère, peuplée, bondée d'hommes et pourvue de toutes sortes de nourriture[^21]. De même, Ânanda, que la cité royale des dieux, Â<i>l</i>akamandâ de son nom, est puissante, prospère et peuplée, bondée de dieux et pourvue de toutes sortes de nourriture, de même, Ânanda, la cité royale Kusâvatî était puissante et prospère, peuplée, bondée d'hommes et pourvue de toutes sortes de nourriture.
 
-44\. « De jour comme de nuit, Ânanda, la cité royale de Kusâvatî résonnait des dix cris ; c'est-à-dire le bruit des éléphants, le bruit des chevaux et le bruit des chars ; les sons du <span id="p101">[<sup><small>p. 101</small></sup>]</span> rhum, du tambourin et du luth ; le son des chants, les sons des cymbales et du gong ; et enfin, le cri : « Mangez, buvez et réjouissez-vous[^22] ! »
+44\. « De jour comme de nuit, Ânanda, la cité royale de Kusâvatî résonnait des dix cris ; c'est-à-dire le bruit des éléphants, le bruit des chevaux et le bruit des chars ; les sons du <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> rhum, du tambourin et du luth ; le son des chants, les sons des cymbales et du gong ; et enfin, le cri : « Mangez, buvez et réjouissez-vous[^22] ! »
 
 ---
 
@@ -208,7 +208,7 @@ Il sait quand c'est le bon moment pour lui de venir rendre visite au Tathâgata,
 
 « De même, Seigneur », dit le vénérable Ananda en signe d'assentiment au Béni du Ciel ; et il se revêtit d'une robe, et prenant son bol[^23], entra dans Kusinârâ, accompagné d'un autre membre de l'ordre.
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 46\. Or, à cette époque, les Mallas de Kusinârâ étaient réunis dans la salle du conseil pour une affaire publique[^24].
 
@@ -240,13 +240,13 @@ Le vénérable Ânanda se rendit à la salle du conseil des Mallas de Kusinârâ
 
 57\. Et de nouveau le mendiant Subhadda \[a fait la même demande dans les mêmes termes, et a reçu la même réponse\]; et la troisième fois le mendiant Subhadda \[a fait la même demande dans les mêmes termes, et a reçu la même réponse\]
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 58\. Le Béni du Ciel surprit la conversation du vénérable Ânanda avec le mendiant Subhadda. Il appela le vénérable Ânanda et dit : « C'est assez, Ânanda ! N'empêche pas Subhadda d'entrer. Subhadda, Ânanda, peut être autorisé à voir le Tathâgata. Quoi que Subhadda me demande, il le fera par désir de savoir, et non pour m'importuner. Et quoi que je dise en réponse à ses questions, il le comprendra rapidement. »
 
 59\. Alors le vénérable Ananda dit à Subhadda, le mendiant : « Entre, ami Subhadda, car le Béni du Ciel te le permet. »
 
-60\. Alors Subhadda, le mendiant, entra à l'endroit où se trouvait le Bienheureux et le salua courtoisement. Après avoir échangé avec lui des compliments d'estime et de civilité, il prit place à l'écart. Et lorsqu'il fut ainsi assis, Subhadda, le mendiant, dit au Bienheureux : « Les brahmanes, par leur sainteté de vie[^25], Gotama, qui <span id="p106">[<sup><small>p. 106</small></sup>]</span> sont des chefs de groupes de disciples et d'étudiants, des enseignants d'étudiants, bien connus, renommés, fondateurs d'écoles de doctrine, estimés comme des hommes de bien par la multitude — à savoir, Pûra<i>n</i>a Kassapa, Makkhali de l'enclos à bétail, A<i>g</i>ita du vêtement de cheveux, Ka<i>kk</i>âyana de l'arbre Pakudha, Sa<i>ñg</i>aya le fils de l'esclave Bela<i>tth</i>i, et Niga<i>nth</i>a du clan Nâtha — ont-ils tous, selon leur propre affirmation, parfaitement compris les choses ? ou ne l'ont-ils pas fait ? ou y en a-t-il parmi eux qui ont compris, et d'autres qui ne l'ont pas fait[^26] ?
+60\. Alors Subhadda, le mendiant, entra à l'endroit où se trouvait le Bienheureux et le salua courtoisement. Après avoir échangé avec lui des compliments d'estime et de civilité, il prit place à l'écart. Et lorsqu'il fut ainsi assis, Subhadda, le mendiant, dit au Bienheureux : « Les brahmanes, par leur sainteté de vie[^25], Gotama, qui <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> sont des chefs de groupes de disciples et d'étudiants, des enseignants d'étudiants, bien connus, renommés, fondateurs d'écoles de doctrine, estimés comme des hommes de bien par la multitude — à savoir, Pûra<i>n</i>a Kassapa, Makkhali de l'enclos à bétail, A<i>g</i>ita du vêtement de cheveux, Ka<i>kk</i>âyana de l'arbre Pakudha, Sa<i>ñg</i>aya le fils de l'esclave Bela<i>tth</i>i, et Niga<i>nth</i>a du clan Nâtha — ont-ils tous, selon leur propre affirmation, parfaitement compris les choses ? ou ne l'ont-ils pas fait ? ou y en a-t-il parmi eux qui ont compris, et d'autres qui ne l'ont pas fait[^26] ?
 
 61\. « Assez, Subhadda ! Laissons cette question en suspens : s’ils ont, selon leurs propres dires, parfaitement compris les choses, ou non, ou si certains d’entre eux ont compris et d’autres non ! La vérité, Ananda, je vais t’enseigner. Écoute bien cela, prête l’oreille attentivement, et je parlerai. »
 
@@ -254,11 +254,11 @@ Le vénérable Ânanda se rendit à la salle du conseil des Mallas de Kusinârâ
 
 62\. Et le Béni du Ciel dit : « Dans quelque doctrine ou discipline que ce soit, Subhadda, on ne trouve pas le noble sentier octuple, et on n'y trouve pas non plus d'homme de vraie sainteté du premier, du deuxième, du troisième ou du quatrième degré[^27].
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 Et dans toute doctrine et discipline, Subhadda, se trouve le noble sentier octuple, et se trouve l'homme de vraie sainteté, du premier, du deuxième, du troisième et du quatrième degré. Or, dans cette doctrine et discipline, Subhadda, se trouve le noble sentier octuple, et en lui seul, Subhadda, se trouve l'homme de vraie sainteté. Les systèmes des autres enseignants sont vides, vides de vrais saints. Et dans celui-ci, Subhadda, puissent les frères vivre la vie juste, afin que le monde ne soit pas privé d'Arahats[^28].
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 « Mais j'avais vingt-neuf ans quand j'ai renoncé  
 Le monde, Subhadda, recherche le bien.  
@@ -271,7 +271,7 @@ Oui, ni du premier, ni du deuxième, ni du troisième, ni du quatrième degré. 
 
 63\. Après avoir ainsi parlé, Subhadda, le mendiant, dit au Béni du Ciel : « Très excellentes, Seigneur, sont les paroles de ta bouche, très excellentes ! Tout comme un homme redresse ce qui est renversé, révèle ce qui est caché, indique le droit chemin à celui qui s'est égaré, ou apporte une lampe dans l'obscurité, afin que ceux qui ont des yeux puissent voir les formes extérieures ; de même, Seigneur, la vérité m'a été révélée, sous de nombreuses formes, par le Béni du Ciel. Et moi, moi aussi, Seigneur, je me réfugie auprès du Béni du Ciel, auprès de la vérité et de l'ordre. Puisse le Béni du Ciel m'accepter comme disciple, comme un vrai croyant, dès aujourd'hui, aussi longtemps que durera ma vie ! »
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 64\. « Quiconque, Subhadda, a été auparavant adepte d'une autre doctrine et désire ensuite être admis au grade supérieur ou inférieur de cette doctrine et discipline, reste en probation pendant quatre mois ; à l'issue de ces quatre mois, les frères, exaltés en esprit, l'admettent au grade inférieur ou supérieur de l'ordre. Néanmoins, dans ce cas, je reconnais la différence entre les personnes. »
 
@@ -283,7 +283,7 @@ Oui, ni du premier, ni du deuxième, ni du troisième, ni du quatrième degré. 
 
 67\. Et Subhadda, le mendiant, dit au vénérable Ânanda : « Grand est votre gain, ami Ânanda, grande est votre bonne fortune, ami Ânanda, que vous ayez tous été aspergés de l'aspersion du discipulat dans cette fraternité par les mains du Maître lui-même ! »
 
-68\. Ainsi, Subhadda, le mendiant, fut reçu <span id="p110">[<sup><small>p. 110</small></sup>]</span> au grade supérieur de l'ordre sous le Béni du Ciel ; et immédiatement après son ordination, le vénérable Subhadda resta seul et à l'écart, sérieux, zélé et résolu. Et il atteignit bientôt ce but suprême de la vie supérieure[^30] pour laquelle les hommes quittent tout, tout gain et tout confort domestique pour devenir des vagabonds sans abri ; oui, ce but suprême, il l'a, par lui-même, et alors qu'il était encore dans ce monde visible, atteint, et continue de le réaliser, et de le voir face à face ! Et il prit conscience que la naissance était terminée, que la vie supérieure était accomplie, que tout ce qui devait être fait était accompli, et qu'après cette vie présente, il n'y aurait plus d'au-delà !
+68\. Ainsi, Subhadda, le mendiant, fut reçu <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> au grade supérieur de l'ordre sous le Béni du Ciel ; et immédiatement après son ordination, le vénérable Subhadda resta seul et à l'écart, sérieux, zélé et résolu. Et il atteignit bientôt ce but suprême de la vie supérieure[^30] pour laquelle les hommes quittent tout, tout gain et tout confort domestique pour devenir des vagabonds sans abri ; oui, ce but suprême, il l'a, par lui-même, et alors qu'il était encore dans ce monde visible, atteint, et continue de le réaliser, et de le voir face à face ! Et il prit conscience que la naissance était terminée, que la vie supérieure était accomplie, que tout ce qui devait être fait était accompli, et qu'après cette vie présente, il n'y aurait plus d'au-delà !
 
 69\. Ainsi le vénérable Subbadda devint encore un autre parmi les Arahats ; et il fut le dernier disciple que le Béni du Ciel lui-même convertit[^31].
 
@@ -365,13 +365,13 @@ Fin de la partie Hira<i>ññ</i>avatiya, étant la cinquième partie pour la ré
 
 [^23] : Nivâsetvâ patta-<i>k</i>îvara<i>m</i> âdâya atta-dutiyo. Buddhaghosa n'a, bien entendu, aucun commentaire sur cette phrase souvent répétée. On ne peut pas vouloir dire qu'il n'a revêtu que ses sous-vêtements et qu'il a emporté sa robe de dessus avec lui ; car alors ses épaules auraient été nues ; et il est tout à fait contraire aux règles d'entrer dans un village sans avoir soigneusement revêtu toutes les robes (Pâtimokkha, Sekhiya 1-3). Je ne comprends même pas comment Ânanda, en respectant les règles de la confrérie (voir Pâtimokkha, Nisaggiya 21-29), a pu avoir une robe de rechange avec lui à ce moment-là. Et patta-<i>k</i>îvaram peut difficilement signifier simplement « robe-bol », en référence à la longueur de tissu de coton dans laquelle le bol était porté sur l'épaule (« Récits de naissance bouddhistes », p. 71). « Avec ses deux sous-vêtements, il entra à Kusinârâ dûment vêtu de bol et de robe » est peut-être un français impossible, mais cela rend probablement correctement l'idée {note de bas de page p. 102} impliquée, même si bien sûr l'un (au moins) des sous-vêtements avait été mis bien avant. Voir p. 122. Un Thera ne se promène jamais seul en public ; il est toujours accompagné d'un Sâma<i>n</i>era.
 
-[^24] : Ke na<i>k</i>id eva kar<i>n</i>îyena. Le professeur Pischel, dans son édition de l'Assalâyana Sutta (<span id="p1">[<sup><small>p. 1</small></sup>]</span>), imprime cette expression kena<i>k</i>i devakara<i>n</i>îyena, et la traduit (<span id="p28">[<sup><small>p. 28</small></sup>]</span>) par « à des fins religieuses ». Il me semble qu'il a été induit en erreur par le commentaire, qui présuppose en réalité la division plus correcte adoptée par Childers.
+[^24] : Ke na<i>k</i>id eva kar<i>n</i>îyena. Le professeur Pischel, dans son édition de l'Assalâyana Sutta (<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>), imprime cette expression kena<i>k</i>i devakara<i>n</i>îyena, et la traduit (<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>) par « à des fins religieuses ». Il me semble qu'il a été induit en erreur par le commentaire, qui présuppose en réalité la division plus correcte adoptée par Childers.
 
 [^25] : Sama<i>n</i>a-brâhma<i>n</i>â, composé qui pourrait signifier Samanas et Brahmanes comme il a été habituellement rendu, mais je ne pense pas que ce soit nécessairement le cas. Aucun de ceux spécifiés ici n'était Brahmane de caste, comme il ressort du Sumangala Vilâsinî sur le Sâma<i>ññ</i>a Phala Sutta, p. 114. Comparez l'utilisation de Kshatriya-brâhma<i>n</i>o, « un prêtre soldat », un Kshatriya qui offrait un sacrifice ; et de Brâhma<i>n</i>o, absolument, comme épithète d'un Arahat. Dans l'emploi du mot sama<i>n</i>a, il me semble y avoir une confusion irrémédiable, un mélange complet des significations des deux racines <i>s</i>ram et <i>s</i>am (qui, en pâli, deviendraient toutes deux sam). Ce mot évoque à la fois l'ascétisme et la paix intérieure, et pourrait être mieux traduit par « dévot », si ce n'était l'infériorité intellectuelle qu'il implique dans notre langue. Un brahmane sama<i>n</i>a devrait donc désigner un homme de n'importe quelle caste, qui, par sa sainteté de vie, par son renoncement au monde et par sa réputation de penseur religieux, avait acquis la position d'un quasi-brâhmane, et {note de bas de page p. 106} était considéré par le peuple de la même manière qu'il admirait un brahmane de caste. Voir aussi mes « Histoires de naissance bouddhistes », vol. ip 260 ; et aussi les remarques de M. Beal dans l'Indian Antiquary de mai 1880 ; et la note du professeur Max Müller sur Dhammapada, verset 265.
 
 [^26]: Buddhaghosa a une note exégétique sur abbha<i>ññ</i>amsu, mais passe sous silence ces six célèbres Maîtres. Le peu que l'on sait d'eux jusqu'à présent sera abordé ailleurs.
 
-[^27] : Ceci se réfère aux quatre divisions du Noble Octuple Sentier. Voir ci-dessus, chap. II, § 8, où leurs caractères sont décrits. Le mot {footnote <span id="p107">[<sup><small>p. 107</small></sup>]</span>} traduit par « homme de vraie sainteté » ou « vrai saint » se trouve dans le texte Sama<i>n</i>o, à ce sujet, voir la note de la page 105. Je ne sais pas comment traduire ce mot ici de manière adéquate.
+[^27] : Ceci se réfère aux quatre divisions du Noble Octuple Sentier. Voir ci-dessus, chap. II, § 8, où leurs caractères sont décrits. Le mot {footnote <span id="p107"><sup><small>[ p. 107 ]</small></sup></span>} traduit par « homme de vraie sainteté » ou « vrai saint » se trouve dans le texte Sama<i>n</i>o, à ce sujet, voir la note de la page 105. Je ne sais pas comment traduire ce mot ici de manière adéquate.
 
 [^28]: Les Arahats sont ceux qui ont atteint le Nirvânâ, le « but suprême », le « fruit le plus élevé » du Noble Sentier Octuple. Vivre « la Vie Juste » (sammâ) c'est vivre dans le Noble Sentier, dont chacune des huit divisions doit être sammâ, ronde, juste et parfaite, normale et complète. Vivre juste (sammâ) c'est donc avoir : 1. Des vues justes, exemptes de superstition. 2. Des objectifs justes, élevés et dignes de l'homme intelligent et sérieux. 3. Une parole juste, bienveillante, ouverte, véridique. 4. Une conduite juste, dans tous les domaines de la vie. 5. Des moyens de subsistance justes, ne causant ni préjudice ni danger à aucun être vivant. 6. Une persévérance juste, dans les sept autres domaines. 7. Une pleine conscience juste, l'esprit vigilant et actif. 8. Une contemplation juste, une pensée sincère sur les profonds mystères de la vie. Dans chacun d'eux, le mot juste est sammâ, et le paragraphe entier étant sur le Noble Chemin, l'allusion est certainement à cette doctrine centrale du Dhamma bouddhiste.
 	Buddhaghosa dit que ce bhikkhu sammâ viharati, qui, étant lui-même entré dans la Noble Voie, y conduit son frère, est, sans aucun doute, du bon bouddhisme. Mais il s'agit d'une application pratique du texte, d'une exégèse théologique, et non d'une explication philologique. Malgré cela, il semble accorder trop d'importance au terme « démuni » et pas assez à celui d'« Arahats ».

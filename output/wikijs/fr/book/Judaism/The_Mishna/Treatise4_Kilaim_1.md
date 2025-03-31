@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 ## IV. TRAITÉ KILAIM
 
@@ -52,7 +52,7 @@ CONTIENT DES LOIS DÉRIVÉES DES COMMANDEMENTS DIVINS ET LES RENFORCANT. — (L�
 
 § 4. Parmi les fruits des arbres, les poires et les crustumina [^39] ne sont pas des kilaim ; ni les coings et les nèfles. La pomme et le pommier sauvage, les abricots et les amandes, les prunes et les pistaches, bien que de saveur similaire, sont néanmoins des kilaim.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 § 5. Les radis et le colza, la moutarde et le lapsano, [^40] les citrouilles grecques et égyptiennes \[ensemble\] et les courges amères, bien que semblables, sont néanmoins des kilaim.
 

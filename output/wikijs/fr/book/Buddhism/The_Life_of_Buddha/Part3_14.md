@@ -32,12 +32,12 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 
 Le Maître vieillissait. Lorsqu'il était à Rajagriha, il réunit les moines et leur parla longuement :
 
-« Moines, n'oubliez pas les préceptes que je vous ai donnés. Observez-les attentivement. Vous vous réunirez deux fois par mois et vous confesserez vos transgressions les uns aux autres. Si vous estimez avoir mal agi et que vous le gardez pour vous, vous serez coupable de mensonge. Admettez vos transgressions : la confession vous apportera repos et paix. Les quatre péchés les plus graves qu'un moine puisse commettre sont, comme vous le savez : avoir des relations sexuelles avec une femme ; voler quoi que ce soit ; tuer un être humain ou inciter à un meurtre ; et prétendre posséder un pouvoir surhumain qu'il sait ne pas posséder. Un moine qui a commis l'un de ces quatre péchés doit être expulsé de la communauté. Moines, ne discutez pas avec les femmes et ne les corrompez pas. Ne portez pas de faux témoignage contre vos frères. N'essayez pas de semer la discorde dans la communauté. Ne cherchez pas à échapper à une réprimande. Ne <span id="p272">[<sup><small>p. 272</small></sup>]</span> Ne mentez pas et n'insultez personne. Observez attentivement, ô moines, tous les préceptes que je vous ai donnés.
+« Moines, n'oubliez pas les préceptes que je vous ai donnés. Observez-les attentivement. Vous vous réunirez deux fois par mois et vous confesserez vos transgressions les uns aux autres. Si vous estimez avoir mal agi et que vous le gardez pour vous, vous serez coupable de mensonge. Admettez vos transgressions : la confession vous apportera repos et paix. Les quatre péchés les plus graves qu'un moine puisse commettre sont, comme vous le savez : avoir des relations sexuelles avec une femme ; voler quoi que ce soit ; tuer un être humain ou inciter à un meurtre ; et prétendre posséder un pouvoir surhumain qu'il sait ne pas posséder. Un moine qui a commis l'un de ces quatre péchés doit être expulsé de la communauté. Moines, ne discutez pas avec les femmes et ne les corrompez pas. Ne portez pas de faux témoignage contre vos frères. N'essayez pas de semer la discorde dans la communauté. Ne cherchez pas à échapper à une réprimande. Ne <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> Ne mentez pas et n'insultez personne. Observez attentivement, ô moines, tous les préceptes que je vous ai donnés.
 
 Il a ajouté :
 

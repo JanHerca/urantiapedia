@@ -94,7 +94,7 @@ Sudhanvá, menaçant de siège et d'épée,
 Et m'a ordonné de lui accorder rapidement
 L'arc incomparable de S'iva,
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Et Sítá aux yeux de lotus :
 Mais j’ai refusé chaque prix sans égal.
@@ -207,7 +207,7 @@ Le monarque avec ses quatre enfants,
 Montré comme le Seigneur de la Vie divine
 Quand les gardiens du monde qui l'entourent brillent.
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 
 
@@ -331,7 +331,7 @@ La main de S'rutakirti se serre.
 Maintenant, fils de Raghu, puissiez-vous tous
 Soyez doux et fidèles envers vos femmes ;
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Gardez bien les vœux que vous faites aujourd'hui,
 Ne laissez pas passer l'occasion.
@@ -449,7 +449,7 @@ Et balayer la race détestée ?
 Mais quand autrefois sa fureur faisait rage
 Sa colère a apaisé les mers de leur sang :
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 Alors sans doute maintenant il n'a pas prévu
 Pour tuer tous les guerriers du pays.
@@ -555,7 +555,7 @@ Et j'ai tué mon noble père par ruse,
 Dont la pénitence avait acquis une force terrible,
 Dont la main était retenue par l'arc donné par Dieu.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 J'ai entendu avec indignation comment il est tombé
 Par un destin lugubre, trop triste pour être raconté.
@@ -680,7 +680,7 @@ Ráma, l'arc puissant qui s'est élevé.
 Et le fils de Jamadagni, entendu.
 Il a loué son nom avec les plus grands éloges,
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Autour de lui, des pas respectueux se succédaient.
 Puis il se hâta sur sa route aérienne.

@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:34:13Z
   </table>
 </figure>
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ## LE DEUXIÈME LIVRE DE PISTIS SOPHIA
 
@@ -68,7 +68,7 @@ Il arriva donc, lorsque Jean eut prononcé ces paroles, que le Premier Mystère 
 
 Le Premier Mystère continua et dit : « Il arriva donc que la puissance qui était venue des Hauteurs, c'est-à-dire moi, en tant que mon Père m'avait envoyé sauver Pistis Sophia du chaos, moi donc, ainsi que la puissance qui était partie de moi, et l'âme que j'avais reçue de Sabaoth, le Bon, se rapprochèrent l'une de l'autre et devinrent un seul courant de lumière, qui brillait extrêmement. J'appelai Gabriel et Michel hors des aéons, sur l'ordre de mon Père, le Premier Mystère qui regarde au-dedans, et je leur donnai le courant de lumière et les laissai descendre dans le chaos **(129)** pour aider Pistis Sophia et pour prendre les pouvoirs de lumière, que les émanations de l'Obstiné lui avaient pris, et les donner à Pistis Sophia.
 
-« Et aussitôt, lorsqu'ils eurent fait descendre le courant de lumière dans le chaos, il brilla d'une intensité extrême dans tout le chaos et se répandit sur toutes leurs régions. Et lorsque les émanations d'Obstiné virent la grande lumière de ce courant, elles furent toutes terrifiées. Et ce courant retira d'elles tous les pouvoirs lumineux qu'elles avaient pris à Pistis Sophia, et les émanations d'Obstiné ne purent oser s'emparer de ce courant de lumière <span id="p109">[<sup><small>p. 109</small></sup>]</span> dans le chaos obscur ; elles ne purent non plus s'en emparer avec l'art d'Obstiné, qui règne sur les émanations.
+« Et aussitôt, lorsqu'ils eurent fait descendre le courant de lumière dans le chaos, il brilla d'une intensité extrême dans tout le chaos et se répandit sur toutes leurs régions. Et lorsque les émanations d'Obstiné virent la grande lumière de ce courant, elles furent toutes terrifiées. Et ce courant retira d'elles tous les pouvoirs lumineux qu'elles avaient pris à Pistis Sophia, et les émanations d'Obstiné ne purent oser s'emparer de ce courant de lumière <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> dans le chaos obscur ; elles ne purent non plus s'en emparer avec l'art d'Obstiné, qui règne sur les émanations.
 
 <small>Le flux de lumière restitue les pouvoirs lumineux à Sophia.</small>
 
@@ -98,7 +98,7 @@ Pierre s'avança et dit : « Mon Seigneur, concernant la solution des paroles qu
 
 « 6. Heureux les ministres de ce peuple, à qui l’eau du Seigneur est confiée.
 
-« 7. Ils ont rafraîchi les lèvres desséchées ; ceux à qui la force avait été enlevée ont trouvé la joie dans le cœur et ils ont saisi les âmes, ayant <span id="p111">[<sup><small>p. 111</small></sup>]</span> répandu leur souffle, afin qu'ils ne meurent pas.
+« 7. Ils ont rafraîchi les lèvres desséchées ; ceux à qui la force avait été enlevée ont trouvé la joie dans le cœur et ils ont saisi les âmes, ayant <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> répandu leur souffle, afin qu'ils ne meurent pas.
 
 « 8. Ils ont relevé les membres qui étaient tombés ; ils ont donné de la force à leur ouverture et de la lumière à leurs yeux.
 
@@ -114,7 +114,7 @@ Pierre s'avança et dit : « Mon Seigneur, concernant la solution des paroles qu
 
 « Et la parole qu'elle a dite : « Ceux qui étaient dans le sable sec burent », c'est-à-dire :
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Tous ceux qui étaient à Pistis Sophia et dont la lumière avait été auparavant enlevée, reçurent la lumière.
 
@@ -130,7 +130,7 @@ Et comme ta puissance l'a dit : "Heureux les ministres de ce breuvage", voici la
 
 Ceux dont le pouvoir a été enlevé ont obtenu la joie du cœur, c'est-à-dire que tous les autres pouvoirs de Pistis Sophia, que les émanations de l'Obstiné n'ont pas pris, sont devenus extrêmement joyeux et se sont remplis de la lumière de leurs compagnons de lumière, car ceux-ci l'ont déversée en eux. **(134)**
 
-« Et la parole que ta puissance a prononcée : « Ils ont vivifié les âmes, ayant versé <span id="p113">[<sup><small>p. 113</small></sup>]</span> le souffle, afin qu'elles ne meurent pas », c'est-à-dire : Lorsqu'ils eurent versé les lumières dans Pistis Sophia, ils vivifièrent le corps de sa matière, duquel ils avaient auparavant pris ses lumières, et qui était sur le point de périr.
+« Et la parole que ta puissance a prononcée : « Ils ont vivifié les âmes, ayant versé <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> le souffle, afin qu'elles ne meurent pas », c'est-à-dire : Lorsqu'ils eurent versé les lumières dans Pistis Sophia, ils vivifièrent le corps de sa matière, duquel ils avaient auparavant pris ses lumières, et qui était sur le point de périr.
 
 « Et encore la parole que ta puissance a prononcée : « Ils ont relevé des membres qui étaient tombés, ou pour qu'ils ne tombent pas », c'est-à-dire : Lorsqu'ils ont déversé en elle ses lumières, ils ont relevé tous ses pouvoirs qui étaient sur le point d'être dissous.
 
@@ -142,7 +142,7 @@ Ceux dont le pouvoir a été enlevé ont obtenu la joie du cœur, c'est-à-dire 
 
 « Et encore la parole qu'il a prononcée : « Le courant de lumière a tout déchiré à lui-même et l'a entraîné sur le temple », c'est-à-dire : Lorsque le courant de lumière eut pris tous les pouvoirs lumineux de Pistis Sophia et les eut dépouillés des émanations de l'Obstiné, il les déversa dans Pistis Sophia **(135)** et se retourna et sortit du chaos et vint sur toi, toi qui es le temple.
 
-« Voici la solution de tous les mots que <span id="p114">[<sup><small>p. 114</small></sup>]</span> ta puissance lumineuse a prononcés à travers l'Ode de Salomon. »
+« Voici la solution de tous les mots que <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> ta puissance lumineuse a prononcés à travers l'Ode de Salomon. »
 
 Il arriva donc que, lorsque le Premier Mystère entendit Pierre prononcer ces paroles, il lui dit : « Bien dit, bienheureux Pierre. Voici la solution des paroles qui ont été dites. »
 
@@ -156,13 +156,13 @@ Français Et le Premier Mystère continua encore dans le discours et dit : « Il
 
 <small>La formation des pouvoirs du serpent, du basilic et du dragon.</small>
 
-« Et Obstiné envoya du haut, du treizième éon, une autre grande puissance lumineuse. Elle descendit dans le chaos **(136)** comme une flèche volante, afin de secourir ses émanations et de les priver de nouveau de leurs lumières. Et lorsque cette puissance lumineuse fut descendue, les émanations d'Obstiné qui étaient dans le chaos et opprimaient Pistis Sophia, prirent un grand courage et poursuivirent de nouveau Pistis Sophia avec une grande terreur et une grande inquiétude. Et certaines des émanations d'Obstiné l'opprimèrent. L'une d'elles se transforma en <span id="p115">[<sup><small>p. 115</small></sup>]</span> la forme d'un grand serpent ; une autre encore se transforma en la forme d'un basilic à sept têtes ; une autre encore se transforma en la forme d'un dragon. Et de plus, la première puissance de l'Obstiné, le visage de lion, et toutes ses autres émanations très nombreuses, se sont réunies et ont opprimé Pistis Sophia et l'ont conduite à nouveau dans les régions inférieures du chaos et l'ont à nouveau extrêmement alarmée.
+« Et Obstiné envoya du haut, du treizième éon, une autre grande puissance lumineuse. Elle descendit dans le chaos **(136)** comme une flèche volante, afin de secourir ses émanations et de les priver de nouveau de leurs lumières. Et lorsque cette puissance lumineuse fut descendue, les émanations d'Obstiné qui étaient dans le chaos et opprimaient Pistis Sophia, prirent un grand courage et poursuivirent de nouveau Pistis Sophia avec une grande terreur et une grande inquiétude. Et certaines des émanations d'Obstiné l'opprimèrent. L'une d'elles se transforma en <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> la forme d'un grand serpent ; une autre encore se transforma en la forme d'un basilic à sept têtes ; une autre encore se transforma en la forme d'un dragon. Et de plus, la première puissance de l'Obstiné, le visage de lion, et toutes ses autres émanations très nombreuses, se sont réunies et ont opprimé Pistis Sophia et l'ont conduite à nouveau dans les régions inférieures du chaos et l'ont à nouveau extrêmement alarmée.
 
 La puissance démoniaque d'Adamas abat Sophia. « Il arriva alors que, des douze éons, Adamas, le Tyran, regarda en bas, lui aussi en colère contre Pistis Sophia, car elle désirait aller vers la Lumière des lumières, qui était au-dessus d'eux tous ; c'est pourquoi il était en colère contre elle. Il arriva alors, lorsqu'Adamas, le Tyran, eut regardé en bas des douze éons, qu'il vit les émanations de l'Obstiné opprimer Pistis Sophia, jusqu'à lui enlever toutes ses lumières. Il arriva alors, lorsque la puissance d'Adamas fut descendue dans le chaos vers toutes les émanations de l'Obstiné, il arriva alors, lorsque ce démon descendit dans le chaos, qu'il abat Pistis Sophia. Et la puissance à face de lion, la forme de serpent, la forme de basilic, la forme de dragon et toutes les autres très nombreuses émanations de l'Obstiné entourèrent Pistis Sophia. Ensemble, ils désiraient lui retirer à nouveau ses pouvoirs. Ils opprimèrent Pistis Sophia avec une extrême violence et la menacèrent. Or, lorsqu'ils l'opprimèrent et l'effrayèrent terriblement, elle implora de nouveau la Lumière et chanta des louanges en disant :
 
 « 1. Ô Lumière, c'est toi qui m'as secouru ; que ta lumière vienne sur moi.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 <small>Sophia crie à nouveau vers la Lumière.</small>
 
@@ -176,7 +176,7 @@ La puissance démoniaque d'Adamas abat Sophia. « Il arriva alors que, des douze
 
 « Il arriva alors, lorsque les anges furent descendus dans le chaos, eux et le rayon de lumière, et de plus, lorsque toutes les émanations d'Obstiné et les émanations d'Adamas virent le rayon de lumière, combien il brillait intensément et combien la lumière qui l'entourait était incommensurable, qu'ils furent saisis de terreur et quittèrent Pistis Sophia. Et le grand rayon de lumière entoura Pistis Sophia de tous côtés, à sa gauche, à sa droite et de tous côtés, et il devint une couronne de lumière autour de sa tête.
 
-Français : « Il arriva alors, lorsque le flot de lumière eut entouré Pistis Sophia, qu'elle prit un grand courage, et il ne cessa de l'entourer de tous côtés ; et elle n'eut plus peur des émanations de l'Obstiné qui sont dans le <span id="p117">[<sup><small>p. 117</small></sup>]</span> chaos, ni de l'autre nouveau pouvoir de l'Obstiné qu'il avait jeté dans le chaos **(139)** comme une flèche volante, ni de la puissance démoniaque d'Adamas qui était sortie des éons.
+Français : « Il arriva alors, lorsque le flot de lumière eut entouré Pistis Sophia, qu'elle prit un grand courage, et il ne cessa de l'entourer de tous côtés ; et elle n'eut plus peur des émanations de l'Obstiné qui sont dans le <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> chaos, ni de l'autre nouveau pouvoir de l'Obstiné qu'il avait jeté dans le chaos **(139)** comme une flèche volante, ni de la puissance démoniaque d'Adamas qui était sortie des éons.
 
 <small>La transfiguration de Sophia.</small>
 
@@ -202,7 +202,7 @@ Jacques s'avança et dit : « Mon Seigneur, concernant donc la solution des paro
 
 « 4. Il t'ombrera de sa poitrine, et tu trouveras refuge sous ses ailes ; sa vérité t'entourera comme un bouclier.
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 « 5. Tu ne craindras ni les terreurs de la nuit ni la flèche qui vole de jour,
 
@@ -230,7 +230,7 @@ Jacques s'avança et dit : « Mon Seigneur, concernant donc la solution des paro
 
 « Voici, mon Seigneur, la solution de tes paroles. Écoute donc, que je puisse te la dire ouvertement.
 
-« Voici donc la parole que ta puissance a prononcée par David : « Quiconque demeure sous <span id="p120">[<sup><small>p. 120</small></sup>]</span> le secours du Très-Haut, reposera à l'ombre du Dieu du ciel », c'est-à-dire : Lorsque Sophia eut confiance en la Lumière, elle demeura sous la lumière du courant lumineux qui, par toi, sortit des Hauteurs.
+« Voici donc la parole que ta puissance a prononcée par David : « Quiconque demeure sous <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> le secours du Très-Haut, reposera à l'ombre du Dieu du ciel », c'est-à-dire : Lorsque Sophia eut confiance en la Lumière, elle demeura sous la lumière du courant lumineux qui, par toi, sortit des Hauteurs.
 
 « Et la parole que ta puissance a prononcée par David : « Je dirai à l'Éternel : Tu es mon secours et mon refuge, mon Dieu, en qui je me confie », c'est la parole avec laquelle Pistis Sophia a chanté des louanges : **(143)** « Tu es mon secours, et je viens à toi. »
 
@@ -246,17 +246,17 @@ Jacques s'avança et dit : « Mon Seigneur, concernant donc la solution des paro
 
 « Et encore la parole que ta puissance a prononcée : « Il n'aura pas peur de ce qui se faufile dans les ténèbres », c'est-à-dire : Sophia n'a pas eu peur de l'émanation à face de lion, qui a causé la peur à Pistis Sophia dans le chaos, qui est les « ténèbres ».
 
-« Et la parole que ta puissance a prononcée : « Il n'aura pas peur d'un malheur et d'un démon à midi », c'est-à-dire : Pistis Sophia n'a pas eu peur de l'émanation démoniaque du tyran Adamas, qui a jeté Pistis Sophia à terre dans un grand malheur, et qui est sortie d'Adamas du douzième éon ; c'est pourquoi alors ta puissance a dit : « Il n'aura pas peur du **(145)** malheur démoniaque à midi », — « midi », parce qu'il est sorti des douze éons, qui est « midi » ; et encore \['nuit', parce qu'il est sorti du chaos, qui est la « nuit », et parce qu'il est sorti du douzième éon qui est au milieu entre les deux ; c'est pourquoi ta puissance lumineuse a dit « midi », <span id="p122">[<sup><small>p. 122</small></sup>]</span> parce que les douze éons se trouvent au milieu, entre le treizième éon et le chaos.
+« Et la parole que ta puissance a prononcée : « Il n'aura pas peur d'un malheur et d'un démon à midi », c'est-à-dire : Pistis Sophia n'a pas eu peur de l'émanation démoniaque du tyran Adamas, qui a jeté Pistis Sophia à terre dans un grand malheur, et qui est sortie d'Adamas du douzième éon ; c'est pourquoi alors ta puissance a dit : « Il n'aura pas peur du **(145)** malheur démoniaque à midi », — « midi », parce qu'il est sorti des douze éons, qui est « midi » ; et encore \['nuit', parce qu'il est sorti du chaos, qui est la « nuit », et parce qu'il est sorti du douzième éon qui est au milieu entre les deux ; c'est pourquoi ta puissance lumineuse a dit « midi », <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> parce que les douze éons se trouvent au milieu, entre le treizième éon et le chaos.
 
 « Et encore la parole que ta puissance lumineuse a prononcée par David : « Mille tomberont à sa gauche et dix mille à sa droite, mais ils ne s'approcheront pas de lui », c'est-à-dire : Lorsque les émanations de l'Obstiné, qui sont extrêmement nombreuses, ne purent supporter la grande lumière du flux lumineux, beaucoup d'entre elles tombèrent à la gauche de Pistis Sophia et beaucoup à sa droite, et elles ne purent s'approcher d'elle pour lui faire du mal.
 
-« Et la parole que ta puissance lumineuse a prononcée par David : « Non, plutôt de tes yeux tu contempleras, et tu verras la rétribution des pécheurs, car toi, Seigneur, tu es mon espoir », voilà la parole : Pistis Sophia a vu de ses yeux ses ennemis, c'est-à-dire les émanations de l'Obstiné, qui sont tous **(146)** tombés les uns sur les autres ; non seulement elle a vu cela de ses yeux, mais toi aussi, mon Seigneur, le Premier Mystère, tu as pris la puissance lumineuse qui est dans la puissance à face de lion, et tu as de plus pris la puissance de toutes les émanations de l'Obstiné et de plus tu les as emprisonnées dans ce chaos, \[de sorte\] qu'à partir de maintenant elles ne sont plus sorties dans leur propre région. C'est pourquoi Pistis-Sophia a contemplé de ses yeux ses ennemis, c'est-à-dire les émanations de l'Obstiné, dans tout ce que David a prophétisé à son sujet, en disant : « Mais plutôt, de tes yeux, tu contempleras, et tu verras la rétribution des pécheurs. » Non seulement elle a contemplé de ses yeux comment ils s'abattent les uns sur les autres dans le chaos, mais elle a aussi vu la rétribution qui leur a été infligée. De même que les émanations de l'Obstiné ont pensé <span id="p123">[<sup><small>p. 123</small></sup>]</span> lui retirer la lumière de Sophia, ainsi tu les as récompensées et tu leur as pris la puissance lumineuse en lieu et place des lumières de Sophia, qui a eu foi en la Lumière du Très-Haut.
+« Et la parole que ta puissance lumineuse a prononcée par David : « Non, plutôt de tes yeux tu contempleras, et tu verras la rétribution des pécheurs, car toi, Seigneur, tu es mon espoir », voilà la parole : Pistis Sophia a vu de ses yeux ses ennemis, c'est-à-dire les émanations de l'Obstiné, qui sont tous **(146)** tombés les uns sur les autres ; non seulement elle a vu cela de ses yeux, mais toi aussi, mon Seigneur, le Premier Mystère, tu as pris la puissance lumineuse qui est dans la puissance à face de lion, et tu as de plus pris la puissance de toutes les émanations de l'Obstiné et de plus tu les as emprisonnées dans ce chaos, \[de sorte\] qu'à partir de maintenant elles ne sont plus sorties dans leur propre région. C'est pourquoi Pistis-Sophia a contemplé de ses yeux ses ennemis, c'est-à-dire les émanations de l'Obstiné, dans tout ce que David a prophétisé à son sujet, en disant : « Mais plutôt, de tes yeux, tu contempleras, et tu verras la rétribution des pécheurs. » Non seulement elle a contemplé de ses yeux comment ils s'abattent les uns sur les autres dans le chaos, mais elle a aussi vu la rétribution qui leur a été infligée. De même que les émanations de l'Obstiné ont pensé <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> lui retirer la lumière de Sophia, ainsi tu les as récompensées et tu leur as pris la puissance lumineuse en lieu et place des lumières de Sophia, qui a eu foi en la Lumière du Très-Haut.
 
 « Et comme ta puissance lumineuse a parlé par David : « Tu as établi le Très-Haut pour toi comme refuge ; le mal ne s'approchera pas de toi, le fléau ne s'approchera pas de ta demeure », c'est-à-dire : Lorsque Pistis Sophia eut foi en la Lumière et fut affligée, elle chanta des louanges à elle, et les émanations de l'Obstiné ne purent lui infliger aucun mal, **(147)** ni la blesser, ni s'approcher d'elle.
 
 Français « Et la parole que ta puissance lumineuse a prononcée par David : « Il donnera ordre à ses anges en ton nom, afin qu'ils te gardent sur tous tes chemins et te portent sur leurs mains, afin que tu ne heurtes jamais de ton pied contre une pierre », — c'est encore ta parole : Tu as donné ordre à Gabriel et à Michel, afin qu'ils guident Pistis Sophia dans toutes les régions du chaos, jusqu'à ce qu'ils la conduisent dehors et qu'ils la soulèvent sur leurs mains, afin que ses pieds ne touchent pas les ténèbres en dessous, et que d'un autre côté, ceux des ténèbres inférieures ne s'en saisissent pas.
 
-« Et la parole que ta puissance lumineuse a prononcée par David : “Tu marcheras sur le serpent et le basilic, et sur le lion et le dragon ; parce qu’il a eu confiance en moi, je le sauverai et je le couvrirai de mon ombre, parce qu’il a connu mon nom”, voilà la parole : Lorsque Pistis Sophia était sur le point de sortir du chaos, elle marcha sur les émanations de l’Obstiné, et elle <span id="p124">[<sup><small>p. 124</small></sup>]</span> marcha sur ceux à face de serpent et sur ceux à face de basilic, qui ont sept têtes ; et elle marcha sur la puissance à face de lion et sur celle à face de dragon. Parce qu’elle avait eu foi en la Lumière, elle est sauvée de tous.
+« Et la parole que ta puissance lumineuse a prononcée par David : “Tu marcheras sur le serpent et le basilic, et sur le lion et le dragon ; parce qu’il a eu confiance en moi, je le sauverai et je le couvrirai de mon ombre, parce qu’il a connu mon nom”, voilà la parole : Lorsque Pistis Sophia était sur le point de sortir du chaos, elle marcha sur les émanations de l’Obstiné, et elle <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> marcha sur ceux à face de serpent et sur ceux à face de basilic, qui ont sept têtes ; et elle marcha sur la puissance à face de lion et sur celle à face de dragon. Parce qu’elle avait eu foi en la Lumière, elle est sauvée de tous.
 
 « Ceci, mon Seigneur, est la solution des paroles que tu as prononcées. »
 
@@ -278,7 +278,7 @@ Et le Premier Mystère continua encore son discours et dit à ses disciples : «
 
 5. Et ensuite un rayon de lumière est venu vers moi par toi, qui m'a sauvé ; il a brillé à ma gauche et à ma droite et m'a entouré de tous côtés, de sorte qu'aucune partie de moi n'était sans lumière.
 
-« 6. Et tu m'as couvert de la lumière <span id="p125">[<sup><small>p. 125</small></sup>]</span> de ton fleuve, et tu as purgé de moi toutes mes mauvaises actions ; et je serai délivré de toutes mes affaires à cause de ta lumière.
+« 6. Et tu m'as couvert de la lumière <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> de ton fleuve, et tu as purgé de moi toutes mes mauvaises actions ; et je serai délivré de toutes mes affaires à cause de ta lumière.
 
 « 7. Et c'est ton courant de lumière qui m'a élevé et qui m'a enlevé les émanations de l'obstination qui me contraignaient.
 
@@ -300,7 +300,7 @@ Thomas répondit et dit : « Mon Seigneur, concernant le chant que Pistis Sophia
 
 « 1. Je suis sauvé **(150)** des liens et je me suis enfui vers toi, ô Seigneur.
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 « 2. Car tu as été à ma droite, me sauvant et me secourant.
 
@@ -322,7 +322,7 @@ Voici donc, mon Seigneur, la solution du repentir exprimé par Pistis Sophia, lo
 
 « La parole donc que ta puissance lumineuse a prononcée par l'intermédiaire de Salomon : « Je suis sauvé des liens et je me suis enfui vers toi, ô Seigneur », c'est la parole que Pistis Sophia a prononcée : « Je suis libéré des liens des ténèbres et je suis venu vers toi, ô Lumière. »
 
-« Et la parole que ta puissance a prononcée : « Tu étais à ma droite, me sauvant **(151)** et me secourant », c'est encore la parole que Pistis Sophia <span id="p127">[<sup><small>p. 127</small></sup>]</span> a prononcée : « Tu es devenu une lumière de tous côtés, \[me sauvant\] et me secourant. »
+« Et la parole que ta puissance a prononcée : « Tu étais à ma droite, me sauvant **(151)** et me secourant », c'est encore la parole que Pistis Sophia <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> a prononcée : « Tu es devenu une lumière de tous côtés, \[me sauvant\] et me secourant. »
 
 « Et la parole que ta puissance lumineuse a prononcée : « Tu as empêché mes adversaires et ils n'ont pas été révélés », c'est la parole que Pistis Sophia a prononcée : « Et les émanations de l'Obstiné qui combattaient contre moi, tu les as empêchées par ta lumière, et elles n'ont pas pu s'approcher de moi. »
 
@@ -374,7 +374,7 @@ Et le Premier Mystère continua encore et dit aux disciples : « Et Pistis Sophi
 
 4. Tu as frappé le basilic aux sept têtes, tu l'as chassé de mes mains et tu m'as placé au-dessus de sa matière. Tu l'as détruit, de sorte que sa semence ne puisse plus se reproduire.
 
-« 5. Et tu étais avec moi, me donnant du pouvoir <span id="p130">[<sup><small>p. 130</small></sup>]</span> dans tout cela, et ta lumière m'entourait dans toutes les régions, et par toi tu as rendu impuissantes toutes les émanations de l'Obstiné.
+« 5. Et tu étais avec moi, me donnant du pouvoir <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> dans tout cela, et ta lumière m'entourait dans toutes les régions, et par toi tu as rendu impuissantes toutes les émanations de l'Obstiné.
 
 « 6. Car tu leur as enlevé le pouvoir de leur lumière et tu as tracé mon chemin pour me conduire hors du chaos.
 

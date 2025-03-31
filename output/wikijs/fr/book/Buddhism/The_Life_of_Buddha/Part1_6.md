@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 
 Le prince grandit et le temps vint pour lui d'étudier auprès du maître qui enseignait l'art de l'écriture aux jeunes Sakyas. Ce maître s'appelait Visvamitra.
@@ -49,7 +49,7 @@ Visvamitra ne répondit pas, stupéfait. Finalement, il répondit :
 
 « Je vois, monseigneur, que je ne peux rien vous apprendre. Parmi les écritures que vous avez mentionnées, certaines ne me sont connues que de nom, et d'autres me sont même inconnues de nom. C'est moi qui devrais m'asseoir à vos pieds et apprendre. Non, monseigneur, je ne peux rien vous apprendre. »
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Il souriait et le prince lui rendit son regard affectueux.
 
@@ -73,7 +73,7 @@ Sur quoi ils s'écrièrent tous :
 
 Ils chantèrent alors ses louanges, et le premier dit : « Dans un monde consumé par un feu maléfique, il est venu comme un lac. Sa loi rafraîchira le monde. »
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Le deuxième dit : « Dans un monde obscurci par l'ignorance, il est venu comme une torche. Sa loi apportera la lumière au monde. »
 
@@ -91,7 +91,7 @@ Le serviteur courut vers le palais du roi.
 
 « Monseigneur, s’écria-t-il, j’ai vu votre fils ; il médite sous un arbre dont l’ombre n’a pas bougé, tandis que les ombres de tous les autres arbres ont bougé et se sont allongées. »
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Suddhodana quitta le palais et suivit le serviteur jusqu'à l'endroit où son fils était assis. Pleurant de joie, il se dit :
 

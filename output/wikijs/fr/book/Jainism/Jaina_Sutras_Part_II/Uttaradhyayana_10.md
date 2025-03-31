@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:59:21Z
 
 DIXIÈME LEÇON [^140]. LA FEUILLE DE L'ARBRE.
 
-Comme la feuille morte de l'arbre tombe à terre, lorsque ses jours sont écoulés, de même la vie des hommes (<span id="p42">[<sup><small>p. 42</small></sup>]</span> arrivera à sa fin) ; Gautama, sois prudent tout le temps ! (1)
+Comme la feuille morte de l'arbre tombe à terre, lorsque ses jours sont écoulés, de même la vie des hommes (<span id="p42"><sup><small>[ p. 42 ]</small></sup></span> arrivera à sa fin) ; Gautama, sois prudent tout le temps ! (1)
 
 Comme une goutte de rosée suspendue au sommet d'un brin d'herbe Kusa ne dure que peu de temps, ainsi dure la vie des hommes ; Gautama, sois prudent tout le temps ! (2)
 
@@ -72,7 +72,7 @@ Bien qu'il puisse posséder les cinq organes des sens, c'est néanmoins une chan
 
 Bien qu'il ait été instruit dans la bonne Loi, il est rare d'y croire ; car beaucoup de gens sont hérétiques ; Gautama, etc. (19)
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Bien que l'on croie à la Loi, on la pratique rarement ; car les gens sont absorbés par les plaisirs ; Gautama, etc. (20)
 
@@ -96,7 +96,7 @@ Abandonne tes biens et ta femme ; tu es entré dans l'état de sans-abri ; ne re
 
 Quittez vos amis et vos proches, la grande fortune que vous avez amassée ; ne les désirez pas une seconde fois ; Gautama, etc. (30)
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 Il n'y a plus de <i>G</i>ina [^146], mais il y a un guide très estimé pour montrer le chemin ; maintenant que tu es sur le bon chemin, Gautama, sois prudent tout le temps ! (31)
 
@@ -110,7 +110,7 @@ En passant par les mêmes pratiques religieuses que les saints parfaits [^147], 
 
 Le moine éclairé [^148] et libéré doit se contrôler, qu'il soit dans un village ou dans une ville, et il doit prêcher à tous [^149] la voie de la paix ; Gautama, etc. (36)
 
-Après avoir entendu le sermon bien prononcé du Bouddha [^150] <span id="p46">[<sup><small>p. 46</small></sup>]</span>, orné d'illustrations, Gautama coupa l'amour et la haine et atteignit la perfection. (37) Ainsi dis-je.
+Après avoir entendu le sermon bien prononcé du Bouddha [^150] <span id="p46"><sup><small>[ p. 46 ]</small></sup></span>, orné d'illustrations, Gautama coupa l'amour et la haine et atteignit la perfection. (37) Ainsi dis-je.
 
 <figure class="table chapter-navigator">
   <table>

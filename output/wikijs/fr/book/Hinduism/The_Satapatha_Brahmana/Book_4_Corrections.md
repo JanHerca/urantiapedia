@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:3:37Z
   </table>
 </figure>
 
-<span id="p405">[<sup><small>p. 405</small></sup>]</span>
+<span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 
 Page 66, 1. 11, et note 1. Le Katushtoma est un arrangement des Stotras d'un sacrifice de Soma dans lequel les Stomas (ou formes d'hymnes) employés augmentent successivement de quatre syllabes. Voir notes sur XI, 5, 2, 9 ; XIII, 3, 1, 4 (sic !).
 
@@ -84,7 +84,7 @@ P. 363, note 1. La référence est erronée ; pour le véritable Satya-sâman, v
 
 P. 67, l. 24. Dans la direction opposée, c'est-à-dire dans la direction qui s'éloigne de nous.
 
-<span id="p406">[<sup><small>p. 406</small></sup>]</span>
+<span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 
 P. 369, note 1. La référence est erronée ; pour le véritable tétra-sâman, voir partie iv, p. 145, note 1.
 

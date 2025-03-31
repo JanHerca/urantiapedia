@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:52Z
   </table>
 </figure>
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 <a id="xref_1"></a>
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-12T22:33:52Z
 
 <a id="xref_5"></a>
 
-5\. Le mot bienveillance traduit le chinois _fang pien_ littéralement « actes de bienveillance », qui est la version courante <span id="p40">[<sup><small>p. 40</small></sup>]</span> du terme bouddhiste _upâya_ et signifie « méthode » ou « manière réussie d'atteindre un but ». Il est particulièrement utilisé dans la littérature du Mahayana, au sens que le mot anglais « method » a acquis chez les méthodistes wesleyens. _Prajnâ_, « sagesse », est en soi insuffisant car il s'agit de l'illumination abstraite. Pour devenir efficace pour le salut, il faut l'appliquer, et la méthode d'application de _prajnâ_ est _upâya_, communément appelé _kausala_, c'est-à-dire « bon ou excellent ». Selon les maîtres bouddhistes, la méthode du salut passe par les « actes de bienveillance », comme l'indique sa traduction chinoise.
+5\. Le mot bienveillance traduit le chinois _fang pien_ littéralement « actes de bienveillance », qui est la version courante <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> du terme bouddhiste _upâya_ et signifie « méthode » ou « manière réussie d'atteindre un but ». Il est particulièrement utilisé dans la littérature du Mahayana, au sens que le mot anglais « method » a acquis chez les méthodistes wesleyens. _Prajnâ_, « sagesse », est en soi insuffisant car il s'agit de l'illumination abstraite. Pour devenir efficace pour le salut, il faut l'appliquer, et la méthode d'application de _prajnâ_ est _upâya_, communément appelé _kausala_, c'est-à-dire « bon ou excellent ». Selon les maîtres bouddhistes, la méthode du salut passe par les « actes de bienveillance », comme l'indique sa traduction chinoise.
 
 Le commentateur interprète le terme _fang pien_ dans un sens populaire et le prend pour « toute action bénéfique à autrui ». Dans le bouddhisme, ce mot joue un rôle très important, et son adoption ici montre à quel point l'auteur de ce court traité a été fortement influencé par la pensée indienne.
 

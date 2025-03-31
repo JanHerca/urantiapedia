@@ -45,7 +45,7 @@ Comment le frère Juniper fut ravi en extase pendant la célébration de la mess
 
 Un jour, tandis que frère Juniper écoutait la messe avec une grande dévotion, il fut transporté d'extase par l'élévation de son esprit et pendant longtemps. Ayant été laissé dans une cellule loin des autres frères, lorsqu'il revint à lui, il commença, avec une grande ferveur, à dire : « Ô mes frères, qui est-il dans cette vie si noble qu'il ne porterait volontiers un panier de fumier à travers toute la ville, si on lui donnait une maison pleine d'or ? » Et il dit : « Hélas ! pourquoi ne voulons-nous pas souffrir un peu de honte, si nous pouvons ainsi obtenir la vie bienheureuse ? »
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 ## CHAPITRE XIII
 
@@ -57,7 +57,7 @@ FRÈRE GENÉVRIER avait pour compagnon un frère qu'il aimait tendrement, nommé
 
 
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 ## CHAPITRE XIV
 

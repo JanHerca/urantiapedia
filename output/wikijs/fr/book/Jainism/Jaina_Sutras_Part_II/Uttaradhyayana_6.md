@@ -50,7 +50,7 @@ Etant donné qu'accepter (des cadeaux) conduit à l'enfer, il ne faut pas accept
 
 Ici, certains sont d'avis qu'ils seront délivrés de toute misère en suivant simplement l'enseignement [^109], sans s'abstenir de péchés. (8)
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Reconnaissant la vérité sur l’esclavage et la libération, mais parlant seulement, sans agir (conformément à ces principes), ils cherchent du réconfort pour eux-mêmes dans des paroles puissantes. (9)
 
@@ -66,7 +66,7 @@ Reconnaissant la cause du Karman, on devrait errer en attendant sa mort ; (conna
 
 Un ascète ne doit pas accumuler de provisions, pas même la moindre quantité de graisse (collée à son bol d'aumônes) ; mais comme un oiseau avec son plumage [^111], ainsi avec son bol d'aumônes, il doit errer sans désirs. (15)
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Recevant l'aumône de manière à éviter les fautes [^112], et se contrôlant, il faut errer dans un village (&c.) sans résidence fixe ; prudent parmi les insouciants, il faut mendier sa nourriture. (16)
 

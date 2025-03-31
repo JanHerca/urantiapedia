@@ -46,7 +46,7 @@ Il n'attend ni traitement respectueux, ni hospitalité, ni révérence, ni même
 
 S'il ne se soucie pas de sa vie, ou abandonne toute illusion, s'il évite les hommes et les femmes, pratique toujours des austérités et ne trahit aucune curiosité, alors il est un vrai moine. (6)
 
-Celui qui ne professe pas et ne vit pas de divination à partir de coupures et de lambeaux [^188], de sons sur la terre ou dans l'air, de rêves, de diagrammes, de bâtons et de <span id="p71">[<sup><small>p. 71</small></sup>]</span> propriétés des bâtiments, de changements dans le corps, de la signification [^189] des cris (des animaux) — celui-là est un vrai moine. (7)
+Celui qui ne professe pas et ne vit pas de divination à partir de coupures et de lambeaux [^188], de sons sur la terre ou dans l'air, de rêves, de diagrammes, de bâtons et de <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> propriétés des bâtiments, de changements dans le corps, de la signification [^189] des cris (des animaux) — celui-là est un vrai moine. (7)
 
 Les sorts, les racines, toutes sortes de traitements médicaux, les émétiques, les purgatifs, les fumigations, les onctions des yeux et les bains, les lamentations du malade et sa consolation : celui qui s'abstient de toutes ces choses est un vrai moine. (8)
 
@@ -54,7 +54,7 @@ Celui qui ne loue pas ou ne prête pas attention aux guerriers, aux Ugras [^190]
 
 Celui qui, pour un gain terrestre, n'améliore pas ses relations avec les chefs de famille avec lesquels il est tombé en tant que moine, ou avec lesquels il était en relation amicale avant cette époque, celui-là est un vrai moine.
 
-Il est interdit à un Nirgrantha de prendre aux chefs de famille, s'ils ne le donnent pas eux-mêmes, le lit, le logement, <span id="p72">[<sup><small>p. 72</small></sup>]</span> la boisson, la nourriture ou toute friandise ou épice ; celui qui ne se met pas en colère en de telles occasions est un vrai moine. (11)
+Il est interdit à un Nirgrantha de prendre aux chefs de famille, s'ils ne le donnent pas eux-mêmes, le lit, le logement, <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> la boisson, la nourriture ou toute friandise ou épice ; celui qui ne se met pas en colère en de telles occasions est un vrai moine. (11)
 
 Si un moine reçoit de la nourriture et des boissons, ou des friandises et des épices, et n'éprouve pas de compassion (pour un moine malade) dans ses pensées, ses paroles et ses actes, (alors il n'est pas un vrai moine) [^191] ; mais s'il a ses pensées, ses paroles et ses actes sous une discipline stricte, alors il est un vrai moine. (12)
 
@@ -62,7 +62,7 @@ Eau de vaisselle [^192], bouillie d'orge, gruau aigre froid [^193], eau dans laq
 
 Il y a sur la terre de nombreuses voix, celles des dieux, des hommes et des bêtes, des bruits épouvantables, effrayants et terribles ; s'il les entend sans trembler, alors il est un vrai moine. (14)
 
-Celui qui comprend toutes les disputes religieuses, \[qui vit avec ses compagnons moines\] [^194], qui pratique l'autodiscipline [^195], qui médite sur son âme, qui est sage, robuste et observe tout, qui <span id="p73">[<sup><small>p. 73</small></sup>]</span> est calme et ne fait de mal à personne, celui-là est un vrai moine. (15)
+Celui qui comprend toutes les disputes religieuses, \[qui vit avec ses compagnons moines\] [^194], qui pratique l'autodiscipline [^195], qui médite sur son âme, qui est sage, robuste et observe tout, qui <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> est calme et ne fait de mal à personne, celui-là est un vrai moine. (15)
 
 Celui qui, ne vivant d'aucun art, sans maison,
 

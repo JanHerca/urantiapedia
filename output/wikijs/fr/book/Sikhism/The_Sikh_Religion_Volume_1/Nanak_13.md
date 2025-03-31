@@ -36,7 +36,7 @@ LA VIE DE GURU NANAK. CHAPITRE XIII
 
 Le gourou tourna alors ses pensées vers Ceylan et réussit à atteindre ce pays, où il prit place dans le jardin de Raja Shivnabh.
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span> À cette époque, le jardin était aride, mais on dit qu'il reverdit à l'arrivée du gourou. Le jardinier demanda au roi d'aller voir le fâqir qui avait fait refleurir le jardin desséché. Le roi envoya de belles demoiselles danser devant le gourou et le tenter par leurs charmes. Le gourou, absorbé par ses pensées, ne leur adressa pas la parole et ne les remarqua pas. Le roi vint lui demander son nom, sa caste et s'il était un Jogi. Le gourou répondit :
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span> À cette époque, le jardin était aride, mais on dit qu'il reverdit à l'arrivée du gourou. Le jardinier demanda au roi d'aller voir le fâqir qui avait fait refleurir le jardin desséché. Le roi envoya de belles demoiselles danser devant le gourou et le tenter par leurs charmes. Le gourou, absorbé par ses pensées, ne leur adressa pas la parole et ne les remarqua pas. Le roi vint lui demander son nom, sa caste et s'il était un Jogi. Le gourou répondit :
 
 Le Jogi qui est associé au Nom et qui est pur, n'a pas une particule d'impureté.
 Celui qui garde avec lui le nom du Bien-aimé, qui est toujours vrai, a échappé à la naissance et à la mort.
@@ -56,7 +56,7 @@ Le roi lui demanda à nouveau s'il était hindou ou musulman. Le gourou poursuiv
 Le Vrai Gourou a résolu le problème des deux voies.
 C'est celui qui fixe son attention sur le Dieu unique, et dont l'esprit ne vacille pas, qui peut le comprendre.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Celui qui demeure dans la Parole et l’adore toujours jour et nuit, a mis fin à ses doutes.
 
@@ -80,7 +80,7 @@ Nanak, mon esprit est satisfait de l'état suprême.
 
 Saido et Gheho ont ensuite écrit le Pransangali de mémoire.
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 À son retour en Inde, le gourou, ayant entendu parler de la foire de Shivrat[^1], se rendit à Achal Batala[^2] pour prêcher ses doctrines. Tout le pays se pressa pour le voir et l'entendre, et lui fit des offrandes. Les Jogis, témoins de son succès, devinrent très jaloux et décidèrent de l'humilier. Bhangarnath, leur supérieur, lui demanda pourquoi il mélangeait de l'acide à son lait, c'est-à-dire pourquoi lui, un saint homme, menait une vie de famille. « Quand le lait tourne », dit Bhangarnath, « le barattage ne produit plus de beurre. Pourquoi as-tu ôté ton habit d'ermite pour revêtir des vêtements ordinaires ? »
 
@@ -88,7 +88,7 @@ Le gourou répondit : « Ô Bhangarnath, ta mère était une femme malhabile. El
 
 Bhangarnath ne répondit pas à la question du gourou, mais aborda un autre sujet : « Ô Nanak, tu as accompli des miracles au monde ; pourquoi tardes-tu à nous les montrer aussi ? » Le gourou répondit : « Je n'ai rien qui vaille la peine de te le montrer. L'homme n'a absolument aucun refuge, si ce n'est dans la compagnie des hymnes du gourou. Si l'homme remulait la terre, cela n'inciterait pas Dieu à lui accorder des faveurs imméritées. Écoute la Parole ; je dis en vérité, je n'ai d'autre miracle que le Vrai Nom.
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 Si je devais revêtir une robe de feu, construire une maison de neige et manger du fer ;
 Si je devais transformer tous mes problèmes en eau, la boire et conduire la terre comme un coursier ;
@@ -103,7 +103,7 @@ Nanak, celui sur qui Dieu regarde avec faveur obtient la gloire du Vrai Nom.'[^3
 Faites de la connaissance divine votre mélasse, de la méditation vos fleurs de dhava, et de bonnes actions votre écorce fermentée[^5] pour y mettre.
 Faites de l'amour de Dieu votre fourneau, de la dévotion le sceau de l'alambic ; ainsi le nectar sera distillé.
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Père, en buvant le jus divin, l'esprit s'enivre et s'absorbe facilement dans l'amour de Dieu.
 J'ai décidé de fixer mon attention sur Dieu jour et nuit, et j'ai entendu le son invincible.
@@ -123,7 +123,7 @@ Qui fait le pèlerinage chacun des trois cent soixante jours de l’année ;
 Qui lave la souillure de l'orgueil de son cœur —
 Nanak dit qu'il est un ermite.
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 Les Jogis demandèrent alors au gourou s'il était un Audhut. Le gourou leur expliqua ce que devait être un Audhut :
 
@@ -155,7 +155,7 @@ Quand il parle, il exprime la sagesse divine
 Il veille jour et nuit dans la contemplation de Dieu
 Il attache une corde à la sphère vacante,[^1]
 Et par la faveur du gourou, il ne meurt jamais.
-Tous les dieux lui rendent hommage <span id="p161">[<sup><small>p. 161</small></sup>]</span>
+Tous les dieux lui rendent hommage <span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 Qui accomplit ainsi le service du Guru,
 Et qui ne permet pas à sa langue de goûter des mets délicats,
 Nanak dit : ce sont les marques d'un Jogi.
@@ -188,7 +188,7 @@ Qui a abandonné la colère, l’avarice et l’orgueil,
 Nanak dit, un tel homme est un Bairagi.
 
 Celui qui demeure solitaire dans la maison de jouissance,
-Et il habite dans la maison de culte— <span id="p162">[<sup><small>p. 162</small></sup>]</span>
+Et il habite dans la maison de culte— <span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 Là où le chat s'enfuit au bruit d'une souris[^1]—
 Nanak dit qu'il est un Bairagi.
 
@@ -214,7 +214,7 @@ La connaissance divine est son bâton, et l'Omniprésent les cendres qu'il étal
 Fais de la louange de Dieu ta prière, de l'instruction du Guru ta secte d'Atits,[^2]
 Le renoncement aux désirs et aux querelles, c'est s'asseoir en contemplation dans la citadelle de Dieu[^3]—
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Du son de ta trompette sortira une mélodie qui te remplira de musique jour et nuit.
 En toute chose est contenue ta lumière, ô Dieu, et ses couleurs sont nombreuses et variées.

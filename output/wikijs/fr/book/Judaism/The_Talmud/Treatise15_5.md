@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p276">[<sup><small>p. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 1\. « Tout doute concernant la lèpre est pur, sauf celui-ci, et encore un autre. Et lequel ? » « Celui chez qui il y avait une tache blanche aussi grande que trois lentilles carrées, et que le prêtre a fermée. Au bout de sept jours, elle était aussi grande qu'une Sélah. [^596] Il est douteux que ce soit cela. Il est douteux qu'une autre lèpre soit passée dessous. Elle est impure. »
 

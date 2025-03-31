@@ -39,7 +39,7 @@ Le printemps est revenu à nouveau :
 Alors le roi, avec un esprit déterminé,
 Son sacrifice est ordonné.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 Il vint à l'anneau de Rishyas et s'inclina
 À celui qui a l'air divin,
@@ -160,7 +160,7 @@ Qui encadre la porte et construit le mur :
 Avec des hommes de tous les arts et de tous les métiers,
 Qui lit les étoiles et manie la bêche,
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Et amenez ici des mimes et des ménestrels,
 Et des demoiselles entraînées à danser et à chanter.
@@ -270,7 +270,7 @@ Ainsi s'adressa-t-il au monarque :
 « Obéissant à ton décret élevé
 Les rois, mon seigneur, sont venus à toi.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Et j'ai eu soin de saluer
 Et honorez tous avec révérence.
@@ -372,7 +372,7 @@ Et ainsi ils crièrent au fils de Raghu :
 Entre les rites, certains brahmanes passaient
 Le temps dans l'argumentation savante,
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 Avec un débit de parole aisé et posé,
 Et désireux de vaincre dans le débat. [^94]
@@ -460,7 +460,7 @@ Les membres coupés du cheval,
 Tout est prêt dans l'ordre.
 Sur des tas de figuiers sacrés élevés
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Les corps des victimes les plus méchantes brûlaient :
 Le coursier, de toutes les créatures tuées,
@@ -501,7 +501,7 @@ S'adressant à ce seigneur immaculé :
 C'est à toi seul de garder l'ensemble
 De cette vaste terre sous contrôle ferme.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Nous ne demandons pas de don de terres de ta part :
 Pour protéger ces royaumes, nos mains étaient faibles.
@@ -623,7 +623,7 @@ Le Seigneur Vishnu vint au conseil ;
 Ses mains portaient des coquillages, des masses et des disques,
 Les robes qu'il portait étaient de couleur safran.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Chevauchant son aigle à travers la foule,
 Comme le soleil chevauche un nuage,
@@ -738,7 +738,7 @@ Quand une vaste forme de puissance terrible,
 D'une splendeur, d'une force et d'une taille incomparables
 Était manifeste devant ses yeux.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 De la flamme sacrificielle,
 Sombre, vêtu de rouge, l'être est venu.
@@ -844,7 +844,7 @@ Ne pas être attrapé par aucun appareil ;
 Expert dans toutes les connaissances et l'utilisation des armes
 Comme ceux qui boivent le jus immortel. [^110]
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 Et que les nymphes soient suprêmes en grâce,
 Et les jeunes filles de la race des ménestrels,
@@ -928,7 +928,7 @@ Un petit singe est né à côté.
 Puis, près du grand monarque des ours se tenait
 Les autres vagabonds du bois,
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Et se tournèrent, cherchant leurs maisons sans chemin,
 Vers la forêt et vers le sommet de la montagne.
@@ -1039,7 +1039,7 @@ Puis, dûment honorés, ils partirent.
 L'anneau du glorieux ermite Rishyas
 Il s'approcha et pria ainsi le roi :
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 « Revenez, mon honoré seigneur, je vous prie,
 «Reviens sur ton chemin de retour.
@@ -1158,7 +1158,7 @@ Son esprit était rempli de désir
 Pour chercher la ville du roi
 Et pour amener son fils dans son berceau.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 Avec de jeunes disciples à ses côtés
 L'ermite se mit en route,
@@ -1247,7 +1247,7 @@ La Mère des Dieux, quand elle
 Le Roi des Immortels [^131] enfanta,
 La divinité qui manie le tonnerre.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 Le beau garçon aux yeux de lotus,
 Il est venu, le féroce Rávan, pour détruire ;
@@ -1349,7 +1349,7 @@ La terre sous les yeux des hommes.
 Maintenant, l'esprit pieux de Das'aratha
 Rencontrez le mariage pour ses fils conçus;
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Avec des prêtres et des amis, le roi commença
 Pour le conseiller et préparer son plan.

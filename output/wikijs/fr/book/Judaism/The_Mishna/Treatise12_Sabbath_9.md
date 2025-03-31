@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 1. R. Akivah dit : « D'où peut-on déduire que porter une idole rend impur, comme le font les règles ? » D'après le texte : « Tu les jetteras comme un linge menstruel ; tu lui diras à l'idole : « Sors d'ici. » [^121] De même que porter un linge menstruel souille, ainsi le fait de porter une idole le fait. »
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 § 2. D'où peut-on déduire qu'un navire est pur ? D'après le texte : « Le chemin d'un navire au cœur de la mer. » [^122] D'où peut-on déduire que dans un carré de six mains, on peut semer cinq sortes de graines différentes ; quatre aux quatre coins du carré, et la cinquième au milieu ? [^123] D'après le texte : « Car comme la terre fait germer ses bourgeons, et comme le jardin fait germer ses graines. » [^124] Le texte ne dit pas ‏זַרְעָהּ‎ \[sa semence, au singulier, comme si elle n'était que d'une seule espèce\], mais ‏זְרוּעֶיהָ‎, \[ses semences de diverses espèces\].
 

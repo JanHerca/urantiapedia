@@ -42,7 +42,7 @@ Dans cette division, nous avons trente et une odes sacrificielles de Kâu, organ
 
 CÉLÉBRANT LA MANIÈRE RÉVÉRENTIELLE AVEC LAQUELLE UN SACRIFICE AU ROI WĂN A ÉTÉ ACCOMPLI, ET LE LOUANT EN OUTRE.
 
-Les critiques chinois s'accordent à attribuer ce morceau au sacrifice mentionné dans le Shû, à la fin du treizième livre de la cinquième partie, lorsque, la construction de Lo étant terminée, le roi <i>Kh</i>ăng vint à <span id="p314">[<sup><small>p. 314</small></sup>]</span> la nouvelle ville et offrit un taureau rouge à Wăn, puis à Wû. Il me semble qu'il a été chanté en l'honneur de Wăn, après la fin du service. Cette détermination de la raison de l'acceptation du morceau nous amène à le reporter à 1108 av. J.-C.
+Les critiques chinois s'accordent à attribuer ce morceau au sacrifice mentionné dans le Shû, à la fin du treizième livre de la cinquième partie, lorsque, la construction de Lo étant terminée, le roi <i>Kh</i>ăng vint à <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> la nouvelle ville et offrit un taureau rouge à Wăn, puis à Wû. Il me semble qu'il a été chanté en l'honneur de Wăn, après la fin du service. Cette détermination de la raison de l'acceptation du morceau nous amène à le reporter à 1108 av. J.-C.
 
 Oh ! le temple ancestral est solennel dans son silence pur. Respectueux et harmonieux étaient les assistants distingués [^345] ; nombreux étaient les officiers [^346] : (Tous) disciples assidus de la vertu du (roi Wăn). En réponse à lui au ciel, ils se hâtèrent majestueusement dans le temple. Il est distingué et honoré, et il ne sera jamais lassé parmi les hommes.
 
@@ -122,7 +122,7 @@ Est-ce que je ne révère pas, nuit et jour, la majesté du Ciel, pour ainsi pr�
 
 APPROPRIÉ AU SACRIFICAT DU ROI WÛ AU CIEL ET AUX ESPRITS DES COLLINES ET DES RIVIÈRES, LORS D'UNE PROGRESSION À TRAVERS LE ROYAUME, APRÈS LE RENVERSEMENT DE LA DYNASTIE SHANG.
 
-Ici encore, les critiques s'accordent. Nous découvrons, d'après le Ȝo <i>K</i>wan et les « Récits des États », que le morceau <span id="p318">[<sup><small>p. 318</small></sup>]</span> était, lors de ces compilations, considéré comme l'œuvre du duc de <i>K</i>âu ; et, sans aucun doute, il l'a composé peu après l'accession de Wû au royaume, et alors qu'il faisait des progrès royaux en affirmant qu'il était désigné par le Ciel pour succéder aux dirigeants de Shang. Le « I » de la quatorzième ligne est, très probablement, à prendre pour le duc de <i>K</i>âu, qui a peut-être récité le morceau à l'occasion des sacrifices, en présence des princes et des seigneurs assemblés.
+Ici encore, les critiques s'accordent. Nous découvrons, d'après le Ȝo <i>K</i>wan et les « Récits des États », que le morceau <span id="p318"><sup><small>[ p. 318 ]</small></sup></span> était, lors de ces compilations, considéré comme l'œuvre du duc de <i>K</i>âu ; et, sans aucun doute, il l'a composé peu après l'accession de Wû au royaume, et alors qu'il faisait des progrès royaux en affirmant qu'il était désigné par le Ciel pour succéder aux dirigeants de Shang. Le « I » de la quatorzième ligne est, très probablement, à prendre pour le duc de <i>K</i>âu, qui a peut-être récité le morceau à l'occasion des sacrifices, en présence des princes et des seigneurs assemblés.
 
 Il fait maintenant des progrès dans ses états ; que le Ciel le traite comme son fils !
 
@@ -130,7 +130,7 @@ En vérité, l'honneur et la succession reviennent à la Maison de Kâu. Tous r�
 
 Brillante et illustre est la Maison de Kâu. Il a réglé les positions des princes ; il a fait appel à des boucliers et des lances ; il a remis à leurs étuis des arcs et des flèches [^352]. Il cultivera une vertu admirable et la manifestera dans ces vastes régions. Le roi préservera véritablement sa nomination.
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 <a id="o19"></a>
 
@@ -154,7 +154,7 @@ La bénédiction est abondante. Notre conduite est rigoureuse et exacte ; nous a
 
 APPROPRIÉ À L'UN DES SACRIFICES FRONTIÈRES, LORSQUE HÂU-<i>K</i>Î ÉTAIT ADORÉ COMME LE CORRÉLAT DE DIEU, ET LE CÉLÉBRANT.
 
-Hâu-_k_î était le même que <i>Kh</i>î, qui apparaît dans la deuxième partie du Shû comme ministre de l'Agriculture de Yâo et Shun, et qui coopère avec <span id="p320">[<sup><small>p. 320</small></sup>]</span> Yü dans ses travaux sur les terres inondées. Le nom Hâu lui appartient en tant que seigneur de Thâi ; celui de <i>K</i>î, en tant que ministre de l'Agriculture. Quelle que soit l'origine de la combinaison, Hâu-_k_î devint historiquement le nom de <i>Kh</i>î de l'époque de Yâo et Shun, l'ancêtre auquel les rois de <i>K</i>âu faisaient remonter leur lignée. Il était pour le peuple le Père de l'Agriculture, qui le premier enseigna aux hommes à labourer, semer et moissonner. C'est pourquoi, lorsque les rois offraient des sacrifices et des prières à Dieu au début du printemps pour qu'il bénisse les travaux de l'année, ils associaient Hâu-_k_î à lui lors du service.
+Hâu-_k_î était le même que <i>Kh</i>î, qui apparaît dans la deuxième partie du Shû comme ministre de l'Agriculture de Yâo et Shun, et qui coopère avec <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> Yü dans ses travaux sur les terres inondées. Le nom Hâu lui appartient en tant que seigneur de Thâi ; celui de <i>K</i>î, en tant que ministre de l'Agriculture. Quelle que soit l'origine de la combinaison, Hâu-_k_î devint historiquement le nom de <i>Kh</i>î de l'époque de Yâo et Shun, l'ancêtre auquel les rois de <i>K</i>âu faisaient remonter leur lignée. Il était pour le peuple le Père de l'Agriculture, qui le premier enseigna aux hommes à labourer, semer et moissonner. C'est pourquoi, lorsque les rois offraient des sacrifices et des prières à Dieu au début du printemps pour qu'il bénisse les travaux de l'année, ils associaient Hâu-_k_î à lui lors du service.
 
 Ô Hâu-_k_î accompli, tu t'es révélé le corrélat du Ciel. Tu as donné du grain à nos multitudes : immense don de ta bonté. Tu nous as conféré le blé et l'orge que Dieu avait destinés à la nourriture de tous. Et sans distinction de territoire ni de frontière, les règles du devoir social se sont répandues dans ces vastes régions.
 
@@ -181,7 +181,7 @@ INSTRUCTIONS SUPPLÉMENTAIRES AUX OFFICIERS DE L'ÉLEVAGE.
 
 Il est encore difficile de déterminer à quel sacrifice ce morceau doit être rattaché. La préface indique qu'il était chanté lors des sacrifices du roi à Dieu, au printemps et en été, pendant une bonne année. Mais la note sur les deux premiers vers montre que ce point de vue ne peut être accepté sans modification.
 
-Oh ! oui, le roi <i>Kh</i>ăng [^355] S'approcha avec éclat [^355]. Conduisez vos cultivateurs Pour semer leurs différentes sortes de céréales, Allant travailler vigoureusement <span id="p322">[<sup><small>p. 322</small></sup>]</span> sur vos champs privés [^356], Partout sur les trente lî [^357]. Occupez-vous de vos labours, Avec vos dix mille hommes tous par paires.
+Oh ! oui, le roi <i>Kh</i>ăng [^355] S'approcha avec éclat [^355]. Conduisez vos cultivateurs Pour semer leurs différentes sortes de céréales, Allant travailler vigoureusement <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> sur vos champs privés [^356], Partout sur les trente lî [^357]. Occupez-vous de vos labours, Avec vos dix mille hommes tous par paires.
 
 <a id="o23"></a>
 
@@ -195,7 +195,7 @@ Une volée d'aigrettes vole, autour du marais là-bas à l'ouest [^358]. Mes vis
 
 Là, (dans leurs États), pas détestés, Ici, (à Kâu), jamais fatigués ; — Ils sont sûrs, jour et nuit, De perpétuer leur renommée.
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 <a id="o24"></a>
 
@@ -217,7 +217,7 @@ Les critiques s'accordent à dire que cette pièce fut composée à l'occasion d
 
 Il y a les musiciens aveugles; il y a les musiciens aveugles; Dans la cour de (le temple de) <i>K</i>âu. [^359]
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 Il y a les cadres de musique avec leurs façades et leurs poteaux, le haut bord dentelé (du premier), et les plumes plantées (dans le second) ; avec les tambours, grands et petits, qui y sont suspendus ; et les tambours à main et les pierres sonores, l'instrument qui donne le signal du début, et le bouchon. Tout cela étant terminé, la musique est entamée. La flûte de Pan et la double flûte commencent en même temps [^360].
 
@@ -247,7 +247,7 @@ Ils viennent pleins d'harmonie ; Ils sont ici dans toute leur gravité ; — Les
 
 Avec une sagesse pénétrante, tu as joué le rôle d'un homme. Un souverain doté des dons de paix et de guerre, donnant le repos même au grand Ciel [^361], et assurant la prospérité à tes descendants.
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 « Tu me réconfortes avec les sourcils de la longévité ; Tu me rends grand avec de multiples bénédictions, j'offre ce sacrifice à mon père méritant, Et à ma mère accomplie [^362]. »
 
@@ -259,7 +259,7 @@ APPROPRIÉ À UNE OCCASION OÙ LES PRINCES FÉODAUX AVAIENT ASSISTÉ LE ROI <i>K
 
 Ils se présentèrent devant leur roi souverain, pour lui demander les règles qu'ils devaient observer. Avec leurs bannières ornées de dragons, flottant avec éclat, les clochettes et les panneaux avant tintant, et les anneaux aux extrémités des rênes scintillants, leur majesté et leur splendeur étaient admirables.
 
-Il les fit comparaître devant le sanctuaire de son père, à gauche [^363], où il s'acquitta de son devoir filial et présenta ses offrandes, afin de lui accorder une longue vie et de préserver à jamais sa dignité. Grandes et nombreuses sont ses bénédictions. Ce sont les princes brillants et accomplis, qui l'encouragent de ses nombreuses sources de bonheur, <span id="p327">[<sup><small>p. 327</small></sup>]</span>, lui permettant de les perpétuer dans leur éclat comme une pure bénédiction.
+Il les fit comparaître devant le sanctuaire de son père, à gauche [^363], où il s'acquitta de son devoir filial et présenta ses offrandes, afin de lui accorder une longue vie et de préserver à jamais sa dignité. Grandes et nombreuses sont ses bénédictions. Ce sont les princes brillants et accomplis, qui l'encouragent de ses nombreuses sources de bonheur, <span id="p327"><sup><small>[ p. 327 ]</small></sup></span>, lui permettant de les perpétuer dans leur éclat comme une pure bénédiction.
 
 <a id="o29"></a>
 
@@ -274,7 +274,7 @@ Le noble visiteur ! Le noble visiteur ! Tiré, comme ses ancêtres, par des chev
 Le noble hôte ne restera qu'une nuit ou deux ! Le noble hôte ne restera que deux nuits ou quatre ! Donnez-lui des cordes, pour attacher ses chevaux [^364].
 
 Je l'accompagnerai (par un festin d'adieu) ; je le réconforterai de toutes les manières possibles. Orné d'une si grande dignité, il est tout naturel qu'il soit béni.
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 <a id="o210"></a>
 
@@ -319,7 +319,7 @@ Je prends conseil, dès le début de mon règne, pour savoir comment suivre l'ex
 
 LE ROI KHANG MONTRE SON SENS DE CE QUI ÉTAIT EXIGÉ DE LUI POUR PRÉSERVER LA FAVEUR DU CIEL, UN JUGE CONSTANT ; INTIME SES BONS DEsseINS ; ET DEMANDE L'AIDE DE SES MINISTRES POUR ÊTRE CAPABLE DE LES ACCOMPLIR.
 
-Que je sois respectueux ! Que je sois respectueux ! (La voie du) Ciel est évidente, Et son affectation <span id="p330">[<sup><small>p. 330</small></sup>]</span> n'est pas facile à préserver [^365]. Que je ne dise pas qu'elle est très haut au-dessus de moi. Elle monte et descend au-dessus de nos actions ; Elle nous inspecte quotidiennement où que nous soyons.
+Que je sois respectueux ! Que je sois respectueux ! (La voie du) Ciel est évidente, Et son affectation <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> n'est pas facile à préserver [^365]. Que je ne dise pas qu'elle est très haut au-dessus de moi. Elle monte et descend au-dessus de nos actions ; Elle nous inspecte quotidiennement où que nous soyons.
 
 Je suis un petit enfant, sans intelligence, qui doit être respectueux (attentif à mes devoirs) ; mais par des progrès quotidiens et mensuels, j'apprendrai à retenir les lueurs (du savoir), jusqu'à ce que j'atteigne une intelligence brillante. Aide-moi à supporter le fardeau (de ma position), et montre-moi comment afficher une conduite vertueuse.
 
@@ -345,7 +345,7 @@ Ils arrachent l'herbe et les buissons, et la terre est ouverte par leurs charrue
 
 Par milliers de couples, ils enlèvent les racines, certaines dans les terres basses et humides, d'autres le long des digues.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Il y a le maître et son fils aîné ; ses fils cadets et tous leurs enfants ; leurs vaillants aides et leurs mercenaires. Comme résonne le bruit des mets qu'on leur apporte ! (Les maris) pensent avec amour à leurs femmes ; (Les femmes) restent proches de leurs maris. (Puis) avec leurs socs de charrue tranchants, ils se mettent au travail dans les terres exposées au sud.
 
@@ -371,7 +371,7 @@ Très pointues sont les excellentes parts, Avec lesquelles ils se mettent au tra
 
 Ils sèment leurs différentes sortes de céréales, chaque graine contenant en elle un germe de vie.
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 Il y a ceux qui viennent les voir, Avec leurs paniers ronds et carrés, Contenant les provisions de mil.
 
@@ -391,7 +391,7 @@ Ces cent maisons étant pleines, les femmes et les enfants ont un sentiment de r
 
 UNE ODE APPROPRIÉE AUX PRÉPARATIFS ET AU DÉROULEMENT D'UN FÊTE APRÈS UN SACRIFICE.
 
-La préface et les éditeurs du Yung-_kh_ăng Shih indiquent que l'œuvre fait référence au divertissement offert, le lendemain d'un <span id="p334">[<sup><small>p. 334</small></sup>]</span> sacrifice, dans le temple ancestral, aux personnificateurs des morts, décrit à la [p. 301](Shih_King_Part1_Intro#p301). <i>K</i>û Hsî le nie et soutient simplement qu'il s'agit du festin qui suit un sacrifice, sans préciser davantage lequel. L'ancien point de vue est probablement le plus correct.
+La préface et les éditeurs du Yung-_kh_ăng Shih indiquent que l'œuvre fait référence au divertissement offert, le lendemain d'un <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> sacrifice, dans le temple ancestral, aux personnificateurs des morts, décrit à la [p. 301](Shih_King_Part1_Intro#p301). <i>K</i>û Hsî le nie et soutient simplement qu'il s'agit du festin qui suit un sacrifice, sans préciser davantage lequel. L'ancien point de vue est probablement le plus correct.
 
 Dans ses robes de soie, propres et brillantes, avec sa casquette sur la tête, l'air si respectueux, il va du hall au pied de l'escalier, et (puis) ​​des moutons aux bœufs [^369]. (Il inspecte) les trépieds, grands et petits, et le gobelet courbé en corne de rhinocéros [^370]. Les bons esprits sont doux, (mais) il n'y a pas de bruit, pas d'insolence : un auspice (ceci) de grande longévité.
 

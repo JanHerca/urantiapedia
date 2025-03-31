@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 VINGT-SIXIÈME LEÇON. LE COMPORTEMENT CORRECT.
 
@@ -44,7 +44,7 @@ Français L'âva<i>s</i>yikâ est requis lorsqu'on quitte une pièce (ou la pré
 
 Après le lever du soleil pendant le premier quartier (du premier Paurushî) [^361], il doit inspecter (et nettoyer) ses affaires et présenter ses respects au supérieur. (8)
 
-Puis, les mains jointes, il devrait lui demander : <span id="p143">[<sup><small>p. 143</small></sup>]</span> « Que dois-je faire maintenant ? Je désire être employé, monsieur, à faire un travail ou à étudier. » (9)
+Puis, les mains jointes, il devrait lui demander : <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> « Que dois-je faire maintenant ? Je désire être employé, monsieur, à faire un travail ou à étudier. » (9)
 
 S'il lui est ordonné de faire un travail, il doit le faire sans se fatiguer ; s'il lui est ordonné d'étudier, il doit le faire sans se laisser affecter par aucune douleur. (10)
 
@@ -58,7 +58,7 @@ Au mois d'Âshâ<i>dh</i>a, le Paurushî (de la nuit) contient deux pieds (pada)
 
 La quinzaine sombre d'Âshâ<i>dh</i>a, Bhâdrapada, Kârttika, Pausha, Phâlguna et Vai<i>s</i>âkha sont connues sous le nom d'avamarâtrâs [^364]. (15)
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 Au cours du trimestre de l'année comprenant les trois mois <i>G</i>yêsh<i>th</i>âmûla, Âshâ<i>dh</i>a et <i>S</i>râva<i>n</i>a, l'inspection (matinale) doit durer six chiffres (au-delà de ¼ Paurushî) ; au deuxième trimestre, huit ; au troisième, dix ; au quatrième, huit [^365]. (16)
 
@@ -72,7 +72,7 @@ Lorsqu'il reste une petite partie du quartier [^367], dans lequel se trouve le n
 
 Au cours du premier trimestre (du premier Paurushî), il doit inspecter (et nettoyer) ses affaires, présenter ses respects à son supérieur, puis commencer à étudier, sans se laisser affecter par aucune douleur [^369]. (21)
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Dans le (dernier) quart du premier Paurushî, après avoir rendu hommage au Guru, un moine doit inspecter son bol d'aumône, sans toutefois accomplir le Kâla-pratikrama<i>n</i>a [^370]. (22)
 
@@ -84,7 +84,7 @@ Debout, il tient fermement son tissu et l'inspecte d'abord tranquillement, puis 
 
 Il doit éviter de manquer d'attention : 1. en commençant son travail ; 2. en relevant les coins du tissu ; 3. en le pliant ; 4. en secouant la poussière ; 5. en le posant (sur un autre morceau de tissu) ; 6. en s'asseyant sur les hanches [^374]. (26)
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 (Il faut en outre éviter) de tenir le tissu lâchement, ou par un coin, ou de manière à le laisser flotter, ou de manière à le soumettre à un frottement, ou de manière à le secouer de différentes manières, ou si l'on s'est trompé dans le nombre de plis (voir verset 25) de compter (à voix haute ou à l'aide des doigts, etc.) [^375] (27)
 
@@ -96,7 +96,7 @@ Celui qui est attentif dans l'inspection protège les six types d'êtres vivants
 
 Celui qui néglige l'inspection nuit aux six espèces d'êtres vivants (qui viennent d'être énumérés) [^377]. (31)
 
-Dans le troisième Paurushî, il doit mendier de la nourriture et des boissons, (il peut le faire) pour l'une des six raisons suivantes : (32) <span id="p147">[<sup><small>p. 147</small></sup>]</span> 1. Pour prévenir une maladie ; 2. pour servir le Guru ; 3. pour être capable de se conformer aux règles concernant la marche [^378] ; 4. pour être capable de se conformer aux règles de maîtrise de soi [^379] ; 5. pour sauver sa vie ; 6. pour être capable de méditer sur la Loi. (33)
+Dans le troisième Paurushî, il doit mendier de la nourriture et des boissons, (il peut le faire) pour l'une des six raisons suivantes : (32) <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> 1. Pour prévenir une maladie ; 2. pour servir le Guru ; 3. pour être capable de se conformer aux règles concernant la marche [^378] ; 4. pour être capable de se conformer aux règles de maîtrise de soi [^379] ; 5. pour sauver sa vie ; 6. pour être capable de méditer sur la Loi. (33)
 
 Un Nirgrantha ou Nirgranthî zélé peut omettre de mendier de la nourriture pour les six raisons suivantes, lorsque cela ne sera pas considéré comme une transgression de ses devoirs : (34)
 
@@ -110,7 +110,7 @@ Dans le dernier quart du quatrième Paurushî, il doit rendre hommage au Guru, e
 
 Un moine zélé doit également inspecter l'endroit où il doit évacuer ses excréments et son urine, puis (jusqu'au coucher du soleil) il doit parcourir Kâyôtsarga sans se laisser affecter par aucune douleur. (39)
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Il doit ensuite, dans l’ordre approprié, réfléchir à toutes les transgressions qu’il a commises au cours de la journée, en ce qui concerne la connaissance, la foi et la conduite. (40)
 
@@ -126,7 +126,7 @@ Dans le quatrième Paurushî, il doit attendre le moment opportun et commencer �
 
 Dans le dernier quart du quatrième Paurushî, il doit rendre hommage au Guru et, en accomplissant Kâla-pratikrama<i>n</i>a [^385], il doit attendre le moment opportun. (46)
 
-Lorsque le (temps pour) Kâyôtsarga est arrivé, il <span id="p149">[<sup><small>p. 149</small></sup>]</span> doit le traverser, sans se laisser affecter par aucune douleur. (47)
+Lorsque le (temps pour) Kâyôtsarga est arrivé, il <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> doit le traverser, sans se laisser affecter par aucune douleur. (47)
 
 Il doit ensuite, dans l'ordre approprié, réfléchir à toutes les transgressions qu'il a commises pendant la nuit en ce qui concerne la connaissance, la foi et la conduite. (48)
 

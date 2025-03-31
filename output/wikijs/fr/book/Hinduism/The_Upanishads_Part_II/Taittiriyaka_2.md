@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 DEUXIÈME VALLÎ, OU, LE CHAPITRE SUR ÂNANDA (LA FÉLICITÉ).
 
@@ -44,7 +44,7 @@ Celui qui connaît le Brahman atteint le plus haut (Brahman). À ce sujet, le ve
 
 « Celui qui connaît Brahman, qui est (c'est-à-dire cause, non effet), qui est conscient, qui est sans fin, comme caché dans la profondeur (du cœur), dans l'éther le plus élevé, il jouit de toutes les bénédictions, en un avec le Brahman omniscient. »
 
-De ce Soi [^213] (Brahman) jaillit l'éther (âkâ<i>s</i>a, ce par quoi nous entendons) ; de l'éther l'air (ce par quoi nous entendons et ressentons) ; de l'air le feu (ce par quoi nous entendons, ressentons et voyons) ; du feu l'eau (ce par quoi nous entendons, sentons, voyons et goûtons) ; de l'eau la terre (ce par quoi nous entendons, sentons, voyons, goûtons et sentons). De la terre les herbes, des herbes la nourriture, de la nourriture la graine, de la graine l'homme. L'homme est ainsi constitué de l'essence de la nourriture. Ceci est sa tête, <span id="p55">[<sup><small>p. 55</small></sup>]</span> ceci son bras droit, ceci son bras gauche, ceci son tronc (Âtman), ceci le siège (le support) [1](Taittiriyaka_2#fn214).
+De ce Soi [^213] (Brahman) jaillit l'éther (âkâ<i>s</i>a, ce par quoi nous entendons) ; de l'éther l'air (ce par quoi nous entendons et ressentons) ; de l'air le feu (ce par quoi nous entendons, ressentons et voyons) ; du feu l'eau (ce par quoi nous entendons, sentons, voyons et goûtons) ; de l'eau la terre (ce par quoi nous entendons, sentons, voyons, goûtons et sentons). De la terre les herbes, des herbes la nourriture, de la nourriture la graine, de la graine l'homme. L'homme est ainsi constitué de l'essence de la nourriture. Ceci est sa tête, <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> ceci son bras droit, ceci son bras gauche, ceci son tronc (Âtman), ceci le siège (le support) [1](Taittiriyaka_2#fn214).
 
 Il y a également le <i>S</i>loka suivant à ce sujet :
 
@@ -60,7 +60,7 @@ Ceux qui vénèrent la nourriture comme Brahman [^216] obtiennent toute nourritu
 Il y a également le <i>S</i>loka suivant à ce sujet :
 
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 ## TROISIÈME ANUVÂKA.
 
@@ -78,7 +78,7 @@ Celui qui connaît la félicité de ce Brahman, d'où toute parole, avec l'espri
 
 À la différence de ce Soi intérieur, qui est constitué par l'esprit, se trouve l'autre, le Soi intérieur, constitué par la compréhension. Le premier est rempli de cela. Il a également la forme humaine. La forme humaine du premier est celle du second. La foi est sa tête. La justice est son bras droit. La vérité est son bras gauche.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 L'absorption (yoga) est son tronc. Le grand (intellect ?) est le siège (le support).
 
@@ -104,7 +104,7 @@ Viennent ensuite les questions de l'élève :
 
 « Est-ce que quelqu'un qui ne sait pas, après avoir quitté cette vie, retourne jamais dans ce monde ? Ou est-ce que celui qui sait, après avoir quitté cette vie, retourne jamais dans ce monde ? »
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 La réponse est : Il souhaita : « Puissé-je être multiple [1](Taittiriyaka_2#fn219), puissé-je croître. » Il médita sur lui-même (comme un homme faisant pénitence). Après avoir ainsi médité, il envoya (créa) tout, quoi qu'il y ait. Ayant envoyé, il y entra. Ayant pénétré, il devint sat (ce qui est manifeste) et tyat (ce qui n'est pas manifeste), défini et indéfini, soutenu et non soutenu, (doté de) connaissance et sans connaissance (comme des pierres), réel et irréel [2](Taittiriyaka_2#fn220). Le Sattya (vrai) devint tout cela, et c'est pourquoi les sages l'appellent (le Brahman) Sat-tya (le vrai).
 
@@ -113,7 +113,7 @@ La réponse est : Il souhaita : « Puissé-je être multiple [1](Taittiriyaka_2#
 
 ## SEPTIÈME ANUVÂKA.
 
-« Au commencement, ceci était inexistant (pas encore défini par la forme et le nom). De cela est né ce qui existe. Cela s'est fait son Soi, c'est pourquoi on l'appelle l'Auto-créé [^221]. » Ce qui est Auto-créé est une saveur [^222] (qui peut être goûtée), car ce n'est qu'après avoir perçu une saveur que l'on peut percevoir le plaisir. Qui pourrait respirer, qui pourrait expirer, si cette félicité (Brahman) <span id="p59">[<sup><small>p. 59</small></sup>]</span> n'existait pas dans l'éther (dans le cœur) ? Car lui seul cause la béatitude.
+« Au commencement, ceci était inexistant (pas encore défini par la forme et le nom). De cela est né ce qui existe. Cela s'est fait son Soi, c'est pourquoi on l'appelle l'Auto-créé [^221]. » Ce qui est Auto-créé est une saveur [^222] (qui peut être goûtée), car ce n'est qu'après avoir perçu une saveur que l'on peut percevoir le plaisir. Qui pourrait respirer, qui pourrait expirer, si cette félicité (Brahman) <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> n'existait pas dans l'éther (dans le cœur) ? Car lui seul cause la béatitude.
 
 Lorsqu'il trouve la liberté et le repos dans ce qui est invisible, incorporel, indéfini, sans fondement, alors il atteint l'intrépidité. Car s'il y fait la moindre distinction, il éprouve de la peur [^223]. Mais cette peur n'existe que pour celui qui se croit sage [^224] (et non pour le véritable sage).
 
@@ -128,7 +128,7 @@ Voici maintenant un examen de (ce que l’on entend par) Béatitude (ânanda) :
 
 Qu'il y ait un jeune homme noble, qui soit bien lu (dans le Véda), très rapide, ferme et fort, et que le monde entier soit rempli de richesses pour lui, c'est une mesure du bonheur humain.
 
-Cent fois plus de bonheur humain (2) est une mesure du bonheur des Gandharvas humains (génies), <span id="p60">[<sup><small>p. 60</small></sup>]</span> et de même d'un grand sage (érudit dans les Védas) qui est libre de désirs.
+Cent fois plus de bonheur humain (2) est une mesure du bonheur des Gandharvas humains (génies), <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> et de même d'un grand sage (érudit dans les Védas) qui est libre de désirs.
 
 Cent fois la félicité des Gandharvas humains est une mesure de la félicité des Gandharvas divins (génies), et de même celle d'un grand sage qui est libre de désirs.
 
@@ -146,18 +146,18 @@ Cent fois la félicité d'Indra est une mesure de la félicité de Birhaspati, e
 
 Cent fois la félicité de B<i>ri</i>haspati est une mesure de la félicité de Pra<i>g</i>âpati, et de même celle d'un grand sage qui est libre de désirs.
 
-Cent fois la félicité de Pra<i>g</i>âpati est une <span id="p61">[<sup><small>p. 61</small></sup>]</span> mesure de la félicité de Brahman, et également d'un grand sage qui est libre de désirs.
+Cent fois la félicité de Pra<i>g</i>âpati est une <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> mesure de la félicité de Brahman, et également d'un grand sage qui est libre de désirs.
 
 (5) Celui [^226] qui est ceci (Brahman) dans l'homme, et celui qui est cela (Brahman) dans le soleil, tous deux sont un [^227].
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 Celui qui sait cela, lorsqu'il a quitté ce monde, atteint et comprend le Soi qui consiste en nourriture, le Soi qui consiste en souffle, le Soi qui consiste en esprit, le Soi qui consiste en compréhension, le Soi qui consiste en félicité.
 
 À ce sujet, il y a aussi ce <i>S</i>loka :
 
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 ## NEUVIÈME ANUVÂKA [^231].
 

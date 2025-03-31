@@ -32,7 +32,7 @@ dateCreated: 2024-11-21T10:26:39Z
   </table>
 </figure>
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 _Alexandre :_ dans la poésie persane le type du plus heureux, comme Darius l'est du plus malheureux.
 
@@ -42,7 +42,7 @@ _Diwan :_ un Diwan consiste en une série de groupes de ghazals _(q.v.),_ la pre
 
 Ferhad, amant célèbre dans les contes orientaux. Il aimait Shirin (la douce), qui était la femme du roi Khosru, vers la fin du VIe siècle. C'était un sculpteur renommé dans toute la Perse. Le roi, craignant sa rivalité, essaya de le distraire de sa passion et chercha à lui trouver une tâche impossible. Comme Shirin avait demandé une « rivière de lait », il fut chargé d'enlever les rochers qui obstruaient le passage de la grande montagne de Beysitoun et de faire se rejoindre les rivières des deux côtés de la montagne. Ferhad accepta à condition que, s'il réussissait, Shirin lui serait donnée. Pendant des années, il travailla et creusa de merveilleuses cavernes, que l'on peut encore voir aujourd'hui ; et le Joui-shir (ruisseau de lait) coule toujours de la montagne entre Hamadân et Hulwân. Il ne restait plus que quelques jours de travail à faire, lorsque le roi entendit des rumeurs selon lesquelles le projet réussissait : il envoya alors un messager annoncer à Ferhad la mort de Shirin. A cette nouvelle, Ferhad mourut, certains disent en se tuant avec sa hache, d'autres disent en se jetant dans un précipice.
 
-_Ghazal_ ou _gazel_ : forme de vers écrite en une succession de distiques. Les deux premiers vers riment, et des distiques suivants, le premier vers ne rime pas, le second rime avec le premier distique, et ainsi de suite tout au long du poème ; de sorte que, dans tout le poème, tous les mots qui riment riment entre eux. Lorsque cette forme de vers ne comprend que quatre vers, on l'appelle un <span id="p110">[<sup><small>p. 110</small></sup>]</span> _Rubai_. La longueur d'un ghazal varie, mais on ne suppose pas qu'elle dépasse dix-huit distiques. Souvent, les distiques d'un ghazal n'ont aucun lien apparent et sont complets en eux-mêmes. Le dernier distique contient généralement le nom du poète.
+_Ghazal_ ou _gazel_ : forme de vers écrite en une succession de distiques. Les deux premiers vers riment, et des distiques suivants, le premier vers ne rime pas, le second rime avec le premier distique, et ainsi de suite tout au long du poème ; de sorte que, dans tout le poème, tous les mots qui riment riment entre eux. Lorsque cette forme de vers ne comprend que quatre vers, on l'appelle un <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> _Rubai_. La longueur d'un ghazal varie, mais on ne suppose pas qu'elle dépasse dix-huit distiques. Souvent, les distiques d'un ghazal n'ont aucun lien apparent et sont complets en eux-mêmes. Le dernier distique contient généralement le nom du poète.
 
 _Hatim_ ou _Hatim Tai_ : chef arabe célèbre pour sa générosité : il ne refusait jamais une demande. Il est né au Yémen, en Arabie Heureuse, à l'époque pré-musulmane. Quelqu'un lui demanda sa tête, il la donna et mourut ainsi.
 
@@ -56,7 +56,7 @@ _Kafir :_ un incroyant ; celui qui n'est pas musulman.
 
 _Kaikobad :_ un sultan de la dynastie seldjoukide, réputé non seulement pour ses guerres réussies, mais aussi comme un grand constructeur de palais.
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 Kerbela : lieu du massacre de Hussein, petit-fils du Prophète, et de ses enfants par les Ommeyyades. Elle est située en Mésopotamie, près de la rive occidentale du Tigre, à quarante-cinq kilomètres des ruines de Babylone. C'est un grand lieu de pèlerinage pour les chiites, qui soutiennent que la direction spirituelle de l'islam revient à Ali, gendre de Mahomet, et à ses descendants. Le tombeau de Hussein se trouve dans une grande mosquée et chaque année deux cent mille pèlerins de toutes les parties du monde musulman la visitent, portant parfois les os de leurs ancêtres pour y être enterrés. L'histoire de la mort de Hussein est lue chaque année, et parfois jouée comme une pièce miraculeuse, dans les communautés chiites, avec beaucoup de lamentations et de tristesse, le dixième jour des célébrations du Mohurrum.
 
@@ -78,7 +78,7 @@ _Masiha:_ Messie. Jésus est connu dans la tradition musulmane comme le guériss
 
 _Phœnix_ : oiseau fabuleux, de grande taille et de grande beauté, habitant habituellement les montagnes du Caucase, mais n'apparaissant qu'à de très rares intervalles. S'il déploie ses ailes au-dessus de la tête d'un homme, il devient roi. On supposait qu'il vivait dix-sept cents ans, et il n'en existait qu'un seul à la fois dans le monde.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Rustum : fils de Zal, prince du Seistan : héros traditionnel de la Perse, célèbre pour sa force et sa bravoure indomptables. Il a vaincu les Dives, ou esprits maléfiques, et accompli d'autres prouesses miraculeuses, comparables aux travaux d'Hercule. Il est le héros du Shah-Nameh de Firdausi.
 

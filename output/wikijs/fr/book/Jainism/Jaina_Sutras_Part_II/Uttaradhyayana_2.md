@@ -36,7 +36,7 @@ DEUXIÈME CONFÉRENCE. SUR LES TROUBLES [^72].
 
 Ô toi qui vis longtemps (<i>G</i>ambûsvâmin) ! J'ai (Sudharman) entendu le discours suivant [^73] du Vénérable (Mahâvîra) :
 
-Ici [^74], en vérité, le Vénérable Ascète Mahâvîra du Kâsyapa Gôtra a déclaré vingt-deux troubles qu'un moine doit apprendre et connaître, supporter et vaincre, afin de ne pas être vaincu par eux lorsqu'il vit la vie d'un mendiant errant. <span id="p9">[<sup><small>p. 9</small></sup>]</span> Voici donc les vingt-deux troubles déclarés par le Vénérable Ascète Mahâvîra, qu'un moine doit apprendre et connaître, supporter et vaincre, afin de ne pas être vaincu par eux lorsqu'il vit la vie d'un mendiant errant :
+Ici [^74], en vérité, le Vénérable Ascète Mahâvîra du Kâsyapa Gôtra a déclaré vingt-deux troubles qu'un moine doit apprendre et connaître, supporter et vaincre, afin de ne pas être vaincu par eux lorsqu'il vit la vie d'un mendiant errant. <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> Voici donc les vingt-deux troubles déclarés par le Vénérable Ascète Mahâvîra, qu'un moine doit apprendre et connaître, supporter et vaincre, afin de ne pas être vaincu par eux lorsqu'il vit la vie d'un mendiant errant :
 
 1\. diga<i>ñ</i><i>kh</i>â (<i>g</i>ugupsâ)-parîsahâ, faim;
 
@@ -82,7 +82,7 @@ Ici [^74], en vérité, le Vénérable Ascète Mahâvîra du Kâsyapa Gôtra a d
 
 22\. sammatta (samyaktva)-p., justice.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 [^77]L'énumération des troubles a été livrée par le Kâ<i>s</i>yapa [^78], je vais vous les expliquer dans l'ordre. Écoutez-moi. (1)
 
@@ -96,7 +96,7 @@ Errant sur des chemins déserts, souffrant, assoiffé, la gorge sèche et angois
 
 3\. Si un ascète sobre et austère souffre occasionnellement de froid au cours de ses pérégrinations, il ne doit pas marcher au-delà du temps (prescrit), se souvenant de l'enseignement de la Gina. (6)
 
-« Je n'ai ni abri ni couverture, je vais donc faire du feu pour me réchauffer » ; une telle pensée ne devrait pas être entretenue par un moine. (7) <span id="p11">[<sup><small>p. 11</small></sup>]</span> 4\. S'il souffre de la chaleur des objets chauds, de la chaleur de son corps ou de la chaleur de l'été, il ne devrait pas se lamenter de la perte de son confort. (8)
+« Je n'ai ni abri ni couverture, je vais donc faire du feu pour me réchauffer » ; une telle pensée ne devrait pas être entretenue par un moine. (7) <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> 4\. S'il souffre de la chaleur des objets chauds, de la chaleur de son corps ou de la chaleur de l'été, il ne devrait pas se lamenter de la perte de son confort. (8)
 
 Un homme sage, souffrant de la chaleur, ne devrait pas désirer un bain, ni verser de l'eau sur son corps, ni s'éventer. (9)
 
@@ -114,7 +114,7 @@ Un sage devrait se détourner de ce mécontentement ; il devrait errer libre de 
 
 8\. Dans ce monde, les hommes ont un penchant naturel pour les femmes ; celui qui les connaît (et les renonce) accomplira facilement ses devoirs de Sramana. (16)
 
-Un homme sage qui sait que les femmes sont comme des bourbiers, ne subira aucun mal de leur part, mais errera à la recherche du Soi. (17) <span id="p12">[<sup><small>p. 12</small></sup>]</span> 9\. Seul, vivant de la nourriture permise [^80], il devrait errer, supportant tous les ennuis, dans un village, une ville, un marché ou une capitale. (18)
+Un homme sage qui sait que les femmes sont comme des bourbiers, ne subira aucun mal de leur part, mais errera à la recherche du Soi. (17) <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> 9\. Seul, vivant de la nourriture permise [^80], il devrait errer, supportant tous les ennuis, dans un village, une ville, un marché ou une capitale. (18)
 
 Contrairement aux autres hommes, un moine doit errer, il ne doit acquérir aucune propriété ; mais n'étant pas attaché à des chefs de famille, il doit vivre sans résidence fixe. (19)
 
@@ -132,7 +132,7 @@ Si un moine entend des paroles mauvaises, cruelles et irritantes, il doit les ig
 
 13\. Un moine ne doit pas se mettre en colère s'il est battu, ni entretenir de pensées pécheresses ; sachant que la patience est le bien suprême, un moine doit méditer sur la Loi. (26)
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 Si quelqu'un frappe quelque part un <i>S</i>rama<i>n</i>a retenu et résigné, il devrait penser : « Je n'ai pas perdu ma vie. » (27)
 
@@ -154,7 +154,7 @@ Au soleil, sa douleur deviendra insupportable ; pourtant un moine, même blessé
 
 18\. Lorsque, par la chaleur de l'été, son corps transpire et est couvert de saleté et de poussière, un moine sage ne devrait pas se lamenter de sa perte de confort. (36)
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 Il devrait supporter (tout cela), en attendant la destruction de son Karman [^85], (et en pratiquant) la noble et excellente Loi ; il devrait porter la saleté sur son corps jusqu'à son expiration. (37)
 
@@ -174,7 +174,7 @@ N'étant pas rancunier, ayant peu de besoins, mendiant auprès des étrangers et
 
 Un moine ne devrait pas penser : « Ceux qui ont dit qu'il y avait, qu'il y a et qu'il y aura des Ginas ont menti. » (45)
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Tous ces troubles ont été déclarés par le Kâsyapa. Un moine ne devrait pas être vaincu par eux, même s'il est attaqué, où que ce soit.
 

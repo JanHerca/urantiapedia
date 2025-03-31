@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/04100.jpg) DÉSOLÉES sont les demeures _des belles_, les stations de Minia, où elles se reposaient, et celles où elles fixaient leurs demeures ! Sauvages sont les collines de Goul, et désert est le sommet de Rijaam.
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. Les vaches sauvages aux grands yeux allaitent leurs petits, âgés de quelques jours, leurs petits, qui deviendront bientôt un troupeau dans la plaine.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 8\. Les torrents ont nettoyé les décombres et découvert les traces d'habitations, comme les roseaux d'un écrivain restituent les lettres effacées d'un livre ;
 
@@ -66,7 +66,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 15\. Ils pressèrent leurs chameaux, jusqu'à ce que la vapeur étouffante les déroba peu à peu à ta vue, et ils semblèrent traverser une vallée, sauvage de tamaris et rugueuse de grosses pierres, comme la vallée de Beihsa.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 16\ Ah, que reste-t-il dans ton souvenir de la belle Nawara, puisqu'elle habite maintenant au loin, et que tous les liens d'union entre elle et toi, forts et faibles, sont déchirés ?
 
@@ -84,7 +84,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 23\. Pourtant, même dans cet état, lorsque sa chair est épuisée et ses cheveux clairsemés, lorsque, après de nombreux jours pénibles, la courroie de ses chaussures est cassée,
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 24\. Elle a maintenant un esprit si vif qu'elle vole avec la bride, comme un nuage brun poussé par le vent du sud, après avoir déchargé sa pluie ;
 
@@ -104,7 +104,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 32\.Quand les plantes fraîches d'arfadge sont mélangées dans le tas, et que le vent du nord joue avec le feu ardent.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 33\ Il passe outre, mais la fait courir devant lui, car telle est sa conduite habituelle, quand il craint qu'elle ne s'attarde en arrière.
 
@@ -122,7 +122,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 40\. Elle passe la nuit dans l'agonie, tandis que la pluie tombe en une averse continue et inonde les bosquets enchevêtrés d'un ruisseau abondant.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 41\. Elle s'abrite sous la racine d'un arbre dont les branches sont épaisses, à l'écart des autres arbres, au bord d'une colline, dont le sable fin est secoué par son mouvement ;
 
@@ -142,7 +142,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 49\. Quand les archers désespèrent de l'atteindre avec leurs flèches, ils lâchent leurs chiens aux longues oreilles, répondant à leurs noms, avec des corps secs et maigres.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 50\. Ils se précipitent : mais elle brandit contre eux ses cornes étendues, à la fois longues et acérées comme des javelots fabriqués par la main habile de Samhar,
 
@@ -164,7 +164,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 59\. J'achète la vieille liqueur à un prix élevé, dans des bouteilles de cuir sombre, longtemps reposées, ou dans des tonneaux, noirs de poix, dont je brise les sceaux, puis je remplis le joyeux gobelet.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 60\. Combien de fois je bois du vin pur le matin, et j'attire à moi la belle luthiste, dont les doigts délicats touchent habilement les cordes !
 
@@ -184,7 +184,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 68\. Ses harnais sont fortement agités, une pluie coule sur son cou, et sa sangle est baignée d'écume brûlante.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 69\ Il lève la tête, il vole en liberté, les rênes lâches, et se hâte vers son but, comme une colombe se précipite vers le ruisseau quand sa soif fiévreuse fait rage.
 
@@ -204,7 +204,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 77\ Là, ils couronnent de viande, tandis que les vents d'hiver luttent avec des rafales violentes, un plat coulant comme un ruisseau, dans lequel les orphelins affamés plongent avec empressement.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 78\. Quand les nations sont assemblées, quelque héros de notre tribu, ferme dans le débat, ne manque jamais, par des forces supérieures, de surmonter la plus grande difficulté.
 
@@ -222,7 +222,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 85\. Contentez-vous donc des dispensations du Maître suprême, car c'est Lui qui connaît le mieux notre nature qui a rendu la justice parmi nous.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 86\. Quand la paix a été établie par notre tribu, nous la gardons inviolable, et Celui qui la fait, rend notre prospérité complète.
 

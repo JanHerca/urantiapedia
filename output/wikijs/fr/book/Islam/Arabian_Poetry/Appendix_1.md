@@ -52,7 +52,7 @@ Le dessein de Dieu est une affaire sérieuse et non un sujet de plaisanterie ; o
 
 10\. Ne désespérez pas devant les accidents malheureux et ne soyez pas trop joyeux devant les événements heureux.
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 11\. Où est Hûd, l'homme qui craignait Dieu, et ses injonctions testamentaires, ou Kahtân, de la semence du Prophète et de la sainteté ?
 
@@ -84,7 +84,7 @@ Le dessein de Dieu est une affaire sérieuse et non un sujet de plaisanterie ; o
 
 45\. Où est Bilkîs, la puissante au trône, ou son palais, élevé au-dessus de tous les palais ?
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 46\. Elle rendit visite au prophète Salomon à Tadmor, venant de Mârib pour une mission de foi, sans penser au mariage,
 

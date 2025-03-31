@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 v. 6. Les Bédouins nourrissent leurs chameaux avec les feuilles de l'arbre erak.
 
@@ -62,7 +62,7 @@ Ses plus brillants honneurs pleuvaient sur moi :
 Mais surtout, venez rejoindre la joyeuse bande
 Où les jeunes gens joyeux rient et les jeunes filles en fleurs chantent.—_RṚ._
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 vv. 48-51. Les chanteuses qui chantaient dans les beuveries des anciens Arabes étaient grecques, syriennes ou persanes. Jusqu'après l'Islam, les Arabes, bien que maîtres du rythme et de la mesure, n'avaient pas de système de chant indigène, sauf le chant grossier (à l'origine du chamelier) appelé _rajez_. Ces filles chantaient probablement la plupart du temps dans leur propre langue et jouaient la musique qu'elles avaient apprise en persan 'Irâk ou en Syrie ; mais dans la vie d'En-Nâbigha de Dubyân, telle que rapportée dans l'_Aghânî_ (ix. 164), on mentionne une chanteuse de Yethrib (plus tard El-Madîna) qui chanta une des pièces de ce poète en arabe, ce qui lui permit de déceler une faute de prosodie. — Lyall : Notes sur les vv. 60, 61, Mo'all de Lebīd.
 
@@ -122,7 +122,7 @@ Et si nous pataugeions dans la richesse ou montions en flèche dans la gloire ?
 La station la plus haute de la Terre se termine par « Ici il repose ! »
 Et « poussière à poussière » conclut la chanson la plus noble.
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 Et le persan Sa'dī : « Quand l'âme pure et sans tache est sur le point de partir, quelle importance cela a-t-il que nous expirions sur un trône ou sur la terre nue ? »
 

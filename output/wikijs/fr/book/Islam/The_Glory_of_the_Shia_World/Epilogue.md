@@ -29,7 +29,7 @@ dateCreated: 2024-11-24T12:47:51Z
   </table>
 </figure>
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 <figure id="Figure_27800" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/The_Glory_of_the_Shia_World/27800.jpg">
@@ -50,7 +50,7 @@ Fils de Musa-ar-Riza.
 Ô Source des Merveilles !
 Ô Ali l'Élu !
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 <figure id="Figure_27900" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/The_Glory_of_the_Shia_World/27900.jpg">
@@ -64,7 +64,7 @@ _En vers cachés mais complets,_
 _Quand Hatif (le Bon Ange) sortit sa tête et chanta_,
 « Ce livre de voyage a été rapidement achevé » [^70]
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 Imprimé par R. & R. CLARK, LIMITED, Edimbourg.
 

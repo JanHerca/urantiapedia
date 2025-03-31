@@ -38,7 +38,7 @@ L'ermite a entendu avec un grand contenu
 Ce discours si merveilleusement éloquent,
 Et tandis que chaque cheveu se dressait avec joie, [^141]
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Il répondit ainsi à la fin :
 « Tes paroles sont bonnes, ô noble roi,
@@ -155,7 +155,7 @@ Les limites de la force et de la faiblesse sont fixées,
 Il n'est pas à la hauteur des ennemis démoniaques
 Qui oppose les arts magiques aux armes.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Ô chef des saints, je n’ai aucun pouvoir,
 De Ráma reft, pour vivre une heure :
@@ -272,7 +272,7 @@ Le meilleur des hommes pour sa bravoure.
 L'amour incarné de la pénitence est triste,
 Parmi les sages sans égal.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Il sait très bien, le fils du grand Kus'ik,
 Les bras célestes, chacun,
@@ -362,7 +362,7 @@ Dans un sommeil tranquille ou dans un délice sauvage.
 Il n'y a personne dans tout le pays
 Ton égal pour la main vigoureuse.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Toi, quand tes lèvres prononcent le sort,
 Tu n'auras pas d'égal au ciel ou en enfer,
@@ -450,7 +450,7 @@ Mais l'œil de Dieu avec un regard méprisant
 Je suis tombée terriblement mal sur lui.
 Dissout la forme qui était si belle
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 Et brûlé tous les membres.
 Depuis la terrible rage du grand Dieu
@@ -554,7 +554,7 @@ Il semble être sans chemin et sombre,
 Où des milliers d’oiseaux errent librement ;
 Où résonnent les cris stridents des cigales,
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Et les oiseaux de triste réputation abondent,
 Lion, rhinocéros et ours,
@@ -662,7 +662,7 @@ Son fils s'appelait Máricha,
 Un géant, par une malédiction, est devenu.
 Elle, veuve, a osé le molester
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 Agastya, [^162] de tous les saints le meilleur.
 Enflammé par la rage la plus sauvage de la faim,
@@ -773,7 +773,7 @@ Jusqu’à ce que Ráma brûle de rage.
 Puis déversant sa pluie de flèches
 Ce déluge pierreux pour rester,
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Avec des dards ailés, alors qu'elle chargeait,
 Il retira ses mains.
@@ -879,7 +879,7 @@ Les armes mystiques qu'ils utilisent ci-dessus,
 Car tu es digne d'avoir révélé
 Les armes que j'ai appris à manier.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Le premier, fils de Raghu, sera à toi
 Le bras de la Vengeance, fort, divin :
@@ -984,7 +984,7 @@ Dont les pouvoirs retiennent les armes mortelles,
 Reçois-toi, Vrai et Vraiment célèbre,
 Et Téméraire et Flotte : les armes nommées
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 Gardien et Progrès, rapides d'allure,
 Tête détournée et visage tombant ;

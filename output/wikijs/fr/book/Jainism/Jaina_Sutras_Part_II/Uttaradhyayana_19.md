@@ -40,7 +40,7 @@ Leur fils Bala<i>s</i>rî, également connu sous le nom de M<i>ri</i>gâputra (c
 
 Dans son palais Nandana, il s'amusait avec ses femmes, comme le dieu Dôgundaga [^235], toujours heureux dans son esprit. (3)
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 Debout à une fenêtre de son palais [^236], dont le sol était incrusté de pierres précieuses et de joyaux, il regardait les places, les places et les routes de la ville. (4)
 
@@ -96,7 +96,7 @@ Ses parents lui dirent : « Fils, difficiles à accomplir sont les devoirs d'un 
 
 « La faim et la soif, la chaleur et le froid, les agressions des mouches et des moucherons, les insultes, les logements misérables, les herbes piquantes et l'impureté, les coups et les menaces, les châtiments corporels et l'emprisonnement, la vie de mendiant et la mendicité vaine : tout cela est misère. (31, 32)
 
-« Une telle vie est comme celle des pigeons (toujours effrayés des <span id="p92">[<sup><small>p. 92</small></sup>]</span> dangers) ; il est douloureux de s'arracher les cheveux ; le vœu de chasteté est difficile à tenir, et même pour un homme noble. (33)
+« Une telle vie est comme celle des pigeons (toujours effrayés des <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> dangers) ; il est douloureux de s'arracher les cheveux ; le vœu de chasteté est difficile à tenir, et même pour un homme noble. (33)
 
 « Mon fils, tu es habitué au confort, tu es tendre et propre [^239] ; tu n'es pas capable, mon fils, de vivre comme un <i>S</i>rama<i>n</i>a. (34)
 
@@ -110,7 +110,7 @@ Ses parents lui dirent : « Fils, difficiles à accomplir sont les devoirs d'un 
 
 « Comme il est très difficile d’avaler un feu brûlant, il est difficile pour un jeune homme de vivre comme un <i>S</i>rama<i>n</i>a. (39)
 
-« Comme il est difficile de remplir un sac [^241] de vent, <span id="p93">[<sup><small>p. 93</small></sup>]</span>, il est difficile pour un homme faible de vivre comme un <i>S</i>rama<i>n</i>a. (40)
+« Comme il est difficile de remplir un sac [^241] de vent, <span id="p93"><sup><small>[ p. 93 ]</small></sup></span>, il est difficile pour un homme faible de vivre comme un <i>S</i>rama<i>n</i>a. (40)
 
 « Comme il est difficile de peser le mont Mandara dans une balance, il est difficile de vivre en tant que Sramana avec un esprit stable et sans peur. (41)
 
@@ -128,7 +128,7 @@ Il répondit : « Ô père et mère, il en est ainsi comme vous l'avez clairemen
 
 « Bien qu'il puisse y avoir du froid ici, il est d'une intensité infiniment plus grande là-bas ; en enfer, j'ai souffert du froid. » (48)
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 « Un nombre infini de fois j'ai été rôti sur un feu ardent dans un four, criant fort, la tête en bas et les pieds en l'air. (49)
 
@@ -144,7 +144,7 @@ Il répondit : « Ô père et mère, il en est ainsi comme vous l'avez clairemen
 
 « Quand je suis né en enfer pour mes péchés, j'ai été coupé, percé et mis en pièces avec des épées et des poignards, avec des fléchettes et des javelots. (55)
 
-« J'ai été attelé de force à un char de fer rouge rempli de carburant [^247], j'ai été poussé avec un aiguillon <span id="p95">[<sup><small>p. 95</small></sup>]</span> et des lanières, et j'ai été renversé comme une antilope [^248]. » (56)
+« J'ai été attelé de force à un char de fer rouge rempli de carburant [^247], j'ai été poussé avec un aiguillon <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> et des lanières, et j'ai été renversé comme une antilope [^248]. » (56)
 
 « Sur des bûchers, dans un feu ardent, j'ai été brûlé de force et rôti comme un buffle, en expiation de mes péchés. (57)
 
@@ -176,7 +176,7 @@ Il répondit : « Ô père et mère, il en est ainsi comme vous l'avez clairemen
 
 « Toujours effrayé, tremblant, angoissé et souffrant, j'ai éprouvé la douleur et la misère les plus exquises. (71)
 
-« J'ai éprouvé en enfer des douleurs aiguës, aiguës et <span id="p97">[<sup><small>p. 97</small></sup>]</span> sévères, horribles, intolérables, épouvantables et redoutables. (72)
+« J'ai éprouvé en enfer des douleurs aiguës, aiguës et <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> sévères, horribles, intolérables, épouvantables et redoutables. (72)
 
 « Ô Père, la souffrance en enfer est infiniment plus douloureuse que toute souffrance dans le monde des hommes. (73)
 
@@ -198,7 +198,7 @@ Il répondit : « Ô père et mère, c'est exactement ce que vous avez dit ; mai
 
 « De la même manière, un moine pieux va dans de nombreux endroits et se promène comme les animaux, mais ensuite il va dans les régions supérieures. (82)
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 « Comme un animal sauvage va seul dans de nombreux endroits, vit dans de nombreux endroits et obtient toujours sa nourriture ; ainsi un moine en tournée de mendicité ne devrait ni mépriser ni blâmer (la nourriture qu'il obtient). » (83)
 
@@ -218,7 +218,7 @@ Il était indifférent au succès ou à l'échec (dans la mendicité), au bonheu
 
 Il s'est détourné de la vanité et des passions, des actions nuisibles, nuisibles et dangereuses [^258], de la gaieté et de la tristesse ; il était libre des péchés et des chaînes. (91)
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 Il ne s'intéressait ni à ce monde ni à l'autre ; il était indifférent aux choses désagréables et agréables [^259], à la nourriture et au jeûne. (92)
 

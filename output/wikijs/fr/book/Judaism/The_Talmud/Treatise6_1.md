@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 ## TRAITÉ VI.
 
@@ -50,7 +50,7 @@ Taille et couverture des tabernacles — Ce qui constitue un tabernacle — Exem
 
 3\. « Si quelqu'un étend un drap sur (son toit) [^240] à cause du soleil ; ou sous (son toit) à cause des feuilles qui tombent ; ou si quelqu'un étend un dais sur son lit ? » « C'est interdit. Mais il est permis d'étendre un drap sur deux colonnes de lit. »
 
-4\. « Si quelqu'un a formé une vigne, une courge ou un lierre, et l'a recouvert ? » « C'est interdit. Mais si la couverture <span id="p137">[<sup><small>p. 137</small></sup>]</span> est plus grande que celles-ci, ou si elles ont été taillées, c'est permis. » La règle est que tout ce qui contracte l'impureté et ne pousse pas du sol ne doit pas servir de couverture ; mais tout ce qui ne contracte pas l'impureté et pousse du sol peut servir de couverture.
+4\. « Si quelqu'un a formé une vigne, une courge ou un lierre, et l'a recouvert ? » « C'est interdit. Mais si la couverture <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> est plus grande que celles-ci, ou si elles ont été taillées, c'est permis. » La règle est que tout ce qui contracte l'impureté et ne pousse pas du sol ne doit pas servir de couverture ; mais tout ce qui ne contracte pas l'impureté et pousse du sol peut servir de couverture.
 
 5\. Les bottes de paille, les bottes de bois et les fagots de brindilles ne doivent pas être utilisés pour la couverture. Mais tous, s'ils ne sont pas attachés, sont autorisés. Et tous sont autorisés pour les murs latéraux.
 
@@ -62,7 +62,7 @@ Taille et couverture des tabernacles — Ce qui constitue un tabernacle — Exem
 
 9\. « Si l'on entrelace les murs latéraux de haut en bas ? » « Si leur hauteur à partir du sol est de trois paumes, c'est interdit. » « Si leur hauteur à partir du sol est de dix paumes ? » « C'est autorisé. » R. José dit : « De même que dix paumes sont requises à partir du sol, de même dix paumes sont requises à partir du toit. » « Si la couverture dépasse de trois paumes les murs latéraux ? » « C'est interdit. »
 
-10\. « Si une maison est découverte et couverte ? » « S'il y a un espace de quatre coudées entre le mur et la couverture, cela est interdit ; de même qu'une cour dans laquelle il y a un passage fermé. » « Si la grande cabane est entourée d'une couverture, qui ne doit pas être utilisée, et s'il y a en dessous un espace de quatre coudées ? » « Cela est interdit. » <span id="p138">[<sup><small>p. 138</small></sup>]</span> 11\. « Si quelqu'un construit sa cabane en forme de pyramide ; ou l'appuie contre un mur ? » R. Éléazar « l'interdit, car elle n'a pas de toit » ; mais les Sages « l'autorisent ». « Une grande natte de roseau, qui a été faite pour dormir ? » « Elle contracte l'impureté, et ils ne doivent pas s'en couvrir. » « Si elle est faite pour se couvrir ? » « Ils peuvent l'utiliser ; et elle ne contracte aucune impureté. » R. Eleazar dit : « Qu'il soit grand ou petit, s'il est fait pour dormir, il contracte l'impureté et ne doit pas être utilisé pour se couvrir ; mais s'il est fait pour se couvrir, on peut s'en couvrir, et il ne contracte aucune impureté. »
+10\. « Si une maison est découverte et couverte ? » « S'il y a un espace de quatre coudées entre le mur et la couverture, cela est interdit ; de même qu'une cour dans laquelle il y a un passage fermé. » « Si la grande cabane est entourée d'une couverture, qui ne doit pas être utilisée, et s'il y a en dessous un espace de quatre coudées ? » « Cela est interdit. » <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> 11\. « Si quelqu'un construit sa cabane en forme de pyramide ; ou l'appuie contre un mur ? » R. Éléazar « l'interdit, car elle n'a pas de toit » ; mais les Sages « l'autorisent ». « Une grande natte de roseau, qui a été faite pour dormir ? » « Elle contracte l'impureté, et ils ne doivent pas s'en couvrir. » « Si elle est faite pour se couvrir ? » « Ils peuvent l'utiliser ; et elle ne contracte aucune impureté. » R. Eleazar dit : « Qu'il soit grand ou petit, s'il est fait pour dormir, il contracte l'impureté et ne doit pas être utilisé pour se couvrir ; mais s'il est fait pour se couvrir, on peut s'en couvrir, et il ne contracte aucune impureté. »
 
 
 

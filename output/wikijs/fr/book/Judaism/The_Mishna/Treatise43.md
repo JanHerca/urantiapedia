@@ -56,7 +56,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 \[Concerne les délits qui, s'ils sont commis volontairement, sont punis par l'excision, mais qui, s'ils sont commis par inadvertance, entraînent l'obligation d'apporter des sacrifices pour le péché ou pour la faute.\]
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 ## XLVII. TRAITÉ MEHILAH, INFRACTION.
 
@@ -98,7 +98,7 @@ PURIFICATIONS LÉGALES; CONTIENT
 
 \[Contient des lois relatives à l'impureté provenant d'un cadavre, fondées sur Nombres xix. 14.\]
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 \_\_\_\_\_\_\_\_\_
 

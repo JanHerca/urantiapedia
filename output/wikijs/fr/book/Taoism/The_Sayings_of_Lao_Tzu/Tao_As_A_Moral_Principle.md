@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:44Z
   </table>
 </figure>
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 La bonté suprême est comme l'eau, car elle est excellente pour le bien de toutes choses, et elle ne lutte pas. Elle occupe la place la plus basse, que les hommes abhorrent. C'est pourquoi elle est proche du Tao.
 
@@ -42,7 +42,7 @@ Ceux qui suivent la Voie ne désirent pas l’excès ; et ainsi, sans excès, il
 
 Toutes choses accomplissent leur œuvre, puis nous les voyons s'éteindre. Lorsqu'elles ont atteint leur apogée, chacune retourne à son origine. Retourner à son origine signifie le repos ou l'accomplissement du destin. Ce retour est une loi éternelle. Connaître cette loi, c'est être éclairé. L'ignorer est misère et calamité. Celui qui connaît la loi éternelle est libéral. Étant libéral, il est juste. Étant juste, il est royal. Étant royal, il est apparenté au Ciel. Étant apparenté au Ciel, il possède le Tao. Possédant le Tao, il perdure à jamais. Même si son corps périt, il ne subit aucun mal.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Celui qui agit en accord avec le Tao ne fait qu'un avec le Tao. Celui qui suit le chemin de la Vertu ne fait qu'un avec la Vertu. Celui qui poursuit la voie du Vice ne fait qu'un avec le Vice. Celui qui ne fait qu'un avec le Tao est heureux de recevoir. Celui qui ne fait qu'un avec la Vertu est heureux de recevoir. Celui qui ne fait qu'un avec le Vice est heureux de recevoir.
 
@@ -70,7 +70,7 @@ Si nous avions suffisamment de connaissances pour marcher dans la Grande Voie, c
 
 La Grande Route est très douce, mais les gens aiment les sentiers secondaires.
 
-Là où les palais sont très splendides, là les <span id="p27">[<sup><small>p. 27</small></sup>]</span> champs seront très désolés et les greniers très vides.
+Là où les palais sont très splendides, là les <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> champs seront très désolés et les greniers très vides.
 
 Le port de robes brodées de couleurs vives, le port d'épées tranchantes, la méticulosité dans la nourriture et la boisson, la surabondance de biens et de richesses : c'est ce que j'appelle un vol ostentatoire ; ce n'est assurément pas du Tao.
 
@@ -78,7 +78,7 @@ Celui qui se fie à sa grande vertu naturelle est comme un enfant qui vient de n
 
 Tempérez votre acuité, démêlez vos idées, modérez votre génie, vivez en harmonie avec votre âge. C'est être en conformité avec le principe du Tao. Un tel homme est insensible à la faveur comme à la disgrâce, aux bienfaits comme aux préjudices, à l'honneur comme au mépris. C'est pourquoi il est estimé au-dessus de toute l'humanité.
 
-Pour gouverner les hommes et servir le Ciel, rien ne vaut la modération. Car seule la modération permet un retour rapide à l'état normal de l'homme. Ce retour rapide équivaut à une grande réserve de Vertu. Avec une grande réserve de Vertu, rien n'est impossible. S'il n'y a rien qui ne puisse être atteint, nul ne saura jusqu'où s'étend ce pouvoir. Et si nul ne sait jusqu'où s'étend le pouvoir d'un homme, cet homme est apte à diriger un État. Ayant le secret du pouvoir, son pouvoir perdurera. Enfoncer profondément la racine pivotante et <span id="p28">[<sup><small>p. 28</small></sup>]</span> raffermir les racines qui s'étendent : voilà le moyen d'assurer une longue vie à l'arbre.
+Pour gouverner les hommes et servir le Ciel, rien ne vaut la modération. Car seule la modération permet un retour rapide à l'état normal de l'homme. Ce retour rapide équivaut à une grande réserve de Vertu. Avec une grande réserve de Vertu, rien n'est impossible. S'il n'y a rien qui ne puisse être atteint, nul ne saura jusqu'où s'étend ce pouvoir. Et si nul ne sait jusqu'où s'étend le pouvoir d'un homme, cet homme est apte à diriger un État. Ayant le secret du pouvoir, son pouvoir perdurera. Enfoncer profondément la racine pivotante et <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> raffermir les racines qui s'étendent : voilà le moyen d'assurer une longue vie à l'arbre.
 
 Le Tao est le sanctuaire où toutes choses trouvent refuge, le trésor inestimable de l'homme bon, le gardien et le sauveur de celui qui n'est pas bon.
 

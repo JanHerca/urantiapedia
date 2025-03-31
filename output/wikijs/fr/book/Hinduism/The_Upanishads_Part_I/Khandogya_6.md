@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 SIXIÈME PRAPÂ<i>TH</i>AKA.
 
@@ -48,7 +48,7 @@ SIXIÈME PRAPÂ<i>TH</i>AKA.
 
 Le père répondit : « Ma chère, comme par une motte d'argile on connaît tout ce qui est fait d'argile, la différence [^268] n'étant qu'un nom, issu du langage, mais la vérité étant que tout est argile ;
 
-5\. 'Et comme, ma chère, par une pépite d'or [^269] <span id="p93">[<sup><small>p. 93</small></sup>]</span> tout ce qui est fait d'or est connu, la différence n'étant qu'un nom, issu de la parole, mais la vérité étant que tout est or ?
+5\. 'Et comme, ma chère, par une pépite d'or [^269] <span id="p93"><sup><small>[ p. 93 ]</small></sup></span> tout ce qui est fait d'or est connu, la différence n'étant qu'un nom, issu de la parole, mais la vérité étant que tout est or ?
 
 6\. « Et comme, ma chère, par une seule paire de ciseaux à ongles tout ce qui est fait de fer (kârsh<i>n</i>âyasam) est connu, la différence n'étant qu'un nom, provenant de la parole, mais la vérité étant que tout est en fer, — ainsi, ma chère, est cette instruction. »
 
@@ -62,7 +62,7 @@ Le père répondit : « Ma chère, comme par une motte d'argile on connaît tout
 
 3\. « Il pensa [^271], puis-je être nombreux, puis-je grandir. » Il envoya du feu [^272].
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 « Ce feu [^273] pensa : « Puissé-je être nombreux, puissé-je grandir. » Il envoya de l'eau [^274].
 
@@ -90,7 +90,7 @@ Le père répondit : « Ma chère, comme par une motte d'argile on connaît tout
 
 3\. « La couleur rouge de la lune est la couleur du feu, le blanc de l'eau, le noir de la terre. Ainsi disparaît ce que nous appelons la lune, simple variété, étant un nom issu du langage. Ce qui est vrai, ce sont les trois couleurs. »
 
-4\. « La couleur rouge de l'éclair est la couleur du feu, le blanc de l'eau, le noir de la terre. Ainsi <span id="p96">[<sup><small>p. 96</small></sup>]</span> disparaît ce que nous appelons l'éclair, comme une simple variété, étant un nom, né du langage. Ce qui est vrai, ce sont les trois couleurs. »
+4\. « La couleur rouge de l'éclair est la couleur du feu, le blanc de l'eau, le noir de la terre. Ainsi <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> disparaît ce que nous appelons l'éclair, comme une simple variété, étant un nom, né du langage. Ce qui est vrai, ce sont les trois couleurs. »
 
 5\. « Les grands chefs de famille et les grands théologiens des temps anciens qui savaient cela, ont déclaré la même chose, en disant : « Personne ne peut désormais nous dire quoi que ce soit que nous n'ayons entendu, perçu ou connu [^279] ». De ces (trois couleurs ou formes), ils savaient tout.
 
@@ -107,7 +107,7 @@ Le père répondit : « Ma chère, comme par une motte d'argile on connaît tout
 
 2\. « L'eau, lorsqu'elle est bue, devient triple ; sa partie la plus grossière devient de l'eau, sa partie moyenne du sang, sa partie la plus subtile du souffle.
 
-3\. « Le feu (c'est-à-dire dans l'huile, le beurre, etc.) lorsqu'il est mangé devient triple ; sa partie la plus grossière devient l'os, sa partie médiane la moelle, sa partie la plus subtile la parole [^280]. <span id="p97">[<sup><small>p. 97</small></sup>]</span> 4\. « Car en vérité, mon enfant, l'esprit vient de la terre, le souffle de l'eau, la parole du feu. »
+3\. « Le feu (c'est-à-dire dans l'huile, le beurre, etc.) lorsqu'il est mangé devient triple ; sa partie la plus grossière devient l'os, sa partie médiane la moelle, sa partie la plus subtile la parole [^280]. <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> 4\. « Car en vérité, mon enfant, l'esprit vient de la terre, le souffle de l'eau, la parole du feu. »
 
 « S'il vous plaît, Monsieur, informez-moi encore davantage », dit le fils.
 
@@ -154,13 +154,13 @@ Apprends-moi la véritable nature du sommeil (svapna). Lorsqu'un homme dort ici,
 
 3\. « Apprends de moi, mon fils, ce que sont la faim et la soif. Lorsqu'un homme est ainsi dit avoir faim, l'eau emporte (digère) ce qu'il a mangé. C'est pourquoi, comme ils parlent de meneur de vaches (go-nâya), de meneur de chevaux (a<i>s</i>va-nâya), de meneur d'hommes (purusha-nâya), de même ils appellent l'eau (qui digère la nourriture et provoque la faim) meneur de nourriture (a<i>s</i>a-nâya). Ainsi (par la nourriture digérée, etc.), mon fils, sache que ce rejeton (le corps) doit naître, car ce (corps) ne saurait être sans racine (cause). »
 
-4\. « Et où pourrait être sa racine, sinon dans la nourriture (la terre) [^285] ? Et de la même manière, mon fils, comme <span id="p100">[<sup><small>p. 100</small></sup>]</span> la nourriture (la terre) est aussi une ramification, cherche sa racine, à savoir l'eau. Et comme l'eau est aussi une ramification, cherche sa racine, à savoir le feu. Et comme le feu est aussi une ramification, cherche sa racine, à savoir le Vrai. Oui, toutes ces créatures, mon fils, ont leur racine dans le Vrai, elles demeurent dans le Vrai, elles reposent dans le Vrai. »
+4\. « Et où pourrait être sa racine, sinon dans la nourriture (la terre) [^285] ? Et de la même manière, mon fils, comme <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> la nourriture (la terre) est aussi une ramification, cherche sa racine, à savoir l'eau. Et comme l'eau est aussi une ramification, cherche sa racine, à savoir le feu. Et comme le feu est aussi une ramification, cherche sa racine, à savoir le Vrai. Oui, toutes ces créatures, mon fils, ont leur racine dans le Vrai, elles demeurent dans le Vrai, elles reposent dans le Vrai. »
 
 5\. « Lorsqu'on dit ainsi qu'un homme a soif, le feu emporte ce qu'il a bu. C'est pourquoi, comme on parle d'un meneur de vaches (go-nâya), d'un meneur de chevaux (a<i>s</i>va-nâya), d'un meneur d'hommes (purusha-nâya), de même on appelle le feu udanyâ, soif, c'est-à-dire meneur d'eau. Ainsi (par l'eau digérée, etc.), mon fils, sache que ce rejeton (le corps) doit naître : ce (corps) ne saurait être sans racine (cause). »
 
 6\. « Et où pourrait être sa racine, sinon dans l'eau ? Comme l'eau est une ramification, cherche sa racine, à savoir le feu. Comme le feu est une ramification, cherche sa racine, à savoir le Vrai. Oui, toutes ces créatures, ô fils, ont leur racine dans le Vrai, elles demeurent dans le Vrai, elles reposent dans le Vrai. »
 
-« Et comment ces trois êtres (devatâ), le feu, l'eau, la terre, ô fils, lorsqu'ils atteignent l'homme, deviennent chacun d'eux tripartites, cela a été dit auparavant (VI, 4, 7). Lorsqu'un homme s'en va d'ici, sa parole [^286] se fond <span id="p101">[<sup><small>p. 101</small></sup>]</span> dans son esprit, son esprit dans son souffle, son souffle dans la chaleur (le feu), la chaleur dans l'Être suprême.
+« Et comment ces trois êtres (devatâ), le feu, l'eau, la terre, ô fils, lorsqu'ils atteignent l'homme, deviennent chacun d'eux tripartites, cela a été dit auparavant (VI, 4, 7). Lorsqu'un homme s'en va d'ici, sa parole [^286] se fond <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> dans son esprit, son esprit dans son souffle, son souffle dans la chaleur (le feu), la chaleur dans l'Être suprême.
 
 7\. « Or, ce qui est cette essence subtile (la racine de tout), en elle tout ce qui existe a son soi. C'est le Vrai. C'est le Soi, et toi, ô Svetaketu, tu l'es. »
 
@@ -183,7 +183,7 @@ Apprends-moi la véritable nature du sommeil (svapna). Lorsqu'un homme dort ici,
 « Qu'il en soit ainsi, mon enfant », répondit le père.
 
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## DIXIÈME KHA<i>N</i><i>D</i>A [^288]
 
@@ -200,7 +200,7 @@ Apprends-moi la véritable nature du sommeil (svapna). Lorsqu'un homme dort ici,
 
 ## ONZIÈME KHA<i>N</i><i>D</i>A [^289].
 
-1\. « Si quelqu'un frappait la racine de ce grand arbre, il saignerait, mais vivrait. S'il frappait sa tige, il saignerait, mais vivrait. S'il frappait sa cime, il saignerait, mais vivrait. » <span id="p103">[<sup><small>p. 103</small></sup>]</span> Imprégné du Soi vivant, cet arbre se tient ferme, buvant sa nourriture et se réjouissant ;
+1\. « Si quelqu'un frappait la racine de ce grand arbre, il saignerait, mais vivrait. S'il frappait sa tige, il saignerait, mais vivrait. S'il frappait sa cime, il saignerait, mais vivrait. » <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> Imprégné du Soi vivant, cet arbre se tient ferme, buvant sa nourriture et se réjouissant ;
 
 2\. « Mais si la vie (le Soi vivant) quitte une de ses branches, cette branche se dessèche ; si elle en quitte une deuxième, cette branche se dessèche ; si elle en quitte une troisième, cette branche se dessèche. Si elle quitte l'arbre tout entier, l'arbre tout entier se dessèche [^290]. De la même manière, mon fils, sache ceci. » Il parla ainsi :
 
@@ -213,7 +213,7 @@ Apprends-moi la véritable nature du sommeil (svapna). Lorsqu'un homme dort ici,
 « Qu'il en soit ainsi, mon enfant », répondit le père.
 
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 ## DOUZIÈME KHA<i>N</i><i>D</i>A [1](Khandogya_6#fn291).
 
@@ -251,7 +251,7 @@ Le fils fit ce qu’on lui avait ordonné.
 
 Le père lui dit : « Apporte-moi le sel que tu as mis dans l’eau hier soir. »
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 Le fils l'ayant cherché, ne le trouva pas, car, bien sûr, il était fondu.
 
@@ -282,9 +282,9 @@ Alors le père dit : « Ici aussi, dans ce corps, en vérité, tu ne perçois pa
 
 ## QUATORZIÈME KHA<i>N</i><i>D</i>A [^294].
 
-1\. « Comme on pourrait emmener une personne les yeux bandés loin des Gandhâras [^295], et la laisser <span id="p106">[<sup><small>p. 106</small></sup>]</span> alors dans un lieu où il n'y a pas d'êtres humains ; et comme cette personne se tournerait vers l'est, le nord ou l'ouest, et crier : « J'ai été amené ici les yeux bandés, j'ai été laissé ici les yeux bandés »,
+1\. « Comme on pourrait emmener une personne les yeux bandés loin des Gandhâras [^295], et la laisser <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> alors dans un lieu où il n'y a pas d'êtres humains ; et comme cette personne se tournerait vers l'est, le nord ou l'ouest, et crier : « J'ai été amené ici les yeux bandés, j'ai été laissé ici les yeux bandés »,
 
-2\. « Et comme alors quelqu'un pourrait détacher son bandeau et lui dire : « Va dans cette direction, c'est Gandhâra, va dans cette direction » ; et comme alors, ayant été informé et étant capable de juger par lui-même, il finirait par arriver à Gandhâra en demandant son chemin de village en village, — de la même manière qu'un homme qui rencontre un maître pour l'informer obtient la vraie connaissance [^296]. Pour lui <span id="p107">[<sup><small>p. 107</small></sup>]</span> il n'y a que du retard tant qu'il n'est pas délivré (du corps) ; alors il sera parfait [^297]. »
+2\. « Et comme alors quelqu'un pourrait détacher son bandeau et lui dire : « Va dans cette direction, c'est Gandhâra, va dans cette direction » ; et comme alors, ayant été informé et étant capable de juger par lui-même, il finirait par arriver à Gandhâra en demandant son chemin de village en village, — de la même manière qu'un homme qui rencontre un maître pour l'informer obtient la vraie connaissance [^296]. Pour lui <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> il n'y a que du retard tant qu'il n'est pas délivré (du corps) ; alors il sera parfait [^297]. »
 
 3\. « Ce qui est l'essence subtile, en elle tout ce qui existe a son soi. C'est le Vrai. C'est le Soi, et toi, ô Svetaketu, tu l'es. »
 
@@ -295,7 +295,7 @@ Alors le père dit : « Ici aussi, dans ce corps, en vérité, tu ne perçois pa
 
 ## QUINZIÈME KHA<i>N</i><i>D</i>A [^298].
 
-1\. « Si un homme est malade, ses proches se rassemblent autour de lui et lui demandent : « Me connais-tu ? Me connais-tu ? » Or, tant que sa parole n'est pas <span id="p108">[<sup><small>p. 108</small></sup>]</span> fondue dans son esprit, son esprit dans le souffle, son souffle dans la chaleur (le feu), la chaleur dans l'Être suprême (devatâ), il les connaît.
+1\. « Si un homme est malade, ses proches se rassemblent autour de lui et lui demandent : « Me connais-tu ? Me connais-tu ? » Or, tant que sa parole n'est pas <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> fondue dans son esprit, son esprit dans le souffle, son souffle dans la chaleur (le feu), la chaleur dans l'Être suprême (devatâ), il les connaît.
 
 2\. « Mais lorsque sa parole est fusionnée dans son esprit, son esprit dans le souffle, le souffle dans la chaleur (le feu), la chaleur dans l'Être suprême, alors il ne les connaît pas.
 
@@ -308,7 +308,7 @@ Alors le père dit : « Ici aussi, dans ce corps, en vérité, tu ne perçois pa
 
 ## SEIZIÈME KHA<i>N</i><i>D</i>A [^299].
 
-1\. « Mon enfant, ils amènent ici un homme qu'ils ont pris par la main, et ils disent : “Il a pris quelque chose, il a commis un vol.” » (Quand <span id="p109">[<sup><small>p. 109</small></sup>]</span> il nie, ils disent) : « Chauffez la hache pour lui. » S'il a commis le vol, alors il se fait passer pour ce qu'il n'est pas. Alors l'homme menteur, ayant couvert son vrai Soi par un mensonge, saisit la hache chauffée – il est brûlé et il est tué.
+1\. « Mon enfant, ils amènent ici un homme qu'ils ont pris par la main, et ils disent : “Il a pris quelque chose, il a commis un vol.” » (Quand <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> il nie, ils disent) : « Chauffez la hache pour lui. » S'il a commis le vol, alors il se fait passer pour ce qu'il n'est pas. Alors l'homme menteur, ayant couvert son vrai Soi par un mensonge, saisit la hache chauffée – il est brûlé et il est tué.
 
 2. « Mais s'il n'a pas commis de vol, il se fait lui-même ce qu'il est. » Alors, l'homme sincère, ayant recouvert son être véritable par la vérité, saisit la hachette chauffée ; il n'est pas brûlé et il est délivré.
 

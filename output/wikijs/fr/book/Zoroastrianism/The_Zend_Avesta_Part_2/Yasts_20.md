@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p310">[<sup><small>p. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 Ce Ya<i>s</i>t devrait suivre immédiatement le Tîr Ya<i>s</i>t, car il dérive de la même formule de Sîrôzah ; celle dans laquelle Ti<i>s</i>trya est invoqué avec Vana<i>n</i><i>t</i> et Haptôiri<i>n</i>ga (Sîrôzah, § 13). Il s'agit d'un simple supplément à ce Ya<i>s</i>t. Sur Vana<i>n</i><i>t</i>, voir [p. 97](Yasts_8#p97), note [6](Yasts_8#fn481).
 

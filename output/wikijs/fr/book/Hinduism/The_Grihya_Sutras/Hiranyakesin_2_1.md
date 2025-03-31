@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p208">[<sup><small>p. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 1, SECTION 1,
 
@@ -42,7 +42,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. [^645] 'Ceci, ô Varu<i>n</i>a' (&c. ; voir I, chap. 27, Sûtra 2, jusqu'à) : 'Salut ! Bonne chance !'
 
-Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des ornements propres, et qui a parlé avec un Brâhmane, à l'ouest du feu, face à l'est, dans un appartement rond. Debout à l'est (de l'épouse), face à l'ouest, il sépare ses cheveux vers le haut (c'est-à-dire en commençant par le devant) avec une plume de porc-épic à trois taches blanches, tenant (aussi) une grappe de fruits verts, avec les Vyâh<i>n</i>tis (et) avec les deux (verset) : « J'invoque Râkâ », (et), « Tes grâces, ô Râkâ » (Taitt. Sa<i>n</i>h. III, 3, 11, 5). Puis il récite sur (sa femme les formules) : « Soma seul est notre roi, ainsi disent les tribus Brâhmanes, assises près de tes rives, ô Gaṅgâ, <span id="p209">[<sup><small>p. 209</small></sup>]</span> dont la roue ne recule pas (?) ! » (et) « Puissions-nous trouver notre chemin avec toi à travers toutes les puissances hostiles, comme à travers les courants d'eau » (ci-dessus I, 20, 5).
+Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des ornements propres, et qui a parlé avec un Brâhmane, à l'ouest du feu, face à l'est, dans un appartement rond. Debout à l'est (de l'épouse), face à l'ouest, il sépare ses cheveux vers le haut (c'est-à-dire en commençant par le devant) avec une plume de porc-épic à trois taches blanches, tenant (aussi) une grappe de fruits verts, avec les Vyâh<i>n</i>tis (et) avec les deux (verset) : « J'invoque Râkâ », (et), « Tes grâces, ô Râkâ » (Taitt. Sa<i>n</i>h. III, 3, 11, 5). Puis il récite sur (sa femme les formules) : « Soma seul est notre roi, ainsi disent les tribus Brâhmanes, assises près de tes rives, ô Gaṅgâ, <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> dont la roue ne recule pas (?) ! » (et) « Puissions-nous trouver notre chemin avec toi à travers toutes les puissances hostiles, comme à travers les courants d'eau » (ci-dessus I, 20, 5).
 
 
 
@@ -59,7 +59,7 @@ Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des 
 
 5\. Après qu'elle ait bu une gorgée d'eau, il lui touche le ventre avec (la formule) : « Avec mes dix (doigts) je te touche afin que tu puisses donner naissance à un enfant dans dix mois. »
 
-6\. [^647] (Il pile) la dernière pousse d'un tronc de Nyagrodha (et mélange la poudre) avec du ghee, ou un ver à soie (et mélange la poudre) avec une bouillie préparée à partir de graines de panic, ou un éclat d'un poteau sacrificiel pris dans la partie nord-est (de ce poteau) exposée au feu, ou (il prend des cendres ou de la suie \[?\] de) <span id="p210">[<sup><small>p. 210</small></sup>]</span> un feu qui a été allumé par attrition, et l'insère dans la narine droite (de la femme) dont la tête repose sur la racine largement répandue (d'un arbre Udumbara ?).
+6\. [^647] (Il pile) la dernière pousse d'un tronc de Nyagrodha (et mélange la poudre) avec du ghee, ou un ver à soie (et mélange la poudre) avec une bouillie préparée à partir de graines de panic, ou un éclat d'un poteau sacrificiel pris dans la partie nord-est (de ce poteau) exposée au feu, ou (il prend des cendres ou de la suie \[?\] de) <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> un feu qui a été allumé par attrition, et l'insère dans la narine droite (de la femme) dont la tête repose sur la racine largement répandue (d'un arbre Udumbara ?).
 
 7\. Si elle fait une fausse couche, il doit la caresser trois fois, du nombril vers le haut, avec sa main mouillée, en disant : « Que Tvash<i>t</i>_ri_ te lie de ses liens, non pas en avant, mais en avant. Fais entrer la mère dans les saisons, vis dix mois (dans le ventre de ta mère) ; n'apporte pas la mort aux hommes. »
 
@@ -76,7 +76,7 @@ Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des 
 
 « Sois une pierre, sois une hache, sois un or insurmontable. Tu es vraiment le Véda appelé fils ; ainsi vis cent automnes. »
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 « De membre en membre tu es né ; du cœur tu es né. Tu es vraiment le soi (âtman) appelé fils ; ainsi vis cent automnes. »
 
@@ -100,7 +100,7 @@ Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des 
 
 (e) 'Ke<i>s</i>inî, <i>S</i>valominî, Ba<i>s</i>âbo<i>s</i>â, Upakâ<i>s</i>ini—va-t'en, disparais d'ici. Svâhâ!
 
-(f) 'Les serviteurs de Kuvera, Vi<i>s</i>vavâsa (?), envoyés par le roi des démons, tous d'une origine commune, <span id="p212">[<sup><small>p. 212</small></sup>]</span> parcourent les villages, visitant ceux qui s'éveillent (?). Svâhâ !
+(f) 'Les serviteurs de Kuvera, Vi<i>s</i>vavâsa (?), envoyés par le roi des démons, tous d'une origine commune, <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> parcourent les villages, visitant ceux qui s'éveillent (?). Svâhâ !
 
 (g) « Tuez-les ! Liez-les ! » ainsi (dit) ce messager de Brahman. Agni les a encerclés. Indra les connaît ; B<i>ri</i>haspati les connaît ; moi, le Brâhma<i>ri</i>a, je connais ceux qui saisissent (les hommes), qui ont les dents proéminentes, les cheveux hérissés, les seins pendants. Svâhâ !
 
@@ -116,7 +116,7 @@ Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des 
 
 « Je connais ton cœur, ô terre, qui habites dans le ciel, dans la lune : ainsi puis-je, le seigneur de l'immortalité, ne pas pleurer sur la détresse (qui tombe sur mon sort) à cause de mes fils. »
 
-9\. Suit maintenant le medhâ<i>g</i>anana (ou production <span id="p213">[<sup><small>p. 213</small></sup>]</span> de l'intelligence). Avec (un instrument d')or sur lequel il a posé une pousse de Darbha attachée (à cette pièce d'or), il donne à l'enfant, qui est tenu de manière à ce qu'il fasse face à l'est, du ghee à manger, avec les formules : « Bhû_h_ ​​! Je sacrifie les _Ri_<i>g</i>as sur toi ! Bhuva_h_ ! Je sacrifie les Ya<i>g</i>us sur toi ! Suva_h_ ! Je sacrifie les Sâmans sur toi ! Bhûr bhuva_h<i>g</i>h_ ! Je sacrifie les hymnes Atharvan et Aṅgiras sur toi ! »
+9\. Suit maintenant le medhâ<i>g</i>anana (ou production <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> de l'intelligence). Avec (un instrument d')or sur lequel il a posé une pousse de Darbha attachée (à cette pièce d'or), il donne à l'enfant, qui est tenu de manière à ce qu'il fasse face à l'est, du ghee à manger, avec les formules : « Bhû_h_ ​​! Je sacrifie les _Ri_<i>g</i>as sur toi ! Bhuva_h_ ! Je sacrifie les Ya<i>g</i>us sur toi ! Suva_h_ ! Je sacrifie les Sâmans sur toi ! Bhûr bhuva_h<i>g</i>h_ ! Je sacrifie les hymnes Atharvan et Aṅgiras sur toi ! »
 
 10\. [^651] Il baigne ensuite l'enfant avec de l'eau tiède avec (les Mantras suivants) :
 
@@ -132,7 +132,7 @@ Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des 
 
 ## PA<i>T</i>ALA 1, SECTION 4.
 
-1\. 'Les quatre divins quartiers du ciel, les épouses du Vent, que le soleil observe : vers leur <span id="p214">[<sup><small>p. 214</small></sup>]</span> longue vie je te tourne ; que la consomption s'en aille vers la destruction !'
+1\. 'Les quatre divins quartiers du ciel, les épouses du Vent, que le soleil observe : vers leur <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> longue vie je te tourne ; que la consomption s'en aille vers la destruction !'
 
 2\. [^652] Après l'avoir placé là, il s'adresse à sa femme avec le Mantra : « Qu'aucun démon ne fasse de mal à ton fils, aucune vache ne se précipite sur lui (?). Puisses-tu devenir l'ami des trésors ; puisses-tu vivre dans la prospérité à ta manière. »
 
@@ -148,7 +148,7 @@ Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des 
 
 8\. [^653] Ils emportent le Sûtikâgni et apportent le feu Aupâsana.
 
-9\. Après avoir mis du bois sur ce feu et accompli les rites jusqu'aux oblations de Vyâh<i>ri</i>ti, ils sacrifient douze oblations avec les versets : « Que Dhât<i>ri</i> nous donne la richesse » (III, 3, II, 2-5) ; selon certains (enseignants), ils en font treize. <span id="p215">[<sup><small>p. 215</small></sup>]</span>
+9\. Après avoir mis du bois sur ce feu et accompli les rites jusqu'aux oblations de Vyâh<i>ri</i>ti, ils sacrifient douze oblations avec les versets : « Que Dhât<i>ri</i> nous donne la richesse » (III, 3, II, 2-5) ; selon certains (enseignants), ils en font treize. <span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 10\. « Ceci, ô Varu<i>ri</i>a » (&c. ; voir I, chap. 27, Sûtra 2, jusqu'à) : « Salut ! Bonne chance ! » Puis qu'il donne à l'enfant un nom de deux syllabes ou de quatre syllabes, commençant par une sonante, avec une semi-voyelle dedans, avec une voyelle longue (ou) le Visarga à sa fin, ou un nom qui contient la particule su, car un tel nom a une base solide ; c'est ainsi qu'il est compris.
 
@@ -164,7 +164,7 @@ Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des 
 
 16\. Lorsqu'il revient d'un voyage, ou lorsque son fils revient, il le touche avec (la formule) : « Avec l'éclat de Soma je te touche, avec la splendeur d'Agni, avec la gloire du soleil. »
 
-17\. [^656] Avec (la formule), « Avec le hu<i>m</i>kâra (la syllabe mystique hu<i>m</i>) du bétail, je t'embrasse, NN ! Pour la longue vie et la gloire ! Hu_m_ ! » il <span id="p216">[<sup><small>p. 216</small></sup>]</span> embrasse sa tête. Puis il saisit de sa main droite (celle de son fils) avec le pouce, avec les cinq sections, « Agni a une longue vie. »
+17\. [^656] Avec (la formule), « Avec le hu<i>m</i>kâra (la syllabe mystique hu<i>m</i>) du bétail, je t'embrasse, NN ! Pour la longue vie et la gloire ! Hu_m_ ! » il <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> embrasse sa tête. Puis il saisit de sa main droite (celle de son fils) avec le pouce, avec les cinq sections, « Agni a une longue vie. »
 
 18\. [^657] « Qu'Agni t'accorde une longue vie partout » (Taitt. Samh. I, 3, 14, 4) — ce (verset) il le murmure à l'oreille droite (de son fils) comme ci-dessus.
 
@@ -185,7 +185,7 @@ Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des 
 
 1\. La troisième année (il effectue) le _K<i>û</i>d_âkarman (c'est-à-dire la tonsure de la tête de l'enfant).
 
-2\. Dans la quinzaine (&c., comme dans la section précédente, Sûtra 2, jusqu'à) : « Salut ! Bonne chance ! » Le garçon s'assoit à l'ouest du feu, face à l'est ; <span id="p217">[<sup><small>p. 217</small></sup>]</span>
+2\. Dans la quinzaine (&c., comme dans la section précédente, Sûtra 2, jusqu'à) : « Salut ! Bonne chance ! » Le garçon s'assoit à l'ouest du feu, face à l'est ; <span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 3\. [^658] Au nord (du feu) sa mère ou un étudiant (brahma<i>k</i>ârin) tient un morceau de crottin de taureau ;
 
@@ -207,7 +207,7 @@ Il fait ensuite asseoir l'épouse qui a pris un bain, qui porte une robe et des 
 
 Sur le côté gauche avec (le Mantra), '(Le rasoir) avec lequel Pûshan a rasé (la barbe) de B<i>ri</i>haspati, d'Agni, d'Indra, pour le bien de la longue vie, avec celui-ci je te rase (la tête), NN!'
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Avant avec (le Mantra), « Qu'il puisse vivre longtemps dans la joie et puisse voir longtemps le soleil. »
 

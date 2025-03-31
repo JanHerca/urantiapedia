@@ -38,7 +38,7 @@ PREMIER CHAPITRE.
 
 Un moine qui a quitté sa mère, son père et tous les liens du monde, (décide) de se promener seul et sagement, de s'abstenir des plaisirs sexuels et de demander un endroit isolé (où loger). (1)
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Avec des prétextes astucieux, les femmes se livrent à lui, si folles soient-elles ; elles savent s'arranger pour que quelques moines deviennent intimes avec elles. (2)
 
@@ -76,7 +76,7 @@ Bien que beaucoup quittent la maison, certains n'arrivent qu'à une position int
 
 Dans l'assemblée, il prononce des paroles saintes, mais en secret il commet des péchés ; mais les sages savent qu'il est un trompeur et un grand malfaiteur. (18)
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 Le pécheur n'avoue pas ses torts, mais s'en vante lorsqu'il est réprimandé. Bien qu'on lui recommande de ne pas agir comme la plupart des hommes, il s'affaiblit sans cesse. (19)
 

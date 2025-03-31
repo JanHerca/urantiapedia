@@ -32,13 +32,13 @@ dateCreated: 2025-2-6T11:21:13Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## ANNEXE.
 
-Le texte suivant, qui contient les quatorze points de croyance, acceptés comme principes fondamentaux dans les sections méridionale et septentrionale du bouddhisme par des comités compétents auxquels je les ai personnellement soumis, revêt une telle importance historique qu'il est ajouté à la présente édition du Catéchisme bouddhiste en annexe. S.E. le prince Ouchtomsky, savant orientaliste russe, m'a récemment rapporté qu'après s'être fait traduire le document, les grands lamas des grands monastères bouddhistes mongols lui ont déclaré accepter chacune des propositions telles que rédigées, à l'exception de la date de la naissance du Bouddha, qu'ils considèrent comme antérieure de plusieurs milliers d'années à celle que j'ai donnée. Ce fait surprenant n'était pas venu à ma connaissance jusqu'alors. Se pourrait-il que la Sangha mongole confonde l'époque réelle de Sâkya Muni avec celle de son prétendu prédécesseur ? Quoi qu'il en soit, <span id="p112">[<sup><small>p. 112</small></sup>]</span> peut-être, c'est un fait très encourageant que l'on puisse désormais dire que le monde bouddhiste tout entier s'est uni au moins dans la mesure de ces Quatorze Propositions.
+Le texte suivant, qui contient les quatorze points de croyance, acceptés comme principes fondamentaux dans les sections méridionale et septentrionale du bouddhisme par des comités compétents auxquels je les ai personnellement soumis, revêt une telle importance historique qu'il est ajouté à la présente édition du Catéchisme bouddhiste en annexe. S.E. le prince Ouchtomsky, savant orientaliste russe, m'a récemment rapporté qu'après s'être fait traduire le document, les grands lamas des grands monastères bouddhistes mongols lui ont déclaré accepter chacune des propositions telles que rédigées, à l'exception de la date de la naissance du Bouddha, qu'ils considèrent comme antérieure de plusieurs milliers d'années à celle que j'ai donnée. Ce fait surprenant n'était pas venu à ma connaissance jusqu'alors. Se pourrait-il que la Sangha mongole confonde l'époque réelle de Sâkya Muni avec celle de son prétendu prédécesseur ? Quoi qu'il en soit, <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> peut-être, c'est un fait très encourageant que l'on puisse désormais dire que le monde bouddhiste tout entier s'est uni au moins dans la mesure de ces Quatorze Propositions.
 
 HSO
 
@@ -54,7 +54,7 @@ III. Les vérités sur lesquelles repose le bouddhisme sont naturelles. Nous cro
 
 IV. Le quatrième Maître du Kalpa actuel était Sâkya Muni, ou Gautama Bouddha, né dans une famille royale en Inde il y a environ 2 500 ans. C'est un personnage historique et son nom était Siddârtha Gautama.
 
-V. Sâkya Muni a enseigné que l'ignorance produit. <span id="p113">[<sup><small>p. 113</small></sup>]</span> Le désir, le désir insatisfait est la cause de la renaissance, et la renaissance, la cause de la souffrance. Pour se débarrasser de la souffrance, il est donc nécessaire d'échapper à la renaissance ; pour échapper à la renaissance, il est nécessaire d'éteindre le désir ; et pour éteindre le désir, il est nécessaire de détruire l'ignorance.
+V. Sâkya Muni a enseigné que l'ignorance produit. <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> Le désir, le désir insatisfait est la cause de la renaissance, et la renaissance, la cause de la souffrance. Pour se débarrasser de la souffrance, il est donc nécessaire d'échapper à la renaissance ; pour échapper à la renaissance, il est nécessaire d'éteindre le désir ; et pour éteindre le désir, il est nécessaire de détruire l'ignorance.
 
 VI. L'ignorance nourrit la croyance que la renaissance est une chose nécessaire. Lorsque l'ignorance est détruite, on perçoit l'inutilité de toute renaissance, considérée comme une fin en soi, ainsi que la nécessité primordiale d'adopter un mode de vie qui supprime la nécessité de telles renaissances répétées. L'ignorance engendre également l'idée illusoire et illogique qu'il n'existe qu'une seule existence pour l'homme, et l'illusion que cette vie unique est suivie d'états de plaisirs ou de tourments immuables.
 
@@ -75,7 +75,7 @@ XI. L'essence du bouddhisme, telle que résumée par le Tathâgata (Bouddha) lui
   * Pour obtenir la vertu,
   * Pour purifier le cœur.
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 XII. L'univers est soumis à une causalité naturelle appelée « karma ». Les mérites et les démérites d'un être dans ses existences passées déterminent sa condition dans l'existence présente. Chaque homme a donc préparé les causes des effets qu'il subit actuellement.
 
@@ -87,7 +87,7 @@ Conçu comme une plate-forme commune sur laquelle tous les bouddhistes peuvent s
 
 HS OLCOTT, PTS
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Respectueusement soumis à l'approbation des Grands Prêtres des nations que nous représentons individuellement, à la Conférence Bouddhiste tenue à Adyar, Madras, les 8, 9, 10, 11 et 12 janvier 1891 (AB 2434).
 
@@ -107,7 +107,7 @@ Tha-tha-na-baing Saydawgyi ; Aung Myi Shwebôn Sayadaw ; Me-ga-waddy Sayadaw ; H
 
 CEYLAN.
 
-Approuvé au nom des bouddhistes de Ceylan ce 25 février 1891 (AB 2434) ; Mahanuwara upawsatha puspârâma vihârâdhipati Hippola <span id="p117">[<sup><small>p. 117</small></sup>]</span> Dhamma Rakkhita Sobhitâbhidhâna Mahâ Nâyaka Sthavirayan wahanse wamha.
+Approuvé au nom des bouddhistes de Ceylan ce 25 février 1891 (AB 2434) ; Mahanuwara upawsatha puspârâma vihârâdhipati Hippola <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> Dhamma Rakkhita Sobhitâbhidhâna Mahâ Nâyaka Sthavirayan wahanse wamha.
 
 (Hippola Dhamma Rakkhita Sabhitâbhidhàna, Grand Prêtre du Malwalta Vihare à Kandy).
 
@@ -129,7 +129,7 @@ Sugata Sâsanadhaja Vinayâ chariya Dhammalankârâbhidhâna Nayaka Sthavira.
 
 (Signé) Dhammalankara,
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 Pawara neruttika chariya Mahâ Vibhavi Subhuti de Waskaduwa.
 

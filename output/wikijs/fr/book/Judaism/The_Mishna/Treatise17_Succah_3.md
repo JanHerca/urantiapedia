@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 10. Si le hallel [^386] est lu à un homme par un esclave, ou une femme, ou un mineur, il doit répéter après eux \[mot à mot\] ce qu'ils lisent ; [^387] mais c'est une honte pour lui. [^388] Si une personne adulte [^389] le lui lit \[le hallel\], il ne fait que répéter après lui \[répond\] Alléluia.
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 § 11. Là où il est d'usage de répéter deux fois les versets, on doit les répéter. Là où il est d'usage de les réciter une seule fois, on doit les réciter une seule fois. Là où il est d'usage de dire une bénédiction après le loolab, on doit dire une bénédiction. Dans tous les cas, selon la coutume du pays, on doit s'y conformer. Si quelqu'un achète un loolab à son voisin pendant la septième année sabbatique, le vendeur doit lui offrir un citron en cadeau ; car il est interdit d'acheter un citron pendant la septième année sabbatique.
 

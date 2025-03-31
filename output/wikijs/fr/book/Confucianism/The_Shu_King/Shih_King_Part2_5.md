@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T22:26:32Z
 
 LE ROI, REÇU LE CHEF DES PRINCES FÉODAUX, LEUR EXPRIME SON ADMIRATION ET LEUR VOEUX.
 
-Ils voltigent, les becs verts [^461], avec leurs <span id="p374">[<sup><small>p. 374</small></sup>]</span> ailes panachées, ces princes sont dignes de joie ! Puissent-ils recevoir la bénédiction du Ciel [^462] !
+Ils voltigent, les becs verts [^461], avec leurs <span id="p374"><sup><small>[ p. 374 ]</small></sup></span> ailes panachées, ces princes sont dignes de joie ! Puissent-ils recevoir la bénédiction du Ciel [^462] !
 
 <a id="o6"></a>
 
@@ -50,7 +50,7 @@ CONTRE L'IVREUR. CONSOMMER DE L'ALCOOL CONFORMÉMENT AUX RÈGLES LORS DES CONCOU
 
 Il y a de bonnes raisons d'attribuer la paternité de cette pièce au duc Wû de Wei (812-758 av. J.-C.), qui joua un rôle important dans le royaume lors des événements qui aboutirent à la mort du roi Yû et au transfert de la capitale de Hâo à Lo. On peut supposer que cette pièce décrit la situation à la cour du roi Yû.
 
-Lorsque les invités s'approchent des nattes [^463], ils prennent place à gauche et à droite de manière ordonnée. Les plats de bambou et de bois sont disposés en rangées, avec les sauces et les grains de café exposés dedans. Les spiritueux sont doux et bons, et ils boivent, tous avec la même révérence. Les cloches et les tambours sont correctement disposés [^464], et ils lèvent leurs coupes de gage avec ordre et aisance [^465]. (Ensuite) la grande cible <span id="p375">[<sup><small>p. 375</small></sup>]</span> est dressée ; les arcs et les flèches sont préparés pour le tir. Les archers sont disposés par classes ; « Montrez votre habileté au tir », dit l'un d'eux. « J'atteindrai cette cible » (est la réponse), « Et je vous prie de boire la coupe [^466] ».
+Lorsque les invités s'approchent des nattes [^463], ils prennent place à gauche et à droite de manière ordonnée. Les plats de bambou et de bois sont disposés en rangées, avec les sauces et les grains de café exposés dedans. Les spiritueux sont doux et bons, et ils boivent, tous avec la même révérence. Les cloches et les tambours sont correctement disposés [^464], et ils lèvent leurs coupes de gage avec ordre et aisance [^465]. (Ensuite) la grande cible <span id="p375"><sup><small>[ p. 375 ]</small></sup></span> est dressée ; les arcs et les flèches sont préparés pour le tir. Les archers sont disposés par classes ; « Montrez votre habileté au tir », dit l'un d'eux. « J'atteindrai cette cible » (est la réponse), « Et je vous prie de boire la coupe [^466] ».
 
 Les danseurs se déplacent avec leurs flûtes au rythme de l'orgue et du tambour, tandis que tous les instruments jouent en harmonie. Tout cela est fait pour plaire aux ancêtres méritants, ainsi que pour l'observance de toutes les cérémonies. Lorsque toutes les cérémonies ont été pleinement accomplies, majestueusement et pleinement, (les personnificateurs des morts disent) : « Nous vous accordons de grandes bénédictions, et que vos descendants soient également heureux ! » Ceux-ci sont heureux et ravis, et chacun d'eux exerce son talent. Un invité [^467] attire les esprits ; un serviteur entre à nouveau avec une coupe, et la remplit – la coupe du repos [^467]. Ainsi se déroulent vos cérémonies saisonnières [^468].
 

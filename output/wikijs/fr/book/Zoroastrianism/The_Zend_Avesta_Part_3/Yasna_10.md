@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 ## YASNA X.
 
@@ -44,7 +44,7 @@ Je te loue de ma voix, tandis que je saisis d'abord tes pousses. À ta prochaine
 
 3\. Je loue le nuage qui t'arrose, et les pluies qui te font croître sur les sommets des montagnes ; et je loue tes hautes montagnes où s'étendent les branches de H(a)oma [^995].
 
-4\. Je loue cette vaste terre, étendue au loin (avec des sentiers), la productive, la pleine de port, ta mère, plante sainte ! Oui, je loue les terres où tu pousses, parfumées, s'étendant rapidement, la bonne croissance du Seigneur. OH(a)oma, tu pousses sur les montagnes, à l'écart sur de nombreux sentiers [^996], et là tu peux encore fleurir. Tu es très certainement les sources de la Justice, (et les fontaines du rituel trouvent leur source en toi) ! <span id="p241">[<sup><small>p. 241</small></sup>]</span> 5\. Crois (alors) parce que je te prie sur toutes tes tiges et branches, dans toutes tes pousses (et vrilles) crois-toi par ma parole !
+4\. Je loue cette vaste terre, étendue au loin (avec des sentiers), la productive, la pleine de port, ta mère, plante sainte ! Oui, je loue les terres où tu pousses, parfumées, s'étendant rapidement, la bonne croissance du Seigneur. OH(a)oma, tu pousses sur les montagnes, à l'écart sur de nombreux sentiers [^996], et là tu peux encore fleurir. Tu es très certainement les sources de la Justice, (et les fontaines du rituel trouvent leur source en toi) ! <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> 5\. Crois (alors) parce que je te prie sur toutes tes tiges et branches, dans toutes tes pousses (et vrilles) crois-toi par ma parole !
 
 ---
 
@@ -68,7 +68,7 @@ Qui, tel un fils tendre, caresse H(a)oma, H(a)oma vient guérir le corps de ces 
 
 14\. Ne disparais pas de moi subitement comme des gouttes de lait sous la pluie ; que tes exaltations jaillissent toujours vigoureusement et fraîchement ; et qu'elles viennent à moi avec un effet puissant. Devant toi, saint H(a)oma, toi qui portes la vérité rituelle, et autour de toi, je voudrais placer ce corps, un corps qui (comme tous peuvent le voir) est digne d'être offert et a grandi [^1002].
 
-15\. Je renonce avec véhémence à la vacuité de la femme meurtrière [^1003], à celle de <i>G</i>aini, la sienne, avec intellect <span id="p243">[<sup><small>p. 243</small></sup>]</span> détrônée [^1004]. Elle pense vainement nous déjouer et voudrait tromper le prêtre du Feu et H(a)oma ; mais elle-même, trompée en cela, périra. Et lorsqu'elle restera assise chez elle [^1005] et mangera injustement de l'offrande de H(a)oma, la mère du prêtre ne la fera jamais, ni ne lui donnera de fils saints [^1006] !
+15\. Je renonce avec véhémence à la vacuité de la femme meurtrière [^1003], à celle de <i>G</i>aini, la sienne, avec intellect <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> détrônée [^1004]. Elle pense vainement nous déjouer et voudrait tromper le prêtre du Feu et H(a)oma ; mais elle-même, trompée en cela, périra. Et lorsqu'elle restera assise chez elle [^1005] et mangera injustement de l'offrande de H(a)oma, la mère du prêtre ne la fera jamais, ni ne lui donnera de fils saints [^1006] !
 
 ---
 
@@ -80,7 +80,7 @@ Je suis voué à l'obéissance, et non à la désobéissance sourde ; j'appartie
 
 17\. Alors Zarathustra parla : Louange à H(a)oma, fait par Mazda. Bon est H(a)oma, fait par Mazda. Je loue toutes les plantes de H(a)oma, sur les hauteurs des hautes montagnes, dans les gorges des vallées, dans les crevasses (des flancs de collines séparés) taillées pour les paquets liés par les femmes. De la coupe d’argent je Te verse dans le calice d’or au-dessus [^1008]. Ne permets pas que ta liqueur (sacrée) se répande sur la terre, de son précieux prix.
 
-18\. Ce sont tes Gâthas [^1009], saint H(a)oma, ces <span id="p244">[<sup><small>p. 244</small></sup>]</span> tes chants, et ces tes enseignements [^1010], et ces tes paroles rituelles véridiques, qui donnent la santé [^1011]\, qui donnent la victoire, qui guérissent de la haine nuisible.
+18\. Ce sont tes Gâthas [^1009], saint H(a)oma, ces <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> tes chants, et ces tes enseignements [^1010], et ces tes paroles rituelles véridiques, qui donnent la santé [^1011]\, qui donnent la victoire, qui guérissent de la haine nuisible.
 
 19\. Ceux-ci et toi êtes à moi, et que tes joies s'écoulent ; qu'elles soient brillantes et étincelantes, qu'elles poursuivent leur chemin ; car tes joies sont légères, et elles volent légèrement jusqu'ici. H(a)oma, source de victoire, est adoré, source de victoire ; par ce mot gâtique, nous le louons.
 

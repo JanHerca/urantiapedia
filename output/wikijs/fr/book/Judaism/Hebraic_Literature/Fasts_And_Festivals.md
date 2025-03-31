@@ -49,7 +49,7 @@ Il leur fut ordonné de le rôtir tout entier et de n'en briser aucun os, afin q
 
 L'Éternel dit à Moïse : « Dis aux enfants d'Israël qu'ils emprunteront aux Égyptiens des vases d'or et d'argent », afin qu'il ne soit pas dit plus tard : « Les paroles : ils les asserviront et les opprimeront » se sont accomplies ; mais les paroles : ils sortiront avec de grandes richesses ne se sont pas réalisées. »
 
-<span id="p374">[<sup><small>p. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 Lorsque Moïse dit aux Israélites qu’ils devaient sortir d’Égypte avec de grandes richesses, ils répondirent : « Si seulement nous pouvions partir les mains vides », comme le serviteur enfermé en prison.
 
@@ -85,7 +85,7 @@ On demanda aux enfants d'Ésaü d'accepter la loi, et ils demandèrent égalemen
 
 Lorsqu’on demanda à Israël d’accepter la loi, le peuple répondit : « Nous la ferons et nous obéirons. »
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 ## LE NOUVEL AN, OU LE JOUR DU MÉMORIAL
 
@@ -95,7 +95,7 @@ Toute personne sensée, sachant qu'elle doit comparaître devant un tribunal, ne
 
 C'est à cette époque que le Seigneur pardonna aux Israélites qui avaient adoré le veau d'or. Il ordonna à Moïse de remonter sur la montagne pour prendre une seconde tablette, après avoir détruit la première. Ainsi parlent les sages : « Le Seigneur dit à Moïse, au mois d'Éloul, de monter vers moi sur la montagne. Moïse monta et reçut la seconde tablette au bout de quarante jours. Avant de monter, il fit sonner la trompette dans le camp. » Depuis lors, il est de coutume de sonner du shophar (cornet) dans les synagogues, pour avertir le peuple que le jour du jugement, le Nouvel An, approche à grands pas, et avec lui le Jour des Expiations. C'est pourquoi les prières propitiatoires sont dites deux fois par jour, matin et soir, à partir du deuxième jour d'Eloul jusqu'à la veille du Jour des Expiations, période qui comprend les quarante derniers jours que Moïse passa sur le Sinaï, lorsque Dieu fut réconcilié avec Israël et pardonna leurs transgressions avec le veau en métal fondu.
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 Rabbi Éléazar a dit : « Abraham et Jacob naquirent en Tichri et moururent en Tichri. Le premier jour de Tichri, l'univers fut créé et Isaac naquit pendant la Pâque. Le premier jour de Tichri (Nouvel An), Sarah, Rachel et Hannah, trois femmes stériles, furent visitées. Le premier jour de Tichri, nos ancêtres cessèrent leur dur labeur en Égypte. Le premier jour de Tichri, Adam fut créé ; à partir de son existence, nous comptons nos années, soit le sixième jour de la création. Ce jour-là aussi, il mangea du fruit défendu ; c'est pourquoi le temps est fixé pour la pénitence, car le Seigneur dit à Adam : « Ceci sera un signe pour les générations futures ; tes descendants seront jugés en ces jours-là, et ils seront fixés comme des jours de pardon et de rémission. »
 
@@ -117,7 +117,7 @@ Ainsi enseignait Rabbi Akiba. « Pourquoi la loi ordonne-t-elle d'apporter une g
 
 Pourquoi la Bible dit-elle : “Apportez deux pains de blé nouveau à la Pentecôte ?” Parce qu’à la Pentecôte, le fruit mûrit et Dieu dit : “Offrez pour moi deux pains de blé nouveau, afin que je bénisse le fruit qui est sur les arbres.”
 
-<span id="p378">[<sup><small>p. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 Pourquoi nous a-t-on commandé d'apporter une libation d'eau dans le Temple lors de la fête des Tabernacles ? Parce que c'est alors la saison des pluies, et l'Éternel dit : “Apportez-moi une libation d'eau, afin que je bénisse la pluie de l'année.”
 
@@ -131,7 +131,7 @@ Trois catégories de personnes sont traduites en jugement : les justes, les méc
 
 La Bible prescrit trois sons pour le cornet : un son pur (_T\`kiah_), un son d’alarme ou de tremblement (_T\`ruah_), et enfin un son pur (_T\`kiah_).
 
-Le premier son symbolise le premier réveil de l'homme à la pénitence ; il doit bien sonder son cœur, abandonner ses mauvaises voies et purifier ses pensées, comme il est écrit : « Que le méchant <span id="p379">[<sup><small>p. 379</small></sup>]</span> abandonne ses voies, et l'homme d'iniquité ses pensées, et qu'il retourne au Seigneur. »
+Le premier son symbolise le premier réveil de l'homme à la pénitence ; il doit bien sonder son cœur, abandonner ses mauvaises voies et purifier ses pensées, comme il est écrit : « Que le méchant <span id="p379"><sup><small>[ p. 379 ]</small></sup></span> abandonne ses voies, et l'homme d'iniquité ses pensées, et qu'il retourne au Seigneur. »
 
 Le son de l’alarme symbolise la tristesse qu’un homme repentant ressent pour sa mauvaise conduite et sa détermination sincère à se réformer.
 
@@ -171,7 +171,7 @@ Neuvièmement, pour nous rappeler de prier pour le temps où les exilés d’Isr
 
 Dixièmement, pour nous rappeler la résurrection des morts et notre ferme croyance en elle : « Oui, vous tous qui habitez le monde et qui demeurez sur la terre, lorsque l’étendard sera élevé sur la montagne, regardez, et lorsque la trompette sonnera, écoutez ! » dit le prophète Isaïe.
 
-<span id="p381">[<sup><small>p. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 C'est pourquoi nous devons fixer nos cœurs sur ces temps et accomplir le précepte que la Bible nous commande, comme il est écrit :
 
@@ -187,7 +187,7 @@ Deuxièmement, de l'homme qui a mené une vie de péché pendant un certain temp
 
 Troisièmement, de celui qui, pour une raison quelconque, a été empêché de commettre un péché envisagé, et qui se repent sincèrement de sa mauvaise intention. « Heureux l'homme qui craint l'Éternel », dit le Psalmiste. L'homme, pas la femme ? Oui, toute l'humanité. Ce mot est utilisé pour désigner la force ; ceux qui se repentent encore dans leur jeunesse.
 
-Quatrièmement, celui qui se repent lorsque son péché lui est signalé et qu'il en est réprimandé, comme dans le cas des habitants de Ninive. Ils ne se repentirent pas avant que Jonas ne leur proclame : « Encore quarante jours, et Ninive sera détruite. » Les habitants de Ninive crurent à la miséricorde divine et, bien que le décret fût prononcé contre eux, ils se repentirent. « Dieu vit qu'ils agissaient ainsi, et qu'ils s'étaient détournés de leur mauvaise voie. Dieu se souvint du mal qu'il avait promis de leur faire, et il ne le fit pas. » C'est pourquoi les Rabbins disent : « Nos frères, ni le sac <span id="p382">[<sup><small>p. 382</small></sup>]</span> ni le jeûne n'obtiendront le pardon des péchés, mais la repentance du cœur et les bonnes œuvres ; car il n'est pas dit des hommes de Ninive : « Dieu vit leur jeûne et leur sac », mais : « Dieu vit leur œuvre, et qu'ils s'étaient détournés de leurs mauvaises voies. »
+Quatrièmement, celui qui se repent lorsque son péché lui est signalé et qu'il en est réprimandé, comme dans le cas des habitants de Ninive. Ils ne se repentirent pas avant que Jonas ne leur proclame : « Encore quarante jours, et Ninive sera détruite. » Les habitants de Ninive crurent à la miséricorde divine et, bien que le décret fût prononcé contre eux, ils se repentirent. « Dieu vit qu'ils agissaient ainsi, et qu'ils s'étaient détournés de leur mauvaise voie. Dieu se souvint du mal qu'il avait promis de leur faire, et il ne le fit pas. » C'est pourquoi les Rabbins disent : « Nos frères, ni le sac <span id="p382"><sup><small>[ p. 382 ]</small></sup></span> ni le jeûne n'obtiendront le pardon des péchés, mais la repentance du cœur et les bonnes œuvres ; car il n'est pas dit des hommes de Ninive : « Dieu vit leur jeûne et leur sac », mais : « Dieu vit leur œuvre, et qu'ils s'étaient détournés de leurs mauvaises voies. »
 
 Cinquièmement, de ceux qui se repentent lorsque les difficultés les frappent. Combien cela est-il plus noble que la nature humaine ! Prenons l’exemple de Jephté : « Ne m’avez-vous pas haï… et pourquoi êtes-vous venus à moi maintenant que vous êtes dans la détresse ? » Mais l’infinie miséricorde de notre Dieu accepte même un tel repentir, comme il est écrit : « Lorsque tu seras dans la tribulation, et que toutes ces choses t’atteindront… alors tu retourneras à l’Éternel, ton Dieu. » C’est sur ce principe que se fonde le proverbe des pères : « Le repentir et les bonnes actions forment un bouclier contre le châtiment. »
 
@@ -231,7 +231,7 @@ Il arriva qu'un maire envoya un jour son domestique au marché acheter du poisso
 
 « Alors comment peux-tu te permettre de payer un prix aussi élevé pour un poisson, et comment oses-tu dégrader ma dignité en offrant pour cela une somme plus élevée que celle offerte par mon serviteur ? »
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 « Je jeûne demain », répondit le tailleur, « et j'ai souhaité manger le poisson aujourd'hui pour avoir la force de le faire. Je ne l'aurais pas perdu, même pour dix pièces d'or. »
 
@@ -255,7 +255,7 @@ Le roi du pays envoya un officier auprès de cet homme, lui ordonnant de se pré
 
 Désespéré, l'homme s'adressa à son troisième ami, celui qu'il avait négligé, mais qui lui répondit aussitôt :
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 « N'aie pas peur ; j'irai avec toi et je te défendrai. Je ne t'abandonnerai pas avant que tu sois délivré de ton épreuve. »
 
@@ -285,7 +285,7 @@ Selon certains rabbins, les Israélites n'habitaient pas réellement dans des ca
 
 Les enfants d'Israël quittèrent l'Égypte en avril (Nissan) et obtinrent immédiatement ces cabanes, qu'ils utilisèrent pendant quarante ans. Ils y demeurèrent ainsi tout au long de l'année, et nous pourrions commémorer ce fait aussi bien au printemps qu'à l'automne, en été qu'en hiver. Pourquoi, alors, Dieu a-t-il fait de l'automne, et non du printemps ni de l'été, la saison de célébration ? Car si nous habitions dans des cabanes en été, la question se poserait de savoir si nous le faisions par obéissance à Dieu ou pour notre propre plaisir. Nombreux sont ceux qui recherchent des refuges aérés en cette saison. Mais en automne, lorsque les arbres perdent leurs feuilles, que l'air devient froid et glacial, et qu'il est temps de préparer nos maisons pour l'hiver, en habitant ces résidences temporaires, nous manifestons notre désir d'accomplir les ordres de notre Créateur.
 
-La Fête des Tabernacles est aussi la Fête de la Récolte, où nous devons remercier Dieu pour sa bonté envers nous, <span id="p389">[<sup><small>p. 389</small></sup>]</span> et pour le trésor dont il nous a bénis. Lorsque l'Éternel a pourvu l'homme de sa subsistance, il devrait, durant les longues soirées qui suivent, méditer et étudier sa Bible, et faire de cette fête un véritable « festin pour le Seigneur », et non pas uniquement pour sa propre satisfaction.
+La Fête des Tabernacles est aussi la Fête de la Récolte, où nous devons remercier Dieu pour sa bonté envers nous, <span id="p389"><sup><small>[ p. 389 ]</small></sup></span> et pour le trésor dont il nous a bénis. Lorsque l'Éternel a pourvu l'homme de sa subsistance, il devrait, durant les longues soirées qui suivent, méditer et étudier sa Bible, et faire de cette fête un véritable « festin pour le Seigneur », et non pas uniquement pour sa propre satisfaction.
 
 Les quatre espèces végétales que nous utilisons lors de cette fête sont destinées à nous rappeler les quatre éléments de la nature, qui œuvrent sous la direction et l'approbation du Très-Haut, et sans lesquels tout cesserait d'exister. C'est pourquoi la Bible nous commande, en cette « fête du Seigneur », de rendre grâce et de présenter devant lui ces quatre espèces, chacune symbolisant l'un des éléments.
 
@@ -305,7 +305,7 @@ Le cédrat est un fruit précieux ; il est bon à manger et possède une odeur t
 
 Le palmier porte des fruits, mais il est sans odeur. On le compare à ces gens instruits, mais dépourvus de bonnes œuvres ; à ceux qui connaissent la loi, mais qui la transgressent.
 
-<span id="p391">[<sup><small>p. 391</small></sup>]</span>
+<span id="p391"><sup><small>[ p. 391 ]</small></sup></span>
 
 Le myrte est comparé à ces gens qui sont naturellement bons, qui agissent correctement envers Dieu et envers les hommes, mais qui ne sont pas éduqués.
 
@@ -321,7 +321,7 @@ Alors quelques-uns des gens répondirent :
 
 « Heureux furent les jours de notre jeunesse, car ils n’ont pas mis à rougir les jours de notre vieillesse. » C’étaient des hommes pieux.
 
-<span id="p392">[<sup><small>p. 392</small></sup>]</span>
+<span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
 D’autres ont répondu :
 
@@ -359,7 +359,7 @@ Bien que le Seigneur ait affligé Israël à cause de ses iniquités, il a néan
 
 « Malgré tout cela, même s'ils sont dans le pays de leurs ennemis, je ne les rejetterai pas, et je ne les haïrai pas au point de les détruire entièrement, ni de rompre mon alliance avec eux, car je suis l'Éternel, leur Dieu. »
 
-<span id="p394">[<sup><small>p. 394</small></sup>]</span>
+<span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
 Et c'est ainsi que les rabbins expliquent la même chose :
 

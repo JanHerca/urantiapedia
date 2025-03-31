@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:36:11Z
   </table>
 </figure>
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 Les lecteurs, surtout ceux qui ne sont pas familiers avec la philosophie scolastique, seront peut-être heureux de trouver ici une brève explication des différents types de vision et de locution, corporelle, imaginaire et intellectuelle. Les sens du goût, du toucher et de l'odorat sont moins souvent affectés par les phénomènes mystiques, mais ce que nous allons dire à propos de la vue et de l'ouïe s'applique également, mutatis mutandis, à ces derniers.
 
@@ -48,7 +48,7 @@ Ces visions, locutions, etc., ne sont pas des hallucinations. Celles-ci sont due
 
 III. Une vision ou une locution intellectuelle est celle où rien n'est vu ni entendu par les yeux et les oreilles, et où aucune sensation n'est perçue par l'imagination. Or, l'impression que l'imagination transmettrait à l'intellect, si elle était venue par les sens et lui avait été transmise, est directement imprimée dans l'intellect. Pour comprendre cela, il est nécessaire de garder à l'esprit que les impressions que nous recevons par les sens doivent subir une transformation – être spiritualisées – avant d'atteindre l'intellect. C'est l'un des problèmes les plus difficiles de la psychologie ; aucune des solutions proposées par les différentes écoles de philosophie ne semble le libérer entièrement de l'obscurité. Selon saint Thomas d'Aquin, l'impression reçue par l'œil (Species sensibilis) est spiritualisée par une faculté appelée Intellectus agens, par le biais de l'abstraction (Species impressa), et est conservée dans la mémoire, comme des diapositives de lanterne, disponibles à la demande. L'esprit, s'identifiant à la Species impressa, produit le Verbe de l'esprit (Verbum mentis), en quoi consiste l'acte de compréhension ou de conception mentale. Dans la vision ou locution intellectuelle, Dieu, sans la coopération des sens, de l'imagination ou de la mémoire, produit directement sur l'esprit la Species impressa. Comme celle-ci est surnaturelle quant à son origine, et souvent aussi quant à son objet, il est logique qu'elle soit trop élevée pour que la mémoire la reçoive, de sorte que ces visions et locutions ne sont souvent mémorisées qu'imparfaitement, et parfois complètement oubliées, comme le dit sainte Thérèse. En revanche, elles sont bien moins dangereuses que les visions et locutions corporelles ou imaginaires, car les sens et l'imagination n'y sont pour rien, tandis que les esprits malins sont incapables d'agir directement sur l'esprit, et l'auto-illusion est totalement exclue pour les raisons exposées par sainte Thérèse.
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 Saint Paul cite un exemple d'une telle vision : « Je connais un homme en Christ, il y a plus de quatorze ans (si ce fut dans son corps, je l'ignore, ou hors de son corps, je l'ignore, Dieu le sait), qui fut enlevé jusqu'au troisième ciel. Et je connais un tel homme (si ce fut dans son corps, je l'ignore, ou hors de son corps, Dieu le sait) : il fut enlevé au paradis, et il entendit des paroles secrètes, qu'il n'est pas donné à un homme d'exprimer. » (2 Cor. xii. 2-4).
 

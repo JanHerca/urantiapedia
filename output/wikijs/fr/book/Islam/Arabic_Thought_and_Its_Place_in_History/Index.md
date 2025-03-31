@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T10:51:55Z
   </table>
 </figure>
 
-<span id="p321">[<sup><small>p. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 ‘Abbassides, [89](./3#p89) sqq.
 
@@ -163,7 +163,7 @@ Ibn Bajja, [269](./10#p269)
 
 Ibn Gabirol, [242](./9#p242)
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 Ibn Hazun, [231](./9#p231) sq.
 
@@ -313,7 +313,7 @@ ar-Razi, [111](./4#p111)
 <br>
 <br>
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 sahibs, [67](./2#p67)
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 ## ADHYÂYA V, KHA<i>ND</i>A 1.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. Et au moment du sacrifice de Vai<i>s</i>vadeva.
 
-7\. [^299]. Ayant porté un feu ordinaire dans un endroit enduit (de bouse de vache), qui est élevé, et <span id="p134">[<sup><small>p. 134</small></sup>]</span> qui a été aspergé (d'eau), il fait redescendre (le feu sacré) (de son réceptacle, avec la formule) : « Redescends ! »
+7\. [^299]. Ayant porté un feu ordinaire dans un endroit enduit (de bouse de vache), qui est élevé, et <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> qui a été aspergé (d'eau), il fait redescendre (le feu sacré) (de son réceptacle, avec la formule) : « Redescends ! »
 
 8\. [^300]. Si le feu s'éteint, il sacrifie les deux oblations de Sarvaprâya<i>s</i><i>s</i>itta (oblations pour l'expiation générale) et (d'autres oblations) avec (les formules) : « Protège-nous, Agni, afin que nous puissions prospérer. Svâhâ ! Protège-nous afin que nous puissions obtenir toute richesse. Svâhâ ! Le sacrifice protège, ô resplendissant ! Svâhâ ! Protège tout, ô centuple sage. Svâhâ ! »
 
@@ -80,7 +80,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. (Et) après avoir préparé un plat de nourriture cuite,
 
-3\. Il sacrifiera avec (les formules) : « À <span id="p136">[<sup><small>p. 136</small></sup>]</span> Vish<i>n</i>u svâhâ ! À Indra et Agni svâhâ ! À Vi<i>n</i>vakarman svâhâ ! » (et avec les versets) : « Que les hommes » (Rig-veda III, 8, 6 seq.), verset par verset.
+3\. Il sacrifiera avec (les formules) : « À <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> Vish<i>n</i>u svâhâ ! À Indra et Agni svâhâ ! À Vi<i>n</i>vakarman svâhâ ! » (et avec les versets) : « Que les hommes » (Rig-veda III, 8, 6 seq.), verset par verset.
 
 4\. Il récite sur (le jardin) : « Ô arbre aux cent branches » (Rig-veda III, 8, 11).
 
@@ -104,7 +104,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. Si une colombe ou un hibou s'assoit (sur sa maison),
 
-2\. Qu'il sacrifie avec (l'hymne) « Ô dieux, la colombe » (Rig-veda X, 165), verset par verset. <span id="p137">[<sup><small>p. 137</small></sup>]</span>
+2\. Qu'il sacrifie avec (l'hymne) « Ô dieux, la colombe » (Rig-veda X, 165), verset par verset. <span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 3\. S'il a vu un mauvais rêve ou un événement annonçant un malheur,
 
@@ -146,7 +146,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. [^305]. Si (sa femme) donne naissance à un enfant, sans que le Sîmantonnayana ait été accompli,
 
-2\. [^306]. (Ou si) le Gâtakarman n'a pas été exécuté (pour l'enfant), <span id="p138">[<sup><small>p. 138</small></sup>]</span>
+2\. [^306]. (Ou si) le Gâtakarman n'a pas été exécuté (pour l'enfant), <span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 3 [^307]. Il place, dix jours après l'accouchement, le petit enfant sur les genoux de sa mère,
 
@@ -170,7 +170,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## CHAPITRE 9.
 
-1\. [^312]. Vient ensuite le Sapi<i>nd</i>îkara<i>n</i>a. <span id="p139">[<sup><small>p. 139</small></sup>]</span>
+1\. [^312]. Vient ensuite le Sapi<i>nd</i>îkara<i>n</i>a. <span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 2 [^313]. Qu'il remplisse quatre jarres d'eau (pour les Mânes) du père vers le haut,
 

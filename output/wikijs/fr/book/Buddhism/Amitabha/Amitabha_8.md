@@ -32,11 +32,11 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 La guerre est toujours déplorable, mais parfois elle ne peut être évitée. Et si tel est le cas, loin de la fuir, un dirigeant responsable du bien-être de son peuple doit la mener résolument et courageusement dans le seul but de la mener rapidement à une heureuse conclusion.
 
-Telle était la maxime de Kanishka, et il agit en conséquence. Ayant rassemblé une armée aussi forte qu'il le pouvait, il surprit les montagnards en venant sur eux tout à coup avec des forces supérieures des deux côtés. Ils opposa une résistance désespérée, mais il les renversa et, laissant des garnisons dans certains endroits d'importance stratégique, porta la guerre plus loin au cœur du royaume de Magadha. Il descendit dans la vallée du Gange, et se précipitant à marches forcées à travers les royaumes vassaux de Delhi et de Sravasti, l'armée du Gandhâra <span id="p60">[<sup><small>p. 60</small></sup>]</span> marcha en quatre colonnes vers la capitale du pays.
+Telle était la maxime de Kanishka, et il agit en conséquence. Ayant rassemblé une armée aussi forte qu'il le pouvait, il surprit les montagnards en venant sur eux tout à coup avec des forces supérieures des deux côtés. Ils opposa une résistance désespérée, mais il les renversa et, laissant des garnisons dans certains endroits d'importance stratégique, porta la guerre plus loin au cœur du royaume de Magadha. Il descendit dans la vallée du Gange, et se précipitant à marches forcées à travers les royaumes vassaux de Delhi et de Sravasti, l'armée du Gandhâra <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> marcha en quatre colonnes vers la capitale du pays.
 
 Subâhu, roi de Magadha, rencontra son adversaire dans la campagne de Pâtaliputra avec une armée qui s'était rapidement rassemblée, mais il ne put arrêter la progression victorieuse de l'envahisseur. Au cours de plusieurs combats, ses troupes furent dispersées aux quatre vents, ses éléphants capturés et il fut obligé de se retirer dans la forteresse de Pâtaliputra. Là, il fut assiégé et, voyant qu'il n'y avait plus aucun espoir de fuite, il décida de ne plus opposer de résistance et envoya un messager au roi Kanishka pour lui demander des conditions de paix.
 
@@ -52,13 +52,13 @@ Après une pause, il s’adressa ainsi au pétitionnaire royal : « Pourquoi ne 
 
 « Mes intentions étaient bonnes, répondit Subâhu. Je voulais préserver la paix. Les montagnards sont agités, mais ils sont religieux et pleins de foi. Leurs chefs m’ont assuré que les gens n’avaient fait que se venger des torts qu’ils avaient eux-mêmes subis. En essayant d’être juste et équitable envers mes vassaux, j’ai suscité le pire des maux, la guerre, et en préservant la paix chez moi, j’ai fait surgir le spectre de l’hostilité à l’étranger. Celui qui veut éviter les ennuis engendre parfois de plus grands malheurs. »
 
-« En d’autres termes », interrompit sévèrement le roi Kanishka <span id="p62">[<sup><small>p. 62</small></sup>]</span>, « votre faiblesse vous a empêché de punir les malfaiteurs placés sous votre juridiction, et étant incapable de gouverner votre royaume, vous avez perdu votre pouvoir et le droit de régner. »
+« En d’autres termes », interrompit sévèrement le roi Kanishka <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>, « votre faiblesse vous a empêché de punir les malfaiteurs placés sous votre juridiction, et étant incapable de gouverner votre royaume, vous avez perdu votre pouvoir et le droit de régner. »
 
 « Seigneur, répondit le monarque humilié avec calme et sang-froid, tu es le vainqueur et tu peux me traiter à ta guise, mais si la fortune du jour avait tourné contre toi, tu pourrais te tenir devant moi dans la même position dégradée dans laquelle tu me vois maintenant. Mais la différence est la suivante : j’ai la conscience tranquille, je me suis montré pacifique, je n’ai jamais offensé personne, consciemment. Tu as porté la guerre dans mon pays. Tu es le coupable, et si tu me condamnais à mort, je mourrais innocent pour renaître dans un état plus heureux et dans des conditions plus propices. Que le Seigneur Bouddha soit loué ! »
 
 Kanishka fut étonné de la hardiesse du discours du roi, mais il maîtrisa sa colère et répondit calmement : « Es-tu assez ignorant pour ne pas savoir que le premier devoir d'un souverain est la justice, et tu m'as refusé la justice ! »
 
-« Le premier devoir de l’homme est de rechercher le salut », répondit <span id="p63">[<sup><small>p. 63</small></sup>]</span> le roi de Magadha, « et le salut ne s’obtient pas par la dureté mais par la piété. »
+« Le premier devoir de l’homme est de rechercher le salut », répondit <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> le roi de Magadha, « et le salut ne s’obtient pas par la dureté mais par la piété. »
 
 Le roi de Gandhâra se leva et dit : « Tu es fait pour être moine, non pour être monarque. Tu ferais mieux de te retirer dans la cellule cloîtrée d’un Vihâra que d’occuper le trône d’un grand empire. À quoi sert la piété si elle ne t’aide pas à remplir les devoirs de ta haute fonction ? Elle te conduit à la misère et t’a coûté ton trône. Le monde ne peut prospérer sur les principes que tu suis. »
 
@@ -67,7 +67,7 @@ Subâhu semblait imperturbable et, sans daigner regarder le visage courroucé de
 Kanishka regarda fixement l'orateur comme s'il était incapable de comprendre son état d'esprit, et Subâhu, sans montrer aucune inquiétude, cita une strophe du Dhammapada, en disant :
 
 « Les puissants chars de fer du roi rouilleront,
- Et nos corps aussi se réduisent en poussière; <span id="p64">[<sup><small>p. 64</small></sup>]</span>
+ Et nos corps aussi se réduisent en poussière; <span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
  Mais les actes, c'est sûr,
  Car oui, endurez. "[14](/fr/book/Buddhism/Amitabha/Amitabha_16#an_14)
 

@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T22:30:58Z
 
 LA VIE DE GURU NANAK. CHAPITRE XV
 
-Après son séjour chez les Sidhs, le gourou retourna dans les plaines du Panjab et voyagea en direction du nord-ouest jusqu'à ce qu'il atteigne Hasan Abdal, <span id="p172">[<sup><small>p. 172</small></sup>]</span> alors un grand centre d'enthousiasme religieux musulman.
+Après son séjour chez les Sidhs, le gourou retourna dans les plaines du Panjab et voyagea en direction du nord-ouest jusqu'à ce qu'il atteigne Hasan Abdal, <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> alors un grand centre d'enthousiasme religieux musulman.
 
 Sur une petite colline résidait un prêtre bigot et égoïste, connu sous le nom de Bawa Wali de Kandhar. Le gourou et son ménestrel avaient besoin d'eau pour leur repas du soir, et ils ne pouvaient s'en procurer qu'auprès du Wali. Mardana lui annonça que lui et le gourou Nanak étaient arrivés, et il lui conseilla d'aller voir le gourou, qui était un grand saint de Dieu. Bawa Wali, qui se revendiquait de la sainteté exclusive, s'offusqua des louanges du gourou et refusa l'eau demandée. Il déclara que si le maître de Mardana était un homme aussi saint, il devrait se procurer lui-même de l'eau. Lorsque cette réponse fut communiquée au gourou, il renvoya Mardana au Wali avec le message qu'il était lui-même une bien piètre créature de Dieu et ne prétendait pas être un saint. Le Wali ne prêta aucune attention à cette protestation, mais persista dans son refus de fournir de l'eau au gourou et à son ménestrel. Le gourou fut alors contraint de percer un trou près de l'endroit où il s'était abrité, et un ruisseau en jaillit aussitôt. Sur ce, le puits du Wali s'assécha, les réserves d'eau étant limitées dans la région. La rage du Wali redoubla naturellement, et on raconte qu'il lança le monticule sur la tête innocente du gourou Nanak. Voyant la masse de terre s'effondrer, le gourou leva le bras droit pour se protéger. On raconte qu'à ce moment-là, la chute du monticule fut arrêtée. L'empreinte de la paume du gourou resta sur la masse qui s'abaissait, aujourd'hui connue sous le nom de « Panja Sahib » et vénérée par les Sikhs.
 
@@ -60,7 +60,7 @@ L'honneur est ma bourse de mendicité, et prononcer le Nom est mon aumône.
 Père, Gorakh est réveillé.
 Gorakh est Celui qui a soulevé la terre et l'a façonnée sans délai ;
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 Qui a enfermé l'eau, le souffle et la vie dans le corps, et a créé les grandes lumières de la lune et du soleil ;
 Qui nous a donné la terre comme demeure, mais dont nous avons oublié les nombreuses faveurs.
@@ -71,7 +71,7 @@ Que peut dire la Mort à ceux qui rencontrent de tels saints, ô Nanak ?[^1]
 
 Après sa discussion fructueuse avec les Jogis, le gourou décida de se rendre à La Mecque, l'étoile polaire de la dévotion musulmane. Il revêtit la robe bleue d'un pèlerin musulman, prit un bâton de faqir à la main et un recueil de ses hymnes sous le bras. Il emporta également, à la manière d'un dévot musulman, une coupe pour ses ablutions et un tapis pour prier. Et lorsque l'occasion se présenta, il lança l'appel musulman à la prière, comme tout fidèle du prophète arabe. Comme à son habitude lors de ses pérégrinations, il était accompagné de son fidèle ménestrel et joueur de rebek, Mardana. On raconte que chaque fois qu'il rencontrait des enfants au cours de son voyage, il participait à leurs jeux. Il rencontra par hasard un faqir musulman, lui aussi déterminé à entreprendre le pèlerinage mecquois, et passa une nuit avec lui pour une agréable conversation spirituelle. Le pèlerin lui offrit sa bourse de bhang et lui demanda s'il était hindou ou musulman. Le Gourou répondit avec l'hymne qu'il avait précédemment adressé à l'empereur Babar lorsqu'il lui avait demandé quelle était cette ivresse dont les effets ne devraient jamais disparaître.
 
-Alors qu'ils poursuivaient leur route vers La Mecque, on raconte qu'un nuage aperçut au-dessus de leurs têtes les accompagnait. Le pèlerin, alarmé par cet événement inhabituel, <span id="p175">[<sup><small>p. 175</small></sup>]</span> dit au gourou : « Aucun hindou n'est jamais allé à La Mecque. Ne voyagez pas avec moi ; allez-y avant ou après. » Le gourou dit au pèlerin de le précéder. Lorsque le pèlerin se retourna pour voir où se trouvait son compagnon, il ne le vit, dit-on, ni lui ni le nuage. Le pèlerin se mit alors à se tordre les mains et dit : « C'était Dieu qui était avec moi, mais je ne pouvais supporter sa vue. Il m'a fait illusion. »
+Alors qu'ils poursuivaient leur route vers La Mecque, on raconte qu'un nuage aperçut au-dessus de leurs têtes les accompagnait. Le pèlerin, alarmé par cet événement inhabituel, <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> dit au gourou : « Aucun hindou n'est jamais allé à La Mecque. Ne voyagez pas avec moi ; allez-y avant ou après. » Le gourou dit au pèlerin de le précéder. Lorsque le pèlerin se retourna pour voir où se trouvait son compagnon, il ne le vit, dit-on, ni lui ni le nuage. Le pèlerin se mit alors à se tordre les mains et dit : « C'était Dieu qui était avec moi, mais je ne pouvais supporter sa vue. Il m'a fait illusion. »
 
 Lorsque le gourou arriva à La Mecque, épuisé et les pieds endoloris, il alla s'asseoir dans la grande mosquée où les pèlerins se livraient à leurs dévotions. Son mépris des coutumes musulmanes le mit bientôt en difficulté. Lorsqu'il s'endormait, le soir, il tournait les pieds vers la Kaaba. Un prêtre arabe lui donna un coup de pied et lui dit : « Qui est cet infidèle endormi ? Pourquoi, ô pécheur, as-tu tourné les pieds vers Dieu ? » Le gourou répondit : « Tourne mes pieds dans une direction où Dieu n'est pas. »[^1] Sur ce, le prêtre saisit les pieds du gourou et les tira dans la direction opposée, après quoi, dit-on, le temple pivota et suivit la rotation de son corps. Certains interprètent cela dans un sens spirituel, et disent que cela signifie que Guru Nanak a converti toute La Mecque à son enseignement. Ceux qui assistèrent à ce miracle furent stupéfaits et saluèrent le gourou comme un être surnaturel.
 
@@ -88,7 +88,7 @@ Garde la bonté dans ton cœur et renonce aux ruses de l’infidélité ;
 Éteins le feu de la luxure dans ton cœur et deviens ainsi cool.
 Dit Nanak, pratique ainsi le jeûne, et ta foi sera parfaite.
 
-Lorsque le gourou eut terminé, le qazi dit : « Bravo ! J'ai vu aujourd'hui pour la première fois un véritable saint de Dieu. » Le qazi alla alors annoncer au grand prêtre l'arrivée du darwesh Nanak. Le grand prêtre alla le voir, lui serra la main, <span id="p177">[<sup><small>p. 177</small></sup>]</span> et s'assit à côté de lui. Il remercia Dieu de la venue de Nanak.
+Lorsque le gourou eut terminé, le qazi dit : « Bravo ! J'ai vu aujourd'hui pour la première fois un véritable saint de Dieu. » Le qazi alla alors annoncer au grand prêtre l'arrivée du darwesh Nanak. Le grand prêtre alla le voir, lui serra la main, <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> et s'assit à côté de lui. Il remercia Dieu de la venue de Nanak.
 
 Le grand prêtre demanda à Nanak si les hindous qui lisent les Védas et les musulmans qui lisent le Coran devaient ou non trouver Dieu. Le gourou répondit courageusement par l'hymne de Kabir :
 
@@ -107,7 +107,7 @@ Le grand prêtre demanda alors comment les hommes pouvaient obtenir Dieu. Le gou
 
 Je fais une supplication devant toi : prête ton oreille, ô Créateur.
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 Ô Dieu, tu es grand et miséricordieux ; tu es le protecteur sans défaut.
 Le monde est une demeure périssable ; ô mon cœur, sache que c'est la vérité.
@@ -127,7 +127,7 @@ Aussi haut que puisse sauter l'homme, il retombera toujours sur la terre.
 Même si un oiseau vole, il ne peut rivaliser en endurance avec le torrent et le vent qui se déplacent par la volonté de Dieu.
 Combien grand appellerai-je Dieu ? À qui m'adresserai-je pour le consulter ?
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 Il est le plus grand des grands, et grand est son monde, les hommes s'en vont dans leur orgueil.[^1]
 J'ai consulté les quatre Védas, mais ces écrits ne trouvent pas les limites de Dieu.
@@ -149,7 +149,7 @@ Après un bref séjour à Multan, le gourou partit pour Kartarpur. Sa réputatio
 
 En temps voulu, le gourou et son ménestrel arrivèrent à Kartarpur, sur la rive droite de la rivière Ravi, en face de l'actuelle ville de Dehra Baba Nanak. Là, il ôta son habit de pèlerin et revêtit des vêtements mondains afin de montrer qu'il ne souhaitait pas que les hommes se consacrent exclusivement à une vie ascétique. Au même moment, il s'assit sur son tabouret religieux et commença à prêcher.
 
-Durant son séjour à Kartarpur, Guru Nanak continua <span id="p181">[<sup><small>p. 181</small></sup>]</span> à composer des hymnes qui diffusaient la lumière spirituelle et dissipaient les ténèbres mentales. Il conversait constamment sur des sujets religieux, et des chants divins étaient constamment chantés en sa présence. Le Sodar et le Sohila étaient chantés le soir et le Japji répété à l'heure de l'ambroisie du matin.[^1]
+Durant son séjour à Kartarpur, Guru Nanak continua <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> à composer des hymnes qui diffusaient la lumière spirituelle et dissipaient les ténèbres mentales. Il conversait constamment sur des sujets religieux, et des chants divins étaient constamment chantés en sa présence. Le Sodar et le Sohila étaient chantés le soir et le Japji répété à l'heure de l'ambroisie du matin.[^1]
 
 À Kartarpur, Mardana, le fidèle ménestrel du Guru, avancé en âge et las de ses longs pérégrinations et des privations physiques, tomba malade. Il sentit qu'il n'avait plus aucun espoir de vivre plus longtemps et se résigna au destin inévitable de l'homme. Originaire de Musulman, il se demanda, devenu Sikh, comment son corps serait traité après sa mort. Le Guru dit : « Le corps d'un Brahmane est jeté à l'eau, celui d'un Khatri est brûlé au feu, celui d'un Vaisya est jeté aux vents et celui d'un Sudra est enterré. Ton corps sera traité comme tu le souhaites. » Mardana répondit : « Grâce à tes instructions, la fierté de mon corps s'est totalement dissipée. Pour les quatre castes, la façon de traiter son corps est une question d'orgueil. Je considère mon âme comme une simple spectatrice de mon corps, et je ne m'en préoccupe pas. Dispose-en donc comme tu le souhaites. » Alors le gourou dit : « Dois-je te construire un tombeau et te rendre célèbre dans le monde ? » Mardana répondit : « Puisque mon âme a été séparée de son tombeau corporel, pourquoi l'enfermer dans un tombeau de pierre ? » Le gourou répondit : « Puisque tu connais Dieu et que tu es donc un Brahmane, nous allons nous débarrasser de ton corps en le jetant dans la rivière Ravi et en le laissant aller avec le courant. Assieds-toi donc au bord de la rivière en posture de prière, fixe ton attention sur Dieu, répète Son nom à chaque inspiration et expiration, et ton âme sera absorbée dans la lumière de Dieu. » Mardana s'assit donc au bord de la rivière, et son âme se sépara de son enclos terrestre le lendemain matin à une heure avant le jour. Le gourou, avec l'aide de ses sikhs, consacra alors le corps de Mardana à la rivière Ravi[^1], fit lire la Sohila pour son repos éternel et conclut les obsèques en distribuant du _karah parshad_[^2] (nourriture sacrée). Le gourou conseilla à Shahzada, le fils de Mardana, et à sa famille de ne pas pleurer. Il ne fallait pas se lamenter pour un homme qui retournait à sa demeure céleste, et donc pas de deuil pour Mardana[^3]. Le gourou ordonna à Shahzada de rester avec lui au même titre que son père, et il serait tenu en honneur égal. En conséquence, Shahzada, le fidèle ami et ménestrel du gourou, l'accompagna jusqu'au moment de sa mort.
 

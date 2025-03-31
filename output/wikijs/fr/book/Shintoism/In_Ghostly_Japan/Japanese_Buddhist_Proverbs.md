@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:27:33Z
   </table>
 </figure>
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 En tant que représentation de cette qualité générale de l'expérience morale qui demeure presque insensible aux modifications sociales de quelque nature que ce soit, les proverbes d'un peuple doivent toujours présenter un intérêt psychologique particulier pour les penseurs. La littérature orale et écrite japonaise est si riche en ce genre de folklore qu'un gros livre serait nécessaire pour l'illustrer. Un seul essai ne suffirait pas à rendre justice à l'ensemble du sujet. Mais pour certaines catégories de proverbes et de locutions proverbiales, on peut faire quelque chose en quelques pages seulement ; et les proverbes liés au bouddhisme, par allusion ou par dérivation, constituent une catégorie qui me semble particulièrement digne d'étude. C'est pourquoi, avec l'aide d'un ami japonais, j'ai sélectionné et traduit la série d'exemples suivante, en choisissant les plus simples et les plus familiers lorsque le choix était possible, et en classant les originaux par ordre alphabétique pour faciliter la consultation. Bien entendu, cette sélection est imparfaitement représentative ; mais cela servira à illustrer certains effets de l’enseignement bouddhiste sur la pensée et le discours populaires.
 
@@ -80,7 +80,7 @@ De la relation au karma naît même la nature divine elle-même.\[5\]
 
 4\. Il y a ici une allusion à la condition du _shukké_ (prêtre) : littéralement, « celui qui a quitté sa maison ». Le proverbe suggère que les vérités supérieures du bouddhisme ne peuvent être acquises par ceux qui continuent à vivre dans le monde des folies et des désirs.
 
-5\. Il existe un bon comme un mauvais karma. Le bonheur dont nous jouissons n'est pas moins une conséquence des actes et des pensées de nos vies antérieures que n'importe quel malheur qui nous frappe {note de bas de page p. 170}. Chaque bonne pensée et chaque bon acte contribuent à l'évolution de la nature de bouddha en chacun de nous. Un autre proverbe \[n° 10\], _En naki shujô wa doshi gatashi_, _illustre davantage le sens de celui-ci.\] <span id="p170">[<sup><small>p. 170</small></sup>]</span>. _Enkô ga tsuki wo toran to suru ga gotoshi_._
+5\. Il existe un bon comme un mauvais karma. Le bonheur dont nous jouissons n'est pas moins une conséquence des actes et des pensées de nos vies antérieures que n'importe quel malheur qui nous frappe {note de bas de page p. 170}. Chaque bonne pensée et chaque bon acte contribuent à l'évolution de la nature de bouddha en chacun de nous. Un autre proverbe \[n° 10\], _En naki shujô wa doshi gatashi_, _illustre davantage le sens de celui-ci.\] <span id="p170"><sup><small>[ p. 170 ]</small></sup></span>. _Enkô ga tsuki wo toran to suru ga gotoshi_._
 
 Comme des singes essayant d'attraper le reflet de la lune sur l'eau.\[1\]
 
@@ -94,7 +94,7 @@ Le prêtre qui prêche une doctrine immonde renaîtra comme un champignon.
 
 1. Allusion à une parabole, racontée, dit-on, par le Bouddha lui-même, à propos de singes qui trouvèrent un puits sous un arbre et prirent pour la réalité l'image de la lune dans l'eau. Ils décidèrent de s'emparer de la brillante apparition. Un singe se suspendit par la queue à une branche surplombant le puits, un deuxième s'accrocha au premier, un troisième au deuxième, un quatrième au troisième, et ainsi de suite, jusqu'à ce que la longue chaîne de corps atteigne presque l'eau. Soudain, la branche se brisa sous un poids inhabituel ; et tous les singes furent noyés.
 
-2\. L'absence de relation karmique signifierait une absence totale de mérite ainsi que de démérite.\] <span id="p171">[<sup><small>p. 171</small></sup>]</span>2.—_Gaki mo ninzu._
+2\. L'absence de relation karmique signifierait une absence totale de mérite ainsi que de démérite.\] <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>2.—_Gaki mo ninzu._
 
 Même les gaki (_prêtas_) peuvent faire une foule.\[1\]
 
@@ -116,7 +116,7 @@ Comme beaucoup d'aveugles se sentant comme un grand éléphant.\[4\]
 
 3\. Les gens ordinaires utilisent souvent l’expression curieuse « _gosho-daiji_ » comme équivalent de « extrêmement important ».
 
-4\. Se dit de ceux qui critiquent par ignorance les doctrines du bouddhisme (note de bas de page p. 172). — Ce proverbe fait allusion à une célèbre fable des Avadânas, à propos d'un groupe d'aveugles qui tentèrent de déterminer la forme d'un éléphant en le palpant. L'un, en palpant la patte, déclara que l'éléphant ressemblait à un arbre ; un autre, en palpant seulement la trompe, déclara que l'éléphant ressemblait à un serpent ; un troisième, en palpant seulement le flanc, déclara que l'éléphant ressemblait à un mur ; un quatrième, en saisissant la queue, dit que l'éléphant ressemblait à une corde, etc.] <span id="p172">[<sup><small>p. 172</small></sup>]</span>6. — Gwai-men nyo-Bosatsu ; nai shin nyo-Yasha._
+4\. Se dit de ceux qui critiquent par ignorance les doctrines du bouddhisme (note de bas de page p. 172). — Ce proverbe fait allusion à une célèbre fable des Avadânas, à propos d'un groupe d'aveugles qui tentèrent de déterminer la forme d'un éléphant en le palpant. L'un, en palpant la patte, déclara que l'éléphant ressemblait à un arbre ; un autre, en palpant seulement la trompe, déclara que l'éléphant ressemblait à un serpent ; un troisième, en palpant seulement le flanc, déclara que l'éléphant ressemblait à un mur ; un quatrième, en saisissant la queue, dit que l'éléphant ressemblait à une corde, etc.] <span id="p172"><sup><small>[ p. 172 ]</small></sup></span>6. — Gwai-men nyo-Bosatsu ; nai shin nyo-Yasha._
 
 Extérieurement, c'est un Bodhisattva ; au plus profond de son cœur, c'est un démon.\[1\]
 
@@ -136,7 +136,7 @@ La tâche du prêtre est de sauver l’humanité.
 
 2\. Ce proverbe est le plus souvent utilisé en référence à la mort, signifiant que toutes les formes retournent au néant d'où elles proviennent. Mais il peut aussi être utilisé en relation avec la loi de cause à effet.
 
-3\. Se référant à la doctrine de la relation de cause à effet. La beauté philosophique de la comparaison ne sera appréciée que si l'on garde à l'esprit que même le ton de l'écho répète le ton de la voix.\] <span id="p173">[<sup><small>p. 173</small></sup>]</span>0.—_Hi wa kiyurédomo tô-shin wa hiyédzu._
+3\. Se référant à la doctrine de la relation de cause à effet. La beauté philosophique de la comparaison ne sera appréciée que si l'on garde à l'esprit que même le ton de l'écho répète le ton de la voix.\] <span id="p173"><sup><small>[ p. 173 ]</small></sup></span>0.—_Hi wa kiyurédomo tô-shin wa hiyédzu._
 
 Même si la flamme est éteinte, la mèche reste.\[1\]
 
@@ -166,7 +166,7 @@ Faire un Bouddha sans y mettre l'âme.\[4\]
 
 3\. Le dicton populaire, _Oni no Nembutsu_, « — la prière du diable », a une signification similaire.
 
-4\. C'est-à-dire, faire une image du Bouddha sans lui donner d'âme. Ce proverbe est utilisé en référence à la conduite de ceux qui entreprennent un travail et en laissent l'essentiel inachevé. Il contient une allusion à la curieuse cérémonie appelée _Kai-gen_, ou « Ouverture des Yeux ». Ce _Kai-gen_ est une sorte de consécration, en vertu de laquelle une image nouvellement créée est censée être animée par la présence réelle de la divinité représentée.\] <span id="p174">[<sup><small>p. 174</small></sup>]</span>6. — _Ichi-ju no kagé, ichi-ga no nagaré, tashô no en._
+4\. C'est-à-dire, faire une image du Bouddha sans lui donner d'âme. Ce proverbe est utilisé en référence à la conduite de ceux qui entreprennent un travail et en laissent l'essentiel inachevé. Il contient une allusion à la curieuse cérémonie appelée _Kai-gen_, ou « Ouverture des Yeux ». Ce _Kai-gen_ est une sorte de consécration, en vertu de laquelle une image nouvellement créée est censée être animée par la présence réelle de la divinité représentée.\] <span id="p174"><sup><small>[ p. 174 ]</small></sup></span>6. — _Ichi-ju no kagé, ichi-ga no nagaré, tashô no en._
 
 Même l'expérience d'une seule ombre ou d'un seul écoulement d'eau est faite par les relations karmiques d'une vie antérieure.
 
@@ -182,7 +182,7 @@ Un enfant du karma.\[3\]
 
 2\. Tiré de l'ouvrage bouddhiste _Dai-chi-dô-ron_. — Le lecteur trouvera un proverbe similaire dans les « _Suttas bouddhistes_ » (Livres sacrés de l'Orient) de Rhys-David, p. 173, — ainsi qu'une parabole très curieuse, citée dans une note de bas de page, qu'un commentateur indien donne en explication.
 
-3\. Un dicton courant dans les classes populaires pour désigner un enfant malheureux ou infirme. Ici, le mot _ingwa_ est surtout utilisé dans un sens rétributif. Il désigne généralement un mauvais karma ; _kwabô_ étant le terme utilisé pour parler du karma méritoire {note de bas de page p. 175} et de ses conséquences. Alors qu'un enfant malheureux est qualifié d'« enfant d'ingwa_ », une personne très chanceuse est appelée un « kwabô-mono_ », c'est-à-dire un exemple de _kwabô_.\] <span id="p175">[<sup><small>p. 175</small></sup>]</span>9. — _Ingwa wa, kuruma no wa._
+3\. Un dicton courant dans les classes populaires pour désigner un enfant malheureux ou infirme. Ici, le mot _ingwa_ est surtout utilisé dans un sens rétributif. Il désigne généralement un mauvais karma ; _kwabô_ étant le terme utilisé pour parler du karma méritoire {note de bas de page p. 175} et de ses conséquences. Alors qu'un enfant malheureux est qualifié d'« enfant d'ingwa_ », une personne très chanceuse est appelée un « kwabô-mono_ », c'est-à-dire un exemple de _kwabô_.\] <span id="p175"><sup><small>[ p. 175 ]</small></sup></span>9. — _Ingwa wa, kuruma no wa._
 
 La relation de cause à effet est comme une roue.\[1\]
 
@@ -204,7 +204,7 @@ Même un ver d'un pouce de long a une âme d'un demi-pouce de long.\[4\]
 
 3\. Ou « comme la flamme d'une lampe exposée au vent ». Une expression fréquente dans la littérature bouddhiste est « le vent de la mort ».
 
-4\. Littéralement, « a une âme de cinq bu », cinq bu équivalant à la moitié du pouce japonais. Le bouddhisme interdit toute appropriation de la vie et classe comme êtres vivants (Ujô) toutes les formes dotées de sensibilité. Cependant, le proverbe, comme l'implique l'utilisation du mot « âme » (tamashii), reflète une croyance populaire plutôt qu'une philosophie bouddhiste. Il signifie que toute vie, aussi petite ou insignifiante soit-elle, mérite la miséricorde.\] <span id="p176">[<sup><small>p. 176</small></sup>]</span>3. — Iwashi\[1\] no atama mo shinjin kara.\
+4\. Littéralement, « a une âme de cinq bu », cinq bu équivalant à la moitié du pouce japonais. Le bouddhisme interdit toute appropriation de la vie et classe comme êtres vivants (Ujô) toutes les formes dotées de sensibilité. Cependant, le proverbe, comme l'implique l'utilisation du mot « âme » (tamashii), reflète une croyance populaire plutôt qu'une philosophie bouddhiste. Il signifie que toute vie, aussi petite ou insignifiante soit-elle, mérite la miséricorde.\] <span id="p176"><sup><small>[ p. 176 ]</small></sup></span>3. — Iwashi\[1\] no atama mo shinjin kara.\
 
 Même la tête d'un _iwashi_, en vertu de la foi, \[aura le pouvoir de sauver ou de guérir\].
 
@@ -220,7 +220,7 @@ Comme rencontrer un Bouddha en enfer.\[3\]
 
 2\. Peu d'expressions bouddhistes populaires sont aussi courantes que celle-ci. _Jigô_ désigne ses propres actes ou pensées ; _jitoku_, attirer sur soi-même, presque toujours dans le sens de malheur, lorsque le mot est employé au sens bouddhiste. « Eh bien, il s'agit de _Jigô-jitoku_ », dira-t-on en voyant un homme emmené en prison ; ce qui signifie : « Il subit les conséquences de ses propres fautes. »
 
-3. Désigne la joie de retrouver un bon ami dans un moment de malheur. Ce qui précède est une abréviation. Le proverbe complet est : _Jigoku dé hotoké ni ôta yo da._] <span id="p177">[<sup><small>p. 177</small></sup>]</span>6. — _Jigoku Gokuraku wa kokoro ni ari._
+3. Désigne la joie de retrouver un bon ami dans un moment de malheur. Ce qui précède est une abréviation. Le proverbe complet est : _Jigoku dé hotoké ni ôta yo da._] <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>6. — _Jigoku Gokuraku wa kokoro ni ari._
 
 L'enfer et le paradis sont dans le cœur des hommes.\[1\]
 
@@ -248,13 +248,13 @@ L'argent brille encore plus fort qu'Amida.\[4\]
 
 4. Amitâbha, le Bouddha de la Lumière Incommensurable. Son image dans les temples est généralement dorée de la tête aux pieds. Il existe de nombreux autres proverbes ironiques sur le pouvoir de la richesse, comme Jigoku no sata mo kané shidai : « Même les jugements de l’Enfer peuvent être influencés par l’argent. »
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 ![Jizô](/image/book/Shintoism/In_Ghostly_Japan/17800.jpg)
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
-![Emma Dai-ô](/image/book/Shintoism/In_Ghostly_Japan/17900.jpg) <span id="p180">[<sup><small>p. 180</small></sup>]</span>1.—_Karu-toki et Jizô-gao ; nasu-toki et Emma-gao._
+![Emma Dai-ô](/image/book/Shintoism/In_Ghostly_Japan/17900.jpg) <span id="p180"><sup><small>[ p. 180 ]</small></sup></span>1.—_Karu-toki et Jizô-gao ; nasu-toki et Emma-gao._
 
 Le temps d'emprunt, le visage de Jizô ; le temps de remboursement, le visage d'Emma.\[1\]
 
@@ -278,7 +278,7 @@ Le corps n'est torturé que par le démon du cœur.\[3\]
 
 2\. La rumeur n’est jamais digne de confiance.
 
-3\. Ou « esprit ». C'est-à-dire que nous ne souffrons que des conséquences de nos propres fautes. — Le démon-tortionnaire dans l'enfer bouddhiste dit à sa victime : — « Ne me blâme pas ! Je ne suis que la création de tes propres actes et pensées : tu m'as créé pour cela ! » — Comparer avec le n° 36.\] <span id="p181">[<sup><small>p. 181</small></sup>]</span>6. — _Kokoro no shi to wa naré ; kokoro wo shi to sezaré._
+3\. Ou « esprit ». C'est-à-dire que nous ne souffrons que des conséquences de nos propres fautes. — Le démon-tortionnaire dans l'enfer bouddhiste dit à sa victime : — « Ne me blâme pas ! Je ne suis que la création de tes propres actes et pensées : tu m'as créé pour cela ! » — Comparer avec le n° 36.\] <span id="p181"><sup><small>[ p. 181 ]</small></sup></span>6. — _Kokoro no shi to wa naré ; kokoro wo shi to sezaré._
 
 Soyez le maître de votre cœur : ne laissez pas votre cœur devenir votre maître.
 
@@ -302,7 +302,7 @@ L'oiseau qui crie _korokoro_ dans la rizière de montagne, je sais qu'il s'agit 
 
 \[1. « Ce monde n'est qu'une auberge de voyageurs », serait une traduction presque tout aussi correcte. _Yado_ signifie littéralement un logement, un abri, une auberge ; et le mot est souvent appliqué à ces maisons de repos du côté wa où les voyageurs japonais s'arrêtent au cours d'un voyage. _Kari_ signifie temporaire, transitoire, fugace, comme dans le dicton bouddhiste courant, _Kono yo kari no yo_ : _Ce monde est un monde fugace. _Même le Ciel et l'Enfer ne représentent pour le bouddhiste que des lieux d'étape sur le chemin du Nirvâna.
 
-2\. Se réfère à la vanité de l'effort égoïste pour une fin purement temporaire.\] <span id="p182">[<sup><small>p. 182</small></sup>]</span>aurait pu être mon père ; c'était peut-être ma mère.\[1\]
+2\. Se réfère à la vanité de l'effort égoïste pour une fin purement temporaire.\] <span id="p182"><sup><small>[ p. 182 ]</small></sup></span>aurait pu être mon père ; c'était peut-être ma mère.\[1\]
 
 50.—_Le sort du peuple est désormais terminé._
 
@@ -316,7 +316,7 @@ La bouche est la porte d'entrée de tous les malheurs.\[3\]
 
 2\. Autrement dit, l'amour des parents pour leur enfant peut entraver leur progrès spirituel, non seulement en ce monde, mais dans tous leurs états futurs, tout comme un kubikasé, ou cangue japonaise, entrave les mouvements de la personne sur laquelle il est placé. L'affection parentale, étant le plus fort des attachements terrestres, est particulièrement susceptible d'inciter ceux qu'elle asservit à commettre des actes répréhensibles dans l'espoir de faire du bien à leur progéniture. Le terme Sangai désigne ici les trois mondes du Désir, de la Forme et de l'Informe, tous les états d'existence inférieurs au Nirvâna. Mais ce mot est parfois utilisé pour désigner le Passé, le Présent et le Futur.
 
-3\. Autrement dit, la principale cause de troubles est la parole inconsidérée. Le mot _Kado_ désigne toujours l'entrée principale d'une résidence.\] <span id="p183">[<sup><small>p. 183</small></sup>]</span>2. — _Kwahô wa, nété maté._
+3\. Autrement dit, la principale cause de troubles est la parole inconsidérée. Le mot _Kado_ désigne toujours l'entrée principale d'une résidence.\] <span id="p183"><sup><small>[ p. 183 ]</small></sup></span>2. — _Kwahô wa, nété maté._
 
 Si vous souhaitez avoir de la chance, dormez et attendez.\[1\]
 
@@ -344,7 +344,7 @@ L'aveugle n'a pas peur du serpent.\[5\]
 
 4 Littéralement, « sur la route de Meidô ». Le _Meidô_ est l'Hadès japonais, le monde souterrain obscur vers lequel tous les morts doivent voyager.
 
-5 L'ignorant et le vicieux, ne comprenant pas la loi de cause à effet, ne craignent pas les résultats certains de leur folie.\] <span id="p184">[<sup><small>p. 184</small></sup>]</span>7.—_Mitsuréba, kakuru._
+5 L'ignorant et le vicieux, ne comprenant pas la loi de cause à effet, ne craignent pas les résultats certains de leur folie.\] <span id="p184"><sup><small>[ p. 184 ]</small></sup></span>7.—_Mitsuréba, kakuru._
 
 Après avoir grandi, il décroît.\[1\]
 
@@ -360,7 +360,7 @@ Le Vent de l'Impermanence ne choisit pas de temps.\[3\]
 
 2\. Kozô signifie « acolyte » aussi bien que « commerçant », « garçon de courses » ou « apprenti » ; mais dans ce cas, il s'agit d'un garçon employé dans une boutique située près ou devant la porte d'un temple bouddhiste. En écoutant constamment le sûtra psalmodié dans le temple, le garçon apprend à le répéter. Un proverbe de sens similaire est : Kangaku-In no suzumé wa, Môgyû wo sayézuru : « Les moineaux de Kangaku-In [ancien lieu d'apprentissage] chantent le Môgyû », un texte chinois autrefois enseigné aux jeunes étudiants. L'enseignement de l'un ou l'autre proverbe est parfaitement exprimé par un troisième : Narau yori wa naréro : « Plutôt que d'étudier [un art], habituez-vous à lui », c'est-à-dire « restez constamment en contact avec lui ». L'observation et la pratique valent encore mieux que l'étude.
 
-3\. La mort et le changement ne se conforment pas aux attentes humaines.\] <span id="p185">[<sup><small>p. 185</small></sup>]</span>0.—_Neko mo Busshô ari._
+3\. La mort et le changement ne se conforment pas aux attentes humaines.\] <span id="p185"><sup><small>[ p. 185 ]</small></sup></span>0.—_Neko mo Busshô ari._
 
 Même chez un chat, la nature de Bouddha existe.\[1\]
 
@@ -386,7 +386,7 @@ Il n'est pas facile de naître parmi les hommes et d'avoir la chance d'entendre 
 
 3. L'enseignement de la doctrine bouddhique doit toujours être adapté à l'intelligence de la personne à instruire. Il existe un autre proverbe du même genre : Ki ni yorité, hô wo toké : « Selon l'intelligence de la personne à instruire, prêche la Loi. »
 
-4 Le bouddhisme populaire enseigne que naître dans le monde des hommes, et particulièrement parmi un peuple pratiquant le bouddhisme, est un immense privilège. Aussi misérable que soit l'existence humaine, c'est au moins un état où l'on peut acquérir une certaine connaissance de la vérité divine ; alors que les êtres vivant dans des conditions de vie inférieures sont relativement incapables de progrès spirituel.] <span id="p186">[<sup><small>p. 186</small></sup>]</span>5. — _Oni mo jiu-hachi_._
+4 Le bouddhisme populaire enseigne que naître dans le monde des hommes, et particulièrement parmi un peuple pratiquant le bouddhisme, est un immense privilège. Aussi misérable que soit l'existence humaine, c'est au moins un état où l'on peut acquérir une certaine connaissance de la vérité divine ; alors que les êtres vivant dans des conditions de vie inférieures sont relativement incapables de progrès spirituel.] <span id="p186"><sup><small>[ p. 186 ]</small></sup></span>5. — _Oni mo jiu-hachi_._
 
 Même un diable \[est joli\] à dix-huit ans.\[1\]
 
@@ -400,7 +400,7 @@ Une massue de fer pour un démon.\[2\]
 
 \[1. Il existe de nombreux dictons et proverbes curieux sur l'oni, ou diable bouddhiste, tels que _Oni no mé ni mo namida_, « des larmes même dans les yeux du diable » ; _Oni no kakuran_, « le choléra du diable » (prononcé à propos de la maladie inattendue d'une personne très forte et en bonne santé), etc., etc. La classe de démons appelée Oni appartient proprement aux enfers bouddhistes, où ils agissent comme tortionnaires et geôliers. Il ne faut pas les confondre avec les _Ma, Yasha, Kijin_ et autres classes d'esprits maléfiques. Dans l'art bouddhique, ils sont représentés comme des êtres d'une force énorme, à tête de taureau ou de cheval. Les démons à tête de taureau sont appelés _Go-zu_ ; les _Mé-zu_ à tête de cheval.
 
-2\. Ce qui signifie que les grands pouvoirs ne devraient être accordés qu'aux forts.\] <span id="p187">[<sup><small>p. 187</small></sup>]</span>8.—_Oni no nyôbo ni hijin._
+2\. Ce qui signifie que les grands pouvoirs ne devraient être accordés qu'aux forts.\] <span id="p187"><sup><small>[ p. 187 ]</small></sup></span>8.—_Oni no nyôbo ni hijin._
 
 Un diable prend une gobeline pour épouse.\[1\]
 
@@ -424,7 +424,7 @@ La fleur tombée ne revient jamais sur la branche.\[3\]
 
 2\. Se dit des parents d'enfants infirmes ou difformes. Mais l'idée populaire exprimée ici n'est pas entièrement en accord avec les enseignements du bouddhisme supérieur.
 
-3\. Ce qui a été fait ne peut jamais être défait : le passé ne peut être rappelé. — Ce proverbe est une abréviation du texte bouddhiste plus long : _Rakkwa éda ni kaerazu ; ha-kyô futatabi terasazu :_ « La fleur tombée ne retourne jamais à la branche ; le miroir brisé ne se reflète plus jamais : »\] <span id="p188">[<sup><small>p. 188</small></sup>]</span>3. — _Raku wa ku no tané ; ku wa raku no tané._
+3\. Ce qui a été fait ne peut jamais être défait : le passé ne peut être rappelé. — Ce proverbe est une abréviation du texte bouddhiste plus long : _Rakkwa éda ni kaerazu ; ha-kyô futatabi terasazu :_ « La fleur tombée ne retourne jamais à la branche ; le miroir brisé ne se reflète plus jamais : »\] <span id="p188"><sup><small>[ p. 188 ]</small></sup></span>3. — _Raku wa ku no tané ; ku wa raku no tané._
 
 Le plaisir est la graine de la douleur ; la douleur est la graine du plaisir.
 
@@ -442,7 +442,7 @@ Il n'y a pas de clôture pour les Trois États de l'Existence ; il n'y a pas de 
 
 \[1. C'est-à-dire que votre vie future dépend de votre conduite dans cette vie ; et vous êtes donc libre de choisir vous-même le lieu de votre prochaine naissance.
 
-2\. Dans les Trois États (Sangai), ou univers, du Désir, de la Forme et de l'Informe ; et dans les Six Mondes, ou conditions d'être, — Jigokudô_ (Enfer), Gakidô_ (Pretas), Chikushôdô_ (Vie Animale), Shuradô_ (Monde du Combat et du Massacre), Ningendô_ (Humanité), Tenjôdô_ (Esprits Célestes) — toute existence est incluse. Au-delà, il n'y a que le Nirvâna. « Il n'y a pas de barrière », « pas de voisinage », c'est-à-dire pas de limite au-delà de laquelle s'échapper, pas de voie médiane entre deux de ces états. Nous renaîtrons dans {note de bas de page p. 189} l'un d'entre eux selon notre karma. — Comparer avec le n° 74.\] <span id="p189">[<sup><small>p. 189</small></sup>]</span>7.—_Sangé ni wa sannen no tsumi mo hôrobu._
+2\. Dans les Trois États (Sangai), ou univers, du Désir, de la Forme et de l'Informe ; et dans les Six Mondes, ou conditions d'être, — Jigokudô_ (Enfer), Gakidô_ (Pretas), Chikushôdô_ (Vie Animale), Shuradô_ (Monde du Combat et du Massacre), Ningendô_ (Humanité), Tenjôdô_ (Esprits Célestes) — toute existence est incluse. Au-delà, il n'y a que le Nirvâna. « Il n'y a pas de barrière », « pas de voisinage », c'est-à-dire pas de limite au-delà de laquelle s'échapper, pas de voie médiane entre deux de ces états. Nous renaîtrons dans {note de bas de page p. 189} l'un d'entre eux selon notre karma. — Comparer avec le n° 74.\] <span id="p189"><sup><small>[ p. 189 ]</small></sup></span>7.—_Sangé ni wa sannen no tsumi mo hôrobu._
 
 Une seule confession efface les péchés de trois ans.
 
@@ -464,7 +464,7 @@ Pour devenir abbé, il faut commencer comme novice.
 
 \[1. _Kugai_ (littéralement : « monde amer ») est un terme souvent utilisé pour décrire la vie d’une prostituée.
 
-2. Monjû Bosatsu (Bodhisattva Mañdjus'ri) figure dans le bouddhisme japonais comme une divinité particulière de la sagesse. Le proverbe signifie que trois têtes valent mieux qu'une. Un dicton de même sens est : Hiza to mo dankô : « Consulte même avec ton propre genou », c'est-à-dire ne méprise aucun conseil, aussi humble soit-il.] <span id="p190">[<sup><small>p. 190</small></sup>]</span>2. — Shindaréba, koso ikitaré._
+2. Monjû Bosatsu (Bodhisattva Mañdjus'ri) figure dans le bouddhisme japonais comme une divinité particulière de la sagesse. Le proverbe signifie que trois têtes valent mieux qu'une. Un dicton de même sens est : Hiza to mo dankô : « Consulte même avec ton propre genou », c'est-à-dire ne méprise aucun conseil, aussi humble soit-il.] <span id="p190"><sup><small>[ p. 190 ]</small></sup></span>2. — Shindaréba, koso ikitaré._
 
 Ce n'est qu'en étant mort qu'on entre dans la vie.\[1\]
 
@@ -484,7 +484,7 @@ Un peu de sagesse est une pierre d'achoppement sur le chemin de la bouddhéité.
 
 2\. Rien ne peut arriver si ce n’est en vertu d’une loi éternelle et irrévocable.
 
-3\. Bodai est le même mot que le sanscrit _Bodhi_, signifiant l'illumination suprême, la connaissance qui mène à la bouddhéité ; mais il est souvent utilisé par les bouddhistes japonais dans le sens de félicité divine, ou de l'état de bouddha lui-même.\] <span id="p191">[<sup><small>p. 191</small></sup>]</span>6. — _Shôshi no kukai hetori nashi._
+3\. Bodai est le même mot que le sanscrit _Bodhi_, signifiant l'illumination suprême, la connaissance qui mène à la bouddhéité ; mais il est souvent utilisé par les bouddhistes japonais dans le sens de félicité divine, ou de l'état de bouddha lui-même.\] <span id="p191"><sup><small>[ p. 191 ]</small></sup></span>6. — _Shôshi no kukai hetori nashi._
 
 Il n'y a pas de rivage à la mer amère de la naissance et de la mort.\[1\]
 
@@ -514,7 +514,7 @@ Le jeu d'eau du Bouddha d'argile.\[4\]
 
 3\. Dit spécialement en référence au résultat de l'indulgence sensuelle.
 
-4\. Autrement dit, « Aussi dangereux que pour un Bouddha d'argile de jouer avec de l'eau. » Les enfants s'amusent souvent à fabriquer de petites images bouddhiques en boue, qui se dissolvent et deviennent informes, bien sûr, si on les place dans l'eau.\] <span id="p192">[<sup><small>p. 192</small></sup>]</span>2.—_Tsuki ni murakumo, hana ni kazé._
+4\. Autrement dit, « Aussi dangereux que pour un Bouddha d'argile de jouer avec de l'eau. » Les enfants s'amusent souvent à fabriquer de petites images bouddhiques en boue, qui se dissolvent et deviennent informes, bien sûr, si on les place dans l'eau.\] <span id="p192"><sup><small>[ p. 192 ]</small></sup></span>2.—_Tsuki ni murakumo, hana ni kazé._
 
 Des nuages ​​à la lune, du vent aux fleurs.\[1\]
 
@@ -542,7 +542,7 @@ Mes ancêtres familiaux étaient tous d'excellents Bouddhas.\[3\]
 
 2\. C'est-à-dire un pieux procédé pour effectuer la conversion. Un tel procédé est justifié notamment par la célèbre parabole du troisième chapitre du _Saddharma Pundarîka_.
 
-8 Ce qui signifie que l'on vénère surtout les _hotoké_ — les esprits des morts considérés comme des bouddhas — dans son propre sanctuaire familial. Il existe un jeu de mots ironique sur le mot _hotoké_, qui peut désigner soit simplement une personne décédée, soit un bouddha. L'esprit de ce proverbe pourrait peut-être être mieux expliqué par un autre : _Nigéta sakana ni_ {note de bas de page p. 193} _chisai wa nai ; shinda kodomo ni warui ko wa nai_ — « Le poisson qui s'est échappé n'était jamais petit ; l'enfant qui est mort n'était jamais mauvais. »] <span id="p193">[<sup><small>p. 193</small></sup>]</span>8. — _Yuki no haté wa, Neban._
+8 Ce qui signifie que l'on vénère surtout les _hotoké_ — les esprits des morts considérés comme des bouddhas — dans son propre sanctuaire familial. Il existe un jeu de mots ironique sur le mot _hotoké_, qui peut désigner soit simplement une personne décédée, soit un bouddha. L'esprit de ce proverbe pourrait peut-être être mieux expliqué par un autre : _Nigéta sakana ni_ {note de bas de page p. 193} _chisai wa nai ; shinda kodomo ni warui ko wa nai_ — « Le poisson qui s'est échappé n'était jamais petit ; l'enfant qui est mort n'était jamais mauvais. »] <span id="p193"><sup><small>[ p. 193 ]</small></sup></span>8. — _Yuki no haté wa, Neban._
 
 La fin de la neige est le Nirvâna.\[1\]
 

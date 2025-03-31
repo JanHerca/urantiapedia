@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 ## KÂ_N__D_A III, KA<i>ND</i>IKÂ 1.
 
@@ -46,7 +46,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. [^867]. Après avoir fait des offrandes du plat de nourriture cuite aux divinités Âgraya<i>n</i>a, il fait une autre oblation à (Agni) Svish<i>n</i>ak<i>n</i>t avec (le verset) : « Agni, rends ce (sacrifice) complet, afin qu'il soit bien offert. Et puisse le dieu détruire toutes les puissances hostiles. Viens ici, montre-nous un bon chemin. Accorde-nous une longue vie, pleine de splendeur et exempte de pourriture. Svâhâ ! »
 
-4\. Il mange ensuite (des fruits frais avec les versets <span id="p338">[<sup><small>p. 338</small></sup>]</span>), « Puisse Agni manger en premier, car il sait comment le Havis (est apte au sacrifice) ; puisse-t-il, l'ami de toutes les tribus humaines, faire que les herbes nous soient bénies.
+4\. Il mange ensuite (des fruits frais avec les versets <span id="p338"><sup><small>[ p. 338 ]</small></sup></span>), « Puisse Agni manger en premier, car il sait comment le Havis (est apte au sacrifice) ; puisse-t-il, l'ami de toutes les tribus humaines, faire que les herbes nous soient bénies.
 
 Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture, puissions-nous vous obtenir. Ainsi entre en nous, ô potion, qui apporte le rafraîchissement, pour le bien de nos enfants et de nous-mêmes, et agréable.
 
@@ -64,7 +64,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 « La nuit que les hommes accueillent comme une vache qui vient à eux, (la nuit) qui est la compagne de l'année, puisse-t-elle (la nuit) nous être propice. Svâhâ !
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 « La nuit qui est l'image de l'année, que nous adorons. Puissé-je atteindre la vieillesse, transmettant la force à ma progéniture. Svâhâ !
 
@@ -92,7 +92,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 12\. [^874]. Ceux qui ont reçu l'initiation murmurent : « Qu'un bon hiver, un bon printemps, un bon été nous soient accordés. Que les pluies nous soient bénies ; que les automnes nous soient bénis. »
 
-13\. Avec (le verset) « Sois douce pour nous, ô terre » (Vâ_g_. Sa<i>m</i>h. XXXV, 21), ils se couchent sur le côté droit, la tête tournée vers l'est. <span id="p341">[<sup><small>p. 341</small></sup>]</span>
+13\. Avec (le verset) « Sois douce pour nous, ô terre » (Vâ_g_. Sa<i>m</i>h. XXXV, 21), ils se couchent sur le côté droit, la tête tournée vers l'est. <span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 14 [14](#fn875). Ils se lèvent avec (le verset) : « Debout ! avec la vie, avec la vie bénie. Debout ! avec l'œil de Par<i>m</i>anya, avec les sept espaces de la terre. »
 
@@ -112,7 +112,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 5\. [^879]. Après avoir préparé un plat de nourriture sacrificielle et avoir sacrifié les deux portions d'Â<i>g</i>ya, il sacrifie des oblations d'Â<i>g</i>ya avec (les textes) :
 
-(a [^880]) « Trente sœurs se rendent au lieu désigné, <span id="p342">[<sup><small>p. 342</small></sup>]</span> revêtant le même insigne. Elles étalent les saisons, les sages connaisseuses ; ayant les mètres au milieu d'elles, elles se promènent, les brillantes. Svâhâ !
+(a [^880]) « Trente sœurs se rendent au lieu désigné, <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> revêtant le même insigne. Elles étalent les saisons, les sages connaisseuses ; ayant les mètres au milieu d'elles, elles se promènent, les brillantes. Svâhâ !
 
 (b) « Celle qui brille se revêt de nuages, des voies du soleil, de la nuit divine : de multiples animaux qui naissent, regardent autour d'eux dans le giron de cette mère. Svâhâ !
 
@@ -122,7 +122,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 (e) « En ma faveur résidait l'omniscient ; il a trouvé une assise solide, il a pris pied. Puissé-je être en sa faveur (celle du sacrificateur ?), comme vous l'êtes ; puisse aucun de vous supplanter l'autre dans son œuvre. »
 
-(f [^882]) « Aux cinq aubes suit la quintuple traite ; à la vache aux cinq noms, les cinq saisons. Les cinq régions (du ciel) sont établies <span id="p343">[<sup><small>p. 343</small></sup>]</span> à travers le quinzième (Stoma) ; avec une face commune (elles regardent) le monde unique. Svâhâ !
+(f [^882]) « Aux cinq aubes suit la quintuple traite ; à la vache aux cinq noms, les cinq saisons. Les cinq régions (du ciel) sont établies <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> à travers le quinzième (Stoma) ; avec une face commune (elles regardent) le monde unique. Svâhâ !
 
 (g) « Celle qui a brillé comme la première, est l'enfant de la vérité. L'une (d'entre elles) porte la majesté des eaux ; l'une erre dans les cours du soleil ; l'autre (dans ceux) de la chaleur ; Savi<i>ri</i> gouvernera l'une. Svâhâ !
 
@@ -134,7 +134,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 6\. [^884]. Il fait des offrandes de nourriture cuite avec (les versets) :
 
-« Que la terre soit paisible, l'air bienveillant pour nous ; <span id="p344">[<sup><small>p. 344</small></sup>]</span> que les cieux nous donnent bonheur et sécurité. Que les points (de l'horizon), les points intermédiaires, les points supérieurs nous donnent bonheur, et que le jour et la nuit nous créent une longue vie. Svâhâ !
+« Que la terre soit paisible, l'air bienveillant pour nous ; <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> que les cieux nous donnent bonheur et sécurité. Que les points (de l'horizon), les points intermédiaires, les points supérieurs nous donnent bonheur, et que le jour et la nuit nous créent une longue vie. Svâhâ !
 
 « Que les eaux, les rayons nous protègent de tous côtés ; que le créateur, que l'océan détourne le mal. Le présent et l'avenir, puissent tout être en sécurité pour moi. Protégé par Brahman, puissé-je être bien gardé. Svâhâ !
 
@@ -150,7 +150,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 11\. Il fait également des offrandes de Pi<i>nd</i>a aux femmes (ancêtres) et verse (pour elles) des boissons fortes et des oblations d'eau dans des fosses, et (offre) des collyres, des baumes et des guirlandes.
 
-12\. (Il peut aussi faire des offrandes), s'il le souhaite, au maître et aux élèves qui n'ont pas d'enfants. <span id="p345">[<sup><small>p. 345</small></sup>]</span>
+12\. (Il peut aussi faire des offrandes), s'il le souhaite, au maître et aux élèves qui n'ont pas d'enfants. <span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 13 [^885]. Et au milieu de la saison des pluies (il y a) un quatrième Ash<i>t</i>akâ sur lequel des légumes sont offerts.
 
@@ -170,7 +170,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 « Que le jeune enfant aille à toi, que le veau et ses compagnons aillent à toi, que la coupe de Parisrut aille à toi, que les pots de lait caillé aillent à toi.
 
-<span id="p346">[<sup><small>p. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 « L'épouse de la Paix, la grande, magnifiquement vêtue, accorde-nous, ô bienheureuse, richesse et puissance virile, qui soient riches en chevaux et en vaches, et gorgés de sève comme une feuille d'arbre. Puisse notre richesse s'accroître ici, se parant de prospérité » — avec ces quatre mantras, il s'approche des quatre poteaux.
 
@@ -184,7 +184,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 (b) « Vâstoshpati ! Sois notre soutien ; fais accroître notre richesse en vaches et en chevaux, ô Indu (c'est-à-dire Soma). Que nous puissions demeurer libres de la décadence dans ton amitié ; accorde-nous ta faveur, comme un père pour ses fils. Svâhâ !
 
-(c) « Vâstoshpati ! Soyons en communion avec toi, qui soit vaillante, joyeuse et prospère. Protège nos souhaits lorsque nous nous reposons et <span id="p347">[<sup><small>p. 347</small></sup>]</span> lorsque nous faisons notre travail. Protégez-nous toujours, vous (dieux), et accordez-nous le bien-être. Svâhâ !
+(c) « Vâstoshpati ! Soyons en communion avec toi, qui soit vaillante, joyeuse et prospère. Protège nos souhaits lorsque nous nous reposons et <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> lorsque nous faisons notre travail. Protégez-nous toujours, vous (dieux), et accordez-nous le bien-être. Svâhâ !
 
 (d) « Chasse les calamités, Vâstoshpati, prenant toutes les formes, sois pour nous un ami bienveillant. Svâhâ !
 
@@ -226,7 +226,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 17\. Puis au nord : « Que celui qui ne dort pas et celui qui ne dort pas me protègent du nord.
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 « La Lune est celle qui ne dort pas ; le Vent est celui qui ne dort pas ; à eux je m'adresse ; à eux soit l'adoration ; puissent-ils me protéger du nord. »
 
@@ -270,7 +270,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 1\. [^893]. (Maintenant sera déclaré) le fait de faire couler de l'eau autour d'un serviteur qui est disposé à s'enfuir.
 
-2\. Pendant que (le serviteur) dort, il doit évacuer son urine dans la corne d'un animal vivant, et doit marcher trois fois autour de lui, en tournant son côté gauche vers lui, et asperger (l'urine) autour de lui, <span id="p351">[<sup><small>p. 351</small></sup>]</span> avec (le verset) : « De la montagne (sur laquelle tu es né), de ta mère, de ta sœur, de tes parents et de tes frères, de tes amis, je te sépare.
+2\. Pendant que (le serviteur) dort, il doit évacuer son urine dans la corne d'un animal vivant, et doit marcher trois fois autour de lui, en tournant son côté gauche vers lui, et asperger (l'urine) autour de lui, <span id="p351"><sup><small>[ p. 351 ]</small></sup></span> avec (le verset) : « De la montagne (sur laquelle tu es né), de ta mère, de ta sœur, de tes parents et de tes frères, de tes amis, je te sépare.
 
 « Serviteur fugitif, j'ai fait couler de l'eau autour de toi. Une fois abreuvé, où iras-tu ? »
 
@@ -304,7 +304,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 « Les armées que tu possèdes à l'est, Rudra, sont à elles, ce Bali (est donné). À elles et à toi soit l'adoration ! »
 
-« Les armées, Rudra, que tu as au sud… à l'ouest… au nord… vers le haut… <span id="p353">[<sup><small>p. 353</small></sup>]</span> vers le bas, à elles ce Bali (est donné). À elles et à toi soit l'adoration ! »
+« Les armées, Rudra, que tu as au sud… à l'ouest… au nord… vers le haut… <span id="p353"><sup><small>[ p. 353 ]</small></sup></span> vers le bas, à elles ce Bali (est donné). À elles et à toi soit l'adoration ! »
 
 12\. [^904]. Le contenu de l'estomac et des entrailles, maculé de sang, il le jette au feu ou l'enterre dans la terre.
 
@@ -334,7 +334,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 7\. [^913]. Lorsque (le taureau) se tient au milieu des vaches, il récite sur lui (les textes commençant par) « Apporter du rafraîchissement », jusqu'à la fin de l'Anuvâka (Vâ_g_. Sa<i>m</i>h. XVIII, 45-50).
 
-8\. Avec le lait de toutes (les vaches), il devrait cuire du riz au lait et le donner aux Brâhmanes pour qu'ils le mangent. <span id="p355">[<sup><small>p. 355</small></sup>]</span>
+8\. Avec le lait de toutes (les vaches), il devrait cuire du riz au lait et le donner aux Brâhmanes pour qu'ils le mangent. <span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 9 [^914]. Certains sacrifient également un animal.
 
@@ -360,7 +360,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 9\. [^918]. Chanter le chant Yama et murmurer l'hymne Yama, selon certains (enseignants).
 
-10\. [^919]. Si (le défunt) a reçu l'initiation, <span id="p356">[<sup><small>p. 356</small></sup>]</span> (les rites) de l'élection du site (pour le _S<i>ma</i>s<i>ma<i>S</i>rauta) s'enflamme.
+10\. [^919]. Si (le défunt) a reçu l'initiation, <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> (les rites) de l'élection du site (pour le _S<i>ma</i>s<i>ma<i>S</i>rauta) s'enflamme.
 
 11\. Ils le brûlent avec son feu domestique (sacré), s'il l'a gardé ;
 
@@ -384,7 +384,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 21\. Ils versent, les mains jointes, une libation d'eau au défunt en disant : « NN ! Cette eau est à toi ! »
 
-22\. Lorsqu'ils seront sortis (de l'eau) et <span id="p357">[<sup><small>p. 357</small></sup>]</span> se seront assis sur un endroit pur et couvert d'herbe, (ceux qui sont versés dans les contes anciens) devraient les divertir (en leur racontant de tels contes).
+22\. Lorsqu'ils seront sortis (de l'eau) et <span id="p357"><sup><small>[ p. 357 ]</small></sup></span> se seront assis sur un endroit pur et couvert d'herbe, (ceux qui sont versés dans les contes anciens) devraient les divertir (en leur racontant de tels contes).
 
 23\. [^921]. Ils retournent au village sans se retourner, en rang, le plus jeune marchant devant.
 
@@ -402,7 +402,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 30\. Pendant dix nuits, selon certains (enseignants).
 
-31\. (Pendant cette période, ils) ne devraient pas pratiquer le Svâdhyâya (ni étudier les textes védiques par eux-mêmes). <span id="p358">[<sup><small>p. 358</small></sup>]</span>
+31\. (Pendant cette période, ils) ne devraient pas pratiquer le Svâdhyâya (ni étudier les textes védiques par eux-mêmes). <span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 32\. Ils devraient interrompre les rites debout, à l'exception de ceux accomplis avec les trois feux (<i>S</i>rauta),
 
@@ -428,7 +428,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 43\. [^929]. Et eux pour les (autres).
 
-44\. [^930]. Si quelqu'un meurt en voyage, (ses proches) doivent s'asseoir (sur le sol, comme prescrit pour les personnes impures) à partir du moment où ils ont appris (son décès), effectuant la libation d'eau <span id="p359">[<sup><small>p. 359</small></sup>]</span> (à ce moment-là), jusqu'à ce que la période (de leur impureté) soit expirée ;
+44\. [^930]. Si quelqu'un meurt en voyage, (ses proches) doivent s'asseoir (sur le sol, comme prescrit pour les personnes impures) à partir du moment où ils ont appris (son décès), effectuant la libation d'eau <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> (à ce moment-là), jusqu'à ce que la période (de leur impureté) soit expirée ;
 
 45\. Si (cette période est déjà) écoulée, une nuit ou trois nuits.
 
@@ -454,7 +454,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 ## KA<i>ND</i>IKÂ 11.
 
@@ -468,7 +468,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 5\. [^940]. (Il devrait également nommer cette divinité) au moment où l'animal touche le brin d'herbe, au moment où il est attaché à la branche, au moment où il est aspergé d'eau et à la préparation et à l'oblation du plat de nourriture cuite.
 
-6\. Après avoir sacrifié l'épiploon, il coupe les portions d'Avadâna, <span id="p361">[<sup><small>p. 361</small></sup>]</span>
+6\. Après avoir sacrifié l'épiploon, il coupe les portions d'Avadâna, <span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 7 [^941]. Tous, ou trois, ou cinq.
 
@@ -488,7 +488,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 3\. (Et) il offrira un plat de nourriture cuite à Nir<i>ri</i>ti.
 
-4\. [^945]. Les parties de l'Avadâna sont sacrifiées dans l'eau (et non dans le feu). <span id="p362">[<sup><small>p. 362</small></sup>]</span>
+4\. [^945]. Les parties de l'Avadâna sont sacrifiées dans l'eau (et non dans le feu). <span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 5 [^946]. Le Puro<i>d</i>â<i>d</i>a (ou gâteau sacrificiel), qui appartient au sacrifice animal, est cuit sur le sol (et non dans les Kapâlas).
 
@@ -526,7 +526,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 1\. Maintenant, le montage d'un char (est déclaré).
 
-2\. Après avoir donné l'ordre : « Mettez les chevaux au travail », et qu'il a été annoncé : « Ils y sont », il va (au char, en disant) : « C'est la Vierge », et touche les deux roues, <span id="p364">[<sup><small>p. 364</small></sup>]</span>
+2\. Après avoir donné l'ordre : « Mettez les chevaux au travail », et qu'il a été annoncé : « Ils y sont », il va (au char, en disant) : « C'est la Vierge », et touche les deux roues, <span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 3\. La roue droite avec (les mots), « Tu es le Rathantara » —
 
@@ -540,7 +540,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 8\. (S'il va dans son char) vers (les images des) dieux, qu'il descende (du char) avant de les avoir atteints ; s'il va vers les Brâhmanes, juste avant (de les atteindre) ; s'il va vers les vaches, lorsqu'il est au milieu d'elles ; s'il va vers les pères, lorsqu'il les a atteints.
 
-9\. Une femme ou un étudiant védique ne doit pas être conducteur de char. <span id="p365">[<sup><small>p. 365</small></sup>]</span>
+9\. Une femme ou un étudiant védique ne doit pas être conducteur de char. <span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 10\. Après avoir dépassé un instant (le point où il a l'intention d'aller), il devrait murmurer : « Voici le repos, reposez-vous ici » (Vâ_g_. Sa<i>m</i>h. VIII, 51).
 
@@ -562,7 +562,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 3\. Il le monte alors avec (les mots) : « Avec la foudre d'Indra, je te chevauche. Fais-moi arriver sain et sauf. »
 
-4\. Il a également été déclaré comment il devait monter à cheval. <span id="p366">[<sup><small>p. 366</small></sup>]</span>
+4\. Il a également été déclaré comment il devait monter à cheval. <span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 5\. Lorsqu'il s'apprête à monter un chameau, il s'adresse à lui : « Tu es le fils de Tvash<i>t</i>_ri_ ; Tvash<i>t</i>_ri_ est ta divinité. Fais-moi arriver sain et sauf. »
 
@@ -584,7 +584,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 14\. Il s'adresse à un cimetière : « Adoration à Rudra qui demeure parmi les Pères. Fais-moi arriver sain et sauf. »
 
-15\. Il s'adresse à une étable : « Adoration à Rudra qui habite parmi les tas de fumier. Fais-moi arriver sain et sauf. » <span id="p367">[<sup><small>p. 367</small></sup>]</span>
+15\. Il s'adresse à une étable : « Adoration à Rudra qui habite parmi les tas de fumier. Fais-moi arriver sain et sauf. » <span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 16\. Et partout ailleurs, qu'il dise toujours : « Adoration à Rudra. » Car le Sruti dit : « Rudra est cet univers. »
 
@@ -598,7 +598,7 @@ Du bien, vous nous avez conduits au meilleur, ô dieux ! Par vous, la nourriture
 
 21\. À un arbre servant de borne (d'une frontière, etc.), il s'adresse : « Que ni l'éclair, ni la hache, ni le vent, ni le châtiment que le roi envoie, ne te détruisent. Que tes pousses poussent ; que la pluie tombe sur toi, à l'abri du vent. Que le feu ne détruise pas tes racines. Sois béni, ô seigneur de la forêt ! Sois béni, ô seigneur de la forêt ! »
 
-22\. S'il reçoit quelque chose, il l'accepte avec la formule : « Que le Ciel te donne ; que la Terre t'accepte ». Ainsi, la chose donnée ne diminue pas pour celui qui la donne, et ce qu'il reçoit augmente. <span id="p368">[<sup><small>p. 368</small></sup>]</span>
+22\. S'il reçoit quelque chose, il l'accepte avec la formule : « Que le Ciel te donne ; que la Terre t'accepte ». Ainsi, la chose donnée ne diminue pas pour celui qui la donne, et ce qu'il reçoit augmente. <span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 23\. Si on lui donne du riz bouilli, il l'accepte avec (la formule) « Que le Ciel, etc. », et il en mange deux fois avec (les formules) « Que Brahman te mange ! » — « Que Brahman te mange ! »
 

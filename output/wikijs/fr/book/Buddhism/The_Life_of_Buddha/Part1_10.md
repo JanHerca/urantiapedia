@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 
 Le char entra dans le bois. Les jeunes arbres étaient en fleurs, les oiseaux voletaient joyeusement, comme enivrés par la lumière et l'atmosphère, et à la surface des étangs, les lotus avaient replié leurs pétales pour s'abreuver de l'air frais.
@@ -41,7 +41,7 @@ Siddhartha s'en alla à contrecœur, tel un jeune ermite, encore novice dans ses
 
 Udayin appela les plus audacieux et les plus beaux, et leur dit :
 
-« Pourquoi me manques-tu aujourd'hui, toi que j'ai choisie parmi tant d'autres pour séduire le prince, mon amie ? Qu'est-ce qui te fait te comporter comme des enfants timides et silencieux ? Ton charme, ta beauté, ton audace gagneraient même le cœur d'une femme, et tu trembles <span id="p50">[<sup><small>p. 50</small></sup>]</span> devant un homme ! Tu me mortifies. Allons, réveille-toi ! Use de tes charmes ! Fais-le céder à l'amour ! » Une des jeunes filles prit la parole :
+« Pourquoi me manques-tu aujourd'hui, toi que j'ai choisie parmi tant d'autres pour séduire le prince, mon amie ? Qu'est-ce qui te fait te comporter comme des enfants timides et silencieux ? Ton charme, ta beauté, ton audace gagneraient même le cœur d'une femme, et tu trembles <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> devant un homme ! Tu me mortifies. Allons, réveille-toi ! Use de tes charmes ! Fais-le céder à l'amour ! » Une des jeunes filles prit la parole :
 
 « Il nous effraie, ô maître ; sa majestueuse splendeur nous effraie. »
 
@@ -49,7 +49,7 @@ Udayin appela les plus audacieux et les plus beaux, et leur dit :
 
 Les paroles d'Udayin encourageaient les jeunes filles. Souriantes et avec une grâce exquise, elles formèrent peu à peu un cercle autour du prince.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Elles usèrent des ruses les plus engageantes pour approcher Siddhartha, le frôler ou le serrer dans leurs bras pour lui voler une caresse. L'une feignit de trébucher et s'accrocha à sa ceinture. Une autre s'approcha et lui murmura mystérieusement à l'oreille : « Daigne entendre mon secret, ô prince. » Une autre feignit l'ivresse ; elle déroula lentement le voile bleu qui entourait sa poitrine, puis vint s'appuyer contre son épaule. Une autre sauta d'une branche de manguier et tenta en riant de l'arrêter au passage. Une autre encore lui offrit une fleur de lotus. Et l'une chanta : « Regarde, cher amour, cet arbre est couvert de fleurs, de fleurs dont le parfum embaume l'air ; dans les branches, des oiseaux rares chantent leurs chants joyeux, comme dans une cage dorée. Écoute les abeilles qui voltigent au-dessus des fleurs ; elles sont éveillées et consumées par une ardeur ardente. Regarde ces lianes qui embrassent chaleureusement l'arbre ; la brise les agite d'une main jalouse. Là-bas, dans cette charmante clairière, vois-tu l'étang argenté endormi ? Il sourit, somnolent, comme une jeune fille caressée par un rayon de lune éclatant.
 
@@ -65,7 +65,7 @@ Il dit : « Pourquoi es-tu si impolie envers ces jeunes filles ? Peut-être ne t
 
 Le soleil se couchait. Les jeunes filles avaient cessé de rire ; le prince n'avait plus d'yeux pour leurs guirlandes et leurs bijoux. Elles sentaient que leurs charmes ne leur serviraient à rien, et elles reprirent lentement le chemin de la ville.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 Le prince retourna au palais. Le roi Suddhodana apprit par Udayin que son fils fuyait tout plaisir et qu'il ne trouva pas le sommeil cette nuit-là.
 

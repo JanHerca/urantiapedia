@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 ### CHAPITRE II.
 
-§ 1. Tant qu'il est permis aux prêtres de manger l'offrande élevée, [^255] \[l'Israélite\] peut donner \[des articles de levain non consacrés\] à ses animaux domestiques ou sauvages, ou à la volaille ; il peut aussi le vendre à des étrangers, [^256] ou en tirer profit de toute autre manière ; mais passé ce délai, il est interdit d'en tirer quelque profit que ce soit, pas même de l'utiliser comme combustible, ni d'en allumer un four <span id="p100">[<sup><small>p. 100</small></sup>]</span> ou un poêle. [^257] R. Jehudah dit : « L'élimination du levain doit être effectuée en le brûlant » : mais les sages disent : « Il doit être émietté en petites particules, jeté au vent ou jeté à la mer. »
+§ 1. Tant qu'il est permis aux prêtres de manger l'offrande élevée, [^255] \[l'Israélite\] peut donner \[des articles de levain non consacrés\] à ses animaux domestiques ou sauvages, ou à la volaille ; il peut aussi le vendre à des étrangers, [^256] ou en tirer profit de toute autre manière ; mais passé ce délai, il est interdit d'en tirer quelque profit que ce soit, pas même de l'utiliser comme combustible, ni d'en allumer un four <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> ou un poêle. [^257] R. Jehudah dit : « L'élimination du levain doit être effectuée en le brûlant » : mais les sages disent : « Il doit être émietté en petites particules, jeté au vent ou jeté à la mer. »
 
 § 2. Le levain appartenant à un étranger, qui a existé pendant la Pâque, peut être utilisé après cette fête, mais pas s'il appartenait à un Israélite, car il est dit (Exode xiii. 7) : « On ne verra pas non plus de levain dans tous tes quartiers. »
 

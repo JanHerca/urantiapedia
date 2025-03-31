@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span> p. 26 p. 27
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span> p. 26 p. 27
 
 MU<i>N</i><i>D</i> alias UPANISHAD.
 
@@ -48,16 +48,16 @@ PREMIER MUN<i>D</i>AKA.
 
 4\. Il lui dit : « Deux sortes de connaissances doivent être connues, c'est ce que nous disent tous ceux qui connaissent Brahman, la connaissance supérieure et la connaissance inférieure. »
 
-5\. 9 La connaissance inférieure est le <i>Ri</i>g-veda, le Ya<i>g</i>ur-veda, le Sâma-veda, l'Atharva-veda, le <i>S</i>ikshâ (phonétique), le Kalpa (cérémonial), le Vyâkara<i>n</i>a (grammaire), le Nirukta (étymologie), le <i>Kh</i>andas (mètre), le <i>G</i>yotisha (astronomie) [^155] ; <span id="p28">[<sup><small>p. 28</small></sup>]</span> mais la connaissance supérieure est celle par laquelle l'Indestructible (Brahman) est appréhendé.
+5\. 9 La connaissance inférieure est le <i>Ri</i>g-veda, le Ya<i>g</i>ur-veda, le Sâma-veda, l'Atharva-veda, le <i>S</i>ikshâ (phonétique), le Kalpa (cérémonial), le Vyâkara<i>n</i>a (grammaire), le Nirukta (étymologie), le <i>Kh</i>andas (mètre), le <i>G</i>yotisha (astronomie) [^155] ; <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> mais la connaissance supérieure est celle par laquelle l'Indestructible (Brahman) est appréhendé.
 
 6\. « Ce qui ne peut être ni vu, ni saisi, qui n'a ni famille ni caste [^156], ni yeux ni oreilles, ni mains ni pieds, l'éternel, l'omniprésent (imprégnant tout), l'infinitésimal, ce qui est impérissable, c'est cela que les sages considèrent comme la source de tous les êtres. »
 
 7\. « Comme l'araignée tire et tire son fil, comme les plantes poussent sur la terre, comme de chaque homme poussent des cheveux sur la tête et sur le corps, ainsi tout ici naît de l'Indestructible. »
 
-8\. « Le Brahman gonfle au moyen de la méditation (pénitence) [^157] ; de là est produite la matière (nourriture) ; de la matière le souffle [^158], l'esprit, le vrai [^159], les mondes (sept), et des œuvres (accomplies par les hommes dans les mondes), l'immortel (les effets éternels, les récompenses et les punitions des œuvres). » <span id="p29">[<sup><small>p. 29</small></sup>]</span> 9\. « De celui qui perçoit tout et qui sait tout, dont la méditation (pénitence) consiste en connaissance, de lui (le Brahman le plus élevé) naît ce Brahman [^160], ce nom, cette forme [^161] et cette matière (nourriture). »
+8\. « Le Brahman gonfle au moyen de la méditation (pénitence) [^157] ; de là est produite la matière (nourriture) ; de la matière le souffle [^158], l'esprit, le vrai [^159], les mondes (sept), et des œuvres (accomplies par les hommes dans les mondes), l'immortel (les effets éternels, les récompenses et les punitions des œuvres). » <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> 9\. « De celui qui perçoit tout et qui sait tout, dont la méditation (pénitence) consiste en connaissance, de lui (le Brahman le plus élevé) naît ce Brahman [^160], ce nom, cette forme [^161] et cette matière (nourriture). »
 
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ## DEUXIÈME KHA<i>N</i><i>D</i>A.
 
@@ -65,7 +65,7 @@ PREMIER MUN<i>D</i>AKA.
 
 2\. Lorsque le feu est allumé et que la flamme vacille, qu'un homme offre ses oblations entre les deux portions de beurre fondu, comme une offrande avec foi.
 
-3\. Si le sacrifice d'Agnihotra d'un homme [^166] n'est pas suivi <span id="p31">[<sup><small>p. 31</small></sup>]</span> par les sacrifices de la nouvelle lune et de la pleine lune, par les sacrifices des quatre mois et par le sacrifice de la moisson, s'il n'est pas accompagné d'invités, s'il n'est pas offert du tout, ou sans la cérémonie de Vaisvadeva, ou s'il n'est pas offert selon la règle, alors il détruit ses sept mondes [^167].
+3\. Si le sacrifice d'Agnihotra d'un homme [^166] n'est pas suivi <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> par les sacrifices de la nouvelle lune et de la pleine lune, par les sacrifices des quatre mois et par le sacrifice de la moisson, s'il n'est pas accompagné d'invités, s'il n'est pas offert du tout, ou sans la cérémonie de Vaisvadeva, ou s'il n'est pas offert selon la règle, alors il détruit ses sept mondes [^167].
 
 4\. Kâlî (noir), Karâlî (terrifiant), Mano<i>g</i>avâ (rapide comme la pensée), Sulohitâ (très rouge), Sudhûmravar<i>n</i>â (violet), Sphuliṅginî (étincelant), et le brillant Vi<i>s</i>varûpî [^168] (ayant toutes les formes), tous ceux-là jouant sont appelés les sept langues (de feu).
 
@@ -73,7 +73,7 @@ PREMIER MUN<i>D</i>AKA.
 
 6\. Viens ici, viens ici ! lui disent les brillantes oblations, et portent le sacrificateur sur les rayons du soleil, tandis qu'elles prononcent des paroles agréables et le louent, en disant : « Ceci est ton saint monde de Brahma (Svarga), gagné par tes bonnes œuvres. »
 
-7\. Mais fragiles, en vérité, sont ces bateaux, les sacrifices, les dix-huit, dans lesquels ce cérémonial inférieur a été raconté [^169]. Les insensés qui louent cela comme le bien suprême sont sujets encore et encore à la vieillesse et à la mort. <span id="p32">[<sup><small>p. 32</small></sup>]</span> 8\. Les insensés qui habitent dans les ténèbres, sages à leurs propres yeux et enflés d'une vaine connaissance, tournent en rond, titubant de droite et de gauche, comme des aveugles conduits par d'autres aveugles [^170].
+7\. Mais fragiles, en vérité, sont ces bateaux, les sacrifices, les dix-huit, dans lesquels ce cérémonial inférieur a été raconté [^169]. Les insensés qui louent cela comme le bien suprême sont sujets encore et encore à la vieillesse et à la mort. <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> 8\. Les insensés qui habitent dans les ténèbres, sages à leurs propres yeux et enflés d'une vaine connaissance, tournent en rond, titubant de droite et de gauche, comme des aveugles conduits par d'autres aveugles [^170].
 
 9\. Les enfants, lorsqu'ils ont longtemps vécu dans l'ignorance, s'estiment heureux. Parce que ceux qui dépendent de leurs bonnes œuvres sont, à cause de leurs passions, imprévoyants, ils chutent et deviennent malheureux lorsque leur vie (dans le monde qu'ils avaient gagné par leurs bonnes œuvres) est terminée.
 
@@ -81,7 +81,7 @@ PREMIER MUN<i>D</i>AKA.
 
 11\. Mais ceux [^171] qui pratiquent la pénitence et la foi dans la forêt, tranquilles, sages et vivant d'aumônes, partent libres de passion à travers le soleil vers l'endroit où demeure cette Personne immortelle dont la nature est impérissable [^172].
 
-12\. Qu'un Brâhmane, après avoir examiné tous ces mondes acquis par les œuvres, acquière la liberté de tout désir. Rien de ce qui est éternel (non créé) ne peut être acquis par ce qui ne l'est pas. Pour comprendre cela, qu'il prenne <span id="p33">[<sup><small>p. 33</small></sup>]</span> du combustible dans sa main et s'adresse à un Guru érudit qui réside entièrement en Brahman.
+12\. Qu'un Brâhmane, après avoir examiné tous ces mondes acquis par les œuvres, acquière la liberté de tout désir. Rien de ce qui est éternel (non créé) ne peut être acquis par ce qui ne l'est pas. Pour comprendre cela, qu'il prenne <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> du combustible dans sa main et s'adresse à un Guru érudit qui réside entièrement en Brahman.
 
 13\. À cet élève qui s'est approché de lui avec respect, dont les pensées ne sont troublées par aucun désir, et qui a obtenu une paix parfaite, le sage maître a vraiment dit cette connaissance de Brahman par laquelle il connaît la Personne éternelle et vraie.
 

@@ -32,13 +32,13 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ## ADHYÂYA IV, KHA<i>ND</i>A 1.
 
 1\. [^230]. Qu'il offre (des oblations de Srâddha) chaque mois aux pères.
 
-2\. [^231]. Ayant invité un nombre impair de Brâhmanes, versés dans le Véda, au moins trois, à s'asseoir comme (représentant) les pères, <span id="p107">[<sup><small>p. 107</small></sup>]</span>
+2\. [^231]. Ayant invité un nombre impair de Brâhmanes, versés dans le Véda, au moins trois, à s'asseoir comme (représentant) les pères, <span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 3\. Et ayant répandu du sésame dans un nombre impair de pots d'eau,
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. Il leur assignera (la nourriture) en disant : « NN ! Ceci pour toi ! » et il les fera manger.
 
-8\. Pendant qu'ils mangent, il murmurera les Mahâvyâh<i>ri</i>tis, les Sâvitrî, ​​les versets Madhuvâtîya (Rig-veda I, 90, 6 seq.), et les versets adressés aux Mânes et au (Soma) Pavamâna. <span id="p108">[<sup><small>p. 108</small></sup>]</span>
+8\. Pendant qu'ils mangent, il murmurera les Mahâvyâh<i>ri</i>tis, les Sâvitrî, ​​les versets Madhuvâtîya (Rig-veda I, 90, 6 seq.), et les versets adressés aux Mânes et au (Soma) Pavamâna. <span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 9 [^233]. Lorsqu'ils auront fini de manger, il offrira les morceaux (de farine).
 
@@ -74,7 +74,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 5\. [^238]. Aucune invitation (n'a lieu ici), ni mise en scène
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 (de nourriture) dans le feu, et les devâs Vi<i>s</i>ves (ne prennent pas part à cette cérémonie). « Savourés ? » — ainsi faut-il leur demander s'ils sont rassasiés. « Puisse-t-il s'approcher (des pères), » au lieu de « impérissable ».
 
@@ -86,7 +86,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## KHA<i>ND</i>A 3.
 
-1\. [^240]. Vient ensuite le Sapi<i>nd</i>îkara<i>n</i>a (c'est-à-dire l'accueil d'un défunt dans la communauté des offrandes Pi<i>nd</i>a avec les autres Mânes). <span id="p110">[<sup><small>p. 110</small></sup>]</span>
+1\. [^240]. Vient ensuite le Sapi<i>nd</i>îkara<i>n</i>a (c'est-à-dire l'accueil d'un défunt dans la communauté des offrandes Pi<i>nd</i>a avec les autres Mânes). <span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 2 [^241]. Lorsqu'une année s'est écoulée, ou trois demi-mois,
 
@@ -104,7 +104,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## KHA<i>ND</i>A 4.
 
-1\. [^242]. Vient ensuite l'Âbhyudayika (cérémonie du Srâddha, qui porte bonheur). <span id="p111">[<sup><small>p. 111</small></sup>]</span>
+1\. [^242]. Vient ensuite l'Âbhyudayika (cérémonie du Srâddha, qui porte bonheur). <span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 2\. Dans la quinzaine de la lune croissante, un jour propice,
 
@@ -130,7 +130,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 13\. [^249]. « Je ferai parler les Mânes Nândîmukha », quand il fera parler (les Brâhma<i>n</i>as).
 
-14\. [^250]. « (Était-ce) bien fait ? » — c'est ainsi qu'on leur demande s'ils sont rassasiés. <span id="p112">[<sup><small>p. 112</small></sup>]</span>
+14\. [^250]. « (Était-ce) bien fait ? » — c'est ainsi qu'on leur demande s'ils sont rassasiés. <span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 15\. Le reste est le même (comme dans les autres types de rites <i>S</i>râddha), dans la mesure où cela n'est pas interdit (par des règles contraires).
 
@@ -150,7 +150,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. « Je loue Agni le Purohita » (Rig-veda I, 1, 1), ce seul verset,
 
-8\. 'Le Kushumbhaka (mangouste ?) l'a dit :' 'Si tu cries, ô oiseau, annonce-nous la chance ;' 'Chanté par <i>G</i>amadagni ;' 'Dans ta demeure repose le monde entier ;' <span id="p113">[<sup><small>p. 113</small></sup>]</span> 'Venez à notre sacrifice, ô vous qui êtes dignes du sacrifice, avec soin ;' 'Quiconque, qu'il soit à nous, qu'il soit étranger ;' 'Regarde, regarde autour de toi ;' 'Viens ici, Agni, l'ami des Maruts ;' 'L'oblation, ô roi, a cuit pour toi :' à chaque fois deux versets,
+8\. 'Le Kushumbhaka (mangouste ?) l'a dit :' 'Si tu cries, ô oiseau, annonce-nous la chance ;' 'Chanté par <i>G</i>amadagni ;' 'Dans ta demeure repose le monde entier ;' <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> 'Venez à notre sacrifice, ô vous qui êtes dignes du sacrifice, avec soin ;' 'Quiconque, qu'il soit à nous, qu'il soit étranger ;' 'Regarde, regarde autour de toi ;' 'Viens ici, Agni, l'ami des Maruts ;' 'L'oblation, ô roi, a cuit pour toi :' à chaque fois deux versets,
 
 9\. [^254]. « Cette bénédiction et cette félicité que nous choisissons » — ce verset (le premier et le dernier verset de chaque Ma<i>nd</i>ala).
 
@@ -160,7 +160,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 12\. Murmurez les Mahâvyâh<i>ri</i>tis, les Sâvitrî et les hymnes de bon augure commençant depuis le début du Véda,
 
-13\. Et faites que le professeur formule des vœux de bon augure. <span id="p114">[<sup><small>p. 114</small></sup>]</span>
+13\. Et faites que le professeur formule des vœux de bon augure. <span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 14\. De cette (cérémonie) il est également dit :
 
@@ -178,7 +178,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. Dans un endroit couvert d'herbes,
 
-4\. Après avoir murmuré les hymnes sacrés au Soleil, « Vers le haut, les Gâtavedas » (Rig-veda I, 50), « Le visage lumineux des dieux » (I, 115), « Adoration à l'œil de Mitra » (X, 37), « Du ciel (où il demeure) puisse Sûrya nous protéger » (X, 158), <span id="p115">[<sup><small>p. 115</small></sup>]</span>
+4\. Après avoir murmuré les hymnes sacrés au Soleil, « Vers le haut, les Gâtavedas » (Rig-veda I, 50), « Le visage lumineux des dieux » (I, 115), « Adoration à l'œil de Mitra » (X, 37), « Du ciel (où il demeure) puisse Sûrya nous protéger » (X, 158), <span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 5\. Et ayant jeté des mottes de terre (sur le sol) aux différents points (de l'horizon), de gauche à droite, avec l'hymne, « Un souverain en effet » (Rig-veda X, 152), verset par verset,
 
@@ -204,7 +204,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. [^260]. Si un décès (de parents) ou une naissance est survenu, pendant dix jours ;
 
-7\. [^261]. Le quatorzième jour (des quinzaines), les jours de nouvelle lune et les jours d'Ash<i>t</i>akâ, <span id="p116">[<sup><small>p. 116</small></sup>]</span>
+7\. [^261]. Le quatorzième jour (des quinzaines), les jours de nouvelle lune et les jours d'Ash<i>t</i>akâ, <span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 8 [^262]. Et les jours de brouillard.
 
@@ -234,7 +234,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 21\. [^264]. Quand le son d'un Sâman est entendu ;
 
-22\. Sur un cimetière ; <span id="p117">[<sup><small>p. 117</small></sup>]</span>
+22\. Sur un cimetière ; <span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 23 [^265]. Dans un désert qui appartient au village ;
 
@@ -284,7 +284,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 46\. Pendant qu'il est oint ;
 
-47\. (Au voisinage) d'un homme qui doit toucher des cadavres (un porteur de cadavres, etc.), d'une femme qui vient d'accoucher ou qui a ses règles, comme (au voisinage) d'un <i>S</i>ûdra ; <span id="p118">[<sup><small>p. 118</small></sup>]</span>
+47\. (Au voisinage) d'un homme qui doit toucher des cadavres (un porteur de cadavres, etc.), d'une femme qui vient d'accoucher ou qui a ses règles, comme (au voisinage) d'un <i>S</i>ûdra ; <span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 48\. Avec les mains voilées ;
 
@@ -304,7 +304,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 8.
 
@@ -336,7 +336,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 15\. Lorsqu'il a récité, il embrasse (les pieds de son maître),
 
-16\. Dit : « Nous avons terminé, monsieur ! » et (s'en va) selon ses affaires. <span id="p120">[<sup><small>p. 120</small></sup>]</span>
+16\. Dit : « Nous avons terminé, monsieur ! » et (s'en va) selon ses affaires. <span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 17\. (Il dira) : « Partez ! Arrêtez-vous en attendant ! » selon certains (enseignants).
 
@@ -350,7 +350,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. [^274]. Après s'être baigné,
 
-2\. Et s'étant immergé au temps prescrit pour le bain, il rassasie les divinités : <span id="p121">[<sup><small>p. 121</small></sup>]</span>
+2\. Et s'étant immergé au temps prescrit pour le bain, il rassasie les divinités : <span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 3 [^275]. 'Agni peut se rassasier ; Vâyu peut se rassasier ; Sûrya peut se rassasier ; Vishnu peut se rassasier ; Pranâpati peut se rassasier ; Virûpâksha peut se rassasier ; Sahasrâksha peut se rassasier ; Soma, Brahman, les Védas, les dieux, les Rishis et tous les mètres, le mot Om, le mot VASHA_T_, les Mahâvyâh<i>n</i>tis, les Sâvitrî, ​​les sacrifices, le ciel et la terre, les Nakshatras, l'air, les jours et les nuits, les nombres, les crépuscules, les océans, les rivières, les montagnes, les champs, les herbes, les arbres, les Gandharvas et les Apsaras, les serpents, les oiseaux, les Siddhas, les Sâdhyas, les Vipras, les Yakshas, ​​les Rakshas, ​​les êtres qui ont ces (Rakshas, ​​etc.) à leur fin, peuvent se rassasier.
 
@@ -362,7 +362,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. En regardant dans la direction qui appartient aux Crinières (c'est-à-dire le sud) :
 
-3\. « Les (_Ri<i>shis) des cent (</i>Ri_<i>shis) des cent (</i>as), les (<i>Ri</i>shis) des moyens (Ma<i>shis) des cent (</i><i>shis) des cent (</i>alas), G<i>shis) des cent (</i>tsamada, Vi<i>shis) des cent (</i>vâmitra, <i>G</i>amadagni, Vâmadeva, Atri, Bharadvâ<i>shis) des cent (</i>a, Vasish<i>shis) des cent (</i>a, les Pragâthas, les (<i>Ri</i>shis) des hymnes Pavamâna, les (<i>Ri</i>shis) des hymnes courts et des hymnes longs, Sumantu, <i>G</i>aimini, Vai<i>shis) des cent (</i>ampâyana, Paila, les Sûtras, les Bhâshyas, Gârgya, Babhru, Bâbhravya, Ma<i>shis) des cent (</i><i>shis) des cent (</i>u, Mâ<i>shis) des cent (</i><i>shis) des cent (</i>avya, Gârgî Vâ<i>shis) des cent (</i>aknavî, <span id="p123">[<sup><small>p. 123</small></sup>]</span> Vadavâ Prâtitheyî, Sulabhâ Maitreyî (peuvent se rassasier).
+3\. « Les (_Ri<i>shis) des cent (</i>Ri_<i>shis) des cent (</i>as), les (<i>Ri</i>shis) des moyens (Ma<i>shis) des cent (</i><i>shis) des cent (</i>alas), G<i>shis) des cent (</i>tsamada, Vi<i>shis) des cent (</i>vâmitra, <i>G</i>amadagni, Vâmadeva, Atri, Bharadvâ<i>shis) des cent (</i>a, Vasish<i>shis) des cent (</i>a, les Pragâthas, les (<i>Ri</i>shis) des hymnes Pavamâna, les (<i>Ri</i>shis) des hymnes courts et des hymnes longs, Sumantu, <i>G</i>aimini, Vai<i>shis) des cent (</i>ampâyana, Paila, les Sûtras, les Bhâshyas, Gârgya, Babhru, Bâbhravya, Ma<i>shis) des cent (</i><i>shis) des cent (</i>u, Mâ<i>shis) des cent (</i><i>shis) des cent (</i>avya, Gârgî Vâ<i>shis) des cent (</i>aknavî, <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> Vadavâ Prâtitheyî, Sulabhâ Maitreyî (peuvent se rassasier).
 
 « (Je rassasie) Kahola Kaushîtaki, Mahâkaushîtaki, Suya<i>g</i><i>g</i>a <i>S</i>âṅkhâyana, Â<i>g</i>valâyana, Aitareya, Mahaitareya, Bhâradvâ<i>g</i>a, _G<i>g</i>n_ya, Paiṅgya, Mahâpaṅgya, Bâshkala, Gârgya, <i>S</i>âkalya, Mâ<i>g</i><i>g</i>ûkeya, Mahâdamatra, Audavâhi, Mahaudavâhi, Sauyâmi, <i>S</i>aunaki, _S<i>g</i>n_i, Gautami ; et quels que soient les autres enseignants, puissent-ils tous se rassasier. »
 
@@ -396,7 +396,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. Qu'il n'exécute pas son travail avec des instruments gaspillés par l'usage.
 
-10\. [^278]. Qu'il ne mange pas avec (sa femme), <span id="p124">[<sup><small>p. 124</small></sup>]</span>
+10\. [^278]. Qu'il ne mange pas avec (sa femme), <span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 11 [^279]. Ni restes (de nourriture).
 
@@ -430,7 +430,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## KHA<i>ND</i>A 12.
 
-1\. Chaque jour, il saluera respectueusement son maître, <span id="p125">[<sup><small>p. 125</small></sup>]</span>
+1\. Chaque jour, il saluera respectueusement son maître, <span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 2\. Et ses gourous,
 
@@ -458,7 +458,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 14\. Ni avec les mains voilées.
 
-15\. Les maisons des dieux (il fera le tour) en gardant le côté droit tourné vers elles. <span id="p126">[<sup><small>p. 126</small></sup>]</span>
+15\. Les maisons des dieux (il fera le tour) en gardant le côté droit tourné vers elles. <span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 16 [^285]. Qu'il ne s'enfuie pas.
 
@@ -500,7 +500,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. Avant que cela soit fait, il offrira à la limite orientale de son champ un Bali au Ciel et à la Terre.
 
-3\. Avec un verset consacré au Ciel et à la Terre et avec les mots : « Adoration au Ciel et à la Terre ! » (il accomplit son) culte (au Ciel et à la Terre). <span id="p127">[<sup><small>p. 127</small></sup>]</span>
+3\. Avec un verset consacré au Ciel et à la Terre et avec les mots : « Adoration au Ciel et à la Terre ! » (il accomplit son) culte (au Ciel et à la Terre). <span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 4\. Lorsque la charrue est mise en mouvement pour la première fois, qu'un Brâhma<i>n</i>a touche la charrue en récitant ce (verset) : « Pour la chance, puissions-nous utiliser les socs de charrue » (Rig-veda IV, 57, 8).
 
@@ -530,7 +530,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. Le _S<i>rava</i>n_a (oblation) qu'il offre le jour de la pleine lune qui tombe sous (le Nakshatra) _S<i>rava</i>th_âs, de la farine d'orge frite, ou de nourriture cuite,
 
-2\. Avec (les mots), « À Vishnu svâhâ ! À (le Nakshatra) _S<i>n</i>n_a svâhâ ! À la pleine lune de _S<i>n</i>n_a svâhâ ! À la saison des pluies svâhâ ! » <span id="p128">[<sup><small>p. 128</small></sup>]</span>
+2\. Avec (les mots), « À Vishnu svâhâ ! À (le Nakshatra) _S<i>n</i>n_a svâhâ ! À la pleine lune de _S<i>n</i>n_a svâhâ ! À la saison des pluies svâhâ ! » <span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 3\. Après avoir établi le feu domestique (sacré) à l'extérieur, et après avoir mélangé du grain frit et de la farine d'orge frite avec du beurre, il sacrifie—
 
@@ -550,7 +550,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 11\. Avec (les mots) : « Que le Seigneur des Serpents célestes oigne (ses cils) ! Que les Serpents célestes oignent (leurs cils) ! » — il fait jaillir (de petites portions de collyre) une jeune pousse de Ku<i>s</i>a.
 
-12\. Avec (ces mots) : « Que le Lori des Serpents célestes se regarde ! ​​Que les Serpents célestes se regardent ! » — il les fait se regarder dans un miroir. <span id="p129">[<sup><small>p. 129</small></sup>]</span>
+12\. Avec (ces mots) : « Que le Lori des Serpents célestes se regarde ! ​​Que les Serpents célestes se regardent ! » — il les fait se regarder dans un miroir. <span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 13\. Avec (les mots) : « Seigneur des Serpents célestes, ceci est ton Bali ! Serpents célestes, ceci est votre Bali ! » — il fait une offrande de Bali.
 
@@ -574,7 +574,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 ## KHA<i>ND</i>A 16.
 
@@ -596,7 +596,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. Le matin, après avoir pris une poignée de feuilles de Samî, de fleurs de Madhûka, de roseaux, de plantes d'Apâmârga, de pousses de Sirîsha, d'Udumbara, de Kusa, de fruits de jujubier et une motte de terre (prise) dans un sillon,
 
-4\. Ayant mis (tout cela) dans une cruche, <span id="p131">[<sup><small>p. 131</small></sup>]</span>
+4\. Ayant mis (tout cela) dans une cruche, <span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 5 [^293]. Et, après avoir rapidement répété le Mahâvyâh<i>ri</i>tis et le Sâvitrî, ​​l'y ayant immergé à plusieurs reprises avec cet hymne : « Puisse-t-il brûler loin de nous la douleur » (Rig-veda I, 97), il chassera le mal des personnes se tenant sous sa protection, de gauche à droite, et déversera (l'eau) vers le nord.
 
@@ -613,7 +613,7 @@ Frappe, ô blanche, avec ton pied, avec l'avant-pied et avec l'arrière-pied, ce
 
 2\. « Qu'un bon hiver, un bon printemps, un bon été nous soient accordés. Que les pluies soient pour nous des pluies heureuses ; que les automnes nous soient bénis. »
 
-3\. Avec (le verset) « Bénédiction sur nous, Mitra » (Rig-veda I, 90, 9), il balaie (le sol) avec une branche de Palâ<i>s</i>a, <span id="p132">[<sup><small>p. 132</small></sup>]</span>
+3\. Avec (le verset) « Bénédiction sur nous, Mitra » (Rig-veda I, 90, 9), il balaie (le sol) avec une branche de Palâ<i>s</i>a, <span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 4\. L'asperge (d'eau) avec (le verset), 'De la mer la vague' (Rig-veda IV, 58, 1),
 

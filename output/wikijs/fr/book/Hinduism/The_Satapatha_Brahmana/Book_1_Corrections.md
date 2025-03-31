@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:3:37Z
   </table>
 </figure>
 
-<span id="p452">[<sup><small>p. 452</small></sup>]</span>
+<span id="p452"><sup><small>[ p. 452 ]</small></sup></span>
 
 Page [15](Book_1_1_1#p15), note [1](Book_1_1_1#fn104). Le mât des charrettes indiennes est lui-même solidement attaché par des lanières.
 

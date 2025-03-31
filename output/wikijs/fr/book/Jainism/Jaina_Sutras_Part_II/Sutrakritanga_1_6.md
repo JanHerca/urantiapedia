@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 SIXIÈME CONFÉRENCE, INTIMÉ LOUANGE DE MAHÂVÎRA.
 
@@ -44,7 +44,7 @@ Ce grand sage, sage et intelligent, possédait une connaissance et une foi infin
 
 Ce sage avait exploré tous les êtres, qu'ils soient en mouvement ou non, en haut, en bas et sur terre, ainsi que les choses éternelles et transitoires. Telle une lampe, il éclairait la Loi dans sa véritable lumière. (4)
 
-Il voit tout ; sa connaissance a dépassé (les quatre stades inférieurs) [^849] ; il n'a aucune impureté ; il est vertueux, d'un esprit fixe, le plus élevé, le <span id="p288">[<sup><small>p. 288</small></sup>]</span> plus sage du monde entier ; il a rompu tous les liens ; il est au-dessus du danger et de la nécessité de continuer la vie [^850]. (5)
+Il voit tout ; sa connaissance a dépassé (les quatre stades inférieurs) [^849] ; il n'a aucune impureté ; il est vertueux, d'un esprit fixe, le plus élevé, le <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> plus sage du monde entier ; il a rompu tous les liens ; il est au-dessus du danger et de la nécessité de continuer la vie [^850]. (5)
 
 Omniscient, errant sans domicile, traversant le flot (du Sa<i>m</i>sâra), sage, et d'une perception illimitée, sans égal, il brille (ou il fait pénitence) comme le soleil, et il illumine les ténèbres comme un feu brillant, (6)
 
@@ -58,7 +58,7 @@ Par sa vigueur, il est le plus vigoureux ; comme Sudarsana (Mêru), la meilleure
 
 Il touche le ciel et est immergé dans la terre ; autour de lui tournent les soleils [^853] ; il a la couleur de l'or et contient de nombreux Nandana (parcs) [^854] ; sur lui les Mahêndras s'amusent. (11)
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 Cette montagne est distinguée par (plusieurs) noms; elle a la couleur de l'or bruni; c'est la plus grande de toutes les montagnes, difficile à gravir à cause de ses rochers; cette excellente montagne est comme une partie de la terre en feu. (12)
 
@@ -70,7 +70,7 @@ Comme Nishadha [^856] est la meilleure des montagnes étirées, et Ru<i>k</i>aka
 
 Après avoir enseigné la Loi suprême, il pratiqua la contemplation suprême [^857], qui est la plus pure des pures, pure sans défaut, parfaitement blanche (pour ainsi dire) comme la nacre et la lune. (16)
 
-Ayant anéanti tout son Karman, le grand sage, par sa connaissance, sa vertu et sa foi, a atteint <span id="p290">[<sup><small>p. 290</small></sup>]</span> la perfection insurpassable et la plus élevée, un état qui a un commencement mais pas de fin. (17)
+Ayant anéanti tout son Karman, le grand sage, par sa connaissance, sa vertu et sa foi, a atteint <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> la perfection insurpassable et la plus élevée, un état qui a un commencement mais pas de fin. (17)
 
 Comme le Sâlmalî, dans lequel les dieux Suparnâ [^858] prennent leurs délices, est le plus célèbre parmi les arbres, comme Nandana l'est parmi les parcs, ainsi l'Omniscient est le plus célèbre par sa connaissance et sa vertu. (18)
 
@@ -82,7 +82,7 @@ Comme Airâva<i>n</i>a est le meilleur des éléphants, le lion des bêtes, Ga�
 
 Comme Vishvaksêna [^860] est le plus célèbre des guerriers, comme le lotus est la meilleure des fleurs, comme Dantavakra est le meilleur des Kshattriyas, ainsi Vardhamâna est le meilleur des sages. (22)
 
-De même que donner la sécurité est le meilleur des cadeaux, de même que le meilleur des discours vrais est celui qui ne cause aucune détresse, <span id="p291">[<sup><small>p. 291</small></sup>]</span> de même que la chasteté est la plus haute des austérités, de même le <i>S</i>rama<i>n</i>a <i>G</i><i>ñ</i>ât<i>ri</i>putra est le plus haut des hommes. (23)
+De même que donner la sécurité est le meilleur des cadeaux, de même que le meilleur des discours vrais est celui qui ne cause aucune détresse, <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> de même que la chasteté est la plus haute des austérités, de même le <i>S</i>rama<i>n</i>a <i>G</i><i>ñ</i>ât<i>ri</i>putra est le plus haut des hommes. (23)
 
 Comme les Lavasaptamas [^861] sont les plus élevés de ces dieux qui vivent très longtemps, comme le palais Saudharman est la meilleure des demeures célestes, comme Nirvânâ est l'objet principal de la Loi, ainsi il n'y a pas d'homme plus sage que <i>G</i><i>ñ</i>ât<i>ri</i>putra. (24)
 
@@ -94,7 +94,7 @@ Il comprenait les doctrines des Kriyâvâdins, des Akriyâvâdins, des Vainayika
 
 Il s'abstenait [^863] des femmes, et de manger la nuit, il pratiquait des austérités pour chasser la douleur, il connaissait ce monde et celui de l'au-delà ; le seigneur renonçait [^863] à tout à chaque instant. (28)
 
-Ayant entendu et croyant en la Loi, qui <span id="p292">[<sup><small>p. 292</small></sup>]</span> a été proclamée et enseignée par l'Arhat, et a été démontrée par des arguments, les gens mettront fin à leur existence mondaine, ou ils deviendront comme Indra, le roi des dieux. (29)
+Ayant entendu et croyant en la Loi, qui <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> a été proclamée et enseignée par l'Arhat, et a été démontrée par des arguments, les gens mettront fin à leur existence mondaine, ou ils deviendront comme Indra, le roi des dieux. (29)
 
 Ainsi je dis.
 

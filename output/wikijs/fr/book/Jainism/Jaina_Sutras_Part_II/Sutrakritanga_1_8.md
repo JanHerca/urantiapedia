@@ -40,7 +40,7 @@ Certains disent qu'elle consiste dans les œuvres, et les pieux disent qu'elle c
 
 L'insouciance est appelée (cause de) Karman, la prudence celle du contraire (c'est-à-dire l'absence de Karman) ; lorsque l'un ou l'autre est prédiqué
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 (d'un homme, on l'appelle) soit un fou, soit un homme sage. (3)
 
@@ -72,7 +72,7 @@ Comme une tortue rentre ses membres dans son propre corps, ainsi un homme sage d
 
 Il devrait, pour ainsi dire, attirer ses mains et ses pieds, son esprit et ses cinq organes des sens, l'effet de son mauvais Karman et tout mauvais usage du langage. (17)
 
-Les vertueux s'efforcent de parvenir à un but lointain (à savoir la Libération [^883]). Il faut vivre <span id="p300">[<sup><small>p. 300</small></sup>]</span> indifférent à son propre bonheur, calme et sans attachement. (18)
+Les vertueux s'efforcent de parvenir à un but lointain (à savoir la Libération [^883]). Il faut vivre <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> indifférent à son propre bonheur, calme et sans attachement. (18)
 
 Ne tuez pas d'êtres vivants, ne prenez pas ce qui n'est pas donné gratuitement, ne proférez pas de paroles fausses et trompeuses ! Telle est la loi de celui qui est riche en maîtrise. (19)
 
@@ -88,7 +88,7 @@ La pénitence ne sert à rien si elle est accomplie par des hommes nobles devenu
 
 Un homme pieux devrait manger peu, boire peu, parler peu ; il devrait toujours faire des efforts, être calme, indifférent, dompteur (de ses sens) et exempt de cupidité. (25)
 
-En méditant et en accomplissant des pratiques religieuses, <span id="p301">[<sup><small>p. 301</small></sup>]</span> abandonnant son corps, considérant la patience comme le devoir primordial, un moine devrait errer jusqu'à ce qu'il obtienne la libération. (26)
+En méditant et en accomplissant des pratiques religieuses, <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> abandonnant son corps, considérant la patience comme le devoir primordial, un moine devrait errer jusqu'à ce qu'il obtienne la libération. (26)
 
 Ainsi je dis.
 

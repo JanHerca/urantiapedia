@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 
 Pendant ce temps, les ermites malfaisants, dont le Bouddha avait dénoncé l'imposture, étaient traités avec mépris par la population, et leur désir de vengeance s'intensifiait chaque jour. Ils s'étaient établis près du parc de Jeta et, nuit et jour, ils espionnaient le Bouddha et ses disciples. Mais tout cela en vain ; ils ne voyaient rien qui leur fournisse la moindre excuse pour calomnier la communauté.
@@ -45,7 +45,7 @@ Les ermites envoyèrent un message à Sinca. Elle vint. « Pourquoi m'as-tu fait
 
 « Connaissez-vous le moine de Kapilavastu, celui qui est vénéré comme le Bouddha ? »
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 « Non, mais je connais sa grande renommée. On m'a parlé des nombreux prodiges qu'il a accomplis. »
 
@@ -61,7 +61,7 @@ Au sixième mois, elle prit un morceau de tissu et l'enveloppa autour de son cor
 
 Au neuvième mois, elle attacha une boule de bois à l'épaisse ceinture qui lui entourait la taille, et lorsqu'elle marchait, elle prenait une démarche lente. Finalement, une nuit, elle entra dans la salle où le Maître exposait la loi. Audacieusement, elle lui fit face, et sa voix stridente interrompit son discours.
 
-« Douce est ta voix et mielleuse est ta parole tandis que tu instruis le peuple dans la loi. Tandis que moi, qui suis enceinte à cause de toi, moi qui vais bientôt devenir mère, je n'ai même pas de place pour ma maternité ! Tu me refuserais l'huile et le beurre dont j'ai besoin. Si cela te faisait rougir, maintenant, de prendre soin de moi, tu pourrais au moins me confier à l'un de tes disciples, au roi Prasenajit, ou au marchand Anathapindika. Mais non ! Je ne suis plus rien pour toi, et tu te soucies peu de l'enfant <span id="p235">[<sup><small>p. 235</small></sup>]</span> qui naîtra ! Tu connaîtrais toutes les joies de l'amour, mais tu ignorerais les responsabilités ! »
+« Douce est ta voix et mielleuse est ta parole tandis que tu instruis le peuple dans la loi. Tandis que moi, qui suis enceinte à cause de toi, moi qui vais bientôt devenir mère, je n'ai même pas de place pour ma maternité ! Tu me refuserais l'huile et le beurre dont j'ai besoin. Si cela te faisait rougir, maintenant, de prendre soin de moi, tu pourrais au moins me confier à l'un de tes disciples, au roi Prasenajit, ou au marchand Anathapindika. Mais non ! Je ne suis plus rien pour toi, et tu te soucies peu de l'enfant <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> qui naîtra ! Tu connaîtrais toutes les joies de l'amour, mais tu ignorerais les responsabilités ! »
 
 « Est-ce un mensonge ou dis-tu la vérité, Sinca ? » demanda calmement le Maître. « Seuls toi et moi le savons. »
 

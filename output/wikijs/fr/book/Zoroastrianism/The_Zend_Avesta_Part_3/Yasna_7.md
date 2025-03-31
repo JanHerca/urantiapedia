@@ -34,7 +34,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## YASNA VII. PRÉSENTATION DES OFFRANDES PAR LE PRÊTRE AVEC L'OBJET DE PROPITIATION NOMMÉ.
 
-1\. Avec une offrande complète et sacrée [^946] j'offre et je donne cette offrande de viande, et (avec elle) Haurvatâ<i>t</i> (qui garde l'eau), et Ameretatâ<i>t</i> (qui garde les plantes et le bois), et la chair du Veau du don béni, pour la propitiation d'Ahura Mazda, et des Immortels Généreux (tous, et) pour la propitiation de Sraosha (Obéissance) le béni, doté de sainteté, qui frappe du coup de la victoire, et qui fait avancer les colonies. <span id="p223">[<sup><small>p. 223</small></sup>]</span> 2\. Et j'offre le Haoma et le jus de Haoma avec une offrande complète et sacrée pour la propitiation du Fravashi de Zarathustra Spitâma le saint, et j'offre les billettes de bois avec le parfum pour Ta propitiation, celle du Feu, ô fils d'Ahura Mazda !
+1\. Avec une offrande complète et sacrée [^946] j'offre et je donne cette offrande de viande, et (avec elle) Haurvatâ<i>t</i> (qui garde l'eau), et Ameretatâ<i>t</i> (qui garde les plantes et le bois), et la chair du Veau du don béni, pour la propitiation d'Ahura Mazda, et des Immortels Généreux (tous, et) pour la propitiation de Sraosha (Obéissance) le béni, doté de sainteté, qui frappe du coup de la victoire, et qui fait avancer les colonies. <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> 2\. Et j'offre le Haoma et le jus de Haoma avec une offrande complète et sacrée pour la propitiation du Fravashi de Zarathustra Spitâma le saint, et j'offre les billettes de bois avec le parfum pour Ta propitiation, celle du Feu, ô fils d'Ahura Mazda !
 
 3\. Et j'offre les Haomas avec une offrande complète et sacrée pour la propitiation \[aux bonnes eaux\] pour les bonnes eaux produites par Mazda. Et j'offre cette eau de Haoma avec une exactitude scrupuleuse et sainteté, ainsi que ce lait frais et la plante Hadhânaêpata élevée avec une offrande complète et sacrée pour la propitiation des eaux produites par Mazda.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 5\. Et j'offre aux Asnya une offrande complète et sacrée, en tant que seigneurs de l'ordre rituel, et à Hâvani, et à Sâvanghi et Vîsya, saints seigneurs de l'ordre rituel, et à Mithra des vastes pâturages, des mille oreilles et des myriades d'yeux, le Yazad du nom prononcé, et à Raman <i>H</i><i>v</i>âstra.
 
-6\. Et j'offre une offrande complète et sacrée à Rapithwina, le saint seigneur de l'ordre rituel ; et j'offre à Frâda<i>t</i>\-fshu et au Za<i>n</i>tuma, et à <span id="p224">[<sup><small>p. 224</small></sup>]</span> Asha Vahi<i>s</i>ta (qui est la Meilleure Justice) et au Feu d'Ahura Mazda.
+6\. Et j'offre une offrande complète et sacrée à Rapithwina, le saint seigneur de l'ordre rituel ; et j'offre à Frâda<i>t</i>\-fshu et au Za<i>n</i>tuma, et à <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> Asha Vahi<i>s</i>ta (qui est la Meilleure Justice) et au Feu d'Ahura Mazda.
 
 7\. Et j'offre une offrande complète et sacrée à Uzayêirina, Frâda<i>t</i>\-vîra, et au Da<i>h</i><i>v</i>yuma\*, le saint seigneur de l'ordre rituel, et à ce haut Ahura Napâ<i>t</i>\-apãm, et aux eaux que Mazda a créées.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 10\. Et j'offre une offrande complète et sacrée aux Mâhya, seigneurs de l'ordre rituel, à la nouvelle lune et à la lune décroissante (la lune intérieure), et à la pleine lune qui disperse la nuit, saints seigneurs de l'ordre rituel.
 
-11\. Et j'offre une offrande complète et sacrée aux fêtes annuelles, les seigneurs de l'ordre rituel, à Maidhyô-zaremaya et Maidhyô-shema, à Paiti<i>s</i>hahya et à Ayâthrima l'engendreuse, celle qui dépense la force des mâles, et <span id="p225">[<sup><small>p. 225</small></sup>]</span> à Maidhyâirya et Hamaspathmaêdhaya, les saints seigneurs de l'ordre rituel, et j'offre avec sainteté aux différentes saisons, les seigneurs de l'ordre rituel.
+11\. Et j'offre une offrande complète et sacrée aux fêtes annuelles, les seigneurs de l'ordre rituel, à Maidhyô-zaremaya et Maidhyô-shema, à Paiti<i>s</i>hahya et à Ayâthrima l'engendreuse, celle qui dépense la force des mâles, et <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> à Maidhyâirya et Hamaspathmaêdhaya, les saints seigneurs de l'ordre rituel, et j'offre avec sainteté aux différentes saisons, les seigneurs de l'ordre rituel.
 
 12\. Et j'offre une offrande complète et sacrée à tous ces seigneurs qui sont les trente-trois, qui s'approchent le plus près de notre Hâvani, et qui sont les seigneurs d'Asha (la sous-éminence rituelle), de la Droiture qui est (la Meilleure), dont les observances sont inculquées comme préceptes par Mazda, et prononcées par Zarathu<i>s</i>tra.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 15\. Et j'offre avec une offrande complète et sacrée au Mãthra Spe<i>n</i>ta, le saint, l'efficace, révélé contre les Daêvas, la loi zarathustrienne, et à la longue descendance de la bonne Religion, de la foi mazdayasnienne.
 
-16\. Et j'offre une offrande complète et sacrée au Mont Ushi-darena, fait par Mazda, brillant <span id="p226">[<sup><small>p. 226</small></sup>]</span> de sainteté, et à toutes les montagnes resplendissantes de sainteté, d'une abondante splendeur, et que Mazda a faites, et à la gloire royale non consumée et faite par Mazda. Et j'offre une offrande complète et sacrée à Ashi Vanguhi, et à <i>K</i>isti Vanguhi, et à Erethe, et à Rasãstâ, et à la Gloire (et au) Bienfait que Mazda a faits.
+16\. Et j'offre une offrande complète et sacrée au Mont Ushi-darena, fait par Mazda, brillant <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> de sainteté, et à toutes les montagnes resplendissantes de sainteté, d'une abondante splendeur, et que Mazda a faites, et à la gloire royale non consumée et faite par Mazda. Et j'offre une offrande complète et sacrée à Ashi Vanguhi, et à <i>K</i>isti Vanguhi, et à Erethe, et à Rasãstâ, et à la Gloire (et au) Bienfait que Mazda a faits.
 
 17\. Et j'offre avec une offrande complète et sacrée au bon et pieux Prière pour les bénédictions de l'homme pieux, et à ce Yazad, la Malédiction rapide et redoutable du sage.
 
@@ -86,7 +86,7 @@ Et j'offre les billets de bois avec le parfum pour Ta propitiation, le Feu, le f
 
 26\. Nous sacrifions à l'Ahuna-vairya, à la parole véridique correctement prononcée, à la bonne et pieuse prière pour les bénédictions, à la terrible malédiction du sage, au Yazad, à Haurvatâ<i>t</i> et Ameretatâ<i>t</i>, à la chair du Vache du don béni, au Haoma et au jus de Haoma, aux billettes de bois et au parfum, pour la louange de la pieuse et bonne prière pour les bénédictions.
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 Le temple de Yennhe.
 

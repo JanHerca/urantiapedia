@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p374">[<sup><small>p. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 ## PA<i>T</i>ALA I, KHA<i>ND</i>A 1.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>Moi, 1, 1. athâto g<i>ri</i>hyakarmâ<i>n</i>y. 2. udagayanapûrvapakshapu<i>n</i>yâheshu prag âvartanâd anubha<i>h</i> kaloऽnâde<i>nâde<i>s</i>e. 3. ऽpavarge yathotsâha<i>m</i> brâhma<i>n</i>ân â<i>s</i>ayed. 4. ya<i>g</i><i>n</i>opavîta<i>m</i> sautra<i>m</i> kaus</i>am</i> vâ. 5. grîvâyâm pratimukya dakshinam bâhum uddhritya yagñopavîtî bhavati. 6. savya<i>m</i> pra<i>k</i>inâvîtî. 7. trir â<i>k</i>amyâpo dvi<i>h</i> parim<i>ri</i>gîta.</small>
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 8\. Après avoir aspergé ses pieds (d'eau), qu'il asperge sa tête.
 
@@ -76,7 +76,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>8\. pâdâv abhyukshya <i>s</i>iroऽbhyukshed. 9. indriyâ<i>n</i>y adbhi<i>h</i> sa<i>m</i>sp<i>ri</i><i>s</i>ed. 10. antata<i>h</i> pratyupasp<i>ri</i><i>s</i>ya <i>s</i>u<i>k</i>ir bhavaty. 11. âsanasthânasa<i>m</i>ve<i>s</i>anâny udagagreshu darbheshu prâṅmukhasya pratîyât pa<i>s</i><i>k</i>d agner yatra homa syât. 12. saha<i>s</i>irasa<i>m</i> snâna<i>s</i>abde. 13. dakshi<i>n</i>ena pâ<i>n</i>inâ k<i>ri</i>tyam anâde<i>s</i>e. 14. mantrântam avyak— ta<i>m</i> parasyâdigraha<i>n</i>ena vidyât. 15. svâhântâ mantra homeshu. 16. pâkaya<i>g</i><i>ñ</i>a ityâkhya ya<i>h</i> ka<i>s</i> <i>k</i>aikâgnau. 17. tatra <i>ri</i>tvig brahmâ sâyamprâtarhomavar<i>g</i>a<i>m</i>.</small>
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 18\. La place du Hot_ri_ est remplie par (le sacrificateur) lui-même.
 
@@ -143,7 +143,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <petit>12\. Il est temps pour nous de faire connaître notre amour à notre prochain. 13. adbhir unm<i>ri</i>gya Vish<i>n</i>or manasâ poute stha ity. 14. udagagre᤽ngush<i>th</i>âbhyâm anâmikâbhyâ<i>m</i> <i>k</i>a sa<i>g</i>g<i>hya trir â<i>g</i>yam utpunâti devas tvâ Savitotpunâtv a<i><i><i><i><i><i><i><i><i><i><i><i><i><i><i><i><i><i><i><i><i><i>a ryasya ra<i>s</i>mibhir ité. 15. abhyukshyâgnâv anuprahared. 16. â<i>g</i>yam adhi<i>s</i>rityottarata<i>h</i> kuryâd. 17. dakshi<i>n</i>a<i>g</i>ânvakto dakshi<i>n</i>enâgnim Adite᤽numanyasvety udakâ<i>ñ</i><i>g</i>ali<i>m</i> prasi<i>n</i><i>k</i>ed. 18. Anumate᤽numanyasveti pas<i>s</i><i>k</i>ât. 19. Sarasvate [sic, comp. Hira<i>n</i>yake<i>s</i>iG<i>ri</i>hya I, 1, 2, 9] <i>n</i>umanyasvety uttarata<i>h</i>.</small>
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 20\. Avec (les mots) « Dieu Sauveur ! Donne ton impulsion ! » (MB. I, 1, 1), il doit asperger (d'eau) autour du feu de manière à garder son côté droit tourné vers lui, entourant ce qu'il va offrir (avec l'eau).
 
@@ -172,7 +172,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>3, 1. le brahma<i>k</i>ârî vedam adhîtyopanyâh<i>ri</i>tya gurave'nu<i>g</i><i>ñ</i>âto darân kurvîtâ. 2. 'plavana<i>ñ</i> <i>k</i>a. 3. votre âplavana<i>m</i> est purva<i>m</i>.</small>
 
-<span id="p380">[<sup><small>p. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 4\. Cependant, comme dans le (recueil de) Mantras le mariage est traité (en premier), il est expliqué (ici) avant (le bain).
 
@@ -190,7 +190,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <petit>4\. mantrabhivâdât tu på<i>nigraha<i>n</i>asya (correctement, pâ<i>n</i>igraha<i>a<i>a<i>m</i>?) pwurva<i>m</i> vyâkhyâta<i>m</i>. 5. Les brâhmanes sahodakumbha prâvrito vâgyatoऽgrenâgnim gatvodaṅmukhas tishthet. 6. snâtâm ahatenâ<i>kh</i>âdya iya ak<i>ri</i>ntann ity ânîyamânâyâ<i>m</i> på<i>n</i>igrâho<i>g</i>apet Somo᤽dadad iti. 7. pour le dakshi<i>n</i>ata upave<i>s</i>ayed. 8. anvârabdhâyâ<i>m</i> sruve<i>n</i>opaghata<i>m</i> mahävyâh<i>ri</i>tibhir â<i>g</i>ya<i>m</i> <i>g</i>uhuyât. 9. samastâbhi<i>s</i> <i>k</i>aturthîm. 10. eva<i>m</i> <i>k</i>aulopanayanagodâneshv.</small>
 
-<span id="p381">[<sup><small>p. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 11\. Et au mariage (il fait des oblations) avec les six versets, « Qu'Agni aille comme le premier » (MB. I, I, 9 seqq.).
 
@@ -214,7 +214,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>11. Agnir etu prathama iti sha<i>d</i>bhi<i>s</i> <i>k</i>a pâ<i>n</i>igraha<i>n</i>e. 12. nâ<i>g</i>yabhâgau na svish<i>t</i>ak<i>ri</i> â<i>g</i>yâhutishv anâde<i>s</i>e. 13. sarvatroparish<i>t</i>ân mahâvyâh<i>ri</i>tibhi<i>h</i>. 14. prâ<i>g</i>âpatyayâ <i>k</i>a. 15. prâya<i>s</i>k</i>itta<i>m</i>g</i>uhuyâd. 16. dhutvopottish<i>th</i>ato. 17. ऽnup<i>ri</i>sh<i>th</i>a<i>m</i> gatvâ dakshi<i>n</i>atoऽvasthâya vadhva<i>ñ</i><i>g</i>ali<i>m</i> g<i>ri</i>h<i>n</i>îyât. 18. pûrvâ mâtâ <i>s</i>amîpalâ<i>s</i>ami<i>s</i>rân (var. lect. °mi<i>s</i>râl) lâ<i>g</i>â<i>ñ</i> <i>kh</i>ûrpe k<i>ri</i>tvâ. 19. pa<i>s</i><i>k</i>âd agner d<i>ri</i>shatputram âkramayed vadhû<i>m</i> dakshi<i>n</i> ena prapadenemam a<i>s</i>mânam iti. 20. sak<i>ri</i>dg<i>ri</i>hîtam a<i>ñ</i><i>g</i>ali<i>m</i> lâ<i>g</i>ânâ<i>m</i> vadhva<i>ñ</i><i>g</i>alâv âvaped bhrâtâ.</small>
 
-<span id="p382">[<sup><small>p. 382</small></sup>]</span> avec des céréales frites, il faut les verser dans les mains jointes de la mariée.
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span> avec des céréales frites, il faut les verser dans les mains jointes de la mariée.
 
 21\. [^995]. Ou un ami (au lieu du frère).
 
@@ -232,7 +232,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <petit>21\. suh<i>ri</i>d va ka<i>s</i><i>k</i>it. 22. ta<i>m</i> sâgnau <i>g</i>uhuyâd avi<i>kh</i>idyâ<i>ñ</i><i>g</i>alim iya<i>m</i> nârîty. 23. Aryama<i>n</i>a<i>m</i> Pûsha<i>n</i>am ity uttarayor. 24. hute tenaiva gatvâ pradakshi<i>n</i>am agni<i>m</i> pari<i>n</i>ayet kanyalâ pit<i>ri</i>bhya ity. 25. avasthânaprabh<i>ri</i>ty eva<i>m</i> tri<i>s</i>. 26. <i>s</i>ûrpe<i>n</i>a <i>s</i>ish<i>t</i>ân agnâv opya prâgudî<i>k</i>îm utkramayed ekam isha itî. 27. ऽkshakâveksha<i>n</i>arathâroha<i>n</i>adurgânumantra<i>n</i>âny abhirûpâbhir.</small>
 
-<span id="p383">[<sup><small>p. 383</small></sup>]</span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 28\. En avançant derrière le feu, le porteur d'eau (voir Sûtra 5) doit asperger le front du marié.
 
@@ -258,7 +258,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>4, 1. prâgudî<i>k</i>îm udvahed. 2. brâhma<i>n</i>akuleऽgnim upasamâdhâya pa<i>s</i><i>k</i>âd agner lohita<i>m</i> <i>k</i>armâna<i>d</i>uham uttaraloma prâggrîvam âstîrya vâgyatâm upave<i>s</i>ayet. 3. prokte nakshatreऽnvârabdhâyâ<i>m</i> sruve<i>n</i>opaghâta<i>m</i> <i>g</i>uhuyât sha<i>d</i>bhir lekhâprabh<i>ri</i>tibhi<i>h</i> sampâtân avanayan mûrdhani vadhvâ<i>h</i>.</small>
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 4\. Après avoir fait le tour du feu de manière à ce que leurs côtés droits soient tournés vers lui, il lui montre l'étoile polaire (littéralement, la ferme), avec le verset : « Ferme est le ciel » (ll 7).
 
@@ -280,7 +280,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>4\. pradakshi<i>n</i>am agni<i>m</i> parikramya dhruva<i>m</i> dar<i>s</i>ayati dhruvâ dyaur ité. 5. abhivâdya gurûn (guru<i>m</i>, Gobhila) gotre<i>n</i>a vis<i>ri</i><i>g</i>ed vâ<i>k</i>a<i>m</i>. 6. gaur dakshi<i>n</i>â. 7. ऽtrârghyam. 8. âgateshv ité eke. 9. trirâtra<i>m</i> kshâralava<i>n</i>e dugdharn iti var<i>g</i>ayantau (var<i>g</i>ayânau le MSS.) saha <i>s</i>ayîyâtâ<i>m</i> (<i>s</i>ayyâtâ<i>m</i>, <i>s</i>aryyatâ<i>m</i> le MSS.) brahma<i>k</i>âri<i>n</i>au. 10. havishyam annam pari<i>g</i>apyânnapâ<i>s</i>enety asâv iti vadhvâ nâma brûyâd. 11. hutvo<i>k</i>kh</i>ish<i>t</i>a<i>m</i> (bhuktv°?) vadhvai dadyâd. 12. ûrdhva<i>m</i> trirâtrâ<i>k</i> <i>k</i>atas<i>ri</i>bhir â<i>g</i>ya<i>m</i> <i>g</i>uhuyâd Agne prâya<i>s</i>kittir iti samasya pa<i>ñ</i><i>k</i>amî<i>m</i> sampâtân avanayann udapâtre.</small>
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span> versets, « Agni, tu es l'expiation » (MB. I, 4, I seqq.). Une cinquième (oblation) combinant (les noms des quatre dieux invoqués dans ces versets). Les restes (d'Â<i>n</i>ya) il devrait les verser dans un pot d'eau.
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span> versets, « Agni, tu es l'expiation » (MB. I, 4, I seqq.). Une cinquième (oblation) combinant (les noms des quatre dieux invoqués dans ces versets). Les restes (d'Â<i>n</i>ya) il devrait les verser dans un pot d'eau.
 
 13\. Avec cela (Â<i>g</i>ya), il devrait la laver, y compris ses cheveux et ses ongles.
 
@@ -308,7 +308,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>5, 1. Yasmin est en colère contre son mari et sa femme. 2. Yasmin et Samidham Adadhyan. 3. Il n’est pas facile d’être abasourdi. 4. Je vais dormir. 5. Je vais t'emmener à l'hôpital et je t'emmènerai chez le médecin.
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 6\. Le service (à ce feu domestique sacré) commence par une oblation du soir.
 
@@ -336,7 +336,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>6\. sâyamâhutyupakrama<i>m</i> pari<i>k</i>ara<i>n</i>a<i>m</i>. 7. prâg astamayodayâbhyâ<i>m</i> prâdushk<i>ri</i>tyâ. 8. ऽstam ite homa. 9. udite <i>k</i>ânudite vâ. 10. havishyasyânnasyâk<i>ri</i>ta<i>m</i> <i>k</i>et prakshâlya <i>g</i>uhuyât pâ<i>n</i>inâ. 11. dadhi <i>k</i>et payo vâ ka<i>m</i>sena. 12. <i>k</i>arusthâlyâ vâ. 13. ऽgnaye svâheti madhye. 14. tûsh<i>n</i>î<i>m</i> prâgudî<i>k</i>îm uttarâ<i>m</i>. 15. Sûryâyeti prâta<i>h</i> pûrvâ<i>m</i>. 16. nâtra parisamûhanâdîni paryuksha<i>n</i>avar<i>g</i>a<i>m</i>. 17. patnî <i>g</i>uhuyâd ity eke g<i>ri</i>hâ<i>h</i> patnî g<i>ri</i>hyoऽgnir esha iti.</small>
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 18\. Quand (le repas) est prêt, le soir et le matin, (la femme) doit dire : « C'est prêt ! » et (le mari) à haute voix : « Om ! »
 
@@ -366,7 +366,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>18\. siddhe sâyamprâtar bhûtam ity ukta om ity u<i>k</i><i>k</i>air brûyât. 19. ma kshâ namas ta ity upâ<i>m</i><i>s</i>u. 20. havishyasyânnasya <i>g</i>uhuyât prâ<i>g</i>âpatya<i>m</i> sauvish<i>t</i>ak<i>ri</i>ta<i>m</i> <i>k</i>a. 21. bali<i>m</i> nayed. 22. bahir antar vâ <i>k</i>atur nidhâya. 23. ma<i>n</i>ikade<i>s</i>e. 24. madhye dvâri. 25. <i>s</i>ayyâm anu. 26. var<i>k</i>a<i>m</i> [sic] vâ. 27. ऽtha sastûpam. 28. ekaikam ubhayata<i>h</i> paroisse<i>ñ</i><i>k</i>e<i>k</i>. 29. <i>kh</i>esham adbhis sârdha<i>m</i> dakshi<i>n</i>â ninayet. 30. phalîkara<i>n</i>ânâm apâm â<i>k</i>âmasveti (lire, â<i>k</i>âmasyeti) vi<i>s</i>râ<i>n</i>ite.</small>
 
-<span id="p388">[<sup><small>p. 388</small></sup>]</span>
+<span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 
 31\. Les dieux auxquels appartiennent les offrandes de Bali sont la Terre, Vâyu, Pra<i>k</i>âpati, les devâs Vi<i>k</i>ve, les Eaux, les Herbes et les Arbres, l'Éther, Kama ou Manyu, les armées des Rakshas, ​​les Pères, Rudra.
 

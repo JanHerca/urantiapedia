@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 VINGTIÈME CONFÉRENCE. LE GRAND DEVOIR DES NIRGRANTHAS.
 
@@ -48,7 +48,7 @@ Lorsque le roi vit sa silhouette, son étonnement devant la silhouette de cet as
 
 « Ô sa couleur, ô sa silhouette, ô la beauté de l'homme noble, ô sa tranquillité, ô sa perfection, ô son mépris des plaisirs ! » (6)
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Adorant ses pieds et le gardant sur son côté droit (il s'assit), ni trop loin ni trop près, et lui demanda les mains jointes : (7)
 
@@ -78,7 +78,7 @@ Lorsque le saint eut adressé ce discours inouï au roi, qui fut très ému et �
 
 « Mes yeux me faisaient mal comme si un ennemi cruel enfonçait un outil tranchant dans le creux de mon corps. (20)
 
-« Dans le dos, le cœur [^269] et la tête, j'ai souffert <span id="p103">[<sup><small>p. 103</small></sup>]</span> de douleurs atroces et très vives, égales à un coup de foudre. (21)
+« Dans le dos, le cœur [^269] et la tête, j'ai souffert <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> de douleurs atroces et très vives, égales à un coup de foudre. (21)
 
 « Alors les meilleurs médecins vinrent à mon secours, qui guérissent par leur art médical et par des sortilèges, qui étaient versés dans leur science et connaissaient bien les sortilèges et les racines. (22)
 
@@ -100,7 +100,7 @@ Lorsque le saint eut adressé ce discours inouï au roi, qui fut très ému et �
 
 « Alors j’ai dit : Il est très difficile de supporter les douleurs encore et encore dans le Cercle sans fin des Naissances. (31)
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 « Si, pour une fois, je me débarrassais de ces grandes douleurs, je deviendrais un moine sans abri, calme, retenu et cessant d'agir. (32)
 
@@ -118,7 +118,7 @@ Lorsque le saint eut adressé ce discours inouï au roi, qui fut très ému et �
 
 « Si un moine ordonné, par négligence, ne garde pas strictement les grands vœux, s'il ne se retient pas, mais désire le plaisir, alors ses chaînes ne seront pas complètement coupées. (39)
 
-« Celui qui ne prête pas une attention constante à sa marche, à sa parole, à sa mendicité, à sa réception et à sa conservation (des choses nécessaires à un moine), et à sa <span id="p105">[<sup><small>p. 105</small></sup>]</span> nature aisée [^274], ne suit pas le chemin parcouru par le Seigneur. (40)
+« Celui qui ne prête pas une attention constante à sa marche, à sa parole, à sa mendicité, à sa réception et à sa conservation (des choses nécessaires à un moine), et à sa <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> nature aisée [^274], ne suit pas le chemin parcouru par le Seigneur. (40)
 
 « Celui qui porte pendant longtemps une couronne rasée et se mortifie, mais qui néglige ses vœux et néglige la pénitence et la maîtrise de soi, ne sera pas un vainqueur dans la bataille (de la vie). » (4t)
 
@@ -130,7 +130,7 @@ Lorsque le saint eut adressé ce discours inouï au roi, qui fut très ému et �
 
 « Celui qui pratique la divination à partir de marques corporelles et de rêves, qui est versé dans les augures et les rites superstitieux, qui gagne sa vie dans le péché en pratiquant des tours de magie [^278], n'aura aucun refuge au moment (du châtiment). » (45)
 
-« Le pécheur, toujours misérable, passe des ténèbres <span id="p106">[<sup><small>p. 106</small></sup>]</span> aux ténèbres, à la misère la plus totale ; l'homme impie qui enfreint les règles des moines se précipite, pour ainsi dire, en enfer, et renaît comme une brute. (46)
+« Le pécheur, toujours misérable, passe des ténèbres <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> aux ténèbres, à la misère la plus totale ; l'homme impie qui enfreint les règles des moines se précipite, pour ainsi dire, en enfer, et renaît comme une brute. (46)
 
 « Celui qui accepte une aumône défendue, c'est-à-dire une nourriture qu'il demande lui-même, qu'on lui a achetée ou qu'il reçoit régulièrement (comme par droit et coutume), qui dévore tout comme le feu, ira d'ici en enfer, après avoir péché. (47)
 
@@ -146,7 +146,7 @@ Lorsque le saint eut adressé ce discours inouï au roi, qui fut très ému et �
 
 Ainsi, l'austère et le calme, le grand ascète et le grand sage qui gardait de grands vœux et possédait une grande renommée, prêcha longuement ce grand sermon : le grand devoir des Nirgranthas. (53)
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 Et le roi Srênika, satisfait, parla ainsi : « Vous avez vraiment montré ce que c'est que d'être sans protection. (54)
 

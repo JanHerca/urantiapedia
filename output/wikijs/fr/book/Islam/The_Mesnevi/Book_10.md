@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p212">[<sup><small>p. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 ## X. Patience et persévérance sous la direction d'un enseignant.
 
@@ -59,7 +59,7 @@ Surtout le vin de la vérité, qui coule du haut trône de Dieu.
 Choisissez donc un enseignant, sans lequel le voyage est vain ;
 <sup id="v10"><small>10</small></sup> Le chemin est dangereux, encerclé par le cortège du mal.
 
-<span id="p213">[<sup><small>p. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 Par une route bien connue, bien que déjà parcourue plusieurs fois,
 Sans guide pour s'aventurer, la porte du péril s'ouvre.
@@ -91,7 +91,7 @@ Car celui qui ne s'y oppose pas, court à sa perte.
 Ne te prête pas à la convoitise et à la fantaisie à tous les vents ;
 Car ce sont là les choses qui égarent les hommes, qui les rendent aveugles à la vérité de Dieu.
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 Il n'y a rien au monde qui freine mieux les convoitises,
 <sup id="v25"><small>25</small></sup> Que la sainte compagnie. Protégé, celui qui a confiance.
@@ -125,7 +125,7 @@ De peur que ton guide ne se retourne et ne te chasse de cet endroit.[^326]
 S'il détruisait un navire,[^327] aucun murmure ne sortirait de ta bouche ;
 S'il s'étouffe,[^328]—ne laissez échapper aucun mot grossier.
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 Dieu a déclaré que sa main est comme la main de Dieu,
 <sup id="v40"><small>40</small></sup> En disant : « La main droite de Dieu, au-dessus de toutes les mains, avance péniblement. »[^329]
@@ -163,7 +163,7 @@ Notre homme répondit : « Entre mes omoplates il trône. »
 L’artiste commença alors à tordre la traîne de ses aiguilles ;
 <sup id="v55"><small>55</small></sup> Le tyran Qazwīn hurla, brûlant de douleur.
 
-<span id="p216">[<sup><small>p. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 Il s'adressa à l'artiste : « Homme très habile et compétent,
 Tu vas me rendre fou. Quelle image me fait si mal ?
@@ -197,7 +197,7 @@ En colère disant : « Quelle peste est venue maintenant à la naissance ?
 Un lion sans queue, sans tête, sans corps, qui a vu ?
 Dieu, un tel lion n'a jamais été créé, bien sûr, je pense !
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Sois patient, toi aussi, frère, avec la piqûre de ton aiguille.
 <sup id="v70"><small>70</small></sup> Ainsi tu échapperas à l’aiguillon de la conscience dans ton cœur.

@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 CHAPITRE IV., Verset 3. — Mariez celles des femmes qui vous semblent bonnes, par deux, par trois ou par quatre ; et si vous craignez de ne pouvoir être équitables, alors une seule, ou ce que votre main droite possède. (\*) [^0] Cela vous garde plus près de ne pas être partial.
 
@@ -44,7 +44,7 @@ Et s'ils veulent les divorcer, certes, Dieu entend et sait.
 
 Le divorce peut se produire deux fois, alors maintenez-les dans la modération ou laissez-les partir avec bienveillance. Il ne vous est pas permis de prendre d'elles quoi que ce soit de ce que vous leur avez donné, à moins que tous deux ne craignent de ne pas pouvoir respecter les limites fixées par Dieu.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 (230).—Mais s'il la répudie (une troisième fois), elle ne lui sera plus licite jusqu'à ce qu'elle se marie à un autre mari ; mais s'il la répudie aussi, ils ne commettent aucun crime s'ils se réunissent de nouveau, s'ils pensent pouvoir respecter les limites fixées par Dieu, telles sont les limites fixées par Dieu qu'Il explique aux gens qui savent.
 
@@ -60,7 +60,7 @@ Chapitre IV., Verset 24.—Mais si vous voulez échanger une femme contre une au
 
 Chapitre XXXIII., Verset 46. — Ô vous qui croyez !
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 Lorsque vous épousez des femmes croyantes, et que vous les répudiez avant de les avoir touchées, vous n'avez aucun délai à respecter : faites-leur donc une provision, et laissez-les aller en toute liberté.
 

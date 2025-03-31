@@ -38,7 +38,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 **T**. VII. 2. Celui qui voit l'idolâtrie dit : Béni soit celui qui est lent à la colère. \[Celui qui voit\] un lieu d'où l'idolâtrie a été déracinée dit : Béni soit celui qui a déraciné l'idolâtrie de notre pays ! Qu'il soit agréable à tes yeux, ô Éternel, notre Dieu, que l'idolâtrie soit déracinée de notre pays et de tous les lieux d'Israël, et que tu ramènes le cœur de ceux qui adorent les idoles à ton adoration.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 **T**.
 
@@ -48,7 +48,7 @@ Ben Zoma vit des armées dans l'enceinte du Temple. Il dit : Béni soit Celui qu
 
 Et Ben Zoma disait : « Que dit un bon hôte ? Souvenez-vous bien de l'hôte ! Que de vins variés nous a-t-il apportés ! Que de mets variés nous a-t-il apportés ! Que de pains fins nous a-t-il apportés ! Tout ce qu'il a fait, il l'a fait uniquement pour moi. Mais que dit un mauvais hôte ? Eh bien, qu'ai-je mangé de lui ? J'ai mangé un morceau de pain ; j'ai mangé une portion de viande ; j'ai bu une coupe ; tout ce qu'il a fait, il l'a fait uniquement pour sa femme et ses enfants. C'est pourquoi il est dit : « Souviens-toi de magnifier son œuvre, que les hommes ont chantée. » [^453]
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 <a id="m2"></a>
 
@@ -66,7 +66,7 @@ _M_. IX. 2. Aux [^454] étoiles filantes, [^455] aux tremblements de terre, aux 
 
 6\. Si quelqu'un marche dans un cimetière, il dit : « Béni soit celui qui vous connaît tous ; il vous jugera, il vous ressuscitera ; Béni soit celui qui est fidèle dans sa parole, et qui ressuscite les morts. »
 
-Celui qui voit le soleil, la lune, les étoiles et les planètes dit : « Béni soit Celui qui a créé les choses. » R. Judah dit : <span id="p78">[<sup><small>p. 78</small></sup>]</span> Celui qui dit une bénédiction sur le soleil, voilà une autre voie. [^467] Et ainsi R. Judah disait : « Celui qui voit continuellement la mer et tout changement qui s’y produit, doit dire une bénédiction. » [^468]
+Celui qui voit le soleil, la lune, les étoiles et les planètes dit : « Béni soit Celui qui a créé les choses. » R. Judah dit : <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> Celui qui dit une bénédiction sur le soleil, voilà une autre voie. [^467] Et ainsi R. Judah disait : « Celui qui voit continuellement la mer et tout changement qui s’y produit, doit dire une bénédiction. » [^468]
 
 <a id="m3"></a>
 
@@ -82,13 +82,13 @@ Celui qui voit le soleil, la lune, les étoiles et les planètes dit : « Béni 
 
 5\. (3 _suite_.). Comment cela ? Si sa femme est enceinte et qu'il dit : « Que ta volonté soit que ma femme enfante un garçon ! » — voilà, c'est une prière vaine. [^473] Ou s'il est en voyage et entend des cris en ville et dit : « Que ta volonté soit que ces gens ne soient pas dans ma maison ! » — voilà, c'est une prière vaine. [^474]
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 **T**.
 
 T. VII. 7. R. Meir avait l'habitude de dire : Voici, il est dit : « _Et tu aimeras le Seigneur ton Dieu de tout ton cœur_ », [^475] etc. — avec tes deux natures, avec ta bonne nature et avec ta mauvaise nature. « _De toute ton âme_ », — même lorsqu'Il te retire ton âme. Une autre explication est : « De toute ton âme », avec [^476] l'âme qu'Il a créée en toi, car il est dit : « _Laisse mon âme vivre, et elle te louera_. » [^477] Et il est dit : « _Tous mes os diront : Seigneur, qui est comme toi ?_ » [^478] Ben Azzai dit : « De toute ton âme », — Donne ton âme à Ses commandements. Il y a des paroles qui sont des prières insensées. [^479] Comment cela ? Un homme ramasse cent kors, [^480] et dit : « Que ce soit ton bon plaisir qu'ils soient deux cents. » Un homme ramasse cent fioles, [^481] et dit : « Que ce soit ton bon plaisir qu'ils soient deux cents. » Voici, c'est une prière vaine. Mais il devrait prier pour qu'une bénédiction soit recueillie avec eux, et non une malédiction.
 
-8\. R. Dosethai bar Jannai, [^482] dit au nom de R. Meir : Voici, il dit dans \[le passage concernant\] Isaac : [^483] « _Et je te bénirai et je multiplierai ta postérité_. » [^484] Isaac expliqua les mots et dit : Voyant qu'aucune bénédiction ne repose sur quelqu'un si ce n'est par le travail de ses mains, il se leva et sema. [^485] Car <span id="p80">[<sup><small>p. 80</small></sup>]</span> il est dit : « _Et Isaac sema dans ce pays, et trouva cette année-là cent mesures_ », etc., et cent quantités. [^486] Cent mesures, car ils les ont mesurées cent fois, pour chacune il y avait cent dans ce qu'ils ont mesuré. [^487]
+8\. R. Dosethai bar Jannai, [^482] dit au nom de R. Meir : Voici, il dit dans \[le passage concernant\] Isaac : [^483] « _Et je te bénirai et je multiplierai ta postérité_. » [^484] Isaac expliqua les mots et dit : Voyant qu'aucune bénédiction ne repose sur quelqu'un si ce n'est par le travail de ses mains, il se leva et sema. [^485] Car <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> il est dit : « _Et Isaac sema dans ce pays, et trouva cette année-là cent mesures_ », etc., et cent quantités. [^486] Cent mesures, car ils les ont mesurées cent fois, pour chacune il y avait cent dans ce qu'ils ont mesuré. [^487]
 
 9\. Celui qui accomplit un commandement doit dire une bénédiction. Celui qui se fait une soucca [^488] dit : « Béni soit Celui qui nous a permis d'atteindre ce temps. » [^489] Lorsqu'il entre pour y habiter, il dit : « Béni soit Celui qui nous a sanctifiés par ses commandements et nous a ordonné d'habiter une soucca. » Et après avoir dit la bénédiction sur la soucca le premier jour, il n'a pas besoin de la répéter.
 
@@ -96,7 +96,7 @@ T. VII. 7. R. Meir avait l'habitude de dire : Voici, il est dit : « _Et tu aime
 
 Celui qui se fait _Tsitsith_ [^491] dit : « Béni soit Celui qui nous a amenés à ce temps », quand il s'enveloppe (du châle sur lequel ils sont) il dit : « s'envelopper dans Tsitsith. »
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 **T**.
 
@@ -122,19 +122,19 @@ Et ceux qui se tiennent là disent : « Comme tu l’as fait entrer dans l’all
 
 ## Sur la prière à l’entrée et à la sortie d’une ville.
 
-**M**.IX. 6 (4). Celui qui entre dans une ville fait deux prières : une à l’entrée et une à la sortie. [4](Berakoth_3_9#fn_502) Ben Azzai [^503] dit : Quatre, deux à l’entrée et deux à la sortie. Et l’une loue <span id="p83">[<sup><small>p. 83</small></sup>]</span> ce qui est passé et appelle à l’avenir. [^504]
+**M**.IX. 6 (4). Celui qui entre dans une ville fait deux prières : une à l’entrée et une à la sortie. [4](Berakoth_3_9#fn_502) Ben Azzai [^503] dit : Quatre, deux à l’entrée et deux à la sortie. Et l’une loue <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> ce qui est passé et appelle à l’avenir. [^504]
 
 **T**.
 
 **T**. VII. 16. Celui qui entre dans une ville prie deux prières, une à l'entrée et une à la sortie. Ben Azzaï dit : Quatre ; deux à l'entrée et deux à la sortie. Que dit-il à son entrée ? « Qu'il te plaise, ô Éternel notre Dieu, que tu me fasses entrer en paix dans cette ville. » S'il est entré en paix, il dit : « Je reconnais [^505] devant toi que tu m'as fait entrer en paix. Qu'il te plaise, ô Éternel mon Dieu, que tu me fasses sortir de cette ville en paix. » S'il est sorti en paix, il dit : « Je reconnais devant toi, ô Éternel mon Dieu, que tu m'as fait sortir de cette ville en paix, et de même que tu m'as fait sortir en paix, de même puisses-tu me faire marcher en paix et me soutenir en paix jusqu'à ce que j'atteigne ma demeure en paix. »
 
-17\. Celui qui entre dans un bain public [^506] fait deux prières, une à l'entrée et une à la sortie. En entrant, il dit : « Que tu trouves agréable, Éternel mon Dieu, de me faire entrer et de me faire sortir en paix, et qu'aucun malheur ne m'arrive ; et s'il m'arrive quelque malheur, que ma mort soit <span id="p84">[<sup><small>p. 84</small></sup>]</span> l'expiation [^508] de toutes mes iniquités, et que tu me délivres de cette iniquité et de toutes celles qui me seront semblables dans l'avenir. » [^509] S'il est sorti en paix, il dit : « Je reconnais devant toi, ô Éternel mon Dieu, que tu m'as fait sortir en paix. Ainsi, qu'il te plaise, [^510] ô Éternel mon Dieu, que je revienne en paix chez moi. »
+17\. Celui qui entre dans un bain public [^506] fait deux prières, une à l'entrée et une à la sortie. En entrant, il dit : « Que tu trouves agréable, Éternel mon Dieu, de me faire entrer et de me faire sortir en paix, et qu'aucun malheur ne m'arrive ; et s'il m'arrive quelque malheur, que ma mort soit <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> l'expiation [^508] de toutes mes iniquités, et que tu me délivres de cette iniquité et de toutes celles qui me seront semblables dans l'avenir. » [^509] S'il est sorti en paix, il dit : « Je reconnais devant toi, ô Éternel mon Dieu, que tu m'as fait sortir en paix. Ainsi, qu'il te plaise, [^510] ô Éternel mon Dieu, que je revienne en paix chez moi. »
 
 18\. R. Judah dit : Il y a trois bénédictions que l'on doit dire chaque jour : « Béni soit Celui qui ne m'a pas fait un Gentil » ; « Béni soit Celui qui ne m'a pas fait une femme » ; « Béni soit Celui qui ne m'a pas fait un homme sans instruction. » [^511] Béni soit Celui qui ne m'a pas fait un Gentil — « Toutes les nations (les Gentils) ne sont rien devant Lui. » [^512] Béni soit Celui qui ne m'a pas fait une femme — car une femme n'est pas tenue d'observer les commandements. [^513] Béni soit Celui qui ne m'a pas fait une personne sans instruction — car aucune personne sans instruction ne craint le péché. [^514]
 
 On dit en paraboles : « À quoi ressemble le mal ? À un roi de chair et de sang qui dit à son serviteur de lui faire cuire du bouillon, alors qu'il ne lui en avait jamais fait cuire de sa vie. » Il brûla le bouillon et irrita son maître. « Il lui dit de lui faire un pli à sa chemise, alors qu'il ne lui en avait jamais fait de sa vie. »
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Le résultat fut qu'il salit la chemise et _T_. provoqua son maître. [^515]
 
@@ -150,7 +150,7 @@ Le résultat fut qu'il salit la chemise et _T_. provoqua son maître. [^515]
 
 8_a_ (5_b_). Un homme ne doit pas se comporter de manière irrespectueuse devant la porte orientale, [^520] car elle est située en face du Très Saint Sanctuaire. Il ne doit pas entrer dans l'enceinte du Temple avec son bâton et son
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 **M**.chaussures, [1](Berakoth_3_9#fn_521) et avec sa bourse, et avec la poussière sur ses pieds. [2](Berakoth_3_9#fn_522) Il ne devrait pas non plus prendre de raccourci, [3](Berakoth_3_9#fn_523) et encore moins cracher là. Que dire du port de chaussures ? Car c'est une question de respect ; il est interdit d'entrer avec. Et cracher ? Car cela relève du mépris. C'est la règle. [4](Berakoth_3_9#fn_524)
 
@@ -162,13 +162,13 @@ Le résultat fut qu'il salit la chemise et _T_. provoqua son maître. [^515]
 
 ## Les mots de clôture des bénédictions.
 
-**M**.IX. 8_b_ (5_c_). Tous les « sceaux » [^529] des bénédictions qui se trouvaient dans le Temple étaient \[_c'est-à-dire fermés <span id="p87">[<sup><small>p. 87</small></sup>]</span> avec\] « depuis toujours ». [^530] (Mais) à partir du moment où les hérétiques [^531] gâchèrent les choses et dirent : « Il n'y a de monde qu'un seul », ils ordonnèrent que les \[hommes\] disent : « de toujours à toujours ». [^532]
+**M**.IX. 8_b_ (5_c_). Tous les « sceaux » [^529] des bénédictions qui se trouvaient dans le Temple étaient \[_c'est-à-dire fermés <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> avec\] « depuis toujours ». [^530] (Mais) à partir du moment où les hérétiques [^531] gâchèrent les choses et dirent : « Il n'y a de monde qu'un seul », ils ordonnèrent que les \[hommes\] disent : « de toujours à toujours ». [^532]
 
 **T**. VII. 21. Tous les « sceaux » des bénédictions prononcées au Temple étaient « pour l'éternité ». Depuis que les hérétiques ont gâché les choses et ont dit : « Il n'y a de monde qu'un seul », ils ont ordonné que les hommes disent : « de l'éternité et pour l'éternité », et reconnaissent ainsi que ce monde, comparé au monde à venir, n'est que comme le vestibule devant la salle à manger. [^533]
 
 22\. Ils ne répondirent pas « Amen » dans le Temple. Et d'où savons-nous qu'ils ne répondirent pas « Amen » dans le Temple ? Car il est dit : « Lève-toi et bénis l'Éternel, ton Dieu, d'éternité en éternité » ; [^534] et il est dit ensuite : « Et qu'ils bénissent ton nom glorieux, qui est élevé au-dessus de toute bénédiction et de toute louange », au-dessus de toute bénédiction et de toute louange. [^535]
 
-20\. Celui qui ouvre \[sa Bénédiction\] avec Yôd, Hê, [^536] et ferme [^537] avec Yôd, Hê — voici, c'est un homme sage, \[Celui qui ouvre\] avec l'Aleph mais <span id="p88">[<sup><small>p. 88</small></sup>]</span> non avec Daleth, [^538] et ferme avec Yôd, Hê — voici, c'est un homme moyen. \[Celui qui ouvre\] avec Yôd, Hê, et ferme avec Aleph mais non avec Daleth — voici, c'est un homme sans instruction. \[Celui qui ouvre\] avec Aleph mais non avec Daleth, et ferme avec Aleph mais non avec Daleth — voici, c'est une autre Voie \[tout à fait\]. [^539]
+20\. Celui qui ouvre \[sa Bénédiction\] avec Yôd, Hê, [^536] et ferme [^537] avec Yôd, Hê — voici, c'est un homme sage, \[Celui qui ouvre\] avec l'Aleph mais <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> non avec Daleth, [^538] et ferme avec Yôd, Hê — voici, c'est un homme moyen. \[Celui qui ouvre\] avec Yôd, Hê, et ferme avec Aleph mais non avec Daleth — voici, c'est un homme sans instruction. \[Celui qui ouvre\] avec Aleph mais non avec Daleth, et ferme avec Aleph mais non avec Daleth — voici, c'est une autre Voie \[tout à fait\]. [^539]
 
 <a id="m8c"></a>
 
@@ -176,7 +176,7 @@ Le résultat fut qu'il salit la chemise et _T_. provoqua son maître. [^515]
 
 **M**.IX. 8_c_ (5_d_). Et ils ordonnèrent qu'un homme salue son compagnon au Nom. [^540] Car il est dit : « _Et voici, Boaz revint de Bethléem, et dit aux moissonneurs : Que l'Éternel soit avec vous ! Et ils lui dirent : Que l'Éternel te bénisse ! » [^541] Et il est dit : « _Que l'Éternel soit avec toi, homme vaillant ! » [^542] Et il est dit : « _Ne méprise pas ta mère quand elle sera vieille ! » [^543]° Et il est dit : « _Il est temps de travailler pour l'Éternel ; ils ont annulé ta loi ! » [^544] R. Nathan dit : Ils transgressent ta loi, au moment où ils travaillent pour l'Éternel. [^545]
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 **T**.
 

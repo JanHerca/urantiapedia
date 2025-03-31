@@ -104,7 +104,7 @@ Sur celui qui viole l'ancienne loi. [^892]
 Observez le juste milieu où se trouve la justice,
 Et épargnez-lui la vie, mais châtiez-le quand même.
 
-<span id="p423">[<sup><small>p. 423</small></sup>]</span>
+<span id="p423"><sup><small>[ p. 423 ]</small></sup></span>
 
 Alors la fureur du tyran éclata,
 Et ainsi, avec des paroles de colère, il parla :
@@ -201,7 +201,7 @@ Et j'ai regardé chaque rue, chaque place et chaque route,
 Toujours entouré d'une flamme inoffensive,
 Un soleil enguirlandé de rayons.
 
-<span id="p424">[<sup><small>p. 424</small></sup>]</span>
+<span id="p424"><sup><small>[ p. 424 ]</small></sup></span>
 
 
 
@@ -314,7 +314,7 @@ Alors la reine se mit à la recherche de la reine dans une hâte joyeuse,
 Avec des mots d'espoir, elle consola son cœur,
 Et le prépara à partir.
 
-<span id="p425">[<sup><small>p. 425</small></sup>]</span>
+<span id="p425"><sup><small>[ p. 425 ]</small></sup></span>
 
 Il a scellé la glorieuse pente raide d'Arishta
 Dont les sommets s'étendaient sur les profondeurs.
@@ -408,7 +408,7 @@ Pour la valeur, la puissance et la force combinées,
 Nos espoirs, nos vies et tout ce que nous devons.
 Ô cœur fidèle éprouvé dans les périls,
 
-<span id="p426">[<sup><small>p. 426</small></sup>]</span>
+<span id="p426"><sup><small>[ p. 426 ]</small></sup></span>
 
 Que ni le travail ni la peur ne pourraient détourner,
 La dame restaurera ton acte,

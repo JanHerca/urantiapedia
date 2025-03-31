@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:26Z
   </table>
 </figure>
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 ## LIVRE I.
 
@@ -62,7 +62,7 @@ Par. 1. Nan-kwo Dze-khî en transe et son disciple. Les notes du ciel, de la ter
 
 10\. La pénombre et l'ombre. Le rêve de Kwang-dze où il était un papillon.
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 ## LIVRE III.
 
@@ -100,7 +100,7 @@ Par. 1. Confucius explique l’influence de l’infirme Wang Thâi sur le peuple
 
 5\. Les favoris déformés du duc Ling de Wei et du duc Hwan de Khî. Dispute entre Kwang-dze et Hui-dze, issue du récit que le premier en fait.
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 ## LIVRE VI.
 
@@ -166,7 +166,7 @@ Par. 4. La perte et la récupération par Yâo de sa perle de couleur sombre : l
 
 7\. Yü et Po-khang Dze-kâo. Ce dernier justifie son renoncement à la dignité et son choix de se consacrer à l'agriculture.
 
-9\. Confucius et Lâo-dze ; — sur l'attitude envers le Tâo d'un grand sage et souverain. <span id="p302">[<sup><small>p. 302</small></sup>]</span> 10\. Kiang-lü Mien et Ki Khêh ; — sur le conseil que le premier avait donné au souverain de Lû.
+9\. Confucius et Lâo-dze ; — sur l'attitude envers le Tâo d'un grand sage et souverain. <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> 10\. Kiang-lü Mien et Ki Khêh ; — sur le conseil que le premier avait donné au souverain de Lû.
 
 11\. Dze-kung et le vieux jardinier ; — argument de ce dernier en faveur de la simplicité primitive, et remarques à ce sujet par Confucius.
 
@@ -194,7 +194,7 @@ Par. 2. Tang, ministre de Shang, et Kwang-dze sur la nature de la bienveillance.
 
 5\. Confucius et Lâo-dze. Le premier n'a pas encore obtenu le Tao, et Lâo-dze en explique la raison.
 
-6\. Confucius et Lâo-dze. Confucius parle de Bienveillance <span id="p303">[<sup><small>p. 303</small></sup>]</span> et de Droiture ; et comment la situation se retourne contre lui. Il est profondément impressionné par l'autre.
+6\. Confucius et Lâo-dze. Confucius parle de Bienveillance <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> et de Droiture ; et comment la situation se retourne contre lui. Il est profondément impressionné par l'autre.
 
 7\. Dze-kung, à la suite du rapport du Maître sur son entretien, va également voir Lâo-Sze ; il est déconcerté et sermonne par lui.
 
@@ -226,7 +226,7 @@ Par. 2. Hui-dze et Kwang-dze ; — justification par ce dernier de son comportem
 
 3\. M. Déformé et M. Un-pied ; leur soumission sous la douleur et dans la perspective de la mort.
 
-4\. Kwang-dze et le crâne ; ce qu'il lui dit, et son apparition la nuit dans un rêve. <span id="p304">[<sup><small>p. 304</small></sup>]</span> 5\. La tristesse de Confucius au départ de Yen Hui pour Khî ; et sa défense de ce dernier auprès de Dze-kung. L'apparition d'un étrange oiseau chez Lû, et ses moralisations à son sujet.
+4\. Kwang-dze et le crâne ; ce qu'il lui dit, et son apparition la nuit dans un rêve. <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 5\. La tristesse de Confucius au départ de Yen Hui pour Khî ; et sa défense de ce dernier auprès de Dze-kung. L'apparition d'un étrange oiseau chez Lû, et ses moralisations à son sujet.
 
 6\. Lieh-dze et le crâne. Les transmutations des choses.
 
@@ -264,7 +264,7 @@ Par. 1. Kwang-dze et ses disciples : le grand arbre qui ne servait à rien et l'
 
 3\. Pei-kung Shê et le prince Khing-kî ; — comment le premier collectait les impôts et faisait sonner les cloches.
 
-4\. Comment le Thâi-kung Zän a présenté ses condoléances à Confucius pour ses détresses et a essayé de le convertir au taoïsme. <span id="p305">[<sup><small>p. 305</small></sup>]</span> 5\. Confucius et Dze-sang Hû. L'effet taoïste de leur conversation sur le premier. La dernière charge de Shun à Yü.
+4\. Comment le Thâi-kung Zän a présenté ses condoléances à Confucius pour ses détresses et a essayé de le convertir au taoïsme. <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> 5\. Confucius et Dze-sang Hû. L'effet taoïste de leur conversation sur le premier. La dernière charge de Shun à Yü.
 
 6\. Kwang-dze en haillons devant le roi de Wei. L'apologue du singe grimpeur.
 
@@ -302,7 +302,7 @@ Par. 1. Connaissance, Inaction muette, Bègue obstiné et Hwang-Tî sur le Tâo.
 
 3\. Nieh Khüeh interrogeant Phei-î à propos du Tâo.
 
-4\. Shun et son ministre Khäng ; cet homme ne lui appartient pas. <span id="p306">[<sup><small>p. 306</small></sup>]</span> 5\. Confucius et Lâo Tan ; sur le Tâo Parfait.
+4\. Shun et son ministre Khäng ; cet homme ne lui appartient pas. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> 5\. Confucius et Lâo Tan ; sur le Tâo Parfait.
 
 6\. Question de Tung-kwo Dze à Kwang-dze sur l'endroit où se trouvait le Tâo, et la réponse.
 
@@ -342,7 +342,7 @@ Par. 1, 2. Hsü Wû-kwei, Nü Shang et le marquis Wû de Wei : discours de Hsü 
 
 9\. Nan-po Dze-khî et son serviteur Yen Khäng-dze.
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 La transe est le résultat le plus élevé du Tâo. Leçon pratique à en tirer.
 
@@ -380,7 +380,7 @@ Paragraphe 2. Contre le fait de retarder une bonne action lorsqu'on est en son p
 
 3\. Le gros poisson pêché par le fils du duc de Zän.
 
-4\. Les étudiants résurrectionnistes. <span id="p308">[<sup><small>p. 308</small></sup>]</span> 5\. Comment Lâo Lâi-dze a réprimandé Confucius.
+4\. Les étudiants résurrectionnistes. <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> 5\. Comment Lâo Lâi-dze a réprimandé Confucius.
 
 6\. Le rêve du souverain Yüan de Sung à propos d'une tortue.
 
@@ -416,7 +416,7 @@ Par. 1. Les offres de trône de Yâo à Hsü Yû et Dze-kâu Kih-fû. Shun en of
 
 7\. Le prince Mâu de Kung-shan, vivant retiré, n'était pas loin du Tâo.
 
-8\. Confucius et les disciples Yen Hui, Dze-lû et Dze-kung, pendant la période périlleuse entre Khän et Zhâi. <span id="p309">[<sup><small>p. 309</small></sup>]</span> 9\. Shun et le nordiste Wû-kâi qui refuse le trône. Thang, et Pien Sui et Wû Kwang, qui tous deux le refusèrent.
+8\. Confucius et les disciples Yen Hui, Dze-lû et Dze-kung, pendant la période périlleuse entre Khän et Zhâi. <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> 9\. Shun et le nordiste Wû-kâi qui refuse le trône. Thang, et Pien Sui et Wû Kwang, qui tous deux le refusèrent.
 
 10\. Le cas des frères Po-î et Shû-khî, qui refusèrent les offres du roi Wû.
 
@@ -450,7 +450,7 @@ Par. 1. Lieh-dze et les conséquences de la sur-manifestation de ses qualités a
 
 11\. Khâo-fû le Correct, et son humilité.
 
-12\. Réprimande de Kwang-dze à l'encontre de l'homme qui se vantait d'avoir reçu des chars du roi de Song, et comparaison de celui-ci avec le garçon qui avait volé une perle sous le menton du Dragon Noir pendant son sommeil. <span id="p310">[<sup><small>p. 310</small></sup>]</span> 13\. Kwang-dze décline l'offre de dignité officielle. Apologue du bœuf sacrificiel.
+12\. Réprimande de Kwang-dze à l'encontre de l'homme qui se vantait d'avoir reçu des chars du roi de Song, et comparaison de celui-ci avec le garçon qui avait volé une perle sous le menton du Dragon Noir pendant son sommeil. <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> 13\. Kwang-dze décline l'offre de dignité officielle. Apologue du bœuf sacrificiel.
 
 14. Kwang-dze, sur le point de mourir, s'oppose au souhait de ses disciples de lui offrir une sépulture grandiose. Voici sa propre description de ce que devrait être sa sépulture.
 

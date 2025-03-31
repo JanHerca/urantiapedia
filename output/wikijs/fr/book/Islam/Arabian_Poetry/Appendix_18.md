@@ -29,7 +29,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p468">[<sup><small>p. 468</small></sup>]</span>
+<span id="p468"><sup><small>[ p. 468 ]</small></sup></span>
 
 \[En comparant la traduction suivante du célèbre poème d'Et-Tugrā'ī, que M. Redhouse a eu la gentillesse de faire pour ce volume, avec la traduction du Dr Carlyle (pp. [153](./Shorter_Pieces#p153)\-[161](./Shorter_Pieces#p161)), on remarquera que, dans quelques cas, le véritable sens de l'original est perdu dans la version métrique. Certains détails concernant l'auteur, etc., sont donnés aux pp. [433](./Appendix_14#p433)\-[435](./Appendix_14#p435).\]
 
@@ -51,7 +51,7 @@ L'enracinement ferme de la vue m'a protégé de la précipitation, et l'ornement
 
 9\. Mais la Fortune inverse mes souhaits et me fait me contenter d'un retour à la maison, au lieu de richesses consécutives à de sérieux efforts.
 
-<span id="p469">[<sup><small>p. 469</small></sup>]</span>
+<span id="p469"><sup><small>[ p. 469 ]</small></sup></span>
 
 10\. Et puis, cet homme bien proportionné, comme la partie supérieure d'une lance, tenant sa pareille entre sa jambe et sa selle : pas pusillanime, et ne dépendant pas d'un autre ;
 
@@ -105,7 +105,7 @@ L'enracinement ferme de la vue m'a protégé de la précipitation, et l'ornement
 
 35\. En vérité, toutes les choses graves m'ont fait comprendre que la gloire réside dans les migrations \[et ils disent vrai à cet égard\].
 
-<span id="p471">[<sup><small>p. 471</small></sup>]</span>
+<span id="p471"><sup><small>[ p. 471 ]</small></sup></span>
 
 36\. Si dans la gloire d'une réparation il y avait une réalisation du désir, le soleil ne bougerait jamais du signe du Bélier \[sa maison d'exaltation\].
 
@@ -131,7 +131,7 @@ L'enracinement ferme de la vue m'a protégé de la précipitation, et l'ornement
 
 47\. Sois donc patient avec cela, sans élaborer de stratagèmes ni te sentir vexé. Dans l'événement à venir, il y a quelque chose qui te rendra indépendant des stratagèmes.
 
-<span id="p472">[<sup><small>p. 472</small></sup>]</span>
+<span id="p472"><sup><small>[ p. 472 ]</small></sup></span>
 
 48\. Ton ennemi le plus virulent est le plus proche de ceux en qui tu as eu confiance. Alors prends garde aux hommes et fréquente-les dans des conditions de méfiance.
 

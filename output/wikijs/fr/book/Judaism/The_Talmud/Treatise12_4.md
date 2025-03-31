@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 1\. Le fils de Zoma dit : « Qui est sage ? Celui qui est disposé à recevoir l'instruction de tous les hommes, comme il est dit : “Que tous mes maîtres.” » [^484] Qui est puissant ? Celui qui domine sa mauvaise imagination, comme il est dit : “Celui qui est lent à la colère vaut mieux qu'un puissant, et celui qui domine son esprit que celui qui prend une ville.” [^485] Qui est riche ? Celui qui se réjouit de son sort, comme il est dit : “Car tu mangeras le fruit de ton travail, tu seras heureux et tu seras heureux.” [^486] Tu seras heureux dans ce monde, et tu seras heureux dans le monde à venir. Qui est honorable ? Celui qui honore l'humanité, comme il est dit : “Car ceux qui m'honorent, je les honorerai, et ceux qui me méprisent seront méprisés.” » [^487]
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 4\. Rabbi Levitas de Jabné a dit : « Soyez très humble d'esprit, car tout espoir de l'homme est de devenir de la nourriture pour les vers. » Rabbi Johanan, fils de Beroka, a dit : « Quiconque profane le nom de Dieu en secret, sera puni publiquement, que ce soit par ignorance ou par présomption, tout cela est une profanation du nom de Dieu. »
 
-5\. Rabbi Ismaël, son fils, a dit : « Celui qui apprend pour pouvoir enseigner aux autres, sera capable d'étudier et d'enseigner aux autres ; mais celui qui étudie pour accomplir les préceptes, sera capable d'étudier, d'enseigner, d'observer et de mettre en pratique les commandements. » Rabbi Zadok a dit : « Ne soumets pas l'étude de la loi à ton élévation, et ne t'en fais pas une hache pour la couper. » Et <span id="p229">[<sup><small>p. 229</small></sup>]</span> ainsi a dit Hillel : « Quiconque reçoit un quelconque émolument des paroles de la loi se prive de la vie. »
+5\. Rabbi Ismaël, son fils, a dit : « Celui qui apprend pour pouvoir enseigner aux autres, sera capable d'étudier et d'enseigner aux autres ; mais celui qui étudie pour accomplir les préceptes, sera capable d'étudier, d'enseigner, d'observer et de mettre en pratique les commandements. » Rabbi Zadok a dit : « Ne soumets pas l'étude de la loi à ton élévation, et ne t'en fais pas une hache pour la couper. » Et <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> ainsi a dit Hillel : « Quiconque reçoit un quelconque émolument des paroles de la loi se prive de la vie. »
 
 6\. Rabbi José a dit : « Celui qui honore la loi, sa personne sera honorée par l’humanité ; et celui qui profane la loi, sa personne sera déshonorée par l’humanité. »
 
@@ -58,7 +58,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 12\. Rabbi Eliezer, fils de Shamua, a dit : « Que l'honneur de ton disciple te soit aussi cher que le tien, et l'honneur de ton compagnon comme la crainte de ton maître, et la crainte de ton maître comme la crainte de Dieu. »
 
-13\. Rabbi Judah a dit : « Soyez prudents dans la doctrine, car une erreur de doctrine est un péché de présomption. » Rabbi Simon a dit : <span id="p230">[<sup><small>p. 230</small></sup>]</span> « Il y a trois couronnes : la couronne de la loi, la couronne du sacerdoce et la couronne de la monarchie, mais la couronne d'un bon nom est meilleure que toutes. »
+13\. Rabbi Judah a dit : « Soyez prudents dans la doctrine, car une erreur de doctrine est un péché de présomption. » Rabbi Simon a dit : <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> « Il y a trois couronnes : la couronne de la loi, la couronne du sacerdoce et la couronne de la monarchie, mais la couronne d'un bon nom est meilleure que toutes. »
 
 14\. Rabbi Néhoraï dit : « Fuis vers un endroit où la loi est étudiée, et ne dis pas qu'elle te suivra, car tes compagnons l'établiront pour toi, et ne t'appuie pas sur ta propre intelligence. »
 

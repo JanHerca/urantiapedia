@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 Ce Ya<i>s</i>t, inscrit au Génie de la Terre, est consacré à une description des montagnes et de la Gloire royale (kavaêm <i>H</i><i>v</i>arenô), qui sont invoquées, avec la Terre, dans la formule correspondante de la Sîrôzah (§ 28) : il n'y a pas de Ya<i>s</i>t consacré à la Terre elle-même.
 
@@ -52,7 +52,7 @@ Pour le sacrifice, la prière, la propitiation et la glorification à \[Hâvani\
 
 Au mont Ushi-darena, fait par Mazda, le siège du saint bonheur ; à la gloire royale, faite par Mazda ; à cette gloire qui ne peut être saisie de force, faite par Mazda [^1205],
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
@@ -72,7 +72,7 @@ Le septième était le mont Bumya [^1213].
 
 Le huitième était le mont Raoidhita [^1214].
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Le neuvième était le mont Mazi<i>s</i>i<i>s</i>v<i>a</i>u.
 
@@ -86,7 +86,7 @@ Le douzième était le mont Vâiti-gaêsa [^1215].
 
 4\. Mont Aêzakha, Mont Maênakha, Mont Vâkhedrakaê, Mont Asaya, Mont Tudhaskaê, Mont Isavaê, Mont Draoshisvau, Mont Sâirivau, Mont Nanghusmau, Mont Kakahyu, Mont Antare-Kangha [^1218];
 
-5\. Mont Si<i>k</i>idava [^1219], Mont Ahuna, Mont Raêmana, Mont Asha-stembana, Mont Urunyô-vâidhkaê, Mont Âsnava<i>n</i><i>t</i> [^1220], Mont Ushaoma, Mont U<i>s</i>ta-<i>h</i><i>v</i>arenah, Mont Syâmaka [^1221], Mont Vafray<i>a</i>u, Mont Vourusha ; <span id="p289">[<sup><small>p. 289</small></sup>]</span> 6\. Parmi lesquels se dressent le mont Gatara, le mont Adhutavau, le mont Spitavarena, le mont Spe<i>n</i>tô-dâta [^1222], le mont Kadrva-aspa [^1223], le mont Kaoirisa [^1224], le mont Taêra [^1225], le mont Barô-srayana, le mont Barana, le mont Frâpay<i>a</i>u, le mont Udrya et le mont Raêva<i>n</i><i>t</i> [^1226], et toutes les hauteurs auxquelles les hommes ont donné le nom de mont,
+5\. Mont Si<i>k</i>idava [^1219], Mont Ahuna, Mont Raêmana, Mont Asha-stembana, Mont Urunyô-vâidhkaê, Mont Âsnava<i>n</i><i>t</i> [^1220], Mont Ushaoma, Mont U<i>s</i>ta-<i>h</i><i>v</i>arenah, Mont Syâmaka [^1221], Mont Vafray<i>a</i>u, Mont Vourusha ; <span id="p289"><sup><small>[ p. 289 ]</small></sup></span> 6\. Parmi lesquels se dressent le mont Gatara, le mont Adhutavau, le mont Spitavarena, le mont Spe<i>n</i>tô-dâta [^1222], le mont Kadrva-aspa [^1223], le mont Kaoirisa [^1224], le mont Taêra [^1225], le mont Barô-srayana, le mont Barana, le mont Frâpay<i>a</i>u, le mont Udrya et le mont Raêva<i>n</i><i>t</i> [^1226], et toutes les hauteurs auxquelles les hommes ont donné le nom de mont,
 
 7\. Au nombre de deux mille montagnes, et deux cent quarante-quatre [^1227], ô Spitama Zarathu<i>s</i>tra !
 
@@ -96,7 +96,7 @@ Yênhê hâtãm : Tous ces êtres dont Ahura Mazda [^1228] . . . .
 
 ## II.
 
-9\. Nous sacrifions à la terrible Gloire royale, créée par Mazda ; la plus conquérante, la plus agissante, qui possède la santé, la sagesse et le bonheur, et qui est plus puissante à détruire que toutes les autres créatures ; <span id="p290">[<sup><small>p. 290</small></sup>]</span> 10\. Cela appartient à Ahura Mazda, car (par elle) Ahura Mazda a créé les créatures, nombreuses et bonnes, nombreuses et belles, nombreuses et merveilleuses, nombreuses et prospères, nombreuses et brillantes ;
+9\. Nous sacrifions à la terrible Gloire royale, créée par Mazda ; la plus conquérante, la plus agissante, qui possède la santé, la sagesse et le bonheur, et qui est plus puissante à détruire que toutes les autres créatures ; <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> 10\. Cela appartient à Ahura Mazda, car (par elle) Ahura Mazda a créé les créatures, nombreuses et bonnes, nombreuses et belles, nombreuses et merveilleuses, nombreuses et prospères, nombreuses et brillantes ;
 
 11 [^1229]. Afin qu'ils puissent restaurer le monde, qui (désormais) ne vieillira jamais et ne mourra jamais, ne se dégradera jamais et ne pourrira jamais, toujours vivant et toujours croissant, et maître de sa volonté, lorsque les morts ressusciteront, lorsque la vie et l'immortalité viendront, et que le monde sera restauré à sa volonté ;
 
@@ -110,7 +110,7 @@ Yênhê hâtãm : Tous ces êtres dont Ahura Mazda [^1228] . . . .
 
 15 [^1232]. Cela appartient aux Amesha-Spe<i>n</i>tas, les brillants, dont les regards exaucent leurs vœux, grands, prompts à agir, forts, majestueux, qui sont immuables et saints ;
 
-16\. Qui sont tous les sept d'une même pensée, qui sont tous les sept d'une même parole, qui sont tous les sept d'une même action ; dont la pensée est la même, dont la parole est la même, dont l'action est la même, dont le père et le commandant est le même, à savoir, le Créateur, Ahura Mazda. <span id="p291">[<sup><small>p. 291</small></sup>]</span> 17\. Qui voient l'âme de l'autre penser à de bonnes pensées, penser à de bonnes paroles, penser à de bonnes actions, penser à Garô-nmâna, et dont les voies brillent alors qu'ils descendent vers les libations ;
+16\. Qui sont tous les sept d'une même pensée, qui sont tous les sept d'une même parole, qui sont tous les sept d'une même action ; dont la pensée est la même, dont la parole est la même, dont l'action est la même, dont le père et le commandant est le même, à savoir, le Créateur, Ahura Mazda. <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> 17\. Qui voient l'âme de l'autre penser à de bonnes pensées, penser à de bonnes paroles, penser à de bonnes actions, penser à Garô-nmâna, et dont les voies brillent alors qu'ils descendent vers les libations ;
 
 18\. Qui sont les créateurs et les gouverneurs, les façonneurs et les surveillants, les gardiens et les conservateurs de ces créations d'Ahura Mazda.
 
@@ -126,7 +126,7 @@ Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
 22\. Cela appartient aux dieux des cieux et à ceux du monde matériel, et aux bienheureux, nés ou non encore nés, qui doivent accomplir la restauration du monde [^1234].
 
-23 [^1235]. Ce sont eux qui restaureront le monde, qui (désormais) ne vieillira jamais et ne mourra jamais, ne se décomposant jamais et ne pourrissant jamais, toujours vivant et <span id="p292">[<sup><small>p. 292</small></sup>]</span> toujours croissant, et maître de sa volonté, lorsque les morts ressusciteront, lorsque la vie et l'immortalité viendront, et que le monde sera restauré à sa volonté ;
+23 [^1235]. Ce sont eux qui restaureront le monde, qui (désormais) ne vieillira jamais et ne mourra jamais, ne se décomposant jamais et ne pourrissant jamais, toujours vivant et <span id="p292"><sup><small>[ p. 292 ]</small></sup></span> toujours croissant, et maître de sa volonté, lorsque les morts ressusciteront, lorsque la vie et l'immortalité viendront, et que le monde sera restauré à sa volonté ;
 
 24\. Quand la création deviendra immortelle, la création prospère du Bon Esprit, et que la Drogue périra, même si elle se précipite de tous côtés pour tuer les êtres saints, elle et sa centuple progéniture périront, comme c'est la volonté du Seigneur.
 
@@ -146,7 +146,7 @@ Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
 28\. Qui s'est attaché à Takhma Urupa, le bien armé, tandis qu'il régnait sur les sept Karshvares de la terre, sur les Daêvas et les hommes, les Yâtus et les Pairikas, les oppresseurs, les aveugles et les sourds ;
 
-29\. Lorsqu'il conquit tous les Daêvas et les hommes, tous les Yâtus et les Pairikas, et chevaucha Angra Mainyu, <span id="p293">[<sup><small>p. 293</small></sup>]</span> se transforma en forme de cheval, tout autour de la terre d'un bout à l'autre, pendant trente ans [^1238].
+29\. Lorsqu'il conquit tous les Daêvas et les hommes, tous les Yâtus et les Pairikas, et chevaucha Angra Mainyu, <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> se transforma en forme de cheval, tout autour de la terre d'un bout à l'autre, pendant trente ans [^1238].
 
 Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
@@ -162,7 +162,7 @@ Sous le règne duquel les deux aliments [^1241] ne manquaient jamais pour nourri
 
 33\. Sous son règne, il n'y eut ni vent froid ni vent chaud, ni vieillesse ni mort, ni envie des Daêvas [^1242], à l'époque précédant son mensonge, avant qu'il ne commence à se délecter de paroles fausses et mensongères.
 
-34\. Mais lorsqu'il commença à se complaire dans des paroles mensongères et mensongères [^1243], on vit la Gloire s'enfuir de lui sous la forme d'un oiseau. Lorsque sa Gloire eut disparu, alors le grand [^1244] Yima <span id="p294">[<sup><small>p. 294</small></sup>]</span> Khshaêta, le bon berger, trembla et fut dans la tristesse devant ses ennemis [^1245] ; il fut confondu et se coucha par terre.
+34\. Mais lorsqu'il commença à se complaire dans des paroles mensongères et mensongères [^1243], on vit la Gloire s'enfuir de lui sous la forme d'un oiseau. Lorsque sa Gloire eut disparu, alors le grand [^1244] Yima <span id="p294"><sup><small>[ p. 294 ]</small></sup></span> Khshaêta, le bon berger, trembla et fut dans la tristesse devant ses ennemis [^1245] ; il fut confondu et se coucha par terre.
 
 35\. La première fois [^1246] que la Gloire quitta le brillant Yima, la Gloire quitta Yima, le fils de Vîvangha<i>n</i><i>t</i>, sous la forme d'un oiseau Vâraghna [^1247].
 
@@ -172,7 +172,7 @@ Alors Mithra s'empara de cette Gloire, Mithra, le seigneur des vastes pâturages
 
 Alors Thraêtaona s'empara de cette Gloire, lui, l'héritier du vaillant clan Âthwya, qui était le plus victorieux de tous les hommes victorieux après Zarathustra ;
 
-37\. Qui frappa A<i>z</i>i Dahâka, le trois-bouche, le trois-tête, le six-yeux, qui avait mille sens, ce Dr<i>g</i> le plus puissant et le plus diabolique ; ce démon funeste au monde, le Dr<i>g</i> le plus fort qu'Angra Mainyu créa contre le monde matériel, pour détruire le monde du bon principe [^1248]. <span id="p295">[<sup><small>p. 295</small></sup>]</span> 38\. La troisième fois que la Gloire quitta le brillant Yima, cette Gloire quitta Yima, le fils de Vîvangha<i>n</i><i>t</i>, sous la forme d'un oiseau Vâraghna. Alors le cœur viril Keresâspa [^1249] s'empara de cette Gloire ; celui qui était le plus robuste des hommes forts, après Zarathoustra, pour son courage viril.
+37\. Qui frappa A<i>z</i>i Dahâka, le trois-bouche, le trois-tête, le six-yeux, qui avait mille sens, ce Dr<i>g</i> le plus puissant et le plus diabolique ; ce démon funeste au monde, le Dr<i>g</i> le plus fort qu'Angra Mainyu créa contre le monde matériel, pour détruire le monde du bon principe [^1248]. <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> 38\. La troisième fois que la Gloire quitta le brillant Yima, cette Gloire quitta Yima, le fils de Vîvangha<i>n</i><i>t</i>, sous la forme d'un oiseau Vâraghna. Alors le cœur viril Keresâspa [^1249] s'empara de cette Gloire ; celui qui était le plus robuste des hommes forts, après Zarathoustra, pour son courage viril.
 
 39\. Car le Courage Viril s'attache à lui. Nous adorons le Courage Viril, ferme comme un fer, insomniaque, prompt à se lever et pleinement éveillé, qui s'attache à Keresâspa ;
 
@@ -180,7 +180,7 @@ Alors Thraêtaona s'empara de cette Gloire, lui, l'héritier du vaillant clan Â
 
 41\. Qui a tué le Gandarewa aux talons d'or, qui se précipitait avec la gueule ouverte, désireux de détruire le monde vivant du bon principe [^1251] ;
 
-Qui a tué la progéniture de Pathana, tous les neuf [^1252]; <span id="p296">[<sup><small>p. 296</small></sup>]</span> et la progéniture de Nivika, et la progéniture de Dâ<i>s</i>tayana;
+Qui a tué la progéniture de Pathana, tous les neuf [^1252]; <span id="p296"><sup><small>[ p. 296 ]</small></sup></span> et la progéniture de Nivika, et la progéniture de Dâ<i>s</i>tayana;
 
 Qui tua Hitâspa à la couronne d'or [^1253], et Vareshava, le fils de Dâna [^1254], et Pitaona, accompagnés de nombreux Pairikas [^1255] ;
 
@@ -202,7 +202,7 @@ Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
 Le Bon Esprit lança une fléchette, ainsi que Vohu-Manô, Asha-Vahi<i>s</i>ta et Âtar, le fils d'Ahura Mazda.
 
-L'Esprit Malin lança un dard, et Akem-Manô [^1261], et Aêshma à la lance blessante, et A<i>z</i>i Dahâka et Spityura, celui qui scia Yima en deux [^1262], firent de même. <span id="p298">[<sup><small>p. 298</small></sup>]</span> 47\. Alors s'avança Âtar [^1263], le fils d'Ahura Mazda, pensant ainsi en son cœur : « Je veux m'emparer de cette Gloire qui ne peut être saisie de force. »
+L'Esprit Malin lança un dard, et Akem-Manô [^1261], et Aêshma à la lance blessante, et A<i>z</i>i Dahâka et Spityura, celui qui scia Yima en deux [^1262], firent de même. <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> 47\. Alors s'avança Âtar [^1263], le fils d'Ahura Mazda, pensant ainsi en son cœur : « Je veux m'emparer de cette Gloire qui ne peut être saisie de force. »
 
 Mais A<i>z</i>i Dahâka, le trois-bouche, celui de la mauvaise loi, se précipita sur son dos, pensant l'éteindre :
 
@@ -218,7 +218,7 @@ Mais Âtar, le fils d'Ahura Mazda, s'avança derrière lui, prononçant ces paro
 
 Alors A<i>z</i> reprit ses mains, car l'instinct de vie l'emportait, tant Âtar l'avait effrayé.
 
-51\. Cette Gloire gonfle et va à la mer <span id="p299">[<sup><small>p. 299</small></sup>]</span> Vouru-Kasha. Le Fils des Eaux au cheval rapide [^1265] s'en saisit aussitôt : tel est le souhait du Fils des Eaux, le cheval rapide : « Je veux saisir cette Gloire qui ne peut être saisie de force, jusqu'au fond de la mer Vouru-Kasha, au fond des rivières profondes. »
+51\. Cette Gloire gonfle et va à la mer <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> Vouru-Kasha. Le Fils des Eaux au cheval rapide [^1265] s'en saisit aussitôt : tel est le souhait du Fils des Eaux, le cheval rapide : « Je veux saisir cette Gloire qui ne peut être saisie de force, jusqu'au fond de la mer Vouru-Kasha, au fond des rivières profondes. »
 
 52\. Nous sacrifions au Fils des Eaux, au cheval rapide, au seigneur grand et brillant, au seigneur des femmes ; au dieu mâle, qui aide à son appel ; qui a fait l'homme, qui a façonné l'homme [^1266], un dieu qui vit sous les eaux, et dont l'oreille est la plus prompte à entendre quand il est adoré.
 
@@ -228,7 +228,7 @@ Alors A<i>z</i> reprit ses mains, car l'instinct de vie l'emportait, tant Âtar 
 
 Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 ## IX.
 
@@ -242,7 +242,7 @@ Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
 — « Ahura Mazda viendra contre toi, toujours désireux de créer de nouvelles créatures [^1274]. »
 
-Alors le très rusé Frangrasyan touranien se précipita dans la mer Vouru-Kasha, ô Spitama Zarathu<i>s</i>tra ! <span id="p301">[<sup><small>p. 301</small></sup>]</span> 59\. Une seconde fois, il se déshabillait, voulant s'emparer de cette Gloire qui appartient aux nations aryennes, nées et à naître, et au saint Zarathu<i>s</i>tra. Mais la Gloire s'échappa, la Gloire s'enfuit, la Gloire changea de siège, et un bras de la mer Vouru-Kasha apparut, à savoir ce lac qu'on appelle le lac Vanghazd<i>a</i>u [^1275].
+Alors le très rusé Frangrasyan touranien se précipita dans la mer Vouru-Kasha, ô Spitama Zarathu<i>s</i>tra ! <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> 59\. Une seconde fois, il se déshabillait, voulant s'emparer de cette Gloire qui appartient aux nations aryennes, nées et à naître, et au saint Zarathu<i>s</i>tra. Mais la Gloire s'échappa, la Gloire s'enfuit, la Gloire changea de siège, et un bras de la mer Vouru-Kasha apparut, à savoir ce lac qu'on appelle le lac Vanghazd<i>a</i>u [^1275].
 
 60 [^1276]. Alors le plus rusé des Frangrasyans touraniens se précipita hors de la mer Vouru-Kasha, ô Spitama Zarathustra ! pensant de mauvaises pensées : « . . . [^1277] Je n'ai pas été capable de conquérir la Gloire qui appartient aux nations aryennes, nées et à naître, et au saint Zarathustra.
 
@@ -288,7 +288,7 @@ Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
 73\. Nous sacrifions à la terrible gloire royale, faite par Mazda . . . .
 
-74 [^1289]. Qui s'est attaché à Kavi Husravah pour la Force bien formée, pour la Victoire remportée par Ahura, pour l'Ascendant écrasant ; pour la justice de la loi, pour l'innocence de la loi, pour le <span id="p304">[<sup><small>p. 304</small></sup>]</span> pouvoir invincible de la loi ; pour l'extermination des ennemis d'un seul coup ;
+74 [^1289]. Qui s'est attaché à Kavi Husravah pour la Force bien formée, pour la Victoire remportée par Ahura, pour l'Ascendant écrasant ; pour la justice de la loi, pour l'innocence de la loi, pour le <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> pouvoir invincible de la loi ; pour l'extermination des ennemis d'un seul coup ;
 
 75\. Et pour la vigueur de la santé, pour la Gloire faite par Mazda, pour la santé du corps, et pour une bonne progéniture vertueuse, sage, chef dans les assemblées, brillant et aux yeux clairs, qui libère \[leur père\] des affres \[de l'enfer\], de bon intellect ; et pour cette part dans le monde béni qui échoit à la sagesse et à ceux qui ne suivent pas l'impiété ;
 
@@ -312,7 +312,7 @@ Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
 Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 ## XIV.
 
@@ -332,7 +332,7 @@ Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
 88\. Nous sacrifions à la terrible gloire royale, faite par Mazda . . . .
 
-89 [^1304]. Qui s'attachera au victorieux Saoshya<i>n</i><i>t</i> et à ses aides [^1305], lorsqu'il restaurera le <span id="p307">[<sup><small>p. 307</small></sup>]</span> monde, qui (désormais) ne vieillira jamais et ne mourra jamais, ne se décomposant jamais et ne pourrissant jamais, toujours vivant et toujours croissant, et maître de ses souhaits, lorsque les morts ressusciteront, lorsque la vie et l'immortalité viendront, et que le monde sera restauré à sa guise ;
+89 [^1304]. Qui s'attachera au victorieux Saoshya<i>n</i><i>t</i> et à ses aides [^1305], lorsqu'il restaurera le <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> monde, qui (désormais) ne vieillira jamais et ne mourra jamais, ne se décomposant jamais et ne pourrissant jamais, toujours vivant et toujours croissant, et maître de ses souhaits, lorsque les morts ressusciteront, lorsque la vie et l'immortalité viendront, et que le monde sera restauré à sa guise ;
 
 90\. Quand la création deviendra immortelle, la création prospère du Bon Esprit, et que la Drogue périra, même si elle se précipite de tous côtés pour tuer les êtres saints, elle et sa centuple progéniture périront, comme c'est la volonté du Seigneur.
 
@@ -350,7 +350,7 @@ C'est cette Gloire que Thraêtaona portait avec lui lorsque A<i>z</i>i Dahâka f
 
 Ce roi Husravah portait lorsque Frangrasyan, le Touranien, fut tué [^1312] ;
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 Ce roi Vî<i>s</i>tâspa l'a porté, lorsqu'il a victorieusement maintenu la Sainteté contre l'armée des démons et a enlevé la Drub du monde du bon principe [^1313].
 
@@ -366,7 +366,7 @@ Pour sa luminosité et sa gloire, je lui offrirai un sacrifice...
 
 97\. Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 Je bénis le sacrifice et la prière, ainsi que la force et la vigueur du Mont Ushi-darena, fait par Mazda, le siège du saint bonheur ; de la Gloire royale, faite par Mazda ; de la Gloire qui ne peut être saisie de force, faite par Mazda [^1320].
 

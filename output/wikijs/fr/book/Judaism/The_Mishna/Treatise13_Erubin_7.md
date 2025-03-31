@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 4. Si une planche de quatre mains de large a été placée en travers du fossé, et de même si deux balcons en saillie ont été reliés au moyen d'une telle planche ou planche, ils peuvent préparer deux erubin, ou s'ils le préfèrent, ils peuvent en joindre un seul ; mais si la planche ou la planche est moins large que ces quatre mains, ils doivent chacun préparer un erub séparé, et ne pas en joindre un seul.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 § 5. S'il y a entre deux cours une meule de paille de dix mains de haut, ils doivent préparer deux erubin séparés, et ne peuvent en réunir un seul. Le bétail peut en être nourri de chaque côté ; et lorsque la meule descend à moins de dix mains, ils doivent en réunir un seul, et ne pas en préparer deux.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 9. R. José dit : « À quoi s'applique la règle précédente ? À la première préparation de l'erub ; mais pour continuer l'erub, toute quantité de nourriture, si petite soit-elle, suffit. » Les sages n'ont pas non plus ordonné que, là où les combinaisons d'une allée avaient été effectuées, un erub soit préparé pour les différentes cours, si ce n'est pour que les enfants ne perdent pas complètement connaissance de la règle de l'erub.
 
-§ 10. L'erub, ou sa combinaison, peut être utilisé avec tous les types d'aliments, à l'exception de l'eau et du sel. Tel est le dicton de R. Éléazar ; mais R. Josué dit : « Rien d'autre qu'une miche de pain entière est un erub ». Même si une miche entière de farine est <span id="p88">[<sup><small>p. 88</small></sup>]</span> cuite en un seul pain, mais brisée, elle ne doit pas être utilisée pour l'erub ; tandis qu'une miche de pain pour un eesar, [^227] à condition qu'elle soit entière, peut être utilisée pour l'erub.
+§ 10. L'erub, ou sa combinaison, peut être utilisé avec tous les types d'aliments, à l'exception de l'eau et du sel. Tel est le dicton de R. Éléazar ; mais R. Josué dit : « Rien d'autre qu'une miche de pain entière est un erub ». Même si une miche entière de farine est <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> cuite en un seul pain, mais brisée, elle ne doit pas être utilisée pour l'erub ; tandis qu'une miche de pain pour un eesar, [^227] à condition qu'elle soit entière, peut être utilisée pour l'erub.
 
 § 11. Un homme peut donner de l'argent au marchand de vin ou au boulanger, acquérant ainsi le droit de participer à l'érub. Tel est le dicton de Rabbi Éléazar ; mais les sages soutiennent que son argent ne peut lui donner le droit de participer à l'érub. Ils admettent cependant que, s'il a donné son argent à une autre personne, avec la mission d'effectuer son érub, il acquerra le droit de participer à l'érub, puisqu'aucun érub ne peut être effectué pour un homme à son insu. Rabbi Jehudah a dit : « À quoi s'appliquent les observations précédentes ? » À la réunion des limites : mais dans la réunion des tribunaux, un homme peut être joint à sa connaissance ou non, car un droit peut être conféré à une personne même absente, alors qu'elle ne doit être privée d'aucun droit en son absence.
 

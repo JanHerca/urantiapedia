@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T22:38:6Z
   </table>
 </figure>
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 Abeghian, 81 Abélard, 266
 
@@ -123,7 +123,7 @@ Bhuvaneshwar, 14
 
 Bible, références à, 261, 55, 80, 113, 115, 1281, 163, 195, 231, 236, 242 f 266, 282, 334, 351 Biologie, 107, 224, 352
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 Oiseaux, culte de, 34 ; comme symboles, 44 et suiv., âme d'oiseau, 145
 
@@ -243,7 +243,7 @@ Cumberland, 267
 
 Cumont, 60
 
-<span id="p363">[<sup><small>p. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 Malédiction, 48, 236
 
@@ -327,7 +327,7 @@ Durhheim, E.; 4f., 8 1, 11, 158, 166, 180, 183 1, 188, 190, 226, 275. Voir Colle
 
 Oui, 42, 86, 231, 238
 
-Terre, en tant que mère, 191, 53, 60 ; culte <span id="p363">[<sup><small>p. 363</small></sup>]</span> de, 276. Voir Déméter, déesse-mère
+Terre, en tant que mère, 191, 53, 60 ; culte <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> de, 276. Voir Déméter, déesse-mère
 
 Culte du feu de Pâques, 194
 
@@ -403,7 +403,7 @@ Destin, 55, 278 ; trois destins, 91, 295
 
 Père, en tant que prêtre, 205 ; dieu, 279, 341. Voir Prajapati Fear, 89, 931 ; en tant que dieu, 101
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 Fergusson, 38 ans, 202
 
@@ -535,7 +535,7 @@ Hyperboréens, 231
 
 Hypnotisme, 242
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 Idéal, dans la nature, 354 ; conformité à, 357
 
@@ -681,7 +681,7 @@ Amour, 48, 1001, 1031, 172, 263 ; amour libre et religion, 270 ; dans le bouddhi
 
 Lyall, 153
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Taille, 66
 
@@ -837,7 +837,7 @@ Un, Le, 76, 341
 
 Ojitimfsm, 285
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 Oracles, 82 ; arbre oraculaire, 26
 
@@ -993,7 +993,7 @@ Rituel, 79, 179 s.
 
 Rome, 219, 231
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Rosaire, 193
 
@@ -1121,7 +1121,7 @@ Spencer et Gillen, 162
 
 Esprit, comme esprit, 11 ; distingué de l'âme, 109, 113 ; et de la matière, 285 ; esprit et forme dans la religion, 224 ; spiritualité, 110 Fête du printemps, 61, 105 Starbuck, EI, 105 f.
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Étoiles, culte de, 52 f., 125
 
@@ -1251,7 +1251,7 @@ Naissance virginale, 65, 330
 
 Vishnu, 18, 24, 35, 42, 60 f„ 125, 290, 3031, 3101. 317; comme Bouddha, 323. 3301, 347; comme Pharma, 332
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 Maison de poisson, sacrifice en, 174
 

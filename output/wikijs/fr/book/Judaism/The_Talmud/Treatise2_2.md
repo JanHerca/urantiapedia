@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 1\. « Combien de temps peut-on labourer un champ blanc [^42] à la veille de l'année sabbatique ? » « Jusqu'à ce que la productivité cesse ; aussi longtemps que l'on laboure habituellement pour planter des concombres et des courges », dit R. Simon, « tu as mis la loi entre les mains de chacun. Mais on peut labourer un champ de céréales jusqu'à la Pâque, et un champ d'arbres jusqu'à la Pentecôte. »
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 4\. On peut enduire les jeunes arbres, les lier, les couper, leur construire des abris et les arroser jusqu'au jour de l'An. Rabbi Éléazar, fils de Tsadok, a dit : « On peut arroser même le sommet de la branche pendant l'année sabbatique, mais pas la racine. »
 
-5\. Les hommes peuvent oindre les fruits verts et les percer [^43] jusqu'au jour de l'An. Les fruits verts de la veille de l'année sabbatique qui vient d'entrer dans l'année sabbatique, et les fruits verts de l'année sabbatique qui se poursuit jusqu'à la fin de l'année sabbatique, ils ne peuvent ni oindre ni percer. Rabbi Jehudah a dit : « L'endroit où il est d'usage de les oindre, ils ne peuvent pas les oindre, car c'est un travail. L'endroit où il n'est pas d'usage <span id="p65">[<sup><small>p. 65</small></sup>]</span> de les oindre, ils peuvent les oindre. » R. Simon « l'a permis pour les arbres parce que c'est permis dans la culture habituelle des arbres. »
+5\. Les hommes peuvent oindre les fruits verts et les percer [^43] jusqu'au jour de l'An. Les fruits verts de la veille de l'année sabbatique qui vient d'entrer dans l'année sabbatique, et les fruits verts de l'année sabbatique qui se poursuit jusqu'à la fin de l'année sabbatique, ils ne peuvent ni oindre ni percer. Rabbi Jehudah a dit : « L'endroit où il est d'usage de les oindre, ils ne peuvent pas les oindre, car c'est un travail. L'endroit où il n'est pas d'usage <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> de les oindre, ils peuvent les oindre. » R. Simon « l'a permis pour les arbres parce que c'est permis dans la culture habituelle des arbres. »
 
 6\. Il est interdit de planter des arbres, de marcotter ou de greffer des arbres la veille de l'année sabbatique, moins de trente jours avant le Nouvel An. Si l'on plante, marcotte ou greffe des arbres, il faut les arracher. Rabbi Judah a dit : « Toute greffe qui ne tient pas en trois jours perd sa cohésion. » Rabbi José et R. Simon ont dit : « En deux semaines. »
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 9\. « Les oignons, non destinés à la semence, et les haricots égyptiens, dont l'eau est retenue trente jours avant le Nouvel An, doivent payer la dîme de l'année écoulée et peuvent être consommés pendant l'année sabbatique. Sinon, ils sont interdits pendant l'année sabbatique et doivent être dîmés pour l'année à venir, de même que les produits d'un champ pluvial [^45] dont l'eau d'irrigation est retenue à deux reprises. » Paroles de R. Maier. Mais les Sages disent « trois fois ».
 
-10\. « Les courges qui restent en place pour la semence ? » « Si elles sèchent avant le jour de l'An et sont impropres à la consommation humaine, il est permis de les laisser en place pendant l'année sabbatique. Sinon, il est interdit de les laisser en place pendant l'année sabbatique. Leurs bourgeons sont interdits pendant l'année sabbatique. Mais on peut les saupoudrer de poussière blanche. » [^46] Les paroles de R. Simon. Rabbi Éliézer, fils de Jacob, <span id="p66">[<sup><small>p. 66</small></sup>]</span> « les ont interdites ». On peut irriguer le riz pendant l'année sabbatique. Rabbi Simon a dit : « mais il ne faut pas couper ses feuilles. »
+10\. « Les courges qui restent en place pour la semence ? » « Si elles sèchent avant le jour de l'An et sont impropres à la consommation humaine, il est permis de les laisser en place pendant l'année sabbatique. Sinon, il est interdit de les laisser en place pendant l'année sabbatique. Leurs bourgeons sont interdits pendant l'année sabbatique. Mais on peut les saupoudrer de poussière blanche. » [^46] Les paroles de R. Simon. Rabbi Éliézer, fils de Jacob, <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> « les ont interdites ». On peut irriguer le riz pendant l'année sabbatique. Rabbi Simon a dit : « mais il ne faut pas couper ses feuilles. »
 
 <figure class="table chapter-navigator">
   <table>

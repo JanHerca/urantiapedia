@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 LES ACTES DES ADEPTES.[^3]
 
@@ -46,7 +46,7 @@ Le roi du Khurāsān,[^4] ‘Alā’u-’d-Dīn Muhammed, Khurrem-Shāh, oncle d
 
 L'un de ses ancêtres était l'un des premiers conquérants musulmans du Khurasan. Il était lui-même très vertueux et érudit, entouré de nombreux disciples. Il ne s'était pas marié jusqu'alors, ce qui lui donna de nombreuses pensées anxieuses et auto-accusatrices.
 
-Lui-même, le roi, la fille du roi et le vazir du roi furent tous les quatre avertis en rêve par le prince des apôtres de Dieu (Muhammed) qu'il devait épouser la princesse, ce qui fut fait. Il avait alors trente ans. Neuf mois plus tard, un fils lui naquit <span id="p4">[<sup><small>p. 4</small></sup>]</span> et fut nommé Bahā’u-’d-Dīn Muhammed. Il est communément appelé Bahā’u-’d-Dīn Veled.
+Lui-même, le roi, la fille du roi et le vazir du roi furent tous les quatre avertis en rêve par le prince des apôtres de Dieu (Muhammed) qu'il devait épouser la princesse, ce qui fut fait. Il avait alors trente ans. Neuf mois plus tard, un fils lui naquit <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> et fut nommé Bahā’u-’d-Dīn Muhammed. Il est communément appelé Bahā’u-’d-Dīn Veled.
 
 Adolescent, ce dernier était si extrêmement savant que la famille de sa mère souhaita l'élever au trône comme roi, mais il le rejeta complètement.
 
@@ -58,7 +58,7 @@ Tels sont les noms et les titres sous lesquels il est le plus souvent mentionné
 
 En 605 de l'hégire (1208), Baha'u'd-Din Veled commença à prêcher contre les innovations du roi et de certains de ses courtisans, déclamant contre les philosophes et les rationalistes, tout en exhortant tous ses auditeurs à étudier et à pratiquer les préceptes de l'Islam. Ces courtisans le calomnièrent auprès du roi, le traitant d'intrigant qui convoitait le trône. Le roi envoya quelqu'un lui proposer la souveraineté, promettant de se retirer ailleurs. Baha répondit qu'il n'avait aucun intérêt à la grandeur terrestre, étant un pauvre reclus, et qu'il quitterait volontiers le pays, afin d'éloigner de l'esprit du roi toute crainte à son sujet.
 
-Il quitta donc Balkh avec une suite d'environ quarante âmes, après avoir prononcé un discours public dans la grande mosquée devant le roi et le peuple, dans lequel il prédisait l'arrivée des Mogols pour renverser le royaume, prendre possession du pays, détruire Balkh et chasser le <span id="p5">[<sup><small>p. 5</small></sup>]</span> roi, qui s'enfuirait alors en terre romaine, où il serait enfin tué.
+Il quitta donc Balkh avec une suite d'environ quarante âmes, après avoir prononcé un discours public dans la grande mosquée devant le roi et le peuple, dans lequel il prédisait l'arrivée des Mogols pour renverser le royaume, prendre possession du pays, détruire Balkh et chasser le <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> roi, qui s'enfuirait alors en terre romaine, où il serait enfin tué.
 
 Il quitta Balkh, car le prophète (Muhammad) s’était enfui de la Mecque à Médine. Son fils Jelālu-’d-Dīn avait alors cinq ans et son frère aîné, ‘Alā’u-’d-Dīn, sept ans.
 
@@ -68,7 +68,7 @@ Le calife lui envoya un présent de trois mille sequins, mais il le déclina com
 
 Avant que Baha’u’d-Dîn ne quitte Bagdad, on reçut la nouvelle du siège de Balkh, de sa prise et de sa destruction complète, avec ses douze mille mosquées, par l’armée mogol de cinq cent mille hommes commandée par Jengīz en personne (en 608 a.H., 1211 ap.J.-C.). Quatorze mille exemplaires du Coran furent détruits, quinze mille étudiants et professeurs de droit furent tués et deux cent mille habitants adultes mâles emmenés dehors et tués à coups de flèches.
 
-Bahā’u-’d-Dīn se rendit de Bagdād à La Mecque[^6], y accomplit le plus grand pèlerinage, se rendant de là à Damas, puis à Malatia (Mélitène, sur le Haut-Euphrate), où, en 614 de l’Hégire (1217 <span id="p6">[<sup><small>p. 6</small></sup>]</span> de notre ère), il apprit la mort de Gengis Khan. Le sultan seldjoukide, ‘Alā’u-’d-Dīn Keyqubād, était alors souverain du pays de Rome (Rūm, c’est-à-dire de l’Asie Mineure), et résidait à Sīwās (Sébaste). En 614 de l’Hégire, il apprit la mort de Gengis Khan. 620 (1223) Le sultan Jelālu-’d-Dīn, monarque dépossédé de Kh’ārezm (Chorasmia), fut tué dans une bataille qu’il livra en Azerbaïdjan (Atropatène) contre les sultans de Rome, de Syrie et d’Égypte, et ses forces furent totalement défaites. Ainsi prit fin cette grande dynastie, après avoir régné pendant environ cent quarante ans.
+Bahā’u-’d-Dīn se rendit de Bagdād à La Mecque[^6], y accomplit le plus grand pèlerinage, se rendant de là à Damas, puis à Malatia (Mélitène, sur le Haut-Euphrate), où, en 614 de l’Hégire (1217 <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> de notre ère), il apprit la mort de Gengis Khan. Le sultan seldjoukide, ‘Alā’u-’d-Dīn Keyqubād, était alors souverain du pays de Rome (Rūm, c’est-à-dire de l’Asie Mineure), et résidait à Sīwās (Sébaste). En 614 de l’Hégire, il apprit la mort de Gengis Khan. 620 (1223) Le sultan Jelālu-’d-Dīn, monarque dépossédé de Kh’ārezm (Chorasmia), fut tué dans une bataille qu’il livra en Azerbaïdjan (Atropatène) contre les sultans de Rome, de Syrie et d’Égypte, et ses forces furent totalement défaites. Ainsi prit fin cette grande dynastie, après avoir régné pendant environ cent quarante ans.
 
 Bahā’u-’d-Dīn quitta Malatia et demeura quatre ans près d’Erzinjān (l’ancienne Aziris, sur l’Euphrate occidental), en Arménie, dans un collège construit pour lui par une sainte dame, ‘Ismet Khātūn. Elle était l’épouse du souverain local, Melik Fakhru-’d-Dīn. Elle et son mari moururent tous deux, puis Bahā’u-’d-Dīn s’en alla à Larenda (en Catalogne), en Asie Mineure, et y resta environ sept ans à la tête d’un collège, la princesse Melika’i-Jihān, sa mère, étant toujours avec lui.
 
@@ -76,7 +76,7 @@ C'est là que son fils cadet, Jelālu-'d-Dīn Muhammed, futur auteur du Mesnevī
 
 Le roi était alors de retour dans sa capitale, Qonya (l’ancienne Iconium). Ayant entendu parler de la grande érudition et de la sainteté de Bahā’u-’d-Dīn, le roi l’envoya et l’invita dans la capitale, où il l’installa dans un collège et se déclara bientôt disciple. On raconte que de nombreux miracles furent accomplis à Qonya par Bahā’u-’d-Dīn, qui mourut finalement là-bas le vendredi 18 Rebī‘u-’l-ākhir, 628 a.H. (février 1231 a.d.). Le sultan érigea un mausolée de marbre sur sa tombe, date à laquelle cette date est enregistrée. De nombreux miracles continuèrent à se produire dans ce sanctuaire. Le sultan mourut également quelques années plus tard, en 634 a.H. (1236 a.d.).
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 (Après la mort de Bahā’u-’d-Dīn Veled, et l’acquisition d’une renommée encore plus grande par son fils Jelālu-’d-Dīn, qui reçut le titre honorifique de Khudāvendgār — Seigneur — le père fut distingué du fils, parmi les disciples, par le titre habituel de Mevlānā Buzurg — le Grand ou l’Ancien Maître. Les traditions recueillies par Eflākī, relatives à cette période, varient considérablement les unes des autres sur des points mineurs de date et d’ordre de succession, bien que les faits principaux soient suffisamment clairs.)
 
@@ -90,7 +90,7 @@ On raconte que lorsque le Grand Maître quitta cette vie, son fils, Jelālu-’d
 
 ## 5.
 
-Peu après la mort du Grand Maître Bahā’u-’d-Dīn Veled, le Sultan ‘Alā’u-’d-Dīn de Qonya reçut la nouvelle de l’arrivée du Sultan Jelālu-’d-Dīn Kh’ārezm-Shāh aux confins de l’Asie Mineure. Le Sultan alla prier sur la tombe du saint défunt, puis se prépara à rencontrer les Kh’ārezmiens qui se trouvaient dans les environs d’Erzenu-’r-Rūm <span id="p8">[<sup><small>p. 8</small></sup>]</span> (Erzen des Romains, l’ancienne Arzès, aujourd’hui Erzerum). Des éclaireurs rapportèrent que les Kh’ārezmiens étaient très nombreux, et une grande inquiétude régnait parmi les troupes du Sultan. Il résolut d’aller voir par lui-même.
+Peu après la mort du Grand Maître Bahā’u-’d-Dīn Veled, le Sultan ‘Alā’u-’d-Dīn de Qonya reçut la nouvelle de l’arrivée du Sultan Jelālu-’d-Dīn Kh’ārezm-Shāh aux confins de l’Asie Mineure. Le Sultan alla prier sur la tombe du saint défunt, puis se prépara à rencontrer les Kh’ārezmiens qui se trouvaient dans les environs d’Erzenu-’r-Rūm <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> (Erzen des Romains, l’ancienne Arzès, aujourd’hui Erzerum). Des éclaireurs rapportèrent que les Kh’ārezmiens étaient très nombreux, et une grande inquiétude régnait parmi les troupes du Sultan. Il résolut d’aller voir par lui-même.
 
 Il se déguisa et partit avec quelques compagnons, montés sur des chevaux rapides, pour le camp des Kh’ârezmiens. Ils prétendirent qu’ils étaient des Turcs nomades du voisinage, leurs ancêtres étant venus de l’Oxus ; que le Sultan leur avait retiré dernièrement sa faveur ; et qu’en conséquence, ils attendaient depuis quelque temps l’avènement des Kh’ârezmiens. Cela fut rapporté au roi, Jelâlu-’d-Dîn, qui les fit venir et les reçut avec bienveillance, leur donnant des tentes et des rations.
 
@@ -100,7 +100,7 @@ Mais à minuit, le défunt saint de Qonya, Baha-Veled, apparut en rêve au sulta
 
 Le sultan se leva, appela discrètement ses gens, sella les chevaux et sortit du camp. Vers le matin, le roi Jelâl fit placer des gardes autour des tentes des étrangers pour les surveiller. Mais plus tard, quand on donna l'ordre de les amener devant le roi pour les interroger, leurs tentes furent vides. On tenta de les poursuivre, mais en vain.
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Après un certain temps, les deux armées entrèrent en collision. Le sultan de Qonya fut victorieux. Dès lors, chaque fois que des difficultés le menaçaient, il se rendait toujours au sanctuaire du saint Baha Veled, qui répondait toujours à ses prières.
 
@@ -118,7 +118,7 @@ Cette vision est une indication certaine que toute la race humaine se reconnaît
 
 ## 8.
 
-Avant de quitter Balkh, Baha Veled vit un jour un homme qui accomplissait ses dévotions dans la grande mosquée en manches de chemise et avec son manteau sur le dos. Baha le réprimanda, lui disant de mettre son <span id="p10">[<sup><small>p. 10</small></sup>]</span> manteau correctement et décemment, puis de continuer ses dévotions. « Et si je ne le fais pas ? » demanda l'homme d'un ton dédaigneux. « Ton âme morte obéira à mon ordre, quitte ton corps et tu mourras ! » répondit Baha. L'homme tomba instantanément mort et des foules se rassemblèrent pour devenir disciples du saint qui parlait avec tant de puissance et d'autorité.
+Avant de quitter Balkh, Baha Veled vit un jour un homme qui accomplissait ses dévotions dans la grande mosquée en manches de chemise et avec son manteau sur le dos. Baha le réprimanda, lui disant de mettre son <span id="p10"><sup><small>[ p. 10 ]</small></sup></span> manteau correctement et décemment, puis de continuer ses dévotions. « Et si je ne le fais pas ? » demanda l'homme d'un ton dédaigneux. « Ton âme morte obéira à mon ordre, quitte ton corps et tu mourras ! » répondit Baha. L'homme tomba instantanément mort et des foules se rassemblèrent pour devenir disciples du saint qui parlait avec tant de puissance et d'autorité.
 
 ## 9.
 
@@ -130,13 +130,13 @@ Un jour, le sultan ‘Alā’u-’d-Dīn rendit visite à Bahā Veled. Au lieu d
 
 ## 11.
 
-Un certain Cheikh Hajjāj, disciple de Bahā Veled et l’un des élus de Dieu inconnu du commun des mortels, quitta le collège après le décès de son maître et se consacra à son ancien métier de tisserand, <span id="p11">[<sup><small>p. 11</small></sup>]</span> ce qui lui permit de gagner honnêtement sa vie. Il avait l’habitude d’acheter du pain noir très grossier fait de farine non tamisée, de le piler avec de l’eau et de rompre son jeûne avec ce seul morceau de pain. Il économisait tout le reste de ses revenus jusqu’à ce qu’ils atteignent deux ou trois cents piastres. Il emportait ensuite cette somme au collège et la plaçait dans les chaussures du fils de son maître, Jelālu-’d-Dīn, le nouveau recteur. Il continua cette pratique toute sa vie.
+Un certain Cheikh Hajjāj, disciple de Bahā Veled et l’un des élus de Dieu inconnu du commun des mortels, quitta le collège après le décès de son maître et se consacra à son ancien métier de tisserand, <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> ce qui lui permit de gagner honnêtement sa vie. Il avait l’habitude d’acheter du pain noir très grossier fait de farine non tamisée, de le piler avec de l’eau et de rompre son jeûne avec ce seul morceau de pain. Il économisait tout le reste de ses revenus jusqu’à ce qu’ils atteignent deux ou trois cents piastres. Il emportait ensuite cette somme au collège et la plaçait dans les chaussures du fils de son maître, Jelālu-’d-Dīn, le nouveau recteur. Il continua cette pratique toute sa vie.
 
 A sa mort, un laveur professionnel fut désigné pour effectuer les dernières ablutions du cheikh Hajjāj. Dans l’exécution de sa tâche, le laveur allait toucher les parties intimes du défunt, lorsque celui-ci lui saisit la main avec une telle force qu’il hurla de douleur et de peur. Les amis vinrent le secourir, mais ils ne purent libérer la main emprisonnée. Ils envoyèrent donc un message à Jelālu-’d-Dīn pour lui raconter ce qui s’était passé. Il vint et vit, comprit la raison et murmura à l’oreille du défunt : « Le pauvre simplet n’a pas été conscient de la haute position de ta sainteté. Pardonne-moi sa transgression involontaire. » Immédiatement, la main du pauvre laveur fut libérée, mais trois jours plus tard, il fut lui-même lavé et porté sans vie dans sa tombe.
 
 ## 12.
 
-Le Sultan avait un gouverneur de son enfance encore vivant, l’émir Bedru-’d-Din Guhertâsh, communément appelé le Dizdâr (châtelain), qu’il tenait en grande estime. Un jour, alors que Bahâ Veled donnait une conférence à la mosquée, en présence du Sultan et de sa cour, il demanda tout à coup au Dizdâr de réciter dix versets du Coran, en disant qu’il les expliquerait ensuite à l’assemblée. Le Dizdâr avait admiré l’éloquence des explications du prédicateur. Sur cet appel soudain, sans la moindre hésitation et sans jamais les avoir appris par cœur, il récita les dix premiers versets du chapitre xxiii. « Les croyants ont atteint la prospérité », etc., que Bahâ <span id="p12">[<sup><small>p. 12</small></sup>]</span> expliqua aussitôt de manière à attirer les applaudissements de l’assemblée. Le Dizdār, avec la permission du Sultan, monta au pied de la chaire et se déclara disciple de Bahā. « Alors, dit le prédicateur, en guise d’offrande de remerciement pour cet heureux événement, construis et dote un collège où mes descendants enseigneront à leurs disciples après moi. » Le Dizdār le fit et le dota richement. C’est dans ce collège que vécut plus tard Jelālu-’d-Dīn. Quand le Dizdār mourut, il laissa tous ses biens pour enrichir la fondation. (Voir chap. iii, n° 69.)
+Le Sultan avait un gouverneur de son enfance encore vivant, l’émir Bedru-’d-Din Guhertâsh, communément appelé le Dizdâr (châtelain), qu’il tenait en grande estime. Un jour, alors que Bahâ Veled donnait une conférence à la mosquée, en présence du Sultan et de sa cour, il demanda tout à coup au Dizdâr de réciter dix versets du Coran, en disant qu’il les expliquerait ensuite à l’assemblée. Le Dizdâr avait admiré l’éloquence des explications du prédicateur. Sur cet appel soudain, sans la moindre hésitation et sans jamais les avoir appris par cœur, il récita les dix premiers versets du chapitre xxiii. « Les croyants ont atteint la prospérité », etc., que Bahâ <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> expliqua aussitôt de manière à attirer les applaudissements de l’assemblée. Le Dizdār, avec la permission du Sultan, monta au pied de la chaire et se déclara disciple de Bahā. « Alors, dit le prédicateur, en guise d’offrande de remerciement pour cet heureux événement, construis et dote un collège où mes descendants enseigneront à leurs disciples après moi. » Le Dizdār le fit et le dota richement. C’est dans ce collège que vécut plus tard Jelālu-’d-Dīn. Quand le Dizdār mourut, il laissa tous ses biens pour enrichir la fondation. (Voir chap. iii, n° 69.)
 
 ## 13.
 

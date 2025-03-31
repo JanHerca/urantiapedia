@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:28:20Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ENREGISTREMENTS D'AFFAIRES ANCIENNES
 
@@ -42,9 +42,9 @@ Français Les noms des Déités [^125] qui naquirent [^126] dans la Plaine du Ha
 
 Les cinq divinités de la liste ci-dessus sont des divinités célestes distinctes. [^135]
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ## SECT. II.—LES SEPT GÉNÉRATIONS DIVINES.
 
@@ -54,33 +54,33 @@ De la Déité Terrestre Éternellement Debout jusqu'à la Déité Femelle-Qui-In
 
 (Les deux Déités solitaires ci-dessus \[-mentionnées\] sont chacune appelées une génération. Parmi les dix Déités suivantes, chaque paire de déités est appelée une génération.) [^144]
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 ## SECT. III.—L'ÎLE D'ONOGORO
 
 Sur ce, toutes les Divinités Célestes ordonnèrent aux deux Divinités, Son Auguste l'Homme-Invitant et Son Auguste [^145] la Femme-Invitant, de « créer, consolider et donner naissance à cette terre flottante ». Leur accordant une lance céleste ornée de joyaux, [^146] elles daignèrent les charger. Alors, les deux Divinités, debout sur le Pont Flottant du Ciel, [^147] enfoncèrent la lance ornée de joyaux et la remuèrent. Après avoir fait cailler la saumure [^148] et remonté la lance, la saumure qui s'écoulait du bout de la lance s'amassa et devint une île. Voici l'île d'Onogoro. [^149]
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 ## SECT. IV.—LA COURTOISIE DES DIVINITÉS L’HOMME-QUI-INVITE ET LA FEMELLE-QUI-INVITE.
 
 Étant descendus du Ciel sur cette île, ils virent l'érection [^150] d'un pilier céleste auguste, ils virent l'érection d'une salle de huit brasses. [^151] Alors \[20\] demanda \[Augustus Mas-Qui-Invitat\] à sa sœur cadette Augusta Femina-Qui-Invitat : « Comment ton corps a-t-il été fait ? » Il répondit : « Mon corps a grandi, mais il y a une partie qui n’a pas grandi continuellement. » Alors Auguste Mas-Qui-Invitat dit : « Mon corps a grandi en grandissant, mais il y a une partie qui est devenue superflue. Serait-il donc bon pour moi d'insérer cette partie de mon corps devenue superflue dans la partie de ton corps qui n'a pas grandi continuellement, et de procréer des régions ? » La Femme-Qui-Invite d’août a répondu en disant : « Ce sera bien. » Alors Auguste Mas-Qui-Invitat dit : « Puisqu’il en est ainsi, toi et moi, faisant le tour de cette colonne céleste et nous rencontrant, nous formerons une auguste coalition d’augustes partis \[_c’est-à-dire_ privés\]. » [^152] Cet accord étant conclu, l'Auguste Mas-Qui-Invitat dit : « Vous faites le tour par la droite et vous vous rencontrez ; je vous rencontrerai par la gauche. » Lorsqu'ils eurent conclu un pacte absolu, l'Auguste Femme-Qui-Invite dit d'abord : « Oh, beau et charmant jeune homme ! » Alors Auguste Mas-Qui-Invitat dit : « Ô belle et aimable vierge ! » Après que chaque personne eut fini de parler, \[Augustus Mas-Qui-Invitat\] s'adressa à sa sœur et dit : « Il ne convient pas qu'une femme parle la première. » Néanmoins, ils commencèrent le \[travail de procréation\] dans la chambre, et donnèrent naissance à un fils \[nommé\] Hirudin [^153] \[ou semblable à Hirudin\]. Ils placèrent cet enfant dans une barque de roseaux et le laissèrent flotter. Ensuite, ils donnèrent naissance à l'île d'Aha. [^154] Ceci n'est pas non plus compté parmi leurs enfants. [^155]
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 ## SECT. V.—NAISSANCE DES HUIT ÎLES.
 
-Là-dessus, les deux Divinités tinrent conseil et dirent : « Les enfants que nous venons de mettre au monde ne sont pas bons. Il serait préférable d'annoncer cela dans l'auguste lieu [21] [^156] des Divinités Célestes. » Elles montèrent aussitôt au Ciel et interrogeèrent Leurs Augustes, les Divinités Célestes. Alors, les Divinités Célestes ordonnèrent et découvrirent par grande divination [^157], et leur donnèrent cet ordre : « Ils n'étaient pas bons, car la femme a parlé la première. Redescendez et corrigez vos propos. » Descendant alors, elles firent de nouveau le tour de l'auguste pilier céleste comme auparavant. Alors, son Auguste, l'Homme-Invitant, parla la première : « Ah ! quelle belle et charmante jeune fille ! » Puis sa sœur cadette, Son Auguste, l'Homme-Invitant, prit la parole : « Ah ! quel beau et charmant jeune homme ! » Tali modo quun orationi finem fecerant, auguste couerunt et pepererunt un enfant l'île d'Ahaji, Ho-no-sa-wake. [^158] Ensuite, ils donnèrent naissance à l'île de Futa-no à Iyo. [^159] Cette île a un corps et quatre visages, et chaque visage a un nom. Ainsi, le pays d'Iyo est appelé Belle-Princesse ; [^160] le pays de Sanuki [^161] est appelé Prince-Bon-Riz-Bouilli ; [^162] le pays d'Aha est appelé Princesse-de-Grande-Nourriture ; [^163] le pays de Tosa [^164] est appelé Brave-Bonne-Jeunesse. [^165] Ensuite, ils donnèrent naissance aux îles de Mitsu-go [^166] près d'Oki, [^167] un autre nom pour lequel \[îles\] est Jeunesse-Céleste-Grand-Cœur. [^168] [^169] <span id="p23">[<sup><small>p. 23</small></sup>]</span> Cette île a également un corps et quatre faces [^171] et chaque face a un nom. Ainsi, le pays de Tsukushi est appelé Jeunesse-Soleil-Blanc ; [^172] le pays de Toyo [^173] est appelé Jeunesse-Soleil-Luxuriant ; [^174] le pays de Hi est appelé Jeunesse-Seigneur-Merveilleux-Luxuriant-Confrontant-Soleil ; [^175] le pays de Kumaso est appelé Jeunesse-Soleil-Luxuriant. [^176] Ensuite, ils donnèrent naissance à l'île d'Iki, [^177] dont un autre nom est le Pilier-Unique du Ciel. [^178] Ensuite, ils donnèrent naissance à l'île de Tsu, [^179] dont un autre nom est Main-Céleste-Filet-Bonne-Princesse. [^180] Ensuite, ils donnèrent naissance à l'île de Sado. [^181] Ensuite, ils donnèrent naissance à Grand-Yamato-l'Île-Luxuriante-de-la-Libellule, [^182] dont un autre nom est Ciel-Août-Céleste-Luxuriante-Libellule-Seigneur-Jeunesse. \[24\] Le nom de « Terre-des-Huit-Grandes-Îles » [^183] provient donc du fait que ces huit îles étaient nées en premier. Après cela, lorsqu'ils furent de retour, [^184] ils donnèrent naissance à l'île de Ko\[-shima\] [^185] à Kibi, [^186] dont un autre nom est Soleil-Brave [^170] Direction-Jeunesse. Ils donnèrent ensuite naissance à l'île d'Adzuki, [^187] également appelée Oho-Nu-De-Hime. Ils donnèrent ensuite naissance à l'île d'Oho \[-shima\], [^188] également appelée Oho-Tamaru-Wake. Ils donnèrent ensuite naissance à l'île de Hime, [^189] également appelée Racine-Unique-Ciel. Ils donnèrent ensuite naissance à l'île de Chika,[^190] Dont un autre nom est Céleste-Grand-Mâle. Ensuite, ils donnèrent naissance aux Îles de Futa-go, [^191] dont un autre nom est Céleste-Deux-Maisons, (six îles en tout, de l'Île de Ko, dans la province de Kibi, jusqu'à l'Île des Célestes-Deux-Maisons).
+Là-dessus, les deux Divinités tinrent conseil et dirent : « Les enfants que nous venons de mettre au monde ne sont pas bons. Il serait préférable d'annoncer cela dans l'auguste lieu [21] [^156] des Divinités Célestes. » Elles montèrent aussitôt au Ciel et interrogeèrent Leurs Augustes, les Divinités Célestes. Alors, les Divinités Célestes ordonnèrent et découvrirent par grande divination [^157], et leur donnèrent cet ordre : « Ils n'étaient pas bons, car la femme a parlé la première. Redescendez et corrigez vos propos. » Descendant alors, elles firent de nouveau le tour de l'auguste pilier céleste comme auparavant. Alors, son Auguste, l'Homme-Invitant, parla la première : « Ah ! quelle belle et charmante jeune fille ! » Puis sa sœur cadette, Son Auguste, l'Homme-Invitant, prit la parole : « Ah ! quel beau et charmant jeune homme ! » Tali modo quun orationi finem fecerant, auguste couerunt et pepererunt un enfant l'île d'Ahaji, Ho-no-sa-wake. [^158] Ensuite, ils donnèrent naissance à l'île de Futa-no à Iyo. [^159] Cette île a un corps et quatre visages, et chaque visage a un nom. Ainsi, le pays d'Iyo est appelé Belle-Princesse ; [^160] le pays de Sanuki [^161] est appelé Prince-Bon-Riz-Bouilli ; [^162] le pays d'Aha est appelé Princesse-de-Grande-Nourriture ; [^163] le pays de Tosa [^164] est appelé Brave-Bonne-Jeunesse. [^165] Ensuite, ils donnèrent naissance aux îles de Mitsu-go [^166] près d'Oki, [^167] un autre nom pour lequel \[îles\] est Jeunesse-Céleste-Grand-Cœur. [^168] [^169] <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> Cette île a également un corps et quatre faces [^171] et chaque face a un nom. Ainsi, le pays de Tsukushi est appelé Jeunesse-Soleil-Blanc ; [^172] le pays de Toyo [^173] est appelé Jeunesse-Soleil-Luxuriant ; [^174] le pays de Hi est appelé Jeunesse-Seigneur-Merveilleux-Luxuriant-Confrontant-Soleil ; [^175] le pays de Kumaso est appelé Jeunesse-Soleil-Luxuriant. [^176] Ensuite, ils donnèrent naissance à l'île d'Iki, [^177] dont un autre nom est le Pilier-Unique du Ciel. [^178] Ensuite, ils donnèrent naissance à l'île de Tsu, [^179] dont un autre nom est Main-Céleste-Filet-Bonne-Princesse. [^180] Ensuite, ils donnèrent naissance à l'île de Sado. [^181] Ensuite, ils donnèrent naissance à Grand-Yamato-l'Île-Luxuriante-de-la-Libellule, [^182] dont un autre nom est Ciel-Août-Céleste-Luxuriante-Libellule-Seigneur-Jeunesse. \[24\] Le nom de « Terre-des-Huit-Grandes-Îles » [^183] provient donc du fait que ces huit îles étaient nées en premier. Après cela, lorsqu'ils furent de retour, [^184] ils donnèrent naissance à l'île de Ko\[-shima\] [^185] à Kibi, [^186] dont un autre nom est Soleil-Brave [^170] Direction-Jeunesse. Ils donnèrent ensuite naissance à l'île d'Adzuki, [^187] également appelée Oho-Nu-De-Hime. Ils donnèrent ensuite naissance à l'île d'Oho \[-shima\], [^188] également appelée Oho-Tamaru-Wake. Ils donnèrent ensuite naissance à l'île de Hime, [^189] également appelée Racine-Unique-Ciel. Ils donnèrent ensuite naissance à l'île de Chika,[^190] Dont un autre nom est Céleste-Grand-Mâle. Ensuite, ils donnèrent naissance aux Îles de Futa-go, [^191] dont un autre nom est Céleste-Deux-Maisons, (six îles en tout, de l'Île de Ko, dans la province de Kibi, jusqu'à l'Île des Célestes-Deux-Maisons).
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

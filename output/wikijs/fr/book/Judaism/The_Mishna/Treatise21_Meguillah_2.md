@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 3. Si un habitant d'une ville « ouverte » [^584] se rend dans une ville fortifiée « anciennement » [^585], ou si un habitant d'une ville fortifiée « anciennement » se rend dans une ville « ouverte », s'il a l'intention de retourner « après la lecture de la Méguillah » à son lieu de résidence, il la lira en même temps qu'on la lit à son lieu de résidence ; sinon, il la lira avec les habitants du lieu où il se trouve. D'où faut-il avoir commencé la lecture de la Méguillah pour s'acquitter de l'obligation ? Rabbi Meir dit : « Il est obligatoire de la lire en entier. » Rabbi Jehudah dit : « Il suffit qu'il ait commencé ‏איש יהודי‎ (Esther ii. 5). » R. José dit : "\[Même si\] de ‏אחר הדברים האלה‎ (Esther iii)."
 
-<span id="p185">[<sup><small>p. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 § 4. Tous sont habilités à lire la Méguillah, à l'exception d'un sourd, d'un insensé ou d'un mineur ; mais R. Jehudah permet qu'elle soit récitée par un mineur. Les actes religieux suivants ne peuvent être accomplis avant le lever du soleil le jour où ils sont obligatoires : lire la Méguillah, circoncire, se baigner le septième jour de la purification d'une personne impure ou souillée, asperger l'impur en guise de purification ; une femme qui a eu ses règles au-delà de la date habituelle et qui doit attendre un jour avant de se baigner ne peut pas non plus le faire avant le lever du soleil ce jour-là. Mais si l'un de ces actes a été accompli après le lever du jour, il est valide.
 

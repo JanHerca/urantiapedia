@@ -48,7 +48,7 @@ Les dangers du monde :
 
 Il y a des averses continuelles, des bourrasques et des torrents ; des centaines de milliers de vagues se succèdent.
 
-<span id="p380">[<sup><small>p. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 Adressez-vous au Vrai Gourou, et vous n'aurez aucune crainte que votre barque ne coule.
 
@@ -79,7 +79,7 @@ Les véritables saints sont peu nombreux :
 
 Les saints sont peu nombreux, et non nombreux ; la tromperie et les querelles prévalent dans le monde.[^2]
 
-<span id="p381">[<sup><small>p. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 Ce qui suit concerne la consumation des veuves :
 
@@ -113,7 +113,7 @@ C'est un Khatri qui est courageux dans ses bonnes actions
 Et qui emploie son corps à la charité.[^1]
 Le Khatri qui inspecte son terrain avant de semer ses dons,
 
-<span id="p382">[<sup><small>p. 382</small></sup>]</span>
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 
 Sera acceptable devant la cour de _Dieu_.
 Le Khatri qui pratique l'avidité, la convoitise et le mensonge,
@@ -142,7 +142,7 @@ Un homme orgueilleux s'adressa au gourou en termes déplacés. Les disciples du 
 
 N'imputez pas de blâme au Raï ;[^2] son ​​intellect l'abandonne dans sa vieillesse.
 
-<span id="p383">[<sup><small>p. 383</small></sup>]</span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 L'aveugle parle beaucoup et tombe dans la fosse.
 Tout ce que le Parfait a fait est parfait ; il n’y a en lui ni défaut ni excès.

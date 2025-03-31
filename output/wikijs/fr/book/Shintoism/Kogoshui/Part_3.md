@@ -29,11 +29,11 @@ dateCreated: 2025-2-12T22:27:49Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 <a id="note_1"></a>
 
@@ -141,7 +141,7 @@ En ce qui concerne l'expression « wakigo » en rapport avec cela, voir la tradu
 
 [22](Part_2#fr_22) 22. « Shimenawa » est la forme courante du terme plutôt archaïque « shirikumenawa ». Selon BH Chamberlain, en parfait accord avec le savant Moto-Ori, « shirikumenawa » désigne une corde de paille construite de telle sorte que les racines de la paille dépassent et sont visibles à l'extrémité de la corde. L'explication de Moto-Ori montre que c'est probablement là le sens propre du mot que « corde limitant le dos » (« shirihe-kagiri-me-nawa ») qui, comme Kamo-Mabuchi l'avait précédemment suggéré, pourrait avoir son origine à l'époque de la description de l'événement relaté dans la légende (BH Chamberlain, _E.TK_, p. 59). Selon nous, « shime » pourrait signifier « interdire », tout comme « shimeno » désigne un « champ interdit », de sorte que le terrain entouré d'une corde est simplement tabou, c'est-à-dire une enceinte sacrée interdite à l'approche ou au piétinement de simples pieds impurs. L'entrée de la Grotte du Rocher étant barrée par une corde similaire, ce « shimeno » était probablement un lieu interdit ou un sanctuaire, interdit aux profanes. Nous ne comprenons pas l'explication donnée dans une note du Kogoshūi selon laquelle cette corde représente « l'ombre du soleil ».
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 <a id="note_23"></a>
 
@@ -167,7 +167,7 @@ En ce qui concerne l'expression « wakigo » en rapport avec cela, voir la tradu
 
 [28](Part_2#fr_28) 28. Selon le _Nihongi_, cet édit a été émis par Amaterasu-Ō-Mikami seul (WG Aston, _E.TN_, vol. I, p. 77).
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 <a id="note_29"></a>
 
@@ -181,7 +181,7 @@ En ce qui concerne l'expression « wakigo » en rapport avec cela, voir la tradu
 
 [31](Part_2#fr_31) 31. Dans les deux récits du Kojiki et du Nihongi, cinq au lieu de trois serviteurs célestes, appelés les « Dieux des Cinq Corporations Héréditaires », sont mentionnés — les deux divinités supplémentaires étant Ishikoritome-no-Mikoto et Tamanoya-no-Mikoto.
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 <a id="note_32"></a>
 
@@ -291,7 +291,7 @@ En ce qui concerne l'expression « wakigo » en rapport avec cela, voir la tradu
 
 [58](Part_2#fr_58) 58. _C'est-à-dire_, la Déesse de la Nourriture ; c'est pourquoi certains commentateurs japonais l'ont identifiée à Toyouke-Hime ou Toyouke-Daijin du Sanctuaire Extérieur d'Ise.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 <a id="note_59"></a>
 
@@ -333,7 +333,7 @@ En ce qui concerne l'expression « wakigo » en rapport avec cela, voir la tradu
 
 [68](Part_2#fr_68) 68. Les offenses célestes sont celles commises, par exemple, par Susano-O-no-Mikoto, frère de la déesse du soleil Amaterasu-Ō-Mikami, au Ciel.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 <a id="note_69"></a>
 
@@ -419,7 +419,7 @@ Deux autres chants similaires, selon le Kōtaijingū-Gishikichō, étaient chant
 
 [79](Partie_2#fr_79) 79. _Vidéo_ [p. 29](Partie_2#p29).
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 L'auteur du Kogoshūi a supposé que le Palais de l'Abstinence était la demeure de la Prêtresse Gardienne Yamato-Hime-no-Mikoto, mais cette hypothèse est erronée. La description du Nihongi prouve que ce palais ou sanctuaire était destiné à la Déesse du Soleil elle-même.
 
@@ -551,7 +551,7 @@ Les Dieux des Enfers, les Dieux du Futonorito et les Dieux de la Terre. Ban Nobu
 
 [108](Part_2#fr_108) 108. Kiyomihara, un lieu à Asuka, à Takechi-Kōri, Yamato.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 <a id="note_109"></a>
 
@@ -611,7 +611,7 @@ Kai-Shi-Sui, profondément irrité par l'injustice des récompenses injustifiée
 
 [122](Partie_2#fr_122) 122. _C'est-à-dire_, Ame-no-Uzume-no-Mikoto. _Voir_ [p. 21](Partie 2#p21).
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 <a id="note_123"></a>
 
@@ -747,7 +747,7 @@ Un autre Sūtra bouddhiste décrit de la même manière le dieu brahmanique Mahe
 
 [150](Part_2#fr_150) 150. Une allusion au _Tendainofu_ (Tien-Tai-Fu) de Sonshaku (Sun-Cho) dans le _Monzen_ (_Wen-Hsuan_), un des classiques chinois. _Voir_ aussi le _Shūsuihen_ (_Chiu-Shui-Pien_), de Sōshi (Zhuang-Tzu), disciple de Rōshi (Lao-Tzu) et contemporain de Mōshi (Meng-Tzu, Mencius) au IVe siècle avant J.-C., selon la tradition chinoise.
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 <a id="note_151"></a>
 

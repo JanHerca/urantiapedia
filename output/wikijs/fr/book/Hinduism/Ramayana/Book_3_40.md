@@ -118,7 +118,7 @@ Rama envoya ses flèches aux ailes rapides,
 Chacun est brillant d'or et d'ornement.
 Ils se sont transformés en serpents aux multiples visages :
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 Ils ont mangé et brûlé les armées géantes.
 Où qu'ils s'enfuient dans une consternation sauvage
@@ -244,7 +244,7 @@ Avec le cœur le plus courageux,
 Rencontrés au front d'un combat mortel,
 Sur le fils de Raghu à regarder.
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Les hôtes géants étaient courageux et forts,
 Bon à l'arc et à la lance :
@@ -361,7 +361,7 @@ Leurs hymnes de louanges consacrants,
 Il a gâché le jus sacré du Soma
 Répandu par eux dans un usage solennel.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Le sacrifice que ses mains ont jeté,
 Et les Brahmanes tuèrent cruellement.
@@ -483,7 +483,7 @@ Insensible à la faveur, à la colère et à la haine,
 Et le peuple le célèbre.
 Ô faible d'esprit, sans laisser de trace
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 Des vertus qu'un roi devrait honorer,
 Qui n'a pas appris d'un espion vigilant
@@ -609,7 +609,7 @@ Et exécute les paroles que je dis
 Viens, roi géant, cherche ce trésor,
 Car tu es fort et ils sont faibles.
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Que Sítá, au cadre sans défaut,
 Laisse-toi emporter et sois ta dame.
@@ -725,7 +725,7 @@ Couchez-vous au bord de l'abîme.
 Et des rochers gris s'élevaient au milieu du rouge
 De corail lavé du fond de l'océan.
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 Les sommets des montagnes qui portaient
 Trésors de minerai d'or et d'argent,
@@ -855,7 +855,7 @@ Il se promène avec sa femme dans des vêtements vulgaires.
 Ce misérable, la honte de sa tribu guerrière
 A tué le meilleur de la race géante.
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Dur, méchant, féroce et avide d'âme,
 Un imbécile, avec des sens incontrôlés,
@@ -975,7 +975,7 @@ L'aimé que ses bras défendent ?
 Moins vain l'espoir de voler
 La gloire du Seigneur du Jour.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Ô Ravan, protège-toi du feu
 De la colère allumée du vengeur Rama,
@@ -1088,7 +1088,7 @@ Encore imberbe et de teint foncé ;
 Une seule robe pour seul vêtement,
 Ses tempes voilées de cheveux ondulants,
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 Autour de son cou une chaîne d'or,
 Il saisit l'arc qu'il aimait à lancer ;
@@ -1213,7 +1213,7 @@ De cet illustre anachorète,
 Et insouciant d'un ennemi ermite,
 Je me suis souvenu de mon précédent commentaire.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 Je l'ai chargé dans ma rage et mon mépris
 Pour le tuer avec ma corne pointue,
@@ -1332,7 +1332,7 @@ S'il recherche l'honneur et la récompense.
 Ou, lorsqu'il voit une conduite prudente
 Ce qui, dit-il, pourrait déplaire à son roi
 
-<span id="p276">[<sup><small>p. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 Il devrait, par des indices d'art adroit,
 Transmettez son conseil à son seigneur.

@@ -58,7 +58,7 @@ Et à travers la forêt de Bhárunda, se répandent
 Au nord de Víramatsya, accéléré.
 Il a cherché l'enfant de Kalinda, qui remplit
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 L'âme pleine de joie, entourée de collines,
 Arrivé à Yamuná et passant par-dessus,
@@ -183,7 +183,7 @@ Et tous là-dedans, avec les sourcils couverts,
 Asseyez-vous sans joie sur le sol et jeûnez.
 Leurs beaux chapelets secs et morts,
 
-<span id="p180">[<sup><small>p. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 Leurs cours non balayées, couvertes de poussière,
 Les temples des dieux aujourd'hui
@@ -313,7 +313,7 @@ D'un côté à l'autre, toujours inconsolable,
 Et puis, oppressé par un chagrin amer,
 Sa mère s'adressa à lui avec ces mots :
 
-<span id="p181">[<sup><small>p. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 « Cet espoir joyeux nourrissait mon sein
 Quand je me suis précipité hors des salles de mon grand-père,
@@ -442,7 +442,7 @@ Le sort de ses frères, le destin de son père,
 Ainsi Bharat dit à sa mère
 Avec une douleur brûlante, inquiet :
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 « Hélas, à quoi bon régner maintenant,
 Frappé par le chagrin et presque tué ?
@@ -566,7 +566,7 @@ Ma mère, et pourtant mon pire ennemi.
 Jamais mon trône ne sera béni par tes yeux,
 La méchante meurtrière de ton mari.
 
-<span id="p183">[<sup><small>p. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 Tu n'es pas l'enfant d'As'vapati,
 Ce roi juste, très sage et très doux,
@@ -692,7 +692,7 @@ Et Lakshman, en route vers le bannissement.
 Ainsi, Bharat à l'âme élevée, au milieu de la foule,
 Il éleva la voix et cria à haute voix.
 
-<span id="p184">[<sup><small>p. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 Kaus'alyá entendit et leva la tête.
 Et rapidement il dit à Sumitrá :
@@ -814,7 +814,7 @@ Qui a voulu que le prince s'enfuie.
 Qu'il trompe les pauvres et les faibles
 Qui se tournent vers lui et cherchent du réconfort,
 
-<span id="p185">[<sup><small>p. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 Trahis les suppliants qui se plaignent,
 Et rend l’espoir vain.
@@ -936,7 +936,7 @@ Ils s'occupèrent ensuite des feux sacrés,
 Et murmurait tout bas chaque texte funéraire ;
 Et les chanteurs sacerdotaux qui répètent
 
-<span id="p186">[<sup><small>p. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 Les S'aman [1](Book_2_80#fn352) ont chanté leurs vers sacrés.
 De la ville sont venus en litière,
@@ -1059,7 +1059,7 @@ Il a relevé Bharat en pleurs sur ses pieds,
 Et ainsi parla-t-il avec un conseil convenable :
 « Douze jours se sont écoulés, mon seigneur
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 Depuis que les flammes ont consumé l'argile de ton père :
 Ne tardez plus : comme le prévoient les règles,
@@ -1175,7 +1175,7 @@ Dis-moi une parole amicale, à toi ou à moi.
 Lorsque S'atrughna entendit le discours de Bharat
 Il calma la rage qui agitait sa poitrine,
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Libérée de sa terrible contrainte
 Le misérable tremblant de terreur s'évanouit.
@@ -1292,7 +1292,7 @@ Les grands arbres ont été élevés par des mains actives.
 Où qu'ils aient emprunté la ligne de route,
 Ils ont manié la hache, la hache et le crochet.
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 D'autres, avec toutes leurs forces déployées,
 Jetez les plantes et les arbustes vigoureux,

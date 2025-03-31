@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 Ce Ya<i>s</i>t porte le nom de Râma <i>H</i><i>v</i>âstra, le Génie qui préside au 21e jour du mois (Sîrôzah, § 21), et est consacré à son Hamkâr, Vayu.
 
@@ -60,7 +60,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 1\. Je sacrifierai aux Eaux et à Celui qui les divise [^1097]. Je sacrifierai à la Paix, dont le souffle est amical, et à la Bonne, tous deux.
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 C'est à ce Vayu que nous offrons nos sacrifices, c'est à ce Vayu que nous l'invoquons, pour cette maison, pour le maître de cette maison, et pour l'homme qui offre des libations et des dons. C'est à ce Dieu excellent que nous offrons nos sacrifices, afin qu'il accepte notre nourriture et nos prières, et nous accorde en retour d'écraser nos ennemis d'un seul coup.
 
@@ -74,7 +74,7 @@ C'est à ce Vayu que nous offrons nos sacrifices, c'est à ce Vayu que nous l'in
 
 À cette partie de toi nous sacrifions, ô Vayu ! qui appartient à Spe<i>n</i>ta Mainyu [^1102].
 
-Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu, à savoir, au redoutable Vayu, qui œuvre avec zèle. Nous offrons un sacrifice au redoutable Vayu, qui œuvre avec zèle, avec les libations, avec le Haoma et la viande, avec le baresma, avec la sagesse de la langue, avec les <span id="p251">[<sup><small>p. 251</small></sup>]</span> sorts sacrés, les paroles, les actes, les libations et les paroles bien dites.
+Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu, à savoir, au redoutable Vayu, qui œuvre avec zèle. Nous offrons un sacrifice au redoutable Vayu, qui œuvre avec zèle, avec les libations, avec le Haoma et la viande, avec le baresma, avec la sagesse de la langue, avec les <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> sorts sacrés, les paroles, les actes, les libations et les paroles bien dites.
 
 Yê<i>n</i>hê hâtãm : Tous ces êtres dont Ahura Mazda . . . .
 
@@ -98,7 +98,7 @@ Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être enten
 
 10\. Je sacrifierai aux eaux et à celui qui les divise . . . .
 
-À ce Vayu nous sacrifions, à ce Vayu nous invoquons... <span id="p252">[<sup><small>p. 252</small></sup>]</span> 11\. C'est à lui que Takhma Urupa [^1107], le bien armé [^1108], offrit un sacrifice sur un trône d'or, sous des poutres et un dais d'or, avec des paquets de baresma et des offrandes de lait bouillant.
+À ce Vayu nous sacrifions, à ce Vayu nous invoquons... <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> 11\. C'est à lui que Takhma Urupa [^1107], le bien armé [^1108], offrit un sacrifice sur un trône d'or, sous des poutres et un dais d'or, avec des paquets de baresma et des offrandes de lait bouillant.
 
 12\. Il lui demanda une faveur, en disant : « Accorde-moi ceci, ô Vayu ! qui travailles avec acharnement, afin que je puisse conquérir tous les Daêvas et les hommes, tous les Yâtus et les Pairikas, et que je puisse chevaucher Angra Mainyu, transformé en forme de cheval, tout autour de la terre d'un bout à l'autre, pendant trente ans. »
 
@@ -114,7 +114,7 @@ Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être enten
 
 C'est à ce Vayu que nous sacrifions, c'est à ce Vayu que nous invoquons...
 
-15\. Le brillant Yima, le bon berger, <span id="p253">[<sup><small>p. 253</small></sup>]</span> lui sacrifia du haut de Hukairya, le tout brillant et doré, sur un trône d'or, sous des poutres d'or et un dais d'or, avec des bottes de baresma et des offrandes de lait bouillant.
+15\. Le brillant Yima, le bon berger, <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> lui sacrifia du haut de Hukairya, le tout brillant et doré, sur un trône d'or, sous des poutres d'or et un dais d'or, avec des bottes de baresma et des offrandes de lait bouillant.
 
 16\. Il lui demanda une faveur, en disant : « Accorde-moi ceci, ô Vayu ! qui travailles hautement, afin que je devienne le plus glorieux des hommes nés pour contempler le soleil : afin que je puisse, sous mon règne, rendre les animaux et les hommes immortels, les eaux et les plantes immortelles, et la nourriture des créatures comestibles inépuisable [^1110]. »
 
@@ -132,7 +132,7 @@ Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être enten
 
 C'est à ce Vayu que nous sacrifions, c'est à ce Vayu que nous invoquons...
 
-19\. C'est à lui qu'Azi Dahâka, le dieu à trois bouches, offrit un sacrifice dans son palais maudit de Kviri<i>n</i>ta [^1112], <span id="p254">[<sup><small>p. 254</small></sup>]</span> sur un trône d'or, sous des poutres et un dais d'or, avec des paquets de baresma et des offrandes de lait bouillant.
+19\. C'est à lui qu'Azi Dahâka, le dieu à trois bouches, offrit un sacrifice dans son palais maudit de Kviri<i>n</i>ta [^1112], <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> sur un trône d'or, sous des poutres et un dais d'or, avec des paquets de baresma et des offrandes de lait bouillant.
 
 20\. Il lui demanda une faveur, en disant : « Accorde-moi ceci, ô Vayu ! qui travaille hautement, afin que je puisse vider d'hommes tous les sept Karshvares de la terre [^1113]. »
 
@@ -166,7 +166,7 @@ C'est à ce Vayu que nous sacrifions, c'est à ce Vayu que nous invoquons...
 
 28\. Il lui demanda une faveur, en disant : « Accorde-moi ceci, ô Vayu ! qui travailles hautement, afin que je réussisse à venger mon frère Urvâkhshaya [^1117], que je puisse frapper Hitâspa et l'atteler à mon char. »
 
-Le Gandarewa, qui vit sous les eaux, <span id="p256">[<sup><small>p. 256</small></sup>]</span> est le fils d'Ahura dans les profondeurs, il est le seul maître des profondeurs [^1118].
+Le Gandarewa, qui vit sous les eaux, <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> est le fils d'Ahura dans les profondeurs, il est le seul maître des profondeurs [^1118].
 
 29\. Vayu, qui travaille beaucoup, lui a accordé cette faveur, car le Créateur, Ahura Mazda, l'a poursuivie.
 
@@ -184,7 +184,7 @@ C'est à ce Vayu que nous sacrifions, c'est à ce Vayu que nous invoquons...
 
 32\. Il lui demanda une faveur, en disant : « Accorde-moi ceci, ô Vayu ! qui travaille avec acharnement, afin que le vaillant Husravah, celui qui unit les nations aryennes en un seul royaume [^1121], ne nous frappe pas ; afin que je puisse fuir le roi Husravah [^1122] ; . . . .
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 « Que le roi Husravah et tous les Aryens de la forêt puissent le frapper [^1123]. »
 
@@ -214,7 +214,7 @@ Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être enten
 
 38\. Je sacrifierai aux eaux et à celui qui les divise . . . .
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 C'est à ce Vayu que nous sacrifions, c'est à ce Vayu que nous invoquons...
 
@@ -236,7 +236,7 @@ C'est à ce Vayu que nous sacrifions, c'est à ce Vayu que nous invoquons...
 
 Nous sacrifions à ce Vayu qui appartient au Bon Esprit [^1127], le Vayu brillant et glorieux.
 
-43\. Mon nom est Vayu, ô saint Zarathu<i>s</i>tra ! Mon nom est Vayu, car je traverse (vyêmi) les deux mondes [^1128], celui que le Bon Esprit a <span id="p259">[<sup><small>p. 259</small></sup>]</span> créé et celui que le Mauvais Esprit a créé.
+43\. Mon nom est Vayu, ô saint Zarathu<i>s</i>tra ! Mon nom est Vayu, car je traverse (vyêmi) les deux mondes [^1128], celui que le Bon Esprit a <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> créé et celui que le Mauvais Esprit a créé.
 
 Mon nom est le Surprenant (apaêta), ô saint Zarathustra ! Mon nom est le Surprenant, car je peux surprendre les créatures des deux mondes, celui créé par le Bon Esprit et celui créé par le Mauvais Esprit.
 
@@ -274,7 +274,7 @@ Mon nom est Celui qui traverse facilement.
 
 Mon nom est celui qui s'en va en lançant.
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 Mon nom est Celui qui écrase d'un seul coup.
 
@@ -302,7 +302,7 @@ Mon nom est Perçant de lance; mon nom est Celui à la lance perçante.
 
 Mon nom est le Glorieux, mon nom est le Très-Glorieux.
 
-496\. Invoque mes noms, ô saint Zarathustra ! au milieu des hordes dévastatrices, au milieu des colonnes qui avancent, dans la lutte des nations en conflit. <span id="p261">[<sup><small>p. 261</small></sup>]</span> 50\. Invoque mes noms, ô saint Zarathustra ! lorsque le tyran tout-puissant d'un pays tombe sur toi, se précipite sur toi, te blesse ou lance son char contre toi, pour te voler [^1136] tes richesses, pour te voler ta santé.
+496\. Invoque mes noms, ô saint Zarathustra ! au milieu des hordes dévastatrices, au milieu des colonnes qui avancent, dans la lutte des nations en conflit. <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> 50\. Invoque mes noms, ô saint Zarathustra ! lorsque le tyran tout-puissant d'un pays tombe sur toi, se précipite sur toi, te blesse ou lance son char contre toi, pour te voler [^1136] tes richesses, pour te voler ta santé.
 
 51\. Invoque ces noms qui sont les miens, ô saint Zarathoustra ! lorsque l'impie Ashemaogha tombe sur toi, se précipite sur toi, te blesse ou lance son char contre toi, pour te voler ta force, pour te voler ta richesse, pour te voler ta santé.
 
@@ -310,7 +310,7 @@ Mon nom est le Glorieux, mon nom est le Très-Glorieux.
 
 53\. Ô toi Vayu ! qui fais trembler tous les hommes et tous les chevaux, qui dans toutes les créatures travailles contre les Daêvas, tu pénètres avec une puissance égale dans les endroits les plus bas et dans ceux mille fois plus profonds [^1138].
 
-54\. « Avec quel sacrifice t'adorerai-je ? Avec quel sacrifice t'avancerai-je et t'adorerai-je ? Avec quel sacrifice accomplira ton adoration, ô grand Vayu ! Toi qui es ceinturé, ferme, rapide, aux pieds hauts, à la poitrine large, aux cuisses larges, au regard imperturbable, aussi puissant en souveraineté que n'importe quel souverain absolu au monde ? » <span id="p262">[<sup><small>p. 262</small></sup>]</span> 55\. « Prends un baresma, ô saint Zarathustra ! Tourne-le vers le haut ou vers le bas, selon qu'il fait jour ou qu'il commence à poindre ; vers le haut pendant le jour, vers le bas à l'aube [^1139].
+54\. « Avec quel sacrifice t'adorerai-je ? Avec quel sacrifice t'avancerai-je et t'adorerai-je ? Avec quel sacrifice accomplira ton adoration, ô grand Vayu ! Toi qui es ceinturé, ferme, rapide, aux pieds hauts, à la poitrine large, aux cuisses larges, au regard imperturbable, aussi puissant en souveraineté que n'importe quel souverain absolu au monde ? » <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> 55\. « Prends un baresma, ô saint Zarathustra ! Tourne-le vers le haut ou vers le bas, selon qu'il fait jour ou qu'il commence à poindre ; vers le haut pendant le jour, vers le bas à l'aube [^1139].
 
 56\. 'Si tu me fais adorer par un sacrifice, alors je te dirai de ma propre voix des choses de santé, faites par Mazda et pleines de gloire, afin qu'Angra Mainyu ne puisse jamais te faire de mal, ni aux Yâtus, ni à ceux qui sont adonnés aux œuvres des Yâtu, qu'ils soient Daêvas ou hommes.'
 

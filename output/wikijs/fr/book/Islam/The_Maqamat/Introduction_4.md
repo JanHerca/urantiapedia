@@ -44,13 +44,13 @@ Abú’l-Fatḥ représente donc le savant vagabond de l’époque de Hamadhán�
 
 Cette conception constituait une avancée par rapport au style dramatique qui, en raison de l'objection religieuse à la représentation réaliste de la vie ou de la forme humaine, avait jusqu'alors fait défaut dans la littérature arabe. [^86]
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 Selon le Zahr al-Adáb, l'occasion de la composition du Maqámát était la suivante : Abú Isḥáq, [^87] surnommé al-Ḥuṣrí, ou le fabricant ou le vendeur de tapis (ob. à Qairawán A.H. 413). contemporain de Hamadhání, après avoir fait référence dans les termes les plus flatteurs à la pertinence unique du nom et de l'appellation de l'auteur, Abú’l Faḍl et Badí ‘al-Zamán, respectivement le ‘Père de l'Excellence’ et la ‘Merveille de l'Âge’, écrit : « Quand al-Hamadhání observa qu'Abú Bakr ibn Duraid l'Azdite (223-321 A.H.) avait composé quarante histoires rares sur une variété de sujets exprimés dans un langage aux sonorités étranges et des mots désuets et incongrus, tels que la nature des hommes se rétracterait et que leurs oreilles seraient fermées, qu'il disait avoir produites des sources de sa poitrine, extraites des mines de sa pensée et exposées à la vue et à la perception du public, Hamadhání le rencontra avec quatre cents Maqámát sur la mendicité. » [^88] Ceux-ci sont instinctivement intéressants et beaux et entre deux d'entre eux il n'y a pas la moindre ressemblance, que ce soit Quant aux mots ou aux idées, il en attribue la composition et la narration à deux personnes. [^89] Il nomme l’une ‘Isá ibn Hishám et l’autre Abú’l-Fatḥ al-Iskanderí. Il fait échanger à ces deux personnes des perles de pensée et exprimer un langage envoûtant qui fait rire les tristes et exciter les ternes. « Dans ces compositions, il nous initie à toutes sortes de plaisanteries et nous informe de toutes sortes de subtilités. Généralement, l’un des personnages est fait l’auteur de l’histoire et l’autre le narrateur. » [^90]
 
 Ibn Khallikan ne fait aucune mention de ces histoires dans la liste des ouvrages attribués à Ibn Duraid [^91] et il n'y a aucune référence à eux dans celle citée par Yaqút. [^92] L'approche la plus proche d'un ouvrage de ce genre de cet auteur est le _Kitáb al-Lughát_ sur les dialectes ou expressions idiomatiques des Arabes. [^93]
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Si donc les histoires étaient ce qu'al-Ḥuṣrí les présentait, elles étaient probablement écrites dans un dialecte devenu obsolète.
 
@@ -72,7 +72,7 @@ La question de savoir si les maqámát sont des compositions improvisées, comme
 
 De même, à la page 389 des Lettres, en réponse à certaines critiques formulées sur les maqámát et aux railleries de son grand rival, Abú Bakr al-Khwárazmí, selon lesquelles il était incapable d’en produire davantage, il écrit : « Si ce savant était juste, il aurait essayé de produire cinq maqámát, ou dix compositions originales, et les aurait soumises au jugement des gens cultivés ; puis, s’ils les approuvaient et ne les rejetaient pas, il aurait pu nous critiquer défavorablement. Qu’il comprenne maintenant que, bien que j’aie dicté quatre cents maqámát sur la mendicité, dont deux n’ont aucune ressemblance, ni en ce qui concerne les mots ni en ce qui concerne les idées, il est incapable de produire un dixième de maqáma, et, par conséquent, il mérite que ses fautes soient exposées. »
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 Il semble raisonnable de supposer que son _modus operandi_ était le plan qu'il suggérait qu'al-Khwárazmí aurait dû adopter, à savoir, soumettre d'abord quelques maqámát aux érudits pour leur avis.
 
@@ -98,7 +98,7 @@ Il y a des exemples de la générosité proverbiale du prince hamdânide Saif ad
 
 La question de savoir si Hamadhání doit quelque chose, directement ou indirectement, à l'érudition grecque ou aux modèles byzantins est extrêmement difficile à trancher.
 
-En ce qui concerne l'étalage somptueux de l'érudition, les obscurités intentionnelles et l'utilisation de mots de signification douteuse, le <span id="p21">[<sup><small>p. 21</small></sup>]</span> Maqámát peut être comparé à la Cassandre ou à l'Alexandra de Lycophron (285-247 av. J.-C.).
+En ce qui concerne l'étalage somptueux de l'érudition, les obscurités intentionnelles et l'utilisation de mots de signification douteuse, le <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> Maqámát peut être comparé à la Cassandre ou à l'Alexandra de Lycophron (285-247 av. J.-C.).
 
 Il est peu probable cependant que l'auteur ait puisé son inspiration dans ce produit de l'antiquité, mais la similitude suggère que les mêmes démons de difficulté, d'obscurité et de pédantisme ont pénétré les orateurs et les poètes des deux nations à des époques différentes.
 
@@ -112,7 +112,7 @@ Il existe cependant une ressemblance bien plus étroite entre les Maqámát et l
 
 Pour autant que nous le sachions, le mime commence sérieusement avec Sophron (vers 430 av. J.-C.), dont les mimes, contrairement à ceux d’Hérondas, dont nous disposons, étaient en prose. « Ces dialogues contenaient des personnages masculins et féminins. Certains étaient sérieux et d’autres humoristiques. Ils décrivaient la vie quotidienne des Grecs siciliens et étaient écrits dans un langage concis et populaire, plein de proverbes et d’expressions familières. » [^109]
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Presque chaque mot de cette description des Mimes pourrait, _mutatis mutandis_, s'appliquer au Maqámát. Selon Reich, le Mime a influencé la pensée des premiers écrivains ecclésiastiques et a été un sujet de préoccupation et de controverse considérables avec les Pères chrétiens. [1](./mhm08.htm#fn_110) Il a trouvé son chemin vers l'Inde et a prospéré en Syrie, en Palestine, à Alexandrie, à Antioche et à Constantinople. [2](./mhm08.htm#fn_111) Il serait en effet étrange que les Arabes soient les seuls à ignorer son existence. Que le terme Mime leur soit connu ressort du mot … et il est concevable que la pratique de composer des dialogues humoristiques ou divertissants soit passée du grec au syriaque et du syrien à l'arabe.
 

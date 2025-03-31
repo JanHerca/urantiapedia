@@ -38,7 +38,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 3\. Celui qui a brûlé la génisse rousse et les bœufs, [^640] et celui qui a envoyé le bouc émissaire, rendent les vêtements impurs. La génisse, les bœufs et le bouc émissaire envoyé ne peuvent à eux seuls rendre les vêtements impurs. Voici le proverbe : « Ce qui te rend impur ne peut me rendre impur, mais tu peux me rendre impur. »
 
-4\. Si quelqu'un mange le cadavre d'un oiseau pur, tel qu'il est dans son gosier, il rend ses vêtements impurs. Le cadavre lui-même ne rend pas les vêtements impurs. C'est ce que dit le proverbe : <span id="p314">[<sup><small>p. 314</small></sup>]</span> « Ce qui te rend impur ne peut me rendre impur, mais tu peux me rendre impur. »
+4\. Si quelqu'un mange le cadavre d'un oiseau pur, tel qu'il est dans son gosier, il rend ses vêtements impurs. Le cadavre lui-même ne rend pas les vêtements impurs. C'est ce que dit le proverbe : <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> « Ce qui te rend impur ne peut me rendre impur, mais tu peux me rendre impur. »
 
 5\. Toute impureté secondaire ne rend pas les vaisseaux impurs, mais le liquide le fait. Si le liquide devient impur, il rend les vaisseaux impurs. C'est ce que dit le proverbe : « Ce qui te rend impur ne peut me rendre impur, mais tu peux me rendre impur. »
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 9\. Les eaux surnommées sont interdites. Voici les surnoms : salées et tièdes. Les eaux trompeuses [^645] sont interdites. Ce sont des eaux trompeuses ; elles ont manqué une fois en sept ans ; elles ont manqué pendant la guerre et la famine, et pourtant elles sont autorisées. R. Juda « les interdit ».
 
-10\. Les eaux de Kirmion (Kishon ?) et de Pyga (Belus ?) sont interdites, car ce sont des eaux de marais. Les eaux du Jourdain et celles de <span id="p315">[<sup><small>p. 315</small></sup>]</span> Jarmouk [^646] sont interdites, car mélangées. Or, ce sont des eaux mélangées : l’une autorisée et l’autre interdite sont mélangées. Deux, autorisées et mélangées, sont autorisées. R. Juda « les interdit ».
+10\. Les eaux de Kirmion (Kishon ?) et de Pyga (Belus ?) sont interdites, car ce sont des eaux de marais. Les eaux du Jourdain et celles de <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> Jarmouk [^646] sont interdites, car mélangées. Or, ce sont des eaux mélangées : l’une autorisée et l’autre interdite sont mélangées. Deux, autorisées et mélangées, sont autorisées. R. Juda « les interdit ».
 
 11\. « Le puits d'Achab [^647] et la grotte de Panias [^648] sont permis. L'eau qui a changé, mais qui a changé d'elle-même, est permise. Un puits d'eau provenant de loin est permis, seulement il doit être surveillé, afin que personne ne le retienne. » Rabbi Judah a dit : « C'est considéré comme acquis et permis. » « Un puits dans lequel de la terre ou de l'argile est tombée ? » « Il faut attendre qu'il soit clair. » Les paroles de Rabbi Ismaël. Rabbi Akiba a dit : « Il n'est pas nécessaire d'attendre. »
 

@@ -36,7 +36,7 @@ TRENTE-CINQUIÈME CONFÉRENCE. LE MOINE SANS MAISON.
 
 Apprenez de moi, avec des esprits attentifs, le chemin montré par les sages [^576], qui conduit le moine qui le suit, à la fin de toute misère. (1)
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 En abandonnant la vie dans une maison et en adoptant la Pravra<i>g</i>yâ, un sage devrait connaître et renoncer à ces attachements qui s'emparent des hommes. (2)
 
@@ -72,7 +72,7 @@ Même dans ses pensées, il ne devrait pas désirer qu'on lui offre des fleurs, 
 
 Il doit méditer uniquement sur les choses vraies [^579], ne pas commettre de péchés et ne posséder aucune propriété ; il doit marcher sans se soucier de son corps jusqu'à ce que sa fin arrive. (19)
 
-Rejetant la nourriture lorsque le moment de sa mort arrive, <span id="p206">[<sup><small>p. 206</small></sup>]</span> et quittant le corps humain, il devient son propre maître [^580] et est libéré de la misère. (20)
+Rejetant la nourriture lorsque le moment de sa mort arrive, <span id="p206"><sup><small>[ p. 206 ]</small></sup></span> et quittant le corps humain, il devient son propre maître [^580] et est libéré de la misère. (20)
 
 Sans propriété, sans égoïsme, libre des passions et des Âsravas, il obtient la connaissance absolue et atteint la béatitude éternelle. (21)
 

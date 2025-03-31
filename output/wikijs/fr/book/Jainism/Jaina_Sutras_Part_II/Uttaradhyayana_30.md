@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 TRENTIÈME CONFÉRENCE. LE CHEMIN DE LA PÉNITENCE.
 
@@ -46,7 +46,7 @@ En possédant les cinq Samitis et les trois Guptis, en se libérant des passions
 
 Comme un grand réservoir, lorsque son approvisionnement en eau a été arrêté, s'assèche peu à peu par la consommation de l'eau et par l'évaporation, ainsi le Karman d'un moine, qu'il a acquis en des millions [^466] de naissances, est anéanti par les austérités, s'il n'y a pas d'afflux de mauvais Karman. (5, 6)
 
-Les austérités sont de deux sortes : externes et internes ; <span id="p175">[<sup><small>p. 175</small></sup>]</span> les austérités externes sont de six sortes, et les austérités internes sont de six sortes [^467]. (7)
+Les austérités sont de deux sortes : externes et internes ; <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> les austérités externes sont de six sortes, et les austérités internes sont de six sortes [^467]. (7)
 
 Les austérités externes sont :
 
@@ -56,7 +56,7 @@ Les austérités externes sont :
 
 <i>a</i>. Le jeûne temporaire se présente brièvement sous six formes : 1. sous forme de ligne [^470] ; 2. sous forme de carré ; 3. sous forme de cube ; 4. à une puissance six ; 5. à une puissance douzième ; 6. de toute disposition. Le jeûne temporaire (peut être pratiqué) pour différents objets que l’on a en tête. (10, 11)
 
-<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 <i>b</i>. Le jeûne qui précède la mort est de deux sortes selon les mouvements du corps : avec changement (de position) et sans changement. (12)
 
@@ -68,7 +68,7 @@ Et encore, c'est double : admettre le soulagement [^471], ou non ; on peut soit 
 
 <i>b</i>. (Lieu signifie) un village, une ville franche [^473], une capitale, un camp de marchands [^474], une mine, une colonie d'une tribu sauvage [^475], un endroit avec un mur de terre [^476], une ville pauvre [^477], une ville avec un port [^478], une grande ville [^479], une ville isolée [^480] et une ville ouverte [^481]. (16)
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 Dans un ermitage, un vihâra [^482], une halte pour procession [^483], un lieu de repos pour voyageurs [^484], une station de bergers, un camp sur une hauteur, un camp de caravane, un lieu de refuge fortifié. (17)
 
@@ -82,7 +82,7 @@ Ou s'il collecte l'aumône dans une partie du troisième Paurushî, ou dans son 
 
 <i>d</i>. L'abstinence, en référence à l'état d'esprit, est observée par celui qui accepte l'aumône d'une femme ou d'un homme, d'une personne parée ou non, de tout âge, de tout vêtement, de tout tempérament ou de toute couleur : si cette personne ne change pas de disposition ou de condition [^486]. (22, 23)
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 <i>e</i>. Un moine qui observe l'abstinence selon les détails qui ont été énumérés concernant la substance, le lieu, le temps et l'état d'esprit, observe également l'abstinence concernant le développement [^487]. (24)
 
@@ -92,7 +92,7 @@ Ou s'il collecte l'aumône dans une partie du troisième Paurushî, ou dans son 
 
 5\. La mortification de la chair consiste en différentes postures comme Virâsana, etc., qui profitent à l'âme et qui sont difficiles à exécuter. (27)
 
-6\. Utiliser des logements et des lits non fréquentés consiste à vivre et à dormir dans des endroits séparés et <span id="p179">[<sup><small>p. 179</small></sup>]</span> peu fréquentés, où il n'y a ni femmes ni bétail. (28)
+6\. Utiliser des logements et des lits non fréquentés consiste à vivre et à dormir dans des endroits séparés et <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> peu fréquentés, où il n'y a ni femmes ni bétail. (28)
 
 Ainsi, les austérités externes ont été brièvement expliquées ; je vais maintenant expliquer les austérités internes dans l’ordre. (29)
 
@@ -116,7 +116,7 @@ Les austérités internes sont :
 
 3\. Il y a dix [^492] sortes de services, comme servir l'Â<i>k</i>ârya, etc. [^493] ; rendre service consiste à apporter son aide du mieux que l'on peut. (33)
 
-4\. L'étude est quintuple : 1. dire ou apprendre sa leçon ; 2. (interroger le professeur à ce sujet) ; 3. répéter ; 4. méditer ; 5. tenir un discours religieux. (34) <span id="p180">[<sup><small>p. 180</small></sup>]</span> 5\. S'abstenant de méditer sur des choses pénibles et pécheresses [^494], on devrait, l'esprit recueilli, s'engager dans de pures méditations sur la Loi ; c'est ce que les sages appellent méditation. (35)
+4\. L'étude est quintuple : 1. dire ou apprendre sa leçon ; 2. (interroger le professeur à ce sujet) ; 3. répéter ; 4. méditer ; 5. tenir un discours religieux. (34) <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> 5\. S'abstenant de méditer sur des choses pénibles et pécheresses [^494], on devrait, l'esprit recueilli, s'engager dans de pures méditations sur la Loi ; c'est ce que les sages appellent méditation. (35)
 
 6\. Si un moine reste immobile lorsqu'il est couché, assis ou debout, cela s'appelle l'abandon du corps, qui est la sixième sorte (d'austérités internes). (36)
 

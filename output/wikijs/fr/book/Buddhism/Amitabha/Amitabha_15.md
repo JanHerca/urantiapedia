@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 Charaka retrouva peu à peu, non sans difficultés, l'équilibre mental que son ami Kanishka semblait posséder naturellement. Il confia son cœur au saint vieillard et finit par se convaincre qu'il n'était pas fait pour être moine et que ses devoirs, selon ses dispositions, se situaient dans d'autres domaines.
 
@@ -40,7 +40,7 @@ Entre-temps, le roi Kanishka avait envoyé un messager à Matura, son chancelier
 
 La princesse Kamalavatî arriva, et lorsque ses fiançailles avec Charaka furent annoncées, les heureux événements de notre histoire atteignirent leur paroxysme. Açvaghosha célébra les noces des deux couples, Kanishka avec Bhadraçrî, et Charaka avec Kamalavatî ; il leur lut ensuite la célèbre strophe du Dhammapada :
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 « Ce qui est doux au monde, c’est la paternité,
  Et la maternité est douce ;
@@ -60,7 +60,7 @@ Lorsque ses amis le félicitèrent, il répondit : « Ma science n'est qu'un dé
 
 Mais plus grande que les plus grandes prouesses d'invention sera l'application de la maxime de bienveillance du Seigneur Bouddha dans tous les domaines des relations humaines, dans la vie familiale, en politique, dans le travail et les affaires sociales, dans nos relations avec nos amis et nos ennemis, avec les animaux, et même avec les dégénérés et les criminels. L'éveil de nos âmes est primordial. C'est pourquoi nous louons le Tathâgata par-dessus tout.
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 « Le soleil brille dans toute sa splendeur pendant le jour
  Et l'éclat de la lune brille la nuit,

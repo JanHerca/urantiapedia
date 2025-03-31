@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T18:54:30Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 Quand le soleil qui illumine le monde s'est précipité
 dans la nuit comme un brigand,
@@ -44,7 +44,7 @@ Il a semé un vers et a récolté une épée.
 Dans le sol, il a planté seulement la graine de mes larmes
 Et j'ai tissé ma plainte avec le jardin, comme chaîne et trame.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 Bien que je ne sois qu’un grain de poussière, le soleil radieux est à moi :
 <span id="v10"><sup><small>10</small></sup></span> Dans mon sein il y a cent aurores.
@@ -59,7 +59,7 @@ J'ai frappé les cordes du cœur de tous ceux qui m'ont entendu,
 Parce que le luth de mon génie a une mélodie rare :
 <span id="v20"><sup><small>20</small></sup></span> Même pour les camarades ma chanson est étrange.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 Je suis né dans le monde comme un nouveau soleil,
 Je n'ai pas appris les voies et les modes du ciel :
@@ -76,7 +76,7 @@ Oh, heureux ceux qui adoreront mon feu !
 Je n'ai pas besoin de l'oreille d'Aujourd'hui,
 Je suis la voix du poète de Demain.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 <span id="v35"><sup><small>35</small></sup></span> Mon propre âge ne comprend pas mes significations profondes,
 Mon Joseph n'est pas pour ce marché.
@@ -93,7 +93,7 @@ Quand les roses fleurissaient sur la terre de sa tombe !
 Bien que des caravanes aient traversé ce désert,
 Ils passèrent, comme un chameau passe, sans bruit.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Mais je suis un amoureux : les grands cris sont ma foi :
 <span id="v50"><sup><small>50</small></sup></span> La clameur du Jour du Jugement est l'un de mes serviteurs.
@@ -109,7 +109,7 @@ Les éclairs sommeillent dans mon âme,
 <span id="v60"><sup><small>60</small></sup></span> Je balaie la montagne et la plaine.
 Lutte avec ma mer, si tu es une plaine ;
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Reçois mon éclair, si tu es un Sinaï.
 La fontaine de vie m'a été donnée à boire,
@@ -124,7 +124,7 @@ Le vieux gourou du ciel m'a enseigné cette tradition,
 Je ne peux pas le cacher à mes camarades.
 Ô Saki ! lève-toi et verse du vin dans la coupe,
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 Élimine la vexation du Temps de mon cœur !
 <span id="v75"><sup><small>75</small></sup></span> La liqueur pétillante qui coule de Zemzem— [^24]
@@ -140,7 +140,7 @@ Il rend le pied de la perdrix rouge du sang de l'épervier.
 <span id="v85"><sup><small>85</small></sup></span> Lève-toi et verse du vin pur dans ma coupe,
 Verse des rayons de lune dans la nuit noire de ma pensée,
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 Que je puisse ramener le vagabond à la maison
 Et imprègne le spectateur oisif d'une impatience inquiète ;
@@ -155,7 +155,7 @@ Je répète le livre scellé des traditions secrètes.
 Son âme est la source des flammes,
 Je ne suis qu'une étincelle qui brille un instant.
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Sa bougie allumée m'a consumé, le papillon ;
 <span id="v100"><sup><small>100</small></sup></span> Son vin a submergé mon verre.
@@ -171,7 +171,7 @@ Puisera la vie du souffle de ses paroles.
 C'était la nuit : mon cœur voudrait se lamenter,
 <span id="v110"><sup><small>110</small></sup></span> Le silence était rempli de mes cris à Dieu.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 Je me plaignais des chagrins du monde
 Et déplorant le vide de ma coupe.
@@ -188,7 +188,7 @@ Fais saigner le cœur des hommes avec tes larmes !
 Combien de temps resteras-tu silencieux, comme un bourgeon ?
 Vends ton parfum bon marché, comme la rose !
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 <span id="v125"><sup><small>125</small></sup></span> La langue liée, tu souffres :
 Jette-toi sur le feu, comme la rue ! [^27]
@@ -205,7 +205,7 @@ Donnez à Majnún un message de Lailá ! [^29]
 Crée un nouveau style pour ta chanson,
 Enrichis le festin avec tes accords perçants !
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Debout, et réinspire chaque âme vivante !
 <span id="v140"><sup><small>140</small></sup></span> Dites « Lève-toi ! » et par ce mot vivifiez les vivants !
@@ -226,7 +226,7 @@ Débraillé, sans valeur, bon à rien.
 L'amour m'a ciselé : je suis devenu un homme
 Et j'ai acquis la connaissance de la nature de l'univers.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 <span id="v155"><sup><small>155</small></sup></span> J'ai vu le mouvement des tendons du ciel,
 Et le sang qui coule dans les veines de la lune.
@@ -243,7 +243,7 @@ Il a récolté une centaine de poètes comme Rúmí et Attar.
 Je suis un soupir : je monterai aux cieux ;
 Je suis un souffle, et pourtant je suis issu du feu.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 Poussée en avant par de hautes pensées, ma plume
 <span id="v170"><sup><small>170</small></sup></span> Jette au loin le secret de ce voile,
@@ -258,7 +258,7 @@ Ne me demandez pas Khansar et Ispahan. [^30]
 Bien que la langue de Hind soit douce comme le sucre,
 <span id="v180"><sup><small>180</small></sup></span> Encore plus douce est la manière de parler persan.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Mon esprit était enchanté par sa beauté,
 Ma plume est devenue comme une brindille du buisson ardent.

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 
 De Vaisali, le Maître se rendit à Cravasti, au parc de Jeta. Un jour, le roi Prasenajit vint le voir. « Mon Seigneur », dit le roi, « six ermites sont récemment arrivés à Cravasti. Ils ne croient pas en votre loi. Ils prétendent que votre savoir n'est pas égal au leur, et ils ont tenté de m'étonner en accomplissant de nombreux prodiges. Je crois leurs déclarations fausses, mais il serait bon, mon Seigneur, que vous confondiez leur audace. Le salut du monde dépend de votre gloire. Alors, présentez-vous devant ces tricheurs et imposteurs et réduisez-les au silence. »
@@ -55,7 +55,7 @@ Alors Kala commença à chanter :
 
 Comment le Maître des mondes pourrait-il ne pas voir ma misère ? Adorons le Seigneur qui ne connaît plus le désir ; adorons le Bienheureux qui a pitié de toutes les créatures.
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 Ananda apparut soudainement devant lui.
 
@@ -87,7 +87,7 @@ Les ermites furent alarmés. Voyant le roi les regarder avec mépris, ils baiss�
 
 Soudain, le toit de la salle disparut, et sur le dôme du ciel, s'étendant d'est en ouest, le Maître traça une route qu'il entreprit de parcourir. À la vue de ce prodige, son rival le plus insolent s'enfuit, terrifié. L'ermite s'imagina poursuivi par une meute hurlante, et il ne cessa de courir jusqu'au bord d'un étang. Là, il attacha une pierre à son cou et se jeta à l'eau. Un pêcheur retrouva son corps le lendemain.
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 Entre-temps, le Maître avait créé un être à son image et, avec lui, il marchait désormais sur le chemin céleste. Et sa voix puissante se fit entendre :
 

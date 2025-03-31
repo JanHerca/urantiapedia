@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 ## PRAPÂ_TH_AKA IV, KÂ_N__D_IKÂ 1.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. Et ayant placé les Avadânas sur une couche (d'herbe) sur laquelle des branches du Plaksha (arbre) ont été étendues,
 
-10\. [^353] Il coupe (les portions prescrites) des <span id="p102">[<sup><small>p. 102</small></sup>]</span> Avadânas de la manière prescrite pour les Sthâlîpâkas, (et met ces portions) dans (un autre) récipient d'airain ;
+10\. [^353] Il coupe (les portions prescrites) des <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> Avadânas de la manière prescrite pour les Sthâlîpâkas, (et met ces portions) dans (un autre) récipient d'airain ;
 
 11\. Et (la portion) pour l'oblation Svish<i>t</i>ak<i>t</i>t séparément.
 
@@ -74,7 +74,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 19\. Ou il devrait sacrifier un Sthâlîpâka.
 
-20\. [^354] Ou il devrait offrir de la nourriture à une vache. <span id="p103">[<sup><small>p. 103</small></sup>]</span>
+20\. [^354] Ou il devrait offrir de la nourriture à une vache. <span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 21\. [^355] Ou bien il devrait brûler des broussailles dans la forêt et dire : « Ceci est mon Ash<i>t</i>akâ. »
 
@@ -101,7 +101,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. [^357] Dans la partie nord de cette enceinte, ils font le Laksha<i>n</i>a et portent le feu (à cet endroit).
 
-9\. À l'ouest du feu, il place un mortier fermement en place et décortique, la main gauche en l'air, une poignée de grains de riz qu'il a saisis d'une seule main. <span id="p104">[<sup><small>p. 104</small></sup>]</span>
+9\. À l'ouest du feu, il place un mortier fermement en place et décortique, la main gauche en l'air, une poignée de grains de riz qu'il a saisis d'une seule main. <span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 10\. Lorsque (le riz) a été décortiqué,
 
@@ -123,7 +123,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 19\. Après avoir porté le feu autour des fosses du côté ouest, il doit le déposer sur le Laksha<i>n</i>a.
 
-20\. Il répand (autour du feu) une poignée d'herbe Darbha qu'il a coupée en une seule portion. <span id="p105">[<sup><small>p. 105</small></sup>]</span>
+20\. Il répand (autour du feu) une poignée d'herbe Darbha qu'il a coupée en une seule portion. <span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 21\. Et (il le jette dans) les fosses,
 
@@ -149,7 +149,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 32\. [^366] Et un morceau de ruban de lin.
 
-33\. [^367] Après avoir invité un nombre impair de Brâhmanes irréprochables, dont les visages doivent être tournés vers le nord, à s'asseoir sur un endroit pur, <span id="p106">[<sup><small>p. 106</small></sup>]</span>
+33\. [^367] Après avoir invité un nombre impair de Brâhmanes irréprochables, dont les visages doivent être tournés vers le nord, à s'asseoir sur un endroit pur, <span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 34\. [^368] Et leur a donné de l'herbe Darbha (afin qu'ils puissent s'asseoir dessus),
 
@@ -168,7 +168,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 3.
 
@@ -200,7 +200,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 14\. Après avoir touché l'eau, il fait de même pour les deux autres.
 
-15\. [^379] De même (il offre) l'huile (aux pères) ; <span id="p109">[<sup><small>p. 109</small></sup>]</span>
+15\. [^379] De même (il offre) l'huile (aux pères) ; <span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 16\. [^380] De la même manière le parfum.
 
@@ -240,7 +240,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 34\. Ou il devrait les donner à une vache.
 
-35\. [^385] À l'occasion d'un événement heureux (comme la naissance d'un fils, etc.) ou d'une œuvre méritoire (comme la consécration d'un étang ou d'un jardin), il devrait donner de la nourriture à un nombre pair (de Brâhma<i>n</i>as). <span id="p111">[<sup><small>p. 111</small></sup>]</span>
+35\. [^385] À l'occasion d'un événement heureux (comme la naissance d'un fils, etc.) ou d'une œuvre méritoire (comme la consécration d'un étang ou d'un jardin), il devrait donner de la nourriture à un nombre pair (de Brâhma<i>n</i>as). <span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 36\. [^386] Le rite (est exécuté) de gauche à droite.
 
@@ -260,7 +260,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 5\. [^389] Le Havis est préparé (par celui qui a installé les feux sacrés <i>S</i>rauta) dans le Dakshi<i>n</i>âgni (c'est-à-dire dans celui des trois feux qui est situé vers le sud).
 
-6\. Et du même (feu est pris le feu qui) <span id="p112">[<sup><small>p. 112</small></sup>]</span> est transporté (afin d'être utilisé lors des cérémonies).
+6\. Et du même (feu est pris le feu qui) <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> est transporté (afin d'être utilisé lors des cérémonies).
 
 7\. Dans le feu domestique (le Havis est préparé) par celui qui n'a pas allumé les feux (<i>S</i>rauta).
 
@@ -308,7 +308,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 29\. [^403] Et il doit offrir (Â<i>d</i>ya) à Sîtâ, Â<i>d</i>â, Ara<i>d</i>â, Anaghâ.
 
-30\. Les mêmes divinités (reçoivent des offrandes) au <span id="p114">[<sup><small>p. 114</small></sup>]</span> sacrifice du sillon, au sacrifice de l'aire de battage, aux semailles, à la récolte et à la mise de la récolte dans le grenier.
+30\. Les mêmes divinités (reçoivent des offrandes) au <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> sacrifice du sillon, au sacrifice de l'aire de battage, aux semailles, à la récolte et à la mise de la récolte dans le grenier.
 
 31\. Et sur les taupinières, il sacrifierait au roi des taupes.
 
@@ -327,7 +327,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. Et, selon certains (enseignants), également lors (des sacrifices) décrits ci-dessus (les rites suivants devraient être accomplis).
 
-3\. Il doit toucher la terre, à l'ouest du feu, les deux mains tournées vers le bas, avec (le verset) : « Nous partageons la terre » (MB. II, 4, 1). <span id="p115">[<sup><small>p. 115</small></sup>]</span>
+3\. Il doit toucher la terre, à l'ouest du feu, les deux mains tournées vers le bas, avec (le verset) : « Nous partageons la terre » (MB. II, 4, 1). <span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 4\. Dans la nuit (il prononce ce Mantra de sorte qu'il se termine par le mot) « biens » (vasu), dans la journée (de sorte qu'il se termine) par « richesse » (dhanam).
 
@@ -341,7 +341,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. [^407] Lorsqu'il entreprend des cérémonies pour l'obtention de souhaits spéciaux, qu'il jeûne pendant trois (jours et) nuits,
 
-10\. [^408] Ou (qu'il omette) trois repas. <span id="p116">[<sup><small>p. 116</small></sup>]</span>
+10\. [^408] Ou (qu'il omette) trois repas. <span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 11\. [^409] Toutefois, lors de cérémonies qui se répètent régulièrement, (qu'il le fasse seulement) avant leur première représentation.
 
@@ -357,7 +357,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 17\. Dans les deux sens, si vous désirez les deux.
 
-18\. Celui qui désire que son cheptel augmente, doit offrir un sacrifice de riz et d'orge <span id="p117">[<sup><small>p. 117</small></sup>]</span> avec (le verset) : « Celui qui a mille bras, le protecteur des gardiens de vaches » (MB. II, 4, 7).
+18\. Celui qui désire que son cheptel augmente, doit offrir un sacrifice de riz et d'orge <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> avec (le verset) : « Celui qui a mille bras, le protecteur des gardiens de vaches » (MB. II, 4, 7).
 
 19\. Après avoir murmuré le verset Kautomata (ibid. 8) sur les fruits d'un grand arbre, il devrait leur donner—
 
@@ -381,7 +381,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 29\. Maintenant (suit) une autre (cérémonie avec les mêmes cinq versets).
 
-30\. Avec le premier (verset) celui qui désire la jouissance (des richesses), devrait adorer le soleil, en vue de (cette) personne riche en richesse (de <span id="p118">[<sup><small>p. 118</small></sup>]</span> dont il espère obtenir la richesse) ; alors il obtiendra la richesse.
+30\. Avec le premier (verset) celui qui désire la jouissance (des richesses), devrait adorer le soleil, en vue de (cette) personne riche en richesse (de <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> dont il espère obtenir la richesse) ; alors il obtiendra la richesse.
 
 31\. Avec le deuxième (verset), celui qui désire que son stock de chevaux et d'éléphants augmente, devrait sacrifier des grains frits, tandis que le soleil a un halo.
 
@@ -407,7 +407,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. [^417] Le septième (verset) est : « Celle qui traverse » (MB. I, 5, 6).
 
-7\. [^418] (Suivez ensuite) les versets du Vâmadevya, <span id="p119">[<sup><small>p. 119</small></sup>]</span>
+7\. [^418] (Suivez ensuite) les versets du Vâmadevya, <span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 8\. (Et) les Mahâvyâh<i>ri</i>tis.
 
@@ -421,7 +421,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 13\. [^420] Celui qui désire gagner cent charretées (d'or) doit garder le vœu (de jeûne) pendant une quinzaine et doit, le premier jour d'une quinzaine sombre, nourrir les Brâhma<i>n</i>as avec du riz au lait bouilli préparé avec un Kâ<i>n</i>sa de riz.
 
-14\. [^421] Au crépuscule du soir (de chaque jour de cette quinzaine), ayant quitté le village en direction de l'ouest, et ayant mis du bois sur le feu à un endroit où <span id="p120">[<sup><small>p. 120</small></sup>]</span> quatre routes se rencontrent, il devrait sacrifier les petits grains (de ce riz), tournant son visage vers le soleil, avec (les mots) : « À Bhala Svâhâ ! À Bhala Svâhâ ! » (ibid. 17. 18).
+14\. [^421] Au crépuscule du soir (de chaque jour de cette quinzaine), ayant quitté le village en direction de l'ouest, et ayant mis du bois sur le feu à un endroit où <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> quatre routes se rencontrent, il devrait sacrifier les petits grains (de ce riz), tournant son visage vers le soleil, avec (les mots) : « À Bhala Svâhâ ! À Bhala Svâhâ ! » (ibid. 17. 18).
 
 15\. (Il devrait répéter ces rites) de la même manière les deux prochaines quinzaines sombres.
 
@@ -451,7 +451,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 10\. (Sol couvert) de grandes variétés d'herbe, par celui qui désire la force,
 
-11\. (Sol couvert) d'herbe tendre, par celui qui désire du bétail. <span id="p121">[<sup><small>p. 121</small></sup>]</span>
+11\. (Sol couvert) d'herbe tendre, par celui qui désire du bétail. <span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 12\. (L'emplacement de la maison) devrait avoir la forme d'une brique,
 
@@ -471,7 +471,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 20\. La porte de la maison.
 
-21\. Afin qu'il ne soit pas exposé aux regards. <span id="p122">[<sup><small>p. 122</small></sup>]</span>
+21\. Afin qu'il ne soit pas exposé aux regards. <span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 22\. [^424] « Qu'il évite un arbre Asvattha du côté est (de sa maison), un Plaksha du côté sud, un Nyagrodha du côté ouest et un Udumbara du côté nord.
 
@@ -485,7 +485,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 27\. [^427] Qu'il mette du bois sur le feu au milieu de la maison, et qu'il sacrifie une vache noire,
 
-28\. Ou une chèvre blanche, <span id="p123">[<sup><small>p. 123</small></sup>]</span>
+28\. Ou une chèvre blanche, <span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 29\. (L'un ou l'autre) avec du riz au lait.
 
@@ -511,7 +511,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 40\. Dans l'ordre, sans transposition.
 
-41\. (Il devrait offrir un Bali) à l'est avec (la formule), '(Adoration) à Indra !' dans la direction intermédiaire — 'À Vâyu !' au sud — 'À Yama !' dans la direction intermédiaire — '(Svadhâ) aux Pères !' à l'ouest — '(Adoration) à Varu<i>n</i>a !' dans la direction intermédiaire — 'À Mahârâ<i>n</i>a !' au nord — 'À Soma !' dans la direction intermédiaire — 'À Mahendra !' vers le bas — <span id="p124">[<sup><small>p. 124</small></sup>]</span> 'À Vâsuki !' vers le haut, dans le ciel (c'est-à-dire en jetant le Bali en l'air), avec (la formule), 'Adoration à Brahman !'
+41\. (Il devrait offrir un Bali) à l'est avec (la formule), '(Adoration) à Indra !' dans la direction intermédiaire — 'À Vâyu !' au sud — 'À Yama !' dans la direction intermédiaire — '(Svadhâ) aux Pères !' à l'ouest — '(Adoration) à Varu<i>n</i>a !' dans la direction intermédiaire — 'À Mahârâ<i>n</i>a !' au nord — 'À Soma !' dans la direction intermédiaire — 'À Mahendra !' vers le bas — <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> 'À Vâsuki !' vers le haut, dans le ciel (c'est-à-dire en jetant le Bali en l'air), avec (la formule), 'Adoration à Brahman !'
 
 42\. À l'est, vers le haut et vers le bas, cela doit être fait constamment, jour après jour.
 
@@ -530,7 +530,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. [^432] (En marchant ?) vers le côté, (il devrait offrir un Bali) aux hôtes des autres êtres, en regardant vers le bas.
 
-5\. [^433] De retour (au feu) sans regarder en arrière, il devrait, avec les personnes appartenant à sa <span id="p125">[<sup><small>p. 125</small></sup>]</span> famille, dans la mesure où elles ont été initiées (par l'Upanayana), manger les grains frits.
+5\. [^433] De retour (au feu) sans regarder en arrière, il devrait, avec les personnes appartenant à sa <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> famille, dans la mesure où elles ont été initiées (par l'Upanayana), manger les grains frits.
 
 6\. (Cette cérémonie) procure le bonheur.
 
@@ -548,7 +548,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 13\. Maintenant une autre cérémonie (effectuée avec le même verset).
 
-14\. Après être sorti du village en direction de l'est ou du nord, il doit, à un endroit où quatre routes se croisent, ou sur une montagne, mettre le feu à une surface élevée, constituée de crottes de bêtes de la forêt, balayer les braises et faire une oblation de beurre (sur cette surface) avec sa bouche, en répétant ce mantra mentalement. <span id="p126">[<sup><small>p. 126</small></sup>]</span>
+14\. Après être sorti du village en direction de l'est ou du nord, il doit, à un endroit où quatre routes se croisent, ou sur une montagne, mettre le feu à une surface élevée, constituée de crottes de bêtes de la forêt, balayer les braises et faire une oblation de beurre (sur cette surface) avec sa bouche, en répétant ce mantra mentalement. <span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 15\. Si (cette oblation de beurre) prend feu, douze villages (seront à lui).
 
@@ -576,7 +576,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 9.
 
@@ -596,7 +596,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. Sur une route dangereuse, qu'il fasse des nœuds aux pans de ses vêtements (de lui-même et de ses compagnons),
 
-9\. S'approcher de ceux (des voyageurs) qui portent des vêtements (avec des jupes). <span id="p128">[<sup><small>p. 128</small></sup>]</span>
+9\. S'approcher de ceux (des voyageurs) qui portent des vêtements (avec des jupes). <span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 10\. (Qu'il le fasse avec les trois formules, MB. II, 6, 13-15) avec le mot Svâhâ à la fin de chacune.
 
@@ -616,7 +616,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 18\. Cela lui portera chance.
 
-19\. (Les versets), « Ton ver est tué par Atri » (MB. II, 7, 1-4), il devrait murmurer, en aspergeant d'eau un endroit où il a un ver. <span id="p129">[<sup><small>p. 129</small></sup>]</span>
+19\. (Les versets), « Ton ver est tué par Atri » (MB. II, 7, 1-4), il devrait murmurer, en aspergeant d'eau un endroit où il a un ver. <span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 20\. S'il a l'intention de faire cela pour le bétail, il devra aller chercher dans l'après-midi une motte de terre prélevée dans un sillon et la déposer à l'air libre.
 
@@ -634,7 +634,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. Ou quand ils l'exécutent.
 
-5\. Qu'ils annoncent trois fois (à l'invité) séparément (chacune des choses suivantes qui lui sont <span id="p130">[<sup><small>p. 130</small></sup>]</span> apportées) : un lit (d'herbe pour s'asseoir), de l'eau pour se laver les pieds, de l'eau d'Argha, de l'eau à siroter et du Madhuparka (c'est-à-dire un mélange de ghee, de caillé et de miel).
+5\. Qu'ils annoncent trois fois (à l'invité) séparément (chacune des choses suivantes qui lui sont <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> apportées) : un lit (d'herbe pour s'asseoir), de l'eau pour se laver les pieds, de l'eau d'Argha, de l'eau à siroter et du Madhuparka (c'est-à-dire un mélange de ghee, de caillé et de miel).
 
 6\. Qu'il étende le lit (d'herbe, de sorte que les pointes de l'herbe soient) tournées vers le nord, avec (le verset) « Les herbes qui » (MB. II, 8, 3), et qu'il s'assoie dessus ;
 
@@ -654,7 +654,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 14\. Il devrait accepter le Madhuparka avec (la formule) : « Tu es la gloire de la gloire » (ibid. 11).
 
-15\. [^448] Qu'il en boive trois fois avec (la formule <span id="p131">[<sup><small>p. 131</small></sup>]</span> qu'il répète trois fois), « Tu es la nourriture de la gloire ; tu es la nourriture de la puissance ; tu es la nourriture de la félicité ; accorde-moi la félicité » (MB. II, 8, 12) ;
+15\. [^448] Qu'il en boive trois fois avec (la formule <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> qu'il répète trois fois), « Tu es la nourriture de la gloire ; tu es la nourriture de la puissance ; tu es la nourriture de la félicité ; accorde-moi la félicité » (MB. II, 8, 12) ;
 
 16\. [^449] Silencieusement une quatrième fois.
 
@@ -670,7 +670,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 22\. (Il devrait dire) : « Préparez-le », s'il s'agit d'un sacrifice.
 
-23\. Il y a six personnes à qui la réception d'Arghya est due, (à savoir), <span id="p132">[<sup><small>p. 132</small></sup>]</span>
+23\. Il y a six personnes à qui la réception d'Arghya est due, (à savoir), <span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 24\. [^452] Un enseignant, un prêtre officiant, un Snâtaka, un roi, le beau-père, un ami venant en invité.
 

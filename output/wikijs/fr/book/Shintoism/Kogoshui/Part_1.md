@@ -42,7 +42,7 @@ _E.TN_—Traduction anglaise du _Nihongi_ par WG Aston
 _E.TK_—Traduction anglaise du _Kojiki_ par BH Chamberlain
 _T.ASJ_—_Transactions de la Société asiatique du Japon_
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## CHAPITRE l
 
@@ -64,7 +64,7 @@ Seuls les sanctuaires étroitement liés à la famille Nakatomi bénéficiaient 
 
 En substance, le Kogoshūi est principalement une protestation écrite par Imbe-no-Hironari contre une famille rivale. On peut donc supposer que l'ouvrage respire la rivalité et la jalousie (p. 4), ce qui, à certains égards, est indéniable. Par exemple, dans le Kogoshūi, le rôle joué par Takami-Musubi-no-Kami est assez important dans la question des Commandements Divins du Ciel Élevé, aux côtés d'Amaterasu-Ō-Mikami, tandis que le Nihongi adresse ces commandements uniquement à Amaterasu-Ō-Mikami. Pourquoi ? Takami-Musubi-no-Kami étant considéré comme l'ancêtre divin de la famille Imbe, il est raisonnable de supposer qu'Imbe-no-Hironari souhaitait revendiquer pour son propre ancêtre divin Takami-Musubi-no-Kami la même haute position que celle de la divine ancêtre impériale Amaterasu-Ō-Mikami elle-même. C'est pourquoi Nasa (ou Kusakabe-Katsutaka) publia sa contradiction avec le récit de Kogoshūi sous le titre de Gisai ou Mon incapacité à être d'accord avec Imbe-no-Hironari (c'est-à-dire, en bref, Critique de Kusakabe sur le Kogoshūi d'Imbe-no-Hironari). Français En même temps, il faut se rappeler que le Kogoshūi relate une tradition spécialement transmise et préservée par la famille Imbe, tout comme le Nihongi préserve diverses traditions comme différentes versions d'un même événement, et on peut donc raisonnablement conclure que la valeur du Kogoshūi est égale à celle des archives familiales préservées par la famille Takahashi, la famille Hata,[^1] et ainsi de suite. De ce point de vue, il apparaît que Moto-Ori et Hirata sympathisent grandement avec l'attitude d'Imbe-no-Hironari et sont contre l'auteur Kusakabe (_Vide_ Moto-Ori, Le Gisai-Ben. Les Œuvres complètes_, édition japonaise, vol. V, pp. 1445-1447).
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 ## CHAPITRE III
 
@@ -150,10 +150,10 @@ Le début du IXe siècle fut une époque où la culture chinoise acquit une gran
 
 ## Notes de bas de page
 
-[^1]: Par exemple, le _Takahashi-Ujibumi_, le _Hata-Uji-no-Honkeichō_, _etc_. <span id="p4">[<sup><small>p. 4</small></sup>]</span>
+[^1]: Par exemple, le _Takahashi-Ujibumi_, le _Hata-Uji-no-Honkeichō_, _etc_. <span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
-[^2] : _Eurya Ochnacea Szyse_ (_Cleyera Japonica_). Cet arbre est toujours vénéré comme sacré par les dieux du shintoïsme. Certains commentateurs pensent que « sakaki » était un nom donné à l'origine à tous les conifères. <span id="p7">[<sup><small>p. 7</small></sup>]</span>
+[^2] : _Eurya Ochnacea Szyse_ (_Cleyera Japonica_). Cet arbre est toujours vénéré comme sacré par les dieux du shintoïsme. Certains commentateurs pensent que « sakaki » était un nom donné à l'origine à tous les conifères. <span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
-[^3] : _Vide_ WG Aston. _E.TN_, vol. I. pp. 43, 44. <span id="p8">[<sup><small>p. 8</small></sup>]</span>
+[^3] : _Vide_ WG Aston. _E.TN_, vol. I. pp. 43, 44. <span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 [^4] : Amatsu-Kami-no-Yogoto autrement appelé « Nakatomi-no-Yogoto » ou « Discours de félicitations de la famille Nakatomi » (_Vide_ Journal de Fujiwara-no-Yorinaga, appelé « Taiki-Bekki » dans l'édition japonaise).

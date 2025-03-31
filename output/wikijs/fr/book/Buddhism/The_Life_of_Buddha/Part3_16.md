@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 
 Le Maître arriva sur les rives du Gange, là où la cité de Pataliputra était en construction. Il s'inclina devant les murs qui commençaient à s'élever et s'exclama :
@@ -43,7 +43,7 @@ Il traversa la rivière. Il partit pour Vaisali, mais au village de Bailva, il t
 
 Une fois rétabli, il sortit de la maison qui l'avait hébergé et prit un siège préparé pour lui près de la porte. Ananda vint s'asseoir à côté de lui.
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 « Mon Seigneur », dit-il, « je vois que vous avez recouvré la santé. Quand je vous ai trouvé si malade, mes forces m'ont abandonné ; j'étais défaillant. Il y a eu des moments où je ne réalisais pas que le Maître était malade. Et pourtant, j'étais rassuré, car je me souvenais que vous n'aviez pas révélé vos intentions concernant la communauté, et je savais que vous n'entreriez pas dans le nirvana sans les avoir révélées au préalable. »
 
@@ -63,7 +63,7 @@ Le soir, il rassembla les moines de Vaisali et leur parla.
 
 Ô moines, conservez précieusement la connaissance que j'ai acquise et que je vous ai enseignée, et marchez sur le droit chemin, afin que la vie de sainteté perdure, pour la joie et le salut du monde, pour la joie et le salut des dieux, pour la joie et le salut de l'humanité. Encore quelques mois, et mon heure viendra ; encore trois mois, et j'entrerai dans le nirvana. Je pars et vous restez. Mais ne cessez jamais de lutter, ô moines. Qui ne trébuche pas sur le chemin de la vérité évite la naissance, évite la mort, et à jamais, évite la souffrance.
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Le lendemain, il erra de nouveau dans la ville, en quête d'aumônes ; puis, avec quelques disciples, il prit la route de Kusinagara, où il avait décidé d'entrer dans le nirvana.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 5, SECTION 14.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. La veille de cet Ash<i>t</i>akâ, sous (le Nakshatra) Anûrâdhâs, l'après-midi, il met du bois sur le feu, étend autour de lui de l'herbe Darbha pointée vers le sud et vers l'est, et retourne le riz de quatre coupes peu profondes sur lesquelles il a déposé un purificateur, avec (le Mantra) : « Je retourne, poussé par le dieu Savit_ri_, ce gâteau préparé avec quatre coupes (de riz), qui peut chasser toute souffrance des Pères dans l'autre monde. Sur l'impulsion du dieu Savit_ri_, avec les bras des deux At<i>t</i>vins, avec les mains de Pûshan, je te retourne, agréable aux pères, aux grands-pères, aux arrière-grands-pères. »
 
-4\. [^686] Avec le même purificateur, il filtre silencieusement l'eau de Proksha<i>d</i>î ; il asperge silencieusement (avec cette eau le riz et les récipients), décortique silencieusement (le riz), le cuit silencieusement dans quatre plats comme un Puro<i>d</i>â<i>d</i>a, l'asperge (Â<i>d</i>ya), le retire du feu, asperge (l'eau) autour (du feu) de droite à gauche, et met un morceau de bois d'Udumbara sur (le feu). Avec la (cuillère appelée) Darvi qui est faite de bois d'Udumbara, il coupe en une ligne continue qui est dirigée vers le sud-est, (les portions Avadâna) <span id="p233">[<sup><small>p. 233</small></sup>]</span> l'un après l'autre, répandant sous eux et aspergeant sur eux (Â<i>d</i>ya), et les sacrifie, l'un après l'autre, en une ligne continue qui est dirigée vers le sud-est, avec (les Mantras) : « Les mortiers, les pierres à presser ont fait leur bruit, préparant l'offrande annuelle. Ekâsh<i>d</i>akâ ! Puissions-nous être riches en descendance, en fils vaillants, les seigneurs de la richesse. Svadhâ ! Adoration !
+4\. [^686] Avec le même purificateur, il filtre silencieusement l'eau de Proksha<i>d</i>î ; il asperge silencieusement (avec cette eau le riz et les récipients), décortique silencieusement (le riz), le cuit silencieusement dans quatre plats comme un Puro<i>d</i>â<i>d</i>a, l'asperge (Â<i>d</i>ya), le retire du feu, asperge (l'eau) autour (du feu) de droite à gauche, et met un morceau de bois d'Udumbara sur (le feu). Avec la (cuillère appelée) Darvi qui est faite de bois d'Udumbara, il coupe en une ligne continue qui est dirigée vers le sud-est, (les portions Avadâna) <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> l'un après l'autre, répandant sous eux et aspergeant sur eux (Â<i>d</i>ya), et les sacrifie, l'un après l'autre, en une ligne continue qui est dirigée vers le sud-est, avec (les Mantras) : « Les mortiers, les pierres à presser ont fait leur bruit, préparant l'offrande annuelle. Ekâsh<i>d</i>akâ ! Puissions-nous être riches en descendance, en fils vaillants, les seigneurs de la richesse. Svadhâ ! Adoration !
 
 Dieu Agni ! Le gâteau préparé avec du ghee et accompagné du mot svadhâ, afin que les Pères puissent se rassasier, porte-le comme il se doit, Agni. Moi, le fils, je sacrifie une oblation à mes pères. Svadhâ ! Adoration !
 
@@ -69,7 +69,7 @@ Dieu Agni ! Le gâteau préparé avec du ghee et accompagné du mot svadhâ, afi
 
 3\. Il asperge (la vache d'eau) avec (les mots) : « Je t'asperge selon la volonté des Pères. »
 
-4\. [^690] Lorsqu'il a été aspergé et que le feu a été <span id="p235">[<sup><small>p. 235</small></sup>]</span> porté autour de lui, ils le tuent à l'ouest du feu, sa tête étant tournée vers l'ouest, ses pieds vers le sud.
+4\. [^690] Lorsqu'il a été aspergé et que le feu a été <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> porté autour de lui, ils le tuent à l'ouest du feu, sa tête étant tournée vers l'ouest, ses pieds vers le sud.
 
 5\. [^691] Après l'avoir tué, il « renforce » silencieusement ses organes sensoriels (en les touchant) avec de l'eau, et retire silencieusement l'épiploon, le cœur et les reins.
 
@@ -79,7 +79,7 @@ Dieu Agni ! Le gâteau préparé avec du ghee et accompagné du mot svadhâ, afi
 
 8\. [^692] Il sacrifie l'épiploon entièrement. Les autres parties (Sûtra 5) il doit les offrir aux Brâhmanes et les nourrir (avec ces parties de la vache).
 
-9\. Lorsque la nourriture (pour les Brâhma<i>n</i>as) est prête, il découpe (les Avadânas) ensemble du mélange de riz bouilli et des morceaux de viande, et les mélangeant avec du beurre clarifié, il en fait des oblations <span id="p236">[<sup><small>p. 236</small></sup>]</span> avec les versets : « Voici l'Ekâsh<i>n</i>akâ, le dispensateur de nourriture avec de la viande et du ghee, (qui est offert) avec (le mot) svadhâ. Par les Brâhma<i>n</i>as, cette nourriture est purifiée. Puisse-t-elle être une (bénédiction) impérissable pour moi ! Svadhâ ! Adoration ! »
+9\. Lorsque la nourriture (pour les Brâhma<i>n</i>as) est prête, il découpe (les Avadânas) ensemble du mélange de riz bouilli et des morceaux de viande, et les mélangeant avec du beurre clarifié, il en fait des oblations <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> avec les versets : « Voici l'Ekâsh<i>n</i>akâ, le dispensateur de nourriture avec de la viande et du ghee, (qui est offert) avec (le mot) svadhâ. Par les Brâhma<i>n</i>as, cette nourriture est purifiée. Puisse-t-elle être une (bénédiction) impérissable pour moi ! Svadhâ ! Adoration ! »
 
 L'Ekâsh<i>t</i>akâ, se consacrant aux austérités, l'épouse de l'année, exubérante (de lait), a versé du lait. Puissiez-vous vivre de ce lait, ô Pères, tous ensemble. Puisse cette (nourriture) être bien offerte et bien sacrifiée par moi ! Svadhâ ! Adoration !
 

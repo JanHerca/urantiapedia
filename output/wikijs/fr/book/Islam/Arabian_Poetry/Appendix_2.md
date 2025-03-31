@@ -52,7 +52,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 137\. Le temps mêle ses malheurs à ses faveurs, et affecte ses enfants de misère au milieu de la joie.
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 138\. Louange à Dieu dont la bienfaisance est à espérer, qu'Il demeure un objet de louange matin et soir !
 

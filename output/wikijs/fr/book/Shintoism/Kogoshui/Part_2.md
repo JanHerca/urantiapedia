@@ -32,11 +32,11 @@ dateCreated: 2025-2-12T22:27:49Z
   </table>
 </figure>
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ## UN ROULEAU DE GLANEMENTS D'HISTOIRES ANCIENNES AINSI QU'UNE PRÉFACE D'IMBE-NO-SUKUNE-HIRONARI, GRADE INFÉRIEUR DU RANG JUNIOR DE LA CINQUIÈME COUR
 
@@ -58,7 +58,7 @@ Une fois tout terminé, ils devaient apporter un magnifique arbre sacré Sakaki,
 
 Français Ame-no-Uzume-no-Mikoto (« uzume » signifie une femme forte et courageuse, et c'est pourquoi une telle femme est encore appelée « osushi », ce qui est identique en signification à « uzume » et ne diffère que par la prononciation) devait ensuite arranger une couronne de fusain et jeter une écharpe faite de lycopode autour de ses épaules, et, tenant de l'herbe de bambou et des feuilles de l'arbre « oke »<a id="fr_20"></a>[20](Part_3#note_20) dans une main et une lance ornée de clochettes tintantes dans l'autre, devait exécuter habilement en compagnie des autres dieux une danse religieuse inspirée, _plaçant une baignoire fond vers le haut_<a id="fr_21"></a>[21](Part_3#note_21) (signifiant un serment) et allumant des feux de joie sacrés, devant la Grotte Rocheuse Céleste.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Ainsi, comme Omoikane-no-Kami l'avait suggéré, ils tentèrent d'abord de construire un miroir, à l'image de la Déesse du Soleil. Mais comme le premier miroir fabriqué par Ishikoritome-no-Kami était légèrement défectueux et donc impropre à l'usage (ce miroir représente la Déité d'Hinokuma, dans la province de Ki-I), un second fut moulé, d'une beauté idéale (ce miroir représente la Déité du sanctuaire d'Ise). Une fois tout cela terminé, Futotama-no-Mikoto récita en prière une liturgie riche en paroles élogieuses :
 
@@ -80,7 +80,7 @@ La Déesse du Soleil, surgissant de la Grotte Rocheuse, illumina le ciel, permet
 
 Alors les deux dieux Ame-no-Koyane-no-Mikoto et Futotama-no-Mikoto supplièrent respectueusement la déesse du soleil de ne plus jamais cacher son visage.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 En guise de punition pour avoir provoqué cette catastrophe, les Dieux infligèrent à Susano-O-no-Kami une lourde amende expiatoire : les cheveux de sa tête, ainsi que les ongles de ses doigts et de ses orteils, lui furent également coupés pour son offense ; et ainsi satisfaits, ils bannirent ce dieu maléfique Susano-O du Ciel. Susano-O-no-Kami descendit ensuite sur les rives de la rivière Hi, dans la province d'Izumo, où, avec son épée céleste à dix branches (l'épée, autrement appelée Ame-no-Hahakiri, est maintenant conservée au sanctuaire d'Isonokami - le mot japonais archaïque pour « serpent » est « haha ​​», de sorte que l'épée Ame-no-Hahakiri signifie l'arme par laquelle le serpent monstrueux fut tué), il tua un serpent à la tête et à la queue à huit fourches, dans la queue de laquelle était dissimulée l'épée divine « Ame-no-Murakumo-no-Tsurugi » ou « l'épée céleste des nuages ​​assemblés » (ainsi nommée, car au-dessus du serpent monstrueux était toujours suspendue une masse de nuages ​​miraculeux. Le prince impérial Yamatotakeru-no-Mikoto, lors de son expédition dans les provinces de l'est, grâce à la vertu miraculeuse de cette même épée divine, échappa de justesse à la stratégie perfide de l'ennemi en fauchant l'herbe de la Dans la nature sauvage de la province de Sagami. À partir de ce moment, grâce à la fuite providentielle du prince, l'épée « Ame-no-Murakumo » fut rebaptisée « Kusanagi-no-Tsurugi », signifiant « Épée qui étouffe les herbes ou qui coupe l'herbe ». Susano-O-no-Kami offrit cette épée aux dieux célestes.
 
@@ -158,13 +158,13 @@ Hiza-to-o-shi
 Yuki no yoroshi mo
 Oo-yo-sogoro-mo_”).
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 Au cours de la sixième année de son règne, le même empereur ayant vénéré les Quatre-Vingt Myriades de Dieux, des sanctuaires furent érigés en l'honneur des Dieux du Ciel et de la Terre, et des terres et des maisons furent allouées au service divin.<a id="fr_76"></a>[76](Part_3#note_76) C'est sous le règne de cet empereur que des impôts réguliers furent pour la première fois imposés aux hommes et aux femmes. Les hommes devaient les payer en présentant le produit de la chasse aux animaux sauvages dans les montagnes et les champs, tandis que les femmes devaient payer au moyen de leur artisanat domestique. Établie une fois pour toutes comme institution d'État, cette ordonnance n'a jamais été abrogée, et nous, Japonais, apportons toujours aux sanctuaires des peaux d'ours et de cerfs, des cornes de cerf et des tissus en offrande, lorsque nous vénérons les dieux.
 
 Français À l'époque où l'empereur (Suinin) régnait au palais Tamaki à Makimuku<a id="fr_77"></a>[77](Part_3#note_77) Sa Majesté nomma Yamato-Hime-no-Mikoto (qui était sa deuxième fille avec son épouse Saho-Hime<a id="fr_78"></a>[78](Part_3#note_78)) pour être la prêtresse impériale gardienne consacrée à Amaterasu-Ō-Mikami, et en obéissance à une révélation divine, elle érigea un sanctuaire à cette déesse près de la rivière Isuzu dans la province d'Ise, et un palais d'abstinence<a id="fr_79"></a>[79](Part_3#note_79) y fut rattaché dans lequel la prêtresse impériale, en tant qu'abbesse consacrée, résidait. Comme ces choses avaient été ordonnées auparavant par Amaterasu-Ō-Mikami et Chimata-no-Kami au Ciel, elles étaient désormais effectivement mises en œuvre sur Terre. Chimata-no-Kami s'était déjà installé à Ise bien avant que cet empereur ne consacre le sanctuaire d'Isuzu à Amaterasu-Ō-Mikami.
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 C'est sous le règne du même empereur que des arcs, des flèches et des épées furent offerts pour la première fois comme offrandes votives aux dieux, et que des terres et des maisons furent à nouveau affectées au service divin.
 
@@ -178,7 +178,7 @@ Le prince Yamatotakeru, de retour triomphal de son expédition orientale, passa 
 
 Sous le règne de l'empereur (Ōjin) au palais Toyoakira de Karushima,<a id="fr_86"></a>[86](Part_3#note_86) le roi<a id="fr_87"></a>[87](Part_3#note_87) de Kudara \[Pèkché\] envoya en tribut à la cour impériale un érudit nommé Wani \[Wang-In\], qui fonda la famille Fumi de rang Obito résidant à Kōchi. Yutsuki,<a id="fr_88"></a>[88](Part_3#note_88) ancêtre de la famille Hata de rang Kimi, fut également naturalisé au Japon, avec un certain nombre de personnes sous ses ordres qui vivaient dans ses cent vingt domaines en Corée. Achi-no-Omi, ancêtre de la famille Aya de rang Atae, arriva au Japon et offrit allégeance à l'Empereur, amenant avec lui dans l'Empire les nombreux habitants de ses dix-sept domaines en Corée. Les immigrants Hata<a id="fr_89"></a>[89](Part_3#note_89) \[Shin ou Chin\] et Aya \[Kan ou Han\], ainsi que ceux de Kudara, furent naturalisés dans ce pays. Chacun de ces groupes comptait des dizaines de milliers de personnes ; néanmoins, il est profondément regrettable que leurs services au Japon n'aient pas encore été publiquement reconnus ; et, plus encore, que l'hommage dû aux esprits divins de leurs ancêtres respectifs ne soit pas encore rendu par les cérémonies religieuses appropriées sous les auspices du gouvernement impérial, bien que leurs sanctuaires respectifs aient été érigés en privé pour le culte de leurs propres descendants.
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Sous le règne de l'empereur (Richū) qui résidait au palais Nochi-no-Iware-Wakasakura<a id="fr_90"></a>[90](Part_3#note_90) à Iware, un Trésor de la Maison Impériale à côté du Trésor Sacré<a id="fr_91"></a>[91](Part_3#note_91) qui avait jusqu'alors été utilisé à la fois pour la Déité et le Souverain fut érigé pour loger la propriété de la Maison Impériale, car depuis la conquête de l'Impératrice Jingō, la Corée avait continué à payer tribut au Japon et, par conséquent, au fil des années, notre richesse nationale avait considérablement augmenté. Achi-no-Omi<a id="fr_92"></a>[92](Part_3#note_92) et le sage érudit Wani de Kudara \[Pèkché\] furent donc nommés officiers enregistreurs chargés des comptes du Trésor, et alors pour la première fois fut établie l'institution d'une corporation héréditaire rattachée aux Trésors.
 
@@ -200,7 +200,7 @@ Troisièmement, autrefois, Amaterasu-Ō-Mikami, symbolisé par le Miroir Sacré,
 
 Quatrièmement, depuis l'Âge Divin, la famille Imbe avait la prérogative sacrée de se voir confier la construction officielle des sanctuaires shintō : ainsi, le chef officiel de la famille Imbe, avec sa parenté des districts de Miki et d'Araka,<a id="fr_123"></a>[123](Part_3#note_123), commença les travaux en abattant des arbres forestiers à l'aide de haches consacrées, retournant le sol avec des pioches consacrées, et acheva l'ensemble de la structure avec l'aide d'artisans. Une fois achevés, les sanctuaires et leurs portes furent consacrés par la famille Imbe selon les rites cérémoniels shintō prescrits,<a id="fr_124"></a>[124](Part_3#note_124) et devinrent ainsi véritablement aptes à servir de demeures divines. En violation de ces chères coutumes et usages shintoïstes, les services de la famille Imbe sont aujourd'hui totalement supprimés, que ce soit pour la reconstruction du sanctuaire d'Ise ou pour l'érection des tabernacles sacrés<a id="fr_125"></a>[125](Part_3#note_125) ou des pavillons pour la fête de la Grande Moisson<a ​​id="fr_126"></a>[126](Part_3#note_126) lors de l'intronisation d'un nouvel empereur. N'est-ce pas une grave injustice envers le privilège ancestral de la famille Imbe ?
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Cinquièmement, l'Ōtonohogai ou cérémonie shintō de bénédiction du Grand Palais et le service religieux pour les dieux gardiens des portes impériales étaient tous deux à l'origine confiés à Futotama-no-Mikoto,<a id="fr_127"></a>[127](Part_3#note_127) il est donc incontestable que seule la famille Imbe devrait bénéficier du privilège hiérarchique séculaire dans les deux cas de culte shintō, tandis que, comme les Nakatomi et les Imbe, qui sont les prêtres officiellement commissionnés du Bureau Shintō, assistaient conjointement aux rites et cérémonies shintō, un officier du Département de la Maison impériale avait l'habitude de se rapporter dans les termes suivants : « Nakatomi et Imbe sont tous deux présents aux Augustes Portes afin de solenniser la cérémonie shintō de bénédiction du Grand Palais. » À l'époque Hōki<a id="fr_128"></a>[128](Part_3#note_128), cependant, c'est Nakatomi-no-Asomi-Tsune, du grade inférieur du cinquième rang junior de la Cour<a id="fr_129"></a>[129](Part_3#note_129) et du troisième rang du Département de la Maison impériale, qui modifia arbitrairement les termes du rapport adressé à l'empereur : « Nakatomi, sous la direction d'Imbe<a id="fr_130"></a>[130](Part_3#note_130) _se trouve désormais aux Portes d'Auguste. » De cette façon, les Imbe, autrefois placés dans une position inférieure à celle des Nakatomi, n'ont jamais retrouvé leur place légitime depuis tout ce temps, en raison des atermoiements et de la négligence des fonctionnaires du Département de la Maison impériale. C'est une chose que je regrette vivement.
 
@@ -248,13 +248,13 @@ Le 13e jour du 2e mois de la 2e année de Daidō.<a id="fr_154"></a>[154](Part_3
 
 ## Notes de bas de page
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 <a id="p16_note_*"></a>
 
 [\*](#p16_fr_*) Les numéros renvoient aux notes de la partie III.
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 <a id="p17_note_*"></a>
 

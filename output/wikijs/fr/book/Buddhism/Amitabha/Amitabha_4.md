@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 « Il y avait à Bénarès un prêtre de la caste des Brahmanes, instruit dans toute la sagesse des Védas, qui n'était pas du type commun des prêtres, mais un honnête chercheur de la vérité. Il aspirait à la paix du cœur et était impatient d'atteindre le Nirvâna ; mais il ne pouvait comprendre comment il était possible d'atteindre la tranquillité parfaite dans la chair, car la vie est agitée et dans aucun des quatre états d'agrégation on ne peut trouver ce calme qui est la condition de l'état de béatitude. Aussi ce prêtre se dit-il : « Avant de pouvoir faire un quelconque progrès, je dois résoudre la question : où cessent complètement les quatre états d'agrégation : l'état solide, l'état aqueux, l'état ardent et l'état aérien ? »
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T11:20:58Z
 
 « Lorsque les quatre grands rois eurent ainsi parlé, le prêtre rendit visite aux dieux des cieux supérieurs et s'approcha de leur souverain, Ishvara. Il posa la même question et reçut la même réponse. Ishvara, le Seigneur, conseilla au prêtre d'aller voir Yâma. « Il est puissant et a la charge des âmes des morts. Il est capable d'être versé dans les problèmes profonds, obscurs, abscons et occultes. Va voir Yâma ; il saura peut-être où les quatre états d'agrégation cessent complètement. »
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 « Le prêtre suivit le conseil d’Ishvara et se rendit chez Yâma, mais le résultat fut le même. Yâma envoya le prêtre vers les dieux satisfaits, dont le chef principal est le Grand Satisfait. « Ce sont les dieux qui sont satisfaits de tout ce qui est. Ce sont les dieux de la sérénité et du contentement. Si quelqu’un peut répondre à votre question, il pourra vous dire où les quatre états d’agrégation cessent complètement. »
 
@@ -71,7 +71,7 @@ dateCreated: 2025-2-6T11:20:58Z
 « Après avoir ainsi parlé, le Bienheureux répondit ainsi : « Il était une fois, ô prêtre, des marchands qui naviguaient sur la mer et qui avaient un oiseau qui voyait la terre ; et quand le navire était au milieu de l’océan, ils lâchaient cet oiseau qui voyait la terre. Cet oiseau vole vers l’est, vers le sud, vers l’ouest, vers le nord et vers les régions intermédiaires ; s’il voit la terre quelque part, il vole vers cette direction, mais s’il ne voit pas la terre, il retourne au navire. De la même manière, ô prêtre, lorsque tu as cherché jusqu’au monde de Brahma et que tu n’as trouvé aucune réponse à ta question, tu es retourné à l’endroit d’où tu étais venu. La question, ô prêtre, n’aurait jamais dû être posée ainsi : Où cessent ces quatre états d’agrégation ? La question devrait être la suivante :
 
 « Oh ! Où peut l’eau, où peut le vent,
- Où le feu et la terre ne trouvent-ils aucun appui ? <span id="p30">[<sup><small>p. 30</small></sup>]</span>
+ Où le feu et la terre ne trouvent-ils aucun appui ? <span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
  Où disparaissent tous les miens et les tien,
  Bon, mauvais, long, court, grossier et fin,
  Et où cessent à la fois le nom et la forme

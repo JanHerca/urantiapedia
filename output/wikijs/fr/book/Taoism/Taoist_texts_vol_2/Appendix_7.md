@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:26Z
   </table>
 </figure>
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 ## JE.
 
@@ -40,7 +40,7 @@ LA TABLETTE DE PIERRE DU TEMPLE DE LÂO-DZE. PAR HSIEH TÂO-HÄNG DE LA DYNASTIE
 
 1\. Après que le Thâi Ki (ou Éther Primordial) ait commencé son action, la période de temps la plus ancienne a commencé à se dérouler.
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 Le rideau du ciel se déploya, et le soleil et la lune y furent suspendus ; la terre aux quatre coins fut établie, et les montagnes et les ruisseaux y prirent place. Alors les influences subtiles (de l'Éther) opéraient comme le souffle du souffle, tantôt s'apaisant, tantôt s'élargissant ; le travail de production se poursuivit selon ses saisons, en haut et en bas ; toutes choses furent formées comme à partir de matériaux, mûrirent et se maintinrent. Là étaient les peuples ; là étaient leurs dirigeants et leurs supérieurs.
 
@@ -52,13 +52,13 @@ Le rideau du ciel se déploya, et le soleil et la lune y furent suspendus ; la t
 
 5\. Kwang Kâu nous dit que, « lorsque Lâo Tan mourut,
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 Khin Shih est allé présenter ses condoléances (à son fils), mais après avoir crié trois fois, il a immédiatement quitté la maison [^548]. C'était ce qu'on appelle la punition pour avoir négligé sa nature céleste (implantée), et bien que cela apparaisse comme l'une des illustrations métaphoriques de l'officier hautain, il y a pourtant une petite indication dans le passage de la réapparition du serpent après avoir jeté ses exuvies [^549].
 
 \[À ce point, l'auteur abandonne le sujet du Tâo et de son prophète, et entame un long panégyrique du fondateur de la dynastie Sui et de ses réalisations. Ce souverain était l'empereur Wän ( ![](/image/book/Taoism/Taoist_texts_vol_2/31500.jpg)) le fondateur de Sui ( ![](/image/book/Taoism/Taoist_texts_vol_2/31501.jpg)), originairement Yang Kien, un rejeton de la Maison de Sui, une principauté dont le nom reste à Sui-kâu, du département de Teh-an dans le Hû Pei. Il était certainement l'homme le plus capable de la Chine de son temps, et mérite une partie des éloges avec lesquels M. Hsieh le célèbre à sa façon extravagante. Il revendique le trône à partir de l'an 581. Tout en faisant honneur au confucianisme, il ne néglige pas les deux autres religions de l'empire, le taoïsme et le bouddhisme ; et après avoir fait réparer en grande pompe le vieux temple de Lâo-dze en 586, il charge Hsieh Tâo-häng de surveiller l'érection d'une tablette de pierre commémorative.
 
-Je passe sur tout cela, qui est longuement relaté, et je donne l'inscription. Elle occupe pas moins de 352 caractères répartis sur 88 vers, chacun composé de quatre caractères. Les vers sont disposés en ce que l'on pourrait appeler onze strophes de longueur égale, les deuxième, quatrième, sixième et huitième vers de chaque strophe riment ensemble. La composition métrique est d'une grande finesse. Dans les six premières strophes, les finales des rimes sont alternées sur le ton pair et sur l'un des tons déviés. Dans les cinq dernières strophes, cet arrangement est inversé. Les rimes des strophes 7, 9 et 11 sont déviées, et celles des strophes 8 et 10 sont paires. La mesure de quatre caractères est la plus courante dans le Shih King ou Livre ancien de poésie. <span id="p316">[<sup><small>p. 316</small></sup>]</span> Ce style est resté populaire jusqu'à la dynastie Thang, après quoi il est tombé en désuétude. Grâce aux nombreuses assonances des caractères chinois et à l'attention portée aux tons, la composition chinoise conserve une grande partie de l'art de la rime, mais relativement peu du génie poétique.
+Je passe sur tout cela, qui est longuement relaté, et je donne l'inscription. Elle occupe pas moins de 352 caractères répartis sur 88 vers, chacun composé de quatre caractères. Les vers sont disposés en ce que l'on pourrait appeler onze strophes de longueur égale, les deuxième, quatrième, sixième et huitième vers de chaque strophe riment ensemble. La composition métrique est d'une grande finesse. Dans les six premières strophes, les finales des rimes sont alternées sur le ton pair et sur l'un des tons déviés. Dans les cinq dernières strophes, cet arrangement est inversé. Les rimes des strophes 7, 9 et 11 sont déviées, et celles des strophes 8 et 10 sont paires. La mesure de quatre caractères est la plus courante dans le Shih King ou Livre ancien de poésie. <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> Ce style est resté populaire jusqu'à la dynastie Thang, après quoi il est tombé en désuétude. Grâce aux nombreuses assonances des caractères chinois et à l'attention portée aux tons, la composition chinoise conserve une grande partie de l'art de la rime, mais relativement peu du génie poétique.
 
 ## II.
 
@@ -87,7 +87,7 @@ Et toutes les anciennes manières harmonieuses.
 Les talents des hommes sont prisés et leur esprit est verni ;
 Les lois affichées ne se sont révélées qu’un filet.
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 Coupes à vin et supports ornés du plateau,
 Et le pays était rempli de boucliers et de lances.
@@ -117,7 +117,7 @@ Des traces de lui resteront encore [^559] ;
 Mais maintenant, comme autrefois,
 Avec les temps qui changent, le monde change.
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 Son temple majestueux tomba en ruine
 Son autel était vide et immobile ;
@@ -145,7 +145,7 @@ Et dans les vents parfumés on entendait des cistres [^563].
 St. 9. Par sa puissance transformatrice, les trépieds furent affermis ;
 Et les familles sont devenues polies et courtoises.
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 Il a toujours gardé à l'esprit (le sage) sous le pilier [^564],
 Toujours émule des souverains les plus anciens [^565].

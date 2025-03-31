@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/06700.jpg) HOLLA ! — Réveille-toi, douce demoiselle, et apporte notre breuvage du matin dans ta coupe spacieuse ; ne permets pas que les riches vins d'Enderein soient plus longtemps thésaurisés :
 
@@ -52,7 +52,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 9\. Certes, l'heure qui nous est assignée par le destin nous rattrapera, puisque nous sommes destinés à la mort, et la mort à nous.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 10\. O, attends un moment, avant que nous nous séparions, toi, beau cavalier sur les chameaux, afin que nous puissions te raconter nos chagrins, et toi, à nous, tes délices !
 
@@ -90,7 +90,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 26\. Que nos jours de prospérité, pendant lesquels nous avons refusé d'obéir aux ordres des rois, ont été longs et brillants.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 27\. Plus d'un chef de sa nation, sur lequel le diadème royal a été placé, refuge de ceux qui imploraient sa protection,
 
@@ -110,7 +110,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 35\. Certes, haine après haine est manifestée par toi, _ô chef ennemi_ ! et ta rancune secrète a été révélée :
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 36\. Mais nous avons hérité de la gloire, comme le sait bien la race de Maad ; nous avons combattu avec vaillance jusqu'à ce que notre renommée soit illustre.
 
@@ -130,7 +130,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 44\. Nos cimeterres, dont les coups s'échangent furieusement, sont aussi peu considérés par nous que des ceintures torsadées dans les mains d'enfants enjoués.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 45\. Leur armure et la nôtre, tachées réciproquement de notre sang, semblent être teintes ou peintes avec le jus de la fleur de seringa pourpre.
 
@@ -152,7 +152,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 54\. Oh, que personne ne soit infatué et violent contre nous, car nous récompenserons leur infatuation, qui surpasse la folie du plus insensé !
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 55\. Sous quel prétexte, ô Amru, fils de Hinda, serions-nous soumis au souverain que tu voudrais placer sur nous ?
 
@@ -174,7 +174,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 64\. D'Attab aussi et de Celthum nous avons reçu l'héritage transmis par leurs ancêtres.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 65\. Par Dhu’lborra, dont tu as entendu parler, nous avons été protégés, et par lui nous protégeons ceux qui recherchent notre aide.
 
@@ -194,7 +194,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 73\. Nous avons secouru l'aile droite, lorsque nos troupes ont engagé le combat, et nos vaillants frères ont apporté leur soutien à la gauche.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 74\. Ils attaquèrent avec fureur les légions qui leur étaient opposées, et nous assaillimes avec non moins de fureur les escadrons qui nous opposaient.
 
@@ -214,7 +214,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 82\. Le matin de l'attaque, nous sommes transportés dans le champ sur des chevaux à poil court, que nous connaissons depuis le moment où nous les avons sevrés, et que nous avons sauvés de nos ennemis après qu'ils aient été pris.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 83\.\* Ils se précipitent au combat, armés de cuirasses d'acier ; ils en sortent avec leurs crinières ébouriffées et poussiéreuses, et les rênes nouées reposent sur leur cou.
 
@@ -236,7 +236,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 92\. Derrière nous viennent nos belles, nos charmantes demoiselles, que nous gardons si attentivement qu'elles ne peuvent être rendues captives, ou même traitées avec irrespect :
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 93\. Belles jeunes filles, descendantes de Josham, fils de Becr, qui comprennent toutes les espèces de beauté, à la fois dans l'opinion des hommes et dans la vérité.
 
@@ -256,7 +256,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 101\.\* Nous semblons, lorsque nos cimeterres dégainés sont déployés, protéger l'humanité, comme les pères protègent leurs enfants.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 102\.\* Nos héros roulent les têtes de leurs ennemis, comme les jeunes forts et bien faits roulent leurs couilles dans la vallée lisse.
 

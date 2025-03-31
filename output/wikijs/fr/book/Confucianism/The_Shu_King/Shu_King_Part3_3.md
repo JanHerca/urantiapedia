@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 Ce livre appartient à la catégorie des documents du Shû qui porte le nom d'« Instructions ». Bien que sa forme soit poétique, le sujet est tiré des leçons laissées par Yü pour guider sa postérité.
 

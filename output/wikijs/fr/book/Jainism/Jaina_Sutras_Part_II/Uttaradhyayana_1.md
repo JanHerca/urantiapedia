@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 UTTARÂDHYAYANA. PREMIÈRE CONFÉRENCE. SUR LA DISCIPLINE.
 
@@ -42,7 +42,7 @@ Un moine qui, après avoir reçu un ordre [^48] de son supérieur [^49], s'appro
 
 Mais un moine qui, après avoir reçu un ordre de son supérieur, ne s'approche pas de lui, étant insubordonné et inattentif, est qualifié de mal élevé. (3)
 
-Comme une chienne aux oreilles douloureuses est chassée partout, <span id="p2">[<sup><small>p. 2</small></sup>]</span> ainsi on produit un mauvais élève, insubordonné et bavard. (4)
+Comme une chienne aux oreilles douloureuses est chassée partout, <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> ainsi on produit un mauvais élève, insubordonné et bavard. (4)
 
 Comme un cochon quitte une auge remplie de grain pour se nourrir d'excréments, ainsi une brute (d'homme) se détourne de la vertu et s'engage dans de mauvaises voies. (5)
 
@@ -56,7 +56,7 @@ Lorsqu'on le réprimande, un homme sage ne doit pas se mettre en colère, mais i
 
 Il ne doit rien faire de méchant [^52], ni beaucoup parler ; mais après avoir appris sa leçon, il doit méditer par lui-même. (10)
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 S'il fait par hasard quelque chose de méchant, il ne doit jamais le nier, mais s'il l'a fait, il doit dire : « Je l'ai fait » ; s'il ne l'a pas fait, « Je ne l'ai pas fait ». (11)
 
@@ -74,7 +74,7 @@ Il ne doit jamais rien faire de désagréable au sage [^53], ni en paroles ni en
 
 Il ne doit pas s'asseoir à côté du maître, ni devant lui, ni derrière lui ; il ne doit pas toucher la cuisse du maître avec la sienne, ni répondre à son appel depuis le canapé. (18)
 
-Un moine bien élevé ne doit pas s'asseoir sur ses hams [^54], <span id="p4">[<sup><small>p. 4</small></sup>]</span> ni croiser les bras [^55], ni étendre les jambes, ni se tenir (trop) près de son maître. (19)
+Un moine bien élevé ne doit pas s'asseoir sur ses hams [^54], <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> ni croiser les bras [^55], ni étendre les jambes, ni se tenir (trop) près de son maître. (19)
 
 Si le supérieur lui parle, il ne doit jamais garder le silence, mais doit considérer cela comme une faveur ; en demandant son commandement [^56], il doit toujours s'adresser poliment à son maître. (20)
 
@@ -86,7 +86,7 @@ Lorsqu'un élève qui observe les règles de conduite ci-dessus interroge l'ense
 
 Un moine doit éviter le mensonge, ni parler positivement (sur les choses futures, ses projets, etc.) ; il doit éviter les paroles pécheresses et toujours se tenir à l'écart de la tromperie. (24)
 
-Il ne doit rien dire de pécheur ou de dénué de sens [^58] <span id="p5">[<sup><small>p. 5</small></sup>]</span> ou de blessant, ni pour lui-même ni pour autrui, ni sans un tel motif. (25)
+Il ne doit rien dire de pécheur ou de dénué de sens [^58] <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> ou de blessant, ni pour lui-même ni pour autrui, ni sans un tel motif. (25)
 
 Dans les salons de coiffure [^59] ou dans les maisons, sur le terrain séparant deux maisons, ou sur la route, un moine seul ne doit pas se tenir avec une femme seule, ni converser avec elle. (26)
 
@@ -104,7 +104,7 @@ Un moine ne doit pas s'approcher des convives assis en rang, mais doit recueilli
 
 Un moine doit attendre (son aumône) seul, ni trop loin des autres moines, ni trop près d'eux, mais de manière à ne pas être vu par un autre groupe ; un autre moine ne doit pas le dépasser pour le devancer. (33)
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Ni debout hardiment, ni humblement incliné, ni trop près ni trop loin, un moine doit accepter la nourriture permise [^61] qui a été préparée pour quelqu'un d'autre [^62]. (34)
 
@@ -132,7 +132,7 @@ Un homme intelligent qui a appris (les textes sacrés) prend ses devoirs sur lui
 
 Lorsque les professeurs méritants, qui sont parfaitement éclairés et depuis les temps anciens bien versés dans la conduite [^68], sont satisfaits (d'un élève), ils lui transmettront leur connaissance étendue et importante [^69] des textes sacrés. (46)
 
-Sa connaissance sera honorée, ses doutes seront dissipés, il réjouira le cœur de son maître <span id="p8">[<sup><small>p. 8</small></sup>]</span> par ses bonnes actions ; gardé en sécurité par l'accomplissement d'austérités et par la méditation, étant comme une grande lumière, il gardera les cinq vœux. (47)
+Sa connaissance sera honorée, ses doutes seront dissipés, il réjouira le cœur de son maître <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> par ses bonnes actions ; gardé en sécurité par l'accomplissement d'austérités et par la méditation, étant comme une grande lumière, il gardera les cinq vœux. (47)
 
 Honoré par les dieux, les Gandharvas et les hommes, il deviendra, en quittant ce corps fait de saleté et d'impuretés, soit un Siddha éternel [^70], soit un dieu de grande puissance et de petites imperfections. (48)
 

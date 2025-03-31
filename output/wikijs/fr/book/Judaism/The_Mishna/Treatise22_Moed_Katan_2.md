@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 ### CHAPITRE II.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 4. Ils ne doivent pas acheter de maisons, d'esclaves ou de bétail, sauf pour les besoins de la fête ou du vendeur, qui, autrement, risquerait de se retrouver sans nourriture. Ils ne doivent pas transporter d'objets d'une maison à l'autre, bien que cela soit possible si les deux maisons se trouvent dans la même cour. Les objets confiés à un artisan pour être confectionnés ou réparés ne doivent pas être rapportés de l'atelier, [^633] mais s'il soupçonne que les objets, s'ils sont laissés à l'ouvrier, pourraient être perdus, ou qu'il pourrait exiger un second paiement, il peut les transporter dans une autre cour.
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 § 5. On peut recouvrir les figues sèches de paille. Rabbi Jehudah dit : « On peut aussi les mettre en couches. »
 

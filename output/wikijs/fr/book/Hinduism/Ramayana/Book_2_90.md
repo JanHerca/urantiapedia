@@ -89,7 +89,7 @@ Allez, dépêchez-vous : nous tardons trop.
 S'atrughna, apporte la glorieuse Bharat,
 Les nobles enfants du roi, [^357]
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Yudhājit [1](Book_2_90#fn358) et Sumantra, tous
 L'appel du véridique et du vertueux,
@@ -206,7 +206,7 @@ Et il donna les ordres qu'il désirait.
 Ravissez le cœur de chaque soldat,
 Aud à travers chaque chef et capitaine ravi,
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 Entendre cette marche proclamée, pour amener
 Cher Rama, de retour de voyage.
@@ -331,7 +331,7 @@ Ramenez à nouveau son cher frère à la maison.
 Avec un éléphant, un cheval et une voiture,
 La vaste procession a parcouru un long chemin,
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 Et est venu là où les vagues du Gange en contrebas
 La ville de Sringavera [1](Book_2_90#fn361) coule.
@@ -453,7 +453,7 @@ Demain, tu pourras partir avec.
 Ainsi le roi de Nishadas supplia :
 Le prince à l'esprit chargé de sagesse
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 Il a répondu avec des mots convenables qui se fondaient
 Matière profonde avec l'argument :
@@ -578,7 +578,7 @@ Celui qu'aucun démon puissant, non,
 Ni le Dieu céleste ne peut renverser,
 Vois, Guha, comme il ment, hélas,
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 Avec Sítá allongée sur l'herbe ramassée.
 Par des travaux variés, longs, pénibles,
@@ -701,7 +701,7 @@ Et puis, obéissant à ses vœux,
 Il jeûnait avec sa douce épouse.
 Lakshman s'abstint également de nourriture,
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 Et sirota l'eau qui restait :
 Puis, les lèvres tendues, pieusement posées,
@@ -824,7 +824,7 @@ Pour lui, c'est le terme du bannissement ;
 Alors je serai toujours intact, sauvé
 La promesse que le héros a faite.
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 Pendant que je reste là pour Rama,
 S'atrnghna partagera mon exil,
@@ -938,7 +938,7 @@ Avec le prêtre et le diacre à ses côtés,
 À la demeure de Bharadvaja, il fut entendu
 Le meilleur des saints à voir.
 
-<span id="p197">[<sup><small>p. 197</small></sup>]</span>
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 
 
 

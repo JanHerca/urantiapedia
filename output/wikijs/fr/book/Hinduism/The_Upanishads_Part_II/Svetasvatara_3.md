@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 ## TROISIÈME ADHYÂYA [^748].
 
@@ -40,7 +40,7 @@ dateCreated: 2025-1-16T20:6:29Z
 
 2\. Car il n'existe qu'un seul Rudra, ils n'admettent pas de second, qui gouverne tous les mondes par ses pouvoirs. Il se tient derrière tous les êtres [^751], et après avoir créé tous les mondes, lui, le protecteur, les enroule [^752] à la fin des temps.
 
-3 [^753]. Ce dieu unique, ayant ses yeux, son visage, ses bras et ses pieds en tout lieu, lorsqu'il produit le ciel et la terre, les forge avec ses bras et ses ailes [^754]. <span id="p245">[<sup><small>p. 245</small></sup>]</span> 4\. Lui [^755], le créateur et le soutien des dieux, Rudra, le grand voyant, le seigneur de tous, celui qui autrefois donna naissance à Hira<i>n</i>yagarbha, puisse-t-il nous doter de bonnes pensées.
+3 [^753]. Ce dieu unique, ayant ses yeux, son visage, ses bras et ses pieds en tout lieu, lorsqu'il produit le ciel et la terre, les forge avec ses bras et ses ailes [^754]. <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> 4\. Lui [^755], le créateur et le soutien des dieux, Rudra, le grand voyant, le seigneur de tous, celui qui autrefois donna naissance à Hira<i>n</i>yagarbha, puisse-t-il nous doter de bonnes pensées.
 
 5 [^756]. Ô Rudra, toi qui habites les montagnes, regarde-nous avec ta forme la plus bénie qui soit, qui est de bon augure, non terrible, et ne révèle aucun mal !
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-16T20:6:29Z
 
 8 [^759]. Je connais ce grand être (purusha) à l'éclat solaire au-delà des ténèbres [^760]. Quiconque le connaît véritablement surmonte la mort ; il n'y a pas d'autre chemin à suivre [^761].
 
-9\. Tout cet univers est rempli par cette personne (purusha), à qui il n'y a rien de supérieur, de qui il n'y a rien de différent, de qui il n'y a <span id="p246">[<sup><small>p. 246</small></sup>]</span> rien de plus petit ou de plus grand, qui se tient seule, fixée comme un arbre dans le ciel [^762].
+9\. Tout cet univers est rempli par cette personne (purusha), à qui il n'y a rien de supérieur, de qui il n'y a rien de différent, de qui il n'y a <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> rien de plus petit ou de plus grand, qui se tient seule, fixée comme un arbre dans le ciel [^762].
 
 10\. Ce qui est au-delà de ce monde est sans forme et sans souffrance. Ceux qui le connaissent deviennent immortels, mais d'autres souffrent véritablement [^763].
 
@@ -58,7 +58,7 @@ dateCreated: 2025-1-16T20:6:29Z
 
 12\. Cette personne (purusha) est le grand seigneur ; il est le moteur de l'existence [^765], il possède ce pouvoir le plus pur d'atteindre tout [^766], il est lumière, il est immuable.
 
-13 [^767]. La personne (purusha), pas plus grande qu'un pouce, <span id="p247">[<sup><small>p. 247</small></sup>]</span> habitant à l'intérieur, habitant toujours dans le cœur de l'homme, est perçue par le cœur, la pensée [^768], l'esprit ; ceux qui la connaissent deviennent immortels.
+13 [^767]. La personne (purusha), pas plus grande qu'un pouce, <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> habitant à l'intérieur, habitant toujours dans le cœur de l'homme, est perçue par le cœur, la pensée [^768], l'esprit ; ceux qui la connaissent deviennent immortels.
 
 14 [^769]. L'homme (purusha) aux mille têtes, aux mille yeux, aux mille pieds, ayant encerclé la terre de tous côtés, s'étend au-delà de dix doigts de largeur.
 
@@ -68,7 +68,7 @@ dateCreated: 2025-1-16T20:6:29Z
 
 17\. Séparé de tous les sens, mais reflétant les qualités de tous les sens, il est le seigneur et le souverain de tous, il est le grand refuge de tous.
 
-18\. L'esprit incarné dans la ville aux neuf portes [^773], l'oiseau, vole vers l'extérieur, le souverain du <span id="p248">[<sup><small>p. 248</small></sup>]</span> monde entier, de tout ce qui repose et de tout ce qui bouge.
+18\. L'esprit incarné dans la ville aux neuf portes [^773], l'oiseau, vole vers l'extérieur, le souverain du <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> monde entier, de tout ce qui repose et de tout ce qui bouge.
 
 19\. Saisissant sans mains, hâtant sans pieds, il voit sans yeux, il entend sans oreilles. Il sait ce qui peut être connu, mais personne ne le connaît ; on l'appelle le Premier, le Grand (purusha).
 

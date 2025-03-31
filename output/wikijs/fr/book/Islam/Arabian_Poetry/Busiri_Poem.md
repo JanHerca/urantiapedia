@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/32300.jpg) Est-ce d'après un souvenir de voisins à Dhū-Salam que tu as mélangé avec du sang les larmes qui coulent d'un globe oculaire ?
 
@@ -50,7 +50,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 8\. "Oui ! Le fantôme de celle que j'aime est passé devant moi et m'a empêché de dormir. Car l'amour brise les délices avec la douleur.
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 9\. « Ô mon réprimandeur pour une affection excusable ! \[reçois\] une excuse de ma part auprès de toi : et si tu étais juste, tu ne m'aurais pas fait de reproches.
 
@@ -70,7 +70,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 17\. Ne proposez donc pas d'écraser son inclination dans ses actes de rébellion, car la nourriture fortifie le désir chez l'insatiable.
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 18\ La chair est comme un enfant : si tu le laisses seul, il grandit avec l'amour de l'allaitement, et si tu le sèvres, il est sevré.
 
@@ -90,7 +90,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 26\ Je demande pardon à Dieu pour mes paroles non accompagnées d'actes, car par elles j'ai accusé l'épouse de femmes stériles d'avoir une postérité.
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 27\ Je t'ai commandé de faire ce qui est bien, mais je ne m'y suis pas conformé, je n'ai pas été droit. Quelle est donc ma parole envers toi : Sois droit ?
 
@@ -108,7 +108,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 34\. Muhammad, le Prince des deux univers \[matériel et spirituel\], des deux classes pondérables \[hommes et démons\], et des deux sections \[de l'humanité\], des Arabes et des Non-Arabes ;
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 35\. Notre Annonciateur, qui commande et qui interdit, que nul n'est plus juste dans le mot « Non ! » ou dans le mot « Oui ! »
 
@@ -128,7 +128,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 43\. Laisse de côté ce que les Nazaréens ont revendiqué comme leur prophète, prononce ce que tu veux à sa louange, et décide ;
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 44\. Attribue à sa personnalité ce que tu veux de noblesse, et attribue à sa valeur ce que tu veux d'immensité ;
 
@@ -148,7 +148,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 52\. Et tous les signes que les nobles apôtres accomplirent \[dans les jours précédents\] ne leur appartenaient que par sa gloire.
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 53\. Car il est en vérité le soleil de supériorité, dont ils sont les étoiles. Ils montrent leurs lumières aux gens dans les ténèbres \[mais le soleil est visible pendant le jour\].
 
@@ -168,7 +168,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 61\ Et le pavillon des Chosroes devint, étant fissuré, comme les courtisans des Chosroes, irrémédiablement désorganisé ;
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 62\. Et le Feu [Sacré], par tristesse, s'éteignit dans ses respirations [de flammes], et le fleuve [du Tigre] s'assécha à sa source, par étouffement ;
 
@@ -188,7 +188,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 70\. Comme s'ils étaient, dans leur fuite, les lâches d'Abraha, ou l'armée lapidée avec des cailloux de ses deux mains \[Muhammad\],
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 71\. Dans un jet, après une récitation de doxologie dans leurs deux paumes, comme le jet du doxologue \[Jonas\] des entrailles du poisson avaleur ;
 
@@ -208,7 +208,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 79\. La protection de Dieu les rendit indépendants de doubles cottes de mailles et de hautes tours.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 80\. Le temps ne m'a pas offert une blessure \[contre laquelle\] j'ai eu recours pour me protéger auprès de lui \[Muhammad\], mais j'ai reçu de lui une protection qui ne doit pas être violée ;
 
@@ -226,7 +226,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 87\. Par un banc de nuages qui pleuvait abondamment, de sorte que tu aurais pu imaginer que les lits de torrents caillouteux étaient des digues taillées dans l'océan, ou une inondation provenant d'un réservoir de montagne rompu !
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 88\. Laissez-moi, ainsi que ma description de certains de ses miracles, qui étaient aussi manifestes que l'est la visibilité du feu de l'hospitalité. la nuit sur le sommet de la montagne ;—
 
@@ -244,7 +244,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 95\. Elle n'a jamais été contestée, mais que le plus agressif de ses assaillants y est revenu en proposant la paix ;
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 96\. Son éloquence repousse les prétentions de son disputeur, avec la répulsion du jaloux \[qui repousse\] la main du criminel des choses tenues pour sacrées \[à la vertu\];
 
@@ -264,7 +264,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 104\. L'œil, par l'ophtalmie, a, jusqu'à présent, refusé la lumière du soleil, et la bouche, par la maladie, a refusé le goût de l'eau.
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 105\. Ô \[Muhammad\] toi le Meilleur de ceux dont les invités recherchent la cour, marchant péniblement à pied, ou \[assis\] sur les reins des chamelles au pas facile ;
 
@@ -284,7 +284,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 113\. Que tu puisses avoir une entrevue avec Quelqu'un qui est caché d'une manière si spéciale aux yeux \[de l'humanité\] et \[la communication\] d'un secret caché à un degré si profond ;
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 114\. Tu as vaincu tous les sujets de vantardise \[légitime\], sans co-participant, et tu as traversé chaque étape \[du progrès\] libre de la foule ;
 
@@ -304,7 +304,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 122\. Comme si la religion \[de l'Islam\] était un invité qui serait descendu à leur cour avec toutes les nobles chamelles de race, désireux de dévorer la chair de ses ennemis,
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 123\. Qui dirigeait une armée déferlante montée sur des chevaux rapides, qui soulevaient des vagues frénétiques de braves guerriers,
 
@@ -324,7 +324,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 131\. Dont les armes sont acérées, qui ont une marque qui les distingue, car la rose se distingue de l'acacia par sa marque.
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 132\. Les vents de la victoire guident vers toi leur odeur, de sorte que tu considères chaque guerrier vêtu d'une armure comme une fleur dans son calice.
 
@@ -344,7 +344,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 140\. Je lui ai rendu service dans un panégyrique, par lequel je demande pardon pour les péchés d'une vie passée en poésie et en services,
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 141\. Qui ont mis sur mon cou ce dont les conséquences sont à craindre, comme si j'étais, par eux, une victime d'entre les bestiaux.
 
@@ -364,7 +364,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 149\. Et depuis que j'ai consacré mes pensées à ses qualités louables, j'ai trouvé en lui le meilleur des garants de mon salut.
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 150\. La richesse qui vient de lui ne manquera jamais à une main pincée par la pauvreté : en vérité, la pluie fait pousser les fleurs sur les collines !
 
@@ -384,7 +384,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 158\ Et agis avec grâce envers Ton serviteur : en vérité, il a une force qui, lorsque les terreurs l'appellent, est mise en fuite.
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 159\. Et accorde que des pluies de bénédictions de Ta part soient perpétuelles sur le Prophète, abondantes et continues ;
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 ## ÂKANKHEYYA SUTTA. INTRODUCTION
 

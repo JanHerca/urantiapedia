@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 CHAPITRE II., Verset 189. — Mais combattez-les, afin qu'il n'y ait pas de sédition, et que la religion soit à Dieu ; mais s'ils cessent, qu'il n'y ait alors d'hostilité que contre les injustes.
 

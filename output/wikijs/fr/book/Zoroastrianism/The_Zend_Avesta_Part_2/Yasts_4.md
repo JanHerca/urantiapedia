@@ -48,7 +48,7 @@ Je me confesse comme un adorateur de Mazda, un disciple de Zarathustra, quelqu'u
 
 Pour le sacrifice, la prière, la propitiation et la glorification à \[Hâvani\], le saint et maître de sainteté [^250] . . . . .
 
-À Haurvatâ<i>t</i>, le maître ; à la prospérité <span id="p49">[<sup><small>p. 49</small></sup>]</span> des saisons et aux années, les maîtres de la sainteté [^251],
+À Haurvatâ<i>t</i>, le maître ; à la prospérité <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> des saisons et aux années, les maîtres de la sainteté [^251],
 
 Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
@@ -60,7 +60,7 @@ Nous sacrifions à Haurvatâ<i>t</i>, l'Amesha-Spe<i>n</i>ta ; nous sacrifions �
 
 2\. « Celui qui, contre les milliers de milliers de ces Daêvas, contre leurs dizaines de milliers de dizaines de milliers, contre leurs innombrables myriades, invoquerait le nom de Haurvatâ<i>t</i>, comme l'un des Amesha-Spe<i>n</i>tas, il frapperait les Nasu, il frapperait Ha<i>s</i>i [^253], il frapperait Ba<i>s</i>i [^253], il frapperait Saêni [^253], il frapperait Bû<i>g</i>i [^253].
 
-3 [^254]. « Je proclame l'homme fidèle comme le premier \[des hommes\] ; si je proclame l'homme fidèle comme le premier <span id="p50">[<sup><small>p. 50</small></sup>]</span> \[des hommes\] [^255], alors Rashnu Razi<i>s</i>ta [^256], alors chaque Yazata céleste de nature masculine en compagnie des Amesha-Spe<i>n</i>tas libérera l'homme fidèle [^257]
+3 [^254]. « Je proclame l'homme fidèle comme le premier \[des hommes\] ; si je proclame l'homme fidèle comme le premier <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> \[des hommes\] [^255], alors Rashnu Razi<i>s</i>ta [^256], alors chaque Yazata céleste de nature masculine en compagnie des Amesha-Spe<i>n</i>tas libérera l'homme fidèle [^257]
 
 4\. 'Des Nasu, des Ha<i>s</i>i, des Ga<i>s</i>i [^258], des Saêni, des Bû<i>g</i>i ; des hordes au large front, des hordes aux nombreuses lances levées, de l'homme mauvais qui opprime, du pécheur volontaire [^259], de l'oppresseur des hommes, des Yâtu, des Pairika, du chemin égaré.
 
@@ -68,7 +68,7 @@ Nous sacrifions à Haurvatâ<i>t</i>, l'Amesha-Spe<i>n</i>ta ; nous sacrifions �
 
 Ahura Mazda répondit : « C'est lorsqu'un homme prononçant mon sort, soit en le lisant [^261] soit en le récitant par cœur, dessine les sillons [^262] et s'y cache [^263] lui-même, \[en disant\] :
 
-6\. « Je te frapperai, ô Drogue ! Qui que tu sois, Qui que tu sois parmi les Drogues qui viennent par voie ouverte, Qui que tu sois parmi les Drogues qui viennent par des voies cachées, Qui que tu sois parmi les Drogues qui souillent par contact ; Quel que soit le Drogue que tu sois, je te frappe et te chasse des pays aryens ; Quel que soit le Drogue que tu sois, je te lie ; Je te frappe, ô Drogue ! Je te jette en bas, ô Drogue ! » <span id="p51">[<sup><small>p. 51</small></sup>]</span> 7\. « Il trace \[puis\] trois sillons [^264] : je le proclame fidèle ; il trace six sillons [^264] : je le proclame fidèle ; il trace neuf sillons [^264] : je le proclame fidèle.
+6\. « Je te frapperai, ô Drogue ! Qui que tu sois, Qui que tu sois parmi les Drogues qui viennent par voie ouverte, Qui que tu sois parmi les Drogues qui viennent par des voies cachées, Qui que tu sois parmi les Drogues qui souillent par contact ; Quel que soit le Drogue que tu sois, je te frappe et te chasse des pays aryens ; Quel que soit le Drogue que tu sois, je te lie ; Je te frappe, ô Drogue ! Je te jette en bas, ô Drogue ! » <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> 7\. « Il trace \[puis\] trois sillons [^264] : je le proclame fidèle ; il trace six sillons [^264] : je le proclame fidèle ; il trace neuf sillons [^264] : je le proclame fidèle.
 
 8\. « Les noms de ces (Amesha-Spe<i>n</i>tas) frappent les hommes tournés vers Nasus [^265] par les Drogues ; la semence et la famille des sourds [^266] sont frappées, les méprisants [^267] sont morts, tandis que le Zaotar Zarathu<i>s</i>tra les emporte dans le malheur [^268], aussi féroce soit-il, à sa volonté et à son souhait, autant qu'il le souhaite.
 
@@ -76,7 +76,7 @@ Ahura Mazda répondit : « C'est lorsqu'un homme prononçant mon sort, soit en l
 
 10\. « Ô Zarathustra ! Que ce sort ne soit montré à personne, sauf par le père à son fils, ou par le frère à son frère issu du même sein, ou par l'Âthravan à son élève [^269] aux cheveux noirs, dévoué à la bonne loi, qui, dévoué à la bonne loi, saint [^270] et courageux, apaise toutes les Drogues [^271]. »
 
-11\. « Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu, à savoir, à Haurvatâ<i>t</i>, l'Amesha-Spe<i>n</i>ta. À Haurvatâ<i>t</i>, l'Amesha-Spe<i>n</i>ta, nous offrons les libations, le Haoma et la viande, le baresma, la sagesse de la langue, les <span id="p52">[<sup><small>p. 52</small></sup>]</span> sorts sacrés, la parole, les actes, les libations et les paroles bien dites.
+11\. « Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu, à savoir, à Haurvatâ<i>t</i>, l'Amesha-Spe<i>n</i>ta. À Haurvatâ<i>t</i>, l'Amesha-Spe<i>n</i>ta, nous offrons les libations, le Haoma et la viande, le baresma, la sagesse de la langue, les <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> sorts sacrés, la parole, les actes, les libations et les paroles bien dites.
 
 12\. 'Yathâ ahû vairyô: La volonté du Seigneur est la loi de la sainteté . . . .
 

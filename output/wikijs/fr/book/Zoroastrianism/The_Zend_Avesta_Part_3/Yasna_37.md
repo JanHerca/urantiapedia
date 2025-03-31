@@ -34,7 +34,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## YASNA XXXVII. À AHURA, LA SAINTE CRÉATION, LES FRAVASHIS DES JUSTES ET DES IMMORTELS GÉNÉREUX.
 
-1\. Ainsi donc, nous adorons Ahura Mazda, qui a fait le Vache (la création vivante), et la Justice (incarnée) (qui est incarnée dans le pur), et les eaux, et les plantes saines, les étoiles, et la terre, et tous les objets (existants) <span id="p286">[<sup><small>p. 286</small></sup>]</span> qui sont bons. 2. Oui, nous L'adorons pour Son Pouvoir Souverain et Sa grandeur, bienfaisants (comme ils le sont), et avec la priorité parmi les Yazads [^1191] qui demeurent aux côtés du Vache (et prennent soin de sa protection et de son soutien).
+1\. Ainsi donc, nous adorons Ahura Mazda, qui a fait le Vache (la création vivante), et la Justice (incarnée) (qui est incarnée dans le pur), et les eaux, et les plantes saines, les étoiles, et la terre, et tous les objets (existants) <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> qui sont bons. 2. Oui, nous L'adorons pour Son Pouvoir Souverain et Sa grandeur, bienfaisants (comme ils le sont), et avec la priorité parmi les Yazads [^1191] qui demeurent aux côtés du Vache (et prennent soin de sa protection et de son soutien).
 
 3. Et nous L'adorons sous Son nom de Seigneur, à Mazda cher, le plus bienfaisant (des noms). Nous L'adorons avec nos os et avec notre chair, (avec notre corps et notre vie). Et nous adorons les [^1192] Fravashis des saints, des saints hommes et des saintes femmes ; (4.) et la Justice la Meilleure, nous adorons la plus belle, l'Immortelle Généreuse et celle qui est dotée de lumière en toutes choses bonnes.
 

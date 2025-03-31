@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:44Z
   </table>
 </figure>
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Ne pas exalter la valeur préserve les gens de la rivalité. Ne pas valoriser ce qui est difficile à obtenir préserve les gens du vol. Ne pas leur montrer ce qu'ils convoitent est le moyen de préserver leur esprit du désordre.
 
@@ -58,7 +58,7 @@ Si le gouvernement est lent et tolérant, le peuple sera honnête et exempt de t
 
 Gouvernez une grande nation comme vous cuisineriez un petit poisson. [^4]
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Si l'Empire est gouverné selon le Tao, les esprits désincarnés ne manifesteront pas de pouvoirs surnaturels. Ce n'est pas qu'ils en soient dépourvus, mais ils ne les utiliseront pas pour nuire à l'humanité. Encore une fois, ce n'est pas qu'ils soient incapables de nuire à l'humanité, mais ils voient que le Sage ne fait pas de mal non plus. Si alors ni le Sage ni les esprits ne causent de tort, leur vertu converge vers un but bienfaisant.
 
@@ -72,7 +72,7 @@ Si le peuple n'a pas peur de la mort, à quoi bon l'utiliser comme moyen de diss
 
 Or, il y a toujours quelqu'un qui préside à l'infliction de la mort. Celui qui prendrait la place du magistrat et infligerait lui-même la mort, serait comme celui qui tenterait de faire le travail d'un maître charpentier. Et parmi ceux qui s'y essaient, rares sont ceux qui ne se coupent pas les mains.
 
-Le peuple meurt de faim parce que ceux qui sont au pouvoir <span id="p40">[<sup><small>p. 40</small></sup>]</span> sur lui dévorent trop d'impôts ; c'est pourquoi il meurt de faim. Le peuple est difficile à gouverner parce que ceux qui sont placés au-dessus de lui sont indiscrets ; c'est pourquoi il est difficile à gouverner. Le peuple méprise la mort à cause de son travail excessif pour rechercher les moyens de vivre ; c'est pourquoi il méprise la mort.
+Le peuple meurt de faim parce que ceux qui sont au pouvoir <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> sur lui dévorent trop d'impôts ; c'est pourquoi il meurt de faim. Le peuple est difficile à gouverner parce que ceux qui sont placés au-dessus de lui sont indiscrets ; c'est pourquoi il est difficile à gouverner. Le peuple méprise la mort à cause de son travail excessif pour rechercher les moyens de vivre ; c'est pourquoi il méprise la mort.
 
 Un sage a dit : « Celui qui peut assumer la honte de la nation est digne de devenir le seigneur du pays. Celui qui peut assumer les calamités de la nation est digne de devenir le souverain de l'Empire. »
 

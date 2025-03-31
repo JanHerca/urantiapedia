@@ -48,7 +48,7 @@ TROISIÈME ADHYÂYA.
 
 6\. S'il commence par le son Lui, ce son est la séparation de la parole divine et de la parole humaine.
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 C'est pourquoi celui qui commence, après avoir prononcé le son Lui, sépare la parole divine et la parole humaine [^429].
 
@@ -82,7 +82,7 @@ C'est pourquoi celui qui commence, après avoir prononcé le son Lui, sépare la
 
 4\. « Ô B<i>ri</i>haspati, le premier point du discours » ; car c'est le premier et le plus haut point du discours.
 
-5\. « Ce que tu as prononcé, en en faisant un nom » — car les noms sont faits par la parole. <span id="p179">[<sup><small>p. 179</small></sup>]</span> 6\. « Ce (nom) qui était le meilleur et sans défaut » — car c'est le meilleur et sans défaut.
+5\. « Ce que tu as prononcé, en en faisant un nom » — car les noms sont faits par la parole. <span id="p179"><sup><small>[ p. 179 ]</small></sup></span> 6\. « Ce (nom) qui était le meilleur et sans défaut » — car c'est le meilleur et sans défaut.
 
 7. « Ce qui était caché par leur amour est rendu manifeste » — car cela était caché dans le corps, à savoir ces divinités (qui pénètrent dans le corps, Agni comme voix, entrant dans la bouche, etc.) ; et cela était manifeste parmi les dieux du ciel. C'est ce que voulait dire ce verset.
 
@@ -104,7 +104,7 @@ C'est pourquoi celui qui commence, après avoir prononcé le son Lui, sépare la
 
 8\. « Tout ce qui a été offert aux fêtes est venu à toi » — cela signifie que tout est en ton pouvoir.
 
-9\. « Tous tournent aussi leurs pensées vers toi [^438] ; » — cela <span id="p180">[<sup><small>p. 180</small></sup>]</span> signifie que tous ces êtres, tous les esprits, toutes les pensées se tournent également vers toi.
+9\. « Tous tournent aussi leurs pensées vers toi [^438] ; » — cela <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> signifie que tous ces êtres, tous les esprits, toutes les pensées se tournent également vers toi.
 
 10\. « Quand ces deux-là deviennent trois protecteurs » ; c'est-à-dire quand ces deux-là unis engendrent une progéniture.
 
@@ -120,7 +120,7 @@ C'est pourquoi celui qui commence, après avoir prononcé le son Lui, sépare la
 
 16\. De ceci (le premier pied de Rv. X, 120, 1), les huit syllabes sont Gâyatrî, les onze syllabes sont Trish<i>t</i>ubh, les douze syllabes sont <i>G</i>agatî, les dix syllabes sont Virâ<i>g</i>. Le Virâ<i>g</i>, composé de dix syllabes, repose dans ces trois mètres [^441].
 
-17\. Le mot purusha, composé de trois syllabes, qui entre en effet dans le Virâ<i>g</i> [^442]. <span id="p181">[<sup><small>p. 181</small></sup>]</span> 18\. En vérité, ce sont tous des mètres, ceux-ci (Gâyatrî, Trish<i>t</i>ubh, Gagatî) ayant le Virâ<i>g</i> comme quatrième. De cette manière, ce jour est complet dans tous les mètres pour celui qui sait cela.
+17\. Le mot purusha, composé de trois syllabes, qui entre en effet dans le Virâ<i>g</i> [^442]. <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> 18\. En vérité, ce sont tous des mètres, ceux-ci (Gâyatrî, Trish<i>t</i>ubh, Gagatî) ayant le Virâ<i>g</i> comme quatrième. De cette manière, ce jour est complet dans tous les mètres pour celui qui sait cela.
 
 ## CINQUIÈME KHA<i>N</i><i>D</i>A.
 
@@ -137,7 +137,7 @@ pati<i>m</i> vo aghnyânâm,
 Anu yam vi<i>s</i>ve madanti ûmâ<i>h</i> sho
 dhenûnâm ishudhyasi.
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 In nada<i>m</i> va odatînâm (Ap. VIII, 69, 2), les odati [^444] sont les eaux du ciel, car elles arrosent tout cela ; et elles sont les eaux de la bouche, car elles arrosent toute bonne nourriture.
 
@@ -149,7 +149,7 @@ In nada<i>m</i> va odatînâm (Ap. VIII, 69, 2), les odati [^444] sont les eaux 
 
 6\. Il tend un Trish<i>t</i>ubh et un Anush<i>t</i>ubh [^445]. Trish<i>t</i>ubh est l'homme, Anush<i>t</i>ubh l'épouse, et ils forment un couple. C'est pourquoi un homme, après avoir trouvé une épouse, se considère comme un homme plus parfait.
 
-7\. Ces versets, en se répétant les trois premières fois, deviennent vingt-cinq. Le tronc est le vingt-cinquième, et Pra<i>g</i>âpati est le vingt-cinquième [^446]. Il y a dix doigts à ses mains, dix orteils à ses pieds, deux jambes, deux bras, et le tronc est le vingt-cinquième. Il orne ce tronc comme le vingt-cinquième. Or, ce jour est composé de vingt-cinq, et l'hymne Stoma de ce jour est composé de vingt-cinq : il devient le même <span id="p183">[<sup><small>p. 183</small></sup>]</span> par le même. Par conséquent, les deux, le jour et l'hymne, sont vingt-cinq [1](Aranyaka_3_1#fn447).
+7\. Ces versets, en se répétant les trois premières fois, deviennent vingt-cinq. Le tronc est le vingt-cinquième, et Pra<i>g</i>âpati est le vingt-cinquième [^446]. Il y a dix doigts à ses mains, dix orteils à ses pieds, deux jambes, deux bras, et le tronc est le vingt-cinquième. Il orne ce tronc comme le vingt-cinquième. Or, ce jour est composé de vingt-cinq, et l'hymne Stoma de ce jour est composé de vingt-cinq : il devient le même <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> par le même. Par conséquent, les deux, le jour et l'hymne, sont vingt-cinq [1](Aranyaka_3_1#fn447).
 
 
 ## SIXIÈME KHA<i>N</i><i>D</i>A.
@@ -166,7 +166,7 @@ Il s'agit d'une répétition exacte du troisième kha<i>n</i><i>d</i>a. Selon le
 
 4\. Vient ensuite l'hymne, N<i>ri</i><i>n</i>âm u tvâ n<i>ri</i>ta<i>m</i>a<i>m</i> gobhir ukthai<i>h</i> (Rv. I, 51, 4), avec le mot propice uktha.
 
-5\. Il prolonge d'une syllabe les deux premiers pâdas, trop petits (Rv. X, 120, 1 a, et Rv. VIII, 69, 2 a) [^448]. Dans le petit cœur sont placés les esprits vitaux, dans le petit estomac la nourriture. Cela <span id="p184">[<sup><small>p. 184</small></sup>]</span> sert à satisfaire ces désirs. Celui qui sait cela obtient ces désirs.
+5\. Il prolonge d'une syllabe les deux premiers pâdas, trop petits (Rv. X, 120, 1 a, et Rv. VIII, 69, 2 a) [^448]. Dans le petit cœur sont placés les esprits vitaux, dans le petit estomac la nourriture. Cela <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> sert à satisfaire ces désirs. Celui qui sait cela obtient ces désirs.
 
 6\. Les deux pieds, chacun composé de dix syllabes (Rv. X, 120, 1 a, b), servent à obtenir les deux sortes de nourriture [^449], de ce qui a des pieds (nourriture animale) et de ce qui n'a pas de pieds (nourriture végétale).
 
@@ -188,7 +188,7 @@ Il s'agit d'une répétition exacte du troisième kha<i>n</i><i>d</i>a. Selon le
 
 7\. « Aussi grand que le ciel et la terre, aussi grand est-il » — en vérité, le soi (<i>g</i>îvâtman) est aussi grand que le ciel et la terre.
 
-8\. « Mille fois sont les mille pouvoirs [^457] ; » — <span id="p186">[<sup><small>p. 186</small></sup>]</span> En disant cela, le poète plaît aux hymnes (aux sens) et les magnifie.
+8\. « Mille fois sont les mille pouvoirs [^457] ; » — <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> En disant cela, le poète plaît aux hymnes (aux sens) et les magnifie.
 
 9\. « Aussi loin que s'étend Brahman, aussi loin s'étend la parole » ; — partout où il y a Brahman, il y a un mot ; et partout où il y a un mot, il y a Brahman, telle était l'intention.
 

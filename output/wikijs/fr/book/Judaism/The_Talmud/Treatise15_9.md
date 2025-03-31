@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-1\. L'ulcère et la brûlure causent l'impureté en une semaine avec deux marques, des cheveux blancs et une propagation. <span id="p284">[<sup><small>p. 284</small></sup>]</span> « Qu'est-ce qu'un furoncle ? » « Si quelqu'un reçoit un coup de bois, ou de pierre, ou de lie d'huile, ou de l'eau de Tibériade, tout ce qui n'est pas par le feu. C'est l'ulcère. » « Qu'est-ce qu'une brûlure ? » « Si quelqu'un reçoit une brûlure par des charbons ardents, ou de la cendre brûlante, tout ce qui est par le feu. C'est la brûlure. »
+1\. L'ulcère et la brûlure causent l'impureté en une semaine avec deux marques, des cheveux blancs et une propagation. <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> « Qu'est-ce qu'un furoncle ? » « Si quelqu'un reçoit un coup de bois, ou de pierre, ou de lie d'huile, ou de l'eau de Tibériade, tout ce qui n'est pas par le feu. C'est l'ulcère. » « Qu'est-ce qu'une brûlure ? » « Si quelqu'un reçoit une brûlure par des charbons ardents, ou de la cendre brûlante, tout ce qui est par le feu. C'est la brûlure. »
 
 2\. L'ulcère et la brûlure ne sont pas identifiés l'un à l'autre, et ils ne se propagent pas de l'un à l'autre, et ils ne s'étendent pas à la peau de la chair, et la peau de la chair ne s'étend pas en eux. « S'ils deviennent un ulcère purulent ? » « Ils sont purs. » « S'ils forment une peau comme la pelure de l'ail ? » « Ceci est la croûte de l'ulcère mentionné dans la loi. » « Ils sont changés et guéris, même s'il y a à leur place une cicatrice ? » « Ils sont jugés comme de la peau de chair. »
 

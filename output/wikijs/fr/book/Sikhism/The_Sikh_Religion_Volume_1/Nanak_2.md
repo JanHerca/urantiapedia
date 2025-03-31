@@ -58,7 +58,7 @@ Le prêtre brahmane, en entendant cela, se mit en colère et demanda au gourou s
 En adorant et en louant le Nom, on obtient l'honneur et un vrai fil conducteur.
 _De cette façon_ un fil sacré sera mis, qui ne se brisera pas, et qui sera apte à entrer dans la cour de Dieu.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Le gourou a ensuite conclu son instruction sur le sujet comme suit :
 
@@ -108,7 +108,7 @@ Sans le Nom, comment pourrais-je vivre, ô mère ?
 Nuit et jour[^1] je le répète et je reste, _ô Seigneur_, sous ta protection.
 Nanak, celui qui est imprégné du Nom obtient l'honneur.[^2]
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Après cela, Nanak s'est allongé, est resté dans la même position pendant quatre jours et a refusé tout effort physique.
 
@@ -126,7 +126,7 @@ Dans l’orgueil de la richesse et la splendeur de la beauté, la vie a été ga
 Le péché du corps est une flaque d'eau, l'esprit y est un crapaud qui n'accorde aucune valeur au lotus.
 Le bourdon est l'enseignant[^3] qui prêche sans cesse ; mais le gourou peut-il faire comprendre à un homme qui ne veut pas comprendre ?[^4]
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 La prédication et l'écoute sont comme le souffle du vent, lorsque l'esprit de l'homme est teinté par les illusions du monde.
 Le Seigneur jette un regard favorable et est satisfait de ceux qui méditent sur Lui seul.
@@ -143,7 +143,7 @@ Mammon a séduit ce monde, et peu nombreux sont ceux qui le comprennent.
 
 Nanak informa alors son père qu'il avait semé son propre champ et que la récolte était prête. Il avait une telle confiance dans son travail que, même après déduction de la part versée en nature au gouvernement comme revenu, la totalité du produit resterait. Fils, filles, mendiants, frères et proches en profiteraient tous. Il avait travaillé pour Dieu, qui l'avait traité comme un seigneur traite ses vignerons, et le jour où il s'unirait à son Créateur, son âme se réjouirait.
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 En entendant cela, son père lui dit de tenir une boutique, car une boutique était aussi rentable que le labourage. Nanak répondit :
 
@@ -162,7 +162,7 @@ Kalu, désespéré, répondit : « Tu es perdu pour nous ; va travailler au gouv
 Fais de l'attention ton service, de la foi dans le Nom ton occupation ;
 Fais de la retenue du mal ton effort, et les hommes te féliciteront.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Dieu te regardera alors, ô Nanak, avec un œil favorable, et ton teint s'illuminera quatre fois.[^1]
 
@@ -206,7 +206,7 @@ Toi qui as fait le jour, tu as aussi fait la nuit.
 Ceux qui oublient leur conjoint[^3] sont de mauvais caractères ;[^4]
 Nanak, sans Son nom ils ne sont rien.[^5]
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Sa mère se leva alors et informa la famille de l'état de Nanak. Toute la famille et ses proches furent attristés et dirent que c'était vraiment dommage que le fils de Kalu soit devenu fou.
 
@@ -223,7 +223,7 @@ C'est ma famille dans laquelle je me réjouis toujours.
 Le seul Dieu qui nous a tous ornés est mon Seigneur.
 Nanak, celui qui l'abandonne et s'attache à un autre souffrira de misère.
 
-Guru Nanak se tut, s'allongea et ne mangea ni ne but. Toute la famille recommanda à Kalu qu'il fallait faire quelque chose pour son fils. Appeler un médecin et lui prescrire des médicaments. « Qui sait si derrière une paille il n'y a pas un lakh ? » Autrement dit, avec une petite dépense, Nanak pourrait guérir. Sur ce, Kalu alla chercher un médecin. Le médecin arriva et commença à prendre le pouls de Nanak. Il retira son bras, ramena ses pieds, se leva et dit : « Ô <span id="p27">[<sup><small>p. 27</small></sup>]</span> médecin, que fais-tu ? » Le médecin répondit qu'il diagnostiquait sa maladie. Sur ce, Nanak rit, puis prononça les vers suivants :
+Guru Nanak se tut, s'allongea et ne mangea ni ne but. Toute la famille recommanda à Kalu qu'il fallait faire quelque chose pour son fils. Appeler un médecin et lui prescrire des médicaments. « Qui sait si derrière une paille il n'y a pas un lakh ? » Autrement dit, avec une petite dépense, Nanak pourrait guérir. Sur ce, Kalu alla chercher un médecin. Le médecin arriva et commença à prendre le pouls de Nanak. Il retira son bras, ramena ses pieds, se leva et dit : « Ô <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> médecin, que fais-tu ? » Le médecin répondit qu'il diagnostiquait sa maladie. Sur ce, Nanak rit, puis prononça les vers suivants :
 
 On envoie chercher le médecin pour me prescrire un remède ; il prend ma main et me tâte le pouls.
 Le médecin ignorant ne sait pas que c'est dans mon esprit que réside la douleur.[^1]
@@ -251,7 +251,7 @@ Comme l’homme est utile tant qu’il a du souffle dans son corps,
 Ainsi, lorsque le souffle s'en va, le corps s'effondre et devient inutile :
 Personne ne prend de médicaments après cela.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 Quand l'homme possédera le Nom de l'Être Brillant et Radieux[^1],
 Son corps deviendra comme de l’or, et son âme sera purifiée.
@@ -277,7 +277,7 @@ Il y a le jour, ici tout est nuit.
 Faisons de la pénitence le papier,[^5] de ton nom, Seigneur, la prescription.
 Ceux à qui ce médicament inestimable est prescrit,
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Ils sont chanceux lorsqu'ils atteignent leur demeure finale.
 Ô Nanak, bénies soient les mères qui les ont portés.[^1]

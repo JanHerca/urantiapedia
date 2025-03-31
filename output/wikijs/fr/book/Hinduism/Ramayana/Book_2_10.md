@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:1:34Z
   </table>
 </figure>
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 ## CHANT I. : L'HÉRITIER PRÉSIDENT.
 
@@ -143,7 +143,7 @@ Et la faiblesse l’avertissait que la mort était proche :
 Mais Ráma est aimé du monde entier
 Par toutes les grâces, sa poitrine était réjouie,
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 La lune de chaque œil, dont le rayon
 Il a chassé tout son chagrin et sa peur.
@@ -268,7 +268,7 @@ Alors tout le peuple répondit :
 Paysan et citadin, petit et grand :
 « Chaque don le plus noble de la forme et de l'esprit,
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 Ô Monarque, nous trouvons en ton fils.
 Entends-tu les vertus divines
@@ -391,7 +391,7 @@ Soyez pour cent mille placés ;
 Caillé frais avec des ruisseaux de lait arrosés
 Pour nourrir la multitude des Brâhmanes.
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 Tous leurs besoins seront satisfaits avec soin.
 Et au milieu des chefs deux fois nés se divisent
@@ -510,7 +510,7 @@ Son peuple prospère est satisfait ;
 Dont les arsenaux d'armes sont stockés,
 Et un trésor avec un trésor d'or,
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Ses amis se réjouissent comme le Bienheureux
 Quand Amrit a couronné leur quête ardente.
@@ -624,7 +624,7 @@ Toi et Sitá, jeûnez strictement.
 Que ton âme s'abstienne de pensées mondaines,
 Et restez couchés sur l'herbe sacrée.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 Et que tes seigneurs de confiance soient présents
 En surveillant attentivement leur ami,
@@ -748,7 +748,7 @@ Et à toi sera la place du Régent :
 Maintenant avec ta Sítá, comme il se doit,
 Passez la nuit dans le jeûne le plus strict,
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 Car quand l'aube du lendemain est belle
 Le roi consacrera son héritier :
@@ -871,7 +871,7 @@ La ville surpeuplée d'Ayodhyá s'est envolée,
 Et dès que l'aube apparut, chaque homme
 La décoration de la ville a commencé.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 Dans tous les temples brillants et beaux
 Comme des nuages ​​blancs s'élevant dans l'air,
@@ -995,7 +995,7 @@ De la haute colline de Kailása, elle s'est précipitée.
 Le péché dans ses pensées, son âme en feu,
 Là où dormait la reine Kaikeyí, elle est venue :
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 « Pourquoi dors-tu ? » s'écria-t-elle, « lève-toi,
 Le péril est proche, ouvre les yeux.
@@ -1119,7 +1119,7 @@ Sage, prompt, élevé dans la science guerrière ;
 Et oh, je tremble quand je pense
 De ton cher enfant au bord de la ruine.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 Elle est bénie par un destin élevé,
 Kaus'alyá; car son fils sera
@@ -1245,7 +1245,7 @@ En exil aujourd'hui.'
 Alors que la fureur illuminait les yeux de Kaikeyí
 Elle parlait avec de longs et brûlants soupirs :
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 « Ce jour-là, mon fils intronisé verra,
 Et Rama s'enfuira dans les bois.
@@ -1365,7 +1365,7 @@ Dévoué au bien de ta dame.
 Chère fille, sans ton aide fidèle
 Je n'avais pas marqué le tracé qu'il avait tracé.
 
-<span id="p100">[<sup><small>p. 100</small></sup>]</span>
+<span id="p100"><sup><small>[ p. 100 ]</small></sup></span>
 
 Plein de ruse, de péché et de méchanceté
 Les baleines à bosse difformes choquent la vue :
@@ -1485,7 +1485,7 @@ Elle réfléchit un moment à sa résolution,
 Comme le chemin équitable que le bonheur a assuré
 La misérable dame attirée,
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Dévoué à sa reine et influencé
 Dans l'espoir du gain et du bonheur, la servante
@@ -1600,7 +1600,7 @@ Et ils te guériront.
 Qui, chérie, voudrais-tu voir puni ?
 Ou qui est enrichi par des honoraires seigneuriaux ?
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 « Ne pleure pas, ma belle Reine, et reste
 Ce chagrin qui use ton corps

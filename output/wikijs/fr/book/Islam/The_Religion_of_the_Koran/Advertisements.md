@@ -29,7 +29,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Les publicités suivantes sont apparues à la fin du livre original et sont incluses pour des raisons d'exhaustivité.
 
@@ -55,7 +55,7 @@ LE BUSTE DE SADI. Du persan. Traduit avec introduction par A. Hart Edwards. 2/- 
 
 UN QUIETISTE CHINOIS. De la philosophie mystique de Liehtsze. Traduit par Lionel Giles, M.A. 2/- net.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 _Je viens de sortir_
 
@@ -89,7 +89,7 @@ BRAHMA-KNOWLEDGE : Un aperçu de la philosophie du Vedanta, telle qu'exposée pa
 
 LA CONDUITE DE LA VIE ou l'Ordre Universel de Confucius. Traduction de l'un des quatre livres confucéens, jusqu'ici connu sous le nom de Doctrine du juste milieu. Par Ku Hung Ming, M.A. (éd.). 1/- net.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 LES ENSEIGNEMENTS DE ZOROASTRE. Traduit avec introduction par le Dr, SA Kapadia Maître de conférences, University College, Londres. 2/- net.
 
@@ -123,7 +123,7 @@ I. Le Livre de l'Histoire (Shu-King) Par W. Gorn Old 1/- net.
 
 II. Le Livre des Odes (Shi-King). Par L. Cranmer-Byng. 1/- net.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 LES DIT DE LAO TZU Du chinois. Traduit avec introduction par Lionel Giles, du British Museum. 1/- net.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:12Z
   </table>
 </figure>
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span> 
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span> 
 
 Traité sur le symbolisme des hexagrammes et des explications du duc de <i>K</i>âu sur les différentes lignes [^189] 
 
@@ -54,7 +54,7 @@ Traité sur le symbolisme des hexagrammes et des explications du duc de <i>K</i>
 
 7\. « Le même NEUF (indivisé) est utilisé » (à tous les endroits de cet hexagramme),mais l'attribut du ciel (ainsi désigné) ne devrait pas (toujours) prendre la première place. 
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span> 
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span> 
 
 [^191]. La puissance (de capacité et de soutien) de la terre est ce qui est désigné par Khwăn. L'homme supérieur, conformément à cela, avec sa grande vertu soutient (les hommes et) les choses.
 
@@ -62,7 +62,7 @@ Traité sur le symbolisme des hexagrammes et des explications du duc de <i>K</i>
 
 2\. Le mouvement indiqué par le deuxième six (divisé) va de la ligne droite au carré. « (Son fonctionnement), sans effort répété, avantageux à tous égards », montre le brillant résultat de la voie terrestre. 
 
-3\. « Il garde son excellence sous contrôle, mais la maintient fermement » : au moment opportun, il la manifestera. « Il peut avoir l'occasion de s'engager au service du roi : grande est la gloire de sa sagesse. » <span id="p269">[<sup><small>p. 269</small></sup>]</span> 4\. « Un sac ficelé ; il n'y aura pas d'erreur » : ceci montre comment, grâce à la prudence, aucun dommage ne sera reçu. 
+3\. « Il garde son excellence sous contrôle, mais la maintient fermement » : au moment opportun, il la manifestera. « Il peut avoir l'occasion de s'engager au service du roi : grande est la gloire de sa sagesse. » <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> 4\. « Un sac ficelé ; il n'y aura pas d'erreur » : ceci montre comment, grâce à la prudence, aucun dommage ne sera reçu. 
 
 S. « Le vêtement inférieur jaune ; il y aura une grande chance » : cela découle du fait que cette couleur ornementale est à la bonne place et au centre. 6\. « Les dragons combattent dans la nature : la course (en 
 
@@ -70,7 +70,7 @@ avant) (indiquée par Khwăn) est poursuivie jusqu'à l'extrémité.
 
 7\. « (Les lignes sont toutes faibles et divisées, comme le montre) l'utilisation du nombre SIX : mais (ceux qui sont ainsi représentés) devenant perpétuellement corrects et fermes, il y aura par là une grande consommation. 
 
-» <span id="p270">[<sup><small>p. 270</small></sup>]</span> 
+» <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> 
 
 [^192]. Le trigramme représentant les nuages ​​et le tonnerre forment <i>K</i>un. L'homme supérieur, conformément à cela, ajuste ses mesures de gouvernement comme il trie les fils de la chaîne et de la trame. 
 
@@ -86,7 +86,7 @@ avant) (indiquée par Khwăn) est poursuivie jusqu'à l'extrémité.
 
 6. « Il verse des torrents de larmes de sang » : comment l'État (ainsi symbolisé) pourrait-il perdurer ? 
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 [^193]. (Le trigramme représentant) une montagne, et en dessous celle d'une source jaillissant de Măng. L'homme supérieur, conformément à cela, s'efforce d'être résolu dans sa conduite et nourrit sa vertu. 
 
@@ -98,9 +98,9 @@ avant) (indiquée par Khwăn) est poursuivie jusqu'à l'extrémité.
 
 4\. « Le regret né de l'ignorance enchaînée » est dû à la distance particulière (du sujet de cette ligne) par rapport à la solidité (montrée aux lignes 2 et 6). 
 
-5\. « La bonne fortune du garçon simple et sans expérience » vient de sa docilité qui évolue vers l'humilité. <span id="p272">[<sup><small>p. 272</small></sup>]</span> 6\. « L'avantage viendra de la prévention du mal » : (le sujet de cette ligne) en haut et (l'ignorant) en bas, tous agissent et sont traités conformément à leur nature. 
+5\. « La bonne fortune du garçon simple et sans expérience » vient de sa docilité qui évolue vers l'humilité. <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> 6\. « L'avantage viendra de la prévention du mal » : (le sujet de cette ligne) en haut et (l'ignorant) en bas, tous agissent et sont traités conformément à leur nature. 
 
-[^194]. (Le trigramme pour) les nuages ​​s'élevant au-dessus de cela <span id="p273">[<sup><small>p. 273</small></sup>]</span> car le ciel forme Hsü. L'homme supérieur, conformément à cela, mange et boit, festoie et s'amuse (comme s'il n'y avait rien d'autre pour l'occuper). 
+[^194]. (Le trigramme pour) les nuages ​​s'élevant au-dessus de cela <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> car le ciel forme Hsü. L'homme supérieur, conformément à cela, mange et boit, festoie et s'amuse (comme s'il n'y avait rien d'autre pour l'occuper). 
 
 1\. « Il attend à la frontière (lointaine) » : il ne fait aucun geste pour affronter imprudemment les difficultés (de la situation). « Il lui sera avantageux de maintenir constamment (le but ainsi affiché), auquel cas il n'y aura pas d'erreur » : il ne manquera pas de suivre cette ligne de conduite régulière. 
 
@@ -114,7 +114,7 @@ avant) (indiquée par Khwăn) est poursuivie jusqu'à l'extrémité.
 
 6\. « Les invités viennent sans être pressés (de donner leur aide), et si (le sujet de la ligne) les reçoit respectueusement, il y aura de la bonne fortune à la fin » : bien que l'occupant et le lieu ne soient pas adaptés l'un à l'autre, il n'y a pas eu de grand échec (dans ce qui a été fait).
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 [^195]. (Le trigramme représentant) le ciel et (celui représentant) l'eau, s'éloignant l'un de l'autre, forment Sung. L'homme supérieur, conformément à cela, dans la transaction des affaires prend de bons conseils sur ses premiers pas. 
 
@@ -132,7 +132,7 @@ avant) (indiquée par Khwăn) est poursuivie jusqu'à l'extrémité.
 
 [^196]. (Le trigramme représentant) la terre et au milieu d'elle celui représentant l'eau, forment Sze. L'homme supérieur, conformément à cela, nourrit et éduque le peuple, et rassemble (parmi eux) les multitudes (des armées). 
 
-1\. « L'armée avance selon les règles (pour) un tel mouvement : » — si ces règles ne sont pas observées, il y aura du mal. <span id="p276">[<sup><small>p. 276</small></sup>]</span> 2\. « Il est au milieu de l'armée, et il y aura de la bonne fortune : » — il a reçu la faveur du Ciel. « Le roi lui a transmis trois fois les ordres (de) sa faveur : » — (le roi) chérit les myriades de régions dans son cœur. 
+1\. « L'armée avance selon les règles (pour) un tel mouvement : » — si ces règles ne sont pas observées, il y aura du mal. <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> 2\. « Il est au milieu de l'armée, et il y aura de la bonne fortune : » — il a reçu la faveur du Ciel. « Le roi lui a transmis trois fois les ordres (de) sa faveur : » — (le roi) chérit les myriades de régions dans son cœur. 
 
 3\. « L'armée avec la possibilité d'avoir de nombreux chefs oisifs : » — grand sera son manque de succès. 
 
@@ -142,7 +142,7 @@ avant) (indiquée par Khwăn) est poursuivie jusqu'à l'extrémité.
 
 6\. « Le grand dirigeant prononce ses instructions » : il répartit ainsi correctement le mérite. « Les hommes de petite taille ne devraient pas être employés » : ils ne manqueront pas de semer la confusion dans les États. 
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 [^197]. (Le trigramme représentant) la terre, et au-dessus d'elle (celui représentant) l'eau, forment Pî. Les anciens rois, conformément à cela, ont établi les différents États et ont maintenu une relation affectueuse avec leurs princes. 
 
@@ -156,7 +156,7 @@ avant) (indiquée par Khwăn) est poursuivie jusqu'à l'extrémité.
 
 5\. « La bonne fortune appartenant à l'exemple le plus illustre de recherche d'union et d'attachement » apparaît dans la position correcte et centrale (de la cinquième ligne, indivise). 
 
-Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et ne prenne (que) ceux qui se présentent pour ainsi dire docilement, se voit dans <span id="p278">[<sup><small>p. 278</small></sup>]</span> « le fait qu'il laisse s'échapper ceux qui sont devant lui. » « Que les gens de ses villes ne s'avertissent pas les uns les autres (pour empêcher une telle fuite) » montre comment il, dans sa haute éminence, les a fait suivre la bonne voie. 
+Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et ne prenne (que) ceux qui se présentent pour ainsi dire docilement, se voit dans <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> « le fait qu'il laisse s'échapper ceux qui sont devant lui. » « Que les gens de ses villes ne s'avertissent pas les uns les autres (pour empêcher une telle fuite) » montre comment il, dans sa haute éminence, les a fait suivre la bonne voie. 
 
 6\. « Il recherche l'union et l'attachement sans faire le premier (pas dans un tel but) » : « il n'y a aucune possibilité d'une (bonne) issue. 
 
@@ -166,7 +166,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 2\. 'Par l'attraction (du sujet de la ligne précédente), il revient (à son propre cours)' et est à la place centrale : — il ne se trompera pas non plus dans ce qui lui est dû. 
 
-3\. 'Le mari et la femme se regardent en détournant les yeux :' — (le sujet de la ligne trois est comme un <span id="p279">[<sup><small>p. 279</small></sup>]</span> mari qui) ne peut pas entretenir correctement ses relations avec sa femme. 
+3\. 'Le mari et la femme se regardent en détournant les yeux :' — (le sujet de la ligne trois est comme un <span id="p279"><sup><small>[ p. 279 ]</small></sup></span> mari qui) ne peut pas entretenir correctement ses relations avec sa femme. 
 
 4\. 'Il est possédé de sincérité ; son (motif d') appréhension est écarté :' — (les sujets des lignes) ci-dessus sont d'accord avec lui. 
 
@@ -174,7 +174,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6. « La pluie est tombée et (la progression) est freinée » : le pouvoir (indiqué sur la figure) s'est pleinement accumulé. « Si l'homme supérieur poursuit ses mesures, le mal surviendra » : il se trouvera entravé.
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 [^199]. (Le trigramme représentant) le ciel au-dessus, et au-dessous (celui représentant les eaux d') un marais, forment Lî. L'homme supérieur, conformément à cela, fait la distinction entre le haut et le bas, et donne une solution aux objectifs du peuple. 
 
@@ -186,7 +186,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 4\. « Il devient plein d'une prudence appréhendée, et à la fin il y aura de la chance » : son but atteint son objectif. 
 
-5\. « Il marche résolument ; et bien qu'il soit ferme et correct, il y a du péril » : cela est dû au fait qu'il est dans la position qui lui est correcte et appropriée. <span id="p281">[<sup><small>p. 281</small></sup>]</span> 6\. « Il y aura une grande chance », et cela dans l'occupation de la ligne la plus haute : c'est un grand sujet de félicitations. 
+5\. « Il marche résolument ; et bien qu'il soit ferme et correct, il y a du péril » : cela est dû au fait qu'il est dans la position qui lui est correcte et appropriée. <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> 6\. « Il y aura une grande chance », et cela dans l'occupation de la ligne la plus haute : c'est un grand sujet de félicitations. 
 
 [^200]. (Les trigrammes pour) le ciel et la terre en communication forment Thâi. Le (sage) souverain, en harmonie avec cela, façonne et complète (ses règles) d'après les cours du ciel et de la terre, et aide à l'application des adaptations qu'ils fournissent, afin d'aider le peuple. 
 
@@ -196,13 +196,13 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 3\. « Il n'y a pas de départ sans retour » se réfère à cela comme au point où l'interaction du ciel et de la terre a lieu. 
 
-4\. « Il vient en voletant (descendant), sans compter sur <span id="p282">[<sup><small>p. 282</small></sup>]</span> ses propres riches ressources :'— lui et ses voisins sont hors de leur véritable (lieu où ils se trouvent). 'Ils n'ont pas reçu d'avertissement, mais (viennent) dans la sincérité (de leur cœur) :'— c'est ce qu'ils ont désiré au plus profond de leur cœur. 
+4\. « Il vient en voletant (descendant), sans compter sur <span id="p282"><sup><small>[ p. 282 ]</small></sup></span> ses propres riches ressources :'— lui et ses voisins sont hors de leur véritable (lieu où ils se trouvent). 'Ils n'ont pas reçu d'avertissement, mais (viennent) dans la sincérité (de leur cœur) :'— c'est ce qu'ils ont désiré au plus profond de leur cœur. 
 
 5\. 'Par un tel chemin il y a le bonheur, et il y aura une grande bonne fortune :'— (le sujet de la ligne) emploie la vertu propre à sa position centrale pour réaliser ses souhaits. 
 
 6\.« Le mur de la ville est retourné dans les douves » montre à quel point les ordres (gouvernementaux) ont été (depuis longtemps) en désordre.
 
-[^201]. (Les trigrammes du) ciel et de la terre, non en communication, forment Phî. L'homme supérieur, conformément à cela, restreint (la manifestation) de sa vertu et évite les calamités (qui le menacent). Il n'y a aucune possibilité de lui conférer la gloire de l'émolument. <span id="p283">[<sup><small>p. 283</small></sup>]</span> 1\. 'La bonne fortune par la bonté ferme, (suggérée par) l'arrachage de l'herbe,' naît de la volonté (des parties visées) d'être déterminée à (servir) le dirigeant. 
+[^201]. (Les trigrammes du) ciel et de la terre, non en communication, forment Phî. L'homme supérieur, conformément à cela, restreint (la manifestation) de sa vertu et évite les calamités (qui le menacent). Il n'y a aucune possibilité de lui conférer la gloire de l'émolument. <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> 1\. 'La bonne fortune par la bonté ferme, (suggérée par) l'arrachage de l'herbe,' naît de la volonté (des parties visées) d'être déterminée à (servir) le dirigeant. 
 
 2\. 'Le grand homme, se comportant comme l'exigent la détresse et l'obstruction, aura du succès : — 'il ne se laisse pas déstabiliser par le troupeau (des petits hommes). 
 
@@ -214,7 +214,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « La détresse et l'obstruction ayant atteint leur terme, elles sont renversées et supprimées » : comment pourraient-elles se prolonger ? 
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span> 
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span> 
 
 [^202]. (Les trigrammes pour) le ciel et le feu forment Thung <i>Z</i>ăn. L'homme supérieur, conformément à cela, distingue les choses selon leurs espèces et leurs classes. 
 
@@ -230,7 +230,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « (Le représentant de) l'union des hommes apparaît dans les faubourgs » : son objectif n'a pas encore été atteint. 
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span> 
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span> 
 
 [^203]. (Le trigramme pour) le ciel et (celui du) feu au-dessus de lui forment Tâ Yû. L'homme supérieur, conformément à cela, réprime ce qui est mal et donne de la distinction à ce qui est bien,en sympathie avec l'excellente nature conférée par le Ciel. 
 
@@ -242,7 +242,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 4\. « Il garde ses grandes ressources sous contrôle » : sa sagesse discerne clairement (ce qu'il doit faire). 
 
-5\. « Sa sincérité est réciproque chez tous les autres » : sa sincérité sert à éveiller et à faire ressortir ce qu'ils ont en tête. « La bonne fortune découlant d'un déploiement de majesté appropriée » montre comment ils pourraient (autrement) se sentir trop à l'aise et ne rien préparer (à le servir). <span id="p286">[<sup><small>p. 286</small></sup>]</span> 6\. « La bonne fortune attachée à la ligne la plus élevée de Tâ Yû » provient de l'aide du Ciel. 
+5\. « Sa sincérité est réciproque chez tous les autres » : sa sincérité sert à éveiller et à faire ressortir ce qu'ils ont en tête. « La bonne fortune découlant d'un déploiement de majesté appropriée » montre comment ils pourraient (autrement) se sentir trop à l'aise et ne rien préparer (à le servir). <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> 6\. « La bonne fortune attachée à la ligne la plus élevée de Tâ Yû » provient de l'aide du Ciel. 
 
 [^204]. (Le trigramme pour) la terre et (celui d') une montagne au milieu d'elle forment <i>Kh</i>ien. L'homme supérieur, conformément à cela, diminue ce qui est excessif (en lui-même), et augmente là où il y a un défaut, apportant une égalité, selon la nature du cas, dans son traitement (de lui-même et des autres). 
 
@@ -254,9 +254,9 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 4\. « Celui dont l'action serait avantageuse à tous égards excite d'autant plus son humilité » : (mais ce faisant) il n'agit pas contrairement à la règle (appropriée). 
 
-5\. « Il peut avantageusement utiliser la force des armes » : c'est-à-dire corriger ceux qui ne se soumettent pas. <span id="p287">[<sup><small>p. 287</small></sup>]</span> 6\. « Son humilité s'est fait reconnaître » : (mais) tous ses objectifs n'ont pas encore été atteints. Il peut employer la force des armes, (mais seulement) pour corriger (ses propres) villes et son État. » 
+5\. « Il peut avantageusement utiliser la force des armes » : c'est-à-dire corriger ceux qui ne se soumettent pas. <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> 6\. « Son humilité s'est fait reconnaître » : (mais) tous ses objectifs n'ont pas encore été atteints. Il peut employer la force des armes, (mais seulement) pour corriger (ses propres) villes et son État. » 
 
-[^205]. (Les trigrammes pour) la terre et le tonnerre qui en sort avec son bruit fracassant forment Yü. Les anciens rois, conformément à cela, composaient leur musique et rendaient honneur à la vertu, la présentant spécialement et très majestueusement à Dieu, <span id="p288">[<sup><small>p. 288</small></sup>]</span> lorsqu'ils associaient à Lui (au service) leur plus haut ancêtre et leur père. 
+[^205]. (Les trigrammes pour) la terre et le tonnerre qui en sort avec son bruit fracassant forment Yü. Les anciens rois, conformément à cela, composaient leur musique et rendaient honneur à la vertu, la présentant spécialement et très majestueusement à Dieu, <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> lorsqu'ils associaient à Lui (au service) leur plus haut ancêtre et leur père. 
 
 1\. 'Le (sujet des) six premiers proclame son plaisir et sa satisfaction :' — il y aura du mal ; ses désirs ont été satisfaits à l'excès. 
 
@@ -270,7 +270,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « Avec un esprit obscurci consacré à l'harmonie et à la satisfaction (du temps), » comme le montre la (ligne) supérieure : comment peut-on rester longtemps dans une telle condition ? 
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span> 
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span> 
 
 [^206]. (Le trigramme pour les eaux d') un marais et (celui pour) le tonnerre (caché) en son milieu forment Sui. L'homme supérieur, conformément à cela, lorsque la nuit approche, entre (sa maison) et se repose. 
 
@@ -282,7 +282,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 4\. « Il est suivi et obtient des adhérents » : selon l'idée (de l'hexagramme), c'est mauvais. « Il est sincère dans sa démarche » : montrant son intelligence et menant à la réussite. 
 
-5\. « Il est sincère dans la promotion de l'excellence » : sa position est correcte et au centre. <span id="p290">[<sup><small>p. 290</small></sup>]</span> 6\. « La sincérité est fermement maintenue et maintenue, comme le montre la ligne supérieure » : (l'idée de l'hexagramme) a atteint son développement extrême. 
+5\. « Il est sincère dans la promotion de l'excellence » : sa position est correcte et au centre. <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> 6\. « La sincérité est fermement maintenue et maintenue, comme le montre la ligne supérieure » : (l'idée de l'hexagramme) a atteint son développement extrême. 
 
 [^207]. (Le trigramme pour) une montagne, et en dessous celui pour le vent, forment Kû. L'homme supérieur, conformément à cela, (s'adresse à) aider le peuple et nourrir sa propre vertu. 
 
@@ -294,7 +294,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 4\. « Il considère avec indulgence les ennuis causés par son père » : s'il continue, il ne réussira pas.
 
-5\. « Il s'occupe des problèmes causés par son père et obtient des éloges » : il est répondu (par le sujet du deuxième vers) avec toute sa vertu. <span id="p291">[<sup><small>p. 291</small></sup>]</span> 6\. « Il ne sert ni roi ni seigneur féodal » : mais son but peut être un modèle (pour les autres). 
+5\. « Il s'occupe des problèmes causés par son père et obtient des éloges » : il est répondu (par le sujet du deuxième vers) avec toute sa vertu. <span id="p291"><sup><small>[ p. 291 ]</small></sup></span> 6\. « Il ne sert ni roi ni seigneur féodal » : mais son but peut être un modèle (pour les autres). 
 
 [^208] (Le trigramme pour) les eaux d'un marais et celui pour la terre au-dessus forment Lin. L'homme supérieur, conformément à cela, a des objectifs d'instruction qui sont inépuisables, et nourrit et soutient le peuple sans limite. 
 
@@ -312,7 +312,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 [^209]. (Le trigramme représentant) la terre, et celui du vent qui se déplace au-dessus d'elle, forment Kwan. Les anciens rois, conformément à cela, examinaient les (différentes) régions (du royaume), pour voir les (moyens) du peuple, et énonçaient leurs instructions. 
 
-1\. « Le regard d'un jeune homme montré par les six premiers, (divisés) ; indique la voie du peuple inférieur. <span id="p293">[<sup><small>p. 293</small></sup>]</span> 2\. « La ferme correction d'une femme, en regardant par une porte » est aussi une chose dont il faut avoir honte (chez un homme supérieur). 
+1\. « Le regard d'un jeune homme montré par les six premiers, (divisés) ; indique la voie du peuple inférieur. <span id="p293"><sup><small>[ p. 293 ]</small></sup></span> 2\. « La ferme correction d'une femme, en regardant par une porte » est aussi une chose dont il faut avoir honte (chez un homme supérieur). 
 
 3\. « Il regarde le cours de sa propre vie, pour avancer ou reculer (en conséquence) : » — il ne s'égarera pas dans le chemin (à suivre). 
 
@@ -326,7 +326,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 1\. « Ses pieds sont dans les ceps, et il est privé de ses orteils » : il n'y a pas de marche (pour faire le mal). 
 
-2\. « Il mord à travers la chair tendre, et (continue) <span id="p294">[<sup><small>p. 294</small></sup>]</span> pour mordre le nez » : (le sujet du vers) est monté sur le fort (premier vers). 
+2\. « Il mord à travers la chair tendre, et (continue) <span id="p294"><sup><small>[ p. 294 ]</small></sup></span> pour mordre le nez » : (le sujet du vers) est monté sur le fort (premier vers). 
 
 3\. « Il rencontre ce qui est désagréable et nuisible » : sa position ne lui convient pas. 
 
@@ -336,7 +336,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « Il porte la cangue et est privé d'oreilles » : il entend, mais ne comprend pas. 
 
-[^211]. (Le trigramme représentant) une montagne et celui du feu en dessous forment Pî. L'homme supérieur, conformément à cela, jette un éclat autour de ses divers processus de gouvernement, mais n'ose pas (de la même manière) trancher des affaires de litige criminel. <span id="p295">[<sup><small>p. 295</small></sup>]</span> 1\. « Il peut abandonner une voiture et marcher à pied » : la droiture exige qu'il ne monte pas à cheval. 
+[^211]. (Le trigramme représentant) une montagne et celui du feu en dessous forment Pî. L'homme supérieur, conformément à cela, jette un éclat autour de ses divers processus de gouvernement, mais n'ose pas (de la même manière) trancher des affaires de litige criminel. <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> 1\. « Il peut abandonner une voiture et marcher à pied » : la droiture exige qu'il ne monte pas à cheval. 
 
 2\. « Il orne sa barbe » : il se réveille à l'action (uniquement) avec le (sujet du) vers ci-dessus. 
 
@@ -348,7 +348,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « L'absence d'erreur attachée (au sujet de) la ligne la plus haute, sans autre ornement que le (simple blanc) », montre comment il a atteint son but. 
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span> 
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span> 
 
 [^212]. (Les trigrammes représentant) la terre, et (au-dessus) celui d'une montagne, qui adhère à la terre, forment Po. Les supérieurs, conformément à cela, cherchent à renforcer ceux qui sont en dessous d'eux, pour assurer la paix et la stabilité de leur propre position. 
 
@@ -364,7 +364,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « L'homme supérieur se retrouve dans un carrosse » — il est emporté par le peuple. « Les petits hommes (par leur conduite) renversent leurs propres demeures » — ils ne peuvent plus jamais leur être utiles. 
 
-<span id="p297">[<sup><small>p. 297</small></sup>]</span> 
+<span id="p297"><sup><small>[ p. 297 ]</small></sup></span> 
 
 [^213]. (Le trigramme représentant) la terre et celui du tonnerre en son sein forment Fû. Les anciens rois, conformément à cela, le jour du solstice (d'hiver), fermaient les portes des passages (d'un état à un autre), de sorte que les marchands itinérants ne pouvaient (alors) poursuivre leurs voyages, ni les princes poursuivre l'inspection de leurs états. 
 
@@ -372,7 +372,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 2\. « La bonne fortune qui accompagne le retour admirable (du sujet de la deuxième ligne) » est due à sa condescendance envers le vertueux (sujet de la ligne) ci-dessous. 
 
-3\. Malgré « la position périlleuse de celui <span id="p298">[<sup><small>p. 298</small></sup>]</span> qui a fait de nombreux retours », il n'y aura pas d'erreur (parce qu'il vise la droiture). 
+3\. Malgré « la position périlleuse de celui <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> qui a fait de nombreux retours », il n'y aura pas d'erreur (parce qu'il vise la droiture). 
 
 4\. « Il se déplace en plein centre (parmi ceux représentés par les autres lignes divisées), et pourtant revient seul » — son objectif est de suivre le (bon) chemin. 
 
@@ -380,7 +380,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « Le mal qui résulte d'un égarement total sur la question du retour » est dû au fait que la voie suivie est contraire à la voie appropriée pour un dirigeant. 
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span> 
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span> 
 
 [^214]. Le tonnerre gronde partout sous le ciel, et à (chaque) chose est donnée (sa nature), libre de toute insincérité. Les anciens rois, conformément à cela, (établissaient leurs règlements) en parfaite harmonie avec les saisons, nourrissant ainsi toutes choses. 
 
@@ -396,7 +396,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « L'action (dans ce cas) de celui qui est exempt d'insincérité » provoquera la calamité découlant de l'action (lorsque le temps pour elle est) épuisé. 
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span> 
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span> 
 
 [^215]. (Le trigramme représentant) une montagne, et au milieu d'elle celui (représentant) le ciel, forment Tâ <i>Kh</i>û. L'homme supérieur, conformément à cela, stocke largement dans sa mémoire les paroles et les actes des hommes passés, pour servir à l'accumulation de sa vertu. 
 
@@ -412,7 +412,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « Aux commandes du firmament du ciel : » la voie est magnifiquement ouverte au mouvement. 
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span> 
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span> 
 
 [^216]. (Le trigramme représentant) une montagne et en dessous celle du tonnerre forme Î. L'homme supérieur, conformément à cela, (enjoint) la vigilance sur nos paroles et la régulation tempérée de notre alimentation et de notre boisson. 
 
@@ -426,7 +426,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 5\. « La bonne fortune de demeurer dans la fermeté » est due à la docilité (du sujet de la ligne) à suivre (le sujet de la ligne) ci-dessus. 
 
-6\. « La bonne fortune, malgré le péril <span id="p302">[<sup><small>p. 302</small></sup>]</span> de sa position, de celui de qui vient la nourriture », offre un grand motif de félicitations. 
+6\. « La bonne fortune, malgré le péril <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> de sa position, de celui de qui vient la nourriture », offre un grand motif de félicitations. 
 
 [^217].Le trigramme représentant les arbres cachés sous les eaux d'un marais forme Tâ Kwo. L'homme supérieur, conformément à cela, se tient seul, sans crainte, et se retire du monde sans regret.
 
@@ -438,7 +438,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 4\. « La chance liée à la poutre courbée vers le haut » vient de ce qu'elle ne se courbe pas vers ce qui est en dessous. 
 
-5\. « Un saule pourri produit des fleurs » — mais comment cela peut-il assurer sa longévité ? « Une vieille <span id="p303">[<sup><small>p. 303</small></sup>]</span> femme et un jeune mari » — c'est aussi une chose dont il faut avoir honte. 
+5\. « Un saule pourri produit des fleurs » — mais comment cela peut-il assurer sa longévité ? « Une vieille <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> femme et un jeune mari » — c'est aussi une chose dont il faut avoir honte. 
 
 6\. « Le mal suit celui qui patauge avec une audace (extraordinaire) (à travers le ruisseau) : » — mais (l'acte) ne fournit aucun motif de blâme. 
 
@@ -448,7 +448,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 2\. « Il obtiendra un peu (de la délivrance) qu'il recherche » : » — il n'échappera pas encore à sa position environnante. 
 
-3\. « Qu'il vienne ou qu'il parte, il est confronté à un défilé » : » — il n'obtiendra jamais (dans de telles circonstances) aucun succès. <span id="p304">[<sup><small>p. 304</small></sup>]</span> 4\. '(Rien d'autre qu') une bouteille d'alcool et un panier de riz subsidiaire :' — (ceux-ci décrivent) la rencontre à ce point de (ceux qui sont représentés par) les lignes fortes et faibles. 
+3\. « Qu'il vienne ou qu'il parte, il est confronté à un défilé » : » — il n'obtiendra jamais (dans de telles circonstances) aucun succès. <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 4\. '(Rien d'autre qu') une bouteille d'alcool et un panier de riz subsidiaire :' — (ceux-ci décrivent) la rencontre à ce point de (ceux qui sont représentés par) les lignes fortes et faibles. 
 
 5\. 'L'eau du défilé n'est pas pleine (au point de s'écouler) :' — (la vertu indiquée par) la situation centrale n'est pas encore (suffisamment) grande. 
 
@@ -464,7 +464,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 4\. « Quelle est la manière abrupte dont il arrive ! » – personne ne peut le supporter.
 
-5\. 'La bonne fortune attachée au cinquième SIX, <span id="p305">[<sup><small>p. 305</small></sup>]</span> divisé),' est due à son occupation de la place d'un roi ou d'un prince. 
+5\. 'La bonne fortune attachée au cinquième SIX, <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> divisé),' est due à son occupation de la place d'un roi ou d'un prince. 
 
 6\. 'Le roi l'emploie dans ses expéditions punitives' : le but est de ramener les régions à un état correct. 
 
@@ -481,13 +481,13 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 3\. « Il remue ses cuisses » : — il ne (veut) toujours pas se reposer à sa place. Sa volonté est fixée sur « suivre les autres » : — ce qu'il tient dans sa main est bas. 
 
-4\. « Une correction ferme mènera à la bonne fortune, <span id="p306">[<sup><small>p. 306</small></sup>]</span> et empêchera toute occasion de repentir : » — il n'y a pas encore eu de préjudice dû (à un désir égoïste d') influencer. « Il est instable dans ses mouvements : » (son pouvoir d'influence) n'est pas encore brillant ou grand. 
+4\. « Une correction ferme mènera à la bonne fortune, <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> et empêchera toute occasion de repentir : » — il n'y a pas encore eu de préjudice dû (à un désir égoïste d') influencer. « Il est instable dans ses mouvements : » (son pouvoir d'influence) n'est pas encore brillant ou grand. 
 
 5\. « Il (essaie de) déplacer la chair le long de la colonne vertébrale au-dessus du cœur : » — son but est trivial. 
 
 6\. « Il remue ses mâchoires et sa langue » : il parle (seulement) d'une bouche loquace. 
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span> 
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span> 
 
 [^221]. (Le trigramme représentant) le tonnerre et celui du vent forment Hăng. L'homme supérieur, conformément à cela, reste ferme et ne change pas sa méthode (d'opération). 
 
@@ -519,7 +519,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « Il se retire d'une manière noble, et ce faisant sera avantageux à tous égards » : celui qui agit ainsi n'a aucun doute sur sa conduite. 
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span> 
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span> 
 
 [^223]. (Le trigramme représentant) le ciel et au-dessus de lui celui du tonnerre forment Tâ <i>K</i>wang. L'homme supérieur, conformément à cela, ne fait pas un pas qui ne soit pas conforme à la convenance. 
 
@@ -535,7 +535,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « Il est incapable de reculer ou d'avancer » : cela est dû à son manque de prudence. « S'il se rend compte de la difficulté (de sa position), la bonne fortune sera au rendez-vous » : son erreur ne se prolongera pas. 
 
-<span id="p310">[<sup><small>p. 310</small></sup>]</span> 
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span> 
 
 [^224]. (Le trigramme représentant) la terre et celui du brillant (soleil) s'élevant au-dessus d'elle forment Žin. L'homme supérieur, selon cela, se donne pour rendre plus brillante sa brillante vertu. 
 
@@ -551,7 +551,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « Il n'utilise ses cornes que pour punir (les rebelles de) sa ville » — sa façon de procéder n'est pas encore brillante. 
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span> 
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span> 
 
 [^225]. (Le trigramme représentant) la terre et celui du brillant (soleil) qui y pénètre forment Ming Î. L'homme supérieur, conformément à cela, conduit sa gestion des hommes ; il montre son intelligence en la gardant obscure. 
 
@@ -581,7 +581,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « La bonne fortune liée à l'étalage de majesté » décrit (le résultat de) la restauration du vrai caractère. 
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span> 
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span> 
 
 [^227]. (Le trigramme représentant) le feu en haut, et celui représentant (les eaux d') un marais en bas, forment Khwei. L'homme supérieur, conformément à cela, là où il y a un accord général, admet pourtant la diversité. 
 
@@ -599,7 +599,7 @@ Le fait que le roi néglige (les animaux) qui l'affrontent (puis s'enfuient), et
 
 6\. « La bonne fortune symbolisée par la rencontre avec une pluie (géniale) » naît de la disparition de tous les doutes. 
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span> 
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span> 
 
 [^228]. (Le trigramme représentant) une montagne, et au-dessus d'elle celui de l'eau, forment <i>K</i>ien. L'homme supérieur, conformément à cela, se retourne (et s'examine) et cultive sa vertu. 
 
@@ -617,7 +617,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 « Il sera avantageux de rencontrer le grand homme » : par sa conduite, il suit ce noble (seigneur de la figure). 
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span> 
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span> 
 
 [^229]. (Le trigramme représentant) le tonnerre et celui de la pluie, avec ces phénomènes en état de manifestation, forment <i>K</i>ieh. L'homme supérieur, conformément à cela, pardonne les erreurs et traite les crimes avec douceur. 
 
@@ -627,7 +627,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 3\. Car « un porteur avec son fardeau voyageant en voiture » est une chose dont il faut avoir honte. « C'est lui-même qui incite les voleurs à venir » : à qui d'autre pouvons-nous imputer la faute ? (Voir Appendice III, i, 48.) 
 
-4\. « Enlevez vos orteils » : les endroits (de ce vers <span id="p317">[<sup><small>p. 317</small></sup>]</span> et du troisième et du premier) leur sont tous inappropriés. 
+4\. « Enlevez vos orteils » : les endroits (de ce vers <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> et du troisième et du premier) leur sont tous inappropriés. 
 
 5\. Lorsque « l'homme supérieur exécute sa fonction d'éliminer (tout ce qui est nuisible à l'idée de l'hexagramme) », les hommes de petite taille se retireront d'eux-mêmes. 
 
@@ -635,7 +635,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 [^230]. (Le trigramme représentant) une montagne et en dessous celle des eaux d'un marais formant le Soleil. L'homme supérieur, conformément à cela, retient sa colère et réprime ses désirs. 
 
-1\. « Il suspend ses propres affaires et se précipite (pour aider le sujet de la quatrième ligne) : » — le (sujet de cette) (ligne) supérieure mêle ses désirs aux siens. <span id="p318">[<sup><small>p. 318</small></sup>]</span> 2\. « Il sera avantageux pour (le sujet du) deuxième NEUF, (indivisé), de maintenir sa ferme exactitude : » — sa position centrale donne son caractère à son objectif. 
+1\. « Il suspend ses propres affaires et se précipite (pour aider le sujet de la quatrième ligne) : » — le (sujet de cette) (ligne) supérieure mêle ses désirs aux siens. <span id="p318"><sup><small>[ p. 318 ]</small></sup></span> 2\. « Il sera avantageux pour (le sujet du) deuxième NEUF, (indivisé), de maintenir sa ferme exactitude : » — sa position centrale donne son caractère à son objectif. 
 
 3\. « Un homme, marchant, » (trouve son ami) : — quand trois sont ensemble, des doutes s'élèvent parmi eux. 
 
@@ -645,7 +645,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 6\. « Il donne aux autres ce qu'ils possèdent sans rien prendre de ce qui est à lui » : il obtient son désir à grande échelle. 
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span> 
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span> 
 
 [^231]. (Le trigramme représentant) le vent et celui du tonnerre forment Yî. L'homme supérieur, conformément à cela, lorsqu'il voit ce qui est bien, s'y dirige ; et lorsqu'il voit ses erreurs, il s'en détourne.
 
@@ -661,7 +661,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 6\. « Personne ne contribuera à son accroissement » : cela n'exprime que la moitié du résultat. « Beaucoup chercheront à l'attaquer » : ils viendront d'au-delà (de son cercle immédiat) pour le faire. 
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span> 
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span> 
 
 [^232]. (Le trigramme représentant) le ciel et celui des eaux d'un marais qui le surplombe forment Kwâi. L'homme supérieur, conformément à cela, accorde des émoluments à ceux qui sont au-dessous de lui et n'aime pas laisser ses dons s'accumuler (sans être dispensés). 
 
@@ -675,13 +675,13 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 'Il entend ces paroles, mais n'y croit pas' : il entend, mais ne comprend pas. 
 
-5\. « Si son action est en harmonie avec sa position centrale <span id="p321">[<sup><small>p. 321</small></sup>]</span>, il n'y aura pas d'erreur » — mais sa position dans le juste milieu n'est pas encore clairement affichée. 
+5\. « Si son action est en harmonie avec sa position centrale <span id="p321"><sup><small>[ p. 321 ]</small></sup></span>, il n'y aura pas d'erreur » — mais sa position dans le juste milieu n'est pas encore clairement affichée. 
 
 6\. « Il y a la misère de n'avoir personne à qui s'adresser » — la fin sera qu'il ne pourra plus continuer. 
 
 [^233]. (Le trigramme représentant) le vent et celui du ciel au-dessus forment Kâu. Le souverain, conformément à cela, délivre ses instructions et promulgue ses annonces dans les quatre quartiers (du royaume). 
 
-1\. « Attaché et attaché à un câble métallique » — (cette <span id="p322">[<sup><small>p. 322</small></sup>]</span> décrit l'arrestation de) la (ligne) faible dans sa progression. 
+1\. « Attaché et attaché à un câble métallique » — (cette <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> décrit l'arrestation de) la (ligne) faible dans sa progression. 
 
 2\. « Il a une besace pleine de poissons » — il est juste qu'il ne permette pas (au sujet de la première ligne) d'atteindre les invités. 
 
@@ -695,7 +695,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 6\. 'Il reçoit les autres sur ses cornes' : — il est épuisé à sa plus grande hauteur, et il y aura lieu de le regretter. 
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span> 
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span> 
 
 [^234]. (Le trigramme représentant la) terre et celui des eaux d'un marais élevé au-dessus d'elle forment Žhui. L'homme supérieur, conformément à cela, a ses armes de guerre mises en bon état, pour être prêt à faire face aux contingences imprévues. 
 
@@ -707,7 +707,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 4\. « S'il est grandement chanceux, il ne recevra aucun blâme » : (cette condition est nécessaire, car) sa position n'est pas celle qui lui est propre. 
 
-5\. « Il y a l'union (de tous) sous lui dans la place de la dignité » : (mais) son esprit et son but n'ont pas encore été brillamment déployés. <span id="p324">[<sup><small>p. 324</small></sup>]</span> 6\. « Il soupire et pleure » : — il ne se repose pas encore dans sa position la plus élevée. 
+5\. « Il y a l'union (de tous) sous lui dans la place de la dignité » : (mais) son esprit et son but n'ont pas encore été brillamment déployés. <span id="p324"><sup><small>[ p. 324 ]</small></sup></span> 6\. « Il soupire et pleure » : — il ne se repose pas encore dans sa position la plus élevée. 
 
 [^235]. (Le trigramme représentant) le bois et celui de la terre, avec le bois poussant en son sein, forment Shăng. L'homme supérieur, conformément à cela, accorde une attention particulière à sa vertu et en accumule les petits développements jusqu'à ce qu'elle soit élevée et grande. 
 
@@ -717,7 +717,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 3\. « Il s'avance vers le haut (comme dans) une ville vide » : (il n'a ni doute ni hésitation). 
 
-4\. « Le roi l'emploie pour empêcher ses offrandes sur le mont <i>Kh</i>î » : (un tel service (des Êtres spirituels) est selon (leur esprit). <span id="p325">[<sup><small>p. 325</small></sup>]</span> 5\. « Il a parfaitement raison et jouira donc de la bonne fortune. Il monte les marches (avec toute la cérémonie requise) : il atteint son but avec majesté. 
+4\. « Le roi l'emploie pour empêcher ses offrandes sur le mont <i>Kh</i>î » : (un tel service (des Êtres spirituels) est selon (leur esprit). <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> 5\. « Il a parfaitement raison et jouira donc de la bonne fortune. Il monte les marches (avec toute la cérémonie requise) : il atteint son but avec majesté. 
 
 6\. « Il s'avance aveuglément vers le haut » et occupe la place la plus élevée : mais la décadence l'attend, et il ne préservera pas ses richesses. 
 
@@ -725,7 +725,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 1\. « Il entre dans une vallée obscure » : il est tellement plongé dans les ténèbres et sans vision claire.
 
-2\. « Il est à l'étroit au milieu de son vin et de ses mets » — (mais) sa position est centrale, et il y aura matière à se féliciter. <span id="p326">[<sup><small>p. 326</small></sup>]</span> 3\. « Il s'empare d'épines » — (ceci est suggéré par la position du vers) au-dessus du (vers) fort. 
+2\. « Il est à l'étroit au milieu de son vin et de ses mets » — (mais) sa position est centrale, et il y aura matière à se féliciter. <span id="p326"><sup><small>[ p. 326 ]</small></sup></span> 3\. « Il s'empare d'épines » — (ceci est suggéré par la position du vers) au-dessus du (vers) fort. 
 
 « Il entre dans son palais et ne voit pas sa femme » — (ceci est de mauvais augure). 
 
@@ -741,7 +741,7 @@ Avancer ne sera (que) rencontrer de (plus grandes) difficultés ; il reste stati
 
 » (Il dit) : « Si je bouge, je m'en repentirai. » Et il se repent (de ses erreurs passées), ce qui mène à la bonne fortune : » — ainsi continue-t-il (maintenant). 
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span> 
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span> 
 
 [^237]. (Le trigramme représentant) le bois et au-dessus celui de l'eau forment Žing. L'homme supérieur, conformément à cela, réconforte les gens et les stimule à l'entraide. 
 
@@ -759,7 +759,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 5\. « Les eaux de la source froide sont (librement) bues » : ceci est indiqué par la position centrale et correcte (du vers). 
 
-6\. « La grande bonne fortune » à l'endroit le plus élevé <span id="p328">[<sup><small>p. 328</small></sup>]</span> indique le grand accomplissement (de l'idée dans l'hexagramme). 
+6\. « La grande bonne fortune » à l'endroit le plus élevé <span id="p328"><sup><small>[ p. 328 ]</small></sup></span> indique le grand accomplissement (de l'idée dans l'hexagramme). 
 
 [^238]. (Le trigramme représentant les eaux d') un marais et celui du feu au milieu d'eux forment Ko. L'homme supérieur, conformément à cela, règle ses calculs (astronomiques) et précise les saisons et les temps. 
 
@@ -771,7 +771,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 4\. « La bonne fortune qui résulte du changement des ordonnances (existantes) » est due à la foi placée en ses objectifs. 
 
-5\. « Le grand homme opère ses changements comme le tigre lorsqu'il change ses rayures » : leur beauté devient plus éclatante. <span id="p329">[<sup><small>p. 329</small></sup>]</span> 6\. « L'homme supérieur opère ses changements comme le léopard lorsqu'il change ses taches » : leur beauté devient plus élégante. 
+5\. « Le grand homme opère ses changements comme le tigre lorsqu'il change ses rayures » : leur beauté devient plus éclatante. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 6\. « L'homme supérieur opère ses changements comme le léopard lorsqu'il change ses taches » : leur beauté devient plus élégante. 
 
 « Les petits hommes changent de visage » : ils se montrent prêts à suivre leur souverain. 
 
@@ -785,7 +785,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 « Mon ennemi me déteste » — mais il n'y aura finalement aucune faute (qu'il puisse pointer du doigt). 
 
-3\. « Voici le chaudron avec (les emplacements pour) ses <span id="p330">[<sup><small>p. 330</small></sup>]</span> oreilles changées : » — (son sujet) a manqué à ce qui lui était demandé (dans sa situation). 
+3\. « Voici le chaudron avec (les emplacements pour) ses <span id="p330"><sup><small>[ p. 330 ]</small></sup></span> oreilles changées : » — (son sujet) a manqué à ce qui lui était demandé (dans sa situation). 
 
 4\. « Le contenu destiné à l’usage du souverain est renversé et répandu : » — comment peut-on faire confiance (au sujet de la ligne) ? 
 
@@ -797,7 +797,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 1\. « Quand le moment du mouvement arrive, il sera trouvé regardant dehors avec appréhension » — ce sentiment de terreur mène au bonheur. 
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span> 
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span> 
 
 « Il sourit pourtant et parle gaiement » — le résultat (de sa terreur) est qu'il adopte des lois (appropriées) (pour son cours). 
 
@@ -817,7 +817,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 [^241]. (Deux trigrammes représentant) une montagne, l'un au-dessus de l'autre, forment Kăn. L'homme supérieur, dans 
 
-0 <span id="p332">[<sup><small>p. 332</small></sup>]</span> conformément à cela, ne va pas dans ses pensées au-delà des (devoirs de la) position dans laquelle il se trouve. 
+0 <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> conformément à cela, ne va pas dans ses pensées au-delà des (devoirs de la) position dans laquelle il se trouve. 
 
 1\. 'Il garde ses orteils au repos' : il ne manque pas à ce qui est correct (selon l'idée de la figure). 
 
@@ -831,7 +831,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 6\. 'Il y a de la bonne fortune à maintenir son repos avec dévouement' : jusqu'à la fin, il se montre généreux et bon. 
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span> 
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span> 
 
 [^242]. (Le trigramme représentant) une montagne et au-dessus d'elle celui pour un arbre forment <i>K</i>ien. L'homme supérieur, conformément à cela, atteint et maintient sa vertu extraordinaire, et rend les manières du peuple bonnes. 
 
@@ -851,7 +851,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 6\. « Leurs plumes peuvent servir d'ornements. La chance sera au rendez-vous » :« — (l’objet et le caractère du sujet de la ligne) ne peuvent pas être perturbés.
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span> 
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span> 
 
 [^243]. (Le trigramme représentant les eaux d') un marais et au-dessus de lui, celui du tonnerre forme Kwei Mei. L'homme supérieur, conformément à cela, ayant égard à la fin lointaine, connaît le mal (qui peut être fait au début). 
 
@@ -859,7 +859,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 'Boiteuse d'une jambe, elle est capable de marcher' — elle peut rendre un service utile. 
 
-2\. « Il y aura avantage à maintenir la ferme correction d'une veuve solitaire » — (le sujet de <span id="p335">[<sup><small>p. 335</small></sup>]</span> le vers) n'a pas changé par rapport à la constance (propre à une épouse). 
+2\. « Il y aura avantage à maintenir la ferme correction d'une veuve solitaire » — (le sujet de <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> le vers) n'a pas changé par rapport à la constance (propre à une épouse). 
 
 3\. « La sœur cadette qui devait être mariée est dans une position médiocre » — cela est démontré par les irrégularités (indiquées dans le vers). 
 
@@ -871,7 +871,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 [^244]. (Les trigrammes représentant) le tonnerre et l'éclair se combinent pour former Făng. L'homme supérieur, conformément à cela, tranche les litiges et répartit les punitions avec exactitude. 
 
-1\. « Bien qu'ils soient tous deux de même nature, il n'y aura pas d'erreur » : si le sujet de cette <span id="p336">[<sup><small>p. 336</small></sup>]</span> ligne cherche à outrepasser cette similitude, il y aura calamité. 
+1\. « Bien qu'ils soient tous deux de même nature, il n'y aura pas d'erreur » : si le sujet de cette <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> ligne cherche à outrepasser cette similitude, il y aura calamité. 
 
 2\. « Qu'il chérisse son sentiment de dévotion sincère, afin qu'il paraisse être exprimé » : c'est par la sincérité que l'esprit est affecté. 
 
@@ -891,7 +891,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 « Il regarde sa porte, qui est silencieuse, sans personne autour » : il se tient (seulement) à l'écart de tous les autres. 
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span> 
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span> 
 
 [^245]. (Le trigramme représentant) une montagne et au-dessus d'elle celle du feu forme Lü. L'homme supérieur, conformément à cela, exerce sa sagesse et sa prudence dans l'utilisation des punitions et ne permet pas aux litiges de continuer. 
 
@@ -909,7 +909,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 6\. « Considérant que l'étranger est ici au plus haut (de la distinction), » avec l'esprit qui le possède, il est juste qu'il (soit symbolisé par un oiseau) brûle (son nid). 
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span> 
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span> 
 
 « Il perd sa docilité de bœuf trop facilement et trop facilement » : au point de ne pas vouloir écouter (la vérité sur la voie à suivre). 
 
@@ -917,7 +917,7 @@ On prie « que le roi soit intelligent » : car alors la bénédiction serait re
 
 1\. '(Maintenant) il avance, (maintenant) il recule' : son esprit est perplexe. 
 
-Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small></sup>]</span> fermeté d'un brave soldat :' — son esprit serait dans ce cas bien gouverné. 
+Il lui serait avantageux d'avoir la <span id="p339"><sup><small>[ p. 339 ]</small></sup></span> fermeté d'un brave soldat :' — son esprit serait dans ce cas bien gouverné. 
 
 2\. 'La bonne fortune née de ce qui confine à la confusion' est due à la position (de la ligne) au centre. 
 
@@ -931,7 +931,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 « Il a perdu la hache avec laquelle il exécutait ses décisions » — bien qu'il essaie d'être correct,il y aura du mal. 
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 [^247]. (Deux symboles représentant) les eaux d'un marais, l'un au-dessus de l'autre, forment Tui. L'homme supérieur, conformément à cela, (encourage) la conversation des amis et (la stimulation de) leur pratique (commune). 
 
@@ -947,7 +947,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 6\. « Le SIX supérieur, (divisé), montre le plaisir (de son sujet) à diriger et à attirer les autres » : sa (vertu) n'est pas encore éclatante. 
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span> 
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span> 
 
 [^248]. (Le trigramme représentant) l'eau et celui du vent se déplaçant au-dessus de l'eau forment Hwân. Les anciens rois, conformément à cela, présentaient des offrandes à Dieu et établissaient le temple ancestral. 
 
@@ -963,7 +963,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 6\. « Ses blessures sanglantes ont disparu » : il est loin du danger de blessure. 
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span> 
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span> 
 
 [^249]. (Le trigramme représentant) un lac, et au-dessus celui pour l'eau, forment <i>K</i>ieh. L'homme supérieur, conformément à cela, construit ses méthodes de comptage et de mesure, et discute des points de vertu et de conduite. 
 
@@ -975,7 +975,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 4\. « Le progrès et le succès de l'attention tranquille et naturelle à tous les règlements » sont dus à la déférence qui accepte les voies (du dirigeant) d'en haut. 
 
-5\. « La bonne fortune découlant des règlements édictés avec douceur et acceptation » est due au fait que (la ligne) <span id="p343">[<sup><small>p. 343</small></sup>]</span> occupe la place (d'autorité) et est au centre. 
+5\. « La bonne fortune découlant des règlements édictés avec douceur et acceptation » est due au fait que (la ligne) <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> occupe la place (d'autorité) et est au centre. 
 
 6\. « Les règlements sont sévères et difficiles. Même avec une correction ferme, il y aura du mal » : la voie (indiquée par l'hexagramme) est arrivée à son terme. 
 
@@ -985,7 +985,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 2\. « Ses jeunes lui répondent » : du souhait (commun) du plus profond de son cœur. 
 
-3\. « Tantôt il bat son tambour, tantôt il s'arrête » : la position (du vers) lui convient. <span id="p344">[<sup><small>p. 344</small></sup>]</span> 4\. « Un cheval dont le compagnon disparaît » : il se détache de ses (anciens) compagnons et monte plus haut. 
+3\. « Tantôt il bat son tambour, tantôt il s'arrête » : la position (du vers) lui convient. <span id="p344"><sup><small>[ p. 344 ]</small></sup></span> 4\. « Un cheval dont le compagnon disparaît » : il se détache de ses (anciens) compagnons et monte plus haut. 
 
 5\. « Il est parfaitement sincère et lie les autres à lui dans une union étroite » : la place (du vers) est la bonne et appropriée. 
 
@@ -995,7 +995,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 1\. « Il y a un oiseau qui vole (et monte) jusqu'à ce que le résultat soit mauvais » : rien ne peut être fait pour éviter ce problème. 
 
-2\. « Il ne tente pas d'atteindre son dirigeant » : <span id="p345">[<sup><small>p. 345</small></sup>]</span> un ministre ne devrait pas dépasser la distance (entre son dirigeant et lui-même). 
+2\. « Il ne tente pas d'atteindre son dirigeant » : <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> un ministre ne devrait pas dépasser la distance (entre son dirigeant et lui-même). 
 
 3\. « Certains en conséquence trouvent l'occasion de l'attaquer et de le blesser. Il y aura du mal » : combien sera-t-il grand ! 
 
@@ -1025,7 +1025,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 
 [^253]. (Le trigramme représentant) l'eau et celui du feu au-dessus forment Wei Žî. L'homme supérieur, conformément à cela, distingue soigneusement les (qualités des) choses et les (différentes) positions qu'elles occupent (naturellement). 
 
-1\. « Sa queue est immergée » — c'est le comble de l'ignorance. <span id="p347">[<sup><small>p. 347</small></sup>]</span> 2\. « Le deuxième NEUF, (indivisé), montre la bonne fortune née de la fermeté et de la correction : » — il est à la place centrale, et l'action de son sujet devient ainsi correcte. 
+1\. « Sa queue est immergée » — c'est le comble de l'ignorance. <span id="p347"><sup><small>[ p. 347 ]</small></sup></span> 2\. « Le deuxième NEUF, (indivisé), montre la bonne fortune née de la fermeté et de la correction : » — il est à la place centrale, et l'action de son sujet devient ainsi correcte. 
 
 3\. « (L'état des choses) n'est pas encore corrigé. Progresser mènera au mal : » — la place (de la ligne) ne lui est pas appropriée. 
 
@@ -1229,13 +1229,13 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
 [^221]: 307:XXXII Comment l'interaction du vent et du tonnerre symbolise la leçon de l'hexagramme, et en particulier l'application dans ce paragraphe de ce symbolisme, est une question que je n'ai pas pu résoudre.
   Paragraphe 1. L'accent de ce qui est dit sous la ligne 1 est ici mis sur le fait qu'il s'agit de la première ligne de la figure. 
   Paragraphe 2. La ligne 2 est au centre de son trigramme, et cette position, ici comme souvent ailleurs, symbolise le cours de son sujet. 
-  Paragraphe 3. Les éditeurs de Khang-hsî font ici l'application = 'nulle part il ne peut supporter (de rester).' <span id="p308">[<sup><small>p. 308</small></sup>]</span> 
+  Paragraphe 3. Les éditeurs de Khang-hsî font ici l'application = 'nulle part il ne peut supporter (de rester).' <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> 
   Du paragraphe 5, il apparaît que ce qui est juste variera selon les cas. La leçon de l'hexagramme est la persévérance dans ce qui est juste dans chaque cas particulier. 
 
 [^222]: 308:XXXIII <i>K</i>û Hsî dit : — 'Le ciel est illimité ; une montagne est haute, mais a ses limites ; l'union de ces deux éléments est un emblème de retrait.' Je ne comprends pas un tel emblème. <i>Kh</i>ăng-žze dit : « Sous le ciel se trouve une montagne. La montagne s'élève sous le ciel, et sa hauteur est arrêtée, tandis que le ciel monte de plus en plus haut, jusqu'à ce qu'ils finissent par s'éloigner l'un de l'autre. Nous avons là un emblème de retrait et d'évitement. » Nous avons un peu le sentiment, comme p. 309, qu'il y avait un sens à cela ; mais, comme dans beaucoup d'autres cas, le symbolisme et son application ne sont que vaguement appréhendés. 
   Le symbolisme des différentes lignes est suffisamment expliqué dans le Texte. Le paragraphe 5 n'est qu'une répétition du Texte sans explication supplémentaire. 
 
-[^223]: 309:XXXIV Pour illustrer le symbolisme des trigrammes ici, <i>Kh</i>ăng-žze dit bien : « Le tonnerre roulant au-dessus du ciel et faisant trembler toutes choses est l'emblème d'une grande puissance. » Passant à son application, il commence par un beau dicton de l'Antiquité, selon lequel « l'homme fort est celui qui se surmonte lui-même ». Je peux bien croire que cette pensée était présente à l'esprit de l'auteur du paragraphe sur le Grand Symbolisme ; mais l'analogie entre les mondes naturel, moral et spirituel, en passant du phénomène du tonnerre à cette vérité, est une chose palpable, et qui peut difficilement être décrite. <span id="p310">[<sup><small>p. 310</small></sup>]</span> 
+[^223]: 309:XXXIV Pour illustrer le symbolisme des trigrammes ici, <i>Kh</i>ăng-žze dit bien : « Le tonnerre roulant au-dessus du ciel et faisant trembler toutes choses est l'emblème d'une grande puissance. » Passant à son application, il commence par un beau dicton de l'Antiquité, selon lequel « l'homme fort est celui qui se surmonte lui-même ». Je peux bien croire que cette pensée était présente à l'esprit de l'auteur du paragraphe sur le Grand Symbolisme ; mais l'analogie entre les mondes naturel, moral et spirituel, en passant du phénomène du tonnerre à cette vérité, est une chose palpable, et qui peut difficilement être décrite. <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> 
   Paragraphe 1. « Cela mènera à l'épuisement » ; et de là s'ensuivront la détresse et d'autres maux. 
   La position centrale et le juste milieu moral du paragraphe 2 sont un autre exemple de l'analogie ressentie mentionnée ci-dessus. 
   Au paragraphe 3, rien n'est ajouté au Texte ; et rien n'est dit sur le symbolisme. 
@@ -1312,7 +1312,7 @@ Il lui serait avantageux d'avoir la <span id="p339">[<sup><small>p. 339</small><
   Paragraphe 4. Les éditeurs de Khang-hsî disent : — « Un tel emploi d'hommes de valeur pour rendre service à des Êtres spirituels, c'est les servir selon leur esprit. » 
   Paragraphe 6. Quand on a atteint le plus haut sommet, on devrait penser à se retirer. Autrement, l'ambition risque de se dépasser. 
 
-[^236]: 326:XLVII La première phrase du Grand Symbolisme est construite différemment de toutes celles qui se sont présentées dans les 46 hexagrammes précédents. Traduite littéralement, elle serait « un marais sans eau est Khwăn » ; et cela pourrait certainement nous suggérer un état de détresse. Mais comment cela ressort-il des trigrammes ? Le supérieur est Tui, représentant un marais ; et l'inférieur est Khân, représentant l'eau dans un défilé. La collocation des deux suggère l'écoulement de l'eau du marais ou du lac dans le ruisseau, qui videra bientôt l'autre. Telle est l'opinion qui m'est venue ; et c'est la même que celle donnée par <i>K</i>û Hsî : « L'eau descendant et s'écoulant, le marais au-dessus deviendra sec. » L'application est bonne en soi, mais la concaténation entre elle et le Symbolisme est à peine discernable. <span id="p327">[<sup><small>p. 327</small></sup>]</span> 
+[^236]: 326:XLVII La première phrase du Grand Symbolisme est construite différemment de toutes celles qui se sont présentées dans les 46 hexagrammes précédents. Traduite littéralement, elle serait « un marais sans eau est Khwăn » ; et cela pourrait certainement nous suggérer un état de détresse. Mais comment cela ressort-il des trigrammes ? Le supérieur est Tui, représentant un marais ; et l'inférieur est Khân, représentant l'eau dans un défilé. La collocation des deux suggère l'écoulement de l'eau du marais ou du lac dans le ruisseau, qui videra bientôt l'autre. Telle est l'opinion qui m'est venue ; et c'est la même que celle donnée par <i>K</i>û Hsî : « L'eau descendant et s'écoulant, le marais au-dessus deviendra sec. » L'application est bonne en soi, mais la concaténation entre elle et le Symbolisme est à peine discernable. <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> 
   Le sujet de la ligne 1 est si stupide qu'il accroît sa détresse par son propre acte. 
   Les éditeurs de Khang-hsî disent que « le motif de félicitations du paragraphe 2 est le banquet et le sacrifice ». Je pense plutôt que c'est la mesure de l'aide que le sujet est censé apporter pour sortir de la détresse et de la détresse du moment. 
   Voir l'extrait des éditeurs de Khang-hsî sur le symbolisme de la troisième ligne du Texte. 
@@ -1356,7 +1356,7 @@ Français Il est dit au paragraphe 1 : « Ceux qui ont l'intention de faire quel
 
 [^244]: 336:LV La foudre apparaît ici comme le phénomène naturel dont Lî est le symbole. Les vertus attribuées aux deux trigrammes sont certainement requises dans leur application qui est ci-dessous ; mais cette application n'a que peu ou rien à voir avec l'explication de l'hexagramme fournie par le Texte. 
   Je comprends à peine la conclusion du paragraphe 1. Ma traduction est conforme à l'opinion de <i>K</i>û Hsî, si je la comprends bien. 
-  Paragraphe 2. C'est par une telle sincérité que l'esprit est affecté, c'est-à-dire l'esprit du dirigeant occupant la ligne 5. <span id="p337">[<sup><small>p. 337</small></sup>]</span> 
+  Paragraphe 2. C'est par une telle sincérité que l'esprit est affecté, c'est-à-dire l'esprit du dirigeant occupant la ligne 5. <span id="p337"><sup><small>[ p. 337 ]</small></sup></span> 
   La ligne 3 a un corrélat dans la 6, qui est faible, et comme hors jeu. La lumière dans la 3 est de plus cachée. D'où le symbolisme ; et par l'aveuglement de son sujet sa blessure, qui le rend impropre à être employé. 
   La ligne indivise comme la 4 est la 1 ; peut-être pourrions-nous traduire : « Il rencontre le sujet de la ligne parallèle. » 
   Personne d'autre que lui-même n'a confiance dans le sujet de la ligne 6. Il se tient à l'écart des autres, et ils le laissent à lui-même. 
@@ -1371,11 +1371,11 @@ Français Il est dit au paragraphe 1 : « Ceux qui ont l'intention de faire quel
 
 [^246]: 339:LVII J'ai dit sur le Thwan que certains commentateurs font du trigramme supérieur le symbole des ordonnances du souverain et du trigramme inférieur celui de l'obéissance du peuple. Par exemple, <i>Kh</i>ăng-žze dit : « Les supérieurs, en harmonie avec le devoir des inférieurs, donnent leurs ordres ; Les inférieurs, en harmonie avec les souhaits de leurs supérieurs, les suivent. Au-dessus et en dessous règnent cette harmonie et cette déférence ; et c'est la signification du Soleil redoublé. Lorsque les ordres et les affaires du gouvernement sont conformes à ce qui est juste, ils concordent avec les tendances d'esprit de ceux qui les suivent. Le 
   paragraphe 2 semble dire que la sincérité de l'intention indiquée par la position centrale de la deuxième ligne conduit son sujet sur la bonne voie, malgré les nombreuses considérations qui pourraient le distraire. 
-  « La volonté est épuisée » au paragraphe 3 suggère que « les efforts répétés » de son sujet l'ont épuisé. Il ne peut désormais que regretter ses échecs. <span id="p340">[<sup><small>p. 340</small></sup>]</span> 
+  « La volonté est épuisée » au paragraphe 3 suggère que « les efforts répétés » de son sujet l'ont épuisé. Il ne peut désormais que regretter ses échecs. <span id="p340"><sup><small>[ p. 340 ]</small></sup></span> 
   Ce qui est dit au paragraphe 6 procède d'une interprétation du Texte différente de celle que j'ai suivie. 
 
 [^247]: 340:LVIII L'application du Grand Symbolisme ici rappellera à de nombreux lecteurs les maximes hébraïques de Proverbes xxvii. 17, 19. Le sentiment qui en découle, cependant, ne s'intègre pas facilement à l'enseignement de l'hexagramme tel qu'il est exposé dans le Texte. 
-  Il n'y a rien dans la conduite du sujet de la ligne 1 qui puisse éveiller des soupçons. Il n'a jusqu'à présent pris aucune mesure ; mais il n'était pas nécessaire de dire quelque chose de tel à propos du sujet de la ligne 2, sa position centrale étant l'assurance qu'il ne ferait jamais rien de douteux. <span id="p314">[<sup><small>p. 314</small></sup>]</span> 
+  Il n'y a rien dans la conduite du sujet de la ligne 1 qui puisse éveiller des soupçons. Il n'a jusqu'à présent pris aucune mesure ; mais il n'était pas nécessaire de dire quelque chose de tel à propos du sujet de la ligne 2, sa position centrale étant l'assurance qu'il ne ferait jamais rien de douteux. <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> 
   La ligne 3 devrait être forte, et le désir de plaisir qui est l'idée de l'hexagramme conduit son faible sujet à la voie qui est si catégoriquement condamnée. 
   Le paragraphe 5 est incomplet. La justesse et la pertinence de la position du sujet de la ligne expliquent-elles sa confiance envers le sujet de la ligne faible située au-dessus, qui ne ferait que lui nuire ? Cela devrait au contraire l'en dissuader. Les commentateurs l'ont constaté.et dire que le paragraphe est destiné à servir de mise en garde.
   L'action de l'hexagramme devrait culminer et se terminer au vers 5. Mais son sujet n'a pas atteint avec brio la fermeté et la justesse nécessaires pour contrôler l'amour du plaisir. 

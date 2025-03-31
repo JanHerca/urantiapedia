@@ -36,7 +36,7 @@ NEUVIÈME LEÇON [^456].
 
 Lorsqu'un moine ou une nonne souhaite se rendre dans un lieu pur pour étudier, il [^457] ne doit pas accepter un lieu contaminé par des œufs ou des êtres vivants, etc., car il est impur et inacceptable. Mais si le lieu d'étude où il souhaite se rendre est exempt d'œufs ou d'êtres vivants, etc., il peut l'accepter, car il est pur et acceptable.
 
-<span id="p180">[<sup><small>p. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 De cette façon, tout ce qui a été dit dans le passage correspondant à propos des divans [^458] devrait être répété ici en ce qui concerne les « plantes aquatiques ». (1)
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 
 La lumière émanant du corps du héros atteignit même les royaumes où Mara, la Maléfique, régnait en maître. Elle éblouit Mara, et il lui sembla entendre une voix dire :
@@ -59,7 +59,7 @@ Mais Mara n'y prêta aucune attention. Il ordonna à l'armée d'avancer immédia
 
 « Celui qui est fou d’orgueil ne s’en remettra jamais. »
 
-L'armée de Mara était un spectacle effrayant. Elle était hérissée de piques, de flèches et d'épées ; beaucoup portaient d'énormes haches de guerre et de lourdes massues. Les soldats étaient noirs, bleus, jaunes, rouges, et leurs visages étaient terrifiants. Leurs yeux étaient des flammes cruelles ; leurs bouches crachaient du sang. Certains avaient des oreilles de chèvre, d'autres de cochon ou d'éléphant. Beaucoup avaient un corps en forme de cruche. L'un avait des pattes de tigre, une bosse de chameau et une tête d'âne ; un autre une crinière de lion, une corne de rhinocéros et une queue de singe. Beaucoup avaient deux, quatre ou cinq têtes, et d'autres dix, <span id="p92">[<sup><small>p. 92</small></sup>]</span> douze et vingt bras. En guise d'ornements, ils portaient des mâchoires, des crânes et des doigts humains atrophiés. Et secouant leurs têtes velues, ils avançaient avec des rires hideux et des cris sauvages :
+L'armée de Mara était un spectacle effrayant. Elle était hérissée de piques, de flèches et d'épées ; beaucoup portaient d'énormes haches de guerre et de lourdes massues. Les soldats étaient noirs, bleus, jaunes, rouges, et leurs visages étaient terrifiants. Leurs yeux étaient des flammes cruelles ; leurs bouches crachaient du sang. Certains avaient des oreilles de chèvre, d'autres de cochon ou d'éléphant. Beaucoup avaient un corps en forme de cruche. L'un avait des pattes de tigre, une bosse de chameau et une tête d'âne ; un autre une crinière de lion, une corne de rhinocéros et une queue de singe. Beaucoup avaient deux, quatre ou cinq têtes, et d'autres dix, <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> douze et vingt bras. En guise d'ornements, ils portaient des mâchoires, des crânes et des doigts humains atrophiés. Et secouant leurs têtes velues, ils avançaient avec des rires hideux et des cris sauvages :
 
 « Je peux tirer cent flèches d'un coup ; je saisirai le corps du moine. » « Ma main peut réduire en miettes le soleil, la lune et les étoiles ; il sera si facile d'écraser cet homme et son arbre. » « Mes yeux sont pleins de poison : ils dessécheraient la mer ; je le regarderai, et il brûlera. »
 
@@ -67,7 +67,7 @@ Sarthavaha resta à l'écart. Quelques amis s'étaient rassemblés autour de lui
 
 « Imbéciles ! Vous le croyez fou parce qu'il médite ; vous le croyez lâche parce qu'il est calme. C'est vous qui êtes fous, c'est vous qui êtes lâches. Vous ignorez sa puissance ; grâce à sa grande sagesse, il vous vaincra tous. Si vous étiez aussi nombreux que les grains de sable sur les rives du Gange, vous ne toucheriez pas un seul cheveu de sa tête. Et vous croyez pouvoir le tuer ! Oh, retournez-vous ! N'essayez pas de lui faire du mal ; inclinez-vous devant lui avec révérence. Son règne est arrivé. Les chacals hurlent dans les forêts quand le lion est absent, mais quand le lion rugit, les chacals s'enfuient, terrifiés. Imbéciles, imbéciles ! Vous criez avec fierté pendant que le maître se tait, mais quand le lion parle, vous prenez la fuite. »
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 L'armée écouta avec mépris ces paroles de sagesse prononcées par Sarthavaha et ses amis. Elle continua d'avancer.
 
@@ -83,7 +83,7 @@ Et, tout à coup, remplis de terreur à la vue de ces prodiges, les soldats du M
 
 Et Mara se tordit les mains d'angoisse, et il cria :
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 « Qu'ai-je fait pour que cet homme me batte ? Car ils sont nombreux ceux dont j'ai exaucé les désirs ! J'ai souvent été bon et généreux ! Ces lâches en fuite pourraient en témoigner. »
 
@@ -101,7 +101,7 @@ Mara resta muette de stupeur. La voix continua :
 
 Oui, moi, la Terre, moi, la mère de tous les êtres, je témoignerai de sa générosité. Cent fois, mille fois, au cours de ses existences précédentes, ses mains, ses yeux, sa tête, son corps tout entier ont été au service des autres. Et au cours de cette existence, qui sera la dernière, il détruira la vieillesse, la maladie et la mort. Autant il te surpasse en force, Mara, autant il te surpasse en générosité.
 
-Et le Malin vit une femme d'une grande beauté surgir de terre, jusqu'à la ceinture. Elle s'inclina <span id="p95">[<sup><small>p. 95</small></sup>]</span> devant le héros et, joignant les mains, dit : « Ô très saint des hommes, je témoigne de ta générosité. »
+Et le Malin vit une femme d'une grande beauté surgir de terre, jusqu'à la ceinture. Elle s'inclina <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> devant le héros et, joignant les mains, dit : « Ô très saint des hommes, je témoigne de ta générosité. »
 
 Puis elle a disparu.
 

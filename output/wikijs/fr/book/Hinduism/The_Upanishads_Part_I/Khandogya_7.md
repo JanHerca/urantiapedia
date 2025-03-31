@@ -38,7 +38,7 @@ SEPTIÈME PRAPÂ<i>TH</i>AKA.
 
 1\. Nârada s'approcha de Sanatkumâra et dit : « Apprends-moi, Seigneur ! » Sanatkumâra lui dit : « S'il te plaît, dis-moi ce que tu sais ; ensuite je te dirai ce qui est au-delà. »
 
-2\. Nârada dit : « Je connais le Rig-veda, Monsieur, le Ya<i>g</i>ur-veda, le Sâma-veda, comme quatrième l'Âtharva<i>n</i>a, comme cinquième l'Itihâsa-purâ<i>n</i>a (le Bhârata) ; le Veda des Vedas (grammaire) ; le Pitrya (les règles des sacrifices pour les ancêtres) ; le Râ<i>s</i>i (la science des nombres) ; le Daiva (la science des présages) ; le Nidhi (la science du temps) ; le Vâkovâkya (logique) ; l'Ekâyana (éthique) ; le Deva-vidyâ (étymologie) ; le Brahma-vidyâ (prononciation, <i>s</i>ikshâ, cérémonial, kalpa, prosodie, <i>kh</i>andas) ; la Bhûta-vidyâ (la science des démons) ; la Kshatra-vidyâ <span id="p110">[<sup><small>p. 110</small></sup>]</span> (la science des armes) ; la Nakshatra-vidyâ (l'astronomie) ; la Sarpa et la Deva<i>g</i>ana-vidyâ (la science des serpents ou des poisons, et les sciences des génies, telles que la fabrication des parfums, la danse, le chant, le jeu et autres beaux-arts) [^300]. Tout cela, je le sais, Monsieur.
+2\. Nârada dit : « Je connais le Rig-veda, Monsieur, le Ya<i>g</i>ur-veda, le Sâma-veda, comme quatrième l'Âtharva<i>n</i>a, comme cinquième l'Itihâsa-purâ<i>n</i>a (le Bhârata) ; le Veda des Vedas (grammaire) ; le Pitrya (les règles des sacrifices pour les ancêtres) ; le Râ<i>s</i>i (la science des nombres) ; le Daiva (la science des présages) ; le Nidhi (la science du temps) ; le Vâkovâkya (logique) ; l'Ekâyana (éthique) ; le Deva-vidyâ (étymologie) ; le Brahma-vidyâ (prononciation, <i>s</i>ikshâ, cérémonial, kalpa, prosodie, <i>kh</i>andas) ; la Bhûta-vidyâ (la science des démons) ; la Kshatra-vidyâ <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> (la science des armes) ; la Nakshatra-vidyâ (l'astronomie) ; la Sarpa et la Deva<i>g</i>ana-vidyâ (la science des serpents ou des poisons, et les sciences des génies, telles que la fabrication des parfums, la danse, le chant, le jeu et autres beaux-arts) [^300]. Tout cela, je le sais, Monsieur.
 
 3\. « Mais, Monsieur, malgré tout cela, je ne connais que les Mantras, les livres sacrés, je ne connais pas le Soi. J'ai entendu dire par des hommes comme vous que celui qui connaît le Soi surmonte le chagrin. Je suis dans le chagrin. Aidez-moi, Monsieur, à surmonter ce chagrin. »
 
@@ -46,7 +46,7 @@ Sanatkumâra lui dit : « Tout ce que tu as lu n'est qu'un nom.
 
 4\. Un nom est le Rig-veda, le Ya<i>g</i>ur-veda, le Sâma-veda, et comme quatrième l'Âtharvana, comme cinquième l'Itihâsa-purâ<i>n</i>a, le Véda des Védas, le Pitrya, le Râ<i>s</i>i, le Daiva, le Nidhi, le Vâkovâkya, l'Ekâyana, le Deva-vidyâ, le Brahma-vidyâ, le Bhûta-vidyâ, le Kshatra-vidyâ, le Nakshatra-vidyâ, le Sarpa et le Devagana-vidyâ. Tous ces noms ne sont qu'un nom. Méditez sur le nom.
 
-5\. « Celui qui médite sur le nom comme Brahman [^301], <span id="p111">[<sup><small>p. 111</small></sup>]</span> est, pour ainsi dire, seigneur et maître jusqu'où le nom atteint - celui qui médite sur le nom comme Brahman. »
+5\. « Celui qui médite sur le nom comme Brahman [^301], <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> est, pour ainsi dire, seigneur et maître jusqu'où le nom atteint - celui qui médite sur le nom comme Brahman. »
 
 « Monsieur, y a-t-il quelque chose de mieux qu’un nom ? »
 
@@ -68,7 +68,7 @@ Sanatkumâra lui dit : « Tout ce que tu as lu n'est qu'un nom.
 « Monsieur, dites-le-moi. »
 
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ## TROISIÈME KHA<i>N</i><i>D</i>A.
 
@@ -87,7 +87,7 @@ Sanatkumâra lui dit : « Tout ce que tu as lu n'est qu'un nom.
 
 1\. La volonté [^304] (saṅkalpa) est meilleure que l'esprit. Car lorsqu'un homme veut, il pense mentalement, puis il émet une parole, et il l'émet dans un nom. Dans un nom sont contenus les hymnes sacrés, dans les hymnes sacrés tous les sacrifices.
 
-2\. 'Tout cela donc (en commençant par l'esprit et <span id="p113">[<sup><small>p. 113</small></sup>]</span> se terminant par le sacrifice) se centre dans la volonté, consiste en volonté, demeure dans la volonté. Le ciel et la terre ont voulu, l'air et l'éther ont voulu, l'eau et le feu ont voulu. Par la volonté du ciel et de la terre, etc., la pluie veut ; par la volonté de la pluie, la nourriture veut ; par la volonté de la nourriture, les airs vitaux veulent ; par la volonté des airs vitaux, les hymnes sacrés veulent ; par la volonté des hymnes sacrés, les sacrifices veulent ; par la volonté des sacrifices, le monde (en récompense) veut ; par la volonté du monde, tout veut [1](Khandogya_7#fn305). Ceci est la volonté. Méditez sur la volonté.
+2\. 'Tout cela donc (en commençant par l'esprit et <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> se terminant par le sacrifice) se centre dans la volonté, consiste en volonté, demeure dans la volonté. Le ciel et la terre ont voulu, l'air et l'éther ont voulu, l'eau et le feu ont voulu. Par la volonté du ciel et de la terre, etc., la pluie veut ; par la volonté de la pluie, la nourriture veut ; par la volonté de la nourriture, les airs vitaux veulent ; par la volonté des airs vitaux, les hymnes sacrés veulent ; par la volonté des hymnes sacrés, les sacrifices veulent ; par la volonté des sacrifices, le monde (en récompense) veut ; par la volonté du monde, tout veut [1](Khandogya_7#fn305). Ceci est la volonté. Méditez sur la volonté.
 
 3\. « Celui qui médite sur la volonté en tant que Brahman, étant lui-même en sécurité, ferme et sans détresse, obtient les mondes sûrs, fermes et sans détresse qu'il a voulus ; il est, pour ainsi dire, seigneur et maître aussi loin que la volonté atteint — celui qui médite sur la volonté en tant que Brahman. »
 
@@ -130,7 +130,7 @@ Sanatkumâra lui dit : « Tout ce que tu as lu n'est qu'un nom.
 
 1\. « La compréhension (vi<i>g</i>ñâna) est meilleure que la réflexion. Par la compréhension, nous comprenons le Rig-veda, le Ya<i>g</i>ur-veda, le Sâma-veda, et comme quatrième l'Âtharvana, comme cinquième l'Itihâsa-purâ<i>n</i>a [^308], le Véda des Védas, le Pitrya, le Râ<i>s</i>i, le Daiva, le Nidhi, le Vâkovâkya, l'Ekâyana, le Deva-vidyâ, le Brahma-vidyâ, le Bhûta-vidyâ, le Kshatra-vidyâ, le Nakshatra-vidyâ, le Sarpa et le Deva<i>g</i>ana-vidyâ, le ciel, la terre, l'air, l'éther, l'eau, le feu, les dieux, les hommes, le bétail, les oiseaux, les herbes, les arbres, toutes les bêtes jusqu'aux vers, aux moucherons et aux fourmis ; ce qui est bien et ce qui est mal ; ce qui est vrai et ce qui est faux ; Ce qui est bien et ce qui est mal, ce qui est agréable et ce qui ne l'est pas, la nourriture et la saveur, ce monde et ce qui l'est, tout cela, nous le comprenons par l'intelligence. Méditons sur l'intelligence.
 
-2\. « Celui qui médite sur la compréhension en tant que Brahman, atteint les mondes où il y a compréhension <span id="p116">[<sup><small>p. 116</small></sup>]</span> et connaissance [^309] ; il est, pour ainsi dire, seigneur et maître aussi loin que s'étend la compréhension — celui qui médite sur la compréhension en tant que Brahman. »
+2\. « Celui qui médite sur la compréhension en tant que Brahman, atteint les mondes où il y a compréhension <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> et connaissance [^309] ; il est, pour ainsi dire, seigneur et maître aussi loin que s'étend la compréhension — celui qui médite sur la compréhension en tant que Brahman. »
 
 « Monsieur, y a-t-il quelque chose de mieux que de comprendre ? »
 
@@ -180,7 +180,7 @@ Sanatkumâra lui dit : « Tout ce que tu as lu n'est qu'un nom.
 
 ## ONZIÈME KHA<i>N</i><i>D</i>A.
 
-1\. « Le feu (te<i>g</i>as) est meilleur que l'eau. Car le feu uni à l'air réchauffe l'éther. » Alors les gens disent : « Il fait chaud, il brûle, il pleuvra. » Ainsi le feu, après avoir d'abord montré ce signe, crée l'eau. Et <span id="p118">[<sup><small>p. 118</small></sup>]</span> ainsi de nouveau des coups de tonnerre accompagnés d'éclairs, fulgurant vers le haut et à travers le ciel. Alors les gens disent : « Il y a des éclairs et du tonnerre, il pleuvra. » Alors le feu aussi, après avoir d'abord montré ce signe, crée l'eau. Méditez sur le feu.
+1\. « Le feu (te<i>g</i>as) est meilleur que l'eau. Car le feu uni à l'air réchauffe l'éther. » Alors les gens disent : « Il fait chaud, il brûle, il pleuvra. » Ainsi le feu, après avoir d'abord montré ce signe, crée l'eau. Et <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> ainsi de nouveau des coups de tonnerre accompagnés d'éclairs, fulgurant vers le haut et à travers le ciel. Alors les gens disent : « Il y a des éclairs et du tonnerre, il pleuvra. » Alors le feu aussi, après avoir d'abord montré ce signe, crée l'eau. Méditez sur le feu.
 
 2\. « Celui qui médite sur le feu en tant que Brahman, obtient, resplendissant lui-même, des mondes resplendissants, pleins de lumière et exempts d'obscurité ; il est, pour ainsi dire, seigneur et maître aussi loin que le feu s'étend, celui qui médite sur le feu en tant que Brahman. »
 
@@ -199,7 +199,7 @@ Sanatkumâra lui dit : « Tout ce que tu as lu n'est qu'un nom.
 
 « Monsieur, y a-t-il quelque chose de mieux que l’éther ? »
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Oui, il y a quelque chose de mieux que l'éther.
 
@@ -232,7 +232,7 @@ Oui, il y a quelque chose de mieux que l'éther.
 « Monsieur, dites-le-moi. »
 
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 ## QUINZIÈME KHA<i>N</i><i>D</i>A.
 
@@ -270,7 +270,7 @@ Oui, il y a quelque chose de mieux que l'éther.
 « Monsieur, je désire le comprendre. »
 
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 ## DIX-NEUVIÈME KHA<i>N</i><i>D</i>A.
 
@@ -299,7 +299,7 @@ Oui, il y a quelque chose de mieux que l'éther.
 « Monsieur, je désire le comprendre. »
 
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 ## VINGT-TROISIÈME KHA<i>N</i><i>D</i>A.
 
@@ -321,7 +321,7 @@ Oui, il y a quelque chose de mieux que l'éther.
 
 1\. « L'Infini est en effet en bas, en haut, derrière, devant, à droite et à gauche — il est en effet tout cela.
 
-« Voici maintenant l'explication de l'Infini comme <span id="p124">[<sup><small>p. 124</small></sup>]</span> le Je : je suis en bas, je suis au-dessus, je suis derrière, devant, à droite et à gauche — je suis tout cela.
+« Voici maintenant l'explication de l'Infini comme <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> le Je : je suis en bas, je suis au-dessus, je suis derrière, devant, à droite et à gauche — je suis tout cela.
 
 2\. 'Suite ensuite l'explication de l'Infini comme le Soi : le Soi est en bas, au-dessus, derrière, devant, à droite et à gauche — le Soi est tout cela.
 
@@ -336,7 +336,7 @@ Oui, il y a quelque chose de mieux que l'éther.
 
 2\. Il y a ce verset : « Celui qui voit cela, ne voit ni la mort, ni la maladie, ni la douleur ; celui qui voit cela, voit tout, et obtient tout partout.
 
-« Il est un (avant la création), il devient trois <span id="p125">[<sup><small>p. 125</small></sup>]</span> (feu, eau, terre), il devient cinq, il devient sept, il devient neuf ; puis il est appelé à nouveau le onzième, et cent dix et mille vingt [^324]. »
+« Il est un (avant la création), il devient trois <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> (feu, eau, terre), il devient cinq, il devient sept, il devient neuf ; puis il est appelé à nouveau le onzième, et cent dix et mille vingt [^324]. »
 
 « Lorsque l'aliment intellectuel est purifié, la nature entière est purifiée. Lorsque la nature entière est purifiée, la mémoire devient ferme. Et lorsque la mémoire (du Soi suprême) reste ferme, alors tous les liens (qui nous attachent à une croyance en autre chose que le Soi) sont relâchés. »
 

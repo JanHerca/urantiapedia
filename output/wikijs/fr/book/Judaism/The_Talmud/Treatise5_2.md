@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 1\. Au début, tous ceux qui voulaient purifier l'autel le purifiaient. Lorsqu'ils étaient nombreux, ils couraient et montaient la montée, et celui qui, au milieu, dépassait son compagnon de quatre coudées, gagnait. Si deux étaient à égalité, le président leur disait : « Levez les doigts. » [^198] « Et qu'est-ce que cela ? » « Ils levaient un ou deux doigts, mais personne ne levait le pouce dans le sanctuaire. »
 
@@ -42,7 +42,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 4\. Le troisième lot [^199] était réservé aux nouveaux venus pour offrir l'encens, et ils tiraient au sort. Le quatrième lot était réservé aux nouveaux venus avec les anciens, qui devaient porter les membres de la montée à l'autel.
 
-5\. L'offrande quotidienne était avec neuf, dix, onze, douze sacrificateurs ; ni moins ni plus. « Comment ? » « Elle-même avec neuf : <span id="p122">[<sup><small>p. 122</small></sup>]</span> à la fête des Tabernacles, dans la main de l'un, un verre d'eau, il y en a dix. L'offrande du soir avec onze, elle-même avec neuf, et dans les mains de deux, deux fagots de bois. Le sabbat, onze ; elle-même avec neuf, et deux, dans leurs mains, deux morceaux d'encens des pains de proposition. Et le sabbat, à la fête des Tabernacles, dans la main de l'un, un verre d'eau. »
+5\. L'offrande quotidienne était avec neuf, dix, onze, douze sacrificateurs ; ni moins ni plus. « Comment ? » « Elle-même avec neuf : <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> à la fête des Tabernacles, dans la main de l'un, un verre d'eau, il y en a dix. L'offrande du soir avec onze, elle-même avec neuf, et dans les mains de deux, deux fagots de bois. Le sabbat, onze ; elle-même avec neuf, et deux, dans leurs mains, deux morceaux d'encens des pains de proposition. Et le sabbat, à la fête des Tabernacles, dans la main de l'un, un verre d'eau. »
 
 6\. Le bélier était offert avec onze pièces, la chair avec cinq pièces, l'intérieur, la fleur de farine et le vin, à chacun deux pièces.
 

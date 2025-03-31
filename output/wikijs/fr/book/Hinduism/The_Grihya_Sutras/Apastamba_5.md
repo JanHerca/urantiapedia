@@ -44,7 +44,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 5\. Le (Brahma<i>k</i>ârin) le cache avec le prochain Ya<i>k</i>us (II, 7, 5) à la racine d'un arbre Udumbara ou dans une touffe d'herbe Darbha.
 
-6\. [^764] Avec l'eau de la description indiquée ci-dessus, il <span id="p276">[<sup><small>p. 276</small></sup>]</span> se baigne avec les six suivants (versets ; II, 7, 6-11), et avec le suivant (II, 7, 12) il nettoie ses dents avec un bâton de bois d'Udumbara.
+6\. [^764] Avec l'eau de la description indiquée ci-dessus, il <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> se baigne avec les six suivants (versets ; II, 7, 6-11), et avec le suivant (II, 7, 12) il nettoie ses dents avec un bâton de bois d'Udumbara.
 
 7\. Après avoir lavé et shampouiné son corps avec des ingrédients utilisés pour le bain (poudre aromatique, etc.),
 
@@ -54,7 +54,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 10\. Après avoir accompli (les cérémonies) jusqu'à l'aspersion (d'eau) autour (du feu), il doit attacher (une des boucles d'oreilles) avec les mêmes (versets) à son oreille droite, et avec les mêmes (versets) à son oreille gauche.
 
-11\. De même, il doit, selon les caractéristiques qui y sont contenues, mettre une couronne sur sa <span id="p277">[<sup><small>p. 277</small></sup>]</span> tête, oindre ses yeux, se regarder dans un miroir, mettre des chaussures, et prendre un parasol et un bâton.
+11\. De même, il doit, selon les caractéristiques qui y sont contenues, mettre une couronne sur sa <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> tête, oindre ses yeux, se regarder dans un miroir, mettre des chaussures, et prendre un parasol et un bâton.
 
 12\. Il garde le silence jusqu'à ce que les étoiles apparaissent.
 
@@ -79,7 +79,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. Après avoir touché celui qui le lave, il doit se toucher lui-même (c'est-à-dire son propre cœur) avec le suivant (formule, M. II, 9, II).
 
-7\. (L'hôte, prenant l'eau d'Argha) dans un <span id="p278">[<sup><small>p. 278</small></sup>]</span> récipient en terre qu'il tient avec deux touffes d'herbe, annonce (à l'invité) : « L'eau d'Argha ! »
+7\. (L'hôte, prenant l'eau d'Argha) dans un <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> récipient en terre qu'il tient avec deux touffes d'herbe, annonce (à l'invité) : « L'eau d'Argha ! »
 
 8\. (L'invité) doit réciter la prochaine (formule, II, 9, 12) sur (cette eau) et doit murmurer le prochain Ya<i>g</i>us (II, 9, 13), tandis qu'une partie (de l'eau) est versée sur ses mains jointes.
 
@@ -97,7 +97,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 15\. (L'hôte) annonce la vache avec (le mot), « La vache ! »
 
-16\. Après que l'invité a récité la formule suivante (M. II, 10, 6), il refroidit l'épiploon de la vache, et après avoir répandu et aspergé l'épiploon, il le sacrifie avec le verset suivant (M. II, 10, 7) avec une feuille de Palâ<i>s</i>a prise au milieu ou à l'extrémité (de la tige). <span id="p279">[<sup><small>p. 279</small></sup>]</span>
+16\. Après que l'invité a récité la formule suivante (M. II, 10, 6), il refroidit l'épiploon de la vache, et après avoir répandu et aspergé l'épiploon, il le sacrifie avec le verset suivant (M. II, 10, 7) avec une feuille de Palâ<i>s</i>a prise au milieu ou à l'extrémité (de la tige). <span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 17\. Si l'invité choisit de lâcher (la vache), il murmure la formule suivante (II, 10, 8-11) à voix basse (et dit) à voix haute : « Om ! Lâche-la ! » (II, 10, 12).
 

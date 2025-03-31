@@ -44,7 +44,7 @@ Sa femme s'appelait Sivâ et son fils célèbre était le vénérable Arishtanê
 
 Cet Arish<i>t</i>anêmi, qui était doué d'une excellente voix et possédait les mille et huit marques chanceuses du corps, était un Gautama, et sa peau était noire. (5)
 
-Son corps était fort comme celui d'un taureau, et dur <span id="p113">[<sup><small>p. 113</small></sup>]</span> comme l'acier ; il était bien proportionné et avait un ventre comme celui d'un poisson.
+Son corps était fort comme celui d'un taureau, et dur <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> comme l'acier ; il était bien proportionné et avait un ventre comme celui d'un poisson.
 
 Kê<i>s</i>ava a demandé la jeune fille Râ<i>g</i>îmatî [^291] en mariage pour lui. (6)
 
@@ -56,7 +56,7 @@ Il avait pris un bain contenant toutes les herbes (porteuses) et avait accompli 
 
 Monté sur le meilleur mât d'éléphant [^293] de Vâsudêva, il était beau, comme un joyau porté sur la tête. (10)
 
-Il était assis sous un parapluie levé, ventilé par deux chowries, et il était entouré de tous côtés par une armée de Da<i>s</i>ârhas [^294] et par une armée complète déployée <span id="p114">[<sup><small>p. 114</small></sup>]</span> en rang et en file, tandis que le son céleste des instruments de musique atteignait le ciel. (11, 12)
+Il était assis sous un parapluie levé, ventilé par deux chowries, et il était entouré de tous côtés par une armée de Da<i>s</i>ârhas [^294] et par une armée complète déployée <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> en rang et en file, tandis que le son céleste des instruments de musique atteignait le ciel. (11, 12)
 
 Avec tant de pompe et de splendeur, le héros du V<i>ri</i>sh<i>n</i>is quitta son propre palais. (13)
 
@@ -74,7 +74,7 @@ Après avoir entendu ces paroles, qui annonçaient le massacre de nombreux anima
 
 L'homme célèbre offrit alors au cocher sa paire de boucles d'oreilles, son collier et tous ses ornements. (20)
 
-Lorsqu'il eut pris sa résolution, les dieux <span id="p115">[<sup><small>p. 115</small></sup>]</span> descendirent (du ciel), selon la coutume établie, pour célébrer, en grande pompe, avec leur suite, l'événement de son renoncement. (21)
+Lorsqu'il eut pris sa résolution, les dieux <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> descendirent (du ciel), selon la coutume établie, pour célébrer, en grande pompe, avec leur suite, l'événement de son renoncement. (21)
 
 Entouré de dieux et d'hommes, et assis sur un excellent palankin, le Vénérable quitta Dvârakâ et gravit le mont Raivataka [^297] (22)
 
@@ -90,7 +90,7 @@ De cette manière, Râma et Kêsava, les Dasârhas et de nombreuses personnes re
 
 Lorsque la fille du roi entendit parler de l'ordination de la Gina, le rire et la gaieté la quittèrent et elle fut accablée d'affliction [^299]. (28)
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Râ<i>g</i>îmatî pensa : « Honte à ma vie, d'avoir été abandonnée par lui ! Il vaut mieux que je devienne nonne. » (29)
 
@@ -102,7 +102,7 @@ Lorsqu'elle fut entrée dans l'ordre, la vertueuse et très savante dame incita 
 
 Sur son chemin vers le mont Raivataka, il commença à pleuvoir ; ses vêtements étant mouillés, elle entra dans une grotte et attendit là dans l'obscurité pendant qu'il pleuvait. (33)
 
-Elle ôta ses vêtements et était nue comme elle était née, ainsi elle fut vue par Rathanêmi [^301], dont la <span id="p117">[<sup><small>p. 117</small></sup>]</span> (paix de) l'esprit fut (de ce fait) troublée ; et ensuite elle le vit. (34)
+Elle ôta ses vêtements et était nue comme elle était née, ainsi elle fut vue par Rathanêmi [^301], dont la <span id="p117"><sup><small>[ p. 117 ]</small></sup></span> (paix de) l'esprit fut (de ce fait) troublée ; et ensuite elle le vit. (34)
 
 Elle fut effrayée lorsqu'elle se retrouva seule avec le moine ; croisant les bras sur sa poitrine, elle s'affaissa en tremblant. (35)
 
@@ -118,7 +118,7 @@ La fille du meilleur roi, fidèle à la maîtrise de soi et à ses vœux, mainti
 
 « Si tu possédais la beauté de Vai<i>s</i>rama<i>n</i>a [^303], les manières agréables de Nalakûbara [^304], si tu étais comme Purandara [^305] lui-même, je n'aurais aucun désir pour toi. (41)
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 « Fi de toi, célèbre chevalier, qui veux boire la boisson vomie pour sauver cette vie ; il vaudrait mieux pour toi mourir [^306]. » (42)
 
@@ -132,7 +132,7 @@ Ayant entendu ces paroles bien dites de la vertueuse dame, il retourna à la Loi
 
 Protégé dans ses pensées, ses paroles et ses actes, maîtrisant ses sens et respectant ses vœux, il pratiqua le véritable <i>S</i>rama<i>n</i>a tout au long de sa vie. (47)
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Après avoir pratiqué de sévères austérités, tous deux devinrent des Kêvalins, et ayant complètement annihilé leur Karman, ils atteignirent la plus haute perfection. (48)
 

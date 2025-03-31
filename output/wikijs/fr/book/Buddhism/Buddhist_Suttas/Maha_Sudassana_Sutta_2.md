@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 ## LE GRAND ROI DE GLOIRE. MAHÂ-SUDASSANA-SUTTA. CHAPITRE II.
 
@@ -60,7 +60,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « Jusqu’ici seulement, ô pensées de haine ! »
 
-4\. « Et lorsque Ananda, le Grand Roi de Gloire, entra dans la chambre du Grand Complexe, <span id="p272">[<sup><small>p. 272</small></sup>]</span> et s'assit sur le lit d'or, ayant mis de côté toute passion et toute injustice, il entra et demeura dans le Premier <i>Gh</i>âna, un état de joie et de bien-être, né de la réclusion, plein de réflexion, plein d'investigation.
+4\. « Et lorsque Ananda, le Grand Roi de Gloire, entra dans la chambre du Grand Complexe, <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> et s'assit sur le lit d'or, ayant mis de côté toute passion et toute injustice, il entra et demeura dans le Premier <i>Gh</i>âna, un état de joie et de bien-être, né de la réclusion, plein de réflexion, plein d'investigation.
 
 5\. « En supprimant la réflexion et l'investigation, il entra et demeura dans le Second <i>Gh</i>âna, un état de joie et de bien-être, né de la sérénité, sans réflexion, sans investigation, un état d'élévation de l'esprit, de calme intérieur.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 ---
 
-8\. « Alors, Ananda, le Grand Roi de Gloire, sortit de la chambre du Grand Complexe, entra dans la chambre dorée et s'assit sur le lit d'argent. Et il laissa son esprit imprégner <span id="p273">[<sup><small>p. 273</small></sup>]</span> un quart du monde de pensées d'Amour ; et ainsi le deuxième quart, puis le troisième, puis le quatrième. Et ainsi le vaste monde, au-dessus, en dessous, autour et partout, continua-t-il à imprégner d'un cœur d'Amour, d'une portée immense, devenu immense et sans mesure, libre de la moindre trace de colère ou de mauvaise volonté. »
+8\. « Alors, Ananda, le Grand Roi de Gloire, sortit de la chambre du Grand Complexe, entra dans la chambre dorée et s'assit sur le lit d'argent. Et il laissa son esprit imprégner <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> un quart du monde de pensées d'Amour ; et ainsi le deuxième quart, puis le troisième, puis le quatrième. Et ainsi le vaste monde, au-dessus, en dessous, autour et partout, continua-t-il à imprégner d'un cœur d'Amour, d'une portée immense, devenu immense et sans mesure, libre de la moindre trace de colère ou de mauvaise volonté. »
 
 9\. « Et il laissa son esprit imprégner un quart du monde de pensées de Pitié ; et ainsi le deuxième quart, puis le troisième, puis le quatrième. Et ainsi le vaste monde, au-dessus, en dessous, autour et partout, continua-t-il à imprégner d'un cœur de Pitié, d'une portée immense, devenue immense et dénuée de toute trace de colère ou de mauvaise volonté. »
 
@@ -78,7 +78,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 11\. « Et il laissa son esprit imprégner un quart du monde de pensées d'Équanimité [^3] ; et ainsi le deuxième quart, puis le troisième, puis le quatrième. Et ainsi le vaste monde, au-dessus, en dessous, autour et partout, continua-t-il à imprégner d'un cœur d'Équanimité, d'une portée immense, devenu immense et dénué de toute trace de colère ou de mauvaise volonté. »
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 12\. 'Le Grand Roi de Gloire, Ânanda, avait quatre-vingt mille villes, dont la principale était la ville royale de Kusâvatî :
 
@@ -98,7 +98,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « Quatre-vingt mille épouses, dont la Reine de Gloire était la principale :
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 « Quatre-vingt mille yeomen, dont le Merveilleux Intendant était le chef :
 
@@ -120,7 +120,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 15\. « Alors, Ananda, le Grand Roi de Gloire, dit au Grand Conseiller :
 
-« Ô mon ami, le Grand Conseiller ! Ces quatre-vingt mille éléphants viennent chaque soir et chaque matin pour me servir. Maintenant, que les éléphants viennent, ô mon ami, le Grand Conseiller, en <span id="p276">[<sup><small>p. 276</small></sup>]</span> alternance de quarante mille, une fois chacun, tous les cent ans sur deux ! »
+« Ô mon ami, le Grand Conseiller ! Ces quatre-vingt mille éléphants viennent chaque soir et chaque matin pour me servir. Maintenant, que les éléphants viennent, ô mon ami, le Grand Conseiller, en <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> alternance de quarante mille, une fois chacun, tous les cent ans sur deux ! »
 
 « De même, Seigneur ! » dit le Merveilleux Conseiller en signe d’assentiment au Grand Roi de Gloire.
 
@@ -142,7 +142,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « Dispose, ô Grand Conseiller, la quadruple armée en ordre. Il y a longtemps que je n'ai pas contemplé le Grand Roi de Gloire. Je m'apprête à aller lui rendre visite. »
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 21\. « De même, ô Reine ! » dit le Grand Conseiller, Ananda, en signe d'assentiment à la Reine de Gloire. Il déploya alors la quadruple armée et fit annoncer le fait à la Reine de Gloire en ces termes :
 
@@ -164,7 +164,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « Lève-toi, bon homme ! Prends le lit d'or hors de la chambre du Grand Complexe et prépare-le sous ce bosquet de palmiers qui est tout en or. »
 
-26\. « Ainsi donc, Seigneur ! » dit l'homme en signe d'assentiment au Grand Roi de Gloire. Et il sortit le lit d'or de la chambre du Grand Complexe et le prépara sous ce bosquet de palmiers tout d'or. <span id="p278">[<sup><small>p. 278</small></sup>]</span>
+26\. « Ainsi donc, Seigneur ! » dit l'homme en signe d'assentiment au Grand Roi de Gloire. Et il sortit le lit d'or de la chambre du Grand Complexe et le prépara sous ce bosquet de palmiers tout d'or. <span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 27\. « Alors, Ananda, le Grand Roi de Gloire, s'allongea avec la dignité d'un lion, et resta allongé, une jambe posée sur l'autre, calme et maître de lui.
 
@@ -182,7 +182,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « À toi, ô Roi, appartiennent ces quatre-vingt mille chambres, dont la principale est la chambre du Grand Complexe. Lève-toi, ô Roi, réveille ton désir pour celles-ci ! Accélère ton désir de vie !
 
-« À toi, ô Roi, sont ces quatre-vingt mille divans, d'or, d'argent, d'ivoire et de bois de santal, recouverts de tapis à poils longs, de tissus brodés de fleurs et de magnifiques peaux d'antilopes ; couverts de hauts dais ; et pourvus aux deux extrémités de coussins pourpres. Lève-toi, <span id="p279">[<sup><small>p. 279</small></sup>]</span> Ô Roi, réveille ton désir pour ceux-ci ! Accroît ton désir de vivre !
+« À toi, ô Roi, sont ces quatre-vingt mille divans, d'or, d'argent, d'ivoire et de bois de santal, recouverts de tapis à poils longs, de tissus brodés de fleurs et de magnifiques peaux d'antilopes ; couverts de hauts dais ; et pourvus aux deux extrémités de coussins pourpres. Lève-toi, <span id="p279"><sup><small>[ p. 279 ]</small></sup></span> Ô Roi, réveille ton désir pour ceux-ci ! Accroît ton désir de vivre !
 
 « À toi, ô Roi, appartiennent ces quatre-vingt mille éléphants d'État, avec leurs harnais d'or, leurs drapeaux dorés et leurs filets dorés, dont le roi des éléphants, appelé « les Changements de la Lune », est le chef. Lève-toi, ô Roi, réveille ton désir pour ceux-ci ! Ravive ton désir de vivre !
 
@@ -212,7 +212,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 31\. « Comment donc, ô Roi, m’adresserai-je à toi ? »
 
-« Ainsi, ô Reine, devrais-tu m'adresser la parole : — La nature de toutes choses qui nous sont proches et chères, ô Roi, est telle que nous devons les quitter, nous en séparer, nous en séparer[^7]. Ne passe pas, ô Roi, avec le désir dans ton cœur. Triste est la mort de celui qui désire, indigne est la mort de celui qui désire[^8]. À toi, ô Roi, sont nos <span id="p281">[<sup><small>p. 281</small></sup>]</span> et quatre-vingt mille villes, dont la principale est la cité royale de Kusâvatî. Rejette tout désir pour celles-ci ! Ne désire pas la vie !
+« Ainsi, ô Reine, devrais-tu m'adresser la parole : — La nature de toutes choses qui nous sont proches et chères, ô Roi, est telle que nous devons les quitter, nous en séparer, nous en séparer[^7]. Ne passe pas, ô Roi, avec le désir dans ton cœur. Triste est la mort de celui qui désire, indigne est la mort de celui qui désire[^8]. À toi, ô Roi, sont nos <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> et quatre-vingt mille villes, dont la principale est la cité royale de Kusâvatî. Rejette tout désir pour celles-ci ! Ne désire pas la vie !
 
 « À toi, ô Roi, appartiennent ces quatre-vingt mille palais, dont le principal est le Palais de Justice. Rejette tout désir pour ceux-ci ! Ne désire pas la vie !
 
@@ -226,7 +226,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « À toi, ô Roi, appartiennent ces quatre-vingt mille chars, recouverts de peaux de lions, de tigres et de panthères, dont le char appelé « le Drapeau de la Victoire » est le principal. Rejette tout désir pour ceux-ci ! Ne désire pas la vie !
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 « À toi, ô Roi, appartiennent ces quatre-vingt mille pierres précieuses, dont la gemme merveilleuse est la principale. Rejette tout désir pour elles ! Ne désire pas la vie !
 
@@ -278,7 +278,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 ---
 
-34\. « Alors, Ânanda, le Grand Roi de Gloire, mourut immédiatement. De même, Ânanda, qu'un fermier qui a mangé un bon repas s'endort, <span id="p285">[<sup><small>p. 285</small></sup>]</span>, tels furent les sentiments qu'il éprouva, Ânanda, lorsque la mort s'abattit sur le Grand Roi de Gloire.
+34\. « Alors, Ânanda, le Grand Roi de Gloire, mourut immédiatement. De même, Ânanda, qu'un fermier qui a mangé un bon repas s'endort, <span id="p285"><sup><small>[ p. 285 ]</small></sup></span>, tels furent les sentiments qu'il éprouva, Ânanda, lorsque la mort s'abattit sur le Grand Roi de Gloire.
 
 35\. « Lorsque le Grand Roi de Gloire, Ananda, fut mort, il revint à la vie dans le monde heureux de Brahmâ.
 
@@ -294,7 +294,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « À moi appartenaient les quatre-vingt mille chambres, dont la principale était la chambre du Grand Complexe.
 
-« À moi, les quatre-vingt mille divans, <span id="p286">[<sup><small>p. 286</small></sup>]</span> d'or, d'argent, d'ivoire et de bois de santal, recouverts de tapis à poils longs, de tissus brodés de fleurs et de magnifiques peaux d'antilopes ; couverts de hauts dais ; et pourvus aux deux extrémités de coussins violets.
+« À moi, les quatre-vingt mille divans, <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> d'or, d'argent, d'ivoire et de bois de santal, recouverts de tapis à poils longs, de tissus brodés de fleurs et de magnifiques peaux d'antilopes ; couverts de hauts dais ; et pourvus aux deux extrémités de coussins violets.
 
 « À moi appartenaient les quatre-vingt mille éléphants d'État, avec des harnais d'or, des drapeaux dorés et des couvertures de réseau d'or, dont le roi des éléphants, appelé « les Changements de la Lune », était le chef.
 
@@ -318,7 +318,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 ---
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 38\. « De ces quatre-vingt mille villes, Ânanda, l'une était celle dans laquelle, à cette époque, j'habitais, à savoir la ville royale de Kusâvatî.
 
@@ -338,7 +338,7 @@ De ces quatre-vingt mille divans aussi, Ananda, l'un était celui que j'occupais
 
 « Parmi ces quatre-vingt mille myriades de vêtements, Ananda, l'un d'eux était celui que je portais à cette époque, à savoir un vêtement de texture délicate, en lin, en coton, en soie ou en laine.
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 « Parmi ces quatre-vingt mille plats aussi, Ananda, l'un était celui dans lequel, à ce moment-là, j'ai mangé une mesure de riz et le curry qui convenait.
 
@@ -352,7 +352,7 @@ De ces quatre-vingt mille divans aussi, Ananda, l'un était celui que j'occupais
 
 41\. 'Mais je ne vois aucun endroit, Ânanda, dans le monde des hommes et des dieux, ni dans le monde de Mâra, ni dans le monde de Brahma, — non, pas parmi la race des Sama<i>n</i>as ou des Brâhmanes, des dieux ou des hommes, — où le Tathâgata pour la huitième fois déposera son corps[^10].'
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 42\. Ainsi parla le Bienheureux ; et lorsque le Bienheureux eut ainsi parlé, le Maître dit de nouveau :
 
@@ -365,7 +365,7 @@ Et c'est alors que le mieux est de se reposer[^11] !
 
 Fin du Mahâ-Sudassana Sutta.
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

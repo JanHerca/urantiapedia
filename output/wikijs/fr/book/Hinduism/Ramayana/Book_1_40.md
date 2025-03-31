@@ -78,7 +78,7 @@ Il mesura d'un pas puissant,
 Enjambé avec le prochain le firmament,
 Et avec le troisième il traversa le ciel.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Ainsi fut précipité le roi des démons
 Par Vishnu au monde inférieur,
@@ -199,7 +199,7 @@ Máricha sur la poitrine.
 Au plus profond de sa chair se trouvait l'arme
 Ailé par le sort mystique,
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 Et, projeté à cent lieues de là,
 Il tomba dans le déluge de l'océan.
@@ -318,7 +318,7 @@ En signe de révérence envers la foule des ermites,
 Et Rama, l'ayant fait asseoir
 Devant le saint de pure renommée,
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Avec d'humbles paumes jointes
 Sa supplication ardente fut faite :
@@ -428,7 +428,7 @@ Chaque forme majestueuse doit être courbée et courbée.
 Plié en deux par la colère du Dieu du Vent
 Ils cherchèrent le palais de leur père,
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 Il tomba à terre avec des soupirs,
 Alors que les larmes et la honte étaient dans leurs yeux.
@@ -546,7 +546,7 @@ Ses filles ; et, embrassant chacune d'elles,
 Elle contemplait leurs formes avec tendresse,
 Et le royal Kus'anábha fut loué.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 
 
@@ -662,7 +662,7 @@ Et nous faire atterrir sur l'autre rive ?
 Le saint répondit : « La voie que je choisis
 C'est ce qu'utilisent les pieux ermites.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Ils ont voyagé pendant de nombreuses lieues
 Jusqu'à ce que, lorsque le soleil de midi brillait,
@@ -775,7 +775,7 @@ Et qu'il en soit ainsi comme tu le dis.
 
 [^180]
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 Avec son doux discours, le saint répondit :
 « C'est vous-mêmes, ô Reines, qui décidez du choix.
@@ -878,7 +878,7 @@ Tout est sanctifié par la prière et le sort.
 S'il se cache dans les profondeurs de la terre,
 Ou se cachent sous la marée de l'océan,
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Poursuivez, chers fils, la trace du brigand ;
 Tuez-le et ramenez le chargeur.

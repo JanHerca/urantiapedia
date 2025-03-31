@@ -58,7 +58,7 @@ S'il en extrait ou en retire du pus ou du sang. (10)
 
 S'il essuie ou frotte le corps du mendiant, etc. [^476] (voir §§ 2-8 jusqu'à) s'il le parfume ou le fumige avec une sorte d'encens. (11)
 
-S'il essuie ou frotte une plaie dans le corps (du mendiant) <span id="p187">[<sup><small>p. 187</small></sup>]</span> (&c. [^477], jusqu'à) s'il l'asperge ou la lave avec de l'eau chaude ou froide ; (12)
+S'il essuie ou frotte une plaie dans le corps (du mendiant) <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> (&c. [^477], jusqu'à) s'il l'asperge ou la lave avec de l'eau chaude ou froide ; (12)
 
 S'il le coupe ou l'incise avec un instrument tranchant; si, après l'avoir fait, il en extrait ou en retire du pus ou du sang. (13)
 
@@ -80,7 +80,7 @@ Si l'autre le conduit ou le soigne dans un jardin ou un parc, essuie ou frotte l
 
 Il ne faut ni s'en réjouir ni l'interdire, si l'autre essaie de le guérir par de purs charmes ;
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Si l’autre tente de le guérir par des charmes impurs ;
 

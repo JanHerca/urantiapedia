@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 BEATRICE \[Su'ād\] est partie. C'est pourquoi mon cœur était ce jour-là égaré, furieux après elle, irrémédiablement enchaîné.
 
@@ -50,7 +50,7 @@ BEATRICE \[Su'ād\] est partie. C'est pourquoi mon cœur était ce jour-là éga
 
 8\. Elle ne reste pas constante dans aucun état qu'elle a pu adopter, même si le démon des régions sauvages varie dans son costume !
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 9\. Elle ne tient aucune promesse qu'elle a faite, sauf comme les tamis retiennent l'eau !
 
@@ -110,7 +110,7 @@ BEATRICE \[Su'ād\] est partie. C'est pourquoi mon cœur était ce jour-là éga
 
 37\. « Chaque fils d'une femme, aussi longtemps que puisse être sa sécurité, est un jour porté sur un instrument strié \[une bière avec un couvercle strié\]. »
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 38\. J'ai été informé que l'apôtre de Dieu m'a menacé, mais j'espère obtenir le pardon de l'apôtre de Dieu.
 

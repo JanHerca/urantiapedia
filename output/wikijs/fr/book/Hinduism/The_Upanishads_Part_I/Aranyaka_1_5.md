@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 CINQUIÈME ADHYÂYA.
 
@@ -50,7 +50,7 @@ CINQUIÈME ADHYÂYA.
 
 6\. Vient ensuite le verset Sûdadohas. Sûdadohas est en vérité souffle. Il joint les articulations ; avec le souffle.
 
-7\. Après avoir récité ce verset douze fois, il <span id="p194">[<sup><small>p. 194</small></sup>]</span> l'interrompt là. Ces prâ<i>n</i>as sont en vérité douze fois : sept dans la tête, deux sur la poitrine, trois en dessous. Dans ces douze endroits les prâ<i>n</i>as sont contenus, là ils sont parfaits. C'est pourquoi il l'interrompt là [1](Aranyaka_1_5#fn480).
+7\. Après avoir récité ce verset douze fois, il <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> l'interrompt là. Ces prâ<i>n</i>as sont en vérité douze fois : sept dans la tête, deux sur la poitrine, trois en dessous. Dans ces douze endroits les prâ<i>n</i>as sont contenus, là ils sont parfaits. C'est pourquoi il l'interrompt là [1](Aranyaka_1_5#fn480).
 
 8\. L'hymne indrâgnî yuva<i>m</i> su nah (Rv. VIII, 40) forme les deux cuisses (de l'oiseau) appartenant à Indra et à Agni, les deux supports aux os larges.
 
@@ -64,7 +64,7 @@ CINQUIÈME ADHYÂYA.
 
 1\. Lorsqu'il récite l'hymne Nishkevalya adressé à Indra (Rv. X, 50), pra vo mahe, il insère un Nivid [^481] (entre le quatrième et le cinquième verset). Il place ainsi clairement sa force en lui-même (dans l'<i>s</i>astra, dans l'oiseau, en lui-même).
 
-2\. Ce sont des Trish<i>t</i>ubhs et des <i>G</i>agatîs. <span id="p195">[<sup><small>p. 195</small></sup>]</span> 3\. Là, ils disent : « Pourquoi insère-t-il un Nivid parmi les Trish<i>t</i>ubhs et les <i>G</i>agatîs mixtes [^482] ? » Mais un mètre ne pourrait sûrement jamais supporter le Nivid de ce jour, ni le remplir : c'est pourquoi il insère le Nivid parmi les Trish<i>t</i>ubhs et les <i>G</i>agatîs mixtes.
+2\. Ce sont des Trish<i>t</i>ubhs et des <i>G</i>agatîs. <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> 3\. Là, ils disent : « Pourquoi insère-t-il un Nivid parmi les Trish<i>t</i>ubhs et les <i>G</i>agatîs mixtes [^482] ? » Mais un mètre ne pourrait sûrement jamais supporter le Nivid de ce jour, ni le remplir : c'est pourquoi il insère le Nivid parmi les Trish<i>t</i>ubhs et les <i>G</i>agatîs mixtes.
 
 4\. Qu'il sache que ce jour a trois Nivides : l'hymne Vasa est un Nivide, les Vâlakhilyas [^483] sont un Nivide, et le Nivide lui-même est un Nivide. Qu'il sache donc que ce jour a trois Nivides.
 
@@ -74,7 +74,7 @@ CINQUIÈME ADHYÂYA.
 
 7\. Après cela, il récite l'hymne Sa<i>g</i>anîya, souhaitant que le bétail puisse toujours venir à sa progéniture.
 
-8\. Puis il récite l'hymne Târkshya [^485]. Târkshya est en vérité le bien-être, et l'hymne mène au bien-être. Ainsi (en récitant l'hymne) il se porte bien [^486]. <span id="p196">[<sup><small>p. 196</small></sup>]</span> 9\. Puis il récite l'Ekapadâ (indro vi<i>s</i>va<i>m</i> vi râ<i>g</i>ati), souhaitant : Puissé-je être tout à la fois, et puisse-je ainsi achever tout l'ouvrage des mètres [^487].
+8\. Puis il récite l'hymne Târkshya [^485]. Târkshya est en vérité le bien-être, et l'hymne mène au bien-être. Ainsi (en récitant l'hymne) il se porte bien [^486]. <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> 9\. Puis il récite l'Ekapadâ (indro vi<i>s</i>va<i>m</i> vi râ<i>g</i>ati), souhaitant : Puissé-je être tout à la fois, et puisse-je ainsi achever tout l'ouvrage des mètres [^487].
 
 10\. En récitant l'hymne indra<i>m</i> vi<i>s</i>vâ aviv<i>ri</i>dhan (Rv. I, 11), il entrelace les sept premiers versets en entrelaçant leurs pieds [^488]. Il y a sept prâ<i>n</i>as (ouvertures) dans la tête, et il place ainsi sept prâ<i>n</i>as dans la tête. Le huitième verset (demi-verset) il ne l'entrelace pas [^489]. Le huitième est la parole, et il pense : « Puisse ma parole ne jamais être entrelacée avec les autres prâ<i>n</i>as. » La parole donc, bien que demeurant dans la même demeure que les autres prâ<i>n</i>as, n'est pas entrelacée avec eux.
 
@@ -84,7 +84,7 @@ CINQUIÈME ADHYÂYA.
 
 13\. Mais qu'il termine avec le cinquième verset, esha stomo maha ugrâya vâhe, qui, possédant le mot mahat, est de bon augure.
 
-14\. Au deuxième pied du cinquième verset, le mot dhuri apparaît. En vérité, dhu<i>h</i> (l'endroit où le cheval est attaché au char) est la fin (du char). Ce jour est également la fin (du sacrifice qui dure toute une année) [^492]. Ainsi, le verset convient à ce jour. <span id="p197">[<sup><small>p. 197</small></sup>]</span> 15\. Au troisième pied, le mot arka est de bon augure.
+14\. Au deuxième pied du cinquième verset, le mot dhuri apparaît. En vérité, dhu<i>h</i> (l'endroit où le cheval est attaché au char) est la fin (du char). Ce jour est également la fin (du sacrifice qui dure toute une année) [^492]. Ainsi, le verset convient à ce jour. <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> 15\. Au troisième pied, le mot arka est de bon augure.
 
 16\. Le dernier pas est : « Élevez notre gloire comme le ciel au-dessus du ciel. » Ainsi, partout où le langage brahmanique est prononcé, là réside sa gloire, lorsque celui qui le connaît termine avec ce verset. Par conséquent, que celui qui connaît cela termine (le Nishkevalya) avec ce verset.
 
@@ -94,7 +94,7 @@ CINQUIÈME ADHYÂYA.
 
 2\. Ce jour-là [^495], beaucoup de choses se passent de temps à autre, qui doivent être cachées et expiées. L'expiation est le repos, le sacrifice d'un jour. C'est pourquoi, à la fin de l'année, les sacrificateurs se reposent sur cette expiation comme leur repos. Celui qui sait cela repose fermement, et ceux aussi pour qui un prêtre Hoti, qui sait cela, récite cet hymne.
 
-3\. Suit ensuite l'hymne adressé à Savi<i>ri</i>, tad devasya savitur vâryam mahat (Ap. IV, 53). En vérité, mahat, grande, (dans ce pied) est la fin [^496]. Ce jour aussi est la fin. Ainsi, le verset convient au jour. <span id="p198">[<sup><small>p. 198</small></sup>]</span> 4\. L'hymne katarâ pûrvâ katarâ parâyo<i>h</i> (Ap. I, 185), adressé à Dyâvâp<i>ri</i>thivî, est un hymne dans lequel de nombreux versets ont la même fin. En vérité, ce jour aussi (le mahâvrata) est un jour dans lequel beaucoup reçoivent la même récompense [^497]. Ainsi, il convient au jour.
+3\. Suit ensuite l'hymne adressé à Savi<i>ri</i>, tad devasya savitur vâryam mahat (Ap. IV, 53). En vérité, mahat, grande, (dans ce pied) est la fin [^496]. Ce jour aussi est la fin. Ainsi, le verset convient au jour. <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> 4\. L'hymne katarâ pûrvâ katarâ parâyo<i>h</i> (Ap. I, 185), adressé à Dyâvâp<i>ri</i>thivî, est un hymne dans lequel de nombreux versets ont la même fin. En vérité, ce jour aussi (le mahâvrata) est un jour dans lequel beaucoup reçoivent la même récompense [^497]. Ainsi, il convient au jour.
 
 5\. L'hymne anasvo <i>g</i>âto anabhî<i>s</i>ur ukthya<i>h</i> (Rv. IV, 36) s'adresse aux <i>Ri</i>bhus.
 
@@ -108,7 +108,7 @@ CINQUIÈME ADHYÂYA.
 
 10\. Ce jour-là, de nombreuses choses se produisent de temps à autre, qui doivent être cachées et expiées. L'expiation est le repos, le sacrifice d'un jour. C'est pourquoi, à la fin de l'année, les sacrificateurs se reposent sur cette expiation comme sur leur repos. Celui qui sait cela repose fermement, et ceux aussi pour qui un prêtre Hoti, qui sait cela, récite ce cantique.
 
-11\. L'hymne vai<i>s</i>vânarâya dhisha<i>n</i>âm <i>ri</i>tav<i>ri</i>dhe <span id="p199">[<sup><small>p. 199</small></sup>]</span> (Ap. III, 2) forme le début de l'Âgnimâruta. Dhisha<i>n</i>â, la pensée, est en vérité la fin, ce jour est aussi la fin. Ainsi il convient à ce jour.
+11\. L'hymne vai<i>s</i>vânarâya dhisha<i>n</i>âm <i>ri</i>tav<i>ri</i>dhe <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> (Ap. III, 2) forme le début de l'Âgnimâruta. Dhisha<i>n</i>â, la pensée, est en vérité la fin, ce jour est aussi la fin. Ainsi il convient à ce jour.
 
 12\. L'hymne praya<i>g</i>yavo maruto bhrâ<i>g</i>ad<i>ri</i>sh<i>t</i>aya<i>h</i> (Ap. V, 55), adressé aux Maruts, est un hymne dont de nombreux versets ont la même fin. En vérité, ce jour est aussi un jour où beaucoup reçoivent la même récompense. Il convient donc à ce jour [^500].
 

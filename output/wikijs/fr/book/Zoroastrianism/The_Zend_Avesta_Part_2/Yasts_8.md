@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 Tistrya est le chef des étoiles contre les planètes, car les étoiles et les planètes appartiennent respectivement aux mondes d'Ahura Mazda et d'Angra Mainyu (Vend. Introd. IV, 36 ; Bund. II, 5 seq.).
 
@@ -56,7 +56,7 @@ Pour le sacrifice, la prière, la propitiation et la glorification à \[Hâvani\
 
 À Tistrya, l'étoile brillante et glorieuse, et au puissant Satavaêsa, créé par Mazda, qui pousse les eaux en avant [^456],
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
@@ -72,7 +72,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « À Tistrya, l'étoile brillante et glorieuse, nous offrons les libations, le Haoma et la viande, le baresma, la sagesse de la langue, les sorts sacrés, la parole, les actes, les libations et les paroles bien prononcées [^462].
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 'Yê<i>n</i>hê hâtãm : Tous ces êtres dont Ahura Mazda . . . .
 
@@ -98,7 +98,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 ## V.
 
-8\. « Nous sacrifions à Tistrya, l'étoile brillante et glorieuse, qui afflige les Pairikas, qui vexe les Pairikas, qui, sous la forme d'étoiles-ver [^471], volent <span id="p96">[<sup><small>p. 96</small></sup>]</span> entre la terre et les cieux, dans la mer Vouru-Kasha, la mer puissante, la mer vaste et profonde d'eaux salées [^472]. Il va à son lac sous la forme d'un cheval, sous une forme sainte ; et là-bas, il fait bouillir les eaux, et les vents soufflent au-dessus avec puissance tout autour. »
+8\. « Nous sacrifions à Tistrya, l'étoile brillante et glorieuse, qui afflige les Pairikas, qui vexe les Pairikas, qui, sous la forme d'étoiles-ver [^471], volent <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> entre la terre et les cieux, dans la mer Vouru-Kasha, la mer puissante, la mer vaste et profonde d'eaux salées [^472]. Il va à son lac sous la forme d'un cheval, sous une forme sainte ; et là-bas, il fait bouillir les eaux, et les vents soufflent au-dessus avec puissance tout autour. »
 
 9\. 'Alors Satavaêsa [^473] fait couler ces eaux jusqu'aux sept Karshvares de la terre [^474], et lorsqu'il est arrivé là-bas, il se tient debout, beau, répandant facilité et joie sur les pays fertiles (pensant en lui-même) : « Comment les pays des Aryas deviendront-ils fertiles ?
 
@@ -110,7 +110,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 11\. « Si les hommes voulaient m'adorer par un sacrifice dans lequel j'étais invoqué par mon propre nom, comme ils adorent les autres Yazatas par des sacrifices dans lesquels ils sont invoqués par leurs propres noms, alors je serais venu vers les fidèles au temps fixé [^475] ;
 
-J'aurais dû venir au moment fixé de ma <span id="p97">[<sup><small>p. 97</small></sup>]</span> belle et immortelle vie [^476], que ce soit une nuit, ou deux nuits, ou cinquante, ou cent nuits.
+J'aurais dû venir au moment fixé de ma <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> belle et immortelle vie [^476], que ce soit une nuit, ou deux nuits, ou cinquante, ou cent nuits.
 
 12\. « Nous sacrifions à Ti<i>s</i>trya ;
 
@@ -124,7 +124,7 @@ J'aurais dû venir au moment fixé de ma <span id="p97">[<sup><small>p. 97</smal
 
 « Nous sacrifions à Tistrya, dont la vue est saine [^482].
 
-13\. « Pendant dix nuits, ô Spitama Zarathu<i>s</i>tra ! Ti<i>s</i>trya, l'étoile brillante et glorieuse, mêle sa forme <span id="p98">[<sup><small>p. 98</small></sup>]</span> à la lumière, se déplaçant sous la forme d'un homme de quinze ans [^483], brillant, aux yeux clairs, grand, plein de force, fort et intelligent.
+13\. « Pendant dix nuits, ô Spitama Zarathu<i>s</i>tra ! Ti<i>s</i>trya, l'étoile brillante et glorieuse, mêle sa forme <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> à la lumière, se déplaçant sous la forme d'un homme de quinze ans [^483], brillant, aux yeux clairs, grand, plein de force, fort et intelligent.
 
 14\. « Il est actif comme le premier homme [^484] l'était ; il continue avec la force du premier homme ; il a la virilité [^485] du premier homme.
 
@@ -134,7 +134,7 @@ J'aurais dû venir au moment fixé de ma <span id="p97">[<sup><small>p. 97</smal
 
 17\. Ici, il appelle les gens à se rassembler, ici il demande : « Qui m’offrira maintenant les libations avec le Haoma et la viande sainte ? À qui donnerai-je des bœufs, un troupeau de bœufs et la purification de son âme ? Or, je dois recevoir sacrifice et prière dans le monde matériel, par la loi de la sainteté parfaite. »
 
-18\. « Les dix nuits suivantes, ô Spitama Zarathustra ! le brillant et glorieux Tistrya mêle sa forme à la lumière, se déplaçant sous la forme d'un cheval blanc et magnifique, aux oreilles et au caparaçon d'or. <span id="p99">[<sup><small>p. 99</small></sup>]</span> 19\. « Ici, il appelle les gens à se rassembler, ici, il demande : « Qui m'offrira maintenant les libations avec le Haoma et la viande sacrée ? À qui donnerai-je la richesse des chevaux, une troupe de chevaux et la purification de son âme ? Maintenant, je dois recevoir sacrifice et prière dans le monde matériel, par la loi de la sainteté excellente. »
+18\. « Les dix nuits suivantes, ô Spitama Zarathustra ! le brillant et glorieux Tistrya mêle sa forme à la lumière, se déplaçant sous la forme d'un cheval blanc et magnifique, aux oreilles et au caparaçon d'or. <span id="p99"><sup><small>[ p. 99 ]</small></sup></span> 19\. « Ici, il appelle les gens à se rassembler, ici, il demande : « Qui m'offrira maintenant les libations avec le Haoma et la viande sacrée ? À qui donnerai-je la richesse des chevaux, une troupe de chevaux et la purification de son âme ? Maintenant, je dois recevoir sacrifice et prière dans le monde matériel, par la loi de la sainteté excellente. »
 
 20\. « Alors, ô Spitama Zarathustra ! le brillant et glorieux Tistrya descend vers la mer Vouru-Kasha sous la forme d'un cheval blanc et magnifique, aux oreilles dorées et au caparaçon doré [^488].
 
@@ -154,13 +154,13 @@ J'aurais dû venir au moment fixé de ma <span id="p97">[<sup><small>p. 97</smal
 
 28\. « Ils se rencontrent, sabot contre sabot, ô Spitama Zarathustra ! Le brillant et glorieux Tistrya et le Daêva Apaosha ; ils combattent ensemble, ô Zarathustra ! jusqu'à midi. Alors le brillant et glorieux Tistrya se révèle plus fort que le Daêva Apaosha, il le vaincra. »
 
-29\. « Puis il s'étend de la mer Vouru-Kasha jusqu'à la longueur d'un Hâthra : « Salut ! » crie le <span id="p101">[<sup><small>p. 101</small></sup>]</span> brillant et glorieux Ti<i>s</i>trya. « Salut à moi, ô Ahura Mazda ! Salut à vous, ô eaux et plantes ! Salut, ô Loi des adorateurs de Mazda ! Salut à vous, ô terres ! La vie [^493] des eaux s'écoulera sans retenue vers les champs de blé à grosses graines [^494], vers les pâturages à petites graines [^495] et vers le monde matériel tout entier ! »
+29\. « Puis il s'étend de la mer Vouru-Kasha jusqu'à la longueur d'un Hâthra : « Salut ! » crie le <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> brillant et glorieux Ti<i>s</i>trya. « Salut à moi, ô Ahura Mazda ! Salut à vous, ô eaux et plantes ! Salut, ô Loi des adorateurs de Mazda ! Salut à vous, ô terres ! La vie [^493] des eaux s'écoulera sans retenue vers les champs de blé à grosses graines [^494], vers les pâturages à petites graines [^495] et vers le monde matériel tout entier ! »
 
 30\. 'Alors la brillante et glorieuse Ti<i>s</i>trya redescend vers la mer Vouru-Kasha, sous la forme d'un cheval blanc et magnifique, aux oreilles dorées et au caparaçon doré [^496].
 
 31\. Il fait bouillir la mer de haut en bas, il fait couler la mer de part et d'autre, il fait couler la mer de part et d'autre : tous les rivages de la mer Vouru-Kasha sont en ébullition, tout son milieu est en ébullition.
 
-32\. « Et le brillant et glorieux Ti<i>s</i>trya s'élève de la mer Vouru-Kasha, ô Spitama Zarathu<i>s</i>tra ! Le brillant et glorieux Satavaêsa s'élève de la mer Vouru-Kasha ; et des vapeurs s'élèvent au-dessus du mont Us-hindu, qui se dresse au milieu de la mer Vouru-Kasha [^497]. <span id="p102">[<sup><small>p. 102</small></sup>]</span> 33\. « Alors les vapeurs avancent, sous la forme régulière de nuages ​​[^498] ; elles suivent le vent, le long des chemins que traverse Haoma, l'augmentateur du monde [^499]. Derrière lui voyagent le vent puissant, produit par Mazda, et la pluie, et les nuages, et la neige fondue, vers les différents endroits, vers les champs, vers les sept Karshvares de la terre.
+32\. « Et le brillant et glorieux Ti<i>s</i>trya s'élève de la mer Vouru-Kasha, ô Spitama Zarathu<i>s</i>tra ! Le brillant et glorieux Satavaêsa s'élève de la mer Vouru-Kasha ; et des vapeurs s'élèvent au-dessus du mont Us-hindu, qui se dresse au milieu de la mer Vouru-Kasha [^497]. <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> 33\. « Alors les vapeurs avancent, sous la forme régulière de nuages ​​[^498] ; elles suivent le vent, le long des chemins que traverse Haoma, l'augmentateur du monde [^499]. Derrière lui voyagent le vent puissant, produit par Mazda, et la pluie, et les nuages, et la neige fondue, vers les différents endroits, vers les champs, vers les sept Karshvares de la terre.
 
 34\. 'Apãm Napâ<i>t</i> [^500], ô Spitama Zarathu<i>s</i>tra ! divise les eaux entre les pays du monde matériel, en compagnie du vent puissant, de la Gloire, faite par les eaux [^501], et des Fravashis des fidèles [^502].
 
@@ -168,7 +168,7 @@ J'aurais dû venir au moment fixé de ma <span id="p97">[<sup><small>p. 97</smal
 
 ## VII.
 
-35\. « Nous sacrifions à Ti<i>s</i>trya, l'étoile brillante et glorieuse, qui, depuis l'orient brillant, se déplace le long de sa longue course sinueuse, le long du chemin tracé par les dieux, le long de la voie qui lui est désignée, la <span id="p103">[<sup><small>p. 103</small></sup>]</span> voie aquatique, à la volonté d'Ahura Mazda, à la volonté des Amesha-Spe<i>n</i>tas.
+35\. « Nous sacrifions à Ti<i>s</i>trya, l'étoile brillante et glorieuse, qui, depuis l'orient brillant, se déplace le long de sa longue course sinueuse, le long du chemin tracé par les dieux, le long de la voie qui lui est désignée, la <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> voie aquatique, à la volonté d'Ahura Mazda, à la volonté des Amesha-Spe<i>n</i>tas.
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
@@ -182,7 +182,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 37 [^506]. « Nous sacrifions à Ti<i>s</i>trya, l'étoile brillante et glorieuse, au vol et au mouvement rapides, qui vole vers la mer Vouru-Kasha, aussi rapidement que la flèche a traversé l'espace céleste, qu'Erekhsha, l'archer rapide, l'Arya parmi les Aryas dont la flèche était la plus rapide, a tirée du mont Khshaotha au mont <i>H</i><i>v</i>anva<i>n</i><i>t</i>.
 
-38\. Ahura Mazda lui vint en aide, et les Amesha-Spe<i>n</i>tas et Mithra, le seigneur des vastes pâturages, lui montrèrent le chemin : derrière lui marchaient les <span id="p104">[<sup><small>p. 104</small></sup>]</span> grands Ashis Vanguhi [^507] et Pâre<i>n</i>di [^508] sur son char léger : toujours jusqu'à ce que, dans sa course, il atteigne le mont <i>H</i><i>v</i>anva<i>n</i><i>t</i> sur les eaux scintillantes [^509].
+38\. Ahura Mazda lui vint en aide, et les Amesha-Spe<i>n</i>tas et Mithra, le seigneur des vastes pâturages, lui montrèrent le chemin : derrière lui marchaient les <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> grands Ashis Vanguhi [^507] et Pâre<i>n</i>di [^508] sur son char léger : toujours jusqu'à ce que, dans sa course, il atteigne le mont <i>H</i><i>v</i>anva<i>n</i><i>t</i> sur les eaux scintillantes [^509].
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
@@ -214,7 +214,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 ## XIV.
 
@@ -228,7 +228,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 ## XV.
 
-48\. « Nous sacrifions à Ti<i>s</i>trya, l'étoile brillante et glorieuse, à qui aspirent toutes les créatures de Spe<i>n</i>ta-Mainyu, celles qui vivent sous la terre et celles qui vivent au-dessus de la terre ; celles qui vivent dans les eaux et celles qui vivent sur la terre sèche ; celles qui volent et celles qui courent dans les plaines [^519] ; et toutes celles <span id="p107">[<sup><small>p. 107</small></sup>]</span> qui vivent dans ce monde illimité et sans fin du Saint-Esprit.
+48\. « Nous sacrifions à Ti<i>s</i>trya, l'étoile brillante et glorieuse, à qui aspirent toutes les créatures de Spe<i>n</i>ta-Mainyu, celles qui vivent sous la terre et celles qui vivent au-dessus de la terre ; celles qui vivent dans les eaux et celles qui vivent sur la terre sèche ; celles qui volent et celles qui courent dans les plaines [^519] ; et toutes celles <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> qui vivent dans ce monde illimité et sans fin du Saint-Esprit.
 
 « Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu...
 
@@ -242,7 +242,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 52\. « Si je n'avais pas créé cette étoile Ti<i>s</i>trya aussi digne de sacrifice, aussi digne de prière, aussi digne de propitiation, aussi digne de glorification que moi-même, Ahura Mazda ;
 
-53\. 'Afin de résister, de briser, d'affliger, de repousser la malice de cette Pairika Du<i>z</i>yâirya, que les gens malintentionnés appellent Huyâirya ; <span id="p108">[<sup><small>p. 108</small></sup>]</span> 54\. 'Alors tout le jour, toute la nuit, cette Pairika Du<i>z</i>yâirya ferait la guerre à ce monde matériel qui est le mien, voulant éteindre sa vie [^524], et elle continue, se précipitant sur lui et autour de lui.
+53\. 'Afin de résister, de briser, d'affliger, de repousser la malice de cette Pairika Du<i>z</i>yâirya, que les gens malintentionnés appellent Huyâirya ; <span id="p108"><sup><small>[ p. 108 ]</small></sup></span> 54\. 'Alors tout le jour, toute la nuit, cette Pairika Du<i>z</i>yâirya ferait la guerre à ce monde matériel qui est le mien, voulant éteindre sa vie [^524], et elle continue, se précipitant sur lui et autour de lui.
 
 55\. 'Mais le brillant et glorieux Ti<i>s</i>trya maintient ce Pairika dans des liens, avec des liens doubles, avec des liens triples, qui ne peuvent être surmontés, avec des liens sur tout le corps : c'est comme s'il y avait mille hommes tenant un homme dans des liens, mille hommes de ceux qui sont les plus forts en force.
 
@@ -250,7 +250,7 @@ Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu
 
 57 [^526]. Zarathustra demanda : « Qu'est-ce donc, ô Ahura Mazda ! que le sacrifice et l'invocation en l'honneur du brillant et glorieux Tistrya, tels qu'ils doivent être accomplis dans la perfection de la sainteté ? »
 
-58\. Ahura Mazda répondit : « Que les nations aryennes lui apportent des libations ; que les nations aryennes lui attachent des paquets de baresma ; que les nations aryennes lui fassent cuire une tête de bétail, soit blanche, soit noire, soit de toute autre couleur, mais toutes d'une seule et même couleur. <span id="p109">[<sup><small>p. 109</small></sup>]</span> 59\. « Qu'un meurtrier ne prenne pas de ces offrandes, ni une prostituée, ni un . . . . [^527] qui ne chante pas les Gâthas, qui répand la mort dans le monde et résiste à la loi de Mazda, à la loi de Zarathu<i>s</i>tra.
+58\. Ahura Mazda répondit : « Que les nations aryennes lui apportent des libations ; que les nations aryennes lui attachent des paquets de baresma ; que les nations aryennes lui fassent cuire une tête de bétail, soit blanche, soit noire, soit de toute autre couleur, mais toutes d'une seule et même couleur. <span id="p109"><sup><small>[ p. 109 ]</small></sup></span> 59\. « Qu'un meurtrier ne prenne pas de ces offrandes, ni une prostituée, ni un . . . . [^527] qui ne chante pas les Gâthas, qui répand la mort dans le monde et résiste à la loi de Mazda, à la loi de Zarathu<i>s</i>tra.
 
 60\. « Si un meurtrier prend de ces offrandes, ou une prostituée, ou un... qui ne chante pas les Gâthas, qui répand la mort dans le monde et résiste à la loi de Mazda, à la loi de Zarathu<i>s</i>tra, alors le brillant et glorieux Ti<i>s</i>trya reprend ses vertus de guérison.
 

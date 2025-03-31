@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 ### BIBLIOGRAPHIE.
 
@@ -56,7 +56,7 @@ Le P. Francisci Bartholi, OFM : _Tractatus de Indulgentia S. Mariae de Portiuncu
 
 Le P. Bartholomaeus Pisanus, OFM : _De Conformitate Vitae B. Francisci ad vitam DN Jesu Christi_. Milan, 1510. [^627]
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Le P. Bernardus de Bessa, OFM : _Liber de Laudibus B. Francisci_. Dans _Anal. Franc._, t. III.
 
@@ -80,7 +80,7 @@ _Vita Secunda S. Francisci_. Éd. Amoni. Rome, 1880.
 
 _Tractatus de Miraculis_. Éd. Van Ortroy, SJ, dans _Anal. Boll._, t. XVIIIe, 1899.
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 _Vita S. Clarae_. Éd. Sedulius, OFM Anvers, 1613.
 
@@ -100,7 +100,7 @@ Fr. Thomas Eccleston, OFM : _De Adventu Fratrum Minorum in Angliam_ in _Anal. Fr
 
 Le P. Edouard d'Alençon, OMCap. : [^628] _Epistola S. Francisci ad Ministrum Generalem in sua forma Authentica_. Rome, 1899. _La Bénédiction de S. François_. Paris, 1896. Voir aussi _Sacrum Commercium_.
 
-Le P. Ehrle, SJ : « Die Historischen Handschriften von S. Francesco in Assisi » dans _Archiv für_ <span id="p192">[<sup><small>p. 192</small></sup>]</span> _Litteratur und Kirchengeschichte des Mittelalters_, t. I, p. 484 suiv. « Controversen über die Anfänge des Minoritenordens » dans _Zeitschrift für Katholische Theologie_, t. XI, p. 725 suiv.
+Le P. Ehrle, SJ : « Die Historischen Handschriften von S. Francesco in Assisi » dans _Archiv für_ <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> _Litteratur und Kirchengeschichte des Mittelalters_, t. I, p. 484 suiv. « Controversen über die Anfänge des Minoritenordens » dans _Zeitschrift für Katholische Theologie_, t. XI, p. 725 suiv.
 
 Mgr. Faloci-Pulignani : « Tre Autografi di S. Francesco » dans _Misc. Francescana_, t. VI, pp. 33 suiv., et «La Calligrafia di S. Francesco», _l.c._, t. VII, p. 67 suiv.
 
@@ -122,7 +122,7 @@ Le P. Leonard Lemmens, OFM : « Die Anfänge des Clarissenordens » dans _Römis
 
 Abbé Léon Le Monnier : _Histoire de S. François_
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 _d'Assise_. (Traduction anglaise par un tertiaire franciscain. Kegan Paul, 1894.)
 
@@ -146,7 +146,7 @@ _Opuscula SP Francisci Assisiensis_. Editer un PP. Collegii S. Bonaventurae, Qua
 
 Le P. Panfilo da Magliano, OFM : _Storia Compendiosa di San Francesco_. Rome, 1874-1876.
 
-Paul Sabatier : _Vie de S. François d'Assise_. Paris, 1894. (Traduction anglaise par LS Houghton.) _Regula antiqua Fratrum et Sororum de Poenitentia_. Paris. (Traduction anglaise dans _Third Orders_ d'Adderley et Marsons. Mowbray, 1902.) _Description du MS. Franciscain de Liegnitz_. Paris, 1901. _Examen de quelques_ <span id="p194">[<sup><small>p. 194</small></sup>]</span> _Travaux en veut aux Opuscules de Saint François_. Paris, 1904. Voir aussi sous _Actus_, Bartholi et _Speculum_.
+Paul Sabatier : _Vie de S. François d'Assise_. Paris, 1894. (Traduction anglaise par LS Houghton.) _Regula antiqua Fratrum et Sororum de Poenitentia_. Paris. (Traduction anglaise dans _Third Orders_ d'Adderley et Marsons. Mowbray, 1902.) _Description du MS. Franciscain de Liegnitz_. Paris, 1901. _Examen de quelques_ <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> _Travaux en veut aux Opuscules de Saint François_. Paris, 1904. Voir aussi sous _Actus_, Bartholi et _Speculum_.
 
 Le P. Jacinthe. Sbaralea, OMConv. : _Supplementum et Castigatio ad Scriptores Trium Ordinum S. Francisci_. Rome, 1806.
 
@@ -168,7 +168,7 @@ _Trium Sociorum, Legenda S. Francisci Assis_. Éd. Falocs. Foligno, 1898. (Tradu
 
 Le P. Ubald d'Alençon, OMCap. : _Les Opuscules de S. François d'Assise_. Paris, 1905.
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 Le P. Van Ortroy, SJ Pour son article sur l'_Opuscula_ de saint François, voir _Analecta Bollandiana_, t. XXIV, fascicule. III (1905), p. 411 suiv.
 

@@ -50,7 +50,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 9\. BEREITHA—TRADITION EXTERNE.
 
-Le roi Ézéchias fit six choses ; les Sages y consentirent pour trois d'entre elles, et ils n'y consentirent pas pour trois autres. Il transporta les os de son père (Achaz) sur un lit de corde, [^141] et ils y consentirent. <span id="p103">[<sup><small>p. 103</small></sup>]</span> Il réduisit en poudre le serpent d'airain, [^142] et ils y consentirent. Il cacha le livre des médecines, [^143] et ils y consentirent. Et à trois d'entre elles ils n'y consentirent pas : il coupa (l'or des) portes du temple [^144] et l'envoya au roi d'Assyrie, et ils n'y consentirent pas. Il arrêta les eaux du Gihon supérieur, [^145] et ils n'y consentirent pas. Il introduisit un mois de Nisan intercalaire, et ils n'y consentirent pas.
+Le roi Ézéchias fit six choses ; les Sages y consentirent pour trois d'entre elles, et ils n'y consentirent pas pour trois autres. Il transporta les os de son père (Achaz) sur un lit de corde, [^141] et ils y consentirent. <span id="p103"><sup><small>[ p. 103 ]</small></sup></span> Il réduisit en poudre le serpent d'airain, [^142] et ils y consentirent. Il cacha le livre des médecines, [^143] et ils y consentirent. Et à trois d'entre elles ils n'y consentirent pas : il coupa (l'or des) portes du temple [^144] et l'envoya au roi d'Assyrie, et ils n'y consentirent pas. Il arrêta les eaux du Gihon supérieur, [^145] et ils n'y consentirent pas. Il introduisit un mois de Nisan intercalaire, et ils n'y consentirent pas.
 
 <figure class="table chapter-navigator">
   <table>

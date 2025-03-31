@@ -48,7 +48,7 @@ Par tes dents, délicieuses au baiser, et par tes yeux, et toutes les douleurs d
 
 Puisse-t-il t'apporter ma salutation, lorsque l'aube étincelante brise le voile de la nuit !
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 Que Dieu humidifie tes nuits et t'arrose de ses nuages chargés de pluie !
 
@@ -60,7 +60,7 @@ A peine Antar avait-il terminé que Khosrewan apparut dans la plaine, « monté 
 
 « Mais Antar l'occupa, l'épuisa et l'empêcha d'exécuter ses plans, de sorte que la colère du chef devint intense. Il saisit une de ses fléchettes, la secoua et la lança sur lui. Elle s'échappa de sa main comme un éclair aveuglant ou un destin qui descend. Antar resta ferme ; quand elle s'approcha de lui, il la rencontra et, la détournant adroitement avec son bouclier, elle bondit et tomba au sol au loin. Khosrewan saisit une seconde fléchette et la braqua sur lui ; mais Antar s'écarta de son chemin et elle passa sans faire de mal. Il en tira une troisième ; mais Antar la rendit vaine par sa dextérité et son activité persévérante. Il lança la quatrième ; mais elle eut le même sort que les autres.
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 « Quand Khosrewan vit comment Antar avait paré les dards, son indignation fut extrême. Il reprit sa masse et rugit comme rugit un lion ; puis, s’étendant avec elle, il la lança, la renversant avec un hurlement qui fit résonner les plaines et l’air. Antar jeta sa lance, rencontra la masse et la saisit de la main droite en l’air ; puis, la visant vers Khosrewan, il s’écria : « Prends-la, toi, fils d’un cocu à deux mille cornes ! Je suis l’amant d’Abla et je suis seul, le Phénix du monde ! » Khosrewan le vit saisir la masse en l’air et fut horrifié, car sa force et sa force étaient épuisées. Il recula et tenta de fuir son adversaire, car il était maintenant convaincu de sa destruction. Il fit tourner son bouclier entre ses épaules ; mais il sentit que son sort était proche, car la masse tomba sur son bouclier avec plus de force que la pierre d'une fronde : furieusement elle claqua sur le chef perse, et le précipita de sa selle à une distance de douze coudées, et lui brisa les côtes et brisa la colonne vertébrale.
 

@@ -46,7 +46,7 @@ DEUXIÈME ADHYÂYA [^525].
 
 5\. Les Dévas (paroles, etc.) lui dirent (au souffle) : « Il doit être aimé de nous tous. » Parce que les Dévas ont dit de lui qu'il devait être aimé (vâma) par tous, il existe (le poète du quatrième Ma<i>n</i><i>d</i>ala du Rig-Véda, appelé) Vâmadeva. C'est pourquoi les gens appellent Vâmadeva celui qui est réellement Prâ<i>n</i>a (souffle).
 
-6\. Il (le souffle) a protégé tout cela du mal. Parce qu'il a protégé (atrâyata) tout cela <span id="p216">[<sup><small>p. 216</small></sup>]</span> du mal, il y a (les poètes du cinquième Ma<i>n</i><i>d</i>ala, appelés) Atraya<i>h</i>. C'est pourquoi les gens appellent Atraya<i>h</i> celui qui est réellement Prâ<i>n</i>a (souffle).
+6\. Il (le souffle) a protégé tout cela du mal. Parce qu'il a protégé (atrâyata) tout cela <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> du mal, il y a (les poètes du cinquième Ma<i>n</i><i>d</i>ala, appelés) Atraya<i>h</i>. C'est pourquoi les gens appellent Atraya<i>h</i> celui qui est réellement Prâ<i>n</i>a (souffle).
 
 ## DEUXIÈME KHA<i>N</i><i>D</i>A.
 
@@ -56,7 +56,7 @@ DEUXIÈME ADHYÂYA [^525].
 
 3\. Il (le souffle) s'est dirigé vers [^529] tout cela. Parce qu'il s'est dirigé vers tout cela, c'est pourquoi il y a (les poètes du huitième Ma<i>n</i><i>d</i>ala du Rig-Véda, appelés) les Pragâthas. C'est pourquoi les gens appellent Pragâthas celui qui est réellement Prâ<i>n</i>a (souffle).
 
-4\. Il (le souffle) a purifié tout cela. Parce qu'il a purifié tout cela, c'est pourquoi il y a <span id="p217">[<sup><small>p. 217</small></sup>]</span> (les hymnes et aussi les poètes [^530] du neuvième Ma<i>n</i><i>d</i>ala du Rig-veda, appelés) les Pavamânîs. C'est pourquoi les gens ont appelé celui qui est vraiment Prâ<i>n</i>a (souffle), le Pavamânîs.
+4\. Il (le souffle) a purifié tout cela. Parce qu'il a purifié tout cela, c'est pourquoi il y a <span id="p217"><sup><small>[ p. 217 ]</small></sup></span> (les hymnes et aussi les poètes [^530] du neuvième Ma<i>n</i><i>d</i>ala du Rig-veda, appelés) les Pavamânîs. C'est pourquoi les gens ont appelé celui qui est vraiment Prâ<i>n</i>a (souffle), le Pavamânîs.
 
 5\. Il (le souffle) dit : « Que je sois tout, petit (kshudra) et grand (mahat), et cela devint les Kshudrasûktas et les Mahâsûktas. » C'est pourquoi on appela Kshudrasûktas (et Mahâsûktas) celui qui est réellement Prânâ (souffle).
 
@@ -64,7 +64,7 @@ DEUXIÈME ADHYÂYA [^525].
 
 7\. Il (le souffle) est un <i>Ri</i><i>k</i> (vers), car il a honoré [^532] tous les êtres (en entrant en eux). Parce qu'il a honoré tous les êtres, il y a eu le vers <i>Ri</i><i>k</i>. C'est pourquoi les gens appellent celui qui est vraiment Prâ<i>n</i>a (souffle), <i>Ri</i><i>k</i>.
 
-8\. Il (le souffle) est un Ardhar<i>k</i>a (demi-verset), car il a honoré tous les lieux (ardha) [^533]. Parce qu'il a honoré tous les lieux, il y a donc eu l'Ardhar<i>k</i>a. C'est pourquoi les gens appellent celui qui est vraiment Prâ<i>n</i>a (souffle), Ardhar<i>k</i>a. <span id="p218">[<sup><small>p. 218</small></sup>]</span> 9\. Il (le souffle) est un Pada (mot) [^534], car il est entré dans tous ces êtres. Parce qu'il est entré (pâdi) dans tous ces êtres, il y a donc eu le Pada (mot). C'est pourquoi les gens appellent celui qui est vraiment Prâ<i>n</i>a (souffle), Pada.
+8\. Il (le souffle) est un Ardhar<i>k</i>a (demi-verset), car il a honoré tous les lieux (ardha) [^533]. Parce qu'il a honoré tous les lieux, il y a donc eu l'Ardhar<i>k</i>a. C'est pourquoi les gens appellent celui qui est vraiment Prâ<i>n</i>a (souffle), Ardhar<i>k</i>a. <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> 9\. Il (le souffle) est un Pada (mot) [^534], car il est entré dans tous ces êtres. Parce qu'il est entré (pâdi) dans tous ces êtres, il y a donc eu le Pada (mot). C'est pourquoi les gens appellent celui qui est vraiment Prâ<i>n</i>a (souffle), Pada.
 
 10\. Il (le souffle) est une Akshara (syllabe), car il déverse (ksharati) des dons sur tous ces êtres, et sans lui, personne ne peut déverser (atiksharati) des dons. C'est pourquoi il y a eu l'Akshara (syllabe). C'est pourquoi les gens appellent Akshara celui qui est réellement Prânâ (souffle) [^535].
 
@@ -72,7 +72,7 @@ DEUXIÈME ADHYÂYA [^525].
 
 ## TROISIÈME KHA<i>N</i><i>D</i>A.
 
-1\. Tandis que Vi<i>s</i>vâmitra allait répéter les hymnes de ce jour (le mahâvrata), Indra s'assit près de lui [^537]. Vi<i>s</i>vâmitra (devinant qu'Indra voulait de la nourriture) lui dit : « Ceci (les versets de l'hymne) est de la nourriture », et répéta les mille versets du B<i>ri</i>hatî [^538] <span id="p219">[<sup><small>p. 219</small></sup>]</span> Par ce moyen, il se rendit à la délicieuse demeure d'Indra (Svarga).
+1\. Tandis que Vi<i>s</i>vâmitra allait répéter les hymnes de ce jour (le mahâvrata), Indra s'assit près de lui [^537]. Vi<i>s</i>vâmitra (devinant qu'Indra voulait de la nourriture) lui dit : « Ceci (les versets de l'hymne) est de la nourriture », et répéta les mille versets du B<i>ri</i>hatî [^538] <span id="p219"><sup><small>[ p. 219 ]</small></sup></span> Par ce moyen, il se rendit à la délicieuse demeure d'Indra (Svarga).
 
 2\. Indra lui dit : « Rishi, tu es venu dans ma délicieuse demeure. Rishi, répète un deuxième hymne [^539]. » Viśvāmitra (devinant qu'Indra voulait de la nourriture) lui dit : « Ceci (les versets de l'hymne) est de la nourriture », et répéta les mille versets du Būrihatī. Grâce à cela, il se rendit dans la délicieuse demeure d'Indra (Svarga).
 
@@ -81,7 +81,7 @@ DEUXIÈME ADHYÂYA [^525].
 4\. Indra lui dit : « Rishi, tu es venu dans ma charmante demeure. Je t'accorde une faveur. » Viśvâmitra dit : « Puis-je te connaître. » Indra dit : « Je suis Prânā (le souffle), ô Rishi, tu es Prânā, toutes choses sont Prânā. Car c'est Prânā qui brille comme le soleil, et ici je pénètre toutes les régions sous cette forme. Cette nourriture qui est la mienne (l'hymne) est mon ami et mon soutien (dakshiśa). C'est la nourriture préparée par Viśvâmitra. Je suis en vérité celui qui brille (le soleil). »
 
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 ## QUATRIÈME KHA<i>N</i><i>D</i>A.
 
@@ -95,7 +95,7 @@ DEUXIÈME ADHYÂYA [^525].
 
 5\. Ceci devient parfait comme mille versets de Birāhātī. Celui qui sait cela, après ces mille Birāhātīs ainsi accomplis, devient plein de connaissance, plein des dieux, plein de Brahman, plein de l'immortel, et alors va aussi vers les dieux.
 
-6\. Ce que je suis (l'adorateur), c'est lui (le soleil) ; ce qu'il est, c'est moi. <span id="p221">[<sup><small>p. 221</small></sup>]</span> 7\. Ceci a été dit par un <i>Ri</i>shi (Av. I, 115, 1) : « Le soleil est le soi de tout ce qui se meut et se repose. »
+6\. Ce que je suis (l'adorateur), c'est lui (le soleil) ; ce qu'il est, c'est moi. <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> 7\. Ceci a été dit par un <i>Ri</i>shi (Av. I, 115, 1) : « Le soleil est le soi de tout ce qui se meut et se repose. »
 
 8\. Qu'il regarde cela, qu'il regarde cela !
 

@@ -40,7 +40,7 @@ Si un moine ou une nonne entend des sons, par exemple ceux du Vi<i>n</i>â, du V
 
 Les mêmes préceptes s'appliquent aux sons des timbales, à savoir du Tâla, du Lattiyâ, du Gohiyâ [^471] ou du Kirikiriyâ ; (3)
 
-<span id="p184">[<sup><small>p. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 Également aux sons des instruments à vent, à savoir la conque, la flûte, le Kharamukhî ou le Piripiriyâ. (4)
 
@@ -64,7 +64,7 @@ Ni aux endroits où se produisent des conteurs ou des acrobates, ni où se déro
 
 Ni aux lieux où se produisent des querelles, des échauffourées, des émeutes, des conflits entre deux royaumes, des troubles anarchiques ou révolutionnaires ; (15)
 
-<span id="p185">[<sup><small>p. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 Ni dans les lieux où l'on fait défiler une jeune fille bien soignée, bien vêtue et bien parée, ni dans les lieux où l'on conduit quelqu'un à la mort. (16)
 

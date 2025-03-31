@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 QUATRIÈME ADHYÂYA.
 
@@ -44,7 +44,7 @@ QUATRIÈME ADHYÂYA.
 
 3\. Vient ensuite (à nouveau) le verset Sûdadohas. Sûdadohas est le souffle, et par là il joint toutes les articulations avec le souffle.
 
-4\. Vient ensuite la tête. C'est dans les versets de la Gâyatrî. La Gâyatrî est le début de toutes les mesures [^462] ; la tête est le premier de tous les membres. Elle est dans les versets d'Arkavat (Ap. I, 7, 1-9) [^463]. Arka est Agni. Il y a neuf versets. La tête est composée de neuf parties. Il récite le dixième verset, et c'est la peau et les cheveux de la tête. Il sert à réciter un verset de plus que (les neuf versets contenus dans) le Stoma [^464]. <span id="p188">[<sup><small>p. 188</small></sup>]</span> Ceux-ci forment le Stoma de Trivrit et le mètre de la Gâyatrî, et tout ce qui existe, tout cela est produit après la production de ce Stoma et de ce mètre. Par conséquent, la récitation de ces hymnes de tête sert à la production.
+4\. Vient ensuite la tête. C'est dans les versets de la Gâyatrî. La Gâyatrî est le début de toutes les mesures [^462] ; la tête est le premier de tous les membres. Elle est dans les versets d'Arkavat (Ap. I, 7, 1-9) [^463]. Arka est Agni. Il y a neuf versets. La tête est composée de neuf parties. Il récite le dixième verset, et c'est la peau et les cheveux de la tête. Il sert à réciter un verset de plus que (les neuf versets contenus dans) le Stoma [^464]. <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> Ceux-ci forment le Stoma de Trivrit et le mètre de la Gâyatrî, et tout ce qui existe, tout cela est produit après la production de ce Stoma et de ce mètre. Par conséquent, la récitation de ces hymnes de tête sert à la production.
 
 5\. Celui qui sait cela, aura une descendance et du bétail.
 
@@ -54,7 +54,7 @@ QUATRIÈME ADHYÂYA.
 
 8\. Vient ensuite le verset Sûdadohas. Sûdadohas est le souffle, et ainsi il joint toutes les articulations avec le souffle.
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 ## DEUXIÈME KHA<i>N</i><i>D</i>A.
 
@@ -62,11 +62,11 @@ QUATRIÈME ADHYÂYA.
 
 2\. Vient ensuite le verset Sûdadohas. Sûdadohas est le souffle, il unit ainsi toutes les articulations avec le souffle.
 
-3\. Vient ensuite l'aile gauche. C'est ce monde (le ciel), c'est ce soleil, c'est l'esprit, c'est le Brihat, c'est <span id="p190">[<sup><small>p. 190</small></sup>]</span> a, c'est cent [^469]. Ce sont les six pouvoirs (de l'aile gauche). L'hymne Sampâta (Ap. IV, 23) sert en effet à obtenir les désirs et à la fermeté. Le verset Paṅkti (Ap. I, 81, 1) sert à la bonne nourriture.
+3\. Vient ensuite l'aile gauche. C'est ce monde (le ciel), c'est ce soleil, c'est l'esprit, c'est le Brihat, c'est <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> a, c'est cent [^469]. Ce sont les six pouvoirs (de l'aile gauche). L'hymne Sampâta (Ap. IV, 23) sert en effet à obtenir les désirs et à la fermeté. Le verset Paṅkti (Ap. I, 81, 1) sert à la bonne nourriture.
 
 4\. Ces deux ailes (droite et gauche) sont déficientes et excessives [^470]. Le Brihat (l'aile gauche) est l'homme, le Rathantara (l'aile droite) est la femme. L'excès appartient à l'homme, le manque à la femme. Par conséquent, elles sont déficientes et excessives.
 
-5\. Or, l'aile gauche d'un oiseau est en vérité meilleure d'une plume, c'est pourquoi l'aile gauche est plus grande d'un vers. <span id="p191">[<sup><small>p. 191</small></sup>]</span> 6\. Vient ensuite le verset Sûdadohas. Sûdadohas est le souffle, et par là il joint toutes les articulations au souffle.
+5\. Or, l'aile gauche d'un oiseau est en vérité meilleure d'une plume, c'est pourquoi l'aile gauche est plus grande d'un vers. <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> 6\. Vient ensuite le verset Sûdadohas. Sûdadohas est le souffle, et par là il joint toutes les articulations au souffle.
 
 7\. Vient ensuite la queue. Ce sont vingt et un versets Dvipadâ [^471]. Car il y a vingt et une plumes arrière chez un oiseau.
 

@@ -32,13 +32,13 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 Chapitre II, Verset 192. Accomplissez le pèlerinage et la visite à Dieu. Si vous êtes assiégés, alors ce qui vous est le plus facile comme don. Ne vous rasez pas la tête jusqu'à ce que votre don soit arrivé à destination. Et celui d'entre vous qui est malade ou qui a une blessure à la tête, la rédemption se fera par le jeûne, l'aumône ou une offrande. Mais lorsque vous serez de nouveau en sécurité, que celui qui veut bénéficier de la visite jusqu'au pèlerinage apporte ce qui est le plus facile comme don. Et celui qui ne trouve rien, qu'il jeûne trois jours au pèlerinage et sept à votre retour, ce qui fait dix jours complets. C'est-à-dire pour celui dont la famille n'est pas présente à la mosquée sacrée. Craignez Dieu, et sachez qu'Allah est prompt à punir.
 
 Chapitre III, Verset 90. - En vérité, la première maison fondée pour les hommes fut certainement celle de Bekkah, pour une bénédiction et une direction pour les mondes. Il y a là des signes évidents, la position d'Abraham, et quiconque entre est en sécurité. L'homme doit à Dieu un pèlerinage vers la Maison, pour quiconque peut y trouver son chemin. Mais pour celui qui ne croit pas, Dieu est indépendant des mondes.
 
-Chapitre XXII., Verset 25. — En vérité, ceux qui <span id="p63">[<sup><small>p. 63</small></sup>]</span> mécroient et qui détournent les gens du sentier de Dieu et de la mosquée sacrée que Nous avons établie pour tous les hommes, l'habitant comme l'étranger, et quiconque y désire la profaner avec injustice, Nous leur ferons goûter un châtiment douloureux.
+Chapitre XXII., Verset 25. — En vérité, ceux qui <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> mécroient et qui détournent les gens du sentier de Dieu et de la mosquée sacrée que Nous avons établie pour tous les hommes, l'habitant comme l'étranger, et quiconque y désire la profaner avec injustice, Nous leur ferons goûter un châtiment douloureux.
 
 Et lorsque Nous avons établi pour Abraham le lieu de la Maison (en disant) : « Ne M'associez rien, mais purifiez Ma Maison pour ceux qui font les tournées, pour ceux qui se tiennent debout pour prier, pour ceux qui s'inclinent, et pour ceux aussi qui adorent.
 

@@ -38,7 +38,7 @@ Le gourou, voyant un jour ses parents et ses proches se tenir autour de lui pour
 
 Depuis quand ai-je une mère ? Depuis quand ai-je un père ? D'où venons-nous ?
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 Du feu et des bulles d'eau sommes-nous issus ; pour quel but avons-nous été créés ?
 Mon Seigneur, qui connaît tes mérites ?
@@ -64,7 +64,7 @@ Les autres membres de la famille de Nanak approuvèrent également sa décision 
 
 Lorsque Nanak demanda au Rai Bular la permission de partir, celui-ci lui offrit un banquet. Le Rai le pria alors de lui donner l'ordre qu'il lui plairait, c'est-à-dire de lui indiquer la faveur qu'il pourrait lui accorder. Nanak répondit :
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Je te donne un ordre si tu veux t'y conformer.
 Quand ta propre force ne suffit pas, joins les mains et adore Dieu.
@@ -91,7 +91,7 @@ Je ne serais toujours pas capable d'exprimer ta valeur ; combien grand serai-je 
 Nanak, j'avais des centaines de milliers de tonnes de papier et le désir d'écrire dessus après les recherches les plus approfondies ;
 Si l'encre ne me faisait jamais défaut et si je pouvais déplacer ma plume comme le vent,
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Je ne serais toujours pas capable d'exprimer ta valeur ; combien grand serai-je pour appeler ton nom ?[^1]
 
@@ -118,7 +118,7 @@ Il n'y a pas d'autre porte que la tienne ; à quelle porte irai-je ?
 Nanak fait une supplication :
 L’âme et le corps sont tous en ton pouvoir.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Tu es proche, tu es lointain et tu es à mi-chemin.
 Tu vois et tu entends ; par ta puissance tu as créé le monde.
@@ -140,7 +140,7 @@ Ceux qui étaient présents conclurent alors que Nanak n’était pas possédé,
 
 En entendant cela, Nanak ordonna à Mardana de jouer le rebeck et continua la strophe :
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Le simplet Nanak est devenu fou contre le Seigneur.[^1]
 Et il ne connaît personne d’autre que Dieu.
@@ -168,7 +168,7 @@ Pudeur ta circoncision, civilité ton jeûne, ainsi tu seras musulman ;
 Fais de la bonne conduite ta Kaaba,[^6] de la vérité ton guide spirituel, des bonnes œuvres ta croyance et ta prière,
 Que la volonté de Dieu soit ton rosaire, et Dieu préservera ton honneur, ô Nanak
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 Nanak, que les biens d'autrui[^1] soient pour toi ce que les porcs sont pour le musulman et les vaches pour l'hindou[^2] ;
 Les maîtres spirituels hindous et musulmans se porteront garants pour toi si tu ne manges pas de charogne.[^3]
@@ -195,7 +195,7 @@ Tous les musulmans de la capitale – les descendants du Prophète, la tribu des
 À la porte de Dieu résident des milliers de Mahomet, des milliers de Brahma, de Vishnu et de Shivs ;[^3]
 Des milliers et des milliers de Béliers exaltés,[^4] des milliers de guides spirituels, des milliers de vêtements religieux ;
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Des milliers et des milliers de célibataires, de vrais hommes et de Sanyasis ;[^1]
 Des milliers et des milliers de Gorakhs,[^2] des milliers et des milliers de supérieurs de Jogis ;

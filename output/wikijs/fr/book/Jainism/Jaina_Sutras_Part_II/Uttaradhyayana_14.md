@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:59:21Z
 
 QUATORZIÈME CONFÉRENCE. ISHUKÂRA.
 
-Ayant été dieux dans une existence antérieure et ayant vécu dans la même région céleste, certains sont nés (ici-bas) dans l'ancienne, riche et célèbre <span id="p62">[<sup><small>p. 62</small></sup>]</span> ville appelée Ishukâra [^175], qui est belle comme le ciel. (1)
+Ayant été dieux dans une existence antérieure et ayant vécu dans la même région céleste, certains sont nés (ici-bas) dans l'ancienne, riche et célèbre <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> ville appelée Ishukâra [^175], qui est belle comme le ciel. (1)
 
 Grâce à un reste de mérite acquis dans leur vie antérieure, ils naquirent dans des familles nobles. Dégoûtés du monde et effrayés par le Samsâra, ils abandonnèrent les plaisirs et se réfugièrent dans la voie des Ginas. (2)
 
@@ -50,7 +50,7 @@ Avers aux plaisirs humains et célestes, désireux de libération et pleins de f
 
 Afin de les dissuader d'une vie d'austérité, le père répondit à ces (futurs) moines : « Ceux qui sont versés dans les Védas disent qu'il n'y aura pas de monde meilleur pour les hommes sans fils. » (8)
 
-« Mes fils, après avoir étudié les Védas et nourri les prêtres, après avoir placé vos propres fils <span id="p63">[<sup><small>p. 63</small></sup>]</span> à la tête de votre maison, et après avoir profité de la vie avec vos femmes, alors vous pourrez partir dans les bois comme des sages dignes d'éloges. » (9)
+« Mes fils, après avoir étudié les Védas et nourri les prêtres, après avoir placé vos propres fils <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> à la tête de votre maison, et après avoir profité de la vie avec vos femmes, alors vous pourrez partir dans les bois comme des sages dignes d'éloges. » (9)
 
 Les jeunes gens percevant que le Purôhita était entièrement consumé, pour ainsi dire, par le feu du chagrin, qui était alimenté par ses inclinations individuelles et soufflé en une immense flamme par le vent de l'illusion ; qu'il souffrait beaucoup et parlait beaucoup de plusieurs manières ; qu'il essayait de les persuader progressivement, et qu'il les soudoyait même avec de l'argent et des objets de désir, (prononcèrent) ces paroles : (10, 11)
 
@@ -64,7 +64,7 @@ L'étude des Védas ne vous sauvera pas ; nourrir les Brâhmanes vous mènera d'
 
 « Une grande richesse, des femmes, une famille et des plaisirs exquis : c'est pour cela que l'on pratique l'austérité. Vous pouvez obtenir tout cela en le demandant. » (16)
 
-« À quoi servent les richesses pour la pratique de la religion, quelle famille, quels plaisirs ? Nous deviendrons des <span id="p64">[<sup><small>p. 64</small></sup>]</span> <i>S</i>rama<i>n</i>as, doués de nombreuses vertus, et nous errerons en collectant des aumônes. » (17)
+« À quoi servent les richesses pour la pratique de la religion, quelle famille, quels plaisirs ? Nous deviendrons des <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> <i>S</i>rama<i>n</i>as, doués de nombreuses vertus, et nous errerons en collectant des aumônes. » (17)
 
 « Comme le feu est produit dans le bois d'Ara<i>n</i>i, comme le beurre dans le lait et l'huile dans la graine de sésame, ainsi, mes fils, l'âme [^176] est produite dans le corps ; (toutes ces choses) n'existaient pas auparavant, elles sont venues à l'existence, puis elles périssent ; mais elles ne sont pas permanentes. » (18)
 
@@ -74,7 +74,7 @@ L'âme ne peut être appréhendée par les sens, car elle ne possède aucune for
 
 « Alors que l'humanité est harcelée (par l'un) et saisie (par l'autre), et que les infaillibles passent, nous ne prenons aucun plaisir à la vie d'un chef de famille. » (21)
 
-« Qui harcèle le monde ? Qui s'en empare ? <span id="p65">[<sup><small>p. 65</small></sup>]</span> qui appelez-vous infaillible ? Mes fils, je suis impatient d'apprendre cela. » (22)
+« Qui harcèle le monde ? Qui s'en empare ? <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> qui appelez-vous infaillible ? Mes fils, je suis impatient d'apprendre cela. » (22)
 
 « L’humanité est harcelée par la Mort ; elle est saisie par la Vieillesse ; les jours [^178] sont appelés infaillibles : sache ceci, Père ! (23)
 
@@ -118,7 +118,7 @@ Lorsque la reine eut appris que le Purôhita avec sa femme et ses fils était en
 
 « Ceux qui ont joui des plaisirs et y ont renoncé se déplacent comme le vent et vont où bon leur semble, comme les oiseaux dont le vol est incontrôlé. » (44)
 
-« Quand ils [^182] sont attrapés et tenus par ma main, <span id="p68">[<sup><small>p. 68</small></sup>]</span> monsieur, ils se débattent ; nous serons comme eux, si nous sommes attachés aux plaisirs. (45)
+« Quand ils [^182] sont attrapés et tenus par ma main, <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> monsieur, ils se débattent ; nous serons comme eux, si nous sommes attachés aux plaisirs. (45)
 
 « Comme un oiseau non appâté [^183] voit un oiseau appâté pris au piège, de même nous éviterons tout appât et nous promènerons sans être appâtés par quoi que ce soit. » (46)
 
@@ -128,7 +128,7 @@ Lorsque la reine eut appris que le Purôhita avec sa femme et ses fils était en
 
 « Quittez votre grand royaume et les plaisirs qui sont si chers à tous ; abandonnez ce qui plaît aux sens et ce qui attire ; soyez sans attaches et sans propriété ; apprenez à fond la Loi et renoncez à tous les divertissements ; puis pratiquez une pénitence célèbre et sévère, étant d'une énergie ferme [^184]. » (49, 50)
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 De cette manière, tous les professeurs de la Loi obtinrent peu à peu l'illumination, étant effrayés par la naissance et la mort, et cherchant la fin de la misère. (51)
 

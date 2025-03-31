@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 QUATRIÈME LEÇON, INTIGUÉE MODES DE PAROLE [^413].
 
@@ -40,13 +40,13 @@ QUATRIÈME LEÇON, INTIGUÉE MODES DE PAROLE [^413].
 
 Un moine ou une nonne, entendant et percevant ces usages de la parole, doit savoir que les suivants ne doivent pas être employés et n'ont pas été employés jusqu'à présent (par des personnes de conduite exemplaire) : ceux qui parlent par colère ou par orgueil, par tromperie ou par intérêt, qui prononcent, consciemment ou inconsciemment, des paroles dures. Ils doivent éviter tout cela, qui est blâmable. En faisant preuve de jugement, ils doivent savoir ce qui est certain et ce qui est incertain [^414] : (1) (NN) avoir reçu de la nourriture ou ne pas en avoir reçu, l'avoir mangée ou ne pas l'avoir mangée, est venu ou n'est pas venu, vient ou ne vient pas, viendra ou ne viendra pas. (2)
 
-Bien considérant (ce qu'il faut dire), parlant avec précision, il faut employer le langage avec modération et retenue : le singulier, le duel, le pluriel ; le féminin, le masculin, le neutre ; louange, blâme, <span id="p150">[<sup><small>p. 150</small></sup>]</span> louange mêlée de blâme, blâme mêlé de louange ; passé, présent ou futur (temps), la première et la deuxième, ou la troisième personne [^415]. Si l'on juge nécessaire de parler au singulier, il faut le faire au singulier ; si l'on juge nécessaire de parler au pluriel, il faut le faire au pluriel, etc. Considérant bien : ceci est une femme, ceci est un homme, ceci est un eunuque, ceci doit être appelé ainsi, ceci doit être appelé autrement, parlant avec précision, il faut employer le langage avec modération et retenue. (3)
+Bien considérant (ce qu'il faut dire), parlant avec précision, il faut employer le langage avec modération et retenue : le singulier, le duel, le pluriel ; le féminin, le masculin, le neutre ; louange, blâme, <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> louange mêlée de blâme, blâme mêlé de louange ; passé, présent ou futur (temps), la première et la deuxième, ou la troisième personne [^415]. Si l'on juge nécessaire de parler au singulier, il faut le faire au singulier ; si l'on juge nécessaire de parler au pluriel, il faut le faire au pluriel, etc. Considérant bien : ceci est une femme, ceci est un homme, ceci est un eunuque, ceci doit être appelé ainsi, ceci doit être appelé autrement, parlant avec précision, il faut employer le langage avec modération et retenue. (3)
 
 Pour éviter ces occasions de pécher, un mendiant doit savoir qu'il y a quatre sortes de discours : le premier est la vérité ; le deuxième est le mensonge ; le troisième est la vérité mêlée de mensonge ; ce qui n'est ni vérité, ni mensonge, ni vérité mêlée de mensonge, c'est le quatrième genre de discours : ni vérité ni mensonge [^416]. Ainsi dis-je.
 
 Tous les Arhats passés, présents et futurs ont enseigné et déclaré, enseignent et déclarent, enseigneront et déclareront ces quatre sortes de discours ; et ils ont expliqué toutes ces choses qui sont dépourvues d'intellect, qui possèdent la couleur, l'odeur, le goût, le toucher, qui sont sujettes à la décomposition et à l'augmentation, qui possèdent diverses qualités. (4)
 
-Un moine (ou une nonne) devrait savoir qu'avant (l'énonciation) la parole est une parole dans la non-existence (antérieure) [^417] ; que tant qu'elle est prononcée, elle est une parole (réelle) ; <span id="p151">[<sup><small>p. 151</small></sup>]</span> que l'instant après qu'elle a été prononcée, la parole parlée est une parole dans la non-existence (subséquente). (5)
+Un moine (ou une nonne) devrait savoir qu'avant (l'énonciation) la parole est une parole dans la non-existence (antérieure) [^417] ; que tant qu'elle est prononcée, elle est une parole (réelle) ; <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> que l'instant après qu'elle a été prononcée, la parole parlée est une parole dans la non-existence (subséquente). (5)
 
 Un moine ou une nonne, bien réfléchis, ne doit pas utiliser un langage, qu'il soit vrai ou faux, ou mêlé de vérité et de mensonge, s'il est pécheur, blâmable, rude, cinglant, grossier, dur, conduisant au péché, à la discorde et aux factions, au chagrin et à l'outrage, à la destruction des êtres vivants. (6)
 
@@ -56,7 +56,7 @@ Un moine ou une nonne, s'adressant à un homme qui, si on l'interpelle, ne répo
 
 Mais dans ce cas, ils devraient dire : « NN ! Ô toi qui as vécu longtemps ! Ô toi qui as vécu longtemps ! Ô laïc ! Ô élève ! Ô fidèle ! Ô amoureux de la foi ! » En y réfléchissant bien, ils devraient utiliser un langage aussi pur, irréprochable, etc. (9)
 
-Un moine ou une nonne, s'adressant à une femme qui, si on l'interpelle, ne répond pas, ne doit pas dire : « Sale coquine ! Espèce de fille ! etc. » (répéter la liste ci-dessus de <span id="p152">[<sup><small>p. 152</small></sup>]</span> injures adaptées aux femmes). En y réfléchissant bien, ils ne doivent pas employer de tels propos coupables, blâmables, etc. (10)
+Un moine ou une nonne, s'adressant à une femme qui, si on l'interpelle, ne répond pas, ne doit pas dire : « Sale coquine ! Espèce de fille ! etc. » (répéter la liste ci-dessus de <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> injures adaptées aux femmes). En y réfléchissant bien, ils ne doivent pas employer de tels propos coupables, blâmables, etc. (10)
 
 Un moine ou une nonne, s'adressant à une femme qui, si on l'interpelle, ne répond pas, doit dire : « Ô femme de longue vie ! Ô sœur ! Madame ! Madame ! Ô sœur converse ! Ô élève ! Ô fidèle ! Ô amoureuse de la foi ! » Après mûre réflexion, ils doivent employer un langage sans péché, sans reproche, etc. (11)
 
@@ -106,7 +106,7 @@ Un moine ou une nonne, voyant beaucoup de légumes, devrait en parler de cette m
 
 Un moine ou une nonne, entendant des sons de quelque sorte que ce soit, ne devrait pas en parler ainsi : « Ceci est un bon son, ceci est un mauvais son » ; considérant bien, ils ne devraient pas utiliser un langage aussi sans péché, etc. ; mais ils devraient les appeler bons, s'ils sont bons ; mauvais, s'ils sont mauvais ; considérant bien, ils devraient utiliser un langage aussi sans péché, etc. (17)
 
-De la même manière, ils devraient parler des <span id="p156">[<sup><small>p. 156</small></sup>]</span> (cinq) couleurs, comme le noir, etc. ; des (deux) odeurs, comme agréables ou désagréables ; des (cinq) goûts, comme piquants, etc. ; des (cinq) sortes de toucher, comme durs, etc. (18)
+De la même manière, ils devraient parler des <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> (cinq) couleurs, comme le noir, etc. ; des (deux) odeurs, comme agréables ou désagréables ; des (cinq) goûts, comme piquants, etc. ; des (cinq) sortes de toucher, comme durs, etc. (18)
 
 Un moine ou une nonne, mettant de côté la colère, l'orgueil, la tromperie et la cupidité, considérant bien, parlant avec précision, ce qu'il a entendu, pas trop vite, avec discernement, doit employer le langage avec modération et retenue.
 

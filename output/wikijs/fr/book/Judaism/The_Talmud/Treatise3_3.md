@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-1\. « Un four chauffé au chaume ou aux broussailles ? » « On peut y placer des ustensiles de cuisine. » « Avec de l'huile et du bois ? » « On ne doit pas le placer avant d'avoir retiré les braises ou d'y avoir mis les cendres. » L'école de Shammaï dit : « De l'eau chaude, mais pas des ustensiles de cuisine. » Mais l'école <span id="p87">[<sup><small>p. 87</small></sup>]</span> dit : « De l'eau chaude et des ustensiles de cuisine. » L'école de Shammaï dit : « On peut l'enlever, mais pas le remettre. » Mais l'école de Hillel dit : « On peut le remettre. »
+1\. « Un four chauffé au chaume ou aux broussailles ? » « On peut y placer des ustensiles de cuisine. » « Avec de l'huile et du bois ? » « On ne doit pas le placer avant d'avoir retiré les braises ou d'y avoir mis les cendres. » L'école de Shammaï dit : « De l'eau chaude, mais pas des ustensiles de cuisine. » Mais l'école <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> dit : « De l'eau chaude et des ustensiles de cuisine. » L'école de Shammaï dit : « On peut l'enlever, mais pas le remettre. » Mais l'école de Hillel dit : « On peut le remettre. »
 
 2\. « Un fourneau chauffé au chaume ou aux broussailles ? » « On ne doit rien y placer, ni à l'intérieur, ni dessus. » « Un fourneau chauffé au chaume ou aux broussailles ? » « C'est comme un fourneau. » « Avec de l'huile ou du bois ? » « C'est comme un fourneau. »
 

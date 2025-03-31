@@ -50,7 +50,7 @@ Il y avait un Sthavira et un Ga<i>n</i>adhara [^386], le sage érudit Garga. Ce 
 
 « De même que les mauvais bœufs sont placés devant un char, de même les mauvais élèves sont lorsqu'ils sont attelés, pour ainsi dire, au char de la Loi ; ils s'effondrent par manque de zèle. » (8)
 
-« Certains attachent une grande importance [^391] à leur succès ; <span id="p151">[<sup><small>p. 151</small></sup>]</span> certains à leur bonne chère ; certains à leur confort ; certains nourrissent leur colère. (9)
+« Certains attachent une grande importance [^391] à leur succès ; <span id="p151"><sup><small>[ p. 151 ]</small></sup></span> certains à leur bonne chère ; certains à leur confort ; certains nourrissent leur colère. (9)
 
 « Certains sont réticents à mendier ; certains ont peur des insultes et sont prétentieux ; (comment puis-je) les convaincre par des raisons et des arguments [^392] (?) (10)
 
@@ -66,7 +66,7 @@ Or, ce conducteur (Garga), qui avait affaire à de mauvais bœufs, pensait : « 
 
 « Tels sont les mauvais élèves, tels sont les mauvais bœufs ; je quitterai ces ânes paresseux et je pratiquerai de sévères austérités. » (16)
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 Cet homme noble, plein de bonté, grave et toujours méditatif, errait sur la terre, menant une vie vertueuse. (17)
 

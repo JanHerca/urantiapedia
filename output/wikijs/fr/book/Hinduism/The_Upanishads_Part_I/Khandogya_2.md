@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 DEUXIÈME PRAPÂTHAKA.
 
@@ -50,7 +50,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 1\. Que l'homme médite sur le quintuple Sâman [^126] comme les cinq mondes. Le hiṅkâra est la terre, le prastâva le feu, l'udgîtha le ciel, le pratihâra le soleil, le nidhana le ciel ; ainsi, dans une ligne ascendante.
 
-2\. Dans une ligne descendante, le hiṅkâra est le ciel, <span id="p24">[<sup><small>p. 24</small></sup>]</span> le prastâva le soleil, l'udgîtha le ciel, le pratihâra le feu, le nidhana la terre.
+2\. Dans une ligne descendante, le hiṅkâra est le ciel, <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> le prastâva le soleil, l'udgîtha le ciel, le pratihâra le feu, le nidhana la terre.
 
 3\. Les mondes en ligne ascendante et en ligne descendante appartiennent à celui qui, sachant cela, médite sur le quintuple Sâman comme les mondes [^127].
 
@@ -64,7 +64,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 1\. Que l'homme médite sur le quintuple Sâman dans toutes les eaux. Quand les nuages ​​s'amassent, c'est le hiṅkâra ; quand il pleut, c'est le prastâva qui coule à l'est [^128] ; c'est l'udgîtha qui coule à l'ouest [^129], c'est le pratihâra ; la mer est le nidhana.
 
-2\. Celui qui ne meurt pas dans l'eau [^130], bien au contraire, est riche en <span id="p25">[<sup><small>p. 25</small></sup>]</span> eau, celui qui, sachant cela, médite sur le quintuple Sâman comme toutes les eaux.
+2\. Celui qui ne meurt pas dans l'eau [^130], bien au contraire, est riche en <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> eau, celui qui, sachant cela, médite sur le quintuple Sâman comme toutes les eaux.
 
 ## CINQUIÈME KHA<i>N</i><i>D</i>A.
 
@@ -82,7 +82,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 1\. Que l'homme médite sur le quintuple Sâman, qui est plus grand que grand, comme les prânas (sens). Le hiṅkâra est l'odorat [^131] (nez), le prastâva la parole (langue), l'udgîtha la vue (œil), le pratihâra l'ouïe (oreille), le nidhana l'esprit. Ceux-ci sont tous plus grands les uns que les autres.
 
-2\. Ce qui est plus grand que grand lui appartient, non, il conquiert les mondes qui sont plus grands que <span id="p26">[<sup><small>p. 26</small></sup>]</span> grands, lui qui, sachant cela, médite sur le quintuple Sâman, qui est plus grand que grand, comme les prâ<i>n</i>as (sens).
+2\. Ce qui est plus grand que grand lui appartient, non, il conquiert les mondes qui sont plus grands que <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> grands, lui qui, sachant cela, médite sur le quintuple Sâman, qui est plus grand que grand, comme les prâ<i>n</i>as (sens).
 
 ## HUITIÈME KHA<i>N</i><i>D</i>A.
 
@@ -98,7 +98,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 2\. Qu'il sache que tous les êtres dépendent de lui (le soleil). Ce qu'il est avant son lever, c'est le hiṅkâra. Les animaux en dépendent. C'est pourquoi les animaux disent hiṅ (avant le lever du soleil), car ils partagent le hiṅkâra de ce Sâman (le soleil).
 
-3\. Ce qu'il est à sa première apparition, c'est le prastâva. Les hommes en dépendent. C'est pourquoi les hommes aiment les louanges (prastuti) et la célébrité, car ils partagent le prastâva de ce Sâman. <span id="p27">[<sup><small>p. 27</small></sup>]</span> 4\. Ce qu'il est au moment du saṅgava [^134], c'est l'âdi, le premier, l'Om. Les oiseaux en dépendent. C'est pourquoi les oiseaux volent dans le ciel sans support, se tenant eux-mêmes, car ils partagent l'âdi [^135] (l'Om) de ce Sâman.
+3\. Ce qu'il est à sa première apparition, c'est le prastâva. Les hommes en dépendent. C'est pourquoi les hommes aiment les louanges (prastuti) et la célébrité, car ils partagent le prastâva de ce Sâman. <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> 4\. Ce qu'il est au moment du saṅgava [^134], c'est l'âdi, le premier, l'Om. Les oiseaux en dépendent. C'est pourquoi les oiseaux volent dans le ciel sans support, se tenant eux-mêmes, car ils partagent l'âdi [^135] (l'Om) de ce Sâman.
 
 5\. Ce qu'il est juste à midi, c'est l'udgîtha. Les Devas en dépendent (car ils sont brillants). Ils sont donc les meilleurs de tous les descendants de Pra<i>g</i>âpati, car ils partagent l'udgîtha de ce Sâman.
 
@@ -108,7 +108,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 8\. Ce qu'il est lorsqu'il se couche, c'est le nidhana. Les pères en dépendent. C'est pourquoi ils les déposent [^136] (nidadhati), car ils partagent le nidhana de ce Sâman. Ainsi, l'homme médite sur le septuple Sâman comme sur le soleil.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 ## DIXIÈME KHA<i>N</i><i>D</i>A.
 
@@ -126,7 +126,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 ## ONZIÈME KHA<i>N</i><i>D</i>A [^139].
 
-1\. Le hiṅkâra est l'esprit, le prastâva la parole, l'udgîtha la vue, le pratihâra l'ouïe, le nidhana <span id="p29">[<sup><small>p. 29</small></sup>]</span> le souffle. C'est le Gâyatra Sâman, tel qu'il est entrelacé dans les (cinq) prâ<i>n</i>as [^140].
+1\. Le hiṅkâra est l'esprit, le prastâva la parole, l'udgîtha la vue, le pratihâra l'ouïe, le nidhana <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> le souffle. C'est le Gâyatra Sâman, tel qu'il est entrelacé dans les (cinq) prâ<i>n</i>as [^140].
 
 2\. Celui qui connaît ainsi ce Gâyatra, tissé dans les prânās, garde ses esprits, atteint la plénitude de la vie, vit longtemps [^141], devient riche en enfants et en bétail, et célèbre. La règle de celui qui médite ainsi sur le Gâyatra est : « Ne sois pas orgueilleux. »
 
@@ -140,7 +140,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 1, 2. Vient ensuite le Vâmadevya tel qu'il est entrelacé dans la génération [^144].
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 ## QUATORZIÈME KHA<i>N</i><i>D</i>A.
 
@@ -156,7 +156,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 ## SEIZIÈME KHA<i>N</i><i>D</i>A.
 
-1\. Le hiṅkâra est le printemps, le prastâva l'été, l'udgîtha la saison des pluies, le pratihâra l'automne, <span id="p31">[<sup><small>p. 31</small></sup>]</span> le nidhana l'hiver. C'est le Vairâ<i>g</i>a Sâman, tel qu'il est entrelacé dans les saisons.
+1\. Le hiṅkâra est le printemps, le prastâva l'été, l'udgîtha la saison des pluies, le pratihâra l'automne, <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> le nidhana l'hiver. C'est le Vairâ<i>g</i>a Sâman, tel qu'il est entrelacé dans les saisons.
 
 2\. Celui qui connaît ainsi le Vairâ<i>g</i>a, entrelacé dans les saisons, brille (virâ<i>g</i>ati) à travers les enfants, le bétail et la gloire de son visage. Il atteint la plénitude de la vie, vit longtemps, devient grand par ses enfants et son bétail, grand par sa renommée. Sa règle est : « Ne vous plaignez jamais des saisons. »
 
@@ -172,7 +172,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 2\. Celui qui connaît ainsi ces Revatîs, comme étant entrelacés dans les animaux, devient riche en animaux [^148], il atteint la plénitude de la vie, il vit longtemps, devient riche en enfants et en bétail, et grand par la renommée. Sa règle est : « Ne vous plaignez jamais des animaux. »
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 ## DIX-NEUVIÈME KHA<i>N</i><i>D</i>A.
 
@@ -190,7 +190,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 1\. Le hiṅkâra est la triple connaissance, le prastâva les trois mondes, l'udgîtha Agni (le feu), Vâyu (l'air) et Âditya (le soleil) ; le pratihâra les étoiles, les oiseaux et les rayons ; le nidhana les serpents, les Gandharvas et les pères. Tel est le Sâman, tel qu'il est imbriqué en toute chose.
 
-2\. Celui qui connaît ainsi ce Sâman, comme entrelacé en toute chose, devient tout. <span id="p33">[<sup><small>p. 33</small></sup>]</span> 3\. Et ainsi il est dit dans le verset suivant : Il y a les trois quintuples (les trois sortes de connaissance sacrificielle, les trois mondes, etc. dans leur forme quintuple, c'est-à-dire tels qu'identifiés au hiṅkâra, au prastâva, etc.), et les autres formes du Sâman. Il n'y a rien de plus grand que ceux-ci.
+2\. Celui qui connaît ainsi ce Sâman, comme entrelacé en toute chose, devient tout. <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> 3\. Et ainsi il est dit dans le verset suivant : Il y a les trois quintuples (les trois sortes de connaissance sacrificielle, les trois mondes, etc. dans leur forme quintuple, c'est-à-dire tels qu'identifiés au hiṅkâra, au prastâva, etc.), et les autres formes du Sâman. Il n'y a rien de plus grand que ceux-ci.
 
 4\. Celui qui sait cela, sait tout. Toutes les régions lui offrent des cadeaux. Sa règle est : « Qu'il médite (sur le Sâman), sachant qu'il est tout, oui, qu'il est tout [^149]. »
 
@@ -198,14 +198,14 @@ DEUXIÈME PRAPÂTHAKA.
 
 1\. L'udgîtha, dont un poète a dit : « Je choisis la note grave du Sâman comme bonne pour le bétail », appartient à Agni ; la note indéfinie appartient à Pragâpati, la note définie à Soma, la note douce et suave à Vâyu, la note douce et forte à Indra, la note semblable à celle du héron à Birihaspati, la note sourde à Varuna. Que l'homme cultive toutes ces notes, en évitant toutefois celle de Varuna.
 
-2\. Qu'un homme chante [^151], souhaitant obtenir par son chant l'immortalité pour les Devas. « Puissé-je obtenir par mon chant des oblations (svadhâ) pour les pères, de l'espoir pour les hommes, du fourrage et de l'eau pour les animaux, le ciel pour le sacrificateur, de la nourriture pour moi-même », réfléchissant ainsi à tout cela dans son esprit, qu'un homme (prêtre Udgât<i>ri</i>) chante des louanges, sans faire d'erreurs de prononciation, etc. <span id="p34">[<sup><small>p. 34</small></sup>]</span> 3\. Toutes les voyelles (svara) appartiennent à Indra, toutes les sifflantes (ûshman) à Pra<i>g</i>âpati, toutes les consonnes (spar<i>s</i>a) à M<i>ri</i>tyu (la mort). Si quelqu'un le réprimande à cause de ses voyelles, qu'il dise : « Je me suis tourné vers Indra comme vers mon refuge (quand je prononce mes voyelles) : il te répondra. »
+2\. Qu'un homme chante [^151], souhaitant obtenir par son chant l'immortalité pour les Devas. « Puissé-je obtenir par mon chant des oblations (svadhâ) pour les pères, de l'espoir pour les hommes, du fourrage et de l'eau pour les animaux, le ciel pour le sacrificateur, de la nourriture pour moi-même », réfléchissant ainsi à tout cela dans son esprit, qu'un homme (prêtre Udgât<i>ri</i>) chante des louanges, sans faire d'erreurs de prononciation, etc. <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> 3\. Toutes les voyelles (svara) appartiennent à Indra, toutes les sifflantes (ûshman) à Pra<i>g</i>âpati, toutes les consonnes (spar<i>s</i>a) à M<i>ri</i>tyu (la mort). Si quelqu'un le réprimande à cause de ses voyelles, qu'il dise : « Je me suis tourné vers Indra comme vers mon refuge (quand je prononce mes voyelles) : il te répondra. »
 
 4\. Et si quelqu'un le réprimande pour ses sifflantes, qu'il dise : « Je me suis réfugié auprès de Pragâpati ; il te réduira en cendres. » Et si quelqu'un le réprimande pour ses consonnes, qu'il dise : « Je me suis réfugié auprès de Mirityu ; il te réduira en cendres. »
 
 5\. Toutes les voyelles doivent être prononcées avec voix (ghosha) et force (bala), afin que l'Udgât<i>ri</i> puisse donner de la force à Indra. Toutes les sifflantes doivent être prononcées, ni comme avalées (agrasta) [^152], ni comme rejetées (nirasta) [^153], mais bien ouvertes [^154] (viv<i>ri</i>ta), afin que l'Udgât<i>ri</i> puisse se donner à Pra<i>g</i>âpati. Toutes les consonnes doivent être prononcées lentement, et sans les serrer [^155], afin que l'Udgât<i>ri</i> puisse se soustraire à M<i>ri</i>tyu.
 
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 ## VINGT-TROISIÈME KHA<i>N</i><i>D</i>A.
 
@@ -219,7 +219,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 ## VINGT-QUATRIÈME KHA<i>N</i><i>D</i>A.
 
-1\. Les enseignants du Brahman (Veda) déclarent que, comme le Prâta<i>h</i>-savana (oblation du matin) appartient aux Vasus, le Mâdhyandina-savana (libation de midi) aux <span id="p36">[<sup><small>p. 36</small></sup>]</span> Rudras, le troisième Savana (libation du soir) aux Âdityas et aux Vi<i>s</i> Devas,
+1\. Les enseignants du Brahman (Veda) déclarent que, comme le Prâta<i>h</i>-savana (oblation du matin) appartient aux Vasus, le Mâdhyandina-savana (libation de midi) aux <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> Rudras, le troisième Savana (libation du soir) aux Âdityas et aux Vi<i>s</i> Devas,
 
 2\. Où est donc le monde du sacrifiant ? Celui qui ne sait pas cela, comment peut-il accomplir le sacrifice ? Seul celui qui sait devrait l'accomplir [^157].
 
@@ -235,7 +235,7 @@ DEUXIÈME PRAPÂTHAKA.
 
 8\. « Ouvre la porte du monde (le ciel), laisse-nous te voir, afin que nous puissions régner largement (dans le ciel). »
 
-9\. Puis il sacrifie en disant : « Adoration à <span id="p37">[<sup><small>p. 37</small></sup>]</span> Vâyu (air), qui réside dans le ciel, qui réside dans le monde. Obtiens ce monde pour moi, le sacrifiant ! C'est le monde pour le sacrifiant ! »
+9\. Puis il sacrifie en disant : « Adoration à <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> Vâyu (air), qui réside dans le ciel, qui réside dans le monde. Obtiens ce monde pour moi, le sacrifiant ! C'est le monde pour le sacrifiant ! »
 
 10\. « Moi (le sacrificateur) j'irai là-bas, quand cette vie sera terminée. Prends ceci ! Repousse le verrou ! » Ayant dit cela, il se lève. Pour lui, les Rudras accomplissent l'oblation du midi.
 

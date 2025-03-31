@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-1\. Les témoins ont été interrogés au moyen de sept questions. « En quelle année sabbatique ? » « En quelle année ? » « En <span id="p186">[<sup><small>p. 186</small></sup>]</span> quel mois ? » « Quel jour du mois ? » « Quel jour ? » À quelle heure ? » « Quel endroit ? » R. José a demandé : « Quel jour ? » « À quelle heure ? » « Quel endroit ? » « Le connaissiez-vous ? » « L'avez-vous averti ? » Dans un cas d'idolâtrie, « qui a-t-il servi ? » « Et avec quoi a-t-il servi ? »
+1\. Les témoins ont été interrogés au moyen de sept questions. « En quelle année sabbatique ? » « En quelle année ? » « En <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> quel mois ? » « Quel jour du mois ? » « Quel jour ? » À quelle heure ? » « Quel endroit ? » R. José a demandé : « Quel jour ? » « À quelle heure ? » « Quel endroit ? » « Le connaissiez-vous ? » « L'avez-vous averti ? » Dans un cas d'idolâtrie, « qui a-t-il servi ? » « Et avec quoi a-t-il servi ? »
 
 2\. Tout juge qui étend les interrogatoires est digne de louanges. Il arriva que le fils de Zachée examina (même) sur des tiges de figues. Et quelle différence y a-t-il entre une enquête et un interrogatoire ? Dans une enquête, si l'un dit : « Je ne sais pas », son témoignage est sans valeur. Dans un interrogatoire, si l'un dit : « Je ne sais pas », et que deux disent : « Nous ne savons pas », leur témoin reste valable. Que ce soit dans une enquête ou un interrogatoire, s'ils se contredisent, leur témoignage est sans valeur.
 

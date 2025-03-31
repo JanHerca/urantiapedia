@@ -52,7 +52,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 \[Contient des lois relatives à la première pâte, fondées sur Nombres xv. 20.\]
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 ## X. TRAITÉ ORLAH.
 

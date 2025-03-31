@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:13Z
   </table>
 </figure>
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 106\. Q. _Quelle est la signification du mot Bouddha ?_
 
@@ -46,7 +46,7 @@ R. Oui ; notre croyance est que, sous l’opération de la causalité éternelle
 
 A. Une personne, entendant et voyant l’un des Bouddhas sur terre, est saisie de la détermination de vivre de telle sorte qu’à un moment futur, lorsqu’elle sera prête à cela, elle sera également un Bouddha pour guider l’humanité hors du cycle des renaissances.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 109\. Q. _Comment procède-t-il ?_
 
@@ -74,7 +74,7 @@ A. Les Bodhisattvas – les futurs Bouddhas – sont divisés en trois classes.
 
 115\. Q. _Continuez. Comment appelle-t-on ces trois sortes de Bodhisats ?_
 
-A. Pannâdhika, ou Udghatitagnya – « celui qui atteint le moins vite » ; Saddhâdhika, ou Vipachitagnya – « celui qui atteint moins vite » ; et Vîriyâdhika, ou Gneyya – « celui qui atteint vite ». Les bodhisats Pannâdhika suivent la voie de l'Intelligence ; les Saddhâdhika suivent la voie de la Foi ; les Vîryâdhika suivent la voie de l'action énergique. Le premier est guidé par l'Intelligence et ne se hâte pas ; le second est plein de Foi et ne se soucie pas de suivre la direction <span id="p30">[<sup><small>p. 30</small></sup>]</span> de la Sagesse ; et le troisième ne tarde jamais à faire le bien. Quelles que soient les conséquences pour lui-même, il le fait quand il voit que c'est le mieux.
+A. Pannâdhika, ou Udghatitagnya – « celui qui atteint le moins vite » ; Saddhâdhika, ou Vipachitagnya – « celui qui atteint moins vite » ; et Vîriyâdhika, ou Gneyya – « celui qui atteint vite ». Les bodhisats Pannâdhika suivent la voie de l'Intelligence ; les Saddhâdhika suivent la voie de la Foi ; les Vîryâdhika suivent la voie de l'action énergique. Le premier est guidé par l'Intelligence et ne se hâte pas ; le second est plein de Foi et ne se soucie pas de suivre la direction <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> de la Sagesse ; et le troisième ne tarde jamais à faire le bien. Quelles que soient les conséquences pour lui-même, il le fait quand il voit que c'est le mieux.
 
 116\. Q. _Quand notre Bodhisattva est devenu Bouddha, quelle était, selon lui, la cause de la misère humaine ? Dites-le-moi en un mot._
 
@@ -92,7 +92,7 @@ A. Parce qu'elle nous fait apprécier ce qui ne mérite pas d'être apprécié, 
 
 A. Connaître tout le secret de l'existence et de la destinée de l'homme, afin que nous puissions estimer à leur valeur réelle cette vie et ses relations, et afin que nous puissions vivre de manière à assurer le plus grand bonheur et le moins de souffrances à nos semblables et à nous-mêmes.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 120\. Q. _Quelle est la lumière qui peut dissiper notre ignorance et supprimer tous les chagrins ?_
 
@@ -114,7 +114,7 @@ A. Oui, mais tous les hommes en souffrent à un degré ou à un autre.
 
 A. Par la conquête complète et la destruction de cette soif ardente de la vie et de ses plaisirs, qui cause la tristesse.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 125\. Q. _Comment pouvons-nous obtenir une telle conquête ?_
 
@@ -134,7 +134,7 @@ A. L’émancipation des misères de l’existence terrestre et des renaissances
 
 129\. Q. _Et lorsque ce salut ou cette émancipation est atteint, qu'atteignons-nous ?_
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 A. Nirvâṇa.
 
@@ -152,7 +152,7 @@ R. Non. Lorsque Kûtadanta demanda au Bouddha « Où est le Nirvâṇa », il r�
 
 133\. Q. _Qu'est-ce qui nous fait renaître ?_
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 A. Le désir égoïste inassouvi (sans., trishna ; en palî, tanha) pour les choses qui relèvent de l'existence personnelle dans le monde matériel. Cette soif inassouvie d'existence physique (bhâva) est une force, dotée d'un pouvoir créateur si puissant qu'elle ramène l'être à la vie mondaine.
 
@@ -172,7 +172,7 @@ A. Il s’agit d’une cause immédiate ou lointaine.
 
 A. Appliqué aux individus, il s'agit du karma, c'est-à-dire de l'action. Cela signifie que nos propres actions nous apportent joie ou malheur.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 138\. Q. _Un homme mauvais peut-il échapper aux conséquences de son karma ?_
 
@@ -204,7 +204,7 @@ A. Le bouddhisme enseigne qu'il existe des _Sakwalas_ ou systèmes de mondes ent
 
 145\. Q. Le Bouddha n’a-t-il pas résumé toute sa doctrine en un seul _gâthâ_, ou verset ?
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 146\. A. Oui.
 
@@ -228,7 +228,7 @@ R. Oui : la première ligne incarne tout l’esprit du Vinâya Pitaka, la deuxi�
 
 14S. Q. _Ces préceptes montrent-ils que le bouddhisme est une religion active ou passive ?_
 
-A. « Cesser de pécher » peut être qualifié de passif, mais « acquérir la vertu » et « purifier son cœur ou son esprit » sont des qualités tout à fait actives. Bouddha a enseigné <span id="p38">[<sup><small>p. 38</small></sup>]</span> que nous ne devons pas simplement ne pas être mauvais, mais que nous devons être positivement bons.
+A. « Cesser de pécher » peut être qualifié de passif, mais « acquérir la vertu » et « purifier son cœur ou son esprit » sont des qualités tout à fait actives. Bouddha a enseigné <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> que nous ne devons pas simplement ne pas être mauvais, mais que nous devons être positivement bons.
 
 149\. Q. _Qui ou que sont les « Trois Guides » [^9] qu'un bouddhiste est censé suivre ?_
 
@@ -236,7 +236,7 @@ A. Ils sont révélés dans la formule appelée le Tisaraṇa : « Je suis le Bo
 
 150\. Q. _Que veut-il dire en répétant cette formule ?_
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 A. Il veut dire qu’il considère le Bouddha comme son Maître, son Ami et son Exemple infiniment sage ; la Loi, ou Doctrine, comme contenant les principes essentiels et immuables de Justice et de Vérité et le chemin qui mène à la réalisation de la paix parfaite de l’esprit sur terre ; et l’Ordre comme les enseignants et les exemples de cette excellente Loi enseignée par Bouddha.
 
@@ -250,7 +250,7 @@ A. Certainement pas.
 
 153\. Q. _Quelles sont les cinq observances, ou universelles_ 
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 _des préceptes, appelés Pancha Sila, qui sont imposés aux laïcs en général ?_
 
@@ -268,7 +268,7 @@ J'observe le précepte de m'abstenir de consommer des substances intoxicantes.
 
 154\. Q. _Qu'est-ce qui frappe l'homme intelligent en lisant ces Silas ?_
 
-A. Que celui qui les observe strictement doit échapper à toute cause productrice de misère humaine. <span id="p41">[<sup><small>p. 41</small></sup>]</span> Si nous étudions l'histoire, nous découvrirons qu'elle est entièrement issue de l'une ou l'autre de ces causes.
+A. Que celui qui les observe strictement doit échapper à toute cause productrice de misère humaine. <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> Si nous étudions l'histoire, nous découvrirons qu'elle est entièrement issue de l'une ou l'autre de ces causes.
 
 155\. Q. _Dans quel Silas la sagesse clairvoyante du Bouddha est-elle le plus clairement démontrée ?_
 
@@ -280,7 +280,7 @@ A. On dit qu'il acquiert plus ou moins de mérite selon la manière, le temps et
 
 157\. Q. _Quelles sont les autres observances qu'il est considéré comme méritoire pour les laïcs en tant que tels de s'engager volontairement à observer ?_
 
-A. L'Atthanga Silo, ou le précepte octuple, qui comprend les cinq préceptes énumérés ci-dessus (en omettant <span id="p42">[<sup><small>p. 42</small></sup>]</span> le mot « illégal » dans le troisième), avec trois autres ; à savoir :
+A. L'Atthanga Silo, ou le précepte octuple, qui comprend les cinq préceptes énumérés ci-dessus (en omettant <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> le mot « illégal » dans le troisième), avec trois autres ; à savoir :
 
 J'observe le précepte de m'abstenir de manger à une heure indue.
 
@@ -308,7 +308,7 @@ A. Les trois recueils de livres appelés Tripitakas ou « Trois paniers ».
 
 162\. Q. _Quels sont les noms des trois Pitakas, ou groupes de livres ?_
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 A. Le _Vinâya Pitaka_, le _Sutta Pitaka_ et l'_Abhidhamma Pitaka_.
 
@@ -328,7 +328,7 @@ A. Le Dr Rhys-Davids les estime à 1 752 800.
 
 A. En 88–76 av. J.-C., sous le roi cinghalais Wattagamini ; ou 330 ans après le Parinirvâṇa du Bouddha.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 167\. Q. _Avons-nous des raisons de croire que tous les discours du Bouddha nous sont connus ?_
 
@@ -354,7 +354,7 @@ A. Parce qu'il enseigne que chaque homme reçoit, sous l'effet du KARMA infailli
 
 A. Une causalité agissant sur les plans moral, physique et autres. Les bouddhistes affirment qu'il n'y a pas de miracle dans les affaires humaines : ce qu'un homme sème doit et récoltera.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 173\. Q. _Quels autres bons mots ont été utilisés pour exprimer l'essence du bouddhisme ?_
 
@@ -374,7 +374,7 @@ A. Quarante-neuf jours.
 
 177\. Q. _Comment appelle-t-on le premier discours prêché par le Bouddha, celui qu'il adressa à ses cinq anciens compagnons ?_
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 A. Le _Dhammacakka-ppavattana sutta_, — le Sûtra de la définition de la règle de la doctrine. [^12]
 
@@ -388,7 +388,7 @@ R. Il ne l'a pas fait ; il s'y est opposé. Le culte des dieux, des démons, des
 
 160\. Q. _Mais les bouddhistes ne font-ils pas de révérence_ 
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 _devant la statue du Bouddha, ses reliques et les monuments qui les abritent ?_
 
@@ -404,7 +404,7 @@ A. Les bouddhistes vénèrent la statue du Bouddha et les autres objets que vous
 
 183\. _Q. Le Bouddha lui-même nous a-t-il donné quelque chose de précis sur ce sujet ?_
 
-A. Certainement. Dans le _Mahâ Pari-Nirvâṇa Sutta_ <span id="p50">[<sup><small>p. 50</small></sup>]</span>, il dit que l'émancipation ne peut être atteinte qu'en menant la vie sainte, selon le Noble Octuple Sentier, et non par un culte extérieur (_âmisa pûja_), ni par l'adoration de soi-même, ou d'un autre, ou d'une image quelconque.
+A. Certainement. Dans le _Mahâ Pari-Nirvâṇa Sutta_ <span id="p50"><sup><small>[ p. 50 ]</small></sup></span>, il dit que l'émancipation ne peut être atteinte qu'en menant la vie sainte, selon le Noble Octuple Sentier, et non par un culte extérieur (_âmisa pûja_), ni par l'adoration de soi-même, ou d'un autre, ou d'une image quelconque.
 
 184\. Q. _Quelle était l'estimation du Bouddha du cérémonialisme ?_
 
@@ -424,7 +424,7 @@ A. Entre autres, ceux-ci : Il enseigne la bonté suprême sans un Dieu créateur
 
 188\. Q. _Spécifiez les deux principales divisions de la « méditation », c'est-à-dire du processus par lequel on éteint la passion et atteint la connaissance_.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 A. _Samatha_ et _Vidarsama_ : (1) l'atténuation de la passion en menant une vie sainte et en faisant un effort continu pour maîtriser les sens ; (2) l'atteinte de la sagesse supranormale par la réflexion : chacun d'eux embrasse vingt aspects, mais je n'ai pas besoin de les spécifier ici.
 
@@ -450,7 +450,7 @@ A. Dans le _Sanyutta Nikâya_.
 
 194\. Q. _Y a-t-il des dogmes dans le bouddhisme que nous sommes tenus d'accepter par la foi ?_
 
-A. Non : il nous est vivement recommandé de n’accepter <span id="p54">[<sup><small>p. 54</small></sup>]</span> rien par la foi, que ce soit écrit dans des livres, transmis par nos ancêtres ou enseigné par les sages.
+A. Non : il nous est vivement recommandé de n’accepter <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> rien par la foi, que ce soit écrit dans des livres, transmis par nos ancêtres ou enseigné par les sages.
 
 195\. Q. _A-t-il lui-même réellement enseigné cette noble règle ?_
 
@@ -458,7 +458,7 @@ A. Oui. Le Bouddha a dit que nous ne devons pas croire à une chose dite simplem
 
 196\. Q. _Quand devons-nous donc croire ?_
 
-A. Nous devons croire lorsque l'écrit, la doctrine ou la parole est corroboré par notre raison et notre conscience. « C'est pourquoi », conclut-il, « je vous ai enseigné à ne pas croire simplement parce que vous avez entendu, mais lorsque vous avez cru en votre propre conscience, à agir en conséquence et abondamment. » (Voir le _Kâlâma Sutta_ de l'_Anguttara Nikâya_ et le _Mahâ Pari Nirvâṇa Sutta_.) <span id="p55">[<sup><small>p. 55</small></sup>]</span> 197\. Q. _Comment le Bouddha se nomme-t-il ?_
+A. Nous devons croire lorsque l'écrit, la doctrine ou la parole est corroboré par notre raison et notre conscience. « C'est pourquoi », conclut-il, « je vous ai enseigné à ne pas croire simplement parce que vous avez entendu, mais lorsque vous avez cru en votre propre conscience, à agir en conséquence et abondamment. » (Voir le _Kâlâma Sutta_ de l'_Anguttara Nikâya_ et le _Mahâ Pari Nirvâṇa Sutta_.) <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> 197\. Q. _Comment le Bouddha se nomme-t-il ?_
 
 A. Il dit que lui et les autres Bouddhas ne sont que des « prêcheurs » de vérité qui indiquent la voie : nous devons nous-mêmes faire l’effort.
 
@@ -474,7 +474,7 @@ A. Le _Dhammapada_ dit : « Comme une belle fleur pleine de couleurs et sans par
 
 A. Dans le Dhammapada, le Bouddha dit : « Si un homme me fait du mal par folie, je lui rendrai la protection de mon amour sans rancune ; plus il fera de mal, plus je ferai de bien. » C'est la voie suivie par l'Arhat. [^14] Rendre le mal pour le mal est formellement interdit dans le bouddhisme.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 201\. Q. _Est-ce que cela encourage cruellement ?_
 
@@ -482,7 +482,7 @@ A. Non, absolument pas. Dans les Cinq Préceptes et dans nombre de ses discours,
 
 202\. Q. _Dans quel discours cela est-il énoncé ?_
 
-A. Le _Dhammika Sutta_ dit : « Qu'il (le chef de famille) ne détruise ni ne fasse détruire aucune vie, ni ne sanctionne les actes de ceux qui le font. <span id="p57">[<sup><small>p. 57</small></sup>]</span>[^15] etc.
+A. Le _Dhammika Sutta_ dit : « Qu'il (le chef de famille) ne détruise ni ne fasse détruire aucune vie, ni ne sanctionne les actes de ceux qui le font. <span id="p57"><sup><small>[ p. 57 ]</small></sup></span>[^15] etc.
 
 203\. Q. _Approuve-t-il l'ivresse ?_
 
@@ -500,7 +500,7 @@ A. La chasteté absolue, condition du plein développement spirituel, est hautem
 
 R. L'_Anguttara Nikâya_, chap. IV, 55.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 207\. Q. _Qu'enseigne-t-il sur le devoir des parents envers leurs enfants ?_
 
@@ -524,7 +524,7 @@ A. Lui témoigner de l’affection ; bien organiser sa maison ; être hospitali�
 
 212\. Q. _Où sont enseignés ces préceptes ?_
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 R. Dans le _Sigâlovâda Sutta_.
 
@@ -546,7 +546,7 @@ A. Que c’est une souillure pire que toutes les souillures qu’un homme peut s
 
 217\. Q. _Que dit-il sur le manque de charité envers les autres ?_
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 A. Que la faute des autres est facile à percevoir, mais celle de soi-même difficile à percevoir ; un homme vanne les fautes de son prochain comme de la paille, mais il cache sa propre faute, comme un tricheur cache le mauvais dé au joueur.
 
@@ -564,7 +564,7 @@ A. Les tueurs de père, de mère et de saints Arhats ; les bhikkhus qui sèment 
 
 221\. Q. _Le bouddhisme spécifie-t-il des lieux ou des conditions de tourment dans lesquels le karma d'un homme mauvais l'entraîne en quittant cette vie ?_
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 R. Oui. Ce sont : Sanjîva ; Kalasûtra; Sanghâta ; Raurava; Mahâ-Raurava; Tapa; Pratâpa ; Avichi.
 
@@ -610,7 +610,7 @@ A. Exactement.
 
 232\. Q. _Si l'idée d'une âme humaine séparée_ 
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 _doit être rejeté, qu'est-ce qui dans l'homme lui donne l'impression d'avoir une personnalité permanente ?_
 
@@ -618,11 +618,11 @@ A. Tanhâ, ou désir insatisfait d'existence. L'être ayant accompli ce pour quo
 
 233\. Q. _Qu'est-ce qui est né ?_
 
-A. Une nouvelle agrégation de Skandhas, ou personnalité [^18] <span id="p65">[<sup><small>p. 65</small></sup>]</span> causée par la dernière pensée génératrice de la personne mourante.
+A. Une nouvelle agrégation de Skandhas, ou personnalité [^18] <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> causée par la dernière pensée génératrice de la personne mourante.
 
 234\. Q. _Combien y a-t-il de Skandhas ?_
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 A. Cinq.
 
@@ -640,17 +640,17 @@ A. Au Karma mûri de l’individu dans ses vies précédentes.
 
 235\. Q. _Quelle est la force ou l'énergie qui est à l'œuvre, sous la direction du Karma, pour produire le nouvel être ?_
 
-A. Tanhâ — la volonté de vivre. [^19] <span id="p67">[<sup><small>p. 67</small></sup>]</span> 239\. Q. _Sur quoi est fondée la doctrine des renaissances ?_
+A. Tanhâ — la volonté de vivre. [^19] <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> 239\. Q. _Sur quoi est fondée la doctrine des renaissances ?_
 
 A. Selon la perception que la justice parfaite, l'équilibre et l'ajustement sont inhérents au système universel de la Nature. Les bouddhistes ne croient pas qu'une seule vie – même prolongée de cent ou cinq cents ans – soit suffisante pour récompenser ou punir les actes d'un homme. Le grand cycle des renaissances se déroulera plus ou moins rapidement selon la pureté ou l'impureté prépondérante des différentes vies de l'individu.
 
 240\. Q. _Cette nouvelle agrégation de Skandhas – cette nouvelle personnalité – est-elle le même être que celui de la vie précédente, dont le Tanhâ l’a amenée à l’existence ?_
 
-A. Dans un sens, c'est un être nouveau ; dans un autre, ce n'est pas le cas. En pâlî, c'est « nacha so nacha añño », ce qui ne signifie ni le même ni un autre. Durant cette <span id="p68">[<sup><small>p. 68</small></sup>]</span>[^20], et bien que l'homme AB, âgé de quarante ans, soit identique, quant à sa personnalité, au jeune AB, âgé de dix-huit ans, il est pourtant différent, par la dégradation et la réparation continuelles de son corps, et par le changement d'esprit et de caractère. Néanmoins, l'homme, dans sa vieillesse, récolte à juste titre la récompense ou la souffrance résultant de ses pensées et de ses actions à chaque étape antérieure de sa vie. De même, le nouvel être d'une renaissance, étant la même individualité qu'auparavant, avec seulement une forme modifiée, ou une nouvelle agrégation de Skandhas, récolte à juste titre les conséquences de ses actions et de ses pensées dans l'existence précédente.
+A. Dans un sens, c'est un être nouveau ; dans un autre, ce n'est pas le cas. En pâlî, c'est « nacha so nacha añño », ce qui ne signifie ni le même ni un autre. Durant cette <span id="p68"><sup><small>[ p. 68 ]</small></sup></span>[^20], et bien que l'homme AB, âgé de quarante ans, soit identique, quant à sa personnalité, au jeune AB, âgé de dix-huit ans, il est pourtant différent, par la dégradation et la réparation continuelles de son corps, et par le changement d'esprit et de caractère. Néanmoins, l'homme, dans sa vieillesse, récolte à juste titre la récompense ou la souffrance résultant de ses pensées et de ses actions à chaque étape antérieure de sa vie. De même, le nouvel être d'une renaissance, étant la même individualité qu'auparavant, avec seulement une forme modifiée, ou une nouvelle agrégation de Skandhas, récolte à juste titre les conséquences de ses actions et de ses pensées dans l'existence précédente.
 
 241\. Q. _Mais l'homme âgé se souvient des événements de sa jeunesse, malgré ses changements physiques et mentaux. Pourquoi, alors, le souvenir des vies passées ne nous est-il pas transmis de notre dernière naissance à notre naissance actuelle ?_
 
-A. Parce que la mémoire est incluse dans les Skandhas ; et les Skandhas ayant changé avec la nouvelle réincarnation, une nouvelle Mémoire, l'enregistrement de cette existence particulière, se développe. Pourtant, l'enregistrement, le reflet de toutes les vies terrestres passées, doit survivre ; car, <span id="p69">[<sup><small>p. 69</small></sup>]</span> lorsque le prince Siddhârthâ devint Bouddha, il vit la séquence complète de ses vies précédentes. Si leurs divers incidents n'avaient laissé aucune trace, cela n'aurait pas pu être le cas, car il n'aurait rien eu à voir. Et quiconque atteint le quatrième état de Dhyâna (vision psychique) peut ainsi retracer rétrospectivement le fil de ses vies.
+A. Parce que la mémoire est incluse dans les Skandhas ; et les Skandhas ayant changé avec la nouvelle réincarnation, une nouvelle Mémoire, l'enregistrement de cette existence particulière, se développe. Pourtant, l'enregistrement, le reflet de toutes les vies terrestres passées, doit survivre ; car, <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> lorsque le prince Siddhârthâ devint Bouddha, il vit la séquence complète de ses vies précédentes. Si leurs divers incidents n'avaient laissé aucune trace, cela n'aurait pas pu être le cas, car il n'aurait rien eu à voir. Et quiconque atteint le quatrième état de Dhyâna (vision psychique) peut ainsi retracer rétrospectivement le fil de ses vies.
 
 242\. Q, _Quel est le point ultime vers lequel tendent toutes ces séries de changements de forme ?_
 
@@ -678,7 +678,7 @@ A. La cupidité, la malice, la paresse, l’orgueil et le doute.
 
 248\. Q. _Pourquoi voyons-nous cette division minutieuse des sentiments, des impulsions, du fonctionnement de l'esprit, des obstacles et_ 
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 _Les aides à l'avancement sont-elles si souvent utilisées dans les enseignements du Bouddha ? C'est très déroutant pour un débutant._
 
@@ -694,7 +694,7 @@ A. Il connaissait la nature du connaissable et de l'inconnaissable, du possible 
 
 251\. Q. _Comment appelons-nous le principe fondamental sur lequel repose tout l'enseignement du Bouddha ?_
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 A. On l'appelle _Paticca Samuppâdâ_. [^21]
 
@@ -708,7 +708,7 @@ A. Que même lui était aussi impuissant dans ce vaste océan de pensées que qu
 
 254\. Q. _Alors pourquoi le Bouddha dit-il, dans le Parinibbâna Sutta, qu'il « n'a pas le poing fermé d'un maître qui cache quelque chose » ? Si tout son enseignement était accessible à tous, pourquoi un homme aussi grand et érudit que Bouddha Ghosha le déclarerait-il si difficile à comprendre ?_
 
-A. Le Bouddha voulait évidemment dire qu'il enseignait <span id="p73">[<sup><small>p. 73</small></sup>]</span> tout librement ; mais il est tout aussi certain que le véritable fondement du Dharma ne peut être compris que par celui qui a perfectionné ses facultés de compréhension. Il est donc incompréhensible pour les personnes ordinaires, non éveillées.
+A. Le Bouddha voulait évidemment dire qu'il enseignait <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> tout librement ; mais il est tout aussi certain que le véritable fondement du Dharma ne peut être compris que par celui qui a perfectionné ses facultés de compréhension. Il est donc incompréhensible pour les personnes ordinaires, non éveillées.
 
 255\. Q. _Comment l'enseignement du Bouddha soutient-il ce point de vue ?_
 

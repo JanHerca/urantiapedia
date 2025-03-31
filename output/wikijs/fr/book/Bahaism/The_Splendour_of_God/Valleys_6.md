@@ -80,7 +80,7 @@ De même, réfléchissez à la plénitude de la création de l’homme ; tous ce
 
 Il faut alors un effort pour anéantir la condition animale, afin que le sens de l’humain puisse se manifester.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 De même Lokman, qui but à la fontaine de la Sagesse et goûta à la mer de Miséricorde, en démontrant les états de résurrection à son fils Nathan, donna le rêve (ou le sommeil) comme preuve et l'appliqua comme illustration.
 
@@ -100,7 +100,7 @@ Enfin, on n'en finit plus de citer ces grades, et ce serviteur n'a aucun sang-fr
 
 La plume se lamente et l'encre pleure, et le fleuve du cœur roule avec des vagues de sang.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Rien ne nous arrivera, sinon ce que Dieu nous a décrété !
 

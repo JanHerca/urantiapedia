@@ -84,7 +84,7 @@ Puis, comme le faon sauvage, il regarda d'un côté à l'autre.
 Ses tresses noires de jais s'égaraient sur son épaule,
 Comme des dattes en grappes à l’ombre des palmiers.—R. R.
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 v. 33. « Ses cheveux, comme des grappes de dattes groupées sur le palmier » — une comparaison favorite des anciens poètes d'Arabie ; également celle des tresses d'une jolie fille avec les branches de la vigne : voir les vers du Roman d'Antar, [p. 191](./Antar_3#p191) du présent volume.
 

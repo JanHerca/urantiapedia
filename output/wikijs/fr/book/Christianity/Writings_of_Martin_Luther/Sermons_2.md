@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:48:24Z
   </table>
 </figure>
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 > HÉBREUX 9:11-15: Mais Christ est venu comme souverain sacrificateur des biens à venir, par le tabernacle plus grand et plus parfait, qui n'est pas construit de main d'homme, c'est-à-dire, qui n'est pas de cette création, et qui est entré une fois pour toutes dans le lieu très saint, non avec le sang des boucs et des veaux, mais avec son propre sang, ayant obtenu une rédemption éternelle. Car si le sang des taureaux et des boucs, et la cendre d'une vache, répandue sur ceux qui sont impurs, sanctifient et purifient la chair, à combien plus forte raison le sang de Christ, qui, par un Esprit éternel, s'est offert lui-même sans tache à Dieu, purifiera-t-il votre conscience des œuvres mortes, afin que vous serviez le Dieu vivant ! Et c'est pourquoi il est le médiateur de la nouvelle alliance, afin que, par la mort, pour le rachat des transgressions commises sous la première alliance, ceux qui ont été appelés reçoivent l'héritage éternel qui leur a été promis.
 

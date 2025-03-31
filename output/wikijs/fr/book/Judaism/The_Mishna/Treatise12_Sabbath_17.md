@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 ### CHAPITRE XVII.
 
-§ 1. Tous les vases qui peuvent être déplacés le jour du sabbat, leurs portes et leurs couvercles peuvent être déplacés avec eux, même s'ils sont <span id="p61">[<sup><small>p. 61</small></sup>]</span> séparés le jour du sabbat ; car ils ne sont pas comme les portes des maisons, qui ne sont pas préparées à l'origine pour être déplacées.
+§ 1. Tous les vases qui peuvent être déplacés le jour du sabbat, leurs portes et leurs couvercles peuvent être déplacés avec eux, même s'ils sont <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> séparés le jour du sabbat ; car ils ne sont pas comme les portes des maisons, qui ne sont pas préparées à l'origine pour être déplacées.
 
 § 2. Un homme peut prendre \[utiliser\] un marteau pour casser des noix, ou une hachette pour hacher un gâteau aux figues, ou une scie à main pour scier du fromage, ou une pelle pour ramasser des figues sèches, ou un éventail ou une fourchette pour donner à manger à un enfant, un fuseau ou une navette pour ramasser des fruits, ou une aiguille à coudre pour retirer une écharde \[de sa peau\], ou une aiguille à emballer pour ouvrir \[défaire\] la porte.
 

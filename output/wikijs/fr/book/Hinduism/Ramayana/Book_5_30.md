@@ -80,7 +80,7 @@ Marqué du nom du puissant archer. [^838]
 Puis, dans le déluge de feu, tout
 Tes géants autour de leur roi tomberont.
 
-<span id="p408">[<sup><small>p. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 
 
@@ -187,7 +187,7 @@ Qui a frappé le souverain des cieux,
 Et fit les trente Dieux et trois, [^844]
 Vaincu dans une bataille furieuse, fuis.
 
-<span id="p409">[<sup><small>p. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 Ton amant se détourne avec mépris
 Des épouses que la grâce et la jeunesse ornent.
@@ -270,7 +270,7 @@ Et tremblant devant leur présence, il recula
 Comme un faon égaré, quand la nuit est sombre,
 Et des loups affamés aboient autour d'elle.
 
-<span id="p410">[<sup><small>p. 410</small></sup>]</span>
+<span id="p410"><sup><small>[ p. 410 ]</small></sup></span>
 
 Puis elle se glissa vers un arbre ombragé,
 Et elle pensa à son seigneur et pleura.
@@ -388,7 +388,7 @@ Ils semblaient voyager sur le char de Rávan,
 Et avec le princier Lakshman fuis
 Vers les royaumes du nord au-delà de la mer.
 
-<span id="p411">[<sup><small>p. 411</small></sup>]</span>
+<span id="p411"><sup><small>[ p. 411 ]</small></sup></span>
 
 Puis Rávan, rasé et tondu, barbouillé
 Avec de l'huile de la tête aux pieds, apparut.
@@ -476,7 +476,7 @@ du sanskrit ont été utilisés, mais l'emploi
 de diction formelle et élaborée,
 Textes sanskrits de Muir, deuxième partie. p. 166.
 
-<span id="p412">[<sup><small>p. 412</small></sup>]</span>
+<span id="p412"><sup><small>[ p. 412 ]</small></sup></span>
 
 Terrifiée, elle sursaute et pleure ;
 Et toute la bande de démons, alarmée,

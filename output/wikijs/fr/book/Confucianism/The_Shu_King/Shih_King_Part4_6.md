@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T22:26:32Z
 
 <a id="o0"></a>
 
-Le roi Wăn, comme on l'a vu, avait pour capitale la ville de Făng, d'où son fils, le roi Wû, transféra le siège du gouvernement à Hâo. À l'époque du roi <i>Kh</i>ăng, une ville fut construite par le duc <span id="p439">[<sup><small>p. 439</small></sup>]</span> de Kâu, près de l'actuelle Lo-yang, et appelée « capitale orientale ». Les princes des États s'y réunissaient ; mais la cour continua de se réunir à Hâo jusqu'à l'accession au trône du roi Phing en 770 av. J.-C. À partir de cette époque, les rois de <i>K</i>âu tombèrent presque au niveau des princes des États, et les poèmes recueillis sur leur domaine furent classés parmi les « Leçons de mœurs des États », bien que toujours distingués par l'épithète « royale » qui leur était préfixée.
+Le roi Wăn, comme on l'a vu, avait pour capitale la ville de Făng, d'où son fils, le roi Wû, transféra le siège du gouvernement à Hâo. À l'époque du roi <i>Kh</i>ăng, une ville fut construite par le duc <span id="p439"><sup><small>[ p. 439 ]</small></sup></span> de Kâu, près de l'actuelle Lo-yang, et appelée « capitale orientale ». Les princes des États s'y réunissaient ; mais la cour continua de se réunir à Hâo jusqu'à l'accession au trône du roi Phing en 770 av. J.-C. À partir de cette époque, les rois de <i>K</i>âu tombèrent presque au niveau des princes des États, et les poèmes recueillis sur leur domaine furent classés parmi les « Leçons de mœurs des États », bien que toujours distingués par l'épithète « royale » qui leur était préfixée.
 
 <a id="o1"></a>
 
@@ -46,7 +46,7 @@ Il n'y a aucune mention spécifique de l'ancienne capitale de Kâu dans la pièc
 
 Il y avait le millet aux épis tombants ; il y avait le millet sacrificiel qui montait en herbe [^613]. Lentement, j'avançais, le cœur tout agité. Ceux qui me connaissaient disaient que j'avais le cœur triste. Ceux qui ne me connaissaient pas disaient que je cherchais quelque chose. Ô toi, Ciel lointain et azur [^614] ! Par quel homme cela a-t-il été [^615] ?
 
-<span id="p440">[<sup><small>p. 440</small></sup>]</span>
+<span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 
 <a id="o9"></a>
 

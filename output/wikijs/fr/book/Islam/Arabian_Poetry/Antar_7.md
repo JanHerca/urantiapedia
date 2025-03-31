@@ -46,7 +46,7 @@ Le soleil, en se couchant, se tourne vers elle et dit : L'obscurité obscurcit l
 
 Les tamaris se plaignent d'elle au matin et au soir, et disent : Va-t'en, beauté décroissante, toi forme du laurier !
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 Elle se détourne, confuse, et jette son voile, et les roses se dispersent de ses douces joues fraîches.
 
@@ -68,7 +68,7 @@ La fortune, ô fille de Malik, me bénira-t-elle jamais de ton étreinte, qui gu
 
 Si mon œil pouvait voir ses chameaux de bagages et sa famille, je frotterais mes joues sur les sabots de ses chameaux. J'embrasserai la terre où tu es ; peut-être le feu de mon amour et de mon extase s'éteindra-t-il.
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 Est-ce que toi et moi nous rencontrerons comme autrefois sur le mont Saadi ? Ou bien le messager viendra-t-il de toi pour annoncer ta rencontre ? Ou bien racontera-t-il que tu es dans le pays de Nejd ?
 

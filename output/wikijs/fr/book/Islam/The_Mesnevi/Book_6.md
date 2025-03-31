@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 ## VI. La Grande Guerre (Spirituelle).
 
@@ -59,7 +59,7 @@ Alors il cessera de brûler : « Il l’a voulu, et cela est arrivé ! »[^179]
 Nos convoitises charnelles en nous ne sont qu’une partie de l’enfer ;
 <sup id="v10"><small>10</small></sup> Les pièces ont les qualités de leur caractère universel.
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 Seul le pied de Dieu peut éteindre les alarmes de l’enfer.
 Qui d'autre que Dieu suprême peut tendre un tel arc ?
@@ -92,7 +92,7 @@ Quand as-tu dans l'œil de ton esprit une poutre non confessée ?
 Écarte cette poutre, purifie ton œil de toute paille,
 Alors tu pourras espérer voir sa côte.
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 Celui qui purifiera son cœur de toutes les passions,
 <sup id="v25"><small>25</small></sup> Vous y percevrez bientôt une cour et une présence vigoureuses.
@@ -124,7 +124,7 @@ Un ami qui n'est pas constant est mieux sans importance.
 Lorsque l'ambassadeur de Rome eut entendu ces paroles si sages,[^189]
 Sa curiosité avide commença à augmenter.
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 Il rechercha Umer avec un zèle et un enthousiasme redoublés ;
 Mais ce faisant, il perdit son cheval et même son coffre.
@@ -161,7 +161,7 @@ Pourquoi donc ce tremblement ? Il me fait trembler tous les membres.
 C'est une crainte fantomatique ; ce n'est pas une peur mortelle.
 Il ne s’agit certainement pas ici d’une peur de cet homme.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 Celui qui craint Dieu reçoit l’avertissement de l’Éternel;
 Les hommes comme les démons sont saisis de crainte devant sa simple parole.
@@ -195,7 +195,7 @@ Son voile retiré, le marié seul est à son appel.
 Je pense que de nombreux adorateurs gnostiques sont fascinés ;
 Rares sont ceux qui ont accès à la scène de la salle de présence.
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 'Umer raconta toutes les étapes traversées par son âme ;
 Ses fuites, ses combats, ses tribulations, avant qu'il ne soit rendu entier.
@@ -233,7 +233,7 @@ Est saisi par l'obscurité d'une éclipse, comme la nuit.
 Que dit-il, par lequel l'œil grouillant du nuage
 Verse-t-elle ses larmes, comme les gouttes d'une outre non cousue ?
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 Quelle incantation à la terre adresse-t-il,
 Pour le faire produire du bétail, de qui peut-on utiliser les peaux ?
@@ -268,7 +268,7 @@ Comme des gouttes de rosée dans la coquille d'une huître, des perles rares son
 De tels hommes sont par nature tout à fait semblables à la gousse du cerf porte-musc ;
 Il est nourri du sang des artères, il produit du musc, par Dieu.
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 Ne demandez pas comment il se fait que le sang extérieur puisse changer ainsi ;
 <sup id="v100"><small>100</small></sup> Devient du musc lorsqu'il est sécrété dans la gousse.
@@ -301,7 +301,7 @@ Nos actes ne sont que les conséquences des actions de Dieu.
 La lettre ou l'esprit, c'est notre raison qui pèse.
 Mais il ne peut pas toujours comprendre les deux à la fois.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 En examinant l’esprit, nous négligeons la lettre ;
 A un moment donné, en avant, en arrière, on ne peut pas prospecter.
@@ -335,7 +335,7 @@ La différence entre contrainte et élection est à dessiner.
 Tu serres aussi une autre main quand tu es proche.
 Sachez que c'est Dieu qui crée le mouvement en eux deux ;
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Et pourtant, il n'y a aucune ressemblance dans leurs mouvements de réticence.
 Tu regrettes d'avoir serré la main de cet homme tout à l'heure,
@@ -369,7 +369,7 @@ Dans le sommeil, c'est dans la léthargie de Dieu que nous nous enfonçons.
 En pleurant, nous sommes des nuages ​​d’où coule sa miséricorde.
 Dans le rire, nous sommes l’éclair avec lequel brille Son éclair.
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 Dans la colère, nous sommes le reflet de la colère de Dieu.
 En amitié, les miroirs de sa faveur hochent la tête.
@@ -403,7 +403,7 @@ Tu es partial, tu cherches encore une explication ;
 À moins que ton discours ne contienne quelque utilité, ne le dis pas ;
 Et si c'est le cas, abandonne l'objection ; donne ce que tu as.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Les remerciements incombent à la tête de chaque mortel ;
 Les querelles et les regards noirs ne sont sûrement pas le pain de tout le monde.
@@ -441,7 +441,7 @@ Les saints et les prophètes étudient ; ils étaient comme toi.
 Lis-le attentivement ; lis, note, digère ses récits ;
 Ton âme, comme un oiseau en cage, aspirera à briser ses rails.
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 L'oiseau enfermé, emprisonné dans une petite cage,
 Celui qui ne cherche pas à sortir est ignorant et non sage.

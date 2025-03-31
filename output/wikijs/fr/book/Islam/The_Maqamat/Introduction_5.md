@@ -54,7 +54,7 @@ Muṭarrízí, le premier scholiaste, est né en 458 A.H., soit seulement vingt-
 
 Dans le cas du Maqámát de Hamadhání, il n'y avait probablement aucun texte vocalisé en circulation, et il n'y avait certainement pas de commentaire pendant plus de neuf siècles. Sans de tels outils, une œuvre littéraire de ce genre, couvrant un champ aussi vaste et écrite dans un style original et orné, présenterait des difficultés considérables même pour l'érudit expérimenté, tandis que pour l'étudiant en difficulté, elle était vouée à être ce qu'elle est devenue en réalité, pratiquement un livre scellé. Ces circonstances et ces faits expliquent, du moins dans une certaine mesure, la longue négligence de ce classique de la littérature arabe.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Si cette traduction du texte et les efforts pour l'élucider ont pour résultat de faire connaître l'auteur, comme il le mérite certainement, à un cercle plus large de lecteurs, le travail du traducteur n'aura pas été vain.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:44Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 Celui qui sert un dirigeant en harmonie avec le Tao ne soumettra pas l'Empire par la force des armes. Une telle attitude est souvent source de représailles.
 

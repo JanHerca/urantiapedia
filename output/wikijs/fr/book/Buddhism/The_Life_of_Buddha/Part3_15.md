@@ -32,14 +32,14 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 
 Avant de mourir, le Bienheureux décida d'entreprendre un long voyage. Il souhaitait rendre visite à certains de ses disciples et les exhorter à observer scrupuleusement ses enseignements. Avec Ananda pour seul compagnon, il quitta la ville de Rajagriha.
 
 Un jour, alors qu'il se reposait dans le coin d'un champ, il dit à Ananda :
 
-Il viendra un temps où les hommes se demanderont pourquoi je suis entré dans le ventre d'une femme. Ils remettront en question la pureté parfaite de ma naissance et douteront que j'aie jamais eu le pouvoir suprême. Ces hommes aveugles ne comprendront jamais que, pour celui qui consacre sa vie à des œuvres de sainteté, le corps est exempt de l'impureté de la naissance. Celui qui recherche la connaissance suprême doit entrer dans le ventre d'une femme ; il doit, par pitié pour l'humanité, naître dans le monde des hommes. Car s'il était un Dieu, comment pourrait-il mettre en mouvement la roue de la loi ? Imaginez le Bouddha comme un Dieu, Ananda ; les hommes perdraient vite courage. Ils diraient : “Le Bouddha, qui est un Dieu, a le bonheur, la sainteté, la perfection ; mais nous, comment pouvons-nous espérer les atteindre ?” <span id="p274">[<sup><small>p. 274</small></sup>]</span> Et ils seraient plongés dans un profond désespoir. Oh, qu'ils se taisent, ces créatures aveugles ! Qu'ils n'essaient pas de voler la loi, car ils en feraient un mauvais usage. Qu'ils considèrent plutôt la nature du Bouddha comme incompréhensible, ces hommes qui ne pourront jamais mesurer mon éminence !
+Il viendra un temps où les hommes se demanderont pourquoi je suis entré dans le ventre d'une femme. Ils remettront en question la pureté parfaite de ma naissance et douteront que j'aie jamais eu le pouvoir suprême. Ces hommes aveugles ne comprendront jamais que, pour celui qui consacre sa vie à des œuvres de sainteté, le corps est exempt de l'impureté de la naissance. Celui qui recherche la connaissance suprême doit entrer dans le ventre d'une femme ; il doit, par pitié pour l'humanité, naître dans le monde des hommes. Car s'il était un Dieu, comment pourrait-il mettre en mouvement la roue de la loi ? Imaginez le Bouddha comme un Dieu, Ananda ; les hommes perdraient vite courage. Ils diraient : “Le Bouddha, qui est un Dieu, a le bonheur, la sainteté, la perfection ; mais nous, comment pouvons-nous espérer les atteindre ?” <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> Et ils seraient plongés dans un profond désespoir. Oh, qu'ils se taisent, ces créatures aveugles ! Qu'ils n'essaient pas de voler la loi, car ils en feraient un mauvais usage. Qu'ils considèrent plutôt la nature du Bouddha comme incompréhensible, ces hommes qui ne pourront jamais mesurer mon éminence !
 
 Un berger traversait le champ. Il avait la sérénité d'un homme accomplissant tranquillement un travail joyeux.
 
@@ -59,7 +59,7 @@ Un berger traversait le champ. Il avait la sérénité d'un homme accomplissant 
 
 « Les taons ne tourmentent jamais mon troupeau », dit le berger Dhaniya ; « mes vaches errent dans les prairies herbeuses ; elles peuvent supporter la pluie qui arrive ; alors tombe si tu veux, ô pluie du ciel. »
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 « J'ai construit un radeau solide, j'ai mis les voiles vers le nirvana », dit le Maître ; « j'ai traversé le torrent des passions et j'ai atteint les rivages sacrés ; je n'ai plus besoin du radeau ; alors tombe si tu veux, ô pluie du ciel. »
 
@@ -73,7 +73,7 @@ Un berger traversait le champ. Il avait la sérénité d'un homme accomplissant 
 
 « J'ai des vaches, j'ai des veaux, j'ai des génisses », dit le berger Dhaniya, « et j'ai un chien qui est le maître de mon troupeau ; alors tombe si tu veux, ô pluie du soleil.
 
-« Je n’ai ni vaches, ni veaux, ni génisses », <span id="p276">[<sup><small>p. 276</small></sup>]</span> dit le Maître, « et je n’ai pas de chien pour monter la garde ; alors tombe si tu veux, ô pluie du ciel. »
+« Je n’ai ni vaches, ni veaux, ni génisses », <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> dit le Maître, « et je n’ai pas de chien pour monter la garde ; alors tombe si tu veux, ô pluie du ciel. »
 
 « Les pieux sont profondément enfoncés dans le sol, rien ne peut les déplacer », dit le berger Dhaniya ; les cordes sont neuves et faites d'herbes robustes ; les vaches ne les briseront plus désormais ; alors tombe si tu veux, ô pluie du ciel. »
 
@@ -87,7 +87,7 @@ Alors qu'ils s'apprêtaient à entrer dans la maison, la pluie tomba à torrents
 
 En vérité, nous avons acquis de grandes richesses depuis que nous avons vu le Bouddha. Ô Maître, tu es notre refuge, toi qui nous as regardés avec les yeux de la sagesse. Sois notre protecteur, ô Saint ! Nous sommes obéissants, ma femme et moi ; si nous menons une vie de sainteté, nous vaincrons la naissance et la mort, et nous en finirons avec la souffrance.
 
-Alors une voix se fit entendre, et Mara, le Malin, <span id="p277">[<sup><small>p. 277</small></sup>]</span> se tenait devant eux. Personne ne l'avait vu venir.
+Alors une voix se fit entendre, et Mara, le Malin, <span id="p277"><sup><small>[ p. 277 ]</small></sup></span> se tenait devant eux. Personne ne l'avait vu venir.
 
 « Celui qui a des fils est heureux de voir ses fils », dit Mara, le Malin ; « celui qui a des vaches est heureux de voir ses vaches ; heureux est l'homme de bien, et celui qui n'a pas de bien n'a pas de bonheur. »
 

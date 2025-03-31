@@ -57,7 +57,7 @@ _Guru Nanak_
 Nanak, ceux qui sont très intelligents à leurs propres yeux ne pensent pas au gourou,
 Seront laissés comme des sésames faux dans un champ moissonné.
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 Ils seront laissés dans le champ, dit Nanak, sans maître.
 Les misérables pourront même porter des fruits et des fleurs, mais ils seront comme des cendres dans leur corps.
@@ -95,7 +95,7 @@ Ceux qui naissent et meurent sont les plus faux des faux.[^4]
 
 [^4]: _Koch_ est ici utilisé comme corrélatif de _sach_, vrai.
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 _Guru Nanak_[^1]
 
@@ -125,7 +125,7 @@ Là, les faux ne trouvent pas leur place : ils vont en enfer avec le visage noir
 Ceux qui sont imprégnés de ton nom gagnent, mais les trompeurs perdent.
 _Dieu_ a enregistré les noms et a désigné Dharmraj pour enregistrer les actes.
 
-<span id="p221">[<sup><small>p. 221</small></sup>]</span>
+<span id="p221"><sup><small>[ p. 221 ]</small></sup></span>
 
 ## SLOK III
 
@@ -157,7 +157,7 @@ Par ta puissance nous mangeons, buvons et nous habillons ; par ta puissance naî
 Par ta puissance sont les espèces, les genres et les couleurs des créatures ; par ta puissance sont les animaux du monde.[^1]
 Par ta puissance viennent les vertus ; par ta puissance viennent les vices ; par ta puissance, l'honneur et le déshonneur ;[^2]
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 Par ta puissance existent le vent, l'eau et le feu ; par ta puissance existe la terre.
 Tout existe par ta puissance ; tu es le Créateur tout-puissant ; ton nom est le plus saint des saints.
@@ -186,7 +186,7 @@ Dans la peur se trouvent des lutteurs, des hommes très puissants et des héros 
 Dans la peur, des cargaisons d’hommes vont et viennent.
 Dieu a destiné la peur à chacun ;[^3] Nanak, l'Informe, le Vrai, est seul sans peur.
 
-<span id="p223">[<sup><small>p. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 _Guru Nanak_
 
@@ -223,7 +223,7 @@ Que le vent, l’eau et le feu soient vos joyaux, et la lune et le soleil vos av
 
 [^5]: Les _Gopâls_ sont des bergers parmi lesquels Krishan avait l'habitude de se divertir.
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 La terre entière, vos propriétés et vaisseaux de _scène_, qui sont tous des enchevêtrements.
 Nanak, ceux qui sont dépourvus de la connaissance divine sont volés ; le ministre de la mort les a dévorés.
@@ -254,7 +254,7 @@ _De la même manière_ ceux qui sont liés dans des enchevêtrements sont balanc
 Chacun danse selon ses propres actes.
 Ceux qui dansent et rient pleureront à leur départ ;
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 Ils ne peuvent pas voler ni obtenir de pouvoirs surnaturels.
 Sauter et danser sont des loisirs humains,
@@ -280,7 +280,7 @@ Dans l’esprit des généreux, le contentement naît de leur désir de donner.
 D'autres donnent, mais demandent mille fois plus, et pourtant le monde entier les honore.
 _Pourquoi mentionner_ les voleurs, les adultères, les parjures, les hommes méchants et pécheurs ?
 
-<span id="p226">[<sup><small>p. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 Beaucoup partent d'ici après avoir mangé ce qu'ils avaient amassé _dans des vies précédentes_;[^1] auront-ils quelque chose à faire _dans l'autre monde_ ?[^2]
 Les _animaux_ qui vivent dans l'eau, sur la terre ferme, dans les quatorze mondes et dans toute la création —
@@ -309,7 +309,7 @@ Il a trouvé le Donneur de vie au monde.
 
 [^2]: Ce verset est également traduit par : Beaucoup partent d'ici après avoir dépensé ce qu'ils possédaient ; avaient-ils d'autres affaires _dans ce monde_ ?
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 ## SLOK VII
 
@@ -344,7 +344,7 @@ Dit Nanak, écoutez, ô vous les hommes, de cette façon les ennuis disparaîtro
 
 
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 ## PAURI VII
 
@@ -371,7 +371,7 @@ _Guru Nanak_
 L’homme peut accomplir des centaines de milliers de bonnes actions et de bonnes actions, des centaines de milliers d’œuvres caritatives approuvées,
 Des centaines de milliers de pénitences dans des lieux sacrés, sahaj jog[^2] dans le désert,
 
-<span id="p229">[<sup><small>p. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 Des centaines de milliers de actes de bravoure, et une partie de sa vie dans le conflit de la bataille ;
 Il peut étudier des centaines de milliers de Védas et d’ouvrages de connaissance divine et de méditation, et lire les Purans.
@@ -402,7 +402,7 @@ Plus on lit et plus on écrit, plus on est tourmenté ;
 Plus on erre en pèlerinage, plus on babille ;
 Plus un homme porte de vêtements religieux, plus il cause d’inconfort à son corps.
 
-<span id="p230">[<sup><small>p. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 Supporte, ô mon âme, le résultat de tes propres actes.
 Celui qui ne mange pas de blé[^1] a perdu le goût de la vie.
@@ -427,7 +427,7 @@ Je prie seulement ceux qui méditent sur Toi.[^3]
 
 
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 ## SLOK X
 
@@ -455,7 +455,7 @@ L’homme sera reconnu comme vrai lorsqu’il recevra une véritable instruction
 Que l’homme fasse preuve de miséricorde envers les êtres vivants et accomplisse quelques œuvres de charité.
 L'homme sera reconnu comme véritable, lorsqu'il demeurera dans le pèlerinage de son cœur :
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 Que l'homme, après avoir consulté le véritable gourou, se repose et demeure dans son propre cœur ;
 La vérité est le remède pour tous ; elle élimine et lave le péché.
@@ -486,7 +486,7 @@ L'avidité et le péché sont les maîtres et les comptables du village ; le men
 La luxure, son ministre, convoque et examine les hommes, et siège sur eux pour les juger.
 Les sujets sont aveugles et sans connaissance divine, et satisfont la cupidité du juge avec des pots-de-vin.
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Les prêtres dansent, jouent des instruments de musique, se déguisent et se décorent ;
 Ils crient à haute voix, chantent les batailles et les louanges des héros.
@@ -518,7 +518,7 @@ _Guru Nanak_
 La douleur est un médicament, le plaisir _mondain_ une maladie ; là où il y a un tel plaisir, il n'y a pas de désir _de Dieu_.
 Tu es l'Acteur, je ne fais rien ; si j'essaie de faire quelque chose, cela n'aboutit à rien.
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 Je suis un sacrifice pour toi ; tu demeures dans ta toute-puissance.
 Ta fin ne peut être vue.
@@ -545,7 +545,7 @@ _Guru Nanak_
 L'eau reste confinée dans un récipient, mais elle ne peut pas rester sans récipient.
 L'esprit contrôlé par la connaissance divine est restreint ; _mais_ sans gourou il ne peut y avoir de connaissance divine.
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 ## PAURI XII
 
@@ -571,7 +571,7 @@ Le Sam _Ved_ dit que le Seigneur est vêtu de blanc,[^3] que les hommes désirai
 Le Rig dit que le nom de Dieu est partout contenu, qu'il est comme le soleil dans le ciel ;
 Qu'en le répétant, les péchés s'en vont,
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 Et alors, Nanak, l’homme obtient le salut.
 Le Yajur déclare que Kan Krishan, qui était un Yadav, a séduit Chandrawal ;
@@ -600,7 +600,7 @@ mais ses qualités et ses vertus sont exquises.
 Chacun se prosterne devant lui-même, et personne ne se prosterne devant un autre.
 Si l'on met quelque chose dans une balance et qu'on le pèse, le côté qui descend est le plus lourd.[^1]
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 L'homme méchant, comme un chasseur de cerfs, s'incline deux fois plus que n'importe qui d'autre ;
 Mais à quoi sert de baisser la tête, si le cœur est impur ?
@@ -629,7 +629,7 @@ Et il regrettera les péchés qu’il a commis.
 
 Le slok suivant, adressé par Guru Nanak au pandit Hardial, son prêtre de famille, lorsqu'il est venu l'investir d'un janeu, le fil sacrificiel des classes supérieures des hindous, a déjà été donné :
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 ## SLOK XV
 
@@ -661,7 +661,7 @@ Il n’y a pas de corde pour les organes sexuels, il n’y a pas de corde pour l
 _Il n'y a pas de lien pour les actes impurs qui font que vos barbes sont quotidiennement crachées dessus.
 Il n'y a pas de corde pour les pieds, il n'y a pas de corde pour les mains,
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 Il n’y a pas de fil pour la langue, il n’y a pas de fil pour les yeux.
 Sans de telles cordes, le Brahman s'égare,
@@ -686,7 +686,7 @@ Et il sera revêtu d'une robe d'honneur dans la cour de Dieu.
 Tu prélèves un tribut pour une vache et un brahmane, la bouse de vache ne te sauvera pas.
 Tu portes un dhoti[^2] et une marque frontale, et tu portes un chapelet, et pourtant tu manges le pain de malechhas.
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 Tu pratiques le culte hindou à la maison, tu lis le Coran en public et tu fréquentes les musulmans,[^1] ô mon frère.
 Laissez de côté l’hypocrisie, répétez le nom de Dieu et vous serez sauvé.
@@ -712,7 +712,7 @@ En disant : « Ne touchez pas ! Oh, ne touchez pas !
 « Ou bien cette nourriture qui est la nôtre sera souillée. »
 Mais leurs corps sont souillés, leurs actes sont souillés,
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 Leurs cœurs sont menteurs lorsqu'ils font leurs ablutions après leurs repas.
 Dit Nanak, méditez sur le Vrai ;
@@ -741,7 +741,7 @@ Comme une femme a ses désirs réciproques, ainsi le mensonge demeure dans la bo
 Il ne faut pas appeler pur celui qui s’assoit et lave son corps ;
 _Mais c'est_ lui qui est pur, Nanak, dans le cœur duquel Dieu habite.
 
-<span id="p242">[<sup><small>p. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 ## PAURI XVII
 
@@ -768,7 +768,7 @@ L'impureté du cœur, c'est la cupidité, l'impureté de la langue, c'est le men
 L'impureté des yeux consiste à regarder la richesse d'autrui, sa femme et sa beauté ;
 L’impureté des oreilles, c’est écouter la calomnie.
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 Nanak, même le prétendu saint qui pratique de telles choses, ira enchaîné en enfer.
 Toute impureté consiste en la superstition et l’attachement aux choses du monde.
@@ -797,7 +797,7 @@ Lorsque la nourriture pénètre dans un corps pécheur, elle devient impure comm
 La bouche qui ne prononce pas le Nom, et qui mange même des mets délicats sans le Nom,
 Considère-le, ô Nanak, comme si on te crachait dessus.
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 Voici la remontrance de Guru Nanak à un homme qui insultait le sexe féminin :
 
@@ -827,7 +827,7 @@ Il est très mauvais, et sa réputation est très mauvaise.
 Le méchant est rejeté par le tribunal de Dieu ; on lui crache au visage.
 Le méchant est un fou, et reçoit des coups de chaussures en guise de punition.
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 _Guru Nanak_
 
@@ -849,7 +849,7 @@ Tout ce qui est venu s'en ira ; son tour viendra à chacun.
 Pourquoi oublier ce Seigneur qui possède la vie et l'âme
 Organise tes affaires de tes propres mains.
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 ## SLOK XXI
 
@@ -882,7 +882,7 @@ Et s'il parle trop, il ne plaît pas à son maître.
 S'il s'efface et rend service, il obtiendra quelque honneur.
 Nanak, celui qui aspire à Dieu le rencontrera, et son désir sera acceptable.
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 _Guru Angad_
 
@@ -916,7 +916,7 @@ Perdre son gros salaire et recevoir des coups de pied sur la bouche.
 Remercie-le des dons desquels tu vis
 Nanak, les ordres ne réussiront pas avec Lui ; le Maître doit être imploré,
 
-<span id="p248">[<sup><small>p. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 ## SLOK XXIII
 
@@ -947,7 +947,7 @@ Dans certains on trouve du lait[^3], d'autres sont mis sur le feu.
 Certains dorment sur des matelas, d'autres restent debout et veillent sur eux.
 Nanak, Dieu régénère ceux sur qui Il porte un regard favorable.
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 _Guru Angad_
 
@@ -963,7 +963,7 @@ L’homme doit accomplir l’œuvre que Dieu lui a destinée depuis le commencem
 Nanak, sauf dans le seul Dieu, il n'y a pas de lieu de résidence.
 Il fait ce qu’il veut.
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

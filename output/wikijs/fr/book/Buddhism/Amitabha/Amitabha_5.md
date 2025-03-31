@@ -32,19 +32,19 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 [11](/fr/book/Buddhism/Amitabha/Amitabha_16#an_11)
 
 Le jeune novice passait ses journées à étudier et ses nuits à douter. Il suivait avec intérêt les récitations de son instructeur sur la philosophie de l'Eveillé ; il appréciait les récits de la naissance du Bodhisattva et les paraboles du maître avec leurs applications morales, mais quand il se retirait le soir ou était laissé à ses propres pensées, il commençait à réfléchir sur l'inutilité de la vie d'ermite et désirait ardemment retourner dans le monde avec ses tentations et ses luttes, ses victoires et ses défaites, ses plaisirs et ses douleurs, ses espoirs et ses craintes. Il appréciait la solitude de la forêt, mais il commençait à penser que l'agitation du monde pouvait lui offrir plus de paix de l'esprit que l'inactivité d'une vie monacale.
 
-Lorsque Charaka se fut familiarisé avec tous les Sutras et les sages paroles qui étaient connus des frères du monastère, <span id="p33">[<sup><small>p. 33</small></sup>]</span> le temps commença à lui peser lourd, et il sentit que les discours religieux devenaient ennuyeux.
+Lorsque Charaka se fut familiarisé avec tous les Sutras et les sages paroles qui étaient connus des frères du monastère, <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> le temps commença à lui peser lourd, et il sentit que les discours religieux devenaient ennuyeux.
 
 Les semaines passèrent, et Charaka désespérait de s'habituer à la vie monacale, et de comprendre le sens profond de leur renoncement au monde, et sa conscience commença à le troubler ; car plus les frères aînés le respectaient pour son savoir et sa douceur, et plus ils le louaient, moins il se croyait digne de leur reconnaissance.
 
 Le jour de la confession approchait à nouveau. Il avait passé des heures à jeûner et à se discipliner, mais tout cela n’avait servi à rien. Il était fatigué et ressentait une tristesse indescriptible.
 
-Le soir, tous les frères étaient réunis dans la chaitya, la grande salle où ils tenaient leurs réunions de dévotion. Les bas-côtés étaient plongés dans une obscurité mystique, et les images sur les lourdes colonnes et au plafond étaient à moitié cachées. Elles apparaissaient et disparaissaient de temps à autre dans la lueur des torches qui servaient à éclairer la pièce. <span id="p34">[<sup><small>p. 34</small></sup>]</span> Les moines étaient assis dans une attente silencieuse, leurs visages affichant une quiétude et un calme qui prouvaient qu'ils ne se souciaient pas de leur propre sort, prêts à vivre ou à mourir, selon leur destin, et qu'ils n'avaient qu'un seul objectif : atteindre le Nirvâna.
+Le soir, tous les frères étaient réunis dans la chaitya, la grande salle où ils tenaient leurs réunions de dévotion. Les bas-côtés étaient plongés dans une obscurité mystique, et les images sur les lourdes colonnes et au plafond étaient à moitié cachées. Elles apparaissaient et disparaissaient de temps à autre dans la lueur des torches qui servaient à éclairer la pièce. <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> Les moines étaient assis dans une attente silencieuse, leurs visages affichant une quiétude et un calme qui prouvaient qu'ils ne se souciaient pas de leur propre sort, prêts à vivre ou à mourir, selon leur destin, et qu'ils n'avaient qu'un seul objectif : atteindre le Nirvâna.
 
 Le moine le plus âgé se leva et s’adressa à l’assemblée. « Révérends messieurs, dit-il, que l’ordre m’écoute. Aujourd’hui c’est la pleine lune et le jour de la libération de nos cœurs. Si l’ordre est prêt, qu’il consacre ce jour à la récitation de la confession. C’est notre premier devoir, et écoutons donc la déclaration de pureté. »
 
@@ -60,13 +60,13 @@ La silhouette sombre restait toujours immobile, ce qui semblait accroître l'obs
 
 Le sombre personnage leva alors la tête et, avec une émotion contenue, commença à parler. « Vénérable père », dit-il, « et vous, révérends messieurs, puis-je parler et décharger mon cœur ? » La voix était celle du novice, et une légère commotion parcourut l’assemblée. Ayant été encouragé à parler librement et sans réserve, Charaka commença :
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 « Vénérable père, et vous, messieurs les révérends, je me sens coupable d’avoir enfreint l’une des grandes interdictions. Je suis comme un palmier dont la cime a été détruite. Mon esprit est brisé et plein de contrition. Je désire ardemment devenir disciple du Shakya-Muni, mais je ne suis pas digne d’être moine, je ne l’ai jamais été et je ne le serai jamais. » Ici sa voix faiblit et il sanglota comme un enfant.
 
 Les frères furent saisis d’horreur. Ils pensèrent aussitôt que le jeune homme était contaminé par quelque crime secret. Il était trop jeune pour être libre de passions, trop beau pour être à l’abri de la tentation, trop vif d’esprit pour ne pas être ambitieux. Il est vrai qu’ils l’aimaient, mais ils sentaient maintenant que leur affection pour lui était un danger, et il n’y avait personne dans l’assemblée qui ne sentît que l’accusation du jeune homme était en partie dirigée contre lui-même. Mais l’abbé surmonta ce sentiment qui surgit si vite et encouragea le frère pénitent à faire une confession complète. « Ne désespère pas, dit-il, tu es jeune ; il est naturel que ton cœur nourrisse encore des rêves d’amour et que des souvenirs séduisants hantent encore ton esprit. »
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 « Je suis entré dans la confrérie avec de faux espoirs et de mauvaises aspirations, répondit le novice. J’aspire à la sagesse et aux pouvoirs surnaturels, j’ai l’ambition d’agir et d’oser, et j’espère acquérir une connaissance plus profonde par l’autodiscipline et la sainteté. Je suis exempt de toute transgression réelle, mais ma sainteté est une moquerie ; ma piété n’est pas authentique ; je suis un hypocrite et je trouve que je vous trahis, vénérable père, ainsi que tous les moines de cette vénérable communauté. Mais ce qui m’attriste le plus, c’est de me trahir moi-même ; je ne suis pas digne de porter la robe jaune. »
 

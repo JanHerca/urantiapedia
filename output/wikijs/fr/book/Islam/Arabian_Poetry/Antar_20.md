@@ -52,7 +52,7 @@ Un chevalier en qui je me réfugiais quand mes efforts échouaient, à mes soul�
 
 Mon frère l'a exposé à une mer de mort dans sa malice, et les cœurs des envieux exultent !
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Il a planifié son meurtre, et il m'a abandonné : mon honneur et mes engagements ne seront plus respectés !
 
@@ -74,7 +74,7 @@ Ils doivent toujours pleurer en larmes pour celui qui était l'illustre chevalie
 
 Que Dieu détruise Malik, fils de Carad, et lui fasse souffrir ce qu'a enduré la tribu de Themood !
 
-Au total, le malheureux Malik trouva les choses très désagréables, pour le moins, et il n'avait d'autre choix que d'émigrer avec sa famille, - en attendant, il se cachait, de peur qu'Amarah, à qui il avait aussi fiancé Abla, ne soupçonne son dessein et n'empêche son départ. Mais bientôt Amarah, maintenant que son redoutable rival était mort, résolut de ne pas perdre de temps pour réclamer sa fiancée ; et, accompagné d'Oorwah, le fils de <span id="p238">[<sup><small>p. 238</small></sup>]</span> Wird, et de dix autres cavaliers, il partit pour le pays du Yémen, pour se procurer la dot (par le pillage, bien sûr) ; et Malik résolut de profiter de son absence et de partir avec sa famille. Mais lorsqu'il informa Abla de la façon dont il l'avait promise en mariage à Vachid, elle protesta qu'elle ne deviendrait jamais la fiancée d'Amarah ou de Vachid, puisque son cœur était enterré dans la tombe d'Antar, s'écriant :
+Au total, le malheureux Malik trouva les choses très désagréables, pour le moins, et il n'avait d'autre choix que d'émigrer avec sa famille, - en attendant, il se cachait, de peur qu'Amarah, à qui il avait aussi fiancé Abla, ne soupçonne son dessein et n'empêche son départ. Mais bientôt Amarah, maintenant que son redoutable rival était mort, résolut de ne pas perdre de temps pour réclamer sa fiancée ; et, accompagné d'Oorwah, le fils de <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> Wird, et de dix autres cavaliers, il partit pour le pays du Yémen, pour se procurer la dot (par le pillage, bien sûr) ; et Malik résolut de profiter de son absence et de partir avec sa famille. Mais lorsqu'il informa Abla de la façon dont il l'avait promise en mariage à Vachid, elle protesta qu'elle ne deviendrait jamais la fiancée d'Amarah ou de Vachid, puisque son cœur était enterré dans la tombe d'Antar, s'écriant :
 
 Ô cœur, sois patient sous les angoisses que j'endure ! — Mais comment mes larmes pourraient-elles cesser de couler ? — Aucun baume n'est là pour les apaiser !
 

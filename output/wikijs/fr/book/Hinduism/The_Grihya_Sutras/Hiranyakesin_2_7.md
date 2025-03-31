@@ -38,7 +38,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. [^700] Le jour de la pleine lune de Mârga<i>ri</i>îrsha, il met du bois sur le feu, étend (de l'herbe Darbha) sur toute la surface autour du feu, fait cuire un plat de nourriture sacrificielle avec du lait, l'asperge (d'Â<i>ri</i>ya), le retire du feu, accomplit les rites jusqu'aux oblations de Vyâh<i>ri</i>ti, et sacrifie (quatre oblations) avec (les Mantras suivants) :
 
-« Cette offrande, le reptile d'I<i>d</i>â, riche en ghee, mouvant et immobile, accepte-la avec joie, ô <i>G</i>âtavedas. <span id="p240">[<sup><small>p. 240</small></sup>]</span> Quels animaux domestiques il y a, de toutes formes, des sept sortes : puissent-ils habiter ici avec joie et puissent-ils prospérer. Svâhâ !
+« Cette offrande, le reptile d'I<i>d</i>â, riche en ghee, mouvant et immobile, accepte-la avec joie, ô <i>G</i>âtavedas. <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> Quels animaux domestiques il y a, de toutes formes, des sept sortes : puissent-ils habiter ici avec joie et puissent-ils prospérer. Svâhâ !
 
 « La nuit que les hommes accueillent comme une vache qui vient à eux, (la nuit) qui est la compagne de l'année, puisse-t-elle (la nuit) nous être propice. Svâhâ !
 
@@ -52,7 +52,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 « Que les trois fois onze dieux, les trente-trois, les gracieux, dont le Purohita est Birihaspati, sur l'impulsion du dieu Savitri, que les dieux avec (tous) les dieux me donnent la félicité ! »
 
-5\. Le maître de maison s'assoit à leur extrémité sud, <span id="p241">[<sup><small>p. 241</small></sup>]</span>
+5\. Le maître de maison s'assoit à leur extrémité sud, <span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 6\. Les autres personnes au nord,
 

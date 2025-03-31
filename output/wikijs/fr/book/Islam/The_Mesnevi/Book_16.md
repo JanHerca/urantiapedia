@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 ## XVI. La patience d'Alī.
 
@@ -61,7 +61,7 @@ Qu'as-tu vu, que, par réflexion, tu as jeté sur moi,
 Quelle était ta vision, bien au-dessus du monde des faits,
 Que la vie soit bien plus douce, d'où ma vie reçoit-elle un nouveau pacte ?
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 Pour ta bravoure, tu es justement nommé « Lion de Dieu ».
 Pour ta gentillesse, je sais maintenant que tu es trop peu connu.
@@ -97,7 +97,7 @@ Croyez que votre nez est en défaut ; ne grondez pas le doux chèvrefeuille.
 Ton calme est une épée qui coupe nos esprits en deux ;
 La fontaine de ta sagesse nous rend à nouveau entiers.
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Je sais que ces mystères appartiennent à Jéhovah;
 Tuer sans épée est une puissance de Dieu bien connue.
@@ -130,7 +130,7 @@ Telle la lune, ta connaissance brille sur moi, d'une lumière intense.
 Mais si le disque brillant de la lune sort de sous le nuage,
 <sup id="v40"><small>40</small></sup> Pauvres voyageurs de minuit, continuez donc votre route en toute sécurité.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Ils sont alors à l'abri de l'erreur, ne risquent pas d'errer en vain ;
 Protection des boucliers du clair de lune contre la chaîne de la terreur.
@@ -163,7 +163,7 @@ Exprimer l'émerveillement, c'est ce que les mots peuvent symboliser.
 Puis il ajouta : « Ô commandement, toi, Prince de l’Église fidèle.[^413]
 Pour que, en tant que bébé, je puisse manifester un esprit nouveau.
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 Les sept planètes surveillent chaque bébé à naître,
 <sup id="v55"><small>55</small></sup> Chacun pour une période déterminée, avant l'envoi de sa naissance.
@@ -200,7 +200,7 @@ Mes actions sont la preuve que ma foi est dans le Juste.
 Dieu est l'Archer. Je suis son arc, et sa flèche aussi.
 <sup id="v70"><small>70</small></sup> Il est le Frappeur. Je suis l'arme : l'épée, le bambou.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 « Tu n'as pas jeté de pierres, quand tu as jeté des pierres dans le combat. »[^414]
 Dieu est un puissant guerrier. Je suis poussière à ses yeux.
@@ -236,7 +236,7 @@ C'est pour l'amour de Dieu que j'aime. Telle est ma renommée auprès des hommes
 Ma générosité naît entièrement de l’amour de Dieu.
 Pour l'amour de Dieu, je suis aussi parcimonieux qu'un idiot.
 
-<span id="p276">[<sup><small>p. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 Je suis l'avarice, la munificence, vers un seul but.
 Je suis à Dieu en toutes choses. Je ne m'occupe jamais de moi-même.
@@ -274,7 +274,7 @@ Je ne peux pas imaginer la ligne de sondage, sa profondeur à trouver.
 « Il est inutile de continuer davantage dans cette voie.
 Ce ne sont pas seulement les cœurs, mais aussi les rochers qui peuvent pleurer à cause de la folie.
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Si le cœur des hommes ne se brise pas, c'est qu'ils sont encore plus durs,
 Par insouciance, par préoccupation, paresse, par mauvaise volonté.
@@ -307,7 +307,7 @@ S'ils n'avaient pas été magiciens, il n'aurait pas été obstiné,
 Comment auraient-ils pu voir le bâton, les miracles ?
 Votre péché a prouvé votre conversion, répréhensibles !
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 « Le Seigneur peut éloigner de loin notre état de profond désespoir,
 Notre péché peut se changer en justice, et la souillure en beauté.
@@ -344,7 +344,7 @@ Le remords retiendra à jamais ma haine, car sa proie sera sa proie.
 « Je lui répondis encore fermement, résolument :
 "Aucun conseil ne servira à rien. La marque de plume doit nécessairement s'appliquer.
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 Je ne garde aucune rancune contre toi au plus profond de mon âme ;
 Je ne te tiens pas responsable d'un acte aussi odieux.
@@ -380,7 +380,7 @@ Des ténèbres, la lumière a été créée nouvelle.
 Les guerres du Prophète ont apporté la paix qui règne ;
 Ces derniers jours tranquilles sont les fruits de ses peines.
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 Combien de têtes tombent sous les coups de ce héros,
 Que la paix soit appréciée par les vrais compagnons de joug de la foi !
@@ -413,7 +413,7 @@ Parce que ton honneur a sacrifié du simple pain pour grignoter.
 Si ta nature brute ne pratique pas l'abstinence,
 <sup id="v160"><small>160</small></sup> Administrez le remède. Ramenez-le à la raison.
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Si tu veux purifier tes vêtements, les débarrasser de toute souillure,
 Ne méprise pas le blanchisseur, ni son travail utile.
@@ -448,7 +448,7 @@ Il le regardait avec un dédain fier et un air hautain.
 Son estime de soi, son orgueil égoïste l'ont conduit,
 <sup id="v175"><small>175</small></sup> Avec un sourire sarcastique, le lutin maudit réprimande.
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 La colère de Dieu s'éveilla. Il lui dit : « Ho ! Adam ! Ho !
 N’as-tu aucune connaissance des mystères du malheur ?
@@ -516,7 +516,7 @@ Est fatal à l’homme, un feu intense et dévorant.
 Si quelqu'un cherche le feu pour s'en faire un bouclier,
 Il devient mage grâce à Zoroastre.
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 Tout ce qui n’est pas le Seigneur est vain et sans valeur.
 <sup id="v205"><small>205</small></sup> Les miséricordes de notre Dieu, une pluie abondante, se sont répandues.
@@ -552,7 +552,7 @@ Pourquoi devrions-nous dire : « C’est à Lui que nous retournerons ? »[^426]
 Seul revient celui qui revient chez lui.
 Notre véritable retour se fait de la séparation vers le dôme de l'union.
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 Ce serviteur supplia encore une fois : « 'Alī !
 <sup id="v220"><small>220</small></sup> Faites-moi mourir, afin que je puisse fuir un péché si odieux !
@@ -588,7 +588,7 @@ Il n'y prêta aucune attention. Ses pensées ne reposaient que sur Dieu.
 Son cœur était rempli du sentiment de la grâce de son grand Créateur.
 Les anges, ou les prophètes, n’y trouvèrent aucune place.
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 Il dit : « Je suis celui dont les yeux ne se sont pas détournés ; je ne suis pas un corbeau ! Tu vois ! »[^428]
 <sup id="v235"><small>235</small></sup> « Le Limner est mon amour ; du jus de la vigne je suis libre. »[^429]
@@ -619,7 +619,7 @@ Un lion d'éternité, la liberté de la mort face aux troubles.
 Dans la mort, il voit cent mille modes de vie.
 Ainsi, tel un papillon, il courtise la mort ; sa bougie, le couteau du meurtrier.
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 Courtiser la mort est un collier autour du cou de l'homme véritable.
 C'est ce texte qui a été proposé et qui a causé le désastre du réfractaire.
@@ -651,7 +651,7 @@ Ma colère s’est réveillée et ma patience a été mise à rude épreuve.
 À moitié échauffé par le zèle pour Dieu, à moitié agité par le feu de la colère,
 <sup id="v260"><small>260</small></sup> Un partenariat impie a été formé entre la vérité et la colère.
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Tu as été conçu et façonné par une main divine.
 Tu appartiens à Dieu ; aucune créature n’est à moi.

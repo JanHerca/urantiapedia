@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-1\. Rabbi Éliézer a dit : « Une génisse pour un sacrifice d'expiation est permise même en cas de grossesse. » Mais les Sages l'interdisent. <span id="p302">[<sup><small>p. 302</small></sup>]</span> R. Éliézer a dit : « On ne doit pas la prendre aux étrangers. » Mais les Sages l'autorisent. Et non seulement elle, mais toutes les offrandes de la congrégation et de l'individu peuvent provenir de la Terre (d'Israël), ou de l'extérieur du pays, de la nouvelle récolte et de l'ancienne récolte, à l'exception de l'omer, [^622] et des deux pains, [^623] qui ne peuvent provenir que de la nouvelle récolte et de la Terre.
+1\. Rabbi Éliézer a dit : « Une génisse pour un sacrifice d'expiation est permise même en cas de grossesse. » Mais les Sages l'interdisent. <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> R. Éliézer a dit : « On ne doit pas la prendre aux étrangers. » Mais les Sages l'autorisent. Et non seulement elle, mais toutes les offrandes de la congrégation et de l'individu peuvent provenir de la Terre (d'Israël), ou de l'extérieur du pays, de la nouvelle récolte et de l'ancienne récolte, à l'exception de l'omer, [^622] et des deux pains, [^623] qui ne peuvent provenir que de la nouvelle récolte et de la Terre.
 
 2\. Une génisse dont les cornes et les sabots sont noirs doit être coupée. La pupille, les dents et la langue ne causent aucune imperfection à la génisse. Si elle est petite, elle est autorisée. « Avait-elle un wen coupé ? » Rabbi Judah « l'a refusée. » Rabbi Simon a dit : « Tout endroit coupé, et où aucun poil roux n'a poussé à sa place, la rend impure. »
 

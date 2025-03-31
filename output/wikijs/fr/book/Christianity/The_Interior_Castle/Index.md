@@ -29,7 +29,7 @@ dateCreated: 2025-1-18T19:36:11Z
   </table>
 </figure>
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 Absalom, III. i. 6
 
@@ -93,7 +93,7 @@ Chenille, ressemblance de, V. ii. 6
 
 Cave à vin, V. i. 10, ii. 11
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Certitude de l'âme, signe d'union, V. i. 8, 9
 
@@ -171,7 +171,7 @@ Somnolence, V. i. 3, 5
 
 Sécheresse, dans la prière, III. i. 9, 10, 15
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 Pâques, transe en la fête de, VI. xi. 8.
 
@@ -261,7 +261,7 @@ Imitation du Christ, I. i. 8; II. i. 8; V. i. 3, iii. 3; VII. iv. 7, 12
 
 Impulsions, VI. ii. 12, xi. _par totem_.
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 Encens spirituel, IV. ii. 6; VI. ii. 14
 
@@ -355,7 +355,7 @@ Musique, VII. iii. 10
 
 Mystères révélés lors des ravissements, VI. iv. 10, 12, 13
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 L'Arche de Noé, VII. iii. 12
 
@@ -435,7 +435,7 @@ Secret des ravissements, VI. iv. 20, 21, viii. 12
 
 Sécurité, III. i. 1, 2
 
-Connaissance de soi, I. ii. 9-11 ; IV. i. <span id="p306">[<sup><small>p. 306</small></sup>]</span> 13 ; V. iv. 8 ; VI. V. 12
+Connaissance de soi, I. ii. 9-11 ; IV. i. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> 13 ; V. iv. 8 ; VI. V. 12
 
 Sens, I, ii. 4; IV. iii. 1; VI, iv. 17
 
@@ -489,7 +489,7 @@ Thomas d'Aquin, St., V. i. 6; VI. v. 8
 
 Tolède, couvent Saint-Joseph de, Préface, p. 36
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 Tortue, IV. iii. 4.
 

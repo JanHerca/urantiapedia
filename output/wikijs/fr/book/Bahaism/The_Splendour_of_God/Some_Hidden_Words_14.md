@@ -40,7 +40,7 @@ La direction de Dieu rend évident et clair, lorsque la Voie du Royaume, le Chem
 
 Il ne suffit pas de distinguer la Voie du Royaume, de découvrir la Voie Céleste, il faut la suivre jusqu’au bout. Par exemple, il ne suffit pas qu’un homme découvre la voie qui mène à l’Amérique. Il doit la suivre pour pouvoir atteindre ce pays ; autrement, s’il passe des années à en découvrir davantage sur la voie et ne la suit pas, il n’arrivera jamais.
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 Il ne suffit pas à l'enfant de savoir où se trouve l'école ; il doit y étudier pour acquérir des connaissances. La foi ne consiste pas seulement à savoir quelle est l'école et à reconnaître le maître ; il faut aussi acquérir des connaissances dans cette école. Si l'on n'acquiert pas de connaissances, il est inutile de connaître l'école.
 
@@ -52,7 +52,7 @@ Si vous voyez quelqu’un dont le cœur est attaché à ce monde, et en qui il n
 
 La véritable croyance ne consiste pas seulement à reconnaître l’Unicité de Dieu. Par croyance, nous entendons que la réalité d’un homme sera caractérisée par des caractéristiques divines. Si sa réalité est obscure, il deviendra éclairé. S’il est insouciant, il deviendra conscient ; s’il dort, il sera réveillé ; s’il est terrestre, il deviendra céleste ; s’il est satanique, il deviendra divin. Telle est la signification de la véritable croyance.
 
-C'est pourquoi je dis que l'homme doit marcher dans la <span id="p121">[<sup><small>p. 121</small></sup>]</span> voie de Dieu. Il doit s'efforcer jour et nuit de devenir meilleur ; sa foi doit croître et devenir plus ferme ; ses bonnes qualités et son orientation vers Dieu doivent être plus grandes ; le feu de son amour doit flamber plus vivement. Alors, jour après jour, il fera des progrès.
+C'est pourquoi je dis que l'homme doit marcher dans la <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> voie de Dieu. Il doit s'efforcer jour et nuit de devenir meilleur ; sa foi doit croître et devenir plus ferme ; ses bonnes qualités et son orientation vers Dieu doivent être plus grandes ; le feu de son amour doit flamber plus vivement. Alors, jour après jour, il fera des progrès.
 
 Car cesser d'avancer, c'est reculer. L'oiseau, quand il vole, s'élève toujours plus haut. Il s'efforce toujours de monter plus haut, car dès qu'il cesse de voler, il redescend.
 

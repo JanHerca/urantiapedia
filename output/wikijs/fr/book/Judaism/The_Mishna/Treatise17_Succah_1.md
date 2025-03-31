@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 ### CHAPITRE I.
 
@@ -56,7 +56,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 10. Si une maison a été découverte et couverte pour constituer une souccah, s'il y a un espace de quatre mètres entre le mur et la couverture végétale, la souccah n'est pas valide ; il en est de même pour une cour comportant un passage couvert. Si le haut d'une grande souccah a été recouvert d'un matériau interdit, s'il y a en dessous un espace de quatre mètres, la souccah n'est pas valide.
 
-§ 11. Si un homme construit sa souccah en forme de pyramide, ou appuie son sommet contre le mur, R. Éléazar la déclare invalide, car elle n'a pas de toit ; mais les sages la déclarent valide. Une grande natte de roseau, fabriquée pour dormir dessus, est susceptible de contracter l'impureté, et il est interdit de recouvrir une souccah avec ; mais si elle est fabriquée pour servir de couverture, elle est autorisée à l'utiliser comme telle, et elle ne contracte pas l'impureté. R. Éléazar dit : <span id="p132">[<sup><small>p. 132</small></sup>]</span> « Qu'elle soit grande ou petite, si une natte a été fabriquée pour dormir dessus, elle contracte l'impureté et ne doit pas être utilisée comme couverture ; mais si elle a été fabriquée pour servir de couverture, ils peuvent l'utiliser comme telle, et elle ne contracte pas l'impureté. »
+§ 11. Si un homme construit sa souccah en forme de pyramide, ou appuie son sommet contre le mur, R. Éléazar la déclare invalide, car elle n'a pas de toit ; mais les sages la déclarent valide. Une grande natte de roseau, fabriquée pour dormir dessus, est susceptible de contracter l'impureté, et il est interdit de recouvrir une souccah avec ; mais si elle est fabriquée pour servir de couverture, elle est autorisée à l'utiliser comme telle, et elle ne contracte pas l'impureté. R. Éléazar dit : <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> « Qu'elle soit grande ou petite, si une natte a été fabriquée pour dormir dessus, elle contracte l'impureté et ne doit pas être utilisée comme couverture ; mais si elle a été fabriquée pour servir de couverture, ils peuvent l'utiliser comme telle, et elle ne contracte pas l'impureté. »
 
 <figure class="table chapter-navigator">
   <table>

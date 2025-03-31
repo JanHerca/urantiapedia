@@ -38,7 +38,7 @@ Un moine ou une nonne, pressé par la nature, devrait, s'il ne possède pas son 
 
 Un moine ou une nonne, sachant que le maître de maison, à l'égard d'un tel lieu, pour le bien d'un ou de plusieurs, hommes ou femmes, ses compagnons ascètes, pour le bien de nombreux Srama<i>n</i>as ou Brâhma<i>n</i>as qu'il a bien comptés, tue des êtres vivants et commet divers péchés, ne doit pas ménager la nature sur un tel lieu ou sur tout autre du même genre, que ce lieu soit approprié par une autre personne ou non [^460], etc. (voir II, 1, 1, § 13). (2 et 3).
 
-<span id="p181">[<sup><small>p. 181</small></sup>]</span>
+<span id="p181"><sup><small>[ p. 181 ]</small></sup></span>
 
 Il devrait maintenant savoir ceci : si cet endroit n'a pas été approprié par une autre personne, etc., il peut faire preuve de douceur envers un tel endroit (après l'avoir bien inspecté et nettoyé). (4)
 
@@ -54,7 +54,7 @@ Un moine ou une nonne ne doit pas cultiver la nature dans un endroit où les ma�
 
 Un moine ou une nonne ne doit pas perturber la nature dans un endroit où les chefs de famille ou leurs fils ont semé, sèment ou sèmeront du riz, des haricots, du sésame, des légumineuses ou de l'orge. (1o)
 
-Un moine ou une nonne ne doit pas faciliter la nature dans un endroit où il y a des tas d'ordures, des sillons, de la boue, <span id="p182">[<sup><small>p. 182</small></sup>]</span> des pieux, des brindilles, des trous, des grottes, des murs, des endroits plats ou inégaux [^462]. (11)
+Un moine ou une nonne ne doit pas faciliter la nature dans un endroit où il y a des tas d'ordures, des sillons, de la boue, <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> des pieux, des brindilles, des trous, des grottes, des murs, des endroits plats ou inégaux [^462]. (11)
 
 Un moine ou une nonne ne doit pas faciliter la nature dans les foyers, les pondeuses (ou les nids) de buffles, de bovins, de coqs, de singes, de cailles, de canards [^463], de perdrix, de colombes ou de perdrix francolines. (12)
 
@@ -74,7 +74,7 @@ Un moine ou une nonne ne doit pas cultiver la nature dans des fosses d'argile fr
 
 Un moine ou une nonne ne doit pas faciliter la nature dans un champ d’arbustes, de légumes ou de racines. (20)
 
-<span id="p183">[<sup><small>p. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 Un moine ou une nonne ne doit pas se promener dans les bois d'Asana [^465], de Sana [^466], de Dhâtakî [^467], de Ketaki [^468], de Mango, d'Asoka, de Punnâga ou d'autres endroits similaires qui contiennent des feuilles, des fleurs, des fruits, des graines ou des pousses. (21)
 

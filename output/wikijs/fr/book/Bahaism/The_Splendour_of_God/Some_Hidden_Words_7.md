@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T10:15:31Z
 
 Le principe de la religion est de reconnaître ce qui est révélé par Dieu et d’obéir aux lois établies dans Son Livre.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 La source de tout bien est la confiance en Dieu, l'obéissance à Son commandement et la satisfaction de Sa volonté,
 

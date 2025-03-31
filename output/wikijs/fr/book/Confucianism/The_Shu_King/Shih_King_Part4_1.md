@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p430">[<sup><small>p. 430</small></sup>]</span>
+<span id="p430"><sup><small>[ p. 430 ]</small></sup></span>
 
 ## IV. LEÇONS DES ÉTATS. ODES ET Strophes illustrant les opinions et pratiques religieuses des écrivains et de leur époque.
 

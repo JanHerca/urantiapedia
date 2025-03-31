@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 <span id="an151"></span>
 
@@ -68,7 +68,7 @@ La règle doit être maintenue en raison de l'adéquation du Kumbhi, un grand po
 
 **Commentaire.**
 
-Kumbhî est expliqué par sro<i>n</i>yâdipâkasamarthâ <span id="p361">[<sup><small>p. 361</small></sup>]</span> b<i>n</i>hatî sthâlî; _S<i>n</i>ri<i>n</i>t<i>n</i>h_, et Vapâ<i>n</i>rapa<i>n</i>î par vapâ<i>n</i>rapa<i>n</i>ârthe yash<i>n</i>î dve. L'objet exact du Sûtra n'est pas tout à fait clair. Prabhutva est expliqué par samarthatva, c'est-à-dire aptitude. Cela signifierait qu'en raison de leur aptitude, ou parce qu'ils peuvent être utilisés pour l'objet pour lequel ils sont destinés, ou, tant qu'ils peuvent être utilisés, la règle qui leur est applicable devrait demeurer. Le commentaire explique le tantram par tantratâ ou ekatâ. Cela pourrait signifier que les mêmes pots et broches doivent être utilisés, pourvu qu'ils remplissent leur fonction. Le Sûtra suivant constituerait alors une limitation naturelle.
+Kumbhî est expliqué par sro<i>n</i>yâdipâkasamarthâ <span id="p361"><sup><small>[ p. 361 ]</small></sup></span> b<i>n</i>hatî sthâlî; _S<i>n</i>ri<i>n</i>t<i>n</i>h_, et Vapâ<i>n</i>rapa<i>n</i>î par vapâ<i>n</i>rapa<i>n</i>ârthe yash<i>n</i>î dve. L'objet exact du Sûtra n'est pas tout à fait clair. Prabhutva est expliqué par samarthatva, c'est-à-dire aptitude. Cela signifierait qu'en raison de leur aptitude, ou parce qu'ils peuvent être utilisés pour l'objet pour lequel ils sont destinés, ou, tant qu'ils peuvent être utilisés, la règle qui leur est applicable devrait demeurer. Le commentaire explique le tantram par tantratâ ou ekatâ. Cela pourrait signifier que les mêmes pots et broches doivent être utilisés, pourvu qu'ils remplissent leur fonction. Le Sûtra suivant constituerait alors une limitation naturelle.
 
 <span id="an154"></span>
 
@@ -116,7 +116,7 @@ Ou (selon d'autres) l'Anvârambha<i>ri</i>îyâ devrait avoir lieu (dans les Vik
 
 **Commentaire.**
 
-Ce Sûtra n'est pas tout à fait clair. Il montre assez clairement que, selon certaines autorités, l'Anvârambha<i>s</i>îyâ ou cérémonie initiatique du sacrifice du Dar<i>s</i>a-pûr<i>s</i>amâsa devrait également avoir lieu dans les Vik<i>s</i>tis ; mais pourquoi ? Parce que le moment n'a pas le caractère d'un <i>ssesha</i>, qui est considéré comme un synonyme d'aṅga, une partie essentielle d'un sacrifice. <span id="p363">[<sup><small>p. 363</small></sup>]</span> Lorsqu'il est dit que le Dar<i>s</i>a-pûr<i>s</i>amâsa doit être accompli de son vivant, cela ne signifie pas que le moment du sacrifice est déterminé. Cela signifie seulement que tant qu'il est en vie, un homme doit accomplir ces sacrifices, et que leur non-exécution constituerait un péché. L’argument précédent, selon lequel la période des sacrifices Vik<i>s</i>ti tomberait dans la période du sacrifice Prak<i>s</i>ti, n’est donc pas défendable.
+Ce Sûtra n'est pas tout à fait clair. Il montre assez clairement que, selon certaines autorités, l'Anvârambha<i>s</i>îyâ ou cérémonie initiatique du sacrifice du Dar<i>s</i>a-pûr<i>s</i>amâsa devrait également avoir lieu dans les Vik<i>s</i>tis ; mais pourquoi ? Parce que le moment n'a pas le caractère d'un <i>ssesha</i>, qui est considéré comme un synonyme d'aṅga, une partie essentielle d'un sacrifice. <span id="p363"><sup><small>[ p. 363 ]</small></sup></span> Lorsqu'il est dit que le Dar<i>s</i>a-pûr<i>s</i>amâsa doit être accompli de son vivant, cela ne signifie pas que le moment du sacrifice est déterminé. Cela signifie seulement que tant qu'il est en vie, un homme doit accomplir ces sacrifices, et que leur non-exécution constituerait un péché. L’argument précédent, selon lequel la période des sacrifices Vik<i>s</i>ti tomberait dans la période du sacrifice Prak<i>s</i>ti, n’est donc pas défendable.
 
 <span id="an158"></span>
 
@@ -134,7 +134,7 @@ Et encore, parce qu’il y a une différence dans l’entreprise.
 
 ## SÛTRA CLIX.
 
-Pour chaque objet (nouveau sacrifice), qu'il apporte le feu (qu'il accomplisse l'Agniprānāyāna, la récupération de l'Âhavanīya du feu de Gārhapatya). Lorsque le sacrifice est terminé, <span id="p364">[<sup><small>p. 364</small></sup>]</span> le feu redevient un feu ordinaire, comme lorsque le feu (divin) est revenu (aux bâtons de feu).
+Pour chaque objet (nouveau sacrifice), qu'il apporte le feu (qu'il accomplisse l'Agniprānāyāna, la récupération de l'Âhavanīya du feu de Gārhapatya). Lorsque le sacrifice est terminé, <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> le feu redevient un feu ordinaire, comme lorsque le feu (divin) est revenu (aux bâtons de feu).
 
 <span id="an159c"></span>
 

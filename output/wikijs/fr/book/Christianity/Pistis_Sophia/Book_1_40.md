@@ -70,7 +70,7 @@ Il arriva alors qu'elle regarda en bas et vit sa puissance lumineuse dans les pa
 
 « 10. Et tous les chefs des éons se moquèrent de moi.
 
-<span id="p39">[<sup><small>p. 39</small></sup>]</span>
+<span id="p39"><sup><small>[ p. 39 ]</small></sup></span>
 
 « 11. Et j'étais dans cette région, en deuil et cherchant la lumière que j'avais vue dans les hauteurs.
 
@@ -146,7 +146,7 @@ Marie s'avança de nouveau et dit : « Mon Seigneur, celui qui habite en moi la 
 
 « 7. À cause de toi j'ai enduré la honte, la honte a couvert mon visage.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 « 8. Je suis devenu un étranger pour mes frères, un étranger pour les fils de ma mère.
 
@@ -174,7 +174,7 @@ Marie s'avança de nouveau et dit : « Mon Seigneur, celui qui habite en moi la 
 
 20. Mon cœur s'attend à la honte et à la misère ; j'ai attendu celui qui m'affligerait, mais je n'ai pas pu venir à lui ; et celui qui me consolerait, mais je ne l'ai pas trouvé.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 21. Ils m'ont donné du fiel pour nourriture, et pour apaiser ma soif, ils m'ont donné du vinaigre à boire.
 
@@ -206,7 +206,7 @@ Marie s'avança de nouveau et dit : « Mon Seigneur, celui qui habite en moi la 
 
 35. Car Dieu sauvera Sion, et les villes de Judée seront rebâties ; ils y habiteront et en prendront possession.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 « 36. La postérité de ses serviteurs la possédera, et ceux qui aiment son nom y habiteront. »
 
@@ -234,7 +234,7 @@ Jésus continua encore son discours et dit : « Pistis Sophia continua encore et
 
 6. Et j'ai eu foi en elle depuis le moment où elle m'a émané, et toi-même tu m'as fait émaner ; et j'ai eu foi en ta lumière depuis le commencement.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 7. Et quand j'eus foi en toi, les princes des éons se moquèrent de moi, disant : Elle a cessé son mystère. Tu es **(57)** mon sauveur et tu es mon libérateur et tu es mon mystère, ô Lumière.
 
@@ -258,7 +258,7 @@ Il arriva donc que, lorsque Jésus eut achevé de dire ces paroles à ses discip
 
 <small>Pierre se plaint de Marie.</small>
 
-Et Pierre s'avança et dit à Jésus : <span id="p47">[<sup><small>p. 47</small></sup>]</span> « Mon Seigneur, nous ne supporterons pas cette femme, car elle profite de nous et ne laisse parler aucun de nous, mais elle parle plusieurs fois. »
+Et Pierre s'avança et dit à Jésus : <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> « Mon Seigneur, nous ne supporterons pas cette femme, car elle profite de nous et ne laisse parler aucun de nous, mais elle parle plusieurs fois. »
 
 Jésus répondit à ses disciples : « Que celui en qui bouillonne la puissance de son esprit, afin qu'il comprenne ce que je dis, s'avance et parle. Mais maintenant, Pierre, je vois en toi ta puissance, qui comprend la solution du mystère de la repentance qu'a prononcée Pistis-Sophia. Maintenant donc, Pierre, exprime la pensée de sa repentance au milieu de tes frères. »
 
@@ -278,7 +278,7 @@ Et Pierre répondit et dit à Jésus : Seigneur, écoute, et je te dirai la pens
 
 6. Je me suis confié à toi dès le ventre de ma mère ; tu m'as fait sortir du ventre de ma mère. Mon souvenir est toujours en toi.
 
-« 7. Je suis devenu comme un fou pour beaucoup ; **(59)** <span id="p48">[<sup><small>p. 48</small></sup>]</span> tu es mon secours et ma force, tu es mon libérateur, ô Seigneur.
+« 7. Je suis devenu comme un fou pour beaucoup ; **(59)** <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> tu es mon secours et ma force, tu es mon libérateur, ô Seigneur.
 
 « 8. Ma bouche est remplie de louanges, afin que je puisse louer la gloire de ta splendeur tout au long du jour.
 
@@ -320,7 +320,7 @@ Et il arriva, lorsque Jésus eut achevé de dire ces paroles à ses disciples, e
 
 Il arriva alors, avant que Jésus ait fini de parler, que Marthe s'avança, tomba à ses pieds, les embrassa, cria à haute voix et pleura avec lamentation et humilité, en disant : « Mon Seigneur, aie pitié de moi et aie compassion de moi, et laisse-moi dire la solution du repentir que Pistis Sophia a prononcé. »
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 Jésus tendit la main à Marthe et lui dit : « Heureux quiconque s'humilie, car ils auront pitié de lui. Maintenant donc, Marthe, tu es bénie. Mais proclame donc la solution de la pensée du repentir de Pistis-Sophia. »
 
@@ -344,7 +344,7 @@ Et Marthe répondit et dit à Jésus au milieu des disciples : « Concernant la 
 
 Or, lorsque Jésus entendit Marthe dire ces paroles, il lui dit : « Tu as bien parlé, Marthe, et c'est bien. »
 
-Et Jésus poursuivit son discours et dit à ses disciples : « Pistis Sophia continua encore sa quatrième repentance, la récitant avant d'être opprimée une seconde fois, afin que la puissance à face de lion et **(63)** toutes les émanations matérielles qui l'accompagnaient, que l'Obstiné <span id="p51">[<sup><small>p. 51</small></sup>]</span> avait envoyées dans le chaos, ne lui enlèvent pas toute sa lumière. Elle prononça alors cette repentance comme suit :
+Et Jésus poursuivit son discours et dit à ses disciples : « Pistis Sophia continua encore sa quatrième repentance, la récitant avant d'être opprimée une seconde fois, afin que la puissance à face de lion et **(63)** toutes les émanations matérielles qui l'accompagnaient, que l'Obstiné <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> avait envoyées dans le chaos, ne lui enlèvent pas toute sa lumière. Elle prononça alors cette repentance comme suit :
 
 <small>Le quatrième repentir de Sophia.</small>
 
@@ -368,7 +368,7 @@ Et Jésus poursuivit son discours et dit à ses disciples : « Pistis Sophia con
 
 « 10. Tout cela m'est arrivé, ô Lumière, par ton commandement et ton ordre, et c'est par ton ordre que je suis ici.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 « 11. Ton commandement m'a fait tomber, et je suis descendu comme une puissance du chaos, et ma puissance est engourdie en moi.
 
@@ -388,7 +388,7 @@ Et Jésus poursuivit son discours et dit à ses disciples : « Pistis Sophia con
 
 19. Car la Lumière a regardé du haut de sa lumière. Elle regardera sur **(65)** la matière entière,
 
-« 20. Entendre les soupirs de ceux qui sont enchaînés, <span id="p53">[<sup><small>p. 53</small></sup>]</span> perdre le pouvoir des âmes dont le pouvoir est lié,
+« 20. Entendre les soupirs de ceux qui sont enchaînés, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> perdre le pouvoir des âmes dont le pouvoir est lié,
 
 « 21. Afin qu'il puisse mettre son nom dans l'âme et son mystère dans la puissance. »
 
@@ -412,7 +412,7 @@ Jean répondit et dit : « Mon Seigneur et Sauveur, concernant cette repentance 
 
 « 4. Je suis brûlé comme l’herbe, et mon cœur est desséché, car j’ai oublié de manger mon pain.
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 « 5. À cause de la voix de mes gémissements, mes os se sont attachés à ma chair.
 
@@ -444,7 +444,7 @@ Jean répondit et dit : « Mon Seigneur et Sauveur, concernant cette repentance 
 
 19. Car il a regardé du haut de sa sainteté, l'Éternel a regardé du haut des cieux sur la terre,
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 « 20. Pour entendre les soupirs **(67)** de ceux qui sont enchaînés, pour libérer les fils de ceux qui sont tués,
 

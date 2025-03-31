@@ -36,7 +36,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## SÛTRA CXXVI. 
 
-Français Ce sont facultativement des vikâras de l'Aindrâgna. <span id="p349">[<sup><small>p. 349</small></sup>]</span> 
+Français Ce sont facultativement des vikâras de l'Aindrâgna. <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> 
 
 <span id="an126c"></span> 
 
@@ -66,7 +66,7 @@ S'il y a une identité à la fois dans l'offrande et dans la divinité, alors l'
 
 **Commentaire.** 
 
-Si un <i>k</i>aru pour Pra<i>g</i>âpati apparaît dans un sacrifice vik<i>g</i>ti, il s'ensuivrait que, étant offert à Pra<i>g</i>âpati, il devrait être offert avec murmure, mais, comme il s'agit d'une offrande végétale, il suit la norme du puro<i>g</i>â<i>g</i>a, bien que le puro<i>g</i>â<i>g</i>a soit destiné à Agni. <span id="p350">[<sup><small>p. 350</small></sup>]</span> 
+Si un <i>k</i>aru pour Pra<i>g</i>âpati apparaît dans un sacrifice vik<i>g</i>ti, il s'ensuivrait que, étant offert à Pra<i>g</i>âpati, il devrait être offert avec murmure, mais, comme il s'agit d'une offrande végétale, il suit la norme du puro<i>g</i>â<i>g</i>a, bien que le puro<i>g</i>â<i>g</i>a soit destiné à Agni. <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> 
 
 <span id="an129"></span> 
 
@@ -114,7 +114,7 @@ Français Dans un sacrifice Vik<i>ri</i>ti, une modification a lieu, selon le se
 
 **Commentaire.** 
 
-Certains mantras restent les mêmes dans le Vik<i>ri</i>ti que dans le Prak<i>ri</i>ti. D'autres doivent être modifiés afin d'être <span id="p351">[<sup><small>p. 351</small></sup>]</span> adaptés à toute nouveauté. Si, par exemple, il y a un Puro<i>ri</i>â<i>ri</i>a pour Agni dans le Prak<i>ri</i>ti, et à sa place un Puro<i>ri</i>â<i>ri</i>a pour Sûrya dans le Vik<i>ri</i>ti, alors nous devons placer Sûrya à la place d'Agni dans le mantra dédicatoire. 
+Certains mantras restent les mêmes dans le Vik<i>ri</i>ti que dans le Prak<i>ri</i>ti. D'autres doivent être modifiés afin d'être <span id="p351"><sup><small>[ p. 351 ]</small></sup></span> adaptés à toute nouveauté. Si, par exemple, il y a un Puro<i>ri</i>â<i>ri</i>a pour Agni dans le Prak<i>ri</i>ti, et à sa place un Puro<i>ri</i>â<i>ri</i>a pour Sûrya dans le Vik<i>ri</i>ti, alors nous devons placer Sûrya à la place d'Agni dans le mantra dédicatoire. 
 
 <span id="an133"></span> 
 
@@ -138,7 +138,7 @@ Si ce qui est prescrit est absent, un substitut doit être pris selon la similar
 
 **Commentaire.** 
 
-Il ne s'agit plus ici de modification, mais de substitution (pratinidhi). Dans les cas où quelque chose de spécial qui a été prescrit manque, un substitut doit être choisi, aussi similaire que possible, et produisant un effet similaire. <span id="p352">[<sup><small>p. 352</small></sup>]</span> Selon le Trikâ<i>nd</i>a de Ma<i>nd</i>ana, les degrés de similarité doivent être déterminés dans l'ordre suivant :
+Il ne s'agit plus ici de modification, mais de substitution (pratinidhi). Dans les cas où quelque chose de spécial qui a été prescrit manque, un substitut doit être choisi, aussi similaire que possible, et produisant un effet similaire. <span id="p352"><sup><small>[ p. 352 ]</small></sup></span> Selon le Trikâ<i>nd</i>a de Ma<i>nd</i>ana, les degrés de similarité doivent être déterminés dans l'ordre suivant :
 
 Kâryai rûpais tathâ par<i>n</i>ai_h<i>n</i>h<i>n</i>h_ phalair api, 
 Gandhai rasai_h<i> sad</i>ri_g grâhyam pûrvâlâbhe param param. 
@@ -197,7 +197,7 @@ Le maître est destiné au sacrificateur lui-même et à son épouse. Leur place
 
 ## SÛTRA CXXXIX. 
 
-La Prak<i>ri</i>ti s'arrête pour trois causes : un corollaire, une interdiction et la perte de but. <span id="p354">[<sup><small>p. 354</small></sup>]</span> 
+La Prak<i>ri</i>ti s'arrête pour trois causes : un corollaire, une interdiction et la perte de but. <span id="p354"><sup><small>[ p. 354 ]</small></sup></span> 
 
 <span id="an139c"></span> 
 
@@ -245,7 +245,7 @@ Le Gavâmayana dure trois ans, et il est le type de tous les sacrifices Sâ<i>m<
 
 ## SÛTRA CXLIII.
 
-Parmi les sacrifices Nikâyi, le premier sert de Prak<i>ri</i>ti. <span id="p355">[<sup><small>p. 355</small></sup>]</span> 
+Parmi les sacrifices Nikâyi, le premier sert de Prak<i>ri</i>ti. <span id="p355"><sup><small>[ p. 355 ]</small></sup></span> 
 
 <span id="an143c"></span> 
 
@@ -287,7 +287,7 @@ Ceci ne s'applique pas au Sâdyaskras, au Vâ<i>g</i>apeya, au Sho<i>g</i>a<i>g<
 
 **Commentaire.** 
 
-En ce qui concerne le Sho<i>d</i>a<i>d</i>in et son vikâra, le Vâ<i>d</i>apeya, la pose du feu n'est pas mentionnée. Dans le cas des Sâdyaskras, cela devient impossible, car il faut les terminer rapidement. Dans le cas du Sârasvata Sattra, la même difficulté se pose du fait de ne pas rester au même endroit (anavasthâpân nâgni_s<i>d</i>k_îyate). <span id="p356">[<sup><small>p. 356</small></sup>]</span> 
+En ce qui concerne le Sho<i>d</i>a<i>d</i>in et son vikâra, le Vâ<i>d</i>apeya, la pose du feu n'est pas mentionnée. Dans le cas des Sâdyaskras, cela devient impossible, car il faut les terminer rapidement. Dans le cas du Sârasvata Sattra, la même difficulté se pose du fait de ne pas rester au même endroit (anavasthâpân nâgni_s<i>d</i>k_îyate). <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> 
 
 <span id="an147"></span> 
 
@@ -313,7 +313,7 @@ Au début d'une partie particulière du sacrifice,il faut souhaiter l'objet de c
 
 Le commentaire, bien qu'objectant, et à juste titre, à kâmayeta (« il devrait souhaiter ») dans le Sûtra précédent, accepte kâmayeta comme déterminant le Sûtra actuel, disant kâmayetety anuvartate. Il faut lire ya<i>g</i><i>g</i>âṅgakâmam, et non ya<i>g</i><i>g</i>akâmam, car le commentaire l'explique par ya<i>g</i><i>g</i>âṅgaphalasaṅkalpa_h_. Savoir s'il était réellement prévu qu'il y ait un souhait particulier pour chaque partie ou acte subsidiaire d'un sacrifice (ya<i>g</i><i>g</i>âṅga) est une autre question, mais le commentateur le pensait manifestement. 
 
-Kâtyâyana, qui traite du même sujet (1, 2, 10 s.), affirme qu'il devrait y avoir ce désir de récompense pour certains sacrifices offerts dans un but précis, comme par exemple le Dvâda<i>s</i>âha, mais qu'il n'y a pas de tels motifs pour d'autres sacrifices et parties de sacrifices. Il mentionne, tout d'abord, un niyama, un précepte pour le sacrifice, tel que « Dis la vérité ». Puis un nimitta, une cause spéciale, comme lorsqu'un accident s'est produit auquel il faut remédier, par exemple, lorsque la maison a été incendiée, etc. Troisièmement, l'Agnihotra, le Homa du matin et du soir ; quatrièmement, le Dar<i>s</i>a-pûr<i>s</i>amâsau ; cinquièmement, le Dâkshâya<i>s</i>a, un vik<i>s</i>ti du Dar<i>s</i>a-pûr<i>s</i>amâsau, l'Âgraya<i>s</i>a ; sixièmement, le Nirû<i>s</i>a-pa<i>s</i>u, le sacrifice animal. Tous ces sacrifices doivent être accomplis comme un devoir sacré <span id="p357">[<sup><small>p. 357</small></sup>]</span>, et sans aucune perspective de récompense particulière. Ainsi, nous lisons dans Vâsish<i>s</i>a : 
+Kâtyâyana, qui traite du même sujet (1, 2, 10 s.), affirme qu'il devrait y avoir ce désir de récompense pour certains sacrifices offerts dans un but précis, comme par exemple le Dvâda<i>s</i>âha, mais qu'il n'y a pas de tels motifs pour d'autres sacrifices et parties de sacrifices. Il mentionne, tout d'abord, un niyama, un précepte pour le sacrifice, tel que « Dis la vérité ». Puis un nimitta, une cause spéciale, comme lorsqu'un accident s'est produit auquel il faut remédier, par exemple, lorsque la maison a été incendiée, etc. Troisièmement, l'Agnihotra, le Homa du matin et du soir ; quatrièmement, le Dar<i>s</i>a-pûr<i>s</i>amâsau ; cinquièmement, le Dâkshâya<i>s</i>a, un vik<i>s</i>ti du Dar<i>s</i>a-pûr<i>s</i>amâsau, l'Âgraya<i>s</i>a ; sixièmement, le Nirû<i>s</i>a-pa<i>s</i>u, le sacrifice animal. Tous ces sacrifices doivent être accomplis comme un devoir sacré <span id="p357"><sup><small>[ p. 357 ]</small></sup></span>, et sans aucune perspective de récompense particulière. Ainsi, nous lisons dans Vâsish<i>s</i>a : 
 
 Ava<i>s</i>yam brâhma<i>s</i>oऽgnîn âdadhîta, dar<i>s</i>apûr<i>s</i>amâsâgraya<i>s</i>esh<i>s</i>i<i>s</i>âturmâsyapa<i>s</i>usomai_s<i>s</i>k<i>s</i>g_eta, « Un Brâhma<i>s</i>a doit sans faute placer ses feux et offrir le Dar<i>s</i>apûr<i>s</i>amâsa, l'Âgraya<i>s</i>esh<i>s</i>i, le Kâturmâsyas, le P a _s_ u et les sacrifices du Soma. » 
 
@@ -327,7 +327,7 @@ Un Brâhma<i>n</i>a doit toujours offrir l'Agnihotra au début ou à la fin du j
 
 Ces Pâkaya<i>g</i><i>g</i>as, Havirya<i>g</i><i>g</i>as ou ish<i>g</i>is et sacrifices de Soma sont énumérés par Gautama [^800], comme suit : 
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span> Sept | Sept | Sept 
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span> Sept | Sept | Sept 
 
 --- 
 | --- | --- 
@@ -365,7 +365,7 @@ Pâkasa<i>m</i>sthâs : | Havi<i>h</i>sa<i>h</i>sthâs : | Somasa<i>m</i>sthâs 
 (6) Pit<i>ri</i>ya<i>ri</i><i>ri</i>a_h_, | <i>K</i>âturmâsyâni, | Atirâtra_h_, 
 (7) Ash<i>t</i>akâ. | Pa<i>s</i>ubandha_h_. | Aptoryâma_h_. 
 
-Selon les substances offertes, les sacrifices sont parfois <span id="p359">[<sup><small>p. 359</small></sup>]</span> divisés en sacrifices végétaux et animaux. Les substances végétales sont : ta<i>nd</i>ulâ_h_, pish<i>n</i>âni, phalîkara<i>n</i>â_h_, puro<i>n</i>â<i>n</i>a_h_, odana_h_, yavâgû_h_, p<i>n</i>thukâ_h_, lâ<i>n</i>â_h_, dhânâ_h_ et aktava_h_. Les substances animales sont : paya_h_, dadhi, â<i>n</i>yam, âmikshâ, vâ<i>n</i>inam, vapâ, tva<i>n</i>a_h_, mâ<i>n</i>sam, lohitam et pa<i>n</i>urasa_h_. 
+Selon les substances offertes, les sacrifices sont parfois <span id="p359"><sup><small>[ p. 359 ]</small></sup></span> divisés en sacrifices végétaux et animaux. Les substances végétales sont : ta<i>nd</i>ulâ_h_, pish<i>n</i>âni, phalîkara<i>n</i>â_h_, puro<i>n</i>â<i>n</i>a_h_, odana_h_, yavâgû_h_, p<i>n</i>thukâ_h_, lâ<i>n</i>â_h_, dhânâ_h_ et aktava_h_. Les substances animales sont : paya_h_, dadhi, â<i>n</i>yam, âmikshâ, vâ<i>n</i>inam, vapâ, tva<i>n</i>a_h_, mâ<i>n</i>sam, lohitam et pa<i>n</i>urasa_h_. 
 
 <span id="an149"></span> 
 

@@ -44,7 +44,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 « Puisses-tu avoir une bonne part de bonheur [^1395], comme le roi Husravah !
 
-« Puisses-tu avoir la force d'atteindre le Rangha, dont le chemin est lointain, comme le fit Vafra Navâza [^1396]. <span id="p329">[<sup><small>p. 329</small></sup>]</span> 3\. « Que dix fils naissent de ton propre corps [^1397] ! Trois comme Âthravans [^1398], trois comme guerriers [^1399], trois comme laboureurs [^1400] ! Que l'un d'eux soit comme <i>G</i>âmâspa [^1401], afin qu'il te bénisse d'un bonheur grand et toujours plus grand [^1402] !
+« Puisses-tu avoir la force d'atteindre le Rangha, dont le chemin est lointain, comme le fit Vafra Navâza [^1396]. <span id="p329"><sup><small>[ p. 329 ]</small></sup></span> 3\. « Que dix fils naissent de ton propre corps [^1397] ! Trois comme Âthravans [^1398], trois comme guerriers [^1399], trois comme laboureurs [^1400] ! Que l'un d'eux soit comme <i>G</i>âmâspa [^1401], afin qu'il te bénisse d'un bonheur grand et toujours plus grand [^1402] !
 
 4\. « Puisses-tu être libéré de la maladie et de la mort, comme Peshô-tanu [^1403].
 
@@ -60,7 +60,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 'Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 ## II.
 
@@ -90,7 +90,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 ## III.
 
-13\. « Quand je t'enseigne, afin que tu puisses faire de même avec ton fils [^1420], ô Vî<i>s</i>tâspa ! reçois bien cet enseignement ; il te rendra riche en enfants et riche en lait ; riche en graines, en graisse, en lait [^1421]. <span id="p332">[<sup><small>p. 332</small></sup>]</span> 14\. « Ainsi t'annonçons-nous, Ahura Mazda, et Sraosha, et Ashi, et la Loi des adorateurs de Mazda, avec l'ensemble de tous ses hymnes, avec l'ensemble de tous ses actes, avec l'ensemble de ses performances ; la Loi de Mazda, qui obtient ses souhaits, qui fait croître le monde, qui écoute les chants et réjouit l'homme fidèle de son souhait ; qui protège l'homme fidèle, qui soutient l'homme fidèle ;
+13\. « Quand je t'enseigne, afin que tu puisses faire de même avec ton fils [^1420], ô Vî<i>s</i>tâspa ! reçois bien cet enseignement ; il te rendra riche en enfants et riche en lait ; riche en graines, en graisse, en lait [^1421]. <span id="p332"><sup><small>[ p. 332 ]</small></sup></span> 14\. « Ainsi t'annonçons-nous, Ahura Mazda, et Sraosha, et Ashi, et la Loi des adorateurs de Mazda, avec l'ensemble de tous ses hymnes, avec l'ensemble de tous ses actes, avec l'ensemble de ses performances ; la Loi de Mazda, qui obtient ses souhaits, qui fait croître le monde, qui écoute les chants et réjouit l'homme fidèle de son souhait ; qui protège l'homme fidèle, qui soutient l'homme fidèle ;
 
 15\. « De qui viennent la connaissance de la sainteté et l'accroissement de la sainteté du monde du saint Principe, et sans qui [^1422] aucun homme fidèle [^1423] ne peut connaître la sainteté.
 
@@ -114,7 +114,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 « Va vers cet arbre qui est beau, grand et puissant parmi les grands arbres, et dis ces mots : « Salut à toi ! Ô bon arbre saint, créé par Mazda ! Ashem Vohû ! »
 
-23\. « Que le fidèle coupe des branches de baresma, soit une, soit deux, soit trois ; qu'il les lie et les <span id="p334">[<sup><small>p. 334</small></sup>]</span> ligote selon les rites, étant lié et délié selon les rites.
+23\. « Que le fidèle coupe des branches de baresma, soit une, soit deux, soit trois ; qu'il les lie et les <span id="p334"><sup><small>[ p. 334 ]</small></sup></span> ligote selon les rites, étant lié et délié selon les rites.
 
 « La plus petite brindille de Haoma, pilée selon les règles, la plus petite brindille préparée pour le sacrifice, donne la royauté à l'homme (qui le fait). »
 
@@ -132,7 +132,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 26\. « Proclamez ces prières : elles purifieront votre corps des actes de luxure [^1434], ô jeune roi Vî<i>s</i>tâspa !
 
-« Je t'adorerai, ô Feu, fils d'Ahura Mazda, qui es un vaillant guerrier. » Il tombe sur le démon Ku<i>n</i>da [^1435], qui est ivre sans boire, sur les hommes du Dru<i>g</i>, les paresseux [^1436], les méchants adorateurs de Daêva, qui vivent dans le péché. <span id="p335">[<sup><small>p. 335</small></sup>]</span> 27\. « Il [^1437] tremble devant la voie [^1438] tracée par le Temps et ouverte aussi bien aux méchants qu'aux justes.
+« Je t'adorerai, ô Feu, fils d'Ahura Mazda, qui es un vaillant guerrier. » Il tombe sur le démon Ku<i>n</i>da [^1435], qui est ivre sans boire, sur les hommes du Dru<i>g</i>, les paresseux [^1436], les méchants adorateurs de Daêva, qui vivent dans le péché. <span id="p335"><sup><small>[ p. 335 ]</small></sup></span> 27\. « Il [^1437] tremble devant la voie [^1438] tracée par le Temps et ouverte aussi bien aux méchants qu'aux justes.
 
 « Ils [^1439] tremblent au parfum de son âme [^1440], comme une brebis sur laquelle tombe un loup.
 
@@ -144,7 +144,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 30\. « Avancez avec des louanges, avancez sur le chemin de la bonne loi mazdéenne et de tous ceux qui marchent dans ses voies, hommes et femmes.
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 « Celui qui veut s'emparer de la récompense céleste [^1447], la s'en emparera en faisant des dons à celui qui nous la présente [^1448] dans ce monde ici-bas [^1449] . . .
 
@@ -156,7 +156,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 32\. « Écoute-moi ! Pardonne-moi [^1455] ! » — Nous, les Amesha-Spe<i>n</i>tas, viendrons te montrer, ô Zarathu<i>s</i>tra ! le chemin vers ce monde [^1456], vers une longue gloire dans le monde spirituel, vers un long bonheur de l'âme au Paradis ;
 
-33\. 'Vers la félicité et le Paradis, vers le Garô-nmâna d'Ahura Mazda, magnifiquement fait et entièrement orné, <span id="p337">[<sup><small>p. 337</small></sup>]</span> lorsque son âme sortira de son corps par la volonté du destin, lorsque moi, Ahura Mazda, lorsque moi, Ahura Mazda, je lui montrerai doucement son chemin comme il le demande.
+33\. 'Vers la félicité et le Paradis, vers le Garô-nmâna d'Ahura Mazda, magnifiquement fait et entièrement orné, <span id="p337"><sup><small>[ p. 337 ]</small></sup></span> lorsque son âme sortira de son corps par la volonté du destin, lorsque moi, Ahura Mazda, lorsque moi, Ahura Mazda, je lui montrerai doucement son chemin comme il le demande.
 
 'Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
@@ -174,7 +174,7 @@ Zarathustra dit : « Que celui qui lui est hostile devienne un adepte de la Loi 
 
 36\. « La Loi de Mazda ne te livrera pas à la souffrance [^1462]. Tu es imploré (pour la charité) par le monde entier, et elle [^1463] se tient toujours à ta porte en la personne de tes frères dans la foi : les mendiants se tiennent toujours à la porte de l'étranger, parmi ceux qui mendient du pain.
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 « Ce pain sera toujours un charbon ardent sur ta tête [^1464].
 
@@ -204,7 +204,7 @@ Zarathustra dit : « Que celui qui lui est hostile devienne un adepte de la Loi 
 
 43\. « Comment les mondes ont été disposés t'a été dit le premier, ô Zarathustra ! Zarathustra l'a redit au jeune roi Vîstâspa ; c'est pourquoi, [^1475], tu loueras celui [^1476] qui garde et entretient la lune et le soleil. »
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 « Celui qui a peu d’amitié pour la Loi, je l’ai placé en bas pour souffrir. »
 
@@ -218,7 +218,7 @@ La première fois qu'il frappera un homme fidèle, la première fois qu'il bless
 
 45\. « Puisses-tu recevoir [^1478], ô saint jeune roi Vî<i>s</i>tâspa ! (une maison) avec cent... [^1479], dix mille grandes fenêtres, dix mille petites fenêtres, toute l'année [^1480], ô saint Vî<i>s</i>tâspa ! ne vieillissant jamais, ne mourant jamais, ne se décomposant jamais, ne pourrissant jamais, donnant beaucoup de viande, beaucoup de nourriture, beaucoup de vêtements aux autres adorateurs de Mazda.
 
-46\. « Que tous les bienfaits te soient accordés, comme je te le proclame ! Que les Amesha-Spe<i>n</i>tas te transmettent leur éclat, leur gloire et leur abondance [^1481] ! Qu'ils lui donnent des chevaux rapides et agiles et de bons fils, forts, grands en toutes choses, capables de chanter les hymnes. <span id="p341">[<sup><small>p. 341</small></sup>]</span> 47\. « Il exerce son pouvoir selon le souhait d'Ahura Mazda, le Bon Esprit, et pour la destruction du Mauvais Esprit, celui des deux hommes qui est le plus prompt à accomplir un sacrifice (à Ahura) ; mais s'il choisit d'accomplir le sacrifice et la prière pour nous de la mauvaise manière, il n'exerce pas le bon pouvoir, il ne régnera pas [^1482]. »
+46\. « Que tous les bienfaits te soient accordés, comme je te le proclame ! Que les Amesha-Spe<i>n</i>tas te transmettent leur éclat, leur gloire et leur abondance [^1481] ! Qu'ils lui donnent des chevaux rapides et agiles et de bons fils, forts, grands en toutes choses, capables de chanter les hymnes. <span id="p341"><sup><small>[ p. 341 ]</small></sup></span> 47\. « Il exerce son pouvoir selon le souhait d'Ahura Mazda, le Bon Esprit, et pour la destruction du Mauvais Esprit, celui des deux hommes qui est le plus prompt à accomplir un sacrifice (à Ahura) ; mais s'il choisit d'accomplir le sacrifice et la prière pour nous de la mauvaise manière, il n'exerce pas le bon pouvoir, il ne régnera pas [^1482]. »
 
 48\. « Il sera maltraité dans l'autre monde, bien qu'il ait été le souverain d'un pays, avec de bons chevaux à monter et de bons chars à conduire. Donne la royauté à cet homme, ô Zarathoustra ! qui te donne la royauté avec bienveillance [^1483]. »
 
@@ -226,7 +226,7 @@ La première fois qu'il frappera un homme fidèle, la première fois qu'il bless
 
 50\. « Ne me livrez pas [^1485] aux mains du démon [^1486] ; si le démon s'empare de moi, alors la fièvre et la perte de toute joie tariront le lait du bon Spe<i>n</i>ta-Ârmaiti [^1487]. Le démon est puissant pour affliger et tarir le lait de la femme qui se livre à la luxure et de toutes les femelles.
 
-51\. 'Le parfum du feu, agréable au Créateur, <span id="p342">[<sup><small>p. 342</small></sup>]</span> Ahura Mazda, les emmène [^1488] au loin ; . . . . [^1489] ; et tous ceux qui nuisent à la création du Bon Esprit sont détruits [^1490] ;
+51\. 'Le parfum du feu, agréable au Créateur, <span id="p342"><sup><small>[ p. 342 ]</small></sup></span> Ahura Mazda, les emmène [^1488] au loin ; . . . . [^1489] ; et tous ceux qui nuisent à la création du Bon Esprit sont détruits [^1490] ;
 
 52\. « Que Mithra, et Rashnu Razi<i>s</i>ta, et la Loi des adorateurs de Mazda souhaitent voir emmenés au loin, désirant ardemment un homme désireux d'accomplir et accomplissant les cérémonies qui lui ont été enseignées ; . . . [^1491]
 
@@ -240,7 +240,7 @@ La première fois qu'il frappera un homme fidèle, la première fois qu'il bless
 
 54\. Ahura Mazda répondit : « Ô mon fils, Frashao<i>s</i>tra ! Il prend place près de la tête, chantant l'U<i>s</i>tavaiti Gâtha et proclamant le bonheur : « Heureux est-il, heureux l'homme qui qu'il soit ! »
 
-« La première nuit, son âme s'assied dans les Bonnes Paroles [^1495] ; <span id="p343">[<sup><small>p. 343</small></sup>]</span> la deuxième nuit, elle s'assied dans les Bonnes Actions ; la troisième nuit, elle parcourt les chemins (vers Garô-nmâna).
+« La première nuit, son âme s'assied dans les Bonnes Paroles [^1495] ; <span id="p343"><sup><small>[ p. 343 ]</small></sup></span> la deuxième nuit, elle s'assied dans les Bonnes Actions ; la troisième nuit, elle parcourt les chemins (vers Garô-nmâna).
 
 55\. « À la fin de la troisième nuit, ô mon fils, Frashao<i>s</i>tra ! lorsque l'aube apparaît, il semble à l'âme du fidèle qu'elle soit apportée au milieu des plantes \[et des parfums : il semble qu'un vent souffle de la région du sud, des régions du sud\] [^1496], un vent au parfum doux, plus doux que tout autre vent au monde, et il semble à son âme qu'il respire ce vent avec le nez, et il demande, en disant : « D'où souffle ce vent, le vent le plus doux que j'aie jamais respiré avec mon nez ? »
 

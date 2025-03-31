@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/01700.jpg) Le manoir de Khaula est désolé, et les traces de celui-ci sur les collines pierreuses de Tahmed brillent faiblement, comme les restes de figures bleues peintes sur le dos d'une main.
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. Elle s'éloigne de ses petits et se nourrit avec le troupeau de chevreuils dans le fourré emmêlé, où elle broute les bords des fruits sauvages et se couvre d'un manteau de feuilles.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 8\. Elle sourit et montre ses dents brillantes, s'élevant de leurs bases de couleur sombre, comme une plante de troène en pleine floraison, qui perce un banc de sable pur humecté de rosée :
 
@@ -86,7 +86,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 24\. Elle les lance de sa poitrine _avec la force_ et la rapidité de câbles fermement tirés par _un bras nerveux_ ; et ses épaules sont courbées comme les chevrons d'un dôme élevé :
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 25\. Elle s'écarte rapidement du sentier : son pas est extrêmement rapide, sa tête est longue et ses os des épaules sont fortement unis à ses flancs.
 
@@ -126,7 +126,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 42\. Je secoue le fouet sur mon chameau, et elle accélère son pas, tandis que la vapeur sulfureuse roule en vagues sur les falaises brûlantes.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 43\. Elle flotte fièrement avec sa queue flottante, comme la danseuse flotte dans le banquet de son seigneur, et déploie les longues jupes blanches de son gilet traînant.
 
@@ -146,7 +146,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 51\.\* Lorsqu'elle gazouille d'une voix plus aiguë, on croirait que ses notes sont celles de chameaux pleurant leurs petits perdus.
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 52\ Ainsi je bois du vieux vin sans cesse et je jouis des délices de la vie, vendant et dissipant mes biens, tant nouvellement acquis qu'hérités ;
 
@@ -166,7 +166,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 60\. Troisièmement, pour raccourcir une journée nuageuse, une journée étonnamment sombre, en jouant avec une jolie fille délicate sous une tente soutenue par des piliers, —
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 61\. Une jeune fille dont les bracelets et les jarretières semblent suspendus aux tiges d'arbres à oshar ou de ricin, non dépouillées de leurs feuilles douces.
 
@@ -186,7 +186,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 69\. Quelle est la cause de la différence que je perçois entre moi et mon cousin Malec, qui, toutes les fois que je l'approche, se retire et s'enfuit au loin ?
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 70\ Il me censure, alors que j'ignore le motif de sa censure, tout comme Karth, le fils d'Aabed, m'a réprimandé dans l'assemblée de la tribu.
 
@@ -206,7 +206,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 78\. Mais mon parent m'étrangle avec cruauté, au moment même où je rends grâces pour les faveurs passées et où je lui demande de nouvelles, au moment même où je cherche de lui la rédemption de mon âme !
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 79\. La méchanceté des parents cause une angoisse plus vive à chaque cœur noble que le coup d'un cimeterre indien.
 
@@ -224,7 +224,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 86\. Mais le véritable frère de confiance ne cède pas au coup le plus impétueux, et quand on me dit : « Doucement », je retiens sa rage et je m'écrie : « C'est assez ! »
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 87\. Quand tout le clan se prépare à enfiler son armure avec empressement, tu pourras me trouver victorieux dans le conflit, dès que ma main pourra toucher la poignée de ce cimeterre.
 
@@ -244,7 +244,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 95\. Ne me comparez pas à un homme dont le courage n'égale pas le mien, dont les exploits ne ressemblent pas aux miens, qui n'a pas été engagé dans des combats dans lesquels je me suis distingué.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 96\. Avec un homme lent dans les nobles entreprises, mais rapide dans les basses poursuites ; déshonoré dans l'assemblée de la tribu, et un vil paria.
 

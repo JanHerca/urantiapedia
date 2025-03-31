@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 
 KAUNDINYA fut le premier des cinq moines à approcher le Bienheureux. Il dit : « J'ai écouté, ô Maître, et si vous m'en jugez digne, je serai votre disciple. »
@@ -43,7 +43,7 @@ KAUNDINYA fut le premier des cinq moines à approcher le Bienheureux. Il dit : �
 
 « Tu as compris, Kaundinya », dit le Bienheureux. « Approche. La loi est bien enseignée. Mène une vie sainte et finies les souffrances. »
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Vashpa vint alors auprès du Bouddha pour lui professer sa foi, suivi de Bhadrika, Mahanaman et Asvajit. Il y eut alors six saints dans le monde.
 
@@ -55,7 +55,7 @@ Quatre amis de Yasas, Vimala, Subahu, Purnajit et Gavampati, s'amusèrent de sa 
 
 « Allons au Parc aux Cerfs et cherchons Yasas. Nous le convaincrons de son erreur, et il reviendra avec nous. »
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 En entrant dans le bois, ils trouvèrent le Bouddha en train d'instruire ses disciples. Il disait :
 
@@ -73,7 +73,7 @@ Vimala tomba aux pieds du Bienheureux. Il professa sa foi en lui et il fut accue
 
 Chaque jour, le nombre de disciples augmentait, et bientôt le maître disposa de soixante moines prêts à propager la connaissance. Il leur dit :
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Ô disciples, je suis libre de tout lien, humain et divin. Et vous aussi, vous êtes désormais libres. Alors, ô disciples, partez, par pitié pour le monde, pour le bonheur du monde, partez. C'est à vous que Dieux et les hommes doivent leur bien-être et leur joie. Mettez-vous en route, seuls et sans partage. Et enseignez, ô disciples, enseignez la loi glorieuse, la loi glorieuse au commencement, glorieuse au milieu, glorieuse à la fin ; enseignez l'esprit de la loi ; enseignez la lettre de la loi ; à tous ceux qui entendent, proclamez la vie parfaite, pure et sainte. Il en est qui ne sont pas aveuglés par la poussière de la terre, mais ils ne trouveront pas le salut s'ils n'entendent pas la loi proclamée. Allez donc, ô disciples, allez et enseignez-leur la loi.
 

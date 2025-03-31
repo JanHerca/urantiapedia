@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T10:15:31Z
   </table>
 </figure>
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 « Au commencement était le Verbe… et le Verbe était Bon. »
 
@@ -42,7 +42,7 @@ On prétend que les croyances tendent inévitablement à s'ossifier ; que la vit
 
 Rien, au cours de l’histoire, n’a été plus douloureusement démontré que les barrières à la fraternité érigées par la rivalité des religions ; une rivalité souvent plus pleinement accentuée qu’adoucie par le zèle missionnaire.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 Mais la Source de la Spiritualité doit être une, comme Dieu est un ; et les différents langages et systèmes au moyen desquels la spiritualité s'efforce de s'affirmer, bien qu'ils contribuent largement à perpétuer la division entre les races et les hommes, ont, après tout, une origine commune qui se trouve obscure et seulement partiellement réalisable dans l'ombre du passé.
 
@@ -52,7 +52,7 @@ C'est certainement ce qui a été réalisé.
 
 Les Bahaïs revendiquent aussi l'adhésion d'au moins un tiers du peuple persan. Ils nous assurent aussi que la Lumière d'Aka a chassé les ténèbres de la division des esprits éduqués dans la méfiance, sinon dans la haine, des autres esprits. Plus encore, ils prétendent que le Bahaïsme possède et maintient haut dans la lumière des hommes la Lumière de l'Amour ; une lumière qui ne peut manquer de déchirer le voile de la séparation et de permettre à l'homme de voir et d'aimer l'autre, malgré toute divergence de nation ou d'origine, de couleur, de caste ou de croyance.
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 L’éclat de cette lumière d’amour montre l’homme à l’homme tel qu’il est, car ses rayons pénètrent les replis occultants de l’ignorance et de la suspicion qui en résulte.
 
@@ -68,7 +68,7 @@ Dans une conférence donnée par le Maître, Abbas Effendi, à Acca, il a décla
 
 « Notre perception spirituelle, notre vision intérieure doivent être ouvertes, afin que nous puissions voir les signes et les traces de l’Esprit de Dieu en toute chose. Tout peut nous parler de Dieu, tout peut nous refléter la lumière de l’Esprit. Quand nous regardons les gens, nous devons les regarder pour l’esprit qui est en eux : nous devons les voir dans leur relation avec Dieu, c’est-à-dire qu’ils sont ses créatures et lui appartiennent. Nous ne devons pas regarder les défauts et les imperfections des gens, mais l’esprit qui les fait vivre. C’est pourquoi, quand nous regardons un homme, que nous l’aimons et le louons, c’est pour les signes de Dieu sur lui que nous le louons. Nous devons toujours nous efforcer d’avoir un cœur clair et pur, afin que la lumière de l’Esprit puisse s’y refléter dans toute sa plénitude. »
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 Les différences et les distinctions créées par les croyances sont effacées par la lumière qui brille, rayonnante et imperturbable, de la source unique de toute impulsion religieuse et de toute vie religieuse. Le bahaïsme affirme que tous les grands prophètes et voyants, inspirateurs des grands mouvements religieux, étaient des manifestations de l'unique Lumière divine, de l'unique Saint-Esprit de Dieu, et que l'inspiration est essentiellement une, nonobstant les divergences induites par l'influence raciale, climatique ou sacerdotale.
 
@@ -78,7 +78,7 @@ Le Maître, Abbas Effendi, a déclaré :
 
 Invités à nous intéresser au « motif » et à l’attitude des Bahaïs, nous sommes immédiatement avertis que le secret, l’impulsion, la mise en pratique du principe fondamental de l’unité se trouvent indubitablement chez eux. Nous trouvons en eux une cohérence, une harmonie qui commandent une considération respectueuse. Leur attitude envers les hommes de tous les pays et de toutes les langues, leur acceptation philosophique et pratique de l’unité de la vraie religion, nous obligent à les reconnaître avec attention.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 Cette déclaration de Bahá'u'lláh est aussi lucide que ferme :
 
@@ -88,7 +88,7 @@ L'unification spirituelle de la race est le grand objectif du bahaïsme. Il ne p
 
 Elle considère le Royaume de Dieu comme universel plutôt que particulier dans son étendue. Chaque prophète, chaque voyant, avait son message à transmettre, et le message, correctement interprété, était « Le Seigneur notre Dieu est un seul Dieu » et non « Le Seigneur notre Dieu est pour un seul peuple ».
 
-« Ces âmes suprêmes et saintes » (les prophètes ou manifestations) « sont semblables à Dieu dans leurs attributs. Les vêtements dans lesquels elles apparaissent sont différents, mais les attributs sont les mêmes. Dans leur pouvoir réel et intrinsèque, elles manifestent la Perfection de Dieu. La réalité de Dieu en elles ne varie jamais ; seul le vêtement dans lequel la Réalité primordiale est revêtue diffère selon le moment et le lieu de leur apparition et de leur déclaration au monde. Un jour, c’est le vêtement d’Abraham, puis de Moïse, puis de Jésus, puis de Bahá’u’lláh. La connaissance de cette unité est la véritable illumination. Certains ne voient que le vêtement et adorent la Personnalité ; d’autres voient la réalité et l’adorent en esprit et en vérité. Certains Hébreux admiraient la beauté brodée du vêtement d’Abraham, mais étaient aveugles à la Vraie Lumière qui brillait sur les ténèbres du monde à travers lui. Moïse fut renié, Jésus fut renié, crucifié ; « Tous ont été reniés et persécutés pour cette raison. Les hommes voient le vêtement et sont aveugles à la réalité ; ils adorent la Personnalité et ne connaissent pas la Vérité, la Lumière elle-même. Certains adorent l’Arbre de Vie, mais ne mangent pas du Fruit béni de l’Arbre. C’est pourquoi des différences et des désaccords surgissent dans la croyance religieuse. Si tous les hommes mangeaient du Fruit lui-même, ils ne pourraient jamais être en désaccord… Les termes n’ont aucune importance. Les Fruits de l’Arbre devraient être notre désir. » <span id="p16">[<sup><small>p. 16</small></sup>]</span> Ce sont les « raisins » spirituels. Trouvez la Lumière elle-même, et il n’y aura aucune différence d’opinion ou de croyance quant à la Personnalité ou au Degré des Manifestations de Dieu. »
+« Ces âmes suprêmes et saintes » (les prophètes ou manifestations) « sont semblables à Dieu dans leurs attributs. Les vêtements dans lesquels elles apparaissent sont différents, mais les attributs sont les mêmes. Dans leur pouvoir réel et intrinsèque, elles manifestent la Perfection de Dieu. La réalité de Dieu en elles ne varie jamais ; seul le vêtement dans lequel la Réalité primordiale est revêtue diffère selon le moment et le lieu de leur apparition et de leur déclaration au monde. Un jour, c’est le vêtement d’Abraham, puis de Moïse, puis de Jésus, puis de Bahá’u’lláh. La connaissance de cette unité est la véritable illumination. Certains ne voient que le vêtement et adorent la Personnalité ; d’autres voient la réalité et l’adorent en esprit et en vérité. Certains Hébreux admiraient la beauté brodée du vêtement d’Abraham, mais étaient aveugles à la Vraie Lumière qui brillait sur les ténèbres du monde à travers lui. Moïse fut renié, Jésus fut renié, crucifié ; « Tous ont été reniés et persécutés pour cette raison. Les hommes voient le vêtement et sont aveugles à la réalité ; ils adorent la Personnalité et ne connaissent pas la Vérité, la Lumière elle-même. Certains adorent l’Arbre de Vie, mais ne mangent pas du Fruit béni de l’Arbre. C’est pourquoi des différences et des désaccords surgissent dans la croyance religieuse. Si tous les hommes mangeaient du Fruit lui-même, ils ne pourraient jamais être en désaccord… Les termes n’ont aucune importance. Les Fruits de l’Arbre devraient être notre désir. » <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> Ce sont les « raisins » spirituels. Trouvez la Lumière elle-même, et il n’y aura aucune différence d’opinion ou de croyance quant à la Personnalité ou au Degré des Manifestations de Dieu. »
 
 Cette question fut posée à Jésus le Christ par ses disciples : « Dis-nous, quel est le signe de ta présence ? » Notre Seigneur répondit : « Comme l’éclair part de l’Orient et apparaît à l’Occident, ainsi sera la présence du Fils de l’Homme. » La manifestation qui instruit le Bahaïsme aujourd’hui dit :
 
@@ -100,7 +100,7 @@ Dieu, avec toutes ses qualités, est indépendant de toutes ses créatures. Rega
 
 Sans cette Lumière, le monde ne pourrait pas grandir spirituellement.
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 La Sainte Perfection (Baha'u'llah) est venue de Perse, qui n'est pas une nation importante.
 

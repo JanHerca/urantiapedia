@@ -70,7 +70,7 @@ La femme va chez son beau-père[^7] ; comment montrera-t-elle son visage en s'en
 Au lever du jour, elle dormit profondément et oublia son voyage.
 Elle s'est séparée de toi, ô époux, et c'est pourquoi elle a accumulé du chagrin elle-même.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 En Toi, Seigneur, sont les mérites ; en moi tous les démérites : Nanak bath cette seule représentation à faire.
 Chaque nuit est pour la femme vertueuse ; puissé-je, même si je suis impudique, obtenir aussi une nuit ![^1]
@@ -93,7 +93,7 @@ Le roi rend la justice quand sa main est pleine.
 Si un homme fait une demande pour l’amour de Dieu, personne ne l’écoute.
 Nanak, les hommes _de nos jours_ ne sont des hommes que par la forme et le nom :
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 En action, ce sont des chiens ; seront-ils acceptés à la porte de Dieu ?
 Si l'homme, par la faveur de son gourou, se considère comme un invité dans ce monde,
@@ -117,7 +117,7 @@ Mets les surma[^5] aiguilles de la crainte de Dieu dans tes yeux, et
 oreille la décoration de l'amour.
 Tu seras connue comme une épouse dévouée et heureuse[^6] si tu aimes l’Époux.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Que fera une femme stupide si elle ne plaît pas à son époux ?
 Elle a beau implorer, elle ne peut pas entrer dans sa chambre.
@@ -135,7 +135,7 @@ Celle qui plaît à son époux est l'heureuse épouse Nanak, elle est la reine d
 Elle est saturée de plaisir, enivrée de bonheur[^5], et jour et nuit absorbée dans Son amour.
 Elle est belle et belle à voir, accomplie, et c'est elle seule qui est sage.[^6]
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 En entendant cet hymne, Nurshah et ses femmes enroulèrent leurs coiffes autour de leur cou en signe de soumission et tombèrent aux pieds du gourou. Elles demandèrent comment elles pourraient obtenir le salut. Le gourou leur dit de répéter le nom de Dieu, d'accomplir consciencieusement leurs devoirs domestiques et de renoncer à la magie, afin d'assurer leur bonheur futur. On dit qu'elles devinrent les disciples de Guru Nanak et obtinrent ainsi le salut.
 
@@ -159,7 +159,7 @@ Que le cygne fasse de la peur sa nourriture, sa boisson et son soutien. Sans une
 Que chacun dise qui a une aide.
 Tout est à toi ; tu es le secours de tous.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Nanak, nommer et méditer sur Celui à qui appartient
 Les hommes, les animaux inférieurs, la richesse et la propriété sont difficiles.[^1]
@@ -178,7 +178,7 @@ Puisse-t-il arriver qu’en voyant ces choses je t’oublie, _ô Dieu_, et que j
 Mon âme brûle sans toi.
 J'ai appris de mon gourou qu'il n'y a pas d'autre refuge qu'en Dieu.
 Si la terre était parsemée de diamants et de rubis, et si ma couche était ornée de la même manière,
-C'étaient de fascinantes demoiselles dont les visages étaient ornés de bijoux pour faire briller et rehausser le plaisir de la scène <span id="p80">[<sup><small>p. 80</small></sup>]</span> Puisse-t-il arriver qu'en les voyant je t'oublie et que je ne me souvienne pas de ton nom !
+C'étaient de fascinantes demoiselles dont les visages étaient ornés de bijoux pour faire briller et rehausser le plaisir de la scène <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> Puisse-t-il arriver qu'en les voyant je t'oublie et que je ne me souvienne pas de ton nom !
 
 Si je devenais un Sidh et accomplissais des miracles, pourrais-je ordonner que la richesse de l'univers vienne à moi ;
 Pourrais-je disparaître et apparaître à mon gré, et si le monde m'honorait ;
@@ -202,7 +202,7 @@ Que le Créateur préserve ici et dans l'au-delà l'honneur de Nanak !
 
 Le gourou composa alors l'hymne suivant dans le Rag Malar :
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 La mort est oubliée au milieu de la nourriture et de la boisson, du rire et du sommeil.
 En oubliant le Seigneur, l’homme s’est ruiné et a rendu sa vie maudite ; il ne doit pas demeurer ici.
@@ -223,12 +223,12 @@ Le gourou et Mardana ne restèrent pas longtemps dans ce village. Mardana demand
 
 Les habitants du village suivant où ils arrivèrent leur témoignèrent une grande attention. Ils n'y restèrent cependant qu'une nuit et partirent le lendemain matin. Le gourou, en partant, dit que le village devait être abandonné. Alors Mardana fit cette remarque : « Seigneur, tu as béni le village où nous n'avons pas été autorisés à nous asseoir ; et tu as maudit celui qui nous a témoigné tant d'attention et de bonté. » Le gourou répondit : « Mardana, si les habitants du premier village déménagent dans un autre, ils le ruineront ; mais si les habitants du second déménagent dans un autre, ils le sauveront. »
 
-Le gourou revint de Kamrup par le grand fleuve Brahmapoutre, puis fit un voyage côtier jusqu'à Puri, dans la baie du Bengale, où Vishnu ou <span id="p82">[<sup><small>p. 82</small></sup>]</span> Krishan, sous le nom de Jagannath, seigneur du monde, est particulièrement vénéré. Le soir, lorsque les lampes étaient allumées, le gourou était invité par le grand prêtre à se lever et à se joindre au culte du dieu, qui était d'un caractère magnifique et imposant. Dans ce temple, de riches offrandes au dieu étaient faites sur des plateaux incrustés de perles. Sur les plateaux étaient placés des fleurs et des encensoirs. Un éventail était utilisé pour exciter les flammes de l'encens, tandis que les lampes tout autour éclairaient le temple. Mais l'usage de ces objets témoignait d'un culte artificiel, tandis que l'étendue du firmament, le soleil et la lune, la procession des étoiles, l'encens naturel du santal, les vents et les forêts étaient les accessoires appropriés du culte plus pur que Nanak rendait au Dieu créateur. Le gourou, au lieu d'accepter l'invitation du grand prêtre à adorer l'idole, leva les yeux au ciel et entonna l'hymne suivant :
+Le gourou revint de Kamrup par le grand fleuve Brahmapoutre, puis fit un voyage côtier jusqu'à Puri, dans la baie du Bengale, où Vishnu ou <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> Krishan, sous le nom de Jagannath, seigneur du monde, est particulièrement vénéré. Le soir, lorsque les lampes étaient allumées, le gourou était invité par le grand prêtre à se lever et à se joindre au culte du dieu, qui était d'un caractère magnifique et imposant. Dans ce temple, de riches offrandes au dieu étaient faites sur des plateaux incrustés de perles. Sur les plateaux étaient placés des fleurs et des encensoirs. Un éventail était utilisé pour exciter les flammes de l'encens, tandis que les lampes tout autour éclairaient le temple. Mais l'usage de ces objets témoignait d'un culte artificiel, tandis que l'étendue du firmament, le soleil et la lune, la procession des étoiles, l'encens naturel du santal, les vents et les forêts étaient les accessoires appropriés du culte plus pur que Nanak rendait au Dieu créateur. Le gourou, au lieu d'accepter l'invitation du grand prêtre à adorer l'idole, leva les yeux au ciel et entonna l'hymne suivant :
 
 Le soleil et la lune, ô Seigneur, sont tes lampes ; le firmament, ton plateau ; les orbes des étoiles, les perles qui y sont enchâssées.
 Le parfum du santal[^1] est ton encens ; le vent est ton éventail[^2] ; toutes les forêts sont tes fleurs, ô Seigneur de lumière.[^3]
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Quel culte est-ce, ô Toi, Destructeur de la naissance ?[^1] Les trompettes de ton adoration sont des accords d'extase ininterrompus.
 Tu as mille yeux et pourtant pas un seul[^2] œil ; Tu as mille formes et pourtant pas une seule forme ;[^3]
@@ -241,7 +241,7 @@ Ce qui te plaît est le véritable arati.[^5]
 Ô Dieu, mon esprit est fasciné par tes pieds de lotus comme le bourdon par la fleur : nuit et jour j'en ai soif.
 Donne l'eau de Ta grâce au sarang[^6] Nanak, afin qu'il puisse demeurer en Ton nom,[^7]
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 À Jagannath, Guru Nanak rencontra un brahmane qui gardait les yeux et le nez clos afin de ne pas ressentir de plaisir de ces organes. Il affirma que dans cet état, il voyait, grâce à ses yeux mentaux, les secrets du monde. Nanak cacha son lota et le brahmane ne put le trouver. Aussi, par l'hymne suivant, en mesure dhanasari, le taquina-t-il sur son manque d'omniscience :
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T18:16:44Z
   </table>
 </figure>
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Je tiens à exprimer ma reconnaissance au professeur E. H. Whinfield, dont le livre, la traduction standard du Gulshan i Rāz, m'a été d'une grande aide pour la rédaction de ce petit volume. Je suis reconnaissant au Dr. R. A. Nicholson pour m'avoir aimablement autorisé à citer des passages de ses ouvrages sur le soufisme, et au capitaine L. Cranmer-Byng. Je lui adresse mes plus sincères remerciements pour son aimable intérêt pour mon travail et pour ses nombreux conseils et suggestions utiles.
 

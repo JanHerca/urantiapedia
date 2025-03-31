@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 ## III. PRIÈRE POUR OBTENIR L'AMOUR DIVIN.
 

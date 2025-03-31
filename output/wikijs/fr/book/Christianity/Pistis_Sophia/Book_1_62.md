@@ -44,7 +44,7 @@ Jacques interprète la neuvième repentance du Psaume xxxiv.
 
 « 2. Posez la main sur l'arme et le bouclier et levez-vous pour m'aider.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 « 3. Tire une épée et cache-la à mes oppresseurs. Dis à mon âme : Je suis ton salut.
 
@@ -116,13 +116,13 @@ Jésus lui dit : « Bien dit, Marie. »
 
 Jésus continua et dit à ses disciples : « Il arriva alors, lorsque Pistis Sophia eut proclamé la neuvième repentance, que la puissance à face de lion l'opprima de nouveau, voulant lui enlever tous ses pouvoirs. Elle cria de nouveau à la Lumière, en disant : **(99)**
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 « Ô Lumière, en qui j’ai eu foi dès le commencement, pour qui j’ai enduré ces grandes souffrances, aide-moi. »
 
 Et à cette heure-là, son repentir fut accepté. Le Premier Mystère l'exauça, et je fus envoyé sur son ordre. Je vins à son secours et la guidai hors du chaos, parce qu'elle s'était repentie, et aussi parce qu'elle avait eu foi en la Lumière et avait enduré ces grandes souffrances et ces grands périls. Elle avait été trompée par l'Obstination divine, et ne l'avait été par rien d'autre, si ce n'est par une puissance lumineuse, en raison de sa ressemblance avec la Lumière en laquelle elle avait eu foi. C'est pourquoi, sur l'ordre du Premier Mystère, je fus envoyé pour l'aider secrètement. Cependant, je ne me rendis pas encore dans la région des éons ; mais je traversai leur milieu, hors d'eux, sans qu'aucune puissance, ni celles de l'intérieur de l'intérieur, ni celles de l'extérieur de l'extérieur, ne le sache, si ce n'est le Premier Mystère.
 
-« Il arriva alors, lorsque je suis entré dans le chaos pour l'aider, qu'elle me vit, que j'étais compréhensif, que je brillais extrêmement et que j'étais plein de compassion pour elle. Car je n'étais pas obstiné comme la puissance à face de lion, qui avait ôté à Sophia son pouvoir lumineux et l'avait opprimée pour lui ravir toute sa lumière. Sophia me vit alors, que je brillais dix mille fois plus que la puissance à face de lion, **(100)**, et que j'étais plein de compassion pour elle. Et elle sut que je venais du Très-Haut, en la lumière duquel elle avait eu foi dès le commencement. Pistis Sophia <span id="p83">[<sup><small>p. 83</small></sup>]</span> prit alors courage et prononça le dixième repentir, en disant :
+« Il arriva alors, lorsque je suis entré dans le chaos pour l'aider, qu'elle me vit, que j'étais compréhensif, que je brillais extrêmement et que j'étais plein de compassion pour elle. Car je n'étais pas obstiné comme la puissance à face de lion, qui avait ôté à Sophia son pouvoir lumineux et l'avait opprimée pour lui ravir toute sa lumière. Sophia me vit alors, que je brillais dix mille fois plus que la puissance à face de lion, **(100)**, et que j'étais plein de compassion pour elle. Et elle sut que je venais du Très-Haut, en la lumière duquel elle avait eu foi dès le commencement. Pistis Sophia <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> prit alors courage et prononça le dixième repentir, en disant :
 
 <small>Le dixième repentir de Sophia.</small>
 
@@ -156,7 +156,7 @@ Pierre répondit et dit : « Seigneur, c'est à ce sujet que ta lumière a proph
 
 « 4. Les flèches du fort sont aiguisées par le charbon du désert.
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 « 5. Malheur à moi, car ma demeure est éloignée, et j'habite sous les tentes de Kédar.
 
@@ -224,7 +224,7 @@ Or, lorsque Jésus entendit ces paroles de Salomé, il dit : « Bien dit, Salom�
 
 <small>L'obstination aide ses émanations et elles oppriment à nouveau Sophia.</small>
 
-Jésus poursuivit son discours et dit à ses disciples : « Il arriva ensuite que je m'approchai du chaos, brillant d'une brillance extrême, pour ôter la lumière à cette puissance à face de lion. Comme je brillais extrêmement, elle fut prise de peur et implora son dieu entêté de l'aider. Et aussitôt, le dieu entêté regarda du treizième éon et regarda le chaos, extrêmement courroucé **(105)** et désirant aider sa puissance à face de lion. Et aussitôt, la puissance à face de lion, <span id="p87">[<sup><small>p. 87</small></sup>]</span> et toutes ses émanations, encerclèrent Pistis Sophia, désirant « ôter toute lumière à Sophia ». Il arriva alors, lorsqu'ils opprimèrent Sophia, qu'elle cria vers le ciel, me suppliant de l'aider. Il arriva Puis, lorsqu'elle leva les yeux vers le ciel, elle vit Obstiné extrêmement courroucé. Elle fut prise de peur et prononça un douzième repentir à cause d'Obstiné et de ses émanations. Elle cria vers moi, en haut, en disant :
+Jésus poursuivit son discours et dit à ses disciples : « Il arriva ensuite que je m'approchai du chaos, brillant d'une brillance extrême, pour ôter la lumière à cette puissance à face de lion. Comme je brillais extrêmement, elle fut prise de peur et implora son dieu entêté de l'aider. Et aussitôt, le dieu entêté regarda du treizième éon et regarda le chaos, extrêmement courroucé **(105)** et désirant aider sa puissance à face de lion. Et aussitôt, la puissance à face de lion, <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> et toutes ses émanations, encerclèrent Pistis Sophia, désirant « ôter toute lumière à Sophia ». Il arriva alors, lorsqu'ils opprimèrent Sophia, qu'elle cria vers le ciel, me suppliant de l'aider. Il arriva Puis, lorsqu'elle leva les yeux vers le ciel, elle vit Obstiné extrêmement courroucé. Elle fut prise de peur et prononça un douzième repentir à cause d'Obstiné et de ses émanations. Elle cria vers moi, en haut, en disant :
 
 <small>Le douzième repentir de Sophia.</small>
 
@@ -246,7 +246,7 @@ Jésus poursuivit son discours et dit à ses disciples : « Il arriva ensuite qu
 
 « 9. Que tous les pouvoirs de son émanation soient sans lumière et que sa matière soit sans aucune lumière en elle.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 « 10. Que ses émanations demeurent dans le chaos et n'osent pas rejoindre leur région. Que leur lumière s'éteigne en elles et qu'elles n'atteignent pas le treizième éon, leur région.
 
@@ -264,7 +264,7 @@ Jésus poursuivit son discours et dit à ses disciples : « Il arriva ensuite qu
 
 17. Ils ont aimé descendre dans le chaos ; qu'ils y demeurent donc, et ils n'en seront plus jamais retirés. Ils n'ont pas désiré la région de la justice pour demeure, et ils n'y seront plus jamais ramenés.
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 18. Il revêtit les ténèbres comme un vêtement, elles entrèrent en lui comme de l'eau, et pénétrèrent dans toutes ses entrailles comme de l'huile.
 
@@ -292,7 +292,7 @@ Et André s'avança et dit : « Mon Seigneur et Sauveur, ta puissance lumineuse 
 
 « 1. Dieu, ne reste pas silencieux lorsque je chante tes louanges.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 <small>André interprète la douzième repentance du Psaume cviii.</small>
 
@@ -410,7 +410,7 @@ Jésus poursuivit son discours et dit à ses disciples : « Il arriva alors, lor
 
 6. Et que leur résolution, qu'ils ont formée, de m'ôter mon pouvoir, ne s'accomplisse pas pour eux. Et comme ils ont parlé contre moi pour m'ôter ma lumière, ôtez-leur plutôt la leur que la mienne.
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 « 7. Et ils ont proposé de m'enlever toute ma lumière, et ils n'ont pas pu la prendre, car ta puissance lumineuse était avec moi.
 
@@ -474,7 +474,7 @@ Et Marie, la mère de Jésus, répondit et dit : « Mon Seigneur, ta puissance l
 
 « 1. L'Éternel est sur ma tête comme une couronne, et je ne m'éloignerai pas de lui.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 <small>Marie, sa mère, interprète le chant de Sophia de la xixe ode de Salomon.</small>
 
@@ -506,7 +506,7 @@ Marie s'avança de nouveau et dit : « Mon Seigneur, je comprends ce que tu dis.
 
 « 11. La vérité a germé de la terre, et la justice a regardé du haut du ciel. »
 
-« La grâce est donc la puissance lumineuse descendue du Premier Mystère ; car le Premier Mystère a écouté Pistis Sophia et a eu pitié d'elle dans toutes ses tribulations. La vérité, quant à elle, est la puissance qui est sortie de toi, car tu as accompli la vérité, afin de la sauver du chaos. Et la justice est à nouveau la puissance qui est sortie du Premier Mystère, qui guidera Pistis Sophia. Et la paix est à nouveau la puissance qui est sortie de toi, afin qu'elle pénètre dans les émanations des Obstinés et leur retire les lumières qu'elles ont retirées à Pistis Sophia, c'est-à-dire afin que tu puisses les rassembler en Pistis Sophia et les rendre en paix avec <span id="p100">[<sup><small>p. 100</small></sup>]</span> sa puissance. La « vérité », en revanche, est la puissance qui est sortie de toi, lorsque tu étais dans les régions inférieures du chaos. C'est pourquoi ta puissance a été révélée par David.
+« La grâce est donc la puissance lumineuse descendue du Premier Mystère ; car le Premier Mystère a écouté Pistis Sophia et a eu pitié d'elle dans toutes ses tribulations. La vérité, quant à elle, est la puissance qui est sortie de toi, car tu as accompli la vérité, afin de la sauver du chaos. Et la justice est à nouveau la puissance qui est sortie du Premier Mystère, qui guidera Pistis Sophia. Et la paix est à nouveau la puissance qui est sortie de toi, afin qu'elle pénètre dans les émanations des Obstinés et leur retire les lumières qu'elles ont retirées à Pistis Sophia, c'est-à-dire afin que tu puisses les rassembler en Pistis Sophia et les rendre en paix avec <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> sa puissance. La « vérité », en revanche, est la puissance qui est sortie de toi, lorsque tu étais dans les régions inférieures du chaos. C'est pourquoi ta puissance a été révélée par David.
 
 « La vérité a germé de la terre », parce que tu étais dans les régions inférieures du chaos. La « justice », en revanche, qui a « regardé du haut du ciel », est la puissance qui est descendue des hauteurs par le Premier Mystère et est entrée dans Pistis Sophia. »
 
@@ -528,7 +528,7 @@ Marie répondit : « Seigneur, au sujet de la parole que ta puissance a prophét
 
 <small>Des corps spirituels et matériels de Jésus.</small>
 
-Voici donc le mot et sa solution. La « Grâce » est l'esprit descendu des hauteurs par le Premier Mystère, car il a eu pitié de la race humaine et a envoyé son esprit pour pardonner les péchés du monde entier, afin qu'ils reçoivent les mystères et héritent du Royaume de Lumière. La « Vérité », quant à elle, est la puissance qui a séjourné avec moi. Lorsqu'elle est sortie de Barbēlō, <span id="p102">[<sup><small>p. 102</small></sup>]</span> elle est devenue corps matériel pour toi et a proclamé la région de la Vérité. La « Justice » est ton esprit, qui a fait descendre les mystères des hauteurs pour les donner à la race humaine. La « paix », quant à elle, est la puissance qui a séjourné dans ton corps matériel selon le monde, qui a baptisé la race humaine, jusqu'à ce qu'elle la rende étrangère au péché et la réconcilie avec ton esprit, afin qu'elle soit en paix avec les émanations de la Lumière ; autrement dit, « la grâce et la vérité se sont embrassées ». Comme il est dit : « La vérité a germé de la terre », la « vérité » est ton corps matériel **(122)** qui a germé de moi selon le monde des hommes, et a proclamé la région de la Vérité. Et comme il est dit encore : « La justice a regardé du haut du ciel », la « justice » est la puissance qui a regardé du haut des cieux, qui donnera les mystères de la Lumière à la race humaine, afin qu'elle devienne juste et bonne, et hérite du Royaume de Lumière.
+Voici donc le mot et sa solution. La « Grâce » est l'esprit descendu des hauteurs par le Premier Mystère, car il a eu pitié de la race humaine et a envoyé son esprit pour pardonner les péchés du monde entier, afin qu'ils reçoivent les mystères et héritent du Royaume de Lumière. La « Vérité », quant à elle, est la puissance qui a séjourné avec moi. Lorsqu'elle est sortie de Barbēlō, <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> elle est devenue corps matériel pour toi et a proclamé la région de la Vérité. La « Justice » est ton esprit, qui a fait descendre les mystères des hauteurs pour les donner à la race humaine. La « paix », quant à elle, est la puissance qui a séjourné dans ton corps matériel selon le monde, qui a baptisé la race humaine, jusqu'à ce qu'elle la rende étrangère au péché et la réconcilie avec ton esprit, afin qu'elle soit en paix avec les émanations de la Lumière ; autrement dit, « la grâce et la vérité se sont embrassées ». Comme il est dit : « La vérité a germé de la terre », la « vérité » est ton corps matériel **(122)** qui a germé de moi selon le monde des hommes, et a proclamé la région de la Vérité. Et comme il est dit encore : « La justice a regardé du haut du ciel », la « justice » est la puissance qui a regardé du haut des cieux, qui donnera les mystères de la Lumière à la race humaine, afin qu'elle devienne juste et bonne, et hérite du Royaume de Lumière.
 
 Or, lorsque Jésus entendit ces paroles de Marie, sa mère, il dit : « C’est bien dit, Marie. »
 
@@ -548,7 +548,7 @@ Et il arriva, lorsque Jésus entendit Marie dire ces paroles, qu’il dit : « C
 
 <small>Marie, la mère, interprète encore davantage la même Écriture à partir de sa rencontre avec Élisabeth, mère de Jean-Baptiste.</small>
 
-Et Marie, la mère de Jésus, s'avança de nouveau, tomba à ses pieds, les embrassa et dit : « Mon Seigneur, mon fils et mon Sauveur, ne sois pas en colère contre moi, mais pardonne-moi, afin que je puisse une fois de plus donner la solution de ces paroles. « La grâce et la vérité se sont rencontrées » — c'est moi, Marie, <span id="p104">[<sup><small>p. 104</small></sup>]</span> ta mère, et Élisabeth, mère de Jean, que j'ai rencontrées. **(124)** « Grâce » est donc la puissance de Sabaoth en moi, qui est sortie de moi, que tu es. Tu as eu pitié de toute la race humaine. « Vérité », d'autre part, est la puissance en Élisabeth, qui est Jean, qui est venu et a proclamé la voie de la Vérité, que tu es, qui a fait la proclamation devant toi. Et encore : « Grâce et vérité se sont rencontrées » — c'est-à-dire « Toi, mon Seigneur, toi qui as rencontré Jean le jour où tu devais recevoir le baptême. Et de nouveau, toi et Jean, vous êtes « embrassés par la justice et la paix de l'incarnation de Jésus. » — « La vérité a germé de la terre, et la justice a regardé du haut du ciel » — c'est-à-dire, pendant le temps où tu te servais toi-même, tu avais la forme de Gabriel, tu m'as regardé du haut du ciel et tu m'as parlé. Et après m'avoir parlé, tu as germé en moi — c'est la « vérité », c'est la puissance de Sabaoth, le Bien, qui est dans ton corps matériel, c'est la « vérité » qui a « germé de la terre ». »
+Et Marie, la mère de Jésus, s'avança de nouveau, tomba à ses pieds, les embrassa et dit : « Mon Seigneur, mon fils et mon Sauveur, ne sois pas en colère contre moi, mais pardonne-moi, afin que je puisse une fois de plus donner la solution de ces paroles. « La grâce et la vérité se sont rencontrées » — c'est moi, Marie, <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> ta mère, et Élisabeth, mère de Jean, que j'ai rencontrées. **(124)** « Grâce » est donc la puissance de Sabaoth en moi, qui est sortie de moi, que tu es. Tu as eu pitié de toute la race humaine. « Vérité », d'autre part, est la puissance en Élisabeth, qui est Jean, qui est venu et a proclamé la voie de la Vérité, que tu es, qui a fait la proclamation devant toi. Et encore : « Grâce et vérité se sont rencontrées » — c'est-à-dire « Toi, mon Seigneur, toi qui as rencontré Jean le jour où tu devais recevoir le baptême. Et de nouveau, toi et Jean, vous êtes « embrassés par la justice et la paix de l'incarnation de Jésus. » — « La vérité a germé de la terre, et la justice a regardé du haut du ciel » — c'est-à-dire, pendant le temps où tu te servais toi-même, tu avais la forme de Gabriel, tu m'as regardé du haut du ciel et tu m'as parlé. Et après m'avoir parlé, tu as germé en moi — c'est la « vérité », c'est la puissance de Sabaoth, le Bien, qui est dans ton corps matériel, c'est la « vérité » qui a « germé de la terre ». »
 
 Or, lorsque Jésus entendit sa mère Marie prononcer ces paroles, il dit : « C'est bien dit, et c'est très bien. Voilà la solution de toutes les paroles que ma puissance lumineuse a prophétisées autrefois par le prophète David. »
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 ## XIII. Le premier Amanuensis du Prophète.
 
@@ -60,7 +60,7 @@ Ce ruisseau trouble n'avait jamais coulé de là, abondamment.
 Ne se souciant pas d'exposer son scribe à tous ses amis,
 <sup id="v10"><small>10</small></sup> Le Prophète garda le silence, pour regarder la fin de l'aventure.
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 Le cœur du scribe s'endurcit de plus en plus à mesure que le temps passait.
 Il n'éprouva aucun repentir, et son orgueil grandit.
@@ -97,7 +97,7 @@ Ne désespère pas, prends consolation pour ton âme ;
 « Toi, Amant du pardon, accorde-moi ton pardon !
 Médecin de l'âme ! Soulage mon terrible besoin !
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 Un tel conseil sage a rendu fou ce pécheur égaré, complètement.
 Ne pense pas à lui, cela fatiguerait ton esprit au-delà du répit.
@@ -135,7 +135,7 @@ Mais reste jusqu'à ce que je parte : alors tu verras tout de suite.
 Tes amants alors détesteront tes charmes, adorés auparavant.
 Aux vers, aux crapauds et aux serpents ils te jetteront comme une réserve bon marché.
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Ta puanteur le fera se boucher le nez avec un profond dégoût,
 Qui naguère en ta présence aurait léché la poussière.
@@ -168,7 +168,7 @@ Tandis qu'eux-mêmes son sport sont, dans son poing maudit.
 Tu n'as jamais vu le diable ? Regarde-toi toi-même !
 Qui peindrait son front en bleu, à moins d'être trompé par un elfe ?[^355]
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 Quiconque a un doute ou un trouble dans son esprit,
 En secret, il y a un philosophe, comme vous pouvez le constater.
@@ -201,7 +201,7 @@ Jusqu'à ce qu'il enviât Adam dans son cœur pervers ?
 Le fils de Beor, Balaam, dans l'estime du monde,
 Il était égal à Moïse, ainsi que tous les hommes le considéraient.
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 À lui seul était rendu hommage par les grands et les petits ;
 Ses prières étaient considérées comme un remède à chaque malheur.
@@ -236,7 +236,7 @@ Leur sang peut être légalement versé pour les besoins de l'homme ;
 La brute est tenue à un bas degré sur notre terre ;
 Comme étant mis en balance avec la valeur supérieure du grand homme.
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 Quelle valeur sera attachée à toi, toi le fou invétéré,
 Si, comme un âne, tu méprises l'école des seigneurs de la raison ?
@@ -273,7 +273,7 @@ Ce n’est pas le duvet soyeux des chardons qu’il fend.
 Une flamme ne s'éteint pas, même si de nombreuses épines s'accumulent ;
 Des troupeaux entiers de moutons ne peuvent jamais être détournés par le couteau du boucher.
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 Le signe extérieur doit céder à la puissance de l'idée intérieure.
 Ce pouvoir, c'est lui, qui fait tourner le vaste champ étoilé des cieux.
@@ -307,7 +307,7 @@ Ce ne sont que les feuilles d'automne soufflées par les vents sauvages.
 Nous nous détournons maintenant de ce sujet, encore plus intéressant,
 Pour en savoir plus sur ces anges, victimes de leur propre volonté.
 
-<span id="p242">[<sup><small>p. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 Les péchés de toute l'humanité leur étaient connus comme certains ;
 Aucune méchanceté n'échappe au regard des esprits purs.
@@ -344,7 +344,7 @@ Aurait-il aussi appris son amour la rose à rencontrer ?
 S'il parvient à se faire une idée de l'intention de cet amour ;
 Ce ne serait qu'une simple conjecture, comme le consentement d'un sourd.
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 Un homme sourd fut un jour sensibilisé par un ami bienveillant,
 À côté de chez lui vivait un invalide, près de sa fin.
@@ -378,7 +378,7 @@ Deafy a demandé : « Quels conseils ne vous guident pas sur votre chemin ? »
 « La mort suit mes heures ! dit-il ; laissez-moi maintenant me reposer. »
 L'autre répondit : « On ne peut pas trouver mieux, c'est lui le meilleur. »
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 Le visiteur se retira, tout content de son riche art ;
 Et je l'ai remercié pour avoir joué un rôle si aimable.
@@ -415,7 +415,7 @@ Méfiez-vous de l'offense à donner, en offrant un baiser !
 Le Prophète a dit que l'on était hypocrite, il le savait :
 « Va, adore, ami ; ton acte n'est pas une adoration, à mon avis ! »
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 De peur que nous ne péchions, même pendant que nous prions,
 <sup id="v165"><small>165</small></sup> Notre culte contient la prière : « Seigneur, guide-nous dans ton chemin ! »[^363]
@@ -449,7 +449,7 @@ Toi, fils du feu, va-t'en, déshonoré, maudit, pas trop tôt !
 Enquêtes, raisonnements, par jours de nuage,
 La nuit, dans l'obscurité, guide la foule incrédule ;
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 Mais, quand le soleil brille, quand le temple de Dieu est clairement visible,
 Il ne reste aucun doute sur la direction dans laquelle on doit tourner son visage, je pense.
@@ -478,7 +478,7 @@ Ils chantaient autrefois avec fierté : « Nous sommes les élus de Dieu », juv
 Vous priez pour la grâce sur tous les péchés des hommes méchants ;
 <sup id="v190"><small>190</small></sup> Vous maudissez votre propre égoïsme immonde, la cupidité est affamée.
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 Prenez garde que la juste jalousie de Dieu n'éclate,
 Et te frappera à terre, pour ne plus jamais te relever.

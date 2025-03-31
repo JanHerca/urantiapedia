@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 Préface, p. 307, l. 1-10. — Ka‘b, le poète, et Mahomet, le législateur, descendaient, respectivement par seize et dix-sept degrés (et non dix-sept et quinze, comme indiqué dans la préface), d’Ilyās, le fils de Mudhar, le fils de Nizār, le fils de ‘Adnān ; comme le montrent les généalogies ci-jointes, toutes deux tirées du « Dictionnaire biographique » d’An-Nawawī, édité par Wüstenfeld : Göttingen, 1842-47. Celle de Mahomet est identique à celle que l’on trouve dans la p. 1, texte, de « La vie de Mahomet » d’Ibn Hishām, par le même éditeur ; Londres, 1867. Les translittérations sont dues au traducteur. Sir W. Jones, dans sa « Généalogie des sept poètes arabes », place « Mozeinah » (lire Muzayna) à la place de « Amr », comme numéro 3, dans la descendance de Zuhayr, le père de Ka‘b. Muzayna était peut-être un nom de famille de « Amr », comme Abū Sulmà était celui de Rabī‘a.
 
-<span id="p460">[<sup><small>p. 460</small></sup>]</span>
+<span id="p460"><sup><small>[ p. 460 ]</small></sup></span>
 
 Sir W. Jones ajoute un nom, « 'Awàmer, » entre Qaratz et Riyāh — par lui écrit « Kerth » et « Reiáhh » — mais Nawawī ne l'a pas.
 

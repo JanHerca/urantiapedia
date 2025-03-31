@@ -36,7 +36,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 **M**.V. 1. Les hommes ne se tiennent [^218] debout pour prier qu'avec solennité. [^219] Les pieux d'autrefois avaient l'habitude d'attendre une heure et de prier ensuite, afin de pouvoir diriger leur intention vers Dieu. [^220] Si le Roi [^221] le salue, qu'il ne lui rende pas la pareille
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 **M**.salutation. Et même si un serpent [^222] tournait autour de son talon, il ne devrait pas s'arrêter.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 5\. R. Judah a dit : Quand R. Aqiba priait avec la congrégation, il avait l'habitude de raccourcir \[ses prières, en se dépêchant\] devant eux tous ; quand il priait tout seul, si un homme le laissait de ce côté (de la pièce), il revenait et le trouvait de l'autre côté, à cause des inclinations et des prosternations qu'il avait l'habitude de faire. [^228]
 
-6\. Peut-être un homme devrait-il prier toute la journée ? Il a clairement dit à propos de Daniel : « trois fois par jour il était à genoux », [^229] etc. Peut-être était-ce à partir du moment où il est entré en captivité ? Il est expressément dit : « comme il le faisait auparavant. » Peut-être devrait-on le dire assez fort pour l’entendre ? Il l’a clairement dit à <span id="p37">[<sup><small>p. 37</small></sup>]</span> le cas d'Anne : « _Or Anne, elle parlait dans son cœur_, [^230] etc. Peut-être devrions-nous les inclure tous (les Dix-huit) en une seule séance ? Il a expressément déclaré dans le cas de David : « _Soir, matin et midi_ », [^231] etc. « Soir », c'est-à-dire la prière du soir ; « matin », c'est-à-dire la prière du matin ; « midi », c'est-à-dire la prière de l'après-midi (Minchah). Peut-être devrait-on demander ce dont on a besoin et ensuite partir (sans dire la bénédiction) ? Il a expressément déclaré dans le cas de Salomon : « _écouter le cri et la prière_ », [^232] « crier », c'est-à-dire chanter (en louange), et c'est pourquoi il dit : « _Criez à haute voix, vous les justes, dans le Seigneur_ », [^233] etc. Nous ne disons rien après « Vrai et sûr », [^234] mais nous disons des choses après la Prière, même s'il s'agit de l'Ordre de la Confession du Jour des Expiations. [^235]
+6\. Peut-être un homme devrait-il prier toute la journée ? Il a clairement dit à propos de Daniel : « trois fois par jour il était à genoux », [^229] etc. Peut-être était-ce à partir du moment où il est entré en captivité ? Il est expressément dit : « comme il le faisait auparavant. » Peut-être devrait-on le dire assez fort pour l’entendre ? Il l’a clairement dit à <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> le cas d'Anne : « _Or Anne, elle parlait dans son cœur_, [^230] etc. Peut-être devrions-nous les inclure tous (les Dix-huit) en une seule séance ? Il a expressément déclaré dans le cas de David : « _Soir, matin et midi_ », [^231] etc. « Soir », c'est-à-dire la prière du soir ; « matin », c'est-à-dire la prière du matin ; « midi », c'est-à-dire la prière de l'après-midi (Minchah). Peut-être devrait-on demander ce dont on a besoin et ensuite partir (sans dire la bénédiction) ? Il a expressément déclaré dans le cas de Salomon : « _écouter le cri et la prière_ », [^232] « crier », c'est-à-dire chanter (en louange), et c'est pourquoi il dit : « _Criez à haute voix, vous les justes, dans le Seigneur_ », [^233] etc. Nous ne disons rien après « Vrai et sûr », [^234] mais nous disons des choses après la Prière, même s'il s'agit de l'Ordre de la Confession du Jour des Expiations. [^235]
 
 14\. L'aveugle, et quiconque est incapable de déterminer la direction dans laquelle il regarde, dirige ses pensées vers Dieu [^236] et prie ; car il est dit : « _et ils prieront vers l'Éternel_. » [^237]
 
@@ -68,7 +68,7 @@ Ainsi, un homme ne devrait pas quitter son compagnon immédiatement après une c
 
 **T**. III. 9. S'il n'a pas fait mention de la puissance des pluies dans la Bénédiction de la Résurrection des morts, et n'a pas demandé les pluies dans la Bénédiction des années, il doit être renvoyé.
 
-S'il n'a pas dit la Habdalah à « Toi qui donnes gracieusement la connaissance », il la dit sur la <span id="p40">[<sup><small>p. 40</small></sup>]</span> coupe. [1](Berakoth_2_5#fn_256) S'il ne l'a pas dit \[là\], il doit être renvoyé.
+S'il n'a pas dit la Habdalah à « Toi qui donnes gracieusement la connaissance », il la dit sur la <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> coupe. [1](Berakoth_2_5#fn_256) S'il ne l'a pas dit \[là\], il doit être renvoyé.
 
 R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action de grâces pour la terre [2](Berakoth_2_5#fn_257) doit être renvoyé.
 
@@ -78,7 +78,7 @@ R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action 
 
 **M**.V. 3. Celui qui dit : « Sur un nid d'oiseau [^258] s'étendent tes miséricordes », et « Que ton nom soit rappelé pour le bien », [^259] et « Nous louons, nous louons », [^260] doit être arrêté. Quant à celui qui passe devant l'Arche [^261] et commet une erreur, qu'un autre passe à sa place. Qu'il ne décline pas [quand on lui demande de dire des prières à ce moment-là]]. Où commence-t-il ? Au début de la bénédiction où il [le premier] a commis l'erreur.
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 **M**.4\. Celui [1](Berakoth_2_5#fn_262) qui passe devant l'Arche ne doit pas répondre « Amen » après les prêtres [2](Berakoth_2_5#fn_263) \[de peur d'être\] distrait. S'il n'y a pas de prêtre, il ne doit pas lever les mains \[pour bénir\]. Mais s'il est sûr qu'en levant les mains [3](Berakoth_2_5#fn_264) \[pour bénir\] il pourra retourner à sa prière, il lui est permis de le faire.
 
@@ -86,7 +86,7 @@ R. José dit : Celui aussi qui n'a pas fait mention de l'alliance dans l'action 
 
 5\. Celui qui prie et commet une erreur est de mauvais augure. Et s'il est le représentant de la congrégation [^265], c'est de mauvais augure pour ceux qui lui demandent de les représenter, car le représentant d'un homme est comme lui-même. [^266] On raconte que R. Chanina b. Dosa priait sur les malades en disant : « L'un vivra, l'autre mourra. » Ils lui dirent : « D'où sais-tu cela ? » Il leur répondit : « Si ma prière est fluide [^267] dans ma bouche, je sais qu'il est malade. »
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 **M**.man\] est accepté, et sinon je sais qu'il est rejeté.
 

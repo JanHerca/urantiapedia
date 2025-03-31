@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T20:3:38Z
   </table>
 </figure>
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 On a fait mention ([p. 99](./2_3#p99), note [2](./2_3#fn288) _supra_) de l'ode de Jílí intitulée al-Nawádiru ’l-‘ ayniyya fi ’l-bawádiri ’l-ghaybiyya. Dans le _Insánu ’l-Kámil_, il cite 36 de ses 534 vers (I. 30, 3 ; 39, 6 fr. pied ; 52, 17 ; 66, 19 ; et 76, 15) et la décrit comme une composition magnifique et unique, trop sublime pour être pleinement comprise. Il ne s'agit cependant que d'un résumé en vers de la matière exposée dans l'Insánu 'l-Kámil, bien que dans certains cas l'auteur s'exprime avec une liberté et une audace qui seraient difficilement tolérées dans un traité en prose. En tant que poème, outre son style disgracieux, il souffre d'exposer une théorie de philosophie mystique et ne peut soutenir la comparaison avec la Tá'iyya d'Ibnu 'l-Fáriḍ, la poésie du pur mysticisme. Les extraits donnés ci-dessous ont été copiés d'un manuscrit du British Museum (Or. 3684 ; Suppl. de Rieu au Catalogue des manuscrits arabes n° 245) contenant le texte ainsi qu'un commentaire de 'Abdu 'l-Ghaní al-Nábulusí.
 
@@ -42,7 +42,7 @@ On a fait mention ([p. 99](./2_3#p99), note [2](./2_3#fn288) _supra_) de l'ode d
 
 _v_. ٢. Au lieu de « il n'y a pas d'autre dieu qu'Allah », le poète dit : « il n'y a rien d'autre que la Beauté Absolue (_jamál_) et la Beauté Phénoménale (_ḥusn_) », celles-ci étant les aspects intérieurs et extérieurs du Bien-Aimé.
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14400.jpg">
@@ -54,7 +54,7 @@ _v_. ١١. K (1. 76, 16) : ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14
 
 _v_. ١٣. Le MS. et K lisent ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14402.jpg).
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14500.jpg">
@@ -64,7 +64,7 @@ _v_. ١٦. Le MS. lit ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14501.j
 
 _v_. ٢٠. La rime dans ce poème est _muqayyad_. Même Jílí n'aurait pas pu écrire ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14503.jpg) ici, ou ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14504.jpg), (4, _v_. ٢٢). Il néglige la règle selon laquelle dans cette forme de Ṭawíl le troisième pied du deuxième hémistiche doit être   ̆  ̄  ̆ (et non   ̆  ̄  ̄).
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14600.jpg">
@@ -78,7 +78,7 @@ _v_. ٨ foll. Les termes « ascension » et « descente » s'appliquent impropre
 
 _v_. ١٤. ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14606.jpg) est une correction de la lecture du manuscrit ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14607.jpg).
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14700.jpg">
@@ -94,7 +94,7 @@ _v_. ٢ foll. Cf. [p. 151](./2_Appendice2#p151) _infra_.
 
 _v_. ١٢ foll. Cf. [p. 126](./2_6#p126) _supra_.
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14800.jpg">

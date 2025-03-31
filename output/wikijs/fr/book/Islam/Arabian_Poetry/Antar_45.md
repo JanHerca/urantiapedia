@@ -56,7 +56,7 @@ Oh si seulement mon âme avait fait ses adieux, et que ses mains ne m'avaient pa
 
 Hélas, ses bontés, si je les commentais, ma langue me manquerait avant de pouvoir les répéter !
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 Je jure que je ne dormirai pas de vengeance : je ne me reposerai que sur le dos de mon étalon.
 

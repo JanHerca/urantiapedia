@@ -32,7 +32,7 @@ dateCreated: 2024-11-21T11:58:4Z
   </table>
 </figure>
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 ## A. GÉNÉRALITÉS
 
@@ -42,7 +42,7 @@ dateCreated: 2024-11-21T11:58:4Z
 - GOLDZIHER, I., _Vorlesungen über den Islam_ (Heidelberg, 1910), pp. 139-200.
 - Un compte rendu de l'ascétisme et du mysticisme soufi par la plus grande autorité vivante sur l'Islam.
 - GOLDZIHER, I., _Muhammedanische Studien_ (Halle, 1888-90), partie ii, pp. 277-378. Donne des détails complets concernant le culte des saints musulmans.
-- MACDONALD, D. B., _La vie religieuse et l'attitude dans l'Islam_ (Chicago, 1909). Une introduction précieuse à l'étude du type modéré de soufisme représenté par <span id="p170">[<sup><small>p. 170</small></sup>]</span> Ghazali. Les chapitres sur la psychologie sont particulièrement utiles.
+- MACDONALD, D. B., _La vie religieuse et l'attitude dans l'Islam_ (Chicago, 1909). Une introduction précieuse à l'étude du type modéré de soufisme représenté par <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> Ghazali. Les chapitres sur la psychologie sont particulièrement utiles.
 - IQBAL, SHAIKH MUHAMMAD, _Le développement de la métaphysique en Perse_ (Londres, 1908), pp. 96.
 - GIBB, E. J. W., _Histoire de la poésie turque_ (Londres, 1900-1909), vol. i, pp. 15-69. Esquisses du mysticisme philosophique persan.
 - BROWNE, E. G., _Histoire littéraire de la Perse_ (Londres, 1902), vol. i. pp. 416-444.

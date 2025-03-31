@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 Ces deux Yasts ou fragments de Yasts sont connus parmi les Parsis sous le nom de Hâdhôkht Nask, bien que leur contexte ne corresponde à aucune partie de la description de ce Nask telle qu'elle est donnée dans le Dîn-kart (West, Pahlavi Texts, I, 224, note 8). Une traduction pahlavi de ces Yasts a été éditée par Haug et West (The Book of Ardâ Vîrâf, p. 269 seq.).
 
@@ -50,7 +50,7 @@ Quel est le seul mot qui contienne la glorification de toutes les bonnes choses,
 
 3\. « Celui qui récite la louange de la Sainteté [^1325], dans la plénitude de la foi et avec un cœur dévoué, me loue, Ahura Mazda ; il loue les eaux, il loue la terre, il loue le bétail, il loue les plantes, il loue toutes les bonnes choses faites par Mazda, toutes les choses qui sont la progéniture du bon principe.
 
-4\. « Car la récitation de cette parole de vérité, ô Zarathustra ! la prononciation de cette formule, l'Ahuna Vairya, accroît la force et la victoire dans l'âme et la piété. <span id="p312">[<sup><small>p. 312</small></sup>]</span> 5\. « Car cette seule récitation de la louange de la Sainteté vaut cent khshnaothras des êtres de Sainteté [^1326], lorsqu'elle est prononcée en s'endormant, mille lorsqu'elle est prononcée après avoir mangé, dix mille lorsqu'elle est prononcée pendant la cohabitation, ou n'importe quel nombre lorsqu'elle est prononcée en quittant cette vie. »
+4\. « Car la récitation de cette parole de vérité, ô Zarathustra ! la prononciation de cette formule, l'Ahuna Vairya, accroît la force et la victoire dans l'âme et la piété. <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> 5\. « Car cette seule récitation de la louange de la Sainteté vaut cent khshnaothras des êtres de Sainteté [^1326], lorsqu'elle est prononcée en s'endormant, mille lorsqu'elle est prononcée après avoir mangé, dix mille lorsqu'elle est prononcée pendant la cohabitation, ou n'importe quel nombre lorsqu'elle est prononcée en quittant cette vie. »
 
 6\. « Quel est le récit de louange de la sainteté qui vaut dix autres en grandeur, en bonté et en équité ?
 

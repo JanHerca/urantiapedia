@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 
 Lorsque Siddhartha se retira du monde, le roi Suddhodana choisit Nanda, un autre de ses fils, pour lui succéder sur le trône. Nanda était heureux à l'idée de devenir roi un jour, et il était également heureux à l'idée de son prochain mariage avec la princesse Sundarika, la belle Sundarika qu'il aimait tendrement.
@@ -49,7 +49,7 @@ Le Maître craignait pour son frère ; il craignait qu'il ne s'égare sur le che
 
 « Pauvre homme ! » s’écria le Maître. « Comment peux-tu être heureux, toi qui vis dans les ténèbres ? Veux-tu voir la lumière ? Alors, débarrasse-toi d’abord du bonheur : la peur naît du bonheur, de la peur et de la souffrance. Celui qui ne connaît plus le bonheur ne craint ni ne souffre. Débarrasse-toi de l’amour : la peur naît de l’amour, de la peur et de la souffrance. Celui qui ne connaît plus l’amour ne craint ni ne souffre. Si tu cherches le bonheur dans le monde, tes efforts seront vains, ton plaisir se changera en douleur ; la mort est toujours présente, prête à fondre sur les malheureux et à faire taire leurs rires et leurs chants. Le monde n’est que flammes et fumée, et tout au monde souffre de la naissance, de la vieillesse et de la mort. Depuis que tu as commencé à errer pitoyablement d’existence en existence, tu as versé plus de larmes qu’il n’y a d’eau dans les rivières ou dans les mers. Vous avez été affligés et vous avez pleuré d'avoir été contrariés dans vos désirs, et vous avez pleuré et vous avez été affligés lorsque ce que vous redoutiez est arrivé. La mort d'une mère, d'un père, d'un frère, d'une sœur, d'un fils, d'une fille, oh, combien de fois, à travers les âges, ne vous ont-elles pas causé du chagrin ? Et combien de fois n'avez-vous pas perdu votre fortune ? Et chaque fois que vous avez eu un sujet de chagrin, vous avez pleuré, pleuré, pleuré, et vous avez versé plus de larmes qu'il n'y a d'eau dans les rivières ou dans les mers !
 
-<span id="p184">[<sup><small>p. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 Au début, Nanda prêta peu d'attention aux paroles du Bouddha, mais en écoutant, les paroles le touchèrent profondément. Le Maître poursuivit :
 
@@ -71,7 +71,7 @@ Il ne répondit pas. Elle se tourna vers le Maître. « Tu l'emmènes avec toi ?
 
 « Oui », répondit le Maître.
 
-<span id="p185">[<sup><small>p. 185</small></sup>]</span>
+<span id="p185"><sup><small>[ p. 185 ]</small></sup></span>
 
 « Mais il reviendra bientôt ? »
 

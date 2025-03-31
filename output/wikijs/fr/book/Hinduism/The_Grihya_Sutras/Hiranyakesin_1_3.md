@@ -38,7 +38,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. Nous allons expliquer que (bain).
 
-3\. Pendant la course nord du soleil, au moment de la lune croissante, sous (le Nakshatra) Rohi<i>ri</i>î, (ou) M<i>ri</i>ga<i>ri</i>iras, (ou) Tishya, (ou) Uttarâ <span id="p162">[<sup><small>p. 162</small></sup>]</span> Phalgunî, (ou) Hasta, (ou) <i>K</i>itrâ, ou les deux Vi<i>ri</i>âkhâs : sous ces (Nakshatras) il peut prendre le bain.
+3\. Pendant la course nord du soleil, au moment de la lune croissante, sous (le Nakshatra) Rohi<i>ri</i>î, (ou) M<i>ri</i>ga<i>ri</i>iras, (ou) Tishya, (ou) Uttarâ <span id="p162"><sup><small>[ p. 162 ]</small></sup></span> Phalgunî, (ou) Hasta, (ou) <i>K</i>itrâ, ou les deux Vi<i>ri</i>âkhâs : sous ces (Nakshatras) il peut prendre le bain.
 
 4\. [^542] Il se rend à un endroit près de l'eau, met du bois sur le feu, accomplit les rites jusqu'aux oblations faites avec les Vyâh<i>ri</i>tis, et met un morceau de bois de Palâ<i>ri</i>a sur (le feu) avec (le vers) : « Préparons ce chant comme un char, pour <i>G</i>âtavedas qui le mérite, avec notre prière. Car sa prévoyance dans cette assemblée est une bénédiction pour nous. Agni ! Demeurant dans ton amitié, puissions-nous ne pas souffrir de mal. Svâhâ ! »
 
@@ -50,13 +50,13 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. [^544] Après avoir servi de la nourriture aux Brâhmanes et les avoir fait dire : « Un jour propice ! Salut ! Bonne chance ! », il se libère de son vœu en répétant ces (Mantras) : « Agni, maître du vœu, j'ai tenu mon vœu. »
 
-9\. S'étant ainsi acquitté de son vœu, il adore le soleil avec les deux (verset) : « Vers le haut <span id="p163">[<sup><small>p. 163</small></sup>]</span> ce (<i>G</i>âtavedas) » (Taitt. Sa<i>m</i>h. I, 4, 43, 1), et « Le brillant » (ibid.).
+9\. S'étant ainsi acquitté de son vœu, il adore le soleil avec les deux (verset) : « Vers le haut <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> ce (<i>G</i>âtavedas) » (Taitt. Sa<i>m</i>h. I, 4, 43, 1), et « Le brillant » (ibid.).
 
 10\. [^545] Avec (les mots) « (Détache) de nous ta plus haute ceinture, Varu<i>n</i>a », il enlève le vêtement supérieur qu'il a porté pendant son apprentissage et en revêt un autre (vêtement). Avec (les mots) « (Détache) la plus basse (chaîne) », (il enlève) le sous-vêtement ; avec (les mots) « (Enlève) la (chaîne) du milieu », la ceinture. Avec (les mots) « Et puissions-nous, ô Âditya, sous ta loi (etc.), » (il dépose) son bâton. La ceinture, le bâton et la peau d'antilope noire, il jette dans l'eau, s'assoit à l'ouest du feu, face à l'est, et touche le rasoir (avec lequel il va être rasé), avec (la formule) : « Rasoir est ton nom ; la hache est ton père. Adoration à toi ! Ne me faites pas de mal !
 
 11\. [^546] Après avoir remis (ce rasoir) au barbier, il touche l'eau avec laquelle ses cheveux doivent être humidifiés, avec (la formule) : « Soyez heureuses, (ô eaux), quand nous vous touchons. » \[(Le barbier) verse ensuite ensemble de l'eau chaude et de l'eau froide. Après avoir versé de l'eau chaude dans de l'eau froide —\]
 
-12\. [^547] (Le barbier) humidifie les cheveux près de l'oreille droite avec (les mots) : « Que les eaux t'humidifient pour la vie, pour la vieillesse et la splendeur » (Taitt. Sa<i>m</i>hitâ I, 2, 1, 1). <span id="p164">[<sup><small>p. 164</small></sup>]</span>
+12\. [^547] (Le barbier) humidifie les cheveux près de l'oreille droite avec (les mots) : « Que les eaux t'humidifient pour la vie, pour la vieillesse et la splendeur » (Taitt. Sa<i>m</i>hitâ I, 2, 1, 1). <span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 13\. [^548] Avec (les mots), 'Herbe ! Protégez-le' (Taitt. Sa<i>m</i>h., loc. cit.), il met une herbe avec la pointe vers le haut dans (les cheveux).
 
@@ -88,7 +88,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. [^553] Ils lui apportent deux boucles d'oreilles et une pastille perforée de bois de santal ou de bois de Badarî, recouverte d'or (à son ouverture) ; ces deux choses, il les attache à une lame de Darbha, les tient au-dessus du feu, et verse dessus (dans le feu) des oblations (de ghee) avec (les Mantras),
 
-« Que cet or qui apporte longue vie, splendeur et augmentation de richesse, et qui surmonte (toutes les adversités), entre en moi pour la longue vie, la splendeur et la victoire. Svâhâ ! <span id="p167">[<sup><small>p. 167</small></sup>]</span> « (Cet or) apporte un gain élevé, la supériorité dans les batailles, la supériorité dans les assemblées ; il conquiert des trésors. Toutes les perfections résident ensemble dans cet or. Svâhâ !
+« Que cet or qui apporte longue vie, splendeur et augmentation de richesse, et qui surmonte (toutes les adversités), entre en moi pour la longue vie, la splendeur et la victoire. Svâhâ ! <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> « (Cet or) apporte un gain élevé, la supériorité dans les batailles, la supériorité dans les assemblées ; il conquiert des trésors. Toutes les perfections résident ensemble dans cet or. Svâhâ !
 
 « J'ai obtenu un nom de bon augure, semblable à celui d'un père d'or. Que l'or me fasse briller d'un éclat doré ; qu'il me rende aimé parmi beaucoup de gens ; qu'il me remplisse d'un éclat sacré. Svâhâ !
 
@@ -116,7 +116,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 5\. [^557] 'Le baume venant du Trikakud (montagne), né sur l'Himavat, avec celui-ci je vous oins (c'est-à-dire les yeux), et avec la fortune et la splendeur. (J'ai mis ?) en moi le démon de la montagne (?)' - avec (ce verset) il s'oint avec le baume Traikakuda, (ou) s'il ne peut pas l'obtenir, avec un autre (baume).
 
-6\. Avec (le vers) « Mon esprit qui s'est enfui » (Taitt. Sa<i>m</i>hitâ VI, 6, 7, 2), il se regarde dans un miroir. <span id="p169">[<sup><small>p. 169</small></sup>]</span>
+6\. Avec (le vers) « Mon esprit qui s'est enfui » (Taitt. Sa<i>m</i>hitâ VI, 6, 7, 2), il se regarde dans un miroir. <span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 7\. [^558] Avec (la formule), « Sur l'impulsion du dieu », etc., il prend un bâton de roseau (que quelqu'un lui tend), et avec (la formule), « Tu es la foudre d'Indra. Ô Amvins, protège-moi ! » — il l'essuie trois fois, de bas en haut.
 

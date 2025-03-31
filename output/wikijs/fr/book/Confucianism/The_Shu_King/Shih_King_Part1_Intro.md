@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 ## LE ROI SHIH. I. ODES DU TEMPLE ET DE L'AUTEL.
 

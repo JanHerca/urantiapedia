@@ -40,7 +40,7 @@ Ces classes (d'êtres vivants) ont été déclarées (par les <i>G</i>inas) ; sa
 
 Tout être, qu'il soit élevé ou bas dans l'échelle de la création vivante, parmi les êtres mobiles et immobiles, connaîtra la mort. Quels que soient les péchés commis par le malfaiteur à chaque naissance, il devra mourir pour eux [^865]. (3)
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 Dans ce monde ou dans l'autre, les pécheurs subissent cent fois ce qu'ils ont infligé aux autres êtres, ou subissent d'autres châtiments. Vivant dans le Samsâra, ils acquièrent sans cesse un nouveau Karman et souffrent pour leurs méfaits. (4)
 
@@ -54,7 +54,7 @@ Les pousses sont des êtres dotés d'un développement naturel [^867], leur corp
 
 En détruisant des semences, qu'il soit jeune ou adulte, l'homme négligent porte préjudice à sa propre âme. (Le prophète) dit : « Méchants sont ceux qui détruisent des semences pour leur propre plaisir. » (9)
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 Les hommes meurent comme embryons, ou comme bébés qui ne parlent pas encore, ou qui parlent déjà ; d'autres hommes, comme garçons portant cinq touffes de cheveux [^868], ou comme jeunes gens, ou à l'âge mûr : à l'expiration de leur vie, tous quittent le corps et meurent.
 
@@ -66,7 +66,7 @@ La perfection ne s'atteint pas en se baignant le matin, ni en s'abstenant d'acid
 
 Ceux qui, touchant l'eau matin et soir, prétendent que la perfection s'obtient par l'eau (sont facilement réfutés). Car si la perfection pouvait être obtenue par le contact avec l'eau, de nombreux êtres vivant dans l'eau auraient dû atteindre la perfection : (14)
 
-Poissons, tortues, serpents aquatiques, cormorans, <span id="p295">[<sup><small>p. 295</small></sup>]</span> loutres [^872] et démons vivant dans l'eau. Les plus malins démentent ceux qui prétendent que la perfection peut être atteinte par l'eau. (15)
+Poissons, tortues, serpents aquatiques, cormorans, <span id="p295"><sup><small>[ p. 295 ]</small></sup></span> loutres [^872] et démons vivant dans l'eau. Les plus malins démentent ceux qui prétendent que la perfection peut être atteinte par l'eau. (15)
 
 Si l'eau a lavé le Karman impur, elle doit aussi lui enlever son mérite. Mais cette affirmation des hérétiques n'a d'autre fondement que leur volonté. Comme un aveugle suit un guide (et rate son but), ainsi un imbécile (qui fait des ablutions, etc. pour atteindre Môksha) tue des êtres vivants. (16)
 
@@ -78,7 +78,7 @@ La perfection ne peut être établie par de telles affirmations gratuites ; ceux
 
 Toutes les créatures qui ont commis des péchés gémissent, souffrent et tremblent. Conscient de cela, un moine sage, qui a cessé de pécher et se protège, devrait s'abstenir de toute violence envers les êtres meubles et immeubles. (20)
 
-Celui qui conserve une réserve de nourriture bien obtenue et la mange ; celui qui fait ses ablutions avec de l'eau pure, <span id="p296">[<sup><small>p. 296</small></sup>]</span> en contractant ses membres ; celui qui lave et orne ses vêtements, est loin d'être un moine nu. (21)
+Celui qui conserve une réserve de nourriture bien obtenue et la mange ; celui qui fait ses ablutions avec de l'eau pure, <span id="p296"><sup><small>[ p. 296 ]</small></sup></span> en contractant ses membres ; celui qui lave et orne ses vêtements, est loin d'être un moine nu. (21)
 
 Un homme sage, voyant que c'est un péché (d'utiliser) de l'eau, devrait vivre d'eau pure, jusqu'à ce qu'il soit libéré du Sa<i>m</i>sâra [^873] ; ne mangeant pas de graines et de bulbes, il s'abstient de se baigner, etc., et de femmes. (22)
 
@@ -94,7 +94,7 @@ Il doit mendier là où il est inconnu et subvenir à ses besoins ; il ne doit p
 
 Un moine doit éviter tout attachement et supporter toute douleur, être plein (de sagesse), non avide, errer sans abri, donner l'assurance de la sécurité (à tous les êtres) et être libre de passions. (28)
 
-(Afin de pouvoir) pratiquer le contrôle [^875], un moine doit manger ; il doit désirer se débarrasser du péché ; s'il <span id="p297">[<sup><small>p. 297</small></sup>]</span> souffre, il doit avoir recours au contrôle et soumettre l'ennemi à la tête de la bataille, pour ainsi dire. (29)
+(Afin de pouvoir) pratiquer le contrôle [^875], un moine doit manger ; il doit désirer se débarrasser du péché ; s'il <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> souffre, il doit avoir recours au contrôle et soumettre l'ennemi à la tête de la bataille, pour ainsi dire. (29)
 
 Bien que battu, il devrait être comme une planche [^876] ; il devrait attendre l'avènement de la mort ; ayant anéanti son Karman, il ne devrait plus se mêler au monde, mais plutôt être comme un char dont l'essieu est cassé. (30)
 

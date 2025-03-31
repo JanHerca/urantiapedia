@@ -67,7 +67,7 @@ Là où le soleil se couche et d'où les nuages se retirent;
 Sa base est ferme, son sommet cherche les cieux,
 Surplombe la tempête et défie toute sa rage. — _Ret. Rev._
 
-<span id="p403">[<sup><small>p. 403</small></sup>]</span>
+<span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 
 vv. 25, 26. Le « rocher sombre » est la gloire et le grand nom de la tribu, dit M. Lyall, dans une note sur les vers parallèles suivants, tirés du chant fougueux de ‘Abd-el-Melik, fils de ‘Abd-er-Rahīm, des Benu-d-Dayyān (« Chants du _Hamāseh_, » etc.) :
 
@@ -96,7 +96,7 @@ v. 30. « Cachant la haine dans nos cœurs, comme la paille est cachée dans la 
 
 v 34. « Le mois sacré » : voir note sur le v. 3, Lebīd.
 
-v. 37. Al Mondar, fils d'Amriolkais, fils de Numan, et de Maiwiah, fille d'Aus, dame d'une beauté si transcendante qu'on l'appelait Maissamai, c'est-à-dire « eau du ciel », gouverna après son père à Hîra. De sa mère, lui et sa postérité furent également surnommés Al Mondar Ebn Maissamai, appellation qu'ils avaient en commun avec les rois de Ghassan, selon Al Jauharius. Car ces derniers princes furent ainsi nommés d'après Abu Amer, de la tribu d'Azd, père d'Amru Mazikia, qui, par sa générosité et sa bienfaisance surprenantes, suppléa au manque de pluie, fournissant à son peuple du blé lorsqu'une sécheresse extrême l'avait rendu si cher qu'il était incapable de l'acheter. Ce prince fut déposé par <span id="p404">[<sup><small>p. 404</small></sup>]</span> Khosru Kobad, roi de Perse. — Histoire universelle ancienne, vol. xviii., p. 432.
+v. 37. Al Mondar, fils d'Amriolkais, fils de Numan, et de Maiwiah, fille d'Aus, dame d'une beauté si transcendante qu'on l'appelait Maissamai, c'est-à-dire « eau du ciel », gouverna après son père à Hîra. De sa mère, lui et sa postérité furent également surnommés Al Mondar Ebn Maissamai, appellation qu'ils avaient en commun avec les rois de Ghassan, selon Al Jauharius. Car ces derniers princes furent ainsi nommés d'après Abu Amer, de la tribu d'Azd, père d'Amru Mazikia, qui, par sa générosité et sa bienfaisance surprenantes, suppléa au manque de pluie, fournissant à son peuple du blé lorsqu'une sécheresse extrême l'avait rendu si cher qu'il était incapable de l'acheter. Ce prince fut déposé par <span id="p404"><sup><small>[ p. 404 ]</small></sup></span> Khosru Kobad, roi de Perse. — Histoire universelle ancienne, vol. xviii., p. 432.
 
 v. 38. « Le jour de Hayarin » : voir note sur les vv. 25, 26.
 

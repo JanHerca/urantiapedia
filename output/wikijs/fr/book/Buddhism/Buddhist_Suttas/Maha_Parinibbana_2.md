@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 ## LE LIVRE DU GRAND DÉCÈS. MAHÂ-PARINIBBÂNA-SUTTA. CHAPITRE II.
 
@@ -50,7 +50,7 @@ Le Béni du Ciel se rendit avec une grande compagnie de frères à Kotigâma ; e
 
 3\. Ainsi parla le Bienheureux ; et lorsque le Bienheureux eut ainsi parlé, le Maître dit de nouveau :
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 « En ne voyant pas les quatre nobles vérités telles qu'elles sont réellement,  
 Long est le chemin parcouru à travers de nombreuses naissances ;  
@@ -69,19 +69,19 @@ La racine du chagrin est déracinée, et il n'y a plus de naissance.
 
 Et le Bienheureux se rendit dans les villages de Nâdika avec une grande compagnie de frères ; et là, à Nâdika, le Bienheureux séjourna à la Salle de Briques[^2].
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 6\. Le vénérable Ananda alla trouver le Bienheureux, lui rendit hommage et s'assit à ses côtés. Une fois assis, il s'adressa au Bienheureux et dit : « Le frère nommé Sâlhâ est mort à Nâdika, Seigneur. Où est-il né, et quelle est sa destinée ? La sœur nommée Nandâ est morte, Seigneur, à Nâdika. Où est-elle née, et quelle est sa destinée ? » Et, dans les mêmes termes, il s'enquit du pieux Sudatta, de la pieuse dame Sugâtâ, du pieux Kakudha, de Kâlinga, de Nikata, de Katissabha, de Tutthâ, de Santutthâ, de Bhadda et de Subhadda.
 
-7\. Le frère nommé Sâlhâ, Ânanda, par la destruction des grands maux, a connu, réalisé et atteint, par lui-même et en ce monde, l'état d'Arahat, l'émancipation du cœur et l'émancipation de l'esprit. La sœur nommée Nandâ, Ânanda, par la destruction complète des cinq liens qui unissent les hommes à ce monde, est devenue l'héritière des cieux les plus élevés, pour y disparaître complètement et ne jamais y revenir. Le dévot Sudatta, Ânanda, par la destruction complète des trois liens et par la réduction à un minimum de luxure, de haine et d'illusion, est devenu un Sakadâgâmin qui, dès son premier retour en ce monde, mettra fin à la douleur. Français La pieuse femme Su<i>g</i>âtâ, Ânanda, par la destruction complète des trois liens, s'est convertie, n'est plus susceptible de renaître dans un état de souffrance et est assurée du salut final [<span id="p26">[<sup><small>p. 26</small></sup>]</span>[^3]. Le pieux Kakudha, Ânanda, par la destruction complète des cinq liens qui lient les gens à ces mondes inférieurs de luxure, est devenu l'héritier des cieux les plus élevés, pour y disparaître entièrement et ne jamais y revenir. Il en est de même pour Kâlinga, Nika<i>t</i>a, Ka<i>t</i>issabha, Tu<i>tth</i>a, Santu<i>tth</i>a, Bhadda et Subhadda, et pour plus de cinquante hommes pieux de Nâdika. Plus de quatre-vingt-dix hommes pieux de Nâdika, morts, Ânanda, sont devenus, par la destruction complète des trois liens et la réduction de la luxure, de la haine et de l'illusion, des Sakadâgâmins qui, à leur premier retour en ce monde, mettront fin à la douleur. Plus de cinq cents hommes pieux de Nâdika, morts, Ânanda, se sont convertis, par la destruction complète des trois liens, ne risquent plus de renaître dans la souffrance et sont assurés du salut final.
+7\. Le frère nommé Sâlhâ, Ânanda, par la destruction des grands maux, a connu, réalisé et atteint, par lui-même et en ce monde, l'état d'Arahat, l'émancipation du cœur et l'émancipation de l'esprit. La sœur nommée Nandâ, Ânanda, par la destruction complète des cinq liens qui unissent les hommes à ce monde, est devenue l'héritière des cieux les plus élevés, pour y disparaître complètement et ne jamais y revenir. Le dévot Sudatta, Ânanda, par la destruction complète des trois liens et par la réduction à un minimum de luxure, de haine et d'illusion, est devenu un Sakadâgâmin qui, dès son premier retour en ce monde, mettra fin à la douleur. Français La pieuse femme Su<i>g</i>âtâ, Ânanda, par la destruction complète des trois liens, s'est convertie, n'est plus susceptible de renaître dans un état de souffrance et est assurée du salut final [<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>[^3]. Le pieux Kakudha, Ânanda, par la destruction complète des cinq liens qui lient les gens à ces mondes inférieurs de luxure, est devenu l'héritier des cieux les plus élevés, pour y disparaître entièrement et ne jamais y revenir. Il en est de même pour Kâlinga, Nika<i>t</i>a, Ka<i>t</i>issabha, Tu<i>tth</i>a, Santu<i>tth</i>a, Bhadda et Subhadda, et pour plus de cinquante hommes pieux de Nâdika. Plus de quatre-vingt-dix hommes pieux de Nâdika, morts, Ânanda, sont devenus, par la destruction complète des trois liens et la réduction de la luxure, de la haine et de l'illusion, des Sakadâgâmins qui, à leur premier retour en ce monde, mettront fin à la douleur. Plus de cinq cents hommes pieux de Nâdika, morts, Ânanda, se sont convertis, par la destruction complète des trois liens, ne risquent plus de renaître dans la souffrance et sont assurés du salut final.
 
 8\. « Or, il n'y a rien d'étrange à cela, Ananda, qu'un être humain meure, mais qu'à chaque fois que vous mourez, vous veniez au Bouddha et vous enquériez de lui de cette manière qui le fatigue. Je vais donc vous enseigner une voie de vérité, appelée le Miroir de Vérité, que si un disciple élu le possède, il peut lui-même prédire : « L'enfer est détruit pour moi, et la renaissance comme animal, ou comme fantôme, ou dans tout autre lieu de malheur. Je suis converti, je ne suis plus susceptible de renaître dans un état de souffrance, et je suis assuré du salut final. »
 
-9\. « Quel est donc, Ananda, ce miroir de vérité ? C'est la conscience que le disciple élu possède en ce monde la foi dans le Bouddha – <span id="p27">[<sup><small>p. 27</small></sup>]</span> croyant que le Bienheureux est le Saint, le Pleinement Éveillé, le Sage, le Juste, le Heureux, le Connaisseur du Monde, le Suprême, le Brideur des cœurs égarés des hommes, l'Instructeur des dieux et des hommes, le Bienheureux Bouddha. Et qu'il (le disciple) possède la foi en la Vérité – croyant que la vérité a été proclamée par le Bienheureux, avantageuse en ce monde, immuable, accueillante pour tous, menant au salut, et que les sages peuvent y parvenir, chacun pour soi. » Et qu'il (le disciple) possède la foi dans l'Ordre - croyant la multitude des disciples du Béni du Ciel qui marchent dans les quatre étapes du noble sentier octuple, les justes, les intègres, les justes, les respectueux de la loi - croyant que cette église du Bouddha est digne d'honneur, d'hospitalité, de dons et de révérence ; qu'elle est le terreau suprême du mérite pour le monde ; qu'elle possède les vertus aimées par les bons, des vertus ininterrompues, intactes, sans tache, sans défaut, des vertus qui rendent les hommes vraiment libres, des vertus qui sont louées par les sages, qui ne sont pas ternies par le désir de la vie future ou par la croyance en l'efficacité des actes extérieurs, et qui sont propices à une pensée haute et sainte[^4].'
+9\. « Quel est donc, Ananda, ce miroir de vérité ? C'est la conscience que le disciple élu possède en ce monde la foi dans le Bouddha – <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> croyant que le Bienheureux est le Saint, le Pleinement Éveillé, le Sage, le Juste, le Heureux, le Connaisseur du Monde, le Suprême, le Brideur des cœurs égarés des hommes, l'Instructeur des dieux et des hommes, le Bienheureux Bouddha. Et qu'il (le disciple) possède la foi en la Vérité – croyant que la vérité a été proclamée par le Bienheureux, avantageuse en ce monde, immuable, accueillante pour tous, menant au salut, et que les sages peuvent y parvenir, chacun pour soi. » Et qu'il (le disciple) possède la foi dans l'Ordre - croyant la multitude des disciples du Béni du Ciel qui marchent dans les quatre étapes du noble sentier octuple, les justes, les intègres, les justes, les respectueux de la loi - croyant que cette église du Bouddha est digne d'honneur, d'hospitalité, de dons et de révérence ; qu'elle est le terreau suprême du mérite pour le monde ; qu'elle possède les vertus aimées par les bons, des vertus ininterrompues, intactes, sans tache, sans défaut, des vertus qui rendent les hommes vraiment libres, des vertus qui sont louées par les sages, qui ne sont pas ternies par le désir de la vie future ou par la croyance en l'efficacité des actes extérieurs, et qui sont propices à une pensée haute et sainte[^4].'
 
 10. « Voici, Ananda, la voie, le miroir de la vérité, que si un disciple élu possède, il peut lui-même prédire : « L’enfer est détruit pour moi ; et la renaissance comme animal, ou comme fantôme, ou dans un lieu de malheur. Je suis converti ; je ne suis plus susceptible de renaître dans un état de souffrance, et je suis assuré du salut final. »
 
-11\. Là aussi, à la Salle des Briques de Nâdika, le <span id="p23">[<sup><small>p. 23</small></sup>]</span> Bienheureux adressa aux frères ce discours religieux complet sur la nature de la conduite droite, de la contemplation sérieuse et de l'intelligence.
+11\. Là aussi, à la Salle des Briques de Nâdika, le <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> Bienheureux adressa aux frères ce discours religieux complet sur la nature de la conduite droite, de la contemplation sérieuse et de l'intelligence.
 
 « Grand est le fruit, grand est le bénéfice d'une contemplation sincère, accompagnée d'une conduite droite. Grand est le fruit, grand est le bénéfice de l'intellect, accompagné d'une contemplation sincère. L'esprit, animé par l'intelligence, est libéré des grands maux, à savoir la sensualité, l'individualité, l'illusion et l'ignorance. »
 
@@ -97,7 +97,7 @@ Alors le Bienheureux se rendit, avec une grande compagnie de frères, à Vesâli
 
 14\. « Et comment un frère devient-il conscient ? »
 
-« Ici, ô mendiants, qu'un frère, alors qu'il demeure dans le corps, considère le corps de telle sorte qu'en étant ardent, réfléchi et attentif, il puisse, tandis qu'il est dans le monde, surmonter la douleur qui naît du désir corporel. Tandis qu'il est soumis aux sensations, qu'il continue à considérer les sensations de telle sorte qu'en étant ardent, réfléchi et attentif, il puisse, tandis qu'il est dans le monde, surmonter la douleur qui naît du désir – qui suit notre sensation – et de même aussi <span id="p29">[<sup><small>p. 29</small></sup>]</span> lorsqu'il pense, raisonne ou ressent, qu'il surmonte la douleur qui naît du désir dû aux idées, au raisonnement ou au sentiment. »
+« Ici, ô mendiants, qu'un frère, alors qu'il demeure dans le corps, considère le corps de telle sorte qu'en étant ardent, réfléchi et attentif, il puisse, tandis qu'il est dans le monde, surmonter la douleur qui naît du désir corporel. Tandis qu'il est soumis aux sensations, qu'il continue à considérer les sensations de telle sorte qu'en étant ardent, réfléchi et attentif, il puisse, tandis qu'il est dans le monde, surmonter la douleur qui naît du désir – qui suit notre sensation – et de même aussi <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> lorsqu'il pense, raisonne ou ressent, qu'il surmonte la douleur qui naît du désir dû aux idées, au raisonnement ou au sentiment. »
 
 15\. « Et comment un frère devient-il réfléchi ? »
 
@@ -105,7 +105,7 @@ Alors le Bienheureux se rendit, avec une grande compagnie de frères, à Vesâli
 
 « Ainsi, qu'un frère, ô mendiants, soit attentif et réfléchi ; c'est là notre instruction pour vous[^5]. »
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 16\. [^6] La courtisane Ambapâli apprit alors que le Bienheureux était arrivé à Vesâli et séjournait dans son verger de manguiers. Ordonnant qu'on prépare plusieurs magnifiques véhicules, elle monta sur l'un d'eux et se dirigea avec son cortège vers son jardin. Elle alla en voiture aussi loin que le terrain était praticable ; elle y descendit ; et elle se rendit à pied à l'endroit où se trouvait le Bienheureux, et prit respectueusement place sur un côté. Et lorsqu'elle fut ainsi assise, le Bienheureux l'instruisit, l'éveilla, l'incita et la réjouit par des discours religieux.
 
@@ -115,7 +115,7 @@ Alors le Bienheureux se rendit, avec une grande compagnie de frères, à Vesâli
 
 Et le Bienheureux donna son consentement en silence. Puis, lorsque la courtisane Ambapâli vit que le Bienheureux avait consenti, elle se leva de son siège et s'inclina devant lui. Le gardant à sa droite en passant devant lui, elle s'éloigna de là.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 8\. Les Li<i>kkh</i>avis de Vesâli apprirent que le Bienheureux était arrivé à Vesâli et séjournait au bosquet d'Ambapâli. Ils ordonnèrent qu'on prépare plusieurs chars magnifiques, montèrent sur l'un d'eux et partirent avec leur cortège vers Vesâli. Certains étaient bruns, de couleur sombre, et portaient des vêtements et des ornements sombres ; d'autres étaient blonds, de couleur claire, et portaient des vêtements et des ornements clairs ; d'autres étaient roux, de couleur rougeâtre, et portaient des vêtements et des ornements rouges ; d'autres étaient blancs, de couleur pâle, et portaient des vêtements et des ornements blancs.
 
@@ -129,7 +129,7 @@ Et le Bienheureux donna son consentement en silence. Puis, lorsque la courtisane
 
 Alors les Likkhavis levèrent les mains[^8] en s'exclamant : « Nous sommes dépassés par cette fille aux mangues ! Nous sommes dépassés par cette fille aux mangues[^9] ! » et ils se dirigèrent vers le bosquet d'Ambapâli.
 
-20\. Lorsque le Bienheureux vit les Likkhavis <span id="p32">[<sup><small>p. 32</small></sup>]</span> s'approcher au loin, il s'adressa aux frères et dit :
+20\. Lorsque le Bienheureux vit les Likkhavis <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> s'approcher au loin, il s'adressa aux frères et dit :
 
 « Ô frères, que ceux des frères qui n'ont jamais vu les dieux Tâvati<i>m</i>sa, contemplent cette compagnie des Li<i>kkh</i>avis, contemplent cette compagnie des Li<i>kkh</i>avis, comparent cette compagnie des Li<i>kkh</i>avis — comme une compagnie de dieux Tâvati<i>m</i>sa[^10]. »
 
@@ -139,7 +139,7 @@ Alors les Likkhavis levèrent les mains[^8] en s'exclamant : « Nous sommes dép
 
 « Ô Li<i>kkh</i>avis, j'ai promis de dîner demain avec Ambapâli la courtisane », fut la réponse.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Alors les Li<i>kkh</i>avis levèrent les mains en s'exclamant : « Nous sommes dépassés par cette fille à la mangue ! Nous sommes dépassés par cette fille à la mangue ! » Et exprimant leurs remerciements et leur approbation des paroles du Béni du Ciel, ils se levèrent de leurs sièges et s'inclinèrent devant le Béni du Ciel, et le gardant à leur droite en le dépassant, ils partirent de là.
 
@@ -149,7 +149,7 @@ Le Bienheureux revêtit sa robe de bon matin, prit son bol et se rendit avec les
 
 24\. Et lorsque le Bienheureux eut tout à fait terminé son repas, la courtisane fit apporter un tabouret bas, s'assit à ses côtés et s'adressa au Bienheureux en disant : « Seigneur, je présente cette demeure à l'ordre des mendiants, dont le Bouddha est le chef. » Et le Bienheureux accepta le don ; et après l'avoir instruite, réveillée, encouragée et réjouie par des discours religieux, il se leva de son siège et partit de là[^12].
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 25\. Alors qu'il se trouvait dans la plantation de manguiers d'Ambapâli, le Bienheureux tint avec ses disciples un discours religieux complet sur la nature de la conduite droite, de la contemplation sérieuse et de l'intelligence.
 
@@ -167,7 +167,7 @@ Puis le Bienheureux se rendit, avec une grande compagnie de frères, à Beluva, 
 
 27\. Le Bienheureux s'adressa alors aux frères et dit : « Ô mendiants, établissez votre demeure autour de Vesâli, chacun selon le lieu où ses amis, ses intimes et ses proches peuvent vivre, pour la saison des pluies de Vassa. J'entrerai dans la saison des pluies ici, à Beluva. »
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 « Ainsi soit-il, Seigneur ! » dirent ces frères en signe d'assentiment au Bienheureux. Et ils entrèrent dans la saison des pluies autour de Vesâli, chacun selon le lieu où vivaient ses amis, ses intimes ou ses proches compagnons ; tandis que le Bienheureux demeurait là-bas, à Beluva.
 
@@ -189,7 +189,7 @@ Puis le Bienheureux se rendit, avec une grande compagnie de frères, à Beluva, 
 
 34\. « Ici, ô Ananda, qu'un frère, alors qu'il demeure dans le corps, considère le corps de telle sorte qu'étant ardent, pensif et attentif, il puisse, tandis qu'il est dans le monde, surmonter la douleur qui naît du désir corporel ; tandis qu'il est soumis aux sensations, qu'il continue à considérer les sensations de telle sorte qu'étant ardent, pensif et attentif, il puisse, tandis qu'il est dans le monde, surmonter la douleur qui naît des sensations ; et ainsi, aussi, alors qu'il pense, ou raisonne, ou sent, qu'il surmonte la douleur qui naît du désir dû aux idées, ou au raisonnement, ou au sentiment.
 
-35\. « Et quiconque, Ananda, maintenant ou après ma mort, sera une lampe pour lui-même et un refuge pour lui-même, ne se tournera vers aucun refuge extérieur, mais s'accrochant fermement à la vérité comme à sa lampe et s'accrochant fermement à la vérité comme à son refuge, ne cherchera refuge auprès de personne d'autre qu'eux-mêmes. Ce sont eux, Ananda, parmi mes <span id="p39">[<sup><small>p. 39</small></sup>]</span> hikkhus, qui atteindront la Hauteur la plus élevée ! - mais ils doivent être désireux d'apprendre[^18]. »
+35\. « Et quiconque, Ananda, maintenant ou après ma mort, sera une lampe pour lui-même et un refuge pour lui-même, ne se tournera vers aucun refuge extérieur, mais s'accrochant fermement à la vérité comme à sa lampe et s'accrochant fermement à la vérité comme à son refuge, ne cherchera refuge auprès de personne d'autre qu'eux-mêmes. Ce sont eux, Ananda, parmi mes <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> hikkhus, qui atteindront la Hauteur la plus élevée ! - mais ils doivent être désireux d'apprendre[^18]. »
 
 ---
 

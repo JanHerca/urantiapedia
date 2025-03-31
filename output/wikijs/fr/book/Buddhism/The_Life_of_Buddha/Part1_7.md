@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 
 SUDDHODANA repensait sans cesse à ce qu'Asita lui avait dit. Il ne voulait pas que sa famille disparaisse et se disait : « J'éveillerai chez mon fils le désir du plaisir ; alors, peut-être aurai-je des petits-enfants, et ils prospéreront. »
@@ -101,7 +101,7 @@ Elle dit : « Prince, dois-je accepter cette bague de votre part ? »
 
 Lorsque le roi entendit parler de cet incident, il fut ravi.
 
-« Gopa, seule, pourrait affronter mon fils », pensa-t-il ; <span id="p33">[<sup><small>p. 33</small></sup>]</span> « seule elle est digne de lui. Gopa, qui n’a pas accepté l’anneau que tu as arraché de ton doigt, Gopa, ô mon fils, sera ton plus beau joyau. »
+« Gopa, seule, pourrait affronter mon fils », pensa-t-il ; <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> « seule elle est digne de lui. Gopa, qui n’a pas accepté l’anneau que tu as arraché de ton doigt, Gopa, ô mon fils, sera ton plus beau joyau. »
 
 Et il convoqua le père de Gopa au palais.
 
@@ -119,7 +119,7 @@ Ces paroles troublèrent le roi Suddhodana. Il demanda à voir le prince. Siddha
 
 Le roi ne savait comment lui expliquer ce que Dandapani avait exprimé si crûment. Il resta silencieux.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Le prince répéta :
 
@@ -167,7 +167,7 @@ Arjuna lui a posé les problèmes les plus complexes, et jamais Siddhartha n'a �
 
 Ils s'émerveillèrent tous de ses connaissances en mathématiques et furent convaincus que son intelligence avait pénétré les profondeurs de toutes les sciences. Ils décidèrent alors de mettre à l'épreuve ses talents athlétiques, mais au saut et à la course, il gagna sans effort, et à la lutte, il lui suffisait de poser un doigt sur son adversaire pour qu'il tombe à terre.
 
-Alors ils sortirent les arcs, et d'habiles archers placèrent leurs flèches sur des cibles à peine visibles. Mais quand vint le tour du prince de tirer, sa force naturelle était si grande qu'il brisa chaque arc en le bandant. Finalement, le roi envoya des gardes chercher un arc très ancien et très précieux, conservé au temple. De mémoire d'homme, personne n'avait jamais été capable de le bander ou de le lever. Siddhartha prit l'arc de la main gauche et, d'un doigt de la main droite, le tira vers lui. Puis il prit pour cible un arbre si éloigné que lui seul pouvait le voir. La flèche transperça l'arbre et, s'enfonçant dans le sol, disparut. Et là, à l'endroit où la flèche avait pénétré, se forma un puits <span id="p37">[<sup><small>p. 37</small></sup>]</span>, appelé le Puits de la Flèche.
+Alors ils sortirent les arcs, et d'habiles archers placèrent leurs flèches sur des cibles à peine visibles. Mais quand vint le tour du prince de tirer, sa force naturelle était si grande qu'il brisa chaque arc en le bandant. Finalement, le roi envoya des gardes chercher un arc très ancien et très précieux, conservé au temple. De mémoire d'homme, personne n'avait jamais été capable de le bander ou de le lever. Siddhartha prit l'arc de la main gauche et, d'un doigt de la main droite, le tira vers lui. Puis il prit pour cible un arbre si éloigné que lui seul pouvait le voir. La flèche transperça l'arbre et, s'enfonçant dans le sol, disparut. Et là, à l'endroit où la flèche avait pénétré, se forma un puits <span id="p37"><sup><small>[ p. 37 ]</small></sup></span>, appelé le Puits de la Flèche.
 
 Tout semblait terminé, et ils conduisirent vers le vainqueur un énorme éléphant blanc sur lequel, en triomphe, il devait traverser Kapilavastu. Mais un jeune Sakya, Devadatta, très fier de sa force, saisit l'animal par la trompe et, pour rire, le frappa du poing. L'éléphant tomba à terre.
 

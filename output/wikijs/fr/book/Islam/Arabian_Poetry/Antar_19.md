@@ -56,7 +56,7 @@ Je briserai le soutien de la Grèce depuis ses fondations, et je trancherai la t
 
 J'exterminerai chaque héros-lion avec mon épée ; qu'il se vante, qu'il se glorifie, qu'il se moque !
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 N'est-il pas connu que mon pouvoir est sublime là-haut ? N'est-il pas parmi les étoiles du voisinage de Jupiter ?
 
@@ -88,7 +88,7 @@ Je ne convoiterais pas les royaumes de Chosroe, si le fantôme de mon amour disp
 
 Que les averses de pluie arrosent toujours les terres et les monticules de Shurebah ! — terres, où l'éclat des pleines lunes voilées peut être vu dans l'obscurité de leurs boucles de sable — où mon cœur poursuit parmi elles une demoiselle dont les yeux sont peints d'antimoine, plus belle que la Houri.
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 Tu peux voir dans ses dents une liqueur quand elle sourit, là où la coupe de vin est parsemée de perles.
 
@@ -114,7 +114,7 @@ La chanteuse voudrait apaiser mon cœur avec sa voix, mais mon cœur malade d'am
 
 Les souvenirs d'Abla détournent mon esprit de sa chanson, et je dirais à mon ami : Tout cela n'est qu'un rêve !
 
-<span id="p229">[<sup><small>p. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 Dans le pays du Hedjaz sont les tentes de ma tribu, et les rencontrer de nouveau m'est interdit.
 
@@ -186,7 +186,7 @@ Tu es celui à qui tous les rois doivent se soumettre, et dans ta justice tu as 
 
 « Ne croyez pas, s’écria le roi, avec une joie accrue, que nous ayons pu vous récompenser comme il se doit. Ce que nous vous avons donné est périssable, comme tout ce qui est humain ; mais vos louanges dureront pendant des siècles. »
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 « Il embrassa alors Antar entre les yeux, et lui dit adieu, lui donnant comme dernier signe une riche robe ; et le priant de lui rendre visite fréquemment, il partit. »
 
@@ -206,7 +206,7 @@ Je ne t'ai pas quitté inquiet, ni dans une grande angoisse, mais mon oncle m'a 
 
 Il m'a exposé à une mer de dangers, mais je m'y suis plongé avec ma lame étincelante à double tranchant.
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 J'ai tranché le cou de la Fortune, et les vicissitudes nocturnes et les calamités nocturnes ont tremblé.
 

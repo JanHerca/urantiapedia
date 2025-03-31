@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 Antar était devenu célèbre pour ses vers ainsi que pour sa force et son courage remarquables ; et, comme on peut facilement le supposer, il faisait des progrès considérables pour gagner l'affection de sa bien-aimée Abla. Mais aux yeux du père de la jeune fille, Malik, il était loin d'être un parti désirable ; et même sa mère ridiculisait la poésie amoureuse d'Antar et son amour pour sa fille. Un jour, elle lui demanda avec mépris de réciter quelques-uns de ses vers sur Abla, ce qu'il fit ainsi :
 
@@ -54,7 +54,7 @@ Ton sein est créé comme un enchantement ; — Ô que Dieu le protège toujours
 
 Être connecté à toi c'est être connecté à chaque joie ; mais séparé de tout mon monde est le lien de ta connexion.
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 Sous ton voile se trouve le bouton de rose de ma vie, et tes yeux sont gardés par une multitude de flèches : autour de ta tente se trouve un lion-guerrier, le tranchant de l'épée et la pointe de la lance.
 

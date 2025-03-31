@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 ## LE GRAND ROI DE GLOIRE. MAHÂ-SUDASSANA-SUTTA. CHAPITRE I.
 
@@ -44,13 +44,13 @@ dateCreated: 2025-2-6T11:21:5Z
 
 2 « Que le Bienheureux ne meure pas dans cette petite ville de torchis, dans cette ville au milieu de la jungle, dans cette commune annexe. Car, Seigneur, il existe d'autres grandes cités, telles que Kampâ, Râgagaha, Sâvatthi, Sâketa, Kosambi et Bénarès. Qu'il meure dans l'une d'elles. Là se trouvent de nombreux nobles fortunés, des brahmanes et des chefs de famille, croyants au Tathâgata, qui rendront l'honneur qui leur est dû à la dépouille du Tathâgata. »[^2]
 
-3\. « Ne dis pas cela, Ânanda ! Ne dis pas cela, Ânanda, <span id="p248">[<sup><small>p. 248</small></sup>]</span> que ceci n'est qu'une petite ville en torchis, une ville au milieu de la jungle, une commune annexe. Il y a bien longtemps, Ânanda, vivait un roi, nommé Mahâ-Sudassana, un roi des rois, un homme juste qui gouvernait avec justice, un Kshatriya oint[^3], Seigneur des quatre coins de la terre, conquérant, protecteur de son peuple, possesseur des sept trésors royaux. Cette Kusinârâ, Ânanda, était la ville royale du roi Mahâ-Sudassana, sous le nom de Kusâvatî[^4], et à l'est et à l'ouest elle avait douze lieues de longueur, et au nord et au sud elle avait sept lieues de largeur. Cette ville royale Kusâvatî, Ânanda, était puissante et prospère, et pleine de peuple, peuplée d'hommes, et pourvue de toutes sortes de nourriture. juste, Ânanda, comme la ville royale des dieux, Â<i>l</i>akamandâ de nom, est puissante, prospère et pleine de peuple, peuplée de dieux, et pourvue de toutes sortes de nourriture, ainsi. Ânanda, était la ville royale Kusâvatî puissante et prospère, pleine de peuple, peuplée d'hommes, et pourvue de toutes sortes de nourriture. De jour comme de nuit, Ânanda, la cité royale de Kusâvatî résonnait <span id="p249">[<sup><small>p. 249</small></sup>]</span> des dix cris ; c'est-à-dire le bruit des éléphants, le bruit des chevaux et le bruit des chars ; les sons du tambour, du tambourin et du luth ; le son des chants, les sons des cymbales et du gong ; et enfin, du cri : « Mangez, buvez et réjouissez-vous[^5] ! »
+3\. « Ne dis pas cela, Ânanda ! Ne dis pas cela, Ânanda, <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> que ceci n'est qu'une petite ville en torchis, une ville au milieu de la jungle, une commune annexe. Il y a bien longtemps, Ânanda, vivait un roi, nommé Mahâ-Sudassana, un roi des rois, un homme juste qui gouvernait avec justice, un Kshatriya oint[^3], Seigneur des quatre coins de la terre, conquérant, protecteur de son peuple, possesseur des sept trésors royaux. Cette Kusinârâ, Ânanda, était la ville royale du roi Mahâ-Sudassana, sous le nom de Kusâvatî[^4], et à l'est et à l'ouest elle avait douze lieues de longueur, et au nord et au sud elle avait sept lieues de largeur. Cette ville royale Kusâvatî, Ânanda, était puissante et prospère, et pleine de peuple, peuplée d'hommes, et pourvue de toutes sortes de nourriture. juste, Ânanda, comme la ville royale des dieux, Â<i>l</i>akamandâ de nom, est puissante, prospère et pleine de peuple, peuplée de dieux, et pourvue de toutes sortes de nourriture, ainsi. Ânanda, était la ville royale Kusâvatî puissante et prospère, pleine de peuple, peuplée d'hommes, et pourvue de toutes sortes de nourriture. De jour comme de nuit, Ânanda, la cité royale de Kusâvatî résonnait <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> des dix cris ; c'est-à-dire le bruit des éléphants, le bruit des chevaux et le bruit des chars ; les sons du tambour, du tambourin et du luth ; le son des chants, les sons des cymbales et du gong ; et enfin, du cri : « Mangez, buvez et réjouissez-vous[^5] ! »
 
 ---
 
 4\. « La cité royale de Kusâvatî, Ânanda, était entourée de sept remparts. Parmi ceux-ci, un rempart était d'or, un d'argent, un de béryl, un de cristal, un d'agate, un de corail, et un de toutes sortes de pierres précieuses[^6] ! »
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 5\. « À la cité royale de Kusâvatî, Ananda, il y avait quatre portes. Une porte était d'or, une d'argent, une de jade et une de cristal. À chaque porte étaient fixés sept piliers, hauts comme trois ou quatre fois la taille d'un homme. Et un pilier était d'or, un d'argent, un de béryl, un de cristal, un d'agate, un de corail et un de toutes sortes de pierres précieuses. »
 
@@ -58,7 +58,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 7\. « Les palmiers d'or avaient des troncs d'or, des feuilles et des fruits d'argent. Les palmiers d'argent avaient des troncs d'argent, des feuilles et des fruits d'or. Les palmiers de béryl avaient des troncs de béryl, des feuilles et des fruits de cristal. Les palmiers de cristal avaient des troncs de cristal, des feuilles et des fruits de béryl. Les palmiers d'agate avaient des troncs d'agate, des feuilles et des fruits de corail. Les palmiers de corail avaient des troncs de corail, des feuilles et des fruits d'agate. Les palmiers de toutes sortes de pierres précieuses avaient des troncs, des feuilles et des fruits de toutes sortes de pierres précieuses. »
 
-8\.[^7] « Et lorsque ces rangées de palmiers, Ânanda, <span id="p251">[<sup><small>p. 251</small></sup>]</span> furent secouées par le vent, un son doux, agréable, charmant et enivrant s'éleva.
+8\.[^7] « Et lorsque ces rangées de palmiers, Ânanda, <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> furent secouées par le vent, un son doux, agréable, charmant et enivrant s'éleva.
 
 « De même, Ananda, que les sept sortes d'instruments produisent, lorsqu'ils sont bien joués, pour l'homme habile, un son doux, agréable, charmant et enivrant, de même, Ananda, lorsque ces rangées de palmiers furent secouées par le vent, s'éleva un son doux, agréable, charmant et enivrant.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « Quels sont ces sept-là ? »
 
-11.[^8] 'En premier lieu, Ananda, lorsque le Grand Roi de Gloire, le jour du Sabbat[^9], le jour de la <span id="p252">[<sup><small>p. 252</small></sup>]</span> pleine lune, s'était purifié et était monté à l'étage supérieur de son palais pour observer le jour sacré, alors lui apparut le Trésor céleste de la Roue[^10], avec sa nef, son pneu et tous ses mille rayons complets.
+11.[^8] 'En premier lieu, Ananda, lorsque le Grand Roi de Gloire, le jour du Sabbat[^9], le jour de la <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> pleine lune, s'était purifié et était monté à l'étage supérieur de son palais pour observer le jour sacré, alors lui apparut le Trésor céleste de la Roue[^10], avec sa nef, son pneu et tous ses mille rayons complets.
 
 12\. « Quand il le vit, le Grand Roi de Gloire pensa :
 
@@ -104,7 +104,7 @@ des éléphants et des hommes.
 
 17\. « Alors, Ananda, tous les rois rivaux de la région de l'Est devinrent sujets du Grand Roi de Gloire.
 
-18\. « Mais la merveilleuse Roue, Ananda, ayant plongé dans les grandes eaux de l'Est, remonta et roula jusqu'à la région du Sud \[et là tout se passa comme cela s'était produit <span id="p254">[<sup><small>p. 254</small></sup>]</span> dans la région de l'Est. Et de la même manière, la merveilleuse Roue roula jusqu'à l'extrême limite de l'Ouest et du Nord ; et là aussi tout se passa comme cela s'était produit dans la région de l'Est\].
+18\. « Mais la merveilleuse Roue, Ananda, ayant plongé dans les grandes eaux de l'Est, remonta et roula jusqu'à la région du Sud \[et là tout se passa comme cela s'était produit <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> dans la région de l'Est. Et de la même manière, la merveilleuse Roue roula jusqu'à l'extrême limite de l'Ouest et du Nord ; et là aussi tout se passa comme cela s'était produit dans la région de l'Est\].
 
 19\. « Maintenant, lorsque la merveilleuse Roue, Ananda, fut partie en conquête et pour conquérir la terre entière jusqu'à sa limite océanique, elle retourna à la cité royale de Kusâvatî et resta fixée sur la terrasse ouverte devant l'entrée des appartements intérieurs du Grand Roi de Gloire, comme un ornement glorieux pour les appartements intérieurs du Grand Roi de Gloire.
 
@@ -114,7 +114,7 @@ des éléphants et des hommes.
 
 21\. « Maintenant, Ananda, apparut au Grand Roi de Gloire le Trésor de l'Éléphant[^14], tout blanc, sept fois ferme[^15], merveilleux en puissance, volant dans le ciel — le Roi-Éléphant, dont le nom était « Les Changements de la Lune[^16] ».
 
-22\. « Lorsqu'il le vit, le Grand Roi de Gloire fut ravi au fond du cœur à la pensée <span id="p255">[<sup><small>p. 255</small></sup>]</span> « « Ce serait de bon augure de monter sur cet éléphant, si seulement il se soumettait à être contrôlé ! »
+22\. « Lorsqu'il le vit, le Grand Roi de Gloire fut ravi au fond du cœur à la pensée <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> « « Ce serait de bon augure de monter sur cet éléphant, si seulement il se soumettait à être contrôlé ! »
 
 23\. « Alors, Ananda, le merveilleux éléphant – tel un bel éléphant de sang noble depuis longtemps bien dressé – se soumit au contrôle.
 
@@ -148,7 +148,7 @@ des éléphants et des hommes.
 
 ---
 
-36\. 'Maintenant, Ananda, apparut au Grand Roi de Gloire la Femme-Trésor[^21], gracieuse de silhouette, belle d'apparence, charmante de manières et du plus beau teint ; ni <span id="p257">[<sup><small>p. 257</small></sup>]</span> très grande, ni très petite ; ni très corpulente, ni très mince ; ni très brune, ni très blonde ; surpassant la beauté humaine, elle avait atteint la beauté des dieux[^22].
+36\. 'Maintenant, Ananda, apparut au Grand Roi de Gloire la Femme-Trésor[^21], gracieuse de silhouette, belle d'apparence, charmante de manières et du plus beau teint ; ni <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> très grande, ni très petite ; ni très corpulente, ni très mince ; ni très brune, ni très blonde ; surpassant la beauté humaine, elle avait atteint la beauté des dieux[^22].
 
 37\. « Le contact aussi, Ananda, de la peau de cette femme merveilleuse était comme le contact du coton ou de l'ouate : dans le froid ses membres étaient chauds, dans la chaleur ses membres étaient frais ; tandis que de son corps s'échappait le parfum du bois de santal et de sa bouche le parfum du lotus.
 
@@ -174,7 +174,7 @@ des éléphants et des hommes.
 
 « C’est ici, ô Trésorier, que j’ai besoin d’or jaune. »
 
-44\. « Alors le merveilleux Trésorier tendit les deux mains vers l'eau, puis en tira une jarre <span id="p259">[<sup><small>p. 259</small></sup>]</span> pleine d'or jaune, et dit au Grand Roi de Gloire :
+44\. « Alors le merveilleux Trésorier tendit les deux mains vers l'eau, puis en tira une jarre <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> pleine d'or jaune, et dit au Grand Roi de Gloire :
 
 « Est-ce suffisant, ô Grand Roi ? En ai-je fait assez, ô Grand Roi ? »
 
@@ -202,7 +202,7 @@ Et le Grand Roi de Gloire répondit :
 
 « Quels sont les quatre dons merveilleux ? »
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 50\. « En premier lieu, Ananda, le Grand Roi de Gloire, était gracieux de silhouette, beau d'apparence, agréable de manières et d'un teint très beau, au-delà de ce que sont les autres hommes.
 
@@ -214,7 +214,7 @@ Et le Grand Roi de Gloire répondit :
 
 52\. « Et en plus de cela, Ananda, le Grand Roi de Gloire, était exempt de maladie et exempt de souffrance corporelle ; et son feu intérieur n'était ni trop chaud ni trop froid, mais tel qu'il favorisait une bonne digestion, au-delà de celle des autres hommes[^26].
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 « Le Grand Roi de Gloire, Ananda, a été doté de ce Troisième Don Merveilleux.
 
@@ -236,7 +236,7 @@ Et le Grand Roi de Gloire répondit :
 
 57\. « Maintenant, le Grand Roi de Gloire, Ananda, eut cette pensée :
 
-« Supposons maintenant que je fasse des étangs à lotus <span id="p262">[<sup><small>p. 262</small></sup>]</span> dans les espaces entre ces palmiers, à toutes les cent longueurs d'arc. »
+« Supposons maintenant que je fasse des étangs à lotus <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> dans les espaces entre ces palmiers, à toutes les cent longueurs d'arc. »
 
 « Alors, Ananda, le Grand Roi de Gloire, dans les espaces entre ces palmiers, à des distances de cent longueurs d'arc, créa des étangs de lotus.
 
@@ -246,7 +246,7 @@ Et le Grand Roi de Gloire répondit :
 
 60\. « Et autour de ces étangs aux lotus courait, Ananda, une double balustrade. L'une était en or, l'autre en argent. La balustrade d'or avait ses poteaux en or, ses traverses et ses chapiteaux en argent. La balustrade d'argent avait ses poteaux en argent, ses traverses et ses chapiteaux en or[^28]. »
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 61\. « Maintenant, le Grand Roi de Gloire, Ananda, eut cette pensée :
 
@@ -262,7 +262,7 @@ Et le Grand Roi de Gloire répondit :
 
 63\. « Maintenant, le Grand Roi de Gloire, Ananda, eut cette pensée :
 
-« Supposons maintenant que j'établisse une subvention perpétuelle sur les rives de ces étangs aux lotus, à savoir de la nourriture pour les affamés, de la boisson pour les assoiffés, des vêtements pour les nus, des moyens de transport pour ceux qui en ont besoin, des lits pour les fatigués, des épouses pour <span id="p264">[<sup><small>p. 264</small></sup>]</span> ceux qui en ont besoin, de l'or pour les pauvres et de l'argent pour ceux qui sont dans le besoin. »
+« Supposons maintenant que j'établisse une subvention perpétuelle sur les rives de ces étangs aux lotus, à savoir de la nourriture pour les affamés, de la boisson pour les assoiffés, des vêtements pour les nus, des moyens de transport pour ceux qui en ont besoin, des lits pour les fatigués, des épouses pour <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> ceux qui en ont besoin, de l'or pour les pauvres et de l'argent pour ceux qui sont dans le besoin. »
 
 « Alors, Ananda, le Grand Roi de Gloire, établit une subvention perpétuelle sur les rives de ces étangs de Lotus, à savoir de la nourriture pour les affamés, de la boisson pour les assoiffés, des vêtements pour les nus, des moyens de transport pour ceux qui en avaient besoin, des lits pour les fatigués, des épouses pour ceux qui en voulaient, de l'or pour les pauvres et de l'argent pour ceux qui étaient dans le besoin.
 
@@ -286,7 +286,7 @@ Et le Grand Roi de Gloire répondit :
 
 ---
 
-67\. « Maintenant, Ananda, lorsque Sakka, le roi des dieux, prit conscience dans son esprit des pensées qui <span id="p265">[<sup><small>p. 265</small></sup>]</span> habitaient le cœur du Grand Roi de Gloire, il s'adressa à Vissakamma le dieu[^29] et dit :
+67\. « Maintenant, Ananda, lorsque Sakka, le roi des dieux, prit conscience dans son esprit des pensées qui <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> habitaient le cœur du Grand Roi de Gloire, il s'adressa à Vissakamma le dieu[^29] et dit :
 
 « Viens maintenant, Vissakamma, crée-moi un manoir pour le Grand Roi de Gloire, un palais qui sera appelé « Justice[^30] ». »
 
@@ -306,7 +306,7 @@ Et le Grand Roi de Gloire répondit :
 
 72\. « Le rez-de-chaussée, Ânanda, du Palais de la Justice[^31], d'une hauteur trois fois supérieure à celle qu'un homme peut atteindre, était construit en briques de quatre sortes. Une sorte de brique était d'or, une d'argent, une de béryl, et une de cristal.
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 73\. « Au Palais de la Justice, Ananda, il y avait quatre-vingt-quatre mille piliers de quatre sortes. Un pilier était en or, un en argent, un en béryl et un en cristal.
 
@@ -322,7 +322,7 @@ Et le Grand Roi de Gloire répondit :
 
 « À l'entrée de la chambre d'argent se tenait un palmier d'or ; son tronc était d'or, et ses feuilles et ses fruits étaient d'argent.
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 « À la porte de la chambre de béryl se dressait un palmier de cristal ; son tronc était de cristal, et ses feuilles et ses fruits de béryl.
 
@@ -340,7 +340,7 @@ Et le Grand Roi de Gloire répondit :
 
 79\. « Le Palais de la Justice, Ananda, était entouré de deux réseaux de cloches. L'un était en or, l'autre en argent.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span> Le réseau d'or avait des clochettes d'argent, et le réseau d'argent avait des clochettes d'or.
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span> Le réseau d'or avait des clochettes d'argent, et le réseau d'argent avait des clochettes d'or.
 
 80\. « Et lorsque ces réseaux de cloches, Ananda, furent secoués par le vent, un son doux, agréable, charmant et enivrant s'éleva.
 
@@ -360,7 +360,7 @@ Et le Grand Roi de Gloire répondit :
 
 « Alors, Ananda, le Grand Roi de Gloire, créa un lac de Lotus pour porter le nom de « Justice ».
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 84\. « Le lac de la Justice, Ananda, avait à l'est et à l'ouest une lieue de longueur, et au nord et au sud une demi-lieue de largeur.
 
@@ -372,7 +372,7 @@ Et le Grand Roi de Gloire répondit :
 
 88\. « Le Lac de Justice, Ananda, était entouré de sept rangées de palmiers. Une rangée était composée de palmiers d'or, une d'argent, une de béryl, une de cristal, une d'agate, une de corail, et une de toutes sortes de pierres précieuses.
 
-89\. « Les palmiers d'or avaient des troncs d'or, des feuilles et des fruits d'argent. Les palmiers d'argent avaient des troncs d'argent, des feuilles et des fruits d'or. Les palmiers de béryl avaient des troncs de béryl, <span id="p270">[<sup><small>p. 270</small></sup>]</span> et des feuilles et des fruits de cristal. Les palmiers de cristal avaient des troncs de cristal, des feuilles et des fruits de béryl. Les palmiers d'agate avaient des troncs d'agate, des feuilles et des fruits de corail. Les palmiers de corail avaient des troncs de corail, des feuilles et des fruits d'agate. Les palmiers de toutes sortes de pierres précieuses avaient des troncs, des feuilles et des fruits de toutes sortes de pierres précieuses. »
+89\. « Les palmiers d'or avaient des troncs d'or, des feuilles et des fruits d'argent. Les palmiers d'argent avaient des troncs d'argent, des feuilles et des fruits d'or. Les palmiers de béryl avaient des troncs de béryl, <span id="p270"><sup><small>[ p. 270 ]</small></sup></span> et des feuilles et des fruits de cristal. Les palmiers de cristal avaient des troncs de cristal, des feuilles et des fruits de béryl. Les palmiers d'agate avaient des troncs d'agate, des feuilles et des fruits de corail. Les palmiers de corail avaient des troncs de corail, des feuilles et des fruits d'agate. Les palmiers de toutes sortes de pierres précieuses avaient des troncs, des feuilles et des fruits de toutes sortes de pierres précieuses. »
 
 90\. « Et lorsque ces rangées de palmiers, Ananda, furent secouées par le vent, un son doux, agréable, charmant et enivrant s'éleva.
 

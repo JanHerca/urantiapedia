@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:23Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 Abram et Abraham, [12](Berakoth_1_1#p12)
 
@@ -168,7 +168,7 @@ Mishna _c'est-à-dire_ enseignement oral, [ix](Introduction_1#pix) ; en relation
 
 Modim, [9](Berakoth_1_1#p9)
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 Prière du matin, la, [28](Berakoth_1_3#p28)
 

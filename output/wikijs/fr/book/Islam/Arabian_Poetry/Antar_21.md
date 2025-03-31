@@ -40,7 +40,7 @@ Oh si tu pouvais me voir dans l'infamie du désespoir, avec des misérables qui 
 
 Oh, si je n'avais jamais vécu dans ce siècle de traîtres, qui ne voient en toi que ma misère et mon déshonneur !
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 Pourquoi Dieu a-t-il prolongé mon existence, maintenant que le lion est parti, qui a jamais protégé le pays et les femmes ?
 
@@ -62,7 +62,7 @@ Maintenant, les yeux de l'âge sont illuminés, après une période d'obscurité
 
 J'implorerai Dieu d'exalter toujours tes gloires, matin et soir !
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 Elle raconta alors à Antar comment Shiboob lui avait apporté la triste nouvelle de sa mort et de tout ce qui lui était arrivé pendant sa longue absence ; et Antar, à son tour, raconta brièvement ses propres aventures et les périls auxquels il avait été exposé depuis qu'il avait quitté le pays de Shurebah pour se procurer les chameaux Asafeer pour sa dot.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p389">[<sup><small>p. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 ## I
 
@@ -42,7 +42,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## II
 
-1\. Je me confesse adorateur de Mazda, pour la louange de Thraêtaona, l'Âthwyan. Qu'ils le déclarent : Propitiation au Fravashi de Thraêtaona, l'Âthwyan, le saint. 2. Nous sacrifions à Thraêtaona, l'Âthwyan, le saint seigneur de l'ordre rituel ; et puissions-nous être libérés du chien Kuro [^1563], du Tarewani [^1563] et du Karpan, (nous qui sommes) de [^1564] ceux qui sacrifient dans l'ordre. 3. (L'Ahuna <span id="p390">[<sup><small>p. 390</small></sup>]</span> suit.) Sacrifice, hommage, force et rapidité soient au Fravashi de Thraêtaona, le saint. (Les raê<i>s</i><i>k</i>a Ahem et Ahmâi suivent.)
+1\. Je me confesse adorateur de Mazda, pour la louange de Thraêtaona, l'Âthwyan. Qu'ils le déclarent : Propitiation au Fravashi de Thraêtaona, l'Âthwyan, le saint. 2. Nous sacrifions à Thraêtaona, l'Âthwyan, le saint seigneur de l'ordre rituel ; et puissions-nous être libérés du chien Kuro [^1563], du Tarewani [^1563] et du Karpan, (nous qui sommes) de [^1564] ceux qui sacrifient dans l'ordre. 3. (L'Ahuna <span id="p390"><sup><small>[ p. 390 ]</small></sup></span> suit.) Sacrifice, hommage, force et rapidité soient au Fravashi de Thraêtaona, le saint. (Les raê<i>s</i><i>k</i>a Ahem et Ahmâi suivent.)
 
 ## III
 
@@ -52,7 +52,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 1\. Je proclame l'Airy<i>e</i>mâ-ishyô comme la plus grande de toutes les prières faisant autorité, ô Spitama ! comme la plus influente et la plus utile pour le progrès ; et puissent les Saoshya<i>n</i>ts (qui veulent nous faire progresser) l'utiliser et la vénérer.
 
-2\. Je parle en accord avec cela, ô Spitama ! et c'est pourquoi je régnerai en souverain sur les créatures qui sont miennes, moi qui suis Ahura Mazda. Que personne ne règne en tant qu'Angra Mainyu [^1566] sur des royaumes qui lui appartiennent, ô Zarathu<i>s</i>tra Spitama ! 3. Qu'Angra Mainyu soit caché sous la terre [^1567]. Que les Daêvas disparaissent également <span id="p391">[<sup><small>p. 391</small></sup>]</span>. Que les morts ressuscitent (sans être gênés par ces ennemis), et que la vie corporelle soit maintenue dans ces corps désormais sans vie.
+2\. Je parle en accord avec cela, ô Spitama ! et c'est pourquoi je régnerai en souverain sur les créatures qui sont miennes, moi qui suis Ahura Mazda. Que personne ne règne en tant qu'Angra Mainyu [^1566] sur des royaumes qui lui appartiennent, ô Zarathu<i>s</i>tra Spitama ! 3. Qu'Angra Mainyu soit caché sous la terre [^1567]. Que les Daêvas disparaissent également <span id="p391"><sup><small>[ p. 391 ]</small></sup></span>. Que les morts ressuscitent (sans être gênés par ces ennemis), et que la vie corporelle soit maintenue dans ces corps désormais sans vie.
 
 ## V
 
@@ -64,7 +64,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 Que la propitiation soit faite au corps créé du Veau béni et à son âme (ainsi, s'il n'y a qu'une seule vache présentée [^1570]). Que la propitiation soit faite à votre corps et à votre âme à tous les deux (ainsi, s'il y en a deux [^1570]). — À votre corps et à votre âme (s'il y en a trois, ou à tout le troupeau [^1570]). (L'Ahuna suit.)
 
-<span id="p392">[<sup><small>p. 392</small></sup>]</span>
+<span id="p392"><sup><small>[ p. 392 ]</small></sup></span>
 
 ## VII
 
@@ -78,7 +78,7 @@ Que la propitiation soit faite au corps créé du Veau béni et à son âme (ain
 
 1\. Les lunes de la saison décroîtront. Que les Mazdayasniens (prient) pour un frappeur qui puisse détruire rapidement (le démon qui cause leur déclin). Et que le malin meure rapidement, en effet. Car aucun de ses adeptes ne peut maintenir ce Druga par la prière.
 
-2\. Frappant férocement [^1573] de son arme, elle, la Dru<i>g</i>(k), continue son chemin, et elle a été la plus puissante. Et elle erre, ô Zarathu<i>s</i>tra ! Aussi consciente de sa puissance, et forte [^1574] à mesure qu'elle avance <span id="p393">[<sup><small>p. 393</small></sup>]</span> que la pécheresse Dru<i>g</i>(k). Mais que Khshathra [^1575] soit avec moi, afin que… le mortel puisse mourir, car alors le coup de destruction s'abattra sur la Dru<i>g</i>(k) [^1576].
+2\. Frappant férocement [^1573] de son arme, elle, la Dru<i>g</i>(k), continue son chemin, et elle a été la plus puissante. Et elle erre, ô Zarathu<i>s</i>tra ! Aussi consciente de sa puissance, et forte [^1574] à mesure qu'elle avance <span id="p393"><sup><small>[ p. 393 ]</small></sup></span> que la pécheresse Dru<i>g</i>(k). Mais que Khshathra [^1575] soit avec moi, afin que… le mortel puisse mourir, car alors le coup de destruction s'abattra sur la Dru<i>g</i>(k) [^1576].
 
 ## IX
 

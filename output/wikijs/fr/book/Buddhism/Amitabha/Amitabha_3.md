@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 Le bouddhisme avait pris de l’ampleur en Inde sans pour autant exterminer les croyances les plus anciennes, et de nombreuses personnes profondément religieuses n’avaient qu’une vague idée du contraste qui le séparait des autres formes de foi.
 
@@ -44,7 +44,7 @@ Tant qu'il ne connaissait pas son nouvel environnement, Charaka n'osait pas pose
 
 Dans un monastère bouddhiste, la vie est prise au sérieux et le ton des conversations est toujours religieux et prévenant. Néanmoins, il ne manquait jamais parmi les frères des hommes d'un tempérament plus léger, qui voyaient le côté drôle des choses, qui pouvaient sourire et, en souriant, souligner les aspects comiques de la vie afin de faire sourire aussi leurs frères, car on n'entendait que rarement, ou jamais, de vrai rire dans l'enceinte du cloître. On trouve de fréquentes traces de cet humour dans les peintures murales ainsi que dans les légendes des saints, dont une partie est conservée encore aujourd'hui. Alors que Charaka parlait de Dieu, l’un des frères, nommé Kevaddha, un homme d’apparence saine, de taille moyenne et au visage radieux, s’approcha et demanda : « Que veux-tu dire ? Indra, le tonnerre, le héros vantard et ivre de soma, le souverain du deuxième ciel, que les gens appellent Sakra ou Vâsava, ou veux-tu dire Shiva, le puissant et terrible, orné d’un collier de crânes, le dieu plein de crainte et de majesté ? Peut-être veux-tu dire Vishnu, sous l’une de ses formes, comme un poisson, un sanglier ou un cheval blanc ? »
 
-Charaka secoua la tête, et Kevaddha continua : « Peut-être veux-tu parler de Krishna, l’avatar <span id="p17">[<sup><small>p. 17</small></sup>]</span> de l’amour, lui qui dansait avec toutes les bergères à la fois, trouvant une incarnation appropriée dans leurs bergers préférés, tandis que chaque fille imaginait qu’elle seule tenait le dieu dans ses bras ? »
+Charaka secoua la tête, et Kevaddha continua : « Peut-être veux-tu parler de Krishna, l’avatar <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> de l’amour, lui qui dansait avec toutes les bergères à la fois, trouvant une incarnation appropriée dans leurs bergers préférés, tandis que chaque fille imaginait qu’elle seule tenait le dieu dans ses bras ? »
 
 « Ma question ne s'adresse à aucun des dieux, répondit le novice, mais à Dieu, » et l'insistance avec laquelle il marquait la différence montrait qu'il n'avait pas envie de plaisanter sur un problème qui était pour lui d'une grave importance.
 
@@ -64,7 +64,7 @@ Charaka ne dissimulait pas son mécontentement à l’égard de la notion de Die
 
 « Raconte-nous l’histoire ! » s’exclama l’un des plus jeunes frères, et Kevaddha répondit : « Si je voulais être sûr de ne pas blesser les sentiments de notre jeune ami, le novice, je serais heureux de raconter l’histoire. Mais comme c’est un adorateur de Brahma, je ferais mieux de laisser tomber cette affaire ! »
 
-Charaka répondit : « Je ne suis pas un adorateur de Brahma, à moins que vous n’entendiez par Brahma la Cause Première du Tout, la raison ultime de l’existence, l’Être Suprême, le Percepteur <span id="p21">[<sup><small>p. 21</small></sup>]</span> de toutes choses, le Contrôleur, le Seigneur, le Créateur, le Façonneur, le Chef, le Victorieux, le Gouverneur, le Père de tous les êtres qui ont jamais existé et qui existeront ! Si votre histoire est instructive, je suis impatient de l’entendre moi-même, même si elle devait critiquer ma croyance. »
+Charaka répondit : « Je ne suis pas un adorateur de Brahma, à moins que vous n’entendiez par Brahma la Cause Première du Tout, la raison ultime de l’existence, l’Être Suprême, le Percepteur <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> de toutes choses, le Contrôleur, le Seigneur, le Créateur, le Façonneur, le Chef, le Victorieux, le Gouverneur, le Père de tous les êtres qui ont jamais existé et qui existeront ! Si votre histoire est instructive, je suis impatient de l’entendre moi-même, même si elle devait critiquer ma croyance. »
 
 Toute discussion ultérieure a cessé lorsque Kevaddha a montré qu'il était prêt à raconter l'histoire.
 

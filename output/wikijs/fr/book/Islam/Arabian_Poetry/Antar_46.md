@@ -36,7 +36,7 @@ Antar retourna dans sa tribu et vécut retiré dans sa tente, affligé de la per
 
 Les filles partirent pour le lac à l'heure dite, et Amarah, déguisé en femme, les suivit. Lorsqu'elles atteignirent le lac, il se jeta sur Abla comme un vautour vorace. Mais le secours était à portée de main. Antar, caché derrière les dunes, entendit les cris d'Abla. Il se précipita comme un lion furieux, saisit Amarah et lui fit presque perdre la vie ; puis il le laissa partir, suivi par les railleries et les moqueries des filles.
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 « Cette circonstance concernant Abla se répandit bientôt, et toutes les femmes, les hommes, les filles, les garçons, les esclaves et les esclaves se joignirent aux rires contre Amarah, chantant ces versets, tandis qu'Amarah les entendait : les femmes et les bergères les chantaient à leurs fuseaux ; car il y avait une fille parmi les Absiens qui pouvait composer des vers ; elle était très éloquente, alors elle répéta ces versets sur Amarah le cocu, et ils furent rappelés par toutes les femmes et les filles : »
 
@@ -60,7 +60,7 @@ Tu es venu à nous dans des robes de soie teinte, toi, chaudron noir et graisseu
 
 Comme tu nous as rencontrés, un lion t'a rencontré, que tous les héros-lions reconnaissent dans le carnage :
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 Alors la peur trembla dans ton cœur, l'ivresse te quitta, et tu revins à la raison.Il ne te resta plus que le mépris, quand tu te retiras comme un tas de fumier.
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-27T20:32:21Z
   </table>
 </figure>
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 ## I
 
@@ -64,7 +64,7 @@ P. [168](./3_4#p168). « _Le cadi Abdullah el Mustakìm vivait à Bagdad_. El-Ma
 
 P. [181](./3_5#p181). _Azrael et son fils_.—Comme une version de l'histoire précédente, que l'auteur a entendu raconter plusieurs fois en entier et par bribes par des indigènes de Palestine, se trouve dans le recueil de contes de fées de Grimm, il est difficile de déterminer si son origine est orientale ou au contraire. Le nom du héros de celle qui suit, qui circule parmi les paysans du village chrétien indigène de Ramallah, situé à une quinzaine de kilomètres au nord de Jérusalem, semble indiquer qu'elle a été introduite par quelque moine espagnol ou italien. Elle a été racontée à l'auteur par quatre personnes différentes, toutes indigènes, et à autant d'occasions différentes.
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 P. [182](./3_5#p182). _Le jeu de cartes de François_. — Bien qu'à première vue il puisse sembler un anachronisme de mentionner que les cartes étaient jouées au temps des Hérodes, vu que la première mention réelle de leur utilisation en Europe remonte à l'année 1388 après J.-C., et que leur première introduction en France eut lieu sous le règne de Charles VII (1432-1461), certains savants allemands sont pourtant d'avis qu'elles furent une invention des Chinois, et qu'elles arrivèrent en Europe par un canal arabe. (Voir Brockhaus, « Conversations-Lexikon » sur « Spielkarten »).
 
@@ -94,7 +94,7 @@ P. [237](./3_8#p237). _Le « maûsam » ou saison de pèlerinage_.—Il varie se
 
 P. [238](./3_8#p238). _La fenêtre à mâchicoulis au-dessus de la porte_.—Au début du siècle dernier, de tels « mâchicoulis » ou fenêtres protégées au-dessus des portes étaient très courants à Jérusalem, non seulement à l'entrée des monastères et des édifices publics, mais même dans les habitations privées. On les rencontre rarement de nos jours.
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 P. [240](./3_8#p240) et suiv. _L'ignorance des prêtres chrétiens_.——Les chrétiens des diverses sectes de Palestine apprécient généralement aujourd'hui la valeur de l'éducation et rivalisent entre eux pour créer des écoles, spécialement pour la formation des ecclésiastiques. A Jérusalem et dans les environs, il existe plusieurs séminaires de ce genre, et bien qu'il y ait encore, surtout dans les endroits reculés, des ecclésiastiques ignorants, le nombre de ces derniers n'est cependant pas aussi grand qu'au début du siècle dernier, lorsque le clergé rural appartenant à l'Église grecque orthodoxe était notoirement connu pour son ignorance profonde, et qu'aucune disposition adéquate n'était prise pour l'instruction des ministres paroissiaux. Même à Jérusalem, il était d'usage que le prédicateur du dimanche se rende la semaine précédente chez un archimandrite savant pour recevoir un sermon de circonstance. [^169] On avait aussi l'habitude de pourvoir à la succession d'un prêtre de village qui devenait vieux ou faible, en choisissant un jeune homme du hameau et en l'envoyant comme domestique au couvent de Jérusalem, où il devait assister aux divers offices de l'église et apprendre par cœur les liturgies des dimanches, des fêtes, du baptême, etc., afin de pouvoir, au besoin, les lire au moins dans les livres de prières.
 
@@ -116,7 +116,7 @@ P. [272](./3_10#p272). _Histoire de l'homme qui gagna le coeur de la hyène_.—
 
 P. [275](./3_10#p275). et les pp. suivantes. _Le renard, l'aigle et le léopard_.—Une version de cette histoire de renard est relatée par F. Baldensperger dans _Quarterly Statement_ de juillet 1905, pp. 199, 201.
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 P. [283](./3_10#p283).—_La moelle épinière d'un homme devient un serpent_....Voir le commentaire de Hershon ci-dessus.
 

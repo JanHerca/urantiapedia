@@ -40,7 +40,7 @@ On raconte que Lahina vit dans une vision une femme en robe rouge en train de la
 
 Un Jogi alla rendre visite au Guru et le félicita pour le grand nombre de conversions qu'il avait faites. Le Guru répondit qu'il avait peu de vrais Sikhs, comme le Jogi le constaterait lui-même. Le Guru et le Jogi décidèrent de s'enfoncer dans la forêt et d'y expérimenter les convertis sikhs qui les accompagnaient en nombre. Pour ce faire, le Guru prit un déguisement terrible. Il revêtit des vêtements sales et en lambeaux, prit un couteau et s'enfonça dans la forêt avec des chiens de chasse, soi-disant à la recherche de gibier. Sur ce, plusieurs de ses Sikhs s'enfuirent. C'est à cette occasion que le Guru composa le texte suivant :
 
-<span id="p184">[<sup><small>p. 184</small></sup>]</span>
+<span id="p184"><sup><small>[ p. 184 ]</small></sup></span>
 
 J'ai un chien[^1] et deux chiennes[^2] avec moi ;
 Chaque matin, ils aboient contre le vent.[^3]
@@ -74,7 +74,7 @@ Le Vrai est, était, ô Nanak ; le Vrai sera aussi.
 
 Le gourou demanda à Lahina de prononcer le sort avec un cœur pur. Cela comblerait tous ses désirs, lui apporterait le bonheur en ce monde et le salut dans l'autre ; et par sa pratique continue, la lumière divine se lèverait dans son cœur. Sur ce, le Jogi dit : « Ô Nanak, celui qui naîtra de ton corps – ang – sera ton gourou. » Sur ce, le gourou embrassa Lahina, l'appela Angad et lui promit qu'il lui succéderait. Le Jogi et le gourou rentrèrent ensuite chez eux.
 
-<span id="p186">[<sup><small>p. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 Les Sikhs qui avaient abandonné le gourou regrettèrent amèrement leur conduite. Ceux qui avaient trouvé la monnaie de cuivre dirent que s'ils étaient allés plus loin, ils auraient trouvé la monnaie d'argent ; et ceux qui avaient trouvé la monnaie d'argent dirent que s'ils étaient allés plus loin, ils auraient trouvé la monnaie d'or. Sur ce, le gourou composa le texte suivant :
 

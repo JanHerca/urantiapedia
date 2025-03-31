@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 
 Il appela son écuyer, le rapide Chandaka.
@@ -43,7 +43,7 @@ Chandaka connaissait les ordres du roi, mais il sentait une puissance supérieur
 
 Kanthaka était un animal magnifique ; il était fort et souple. Siddhartha le caressa doucement, puis lui dit d'une voix douce :
 
-« À maintes reprises, ô noble bête, mon père t'a chevauché au combat et a vaincu ses puissants ennemis. Aujourd'hui, je pars à la recherche de la béatitude suprême ; prête-moi ton aide, ô Kanthaka ! Les compagnons d'armes ou de plaisir ne sont pas difficiles à trouver, et nous ne manquons jamais d'amis lorsque nous nous lançons dans l'acquisition de richesses ; mais compagnons et amis nous abandonnent lorsque nous voulons emprunter le chemin de la sainteté. Pourtant, d'une chose, <span id="p61">[<sup><small>p. 61</small></sup>]</span> je suis certain : celui qui aide autrui à faire le bien ou le mal participe à ce bien ou à ce mal. Sache donc, ô Kanthaka, que c'est une impulsion vertueuse qui m'anime. Prête-moi ta force et ta rapidité ; le salut du monde et le tien sont en jeu. »
+« À maintes reprises, ô noble bête, mon père t'a chevauché au combat et a vaincu ses puissants ennemis. Aujourd'hui, je pars à la recherche de la béatitude suprême ; prête-moi ton aide, ô Kanthaka ! Les compagnons d'armes ou de plaisir ne sont pas difficiles à trouver, et nous ne manquons jamais d'amis lorsque nous nous lançons dans l'acquisition de richesses ; mais compagnons et amis nous abandonnent lorsque nous voulons emprunter le chemin de la sainteté. Pourtant, d'une chose, <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> je suis certain : celui qui aide autrui à faire le bien ou le mal participe à ce bien ou à ce mal. Sache donc, ô Kanthaka, que c'est une impulsion vertueuse qui m'anime. Prête-moi ta force et ta rapidité ; le salut du monde et le tien sont en jeu. »
 
 Le prince avait parlé à Kanthaka comme il l'aurait fait à un ami. Il monta alors en selle avec empressement, tel le soleil chevauchant un nuage d'automne.
 

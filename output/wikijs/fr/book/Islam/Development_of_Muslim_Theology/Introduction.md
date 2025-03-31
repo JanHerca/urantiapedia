@@ -34,9 +34,9 @@ dateCreated: 2024-11-26T20:22:12Z
 
 
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 Dans le progrès humain, unité et complexité sont les deux corrélatifs qui forment ensemble le grand paradoxe. La vie est multiple, mais elle est aussi une. Il est donc rarement possible, et encore moins recommandable, de diviser une civilisation en départements et de tenter de retracer leurs développements séparés ; la vie ne peut nulle part être coupée en deux avec une hache. Et cela est particulièrement vrai de la civilisation de l'Islam. Son unité intellectuelle, pour le bien et pour le mal, est sa qualité principale. Elle a peut-être résolu le problème de la foi et de la science, comme le pensent certains ; elle a peut-être écrasé toute pensée qui n'est pas de la foi, comme le pensent beaucoup d'autres. Quoi qu'il en soit, sa vie et sa pensée sont une unité.
 

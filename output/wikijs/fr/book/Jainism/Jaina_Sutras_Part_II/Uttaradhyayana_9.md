@@ -36,7 +36,7 @@ NEUVIÈME CONFÉRENCE. LA PRAVRA<i>G</i>YÂ DU ROI NAMI [^130].
 
 Après que (Nami) soit descendu du monde des dieux et soit né en tant qu'homme, il mit fin à l'influence de l'illusion et se souvint de sa naissance antérieure. (1)
 
-Se souvenant de sa naissance antérieure, le roi Nami <span id="p36">[<sup><small>p. 36</small></sup>]</span> devint un Svaya<i>m</i>sa<i>m</i>bouddha dans la vraie Loi, et plaçant son fils sur le trône, il se retira du monde. (2)
+Se souvenant de sa naissance antérieure, le roi Nami <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> devint un Svaya<i>m</i>sa<i>m</i>bouddha dans la vraie Loi, et plaçant son fils sur le trône, il se retira du monde. (2)
 
 Après avoir joui, en compagnie des belles dames de son sérail, d'excellents plaisirs qui égalent ceux des cieux, le roi Nami devint éclairé et renonça à ses plaisirs. (3)
 
@@ -52,7 +52,7 @@ En entendant cela, le voyant royal Nami, poursuivant ses raisons et ses argument
 
 « À Mithilâ se trouve l'arbre sacré [^132] Manôrama, plein de feuilles, de fleurs et de fruits, qui projette une ombre fraîche ; cet arbre est toujours le lieu de villégiature favori de nombreux (oiseaux). » (9)
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 « Maintenant, alors que cet arbre sacré Manôrama est secoué par la tempête, les oiseaux, souffrants, dépourvus de refuge et misérables, crient à haute voix. » (10)
 
@@ -102,7 +102,7 @@ Nami répondit (voir verset 8) : (33)
 
 « Combattez votre Soi ; pourquoi combattre des ennemis extérieurs ? Celui qui se conquiert par lui-même obtiendra le bonheur. » (35)
 
-« Les cinq sens, la colère, l'orgueil, l'illusion et la cupidité <span id="p39">[<sup><small>p. 39</small></sup>]</span> — il est difficile de vaincre soi-même ; mais quand on le conquiert, tout est conquis [^137]. » (36)
+« Les cinq sens, la colère, l'orgueil, l'illusion et la cupidité <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> — il est difficile de vaincre soi-même ; mais quand on le conquiert, tout est conquis [^137]. » (36)
 
 Indra répondit (voir verset 11) : (37)
 
@@ -146,7 +146,7 @@ Bravo ! tu as vaincu la colère ; bravo ! tu as vaincu l'orgueil ; bravo ! tu as
 
 « Bravo pour votre simplicité, ô saint ! bravo pour votre humilité, ô saint ! bravo pour votre parfaite patience ! bravo pour votre parfaite libération ! (57)
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 « Ici (sur terre), vous êtes l'homme le plus élevé, Révérend monsieur, et désormais vous serez le plus élevé ; exempt de toute tache, vous atteindrez la Perfection, un état plus élevé que celui qu'il n'y a pas dans ce monde. » (58)
 

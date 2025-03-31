@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 CINQUIÈME LEÇON, INTIMÉ DESCRIPTION DES ENFERS.
 
@@ -62,7 +62,7 @@ Et ils arrivent au grand enfer infranchissable, plein d'agonie, appelé Asûrya 
 
 Là, comme dans une grotte, rôti au feu, il est brûlé, ayant perdu la réminiscence (de ses péchés) et la conscience de tout le reste ; toujours souffrant (il arrive) à ce lieu misérable et chaud qui est toujours prêt (pour le châtiment des malfaiteurs) [^828]. (12)
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Là, les cruels punisseurs ont allumé quatre feux et rôtissent les pécheurs ; ils y sont rôtis comme des poissons mis vivants au feu. (13)
 

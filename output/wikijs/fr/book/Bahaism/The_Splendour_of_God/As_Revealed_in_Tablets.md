@@ -45,7 +45,7 @@ Si nous sommes confrontés à des difficultés ou à des préjudices, nous devon
 
 Garder le silence sur les défauts des autres, prier pour eux et les aider, par la bonté, à corriger leurs défauts.
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 Il faut toujours regarder le bien et non le mal. Si un homme a dix qualités et une mauvaise, il faut regarder les dix et oublier la première. Et si un homme a dix qualités mauvaises et une bonne, il faut regarder la première et oublier les dix.
 
@@ -61,7 +61,7 @@ Pour couper nos cœurs de nous-mêmes et du monde.
 
 Être serviteurs les uns des autres et savoir que nous sommes inférieurs à tous les autres.
 
-Être comme une seule âme dans plusieurs corps ; car plus nous nous aimons, plus nous serons proches de Dieu ; mais notre amour, notre unité, notre <span id="p124">[<sup><small>p. 124</small></sup>]</span> obéissance, ne doivent pas être une confession mais une réalité.
+Être comme une seule âme dans plusieurs corps ; car plus nous nous aimons, plus nous serons proches de Dieu ; mais notre amour, notre unité, notre <span id="p124"><sup><small>[ p. 124 ]</small></sup></span> obéissance, ne doivent pas être une confession mais une réalité.
 
 Agir avec prudence et sagesse.
 

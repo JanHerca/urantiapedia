@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 CHAPITRE III., Verset 16.—Dieu témoigne qu'il n'y a pas d'autre Dieu que Lui, et les anges et les hommes doués de science se lèvent pour défendre la justice. Il n'y a pas d'autre Dieu que Lui, le Puissant, le Sage…
 
@@ -44,7 +44,7 @@ Chapitre VIII., Verset 12. — Quand votre Seigneur inspira aux anges : « En v�
 
 C'est parce qu'ils se sont opposés à Dieu et à Son apôtre ; car quiconque se rebelle contre Dieu et contre Son apôtre, certes, Dieu est prompt à punir.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Chapitre XVI., Verset 3. — Il envoie les anges avec l'Esprit sur Son ordre à qui Il veut parmi Ses serviteurs (pour dire) : « Avertissez qu'il n'y a pas d'autre Dieu que Moi. »
 

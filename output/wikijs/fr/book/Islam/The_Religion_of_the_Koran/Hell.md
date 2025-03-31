@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 CHAPITRE IV., Verset 18.—Mais quiconque se rebelle contre Dieu et contre son Apôtre, et transgresse ses limites, il le fera entrer dans le feu, et il y demeurera éternellement, et un malheur honteux lui sera réservé.
 
@@ -42,7 +42,7 @@ Chapitre X., Verset 28. — Mais quant à ceux qui ont commis le mal, la récomp
 
 Chapitre XI., Verset 120. — « Je remplirai sûrement l'Enfer de djinns et d'êtres humains. »
 
-Chapitre XIV., Verset 19. — Alors ils demandèrent une issue ; et tout tyran rebelle fut déçu. Derrière un tel homme est l'Enfer, et il lui sera donné à boire du pus liquide. (20) Il essaiera de l'avaler, mais ne pourra pas l'engloutir ; et <span id="p41">[<sup><small>p. 41</small></sup>]</span> la mort viendra sur lui de partout, et pourtant il ne mourra pas ; et derrière lui sera un malheur rigoureux !
+Chapitre XIV., Verset 19. — Alors ils demandèrent une issue ; et tout tyran rebelle fut déçu. Derrière un tel homme est l'Enfer, et il lui sera donné à boire du pus liquide. (20) Il essaiera de l'avaler, mais ne pourra pas l'engloutir ; et <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> la mort viendra sur lui de partout, et pourtant il ne mourra pas ; et derrière lui sera un malheur rigoureux !
 
 Chapitre XV., Verset 44. — Il (l'Enfer) a sept portes ; à chaque porte il y a un groupe séparé d'entre eux.
 
@@ -52,7 +52,7 @@ Chapitre XXII., Verset 20. — Ce sont deux disputeurs qui se disputent au sujet
 
 Chapitre XXXV., Verset 32. — Mais ceux qui ne croient pas auront pour châtiment le feu de l'Enfer ; il ne leur sera pas décrété de mourir, et aucun châtiment ne leur sera allégé ; c'est ainsi que Nous récompensons tout mécréant.
 
-Chapitre XXXVII., Verset 60. — Est-ce là un meilleur divertissement que l'arbre infernal des Enfers ? En vérité, nous en avons fait une épreuve pour les injustes. En vérité, c'est un arbre qui sort du fond de l'Enfer ; sa spathe est comme des têtes de diables ; en vérité, ils en mangeront <span id="p42">[<sup><small>p. 42</small></sup>]</span> et s'en rempliront le ventre. (65) Puis ils auront dessus un mélange d'eau bouillante ; alors, en vérité, leur retour sera en Enfer.
+Chapitre XXXVII., Verset 60. — Est-ce là un meilleur divertissement que l'arbre infernal des Enfers ? En vérité, nous en avons fait une épreuve pour les injustes. En vérité, c'est un arbre qui sort du fond de l'Enfer ; sa spathe est comme des têtes de diables ; en vérité, ils en mangeront <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> et s'en rempliront le ventre. (65) Puis ils auront dessus un mélange d'eau bouillante ; alors, en vérité, leur retour sera en Enfer.
 
 Chapitre LXX., Verset 15. — Non, en vérité, c'est une flamme qui traîne par le crâne ! Elle appellera ceux qui ont reculé et tourné le dos, et ceux qui ont amassé et thésaurisé !
 

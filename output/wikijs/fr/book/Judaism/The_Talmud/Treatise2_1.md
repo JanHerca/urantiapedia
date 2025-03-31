@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 ## TRAITÉ II.
 
@@ -48,7 +48,7 @@ Labourage — Jardinage — Fumage — Enlèvement de pierres — Semis — Abat
 
 3\. « Sont-ils stériles ou fructueux ? » « On peut les considérer comme des figuiers. » « Sont-ils capables de produire un tas de figues valant soixante mines italiennes ? » « À cause d'eux, ils peuvent légalement labourer les cinquante coudées de côté qui les entourent. Au-delà de ces cinquante coudées, ils ne peuvent labourer que ce qui est absolument nécessaire. »
 
-4\. « Un arbre a produit un tas de figues, et deux arbres n'en ont pas produit ; ou deux arbres en ont produit, et un n'en a pas produit ? » « Les hommes ne peuvent labourer que ce qui leur est absolument nécessaire, jusqu'à ce qu'ils soient au nombre de trois à neuf. » <span id="p63">[<sup><small>p. 63</small></sup>]</span> « S'ils sont dix ? » « À leur compte, les hommes peuvent légalement labourer tout autour d'eux sur une surface de cinquante coudées de côté ; et aussi à partir de dix arbres et plus, qu'ils produisent ou non. » Comme il est dit : « Au temps de la récolte et à la moisson, tu te reposeras. » [^39] Il n'est pas nécessaire de dire temps de la récolte et moisson dans l'année sabbatique, mais temps de la récolte à la veille de l'année sabbatique, quand on entre juste dans l'année sabbatique ; et moisson de l'année sabbatique, qui se déroule vers la fin de l'année sabbatique. Rabbi Ismaël a dit : « Comme le temps de récolte (mentionné dans Exode xxxiv. 21) est volontaire, ainsi la récolte est volontaire, à l'exception de la récolte de la gerbe (omer). » [^40]
+4\. « Un arbre a produit un tas de figues, et deux arbres n'en ont pas produit ; ou deux arbres en ont produit, et un n'en a pas produit ? » « Les hommes ne peuvent labourer que ce qui leur est absolument nécessaire, jusqu'à ce qu'ils soient au nombre de trois à neuf. » <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> « S'ils sont dix ? » « À leur compte, les hommes peuvent légalement labourer tout autour d'eux sur une surface de cinquante coudées de côté ; et aussi à partir de dix arbres et plus, qu'ils produisent ou non. » Comme il est dit : « Au temps de la récolte et à la moisson, tu te reposeras. » [^39] Il n'est pas nécessaire de dire temps de la récolte et moisson dans l'année sabbatique, mais temps de la récolte à la veille de l'année sabbatique, quand on entre juste dans l'année sabbatique ; et moisson de l'année sabbatique, qui se déroule vers la fin de l'année sabbatique. Rabbi Ismaël a dit : « Comme le temps de récolte (mentionné dans Exode xxxiv. 21) est volontaire, ainsi la récolte est volontaire, à l'exception de la récolte de la gerbe (omer). » [^40]
 
 5\. « Si les trois arbres appartiennent à trois propriétaires ? » « Ils sont comptés comme un seul, et à cause d'eux, ils peuvent labourer légalement les cinquante coudées de côté. » « Et quel espace doit-il y avoir entre eux ? » demanda Rabban Simon, fils de Gamaliel, « pour qu'un taureau avec ses instruments de labour puisse passer. »
 

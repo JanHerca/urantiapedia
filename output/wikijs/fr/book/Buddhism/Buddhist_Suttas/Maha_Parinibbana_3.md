@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 ## LE LIVRE DU GRAND DÉCÈS. MAHÂ-PARINIBBÂNA-SUTTA. CHAPITRE III.
 
@@ -42,11 +42,11 @@ dateCreated: 2025-2-6T11:21:5Z
 
 2\. Le Bienheureux se rendit donc au Kâpâla Ketiya, et une fois arrivé, il s'assit sur la natte étalée pour lui, et le vénérable Ananda prit respectueusement place à ses côtés. Puis le Bienheureux s'adressa au vénérable Ananda et dit : « Quel endroit délicieux, Ânanda, que Vesâli, l'Udena Ketiya, le Gotamaka Ketiya, le Sattambaka Ketiya, le Bahuputta Ketiya, le Sârandada Ketiya et le Kâpâla Ketiya. »
 
-3\. « Ânanda ! Quiconque a pensé, développé, pratiqué, accumulé et atteint les sommets des quatre voies de l’Iddhi[^2], et ainsi <span id="p41">[<sup><small>p. 41</small></sup>]</span> les a maîtrisées au point de pouvoir les utiliser comme moyen de progrès (mental) et comme base d’édification, il pourrait, s’il le désirait, demeurer dans la même vie pendant un kalpa, ou pour la portion de kalpa qui lui restait à courir. Or, le Tathâgata les a pensés, et les a pratiqués et développés à fond \[à tous égards comme cela vient d’être décrit plus en détail\], et il pourrait, par conséquent, s’il le désirait, vivre encore pendant un kalpa, ou pour la portion de kalpa qui lui restait à courir. »
+3\. « Ânanda ! Quiconque a pensé, développé, pratiqué, accumulé et atteint les sommets des quatre voies de l’Iddhi[^2], et ainsi <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> les a maîtrisées au point de pouvoir les utiliser comme moyen de progrès (mental) et comme base d’édification, il pourrait, s’il le désirait, demeurer dans la même vie pendant un kalpa, ou pour la portion de kalpa qui lui restait à courir. Or, le Tathâgata les a pensés, et les a pratiqués et développés à fond \[à tous égards comme cela vient d’être décrit plus en détail\], et il pourrait, par conséquent, s’il le désirait, vivre encore pendant un kalpa, ou pour la portion de kalpa qui lui restait à courir. »
 
 4\. Mais même si une suggestion aussi évidente et une allusion aussi claire furent ainsi données par le Béni du Ciel, le vénérable Ananda fut incapable de les comprendre ; et il ne supplia pas le Béni du Ciel, disant : « Daigne, Seigneur, rester pendant le kalpa ! Vis pendant le kalpa, ô Béni du Ciel ! Pour le bien et le bonheur des grandes multitudes, par pitié pour le monde, pour le bien, le gain et le bonheur des dieux et des hommes ! » Son cœur était tellement possédé par le Malin[^3].
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 5\. Une deuxième et une troisième fois le Béni du Ciel \[dit la même chose, et une deuxième et une troisième fois le cœur d'Ananda fut ainsi endurci\].
 
@@ -58,7 +58,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 7\. Peu après le départ du vénérable Ananda, Mâra, le Malin, s'approcha du Bienheureux et se tint à ses côtés. Debout, il s'adressa au Bienheureux en ces termes :
 
-« Seigneur, disparais maintenant ; laisse le Bienheureux mourir maintenant. Le temps est venu pour le Bienheureux de disparaître, selon l'<span id="p43">[<sup><small>p. 43</small></sup>]</span> ordre qu'il a prononcé : lorsqu'il a dit[^4] : « Je ne mourrai pas, ô Mauvais ! « jusqu'à ce que les frères et sœurs de l'ordre, et jusqu'à ce que les disciples laïcs des deux sexes[^5] soient devenus de vrais auditeurs, sages et bien formés, prêts et instruits, versés dans les Écritures, accomplissant tous les devoirs grands et petits, corrects dans la vie, marchant selon les préceptes — jusqu'à ce qu'eux-mêmes, ayant ainsi appris la doctrine, soient capables de la dire aux autres, de la prêcher, de la faire connaître, de l'établir, de l'ouvrir, de l'expliquer minutieusement et de la rendre claire — jusqu'à ce que, lorsque d'autres lancent une vaine doctrine, ils soient capables par la vérité de la vaincre et de la réfuter, et ainsi de répandre la vérité miraculeuse au loin ! »
+« Seigneur, disparais maintenant ; laisse le Bienheureux mourir maintenant. Le temps est venu pour le Bienheureux de disparaître, selon l'<span id="p43"><sup><small>[ p. 43 ]</small></sup></span> ordre qu'il a prononcé : lorsqu'il a dit[^4] : « Je ne mourrai pas, ô Mauvais ! « jusqu'à ce que les frères et sœurs de l'ordre, et jusqu'à ce que les disciples laïcs des deux sexes[^5] soient devenus de vrais auditeurs, sages et bien formés, prêts et instruits, versés dans les Écritures, accomplissant tous les devoirs grands et petits, corrects dans la vie, marchant selon les préceptes — jusqu'à ce qu'eux-mêmes, ayant ainsi appris la doctrine, soient capables de la dire aux autres, de la prêcher, de la faire connaître, de l'établir, de l'ouvrir, de l'expliquer minutieusement et de la rendre claire — jusqu'à ce que, lorsque d'autres lancent une vaine doctrine, ils soient capables par la vérité de la vaincre et de la réfuter, et ainsi de répandre la vérité miraculeuse au loin ! »
 
 8\. « Et maintenant, Seigneur, les frères et sœurs de l'ordre et les disciples laïcs des deux sexes sont devenus \[tout cela\], sont capables de faire \[tout cela\]. Passe donc maintenant, Seigneur, de l'existence ; que le Bienheureux meure maintenant ! Le temps est venu pour le Bienheureux de passer, selon la parole qu'il a prononcée lorsqu'il a dit : « Je ne mourrai pas, ô Mauvais ! que ma pure religion ne soit devenue fructueuse, prospère, répandue et populaire dans toute son étendue – que, en un mot, elle n'ait été bien proclamée aux hommes. » Et maintenant, Seigneur, ta pure religion est devenue \[tout cela\]. Passe donc maintenant, Seigneur, de l'existence ; que le Bienheureux meure maintenant ! Le temps est venu pour le Bienheureux de passer ! »
 
@@ -81,15 +81,15 @@ Comme une cotte de mailles, la cause de sa vie !
 
 13\. « Huit sont les causes immédiates et huit les causes lointaines, Ânanda, de l'apparition d'un puissant tremblement de terre. Quelles sont ces huit causes ? Cette grande terre, Ânanda, repose sur l'eau, l'eau sur le vent, et le vent repose sur l'espace. Et à ce moment-là, Ânanda, lorsque les vents puissants soufflent, les eaux sont secouées par ces vents puissants, et la terre est secouée par l'eau en mouvement. Telles sont les causes premières, immédiates et lointaines, de l'apparition d'un puissant tremblement de terre. »
 
-14\. « Encore une fois, Ânanda, un Samana ou un Brahmane d'une grande puissance (intellectuelle), et qui maîtrise parfaitement les sentiments de son cœur ; ou un dieu ou une fée (devatâ[^6]) d'une grande puissance et d'un grand pouvoir, — lorsqu'un tel <span id="p46">[<sup><small>p. 46</small></sup>]</span>, par une méditation intense sur l'idée finie de la terre ou l'idée infinie de l'eau (a réussi à réaliser la valeur comparative des choses[^7]), il peut faire bouger et trembler cette terre et la secouer violemment. Telles sont les deuxièmes causes, proches ou lointaines, de l'apparition d'un puissant tremblement de terre. »
+14\. « Encore une fois, Ânanda, un Samana ou un Brahmane d'une grande puissance (intellectuelle), et qui maîtrise parfaitement les sentiments de son cœur ; ou un dieu ou une fée (devatâ[^6]) d'une grande puissance et d'un grand pouvoir, — lorsqu'un tel <span id="p46"><sup><small>[ p. 46 ]</small></sup></span>, par une méditation intense sur l'idée finie de la terre ou l'idée infinie de l'eau (a réussi à réaliser la valeur comparative des choses[^7]), il peut faire bouger et trembler cette terre et la secouer violemment. Telles sont les deuxièmes causes, proches ou lointaines, de l'apparition d'un puissant tremblement de terre. »
 
 15. « De plus, Ananda, lorsqu'un Bodhisatta quitte consciemment et délibérément sa forme temporaire dans le ciel de délices et descend dans le ventre de sa mère, alors cette terre tremble et est violemment secouée. Telles sont les troisièmes causes, proches ou lointaines, de l'apparition d'un puissant tremblement de terre[^8]. »
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 16\. « De plus, Ananda, lorsqu'un Bodhisatta quitte délibérément et consciemment le ventre de sa mère, la terre tremble, tremble et est violemment secouée. C'est la quatrième cause, proche et lointaine, de l'apparition d'un puissant tremblement de terre. »
 
-17\. « De nouveau, Ânanda », lorsqu'un Tathâgata parvient à l'Éveil suprême et parfait, alors cette terre tremble, tremble et est violemment secouée. <span id="p48">[<sup><small>p. 48</small></sup>]</span> C'est la cinquième cause, proche et lointaine, de l'apparition d'un puissant tremblement de terre.
+17\. « De nouveau, Ânanda », lorsqu'un Tathâgata parvient à l'Éveil suprême et parfait, alors cette terre tremble, tremble et est violemment secouée. <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> C'est la cinquième cause, proche et lointaine, de l'apparition d'un puissant tremblement de terre.
 
 18\. « De plus, Ânanda, lorsqu'un Tathâgata fonde le sublime royaume de la droiture, alors cette terre tremble, tremble et est violemment secouée. C'est la sixième cause, proche et lointaine, de l'apparition d'un puissant tremblement de terre. »
 
@@ -101,7 +101,7 @@ Comme une cotte de mailles, la cause de sa vie !
 
 21\. « Or, Ânanda, ces assemblées sont de huit sortes. Lesquelles sont-elles[^9] ? Des assemblées de nobles, de Brâhmanes, de chefs de famille et de Samanes, ainsi que des armées angéliques des Anges Gardiens, les Trente-Trois Grands, Mâra et Brahma.
 
-22\. « Je me souviens, Ananda, comment, lorsque j'entrais dans une assemblée de plusieurs centaines de nobles, avant même de m'y être assis, de leur avoir parlé ou d'avoir engagé la conversation, je devenais pareil à leur teint et à leur voix. Alors, par des discours religieux <span id="p49">[<sup><small>p. 49</small></sup>]</span>, je les instruisais, les excitais, les vivifiais et les remplissais de joie. Mais ils ne me reconnaissaient pas quand je parlais et disaient : « Qui peut bien être celui qui parle ainsi ? Un homme ou un dieu ? » Alors, après les avoir instruits, stimulés, vivifiés et réjouis par des discours religieux, je disparaissais. Mais ils ne me reconnaissaient pas, même lorsque je disparaissais, et disaient : « Qui peut bien être celui qui a ainsi disparu ? Un homme ou un dieu ? »
+22\. « Je me souviens, Ananda, comment, lorsque j'entrais dans une assemblée de plusieurs centaines de nobles, avant même de m'y être assis, de leur avoir parlé ou d'avoir engagé la conversation, je devenais pareil à leur teint et à leur voix. Alors, par des discours religieux <span id="p49"><sup><small>[ p. 49 ]</small></sup></span>, je les instruisais, les excitais, les vivifiais et les remplissais de joie. Mais ils ne me reconnaissaient pas quand je parlais et disaient : « Qui peut bien être celui qui parle ainsi ? Un homme ou un dieu ? » Alors, après les avoir instruits, stimulés, vivifiés et réjouis par des discours religieux, je disparaissais. Mais ils ne me reconnaissaient pas, même lorsque je disparaissais, et disaient : « Qui peut bien être celui qui a ainsi disparu ? Un homme ou un dieu ? »
 
 23\. \[Et dans les mêmes mots, le Béni du Ciel parla de la façon dont il avait été utilisé pour entrer dans les assemblées de chacune des huit autres sortes, et de la façon dont il ne leur avait été révélé ni en parlant ni en disparaissant.\] 'Maintenant, Ananda, ce sont les huit assemblées.'
 
@@ -109,7 +109,7 @@ Comme une cotte de mailles, la cause de sa vie !
 
 24\. « Or, Ananda, voici les huit positions de maîtrise \[sur l'illusion découlant de l'apparente permanence des choses extérieures[^10]\]. Quelles sont ces huit positions ?
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 25\. « Lorsqu'un homme ayant subjectivement l'idée de la forme voit extérieurement des formes qui sont finies, et agréables ou désagréables à la vue, et les ayant maîtrisées, est conscient qu'il sait et voit, c'est la première position de maîtrise.
 
@@ -129,7 +129,7 @@ Comme une cotte de mailles, la cause de sa vie !
 
 35\. « Sans l’idée subjective de la forme, il voit les formes extérieurement – ​​c’est la deuxième étape de la délivrance.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 36\. « Avec la pensée « c’est bien », il devient attentif (à ce qu’il voit) — c’est la troisième étape de la délivrance.
 
@@ -155,7 +155,7 @@ Comme une cotte de mailles, la cause de sa vie !
 
 46\. 'Et maintenant encore aujourd'hui, Ânanda, au Kâpâla Ketiya, Mara, le Malin, est venu à l'endroit où j'étais, et se tenant à côté de moi, il m'a parlé \[dans les mêmes mots\].
 
-47\. « Et lorsqu'il eut ainsi parlé, Ânanda, je lui répondis et dis : « Sois heureux, l'extinction finale du Tathâgata aura lieu <span id="p54">[<sup><small>p. 54</small></sup>]</span> sous peu. Au bout de trois mois à compter de maintenant, le Tathâgata mourra ! »
+47\. « Et lorsqu'il eut ainsi parlé, Ânanda, je lui répondis et dis : « Sois heureux, l'extinction finale du Tathâgata aura lieu <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> sous peu. Au bout de trois mois à compter de maintenant, le Tathâgata mourra ! »
 
 48\. 'Ainsi, Ânanda, le Tathâgata a aujourd'hui, au Kâpâla Ketiya, consciemment et délibérément rejeté le reste de la durée de sa vie.'
 
@@ -189,13 +189,13 @@ Alors, ô Ananda, ta faute est là, ta faute est là, car, lorsqu'une suggestion
 
 59\. '« Quiconque, Ânanda, a pensé et développé, pratiqué, accumulé et élevé jusqu'aux sommets des quatre voies de la sainteté, et les a tellement maîtrisées qu'il est capable de les utiliser comme moyen de progrès (mental) et comme base d'édification, il pourrait, s'il le désirait, demeurer dans la même vie pendant un kalpa, ou pendant la portion de kalpa qui lui reste à courir. » Or, le Tathâgata les a pensés et pratiqués à fond \[à tous égards comme cela vient d'être décrit en détail\], et pourrait, s'il le désirait, demeurer en vie pendant un kalpa, ou pendant la portion de kalpa qui lui reste à courir.'
 
-60\. « Un jour, Ânanda, je résidais ici à Vesâli, à l'Udena Ketiya. Et là aussi, Ânanda, je t'ai parlé et dit : « Comme Vesâli est agréable, Ânanda ; comme l'Udena Ketiya est agréable ! Quiconque, Ânanda, a pensé et développé, pratiqué, accumulé et atteint les sommets des quatre voies de la sainteté, et les a maîtrisées au point de pouvoir les utiliser comme moyen de progrès (mental) et comme base d'édification, pourrait, s'il le désirait, demeurer dans la même vie pendant un kalpa, ou pour la portion de kalpa qui reste à courir. » Or, le Tathâgata a pensé et pratiqué pleinement <span id="p58">[<sup><small>p. 58</small></sup>]</span> eux \[à tous égards comme cela vient d'être décrit en détail\], et pourrait, s'il le désirait, rester en vie pendant un kalpa, ou pendant la partie d'un kalpa qui n'a pas encore couru.
+60\. « Un jour, Ânanda, je résidais ici à Vesâli, à l'Udena Ketiya. Et là aussi, Ânanda, je t'ai parlé et dit : « Comme Vesâli est agréable, Ânanda ; comme l'Udena Ketiya est agréable ! Quiconque, Ânanda, a pensé et développé, pratiqué, accumulé et atteint les sommets des quatre voies de la sainteté, et les a maîtrisées au point de pouvoir les utiliser comme moyen de progrès (mental) et comme base d'édification, pourrait, s'il le désirait, demeurer dans la même vie pendant un kalpa, ou pour la portion de kalpa qui reste à courir. » Or, le Tathâgata a pensé et pratiqué pleinement <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> eux \[à tous égards comme cela vient d'être décrit en détail\], et pourrait, s'il le désirait, rester en vie pendant un kalpa, ou pendant la partie d'un kalpa qui n'a pas encore couru.
 
 61\. « Une fois, Ânanda, j'habitais ici à Vesâli, au Gotamaka <i>K</i>etiya — une fois ici à Vesâli, au Sattamba <i>K</i>etiya — une fois ici à Vesâli, au Bahuputta <i>K</i>etiya — une fois ici à Vesâli, au Sârandada <i>K</i>etiya — [et à chaque fois, je t'ai parlé, Ânanda, dans les mêmes termes —].
 
 62\. « Et maintenant, aujourd'hui, Ânanda, au Kâpâla Ketiya, je t'ai parlé et je t'ai dit : « Comme il est agréable, Ânanda, Vesâli ; comme il est agréable l'Udena Ketiya ; comme il est agréable le Gotamaka Ketiya ; comme il est agréable le Sattamba Ketiya ; comme il est agréable le Bahuputta Ketiya ; comme il est agréable le Sârandada Ketiya. Quiconque, Ânanda, a pensé, développé, pratiqué, accumulé et atteint les sommets des quatre voies de la sainteté, et les a maîtrisées au point de pouvoir les utiliser comme moyen de progrès (mental) et comme base d'édification, pourrait, s'il le désirait, demeurer dans la même vie pendant un kalpa, ou la partie de kalpa qui lui reste à courir. Or, le Tathâgata les a pensés et pratiqués minutieusement [à tous égards tels que décrits plus haut], et pourrait, s'il le désirait, demeurer en vie pendant un kalpa, ou la partie de kalpa qui lui reste à courir.
 
-63\. « Mais maintenant, Ânanda, ne t'ai-je pas déjà[^12] déclaré <span id="p59">[<sup><small>p. 59</small></sup>]</span> qu'il est dans la nature même de toutes choses, qui nous sont proches et chères, que nous devons nous en séparer, les quitter, nous en détacher ? Comment alors, Ânanda, cela est-il possible – alors que tout ce qui est né, amené à l'existence et organisé contient en lui-même la nécessité inhérente de la dissolution – comment alors est-il possible qu'un tel être ne soit pas dissous ? Une telle condition ne peut exister ! Et cet être mortel, Ânanda, a été abandonné par le Tathâgata, renoncé, rejeté et abandonné. La somme de vie restante a été abandonnée par lui. En vérité, la parole est venue du Tathâgata, disant : « L'extinction finale du Tathâgata aura lieu sous peu. » Au bout de trois mois à partir de maintenant, le Tathâgata mourra ! Que le Tathâgata, pour vivre, se repente à nouveau de cette parole, cela ne peut être sage[^13] !
+63\. « Mais maintenant, Ânanda, ne t'ai-je pas déjà[^12] déclaré <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> qu'il est dans la nature même de toutes choses, qui nous sont proches et chères, que nous devons nous en séparer, les quitter, nous en détacher ? Comment alors, Ânanda, cela est-il possible – alors que tout ce qui est né, amené à l'existence et organisé contient en lui-même la nécessité inhérente de la dissolution – comment alors est-il possible qu'un tel être ne soit pas dissous ? Une telle condition ne peut exister ! Et cet être mortel, Ânanda, a été abandonné par le Tathâgata, renoncé, rejeté et abandonné. La somme de vie restante a été abandonnée par lui. En vérité, la parole est venue du Tathâgata, disant : « L'extinction finale du Tathâgata aura lieu sous peu. » Au bout de trois mois à partir de maintenant, le Tathâgata mourra ! Que le Tathâgata, pour vivre, se repente à nouveau de cette parole, cela ne peut être sage[^13] !
 
 ---
 
@@ -203,7 +203,7 @@ Alors, ô Ananda, ta faute est là, ta faute est là, car, lorsqu'une suggestion
 
 « De même, Seigneur ! » dit le vénérable Ananda en signe d’assentiment au Béni du Ciel.
 
-Alors le Béni du Ciel se rendit, avec Ânanda <span id="p60">[<sup><small>p. 60</small></sup>]</span> avec lui, au Mahâvana de la Salle Kû<i>t</i>âgâra : et lorsqu'il y fut arrivé, il s'adressa au vénérable Ânanda et dit :
+Alors le Béni du Ciel se rendit, avec Ânanda <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> avec lui, au Mahâvana de la Salle Kû<i>t</i>âgâra : et lorsqu'il y fut arrivé, il s'adressa au vénérable Ânanda et dit :
 
 « Va maintenant, Ananda, et rassemble dans la salle de service les frères qui résident dans le voisinage de Vesâli. »
 
@@ -237,7 +237,7 @@ Voilà, ô frères, les vérités que je vous ai fait connaître après les avoi
 
 « Mon âge est maintenant mûr, ma vie touche à sa fin :  
 Je te quitte, je m'en vais, ne comptant que sur moi-même !  
-Soyez donc sérieux, ô frères ! saints, réfléchis ! <span id="p62">[<sup><small>p. 62</small></sup>]</span>  
+Soyez donc sérieux, ô frères ! saints, réfléchis ! <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>  
 Soyez fermes dans vos résolutions ! Surveillez vos cœurs !  
 Qui ne se lasse pas, mais s'attache fermement à cette vérité et à cette loi[^14],  
 Je traverserai cette mer de la vie et je mettrai fin au chagrin.

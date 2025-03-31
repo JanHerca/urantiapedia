@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 SIXIÈME CONFÉRENCE, INTIMÉ LA MENDICATION D'UN BOL [^432].
 
@@ -76,7 +76,7 @@ Un moine ou une nonne peut demander un bol restant dont aucun autre Sramana ou B
 
 C'est la quatrième règle.
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Un moine ou une nonne ayant adopté l'une de ces quatre règles ne doit pas dire, etc. (voir II, 1, tr, § 12, jusqu'à) nous nous respectons mutuellement en conséquence. (7)
 
@@ -86,7 +86,7 @@ Le maître de maison peut dire (à l'un de ses gens) : « Ô toi qui vis longtem
 
 Le maître de maison peut dire (au mendiant) : « Ô Srama<i>n</i>a</i> à la longue vie ! Reste un moment jusqu'à ce qu'ils aient cuisiné ou préparé notre nourriture, etc., puis nous te donnerons, ô grande vie ! ton bol d'aumône rempli de nourriture ou de boisson ; il n'est pas bon, il ne convient pas qu'un mendiant reçoive un bol d'aumône vide. » Après réflexion, le mendiant doit répondre : « Ô grande vie ! (ou, ô sœur !) il ne convient en effet pas que je mange ou boive de la nourriture, etc. qui est âdhâkarmika ; ne la cuisine pas et ne la prépare pas ; si tu veux me donner quelque chose, donne-le tel quel. » Après ces mots, le maître de maison peut lui offrir le bol d'aumône rempli de nourriture ou de boisson cuisinée ou préparée : il ne doit pas accepter un tel bol d'aumône, car il est impur et inacceptable. (10)
 
-Peut-être le maître de maison apportera-t-il et donnera-t-il au mendiant un bol d'aumônes ; le mendiant devrait alors, après réflexion, dire : « Ô toi qui as vécu longtemps ! (ou, ô <span id="p169">[<sup><small>p. 169</small></sup>]</span> sœur !) J'examinerai attentivement l'intérieur du bol en ta présence. »
+Peut-être le maître de maison apportera-t-il et donnera-t-il au mendiant un bol d'aumônes ; le mendiant devrait alors, après réflexion, dire : « Ô toi qui as vécu longtemps ! (ou, ô <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> sœur !) J'examinerai attentivement l'intérieur du bol en ta présence. »
 
 Le Kevalin dit : « Voici la raison : dans le bol à aumônes, il pourrait y avoir des êtres vivants, des graines ou de l’herbe. » C’est pourquoi il a été conseillé au mendiant, etc., d’inspecter attentivement l’intérieur du bol. (11)
 

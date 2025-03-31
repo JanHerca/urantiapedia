@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/00600.jpg) RESTEZ ! Pleurons au souvenir de notre bien-aimée, à la vue de la station où sa tente a été dressée, au bord de ces sables courbés entre Dahul et Haumel,
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. « Alors les larmes jaillirent de mes yeux, par excès de regret, et coulèrent le long de mon cou, jusqu'à ce que ma ceinture d'épée soit trempée dans le ruisseau. »
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 8\. « Pourtant tu as passé de nombreux jours en douce conversation avec la belle : mais aucun n'était aussi doux que le jour que tu as passé près de l'étang de Daratjuljul. »
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 16\. Ce fut aussi un jour délicieux où Fatima me repoussa pour la première fois au sommet de cette colline de sable et prêta un serment qu'elle déclara inviolable.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 17\. « Ô Fatima ! dis-je, éloigne-toi de tant de coquetterie ; et si tu avais résolu de m'abandonner, reviens enfin !
 
@@ -88,7 +88,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 25\. Elle dit : « Par Celui qui m'a créée », et elle me tendit sa belle main, « je ne puis te refuser, car je vois que l'aveuglement de ta passion ne peut être enlevé. »
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 26\. Alors je me levai avec elle, et tandis que nous marchions, elle tira sur nos pas la traîne de sa robe peinte.
 
@@ -108,7 +108,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 34\. Ses boucles étaient élégamment tournées au-dessus de sa tête, et le ruban qui les liait se perdait dans ses cheveux, en partie tressés, en partie échevelés.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 35\. Elle découvrit une taille effilée comme un cordon bien torsadé, et une jambe à la fois aussi blanche et aussi lisse que la tige d'un jeune palmier ou d'un roseau frais, penchée sur le ruisseau.
 
@@ -128,7 +128,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 43\. Et je lui disais, quand elle semblait étendre ses flancs, traîner sur sa longueur indisciplinée, et avancer lentement avec sa poitrine :
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 44\. « Dissipe ton obscurité, ô nuit ennuyeuse ! que l'aube puisse se lever ; bien que mes chagrins soient tels, que la lumière du matin ne me donne pas plus de réconfort que tes ombres.
 
@@ -148,7 +148,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 52\. Rapide comme le bois percé dans les mains d'un enfant joueur, qu'il fait tournoyer rapidement autour avec une corde bien attachée.
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 53\. Il a les reins d'une antilope et les cuisses d'une autruche; il trotte comme un loup et galope comme un jeune renard.
 
@@ -168,7 +168,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 61\. Ensuite, le cuisinier occupé prépare le gibier, en rôtissant une partie, en cuisant une autre sur des pierres chaudes et en faisant bouillir rapidement le reste dans un récipient en fer.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 62\ Le soir nous partons, et lorsque l'œil du spectateur monte à la tête de mon chasseur, puis descend à ses pieds, il est incapable d'un seul coup d'embrasser toutes ses beautés.
 
@@ -188,7 +188,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 70\. Sur le _mont_ Taima, il ne reste pas un tronc de palmier, ni un seul édifice, qui ne soit construit avec des pierres bien cimentées.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 71\. Le mont Tebeir se dresse au sommet du déluge, comme un chef vénérable enveloppé dans un manteau rayé.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 
 Le Maître fut heureux de compter ces proches parmi ses disciples et les emmena avec lui à la Bambouseraie. Là, le pauvre Nanda souffrait. Il pensait sans cesse à Sundarika ; elle lui apparaissait souvent en rêve, et il regrettait de l'avoir quittée. Le Bouddha, conscient de son malheur, décida de le guérir.
@@ -59,7 +59,7 @@ Nanda obéit. Il sentit la terre s'effondrer sous lui et un vent violent l'empor
 
 Nanda vit une maison d'argent étincelant entourée d'un champ d'émeraude. Une Apsara, bien plus belle que Sundarika, se tenait à la porte. Elle souriait. Fou de désir, Nanda se précipita vers elle, mais elle l'arrêta d'un geste brusque.
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 « Sois pur sur terre », lui dit-elle ; « respecte tes vœux, Nanda. Après ta mort, tu renaîtras ici ; alors tu pourras venir dans mes bras. »
 
@@ -77,7 +77,7 @@ Et il est parti.
 
 Nanda était très perturbé. Il courut vers le Maître ; il tomba à ses pieds et pleura. Le Maître lui dit :
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 « Tes pensées sont mauvaises, Nanda. Tu es esclave de tes sentiments. D'abord c'était Sundarika, maintenant c'est une Apsara qui te détourne. Et tu voudrais renaître ! Renaître parmi les Dieux ? Quelle folie, quelle vanité ! Efforce-toi d'atteindre la sagesse, Nanda ; prête attention à mes enseignements et étouffe tes passions dévorantes. »
 
@@ -91,7 +91,7 @@ Il se fit une robe de la même taille que celle du Maître. Des moines l'aperçu
 
 « Voici le Maître. Levons-nous et saluons-le. »
 
-Mais lorsque Nanda s'approcha, ils comprirent leur erreur. <span id="p204">[<sup><small>p. 204</small></sup>]</span> Ils furent gênés et, en se rasseyant, ils dirent :
+Mais lorsque Nanda s'approcha, ils comprirent leur erreur. <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> Ils furent gênés et, en se rasseyant, ils dirent :
 
 « Il n’est pas dans la communauté depuis aussi longtemps que nous ; pourquoi devrions-nous nous lever en sa présence ? »
 

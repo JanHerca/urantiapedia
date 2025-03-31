@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 ## I.—Nisan, appelé dans les Écritures Abib (partie de mars et avril).
 
@@ -82,7 +82,7 @@ IV.—Thamuz (une partie de juin et juillet).
 
 1\. Nouvelle Lune.
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 ## VII.—Tishri (partie de septembre et octobre).
 

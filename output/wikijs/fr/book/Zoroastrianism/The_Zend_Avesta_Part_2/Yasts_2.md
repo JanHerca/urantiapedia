@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Le Yast des sept Amshaspands est récité les sept premiers jours de la semaine, c'est-à-dire les jours consacrés aux Amesha-Spentas. Il n'est en fait qu'un extrait des Sîrôzahs, composé des sept premières formules sous leurs deux formes : §§ 1-5 = Sîrôzah I, 1-7 ; §§ 6-10 = Sîrôzah II, 1-7. Viennent ensuite quatre sections qui constituent la partie originale du Yast (§§ 11-15).
 
@@ -54,7 +54,7 @@ Pour le sacrifice, la prière, la propitiation et la glorification à \[Hâvani\
 
 2 [^189]. À Asha-Vahisa, la plus belle ; au très désiré Airyaman ; à l'instrument fabriqué par Mazda ; et au bon Saoka, aux yeux d'amour, fabriqué par Mazda et saint ;
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 À Khshathra-Vairya ; aux métaux ; à la Miséricorde et à la Charité.
 
@@ -78,7 +78,7 @@ Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification !
 
 Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## II.
 
@@ -96,7 +96,7 @@ Nous sacrifions à Haurvatâ<i>t</i>, l'Amesha-Spe<i>n</i>ta ; nous sacrifions �
 
 Nous sacrifions à Ameretâ<i>t</i>, l'Amesha-Spe<i>n</i>ta ; nous sacrifions à la graisse et aux troupeaux ; nous sacrifions à l'abondance du blé ; nous sacrifions au puissant Gaokerena, créé par Mazda.
 
-9 [^196]. (Au Gâh Hâvan) : Nous sacrifions à <span id="p38">[<sup><small>p. 38</small></sup>]</span> Mithra, le seigneur des vastes pâturages ; nous sacrifions à Râma <i>H</i><i>v</i>âstra.
+9 [^196]. (Au Gâh Hâvan) : Nous sacrifions à <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> Mithra, le seigneur des vastes pâturages ; nous sacrifions à Râma <i>H</i><i>v</i>âstra.
 
 (Au Gâh Rapithwin) : Nous sacrifions à Asha-Vahi<i>s</i>ta et à Âtar, le fils d'Ahura Mazda.
 
@@ -114,7 +114,7 @@ Qui est celui dans la maison duquel, ô Spitama Zarathustra ! toute Drogue est d
 
 12 [^201] . . . . . . . . . ?
 
-13\. C'est lui qui prend les sept Amesha-Spe<i>n</i>tas, <span id="p39">[<sup><small>p. 39</small></sup>]</span> les tout-régnants, les tout-bienfaisants, comme bouclier [^202] contre ses ennemis.
+13\. C'est lui qui prend les sept Amesha-Spe<i>n</i>tas, <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> les tout-régnants, les tout-bienfaisants, comme bouclier [^202] contre ses ennemis.
 
 Nous adorons la Loi des adorateurs de Mazda ; nous adorons les eaux venant sous la forme d'un cheval [^203], faites par Mazda.
 
@@ -130,7 +130,7 @@ D'Ahura Mazda, brillant et glorieux, et des Amesha-Spe<i>n</i>tas ;
 
 De Vohu-Manô ; de la Paix, dont le souffle est amical [^208] . . . .
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 D'Asha-Vahi<i>s</i>ta, la plus belle ; du très désiré Airyaman [^209] . . . .
 

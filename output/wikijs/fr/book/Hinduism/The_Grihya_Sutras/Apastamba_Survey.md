@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span> p. 299
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span> p. 299
 
 
 1\. Le feu sacré de G<i>ri</i>hya. _S_. I, 1; Â. I, 9; P. I, 2; G. I, 1; Kh. I, 5, 1 seq.; H. I, 22, 2 seq.; 26; Âp. 5, 13 seq.
@@ -53,7 +53,7 @@ dateCreated: 2025-1-16T20:2:26Z
   - c. Le feu est porté en avant. _S_. I, 7, 9; Â. I, 3, I; P. I, 1, 2; G. I, 1, 11; Kh. I, 2, 5; H. I, 1,10.
   - d. Le samûhana. _S_. I, 7, 11; Â. I, 3, 1; G. IV, 5, 5; Kh. I, 2, 6.
   - e. L'éparpillement d'herbe autour du feu sacré. _S_. I, 8, 1 ss.; Â. I, 3, 1; P. I, 1, 2; G. I, 5, 16 ss.; 7, 9 ss.; Kh. I, 2, 9 ss.; H. I, 1, 11 ss.; Âp. 1, 12 ss.
-  - f. Les purificateurs. _S_. I, 8, 14. suiv.; Â. I, 3, 2 suiv.; P. I, <span id="p300">[<sup><small>p. 300</small></sup>]</span>
+  - f. Les purificateurs. _S_. I, 8, 14. suiv.; Â. I, 3, 2 suiv.; P. I, <span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 1, 2; G. I, 7, 21 seq.; Kh. I, 2, 12 seq.; H. I, 1, 23; Âp. I, 19.
   - g. Préparation de l'Â<i>g</i>ya pour le sacrifice. _S_. I, 8, 18 ss.; Â. I, 3, 3; P. I, 1, 2 ss.; G. I, 7, 19 ss.; Kh. I, 2, 14 ss.; H. I, 1, 27; Âp. I, 22.
@@ -77,7 +77,7 @@ dateCreated: 2025-1-16T20:2:26Z
   - g. Le marié se rend chez la jeune fille. _S_. I, 12.
   - h. Il lui donne un vêtement, l'oint, lui donne un miroir, etc. _S_. I, 12, 3 seq.; P. I, 4, 12 seq.; G. II, 1, 18; Kh. I, 3, 6; Âp. 4, 8.
   - i. Argha au mariage. _S_. I, 12, 10; G. II, 3, 16 seq.; Kh. I, 4, 7 seq.; Âp. 3, 5 seq.
-  - k. Sacrifice avec les Mahâvyâh<i>ri</i>tis et autres formules (<i>G</i>aya, Abhyâtâna, etc., formules). _S_. I, 12, 11; <span id="p301">[<sup><small>p. 301</small></sup>]</span> Â. I, 7, 3; P. I, 5, 3 seq.; G. II, I, 24; Kh. I, 3, 8. 11; H. I, 19, 7 (comp. 3, 8 seq.; 20, 8); Âp. 5, 2. 11 (comp. 2, 7).
+  - k. Sacrifice avec les Mahâvyâh<i>ri</i>tis et autres formules (<i>G</i>aya, Abhyâtâna, etc., formules). _S_. I, 12, 11; <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> Â. I, 7, 3; P. I, 5, 3 seq.; G. II, I, 24; Kh. I, 3, 8. 11; H. I, 19, 7 (comp. 3, 8 seq.; 20, 8); Âp. 5, 2. 11 (comp. 2, 7).
   - l. Saisie de la main de la mariée. _S_. I, 13, 2; Â. I, 7, 3 seq.; P. I, 7, 3; G. II, 2, 16; Kh. I, 3, 17. 31; H. I, 20, 1; Âp. 4, 11 seq.
   - m. La formule : « Je suis celui-ci, celui-là même qui es toi. » _S_. I, 13, 4 ; Â. I, 7, 6 ; H. I, 20, 2.
   - n. Le piétinement de la pierre. _S_. I, 13, 10 seq.; Â. I, 7, 7; P. I, 7, 1; G. II, 2, 3; Kh. I, 3, 19; H. I, 19,8; AP. 5, 3.
@@ -94,7 +94,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 12\. Le Sîmantonnayana (ou la raie des cheveux de la femme enceinte). _S_. I, 22 (comp. V, 4) ; Â. I, 14 ; P. I, 15 ; G. II, 7, 1 s. ; Kh. II, 2, 24 s. ; H. II, 1 ; Âp. 14, 1 s.
 
-Chant des luthistes. _S_. I, 22, 11 s. ; Â. I, 14, 6 s. ; P. I, 15, 7 s. (comp. H. II, 1, 3) ; Âp. 14, 4 s. <span id="p302">[<sup><small>p. 302</small></sup>]</span>
+Chant des luthistes. _S_. I, 22, 11 s. ; Â. I, 14, 6 s. ; P. I, 15, 7 s. (comp. H. II, 1, 3) ; Âp. 14, 4 s. <span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 13\. Cérémonie avant la délivrance. _S_. I, 23; P. I, 16, 1 ss.; G. II, 7, 13 ss.; Kh. II, 2, 28 ss.; H. II, 2, 8 ss.; Âp. 14, 13 ss.
 
@@ -115,7 +115,7 @@ Chant des luthistes. _S_. I, 22, 11 s. ; Â. I, 14, 6 s. ; P. I, 15, 7 s. (comp.
 
 20\. L'initiation de l'étudiant. L'étudiant. Le Samâvartana. _S_. II, 1 ss.; III, 1; IV, 5 ss.; VI; Â. I, 19 ss.; III, 5; 8-10; P. II, 2-6; 8; 10-12; G. II, 10-III, 4; Kh. II, 4-III, I, 32; III, 2, 16-33; H. I, 1 ss.; II, 18-20; Âp. 10 ss.
   - a. Moment de l'initiation. Le patitasâvitrîka. _S_. II, 1, 1 ss.; Â. I, 19, 1 ss.; P. II, 2, 1 ss.; 5, 36 ss.; G. II, 10, 1 ss.; Kh. II, 4, 1 ss.; H. I, 1, 2 ss.; Âp. 10, 1 ss.
-  - b. La peau, la ceinture et le bâton appartenant aux différentes castes. _S_. II. I, 1 suiv. 15 suiv.; II, 13; Â. I, 19, 10 suiv.; P. II, 5, 16 suiv.; G. II, 10, 8 suiv.; H. I, 1, 17; 4, 7; Âp. 11, 16 suiv. <span id="p303">[<sup><small>p. 303</small></sup>]</span> c. Rite de l'initiation. _S_. II, 1, 26 suiv.; Â. I, 20, 2 suiv.; P. II, 2, 5 suiv.; G. II, 10, 15 suiv.; Kh. II, 4, 7 suiv.; H. I, 1, 5 s.; 3, 14 s.; Âp. 10, 5 s.
+  - b. La peau, la ceinture et le bâton appartenant aux différentes castes. _S_. II. I, 1 suiv. 15 suiv.; II, 13; Â. I, 19, 10 suiv.; P. II, 5, 16 suiv.; G. II, 10, 8 suiv.; H. I, 1, 17; 4, 7; Âp. 11, 16 suiv. <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> c. Rite de l'initiation. _S_. II, 1, 26 suiv.; Â. I, 20, 2 suiv.; P. II, 2, 5 suiv.; G. II, 10, 15 suiv.; Kh. II, 4, 7 suiv.; H. I, 1, 5 s.; 3, 14 s.; Âp. 10, 5 s.
   - d. Les devoirs permanents de l'étudiant (mendier, mettre de l'huile sur le feu, etc.). _S_. II, 4, 5; 6; 9; 10; Â. I, 20, 11 ss.; 22, 1 ss.; P. II, 2, 2; 4; 5; G. II, 20, 34. 42 ss.; Kh. II, 4, 19. 25 ss.; H. I, 5, 10; 7, 1 ss. 15 ss.; 8, 2. 8 ss.; Âp. 11, 22 ss.
   - e. Le Sâvitrî. _S_. II, 5 s.; Â. I, 21, 5 s.; 22, 29; P. II, 3, 3 s.; G. II, 10, 38 s.; Kh. II, 4, 20 s.; H. I, 6, 6 s.; Âp. 11, 8 s.
   - f. L'étude du Véda. _S_. II, 7 ss.; IV, 8; Â. I, 22, 12 ss.; III, 5, 10 ss.; P. III, 16; Kh. III, 2, 22 ss.; H. I, 8, 16.
@@ -131,7 +131,7 @@ Chant des luthistes. _S_. I, 22, 11 s. ; Â. I, 14, 6 s. ; P. I, 15, 7 s. (comp.
 
 ---
 
-22\. Construction de maisons. _S_. III, 2 ss.; Â. II, 7 ss.; P. III, 4 ss.; G. IV, 7; Kh. IV, 2, 6 ss.; H. I, 27-28; Âp. 17. <span id="p304">[<sup><small>p. 304</small></sup>]</span>
+22\. Construction de maisons. _S_. III, 2 ss.; Â. II, 7 ss.; P. III, 4 ss.; G. IV, 7; Kh. IV, 2, 6 ss.; H. I, 27-28; Âp. 17. <span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
   - a. Élection du motif. Â. II, 7 ss.; G. IV, 7, 1 ss.; Kh. IV, 2, 6 ss.
   - b. Entrée dans la nouvelle maison. _S_. III, 4; Â. II, 9, 9; P. III, 4, 5 seq., 18.
   - c. La mise en place du tonneau d'eau. P. III, 5; Âp. 17, 8 seq.
@@ -167,7 +167,7 @@ Chant des luthistes. _S_. I, 22, 11 s. ; Â. I, 14, 6 s. ; P. I, 15, 7 s. (comp.
 
 31\. Les rites de l'Âgrahâya<i>n</i>î (cérémonies de conclusion des rites consacrés aux Serpents). _S_. IV, 17. 18; Â. II, 3; P. III, 2; G. III, 9 (comp. IV, 8, 1); Kh. III, 3, 6 s.; H. II, 17; Âp. 19, 3 s. 8 s.
 
-32\. Les Ash<i>t</i>akâs. _S_. III, 12-14; Â. II, 4, 5; P. III, 3; G. <span id="p305">[<sup><small>p. 305</small></sup>]</span> III, 10 s.; Kh. III, 3, 28 s.; H. II, 14 s.; Âp. 21, 10 s.
+32\. Les Ash<i>t</i>akâs. _S_. III, 12-14; Â. II, 4, 5; P. III, 3; G. <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> III, 10 s.; Kh. III, 3, 28 s.; H. II, 14 s.; Âp. 21, 10 s.
   - a. Le premier Ash<i>t</i>akâ. _S_. III, 12, 2 s.; P. III, 3, 4; G. III, 10, 9 s.; Kh. III, 3, 30 s.
   - b. Le deuxième Ash<i>t</i>akâ (sacrifice animal). _S_. III, 13, 1 ss.; P. III, 3, 8; G. III, 10, 18-IV, 1; Kh. III, 4, 1 ss.
   - c. Le troisième Ash<i>t</i>akâ. _S_. III, 14; G. IV, 4, 17 seq.; Kh. III, 3, 32 seq.
@@ -197,7 +197,7 @@ Mort. Brûler des cadavres. P. III, 10.
 ---
 
 35\. La réception d'Arghya (comp. Argha au mariage, ci-dessus, 9, i). _S_. II, 15-17 Â. I, 24; P. I, 3; G. IV, 10; Kh. IV, 4, 5 seq.; H. I, 12, 7 seq.; 13; Âp. 13, 3 seq.
-  - a. Les personnes à qui une réception Arghya est due. <span id="p306">[<sup><small>p. 306</small></sup>]</span> _S_. II, 15, 4 ss.; 16, 3; Â. I, 24, 1 ss.; P. I, 3, 1; G. IV, 10, 23 ss.; Kh. IV, 4, 21 ss.; Âp. 13, 2 ss.; 14. 19. 20.
+  - a. Les personnes à qui une réception Arghya est due. <span id="p306"><sup><small>[ p. 306 ]</small></sup></span> _S_. II, 15, 4 ss.; 16, 3; Â. I, 24, 1 ss.; P. I, 3, 1; G. IV, 10, 23 ss.; Kh. IV, 4, 21 ss.; Âp. 13, 2 ss.; 14. 19. 20.
   - b. La vache offerte à l'invité. _S_. II, 15, 1 ss.; 16, 1; Â. I, 24, 30 ss.; P. I, 3, 26 ss.; G. IV, 10, 18 ss.; Kh. IV, 17 ss.; H. I, 13, 10 ss.; Âp. 13, 15 ss.
   - c. Règles diverses concernant l'accueil des invités. _S_. II, 17.
 
@@ -219,7 +219,7 @@ Rites pour l'obtention de souhaits particuliers, pour conjurer le malheur ; diff
   - l. Rite lors de la première vision de la nouvelle lune. H. I, 16, 1.
   - m. Rite pour établir la concorde entre mari et femme. Âp. 9, 4 seq.
   - n. Rite si l'on ne peut pas payer une dette. G. IV, 4, 26.
-  - o. Oblations pour les malades. Â. III, 6, 3 ss. ; pour un <span id="p307">[<sup><small>p. 307</small></sup>]</span> enfant malade. P. I, 16, 24 ss. ; pour un garçon souffrant d'épilepsie. H. II, 7 ; Âp. 18, 1 ss. Remède contre les maux de tête. P. III, 6.
+  - o. Oblations pour les malades. Â. III, 6, 3 ss. ; pour un <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> enfant malade. P. I, 16, 24 ss. ; pour un garçon souffrant d'épilepsie. H. II, 7 ; Âp. 18, 1 ss. Remède contre les maux de tête. P. III, 6.
   - p. Pénitence d'un étudiant qui a rompu son vœu de chasteté. P. III, 12.
   - q. Différentes expiations. _S_. V, I, 8. 9; 5-6; 8; 10; 11; Â. III, 6, 5-7, 2; 7, 7; 10, 9 ss.; G. III, 3, 30 ss.; Kh. II, 5, 35 ss.; H. I, 16, 2 ss. 14 ss.-chap. 17, 6; Âp. 8, 5 ss.; 9, 2 ss.; 23, 9 ss.
 

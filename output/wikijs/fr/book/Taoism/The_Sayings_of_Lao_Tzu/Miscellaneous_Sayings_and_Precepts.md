@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:44Z
   </table>
 </figure>
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 L'esprit s'épuise par la multitude des paroles ; mieux vaut conserver un juste milieu. L'excellence d'une demeure réside dans son emplacement ; l'excellence d'un esprit dans sa profondeur ; l'excellence du don dans la charité ; l'excellence du discours dans la véracité ; l'excellence du gouvernement dans l'ordre ; l'excellence de l'action dans l'habileté ; l'excellence du mouvement dans la ponctualité.
 
@@ -46,7 +46,7 @@ Si un homme est lucide et intelligent, peut-il être sans connaissance ?
 
 Le Sage s'intéresse à l'intérieur et non à l'extérieur ; il met de côté l'objectif et s'en tient au subjectif.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Entre oui et oui, quelle petite différence ! Entre le bien et le mal, quelle grande différence !
 
@@ -98,7 +98,7 @@ Soyez carré sans être anguleux. Soyez honnête sans être méchant. Soyez droi
 
 Les bonnes paroles vous feront gagner de l'honneur sur la place publique, mais les bonnes actions vous feront gagner des amis parmi les hommes.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Je voudrais être bon envers les bons ; je voudrais aussi être bon envers les méchants, afin de les rendre bons.
 
@@ -118,7 +118,7 @@ Ce qui est fragile se brise facilement ; ce qui est minuscule se dissipe facilem
 
 L'arbre, qui a besoin de deux bras pour s'étendre sur toute sa circonférence, est né d'une toute petite pousse. Cette tour, haute de neuf étages, s'élevait d'un petit monticule de terre. Un voyage de mille kilomètres commençait par un seul pas.
 
-Un grand principe ne peut être divisé ; c'est pourquoi <span id="p52">[<sup><small>p. 52</small></sup>]</span> il se trouve que de nombreux contenants ne peuvent le contenir. [^10]
+Un grand principe ne peut être divisé ; c'est pourquoi <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> il se trouve que de nombreux contenants ne peuvent le contenir. [^10]
 
 Le Sage sait ce qu'il y a en lui, mais ne fait pas étalage ; il se respecte, mais ne recherche pas l'honneur pour lui-même.
 
@@ -136,7 +136,7 @@ Les violents et les obstinés ne meurent pas de mort naturelle.
 
 Les vraies paroles ne sont pas belles ; les belles paroles ne sont pas vraies.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 Les bons ne sont pas querelleur ; les querelleur ne sont pas bons.
 

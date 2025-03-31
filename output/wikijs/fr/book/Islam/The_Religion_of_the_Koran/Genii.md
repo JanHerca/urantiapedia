@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 CHAPITRE VI., Verset 112. - Nous avons donc donné à chaque prophète un ennemi, des diables d'hommes et des djinns, dont certains inspirent à d'autres des discours trompeurs pour égarer ; mais si ton Seigneur avait voulu, ils ne l'auraient pas fait. Laisse-les donc faire ce qu'ils complotent.
 
@@ -46,7 +46,7 @@ Chapitre LI., Verset 55. — Et Je n'ai créé les djinns et les hommes que pour
 
 Je ne désire aucune provision de leur part, et Je ne souhaite pas qu'ils Me nourrissent.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Chapitre LXXII., Verset 1. — Au nom du Dieu Miséricordieux et Compatissant.
 
@@ -68,7 +68,7 @@ Dis : « Il m'a été révélé qu'une communauté de djinns a entendu et dit : 
 
 « Mais, en vérité, lorsque nous avons entendu le guide, nous y avons cru. Et quiconque croit en son Seigneur ne craint ni diminution ni perte.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 « Et, en vérité, il y a parmi nous des musulmans, et parmi nous des transgresseurs ; mais ceux d'entre nous qui sont musulmans, s'efforcent d'avancer dans la bonne direction (15) et quant aux transgresseurs, ils sont le combustible de l'Enfer. »
 

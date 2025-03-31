@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 
 Le Bienheureux se souvint que le roi Vimbasara avait un jour exprimé le désir de connaître la loi, et il résolut de se rendre à Rajagriha. Il partit avec l'aîné Kasyapa et quelques-uns de ses nouveaux disciples, et alla vivre dans un bois, près de la ville.
@@ -49,7 +49,7 @@ Mais dans la foule, certains connaissaient Kasyapa et le considéraient comme un
 
 « Oui », dit un autre, « Kasyapa est un grand maître. »
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 « Le roi a commis une étrange erreur », ajouta un troisième ; « il a pris l’élève pour le maître. »
 
@@ -69,7 +69,7 @@ Il se prosterna sept fois, et la foule s'écria avec admiration :
 
 « Puissant est celui qui a convaincu Kasyapa de son ignorance ! Kasyapa se croyait le plus grand des maîtres, et maintenant le voilà qui s'incline devant un autre ! Oh, puissant est celui qui est le maître de Kasyapa ! »
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Le Bienheureux leur parla alors des quatre grandes vérités. Lorsqu'il eut terminé, le roi Vimbasara s'approcha de lui et, devant tous, prononça hardiment ces paroles :
 
@@ -87,7 +87,7 @@ Le Maître consentit. Le roi partit, il connut un grand bonheur.
 
 Beaucoup de ceux qui avaient accompagné le roi suivirent alors son exemple et professèrent leur foi dans le Bouddha, dans la loi et dans la communauté des saints.
 
-Le lendemain, les habitants de Rajagriha quittèrent <span id="p138">[<sup><small>p. 138</small></sup>]</span> leurs maisons et se rendirent dans la forêt ; ils étaient impatients de voir le Bienheureux ; ils l'admirèrent tous, et ils louèrent sa puissance et sa gloire.
+Le lendemain, les habitants de Rajagriha quittèrent <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> leurs maisons et se rendirent dans la forêt ; ils étaient impatients de voir le Bienheureux ; ils l'admirèrent tous, et ils louèrent sa puissance et sa gloire.
 
 Le moment arriva pour lui de se rendre au palais du roi, mais la route était si encombrée de spectateurs qu'il lui était impossible d'avancer d'un pas. Soudain, un jeune brahmane apparut devant le Maître. Personne ne savait d'où il venait. Il dit :
 
@@ -101,7 +101,7 @@ Il avait une voix agréable. Il fit signe à la foule de s'écarter, et elle ob�
 
 Il a continué à chanter :
 
-Il est ici, lui l'omniscient, le doux Maître, le sublime Bouddha. Il est suprême dans le monde ; je suis heureux de le servir. Non pas servir les ignorants, mais servir humblement les sages et vénérer les nobles : existe-t-il au monde une joie plus sainte ? Vivre en paix, accomplir de nombreuses bonnes œuvres, rechercher le triomphe de la justice : <span id="p139">[<sup><small>p. 139</small></sup>]</span> existe-t-il au monde une joie plus sainte ? Posséder des compétences et des connaissances, aimer les actes de générosité, marcher sur le chemin de la justice : existe-t-il au monde une joie plus sainte ?
+Il est ici, lui l'omniscient, le doux Maître, le sublime Bouddha. Il est suprême dans le monde ; je suis heureux de le servir. Non pas servir les ignorants, mais servir humblement les sages et vénérer les nobles : existe-t-il au monde une joie plus sainte ? Vivre en paix, accomplir de nombreuses bonnes œuvres, rechercher le triomphe de la justice : <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> existe-t-il au monde une joie plus sainte ? Posséder des compétences et des connaissances, aimer les actes de générosité, marcher sur le chemin de la justice : existe-t-il au monde une joie plus sainte ?
 
 Le jeune brahmane parvint à se frayer un chemin à travers la foule et conduisit le Maître au palais du roi Vimbasara. Son œuvre achevée, il s'éleva de terre et, parvenu aux plus hautes sphères du ciel, disparut dans la lumière. Le peuple de Rajagriha comprit alors qu'un dieu avait considéré comme un honneur de servir le Bouddha et d'exalter sa grandeur.
 

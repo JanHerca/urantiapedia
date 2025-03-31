@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 SEPTIÈME LEÇON, APPELÉE RÉGLEMENTATION DE LA POSSESSION [^438].
 
@@ -40,13 +40,13 @@ SEPTIÈME LEÇON, APPELÉE RÉGLEMENTATION DE LA POSSESSION [^438].
 
 « Je deviendrai un Sramana qui ne possède ni maison, ni propriété, ni fils, ni bétail, et qui mange ce que les autres lui donnent ; je ne commettrai aucun péché ; Maître, je renonce à accepter quoi que ce soit qui ne lui ait été donné. » Ayant prononcé de tels vœux, (un mendiant) ne doit pas, en entrant dans un village ou une ville libre, etc., prendre lui-même, ni inciter les autres à prendre, ni permettre aux autres de prendre, ce qui ne lui a pas été donné. Un mendiant ne doit prendre ni s'approprier aucun bien, à savoir un parapluie [^439], un récipient ou un bâton, etc. (voir II, 2, 3, § 2), des moines avec lesquels il séjourne, sans obtenir leur permission et sans avoir inspecté et essuyé (l'objet en question) ; mais après avoir obtenu leur permission et inspecté et essuyé (l'objet en question), il peut le prendre ou s'en approprier [^440]. (1)
 
-Il peut demander un domicile dans une maison de voyageurs, etc. <span id="p172">[<sup><small>p. 172</small></sup>]</span> (voir II, 1, 8, § 2), après avoir réfléchi (à son aptitude à un séjour) ; il devrait demander la permission d'en prendre possession à celui qui est le propriétaire ou l'intendant de ce lieu : « En vérité, ô toi qui as vécu longtemps ! pour le temps et dans l'espace que tu nous concèdes, nous habiterons ici. Nous prendrons possession du lieu aussi longtemps qu'il t'appartient ; et de la superficie qui t'appartient ; pour autant de compagnons ascétiques (qui en auront besoin) ; ensuite nous nous mettrons à l'errance [^441]. » (2)
+Il peut demander un domicile dans une maison de voyageurs, etc. <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> (voir II, 1, 8, § 2), après avoir réfléchi (à son aptitude à un séjour) ; il devrait demander la permission d'en prendre possession à celui qui est le propriétaire ou l'intendant de ce lieu : « En vérité, ô toi qui as vécu longtemps ! pour le temps et dans l'espace que tu nous concèdes, nous habiterons ici. Nous prendrons possession du lieu aussi longtemps qu'il t'appartient ; et de la superficie qui t'appartient ; pour autant de compagnons ascétiques (qui en auront besoin) ; ensuite nous nous mettrons à l'errance [^441]. » (2)
 
 Ayant pris possession d'un lieu, un mendiant doit inviter à cette nourriture, etc., qu'il a lui-même rassemblée, tous les compagnons ascètes qui y arrivent et qui suivent les mêmes règles et sont des frères zélés ; mais il ne doit pas les inviter à quoi que ce soit dont il a pris possession pour le bien de quelqu'un d'autre. (3)
 
 Ayant pris possession d'un endroit (dans une salle de voyage, etc.), un mendiant devrait offrir un tabouret, un banc, un lit ou un canapé, qu'il a lui-même demandé, à tous ses compagnons ascètes qui arrivent là et qui suivent d'autres règles que lui, mais qui sont des frères zélés ; mais il ne devrait pas leur offrir quoi que ce soit dont il a pris possession pour le bien de quelqu'un d'autre. (4)
 
-Ayant pris possession d'une place dans une salle de voyage, etc., un mendiant pourrait demander à un chef de famille ou à ses fils le prêt d'une aiguille, d'un Pippalaka [^442], d'un cure-oreilles ou d'un coupe-ongles. Il ne devrait pas le donner ou le prêter à quelqu'un d'autre ; mais <span id="p173">[<sup><small>p. 173</small></sup>]</span> ayant fait ce pour quoi il avait besoin d'un des articles ci-dessus, il devrait aller avec cet article là (où se trouve le chef de famille, etc.), et étendant les mains ou posant l'article sur le sol, il devrait, après réflexion, dire : « Le voici ! Le voici ! » Mais il ne devrait pas de sa propre main le mettre dans la main du chef de famille. (5)
+Ayant pris possession d'une place dans une salle de voyage, etc., un mendiant pourrait demander à un chef de famille ou à ses fils le prêt d'une aiguille, d'un Pippalaka [^442], d'un cure-oreilles ou d'un coupe-ongles. Il ne devrait pas le donner ou le prêter à quelqu'un d'autre ; mais <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> ayant fait ce pour quoi il avait besoin d'un des articles ci-dessus, il devrait aller avec cet article là (où se trouve le chef de famille, etc.), et étendant les mains ou posant l'article sur le sol, il devrait, après réflexion, dire : « Le voici ! Le voici ! » Mais il ne devrait pas de sa propre main le mettre dans la main du chef de famille. (5)
 
 Français Un moine ou une nonne ne doit prendre possession de rien [1](Akaranga_2_7#fn443) sur le sol nu, sur un sol humide, où il y a des œufs, etc. ; ni sur des piliers ou un endroit hors sol (II, 2, 1, § 7) ; ni sur un mur, etc. ; ni sur le tronc d'un arbre, etc. ; ni là où se trouvent le maître de maison, le feu, l'eau, les femmes, les enfants ou le bétail, et où il ne convient pas à un homme sage d'entrer ou de sortir, etc., ni de méditer sur la loi ; ni là où ils doivent passer par la demeure du maître de maison ou où il n'y a pas de route, et où cela ne convient pas, etc. ; ni là où le maître de maison ou sa femme, etc., se brutalisent ou se réprimandent, etc. (voir II, 2, 1, § 9, et 3, § 7) ; ni là où ils se frottent ou s'oignent mutuellement le corps avec de l'huile, du ghee, du beurre ou de la graisse ; ni là où ils prennent un bain, etc. ; ni là où ils se promènent nus, etc. (tout comme dans II, 2, 3, §§ 7-12).
 
@@ -59,7 +59,7 @@ Ainsi je dis. (6-12)
 
 ### DEUXIÈME LEÇON.
 
-Il peut demander un domicile dans une maison de voyageurs, etc. (voir II, 1, 8, § 2), après avoir réfléchi (à son adéquation) ; il devrait demander la permission d'en prendre possession <span id="p174">[<sup><small>p. 174</small></sup>]</span> au propriétaire ou à l'intendant de ce lieu : « En vérité, ô toi qui as vécu longtemps ! Pendant le temps et l'espace que tu nous concèdes, nous habiterons ici [^444] », etc. (voir 1, § 2). Maintenant, que faire de plus après avoir pris possession du lieu ? Il ne devrait pas déplacer de l'extérieur vers l'intérieur, ou vice versa, aucun parapluie ou bâton, etc. (voir II, 2, 3, § 2) appartenant à des <i>S</i>rama<i>n</i>as ou des Brâhma<i>n</i>as (précédemment installés là) ; il ne doit pas non plus réveiller une personne endormie, ni offenser ou molester les (détenus). (1)
+Il peut demander un domicile dans une maison de voyageurs, etc. (voir II, 1, 8, § 2), après avoir réfléchi (à son adéquation) ; il devrait demander la permission d'en prendre possession <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> au propriétaire ou à l'intendant de ce lieu : « En vérité, ô toi qui as vécu longtemps ! Pendant le temps et l'espace que tu nous concèdes, nous habiterons ici [^444] », etc. (voir 1, § 2). Maintenant, que faire de plus après avoir pris possession du lieu ? Il ne devrait pas déplacer de l'extérieur vers l'intérieur, ou vice versa, aucun parapluie ou bâton, etc. (voir II, 2, 3, § 2) appartenant à des <i>S</i>rama<i>n</i>as ou des Brâhma<i>n</i>as (précédemment installés là) ; il ne doit pas non plus réveiller une personne endormie, ni offenser ou molester les (détenus). (1)
 
 Un moine ou une nonne pourrait souhaiter se rendre dans un parc à mangues ; il devrait alors demander la permission au propriétaire ou à l'intendant (de la manière décrite ci-dessus). Que faire ensuite après la prise de possession des lieux ? Il pourrait alors désirer manger une mangue. Si le moine ou la nonne constate que la mangue est couverte d'œufs, d'êtres vivants, etc. (voir II, 1, 1, § 2), il ne devrait pas la consommer, car elle est impure, etc. (2).
 
@@ -81,7 +81,7 @@ C'est la première règle. (8)
 
 Suit maintenant la deuxième règle :
 
-Un moine décide : « Je demanderai la possession d'une demeure, etc., pour le bien d'autres mendiants, <span id="p176">[<sup><small>p. 176</small></sup>]</span> et, après en avoir pris possession pour eux, je l'utiliserai. »
+Un moine décide : « Je demanderai la possession d'une demeure, etc., pour le bien d'autres mendiants, <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> et, après en avoir pris possession pour eux, je l'utiliserai. »
 
 C'est la deuxième règle. (9)
 
@@ -117,7 +117,7 @@ C'est la septième règle.
 
 Celui qui a adopté l'une de ces sept règles ne doit pas dire, etc. (tout comme dans II, 1, 11, § 12). (14)
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 J'ai entendu l'explication suivante du vénérable (Mahâvîra) : Les Sthaviras, les vénérables, ont déclaré que la domination [^448] est quintuple :
 

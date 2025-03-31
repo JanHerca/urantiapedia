@@ -45,7 +45,7 @@ Faux corps, faux vêtement, fausse beauté sans pareille ;
 Faux maris, fausses épouses ; ils dépérissent et deviennent poussière.[^1]
 L'homme qui est faux aime le faux et oublie le Créateur.
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 Avec qui contracter amitié ? Le monde entier passe.
 Le faux est douceur, le faux miel, dans le mensonge des cargaisons sont noyées—
@@ -57,11 +57,11 @@ Le mensonge a pris fin ; Nanak, la vérité triomphe enfin.[^2]
 
 C'était le seul nom mentionné dans la demeure du gourou, et il devint l'objet d'une grande admiration populaire.
 
-Un fonctionnaire millionnaire, habitant un village voisin, commença à dénigrer le gourou. Il dit : « Qui est cet homme dont tout le monde répète le nom comme un dieu, alors qu'il n'est qu'un mortel comme nous ? Les hindous sont pervertis, et même les musulmans perdent la foi. Allons, emprisonnons-le. » Lorsque l'orateur monta à cheval, l'animal s'écarta et le jeta à terre. Le lendemain, il remonta, mais, en poursuivant son chemin, il devint aveugle et dut mettre pied à terre. Ceux qui avaient été frappés par ce malheur craignirent de faire la moindre remarque, si ce n'est que Nanak était un grand saint. Ils suggérèrent cependant au millionnaire de rendre hommage au gourou. Sur ce, il se mit à louer le gourou, et ceux qui l'accompagnaient s'inclinèrent devant lui. Le millionnaire de nouveau <span id="p132">[<sup><small>p. 132</small></sup>]</span> monta à cheval, avec l'intention cette fois d'aller supplier le gourou, mais il tomba aussitôt. Ses compagnons s'adressèrent à lui : « Tu as commis une erreur en allant à cheval. Va à pied, afin d'être pardonné. » Il suivit ce conseil. Arrivé à un endroit d'où l'on pouvait voir la résidence du gourou, il recouvra la vue et commença à saluer le gourou. Arrivé en sa présence, il tomba à ses pieds. Le gourou fut satisfait et le prit comme hôte pour trois jours. Le millionnaire, en l'honneur du gourou, fonda un village qu'il appela Kartarpur, au bord du Ravi, et y construisit un temple sikh, tous deux dédiés au gourou.
+Un fonctionnaire millionnaire, habitant un village voisin, commença à dénigrer le gourou. Il dit : « Qui est cet homme dont tout le monde répète le nom comme un dieu, alors qu'il n'est qu'un mortel comme nous ? Les hindous sont pervertis, et même les musulmans perdent la foi. Allons, emprisonnons-le. » Lorsque l'orateur monta à cheval, l'animal s'écarta et le jeta à terre. Le lendemain, il remonta, mais, en poursuivant son chemin, il devint aveugle et dut mettre pied à terre. Ceux qui avaient été frappés par ce malheur craignirent de faire la moindre remarque, si ce n'est que Nanak était un grand saint. Ils suggérèrent cependant au millionnaire de rendre hommage au gourou. Sur ce, il se mit à louer le gourou, et ceux qui l'accompagnaient s'inclinèrent devant lui. Le millionnaire de nouveau <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> monta à cheval, avec l'intention cette fois d'aller supplier le gourou, mais il tomba aussitôt. Ses compagnons s'adressèrent à lui : « Tu as commis une erreur en allant à cheval. Va à pied, afin d'être pardonné. » Il suivit ce conseil. Arrivé à un endroit d'où l'on pouvait voir la résidence du gourou, il recouvra la vue et commença à saluer le gourou. Arrivé en sa présence, il tomba à ses pieds. Le gourou fut satisfait et le prit comme hôte pour trois jours. Le millionnaire, en l'honneur du gourou, fonda un village qu'il appela Kartarpur, au bord du Ravi, et y construisit un temple sikh, tous deux dédiés au gourou.
 
 Un jour, un brahmane fanatique vint demander l'aumône au gourou. Le gourou, qui était en train de rompre le jeûne, l'invita à se joindre à lui. Le brahmane répondit qu'il ne mangerait pas de nourriture de cette façon. Il ne mangerait que ce qu'il aurait cuisiné lui-même. Il commencerait par creuser la terre sur une coudée de profondeur afin d'éliminer toute impureté de la surface, et il aménagerait également un carré de cuisson où seul lui pourrait entrer. Il creuserait ensuite un empan plus profond et y ferait un foyer sur lequel il déposerait du bois lavé, afin qu'aucun insecte ne puisse y brûler. Le gourou n'avait pas respecté ces formalités, et le brahmane rejetait la nourriture autrement cuite. Le gourou lui dit qu'il lui donnerait des aliments crus qu'il pourrait cuisiner lui-même. Il sortit alors et commença à creuser la terre, mais partout où il creusa, il ne trouva que des os, qu'il considérait comme une abomination encore plus grande que la nourriture du gourou. Il continua à creuser toute la journée, mais avec le même résultat. Finalement, affamé, il alla se jeter aux pieds de Nanak et lui demanda la nourriture cuite qu'il avait précédemment refusée. Le gourou fut heureux de le satisfaire, puis composa le texte suivant :
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 Des cuisines en or, des vases en or,
 Des lignes d'argent s'étendaient au loin,
@@ -101,7 +101,7 @@ Même les pervers qui obtiennent la connaissance divine sous l’instruction du 
 Faites des supplications au vrai gourou pour qu'il vous unisse à l'Ami.
 Quand l'homme rencontre l'Ami, il obtient le bonheur, et les myrmidons de la mort s'empoisonnent.
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 Je demeure dans le Nom, et le Nom demeure dans mon cœur.
 Sans le Guru, tout est ténèbres ; sans le Verbe, rien ne peut être connu.
@@ -118,7 +118,7 @@ Le garçon à qui l'hymne ci-dessus était adressé fut par la suite connu sous 
 
 Kalu et tout son peuple se rendirent là où son fils le gourou avait établi sa demeure. Des sociétés sikhes commencèrent alors à se former. Le gourou retira son costume extraordinaire et s'habilla de manière plus conventionnelle. Avec un tissu autour de la taille, un drap sur l'épaule et un turban sur la tête, il semblait incarner la sainteté. Le fil de sa renommée montait au ciel, disait-on, comme celui d'un cerf-volant. Tous s'adressèrent à lui : « Salut, Nanak ! Un grand saint est né dans le monde. »
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 À Kartarpur, une veille avant le lever du soleil, on répétait le Japji et l'Asa ki War. Puis suivaient la lecture et l'interprétation des hymnes du gourou, jusqu'à une veille et quart après le lever du soleil. Suivaient les chants et la lecture de l'Arati (Gagan mai thal). Le petit-déjeuner était ensuite servi. À la troisième veille, on chantait à nouveau, puis le soir, on lisait le Sodar. Les Sikhs dînaient ensuite tous ensemble. Le repas se terminait par de nouveaux chants. Après une veille de nuit, on lisait le Sohila, puis chacun se retirait.
 
@@ -126,7 +126,7 @@ Lorsqu'il n'était pas en prière, le gourou passait ses journées à Kartarpur 
 
 Le gourou s'exprima ainsi au sujet des exercices dévotionnels des sikhs : « Rappeler l'esprit errant de la distraction des sens, puis l'employer à des discours pieux et à chanter et écouter avec dévotion des chants de louange au Tout-Puissant – sachez que ce sont des actes méritoires faciles à accomplir. Ils demandent peu d'efforts et apportent une grande récompense. Les pénitences hindoues, au contraire, impliquent de grands efforts et n'apportent qu'une faible récompense. »
 
-Le Guru répondit à un homme appelé Kalu qui lui demandait une définition d'un saint homme : « Reconnaissez comme saint celui en qui se trouvent l'amitié, la sympathie, le plaisir du bien-être d'autrui et l'aversion pour la mauvaise compagnie. » En premier lieu, les intentions des saints hommes sont pures. Deuxièmement, ils sont <span id="p137">[<sup><small>p. 137</small></sup>]</span> heureux d'entendre les louanges d'autrui. Troisièmement, les saints hommes servent les vertueux. Quatrièmement, ils honorent ceux qui peuvent leur transmettre le savoir et les bons conseils. Cinquièmement, comme ils ont un désir périodique de nourriture ou de boissons enivrantes, de même ils ressentent un désir ardent pour la parole du Guru et pour la connaissance divine. Sixièmement, ils aiment leurs épouses et renoncent aux autres femmes. Septièmement, ils évitent les sujets susceptibles de donner lieu à des querelles. Huitièmement, ils servent ceux qui leur sont supérieurs en intelligence ou en dévotion. » Neuvièmement, même forts, ils ne sont pas arrogants et ne piétinent pas les autres. Dixièmement, ils abandonnent la compagnie du mal et ne fréquentent que les saints.
+Le Guru répondit à un homme appelé Kalu qui lui demandait une définition d'un saint homme : « Reconnaissez comme saint celui en qui se trouvent l'amitié, la sympathie, le plaisir du bien-être d'autrui et l'aversion pour la mauvaise compagnie. » En premier lieu, les intentions des saints hommes sont pures. Deuxièmement, ils sont <span id="p137"><sup><small>[ p. 137 ]</small></sup></span> heureux d'entendre les louanges d'autrui. Troisièmement, les saints hommes servent les vertueux. Quatrièmement, ils honorent ceux qui peuvent leur transmettre le savoir et les bons conseils. Cinquièmement, comme ils ont un désir périodique de nourriture ou de boissons enivrantes, de même ils ressentent un désir ardent pour la parole du Guru et pour la connaissance divine. Sixièmement, ils aiment leurs épouses et renoncent aux autres femmes. Septièmement, ils évitent les sujets susceptibles de donner lieu à des querelles. Huitièmement, ils servent ceux qui leur sont supérieurs en intelligence ou en dévotion. » Neuvièmement, même forts, ils ne sont pas arrogants et ne piétinent pas les autres. Dixièmement, ils abandonnent la compagnie du mal et ne fréquentent que les saints.
 
 Deux Sikhs, Bhagta et Ohri, demandèrent à Guru Nanak comment obtenir le repos et éviter la transmigration. Le Guru répondit : « Vous trouverez le repos en évitant le manmukh karm (actes pervers). » Invité à définir plus précisément le manmukh karm, le Guru répondit : « C'est être profondément envieux de tout le monde, désirer que les richesses matérielles et le bonheur tout entier abandonnent les autres pour venir à soi, souffrir profondément en voyant les maisons et les biens d'autrui, prendre tout le monde pour ses ennemis et ne faire de bien à personne. Chassez tout ce mal de vos cœurs. » Deuxièmement, l'homme pervers est orgueilleux et impitoyable envers tous. Lorsqu'il voit telle ou telle personne inférieure à lui, il ne lui donne jamais de conseils ; au contraire, il se moque de lui et le traite avec mépris, disant : « Son intelligence n'est pas à la hauteur de mon intelligence supérieure. » Troisièmement, l'homme pervers est adonné à la calomnie ; mais renoncez-y et ne la prononcez jamais. Si quelqu'un fait l'éloge d'un autre qui lui est supérieur, il ne peut le supporter, bien au contraire, il s'irrite et dit : « Oh ! Je le connais bien. » De cette façon, il profère des calomnies. Comment celui qui est fier de ses efforts et envieux des autres pourrait-il jamais atteindre l'excellence ? Quatrièmement, si l'homme pervers reçoit des conseils, il ne les suivra pas par obstination ; bien au contraire, il fera perversement l'inverse. Ces vices – l'envie, l'orgueil, la calomnie et l'obstination – appartiennent aux pervers. Abandonnez-les, agissant comme les arbres lorsqu'ils perdent leurs feuilles en automne.
 
@@ -142,7 +142,7 @@ Je suis malheureux sans mon Bien-Aimé ; je n'ai pas encore d'ami, mais grâce a
 L'Informe continue sa création[^4] pour obéir à Dieu
 est le meilleur des actes humains.
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 Nanak, la femme t'attend ; écoute-moi, ô Esprit omniprésent.
 
@@ -164,7 +164,7 @@ Il pleut un torrent de nectar, dont les gouttes sont délicieuses,
 Quand l'ami, le gourou bienveillant nous rencontre, l'amour s'établit avec Dieu.
 Dieu entre dans le temple du corps quand il le veut, et la femme se lève et répète ses louanges.
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 Dans chaque maison, l'époux jouit de son épouse heureuse ; pourquoi mon Époux m'a-t-il oublié ?
 Des nuages ​​bas ont recouvert les cieux ; il pleut agréablement et l'amour réconforte mon âme et mon corps.
@@ -187,7 +187,7 @@ Nanak, dans Baisakh Dieu est trouvé par celui qui médite sur la Parole et dont
 Le mois de Jeth est agréable ; pourquoi le Bien-Aimé serait-il oublié ?
 La terre brûle comme une fournaise ; la femme fait des supplications.
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 La femme fait des supplications et loue Ses qualités
 « Je serai agréable au Seigneur si je chante ses louanges.
@@ -208,7 +208,7 @@ Nanak, avec Dieu, à qui j'ai donné mon cœur, sont la mort et la vie.
 « Je suis seul sur mon lit et très affligé ; ô mère, ma douleur est aussi terrible que la mort.
 « Dites, comment le sommeil et l'appétit peuvent-ils m'arriver sans Dieu ? Le vêtement n'apporte aucun réconfort à mon corps. »
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Nanak, c'est l'épouse heureuse qui est embrassée par son époux bien-aimé.
 
@@ -232,7 +232,7 @@ L'amour est l'huile de la lampe; la femme et son Bien-aimé se sont rencontrés;
 Celle que le péché tue ne sera pas acceptée à sa mort, tandis que celle que la vertu tue mourra réellement.[^4]
 Dieu a donné son nom et son service à ceux qui demeurent dans leurs propres maisons ; leur prière est toujours :
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 Venez à notre rencontre, ô Dieu, et ouvrez les portes de notre intelligence ; autrement, une heure sera comme six mois.
 
@@ -254,7 +254,7 @@ Dans Magh, la femme devient pure lorsqu'elle connaît le lieu du pèlerinage[^2]
 J’ai facilement rencontré l’Ami et, en adoptant Ses attributs, je me suis fondu en Lui.
 Écoute-moi, ô Dieu bien-aimé et beau, j'ai fait de tes attributs mes ornements ; s'il te plaît, je me baignerai dans ton bassin.
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 Le Gange, le Jamna, la confluence des trois fleuves à Tribeni Priyag,[^1] les sept océans,
 L'aumône, la charité et l'adoration sont toutes contenues dans le nom de Dieu. Je le reconnais comme le Dieu unique de tous les temps.
@@ -269,7 +269,7 @@ Nanak, mon gourou m'a fusionné avec Dieu, et je l'ai obtenu comme époux.
 Les douze mois, les saisons, les jours lunaires et les jours de la semaine,
 Les gharis, les mahurats,[^4] les moments, sont tous agréables lorsque le Vrai vient et me rencontre de Son propre gré.
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Lorsque le cher Seigneur est obtenu, tout est arrangé, le Créateur sait tout.
 Je suis chère à Celui qui m’a décorée ; je l’ai rencontré et je suis heureuse.

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p452">[<sup><small>p. 452</small></sup>]</span>
+<span id="p452"><sup><small>[ p. 452 ]</small></sup></span>
 
 LA RÉCUPÉRATION DU ROI HSIÂO SOUS LA DYNASTIE HAN, ET SA PRÉSERVATION JUSQU'À LA PUBLICATION DU COMMENTAIRE DE L'EMPEREUR THANG HSÜAN ZUNG.
 
@@ -44,7 +44,7 @@ Dans le catalogue de la bibliothèque impériale, préparé par Liû Hin juste a
 
 Le texte le plus court ou moderne.
 
-Français L'exemplaire en dix-huit chapitres, nous devons donc présumer, avait été le premier retrouvé ; mais nous n'avons aucune explication sur la manière dont cela s'est produit jusqu'à ce que nous arrivions aux archives de la dynastie Sui. On y dit que, lorsque l'édit de Khin ordonnant la destruction des livres fut publié, son exemplaire du Hsiâo fut caché par un érudit appelé Yen Kih, un membre, sans doute, de la famille Yen à laquelle appartenait Yen Hui, le disciple préféré de Confucius. Lorsque l'édit fut abrogé quelques années plus tard, Kăn, un fils de Kih, sortit l'exemplaire de sa cachette. Cela devait se passer au deuxième siècle avant J.-C., et la copie, transcrite probablement par <i>K</i>ăn, sous la forme des caractères alors utilisés, passerait sous la garde du conseil des grands érudits chargé de préserver les <span id="p453">[<sup><small>p. 453</small></sup>]</span> livres anciens, sous les règnes des empereurs Wăn et <i>K</i>ing, 179-141 avant J.-C.
+Français L'exemplaire en dix-huit chapitres, nous devons donc présumer, avait été le premier retrouvé ; mais nous n'avons aucune explication sur la manière dont cela s'est produit jusqu'à ce que nous arrivions aux archives de la dynastie Sui. On y dit que, lorsque l'édit de Khin ordonnant la destruction des livres fut publié, son exemplaire du Hsiâo fut caché par un érudit appelé Yen Kih, un membre, sans doute, de la famille Yen à laquelle appartenait Yen Hui, le disciple préféré de Confucius. Lorsque l'édit fut abrogé quelques années plus tard, Kăn, un fils de Kih, sortit l'exemplaire de sa cachette. Cela devait se passer au deuxième siècle avant J.-C., et la copie, transcrite probablement par <i>K</i>ăn, sous la forme des caractères alors utilisés, passerait sous la garde du conseil des grands érudits chargé de préserver les <span id="p453"><sup><small>[ p. 453 ]</small></sup></span> livres anciens, sous les règnes des empereurs Wăn et <i>K</i>ing, 179-141 avant J.-C.
 
 Le texte ancien ou plus long.
 
@@ -52,7 +52,7 @@ La copie du texte ancien provient des tablettes découvertes dans le mur de la m
 
 Une autre copie de l’ancien texte a-t-elle été découverte ?
 
-Français On pourrait soutenir, en effet, qu'une autre copie de l'ancien texte a été trouvée au premier siècle avant J.-C. Dans un mémorial adressé à l'empereur An, en 121 après J.-C., au sujet du dictionnaire Shwo Wăn, par Hsü <i>K</i>ung, un fils de l'auteur, il dit que le Hsiâo King que son père utilisait était une copie de celle présentée, par « un très vieil homme de Lû », à l'empereur <i>K</i>âo (86-74 avant J.-C.) [^626] De nombreux critiques chinois, et en particulier Wang Ying-lin <span id="p454">[<sup><small>p. 454</small></sup>]</span> (mieux connu sous le nom de Wang Po-hâu, 1223-1296 après J.-C.), disent qu'il s'agit d'un récit différent de la récupération de l'ancien texte de celui auquel le nom de Khung An-kwo est lié. Il est difficile de concilier les deux affirmations, comme on le verra en se référant à la note ci-dessous [^627] ; et pourtant il est possible que la difficulté disparaisse si les détails de la découverte et du traitement ultérieur des tablettes nous étaient parvenus complets.
+Français On pourrait soutenir, en effet, qu'une autre copie de l'ancien texte a été trouvée au premier siècle avant J.-C. Dans un mémorial adressé à l'empereur An, en 121 après J.-C., au sujet du dictionnaire Shwo Wăn, par Hsü <i>K</i>ung, un fils de l'auteur, il dit que le Hsiâo King que son père utilisait était une copie de celle présentée, par « un très vieil homme de Lû », à l'empereur <i>K</i>âo (86-74 avant J.-C.) [^626] De nombreux critiques chinois, et en particulier Wang Ying-lin <span id="p454"><sup><small>[ p. 454 ]</small></sup></span> (mieux connu sous le nom de Wang Po-hâu, 1223-1296 après J.-C.), disent qu'il s'agit d'un récit différent de la récupération de l'ancien texte de celui auquel le nom de Khung An-kwo est lié. Il est difficile de concilier les deux affirmations, comme on le verra en se référant à la note ci-dessous [^627] ; et pourtant il est possible que la difficulté disparaisse si les détails de la découverte et du traitement ultérieur des tablettes nous étaient parvenus complets.
 
 Peut-on se fier entièrement aux exemplaires catalogués par Liû Hin ?
 
@@ -74,7 +74,7 @@ Français L'empereur ne dit rien lui-même sur les différences entre les textes
 
 Le texte employé dans ce commentaire impérial peut maintenant être considéré comme suffisamment sûr. Il fut gravé, moins d'un siècle plus tard, sur les tablettes de pierre de Thang, qui furent achevées en 837 et érigées à Hsî-an, la capitale Thang, où elles demeurent, très peu endommagées, jusqu'à ce jour [^628]. Et ce n'est pas tout. L'empereur fut si satisfait du commentaire qu'il fit graver l'intégralité sur quatre grandes tablettes ou piliers de pierre en 745. On les voit encore à Hsî-an, devant le Collège confucéen.
 
-<span id="p458">[<sup><small>p. 458</small></sup>]</span>
+<span id="p458"><sup><small>[ p. 458 ]</small></sup></span>
 
 L'oeuvre de Hsing Ping.
 

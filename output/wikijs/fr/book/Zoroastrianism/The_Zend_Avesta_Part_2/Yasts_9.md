@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Gô<i>s</i>, « la vache », κατ᾽ ἐξοχήν, est une personnification du règne animal qu'elle entretient et protège. On l'appelle aussi Drvâspa et Go<i>s</i>ûrûn : Drvâspa signifie « celle qui garde les chevaux en bonne santé » et n'est rien d'autre qu'une épithète de Gô<i>s</i> : Gô<i>s</i>ûrûn (du Zend G<i>e</i>u<i>s</i> urvan) signifie « l'Âme du Taureau » (le Taureau primordial). Bien qu'urvan soit un nom masculin en Zend, Gô<i>s</i>ûrûn est considérée comme un ange féminin, car ce nom n'est qu'un substitut de Gô<i>s</i>.
 
@@ -56,7 +56,7 @@ Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
 Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 ## JE.
 
@@ -86,7 +86,7 @@ Qui attelle des équipes de chevaux . . . . pour assister les fidèles [^536].
 
 10\. « Afin que je puisse ôter la faim et la soif du monde créé par Mazda ; que je puisse ôter la vieillesse et la mort du monde créé par Mazda ; que je puisse ôter le vent chaud et le vent froid du monde créé par Mazda, pendant mille ans [^537]. »
 
-11\. La puissante Drvâspa, créée par Mazda, la sainte Drvâspa, la gardienne, lui accorda ce don, <span id="p113">[<sup><small>p. 113</small></sup>]</span> alors qu'il offrait des libations, donnait des cadeaux, sacrifiait et la suppliait de lui accorder ce don.
+11\. La puissante Drvâspa, créée par Mazda, la sainte Drvâspa, la gardienne, lui accorda ce don, <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> alors qu'il offrait des libations, donnait des cadeaux, sacrifiait et la suppliait de lui accorder ce don.
 
 Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
@@ -104,7 +104,7 @@ Qui attelle des équipes de chevaux... pour assister les fidèles.
 
 Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 ## IV.
 
@@ -114,7 +114,7 @@ Qui attelle des équipes de chevaux... pour assister les fidèles.
 
 17 [^539]. Haoma [^540] lui offrit un sacrifice, Haoma, le vivifiant, le guérisseur, le beau, le majestueux, aux yeux d'or, sur la plus haute hauteur du Haraiti Bareza. Il lui demanda une faveur en disant :
 
-18\. « Accorde-moi ce bienfait, ô bon et très bienfaisant Drvâspa ! Que je puisse lier le meurtrier touranien, Franghrasyan [^541], que je puisse le traîner lié, que je puisse l'amener lié au roi Husravah, que le roi Husravah le tue, derrière le lac <i>K</i>aê<i>k</i>asta [^542], le lac profond d'eaux salées [^543], pour venger le meurtre de son père Syâvarshâna [^544], un homme, et d'Aghraêratha, un semi-homme [^545]. » <span id="p115">[<sup><small>p. 115</small></sup>]</span> 19\. La puissante Drvâspa, créée par Mazda, la sainte Drvâspa, la gardienne, lui accorda ce don, alors qu'il offrait des libations, donnait des cadeaux, sacrifiait et la suppliait de lui accorder ce don.
+18\. « Accorde-moi ce bienfait, ô bon et très bienfaisant Drvâspa ! Que je puisse lier le meurtrier touranien, Franghrasyan [^541], que je puisse le traîner lié, que je puisse l'amener lié au roi Husravah, que le roi Husravah le tue, derrière le lac <i>K</i>aê<i>k</i>asta [^542], le lac profond d'eaux salées [^543], pour venger le meurtre de son père Syâvarshâna [^544], un homme, et d'Aghraêratha, un semi-homme [^545]. » <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> 19\. La puissante Drvâspa, créée par Mazda, la sainte Drvâspa, la gardienne, lui accorda ce don, alors qu'il offrait des libations, donnait des cadeaux, sacrifiait et la suppliait de lui accorder ce don.
 
 Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
@@ -128,7 +128,7 @@ Qui attelle des équipes de chevaux... pour assister les fidèles.
 
 22\. « Accorde-moi ce bienfait, ô bon et très bienfaisant Drvâspa ! Que je puisse tuer le meurtrier touranien, Franghrasyan, derrière le lac <i>K</i>aê<i>k</i>asta, le lac profond d'eaux salées, pour venger le meurtre de mon père Syâvarshâna, un homme, et d'Aghraêratha, un semi-homme [^547]. »
 
-23\. La puissante Drvâspa, créée par Mazda, la sainte Drvâspa, la gardienne, lui accorda ce bienfait, alors qu'il offrait des libations, donnait des cadeaux, sacrifiait, <span id="p116">[<sup><small>p. 116</small></sup>]</span> et la suppliait de lui accorder ce bienfait.
+23\. La puissante Drvâspa, créée par Mazda, la sainte Drvâspa, la gardienne, lui accorda ce bienfait, alors qu'il offrait des libations, donnait des cadeaux, sacrifiait, <span id="p116"><sup><small>[ p. 116 ]</small></sup></span> et la suppliait de lui accorder ce bienfait.
 
 Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
@@ -146,7 +146,7 @@ Qui attelle des équipes de chevaux... pour assister les fidèles.
 
 Pour son éclat et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 ## VII.
 
@@ -158,7 +158,7 @@ Qui attelle des équipes de chevaux... pour assister les fidèles.
 
 30\. « Accorde-moi ce bienfait, ô bon et très bienfaisant Drvâspa ! Afin que je puisse mettre en fuite A<i>s</i>ta-aurva<i>n</i><i>t</i>, le fils de Vîspa-thaurvô-asti, le tout-affligeant, au casque d'airain, à l'armure d'airain, au cou épais, derrière lequel sept cents chameaux... [^551] ; afin que je puisse mettre en fuite le meurtrier d'<i>H</i><i>v</i>yaona, Are<i>g</i>a<i>t</i>-aspa [^552] ; afin que je puisse mettre en fuite Dar<i>s</i>inika [^553], l'adorateur des Daêvas ;
 
-31\. Et que je puisse frapper Tãthrava<i>n</i><i>t</i> [^554] de la mauvaise loi ; que je puisse frapper Spin<i>g</i>auru<i>s</i>ka [^553], l'adorateur des Daêvas ; et que je puisse amener à la bonne loi les nations des Varedhakas et des <i>H</i><i>v</i>yaonas [^555] ; et que je puisse frapper des nations <i>H</i><i>v</i>yaona leurs cinquantaines et leurs centaines, leurs centaines et leurs milliers, leurs milliers et leurs <span id="p118">[<sup><small>p. 118</small></sup>]</span> dizaines de milliers, leurs dizaines de milliers et leurs myriades de myriades.'
+31\. Et que je puisse frapper Tãthrava<i>n</i><i>t</i> [^554] de la mauvaise loi ; que je puisse frapper Spin<i>g</i>auru<i>s</i>ka [^553], l'adorateur des Daêvas ; et que je puisse amener à la bonne loi les nations des Varedhakas et des <i>H</i><i>v</i>yaonas [^555] ; et que je puisse frapper des nations <i>H</i><i>v</i>yaona leurs cinquantaines et leurs centaines, leurs centaines et leurs milliers, leurs milliers et leurs <span id="p118"><sup><small>[ p. 118 ]</small></sup></span> dizaines de milliers, leurs dizaines de milliers et leurs myriades de myriades.'
 
 32\. La forte Drvâspa, créée par Mazda, la sainte Drvâspa, la nourricière, lui accorda ce bienfait, alors qu'il offrait des libations, donnait des cadeaux, sacrifiait et la suppliait de lui accorder ce bienfait.
 

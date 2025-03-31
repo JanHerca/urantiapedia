@@ -44,7 +44,7 @@ Dans ce voyage, le chercheur atteint un tel stade qu'il trouve tous les êtres e
 
 Il voit bien des Jacob errants à la recherche de Joseph. Il voit un monde d'amis qui courent à la recherche de l'Elu, et il trouve un univers d'amants qui marchent à la recherche de l'Aimé.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 A chaque instant, il perçoit une nouvelle chose, et à chaque heure, il est informé d'un mystère ; car il a élevé son cœur des deux mondes et a l'intention d'atteindre la Ka'aba (le but) du Bien-Aimé.
 
@@ -58,7 +58,7 @@ Pour illustrer la minutie de la recherche requise pour atteindre la Première Va
 
 « On raconte qu’un jour on vit Majnoun tamiser la poussière et verser des larmes. Ils lui dirent : « Que fais-tu ? » Il dit : « Je cherche Laila ! » Ils dirent : « Malheur à toi ! Laila est issue de l’esprit pur, et tu la cherches dans la terre ! » Il dit : « Je m’efforce de la chercher partout ; peut-être la trouverai-je quelque part ! »
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 « Bien que chercher le Seigneur des Seigneurs dans la poussière soit méprisable pour le sage, c'est pourtant la preuve d'un effort et d'une recherche infinis. « Quiconque cherche avec diligence trouvera sûrement. »
 
@@ -72,7 +72,7 @@ Notre traducteur nous rappelle ici que « Il n’y a pas d’autre Dieu que Dieu
 
 Dans ce voyage, le voyageur s'assoit sur chaque sol et habite chaque contrée, et cherche la beauté de l'Ami dans chaque visage.
 
-Il cherche le Bien-Aimé dans chaque pays ; il se joint à chaque multitude... peut-être découvrira-t-il le mystère du Bien-Aimé <span id="p57">[<sup><small>p. 57</small></sup>]</span> dans une tête, ou contemplera-t-il la beauté de l'Être Désiré dans un visage.
+Il cherche le Bien-Aimé dans chaque pays ; il se joint à chaque multitude... peut-être découvrira-t-il le mystère du Bien-Aimé <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> dans une tête, ou contemplera-t-il la beauté de l'Être Désiré dans un visage.
 
 Si, grâce à l’aide de Dieu, il trouve, au cours de ce voyage, une trace de l’Ami Sans Trace… il entrera immédiatement dans la Vallée de l’Amour et sera fondu dans le feu de l’amour.
 

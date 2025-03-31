@@ -38,7 +38,7 @@ Peu avant le jour fixé pour le mariage d'Abla, Antar arriva dans le voisinage d
 
 Faon du chasseur, ton ravisseur est arrivé : ne dis pas qu'il n'est pas arrivé ; le voici, certains sont tous tes espoirs ! Réjouis-toi du secours de l'épée de ton héros !
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Comprends l'histoire que je te raconte : combien de temps tarderas-tu ? La joie descend maintenant sur ta demeure et durera toujours, été comme hiver.
 
@@ -50,7 +50,7 @@ Toutes mes peines et mes chagrins ont disparu. Ma joie dépend de toi, ô Chef !
 
 « Quand Shiboob entendit ces paroles, il fit semblant d’être fatigué et s’assit près de la tente. Juste à ce moment, Abla apparut aussi et le regarda, et, comme il était habillé en femme : « Cette demoiselle ne peut pas être une servante de Kendeyan, dit-elle ; elle doit être une demoiselle de Shedad. » Alors le cœur de Shiboob s’agita ; mais il se tourna vers elle, calma son esprit et découvrit son visage. Elle le reconnut. « Ô Shiboob ! dit-elle, où est mon cousin Antar ? » – « Le voici, répondit Shiboob, tout près ; et avec lui son ami Oorwah, et une centaine de cavaliers. Nous sommes arrivés ici la nuit dernière, et je suis venue pour avoir de vos nouvelles ; je reviendrai et je l’en informerai. » – « Shiboob, dit-elle, il reste encore trois jours pour le mariage avec Mas-hil, fils de Tarak ; mais que ce soit plutôt le moyen de se séparer. » Reviens immédiatement et dis-lui ma situation ; mais qu'il ne songe pas à attaquer la tribu ; il doit me tendre une embuscade jusqu'à ce que je parte ; alors qu'il se précipite et tue tous ceux qui sont avec moi. Prends la bride de mon chameau, et nous retournerons dans notre pays natal. Tous, tous doivent goûter à la mort ; ordonne à Antar de ne pas épargner même mon père.
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 « Shiboob, ayant entendu cela, retourna vers Antar et lui raconta tout ce qu'Abla lui avait dit. »
 

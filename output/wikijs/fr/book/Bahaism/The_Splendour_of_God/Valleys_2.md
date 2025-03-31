@@ -64,7 +64,7 @@ Sois étranger à toi-même, afin que tu puisses trouver ton chemin vers l’Inc
 
 Abandonne la terre mortelle, pour pouvoir résider dans le Nid Divin.
 
-_Rien_ n'est nécessaire jusqu'à ce que tu puisses allumer le feu de l'existence et devenir acceptable sur le <span id="p59">[<sup><small>p. 59</small></sup>]</span> chemin de l'amour. « L'amour n'accepte pas une âme vivante (aux choses matérielles) ; un faucon ne s'attaque pas à une souris morte. »
+_Rien_ n'est nécessaire jusqu'à ce que tu puisses allumer le feu de l'existence et devenir acceptable sur le <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> chemin de l'amour. « L'amour n'accepte pas une âme vivante (aux choses matérielles) ; un faucon ne s'attaque pas à une souris morte. »
 
 À chaque instant, l'Amour consume un monde; et dans quelque pays qu'il hisse sa bannière, il le rend désolé.
 
@@ -76,7 +76,7 @@ Il devient étranger à lui-même et fuit tout ce qui est dans le monde. . . .
 
 Par conséquent, les voiles de l'ego satanique doivent nécessairement être consumés par le feu de l'amour ; afin que l'esprit puisse devenir propre et purifié pour comprendre les degrés du Seigneur du « mais pour toi ». » \[Ici, le lecteur doit être renvoyé à la note du traducteur : « Mais pour toi » — une tradition, relatant les paroles de Dieu au Prophète (Mahomet), « _Mais pour toi_, je n'aurais pas créé les sphères ! » (traditionnel).\] « Allume un feu d'amour et consume toutes les possessions (ou le Soi) ; puis lève ton pied et entre dans la montagne des amoureux. » \[Ici, notre traducteur nous informe que Bahá'u'lláh cite l'une de ses propres odes.\]
 
-« Si, avec l’aide du Créateur, l’amant est libéré en toute sécurité des griffes du faucon <span id="p60">[<sup><small>p. 60</small></sup>]</span> de l’Amour, il arrivera alors au royaume de la Vallée de la Connaissance Divine.
+« Si, avec l’aide du Créateur, l’amant est libéré en toute sécurité des griffes du faucon <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> de l’Amour, il arrivera alors au royaume de la Vallée de la Connaissance Divine.
 
 <figure class="table chapter-navigator">
   <table>

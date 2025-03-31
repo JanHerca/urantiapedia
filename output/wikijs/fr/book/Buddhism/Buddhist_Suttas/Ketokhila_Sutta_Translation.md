@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p223">[<sup><small>p. 223</small></sup>]</span>
+<span id="p223"><sup><small>[ p. 223 ]</small></sup></span>
 
 ## STÉRIÉTÉ ET SERVITUDE. <i>K</i>ETOKHILA-SUTTA.
 
@@ -82,7 +82,7 @@ Alors le Bienheureux parla :
 
 « Mais celui dont l'esprit n'est pas porté au zèle, à l'effort, à la persévérance et à la lutte, celui-là n'a pas brisé ce premier esclavage spirituel.
 
-9\. « Et de plus, ô Bhikkhus, lorsqu'un frère ne s'est pas débarrassé de la passion pour un corps[^4] (kâye), <span id="p226">[<sup><small>p. 226</small></sup>]</span> ne s'est pas débarrassé du désir d'un corps, ne s'est pas débarrassé de l'attirance pour un corps, ne s'est pas débarrassé de la soif d'un corps, ne s'est pas débarrassé de la fièvre d'un corps, ne s'est pas débarrassé du désir ardent d'un corps. »
+9\. « Et de plus, ô Bhikkhus, lorsqu'un frère ne s'est pas débarrassé de la passion pour un corps[^4] (kâye), <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> ne s'est pas débarrassé du désir d'un corps, ne s'est pas débarrassé de l'attirance pour un corps, ne s'est pas débarrassé de la soif d'un corps, ne s'est pas débarrassé de la fièvre d'un corps, ne s'est pas débarrassé du désir ardent d'un corps. »
 
 « Quiconque, frère, ô Bhikkhus, ne s'est pas débarrassé de la passion pour un corps, ne s'est pas débarrassé du désir après un corps, ne s'est pas débarrassé de l'attirance pour un corps, ne s'est pas débarrassé de la soif d'un corps, ne s'est pas débarrassé de la fièvre d'un corps, ne s'est pas débarrassé de l'envie après un corps, son esprit ne s'incline pas vers le zèle, l'effort, la persévérance et la lutte.
 
@@ -94,7 +94,7 @@ Alors le Bienheureux parla :
 
 « Mais celui dont l’esprit n’est pas porté vers le zèle, l’effort, la persévérance et la lutte, n’a pas brisé ce troisième esclavage spirituel.
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 11\. « Et de plus, ô Bhikkhus, un frère peut avoir mangé suffisamment et à satiété, et commence à suivre le cas du sommeil, la facilité de la douceur, la facilité de la paresse.
 
@@ -110,7 +110,7 @@ Alors le Bienheureux parla :
 
 « C'est celui-là, ô Bhikkhus, qui n'a pas brisé les cinq sortes de servitude mentale.
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 13\. « Et tout frère, ô Bhikkhus, qui n'est pas complètement libéré des cinq sortes de stérilité spirituelle, qui n'a pas complètement brisé les cinq sortes d'esclavage mental, qu'un tel homme puisse atteindre le plein avantage, la pleine croissance, la pleine ampleur de cette doctrine et de cette discipline, cela ne peut en aucune façon être !
 
@@ -128,7 +128,7 @@ Alors le Bienheureux parla :
 
 « Mais celui dont l’esprit est porté vers le zèle, l’effort, la persévérance et la lutte, est libéré de cette seconde stérilité spirituelle.
 
-17\. « Et de plus, ô Bhikkhus, lorsqu'un frère <span id="p229">[<sup><small>p. 229</small></sup>]</span> ne doute pas de la Fraternité (Sangha), n'est pas incertain à son sujet, a confiance en elle et a foi en elle ; alors son esprit s'incline vers le zèle, l'effort, la persévérance et la lutte.
+17\. « Et de plus, ô Bhikkhus, lorsqu'un frère <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> ne doute pas de la Fraternité (Sangha), n'est pas incertain à son sujet, a confiance en elle et a foi en elle ; alors son esprit s'incline vers le zèle, l'effort, la persévérance et la lutte.
 
 « Mais celui dont l’esprit s’incline vers le zèle, l’effort, la persévérance et la lutte, est libéré de cette troisième stérilité spirituelle.
 
@@ -158,7 +158,7 @@ Mais celui qui a l'esprit enclin au zèle, à l'effort, à la persévérance et 
 
 22\. « Et de plus, ô Bhikkhus, lorsqu'un frère s'est débarrassé de la passion pour une forme (rûpe), s'est débarrassé du désir après une forme, s'est débarrassé de l'attirance pour une forme, s'est débarrassé de la soif d'une forme, s'est débarrassé de la fièvre d'une forme, s'est débarrassé du désir ardent après une forme. »
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 « Quiconque, frère, ô Bhikkhus, s'est débarrassé de la passion pour une forme, s'est débarrassé du désir après une forme, s'est débarrassé de l'attraction pour une forme, s'est débarrassé de la soif d'une forme, s'est débarrassé de la fièvre d'une forme, s'est débarrassé de l'envie après une forme, son esprit s'incline vers le zèle, l'effort, la persévérance et la lutte.
 
@@ -182,7 +182,7 @@ Mais celui qui a l'esprit enclin au zèle, à l'effort, à la persévérance et 
 
 ---
 
-26\. « Il pratique la (première) voie de la sainteté », qui s'accompagne de l'union de la volonté d'acquérir cette sainteté avec une contemplation fervente et la lutte contre le péché. Il pratique la (deuxième) voie de la sainteté, qui s'accompagne de l'union de l'effort avec une contemplation fervente et la lutte contre le péché. Il pratique la (troisième) voie de la sainteté, qui s'accompagne de l'union de la pensée avec une contemplation fervente et la lutte contre le péché. Il pratique la (quatrième) voie de la sainteté, qui s'accompagne de l'union de l'investigation avec une contemplation fervente <span id="p233">[<sup><small>p. 233</small></sup>]</span> et la lutte contre le péché[^8], et aussi une ferme détermination comme cinquième.
+26\. « Il pratique la (première) voie de la sainteté », qui s'accompagne de l'union de la volonté d'acquérir cette sainteté avec une contemplation fervente et la lutte contre le péché. Il pratique la (deuxième) voie de la sainteté, qui s'accompagne de l'union de l'effort avec une contemplation fervente et la lutte contre le péché. Il pratique la (troisième) voie de la sainteté, qui s'accompagne de l'union de la pensée avec une contemplation fervente et la lutte contre le péché. Il pratique la (quatrième) voie de la sainteté, qui s'accompagne de l'union de l'investigation avec une contemplation fervente <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> et la lutte contre le péché[^8], et aussi une ferme détermination comme cinquième.
 
 27\. « Le frère, ô Bhikkhus, ainsi doté d'une détermination quinzième[^9], est destiné à apparaître dans la lumière, capable de la sagesse supérieure, sûr d'atteindre la sécurité suprême[^10].
 
@@ -190,7 +190,7 @@ Mais celui qui a l'esprit enclin au zèle, à l'effort, à la persévérance et 
 
 29\. « De même, un frère ainsi doté d'une détermination quinzième est sûr de sortir dans la lumière, sûr d'atteindre la sagesse supérieure, sûr d'atteindre la sécurité suprême[^11] ! »
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 30\. Ainsi parla le Bienheureux. Et ces frères, le cœur joyeux, exaltèrent la parole du Bienheureux.
 
@@ -198,7 +198,7 @@ Mais celui qui a l'esprit enclin au zèle, à l'effort, à la persévérance et 
 
 Fin du Sutta, le sixième, sur la stérilité et l'esclavage.
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

@@ -44,7 +44,7 @@ Indifférent et pur à l'égard de toute sorte de contrôle, un <i>S</i>rama<i>n
 
 Le sage qui voit les choses lointaines (le but, c'est-à-dire la libération), passées et futures, pratiquera l'indifférence, même s'il subit des châtiments corporels et est battu. (5)
 
-Possédant une sagesse parfaite, un sage surmonte toujours (ses passions) ; il expose correctement la <span id="p254">[<sup><small>p. 254</small></sup>]</span> Loi ; il ne néglige jamais le plus petit (devoir) ; il n'est ni en colère ni orgueilleux. (6)
+Possédant une sagesse parfaite, un sage surmonte toujours (ses passions) ; il expose correctement la <span id="p254"><sup><small>[ p. 254 ]</small></sup></span> Loi ; il ne néglige jamais le plus petit (devoir) ; il n'est ni en colère ni orgueilleux. (6)
 
 Un homme qui se contrôle selon (la Loi), qui est louée par beaucoup de gens, et qui n'est lié par aucun lien mondain, qui est toujours pur comme un lac, proclame la Loi de Kâ<i>s</i>yapa. (7)
 
@@ -58,7 +58,7 @@ Il faut connaître (et renoncer) au grand attachement (au monde), au respect et 
 
 Un moine doit accomplir des postures (comme Kâyôtsarga, etc.) seul sur son siège, et seul sur son divan, il doit méditer ; excellant dans l'accomplissement des austérités, prudent dans ses paroles et retenu dans ses pensées. (12)
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Un ascète ne ferme pas la porte d'une maison déserte (où il loge), ni ne l'ouvre ; lorsqu'on l'interroge, il ne donne aucune réponse (grossière) ; il ne coupe pas l'herbe, ni ne la jette (sur le sol pour en faire un lit). (13)
 
@@ -76,7 +76,7 @@ Lorsqu'un moine se querelle et utilise un langage très grossier, il subira une 
 
 Celui qui s'abstient d'eau froide [^743], qui ne projette (ou n'entreprend) rien, et a cessé même les plus petites actions, qui ne mange pas de nourriture dans le plat d'un maître de maison, possède une bonne conduite, etc. (20)
 
-<span id="p256">[<sup><small>p. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 Bien que la vie ne puisse être prolongée, comme on dit [^744], les insensés pèchent néanmoins sans discernement ; un insensé est comme rempli de péchés. Considérant cela, un sage n'est pas prétentieux. (21)
 
@@ -92,7 +92,7 @@ Ceux qui suivent la Loi proclamée par <i>G</i><i>ñ</i>ât<i>ri</i>ka, le grand
 
 Ne vous laissez pas séduire par les plaisirs, efforcez-vous de vous débarrasser de l'illusion. Ceux qui ne se laissent pas dominer par les plaisirs pervers savent que la méditation est leur devoir [^748]. (27)
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 Un moine ne doit pas raconter d'histoires, ni poser de questions futiles, ni colporter de commérages [^749]. Mais, connaissant la Loi suprême, il doit accomplir ses devoirs religieux et ne rien considérer comme sien. (28)
 

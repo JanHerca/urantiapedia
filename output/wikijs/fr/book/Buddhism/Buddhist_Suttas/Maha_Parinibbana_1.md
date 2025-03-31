@@ -32,17 +32,17 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## LE LIVRE DE LA GRANDE DÉCÈS. MAHÂ-PARINIBBÂNA-SUTTA. CHAPITRE I.
 
-1\.[^1] Ainsi ai-je entendu. Le Béni du Ciel habitait autrefois à Râ<i>g</i>agaha, sur la colline appelée le Pic du Vautour. Or, à cette époque, Ag<i>g</i>âtasattu, le fils de la reine consort d'origine Videha[^2], le roi de Magadha, désirait attaquer les Va<i>gg</i>iens ; et il se dit : « Je déracinerai ces Va<i>gg</i>iens, <span id="p2">[<sup><small>p. 2</small></sup>]</span> puissants et puissants[^3] qu'ils soient, je détruirai ces Va<i>gg</i>iens, je les mènerai à une ruine totale ! »
+1\.[^1] Ainsi ai-je entendu. Le Béni du Ciel habitait autrefois à Râ<i>g</i>agaha, sur la colline appelée le Pic du Vautour. Or, à cette époque, Ag<i>g</i>âtasattu, le fils de la reine consort d'origine Videha[^2], le roi de Magadha, désirait attaquer les Va<i>gg</i>iens ; et il se dit : « Je déracinerai ces Va<i>gg</i>iens, <span id="p2"><sup><small>[ p. 2 ]</small></sup></span> puissants et puissants[^3] qu'ils soient, je détruirai ces Va<i>gg</i>iens, je les mènerai à une ruine totale ! »
 
 2\. Il parla donc au brahmane Vassakâra, premier ministre du Magadha, et dit :
 
 « Viens maintenant, ô Brâhmane, va trouver le Bienheureux, prosterne-toi à ses pieds en mon nom, et demande-lui en mon nom s'il est exempt de maladie et de souffrance, s'il jouit d'une bonne santé, d'un bien-être et d'une santé vigoureuse. Dis-lui ensuite qu'Agâtasattu, fils du Vedehi, roi de Magadha, dans son empressement à attaquer les Vaggians, a décidé : « Je déracinerai ces Vaggians, aussi puissants et puissants soient-ils, je les détruirai, je les mènerai à la ruine ! » Et souviens-toi bien de ce que le Bienheureux peut prédire, et répète-le-moi. Car les Bouddhas ne disent rien de faux ! »
 
-3\. Alors le brahmane Vassakâra écouta les paroles du roi et dit : « Qu’il en soit ainsi. » Il ordonna qu’on prépare plusieurs magnifiques carrosses, monta sur l’un d’eux, quitta Râgagaha avec son cortège et se rendit au Pic du Vautour, chevauchant aussi loin que le terrain le permettait aux carrosses, <span id="p3">[<sup><small>p. 3</small></sup>]</span>, puis descendit et se dirigea à pied vers l’endroit où se trouvait le Bienheureux. Arrivé là, il échangea avec le Bienheureux des salutations et des compliments d’amitié et de civilité, s’assit respectueusement à ses côtés, puis lui transmit le message, comme le roi l’avait ordonné[^4]\].
+3\. Alors le brahmane Vassakâra écouta les paroles du roi et dit : « Qu’il en soit ainsi. » Il ordonna qu’on prépare plusieurs magnifiques carrosses, monta sur l’un d’eux, quitta Râgagaha avec son cortège et se rendit au Pic du Vautour, chevauchant aussi loin que le terrain le permettait aux carrosses, <span id="p3"><sup><small>[ p. 3 ]</small></sup></span>, puis descendit et se dirigea à pied vers l’endroit où se trouvait le Bienheureux. Arrivé là, il échangea avec le Bienheureux des salutations et des compliments d’amitié et de civilité, s’assit respectueusement à ses côtés, puis lui transmit le message, comme le roi l’avait ordonné[^4]\].
 
 4\. Or, à ce moment-là, le vénérable Ananda se tenait derrière le Bienheureux et l'éventait. Et le Bienheureux lui dit : « As-tu entendu, Ananda, que les Vaggiens tiennent de fréquentes et complètes assemblées publiques ? »
 
@@ -62,13 +62,13 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « Nous pouvons donc nous attendre, répondit le brahmane, au bien-être et non au déclin des Vaggiens lorsqu'ils réunissent l'une de ces conditions de bien-être, et à plus forte raison lorsqu'ils réunissent les sept. Ainsi, Gotama, les Vaggiens ne peuvent être vaincus par le roi de Magadha ; c'est-à-dire pas par la bataille, sans diplomatie ou en rompant leur alliance[^8]. Et maintenant, Gotama, nous devons partir ; nous sommes occupés et avons beaucoup à faire. »
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 « Ce que tu jugeras le plus approprié, ô Brâhmane », fut la réponse. Et le Brâhmane Vassakâra, ravi et satisfait des paroles du Bienheureux, se leva de son siège et s'en alla.
 
 6\. Peu de temps après son départ, le Béni du Ciel s'adressa au vénérable Ânanda et dit : « Va maintenant, Ânanda, et rassemble dans la Salle de Service ceux des Frères[^9] qui vivent dans le voisinage de Râgagaha. »
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Et il fit ainsi ; puis il retourna vers le Béni, et l'informa, en disant :
 
@@ -80,13 +80,13 @@ Et le Bienheureux se leva et se rendit à la salle de service ; et lorsqu'il fut
 
 « De même, Seigneur », dirent les frères en signe d’assentiment au Bienheureux ; et il parla ainsi :
 
-« Aussi longtemps, ô mendiants, que les frères se réuniront en assemblées complètes et fréquentes, aussi longtemps qu'ils se réuniront en concorde, et s'élèveront en concorde, et accompliront en concorde les devoirs de l'ordre, aussi longtemps que les frères n'établiront rien qui n'ait déjà été prescrit, et n'abrogeront rien de ce qui a déjà été établi, et agiront en accord avec les règles de l'ordre telles qu'elles sont maintenant établies, aussi longtemps que les frères honoreront, estimeront, révéreront et soutiendront les anciens expérimentés et de longue date, les pères et les dirigeants de l'ordre, et se feront un devoir d'écouter leurs paroles, aussi longtemps que les frères ne tomberont pas sous l'influence de ce désir qui, naissant en eux, donnerait naissance à une existence renouvelée[^10], aussi longtemps que les frères se délecteront d'une vie de solitude, aussi longtemps que les frères entraîneront leur esprit[^11] de telle sorte que des hommes bons et saints viendront à eux, et que ceux qui sont venus demeureront au cas <span id="p7">[<sup><small>p. 7</small></sup>]</span> — aussi longtemps que les frères peuvent être attendus, non pas qu'ils déclinent, mais qu'ils prospèrent. Tant que ces sept conditions continueront d'exister parmi les frères, tant qu'ils seront bien instruits de ces conditions, aussi longtemps que les frères peuvent être attendus, non pas qu'ils déclinent, mais qu'ils prospèrent.
+« Aussi longtemps, ô mendiants, que les frères se réuniront en assemblées complètes et fréquentes, aussi longtemps qu'ils se réuniront en concorde, et s'élèveront en concorde, et accompliront en concorde les devoirs de l'ordre, aussi longtemps que les frères n'établiront rien qui n'ait déjà été prescrit, et n'abrogeront rien de ce qui a déjà été établi, et agiront en accord avec les règles de l'ordre telles qu'elles sont maintenant établies, aussi longtemps que les frères honoreront, estimeront, révéreront et soutiendront les anciens expérimentés et de longue date, les pères et les dirigeants de l'ordre, et se feront un devoir d'écouter leurs paroles, aussi longtemps que les frères ne tomberont pas sous l'influence de ce désir qui, naissant en eux, donnerait naissance à une existence renouvelée[^10], aussi longtemps que les frères se délecteront d'une vie de solitude, aussi longtemps que les frères entraîneront leur esprit[^11] de telle sorte que des hommes bons et saints viendront à eux, et que ceux qui sont venus demeureront au cas <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> — aussi longtemps que les frères peuvent être attendus, non pas qu'ils déclinent, mais qu'ils prospèrent. Tant que ces sept conditions continueront d'exister parmi les frères, tant qu'ils seront bien instruits de ces conditions, aussi longtemps que les frères peuvent être attendus, non pas qu'ils déclinent, mais qu'ils prospèrent.
 
 7\. « Je vous enseignerai encore sept autres conditions de bien-être, ô frères. Écoutez attentivement, soyez attentifs, et je parlerai. »
 
 Et lorsqu'ils eurent exprimé leur assentiment, il parla ainsi :
 
-« Tant que les frères ne s'engageront pas dans, n'aimeront pas, ou ne seront pas liés aux affaires, tant que les frères n'auront pas l'habitude, n'aimeront pas, ou ne participeront pas aux bavardages, tant que les frères ne seront pas adonnés, n'aimeront pas, ou ne se livreront pas à la paresse, tant que les frères ne fréquenteront pas, n'aimeront pas, ou ne se livreront pas à la société, tant que les frères n'auront pas, ni ne tomberont sous l'influence de désirs pécheurs, tant que les frères ne deviendront pas les amis, les compagnons, ou les intimes des pécheurs, tant que les frères ne s'arrêteront pas sur leur chemin \[vers Nirvân</i>a[^12]\] parce qu'ils <span id="p8">[<sup><small>p. 8</small></sup>]</span> ont atteint une chose moindre, aussi longtemps les frères peuvent-ils s’attendre à ne pas décliner, mais à prospérer.
+« Tant que les frères ne s'engageront pas dans, n'aimeront pas, ou ne seront pas liés aux affaires, tant que les frères n'auront pas l'habitude, n'aimeront pas, ou ne participeront pas aux bavardages, tant que les frères ne seront pas adonnés, n'aimeront pas, ou ne se livreront pas à la paresse, tant que les frères ne fréquenteront pas, n'aimeront pas, ou ne se livreront pas à la société, tant que les frères n'auront pas, ni ne tomberont sous l'influence de désirs pécheurs, tant que les frères ne deviendront pas les amis, les compagnons, ou les intimes des pécheurs, tant que les frères ne s'arrêteront pas sur leur chemin \[vers Nirvân</i>a[^12]\] parce qu'ils <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> ont atteint une chose moindre, aussi longtemps les frères peuvent-ils s’attendre à ne pas décliner, mais à prospérer.
 
 « Tant que ces conditions continueront d’exister parmi les frères, tant qu’ils seront instruits dans ces conditions, on pourra s’attendre à ce que les frères ne déclinent pas, mais prospèrent. »
 
@@ -102,7 +102,7 @@ Et lorsqu'ils eurent exprimé leur assentiment, il parla ainsi :
 
 Et lorsqu'ils eurent exprimé leur assentiment, il parla ainsi :
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 « Tant que les frères s'exerceront à la sagesse septuple supérieure, c'est-à-dire à l'activité mentale, à la recherche de la vérité, à l'énergie, à la joie, à la paix, à la contemplation sincère et à l'équanimité d'esprit, on peut s'attendre à ce que les frères ne déclinent pas, mais prospèrent.
 
@@ -120,7 +120,7 @@ Et lorsqu'ils eurent exprimé leur assentiment, il parla ainsi :
 
 Et lorsqu'ils eurent exprimé leur assentiment, il parla ainsi :
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 « Tant que les frères persévéreront dans la bonté d'action, de parole et de pensée parmi les saints, tant en public qu'en privé, tant qu'ils partageront sans partialité et en commun avec les justes et les saints tout ce qu'ils reçoivent conformément aux justes dispositions de l'ordre, jusqu'au simple contenu d'un bol de mendiant, tant que les frères vivront parmi les saints dans la pratique, tant en public qu'en privé, de ces vertus qui (intactes, intactes, sans tache, sans défaut) sont productrices de liberté[^15] et louées par les sages, qui ne sont pas ternies par le désir de la vie future, ou par la croyance en l'efficacité des actes extérieurs[^16] ; et qui sont propices à des pensées hautes et saintes — aussi longtemps que les frères vivront parmi les saints, chérissant, en public et en privé, cette foi noble et salvatrice qui conduit à la destruction complète de la douleur de celui qui agit selon elle — aussi longtemps les frères pourront être attendus à ne pas décliner, mais à prospérer.
 
@@ -130,7 +130,7 @@ Et lorsqu'ils eurent exprimé leur assentiment, il parla ainsi :
 
 12\. Et tandis que le Bienheureux séjournait à Râgagaha, sur le Pic du Vautour, il tint avec les frères un entretien religieux approfondi sur la nature de la conduite droite, de la contemplation sincère et de l'intelligence. « Grand est le fruit, grand est l'avantage de la contemplation sincère lorsqu'elle est accompagnée d'une conduite droite. Grand est le fruit, grand est l'avantage de l'intellect lorsqu'il est accompagné d'une contemplation sincère. L'esprit accompagné d'intelligence est libéré des grands maux, c'est-à-dire de la sensualité, de l'individualité, de l'illusion et de l'ignorance[^17]. » [^18]
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 13\. Or, lorsque le Béni du Ciel eut séjourné à Râgagaha aussi longtemps qu'il le désirait, il s'adressa au vénérable Ananda et dit : « Viens, Ananda, allons à Ambalatthikâ. »
 
@@ -162,11 +162,11 @@ Mais au moins alors, ô Sâriputta, tu me connais comme le Bouddha Arahat mainte
 
 « Tu vois donc, Sâriputta, que tu ignores le cœur des Bouddhas Arahat du passé et du futur. Pourquoi donc tes paroles sont-elles si grandioses et audacieuses ? Pourquoi exploses-tu en un tel chant d'extase ? »
 
-17\. « Ô Seigneur ! Je ne connais pas le cœur des Bouddhas Arahat qui ont été, qui viendront et qui sont maintenant. Je ne connais que la lignée <span id="p14">[<sup><small>p. 14</small></sup>]</span> de la foi. Il en va de même, Seigneur, d'un roi qui possède une ville frontière, solide par ses fondations, ses remparts et ses toranas, et qui n'a qu'une seule porte ; et le roi pourrait y avoir un gardien, intelligent, expert et sage, pour arrêter tous les étrangers et n'admettre que les amis. Et lui, en parcourant les abords de la ville, pourrait ne pas observer tous les joints et les fissures des remparts de cette ville au point de savoir par où même un chat pourrait sortir. C'est possible. Pourtant, tous les êtres vivants de plus grande taille qui entreraient ou sortiraient de la ville devraient le faire par cette porte. C'est ainsi seulement, Seigneur, que je connais la lignée de la foi. » Je sais que les Bouddhas Arahat du passé, rejetant toute luxure, toute rancune, toute paresse, tout orgueil et tout doute ; connaissant tous les défauts mentaux qui affaiblissent les hommes ; entraînant leur esprit aux quatre sortes d'activités mentales ; s'exerçant pleinement à la sagesse supérieure septuple, ont reçu la pleine réalisation de l'Éveil. Et je sais que les Bouddhas Arahat des temps à venir feront de même. Et je sais que le Bienheureux, le Bouddha Arahat d'aujourd'hui, l'a fait maintenant[^20].
+17\. « Ô Seigneur ! Je ne connais pas le cœur des Bouddhas Arahat qui ont été, qui viendront et qui sont maintenant. Je ne connais que la lignée <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> de la foi. Il en va de même, Seigneur, d'un roi qui possède une ville frontière, solide par ses fondations, ses remparts et ses toranas, et qui n'a qu'une seule porte ; et le roi pourrait y avoir un gardien, intelligent, expert et sage, pour arrêter tous les étrangers et n'admettre que les amis. Et lui, en parcourant les abords de la ville, pourrait ne pas observer tous les joints et les fissures des remparts de cette ville au point de savoir par où même un chat pourrait sortir. C'est possible. Pourtant, tous les êtres vivants de plus grande taille qui entreraient ou sortiraient de la ville devraient le faire par cette porte. C'est ainsi seulement, Seigneur, que je connais la lignée de la foi. » Je sais que les Bouddhas Arahat du passé, rejetant toute luxure, toute rancune, toute paresse, tout orgueil et tout doute ; connaissant tous les défauts mentaux qui affaiblissent les hommes ; entraînant leur esprit aux quatre sortes d'activités mentales ; s'exerçant pleinement à la sagesse supérieure septuple, ont reçu la pleine réalisation de l'Éveil. Et je sais que les Bouddhas Arahat des temps à venir feront de même. Et je sais que le Bienheureux, le Bouddha Arahat d'aujourd'hui, l'a fait maintenant[^20].
 
 ---
 
-18\. Là, dans la manguier de Pavârika, le Bienheureux tint ce discours religieux complet <span id="p15">[<sup><small>p. 15</small></sup>]</span> avec les frères sur la nature de la conduite droite, de la contemplation sincère et de l'intelligence. « Grand est le fruit, grand est l'avantage de la contemplation sincère lorsqu'elle est accompagnée d'une conduite droite. Grand est le fruit, grand est l'avantage de l'intellect lorsqu'il est accompagné d'une contemplation sincère. L'esprit accompagné d'intelligence est libéré des grands maux, c'est-à-dire de la sensualité, de l'individualité, de l'illusion et de l'ignorance. »
+18\. Là, dans la manguier de Pavârika, le Bienheureux tint ce discours religieux complet <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> avec les frères sur la nature de la conduite droite, de la contemplation sincère et de l'intelligence. « Grand est le fruit, grand est l'avantage de la contemplation sincère lorsqu'elle est accompagnée d'une conduite droite. Grand est le fruit, grand est l'avantage de l'intellect lorsqu'il est accompagné d'une contemplation sincère. L'esprit accompagné d'intelligence est libéré des grands maux, c'est-à-dire de la sensualité, de l'individualité, de l'illusion et de l'ignorance. »
 
 ---
 
@@ -178,11 +178,11 @@ Alors le Béni se rendit, avec une grande compagnie de frères, à Pâtaligâma.
 
 20\. [^21] Les disciples de Pâtaligâma apprirent son arrivée et se rendirent à l'endroit où il se trouvait, s'assirent respectueusement à ses côtés et l'invitèrent à la maison de repos de leur village. Le Béni du Ciel signifia, par le silence, son consentement.
 
-21\. Alors les disciples de Pâ<i>t</i>aligâma, voyant qu'il avait accepté l'invitation, se levèrent et se rendirent à la maison de repos, s'inclinant devant le Bienheureux et le gardant à leur droite en passant devant lui[^22]. Arrivés là, ils aménagèrent la maison de repos <span id="p16">[<sup><small>p. 16</small></sup>]</span> à tous égards[^23], y installèrent des sièges, préparèrent une cruche à eau et préparèrent une lampe à huile. Puis ils retournèrent auprès du Bienheureux et, s'inclinant, se tinrent à ses côtés et dirent : « Tout est prêt, Seigneur ! Il est temps pour toi de faire ce que tu juges le plus approprié. »
+21\. Alors les disciples de Pâ<i>t</i>aligâma, voyant qu'il avait accepté l'invitation, se levèrent et se rendirent à la maison de repos, s'inclinant devant le Bienheureux et le gardant à leur droite en passant devant lui[^22]. Arrivés là, ils aménagèrent la maison de repos <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> à tous égards[^23], y installèrent des sièges, préparèrent une cruche à eau et préparèrent une lampe à huile. Puis ils retournèrent auprès du Bienheureux et, s'inclinant, se tinrent à ses côtés et dirent : « Tout est prêt, Seigneur ! Il est temps pour toi de faire ce que tu juges le plus approprié. »
 
 22\. Le Bienheureux revêtit sa robe, prit son bol et d'autres objets, se rendit avec les frères à la maison de repos, se lava les pieds, entra dans la salle et s'assit contre le pilier central, le visage tourné vers l'est. Les frères, après s'être lavé les pieds, entrèrent dans la salle et prirent place autour du Bienheureux, contre le mur occidental, face à la foule. Les disciples de Pâtaligâma, après s'être lavé les pieds, entrèrent dans la salle et prirent place en face du Bienheureux, contre le mur oriental, face à l'ouest.
 
-23\. [^24] Alors le Béni du Ciel s'adressa aux disciples de Pâ<i>t</i>aligâma et dit : « La perte du malfaiteur par son manque de droiture est quintuple, ô chefs de famille. Premièrement, le malfaiteur, dépourvu de droiture, tombe dans une grande pauvreté par paresse ; deuxièmement, sa mauvaise réputation est dénoncée ; troisièmement, quelle que soit la société dans laquelle il entre – qu'il s'agisse de brahmanes, de nobles, de chefs de famille ou de Saman<i>n</i>as – <span id="p17">[<sup><small>p. 17</small></sup>]</span>, il y entre timidement et confus ; quatrièmement, il est plein d'anxiété lorsqu'il meurt ; et enfin, à la dissolution du corps, après la mort, il renaît dans un état malheureux de souffrance ou de malheur[^25]. Voilà, ô chefs de famille, la perte quintuple du malfaiteur !
+23\. [^24] Alors le Béni du Ciel s'adressa aux disciples de Pâ<i>t</i>aligâma et dit : « La perte du malfaiteur par son manque de droiture est quintuple, ô chefs de famille. Premièrement, le malfaiteur, dépourvu de droiture, tombe dans une grande pauvreté par paresse ; deuxièmement, sa mauvaise réputation est dénoncée ; troisièmement, quelle que soit la société dans laquelle il entre – qu'il s'agisse de brahmanes, de nobles, de chefs de famille ou de Saman<i>n</i>as – <span id="p17"><sup><small>[ p. 17 ]</small></sup></span>, il y entre timidement et confus ; quatrièmement, il est plein d'anxiété lorsqu'il meurt ; et enfin, à la dissolution du corps, après la mort, il renaît dans un état malheureux de souffrance ou de malheur[^25]. Voilà, ô chefs de famille, la perte quintuple du malfaiteur !
 
 24\. « Ô chefs de famille, le bienfaiteur tire un quintuple profit de sa pratique de la droiture. Premièrement, le bienfaiteur, fort de sa droiture, acquiert une grande richesse par son travail ; deuxièmement, de bonnes nouvelles se répandent à son sujet ; troisièmement, quelle que soit la société dans laquelle il entre – nobles, brahmanes, chefs de famille ou membres de l'ordre – il y entre confiant et maître de lui ; quatrièmement, il meurt sans anxiété ; et enfin, à la dissolution du corps, après la mort, il renaît dans un état de bonheur céleste. Tel est, ô chefs de famille, le quintuple profit du bienfaiteur. »
 
@@ -198,7 +198,7 @@ Et le Béni du Ciel, peu de temps après que les disciples de Pâ<i>t</i>aligâm
 
 28\. Ils agissent, Ânanda, comme s'ils avaient consulté les Tâvati<i>m</i>sa, les anges. \[Et lui racontant ce qu'il avait vu et l'influence qu'exerçaient de telles fées, il ajouta\] : « Et parmi les lieux de résidence célèbres et les repaires d'hommes affairés, celle-ci deviendra la principale, la ville de Pâ<i>t</i>ali-putta, un centre d'échange de toutes sortes de marchandises. Mais trois dangers pèseront sur Pâ<i>t</i>ali-putta : celui du feu, celui de l'eau et celui de la dissension[^26]. »
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 29. Sunîdha et Vassakâra, les principaux ministres du Magadha, se rendirent alors à l'endroit où se trouvait le Bienheureux. Arrivés là, ils échangèrent avec lui salutations et compliments d'amitié et de civilité, et se tinrent là, respectueusement, à l'écart. Debout, Sunîdha et Vassakâra, les principaux ministres du Magadha, s'adressèrent ainsi au Bienheureux :
 
@@ -206,7 +206,7 @@ Et le Béni du Ciel, peu de temps après que les disciples de Pâ<i>t</i>aligâm
 
 30. Lorsque Sunîdha et Vassakâra, les principaux ministres du Magadha, comprirent qu'il avait donné son consentement, ils retournèrent à leur lieu de résidence. Arrivés là, ils préparèrent des mets sucrés, du riz bouilli et des gâteaux, et informèrent le Béni du Ciel en disant :
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 « L'heure du repas est arrivée, ô Gotama, et tout est prêt. »
 
@@ -221,7 +221,7 @@ Vénérés, ils le vénéreront ; honorés, ils l'honoreront à nouveau ;
 Sont gracieuses envers lui comme une mère envers son propre fils unique.  
 Et l'homme qui a la grâce des dieux, il contemple la bonne fortune[^27].
 
- <span id="p21">[<sup><small>p. 21</small></sup>]</span> 2\. Et après avoir remercié les ministres dans ces versets, il se leva de son siège et partit de là. Et ils le suivirent dans son cheminement, disant : « La porte par laquelle sort aujourd'hui Gotama sera appelée la porte de Gotama, et le bac par lequel il traverse le fleuve sera appelé le bac de Gotama. » Et la porte par laquelle il sortit fut appelée la porte de Gotama.
+ <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> 2\. Et après avoir remercié les ministres dans ces versets, il se leva de son siège et partit de là. Et ils le suivirent dans son cheminement, disant : « La porte par laquelle sort aujourd'hui Gotama sera appelée la porte de Gotama, et le bac par lequel il traverse le fleuve sera appelé le bac de Gotama. » Et la porte par laquelle il sortit fut appelée la porte de Gotama.
 
 ---
 
@@ -232,7 +232,7 @@ Et l'homme qui a la grâce des dieux, il contemple la bonne fortune[^27].
 « Ceux qui traversent l'océan sont tristes  
 Créer un chemin solide à travers les piscines—
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Pendant que le monde vaniteux attache ses radeaux de paniers-  
 Ceux-là sont les sages, ceux-là sont vraiment sauvés[^30]!'

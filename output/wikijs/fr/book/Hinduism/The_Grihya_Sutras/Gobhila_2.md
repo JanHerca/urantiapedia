@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 ## PRAPÂ_TH_AKA II, KÂ_N__D_IKÂ 1.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. [^188] Les prenant dans sa main, il les offrirait à la jeune fille et (récitant la formule) : « Seul le droit est le premier ; le droit personne ne le transgresse ; sur le droit cette terre est fondée. Puisse NN devenir cet univers ! » — il prononcerait son nom et dirait : « Prends-en un. »
 
-8\. Si elle prend l'un des quatre premiers (mottes), il devrait l'épouser, <span id="p43">[<sup><small>p. 43</small></sup>]</span>
+8\. Si elle prend l'un des quatre premiers (mottes), il devrait l'épouser, <span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 9\. [^189] Et selon certains (enseignants) aussi, si (elle prend) le mixte.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 13\. [^191] Alors l'un des assistants au mariage remplit une coupe d'eau « ferme », et après avoir marché avec la cruche d'eau autour du feu sur le devant, silencieux, enveloppé dans sa robe, il se place au sud (du feu), face au nord
 
-14\. Une autre personne munie d'un aiguillon (marche de la même manière et se place au même endroit). <span id="p44">[<sup><small>p. 44</small></sup>]</span>
+14\. Une autre personne munie d'un aiguillon (marche de la même manière et se place au même endroit). <span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 15\. Ils placent du grain grillé mélangé à des feuilles de <i>S</i>amî, à raison de quatre poignées, dans un panier à vanner derrière le feu,
 
@@ -80,7 +80,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 22\. Elle doit faire en sorte que l'extrémité du tapis de jonc (Sûtra 20) atteigne l'extrémité des Barhis.
 
-23\. À l'extrémité est de la natte, elle s'assoit à droite du marié. <span id="p45">[<sup><small>p. 45</small></sup>]</span>
+23\. À l'extrémité est de la natte, elle s'assoit à droite du marié. <span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 24\. [^194] Tandis qu'elle touche son épaule droite avec sa main droite, il sacrifie six oblations d'Â<i>g</i>ya avec (le verset), 'Qu'Agni aille en premier', et les (versets) suivants (MB. I, 1, 9-14)—
 
@@ -105,7 +105,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. [^197] Après que (Â<i>g</i>ya) a été étalé sous et versé sur (le grain frit), elle le sacrifie dans le feu sans ouvrir ses mains jointes, avec (le verset que le marié \[?\] récite), 'Cette femme dit' (MB. I, 2, 2).
 
-7\. [^198] (Les versets), 'Le dieu Aryaman' et 'Pûshan' <span id="p46">[<sup><small>p. 46</small></sup>]</span> (ll 3. 4) (sont répétés) aux deux suivantes (oblations de grains frits).
+7\. [^198] (Les versets), 'Le dieu Aryaman' et 'Pûshan' <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> (ll 3. 4) (sont répétés) aux deux suivantes (oblations de grains frits).
 
 8\. [^199] Après ce sacrifice, le mari, passant (derrière son dos), revient de la même manière, et la conduit autour du feu de sorte que leurs côtés droits soient tournés vers lui, ou un Brâhmane versé dans les Mantras (fait de même), avec (le vers), 'La servante des pères' (MB. I, 2, 5).
 
@@ -121,7 +121,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 14\. [^200] Il devrait s'adresser aux spectateurs avec (le verset) : « Cette femme porte des ornements de bon augure » (I. 1. 8).
 
-15\. [^201] À l'ouest du feu, le porteur d'eau suit (leur chemin) et asperge le front du marié, ainsi que celui de l'autre (c'est-à-dire la mariée), <span id="p47">[<sup><small>p. 47</small></sup>]</span> avec ce verset (que le marié murmure), 'Que (les Vi<i>s</i>ve devâs) oignent (ou unissent)' (ll 9).
+15\. [^201] À l'ouest du feu, le porteur d'eau suit (leur chemin) et asperge le front du marié, ainsi que celui de l'autre (c'est-à-dire la mariée), <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> avec ce verset (que le marié murmure), 'Que (les Vi<i>s</i>ve devâs) oignent (ou unissent)' (ll 9).
 
 16\. Après qu'elle a été (ainsi) aspergée, il lève ses mains jointes avec sa main gauche, saisit avec sa main droite sa main droite avec le pouce, sa main étant tournée avec la paume vers le haut, et murmure ces six versets se référant à la saisie de la main (d'une fille), « Je saisis ta main » (MB. I, 2, 10-15).
 
@@ -147,7 +147,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. Il versera sur la tête de la mariée les restes de chaque oblation.
 
-8\. Après le sacrifice, ils se lèvent, sortent (de la maison), et il lui montre l'étoile fixe (c'est-à-dire l'étoile polaire). <span id="p48">[<sup><small>p. 48</small></sup>]</span>
+8\. Après le sacrifice, ils se lèvent, sortent (de la maison), et il lui montre l'étoile fixe (c'est-à-dire l'étoile polaire). <span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 9\. (En répétant la formule) : « Tu es ferme. Puissé-je, NN, devenir ferme dans la maison de NN, mon mari » — elle devrait prononcer le nom de son mari et le sien.
 
@@ -167,7 +167,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 17\. Certains disent (que cette réception doit être offerte) lorsque (le marié et ses compagnons) sont arrivés (à la maison du père de la mariée).
 
-18\. [^209] La première nourriture qu'il mange doit être une nourriture <span id="p49">[<sup><small>p. 49</small></sup>]</span> propre au sacrifice, sur laquelle il a murmuré (les versets cités dans le Sûtra 21).
+18\. [^209] La première nourriture qu'il mange doit être une nourriture <span id="p49"><sup><small>[ p. 49 ]</small></sup></span> propre au sacrifice, sur laquelle il a murmuré (les versets cités dans le Sûtra 21).
 
 19\. Ou bien il devrait préparer le lendemain un plat de nourriture cuite, qu'ils mangeraient ensemble.
 
@@ -188,7 +188,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. [^213] Sur le chemin, il doit s'adresser aux carrefours, aux rivières et aux irrégularités (du sol), aux grands arbres et aux cimetières, avec (le verset) : « Que les cheminots ne nous rencontrent pas » (ibid. 12).
 
-3\. [^214] Si l'essieu se brise, ou si quelque chose qui est lié se détache, ou si le char est renversé, ou si quelque autre accident se produit, ils doivent mettre du bois sur le feu qu'ils portent avec eux, doivent <span id="p50">[<sup><small>p. 50</small></sup>]</span> faire des oblations (d'Â<i>ri</i>ya) avec les Vyâh<i>ri</i>tis, doivent se procurer un nouveau morceau (au lieu de celui qui a été endommagé), et doivent l'enduire des restes de l'Â<i>ri</i>ya (qui a été offert), avec (le verset), 'Celui qui sans lien' (Sâma-veda I, 244).
+3\. [^214] Si l'essieu se brise, ou si quelque chose qui est lié se détache, ou si le char est renversé, ou si quelque autre accident se produit, ils doivent mettre du bois sur le feu qu'ils portent avec eux, doivent <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> faire des oblations (d'Â<i>ri</i>ya) avec les Vyâh<i>ri</i>tis, doivent se procurer un nouveau morceau (au lieu de celui qui a été endommagé), et doivent l'enduire des restes de l'Â<i>ri</i>ya (qui a été offert), avec (le verset), 'Celui qui sans lien' (Sâma-veda I, 244).
 
 4\. Après avoir chanté le Vâmadevya, il doit monter (à nouveau).
 
@@ -211,7 +211,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 5.
 
@@ -254,7 +254,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. [^222] (Il l'achète avec les Mantras) :
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 « Si tu appartiens à Soma, je t'achète pour le roi Soma.
 
@@ -295,7 +295,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 5\. Il sépare ensuite ses cheveux vers le haut (c'est-à-dire en commençant par l'avant), la première fois avec des lames Darbha, avec (le mot), 'Bhû_h_!' la deuxième fois avec (le mot), 'Bhuva_h_!' la troisième fois avec (le mot), 'Sva_h_!'—
 
-6\. Puis avec (une éclisse de) Vîratara (bois) avec ce verset, « Avec lequel Aditi » (ibid. 2) ; <span id="p55">[<sup><small>p. 55</small></sup>]</span>
+6\. Puis avec (une éclisse de) Vîratara (bois) avec ce verset, « Avec lequel Aditi » (ibid. 2) ; <span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 7\. Puis avec un fuseau complet, avec ce verset, 'J'invoque Râkâ' (ibid. 3. 4)
 
@@ -319,7 +319,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 17\. [^227] Lorsqu'on lui annonce qu'un fils est né, il doit dire : « Retarde encore de lui couper le cordon ombilical et de lui donner le sein. »
 
-18\. [^228] Qu'il prenne du riz et des grains d'orge pilés de la même manière que la pousse (Nyagrodha). <span id="p56">[<sup><small>p. 56</small></sup>]</span>
+18\. [^228] Qu'il prenne du riz et des grains d'orge pilés de la même manière que la pousse (Nyagrodha). <span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 19\. [^229] Saisissant (cette substance pilée) avec le pouce et le quatrième doigt de sa main droite, il l'étale sur la langue du garçon, avec la formule : « Cet ordre » (MB. I, 5, 8).
 
@@ -338,7 +338,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. [^231] Le troisième (Tithi) de la troisième quinzaine lumineuse après sa naissance, le matin, le père fait laver l'enfant, y compris sa tête, et après le coucher du soleil, lorsque le rouge du soir a disparu, il adore (la lune), levant ses mains jointes.
 
-2\. Alors la mère, ayant habillé le fils d'un vêtement propre, le tend, du sud au nord, le visage tourné vers le nord, au père. <span id="p57">[<sup><small>p. 57</small></sup>]</span>
+2\. Alors la mère, ayant habillé le fils d'un vêtement propre, le tend, du sud au nord, le visage tourné vers le nord, au père. <span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 3\. Elle passe alors derrière son dos et se positionne au nord (de son mari).
 
@@ -354,7 +354,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. Celui qui va accomplir (cette cérémonie — le père ou un représentant du père) s'assoit à l'ouest du feu sur l'herbe Darbha pointée vers le nord, face à l'est.
 
-10\. [^234] Alors la mère, ayant habillé le fils d'un vêtement propre, le tend, du sud au nord, <span id="p58">[<sup><small>p. 58</small></sup>]</span> le visage tourné vers le nord, à l'exécutant (de la cérémonie).
+10\. [^234] Alors la mère, ayant habillé le fils d'un vêtement propre, le tend, du sud au nord, <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> le visage tourné vers le nord, à l'exécutant (de la cérémonie).
 
 11\. Elle passe ensuite derrière son dos et s'assoit au nord (de lui), sur l'herbe Darbha pointée vers le nord.
 
@@ -372,7 +372,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 18\. Une vache constitue le prix du sacrifice.
 
-19\. [^237] Chaque mois (après la naissance) du garçon, (ou) <span id="p59">[<sup><small>p. 59</small></sup>]</span> après un an, ou aux jours Parvan de l'année (c'est-à-dire au dernier Tithi de chacune des trois saisons), il doit sacrifier à Agni et Indra, au Ciel et à la Terre, et aux devâs Vi<i>s</i>ves.
+19\. [^237] Chaque mois (après la naissance) du garçon, (ou) <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> après un an, ou aux jours Parvan de l'année (c'est-à-dire au dernier Tithi de chacune des trois saisons), il doit sacrifier à Agni et Indra, au Ciel et à la Terre, et aux devâs Vi<i>s</i>ves.
 
 20\. [^238] Après avoir sacrifié à la divinité (du Tithi et du Nakshatra respectivement), il doit sacrifier au Tithi et au Nakshatra.
 
@@ -391,7 +391,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 ## KÂ_N__D_IKÂ 9.
 
@@ -409,7 +409,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. Le riz bouilli avec des graines de sésame (Sutra 5) et toutes les graines (mentionnées dans le Sûtra 6) sont donnés au barbier.
 
-8\. Puis la mère, après avoir habillé son fils d'un vêtement propre, s'assoit à l'ouest du feu sur l'herbe du Darbha pointée vers le nord, face à l'est. <span id="p61">[<sup><small>p. 61</small></sup>]</span>
+8\. Puis la mère, après avoir habillé son fils d'un vêtement propre, s'assoit à l'ouest du feu sur l'herbe du Darbha pointée vers le nord, face à l'est. <span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 9\. A l'ouest (d'elle), face à l'est, se place la personne qui va accomplir cette (cérémonie).
 
@@ -425,7 +425,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 15\. Les pressant de la main gauche, et saisissant de la main droite le rasoir en bois d'Udumbara ou le miroir, il touche avec (les lames du Darbha) le (Mantra) : « Hache ! Ne lui fais pas de mal ! » (ibid. 6).
 
-16\. Avec (le Mantra) « Avec lequel Pûshan a rasé la tête de Birāhaspati » (ibid. 7), il avance (ce rasoir ou ce miroir) trois fois vers l'est sans couper (les cheveux) ; une fois avec le Yarāi, deux fois silencieusement. <span id="p62">[<sup><small>p. 62</small></sup>]</span>
+16\. Avec (le Mantra) « Avec lequel Pûshan a rasé la tête de Birāhaspati » (ibid. 7), il avance (ce rasoir ou ce miroir) trois fois vers l'est sans couper (les cheveux) ; une fois avec le Yarāi, deux fois silencieusement. <span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 17\. Puis (le barbier) avec le rasoir en métal coupe les cheveux et jette (les extrémités des cheveux coupés) sur la bouse du taureau.
 
@@ -447,7 +447,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 26\. Ils jettent les poils sur la bouse du taureau (mentionnée ci-dessus), l'emmènent dans la forêt et l'enterrent.
 
-27\. Certains les jettent sur un tas (d'herbe ou autre). <span id="p63">[<sup><small>p. 63</small></sup>]</span>
+27\. Certains les jettent sur un tas (d'herbe ou autre). <span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 28\. Alors ils pourront faire ce qu'ils veulent.
 
@@ -469,7 +469,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. Qu'ils n'initient pas de tels hommes, qu'ils ne les enseignent pas, qu'ils n'accomplissent pas de sacrifices pour eux, ni ne contractent avec eux d'alliance matrimoniale.
 
-7\. Le jour où le jeune homme doit recevoir l'initiation, ce jour-là, tôt le matin, ils lui donnent à manger, lui coiffent les cheveux, le lavent, le parent d'ornements et lui mettent un vêtement neuf qui n'a pas encore été lavé. <span id="p64">[<sup><small>p. 64</small></sup>]</span>
+7\. Le jour où le jeune homme doit recevoir l'initiation, ce jour-là, tôt le matin, ils lui donnent à manger, lui coiffent les cheveux, le lavent, le parent d'ornements et lui mettent un vêtement neuf qui n'a pas encore été lavé. <span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 8\. [^252] Leurs vêtements sont faits de lin, de toile de chanvre, de coton ou de laine (selon la caste à laquelle appartient l'étudiant).
 
@@ -487,7 +487,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 15\. [^255] À l'est de la maison, sur une surface enduite (de bouse de vache), du bois a été mis au feu.
 
-16\. Après avoir sacrifié avec (les Mantras que l'étudiant récite) « Agni ! Seigneur du vœu » (MB. I, 6, 9-13), l'enseignant se place à l'ouest <span id="p65">[<sup><small>p. 65</small></sup>]</span> du feu, sur l'herbe Darbha pointée vers le nord, face à l'est.
+16\. Après avoir sacrifié avec (les Mantras que l'étudiant récite) « Agni ! Seigneur du vœu » (MB. I, 6, 9-13), l'enseignant se place à l'ouest <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> du feu, sur l'herbe Darbha pointée vers le nord, face à l'est.
 
 17\. Entre le feu et le professeur, l'étudiant (se tient debout), levant les mains jointes, tournant son visage vers le professeur, sur l'herbe Darbha pointée vers le nord.
 
@@ -549,7 +549,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 46\. Après le coucher du soleil, il met un morceau de bois sur le feu avec (le Mantra) : « J'ai apporté un morceau de bois à Agni » (ibid. 32).
 
-47\. Pendant trois nuits, il évite les aliments piquants ou salés. <span id="p68">[<sup><small>p. 68</small></sup>]</span>
+47\. Pendant trois nuits, il évite les aliments piquants ou salés. <span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 48\. À la fin de cette (période), un plat de grains de riz bouillis (est offert) à Savit_ri_.
 

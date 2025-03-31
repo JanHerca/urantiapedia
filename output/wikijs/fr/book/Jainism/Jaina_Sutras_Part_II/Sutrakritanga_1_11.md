@@ -42,7 +42,7 @@ Dites-nous comment nous devrions décrire ce chemin, si quelqu'un, un dieu ou un
 
 Si quelqu'un, dieu ou homme, t'interroge à ce sujet, dis-lui la vérité sur le chemin. Écoute-moi ! (4)
 
-Le chemin très difficile expliqué par le Kâ<i>s</i>yapa, que certains hommes de cette terre <span id="p311">[<sup><small>p. 311</small></sup>]</span> ont autrefois emprunté. (les Sa<i>m</i>sâra) comme des marchands sur l'océan [^913], le franchissent (même maintenant), et le franchiront à l'avenir ; (ce chemin que) j'ai appris, je l'expliquerai dans l'ordre ; hommes, écoutez-moi ! (5, 6)
+Le chemin très difficile expliqué par le Kâ<i>s</i>yapa, que certains hommes de cette terre <span id="p311"><sup><small>[ p. 311 ]</small></sup></span> ont autrefois emprunté. (les Sa<i>m</i>sâra) comme des marchands sur l'océan [^913], le franchissent (même maintenant), et le franchiront à l'avenir ; (ce chemin que) j'ai appris, je l'expliquerai dans l'ordre ; hommes, écoutez-moi ! (5, 6)
 
 Les êtres terrestres sont des êtres individuels, tout comme les êtres aquatiques, les êtres du feu et les êtres du vent ; l'herbe, les arbres, le maïs ; (7)
 
@@ -58,7 +58,7 @@ Maître (de ses sens) et évitant le mal, il ne doit faire de mal à personne, n
 
 Un homme sage qui maîtrise ses sens et possède une grande connaissance, devrait accepter les choses qui lui sont données gratuitement, en étant toujours circonspect à l'égard de l'acceptation des aumônes et en s'abstenant de ce qui lui est interdit d'accepter. (13)
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 Un vrai moine ne doit pas accepter de nourriture et de boisson spécialement préparées pour lui, en même temps que l'abattage d'êtres vivants. (14)
 
@@ -74,7 +74,7 @@ Il ne devrait pas non plus dire que ce n'est pas méritoire, car il empêcherait
 
 Ceux qui louent le don sont complices [^918] du meurtre des êtres ; ceux qui l'interdisent privent (les autres) des moyens de subsistance. (20)
 
-Ceux, cependant, qui ne donnent aucune réponse, à savoir <span id="p313">[<sup><small>p. 313</small></sup>]</span> si c'est méritoire ou non, ne s'exposent pas à la culpabilité et atteindront la Béatitude [^919]. (21)
+Ceux, cependant, qui ne donnent aucune réponse, à savoir <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> si c'est méritoire ou non, ne s'exposent pas à la culpabilité et atteindront la Béatitude [^919]. (21)
 
 Sachant que la Béatitude est la meilleure chose comme la lune est parmi les étoiles, un sage toujours retenu et soumettant ses sens amène la Béatitude. (22)
 
@@ -84,7 +84,7 @@ Celui qui garde son âme, soumet ses sens, met un terme au courant (du Sa<i>m</i
 
 Ceux qui ne connaissent pas cela (la Loi), ne sont pas éveillés, bien qu'ils s'imaginent l'être ; se croyant éveillés, ils sont au-delà des limites de la foi juste [^922]. (25)
 
-En mangeant des graines et en buvant de l'eau froide [^923] et ce qui <span id="p314">[<sup><small>p. 314</small></sup>]</span> a été spécialement préparé pour eux, ils entrent en méditation [^924], mais ils ignorent la vérité et ne possèdent pas la prudence. (26)
+En mangeant des graines et en buvant de l'eau froide [^923] et ce qui <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> a été spécialement préparé pour eux, ils entrent en méditation [^924], mais ils ignorent la vérité et ne possèdent pas la prudence. (26)
 
 De même que les dhanaṅkas, les hérons, les balbuzards pêcheurs, les cormorans et les faisans méditent sur la capture de poissons, ce qui est une méditation pécheresse et très basse, de même certains Sramaṅas hérétiques et indignes contemplent la poursuite des plaisirs ; ils sont pécheurs et très bas comme les hérons. (27, 28)
 
@@ -100,7 +100,7 @@ Un homme sage connaissant (et renonçant) à l'orgueil excessif et à la tromper
 
 Il acquiert de bonnes qualités et abandonne les mauvaises qualités ; un moine qui pratique vigoureusement les austérités évite la colère et l'orgueil. (35)
 
-Les Bouddhas [^927] qui furent, et les Bouddhas qui <span id="p315">[<sup><small>p. 315</small></sup>]</span> seront, ils ont (pour ainsi dire) la Paix comme fondement, tout comme toutes choses ont la terre pour fondement. (36)
+Les Bouddhas [^927] qui furent, et les Bouddhas qui <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> seront, ils ont (pour ainsi dire) la Paix comme fondement, tout comme toutes choses ont la terre pour fondement. (36)
 
 Et si des accidents, quels qu'ils soient, arrivent à celui qui a acquis ce fondement, il ne sera pas vaincu par eux comme une montagne par la tempête [^928]. (37)
 

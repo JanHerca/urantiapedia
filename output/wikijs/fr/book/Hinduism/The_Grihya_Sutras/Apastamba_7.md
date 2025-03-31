@@ -46,7 +46,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. Les (six) (formules de Ya<i>g</i>us, II, 15, 6-11) suivantes sur la (maison lorsqu'elle est) terminée, selon les caractéristiques contenues dans les formules individuelles.
 
-7\. Il met le feu à un morceau de bois de Palâ<i>s</i>a ou de bois de <i>S</i>amî, porte le feu (dans un plat) avec le verset suivant (II, 15, 12), le porte à la maison avec <span id="p286">[<sup><small>p. 286</small></sup>]</span> le Ya<i>s</i>us suivant (II, 15, 13), et place le feu dans la partie nord-est de la maison avec le suivant (II, 15, 14).
+7\. Il met le feu à un morceau de bois de Palâ<i>s</i>a ou de bois de <i>S</i>amî, porte le feu (dans un plat) avec le verset suivant (II, 15, 12), le porte à la maison avec <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> le Ya<i>s</i>us suivant (II, 15, 13), et place le feu dans la partie nord-est de la maison avec le suivant (II, 15, 14).
 
 8\. L'emplacement du tonneau d'eau se trouve au sud de cet endroit.
 
@@ -65,7 +65,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## PA<i>T</i>ALA 7, SECTION 18.
 
-1\. [^779] Lorsqu'un garçon est attaqué par le démon-chien (c'est-à-dire l'épilepsie), (le père ou un autre exécutant de la cérémonie), s'étant consacré aux austérités <span id="p287">[<sup><small>p. 287</small></sup>]</span> (comme le jeûne), le couvre d'un filet. Puis il fait battre un gong ou sonner une cloche, emmène (le garçon) par un autre chemin que la porte dans la salle de jeu, soulève (la terre au milieu de la salle) à l'endroit où ils jouent, l'asperge (d'eau), jette les dés, couche (le garçon) sur le dos sur les dés, et l'asperge avec ses mains jointes de lait caillé et de sel, avec les (onze) suivants (formules, II, 16, 1-11), le matin, à midi et le soir.
+1\. [^779] Lorsqu'un garçon est attaqué par le démon-chien (c'est-à-dire l'épilepsie), (le père ou un autre exécutant de la cérémonie), s'étant consacré aux austérités <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> (comme le jeûne), le couvre d'un filet. Puis il fait battre un gong ou sonner une cloche, emmène (le garçon) par un autre chemin que la porte dans la salle de jeu, soulève (la terre au milieu de la salle) à l'endroit où ils jouent, l'asperge (d'eau), jette les dés, couche (le garçon) sur le dos sur les dés, et l'asperge avec ses mains jointes de lait caillé et de sel, avec les (onze) suivants (formules, II, 16, 1-11), le matin, à midi et le soir.
 
 2\. Alors il guérira.
 
@@ -77,7 +77,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. [^782] Après que les cérémonies jusqu'aux oblations Â<i>m</i>yabhâga ont été accomplies de la même manière que lors des sacrifices bimensuels, il sacrifie le Sthâlîpâka, et à chacune des suivantes (formules, II, 16, 15-17) il offre avec ses mains jointes des fleurs de Ki<i>m</i><i>m</i>uka.
 
-7\. Avec les (trois) versets suivants (II, 17, 1-3) (il offre) des morceaux de bois d'Âragvadha (Cathartocarpus fistula) ; <span id="p288">[<sup><small>p. 288</small></sup>]</span>
+7\. Avec les (trois) versets suivants (II, 17, 1-3) (il offre) des morceaux de bois d'Âragvadha (Cathartocarpus fistula) ; <span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 8\. Ensuite les oblations Â<i>g</i>ya (indiquées par le) suivant (Mantras, II, 17, 4-7).
 
@@ -96,7 +96,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. Le grain non moulu (qui reste, voir ci-dessus, VII, 18, 11) est donné aux garçons à manger.
 
-2\. Qu'il répète de la même manière cette offrande de Bali, de toute nourriture qu'il a obtenue ou de farine, depuis ce jour jusqu'à la pleine lune (du mois) de Mârga<i>s</i>îrsha. <span id="p289">[<sup><small>p. 289</small></sup>]</span>
+2\. Qu'il répète de la même manière cette offrande de Bali, de toute nourriture qu'il a obtenue ou de farine, depuis ce jour jusqu'à la pleine lune (du mois) de Mârga<i>s</i>îrsha. <span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 3\. Le jour de la pleine lune de Mârga<i>s</i>îrsha après le coucher du soleil, un Sthâlîpâka (est offert comme ci-dessus, VII, 18, 5).
 
@@ -118,7 +118,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 12\. De la même manière, le fait de se coucher, etc., est répété trois fois.
 
-13\. [^784] Ayant préparé un Sthâlîpâka pour Lana et <span id="p290">[<sup><small>p. 290</small></sup>]</span> un pour Kshetrapati, il sort en direction de l'est ou du nord, prépare une surface surélevée, (puis suit les cérémonies) en commençant par mettre du bois sur le feu.
+13\. [^784] Ayant préparé un Sthâlîpâka pour Lana et <span id="p290"><sup><small>[ p. 290 ]</small></sup></span> un pour Kshetrapati, il sort en direction de l'est ou du nord, prépare une surface surélevée, (puis suit les cérémonies) en commençant par mettre du bois sur le feu.
 
 14\. À l'ouest du feu, il construit deux huttes.
 
@@ -134,7 +134,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. Il leur donne de l'eau à boire dans le même ordre dans lequel ils ont été conduits (à leurs places), prend trois portions de riz bouilli (du Sthâlîpâka préparé pour Î<i>g</i>âna), porte (ces portions de riz) au feu, fait (les trois dieux) les toucher avec les (formules, II, 18, II-13) suivantes, sacrifie ces portions, à chaque dieu de la portion qui lui appartient, avec les (formules, II, 18, 14-30) suivantes, retranche (Avadânas) de toutes (portions), et sacrifie avec le Ya<i>g</i>us (II, 18, 31) suivant à Agni Svish<i>g</i>ak<i>g</i>t.
 
-5\. Après avoir adoré (le dieu Î<i>g</i>âna) avec le Ya<i>g</i>us suivant (II, 18, 32), il distribue avec les (formules, II, 18, 33-39) feuilles avec des portions de riz bouilli, deux (feuilles) à chaque (Ya<i>g</i>us), puis dix aux armées divines (II, 18, 40), et dix aux (armées divines) qui suivent (et auxquelles il est fait référence dans le Ya<i>g</i>us suivant, II, 18, 41). <span id="p291">[<sup><small>p. 291</small></sup>]</span>
+5\. Après avoir adoré (le dieu Î<i>g</i>âna) avec le Ya<i>g</i>us suivant (II, 18, 32), il distribue avec les (formules, II, 18, 33-39) feuilles avec des portions de riz bouilli, deux (feuilles) à chaque (Ya<i>g</i>us), puis dix aux armées divines (II, 18, 40), et dix aux (armées divines) qui suivent (et auxquelles il est fait référence dans le Ya<i>g</i>us suivant, II, 18, 41). <span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 6\. Avec la suivante (formules, II, 18, 42-45) il fait la même chose que précédemment (c'est-à-dire qu'il distribue deux feuilles avec chaque Mantra).
 

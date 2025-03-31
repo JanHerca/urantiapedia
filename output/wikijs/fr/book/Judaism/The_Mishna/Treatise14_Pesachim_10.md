@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 8. Il est interdit de conclure le repas du sacrifice pascal par un dessert. Si l'un des convives s'endort pendant le repas, il peut manger du sacrifice pascal ensuite ; mais une fois que tous les convives se sont endormis, ils ne peuvent plus en manger à leur réveil. Rabbi José dit : « S'ils sont seulement endormis, ils peuvent en manger, mais s'ils s'endorment profondément, ils ne peuvent plus en manger ensuite. »
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 § 9. L'offrande pascale, après minuit, rend les mains impures. [^351] Les sacrifices rejetés \[‏פגול‎\], ou restés au-delà du temps prescrit \[‏נותר‎\], rendent également les mains impures. Quiconque a prononcé la bénédiction sur l'offrande pascale n'est pas tenu de la prononcer sur l'offrande \[festive\], mais quiconque a prononcé la bénédiction sur l'offrande festive est tenu de la prononcer également sur l'offrande pascale. Tel est le dicton de Rabbi Ismaël ; mais Rabbi Akivah dit : « Aucune de ces deux bénédictions ne dispense de prononcer l'autre bénédiction. »
 

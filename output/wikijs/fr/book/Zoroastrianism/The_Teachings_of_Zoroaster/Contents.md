@@ -29,9 +29,9 @@ dateCreated: 2025-3-16T22:26:58Z
   </table>
 </figure>
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 &nbsp; | PAGE
 --- | ---:
@@ -46,7 +46,7 @@ Définition d'Ahura-Mazda (Dieu) | [22](Introduction#p22)
 Signification du mot Daêva en langue Avesta | [24](Introduction#p24)
 Création | [25](Introduction#p25)
 Philosophie spéculative zoroastrienne — Spenta Mainyus (Esprit créateur) et Angro Mainyus (Esprit destructeur) — Leur conflit incessant dans l'état de nature | [26](Introduction#p26)
-La doctrine du dualisme réfutée | [27](Introduction#p27) <span id="p8">[<sup><small>p. 8</small></sup>]</span>
+La doctrine du dualisme réfutée | [27](Introduction#p27) <span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 Les maux commis par Angro Mainyus | [28](Introduction#p28)
 Invocation de Spenta Mainyus — De la vie sur Terre — La création de seize régions | [29](Introduction#p29)
 Yima (Jamshid), le souverain d'Airyana-Vaêjâ — L'avertissement de Dieu à Yima concernant le désastre qui menacerait son royaume (Noé et son arche) | [30](Introduction#p30)
@@ -62,7 +62,7 @@ Un incident de miséricorde et de charité envers les morts | [39](Introduction#
 Dieu et sa hiérarchie d'archanges (Ameshaspends) | [41](Introduction#p41)
 Bonté envers les animaux muets — Plainte de Geush-Urvan (le seigneur du troupeau) à Dieu — Une parabole | [41](Introduction#p41)–[42](Introduction#p42)
 Prière de repentance pour mauvais traitements ou manque de gentillesse envers les animaux domestiques | [43] (Introduction#p43)
-Interdiction du jeûne alimentaire | [44](Introduction#p44) <span id="p9">[<sup><small>p. 9</small></sup>]</span>
+Interdiction du jeûne alimentaire | [44](Introduction#p44) <span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 De la vie dans l'au-delà |
 Le corps et l'âme | [45](Introduction#p45)
 Rupture de leur lien d'amitié — Le glorieux coucher de soleil de la vie — Le départ de l'âme — Son arrivée au « pont de Chinvat » — L'enregistreur « Mehr Davar » à la porte du ciel | [46](Introduction#p46)
@@ -82,7 +82,7 @@ La destination de l'âme | [61](Extraits#p61)
 La reddition de comptes de l'âme | [64](Extraits#p64)
 Hymne Gatha | [66](Extraits#p66)
 Confession de foi | [69](Extraits#p69)
-Le Credo | [69](Extraits#p69) <span id="p10">[<sup><small>p. 10</small></sup>]</span>
+Le Credo | [69](Extraits#p69) <span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 Prière de Kem Nâ Mazda | [70](Extraits#p70)
 Prière de Ke Verethrem Gâ | [70](Extraits#p70)
 Prière d'Ormuzd Yast (à la gloire de Dieu) | [70](Extraits#p70)

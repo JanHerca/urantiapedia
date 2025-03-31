@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 3. Si des témoins déclarent : « Cette attestation est de notre main, mais nous avons été contraints d'attester », ou « nous étions mineurs », ou « nous étions légalement disqualifiés de devenir témoins en raison de notre consanguinité », ils doivent être crus. [^793] Mais s'il y a des témoins pour prouver qu'il s'agit de leur écriture, ou si leur écriture est prouvée par d'autres moyens, ils ne doivent pas être crus.
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 § 4. Si l'un d'eux déclare : « Ceci est mon écriture, et ceci est celle de mon compagnon » ; et que l'autre déclare de même : « Ceci est mon écriture, et ceci est celle de mon compagnon », il faut les croire. Si chacun d'eux déclare seulement : « Ceci est mon écriture », il faut le témoignage supplémentaire d'une autre personne. Tel est le dicton du Rabbin ; mais les sages soutiennent qu'ils n'exigent pas le témoignage supplémentaire d'une autre personne, mais que chacun doit être cru lorsqu'il déclare : « Ceci est mon écriture ».
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span> p. 71 p. 72 p. 73
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span> p. 71 p. 72 p. 73
 
 B<i>RI</i>HADÂRA<i>N</i>YAKA-UPANISHAD.
 
@@ -40,7 +40,7 @@ PREMIER ADHYÂYA [^246].
 
 ## PREMIER BRÂHMA<i>N</i>A.
 
-1\. En vérité [^247] l'aurore est la tête du cheval qui est propre au sacrifice, le soleil son œil, le vent son souffle, la bouche le feu de Vai<i>s</i>vânara [^248], l'année le corps du cheval sacrificiel. Le ciel est le dos, le ciel le ventre, la terre la poitrine [^249], les quartiers les deux côtés, les quartiers intermédiaires les côtes, les membres les saisons, les articulations les mois et les demi-mois, les pieds les jours et les nuits, les os les étoiles, la <span id="p74">[<sup><small>p. 74</small></sup>]</span> chair les nuages. La nourriture à moitié digérée est le sable, les rivières les entrailles [^250], le foie et les poumons [^251] les montagnes, les poils les herbes et les arbres. Quand le soleil se lève, il est l'avant-train du cheval, quand il se couche, il est l'arrière-train du cheval. Quand le cheval se secoue [^252], alors il s'éclaire ; quand il rue, il tonne ; quand il fait de l'eau, il pleut ; la voix [^253] est sa voix.
+1\. En vérité [^247] l'aurore est la tête du cheval qui est propre au sacrifice, le soleil son œil, le vent son souffle, la bouche le feu de Vai<i>s</i>vânara [^248], l'année le corps du cheval sacrificiel. Le ciel est le dos, le ciel le ventre, la terre la poitrine [^249], les quartiers les deux côtés, les quartiers intermédiaires les côtes, les membres les saisons, les articulations les mois et les demi-mois, les pieds les jours et les nuits, les os les étoiles, la <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> chair les nuages. La nourriture à moitié digérée est le sable, les rivières les entrailles [^250], le foie et les poumons [^251] les montagnes, les poils les herbes et les arbres. Quand le soleil se lève, il est l'avant-train du cheval, quand il se couche, il est l'arrière-train du cheval. Quand le cheval se secoue [^252], alors il s'éclaire ; quand il rue, il tonne ; quand il fait de l'eau, il pleut ; la voix [^253] est sa voix.
 
 2\. En vérité, le Jour apparut après le cheval, sous la forme du vase (d'or) [^254], appelé Mahiman (grandeur), placé (lors du sacrifice) devant le cheval. Sa place est dans la mer Orientale. La Nuit apparut après le cheval, sous la forme du vase (d'argent), appelé Mahiman, placé (lors du sacrifice) derrière le cheval. Sa place est dans la mer Occidentale. En vérité, ces deux vases (ou grandeurs) apparurent pour se trouver de chaque côté du cheval.
 
@@ -53,13 +53,13 @@ En tant que coureur, il portait les Devas, en tant qu'étalon les Gandharvas, en
 
 2\. En vérité, l'eau est arka. Et qu'était-ce qui était là, comme l'écume de l'eau, qui s'est durcie et est devenue la terre ? Sur cette terre, il (la Mort) s'est reposé, et de lui, ainsi reposé et réchauffé, Agni (Virâ<i>g</i>) est sorti, empli de lumière.
 
-3\. Cet être se divisa en trois : Âditya (le soleil) et Vâyu (l’air) [^257]. Cet esprit (prânâ) [^258] devint triple. La tête était le quartier oriental, et les bras, ce quartier et ce quartier <span id="p76">[<sup><small>p. 76</small></sup>]</span> (c’est-à-dire le NE et le SE, à gauche et à droite). La queue était le quartier occidental, et les deux jambes, ce quartier et ce quartier (c’est-à-dire le NO et le SO). Les côtés étaient les quartiers sud et nord, le ciel arrière, le ventre le ciel, la poussière la terre. Ainsi, il (M<i>ri</i>tyu, comme arka) se tient fermement dans l’eau, et celui qui sait cela se tient fermement partout où il va.
+3\. Cet être se divisa en trois : Âditya (le soleil) et Vâyu (l’air) [^257]. Cet esprit (prânâ) [^258] devint triple. La tête était le quartier oriental, et les bras, ce quartier et ce quartier <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> (c’est-à-dire le NE et le SE, à gauche et à droite). La queue était le quartier occidental, et les deux jambes, ce quartier et ce quartier (c’est-à-dire le NO et le SO). Les côtés étaient les quartiers sud et nord, le ciel arrière, le ventre le ciel, la poussière la terre. Ainsi, il (M<i>ri</i>tyu, comme arka) se tient fermement dans l’eau, et celui qui sait cela se tient fermement partout où il va.
 
 4\. Il désira [^259] : « Qu'un second corps naisse de moi ! » et il (la Mort ou la Faim) embrassa la Parole dans son esprit. Alors la semence devint l'année. Avant ce temps, il n'y avait pas d'année. La Parole [^260] le porta aussi longtemps qu'un an, et après ce temps, le laissa aller. Puis, lorsqu'il naquit, il (la Mort) ouvrit la bouche, comme pour l'engloutir. Il cria Bhân ! et cela devint la Parole [^261].
 
 5\. Il pensa : « Si je le tue, je n'aurai que peu de nourriture. » Il fit donc surgir par cette parole et par ce corps (l'année) tout ce qui existe, le Rik, le Yagüs, le Sâman, les mètres, les sacrifices, les hommes et les animaux.
 
-Et tout ce qu'il (la Mort) a engendré, il a résolu de le manger (ad). En vérité, parce qu'il mange de tout, c'est pourquoi Aditi (la Mort) est appelée Aditi. Celui qui sait ainsi pourquoi Aditi est appelée Aditi, devient un mangeur de tout, et tout devient sa nourriture [^262]. <span id="p77">[<sup><small>p. 77</small></sup>]</span> 6\. Il désira sacrifier à nouveau avec un plus grand sacrifice. Il peina et fit pénitence. Et tandis qu'il peina et fit pénitence, une puissance glorieuse [^263] le quitta. En vérité, la puissance glorieuse signifie les sens (prâ<i>n</i>a). Puis, lorsque les sens furent partis, le corps se mit à enfler (<i>s</i>va-yitum), et l'esprit était dans le corps.
+Et tout ce qu'il (la Mort) a engendré, il a résolu de le manger (ad). En vérité, parce qu'il mange de tout, c'est pourquoi Aditi (la Mort) est appelée Aditi. Celui qui sait ainsi pourquoi Aditi est appelée Aditi, devient un mangeur de tout, et tout devient sa nourriture [^262]. <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> 6\. Il désira sacrifier à nouveau avec un plus grand sacrifice. Il peina et fit pénitence. Et tandis qu'il peina et fit pénitence, une puissance glorieuse [^263] le quitta. En vérité, la puissance glorieuse signifie les sens (prâ<i>n</i>a). Puis, lorsque les sens furent partis, le corps se mit à enfler (<i>s</i>va-yitum), et l'esprit était dans le corps.
 
 7\. Il désira que ce corps fût apte au sacrifice (medhya), et qu'il fût lui-même incarné par lui. Alors il devint un cheval (a<i>s</i>va), car il gonfla (a<i>s</i>vat), et était apte au sacrifice (medhya) ; et c'est pourquoi le sacrifice du cheval est appelé A<i>s</i>va-medha.
 
@@ -67,7 +67,7 @@ En vérité, celui qui le connaît ainsi connaît l'Asvamedha. Alors, lâchant l
 
 En vérité, le soleil resplendissant est le sacrifice d'Asvamedha, et son corps est l'année ; Agni est le feu sacrificiel (arka), et ces mondes sont ses corps. Ces deux sont le feu sacrificiel et le sacrifice d'Asvamedha, et ils sont à nouveau une seule divinité, à savoir la Mort. Celui (qui sait cela) surmonte une autre mort, la mort ne l'atteint pas, la mort est son Soi, il devient l'une de ces divinités.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 ## TROISIÈME BRÂHMAN [^265].
 
@@ -85,7 +85,7 @@ En vérité, le soleil resplendissant est le sacrifice d'Asvamedha, et son corps
 
 Ainsi ils accablèrent ces divinités de maux, ainsi ils les transpercèrent de mal.
 
-7\. Alors ils dirent au souffle dans la bouche [^268] : « Chante pour nous. » « Oui », dit le souffle, et il chanta. Les Asuras savaient : « En vérité, par ce chanteur <span id="p80">[<sup><small>p. 80</small></sup>]</span> ils nous vaincront. » Ils se précipitèrent donc sur lui et le transpercèrent de mal. Or, comme une boule de terre se disperse en heurtant une pierre, ainsi périrent-ils, dispersés dans toutes les directions. Ainsi les Devas s'élevèrent, les Asuras tombèrent. Celui qui sait cela s'élève de lui-même, et l'ennemi qui le hait tombe.
+7\. Alors ils dirent au souffle dans la bouche [^268] : « Chante pour nous. » « Oui », dit le souffle, et il chanta. Les Asuras savaient : « En vérité, par ce chanteur <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> ils nous vaincront. » Ils se précipitèrent donc sur lui et le transpercèrent de mal. Or, comme une boule de terre se disperse en heurtant une pierre, ainsi périrent-ils, dispersés dans toutes les directions. Ainsi les Devas s'élevèrent, les Asuras tombèrent. Celui qui sait cela s'élève de lui-même, et l'ennemi qui le hait tombe.
 
 8\. Alors ils (les Devas) dirent : « Où était donc celui qui s'est ainsi attaché à nous [^269] ? » C'était (le souffle) dans la bouche (âsye 'ntar [^270]), et c'est pourquoi on l'appelait Ayâsya ; il était la sève (rasa) des membres (aṅga), et c'est pourquoi on l'appelait Âṅgirasa.
 
@@ -97,7 +97,7 @@ Ainsi ils accablèrent ces divinités de maux, ainsi ils les transpercèrent de 
 
 12\. Il porta la parole le premier. Lorsque la parole fut libérée de la mort, elle devint (ce qu'elle était auparavant) Agni (feu). Cet Agni, après avoir dépassé la mort, resplendit.
 
-13\. Puis il transporta le souffle (parfum) de l'autre côté. Lorsque le souffle fut libéré de la mort, il devint <span id="p81">[<sup><small>p. 81</small></sup>]</span> Vâyu (air). Ce Vâyu, après avoir dépassé la mort, souffle.
+13\. Puis il transporta le souffle (parfum) de l'autre côté. Lorsque le souffle fut libéré de la mort, il devint <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> Vâyu (air). Ce Vâyu, après avoir dépassé la mort, souffle.
 
 14\. Puis il transporta l'œil de l'autre côté. Une fois libéré de la mort, l'œil devint Âditya (le soleil). Cet Âditya, après avoir dépassé la mort, brûle.
 
@@ -109,7 +109,7 @@ Ainsi ils accablèrent ces divinités de maux, ainsi ils les transpercèrent de 
 
 Les Dévas dirent : « En vérité, jusqu'ici, quelle que soit la nourriture, tu l'as acquise par le chant. Donne-nous donc une part de cette nourriture. » Il dit : « Toi, entre en moi. » Ils répondirent oui, et tous entrèrent en lui. Ainsi, toute nourriture ingérée par le souffle satisfait les autres sens.
 
-18\. Si un homme sait cela, alors ses proches viennent à lui de la même manière ; il devient leur soutien, leur principal guide, leur puissant dirigeant [^273]. Et si jamais quelqu'un tente de s'opposer [^274] à celui qui possède une telle connaissance parmi ses proches, alors il <span id="p82">[<sup><small>p. 82</small></sup>]</span> ne pourra subvenir à ses propres besoins. Mais celui qui suit l'homme qui possède une telle connaissance et qui, avec sa permission, souhaite subvenir aux besoins de ceux qu'il doit subvenir à ses besoins, pourra assurément subvenir à ses propres besoins.
+18\. Si un homme sait cela, alors ses proches viennent à lui de la même manière ; il devient leur soutien, leur principal guide, leur puissant dirigeant [^273]. Et si jamais quelqu'un tente de s'opposer [^274] à celui qui possède une telle connaissance parmi ses proches, alors il <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> ne pourra subvenir à ses propres besoins. Mais celui qui suit l'homme qui possède une telle connaissance et qui, avec sa permission, souhaite subvenir aux besoins de ceux qu'il doit subvenir à ses besoins, pourra assurément subvenir à ses propres besoins.
 
 19\. On l'appelait Ayâsya Âṅgirasa, car il est la sève (rasa) des membres (aṅga). En vérité, le souffle est la sève des membres. Oui, le souffle est la sève des membres. Par conséquent, de tout membre dont le souffle s'éloigne, ce membre se dessèche, car le souffle est vraiment la sève des membres.
 
@@ -121,7 +121,7 @@ Il (le souffle) est aussi Sâman (l'Udgîtha), car la parole est Sâman (Sama-ve
 
 22\. Ou parce qu'il est égal (sama) à une larve, à un moucheron, à un éléphant, à ces trois mondes, voire à cet univers, il est donc Sâman. Celui qui connaît ainsi ce Sâman obtient l'union et l'unité avec Sâman.
 
-23\. Il (le souffle) est Udgîtha [^276]. Le souffle est en vérité Ut, car par le souffle cet univers est soutenu (uttabdha) ; et la parole est Gîthâ, le chant. Et parce qu'il est ut et gîthâ, il (le souffle) est donc Udgîtha. <span id="p83">[<sup><small>p. 83</small></sup>]</span> 24\. Et ainsi Brahmadatta <i>K</i>aikitâneya (le petit-fils de <i>K</i>ikitâna), tout en prenant Soma (râ<i>g</i>an), dit : « Puisse ce Soma me couper la tête, si Ayâsya Âṅgirasa a chanté une autre Udgîtha que celle-ci. Il l'a chanté en effet comme parole et souffle. »
+23\. Il (le souffle) est Udgîtha [^276]. Le souffle est en vérité Ut, car par le souffle cet univers est soutenu (uttabdha) ; et la parole est Gîthâ, le chant. Et parce qu'il est ut et gîthâ, il (le souffle) est donc Udgîtha. <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> 24\. Et ainsi Brahmadatta <i>K</i>aikitâneya (le petit-fils de <i>K</i>ikitâna), tout en prenant Soma (râ<i>g</i>an), dit : « Puisse ce Soma me couper la tête, si Ayâsya Âṅgirasa a chanté une autre Udgîtha que celle-ci. Il l'a chanté en effet comme parole et souffle. »
 
 25\. Quiconque connaît la propriété de ce Samân acquiert une propriété. Or, sa propriété se limite au son. Par conséquent, qu'un prêtre qui s'apprête à accomplir le sacrifice d'un chanteur de Samâ désire que sa voix soit belle et qu'il accomplisse le sacrifice avec une voix belle. Ceux qui recherchent un prêtre pour un sacrifice recherchent donc quelqu'un qui possède une belle voix, comme quelqu'un qui possède une propriété. Quiconque connaît ainsi la propriété de ce Samân acquiert une propriété.
 
@@ -131,7 +131,7 @@ Il (le souffle) est aussi Sâman (l'Udgîtha), car la parole est Sâman (Sama-ve
 
 Vient ensuite l'Abhyâroha [^277] (l'ascension) des versets du Pavamâna. En vérité, le Prastotiri commence à chanter le Sâman, et lorsqu'il commence, qu'il (le sacrificateur) récite ces trois versets du Yagü :
 
-« Conduis-moi de l'irréel au réel ! Conduis-moi <span id="p84">[<sup><small>p. 84</small></sup>]</span> des ténèbres à la lumière ! Conduis-moi de la mort à l'immortalité ! »
+« Conduis-moi de l'irréel au réel ! Conduis-moi <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> des ténèbres à la lumière ! Conduis-moi de la mort à l'immortalité ! »
 
 Or, lorsqu'il dit : « Conduis-moi de l'irréel au réel », l'irréel est en vérité la mort, la véritable immortalité. Il dit donc : « Conduis-moi de la mort à l'immortalité, rends-moi immortel. »
 
@@ -142,7 +142,7 @@ Quand il dit : « Conduis-moi de la mort à l'immortalité », il n'y a là rien
 28\. Viennent ensuite les autres Stotras grâce auxquels le prêtre peut se procurer de la nourriture en les chantant. Le sacrificateur, pendant que ces Stotras sont chantés, doit donc demander une faveur, quel que soit son désir. Un prêtre Udgâtri qui connaît cela obtient par son chant tout ce qu'il désire, pour lui-même ou pour le sacrificateur. Cette connaissance est en effet appelée le conquérant des mondes. Celui qui connaît ainsi ce Sâman [^279], n'a aucune crainte d'être refusé dans les mondes [^280].
 
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 ## QUATRIÈME BRÂHMAN [^281].
 
@@ -162,13 +162,13 @@ Elle devint alors une vache, l'autre un taureau et l'embrassa, et ainsi naquiren
 
 Et quand ils disent : « Sacrifiez à tel dieu ou sacrifiez à tel autre », chaque dieu n'est que sa manifestation, car il est tous les dieux.
 
-Or, tout ce qui est humide, il l'a créé à partir de la graine ; c'est Soma. En vérité, cet univers est soit nourriture, soit mangeur. Soma est en effet nourriture, mangeur d'Agni. Telle est la plus haute création de Brahman, <span id="p87">[<sup><small>p. 87</small></sup>]</span> lorsqu'il créa les dieux de sa meilleure partie [^286], et lorsque lui, qui était (alors) mortel [^287], créa les immortels. C'était donc la plus haute création. Et celui qui sait cela, vit dans cette plus haute création.
+Or, tout ce qui est humide, il l'a créé à partir de la graine ; c'est Soma. En vérité, cet univers est soit nourriture, soit mangeur. Soma est en effet nourriture, mangeur d'Agni. Telle est la plus haute création de Brahman, <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> lorsqu'il créa les dieux de sa meilleure partie [^286], et lorsque lui, qui était (alors) mortel [^287], créa les immortels. C'était donc la plus haute création. Et celui qui sait cela, vit dans cette plus haute création.
 
 7\. Or, tout cela était alors inachevé. Il s'est développé par la forme et le nom, de sorte qu'on peut dire : « Celui qu'on appelle un tel est un tel [^288]. » C'est pourquoi, à présent aussi, tout cela s'est développé par le nom et la forme, de sorte qu'on peut dire : « Celui qu'on appelle un tel est un tel. »
 
 Il (Brahman ou le Soi) y est entré, jusqu'au bout des ongles, comme un rasoir pourrait être placé dans un étui à rasoir, ou comme le feu dans une cheminée [^289].
 
-Il ne peut être vu, car, en partie seulement, lorsqu'il respire, il est souffle par son nom ; lorsqu'il parle, parole par son nom ; lorsqu'il voit, œil par son nom ; lorsqu'il entend, oreille par son nom ; lorsqu'il pense, esprit par son nom. Tous ces noms ne sont que les noms de ses actes. Et celui qui l'adore (le considère) comme l'un ou l'autre, ne le connaît pas, car il est séparé de cela (quand il est qualifié) par l'un ou l'autre (prédicat). Que les hommes l'adorent comme Soi, car dans le Soi, tout cela ne fait qu'un. Ce Soi est le pas de tout, car par lui on connaît tout [^290]. Et comme on peut retrouver par les pas ce qui était perdu, ainsi celui qui connaît cela trouve gloire et louange. <span id="p88">[<sup><small>p. 88</small></sup>]</span> 8\. Ceci, qui est plus proche de nous que tout, ce Soi, est plus cher qu'un fils, plus cher que la richesse, plus cher que tout le reste.
+Il ne peut être vu, car, en partie seulement, lorsqu'il respire, il est souffle par son nom ; lorsqu'il parle, parole par son nom ; lorsqu'il voit, œil par son nom ; lorsqu'il entend, oreille par son nom ; lorsqu'il pense, esprit par son nom. Tous ces noms ne sont que les noms de ses actes. Et celui qui l'adore (le considère) comme l'un ou l'autre, ne le connaît pas, car il est séparé de cela (quand il est qualifié) par l'un ou l'autre (prédicat). Que les hommes l'adorent comme Soi, car dans le Soi, tout cela ne fait qu'un. Ce Soi est le pas de tout, car par lui on connaît tout [^290]. Et comme on peut retrouver par les pas ce qui était perdu, ainsi celui qui connaît cela trouve gloire et louange. <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> 8\. Ceci, qui est plus proche de nous que tout, ce Soi, est plus cher qu'un fils, plus cher que la richesse, plus cher que tout le reste.
 
 Et si l'on disait à celui qui déclare qu'un autre que le Soi lui est cher qu'il perdra ce qui lui est cher, il est fort probable que ce serait le cas. Qu'il vénère le Soi seul comme étant cher. Celui qui vénère le Soi seul comme étant cher, l'objet de son amour ne périra jamais [^291].
 
@@ -178,17 +178,17 @@ Et si l'on disait à celui qui déclare qu'un autre que le Soi lui est cher qu'i
 
 Or, si un homme adore une autre divinité, pensant que la divinité est une et lui une autre, il ne sait pas. Il est comme une bête pour les Dévas. Car, en vérité, de même que de nombreuses bêtes nourrissent un homme, ainsi chaque homme nourrit les Dévas. Si une seule bête lui est enlevée, ce n'est pas agréable ; combien plus encore si plusieurs le sont ! Il n'est donc pas agréable aux Dévas que les hommes sachent cela.
 
-11\. En vérité, au commencement, ce fut Brahman, un seul <span id="p89">[<sup><small>p. 89</small></sup>]</span>. Cet unique n'était pas assez fort. Il créa encore le plus excellent Kshatra (pouvoir), à savoir ces Kshatras (pouvoirs) parmi les Dévas : Indra, Varu<i>n</i>a, Soma, Rudra, Par<i>g</i>anya, Yama, M<i>ri</i>tyu, Î<i>s</i>âna. Par conséquent, il n'y a rien au-delà du Kshatra, et c'est pourquoi, lors du sacrifice du Râ<i>g</i>asûya, le Brâhman<i>n</i>a s'assied sous le Kshatriya. Il confère cette gloire au seul Kshatra. Mais Brahman est (néanmoins) le lieu de naissance du Kshatra. C'est pourquoi, même si un roi est exalté, il siège à la fin (du sacrifice) sous le Brahman, comme son lieu de naissance. Quiconque lui porte préjudice porte préjudice à son propre lieu de naissance. Il devient pire, car il a porté préjudice à quelqu'un de meilleur que lui.
+11\. En vérité, au commencement, ce fut Brahman, un seul <span id="p89"><sup><small>[ p. 89 ]</small></sup></span>. Cet unique n'était pas assez fort. Il créa encore le plus excellent Kshatra (pouvoir), à savoir ces Kshatras (pouvoirs) parmi les Dévas : Indra, Varu<i>n</i>a, Soma, Rudra, Par<i>g</i>anya, Yama, M<i>ri</i>tyu, Î<i>s</i>âna. Par conséquent, il n'y a rien au-delà du Kshatra, et c'est pourquoi, lors du sacrifice du Râ<i>g</i>asûya, le Brâhman<i>n</i>a s'assied sous le Kshatriya. Il confère cette gloire au seul Kshatra. Mais Brahman est (néanmoins) le lieu de naissance du Kshatra. C'est pourquoi, même si un roi est exalté, il siège à la fin (du sacrifice) sous le Brahman, comme son lieu de naissance. Quiconque lui porte préjudice porte préjudice à son propre lieu de naissance. Il devient pire, car il a porté préjudice à quelqu'un de meilleur que lui.
 
 12\. Il [^292] n'était pas assez fort. Il créa les Vi<i>s</i> (peuple), les classes de Devas qui, dans leurs différents ordres, sont appelés Vasus, Rudras, Âdityas, Vi<i>s</i> Devas, Maruts.
 
 13\. Il n'était pas assez fort. Il créa la caste de Sûdra, Pûshan (nourrisseur). Cette terre est vraiment Pûshan (nourrisseur) ; car la terre nourrit tout cela.
 
-14\. Il n'était pas assez fort. Il créa encore la Loi (dharma) la plus excellente. La Loi est le Kshatra (pouvoir) du Kshatra [^293], donc il n'y a rien de plus élevé que la Loi. Dès lors, même un homme faible gouverne un homme plus fort avec l'aide de la Loi, comme avec l'aide d'un roi. Ainsi, la Loi est ce qu'on appelle le vrai. Et si un homme déclare ce qui est vrai, on dit qu'il déclare la Loi ; et s'il déclare la Loi, on dit qu'il déclare ce qui est vrai. Ainsi, les deux sont identiques. <span id="p90">[<sup><small>p. 90</small></sup>]</span> 15\. Il y a donc ce Brahman, ce Kshatra, ce Vis et ce <i>S</i>ûdra. Parmi les Dévas, Brahman n'existait que sous la forme d'Agni (feu), parmi les hommes sous la forme de Brâhman, comme Kshatriya par le Kshatriya (divin), comme Vaisya par le Vaisya (divin), comme Sûdra par le Sûdra (divin). C'est pourquoi les hommes souhaitent leur état futur parmi les Dévas uniquement sous la forme d'Agni (le feu sacrificiel) ; et parmi les hommes sous la forme de Brâhman, car sous ces deux formes Brahman existait.
+14\. Il n'était pas assez fort. Il créa encore la Loi (dharma) la plus excellente. La Loi est le Kshatra (pouvoir) du Kshatra [^293], donc il n'y a rien de plus élevé que la Loi. Dès lors, même un homme faible gouverne un homme plus fort avec l'aide de la Loi, comme avec l'aide d'un roi. Ainsi, la Loi est ce qu'on appelle le vrai. Et si un homme déclare ce qui est vrai, on dit qu'il déclare la Loi ; et s'il déclare la Loi, on dit qu'il déclare ce qui est vrai. Ainsi, les deux sont identiques. <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> 15\. Il y a donc ce Brahman, ce Kshatra, ce Vis et ce <i>S</i>ûdra. Parmi les Dévas, Brahman n'existait que sous la forme d'Agni (feu), parmi les hommes sous la forme de Brâhman, comme Kshatriya par le Kshatriya (divin), comme Vaisya par le Vaisya (divin), comme Sûdra par le Sûdra (divin). C'est pourquoi les hommes souhaitent leur état futur parmi les Dévas uniquement sous la forme d'Agni (le feu sacrificiel) ; et parmi les hommes sous la forme de Brâhman, car sous ces deux formes Brahman existait.
 
 Or, si un homme quitte cette vie sans avoir vu sa véritable vie future (dans le Soi), alors ce Soi, méconnu, ne l'accueille pas et ne le bénit pas, comme si le Véda n'avait pas été lu, ou comme si une bonne œuvre n'avait pas été accomplie. Bien plus, même si quelqu'un qui ne connaît pas ce Soi accomplissait ici-bas une grande œuvre sainte, celle-ci périrait pour lui à la fin. Que l'homme adore le Soi uniquement comme son véritable état. Si l'homme adore le Soi uniquement comme son véritable état, son œuvre ne périt pas, car tout ce qu'il désire, il l'obtient de ce Soi.
 
-16\. Or, en vérité, ce Soi (de l'ignorant) est le monde [^294] de toutes les créatures. Dans la mesure où l'homme sacrifie et verse des libations, il est le monde des Dévas ; dans la mesure où il répète les hymnes, etc., il est le monde des Rishis ; dans la mesure où il offre des gâteaux aux Pères et s'efforce d'obtenir une descendance, il est le monde des Pères ; dans la mesure où il donne abri et nourriture aux hommes, il est le monde des hommes ; dans la mesure où il trouve du fourrage et de l'eau pour les animaux, il est le monde des animaux ; dans la mesure où des quadrupèdes, des oiseaux et même des fourmis vivent dans ses maisons, il est leur monde. Et comme chacun souhaite que son propre monde ne soit pas lésé, <span id="p91">[<sup><small>p. 91</small></sup>]</span> ainsi tous les êtres souhaitent que celui qui sait cela ne soit pas lésé. En vérité, cela est connu et a été bien raisonné.
+16\. Or, en vérité, ce Soi (de l'ignorant) est le monde [^294] de toutes les créatures. Dans la mesure où l'homme sacrifie et verse des libations, il est le monde des Dévas ; dans la mesure où il répète les hymnes, etc., il est le monde des Rishis ; dans la mesure où il offre des gâteaux aux Pères et s'efforce d'obtenir une descendance, il est le monde des Pères ; dans la mesure où il donne abri et nourriture aux hommes, il est le monde des hommes ; dans la mesure où il trouve du fourrage et de l'eau pour les animaux, il est le monde des animaux ; dans la mesure où des quadrupèdes, des oiseaux et même des fourmis vivent dans ses maisons, il est leur monde. Et comme chacun souhaite que son propre monde ne soit pas lésé, <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> ainsi tous les êtres souhaitent que celui qui sait cela ne soit pas lésé. En vérité, cela est connu et a été bien raisonné.
 
 17\. Au commencement, ce Soi était seul, un seul. Il désirait : « Qu’il y ait une femme pour moi afin que j’aie une descendance, et des richesses pour que j’offre des sacrifices. » En vérité, tel est tout son désir, et même s’il désirait davantage, il ne l’obtiendrait pas. C’est pourquoi, aujourd’hui encore, l’homme solitaire désire : « Qu’il y ait une femme pour moi afin que j’aie une descendance, et des richesses pour que j’offre des sacrifices. » Et tant qu’il n’obtient aucune de ces choses, il se croit incomplet. Or, sa plénitude (se compose ainsi) : l’esprit est son Soi (mari) ; la parole est l’épouse ; le souffle est l’enfant ; l’œil est toute la richesse terrestre, car il la trouve avec l’œil ; l’oreille est sa richesse divine, car il l’entend avec l’oreille. Le corps (âtman) est son œuvre, car avec le corps il travaille. Tel est le quintuple sacrifice [^295], car quintuple est l’animal, quintuple l’homme, quintuple tout cela. Celui qui sait cela, obtient tout cela.
 
@@ -199,7 +199,7 @@ Or, si un homme quitte cette vie sans avoir vu sa véritable vie future (dans le
 
 Il en fit trois pour lui-même, et il en donna un aux animaux. En lui repose tout, ce qui respire et ce qui ne respire pas. (2)
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 « Pourquoi donc ne périssent-ils pas, bien qu'on les mange toujours ? Celui qui connaît cet impérissable, mange la nourriture avec son visage. » (3)
 
@@ -223,7 +223,7 @@ Quand on dit qu'il va même jusqu'aux Devas, il vit de force, cela est entendu c
 
 Quel que soit le son, c'est de la parole. La parole est destinée à une fin ou à un objet, elle n'est rien en soi.
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 L'inspiration, l'expiration, l'inspiration, l'expiration, tout ce qui est respiration n'est que souffle (prânâ). En vérité, ce Soi est constitué de cela ; ce Soi est constitué de parole, d'esprit et de souffle.
 
@@ -245,7 +245,7 @@ Ce qui est connu a la forme de la parole, car la parole est connue. La parole, d
 
 11\. De cette parole (qui est la nourriture de Pra<i>g</i>âpati), la terre est le corps, la lumière la forme, à savoir ce feu. Et autant que s'étend la parole, autant s'étend la terre, autant s'étend le feu.
 
-12\. Ensuite, de cet esprit, le ciel est le corps, la lumière la forme, à savoir ce soleil. Et autant cet esprit <span id="p95">[<sup><small>p. 95</small></sup>]</span> s'étend, autant s'étend le ciel, autant s'étend le soleil. S'ils (le feu et le soleil) s'embrassent, alors le vent naît, et c'est Indra, et il est sans rival. En vérité, un second est un rival, et celui qui le sait n'a pas de rival.
+12\. Ensuite, de cet esprit, le ciel est le corps, la lumière la forme, à savoir ce soleil. Et autant cet esprit <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> s'étend, autant s'étend le ciel, autant s'étend le soleil. S'ils (le feu et le soleil) s'embrassent, alors le vent naît, et c'est Indra, et il est sans rival. En vérité, un second est un rival, et celui qui le sait n'a pas de rival.
 
 13\. Ensuite, de ce souffle l'eau est le corps, la lumière la forme, à savoir cette lune. Et autant ce souffle s'étend, autant l'eau s'étend, autant la lune s'étend.
 
@@ -259,7 +259,7 @@ Ils sont tous semblables, tous infinis. Et celui qui les adore comme finis obtie
 
 17\. Vient ensuite la transmission. Lorsqu'un homme pense partir, il dit à son fils : « Tu es Brahman (le Véda, tel qu'il a été acquis par le père) ; tu es le sacrifice (tel qu'il a été accompli par le père) ; tu es le monde. » Le fils répond : « Je suis Brahman, je suis le sacrifice, je suis le monde. » Tout ce qui a été appris (par le père), pris comme un, est Brahman. Quels que soient les sacrifices, pris comme un, ils sont le sacrifice. Quels que soient les mondes, pris comme un, ils sont le monde. En vérité, ici s'arrête tout cela (ce que doit faire un père, à savoir l'étude, le sacrifice, etc.). « Lui (le fils), étant tout cela, m'a préservé de ce monde [^306] », pense-t-il. C'est pourquoi ils appellent un fils qui est instruit (à faire tout cela), un fils du monde (lokya), et c'est pourquoi ils l'instruisent.
 
-Lorsqu'un père qui sait cela quitte ce monde, il entre alors en son fils avec ses propres esprits (avec la parole, l'esprit et le souffle). Si le père a commis une faute, le fils le lui délivre, et c'est pourquoi il est appelé Putra, fils [^307]. Grâce à son fils, le père tient bon en ce monde [^308]. Alors ces esprits divins immortels (parole, esprit et souffle) entrent en lui. <span id="p97">[<sup><small>p. 97</small></sup>]</span> 18\. De la terre et du feu, la parole divine entre en lui. Et en vérité, c'est la parole divine par laquelle tout ce qu'il dit devient réalité.
+Lorsqu'un père qui sait cela quitte ce monde, il entre alors en son fils avec ses propres esprits (avec la parole, l'esprit et le souffle). Si le père a commis une faute, le fils le lui délivre, et c'est pourquoi il est appelé Putra, fils [^307]. Grâce à son fils, le père tient bon en ce monde [^308]. Alors ces esprits divins immortels (parole, esprit et souffle) entrent en lui. <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> 18\. De la terre et du feu, la parole divine entre en lui. Et en vérité, c'est la parole divine par laquelle tout ce qu'il dit devient réalité.
 
 19\. Du ciel et du soleil, l'esprit divin entre en lui. Et c'est en vérité cet esprit divin qui le rend joyeux et le libère de la tristesse.
 
@@ -267,7 +267,7 @@ Lorsqu'un père qui sait cela quitte ce monde, il entre alors en son fils avec s
 
 Quel que soit le chagrin que ces créatures endurent, tout cela est un [^309] (et disparaît donc). Seul le bien s'approche de lui ; en vérité, le mal n'approche pas les Dévas.
 
-21\. Vient ensuite l'examen des observances [^310] (actes). Pra<i>g</i>âpati créa les actions (sens actifs). Une fois créées, elles luttèrent entre elles. La voix dit : « Je parlerai » ; l'œil dit : « Je verrai » ; l'oreille dit : « J'entendrai » ; et ainsi de suite pour les autres actions, chacune selon son acte propre. La mort, devenue lassitude, les prit et les saisit. Les ayant saisies, la mort les retira (de leur œuvre). C'est pourquoi la parole se lasse, l'œil se lasse, l'oreille se lasse. Mais la mort ne saisit pas le souffle central. Alors les autres cherchèrent à le connaître, et <span id="p98">[<sup><small>p. 98</small></sup>]</span> dirent : « En vérité, il est le meilleur d'entre nous, celui qui, qu'il bouge ou non, ne se fatigue pas et ne périt pas. Eh bien, prenons tous sa forme. » Ils prirent alors tous sa forme, et c'est pourquoi on les appelle d'après lui « souffles » (esprits).
+21\. Vient ensuite l'examen des observances [^310] (actes). Pra<i>g</i>âpati créa les actions (sens actifs). Une fois créées, elles luttèrent entre elles. La voix dit : « Je parlerai » ; l'œil dit : « Je verrai » ; l'oreille dit : « J'entendrai » ; et ainsi de suite pour les autres actions, chacune selon son acte propre. La mort, devenue lassitude, les prit et les saisit. Les ayant saisies, la mort les retira (de leur œuvre). C'est pourquoi la parole se lasse, l'œil se lasse, l'oreille se lasse. Mais la mort ne saisit pas le souffle central. Alors les autres cherchèrent à le connaître, et <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> dirent : « En vérité, il est le meilleur d'entre nous, celui qui, qu'il bouge ou non, ne se fatigue pas et ne périt pas. Eh bien, prenons tous sa forme. » Ils prirent alors tous sa forme, et c'est pourquoi on les appelle d'après lui « souffles » (esprits).
 
 Dans toute famille où se trouve un homme qui sait cela, on donne son nom à cette famille. Et celui qui lutte avec celui qui sait cela dépérit et finit par mourir. Voilà pour le corps.
 
@@ -284,7 +284,7 @@ Agni (le feu) tenait : « Je brûlerai » ; Âditya (le soleil) tenait : « Je r
 Que l'homme accomplisse donc une seule observance : il expire et expire, afin que la mort ne l'atteigne pas. Et lorsqu'il l'accomplit, il s'efforce de la mener à terme. Il obtient alors l'union et l'unité avec cette divinité (avec le prânâ).
 
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 ## SIXIÈME BRÂHMA<i>N</i>A [^312].
 

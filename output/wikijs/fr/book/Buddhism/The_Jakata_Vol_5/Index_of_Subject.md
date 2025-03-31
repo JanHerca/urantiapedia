@@ -29,7 +29,7 @@ dateCreated: 2025-2-6T11:21:58Z
   </table>
 </figure>
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 ### INDEX DES SUJETS.
 
@@ -195,7 +195,7 @@ Diseurs de bonne aventure [154](531#p154)
 
 Diseurs de bonne aventure à partir de marques personnelles [108](527#p108), [154](531#p154), [247](537#p247), [264](537#p264)
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Quarante façons dont une femme se réconcilie avec un homme [232](536#p232)
 
@@ -379,7 +379,7 @@ Devinettes [75](522#p75)
 
 Mouvement vers la droite [83](523#p83)
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 Les quatre filles de Sakka, concours entre [210](535#p210)
 

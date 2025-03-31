@@ -32,15 +32,15 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
-<span id="p343">[<sup><small>p. 343</small></sup>]</span>
+<span id="p343"><sup><small>[ p. 343 ]</small></sup></span>
 
-<span id="p344">[<sup><small>p. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 _Lorsque les Arabes devinrent le seul peuple instruit et que leur empire s’étendit sur la plus grande partie du monde connu, ils imprima leur propre génie aux nations avec lesquelles ils étaient alliés comme amis ou vénérés comme maîtres_.—Isaac D’Israeli : Curiosités de la littérature.
 
-<span id="p345">[<sup><small>p. 345</small></sup>]</span>
+<span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 <figure id="Figure_34500" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/34500.jpg">

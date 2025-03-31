@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 
 Un matin, le héros prit son bol d'aumônes et entra dans la ville de Rajagriha. Les gens qui le croisaient sur la route admiraient sa beauté et sa noble allure. « Qui est cet homme ? » se demandaient-ils. « Il est comme un dieu, comme Sakra ou Brahma lui-même. » Bientôt, le bruit se répandit qu'un être merveilleux errait dans la ville, mendiant. Tous voulaient voir le héros ; ils le suivaient partout, et les femmes se précipitaient aux fenêtres à son passage. Mais il poursuivait gravement son chemin, tandis qu'une étrange lumière apparaissait au-dessus de la ville.

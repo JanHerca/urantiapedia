@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 3. Il est permis de briser un tonneau pour en manger des figues sèches, à condition toutefois de ne pas le faire dans l'intention de le préparer pour un usage ultérieur. Il est interdit de percer le trou d'un tonneau ; tel est le dicton de Rabbi Jehudah ; mais les sages le permettent. [Selon une autre version, Rabbi José le permet]. Il est interdit de renverser un tonneau ; [percer un trou sur le côté] : et, s'il est renversé, il ne doit pas y mettre de cire, car cela le lisse. Rabbi Jehudah a dit : « Un cas similaire fut porté devant Rabbi Jochanan, ben Sahaï, à Arob, lorsqu'il fit cette remarque : “Je doute que j'aurais dû offrir un sacrifice d'expiation à l'accusé.” »
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 § 4. Ils pourront mettre les aliments cuits dans une cave pour les conserver ; ils pourront également mettre de l'eau bonne dans un récipient au contact de l'eau non potable, afin de la garder fraîche ; de même, de l'eau froide dans un récipient au contact de l'eau chaude, afin de la réchauffer. Celui dont les vêtements sont tombés dans l'eau en chemin peut les emporter sans hésiter. Dès son arrivée à la cour la plus éloignée de la ville ou du village, il pourra étendre ses vêtements au soleil, mais pas publiquement devant le peuple.
 

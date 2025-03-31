@@ -60,7 +60,7 @@ Dans la forêt sauvage, endure pour entendre
 La voix de peur du lion ravisseur ?
 Où dort mon héros aux bras forts, où
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 Comme l'étendard de Lord Mahendra, juste ?
 Où est, à côté de Lakshman, son lit,
@@ -183,7 +183,7 @@ Il murmura sa triste plainte :
 Ses yeux remplis de larmes coulaient,
 Comme des jets qui versent l'eau nouvellement tombée ;
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Ses mains suppliantes, consternées par la peur
 Elle le serra doucement dans les siennes et le déposa,
@@ -298,7 +298,7 @@ Il s'est montré glorieux comme la puissante profondeur.
 Les torrents coulent sur son versant boisé
 Coulées, certaines non teintées, tandis que d'autres sont teintes
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 Or, cendré, argent, ocre, alésage
 Les teintes de chaque minerai de montagne.
@@ -422,7 +422,7 @@ Ta main a fait saigner un brahmane.
 Que cette douleur ne te serre pas le cœur :
 Je ne suis pas un jeune deux fois né, ô Roi,
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 Car je suis issu d'un père Vais'ya,
 Qui s'est marié avec une dame S'udrá.
@@ -549,7 +549,7 @@ Seul, j'ai conduit le couple en deuil,
 Leurs âmes sont troublées par le chagrin,
 Et que la dame et l'ermite reposent
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 Leurs mains sur l’argile essoufflée.
 Le père toucha son fils et le pressa
@@ -671,7 +671,7 @@ Le mauvais est revenu à ma mémoire
 Fait dans une jeunesse sauvage, ô chère dame.
 Quand je me vantais de tirer à l'oreille.
 
-<span id="p172">[<sup><small>p. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 L'acte a porté ses fruits, qui maintenant
 S'accroche mûr à la branche courbée :
@@ -796,7 +796,7 @@ Experts dans la tradition du rêve, ils
 Il toucha d’abord le lit sur lequel il était allongé.
 Mais personne ne répondit ; aucun son ne fut entendu.
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 Ni main, ni tête, ni corps ne bougèrent.
 Ils tremblèrent, et leur terreur augmenta,
@@ -917,7 +917,7 @@ Serrant l'argile sans vie de son mari
 Pendant un moment, la votante en pleurs resta allongée,
 Jusqu'à ce que les chambellans l'enlèvent de là
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 Surmonté par la violence du chagrin.
 Puis, dans un tonneau d'huile, ils déposèrent
@@ -1039,7 +1039,7 @@ Dans les royaumes sans roi, pas de bandes marchandes
 Qui voyagent vers des terres lointaines,
 Leurs chariots sont chargés de marchandises précieuses.
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 Et ne craignez aucun danger sur la route,
 Aucun sage n’est sûr de sa maîtrise de soi,
@@ -1154,7 +1154,7 @@ Traversée du M'aliní qui coulait
 Avec un doux ruisseau en travers de la route.
 Ils ont traversé les vagues sacrées du Gange
 
-<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 Où vit Hastinapura [^341],
 De là à Panchala [^342] vers l'ouest rapide
@@ -1208,7 +1208,7 @@ Une vision qui lui glaça l’âme d’émerveillement.
 Le rêve que prédisaient de terribles événements
 Le cœur de Bharat était rempli d'horreur et de froid,
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 Et avec des malheurs dévorants, désemparé,
 Il pensa à son vieux père.
@@ -1332,7 +1332,7 @@ Sumitrá, habile dans la revendication du devoir,
 Qui a également porté le brave S'atrughna,
 Deuxième en âge, sa santé est bonne.
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 Et elle, dans sa suffisance la plus sage,
 Avec un cœur égoïste très enclin à la rage,

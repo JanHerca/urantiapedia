@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 ## YASNA LVI (ESP. LV). INTRODUCTION AU SRÔSH YA<i>S</i>T.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 Et ainsi, puisse à nouveau Sraosha (l'Obéissance qui écoute) être présente ici pour l'adoration des bonnes eaux et pour les Fravashis des saints, qui sont tant désirés par nous, \[(et) pour (leurs) âmes\].
 
-3\. Que Sraosha (l'Obéissance qui écoute) soit présent ici pour le culte des bonnes eaux ; oui, que la bonne Obéissance soit présente ici pour le culte des Immortels bons et généreux qui gouvernent correctement et disposent (de tous) correctement, les bons, et pour le culte de la bonne Sainteté, ou Béatitude, qui est étroitement liée à l'Ordre Juste, pour nous perfectionner et nous inciter. Que Sraosha (l'Obéissance) soit présent ici pour le culte des bonnes eaux, lui le bon et le saint [^1234], comme au début, ainsi à la fin. <span id="p297">[<sup><small>p. 297</small></sup>]</span> 4\. Que Sraosha, l'Obéissance, soit présent ici pour le culte des eaux pures, des bons [^1235] Immortels généreux, et de la Béatitude, la bonne, étroitement unie à l'Ordre Juste, pour nous perfectionner et nous inciter [^1236]. Oui, nous adorons Sraosha, le béni et le majestueux, qui frappe avec victoire et qui favorise l'avancement des colonies, le saint seigneur de l'ordre rituel [^1237].
+3\. Que Sraosha (l'Obéissance qui écoute) soit présent ici pour le culte des bonnes eaux ; oui, que la bonne Obéissance soit présente ici pour le culte des Immortels bons et généreux qui gouvernent correctement et disposent (de tous) correctement, les bons, et pour le culte de la bonne Sainteté, ou Béatitude, qui est étroitement liée à l'Ordre Juste, pour nous perfectionner et nous inciter. Que Sraosha (l'Obéissance) soit présent ici pour le culte des bonnes eaux, lui le bon et le saint [^1234], comme au début, ainsi à la fin. <span id="p297"><sup><small>[ p. 297 ]</small></sup></span> 4\. Que Sraosha, l'Obéissance, soit présent ici pour le culte des eaux pures, des bons [^1235] Immortels généreux, et de la Béatitude, la bonne, étroitement unie à l'Ordre Juste, pour nous perfectionner et nous inciter [^1236]. Oui, nous adorons Sraosha, le béni et le majestueux, qui frappe avec victoire et qui favorise l'avancement des colonies, le saint seigneur de l'ordre rituel [^1237].
 
 
 <figure class="table chapter-navigator">

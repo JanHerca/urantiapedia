@@ -44,7 +44,7 @@ Le Vrai était au commencement ; le Vrai était à l’âge primordial.
 
 Le Vrai est[^5] maintenant aussi, ô Nanak ; le Vrai sera aussi.[^6]
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 ### JE
 
@@ -67,7 +67,7 @@ Celui qui comprend l'ordre de Dieu, ô Nanak, n'est jamais coupable d'égoïsme.
 ### III
 
 Qui peut chanter sa puissance ? Qui a le pouvoir de la chanter ?[^6]
-Qui peut chanter ses dons ou connaître ses signes ?[^7] <span id="p197">[<sup><small>p. 197</small></sup>]</span>
+Qui peut chanter ses dons ou connaître ses signes ?[^7] <span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 Qui peut chanter ses attributs, sa grandeur et ses actes ?[^1]
 Qui peut chanter la connaissance dont l'étude est ardue ?
 Qui peut chanter celui qui façonne le corps et le détruit à nouveau ?
@@ -89,7 +89,7 @@ Alors que pouvons-nous lui offrir pour que sa cour soit visible ?
 Quelles paroles prononcerons-nous de nos lèvres, pour qu’en les entendant il nous aime ?
 À l'heure ambroisiale du matin, méditez sur le vrai Nom et la grandeur de Dieu.
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 Le Bienveillant nous donnera une robe d'honneur, et par sa faveur nous atteindrons la porte du salut.[^1]
 Nanak, nous saurons ainsi que Dieu est entièrement vrai.[^2]
@@ -105,7 +105,7 @@ _Ainsi_ vos chagrins seront enlevés, et vous serez absorbés en Celui qui est l
 Sous l'instruction du Guru, la parole de Dieu est entendue ; sous l'instruction du Guru, sa connaissance est acquise ; sous l'instruction du Guru, l'homme apprend que Dieu est partout contenu.[^4]
 Le Guru est Shiv ; le Guru est Vishnu et Brahma ; le Guru est Parbati, Lakhshmi,[^5] et Saraswati.[^6]
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span>
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span>
 
 Si je le connaissais, ne devrais-je pas le décrire ? Il est impossible de le décrire avec des mots.
 Mon gourou m’a expliqué une chose :
@@ -127,7 +127,7 @@ S'il devait obtenir un grand nom, des louanges et une grande renommée dans le m
 Si le regard favorable de Dieu ne tombait pas sur lui, personne ne le remarquerait.
 Il serait considéré comme un ver parmi les vers, et même les pécheurs lui imputeraient le péché.
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 Nanak, Dieu peut accorder la vertu à ceux qui en sont dépourvus
 de celui-ci, ainsi que sur ceux qui le possèdent _déjà_ ;
@@ -157,7 +157,7 @@ En entendant le Nom, la vérité, le contentement et la connaissance divine sont
 Entendre le Nom équivaut à se baigner dans les soixante-huit lieux de pèlerinage.
 En entendant le Nom et en le lisant, l'homme obtient l'honneur.[^5]
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 En entendant le Nom, l’esprit est composé et fixé sur Dieu.[^1]
 Nanak, les saints sont toujours heureux.
@@ -190,7 +190,7 @@ En lui obéissant, l'homme ne s'éloignera pas avec Jam[^4]
 Le nom de Dieu est si pur—
 Celui qui obéit à Dieu connaît ce que cela lui plaît dans son cœur.
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 ### XIV
 
@@ -216,7 +216,7 @@ Les élus[^3] sont acceptables, les élus sont distingués
 Les élus obtiennent l’honneur à la cour de Dieu ;
 Les élus répandent leur éclat[^4] sur les cours des rois.
 L'attention des élus est accordée au seul Guru.[^5]
-Si quelqu'un dit qu'il peut se faire une idée de Dieu, _il doit le dire_, <span id="p203">[<sup><small>p. 203</small></sup>]</span>
+Si quelqu'un dit qu'il peut se faire une idée de Dieu, _il doit le dire_, <span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 _Mais_ les œuvres du Créateur ne peuvent être comptées.
 Le taureau dont il est question est la justice, le fruit de la miséricorde,
 Qui, soutenu par la patience, maintient l'ordre de la nature.[^1]
@@ -241,7 +241,7 @@ Toi, ô Sans Forme, tu es toujours en sécurité.
 
 Tes adorateurs sont innombrables[^5], et tes amants sont innombrables
 Nombreux sont tes adorateurs, et innombrables sont ceux qui accomplissent des austérités pour toi.
-D'innombrables récitants de livres sacrés et de Védas <span id="p204">[<sup><small>p. 204</small></sup>]</span>
+D'innombrables récitants de livres sacrés et de Védas <span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 Innombrables sont tes jogis dont le cœur est indifférent au monde ;
 Innombrables sont les saints qui méditent sur tes attributs et ta divine connaissance ;
 Tes fidèles hommes sont innombrables ; tes aumôniers sont innombrables
@@ -267,7 +267,7 @@ _Je suis si humble_ que je ne peux même pas être une seule fois un sacrifice p
 Tout ce qui te plaît est bon.
 Ô Sans forme, tu es toujours en sécurité.
 
-<span id="p205">[<sup><small>p. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 ### XIX
 
@@ -297,7 +297,7 @@ Ainsi, lorsque l’esprit est souillé par le péché,
 Il est purifié par l’amour[^4] du Nom.
 Les hommes ne deviennent pas saints ou pécheurs simplement en se qualifiant ainsi.
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 _Les anges enregistreurs_ emportent avec eux un enregistrement des actes de l'homme.
 C'est lui qui sème et c'est lui qui mange.
@@ -319,7 +319,7 @@ Les Pandits ne l'ont pas découvert ; s'ils l'avaient fait, ils l'auraient enreg
 Les Qazis[^2] ne l'ont pas non plus découvert ; s'ils l'avaient fait, ils l'auraient consigné dans le Coran :
 Ni le Jogi ni aucun autre mortel ne connaît le jour lunaire, ni le jour de la semaine, ni la saison, ni le mois.
 Seul le Créateur qui a façonné le monde sait _quand Il l'a fait_.
-Comment t'adresserai-je, ô Dieu ? Comment te louerai-je ? Comment te décrirai-je ? Et comment te connaîtrai-je ? <span id="p207">[<sup><small>p. 207</small></sup>]</span>
+Comment t'adresserai-je, ô Dieu ? Comment te louerai-je ? Comment te décrirai-je ? Et comment te connaîtrai-je ? <span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 Dit Nanak, tout le monde parle de toi, l'un plus sage que l'autre.
 Grand est l'Éternel, grand est son nom; ce qu'il fait arrive.
 Nanak, celui qui est fier ne sera pas honoré à son arrivée dans l'autre monde.
@@ -339,7 +339,7 @@ Comme les rivières et les ruisseaux se jettent dans la mer, mais ne connaissent
 Rois et empereurs qui possèdent des océans et des montagnes de biens et de richesses,[^4]
 Ils ne sont pas égaux au ver qui n'oublie pas Dieu dans son cœur.
 
-<span id="p208">[<sup><small>p. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 ### XXIV
 
@@ -371,7 +371,7 @@ Combien d’imbéciles il y a qui ne font que manger !
 Combien de personnes meurent dans la détresse et la faim ?
 Ô Donateur, ce sont aussi Tes dons.
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 La renaissance[^1] et la délivrance dépendent de Ta volonté :
 Personne ne peut interférer avec cela.
@@ -395,7 +395,7 @@ Ta miséricorde est inestimable, et tes ordonnances sont inestimables.
 On ne peut exprimer à quel point tu es inestimable.
 En parlant toujours de Toi, les hommes continuent à fixer leurs pensées sur Toi.[^7]
 
-<span id="p212">[<sup><small>p. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 Que Dieu est toujours vrai, Il est le vrai Seigneur et le vrai Nom.
 Celui qui a fait ce monde est et sera ; il ne s'en ira point, et il ne sera point fait s'en aller.[^1]
@@ -427,7 +427,7 @@ Les hôtes qui portent les couleurs de Ta foi.
 Toutes choses à côté desquelles chante ton nom glorieux,
 On ne pourrait jamais le dire par la humble chanson de Nanak.
 
-<span id="p213">[<sup><small>p. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 SALUT![^1] SALUT À LUI,
 
@@ -455,7 +455,7 @@ SALUT ! SALUT À LUI,
 
 Le primordial, le pur, sans commencement, l'indestructible, le même à chaque époque !
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 ### XXXI
 
@@ -488,7 +488,7 @@ Celui dans le bras duquel il y a de la force, peut voir ce qu'il peut faire.
 Nanak, personne n’a une force supérieure ou inférieure devant Dieu.
 
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 ### XXXIV
 
@@ -518,7 +518,7 @@ Combien de demi-dieux et de démons ! Combien de saints, combien de joyaux et de
 Combien de sources de vie ! combien de langues ! et combien de lignées de rois !
 Combien de possesseurs de la connaissance divine ! Combien d'adorateurs maintenant ! Nanak, ils sont sans fin.
 
-<span id="p216">[<sup><small>p. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 ### XXXVI
 
@@ -548,7 +548,7 @@ Il regarde ses habitants avec un œil favorable et les rend heureux.
 Il y a des continents, des mondes et des univers.
 Quiconque tente de les décrire n’arrivera jamais à une fin.
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Il y a des mondes sur des mondes et des formes sur des formes.
 Ils remplissent leurs fonctions selon les ordres de Dieu :
@@ -574,7 +574,7 @@ Selon les actes des hommes, certains seront proches et d'autres éloignés de Di
 Ceux qui ont médité sur le Nom et sont partis après avoir accompli leur travail,[^3]
 Leurs visages seront illuminés, ô Nanak ; combien seront émancipés en leur compagnie !
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

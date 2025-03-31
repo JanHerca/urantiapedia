@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 ## ADHYÂYA IV, KA<i>ND</i>IKÂ
 
@@ -54,7 +54,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. (Le morceau de terre creusé doit être) de la longueur d'un homme avec les bras levés,
 
-10\. De la largeur d'une Vyâma (brasse), <span id="p237">[<sup><small>p. 237</small></sup>]</span>
+10\. De la largeur d'une Vyâma (brasse), <span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 11\. De la profondeur d'un Vitasti (envergure).
 
@@ -79,7 +79,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## C<i>ET</i>IKÂ 2.
 
-1\. [^579]. (Les proches du défunt) portent maintenant ses feux sacrés et ses vases sacrificiels dans cette direction. <span id="p238">[<sup><small>p. 238</small></sup>]</span>
+1\. [^579]. (Les proches du défunt) portent maintenant ses feux sacrés et ses vases sacrificiels dans cette direction. <span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 2\. Après eux, des vieillards formant un nombre impair, hommes et femmes n'allant pas ensemble, (portent) le corps du mort.
 
@@ -107,7 +107,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1
 
-14\. [^583]. Après cela, une personne qui sait (comment le faire) amasse entre les feux un tas de combustible. <span id="p239">[<sup><small>p. 239</small></sup>]</span>
+14\. [^583]. Après cela, une personne qui sait (comment le faire) amasse entre les feux un tas de combustible. <span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 15\. Après avoir étendu là de l'herbe sacrificielle et une peau d'antilope noire avec les poils à l'extérieur, ils y placent le corps mort, qu'ils ont porté de manière à passer par le feu de Gârhapatya sur son côté nord, en tournant sa tête vers l'Âhavanîya.
 
@@ -130,7 +130,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 ## O<i>ICI 3.
 
@@ -162,7 +162,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1
 
-13\. Sur ses cuisses, les deux petits bois. <span id="p241">[<sup><small>p. 241</small></sup>]</span>
+13\. Sur ses cuisses, les deux petits bois. <span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 14\. Sur ses jambes le mortier et le pilon.
 
@@ -184,7 +184,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2
 
-23\. [^593]. Et deux morceaux (de farine ou de riz), selon certains (enseignants). <span id="p242">[<sup><small>p. 242</small></sup>]</span>
+23\. [^593]. Et deux morceaux (de farine ou de riz), selon certains (enseignants). <span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 24 [^594]. (Seulement) s'il n'y a pas de reins, selon certains (enseignants).
 
@@ -205,7 +205,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4
 
-3\. [^598]. Si le feu de Gârhapatya atteint (le corps) en premier, il doit savoir : « Il l’a atteint dans le monde aérien. Il y vivra dans la prospérité, et celui-ci, c’est-à-dire son fils, vivra dans ce monde. » <span id="p243">[<sup><small>p. 243</small></sup>]</span>
+3\. [^598]. Si le feu de Gârhapatya atteint (le corps) en premier, il doit savoir : « Il l’a atteint dans le monde aérien. Il y vivra dans la prospérité, et celui-ci, c’est-à-dire son fils, vivra dans ce monde. » <span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 4 [^599]. Si le feu de Dakshi<i>n</i>a atteint (le corps) en premier, il doit savoir : « Il l'a atteint dans le monde des hommes. Il y vivra dans la prospérité, et celui-ci, c'est-à-dire son fils, vivra de même dans ce monde. »
 
@@ -219,7 +219,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. Après avoir récité (le verset) « Ces vivants se sont séparés des morts » (Rig-veda X, 18, 3), ils se retournent de droite à gauche et s'en vont sans se retourner.
 
-10\. [^603]. Lorsqu'ils arrivent à un endroit où il y a de l'eau stagnante, après s'y être plongés une fois et en être ressortis <span id="p244">[<sup><small>p. 244</small></sup>]</span>, ils versent une poignée (d'eau), prononcent le nom du Gotra et le nom propre (du défunt), sortent (de l'eau), mettent d'autres vêtements, essorent (les vieux vêtements) une fois, les déposent avec leurs jupes au nord, et s'assoient jusqu'à ce que les étoiles apparaissent.
+10\. [^603]. Lorsqu'ils arrivent à un endroit où il y a de l'eau stagnante, après s'y être plongés une fois et en être ressortis <span id="p244"><sup><small>[ p. 244 ]</small></sup></span>, ils versent une poignée (d'eau), prononcent le nom du Gotra et le nom propre (du défunt), sortent (de l'eau), mettent d'autres vêtements, essorent (les vieux vêtements) une fois, les déposent avec leurs jupes au nord, et s'assoient jusqu'à ce que les étoiles apparaissent.
 
 11\. Ou ils peuvent entrer (dans leurs maisons), alors qu'une partie du disque solaire est encore visible,
 
@@ -237,7 +237,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 17\. [^606]. Qu'ils s'abstiennent, à titre facultatif, pendant douze nuits, de distribuer des cadeaux et d'étudier (les textes védiques), si l'un des principaux gourous (est décédé).
 
-18\. [^607]. Dix jours après (la mort de) Sapi<i>nd</i>as, <span id="p245">[<sup><small>p. 245</small></sup>]</span>
+18\. [^607]. Dix jours après (la mort de) Sapi<i>nd</i>as, <span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 19\. Et d'un Guru qui n'est pas Sapi<i>nd</i>a,
 
@@ -290,7 +290,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. Ceux qui ont perdu un gourou par la mort, ou qui sont affligés par un autre malheur, devraient accomplir le jour de la nouvelle lune une cérémonie expiatoire.
 
-2\. [^615]. Avant le lever du soleil, ils doivent transporter leur feu <span id="p247">[<sup><small>p. 247</small></sup>]</span> avec ses cendres et son récipient vers le sud avec le demi-ve</span>
+2\. [^615]. Avant le lever du soleil, ils doivent transporter leur feu <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> avec ses cendres et son récipient vers le sud avec le demi-ve</span>
 
 6finissez au loin l'Agni' dévoreur de chair (Rig-veda X, 16, 9).
 
@@ -298,7 +298,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. Ils doivent ensuite rentrer chez eux sans se retourner, se laver dans l'eau, se faire couper les cheveux, la barbe, les poils du corps et les ongles, et se munir de nouveaux pots, de pots, de récipients pour se rincer la bouche, couronnés de guirlandes de fleurs <i>S</i>amî, de combustible de bois <i>S</i>amî, de deux morceaux de bois <i>S</i>amî pour allumer le feu, et de branches à disposer autour du feu, de crottin de taureau et d'une peau de taureau, de beurre frais, d'une pierre et d'autant de bottes d'herbe de Ku<i>s</i>a qu'il y a de jeunes femmes (dans la maison).
 
-5\. [^617]. Au moment de l'Agni(-hotra), il doit allumer le feu avec l'hémistiche : « Ici peuvent ces autres Gâtavedas » (Rig-veda X, 16, 9). <span id="p248">[<sup><small>p. 248</small></sup>]</span>
+5\. [^617]. Au moment de l'Agni(-hotra), il doit allumer le feu avec l'hémistiche : « Ici peuvent ces autres Gâtavedas » (Rig-veda X, 16, 9). <span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 6\. Gardant ce feu allumé, ils restent assis jusqu'au silence de la nuit, répétant les contes des anciens et se faisant raconter des histoires au contenu propice, des Itihâsas et des Purâ<i>n</i>as.
 
@@ -308,7 +308,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. Avec (le verset) « Je place ceci autour du vivant » (Rig-veda X, 18, 4), il devrait placer des branches autour (du feu).
 
-10\. [^620]. Après avoir prononcé les mots « Ils placeront une montagne (c'est-à-dire une pierre) entre eux et la mort », avoir placé une pierre au nord du feu, et avoir sacrifié avec les quatre versets « Va-t'en, ô mort, par un autre chemin » (Rig-veda X, 18, 1-4), <span id="p249">[<sup><small>p. 249</small></sup>]</span> verset par verset, il devrait regarder son peuple avec le verset « Comme les jours se succèdent » (ibid. 5).
+10\. [^620]. Après avoir prononcé les mots « Ils placeront une montagne (c'est-à-dire une pierre) entre eux et la mort », avoir placé une pierre au nord du feu, et avoir sacrifié avec les quatre versets « Va-t'en, ô mort, par un autre chemin » (Rig-veda X, 18, 1-4), <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> verset par verset, il devrait regarder son peuple avec le verset « Comme les jours se succèdent » (ibid. 5).
 
 11\. Les jeunes femmes (appartenant à la maison) doivent, avec chaque main séparément, avec leurs pouces et leurs quatrièmes doigts, avec de jeunes lames de Darbha, se mettre du beurre frais sur les yeux et jeter (les lames de Darbha) en détournant le visage.
 
@@ -341,7 +341,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. Plus leur nombre est grand, plus grande est la récompense (que le sacrifiant est en droit d'attendre).
 
-4\. Mais en aucun cas un seul (Brâhma<i>n</i>a) pour tous (les pères). <span id="p251">[<sup><small>p. 251</small></sup>]</span>
+4\. Mais en aucun cas un seul (Brâhma<i>n</i>a) pour tous (les pères). <span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 5 [^623]. Facultativement (il ne peut inviter qu'un seul Brâhma<i>n</i>a) sauf au premier (<i>S</i>râddha).
 
@@ -355,7 +355,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 10\. Après avoir versé de l'eau dans trois récipients de métal, de pierre et de terre cuite, ou (dans trois récipients) faits de la même substance, sur lesquels il a placé de l'herbe Darbha,
 
-Et après avoir récité sur (cette eau le verset) « Pour la chance et le secours des eaux divines » (Rig-veda X, 9, 4), il y verse des graines de sésame avec (la formule) : « Tu es sésame ; Soma est ta divinité ; lors du sacrifice de Gosava, tu as été créé par <span id="p252">[<sup><small>p. 252</small></sup>]</span> les dieux. Par les anciens, tu as été offert. Par l'oblation funéraire, rends les Pères et ces mondes propices à nous. Svadhâ ! Adoration ! »
+Et après avoir récité sur (cette eau le verset) « Pour la chance et le secours des eaux divines » (Rig-veda X, 9, 4), il y verse des graines de sésame avec (la formule) : « Tu es sésame ; Soma est ta divinité ; lors du sacrifice de Gosava, tu as été créé par <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> les dieux. Par les anciens, tu as été offert. Par l'oblation funéraire, rends les Pères et ces mondes propices à nous. Svadhâ ! Adoration ! »
 
 12\. [^627]. (Les différents rites sont exécutés) de droite à gauche.
 
@@ -363,7 +363,7 @@ Et après avoir récité sur (cette eau le verset) « Pour la chance et le secou
 
 14\. Lorsqu'il va remettre cela (l'eau d'Arghya aux Brâhmanes qui représentent les Pères, il dit une fois à chaque fois) : « Svadhâ ! L'eau d'Arghya ! »
 
-15\. [^629]. Au-dessus (de l'eau d'Arghya) qui a été <span id="p253">[<sup><small>p. 253</small></sup>]</span> p</span>
+15\. [^629]. Au-dessus (de l'eau d'Arghya) qui a été <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> p</span>
 
 2, il doit réciter le verset : « Les eaux célestes qui ont été produites sur la terre, les eaux aériennes et les eaux terrestres, celles de couleur or, aptes au sacrifice, que ces eaux nous portent chance et soient bonnes pour nous. » En versant ce qui reste (dans les trois vases Arghya), il humidifie son visage avec cette eau, s'il désire qu'un fils lui naisse.
 
@@ -375,7 +375,7 @@ Et après avoir récité sur (cette eau le verset) « Pour la chance et le secou
 
 19\. La permission (est donnée dans les mots) : « On peut l'offrir », ou « Sacrifie ton offrande », ou « Offre-la ».
 
-20\. [^632]. Il sacrifie ensuite dans le feu comme indiqué ci-dessus, <span id="p254">[<sup><small>p. 254</small></sup>]</span>
+20\. [^632]. Il sacrifie ensuite dans le feu comme indiqué ci-dessus, <span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 21 [^633]. Ou, s'ils donnent leur permission, entre les mains (des Brâhmanes).
 
@@ -393,7 +393,7 @@ Et après avoir récité sur (cette eau le verset) « Pour la chance et le secou
 
 27\. [^637]. Après leur avoir demandé : « Savouré ? » et avoir pris la nourriture, quelle qu'elle soit, avec le Sthâlîpâka, afin d'en faire des morceaux, il doit offrir le reste (aux Brâhmanes).
 
-28\. Après qu'ils ont accepté (ce reste de nourriture), ou qu'ils l'ont laissé (à lui), et qu'ils ont fini de manger, il doit, avant qu'ils aient bu une gorgée d'eau, déposer les morceaux pour les Pères. <span id="p255">[<sup><small>p. 255</small></sup>]</span>
+28\. Après qu'ils ont accepté (ce reste de nourriture), ou qu'ils l'ont laissé (à lui), et qu'ils ont fini de manger, il doit, avant qu'ils aient bu une gorgée d'eau, déposer les morceaux pour les Pères. <span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 29\. Après avoir bu de l'eau, selon certains (enseignants).
 
@@ -431,7 +431,7 @@ Et après avoir récité sur (cette eau le verset) « Pour la chance et le secou
 
 11\. [^642]. À un quart (de l'horizon) qui est sacrificiellement pur,
 
-12\. À un endroit invisible du village, <span id="p256">[<sup><small>p. 256</small></sup>]</span>
+12\. À un endroit invisible du village, <span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 13\. Après minuit,
 
@@ -451,7 +451,7 @@ Et après avoir récité sur (cette eau le verset) « Pour la chance et le secou
 
 21\. Ou avec (la formule), 'À Rudra svâhâ!'
 
-22\. [^645]. Qu'il fasse des offrandes de Bali vers les quatre points cardinaux, à chacun des quatre cercles du réseau Kusa, avec (les formules) : « Les armées, Rudra, que tu as vers l'est, <span id="p257">[<sup><small>p. 257</small></sup>]</span> cette offrande leur est apportée. Adoration à toi ! Ne me fais pas de mal ! » De cette façon, l'assignation (des offrandes) est effectuée selon les différents points cardinaux.
+22\. [^645]. Qu'il fasse des offrandes de Bali vers les quatre points cardinaux, à chacun des quatre cercles du réseau Kusa, avec (les formules) : « Les armées, Rudra, que tu as vers l'est, <span id="p257"><sup><small>[ p. 257 ]</small></sup></span> cette offrande leur est apportée. Adoration à toi ! Ne me fais pas de mal ! » De cette façon, l'assignation (des offrandes) est effectuée selon les différents points cardinaux.
 
 23\. Avec les quatre hymnes suivants, il devrait adorer les quatre quartiers, à savoir : « Que dirons-nous à Rudra ? », « Ces prières à Rudra ? », « À toi, ô père ? », « Ces chants à Rudra avec l'arc puissant » (Rig-veda I, 43, 114 ; II, 33 ; VII, 46).
 
@@ -467,7 +467,7 @@ Et après avoir récité sur (cette eau le verset) « Pour la chance et le secou
 
 Les serpents prennent alors tout ce qui a coulé là, du sang ou du contenu de l'estomac et des entrailles.
 
-29\. Tous les noms, toutes les armées, toutes les exaltations lui appartiennent <span id="p258">[<sup><small>p. 258</small></sup>]</span> ; à un sacrificateur qui sait qu'il donne de la joie.
+29\. Tous les noms, toutes les armées, toutes les exaltations lui appartiennent <span id="p258"><sup><small>[ p. 258 ]</small></sup></span> ; à un sacrificateur qui sait qu'il donne de la joie.
 
 30\. Même à un homme qui expose seulement par des paroles (une partie) de cette (cérémonie), il ne fera aucun mal ; c'est ainsi que cela est compris (dans la <i>S</i>ruti).
 
@@ -493,7 +493,7 @@ Les serpents prennent alors tout ce qui a coulé là, du sang ou du contenu de l
 
 40\. Si une maladie frappe son bétail, il devrait sacrifier à ce même dieu au milieu de son étable.
 
-41\. Un amas de nourriture cuite, qu'il sacrifie entièrement. <span id="p259">[<sup><small>p. 259</small></sup>]</span>
+41\. Un amas de nourriture cuite, qu'il sacrifie entièrement. <span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 42\. Après avoir jeté l'herbe sacrificielle et l'Â<i>g</i>ya dans le feu, il doit conduire ses vaches à travers la fumée.
 

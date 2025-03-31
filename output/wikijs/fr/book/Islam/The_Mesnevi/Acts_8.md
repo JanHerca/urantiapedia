@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 **CHAPITRE VIII.**
 
@@ -48,7 +48,7 @@ L'avant-dernier jour de la période du grand pèlerinage à la Mecque, la veille
 
 Ils étaient en visite au couvent d'un certain derviche Mevlevi, nommé Sheykh Suhrāb,[^33] avec divers amis et saints, qui étaient tous engagés dans l'étude de différents livres, vers l'heure de midi, à l'exception de 'Ārif, qui faisait la sieste.
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Soudain, 'Ārif releva la tête et poussa un de ses cris puissants et terrifiants qui fit trembler tous ceux qui étaient présents. Mais sans un mot, il se rendormit.
 
@@ -64,7 +64,7 @@ Nāsir répondit : « La veille de la fête des sacrifices, je me trouvais à l�
 
 'Ārif s'adressa alors à Eflākī et dit : « Je t'en prie, raconte à nos amis ce que tu sais, afin qu'ils soient édifiés. »
 
-Eflākī sortit alors son carnet de notes et montra l’inscription qu’il avait faite avec la date. Les amis s’en émerveillèrent et se réjouirent extrêmement, leurs esprits <span id="p128">[<sup><small>p. 128</small></sup>]</span> étant rafraîchis par une influence venue du monde invisible.
+Eflākī sortit alors son carnet de notes et montra l’inscription qu’il avait faite avec la date. Les amis s’en émerveillèrent et se réjouirent extrêmement, leurs esprits <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> étant rafraîchis par une influence venue du monde invisible.
 
 'Ārif dit alors : « Par l'âme de mon ancêtre, je déteste faire étalage d'un quelconque pouvoir miraculeux. Mais, de temps à autre, pour l'édification de mes disciples, de telles scènes échappent. Alors Eflākī en prend note. »
 
@@ -84,7 +84,7 @@ Il dit alors : « Il est temps pour moi de faire mon voyage au ciel, pour boire 
 
 Deux jours plus tard, ils continuèrent leur voyage vers Qonya, et 'Ārif montra quelques légers symptômes d'indisposition.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 Ces souffrances devenaient de plus en plus graves. Il arriva à Qonya. Un matin, il sortit de sa maison et se tint devant le portail du mausolée de son arrière-grand-père, silencieux, au milieu de ses disciples. C'était un vendredi, le dernier jour du mois de Zū-'l-qa'da, 719 de l'hégire (13 janvier 1320).
 
@@ -98,7 +98,7 @@ Ses disciples éclatèrent en sanglots, et il continua :
 
 Il poussa alors un grand cri, puis il retourna lentement dans sa chambre, et continua à gémir.
 
-Il réussit à ramper, du mieux qu’il put, jusqu’à l’office religieux de la congrégation, ce vendredi à midi. De là, il se rendit au mausolée, embrassa le sanctuaire, <span id="p130">[<sup><small>p. 130</small></sup>]</span> chanta un hymne, exécuta une danse sacrée et poussa des cris d’extase. Il s’étendit ensuite de tout son long sur le sol sous lequel il est maintenant enterré et dit : « Là où l’homme tombe, qu’il soit enterré. Enterrez le dépôt de mon cadavre à cet endroit. »
+Il réussit à ramper, du mieux qu’il put, jusqu’à l’office religieux de la congrégation, ce vendredi à midi. De là, il se rendit au mausolée, embrassa le sanctuaire, <span id="p130"><sup><small>[ p. 130 ]</small></sup></span> chanta un hymne, exécuta une danse sacrée et poussa des cris d’extase. Il s’étendit ensuite de tout son long sur le sol sous lequel il est maintenant enterré et dit : « Là où l’homme tombe, qu’il soit enterré. Enterrez le dépôt de mon cadavre à cet endroit. »
 
 Ce jour-là, c'était comme si le jugement dernier était proche. Une tempête s'éleva, toute la création, mortelle et immortelle, semblait gémir.
 
@@ -112,7 +112,7 @@ Les secousses du tremblement de terre se succédèrent et ‘Ārif s’écria : 
 
 Il demanda alors : « Regardez ! Quels sont ces oiseaux qui sont venus ici ? » Ses yeux restèrent un moment fixés sur les visions angéliques qu’il avait maintenant. De temps en temps, il sursautait, comme s’il allait s’envoler. Les disciples rassemblés, hommes et femmes, pleuraient amèrement. Mais il reprit la parole et dit :
 
-« Cheikhs, ne soyez pas troublés ! De même que ma descente dans ce monde a eu pour but de régler les affaires de votre communauté, de même mon existence vous est d’un avantage égal, et je serai toujours avec vous, <span id="p131">[<sup><small>p. 131</small></sup>]</span> jamais absent de vous. Même dans l’autre monde, je serai avec vous. Ici-bas, la séparation est une chose inévitable. Dans l’autre monde, il y a une union sans rupture, et une jonction sans séparation. Laissez-moi partir sans douleur. En apparence, je serai absent ; mais en vérité, je ne serai pas loin de vous. Tant qu’une épée est dans son fourreau, elle ne coupe pas ; mais, lorsqu’elle sera tirée, vous en verrez les effets. À partir de ce jour, je lance mon poing à travers le rideau qui voile le monde invisible ; et mes disciples entendront le choc des coups. »
+« Cheikhs, ne soyez pas troublés ! De même que ma descente dans ce monde a eu pour but de régler les affaires de votre communauté, de même mon existence vous est d’un avantage égal, et je serai toujours avec vous, <span id="p131"><sup><small>[ p. 131 ]</small></sup></span> jamais absent de vous. Même dans l’autre monde, je serai avec vous. Ici-bas, la séparation est une chose inévitable. Dans l’autre monde, il y a une union sans rupture, et une jonction sans séparation. Laissez-moi partir sans douleur. En apparence, je serai absent ; mais en vérité, je ne serai pas loin de vous. Tant qu’une épée est dans son fourreau, elle ne coupe pas ; mais, lorsqu’elle sera tirée, vous en verrez les effets. À partir de ce jour, je lance mon poing à travers le rideau qui voile le monde invisible ; et mes disciples entendront le choc des coups. »
 
 Tandis qu’il prononçait ces mots, son fils aîné, Shāh-Zāda, et son propre demi-frère, Chelebī 'Ābid, entrèrent dans la pièce. Cheykh Eflākī lui demanda quels ordres il devait donner à leur sujet. 'Ārif répondit : « Ils appartiennent au Seigneur et n’ont plus aucun lien avec moi ; Il prendra soin d’eux. »
 

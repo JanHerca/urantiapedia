@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 ## ADHYÂYA II, KA<i>ND</i>IKÂ 1.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. Il donnera l'autre (grains) à son peuple.
 
-9\. De la cruche il remplit la cuillère de farine, <span id="p202">[<sup><small>p. 202</small></sup>]</span> sort (de la maison) vers l'est, verse de l'eau sur le sol à un endroit propre, sacrifie avec (la formule) : « Aux armées divines des serpents svâhâ ! » et leur rend hommage avec (la formule) : « Les serpents qui sont terrestres, qui sont aériens, qui sont célestes, qui demeurent dans les directions (de l'horizon) — à eux j'ai apporté ce Bali ; à eux je donne ce Bali. »
+9\. De la cruche il remplit la cuillère de farine, <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> sort (de la maison) vers l'est, verse de l'eau sur le sol à un endroit propre, sacrifie avec (la formule) : « Aux armées divines des serpents svâhâ ! » et leur rend hommage avec (la formule) : « Les serpents qui sont terrestres, qui sont aériens, qui sont célestes, qui demeurent dans les directions (de l'horizon) — à eux j'ai apporté ce Bali ; à eux je donne ce Bali. »
 
 10\. Après avoir fait le tour du Bali de gauche à droite, il s'assied à l'ouest du Bali et dit : « Tu es le serpent ; tu es le seigneur des serpents rampants ; par la nourriture tu protèges les hommes, par les gâteaux les serpents, par les sacrifices les dieux. Pour moi, étant en toi, les serpents étant en toi ne devraient pas me faire de mal. Je te remets la solide (c'est-à-dire la cuillère). »
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 14\. [^486]. Avec (la formule) « Aux armées divines des serpents svâhâ! » — qu'il offre le Bali le soir et le matin, jusqu'au Pratyavaroha<i>n</i>a (c'est-à-dire la cérémonie de la « redescente »).
 
-15\. [^487]. Certains comptent (les jours jusqu'au Pratyavaroha<i>n</i>a) <span id="p203">[<sup><small>p. 203</small></sup>]</span> et offrent le nombre correspondant de Balis déjà ce jour-là (où la cérémonie _S<i>n</i>n_â est célébrée).
+15\. [^487]. Certains comptent (les jours jusqu'au Pratyavaroha<i>n</i>a) <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> et offrent le nombre correspondant de Balis déjà ce jour-là (où la cérémonie _S<i>n</i>n_â est célébrée).
 
 
 ## KA<i>ND</i>IKÂ 2.
@@ -79,7 +79,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 « Unis aux saisons, unis aux mœurs, unis aux Vi<i>s</i>ve devâs, svâhâ !
 
-« Uni aux saisons, uni aux mœurs, uni au Ciel et à la Terre, svâhâ ! » — avec (ces formules) un plat de nourriture cuite est offert au <span id="p204">[<sup><small>p. 204</small></sup>]</span> Âgraya<i>n</i>un sacrifice par celui qui a allumé les feux (sacrés <i>S</i>rauta).
+« Uni aux saisons, uni aux mœurs, uni au Ciel et à la Terre, svâhâ ! » — avec (ces formules) un plat de nourriture cuite est offert au <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> Âgraya<i>n</i>un sacrifice par celui qui a allumé les feux (sacrés <i>S</i>rauta).
 
 5\. De même, celui qui n'a pas allumé les feux (<i>S</i>rauta) (la même offrande est effectuée) dans le feu domestique (sacré).
 
@@ -96,7 +96,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. Ici, aucune oblation à (Agni) Svish<i>t</i>ak<i>t</i>t (n'est faite).
 
-5\. [^492]. « Puissions-nous être à l'abri des fils de Pra<i>g</i>âpati » — c’est ainsi qu’il murmure en regardant le feu. <span id="p205">[<sup><small>p. 205</small></sup>]</span>
+5\. [^492]. « Puissions-nous être à l'abri des fils de Pra<i>g</i>âpati » — c’est ainsi qu’il murmure en regardant le feu. <span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 6\. (En disant) : « Soyez heureux et amicaux envers nous » — il devrait penser dans son esprit à l’hiver.
 
@@ -117,7 +117,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## KA<i>ND</i>IKÂ 4.
 
-1\. [^496]. Le huitième jour des quatre quinzaines sombres de l'hiver et de Sira, on célèbre les Ashikakas. <span id="p206">[<sup><small>p. 206</small></sup>]</span>
+1\. [^496]. Le huitième jour des quatre quinzaines sombres de l'hiver et de Sira, on célèbre les Ashikakas. <span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 2 [^497]. Ou un (de ces jours).
 
@@ -151,7 +151,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 « Que tous les Âdityas et les divins Vasus, les Rudras, les protecteurs, les Maruts s'assoient (ici). Que Pra<i>g</i>âpati, l'Abondant, le souverain suprême, m'accorde vigueur, descendance, immortalité. Svâhâ !
 
-« Pragâpati, nul autre que Toi (Rig-veda X, 121, 10). » <span id="p208">[<sup><small>p. 208</small></sup>]</span>
+« Pragâpati, nul autre que Toi (Rig-veda X, 121, 10). » <span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 15\. La huitième (oblation) est celle à (Agni) Svish<i>g</i>ak<i>g</i>t.
 
@@ -169,7 +169,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 5\. Et à (leurs) femmes, avec l'ajout de rhum et d'écume de riz bouilli.
 
-6\. Certains (placent les morceaux à offrir) dans des noyaux, en deux ou en six : <span id="p209">[<sup><small>p. 209</small></sup>]</span>
+6\. Certains (placent les morceaux à offrir) dans des noyaux, en deux ou en six : <span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 7\. Dans ceux situés à l'est, il doit donner (les offrandes) aux Pères.
 
@@ -193,7 +193,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2
 
-1\. [^509]. Lorsqu'il monte sur un char, il doit toucher les roues de ses deux mains séparément en disant : « Je touche tes deux pieds de devant. Tes deux roues sont le B<i>ri</i>hat et le Rathantara (Sâmans). » <span id="p210">[<sup><small>p. 210</small></sup>]</span>
+1\. [^509]. Lorsqu'il monte sur un char, il doit toucher les roues de ses deux mains séparément en disant : « Je touche tes deux pieds de devant. Tes deux roues sont le B<i>ri</i>hat et le Rathantara (Sâmans). » <span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 2
 
@@ -217,7 +217,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. Avec (le verset), « La terre, la bonne protectrice, le ciel inaccessible » (Rig-veda X, 63, 10) (il devrait monter) sur un navire.
 
-9\. Avec un char neuf, il doit faire le tour d'un arbre bien connu ou d'un étang qui ne tarit pas, son côté droit tourné vers lui, puis il doit aller chercher des branches qui portent des fruits, <span id="p211">[<sup><small>p. 211</small></sup>]</span>
+9\. Avec un char neuf, il doit faire le tour d'un arbre bien connu ou d'un étang qui ne tarit pas, son côté droit tourné vers lui, puis il doit aller chercher des branches qui portent des fruits, <span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 1
 
@@ -255,7 +255,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9côté droit, puis couler vers l’est sans bruit – cela possède toutes les qualités propices.
 
-8\. Là où les eaux s'écoulent, il doit faire construire un local à provisions. <span id="p212">[<sup><small>p. 212</small></sup>]</span>
+8\. Là où les eaux s'écoulent, il doit faire construire un local à provisions. <span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 9\. Ainsi, il devient riche en nourriture.
 
@@ -289,7 +289,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. Il y tracera mille sillons et le fera mesurer comme quadrangulaire, avec des côtés égaux à chacune des quatre directions ;
 
-10\. Ou comme un quadrilatère oblong. <span id="p213">[<sup><small>p. 213</small></sup>]</span>
+10\. Ou comme un quadrilatère oblong. <span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 11 [^512]. Avec une branche de <i>S</i>amî ou d'Udumbara, il l'asperge (d'eau), en faisant trois fois le tour, de sorte que son côté droit soit tourné vers elle, en récitant l'hymne <i>S</i>antâtîya.
 
@@ -301,7 +301,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 15\. [^514]. Après avoir placé cette plante dans la fosse où doit se dresser le poteau central, il doit y répandre de l'herbe Ku<i>s</i>a pointée vers l'est et vers le nord et y asperger de l'eau dans laquelle on a jeté du riz et de l'orge, en disant : « À celui qui est stable, le démon de la terre, svâhâ ! »
 
-16\. [^515]. Il devrait alors, lorsque (le poteau du milieu) est érigé, réciter dessus (les deux versets) : « Tiens-toi ici, fixé dans le sol, prospère, durable (?), <span id="p214">[<sup><small>p. 214</small></sup>]</span> debout au milieu de la prospérité. Puissent les malveillants ne pas t'atteindre !
+16\. [^515]. Il devrait alors, lorsque (le poteau du milieu) est érigé, réciter dessus (les deux versets) : « Tiens-toi ici, fixé dans le sol, prospère, durable (?), <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> debout au milieu de la prospérité. Puissent les malveillants ne pas t'atteindre !
 
 « Que le jeune enfant vienne à toi, que le veau vienne à toi... ; que la coupe de Parisrut vienne à toi ; qu'ils viennent à toi avec des pots de lait caillé. »
 
@@ -321,7 +321,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. [^518]. Il met de l'or dans de l'eau dans laquelle on a jeté du riz et de l'orge, et (avec cette eau) il l'asperge trois fois, en faisant le tour d'elle avec son côté droit tourné vers elle, avec l'hymne <i>S</i>antâtîya.
 
-8\. [^519]. Et (il le fait encore trois fois) versant <span id="p215">[<sup><small>p. 215</small></sup>]</span> de l'eau sans interruption, avec les trois versets : « Ô eaux, vous êtes saines » (Rig-veda X, 9, I seqq.).
+8\. [^519]. Et (il le fait encore trois fois) versant <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> de l'eau sans interruption, avec les trois versets : « Ô eaux, vous êtes saines » (Rig-veda X, 9, I seqq.).
 
 9\. [^520]. Au milieu de la maison, il doit préparer un plat de nourriture, en faire un sacrifice, en récitant les quatre versets « Vâstoshpati, accepte-nous » (Rig-veda VII, 54, 1 ss.), verset par verset, préparer la nourriture, donner à manger aux Brâhmanes et les faire dire : « Quelle chance ! Quelle chance ! »
 
@@ -339,7 +339,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. [^524]. À leur retour, (il devrait réciter les versets suivants,)
 
-« Que ceux dont le pis avec ses quatre trous est plein <span id="p216">[<sup><small>p. 216</small></sup>]</span> de miel et de ghee, soient pour nous des donneurs de lait ; (qu'ils soient) nombreux dans notre étable, riches en ghee.
+« Que ceux dont le pis avec ses quatre trous est plein <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> de miel et de ghee, soient pour nous des donneurs de lait ; (qu'ils soient) nombreux dans notre étable, riches en ghee.
 
 « Viens à moi, donne-moi ton réconfort, apporte vigueur et force. Donne-moi un lait inépuisable, repose-toi dans mon étable afin que je devienne le plus élevé. »
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 
 Siddhartha ne trouvait plus la paix. Il arpentait les couloirs de son palais tel un lion piqué par une flèche empoisonnée. Il était malheureux.
@@ -45,7 +45,7 @@ Et tandis qu'il méditait sur la misère de l'humanité, il perdit la vaine illu
 
 Soudain, il vit s'approcher un homme qui ressemblait à un mendiant et qui n'était visible que pour lui.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 « Dis-moi, qui es-tu ? » lui demanda le prince.
 
@@ -61,7 +61,7 @@ Il alla vers le roi, s'inclina et lui dit :
 
 « Roi, accordez-moi ma requête. Ne vous y opposez pas, car je suis déterminé. Je quitterai le palais, je marcherai sur le chemin de la délivrance. Nous devons nous séparer, père. »
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 Le roi fut profondément ému. La voix pleine de larmes, il dit à son fils :
 
@@ -77,7 +77,7 @@ Le prince répondit :
 
 « Vous en demandez trop », répondit le roi. « Abandonnez cette idée. Il n'est pas bon d'agir sur un coup de tête. »
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Solennel comme la montagne Meru, le prince dit à son père :
 
@@ -87,7 +87,7 @@ Les larmes aux yeux, il retourna au palais. Dans la grande salle, les compagnons
 
 Ils s'endormirent. Le prince les regarda.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Leur grâce étudiée avait disparu, l'éclat de leurs yeux avait disparu. Leurs cheveux étaient ébouriffés, leurs bouches béantes, leurs seins écrasés, leurs bras et leurs jambes tendus avec raideur ou maladroitement tordus sous eux. Et le prince s'écria :
 

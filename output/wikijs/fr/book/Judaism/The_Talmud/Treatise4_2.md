@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 1\. Pendant toute la durée où il est permis de manger du levain, on peut en nourrir les bêtes, les animaux sauvages et les oiseaux, et on peut le vendre à un étranger. Il est permis d'en profiter de toutes les manières possibles. Passé ce délai, il est interdit d'en profiter, et il est interdit de chauffer un four ou un poêle avec. Rabbi Juda a dit : « On ne peut se débarrasser du levain que par le feu. » Mais les Sages disent : « On peut aussi le réduire en poudre et le disperser au vent, ou le jeter à la mer. »
 

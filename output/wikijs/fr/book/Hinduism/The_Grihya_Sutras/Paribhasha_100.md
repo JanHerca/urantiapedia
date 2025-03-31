@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 <span id="an76"></span>
 
@@ -76,7 +76,7 @@ Sans distinction de caste, l'offrande d'Aindrâgna est omise pour celui qui offr
 
 Même s'il n'est pas un Somayâ<i>g</i>in, dit le commentaire.
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 Toute cette affaire est résumée dans le commentaire de Kapardin : Amâvâsyâyâm asomayâg ina aindrâgna-sâg nayyayor vikalpa_h_. Puissance<i>g</i>amâsyâ_m<i>g</i>g<i>g</i>n<i>g</i>h_. J'espère que vous allez bien et que Dieu vous bénisse. Les princesses des Tatras sont toujours prêtes à aider, même si elles ne se connaissent pas. Que Dieu vous bénisse avec une vie heureuse.
 
@@ -114,7 +114,7 @@ De plus, parce que, lorsque le sacrifice d'Amâvâsyâ est interdit, on voit le 
 
 ## SUTRA LXXXIII.
 
-Un acte principal (pradhâna) est accompagné d'actes auxiliaires (aṅga). <span id="p339">[<sup><small>p. 339</small></sup>]</span>
+Un acte principal (pradhâna) est accompagné d'actes auxiliaires (aṅga). <span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 <span id="an83c"></span>
 
@@ -162,7 +162,7 @@ Ils sont offerts avec le mot Svâhâ.
 
 **Commentaire.**
 
-Selon Kâtyâyana I, 2, 6-7, les <i>g</i>uhotis sont <span id="p340">[<sup><small>p. 340</small></sup>]</span> offerts assis, les ya<i>g</i>atis debout. Voir Sûtra XCII. Les actes de <i>g</i>uhoti consistent à verser du beurre fondu dans le feu de l'autel Âhavanîya, ainsi appelé parce que « âhûyanteऽsminn âhutaya<i>h</i> kshipyanta iti ».
+Selon Kâtyâyana I, 2, 6-7, les <i>g</i>uhotis sont <span id="p340"><sup><small>[ p. 340 ]</small></sup></span> offerts assis, les ya<i>g</i>atis debout. Voir Sûtra XCII. Les actes de <i>g</i>uhoti consistent à verser du beurre fondu dans le feu de l'autel Âhavanîya, ainsi appelé parce que « âhûyanteऽsminn âhutaya<i>h</i> kshipyanta iti ».
 
 <span id="an88"></span>
 
@@ -210,7 +210,7 @@ On verse (_g_uhoti) le Darvi-homas, assis à l'ouest du feu Âhavanîya, et en p
 
 ## SÛTRA XCIII.
 
-Si cela est clairement énoncé, cela se fait d'une manière différente. <span id="p341">[<sup><small>p. 341</small></sup>]</span>
+Si cela est clairement énoncé, cela se fait d'une manière différente. <span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 <span id="an93c"></span>
 
@@ -252,7 +252,7 @@ Le Vasha<i>t</i>kâra consiste en le mot Vasha_t_, prononcé par le prêtre Hot_
 
 ## SUTRA XVII.
 
-Avec les Grahas, l'acte doit être fait pour coïncider avec l'Upayâma. <span id="p342">[<sup><small>p. 342</small></sup>]</span>
+Avec les Grahas, l'acte doit être fait pour coïncider avec l'Upayâma. <span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 <span id="an97c"></span>
 

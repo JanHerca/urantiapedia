@@ -44,7 +44,7 @@ Après qu'un homme a commis des actes qui causent la mort d'êtres vivants, ses 
 
 « Ma mère, mon père, ma belle-fille, mon frère, ma femme et mes fils ne pourront pas m'aider, quand je souffrirai pour mes propres actes [^889]. » (5)
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Prenant à cœur cette vérité d'où découlent les vérités les plus importantes, un moine, sans propriété et sans égoïsme, devrait suivre l'enseignement des <i>G</i>inas. (6)
 
@@ -60,7 +60,7 @@ La tromperie [^891], la cupidité [^892], la colère [^893] et l'orgueil [^894] 
 
 Se laver, se teindre, faire de l'urine, évacuer les intestins, vomir, oindre les yeux, et tout ce qui est contraire aux règles de conduite [^895] : de tout cela un homme sage doit s'abstenir. (12)
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 Parfums, couronnes, bains, nettoyage des dents, biens, actions se rapportant aux femmes : de tout cela l'homme sage devrait s'abstenir. (13)
 
@@ -90,7 +90,7 @@ En parlant, (un moine) doit utiliser le moins de mots possible ; il ne doit pas 
 
 On se repentira d'avoir employé le troisième genre de discours [^900] ; un secret ne doit pas être révélé. Tel est le commandement du Nirgrantha. (26)
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 (Un moine) ne devrait pas traiter quelqu'un de tous les noms [^901], ni d'« ami », ni de son Gôtra ; « toi, toi » est vulgaire ; ne vous adressez jamais à quelqu'un par « tu ! » (27)
 
@@ -108,7 +108,7 @@ Il doit obéir et servir un enseignant sage et pieux, (des enseignants) qui sont
 
 Ces hommes, qui ne voient pas la lumière (pour ainsi dire) dans la vie domestique, sont les aimés du peuple ; ces héros, libérés de l'esclavage, ne désirent pas la vie. (34)
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 Ils ne recherchent pas les plaisirs sensuels, ils ne pratiquent pas les œuvres. Tout ce dont ils parlent sans cesse est contraire à la vraie foi. (35)
 

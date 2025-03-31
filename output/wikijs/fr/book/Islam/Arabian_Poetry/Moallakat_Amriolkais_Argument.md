@@ -32,11 +32,11 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 _Les poèmes intitulés_ Almoällakât _présentent une image exacte de leurs vertus et de leurs vices, de leur sagesse et de leur folie, et montrent ce qu'on peut constamment attendre d'hommes aux cœurs ouverts et aux passions bouillonnantes, sans loi pour les contrôler, et peu de religion pour les restreindre._—Six W. JONES : Discours sur les Arabes.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 <figure id="Figure_00300" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/00300.jpg">
@@ -52,7 +52,7 @@ Ils adjurèrent, supplièrent, remontrèrent, mais quand il fut tard, ils se tro
 
 Il raconte ensuite sa cour à Fatima et son amour plus dangereux avec une fille d'une tribu en guerre avec la sienne, dont il décrit minutieusement et avec luxure les beautés. De ces histoires d'amour, il passe à l'éloge de sa propre force d'âme, alors qu'il traversait un désert dans la nuit la plus noire, et la mention de la matinée qui suivit le conduit à une longue description de son chasseur et d'une chasse dans la forêt, suivie d'un festin du gibier qui avait été transpercé par ses javelots.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Ici son récit semble interrompu par un orage d'éclairs et une pluie violente ; il décrit noblement l'averse et le torrent qu'elle a produit sur toutes les montagnes adjacentes ; et, ses compagnons se retirant pour éviter l'orage, le drame (car le poème a la forme d'une pastorale dramatique) se termine brusquement.
 

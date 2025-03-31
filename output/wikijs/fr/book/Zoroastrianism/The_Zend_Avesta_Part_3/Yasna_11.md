@@ -36,7 +36,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 [^1014].
 
-1\. Trois créatures pures (pleines de bénédictions) maudissent de bon cœur tout en invoquant encore la vache, le cheval, puis H(a)oma. La vache crie à son conducteur [^1015] ainsi : <span id="p245">[<sup><small>p. 245</small></sup>]</span> Sois sans enfant, dépouillé de toute progéniture, de mauvaise réputation et calomnié, toi qui as nourri [^1016] équitablement, tu ne me traites pas, mais tu m'engraisses pour femme ou enfants, et pour ton avare et égoïste repas.
+1\. Trois créatures pures (pleines de bénédictions) maudissent de bon cœur tout en invoquant encore la vache, le cheval, puis H(a)oma. La vache crie à son conducteur [^1015] ainsi : <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> Sois sans enfant, dépouillé de toute progéniture, de mauvaise réputation et calomnié, toi qui as nourri [^1016] équitablement, tu ne me traites pas, mais tu m'engraisses pour femme ou enfants, et pour ton avare et égoïste repas.
 
 2\. Le cheval crie ainsi à son cavalier : Ne sois pas un obstacle [^1017] aux courses ; ne pousse pas les coureurs à toute vitesse ; ne traverse pas les plus rapides, toi qui ne me pries pas de rapidité dans la rencontre dense en nombre, dans le circuit bondé d'hommes.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 6\. Dans sa demeure ne naît aucun prêtre du feu, jamais guerrier debout sur un char, jamais plus cultivateur économe. Dans sa demeure naissent des Dahâkas, des Mûrakas aux pratiques mauvaises, accomplissant des actes de double nature.
 
-7\. Vite, coupe donc la part d'H(a)oma, don de chair pour le vaillant H(a)oma ! Prends garde qu'H(a)oma <span id="p246">[<sup><small>p. 246</small></sup>]</span> ne te lie aux fers, comme il a lié le cruel Frangrasyan [^1020] touranien (le brigand meurtrier) fermement encerclé de fer au milieu du tiers [^1021] de cette terre ! 8. Alors Zarathu<i>s</i>tra [^1022] parla : Louange à H(a)oma créé par Mazda, bon est H(a)oma créé par Mazda.
+7\. Vite, coupe donc la part d'H(a)oma, don de chair pour le vaillant H(a)oma ! Prends garde qu'H(a)oma <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> ne te lie aux fers, comme il a lié le cruel Frangrasyan [^1020] touranien (le brigand meurtrier) fermement encerclé de fer au milieu du tiers [^1021] de cette terre ! 8. Alors Zarathu<i>s</i>tra [^1022] parla : Louange à H(a)oma créé par Mazda, bon est H(a)oma créé par Mazda.
 
 ---
 
@@ -56,7 +56,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ---
 
-10\. [^1026]À toi, ô saint H(a)oma ! porteur de la sainteté rituelle, j'offre ma personne qui est vue (par tous comme étant) mature (et apte au don) ; à H(a)oma l'efficace je l'offre, et à l'exaltation sacrée qu'il confère ; et accorde-moi (pour cela), ô saint H(a)oma ! toi qui chasses la mort au loin, (le Ciel) le meilleur monde des saints, brillant, tout éclatant. <span id="p247">[<sup><small>p. 247</small></sup>]</span> 11\. (L'Ashem Vohû, etc.)
+10\. [^1026]À toi, ô saint H(a)oma ! porteur de la sainteté rituelle, j'offre ma personne qui est vue (par tous comme étant) mature (et apte au don) ; à H(a)oma l'efficace je l'offre, et à l'exaltation sacrée qu'il confère ; et accorde-moi (pour cela), ô saint H(a)oma ! toi qui chasses la mort au loin, (le Ciel) le meilleur monde des saints, brillant, tout éclatant. <span id="p247"><sup><small>[ p. 247 ]</small></sup></span> 11\. (L'Ashem Vohû, etc.)
 
 12-15. Puisses-tu gouverner à ta volonté, ô Seigneur [^1027] !
 

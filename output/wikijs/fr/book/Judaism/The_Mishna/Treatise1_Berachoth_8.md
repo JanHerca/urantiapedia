@@ -34,7 +34,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 ### CHAPITRE VIII.
 
-§ 1. Voici les points relatifs aux repas, sur lesquels les écoles de Shammaï et de Hillel diffèrent. Beth Shammaï <span id="p11">[<sup><small>p. 11</small></sup>]</span> soutient que lors des fêtes, l'homme doit d'abord dire la bénédiction du jour, puis celle sur le vin : tandis que, selon Beth Hillel, il doit d'abord dire la bénédiction sur le vin, puis celle du jour.
+§ 1. Voici les points relatifs aux repas, sur lesquels les écoles de Shammaï et de Hillel diffèrent. Beth Shammaï <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> soutient que lors des fêtes, l'homme doit d'abord dire la bénédiction du jour, puis celle sur le vin : tandis que, selon Beth Hillel, il doit d'abord dire la bénédiction sur le vin, puis celle du jour.
 
 § 2. Beth Shammaï dit qu'il faut d'abord se laver les mains, puis remplir la coupe [pour la bénédiction]. Beth Hillel, quant à elle, dit qu'il faut d'abord remplir la coupe, puis se laver les mains.
 

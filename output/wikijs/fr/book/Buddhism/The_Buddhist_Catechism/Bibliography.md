@@ -29,7 +29,7 @@ dateCreated: 2025-2-6T11:21:13Z
   </table>
 </figure>
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Le _Catéchisme bouddhiste_ a été compilé à partir d'études personnelles à Ceylan, et en partie à partir des ouvrages suivants :
 
@@ -51,7 +51,7 @@ _Bouddhisme_ | Rhys Davids.
 _Dhammapada_ | Fausboll et Max Müller.
 _Histoire romantique de Bouddha_ | Beal.
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 |  
 --- | ---

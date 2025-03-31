@@ -147,7 +147,7 @@ Pardonnez-moi, car je dois partir.
 Autrefois Kaudu, puissant saint, qui fit
 Sa demeure à l'ombre de la forêt,
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 Une vache – et il connaissait les exigences du devoir –
 Obéissant à son père, il tua.
@@ -272,7 +272,7 @@ Vas-y avec moi en exil ?
 Maintenant, mère, hâte ton départ de ton fils,
 Et que ta bénédiction apaise ma douleur,
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 Afin que je puisse me retourner, mon exil terminé,
 Comme le roi Yayáti, de retour à la maison.
@@ -395,7 +395,7 @@ Des gouttes qui font des rois tombent sur ma tête,
 Shall, avec leurs pures lustrations maintenant
 Inaugure mon vœu d'ermite.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Mais qu'ai-je à faire avec les choses
 Qui touche à l'état et au faste des rois ?
@@ -511,7 +511,7 @@ Alors si leurs esprits sont oisifs
 Pour te condamner, Roi, au bannissement,
 Au cours de deux ou sept années d'exil, ils
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 Je resterai dans la forêt solitaire.
 Je consumerai les espoirs qui brûlent
@@ -636,7 +636,7 @@ Au plus profond de mon âme, j'ai senti le feu,
 Dont les offrandes coulaient des yeux en pleurs,
 Avec du carburant nourri de gémissements et de soupirs,
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 Tandis qu'autour de la flamme la fumée devenait chaude
 De larmes parce que tu n'es pas sérieux.
@@ -766,7 +766,7 @@ Elle dit à son cher fils :
 Invoquant avec chaque pensée ardente
 Que sa tête soit bénie.
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 
 
@@ -875,7 +875,7 @@ Pour le bonheur et la santé de Rama, le prêtre,
 Debout sans donner ce qui restait
 En offrande générale, [^299] comme ordonné.
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Trafic parmi le train à deux cornes
 Du miel, du lait caillé, de l'huile et des céréales,
@@ -997,7 +997,7 @@ Avec des gouttes humides, elle vit son chagrin,
 Et pleura, consumé par les feux du malheur.
 « Qu'est-ce qui t'a changé ainsi, ô mon seigneur ?
 
-<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+<span id="p126"><sup><small>[ p. 126 ]</small></sup></span>
 
 Vrihaspati regarde vers le bas avec bienveillance,
 Et la lune se repose dans le signe de Pushya,
@@ -1123,7 +1123,7 @@ Cette pensée a engendré du mépris à mon égard.
 Ô meilleur des héros, je congédie
 Avec un mépris amer, un discours comme celui-ci :
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 Indigne de la renommée d'un guerrier
 Cela souille le fils d'un monarque de honte,
@@ -1248,7 +1248,7 @@ Répond aux torrents qui déferlent,
 Et sa voix de terreur retentit :
 Le bois, mon amour, est plein de malheurs.
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 Là, de puissants monstres jouent sans peur,
 Et dans leur attaque folle, ils tuent
@@ -1372,7 +1372,7 @@ Mais ils perturbent la vie de ceux
 Qui habite dans la forêt, et ne tient pas
 Leurs sens rebelles sont bien contrôlés.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 Dans les salles de mon père, avant mon mariage,
 J'ai entendu une dame qui mendiait son pain
@@ -1488,7 +1488,7 @@ Mon père, ma maison, ou tout ce que je laisse.
 Ma présence, mon amour, n'ajoutera rien
 Une douleur qui rend le cœur plus triste ;
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 Je ne te causerai ni chagrin ni souci,
 Ne soyez pas un fardeau difficile à porter.
@@ -1612,7 +1612,7 @@ Parmi nos disciples, divisez-vous ensuite.
 Elle était consciente que son seigneur approuvait
 Son départ, avec un grand ravissement,
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 Hâté à l'intérieur, sans délai,
 Prêts à donner leur richesse.

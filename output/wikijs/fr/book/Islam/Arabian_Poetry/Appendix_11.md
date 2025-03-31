@@ -79,7 +79,7 @@ v. 27. Il semble quelque peu étrange que le poète compare une autruche à un e
 
 M. Redhouse remarque que « nous ne pouvons que conjecturer pourquoi le poète a comparé les plumes d’autruche à un long vêtement de fourrure. Les esclaves étaient alors des nègres et peut-être, étant originaires d’Afrique et sensibles au froid, portaient-ils des fourrures (de mouton ?). La longueur exacte que le poète entend par « long » dépendrait du type de veste ou de robe de fourrure portée par les esclaves dans les camps du désert. Vingt pouces sont _long_ alors que douze sont habituels. »
 
-<span id="p394">[<sup><small>p. 394</small></sup>]</span>
+<span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
 v. 42. La comparaison dans le deuxième hémistiche est ainsi rendue par le professeur Palmer :
 
@@ -102,7 +102,7 @@ Sa forme est plus belle que celle de la jeune gazelle !
 
 Selon la traduction de Sir William Jones, la jeune fille informe simplement Antara qu’elle a trouvé « les gardes hostiles négligents de leur surveillance » et que la dame pourrait donc être facilement visitée ; et nous devons supposer qu’Antara, apprenant ainsi que « la voie était libre », pour ainsi dire, se rendit immédiatement chez la dame, qui, en le voyant, « se tourna vers lui avec le cou d’un jeune chevreuil ». — M. Redhouse pense que « les positions variables qu’occupent ces vers dans différentes éditions rendent presque impossible de juger si sa bien-aimée se tourna vers Antara ou vers la jeune fille envoyée. Les mots se lisent comme si la jeune fille se tournait vers Antara ; mais ce n’est pas le sens probable ». — Le fat bédouin Amarah, dans le roman d’Antar, envoie une esclave dans une mission similaire – pour lui rendre compte des charmes personnels d’Abla : voir page [209](./Antar_13#p209) du présent volume.
 
-<span id="p395">[<sup><small>p. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 v. 70. « Faites voler rapidement de chaque crâne les oiseaux perchés dans le cerveau. » Parmi les anciens Arabes, la croyance était répandue que du sang près du cerveau d'une personne morte se formait un oiseau, appelé Hamah (Carlyle l'appelle _Manah_, mais c'était le nom d'une idole de pierre adorée par les Arabes païens), qui se posait sur la tombe du défunt et poussait des cris plaintifs. Ceci semble être évoqué dans Job, xxi., 32, que Carlyle traduit ainsi :
 

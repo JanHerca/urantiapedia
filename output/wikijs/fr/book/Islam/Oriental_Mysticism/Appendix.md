@@ -32,7 +32,7 @@ dateCreated: 2024-11-10T11:17:18Z
   </table>
 </figure>
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span> p. 69
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span> p. 69
 
 ## GLOSSAIRE DES EXPRESSIONS TECHNIQUES ET ALLÉGORIQUES EN USAGE CHEZ LES POÈTES SÚFIS.
 
@@ -52,7 +52,7 @@ A. _alast_. « N'es-tu pas ? » Les mots prononcés par la voix de Dieu : « N'e
 
 A. _anáníyat_. Égotisme.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 P. _angusht_. Doigt. La puissance omnisciente de Dieu.
 
@@ -76,7 +76,7 @@ A. _baitu ’l harám_. Le Saint des Saints. Dans la poésie soufie, il représe
 
 A. _baitu ’l mucaddas_. La Maison de la Sainteté. Utilisé habituellement pour désigner le Temple de Jérusalem, mais dans le langage soufi, un cœur non pollué par l’amour terrestre.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 P. _pákbází_. Pureté. Inclination vers la sainteté sans attendre de récompense ou de promotion, mais plutôt en recherchant Dieu pour lui-même.
 
@@ -100,7 +100,7 @@ P. _ján_. Âme. Chéri. Les manifestations du Bien-aimé (Dieu).
 
 P. _jánán_. Chérie des chéries. Une maîtresse constante. Dieu, la concentration de la stabilité.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 A. _jáhil_. Ignorant. Mondain.
 
@@ -122,7 +122,7 @@ P. _chashm_. L'œil. La beauté de Joseph.
 
 A. _hajj_. Pèlerinage. La poursuite du voyage par la seule dévotion. Voir Partie I. Chapitre IV.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 A. _hál_. État. Extase. L'état béatifique provoqué par la contemplation continue de Dieu. Ceci est considéré comme un don divin et un pronostic sûr d'arriver rapidement à la Vérité.
 
@@ -144,7 +144,7 @@ P. _kharábát_. Taverne. La scène dans laquelle le voyageur est immergé dans 
 
 A. _khirkah_. Le vêtement rapiécé et en lambeaux d'un reclus religieux. Beauté et solidité des principes.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 A.P. _khatt i sabz_. Verdure. Du duvet apparaissant sur la joue. L'état des limbes, _barzakh_ (cf. Coran de Sale, chap. XXIII. note u).
 
@@ -164,7 +164,7 @@ A. _dunyá_. Le monde. Tout ce qui empêche l'homme de rechercher Dieu.
 
 A. _dair_. Monastère. Le monde de l'humanité.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 A. _dín_. Religion. Croyance issue de l'étape appelée _tafrikah_, q.v.
 
@@ -188,7 +188,7 @@ P. _zanakh_. Le menton. Le point où l'on voit Dieu.
 
 A. _zuhd_. Abstinence. Renoncer au monde extérieur et s'abandonner entièrement à la contemplation.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 A. _sá 'id_. Arm. L'attribut de puissance de Dieu.
 
@@ -214,7 +214,7 @@ P. _shor_. Perturbation. Bruit. Relations entre Dieu et l'homme.
 
 A. _shuhúd_. Regard. La vision sans obstruction de la Divinité.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 A. _sabá_. Le Zéphyr. Les souffles de l'Esprit.
 
@@ -240,7 +240,7 @@ A. _faná_. Disparition. L'annihilation totale de soi dans la contemplation de D
 
 A. _faná e tamám_. Disparition complète. Anéantissement total et absorption de soi dans la contemplation de Dieu. Mort.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 A. _cátil_. Tueur. Première manifestation du désir de la part de l'homme et de l'attraction de la part de Dieu.
 
@@ -264,7 +264,7 @@ A. _kufr_. L'incrédulité. L'obscurité des stations sur la route.
 
 P. _kinár_. Embrasse. Découverte des mystères de la Divinité.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 P. _gúsh_. Oreille. Capacité de recevoir les paroles de Dieu en poursuivant la connaissance. Parfois, cela signifie la connaissance elle-même, exotérique et ésotérique.
 
@@ -284,7 +284,7 @@ A. _misál_. Fiction. L'étape dans laquelle le voyageur parvient à une compré
 
 A. _makkmúrí_. Ivresse. Retour du stade appelé _wusúl_ (voir _wasl_), en guise de cessation.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 A. _murákibeh_ Observation. Rejetant les conventions et pénétrant profondément dans les vérités de la religion.
 
@@ -312,7 +312,7 @@ P. _miyán_. Milieu. Taille. L'état du Voyageur quand rien ne lui reste pour lu
 
 P. _mai khána_. Taverne. Le domaine de l'Amour Divin.
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 P. _maikedeh_. Maison de vin. Étape du voyage où l'inclination se transforme en amour par l'effet de la prière (voir Partie I. Chap. V.).
 

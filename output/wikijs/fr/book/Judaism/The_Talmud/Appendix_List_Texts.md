@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 Livre. | Chapitre. | Verset. | Page.
 --- | ---: | ---: | ---:
@@ -109,7 +109,7 @@ Exode | v. | 2 | [333](Treatise17_4#p333)
 &nbsp; | xxxii. | 16 | [237](Treatise12_6#p237)
 &nbsp; | xxxiv. | 19 | [42](Introduction_6#p42)
 &nbsp; | xxxiv. | 21 | [63](Treatise2_1#p63)
-&nbsp; | xxxviii. | 1 | [351](Treatise18_11#p351) <span id="p376">[<sup><small>p. 376</small></sup>]</span>
+&nbsp; | xxxviii. | 1 | [351](Treatise18_11#p351) <span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 &nbsp; | xxxviii. | 14, 15 | [340](Treatise18_4#p340)
 &nbsp; | xxxviii. | 27 | [335](Treatise18_1#p335)
 &nbsp; | xxxix. | 3 | [339](Treatise18_3#p339)
@@ -207,7 +207,7 @@ Nombres | ii. | 17 | [354](Treatise18_12#p354), [356](Treatise18_13#p356)
 &nbsp; | xix. | 3, 9, 10 | [305](Treatise16_3#p305)
 &nbsp; | xix. | 9 | [306](Treatise16_3#p306)
 &nbsp; | xix. | 14 | [8](Introduction_1#p8)
-&nbsp; | xix. | 15 | [295](Treatise15_13#p295), [306](Treatise16_3#p306), [318](Treatise16_10#p318), [324](Treatise17_1#p324) <span id="p377">[<sup><small>p. 377</small></sup>]</span>
+&nbsp; | xix. | 15 | [295](Treatise15_13#p295), [306](Treatise16_3#p306), [318](Treatise16_10#p318), [324](Treatise17_1#p324) <span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 &nbsp; | xix. | 18 | [85](Treatise3_1#p85)
 &nbsp; | xxi. | 8 | [155](Treatise7_3#p155)
 &nbsp; | xxi. | 19 | [237](Treatise12_6#p237)
@@ -301,7 +301,7 @@ Ruth | ii. | 4 | [61](Treatise1_9#p61)
 &nbsp; | xi. | 11 | [343](Treatise18_6#p343)
 &nbsp; | xii. | 8 | [179](Treatise10_2#p179)
 &nbsp; | xxii. | 27 | [32](Introduction_5#p32)
-&nbsp; | xxiv. | 9 | [43](Introduction_6#p43) <span id="p378">[<sup><small>p. 378</small></sup>]</span>
+&nbsp; | xxiv. | 9 | [43](Introduction_6#p43) <span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 1 Rois | vi. | 5 | [371](Appendix_Plan_Temple#p371)
 &nbsp; | vi. | 6 | [263](Treatise14_4#p263)
 &nbsp; | vii. | 23, 26 | [352](Treatise18_11#p352)
@@ -398,7 +398,7 @@ Proverbes | i. | 9 | [239](Treatise12_6#p239)
 &nbsp; | viii. | 14 | [236](Treatise12_5#p236)
 &nbsp; | viii. | 21 | [235](Treatise12_5#p235)
 &nbsp; | viii. | 22 | [240](Treatise12_6#p240)
-&nbsp; | xi. | 10 | [185](Treatise10_4#p185) <span id="p379">[<sup><small>p. 379</small></sup>]</span>
+&nbsp; | xi. | 10 | [185](Treatise10_4#p185) <span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 &nbsp; | xi. | 13 | [182](Treatise10_3#p182)
 &nbsp; | xi. | 22 | [237](Treatise12_6#p237)
 &nbsp; | xvi. | 31 | [239](Treatise12_6#p239)
@@ -496,7 +496,7 @@ Saint Marc. | vii. | 2, 5 | [139](Treatise6_2#p139)
 &nbsp; | xii. | 1 | [368](Appendix_Plan_Temple#p368)
 &nbsp; | xiv. | ... | [185](Treatise10_4#p185)
 Saint Luc | i. | 9 | [121](Treatise5_2#p121),[250](Treatise13_4#p250)
-&nbsp; | xxi. | 2 | [368](Appendix_Plan_Temple#p368) <span id="p380">[<sup><small>p. 380</small></sup>]</span>
+&nbsp; | xxi. | 2 | [368](Appendix_Plan_Temple#p368) <span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 &nbsp; | xxii. | 17 | [116](Treatise4_9#p116)
 &nbsp; | xxii. | ... | [184](Treatise10_4#p184)
 &nbsp; | xxiii. | ... | [184](Treatise10_4#p184)

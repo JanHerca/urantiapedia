@@ -42,7 +42,7 @@ Augmente mes douleurs et mes lamentations ; aide-moi à pleurer jusqu'à ce que 
 
 Pleure aussi des excès que j'endure ; n'aie pas peur, protège seulement les arbres du souffle de mes soupirs brûlants.
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 Ne me quitte pas jusqu'à ce que je meure d'amour, victime de la passion, de l'absence et de la séparation !
 

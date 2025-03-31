@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 4, SECTION 12.
 
@@ -42,7 +42,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. [^563] « Tu es un cheval, tu es un coursier » — avec ces onze « noms de chevaux » (Taitt. Sa<i>m</i>h. VII, 1, 12) (il monte) le cheval, s'il (a l'intention d'entrer dans le village) à cheval.
 
-4\. [^564] Avec (la formule) : « Avec la foudre d'Indra, je te chevauche ; porte-moi ; porte le temps ; porte-moi vers la félicité. Tu es un éléphant. Tu es la gloire de l'éléphant. Tu es la splendeur de l'éléphant. Puissé-je être doté de la gloire de l'éléphant, de la splendeur de l'éléphant » — (il monte) l'éléphant, s'il (a l'intention de se rendre au village) dessus. <span id="p171">[<sup><small>p. 171</small></sup>]</span>
+4\. [^564] Avec (la formule) : « Avec la foudre d'Indra, je te chevauche ; porte-moi ; porte le temps ; porte-moi vers la félicité. Tu es un éléphant. Tu es la gloire de l'éléphant. Tu es la splendeur de l'éléphant. Puissé-je être doté de la gloire de l'éléphant, de la splendeur de l'éléphant » — (il monte) l'éléphant, s'il (a l'intention de se rendre au village) dessus. <span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 5\. [^565] Il va dans un lieu où on lui fera honneur.
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 13\. Après avoir versé du caillé dans un vase en laiton, il y verse du miel (et ensuite les autres substances mentionnées ci-dessus).
 
-14\. [^567] Après avoir versé (ces substances) dans un récipient plus petit, et l'avoir recouvert d'un couvercle plus grand que le récipient, (l'hôte) fait accepter (à l'invité) (les choses suivantes) séparément, l'une après l'autre, à savoir une touffe d'herbe (pour s'asseoir), <span id="p172">[<sup><small>p. 172</small></sup>]</span> de l'eau pour se laver les pieds, l'eau d'Argha, l'eau à siroter et le mélange de miel (Madhuparka).
+14\. [^567] Après avoir versé (ces substances) dans un récipient plus petit, et l'avoir recouvert d'un couvercle plus grand que le récipient, (l'hôte) fait accepter (à l'invité) (les choses suivantes) séparément, l'une après l'autre, à savoir une touffe d'herbe (pour s'asseoir), <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> de l'eau pour se laver les pieds, l'eau d'Argha, l'eau à siroter et le mélange de miel (Madhuparka).
 
 15\. [^568] Allant après (les objets individuels qui sont apportés à l'invité, à l'hôte) d'une voix impeccable, sans hésitation (?), annonce (chacun de ces objets à l'invité).
 
@@ -79,7 +79,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## PA<i>T</i>ALA 4, SECTION 13.
 
-1\. [^571] Avec (la formule), « Tu es le lait de Virâ<i>g</i>. Que le lait de Padyâ Virâ<i>g</i> (habite) en moi » — (l'invité) touche les mains de la personne qui <span id="p173">[<sup><small>p. 173</small></sup>]</span> lui lave les pieds, puis il se touche avec (la formule), « Qu'en moi habitent l'éclat, l'énergie, la force, la vie, la renommée, la splendeur, la gloire, la puissance ! »
+1\. [^571] Avec (la formule), « Tu es le lait de Virâ<i>g</i>. Que le lait de Padyâ Virâ<i>g</i> (habite) en moi » — (l'invité) touche les mains de la personne qui <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> lui lave les pieds, puis il se touche avec (la formule), « Qu'en moi habitent l'éclat, l'énergie, la force, la vie, la renommée, la splendeur, la gloire, la puissance ! »
 
 2\. (L'hôte) lui fait alors l'annonce : « L'eau d'Argha ! »
 
@@ -93,7 +93,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. Puis il lui annonce : « Le mélange de miel ! »
 
-8\. [^575] Il accepte cela avec les deux mains avec le Sâvitra (formule), et le place sur le sol avec (la formule), 'Je te place sur le nombril de la terre dans la demeure d'I<i>d</i>â.' Il mélange (les différentes substances) trois fois de gauche à droite avec son pouce et son quatrième doigt, avec (la formule), 'Quelle est la forme la plus élevée du miel qui consiste dans le plaisir de la nourriture, par cette forme la plus élevée du miel, <span id="p174">[<sup><small>p. 174</small></sup>]</span> puis-je devenir le plus élevé, le plus doux, et un amateur de nourriture.' Il en prend trois fois avec (la formule), 'Je te mange pour l'amour de l'éclat, de la chance, de la gloire, du pouvoir et du plaisir de la nourriture', et donne le reste à une personne qui est bien disposée envers lui.
+8\. [^575] Il accepte cela avec les deux mains avec le Sâvitra (formule), et le place sur le sol avec (la formule), 'Je te place sur le nombril de la terre dans la demeure d'I<i>d</i>â.' Il mélange (les différentes substances) trois fois de gauche à droite avec son pouce et son quatrième doigt, avec (la formule), 'Quelle est la forme la plus élevée du miel qui consiste dans le plaisir de la nourriture, par cette forme la plus élevée du miel, <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> puis-je devenir le plus élevé, le plus doux, et un amateur de nourriture.' Il en prend trois fois avec (la formule), 'Je te mange pour l'amour de l'éclat, de la chance, de la gloire, du pouvoir et du plaisir de la nourriture', et donne le reste à une personne qui est bien disposée envers lui.
 
 9\. [^576] Ou il peut le manger en entier (Madhuparka). Puis il boit de l'eau avec (la formule) : « Tu es l'enveloppe d'ambroisie. »
 
@@ -111,7 +111,7 @@ La mère des Rudras, la fille des Vasus, la sœur des Âdityas, le nombril de l'
 
 13\. [^578] Si on la tue, (il dit) : « Tu es une vache ; le péché est chassé de toi. Chasse mon péché et le péché de NN ! Tuez quiconque me hait. Il est tué quiconque me hait. Préparez (la vache) ! »
 
-14\. [^579] Si (la vache) est lâchée, un repas est préparé avec d'autres viandes, et il l'annonce (à l'invité) en ces termes : « C'est prêt ! » <span id="p175">[<sup><small>p. 175</small></sup>]</span>
+14\. [^579] Si (la vache) est lâchée, un repas est préparé avec d'autres viandes, et il l'annonce (à l'invité) en ces termes : « C'est prêt ! » <span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 15\. Il répond : « C'est bien préparé ; c'est le Virâ_g_ ; c'est de la nourriture. Puisse-t-il ne pas manquer ! Puissé-je l'obtenir ! Puisse-t-il me donner de la force ! C'est bien préparé ! » — et ajoute : « Donnez de la nourriture aux Brâhma<i>n</i>as ! »
 
@@ -133,7 +133,7 @@ La mère des Rudras, la fille des Vasus, la sœur des Âdityas, le nombril de l'
 
 3\. Il dépose la corne de l'animal vivant dans un endroit généralement accessible.
 
-4\. [^582] Celui dont les compagnons, les élèves ou les serviteurs ont l'habitude de s'enfuir devrait les réprimander avec (le mantra) : « Que celui qui appelle ici (?), vous appelle ici ! Celui qui ramène, vous a ramené (?). Que la réprimande d'Indra vous réprimande toujours. Si vous, qui adorez votre propre tromperie, me méprisez (?), […] qu'Indra vous lie de son lien, et puisse-t-il vous ramener à moi. » <span id="p177">[<sup><small>p. 177</small></sup>]</span>
+4\. [^582] Celui dont les compagnons, les élèves ou les serviteurs ont l'habitude de s'enfuir devrait les réprimander avec (le mantra) : « Que celui qui appelle ici (?), vous appelle ici ! Celui qui ramène, vous a ramené (?). Que la réprimande d'Indra vous réprimande toujours. Si vous, qui adorez votre propre tromperie, me méprisez (?), […] qu'Indra vous lie de son lien, et puisse-t-il vous ramener à moi. » <span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 5\. Puis il entre dans sa maison, met un morceau de bois de Sidhraka sur (le feu) et sacrifie avec le « verset qui attire », « Ramenez-les, ramenez-les » (Taitt. Sa<i>m</i>h. III, 3, 10, 1).
 
@@ -165,7 +165,7 @@ La mère des Rudras, la fille des Vasus, la sœur des Âdityas, le nombril de l'
 
 6\. [^587] Puis, en présence (de son adversaire), tourné vers lui, il murmure (les versets) : « J'enlève la parole de ta bouche, (la parole) qui habite ton esprit, (la parole) de ton cœur. De chaque membre, j'enlève ta parole. Partout où ta parole habite, de là, je l'enlève. »
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 Rudra aux cheveux noirs ! Héros ! À chaque combat, abats mon adversaire, comme un arbre est abattu par la foudre.
 

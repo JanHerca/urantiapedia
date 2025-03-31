@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 SIXIÈME ADHYÂYA.
 
@@ -48,7 +48,7 @@ SIXIÈME ADHYÂYA.
 
 5\. Et ce Soi, constitué de (connaissance), est Brahman (m.) [^609], il est Indra, il est Pra<i>g</i>âpati [^610]. Tous ces Devas, ces cinq grands éléments, la terre, l'air, l'éther, l'eau, le feu, ceux-ci et ceux qui sont, pour ainsi dire, petits et mélangés [^611], et les graines de cette sorte et de cette autre sorte, nées d'œufs, nées de l'utérus, nées de la chaleur, nées de germes [^612], les chevaux, les vaches, les hommes, les éléphants, et tout ce qui respire, qu'il marche ou qu'il vole, et ce qui est immobile – tout cela est conduit (produit) par la connaissance (le Soi).
 
-6\. Il repose sur la connaissance (le Soi). Le monde <span id="p246">[<sup><small>p. 246</small></sup>]</span> est dirigé (produit) par la connaissance (le Soi). La connaissance en est la cause [^613].
+6\. Il repose sur la connaissance (le Soi). Le monde <span id="p246"><sup><small>[ p. 246 ]</small></sup></span> est dirigé (produit) par la connaissance (le Soi). La connaissance en est la cause [^613].
 
 7\. La connaissance est Brahman. (3)
 

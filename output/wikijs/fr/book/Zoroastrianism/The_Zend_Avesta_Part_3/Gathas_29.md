@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 LES GÂTHAS.
 
@@ -44,11 +44,11 @@ Ce chapitre, le deuxième des manuscrits du Gâtha Ahunavaiti, est placé ici da
 
 2\. Ahura répond par une question à Asha, l'Ordre Juste personnifié, quant au gardien qu'il avait désigné pour repousser la fureur qui l'assaille, insinuant qu'un chef aurait dû être placé à sa tête à l'origine, qui aurait évité ses misères, formé son peuple au travail régulier du sol et à l'habileté bucolique, et repoussé les raids destructeurs.
 
-3\. Asha répond que ses souffrances étaient inévitables, qu'aucun chef ne pouvait être nommé pour les empêcher, car nul n'était exempt d'injustice et de ressentiment passionné. Il ne pouvait expliquer pourquoi il en était ainsi. La question, impliquant le problème insoluble de l'origine du mal, était à la base des influences qui font bouger les étoiles du destin ; que la révélation religieuse apportée par le Ratu (comme dans <span id="p4">[<sup><small>p. 4</small></sup>]</span> chapitre XXX) était destinée à répondre à ces problèmes dans la mesure où ils pouvaient l'être [^36], et que par conséquent tous ceux qui s'engageaient dans des entreprises actives s'adressaient non pas à lui, Asha, l'archange subordonné, mais à Mazda lui-même, qui était le plus grand des êtres, et seul capable de répondre à leurs prières et à leurs questions.
+3\. Asha répond que ses souffrances étaient inévitables, qu'aucun chef ne pouvait être nommé pour les empêcher, car nul n'était exempt d'injustice et de ressentiment passionné. Il ne pouvait expliquer pourquoi il en était ainsi. La question, impliquant le problème insoluble de l'origine du mal, était à la base des influences qui font bouger les étoiles du destin ; que la révélation religieuse apportée par le Ratu (comme dans <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> chapitre XXX) était destinée à répondre à ces problèmes dans la mesure où ils pouvaient l'être [^36], et que par conséquent tous ceux qui s'engageaient dans des entreprises actives s'adressaient non pas à lui, Asha, l'archange subordonné, mais à Mazda lui-même, qui était le plus grand des êtres, et seul capable de répondre à leurs prières et à leurs questions.
 
 4. Zarathustra [^37], poétiquement conçu pour être présent, intervient ici pour réaffirmer l'hommage que vient de rendre Asha. Il déclare qu'Ahura Mazda est lui-même le plus conscient de toutes les affirmations et directives précédemment révélées, émises par lui-même, et accomplies dans les actions des dieux-démons, de leurs ennemis et des hommes bons ou mauvais. On dit aussi qu'il est pleinement conscient de ce qu'ils feront dans le futur, et qu'il distingue le bien du mal, tel un juge infaillible, nous attribuant à tous notre destinée en souffrances ou en récompenses futures. 5. S'adressant à Ahura et Asha, et s'unissant à l'Âme du Veau dans sa supplication, il interroge Mazda dans son doute, et non dans une confiance paisible, comme plus loin dans l'impressionnant hymne, dont chaque verset commence par les mots : « Je te le demande, à juste titre, Ahura ! Dis-le-moi ! » Mais, se dépréciant de lui-même et constructivement de la part des Vaches, la destruction imminente qu'il voit s'abattra justement sur les méchants, frappés par la vengeance discriminante reconnue comme l'attribut d'Ahura (voir verset 4). 6. Enfin, Ahura, montrant l'intention de ses questions, y répond lui-même ; aucun seigneur régulateur en pleine sympathie avec l'Ordre Juste n'avait encore été découvert ou découvrable, mais Il fera lui-même une sélection. Il déclare donc lui-même nommer solennellement Zarathoustra à cette fonction.
 
-Et Zarathoustra, inspiré par Son Bon Esprit et guidé par Sa droiture, accomplira plus que ce qui a été fait jusqu'à présent pour rallier la communauté économe et établir sa politique vertueuse sur la base souhaitée d'entraînement et de défense. 7. De même que Zarathoustra est un auditeur dans le colloque entre la Déité, l'Âme du Veau, et Asha, l'Ordre Juste, de même les autres Immortels à côté d'Asha [^38] se joignent ici, comme si la nomination qui vient d'être faite n'avait pas été entendue, ou était incroyable (voir ci-dessous). Mazda est en effet déclaré avoir révélé la Parole-de-raison sacrée en harmonie avec la Droiture consentante, et avoir fourni de la nourriture au Veau et <span id="p5">[<sup><small>p. 5</small></sup>]</span> les consommateurs nécessiteux, mais qui était là, doté de manière adéquate du Bon Esprit, qui pouvait promulguer ce Mãthra avec ses instructions révélées quant à la subsistance du corps et de l'esprit ?
+Et Zarathoustra, inspiré par Son Bon Esprit et guidé par Sa droiture, accomplira plus que ce qui a été fait jusqu'à présent pour rallier la communauté économe et établir sa politique vertueuse sur la base souhaitée d'entraînement et de défense. 7. De même que Zarathoustra est un auditeur dans le colloque entre la Déité, l'Âme du Veau, et Asha, l'Ordre Juste, de même les autres Immortels à côté d'Asha [^38] se joignent ici, comme si la nomination qui vient d'être faite n'avait pas été entendue, ou était incroyable (voir ci-dessous). Mazda est en effet déclaré avoir révélé la Parole-de-raison sacrée en harmonie avec la Droiture consentante, et avoir fourni de la nourriture au Veau et <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> les consommateurs nécessiteux, mais qui était là, doté de manière adéquate du Bon Esprit, qui pouvait promulguer ce Mãthra avec ses instructions révélées quant à la subsistance du corps et de l'esprit ?
 
 8\. Ahura répète son annonce de Zarathustra, comme pour faire taire les objections.
 
@@ -62,7 +62,7 @@ Et tandis qu'il prie, il exprime sa confiance inébranlable en Ahura plutôt qu'
 
 11\. Puis, comme s'il désirait recevoir immédiatement tout son équipement, il implore non seulement l'Ordre Juste, la Puissance Royale de Dieu et Son Esprit Bienveillant pour les masses représentées par les Vaches, mais demande aussi quand elles viendront à lui et se hâteront ; et il supplie Ahura de lui accorder immédiatement et largement son aide pour la grande cause, à lui-même et à ses associés. (Il est singulier que le nom d'Âramaiti n'apparaisse pas dans cette section.)
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Traduction.
 
@@ -72,19 +72,19 @@ Traduction.
 
 Ahura parle.
 
-2\. Sur ce, le Créateur [^44] des vaches (les troupeaux sacrés <span id="p7">[<sup><small>p. 7</small></sup>]</span>) demanda à la Justice [^45] : Comment (as-tu été) choisi par toi comme gardien des vaches, alors que, comme ayant pouvoir (sur tout son destin), tu l'as faite ? (De quelle manière lui as-tu assuré) avec pâturage un chef de bétail à la fois habile et énergique ? Qui as-tu choisi [^46] comme maître (de sa vie) pour repousser la fureur des méchants [^47] ?
+2\. Sur ce, le Créateur [^44] des vaches (les troupeaux sacrés <span id="p7"><sup><small>[ p. 7 ]</small></sup></span>) demanda à la Justice [^45] : Comment (as-tu été) choisi par toi comme gardien des vaches, alors que, comme ayant pouvoir (sur tout son destin), tu l'as faite ? (De quelle manière lui as-tu assuré) avec pâturage un chef de bétail à la fois habile et énergique ? Qui as-tu choisi [^46] comme maître (de sa vie) pour repousser la fureur des méchants [^47] ?
 
 Asha répond.
 
 3\. À Lui (la Justice Divine) répondit par [^48] sa sainteté. (Grande était notre perplexité) ; un chef qui guerroyait capable de frapper [^49] en retour (leur fureur), et qui était lui-même sans haine (ne devait pas être obtenu par nous) ; parmi de telles choses, celles qui ne doivent pas être connues (par des êtres tels que nous) sont les influences qui s'approchent [^50] (et déplacent) les feux élevés [^51] (révélant la faveur et la volonté de Dieu [^52]).
 
-Parmi les êtres, Il est le plus puissant, celui vers lequel ceux [^53] <span id="p8">[<sup><small>p. 8</small></sup>]</span> qui ont accompli leurs actions s'approchent avec des invocations. (Il n'a pas besoin de demander !)
+Parmi les êtres, Il est le plus puissant, celui vers lequel ceux [^53] <span id="p8"><sup><small>[ p. 8 ]</small></sup></span> qui ont accompli leurs actions s'approchent avec des invocations. (Il n'a pas besoin de demander !)
 
 Zarathoustra intervient [^54].
 
 4\. Le Grand Créateur [^55] (est lui-même) le plus conscient des indications énoncées qui se sont accomplies jusqu'ici dans les actes des [^56] dieux-démons [^57] et des hommes (bons ou mauvais), et de celles qui s'accompliront par eux [^58] plus tard. Lui, Ahura, est l'arbitre perspicace ; ainsi en sera-t-il pour nous [^59] comme Il le voudra [^60] !
 
-5\. C'est pourquoi nous deux, mon âme [^61] et (l'âme) de la mère [^62] Kine, (faisons) nos supplications <span id="p9">[<sup><small>p. 9</small></sup>]</span> pour les deux mondes à Ahura, et avec les mains tendues en signe de supplication, lorsque (nous prions le Grand Créateur [^63] avec des questions dans notre doute [^64]; (et Il répondra).
+5\. C'est pourquoi nous deux, mon âme [^61] et (l'âme) de la mère [^62] Kine, (faisons) nos supplications <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> pour les deux mondes à Ahura, et avec les mains tendues en signe de supplication, lorsque (nous prions le Grand Créateur [^63] avec des questions dans notre doute [^64]; (et Il répondra).
 
 Ce n'est pas pour le juste, ce n'est pas pour le laboureur de la terre qu'il y aura la destruction [^65] avec les méchants !
 
@@ -92,7 +92,7 @@ Ahura.
 
 6\. Sur ce, le Seigneur, le Grand Créateur, Celui qui comprend la grâce mystérieuse [^66] par Sa perspicacité [^67], a parlé ainsi. Ce n'est pas de cette manière [^68] qu'on nous trouve un maître spirituel, ni un chef mû par la Justice et établi (dans son esprit) ; c'est pourquoi je t'ai [^69] nommé [^70] (comme tel) pour le cultivateur diligent de la terre [^71] !
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 Les Ameshôspends [^72].
 
@@ -110,13 +110,13 @@ Les Ameshôspends [^79].
 
 ((Oui,) quand apparaîtra-t-il jamais qui pourra lui apporter [^79] une aide forte [^80] ?)
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Zarathoustra [^81].
 
 10\. Toi, ô Ahura, et toi, ô Justice ! accorde à ceux-ci (nos disciples) la joie, ainsi que le Royaume souverain (de la Divinité) tel qu'il est établi dans (Son) Bon Esprit par lequel on leur accorde les paisibles commodités du foyer et le bonheur tranquille (par opposition aux terribles ravages qu'ils subissent [^82]), car de ceux-ci, ô Grand Créateur ! Je T'ai toujours pensé comme le premier possesseur [^83] !
 
-11\. Et quand la Justice (divine), le Bon Esprit (du Seigneur, et Sa) Puissance Souveraine (viendront-ils) se hâter [^84] vers moi (pour me donner la force pour ma tâche et ma mission), ô Grand Créateur, le Seigneur Vivant ! (Car sans lui, je ne peux avancer <span id="p13">[<sup><small>p. 13</small></sup>]</span> ni entreprendre mon travail.) Accordez-nous donc maintenant votre aide et en abondance [^85] pour notre grande cause. Puissions-nous être (participants) de la grâce abondante de ceux qui sont vos égaux [^86] (vos conseillers et serviteurs) [^87] !
+11\. Et quand la Justice (divine), le Bon Esprit (du Seigneur, et Sa) Puissance Souveraine (viendront-ils) se hâter [^84] vers moi (pour me donner la force pour ma tâche et ma mission), ô Grand Créateur, le Seigneur Vivant ! (Car sans lui, je ne peux avancer <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> ni entreprendre mon travail.) Accordez-nous donc maintenant votre aide et en abondance [^85] pour notre grande cause. Puissions-nous être (participants) de la grâce abondante de ceux qui sont vos égaux [^86] (vos conseillers et serviteurs) [^87] !
 
 <figure class="table chapter-navigator">
   <table>

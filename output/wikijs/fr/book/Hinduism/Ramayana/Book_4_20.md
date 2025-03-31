@@ -98,7 +98,7 @@ Et ainsi le démon furieux s'adressa :
 « Il ne te convient pas, ô ami de la vertu,
 Mes sommets de montagnes pour déchirer et déchirer ;
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 Car moi, la retraite tranquille de l'ermite,
 Car les actes de guerre sont tous inadmissibles,
@@ -214,7 +214,7 @@ Par la cellule ermite de Saint Matanga :
 Matanga vit, illustre sage,
 Ces gouttes souillent son ermitage,
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 Et, comme il s'étonnait d'où ils venaient,
 Une colère féroce emplit son âme de flammes :
@@ -342,7 +342,7 @@ Les pensées de ses actes effrayants surgiront
 Et remplis mon âme de tristes conjectures.
 Parole, forme et confiance que rien ne peut ébranler
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 Ta force secrète et ta gloire le prouvent,
 Comme les cendres fumantes le montrent faiblement
@@ -447,7 +447,7 @@ Sugríva, adressée au combat,
 Il resserra plus étroitement son gilet ceinturé,
 Et poussa un cri sauvage qui perça le ciel
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 Pour appeler l'ennemi Báli.
 L'impétueux Báli sortit, agité
@@ -548,7 +548,7 @@ Alors qu'il marchait aux côtés de son camarade.
 Et, toujours sur la parole de Rama,
 Ses pas se dirigèrent vers le grand Kishkindhá.
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 
 
@@ -667,7 +667,7 @@ Un écran voilé a été tissé autour de leurs formes.
 Sur toute l'ombre agréable du jardin
 Les yeux du roi Sugríva s'égarèrent,
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 Et, comme s'il regardait l'herbe et l'arbre,
 Les feux de la colère brûlaient en lui.
@@ -784,7 +784,7 @@ Comme une couronne fanée d’hier,
 Ô attends jusqu'à la lumière du matin,
 Alors, si tu le veux, vas-y et combats.
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 Ne pense pas que je doute de ta valeur, non ;
 Ou te considère plus faible que ton ennemi,
@@ -901,7 +901,7 @@ Et apprivoiser l’ennemi que je ne voudrais pas tuer.
 Ma fureur, armée d'arbres brandis,
 Frappera Sugríva à genoux :
 
-<span id="p343">[<sup><small>p. 343</small></sup>]</span>
+<span id="p343"><sup><small>[ p. 343 ]</small></sup></span>
 
 Et l'ennemi humilié ne résistera pas
 Les coups de ma main vengeresse,
@@ -1012,7 +1012,7 @@ Le brave Báli fut jeté à terre,
 Là où il roulait prostré dans la poussière
 Vêtu de l'éclat de l'or scintillant,
 
-<span id="p344">[<sup><small>p. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 Comme lorsque la norme est déchirée
 Du grand Dieu qui règne sur les cieux.
@@ -1116,7 +1116,7 @@ Ceux-ci apportent au prince sa plus grande renommée.
 Ici dans les bois, ô Roi, nous vivons
 Sur les racines et les fruits que donnent les branches. [^590]
 
-<span id="p345">[<sup><small>p. 345</small></sup>]</span>
+<span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 Ainsi la nature a créé notre race inoffensive :
 Tu es un homme suprême en place.
@@ -1214,7 +1214,7 @@ La dame Maithil à son seigneur ;
 Et, liant Rávan ​​avec une chaîne,
 L'avait déposé à tes pieds sans être tué.
 
-<span id="p346">[<sup><small>p. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 Oui, elle aurait été plongée dans les profondeurs de l'enfer,
 Ou submergé par la houle de l'océan,
@@ -1318,7 +1318,7 @@ Pour contrôler les téméraires qui osent s'égarer
 De la coutume à laquelle les bons obéissent,
 Je ne peux pas, issu de la lignée Kshatriya,
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 Pardonne-moi ce péché odieux :
 Les lois pour ceux qui pèchent comme toi
@@ -1422,7 +1422,7 @@ Pardonnez les railleries colériques qui ont brisé
 De mon sein sauvage, tandis que je parlais.
 Et ne m'impute pas cela, ô Roi,
 
-<span id="p348">[<sup><small>p. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
 La piqûre inutile de mes reproches fous.
 Toi, formé à la vérité par l'épreuve,
@@ -1545,7 +1545,7 @@ Les Vánars qui marquèrent sa chute s'enfuirent.
 Que tous nos chefs apportent leur secours,
 Et qu'Angad soit oint roi :
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 Pour tous ceux qui viennent de la race Vánar
 Il lui servira de place à Báli.
@@ -1666,7 +1666,7 @@ Dont la main basse a porté un coup de lâche,
 Et t'a frappé en combattant ton ennemi !
 Refus de mon seigneur mes jours, hélas !
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 Dans un malheur amer et amer passera :
 Et moi, béni depuis longtemps de tous les biens,

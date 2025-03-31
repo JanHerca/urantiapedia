@@ -36,7 +36,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 À Ahura Mazda, brillant et glorieux [^5], et aux Amesha-Spe<i>ñ</i>tas [^6].
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ## 2\. Bahman.
 
@@ -46,7 +46,7 @@ dateCreated: 2025-3-16T22:11:32Z
 
 À Asha-Vahisa, la plus belle [^12] ; au très désiré Airyaman, fabriqué par Mazda [^13] ; à l'instrument fabriqué par Mazda [^14] ; et au bon Saoka [^15], aux yeux d'amour [^16], fabriqué par Mazda et saint.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 ## 4\. Shahrevar.
 
@@ -66,7 +66,7 @@ Au bon Spe<i>n</i>ta-Ârmaiti [^18], et au bon Râta [^19], aux yeux d'amour, fa
 
 (Au gâh Rapithwin) : à Asha-Vahi<i>s</i>ta et à Âtar [^26], le fils d'Ahura Mazda [^27]
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 (Au gâh Uzîren) : à Apãm Napâ<i>t</i> [^28], le grand seigneur, et à l'eau créée par Mazda [^29].
 
@@ -78,7 +78,7 @@ Au bon Spe<i>n</i>ta-Ârmaiti [^18], et au bon Râta [^19], aux yeux d'amour, fa
 
 Au Créateur Ahura Mazda, brillant et glorieux, et aux Amesha-Spe<i>n</i>tas.
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 ## 9\. Âdar.
 
@@ -86,7 +86,7 @@ Au Créateur Ahura Mazda, brillant et glorieux, et aux Amesha-Spe<i>n</i>tas.
 
 À Âtar, fils d'Ahura Mazda ; au roi Husravah [^41] ; au lac de Husravah [^42] ; au mont Âsnava<i>n</i><i>t</i> [^43], fait par Mazda ; au lac <i>K</i>aê<i>k</i>asta [^44], fait par Mazda ; à la gloire des Kavis, faite par Mazda [^45].
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 À Âtar, fils d'Ahura Mazda ; au mont Raêva<i>n</i><i>t</i> [^46], fait par Mazda ; à la gloire des Kavis, faite par Mazda [^47].
 
@@ -106,7 +106,7 @@ Au Soleil éternel, brillant et rapide [^52].
 
 À la Lune qui garde en elle la semence du Taureau [^53]; au Taureau unique-créé [^54]; au Taureau de nombreuses espèces [^55].
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 ## 13\. Flèche.
 
@@ -130,7 +130,7 @@ Au saint et fort Sraosha [^63], qui est le Verbe incarné, un Dieu puissant et s
 
 ## 18\. Rashn.
 
-À Rashnu Razi<i>s</i>ta [^64] ; à Ar<i>s</i>tâ<i>t</i> [^65], qui fait croître le <span id="p10">[<sup><small>p. 10</small></sup>]</span> monde, qui fait croître le monde ; à la parole vraie, qui fait croître le monde.
+À Rashnu Razi<i>s</i>ta [^64] ; à Ar<i>s</i>tâ<i>t</i> [^65], qui fait croître le <span id="p10"><sup><small>[ p. 10 ]</small></sup></span> monde, qui fait croître le monde ; à la parole vraie, qui fait croître le monde.
 
 ## 19\. Avant.
 
@@ -156,7 +156,7 @@ Au Créateur, Ahura Mazda, brillant et glorieux ; aux Amesha-Spe<i>n</i>tas.
 
 Au très droit <i>K</i>ista [^72], fait par Mazda et saint ; à la bonne Loi [^72] des adorateurs de Mazda.
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 ## 25\. Haut.
 
@@ -172,7 +172,7 @@ Aux cieux élevés et puissants, à la demeure lumineuse, heureuse et bienheureu
 
 ## 28\. Zemyâd [^81].
 
-À la Terre généreuse ; à ces lieux, à ces champs ; au Mont Ushi-darena [^80], fait par Mazda, le siège du bonheur sacré ; à toutes les montagnes faites par Mazda, qui sont les sièges du bonheur sacré, du bonheur complet ; à la Gloire royale faite par Mazda ; <span id="p12">[<sup><small>p. 12</small></sup>]</span> à cette Gloire qui ne peut être saisie de force [^82], faite par Mazda.
+À la Terre généreuse ; à ces lieux, à ces champs ; au Mont Ushi-darena [^80], fait par Mazda, le siège du bonheur sacré ; à toutes les montagnes faites par Mazda, qui sont les sièges du bonheur sacré, du bonheur complet ; à la Gloire royale faite par Mazda ; <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> à cette Gloire qui ne peut être saisie de force [^82], faite par Mazda.
 
 ## 29\. Mahraspand.
 
@@ -180,7 +180,7 @@ Aux cieux élevés et puissants, à la demeure lumineuse, heureuse et bienheureu
 
 ## 30\. Anéran.
 
-À l'espace lumineux éternel [^87] et souverain [^88] ; au brillant Garô-nmâna [^89] ; au lieu souverain du Bien-être éternel [^90] ; au pont <i>K</i>inva<i>t</i>\ [^91], fait par Mazda ; au grand seigneur Apãm Napâ<i>t</i> [^92] et à l'eau faite par Mazda ; à Haoma [^93], de sainte naissance ; à la pieuse et bonne Bénédiction ; à la terrible pensée maléfique du sage [^94] ; à tous les saints Dieux du <span id="p13">[<sup><small>p. 13</small></sup>]</span> monde céleste et du monde matériel ; aux terribles et écrasants Fravashis des fidèles, aux Fravashis des premiers hommes de la loi, aux Fravashis des plus proches parents [^95] ; à chaque Dieu invoqué par son propre nom [^96].
+À l'espace lumineux éternel [^87] et souverain [^88] ; au brillant Garô-nmâna [^89] ; au lieu souverain du Bien-être éternel [^90] ; au pont <i>K</i>inva<i>t</i>\ [^91], fait par Mazda ; au grand seigneur Apãm Napâ<i>t</i> [^92] et à l'eau faite par Mazda ; à Haoma [^93], de sainte naissance ; à la pieuse et bonne Bénédiction ; à la terrible pensée maléfique du sage [^94] ; à tous les saints Dieux du <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> monde céleste et du monde matériel ; aux terribles et écrasants Fravashis des fidèles, aux Fravashis des premiers hommes de la loi, aux Fravashis des plus proches parents [^95] ; à chaque Dieu invoqué par son propre nom [^96].
 
 <figure class="table chapter-navigator">
   <table>

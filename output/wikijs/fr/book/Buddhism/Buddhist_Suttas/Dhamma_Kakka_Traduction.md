@@ -40,7 +40,7 @@ Révérence au Bienheureux, au Saint, au Pleinement Illuminé.
 
 2\. « Il y a deux extrêmes, ô Bhikkhus, que l'homme qui a renoncé au monde[^2] ne devrait pas suivre : la pratique habituelle, d'une part, de ces choses dont l'attrait dépend des passions, et spécialement de la sensualité — une manière basse et païenne[^3] (de rechercher la satisfaction) indigne, inutile et convenant seulement aux esprits mondains —
 
- <span id="p147">[<sup><small>p. 147</small></sup>]</span> et la pratique habituelle, d'autre part, de l'ascétisme (ou auto-mortification), qui est pénible, indigne et inutile.
+ <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> et la pratique habituelle, d'autre part, de l'ascétisme (ou auto-mortification), qui est pénible, indigne et inutile.
 
 3\. « Il existe un chemin médian, ô Bhikkhus, évitant ces deux extrêmes, découvert par le Tathâgata[^4] — un chemin qui ouvre les yeux et confère la compréhension, qui mène à la paix de l'esprit, à la sagesse supérieure, à la pleine illumination, au Nirvânâ !
 
@@ -55,7 +55,7 @@ Bon effort;
 Pleine conscience juste;  
 et la contemplation juste.
 
-« Ceci, ô Bhikkhus, est ce chemin du milieu, évitant ces deux extrêmes, découvert par le Tathâgata – ce chemin qui ouvre les yeux et confère la compréhension, <span id="p148">[<sup><small>p. 148</small></sup>]</span> qui conduit à la paix de l'esprit, à la sagesse supérieure, à la pleine illumination, au Nirvâ<i>n</i>a !
+« Ceci, ô Bhikkhus, est ce chemin du milieu, évitant ces deux extrêmes, découvert par le Tathâgata – ce chemin qui ouvre les yeux et confère la compréhension, <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> qui conduit à la paix de l'esprit, à la sagesse supérieure, à la pleine illumination, au Nirvâ<i>n</i>a !
 
 ---
 
@@ -69,7 +69,7 @@ et la contemplation juste.
 
 « En vérité, c'est cette soif (ou ce désir), provoquant le renouvellement de l'existence, accompagnée de plaisir sensuel, cherchant satisfaction ici et là, c'est-à-dire le désir de la satisfaction des passions, ou le désir d'une vie (future), ou le désir de succès (dans cette vie présente)[^8].
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 « Ceci est donc, ô Bhikkhus, la noble vérité concernant l’origine de la souffrance.
 
@@ -81,7 +81,7 @@ et la contemplation juste.
 
 8\. « Voici, ô bhikkhus, la noble vérité concernant la voie[^9] qui mène à la destruction du chagrin. En vérité ! C'est ce noble chemin octuple[^10] ; c'est-à-dire :
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 Vues de droite;  
 Aspirations justes;  
@@ -136,7 +136,7 @@ Ceci est donc, ô Bhikkhus, la noble vérité concernant la destruction du chagr
 
 25\. Et lorsque le char royal de la vérité eut ainsi été mis en marche par le Bienheureux, les dieux de la terre poussèrent un cri, disant :
 
-« À Bénarès, à l'ermitage du Migadâya, la roue suprême de l'empire de la Vérité a été mise en marche par le Bienheureux — cette roue qu'aucun Saman<i>n</i>a ou Brâhman, aucun dieu, <span id="p154">[<sup><small>p. 154</small></sup>]</span> aucun Brahma ou Mâra, aucun être humain dans l'univers, ne peut jamais faire reculer ! »
+« À Bénarès, à l'ermitage du Migadâya, la roue suprême de l'empire de la Vérité a été mise en marche par le Bienheureux — cette roue qu'aucun Saman<i>n</i>a ou Brâhman, aucun dieu, <span id="p154"><sup><small>[ p. 154 ]</small></sup></span> aucun Brahma ou Mâra, aucun être humain dans l'univers, ne peut jamais faire reculer ! »
 
 26\. Et quand ils entendirent le cri des dieux de la terre, les dieux serviteurs des quatre grands rois[^13] (les anges gardiens des quatre coins du globe) poussèrent un cri, disant :
 
@@ -146,7 +146,7 @@ Ceci est donc, ô Bhikkhus, la noble vérité concernant la destruction du chagr
 
 « À Bénarès, à l'ermitage du Migadâya, la roue suprême de l'empire de la Vérité a été mise en marche par le Bienheureux — cette roue qu'aucun Samana ou Brâhman, aucun dieu, aucun Brahma ou Mâra, aucun être humain dans l'univers, ne peut jamais faire revenir en arrière[^14] ! »
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 28\. Et ainsi, en un instant, une seconde, un instant, le son monta jusqu'au monde de Brahmâ : et ce grand système de dix mille mondes trembla et fut secoué violemment, et une lumière incommensurable apparut dans l'univers, au-delà même du pouvoir des dieux !
 
@@ -158,7 +158,7 @@ Fin du Dhamma-<i>k</i>akka-ppavattana-sutta.
 
 
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

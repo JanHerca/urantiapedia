@@ -32,9 +32,9 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 <p style="text-align:center;">
 <i>MORCEAUX PLUS COURTS</i>
@@ -48,7 +48,7 @@ DE<br>
 <span class="text-h5">PAR J. D. CARLYLE, BḌ.</span><br>
 </p>
 
-<span id="p94">[<sup><small>p. 94</small></sup>]</span>
+<span id="p94"><sup><small>[ p. 94 ]</small></sup></span>
 
 _Comme les traductions suivantes ont été tentées à des époques différentes et avec des impressions différentes, leur exécution est sans doute très inégale : en général, je l'espère, elles seront trouvées aussi littérales que le permet la nature de deux langues si peu semblables dans leur structure ; dans quelques cas, je me suis permis une plus grande latitude, et j'ai donné plutôt une imitation qu'une version ; de manière, cependant, j'espère, à ne perdre de vue en aucun endroit l'idée originale de l'écrivain._ Extrait de la préface du traducteur.
 

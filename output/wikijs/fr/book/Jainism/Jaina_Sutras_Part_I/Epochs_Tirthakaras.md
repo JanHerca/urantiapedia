@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 Français Depuis le moment où l'Arhat Nami est mort, etc. (jusqu'à) libéré de toutes douleurs, 584 979 ans se sont écoulés, c'est la quatre-vingtième année [^657]. (184) Depuis la mort de Munisuvrata, c'est l'année 1 184 980. Depuis Malli [^658], c'est l'année 6 584 980. Ara est mort 10 000 000 d'années avant Malli ; Kunthua un quart de Palyopama avant Malli ; <i>S</i>ânti trois quarts de Palyopama ; Dharma trois Sâgaropamas avant Malli ; Ananta sept Sâgaropamas avant Malli ; Vimala seize Sâgaropamas avant Malli ; Vâsupû<i>g</i>ya quarante Sâgaropamas avant Malli ; <i>S</i>reyâ<i>m</i>sa cent Sâgaropamas avant Malli. <i>S</i>îtala mourut un krore de Sâgaropamas, moins 42 003 ans et huit mois et demi, avant la mort de Vîra. Suvidhi, surnommé Pushpadanta, mourut dix krores de Sâgaropamas avant <i>S</i>îtala ; <i>K</i>andraprabha cent krores de Sâgaropamas avant <i>S</i>îtala ; Supâr<i>s</i>va mille krores de Sâgaropamas avant <i>S</i>îtala ; Padmaprabha dix mille krores de Sâgaropamas avant <i>S</i>îtala ; Sumati cent mille krores de Sâgaropamas avant <i>S</i>îtala ; Abhinandana un million de couronnes de Sâgaropamas devant Sîtala ; Sambhava deux millions de couronnes de Sâgaropamas devant Sîtala ; Agita cinq millions de couronnes de Sâgaropamas devant Sîtala. (185-203)
 

@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 5. Les volets des échoppes mobiles [^409] ne peuvent être retirés pendant la fête, selon Beth Shammaï ; mais Beth Hillel autorise non seulement cela, mais aussi leur remplacement. Beth Shammaï dit : « Le pilon [grand en bois] ne peut être déplacé pour servir de bloc à découper la viande ; » mais Beth Hillel l’autorise. Beth Shammaï enseigne : « Il est interdit de poser une peau pour la piétiner [en préparation de son tannage], ou de la soulever du sol, à moins qu’elle ne contienne la quantité minimale de viande de la taille d’une olive ; » mais Beth Hillel l’autorise. Beth Shammaï enseigne : « Il est interdit d’apporter sur la place publique, pendant la fête, un enfant, un loolab, une branche de palmier, etc., ou un rouleau de la loi ; » mais Beth Hillel l’autorise.
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 § 6. Beth Shammaï considère qu'il est illégal d'apporter au prêtre, lors de la fête, des offrandes ou d'autres présents appartenant aux prêtres, qu'ils aient été mis à part à cet effet ce jour-là ou la veille ; mais Beth Hillel l'autorise. Beth Shammaï leur a invoqué, à l'appui de leur décision, la similitude d'expression dans les deux cas, et a déclaré : חלה et les autres dons sacerdotaux sont appelés dons, dus aux prêtres : תרומה, ou offrande élevée, est également l'un de ces dons ; or, de même qu'il est interdit d'apporter une offrande élevée au prêtre lors de la fête, il doit être également illégal de lui apporter d'autres « dons » sacerdotaux ce jour-là. Mais Beth Hillel répond : « Ce qui est affirmé à propos de l’offrande élevée ne peut pas s’appliquer aux autres dons, [^410] car cela ne peut pas être encouru lors de la fête, mais les autres dons le peuvent. »
 
@@ -54,7 +54,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 9. Beth Shammaï enseigne qu'il est interdit d'envoyer à une autre personne, en guise de présent lors de la fête, autre chose que des denrées alimentaires. [^411] Beth Hillel autorise même l'envoi de bétail, de gibier et de volaille, [^412] morts ou vivants ; ainsi que des présents de vin, d'huile, de farine fine et de légumineuses, mais pas de céréales. [^413] Mais R. Siméon autorise également l'envoi de céréales. [^414]
 
-§ 10. Il est également permis d'envoyer des vêtements, cousus ou non, même en « Kilaïm », s'ils sont utilisés pendant la fête, mais pas de sandales à clous de fer, [^415] ni de chaussures non cousues \[non finies\]. R. Jehudah dit : <span id="p147">[<sup><small>p. 147</small></sup>]</span> « On ne peut pas non plus envoyer de chaussures blanches, car elles nécessitent un artisan pour être portées. » [^416] C'est la règle générale : tout ce qui peut être utilisé pendant la fête peut être envoyé en cadeau.
+§ 10. Il est également permis d'envoyer des vêtements, cousus ou non, même en « Kilaïm », s'ils sont utilisés pendant la fête, mais pas de sandales à clous de fer, [^415] ni de chaussures non cousues \[non finies\]. R. Jehudah dit : <span id="p147"><sup><small>[ p. 147 ]</small></sup></span> « On ne peut pas non plus envoyer de chaussures blanches, car elles nécessitent un artisan pour être portées. » [^416] C'est la règle générale : tout ce qui peut être utilisé pendant la fête peut être envoyé en cadeau.
 
 
 

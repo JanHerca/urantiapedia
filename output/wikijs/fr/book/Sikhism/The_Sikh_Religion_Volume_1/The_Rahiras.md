@@ -50,7 +50,7 @@ Le continent, le vrai et le patient te chantent ; les héros inflexibles te chan
 Les Pandits et les Rikhis suprêmes, lisant leurs Veds, Te chantent à chaque époque.
 Les belles demoiselles célestes qui séduisent le cœur dans les régions supérieures, moyennes et inférieures te chantent.
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 Les joyaux créés par Toi avec les soixante-huit lieux de pèlerinage hindou Te chantent.
 Les puissants guerriers et les héros te chantent ; les quatre sources de vie te chantent.
@@ -78,7 +78,7 @@ Ceux qui possèdent la sagesse divine et spirituelle, les prêtres et les grands
 Pourtant, ils ne pouvaient même pas décrire une petite partie de Ta grandeur.
 Toute vérité, toute ferveur, toute bonté,
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 Les excellences des hommes parfaits,
 Ils ne peuvent être atteints dans leur perfection sans Toi.
@@ -115,7 +115,7 @@ PROFESSEUR RAM DAS, RAG GUJARI
 Nous, insectes et vers, cherchons ta protection, ô vrai Gourou ; éclaire-nous avec miséricorde avec le Nom ;
 Mon ami et divin gourou, éclaire-moi avec le nom de Dieu.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 Sous l'instruction du Guru, le Nom est l'aide de mon âme ; chanter les louanges de Dieu est mon occupation.
 Très heureux sont les hommes de Dieu qui ont foi en Lui et soif de Lui :
@@ -130,7 +130,7 @@ GURU ARJAN, RAG GUJARI[^2]
 Ô mon âme, pourquoi proposes-tu un effort[^3] alors que Dieu Lui-même est engagé dans un effort pour toi ?
 Il met même leur nourriture avant les insectes qu'il a créés dans les rochers et les pierres.
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 Ô mon Dieu, ceux qui rencontrent la société des saints sont sauvés.
 Grâce à la faveur du Guru, ils obtiennent le rang le plus élevé ; bien qu'ils soient comme du bois sec, ils sont rendus verts.
@@ -154,7 +154,7 @@ Toi, ô Dieu, l’Être suprême unique, tu es pleinement contenu dans chaque c�
 Certains hommes sont des donateurs, d’autres des mendiants ; tous sont ton merveilleux jouet.
 Toi-même es le Donateur, Tu es le Bénéficiaire ; Je ne connais personne d'autre que Toi.
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 Tu es l’Être suprême totalement infini ; quels attributs de toi dois-je raconter ?
 L'esclave Nanak est un sacrifice pour ceux qui Te servent, pour ceux qui Te servent.
@@ -174,7 +174,7 @@ Ce qui te plaît prévaut, et ce que tu fais arrive.
 Toi-même, tu as façonné toute la création, et pourtant, une fois créée, elle disparaîtra.[^2]
 Nanak chante les louanges du Créateur qui connaît toutes choses.
 
-<span id="p256">[<sup><small>p. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 PROFESSEUR RAM DAS, RAG ASA
 
@@ -202,7 +202,7 @@ GURU NANAK, L'UNIQUE ET L'UNIQUE
 L’homme a obtenu une demeure dans ce réservoir[^3] dont Dieu a rendu l’eau aussi chaude que le feu.
 Les pieds de l’homme ne peuvent pas bouger dans la boue de l’amour mondain ; nous l’avons vu s’y noyer.
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 Ô homme insensé, tu n’as pas pensé au Dieu unique dans ton cœur ;
 Par l'oubli de Lui, tes vertus se sont dissipées.
@@ -222,7 +222,7 @@ Tu n’as pas servi les saints hommes et tu n’as pas connu Dieu.
 Nanak dit : mes actes ont été ignobles ;
 Préserve mon honneur, à moi qui me réfugie en toi.
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

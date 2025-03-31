@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p407">[<sup><small>p. 407</small></sup>]</span>
+<span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
 ## PA<i>T</i>ALA III, KHA<i>ND</i>A 1.
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>III, 1, 1. âplavane purastâd â<i>k</i>âryakulasya pariv<i>ri</i>ta âsta. 2. udaṅmukha â<i>k</i>ârya<i>h</i>. 3. transgression. 4. Evam Brahmavark Asakamo. 5. mon Dieu, les pasukâmas. 6. sabaya<i>m</i> ya<i>s</i>askâma<i>h</i>. 7. sarvaushadhenâpa<i>h</i> phâ<i>n</i>ayet. 8. surabhibhi<i>s</i> <i>k</i>a. 9. taqi<i>s</i> <i>s</i>îtosh<i>n</i>âbhir â<i>k</i>âryoऽbhishi<i>ñ</i><i>k</i>et. 10. svaya<i>m</i> et mantrabhivâdâd. 11. ubhâv ity eke. 12. Tenemam ity â<i>k</i>âryo brûyâd. 13. e apsv ity amâm a<i>ng</i><i>g</i>alim avasi<i>ñ</i><i>k</i>ed.</small>
 
-<span id="p408">[<sup><small>p. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 14\. Et avec (la formule), 'Qu'est-ce qui (est terrible) dans les eaux' (ll 2) ;
 
@@ -92,7 +92,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 14. yad apâm iti <i>k</i>a. 15. tûsh<i>n</i>î<i>ñ</i> <i>k</i>a. 16. yo ro<i>k</i>ana iti g<i>ri</i>hyâtmânam abhishi<i>ñ</i><i>k</i>ed. 27. yena striyam iti <i>k</i>a. 18. tûsh<i>n</i>î<i>ñ</i> <i>k</i>o. 19. ऽdyann ity âdityam upatish<i>th</i>et. 20. samasyed vâ. 21. viharann ​​anusa<i>m</i>hare<i>k</i> <i>k</i>akshur asîty. 22. ud uttamam iti mekhalâm avamu<i>ñ</i><i>k</i>et. 23. prâ<i>s</i>ya vâpaye<i>k</i> <i>kh</i>ikâvar<i>g</i>a<i>m</i> ke<i>s</i>a<i>s</i>ma<i>s</i>rulomanakhâny. 24. ala<i>m</i>k<i>ri</i>toऽhatavâsasâ <i>s</i>rîr iti sra<i>g</i>a<i>m</i> pratimu<i>ñ</i><i>k</i>en. 25. netryau ity upânahau.</small>
 
-<span id="p409">[<sup><small>p. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 26\. Avec (la formule), « Tu es le Gandharva » (ll 13), il prend un bâton de bambou.
 
@@ -118,7 +118,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 37\. Ni avec (une femme) qui descend des mêmes <i>Ri</i>shis.
 
-38\. Qu'il ne mange pas de nourriture qui a été apportée <span id="p410">[<sup><small>p. 410</small></sup>]</span> par une autre porte (que d'habitude), ou qui a été cuite deux fois, ou qui a reposé toute la nuit.
+38\. Qu'il ne mange pas de nourriture qui a été apportée <span id="p410"><sup><small>[ p. 410 ]</small></sup></span> par une autre porte (que d'habitude), ou qui a été cuite deux fois, ou qui a reposé toute la nuit.
 
 <petit>26. vai<i>n</i>ava<i>m</i> da<i>n</i><i>d</i>am âdadyâd Gandharvoऽsîty. 27. upetyâ<i>k</i>âryam parishadam prekshed yaksham ivety. 28. upavi<i>s</i>yaush<i>th</i>âpidhâneti mukhyân prâ<i>n</i>ân abhim<i>ri</i><i>s</i>ed. 29. goyukta<i>m</i> ratham âlabhed vanaspata ity. 30. âsthâtâ ta ity ârohet. 31. prâ<i>k</i>îm Prayerâyodî<i>k</i>î<i>m</i> vâ gatvâ pradakshi<i>n</i>am âvartayet. 32. pratyâgatâyârghyam ity eke. 33. v<i>ri</i>ddha<i>s</i>îli syâd ata ûrdhva<i>m</i>. 34. nâ<i>g</i>âtalomnyopahâsam i<i>k</i><i>kh</i>en. 35. nâyugyâ (lire, nâyugvâ). 36. na ra<i>g</i>asvalayâ. 37. na samanarshyâ. 38. ऽparayâ dvârâ prapanna<i>h</i> (lire, prapanna-) dvi<i>h</i>pakvaparyushitâni nâ<i>s</i>nîyâd.</small>
 
@@ -144,7 +144,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <petit>39. anyatra <i>s</i>âkamâ<i>m</i>sayavapish<i>t</i>avikârebhya<i>h</i>. 40. pâyasâ<i>k</i> <i>k</i>a. 41. phalapra<i>k</i>ayanodapânâveksha<i>n</i>avarshatidhâvanopânatsvaya<i>m</i>hara<i>n</i>âni na kuryân. 42. nâgandhâ<i>m</i> sra<i>g</i>a<i>m</i> dhârayen. 43. na <i>k</i>ed dhira<i>n</i>yasrag. 44. bhadram iti na v<i>ri</i>thâ vyâharet. 45. push<i>t</i>ikâmo gâ<i>h</i> prakâlayed imâ ma iti. 46. pratyâgatâ imâ madhumatîr iti. 47. push<i>t</i>ikâma eva prathama<i>g</i>âtasya vatsasya prâṅ mâtu<i>h</i> pralehanâl lalâ<i>t</i>am ullihya nigired gavâm iti. 48. sampra<i>g</i>âtâsu gosh<i>th</i>e ni<i>s</i>âyâ<i>m</i> vilayana<i>ñ</i> <i>g</i>uhuyât sa<i>m</i>graha<i>n</i>ety.</small>
 
-<span id="p411">[<sup><small>p. 411</small></sup>]</span>
+<span id="p411"><sup><small>[ p. 411 ]</small></sup></span>
 
 49\. Maintenant, une autre (cérémonie). Il doit faire des marques sur les oreilles d'un veau mâle et d'une veau femelle avec (la formule) : « Tu es le monde » (ll 5, 6).
 
@@ -165,7 +165,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. Il devrait verser le reste de l'eau.
 
-4\. Après avoir touché l'eau, il doit faire la même chose <span id="p412">[<sup><small>p. 412</small></sup>]</span> vers les autres directions (de l'horizon) selon qu'elles sont mentionnées dans les Mantras.
+4\. Après avoir touché l'eau, il doit faire la même chose <span id="p412"><sup><small>[ p. 412 ]</small></sup></span> vers les autres directions (de l'horizon) selon qu'elles sont mentionnées dans les Mantras.
 
 <small>2, 1. <i>s</i>râva<i>n</i>yâ<i>m</i> paur<i>n</i>amâsyâ<i>m</i> g<i>ri</i>hâd agnim atipra<i>n</i>îya pratidi<i>s</i>am upalimped adhike prakrame. 2. sak<i>ri</i>dg<i>ri</i>hîtân saktûn darvyâ<i>m</i> k<i>ri</i>tvâ pûrvopalipte ninîyâpo ya<i>h</i> prâ<i>k</i>yâm iti bali<i>m</i> nirvapen. 3. ninayed apâ<i>m</i> <i>s</i>esham. 4. apa upasp<i>ri</i><i>s</i>yaiva<i>m</i> pratidi<i>s</i>a<i>m</i> yathâliṅga<i>m</i>.</small>
 
@@ -183,7 +183,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>5. dakshi<i>n</i>apa<i>s</i>k</i>ime antare<i>n</i>âgni<i>ñ</i> <i>k</i>a sa<i>m</i>k</i>ara<i>h</i>. 6. <i>s</i>ûrpe<i>n</i>a <i>s</i>ish<i>t</i>ân agnâv opyâtipra<i>n</i>îtâd anatipra<i>n</i>îtasyârdha<i>m</i> gatvâ nya<i>ñ</i><i>k</i>au pâ<i>n</i>î k<i>ri</i>tvâ nama<i>h</i> P<i>ri</i>thivyâ iti <i>g</i>apet. 7. tata utthâya Somo râ<i>g</i>eti darbhastambam upasthâya (correct, upasthâpya) stambasthân sarpân manasâ dhyâyann. 8. akshatân âdâya prâṅ vodaṅ vâ grâmân nishkramya <i>g</i>uhuyâd a<i>ñ</i><i>g</i>alinâ haye Râka iti <i>k</i>atas<i>ri</i>bhi<i>h</i>. 9. prâṅ utkramya <i>g</i>aped vasuvana edhîti. 10. tris tri<i>h</i> pratidi<i>s</i>am avanta<i>s</i>eshu <i>k</i>o.</small>
 
-<span id="p413">[<sup><small>p. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 11\. Regardant vers le haut (il devrait offrir un Bali) aux hôtes des êtres divins,
 
@@ -211,7 +211,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <petit>11. ऽrdhva<i>m</i> prekshan devaya<i>g</i>anebhyas (correct, deva<i>g</i>anebhyas). 12. tiryaṅṅ itara<i>g</i>anebhyo. 13. ऽvâṅ prekshan pratyetyânavekshann akshatân prâ<i>s</i>nîyâ<i>k</i>. 14. <i>kh</i>vobhûteऽkshatasaktûn k<i>ri</i>tvâ nave pâtre nidhâyâstam ite balîn hared. 15. âgrahâya<i>n</i>yâ<i>h</i>. 16. Praush<i>th</i>apadî<i>m</i> hastenâdhyâyân upâkuryu<i>h</i>. 17. <i>s</i>râva<i>n</i>îm ity eke. 18. hutvopanayanavat. 19. sâvitrîm anuvâ<i>k</i>ayet. 20. Soma<i>m</i> râ<i>g</i>âna<i>m</i> parvâdî<i>m</i><i>s</i> <i>k</i>a. 21. dhânâ dadhi <i>k</i>a prâ<i>s</i>nîyur abhirûpâbhyâ<i>m</i>. 22. <i>s</i>vobhûte prâtar adhîyîra<i>ñ</i> <i>kh</i>ishyebhyo.</small>
 
-<span id="p414">[<sup><small>p. 414</small></sup>]</span>
+<span id="p414"><sup><small>[ p. 414 ]</small></sup></span>
 
 23\. (Après chaque section du texte) ils devraient répéter (comme une sorte d'index ?) les débuts des _Ri_<i> prekshan devaya</i>as et des Prastâvas (des Sâmans).
 
@@ -233,7 +233,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 32\. Lors de la chute d'un météore, ou après un tremblement de terre, ou une éclipse de soleil ou de lune, il faut savoir dans ces occasions (qu'il est interdit d'étudier) jusqu'à la même heure le lendemain.
 
-33\. Les Ka<i>th</i>as et les Kauthumas, cependant, déclarent <span id="p415">[<sup><small>p. 415</small></sup>]</span> que (quand il a plu, il est interdit d'étudier) tant que l'eau stagne dans les fossés.
+33\. Les Ka<i>th</i>as et les Kauthumas, cependant, déclarent <span id="p415"><sup><small>[ p. 415 ]</small></sup></span> que (quand il a plu, il est interdit d'étudier) tant que l'eau stagne dans les fossés.
 
 <petit>23. ऽn.uvâkyâ<i>h</i> kuryur <i>ri</i>gâdibhi<i>h</i> prastâvai<i>s</i> <i>k</i>â. 24. ऽnugâna<i>m</i> rahasyânâ<i>m</i>. 25. vidyutstanayitnuvar<i>g</i>am. 26. ardhapa<i>ñ</i><i>k</i>amân mâsân adhîtya paushîm utsargas. 27. tata ûrdhvam mantrânâdhyâyo (correct, abhrânâdhyâyo). 28. vidyutstanayitnuv<i>ri</i>sh<i>t</i>iteshu (correct, °prushiteshu ou °p<i>ri</i>shiteshu ; voir la note de Ludwig sur le Rig-veda VIII, I, 12) <i>k</i>a. 29. trisannipâte trisandhyam. 30. ash<i>t</i>akâm amâvâsyâ<i>m</i> <i>k</i>âturmâsîr udagayane <i>k</i>a pakshi<i>n</i>î<i>m</i> râtrî<i>m</i>. 31. sabrahma<i>k</i>âri<i>n</i>i <i>k</i>a preta. 32. ulkâpâte bhûmi<i>k</i>ale <i>g</i>yotisho<i>s</i> <i>k</i>opasarga eteshv âkâlika<i>m</i> vidyât. 33. kârshvan tu Ka<i>th</i>akauthumâ<i>h</i>.</small>
 
@@ -262,7 +262,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>3, 1. â<i>s</i>vayu<i>g</i>î<i>m</i> Rudrâya pâyaso. 2. mâ nas toka iti <i>g</i>uhuyât. 3. payasy avanayed â<i>g</i>ya<i>m</i> tat p<i>ri</i>shâtaka<i>m</i>. 4. tenâbhyâgatâ gâ ukshed â no Mitrâvaru<i>n</i>eti. 5. vatsâ<i>m</i>s</i> <i>k</i>a mât<i>ri</i>bhis saha vâsayet ta<i>m</i> râtrî<i>m</i>. 6. navaya<i>g</i><i>ñ</i>e pâyasa aindrâgna<i>h</i>. 7. <i>s</i>atâyudhâyeti <i>k</i>atas<i>ri</i>bhir â<i>g</i>ya<i>m</i> <i>g</i>uhuyâd. 8. uparish<i>t</i>d Agni<i>h</i> prâ<i>s</i>nâtv iti <i>k</i>a. 9. tasya <i>s</i>esha<i>m</i> prâ<i>s</i>nîyur yâvanta upetâ. 10. upastîryâpo dvir navasyâvadyet.</small>
 
-<span id="p416">[<sup><small>p. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 11\. Trois (des portions sont coupées) par les descendants de Bh<i>s</i>gu.
 
@@ -290,7 +290,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <petit>11. trir Bh<i>ri</i>gû<i>n</i>âm. 12. apâñ</i>k</i>oparish<i>t</i>âd. 13. Quand mon frère et moi avons prié, il a dit : « Vraiment, je reviendrai. » 14. Je t'ai dit que j'allais dormir. 15. Je t'aime tellement que je ne peux t'emmener nulle part. 16. La gratitude et la compassion sont les clés du succès. 17. Nommez-le Prithivyâ iti g apet (lisez, est-ce na g apet ?). 18. La personne qui n’est pas satisfaite de la récompense est celle qui est satisfaite de la récompense. 19. Celui qui est avec toi est celui qui est avec toi. 20. Je demande pardon à Allah et me repens auprès de Lui. Je cherche refuge auprès d'Allah contre le mal que je t'ai révélé. 21. Je ne le quitterai pas. 22. Le bhâryâh.
 
-<span id="p417">[<sup><small>p. 417</small></sup>]</span>
+<span id="p417"><sup><small>[ p. 417 ]</small></sup></span>
 
 23\. Et leurs enfants.
 
@@ -321,7 +321,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. [^1033]. Au milieu (Ash<i>t</i>akâ) une vache (est sacrifiée).
 
-4\. 1. madhyamayâ<i>m</i> gaus. <span id="p418">[<sup><small>p. 418</small></sup>]</span>
+4\. 1. madhyamayâ<i>m</i> gaus. <span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 2\. Il doit placer cette (vache) à l'est du feu, face à l'ouest, et doit sacrifier (Â<i>g</i>ya) avec (le verset), « Quoi, ô bêtes » (MB. II, 2, 5).
 
@@ -345,7 +345,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>2. ta<i>m</i> purastâd agne<i>h</i> pratyaṅmukhîm avasthâpya <i>g</i>uhuyâd yat pa<i>s</i>ava iti. 3. hutvâ <i>k</i>ânumantrayetânu tveti. 4. yavamatîbhir adbhi<i>h</i> prokshed ash<i>t</i>akâyai tvâ <i>g</i>ush<i>t</i>a<i>m</i> (correctement, <i>g</i>ush<i>t</i>â<i>m</i>) prokshâmîti. 5. prokshyolmukena parih<i>ri</i>tya proksha<i>n</i>î<i>h</i> pâyayed. 6. udaṅṅ uts<i>ri</i>pya pratyak<i>s</i>irasam (°sim, °sîm le MSS.) udakpadî<i>m</i> sa<i>m</i><i>g</i><i>ñ</i>apayet. 7. sa<i>m</i><i>g</i><i>ñ</i>aptâyâ<i>m</i> <i>g</i>uhuyâd yat pa<i>s</i>ur iti. 8. tasyâ<i>h</i> patnî srotâ<i>m</i>si prakshâlayet. 9. pavitre antardhâyotk<i>ri</i>tya vapâm uddhârayed. 10. ya<i>g</i><i>ñ</i>iyasya v<i>ri</i>kshasya vi<i>s</i>âkhâ<i>s</i>âkhâbhyâ<i>m</i> parig<i>ri</i>hyâgnau <i>s</i>rapayet. 11. pras<i>ri</i>tâyâ<i>m</i> vi<i>s</i>ased.</small>
 
-<span id="p419">[<sup><small>p. 419</small></sup>]</span>
+<span id="p419"><sup><small>[ p. 419 ]</small></sup></span>
 
 12\. L'« étalement sous » et l'aspersion (Â<i>purastâd agne</i>ya) sur (l'épiploon) ont été décrits. (Il est cloné) comme lors de l'oblation Svish<i> purastâd agne</i>ak<i> purastâd agne</i>t (voir II, 1, 24).
 
@@ -373,7 +373,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>12. uktam upastara<i>n</i>âbhighâra<i>n</i>a<i>m</i> yathâ svish<i>t</i>ak<i>ri</i>to. 13. ऽsh<i>t</i>akâyai svâheti <i>g</i>uhuyât. 14. sarvâṅgebhyoऽvadânâny uddhârayen. 15. na savyât sakthno na klomna<i>h</i>. 16. savya<i>m</i> sakthi nidhâya. 17. p<i>ri</i>thaṅ meksha<i>n</i>âbhyâm avadânâni sthâlîpâka<i>ñ</i> <i>k</i>a <i>s</i>rapayitvâ. 18. ka<i>m</i>se rasa<i>m</i> prasrâvya. 19. plaksha<i>s</i>âkhâsv avadânâni k<i>ri</i>tvai. 20. ऽkaikasmât ka<i>m</i>seऽvadyet. 21. sthâlîpâkâ<i>k</i> <i>k</i>a. 22. <i>k</i>aturg<i>ri</i>hîtam ash<i>t</i>ag<i>ri</i>hîta<i>m</i> vâtra (vâ<i>g</i>ya<i>m</i>? vâtra<i>m</i>, vâtra le MSS.) <i>g</i>uhuyâd Agnâv iti. 23. ka<i>m</i>sât parâbhir dvâbhyâ<i>m</i> dvâbhyâm ekaikâm âhuti<i>m</i>.</small>
 
-<span id="p420">[<sup><small>p. 420</small></sup>]</span>
+<span id="p420"><sup><small>[ p. 420 ]</small></sup></span>
 
 24\. L'oblation à (Agni) Svish<i>n</i>ak<i>n</i>t avec le huitième (verset).
 
@@ -402,7 +402,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>5, 1. navamî<i>m</i> da<i>s</i>amî<i>m</i> vânvash<i>t</i>akya<i>m</i>. 2. dakshi<i>n</i>apûrvabhâge parivârya tatrottarârdhe mathitvâgni<i>m</i> pra<i>n</i>ayet. 3. sak<i>ri</i>dg<i>ri</i>hîtân vrîhîn sak<i>ri</i>tphalîk<i>ri</i>tân prasavyam udâyuva<i>ñ</i> <i>s</i>rapayed.</small>
 
-<span id="p421">[<sup><small>p. 421</small></sup>]</span>
+<span id="p421"><sup><small>[ p. 421 ]</small></sup></span>
 
 4\. Et un peu de chair de cette cuisse (voir ci-dessus, chap. 4, 16).
 
@@ -426,7 +426,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>4. amushmâ<i>k</i> <i>k</i>a sakthno mâ<i>m</i>sam iti. 5. dakshi<i>n</i>odvâsya na pratyabhighârayet. 6. pa<i>s</i><i>k</i>âd agner dakshi<i>n</i>âs tisra<i>h</i> karshû<i>h</i> khanyâ<i>k</i> <i>k</i>aturaṅgulam adhas tiryak <i>k</i>a. 7. tâsâ<i>m</i> purastâd agni<i>m</i> pra<i>n</i>ayet. 8. st<i>ri</i><i>n</i>uyât. 9. karshû<i>s</i> <i>k</i>a. 10. pa<i>s</i><i>k</i>âd agne svastara<i>m</i> dakshi<i>n</i>âgrais t<i>ri</i><i>n</i>air dakshi<i>n</i>âprava<i>n</i>am âstîrya b<i>ri</i>sîm upari nidadhyât. 11. tasminn ekaikam âharet. 12. ka<i>m</i>se samavadâya meksha<i>n</i>enopaghâta<i>m</i>g</i>uhuyât svâhâ Somâya pit<i>ri</i>mate svâhâgnaye kavyavâhanâyeti. 13. savyenolmuka<i>m</i> dakshi<i>n</i>ata<i>h</i> karshûr nidadhyâd apahatâ iti.</small>
 
-<span id="p422">[<sup><small>p. 422</small></sup>]</span>
+<span id="p422"><sup><small>[ p. 422 ]</small></sup></span>
 
 (la formule), '(Les Asuras ont été) chassés (MB. II, 3, 3).
 
@@ -444,7 +444,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 20\. Retenant son souffle et fixant sa pensée sur quelque chose de bon, il devrait, en se retournant (de la même manière), murmurer : « Les Pères se sont amusés ; ils ont montré leur vigueur virile chacun de son côté » (MB. II, 3, 7).
 
-21\. Il doit saupoudrer du collyre sur trois lames de Darbha— <span id="p423">[<sup><small>p. 423</small></sup>]</span>, et les déposer dans les fosses de la même manière que les Pi<i>karshvâ</i><i>karshvâ</i>as,
+21\. Il doit saupoudrer du collyre sur trois lames de Darbha— <span id="p423"><sup><small>[ p. 423 ]</small></sup></span>, et les déposer dans les fosses de la même manière que les Pi<i>karshvâ</i><i>karshvâ</i>as,
 
 <petit>14. Je vais prendre une douche. 15. madhyamayām pitāmahasyo. 16. Je ne suis pas satisfait. 17. Celui à qui a été donné le droit et la juste attribution au Prophète (paix et bénédiction d'Allah sur lui) est celui à qui a été donné le droit et la juste attribution au Prophète (paix et bénédiction d'Allah sur lui). 18. Le tathaiva pi<i>n</i><i>d</i>ân nidhâya g</i>aped atra pitaro mâdayadhvam yathâbhâgam avri</i>shâyadhvam ity. 19. Je prie Dieu depuis longtemps, et je le prie depuis longtemps. 20. La plus belle chose est celle qui est complètement libre de toute impureté et qui n’a pas peur de perdre son sang-froid. 21. Celui qui n’est pas satisfait de la façon dont il est, c’est celui qui n’est pas satisfait de la façon dont il est.
 
@@ -468,7 +468,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>22. taila<i>m</i> surabhi <i>k</i>a. 23. pi<i>n</i><i>d</i>aprabh<i>ri</i>ti yathârtham ûhed. 24. atha nihnavana<i>m</i>. 25. pûrvasyâ<i>m</i> karshvâ<i>m</i> dakshi<i>n</i>ottânau pâ<i>n</i>î k<i>ri</i>tvâ namo va<i>h</i> pitaro <i>g</i>îvâya namo va<i>h</i> pitara<i>s</i> <i>s</i>ûshâyeti. 26. savyottânau madhyamâyâ<i>m</i> namo va<i>h</i> pitaro ghorâya namo va<i>h</i> pitaro rasâyeti. 27. dakshi<i>n</i>ottânau pa<i>s</i><i>k</i>imâyâ<i>m</i> namo va<i>h</i> pitara svadhâyai namo va<i>h</i> pitaro manyava ity. 28. a<i>ñ</i><i>g</i>ali<i>m</i> k<i>ri</i>tvâ 29. namo va iti. 30. sûtratantûn karshûshu nidadhyâd yathâpi<i>n</i><i>d</i>am etad va ity.</small>
 
-<span id="p424">[<sup><small>p. 424</small></sup>]</span>
+<span id="p424"><sup><small>[ p. 424 ]</small></sup></span>
 
 31\. Il doit réciter sur les fosses (le verset) : « Apportant la force » (MB. II, 3, 13).
 

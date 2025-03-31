@@ -36,7 +36,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 . **M**.VII. 1. Trois personnes qui ont mangé ensemble sont tenues de donner une invitation. [^364] Mais \[dans le cas de celui qui mange\] _Dmai_ [^365] et les premières dîmes sur lesquelles leur contribution a été prélevée, [^366] et les secondes dîmes [^367] et les choses consacrées [^368] qui ont été rachetées, [^369] et le serviteur qui mange jusqu'à une olive, et le Cuthéen (Samaritain) - on ne donne pas une telle invitation [^370] à leur égard.
 
-2 (1). Mais quant à celui qui mange du Tebel, [^371] et des premières dîmes dont la part des prêtres n'a pas été prélevée, et des secondes dîmes et des choses consacrées <span id="p60">[<sup><small>p. 60</small></sup>]</span> qui n'ont pas été rachetées, même si le serviteur mange moins qu'une olive, et l'étranger [^372] — on ne fait aucune invitation à leur égard.
+2 (1). Mais quant à celui qui mange du Tebel, [^371] et des premières dîmes dont la part des prêtres n'a pas été prélevée, et des secondes dîmes et des choses consacrées <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> qui n'ont pas été rachetées, même si le serviteur mange moins qu'une olive, et l'étranger [^372] — on ne fait aucune invitation à leur égard.
 
 **T**. V. 10. Si quelqu'un est serviteur de deux, voici, il mange avec eux ; [^373] s'il est serviteur de trois, il ne mange pas avec eux jusqu'à ce qu'ils le lui permettent. [^374]
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 **M**.VII. 3 (2). Les femmes, les esclaves et les petits enfants [^375] ne sont pas invités à réciter la bénédiction. Quel est le moindre aliment qui justifie l'invitation ? Pas moins de la taille d'une olive. R. Judah dit pas moins de la taille d'un œuf.
 
-**T**. V. 14. Tous sont tenus de dire la bénédiction après le repas : prêtres, Lévites, Israélites, prosélytes, esclaves, affranchis, prêtres illégitimes, [^376] Néthiniens, bâtards, eunuques des hommes, eunuques de naissance, [^377] et eunuques de toute espèce. [^378] Tous sont tenus de dire la bénédiction et peuvent en libérer la majorité. [^379] Les personnes de sexe incertain ou double <span id="p61">[<sup><small>p. 61</small></sup>]</span> sont tenues de dire la bénédiction, mais ne peuvent en libérer la majorité.
+**T**. V. 14. Tous sont tenus de dire la bénédiction après le repas : prêtres, Lévites, Israélites, prosélytes, esclaves, affranchis, prêtres illégitimes, [^376] Néthiniens, bâtards, eunuques des hommes, eunuques de naissance, [^377] et eunuques de toute espèce. [^378] Tous sont tenus de dire la bénédiction et peuvent en libérer la majorité. [^379] Les personnes de sexe incertain ou double <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> sont tenues de dire la bénédiction, mais ne peuvent en libérer la majorité.
 
 13\. Celui qui est de double sexe libère quelqu'un comme lui de son obligation, mais personne d'autre ; celui qui est de sexe incertain ne libère ni l'un ni l'autre.
 
@@ -82,7 +82,7 @@ R. José, le Galiléen, dit : Selon le nombre de l'assemblée, ils formulent la 
 
 ## Entreprises, comment se diviser.
 
-7\. (4 _cont_.). Trois personnes ayant mangé ensemble ne peuvent se séparer. [^393] De même pour quatre ou <span id="p64">[<sup><small>p. 64</small></sup>]</span> cinq. S'ils sont six, ils peuvent être divisés, et ainsi de suite jusqu'à dix. [^394] Mais pas dix avant d'être vingt.
+7\. (4 _cont_.). Trois personnes ayant mangé ensemble ne peuvent se séparer. [^393] De même pour quatre ou <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> cinq. S'ils sont six, ils peuvent être divisés, et ainsi de suite jusqu'à dix. [^394] Mais pas dix avant d'être vingt.
 
 **T**. V. 19. Dans le cas de vingt personnes, elles sont divisées en deux groupes, à condition qu'il n'y en ait aucune parmi elles qui se soit séparée de l'invitation. [^395]
 

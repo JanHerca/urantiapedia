@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:52Z
   </table>
 </figure>
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 Le Yin Chih Wen est un traité religieux et éthique qui, malgré sa popularité dans tout l'Empire du Milieu, n'a pas encore, à notre connaissance, été traduit en langue occidentale. À côté du Kan-Ying P'ien, il est lu, étudié et enseigné à l'école comme à la maison, et il n'existe probablement aucune famille chinoise qui l'ignore ; mais son contenu est très peu connu en Occident, et nous n'en avons rencontré qu'une seule référence du professeur Douglas dans son ouvrage Confucianisme et Taouisme, sous le titre « Livre des bénédictions secrètes ». [^1]
 
@@ -58,7 +58,7 @@ Dans le titre du livre, les mots _Yin Chih_ recouvrent l'idée générale des «
 >
 > —Hamlet, VI, 1-4.
 
-Le mot _chih_ apparaît pour la première fois dans la littérature chinoise dans le « Grand Plan » du _Roi Shu_, et il y est utilisé au sens verbal de « réglementer, gouverner, <span id="p6">[<sup><small>p. 6</small></sup>]</span> déterminer ». Le commentateur du Fin Chill Wen explique le titre dans les termes suivants :
+Le mot _chih_ apparaît pour la première fois dans la littérature chinoise dans le « Grand Plan » du _Roi Shu_, et il y est utilisé au sens verbal de « réglementer, gouverner, <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> déterminer ». Le commentateur du Fin Chill Wen explique le titre dans les termes suivants :
 
 > « Dans le « Grand Plan », un chapitre du Shuh King, nous lisons : « _wei tien yin chih hsia min_. » \[Seul | le Ciel | mystérieusement | gouverne | en dessous | du peuple\] et une glose explique le mot _chih_ par _ting_, « déterminer ». »
 
@@ -70,7 +70,7 @@ Le commentateur continue :
 
 Les mots _Yin Chih_ (« la voie tranquille », ou plus explicitement, « la dispensation mystérieuse du Ciel se manifestant dans la vertu discrète de l'homme ») s'opposent à _yin o_, c'est-à-dire « le mal caché dans le cœur de l'homme mauvais ». Le mot _o_ (un composé de « malhonnêteté » et de « cœur ») est le terme courant pour le mal ou la méchanceté.
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 Le contraste entre _yin chih_ et _yin o_ explique dans quelle mesure il serait approprié de traduire notre « vertu secrète ».
 
@@ -84,7 +84,7 @@ L'image représente le dieu accompagné de deux serviteurs. Le plat blanc sur le
 
 L'inscription du tableau est la suivante : _Ti tze Shen Chin-Ching hui_, ce qui signifie « l'humble disciple Shen Chin-Ching pinxit ». _Ti_ signifie « frère cadet » et _tze_ « enfant », utilisé ici comme diminutif. « Petit frère cadet » est le terme usuel signifiant « disciple » ou « dévot », titre par lequel l'artiste se désigne ici pour indiquer qu'il est un adepte des doctrines religieuses enseignées dans le _Yin Chih Wen_.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 Wen Ch'ang signifie « gloire des écritures ».
 
@@ -104,7 +104,7 @@ Le titre Ti, « empereur », est également porté par le dieu de la guerre, Kwa
 
 Michel signifie littéralement « qui est semblable à Dieu » et semble désigner cette présence divine (c'est-à-dire le nom ineffable) que l'on croit égale à Dieu. Mais à l'époque classique du monothéisme juif, le mot Michel était interprété non pas comme une caractérisation de l'archange comme semblable à Dieu, mais comme l'expression de la foi dans le monothéisme, impliquant la proposition selon laquelle il n'y a pas de second après Dieu. Michel, selon la tradition angélique des Hébreux, est le représentant de Dieu, et il est donc identifié à la cause divine. Il est l'ange gardien d'Israël, le peuple élu, et aussi le commandant en chef des armées angéliques. Comme Marduk combattit Tiamat, ainsi Michel combat le dragon (Apoc. xii. 7).
 
-Gabriel est aussi différent de Michel que Wen Ch'ang l'est de Kwan Ti. Gabriel signifie <span id="p10">[<sup><small>p. 10</small></sup>]</span> « l'homme de Dieu ». Il est considéré comme supérieur à tous les autres anges, à l'exception de Michel, et est généralement représenté comme l'ange de la révélation spéciale de Dieu et l'interprète de ses intentions. Ainsi, c'est Gabriel qui explique la vision de Daniel ; nous ne pouvons pas non plus douter que l'ange portant une écritoire à ses côtés, mentionné dans Ézéchiel X. 2-3, était Gabriel, le scribe de Dieu. Les spécialistes de l'Ancien Testament ont souligné sa ressemblance avec le dieu babylonien Nébo, représenté dans les monuments sous forme humaine avec une écritoire à ses côtés, contrairement aux Chérubins (les taureaux ailés à tête humaine). Ce fait éclaire la vision d'Ézéchiel, évoquée plus haut, et montre que le nom « homme de Dieu » a une signification particulière.
+Gabriel est aussi différent de Michel que Wen Ch'ang l'est de Kwan Ti. Gabriel signifie <span id="p10"><sup><small>[ p. 10 ]</small></sup></span> « l'homme de Dieu ». Il est considéré comme supérieur à tous les autres anges, à l'exception de Michel, et est généralement représenté comme l'ange de la révélation spéciale de Dieu et l'interprète de ses intentions. Ainsi, c'est Gabriel qui explique la vision de Daniel ; nous ne pouvons pas non plus douter que l'ange portant une écritoire à ses côtés, mentionné dans Ézéchiel X. 2-3, était Gabriel, le scribe de Dieu. Les spécialistes de l'Ancien Testament ont souligné sa ressemblance avec le dieu babylonien Nébo, représenté dans les monuments sous forme humaine avec une écritoire à ses côtés, contrairement aux Chérubins (les taureaux ailés à tête humaine). Ce fait éclaire la vision d'Ézéchiel, évoquée plus haut, et montre que le nom « homme de Dieu » a une signification particulière.
 
 Dans le Nouveau Testament, Gabriel continue de représenter la révélation divine. C'est lui qui annonce la naissance de Jean-Baptiste et de Jésus. Aucun personnage de la tradition chrétienne ne ressemble autant à Wen Ch'ang que Gabriel.
 
@@ -112,13 +112,13 @@ Dans le Nouveau Testament, Gabriel continue de représenter la révélation divi
 
 De même que Kwan Ti, le dieu de la guerre, était représenté comme ayant vécu sur terre en tant qu'homme, de même Wen Ch'ang, ou « gloire des écritures », aurait été un ancien sage chinois, mais on sait peu de choses sur l'homme auquel la tradition chinoise fait référence.
 
-Selon le commentateur, « il vécut sous la dynastie T'ang (620-950 apr. J.-C.) et son nom séculier était Chang-O. Yüeh était sa province natale, mais il s'installa plus tard à Tzu T'ung, dans le district de Shu. On nous dit que sa personnalité se distinguait par sa noblesse et sa piété. Ses écrits étaient clairs, lumineux et percutants. Il commença à exercer une influence morale <span id="p11">[<sup><small>p. 11</small></sup>]</span> sur le peuple, qui ressentait inconsciemment sa spiritualité. Il entama une carrière officielle pendant un certain temps, mais, insatisfait du cours de la politique, il démissionna de son poste au gouvernement et vécut en saint reclus. Les habitants de Shu lui témoignèrent une grande affection et, à sa mort, construisirent un temple en son honneur, le baptisant « Temple du Sage de Tzu T'ung ». Des gens de tous horizons vinrent offrir des prières, auxquelles le sage répondit remarquablement bien. Tous dirent alors : « Il existe dans le ciel une étoile appelée Wen Ch'ang ; le sage [c'est-à-dire Chang-O] devait en être l'incarnation. »
+Selon le commentateur, « il vécut sous la dynastie T'ang (620-950 apr. J.-C.) et son nom séculier était Chang-O. Yüeh était sa province natale, mais il s'installa plus tard à Tzu T'ung, dans le district de Shu. On nous dit que sa personnalité se distinguait par sa noblesse et sa piété. Ses écrits étaient clairs, lumineux et percutants. Il commença à exercer une influence morale <span id="p11"><sup><small>[ p. 11 ]</small></sup></span> sur le peuple, qui ressentait inconsciemment sa spiritualité. Il entama une carrière officielle pendant un certain temps, mais, insatisfait du cours de la politique, il démissionna de son poste au gouvernement et vécut en saint reclus. Les habitants de Shu lui témoignèrent une grande affection et, à sa mort, construisirent un temple en son honneur, le baptisant « Temple du Sage de Tzu T'ung ». Des gens de tous horizons vinrent offrir des prières, auxquelles le sage répondit remarquablement bien. Tous dirent alors : « Il existe dans le ciel une étoile appelée Wen Ch'ang ; le sage [c'est-à-dire Chang-O] devait en être l'incarnation. »
 
 Notre traité porte le nom du dieu Wen Ch'ang, et en conséquence il est considéré comme son auteur, ou du moins comme la divinité qui a guidé la plume de l'homme qui l'a composé ; mais (à moins que nous ne supposions que Chang-O en était l'auteur, ce qui n'est pas positivement impossible) le nom du scribe qui s'est fait le porte-parole de Wen Ch'ang et qui, dans la considération humaine, devrait être considéré comme son auteur, n'est pas enregistré.
 
 ## LE TITRE CHINOIS.
 
-Nous reproduisons le titre complet du Traité de la Voie Tranquille en caractères chinois originaux sur la page de garde précédant notre traduction. On y lit : « _Wen-Chang Ti-Chün Yin Chih Wen Shih-Hsün_. » Cela signifie, dans une traduction littérale, « Gloire des Écritures, Maître impérial, Traité de la Voie Tranquille, instruction normale. » Les deux derniers mots forment une seule idée qui pourrait être traduite par « éducatif ». _Shih_ signifie « modèle », « norme » ou « modèle » ; et _hsün_, « instruction ». Combinés, ces deux mots indiquent que le présent livre est destiné à servir des fins éducatives, <span id="p12">[<sup><small>p. 12</small></sup>]</span> et qu'il contient la norme de conduite établie ou orthodoxe.
+Nous reproduisons le titre complet du Traité de la Voie Tranquille en caractères chinois originaux sur la page de garde précédant notre traduction. On y lit : « _Wen-Chang Ti-Chün Yin Chih Wen Shih-Hsün_. » Cela signifie, dans une traduction littérale, « Gloire des Écritures, Maître impérial, Traité de la Voie Tranquille, instruction normale. » Les deux derniers mots forment une seule idée qui pourrait être traduite par « éducatif ». _Shih_ signifie « modèle », « norme » ou « modèle » ; et _hsün_, « instruction ». Combinés, ces deux mots indiquent que le présent livre est destiné à servir des fins éducatives, <span id="p12"><sup><small>[ p. 12 ]</small></sup></span> et qu'il contient la norme de conduite établie ou orthodoxe.
 
 ## L'ÂGE DU YIN CHIH WEN.
 
@@ -128,7 +128,7 @@ Les spécialistes de la littérature chinoise pourront probablement déterminer 
 
 Le Yin Chih Wen original se compose (1) du traité lui-même, ici traduit, (2) de gloses ajoutées par les commentateurs, et enfin (3) d'un grand nombre d'histoires similaires à celles du Kan-Ying P'ien, à ceci près qu'elles sont plus rationnelles et semblent éviter toute référence aux miracles et aux superstitions. Le livre semble avoir davantage séduit les confucéens rationalistes ou les lettrés qui, bien que globalement agnostiques, témoignent du respect dû aux religions officiellement reconnues.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 ## COMMENTAIRES ÉDITORIAUX.
 
@@ -144,7 +144,7 @@ L'appréciation des vertus des Chinois aidera les Occidentaux à les traiter ave
 
 PC
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ![](/image/book/Taoism/Yin_Chih_Wen/01500.jpg)
 

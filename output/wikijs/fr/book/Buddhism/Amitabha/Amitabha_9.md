@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 L'anniversaire du Bouddha fut célébré avec plus de joie que d'habitude l'année qui suivit l'invasion du roi Kanishka, survenue au cinquième siècle après le Nirvâna. Les redoutables envahisseurs étaient devenus amis et le peuple se réjouit de voir les nuages ​​de la guerre se dissiper si rapidement.
 
@@ -42,7 +42,7 @@ C'était le début de l'âge d'or de l'Inde, qui dura aussi longtemps que le Dha
 
 Kanishka et le roi de Magadha se trouvèrent en bonne compagnie. Les deux monarques alliés se mirent en route pour un paisible pèlerinage dans les différents lieux sacrés du pays. Ils visitèrent Lumbinî, lieu de naissance du Bodhisattva. De là, passant par le site de Kapilavastu, résidence de Shuddhodana, père incarné du Bouddha et lieu de prédilection du prince Siddhârtha dans sa jeunesse, ils se rendirent à l'arbre de la Bodhi à Buddhagaya et revinrent à la capitale Bénarès pour célébrer la fête de la naissance du Bouddha dans le Parc aux Daims, à l'endroit même où le vénéré Maître avait mis en mouvement la roue de la vérité pour le bien de l'humanité, roue de la vérité qu'aucun dieu, aucun démon, ni aucune autre puissance, qu'elle soit humaine, divine ou infernale, ne pourrait jamais faire reculer.
 
-Une procession se rendit au lieu saint et fit le tour du stupa, érigé sur le lieu sacré en commémoration de cet événement mémorable, et les deux monarques, qui s'étaient rencontrés peu de temps auparavant comme ennemis sur le champ de bataille, marchèrent ensemble comme des frères, précédés de vierges en robe blanche portant des fleurs et suivis de prêtres chantant des gâthas des bénédictions de la bonne loi et agitant des encensoirs. <span id="p69">[<sup><small>p. 69</small></sup>]</span> Aucune démonstration d'armes n'eut lieu, mais des multitudes de citoyens pacifiques saluèrent les deux souverains et bénirent la magnanimité du héros du Gandhâra.
+Une procession se rendit au lieu saint et fit le tour du stupa, érigé sur le lieu sacré en commémoration de cet événement mémorable, et les deux monarques, qui s'étaient rencontrés peu de temps auparavant comme ennemis sur le champ de bataille, marchèrent ensemble comme des frères, précédés de vierges en robe blanche portant des fleurs et suivis de prêtres chantant des gâthas des bénédictions de la bonne loi et agitant des encensoirs. <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> Aucune démonstration d'armes n'eut lieu, mais des multitudes de citoyens pacifiques saluèrent les deux souverains et bénirent la magnanimité du héros du Gandhâra.
 
 Lorsque le cortège s’arrêta, Kanishka et son frère le roi se postèrent devant une statue du Bouddha et observèrent le processus de dépôt des fleurs. « Qui est la belle jeune fille qui conduit les porteurs de fleurs ? » demanda Kanishka au roi de Magadha à voix basse. Ce dernier répondit : « C’est Bhadraçrî, ma fille unique. »
 
@@ -52,7 +52,7 @@ Au stupa du premier sermon du Bouddha, la paix fut définitivement conclue. Le r
 
 Açvaghosha arriva au parc aux cerfs dans un carrosse royal tiré par des chevaux blancs, et là, il fut présenté au roi Kanishka. Il s'inclina respectueusement et dit : « Loué soit le Seigneur Bouddha pour ses enseignements bénis ! La joie emplit mon cœur lorsque je pense à la façon dont Votre Majesté traite votre ennemi vaincu. L'ennemi victorieux est devenu un ami et un frère, mettant fin à toute hostilité pour toujours. »
 
-« Bien, mon ami, répondit Kanishka ; si mon action a quelque mérite, je dois remercier le Tathâgata pour mon karma. Il est mon maître et je bénis le jour heureux où je suis devenu son disciple. Ma connaissance, cependant, est imparfaite et même mon savant ami Charaka est plein de doutes sur des sujets d’une importance capitale. <span id="p71">[<sup><small>p. 71</small></sup>]</span> C’est pourquoi je t’invite à m’accompagner au Gandhâra, où mon peuple et moi-même avons cruellement besoin de ta sagesse et de ton expérience. »
+« Bien, mon ami, répondit Kanishka ; si mon action a quelque mérite, je dois remercier le Tathâgata pour mon karma. Il est mon maître et je bénis le jour heureux où je suis devenu son disciple. Ma connaissance, cependant, est imparfaite et même mon savant ami Charaka est plein de doutes sur des sujets d’une importance capitale. <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> C’est pourquoi je t’invite à m’accompagner au Gandhâra, où mon peuple et moi-même avons cruellement besoin de ta sagesse et de ton expérience. »
 
 « Votre invitation est flatteuse, dit le philosophe, et elle est formulée avec bienveillance ; mais je vous prie, noble seigneur, de me laisser chez moi. Je suis un homme âgé et je pourrais à peine supporter l’effort du voyage. Mais je connais un savant méritant, Jñanayaça, qui est très versé dans la doctrine de notre Seigneur et beaucoup plus jeune que moi. Il peut venir à ma place ; et si je deviens plus fort, je serai heureux de vous rendre visite à Gandhâra. »
 

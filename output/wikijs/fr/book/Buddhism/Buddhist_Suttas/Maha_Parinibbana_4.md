@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 ## LE LIVRE DU GRAND DÉCÈS. MAHÂ-PARINIBBÂNA-SUTTA. CHAPITRE IV.
 
@@ -57,7 +57,7 @@ Le maître à l'œil divin, l'éteignoir des chagrins, doit mourir !
 
 4\. Là aussi, lors de son séjour à Bha<i>nd</i>a-gâma, le Béni du Ciel tint avec les frères ce discours religieux complet sur la nature de la conduite droite, de la contemplation sincère et de l'intelligence. « Grand est le fruit, grand est l'avantage de la contemplation sincère lorsqu'elle est accompagnée d'une conduite droite. Grand est le fruit, grand est l'avantage de l'intellect lorsqu'il est accompagné d'une contemplation sincère. »
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span> L'esprit animé d'intelligence est libéré des grands maux, c'est-à-dire de la sensualité, de l'individualité, de l'illusion et de l'ignorance.
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span> L'esprit animé d'intelligence est libéré des grands maux, c'est-à-dire de la sensualité, de l'individualité, de l'illusion et de l'ignorance.
 
 5\. Lorsque le Béni du Ciel fut resté à Bha<i>nd</i>a-gâma aussi longtemps qu'il le désirait, il s'adressa au vénérable Ânanda et dit : « Viens, Ânanda, allons à Hatthi-gâma. »
 
@@ -75,11 +75,11 @@ Là, le Bienheureux s'adressa aux frères et dit : « Je vais vous enseigner, ô
 
 8\. « En premier lieu, frères, un frère peut dire ainsi : « J’ai entendu de la bouche du Bienheureux lui-même, je l’ai reçu de sa propre bouche. Telle est la vérité, telle est la loi, tel est l’enseignement du Maître. » La parole prononcée par ce frère, frères, ne doit être ni accueillie avec éloges ni traitée avec mépris. Sans éloges ni mépris, chaque mot, chaque syllabe doit être soigneusement compris, puis comparé à l’Écriture et comparé aux règles de l’ordre[^6]. Si, après cette comparaison, ils ne s’harmonisent pas avec l’Écriture et ne s’accordent pas avec les règles de l’ordre, alors vous pouvez conclure : « En vérité, cette parole n’est pas celle du Bienheureux, et a-t-elle été mal comprise par ce frère ? » C’est pourquoi, frères, vous devez la rejeter. Mais si elles sont en harmonie avec les Écritures et conformes aux règles de l'ordre, alors vous pourrez conclure : « En vérité, c'est la parole du Béni, et elle a été bien comprise par ce frère. » Ceci, frères, vous devriez le recevoir comme la première Grande Référence.
 
-9\. « Encore une fois, frères, un frère peut dire : « Dans telle demeure se trouve une assemblée de frères avec leurs anciens et leurs chefs. De la bouche de cette assemblée, j’ai entendu, <span id="p68">[<sup><small>p. 68</small></sup>]</span> je l’ai reçue face à face. Ceci est la vérité, ceci est la loi, ceci est l’enseignement du Maître. » La parole prononcée par ce frère, frères, ne doit être ni accueillie avec éloge ni traitée avec mépris. Sans éloge ni mépris, chaque mot, chaque syllabe doit être soigneusement compris, puis comparé à l’Écriture et comparé aux règles de l’ordre. Si, après cette comparaison, ils ne s’harmonisent pas avec l’Écriture et ne s’accordent pas avec les règles de l’ordre, alors vous pouvez conclure : « En vérité, ce n’est pas la parole du Béni du Ciel, et elle a été mal comprise par cette assemblée de frères. » C'est pourquoi, frères, vous devriez les rejeter. Mais si elles sont en harmonie avec les Écritures et conformes aux règles de l'ordre, alors vous pourrez conclure : « En vérité, c'est la parole du Béni du Ciel, et elle a été bien comprise par cette communauté de frères. » Vous devriez la recevoir, frères, comme la deuxième Grande Référence.
+9\. « Encore une fois, frères, un frère peut dire : « Dans telle demeure se trouve une assemblée de frères avec leurs anciens et leurs chefs. De la bouche de cette assemblée, j’ai entendu, <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> je l’ai reçue face à face. Ceci est la vérité, ceci est la loi, ceci est l’enseignement du Maître. » La parole prononcée par ce frère, frères, ne doit être ni accueillie avec éloge ni traitée avec mépris. Sans éloge ni mépris, chaque mot, chaque syllabe doit être soigneusement compris, puis comparé à l’Écriture et comparé aux règles de l’ordre. Si, après cette comparaison, ils ne s’harmonisent pas avec l’Écriture et ne s’accordent pas avec les règles de l’ordre, alors vous pouvez conclure : « En vérité, ce n’est pas la parole du Béni du Ciel, et elle a été mal comprise par cette assemblée de frères. » C'est pourquoi, frères, vous devriez les rejeter. Mais si elles sont en harmonie avec les Écritures et conformes aux règles de l'ordre, alors vous pourrez conclure : « En vérité, c'est la parole du Béni du Ciel, et elle a été bien comprise par cette communauté de frères. » Vous devriez la recevoir, frères, comme la deuxième Grande Référence.
 
 10\. « Encore, frères, un frère peut dire ainsi : « Dans tel ou tel lieu habitent de nombreux anciens de l’ordre, profondément instruits, gardant la foi transmise par la tradition, versés dans les vérités, versés dans les règlements de l’ordre, versés dans les résumés des doctrines et de la loi. De la bouche de ces anciens, je l’ai entendu, de leur bouche, je l’ai reçu. Ceci est la vérité, ceci est la loi, ceci est l’enseignement du Maître. » La parole prononcée, frères, par ce frère ne doit être ni accueillie avec éloge ni traitée avec mépris. Sans éloge ni mépris, chaque mot, chaque syllabe doit être soigneusement compris, puis mis à côté de l’Écriture et comparé aux règles de l’ordre. Si, comparées ainsi, elles ne sont pas en harmonie avec les Écritures et ne respectent pas les règles de l'ordre, vous pouvez conclure : « En vérité, ce n'est pas la parole du Béni du Ciel, et ces anciens l'ont mal comprise. » C'est pourquoi, frères, vous devriez la rejeter. Mais si elles sont en harmonie avec les Écritures et respectent les règles de l'ordre, vous pouvez conclure : « En vérité, ce n'est pas la parole du Béni du Ciel, et ces anciens l'ont bien comprise. » Voilà, frères, la troisième Grande Référence que vous devriez recevoir.
 
-11\. « Encore, frères, un frère peut dire : « Dans telle demeure vit un frère, instruit, attaché à la foi transmise par la tradition, versé dans les vérités, versé dans les règles de l’ordre, versé dans les résumés des doctrines et de la loi. De la bouche de cet ancien je l’ai entendu, de sa bouche je l’ai reçu. Ceci est la vérité, ceci est la loi, ceci est l’enseignement du Maître. » La parole prononcée par ce frère, frères, ne doit être ni accueillie avec éloge ni traitée avec mépris. Sans éloge ni mépris, chaque mot, chaque syllabe doit être soigneusement compris, puis comparé à l’Écriture et comparé aux règles de l’ordre. Si, après cette comparaison, ils ne s’harmonisent pas avec l’Écriture et ne s’accordent pas avec les règles de l’ordre, alors vous pouvez conclure : « En vérité, ce n’est pas la parole du Béni du Ciel, et ce frère l’a mal comprise. » C'est pourquoi, frères, vous devriez les rejeter. Mais si elles sont en harmonie avec l'Écriture <span id="p70">[<sup><small>p. 70</small></sup>]</span> et conformes aux règles de l'ordre, alors vous pourrez conclure : « En vérité, c'est la parole du Béni du Ciel, et elle a été bien comprise par ce frère. » Ceci, frères, vous devriez le recevoir comme la quatrième Grande Référence.
+11\. « Encore, frères, un frère peut dire : « Dans telle demeure vit un frère, instruit, attaché à la foi transmise par la tradition, versé dans les vérités, versé dans les règles de l’ordre, versé dans les résumés des doctrines et de la loi. De la bouche de cet ancien je l’ai entendu, de sa bouche je l’ai reçu. Ceci est la vérité, ceci est la loi, ceci est l’enseignement du Maître. » La parole prononcée par ce frère, frères, ne doit être ni accueillie avec éloge ni traitée avec mépris. Sans éloge ni mépris, chaque mot, chaque syllabe doit être soigneusement compris, puis comparé à l’Écriture et comparé aux règles de l’ordre. Si, après cette comparaison, ils ne s’harmonisent pas avec l’Écriture et ne s’accordent pas avec les règles de l’ordre, alors vous pouvez conclure : « En vérité, ce n’est pas la parole du Béni du Ciel, et ce frère l’a mal comprise. » C'est pourquoi, frères, vous devriez les rejeter. Mais si elles sont en harmonie avec l'Écriture <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> et conformes aux règles de l'ordre, alors vous pourrez conclure : « En vérité, c'est la parole du Béni du Ciel, et elle a été bien comprise par ce frère. » Ceci, frères, vous devriez le recevoir comme la quatrième Grande Référence.
 
 «Voici, frères, les quatre grandes références.»
 
@@ -99,7 +99,7 @@ Et là, à Pâvâ, le Bienheureux séjourna dans la mangueraie de <i>K</i>unda, 
 
 14\. Alors <i>K</i>unda, l'ouvrier métallurgiste, apprit que le Bienheureux était venu à Pâvâ et qu'il séjournait là, dans sa mangueraie.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Alors <i>Kunda</i>, l'ouvrier métallurgiste, se rendit à l'endroit où se trouvait le Bienheureux et, le saluant, s'assit respectueusement à côté. Lorsqu'il fut ainsi assis, le Bienheureux l'instruisit, l'éveilla, l'incita et le réjouit par des discours religieux.
 
@@ -113,7 +113,7 @@ Et le Bienheureux signifia, par le silence, son consentement.
 
 18\. Le Béni du Ciel revêtit sa robe de bon matin, prit son bol et se rendit avec les frères à la demeure de Kunda, le forgeron. Arrivé là, il s'assit sur le siège préparé pour lui. Une fois assis, il s'adressa à Kunda, le forgeron, et dit : « Quant à la viande de sanglier séchée que tu as préparée, sers-la-moi, Kunda ; et quant aux autres mets, le riz sucré et les gâteaux, sers-les aux frères. »
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 « C'est ainsi, Seigneur ! » dit Kunda, l'ouvrier métallurgiste, en signe d'assentiment au Bienheureux. Il servit au Bienheureux la chair de sanglier séchée qu'il avait préparée ; tandis que l'autre nourriture, le riz sucré et les gâteaux, était servie aux membres de l'ordre.
 
@@ -127,7 +127,7 @@ Et le Bienheureux signifia, par le silence, son consentement.
 
 22\. Et le Béni du Ciel s'adressa au vénérable Ânanda et dit : « Viens, Ânanda, allons à Kusinârâ. »
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 « De même, Seigneur ! » dit le vénérable Ananda en signe d’assentiment au Béni du Ciel.
 
@@ -159,7 +159,7 @@ Je vais maintenant à Kusinârâ[^7].'
 
 30. « C'est ainsi, Seigneur ! » dit le vénérable Ananda au Béni du Ciel, en signe d'assentiment. Et, prenant un bol, il descendit jusqu'au ruisseau. Et voici ! Le ruisseau, qui, agité par les roues, était devenu peu profond et coulait trouble et turbide, avait commencé, lorsque le vénérable Ananda s'en approcha, à couler clair, brillant et exempt de toute turbidité.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 31\. Alors Ananda pensa : « Comme c'est merveilleux, comme c'est merveilleux la puissance et le pouvoir immenses du Tathâgata ! Car ce ruisseau qui, agité par les roues, était tout juste devenu peu profond et coulait nauséabond et trouble, maintenant que je m'en approche, coule clair et brillant, exempt de toute turbidité. »
 
@@ -171,7 +171,7 @@ Alors le Bienheureux but de l’eau.
 
 33\. Or, à cette époque, un homme nommé Pukkusa[^9], un jeune Mallien, disciple d'Â<i>l</i>âra Kâlâma, passait sur la grande route de Kusinârâ à Pâvâ.
 
-34\. Pukkusa, le jeune Mallien, vit le Bienheureux assis au pied d'un arbre. En le voyant, il monta à l'endroit où se trouvait le Bienheureux, et une fois arrivé, il le salua et se reposa respectueusement sur le côté. Et lorsqu'il fut assis <span id="p76">[<sup><small>p. 76</small></sup>]</span> Pukkusa, le jeune Mallien, dit au Bienheureux : « Comme c'est merveilleux, Seigneur ! Et comme c'est merveilleux que ceux qui ont quitté le monde passent leur temps dans un état d'esprit aussi calme ! »
+34\. Pukkusa, le jeune Mallien, vit le Bienheureux assis au pied d'un arbre. En le voyant, il monta à l'endroit où se trouvait le Bienheureux, et une fois arrivé, il le salua et se reposa respectueusement sur le côté. Et lorsqu'il fut assis <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> Pukkusa, le jeune Mallien, dit au Bienheureux : « Comme c'est merveilleux, Seigneur ! Et comme c'est merveilleux que ceux qui ont quitté le monde passent leur temps dans un état d'esprit aussi calme ! »
 
 35\. Autrefois, Seigneur, Â<i>l</i>âra Kâlâma marchait sur la grande route ; et, quittant la route, il s'assit sous un arbre pour se reposer pendant la chaleur du jour. Or, Seigneur, cinq cents charrettes passèrent l'une après l'autre, chacune près d'Â<i>l</i>âra Kâlâma. Et un homme, qui suivait de près cette caravane de charrettes, monta à l'endroit où se trouvait Â<i>l</i>âra Kâlâma, et lorsqu'il y fut arrivé, il lui parla ainsi :
 
@@ -205,7 +205,7 @@ Alors le Bienheureux but de l’eau.
 
 39\. « Or, Pukkusa, un jour, j'habitais à Âtumâ, et j'étais à l'aire de battage[^10]. À ce moment-là, la pluie commença à tomber et à éclabousser, les éclairs à jaillir et la foudre à s'abattre ; et deux frères paysans et quatre bœufs furent tués. Alors, Pukkusa, une grande foule sortit d'Âtumâ et monta à l'endroit où les deux frères paysans et les quatre bœufs gisaient morts.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 40\. « À ce moment-là, Pukkusa, j'étais sorti de l'aire de battage et je marchais de long en large, pensant à l'entrée de l'aire. Et un homme, Pukkusa, sortit de cette grande foule, s'approcha de l'endroit où j'étais ; et lorsqu'il arriva, il me salua et prit respectueusement place à l'écart. »
 
@@ -239,13 +239,13 @@ Alors le Bienheureux but de l’eau.
 
 42\. « Alors, Pukkusa, la pensée vint à cet homme :
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 « Quelle chose merveilleuse et prodigieuse est-ce que ceux qui ont quitté le monde passent leur temps dans un état d’esprit si calme ! – de sorte qu’un homme conscient et éveillé ne voit ni n’entend le bruit de la pluie qui tombe, qui clapote et qui éclabousse, qui fait jaillir les éclairs et qui fait s’écraser la foudre. » Et après avoir exprimé sa profonde foi en moi, il s’est éloigné de moi avec les démonstrations de respect habituelles.
 
 43\. Et après avoir ainsi parlé, Pukkusa, le jeune Mallien, s'adressa au Béni du Ciel en ces termes : « Maintenant, Seigneur, quant à la foi que j'avais en Â<i>l</i>âra Kâlâma, je la vanne comme un vent puissant et je la lave comme un torrent. Très excellentes, Seigneur, sont les paroles de ta bouche, très excellentes ! Tout comme si un homme devait redresser ce qui est renversé, ou révéler ce qui est caché, ou indiquer le droit chemin à celui qui s'est égaré, ou apporter une lampe dans les ténèbres, afin que ceux qui ont des yeux puissent voir les formes extérieures – de même, Seigneur, la vérité m'a été révélée, sous de nombreuses formes, par le Béni du Ciel. Et moi, moi aussi, Seigneur, je me réfugie auprès du Béni du Ciel, auprès de la Vérité et de la Fraternité. » Que le Bienheureux m'accepte comme disciple, comme vrai croyant, à partir de ce jour, aussi longtemps que la vie durera[^11] !
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 44\. Alors Pukkusa, le jeune Mallien, s'adressa à un certain homme et dit : « Apportez-moi, je vous prie, mon bon homme, une paire de robes en drap d'or, polies et prêtes à être portées. »
 
@@ -261,7 +261,7 @@ Alors le Bienheureux but de l’eau.
 
 ---
 
-47\. Peu de temps après que le Pukkusa Mallien eut placé Ananda sur le corps du Bienheureux cette paire de robes de tissu d'or, polie et prête à être portée, et lorsqu'elle fut ainsi <span id="p81">[<sup><small>p. 81</small></sup>]</span> lacée sur le corps du Bienheureux, elle sembla avoir perdu sa splendeur[^12] !
+47\. Peu de temps après que le Pukkusa Mallien eut placé Ananda sur le corps du Bienheureux cette paire de robes de tissu d'or, polie et prête à être portée, et lorsqu'elle fut ainsi <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> lacée sur le corps du Bienheureux, elle sembla avoir perdu sa splendeur[^12] !
 
 48\. Et le vénérable Ananda dit au Bienheureux : « Comme c'est merveilleux, Seigneur, et comme c'est merveilleux, que la couleur de la peau du Bienheureux soit si claire, si éclatante ! Car lorsque j'ai placé cette robe de tissu d'or poli, prête à être portée, sur le corps du Bienheureux, voilà qu'elle semblait avoir perdu sa splendeur ! »
 
@@ -269,7 +269,7 @@ Alors le Bienheureux but de l’eau.
 
 50\. « La nuit, Ânanda, où un Tathâgata atteint la vision suprême et parfaite, et la nuit où il disparaît finalement dans cette disparition totale qui ne laisse absolument rien subsister, à ces deux occasions, la couleur de la peau du Tathâgata devient claire et extrêmement brillante.
 
-51\. « Et maintenant, aujourd'hui, Ânanda, à la troisième veille de la nuit, dans l'Upavattana de Kusinârâ, dans le bosquet Sâla des Malliens, entre les arbres jumeaux Sâla <span id="p82">[<sup><small>p. 82</small></sup>]</span>, la disparition complète du Tathâgata aura lieu. Viens, Ânanda ! Allons jusqu'à la rivière Kakutthâ. »
+51\. « Et maintenant, aujourd'hui, Ânanda, à la troisième veille de la nuit, dans l'Upavattana de Kusinârâ, dans le bosquet Sâla des Malliens, entre les arbres jumeaux Sâla <span id="p82"><sup><small>[ p. 82 ]</small></sup></span>, la disparition complète du Tathâgata aura lieu. Viens, Ânanda ! Allons jusqu'à la rivière Kakutthâ. »
 
 « De même, Seigneur ! » dit le vénérable Ananda en signe d’assentiment au Béni du Ciel.
 
@@ -286,7 +286,7 @@ Brilla d'une couleur semblable à celle de l'or[^13] !
 
 « C'est ainsi, Seigneur ! » dit le vénérable Kundaka en signe d'assentiment au Bienheureux. Et il plia une robe en quatre et l'étendit.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 55\. Et le Bienheureux s'allongea sur le côté droit, un pied posé sur l'autre ; et, calme et maître de lui, il médita sur l'idée de se relever en temps voulu. Et le vénérable Kundaka s'assit là, devant le Bienheureux.
 

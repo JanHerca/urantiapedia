@@ -44,7 +44,7 @@ UNE FEMME MALHEUREUSE, QUI A ÉTÉ SÉDUITE DANS UNE CONNEXION INCORRECTE, MAINT
 
 Un extrait est donné de l'histoire pathétique relatée ici, car il montre comment la divination était utilisée parmi les gens ordinaires et entrait généralement dans les affaires ordinaires de la vie.
 
-Tu étais un garçon d'apparence simple, portant du tissu <span id="p438">[<sup><small>p. 438</small></sup>]</span> pour l'échanger contre de la soie. (Mais) tu n'es pas venu pour acheter de la soie ; tu es venu pour me faire des propositions. Je t'ai convoyé à travers le <i>Kh</i>î [^609], jusqu'à Tun-_kh_iû [^610], « Ce n'est pas moi », (dis-je), « qui voudrais prolonger le temps ; mais tu n'as pas eu de bon intermédiaire. Je te prie de ne pas te mettre en colère, et que l'automne soit le moment. »
+Tu étais un garçon d'apparence simple, portant du tissu <span id="p438"><sup><small>[ p. 438 ]</small></sup></span> pour l'échanger contre de la soie. (Mais) tu n'es pas venu pour acheter de la soie ; tu es venu pour me faire des propositions. Je t'ai convoyé à travers le <i>Kh</i>î [^609], jusqu'à Tun-_kh_iû [^610], « Ce n'est pas moi », (dis-je), « qui voudrais prolonger le temps ; mais tu n'as pas eu de bon intermédiaire. Je te prie de ne pas te mettre en colère, et que l'automne soit le moment. »
 
 J'ai gravi ce mur en ruine, Pour regarder vers Fû-kwan [^611] ; Et quand je ne t'ai pas vu (en sortir), Mes larmes ont coulé à flots. Quand je t'ai vu (en sortir) de Fû-kwan, J'ai ri et j'ai parlé. Tu avais consulté, (dis-tu), l'écaille de tortue et les tiges de divination, Et il n'y avait rien de défavorable dans leur réponse [^612]. 'Alors viens', (dis-je), 'avec ton chariot, Et je partirai avec mes biens.'
 

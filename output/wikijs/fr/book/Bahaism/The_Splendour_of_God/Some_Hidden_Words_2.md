@@ -50,7 +50,7 @@ Tourne ton regard vers toi-même, afin que tu me trouves debout en toi, Puissant
 
 Si tu cherches un autre que moi, oui, si tu cherches l'univers à jamais, ta recherche sera vaine.
 
-<span id="p98">[<sup><small>p. 98</small></sup>]</span>
+<span id="p98"><sup><small>[ p. 98 ]</small></sup></span>
 
 Ô Fils de la Très Haute Vision ! J'ai placé en toi un esprit issu de Moi, afin que tu deviennes Mon Amant ! Pourquoi M'as-tu abandonné et as-tu cherché à aimer un autre ?
 

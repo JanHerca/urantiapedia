@@ -32,15 +32,15 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 ## PREMIÈRE PARTIE
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 ![](/image/book/Buddhism/La_Vie_du_Bouddha/00200.jpg)
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 Sérénissime et magnifique était cette cité où avait autrefois vécu le grand ermite Kapila. Elle semblait bâtie sur un fragment du ciel : les murs étaient comme des nuages ​​de lumière, et les maisons et les jardins rayonnaient d'une splendeur divine. Des pierres précieuses scintillaient partout. À l'intérieur de ses portes, l'obscurité était aussi méconnue que la pauvreté. La nuit, lorsque les rayons argentés de la lune caressaient chaque tourelle, la ville ressemblait à un étang de nénuphars ; le jour, lorsque les terrasses étaient baignées d'un soleil doré, la ville était comme une rivière de lotus.
 

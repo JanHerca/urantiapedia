@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 
 Un jour, quelqu'un parla en présence du prince et raconta comment l'herbe des bois était devenue d'un vert tendre, comment les oiseaux des arbres chantaient le printemps et comment, dans les étangs, les grands lotus s'épanouissaient. La nature avait brisé les chaînes que l'hiver avait forgées, et, autour de la ville, ces jardins si chers aux jeunes filles étaient maintenant gaiement tapissés de fleurs. Alors, tel un éléphant trop longtemps confiné dans son écurie, le prince ressentit une irrésistible envie de quitter le palais.
@@ -43,7 +43,7 @@ Le roi apprit le désir de son fils et ne sut comment s'y opposer.
 
 La ville fut décorée de guirlandes et de banderoles ; un char magnifique fut préparé, et les estropiés, les vieillards et les mendiants furent chassés des rues où passerait le prince.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Quand le moment fut venu, le roi fit venir son fils. Les larmes aux yeux, il l'embrassa sur le front. Son regard s'attarda sur lui, puis il lui dit : « Va ! » Et sur ces mots, il lui donna la permission de quitter le palais, bien que son cœur lui parlât différemment.
 
@@ -67,7 +67,7 @@ Ce qui gâche la beauté, ruine la vigueur, cause le chagrin et tue le plaisir, 
 
 Le prince fut profondément ému. Il demanda :
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 « Est-ce que ce sera aussi mon destin ? »
 
@@ -87,7 +87,7 @@ Mais les dieux créèrent un homme atteint d'une maladie répugnante et le dépo
 
 Siddhartha vit le malade, le fixa du regard et demanda au cocher :
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 « Qui est cet homme à la bedaine gonflée ? Ses bras émaciés pendent, il est pâle comme la mort et des cris pitoyables s'échappent de ses lèvres. Il halète ; voyez, il titube et bouscule les spectateurs ; il tombe… Cocher, cocher, qui est cet homme ? »
 
@@ -105,7 +105,7 @@ Le cocher répondit :
 
 Lorsqu'il entendit cette douloureuse vérité, le prince se mit à trembler comme un rayon de lune reflété dans les vagues de la mer, et il prononça ces paroles d'amertume et de pitié :
 
-Les hommes voient la souffrance et la maladie, et pourtant ils ne perdent jamais confiance en eux ! Oh, comme leur savoir doit être vaste ! Ils sont constamment menacés par la maladie, et pourtant ils peuvent encore rire et s'amuser ! Fais demi-tour, cocher ; notre voyage d'agrément est terminé ; retournons au palais. J'ai appris à craindre la maladie. Mon âme fuit le plaisir <span id="p46">[<sup><small>p. 46</small></sup>]</span> et semble se fermer comme une fleur privée de lumière.
+Les hommes voient la souffrance et la maladie, et pourtant ils ne perdent jamais confiance en eux ! Oh, comme leur savoir doit être vaste ! Ils sont constamment menacés par la maladie, et pourtant ils peuvent encore rire et s'amuser ! Fais demi-tour, cocher ; notre voyage d'agrément est terminé ; retournons au palais. J'ai appris à craindre la maladie. Mon âme fuit le plaisir <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> et semble se fermer comme une fleur privée de lumière.
 
 Enveloppé dans ses pensées douloureuses, il retourna au palais.
 
@@ -115,7 +115,7 @@ Le roi était plus que jamais soucieux d'empêcher son fils de quitter le palais
 
 Il donna des ordres stricts pour que tous les infirmes, malades ou âgés soient chassés de la ville. Il changea même le cocher du prince, et il était certain que cette fois, rien ne viendrait troubler l'âme de Siddhartha.
 
-Mais les dieux jaloux firent un cadavre. Quatre hommes le portèrent, et d'autres suivirent en pleurant. <span id="p47">[<sup><small>p. 47</small></sup>]</span> Et le cadavre, ainsi que les hommes qui le portaient et ceux qui pleuraient, n'étaient visibles que du prince et du cocher.
+Mais les dieux jaloux firent un cadavre. Quatre hommes le portèrent, et d'autres suivirent en pleurant. <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> Et le cadavre, ainsi que les hommes qui le portaient et ceux qui pleuraient, n'étaient visibles que du prince et du cocher.
 
 Et le fils du roi demanda :
 
@@ -133,7 +133,7 @@ Alors le prince Siddhartha comprit ce qu’était la mort.
 
 Malgré son courage, il frissonna. Il dut s'appuyer contre le char, et ses paroles étaient pleines de détresse :
 
-« C'est à cela que conduit le destin de toutes les créatures ! Et pourtant, sans crainte, l'homme s'amuse de mille manières ! La mort approche, et il <span id="p48">[<sup><small>p. 48</small></sup>]</span> sillonne les routes du monde, une chanson aux lèvres ! Oh, je commence à croire que l'âme humaine s'est endurcie ! Fais demi-tour, cocher ; ce n'est pas le moment d'errer dans les jardins fleuris. Comment un homme sensé, un homme qui sait ce qu'est la mort, peut-il chercher du plaisir à l'heure de l'angoisse ? »
+« C'est à cela que conduit le destin de toutes les créatures ! Et pourtant, sans crainte, l'homme s'amuse de mille manières ! La mort approche, et il <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> sillonne les routes du monde, une chanson aux lèvres ! Oh, je commence à croire que l'âme humaine s'est endurcie ! Fais demi-tour, cocher ; ce n'est pas le moment d'errer dans les jardins fleuris. Comment un homme sensé, un homme qui sait ce qu'est la mort, peut-il chercher du plaisir à l'heure de l'angoisse ? »
 
 Mais le cocher continua sa route vers le jardin où le roi lui avait ordonné d'emmener son fils. Là, sur l'ordre de Suddhodana, Udayin, fils du prêtre de la maison et ami d'enfance de Siddhartha, avait rassemblé de nombreuses belles jeunes filles, expertes en danse et en chant, et expertes également en jeux amoureux.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 ## TRAITÉ III.
 
@@ -46,7 +46,7 @@ Déménagements — Travaux à éviter — Discussion entre les écoles de Shamm
 
 2\. Un homme ne doit pas s'asseoir devant le barbier près de la prière du soir, [^90] avant d'avoir prié. Il ne doit pas entrer dans un bain, ni dans une tannerie, ni manger, ni juger. « Mais s'ils ont commencé ? » « Ils n'ont pas besoin de cesser. » Ils peuvent cesser de lire le « Écoutez », [^91] etc., mais ils ne doivent pas cesser de prier.
 
-3\. Un tailleur ne doit pas sortir avec son aiguille à la tombée de la nuit, [^90] <span id="p84">[<sup><small>p. 84</small></sup>]</span> de peur de l'oublier et de partir (après). Ni un scribe ne doit sortir avec sa plume. On ne doit pas non plus fouiller ses vêtements. On ne doit pas non plus lire à la lumière de la lampe. En vérité, ils ont dit : « Le maître peut ignorer quand les enfants lisent, mais lui-même ne lira pas. » De même, celui qui a un flux ne mangera pas avec celle qui a un flux, à cause de la coutume de la transgression.
+3\. Un tailleur ne doit pas sortir avec son aiguille à la tombée de la nuit, [^90] <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> de peur de l'oublier et de partir (après). Ni un scribe ne doit sortir avec sa plume. On ne doit pas non plus fouiller ses vêtements. On ne doit pas non plus lire à la lumière de la lampe. En vérité, ils ont dit : « Le maître peut ignorer quand les enfants lisent, mais lui-même ne lira pas. » De même, celui qui a un flux ne mangera pas avec celle qui a un flux, à cause de la coutume de la transgression.
 
 4\. Voici les décisions qu'ils ont mentionnées concernant la chambre haute d'Hanania, fils d'Ézéchias, fils de Gorion, lorsque les Sages sont allés le voir. L'école de Shammaï a été recensée, et elle était plus nombreuse que celle d'Hillel. Et dix-huit affaires ont été décidées ce jour-là.
 
@@ -58,7 +58,7 @@ Déménagements — Travaux à éviter — Discussion entre les écoles de Shamm
 
 8\. L'école de Shammaï disait : « Ils ne doivent pas donner de peaux à un tanneur, ni d'articles à une blanchisseuse étrangère, à moins que cela ne soit suffisamment fait pendant qu'il fait encore jour. » Mais l'école de Hillel les autorise tous « avec le soleil ».
 
-9\. Rabbi Simon, fils de Gamaliel, a dit : « La maison de mon père avait l'habitude de donner des vêtements blancs à une blanchisseuse étrangère trois jours avant le sabbat. » Mais les deux écoles s'accordent à dire qu'« ils peuvent porter [^92] des poutres au pressoir à huile et des bûches au pressoir à vin. » <span id="p85">[<sup><small>p. 85</small></sup>]</span> 
+9\. Rabbi Simon, fils de Gamaliel, a dit : « La maison de mon père avait l'habitude de donner des vêtements blancs à une blanchisseuse étrangère trois jours avant le sabbat. » Mais les deux écoles s'accordent à dire qu'« ils peuvent porter [^92] des poutres au pressoir à huile et des bûches au pressoir à vin. » <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> 
 
 10\. « Ils ne doivent pas frire de viande, d'oignons et d'œufs, à moins qu'ils ne soient suffisamment frits pendant qu'il fait encore jour. Ils ne doivent pas mettre de pain au four au crépuscule, ni de gâteau sur des braises, à moins que sa face ne soit suffisamment croustillante pendant qu'il fait encore jour. » Rabbi Eliezer a dit : « que son dessous soit suffisamment croustillant. »
 

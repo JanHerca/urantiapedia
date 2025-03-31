@@ -31,7 +31,7 @@ dateCreated: 2024-11-16T19:16:5Z
     </tbody>
   </table>
 </figure>
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 **CHAPITRE IV.**
 
@@ -49,7 +49,7 @@ C'est à Damas, où il étudiait alors, qu'il vit pour la première fois Jelālu
 
 Finalement, il fut conduit à Qonya sur les traces de Jelāl, et y arriva pour la première fois à l'aube, le samedi 26 Joumāda-'l-ākhir 642 de l'hégire (28 novembre 1244), Jelāl étant alors professeur dans quatre collèges de cette ville. Ils se rencontrèrent comme il est relaté dans un chapitre précédent (chap. iii. Nos. 8, 9).
 
-Au terme de trois mois de réclusion, passés en recherches et en investigations religieuses, scientifiques et spirituelles, <span id="p100">[<sup><small>p. 100</small></sup>]</span> Shemsu-’d-Dīn fut convaincu qu’il n’avait jamais rencontré l’égal de Jelāl.
+Au terme de trois mois de réclusion, passés en recherches et en investigations religieuses, scientifiques et spirituelles, <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> Shemsu-’d-Dīn fut convaincu qu’il n’avait jamais rencontré l’égal de Jelāl.
 
 ## 2.
 
@@ -65,7 +65,7 @@ Chelebī Emīr ‘Ārif raconte que son père, Sultan Veled, lui a dit qu’un j
 
 Shemsu-’d-Dīn répondit à cet acte de renoncement : « C’est ma sœur la plus estimée. Ce que je désire, c’est un jeune homme qui me serve. » Jelāl présenta alors son propre fils, Sultan Veled, qui, dit-il, serait fier de porter les chaussures de Shems, les plaçant devant lui pour s’en servir lorsqu’il en aurait besoin pour une promenade à l’étranger. Shems objecta encore : « Il est comme mon fils. Mais, peut-être, me fournirez-vous un peu de vin. J’ai l’habitude d’en boire et je ne me sens pas à l’aise sans. »
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 Jelāl prit alors une cruche, se rendit lui-même dans le quartier des Juifs de la ville et revint avec la cruche pleine de vin, qu'il posa devant Shems.
 
@@ -83,7 +83,7 @@ Jelāl aurait dit : « Quand Shemsu-’d-Dīn est venu pour la première fois, e
 
 « Il vint me voir un autre jour, alors que j’étais en train d’étudier les écrits de mon père, sur son ordre. Trois fois, il m’appela : « Ne les étudie pas. » De ses traits sacrés jaillissait l’éclat de la sagesse spirituelle. J’ai déposé le livre et je ne l’ai plus jamais ouvert depuis. »
 
-<span id="p102">[<sup><small>p. 102</small></sup>]</span>
+<span id="p102"><sup><small>[ p. 102 ]</small></sup></span>
 
 ## 5.
 
@@ -107,7 +107,7 @@ Un jour, Shemsu-’d-Dīn était assis avec ses disciples, lorsque le bourreau p
 
 Les disciples connaissaient cet homme et dirent à Sems qu'il était le bourreau ordinaire. Sems répondit : « C'est vrai ! Dans l'exercice de sa vocation, il a fait mourir un homme de Dieu, dont il a ainsi libéré l'âme de l'esclavage du corps.
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 En récompense de cet acte bienveillant, le saint lui légua sa propre sainteté.
 
@@ -121,7 +121,7 @@ Un jour, Shems lui dit : « Husâm, ce n'est pas ainsi. La religion est une ques
 
 Aussitôt Husâm rentra chez lui, rassembla tous ses objets de valeur, son argent, les bijoux de sa femme et toutes les provisions de la maison, les apporta à Shems et les déposa à ses pieds. Il vendit en outre une vigne et une propriété qu'il possédait, en apportant le prix à son maître et en le remerciant de lui avoir appris un devoir et d'avoir daigné accepter de sa main une bagatelle aussi insignifiante.
 
-« Oui, Husâm, dit Shems, il faut espérer qu’avec la grâce de Dieu et les prières des saints, tu parviendras désormais à un rang tel que tu seras l’envie des hommes de Dieu les plus parfaits et que tu seras vénéré par les _Frères de Sincérité_. Il est vrai que les saints de Dieu ne manquent de rien, étant indépendants des deux mondes. Mais, au début, il n’y a pas d’autre moyen de tester la sincérité de celui que nous aimons et l’affection d’un ami que de lui demander de sacrifier ses biens matériels. L’étape suivante consiste à le sommer d’abandonner tout ce qui n’est pas son Dieu. Aucun disciple qui souhaite s’élever n’a jamais progressé en suivant ses propres plans. L’avancement se gagne en rendant service et en dépensant pour la cause de Dieu. Tout élève qui sacrifie ses biens à l’appel de son professeur <span id="p104">[<sup><small>p. 104</small></sup>]</span> donnerait également sa vie, si le besoin s’en faisait sentir. Aucun amoureux de Dieu ne peut conserver à la fois Mammon et la religion.
+« Oui, Husâm, dit Shems, il faut espérer qu’avec la grâce de Dieu et les prières des saints, tu parviendras désormais à un rang tel que tu seras l’envie des hommes de Dieu les plus parfaits et que tu seras vénéré par les _Frères de Sincérité_. Il est vrai que les saints de Dieu ne manquent de rien, étant indépendants des deux mondes. Mais, au début, il n’y a pas d’autre moyen de tester la sincérité de celui que nous aimons et l’affection d’un ami que de lui demander de sacrifier ses biens matériels. L’étape suivante consiste à le sommer d’abandonner tout ce qui n’est pas son Dieu. Aucun disciple qui souhaite s’élever n’a jamais progressé en suivant ses propres plans. L’avancement se gagne en rendant service et en dépensant pour la cause de Dieu. Tout élève qui sacrifie ses biens à l’appel de son professeur <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> donnerait également sa vie, si le besoin s’en faisait sentir. Aucun amoureux de Dieu ne peut conserver à la fois Mammon et la religion.
 
 Shems rendit alors à Husâm tous ses biens, ne gardant qu'une seule pièce d'argent. Il en donna neuf fois plus à Husâm du début à la fin, et comme le résultat de toutes choses est dans les mains de Dieu, ainsi Husâm devint finalement le chef des saints de Dieu, et Jelâl le fit gardien du trésor de Dieu. C'est lui qui écrivit les vingt-quatre mille six cent soixante distiques contenus dans les six livres du Mesnevî.
 
@@ -145,7 +145,7 @@ Shems s'en alla alors de lui-même, et personne n'osa le poursuivre. Deux jours 
 
 Le père de Jelāl, Bahā Veled, avait un disciple qui, pour une raison quelconque, offensa Shemsu-'d-Dīn ; ce dernier, en guise de punition, infligea une surdité aux deux oreilles du disciple.
 
-Après quelque temps, Shems pardonna au coupable <span id="p105">[<sup><small>p. 105</small></sup>]</span> et lui rendit l'ouïe. Mais l'homme lui en voulait néanmoins. Un jour, Shems lui dit : « Ami, je t'ai pardonné ; pourquoi es-tu encore abattu ? Sois consolé. » Malgré cela, sa rancœur demeurait.
+Après quelque temps, Shems pardonna au coupable <span id="p105"><sup><small>[ p. 105 ]</small></sup></span> et lui rendit l'ouïe. Mais l'homme lui en voulait néanmoins. Un jour, Shems lui dit : « Ami, je t'ai pardonné ; pourquoi es-tu encore abattu ? Sois consolé. » Malgré cela, sa rancœur demeurait.
 
 Un jour, il rencontra Shems au milieu d’un marché. Soudain, il sentit une nouvelle foi briller en lui et il s’écria : « Il n’y a pas d’autre dieu que Dieu ; Shemsu-’d-Dīn est l’apôtre de Dieu. »
 
@@ -161,7 +161,7 @@ Shems fit cette remarque : « Voyez toutes ces pauvres créatures ! Elles sont m
 
 Ainsi appelé, Jelāl se tourna vers la Mecque et offrit cette prière à Dieu : « Ô Toi Seigneur du ciel et de la terre, pour l’amour de Ton serviteur Shemsu-’d-Dīn, accorde la vigilance à ce peuple. »
 
-Aussitôt un nuage noir se rassembla du monde invisible. Des tonnerres et des éclairs éclatèrent, et une pluie si forte tomba que tous les dormeurs, attrapant les vêtements qu'ils purent trouver, se réfugièrent <span id="p106">[<sup><small>p. 106</small></sup>]</span> rapidement dans leurs maisons en contrebas. Shems sourit à la plaisanterie sainte et fut grandement amusé.
+Aussitôt un nuage noir se rassembla du monde invisible. Des tonnerres et des éclairs éclatèrent, et une pluie si forte tomba que tous les dormeurs, attrapant les vêtements qu'ils purent trouver, se réfugièrent <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> rapidement dans leurs maisons en contrebas. Shems sourit à la plaisanterie sainte et fut grandement amusé.
 
 Quand le jour parut, les disciples se rassemblèrent autour d'eux, aussi nombreux que les gouttes de pluie de cette averse, et Shems leur raconta l'histoire, avec les remarques suivantes :
 
@@ -177,7 +177,7 @@ A peine Kimiyā était-elle rentrée chez elle qu'elle commença à se sentir ma
 
 ## 14.
 
-On raconte qu'une seconde fois, Shems et Jelāl s'enfermèrent pendant six mois entiers dans la chambre de Jelāl au collège, sans prendre ni nourriture ni boisson, et <span id="p107">[<sup><small>p. 107</small></sup>]</span> sans qu'un seul individu entre pour les interrompre, ni qu'aucun d'eux ne sorte, à l'exception de Sultan Veled et d'un autre disciple.
+On raconte qu'une seconde fois, Shems et Jelāl s'enfermèrent pendant six mois entiers dans la chambre de Jelāl au collège, sans prendre ni nourriture ni boisson, et <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> sans qu'un seul individu entre pour les interrompre, ni qu'aucun d'eux ne sorte, à l'exception de Sultan Veled et d'un autre disciple.
 
 ## 15.
 
@@ -197,7 +197,7 @@ Il existe une tradition selon laquelle Jelāl aurait un jour appelé son fils Su
 
 Jelāl dit à son fils qu'il trouverait Shems dans une certaine auberge, jouant au backgammon avec un jeune Firengī (Européen, Franc), également un des saints de Dieu. Sultan Veled s'y rendit, trouva Shems exactement occupé de la même manière, et le ramena à Qonya, le jeune Firengī retournant dans son pays, pour y prêcher les doctrines de Jelāl, en tant que son vicaire.
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 Sultan Veled marcha tout le chemin de Damas à Qonya, à l’étrier de Shems, comme un palefrenier marche à côté du cheval d’un prince. Toute la ville sortit pour les recevoir. Jelâl et Shems s’embrassèrent. Jelâl devint plus que jamais dévoué à son ami, et ses disciples lui en voulurent de les avoir négligés, comme ils l’avaient fait auparavant. Peu de temps après, se produisit l’événement douloureux qui mit fin à la vie de Shemsu-’d-Dīn.
 
@@ -215,7 +215,7 @@ L'émir Chelebī ‘Ārif a raconté, d'après sa mère, Fātima Khātūn, que l
 
 Sultan Veled vit Shems en rêve et fut informé par lui de l'endroit où se trouverait le corps. Sultan Veled s'y rendit donc à minuit avec quelques amis, récupéra le corps, le lava et l'enterra en secret dans les jardins du collège, à côté du fondateur.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 ## 19.
 

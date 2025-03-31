@@ -52,7 +52,7 @@ UNE FEMME PLEURE LA MORT DE SON MARI, REFUSANT D'ÊTRE CONSOLÉE, ET DÉCLARE QU
 
 On suppose que le mari dont la mort est pleurée dans cette pièce était mort lors d'une des expéditions militaires chères au duc Hsien (676-651 av. J.-C.). C'est peut-être vrai, mais rien dans la pièce ne nous évoque le duc Hsien. Je lui accorde une place dans le volume, non pas à cause du sentiment religieux qu'elle véhicule, mais en raison de l'absence de ce sentiment, là où on pourrait s'y attendre. La dame fait preuve de la grande vertu d'une veuve chinoise, car elle ne se remariera jamais. Et son chagrin ne sera pas apaisé. Les jours lui sembleront tous de longs jours d'été, et les nuits de longues nuits d'hiver ; si bien que cent longues années sembleront s'écouler lentement. Mais aucun espoir n'est exprimé de retrouvailles avec son mari dans un autre État. La « demeure » ​​et la « chambre » dont elle parle désignent sa tombe ; et ses pensées ne semblent pas aller au-delà.
 
-Le dolichos croît, recouvrant les épineux ; le liseron s'étend partout dans le désert [^619]. L'<span id="p442">[<sup><small>p. 442</small></sup>]</span> homme de mon admiration n'est plus ici ; — avec qui puis-je demeurer ? Je demeure seul.
+Le dolichos croît, recouvrant les épineux ; le liseron s'étend partout dans le désert [^619]. L'<span id="p442"><sup><small>[ p. 442 ]</small></sup></span> homme de mon admiration n'est plus ici ; — avec qui puis-je demeurer ? Je demeure seul.
 
 Le dolichos pousse, recouvrant les jujubiers ; le liseron s'étend sur les tombeaux. L'homme de mon admiration n'est plus ici ; avec qui puis-je demeurer ? Je repose seul.
 

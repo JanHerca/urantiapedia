@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p283">[<sup><small>p. 283</small></sup>]</span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 Ar<i>s</i>tâ<i>t</i> est la Vérité : elle est invoquée en compagnie du Génie de la Vérité, Rashnu Razi<i>s</i>ta (Sîrôzah, § 18), le jour Rashn. Le jour qui lui est spécialement dédié, le 26e jour du mois, elle est invoquée en compagnie du mont Ushi-darena, ce qui explique le fait singulier que son Ya<i>s</i>t soit entièrement consacré au <i>H</i><i>v</i>arenô, et se distingue donc difficilement du Zamyâd Ya<i>s</i>t, le mont Ushi-darena étant le siège même du <i>H</i><i>v</i>arenô (Yt. I, 31, texte et note ; cf. Yt. XIX, 66). D'où vient ce lien particulier d'Ar<i>s</i>tâ<i>t</i> avec le mont Ushi-darena ? On ne sait pas avec certitude, à moins qu'il ne fasse allusion au fait que la possession du <i>H</i><i>v</i>arenô ne peut être assurée que par la véracité : dès que Yima « commença à trouver du plaisir dans des paroles fausses et mensongères », le <i>H</i><i>v</i>arenô s'envola loin de lui (Yt. XIX, 34).
 
@@ -50,7 +50,7 @@ Pour le sacrifice, la prière, la propitiation et la glorification à \[Hâvani\
 
 Yathâ ahû vairyô; La volonté du Seigneur est la loi de la sainteté . . . .
 
-1\. Ahura Mazda parla à Spitama Zarathustra, en disant : « J'ai créé la Gloire aryenne, riche en nourriture, riche en troupeaux, riche en richesses [^1190], riche en Gloire ; dotée de toutes les réserves d'intelligence, de toutes les réserves d'argent, pour résister au Besoin et pour résister aux ennemis. <span id="p284">[<sup><small>p. 284</small></sup>]</span> 2\. « Elle détruit Angra Mainyu, qui est toute mort ; elle détruit Aêshma, le démon de la lance blessante [^1191] ; elle détruit le Bûshyãsta jaune [^1192] ; elle détruit la contagion [^1193] d'Aêkha [^1194] ; elle détruit le démon de la mort, Apaosha [^1195] ; elle détruit les nations non aryennes.
+1\. Ahura Mazda parla à Spitama Zarathustra, en disant : « J'ai créé la Gloire aryenne, riche en nourriture, riche en troupeaux, riche en richesses [^1190], riche en Gloire ; dotée de toutes les réserves d'intelligence, de toutes les réserves d'argent, pour résister au Besoin et pour résister aux ennemis. <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> 2\. « Elle détruit Angra Mainyu, qui est toute mort ; elle détruit Aêshma, le démon de la lance blessante [^1191] ; elle détruit le Bûshyãsta jaune [^1192] ; elle détruit la contagion [^1193] d'Aêkha [^1194] ; elle détruit le démon de la mort, Apaosha [^1195] ; elle détruit les nations non aryennes.
 
 3\. 'Et j'ai fait la grande Ashi Vanguhi ; elle entre, au milieu de la famille ; elle entre, à l'intérieur du beau palais royal [^1196].
 
@@ -60,7 +60,7 @@ Yathâ ahû vairyô; La volonté du Seigneur est la loi de la sainteté . . . .
 
 5\. « Les chevaux se multiplient mille fois, les troupeaux se multiplient mille fois ; et ainsi se multiplie sa progéniture vertueuse, (comme) l'étoile brillante et glorieuse Ti<i>s</i>trya se déplace également [^1199], et ainsi le vent fort créé par Mazda, et ainsi la Gloire des Aryas.
 
-6\. « Et ils font croître les sommets de toutes les montagnes, les profondeurs de toutes les vallées ; ils font croître toutes les plantes [^1200], les belles, les dorées. Et ils font disparaître [^1201] la contagion <span id="p285">[<sup><small>p. 285</small></sup>]</span> d'Aêkha, ils font disparaître le démon de la mort, Apaosha.
+6\. « Et ils font croître les sommets de toutes les montagnes, les profondeurs de toutes les vallées ; ils font croître toutes les plantes [^1200], les belles, les dorées. Et ils font disparaître [^1201] la contagion <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> d'Aêkha, ils font disparaître le démon de la mort, Apaosha.
 
 7\. « Salut à l'étoile brillante et glorieuse Ti<i>s</i>trya ! Salut au vent fort, créé par Mazda ! Salut à la gloire des Aryas ! »
 

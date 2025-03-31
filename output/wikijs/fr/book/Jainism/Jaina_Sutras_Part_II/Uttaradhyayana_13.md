@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:59:21Z
 
 TREIZIÈME CONFÉRENCE. KITRA ET SAMBHÛTA [^169].
 
-Traité avec mépris à cause de sa naissance (en tant que <i>K</i>â<i>n</i><i>d</i>âla), Sambhûta prit, à Hastinâpura, <span id="p57">[<sup><small>p. 57</small></sup>]</span> la résolution pécheresse (de devenir un monarque universel dans une naissance ultérieure) ; descendant de la région céleste Padmagulma, il naquit de <i>K</i>ulanî à Kâmpilya sous le nom de Brahmadatta ; <i>K</i>itra, quant à lui, naquit dans la ville de Purimatâla dans la grande famille d'un marchand ; lorsqu'il eut entendu la Loi, il entra dans l'ordre. (1, 2)
+Traité avec mépris à cause de sa naissance (en tant que <i>K</i>â<i>n</i><i>d</i>âla), Sambhûta prit, à Hastinâpura, <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> la résolution pécheresse (de devenir un monarque universel dans une naissance ultérieure) ; descendant de la région céleste Padmagulma, il naquit de <i>K</i>ulanî à Kâmpilya sous le nom de Brahmadatta ; <i>K</i>itra, quant à lui, naquit dans la ville de Purimatâla dans la grande famille d'un marchand ; lorsqu'il eut entendu la Loi, il entra dans l'ordre. (1, 2)
 
 Dans la ville de Kâmpilya, Sambhûta et <i>K</i>itra (comme on les appelait dans une naissance antérieure) se rencontrèrent à nouveau et se racontèrent la récompense qu'ils avaient obtenue pour leurs bonnes et mauvaises actions. (3)
 
@@ -48,7 +48,7 @@ Nous étions frères autrefois, gentils l'un envers l'autre, aimant l'un l'autre
 
 « Le Karman est produit par des pensées pécheresses, et vous les avez entretenues, ô roi ; c'est par l'influence de ce Karman que nous avons été séparés. » (8)
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 « J'ai accompli des actions inspirées par la vérité et la pureté, et maintenant je jouis de leur effet ; est-ce également vrai dans ton cas, <i>Kitra</i> ? » (9)
 
@@ -80,7 +80,7 @@ Comme le vertueux Kitra, par amour pour une vieille amitié, aimait le roi qui �
 
 « Ni ses proches, ni ses amis, ni ses fils, ni ses proches ne partageront sa souffrance, il doit seul la supporter ; car le Karman suit l'auteur. (23)
 
-« Laissant derrière lui bipèdes et quadrupèdes, ses champs, sa maison, ses richesses, son blé et tout le reste ; <span id="p60">[<sup><small>p. 60</small></sup>]</span> contre son gré, et accompagné seulement de son Karman [^172], il entre dans une nouvelle existence, bonne ou mauvaise. (24)
+« Laissant derrière lui bipèdes et quadrupèdes, ses champs, sa maison, ses richesses, son blé et tout le reste ; <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> contre son gré, et accompagné seulement de son Karman [^172], il entre dans une nouvelle existence, bonne ou mauvaise. (24)
 
 « Lorsqu'ils auront brûlé au bûcher son corps abandonné et sans défense, sa femme, ses fils et ses proches choisiront un autre homme pour subvenir à leurs besoins. (25)
 
@@ -92,7 +92,7 @@ Comme le vertueux Kitra, par amour pour une vieille amitié, aimait le roi qui �
 
 Et comme je ne m'en suis pas repenti, il en est résulté que je désire encore les voluptés, quoique je connaisse la loi. (29)
 
-« Comme un éléphant, s'enfonçant dans un bourbier, <span id="p61">[<sup><small>p. 61</small></sup>]</span> voit le sol soulevé mais n'atteint pas le rivage, ainsi nous qui aspirons aux plaisirs sensuels, ne suivons pas le chemin des moines. (30)
+« Comme un éléphant, s'enfonçant dans un bourbier, <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> voit le sol soulevé mais n'atteint pas le rivage, ainsi nous qui aspirons aux plaisirs sensuels, ne suivons pas le chemin des moines. (30)
 
 « Le temps s'écoule et les jours passent vite ; les plaisirs des hommes ne sont pas permanents ; ils viennent à l'homme et le quittent comme un oiseau quitte un arbre vide de fruits. » (31)
 

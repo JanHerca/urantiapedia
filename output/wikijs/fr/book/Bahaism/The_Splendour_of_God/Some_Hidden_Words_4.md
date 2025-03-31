@@ -38,7 +38,7 @@ Purgez votre esprit de la malice et, libre de l’envie, entrez dans la présenc
 
 La langue est faite spécialement pour que l'on me mentionne ; ne la souille pas par des calomnies. Si le feu de l'égoïsme vous envahit, pensez à vous souvenir de vos propres fautes et ne parlez pas mal de mes créatures ; car chacun de vous est plus conscient et mieux informé de lui-même que de mes créatures.
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 N’entends pas le mal et ne le vois pas ; ne te dégrade pas et ne te lamente pas. C’est-à-dire : ne dis pas de mal, afin de ne pas l’entendre. Ne pense pas que les fautes des autres sont grandes, afin que les tiennes ne paraissent pas grandes. N’approuve pas l’abaissement d’une âme, afin que ton propre abaissement ne soit pas exposé. Alors, avec un esprit sans tache, un cœur saint, une poitrine sanctifiée et des pensées pures, tu pourras être libre pendant tous les jours de ta vie, qui sont comptés moins qu’un instant, et avec la liberté, tu pourras retourner de ce corps mortel au paradis des significations intérieures et demeurer dans le Royaume immortel.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 SEPTIÈME CONFÉRENCE, INTIMÉ LIBÉRATION.
 
@@ -42,11 +42,11 @@ Je dis : Aux hérétiques, amis ou ennemis, il ne faut pas donner de nourriture,
 
 (Un hérétique pourrait dire) : Sachez ceci avec certitude : avoir ou ne pas avoir reçu de nourriture, etc. (jusqu'aux) balais, avoir ou ne pas avoir mangé (venez chez nous), même vous détourner de votre chemin ou passer (d'autres maisons ; nous pourvoirons à vos besoins). Confessant une croyance individuelle, allant et venant, il peut donner, ou exhorter à donner, ou rendre service (mais il ne faut rien accepter de lui), sans montrer le moindre respect. Ainsi dis-je. (2)
 
-Certains ici ne sont pas bien instruits en ce qui concerne le sujet de la conduite ; car désireux d'actes, ils disent : « Tuez des créatures » ; ils tuent eux-mêmes ou consentent au meurtre d'autres ; ou ils prennent ce qui n'a pas été donné ; ou ils émettent des opinions, par exemple le monde existe, le monde n'existe pas, le monde est <span id="p63">[<sup><small>p. 63</small></sup>]</span> immuable, le monde est en perpétuel changement ; le monde a un commencement, le monde n'a pas de commencement ; le monde a une fin, le monde n'a pas de fin ; (ou en ce qui concerne le soi et les actions) : ceci est bien fait, cela est mal fait ; ceci est un mérite, cela est un démérite ; il est un homme bon, il n'est pas un homme bon ; il y a la béatitude, il n'y a pas de béatitude ; il y a un enfer, il n'y a pas d'enfer. Lorsqu'ils diffèrent ainsi (dans leurs opinions) et professent leur persuasion individuelle, sachez (que tout cela est) sans raison [^259]. Ainsi, ils ne sont pas bien instruits, mal instruits dans la religion telle qu'elle a été enseignée par le Vénérable, qui sait et voit avec un discernement rapide. (Il faut soit instruire l'adversaire dans la vraie foi), soit observer l'abstinence de parole. Ainsi dis-je. (3)
+Certains ici ne sont pas bien instruits en ce qui concerne le sujet de la conduite ; car désireux d'actes, ils disent : « Tuez des créatures » ; ils tuent eux-mêmes ou consentent au meurtre d'autres ; ou ils prennent ce qui n'a pas été donné ; ou ils émettent des opinions, par exemple le monde existe, le monde n'existe pas, le monde est <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> immuable, le monde est en perpétuel changement ; le monde a un commencement, le monde n'a pas de commencement ; le monde a une fin, le monde n'a pas de fin ; (ou en ce qui concerne le soi et les actions) : ceci est bien fait, cela est mal fait ; ceci est un mérite, cela est un démérite ; il est un homme bon, il n'est pas un homme bon ; il y a la béatitude, il n'y a pas de béatitude ; il y a un enfer, il n'y a pas d'enfer. Lorsqu'ils diffèrent ainsi (dans leurs opinions) et professent leur persuasion individuelle, sachez (que tout cela est) sans raison [^259]. Ainsi, ils ne sont pas bien instruits, mal instruits dans la religion telle qu'elle a été enseignée par le Vénérable, qui sait et voit avec un discernement rapide. (Il faut soit instruire l'adversaire dans la vraie foi), soit observer l'abstinence de parole. Ainsi dis-je. (3)
 
 Partout [^260] les péchés sont admis ; mais les éviter est appelé ma distinction. Car vous qui vivez dans un village ou dans la forêt, ou qui n'habitez ni village ni forêt, connaissez la loi telle qu'elle a été énoncée. « Par le Brahman, le sage (Mahâvîra), trois [^261] vœux ont été prescrits. » Les hommes nobles et sereins, éclairés et appliqués à ces [préceptes], sont dits libres de tout acte pécheur. (4)
 
-Connaissant (et renonçant) individuellement et séparément <span id="p64">[<sup><small>p. 64</small></sup>]</span> les actions contre les êtres vivants, dans les régions d'en haut, d'en bas et à la surface, partout et de toutes les manières, un homme sage ne cause pas de douleur à ces corps, n'ordonne pas aux autres de le faire, ni n'y consent. Au contraire, nous abhorrons ceux qui causent de la douleur à ces corps. Sachant cela, un homme sage ne devrait pas causer cette douleur ni aucune autre (à aucune créature). Ainsi dis-je. (5)
+Connaissant (et renonçant) individuellement et séparément <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> les actions contre les êtres vivants, dans les régions d'en haut, d'en bas et à la surface, partout et de toutes les manières, un homme sage ne cause pas de douleur à ces corps, n'ordonne pas aux autres de le faire, ni n'y consent. Au contraire, nous abhorrons ceux qui causent de la douleur à ces corps. Sachant cela, un homme sage ne devrait pas causer cette douleur ni aucune autre (à aucune créature). Ainsi dis-je. (5)
 
 
 
@@ -59,7 +59,7 @@ Un mendiant peut se donner du mal, rester debout, assis ou couché dans un lieu 
 
 Ceux qui, avec ou sans l'accord du mendiant, ont rassemblé des chaînes [^263], se fâchent (sur le refus du moine) et le frappent en disant : « Frappez, tuez, coupez, brûlez, rôtissez, déchirez, volez, expédiez, torturez ! » Mais le héros, confronté à un tel sort, le supportera courageusement, ou lui indiquera le code de conduite, considérant qu'il est d'une habitude différente ; ou, en surveillant son discours, il devrait examiner le sujet en temps opportun, en se surveillant lui-même.
 
-Ceci a été déclaré par les éveillés : les fidèles ne doivent pas donner aux dissidents de nourriture, etc., de vêtements, etc., ni les exhorter (à donner), <span id="p66">[<sup><small>p. 66</small></sup>]</span> ni leur rendre service, en faisant toujours preuve du plus grand respect. Ainsi dis-je. (4)
+Ceci a été déclaré par les éveillés : les fidèles ne doivent pas donner aux dissidents de nourriture, etc., de vêtements, etc., ni les exhorter (à donner), <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> ni leur rendre service, en faisant toujours preuve du plus grand respect. Ainsi dis-je. (4)
 
 Sachez que la loi énoncée par le sage Brâhmane dit qu'il faut donner à quelqu'un de même foi de la nourriture, des vêtements, etc., et l'exhorter à lui rendre service, en lui témoignant toujours le plus grand respect. Ainsi parle-t-on. (5)
 
@@ -74,7 +74,7 @@ Celui qui est libre des passions comprend parfaitement le brillant [^265], conna
 
 « Les corps s'accroissent par la nourriture, ils sont fragiles dans les épreuves. » Voyez certains dont les organes défaillent (se laissent aller à la faiblesse).
 
-Celui qui est dénué de désirs nourrit la pitié. Celui qui comprend la doctrine du péché est un mendiant qui connaît le temps, la force, la mesure, l'occasion, la conduite, le précepte religieux ; il renie tout ce qui n'est pas nécessaire à des fins religieuses, <span id="p67">[<sup><small>p. 67</small></sup>]</span> s'investit à temps, n'est soumis à aucune obligation ; il avance en toute sécurité (sur le chemin de la libération finale) après avoir renoncé à l'amour et à la haine [1](Akaranga_1_7#fn266). (2)
+Celui qui est dénué de désirs nourrit la pitié. Celui qui comprend la doctrine du péché est un mendiant qui connaît le temps, la force, la mesure, l'occasion, la conduite, le précepte religieux ; il renie tout ce qui n'est pas nécessaire à des fins religieuses, <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> s'investit à temps, n'est soumis à aucune obligation ; il avance en toute sécurité (sur le chemin de la libération finale) après avoir renoncé à l'amour et à la haine [1](Akaranga_1_7#fn266). (2)
 
 Un maître de maison s'approchant d'un mendiant dont les membres tremblent de froid, peut dire :
 
@@ -89,7 +89,7 @@ Peut-être qu'après que le mendiant a parlé ainsi, l'autre allume un feu pour 
 
 ## QUATRIÈME LEÇON.
 
-Un mendiant qui est équipé de trois robes [^268], et d'un bol comme quatrième (article), ne pensera pas : Je vais mendier <span id="p68">[<sup><small>p. 68</small></sup>]</span> pour une quatrième robe. Il doit mendier (les vêtements) dont il a besoin, et qui sont autorisés par le code religieux [^269] ; il doit porter les vêtements dans le même état dans lequel ils lui ont été donnés ; il ne doit ni les laver ni les teindre, ni porter des vêtements lavés ou teints, ni cacher (ses vêtements en traversant) d'autres villages, négligeant sa tenue. Tel est le devoir entier [^270] de celui qui porte des vêtements. Mais sachez aussi qu'après la fin de l'hiver et l'arrivée de la saison chaude, il faut abandonner le vêtement usé (des trois), se vêtir d'un vêtement supérieur et inférieur, ou du vêtement inférieur, ou d'une seule robe, ou encore être nu, aspirant à la liberté [^271]. La pénitence lui convient. Sachant ce que le Vénérable a déclaré, il faut s'y conformer entièrement et en tous points. (1)
+Un mendiant qui est équipé de trois robes [^268], et d'un bol comme quatrième (article), ne pensera pas : Je vais mendier <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> pour une quatrième robe. Il doit mendier (les vêtements) dont il a besoin, et qui sont autorisés par le code religieux [^269] ; il doit porter les vêtements dans le même état dans lequel ils lui ont été donnés ; il ne doit ni les laver ni les teindre, ni porter des vêtements lavés ou teints, ni cacher (ses vêtements en traversant) d'autres villages, négligeant sa tenue. Tel est le devoir entier [^270] de celui qui porte des vêtements. Mais sachez aussi qu'après la fin de l'hiver et l'arrivée de la saison chaude, il faut abandonner le vêtement usé (des trois), se vêtir d'un vêtement supérieur et inférieur, ou du vêtement inférieur, ou d'une seule robe, ou encore être nu, aspirant à la liberté [^271]. La pénitence lui convient. Sachant ce que le Vénérable a déclaré, il faut s'y conformer entièrement et en tous points. (1)
 
 Lorsqu'un bienheureux [^272] mendiant se rend compte qu'il souffre et ne supporte pas l'influence du froid, il ne doit pas chercher à éviter ces épreuves, mais rester ferme en lui-même, doté de toute connaissance [^273]. « Car il vaut mieux pour un ascète qu'il prenne du poison. » De cette façon, il mettra fin à son existence en temps voulu. Cette (méthode pour échapper aux épreuves) a été adoptée par beaucoup de ceux qui étaient exempts d'illusions ; elle est bonne, salutaire, convenable, béatifiante, méritoire. Ainsi dis-je. (2)
 
@@ -102,7 +102,7 @@ Un mendiant équipé de deux robes et d'un bol comme troisième (article) ne pen
 
 Français Quand un mendiant pense qu'en raison d'une maladie il est trop faible et incapable de mendier de maison en maison — et que, sur sa plainte, un maître de maison lui apporte de la nourriture, etc., obtenue (sans nuire à sa vie [^276]), et la lui donne — alors il devrait, après délibération, dire [^277] : Ô maître de maison à la longue vie ! il ne me convient pas de manger ou de boire cette [^276] nourriture, etc., ou d'accepter quoi que ce soit d'autre du même genre. (2)
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 Un mendiant qui a décidé, lorsqu'il sera malade, d'accepter l'aide de ses compagnons ascètes [^278] en bonne santé, lorsqu'ils lui offriront (leur aide) sans qu'on le lui demande, et que, vice versa, lorsqu'il sera en bonne santé, il apportera son aide à ses compagnons ascètes malades, en l'offrant sans qu'on le lui demande (il ne devrait pas dévier de sa résolution même s'il meurt faute d'aide). (3)
 
@@ -111,7 +111,7 @@ Faire le vœu de mendier (de la nourriture, etc.) pour un autre malade et de man
 
 
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 ## SIXIÈME LEÇON.
 
@@ -123,11 +123,11 @@ Lorsqu'un mendiant pense : « Je suis moi-même, seul ; je n'ai rien qui m'appar
 
 Un mendiant, homme ou femme, qui mange, etc., ne doit pas déplacer (le morceau) de la mâchoire gauche à la mâchoire droite, ni de la mâchoire droite à la mâchoire gauche, pour en savourer pleinement le goût, sans se soucier du goût – aspirant à la libération des liens. La pénitence lui convient. Sachant ce que le Vénérable a déclaré, il doit s'y conformer entièrement et en tous points. (2)
 
-Si cette pensée vient à l'esprit d'un moine : « Je suis malade et je ne peux pas, en ce moment, mortifier régulièrement la chair », ce moine devrait réduire régulièrement sa nourriture ; réduisant régulièrement sa nourriture et diminuant ses péchés, « il devrait prendre soin de son corps, étant <span id="p72">[<sup><small>p. 72</small></sup>]</span> immobile comme une poutre ; en s'efforçant, il dissout son corps [^280]. » (3)
+Si cette pensée vient à l'esprit d'un moine : « Je suis malade et je ne peux pas, en ce moment, mortifier régulièrement la chair », ce moine devrait réduire régulièrement sa nourriture ; réduisant régulièrement sa nourriture et diminuant ses péchés, « il devrait prendre soin de son corps, étant <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> immobile comme une poutre ; en s'efforçant, il dissout son corps [^280]. » (3)
 
 En entrant dans un village, une ville libre, une ville entourée de remparts, une ville isolée, une grande ville, une ville maritime, une mine, un ermitage, une halte de procession, une caravane ou une capitale [^281], un moine doit mendier de la paille ; après avoir mendié, il doit se retirer avec elle dans un endroit isolé. Après avoir examiné et nettoyé le sol à plusieurs reprises, où il n'y a ni œufs, ni êtres vivants, ni graines, ni pousses, ni rosée, ni eau, ni fourmis, ni moisissure, ni gouttes d'eau, ni boue, ni toiles d'araignée, il doit y étendre la paille. Puis il doit immédiatement pratiquer (la mort religieuse appelée) itvara [^282]. (4)
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 Telle est la vérité : en disant la vérité, libéré de toute passion, en traversant le sa<i>m</i>sâra, en apaisant l’indécision, en connaissant toute vérité sans être connu, en quittant ce corps fragile, en surmontant toutes sortes de douleurs et de difficultés par la confiance en elle (la religion), il accomplit cette terrible (mort religieuse). De même, il mettra fin à l’existence en temps voulu. Ceci a été adopté par beaucoup de ceux qui étaient libérés de l’illusion ; c’est bon, salutaire, convenable, béatifiant, méritoire. Ainsi dis-je. (5)
 
@@ -152,7 +152,7 @@ Ainsi je dis. (5)
 
 Les sages qui parviennent dans l'ordre voulu [^287] à l'un des états infaillibles (dans lesquels le suicide est prescrit), ceux qui sont riches en contrôle et dotés de connaissances, connaissant l'incomparable (la mort religieuse, devraient continuer leur contemplation). (1)
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 Connaissant le double (obstacles, c'est-à-dire corporels et mentaux), les sages, ayant parfaitement appris la loi, percevant en temps voulu (que le temps de leur mort est venu), se débarrassent du karman. (2)
 
@@ -172,7 +172,7 @@ Lorsque des animaux rampants ou vivant en hauteur ou en bas se nourrissent de sa
 
 Même si ces animaux détruisent le corps, il ne doit pas bouger de sa position,
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Après que les â<i>s</i>ravas ont cessé, il doit supporter (les douleurs) comme s'il s'en réjouissait. (10)
 
@@ -198,7 +198,7 @@ Il doit marcher lorsqu'il est fatigué (de rester allongé) ou se tenir debout a
 
 Déterminé à une mort aussi rare, il devrait réguler les mouvements de ses organes.
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Arrivé dans un endroit grouillant d'insectes, il doit chercher un endroit propre. (17)
 
@@ -220,7 +220,7 @@ Sachant que tant qu'il vit, les dangers et les troubles, le sage et le modéré 
 
 Il ne doit pas s'attacher aux plaisirs passagers, ni aux plus grands ; il ne doit pas nourrir le désir et l'avidité, ne recherchant que la louange éternelle. (23)
 
-Il devrait être éclairé par les objets éternels [^295], et ne pas se fier au pouvoir trompeur des dieux ; <span id="p78">[<sup><small>p. 78</small></sup>]</span> un Brâhma<i>n</i>a devrait savoir cela et rejeter toute infériorité [^296]. (24)
+Il devrait être éclairé par les objets éternels [^295], et ne pas se fier au pouvoir trompeur des dieux ; <span id="p78"><sup><small>[ p. 78 ]</small></sup></span> un Brâhma<i>n</i>a devrait savoir cela et rejeter toute infériorité [^296]. (24)
 
 Ne se consacrant à aucun des objets extérieurs, il arrive à la fin de sa vie ; pensant que la patience est le bien suprême, il (devrait choisir) l'une des (trois) bonnes méthodes décrites pour entrer dans le Nirvânâ. (25) Ainsi dis-je.
 

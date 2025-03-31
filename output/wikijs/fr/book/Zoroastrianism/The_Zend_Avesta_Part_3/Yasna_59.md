@@ -32,13 +32,13 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 ## YASNA LIX (SP. LVIII). BÉNÉDICTIONS MUTUELLES.
 
 1-17. (Voir Y. XVII, 1-17.) 18-27. (Voir Y. XXVI, 1-10.) 28. Nous adorons Verethraghna, l'Ahura-fait, le coup victorieux ; et nous adorons le Saoshya<i>n</i>t, qui frappe avec victoire ; et nous sacrifions à ce Baresman avec son Zaothra et sa ceinture (qui est sa bande) et qui est étendu avec sainteté. Et nous sacrifions à (notre) propre âme(s), et à (notre) propre(s) Fravashi(s). 29. (Voir Y. XVII, 19.) 30. (Le Ratu parle) : Ô toi, bon (serviteur du Seigneur) ! puisse ce qui est meilleur que le bien être à toi ; puisses-tu acquérir ce qui est (à toi) en propre [^1289] dans le Zaothra ; Puisses-tu atteindre cette récompense que le Zaotar a obtenue [^1290], qui est très avancé dans ses bonnes pensées, ses paroles et ses actes.
 
-31\. (Le Zaotar parle) : Puisse t'arriver ce qui est meilleur que le bien, et puisse n'arriver ce qui est pire que le mal, et puisse n'être pas mon lot. 32. Comme (notre) Ahû (est) excellent, ainsi est (notre) Ratu (celui qui gouverne) par sa Droiture, un créateur de bonté mentale, et d'actions de vie faites pour Mazda, et le Royaume (appartient) à Ahura qui au pauvre offrira un nourricier. Une bénédiction est Asha appelé le Meilleur, etc. Nous sacrifions à l'Ahuna-vairya ; nous sacrifions à Asha Vahi<i>s</i>ta [^1291] le plus beau, le Généreux <span id="p310">[<sup><small>p. 310</small></sup>]</span> Immortel. Et nous sacrifions au Fshûshô-mãthra, le par-dit [^1292]. Et nous sacrifions à l'ensemble des Louanges du Yasna ; (oui, aux Louanges Yasna qui furent instituées dans le monde d'autrefois.)
+31\. (Le Zaotar parle) : Puisse t'arriver ce qui est meilleur que le bien, et puisse n'arriver ce qui est pire que le mal, et puisse n'être pas mon lot. 32. Comme (notre) Ahû (est) excellent, ainsi est (notre) Ratu (celui qui gouverne) par sa Droiture, un créateur de bonté mentale, et d'actions de vie faites pour Mazda, et le Royaume (appartient) à Ahura qui au pauvre offrira un nourricier. Une bénédiction est Asha appelé le Meilleur, etc. Nous sacrifions à l'Ahuna-vairya ; nous sacrifions à Asha Vahi<i>s</i>ta [^1291] le plus beau, le Généreux <span id="p310"><sup><small>[ p. 310 ]</small></sup></span> Immortel. Et nous sacrifions au Fshûshô-mãthra, le par-dit [^1292]. Et nous sacrifions à l'ensemble des Louanges du Yasna ; (oui, aux Louanges Yasna qui furent instituées dans le monde d'autrefois.)
 
 <figure class="table chapter-navigator">
   <table>

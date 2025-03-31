@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 ## YASNA VI. LE SACRIFICE CONTINUE AVEC UNE EXPRESSION PLUS COMPLÈTE.
 
@@ -48,7 +48,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 5\. Et nous adorons Aiwisrûthrima et Aibigaya dans notre sacrifice, le saint seigneur de l'ordre rituel, et Frâda<i>t</i>\-vîspãm-hu<i>g</i>yâiti et le Zarathu<i>s</i>trôtema, le saint seigneur de l'ordre rituel, et les bons, héroïques et généreux Fravashis des saints, et les femmes qui donnent naissance à de nombreux fils, et la vie de famille prospère qui dure sans revers tout au long de l'année, et la Force qui est bien formée et majestueuse, et le Coup qui apporte la victoire, qui est donné par Ahura, et l'Ascendance Victorieuse (qu'il assure).
 
-6\. Et nous adorons Ushahina avec notre sacrifice, et <span id="p220">[<sup><small>p. 220</small></sup>]</span> Bere<i>g</i>ya, et Nmânya, et Sraosha (Obéissance) le béni et le majestueux qui frappe avec victoire, et fait avancer les colonies, et Rashnu, le plus juste, et Ar<i>s</i>tâ<i>t</i> qui fait avancer les colonies et les fait croître, les saints seigneurs de l'ordre rituel.
+6\. Et nous adorons Ushahina avec notre sacrifice, et <span id="p220"><sup><small>[ p. 220 ]</small></sup></span> Bere<i>g</i>ya, et Nmânya, et Sraosha (Obéissance) le béni et le majestueux qui frappe avec victoire, et fait avancer les colonies, et Rashnu, le plus juste, et Ar<i>s</i>tâ<i>t</i> qui fait avancer les colonies et les fait croître, les saints seigneurs de l'ordre rituel.
 
 7\. Et nous adorons le Mâhya dans notre sacrifice, la nouvelle lune et la lune décroissante (la lune intérieure) et la pleine lune qui disperse la nuit, le saint seigneur de l'ordre rituel.
 
@@ -58,7 +58,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 10\. Et nous adorons Ahura et Mithra avec notre sacrifice, les deux sublimes, impérissables et saints, et les étoiles, la lune et le soleil, parmi les plantes du Baresman, et Mithra, le seigneur de toutes les provinces, Ahura Mazda, le radieux, le glorieux, et le bon, vaillant et généreux Fravashis des saints.
 
-11\. Et nous t'adorons, le Feu, fils d'Ahura Mazda, avec tous les feux et les bonnes eaux, les meilleures et faites par Mazda, et saintes, même toutes les eaux qui sont faites par Mazda et saintes, et toutes les plantes que Mazda a faites. <span id="p221">[<sup><small>p. 221</small></sup>]</span> 12\. Et nous adorons le Mãthra Spe<i>n</i>ta par notre sacrifice, le glorieux et de vérité, la loi révélée contre les Daêvas, la loi zarathustrienne, et nous adorons par notre sacrifice sa longue descendance et la bonne religion mazdayasnienne.
+11\. Et nous t'adorons, le Feu, fils d'Ahura Mazda, avec tous les feux et les bonnes eaux, les meilleures et faites par Mazda, et saintes, même toutes les eaux qui sont faites par Mazda et saintes, et toutes les plantes que Mazda a faites. <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> 12\. Et nous adorons le Mãthra Spe<i>n</i>ta par notre sacrifice, le glorieux et de vérité, la loi révélée contre les Daêvas, la loi zarathustrienne, et nous adorons par notre sacrifice sa longue descendance et la bonne religion mazdayasnienne.
 
 13\. Et nous adorons le mont Ushi-darena, fait par Mazda, le glorieux Yazad, resplendissant de sainteté, et toutes les montagnes qui brillent de sainteté, d'un éclat abondant, faites par Mazda, les saints seigneurs de l'ordre rituel. Et nous adorons la puissante gloire royale faite par Mazda, la gloire puissante, non consumée et faite par Mazda, et la sainteté, brillante, sublime, puissante et majestueuse, délivrant (les hommes) par sa puissance inhérente. Oui, nous adorons la gloire et le bienfait qui sont faits par Mazda.
 
@@ -70,7 +70,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 17\. Et nous adorons Haurvatâ<i>t</i> (qui garde l'eau) et Ameretatâ<i>t</i> (qui garde les plantes et le bois), et Sraosha (l'Obéissance) le béni et le majestueux, qui frappe du coup de la victoire et fait avancer les colonies, le saint seigneur de l'ordre rituel.
 
-18\. Et nous adorons Haoma avec notre sacrifice <span id="p222">[<sup><small>p. 222</small></sup>]</span> et le jus de Haoma. Et nous adorons le Fravashi sacré de Zarathu<i>s</i>tra Spitâma le saint.
+18\. Et nous adorons Haoma avec notre sacrifice <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> et le jus de Haoma. Et nous adorons le Fravashi sacré de Zarathu<i>s</i>tra Spitâma le saint.
 
 Et nous adorons les billets de bois, et le parfum et toi, le Feu, le fils d'Ahura Mazda, le saint seigneur de l'ordre rituel.
 

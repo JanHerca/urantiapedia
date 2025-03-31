@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 <figure id="Figure_29600" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/29600.jpg">
@@ -60,7 +60,7 @@ Nejim jette un coup d'oeil sur l'autre rive. Il voit des tentes richement ornée
 
 Quand la nuit eut couvert de ses ombres les deux rives de l'Euphrate,
 
-« Quittons ce lieu, dit l'aveugle Jezar à son esclave, les voix que j'entends de l'autre côté me semblent trop lointaines pour la portée de mes flèches. Rapproche-moi du bord : <span id="p298">[<sup><small>p. 298</small></sup>]</span> mon cœur me dit qu'un coup glorieux va immortaliser mon nom et ma vengeance ! »
+« Quittons ce lieu, dit l'aveugle Jezar à son esclave, les voix que j'entends de l'autre côté me semblent trop lointaines pour la portée de mes flèches. Rapproche-moi du bord : <span id="p298"><sup><small>[ p. 298 ]</small></sup></span> mon cœur me dit qu'un coup glorieux va immortaliser mon nom et ma vengeance ! »
 
 Nejim prend l'aveugle par la main, l'approche de l'eau, le fait asseoir sur la rive en face de la tente d'Antar, et lui donne son arc et son carquois. Jezar choisit la plus acérée de ses flèches, la place sur la corde, et attend avec une oreille attentive l'heure de la vengeance.
 
@@ -74,7 +74,7 @@ A peine sa voix retentissante résonne-t-elle dans le lit creux de la vallée de
 
 A cette voix qui lui fait croire que sa flèche a manqué son but, l'aveugle Jézar, frappé de terreur à la pensée de la vengeance d'Antar, s'évanouit sur la rive, et son esclave, le croyant mort, s'enfuit sur son chameau, laissant son maître inanimé où il gisait. Le frère d'Antar traverse le fleuve à la nage, bute contre un corps qu'il prend pour un cadavre, et le porte sur ses épaules, avec l'arc et les flèches, jusqu'au camp.
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 ## III.
 
@@ -106,7 +106,7 @@ Déjà ils tournent la rêne, lorsqu'un vieux cheikh, plus réfléchi et plus sa
 
 « Mes cousins, voilà bien la lance d'Antar, voilà bien son casque, son armure et son coursier dont la couleur ressemble à celle d'une nuit noire ; mais ce n'est là ni sa haute figure ni son port viril. C'est la figure et le maintien d'une femme timide, accablée par le poids du fer qui écorche ses membres frêles. Croyez-moi, Antar est mort, ou bien une maladie mortelle l'empêche de monter à cheval ; et ce faux guerrier qu'Abjer porte est Abla, qui, pour nous effrayer, s'est revêtue des armes de son mari, tandis que le véritable Antar est peut-être couché mourant dans la litière des femmes. »
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 Les cavaliers, reconnaissant quelque chose de probable dans les paroles du vieillard, reviennent sur leurs pas et suivent à distance la caravane, sans oser l'attaquer.
 
@@ -126,7 +126,7 @@ Seul un petit nombre, faisant encore confiance à la voix du vieux cheikh, conti
 
 Antar, malgré sa faiblesse, place Abla dans la litière, et monté sur Abjer, vêtu de ses bras, il marche lentement à côté d'elle.
 
-A la fin du jour, ils atteignent une vallée non loin de la tribu d'Abs. Ce lieu s'appelait la « Vallée des <span id="p302">[<sup><small>p. 302</small></sup>]</span> Gazelles ». Entouré de montagnes inaccessibles, on n'y pénétrait du côté du désert que par un passage étroit et tortueux, où trois cavaliers pouvaient à peine marcher de front. Antar, s'arrêtant à l'ouverture de ce défilé, fait entrer d'abord ses troupeaux, ses esclaves et le chameau qui porte la litière de son cher Abla. Quand toute la caravane est en sûreté dans la vallée, il revient, se placer seul en sentinelle au fond de la gorge, en face de la plaine et des Arabes qui le suivent au loin. A ce moment ses angoisses augmentent ; ses entrailles se déchirent ; chaque pas de son coursier lui fait souffrir des tourments semblables au feu de l'enfer. La mort envahit ses membres, et pourtant révère son âme intrépide. Il fait face aux Arabes ; il arrête Abjer ; il plante la pointe de sa lance dans le sol, et s'appuyant contre la tige, comme un guerrier au repos laissant respirer son cheval, il se tient immobile à l'entrée du col.
+A la fin du jour, ils atteignent une vallée non loin de la tribu d'Abs. Ce lieu s'appelait la « Vallée des <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> Gazelles ». Entouré de montagnes inaccessibles, on n'y pénétrait du côté du désert que par un passage étroit et tortueux, où trois cavaliers pouvaient à peine marcher de front. Antar, s'arrêtant à l'ouverture de ce défilé, fait entrer d'abord ses troupeaux, ses esclaves et le chameau qui porte la litière de son cher Abla. Quand toute la caravane est en sûreté dans la vallée, il revient, se placer seul en sentinelle au fond de la gorge, en face de la plaine et des Arabes qui le suivent au loin. A ce moment ses angoisses augmentent ; ses entrailles se déchirent ; chaque pas de son coursier lui fait souffrir des tourments semblables au feu de l'enfer. La mort envahit ses membres, et pourtant révère son âme intrépide. Il fait face aux Arabes ; il arrête Abjer ; il plante la pointe de sa lance dans le sol, et s'appuyant contre la tige, comme un guerrier au repos laissant respirer son cheval, il se tient immobile à l'entrée du col.
 
 ## VII.
 

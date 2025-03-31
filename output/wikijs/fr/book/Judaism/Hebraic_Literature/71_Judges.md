@@ -97,7 +97,7 @@ _Yevamoth_, fol. 115, col. 1.
 
 _Kiddouchin_, fol. 40, col. 2.
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Même lorsqu’un témoin est payé, son témoignage n’est pas pour autant invalidé.
 
@@ -162,7 +162,7 @@ Une femme qui est condamnée, étant enceinte, à subir la peine extrême de la 
 
 _Erachin_, fol. 7, col. 1.
 
-Si une femme qui a fait vœu de naziréat boit du vin ou se souille en touchant un cadavre (voir <span id="p172">[<sup><small>p. 172</small></sup>]</span> Nomb. vi. 2-6), elle doit subir la peine de quarante coups.
+Si une femme qui a fait vœu de naziréat boit du vin ou se souille en touchant un cadavre (voir <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> Nomb. vi. 2-6), elle doit subir la peine de quarante coups.
 
 _Nazir_, fol. 23, col. '.
 
@@ -180,7 +180,7 @@ Si quelqu'un reçoit l'ordre de construire une cabane, ou de préparer une branc
 
 _Chullin_, fol. 132, col. 2.
 
-Un jour, comme le racontent les rabbins, le gouvernement méchant envoya deux officiers aux sages d'Israël, en leur disant : « Enseignez-nous votre loi. » Celle-ci leur étant remise, ils la lurent trois fois ; et au moment de partir, ils le rendirent en disant : « Nous avons soigneusement étudié votre loi et la trouvons équitable, sauf sur un point. Vous dites : Lorsque le bœuf d'un Israélite encorne à mort le bœuf d'un étranger, son propriétaire n'est pas tenu de verser une compensation ; mais si le bœuf d'un étranger encorne à mort le bœuf d'un Israélite, son propriétaire doit réparer intégralement la perte de l'animal ; que ce soit la première ou la deuxième fois que le bœuf en tue un autre (auquel cas un Israélite ne devrait payer à un autre Israélite que la moitié de la valeur de la perte), ou la troisième fois (où il serait condamné à une amende correspondant à la perte totale de son voisin). Le terme « voisin » (dans Exode XXI. 35, car c'est ce que signifie le mot dans l'hébreu original, <span id="p173">[<sup><small>p. 173</small></sup>]</span> bien que la version autorisée en ait une autre) est interprété strictement comme se référant uniquement à un Israélite, et ensuite à un étranger. devrait également être exempté ; ou si le mot « voisin » doit être pris dans son sens le plus large, pourquoi un Israélite ne serait-il pas tenu de payer lorsque son bœuf encorne à mort le bœuf d'un étranger ? « Ce point juridique », fut la réponse, « nous ne le disons pas au gouvernement. » Comme le dit Rachi en référence à la Halakha précédente, « un étranger perd le droit à sa propre propriété en faveur des Juifs. »
+Un jour, comme le racontent les rabbins, le gouvernement méchant envoya deux officiers aux sages d'Israël, en leur disant : « Enseignez-nous votre loi. » Celle-ci leur étant remise, ils la lurent trois fois ; et au moment de partir, ils le rendirent en disant : « Nous avons soigneusement étudié votre loi et la trouvons équitable, sauf sur un point. Vous dites : Lorsque le bœuf d'un Israélite encorne à mort le bœuf d'un étranger, son propriétaire n'est pas tenu de verser une compensation ; mais si le bœuf d'un étranger encorne à mort le bœuf d'un Israélite, son propriétaire doit réparer intégralement la perte de l'animal ; que ce soit la première ou la deuxième fois que le bœuf en tue un autre (auquel cas un Israélite ne devrait payer à un autre Israélite que la moitié de la valeur de la perte), ou la troisième fois (où il serait condamné à une amende correspondant à la perte totale de son voisin). Le terme « voisin » (dans Exode XXI. 35, car c'est ce que signifie le mot dans l'hébreu original, <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> bien que la version autorisée en ait une autre) est interprété strictement comme se référant uniquement à un Israélite, et ensuite à un étranger. devrait également être exempté ; ou si le mot « voisin » doit être pris dans son sens le plus large, pourquoi un Israélite ne serait-il pas tenu de payer lorsque son bœuf encorne à mort le bœuf d'un étranger ? « Ce point juridique », fut la réponse, « nous ne le disons pas au gouvernement. » Comme le dit Rachi en référence à la Halakha précédente, « un étranger perd le droit à sa propre propriété en faveur des Juifs. »
 
 _Bhava Kama_, fol. 38, col. 1.
 

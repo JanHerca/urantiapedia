@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 
 Le Bienheureux se demandait qui était digne d'être le premier à entendre la parole du salut. « Où est un homme vertueux, intelligent et énergique, à qui je puisse enseigner la loi ? » se demandait-il. « Son cœur doit être exempt de haine, son esprit doit être serein, et il ne doit pas garder cette connaissance pour lui comme s'il s'agissait d'un sombre secret. »
@@ -41,7 +41,7 @@ Il pensa à Rudraka, fils de Rama. Il se souvint qu'il avait été libéré de l
 
 « C'est vraiment dommage que Rudraka, fils de Rama, soit mort sans avoir entendu la loi. Il l'aurait comprise et, à son tour, aurait pu l'enseigner. »
 
-Il pensa à Arata Kalama. Il se souvint de son intelligence claire et de sa vie vertueuse, et il décida <span id="p115">[<sup><small>p. 115</small></sup>]</span> qu'Arata Kalama serait heureux de propager le savoir. Et cette question lui vint à l'esprit : « Où est Arata Kalama maintenant ? » Il apprit alors qu'Arata Kalama était mort depuis trois jours, et il dit :
+Il pensa à Arata Kalama. Il se souvint de son intelligence claire et de sa vie vertueuse, et il décida <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> qu'Arata Kalama serait heureux de propager le savoir. Et cette question lui vint à l'esprit : « Où est Arata Kalama maintenant ? » Il apprit alors qu'Arata Kalama était mort depuis trois jours, et il dit :
 
 « Arata Kalama est mort sans avoir entendu la loi ; grande est la perte d'Arata Kalama. »
 
@@ -57,7 +57,7 @@ Au mont Gaya, il rencontra un moine nommé Upaka. À la vue du Bienheureux, Upak
 
 On ne trouve pas d'égal sur terre ou dans le ciel. « Où vas-tu ? » demanda Upaka.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 « Je vais à Bénarès », dit le Bienheureux, « et là, j'allumerai la lampe qui apportera la lumière au monde, une lumière qui éblouira même les yeux des aveugles. Je vais à Bénarès, et là, je frapperai les tambours qui réveilleront l'humanité, les tambours qui résonneront même aux oreilles des sourds. Je vais à Bénarès, et là, j'enseignerai la loi. »
 

@@ -34,7 +34,7 @@ dateCreated: 2025-2-5T10:15:31Z
 
 La racine de toute connaissance est la connaissance de Dieu. Gloire à Lui ! La connaissance n'est possible que par Sa Manifestation.
 
-Ô mon frère ! Entends mes belles paroles prononcées par ma douce langue et bois l'eau de vie à la fontaine de mes lèvres. Sème les graines de ma sagesse innée dans la terre pure du cœur et arrose-la avec conviction ; alors la fleur de ma connaissance et de ma sagesse <span id="p114">[<sup><small>p. 114</small></sup>]</span> poussera verdoyante dans le sanctuaire sacré du cœur.
+Ô mon frère ! Entends mes belles paroles prononcées par ma douce langue et bois l'eau de vie à la fontaine de mes lèvres. Sème les graines de ma sagesse innée dans la terre pure du cœur et arrose-la avec conviction ; alors la fleur de ma connaissance et de ma sagesse <span id="p114"><sup><small>[ p. 114 ]</small></sup></span> poussera verdoyante dans le sanctuaire sacré du cœur.
 
 Semez les graines de la connaissance et de la sagesse dans les terres fertiles de l'esprit, et cachez-les là jusqu'à ce que la jacinthe de la Sagesse Divine jaillisse dans le cœur et non dans l'argile.
 

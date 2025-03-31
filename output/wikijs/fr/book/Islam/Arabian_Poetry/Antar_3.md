@@ -36,7 +36,7 @@ Le roi Zoheir ayant convoqué Shedad, le père d'Antar, avec ses autres guerrier
 
 « Les cavaliers étant partis, les enfants, les femmes et les esclaves, hommes et femmes, furent laissés derrière. Séméah, la femme de Shedad, donna un magnifique festin au lac de Zatool Irsad. On tua des moutons, le vin coula à flots et les jeunes filles portèrent leurs instruments. Antar se tenait parmi les servantes et fut transporté de joie en voyant Abla apparaître avec les autres femmes. Elle ressemblait en effet à un faon amoureux ; elle était décorée de colliers bigarrés ; et quand Antar la servit, il fut submergé par l'océan de son amour et devint l'esclave de ses tresses noires. Ils s'assirent pour manger et les coupes de vin tournèrent joyeusement autour d'eux. C'était le printemps de l'année, lorsque toute la terre brillait dans toute sa gloire : les vignes pendaient luxuriantes sous les tonnelles ; les fleurs répandaient autour d'elles un parfum d'ambroisie ; chaque colline scintillait de la beauté de ses couleurs ; les oiseaux en mélodie résonnaient doucement de chaque buisson et une harmonie sortait de leurs gosiers ; toutes les oreilles étaient enchantées, la terre était couverte de fleurs et d'herbes, tandis que les rossignols remplissaient l'air de leurs plus douces notes. Alors les demoiselles battaient les cymbales et récitaient les vers suivants :
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Les ombres ont déployé leur voûte, et les fleurs ont étendu leurs coussins.
 
@@ -68,7 +68,7 @@ Toute vierge sportive est dotée de regards langoureux et de mouvements enchante
 
 Leur beauté est la perfection, elles sont la beauté même ;
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 Leurs formes élégantes ressemblent à des lances bien proportionnées ;
 
@@ -82,7 +82,7 @@ Archers et attaquants, les enchanteresses des hommes.
 
 Antar n'était pas homme à rester les bras croisés et à laisser l'ennemi lui ravir ses belles charges sous ses yeux. Se précipiter après le cavalier qui avait capturé Abla, le jeter à terre comme une masse informe et sans vie, et s'emparer de son cheval et de son armure, était pour Antar un jeu d'enfant. Puis il rattrapa le reste de l'ennemi, et avec son seul bras accomplit de telles merveilles, que ceux qui échappèrent au coup de son épée mortelle s'enfuirent épouvantés, abandonnant les femmes et le butin qu'ils avaient pris.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 Ce fut le premier exploit guerrier d'Antar, et lorsque le roi Zoheir revint et entendit parler de ses prouesses, il le loua publiquement et lui présenta une robe d'honneur.
 

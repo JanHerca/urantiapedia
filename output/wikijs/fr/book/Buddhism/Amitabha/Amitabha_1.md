@@ -41,11 +41,11 @@ C'est dans un de ces vihâras, dans les montagnes proches de Purushaputra, l'act
 
 Le vihâra dans lequel Charaka pénétra était creusé dans le roc solide d'une gorge idyllique. Un ruisseau coulait à flots, procurant aux ermites une abondance d'eau fraîche, et les moines pouvaient aisément subvenir à leurs besoins grâce aux dons des villageois qui vivaient à proximité, auxquels ils ajoutaient la récolte de fruits et de légumes qui poussaient près de leurs habitations troglodytes. Au milieu de leurs petites cellules se trouvait une grande chaitya, une salle ou une église, dans laquelle ils se réunissaient pour les services quotidiens, pour les sermons, les méditations et autres exercices pieux.
 
-Le chaitya, comme les cellules, était taillé dans la roche vive ; une rangée de colonnes massives de chaque côté divisait la salle en une nef centrale et deux bas-côtés. <span id="p4">[<sup><small>p. 4</small></sup>]</span> Les ornements qui couvraient les parois rocheuses, bien que le produit du talent local, étant réalisés par les mains inexpérimentées de moines artistes, ne manquaient pas d'un certain raffinement et d'une certaine hauteur. Les images présentaient des scènes de la vie du Bouddha, sa naissance, ses actes, ses miracles, des illustrations de ses paraboles, de ses sermons et de son entrée finale dans le Nirvâna.
+Le chaitya, comme les cellules, était taillé dans la roche vive ; une rangée de colonnes massives de chaque côté divisait la salle en une nef centrale et deux bas-côtés. <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> Les ornements qui couvraient les parois rocheuses, bien que le produit du talent local, étant réalisés par les mains inexpérimentées de moines artistes, ne manquaient pas d'un certain raffinement et d'une certaine hauteur. Les images présentaient des scènes de la vie du Bouddha, sa naissance, ses actes, ses miracles, des illustrations de ses paraboles, de ses sermons et de son entrée finale dans le Nirvâna.
 
 Un cortège de moines, précédé d'un chef qui brandissait un encensoir, entra par le grand portail de la chaitya. Deux par deux, ils se déplaçaient le long des bas-côtés et faisaient solennellement le tour du dagoba, se tenant au fond de la nef, dans l'abside de la salle, juste à l'endroit où les idolâtres élevaient un autel à leurs dieux. C'était à l'imitation d'un tumulus destiné à recevoir quelque relique du vénéré maître, et le génie de l'architecte avait astucieusement conçu la construction de la grotte de telle sorte que les rayons du soleil tombaient sur le dagoba et entouraient sa mystérieuse présence d'un halo de lumière.
 
-Les moines entonnèrent un chant solennel, et ses cadences prolongées emplirent la salle d'un esprit de sainteté, impressionnant les auditeurs comme si Bouddha lui-même était descendu sur ses notes <span id="p5">[<sup><small>p. 5</small></sup>]</span> de son repos bienheureux dans le Nirvâna pour instruire, convertir et réjouir ses fidèles disciples.
+Les moines entonnèrent un chant solennel, et ses cadences prolongées emplirent la salle d'un esprit de sainteté, impressionnant les auditeurs comme si Bouddha lui-même était descendu sur ses notes <span id="p5"><sup><small>[ p. 5 ]</small></sup></span> de son repos bienheureux dans le Nirvâna pour instruire, convertir et réjouir ses fidèles disciples.
 
 Les moines chantaient un hymne dont le novice pouvait saisir quelques vers au fur et à mesure qu'ils étaient chantés ; et voici les mots qui résonnaient à ses oreilles :
 
@@ -63,7 +63,7 @@ Puis le chant a repris :
 « Vaste comme la mer
  Notre cœur sera,
  Et plein de compassion et d’amour.
- Nos pensées s'élèveront <span id="p6">[<sup><small>p. 6</small></sup>]</span>
+ Nos pensées s'élèveront <span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
  Pour toujours
  Haut, comme la colombe des montagnes.
 
@@ -80,7 +80,7 @@ Un vieux moine vénérable qui remplissait les fonctions d'abbé s'avança alors
 
 L’abbé répondit : « Qu’il s’avance. »
 
-C'était Charaka ; et lorsqu'il entra au milieu des frères, l'abbé regarda sa haute silhouette avec un regard bienveillant et scrutateur et <span id="p7">[<sup><small>p. 7</small></sup>]</span> lui demanda : « Quel est ton nom et quel est ton désir ? »
+C'était Charaka ; et lorsqu'il entra au milieu des frères, l'abbé regarda sa haute silhouette avec un regard bienveillant et scrutateur et <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> lui demanda : « Quel est ton nom et quel est ton désir ? »
 
 Charaka s’agenouilla et dit, les mains jointes : « Je m’appelle Charaka. Je demande à la Confrérie de m’initier. Puisse la Confrérie m’accueillir et m’élever à leur hauteur de perfection spirituelle. Ayez pitié de moi, révérends messieurs, et accordez ma requête. »
 

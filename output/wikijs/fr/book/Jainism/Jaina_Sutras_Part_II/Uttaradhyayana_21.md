@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 VINGT ET UNIÈME CONFÉRENCE. SAMUDRAPÂLA.
 
@@ -52,7 +52,7 @@ jeune homme, il avait une belle silhouette et une belle apparence. (6) Son père
 
 Il était une fois un homme qui vit, depuis la fenêtre de son palais, un condamné à mort, habillé pour être exécuté, en route vers le lieu de l'exécution. (8)
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Agité par ce qu'il vit, Samudrapâla parla ainsi : « Voici le mauvais résultat des mauvaises actions. » (9)
 
@@ -64,7 +64,7 @@ Il faut respecter les cinq grands vœux, à savoir : ne pas tuer, dire la vérit
 
 Un moine doit avoir de la compassion pour tous les êtres, doit être d'un caractère indulgent, doit être sobre et chaste, et s'abstenir de tout péché ; il doit vivre en contrôlant ses sens. (13)
 
-De temps en temps [^284] il devrait voyager dans un pays, <span id="p110">[<sup><small>p. 110</small></sup>]</span> en tenant compte de ses ressources et de ses propres capacités ; comme un lion, il ne devrait être effrayé par aucun bruit ; et quelles que soient les paroles qu'il entend, il ne devrait pas faire de réponse inappropriée. (14)
+De temps en temps [^284] il devrait voyager dans un pays, <span id="p110"><sup><small>[ p. 110 ]</small></sup></span> en tenant compte de ses ressources et de ses propres capacités ; comme un lion, il ne devrait être effrayé par aucun bruit ; et quelles que soient les paroles qu'il entend, il ne devrait pas faire de réponse inappropriée. (14)
 
 Il doit se promener dans une indifférence totale et supporter tout, que ce soit agréable ou désagréable ; il ne doit pas approuver tout partout, ni se soucier [^285] d'un traitement respectueux ou d'un blâme. (15)
 
@@ -82,7 +82,7 @@ Un (moine) miséricordieux doit utiliser des lits éloignés des autres, qui ne 
 
 Le grand sage (Samudrapâla), comprenant la science sacrée et pratiquant complètement la meilleure Loi, brillait comme le soleil dans le ciel, étant possédé de la plus haute connaissance et de la plus haute gloire. (23)
 
-Ayant anéanti son Karman à la fois méritoire <span id="p112">[<sup><small>p. 112</small></sup>]</span> et pécheur, étant constant [^289] et libre de toutes entraves, Samudrapâla traversa le Déluge semblable à l'océan de l'existence terrestre et obtint l'exemption de la transmigration. (24)
+Ayant anéanti son Karman à la fois méritoire <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> et pécheur, étant constant [^289] et libre de toutes entraves, Samudrapâla traversa le Déluge semblable à l'océan de l'existence terrestre et obtint l'exemption de la transmigration. (24)
 
 Ainsi je dis.
 

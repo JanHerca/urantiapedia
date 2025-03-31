@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 ## QUATRIÈME ADHYÂYA.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-1-16T20:6:29Z
 
 4\. Tu es l'abeille bleu foncé, tu es le perroquet vert aux yeux rouges, tu es le nuage d'orage, les saisons, les mers. Tu es sans commencement [^783], car tu es infini, toi de qui tous les mondes sont nés.
 
-5 [^784]. Il y a un être à naître (femelle), rouge, blanc et noir, uniforme, mais produisant une progéniture multiple. Il y a un être à naître (mâle) qui l'aime et couche à ses côtés ; il y en a un autre qui la quitte, tandis qu'elle mange ce qui doit être mangé. <span id="p251">[<sup><small>p. 251</small></sup>]</span> 6 [^785]. Deux oiseaux, amis inséparables, s'accrochent au même arbre. L'un d'eux mange le fruit sucré, l'autre regarde sans manger.
+5 [^784]. Il y a un être à naître (femelle), rouge, blanc et noir, uniforme, mais produisant une progéniture multiple. Il y a un être à naître (mâle) qui l'aime et couche à ses côtés ; il y en a un autre qui la quitte, tandis qu'elle mange ce qui doit être mangé. <span id="p251"><sup><small>[ p. 251 ]</small></sup></span> 6 [^785]. Deux oiseaux, amis inséparables, s'accrochent au même arbre. L'un d'eux mange le fruit sucré, l'autre regarde sans manger.
 
 7\. Sur le même arbre, l'homme est assis, affligé, submergé, désemparé par sa propre impuissance (an-î<i>s</i>â). Mais lorsqu'il voit l'autre seigneur (î<i>s</i>a) satisfait et connaît sa gloire, alors son chagrin passe.
 
@@ -60,7 +60,7 @@ dateCreated: 2025-1-16T20:6:29Z
 
 13\. Celui qui est le souverain des dieux, celui en qui tous les mondes [^790] reposent, celui qui règne sur tous les êtres à deux et à quatre pieds, à ce dieu [^791] sacrifions une oblation.
 
-14\. Celui qui a connu celui qui est plus subtil que subtil, au milieu du chaos, créant toutes choses, ayant de multiples formes, enveloppant seul tout [^792], l'heureux (<i>Siva</i>), passe dans la paix pour toujours. <span id="p253">[<sup><small>p. 253</small></sup>]</span> 15\. Il fut aussi dans le temps [^793] le gardien de ce monde, le seigneur de tous, caché dans tous les êtres. En lui, les Brahmarshis et les divinités sont unis [^794], et celui qui le connaît coupe les chaînes de la mort.
+14\. Celui qui a connu celui qui est plus subtil que subtil, au milieu du chaos, créant toutes choses, ayant de multiples formes, enveloppant seul tout [^792], l'heureux (<i>Siva</i>), passe dans la paix pour toujours. <span id="p253"><sup><small>[ p. 253 ]</small></sup></span> 15\. Il fut aussi dans le temps [^793] le gardien de ce monde, le seigneur de tous, caché dans tous les êtres. En lui, les Brahmarshis et les divinités sont unis [^794], et celui qui le connaît coupe les chaînes de la mort.
 
 16\. Celui qui connaît <i>Siva</i> (le bienheureux) caché dans tous les êtres, comme la pellicule subtile qui s'élève du beurre clarifié [^795], enveloppant à elle seule tout, celui qui connaît le dieu, est libéré de toutes les chaînes.
 

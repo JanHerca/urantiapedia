@@ -38,7 +38,7 @@ Je vais déclarer le mode de vie qui profite à l'âme ; en le pratiquant, de no
 
 Il faut renoncer à une chose et en pratiquer une autre : renoncer à négliger la maîtrise de soi et pratiquer la maîtrise de soi. (2)
 
-L'amour et la haine sont deux maux qui produisent un mauvais <span id="p181">[<sup><small>p. 181</small></sup>]</span> Karman ; si un moine les évite toujours, il ne se tiendra pas dans le cercle (de la transmigration). (3)
+L'amour et la haine sont deux maux qui produisent un mauvais <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> Karman ; si un moine les évite toujours, il ne se tiendra pas dans le cercle (de la transmigration). (3)
 
 Un moine qui évite toujours les actes trois fois triplement nuisibles, vaniteux et trompeurs [^496], ne se tiendra pas dans le cercle (de la transmigration). (4)
 
@@ -52,7 +52,7 @@ Un moine qui s'efforce toujours d'observer les six lê<i>s</i>yâs [^501], les s
 
 Un moine qui s'efforce toujours de respecter les (sept) règles d'acceptation des aumônes [^503] et les sept causes de danger (pour les autres hommes) ne résistera pas, etc. (9)
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 Un moine qui s'efforce toujours en ce qui concerne les (huit) objets d'orgueil [^504], ce qui protège sa chasteté [^505] et la décuple Loi des moines [^506]. (10)
 
@@ -64,7 +64,7 @@ Un moine qui s'efforce toujours d'observer les seize Gâthas [^509] et de négli
 
 Un moine qui s'efforce toujours d'observer les (dix-huit sortes de) continence, les (dix-neuf) <i>g</i><i>ñ</i>âtâdhyayanas [^510] et les (vingt) cas de non-concentration des pensées, ne le fera pas, etc. (14)
 
-<span id="p183">[<sup><small>p. 183</small></sup>]</span>
+<span id="p183"><sup><small>[ p. 183 ]</small></sup></span>
 
 Un moine qui s'efforce toujours d'éviter les vingt et une actions interdites [^511] et les vingt-deux troubles [^512] ne résistera pas, etc. (15)
 
@@ -76,7 +76,7 @@ Un moine qui s'efforce toujours de respecter les (vingt-sept) vertus des laïcs 
 
 Un moine qui s'efforce toujours de s'attaquer aux (vingt-neuf) causes de la connaissance erronée et aux (trente) causes de l'illusion ne résistera pas, etc. (19)
 
-Un moine qui s'efforce toujours de respecter les (trente et une) qualités des Siddhas, etc., les (trente-deux) <span id="p184">[<sup><small>p. 184</small></sup>]</span> Yogas [^517] et les trente-trois Â<i>s</i>âtanâs [^518], ne résistera pas, etc. (20)
+Un moine qui s'efforce toujours de respecter les (trente et une) qualités des Siddhas, etc., les (trente-deux) <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> Yogas [^517] et les trente-trois Â<i>s</i>âtanâs [^518], ne résistera pas, etc. (20)
 
 Un moine intelligent qui s'efforce toujours de respecter les points mentionnés ci-dessus sera bientôt complètement libéré du Cercle des Naissances (21).
 

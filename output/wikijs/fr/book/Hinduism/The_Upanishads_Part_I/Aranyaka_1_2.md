@@ -42,7 +42,7 @@ DEUXIÈME ADHYÂYA.
 
 3\. Dans le deuxième verset (du Pragâtha [^399]), indra nedîya ed ihi, pra sû tirâ sa<i>k</i>îbhir ye ta ukthina<i>h</i> (Rv. VIII, 53, 5, 6), apparaît le mot ukthina<i>h</i>, récitants d'hymnes [^400]. En vérité, ce jour (le mahâvrata) est un uktha (hymne), et comme doté d'un uktha, la forme de ce jour est parfaite.
 
-4\. Dans le premier verset (d'un autre Pragâtha) apparaît le mot vîra, fort (Ap. I, 40, 3), et comme doté du mot vîra, fort, la forme de ce jour est parfaite. <span id="p167">[<sup><small>p. 167</small></sup>]</span> 5\. Dans le deuxième verset (d'un autre Pragâtha) apparaît le mot suvîryam, force (Ap. I. 40, 1), et comme doté du mot suvîrya, force, la forme de ce jour est parfaite.
+4\. Dans le premier verset (d'un autre Pragâtha) apparaît le mot vîra, fort (Ap. I, 40, 3), et comme doté du mot vîra, fort, la forme de ce jour est parfaite. <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> 5\. Dans le deuxième verset (d'un autre Pragâtha) apparaît le mot suvîryam, force (Ap. I. 40, 1), et comme doté du mot suvîrya, force, la forme de ce jour est parfaite.
 
 6\. Dans le premier verset (d'un autre Pragâtha), le mot ukthyam, qui signifie « chanter », apparaît (Ap. I, 40, 5). En vérité, ce jour est un uktha, et comme doté d'un uktha, sa forme est parfaite.
 
@@ -56,7 +56,7 @@ DEUXIÈME ADHYÂYA.
 
 11\. Dans (le Pragâtha) pra va indrâya b<i>ri</i>hate (Rv. VIII, 89, 3) (le mot b<i>ri</i>hat apparaît). En vérité, b<i>ri</i>hat est mahat (grand), et comme doté de mahat, grand, la forme de ce jour (mahâvrata) est parfaite.
 
-12\. Dans (le Pragâtha) b<i>ri</i>had indrâya gâyata (Rv. VIII, 89, 1) <span id="p168">[<sup><small>p. 168</small></sup>]</span> (le mot b<i>ri</i>hat apparaît). En vérité, b<i>ri</i>hat est mahat (grand), et comme doté de mahat, la forme de ce jour est parfaite.
+12\. Dans (le Pragâtha) b<i>ri</i>had indrâya gâyata (Rv. VIII, 89, 1) <span id="p168"><sup><small>[ p. 168 ]</small></sup></span> (le mot b<i>ri</i>hat apparaît). En vérité, b<i>ri</i>hat est mahat (grand), et comme doté de mahat, la forme de ce jour est parfaite.
 
 13\. Dans (le Pragâtha) naki<i>h</i> sudâso ratham pary âsa na rîramad (Rv. VII, 32, 10) apparaissent les mots paryâsa (il se déplaçait) et na rîramad (il ne jouissait pas), et comme doté des mots paryasta et rânti la forme de ce jour est parfaite [^402].
 
@@ -64,7 +64,7 @@ Il récite tous (ces) Pragâthas, afin d'obtenir tous les jours (du sacrifice), 
 
 ## DEUXIÈME KHA<i>N</i><i>D</i>A [^407].
 
-1\. Il récite l'hymne « asat su me <i>g</i>arita<i>h</i> sâbhivega<i>h</i> » (Ap. X, 27, 1), (et dans celui-ci le mot) satyadhv<i>ri</i>tam, le destructeur de la vérité. En vérité, ce jour <span id="p169">[<sup><small>p. 169</small></sup>]</span> est la vérité, et comme doté du mot satya, vérité, la forme de ce jour est parfaite [^408].
+1\. Il récite l'hymne « asat su me <i>g</i>arita<i>h</i> sâbhivega<i>h</i> » (Ap. X, 27, 1), (et dans celui-ci le mot) satyadhv<i>ri</i>tam, le destructeur de la vérité. En vérité, ce jour <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> est la vérité, et comme doté du mot satya, vérité, la forme de ce jour est parfaite [^408].
 
 2\. Cet hymne est composé par Vasukra. En vérité, Vasukra est Brahman, et ce jour est Brahman. Ainsi, il obtient Brahman par le moyen de Brahman [^409].
 
@@ -78,7 +78,7 @@ Il récite tous (ces) Pragâthas, afin d'obtenir tous les jours (du sacrifice), 
 
 7\. Dans le verset ûrvam gavyam mahi g<i>ri</i><i>n</i>âna indra, le mot mahi, grand, apparaît. Doté du mot mahat, la forme de ce jour est parfaite.
 
-8\. Cet hymne est composé par Bharadvâ<i>g</i>a, et Bharadvâ<i>g</i>a était celui qui savait le plus, qui vécut le plus longtemps et qui pratiqua les plus grandes austérités parmi les Rishis. Par cet hymne, il chassa le mal. Par conséquent, s'il récite l'hymne de Bharadvâ<i>g</i>a, <span id="p170">[<sup><small>p. 170</small></sup>]</span>, après avoir chassé le mal, il devient instruit, vit longtemps et pratique les austérités.
+8\. Cet hymne est composé par Bharadvâ<i>g</i>a, et Bharadvâ<i>g</i>a était celui qui savait le plus, qui vécut le plus longtemps et qui pratiqua les plus grandes austérités parmi les Rishis. Par cet hymne, il chassa le mal. Par conséquent, s'il récite l'hymne de Bharadvâ<i>g</i>a, <span id="p170"><sup><small>[ p. 170 ]</small></sup></span>, après avoir chassé le mal, il devient instruit, vit longtemps et pratique les austérités.
 
 9\. Il récite l'hymne kayâ subhâ savayasa<i>h</i> sanîlâ<i>h</i> (Rv. I, 165, 1).
 
@@ -96,11 +96,11 @@ Il récite tous (ces) Pragâthas, afin d'obtenir tous les jours (du sacrifice), 
 
 16\. Tout le monde est ami de celui qui sait cela, et pour qui un prêtre Hot<i>ri</i> qui sait cela, récite cet hymne.
 
-17\. L'hymne suivant, <i>g</i>anish<i>th</i>â ugra<i>h</i> sahase turâya (Rv. I, 73, 1), forme un Nividdhâna [^413] et, <span id="p171">[<sup><small>p. 171</small></sup>]</span> selon le cérémonial d'un jour (ekâha), est parfait dans sa forme. Ce jour-là, beaucoup de choses sont faites de temps à autre qui doivent être cachées et expiées (par la récitation d'hymnes). L'expiation est le repos, le sacrifice d'un jour. C'est pourquoi, à la fin de l'année (l'avant-dernier jour du sacrifice qui dure toute une année), les sacrificateurs se reposent sur cette expiation comme leur repos.
+17\. L'hymne suivant, <i>g</i>anish<i>th</i>â ugra<i>h</i> sahase turâya (Rv. I, 73, 1), forme un Nividdhâna [^413] et, <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> selon le cérémonial d'un jour (ekâha), est parfait dans sa forme. Ce jour-là, beaucoup de choses sont faites de temps à autre qui doivent être cachées et expiées (par la récitation d'hymnes). L'expiation est le repos, le sacrifice d'un jour. C'est pourquoi, à la fin de l'année (l'avant-dernier jour du sacrifice qui dure toute une année), les sacrificateurs se reposent sur cette expiation comme leur repos.
 
 Celui qui sait cela repose fermement, et ceux aussi pour qui un prêtre Hoti qui sait cela récite cet hymne [^414].
 
-18\. Ceux-ci, récités d'un trait, forment quatre-vingt-dix-sept versets [^415]. Les quatre-vingt-dix sont trois Virâ<i>g</i>, chacune composée de trente, puis les sept versets qui les terminent. Toute louange des sept est aussi louange des quatre-vingt-dix. <span id="p172">[<sup><small>p. 172</small></sup>]</span> 19\. En répétant le premier et le dernier verset trois fois chacun, ils deviennent cent un versets.
+18\. Ceux-ci, récités d'un trait, forment quatre-vingt-dix-sept versets [^415]. Les quatre-vingt-dix sont trois Virâ<i>g</i>, chacune composée de trente, puis les sept versets qui les terminent. Toute louange des sept est aussi louange des quatre-vingt-dix. <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> 19\. En répétant le premier et le dernier verset trois fois chacun, ils deviennent cent un versets.
 
 20\. Il y a cinq doigts, chacun à quatre articulations, deux creux (au coude et au bras), le bras, l'œil, l'omoplate ; cela fait vingt-cinq. Les trois autres parties en ont également vingt-cinq chacune [^416]. Cela fait cent, et le tronc est le cent et unième.
 
@@ -116,7 +116,7 @@ Celui qui sait cela repose fermement, et ceux aussi pour qui un prêtre Hoti qui
 
 3\. Cela ne doit pas être pris en compte.
 
-4\. Certains disent qu'il devrait y avoir trois planches, parce qu'il y a ces trois mondes triples, et cela devrait leur ressembler. <span id="p173">[<sup><small>p. 173</small></sup>]</span> 5\. Cela ne doit pas être pris en compte.
+4\. Certains disent qu'il devrait y avoir trois planches, parce qu'il y a ces trois mondes triples, et cela devrait leur ressembler. <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> 5\. Cela ne doit pas être pris en compte.
 
 6\. Soit deux, car ces deux mondes (la terre et le ciel) sont perçus comme étant les plus réels, tandis que l'éther (l'espace) entre les deux est le ciel (antariksha). Soit donc deux planches.
 
@@ -135,7 +135,7 @@ Celui qui sait cela repose fermement, et ceux aussi pour qui un prêtre Hoti qui
 
 2\. D'autres disent : « Qu'il y ait une empan (prâde<i>s</i>a), car c'est à cette mesure que les airs vitaux ont été mesurés. » Cela ne doit pas être pris en considération [^419].
 
-3\. Qu'il soit d'un poing (mush<i>t</i>i), car c'est par cette mesure que toute nourriture comestible est faite, et c'est par cette mesure <span id="p174">[<sup><small>p. 174</small></sup>]</span> que toute nourriture comestible est prise ; qu'il soit donc d'un poing au-dessus du sol.
+3\. Qu'il soit d'un poing (mush<i>t</i>i), car c'est par cette mesure que toute nourriture comestible est faite, et c'est par cette mesure <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> que toute nourriture comestible est prise ; qu'il soit donc d'un poing au-dessus du sol.
 
 4\. Ils disent : « Qu'il monte la balançoire d'est en ouest, comme celui qui brille ; car le soleil monte ces mondes d'est en ouest. » Cela ne doit pas être pris en considération.
 
@@ -151,7 +151,7 @@ Celui qui sait cela repose fermement, et ceux aussi pour qui un prêtre Hoti qui
 
 10\. Le Hotri monte sur la balançoire, l'Udgâtri sur le siège en bois d'Udumbara. La balançoire est masculine, le siège féminin, et ils forment une union. Ainsi, il réalise une union au début de l'uktha afin d'avoir une descendance.
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 Celui qui sait cela, aura une descendance et du bétail.
 
@@ -165,7 +165,7 @@ Celui qui sait cela, aura une descendance et du bétail.
 
 16\. D'autres disent : « Qu'il descende après avoir pris la nourriture dans sa main. » Cela n'est pas à prendre en considération. Car, en vérité, on ne témoigne pas le même respect qu'on témoigne à quelqu'un après s'être approché de très près.
 
-17\. Qu'il descende après avoir vu la nourriture. Car, en vérité, c'est là le véritable respect que l'on témoigne à quelqu'un lorsqu'il la voit. Ce n'est qu'après avoir réellement <span id="p176">[<sup><small>p. 176</small></sup>]</span> vu la nourriture (apportée au sacrifice) qu'il descendra de la balançoire.
+17\. Qu'il descende après avoir vu la nourriture. Car, en vérité, c'est là le véritable respect que l'on témoigne à quelqu'un lorsqu'il la voit. Ce n'est qu'après avoir réellement <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> vu la nourriture (apportée au sacrifice) qu'il descendra de la balançoire.
 
 18\. Qu'il descende en se tournant vers l'orient, car c'est à l'orient que germe la semence des dieux [^426]. Qu'il s'élève donc en se tournant vers l'orient, oui, en se tournant vers l'orient.
 

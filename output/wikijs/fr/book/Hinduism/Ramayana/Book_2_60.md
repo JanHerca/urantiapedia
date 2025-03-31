@@ -136,7 +136,7 @@ Son frère Lakshman s'adressa ainsi :
 « Maintenant, le Seigneur de la Lumière s'élève rapidement,
 Et s'enfuit, vénérable nuit,
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 Cet oiseau aux ailes sombres, le Koïl, maintenant
 Appelle depuis la branche la plus haute,
@@ -263,7 +263,7 @@ Quand tes bras affectueux sont autour de lui, lacés.
 Ton cœur âgé cessera de souffrir
 Avec d'amères douleurs pour l'amour de Rama.
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 Et dis à Bharat : « Veille à traiter
 Les reines se réunissent en toute observance :
@@ -392,7 +392,7 @@ Pour le fils du roi, ce jus sacré.
 Alors Ráma fit de ses longues mèches,
 Et celle de Lakshman aussi, la tresse de l'ermite.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Et les deux frères royaux là-bas
 Avec des manteaux d'écorce et des poils emmêlés,
@@ -518,7 +518,7 @@ Les jeunes royaux ne pouvaient plus espionner,
 Il se détourna de l'endroit où il se tenait
 Retour à la maison avec Guha depuis les bois.
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 Les frères continuent de forcer leur chemin
 Où les doux oiseaux chantaient à chaque brin d'herbe,
@@ -640,7 +640,7 @@ Plus d'amour que de lueurs dans la poitrine de Rama.
 Qui, comme l'histoire nous le raconte.
 Il s'adressa ainsi au perroquet frappé :
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 « Perroquet, les griffes du ravisseur déchirent,
 Tandis que tu es encore seul là-bas.
@@ -764,7 +764,7 @@ J'avais entendu le prince raconter son histoire,
 Il leur ordonna d'apporter de l'eau, un taureau,
 Et des cadeaux d'honneur dans des plats remplis,
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Et des boissons et des aliments aux goûts variés,
 Des baies et des racines, placées devant lui,
@@ -889,7 +889,7 @@ Avec révérence, ils partirent en chemin.
 Rharadvája a fait preuve d'une grande faveur.
 Et les bénit, prêts pour la route.
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 Avec des regards affectueux comme ceux que les pères jettent
 Sur leurs propres fils, avant qu'ils ne partent.
@@ -1013,7 +1013,7 @@ Un moment dans cette ombre délicieuse
 Là où d'innombrables éléphants s'égaraient.
 Là où les paons criaient et les singes jouaient.
 
-<span id="p161">[<sup><small>p. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 Ils erraient avec délice.
 Puis, au bord de la rivière, ils ont trouvé
@@ -1119,7 +1119,7 @@ Sa flèche dans le bois avait touché ;
 Il est venu, portant son lourd fardeau,
 Et le déposa dans la flamme allumée.
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Dès qu'il vit que la viande était cuite,
 Et que les jus ont cessé de couler
@@ -1241,7 +1241,7 @@ Là où les gens se pressaient de tous côtés.
 De chaque haute terrasse, sauvage de malheur
 Les Indes royales se sont rassemblées ci-dessous :
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Il les entendit parler d'une voix douce,
 Alors que chaque Rama la faisait gémir :
@@ -1367,7 +1367,7 @@ Et toujours au moment opportun,
 Là où brûlent les feux sacrés du culte.
 Et, Madame, accordez à notre Seigneur
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 Nous devons un tel honneur aux dieux.
 Soyez gentil avec chaque reine : laissez la fierté
@@ -1476,7 +1476,7 @@ Un message pourrait être envoyé depuis les bois.
 Tes royaumes, grand monarque, pleurent le coup,
 Et sympathisez avec le malheur de Rama.
 
-<span id="p165">[<sup><small>p. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 Chaque arbre desséché baisse la tête,
 Et la pousse, le bourgeon et la fleur sont morts.
@@ -1596,7 +1596,7 @@ Où se trouvent Rama, Sita et Lakshman.
 Sans eux, je n'ai aucun pouvoir
 S'attarder sur une seule heure.
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 Encore une fois, je te prie, retrace tes pas,
 Et moi dans la forêt de Dandak,

@@ -29,7 +29,7 @@ dateCreated: 2025-2-6T11:21:36Z
   </table>
 </figure>
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 
 Réalisations, dix-huit [60](181#p60), [287](287#p287)
@@ -188,7 +188,7 @@ Quatre mondes de misère [98](201#p98), [262](277#p262)
 
 Amis, à éviter [266](279#p266)
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 Cadeaux, règles sur [18](157#p18)
 
@@ -382,7 +382,7 @@ Toucher, six sphères de [184](247#p184)
 
 Transe, mystique [188](250#p188), [192](251#p192)
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 Trésor gardé par des serpents [211](257#p211)
 

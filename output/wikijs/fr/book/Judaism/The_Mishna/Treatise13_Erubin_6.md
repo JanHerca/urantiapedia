@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 ### CHAPITRE VI.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 8. Cinq cours qui s'ouvrent l'une sur l'autre, et qui donnent également sur une allée commune, si les propriétaires des cours ont participé à l'erub pour les cours, mais n'ont pas fusionné l'allée, [^223] ils sont autorisés à porter et transporter dans les cours, mais il leur est interdit de le faire dans l'allée ; mais s'ils ont fusionné l'allée, ils sont autorisés dans les deux cours et l'allée. S'ils ont fusionné les cours et l'allée, si l'un des propriétaires des cours oublie et ne participe pas à l'erub, il lui est néanmoins permis de porter et transporter dans les deux cours et l'allée ; Si l'un des habitants de l'allée a oublié de se joindre à la réunion, il lui est permis de porter et de transporter dans les cours, mais il lui est interdit de le faire dans l'allée, dans la mesure où l'allée est dans la même relation avec les cours que les cours avec les maisons qui s'y trouvent.
 
-§ 9. Si deux cours sont l'une dans l'autre, si les habitants de la cour intérieure préparent leur erub et ceux de la cour extérieure non, les habitants de la cour intérieure peuvent y porter et transporter des objets, mais ceux de la cour extérieure ne doivent pas le faire. Si ceux de la cour extérieure ont préparé l'erub, mais pas ceux de la cour intérieure, les deux sont interdits ; si chacune a préparé son propre erub, les habitants de chacune sont autorisés à porter ou transporter des objets dans ses propres limites. R. Akivah soutient que la cour extérieure est interdite et que le droit de passage possédé par la cour intérieure <span id="p86">[<sup><small>p. 86</small></sup>]</span> le rend ainsi ; mais les sages estiment que ce droit de passage ne rend pas \[la cour extérieure\] interdite.
+§ 9. Si deux cours sont l'une dans l'autre, si les habitants de la cour intérieure préparent leur erub et ceux de la cour extérieure non, les habitants de la cour intérieure peuvent y porter et transporter des objets, mais ceux de la cour extérieure ne doivent pas le faire. Si ceux de la cour extérieure ont préparé l'erub, mais pas ceux de la cour intérieure, les deux sont interdits ; si chacune a préparé son propre erub, les habitants de chacune sont autorisés à porter ou transporter des objets dans ses propres limites. R. Akivah soutient que la cour extérieure est interdite et que le droit de passage possédé par la cour intérieure <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> le rend ainsi ; mais les sages estiment que ce droit de passage ne rend pas \[la cour extérieure\] interdite.
 
 § 10. Si l'un des chefs de famille de la cour extérieure oublie de participer à l'erub, la cour intérieure est autorisée, mais la cour extérieure est interdite. Si l'un des chefs de famille de la cour intérieure oublie de participer à l'erub, les deux sont interdits. S'ils déposent tous deux leur erub au même endroit, et que l'un des chefs de famille, qu'il soit de la cour intérieure ou de la cour extérieure, oublie de le faire et ne participe pas à l'erub, les deux sont interdits. Si chaque cour appartient à un seul individu, ou est habitée par une seule famille, aucune erub n'est requise.
 

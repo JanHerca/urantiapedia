@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 QUATRIÈME PARTIE.
 
@@ -44,7 +44,7 @@ Un mendiant, vivant ainsi [^515], maître de lui-même envers l'éternel (monde 
 
 Méprisé par ces gens-là, le sage, à l'esprit serein, soutient leurs paroles et leurs coups, comme un rocher n'est pas ébranlé par le vent. (3) Méprisant (toutes les calamités), il vit avec les moines intelligents, insensibles à la douleur et au plaisir, ne blessant ni les êtres mobiles ni les êtres immobiles, ne tuant pas, supportant tout : ainsi est décrit le grand sage, un bon <i>S</i>rama<i>n</i>a. (4)
 
-Comme l'éclat d'une flamme ardente augmente, ainsi augmentent l'austérité, la sagesse et la gloire d'un sage inébranlable qui, avec des désirs vaincus, médite <span id="p212">[<sup><small>p. 212</small></sup>]</span> sur la place suprême de la vertu [^516], bien qu'endurant la douleur [^517]. (5)
+Comme l'éclat d'une flamme ardente augmente, ainsi augmentent l'austérité, la sagesse et la gloire d'un sage inébranlable qui, avec des désirs vaincus, médite <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> sur la place suprême de la vertu [^516], bien qu'endurant la douleur [^517]. (5)
 
 Les grands vœux qui sont appelés le lieu de la paix, les grands enseignants et les producteurs de désintéressement ont été, dans tous les coins de la terre, proclamés par l'infinie <i>G</i>ina, celle qui sait [^518], comme la lumière, illuminant les trois mondes, (repoussant) les ténèbres. (6)
 

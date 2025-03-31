@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 4. Les jours de jeûne, on se servait de deux cornes de bélier recourbées, dont les embouchures étaient recouvertes d'argent, et les deux trompettes étaient placées au milieu entre elles ; le son des trompettes était prolongé après que celui des cornes avait cessé, car l'obligation du jour s'applique plus particulièrement au son des trompettes.
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 § 5. L'année du jubilé est comparable à la fête du nouvel an, par la sonnerie et les bénédictions. Rabbi Jehudah dit : « À la fête du nouvel an, on sonnait de la trompette, et à l'année du jubilé, de la trompette du chamois. »
 

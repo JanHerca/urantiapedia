@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 1\. Les hommes ne devraient pas se lever pour prier, sauf avec la tête respectueuse. Les pieux d'autrefois s'arrêtaient une heure avant de commencer à prier, afin de pouvoir diriger leur cœur vers Dieu. Même si le roi salue, il ne faut pas répondre ; et même si un serpent s'enroule autour de son talon, il ne faut pas s'arrêter.
 

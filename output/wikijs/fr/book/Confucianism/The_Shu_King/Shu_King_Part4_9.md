@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-KÂO ȜUNG était le titre donné à Wû-ting, après sa mort, dans le temple ancestral. Un sacrifice supplémentaire était offert le lendemain du service régulier et plus solennel. Il est difficile de dire quelle idée particulière y était liée ; <span id="p119">[<sup><small>p. 119</small></sup>]</span>, mais à la fin de celui-ci, les représentants ou personnifications des morts lors du sacrifice de la veille étaient tous fêtés.
+KÂO ȜUNG était le titre donné à Wû-ting, après sa mort, dans le temple ancestral. Un sacrifice supplémentaire était offert le lendemain du service régulier et plus solennel. Il est difficile de dire quelle idée particulière y était liée ; <span id="p119"><sup><small>[ p. 119 ]</small></sup></span>, mais à la fin de celui-ci, les représentants ou personnifications des morts lors du sacrifice de la veille étaient tous fêtés.
 
 Le titre de ce court livre laisse planer le doute quant à savoir si le sacrifice fut offert à Wû-ting ou par lui. La notice préliminaire se fonde sur la première hypothèse. De nombreux critiques d'une grande intelligence optent pour la seconde, qu'une nouvelle lecture du texte m'a incité à adopter. Le roi est donc Ȝû-kăng, le fils de Wû-ting. Son surveillant Ȝû Kî souhaitait censurer quelque chose d'irrégulier ou d'excessif dans son sacrifice à son père, profitant de l'incident mentionné dans la première phrase.
 

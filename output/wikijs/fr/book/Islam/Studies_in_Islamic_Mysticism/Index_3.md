@@ -29,7 +29,7 @@ dateCreated: 2024-11-22T20:3:38Z
   </table>
 </figure>
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 _mauvais_, [100](./2_3#p100)
 
@@ -209,7 +209,7 @@ _faná_, [9](./1_1#p9), [50](./1_2#p50), [55](./1_2#p55), [77](./2_Introduction#
 
 _faq_, [234](./3_vv_400_499#p234)
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 _fard_, [151](./2_Appendix2#p151)
 
@@ -421,7 +421,7 @@ _al-Kamil_, [116](./2_4#p116)
 
 _al-kámilu 'l-támm_, [77](./2_Introduction#p77)
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 _kaná’is_, [105](./2_4#p105)
 
@@ -633,7 +633,7 @@ _nafkhu 'l-Rúḥ_, [139](./2_7#p139)
 
 _nafs_, [22](./1_1#p22), [44](./1_1#p44), [55](./1_2#p55), [89](./2_Introduction#p89), [109](./2_4#p109), [110](./2_4#p110), [114](./2_4#p114), [119](./2_4#p119), [135](./2_7#p135), [203](./3_vv_1_100#p203), [208](./3_vv_1_100#p208), [209](./3_vv_1_100#p209), [210](./3_vv_1_100#p210), [212](./3_vv_100_199#p212), [213](./3_vv_100_199#p213), [215](./3_vv_100_199#p215), [220](./3_vv_200_299#p220), [233](./3_vv_400_499#p233), [236](./3_vv_400_499#p236), [237](./3_vv_400_499#p237). _Voir_ Âme
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 _al-nafsu 'l-ammara_, [121](./2_4#p121)
 
@@ -845,7 +845,7 @@ _tawba_, [51](./1_2#p51), [200](./3_vv_1_100#p200)
 
 _tawḥíd_, [50](./1_2#p50), [52](./1_2#p52), [121](./2_4#p121)
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 _ṭawíl_, [145](./2_Appendix1#p145)
 

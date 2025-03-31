@@ -109,7 +109,7 @@ Tu exaucerais ma première et ma deuxième prière.
 Ceux qui t'ont offert des faveurs, promis alors à toi,
 Je demande maintenant, ô Roi des hommes,
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 De toi, ô monarque, bon et juste,
 Dont l'âme juste observe chaque confiance.
@@ -232,7 +232,7 @@ Il lie la fierté de la race de Manu
 Les esprits du peuple lui sont reconnaissants.
 Il gagne les sujets avec sa vérité,
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 Les pauvres avec des cadeaux et une douce pitié,
 Ses professeurs avec sa volonté docile,
@@ -356,7 +356,7 @@ Au peuple, Seigneur, et à Bharat aussi.
 Ô méchante traîtresse, féroce et vile,
 Qui aimes les actes de péché et de ruse,
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 Quel crime ou quel grief vois-tu,
 Quelle faute y a-t-il chez Rama ou chez moi ?
@@ -481,7 +481,7 @@ Bientôt tu régneras comme impératrice sur
 Ma noble maison n'est pas vexée auparavant.
 Mais ensuite, la confusion est restée sauvage,
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 De Ráma et de moi démuni.
 Si Bharat consent à ton plan
@@ -594,7 +594,7 @@ Avec la colère qui fait rage dans sa poitrine,
 J'ai sombré un moment sous la douleur,
 Puis il s'adressa à nouveau à Kaikeyí :
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 « Sans enfant depuis si longtemps, j'ai finalement gagné,
 Avec un travail acharné, un fils du Ciel,
@@ -714,7 +714,7 @@ Avec des textes, devant la flamme sacrée,
 Toi et ton fils, je te méprise et je te hais,
 Et tout à coup, répudier.
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 La nuit est passée, l'aube est proche.
 Bientôt les saints prêtres seront là
@@ -839,7 +839,7 @@ Les louanges de son seigneur et roi :
 La mer scintillante ravit nos yeux,
 Réveillez-vous, calmez-vous avec une âme douce, et ainsi
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Donne-nous l'extase, ô Roi puissant.
 Comme Mátali [^279] à cette même heure
@@ -961,7 +961,7 @@ Avec des branches laiteuses superposées,
 Tout débordant de chaque flot sacré,
 Et orné de nombreux boutons de lotus
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Et des danseuses belles et libres,
 Gais avec leurs pierres précieuses, étaient là pour voir,
@@ -1087,7 +1087,7 @@ Il se réjouit à mesure qu’il s’approchait.
 Et sa poitrine se gonfla de joie
 Il continuait toujours sa route
 
-<span id="p111">[<sup><small>p. 111</small></sup>]</span>
+<span id="p111"><sup><small>[ p. 111 ]</small></sup></span>
 
 À travers de nombreuses cours somptueuses
 Comme le palais d'Indra noblement construit,
@@ -1208,7 +1208,7 @@ Tienne par le décret élevé de ton père,
 Comme Lui, les mondes qui ont formé et planifié,
 La royauté fut donnée à Indra.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 Alors mes yeux adoreront mon roi
 Lorsque les rites lustraux et le jeûne sont terminés,
@@ -1327,7 +1327,7 @@ Et ils ont pris soin de nous avec amour :
 Ainsi, nous et les nôtres serons bénis,
 Oui, encore plus béni sous le règne de Rama.
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 Nous n'avons plus besoin de mets délicats,
 Et ne prêtez attention qu'à un seul objet précieux,
@@ -1449,7 +1449,7 @@ Le père à qui il doit sa naissance
 Cela devrait être sa divinité sur terre.
 As-tu été mû par l'orgueil et la folie,
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 Avec une raillerie amère, le roi a réprimandé ?
 A du mépris pour toi ou une plaisanterie cruelle
@@ -1576,7 +1576,7 @@ Que ses propres lèvres n'ont pas exprimé
 Sa volonté, ni fait connaître son désir
 Que Bharat monte sur le trône.
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 À Bharat je céderais ma femme,
 Mon royaume et ma richesse, ma propre vie bien-aimée,
@@ -1702,7 +1702,7 @@ Sur le visage splendide du héros.
 Le chef, aux armes puissantes, n'avait pas non plus.
 J'ai perdu le regard brillant qui charmait tous les cœurs,
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Comme si les lunes d'automne étaient jetées
 Une splendeur qui leur est propre.
@@ -1813,7 +1813,7 @@ Elle l'embrassa sur la tête :
 Elle l'a béni dans sa fierté et sa joie
 Avec des mots tendres, et dit :
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 « Soyez comme vos pères royaux d’autrefois,
 Les nobles bons, les âmes élevées !
@@ -1938,7 +1938,7 @@ Avant que l'heure de sa mort ne soit passée,
 Je suis en deuil, comme une vache endeuillée,
 J'étais aujourd'hui parmi les morts.
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

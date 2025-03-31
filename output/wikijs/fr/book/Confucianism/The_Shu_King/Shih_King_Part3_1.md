@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 ## III. LES GRANDES ODES DU ROYAUME.
 
@@ -54,7 +54,7 @@ Le roi Wăn était plein d'une activité fervente, et sa renommée est sans fin.
 
 Ils s'illustreront d'âge en âge, poursuivant leurs projets avec zèle et révérence. Admirables sont les nombreux officiers, nés dans ce royaume royal. Le royaume royal est capable de les produire, les partisans de (la maison de) Kâu. Nombreux sont les officiers, et grâce à eux le roi Wăn jouit de son repos.
 
-Profond était le roi Wăn ; Oh ! continu et brillant était son sentiment de révérence. Grand est le décret du Ciel ! Il y avait les descendants (des souverains de) Shang [^475]\—Les descendants des souverains de Shang Étaient en nombre plus de <span id="p379">[<sup><small>p. 379</small></sup>]</span> que des centaines de milliers. Mais lorsque Dieu donna l'ordre, Ils devinrent soumis à <i>K</i>âu.
+Profond était le roi Wăn ; Oh ! continu et brillant était son sentiment de révérence. Grand est le décret du Ciel ! Il y avait les descendants (des souverains de) Shang [^475]\—Les descendants des souverains de Shang Étaient en nombre plus de <span id="p379"><sup><small>[ p. 379 ]</small></sup></span> que des centaines de milliers. Mais lorsque Dieu donna l'ordre, Ils devinrent soumis à <i>K</i>âu.
 
 Ils devinrent sujets de Kâu, car la nomination du Ciel n'est pas immuable. Les officiers de Yin, admirables et vigilants, assistent aux libations dans notre capitale [^476]. Ils assistent à ces libations, portant toujours des figures de hache sur leurs vêtements inférieurs et leur casquette particulière [^477]. Ô vous, loyaux ministres du roi, pensez toujours à votre ancêtre !
 
@@ -78,7 +78,7 @@ Le Ciel contempla ce monde inférieur ; Et son rendez-vous s'arrêta (sur le roi
 
 La dame était dans une grande tenue, telle une belle habitant du ciel. Les cérémonies déterminaient le caractère propice (de l'union) [^484], et il la rencontra en personne sur le Wei. Il construisit un pont de bateaux au-dessus ; la gloire (de l'occasion) était illustre.
 
-La nomination favorable venait du Ciel, donnant le trône à notre parent Wăn, dans la capitale de Kâu. La dame qui lui succéda était de Hsin, sa fille aînée, qui vint l'épouser. Elle fut bénie de donner naissance au roi Wû, qui fut préservé, aidé et reçut (aussi) la nomination, <span id="p382">[<sup><small>p. 382</small></sup>]</span> Et conformément à cela, frappa le grand Shang.
+La nomination favorable venait du Ciel, donnant le trône à notre parent Wăn, dans la capitale de Kâu. La dame qui lui succéda était de Hsin, sa fille aînée, qui vint l'épouser. Elle fut bénie de donner naissance au roi Wû, qui fut préservé, aidé et reçut (aussi) la nomination, <span id="p382"><sup><small>[ p. 382 ]</small></sup></span> Et conformément à cela, frappa le grand Shang.
 
 Les troupes de Yin-shang furent rassemblées comme une forêt, et rangées dans le désert de Mû. Nous nous levâmes (à la crise) ; « Dieu est avec vous », (dit Shang-fû au roi), « n'ayez aucun doute dans votre cœur [^485]. »
 
@@ -92,7 +92,7 @@ DÉBUTS MINEURS ET CROISSANCE ULTÉRIEURE DE LA MAISON DE KÂU À KÂU. SON RETR
 
 « L'ancien duc Than-fû » était le grand-père du roi Wăn et fut canonisé par le duc de Kâu sous le nom de « roi Thâi ». Comme mentionné dans une note de la [p. 316] (Shih_King_Part1_2#p316), il fut le premier de sa famille à s'installer à Kâu, y déplaçant de Pin le site de leur première colonie, « le pays autour du Khü et du Khî ».
 
-Les courges poussent en longues files toujours croissantes [^486]. Lorsque notre peuple est apparu pour la première fois, du pays des Khü et des Khî [^487], l'ancien duc <span id="p383">[<sup><small>p. 383</small></sup>]</span> Than-fû leur a construit des huttes et des grottes semblables à des fours, avant même qu'ils n'aient encore de maisons [^488].
+Les courges poussent en longues files toujours croissantes [^486]. Lorsque notre peuple est apparu pour la première fois, du pays des Khü et des Khî [^487], l'ancien duc <span id="p383"><sup><small>[ p. 383 ]</small></sup></span> Than-fû leur a construit des huttes et des grottes semblables à des fours, avant même qu'ils n'aient encore de maisons [^488].
 
 L'ancien duc Than-fû arriva le matin, galopant ses chevaux, le long des rives des rivières occidentales, jusqu'au pied du mont <i>Kh</i>î [^489] ; et là, lui et la dame <i>K</i>iang [^490] vinrent et cherchèrent ensemble un emplacement.
 
@@ -100,7 +100,7 @@ La plaine de Kâu était belle et luxuriante, avec ses violettes et ses chardons
 
 Il encouragea le peuple et le sédentarisa ; ici à gauche, là à droite. Il divisa le terrain et le subdivisa ; s'il creusa des fossés, il délimita les arpents. De l'est à l'ouest, il ne fut rien qu'il ne prit en main [^492].
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 Il appela son surintendant des travaux ; il appela son ministre de l'instruction ; et les chargea de la construction des maisons. Avec la corde, ils redressèrent tout ; ils lièrent solidement les planches de la charpente, afin qu'elles s'élèvent régulièrement, élevant le temple ancestral dans sa grandeur solennelle [^493].
 
@@ -108,13 +108,13 @@ Des foules apportèrent la terre dans des paniers ; elles la jetèrent dans les 
 
 Ils érigèrent la porte extérieure (du palais), qui s'élevait majestueusement. Ils établirent la porte de l'audience, qui s'élevait sévère et rigoureuse. Ils érigèrent le grand autel aux esprits de la terre, d'où devaient provenir tous les grands mouvements [^495].
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 Ainsi, bien qu'il ne pût empêcher la fureur de ses ennemis [^496], il ne laissa pas tomber sa propre renommée. Les chênes et les nerpruns furent (progressivement) éclaircis, et des routes furent ouvertes aux voyageurs. Les hordes de Khwăn disparurent, effrayées et haletantes.
 
 (Les chefs de) Yü et _Z_ui [^497] furent amenés à un accord Par le roi Wăn stimulant leur vertu naturelle. Alors, je peux dire, certains vinrent à lui, sans le connaître auparavant ; Certains, attirés les derniers par le premier ; Certains, attirés par ses succès rapides ; Et certains par sa défense (des faibles) contre les insultes.
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 <a id="o4"></a>
 
@@ -160,7 +160,7 @@ Bien qu'il n'ait pu empêcher de grandes calamités, sa splendeur et sa magnanim
 
 Ainsi, les hommes adultes devinrent vertueux (par lui), et les jeunes hommes firent des progrès (constants). (Notre) ancien prince ne ressentit jamais la lassitude, et de lui venaient la renommée et l'éminence de ses officiers.
 
-<span id="p389">[<sup><small>p. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 <a id="o7"></a>
 
@@ -174,7 +174,7 @@ Dieu est grand, contemplant ce monde inférieur avec majesté. Il parcourut les 
 
 Dieu arpenta les collines, Où les chênes et les nerpruns étaient éclaircis, Et des sentiers tracés à travers les sapins et les cyprès. Dieu, qui avait élevé l'État, lui suscita un dirigeant approprié [^513], — Du temps de Thâi-po et du roi <i>K</i>î (cela fut fait) [^513]. Or, ce roi <i>K</i>î Dans son cœur était plein de devoir fraternel. Plein de devoir envers son frère aîné, Il se consacra davantage à promouvoir la prospérité (du pays), Et lui assura la gloire (de son acte) [^514]. Il accepta sa dignité et ne la perdit pas, Et (bientôt sa famille) posséda tout le royaume.
 
-Ce roi <i>K</i>î fut doté par Dieu du pouvoir de jugement, de sorte que la renommée de sa vertu grandit silencieusement. Sa vertu était hautement intelligente, hautement intelligente et d'un rare discernement ; capable de diriger, capable de gouverner, de gouverner ce grand pays ; rendant une soumission cordiale, effectuant une union cordiale [^515]. Lorsque (le règne) vint au roi Wăn, sa <span id="p391">[<sup><small>p. 391</small></sup>]</span> vertu ne laissa rien à redire, il reçut la bénédiction de Dieu, et elle fut étendue à ses descendants.
+Ce roi <i>K</i>î fut doté par Dieu du pouvoir de jugement, de sorte que la renommée de sa vertu grandit silencieusement. Sa vertu était hautement intelligente, hautement intelligente et d'un rare discernement ; capable de diriger, capable de gouverner, de gouverner ce grand pays ; rendant une soumission cordiale, effectuant une union cordiale [^515]. Lorsque (le règne) vint au roi Wăn, sa <span id="p391"><sup><small>[ p. 391 ]</small></sup></span> vertu ne laissa rien à redire, il reçut la bénédiction de Dieu, et elle fut étendue à ses descendants.
 
 Dieu dit au roi Wăn [^516] : « Ne sois pas comme ceux qui rejettent ceci et s'accrochent à cela ; Ne sois pas comme ceux qui sont gouvernés par leurs goûts et leurs désirs ; » Alors il s'éleva majestueusement avant les autres à la hauteur (de la vertu). Le peuple de Mî [^517] fut désobéissant, Osant s'opposer à notre grand pays, Et envahit Yüan, marchant sur Kung [^518]. Le roi se leva, majestueux dans sa colère ; Il rassembla ses troupes, Pour arrêter les ennemis envahisseurs ; Pour consolider la prospérité de <i>K</i>âu ; Pour répondre aux attentes de tous sous le ciel.
 
@@ -192,7 +192,7 @@ Les engins d'assaut et de chute furent d'abord déployés avec douceur contre le
 
 Les successeurs marchent sur les traces (de leurs prédécesseurs) dans notre <i>K</i>âu. Depuis des générations, il y avait eu des rois sages ; les trois souverains étaient au ciel [^524] ; et le roi (Wû) était leur digne successeur dans sa capitale [^525].
 
-Le roi (Wû) fut leur digne successeur dans sa capitale, s'élevant à rechercher la vertu héréditaire, s'efforçant toujours d'être en accord avec la <span id="p394">[<sup><small>p. 394</small></sup>]</span> volonté (du Ciel) ; et il s'assura ainsi la confiance due à un roi.
+Le roi (Wû) fut leur digne successeur dans sa capitale, s'élevant à rechercher la vertu héréditaire, s'efforçant toujours d'être en accord avec la <span id="p394"><sup><small>[ p. 394 ]</small></sup></span> volonté (du Ciel) ; et il s'assura ainsi la confiance due à un roi.
 
 Il s'est assuré la confiance due à un roi, et est devenu le modèle de tous ceux qui étaient sous lui. Toujours soucieux d'être filial, son esprit filial était le modèle (qu'il fournissait).
 
@@ -212,7 +212,7 @@ Le roi Wăn est célèbre ; oui, il est très célèbre. Ce qu'il recherchait, c
 
 Le roi Wăn reçut la nomination (du Ciel) et remporta son succès martial. Après avoir renversé <i>Kh</i>ung [^526]. Il fixa sa ville (capitale) à Făng [^527]. Un véritable souverain était le roi Wăn !
 
-<span id="p395">[<sup><small>p. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 Il répara les murs le long des douves. Son établissement à Făng s'inscrivait dans le modèle de ses ancêtres. Non pas par hâte de satisfaire ses désirs, mais pour témoigner du devoir filial qui lui avait été transmis. Le prince royal était un véritable souverain !
 
@@ -224,7 +224,7 @@ Dans la capitale de Hâo, il construisit sa salle avec son cercle d'eau [^529]. 
 
 Il examina et devina, fit le roi, Au sujet de s'installer dans la capitale de Hâo. L'écaille de tortue décida du site [^530], Et le roi Wû acheva la ville. Un véritable souverain était le roi Wû !
 
-<span id="p396">[<sup><small>p. 396</small></sup>]</span>
+<span id="p396"><sup><small>[ p. 396 ]</small></sup></span>
 
 Près de l'eau du Făng pousse le millet blanc [^531] ; le roi Wû n'a-t-il pas fait preuve de sagesse dans le choix de ses officiers ? Il a laissé ses plans à ses descendants, et a assuré réconfort et soutien à son fils. Le roi Wû était un véritable souverain !
 

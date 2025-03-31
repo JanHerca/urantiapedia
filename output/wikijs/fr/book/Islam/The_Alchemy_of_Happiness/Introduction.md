@@ -32,7 +32,7 @@ dateCreated: 2024-11-19T21:9:57Z
   </table>
 </figure>
 
-Sache, ô bien-aimés, que l'homme n'a pas été créé par plaisanterie ou par hasard, mais qu'il a été merveilleusement fait et pour quelque grande fin. Bien qu'il ne soit pas de l'éternité, il vit pourtant pour toujours ; et bien que son corps soit vil et terrestre, son esprit est élevé et divin. Lorsque, dans le creuset de l'abstinence, il est purifié des passions charnelles, il atteint le plus haut niveau, et au lieu d'être esclave de la luxure et de la colère, il se dote de qualités angéliques. Parvenu à cet état, il trouve son paradis dans la contemplation de la Beauté éternelle, et non plus dans les délices charnels. L'alchimie spirituelle qui opère ce changement en lui, comme celle qui transforme les métaux vils en or, n'est pas facile à découvrir, et ne se trouve pas dans la maison de chaque vieille femme. C'est pour expliquer cette alchimie et ses <span id="p18">[<sup><small>p. 18</small></sup>]</span> méthodes d'opération que l'auteur a entrepris cet ouvrage qu'il a intitulé : L'Alchimie du Bonheur. Or les trésors de Dieu, dans lesquels cette alchimie doit être recherchée, sont les cœurs des prophètes, et celui qui la cherche ailleurs sera déçu et ruiné au jour du jugement, lorsqu'il entendra les mots : « Nous avons levé le voile de dessus toi, et ta vue aujourd'hui est perçante. »
+Sache, ô bien-aimés, que l'homme n'a pas été créé par plaisanterie ou par hasard, mais qu'il a été merveilleusement fait et pour quelque grande fin. Bien qu'il ne soit pas de l'éternité, il vit pourtant pour toujours ; et bien que son corps soit vil et terrestre, son esprit est élevé et divin. Lorsque, dans le creuset de l'abstinence, il est purifié des passions charnelles, il atteint le plus haut niveau, et au lieu d'être esclave de la luxure et de la colère, il se dote de qualités angéliques. Parvenu à cet état, il trouve son paradis dans la contemplation de la Beauté éternelle, et non plus dans les délices charnels. L'alchimie spirituelle qui opère ce changement en lui, comme celle qui transforme les métaux vils en or, n'est pas facile à découvrir, et ne se trouve pas dans la maison de chaque vieille femme. C'est pour expliquer cette alchimie et ses <span id="p18"><sup><small>[ p. 18 ]</small></sup></span> méthodes d'opération que l'auteur a entrepris cet ouvrage qu'il a intitulé : L'Alchimie du Bonheur. Or les trésors de Dieu, dans lesquels cette alchimie doit être recherchée, sont les cœurs des prophètes, et celui qui la cherche ailleurs sera déçu et ruiné au jour du jugement, lorsqu'il entendra les mots : « Nous avons levé le voile de dessus toi, et ta vue aujourd'hui est perçante. »
 
 Dieu a envoyé sur terre cent vingt-quatre mille prophètes[^1] pour enseigner aux hommes la prescription de cette alchimie et comment purifier leurs cœurs des qualités les plus viles dans le creuset de l'abstinence. Cette alchimie peut être brièvement décrite comme un détournement du monde vers Dieu, et ses constituants sont au nombre de quatre :
 
@@ -43,7 +43,7 @@ Dieu a envoyé sur terre cent vingt-quatre mille prophètes[^1] pour enseigner a
 
 Nous allons maintenant procéder à l'exposition de ces quatre constituants dans l'ordre.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 <a id="Intro"></a>
 
@@ -42,7 +42,7 @@ Ces Odes de Shang constituent le dernier livre des éditions ordinaires du Shih.
 
 Les souverains de la dynastie des Shang, qui occupèrent le trône de 1766 à 1123 av. J.-C., et dont la lignée descendait de Hsieh, apparaissent dans le Shû comme ministre de l'Instruction de Shun. Par Yâo ou par Shun, Hsieh fut investi de la principauté de Shang, correspondant au petit département ainsi nommé dans le Shen-hsî. Quatorzième descendant de lui, Thien-Yî, plus connu sous le nom de <i>Kh</i>ăng Thang, ou Thang le Réussi, détrôna le dernier descendant de la lignée de Hsiâ et fonda une nouvelle dynastie. Nous le rencontrons d'abord à une distance considérable du fief ancestral (qui, cependant, donna son nom à la dynastie), ayant pour capitale le Pô méridional, qui semble correctement correspondre à l'actuel district de Shang-_kh_iû, dans le département de Kwei-teh, Ho-nan. Parmi les vingt-sept souverains qui succédèrent à Thang, trois se distinguèrent particulièrement : Thâi Kiâ, son petit-fils et successeur (1753 av. J.-C. à 1721), qui reçut le titre de Thai Ȝung ; Thai Mâu (1637 av. J.-C. à 1563), canonisé sous le nom de Kung Ȝung ; et Wû-ting (1324 à 1266 av. J.-C.), connu sous le nom de Kâo Ȝung. Les sanctuaires de ces trois souverains et celui de Thang conservèrent leur place dans le temple ancestral après leur construction, et si toutes les odes sacrificielles de la dynastie avaient été préservées, la plupart d’entre elles auraient été à la gloire de l’un ou l’autre des quatre. Or, il se trouve qu’au moins toutes les odes dont Thai Ȝung était le sujet furent perdues ; et des autres, nous ne possédons que la petite partie mentionnée plus haut.
 
-Comment se fait-il que nous possédions ces éléments ? Le récit suivant, dans les Récits des États, compilés probablement par un contemporain de Confucius, nous le rapporte. Le comte de Wei fut fait duc de Song par le roi Wû de Kâu, comme le rapporte le Shû, V, viii, pour y perpétuer les sacrifices de la maison de Shang ; mais le gouvernement de Song tomba par la suite en désordre, et les monuments commémoratifs de la dynastie furent perdus. À l'époque du duc Tâi (799 à 766 av. J.-C.), l'un de ses ministres, Kăng-khâo, ancêtre de Confucius, reçut du Grand Maître de Musique de la cour de Kâu douze <span id="p304">[<sup><small>p. 304</small></sup>]</span> des odes sacrificielles de Shang, qu'il rapporta à Song, où elles furent utilisées pour sacrifier aux anciens rois Shang. On suppose que sept d'entre elles furent perdues par la suite, avant la constitution du recueil des Shih.
+Comment se fait-il que nous possédions ces éléments ? Le récit suivant, dans les Récits des États, compilés probablement par un contemporain de Confucius, nous le rapporte. Le comte de Wei fut fait duc de Song par le roi Wû de Kâu, comme le rapporte le Shû, V, viii, pour y perpétuer les sacrifices de la maison de Shang ; mais le gouvernement de Song tomba par la suite en désordre, et les monuments commémoratifs de la dynastie furent perdus. À l'époque du duc Tâi (799 à 766 av. J.-C.), l'un de ses ministres, Kăng-khâo, ancêtre de Confucius, reçut du Grand Maître de Musique de la cour de Kâu douze <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> des odes sacrificielles de Shang, qu'il rapporta à Song, où elles furent utilisées pour sacrifier aux anciens rois Shang. On suppose que sept d'entre elles furent perdues par la suite, avant la constitution du recueil des Shih.
 
 <a id="o1"></a>
 
@@ -56,7 +56,7 @@ Nous ne pouvons pas dire par lequel des rois Shang le sacrifice mentionné ici f
 
 Que c'est admirable ! Que c'est complet ! Ici sont installés nos tambours à main et nos tambours. Les tambours résonnent harmonieusement et bruyamment, pour le plus grand plaisir de notre méritant ancêtre [^319].
 
-Le descendant de Thang l'invite avec cette musique, afin qu'il puisse nous apaiser par la réalisation de nos pensées [^320]. Profond est le son de nos tambours à main <span id="p305">[<sup><small>p. 305</small></sup>]</span> et de nos tambours ; les flûtes résonnent d'une voix stridente ; toutes harmonieuses et se fondant ensemble, selon les notes du joyau sonore. Oh ! majestueux est le descendant de Thang ; très admirable est sa musique.
+Le descendant de Thang l'invite avec cette musique, afin qu'il puisse nous apaiser par la réalisation de nos pensées [^320]. Profond est le son de nos tambours à main <span id="p305"><sup><small>[ p. 305 ]</small></sup></span> et de nos tambours ; les flûtes résonnent d'une voix stridente ; toutes harmonieuses et se fondant ensemble, selon les notes du joyau sonore. Oh ! majestueux est le descendant de Thang ; très admirable est sa musique.
 
 Les grosses cloches et les tambours emplissent l'oreille ; les diverses danses sont exécutées avec grandeur [^321]. Nous avons les admirables visiteurs [^322], qui sont ravis et ravis.
 
@@ -80,7 +80,7 @@ Avec les moyeux de leurs roues ceinturés de cuir, et leurs jougs ornés, avec l
 
 Qu'il considère nos sacrifices d'hiver et d'automne, (Ainsi) offerts par le descendant de Thang !
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 <a id="o3"></a>
 
@@ -92,7 +92,7 @@ Si cette ode n'était pas destinée à honorer Wû-ting, le Kâo Ȝung des Shang
 
 Le ciel a chargé l'hirondelle de descendre et de donner naissance à (le père de notre) Shang [^325]. (Ses descendants) ont habité dans le pays de Yin et sont devenus grands. (Puis) il y a longtemps, Dieu a désigné le Thang martial, pour réguler les frontières dans les quatre quartiers (du royaume).
 
-(Dans ces) quartiers, il nomma les princes, et posséda majestueusement les neuf régions [^326]. Le <span id="p308">[<sup><small>p. 308</small></sup>]</span> premier souverain de Shang [^327] reçut cette nomination sans aucun élément d'instabilité, et elle est (maintenant) détenue par le descendant de Wû-ting [^328].
+(Dans ces) quartiers, il nomma les princes, et posséda majestueusement les neuf régions [^326]. Le <span id="p308"><sup><small>[ p. 308 ]</small></sup></span> premier souverain de Shang [^327] reçut cette nomination sans aucun élément d'instabilité, et elle est (maintenant) détenue par le descendant de Wû-ting [^328].
 
 Le descendant de Wû-ting est un souverain martial, à la hauteur de toutes les urgences. Dix princes, (venus) avec leurs bannières ornées de dragons, portent les grands plats de millet.
 
@@ -106,7 +106,7 @@ Des quatre mers [^329] ils viennent (à nos sacrifices) ; ils viennent en multit
 
 CÉLÉBRANT HSIEH, L'ANCÊTRE DE LA MAISON DE SHANG ; HSIANG-THÛ, SON PETIT-FILS ; THANG, LE FONDATEUR DE LA DYNASTIE ; ET Î-YIN, MINISTRE EN CHEF ET CONSEILLER DE THANG.
 
-On ne sait pas à quelle occasion ce morceau fut sacrifié. L'opinion la plus probable est celle de Mâo, selon laquelle il s'agissait du <span id="p309">[<sup><small>p. 309</small></sup>]</span> « grand sacrifice Tî », lorsque le principal objet d'honneur était l'ancien Khû, le père de Hsieh, avec Hsieh comme corrélat, et tous les rois de la dynastie, ainsi que les premiers seigneurs de Shang, et leurs célèbres ministres et conseillers, auraient leur place au service. Je pense que c'est la plus ancienne des odes de Shang.
+On ne sait pas à quelle occasion ce morceau fut sacrifié. L'opinion la plus probable est celle de Mâo, selon laquelle il s'agissait du <span id="p309"><sup><small>[ p. 309 ]</small></sup></span> « grand sacrifice Tî », lorsque le principal objet d'honneur était l'ancien Khû, le père de Hsieh, avec Hsieh comme corrélat, et tous les rois de la dynastie, ainsi que les premiers seigneurs de Shang, et leurs célèbres ministres et conseillers, auraient leur place au service. Je pense que c'est la plus ancienne des odes de Shang.
 
 Les seigneurs de Shang étaient profondément sages, et depuis longtemps les présages (de leur dignité) étaient apparus.
 
@@ -114,7 +114,7 @@ Lorsque les eaux du déluge se répandirent largement, Yû organisa et divisa le
 
 Le roi des ténèbres exerçait une influence efficace [^333]. Chargé d'un petit État, il commandait le succès : Chargé d'un grand État, il commandait le succès [^334]. Il suivait ses règles de conduite sans erreur ; partout où il inspectait (le peuple), ils répondaient (à ses instructions [^335]. (Alors vint) Hsiang-thû tout ardent [^336], Et tous ceux qui se trouvaient dans les quatre mers, au-delà (des régions médianes), reconnaissaient ses restrictions.}
 
-<span id="p310">[<sup><small>p. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 La faveur divine ne le quitta pas (Shang), et Thang trouva l'objet idéal pour sa manifestation. Thang naquit à temps, et sa sagesse et sa révérence progressèrent chaque jour : son caractère exerça une influence brillante sur le Ciel pendant longtemps. Il révérait Dieu, et Dieu le désigna comme modèle pour les neuf régions.
 
@@ -124,7 +124,7 @@ Il reçut le tribut des États, petits et grands, et les soutint comme un puissa
 
 Le roi martial déploya sa bannière et saisit sa hache avec révérence. C'était comme un feu ardent que nul ne peut réprimer. La racine, avec ses trois pousses, ne pouvait faire aucun progrès, aucune croissance [^337]. Les neuf régions furent efficacement sécurisées par Thang. Après avoir frappé les princes de Wei et de Kû, il s'en prit à Kün-wû et à Kieh de Hsiâ.
 
-Autrefois, au milieu de la période (avant <span id="p311">[<sup><small>p. 311</small></sup>]</span> Thang), il y eut un temps de tremblement et de péril [^338]. Mais le Ciel le traita alors comme un fils, et lui envoya un haut ministre, à savoir Â-hăng [^339], qui apporta son aide au roi de Shang.
+Autrefois, au milieu de la période (avant <span id="p311"><sup><small>[ p. 311 ]</small></sup></span> Thang), il y eut un temps de tremblement et de péril [^338]. Mais le Ciel le traita alors comme un fils, et lui envoya un haut ministre, à savoir Â-hăng [^339], qui apporta son aide au roi de Shang.
 
 <a id="o5"></a>
 
@@ -134,13 +134,13 @@ CÉLÉBRANT LA GUERRE DE WÛ-TING CONTRE LE ROI ING-KHÛ, SON SUCCÈS ET LE BONH
 
 Les dernières lignes indiquent que le temple fut construit à l'occasion que je lui attribue. Après la mort de Wû-ting, sa tablette spirituelle serait conservée dans le temple ancestral, et il participerait aux sacrifices saisonniers ; mais plusieurs règnes s'écouleraient avant qu'il soit nécessaire de prendre d'autres dispositions, afin que sa tablette ne soit pas retirée et que sa participation aux sacrifices ne soit pas interrompue. C'est pourquoi la composition de ce morceau a été attribuée à l'époque de Tî-yî, l'avant-dernier des rois Shang.
 
-Rapide était l'énergie guerrière de (notre roi de) Yin, Et vigoureusement il attaqua le <i>Roi</i>-<i>Kh</i>û [^340]. <span id="p312">[<sup><small>p. 312</small></sup>]</span> Il entra hardiment dans ses passages dangereux, Et rassembla les multitudes du <i>Roi</i> ing, Jusqu'à ce que le pays soit réduit sous une contrainte complète : Tel fut l'exploit mérité du descendant de Thang !
+Rapide était l'énergie guerrière de (notre roi de) Yin, Et vigoureusement il attaqua le <i>Roi</i>-<i>Kh</i>û [^340]. <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> Il entra hardiment dans ses passages dangereux, Et rassembla les multitudes du <i>Roi</i> ing, Jusqu'à ce que le pays soit réduit sous une contrainte complète : Tel fut l'exploit mérité du descendant de Thang !
 
 « Vous, peuple », dit-il, « du Roi Khû, habitez la partie sud de mon royaume. Autrefois, à l'époque de Thang le Réussi, même du Roi de Tî [^341], ils n'osaient pas s'empêcher de venir avec leurs offrandes ; (leurs chefs) n'osaient pas s'empêcher de venir chercher reconnaissance [^342] : telle est la règle régulière des Shang. »
 
 Le ciel avait donné leurs nominations (aux princes), mais là où leurs capitales avaient été assignées dans la sphère des travaux de Yü, pour les affaires de chaque année, ils se présentaient devant notre roi [^343], (en disant) : « Ne nous punissez pas et ne nous réprimandez pas ; nous n'avons pas été négligents dans notre agriculture. »
 
-Quand le Ciel, par sa volonté, inspecte (le royaume), les gens du peuple sont à craindre. (Notre roi) ne montra aucune partialité (en récompensant), aucun excès (en punissant) ; il n'osa pas se permettre l'indolence : — ainsi fut établie sa nomination (établie)} <span id="p313">[<sup><small>p. 313</small></sup>]</span> sur les États, et il assura magnifiquement son bonheur.
+Quand le Ciel, par sa volonté, inspecte (le royaume), les gens du peuple sont à craindre. (Notre roi) ne montra aucune partialité (en récompensant), aucun excès (en punissant) ; il n'osa pas se permettre l'indolence : — ainsi fut établie sa nomination (établie)} <span id="p313"><sup><small>[ p. 313 ]</small></sup></span> sur les États, et il assura magnifiquement son bonheur.
 
 La capitale des Shang était pleine d'ordre, modèle pour toutes les régions du royaume. Sa renommée était glorieuse ; son énergie était éclatante. Il vécut longtemps et jouit de la tranquillité, et c'est ainsi qu'il nous préserve, nous, ses descendants.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 KATHA-UPANISHAD.
 
@@ -48,7 +48,7 @@ PREMIER ADHYÂYA.
 
 4\. Sachant que son père avait promis de renoncer à tout ce qu'il possédait, et donc à son fils aussi, il dit à son père : « Cher père, à qui me donneras-tu ? »
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 Il le répéta une deuxième, puis une troisième fois. Le père répondit alors (avec colère) :
 
@@ -56,7 +56,7 @@ Il le répéta une deuxième, puis une troisième fois. Le père répondit alors
 
 (Le père, l'ayant dit une fois, bien qu'à la hâte, dut tenir parole et sacrifier son fils.)
 
-5\. Le fils dit : « Je pars en premier, à la tête de beaucoup (qui doivent encore mourir) ; je pars au milieu de beaucoup (qui sont en train de mourir). Quelle sera l'œuvre de Yama (le souverain des défunts) qu'il doit accomplir aujourd'hui envers moi [^82] ? <span id="p3">[<sup><small>p. 3</small></sup>]</span> 6\. « Regardez en arrière comment il en était pour ceux qui sont venus avant, regardez en avant comment il en sera pour ceux qui viendront ci-après. Un mortel mûrit comme le blé, comme le blé il repousse [^83]. »
+5\. Le fils dit : « Je pars en premier, à la tête de beaucoup (qui doivent encore mourir) ; je pars au milieu de beaucoup (qui sont en train de mourir). Quelle sera l'œuvre de Yama (le souverain des défunts) qu'il doit accomplir aujourd'hui envers moi [^82] ? <span id="p3"><sup><small>[ p. 3 ]</small></sup></span> 6\. « Regardez en arrière comment il en était pour ceux qui sont venus avant, regardez en avant comment il en sera pour ceux qui viendront ci-après. Un mortel mûrit comme le blé, comme le blé il repousse [^83]. »
 
 (Na<i>k</i>iketas entre dans la demeure de Yama Vaivasvata, et il n'y a personne pour l'accueillir. Alors l'un des assistants de Yama est censé dire :)
 
@@ -66,7 +66,7 @@ Il le répéta une deuxième, puis une troisième fois. Le père répondit alors
 
 (Yama, rentrant chez lui après une absence de trois nuits, pendant lesquelles Na<i>k</i>iketas n'avait reçu aucune hospitalité de sa part, dit :)
 
-9\. « Ô Brâhma<i>n</i>a, puisque toi, vénérable hôte, tu as séjourné dans ma maison trois nuits sans manger, <span id="p4">[<sup><small>p. 4</small></sup>]</span> choisis donc maintenant trois bienfaits. Salut à toi ! et que le bien me soit accordé ! »
+9\. « Ô Brâhma<i>n</i>a, puisque toi, vénérable hôte, tu as séjourné dans ma maison trois nuits sans manger, <span id="p4"><sup><small>[ p. 4 ]</small></sup></span> choisis donc maintenant trois bienfaits. Salut à toi ! et que le bien me soit accordé ! »
 
 10\. Na<i>k</i>iketas dit : « Ô Mort, comme premier des trois bienfaits, je choisis que Gautama, mon père, soit apaisé, bon et exempt de colère envers moi ; et qu'il puisse me connaître et me saluer, lorsque je serai renvoyé par toi. »
 
@@ -92,7 +92,7 @@ Je te donne maintenant un autre bienfait : que le sacrifice par le feu porte ton
 
 20\. Na<i>k</i>iketas dit : « Il y a ce doute, quand un homme est mort, certains disent qu'il l'est ; d'autres qu'il ne l'est pas. J'aimerais savoir cela, enseigné par toi ; c'est le troisième de mes bienfaits. »
 
-21\. La Mort dit : « Sur ce point, même les dieux <span id="p6">[<sup><small>p. 6</small></sup>]</span> ont douté autrefois ; ce n'est pas facile à comprendre. Ce sujet est subtil. Choisis un autre don, ô Na<i>k</i>iketas, ne me presse pas et laisse-moi passer ce don. »
+21\. La Mort dit : « Sur ce point, même les dieux <span id="p6"><sup><small>[ p. 6 ]</small></sup></span> ont douté autrefois ; ce n'est pas facile à comprendre. Ce sujet est subtil. Choisis un autre don, ô Na<i>k</i>iketas, ne me presse pas et laisse-moi passer ce don. »
 
 22\. Na<i>k</i>iketas dit : « Sur ce point, même les dieux ont douté, et toi, Mort, tu as déclaré qu'il n'était pas facile à comprendre, et qu'il n'y avait pas d'autre enseignant comme toi : — sûrement aucun autre bienfait n'est comparable à celui-ci. »
 
@@ -104,14 +104,14 @@ Je te donne maintenant un autre bienfait : que le sacrifice par le feu porte ton
 
 26\. Na<i>k</i>iketas dit : « Ces choses durent jusqu'à demain, ô Mort, car elles usent la vigueur de tous les sens. La vie elle-même est courte. Garde tes chevaux, garde la danse et le chant pour toi. »
 
-27\. « Nul homme ne peut être rendu heureux par la richesse. Posséderons-nous des richesses, quand nous te verrons ? Vivrons-nous, <span id="p7">[<sup><small>p. 7</small></sup>]</span> aussi longtemps que tu règnes ? Seul ce bienfait (que j'ai choisi) doit être choisi par moi. »
+27\. « Nul homme ne peut être rendu heureux par la richesse. Posséderons-nous des richesses, quand nous te verrons ? Vivrons-nous, <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> aussi longtemps que tu règnes ? Seul ce bienfait (que j'ai choisi) doit être choisi par moi. »
 
 28\. 'Quel mortel, se décomposant lentement ici-bas, et connaissant, après les avoir approchés, la liberté de décomposition dont jouissent les immortels, se réjouirait d'une longue vie, après avoir médité sur les plaisirs qui naissent de la beauté et de l'amour [^94] ?'
 
 29\. « Non, toi qui doutes, ô Mort, dis-nous ce qu'il y a dans le grand Au-delà. Nakiketas ne choisit pas d'autre bienfait que celui qui pénètre dans le monde caché. »
 
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 ## DEUXIÈME VALLÎ
 
@@ -127,7 +127,7 @@ Je te donne maintenant un autre bienfait : que le sacrifice par le feu porte ton
 
 6\. « L'au-delà ne se présente jamais aux yeux de l'enfant insouciant, abusé par l'illusion de la richesse. « Ceci est le monde », pense-t-il, « il n'y en a pas d'autre » ; ainsi, il tombe sans cesse sous mon emprise. »
 
-7\. 'Celui (le Soi) dont beaucoup ne sont même pas capables <span id="p9">[<sup><small>p. 9</small></sup>]</span> d'entendre, que beaucoup, même lorsqu'ils entendent parler de lui, ne comprennent pas ; merveilleux est un homme, lorsqu'il est trouvé, qui est capable de lui enseigner (le Soi) ; merveilleux est celui qui le comprend, lorsqu'il est enseigné par un enseignant compétent [^98].'
+7\. 'Celui (le Soi) dont beaucoup ne sont même pas capables <span id="p9"><sup><small>[ p. 9 ]</small></sup></span> d'entendre, que beaucoup, même lorsqu'ils entendent parler de lui, ne comprennent pas ; merveilleux est un homme, lorsqu'il est trouvé, qui est capable de lui enseigner (le Soi) ; merveilleux est celui qui le comprend, lorsqu'il est enseigné par un enseignant compétent [^98].'
 
 8\. « Ce (Soi), lorsqu'il est enseigné par un homme inférieur, n'est pas facile à connaître, même s'il y est souvent pensé [^99] ; à moins qu'il ne soit enseigné par un autre, il n'y a aucun moyen d'y parvenir, car il est inconcevablement plus petit que ce qui est petit [^100]. »
 
@@ -135,7 +135,7 @@ Je te donne maintenant un autre bienfait : que le sacrifice par le feu porte ton
 
 10. Nâkiketa dit : « Je sais que ce qu'on appelle un trésor est éphémère, car l'éternel ne s'obtient pas par des choses qui ne sont pas éternelles. C'est pourquoi j'ai posé le feu (sacrifice) Nâkiketa (le premier) ; puis, au moyen de choses éphémères, j'ai obtenu ce qui n'est pas éphémère (l'enseignement de Yama) [^104]. »
 
-11\. Yama dit : « Bien que tu aies vu l'accomplissement de tous les désirs, la fondation du monde, les récompenses infinies des bonnes actions, le rivage où <span id="p10">[<sup><small>p. 10</small></sup>]</span> il n'y a pas de peur, ce qui est magnifié par la louange, la vaste demeure, le repos [^105], pourtant, étant sage, tu as avec une ferme résolution tout écarté. »
+11\. Yama dit : « Bien que tu aies vu l'accomplissement de tous les désirs, la fondation du monde, les récompenses infinies des bonnes actions, le rivage où <span id="p10"><sup><small>[ p. 10 ]</small></sup></span> il n'y a pas de peur, ce qui est magnifié par la louange, la vaste demeure, le repos [^105], pourtant, étant sage, tu as avec une ferme résolution tout écarté. »
 
 12\. 'Le sage qui, au moyen de la méditation sur son Soi, reconnaît l'Ancien, qui est difficile à voir, qui est entré dans l'obscurité, qui est caché dans la caverne, qui habite dans l'abîme, comme Dieu, il laisse en effet la joie et la tristesse loin derrière [^106].'
 
@@ -166,7 +166,7 @@ Je te donne maintenant un autre bienfait : que le sacrifice par le feu porte ton
 25\. « Qui sait alors où Il est, Lui pour qui les Brahmanes et les Kshatriyas ne sont (pour ainsi dire) que de la nourriture [^113], et la mort elle-même un condiment ? »
 
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 ## TROISIÈME VALLÎ
 
@@ -178,7 +178,7 @@ Je te donne maintenant un autre bienfait : que le sacrifice par le feu porte ton
 
 4\. « Ils appellent les sens les chevaux, et les objets des sens leurs routes. Lorsqu'il (le Soi Suprême) est en union avec le corps, les sens et l'esprit, alors les sages l'appellent le Jouisseur. »
 
-5\. 'Celui qui n'a pas d'intelligence et dont l'esprit <span id="p13">[<sup><small>p. 13</small></sup>]</span> (les rênes) n'est jamais fermement tenu, ses sens (chevaux) sont ingérables, comme les chevaux vicieux d'un cocher.'
+5\. 'Celui qui n'a pas d'intelligence et dont l'esprit <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> (les rênes) n'est jamais fermement tenu, ses sens (chevaux) sont ingérables, comme les chevaux vicieux d'un cocher.'
 
 6\. 'Mais celui qui a de l'intelligence et dont l'esprit est toujours fermement maintenu, ses sens sont sous contrôle, comme les bons chevaux d'un cocher.'
 
@@ -196,7 +196,7 @@ Je te donne maintenant un autre bienfait : que le sacrifice par le feu porte ton
 
 13\. « Un homme sage devrait contenir sa parole et son esprit [^117] ; il devrait les garder dans le Soi qui est la connaissance ; il devrait garder la connaissance dans le Soi qui est le Grand ; et il devrait garder cela (le Grand) dans le Soi qui est le Calme. »
 
-14\. « Lève-toi, réveille-toi ! Ayant obtenu tes bienfaits [^118], <span id="p14">[<sup><small>p. 14</small></sup>]</span> comprends-les ! Le fil tranchant d'un rasoir est difficile à franchir ; ainsi les sages disent que le chemin (vers le Soi) est ardu. »
+14\. « Lève-toi, réveille-toi ! Ayant obtenu tes bienfaits [^118], <span id="p14"><sup><small>[ p. 14 ]</small></sup></span> comprends-les ! Le fil tranchant d'un rasoir est difficile à franchir ; ainsi les sages disent que le chemin (vers le Soi) est ardu. »
 
 15\. « Celui qui a perçu ce qui est sans son, sans toucher, sans forme, sans décomposition, sans goût, éternel, sans odeur, sans commencement, sans fin, au-delà du Grand et immuable, est libéré des mâchoires de la mort. »
 

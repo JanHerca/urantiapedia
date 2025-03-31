@@ -64,7 +64,7 @@ Et Matthieu répondit et dit : « Concernant l'interprétation du chant que Pist
 
 « 11. Tu as accumulé tes richesses sur eux et ils sont devenus une demeure sainte. »
 
-<span id="p132">[<sup><small>p. 132</small></sup>]</span>
+<span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
 
 Voici donc, mon Seigneur, la solution du chant que Pistis Sophia a prononcé. Écoutez donc, je peux le dire ouvertement.
 
@@ -90,7 +90,7 @@ Voici donc, mon Seigneur, la solution du chant que Pistis Sophia a prononcé. É
 
 « Et la parole que ta puissance a prononcée : « Tu les as libérés des tombeaux et tu les as retirés du milieu des cadavres », c'est la parole que Pistis Sophia a prononcée : « Tu m'as libéré du chaos et tu m'as retiré des ténèbres matérielles, c'est-à-dire **(159)** des émanations obscures qui sont dans le chaos, d'où tu as pris leur lumière. »
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 « Et la parole que ta puissance a prononcée : « Tu as pris des ossements morts et les as revêtus d'un corps, et à ceux qui ne bougeaient pas, tu as donné l'activité de la vie », c'est la parole que Pistis Sophia a prononcée : « Et tu as pris tous mes pouvoirs dans lesquels il n'y avait pas de lumière, et tu les as accordés à l'intérieur d'une lumière purifiée, et à tous mes membres, dans lesquels aucune lumière ne bougeait, tu as donné la lumière-vie venant de ta Hauteur. »
 
@@ -108,7 +108,7 @@ Voici donc, mon Seigneur, la solution du chant que Pistis Sophia a prononcé. É
 
 ## CHAPITRE 72
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 Il arriva donc que, lorsque le Premier Mystère entendit Matthieu prononcer ces paroles, il dit : « Bien dit, Matthieu, et bien dit, bien-aimé. Voici la solution du chant que Pistis Sophia a prononcé. »
 
@@ -130,7 +130,7 @@ Il arriva alors, lorsque le Premier Mystère eut fini de dire ces paroles aux di
 
 Et lorsqu'elle eut dit cela, le Premier Mystère lui dit : « Quiconque sera rempli de l'esprit de lumière et s'avancera pour exposer la solution de ce que je dis, personne ne pourra l'en empêcher. Maintenant donc, ô Marie, expose la solution des paroles prononcées par Pistis Sophia. »
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 Alors Marie répondit et dit au Premier Mystère au milieu des disciples : « Mon Seigneur, concernant la solution des paroles que Pistis Sophia a prononcées, ainsi ta puissance lumineuse a prophétisé auparavant par David :
 
@@ -164,7 +164,7 @@ Il arriva alors, lorsque le Premier Mystère eut fini de dire ces paroles, que M
 
 Et il arriva que lorsque le Premier Mystère eut entendu Marthe prononcer ces paroles, il dit : « Bien dit, et bien, Marthe. »
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Et le Premier Mystère continua encore et dit aux disciples : « Pistis Sophia continua encore le chant et dit :
 
@@ -194,7 +194,7 @@ Marie s'avança de nouveau et dit : « Mon Seigneur, concernant ces paroles avec
 
 « 2. Mon âme, loue l’Éternel, et n’oublie aucune de ses rétributions.
 
-<span id="p138">[<sup><small>p. 138</small></sup>]</span>
+<span id="p138"><sup><small>[ p. 138 ]</small></sup></span>
 
 3. C'est lui qui pardonne toutes tes iniquités, qui guérit toutes tes maladies,
 
@@ -250,7 +250,7 @@ Et il continua encore son discours et dit aux disciples : « Ce sont toutes des 
 
 « Et ensuite je lui dis encore : « Écoute, je te parlerai de leur temps, lorsque ce que je t'ai dit arrivera. Cela arrivera lorsque les trois temps seront accomplis. »
 
-« Pistis Sophia répondit et me dit : <span id="p141">[<sup><small>p. 141</small></sup>]</span> 'Ô Lumière, par quoi saurai-je quand les trois temps auront lieu, afin que je puisse être heureux et me réjouir que le temps soit proche pour que tu m'amènes dans ma région, et de plus me réjouir en cela que le temps soit venu où tu prendras le pouvoir de la lumière de tous ceux qui me haïssent, parce que j'ai eu foi en ta lumière ?'
+« Pistis Sophia répondit et me dit : <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> 'Ô Lumière, par quoi saurai-je quand les trois temps auront lieu, afin que je puisse être heureux et me réjouir que le temps soit proche pour que tu m'amènes dans ma région, et de plus me réjouir en cela que le temps soit venu où tu prendras le pouvoir de la lumière de tous ceux qui me haïssent, parce que j'ai eu foi en ta lumière ?'
 
 <small>Comment Sophia saura que le temps de sa délivrance finale est venu.</small>
 
@@ -266,7 +266,7 @@ Et il continua encore son discours et dit aux disciples : « Ce sont toutes des 
 
 <small>Le temps de la délivrance finale de Sophia est accompli.</small>
 
-Et toutes ces aventures, le Premier Mystère les raconta aux disciples, afin qu'elles arrivent à Pistis-Sophia. Et il s'assit sur le mont des Oliviers, racontant toutes ces aventures au milieu des disciples. Et il continua encore et leur dit : « Et il arriva encore après cela, tandis que j'étais dans le monde des hommes et assis sur le chemin, c'est-à-dire dans cette région qui est le Mont des Oliviers, avant que mon vêtement ne me soit envoyé, que j'avais déposé dans le vingt-quatrième mystère de l'intérieur, mais le premier de l'extérieur, qui est le Grand Incontenable, dans lequel je suis enveloppé, et avant que je sois allé à la Hauteur pour recevoir mon second vêtement, - <span id="p143">[<sup><small>p. 143</small></sup>]</span> tandis que j'étais assis avec vous dans cette région, qui est le Mont des Oliviers, que le temps fut accompli dont j'avais dit à Pistis Sophia : 'Adamas et tous ses dirigeants te contraindront.'
+Et toutes ces aventures, le Premier Mystère les raconta aux disciples, afin qu'elles arrivent à Pistis-Sophia. Et il s'assit sur le mont des Oliviers, racontant toutes ces aventures au milieu des disciples. Et il continua encore et leur dit : « Et il arriva encore après cela, tandis que j'étais dans le monde des hommes et assis sur le chemin, c'est-à-dire dans cette région qui est le Mont des Oliviers, avant que mon vêtement ne me soit envoyé, que j'avais déposé dans le vingt-quatrième mystère de l'intérieur, mais le premier de l'extérieur, qui est le Grand Incontenable, dans lequel je suis enveloppé, et avant que je sois allé à la Hauteur pour recevoir mon second vêtement, - <span id="p143"><sup><small>[ p. 143 ]</small></sup></span> tandis que j'étais assis avec vous dans cette région, qui est le Mont des Oliviers, que le temps fut accompli dont j'avais dit à Pistis Sophia : 'Adamas et tous ses dirigeants te contraindront.'
 
 ## CHAPITRE 77
 
@@ -290,7 +290,7 @@ Et toutes ces aventures, le Premier Mystère les raconta aux disciples, afin qu'
 
 « 6. Maintenant donc, ô Lumière, saisis-moi dans ta colère et élève ta puissance au-dessus de mes ennemis qui se sont élevés contre moi jusqu'à la fin.
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 « 7. Fais-moi vite vivre, comme tu me l’as dit : je t’aiderai. »
 
@@ -320,7 +320,7 @@ Il arriva donc que, lorsque le Premier Mystère eut entendu Jacques prononcer ce
 
 ## CHAPITRE 79
 
-Et le Premier Mystère continua et dit aux disciples : « Il arriva alors, lorsque Pistis Sophia eut fini de prononcer les paroles de ce chant, qu'elle se retourna <span id="p146">[<sup><small>p. 146</small></sup>]</span> pour voir si Adamas et ses chefs étaient retournés vers leur éon. Et elle les vit la poursuivre. Alors elle se tourna vers eux et leur dit :
+Et le Premier Mystère continua et dit aux disciples : « Il arriva alors, lorsque Pistis Sophia eut fini de prononcer les paroles de ce chant, qu'elle se retourna <span id="p146"><sup><small>[ p. 146 ]</small></sup></span> pour voir si Adamas et ses chefs étaient retournés vers leur éon. Et elle les vit la poursuivre. Alors elle se tourna vers eux et leur dit :
 
 <small>Sophia s'adresse à Adamas et à ses dirigeants.</small>
 
@@ -334,7 +334,7 @@ Et le Premier Mystère continua et dit aux disciples : « Il arriva alors, lorsq
 
 « Et lorsque Pistis Sophia eut dit cela, elle regarda la région d'Adamas et vit la région sombre et chaotique **(174)** qu'il avait créée, ainsi que les deux émanations sombres et extrêmement violentes qu'Adamas avait émises, afin de s'emparer de Pistis Sophia et de la précipiter dans le chaos qu'il avait créé, de la contraindre et de la harceler dans cette région, jusqu'à ce qu'elles lui ôtent sa lumière. Il arriva alors, lorsque Pistis Sophia eut vu ces deux émanations sombres et la région sombre qu'Adamas avait créée, qu'elle fut effrayée et implora la Lumière, en disant :
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 <small>Sophia chante à nouveau à la Lumière.</small>
 
@@ -358,7 +358,7 @@ Et Marthe répondit et dit : « Mon Seigneur, ce sont ici les paroles que ta pui
 
 « 12. Dieu est un juste justicier, fort et lent à la colère, qui ne fait pas surgir sa colère tous les jours.
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 <small>Marthe interprète les paroles de Sophia dans le Psaume VII.</small>
 

@@ -32,13 +32,13 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 ȜHÂI était le nom du petit État ou territoire conféré à Tû, le frère cadet du duc de Kâu. Ce nom subsiste encore dans le district de Shang-_ȝh_âi, département de Z_û-ning, Ho-nan. Tû fut déchu de son État en raison de sa complicité dans la rébellion de Wû-_k_ăng ; mais il fut ensuite restitué à son fils Hû par cette accusation. Hû est ici appelé <i>K</i>ung, ce terme désignant simplement sa place parmi ses frères ou cousins. Le roi <i>Kh</i>ăng et Hû étaient cousins, « frères » selon l'usage chinois, et Hû, étant le plus jeune des deux, était appelé Ȝhâi Kung, « le second ou cadet frère de Ȝhâi ».
 
 Le livre se compose de deux chapitres. Le premier, qui constitue une préface, donne les détails nécessaires à l'explication de la nomination de Hû. Le second contient les instructions du roi, délivrées en son nom par le duc de Kâu, indiquant à Hû comment se comporter afin d'effacer le souvenir des méfaits de son père et de gagner les éloges du roi.
 
-1\. Alors que le duc de Kâu était premier ministre et dirigeait tous les officiers, les oncles (du roi) répandirent une (mauvaise) rumeur, à la suite de laquelle (le duc) fit mettre à mort le prince de Kwan à Shang [^227] ; enferma le prince de Ȝhâi à Kwo-lin [^228], avec une suite de sept chars ; et réduisit le prince de Hwo [^229] au rang de simple particulier, faisant effacer son nom des registres pour trois ans. Le fils du prince <span id="p212">[<sup><small>p. 212</small></sup>]</span> de Ȝhâi ayant fait preuve d'une vertu respectueuse, le duc de <i>K</i>âu le nomma haut ministre, et à la mort de son père, demanda au roi un décret l'investissant du pays de Ȝhâi.
+1\. Alors que le duc de Kâu était premier ministre et dirigeait tous les officiers, les oncles (du roi) répandirent une (mauvaise) rumeur, à la suite de laquelle (le duc) fit mettre à mort le prince de Kwan à Shang [^227] ; enferma le prince de Ȝhâi à Kwo-lin [^228], avec une suite de sept chars ; et réduisit le prince de Hwo [^229] au rang de simple particulier, faisant effacer son nom des registres pour trois ans. Le fils du prince <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> de Ȝhâi ayant fait preuve d'une vertu respectueuse, le duc de <i>K</i>âu le nomma haut ministre, et à la mort de son père, demanda au roi un décret l'investissant du pays de Ȝhâi.
 
 2\. Le roi parle à cet effet : « Mon petit enfant, Hû, tu suis la vertu (de nos ancêtres) et tu as changé de conduite (de ton père) ; tu es capable de prendre garde à tes voies ; — je te nomme donc marquis en Orient. Va dans ton fief et sois respectueux !
 
@@ -48,7 +48,7 @@ Le Grand Ciel n'a pas d'affections partiales ; il n'aide que les vertueux. Le c�
 
 En prêtant attention au commencement, pensez à la fin ; elle sera alors sans détresse. Si vous ne pensez pas à la fin, elle sera pleine de détresse, même la plus grande.
 
-« Efforcez-vous d'atteindre votre propre mérite. Cherchez à être en harmonie avec tous vos voisins. <span id="p213">[<sup><small>p. 213</small></sup>]</span> Soyez une barrière pour la Maison royale. Vivez en amitié avec vos frères. Apaisez et aidez les gens du peuple.
+« Efforcez-vous d'atteindre votre propre mérite. Cherchez à être en harmonie avec tous vos voisins. <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> Soyez une barrière pour la Maison royale. Vivez en amitié avec vos frères. Apaisez et aidez les gens du peuple.
 
 « Suis la voie du juste milieu, et ne cherche pas à être intelligent, à bouleverser les anciennes lois. Sois attentif à ce que tu vois et entends, et ne t'écarte pas de la bonne règle par des paroles partiales. Alors, moi, l'Unique, je te louerai. »
 

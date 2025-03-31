@@ -32,9 +32,9 @@ dateCreated: 2025-1-16T20:3:37Z
   </table>
 </figure>
 
-<span id="p456">[<sup><small>p. 456</small></sup>]</span>
+<span id="p456"><sup><small>[ p. 456 ]</small></sup></span>
 
-<span id="p457">[<sup><small>p. 457</small></sup>]</span>
+<span id="p457"><sup><small>[ p. 457 ]</small></sup></span>
 
 â, Partie I, page 101
 
@@ -68,7 +68,7 @@ Aditi, I, 25, 73, 307 ; a sept ou huit fils, II, [12](Book_2_3_1#p12) ; à elle 
 
 Agnâ-vish<i>n</i>û, gâteau à, II; [12](Book_2_3_1#p12); à eux appartient dîksha<i>n</i>îyesh<i>t</i>i, [82](Book_2_3_3#p82).
 
-Agni, représentant de la caste sacerdotale (brahmane), I, introd. xvi seq. ; quatre formes différentes, I, 47, 136, 452 ; leurs noms, II, [118](Book_2_3_5#p118) ; exclut les Asuras, I, 54 ; est le plus jeune, 108 ; messager des dieux, 110, 156 ; Hot<i>ri</i> ancestral, 115 ; repousseur des Rakshas, ​​158 ; II, [99](Book_2_3_4#p99) ; le meilleur des dieux, I, 163 ; cherche Indra, 175 ; identifié à Rudra, 201 ; II, [343](Book_2_4_3#p343) ; à Pra<i>g</i>âpati, I, 346, 386 ; avec Rudra, Varu<i>n</i>a, Indra, Mitra, Brahman, 340 seq. ; s'unit aux eaux, 277 ; l'or est sa semence, 277 ; le lait idem, 326 ; Agni créé en premier par Pra<i>g</i>âpati, 323 seq., 342 seq., 389 ; la racine et le géniteur des divinités, 386 ; II, [98](Book_2_3_4#p98) ; est te<i>g</i>as, I, 418, 419 ; originellement seul immortel, 310 ; convoite les bêtes déposées auprès de lui, 347 ; toutes les formes (rûpa) déposées auprès de lui, 314 ; Agni Vai<i>s</i>vânara, 104 seq. oblations à Agni pavamâna, pâvâka et <i>s</i>u<i>k</i>i, 304 seq. ; Agni pavamâna et indu-mat, 320 ; Agni anîkavat, 408 ; Agni kavyavâhana, 430 ; la trame de tissu appartient à Agni, II, [9](Book_2_3_1#p9) ; Agni est toutes les divinités, [12](Book_2_3_1#p12) ; la moitié inférieure (Vish<i>n</i>u la moitié supérieure) du sacrifice, [12](Book_2_3_1#p12) ; Indra, Soma et Agni, [22](Book_2_3_1#p22) ; Agni est le brahmane (sacerdotium) et le sacrifice, [38](Book_2_3_2#p38) ; discours, [39](Book_2_3_2#p39); Vratapati, [44](Book_2_3_2#p44), [45](Book_2_3_2#p45); gardien de l'est, [50](Book_2_3_2#p50); Agni accompagné par <span id="p458">[<sup><small>p. 458</small></sup>]</span> les Vasus, [93](Book_2_3_4#p93); messager d'Aṅgiras et d'Âdityas, [113](Book_2_3_5#p113); Les cendres d'Agni Vai<i>s</i>vânara sont du gravier, [120](Book_2_3_5#p120); Agni tête des divinités, [184](Book_2_3_7#p184); sa victime, [218](Book_2_3_9#p218) ; le lotus de la terre, [277](Book_2_4_1#p277) ; Varu<i>n</i>a, Mitra et Agni, [285](Book_2_4_2#p285) ; Agni vai<i>s</i>vânara, [305](Book_2_4_2#p305) ; règne sur les bêtes, [343](Book_2_4_3#p343) ; officie comme Agnîdh, [348](Book_2_4_3#p348) ; Agni avec Vâyu et Sûrya, I, 325, 327 ; II, [453](Book_2_4_6#p453) ; Agni, Varu<i>n</i>a et Indra, chefs des dieux, I, 449 seq. ; Agni, Soma et Vish<i>n</i>u forment le coup de foudre, II, [108](Book_2_3_4#p108) ; gâteau de cinq kapâla pour Agni, [389](Book_2_4_5#p389) ; Agni, Indra et Sûrya supérieurs aux autres, [402](Book_2_4_5#p402).
+Agni, représentant de la caste sacerdotale (brahmane), I, introd. xvi seq. ; quatre formes différentes, I, 47, 136, 452 ; leurs noms, II, [118](Book_2_3_5#p118) ; exclut les Asuras, I, 54 ; est le plus jeune, 108 ; messager des dieux, 110, 156 ; Hot<i>ri</i> ancestral, 115 ; repousseur des Rakshas, ​​158 ; II, [99](Book_2_3_4#p99) ; le meilleur des dieux, I, 163 ; cherche Indra, 175 ; identifié à Rudra, 201 ; II, [343](Book_2_4_3#p343) ; à Pra<i>g</i>âpati, I, 346, 386 ; avec Rudra, Varu<i>n</i>a, Indra, Mitra, Brahman, 340 seq. ; s'unit aux eaux, 277 ; l'or est sa semence, 277 ; le lait idem, 326 ; Agni créé en premier par Pra<i>g</i>âpati, 323 seq., 342 seq., 389 ; la racine et le géniteur des divinités, 386 ; II, [98](Book_2_3_4#p98) ; est te<i>g</i>as, I, 418, 419 ; originellement seul immortel, 310 ; convoite les bêtes déposées auprès de lui, 347 ; toutes les formes (rûpa) déposées auprès de lui, 314 ; Agni Vai<i>s</i>vânara, 104 seq. oblations à Agni pavamâna, pâvâka et <i>s</i>u<i>k</i>i, 304 seq. ; Agni pavamâna et indu-mat, 320 ; Agni anîkavat, 408 ; Agni kavyavâhana, 430 ; la trame de tissu appartient à Agni, II, [9](Book_2_3_1#p9) ; Agni est toutes les divinités, [12](Book_2_3_1#p12) ; la moitié inférieure (Vish<i>n</i>u la moitié supérieure) du sacrifice, [12](Book_2_3_1#p12) ; Indra, Soma et Agni, [22](Book_2_3_1#p22) ; Agni est le brahmane (sacerdotium) et le sacrifice, [38](Book_2_3_2#p38) ; discours, [39](Book_2_3_2#p39); Vratapati, [44](Book_2_3_2#p44), [45](Book_2_3_2#p45); gardien de l'est, [50](Book_2_3_2#p50); Agni accompagné par <span id="p458"><sup><small>[ p. 458 ]</small></sup></span> les Vasus, [93](Book_2_3_4#p93); messager d'Aṅgiras et d'Âdityas, [113](Book_2_3_5#p113); Les cendres d'Agni Vai<i>s</i>vânara sont du gravier, [120](Book_2_3_5#p120); Agni tête des divinités, [184](Book_2_3_7#p184); sa victime, [218](Book_2_3_9#p218) ; le lotus de la terre, [277](Book_2_4_1#p277) ; Varu<i>n</i>a, Mitra et Agni, [285](Book_2_4_2#p285) ; Agni vai<i>s</i>vânara, [305](Book_2_4_2#p305) ; règne sur les bêtes, [343](Book_2_4_3#p343) ; officie comme Agnîdh, [348](Book_2_4_3#p348) ; Agni avec Vâyu et Sûrya, I, 325, 327 ; II, [453](Book_2_4_6#p453) ; Agni, Varu<i>n</i>a et Indra, chefs des dieux, I, 449 seq. ; Agni, Soma et Vish<i>n</i>u forment le coup de foudre, II, [108](Book_2_3_4#p108) ; gâteau de cinq kapâla pour Agni, [389](Book_2_4_5#p389) ; Agni, Indra et Sûrya supérieurs aux autres, [402](Book_2_4_5#p402).
 
 Âgnîdhra (Agnîdh), identique à Agni, I, 58 ; doit être appris, et reçoit d'abord le dakshi<i>n</i>â, II, [148](Book_2_3_6#p148) ; dirige la procession avec un tison, [187](Book_2_3_8#p187), [195](Book_2_3_8#p195) ; avec l'eau vasatîvarî, [235](Book_2_3_9#p235) ; s'assoit sur les genoux du Nesh<i>t</i><i>ri</i>, [368](Book_2_4_4#p368).
 
@@ -150,7 +150,7 @@ Anasnat sâṅgamana (comme le feu sabhya) réside avec l'homme, I, 338.
 
 Aṅgiras et Âdityas effectuent un sacrifice de Soma, II, [113](Book_2_3_5#p113); un nom d'Agni, [118](Book_2_3_5#p118); Aṅgirasâm ayana, [384](Book_2_4_4#p384).
 
-anîka, I, 408 seq.; II, [342](Book_2_4_3#p342). <span id="p459">[<sup><small>p. 459</small></sup>]</span> animal (victime), quintuple, II, [24](Book_2_3_1#p24); sacrifice, [162](Book_2_3_6#p162) seq.
+anîka, I, 408 seq.; II, [342](Book_2_4_3#p342). <span id="p459"><sup><small>[ p. 459 ]</small></sup></span> animal (victime), quintuple, II, [24](Book_2_3_1#p24); sacrifice, [162](Book_2_3_6#p162) seq.
 
 onction de Dîkshita avec du beurre frais, II, [13](Book_2_3_1#p13) ; de ses yeux avec de l'onguent Traikakuda, [14](Book_2_3_1#p14) ; du poteau sacrificiel, [170](Book_2_3_7#p170) ; de la victime, [183](Book_2_3_7#p183).
 
@@ -264,7 +264,7 @@ avabh<i>ri</i>tha, bain expiatoire, I, 406 ; II, [378](Book_2_4_4#p378) ; <i>s</
 
 avadâna, partie, I, 191.
 
-<span id="p460">[<sup><small>p. 460</small></sup>]</span>
+<span id="p460"><sup><small>[ p. 460 ]</small></sup></span>
 
 âvahana (devatânam), I, 118, 157.
 
@@ -386,7 +386,7 @@ Dâkshâya<i>n</i>as, I, 377.
 
 Dâkshâya<i>n</i>a sacrifice, I, 374 seq.
 
-dakshi<i>n</i>â, I, 48, 308 ; (plus c'est grand, mieux c'est), 309, 322 ; ne pas être accepté, s'il est refusé par quelqu'un d'autre, II, [116](Book_2_3_5#p116) ; différents <span id="p461">[<sup><small>p. 461</small></sup>]</span> types de, [340](Book_2_4_3#p340) seq. ; sont les sacrifices aux dieux humains, [345](Book_2_4_3#p345), [417](Book_2_4_5#p417).
+dakshi<i>n</i>â, I, 48, 308 ; (plus c'est grand, mieux c'est), 309, 322 ; ne pas être accepté, s'il est refusé par quelqu'un d'autre, II, [116](Book_2_3_5#p116) ; différents <span id="p461"><sup><small>[ p. 461 ]</small></sup></span> types de, [340](Book_2_4_3#p340) seq. ; sont les sacrifices aux dieux humains, [345](Book_2_4_3#p345), [417](Book_2_4_5#p417).
 
 Dakshi<i>n</i>âgni (anvâhâryapa<i>k</i>ana), lorsqu'il est sorti de Gârhapatya, I, 339 seq. ; autel près de lui à pit<i>ri</i>ya<i>g</i><i>ñ</i>a, 422.
 
@@ -486,7 +486,7 @@ Pères (crinières). Voir Pitara<i>h</i>.
 
 doigts, flexion vers l'intérieur, II, [18](Book_2_3_1#p18), 98 ; annulaire (sans nom), manger avec, I, 332 ; or attaché dessus, II, [63](Book_2_3_3#p63) ; différents doigts utilisés pour distribuer les plantes Soma, [67](Book_2_3_3#p67) ; relâchement des doigts, [162](Book_2_3_6#p162).
 
-Feu, allumage de, I, 95 seq. ; production de (par barattage, agni-manthana), 275, 294, 297, 311, 389 ; II, [90](Book_2_3_4#p90) seq. ; porter le feu tout autour (paryagnikara<i>n</i>a), I, 45 ; II, [187](Book_2_3_8#p187) ; conduire en avant (agni-pra<i>n</i>ayana), I, 298 ; II, [121](Book_2_3_5#p121) seq., [157](Book_2_3_6#p157) seq. ; hommage à, au moment d'Agnihotra, I, 301, 322 seq., 348 seq. ; <span id="p462">[<sup><small>p. 462</small></sup>]</span> hommage à, en quittant la maison, 360 ; montage de (samâropa<i>n</i>a), 396 ; ventre du sacrifice, II, [19](Book_2_3_1#p19) ; sert de peau au sacrificateur (comme embryon), [98](Book_2_3_4#p98).
+Feu, allumage de, I, 95 seq. ; production de (par barattage, agni-manthana), 275, 294, 297, 311, 389 ; II, [90](Book_2_3_4#p90) seq. ; porter le feu tout autour (paryagnikara<i>n</i>a), I, 45 ; II, [187](Book_2_3_8#p187) ; conduire en avant (agni-pra<i>n</i>ayana), I, 298 ; II, [121](Book_2_3_5#p121) seq., [157](Book_2_3_6#p157) seq. ; hommage à, au moment d'Agnihotra, I, 301, 322 seq., 348 seq. ; <span id="p462"><sup><small>[ p. 462 ]</small></sup></span> hommage à, en quittant la maison, 360 ; montage de (samâropa<i>n</i>a), 396 ; ventre du sacrifice, II, [19](Book_2_3_1#p19) ; sert de peau au sacrificateur (comme embryon), [98](Book_2_3_4#p98).
 
 cheminée, quintuple lustration de, I, 2, 276, 359.
 
@@ -588,7 +588,7 @@ hira<i>n</i>yavatî-âhuti, II, [52](Book_2_3_2#p52) seq.
 
 corne d'antilope noire, utilisée pour gratter, II, [32](Book_2_3_2#p32), [33](Book_2_3_2#p33) ; ramasser de la terre, [43](Book_2_3_2#p43).
 
-cheval, présent lors de la production et de la transmission du feu, I, 297 seq. ; cheval blanc (symbole du soleil), dakshi<i>n</i>â à <i>S</i>unâsîrîya, 447 ; au Sadya<i>h</i>krî, II, [115](Book_2_3_5#p115) ; au sacrifice du Soma, [348](Book_2_4_3#p348). <span id="p463">[<sup><small>p. 463</small></sup>]</span> hotrâ (samyâ<i>g</i>ay-), II, [287](Book_2_4_2#p287).
+cheval, présent lors de la production et de la transmission du feu, I, 297 seq. ; cheval blanc (symbole du soleil), dakshi<i>n</i>â à <i>S</i>unâsîrîya, 447 ; au Sadya<i>h</i>krî, II, [115](Book_2_3_5#p115) ; au sacrifice du Soma, [348](Book_2_4_3#p348). <span id="p463"><sup><small>[ p. 463 ]</small></sup></span> hotrâ (samyâ<i>g</i>ay-), II, [287](Book_2_4_2#p287).
 
 Hotraka (Maitrâvaru<i>n</i>a, Brâhma<i>n</i>â_kh<i>a</i>m_sin et A<i>kh</i>âvâka), II, [295](Book_2_4_2#p295) seq., [324](Book_2_4_3#p324).
 
@@ -668,7 +668,7 @@ kim u, II, [432](Book_2_4_6#p432).
 
 roi, rendant hommage à (Soma en tant que) souverain suprême, II, [79](Book_2_3_3#p79) ; accompagné de hérauts et de chefs, [87](Book_2_3_4#p87).
 
-<i>K</i>itrâ (nakshatra), I, 286. <span id="p464">[<sup><small>p. 464</small></sup>]</span> nœud, attribut de Varu<i>n</i>a, I, 73 ; II, [146](Book_2_3_6#p146).
+<i>K</i>itrâ (nakshatra), I, 286. <span id="p464"><sup><small>[ p. 464 ]</small></sup></span> nœud, attribut de Varu<i>n</i>a, I, 73 ; II, [146](Book_2_3_6#p146).
 
 Kosala-Videhas, I, introd. xlii.
 
@@ -768,7 +768,7 @@ Maruts, représentants du Vi<i>s</i>a<i>h</i>, I, introd. xvii, 387, 393, 399 ; 
 
 marutvatîya (graha), II, [332](Book_2_4_3#p332), [334](Book_2_4_3#p334), [336](Book_2_4_3#p336); <i>s</i>astra, [337](Book_2_4_3#p337).
 
-<span id="p465">[<sup><small>p. 465</small></sup>]</span>
+<span id="p465"><sup><small>[ p. 465 ]</small></sup></span>
 
 Chaudron de Mâtarisvan, I, 186.
 
@@ -866,7 +866,7 @@ Pa<i>ñ</i><i>k</i>âlas, I, introd. xli.
 
 Pâ<i>ñ</i><i>k</i>i, I, 61, 300.
 
-paṅkti, II, [315](Book_2_4_2#p315). <span id="p466">[<sup><small>p. 466</small></sup>]</span> eau de pânne<i>g</i>ana, utilisée par Patnî pour nettoyer la victime, II, [190](Book_2_3_8#p190).
+paṅkti, II, [315](Book_2_4_2#p315). <span id="p466"><sup><small>[ p. 466 ]</small></sup></span> eau de pânne<i>g</i>ana, utilisée par Patnî pour nettoyer la victime, II, [190](Book_2_3_8#p190).
 
 parâk, II, [310](Book_2_4_2#p310).
 
@@ -946,7 +946,7 @@ formules pra<i>g</i>âpati-tanu, II, [453](Book_2_4_6#p453).
 
 prâ<i>k</i>î, la ligne orientale, I, 63 ; II, [33](Book_2_3_2#p33) ; forme l'épine dorsale de vedi, [112](Book_2_3_5#p112).
 
-prâ<i>k</i>îna-va<i>m</i><i>s</i>a, II, [3](Book_2_3_1#p3) ; utilisé pour les consacrés, [4](Book_2_3_1#p4) ; approuvé, [5](Book_2_3_1#p5). <span id="p467">[<sup><small>p. 467</small></sup>]</span> prâ<i>n</i>a, I, 19, 120 : cf. airs, vital.
+prâ<i>k</i>îna-va<i>m</i><i>s</i>a, II, [3](Book_2_3_1#p3) ; utilisé pour les consacrés, [4](Book_2_3_1#p4) ; approuvé, [5](Book_2_3_1#p5). <span id="p467"><sup><small>[ p. 467 ]</small></sup></span> prâ<i>n</i>a, I, 19, 120 : cf. airs, vital.
 
 prânadâna, I, 94, 438.
 
@@ -1068,7 +1068,7 @@ Rig-veda, arrangement d'hymnes, I, introd. xvi, xx seq.
 
 <i>Ri</i>shi, le sept, moi, 282.
 
-<span id="p468">[<sup><small>p. 468</small></sup>]</span>
+<span id="p468"><sup><small>[ p. 468 ]</small></sup></span>
 
 <i>ri</i>tu-graha, oblations pour les saisons, II, [318](Book_2_4_3#p318) seq.; -pâtra, [407](Book_2_4_5#p407).
 
@@ -1168,7 +1168,7 @@ sasni, moi, 15 ans.
 
 <i>s</i>astra, douze à Agnish<i>t</i>oma, II, [303](Book_2_4_2#p303), [325](Book_2_4_3#p325) seq.
 
-<span id="p469">[<sup><small>p. 469</small></sup>]</span>
+<span id="p469"><sup><small>[ p. 469 ]</small></sup></span>
 
 <i>S</i>atapatha-brâhma<i>n</i>a, I, introd. xxviii seq.
 
@@ -1238,7 +1238,7 @@ aspersion (avec l'eau lustrale), I, 2, 20, 83; II, [122](Book_2_3_5#p122), [139]
 
 <i>s</i>râddha (pit<i>ri</i>ya<i>g</i><i>ñ</i>a), I, 361 seq., 420.
 
-<span id="p470">[<sup><small>p. 470</small></sup>]</span>
+<span id="p470"><sup><small>[ p. 470 ]</small></sup></span>
 
 <i>s</i>rausha<i>t</i>, I, 132, 140, 142, 239.
 
@@ -1350,7 +1350,7 @@ Tura Kâvasheya, moi, introd. xxxi
 
 Tutha (le brahmane), II, [344](Book_2_4_3#p344).
 
-Tvash<i>t</i><i>ri</i>, père de Vi<i>s</i>varûpa, I, 47, 164 seq. ; <span id="p471">[<sup><small>p. 471</small></sup>]</span> offrande à, 258 ; obtient les formes d'Agni, 314 ; victime et pieu pour Tvash<i>t</i><i>ri</i>, II, [177](Book_2_3_7#p177) ; pa<i>s</i>ûnâm îsh<i>t</i>e, (? [153](Book_2_3_6#p153)), [180](Book_2_3_7#p180) ; crache sur la tête d'une victime, [202](Book_2_3_8#p202) ; façonne la graine, [367](Book_2_4_4#p367); dispensateur de bienfaits et guérisseur, [374](Book_2_4_4#p374).
+Tvash<i>t</i><i>ri</i>, père de Vi<i>s</i>varûpa, I, 47, 164 seq. ; <span id="p471"><sup><small>[ p. 471 ]</small></sup></span> offrande à, 258 ; obtient les formes d'Agni, 314 ; victime et pieu pour Tvash<i>t</i><i>ri</i>, II, [177](Book_2_3_7#p177) ; pa<i>s</i>ûnâm îsh<i>t</i>e, (? [153](Book_2_3_6#p153)), [180](Book_2_3_7#p180) ; crache sur la tête d'une victime, [202](Book_2_3_8#p202) ; façonne la graine, [367](Book_2_4_4#p367); dispensateur de bienfaits et guérisseur, [374](Book_2_4_4#p374).
 
 tyâga, formule dédicatoire, I, 303.
 
@@ -1460,7 +1460,7 @@ Vâmadevya-saman, I, 222.
 
 va<i>m</i><i>s</i>a (poutre de toit), II, [3](Book_2_3_1#p3); [146](Book_2_3_6#p146).
 
-va<i>m</i><i>s</i>as, listes de, I, introd. xxxiv. <span id="p472">[<sup><small>p. 472</small></sup>]</span> vanaspati (seigneur de la forêt, de l'arbre), oblation à, II, [208](Book_2_3_8#p208), [395](Book_2_4_5#p395) ; est Soma, [208](Book_2_3_8#p208).
+va<i>m</i><i>s</i>as, listes de, I, introd. xxxiv. <span id="p472"><sup><small>[ p. 472 ]</small></sup></span> vanaspati (seigneur de la forêt, de l'arbre), oblation à, II, [208](Book_2_3_8#p208), [395](Book_2_4_5#p395) ; est Soma, [208](Book_2_3_8#p208).
 
 vapâ, épiploon, découpé et rôti, II, [194](Book_2_3_8#p194) seq.; offert, [198](Book_2_3_8#p198), [392](Book_2_4_5#p392).
 
@@ -1526,7 +1526,7 @@ viśvakarman, moi, 188.
 
 Vi<i>s</i>vakarman, offrande à, I, 419 ; avec les Âdityas, II, [123](Book_2_3_5#p123) ; Indra, [431](Book_2_4_6#p431).
 
-<span id="p473">[<sup><small>p. 473</small></sup>]</span>
+<span id="p473"><sup><small>[ p. 473 ]</small></sup></span>
 
 Vi<i>s</i>varûpa, fils de Tvash<i>t</i><i>ri</i>, I, 47, 164 seq.
 

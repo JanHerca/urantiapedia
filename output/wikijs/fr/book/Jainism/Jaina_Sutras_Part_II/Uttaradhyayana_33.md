@@ -46,7 +46,7 @@ Les huit types de Karman sont brièvement les suivants :
 
 4\. Môhanîya (qui conduit à l'illusion) ;
 
-5\. Âyu<i>h</i>karman (qui détermine la durée de la vie) ; <span id="p193">[<sup><small>p. 193</small></sup>]</span> 6\. Nâman (qui détermine le nom ou l'individualité de l'âme incarnée) ;
+5\. Âyu<i>h</i>karman (qui détermine la durée de la vie) ; <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> 6\. Nâman (qui détermine le nom ou l'individualité de l'âme incarnée) ;
 
 7\. Gôtra (qui détermine son Gôtra) ;
 
@@ -72,7 +72,7 @@ Les huit types de Karman sont brièvement les suivants :
 
 Les trois sortes de Môhanîya se référant à la foi sont : 1. la foi juste ; 2. la foi fausse ; 3. la foi en partie juste et en partie fausse. (9)
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 Les deux sortes de Môhanîya se référant à la conduite sont : 1. ce qui est vécu sous la forme des quatre passions cardinales ; 2. ce qui est vécu sous la forme de sentiments différents d'elles. (10)
 
@@ -90,7 +90,7 @@ Ainsi la division de Karman et les subdivisions ont été racontées.
 
 Écoutez maintenant leur nombre d'atomes [^543], leur lieu, leur temps et leur développement. (16)
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span>
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span>
 
 Le nombre d'atomes de chaque Karman est infini ; il est (infiniment) plus grand que (le nombre) des âmes enchaînées [^544], mais inférieur à celui des âmes parfaites. (17)
 
@@ -106,7 +106,7 @@ La durée la plus longue d'Âyushka est de trente-trois Krores de Krores de Sâg
 
 La durée la plus longue de Nâman et Gôtra est de vingt Krores de Krores de Sâgarôpamâs, et la plus courte de huit muhûrtas. (23)
 
-Le nombre des âmes parfaites est infini, et celui <span id="p196">[<sup><small>p. 196</small></sup>]</span> des subdivisions de Karman [^547] est également (infini) ; le nombre d'atomes dans toutes ces (subdivisions) dépasse (le nombre) de toutes les âmes. (24)
+Le nombre des âmes parfaites est infini, et celui <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> des subdivisions de Karman [^547] est également (infini) ; le nombre d'atomes dans toutes ces (subdivisions) dépasse (le nombre) de toutes les âmes. (24)
 
 C'est pourquoi un homme sage devrait connaître les différentes subdivisions de ces Karmans et devrait s'efforcer de les prévenir et de les détruire. (25)
 

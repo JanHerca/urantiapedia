@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 CHAPITRE II., Verset 1.—Au nom du Dieu Miséricordieux et Compatissant
 
@@ -42,7 +42,7 @@ Chapitre VI, Verset 109. — Ils ont juré par Dieu avec le plus grand serment q
 
 (110).—Nous renverserons leurs cœurs et leurs regards, comme ils n'ont pas cru au début, et nous les laisserons, dans leur rébellion, errer aveuglément.
 
-Et si nous avions envoyé des anges vers eux, <span id="p28">[<sup><small>p. 28</small></sup>]</span> si les morts leur avaient parlé, si nous avions rassemblé toutes choses auprès d'eux en armées, ils n'auraient pas cru, si Dieu ne l'avait pas voulu. Mais la plupart d'entre eux sont ignorants.
+Et si nous avions envoyé des anges vers eux, <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> si les morts leur avaient parlé, si nous avions rassemblé toutes choses auprès d'eux en armées, ils n'auraient pas cru, si Dieu ne l'avait pas voulu. Mais la plupart d'entre eux sont ignorants.
 
 Nous avons donc désigné pour chaque prophète un ennemi, des diables d'hommes et des djinns. Certains d'entre eux inspirent à d'autres des discours trompeurs pour égarer. Mais si ton Seigneur avait voulu, ils ne l'auraient pas fait. Laisse-les donc faire ce qu'ils complotent.
 
@@ -58,7 +58,7 @@ Et quand le Coran est lu, écoutez-le et gardez le silence. Peut-être obtiendre
 
 Chapitre X., Verset 38. — Ce Coran n'a pu être inventé par personne d'autre que Dieu, mais il confirme ce qui l'a précédé et détaille le Livre - il n'y a aucun doute là-dessus - du Seigneur des mondes.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Ils disent : « C'est lui qui l'a inventé ? » Dites donc : « Apportez un verset semblable, et invoquez, si vous le pouvez, un autre que Dieu, si vous dites la vérité ! »
 

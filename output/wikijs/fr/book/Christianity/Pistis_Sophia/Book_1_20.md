@@ -54,7 +54,7 @@ dateCreated: 2025-1-18T19:34:13Z
 
 <small>Les puissances de la première sphère sont stupéfaites et tombent à ses pieds et l'adorent.</small>
 
-« J'entrai dans les maisons de la sphère, brillant d'une splendeur extrême, et la lumière qui m'entourait était sans mesure. Et tous les dirigeants et tous ceux qui sont dans cette sphère, tombèrent en agitation les uns contre les autres. Et ils virent la grande lumière qui m'entourait, et ils contemplèrent mon vêtement et y virent le mystère de leur nom. Et ils tombèrent dans une agitation encore plus grande, et furent saisis d'une grande peur, disant : « Comment le seigneur de l'univers a-t-il pu passer à travers nous sans que nous le sachions ? » **(22)** Et tous leurs liens furent déliés, ainsi que leurs régions et leurs ordres ; et chacun quitta son ordre, et ils tombèrent tous ensemble, adorèrent devant moi, ou devant mon vêtement, et tous chantèrent <span id="p17">[<sup><small>p. 17</small></sup>]</span> des louanges aux intérieurs des intérieurs, étant dans une grande peur et une grande agitation.
+« J'entrai dans les maisons de la sphère, brillant d'une splendeur extrême, et la lumière qui m'entourait était sans mesure. Et tous les dirigeants et tous ceux qui sont dans cette sphère, tombèrent en agitation les uns contre les autres. Et ils virent la grande lumière qui m'entourait, et ils contemplèrent mon vêtement et y virent le mystère de leur nom. Et ils tombèrent dans une agitation encore plus grande, et furent saisis d'une grande peur, disant : « Comment le seigneur de l'univers a-t-il pu passer à travers nous sans que nous le sachions ? » **(22)** Et tous leurs liens furent déliés, ainsi que leurs régions et leurs ordres ; et chacun quitta son ordre, et ils tombèrent tous ensemble, adorèrent devant moi, ou devant mon vêtement, et tous chantèrent <span id="p17"><sup><small>[ p. 17 ]</small></sup></span> des louanges aux intérieurs des intérieurs, étant dans une grande peur et une grande agitation.
 
 ## CHAPITRE 13
 
@@ -74,7 +74,7 @@ dateCreated: 2025-1-18T19:34:13Z
 
 <small>Les pouvoirs des éons sont stupéfaits et tombent à ses pieds pour l'adorer.</small>
 
-« Et tous les anges des éons, leurs archanges, leurs chefs, leurs dieux, leurs seigneurs, leurs autorités, leurs tyrans, leurs puissances, leurs étincelles lumineuses, leurs dispensateurs de lumière, leurs impairs, leurs invisibles, leurs ancêtres et leurs triples pouvoirs me virent, brillant d'une splendeur inouïe, et la lumière qui m'entourait était sans mesure. Ils furent agités les uns contre les autres, et une grande peur les saisit lorsqu'ils virent la grande lumière qui m'entourait. Et dans leur grande agitation et leur grande peur, ils se retirèrent jusqu'à la région du grand Ancêtre invisible et des trois grandes triples puissances. Et à cause de la grande peur de leur agitation, le grand Ancêtre, lui et les trois triples puissances, continuèrent à courir çà et là dans sa région, et ils ne purent fermer toutes leurs régions à cause de la grande peur dans laquelle ils étaient. Et ils agitèrent tous leurs éons ensemble et toutes leurs sphères et tous leurs ordres, craignant et étant grandement agités à cause de la grande lumière qui était autour de moi — non pas de la qualité antérieure dont elle était autour de moi lorsque j'étais sur la terre de l'humanité, lorsque le vêtement de lumière vint sur moi, — car le monde ne pouvait pas supporter la lumière telle qu'elle était dans sa vérité, sinon le monde serait immédiatement détruit et tout ce qui est sur lui, — mais la lumière qui était autour de moi dans les douze éons était <span id="p19">[<sup><small>p. 19</small></sup>]</span> huit mille sept cents myriades de fois plus grande que celle qui était autour de moi dans le monde parmi vous.
+« Et tous les anges des éons, leurs archanges, leurs chefs, leurs dieux, leurs seigneurs, leurs autorités, leurs tyrans, leurs puissances, leurs étincelles lumineuses, leurs dispensateurs de lumière, leurs impairs, leurs invisibles, leurs ancêtres et leurs triples pouvoirs me virent, brillant d'une splendeur inouïe, et la lumière qui m'entourait était sans mesure. Ils furent agités les uns contre les autres, et une grande peur les saisit lorsqu'ils virent la grande lumière qui m'entourait. Et dans leur grande agitation et leur grande peur, ils se retirèrent jusqu'à la région du grand Ancêtre invisible et des trois grandes triples puissances. Et à cause de la grande peur de leur agitation, le grand Ancêtre, lui et les trois triples puissances, continuèrent à courir çà et là dans sa région, et ils ne purent fermer toutes leurs régions à cause de la grande peur dans laquelle ils étaient. Et ils agitèrent tous leurs éons ensemble et toutes leurs sphères et tous leurs ordres, craignant et étant grandement agités à cause de la grande lumière qui était autour de moi — non pas de la qualité antérieure dont elle était autour de moi lorsque j'étais sur la terre de l'humanité, lorsque le vêtement de lumière vint sur moi, — car le monde ne pouvait pas supporter la lumière telle qu'elle était dans sa vérité, sinon le monde serait immédiatement détruit et tout ce qui est sur lui, — mais la lumière qui était autour de moi dans les douze éons était <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> huit mille sept cents myriades de fois plus grande que celle qui était autour de moi dans le monde parmi vous.
 
 ## CHAPITRE 15
 
@@ -110,7 +110,7 @@ Et Jésus, le miséricordieux, répondit et dit à Marie : « Marie, bienheureus
 
 Alors Marie dit au Sauveur : « Mon Seigneur, la parole que tu nous as dite : « Qui a des oreilles pour entendre, qu'il entende », tu le dis afin que nous comprenions la parole que tu as dite. Écoute donc, mon Seigneur, afin que je puisse parler ouvertement.
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 <small>Marie interprète le discours à partir des paroles d’Isaïe.</small>
 
@@ -131,7 +131,7 @@ Jésus répondit à Marie : « Parle ouvertement et ne crains rien ; tout ce sur
 
 ## CHAPITRE 20
 
-Elle dit : « Mon Seigneur, tous les hommes qui connaissent le mystère de la magie de tous les dirigeants de tous les éons du Destin et de ceux de la sphère, de la manière dont les anges qui ont transgressé <span id="p23">[<sup><small>p. 23</small></sup>]</span> leur ont enseigné, s'ils les invoquent dans leurs mystères, c'est-à-dire dans leur magie maléfique, pour empêcher les bonnes actions, les accompliront-ils désormais ou non ? »
+Elle dit : « Mon Seigneur, tous les hommes qui connaissent le mystère de la magie de tous les dirigeants de tous les éons du Destin et de ceux de la sphère, de la manière dont les anges qui ont transgressé <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> leur ont enseigné, s'ils les invoquent dans leurs mystères, c'est-à-dire dans leur magie maléfique, pour empêcher les bonnes actions, les accompliront-ils désormais ou non ? »
 
 <small>Jésus explique plus en détail la conversion des sphères.</small>
 

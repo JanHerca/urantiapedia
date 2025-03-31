@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:44Z
   </table>
 </figure>
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Toutes les choses dans la nature agissent en silence. Elles naissent et ne possèdent rien. Elles remplissent leur fonction sans rien revendiquer.
 

@@ -38,7 +38,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 2. Lorsque la fête a lieu immédiatement après le sabbat, Beth Shammaï dit : « Tout ce qui nécessite une purification doit être immergé avant le sabbat. » Mais Beth Hillel dit : « Les vases doivent être immergés avant le sabbat, et les êtres humains le jour du sabbat. »
 
-§ 3. Les deux écoles s'accordent à dire que l'eau polluée peut être purifiée en la plaçant dans un récipient en terre cuite et en la mettant en contact avec l'eau d'un bain, mais non dans un récipient impur. Il est toutefois permis d'immerger des récipients dont l'usage initial <span id="p148">[<sup><small>p. 148</small></sup>]</span> a été altéré, [^418] et les hommes peuvent se baigner lorsqu'ils passent d'une compagnie à une autre \[pour manger l'agneau pascal\]. [^419]
+§ 3. Les deux écoles s'accordent à dire que l'eau polluée peut être purifiée en la plaçant dans un récipient en terre cuite et en la mettant en contact avec l'eau d'un bain, mais non dans un récipient impur. Il est toutefois permis d'immerger des récipients dont l'usage initial <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> a été altéré, [^418] et les hommes peuvent se baigner lorsqu'ils passent d'une compagnie à une autre \[pour manger l'agneau pascal\]. [^419]
 
 § 4. Beth Shammaï dit : « Une personne peut apporter des sacrifices de paix lors de la fête, mais elle ne peut pas y imposer les mains ; [^420] et \[un particulier\] ne peut pas non plus y apporter d'holocaustes. » Mais Beth Hillel autorise l'apport de paix et d'holocaustes, ainsi que l'imposition des mains sur eux.
 

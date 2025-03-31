@@ -34,7 +34,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## YASNA XXXIX. À L'ÂME DU VEAU, etc.
 
-1\. Et maintenant nous sacrifions à l'âme du Veau et à son corps créé, et nous sacrifions aux âmes <span id="p288">[<sup><small>p. 288</small></sup>]</span> des bovins qui sont aptes à vivre [^1198] (pour nous), et dont (nous ?) sommes, tels qu'ils sont les mêmes pour eux.
+1\. Et maintenant nous sacrifions à l'âme du Veau et à son corps créé, et nous sacrifions aux âmes <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> des bovins qui sont aptes à vivre [^1198] (pour nous), et dont (nous ?) sommes, tels qu'ils sont les mêmes pour eux.
 
 2\. Et nous adorons les âmes de ces bêtes qui sont apprivoisées et dressées, et des troupeaux sauvages, et les âmes des saints où qu'ils soient nés, tant des hommes que des femmes, dont les bonnes consciences sont victorieuses dans la lutte contre les Daêvas, ou vaincront, ou ont vaincu.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:44Z
   </table>
 </figure>
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span> 
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span> 
 
 CHEZ l'humanité, la reconnaissance de la beauté en tant que telle implique l'idée de laideur, et la reconnaissance du bien implique l'idée du mal. Il existe la même relation mutuelle entre l'existence et la non-existence en matière de création ; entre la difficulté et la facilité en matière d'accomplissement ; entre le long et le court en matière de forme ; entre le haut et le bas en matière d'élévation ; entre l'aigu et le grave en matière de hauteur musicale ; entre l'avant et l'après en matière de priorité. 
 
@@ -52,7 +52,7 @@ Débarrassez-vous de votre sainteté, débarrassez-vous de votre sagacité, et l
 
 La variété des couleurs rend l'œil de l'homme aveugle ; la diversité des sons rend l'oreille de l'homme sourde ; Un mélange de saveurs engourdit le palais de l'homme. 
 
-Celui qui connaît les autres est intelligent, mais celui qui se connaît lui-même est éclairé. Celui qui surmonte les autres est fort, mais celui qui se surmonte lui-même est plus puissant encore. Est riche celui qui sait <span id="p45">[<sup><small>p. 45</small></sup>]</span> quand il en a assez. Celui qui agit avec énergie a une force de détermination. Celui qui ne bouge pas de sa place est durable. Celui qui meurt, mais ne périt pas, jouit d'une véritable longévité. 
+Celui qui connaît les autres est intelligent, mais celui qui se connaît lui-même est éclairé. Celui qui surmonte les autres est fort, mais celui qui se surmonte lui-même est plus puissant encore. Est riche celui qui sait <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> quand il en a assez. Celui qui agit avec énergie a une force de détermination. Celui qui ne bouge pas de sa place est durable. Celui qui meurt, mais ne périt pas, jouit d'une véritable longévité. 
 
 Si vous voulez vous contracter, vous devez d'abord vous étendre. Si vous voulez affaiblir, vous devez d'abord vous renforcer. Si vous voulez renverser, vous devez d'abord vous élever. Si vous voulez prendre, vous devez d'abord donner. C'est ce qu'on appelle l'aube de l'intelligence. 
 

@@ -44,7 +44,7 @@ Ses proches, en le voyant, l'entoureront et crieront : « Enfant, nous t'avons �
 
 « Les vieillards sont bienveillants ; tes fils, mon enfant, sont très jeunes ; tu as épousé ta femme ; (prends garde) qu'elle n'aille pas vers un autre homme. (5)
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 « Viens, mon enfant, rentrons à la maison ; nous pouvons faire tout le travail, tu n'as pas besoin de le faire ; la prochaine fois, nous veillerons (à ce que tu ne sois pas surchargé de travail) ; mon enfant, en attendant, allons à notre maison. » (6)
 
@@ -62,7 +62,7 @@ Les hommes ne surmontent pas (facilement) cet attachement, comme (ils ne surmont
 
 Mais un moine devrait y renoncer, car tout attachement n'est qu'une cause de péché. Il ne devrait pas désirer la vie, ayant été instruit dans la meilleure Loi. (13)
 
-Il y a ces tourbillons qui ont été <span id="p265">[<sup><small>p. 265</small></sup>]</span> signalés par <i>K</i>â<i>s</i>yapa : les sages s'en tiennent à l'écart, mais les ignorants y sombrent. (14)
+Il y a ces tourbillons qui ont été <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> signalés par <i>K</i>â<i>s</i>yapa : les sages s'en tiennent à l'écart, mais les ignorants y sombrent. (14)
 
 Les rois et les ministres des rois, les Brâhmanes et les Kshattriyas tentent par des choses agréables de séduire un moine qui mène une vie sainte. (15)
 

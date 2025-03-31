@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-1\. L'année sabbatique des figues blanches [^56] est la deuxième après l'année sabbatique, car elles produisent en trois ans. Rabbi Judah a dit : « L'année sabbatique des figues perses est <span id="p71">[<sup><small>p. 71</small></sup>]</span> la fin de l'année sabbatique, car elles produisent en deux ans. » Les Sages lui ont répondu : « Ils ont seulement dit figues blanches. »
+1\. L'année sabbatique des figues blanches [^56] est la deuxième après l'année sabbatique, car elles produisent en trois ans. Rabbi Judah a dit : « L'année sabbatique des figues perses est <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> la fin de l'année sabbatique, car elles produisent en deux ans. » Les Sages lui ont répondu : « Ils ont seulement dit figues blanches. »
 
 2\. « Si l'on conserve des échalotes pendant l'année sabbatique ? » dit R. Maier, « il ne faut pas moins de deux séahs, [^57] de hauteur, trois paumes, et au-dessus d'elles une paume de poussière. » Mais les Sages disent : « il faut pas moins de quatre cabs, de hauteur, une paume, et au-dessus d'elles une paume de poussière, et elles doivent être conservées dans un endroit où l'on marche. » [^58]
 

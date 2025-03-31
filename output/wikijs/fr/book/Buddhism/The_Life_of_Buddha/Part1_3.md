@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 
 Des mois passèrent. Puis, un jour, la reine comprit que le moment de la naissance de son fils approchait. Elle alla trouver le roi Suddhodana et lui dit :
@@ -71,7 +71,7 @@ Lorsqu'il s'approcha de l'enfant, le roi fit une profonde révérence et dit :
 
 Ils s'inclinèrent tous, et les brahmanes, inspirés par les Dieux, chantèrent alors :
 
-Toutes les créatures sont heureuses, et les chemins empruntés par les hommes ne sont plus escarpés, car il est né, celui qui donne le bonheur : il apportera le bonheur au monde. Dans les ténèbres, une grande lumière s’est levée, le soleil et la lune sont comme des braises mourantes, car il est né, celui qui donne la lumière : il <span id="p15">[<sup><small>p. 15</small></sup>]</span> apportera la lumière au monde. Les aveugles voient, les sourds entendent, les insensés ont recouvré la raison, car il est né, celui qui rend la vue, l’ouïe et l’esprit : il apportera la vue, l’ouïe, la raison au monde. Les zéphyrs parfumés apaisent les souffrances de l’humanité, car il est né, celui qui guérit : il apportera la santé au monde. Les flammes ne sont plus impitoyables, le cours des fleuves est arrêté, la terre tremble doucement : c’est lui qui verra la vérité.
+Toutes les créatures sont heureuses, et les chemins empruntés par les hommes ne sont plus escarpés, car il est né, celui qui donne le bonheur : il apportera le bonheur au monde. Dans les ténèbres, une grande lumière s’est levée, le soleil et la lune sont comme des braises mourantes, car il est né, celui qui donne la lumière : il <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> apportera la lumière au monde. Les aveugles voient, les sourds entendent, les insensés ont recouvré la raison, car il est né, celui qui rend la vue, l’ouïe et l’esprit : il apportera la vue, l’ouïe, la raison au monde. Les zéphyrs parfumés apaisent les souffrances de l’humanité, car il est né, celui qui guérit : il apportera la santé au monde. Les flammes ne sont plus impitoyables, le cours des fleuves est arrêté, la terre tremble doucement : c’est lui qui verra la vérité.
 
 <figure class="table chapter-navigator">
   <table>

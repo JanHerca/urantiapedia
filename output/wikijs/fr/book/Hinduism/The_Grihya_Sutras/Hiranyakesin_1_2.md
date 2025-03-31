@@ -46,7 +46,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. [^503] (Le professeur dit) : « Heureusement, Dieu Savit_ri_, puis-je atteindre le but avec ce NN » — ici il prononce les deux noms (de l'élève).
 
-7\. [^504] Avec (le vers) : « Pour notre bonheur, que les déesses nous protègent ; que les eaux nous abreuvent. Qu'elles nous inondent de bonheur et de félicité » — tous deux s'essuient. <span id="p151">[<sup><small>p. 151</small></sup>]</span>
+7\. [^504] Avec (le vers) : « Pour notre bonheur, que les déesses nous protègent ; que les eaux nous abreuvent. Qu'elles nous inondent de bonheur et de félicité » — tous deux s'essuient. <span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 8\. [^505] Alors (le maître) touche de sa main droite l'épaule droite (du garçon), et de sa main gauche son épaule gauche, et attire le bras droit (du garçon) vers lui avec le Vyâh<i>ri</i>tis, le verset Sâvitrî, ​​et avec (la formule) : « Par l'impulsion du dieu Savit_ri_, avec les bras des deux A<i>ri</i>vins, avec les mains de Pûshan, je t'initie, NN ! »
 
@@ -56,7 +56,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 « Par l'impulsion du dieu Savitri, deviens l'élève de Birihaspati. Mange de l'eau. Fais le plein de combustible. Accomplis le service. Ne dors pas pendant la journée » — ainsi (le maître) lui ordonne-t-il.
 
-11\. [^508] Puis (le professeur) déplace progressivement sa main droite <span id="p152">[<sup><small>p. 152</small></sup>]</span> vers le bas sur l'épaule droite (du garçon) et touche l'endroit de son cœur avec (les formules) : « Ton cœur demeurera dans mon cœur ; tu suivras mon esprit avec ton esprit ; tu te réjouiras de ma parole de tout ton cœur ; que B<i>ri</i>haspati t'unisse à moi !
+11\. [^508] Puis (le professeur) déplace progressivement sa main droite <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> vers le bas sur l'épaule droite (du garçon) et touche l'endroit de son cœur avec (les formules) : « Ton cœur demeurera dans mon cœur ; tu suivras mon esprit avec ton esprit ; tu te réjouiras de ma parole de tout ton cœur ; que B<i>ri</i>haspati t'unisse à moi !
 
 « À moi seul tu t'attacheras. En moi demeureront tes pensées. Ta vénération se portera sur moi. Quand je parlerai, tu te tairas. »
 
@@ -74,7 +74,7 @@ Et (encore les formules),
 
 'Suva_h_! Je te place dans le Sâmans, dans Sûrya, dans le ciel, dans l'œil, dans le Brahman, NN!
 
-« Que je te sois aimé (?) et cher, NN ! <span id="p153">[<sup><small>p. 153</small></sup>]</span> Que je te sois cher, le feu (?), NN ! Demeurons ici ! Demeurons dans le souffle et la vie ! Demeurons dans le souffle et la vie, NN ! »
+« Que je te sois aimé (?) et cher, NN ! <span id="p153"><sup><small>[ p. 153 ]</small></sup></span> Que je te sois cher, le feu (?), NN ! Demeurons ici ! Demeurons dans le souffle et la vie ! Demeurons dans le souffle et la vie, NN ! »
 
 14\. [^510] Il saisit ensuite avec sa main droite (celle du garçon) avec le pouce, les cinq sections : « Agni a une longue vie. »
 
@@ -106,7 +106,7 @@ Et (encore les formules),
 
 11\. Après avoir récité (au garçon le verset) « Nous t'appelons, le Seigneur des armées » (Taitt. Sa<i>m</i>h. II, 3, 14, 3), il lui récite ensuite (le Sâvitrî), d'abord Pâda par Pâda, puis hémistiche par hémistiche, puis le verset entier (de la manière suivante) :
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 'Bhûs! Tat Savitur vare<i>n</i>ya<i>m</i> (Cette adorable splendeur)—
 
@@ -128,7 +128,7 @@ Et (encore les formules),
 
 2\. [^517] Il met un de ces morceaux de bois sur le feu avec (le mantra) : « J'ai apporté un morceau de bois à Agni, aux grands Gâtavedas. Comme tu es enflammé, Agni, par ce morceau de bois, enflamme-moi ainsi par la sagesse, la perspicacité, la progéniture, le bétail, l'éclat sacré et par le plaisir de la nourriture. Svâhâ ! »
 
-3\. (Puis il met sur le feu) deux (morceaux de bois avec le même Mantra, en utilisant le duel au lieu du <span id="p156">[<sup><small>p. 156</small></sup>]</span> singulier), 'À Agni (j'ai apporté) deux morceaux de bois ;'
+3\. (Puis il met sur le feu) deux (morceaux de bois avec le même Mantra, en utilisant le duel au lieu du <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> singulier), 'À Agni (j'ai apporté) deux morceaux de bois ;'
 
 4\. (Puis) quatre (morceaux de bois, en utilisant le pluriel), 'À Agni (j'ai apporté) des morceaux de bois.'
 
@@ -148,7 +148,7 @@ Et (encore les formules),
 
 12\. [^521] Il donne ensuite un cadeau facultatif à son gourou (c'est-à-dire à l'enseignant).
 
-13\. [^522] (Le professeur) le fait se lever avec (le verset que l'élève récite), « Debout ! avec la vie » (Taitt. Sa<i>m</i>h. I, 2, 8, 1) ; il le confie (au soleil) avec (les mots), « Soleil ! Ceci est ton fils ; je te le confie » ; et il adore le soleil avec (le Mantra), « Cet œil brillant créé par les dieux qui se lève à l'est : puissions-nous le voir cent automnes ; puissions-nous vivre cent automnes ; puissions-nous <span id="p157">[<sup><small>p. 157</small></sup>]</span> nous réjouir cent automnes ; puissions-nous être heureux cent automnes ; puissions-nous prospérer cent automnes ; puissions-nous entendre cent automnes ; puissions-nous parler cent automnes ; puissions-nous vivre sans décliner cent automnes ; et puissions-nous voir longtemps le soleil.
+13\. [^522] (Le professeur) le fait se lever avec (le verset que l'élève récite), « Debout ! avec la vie » (Taitt. Sa<i>m</i>h. I, 2, 8, 1) ; il le confie (au soleil) avec (les mots), « Soleil ! Ceci est ton fils ; je te le confie » ; et il adore le soleil avec (le Mantra), « Cet œil brillant créé par les dieux qui se lève à l'est : puissions-nous le voir cent automnes ; puissions-nous vivre cent automnes ; puissions-nous <span id="p157"><sup><small>[ p. 157 ]</small></sup></span> nous réjouir cent automnes ; puissions-nous être heureux cent automnes ; puissions-nous prospérer cent automnes ; puissions-nous entendre cent automnes ; puissions-nous parler cent automnes ; puissions-nous vivre sans décliner cent automnes ; et puissions-nous voir longtemps le soleil.
 
 14\. [^523] « Qu'Agni te donne encore la vie. Qu'Agni t'accorde encore la félicité. Qu'Indra et les Maruts ici présents te donnent cela ; que le soleil et les Vasus te le donnent » — avec (ce verset), le maître lui donne un bâton, puis lui tend un bol (pour recueillir les aumônes).
 
@@ -164,7 +164,7 @@ Et (encore les formules),
 
 20\. [^526] « Que tous les dieux te bénissent, toi dont nous acceptons le premier vêtement. Qu'après toi naissent l'homme prospère, l'homme de bien, de nombreux frères et amis » — avec (ce verset), le maître reprend (pour lui) l'ancien vêtement (de l'élève).
 
-21\. Lorsque la nourriture (avec laquelle les Brâhma<i>n</i>as seront régalés) est prête, (l'étudiant) prend une portion de riz bouilli, de gâteaux et de farine, mélange <span id="p158">[<sup><small>p. 158</small></sup>]</span> (ces substances) avec du beurre clarifié et sacrifie avec (les formules) : « À Agni svâhâ ! À Soma svâhâ ! À Agni, le mangeur de nourriture, svâhâ ! À Agni, le seigneur de la nourriture, svâhâ ! À Pra<i>n</i>âpati svâhâ ! Aux Vi<i>n</i>ve devâs svâhâ ! À toutes les déités svâhâ ! À Agni Svish<i>n</i>ak<i>n</i>t svâhâ ! »
+21\. Lorsque la nourriture (avec laquelle les Brâhma<i>n</i>as seront régalés) est prête, (l'étudiant) prend une portion de riz bouilli, de gâteaux et de farine, mélange <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> (ces substances) avec du beurre clarifié et sacrifie avec (les formules) : « À Agni svâhâ ! À Soma svâhâ ! À Agni, le mangeur de nourriture, svâhâ ! À Agni, le seigneur de la nourriture, svâhâ ! À Pra<i>n</i>âpati svâhâ ! Aux Vi<i>n</i>ve devâs svâhâ ! À toutes les déités svâhâ ! À Agni Svish<i>n</i>ak<i>n</i>t svâhâ ! »
 
 22\. Ainsi (qu'il sacrifie) partout où (les oblations de nourriture sont prescrites) pour lesquelles les divinités (à qui elles doivent être offertes) ne sont pas indiquées.
 
@@ -181,7 +181,7 @@ Et (encore les formules),
 
 1\. [^530] Il garde pendant trois jours le vœu (suivant) :
 
-2\. [^531] Il ne mange pas d'aliments piquants ou salés, ni de légumes ; il dort à même le sol ; il ne boit pas dans un récipient en terre ; il ne donne pas les restes de sa nourriture à un <i>S</i>ûdra ; il ne mange ni miel ni viande ; il ne dort pas pendant la journée ; <span id="p159">[<sup><small>p. 159</small></sup>]</span> matin et soir, il apporte (à son maître) la nourriture qu'il a reçue en aumône et un pot d'eau ; chaque jour, il va chercher un fagot de bois ; matin et soir, ou chaque soir, il met du combustible sur le feu de la manière suivante :
+2\. [^531] Il ne mange pas d'aliments piquants ou salés, ni de légumes ; il dort à même le sol ; il ne boit pas dans un récipient en terre ; il ne donne pas les restes de sa nourriture à un <i>S</i>ûdra ; il ne mange ni miel ni viande ; il ne dort pas pendant la journée ; <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> matin et soir, il apporte (à son maître) la nourriture qu'il a reçue en aumône et un pot d'eau ; chaque jour, il va chercher un fagot de bois ; matin et soir, ou chaque soir, il met du combustible sur le feu de la manière suivante :
 
 3\. [^532] Avant d'asperger (d'eau) tout autour (du feu), il essuie (avec sa main mouillée) de gauche à droite tout autour (du feu) avec le verset, 'Comme tu as lâché, ô Vasus, la vache-buffle' (Taitt. Sa<i>m</i>h. IV, 7, 15, 7), et asperge (d'eau) tout autour (du feu) comme ci-dessus.
 
@@ -195,7 +195,7 @@ Et (encore les formules),
 
 « Que la perspicacité, celle qui parfume, prend toutes les formes, celle qui est dorée et mobile, vienne à moi. Riche en sève, gorgée de lait, puisse-t-elle, la perspicacité, celle au beau visage, se réjouir en moi ! Svâhâ ! »
 
-5\. [^534] Après avoir essuyé (le feu) de la même manière, il asperge (le feu) d'eau comme ci-dessus. <span id="p160">[<sup><small>p. 160</small></sup>]</span>
+5\. [^534] Après avoir essuyé (le feu) de la même manière, il asperge (le feu) d'eau comme ci-dessus. <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 6\. [^535] Il adore le feu avec les Mantras : « Quelle est ta splendeur, Agni, puis-je par là » (Taitt. Sa<i>m</i>h. III, 5, 3, 2), et « Sur moi puisse la perspicacité, sur moi la progéniture » (Taitt. Âra<i>m</i>yaka X, 44).
 
@@ -213,7 +213,7 @@ Et (encore les formules),
 
 13\. Il n’a pas de relations avec les femmes.
 
-14\. [^540] (La durée de l'étude) est de quarante-huit ans, ou <span id="p161">[<sup><small>p. 161</small></sup>]</span> vingt-quatre (ans), ou douze (ans), ou jusqu'à ce qu'il ait appris (le Veda).
+14\. [^540] (La durée de l'étude) est de quarante-huit ans, ou <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> vingt-quatre (ans), ou douze (ans), ou jusqu'à ce qu'il ait appris (le Veda).
 
 15\. Il ne doit cependant pas omettre d'observer les observances.
 

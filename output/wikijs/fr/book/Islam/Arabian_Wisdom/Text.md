@@ -32,7 +32,7 @@ dateCreated: 2024-11-25T21:10:31Z
   </table>
 </figure>
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 ## Le premier chapitre du Coran
 
@@ -64,7 +64,7 @@ Mais ayant besoin de Toi, mon besoin est comblé.
 Ma seule ressource est de me lever et de frapper ;
 Et si je ne suis pas entendu à ta porte de miséricorde, à qui irai-je ?
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Qui dois-je appeler, quel nom dois-je invoquer,
 Si ton serviteur nécessiteux cherche en vain ta générosité ?
@@ -89,7 +89,7 @@ _Dictons et proverbes._ De toutes choses, Dieu aime le mieux le pardon lorsqu'on
 
 Le plaisir de pardonner est plus doux que le plaisir de la vengeance.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Le pardon est parfait lorsque le péché n'est pas rappelé.
 
@@ -117,7 +117,7 @@ L'une des preuves les plus sûres de la douceur est la tendresse envers les imb�
 
 La colère ardente d'un homme insensé est réprimée par la douceur, comme un feu ardent est éteint par l'eau.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 La douceur est parfois une humiliation, et celui qui est toujours indulgent et patient peut être piétiné par les imbéciles.
 
@@ -137,7 +137,7 @@ On demanda un jour à un homme sage s'il connaissait un bien qui ne soit pas con
 
 Mépriser un homme orgueilleux est une véritable humilité.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 ## La vraie noblesse
 
@@ -165,7 +165,7 @@ Si vous ne craignez pas les conséquences d'une mauvaise vie et n'avez aucun sen
 
 Non, par Dieu, la vie n'a aucune valeur, et ce monde n'apporte aucun bonheur à un homme qui a perdu le respect de lui-même et s'abandonne à l'impudeur.
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Il n'y a rien de bon chez un homme qui n'a pas honte des hommes.
 
@@ -219,7 +219,7 @@ _Coran._ Faites du bien aux autres comme Dieu vous a fait du bien.
 
 La récompense de la gentillesse est-elle autre chose que la gentillesse ?
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 Celui qui fait une bonne action sera récompensé au centuple.
 
@@ -253,7 +253,7 @@ Un pacificateur reçoit les deux tiers des coups.
 
 La générosité consiste à faire une gentillesse avant qu'elle soit demandée, et à plaindre et donner à celui qui demande.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Un homme généreux est proche de Dieu, proche des hommes, proche du paradis, loin de l'enfer.
 
@@ -311,7 +311,7 @@ Les péchés peuvent se cacher, mais Dieu porte des coups durs.
 
 Porter un lourd rocher jusqu'au sommet d'une montagne est plus facile que de recevoir une gentillesse qui est affichée.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Le fléau d'une action généreuse est de la mentionner.
 
@@ -343,7 +343,7 @@ Les anges inclinent leurs ailes vers un chercheur de connaissance.
 
 _Proverbes._ Le rang des savants est le plus élevé de tous les rangs.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Si l'apprentissage ne donne pas la richesse, il donnera l'estime.
 
@@ -375,7 +375,7 @@ Le propriétaire de la maison sait mieux que quiconque ce qu'elle contient.
 
 Toutes les recherches spéculatives aboutissent à une incertitude déconcertante.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 J'ai cherché dans la grande mer de l'apprentissage théorique un point sur lequel m'appuyer, et je n'ai rien trouvé d'autre qu'une vague me jetant contre une autre.
 
@@ -407,7 +407,7 @@ Là où il y a beaucoup de différences d'opinion, il est difficile de connaîtr
 
 Penser bien des autres est un devoir religieux.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Celui qui pense bien des autres est un homme heureux.
 
@@ -443,7 +443,7 @@ Une longue expérience est un atout pour l'esprit.
 
 La considération peut remplacer l'expérience.
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 Un homme sage est celui qui a été instruit par l'expérience.
 
@@ -477,7 +477,7 @@ Il est tout aussi permis de blâmer un aveugle pour son manque de vue que de bl�
 
 Supporter la folie d'un imbécile est en effet une grande épreuve.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 La meilleure façon de traiter un imbécile est de l'éviter.
 
@@ -507,7 +507,7 @@ Un homme qui est plus âgé que vous d'un jour a plus d'expérience que vous d'u
 
 Consultez un homme plus âgé et un plus jeune, puis décidez par vous-même.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 Les plus sages peuvent avoir besoin des conseils des autres.
 
@@ -539,7 +539,7 @@ Si vous appréciez un livre, vous le lirez entièrement.
 
 Si vous écrivez un livre, soyez prêt à affronter la critique.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Un livre est comme un jardin porté dans la poche.
 
@@ -577,7 +577,7 @@ Un homme qui parle beaucoup est exposé à de nombreux reproches.
 
 Les hommes les plus fautifs sont ceux qui sont les plus bavards sur des sujets qui ne les concernent pas.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Garder sa langue est l'un des meilleurs traits de caractère d'un homme.
 
@@ -607,7 +607,7 @@ Un homme cache son ignorance par son silence.
 
 Celui qui dit ce qu'il ne doit pas dire, devra entendre ce qu'il ne voudrait pas entendre.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Celui qui parle beaucoup fait peu.
 
@@ -639,7 +639,7 @@ Quand tu parles, sois sincère, et quand tu agis, sois doux.
 
 Un homme ignorant qui est vrai est meilleur qu'un homme intelligent qui est faux.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Il y a deux sortes de véracité, et la plus grande d'entre elles est celle qui peut te faire du mal.
 
@@ -667,7 +667,7 @@ La promesse d'un véritable homme est une obligation plus grande qu'une dette.
 
 Cet homme est un hypocrite qui prie et jeûne, mais qui ment dans ce qu'il dit, trahit sa parole et est infidèle dans l'accomplissement d'une mission.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 ## La véracité des secrets
 
@@ -765,7 +765,7 @@ N'entreprenez pas un travail pour lequel vous n'êtes pas compétent.
 
 Que peut faire une femme au foyer avec un visage laid ?
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 ## Opportunités
 
@@ -801,7 +801,7 @@ L'économie permet d'économiser la moitié du coût de la vie.
 
 La valeur de l'économie est égale à la moitié de vos bénéfices,
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 La frugalité sauve l'homme de la pauvreté.
 
@@ -839,7 +839,7 @@ L'homme est la cible des accidents du temps.
 
 Un jour pour nous, et un jour contre nous.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Avec aujourd'hui il y a demain.
 
@@ -875,7 +875,7 @@ Celui qui pense que la fortune le favorisera toujours est un imbécile.
 
 Suivez les traces de l'homme chanceux et vous arriverez à la fortune,
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 ## Patience
 
@@ -909,7 +909,7 @@ Il est rare qu'un homme patient échoue à obtenir ce qu'il recherche.
 
 Soyez patients : chaque nuage se dissipe et chaque mal qui ne dure pas est une petite chose.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Celui qui reçoit les coups n'est pas comme celui qui les compte.
 
@@ -943,7 +943,7 @@ Dieu aime un homme joyeux.
 
 Une partie essentielle de l'amitié est la gaieté.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 La gaieté dénote une nature généreuse, comme une fleur dénote un fruit.
 
@@ -973,7 +973,7 @@ La vie n'a pas de nuage pour l'homme ignorant, pour celui qui ne tient pas compt
 
 La guerre est une chose mauvaise pour le vainqueur comme pour le vaincu.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Il vaut mieux éviter que faire la guerre.
 
@@ -1009,7 +1009,7 @@ La magnanimité envers les captifs et la miséricorde envers les déchus sont un
 
 La première partie de la colère est la folie et la seconde est le regret.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 La passion et la cécité sont des compagnons inséparables.
 
@@ -1043,7 +1043,7 @@ Celui qui se fait des ennemis aura bien des nuits agitées.
 
 Celui qui a beaucoup d'ennemis, qu'il s'attende à une chute.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Lorsque la colère est réprimée en raison de l'incapacité de faire du mal immédiatement, elle se retire dans le cœur sous forme de malice et engendre ces vices : l'envie, le triomphe sur le mal de l'ennemi, la répulsion des approches amicales, le mépris, la calomnie, la dérision, la violence personnelle et l'injustice.
 
@@ -1067,7 +1067,7 @@ Tout homme favorisé est envié.
 
 Un homme seigneurial est toujours un objet d'admiration ou d'envie.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Méfiez-vous de l'envie, car elle se montre en vous, et non en celui que vous enviez.
 
@@ -1097,7 +1097,7 @@ Méfiez-vous de la témérité, car elle a été appelée à juste titre la Mèr
 
 Celui qui agit avec précipitation commet une erreur ou s'en approche de très près.
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 Celui qui agit délibérément a raison, ou presque.
 
@@ -1135,7 +1135,7 @@ L'avarice est la mère de toutes les mauvaises dispositions.
 
 Les richesses d'un homme avare vont soit à néant, soit à un héritier.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Celui qui est avare doit être traité de la même manière.
 
@@ -1169,7 +1169,7 @@ Un homme bon voit ses propres défauts et est aveugle aux défauts des autres.
 
 Censurez votre ami par la bonté, et rendez le mal qu'il vous a fait par des actes de faveur.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Blâmer un ami est mieux que de le perdre.
 
@@ -1207,7 +1207,7 @@ La chasteté unie à la beauté rend une femme parfaite.
 
 Trois choses contribuent à une longue vie : une grande maison, une femme obéissante et un cheval rapide.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 La violence de l'amour disparaît peu après le mariage. Si l'amour des époux devait perdurer, le Jour de la Résurrection serait proche.
 
@@ -1263,7 +1263,7 @@ Quand ton père et ta mère deviennent vieux, et que tu les accueilles chez toi,
 
 Sois respectueux envers ton père, et ton fils te sera respectueux.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 Celui qui est mal élevé envers son père sera maltraité par son fils.
 
@@ -1295,7 +1295,7 @@ Un homme est un miroir dans lequel on voit la ressemblance de son frère.
 
 Le meilleur homme parmi vous est celui qui est le meilleur envers ses relations.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Le sang ne devient pas de l'eau.
 
@@ -1355,7 +1355,7 @@ Dans la vie sociale, soyez comme des amis, dans les affaires comme des étranger
 
 Préférez un voisin proche à un frère éloigné.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ## Salutation, Visite
 
@@ -1385,7 +1385,7 @@ L'amour de son propre pays est un devoir religieux.
 
 Un véritable homme aspire à son pays natal, et aspire à sa maison comme un lion aspire à sa tanière.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 C'est un signe de bon jugement lorsque le cœur aspire à la patrie et à la maison.
 
@@ -1421,7 +1421,7 @@ La santé est une couronne sur la tête du vigoureux, invisible sauf pour les ma
 
 Une bonne santé est au-delà de tout prix.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 Le plus grand cadeau offert à l'homme est une longue vie en bonne santé.
 
@@ -1453,7 +1453,7 @@ Un vieil homme parle de ce qu'il a vu, et un jeune homme parle de ce qu'il a ent
 
 Les cheveux gris sont un signe de sagesse et sont embellis par la révérence.
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Une tête blanche est une crème riche barattée par de longues années.
 

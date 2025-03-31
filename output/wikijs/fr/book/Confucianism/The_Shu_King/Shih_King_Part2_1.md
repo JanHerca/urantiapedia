@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 ## II. LES ODES MINEURES DU ROYAUME.
 
@@ -56,7 +56,7 @@ ODE FESTIVE, RÉPONSE À L'UNE DES CINQ QUI LA PRÉCÈDENT. LES OFFICIERS ET LES
 
 Attribué, comme le précédent, au duc de <i>K</i>âu.
 
-Le ciel te protège et te fonde, avec la plus grande sécurité ; te rend entièrement vertueux. <span id="p348">[<sup><small>p. 348</small></sup>]</span> Afin que tu puisses jouir de tout bonheur ; t'accorde une grande augmentation, afin que tu aies tout en abondance.
+Le ciel te protège et te fonde, avec la plus grande sécurité ; te rend entièrement vertueux. <span id="p348"><sup><small>[ p. 348 ]</small></sup></span> Afin que tu puisses jouir de tout bonheur ; t'accorde une grande augmentation, afin que tu aies tout en abondance.
 
 Le Ciel te protège et te fortifie. Il t'accorde toute excellence, afin que tout soit juste dans tes affaires, et que tu reçoives toutes les faveurs célestes. Il t'envoie un bonheur durable, dont les jours ne suffisent pas à jouir.
 
@@ -66,7 +66,7 @@ Avec d'heureux auspices et des purifications, tu apportes les offrandes, et tu l
 
 Les esprits viennent [^407] et te confèrent de nombreuses bénédictions. Les gens sont simples et honnêtes, savourant quotidiennement leur nourriture et leur boisson. Toute la race aux cheveux noirs, sous tous ses noms, pratique universellement ta vertu.
 
-Comme la lune avançant vers son plein, Comme le soleil montant dans les cieux, Comme les éternelles collines du sud, Ne décroissant jamais, Ne tombant jamais, Comme <span id="p349">[<sup><small>p. 349</small></sup>]</span> la luxuriance du sapin et du cyprès ; — Que telle soit ta lignée suivante !
+Comme la lune avançant vers son plein, Comme le soleil montant dans les cieux, Comme les éternelles collines du sud, Ne décroissant jamais, Ne tombant jamais, Comme <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> la luxuriance du sapin et du cyprès ; — Que telle soit ta lignée suivante !
 
 <a id="o9"></a>
 

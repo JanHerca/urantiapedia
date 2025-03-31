@@ -29,7 +29,7 @@ dateCreated: 2025-1-18T19:34:44Z
   </table>
 </figure>
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 BARTHOLOMEOS, L'APÔTRE. _Livre de la Résurrection du Christ_ (dans Budge, _Coptic Apocrypha_, Londres, 1913).
 
@@ -42,7 +42,7 @@ _Livre de l'Abeille_. Texte syriaque et traductions anglaises, Oxford, 1886.
 _Histoire de la bienheureuse Vierge Marie et histoire de la ressemblance du Christ dont les Juifs de Tibériade se moquaient_. Syriaque et anglais, 2 vol., Londres, 1899-1901.
 _Légendes de Notre-Dame Marie_. Traductions de l'éthiopien, Londres, 1922.
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 BUDGE, EA WALLIS. _Apocryphes coptes_. Copte et anglais, Londres, 1913.
 _Textes coptes divers_. Copte et anglais, Londres, 1915.
@@ -82,7 +82,7 @@ TISCHENDORF, C. _Apocalypses Apocryphes_, Leipzig, 1866.
 TRUMPP, E. _Gadla Adam, Der Kampf Adams gegen die Versuchungen des Satans. Das christliche Adambuch des Morgenlandes_, Munich, 1880. Texte éthiopien.
 _Die Hexaëmeron des Pseudo-Epiphanius_, Munich, 1882. Texte éthiopien et traduction allemande.
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 WRIGHT, W. « Contributions à la littérature apocryphe du Nouveau Testament » (dans _Journal of Sacred Literature_, Vol. VI, pp. 417-448, et Vol. VII, pp. 110-160, janvier et avril 1865).
 _Actes apocryphes des Apôtres_, 2 vol., 1871.

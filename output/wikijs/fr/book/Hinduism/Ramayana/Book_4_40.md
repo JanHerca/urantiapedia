@@ -129,7 +129,7 @@ Les chefs Vánar avancèrent ; et tous
 Sur la plaine en nombres, (?)
 Des guerriers impétueux se tenaient en rang.
 
-<span id="p363">[<sup><small>p. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 À cette vue, les yeux de Lakshman brillèrent de rouge,
 Sa poitrine poussait des soupirs tumultueux,
@@ -239,7 +239,7 @@ C'est en travaillant que l'on acquiert l'amitié.
 Mais avec le plus grand effort, maintenu.
 Et le doute est fort, et la foi est faible,
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 Et l’amitié meurt quand les traîtres parlent.
 C'est pourquoi mon sein troublé est froid
@@ -347,7 +347,7 @@ Leurs branches aux fruits dorés, qui faisaient
 Avec des feuilles et des fleurs à l'ombre délicieuse.
 Il vit une bande de Vánars attendre,
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 Maniant leurs armes, à la porte
 Là où des portails dorés scintillaient entre
@@ -470,7 +470,7 @@ Je sais que la grâce doit être rendue
 Mais je sais toujours que, quoi qu'il arrive,
 Cet amour conquérant est le seigneur de tout ;
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Sachez où se trouvent les pensées de Sugríva, possédées
 Par une passion absorbante, reposez-vous.
@@ -581,7 +581,7 @@ Comme les coups de foudre, tu n'y prêtes pas attention,
 Qui peut, absorbé dans la félicité sensuelle,
 « Retire ta promesse de ton esprit. »
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 
 
@@ -693,7 +693,7 @@ Mais Rama est venu à mon secours,
 Et m'a rendu mon pouvoir et ma renommée.
 Ô Lakshman, dis-moi, dont le cœur reconnaissant
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 Pourrait nourrir l’espoir de payer en partie,
 Par le service d'une vie, l'acte
@@ -797,7 +797,7 @@ Ou de puissants nuages ​​qui voilent les cieux,
 Et s'élançant rapidement sur leur chemin
 « Rassemblez toutes nos légions en ordre de bataille. »
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 Il cessa : le fils de Váyu [^647] entendit,
 Soumis à la parole de son souverain ;
@@ -908,7 +908,7 @@ Le front du monarque s'éventa,
 Et des coquillages, des tambours, des chants et des cris
 Des coups retentirent autour de lui tandis que le roi s'évanouissait.
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 Autour du monarque marchait une foule
 Des guerriers Vánar courageux et forts,
@@ -1011,7 +1011,7 @@ Quand je tuerai mon ennemi démoniaque,
 Comme Indra conquérant dans sa colère
 « Il a tué le hautain père de la reine Paulomi. » [^654]
 
-<span id="p371">[<sup><small>p. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 Il cessa : d'épais nuages ​​de poussière s'élevèrent très haut
 À chaque coin du ciel :
@@ -1096,7 +1096,7 @@ Où qu'elles veuillent, ces armées mènent.
 Féroce et formidable à la vue
 En tant que Daityas ou l'équipage du Dánav [^661],
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 Célèbre dans tous les pays pour ses âmes enflammées
 Avec de hautes pensées, ils ne se lassent jamais,
@@ -1176,7 +1176,7 @@ Contre les rochers rugueux, les vagues se brisent :
 Un océan comme un nuage de sable,
 Dont la marge est envahie par des serpents monstrueux ;
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 Un océan qui monte avec un rugissement
 Battre sur un rivage de fer.
@@ -1255,7 +1255,7 @@ Et avec son deuxième légèrement appuyé
 Le plus haut sommet de la crête de Meru.
 Au nord de Jambudwíp [^686] le soleil
 
-<span id="p374">[<sup><small>p. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 Une partie de son parcours est terminée.
 Et se suspend au-dessus de cette hauteur de montagne,

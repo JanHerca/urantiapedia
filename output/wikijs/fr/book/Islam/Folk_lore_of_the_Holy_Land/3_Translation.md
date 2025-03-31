@@ -39,7 +39,7 @@ Abréviation des mots hébreux « Au nom de Dieu nous agirons et prospérerons. 
 
 Délivre des chaînes Bambina, fille de Rena, pour qu'elle loue ton nom, et que les mérites des patriarches la protègent. A.N.S.V. (initiales des mots « Amen, Netzach, Tselah, Vaad).
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 Au nom du Très-Haut et de la Cause de toutes les Causes, l'Exalté El Jah, le Dieu d'Israël, je suis celui qui suis, Haut et Exalté, le Résident dans l'Éternité, dont le nom est Saint, et au nom du Tout-Puissant des Sabaoth, Seigneur des Seigneurs, Vivant et Existant pour les Âges éternels. Amen, Sélah. Et au nom de HVHY (c'est-à-dire le tétragramme).
 
@@ -53,7 +53,7 @@ PI, JH, VH, JHVH, EHYEH, AH, ASHER, HV, GH, VH.
 
 Kinbijah. Baduomfiel. Beduftiel.
 
-« Shaddyam » (signifiant probablement le pouvoir de la mer). Et par le pouvoir de tous les noms saints et sceaux écrits dans ce charme, <span id="p320">[<sup><small>p. 320</small></sup>]</span> J'adjure toutes les puissances malignes, les mauvais esprits, les puissances impures et toutes sortes de fléaux qui molestent les êtres humains d'être effrayés et de craindre la porteuse de cette amulette, et de ne pas s'approcher d'elle, ni de s'approcher à une distance de quatre coudées d'elle ; ni de la gêner de quelque manière que ce soit, ni de jour ni de nuit, lorsqu'elle est éveillée ou lorsqu'elle rêve. Puisse-t-elle obtenir une guérison parfaite de toutes les maladies malignes qui sont dans le monde, et de l'épilepsie, des convulsions, de l'askara, de la paralysie, des maux de tête, d'un esprit embrumé, de l'oppression et des palpitations du cœur, et de tout esclavage et sorcellerie, de toute frayeur et vexation, de tout tremblement, de toute sursaut, de toute excitation, de toutes maladies de l'utérus, de toutes imaginations et visions mauvaises, de tous diables et démons mâles ou femelles, et de toutes blessures ; et de Millelin, et de Letlin, et de tous les esprits maléfiques et autres pouvoirs occultes et impurs, une guérison parfaite, une délivrance et un bouclier contre toutes les maladies maléfiques existant dans le monde désormais et pour toujours. Et par le pouvoir de :
+« Shaddyam » (signifiant probablement le pouvoir de la mer). Et par le pouvoir de tous les noms saints et sceaux écrits dans ce charme, <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> J'adjure toutes les puissances malignes, les mauvais esprits, les puissances impures et toutes sortes de fléaux qui molestent les êtres humains d'être effrayés et de craindre la porteuse de cette amulette, et de ne pas s'approcher d'elle, ni de s'approcher à une distance de quatre coudées d'elle ; ni de la gêner de quelque manière que ce soit, ni de jour ni de nuit, lorsqu'elle est éveillée ou lorsqu'elle rêve. Puisse-t-elle obtenir une guérison parfaite de toutes les maladies malignes qui sont dans le monde, et de l'épilepsie, des convulsions, de l'askara, de la paralysie, des maux de tête, d'un esprit embrumé, de l'oppression et des palpitations du cœur, et de tout esclavage et sorcellerie, de toute frayeur et vexation, de tout tremblement, de toute sursaut, de toute excitation, de toutes maladies de l'utérus, de toutes imaginations et visions mauvaises, de tous diables et démons mâles ou femelles, et de toutes blessures ; et de Millelin, et de Letlin, et de tous les esprits maléfiques et autres pouvoirs occultes et impurs, une guérison parfaite, une délivrance et un bouclier contre toutes les maladies maléfiques existant dans le monde désormais et pour toujours. Et par le pouvoir de :
 
 RVI. ASHA. VVTZ. TCHM. TRV. HSHT. ILICH. Et par le pouvoir et l'influence de VDA. HVI. SISH. IMI. RTZM. TRM. HTB. VMCH. HHV. MRN. MAT. CIN. CMM. LAB. KHSCH. LRL. TTSH. VDN. Káá. LTI. MLCH. tout ceci sera établi et confirmé au porteur de ce charme. Ainsi soit-il, Amen.
 
@@ -75,7 +75,7 @@ Une guérison parfaite, une délivrance et un bouclier contre tout esclavage et 
 
 2. Dans les formules de charme, etc., le nom du père n'est jamais mentionné. La raison invoquée est l'exemple du psalmiste qui prie ainsi : « Seigneur, je suis vraiment ton serviteur, ton serviteur et le fils de ta servante. »
 
-<span id="p321">[<sup><small>p. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 3\. Le but de cet ouvrage n'est pas de traiter de manière exhaustive la question de l'angéologie et de la démonologie juives et orientales, des amulettes, etc.. On peut recueillir beaucoup d'informations intéressantes sur ces sujets et d'autres sujets apparentés dans les ouvrages anglais suivants.
 
@@ -89,7 +89,7 @@ Lane's, « Les Égyptiens modernes », vol. i, pp. 300, 306, 317, 338, 361. vol.
 
 5. La croyance dans le pouvoir protecteur du nom יהוה ou YHVH est partagée par les Samaritains aussi bien que par les adeptes du judaïsme orthodoxe. J’ai en ma possession la photographie d’un charme samaritain écrit sur du parchemin, vieux de plusieurs siècles, et qui aurait été utilisé de génération en génération par « le peuple insensé qui habite Sichem » (Ecclésiaste 1. 26), afin de guérir les malades de leurs maux. Il est écrit en sept colonnes séparées les unes des autres par des lignes d’écriture samaritaine en caractères plus gros que ceux qui couvrent la plus grande partie du document. Un cadre de deux lignes de cette écriture court le long des quatre côtés de l’ensemble et, à l’examen avec une loupe, est facilement déchiffrable comme contenant le récit de la chute de Pharaon et de ses armées dans la mer. Les colonnes sont divisées en sections par deux à cinq lignes d'écriture semblable (les noms de Jéhovah, les mots « Et Moïse pria », etc.), tandis qu'entre les divisions se trouvent des paragraphes de petites lignes écrites avec précision. La taille de ce précieux document, pour lequel la somme insignifiante de 5 000 francs a été froidement demandée, est indiquée par l'échelle en centimètres photographiée avec lui. Il était dans un état terriblement sale et déchiré, ayant été usé, roulé et plié en un paquet d'environ 22 pouces cubes, et apparemment à côté de la peau. Vers le milieu de la huitième colonne se trouve un tableau « záir 'geh », avec des lettres disposées à l'intérieur de carrés, comme celui montré par Lane, vol. i. p. 356.
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 ## DIAGRAMME CARRÉ.
 
@@ -102,7 +102,7 @@ Tu ne souffriras pas qu'une sorcière vive.<br>Pour vivre tu ne souffriras pas q
 Note.—Une chose remarquable dans ce charme est l'omission des noms des quatre anges,
 Gabriel, Michel, Raphaël et Uriel.
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Folk_lore_of_the_Holy_Land/32300.jpg">
@@ -110,9 +110,9 @@ Gabriel, Michel, Raphaël et Uriel.
 </figure>
 
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 ## TRADUCTION DU RESTE.
 
@@ -148,9 +148,9 @@ Adjuration solennelle du mauvais œil. (Comme celle-ci, bien qu'abrégée, est p
 
 Image d'une main, au dos de laquelle est écrit « Shaddai » (Tout-Puissant) et « Adonai » (Seigneur) avec des permutations de lettres formant des noms d'anges, etc.
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 IMPRIMÉ PAR
 TURNBULL ET LES LANCES,

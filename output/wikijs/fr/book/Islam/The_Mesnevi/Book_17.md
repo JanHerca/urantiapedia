@@ -29,7 +29,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 ## XVII.Conclusion.
 
@@ -56,7 +56,7 @@ Mordez au mot matériel, sans rêver d'épée ;
 Le plus vif au dicton dur et inflexible, avec un zeste affectueux ;
 <sup id="v10"><small>10</small></sup> Et tu trouves ça corné, dur, pénible à digérer.
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 Elle est devenue une pierre, elle blesse, elle fait couler le sang.
 Alors évite-le, chameau humain, et ne le cherche pas pour te nourrir.

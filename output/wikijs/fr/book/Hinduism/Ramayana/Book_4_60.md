@@ -92,7 +92,7 @@ Tellement doué dans les arts de la danse et du chant.
 Mais dis-moi quelle cause tes pas ont conduit
 Les labyrinthes de ce bosquet à parcourir.
 
-<span id="p383">[<sup><small>p. 383</small></sup>]</span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 Comment, étrangers, avez-vous eu la chance d'espionner
 Le bois caché aux yeux du vagabond ?
@@ -212,7 +212,7 @@ Sur toi, dans la tradition du conseil essayé,
 Notre roi Sugríva était celui sur qui nous comptions le plus.
 Vos cœurs, chargés d’une forte affection,
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 Son bien-être dans chaque travail recherché,
 Et la véritable valeur de votre groupe
@@ -315,7 +315,7 @@ Pour fendre la montagne comme une fleur.
 Ô Angad, écoute bien mon conseil :
 Si tu choisis de demeurer dans cette grotte,
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 
 
@@ -430,7 +430,7 @@ Le plus glorieux, le plus fort et le plus audacieux.
 Sur la pente de la colline de Vindhya
 Il vit les Vánars calmes et immobiles.
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 Il prononça ces mots tandis que la vue
 Il remplit son esprit féroce de joie :
@@ -547,7 +547,7 @@ Ils ont été formés par la compétence magique de Maya.
 À travers le labyrinthe sombre, nos pas étaient courbés,
 Et nous avons erré là-bas pendant un mois,
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 Et perdu, dans une erreur infructueuse, ainsi
 Les jours que notre roi nous a attribués.
@@ -648,7 +648,7 @@ Rapide à travers le quatrième, le faucon jaillit
 Le cinquième est le vautour le plus lent.
 Jusqu'au sixième, les cygnes gais s'élèvent,
 
-<span id="p388">[<sup><small>p. 388</small></sup>]</span>
+<span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 
 Là où vole le royal Vainateya [1](Book_4_60#fn772).
 Nous aussi, ô chefs de race vautour,
@@ -761,7 +761,7 @@ Et les eaux écumaient,
 Et je savais que la belle colline devait être
 Mont Vindhya au bord de la mer du Sud.
 
-<span id="p389">[<sup><small>p. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 Vénéré par les êtres célestes, se tenait
 Près de l'endroit où je me trouvais, un bois sacré,

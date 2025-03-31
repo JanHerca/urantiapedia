@@ -32,13 +32,13 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 _Je n'ai vu que le quatorzième volume de cet ouvrage, qui renferme tout ce qu'il y a d'élégant et de noble dans la composition. Son style est si élevé, si varié et si hardi, que je n'hésite pas à le ranger parmi les poèmes les plus achevés_.—Sir W. Jones.
 
 _C'est cette œuvre, et non, comme on le suppose généralement, les « Mille et une nuits », qui est la source des récits qui remplissent les tentes et les chaumières de l'Arabie et de l'Égypte_.—Von Hammer.
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 <figure id="Figure_17100" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Arabian_Poetry/17100.jpg">
@@ -60,7 +60,7 @@ L'ouvrage fut très favorablement accueilli par les principaux critiques de l'é
 
 Cette œuvre singulière est le seul témoignage de la vie quotidienne des Arabes avant qu’ils ne soient sous l’influence d’El-Islám. « Même dans une traduction », dit un critique judicieux, « Antar doit être lu avec plaisir par ceux à qui les modes de vie simples offrent matière à spéculation intéressante, et par ceux qui sont satisfaits de descriptions fluides et luxuriantes, unies à des croquis vivants et pittoresques d’événements et de personnages. » Ici, les vertus et les vices de ces enfants du désert sont fidèlement dépeints : hospitaliers, courageux, vindicatifs, à la fois libéraux et avares, possédant en même temps un sens méticuleux de l’honneur : tels étaient les Arabes préislamiques, que la plume d’El-Asma’ee a dépeints avec tant de vivacité. La poésie dont l’œuvre est richement ornée est la poésie de la nature, abondante en touches de pathos, bien au-delà de la portée de l’art.
 
-Je regrette de n'avoir pu obtenir aucune traduction allemande ou française du récit de la suspension de la Kasidah d'Antar sur la Kaaba, mais mon ami MEJW Gibb, de <span id="p174">[<sup><small>p. 174</small></sup>]</span> Lochwood, Lanarkshire, un jeune orientaliste très prometteur, m'a fait la grâce d'une traduction de la Mort d'Antar - l'un des plus nobles poèmes héroïques - d'après la version française de M. Caussin de Perceval, qui est annexée à l'esquisse suivante des principaux incidents de la première partie, selon la traduction de M. Hamilton.
+Je regrette de n'avoir pu obtenir aucune traduction allemande ou française du récit de la suspension de la Kasidah d'Antar sur la Kaaba, mais mon ami MEJW Gibb, de <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> Lochwood, Lanarkshire, un jeune orientaliste très prometteur, m'a fait la grâce d'une traduction de la Mort d'Antar - l'un des plus nobles poèmes héroïques - d'après la version française de M. Caussin de Perceval, qui est annexée à l'esquisse suivante des principaux incidents de la première partie, selon la traduction de M. Hamilton.
 
 ---
 
@@ -70,7 +70,7 @@ Il est loin d’être improbable que le célèbre roman arabe d’Antar ait four
 
 Beaucoup de contes et de fictions populaires en Europe au Moyen-Âge, recueillis par tradition orale et conservés dans des ouvrages tels que les Clericali Disciplina de Pierre Alphonse et les Gesta Romanorum, ont été attribués à des sources orientales, à l'Arabie et à la Syrie, puis à l'Inde, en passant par la Perse. Ces fictions sont probablement arrivées en Europe, en partie par l'intermédiaire des Sarrasins d'Espagne, en partie par les relations avec l'Orient pendant les croisades.
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 Mais aux VIIIe, IXe et Xe siècles, les relations entre les pays de l'Est et de l'Ouest du monde romain étaient très libres. Haroon Er-Rasheed et Charlemagne échangèrent des cadeaux et des messages de bonne volonté, et les merveilleuses aventures d'Antar ont pu être connues des premiers écrivains européens de romans de chevalerie, à une époque où la communication était ainsi ouverte entre l'Asie et l'Europe.
 

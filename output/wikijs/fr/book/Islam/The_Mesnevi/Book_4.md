@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 ## IV. Un autre roi juif, persécuteur des chrétiens.
 
@@ -57,7 +57,7 @@ Des eaux douces[^121]; dans l'Écriture, mentionnées à maintes reprises.[^122]
 Le souhait du chercheur, si nous le considérons correctement,
 Une scintillation de flamme émane des écritures saintes.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Aucune flamme n'existe en dehors du corps d'où elle brûle ;
 <sup id="v10"><small>10</small></sup> Partout où le corps brûlant se dirige, la flamme, elle aussi, tourne.
@@ -95,7 +95,7 @@ Comme le rossignol déverse son âme sur une rose.
 Quelle que soit la _propriété_ qui peut qualifier une _chose_
 <sup id="v25"><small>25</small></sup> Extérieurement, les qualités de l'homme sont le fruit de l'esprit.
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 De la pureté naissent de riches couleurs, de bonnes qualités ;
 Taches, — morales, ou comme colorants, — provenant d'impuretés grossières.
@@ -130,7 +130,7 @@ Leurs étincelles, les blasphèmes du chrétien et du juif !
 Si l'eau dans la cruche et le pichet vient à manquer,
 À la source nous devons puiser, un approvisionnement frais à envoyer.
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Notre idole est la lie boueuse laissée dans notre cruche ;
 <sup id="v40"><small>40</small></sup> La chair l'égout d'où il filtre, malgré le bouchon.
@@ -163,7 +163,7 @@ Et de là dédaigna la prosternation, bien qu'elle doive apporter un soulagement
 Ils lui ont enlevé son enfant, puis l'ont brisé dans les flammes.
 L'esprit de la mère tremblait à la vue de cet acte honteux.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Même si elle n'était pas elle-même, pour sauver son enfant, elle se prosternerait.
 Mais voilà, miracle ! L'enfant s'écria : « Laisse-moi tranquille !
@@ -198,7 +198,7 @@ Du plaisir ressenti par moi, pour toi j'ai peur de me dissiper.
 Entre, entre ! Et d'autres appellent pour te suivre.
 Le Grand Roi ici présente sa généreuse table dressée pour moi.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 Entrez, entrez, vous tous, saints de Dieu, élus !
 Résignés ![^128] Choisissez la coupe du martyre de la foi !
@@ -232,7 +232,7 @@ Il vint alors implorer pitié, sur les traces du Prophète :
 Faute de mieux savoir, j'étais insolent.
 C'est moi qui mérite le mépris et la moquerie. Hélas !
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Quand Dieu décide d'humilier un pécheur, orgueilleux,
 Un démon agite ce dernier pour insulter quelque homme de Dieu.
@@ -263,7 +263,7 @@ Pourquoi ne brûles-tu pas ? Qu'y a-t-il ? As-tu perdu ton pouvoir ?
 Est-ce que cela vous aveugle ?[^130] Est-ce plutôt la raison qui est aveugle ?
 <sup id="v95"><small>95</small></sup> Comment tes flammes ne consument-elles pas toute leur espèce détestée ?
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 T'ont-ils ensorcelé ? Ou la magie n'est-elle pas naturelle ?
 Ou ma fortune ne veut-elle pas que tu deviennes prodigue ?
@@ -300,7 +300,7 @@ Car, mâle et femelle, ils engendreront, ils le doivent.
 Le silex et l'acier sont des moyens. Élève ton regard bien plus haut.
 <sup id="v110"><small>110</small></sup> Tu es doué de raison. Va, lis le livre sacré.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 Un moyen naît d'un autre moyen, et une cause d'une cause.
 Sans moyen ni cause, aucun moyen de soi n'a jamais surgi.
@@ -331,7 +331,7 @@ Le vent soufflait doucement dans ce circuit mystique.
 Alors que tout ce qui était au-delà fut bientôt réduit en pièces.
 Comme de la paille emportée par la brise, leurs membres étaient éparpillés tout autour.
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 Shaybān le berger, lui aussi, un cercle autour de son bercail
 Était utilisé pour dessiner; quelle que soit la saison, chaude ou froide;
@@ -369,7 +369,7 @@ Ces choses, dit-il, étaient des moqueries, de simples mensonges patents.
 Ses conseillers le conjurèrent d'être plus calme ;
 Et de ne pas pousser sa hardiesse à l'excès.
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 Il enchaîna ces conseillers et les jeta en prison ;
 Injustice à injustice en ajoutant, première et dernière.
@@ -406,7 +406,7 @@ Dans des pluies décuplées de miséricorde de l'Ancien des Jours.
 Et nous sommes encore contraints de prononcer des chants de remerciements,
 Cet homme devrait ainsi être élevé au-dessus des rangs angéliques.
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 Cette montée et cette descente alternent pour aye.
 Que le Seigneur me garde d'échouer un jour !

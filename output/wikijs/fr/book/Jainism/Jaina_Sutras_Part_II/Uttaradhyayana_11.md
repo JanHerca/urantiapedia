@@ -44,7 +44,7 @@ Pour huit raisons, la discipline est appelée vertu, à savoir : ne pas aimer la
 
 Un moine qui est passible des quatorze chefs d'accusation suivants est considéré comme mal élevé et n'atteint pas le Nirvânâ : (6)
 
-S'il est fréquemment en colère ; s'il persévère dans sa colère ; s'il rejette les conseils amicaux ; s'il est fier de son savoir ; s'il trouve des défauts chez les autres ; s'il se met en colère même contre ses amis ; s'il parle mal d'un bon ami même derrière son dos ; s'il est positif dans ses affirmations ; s'il est malveillant, égoïste, cupide, <span id="p47">[<sup><small>p. 47</small></sup>]</span> sans autodiscipline ; s'il ne partage pas avec les autres ; s'il est toujours méchant : alors on dit qu'il a une mauvaise conduite. (7-9)
+S'il est fréquemment en colère ; s'il persévère dans sa colère ; s'il rejette les conseils amicaux ; s'il est fier de son savoir ; s'il trouve des défauts chez les autres ; s'il se met en colère même contre ses amis ; s'il parle mal d'un bon ami même derrière son dos ; s'il est positif dans ses affirmations ; s'il est malveillant, égoïste, cupide, <span id="p47"><sup><small>[ p. 47 ]</small></sup></span> sans autodiscipline ; s'il ne partage pas avec les autres ; s'il est toujours méchant : alors on dit qu'il a une mauvaise conduite. (7-9)
 
 Mais pour les quinze bonnes qualités suivantes, il est dit bien élevé : s'il est toujours humble, constant, exempt de tromperie et de curiosité ; s'il n'injurie personne ; s'il ne persévère pas dans sa colère ; s'il écoute les conseils amicaux ; s'il n'est pas fier de son savoir ; s'il ne trouve pas à redire aux autres ; s'il ne se fâche pas contre ses amis ; s'il parle en bien même d'un mauvais ami dans son dos ; s'il s'abstient de querelles et de disputes ; s'il est éclairé, poli, décent et calme : alors il est dit bien élevé. (10-13)
 
@@ -56,7 +56,7 @@ De même qu'un cheval Kambô<i>g</i>a dressé, qu'aucun bruit n'effraie [^152], 
 
 En tant que héros vaillant chevauchant un cheval dressé, avec des hérauts chantant à sa droite et à sa gauche, (n'a pas d'égal) [^154], un moine très érudit non plus. (17)
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Comme un éléphant fort et irrésistible de soixante ans, entouré de ses femelles, (n'a pas d'égal), un moine très savant non plus. (18)
 
@@ -76,7 +76,7 @@ Comme la lune, la reine des étoiles, entourée des astérismes, lorsqu'elle est
 
 De même qu'un entrepôt de marchands bien gardé, rempli de grains de toutes sortes, (n'a pas d'égal), un moine très instruit n'en a pas non plus. (26)
 
-Comme le meilleur des arbres <i>G</i>ambû [^155], appelé Sudar<i>s</i>anâ, <span id="p49">[<sup><small>p. 49</small></sup>]</span>, qui est la demeure de la divinité qui préside, (n'a pas d'égal), un moine très érudit non plus. (27)
+Comme le meilleur des arbres <i>G</i>ambû [^155], appelé Sudar<i>s</i>anâ, <span id="p49"><sup><small>[ p. 49 ]</small></sup></span>, qui est la demeure de la divinité qui préside, (n'a pas d'égal), un moine très érudit non plus. (27)
 
 Comme le meilleur des fleuves, le courant océanique <i>Sîtâ</i> [^156] avec ses eaux sombres, (n'a pas d'égal), et même un moine très savant n'en a pas. (28)
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 DEUXIÈME CONFÉRENCE, INTIMÉ « MENDIER POUR UN CANAPÉ » [^376].
 
@@ -52,7 +52,7 @@ De même, un moine ou une moniale, sachant que le laïc, pour le bien du mendian
 
 Un moine ou une nonne, sachant que le laïc, pour le bien du mendiant, déplace d'un endroit à un autre, ou place à l'extérieur, une chaise, une planche, une échelle ou un mortier, ne doit pas utiliser un tel logement, etc. (tout comme à la fin du dernier paragraphe). (6)
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 Un moine ou une nonne ne doit pas utiliser, pour ses fonctions religieuses, un logement en surface, tel qu'un pilier, une estrade, un échafaudage, un étage ou un toit plat, ni un logement souterrain (sauf en cas d'urgence). S'ils se trouvent ainsi logés, ils ne doivent pas s'y laver ni se nettoyer les mains, les pieds, les yeux, les dents ou la bouche à l'eau chaude ou froide ; ils ne doivent pas non plus y excréter d'autres sécrétions, telles qu'excréments, urine, salive, mucus, humeur bilieuse, ichor, sang ou toute autre partie des humeurs corporelles.
 
@@ -60,7 +60,7 @@ Le Kevalin dit : Voici la raison : en sécrétant, il risque de trébucher ou de
 
 Un moine ou une nonne en tournée de mendicité ne doit pas utiliser, pour des actes religieux, un logement utilisé par le maître de maison, où se trouvent femmes, enfants, bétail, nourriture et boisson. En voici la raison : un mendiant vivant avec la famille du maître de maison peut être victime d'une crise de goutte, de dysenterie ou de vomissements ; ou être atteint d'une autre douleur, maladie ou affection ; le laïc peut, par compassion, enduire ou oindre le corps du mendiant d'huile, de ghee, de beurre ou de graisse, le frotter ou le shampouiner avec des parfums, des drogues, du lodhra, de la teinture, de la poudre, du padmaka, puis le brosser ou le frotter pour le nettoyer ; le nettoyer, le laver ou l'arroser d'eau chaude ou froide, allumer un feu en frottant du bois contre du bois ; et, après cela, sécher ou réchauffer (le corps du mendiant).
 
-C'est pourquoi il a été dit au mendiant, etc., <span id="p123">[<sup><small>p. 123</small></sup>]</span> qu'il ne devrait pas utiliser pour des postures religieuses, etc., un logement qui est utilisé par le maître de maison. (8)
+C'est pourquoi il a été dit au mendiant, etc., <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> qu'il ne devrait pas utiliser pour des postures religieuses, etc., un logement qui est utilisé par le maître de maison. (8)
 
 Voici une autre raison : lorsqu'un mendiant vit dans un logement utilisé par le maître de maison, celui-ci ou sa femme, etc., peuvent se brutaliser, se gronder, s'attaquer ou se battre. Le mendiant peut alors se dire : « Qu'ils se brutalisent ! » ou « Qu'ils ne se brutalisent pas ! », etc.
 
@@ -87,7 +87,7 @@ Ainsi je dis. (12)
 
 Certains chefs de famille ont des habitudes de propreté, tandis que les mendiants, ne se baignant jamais, sont couverts d'impureté ; ils sentent mauvais, sont désagréables, répugnants. C'est pourquoi les chefs de famille, à l'égard des mendiants, remettent à plus tard certaines tâches qu'ils auraient autrement effectuées auparavant, et accomplissent d'autres tâches qu'ils auraient autrement remises à plus tard.
 
-C'est pourquoi il a été dit au mendiant, etc., <span id="p125">[<sup><small>p. 125</small></sup>]</span> qu'il ne devrait pas utiliser, pour des postures religieuses, etc., un logement utilisé par le maître de maison. (1)
+C'est pourquoi il a été dit au mendiant, etc., <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> qu'il ne devrait pas utiliser, pour des postures religieuses, etc., un logement utilisé par le maître de maison. (1)
 
 Voici la raison : lorsqu'un mendiant vit avec des chefs de famille, ces derniers peuvent, pour leur propre bien, préparer quelque chose à manger. Ensuite, ils peuvent, pour le bien du mendiant, préparer ou apprêter de la nourriture, etc., et le mendiant peut désirer la manger, la boire ou l'avaler.
 
@@ -97,7 +97,7 @@ Voici la raison : lorsque le mendiant vit avec son maître de maison, il peut y 
 
 C'est pourquoi il a été dit au mendiant, etc. (voir ci-dessus). (3)
 
-Quand, la nuit ou au crépuscule, un mendiant, pour apaiser la nature, laisse la porte ouverte, un voleur, guettant une occasion, pourrait entrer. Il ne convient pas au mendiant de dire : « Ce voleur entre ou n’entre pas, il se cache ou ne se cache pas, il s’infiltre ou ne s’infiltre pas, il parle ou ne parle pas ; il l’a pris, un autre l’a pris, on l’a pris à cet homme ; celui-ci est le voleur, celui-ci est le complice, celui-ci est le meurtrier, il l’a fait » [^380]. Le maître de maison soupçonnera l’ascète, le mendiant, <span id="p126">[<sup><small>p. 126</small></sup>]</span> qui n’est pas un voleur, d’être le voleur. C’est pourquoi on a dit au mendiant, etc. (4)
+Quand, la nuit ou au crépuscule, un mendiant, pour apaiser la nature, laisse la porte ouverte, un voleur, guettant une occasion, pourrait entrer. Il ne convient pas au mendiant de dire : « Ce voleur entre ou n’entre pas, il se cache ou ne se cache pas, il s’infiltre ou ne s’infiltre pas, il parle ou ne parle pas ; il l’a pris, un autre l’a pris, on l’a pris à cet homme ; celui-ci est le voleur, celui-ci est le complice, celui-ci est le meurtrier, il l’a fait » [^380]. Le maître de maison soupçonnera l’ascète, le mendiant, <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> qui n’est pas un voleur, d’être le voleur. C’est pourquoi on a dit au mendiant, etc. (4)
 
 Un moine ou une nonne ne doit pas utiliser, pour des postures religieuses, etc., des hangars d'herbe ou de paille contenant des œufs, des êtres vivants, etc. Cependant, ils peuvent le faire s'ils contiennent peu d'œufs, peu d'êtres vivants, etc. (5)
 
@@ -107,19 +107,19 @@ Un mendiant ne doit pas séjourner dans des lieux d'étape, des maisons de jardi
 
 2\. Si les personnes révérendes vivent à plusieurs reprises dans des lieux de repos, etc., après y avoir séjourné le temps nécessaire, sans passer deux ou trois mois intermédiaires ailleurs, (il doit dire) : « Ô toi qui as vécu longtemps ! Tu commets un péché en répétant ta retraite au même endroit. » (7)
 
-3\. Ici, à l'est, à l'ouest, au nord ou au sud, il y a, à la vérité, des chefs de famille fidèles, des épouses de chefs de famille, etc., qui ne connaissent pas bien les règles de la vie monastique (relatives à la convenance des lieux d'hébergement) ; néanmoins, ils croient, perçoivent, sont convaincus du mérite de loger les mendiants. Ils logent donc de nombreux Sramanas et Brâhma, hôtes, indigents et mendiants, dans des ateliers, des chapelles, des temples, des salles de réunion, des puits, des maisons ou des halls destinés à la tenue de boutiques ou à l'entretien ou à la construction de voitures, des distilleries, des maisons où pousse l'herbe de Darbha, <span id="p127">[<sup><small>p. 127</small></sup>]</span> où l'on travaille l'écorce, les arbres, le bois ou le charbon, les maisons sur les lieux de sépulture, les chambres de retraite près du lieu du sacrifice [^382], les maisons vides, les maisons sur les collines, les grottes, les maisons de pierre ou les palais. Il devrait dire aux personnes révérencieuses qui vivent dans des lieux similaires, comme des ateliers, etc., avec d'autres invités : « Ô toi qui as vécu longtemps ! Tu commets un péché en vivant dans un lieu fréquenté par d'autres sectaires. » (8)
+3\. Ici, à l'est, à l'ouest, au nord ou au sud, il y a, à la vérité, des chefs de famille fidèles, des épouses de chefs de famille, etc., qui ne connaissent pas bien les règles de la vie monastique (relatives à la convenance des lieux d'hébergement) ; néanmoins, ils croient, perçoivent, sont convaincus du mérite de loger les mendiants. Ils logent donc de nombreux Sramanas et Brâhma, hôtes, indigents et mendiants, dans des ateliers, des chapelles, des temples, des salles de réunion, des puits, des maisons ou des halls destinés à la tenue de boutiques ou à l'entretien ou à la construction de voitures, des distilleries, des maisons où pousse l'herbe de Darbha, <span id="p127"><sup><small>[ p. 127 ]</small></sup></span> où l'on travaille l'écorce, les arbres, le bois ou le charbon, les maisons sur les lieux de sépulture, les chambres de retraite près du lieu du sacrifice [^382], les maisons vides, les maisons sur les collines, les grottes, les maisons de pierre ou les palais. Il devrait dire aux personnes révérencieuses qui vivent dans des lieux similaires, comme des ateliers, etc., avec d'autres invités : « Ô toi qui as vécu longtemps ! Tu commets un péché en vivant dans un lieu fréquenté par d'autres sectaires. » (8)
 
 4\. Ici, à l'est, etc. Ils donnent donc, etc. (tout comme au §8 jusqu'à) des palais. Si les mendiants y viennent alors que les autres religieux n'y viennent pas, ils pèchent en vivant dans un lieu non fréquenté par d'autres mendiants. (9)
 
 5\. À l'est, à l'ouest, au nord ou au sud, il y a des chefs de famille fidèles, à savoir un chef de famille ou sa femme, etc., qui diront ainsi : « Il n'est pas convenable que ces ascètes illustres, pieux, vertueux, éloquents, sages et chastes, qui ont cessé toute relation sexuelle, habitent un logement qui est âdhâkarmika [^383] : donnons aux mendiants les logements qui sont prêts à notre usage, à savoir des ateliers, etc., et préparons ensuite des logements pour notre propre usage, à savoir des ateliers, etc. » En entendant et percevant de tels propos, si les personnes révérendes fréquentent de tels logements, à savoir des ateliers, etc., et y vivent, cédés par d'autres personnes, (elles devraient être averties) : « Ô toi qui vis longtemps ! que (le logement est infecté par le péché appelé) var<i>g</i>akriyâ. » (10)
 
-6\. Ici, à l'est, etc. (voir § 8 jusqu'au), on donne des logements à de nombreux Sramanas et Brâhma, hôtes, indigents et mendiants, après les avoir bien comptés, dans des ateliers, etc. <span id="p128">[<sup><small>p. 128</small></sup>]</span> Si les personnes révérendes fréquentent de tels logements, à savoir des ateliers, etc., et y vivent, qui sont cédés par d'autres personnes (elles doivent être averties) : « Ô toi qui vis longtemps ! que (le logement est infecté par le péché appelé) mahâvargakriyâ. » (11)
+6\. Ici, à l'est, etc. (voir § 8 jusqu'au), on donne des logements à de nombreux Sramanas et Brâhma, hôtes, indigents et mendiants, après les avoir bien comptés, dans des ateliers, etc. <span id="p128"><sup><small>[ p. 128 ]</small></sup></span> Si les personnes révérendes fréquentent de tels logements, à savoir des ateliers, etc., et y vivent, qui sont cédés par d'autres personnes (elles doivent être averties) : « Ô toi qui vis longtemps ! que (le logement est infecté par le péché appelé) mahâvargakriyâ. » (11)
 
 7\. Ici, à l'est, etc. Ils donnent donc, pour diverses sortes de <i>S</i>rama<i>n</i>as [^384], après les avoir soigneusement comptés, des logements, à savoir des ateliers, etc. Si les personnes révérendes fréquentent de tels logements, à savoir des ateliers, etc., et y vivent, cédés par d'autres personnes (elles doivent être averties) : « Ô toi qui vis longtemps ! (Ce logement est infecté par le péché appelé) sâvadyakriyâ. » (12)
 
 8\. Ici, à l'est, etc. Ils préparent donc, pour une sorte de Sramanas, des logements, à savoir des ateliers, etc., à cette fin, de graves dommages sont causés à la terre, à l'eau, au feu, aux corps célestes, aux plantes et aux animaux, de graves dommages, une grande cruauté, de graves et multiples péchés : gaspillage d'eau froide ou arrosage (du sol), enduit de bouse de vache, fermeture des portes et sécurisation du lit, allumage du feu. Si les personnes révérendes fréquentent de tels logements, à savoir des ateliers, etc., et mènent dans ces logements une vie ambiguë [^385] (il faut les avertir) : « Ô toi qui vis longtemps ! que (le logement est infecté par le péché appelé) mahâsâvadyakriyâ. » (est)
 
-9\. Mais si les logements, c'est-à-dire les ateliers, etc., sont <span id="p129">[<sup><small>p. 129</small></sup>]</span> préparés par les chefs de famille pour eux-mêmes dans les mêmes circonstances que celles détaillées dans le paragraphe précédent, et que les personnes révérendes fréquentent de tels logements, ils mènent, dans ces logements, une vie sans ambiguïté. « Ô toi qui vis longtemps ! ce (logement est infecté par le très petit péché appelé) alpasâvadyakriyâ. »
+9\. Mais si les logements, c'est-à-dire les ateliers, etc., sont <span id="p129"><sup><small>[ p. 129 ]</small></sup></span> préparés par les chefs de famille pour eux-mêmes dans les mêmes circonstances que celles détaillées dans le paragraphe précédent, et que les personnes révérendes fréquentent de tels logements, ils mènent, dans ces logements, une vie sans ambiguïté. « Ô toi qui vis longtemps ! ce (logement est infecté par le très petit péché appelé) alpasâvadyakriyâ. »
 
 C'est là tout le devoir, etc.
 
@@ -138,7 +138,7 @@ Certains maîtres de maison (qui, ayant appris les conditions requises pour un l
 
 En expliquant [^387] ainsi, il explique vraiment. (Le professeur dit) : Eh bien, il est (un explicateur de la vérité). (1)
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 Si un mendiant, la nuit ou au crépuscule, sort ou entre dans un petit logement, avec une petite porte, un logement bas ou encombré, (il doit avancer) d'abord la main, puis le pied, et ainsi en sortir ou y entrer avec circonspection.
 
@@ -178,7 +178,7 @@ Un moine ou une nonne ne devrait pas utiliser pour des postures religieuses, etc
 
 Pour éviter ces occasions de pécher, il existe quatre règles selon lesquelles le mendiant doit demander un lit.
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 Voilà la première règle pour demander un canapé.
 
@@ -198,7 +198,7 @@ C'est la troisième règle. (20)
 
 Suit maintenant la quatrième règle.
 
-Si un moine ou une nonne demande un lit tel qu'il est étendu, soit sur le sol, soit sur une planche de bois, ils peuvent l'utiliser s'ils l'obtiennent ; sinon, ils <span id="p134">[<sup><small>p. 134</small></sup>]</span> doivent rester accroupis ou assis (pendant toute la nuit).
+Si un moine ou une nonne demande un lit tel qu'il est étendu, soit sur le sol, soit sur une planche de bois, ils peuvent l'utiliser s'ils l'obtiennent ; sinon, ils <span id="p134"><sup><small>[ p. 134 ]</small></sup></span> doivent rester accroupis ou assis (pendant toute la nuit).
 
 C'est la quatrième règle. (21)
 
@@ -208,7 +208,7 @@ Si un moine ou une nonne souhaite rendre un lit, il ne doit pas le faire si le l
 
 Un moine ou une nonne en tournée de mendicité, en résidence ou en pèlerinage de village en village devrait d'abord inspecter les lieux pour y trouver des soins. Le Kevalin dit : « En voici la raison : si un moine ou une nonne, la nuit ou au crépuscule, s'occupe de la nature dans un endroit qu'il n'a pas inspecté auparavant, il risque de trébucher ou de tomber, de se blesser à la main ou au pied, etc., et de tuer toutes sortes d'êtres vivants. » (24)
 
-Un moine ou une nonne peut souhaiter inspecter le sol pour sa couche, loin de celui occupé par un maître ou un sous-maître, etc. (voir II, 1, 10, § 1), ou par un jeune, un vieux, un novice, un malade ou un hôte, soit au fond, soit au milieu, sur un terrain plat ou irrégulier, soit à un endroit où il y a un courant d'air ou où il n'y en a pas. Ils doivent ensuite bien inspecter et balayer <span id="p135">[<sup><small>p. 135</small></sup>]</span> (le sol), et y étendre soigneusement un lit ou une couche parfaitement propre. (25)
+Un moine ou une nonne peut souhaiter inspecter le sol pour sa couche, loin de celui occupé par un maître ou un sous-maître, etc. (voir II, 1, 10, § 1), ou par un jeune, un vieux, un novice, un malade ou un hôte, soit au fond, soit au milieu, sur un terrain plat ou irrégulier, soit à un endroit où il y a un courant d'air ou où il n'y en a pas. Ils doivent ensuite bien inspecter et balayer <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> (le sol), et y étendre soigneusement un lit ou une couche parfaitement propre. (25)
 
 Après avoir étendu un lit ou une couche parfaitement pur, un moine ou une nonne peut souhaiter y monter. Pour ce faire, il doit d'abord s'essuyer de la tête aux pieds ; il peut ensuite monter prudemment sur le lit ou la couche parfaitement pur et y dormir prudemment. (26)
 

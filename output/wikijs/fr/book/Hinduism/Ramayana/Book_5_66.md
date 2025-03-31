@@ -120,7 +120,7 @@ Cette vie oppressée par le malheur et la douleur :
 Et quand le mois est terminé, je
 La proie des géants doit sûrement mourir.
 
-<span id="p427">[<sup><small>p. 427</small></sup>]</span>
+<span id="p427"><sup><small>[ p. 427 ]</small></sup></span>
 
 
 

@@ -44,7 +44,7 @@ Il ne saisit pas le désobéissant avec précipitation, ni ne chasse le péniten
 
 Il ne retient pas sa générosité même si ses serviteurs pèchent; sur la surface de la terre menteuse, il a dressé un festin, dans lequel amis et ennemis peuvent partager.
 
-Il est sans égal, et son royaume est éternel. Sur la tête de l'un il place une couronne ; <span id="p26">[<sup><small>p. 26</small></sup>]</span> un autre il le précipite du trône à terre.
+Il est sans égal, et son royaume est éternel. Sur la tête de l'un il place une couronne ; <span id="p26"><sup><small>[ p. 26 ]</small></sup></span> un autre il le précipite du trône à terre.
 
 Il transforme le feu de son ami en un jardin de fleurs, et à travers les eaux du Nil, il envoie ses ennemis à la perdition.
 
@@ -64,7 +64,7 @@ L'oiseau de la pensée ne peut s'élever jusqu'à la hauteur de Sa présence, ni
 
 Ne pense pas, ô Sadi, que l'on puisse marcher sur le chemin de la pureté sinon sur les traces de Mahomet.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Il est le patriarche des prophètes, le guide du chemin du salut, le médiateur des hommes et le chef du tribunal de jugement. Quelles louanges Sâdi peut-il prononcer parmi toi ? Que la miséricorde de Dieu soit sur toi, ô Prophète, et que la paix soit sur toi !
 
@@ -74,7 +74,7 @@ J'ai parcouru plusieurs régions du globe et passé mes journées en compagnie d
 
 Je regrettais de devoir quitter le jardin du monde les mains vides pour rejoindre mes amis et je réfléchissais : « Les voyageurs apportent du sucre candi d'Egypte en cadeau à leurs amis. Bien que je n'aie pas de sucre candi, j'ai pourtant des mots plus doux. Le sucre que j'apporte n'est pas celui qui est mangé, mais celui que les connaisseurs de la vérité emportent avec respect. »
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 Lorsque j'ai construit ce Palais de la Richesse, [1](/fr/book/Islam/The_Bustan/Notes#n1) je l'ai doté de dix portes d'instruction. [2](/fr/book/Islam/The_Bustan/Notes#n2)
 
@@ -84,10 +84,10 @@ Certes, mes compositions sont estimées en Perse comme le musc inestimable de Kh
 
 ## CONCERNANT ATABAK ABU BAKR, FILS DE SAD [4](/fr/book/Islam/The_Bustan/Notes#n4)
 
-Bien que ne voulant pas écrire à la louange des rois, j'ai inscrit ce livre au nom d'un certain afin que peut-être les pieux puissent dire : Sâdî, qui surpassait tout en éloquence, <span id="p29">[<sup><small>p. 29</small></sup>]</span> a vécu au temps d'Abou Bakr, le fils de Sâd. Ainsi, dans ce livre, sa mémoire restera aussi longtemps que la lune et le soleil seront dans les cieux. Innombrables sont ses vertus - que le monde comble ses désirs, les cieux soient son ami et le Créateur son gardien.
+Bien que ne voulant pas écrire à la louange des rois, j'ai inscrit ce livre au nom d'un certain afin que peut-être les pieux puissent dire : Sâdî, qui surpassait tout en éloquence, <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> a vécu au temps d'Abou Bakr, le fils de Sâd. Ainsi, dans ce livre, sa mémoire restera aussi longtemps que la lune et le soleil seront dans les cieux. Innombrables sont ses vertus - que le monde comble ses désirs, les cieux soient son ami et le Créateur son gardien.
 
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

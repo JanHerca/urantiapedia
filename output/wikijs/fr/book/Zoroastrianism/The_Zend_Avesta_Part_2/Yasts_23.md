@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 XXIII-XXIV. FRIN PAIGHAMBAR ZARTUST ET SAW YAST.
 
@@ -60,7 +60,7 @@ Et Zarathustra parla au roi Vîstâspa, disant : « Je te bénis, ô homme ! Ô 
 
 2\. « Puisses-tu avoir un fils comme Gâmâspa, et qu'il te bénisse comme (Gâmâspa bénit) Vîstâspa (le seigneur) du pays [^1366] !
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 « Puisses-tu être très bienfaisant, comme Mazda !
 
@@ -88,7 +88,7 @@ Et Zarathustra parla au roi Vîstâspa, disant : « Je te bénis, ô homme ! Ô 
 
 « Puisses-tu atteindre le Rangha, dont les rives s'étendent au loin, comme l'était Vafra Navâza [^1376] !
 
-« Puisses-tu être aimé des dieux et vénéré des hommes [^1377] ! <span id="p327">[<sup><small>p. 327</small></sup>]</span> 5\. « Que dix fils naissent de toi [^1378] ! Dans trois d'entre eux, puisses-tu être un Âthravan ! Dans trois d'entre eux, puisses-tu être un guerrier ! Dans trois d'entre eux, puisses-tu être un laboureur [^1379] ! Et puisse l'un d'eux être comme toi, ô Vî<i>s</i>tâspa !
+« Puisses-tu être aimé des dieux et vénéré des hommes [^1377] ! <span id="p327"><sup><small>[ p. 327 ]</small></sup></span> 5\. « Que dix fils naissent de toi [^1378] ! Dans trois d'entre eux, puisses-tu être un Âthravan ! Dans trois d'entre eux, puisses-tu être un guerrier ! Dans trois d'entre eux, puisses-tu être un laboureur [^1379] ! Et puisse l'un d'eux être comme toi, ô Vî<i>s</i>tâspa !
 
 6\. « Puisses-tu être un cheval rapide, comme le Soleil [^1380] !
 
@@ -114,7 +114,7 @@ Et Zarathustra parla au roi Vîstâspa, disant : « Je te bénis, ô homme ! Ô 
 
 « [^1387] Embrassons et propageons les bonnes pensées, les bonnes paroles et les bonnes actions qui ont été faites et qui se feront ici et ailleurs, afin que nous soyons au nombre des bons.
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 'Yathâ ahû vairyô: La volonté du Seigneur est la loi de la sainteté . . . .
 

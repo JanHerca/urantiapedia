@@ -29,9 +29,9 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p394">[<sup><small>p. 394</small></sup>]</span>
+<span id="p394"><sup><small>[ p. 394 ]</small></sup></span>
 
-<span id="p395">[<sup><small>p. 395</small></sup>]</span>
+<span id="p395"><sup><small>[ p. 395 ]</small></sup></span>
 
 Aêshma, page [xix](Introduction#pxix), [xxi](Introduction#pxxi), [161](Gathas_49#p161), [280](Yasna_27#p280), [393](Divers_Fragments#p393).
 
@@ -139,7 +139,7 @@ Azhi Dahâka, [233](Yasna_9#p233).
 
 Âfrînagân, ix, [367](Afrinagan#p367).
 
-Âramaiti(î), [xii](Préface#pxii), [14](Gathas_28#p14), [15](Gathas_28#p15), [27](Gathas_30#p27), [32](Gathas_30#p32), [33](Gathas_30#p33), [46](Gathas_31#p46), [58](Gathas_32#p58), [77](Gathas_33#p77), [87](Gathas_34#p87), [88](Gathas_34#p88), [101](Gathas_43#p101), [109](Gathas_44#p109), [124](Gathas_45#p124), [126](Gathas_45#p126), [146](Gathas_47#p146), [248](Yasna_12#p248), [249](Yasna_12#p249), [150](Gathas_47#p150), [152](Gathas_48#p152), [155](Gathas_48#p155), [156](Gathas_48#p156), [259](Yasna_17#p259), [167](Gathas_49#p167), [176](Gathas_51#p176), [180](Gathas_51#p180), <span id="p396">[<sup><small>p. 396</small></sup>]</span> [186](Gathas_51#p186), [191](Gathas_53#p191), [256](Yasna_16#p256), [257](Yasna_16#p257), [269](Yasna_21#p269), [311](Yasna_60#p311), [325](Yasna_69#p325), [342](Visparad#p342), [360](Visparad#p360), [361](Visparad#p361), [386](The_Gahs#p386).
+Âramaiti(î), [xii](Préface#pxii), [14](Gathas_28#p14), [15](Gathas_28#p15), [27](Gathas_30#p27), [32](Gathas_30#p32), [33](Gathas_30#p33), [46](Gathas_31#p46), [58](Gathas_32#p58), [77](Gathas_33#p77), [87](Gathas_34#p87), [88](Gathas_34#p88), [101](Gathas_43#p101), [109](Gathas_44#p109), [124](Gathas_45#p124), [126](Gathas_45#p126), [146](Gathas_47#p146), [248](Yasna_12#p248), [249](Yasna_12#p249), [150](Gathas_47#p150), [152](Gathas_48#p152), [155](Gathas_48#p155), [156](Gathas_48#p156), [259](Yasna_17#p259), [167](Gathas_49#p167), [176](Gathas_51#p176), [180](Gathas_51#p180), <span id="p396"><sup><small>[ p. 396 ]</small></sup></span> [186](Gathas_51#p186), [191](Gathas_53#p191), [256](Yasna_16#p256), [257](Yasna_16#p257), [269](Yasna_21#p269), [311](Yasna_60#p311), [325](Yasna_69#p325), [342](Visparad#p342), [360](Visparad#p360), [361](Visparad#p361), [386](The_Gahs#p386).
 
 Âsnatar, [342](Visparad#p342), [383](The_Gahs#p383).
 
@@ -257,7 +257,7 @@ Gahanbâr, [367](Afrinagan#p367).
 
 Ganrâk Mînavad, [35](Gathas_30#p35).
 
-<span id="p397">[<sup><small>p. 397</small></sup>]</span>
+<span id="p397"><sup><small>[ p. 397 ]</small></sup></span>
 
 Garôdman, [19](Gathas_28#p19), [109](Gathas_44#p109), [170](Gathas_50#p170), [173](Gathas_50#p173), [184](Gathas_51#p184), [345](Visparad#p345).
 
@@ -391,7 +391,7 @@ Maidhyâirya, [198](Yasna_1#p198), [205](Yasna_2#p205), [210](Yasna_3#p210), [21
 
 Maidhyô-mâh, [xxvi](Introduction#pxxvi), [xxviii](Introduction#pxxviii), [186](Gathas_51#p186).
 
-<span id="p398">[<sup><small>p. 398</small></sup>]</span>
+<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 Maidhyô-shema, [198](Yasna_1#p198), [205](Yasna_2#p205), [210](Yasna_3#p210), [216](Yasna_4#p216), [220](Yasna_6#p220), [224](Yasna_7#p224), [335](Visparad#p335), [338](Visparad#p338), [368](Afrinagan#p368), [369](Afrinagan#p369), [372](Afrinagan#p372).
 
@@ -527,7 +527,7 @@ Résurrection, [391](Divers_Fragments#p391).
 
 <i>Ri</i>shi, [91](Gathas_43#p91).
 
-<span id="p399">[<sup><small>p. 399</small></sup>]</span>
+<span id="p399"><sup><small>[ p. 399 ]</small></sup></span>
 
 Sadducéisme, [xxxii](Introduction#pxxxii).
 
@@ -665,7 +665,7 @@ Yasna, [ix](Préface#pix), [2](Gathas_Introduction#p2), [91](Gathas_43#p91), [19
 
 Oui, [1](Gathas_Introduction#p1).
 
-Yazad, [207](Yasna_2#p207), [209](Yasna_3#p209), [212](Yasna_3#p212), [218](Yasna_4#p218), [227](Yasna_7#p227), [255](Yasna_15#p255), [258](Yasna_16#p258), [259](Yasna_17#p259), [272](Yasna_22#p272), [306](Yasna_57#p306), [320](Yasna_65#p320), [327](Yasna_71#p327), <span id="p400">[<sup><small>p. 400</small></sup>]</span> [328](Yasna_71#p328), [331](Yasna_71#p331), [337](Visparad#p337), [347](Visparad#p347), [348](Visparad#p348), [374](Afrinagan#p374), [380](The_Gahs#p380), [389](Divers_Fragments#p389), [391](Divers_Fragments#p391), [392](Divers_Fragments#p392).
+Yazad, [207](Yasna_2#p207), [209](Yasna_3#p209), [212](Yasna_3#p212), [218](Yasna_4#p218), [227](Yasna_7#p227), [255](Yasna_15#p255), [258](Yasna_16#p258), [259](Yasna_17#p259), [272](Yasna_22#p272), [306](Yasna_57#p306), [320](Yasna_65#p320), [327](Yasna_71#p327), <span id="p400"><sup><small>[ p. 400 ]</small></sup></span> [328](Yasna_71#p328), [331](Yasna_71#p331), [337](Visparad#p337), [347](Visparad#p347), [348](Visparad#p348), [374](Afrinagan#p374), [380](The_Gahs#p380), [389](Divers_Fragments#p389), [391](Divers_Fragments#p391), [392](Divers_Fragments#p392).
 
 Yâirya, [198](Yasna_1#p198), [368](Afrinagan#p368), [379](Les_Gahs#p379).
 

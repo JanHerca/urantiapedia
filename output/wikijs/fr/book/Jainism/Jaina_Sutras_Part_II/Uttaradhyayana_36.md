@@ -36,7 +36,7 @@ TRENTE-SIXIÈME CONFÉRENCE. DES ÊTRES VIVANTS ET DES CHOSES SANS VIE [^581].
 
 Apprenez maintenant de moi, avec un esprit attentif, la division des êtres vivants et des choses sans vie [^582], qu'un moine doit connaître pour s'efforcer de se maîtriser. (1)
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 Les Êtres Vivants et les Choses sans vie composent ce monde (Lôka) ; mais l'espace où ne se trouvent que les Choses sans vie est appelé le Non-monde (Alôka). (2)
 
@@ -46,7 +46,7 @@ A. Choses sans vie.
 
 Les choses sans vie sont 1. possédant une forme, 2. sans forme ; les choses sans forme sont de dix sortes, celles possédant une forme sont de quatre sortes. (4)
 
-(1) Les dix sortes de choses sans forme : 1. le Dharma, 2. ses divisions, 3. ses parties indivisibles ; 4. l’Adharma, 5. ses divisions, 6. ses parties indivisibles ; 7. l’espace, <span id="p208">[<sup><small>p. 208</small></sup>]</span> 8. ses divisions, 9. ses parties indivisibles, et 10. le temps [^583]. (5, 6)
+(1) Les dix sortes de choses sans forme : 1. le Dharma, 2. ses divisions, 3. ses parties indivisibles ; 4. l’Adharma, 5. ses divisions, 6. ses parties indivisibles ; 7. l’espace, <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> 8. ses divisions, 9. ses parties indivisibles, et 10. le temps [^583]. (5, 6)
 
 Dharma et Adharma sont coextensifs avec le Monde (Lôka) ; l'espace remplit le Monde et le Non-monde (Alôka) ; le temps existe dans ce qu'on appelle le lieu du temps [^584]. (7)
 
@@ -60,7 +60,7 @@ Les choses composées et les atomes se présentent comme des choses individuelle
 
 Les choses subtiles se produisent partout dans le monde, les choses grossières seulement dans une partie du monde.
 
-<span id="p209">[<sup><small>p. 209</small></sup>]</span>
+<span id="p209"><sup><small>[ p. 209 ]</small></sup></span>
 
 Je vais maintenant donner leur division en quatre par rapport au temps. (12)
 
@@ -80,7 +80,7 @@ Ceux qui se développent en ce qui concerne le goût sont de cinq sortes : 1. am
 
 Ceux qui se développent en fonction du toucher sont de huit types : 1. dur, 2. doux, 3. lourd, 4. léger, 5. froid, 6. chaud, 7. lisse et 8. rugueux.
 
-<span id="p210">[<sup><small>p. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 De cette manière, les substances qui se développent en fonction du toucher ont été déclarées. (20, 21)
 
@@ -126,7 +126,7 @@ D'où les âmes parfaites sont-elles exclues ? Où résident-elles ? Où quitten
 
 Les âmes parfaites sont exclues du non-monde (Alôka) ; elles résident au sommet du monde ; elles quittent leur corps ici (en bas), et vont là, en atteignant la perfection. (57)
 
-Douze Yô<i>g</i>anas au-dessus du (Vimâna) Sarvârtha se trouve <span id="p212">[<sup><small>p. 212</small></sup>]</span> le lieu appelé Îshatprâgbhâra [^593], qui a la forme d'un parapluie ; (c'est là que vont les âmes parfaites). (58)
+Douze Yô<i>g</i>anas au-dessus du (Vimâna) Sarvârtha se trouve <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> le lieu appelé Îshatprâgbhâra [^593], qui a la forme d'un parapluie ; (c'est là que vont les âmes parfaites). (58)
 
 Il mesure quatre mille cinq cent mille Yô<i>g</i>anas de long et autant de large, et sa circonférence est un peu plus de trois fois plus grande. (59)
 
@@ -142,7 +142,7 @@ Là, au sommet du monde, résident les âmes bienheureuses, parfaites, débarras
 
 La dimension d'une âme parfaite est égale aux deux tiers de la taille que l'individu avait dans sa dernière existence. (65)
 
-Les âmes parfaites, considérées individuellement (en tant qu'individus) ont un commencement mais pas de fin ; considérées <span id="p213">[<sup><small>p. 213</small></sup>]</span> collectivement [^597] (en tant que classe), elles n'ont ni commencement ni fin. (66)
+Les âmes parfaites, considérées individuellement (en tant qu'individus) ont un commencement mais pas de fin ; considérées <span id="p213"><sup><small>[ p. 213 ]</small></sup></span> collectivement [^597] (en tant que classe), elles n'ont ni commencement ni fin. (66)
 
 Ils n'ont pas de forme (visible), ils sont constitués de Vie de part en part, ils sont développés en connaissance et en foi, et ils possèdent un bonheur primordial qui n'admet aucune comparaison. (67)
 
@@ -162,7 +162,7 @@ Les bruts sont de trente-six sortes : (73)
 
 Terre, gravier, sable, pierres, roches, sel gemme [^598], fer, cuivre, étain, plomb, argent, or et diamant ; (74)
 
-Orpiment, vermillon, réalgar, Sâsaka [^599], antimoine, <span id="p214">[<sup><small>p. 214</small></sup>]</span> corail, Abhrapa<i>t</i>ala, Abhravâluka ; ce sont des variétés de corps (terrestres) grossiers et des sortes de pierres précieuses. (75)
+Orpiment, vermillon, réalgar, Sâsaka [^599], antimoine, <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> corail, Abhrapa<i>t</i>ala, Abhravâluka ; ce sont des variétés de corps (terrestres) grossiers et des sortes de pierres précieuses. (75)
 
 Jacinthe, natron, Aṅka, cristal, Lôhitâksha, émeraude, Masâragalla, Bhu<i>g</i>amô<i>k</i>aka et saphir ; (76)
 
@@ -178,7 +178,7 @@ En ce qui concerne le flux continu (ou le développement d'un corps terrestre), 
 
 Vingt-deux mille ans est la durée la plus longue de la vie terrestre ; la plus courte est inférieure à un muhûrta. (81)
 
-La plus longue durée du corps des Vies Terrestres, si elles ne quittent pas ce (type de) corps [^602], est un <span id="p215">[<sup><small>p. 215</small></sup>]</span> temps incommensurable ; la plus courte est inférieure à un muhûrta. (82)
+La plus longue durée du corps des Vies Terrestres, si elles ne quittent pas ce (type de) corps [^602], est un <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> temps incommensurable ; la plus courte est inférieure à un muhûrta. (82)
 
 L'intervalle le plus long entre le moment où une Vie terrestre quitte son corps (jusqu'à son retour) est un temps infini ; le plus court est inférieur à un Muhûrta. (83)
 
@@ -198,7 +198,7 @@ Sept mille ans est la durée maximale de vie des Vies Aquatiques, etc. (comme au
 
 Les plantes grossières et pleinement développées sont de deux sortes : soit plusieurs d'entre elles ont un corps en commun, soit chacune a son propre corps. (94)
 
-Ceux qui ont chacun leur propre corps sont de <span id="p216">[<sup><small>p. 216</small></sup>]</span> plusieurs espèces : arbres, plantes arbustives [^603], arbustes [^604], grandes plantes [^605], plantes rampantes [^606], herbe [^607] ; (95)
+Ceux qui ont chacun leur propre corps sont de <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> plusieurs espèces : arbres, plantes arbustives [^603], arbustes [^604], grandes plantes [^605], plantes rampantes [^606], herbe [^607] ; (95)
 
 Palmiers [^608], plantes à tiges noueuses [^609], champignons [^610], plantes aquatiques, plantes annuelles [^611] et herbes [^612]. On les appelle plantes possédant chacune leur propre corps. (96)
 
@@ -206,7 +206,7 @@ Les plantes dont beaucoup ont un corps en commun sont de plusieurs sortes [^613]
 
 Harilî, Sirilî, Sassirilî, <i>G</i>âvaî, Kêyakandalî [^616], oignon, ail, plantain, Ku<i>d</i>uvvaya [^617] ; (98)
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Lôhi<i>n</i>îhûya, Thîhûya, Tuhaga, Ka<i>n</i>ha [^618], Va<i>g</i><i>g</i>akanda [^619], Sûra<i>n</i>aya [^620]; (99)
 
@@ -228,7 +228,7 @@ Les plus grossiers et les plus développés sont de plusieurs sortes : charbon, 
 
 Des météores, des éclairs et bien d’autres encore.
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Les Vies de Feu subtiles ne sont que d'une seule sorte, car il n'y a pas de variété. (111)
 
@@ -244,7 +244,7 @@ Les Vies du Vent subtiles ne sont que d'une seule sorte, car il n'y a pas de var
 
 Les espèces subtiles, etc. (voir ci-dessus 79-84. Remplacer les Vies terrestres par Vies du Vent. Au verset 123, correspondant au verset 114, lire : « La plus longue durée de vie des Vies du Vent est de trois mille ans » ; le reste comme ci-dessus). (121-126)
 
-<span id="p219">[<sup><small>p. 219</small></sup>]</span>
+<span id="p219"><sup><small>[ p. 219 ]</small></sup></span>
 
 γ. Les êtres mobiles dotés de corps organiques (c'est-à-dire les animaux) sont de quatre sortes : i. ceux possédant deux organes des sens, ii. ceux à trois organes, iii. ceux à quatre organes, iv. ceux à cinq organes. (127)
 
@@ -258,7 +258,7 @@ Ceux-ci, et d'autres encore, constituent les nombreux êtres dotés de deux orga
 
 En ce qui concerne le flux continu, etc. (comme au verset 80). (132)
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 La durée de la vie des êtres dotés de deux organes des sens est de douze ans au maximum ; la plus courte est inférieure à un muhûrta. (133)
 
@@ -276,7 +276,7 @@ Cochenille, etc. Il en existe donc de nombreuses espèces. Elles ne vivent toute
 
 141-145 = 132-136. (Remplacez par « êtres dotés de trois organes des sens ». La durée la plus longue, etc., est de quarante-neuf jours, verset 142 = 133.)
 
-iii. Les êtres dotés de quatre organes sensoriels sont de deux sortes : les organes subtils et les organes grossiers. Tous deux sont soit <span id="p221">[<sup><small>p. 221</small></sup>]</span> développés, soit sous-développés. Apprenez-moi leur subdivision. (146)
+iii. Les êtres dotés de quatre organes sensoriels sont de deux sortes : les organes subtils et les organes grossiers. Tous deux sont soit <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> développés, soit sous-développés. Apprenez-moi leur subdivision. (146)
 
 Andhiya, Pottiyâ, mouches, moustiques, abeilles, mites, Dhiṅka<i>n</i>a et Kaṅka<i>n</i>a ; (147)
 
@@ -312,7 +312,7 @@ La durée de la vie des habitants de l'enfer est aussi celle de leur maintien da
 
 Versets 169, 170 = 83, 84. (Remplacez par habitants de l'enfer.)
 
-<i>b</i>. Les animaux qui possèdent cinq organes des sens sont de deux sortes : ceux qui naissent par generatio <span id="p223">[<sup><small>p. 223</small></sup>]</span> aequivoca [^640], et ceux qui naissent du ventre maternel. (171)
+<i>b</i>. Les animaux qui possèdent cinq organes des sens sont de deux sortes : ceux qui naissent par generatio <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> aequivoca [^640], et ceux qui naissent du ventre maternel. (171)
 
 Chacun d'eux est de trois sortes : 1. aquatiques, 2. terrestres et 3. aériens. Apprenez-moi leur subdivision. (172)
 
@@ -336,7 +336,7 @@ La durée la plus longue de la permanence des animaux aquatiques dans le (même 
 
 (4) Animaux ayant des orteils avec des ongles, comme les lions, etc. (180)
 
-Les reptiles sont de deux sortes : 1. ceux qui marchent sur leurs bras, comme les lézards, etc., et 2. ceux qui se meuvent sur leur poitrine, comme les serpents, etc. Tous deux sont de plusieurs sortes. (181) <span id="p224">[<sup><small>p. 224</small></sup>]</span> 182, 183 = 159, 160.
+Les reptiles sont de deux sortes : 1. ceux qui marchent sur leurs bras, comme les lézards, etc., et 2. ceux qui se meuvent sur leur poitrine, comme les serpents, etc. Tous deux sont de plusieurs sortes. (181) <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> 182, 183 = 159, 160.
 
 La durée de vie la plus longue des animaux terrestres est de trois Palyôpamâs ; la plus courte est inférieure à un muhûrta. (184)
 
@@ -356,7 +356,7 @@ La durée la plus longue (de la permanence des animaux aériens dans le même ty
 
 <i>c</i>. Les hommes sont de deux sortes ; écoutez ma description : les hommes issus de la generatio aequivoca [^647] et les hommes nés du ventre maternel. (194)
 
-Ceux qui naissent de l'utérus sont de trois sortes <span id="p225">[<sup><small>p. 225</small></sup>]</span> : ceux qui vivent dans le Karmabhûmi [^648], ceux qui vivent dans l'Akarmabhûmi et ceux qui vivent sur les continents mineurs [^649]. (195)
+Ceux qui naissent de l'utérus sont de trois sortes <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> : ceux qui vivent dans le Karmabhûmi [^648], ceux qui vivent dans l'Akarmabhûmi et ceux qui vivent sur les continents mineurs [^649]. (195)
 
 Ils comportent, dans le même ordre, quinze [^650], trente [^651] et vingt-huit subdivisions. Voici les numéros transmis. (196)
 
@@ -370,7 +370,7 @@ Il existe dix sortes de Bhavanavâsins (= Bhaumêyikas), huit de ceux qui vivent
 
 1\. Les Bhavanavâsins sont : les Asura-, Nâga-, Suvar<i>n</i>a-, Vidyut-, Agni-, Dvîpa-, Udadhi-, Vâta- et Gha<i>n</i>ika-(Kumâras [^652]). (2(15)
 
-2\. Les huit sortes de Vyantaras sont : les Pi<i>s</i>â<i>k</i>as, <span id="p226">[<sup><small>p. 226</small></sup>]</span> Bhûtas, les Yakshas, ​​les Râkshasas, les Kinnaras, les Kimpurushas, ​​les Mahôragas et les Gandharvas. (206)
+2\. Les huit sortes de Vyantaras sont : les Pi<i>s</i>â<i>k</i>as, <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> Bhûtas, les Yakshas, ​​les Râkshasas, les Kinnaras, les Kimpurushas, ​​les Mahôragas et les Gandharvas. (206)
 
 3\. Les lunes, les soleils, les Nakshatras, les planètes et les multitudes d'étoiles sont les cinq demeures des Gyôtishkas. (207)
 
@@ -388,7 +388,7 @@ Le milieu du milieu, le plus haut du milieu, le plus bas du plus haut, le milieu
 
 Les plus hauts des plus hauts. Ce sont les dieux Graivêyaka.
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 β´. Les Vigayas, les Vaigayantas, les Gayantas, les Aparâgitas (214)
 
@@ -416,7 +416,7 @@ Dans Brahmalôka, Kalpa (<i>a</i>) est dix Sâgarôpamâs, (<i>b</i>) sept. (225
 
 Dans Lantaka Kalpa (<i>a</i>) il y a quatorze Sâgarôpamâs, (<i>b</i>) dix. (226)
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 Dans Mahâsukla, Kalpa(a) contient dix-sept Sâgarôpamâs, (b) quatorze [^657]. (227)
 
@@ -448,7 +448,7 @@ Dans la huitième (région de Graivêyika) (<i>a</i>) se trouvent trente Sâgar�
 
 Dans la neuvième (région de Graivêyika) (<i>a</i>) se trouvent trente et un Sâgarôpamâs, (<i>b</i>) trente. (241)
 
-Dans les quatre cieux (des dieux Anuttara), commençant <span id="p229">[<sup><small>p. 229</small></sup>]</span> par Vi<i>g</i>aya [^658], (<i>a</i>) se trouvent trente-trois Sâgarôpamâs, (<i>b</i>) trente et un. (242)
+Dans les quatre cieux (des dieux Anuttara), commençant <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> par Vi<i>g</i>aya [^658], (<i>a</i>) se trouvent trente-trois Sâgarôpamâs, (<i>b</i>) trente et un. (242)
 
 Dans le grand Vimâna Sarvârtha(siddha), il n'y a pas de différence entre la durée de vie la plus longue et la plus courte, mais elle est toujours de trente-trois Sâgarôpamâs. (243)
 
@@ -462,7 +462,7 @@ Après avoir vécu comme un <i>S</i>rama<i>n</i> pendant de nombreuses années, 
 
 La durée la plus longue de la mortification est de douze ans, la durée moyenne d'un an et la plus courte de six mois. (250)
 
-<span id="p230">[<sup><small>p. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 Au cours des quatre premières années, il devra s'abstenir de nourriture préparée [^662], au cours des quatre années suivantes, il devra observer divers jeûnes. (251)
 
@@ -478,7 +478,7 @@ Les âmes qui nourrissent des opinions hérétiques, commettent des péchés et 
 
 Les âmes qui chérissent les opinions orthodoxes, ne commettent pas de péchés et sont enveloppées de Lê<i>s</i>yâ blanche, atteindront Bôdhi au moment de la mort. (257)
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Les âmes qui chérissent les opinions hérétiques, commettent des péchés et sont enveloppées de Lê<i>s</i>yâ noir, n'atteindront pas Bôdhi au moment de la mort. (258)
 

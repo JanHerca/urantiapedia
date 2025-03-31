@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:12Z
   </table>
 </figure>
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 [^60]
 
@@ -54,13 +54,13 @@ Explication des lignes séparées par le duc de <i>K</i>âu.
 
 4\. Dans le quatrième NEUF, indivisible (on voit son sujet comme le dragon regardant) comme s'il bondissait, mais toujours dans les profondeurs. Il n'y aura pas d'erreur.
 
-5\. Dans le cinquième NEUF, indivisible, (nous voyons son sujet comme) le dragon volant dans le ciel. Il sera avantageux de rencontrer le grand homme. <span id="p58">[<sup><small>p. 58</small></sup>]</span> 6\. Dans le sixième NEUF (ou le plus élevé), indivisible, (nous voyons son sujet comme) le dragon dépassant les limites appropriées. Il y aura lieu de se repentir.
+5\. Dans le cinquième NEUF, indivisible, (nous voyons son sujet comme) le dragon volant dans le ciel. Il sera avantageux de rencontrer le grand homme. <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> 6\. Dans le sixième NEUF (ou le plus élevé), indivisible, (nous voyons son sujet comme) le dragon dépassant les limites appropriées. Il y aura lieu de se repentir.
 
 7\. (Les lignes de cet hexagramme sont toutes fortes et indivisibles, comme le montre) l'emploi du nombre NEUF. Si la multitude de dragons apparaissant ainsi se décapitait, la fortune serait au rendez-vous.
 
 
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 [^61]
 
@@ -68,7 +68,7 @@ Explication des lignes séparées par le duc de <i>K</i>âu.
 
 ![](image/book/Confucianism/The_I_Ching/hex000000.jpg)
 
-Khwăn (représente) ce qui est grand et originel, pénétrant, avantageux, correct et possédant la fermeté d'une jument. Lorsque l'homme supérieur (ici <span id="p60">[<sup><small>p. 60</small></sup>]</span> visé) doit entreprendre un mouvement, s'il prend l'initiative, il s'égarera ; s'il suit, il trouvera son (vrai) maître. L'avantage se verra dans le fait qu'il se fera des amis au sud-ouest et qu'il en perdra au nord-est. S'il demeure dans la correction et la fermeté, il aura de la chance.
+Khwăn (représente) ce qui est grand et originel, pénétrant, avantageux, correct et possédant la fermeté d'une jument. Lorsque l'homme supérieur (ici <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> visé) doit entreprendre un mouvement, s'il prend l'initiative, il s'égarera ; s'il suit, il trouvera son (vrai) maître. L'avantage se verra dans le fait qu'il se fera des amis au sud-ouest et qu'il en perdra au nord-est. S'il demeure dans la correction et la fermeté, il aura de la chance.
 
 1\. Dans le premier SIX, divisé, (nous voyons son sujet) marchant sur le givre. La glace solide viendra (bientôt).
 
@@ -78,13 +78,13 @@ Khwăn (représente) ce qui est grand et originel, pénétrant, avantageux, corr
 
 4\. Le quatrième SIX, divisé, (montre le symbole d') un sac fermé. Il n'y aura ni blâme ni éloge.
 
-5\. Le cinquième SIX, divisé, (montre) le vêtement inférieur jaune. Il y aura une grande chance. <span id="p61">[<sup><small>p. 61</small></sup>]</span> 6\. Le sixième SIX, divisé (montre) des dragons combattant dans la nature. Leur sang est violet et jaune.
+5\. Le cinquième SIX, divisé, (montre) le vêtement inférieur jaune. Il y aura une grande chance. <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> 6\. Le sixième SIX, divisé (montre) des dragons combattant dans la nature. Leur sang est violet et jaune.
 
 7\. (Les lignes de cet hexagramme sont toutes faibles et divisées, comme le montre) l'emploi du nombre six. Si ceux (qui sont ainsi représentés) sont constamment corrects et fermes, l'avantage en résultera.
 
 
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 [^62]
 
@@ -98,7 +98,7 @@ Khwăn (représente) ce qui est grand et originel, pénétrant, avantageux, corr
 
 2\. Le second SIX, divisé, montre (son sujet) affligé et contraint de retourner ; (même) les chevaux de son char semblent reculer. (Mais) ce n'est pas un spoliateur qui l'attaque, mais quelqu'un qui la cherche pour épouse. La jeune femme maintient sa ferme rectitude et refuse l'union. Dix ans plus tard, elle sera unie et aura des enfants.
 
-3\. Le troisième SIX, divisé, montre un homme suivant le cerf sans le garde forestier, et se retrouvant seul au milieu de la forêt. L'homme supérieur, conscient des risques secrets, pense qu'il vaut mieux abandonner la poursuite. S'il poursuivait sa route, il le regretterait. <span id="p63">[<sup><small>p. 63</small></sup>]</span> 4\. Le quatrième SIX, divisé, montre (son sujet) comme une dame dont les chevaux du char semblent en retraite. Elle recherche cependant (l'aide de) celui qui la cherche pour épouse. L'avenir sera heureux ; tout se passera bien.
+3\. Le troisième SIX, divisé, montre un homme suivant le cerf sans le garde forestier, et se retrouvant seul au milieu de la forêt. L'homme supérieur, conscient des risques secrets, pense qu'il vaut mieux abandonner la poursuite. S'il poursuivait sa route, il le regretterait. <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> 4\. Le quatrième SIX, divisé, montre (son sujet) comme une dame dont les chevaux du char semblent en retraite. Elle recherche cependant (l'aide de) celui qui la cherche pour épouse. L'avenir sera heureux ; tout se passera bien.
 
 5\. Le cinquième NEUF, indivisible, montre les difficultés rencontrées par son sujet pour dispenser les riches faveurs qu'il pourrait attendre de lui. Avec fermeté et correction, la fortune sera au rendez-vous dans les petites choses ; avec elles aussi, le malheur surviendra dans les grandes choses.
 
@@ -106,7 +106,7 @@ Khwăn (représente) ce qui est grand et originel, pénétrant, avantageux, corr
 
 
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 [^63]
 
@@ -114,7 +114,7 @@ Khwăn (représente) ce qui est grand et originel, pénétrant, avantageux, corr
 
 ![](image/book/Confucianism/The_I_Ching/hex100010.jpg)
 
-Măng (indique que dans le cas qu'il présuppose) il y aura progrès et succès. Je ne vais pas chercher le jeune et l'inexpérimenté, <span id="p65">[<sup><small>p. 65</small></sup>]</span> mais il vient me chercher. Lorsqu'il fait preuve (de la sincérité qui caractérise) le premier recours à la divination, je l'instruis. S'il s'y adonne une deuxième et une troisième fois, c'est gênant ; et je n'instruis pas celui qui est gênant. Il y aura avantage à être ferme et correct.
+Măng (indique que dans le cas qu'il présuppose) il y aura progrès et succès. Je ne vais pas chercher le jeune et l'inexpérimenté, <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> mais il vient me chercher. Lorsqu'il fait preuve (de la sincérité qui caractérise) le premier recours à la divination, je l'instruis. S'il s'y adonne une deuxième et une troisième fois, c'est gênant ; et je n'instruis pas celui qui est gênant. Il y aura avantage à être ferme et correct.
 
 1\. Les six premiers, divisés, concernent la dissipation de l'ignorance. Il sera avantageux d'utiliser la punition à cette fin et de libérer l'esprit des entraves. Mais persister dans cette voie (de punition) sera source de regret.
 
@@ -130,7 +130,7 @@ Măng (indique que dans le cas qu'il présuppose) il y aura progrès et succès.
 
 
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 [^64]
 
@@ -152,13 +152,13 @@ Hsü laisse entendre qu'avec la sincérité qui y est affichée, il y aura un br
 
 6\. Le SIX le plus haut, divisé, montre son sujet entré dans la caverne. (Mais) trois invités viennent, sans y être pressés, (à son secours).
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 S'il les reçoit avec respect, il y aura de la chance à la fin.
 
 
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 [^65]
 
@@ -182,7 +182,7 @@ S. Le cinquième NEUF, indivis, montre son sujet en lutte ; et avec une grande c
 
 
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 [^66]
 
@@ -190,7 +190,7 @@ S. Le cinquième NEUF, indivis, montre son sujet en lutte ; et avec une grande c
 
 ![](image/book/Confucianism/The_I_Ching/hex000010.jpg)
 
-Sze indique comment, dans le cas qu'il suppose, avec fermeté et correction, et (un dirigeant d') âge <span id="p72">[<sup><small>p. 72</small></sup>]</span> et expérience, il y aura de la bonne fortune et aucune erreur.
+Sze indique comment, dans le cas qu'il suppose, avec fermeté et correction, et (un dirigeant d') âge <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> et expérience, il y aura de la bonne fortune et aucune erreur.
 
 1\. Le premier SIX, divisé, montre l'armée sortant selon les règles (pour un tel mouvement). Si celles-ci ne sont pas bonnes, il y aura du mal.
 
@@ -206,7 +206,7 @@ Sze indique comment, dans le cas qu'il suppose, avec fermeté et correction, et 
 
 
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 [^67]
 
@@ -214,7 +214,7 @@ Sze indique comment, dans le cas qu'il suppose, avec fermeté et correction, et 
 
 ![](image/book/Confucianism/The_I_Ching/hex010000.jpg)
 
-Pî indique que (dans les conditions qu'il suppose) il y a bonne fortune. Mais que (le principal visé en cela) se réexamine, (comme si) <span id="p74">[<sup><small>p. 74</small></sup>]</span> par divination, pour savoir si sa vertu est grande, ininterrompue et ferme. S'il en est ainsi, il n'y aura pas d'erreur. Ceux qui n'ont pas de repos viendront alors à lui ; et pour ceux qui tardent (trop) à venir, ce sera mauvais.
+Pî indique que (dans les conditions qu'il suppose) il y a bonne fortune. Mais que (le principal visé en cela) se réexamine, (comme si) <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> par divination, pour savoir si sa vertu est grande, ininterrompue et ferme. S'il en est ainsi, il n'y aura pas d'erreur. Ceux qui n'ont pas de repos viendront alors à lui ; et pour ceux qui tardent (trop) à venir, ce sera mauvais.
 
 1\. Le premier SIX, divisé, montre que son sujet cherche par sa sincérité à gagner l'attachement de son objet. Il n'y aura pas d'erreur. Que (la poitrine) soit pleine de sincérité comme un vase en terre cuite l'est de son contenu, et elle apportera finalement d'autres avantages.
 
@@ -222,7 +222,7 @@ Pî indique que (dans les conditions qu'il suppose) il y a bonne fortune. Mais q
 
 Dans le troisième SIX, divisé, nous voyons son sujet chercher l'union avec ceux avec lesquels il ne devrait pas être associé.
 
-4\. Dans le quatrième SIX, divisé, nous voyons son sujet <span id="p75">[<sup><small>p. 75</small></sup>]</span> rechercher l'union avec l'au-delà. Avec une correction ferme, la bonne fortune sera au rendez-vous.
+4\. Dans le quatrième SIX, divisé, nous voyons son sujet <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> rechercher l'union avec l'au-delà. Avec une correction ferme, la bonne fortune sera au rendez-vous.
 
 5\. Le cinquième NEUF, indivis, offre l'exemple le plus illustre de la recherche de l'union et de l'attachement. (Nous semblons y voir) le roi poussant sa poursuite du gibier (uniquement) dans trois directions, et laissant s'échapper tous les animaux devant lui, tandis que les habitants de ses villes ne se préviennent pas mutuellement (pour l'empêcher). La fortune sera au rendez-vous.
 
@@ -230,7 +230,7 @@ Dans le troisième SIX, divisé, nous voyons son sujet chercher l'union avec ceu
 
 
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 [^68]
 
@@ -242,7 +242,7 @@ Hsiâo <i>Kh</i>û indique que (sous ses conditions) il y aura progrès et succ�
 
 1\. Le premier NEUF, indivisible, montre son sujet revenant et poursuivant sa propre voie. Dans quelle erreur tomberait-il ? La chance lui sourira.
 
-2\. Le deuxième NEUF, indivis, montre son sujet, par l'attraction (de la ligne précédente), revenant (au bon cours). Il y aura de la bonne fortune. <span id="p77">[<sup><small>p. 77</small></sup>]</span> 3\. Le troisième NEUF, indivis, suggère l'idée d'une voiture dont la sangle a été retirée, ou d'un mari et d'une femme se regardant en détournant les yeux.
+2\. Le deuxième NEUF, indivis, montre son sujet, par l'attraction (de la ligne précédente), revenant (au bon cours). Il y aura de la bonne fortune. <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> 3\. Le troisième NEUF, indivis, suggère l'idée d'une voiture dont la sangle a été retirée, ou d'un mari et d'une femme se regardant en détournant les yeux.
 
 4\. Le quatrième SIX, divisé, montre que son sujet est sincère. Le danger d'effusion de sang est ainsi écarté et son appréhension est dissipée. Il n'y aura pas d'erreur.
 
@@ -252,7 +252,7 @@ Hsiâo <i>Kh</i>û indique que (sous ses conditions) il y aura progrès et succ�
 
 
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 [^69]
 
@@ -260,7 +260,7 @@ Hsiâo <i>Kh</i>û indique que (sous ses conditions) il y aura progrès et succ�
 
 ![](image/book/Confucianism/The_I_Ching/hex111011.jpg)
 
-(Lî suggère l'idée de) quelqu'un qui marche sur la queue d'un tigre, qui ne le mord pas. Il y aura progrès et succès. <span id="p79">[<sup><small>p. 79</small></sup>]</span> 1\. Le premier NEUF, indivis, montre son sujet marchant sur son chemin habituel. S'il avance, il n'y aura pas d'erreur.
+(Lî suggère l'idée de) quelqu'un qui marche sur la queue d'un tigre, qui ne le mord pas. Il y aura progrès et succès. <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> 1\. Le premier NEUF, indivis, montre son sujet marchant sur son chemin habituel. S'il avance, il n'y aura pas d'erreur.
 
 2\. Le deuxième NEUF, indivis, montre son sujet empruntant le chemin qui est plat et facile ; un homme tranquille et solitaire, pour qui, s'il est ferme et correct, il y aura de la bonne fortune.
 
@@ -274,7 +274,7 @@ Hsiâo <i>Kh</i>û indique que (sous ses conditions) il y aura progrès et succ�
 
 
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 [^70]
 
@@ -290,17 +290,17 @@ En Thâi (nous voyons) le petit s'en aller et le grand arriver. (Cela indique) q
 
 3\. Le troisième NEUF, indivisible, montre que, s'il n'existe pas de paix qui ne soit sujette à être perturbée, ni de départ (des méchants) qui ne revienne jamais, pourtant, lorsqu'on est ferme et correct, conscient des détresses qui peuvent survenir, on ne commettra aucune erreur. Il n'y a pas lieu de s'attrister face à la certitude (de tels changements récurrents) ; et dans cet état d'esprit, on peut savourer (longtemps) le bonheur (présent).
 
-4\. Le quatrième SIX, divisé, montre son sujet flottant (vers le bas) ; — ne comptant pas sur ses propres riches <span id="p82">[<sup><small>p. 82</small></sup>]</span> ressources, mais appelant ses voisins. (Ils viennent tous) non pas comme ayant reçu un avertissement, mais dans la sincérité (de leur cœur).
+4\. Le quatrième SIX, divisé, montre son sujet flottant (vers le bas) ; — ne comptant pas sur ses propres riches <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> ressources, mais appelant ses voisins. (Ils viennent tous) non pas comme ayant reçu un avertissement, mais dans la sincérité (de leur cœur).
 
 5\. Le cinquième six, divisé, nous rappelle le jugement du roi Tî-yî concernant le mariage de sa sœur cadette. Par une telle conduite, on est heureux et on aura une grande fortune.
 
 6\. Le sixième six, divisé, nous montre le mur de la ville retourné dans les douves. Ce n'est pas le moment d'utiliser l'armée. (Le sujet de la ligne) peut, certes, annoncer ses ordres aux habitants de sa propre ville ; mais aussi correct et ferme soit-il, il aura des raisons de regretter.
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 [^71]
 
@@ -308,7 +308,7 @@ En Thâi (nous voyons) le petit s'en aller et le grand arriver. (Cela indique) q
 
 ![](image/book/Confucianism/The_I_Ching/hex111000.jpg)
 
-Dans Phî, il y a un manque de bonne entente entre les (différentes classes d') hommes, et son indication est défavorable à la voie ferme et correcte <span id="p84">[<sup><small>p. 84</small></sup>]</span> de l'homme supérieur. Nous voyons en cela le grand s'en aller et le petit arriver.
+Dans Phî, il y a un manque de bonne entente entre les (différentes classes d') hommes, et son indication est défavorable à la voie ferme et correcte <span id="p84"><sup><small>[ p. 84 ]</small></sup></span> de l'homme supérieur. Nous voyons en cela le grand s'en aller et le petit arriver.
 
 1\. Le premier SIX, divisé, évoque l'idée d'une herbe arrachée et portant avec elle d'autres tiges dont les racines la relient. Avec une correction ferme (de la part de son sujet), la chance et le progrès seront au rendez-vous.
 
@@ -318,13 +318,13 @@ Le troisième SIX, divisé, montre son sujet honteux du dessein replié (dans sa
 
 4\. Le quatrième NEUF, indivisible, montre son sujet agissant conformément à l'ordre (du Ciel) et ne commettant aucune erreur. Ses compagnons viendront partager son bonheur.
 
-5\. Dans le cinquième NEUF, indivis, nous voyons celui qui <span id="p85">[<sup><small>p. 85</small></sup>]</span> met fin à la détresse et à l'obstruction, le grand homme et le fortuné. (Mais qu'il dise) : « Nous pouvons périr ! Nous pouvons périr ! » (ainsi l'état de choses deviendra ferme, comme s'il était) lié à un bouquet de mûriers touffus.
+5\. Dans le cinquième NEUF, indivis, nous voyons celui qui <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> met fin à la détresse et à l'obstruction, le grand homme et le fortuné. (Mais qu'il dise) : « Nous pouvons périr ! Nous pouvons périr ! » (ainsi l'état de choses deviendra ferme, comme s'il était) lié à un bouquet de mûriers touffus.
 
 6. Le sixième NEUF, indivisible, montre le renversement (et la suppression) de la condition de détresse et d'obstruction. Avant cela, il y avait cette condition. Désormais, il y aura la joie.
 
 
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 [^72]
 
@@ -344,11 +344,11 @@ Thung <i>Z</i>ăn (ou « Union des hommes ») apparaît ici (tel que nous le tro
 
 5\. Dans le cinquième NEUF, indivis, (le représentant de) l'union des hommes gémit et crie d'abord, puis rit. Sa grande armée triomphe, et lui (et le sujet du deuxième vers) se rencontrent.
 
-6\. Les NEUF les plus élevés, indivis, (montrent le représentant <span id="p87">[<sup><small>p. 87</small></sup>]</span> de) l'union des hommes des banlieues. Il n'y aura pas lieu de se repentir.
+6\. Les NEUF les plus élevés, indivis, (montrent le représentant <span id="p87"><sup><small>[ p. 87 ]</small></sup></span> de) l'union des hommes des banlieues. Il n'y aura pas lieu de se repentir.
 
 
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 [^73]
 
@@ -372,7 +372,7 @@ Tâ Yû indique que (dans les circonstances qu’il implique), il y aura de gran
 
 
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 [^74]
 
@@ -382,7 +382,7 @@ Tâ Yû indique que (dans les circonstances qu’il implique), il y aura de gran
 
 <i>Kh</i>ien indique le progrès et le succès. L'homme supérieur, (étant humble comme cela l'implique), verra ses entreprises aboutir à un résultat positif.
 
-1\. Le premier SIX, divisé, nous montre l'homme supérieur qui ajoute humilité à humilité. (Même) le grand <span id="p90">[<sup><small>p. 90</small></sup>]</span> ruisseau peut être traversé avec cela, et il y aura de la bonne fortune.
+1\. Le premier SIX, divisé, nous montre l'homme supérieur qui ajoute humilité à humilité. (Même) le grand <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> ruisseau peut être traversé avec cela, et il y aura de la bonne fortune.
 
 2\. Le deuxième SIX, divisé, nous montre une humilité qui s'est imposée. Avec une correction ferme, la chance sera au rendez-vous.
 
@@ -395,7 +395,7 @@ Tâ Yû indique que (dans les circonstances qu’il implique), il y aura de gran
 6\. Le sixième SIX, divisé, nous montre une humilité qui s'est fait connaître. Son sujet mettra avantageusement ses armées en mouvement ; mais il punira seulement ses propres villes et son État.
 
 
-<span id="p91">[<sup><small>p. 91</small></sup>]</span>
+<span id="p91"><sup><small>[ p. 91 ]</small></sup></span>
 
 [^75]
 
@@ -419,7 +419,7 @@ Yü indique que (dans l'état qu'il implique), les princes féodaux peuvent êtr
 
 
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 [^76]
 
@@ -435,13 +435,13 @@ Sui indique que (sous ces conditions) de grands progrès et succès seront au re
 
 3\. Le troisième SIX, divisé, nous montre celui qui s'attache à l'homme d'âge et d'expérience, et abandonne le petit garçon. Celui qui suit obtiendra ce qu'il recherche ; mais il sera avantageux de s'en tenir à ce qui est ferme et correct.
 
-4\. Le quatrième NEUF, indivisible, nous montre celui qui est suivi et qui obtient des adhérents. Même s'il est ferme et correct, le mal arrivera. S'il est sincère dans sa conduite et le montre clairement, dans quelle erreur tombera-t-il ? <span id="p94">[<sup><small>p. 94</small></sup>]</span> 5\. Le cinquième NEUF, indivisible, nous montre (le dirigeant) sincère dans (l'encouragement de) ce qui est excellent. La bonne fortune sera au rendez-vous.
+4\. Le quatrième NEUF, indivisible, nous montre celui qui est suivi et qui obtient des adhérents. Même s'il est ferme et correct, le mal arrivera. S'il est sincère dans sa conduite et le montre clairement, dans quelle erreur tombera-t-il ? <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> 5\. Le cinquième NEUF, indivisible, nous montre (le dirigeant) sincère dans (l'encouragement de) ce qui est excellent. La bonne fortune sera au rendez-vous.
 
 6\. Le SIX le plus élevé, divisé, nous montre (que la sincérité) est fermement tenue et attachée, oui, et fermement liée. (Nous voyons) le roi avec lui présenter ses offrandes sur la montagne occidentale.
 
 
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 [^77]
 
@@ -465,7 +465,7 @@ Kû indique un grand progrès et une grande réussite (à celui qui gère correc
 
 
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 [^78]
 
@@ -475,7 +475,7 @@ Kû indique un grand progrès et une grande réussite (à celui qui gère correc
 
 Lin (indique que, dans les conditions supposées), il y aura de grands progrès et succès, tandis qu'il sera avantageux d'être fermement dans le droit chemin. Au huitième mois, le mal surviendra.
 
-1\. Le premier NEUF, indivis, montre son sujet avançant en compagnie (avec le sujet de la <span id="p98">[<sup><small>p. 98</small></sup>]</span> deuxième ligne). Grâce à sa ferme justesse, la chance lui sourira.
+1\. Le premier NEUF, indivis, montre son sujet avançant en compagnie (avec le sujet de la <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> deuxième ligne). Grâce à sa ferme justesse, la chance lui sourira.
 
 2\. Le deuxième NEUF, indivis, montre son sujet avançant en compagnie (du sujet du premier vers). Il y aura de la chance ; (avancer) sera avantageux à tous égards.
 
@@ -489,7 +489,7 @@ Lin (indique que, dans les conditions supposées), il y aura de grands progrès 
 
 
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 [^79]
 
@@ -497,7 +497,7 @@ Lin (indique que, dans les conditions supposées), il y aura de grands progrès 
 
 ![](image/book/Confucianism/The_I_Ching/hex110000.jpg)
 
-Kwân montre (comment celui qu'il représente devrait être) l'adorateur qui s'est lavé les mains, mais n'a pas (encore) présenté ses offrandes ; - avec sincérité <span id="p100">[<sup><small>p. 100</small></sup>]</span> et une apparence de dignité (imposant un respect respectueux).
+Kwân montre (comment celui qu'il représente devrait être) l'adorateur qui s'est lavé les mains, mais n'a pas (encore) présenté ses offrandes ; - avec sincérité <span id="p100"><sup><small>[ p. 100 ]</small></sup></span> et une apparence de dignité (imposant un respect respectueux).
 
 1\. Le premier SIX, divisé, montre l'apparence d'un jeune homme ; - non blâmable chez les hommes de rang inférieur, mais matière à regret chez les hommes supérieurs.
 
@@ -511,7 +511,7 @@ Kwân montre (comment celui qu'il représente devrait être) l'adorateur qui s'e
 
 6\. Le sixième NEUF, indivisible, montre son sujet contemplant son caractère pour voir s'il est bien celui d'un homme supérieur. Il ne tombera pas dans l'erreur.
 
-<span id="p101">[<sup><small>p. 101</small></sup>]</span>
+<span id="p101"><sup><small>[ p. 101 ]</small></sup></span>
 
 
 
@@ -525,7 +525,7 @@ Shih Ho indique une progression réussie (dans l'état des choses qu'il suppose)
 
 1\. Le premier NEUF, indivis, montre un homme aux pieds ceints et privé de ses orteils. Il n'y aura pas d'erreur.
 
-2\. Le deuxième SIX, divisé, montre quelqu'un qui mord dans la chair tendre et qui (continue à) mordre le nez. Il n'y aura pas d'erreur. <span id="p102">[<sup><small>p. 102</small></sup>]</span> 3\. Le troisième SIX, divisé, montre quelqu'un qui ronge de la chair séchée et qui rencontre quelque chose de désagréable. Il y aura lieu à un léger regret, mais pas à une (grande) erreur.
+2\. Le deuxième SIX, divisé, montre quelqu'un qui mord dans la chair tendre et qui (continue à) mordre le nez. Il n'y aura pas d'erreur. <span id="p102"><sup><small>[ p. 102 ]</small></sup></span> 3\. Le troisième SIX, divisé, montre quelqu'un qui ronge de la chair séchée et qui rencontre quelque chose de désagréable. Il y aura lieu à un léger regret, mais pas à une (grande) erreur.
 
 4\. Le quatrième NEUF, indivisible, montre quelqu'un rongeant la chair séchée sur l'os et obtenant des gages d'argent et de flèches. Il lui sera avantageux de comprendre la difficulté de sa tâche et d'être ferme, auquel cas il aura de la chance.
 
@@ -535,7 +535,7 @@ Shih Ho indique une progression réussie (dans l'état des choses qu'il suppose)
 
 
 
-<span id="p103">[<sup><small>p. 103</small></sup>]</span>
+<span id="p103"><sup><small>[ p. 103 ]</small></sup></span>
 
 [^81]
 
@@ -543,7 +543,7 @@ Shih Ho indique une progression réussie (dans l'état des choses qu'il suppose)
 
 ![](image/book/Confucianism/The_I_Ching/hex100101.jpg)
 
-Pî indique qu'il doit y avoir libre cours (dans ce qu'il désigne). Il y aura peu d'avantages (cependant) à le laisser avancer (et prendre la tête). <span id="p104">[<sup><small>p. 104</small></sup>]</span> 1\. Le premier NEUF, indivisé, montre quelqu'un ornant (le chemin de) ses pieds. Il peut abandonner une voiture et marcher à pied.
+Pî indique qu'il doit y avoir libre cours (dans ce qu'il désigne). Il y aura peu d'avantages (cependant) à le laisser avancer (et prendre la tête). <span id="p104"><sup><small>[ p. 104 ]</small></sup></span> 1\. Le premier NEUF, indivisé, montre quelqu'un ornant (le chemin de) ses pieds. Il peut abandonner une voiture et marcher à pied.
 
 2\. Le deuxième SIX, divisé, montre quelqu'un ornant sa barbe.
 
@@ -555,10 +555,10 @@ Pî indique qu'il doit y avoir libre cours (dans ce qu'il désigne). Il y aura p
 
 6\. Le sixième NEUF, indivis, montre un personnage dont le blanc est le seul ornement. Il n'y aura pas d'erreur.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 [^82]
 
@@ -566,7 +566,7 @@ Pî indique qu'il doit y avoir libre cours (dans ce qu'il désigne). Il y aura p
 
 ![](image/book/Confucianism/The_I_Ching/hex100000.jpg)
 
-Po indique que (dans l'état qu'il symbolise) il ne sera pas avantageux de faire un mouvement dans quelque direction que ce soit. <span id="p106">[<sup><small>p. 106</small></sup>]</span> 1\. Le premier SIX, divisé, montre quelqu'un qui renverse le divan en lui blessant les jambes. (La blessure ira jusqu'à) la destruction de (toute) correction ferme, et il y aura le mal.
+Po indique que (dans l'état qu'il symbolise) il ne sera pas avantageux de faire un mouvement dans quelque direction que ce soit. <span id="p106"><sup><small>[ p. 106 ]</small></sup></span> 1\. Le premier SIX, divisé, montre quelqu'un qui renverse le divan en lui blessant les jambes. (La blessure ira jusqu'à) la destruction de (toute) correction ferme, et il y aura le mal.
 
 2\. Le deuxième SIX, divisé, montre quelqu'un renversant le divan en blessant son cadre. (Le dommage ira jusqu'à) la destruction de (toute) correction ferme, et il y aura le mal.
 
@@ -580,7 +580,7 @@ Po indique que (dans l'état qu'il symbolise) il ne sera pas avantageux de faire
 
 
 
-<span id="p107">[<sup><small>p. 107</small></sup>]</span>
+<span id="p107"><sup><small>[ p. 107 ]</small></sup></span>
 
 [^83]
 
@@ -602,10 +602,10 @@ Fû indique qu'il y aura libre cours et progrès (dans ce qu'il désigne). (Le s
 
 6\. Le SIX supérieur, divisé, montre que son sujet est complètement égaré quant au retour. Le mal sera là. Il y aura des calamités et des erreurs. Si, avec ses vues, il met les armées en mouvement, le résultat sera une grande défaite, dont les conséquences s'étendront jusqu'au dirigeant de l'État. Même en dix ans, il ne parviendra pas à réparer le désastre.
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 [^84]
 
@@ -619,7 +619,7 @@ Wû Wang indique un grand progrès et un grand succès, tandis qu'il y aura avan
 
 2\. Le deuxième SIX, divisé, représente celui qui moissonne sans avoir labouré (pour récolter) et qui récolte le produit de ses champs de la troisième année sans les avoir cultivés la première année à cette fin. Un tel individu trouvera un avantage, quelle que soit sa direction.
 
-3\. Le troisième SIX, divisé, montre une calamité qui frappe quelqu'un qui est exempt de toute insincérité ; comme dans <span id="p111">[<sup><small>p. 111</small></sup>]</span> le cas d'un bœuf attaché. Un passant le trouve (et l'emporte), tandis que les gens du voisinage subissent la calamité (d'être accusés et appréhendés).
+3\. Le troisième SIX, divisé, montre une calamité qui frappe quelqu'un qui est exempt de toute insincérité ; comme dans <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> le cas d'un bœuf attaché. Un passant le trouve (et l'emporte), tandis que les gens du voisinage subissent la calamité (d'être accusés et appréhendés).
 
 4\. Le quatrième NEUF, indivisé, montre (un cas) dans lequel, si son sujet peut rester ferme et correct, il n'y aura pas d'erreur.
 
@@ -629,7 +629,7 @@ Wû Wang indique un grand progrès et un grand succès, tandis qu'il y aura avan
 
 
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 [^85]
 
@@ -643,7 +643,7 @@ Dans les conditions de Tâ <i>Kh</i>û, il sera avantageux d'être ferme et corr
 
 2\. Le deuxième NEUF, non divisé, montre un chariot dont la sangle en dessous a été retirée.
 
-3\. Le troisième NEUF, indivisible, montre son sujet se dirigeant vers son chemin avec de bons chevaux. Il lui sera avantageux de se rendre compte de la difficulté (de sa course) et d'être ferme et correct, en s'exerçant quotidiennement à la conduite de son char et à ses méthodes de défense ; <span id="p113">[<sup><small>p. 113</small></sup>]</span> il y aura alors avantage, quelle que soit la direction dans laquelle il avancera.
+3\. Le troisième NEUF, indivisible, montre son sujet se dirigeant vers son chemin avec de bons chevaux. Il lui sera avantageux de se rendre compte de la difficulté (de sa course) et d'être ferme et correct, en s'exerçant quotidiennement à la conduite de son char et à ses méthodes de défense ; <span id="p113"><sup><small>[ p. 113 ]</small></sup></span> il y aura alors avantage, quelle que soit la direction dans laquelle il avancera.
 
 4\. Le quatrième six, divisé, représente le jeune taureau, (et pourtant) portant le morceau de bois sur ses cornes. Il y aura une grande chance.
 
@@ -651,10 +651,10 @@ Dans les conditions de Tâ <i>Kh</i>û, il sera avantageux d'être ferme et corr
 
 6\. Le sixième NEUF, indivisible, montre que son sujet commande le firmament du ciel. Il y aura du progrès.
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 [^86]
 
@@ -668,7 +668,7 @@ Dans les conditions de Tâ <i>Kh</i>û, il sera avantageux d'être ferme et corr
 
 2\. Le second SIX, divisé, montre celui qui regarde vers le bas pour la nourriture, ce qui est contraire à ce qui est convenable ; ou celui qui la cherche d'en haut (en haut), avance vers laquelle il mènera au mal.
 
-3\. Le troisième SIX, divisé, montre celui qui agit contrairement à la méthode de nourrir. Aussi ferme soit-il, le mal sera là. Qu'il n'agisse pas pendant dix ans, car cela ne lui sera d'aucun avantage. <span id="p115">[<sup><small>p. 115</small></sup>]</span> 4\. Le quatrième SIX, divisé, montre celui qui regarde vers le bas pour (le pouvoir de) nourrir. Il y aura de la bonne fortune. Regardant vers le bas avec le regard inébranlable d'un tigre, et avec son désir qui le pousse à sauter après sauter, il ne tombera dans aucune erreur.
+3\. Le troisième SIX, divisé, montre celui qui agit contrairement à la méthode de nourrir. Aussi ferme soit-il, le mal sera là. Qu'il n'agisse pas pendant dix ans, car cela ne lui sera d'aucun avantage. <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> 4\. Le quatrième SIX, divisé, montre celui qui regarde vers le bas pour (le pouvoir de) nourrir. Il y aura de la bonne fortune. Regardant vers le bas avec le regard inébranlable d'un tigre, et avec son désir qui le pousse à sauter après sauter, il ne tombera dans aucune erreur.
 
 5\. Le cinquième SIX, divisé, montre quelqu'un qui agit contrairement à ce qui est régulier et convenable ; mais s'il demeure ferme, il aura de la chance. Il ne devrait cependant pas tenter de traverser le grand courant.
 
@@ -676,7 +676,7 @@ Dans les conditions de Tâ <i>Kh</i>û, il sera avantageux d'être ferme et corr
 
 
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 [^87]
 
@@ -700,7 +700,7 @@ Tâ Kwo nous suggère une poutre fragile. Il y aura avantage à se déplacer (da
 
 
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 [^88]
 
@@ -712,7 +712,7 @@ Khan, répété ici, fait preuve de sincérité, grâce à laquelle l'esprit est
 
 1\. Le premier SIX, divisé, montre son sujet dans le double défilé, et (pourtant) entrant dans une caverne en son sein. Il y aura du mal.
 
-2\. Le second NEUF, indivisible, montre son sujet <span id="p119">[<sup><small>p. 119</small></sup>]</span> dans tout le péril de la souillure. Il obtiendra cependant un peu (de la délivrance) qu'il recherche.
+2\. Le second NEUF, indivisible, montre son sujet <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> dans tout le péril de la souillure. Il obtiendra cependant un peu (de la délivrance) qu'il recherche.
 
 3\. Le troisième SIX, divisé, montre son sujet, qu'il vienne ou qu'il s'en aille (=descend ou monte), confronté à un défilé. Tout est péril et agitation pour lui. (Ses efforts) le mèneront dans la caverne du gouffre. Il ne devrait pas y avoir d'action (dans un tel cas).
 
@@ -724,7 +724,7 @@ Khan, répété ici, fait preuve de sincérité, grâce à laquelle l'esprit est
 
 
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 [^89]
 
@@ -732,7 +732,7 @@ Khan, répété ici, fait preuve de sincérité, grâce à laquelle l'esprit est
 
 ![](image/book/Confucianism/The_I_Ching/hex101101.jpg)
 
-Lî indique que, (par rapport à ce qu'il désigne), il sera avantageux d'être ferme et correct, et qu'ainsi il y aura libre cours et succès. <span id="p121">[<sup><small>p. 121</small></sup>]</span> Que (son sujet) nourrisse aussi (une docilité comme celle de) la vache, et il y aura bonne fortune.
+Lî indique que, (par rapport à ce qu'il désigne), il sera avantageux d'être ferme et correct, et qu'ainsi il y aura libre cours et succès. <span id="p121"><sup><small>[ p. 121 ]</small></sup></span> Que (son sujet) nourrisse aussi (une docilité comme celle de) la vache, et il y aura bonne fortune.
 
 1\. Le premier NEUF, indivisible, montre quelqu'un prêt à avancer d'un pas confus. Mais il marche en même temps avec révérence, et il n'y aura pas d'erreur.
 
@@ -742,7 +742,7 @@ Lî indique que, (par rapport à ce qu'il désigne), il sera avantageux d'être 
 
 4\. Le quatrième NEUF, indivisible, montre la manière dont son sujet est venu. Comme il est brutal, comme pour le feu, comme pour la mort, d'être rejeté (par tous) !
 
-5\. Le cinquième SIX, divisé, montre son sujet comme un seul homme, les larmes coulant à torrents et gémissant de chagrin. La bonne fortune sera au rendez-vous. <span id="p122">[<sup><small>p. 122</small></sup>]</span> 6\. Le NEUF supérieur, indivisé, montre le roi employant son sujet dans ses expéditions punitives. Accomplissant un mérite admirable, il brise (seulement) les chefs (des rebelles). Là où ses prisonniers n'étaient pas leurs associés, il ne punit pas. Il n'y aura pas d'erreur.
+5\. Le cinquième SIX, divisé, montre son sujet comme un seul homme, les larmes coulant à torrents et gémissant de chagrin. La bonne fortune sera au rendez-vous. <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> 6\. Le NEUF supérieur, indivisé, montre le roi employant son sujet dans ses expéditions punitives. Accomplissant un mérite admirable, il brise (seulement) les chefs (des rebelles). Là où ses prisonniers n'étaient pas leurs associés, il ne punit pas. Il n'y aura pas d'erreur.
 
 <figure class="table chapter-navigator">
   <table>

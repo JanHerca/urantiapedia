@@ -29,7 +29,7 @@ dateCreated: 2025-2-6T11:21:43Z
   </table>
 </figure>
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 
 Le paradis d'Ābhassara [220](405#p220)
@@ -192,7 +192,7 @@ Dhumakāri [242](413#p242)
 
 Dīghati, un roi [290](428#p290)
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 Dighavu, prince [139](371#p139), [290](428#p290)
 
@@ -410,7 +410,7 @@ Kumbhavatī, une ville [277](423#p277)
 
 Kuṇdaka-kumāra [26](313#p26)
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 Kurus, royaume des [241](412#p241)
 
@@ -630,7 +630,7 @@ Dieux sublimes, les [289](428#p289)
 
 Suciparivāra, un marchand [165](381#p165), [166](382#p166),[168](382#p168),[266](421#p266)
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 Suddhodana, un roi [291](428#p291)
 

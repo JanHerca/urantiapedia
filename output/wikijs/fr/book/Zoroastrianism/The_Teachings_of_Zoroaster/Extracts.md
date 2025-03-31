@@ -32,9 +32,9 @@ dateCreated: 2025-3-16T22:26:58Z
   </table>
 </figure>
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 ## PURETÉ
 
@@ -56,7 +56,7 @@ dateCreated: 2025-3-16T22:26:58Z
 
 3\. « À savoir, au plus pur en pureté. »
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 ## LA LOI D'AHURA-MAZDA
 
@@ -94,7 +94,7 @@ L'Esprit de Sagesse répondit ainsi : « Celui qui est inférieur à toi, consid
 
 « Ne pratique pas la paresse, afin que le devoir et le bon travail qu’il t’est nécessaire d’accomplir ne restent pas inachevés.
 
-« Choisissez une femme qui a du caractère, car <span id="p60">[<sup><small>p. 60</small></sup>]</span> celle qui est bonne est celle qui, en fin de compte, est la plus respectée.
+« Choisissez une femme qui a du caractère, car <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> celle qui est bonne est celle qui, en fin de compte, est la plus respectée.
 
 . . . . .
 
@@ -110,7 +110,7 @@ Avec tes ennemis, combats avec équité. Avec un ami, agis avec l'approbation de
 
 « Tu ne devrais pas devenir présomptueux à cause d'aucun bonheur du monde ; car le bonheur du monde est semblable à un (à haute voix qui arrive un jour de pluie, qu'on ne repousse par aucune colline,
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 « Tu ne devrais pas devenir présomptueux à cause de beaucoup de trésors et de richesses ; car à la fin il te faudra tout abandonner.
 
@@ -128,7 +128,7 @@ Avec tes ennemis, combats avec équité. Avec un ami, agis avec l'approbation de
 
 2\. Ahura-Mazda répondit alors : « Près de sa tête, il s'assied, récite la Gâthâ Ustavaiti, priant pour son bonheur : « Que le bonheur soit à l'homme qui contribue au bonheur de chacun. Puisse Ahura-Mazda créer, régnant selon Sa volonté. » Cette nuit-là, l'âme ressent autant de joie que le monde entier en possède. »
 
-3\. « Où l’âme demeure-t-elle pendant la deuxième nuit ? » <span id="p62">[<sup><small>p. 62</small></sup>]</span> 4\. Alors Ahura-Mazda répondit : « Près de sa tête, elle se tient », etc. (comme au verset 2).
+3\. « Où l’âme demeure-t-elle pendant la deuxième nuit ? » <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> 4\. Alors Ahura-Mazda répondit : « Près de sa tête, elle se tient », etc. (comme au verset 2).
 
 5\. « Où son âme reste-t-elle pendant la troisième nuit ? »
 
@@ -142,7 +142,7 @@ Avec tes ennemis, combats avec équité. Avec un ami, agis avec l'approbation de
 
 10\. « Alors l'âme de l'homme pur lui parle (à la jeune fille) et lui demande : « Quelle jeune fille es-tu, toi que j'ai vue ici comme la plus belle des jeunes filles de corps ? »
 
-11\. « Alors sa propre loi lui répond : « Je suis, ô jeune homme, tes bonnes pensées, tes paroles et tes œuvres, ta bonne loi, ta propre loi de ton propre corps, qui serait par rapport à toi semblable en grandeur, en bonté et en beauté, odorant, victorieux, inoffensif, tel que tu m'apparais. <span id="p63">[<sup><small>p. 63</small></sup>]</span> 12\. « Tu es comme moi, ô jeune homme qui parle bien, qui pense bien, qui agit bien, dévoué à la bonne loi, ainsi en grandeur, en bonté et en beauté que je t'apparais.
+11\. « Alors sa propre loi lui répond : « Je suis, ô jeune homme, tes bonnes pensées, tes paroles et tes œuvres, ta bonne loi, ta propre loi de ton propre corps, qui serait par rapport à toi semblable en grandeur, en bonté et en beauté, odorant, victorieux, inoffensif, tel que tu m'apparais. <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> 12\. « Tu es comme moi, ô jeune homme qui parle bien, qui pense bien, qui agit bien, dévoué à la bonne loi, ainsi en grandeur, en bonté et en beauté que je t'apparais.
 
 . . . . .
 
@@ -154,7 +154,7 @@ Avec tes ennemis, combats avec équité. Avec un ami, agis avec l'approbation de
 
 19\. Zarathoustra demanda à Ahura-Mazda : « Ahura-Mazda, Céleste, Très Saint, Créateur du monde corporel, Pur ! Quand un méchant meurt, où l'âme demeure-t-elle pendant cette nuit ? »
 
-20\. Ahura-Mazda répondit alors : « Là, ô pur Zarathoustra, près de la tête, il court tout en prononçant la prière Ké mánm, etc. : « Quelle terre louerai-je, où irai-je prier, ô Ahura-Mazda ? » En cette nuit, l'âme voit autant de choses désagréables que le monde vivant tout entier. <span id="p64">[<sup><small>p. 64</small></sup>]</span> 25\. « Lorsque le laps de la troisième nuit approche de la lumière, ô pur Zarathoustra, alors l'âme de l'homme méchant se rend au lieu impur, se recueillant continuellement à la puanteur. Un vent souffle sur elle depuis la Région du Nord, un vent nauséabond, plus nauséabond que les autres vents.
+20\. Ahura-Mazda répondit alors : « Là, ô pur Zarathoustra, près de la tête, il court tout en prononçant la prière Ké mánm, etc. : « Quelle terre louerai-je, où irai-je prier, ô Ahura-Mazda ? » En cette nuit, l'âme voit autant de choses désagréables que le monde vivant tout entier. <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> 25\. « Lorsque le laps de la troisième nuit approche de la lumière, ô pur Zarathoustra, alors l'âme de l'homme méchant se rend au lieu impur, se recueillant continuellement à la puanteur. Un vent souffle sur elle depuis la Région du Nord, un vent nauséabond, plus nauséabond que les autres vents.
 
 26\. « Quand l'âme du méchant reçoit ce vent dans le nez, elle dit : « D'où vient ce vent que je sens avec le nez comme le vent le plus nauséabond ? »
 
@@ -184,7 +184,7 @@ Je te le demande, ô Ahura ! Dis-le-moi clairement : quand il faut louer, commen
 
 . . . . .
 
-« Je te le demande, ô Ahura ! Dis-le-moi bien : qui, par génération, fut le premier père de l'Ordre Juste ? Qui a donné au soleil et aux étoiles leur voie invariable ? Qui a établi ce par quoi la lune croît et ce par quoi <span id="p67">[<sup><small>p. 67</small></sup>]</span> décroît, si ce n'est Toi ? Ces choses, ô Grand Créateur ! Je voudrais les connaître, et d'autres encore.
+« Je te le demande, ô Ahura ! Dis-le-moi bien : qui, par génération, fut le premier père de l'Ordre Juste ? Qui a donné au soleil et aux étoiles leur voie invariable ? Qui a établi ce par quoi la lune croît et ce par quoi <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> décroît, si ce n'est Toi ? Ces choses, ô Grand Créateur ! Je voudrais les connaître, et d'autres encore.
 
 Je te le demande, ô Ahura ! Dis-le-moi clairement : qui, d'en bas, a soutenu la terre et les nuages ​​d'en haut pour qu'ils ne s'effondrent pas ? Qui a créé les eaux et les plantes ? Qui a attaché au vent les nuages ​​d'orage, les plus rapides et les plus fugaces aussi ? Qui, ô Grand Créateur ! est l'inspirateur des bonnes pensées dans nos âmes ?
 
@@ -192,7 +192,7 @@ Je te le demande, ô Ahura ! Dis-le-moi clairement : qui, d'en bas, a soutenu la
 
 Je te le demande, ô Ahura ! Dis-moi clairement ce que je vais dire, s'il en est ainsi. La piété (que nous chérissons) accroît-elle réellement l'ordre sacré de nos actions ? À ceux-là, tes véritables saints, elle a donné le Royaume par le Bon Esprit. Pour qui as-tu créé la Mère-vache, source de joie ?
 
-« Je te le demande, ô Ahura ! Dis-le-moi bien : qui a façonné Âramaiti (notre piété) le bien-aimé, avec Ta Puissance Souveraine ? Qui, par sa sagesse directrice, a fait du fils un homme vénérant le père ? Qui l'a rendu bien-aimé ? <span id="p68">[<sup><small>p. 68</small></sup>]</span> Avec de telles questions, si abondantes, ô Mazda ! Je Te presse, ô bel Esprit, Toi créateur de toutes choses !
+« Je te le demande, ô Ahura ! Dis-le-moi bien : qui a façonné Âramaiti (notre piété) le bien-aimé, avec Ta Puissance Souveraine ? Qui, par sa sagesse directrice, a fait du fils un homme vénérant le père ? Qui l'a rendu bien-aimé ? <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> Avec de telles questions, si abondantes, ô Mazda ! Je Te presse, ô bel Esprit, Toi créateur de toutes choses !
 
 Je te demande ceci, ô Ahura ! Dis-le-moi clairement, afin que je puisse méditer sur ces révélations, ô Mazda ! et sur les paroles que ton Esprit bienveillant t'a demandées en nous, et par lesquelles nous pouvons atteindre, par ton Ordre, la perfection de cette vie. Oui, comment mon âme peut-elle, avec joie, grandir en bonté ?
 
@@ -204,7 +204,7 @@ Je te le demande, ô Ahura ! Dis-moi clairement quelle est la foi sainte qui est
 
 Voici ce que je te demande, ô Ahura ! Dis-le-moi clairement : qui est le juste dans la question que je te pose ? Et qui est le méchant ? Car qui est le méchant ? Ou qui est lui-même le plus méchant ? Et l'homme vil qui s'oppose à moi pour obtenir ta bénédiction, pourquoi n'est-il pas tenu et cru pour le pécheur qu'il est ?
 
-Je te le demande, ô Ahura ! Dis-moi clairement : comment puis-je bannir ce Démon du Mensonge de <span id="p69">[<sup><small>p. 69</small></sup>]</span> loin de nous, vers ceux d'en bas qui sont remplis de rébellion ?
+Je te le demande, ô Ahura ! Dis-moi clairement : comment puis-je bannir ce Démon du Mensonge de <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> loin de nous, vers ceux d'en bas qui sont remplis de rébellion ?
 
 ## CONFESSION DE FOI
 
@@ -230,7 +230,7 @@ Je te le demande, ô Ahura ! Dis-moi clairement : comment puis-je bannir ce Dém
 
 « Un chanteur d’hymnes des Amĕsha-çpĕntas, un louangeur des Amĕsha-çpĕntas.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 « À Ahura-Mazda, le bon, doté d’une bonne sagesse, j’offre tout le bien. »
 
@@ -258,7 +258,7 @@ Je te le demande, ô Ahura ! Dis-moi clairement : comment puis-je bannir ce Dém
 
 « Et celui qui dans ce monde matériel, ô Spitama Zarathoustra ! récitera et prononcera [^37] ces noms qui sont les miens, soit de jour, soit de nuit ;
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 « Celui qui les prononcera, quand il se lèvera ou quand il se couchera ; . . . quand il attachera la ceinture sacrée ou quand il déliera la ceinture sacrée ; quand il sortira de sa demeure, ou quand il sortira de sa ville, ou quand il sortira de son pays et viendra dans un autre pays ;
 
@@ -276,7 +276,7 @@ Je te le demande, ô Ahura ! Dis-moi clairement : comment puis-je bannir ce Dém
 
 « Et à Ton bon royaume, ô Ahura-Mazda ! puissions-nous parvenir à jamais, et qu'un bon Roi soit sur nous ; et que chacun de nous, homme et donc chaque femme, demeure ainsi, ô Toi le plus bienfaisant des êtres, et pour les deux mondes !
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 . . . . .
 
@@ -296,7 +296,7 @@ Je te le demande, ô Ahura ! Dis-moi clairement : comment puis-je bannir ce Dém
 
 Ahura-Mazda parla à Spitama Zarathoustra et dit :
 
-« J'ai rendu chaque terre chère à ses habitants, même si elle était dénuée de tout charme. Si je n'avais pas rendu chaque terre chère à ses habitants, même si elle était dénuée de tout charme, <span id="p73">[<sup><small>p. 73</small></sup>]</span>, alors le monde vivant tout entier aurait envahi l'Airyana Vaêgô. »
+« J'ai rendu chaque terre chère à ses habitants, même si elle était dénuée de tout charme. Si je n'avais pas rendu chaque terre chère à ses habitants, même si elle était dénuée de tout charme, <span id="p73"><sup><small>[ p. 73 ]</small></sup></span>, alors le monde vivant tout entier aurait envahi l'Airyana Vaêgô. »
 
 Pays et terres créés par Ahura-Mazda. | Mal correspondants placés là par Angro Mainyus (l'Esprit du Mal).
 --- | ---
@@ -311,7 +311,7 @@ Pays et terres créés par Ahura-Mazda. | Mal correspondants placés là par Ang
 9\. Khnenta dans Vehrkâna. | 9\. Péché contre nature.
 10\. Harahvaiti la belle. | 10\. Péché de souiller la terre vierge en enterrant des cadavres.
 11\. Le brillant et glorieux Hêtumant. | 11\. Sorcellerie et sorciers.
-12\. Ragha des trois races (Raï, lieu de naissance de Zoroastre). | 12\. Péché d'incrédulité totale (athéisme). <span id="p74">[<sup><small>p. 74</small></sup>]</span>
+12\. Ragha des trois races (Raï, lieu de naissance de Zoroastre). | 12\. Péché d'incrédulité totale (athéisme). <span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 13\. Sainte Kakhra. | 13\. Péché de brûler des cadavres.
 14\. La Varena à quatre coins. | 14\. Maladie des femmes.
 15\. Pays des Sept Rivières. | 15\. Chaleur excessive.
@@ -329,7 +329,7 @@ Et Ahura-Mazda parla à Yima, disant :
 
 « Et les trois espèces de bêtes périront : celles qui habitent dans le désert, celles qui habitent sur les sommets des montagnes, et celles qui habitent au sein du vallon, à l'abri des étables.
 
-« Fais-toi donc un _vara_, [^41] long comme un terrain de course de chaque côté de la place, et amène-y <span id="p75">[<sup><small>p. 75</small></sup>]</span> . . . des moutons et des bœufs . . . des hommes . . . des chiens . . . des oiseaux et . . . des feux rouges ardents.
+« Fais-toi donc un _vara_, [^41] long comme un terrain de course de chaque côté de la place, et amène-y <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> . . . des moutons et des bœufs . . . des hommes . . . des chiens . . . des oiseaux et . . . des feux rouges ardents.
 
 . . . . .
 
@@ -343,7 +343,7 @@ Alors Yima se dit : « Comment vais-je réussir à faire ce vara qu’Ahura-Mazd
 
 Et Ahura-Mazda dit à Yima : « . . .
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Écrase la terre du pied, puis pétris-la avec tes mains… »
 
@@ -385,7 +385,7 @@ Quand l'orge pousse, les Daêvas se redressent ; quand le blé mûrit, leur cœu
 
 . . . . .
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 « C'est le lieu où la femme et les enfants d'un des fidèles... sont conduits sur le chemin de la captivité (le chemin sec et poussiéreux), et élèvent une voix de gémissement.
 
@@ -405,7 +405,7 @@ Quand l'orge pousse, les Daêvas se redressent ; quand le blé mûrit, leur cœu
 
 « Ô Créateur du monde matériel, toi le Saint ! Si un adorateur de Mazda, marchant, courant, chevauchant ou conduisant, rencontre un cadavre dans un ruisseau, que fera-t-il ? »
 
-Ahura-Mazda répondit : « Enlevant ses chaussures, ôtant ses vêtements, hardiment, ô Zarathoustra ! <span id="p79">[<sup><small>p. 79</small></sup>]</span> il entrera dans le fleuve, et sortira les morts de l'eau...
+Ahura-Mazda répondit : « Enlevant ses chaussures, ôtant ses vêtements, hardiment, ô Zarathoustra ! <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> il entrera dans le fleuve, et sortira les morts de l'eau...
 
 « Il retirera de l’eau autant de corps qu’il pourra. . . . Aucun péché ne lui est imputé pour tout os, cheveu . . . qui retomberait dans l’eau.
 
@@ -421,7 +421,7 @@ Ahura-Mazda répondit : « Enlevant ses chaussures, ôtant ses vêtements, hardi
 
 Il étudiera pendant la première et la dernière partie du jour, pendant la première et la dernière partie de la nuit, afin que son esprit grandisse en connaissance et s'affermisse en sainteté. Il veillera alors, rendant grâces et priant Dieu et ses anges afin qu'il grandisse en connaissance. Il se reposera au milieu du jour, au milieu de la nuit, et il continuera ainsi jusqu'à ce qu'il puisse dire toutes les paroles que les anciens Athrapaïtes [^50] ont dites.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 ## RÉCOMPENSE POUR LES PIES
 
@@ -435,7 +435,7 @@ Ahura-Mazda répondit : « Tu devrais, ô saint Zarathoustra. »
 
 Ahura-Mazda répondit : « Quand l'homme est mort, quand son temps est révolu, alors les Daêvas infernaux et malfaisants l'assaillent ; et quand la troisième nuit est passée, quand l'aube apparaît et s'illumine, et fait atteindre à Mithra [^52] . . . les montagnes bienheureuses, et que le soleil se lève :
 
-Alors le démon nommé Vîzaresha emporte dans ses chaînes les âmes des méchants adorateurs de Daêva qui vivent dans le péché. L'âme s'engage dans la voie tracée par le Temps, ouverte aux méchants comme aux justes. Au sommet du Pont Kinvad <span id="p81">[<sup><small>p. 81</small></sup>]</span> (_chinvat_)… ils demandent pour leurs esprits et leurs âmes la récompense des biens terrestres qu'ils ont donnés ici-bas.
+Alors le démon nommé Vîzaresha emporte dans ses chaînes les âmes des méchants adorateurs de Daêva qui vivent dans le péché. L'âme s'engage dans la voie tracée par le Temps, ouverte aux méchants comme aux justes. Au sommet du Pont Kinvad <span id="p81"><sup><small>[ p. 81 ]</small></sup></span> (_chinvat_)… ils demandent pour leurs esprits et leurs âmes la récompense des biens terrestres qu'ils ont donnés ici-bas.
 
 . . . . .
 
@@ -449,7 +449,7 @@ Vohumanô (le Gardien du Ciel) s'élève de son siège doré. Il s'exclame : « 
 
 « La loi de Mazda, ô Spitama Zarathoustra ! ôte à celui qui la confesse les liens de son péché ; elle ôte le péché d'abus de confiance ; elle ôte le péché d'assassinat d'un fidèle ; elle ôte le péché d'enterrer un cadavre ; elle ôte le péché des actes pour lesquels il n'y a pas d'expiation ; elle ôte les plus lourdes peines du péché ; elle ôte tout péché qui peut être commis. »
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 ## LA TENTATION
 
@@ -465,7 +465,7 @@ Le rusé lui dit encore… Angro Mainyus : « Par quelle parole frapperas-tu, pa
 
 « … Les paroles enseignées par Mazda, voilà mes… meilleures armes ! Par cette parole je frapperai, par cette parole je repousserai… Ô malfaiteur, Angro Mainyus ! C’est à moi que Spenta Mainyus (le Bon Esprit) l’a donnée ; il me l’a donnée dans le temps infini ; à moi, les Ameshaspentas (Archanges), le Tout-Puissant, le Tout-Bienfaisant, l’ont donnée. »
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 Zarathoustra chantait à haute voix la (prière de) AHUNA VAIRYA.
 
@@ -481,7 +481,7 @@ Zarathoustra chantait à haute voix la (prière de) AHUNA VAIRYA.
 
 « Tu es chassé, ô malicieux Angro Mainyus ! Du feu, de l'eau, de la terre, de la vache, de l'arbre, de l'homme fidèle et de la femme fidèle... de toutes les bonnes choses faites par Mazda, la progéniture du saint principe. »
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 ## EN PRÊT
 
@@ -511,7 +511,7 @@ Mais chacun doit se garder de boire du vin avec modération. Car une consommatio
 
 Elle fait se souvenir des choses oubliées, et la bonté prend place dans l'esprit. Elle accroît également la vue, l'ouïe et la capacité de parler ; et le travail nécessaire et rapide devient plus progressif. Il dort aussi agréablement et se lève léger.
 
-« Et chez celui qui boit du vin avec modération… lui-même, sa femme, ses enfants, ses amis et ses proches sont affligés et malheureux, et <span id="p86">[<sup><small>p. 86</small></sup>]</span> le surintendant des troubles et l'ennemi se réjouissent. Les êtres sacrés, eux aussi, ne sont pas satisfaits de lui ; et l'infamie atteint son corps, et même la méchanceté atteint son âme.
+« Et chez celui qui boit du vin avec modération… lui-même, sa femme, ses enfants, ses amis et ses proches sont affligés et malheureux, et <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> le surintendant des troubles et l'ennemi se réjouissent. Les êtres sacrés, eux aussi, ne sont pas satisfaits de lui ; et l'infamie atteint son corps, et même la méchanceté atteint son âme.
 
 « Et même celui qui donne du vin à quelqu'un avec autorisation, et qui s'enivre ainsi, est également coupable de tous les péchés que cet ivrogne commet à cause de cette ivresse. » [^62]
 
@@ -523,7 +523,7 @@ Nous adorons les bons, forts, bienfaisants Fravashis [^64] des fidèles, qui von
 
 Qui nous louera ? Qui nous offrira un sacrifice ? Qui méditera sur nous ? Qui nous bénira ? Qui nous recevra, la nourriture et les vêtements à la main, avec une prière digne de félicité ? De qui d'entre nous le nom sera-t-il invoqué ? De qui d'entre vous l'âme sera-t-elle adorée par vous par un sacrifice ? À qui notre don sera-t-il donné, afin qu'il ait une nourriture inépuisable pour toujours et à jamais ? Et l'homme qui leur offre un sacrifice, la nourriture et les vêtements à la main, avec une prière digne de félicité, les terribles [^66] Fravashis des fidèles, satisfaits, indemnes et non offensés, bénissent ainsi :
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 « Qu'il y ait dans cette maison des troupeaux d'animaux et des hommes ! Qu'il y ait un cheval rapide et un char robuste ! Qu'il y ait un homme qui sache louer Dieu et gouverner une assemblée, qui nous offrira des sacrifices, la viande et les vêtements à la main, et avec une prière digne de joie ! »
 
@@ -539,7 +539,7 @@ Qui nous louera ? Qui nous offrira un sacrifice ? Qui méditera sur nous ? Qui n
 
 « Je ne puis jamais être une source de gaspillage, jamais une source de flétrissement pour les villages de Mazdayasnian, ni par amour du corps ni par amour de la vie.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 « J'abjure l'abri et la direction des Daêvas, aussi mauvais soient-ils ; oui, totalement dépourvus de bien et vides de vertu, trompeurs dans leur méchanceté, de tous les êtres ceux qui ressemblent le plus au Démon-du-Mensonge, les plus répugnants des choses existantes, et ceux qui sont les plus dépourvus de bien.
 
@@ -561,7 +561,7 @@ Ahura-Mazda aurait pu indiquer cela à Zarathoustra, dans chaque acte qu'il posa
 
 ### Prière de repentance
 
-« Je suis absolument sans aucun doute dans l’existence de la bonne foi Mazdayasnienne, dans la venue de la résurrection et du corps ultérieur, dans le franchissement du pont Chinvat, dans une récompense invariable des bonnes actions et de leur récompense, <span id="p90">[<sup><small>p. 90</small></sup>]</span> et des mauvaises actions et de leur châtiment, ainsi que dans la continuation du Paradis, dans l’annihilation de l’Enfer et d’Ahriman [^69] et des Daêvas, que \[Dieu\] Ahura-Mazda sera enfin victorieux et qu’Ahriman périra avec les Daêvas et les rejetons des ténèbres.
+« Je suis absolument sans aucun doute dans l’existence de la bonne foi Mazdayasnienne, dans la venue de la résurrection et du corps ultérieur, dans le franchissement du pont Chinvat, dans une récompense invariable des bonnes actions et de leur récompense, <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> et des mauvaises actions et de leur châtiment, ainsi que dans la continuation du Paradis, dans l’annihilation de l’Enfer et d’Ahriman [^69] et des Daêvas, que \[Dieu\] Ahura-Mazda sera enfin victorieux et qu’Ahriman périra avec les Daêvas et les rejetons des ténèbres.
 
 . . . . .
 
@@ -569,7 +569,7 @@ Ahura-Mazda aurait pu indiquer cela à Zarathoustra, dans chaque acte qu'il posa
 
 . . . . .
 
-« Ce Patet céleste sera un solide mur d'airain... afin qu'il puisse maintenir fermement la porte de l'Enfer dans les liens, et le chemin du Paradis ouvert, le chemin vers ce meilleur endroit : vers le brillant Garothman qui possède toute majesté, afin que notre âme et les âmes des purs au Pont Chinvat, le grand, puissent le franchir libérées des ennuis et <span id="p91">[<sup><small>p. 91</small></sup>]</span> facilement, et que le pur Srosh, [^71] le victorieux, ami, protecteur, surveillant, soit le protecteur et le gardien de mon âme... »
+« Ce Patet céleste sera un solide mur d'airain... afin qu'il puisse maintenir fermement la porte de l'Enfer dans les liens, et le chemin du Paradis ouvert, le chemin vers ce meilleur endroit : vers le brillant Garothman qui possède toute majesté, afin que notre âme et les âmes des purs au Pont Chinvat, le grand, puissent le franchir libérées des ennuis et <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> facilement, et que le pur Srosh, [^71] le victorieux, ami, protecteur, surveillant, soit le protecteur et le gardien de mon âme... »
 
 ## SERVICE DE MARIAGE
 
@@ -579,7 +579,7 @@ Ahura-Mazda aurait pu indiquer cela à Zarathoustra, dans chaque acte qu'il posa
 
 ### Admonitions
 
-« Au nom et avec l'amitié d'Ahura-Mazda. Soyez toujours brillants... Soyez croissants ! Soyez victorieux ! Apprenez la pureté ! Soyez digne de bonnes louanges ! Que l'esprit ait de bonnes pensées, que les paroles parlent bien, que les œuvres fassent le bien !... Soyez un Mazdayasnien, accomplissez les œuvres selon votre esprit... dites la vérité... et soyez obéissant. Soyez modeste avec vos amis, intelligent et bienveillant. Ne soyez pas cruel. Ne soyez pas colérique. Ne commettez aucun péché par honte. Ne soyez pas cupide. Ne tourmentez pas. Ne nourrissez pas d'envie méchante, ne soyez pas hautain, ne traitez personne avec mépris, ne nourrissez pas de convoitise. Ne volez pas le bien d'autrui, éloignez-vous des femmes d'autrui. Faites de bonnes œuvres avec une bonne activité... N'entrez pas en conflit avec un homme vengeur. Ne soyez pas un compagnon <span id="p92">[<sup><small>p. 92</small></sup>]</span> à un cupide. Ne suivez pas le même chemin qu'un cruel. Ne concluez aucun accord avec quelqu'un de mauvaise réputation. . . . Combattez les adversaires avec droiture. . . . N'entrez pas en conflit avec ceux qui ont mauvaise réputation. Devant une assemblée, ne prononcez que des paroles pures. Devant les rois, parlez avec modération. Ne déplaise en aucune façon à votre mère. Gardez votre corps pur dans la justice.
+« Au nom et avec l'amitié d'Ahura-Mazda. Soyez toujours brillants... Soyez croissants ! Soyez victorieux ! Apprenez la pureté ! Soyez digne de bonnes louanges ! Que l'esprit ait de bonnes pensées, que les paroles parlent bien, que les œuvres fassent le bien !... Soyez un Mazdayasnien, accomplissez les œuvres selon votre esprit... dites la vérité... et soyez obéissant. Soyez modeste avec vos amis, intelligent et bienveillant. Ne soyez pas cruel. Ne soyez pas colérique. Ne commettez aucun péché par honte. Ne soyez pas cupide. Ne tourmentez pas. Ne nourrissez pas d'envie méchante, ne soyez pas hautain, ne traitez personne avec mépris, ne nourrissez pas de convoitise. Ne volez pas le bien d'autrui, éloignez-vous des femmes d'autrui. Faites de bonnes œuvres avec une bonne activité... N'entrez pas en conflit avec un homme vengeur. Ne soyez pas un compagnon <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> à un cupide. Ne suivez pas le même chemin qu'un cruel. Ne concluez aucun accord avec quelqu'un de mauvaise réputation. . . . Combattez les adversaires avec droiture. . . . N'entrez pas en conflit avec ceux qui ont mauvaise réputation. Devant une assemblée, ne prononcez que des paroles pures. Devant les rois, parlez avec modération. Ne déplaise en aucune façon à votre mère. Gardez votre corps pur dans la justice.
 
 . . . . .
 
@@ -613,13 +613,13 @@ Et des sept, trois furent choisis, et des trois, un seul, nommé Vîrâf, que ce
 
 . . . . .
 
-Après avoir bu le vin consacré, et avoir reposé mon corps et consacré mon esprit à l'adoration de Dieu, il me sembla que mon âme s'envolait vers les régions saintes, où Serosh Izad [^76] m'apparut et me fit signe de venir vers lui. Après avoir donné et reçu les salutations d'usage, Serosh Izad me dit : « Tu as fait un long voyage dans la foi. Je suis heureux de te voir dans ces régions bénies, et ton évasion du monde du mal me procure un grand plaisir ; mais, Ardâ-Vîrâf, tu es arrivé avant ton heure. Quelle est l'occasion ? » Ardâ-Vîrâf répondit avec un accent de <span id="p95">[<sup><small>p. 95</small></sup>]</span> complaisance : « J'ai été envoyé, ô Serosh Izad ! par le roi, par les prêtres et par la voix de la nation en général, dans cette ambassade, pour connaître le ciel et l'enfer, afin que l'hérésie et le schisme soient bannis de la terre, et que le culte du vrai Dieu soit restauré dans sa pureté habituelle. »
+Après avoir bu le vin consacré, et avoir reposé mon corps et consacré mon esprit à l'adoration de Dieu, il me sembla que mon âme s'envolait vers les régions saintes, où Serosh Izad [^76] m'apparut et me fit signe de venir vers lui. Après avoir donné et reçu les salutations d'usage, Serosh Izad me dit : « Tu as fait un long voyage dans la foi. Je suis heureux de te voir dans ces régions bénies, et ton évasion du monde du mal me procure un grand plaisir ; mais, Ardâ-Vîrâf, tu es arrivé avant ton heure. Quelle est l'occasion ? » Ardâ-Vîrâf répondit avec un accent de <span id="p95"><sup><small>[ p. 95 ]</small></sup></span> complaisance : « J'ai été envoyé, ô Serosh Izad ! par le roi, par les prêtres et par la voix de la nation en général, dans cette ambassade, pour connaître le ciel et l'enfer, afin que l'hérésie et le schisme soient bannis de la terre, et que le culte du vrai Dieu soit restauré dans sa pureté habituelle. »
 
 . . . . .
 
 « . . . En disant cela, Serosh Izad me saisit par le bras et me conduisit de l'autre côté du pont, lorsque le trône de Mehr Izad, [^77] apparut, avec Roshni Izad [^78] debout à ses côtés, tenant dans ses mains la balance de la justice, faite d'or pur, et ayant à sa droite et à sa gauche cinq mille anges, et dont il peut entendre les différentes requêtes à la fois, et si elles sont écrites, il peut les voir d'un seul coup d'œil. Après avoir salué, et après que ma salutation eut été rendue, les anges présents m'entourèrent et m'adressèrent ainsi : « Ô Ardâ-Virâf ! ton heure n'est pas encore venue. Comment et par quels moyens es-tu arrivé jusqu'ici ? » Je répondis : « Je suis venu jusqu'ici avec l'aide de Dieu, à la demande de mon roi, Ardeshir Babegan, des prêtres et du peuple, pour recueillir et rapporter les merveilles du ciel et de l'enfer ; afin que je puisse voir que la vérité puisse par ces moyens être à nouveau restaurée sur la terre, et l'hérésie et la méchanceté bannies à jamais. »
 
-Français : « . . . Ensuite, Vohûmano, [^79] l'archange, <span id="p96">[<sup><small>p. 96</small></sup>]</span> se leva d'un trône d'or, et il prit ma main. Avec les mots « bonne pensée », « bonne parole » et « bonne action », il m'introduisit au milieu d'Aûharmazd [^80] et des archanges et autres saints, et des anges gardiens de Zaratûsht Spitâma, Kaî-Vishtâsp, Jâmâsp, Isâdvâstar, le fils de Zaratûsht, et d'autres défenseurs et chefs de la religion, que je n'ai jamais vu personne de plus brillant et d'excellent.
+Français : « . . . Ensuite, Vohûmano, [^79] l'archange, <span id="p96"><sup><small>[ p. 96 ]</small></sup></span> se leva d'un trône d'or, et il prit ma main. Avec les mots « bonne pensée », « bonne parole » et « bonne action », il m'introduisit au milieu d'Aûharmazd [^80] et des archanges et autres saints, et des anges gardiens de Zaratûsht Spitâma, Kaî-Vishtâsp, Jâmâsp, Isâdvâstar, le fils de Zaratûsht, et d'autres défenseurs et chefs de la religion, que je n'ai jamais vu personne de plus brillant et d'excellent.
 
 « Et Vohûman dit ainsi : « C'est Aûharmazd. » Et je souhaitais lui rendre un culte.
 
@@ -627,7 +627,7 @@ Français : « . . . Ensuite, Vohûmano, [^79] l'archange, <span id="p96">[<sup>
 
 . . . . .
 
-« Et je vis l'enfer le plus sombre, pernicieux, épouvantable, terrible, très douloureux, malfaisant et malodorant. Après une observation plus approfondie, il m'apparut comme un gouffre dont mille coudées n'atteindraient pas le fond ; et même si tout le bois du monde était mis au feu dans cet enfer le plus puant et le plus sombre, il n'en dégagerait jamais la moindre odeur ; et aussi <span id="p97">[<sup><small>p. 97</small></sup>]</span> aussi proches que l'oreille de l'œil, et aussi nombreuses que les poils de la crinière d'un cheval, aussi proches et nombreuses sont les âmes des méchants, mais elles ne voient ni n'entendent aucun son les unes des autres ; chacun pense ainsi : « Je suis seul ! » Et pour eux, il y a l'obscurité des ténèbres, la puanteur et la terreur des tourments et des châtiments de l'enfer sous toutes leurs formes ; de sorte que quiconque n'est qu'un jour en enfer s'écrie ainsi : « Ces neuf mille ans ne sont-ils pas déjà accomplis lorsqu'ils devraient nous libérer de cet enfer ? »
+« Et je vis l'enfer le plus sombre, pernicieux, épouvantable, terrible, très douloureux, malfaisant et malodorant. Après une observation plus approfondie, il m'apparut comme un gouffre dont mille coudées n'atteindraient pas le fond ; et même si tout le bois du monde était mis au feu dans cet enfer le plus puant et le plus sombre, il n'en dégagerait jamais la moindre odeur ; et aussi <span id="p97"><sup><small>[ p. 97 ]</small></sup></span> aussi proches que l'oreille de l'œil, et aussi nombreuses que les poils de la crinière d'un cheval, aussi proches et nombreuses sont les âmes des méchants, mais elles ne voient ni n'entendent aucun son les unes des autres ; chacun pense ainsi : « Je suis seul ! » Et pour eux, il y a l'obscurité des ténèbres, la puanteur et la terreur des tourments et des châtiments de l'enfer sous toutes leurs formes ; de sorte que quiconque n'est qu'un jour en enfer s'écrie ainsi : « Ces neuf mille ans ne sont-ils pas déjà accomplis lorsqu'ils devraient nous libérer de cet enfer ? »
 
 . . . . .
 
@@ -645,7 +645,7 @@ Français : « . . . Ensuite, Vohûmano, [^79] l'archange, <span id="p96">[<sup>
 
 « Si, après avoir prié Dieu pour une descendance, il vous accorde votre grâce, dans quel océan de troubles et d'anxiété vous précipitez-vous ! Votre fils ou votre fille risque de grandir dans des habitudes vicieuses et de gâcher vos jours par son infidélité ; l'un deviendra voleur, l'autre courtisane, et vous fera honte à la vieillesse. L'abeille qui produit le miel a aussi un dard.
 
-« Le monde est composé de convoitise, d’avarice et de <span id="p101">[<sup><small>p. 101</small></sup>]</span> des passions les plus incontrôlables ; si Dieu leur donne une seule chose, même celle qu’ils désirent le plus, ils ne sont pas satisfaits, mais ils en désirent continuellement davantage, jusqu’au centuple.
+« Le monde est composé de convoitise, d’avarice et de <span id="p101"><sup><small>[ p. 101 ]</small></sup></span> des passions les plus incontrôlables ; si Dieu leur donne une seule chose, même celle qu’ils désirent le plus, ils ne sont pas satisfaits, mais ils en désirent continuellement davantage, jusqu’au centuple.
 
 « L'avarice et l'ambition les privent de sommeil et les empêchent de faire un effort louable pour vaincre ces passions terribles qui les plongeront dans une misère éternelle.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 ## SIXIÈME ADHYÂYA.
 
@@ -42,9 +42,9 @@ dateCreated: 2025-1-16T20:6:29Z
 
 3 [^836]. Celui qui, après avoir accompli ce travail et s'être reposé de nouveau, et après avoir réuni une essence (le soi) avec l'autre (la matière), avec un, deux, trois ou huit, avec le temps aussi et avec les qualités subtiles de l'esprit,
 
-4\. Qui, après avoir commencé [^837] les œuvres douées des (trois) qualités, peut ordonner toutes choses, mais lorsque, en l'absence de toutes celles-ci, il a causé la destruction de l'œuvre, continue, étant en vérité [^838] différent (de tout ce qu'il a produit) ; <span id="p261">[<sup><small>p. 261</small></sup>]</span> 5\. Il est le commencement, produisant les causes qui unissent (l'âme au corps), et, étant <span id="p262">[<sup><small>p. 262</small></sup>]</span> au-dessus des trois sortes de temps (passé, présent, futur), il est vu comme sans parties [^839], après que nous ayons d'abord adoré ce dieu adorable, qui a de nombreuses formes, et qui est la vraie source (de toutes choses), comme habitant dans notre propre esprit.
+4\. Qui, après avoir commencé [^837] les œuvres douées des (trois) qualités, peut ordonner toutes choses, mais lorsque, en l'absence de toutes celles-ci, il a causé la destruction de l'œuvre, continue, étant en vérité [^838] différent (de tout ce qu'il a produit) ; <span id="p261"><sup><small>[ p. 261 ]</small></sup></span> 5\. Il est le commencement, produisant les causes qui unissent (l'âme au corps), et, étant <span id="p262"><sup><small>[ p. 262 ]</small></sup></span> au-dessus des trois sortes de temps (passé, présent, futur), il est vu comme sans parties [^839], après que nous ayons d'abord adoré ce dieu adorable, qui a de nombreuses formes, et qui est la vraie source (de toutes choses), comme habitant dans notre propre esprit.
 
-6\. Il est au-delà de toutes les formes de l'arbre [^840] (du monde) et du temps, il est l'autre, autour duquel ce monde tourne, quand [^841] on a connu celui qui <span id="p263">[<sup><small>p. 263</small></sup>]</span> apporte le bien et écarte le mal, le seigneur de la félicité, comme habitant dans le soi, l'immortel, le soutien de tous.
+6\. Il est au-delà de toutes les formes de l'arbre [^840] (du monde) et du temps, il est l'autre, autour duquel ce monde tourne, quand [^841] on a connu celui qui <span id="p263"><sup><small>[ p. 263 ]</small></sup></span> apporte le bien et écarte le mal, le seigneur de la félicité, comme habitant dans le soi, l'immortel, le soutien de tous.
 
 7\. Faisons-nous connaître le plus grand seigneur des seigneurs [^842], la plus haute divinité des divinités, le maître des maîtres, le plus élevé au-dessus, comme dieu, le seigneur du monde, l'adorable.
 
@@ -54,11 +54,11 @@ dateCreated: 2025-1-16T20:6:29Z
 
 10\. Ce seul dieu qui s'est spontanément recouvert, comme une araignée, de fils tirés de la cause première (pradhâna), nous accorde l'entrée dans Brahman [^845].
 
-11\. Il est le Dieu unique, caché dans tous les êtres, omniprésent, <span id="p264">[<sup><small>p. 264</small></sup>]</span> le soi dans tous les êtres, veillant sur toutes les œuvres, habitant dans tous les êtres, le témoin, le percepteur [^846], l'unique, libre de qualités.
+11\. Il est le Dieu unique, caché dans tous les êtres, omniprésent, <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> le soi dans tous les êtres, veillant sur toutes les œuvres, habitant dans tous les êtres, le témoin, le percepteur [^846], l'unique, libre de qualités.
 
 12 [^847]. Il est le seul maître de beaucoup qui (semblent agir, mais n'agissent en réalité) pas [^848] ; il multiplie la semence unique. Le bonheur éternel appartient aux sages qui le perçoivent en eux-mêmes, et non aux autres.
 
-13 [^849]. Il est l'éternel parmi les éternels, le penseur parmi les penseurs, qui, bien qu'unique, comble les désirs de plusieurs. Celui qui a connu la cause qui doit être appréhendée par la philosophie et le yoga, celui-là est libéré de toutes les entraves. <span id="p265">[<sup><small>p. 265</small></sup>]</span> 14\. Le soleil [^850] n'y brille pas, ni la lune et les étoiles, ni ces éclairs, et encore moins ce feu. Lorsqu'il brille, tout brille après lui ; par sa lumière, tout est éclairé.
+13 [^849]. Il est l'éternel parmi les éternels, le penseur parmi les penseurs, qui, bien qu'unique, comble les désirs de plusieurs. Celui qui a connu la cause qui doit être appréhendée par la philosophie et le yoga, celui-là est libéré de toutes les entraves. <span id="p265"><sup><small>[ p. 265 ]</small></sup></span> 14\. Le soleil [^850] n'y brille pas, ni la lune et les étoiles, ni ces éclairs, et encore moins ce feu. Lorsqu'il brille, tout brille après lui ; par sa lumière, tout est éclairé.
 
 15\. Il est l'oiseau [^851] au milieu du monde ; il est aussi (comme) le feu (du soleil) qui s'est couché dans l'océan. L'homme qui le connaît vraiment surmonte la mort [^852] ; il n'y a pas d'autre chemin à suivre.
 
@@ -66,13 +66,13 @@ dateCreated: 2025-1-16T20:6:29Z
 
 17\. Celui qui est devenu cela [^856], il est l'immortel, restant le seigneur, le connaisseur, le gardien toujours présent de ce monde, qui gouverne ce monde pour toujours, car personne d'autre n'est capable de le gouverner.
 
-18\. En quête de liberté, je me réfugie auprès de ce Dieu qui est la lumière de ses propres pensées [^857], celui qui <span id="p266">[<sup><small>p. 266</small></sup>]</span> crée le premier Brahman (m.) [^858] et lui délivre les Védas ;
+18\. En quête de liberté, je me réfugie auprès de ce Dieu qui est la lumière de ses propres pensées [^857], celui qui <span id="p266"><sup><small>[ p. 266 ]</small></sup></span> crée le premier Brahman (m.) [^858] et lui délivre les Védas ;
 
 19\. Qui est sans parties, sans actions, tranquille, sans faute, sans tache [^859], le plus haut pont vers l'immortalité — comme un feu qui a consumé son combustible.
 
 20\. Ce n'est que lorsque les hommes rouleront le ciel comme une peau qu'il y aura une fin à la misère, à moins que Dieu n'ait d'abord été connu [^860].
 
-21\. Par le pouvoir de sa pénitence et par la grâce de Dieu [^861], le sage <i>S</i>vetâ<i>s</i>vatara a véritablement [^862] proclamé Brahman, le plus haut et le plus saint, aux meilleurs ascètes [^863], comme l'a approuvé la compagnie des <i>Ri</i>shis. <span id="p267">[<sup><small>p. 267</small></sup>]</span> 22\. Ce plus haut mystère du Vedânta, transmis à une époque antérieure, ne devrait pas être donné à quelqu'un dont les passions n'ont pas été maîtrisées, ni à quelqu'un qui n'est pas un fils, ou qui n'est pas un élève [^864].
+21\. Par le pouvoir de sa pénitence et par la grâce de Dieu [^861], le sage <i>S</i>vetâ<i>s</i>vatara a véritablement [^862] proclamé Brahman, le plus haut et le plus saint, aux meilleurs ascètes [^863], comme l'a approuvé la compagnie des <i>Ri</i>shis. <span id="p267"><sup><small>[ p. 267 ]</small></sup></span> 22\. Ce plus haut mystère du Vedânta, transmis à une époque antérieure, ne devrait pas être donné à quelqu'un dont les passions n'ont pas été maîtrisées, ni à quelqu'un qui n'est pas un fils, ou qui n'est pas un élève [^864].
 
 23\. Si ces vérités ont été dites à un homme élevé, qui ressent la plus haute dévotion pour Dieu, et pour son Guru comme pour Dieu, alors elles brilleront, alors elles brilleront vraiment.
 

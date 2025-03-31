@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T22:33:52Z
   </table>
 </figure>
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 L'abstinence, louable, [20](The_Tract_of_the_Quiet_Way#p20).
 
@@ -155,7 +155,7 @@ Langage inapproprié, [21](The_Tract_of_the_Quiet_Way#p21).
 
 Incarné dix-sept fois, [17](The_Tract_of_the_Quiet_Way#p17).
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 Incarnations, Livre des, [39](Translators_Notes#p39).
 

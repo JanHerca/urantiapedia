@@ -67,7 +67,7 @@ Reçois-la avec une âme bienveillante,
 Quand de longues austérités dans le temps
 L'avait-elle purifiée de la souillure du crime ?
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 Et, fils de Kus'ik, fais-le-moi savoir,
 Mon père généreux a-t-il montré
@@ -183,7 +183,7 @@ Attends les fils et les enfants de tes enfants !
 Il parla. Le modeste roi répondit
 Tout cela était prospère partout.
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 Ainsi, pendant un moment, les deux hommes conversèrent,
 Tandis que chacun répétait son histoire,
@@ -297,7 +297,7 @@ Tout dépend des dieux et des esprits :
 Ma vie même lui est due,
 Mon gardien, mon ami et mon ministre.
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 L'alimentation de la flamme sacrée, [^223]
 L'allocation que réclament les créatures vivantes. [^224]
@@ -404,7 +404,7 @@ Avec des éléphants, des voitures et des chevaux.
 Ses fanions flottent sur d'innombrables bandes ;
 Il est donc bien plus puissant que moi.
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 Il parla. Puis elle, d'une humeur humble,
 À ce grand saint, elle renouvela son discours :
@@ -490,7 +490,7 @@ Ou un grand serpent dont les crocs sont écrasés :
 
 Il semble que l'objet de cette légende soit de représenter cette création miraculeuse comme l'origine de ces tribus, et que rien d'autre n'ait pu être prévu que le fait que la vache ait appelé à l'existence de grandes armées, de la même souche que des tribus particulières existant auparavant.
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 Ou comme dans une éclipse rapide du Soleil
 Sombre du destin, il ne peut l'éviter :
@@ -611,7 +611,7 @@ Le liquide inextinguible et le sec :
 Le dard de la vengeance, prompt à tuer :
 Le dard des gobelins, le bec du courlis :
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 Le disque du Destin et du Droit,
 Et celui de Vishnu, au vol infaillible :
@@ -718,7 +718,7 @@ Pour faire de moi un saint royal.
 Ainsi méditant, il fut soumis à son bon sens,
 Avec le plus grand zèle, il renouvela ses vœux.
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 Alors régna un monarque, fidèle dans l'âme,
 Qui gardait chaque sens sous contrôle ferme ;
@@ -804,7 +804,7 @@ Son intention maléfique est à peine exprimée,
 Et ils crièrent, tandis que la rage brûlait leurs poitrines,
 « Sois un vil Chandála [^236] transformé ! »
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 Ceci dit, avec de nobles pensées inspirées,
 Chacun se retira dans sa retraite.
@@ -922,7 +922,7 @@ Les saints hommes se rassemblent ici.
 Tous ont fait preuve d’une obéissance méritée :
 Mahodaya [^238] refusa seul.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Et maintenant, ô chef des ermites, écoute
 Quelle réponse, nous glaçant de peur,
@@ -1052,7 +1052,7 @@ Et le remarqua en tombant du ciel,
 Et donnant libre cours à toute sa passion,
 Il s'écria avec fureur : « Restez, ô restez ! »
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 Par le pouvoir de la pénitence et la sainte tradition,
 Comme celui qui a façonné les mondes d’autrefois,

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Pendant les préparatifs de la guerre contre le Magadha, des nouvelles arrivèrent de la frontière parthe : les troupes du Gandhâra avaient remporté une victoire décisive, mais chèrement payée, car le roi lui-même, qui avait été le premier des combattants, mourut glorieusement sur le champ de bataille. La couronne passa alors à Kanishka, qui considéra comme son premier devoir de vaincre les ennemis de sa nation. Laissant les généraux de confiance de son frère à la tête de l'armée victorieuse en Parthie, il se plaça à la tête des troupes destinées à marcher contre le Magadha. Charaka fut prié de l'accompagner sur le terrain, et Matura resta sur place comme chancelier de l'État.
 
@@ -50,7 +50,7 @@ Tandis que le roi et son médecin chevauchaient côte à côte, leur maison derr
 
 « Tu devrais en savoir plus que moi », continua Kanishka, « car tu t’es consacré à la religion en rejoignant la confrérie, alors que je suis un laïc, et mes notions religieuses ne sont pas fondées sur des connaissances plus profondes. »
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 « Hélas ! soupira Charaka, je ne suis pas digne d’être moine. L’abbé du Vihâra ne put m’aider et me conseilla de faire dissiper mes doutes et de régler les problèmes de mon âme auprès d’Açvaghosha de Magadha, le grand philosophe et saint qui, dit-on, comprend la doctrine du Bienheureux, le Bouddha. »
 

@@ -76,7 +76,7 @@ Le Cheikh a ensuite posé les questions suivantes
 Quel est ce mot, quelle est cette vertu, quel est ce sortilège inestimable ;
 Quelle robe porterai-je pour pouvoir captiver mon époux ?[^4]
 
-<span id="p104">[<sup><small>p. 104</small></sup>]</span>
+<span id="p104"><sup><small>[ p. 104 ]</small></sup></span>
 
 Le gourou répondit :
 
@@ -101,7 +101,7 @@ Si l’homme est tué avec elle, il ira à la rencontre de Dieu,
 Il y a une amitié entre la beauté et l’amour, une alliance entre la faim et les mets délicats ;
 Compagnonnage entre la cupidité et la richesse, entre un homme endormi et un lit et une couverture.
 
-<span id="p105">[<sup><small>p. 105</small></sup>]</span>
+<span id="p105"><sup><small>[ p. 105 ]</small></sup></span>
 
 La colère qui aboie est méprisée ; il est vain de s'inquiéter des occupations du monde.
 Se taire, ô Nanak, est bon ; sans le Nom, la bouche est souillée.[^1]
@@ -121,7 +121,7 @@ Il a créé Maya par son pouvoir ; assis, il a contemplé son œuvre avec délic
 Tu sais toutes choses; tu donnes et tu reprends la vie par une parole.[^3]
 Assis, tu contemples _ton œuvre_ avec délice.[^4]
 
-<span id="p106">[<sup><small>p. 106</small></sup>]</span>
+<span id="p106"><sup><small>[ p. 106 ]</small></sup></span>
 
 Cheikh Brahm demanda au gourou de lui donner de plus amples instructions. Le gourou parla alors de l'humilité et dit que, comme l'eau, qui repose humblement sur la terre, jaillit sous pression dans l'air en fontaines étincelantes, ainsi ceux qui conservent un esprit humble s'élèvent au plus haut sommet de Dieu.
 
@@ -129,7 +129,7 @@ Le Cheikh se leva alors pour prendre congé et dit : « Ô Nanak, tu as trouvé 
 
 Le gourou se rendit ensuite à Dipalpur. Au cours de son voyage, un sanyasi lui demanda de définir le mot udas. Le gourou répondit : « Utiliser toutes les choses de ce monde sans les considérer comme siennes, mais comme la propriété de Dieu, et entretenir constamment le désir de Le rencontrer, c'est udas. »
 
-Le gourou visita ensuite Kanganpur, Kasur et Patti, dans le district de Lahore. De là, il se rendit à Windpur, non loin de l'actuelle ville de Cholha, dans le sous-collectorat de Tarn Taran, dans le district d'Amritsar. Il rencontra des Khatris qui y résidaient ; mais lorsqu'ils le virent habillé en faqir et entendirent son ménestrel Mardana chanter, ils furent mécontents de ce qu'ils considéraient comme la mascarade qu'il avait adoptée et lui dirent : « Quel est donc ce costume que tu as revêtu ? En devenant faqir, tu as déshonoré ta tribu et égaré le monde. Quitte cet endroit. » Le gourou déclara qu'il ne resterait que pour la nuit et qu'il partirait le lendemain matin. Il ajouta qu'il ne menait pas les gens sur la mauvaise voie, mais les guidait vers le salut. Ils répondirent qu'ils ne lui permettraient pas de rester un instant dans leur village. Il devait <span id="p107">[<sup><small>p. 107</small></sup>]</span> partir immédiatement, sinon ils l'expulseraient de force. Le gourou, se conformant à cet ordre insultant, déclara que sa place serait permanente.
+Le gourou visita ensuite Kanganpur, Kasur et Patti, dans le district de Lahore. De là, il se rendit à Windpur, non loin de l'actuelle ville de Cholha, dans le sous-collectorat de Tarn Taran, dans le district d'Amritsar. Il rencontra des Khatris qui y résidaient ; mais lorsqu'ils le virent habillé en faqir et entendirent son ménestrel Mardana chanter, ils furent mécontents de ce qu'ils considéraient comme la mascarade qu'il avait adoptée et lui dirent : « Quel est donc ce costume que tu as revêtu ? En devenant faqir, tu as déshonoré ta tribu et égaré le monde. Quitte cet endroit. » Le gourou déclara qu'il ne resterait que pour la nuit et qu'il partirait le lendemain matin. Il ajouta qu'il ne menait pas les gens sur la mauvaise voie, mais les guidait vers le salut. Ils répondirent qu'ils ne lui permettraient pas de rester un instant dans leur village. Il devait <span id="p107"><sup><small>[ p. 107 ]</small></sup></span> partir immédiatement, sinon ils l'expulseraient de force. Le gourou, se conformant à cet ordre insultant, déclara que sa place serait permanente.
 
 Le gourou se rendit ensuite dans un village situé à l'emplacement de l'actuel Goindwal, où il souhaitait séjourner, mais personne, hormis un pauvre lépreux, ne voulut l'accueillir ni le laisser y séjourner. Le lépreux le conduisit dans sa hutte et l'hébergea pour la nuit. Le lépreux remercia Dieu d'avoir enfin vu un visage humain, car même les animaux inférieurs l'avaient fui. Lorsqu'il commença à se lamenter davantage sur son sort, le gourou prononça ces mots :
 
@@ -153,7 +153,7 @@ Nanak, le Vrai, est bienfaisant envers tous.[^1]
 
 Le gourou se montra encore plus affectueux envers le lépreux et le bénit. Le lépreux fut guéri, tomba aux pieds du gourou et commença à prononcer le Nom.
 
-<span id="p108">[<sup><small>p. 108</small></sup>]</span>
+<span id="p108"><sup><small>[ p. 108 ]</small></sup></span>
 
 Le gourou traversa ensuite Sultanpur – son ancien quartier général lorsqu'il était fonctionnaire –, Vairowal et Jalalabad, jusqu'à son arrivée à Kari Pathandi, dans le district d'Amritsar. À Kari Pathandi, il fit de nombreux convertis pachtounes. Ceux-ci lui faisaient des sérénades avec de la musique instrumentale, entrecoupée de cris de « Vive le roi Nanak ! ». Le gourou composa alors le texte suivant :
 
@@ -173,7 +173,7 @@ Et accomplit l'incantation des mérites, elle trouvera son bien-aimé.
 Celle qui le rencontre avec son cœur continuera à le rencontrer ; c'est ce qu'on appelle une _vraie_ rencontre.
 Même si on le désire beaucoup, une rencontre ne se fait pas par des mots.
 
-<span id="p109">[<sup><small>p. 109</small></sup>]</span>
+<span id="p109"><sup><small>[ p. 109 ]</small></sup></span>
 
 Le métal se mélange au métal et l'amour se hâte d'aimer.
 Connaissez la faveur du Guru et vous trouverez l'Intrépide.
@@ -193,7 +193,7 @@ Les femmes hindoues, qu'elles soient de haute ou de basse caste, subissent le m�
 Ils chantent le chant du meurtre, ô Nanak, et se barbouillent du safran du sang.
 Nanak chante les louanges du Seigneur dans la ville des cadavres, et prononce ce lieu commun :
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 Celui qui a créé les hommes leur a assigné des positions différentes ; Il s'assied à l'écart, seul, et les regarde.
 Véritable est le Seigneur, véritable est sa décision, véritable est la justice qu'il exerce en exemple.
@@ -226,7 +226,7 @@ Je t'aimerai, je te laverai les membres et je continuerai à répéter ton nom.
 _Dit_ Nanak, ton esclave est ingrat ; si tu lui pardonnes, ce sera à ta gloire.
 Au commencement, à chaque âge, Seigneur de miséricorde, Donateur, sans Toi le salut ne s'obtient pas.[^2]
 
-Lorsque le gourou eut terminé cet hymne, Mardana vit des femmes pleurer et crier en passant, et demanda à son maître ce qui leur était arrivé. Le gourou dit à Mardana de jouer du <span id="p112">[<sup><small>p. 112</small></sup>]</span> rebeck. Mardana répondit qu'il ne pouvait pas le faire, car il tenait un cheval. Le gourou lui ordonna de prononcer « Wah Guru » et de lâcher le cheval. Mardana obéit et joua du Rag Asa, sur lequel le gourou chanta l'hymne suivant :
+Lorsque le gourou eut terminé cet hymne, Mardana vit des femmes pleurer et crier en passant, et demanda à son maître ce qui leur était arrivé. Le gourou dit à Mardana de jouer du <span id="p112"><sup><small>[ p. 112 ]</small></sup></span> rebeck. Mardana répondit qu'il ne pouvait pas le faire, car il tenait un cheval. Le gourou lui ordonna de prononcer « Wah Guru » et de lâcher le cheval. Mardana obéit et joua du Rag Asa, sur lequel le gourou chanta l'hymne suivant :
 
 Celles qui portaient de belles tresses et dont les raies de cheveux étaient teintes de vermillon,
 On leur coupe maintenant les cheveux avec des ciseaux et on jette de la poussière sur leurs têtes.
@@ -247,7 +247,7 @@ S’ils avaient pensé à Lui avant, pourquoi auraient-ils dû être punis ?
 Mais ils avaient perdu toute pensée de Dieu dans les joies, dans les spectacles et dans les plaisirs.
 Lorsque le règne de Babar fut proclamé, aucun prince pathan ne mangea sa nourriture.
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 Certains ont perdu leurs _cinq_ temps de prière, d'autres leurs heures d'adoration.
 Comment les femmes hindoues peuvent-elles désormais se baigner et appliquer des marques frontales sans leurs carrés sacrés ?
@@ -258,7 +258,7 @@ Ce qui plaît à Dieu, ô Nanak, arrivera ; qu'est-ce que l'homme ?[^3]
 
 Après cela, Mir Khan, le gouverneur de la prison, arriva. Il vit que le ballot du gourou était soulevé d'une coudée au-dessus de sa tête, sans aucun support apparent, et que le cheval confié à Mardana le suivait tandis qu'il jouait de la musique sacrée sur son rebeck. Le gouverneur communiqua cette information à Babar. L'empereur répondit que, s'il avait su que la ville abritait de tels saints hommes, il ne l'aurait pas détruite. Sur la suggestion du gouverneur, il se rendit à la prison, distante de trois kilomètres. Des femmes pachtounes et hindoues s'y trouvaient, blotties les unes contre les autres, en train de moudre du maïs. Le gourou avait également reçu un moulin à main à cet effet. On dit que le moulin tournait tout seul pendant qu'il y mettait le maïs. L'empereur s'adressa au gourou, mais celui-ci était en transe, pensant au massacre de ses compatriotes innocents. À son réveil, il entonna l'hymne suivant, qui, cependant, ne figure pas dans le Granth Sahib :
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 Personne ne peut tuer celui que Tu préserves, ô Bienveillant.
 Comment peut-on compter tes louanges ? Tu sauves d’innombrables êtres.
@@ -273,7 +273,7 @@ Seigneur, retire-le de l'océan du monde et fais-le Tienne.
 
 On raconte qu'en entendant cela, l'empereur tomba aux pieds de Nanak et déclara que Dieu était apparu sur son visage. Sur ce, tous les courtisans saluèrent Nanak. L'empereur lui demanda d'accepter un présent. Le gourou répondit qu'il ne désirait rien pour lui-même, mais qu'il demandait la libération des captifs de Saiyidpur. Sur ce, l'empereur ordonna leur libération et la restitution de leurs biens. Les captifs, cependant, refusèrent de partir sans le gourou. Il fut alors autorisé à les accompagner, et ils rentrèrent chez eux en ville. Ils découvrirent que tous ceux qui étaient restés à Saiyidpur avaient été mis à mort. Mardana raconta à son maître que tout s'était passé comme Dieu l'avait voulu. Sur ce, le gourou, accompagné du rebec de Mardana, entonna la lamentation suivante :
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 Où sont ces sports, ces écuries et ces chevaux ?
 Où sont ces clairons et ces clairons ?
@@ -295,7 +295,7 @@ Un camp a visé et déchargé ses armes, l'autre a également manié ses _armes_
 Ceux dont la lettre[^1] a été déchirée dans la cour de Dieu doivent mourir, mes frères.
 _Il y avait_ les épouses d'Hindous, de Turcs, de Bhattis et de Rajputs.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 Les robes de certains étaient déchirées de la tête aux pieds ; les habitations d’autres étaient leurs lieux de crémation.
 Comment ont passé la nuit celles dont les maris n'étaient pas rentrés ?
@@ -315,7 +315,7 @@ La convoitise est un donjon noir, elle démérite les chaînes aux pieds.
 La richesse frappe toujours l'âme avec son maillet, tandis que le péché siège en tant que juge.
 L'homme sera bon ou mauvais, ô Seigneur, selon ton regard.
 
-<span id="p117">[<sup><small>p. 117</small></sup>]</span>
+<span id="p117"><sup><small>[ p. 117 ]</small></sup></span>
 
 L'Être primordial est désormais appelé Allah ; le tour des Cheikhs est venu.
 Il y a une taxe sur les sanctuaires des dieux ; telle est la pratique établie.
@@ -334,7 +334,7 @@ Les hommes, par l’exercice du mensonge, construisent des maisons pour eux-mêm
 Réveillez-vous, vous qui dormez ; voici l'âme du marchand qui doit rester ici pour toujours, puis construire des maisons.
 Le corps tombera et l'âme partira, si quelqu'un désire connaître la vérité.
 
-<span id="p118">[<sup><small>p. 118</small></sup>]</span>
+<span id="p118"><sup><small>[ p. 118 ]</small></sup></span>
 
 Pourquoi cries-tu : Hélas ! hélas ! Dieu est et sera.
 Vous pleurez pour les autres, mais qui pleurera pour vous ?
@@ -353,7 +353,7 @@ Répétez le Nom, écoutez le Nom et traitez le Nom.
 Tel est le profit, telle est la perte ; ainsi va le monde.
 Ce qui lui plaît, ô Nanak, est ma gloire.[^2]
 
-Un jour, Mardana s'avisa de demander au gourou d'expliquer la cause du massacre de Saiyidpur. Il dit : « Monsieur, certains Pathans ont mal agi ; mais pourquoi tant de gens ont-ils été tués à cause d'eux ? » Le gourou désigna un arbre et dit à Mardana d'aller dormir dessous. À son réveil, le gourou lui donnerait une réponse. Mardana alla donc s'allonger sous l'arbre. Une goutte de miel tomba sur sa poitrine nue. Pendant son sommeil, des fourmis vinrent la boire, et le dormeur les écrasa à moitié inconscients avec sa main. À son réveil, le gourou lui demanda ce qu'il avait fait. Il répondit <span id="p119">[<sup><small>p. 119</small></sup>]</span> qu'un insecte l'avait piqué et qu'il les avait donc tous tués. Le gourou répondit : « C'est ainsi que les habitants de Saiyidpur ont été tués. » Sur ce, Mardana tomba à ses pieds et le reste des habitants de Saiyidpur devinrent ses disciples.
+Un jour, Mardana s'avisa de demander au gourou d'expliquer la cause du massacre de Saiyidpur. Il dit : « Monsieur, certains Pathans ont mal agi ; mais pourquoi tant de gens ont-ils été tués à cause d'eux ? » Le gourou désigna un arbre et dit à Mardana d'aller dormir dessous. À son réveil, le gourou lui donnerait une réponse. Mardana alla donc s'allonger sous l'arbre. Une goutte de miel tomba sur sa poitrine nue. Pendant son sommeil, des fourmis vinrent la boire, et le dormeur les écrasa à moitié inconscients avec sa main. À son réveil, le gourou lui demanda ce qu'il avait fait. Il répondit <span id="p119"><sup><small>[ p. 119 ]</small></sup></span> qu'un insecte l'avait piqué et qu'il les avait donc tous tués. Le gourou répondit : « C'est ainsi que les habitants de Saiyidpur ont été tués. » Sur ce, Mardana tomba à ses pieds et le reste des habitants de Saiyidpur devinrent ses disciples.
 
 Après cela, le gourou retourna au camp de l'empereur afin d'obtenir un nouvel entretien avec lui. Il visita la prison et chanta des hymnes pour les prisonniers dont il déplorait le traitement. Sous l'influence de ces sentiments, il composa le texte suivant :
 
@@ -386,7 +386,7 @@ De ceux qui sont imprégnés de Ton nom et continuent à T'aimer ![^2]
 
 L'Empereur fut si satisfait du gourou qu'il lui demanda de l'accompagner. Au début, le gourou ne promit de rester qu'une journée avec lui, mais, pressé de rester trois jours, il finit par accepter. Le gourou était toujours affligé en regardant les prisonniers. Pour la troisième fois, il chanta l'hymne précédent, puis tomba en transe et perdit connaissance. L'Empereur se pencha sur lui et demanda aux assistants ce qui s'était passé. Ils répondirent que le fâqir, témoin de la colère divine, souffrait et était tombé en transe. Babar, inquiet pour la sécurité du gourou, demanda à la foule de prier Dieu pour son rétablissement.
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 Sur ce, le gourou se leva, et une lumière brilla comme si mille soleils s'étaient levés. Babar le salua et demanda au gourou d'être bienveillant envers lui. Le gourou répondit : « Si toi, ô Empereur, tu désires la bonté, libère tous tes captifs. » Il accepta, à une condition : que le gourou promette que son empire se perpétuerait de génération en génération. Le gourou répondit : « Ton empire subsistera un temps. » L'empereur ordonna alors que tous ses prisonniers soient revêtus de robes d'honneur, ce qui procurait au gourou un grand plaisir et une grande satisfaction. L'empereur demanda au gourou des instructions adaptées à sa position. Le gourou dit : « Rends des jugements justes, révère les saints hommes, renonce au vin et aux jeux d'argent. Le monarque qui s'adonne à ces vices, s'il survit, pleurera ses méfaits. Sois miséricordieux envers les vaincus et adore Dieu en esprit et en vérité. »
 

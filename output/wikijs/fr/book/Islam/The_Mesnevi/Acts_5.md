@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p110">[<sup><small>p. 110</small></sup>]</span>
+<span id="p110"><sup><small>[ p. 110 ]</small></sup></span>
 
 **CHAPITRE V.**
 
@@ -52,7 +52,7 @@ Le premier protecteur royal de Jelāl, 'Alā'u-'d-Dīn Keyqubād, était désorm
 
 Un jour, le monarque fit un festin dans les vignes et sortit dans les champs pour se promener seul. Il prit un jeune serpent, le transporta dans la maison, le plaça dans une boîte en or, la scella et rejoignit ses courtisans.
 
-Le roi montra à ces assistants le paquet scellé, comme s'il venait d'être reçu en secret du Qaysar[^26] <span id="p111">[<sup><small>p. 111</small></sup>]</span> de Constantinople avec un message à cet effet : « Si votre religion de l'Islam est la vraie foi, l'un de vos sages pourra voir dans ce paquet sans en briser les sceaux et dire ce qu'il contient. »
+Le roi montra à ces assistants le paquet scellé, comme s'il venait d'être reçu en secret du Qaysar[^26] <span id="p111"><sup><small>[ p. 111 ]</small></sup></span> de Constantinople avec un message à cet effet : « Si votre religion de l'Islam est la vraie foi, l'un de vos sages pourra voir dans ce paquet sans en briser les sceaux et dire ce qu'il contient. »
 
 Le roi demanda alors à ses ministres de prouver leur loyauté envers lui et leur fidélité à leur religion en résolvant cette énigme. Aucun d'entre eux n'y parvint.
 
@@ -72,7 +72,7 @@ Jelāl avait l'habitude d'appeler Fātima son œil droit, sa sœur Hediyya son �
 
 Lorsque le mariage de Fatima fut célébré, tous les anges du ciel étaient présents et souhaitèrent au jeune couple tout le bonheur possible.
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 C'était une sainte, qui accomplissait continuellement des miracles. Elle jeûnait le jour et veillait la nuit, ne mangeant qu'une fois tous les trois jours. Elle était très charitable envers les pauvres, les orphelins et les veuves, leur distribuant de la nourriture et des vêtements.
 

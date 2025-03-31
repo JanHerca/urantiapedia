@@ -34,7 +34,7 @@ dateCreated: 2025-1-12T19:28:7Z
 
 DOUZIÈME CONFÉRENCE.
 
-Si un moine ou une nonne voit diverses couleurs (ou formes), par exemple dans des couronnes, des images habillées, des poupées, des vêtements [^474], des boiseries, des plâtres, des peintures, des bijoux, des objets en ivoire, des cordes, des feuilles coupées, il ne doit pas, pour le plaisir des yeux, se résoudre à aller là où il verra diverses couleurs (ou formes). Tout ce qui a été dit <span id="p186">[<sup><small>p. 186</small></sup>]</span> dans le dernier chapitre concernant les sons doit être répété ici concernant les couleurs (ou formes) ; seuls les passages sur la musique doivent être omis. (1)
+Si un moine ou une nonne voit diverses couleurs (ou formes), par exemple dans des couronnes, des images habillées, des poupées, des vêtements [^474], des boiseries, des plâtres, des peintures, des bijoux, des objets en ivoire, des cordes, des feuilles coupées, il ne doit pas, pour le plaisir des yeux, se résoudre à aller là où il verra diverses couleurs (ou formes). Tout ce qui a été dit <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> dans le dernier chapitre concernant les sons doit être répété ici concernant les couleurs (ou formes) ; seuls les passages sur la musique doivent être omis. (1)
 
 <figure class="table chapter-navigator">
   <table>

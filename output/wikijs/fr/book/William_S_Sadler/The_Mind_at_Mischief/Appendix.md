@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Dans les discussions sur les médiums frauduleux ou les médiums qui se trompent eux-mêmes, le lecteur de ce livre a rencontré à plusieurs reprises l'affirmation selon laquelle il existait certaines exceptions aux accusations générales qui y étaient formulées, et a été renvoyé à cette annexe. Il est maintenant de mon devoir d'expliquer ce que j'avais à l'esprit lorsque ces notes de bas de page ont été insérées.
 
@@ -42,7 +42,7 @@ L’autre exception concerne un cas assez particulier de phénomènes psychiques
 
 Une étude approfondie de ce cas m'a convaincu qu'il ne s'agit pas d'une transe ordinaire. Bien que le sommeil semble être tout à fait naturel, il est très profond et jusqu'à présent nous n'avons jamais pu réveiller le sujet dans cet état ; mais le corps n'est jamais rigide et le fonctionnement du cœur n'est jamais modifié, bien que la respiration soit parfois sensiblement perturbée. Cet homme est complètement inconscient, complètement inconscient de ce qui se passe et, à moins qu'on ne le lui dise plus tard, il ne sait jamais qu'il a servi de centre de compensation pour les allées et venues de prétendues personnalités extra-planétaires. En fait, il est plus ou moins indifférent à tout ce qui se passe et montre un manque d'intérêt surprenant pour ces affaires qui se produisent de temps à autre.
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 Ces visites nocturnes ne ressemblent en rien aux séances de spiritisme. A aucun moment au cours de la période d'observation de dix-huit ans, il n'y a eu de communication d'une source quelconque prétendant être l'esprit d'un être humain décédé. Les communications qui ont été écrites, ou que nous avons eu l'occasion d'entendre, sont faites par un vaste ordre d'êtres présumés qui prétendent venir d'autres planètes pour visiter ce monde, s'arrêter ici en tant que visiteurs étudiants pour étudier et observer lorsqu'ils sont en route d'un univers à un autre ou d'une planète à une autre. Ces communications proviennent également d'êtres prétendument spirituels qui prétendent avoir été affectés sur cette planète pour des tâches de diverses sortes.
 

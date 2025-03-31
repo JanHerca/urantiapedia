@@ -52,7 +52,7 @@ Soyez propitiatoire . . . .
 
 9\. Yathâ aha vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
-10 [^1528]. Donne-nous force et victoire ! Donne-nous le bien-être en bétail et en pain ! Donne-nous un grand nombre d'enfants mâles, des louanges de Dieu et des chefs dans les assemblées, qui frappent et ne sont pas frappés, qui frappent d'un seul coup leurs ennemis, qui frappent d'un seul coup leurs adversaires, toujours dans la joie et prêts à aider. <span id="p356">[<sup><small>p. 356</small></sup>]</span> 11\. Dieux de pleine gloire, dieux de pleine guérison, que votre grandeur se manifeste ! que votre secours se manifeste dès que vous êtes appelés ! Et vous, Eaux, manifestez votre gloire et transmettez-la à l'homme qui vous offre un sacrifice.
+10 [^1528]. Donne-nous force et victoire ! Donne-nous le bien-être en bétail et en pain ! Donne-nous un grand nombre d'enfants mâles, des louanges de Dieu et des chefs dans les assemblées, qui frappent et ne sont pas frappés, qui frappent d'un seul coup leurs ennemis, qui frappent d'un seul coup leurs adversaires, toujours dans la joie et prêts à aider. <span id="p356"><sup><small>[ p. 356 ]</small></sup></span> 11\. Dieux de pleine gloire, dieux de pleine guérison, que votre grandeur se manifeste ! que votre secours se manifeste dès que vous êtes appelés ! Et vous, Eaux, manifestez votre gloire et transmettez-la à l'homme qui vous offre un sacrifice.
 
 Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 

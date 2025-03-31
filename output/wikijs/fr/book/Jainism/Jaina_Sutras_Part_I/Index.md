@@ -29,9 +29,9 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 Abhi<i>g</i>it, nom d'un astérisme, p. [281](Life_Rishabha#p281).
 
@@ -175,7 +175,7 @@ Bala, [25](Akaranga_1_2#p25) n [2](Akaranga_1_2#fn145).
 
 Baladeva, [225](Life_Mahavira_2#p225).
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 Balissaha, [289](Life_Sthaviras#p289).
 
@@ -343,7 +343,7 @@ Gâlandharâya<i>n</i>a, nom d'un gotra, [190](Akaranga_2_15#p190), [218](Life_M
 
 \— nom d'un autre moine, [289](Life_Sthaviras#p289).
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 <i>G</i>ambûdvîpa, 1[90](Akaranga_2_1#p90), [218](Life_Mahavira_1#p218), etc.
 
@@ -519,7 +519,7 @@ Kunthu, nom du dix-septième Tîrthakara, [280](Epochs_Tirthakaras#p280).
 
 <i>K</i>andanâgarî, nom d'un <i>S</i>âkhâ, [290](Life_Sthaviras#p290).
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 <i>K</i>andra, nom d'une année, [265](Life_Mahavira_5#p265).
 
@@ -691,7 +691,7 @@ Pa<i>d</i>iggahadhârî, [117](Akaranga_2_1#p117) n [2](Akaranga_2_1#fn375).
 
 Padma, [293](Life_Sthaviras#p293).
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 Padmaprahha, nom du sixième Tîrthakara, [280](Epochs_Tirthakaras#p280).
 
@@ -871,7 +871,7 @@ Sa<i>m</i>lekhanâ, [74](Akaranga_1_7#p74) n [3](Akaranga_1_7#fn287).
 
 Sampalita, nom d'un Sthavira, [294](Life_Sthaviras#p294).
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 Samparyaṅka, une certaine posture, [269](Life_Mahavira_5#p269).
 
@@ -1027,7 +1027,7 @@ Svayambuddha, [66](Akaranga_1_7#p66) n [2](Akaranga_1_7#fn265).
 
 \— nom de Mahâvîra, [193](Akaranga_2_15#p193), [256](Life_Mahavira_5#p256).
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 <i>S</i>reyâ<i>m</i>sa, nom d'un dévot laïc, [274](Life_Parsva#p274).
 
@@ -1187,7 +1187,7 @@ Vœux, trois, [63](Akaranga_1_7#p63).
 
 Plans d'eau, [5](Akaranga_1_1#p5).
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 Vies aquatiques, [5](Akaranga_1_1#p5) n [1](Akaranga_1_1#fn103).
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p112">[<sup><small>p. 112</small></sup>]</span>
+<span id="p112"><sup><small>[ p. 112 ]</small></sup></span>
 
 ## LE LIVRE DE LA GRANDE DÉCÈS. MAHÂ-PARINIBBÂNA-SUTTA. CHAPITRE VI.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 « Mais quelle est, Seigneur, la peine la plus grave ? »
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 « Que Khanna dise ce qu'il veut, Ananda, les frères ne devraient ni lui parler, ni l'exhorter, ni le réprimander[^2]. »
 
@@ -66,7 +66,7 @@ Et quand il eut ainsi parlé, les frères se turent.
 
 Et même la troisième fois, les frères restèrent silencieux.
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 7\. Alors le Bienheureux s'adressa aux frères et dit : « Il se peut, frères, que vous ne posiez aucune question par respect pour le maître. Laissez un ami communiquer à un autre. »
 
@@ -84,7 +84,7 @@ Ce fut la dernière parole du Tathâgata !
 
 ---
 
-11\. Alors le Bienheureux entra dans la première <span id="p115">[<sup><small>p. 115</small></sup>]</span> étape de la méditation profonde[^4]. Et sortant de la première étape, il passa dans la seconde. Et sortant de la seconde, il passa dans la troisième. Et sortant de la troisième étape, il passa dans la quatrième. Et sortant de la quatrième étape de la méditation profonde, il entra dans l'état d'esprit auquel l'infinité de l'espace est seule présente[^5]. Et sortant de la simple conscience de l'infinité de l'espace, il entra dans l'état d'esprit auquel l'infinité de la pensée est seule présente. Et sortant de la simple conscience de l'infinité de la pensée, il entra dans un état d'esprit auquel rien du tout n'était spécialement présent. Et sortant de la conscience d'aucun objet spécial, il tomba dans un état entre la conscience et l'inconscience. Et sortant de l'état entre conscience et inconscience, il tomba dans un état dans lequel la conscience des sensations et des idées avait complètement disparu.
+11\. Alors le Bienheureux entra dans la première <span id="p115"><sup><small>[ p. 115 ]</small></sup></span> étape de la méditation profonde[^4]. Et sortant de la première étape, il passa dans la seconde. Et sortant de la seconde, il passa dans la troisième. Et sortant de la troisième étape, il passa dans la quatrième. Et sortant de la quatrième étape de la méditation profonde, il entra dans l'état d'esprit auquel l'infinité de l'espace est seule présente[^5]. Et sortant de la simple conscience de l'infinité de l'espace, il entra dans l'état d'esprit auquel l'infinité de la pensée est seule présente. Et sortant de la simple conscience de l'infinité de la pensée, il entra dans un état d'esprit auquel rien du tout n'était spécialement présent. Et sortant de la conscience d'aucun objet spécial, il tomba dans un état entre la conscience et l'inconscience. Et sortant de l'état entre conscience et inconscience, il tomba dans un état dans lequel la conscience des sensations et des idées avait complètement disparu.
 
 12\. Alors le vénérable Ananda dit au vénérable Anuruddha : « Ô mon Seigneur, ô Anuruddha, le Béni du Ciel est mort ! »
 
@@ -103,7 +103,7 @@ Outre leur forme complexe, cette agrégation
 Des qualités mentales et matérielles,  
 Cela leur donne, soit au ciel, soit sur terre,  
 Leur individualité fugace !  
-Même l'enseignant, étant un tel enseignant, <span id="p117">[<sup><small>p. 117</small></sup>]</span>  
+Même l'enseignant, étant un tel enseignant, <span id="p117"><sup><small>[ p. 117 ]</small></sup></span>  
 Sans égal parmi tous les hommes qui existent,  
 Successeur des prophètes d'autrefois,  
 Puissant par la sagesse et clair par la perspicacité,  
@@ -116,7 +116,7 @@ La croissance est leur nature, tout comme le déclin.
 Ils sont produits, ils sont dissous à nouveau :  
 Et c'est alors que le mieux est de se reposer[^7] !
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 17\. Lorsque le Bienheureux mourut, le vénérable Anuruddha, au moment de sa disparition, prononça ces strophes :
 
@@ -137,7 +137,7 @@ Et puis les cheveux se sont dressés sur la tête !
 Lorsqu'il les a dotés de toutes les grâces,  
 Le Bouddha suprême est mort[^9] !
 
-<span id="p119">[<sup><small>p. 119</small></sup>]</span>
+<span id="p119"><sup><small>[ p. 119 ]</small></sup></span>
 
 19\.[^10] Lorsque le Bienheureux mourut, parmi les frères qui n'étaient pas encore libérés des passions, certains étendirent les bras et pleurèrent, et d'autres tombèrent la tête la première sur le sol, se roulant d'angoisse à la pensée : « Trop tôt le Bienheureux est mort ! Trop tôt l'Heureux a disparu de l'existence ! Trop tôt la Lumière s'est éteinte dans le monde ! »
 
@@ -145,7 +145,7 @@ Mais ceux des frères qui étaient libérés des passions (les Arahats) supporta
 
 20\. Alors le vénérable Anuruddha exhorta les frères et dit : « Assez, mes frères ! Ne pleurez pas et ne vous lamentez pas ! Le Béni du Ciel ne nous a-t-il pas déjà déclaré que la nature même de toutes choses qui nous sont chères exige que nous nous en séparions, les quittions, nous en séparions ? Comment donc, frères, cela est-il possible ? Alors que toute chose née, amenée à l'existence et organisée contient en elle-même la nécessité inhérente de la dissolution, comment est-il possible qu'un tel être ne se dissolve pas ? Une telle condition ne peut exister ! Même les esprits, frères, nous le reprocheront[^11]. »
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 « Mais à quel genre d'esprits pense le Seigneur, le vénérable Anuruddha ? »
 
@@ -173,7 +173,7 @@ Et le vénérable Ânanda se rendit à la salle du conseil des Mallas de Kusinâ
 
 26\. Les Mallas de Kusinârâ prirent les parfums, les guirlandes, tous les instruments de musique et cinq cents vêtements, et se rendirent à l'Upavattana, au bosquet de Sâla des Mallas, où reposait le corps du Bienheureux. Là, ils passèrent la journée à rendre honneur, révérence, respect et hommage à la dépouille du Bienheureux par des danses, des hymnes, de la musique, des guirlandes et des parfums ; ils confectionnèrent des dais avec leurs vêtements et préparèrent des couronnes décoratives pour les y suspendre[^12].
 
- <span id="p123">[<sup><small>p. 123</small></sup>]</span> 7\. Alors les Mallas de Kusinârâ pensèrent :
+ <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> 7\. Alors les Mallas de Kusinârâ pensèrent :
 
 « Il est bien trop tard pour brûler le corps du Bienheureux aujourd'hui. Procédons à la crémation demain. » Et en rendant honneur, révérence, respect et hommage aux restes du Bienheureux par des danses, des hymnes, de la musique, des guirlandes et des parfums, en confectionnant des dais avec leurs vêtements et en préparant des couronnes décoratives à y suspendre, ils passèrent également le deuxième jour, puis le troisième, le quatrième, le cinquième et le sixième.
 
@@ -205,7 +205,7 @@ Et le vénérable Ânanda se rendit à la salle du conseil des Mallas de Kusinâ
 
 « Ils enveloppent le corps d'un roi des rois, Vâse<i>tth</i>as, dans un nouveau tissu. Ensuite, ils l'enveloppent de coton. Ensuite, ils l'enveloppent d'un nouveau tissu, et ainsi de suite jusqu'à ce qu'ils aient enveloppé le corps de cinq cents couches successives des deux sortes. Ensuite, ils placent le corps dans un vase à huile en fer, et recouvrent le tout d'un autre vase à huile en fer. Ils construisent ensuite un bûcher funéraire avec toutes sortes de parfums, et brûlent le corps du roi des rois. Puis, aux quatre carrefours, ils érigent un dâgaba en l'honneur du roi des rois. Telle est, Vâse<i>tth</i>as, la manière dont ils traitent la dépouille d'un roi des rois. »
 
-« Et comme ils traitent les restes d'un roi des rois, ainsi, Vâse<i>tth</i>as, devraient-ils traiter les restes du <span id="p126">[<sup><small>p. 126</small></sup>]</span> Tathâgata. Aux quatre carrefours, un dâgāba doit être érigé en l'honneur du Tathâgata. Et quiconque y place des guirlandes, des parfums ou de la peinture, ou y fait des salutations, ou devient en sa présence le cœur calme, cela lui sera pour longtemps un profit et une joie. »
+« Et comme ils traitent les restes d'un roi des rois, ainsi, Vâse<i>tth</i>as, devraient-ils traiter les restes du <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> Tathâgata. Aux quatre carrefours, un dâgāba doit être érigé en l'honneur du Tathâgata. Et quiconque y place des guirlandes, des parfums ou de la peinture, ou y fait des salutations, ou devient en sa présence le cœur calme, cela lui sera pour longtemps un profit et une joie. »
 
 34\. Les Mallas donnèrent donc des ordres à leurs serviteurs, en disant : « Rassemblez tout le coton cardé des Mallas ! »
 
@@ -219,7 +219,7 @@ Et le vénérable Ânanda se rendit à la salle du conseil des Mallas de Kusinâ
 
 « Ô ami ! Tu connais sûrement notre Maître ? »
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 « Oui, mon ami ! Je le connais. Aujourd'hui, le Sama<i>n</i>a Gotama est mort depuis une semaine. C'est ainsi que j'ai obtenu cette fleur de Mandârava. »
 
@@ -233,7 +233,7 @@ Mais ceux des frères libérés des passions (les Arahats) supportaient leur cha
 
 Et Subhadda le vieux s'adressa aux frères et dit : « Assez, frères ! Ne pleurez pas et ne vous lamentez pas ! Nous sommes bien débarrassés du grand Samana. Nous étions agacés qu'on nous dise : “Cela vous convient, cela ne vous convient pas.” Mais maintenant, nous pourrons faire ce que nous voulons ; et ce que nous n'aimons pas, nous ne le ferons pas ! »
 
-<span id="p128">[<sup><small>p. 128</small></sup>]</span>
+<span id="p128"><sup><small>[ p. 128 ]</small></sup></span>
 
 41\. Mais le vénérable Mahâ Kassapa s'adressa aux frères et dit : « Assez, mes frères ! Ne pleurez pas et ne vous lamentez pas ! Le Béni du Ciel ne nous a-t-il pas déjà déclaré qu'il est dans la nature même de toutes choses, qui nous sont proches et chères, que nous devons nous en séparer, les quitter, nous en détacher ? Comment alors, frères, cela est-il possible ? Alors que toute chose née, amenée à l'existence et organisée contient en elle-même la nécessité inhérente de la dissolution, comment est-il possible qu'un tel être ne soit pas dissous ? Une telle condition ne peut exister ! »
 
@@ -259,7 +259,7 @@ Et Subhadda le vieux s'adressa aux frères et dit : « Assez, frères ! Ne pleur
 
 47\. Et lorsque l'hommage du vénérable Mahâ Kassapa et de ces cinq cents frères fut terminé, le bûcher funéraire du Béni du Ciel prit feu de lui-même[^16].
 
-<span id="p130">[<sup><small>p. 130</small></sup>]</span>
+<span id="p130"><sup><small>[ p. 130 ]</small></sup></span>
 
 48\. Or, comme le corps du Bienheureux se consumait, la peau, les téguments, la chair, les nerfs et le liquide des articulations, il ne se montra ni suie ni cendre, et seuls les os restèrent.
 
@@ -267,7 +267,7 @@ De même qu'on ne voit ni suie ni cendre lorsqu'on brûle de la colle ou de l'hu
 
 49\. Et lorsque le corps du Bienheureux fut consumé, des torrents d'eau descendirent du ciel et éteignirent le bûcher funéraire du Bienheureux ; et des torrents jaillirent du réservoir des eaux (sous la terre), et éteignirent le bûcher funéraire du Bienheureux. Les Mallas de Kusinârâ apportèrent également de l'eau parfumée de toutes sortes de parfums, et éteignirent le bûcher funéraire du Bienheureux[^17].
 
-<span id="p131">[<sup><small>p. 131</small></sup>]</span>
+<span id="p131"><sup><small>[ p. 131 ]</small></sup></span>
 
 50\. Alors les Mallas de Kusinârâ entourèrent les os du Bienheureux dans leur salle du conseil d'un treillis de lances et d'un rempart d'arcs ; et là, pendant sept jours, ils leur rendirent honneur, révérence, respect et hommage par des danses, des chants et de la musique, des guirlandes et des parfums.
 
@@ -287,7 +287,7 @@ Alors le roi de Magadha, Agâtasattu, fils de la reine du clan Videha, envoya un
 
 56\. Le brahmane de Vethadîpa apprit la nouvelle de la mort du Bienheureux à Kusinârâ. Il envoya un messager aux Mallas pour leur dire : « Le Bienheureux appartenait à la caste des soldats, et je suis un brahmane. Je suis digne de recevoir une partie des reliques du Bienheureux. J'élèverai un cairn sacré sur ses restes, et je célébrerai une fête en son honneur ! »
 
-<span id="p133">[<sup><small>p. 133</small></sup>]</span>
+<span id="p133"><sup><small>[ p. 133 ]</small></sup></span>
 
 57\. Et les Mallas de Pâvâ apprirent la nouvelle que le Bienheureux était mort à Kusinârâ.
 
@@ -333,7 +333,7 @@ Et les Bulis d'Allakappa érigèrent un tertre à Allakappa sur les restes du B�
 
 Et les Koliyas de Râmagâma érigèrent un tertre à Râmagâma sur les restes du Béni, et organisèrent une fête.
 
-<span id="p135">[<sup><small>p. 135</small></sup>]</span>
+<span id="p135"><sup><small>[ p. 135 ]</small></sup></span>
 
 Et Vethadîpaka le Brâhmane fit un tertre à Vethadîpa sur les restes du Bienheureux, et organisa une fête.
 
@@ -355,7 +355,7 @@ Et une mesure à Râmagâma, par les rois de la race du serpent.
 Une dent aussi est honorée au ciel, et une autre dans la cité de Gandhâra,  
 Un dans le royaume de Kâlinga, et un autre de la race Nâga.
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 Grâce à leur gloire, la terre généreuse est illuminée par des offrandes indolores.  
 Car c'est avec de telles reliques que les reliques du Grand Maître sont le mieux honorées par ceux qui sont honorés,  
@@ -367,7 +367,7 @@ C'est dur, dur de rencontrer un Bouddha à travers des centaines d'âges !
 
 Fin du Livre de la Grande Décès.
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

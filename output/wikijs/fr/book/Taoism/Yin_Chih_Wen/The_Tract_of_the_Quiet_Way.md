@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:52Z
   </table>
 </figure>
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Le Seigneur dit : [CC1](Notes_of_the_Chinese_Commentator#xref_CC1)
 
@@ -44,7 +44,7 @@ Pratiquez la bienveillance [5](Translators_Notes#xref_5) partout où vous en tro
 
 Bénéficier à toutes les créatures [6](Notes du traducteur#xref_6) ; bénéficier au peuple. [CC8](Notes du commentateur chinois#xref_CC8)
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Pratiquez la bonté : acquérez du mérite.
 
@@ -66,7 +66,7 @@ Soulagez les personnes en détresse aussi vite qu'il faut libérer un poisson d'
 
 Soyez compatissants envers les orphelins et soulagez les veuves. Respectez les personnes âgées et aidez les pauvres.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 Promouvez le bien et recommandez le sage. Soyez indulgent avec les autres et exigeant avec vous-même.
 
@@ -90,7 +90,7 @@ Distribuez des médicaments pour soulager les malades. Avec du thé ou de l'eau,
 
 Allumez des lanternes la nuit pour éclairer les passages. Gardez des bateaux sur les rivières pour les faire traverser.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 Achetez des animaux en captivité et donnez-leur la liberté. [13](Translators_Notes#xref_13) [CC13](Notes_of_the_Chinese_Commentator#xref_CC13)
 
@@ -124,7 +124,7 @@ Ne mettez pas en conflit le père et le fils pour des broutilles.
 
 N'abusez jamais de votre pouvoir et ne déshonorez pas les bons et les respectueux des lois.
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Ne vous présumez pas, vous qui êtes riches, et ne trompez pas le nécessiteux et l'affligé.
 
@@ -150,7 +150,7 @@ Réparez les souillures même si elles sont restées sans amélioration pendant 
 
 Construisez des ponts qui pourront être traversés par des milliers et des dizaines de milliers de personnes.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Exposer des maximes morales pour corriger les défauts du peuple.
 

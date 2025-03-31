@@ -113,7 +113,7 @@ Chaque chambre, chaque salle et chaque couloir,
 Et une tonnelle lumineuse aux fleurs parfumées.
 Et une loge, une cellule et une salle de peinture.
 
-<span id="p403">[<sup><small>p. 403</small></sup>]</span>
+<span id="p403"><sup><small>[ p. 403 ]</small></sup></span>
 
 Avec un œil avide et des pieds silencieux
 Il a traversé de nombreuses retraites fraîches
@@ -221,7 +221,7 @@ La dame revient triomphante,
 Il franchit la barrière d'un bond ;
 Il se tenait dans le terrain agréable,
 
-<span id="p404">[<sup><small>p. 404</small></sup>]</span>
+<span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 
 Et avec des yeux ravis, j'ai examiné
 Les plantes grimpantes et l'ombre variée,
@@ -335,7 +335,7 @@ J'ai choisi une vie dans des forêts solitaires.
 Celle-ci, celle-là, est si belle de moule.
 Dont les membres sont brillants comme de l’or bruni.
 
-<span id="p405">[<sup><small>p. 405</small></sup>]</span>
+<span id="p405"><sup><small>[ p. 405 ]</small></sup></span>
 
 Dont la voix était toujours douce et douce.
 Qui parlait doucement et souriait doucement.
@@ -434,7 +434,7 @@ Le monarque atteignit la porte du jardin,
 Tandis que des torches d'or et d'argent, alimentées
 Avec une huile parfumée, une douce lumière se répand. [^830]
 
-<span id="p406">[<sup><small>p. 406</small></sup>]</span>
+<span id="p406"><sup><small>[ p. 406 ]</small></sup></span>
 
 Lui, tandis que la flamme du désir féroce
 Brûlé dans ses yeux comme un feu allumé,
@@ -535,7 +535,7 @@ S'est retiré de chaque terre pillée,
 Je te le donne aujourd'hui
 Et à tes pieds repose mon royaume.
 
-<span id="p407">[<sup><small>p. 407</small></sup>]</span>
+<span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
 Je vais conquérir la vaste et riche terre,
 Et ne laissez aucune ville invaincue, aucune ;

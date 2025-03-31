@@ -38,7 +38,7 @@ Avec un esprit attentif, écoutez-moi vous expliquer la délivrance du temps san
 
 Par l'enseignement de la vraie [^520] connaissance, par l'évitement de l'ignorance et de l'illusion, et par la destruction de l'amour et de la haine, on parvient à la délivrance finale qui n'est rien d'autre que la félicité. (2)
 
-Voici le chemin qui y mène : servir les gourous et les anciens (enseignants), éviter partout les gens insensés, <span id="p185">[<sup><small>p. 185</small></sup>]</span> s'appliquer sérieusement à l'étude et méditer avec zèle sur la signification des Sûtras. (3)
+Voici le chemin qui y mène : servir les gourous et les anciens (enseignants), éviter partout les gens insensés, <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> s'appliquer sérieusement à l'étude et méditer avec zèle sur la signification des Sûtras. (3)
 
 Un <i>Sraman</i> engagé dans des austérités, qui aspire à la justice [^521], devrait manger la quantité appropriée de nourriture autorisée, devrait choisir un compagnon de bonne compréhension et devrait vivre dans un endroit propice à la réclusion. (4)
 
@@ -54,7 +54,7 @@ J'expliquerai dans l'ordre les moyens que doit adopter celui qui veut déraciner
 
 Il ne faut pas savourer avec préférence une nourriture agréable [^524], car elle rend généralement les hommes trop forts [^525] ; et les désirs se précipitent sur les forts, comme les oiseaux sur un arbre aux fruits sucrés. (10)
 
-<span id="p186">[<sup><small>p. 186</small></sup>]</span>
+<span id="p186"><sup><small>[ p. 186 ]</small></sup></span>
 
 Comme dans une forêt pleine de combustible, un feu attisé par le vent ne peut être éteint, ainsi le feu (pour ainsi dire) des sens de celui qui mange à sa guise ; il ne profite à aucun homme chaste. (11)
 
@@ -72,7 +72,7 @@ Bien que ceux qui possèdent les trois Guptis ne puissent être dérangés même
 
 À ceux qui ont surmonté l'attachement (aux femmes), tous les autres n'offriront aucune difficulté [^527] ; même à ceux qui ont traversé le grand océan, aucun fleuve, aussi grand que le Gange, (n'offrira aucune difficulté). (18)
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 Du désir du plaisir naît la misère du monde entier, y compris celle des dieux ; quelle que soit la misère du corps et de l'esprit, celui qui est impartial y mettra fin. (19)
 
@@ -88,7 +88,7 @@ Celui qui aime passionnément les « couleurs » connaîtra une ruine prématur�
 
 Celui qui hait passionnément (une couleur) souffrira au même instant. C'est la faute d'un homme indiscipliné s'il est agacé (par une couleur) ; ce n'est pas la « couleur » elle-même qui l'agace. (25)
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Celui qui aime beaucoup une belle « couleur » déteste toutes les autres ; c'est pourquoi un fou souffrira de la misère, mais un sage impartial n'en sera pas affecté. (26)
 
@@ -124,7 +124,7 @@ Les versets 74 à 86 s'appliquent aux touches ; remplacez-les par « touches » 
 
 Les versets 87 à 99 s’appliquent aux sentiments ; remplacez « sentiments » par « esprit ».
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 Les lignes correspondant à la comparaison du verset 24 sont les suivantes :
 
@@ -142,7 +142,7 @@ Les choses agréables (en elles-mêmes) ne provoquent ni indifférence ni émoti
 
 Colère, orgueil, tromperie, cupidité ; dégoût, aversion pour la maîtrise de soi et plaisir dans les choses sensuelles [^535] ; gaieté, peur, tristesse, désir charnel pour les femmes, les hommes ou les deux ; toutes ces passions multiples surgissent chez celui qui est attaché aux plaisirs ; et ainsi d'autres émotions produites par celles (mentionnées ci-dessus) surgissent chez celui qui est à plaindre, qui (devrait avoir) honte de lui-même et qui est haïssable. (102, 103)
 
-<span id="p191">[<sup><small>p. 191</small></sup>]</span>
+<span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 Un moine ne devrait pas désirer un compagnon, même capable d'accomplir ses devoirs religieux ; ni, s'il regrette d'avoir prononcé ses vœux, désirer une récompense matérielle pour ses austérités [^536]. De telles émotions, d'une variété infinie, surgissent chez celui qui est esclave de ses sens. (104)
 
@@ -154,7 +154,7 @@ Celui qui s'efforce de reconnaître la vanité de tous les désirs [^537] parvie
 
 L'homme impartial qui a accompli tous ses devoirs éliminera rapidement les obstacles à la bonne connaissance et à la bonne foi, ainsi que tout ce que Karman produit comme obstacle (à la droiture). (108)
 
-Alors il connaît et voit toutes choses, il est libre de toute illusion et de tout obstacle, ses Âsravas sont partis, <span id="p192">[<sup><small>p. 192</small></sup>]</span> et il est compétent dans la méditation et la concentration des pensées, et étant pur, il parviendra à la béatitude lorsque sa vie sera terminée. (109)
+Alors il connaît et voit toutes choses, il est libre de toute illusion et de tout obstacle, ses Âsravas sont partis, <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> et il est compétent dans la méditation et la concentration des pensées, et étant pur, il parviendra à la béatitude lorsque sa vie sera terminée. (109)
 
 Il se débarrassera de toute la misère qui afflige toujours l'humanité ; remis de la longue maladie, pour ainsi dire, et glorieux, il devient infiniment heureux, et atteint le but (final). (110)
 

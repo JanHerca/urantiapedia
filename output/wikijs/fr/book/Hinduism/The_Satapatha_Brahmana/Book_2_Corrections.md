@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:3:37Z
   </table>
 </figure>
 
-<span id="p474">[<sup><small>p. 474</small></sup>]</span>
+<span id="p474"><sup><small>[ p. 474 ]</small></sup></span>
 
 ## PARTIE I. (VOL. XII DE LA SÉRIE.)
 

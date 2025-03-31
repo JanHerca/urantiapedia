@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 _M_. II. 1. Si quelqu'un lit [^97] \[le Shma'\] dans la Loi et que le moment est venu de le réciter, alors s'il lit avec intention, il a rempli l'obligation \[de réciter le Shma'\], mais sinon \[avec intention\], il ne l'a pas fait. Et dans les sections [^98], il peut saluer par respect \[son ami\], et il peut répondre à une salutation donnée. Et dans
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 **M**. Au milieu d'une section, il peut le donner par crainte d'un supérieur et répondre. C'est l'avis de R. Meir. R. Judah dit : Au milieu, il peut le donner par crainte et répondre par respect ; et aux sections, il peut le donner par respect et donner la réponse habituelle de « Paix » à n'importe qui. [^99]
 
@@ -47,7 +47,7 @@ _M_. II. 1. Si quelqu'un lit [^97] \[le Shma'\] dans la Loi et que le moment est
 
 **M**.II. 2. Voici ce que signifie « entre les sections », à savoir : entre la première bénédiction et la seconde ; entre la seconde et le Shma' ; [^101] entre le Shma' et « Et cela arrivera si vous écoutez » ; [^102] entre « Et cela arrivera si vous écoutez » et « Et l'Éternel dit » ; [^103] entre « Et l'Éternel dit » et « Vrai et certain ». [^104] R. Judah dit : On ne peut pas s'arrêter entre « Et l'Éternel dit » et « Vrai et certain ». [^105]
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 **M**.II. 3 (2 cont.). R. Joshua ben Qorcha [1](Berakoth_1_2#fn_106) a dit : Pourquoi le Shma' précède-t-il « Et il arrivera, si vous écoutez » ? Pour qu'un homme puisse accepter d'abord le joug du royaume des cieux [2](Berakoth_1_2#fn_107), puis accepter ensuite le joug des commandements. \[De même\] « Et il arrivera, si vous écoutez » précède « Et l'Éternel dit », car « Et il arrivera, si vous écoutez » s'applique de jour comme de nuit, mais « Et l'Éternel dit » ne s'applique que de jour. [3](Berakoth_1_2#fn_108)
 
@@ -57,7 +57,7 @@ _M_. II. 1. Si quelqu'un lit [^97] \[le Shma'\] dans la Loi et que le moment est
 
 4\. (3). Celui qui récite le Shma' sans être suffisamment fort pour être entendu a rempli son obligation. Rabbi José [^109] dit qu'il ne l'a pas fait. S'il a récité sans prononcer les lettres exactement, Rabbi José dit qu'il a rempli son obligation. Rabbi Judah dit qu'il ne l'a pas fait. Celui qui récite dans un ordre irrégulier [^110] n'a pas rempli son obligation. S'il a récité et a commis une erreur, il doit retourner à l'endroit où il a commis l'erreur.
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 **T**.
 
@@ -67,7 +67,7 @@ _M_. II. 1. Si quelqu'un lit [^97] \[le Shma'\] dans la Loi et que le moment est
 
 5\. Celui qui récite le Chma' et commet une erreur sans savoir où il l'a commise, revient au début. S'il a commis l'erreur au milieu de la section [^115], il revient au début de la section ; s'il a commis l'erreur entre le premier verset où il est dit « écris » et le second, [^116] il revient au premier.
 
-6\. Ceux qui s'occupent d'écrire les livres de l'Écriture, les Tephillin, [^117] et les Mezuzoth, [^118] interrompent <span id="p18">[<sup><small>p. 18</small></sup>]</span> leur tâche pour la récitation du Chema', mais ne l'interrompent pas pour la Prière. Rabbi dit : De même qu'ils ne l'interrompent pas pour la Prière, de même ils ne l'interrompent pas pour la récitation du Chema. R. Chananiah ben Aqabia [^119] dit : De même qu'ils l'interrompent pour la récitation du Chema, de même ils l'interrompent pour la Prière. R. Eleazar bar Zadoq a dit que lorsque Rabban Gamaliel et sa cour de justice [^120] étaient à Jabneh, ils étaient occupés par les besoins de la congrégation, \[et\] ne l'interrompaient pas de peur de manquer d'attention au sujet qui leur était présenté.
+6\. Ceux qui s'occupent d'écrire les livres de l'Écriture, les Tephillin, [^117] et les Mezuzoth, [^118] interrompent <span id="p18"><sup><small>[ p. 18 ]</small></sup></span> leur tâche pour la récitation du Chema', mais ne l'interrompent pas pour la Prière. Rabbi dit : De même qu'ils ne l'interrompent pas pour la Prière, de même ils ne l'interrompent pas pour la récitation du Chema. R. Chananiah ben Aqabia [^119] dit : De même qu'ils l'interrompent pour la récitation du Chema, de même ils l'interrompent pour la Prière. R. Eleazar bar Zadoq a dit que lorsque Rabban Gamaliel et sa cour de justice [^120] étaient à Jabneh, ils étaient occupés par les besoins de la congrégation, \[et\] ne l'interrompaient pas de peur de manquer d'attention au sujet qui leur était présenté.
 
 7\. Un porteur, bien que chargé, récite le Shma'. Mais au moment de décharger et de charger, il ne le récite pas, car son esprit n'est pas fixé entre l'un et l'autre. Il ne doit pas prier avant le déchargement. [^121]
 
@@ -85,7 +85,7 @@ II. 5 (4). Les ouvriers peuvent réciter le Shma' au sommet d'un arbre ou d'un �
 
 ## Un époux et le Shma'. Gamaliel.
 
-M.II. 6 (5 _suite_.). Un marié est dispensé de réciter le Shma' le premier soir et jusqu'à la fin du Shabbat, s'il n'a pas consommé le mariage. [^129] \[À ce sujet est lié\] un incident de la vie de Rabban Gamaliel, qui s'est marié et a récité le Shma' le soir de son mariage. Ils lui dirent : « Ne nous as-tu pas enseigné qu'un marié est dispensé de réciter le Shma' le premier soir ? » Il leur répondit : « Je ne vous écouterai pas, <span id="p20">[<sup><small>p. 20</small></sup>]</span>, pour renoncer au royaume des cieux, ne serait-ce qu'une seule heure. » [^130]
+M.II. 6 (5 _suite_.). Un marié est dispensé de réciter le Shma' le premier soir et jusqu'à la fin du Shabbat, s'il n'a pas consommé le mariage. [^129] \[À ce sujet est lié\] un incident de la vie de Rabban Gamaliel, qui s'est marié et a récité le Shma' le soir de son mariage. Ils lui dirent : « Ne nous as-tu pas enseigné qu'un marié est dispensé de réciter le Shma' le premier soir ? » Il leur répondit : « Je ne vous écouterai pas, <span id="p20"><sup><small>[ p. 20 ]</small></sup></span>, pour renoncer au royaume des cieux, ne serait-ce qu'une seule heure. » [^130]
 
 **T**. I. 3. Les mariés et tous ceux qui s'occupent d'accomplir d'autres commandements sont exemptés de l'obligation de réciter le Shma'. Car il est dit : _Quand tu es assis dans ta maison_, [^131] ce qui exclut ceux qui s'occupent d'accomplir des commandements. _Et quand tu marches dans le chemin_, [^132] exclut les mariés.
 
@@ -95,7 +95,7 @@ II. 10. Les garçons d'honneur [^133] et tous les invités au mariage [^134] son
 
 ## Gamaliel : Autres incidents de sa violation de l’enseignement traditionnel.
 
-**M**.II. 7 (6). Il se baigna la première nuit après la mort de sa femme. Ils lui dirent : Ne nous as-tu pas appris qu’il est interdit à une personne en deuil de se baigner ? <span id="p21">[<sup><small>p. 21</small></sup>]</span> **M**.Il leur dit : Je ne suis pas comme tous les autres hommes ; [^136] je suis faible. [^137]
+**M**.II. 7 (6). Il se baigna la première nuit après la mort de sa femme. Ils lui dirent : Ne nous as-tu pas appris qu’il est interdit à une personne en deuil de se baigner ? <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> **M**.Il leur dit : Je ne suis pas comme tous les autres hommes ; [^136] je suis faible. [^137]
 
 II. 8 (7 suite). Lorsque son esclave Tabi mourut, il accepta ses condoléances. Ils lui dirent : « Ne nous as-tu pas appris qu'on n'accepte pas de condoléances pour les esclaves ? » Il leur dit : « Mon esclave Tabi n'était pas comme tous les autres esclaves ; c'était un homme de valeur. »
 

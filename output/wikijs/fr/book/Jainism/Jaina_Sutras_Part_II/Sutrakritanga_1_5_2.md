@@ -44,7 +44,7 @@ Les (pécheurs) marchent sur un sol brûlant et rougeoyant comme du fer rouge ; 
 
 Les pécheurs sont conduits sur un terrain glissant qui ressemble à une route de fer rouge ; dans ce lieu redoutable (les ministres de l'enfer) les font avancer comme des esclaves (en les frappant) avec des bâtons. (5)
 
-En cheminant dans cet insupportable (enfer), ils sont écrasés par les rochers qui s'écroulent. Il y a le <span id="p284">[<sup><small>p. 284</small></sup>]</span> (chaudron) Santâpanî [^836], où les malfaiteurs souffrent longtemps. (6)
+En cheminant dans cet insupportable (enfer), ils sont écrasés par les rochers qui s'écroulent. Il y a le <span id="p284"><sup><small>[ p. 284 ]</small></sup></span> (chaudron) Santâpanî [^836], où les malfaiteurs souffrent longtemps. (6)
 
 Ils jettent les pécheurs dans des chaudrons et les font bouillir ; échaudés, ils en ressortent ; des corbeaux diaboliques [^837] s'en nourrissent et d'autres bêtes ayant des griffes les dévorent. (7)
 
@@ -70,7 +70,7 @@ Il y a une montagne terrible qui s'élève très haut dans les airs, appelée Va
 
 Torturés, les pécheurs hurlent, souffrant jour et nuit ; dans cet horrible et grand enfer, rempli d'instruments de torture, ils sont mis à mort de manière cruelle. (18)
 
-Pleins de colère, comme leurs ennemis d'une vie antérieure, <span id="p286">[<sup><small>p. 286</small></sup>]</span> (les punisseurs) les écrasent à coups de marteaux et de gourdins. Le corps mutilé et vomissant du sang, ils tombent à terre, la tête la première. (19)
+Pleins de colère, comme leurs ennemis d'une vie antérieure, <span id="p286"><sup><small>[ p. 286 ]</small></sup></span> (les punisseurs) les écrasent à coups de marteaux et de gourdins. Le corps mutilé et vomissant du sang, ils tombent à terre, la tête la première. (19)
 
 Il y a les grands chacals toujours affamés [^844], sauvages, toujours en colère, par lesquels les malfaiteurs liés par des chaînes sont dévorés. (20)
 

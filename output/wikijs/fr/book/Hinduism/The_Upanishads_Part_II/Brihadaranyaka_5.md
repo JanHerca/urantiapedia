@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 CINQUIÈME ADHYÂYA.
 
@@ -47,7 +47,7 @@ Om (est) l'éther, (est) Brahman [^552]. « Il y a l'ancien éther (l'invisible)
 
 1\. Les trois descendants de Pragâpati, dieux, hommes et Asuras (esprits maléfiques), demeurèrent en tant que Brahmakârins (étudiants) auprès de leur père Pragâpati. Après avoir terminé leur apprentissage, les dieux dirent : « Dites-nous quelque chose, Seigneur. » Il leur dit la syllabe Da. Puis il dit : « Avez-vous compris ? » Ils dirent : « Nous avons compris. Vous nous avez dit « Dâmyata », « Soyez soumis. » « Oui », dit-il, « vous avez compris. »
 
-2\. Alors les hommes lui dirent : « Dites-nous quelque chose, <span id="p190">[<sup><small>p. 190</small></sup>]</span> Monsieur. » Il leur dit la même syllabe Da. Puis il dit : « Avez-vous compris ? » Ils dirent : « Nous avons compris. Vous nous avez dit : “Datta”, “Donne.” » « Oui », dit-il, « vous avez compris. »
+2\. Alors les hommes lui dirent : « Dites-nous quelque chose, <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> Monsieur. » Il leur dit la même syllabe Da. Puis il dit : « Avez-vous compris ? » Ils dirent : « Nous avons compris. Vous nous avez dit : “Datta”, “Donne.” » « Oui », dit-il, « vous avez compris. »
 
 3\. Alors les Asuras lui dirent : « Dites-nous quelque chose, Seigneur. » Il leur dit la même syllabe Da. Puis il dit : « Avez-vous compris ? » Ils dirent : « Nous avons compris. Vous nous avez dit : “Dayadham”, “Soyez miséricordieux.” » « Oui », dit-il, « vous avez compris. »
 
@@ -63,14 +63,14 @@ La voix divine du tonnerre répète la même chose : Da Da Da, c'est-à-dire : S
 
 ## QUATRIÈME BRÂHMA<i>A</i>.
 
-1\. Ce (cœur) est bien cela, c'était bien le véritable [^554] (Brahman). Et quiconque connaît ce grand et glorieux premier-né comme le véritable Brahman, il conquiert ces mondes, et puisse cet (ennemi) être conquis de la même manière [^555] ! Oui, quiconque connaît ce grand <span id="p191">[<sup><small>p. 191</small></sup>]</span> glorieux premier-né comme le véritable Brahman ; car Brahman est le véritable.
+1\. Ce (cœur) est bien cela, c'était bien le véritable [^554] (Brahman). Et quiconque connaît ce grand et glorieux premier-né comme le véritable Brahman, il conquiert ces mondes, et puisse cet (ennemi) être conquis de la même manière [^555] ! Oui, quiconque connaît ce grand <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> glorieux premier-né comme le véritable Brahman ; car Brahman est le véritable.
 
 
 ## CINQUIÈME BRÂHMA<i>N</i>A.
 
 1\. Au commencement, ce monde était eau. L'eau a produit le vrai [^556], et le vrai est Brahman. Brahman a produit Pra<i>g</i>âpati [^557], Pra<i>g</i>âpati les Devas (dieux). Les Devas adorent le vrai (satyam) seul. Ce satyam est composé de trois syllabes. Une syllabe est sa, une autre t(i), la troisième [^558] yam. La première et la dernière syllabes sont vraies, au milieu se trouve le faux [^559]. Ce faux est de chaque côté entouré par le vrai, et ainsi le vrai prédomine. Le faux ne nuit pas à celui qui le sait.
 
-2\. Or, qu'est-ce qui est vrai, c'est-à-dire l'Âditya (le soleil), la personne qui réside dans cet orbe, et la personne dans l'œil droit. Ces deux reposent l'un sur l'autre, le premier reposant avec ses rayons dans le second, le second avec ses prâ<i>n</i>as (sens) dans le premier. Lorsque ce dernier est sur le point de quitter cette vie, il voit cet orbe uniquement comme blanc, et ces rayons (du soleil) ne reviennent pas vers lui. <span id="p192">[<sup><small>p. 192</small></sup>]</span> 3\. Or, de la personne dans cet orbe (solaire), Bhû<i>h</i> est la tête, car la tête est une, et cette syllabe est une ; Bhuva<i>h</i> les deux bras, car les bras sont deux, et ces syllabes sont deux ; Svar le pied, car les pieds sont deux, et ces syllabes sont deux [^560]. Son nom secret est Ahar (jour), et celui qui le sait détruit (hanti) le mal et le quitte (<i>g</i>ahâti).
+2\. Or, qu'est-ce qui est vrai, c'est-à-dire l'Âditya (le soleil), la personne qui réside dans cet orbe, et la personne dans l'œil droit. Ces deux reposent l'un sur l'autre, le premier reposant avec ses rayons dans le second, le second avec ses prâ<i>n</i>as (sens) dans le premier. Lorsque ce dernier est sur le point de quitter cette vie, il voit cet orbe uniquement comme blanc, et ces rayons (du soleil) ne reviennent pas vers lui. <span id="p192"><sup><small>[ p. 192 ]</small></sup></span> 3\. Or, de la personne dans cet orbe (solaire), Bhû<i>h</i> est la tête, car la tête est une, et cette syllabe est une ; Bhuva<i>h</i> les deux bras, car les bras sont deux, et ces syllabes sont deux ; Svar le pied, car les pieds sont deux, et ces syllabes sont deux [^560]. Son nom secret est Ahar (jour), et celui qui le sait détruit (hanti) le mal et le quitte (<i>g</i>ahâti).
 
 4\. De la personne dans l'œil droit, Bhû<i>h</i> est la tête, car la tête est une, et cette syllabe est une ; Bhuva<i>h</i> les deux bras, car les bras sont deux, et ces syllabes sont deux ; Svar le pied, car les pieds sont deux, et ces syllabes sont deux. Son nom secret est Aham (ego), et celui qui le connaît détruit (hanti) le mal et le quitte (<i>g</i>ahâti).
 
@@ -85,7 +85,7 @@ La voix divine du tonnerre répète la même chose : Da Da Da, c'est-à-dire : S
 1. Ils disent que la foudre est Brahman, car la foudre (vidyut) est ainsi appelée parce qu'elle coupe (vidânât) [^562]. Quiconque sait que la foudre est Brahman, celui-là (ce Brahman) le coupe du mal, car la foudre est vraiment Brahman.
 
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 ## HUITIÈME BRÂHMA<i>N</i>A.
 
@@ -104,7 +104,7 @@ La voix divine du tonnerre répète la même chose : Da Da Da, c'est-à-dire : S
 1\. Quand l'homme quitte ce monde, il rejoint le vent. Alors le vent lui fait place, comme le trou d'une roue de chariot, et par lui il s'élève. Il rejoint le soleil. Alors le soleil lui fait place, comme le trou d'une Lambara [^564], et par lui il s'élève. Il rejoint la lune. Alors la lune lui fait place, comme le trou d'un tambour, et par lui il s'élève, et parvient au monde où il n'y a ni chagrin ni neige [^565]. Là, il demeure des années éternelles.
 
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 ## ONZIÈME BRÂHMA<i>N</i>A.
 
@@ -131,7 +131,7 @@ C'est en effet la plus haute pénitence que de jeter un mort sur le feu [^568]. 
 4\. Vient ensuite le Kshatra. En vérité, le souffle est le Kshatra, car le souffle est Kshatra, c'est-à-dire qu'il le protège (trâyate) de toute blessure (ksha<i>n</i>ito<i>h</i>). Celui qui sait cela obtient le Kshatra (pouvoir), qui ne nécessite aucune protection ; il obtient l'union et l'unité avec le Kshatra [^572].
 
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span>
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span>
 
 ## QUATORZIÈME BRÂHMA<i>N</i>A.
 
@@ -139,17 +139,17 @@ C'est en effet la plus haute pénitence que de jeter un mort sur le feu [^568]. 
 
 2\. Les Rikas, le Yagûmshi et le Samâni forment huit syllabes. Un pied (le second) de la Gâyatrî est constitué de huit syllabes. Ce pied est cela (c'est-à-dire les trois Védas, le Rig-veda, le Yagur-veda et le Sama-veda). Et celui qui connaît ainsi ce pied, conquiert aussi loin que s'étend cette triple connaissance.
 
-3\. Le Prânâ (l'inspiration ascendante), l'Apâna (l'inspiration descendante) et le Vyâna (l'inspiration descendante) forment huit syllabes. Un pied (le troisième) de la Gâyatrî est constitué de huit syllabes. Ce pied est cela (c'est-à-dire les trois souffles vitaux). Et celui qui connaît ainsi ce pied est vainqueur de tout ce qui respire. Et de cela (Gâyatrî, ou parole), ceci est en effet le quatrième pied (turîya), le pied brillant (darsata), brillant haut au-dessus des cieux [^574]. Ce qui est appelé ici turîya (le quatrième) est destiné à katurtha (le quatrième) ; ce qui est appelé darsatam padam (le pied brillant) est destiné à celui qui est comme vu (la personne au soleil) ; et ce qu'on appelle parora<i>g</i>as (celui qui brille bien au-dessus des <span id="p197">[<sup><small>p. 197</small></sup>]</span> cieux) est destiné à celui qui brille de plus en plus haut au-dessus de chaque ciel. Et celui qui connaît ainsi ce pied de la Gâyatrî, brille ainsi lui-même aussi de bonheur et de gloire.
+3\. Le Prânâ (l'inspiration ascendante), l'Apâna (l'inspiration descendante) et le Vyâna (l'inspiration descendante) forment huit syllabes. Un pied (le troisième) de la Gâyatrî est constitué de huit syllabes. Ce pied est cela (c'est-à-dire les trois souffles vitaux). Et celui qui connaît ainsi ce pied est vainqueur de tout ce qui respire. Et de cela (Gâyatrî, ou parole), ceci est en effet le quatrième pied (turîya), le pied brillant (darsata), brillant haut au-dessus des cieux [^574]. Ce qui est appelé ici turîya (le quatrième) est destiné à katurtha (le quatrième) ; ce qui est appelé darsatam padam (le pied brillant) est destiné à celui qui est comme vu (la personne au soleil) ; et ce qu'on appelle parora<i>g</i>as (celui qui brille bien au-dessus des <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> cieux) est destiné à celui qui brille de plus en plus haut au-dessus de chaque ciel. Et celui qui connaît ainsi ce pied de la Gâyatrî, brille ainsi lui-même aussi de bonheur et de gloire.
 
 4\. Cette Gâyatrî (comme décrite précédemment avec ses trois pieds) repose sur ce quatrième pied, le brillant, haut au-dessus du ciel. Et cela repose à nouveau sur le Vrai (satyam), et le Vrai est l'œil, car l'œil est (connu pour être) vrai. Et donc, même maintenant, si deux personnes viennent se disputer, l'une disant : « J'ai vu », l'autre : « J'ai entendu », alors nous devrions faire confiance à celui qui dit : « J'ai vu ». Et le Vrai repose à nouveau sur la force (balam), et la force est la vie (prâ<i>n</i>a), et cela (le Vrai) repose sur la vie [^575]. C'est pourquoi ils disent que la force est plus forte que le Vrai. Ainsi cette Gâyatrî repose par rapport au soi (en tant que vie). Cette Gâyatrî protège (tatre) les souffles vitaux (gayas) ; les gayas sont les prâ<i>n</i>as (souffles vitaux), et elle les protège. Et parce qu'il protège (tatre) les souffles vitaux (gayas), c'est pourquoi il est appelé Gâyatrî. Et ce verset de Savitri que l'enseignant enseigne [^576], c'est cela (la vie, le prânâ, et indirectement le Gâyatrî) ; et quiconque il enseigne, il protège ses souffles vitaux.
 
-5\. Certains enseignent que Sâvitrî est un verset Anush<i>t</i>ubh [^577], disant que la parole est Anush<i>t</i>ubh, et que nous enseignons <span id="p198">[<sup><small>p. 198</small></sup>]</span> cette parole. Que personne ne fasse cela, mais qu'il enseigne la Gâyatrî comme Sâvitrî [^578]. Et même si celui qui sait cela reçoit ce qui semble être une grande récompense (en tant qu'enseignant), cela n'est pourtant pas égal à un pied de Gâyatrî.
+5\. Certains enseignent que Sâvitrî est un verset Anush<i>t</i>ubh [^577], disant que la parole est Anush<i>t</i>ubh, et que nous enseignons <span id="p198"><sup><small>[ p. 198 ]</small></sup></span> cette parole. Que personne ne fasse cela, mais qu'il enseigne la Gâyatrî comme Sâvitrî [^578]. Et même si celui qui sait cela reçoit ce qui semble être une grande récompense (en tant qu'enseignant), cela n'est pourtant pas égal à un pied de Gâyatrî.
 
 6\. Si un homme (un enseignant) recevait comme honoraire ces trois mondes emplis de toutes choses, il obtiendrait ce premier pied de la Gâyatrî. Et si un homme recevait comme honoraire tout ce qui s'étend à cette triple connaissance, il obtiendrait ce deuxième pied de la Gâyatrî. Et si un homme recevait comme honoraire tout ce qui respire, il obtiendrait ce troisième pied de la Gâyatrî. Mais « ce quatrième pied brillant, brillant au-dessus des cieux [^579] » ne peut être obtenu par personne – d'où pourrait-on alors recevoir un tel honoraire ?
 
 7\. L'adoration [^580] de cela (Gâyatrî) :
 
-« Ô Gâyatrî, tu as un pied, deux pieds, trois pieds, quatre pieds [^581]. Tu es sans pied, car tu n'es pas connu. Adore ton quatrième pied brillant au-dessus des cieux. » Si [^582] quelqu'un (qui sait cela) hait quelqu'un <span id="p199">[<sup><small>p. 199</small></sup>]</span> et dit : « Qu'il n'obtienne pas ceci », ou « Que ce souhait ne lui soit pas exaucé », alors ce souhait ne s'accomplit pas pour celui contre qui il prie ainsi, ou s'il dit : « Puissé-je obtenir ceci ».
+« Ô Gâyatrî, tu as un pied, deux pieds, trois pieds, quatre pieds [^581]. Tu es sans pied, car tu n'es pas connu. Adore ton quatrième pied brillant au-dessus des cieux. » Si [^582] quelqu'un (qui sait cela) hait quelqu'un <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> et dit : « Qu'il n'obtienne pas ceci », ou « Que ce souhait ne lui soit pas exaucé », alors ce souhait ne s'accomplit pas pour celui contre qui il prie ainsi, ou s'il dit : « Puissé-je obtenir ceci ».
 
 8\. Et ainsi Ganaka Vaideha parla sur ce point à Budila Âsvatarâsvi [^583] : « Comment se fait-il que toi qui parlais ainsi, connaissant la Gâyatrî, tu sois devenu un éléphant et que tu me portes ? » Il répondit : « Votre Majesté, je ne connaissais pas sa bouche. Agni, le feu, est en effet sa bouche ; et si les gens empilent même ce qui semble beaucoup (de bois) sur le feu, il le consume tout. Et ainsi un homme qui sait cela, même s'il commet ce qui semble être beaucoup de mal, le consume tout et devient pur, propre et exempt de pourriture et de mort. »
 
@@ -160,7 +160,7 @@ C'est en effet la plus haute pénitence que de jeter un mort sur le feu [^568]. 
 
 2\. Ô Pûshan, seul voyant, Yama (juge), Sûrya (soleil), fils de Pra<i>g</i>âpati [^588], déploie tes rayons et rassemble-les !
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 La lumière qui est ta plus belle forme, je la vois. Je suis ce qu'il est (c'est-à-dire la personne dans le soleil).
 

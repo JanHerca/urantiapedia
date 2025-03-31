@@ -40,7 +40,7 @@ L'épouse du brahmane dit :
 
 Ma croyance antérieure était que les prêtres sacrificiels étaient au nombre de sept, par nature [^1294]. Expliquez le grand principe selon lequel il existe véritablement cinq prêtres sacrificiels [^1295].
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 Le Brâhma<i>n</i>a dit :
 
@@ -52,7 +52,7 @@ Il est, en vérité, le plus grand, celui qui, une fois éteint, fait disparaît
 
 Le Prânâ dit :
 
-Quand je serai éteint, tous les vents de vie dans le corps <span id="p272">[<sup><small>p. 272</small></sup>]</span> des créatures vivantes s'éteindront ; et lorsque je me déplacerai, ils se déplaceront à nouveau. Je suis le plus grand. Voyez, je suis éteint !
+Quand je serai éteint, tous les vents de vie dans le corps <span id="p272"><sup><small>[ p. 272 ]</small></sup></span> des créatures vivantes s'éteindront ; et lorsque je me déplacerai, ils se déplaceront à nouveau. Je suis le plus grand. Voyez, je suis éteint !
 
 Le Brâhma<i>n</i>a dit :
 
@@ -66,7 +66,7 @@ Le Brâhma<i>n</i>a dit :
 
 Alors le Vyâna et l'Udâna s'adressèrent à celui qui parlait ainsi : « Tu n'es pas le plus grand, ô Apâna ! Car le Prânâ t'est soumis. » Alors l'Apâna se déplaça, et le Vyâna lui parla : « Je suis le plus grand d'entre vous tous. Écoute pourquoi. Quand je m'éteins, tous les souffles de vie dans le corps des créatures vivantes s'éteignent. »
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Et quand je me déplace, ils se déplacent à nouveau. Je suis le plus grand. Voyez, je suis éteint !
 
@@ -76,7 +76,7 @@ Alors le Vyâna s'éteignit et se mit à nouveau en mouvement. Et le Prâna, l'A
 
 Le Brâhma<i>n</i>a dit :
 
-Alors Brahman, le seigneur de (toutes) les créatures, dit à ceux qui étaient assemblés : Vous êtes tous les plus grands, et non les plus grands [^1304]. Vous possédez tous <span id="p274">[<sup><small>p. 274</small></sup>]</span> les qualités des autres [1](Anugita_9#fn1305). Tous sont les plus grands dans leurs propres sphères, et tous se soutiennent mutuellement. Il y en a un immobile [2](Anugita_9#fn1306) (vent de vie). Il y en a d'autres qui se déplacent, (qui sont) cinq, en raison de (leurs) qualités spécifiques. Mon propre moi n'est qu'un [3](Anugita_9#fn1307), (mais) accumulé sous de nombreuses (formes). Étant amicaux les uns avec les autres, et vous faisant plaisir les uns aux autres, partez heureux. Que le bien soit avec vous ! Soutenez-vous les uns les autres.
+Alors Brahman, le seigneur de (toutes) les créatures, dit à ceux qui étaient assemblés : Vous êtes tous les plus grands, et non les plus grands [^1304]. Vous possédez tous <span id="p274"><sup><small>[ p. 274 ]</small></sup></span> les qualités des autres [1](Anugita_9#fn1305). Tous sont les plus grands dans leurs propres sphères, et tous se soutiennent mutuellement. Il y en a un immobile [2](Anugita_9#fn1306) (vent de vie). Il y en a d'autres qui se déplacent, (qui sont) cinq, en raison de (leurs) qualités spécifiques. Mon propre moi n'est qu'un [3](Anugita_9#fn1307), (mais) accumulé sous de nombreuses (formes). Étant amicaux les uns avec les autres, et vous faisant plaisir les uns aux autres, partez heureux. Que le bien soit avec vous ! Soutenez-vous les uns les autres.
 
 <figure class="table chapter-navigator">
   <table>

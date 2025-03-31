@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p254">[<sup><small>p. 254</small></sup>]</span>
+<span id="p254"><sup><small>[ p. 254 ]</small></sup></span>
 
 ## XV.
 
@@ -56,7 +56,7 @@ Alors je contemple les cieux et toutes leurs prairies fleuries.
 Huit paradis,[^376] sept enfers profonds,[^377] sont à mon avis,
 Aussi patent que l'idole à son équipage idiot.
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 À part, et un par un, je peux discerner tous les hommes,
 <sup id="v10"><small>10</small></sup> Comme le blé et l'orge sont bien connus des meuniers.
@@ -90,7 +90,7 @@ Jusqu'à ce que nos moitiés matérielles trouvent le repos de leurs jeux.
 Mais tournons-nous maintenant vers d'autres sujets, plus élevés ;
 De peur que les événements ne nous laissent à regretter et à soupirer.
 
-<span id="p256">[<sup><small>p. 256</small></sup>]</span>
+<span id="p256"><sup><small>[ p. 256 ]</small></sup></span>
 
 « Quand le jour couchant « fait ressortir la couleur de chaque visage »,[^379]
 <sup id="v25"><small>25</small></sup> L'humanité est nettement séparée, race par race.
@@ -123,7 +123,7 @@ Je le ferai comprendre à tous, du dernier au premier.
 Leurs épaules se bousculent contre mes épaules dans la foule ;
 Leurs cris résonnent dans mes oreilles, comme le tonnerre.
 
-<span id="p257">[<sup><small>p. 257</small></sup>]</span>
+<span id="p257"><sup><small>[ p. 257 ]</small></sup></span>
 
 Tandis que les citoyens du ciel, se réjouissant avec délice,
 <sup id="v40"><small>40</small></sup> Serrez-vous les uns les autres avec amour, pour réjouir ma vue.
@@ -158,7 +158,7 @@ Si le miracle de Sion se répète sur ton passage.
 Said Zeyd : « L’homme peut-il jamais saisir sous son bras faible
 Le soleil de la vérité, luminaire éternel, chaleureux ?
 
-<span id="p258">[<sup><small>p. 258</small></sup>]</span>
+<span id="p258"><sup><small>[ p. 258 ]</small></sup></span>
 
 « Je briserais son emprise ; toutes ses ruses étaient vaines,
 <sup id="v55"><small>55</small></sup> Même si c'était de la folie, il devrait ajouter de la raison dans son cerveau !
@@ -194,7 +194,7 @@ Comme la verge de Moïse était obéissante à son ordre.
 Au désir du cœur, les pieds commencent la danse agile,
 <sup id="v70"><small>70</small></sup> Ou chercher un avantage, ou éviter un mauvais coup du sort.
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 Le cœur commande, les mains tombent aux calculs ;
 S'ils le préfèrent, ils écrivent un livre ou un petit traité.
@@ -228,7 +228,7 @@ Par le miroir et par la balance peux-tu être tenu pour certain ?
 Luqmān le sage, en présence de son noble seigneur,[^390]
 <sup id="v85"><small>85</small></sup> Parmi les esclaves et les serviteurs, c'était un simple mot d'ordre.
 
-<span id="p260">[<sup><small>p. 260</small></sup>]</span>
+<span id="p260"><sup><small>[ p. 260 ]</small></sup></span>
 
 Le seigneur ordonna un jour ; aussitôt des esclaves furent envoyés
 Pour cueillir des fruits du verger pour le plaisir de sa gorge.
@@ -258,7 +258,7 @@ Pour vomir ils sont contraints, avec sursaut des globes oculaires.
 Le fruit volé contenu dans le sac de leur estomac,
 Le stimulus de l'eau les a poussés à donner en retour.
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 Quand le tour de Luqmān fut venu de rendre ses comptes,
 L'eau claire était la seule source de ses fontaines.
@@ -295,7 +295,7 @@ Que chacun soit heureux dans sa propre opinion.
 Dieu veut que ceux qui désespèrent de gagner sa grâce,
 Ils persévéreront, sans relâcher, dans le rythme de leur adoration
 
-<span id="p262">[<sup><small>p. 262</small></sup>]</span>
+<span id="p262"><sup><small>[ p. 262 ]</small></sup></span>
 
 Afin qu'ils puissent chercher un homme plein d'espoir, et qu'il le suive ;
 <sup id="v115"><small>115</small></sup> Dans sa société, on peut suivre l'indice du culte.
@@ -331,7 +331,7 @@ Que cela soit visible, nous ne pouvons pas faire de conjectures.
 Bien que le ciel de lumière ne soit pas sans pluie,
 La terre des ténèbres produit aussi des plantes et des céréales.
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 J'aime ce texte : « Ceux qui croient ce qu'on ne voit pas. »[^392]
 <sup id="v130"><small>130</small></sup> J'ai donc fermé les yeux, les fenêtres du corps aiguisées.
@@ -367,7 +367,7 @@ La bouche silencieuse et la lèvre scellée surpassent le reste.
 Alors ne te vante pas, frère; quoi que tu aies fait,
 Dieu connaît tes mérites et les récompensera pour chacun d'eux.
 
-<span id="p264">[<sup><small>p. 264</small></sup>]</span>
+<span id="p264"><sup><small>[ p. 264 ]</small></sup></span>
 
 Le soleil n'a besoin d'aucun autre témoin que son visage.
 <sup id="v145"><small>145</small></sup> L'homme a une plus grande grâce. Dieu est son témoin. Vaste la grâce !
@@ -401,7 +401,7 @@ Ce sont des lumières pour ceux qui cherchent ; même si elles peuvent effrayer 
 Si chaque homme avait la force et la faculté de voir,
 Regarder droit vers le soleil, lui faire confiance uniquement pour la lumière,
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 Quel besoin y avait-il d'étoiles ou de lampes à faible rayon,
 <sup id="v160"><small>160</small></sup> Pour les aider sur leur chemin, en quête de source du jour ?
@@ -436,7 +436,7 @@ Tu ne trouveras aucun signe de Zeyd, aucun pas, signe ou trace.
 Nos sens faiblissent, tout notre raisonnement est perdu,
 Dans la splendeur de la sagesse du fantôme souverain.
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 Les sens des hommes et leurs raisons doivent être enfermés à l'intérieur,
 « Par vagues, quand tout commence à apparaître devant nous. »[^400]
@@ -471,7 +471,7 @@ Par crainte de toi, une âme elle-même doit vite s'effacer.
 Tout sauf l'amour de Dieu, le plus vrai et le meilleur,
 Bien que doux à penser, ce n'est qu'un piège pour rompre ton repos.
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Que valent tous tes efforts ? Tu dois mourir à la fin ;
 Tends ta main et saisis vite la coupe de la vie.
@@ -506,7 +506,7 @@ Le feu de la luxure peut sans aucun doute conduire l'homme en enfer.
 Aucune eau ne peut suffire à éteindre les flammes de la luxure ;
 Car la luxure est née de l'enfer, les tourments ne finissent pas, ils doivent durer.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 La lumière de la religion, seule, peut éteindre la flamme la plus féroce de la luxure.
 La lumière qui peut éteindre le jeu méchant du synthéiste.[^404]
@@ -537,7 +537,7 @@ L'extension lui a donné des ailes, le succès lui a insufflé une nouvelle vie.
 Le peuple se précipita alors vers la porte du calife,
 <sup id="v215"><small>215</small></sup> Étonnamment, à travers l'eau, le feu ne s'éteignit pas.
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 Il leur dit que le feu brûlait par ordre divin ;
 Que toutes ces flammes surgissent de leur main trop frugale :

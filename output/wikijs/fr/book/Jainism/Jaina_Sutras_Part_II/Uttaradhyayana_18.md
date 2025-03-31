@@ -36,7 +36,7 @@ DIX-HUITIÈME CONFÉRENCE. SA_Ñ_<i>G</i>AYA [^210].
 
 Dans la ville de Kâmpilya vivait un roi, nommé Sa<i>ñ</i><i>g</i>aya, qui possédait de nombreuses troupes et des chars de guerre ; un jour, il partit à la chasse. (1)
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 Il était entouré de tous côtés par une grande armée de chevaux, d'éléphants, de chars et de fantassins. (2)
 
@@ -58,7 +58,7 @@ Mais le vénérable moine, plongé dans une méditation silencieuse, ne répondi
 
 « Sois sans crainte, ô roi ; mais accorde aussi la sécurité aux autres ; dans ce monde transitoire d'êtres vivants, pourquoi es-tu adonné à la cruauté ? » (11)
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 « Puisque vous devez, par nécessité, un jour vous séparer de tout, dans ce monde transitoire des êtres vivants, pourquoi vous accrochez-vous au pouvoir royal ? (12)
 
@@ -78,7 +78,7 @@ Sa<i>ñ</i><i>g</i>aya renonça à son pouvoir royal et adopta la foi des <i>G</
 
 Un Kshattriya, qui avait abandonné son royaume et s'était fait moine, lui dit : « Puisque tu as l'air si heureux en apparence, tu dois avoir l'esprit en paix. » (20)
 
-« Quel est ton nom, à quel Gôtra appartiens-tu, et pourquoi es-tu devenu ascète [^213] ? <span id="p83">[<sup><small>p. 83</small></sup>]</span> Comment vénères-tu les illuminés [^214], et comment en es-tu venu à être appelé un (moine) bien élevé ? (21)
+« Quel est ton nom, à quel Gôtra appartiens-tu, et pourquoi es-tu devenu ascète [^213] ? <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> Comment vénères-tu les illuminés [^214], et comment en es-tu venu à être appelé un (moine) bien élevé ? (21)
 
 « Mon nom est Sa<i>ñ</i><i>g</i>aya ; j’appartiens au Gôtra de Gôtama ; mon professeur est Gardabhâli, qui connaît bien la tradition sacrée et la bonne conduite. (22)
 
@@ -90,7 +90,7 @@ Un Kshattriya, qui avait abandonné son royaume et s'était fait moine, lui dit 
 
 « Tous ces discours trompeurs (des hérétiques) sont faux et dénués de sens ; je vis et marche selon les règles de la maîtrise de soi. (26)
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 « Je sais que toutes ces hérésies sont méprisables ; je sais qu'il y aura une vie après la mort, et je me connais. » (27)
 
@@ -104,7 +104,7 @@ Un Kshattriya, qui avait abandonné son royaume et s'était fait moine, lui dit 
 
 « Et ce que vous, esprit pur, m'avez demandé tout à l'heure, cela a été révélé par l'illuminé [^218] ; une telle connaissance fait partie du credo des <i>G</i>inas. (32)
 
-« Un homme sage croit à l'existence de l'âme [^219], <span id="p85">[<sup><small>p. 85</small></sup>]</span> il évite l'hérésie de la non-existence de l'âme ; possédant la vraie foi, il devrait pratiquer la Loi très difficile selon la foi. (33)
+« Un homme sage croit à l'existence de l'âme [^219], <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> il évite l'hérésie de la non-existence de l'âme ; possédant la vraie foi, il devrait pratiquer la Loi très difficile selon la foi. (33)
 
 « Ayant appris cette pure croyance, qui est ornée de vérité et de droiture, Bharata [^220] abandonna Bharatavarsha et tous les plaisirs, et entra dans l'ordre. (34)
 
@@ -114,7 +114,7 @@ Un Kshattriya, qui avait abandonné son royaume et s'était fait moine, lui dit 
 
 « Le roi Sanatkumâra [^223], monarque universel doté d'un grand pouvoir, plaça son fils sur le trône, puis pratiqua des austérités. (37)
 
-« <i>S</i>ânti [^224], un monarque universel d'un grand pouvoir, le <span id="p86">[<sup><small>p. 86</small></sup>]</span> porteur de paix dans le monde, renonça à Bharatavarsha et atteignit la perfection. (38)
+« <i>S</i>ânti [^224], un monarque universel d'un grand pouvoir, le <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> porteur de paix dans le monde, renonça à Bharatavarsha et atteignit la perfection. (38)
 
 « Le roi Kunthu, le taureau de la race Aikshvâka, le seigneur largement célèbre, a atteint la perfection. (39)
 
@@ -140,7 +140,7 @@ Un Kshattriya, qui avait abandonné son royaume et s'était fait moine, lui dit 
 
 « Et ainsi le roi Vigaya [^232], dont les péchés n'étaient pas tout à fait anéantis [^233], devint moine après que lui, l'homme célèbre, eut quitté son excellent royaume. (50)
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 « Et ainsi le voyant royal Mahâbala [^234] pratiqua une pénitence sévère avec un esprit non distrait, et prit sur lui la gloire (de la maîtrise de soi). (51)
 

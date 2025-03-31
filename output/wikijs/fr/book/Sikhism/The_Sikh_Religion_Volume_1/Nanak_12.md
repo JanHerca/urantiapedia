@@ -50,7 +50,7 @@ Celui qui est imprégné du vrai Nom l'obtient ; ce Guru est appelé sandale.
 Fixe ton attention sur Ses pieds dont l'odeur fait briller les légumes
 sont parfumés.
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 C'est par le Guru que l'homme obtient la vraie vie, et c'est par le Guru que l'homme part vers la demeure de Dieu.
 Nanak, par l'intermédiaire du Guru, l'homme est absorbé dans le Vrai ; par l'intermédiaire du Guru, l'homme obtient la dignité particulière de la délivrance.[^1]
@@ -73,7 +73,7 @@ Celui qui ne répète pas le nom de Dieu errera dans la naissance et la mort.
 La valeur de Dieu ne peut être connue sans servir le vrai gourou.
 Quel que soit le service que Dieu demande aux hommes d’accomplir, il sera accompli.
 C'est Dieu lui-même qui agit ; qui d'autre mentionnerai-je ? Dieu contemple sa propre grandeur.
-Celui que Dieu inspire sert le Guru <span id="p150">[<sup><small>p. 150</small></sup>]</span> Nanak, ceux qui donnent leur vie seront sauvés et obtiendront l'honneur à la cour de Dieu.[^1]
+Celui que Dieu inspire sert le Guru <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> Nanak, ceux qui donnent leur vie seront sauvés et obtiendront l'honneur à la cour de Dieu.[^1]
 
 Le gourou arriva à un temple jaïn (Saravagi), très fréquenté. Narbhi, le prêtre jaïn, accompagna son disciple pour lui rendre visite. Les jaïns accordent une valeur exagérée à la vie sous toutes ses formes. Le prêtre jaïn apprit que le gourou n'avait pas les mêmes scrupules sur le sujet et commença à le catéchiser. « Mange-tu du maïs vieux ou nouveau ? (Autrement dit, manges-tu du maïs avec des vers ou non ?) ? Bois-tu de l'eau froide ? Secoues-tu les arbres de la forêt pour en manger les fruits ? Qui est ton gourou, et quel pouvoir a-t-il de te pardonner puisque tu violes toutes les règles et détruis la vie ? » Le gourou répondit par le pauri suivant :
 
@@ -90,7 +90,7 @@ Après cela, le gourou se lança dans une satire des jaïns :
 
 On leur arrache les cheveux, ils boivent de l’eau sale, ils mendient et mangent les restes des autres ;
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 Ils répandent leurs excréments, ils en respirent l’odeur, ils hésitent à regarder l’eau ;
 Ils ont la tête arrachée comme des moutons ; les mains des plumeurs sont enduites de cendres.
@@ -107,7 +107,7 @@ Les Jaïns ne font pas de cadeaux et ne font pas d'ablutions ; la poussière tom
 Des gemmes d'eau sont apparues lorsque Meru est devenu le bâton de barattage.[^3]
 Les dieux désignèrent soixante-huit lieux de pèlerinage et les jours saints furent fixés en conséquence par leurs ordres.
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 Après les ablutions, les musulmans prient ; après les ablutions, les hindous adorent ; les sages se baignent toujours.
 Les morts et les vivants sont purifiés lorsqu’on verse de l’eau sur leur tête.
@@ -145,7 +145,7 @@ Il reçoit cent opprobres le jour et mille la nuit.[^3]
 
 Le Pir tomba alors à ses pieds, invita le Guru à demeurer avec lui et à cesser ses errances, sur quoi le Guru prononça la réflexion et l'instruction suivantes :
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 Reposez-vous, restez à la maison, il y a toujours du mal à voyager.
 Un lieu de repos est reconnu lorsque les hommes y habitent en permanence.

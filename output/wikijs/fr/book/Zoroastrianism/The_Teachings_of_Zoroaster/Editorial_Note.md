@@ -32,9 +32,9 @@ dateCreated: 2025-3-16T22:26:58Z
   </table>
 </figure>
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 L'objectif des éditeurs de cette collection est bien défini. Ils souhaitent avant tout que, à leur humble manière, ces livres soient les ambassadeurs de la bonne volonté et de la compréhension entre l'Orient et l'Occident, l'ancien monde de la pensée et le nouveau monde de l'action. Dans cette entreprise, et dans leur propre sphère, ils ne font que suivre l'exemple le plus élevé du pays. Ils sont convaincus qu'une connaissance approfondie des grands idéaux et de la noble philosophie de la pensée orientale contribuera à la renaissance de ce véritable esprit de charité qui ne méprise ni ne craint les nations d'une autre croyance et d'une autre couleur. Enfin, tout en remerciant la presse et le public pour l'accueil très chaleureux réservé à la collection « Sagesse de l'Orient », ils tiennent à préciser que tout a été mis en œuvre pour s'assurer les meilleurs spécialistes pour traiter les différents sujets abordés.
 

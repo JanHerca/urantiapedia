@@ -32,9 +32,9 @@ dateCreated: 2025-2-12T22:27:33Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 AU JAPON FANTÔME
 
@@ -100,7 +100,7 @@ L’autre, frissonnant, répéta :
 
 « J’ai peur ! J’ai une peur indicible ! … il n’y a que des crânes d’hommes ! »
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 « C'est une montagne de crânes », répondit le Bodhisattva. « Mais sache, mon fils, qu'ils sont tous à toi ! Chacun a été, à un moment donné, le nid de tes rêves, de tes illusions et de tes désirs. Tous ne sont pas le crâne d'un autre être. Tous, sans exception, t'ont appartenu, au cours des milliards de tes vies antérieures. »
 

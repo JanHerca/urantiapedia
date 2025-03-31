@@ -130,7 +130,7 @@ Alors l'œil du géant s'illumina de feu
 Comme celui qui allume le bûcher funéraire.
 Il ordonna à ses plus braves Kinkars [^878] de se dépêcher
 
-<span id="p418">[<sup><small>p. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 Et à ses pieds le spoiler mène.
 Sorti du palais, à sa demande,
@@ -233,7 +233,7 @@ Guerrier féroce aux dents terribles,
 Avec des robes saguines et une couronne brillante.
 Un arc comme celui d'Indra [^881], et un magasin
 
-<span id="p419">[<sup><small>p. 419</small></sup>]</span>
+<span id="p419"><sup><small>[ p. 419 ]</small></sup></span>
 
 Le chef portait des flèches scintillantes.
 Et toujours comme la corde il essayait
@@ -346,7 +346,7 @@ Pour saisir cette chose de race sylvestre.
 Car de ses exploits merveilleux il
 Aucun singe des bois ne peut l'être,
 
-<span id="p420">[<sup><small>p. 420</small></sup>]</span>
+<span id="p420"><sup><small>[ p. 420 ]</small></sup></span>
 
 Mais une nouvelle sorte de créature signifiait
 Pour nous causer du malheur, Indra l'a envoyé.
@@ -461,7 +461,7 @@ Et Aksha repose parmi les morts.
 Tu es mon meilleur et mon plus courageux : va,
 D'une puissance inégalée, tuez l'ennemi.
 
-<span id="p421">[<sup><small>p. 421</small></sup>]</span>
+<span id="p421"><sup><small>[ p. 421 ]</small></sup></span>
 
 Il entendit la voix : il baissa la tête ;
 Assoiffé de bataille, il s'élança.
@@ -555,7 +555,7 @@ Apprenez qui il est, d'où il vient et pourquoi
 Il a gâché la gloire du bosquet,
 Et j'ai lutté avec acharnement avec mes capitaines.
 
-<span id="p422">[<sup><small>p. 422</small></sup>]</span>
+<span id="p422"><sup><small>[ p. 422 ]</small></sup></span>
 
 Prahasta entendit l'ordre de son seigneur,
 Et ainsi le chef Vánar s'adressa :

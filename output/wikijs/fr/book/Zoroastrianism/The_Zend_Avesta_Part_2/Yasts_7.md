@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 Ce Ya<i>s</i>t à la Lune est récité le jour de la Lune, et les jours de Bahman, Gô<i>s</i> et Râm [^430] (Anquetil, II, 185). Bahman et Gô<i>s</i> sont si étroitement liés à la Lune qu'ils sont tous trois gao<i>k</i>ithra : « Bahman [^431], la Lune et Gô<i>s</i> [^432], tous trois, ont en eux la semence du taureau ; Bahman ne peut être ni vu ni saisi par la main ; la Lune est issue de Bahman [^433] et peut être vue, mais ne peut être saisie par la main ; Gô<i>s</i> est issue de la Lune [^434] et peut être à la fois vu et saisi par la main [^435]. » Râm est ici désigné comme étant <i>h</i><i>v</i>âstra, « seigneur des bons pâturages [^436] ».
 
@@ -46,7 +46,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 Je me confesse comme un adorateur de Mazda, un disciple de Zarathustra, quelqu'un qui hait les Daêvas et obéit aux lois d'Ahura ; Pour le sacrifice, la prière, la propitiation et la glorification à \[Hâvani\], le saint et le maître de la sainteté . . . .
 
-À la Lune qui garde en elle la semence du <span id="p89">[<sup><small>p. 89</small></sup>]</span> Taureau ; au Taureau unique-créé et au Taureau [^437] de nombreuses espèces ;
+À la Lune qui garde en elle la semence du <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> Taureau ; au Taureau unique-créé et au Taureau [^437] de nombreuses espèces ;
 
 Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
@@ -58,7 +58,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 Pendant quinze jours la lune croît [^440] ; pendant quinze jours la lune décroît. Aussi longtemps qu'elle croît, aussi longtemps est sa décroissance [^441] ; aussi longtemps qu'elle décroît, aussi longtemps est sa croissance.
 
-« Qui est là, sinon toi [^442], qui fais croître et décroître la lune [^443] ? » <span id="p90">[<sup><small>p. 90</small></sup>]</span> 3\. Nous sacrifions à la Lune qui garde en elle la semence du Taureau, le saint et le maître de la sainteté.
+« Qui est là, sinon toi [^442], qui fais croître et décroître la lune [^443] ? » <span id="p90"><sup><small>[ p. 90 ]</small></sup></span> 3\. Nous sacrifions à la Lune qui garde en elle la semence du Taureau, le saint et le maître de la sainteté.
 
 Ici je regarde la lune, ici je perçois la lune ; ici je regarde la lumière de la lune, ici je perçois la lumière de la lune. L'Amesha-Spe<i>n</i>tas se lève [^444], tenant sa gloire ; l'Amesha-Spe<i>n</i>tas se lève, déversant sa gloire sur la terre, faite par Mazda [^445].
 
@@ -72,7 +72,7 @@ Nous sacrifions à la pleine lune, la sainte et maîtresse de la sainteté ;
 
 Nous sacrifions au Vîshaptatha, le saint et le maître de la sainteté.
 
-; il a le même sens dans Vend. XVIII, 9 \[23\]; cf. Yt. XXII, 18.} <span id="p91">[<sup><small>p. 91</small></sup>]</span> 5\. Je sacrifierai à la Lune, qui garde en elle la semence du Taureau, la libérale, brillante, glorieuse, dispensatrice d'eau [^449], dispensatrice de chaleur, dispensatrice de sagesse [^450], dispensatrice de richesse [^451], dispensatrice de richesses, dispensatrice de prévenance [^452], dispensatrice de bien-être, dispensatrice de fraîcheur [^453], dispensatrice de prospérité [^454], la libérale, la guérisseuse.
+; il a le même sens dans Vend. XVIII, 9 \[23\]; cf. Yt. XXII, 18.} <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> 5\. Je sacrifierai à la Lune, qui garde en elle la semence du Taureau, la libérale, brillante, glorieuse, dispensatrice d'eau [^449], dispensatrice de chaleur, dispensatrice de sagesse [^450], dispensatrice de richesse [^451], dispensatrice de richesses, dispensatrice de prévenance [^452], dispensatrice de bien-être, dispensatrice de fraîcheur [^453], dispensatrice de prospérité [^454], la libérale, la guérisseuse.
 
 6\. Pour sa luminosité et sa gloire, je lui offrirai un sacrifice digne d'être entendu, à savoir, à la Lune qui garde en elle la semence du Taureau.
 

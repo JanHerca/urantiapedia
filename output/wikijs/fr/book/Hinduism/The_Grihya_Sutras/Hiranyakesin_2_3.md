@@ -36,7 +36,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. [^667] Vient ensuite le sacrifice du <i>s</i>ûlagava (ou bœuf craché, pour apaiser Rudra et conjurer la peste chez le bétail).
 
-2\. Dans la quinzaine de la lune croissante, sous une constellation propice, il met du bois sur le feu, étend de l'herbe Darbha sur toute la surface autour du feu, cuit un plat de nourriture sacrificielle avec du lait, <span id="p221">[<sup><small>p. 221</small></sup>]</span> l'arrose (d'Â<i>g</i>ya), le retire du feu, construit deux huttes à l'ouest du feu et fait conduire le bœuf craché vers la hutte du sud avec (le vers) : « Puissent les coursiers en jachère, les harmonieux, t'amener ici, avec les chevaux blancs, les brillants, rapides comme le vent, forts, qui sont aussi vifs que la pensée. Viens vite à mon offrande, <i>Sarva</i> ! Om ! »
+2\. Dans la quinzaine de la lune croissante, sous une constellation propice, il met du bois sur le feu, étend de l'herbe Darbha sur toute la surface autour du feu, cuit un plat de nourriture sacrificielle avec du lait, <span id="p221"><sup><small>[ p. 221 ]</small></sup></span> l'arrose (d'Â<i>g</i>ya), le retire du feu, construit deux huttes à l'ouest du feu et fait conduire le bœuf craché vers la hutte du sud avec (le vers) : « Puissent les coursiers en jachère, les harmonieux, t'amener ici, avec les chevaux blancs, les brillants, rapides comme le vent, forts, qui sont aussi vifs que la pensée. Viens vite à mon offrande, <i>Sarva</i> ! Om ! »
 
 3\. [^668] Au nord (mais il a) le « généreux » (conduit) ; — (c'est-à-dire la compagne du bœuf craché) ;
 
@@ -48,7 +48,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 « Au dieu Bhava svâhâ ! Au dieu Rudra svâhâ ! Au dieu <i>S</i>arva svâhâ ! Au dieu Î<i>s</i>âna . . . Pa<i>s</i>upati . . . Ugra . . . Bhîma svâhâ ! Au grand dieu svâhâ ! »
 
-7\. Puis il sacrifie le riz de la parèdre à la parèdre (de Rudra, avec le Mantra), 'À la parèdre <span id="p222">[<sup><small>p. 222</small></sup>]</span> du dieu Bhava svâhâ ! À la parèdre du dieu Rudra . . . <i>S</i>arva . . . Î<i>s</i>âna . . . Pa<i>s</i>upati . . . Ugra . . . Bhîma . . . du grand dieu svâhâ !'
+7\. Puis il sacrifie le riz de la parèdre à la parèdre (de Rudra, avec le Mantra), 'À la parèdre <span id="p222"><sup><small>[ p. 222 ]</small></sup></span> du dieu Bhava svâhâ ! À la parèdre du dieu Rudra . . . <i>S</i>arva . . . Î<i>s</i>âna . . . Pa<i>s</i>upati . . . Ugra . . . Bhîma . . . du grand dieu svâhâ !'
 
 8\. Puis il sacrifie la portion médiane du riz avec (le Mantra) : « Au conquérant svâhâ ! Au conquérant svâhâ ! »
 
@@ -64,7 +64,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. [^669] Voici maintenant la distribution des feuilles de Palâ<i>s</i>a (à différents endroits).
 
-2\. 'Protecteur de la maison, touche-les ! Au protecteur de la maison svâhâ ! Protectrice de la <span id="p223">[<sup><small>p. 223</small></sup>]</span> maison, touche-les ! À la protectrice de la maison svâhâ ! Protecteur de la porte, touche-les ! Au protecteur de la porte svâhâ ! Protectrice de la porte, touche-les ! À la protectrice de la porte svâhâ !' — avec (ces formules) il pose quatre feuilles ; (puis d'autres feuilles) avec (les formules), 'Bruyants, touchez-les ! Aux bruyants svâhâ ! Frissons. . . vous qui courez à l'arrière . . . Mêleurs (?) . . . Choisisseurs . . . Mangeurs, touchez-les ! Aux mangeurs svâhâ!'—
+2\. 'Protecteur de la maison, touche-les ! Au protecteur de la maison svâhâ ! Protectrice de la <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> maison, touche-les ! À la protectrice de la maison svâhâ ! Protecteur de la porte, touche-les ! Au protecteur de la porte svâhâ ! Protectrice de la porte, touche-les ! À la protectrice de la porte svâhâ !' — avec (ces formules) il pose quatre feuilles ; (puis d'autres feuilles) avec (les formules), 'Bruyants, touchez-les ! Aux bruyants svâhâ ! Frissons. . . vous qui courez à l'arrière . . . Mêleurs (?) . . . Choisisseurs . . . Mangeurs, touchez-les ! Aux mangeurs svâhâ!'—
 
 3\. Puis encore dix (feuilles) avec (la formule), 'Armées divines, touchez-les ! Aux armées divines svâhâ !'
 
@@ -74,7 +74,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 6\. [^671] Il accomplit ensuite un culte (devant ce panier) avec (la formule) : « Adoration à celui qui carquois, à celui qui porte le carquois ! Adoration au seigneur des voleurs ! »
 
-7\. [^672] Avec du baume de santal, du surâ et de l'eau, des grains frits non moulus, de la bouse de vache, avec un bouquet d'herbe dûrvâ, avec de l'Udumbara, du Palâ<i>s</i>a, du Sami, du Vikaṅkata et des <span id="p224">[<sup><small>p. 224</small></sup>]</span> A<i>s</i>vattha (branches), et avec une queue de vache, il arrose ses vaches, le taureau en premier, avec (les mots) : « Portez chance ! Portez chance ! » Alors (le taureau) lui portera chance.
+7\. [^672] Avec du baume de santal, du surâ et de l'eau, des grains frits non moulus, de la bouse de vache, avec un bouquet d'herbe dûrvâ, avec de l'Udumbara, du Palâ<i>s</i>a, du Sami, du Vikaṅkata et des <span id="p224"><sup><small>[ p. 224 ]</small></sup></span> A<i>s</i>vattha (branches), et avec une queue de vache, il arrose ses vaches, le taureau en premier, avec (les mots) : « Portez chance ! Portez chance ! » Alors (le taureau) lui portera chance.
 
 8\. [^673] Il fait ensuite cuire ce plat de nourriture sacrificielle, sacrée pour Kshetrapati (le seigneur du champ), avec du lait, l'asperge (avec Â<i>g</i>ya), le retire du feu et accomplit un sacrifice à Kshetrapati sur le chemin où ses vaches ont l'habitude d'aller, sans feu, sur quatre ou sept feuilles.
 

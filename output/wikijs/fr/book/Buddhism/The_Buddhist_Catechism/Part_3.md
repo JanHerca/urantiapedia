@@ -32,9 +32,9 @@ dateCreated: 2025-2-6T11:21:13Z
   </table>
 </figure>
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 256\. Q. _En quoi les bhikkhus bouddhistes diffèrent-ils des prêtres des autres religions ?_
 
@@ -44,7 +44,7 @@ A. Dans d'autres religions, les prêtres prétendent être des intercesseurs ent
 
 A. L'objectif visé était d'amener les personnes les plus vertueuses, les plus intelligentes, les plus altruistes et les plus spirituelles d'un pays à se retirer de l'environnement social où leurs désirs sensuels et autres désirs égoïstes étaient naturellement renforcés, à consacrer leur vie à l'acquisition de la plus haute sagesse et à se préparer à enseigner et à guider les autres hors du chemin agréable menant à la misère, vers le chemin plus difficile qui mène au vrai bonheur et à la libération finale.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 258\. Q. _Outre les Huit, quelles sont les deux observances supplémentaires obligatoires pour les Bhikkhus ?_
 
@@ -66,7 +66,7 @@ Observances pour la répression des sens (_Indriya samvara sîla_).
 
 Règlements pour se procurer et utiliser équitablement la nourriture, le régime alimentaire, les vêtements, etc. (_Paccaya sanissita sîla_).
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Instructions pour mener une vie sans tache (_Ajivapâri suddha sîla_).
 
@@ -96,7 +96,7 @@ Utiliser un langage dur et réprobateur ; Bavardage oiseux ;
 
 Lire et écouter des histoires et des contes fabuleux. Transmettre des messages aux laïcs et de leur part.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 Achat et vente;
 
@@ -112,7 +112,7 @@ A. En général, leur donner l'exemple de la plus haute moralité ; les instruir
 
 262\. Q. _Quelles sont les règles d'admission dans l'Ordre ?_
 
-A. Le candidat n'est pas souvent pris avant sa dixième <span id="p79">[<sup><small>p. 79</small></sup>]</span> année; il doit avoir le consentement de ses parents; être exempt de lèpre, de furoncles, de tuberculose et de crises; être un homme libre; n'avoir aucune dette; et ne pas être un criminel ou difforme, ni au service du roi.
+A. Le candidat n'est pas souvent pris avant sa dixième <span id="p79"><sup><small>[ p. 79 ]</small></sup></span> année; il doit avoir le consentement de ses parents; être exempt de lèpre, de furoncles, de tuberculose et de crises; être un homme libre; n'avoir aucune dette; et ne pas être un criminel ou difforme, ni au service du roi.
 
 263\. Q. _En tant que novice, comment s'appelle-t-il ?_
 
@@ -132,7 +132,7 @@ A. Il revêt la robe et répète les Trois Refuges (_Tisaraṇa_) et les Dix Pr�
 
 267\. Q. _Quels sont les deux éléments essentiels à respecter ?_
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 A. Pauvreté et chasteté. Avant l'ordination, un bhikkhu doit posséder huit choses : sa robe, une ceinture pour les reins, un aumônier, une passoire, un rasoir, une aiguille, un éventail et des sandales. Dans les limites strictement spécifiées dans le Vinâya, il peut posséder d'autres biens.
 
@@ -146,7 +146,7 @@ A. Il se lève avant le jour, se lave, balaie le vihâra, balaie autour de l'arb
 
 270\. Q. _Faut-il croire qu'il n'y a aucun mérite à_ 
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 _l'offrande de fleurs (mala pûja) comme acte d'adoration ?_
 
@@ -176,7 +176,7 @@ A. Intuition : un état mental dans lequel toute vérité désirée est instanta
 
 275\. Q. _Et quand ce développement peut-il être atteint ?_
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 A. Quand, par la pratique de Jñâna, on parvient à sa quatrième étape de développement.
 

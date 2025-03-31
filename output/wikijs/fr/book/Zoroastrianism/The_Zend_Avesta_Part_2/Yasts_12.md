@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 Rashnu Razi<i>s</i>ta, « le plus vrai Vrai », est le Génie de la Vérité : il est l'un des trois juges des défunts, avec Mithra et Sraosha : il tient la balance dans laquelle les actes des hommes sont pesés après leur mort : « il ne fait aucune balance injuste..., ni pour les pieux ni pour les méchants, ni pour les seigneurs ni pour les dirigeants ; il ne variera pas d'un cheveu, et il ne montre aucune faveur [^777]. » Il est un rejeton soit de Mithra, le Dieu de Vérité et le vengeur des mensonges, soit d'Ahura Mazda lui-même, le seigneur omniscient (§ 2 seq.).
 
@@ -52,7 +52,7 @@ Pour le sacrifice, la prière, la propitiation et la glorification à \[Hâvani\
 
 À Rashnu Razi<i>s</i>ta; à Ar<i>s</i>tâ<i>t</i>, qui fait croître le monde, qui fait croître le monde; à la parole vraie, qui fait croître le monde [^778];
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 Soyez propitiatoires, avec sacrifice, prière, propitiation et glorification.
 
@@ -68,7 +68,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « La Sainte Parole la plus glorieuse (elle-même), c'est ce qui dans la Sainte Parole est créé vrai, ce qui est créé en progrès, ce qui est apte à discerner, ce qui est sain, sage et heureux, ce qui est plus puissant pour détruire que toutes les autres créatures. »
 
-3\. Ahura Mazda dit : « Attache un baresma à trois branches contre le chemin du soleil. \[Adresse\] à moi, Ahura Mazda, ces mots : « Nous invoquons, nous bénissons \[Ahura\] [^781] ; j'invoque l'amitié \[d'Ahura\] envers ce var [^782] préparé, envers le feu et le baresma, envers le \[^783]\] bouillant pleinement, envers le var [^782] d'huile et la sève [^784] des plantes. » <span id="p170">[<sup><small>p. 170</small></sup>]</span> 4\. « Alors moi, Ahura Mazda, je viendrai à ton secours, envers ce var préparé, envers le feu et le baresma, envers le \[lait\] bouillant pleinement, envers le var d'huile et la sève des plantes ;
+3\. Ahura Mazda dit : « Attache un baresma à trois branches contre le chemin du soleil. \[Adresse\] à moi, Ahura Mazda, ces mots : « Nous invoquons, nous bénissons \[Ahura\] [^781] ; j'invoque l'amitié \[d'Ahura\] envers ce var [^782] préparé, envers le feu et le baresma, envers le \[^783]\] bouillant pleinement, envers le var [^782] d'huile et la sève [^784] des plantes. » <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 4\. « Alors moi, Ahura Mazda, je viendrai à ton secours, envers ce var préparé, envers le feu et le baresma, envers le \[lait\] bouillant pleinement, envers le var d'huile et la sève des plantes ;
 
 « Avec le Vent qui frappe les démons, avec la pensée maudite du sage [^785], avec la Gloire royale, avec Saoka [^786], fait par Mazda.
 
@@ -78,7 +78,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 « Avec le vent qui frappe les démons, avec la pensée maudite des sages, avec la gloire royale, avec Saoka, fait par Mazda.
 
-7\. « Ô toi, saint Rashnu ! Ô très vrai Rashnu ! très bienfaisant Rashnu ! très savant Rashnu ! très perspicace Rashnu ! très prévoyant Rashnu ! très clairvoyant Rashnu ! Rashnu, le <span id="p171">[<sup><small>p. 171</small></sup>]</span> meilleur faiseur de justice [^788] ! Rashnu, le meilleur frappeur de voleurs ;
+7\. « Ô toi, saint Rashnu ! Ô très vrai Rashnu ! très bienfaisant Rashnu ! très savant Rashnu ! très perspicace Rashnu ! très prévoyant Rashnu ! très clairvoyant Rashnu ! Rashnu, le <span id="p171"><sup><small>[ p. 171 ]</small></sup></span> meilleur faiseur de justice [^788] ! Rashnu, le meilleur frappeur de voleurs ;
 
 8\. « Celui qui n'est pas blessé, le meilleur tueur, celui qui frappe, celui qui détruit les voleurs et les bandits ! Dans quelque partie du monde que tu observes les faits et gestes [^789] des hommes et que tu en rendes compte... [^790]. »
 
@@ -96,7 +96,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 ## V.
 
-12\. « Que tu sois, ô saint Rashnu ! dans le <span id="p172">[<sup><small>p. 172</small></sup>]</span> Karshvare Vîdadhafshu [^793], nous invoquons, nous bénissons Rashnu, le fort. J'invoque son amitié envers ce var préparé... dans quelque partie du monde que tu sois.
+12\. « Que tu sois, ô saint Rashnu ! dans le <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> Karshvare Vîdadhafshu [^793], nous invoquons, nous bénissons Rashnu, le fort. J'invoque son amitié envers ce var préparé... dans quelque partie du monde que tu sois.
 
 ## VI.
 
@@ -114,7 +114,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 16\. « Que tu sois, ô saint Rashnu ! dans la mer Vouru-Kasha [^794], nous invoquons, nous bénissons Rashnu, le fort. J'invoque son amitié envers ce var préparé... dans n'importe quelle partie du monde où tu te trouves.
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 ## X.
 
@@ -128,7 +128,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 19\. « Que tu sois, ô saint Rashnu ! sur le Sanaka [^797] du Rangha, nous invoquons, nous bénissons Rashnu, le fort. J'invoque son amitié envers ce var préparé…
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 ## XIII.
 
@@ -150,7 +150,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 24\. « Que tu sois, ô saint Rashnu ! sur le plus haut Hukairya, des profonds précipices [^799], faits d'or, d'où jaillit cette rivière qui est la mienne, l'Ardvi Sûra Anâhita, mille fois plus haute qu'un homme, nous invoquons, nous bénissons Rashnu, le fort. J'invoque son amitié envers ce var préparé… »
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 ## XVIII.
 
@@ -170,7 +170,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 ## XXII.
 
-29\. « Que tu sois, ô saint Rashnu ! dans ces étoiles qui contiennent la semence des eaux [^803], nous <span id="p176">[<sup><small>p. 176</small></sup>]</span> invoquons, nous bénissons Rashnu, le fort. J'invoque son amitié envers ce var préparé…
+29\. « Que tu sois, ô saint Rashnu ! dans ces étoiles qui contiennent la semence des eaux [^803], nous <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> invoquons, nous bénissons Rashnu, le fort. J'invoque son amitié envers ce var préparé…
 
 ## XXIII.
 
@@ -188,7 +188,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 33\. « Que tu sois, ô saint Rashnu ! dans la lune qui contient la semence du Taureau [^806], nous invoquons, nous bénissons Rashnu, le fort. J'invoque son amitié envers ce var préparé… »
 
-<span id="p177">[<sup><small>p. 177</small></sup>]</span>
+<span id="p177"><sup><small>[ p. 177 ]</small></sup></span>
 
 ## XXVII.
 
@@ -212,7 +212,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 39\. « Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu... »
 
-<span id="p178">[<sup><small>p. 178</small></sup>]</span>
+<span id="p178"><sup><small>[ p. 178 ]</small></sup></span>
 
 'Yê<i>n</i>hê hâtãm : Tous ces êtres dont Ahura Mazda. . . .
 

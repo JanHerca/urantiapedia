@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p139">[<sup><small>p. 139</small></sup>]</span>
+<span id="p139"><sup><small>[ p. 139 ]</small></sup></span>
 
 ## VIII. Le Harpiste.
 
@@ -57,7 +57,7 @@ Ces oreilles, à bien des égards, sont effectivement dégradées.
 L'humanité n'entend jamais les chants des fées,
 Ils ne connaissent pas les manières des fées, leurs voix sont petites.
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 Il est vrai que les chants des fées sont de ce monde ;[^245]
 <sup id="v10"><small>10</small></sup> Mais les chansons chantées par les cœurs des hommes sont lancées bien au-dessus d'eux.
@@ -92,7 +92,7 @@ Pouvant donner le don à tous, il l'a donné à Marie : « Je vous salue ! »
 Ô vous dont la mort n'est pas celle qui attaque la chair,
 Au son de la voix du Bien-Aimé, vous vous êtes relevés à nouveau.
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 Cette voix était vraiment la voix de l'Époux, dit-on,
 Bien que cela venait des lèvres de Son serviteur, Ahmed.
@@ -125,7 +125,7 @@ La lune tire son éclat du tonneau doré de l'étoile du jour.
 Imprègne-toi de toute la lumière que tu peux de n'importe quelle étoile scintillante.
 Le Prophète a dit : « Les étoiles sont toutes mes disciples. » Écoutez ![^250]
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Il dit encore : « Comme heureux ceux qui voient mon visage,[^251]
 Et heureux ceux qui les regardent à leur place.
@@ -158,7 +158,7 @@ Vos âmes ardentes furent rapidement gonflées par tout cela.
 Leur calme présent, et cette vivacité viennent du ciel ;
 Ne ressemblant pas à la turbulence par laquelle l'homme est poussé.
 
-<span id="p143">[<sup><small>p. 143</small></sup>]</span>
+<span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 Un souffle du Seigneur, lorsqu'il souffle sur la terre et dans l'air,
 Les mauvaises qualités se transforment directement en tout ce qui est juste.
@@ -190,7 +190,7 @@ Pour toi l'épine est une rose, le désert, une terre fertile.
 Ô toi qui dans une telle quête as erré de long en large,
 Combien de temps lutteras-tu contre le jardin de roses sablonneux ?
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 Tu ne peux pas maintenant extraire l'épine de ton pied douloureux.
 <sup id="v65"><small>65</small></sup> Avec ton œil aveugle, comment verras-tu sa racine ?
@@ -222,7 +222,7 @@ Cette question dépasse l'entendement, mon bon elfe.
 La raison limitée de l'homme ne croit pas à l'influence puissante de l'amour.
 Lui-même, il s'estime encore doté d'une tête aujourd'hui.
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Il est intelligent et il sait, mais il n'est pas intelligent ; anonyme.
 Jusqu'à ce qu'un ange ne soit rien,[^259] il est un pur démon.
@@ -253,7 +253,7 @@ Ce n'est rien mais le décret là devrait apparaître par défaut.
 C'est une honte pour celui qui ne voit que les défauts des autres.
 <sup id="v90"><small>90</small></sup> Quelle faute est constatée par l'Âme à l'abri des assauts ?
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 C'est une faute aux yeux des créatures ignorantes.
 Mais pas avec Dieu le Seigneur, notre Créateur bienveillant.
@@ -284,7 +284,7 @@ Tu es esclave de ton corps, tu n'as pas d'âme, elfe.
 Derrière, devant, au-dessus, en dessous, se dresse l'ombre du corps.
 L'âme n'a pas de « dimensions » ; c'est clairement affiché.
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 Lève les yeux, cher Monsieur, dans la glorieuse lumière de Dieu ;
 Que tu ne sois pas considéré comme le plus myope des imbéciles.
@@ -321,7 +321,7 @@ Dieu a-t-il toujours élevé des jardins riches, exempts de feintes ?
 Chaque fleur qui cède au sens un parfum agréable,
 Parle long au cœur du saint avec sa langue mystérieuse.
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Chaque parfum d'une fleur frotte le nez de l'athée dans la saleté ;
 <sup id="v120"><small>120</small></sup> Bien qu'il se précipite, et un esprit de non-sens sans limites.
@@ -354,7 +354,7 @@ Ils donnent leurs ordres aux sphères de la terre et de l'air.
 Les hauts et les bas du chemin de l'esprit forment une classe à part entière ;
 Tant de collines à gravir, tant de mers à traverser. » — _Sanā’ī_.
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Le monde invisible a d'autres nuages et d'autres cieux ;[^268]
 Son soleil est différent, son eau, Dieu la fournit.
@@ -385,7 +385,7 @@ L'air s'accélère encore, bien que les souches mortes ne ressentent pas sa puis
 Le Prophète a donné un conseil : « Des brises fraîches, au printemps,[^270]
 Vos corps ne se couvrent pas, ils sont revigorants.
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 Laissez-les donc jouer pleinement ; ils donneront de la force à vos tendons.
 Voyez comme, avec eux, les arbres se revêtent de feuilles, à la longue.
@@ -417,7 +417,7 @@ Et par les reproches l'âme est retenue loin des mauvaises actions.
 Sur le cœur de l'enseignant s'accroche le voile d'une sombre tristesse,
 Si une brindille du jardin du cœur est vue pour tomber.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 Bon ‘Ā’isha, le joyau du cercueil d’honneur est large,
 <sup id="v160"><small>160</small></sup> Puis le Prophète (qui est des deux mondes l'Orgueil) demanda :
@@ -453,7 +453,7 @@ Au son de sa douce voix, l’imagination s’est envolée.
 Chaque cœur, tel un oiseau, commença à voleter dans sa cage ;
 La surprise enchaîna les esprits lorsque ses notes jetèrent la jauge.
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 Mais maintenant il était vieux ; de longues années avaient passé sur terre.
 <sup id="v175"><small>175</small></sup> Comme un faucon chassant les moucherons, il avait peu de raisons de s'amuser.
@@ -487,7 +487,7 @@ Au cimetière de Yathrab;[^274] assis sur le gazon.
 Il dit : « Je demanderai à Dieu la location de mes cordes de harpe ;
 Car Il accepte les plus humbles effusions du cœur. »
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 Il rabâcha un moment, puis il se coucha et pleura.
 Sa harpe était son oreiller; sur une tombe il dormait.
@@ -520,7 +520,7 @@ A prêté à mes pensées les ailes qui rendent leur vol si audacieux.
 Si seulement ce monde était en vue, si seulement sa route était connue ;
 Peu d'âmes resteraient ici, si seulement ses gloires étaient montrées.
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 Le commandement a été donné : « Tu ne seras pas cupide. »
 L'épine est retirée de ton pied ; voyons tes remerciements.
@@ -554,7 +554,7 @@ Ils ont tous deux compris et parlé, comme le voit un être humain.
 Un poste dans sa propre maison, dans la retraite de Mustafà,
 <sup id="v215"><small>215</small></sup> Envoya un sanglot de chagrin, comme un cœur dans la chaleur du chagrin,
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 Tandis qu'il prêchait son sermon, entouré de son troupeau,
 Pour que le gémissement soit entendu par les vieux et les jeunes ; pas de moquerie.
@@ -584,7 +584,7 @@ Je ne croirai jamais qu’une action puisse soupirer et gémir d’amour.
 Il peut prétendre acquiescer, non par croyance ;
 Il dit : « C’est ainsi », pour échapper à un nom bien pire que voleur.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Tous ceux qui ne sont pas convaincus que le « Sois » de Dieu est suffisant,
 Ils détourneront leur visage ; cette histoire, ils la traiteront comme un « truc »
@@ -621,7 +621,7 @@ Avec elle, tu frappes les visages des hommes, en colère, chaque jour.
 Que faites-vous donc, aveugles ?
 Des gendarmes interviennent pour calmer cette effroyable déroute.
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 Tombe à terre, et supplie celui qui t'a fourni un bâton.
 Regardez bien, et voyez quels signes votre arme peut graver.
@@ -658,7 +658,7 @@ Mais son âme et son corps témoignent que Dieu est vrai.
 Un jour, Abū-Jahl tenait quelques pierres dans sa main.[^278]
 Il dit à Mahomet : « Que tiens-je ici ? Dis-le maintenant. »
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 Puisque tu es un prophète, dis : Que tiens-je dans ma main ?
 Tu prétends détenir les secrets du ciel.
@@ -697,7 +697,7 @@ Reviens ici, cherche-moi seul. »
 Au son de cette voix redoutable, Umer se réveilla,
 Et il se disposa directement à entreprendre cette tâche.
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Il tourna ses pas vers le cimetière,
 L'argent dans sa poitrine, pour chercher l'étranger, volontiers.
@@ -735,7 +735,7 @@ J'espère que tu as bien supporté toutes tes terribles afflictions.
 Cette bagatelle sert aux besoins présents, comme les cordes de la harpe.
 Quand il sera épuisé, revenez ici et ne craignez pas la disette.
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 Le vieil homme tremblait en entendant ces paroles si douces ;
 <sup id="v290"><small>290</small></sup> Il mordit son doigt avec étonnement ; il perdit presque la raison.
@@ -770,7 +770,7 @@ Au-delà de mon métier, je vois moi-même, quand le métier est aux abois.
 Tout comme quand un homme raconte l'or avec toi.
 Tu le considères seul, tu ne te vois pas toi-même.
 
-<span id="p161">[<sup><small>p. 161</small></sup>]</span>
+<span id="p161"><sup><small>[ p. 161 ]</small></sup></span>
 
 Ainsi pleurait le harpiste et se plaignait bruyamment.
 <sup id="v305"><small>305</small></sup> Il a compté ses péchés, commis au cours de sa vie.
@@ -805,7 +805,7 @@ Comme je ne peux pas l'expliquer, essaye ta perception.
 Une telle extase, de tels mots, au-delà de toute humeur et de tout temps ;
 Immersion totale dans la glorieuse splendeur de Dieu.
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Immersion telle, évasion impossible ;
 <sup id="v320"><small>320</small></sup> Cette mer lui devint désormais infranchissable.
@@ -844,7 +844,7 @@ Ne dépensez pas vos richesses au service de Dieu. Prenez garde !
 Ainsi tu pourras obtenir une récompense au centuple.
 Ainsi tu pourras échapper à la punition des péchés indicibles.
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Les hommes ont offert leurs chameaux en sacrifice ;
 <sup id="v335"><small>335</small></sup> Dans l’espoir que leurs épées contre Mustafà seraient utiles.
@@ -881,7 +881,7 @@ Les mules, les chevaux, les souris et les accidents l'ont réduit.
 Ce monde est négatif, cherche le positif.
 Toutes les formes extérieures sont des chiffres ; la recherche, le sens de savoir.
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 Déposez votre misérable vie devant l’épée levée ;
 <sup id="v350"><small>350</small></sup> Tu achèteras une nouvelle vie, sans fin, du Seigneur.

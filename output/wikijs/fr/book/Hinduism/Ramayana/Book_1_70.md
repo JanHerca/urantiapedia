@@ -63,7 +63,7 @@ Aux côtés d'Ambarisha, il dit :
 « Le coursier est parti, ô Roi, et ceci
 C'est à toi que revient la responsabilité de prendre soin de toi.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 Les rois détruiront de telles fautes insouciantes.
 Ceux qui ne parviennent pas à protéger ce qu’ils aiment.
@@ -166,7 +166,7 @@ Quand Vísvámitra, glorieux saint,
 J'avais entendu la plainte déchirante du garçon.
 Il a apaisé son chagrin, il a séché ses larmes,
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 Alors il appela ses fils et s'écria :
 « Le temps est venu pour vous de montrer
@@ -295,7 +295,7 @@ Et, chargé d'angoisse, le souvenir est venu
 Car il savait rapidement, avec colère enflammée,
 Que tous les Immortels avaient conspiré
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 Pour laper son âme insouciante dans la facilité,
 Et gâcher ses longues austérités.
@@ -395,7 +395,7 @@ Quand les arbres commencent à fleurir au printemps,
 Moi, avec Kandarpa pour ami,
 Près de toi, mon secours te sera prêté.
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Que ta belle splendeur s'étende
 Avec toute la grâce et le charme séduisant,
@@ -517,7 +517,7 @@ Oui, comme le flot ardent du Destin
 Il laisse toute la création désolée.
 Il peut régner sur les dieux conquis :
 Oh, accordez-lui ce qu'il désire ardemment obtenir.
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 Alors tous les Bienheureux, conduits par Brahma,
 Il s'approcha du saint et lui dit doucement :
@@ -644,7 +644,7 @@ Il le tenait comme souverain du pays,
 Un gage dans sa main successive.
 Cet arc, le puissant Rudra le portait
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 Au sacrifice de Daksha [^245] d'autrefois,
 Quand le carnage des Immortels souille
@@ -744,7 +744,7 @@ Notre race a été valorisée d’âge en âge.
 Trop fort pour ceux qui ont encore régné,
 Bien que grands en puissance, ils tendaient chaque nerf.
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Titan et démon défient sa force,
 Dieu, esprit, ménestrel des cieux.
@@ -871,7 +871,7 @@ Qui remplit l'âme de Kaus'alyá de joie,
 Par Vis'vámitra bien gardé
 Parmi les bons Videhans habitent.
 
-<span id="p80">[<sup><small>p. 80</small></sup>]</span>
+<span id="p80"><sup><small>[ p. 80 ]</small></sup></span>
 
 Leur dirigeant Janak, prompt à posséder
 La puissance incomparable dont mon enfant a fait preuve,
@@ -998,7 +998,7 @@ Ainsi en présence du prêtre
 Le royal Janak parla, puis s'arrêta.
 Puis vinrent ses hommes de main, prompts et courageux,
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 À qui le monarque confia sa charge.
 Dès qu'ils entendirent sa volonté, à la hâte
@@ -1120,7 +1120,7 @@ Et, de son mari depuis longtemps endeuillé,
 Elle a eu de lui un fils conçu.
 Parce que sa rivale a mélangé le fléau
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Pour rendre sa conception vaine,
 Et les fruits non mûrs à détruire,

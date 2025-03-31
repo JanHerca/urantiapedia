@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 
 Le moine Devadatta était d'une nature arrogante. Il ne supportait aucune contrainte. Il aspirait à supplanter le Bouddha, mais il savait que les moines ne se joindraient pas à lui dans une révolte ouverte. Pour cela, il avait besoin du soutien d'un roi ou d'un prince.
@@ -59,7 +59,7 @@ Devadatta atteignit bientôt le comble de la vanité. Il ne supporta pas la gran
 
 Le Maître sourit d'un air interrogateur.
 
-« Ne t'inquiète pas pour moi, Devadatta ; tu es trop bon. Je saurai quand il sera temps de me retirer. Pour l'instant, je resterai à la tête de la communauté. <span id="p255">[<sup><small>p. 255</small></sup>]</span> D'ailleurs, quand ce moment viendra, je ne le donnerai même pas à Sariputra ou à Maudgalyayana, ces deux grands esprits qui sont comme des torches ardentes, et tu en as besoin, Devadatta, toi qui as une intelligence si médiocre, toi qui éclaires encore moins qu'une veilleuse ! »
+« Ne t'inquiète pas pour moi, Devadatta ; tu es trop bon. Je saurai quand il sera temps de me retirer. Pour l'instant, je resterai à la tête de la communauté. <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> D'ailleurs, quand ce moment viendra, je ne le donnerai même pas à Sariputra ou à Maudgalyayana, ces deux grands esprits qui sont comme des torches ardentes, et tu en as besoin, Devadatta, toi qui as une intelligence si médiocre, toi qui éclaires encore moins qu'une veilleuse ! »
 
 Devadatta s'inclina respectueusement devant le Maître, mais il ne put cacher le feu de la colère dans ses yeux.
 

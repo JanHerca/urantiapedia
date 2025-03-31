@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 ## LE ROI SHIH OU LIVRE DE POÉSIE.
 
@@ -56,13 +56,13 @@ L'ensemble de la collection est divisé en quatre parties, appelées le Kwo Făn
 
 Le Kwo Făng, en quinze livres, contient 160 pièces, presque toutes courtes, décrivant les mœurs et les événements de plusieurs États féodaux de Kâu. Le titre a été traduit par « Les Mœurs des Royaumes » et, ce que je préfère, par « Lessons from the States ».
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Le Hsiâo Yâ, ou Petit Yâ, en huit Livres, contient soixante-quatorze morceaux et les titres de six autres, chantés lors des assemblées des princes féodaux et de leurs apparitions à la cour royale. Ils furent produits sur le territoire royal et décrivent les mœurs et usages du gouvernement sous les règnes successifs. Il est difficile de trouver un mot anglais qui puisse décrire le Yâ chinois tel qu'il est employé ici. Dans sa traduction latine du Shih, p. Lacharme traduit Hsiâo Yâ par « Quod rectum est, sed inferiore ordine », ajoutant en note : « Siâo Yâ, latine Parvum Rectum, quia in hac Parte mores describuntur, recti illi quidem, qui tamen nonnihil a recto deflectunt. » Mais les mœurs décrites ne sont pas moins correctes ou incorrectes, selon le cas, que celles des États de la première partie ou du royaume de la suivante. Je préfère appeler cette partie « Odes mineures du Royaume », sans tenter de traduire le terme Yâ.
 
 Le Tâ Yâ ou Grand Yâ, en trois Livres, contient trente et un morceaux, chantés lors des grandes occasions à la cour royale et en présence du roi. p. Lacharme l'appelait « Magnum Rectum (Quod rectum est superiore ordine) ». Mais on trouve ici la même objection à l'emploi du mot « correct » que dans le cas des morceaux de la partie précédente. J'emploie le nom de « Odes Majeures du Royaume ». La longueur et la dignité plus grandes de la plupart des morceaux justifient la distinction des deux parties : mineure et majeure.
 
-Le Sung, également en trois Livres, contient quarante pièces, dont trente et une appartiennent aux services sacrificiels à la cour royale de Kâu ; quatre à ceux des marquis de Lû ; et cinq aux sacrifices correspondants des rois de Shang. p. Lacharme les a correctement dénommés « Parentales Cantus ». Dans la préface du Shih, à laquelle j'ai fait référence plus haut, il est dit : « Les Sung sont des pièces d'admiration pour la manifestation incarnée de la vertu complète, annonçant aux Intelligences spirituelles leur accomplissement. » Le compte rendu du Sung par Kû Hsî était : « Chants pour la musique du temple ancestral » ; et celui de Kiang Yung de la dynastie actuelle : « Chants pour la musique des sacrifices. » J'ai réuni ces deux définitions et appelé la partie : « Odes du temple et de l'autel ». Il y a <span id="p278">[<sup><small>p. 278</small></sup>]</span> une différence entre les pièces de Lû et les deux autres recueils de cette partie, sur laquelle j'attirerai l'attention en en donnant la traduction.
+Le Sung, également en trois Livres, contient quarante pièces, dont trente et une appartiennent aux services sacrificiels à la cour royale de Kâu ; quatre à ceux des marquis de Lû ; et cinq aux sacrifices correspondants des rois de Shang. p. Lacharme les a correctement dénommés « Parentales Cantus ». Dans la préface du Shih, à laquelle j'ai fait référence plus haut, il est dit : « Les Sung sont des pièces d'admiration pour la manifestation incarnée de la vertu complète, annonçant aux Intelligences spirituelles leur accomplissement. » Le compte rendu du Sung par Kû Hsî était : « Chants pour la musique du temple ancestral » ; et celui de Kiang Yung de la dynastie actuelle : « Chants pour la musique des sacrifices. » J'ai réuni ces deux définitions et appelé la partie : « Odes du temple et de l'autel ». Il y a <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> une différence entre les pièces de Lû et les deux autres recueils de cette partie, sur laquelle j'attirerai l'attention en en donnant la traduction.
 
 Seules les pièces de la quatrième partie ont un caractère prétendument religieux.
 

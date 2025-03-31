@@ -46,7 +46,7 @@ Dans un océan, il verra une goutte, et dans une goutte, il détectera les myst�
 
 Dans cette vallée, par la vision absolue, le voyageur ne voit dans la création de Dieu aucune différence ni contradiction ; et à chaque instant il dira : « Tu ne vois, dans la création du Tout Miséricordieux, aucune différence. Tourne les yeux pour voir si tu peux voir des défauts ! » (Coran).
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Il verra la justice dans l’injustice et sera témoin de la grâce dans la justice ; il trouvera bien des connaissances cachées dans l’ignorance. . . .
 

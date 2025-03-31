@@ -82,7 +82,7 @@ Nous sacrifions au Mithra derrière les pays.
 
 13 [^1524]. Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 Nous offrons des libations à Mithra . . . .
 

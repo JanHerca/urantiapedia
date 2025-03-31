@@ -29,7 +29,7 @@ dateCreated: 2024-11-21T10:26:39Z
   </table>
 </figure>
 
-<span id="p113">[<sup><small>p. 113</small></sup>]</span>
+<span id="p113"><sup><small>[ p. 113 ]</small></sup></span>
 
 _Les publicités suivantes sont apparues à la fin du livre original. Elles sont incluses pour plus de complétude._
 
@@ -51,7 +51,7 @@ L'objectif des éditeurs de cette collection est très précis. Ils désirent av
 
 **BRAHMA-KNOWLEDGE :** Un aperçu de la philosophie du Vedanta. Telle qu'exposée par les Upanishads et par Sankara. Par L. D. Barnett, M.A., Litt.D., professeur de sanskrit à l'University College de Londres. 2e impression. _2/-_ net.
 
-<span id="p114">[<sup><small>p. 114</small></sup>]</span>
+<span id="p114"><sup><small>[ p. 114 ]</small></sup></span>
 
 **LA « VOIE DE LA VERTU » DU BOUDDHA** Une traduction du Dhammapada. Par WCD Wagiswara et KJ Saunders, membres de la Royal Asiatic Society, branche de Ceylan, _2/-_ net.
 
@@ -87,7 +87,7 @@ L'objectif des éditeurs de cette collection est très précis. Ils désirent av
 
 **LES CONFESSIONS D'AL GHAZZALI.** Traduit pour la première fois en anglais par Claud Field, M.A. _1/-_ net.
 
-<span id="p115">[<sup><small>p. 115</small></sup>]</span>
+<span id="p115"><sup><small>[ p. 115 ]</small></sup></span>
 
 **LE REVEIL DE L'AME.** De l'arabe d'Ibn Tufail. Traduit avec introduction par Paul Brönnle., Ph.D. 4e impression. _1/6_ net.
 
@@ -125,7 +125,7 @@ L'objectif des éditeurs de cette collection est très précis. Ils désirent av
 
 **LES DIT DE CONFUCIUS.** Une nouvelle traduction de la plus grande partie des Entretiens de Confucius, avec introduction et notes par Lionel Giles, M.A. (Oxon.), Assistant au Département des Livres et Manuscrits Orientaux du British Museum. 2e Impression. _2 -_ net.
 
-<span id="p116">[<sup><small>p. 116</small></sup>]</span>
+<span id="p116"><sup><small>[ p. 116 ]</small></sup></span>
 
 **LA CONDUITE DE LA VIE; ou, L'Ordre Universel de Confucius.** Une traduction de l'un des quatre livres confucéens, jusqu'ici connu sous le nom de la Doctrine du juste milieu. Par Ku Hung Ming, M.A. (Edin.). 2e impression. _1/-_ net.
 

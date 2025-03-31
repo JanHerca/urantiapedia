@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p190">[<sup><small>p. 190</small></sup>]</span>
+<span id="p190"><sup><small>[ p. 190 ]</small></sup></span>
 
 
 Le Maître était à Rajagriha lorsqu'un riche marchand nommé Anathapindika arriva de Cravasti. Anathapindika était un homme religieux, et lorsqu'il apprit qu'un Bouddha vivait dans la Bambouseraie, il fut impatient de le voir.
@@ -43,7 +43,7 @@ De retour chez lui, Anathapindika se demanda où il pourrait recevoir le Bienheu
 
 « Je vendrai le parc », lui dit Jeta, « si tu recouvres le sol de pièces d’or. »
 
-Anathapindika accepta les conditions. Il fit transporter des chars chargés de pièces d'or jusqu'au parc, et <span id="p191">[<sup><small>p. 191</small></sup>]</span> il ne resta plus qu'une petite bande de terrain à découvert. Jeta s'exclama alors avec joie :
+Anathapindika accepta les conditions. Il fit transporter des chars chargés de pièces d'or jusqu'au parc, et <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> il ne resta plus qu'une petite bande de terrain à découvert. Jeta s'exclama alors avec joie :
 
 « Le parc est à vous, marchand ; je vous donnerai volontiers la bande qui est encore découverte. »
 
@@ -57,7 +57,7 @@ Il laissa passer quelques jours ; puis il prit son manteau et son bol d'aumônes
 
 Anathapindika décida d'aller à la rencontre du Maître. Sa femme, son fils et sa fille l'accompagnèrent, ainsi que les habitants les plus riches de la ville. Lorsqu'ils aperçurent le Bouddha, ils furent éblouis par sa splendeur ; il semblait marcher sur un chemin d'or fondu.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 Ils l'ont escorté jusqu'au parc de Jeta, et Anathapindika lui a dit :
 
@@ -71,7 +71,7 @@ Anathapindika ordonna à un serviteur de lui apporter un bol d'or rempli d'eau. 
 
 Le Bouddha et ses disciples s'établirent dans le parc de Jeta,
 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 Anathapindika était heureux ; mais un jour, une pensée solennelle lui vint à l'esprit.
 
@@ -97,7 +97,7 @@ Or, vivait à Cravasti une jeune fille extrêmement pauvre. Il lui avait fallu t
 
 Anathapindika ne fait pas l'aumône pour lui-même. Il souhaite que chacun participe au bien qu'il accomplit et sollicite des dons pour le Bouddha et ses disciples. Tous ceux qui donnent auront droit à une récompense future.
 
-La jeune fille se dit : « Je n'ai jamais rien fait qui mérite des éloges. Ce serait merveilleux de faire une offrande au Bouddha. Mais je suis pauvre. Qu'ai-je à donner ? » Elle s'éloigna, mélancolique. Elle regarda sa nouvelle robe. « Je n'ai que <span id="p195">[<sup><small>p. 195</small></sup>]</span> cette robe à lui offrir. Mais je ne peux pas me promener nue dans les rues. »
+La jeune fille se dit : « Je n'ai jamais rien fait qui mérite des éloges. Ce serait merveilleux de faire une offrande au Bouddha. Mais je suis pauvre. Qu'ai-je à donner ? » Elle s'éloigna, mélancolique. Elle regarda sa nouvelle robe. « Je n'ai que <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> cette robe à lui offrir. Mais je ne peux pas me promener nue dans les rues. »
 
 Elle rentra chez elle et ôta sa robe. Puis elle s'assit à la fenêtre et guetta Anathapindika. Lorsqu'il passa devant sa maison, elle lui lança la robe. Il la prit et la montra à ses serviteurs.
 

@@ -37,7 +37,7 @@ dateCreated: 2025-2-12T22:26:32Z
 Le Shû et les parties précédentes du Shih nous ont fait connaître Shâo, nom de l'apanage de Shih, l'un des principaux ministres de la cour de Kâu durant les deux premiers règnes de la dynastie. La ville de Shâo se trouvait dans l'actuel département de Făng-kh_iang, Shen-hsî. Son premier possesseur, ainsi que le duc de Kâu, encore plus célèbre, restèrent à la cour pour veiller sur le sort de la nouvelle dynastie. Ils étaient connus comme « les plus hauts ducs » et « les deux grands chefs », le duc de Kâu ayant en charge les parties orientales du royaume, et l'autre les parties occidentales. Les pièces de ce livre sont censées avoir été produites à Shâo et dans les principautés situées au sud de celui-ci et relevant de sa juridiction, par le duc.
 
 
-<span id="p431">[<sup><small>p. 431</small></sup>]</span>
+<span id="p431"><sup><small>[ p. 431 ]</small></sup></span>
 
 <a id="o2"></a>
 
@@ -53,7 +53,7 @@ Elle cueille le bois blanc du sud, près des étangs, sur les îlots. Elle l'emp
 
 Elle cueille le bois blanc du sud, le long des ruisseaux dans les vallées. Elle l'emploie, dans le temple [^597] de notre prince.
 
-<span id="p432">[<sup><small>p. 432</small></sup>]</span>
+<span id="p432"><sup><small>[ p. 432 ]</small></sup></span>
 
 Avec sa coiffe dressée avec révérence, de bonne heure, alors qu'il fait encore nuit, elle se trouve dans le temple du prince. Coiffée, se retirant lentement, elle retourne dans ses appartements.
 

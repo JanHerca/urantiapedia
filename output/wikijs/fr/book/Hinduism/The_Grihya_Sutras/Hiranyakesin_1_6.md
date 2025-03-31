@@ -38,7 +38,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. [^609] With their permission he should take a wife belonging to the same caste and country, a ‘naked’ girl, a virgin who should belong to a different Gotra (from her husband's).
 
-3\. [^610] Whatever he intends to do (for instance, taking a wife), he should do on an auspicious day only, during one of the following five spaces of time, viz. in the morning, the forenoon, at midday, in the afternoon, or in the evening. <span id="p187">[<sup><small>p. 187</small></sup>]</span>
+3\. [^610] Whatever he intends to do (for instance, taking a wife), he should do on an auspicious day only, during one of the following five spaces of time, viz. in the morning, the forenoon, at midday, in the afternoon, or in the evening. <span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 4\. [^611] Having put wood on the fire, and having performed (the preparatory rites) down to the laying of (three) branches round (the fire, the bridegroom) looks at the bride who is led to him, with (the verse), ‘Auspicious ornaments does this woman wear. Come up to her and behold her. Having brought lack to her, go away back to your houses.’
 
@@ -52,7 +52,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ‘May Agni Gârhapatya protect this woman. May he lead her offspring to old age. With fertile womb may she be the mother of living children. May she experience delight in her sons. Svâhâ!
 
-‘May no noise that comes from thee, arise in the house by night. May the (she-goblins called) the weeping ones take their abode in another (woman) <span id="p188">[<sup><small>p. 188</small></sup>]</span> than thee. Mayst thou not be beaten at thy breast by (the she-goblin) Vike<i>s</i>î (“the rough-haired one”). May thy husband live, and mayst thou shine in thy husband's world, beholding thy genial offspring! Svâhâ!
+‘May no noise that comes from thee, arise in the house by night. May the (she-goblins called) the weeping ones take their abode in another (woman) <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> than thee. Mayst thou not be beaten at thy breast by (the she-goblin) Vike<i>s</i>î (“the rough-haired one”). May thy husband live, and mayst thou shine in thy husband's world, beholding thy genial offspring! Svâhâ!
 
 ‘May Heaven protect thy back, Vâyu thy thighs, and the two A<i>s</i>vins thy breast. May Savit<i>ri</i> protect thy suckling sons. Until the garment is put on (thy sons?), may B<i>s</i>haspati guard (them?), and the Vi<i>s</i>ve devâs afterwards. Svâhâ!
 
@@ -71,7 +71,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 6, SECTION 20.
 
@@ -85,7 +85,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. [^615] He makes her turn round, from left to right, so that she faces the west, and recites over her (the following texts),
 
-‘With no evil eye, not bringing death to thy husband, bring luck to the cattle, be full of joy and <span id="p190">[<sup><small>p. 190</small></sup>]</span> vigour. Give birth to living children, give birth to heroes, be friendly. Bring us luck, to men and animals.
+‘With no evil eye, not bringing death to thy husband, bring luck to the cattle, be full of joy and <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> vigour. Give birth to living children, give birth to heroes, be friendly. Bring us luck, to men and animals.
 
 ‘Thus, Pûshan, lead her to us, the highly blessed one, into whom men pour forth their sperm, yâ na ûrû u<i>s</i>atî visrayâtai (read, vi<i>s</i>rayâtai), yasyâm u<i>s</i>anta_h<i>s</i>s_epam.
 
@@ -97,7 +97,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ‘Bountiful Indra, bless this woman with sons and with a happy lot. Give her ten sons; let her husband be the eleventh.’
 
-3\. [^616] After he has made her sit down in her proper place (see Sûtra 5 of the preceding section), and has sprinkled Â<i>g</i>ya into her joined hands, he twice pours fried grain into them, with (the verse), ‘This grain I pour (into thy hands): may it bring prosperity to me, and may it unite thee (with me). May this Agni grant us that.’ <span id="p191">[<sup><small>p. 191</small></sup>]</span>
+3\. [^616] After he has made her sit down in her proper place (see Sûtra 5 of the preceding section), and has sprinkled Â<i>g</i>ya into her joined hands, he twice pours fried grain into them, with (the verse), ‘This grain I pour (into thy hands): may it bring prosperity to me, and may it unite thee (with me). May this Agni grant us that.’ <span id="p191"><sup><small>[ p. 191 ]</small></sup></span>
 
 4\. After he has sprinkled (Â<i>g</i>ya) over (the grain in her hands), he sacrifices (the grain) with her joined hands (which he seizes), with (the verse), ‘This woman, strewing grain into the fire, prays thus, “May my husband live long; may my relations be prosperous. Svâhâ!”’
 
@@ -118,7 +118,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 6, SECTION 21.
 
@@ -130,7 +130,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. [^621] And the place of her navel with (the formula), ‘Thou art the knot of all breath; do not loosen thyself.’
 
-5\. [^622] After he has made her sit down to the west of the fire, so that she faces the east, he stands to the east (of his bride), facing the west, and besprinkles her with water, with the three verses, ‘O waters, ye are wholesome’ (Taitt. Sa<i>m</i>h. IV, I, 5, 1), with the four verses, ‘The gold-coloured, clean, purifying waters’ (V, 6, 1), and with the Anuvâka, ‘The purifier, the heavenly one’ (Taitt. Brâhma<i>m</i>a I, 4, 8). <span id="p193">[<sup><small>p. 193</small></sup>]</span>
+5\. [^622] After he has made her sit down to the west of the fire, so that she faces the east, he stands to the east (of his bride), facing the west, and besprinkles her with water, with the three verses, ‘O waters, ye are wholesome’ (Taitt. Sa<i>m</i>h. IV, I, 5, 1), with the four verses, ‘The gold-coloured, clean, purifying waters’ (V, 6, 1), and with the Anuvâka, ‘The purifier, the heavenly one’ (Taitt. Brâhma<i>m</i>a I, 4, 8). <span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 6\. [^623] Now they pour seeds (of rice, &c.) on (the heads of the bridegroom and bride).
 

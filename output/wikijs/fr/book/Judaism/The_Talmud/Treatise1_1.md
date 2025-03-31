@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span> p. 49
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span> p. 49
 
 ## SÉLECTIONS DU TALMUD. LA MISHNA. TRAITÉ I.
 
@@ -42,7 +42,7 @@ Récitation du Shemah — Bénédictions — Rabbi Gamaliel — Exemptions de la
 
 ### CHAPITRE I.
 
-1\. « À partir de quelle heure récitons-nous le Shemah [^7] le soir ? » « À partir de l'heure où les prêtres [^8] entrent (au temple) pour manger leurs offrandes élevées, jusqu'à la fin de la première veille. » [^9] Paroles de Rabbi Éléazar ; mais les Sages disent « jusqu'à minuit », Rabban Gamaliel dit, « jusqu'à ce que la colonne de l'aube s'élève. » Il arriva que ses fils revinrent d'un banquet. Ils lui dirent : « Nous n'avons pas encore récité le Shemah. » Il leur dit : « Si la colonne de l'aube n'est pas encore montée, vous êtes tenus de le réciter ; et non seulement cela, mais tout ce que les Sages <span id="p50">[<sup><small>p. 50</small></sup>]</span> disent, 'jusqu'à minuit', ils ordonnent jusqu'à ce que la colonne de l'aube s'élève. » La combustion de la graisse et des membres, ils ordonnent « jusqu'à ce que la colonne de l'aube s'élève. » Et pour toutes les offrandes, qui doivent être consommées le jour même, ils ordonnent « jusqu'à ce que la colonne de l'aube s'élève ». Si oui, pourquoi les Sages disent-ils « jusqu'à minuit » ? « Pour empêcher l'homme de transgresser. »
+1\. « À partir de quelle heure récitons-nous le Shemah [^7] le soir ? » « À partir de l'heure où les prêtres [^8] entrent (au temple) pour manger leurs offrandes élevées, jusqu'à la fin de la première veille. » [^9] Paroles de Rabbi Éléazar ; mais les Sages disent « jusqu'à minuit », Rabban Gamaliel dit, « jusqu'à ce que la colonne de l'aube s'élève. » Il arriva que ses fils revinrent d'un banquet. Ils lui dirent : « Nous n'avons pas encore récité le Shemah. » Il leur dit : « Si la colonne de l'aube n'est pas encore montée, vous êtes tenus de le réciter ; et non seulement cela, mais tout ce que les Sages <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> disent, 'jusqu'à minuit', ils ordonnent jusqu'à ce que la colonne de l'aube s'élève. » La combustion de la graisse et des membres, ils ordonnent « jusqu'à ce que la colonne de l'aube s'élève. » Et pour toutes les offrandes, qui doivent être consommées le jour même, ils ordonnent « jusqu'à ce que la colonne de l'aube s'élève ». Si oui, pourquoi les Sages disent-ils « jusqu'à minuit » ? « Pour empêcher l'homme de transgresser. »
 
 2\. « À partir de quelle heure récitons-nous le Shemah le matin ? » Lorsqu'on peut distinguer le « bleu du blanc », R. Éléazar dit « entre le bleu et le vert poireau ». Et cela peut être terminé « jusqu'à ce que le soleil brille ». R. Josué dit « jusqu'à la troisième heure ». [^10] Car telle est la coutume des princes royaux de se lever à la troisième heure. Celui qui récite le Shemah ensuite ne perd rien. Il est comme un homme lisant la Loi.
 
@@ -50,7 +50,7 @@ Récitation du Shemah — Bénédictions — Rabbi Gamaliel — Exemptions de la
 
 4\. Le matin, deux bénédictions sont dites avant (le Shemah), et une après lui ; et le soir, deux bénédictions avant et deux après lui, une longue et une courte. [^13] Là où les (Sages) ont dit d'allonger, il n'est pas permis de raccourcir ; et de raccourcir, il n'est pas permis d'allonger ; de fermer, il n'est pas permis de ne pas fermer ; de ne pas fermer, il n'est pas permis de fermer.
 
-5\. Nous commémorons la sortie d'Égypte la nuit ; <span id="p51">[<sup><small>p. 51</small></sup>]</span> dit R. Éléazar, fils d'Azaria, « en vérité, je suis un fils de soixante-dix ans, et je n'étais pas sûr que tu devrais dire la sortie d'Égypte la nuit jusqu'à ce que le fils de Zoma explique : « afin que tu te souviennes du jour où tu sortis du pays d'Égypte tous les jours de ta vie » ; [^14] les jours de ta vie (sont) des jours ; tous les jours de ta vie (incluent) les nuits. » Mais les Sages disent : « les jours de ta vie (sont) ce monde ; tous les jours de ta vie (incluent) les jours du Messie. »
+5\. Nous commémorons la sortie d'Égypte la nuit ; <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> dit R. Éléazar, fils d'Azaria, « en vérité, je suis un fils de soixante-dix ans, et je n'étais pas sûr que tu devrais dire la sortie d'Égypte la nuit jusqu'à ce que le fils de Zoma explique : « afin que tu te souviennes du jour où tu sortis du pays d'Égypte tous les jours de ta vie » ; [^14] les jours de ta vie (sont) des jours ; tous les jours de ta vie (incluent) les nuits. » Mais les Sages disent : « les jours de ta vie (sont) ce monde ; tous les jours de ta vie (incluent) les jours du Messie. »
 
 <figure class="table chapter-navigator">
   <table>

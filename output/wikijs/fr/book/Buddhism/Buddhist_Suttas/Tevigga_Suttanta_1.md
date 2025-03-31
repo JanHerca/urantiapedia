@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 ## SUR LA CONNAISSANCE DES VÉDAS. TEVI<i>GG</i>A-SUTTA. CHAPITRE I.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 2\. Or, à cette époque, de nombreux brahmanes très distingués et riches séjournaient à Manasâka<i>t</i>a, à savoir : le brahmane <i>K</i>ankî, le brahmane Târukkha, le brahmane Pokkharasâti, le brahmane Gâ<i>n</i>usso<i>n</i>i, le brahmane Todeyya, et d'autres brahmanes très distingués et riches[^2].
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 3\. Une conversation s'engagea alors entre Vâse<i>tth</i>a et Bhâradvâ<i>g</i>a, alors qu'ils faisaient de l'exercice (après leur bain) et se promenaient de long en large d'un air pensif, pour savoir quel était le vrai chemin et lequel était le faux[^3].
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 5\. Le jeune Brâhmane Bhâradvâ<i>g</i>a parla ainsi :
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 « C'est le chemin droit, c'est la voie directe qui conduit celui qui agit selon lui, à un état d'union avec Brahmâ — je veux dire ce qui a été annoncé par le Brâhman Târukkha. »
 
@@ -66,7 +66,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 8\. Alors le jeune Brâhmane Vâse<i>tth</i>a et le jeune Brâhmane Bhâradvâ<i>g</i>a se rendirent à l'endroit où se trouvait le Béni du Ciel.
 
-<span id="p170">[<sup><small>p. 170</small></sup>]</span>
+<span id="p170"><sup><small>[ p. 170 ]</small></sup></span>
 
 Et lorsqu'ils furent arrivés là, ils échangèrent avec le Bienheureux des salutations et des compliments d'amitié et de civilité, et s'assirent à côté de lui.
 
@@ -92,7 +92,7 @@ Et tandis qu'ils étaient ainsi assis, le jeune brahmane Vâsettha dit au Bienhe
 
 « Ceci est le droit chemin, c'est la voie directe qui conduit celui qui agit selon lui, à un état d'union avec Brahmâ — je veux dire ce qui a été annoncé par le Brâhman Târukkha. »
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 « Où donc, ô Vâse<i>tth</i>a, y a-t-il entre vous une querelle, une dispute, une divergence d'opinion[^6] ? »
 
@@ -108,7 +108,7 @@ Et tandis qu'ils étaient ainsi assis, le jeune brahmane Vâsettha dit au Bienhe
 
 « C'est ce que je dis, Gotama. »
 
-<span id="p172">[<sup><small>p. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 12\. « Mais alors, Vâsetth, y a-t-il un seul des Brahmanes versés dans les Trois Védas qui ait jamais vu Brahmâ face à face ? »
 
@@ -138,7 +138,7 @@ Et tandis qu'ils étaient ainsi assis, le jeune brahmane Vâsettha dit au Bienhe
 
 15\. « En vérité, Vâsetth, que les Brahmanes versés dans les Trois Védas soient capables de montrer la voie vers un état d'union avec ce qu'ils ne connaissent pas et n'ont pas vu, un tel état de choses n'existe pas !
 
-« Exactement, Vâse<i>tth</i>a, comme lorsqu'une file d'aveugles s'accrochent les uns aux autres[^11], ni le premier <span id="p174">[<sup><small>p. 174</small></sup>]</span> ne peut voir, ni celui du milieu, ni le dernier ne peut voir ; de même, il me semble, Vâse<i>tth</i>a, que le discours des brahmanes versés dans les Trois Védas n'est qu'un discours aveugle : le premier ne voit pas, celui du milieu ne voit pas, et le dernier ne peut voir. Le discours de ces brahmanes versés dans les Trois Védas s'avère alors ridicule, de simples mots, une chose vaine et creuse ! »
+« Exactement, Vâse<i>tth</i>a, comme lorsqu'une file d'aveugles s'accrochent les uns aux autres[^11], ni le premier <span id="p174"><sup><small>[ p. 174 ]</small></sup></span> ne peut voir, ni celui du milieu, ni le dernier ne peut voir ; de même, il me semble, Vâse<i>tth</i>a, que le discours des brahmanes versés dans les Trois Védas n'est qu'un discours aveugle : le premier ne voit pas, celui du milieu ne voit pas, et le dernier ne peut voir. Le discours de ces brahmanes versés dans les Trois Védas s'avère alors ridicule, de simples mots, une chose vaine et creuse ! »
 
 ---
 
@@ -150,7 +150,7 @@ Et tandis qu'ils étaient ainsi assis, le jeune brahmane Vâsettha dit au Bienhe
 
 « Certainement pas, Gotama ! »
 
-18\. « Ainsi, vous dites, Vâse<i>tth</i>a, que les Brahmanes \[ne sont pas capables d'indiquer la voie de l'union avec ce <span id="p175">[<sup><small>p. 175</small></sup>]</span> qu'ils ont vu\], et vous dites en outre que \[ni aucun d'entre eux, ni de leurs élèves, ni de leurs prédécesseurs même jusqu'à la septième génération n'a jamais vu Brahmâ\]. Et vous dites en outre que même les <i>Ri</i>shis d'autrefois, \[dont ils ont les paroles en si profond respect, n'ont pas prétendu savoir, ou avoir vu où, ou d'où, ou où est Brahmâ. Pourtant, ces brahmanes versés dans les Trois Védas disent, en vérité, qu'ils peuvent indiquer la voie de l'union avec ce qu'ils ne connaissent ni n'ont vu !\][^13] Or, qu'en penses-tu, Vâse<i>tth</i>a ? Ne s'ensuit-il pas que, dans ces conditions, les propos des brahmanes, bien que versés dans les Trois Védas, sont des propos insensés ?
+18\. « Ainsi, vous dites, Vâse<i>tth</i>a, que les Brahmanes \[ne sont pas capables d'indiquer la voie de l'union avec ce <span id="p175"><sup><small>[ p. 175 ]</small></sup></span> qu'ils ont vu\], et vous dites en outre que \[ni aucun d'entre eux, ni de leurs élèves, ni de leurs prédécesseurs même jusqu'à la septième génération n'a jamais vu Brahmâ\]. Et vous dites en outre que même les <i>Ri</i>shis d'autrefois, \[dont ils ont les paroles en si profond respect, n'ont pas prétendu savoir, ou avoir vu où, ou d'où, ou où est Brahmâ. Pourtant, ces brahmanes versés dans les Trois Védas disent, en vérité, qu'ils peuvent indiquer la voie de l'union avec ce qu'ils ne connaissent ni n'ont vu !\][^13] Or, qu'en penses-tu, Vâse<i>tth</i>a ? Ne s'ensuit-il pas que, dans ces conditions, les propos des brahmanes, bien que versés dans les Trois Védas, sont des propos insensés ?
 
 « En vérité, Gotama, cela étant, il s'ensuit que les discours des Brahmanes versés dans les Trois Védas sont des discours insensés ! »
 
@@ -164,7 +164,7 @@ Et tandis qu'ils étaient ainsi assis, le jeune brahmane Vâsettha dit au Bienhe
 
 « Mais lorsqu’on le lui demande, il doit répondre « Non ».
 
-« Et quand les gens lui demandent : « Eh bien ! bon <span id="p176">[<sup><small>p. 176</small></sup>]</span> ami ! cette plus belle femme de tout le pays, que tu aimes tant et que tu désires tant, sais-tu quel est le nom de cette plus belle femme, ou quel est son nom de famille, si elle est grande ou petite, brune ou de teint moyen, noire ou blonde, ou dans quel village ou ville ou cité elle habite ? »
+« Et quand les gens lui demandent : « Eh bien ! bon <span id="p176"><sup><small>[ p. 176 ]</small></sup></span> ami ! cette plus belle femme de tout le pays, que tu aimes tant et que tu désires tant, sais-tu quel est le nom de cette plus belle femme, ou quel est son nom de famille, si elle est grande ou petite, brune ou de teint moyen, noire ou blonde, ou dans quel village ou ville ou cité elle habite ? »
 
 « Mais lorsqu’on le lui demande, il doit répondre « Non ».
 
@@ -178,7 +178,7 @@ Et tandis qu'ils étaient ainsi assis, le jeune brahmane Vâsettha dit au Bienhe
 
 20\. « Et de même, Vâse<i>tth</i>a, bien que tu dises que les Brahmanes \[ne sont pas capables d'indiquer le chemin de l'union avec ce qu'ils ont vu\], et que tu dises en outre que \[ni aucun d'entre eux, ni de leurs élèves, ni de leurs prédécesseurs, même jusqu'à la septième génération, n'a jamais vu Brahmâ\]. Et tu dis en outre que même les Rishis d'autrefois, \[dont ils ont un si profond respect pour les paroles, ne prétendaient pas savoir, ni avoir vu où, ni d'où, ni où est Brahmâ. Pourtant, ces Brahmanes versés dans les Trois Védas disent, en vérité, qu'ils peuvent indiquer le chemin de l'union avec ce qu'ils ne connaissent ni n'ont vu !\] Maintenant, qu'en penses-tu, Vâse<i>tth</i>a ? Ne s'ensuit-il pas que, dans ces conditions, les propos des Brahmanes, bien que versés dans les Trois Védas, sont des propos insensés ?
 
-« En vérité, Gotama, cela étant, il s'ensuit que <span id="p177">[<sup><small>p. 177</small></sup>]</span> les discours des Brahmanes versés dans les Trois Védas sont des discours insensés ! »
+« En vérité, Gotama, cela étant, il s'ensuit que <span id="p177"><sup><small>[ p. 177 ]</small></sup></span> les discours des Brahmanes versés dans les Trois Védas sont des discours insensés ! »
 
 « Très bien, Vâse<i>tth</i>a. En vérité, Vâse<i>tth</i>a, que des brahmanes versés dans les Trois Védas puissent montrer la voie vers un état d'union avec ce qu'ils ne connaissent ni n'ont vu – un tel état de choses n'existe pas. »
 
@@ -202,9 +202,9 @@ Et les gens devraient lui dire : « Mais alors, bon ami, tu construis un escalie
 
 23\. « Très bien, Vâse<i>tth</i>a. En vérité, Vâse<i>tth</i>a, que les brahmanes versés dans les Trois Védas soient capables de montrer la voie vers un état d'union avec ce qu'ils ne connaissent ni n'ont vu – un tel état de choses n'existe pas. »
 
-24\. « Vâse<i>tth</i>a, si cette rivière Akiravatî était pleine d'eau jusqu'au bord et débordait[^14]. Et qu'un homme ayant des affaires de l'autre côté <span id="p179">[<sup><small>p. 179</small></sup>]</span>, se dirigeant vers l'autre rive, vienne et veuille traverser. Et lui, se tenant sur cette rive, invoquerait l'autre rive et dirait : « Viens ici, ô autre rive ! Passe de ce côté ! »
+24\. « Vâse<i>tth</i>a, si cette rivière Akiravatî était pleine d'eau jusqu'au bord et débordait[^14]. Et qu'un homme ayant des affaires de l'autre côté <span id="p179"><sup><small>[ p. 179 ]</small></sup></span>, se dirigeant vers l'autre rive, vienne et veuille traverser. Et lui, se tenant sur cette rive, invoquerait l'autre rive et dirait : « Viens ici, ô autre rive ! Passe de ce côté ! »
 
-<span id="p180">[<sup><small>p. 180</small></sup>]</span>
+<span id="p180"><sup><small>[ p. 180 ]</small></sup></span>
 
 « Et maintenant, qu'en penses-tu, Vâse<i>t</i>a ? L'autre rive de l'A<i>ki</i>iravatî, à cause des invocations, des prières, des espoirs et des louanges de cet homme, passerait-elle de ce côté ? »
 
@@ -226,7 +226,7 @@ Formes perceptibles à l'œil ; formes désirables, agréables, plaisantes, atti
 
 28\. 'Et en vérité, Vâsetth, que les Brahmanes versés dans les Trois Védas, mais omettant la pratique de ces qualités qui font réellement d'un homme un Brahmane, et adoptant la pratique de ces qualités qui font réellement des hommes des non-Brâhmanes — s'accrochant à ces cinq choses prédisposant à la passion, infatués par elles, coupables d'elles, ne voyant pas leur danger, ne connaissant pas leur manque de fiabilité, et en jouissant ainsi — que ces Brahmanes devraient après la mort, lors de la dissolution du corps, s'unir à Brahmâ — une telle condition de choses n'existe pas.'
 
-<span id="p182">[<sup><small>p. 182</small></sup>]</span>
+<span id="p182"><sup><small>[ p. 182 ]</small></sup></span>
 
 29\. « Vâsettha, si cette rivière Akiravatl était pleine d'eau jusqu'au bord et débordait, et qu'un homme ayant des affaires sur l'autre rive, se dirigeant vers l'autre rive, remontait et voulait traverser, et s'il se couvrait jusqu'à la tête, se couchait sur cette rive pour dormir. »
 
@@ -252,7 +252,7 @@ Ce sont les cinq obstacles, Vâse<i>tth</i>a, qui, dans la Discipline du Noble, 
 
 31\. « Or, avec ces cinq obstacles, Vâsetth, les Brahmanes versés dans les Trois Védas sont voilés, entravés, obstrués et empêtrés.
 
-32\. 'Et en vérité, Vâse<i>tth</i>a, que des Brahmanes versés <span id="p183">[<sup><small>p. 183</small></sup>]</span> dans les Trois Védas, mais omettant la pratique de ces qualités qui font réellement d'un homme un Brahmane, et adoptant la pratique de ces qualités qui font réellement des hommes des non-Brâhmanes — voilés, gênés, obstrués et empêtrés par ces Cinq Empêchements — que ces Brahmanes puissent après la mort, lors de la dissolution du corps, s'unir à Brahmâ — une telle condition de choses n'existe pas.'
+32\. 'Et en vérité, Vâse<i>tth</i>a, que des Brahmanes versés <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> dans les Trois Védas, mais omettant la pratique de ces qualités qui font réellement d'un homme un Brahmane, et adoptant la pratique de ces qualités qui font réellement des hommes des non-Brâhmanes — voilés, gênés, obstrués et empêtrés par ces Cinq Empêchements — que ces Brahmanes puissent après la mort, lors de la dissolution du corps, s'unir à Brahmâ — une telle condition de choses n'existe pas.'
 
 ---
 
@@ -308,7 +308,7 @@ Ce sont les cinq obstacles, Vâse<i>tth</i>a, qui, dans la Discipline du Noble, 
 
 « Certainement pas, Gotama ! »
 
-38\. « Très bien, Vâse<i>tth</i>a. Que ces brahmanes versés dans les Védas et pourtant porteurs de colère et de malice dans leur cœur, pécheurs et incontrôlés, <span id="p185">[<sup><small>p. 185</small></sup>]</span> puissent, après la mort, lorsque le corps est dissous, s'unir à Brahmâ, qui est libre de colère et de malice, sans péché et maître de soi — un tel état de choses n'existe pas. »
+38\. « Très bien, Vâse<i>tth</i>a. Que ces brahmanes versés dans les Védas et pourtant porteurs de colère et de malice dans leur cœur, pécheurs et incontrôlés, <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> puissent, après la mort, lorsque le corps est dissous, s'unir à Brahmâ, qui est libre de colère et de malice, sans péché et maître de soi — un tel état de choses n'existe pas. »
 
 39\. « Ainsi donc, Vâsetth, les Brahmanes, bien que versés dans les Trois Védas, tandis qu'ils sont assis (en confiance), s'enfoncent (dans la boue)[^23] ; et s'enfonçant ainsi, ils n'arrivent qu'au désespoir, pensant en même temps qu'ils traversent vers une terre plus heureuse.
 
@@ -342,11 +342,11 @@ Ce sont les cinq obstacles, Vâse<i>tth</i>a, qui, dans la Discipline du Noble, 
 
 46\. Alors le Béni prit la parole et dit :
 
-Sache, Vâse<i>tth</i>a, que[^24] (de temps à autre) un <span id="p187">[<sup><small>p. 187</small></sup>]</span> Tathâgata naît dans le monde, un Être pleinement Éveillé, béni et digne, abondant en sagesse et en bonté, heureux, possédant la connaissance du monde, inégalé comme guide pour les mortels errants, un enseignant des dieux et des hommes, un Bouddha Béni[^25]. Lui-même, comprend parfaitement et voit, pour ainsi dire, face à face cet univers — le monde d'en bas avec tous ses esprits, et les mondes d'en haut, de Mara et de Brahma — et toutes les créatures, Sama<i>n</i>as et Brâhmanes, dieux et hommes, et il fait alors connaître sa connaissance aux autres. Il proclame la vérité dans sa lettre et dans son esprit, belle dans son origine, belle dans son progrès, belle dans sa consommation : il fait connaître la vie supérieure, dans toute sa pureté et dans toute sa perfection.
+Sache, Vâse<i>tth</i>a, que[^24] (de temps à autre) un <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> Tathâgata naît dans le monde, un Être pleinement Éveillé, béni et digne, abondant en sagesse et en bonté, heureux, possédant la connaissance du monde, inégalé comme guide pour les mortels errants, un enseignant des dieux et des hommes, un Bouddha Béni[^25]. Lui-même, comprend parfaitement et voit, pour ainsi dire, face à face cet univers — le monde d'en bas avec tous ses esprits, et les mondes d'en haut, de Mara et de Brahma — et toutes les créatures, Sama<i>n</i>as et Brâhmanes, dieux et hommes, et il fait alors connaître sa connaissance aux autres. Il proclame la vérité dans sa lettre et dans son esprit, belle dans son origine, belle dans son progrès, belle dans sa consommation : il fait connaître la vie supérieure, dans toute sa pureté et dans toute sa perfection.
 
 47\. « Un chef de famille (gahapati), ou l'un de ses enfants, ou un homme de naissance inférieure, quelle que soit sa classe sociale, écoute cette vérité[^26]. En entendant la vérité, il a foi en le Tathâgata, et lorsqu'il a acquis cette foi, il considère ainsi :
 
-« La vie domestique est pleine d'obstacles, un chemin souillé par les passions : libre comme l'air est la vie de celui qui a renoncé à toutes les choses du monde. Combien il est difficile à l'homme qui demeure chez lui de vivre la vie supérieure dans toute sa plénitude, dans toute sa pureté, dans toute sa radieuse perfection ! Que je me coupe donc les cheveux et la barbe, que je me revête de <span id="p188">[<sup><small>p. 188</small></sup>]</span> robes aux couleurs variées, et que je quitte la vie domestique pour l'état de sans-abri ! »
+« La vie domestique est pleine d'obstacles, un chemin souillé par les passions : libre comme l'air est la vie de celui qui a renoncé à toutes les choses du monde. Combien il est difficile à l'homme qui demeure chez lui de vivre la vie supérieure dans toute sa plénitude, dans toute sa pureté, dans toute sa radieuse perfection ! Que je me coupe donc les cheveux et la barbe, que je me revête de <span id="p188"><sup><small>[ p. 188 ]</small></sup></span> robes aux couleurs variées, et que je quitte la vie domestique pour l'état de sans-abri ! »
 
 48\. « Alors, peu de temps après, abandonnant sa part de richesse, qu'elle soit grande ou petite ; abandonnant son cercle de parents, qu'ils soient nombreux ou peu nombreux, il coupe ses cheveux et sa barbe, il se revêt de robes orange et il quitte la vie de famille pour l'état de sans-abri.
 
@@ -407,7 +407,7 @@ Sache, Vâse<i>tth</i>a, que[^24] (de temps à autre) un <span id="p187">[<sup><
 
 [^10]: Dans le texte, les §§ 12, 13 sont répétés mot pour mot.
 
-[^11] : Andhave<i>n</i>î parampara<i>m</i> sa<i>m</i>sattâ. Le manuscrit Phayre a remplacé ve<i>n</i>î par pave<i>n</i>î, selon la coutume constante des manuscrits birmans pour améliorer les expressions inhabituelles ou difficiles. Buddhaghosa explique andhave<i>n</i>i par andhapave<i>n</i>i, et raconte l'histoire d'un méchant être qui, rencontrant un groupe d'aveugles, leur parla d'un certain village où l'on pouvait trouver de la bonne nourriture en abondance. Lorsqu'ils le supplièrent de les y conduire, il prit l'argent, força un aveugle à saisir son bâton, le suivant celui-là, et ainsi de suite, puis les conduisit jusqu'à un désert. Là, il les abandonna, et ils tous — toujours {footnote <span id="p174">[<sup><small>p. 174</small></sup>]</span>} se tenant l'un l'autre, et cherchant en vain et avec larmes à la fois leur guide et le chemin, ils arrivèrent à une fin misérable !
+[^11] : Andhave<i>n</i>î parampara<i>m</i> sa<i>m</i>sattâ. Le manuscrit Phayre a remplacé ve<i>n</i>î par pave<i>n</i>î, selon la coutume constante des manuscrits birmans pour améliorer les expressions inhabituelles ou difficiles. Buddhaghosa explique andhave<i>n</i>i par andhapave<i>n</i>i, et raconte l'histoire d'un méchant être qui, rencontrant un groupe d'aveugles, leur parla d'un certain village où l'on pouvait trouver de la bonne nourriture en abondance. Lorsqu'ils le supplièrent de les y conduire, il prit l'argent, força un aveugle à saisir son bâton, le suivant celui-là, et ainsi de suite, puis les conduisit jusqu'à un désert. Là, il les abandonna, et ils tous — toujours {footnote <span id="p174"><sup><small>[ p. 174 ]</small></sup></span>} se tenant l'un l'autre, et cherchant en vain et avec larmes à la fois leur guide et le chemin, ils arrivèrent à une fin misérable !
 
 [^12]: Les mots de la question sont répétés dans le texte de cette réponse et des suivantes. Il faut se rappeler, pour ces sections, que le soleil et la lune étaient des dieux tout autant que Brahmâ.
 
@@ -441,5 +441,5 @@ Sache, Vâse<i>tth</i>a, que[^24] (de temps à autre) un <span id="p187">[<sup><
 [^26]: Le fait est que l'acceptation de cette « Doctrine et Discipline » est ouverte à tous, non pas bien sûr que les Brahmanes ne l'acceptent jamais.
 
 [^27]: L'argumentation est reprise après les Trois Sîlas, ou Descriptions de Conduite — un texte, sans doute plus ancien que les Suttas dans lesquels il apparaît, énonçant les caractéristiques morales distinctives d'un membre de l'Ordre.
-  Le premier Sîla est une extension des Dix Préceptes (« Bouddhisme », <span id="p160">[<sup><small>p. 160</small></sup>]</span>), mais omet le cinquième, qui interdit l'usage de boissons enivrantes. Le deuxième Sîla est une extension du premier, puis des quatre derniers, et enfin du quatrième précepte. Le troisième Sîla est dirigé contre les augures, les divinations, les prophéties, l'astrologie, le charlatanisme, le ritualisme et le culte des dieux (y compris Brahmâ).
+  Le premier Sîla est une extension des Dix Préceptes (« Bouddhisme », <span id="p160"><sup><small>[ p. 160 ]</small></sup></span>), mais omet le cinquième, qui interdit l'usage de boissons enivrantes. Le deuxième Sîla est une extension du premier, puis des quatre derniers, et enfin du quatrième précepte. Le troisième Sîla est dirigé contre les augures, les divinations, les prophéties, l'astrologie, le charlatanisme, le ritualisme et le culte des dieux (y compris Brahmâ).
   Ces Trois Sîlas ont peut-être été insérés dans le Sutta comme une sorte de contrepoids aux Trois Védas. Notre Sutta se lit mieux sans eux ; mais ils sont intéressants en eux-mêmes, et le troisième est particulièrement précieux comme témoignage de coutumes et de croyances anciennes.

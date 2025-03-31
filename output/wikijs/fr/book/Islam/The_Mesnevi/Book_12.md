@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p228">[<sup><small>p. 228</small></sup>]</span>
+<span id="p228"><sup><small>[ p. 228 ]</small></sup></span>
 
 ## XII. Joseph et le miroir.
 
@@ -61,7 +61,7 @@ L'envie et les mauvaises actions de ses frères ont été évoquées,
 La disgrâce n'affecte pas les lions, s'ils sont liés par des chaînes.
 Je ne conteste pas le décret de Dieu : il est toujours sain.
 
-<span id="p229">[<sup><small>p. 229</small></sup>]</span>
+<span id="p229"><sup><small>[ p. 229 ]</small></sup></span>
 
 Un lion avec une chaîne autour de son cou majestueux,
 C'est toujours le seigneur de ceux qui ont forgé la chaîne comme frein.
@@ -93,7 +93,7 @@ Dieu lui-même demandera à ses créatures au jour du jugement :
 Seul et les mains vides, c'est ainsi que tu viens ?
 De la même manière que nous vous avons créé, des cadeaux ont-ils été laissés à la maison ? »[^340]
 
-<span id="p230">[<sup><small>p. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 Qu'avez-vous apporté comme offrandes opportunes entre vos mains ?
 <sup id="v25"><small>25</small></sup> Quels sont les dons avec lesquels vous aimeriez embellir les terres de votre nouvelle vie ?
@@ -126,7 +126,7 @@ De l'état de ravissement des saints arrivant à leur maison.
 Les saints furent bien préfigurés par les « Sept Dormants ».[^344]
 « Leur sommeil », « leurs étirements », « leur réveil » mènent au ciel.
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Sans le moindre effort de leur part par des actes,
 Les « registres de droite et de gauche » les attirent par les faits.
@@ -161,7 +161,7 @@ Présente-lui ce miroir, toi, comme il convient.
 Dans la non-existence reflétée, l'être que nous pouvons voir ;
 En tant qu’hommes riches, leur richesse peut se manifester par la joie des mendiants.
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 Le miroir de l'homme affamé montre le mieux ce qu'est le pain.
 Et l'amadou reflète le silex et l'éclat de l'acier, se propagent rapidement.
@@ -196,7 +196,7 @@ Existe en germe dans chaque poitrine humaine haletante.
 Ceux-là s'imaginent qu'ils se sont mortifiés tout au long.
 Prenez-les pour être des ruisseaux purs; cherchez leur saleté dans le coulis.
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Remuez-les un peu, juste pour le plaisir d'un essai ;
 Tu verras leur boue décolorer toute l'eau du lac.

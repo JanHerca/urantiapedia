@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 ## VI. LE BUREAU DE LA PASSION.
 
@@ -62,7 +62,7 @@ _Psaume_.
 
 Ps. 55: 9. Ô Dieu, je t'ai fait connaître ma vie; Tu as mis mes larmes devant tes yeux.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 Ps. 40: 8. Tous mes ennemis méditent le mal contre moi.
 
@@ -98,7 +98,7 @@ Ps. 87: 3. Que ma prière parvienne jusqu'à toi, Prête l'oreille à ma supplic
 
 Ps. 68: 19. Prends soin de mon âme et délivre-la; sauve-moi de mes ennemis.
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 Ps. 21: 10. Car c'est toi qui m'as tiré du sein maternel, Qui as retiré mon espérance des mamelles de ma mère,
 
@@ -120,7 +120,7 @@ Tu es mon Père, mon Très Saint, mon Roi et mon Dieu.
 
 Ps. 37: 23. Prête attention à mon secours, ô Éternel, Dieu de mon salut !
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 AU PRIME.
 
@@ -146,7 +146,7 @@ Psaumes 56:8. Mon cœur est prêt, ô Dieu, mon cœur est prêt; Je chanterai, j
 Ps. 56: 9. Lève-toi, ô ma gloire, lève-toi, psaltérion et harpe ;
 Je me lèverai tôt.
 
-<span id="p160">[<sup><small>p. 160</small></sup>]</span>
+<span id="p160"><sup><small>[ p. 160 ]</small></sup></span>
 
 Psaumes 56:10. Je te célébrerai parmi les peuples, ô Éternel! Je te chanterai parmi les nations,
 
@@ -194,7 +194,7 @@ Ps. 141: 4. Quand mon esprit m'abandonne, tu connais mes sentiers. Sur la voie o
 
 Ps. 141: 5. J'ai regardé à ma droite, et j'ai regardé, et personne ne me connaissait. La fuite m'a échappé, et personne ne prend garde à mon âme.
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Ps. 68: 8. Car à cause de toi j'ai porté l'opprobre, La honte a couvert mon visage.
 
@@ -216,7 +216,7 @@ Tu es mon Père, mon Très Saint, mon Roi et mon Dieu.
 
 Ps. 37: 23. Prête attention à mon secours, ô Éternel, Dieu de mon salut !
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 À NONES.
 
@@ -247,7 +247,7 @@ Ps. 68: 22. Ils m'ont donné du fiel pour nourriture, Et pour apaiser ma soif, i
 
 Ps. 21: 16. Et tu m'as fait tomber dans la poussière de la mort;
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 Ps. 68: 27. et ils ont ajouté à la douleur de mes blessures.
 Je me suis endormi et je me suis levé de nouveau, et mon Père très saint m'a reçu avec gloire.
@@ -271,7 +271,7 @@ _Psaume_.
 
 Ps. 46: 2. Battez des mains, vous toutes les nations, poussez des cris de joie vers Dieu.
 
-<span id="p165">[<sup><small>p. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 Ps. 46: 3. Car l'Éternel est élevé et redoutable; Il est un grand roi sur toute la terre.
 Car le Père très saint des cieux, notre Roi, a envoyé d'en haut, avant les siècles, son Fils bien-aimé :
@@ -296,7 +296,7 @@ Ps. 95: 9. Que toute la terre tremble devant sa présence,
 
 Ps. 95: 10. Dites parmi les nations que le Seigneur a régné.
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 **On le récite jusqu'à ce lieu chaque jour du Vendredi saint jusqu'à la fête de l'Ascension. Cependant, le jour de l'Ascension, ces versets sont ajoutés :**
 
@@ -320,7 +320,7 @@ Ps. 69: 2. Ô Dieu, _etc_. (Ps. 69), _comme dans le Psautier_.
 
 **On le dit quotidiennement à Complies jusqu'à l'octave de la Pentecôte**.
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 DIMANCHE DE PÂQUES AUX MATINES.
 
@@ -348,7 +348,7 @@ Ps. 95: 7. Apportez à l'Éternel, familles des nations, apportez à l'Éternel 
 
 Ps. 95: 8. Apportez au Seigneur gloire à son nom.
 
-<span id="p168">[<sup><small>p. 168</small></sup>]</span>
+<span id="p168"><sup><small>[ p. 168 ]</small></sup></span>
 
 **On le récite jusqu'à cet endroit tous les jours, du dimanche de Pâques à la fête de l'Ascension, à toutes les Heures, sauf aux Vêpres, Complies et Prime. Le soir de l'Ascension, on ajoute ces versets :**
 
@@ -368,7 +368,7 @@ _Ant_. Sainte Marie.
 
 _Psaume_. Aie pitié de moi, etc. —_comme ci-dessus, p._ [159](#p159).
 
-<span id="p169">[<sup><small>p. 169</small></sup>]</span>
+<span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 
 À TIERCE, SEXT ET NONES.
 
@@ -434,7 +434,7 @@ _Psaume_.
 
 Ps. 19: 2. Que l'Éternel t'exauce au jour de la détresse ! Que le nom du Dieu de Jacob te protège !
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 Ps. 19: 3. Du sanctuaire, envoie-toi du secours, De Sion, défends-toi.
 
@@ -466,7 +466,7 @@ _Psaume_.
 
 Ps. 70: 1. En toi, Seigneur, j'ai espéré ; que je ne sois jamais confus.
 
-<span id="p172">[<sup><small>p. 172</small></sup>]</span>
+<span id="p172"><sup><small>[ p. 172 ]</small></sup></span>
 
 Ps. 70: 2. Délivre-moi dans ta justice, et délivre-moi; incline ton oreille vers moi, et sauve-moi.
 
@@ -494,7 +494,7 @@ _Ant_. Sainte Marie.
 
 _Psaume_. Oh, frappez des mains. . . _comme ci-dessus, p_. [164](#p164).
 
-<span id="p173">[<sup><small>p. 173</small></sup>]</span>
+<span id="p173"><sup><small>[ p. 173 ]</small></sup></span>
 
 **Ici commencent d'autres Psaumes que notre très bienheureux Père François a également arrangés ; qui doivent être dits à la place des Psaumes précédents de la Passion du Seigneur depuis l'Avent du Seigneur jusqu'à la veille de Noël et pas plus tard**.
 
@@ -527,7 +527,7 @@ Exode 15: 7. Et par la multitude de ta gloire tu as renversé tes adversaires.
 
 Ps. 68: 33. Que les pauvres voient et se réjouissent; cherchez Dieu, et votre âme vivra.
 
-<span id="p174">[<sup><small>p. 174</small></sup>]</span>
+<span id="p174"><sup><small>[ p. 174 ]</small></sup></span>
 
 Ps. 68: 35. Que les cieux et la terre le louent, la mer et tout ce qui s'y meut.
 
@@ -568,7 +568,7 @@ _Psaume_. Oh, frappez des mains, etc. —_comme ci-dessus, p_. [164](#p164).
 
 **Notez également que le Psaume n'est pas dit en entier, sauf jusqu'au verset « Que toute la terre soit ébranlée » ; comprenez**
 
-<span id="p175">[<sup><small>p. 175</small></sup>]</span>
+<span id="p175"><sup><small>[ p. 175 ]</small></sup></span>
 
 **Cependant, le verset « Apportez vos corps » doit être récité en entier. À la fin de ce verset, on dit « Gloire au Père ». Et c'est ainsi qu'on le récite quotidiennement aux Vêpres, de l'Avent jusqu'à la veille de Noël.**
 
@@ -594,7 +594,7 @@ Ps. 41: 9. Le jour, l'Éternel manifeste sa miséricorde, Et la nuit, un cantiqu
 Ps. 117: 24. C'est ici le jour que l'Éternel a fait : Réjouissons-nous et soyons dans l'allégresse !
 Car l'Enfant bien-aimé et très saint nous a été donné et est né pour nous au bord du chemin.
 
-<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+<span id="p176"><sup><small>[ p. 176 ]</small></sup></span>
 
 Luc 2: 7. Et il fut couché dans une crèche, car il n'y avait pas de place dans l'hôtellerie.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 ## V. À TOUS LES GARDIENS.
 
@@ -50,7 +50,7 @@ Et dans toutes les prédications que vous faites, avertissez le peuple concernan
 
 Et vous annoncerez et prêcherez ses louanges à tous les peuples de telle sorte qu'à chaque heure et lorsque les cloches sonnent, des louanges et des actions de grâces soient toujours rendues au Dieu Tout-Puissant par tous les peuples de la terre entière.
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 Et à tous mes frères gardiens qui recevront ce document, qu'ils le copient, le conservent et le fassent copier pour les frères qui ont la charge de la prédication et qui ont la charge des frères. Qu'ils prêchent jusqu'à la fin tout ce qui est contenu dans ce document. Qu'ils sachent qu'ils ont la bénédiction du Seigneur Dieu et la mienne. Et que cela leur soit accordé par une obéissance vraie et sainte.
 

@@ -36,7 +36,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 1\. Ces bonnes pensées, ces bonnes paroles et ces bonnes actions [^936], ces Haomas, ces offrandes de viande et ces Zaothras, ce Baresman répandu avec sainteté, cette chair et les deux, Haurvatâ<i>t</i> (qui garde l'eau) et Ameretatâ<i>t</i> (qui garde les plantes et le bois), même la chair, le Haoma et le jus de Haoma, les billettes de bois et leur parfum, cette seigneurie sacrée [^937] et cette chefferie [^937], et la prière opportune avec bénédiction, et la récitation entendue des Gâthas, et les Mãthras bien dites, tout cela nous l'offrons et le faisons connaître par des célébrations (ici).
 
-2\. Oui, nous les annonçons avec des célébrations, et nous les présentons à Ahura Mazda, et à Sraosha <span id="p214">[<sup><small>p. 214</small></sup>]</span> (Obéissance) le bienheureux, et aux Immortels Généreux, et aux Fravashis des saints, et à leurs âmes, et au Feu d'Ahura Mazda, le haut seigneur de toute la création du saint, pour le sacrifice, l'hommage, la propitiation et la louange.
+2\. Oui, nous les annonçons avec des célébrations, et nous les présentons à Ahura Mazda, et à Sraosha <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> (Obéissance) le bienheureux, et aux Immortels Généreux, et aux Fravashis des saints, et à leurs âmes, et au Feu d'Ahura Mazda, le haut seigneur de toute la création du saint, pour le sacrifice, l'hommage, la propitiation et la louange.
 
 3\. Oui, de plus, nous présentons (aux Immortels Généreux avec un don spécial) ces pensées bien pensées, ces paroles bien dites, ces actes bien accomplis, ces Haomas, Myazdas, Zaothras, et ce Baresman répandu avec sainteté, la chair, et Haurvatâ<i>t</i> (qui garde l'eau), et Ameretatâ<i>t</i> (qui garde les plantes et le bois), même la chair, Haoma et Parahaoma, les billettes de bois, le parfum, et ceci leur seigneurie et leur sainteté, et cette chefferie, cette prière pour la bénédiction, la récitation entendue des Gâthas, et les Mãthras bien dites.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 5\. Et nous les annonçons dans nos célébrations comme plus propices à cette maison [^940], et à l'avancement de cette maison, de ses troupeaux et de ses hommes, de ceux qui sont maintenant nés et de ceux qui doivent encore naître, les saints, oui, pour l'avancement de cette maison dont ces (hommes) sont ainsi.
 
-6\. Et nous présentons ces offrandes aux bons <span id="p215">[<sup><small>p. 215</small></sup>]</span> Fravashis des saints qui sont puissants et accablants pour le secours des saints.
+6\. Et nous présentons ces offrandes aux bons <span id="p215"><sup><small>[ p. 215 ]</small></sup></span> Fravashis des saints qui sont puissants et accablants pour le secours des saints.
 
 7\. Oui, nous présentons ceux-ci par la présente au Créateur Ahura Mazda, le radieux, le glorieux et l'esprit céleste, pour le sacrifice, l'hommage, la propitiation et la louange des Immortels Généreux (tous).
 
@@ -56,7 +56,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 11\. Et à Aiwisrûthrima, celui qui donne la vie [^942], et à Frâda<i>t</i>-vîspãm-hu<i>g</i>yâiti et Zarathu<i>s</i>trôtema, les saints seigneurs de l'ordre rituel, et aux Fravashis des saints, et aux femmes qui donnent naissance à de nombreux fils, et à la vie familiale prospère qui dure sans revers tout au long de l'année, et à la Force, bien formée et majestueuse, et au Coup de victoire que Mazda donne, et à l'Ascendant Victorieux qu'il assure, pour leur sacrifice, leur hommage, leur propitiation et leurs louanges,
 
-12\. Et à Ushahina, avec Bere<i>g</i>ya et Nmânya, et Sraosha (Obéissance) le béni, frappant du coup de la victoire et favorisant les colonies, et à Rashnu, le plus juste, et à Ar<i>s</i>tâ<i>t</i>, favorisant les colonies et les faisant croître. <span id="p216">[<sup><small>p. 216</small></sup>]</span> 13\. Et ceux-ci, nous les annonçons et nous les présentons par la présente aux Seigneurs des Mois de l'ordre rituel, à la nouvelle lune et à la lune décroissante (la lune intérieure), et à la pleine lune qui disperse la nuit, le saint seigneur de l'ordre rituel, pour (leur) sacrifice, hommage, leur propitiation et leur louange.
+12\. Et à Ushahina, avec Bere<i>g</i>ya et Nmânya, et Sraosha (Obéissance) le béni, frappant du coup de la victoire et favorisant les colonies, et à Rashnu, le plus juste, et à Ar<i>s</i>tâ<i>t</i>, favorisant les colonies et les faisant croître. <span id="p216"><sup><small>[ p. 216 ]</small></sup></span> 13\. Et ceux-ci, nous les annonçons et nous les présentons par la présente aux Seigneurs des Mois de l'ordre rituel, à la nouvelle lune et à la lune décroissante (la lune intérieure), et à la pleine lune qui disperse la nuit, le saint seigneur de l'ordre rituel, pour (leur) sacrifice, hommage, leur propitiation et leur louange.
 
 14\. Et ceux-ci, nous les annonçons par la présente et nous les présentons aux fêtes annuelles, à Maidhyô-zaremaya, Maidhyô-shema, Pati<i>s</i>hahya, et à Ayâthrima, à Maidhyâirya, Hamaspathmaêdhaya, et aux Saisons comme saints seigneurs de l'ordre rituel, pour le sacrifice, l'hommage, la propitiation, et pour la louange.
 
@@ -74,7 +74,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 21\. Et à ces lieux, pâturages et habitations avec leurs sources d'eau, leurs rivières, aux terres et aux plantes, à cette terre et à ce ciel, au vent sacré, aux étoiles, à la lune et au soleil, aux étoiles sans commencement, disposées d'elles-mêmes, et à toutes les créatures saintes du Spe<i>n</i>ta Mainyu, mâles et femelles (les dirigeants comme ils le sont de l'ordre rituel).
 
-22\. Et nous annonçons et présentons par la présente à ce seigneur élevé qu'est Asha, la justice rituelle elle-même, aux Seigneurs du Jour, aux Seigneurs du Mois, aux Seigneurs de l'Année et aux Saisons qui sont les seigneurs du rituel au temps de Hâvani, et pour <span id="p218">[<sup><small>p. 218</small></sup>]</span> leur sacrifice, leur hommage, leur propitiation et leur louange.
+22\. Et nous annonçons et présentons par la présente à ce seigneur élevé qu'est Asha, la justice rituelle elle-même, aux Seigneurs du Jour, aux Seigneurs du Mois, aux Seigneurs de l'Année et aux Saisons qui sont les seigneurs du rituel au temps de Hâvani, et pour <span id="p218"><sup><small>[ p. 218 ]</small></sup></span> leur sacrifice, leur hommage, leur propitiation et leur louange.
 
 23\. Oui, nous les annonçons et les présentons à Sraosha, le béni et le puissant, dont le corps est le Mãthra, celui à la lance audacieuse, le seigneurial, et au saint Fravashi de Zarathu<i>s</i>tra Spitâma, le saint.
 

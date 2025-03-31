@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 DEUXIÈME ÂRANYAKA.
 
@@ -46,7 +46,7 @@ Le caractère des trois parties constitutives de l'Upanishad peut être mieux d�
 
 Le lien entre l'Upanishad, ou plutôt les trois Upanishads, et le premier Âra<i>n</i>yaka paraît à première vue très ténu. Pourtant, on s'aperçoit vite qu'il serait impossible de comprendre la première Upanishad sans une connaissance préalable de la cérémonie du Mahâvrata telle que décrite dans le premier Âra<i>n</i>yaka.
 
-Français Sur ce point également, on trouve quelques remarques pertinentes dans le commentaire de <i>S</i>aṅkara sur l'Âra<i>n</i>yaka II, 1, 2. « Notre premier devoir », dit-il, « consiste à accomplir des sacrifices, tels que ceux décrits dans la première partie du Véda, les Sa<i>m</i>hitâs, les Brâhma<i>n</i>as et, dans une certaine mesure, dans les Âra<i>n</i>yakas également. Ensuite naît un désir de connaissance, qui ne peut être satisfait que si l'homme a d'abord atteint <span id="p201">[<sup><small>p. 201</small></sup>]</span> une concentration complète de la pensée (êkâgratâ). Afin d'acquérir cette concentration, l'accomplissement de certaines upâsanas ou méditations est enjoint, telles que nous les trouvons décrites dans notre Upanishad, à savoir. dans Âr. II, IV.'
+Français Sur ce point également, on trouve quelques remarques pertinentes dans le commentaire de <i>S</i>aṅkara sur l'Âra<i>n</i>yaka II, 1, 2. « Notre premier devoir », dit-il, « consiste à accomplir des sacrifices, tels que ceux décrits dans la première partie du Véda, les Sa<i>m</i>hitâs, les Brâhma<i>n</i>as et, dans une certaine mesure, dans les Âra<i>n</i>yakas également. Ensuite naît un désir de connaissance, qui ne peut être satisfait que si l'homme a d'abord atteint <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> une concentration complète de la pensée (êkâgratâ). Afin d'acquérir cette concentration, l'accomplissement de certaines upâsanas ou méditations est enjoint, telles que nous les trouvons décrites dans notre Upanishad, à savoir. dans Âr. II, IV.'
 
 Cette méditation, ou, comme on la traduit parfois, cette adoration, est de deux sortes : brahmopâsana ou pratîkopâsana. La brahmopâsana, ou méditation sur Brahman, consiste à le considérer comme distingué par certaines qualités. La pratîkopâsana, ou méditation sur les symboles, consiste à considérer certains objets du monde comme s'ils étaient Brahman, afin de soustraire ainsi l'esprit à l'influence trop puissante des objets extérieurs.
 
@@ -56,7 +56,7 @@ Cette méditation doit être accomplie par les prêtres. Pendant leur méditatio
 
 1\. Tel est le chemin : ce sacrifice et ce Brahman. Tel est le véritable [^502].
 
-2\. Que personne ne s'en écarte, que personne ne la transgresse. <span id="p202">[<sup><small>p. 202</small></sup>]</span> 3\. Car les anciens (sages) ne l'ont pas transgressée, et ceux qui l'ont transgressée ont été perdus.
+2\. Que personne ne s'en écarte, que personne ne la transgresse. <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> 3\. Car les anciens (sages) ne l'ont pas transgressée, et ceux qui l'ont transgressée ont été perdus.
 
 4\. Ceci a été déclaré par un Rishi (Rv. VIII, 101, 14) : « Trois (classes de) personnes ont transgressé, d'autres se sont installées autour du vénérable (Agni, le feu) ; le grand (soleil) se tenait au milieu des mondes, le souffle (Vâyu, l'air) est entré dans les Harits (les aurores, ou les extrémités de la terre). »
 
@@ -90,7 +90,7 @@ Cette méditation doit être accomplie par les prêtres. Pendant leur méditatio
 
 10\. L'objet de sa louange est le souffle, et les quatre-vingts versets (de l'hymne) sont de la nourriture, car au moyen de la nourriture il obtient tout.
 
-11\. La légère courbure (à la racine) du nez est, pour ainsi dire, le lieu du brillant (Âditya, le soleil). <span id="p204">[<sup><small>p. 204</small></sup>]</span> 12\. L'hymne est le front, comme précédemment pour le ciel. L'objet de sa louange est l'œil, et les quatre-vingts versets (de l'hymne) sont de la nourriture, car c'est par la nourriture qu'il obtient tout.
+11\. La légère courbure (à la racine) du nez est, pour ainsi dire, le lieu du brillant (Âditya, le soleil). <span id="p204"><sup><small>[ p. 204 ]</small></sup></span> 12\. L'hymne est le front, comme précédemment pour le ciel. L'objet de sa louange est l'œil, et les quatre-vingts versets (de l'hymne) sont de la nourriture, car c'est par la nourriture qu'il obtient tout.
 
 13\. Les quatre-vingts versets (de l'hymne) sont une nourriture, tant pour les dieux que pour les hommes. Car tous ces êtres respirent et vivent grâce à la nourriture. Par la nourriture (donnée en aumônes, etc.), il conquiert ce monde, par la nourriture (donnée en sacrifice), il conquiert l'autre. Par conséquent, les quatre-vingts versets (de l'hymne) sont une nourriture, tant pour les dieux que pour les hommes.
 
@@ -102,7 +102,7 @@ Cette méditation doit être accomplie par les prêtres. Pendant leur méditatio
 
 Lui aussi (le véritable adorateur qui médite sur lui-même comme étant l'uktha) est à la fois consommateur et consommé (sujet et objet [^506]). Nul ne possède ce qu'il ne mange pas, ni les choses qui ne le mangent pas [^507].
 
-<span id="p205">[<sup><small>p. 205</small></sup>]</span>
+<span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 ## TROISIÈME KHA<i>N</i><i>D</i>A.
 
@@ -110,7 +110,7 @@ Lui aussi (le véritable adorateur qui médite sur lui-même comme étant l'ukth
 
 2\. Il (l'homme) est constitué de nourriture (irâ), et parce qu'il est constitué de nourriture (irâmaya), il est constitué d'or (hira<i>n</i>maya [^508]). Celui qui sait cela devient doré dans l'autre monde, et est vu comme doré (comme le soleil) pour le bien de tous les êtres.
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 ## QUATRIÈME KHA<i>N</i><i>D</i>A.
 
@@ -130,7 +130,7 @@ Lui aussi (le véritable adorateur qui médite sur lui-même comme étant l'ukth
 
 8\. Les délices tombent sur celui qui sait ainsi pourquoi la tête est appelée tête.
 
-9\. Ceux-ci (les cinq délices ou sens) s'unirent, disant : « Je suis l'uktha (hymne), je suis l'uktha [^513]. » « Eh bien », dirent-ils, « sortons tous de <span id="p207">[<sup><small>p. 207</small></sup>]</span> ce corps ; alors, au départ de qui tombera ce corps, il sera l'uktha parmi nous [^514]. »
+9\. Ceux-ci (les cinq délices ou sens) s'unirent, disant : « Je suis l'uktha (hymne), je suis l'uktha [^513]. » « Eh bien », dirent-ils, « sortons tous de <span id="p207"><sup><small>[ p. 207 ]</small></sup></span> ce corps ; alors, au départ de qui tombera ce corps, il sera l'uktha parmi nous [^514]. »
 
 10\. La parole s'éteignit, et le corps resta sans parler, mangeant et buvant.
 
@@ -154,7 +154,7 @@ Le souffle s'est éteint, puis lorsque le souffle s'est éteint, le corps est to
 
 16\. Que les gens sachent que le souffle est en effet l’uktha.
 
-17\. Les Devas (les autres sens) ont dit au souffle : « Tu es l'uktha, tu es tout cela, nous sommes à toi, tu es à nous. » <span id="p208">[<sup><small>p. 208</small></sup>]</span> 18\. Ceci a également été dit par un <i>Ri</i>shi (Rv. VIII, 92, 32) : « Tu es à nous, nous sommes à toi. »
+17\. Les Devas (les autres sens) ont dit au souffle : « Tu es l'uktha, tu es tout cela, nous sommes à toi, tu es à nous. » <span id="p208"><sup><small>[ p. 208 ]</small></sup></span> 18\. Ceci a également été dit par un <i>Ri</i>shi (Rv. VIII, 92, 32) : « Tu es à nous, nous sommes à toi. »
 
 ## CINQUIÈME KHA<i>N</i><i>D</i>A.
 
@@ -162,7 +162,7 @@ Les Dévas l'emportèrent (le souffle), et une fois emporté, il fut étendu. Qu
 
 2\. La parole est Agni, la vue est Âditya (le soleil), l'esprit est la lune, l'ouïe est Di<i>s</i> (les quartiers) : c'est le prahitâ<i>m</i> sa<i>m</i>yoga [^516], l'union des déités telles qu'elles sont envoyées. Ces déités (Agni, etc.) sont ainsi dans le corps, mais leur apparition (phénoménale) là-bas est parmi les déités – c'était voulu.
 
-3\. Et Hiranayadat Vaida aussi, qui savait cela (et qui, par sa connaissance, était devenu Hiranyagarbha ou l'esprit universel), dit : « Tout ce qu'ils ne me donnent pas, ils ne le possèdent pas eux-mêmes. » Je connais le prahitâm samyoga, l'union des déités, comme entrée dans le corps [^517]. C'est cela. <span id="p209">[<sup><small>p. 209</small></sup>]</span> 4\. À celui qui sait cela, toutes les créatures, sans être contraintes, offrent des dons.
+3\. Et Hiranayadat Vaida aussi, qui savait cela (et qui, par sa connaissance, était devenu Hiranyagarbha ou l'esprit universel), dit : « Tout ce qu'ils ne me donnent pas, ils ne le possèdent pas eux-mêmes. » Je connais le prahitâm samyoga, l'union des déités, comme entrée dans le corps [^517]. C'est cela. <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> 4\. À celui qui sait cela, toutes les créatures, sans être contraintes, offrent des dons.
 
 5\. Ce souffle est (appelé) sattya (le vrai), car sat est le souffle, ti est la nourriture, yam est le soleil [^518]. Ceci est triple, et l'œil peut aussi être appelé triple, étant blanc, foncé et la pupille. Celui qui sait pourquoi le vrai est vrai (pourquoi sattya est sattya), même s'il ment, ce qu'il dit est vrai.
 
@@ -174,7 +174,7 @@ Les Dévas l'emportèrent (le souffle), et une fois emporté, il fut étendu. Qu
 
 3\. Du corps du souffle ainsi médité, le vers Ush<i>n</i>ih forme les cheveux, le Gâyatrî la peau, le Trish<i>t</i>ubh la chair, l'Anush<i>t</i>ubh les muscles, le <i>G</i>agatî l'os, le Paṅkti la moelle, le B<i>ri</i>hatî le souffle [^520] (prâ<i>n</i>a). Il est couvert de versets (kha<i>n</i><i>d</i>as, mètres). Parce qu'il est ainsi couvert de versets, c'est pourquoi ils les appellent kha<i>n</i><i>d</i>as (enveloppes, mètres).
 
-4\. Si un homme connaît la raison pour laquelle les kha<i>n</i><i>d</i>as sont appelés kha<i>n</i><i>d</i>as, les versets le protègent à l'endroit qu'il souhaite contre toute mauvaise action. <span id="p210">[<sup><small>p. 210</small></sup>]</span> 5\. Ceci est dit par un <i>Ri</i>shi (Ap. I, 164, 13) :
+4\. Si un homme connaît la raison pour laquelle les kha<i>n</i><i>d</i>as sont appelés kha<i>n</i><i>d</i>as, les versets le protègent à l'endroit qu'il souhaite contre toute mauvaise action. <span id="p210"><sup><small>[ p. 210 ]</small></sup></span> 5\. Ceci est dit par un <i>Ri</i>shi (Ap. I, 164, 13) :
 
 6\. « J'ai vu (le souffle) comme un gardien, infatigable, allant et venant sur ses voies (les artères). Ce souffle (dans le corps, identifié au soleil parmi les Dévas), illuminant les points principaux et intermédiaires du ciel, revient constamment au milieu des mondes. »
 
@@ -198,7 +198,7 @@ Il dit : « J’ai vu un gardien », car lui, le souffle, est un gardien, car il
 
 1\. Viennent ensuite les pouvoirs de cette Personne [^521].
 
-2\. Par sa parole, la terre et le feu furent créés. <span id="p211">[<sup><small>p. 211</small></sup>]</span> Les herbes sont produites sur la terre, et Agni (le feu) les rend mûres et sucrées. « Prends ceci, prends ceci », ainsi disent la terre et le feu servent leur parent, la parole.
+2\. Par sa parole, la terre et le feu furent créés. <span id="p211"><sup><small>[ p. 211 ]</small></sup></span> Les herbes sont produites sur la terre, et Agni (le feu) les rend mûres et sucrées. « Prends ceci, prends ceci », ainsi disent la terre et le feu servent leur parent, la parole.
 
 3\. Aussi loin que s'étend la terre, aussi loin que s'étend le feu, aussi loin s'étend son monde, et aussi longtemps que le monde de la terre et du feu ne se décompose pas, aussi longtemps ne se décompose pas son monde qui connaît ainsi ce pouvoir de parole.
 
@@ -212,7 +212,7 @@ Aussi loin que s'étend le ciel et aussi loin que s'étend le soleil, aussi loin
 
 6\. Par son oreille, les quartiers et la lune furent créés. De tous les quartiers ils viennent à lui, et de tous il entend, tandis que la lune produit pour lui les moitiés lumineuses et les moitiés sombres pour le sacrifice. Ainsi, les quartiers et la lune servent leur parent, l'oreille.
 
-Aussi loin que s'étendent les quartiers et aussi loin que s'étend la <span id="p212">[<sup><small>p. 212</small></sup>]</span> lune, aussi loin s'étend son monde, et aussi longtemps que le monde des quartiers et de la lune ne se décompose pas, aussi longtemps ne se décompose pas son monde qui connaît ainsi le pouvoir de l'oreille.
+Aussi loin que s'étendent les quartiers et aussi loin que s'étend la <span id="p212"><sup><small>[ p. 212 ]</small></sup></span> lune, aussi loin s'étend son monde, et aussi longtemps que le monde des quartiers et de la lune ne se décompose pas, aussi longtemps ne se décompose pas son monde qui connaît ainsi le pouvoir de l'oreille.
 
 7\. Par son esprit, l'eau et Varu<i>n</i>a furent créés. L'eau lui donne la foi (étant utilisée pour des actes sacrés), Varu<i>n</i>a maintient sa progéniture dans la loi. Ainsi, l'eau et Varu<i>n</i>a servent leur parent, l'esprit.
 
@@ -242,7 +242,7 @@ Aussi loin que s'étend l'eau et aussi loin que s'étend Varu<i>n</i>a, aussi lo
 
 11\. « Il (le vent du souffle) va de bas en haut, retenu par la nourriture » ; car cette expiration ascendante, étant retenue par l'expiration descendante, n'avance pas (et ne quitte pas complètement le corps).
 
-12\. « L'immortel demeure avec le mortel » — car par lui (le souffle) tout cela demeure ensemble, les corps étant clairement mortels, mais cet être (le souffle), étant immortel. <span id="p214">[<sup><small>p. 214</small></sup>]</span> 13\. « Ces deux (corps et souffle) vont toujours dans des directions différentes (le souffle mouvant les sens du corps, le corps soutenant les sens du souffle : le premier s'élevant vers un autre monde, le corps mouvant et restant sur terre). Ils augmentent l'un (le corps), mais ils n'augmentent pas l'autre », c'est-à-dire qu'ils augmentent ces corps (par la nourriture), mais cet être (le souffle) est immortel.
+12\. « L'immortel demeure avec le mortel » — car par lui (le souffle) tout cela demeure ensemble, les corps étant clairement mortels, mais cet être (le souffle), étant immortel. <span id="p214"><sup><small>[ p. 214 ]</small></sup></span> 13\. « Ces deux (corps et souffle) vont toujours dans des directions différentes (le souffle mouvant les sens du corps, le corps soutenant les sens du souffle : le premier s'élevant vers un autre monde, le corps mouvant et restant sur terre). Ils augmentent l'un (le corps), mais ils n'augmentent pas l'autre », c'est-à-dire qu'ils augmentent ces corps (par la nourriture), mais cet être (le souffle) est immortel.
 
 14\. Celui qui sait cela devient immortel dans ce monde (s'étant uni à Hira<i>n</i>yagarbha), et est vu comme immortel (dans le soleil) par tous les êtres, oui, par tous les êtres.
 

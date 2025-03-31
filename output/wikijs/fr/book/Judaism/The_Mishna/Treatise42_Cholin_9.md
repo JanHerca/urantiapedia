@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 ### CHAPITRE IX.
 
@@ -40,13 +40,13 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 2. Dans les cas suivants, la peau doit être considérée comme de la chair : la peau humaine, celle du porc domestique, [^1257] et, selon R. José, également celle du porc sauvage, la peau tendre de la bosse d'un jeune chameau, [^1258] et celle de la tête d'un jeune veau, la peau \[entre\] des sabots fendus, celle sur la matrice, et celle d'un fœtus animal en embryon, également celle sous la queue, et celles du furet, du caméléon, du lézard et de l'escargot. R. Jehudah dit : « Celle d'un lézard doit être considérée comme une peau de belette. » [^1259] Si l'une de ces peaux a été tannée ou transformée en cuir, ou qu'elle a été suffisamment foulée \[dans le processus de transformation de la peau en cuir\], elles sont pures, à l'exception de la peau humaine. R. Jochanan ben Nouri dit : « Les huit reptiles ont des peaux. » [^1260]
 
-<span id="p348">[<sup><small>p. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
 § 3. Lorsqu'une personne enlève la peau d'un animal domestique ou sauvage, qu'il soit pur ou impur, [^1261] grand ou petit, afin de s'en couvrir, [^1262] la pollution est contractée et communiquée lorsqu'on enlève autant de peau qu'on peut en saisir, [^1263] et si l'on veut faire une bouteille de peau, [^1264] jusqu'à ce que la peau recouvrant la poitrine soit enlevée. [^1265] Si le dépouillement a commencé par les jambes, l'ensemble est considéré comme reliant et sujet à la contamination par contraction et communication. La peau recouvrant le cou n'est pas considérée comme reliante par R. Jochanan ben Nouri, mais les sages la considèrent comme telle jusqu'à ce que la peau entière soit enlevée.
 
 § 4. Lorsqu'il y a de la chair de la taille d'une olive sur une peau en un seul endroit, quiconque touche les filaments qui en proviennent, ou les poils de la peau qui sont opposés [et qui touchent ladite chair], est impur. S'il y avait deux morceaux de chair de la taille de deux demi-olives chacun, ils seraient souillés par le fait d'être portés, mais pas par le simple fait de les toucher. Tel est le dicton de Rabbi Ismaël, mais Rabbi Akivah soutient qu'« ils ne souillent ni par le fait d'être portés ni par le fait d'être touchés », mais il admet que « si de la chair de la taille de deux demi-olives était piquée sur une broche et déplacée, elle serait impure ». Pourquoi donc Rabbi Akivah, concernant la peau, la considère-t-il comme pure ? Parce que la peau empêche leur contact.
 
-§ 5. Quiconque touche un os à moelle d'un cadavre [^1266] ou d'un sacrifice consacré [^1267], que ces os soient ouverts ou fermés, est impur. Quiconque touche un os à moelle d'un animal qui est Nebelah, ou d'animaux rampants, est pur lorsque l'os est fermé ; mais s'il est ouvert, même légèrement, il contracte une souillure à son contact. Comment est-il prouvé que l'os à moelle d'un Nebelah souille aussi celui qui le porte ? Car il est dit [Lév. xi. 24, 25] : « Quiconque touche le cadavre », et « Quiconque porte quelque chose du cadavre », etc., ce qui prouve que tout ce qui communique par <span id="p349">[<sup><small>p. 349</small></sup>]</span> étant touché, le communique aussi en étant porté, et ce qui ne peut communiquer la pollution par contact, ne peut la communiquer en étant porté.
+§ 5. Quiconque touche un os à moelle d'un cadavre [^1266] ou d'un sacrifice consacré [^1267], que ces os soient ouverts ou fermés, est impur. Quiconque touche un os à moelle d'un animal qui est Nebelah, ou d'animaux rampants, est pur lorsque l'os est fermé ; mais s'il est ouvert, même légèrement, il contracte une souillure à son contact. Comment est-il prouvé que l'os à moelle d'un Nebelah souille aussi celui qui le porte ? Car il est dit [Lév. xi. 24, 25] : « Quiconque touche le cadavre », et « Quiconque porte quelque chose du cadavre », etc., ce qui prouve que tout ce qui communique par <span id="p349"><sup><small>[ p. 349 ]</small></sup></span> étant touché, le communique aussi en étant porté, et ce qui ne peut communiquer la pollution par contact, ne peut la communiquer en étant porté.
 
 § 6. L'œuf d'un animal rampant, dont le jeune est déjà développé, est pur, mais la moindre perforation le rend impur. Quant à une souris, qui est encore moitié chair, moitié terre, [^1268] si l'on touche à la chair, elle devient impure, mais pas si seule la terre avait été touchée. Rabbi Jehudah dit : « Quiconque touche la terre qui jouxte immédiatement la partie charnue est également impur. »
 

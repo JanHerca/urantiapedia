@@ -41,7 +41,7 @@ Brahm Das était alors le plus éminent des pandits cachemiris. Apprenant l'arri
 Il n'y a qu'une seule route, une seule porte ; le Guru est l'échelle pour atteindre sa maison.
 Dieu est beau ; Nanak, tout le bonheur est en Son nom.
 
-<span id="p164">[<sup><small>p. 164</small></sup>]</span>
+<span id="p164"><sup><small>[ p. 164 ]</small></sup></span>
 
 ## PAURI
 
@@ -67,7 +67,7 @@ Ceux qui sont satisfaits du Vrai sont absorbés en Lui.[^1]
 
 Brahm Das, reconnaissant la piété et le génie du gourou, tomba à ses pieds et lui demanda ce qui existait avant la création. Le gourou répondit en prononçant l'hymne suivant, connu sous le nom de Solaha[^2] dans Rag Maru :
 
-<span id="p165">[<sup><small>p. 165</small></sup>]</span>
+<span id="p165"><sup><small>[ p. 165 ]</small></sup></span>
 
 Au commencement[^1] il y avait des ténèbres indescriptibles ;
 Alors il n'y avait ni terre ni ciel, mais seulement l'ordre incomparable de Dieu.
@@ -90,7 +90,7 @@ Dieu Lui-même, ayant créé, était content et appréciait ce qu’Il ​​ava
 Il n’y avait ni purification, ni retenue, ni collier de basilic doux ;
 Il n'y avait ni laitière, ni Krishan, ni vache, ni berger ;
 
-<span id="p166">[<sup><small>p. 166</small></sup>]</span>
+<span id="p166"><sup><small>[ p. 166 ]</small></sup></span>
 
 Aucune incantation ni sort, aucune hypocrisie, et personne ne jouait de la flûte.[^1]
 Il n’y avait pas d’actes attachés à l’âme, ni à la religion, ni au taon de Mammon.
@@ -109,7 +109,7 @@ il n'y avait pas d'amour, pas de service, pas de Shiv, ni d'énergie de sa part 
 Pas d'ami, pas d'aide, pas de semence, pas de sang.[^7]
 Dieu Lui-même était le marchand, Lui-même le négociant — telle était la volonté du Véritable —
 
-<span id="p167">[<sup><small>p. 167</small></sup>]</span>
+<span id="p167"><sup><small>[ p. 167 ]</small></sup></span>
 
 Il n’y avait alors ni Veds ni livres musulmans,[^1] ni Simritis, ni Shastars ;
 Pas de lecture des Purans, pas de lever de soleil, pas de coucher de soleil.
@@ -138,7 +138,7 @@ Et séparé de Sita et de Lachhman.[^4]
 Rawan, qui emmena Sita au rythme du tambour,
 Il a pleuré lorsqu'il a perdu Lanka;[^5]
 Les Pandavs[^6] _bien que_ leur maître[^7] ait été avec eux,
-Devenus esclaves, ils pleurèrent ; <span id="p169">[<sup><small>p. 169</small></sup>]</span>
+Devenus esclaves, ils pleurèrent ; <span id="p169"><sup><small>[ p. 169 ]</small></sup></span>
 Janameja[^1] pleurait lorsqu'il s'égarait ;
 Pour une seule offense, il fut considéré comme un pécheur.
 Les Cheikhs, les Disciples et les Pirs[^2] pleurent
@@ -152,7 +152,7 @@ Nanak, le monde entier est dans la misère.
 Celui qui révère le Nom est victorieux
 Aucun autre acte n’est d’aucune utilité.[^4]
 
-Le gourou, quittant Srinagar, pénétra dans l'Himalaya et escalada de nombreux sommets élevés <span id="p170">[<sup><small>p. 170</small></sup>]</span> jusqu'à son arrivée au mont Sumer. Il y rencontra de nombreux Sidhs renommés. Après que le gourou eut fait ses adieux et s'assit, ils lui demandèrent d'où il était venu et dans quel état il avait quitté l'Hindoustan. Il répondit :
+Le gourou, quittant Srinagar, pénétra dans l'Himalaya et escalada de nombreux sommets élevés <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> jusqu'à son arrivée au mont Sumer. Il y rencontra de nombreux Sidhs renommés. Après que le gourou eut fait ses adieux et s'assit, ils lui demandèrent d'où il était venu et dans quel état il avait quitté l'Hindoustan. Il répondit :
 
 L'âge Kal est un couteau, les rois sont des bouchers ; la justice a pris des ailes et s'est enfuie.
 Dans cette nuit complètement noire du mensonge, la lune de la vérité ne se lève jamais.
@@ -178,7 +178,7 @@ Les Sidhs demandèrent :
 D'où viens-tu et où vas-tu ?
 « Écoute, ô Nanak », dirent les Sidhs, « quels sont tes principes ?
 
-<span id="p171">[<sup><small>p. 171</small></sup>]</span>
+<span id="p171"><sup><small>[ p. 171 ]</small></sup></span>
 
 _Nanak_\—'Je demeure en Dieu qui a son siège dans chaque cœur ; j'agis selon la volonté du Vrai Gourou.
 « Je suis venu selon le cours de la nature, et selon l'ordre de Dieu, je partirai. Nanak est toujours soumis à sa volonté.

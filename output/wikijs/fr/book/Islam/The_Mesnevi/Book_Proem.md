@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 AU NOM DE DIEU, LE TOUT MISÉRICORDIEUX, LE TRÈS COMPASSIONNANT.
 
@@ -56,7 +56,7 @@ Les yeux et les oreilles des hommes ne captent pas leur train.
 Bien que l'âme et le corps soient comme un,
 Aucun homme n'a gagné la vue de son âme.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 Une flamme est le gémissement de la flûte; pas un souffle,
 Cette flamme qui ne ressent rien, la condamne à la mort.
@@ -93,7 +93,7 @@ L'habileté du vieux Galen n'était rien pour toi
 Par l'amour, cette structure terrestre s'élève
 <sup id="v25"><small>25</small></sup> Au paradis ; une colline, pour sauter fait semblant.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 En transe d'amour, le mont Sinaï tremble,
 À la descente de Dieu ; « et Moïse tremble. »[^56]

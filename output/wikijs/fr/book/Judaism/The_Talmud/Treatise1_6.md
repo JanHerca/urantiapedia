@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 1\. « Comment bénissons-nous pour les fruits ? » « Pour les fruits des arbres, dites : “Qui crée le fruit des bois ?”, excepté le vin. Pour le vin, dites : “Qui crée le fruit de la vigne ?” Pour les fruits de la terre, dites : “Qui crée le fruit de la terre ?”, excepté le morceau. Pour le morceau, dites : “Qui fait sortir le pain de la terre ?” Pour les légumes, dites : “Qui crée le fruit de la terre ?” R. Judah dit : “Qui crée toutes sortes d’herbes.” »
 
@@ -40,7 +40,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 3\. Pour ce qui ne pousse pas de la terre, dites : « (Qui as créé) tout. » Pour le vinaigre, les fruits verts et les sauterelles, dites « tout. » Pour le lait, le fromage et les œufs, dites « tout. » R. Judah dit : « Tout ce qui a son origine dans une malédiction ne doit pas être béni. »
 
-4\. Si un homme a devant lui plusieurs sortes de fruits ? Rabbi Judah dit : « S'il y en a parmi eux des sept [^29] sortes, il doit les bénir. » Mais les Sages disent : « Il peut bénir celui qu'il veut. » <span id="p57">[<sup><small>p. 57</small></sup>]</span> 5\. « Si quelqu'un a béni le vin avant le repas ? » « La bénédiction libère le vin après le repas. » « S'il a béni la friandise avant le repas ? » « Elle libère la friandise après le repas. » « S'il a béni le pain ? » « Elle libère la friandise. » Mais la bénédiction sur la friandise ne libère pas le pain. L'école de Shammaï dit : « Elle ne libère pas non plus la cuisine. »
+4\. Si un homme a devant lui plusieurs sortes de fruits ? Rabbi Judah dit : « S'il y en a parmi eux des sept [^29] sortes, il doit les bénir. » Mais les Sages disent : « Il peut bénir celui qu'il veut. » <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> 5\. « Si quelqu'un a béni le vin avant le repas ? » « La bénédiction libère le vin après le repas. » « S'il a béni la friandise avant le repas ? » « Elle libère la friandise après le repas. » « S'il a béni le pain ? » « Elle libère la friandise. » Mais la bénédiction sur la friandise ne libère pas le pain. L'école de Shammaï dit : « Elle ne libère pas non plus la cuisine. »
 
 6\. « Si plusieurs personnes s'asseyent pour manger ? » « Chacun bénit pour soi-même. » « Mais s'ils s'étendent ensemble ? » « Un seul bénit pour tous. » « Si du vin leur arrive pendant le repas ? » « Chacun bénit pour soi-même. » « Mais si c'est après le repas ? » « Un seul bénit pour tous. » Il bénit aussi pour l'encens, même s'ils ne l'ont apporté qu'après le repas.
 

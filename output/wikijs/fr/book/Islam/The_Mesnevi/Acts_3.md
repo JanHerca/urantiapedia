@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 **CHAPITRE III.**
 
@@ -46,7 +46,7 @@ La cause de ces perturbations était que des formes spirituelles et des figures 
 
 Son père, Bahā’u-’d-Dīn Veled, le Sultanu-’l-‘Ulemā, avait l’habitude de l’amadouer et de l’apaiser en ces occasions en lui disant : « Ce sont les Existences Occultes. Elles viennent se présenter devant toi pour t’offrir des présents et des présents du monde invisible. »
 
-Ces extases et ces transports commencèrent à être publiquement connus et racontés, et le titre affectueusement <span id="p19">[<sup><small>p. 19</small></sup>]</span> honorifique de Khudāvendgār, par lequel il est si souvent mentionné, lui fut conféré à cette époque par son père, qui avait l'habitude de s'adresser à lui et de parler de lui par ce titre, comme « Mon Seigneur ».
+Ces extases et ces transports commencèrent à être publiquement connus et racontés, et le titre affectueusement <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> honorifique de Khudāvendgār, par lequel il est si souvent mentionné, lui fut conféré à cette époque par son père, qui avait l'habitude de s'adresser à lui et de parler de lui par ce titre, comme « Mon Seigneur ».
 
 ## 2.
 
@@ -60,7 +60,7 @@ Effrayés par la disparition soudaine de Jelâl, les autres enfants poussèrent 
 
 Il leur dit alors que, tandis qu'il leur parlait encore, une troupe de formes visibles, vêtues de vêtements verts, l'avait emmené loin d'eux et l'avait conduit autour des divers orbes concentriques des sphères et à travers les signes du zodiaque, lui montrant les merveilles du monde des esprits et le ramenant à eux dès que leurs cris avaient atteint ses oreilles.
 
-À cet âge, il avait l'habitude de ne pas rompre son <span id="p20">[<sup><small>p. 20</small></sup>]</span> jeûne plus d'une fois tous les trois ou quatre, et parfois même sept jours.
+À cet âge, il avait l'habitude de ne pas rompre son <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> jeûne plus d'une fois tous les trois ou quatre, et parfois même sept jours.
 
 ## 3.
 
@@ -86,7 +86,7 @@ Soudain, un jour, Dieu daigna lui apparaître visiblement. Il s'évanouit alors.
 
 « Ô Jelālu-’d-Dīn[^10] Par la majesté (jelāl) de Notre gloire, cesse désormais de te battre avec toi-même, car Nous t’avons élevé au rang de la vision oculaire. »
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Jelāl fit donc vœu, par gratitude pour cette marque de grâce, de servir le Seigneur jusqu'à la fin de ses jours, au maximum de ses capacités, dans le ferme espoir que ceux qui le suivraient atteindraient également ce haut degré de faveur et d'excellence.
 
@@ -104,7 +104,7 @@ Ils poursuivirent leur route et arrivèrent au tombeau d'Abraham (à Hébron, à
 
 Le gouverneur perdit alors la raison de peur et ne reprit ses esprits qu'après le lever du soleil.
 
-Il ne pouvait plus voir aucun édifice en forme de dôme, ni aucun être humain. Il erra dans une plaine <span id="p22">[<sup><small>p. 22</small></sup>]</span> sans chemins pendant trois jours et trois nuits, affamé, assoiffé et les pieds endoloris. Finalement, il s'effondra sous ses souffrances.
+Il ne pouvait plus voir aucun édifice en forme de dôme, ni aucun être humain. Il erra dans une plaine <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> sans chemins pendant trois jours et trois nuits, affamé, assoiffé et les pieds endoloris. Finalement, il s'effondra sous ses souffrances.
 
 Pendant ce temps, le portier du collège avait informé le gouverneur que celui-ci poursuivait Jelâl. Lorsque ses officiers constatèrent qu'il ne revenait pas, ils envoyèrent un grand nombre de gardes à sa recherche. Le deuxième jour, ils rencontrèrent Jelâl. Il leur dit où ils trouveraient leur maître. Le lendemain, tard, ils le rejoignirent, le trouvèrent presque mort et le ramenèrent chez lui.
 
@@ -122,7 +122,7 @@ Lorsque Jelâl se rendit à Damas pour y faire ses études, il passa par Sîs, e
 
 À l'approche de la caravane de Jelāl vers la grotte, les moines firent monter dans les airs un petit garçon qui resta debout entre le ciel et la terre.
 
-Jelāl remarqua cette manifestation et tomba dans une rêverie. L'enfant se mit alors à pleurer et à gémir, disant <span id="p23">[<sup><small>p. 23</small></sup>]</span> que l'homme dans la rêverie l'effrayait. Les moines lui dirent de ne pas avoir peur, mais de descendre. « Oh ! » s'écria l'enfant, « je suis comme cloué ici, incapable de bouger la main ou le pied. »
+Jelāl remarqua cette manifestation et tomba dans une rêverie. L'enfant se mit alors à pleurer et à gémir, disant <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> que l'homme dans la rêverie l'effrayait. Les moines lui dirent de ne pas avoir peur, mais de descendre. « Oh ! » s'écria l'enfant, « je suis comme cloué ici, incapable de bouger la main ou le pied. »
 
 Les moines furent alarmés. Ils se rassemblèrent autour de Jelāl et le supplièrent de libérer l'enfant. Après un certain temps, il sembla les entendre et les comprendre. Sa réponse fut : « Ce n'est que par l'acceptation de l'Islam par vous-mêmes, par vous tous, ainsi que par l'enfant, qu'il pourra être sauvé. »
 
@@ -136,7 +136,7 @@ Jelāl resta sept ou quatre ans à Damas, et c’est là qu’il vit pour la pre
 
 L'année a.h. 642 (1244 après JC), Shemsu-'d-Dīn de Tebrīz arriva à Qonya.
 
-Ce grand homme, après avoir acquis une réputation de sainteté <span id="p24">[<sup><small>p. 24</small></sup>]</span> supérieure à Tebrīz, comme disciple d'un certain saint homme, vannier de métier, avait beaucoup voyagé dans divers pays, à la recherche des meilleurs maîtres spirituels, gagnant ainsi le surnom de Perenda (le _Volant_, _Oiseau_, etc.).
+Ce grand homme, après avoir acquis une réputation de sainteté <span id="p24"><sup><small>[ p. 24 ]</small></sup></span> supérieure à Tebrīz, comme disciple d'un certain saint homme, vannier de métier, avait beaucoup voyagé dans divers pays, à la recherche des meilleurs maîtres spirituels, gagnant ainsi le surnom de Perenda (le _Volant_, _Oiseau_, etc.).
 
 Il pria Dieu pour qu'il lui soit révélé qui était le plus occulte des favoris de la volonté divine, afin qu'il puisse aller à lui et apprendre encore davantage des mystères de l'amour divin.
 
@@ -152,7 +152,7 @@ Jelāl lui répondit : « Mohammed était incomparablement le plus grand – le 
 
 En entendant cette question, Jelâl s'évanouit. Reprenant connaissance, il emmena sa nouvelle connaissance chez lui. Ils restèrent enfermés ensemble pendant des semaines ou des mois dans des communications saintes.
 
-Les disciples de Jelāl finirent par s'impatienter, provoquant <span id="p25">[<sup><small>p. 25</small></sup>]</span> un tumulte effrayant et menaçant ; de sorte que, le jeudi 21 Shewwāl, 643 a.H. (mars 1246 ap. J.-C.), Shemsu-'d-Dīn disparut mystérieusement ; et Jelāl adopta, en signe de deuil pour sa perte, le chapeau terne et le large manteau portés depuis par les derviches de son ordre.
+Les disciples de Jelāl finirent par s'impatienter, provoquant <span id="p25"><sup><small>[ p. 25 ]</small></sup></span> un tumulte effrayant et menaçant ; de sorte que, le jeudi 21 Shewwāl, 643 a.H. (mars 1246 ap. J.-C.), Shemsu-'d-Dīn disparut mystérieusement ; et Jelāl adopta, en signe de deuil pour sa perte, le chapeau terne et le large manteau portés depuis par les derviches de son ordre.
 
 C’est à cette époque qu’il institua pour la première fois les services musicaux observés par cet ordre, car ils exécutent leur valse particulière. Tous les hommes se mirent alors à la musique et à la danse. Les fanatiques s’y opposèrent, par envie. Ils dirent que Jelāl était devenu fou, tout comme les chefs de la Mecque l’avaient dit autrefois du Prophète. Sa prétendue maladie fut attribuée à l’influence maléfique de Shemsu-’d-Dīn de Tebrīz.
 
@@ -166,7 +166,7 @@ Jelâl sortit alors de la chambre, tenant le bouquet à la main. Voyant sa femme
 
 Le lendemain, elle envoya sa servante, avec quelques feuilles de son bouquet, au marché des parfumeurs de la ville, pour s'informer des fleurs qui le composaient, car elle n'en avait jamais vu de pareilles. Les marchands furent tous également étonnés ; personne n'avait jamais vu de feuilles pareilles.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Finalement, cependant, un marchand d'épices de l'Inde, qui séjournait alors à Qonya, vit ces feuilles et reconnut qu'il s'agissait des pétales d'une fleur qui pousse dans le sud de l'Inde, dans les environs de Ceylan.
 
@@ -184,7 +184,7 @@ Pour prouver que l'homme vit par la seule volonté de Dieu et non par le sang, J
 
 L'un des disciples de Jelāl mourut et ses amis se consultèrent pour savoir s'il devait être enterré dans un cercueil ou sans cercueil.
 
-Un autre disciple, après que Jelāl eut été consulté et <span id="p27">[<sup><small>p. 27</small></sup>]</span> leur eut dit de faire ce qu'ils voulaient, fit l'observation qu'il serait préférable d'enterrer leur parent sans cercueil. Lorsqu'on lui demanda pourquoi, il répondit : « Une mère peut mieux nourrir son enfant que le frère de son enfant. La terre est la mère de la race humaine, et le bois d'un cercueil est aussi l'enfant de la terre ; par conséquent, le cercueil est le frère de l'homme. Le cadavre de l'homme ne doit donc pas être confié à un cercueil, mais à la mère terre, son parent aimant et affectueux. »
+Un autre disciple, après que Jelāl eut été consulté et <span id="p27"><sup><small>[ p. 27 ]</small></sup></span> leur eut dit de faire ce qu'ils voulaient, fit l'observation qu'il serait préférable d'enterrer leur parent sans cercueil. Lorsqu'on lui demanda pourquoi, il répondit : « Une mère peut mieux nourrir son enfant que le frère de son enfant. La terre est la mère de la race humaine, et le bois d'un cercueil est aussi l'enfant de la terre ; par conséquent, le cercueil est le frère de l'homme. Le cadavre de l'homme ne doit donc pas être confié à un cercueil, mais à la mère terre, son parent aimant et affectueux. »
 
 Jelāl exprima son admiration pour cette doctrine pertinente et sublime, qui, dit-il, ne se trouvait écrite dans aucun livre existant à l'époque.
 
@@ -194,7 +194,7 @@ Le nom du disciple qui fit cette belle remarque était Kerīmu-’d-Dīn, fils d
 
 Plusieurs des principaux disciples de Jelāl ont raconté qu'il leur expliqua lui-même, comme raisons pour lesquelles il institua le service musical de son ordre, avec leurs danses, les réflexions suivantes :
 
-« Dieu a une grande considération pour le peuple romain. En réponse à une prière du premier calife, Abû-Bekr, Dieu a fait des Romains le principal réceptacle de sa miséricorde ; et le pays des Romains (Asie Mineure) est le plus beau de la surface de la terre. Mais les habitants de ce pays étaient totalement dépourvus de toute idée des richesses de l’amour envers Dieu et de la moindre nuance de goût pour les délices de la vie intérieure et spirituelle. Le grand Causeur de toutes les causes a fait surgir une source d’affection et, du désert de l’absence de cause, a fait surgir un moyen par lequel je fus attiré hors du pays du Khurasân vers le pays des Romains. Ce pays, Il en a fait une demeure pour mes enfants et ma postérité, afin que, par l’élixir de sa grâce, le cuivre de leur existence puisse être transmuté en or et en pierre philosophale, et qu’eux-mêmes soient reçus dans la communion des <span id="p28">[<sup><small>p. 28</small></sup>]</span> saints. « Quand je m'aperçus qu'ils n'avaient aucun penchant pour la pratique des austérités religieuses, et aucune connaissance des mystères divins, j'imaginai d'organiser des exhortations métriques et des services musicaux, comme étant captivants pour les esprits, et plus particulièrement pour les Romains, qui sont naturellement d'un tempérament vif et friands d'expositions incisives. De même qu'on persuade un enfant malade de prendre un médicament salutaire, quoique nauséabond, de même, de la même manière, les Romains étaient amenés par l'art à acquérir le goût de la vérité spirituelle. »
+« Dieu a une grande considération pour le peuple romain. En réponse à une prière du premier calife, Abû-Bekr, Dieu a fait des Romains le principal réceptacle de sa miséricorde ; et le pays des Romains (Asie Mineure) est le plus beau de la surface de la terre. Mais les habitants de ce pays étaient totalement dépourvus de toute idée des richesses de l’amour envers Dieu et de la moindre nuance de goût pour les délices de la vie intérieure et spirituelle. Le grand Causeur de toutes les causes a fait surgir une source d’affection et, du désert de l’absence de cause, a fait surgir un moyen par lequel je fus attiré hors du pays du Khurasân vers le pays des Romains. Ce pays, Il en a fait une demeure pour mes enfants et ma postérité, afin que, par l’élixir de sa grâce, le cuivre de leur existence puisse être transmuté en or et en pierre philosophale, et qu’eux-mêmes soient reçus dans la communion des <span id="p28"><sup><small>[ p. 28 ]</small></sup></span> saints. « Quand je m'aperçus qu'ils n'avaient aucun penchant pour la pratique des austérités religieuses, et aucune connaissance des mystères divins, j'imaginai d'organiser des exhortations métriques et des services musicaux, comme étant captivants pour les esprits, et plus particulièrement pour les Romains, qui sont naturellement d'un tempérament vif et friands d'expositions incisives. De même qu'on persuade un enfant malade de prendre un médicament salutaire, quoique nauséabond, de même, de la même manière, les Romains étaient amenés par l'art à acquérir le goût de la vérité spirituelle. »
 
 ## 14.
 
@@ -209,7 +209,7 @@ Il se trouve que l'ode de Jelāl venait d'être connue à Shiraz, et elle commen
 
 Cette ode avait captivé les esprits de tous les hommes cultivés de la ville, et c'est cette ode que Sa'dî choisit, écrivit et envoya au prince avec la remarque suivante : « Un monarque, d'un avènement propice, a surgi dans le pays de Rome, de l'intimité duquel se trouvent quelques-uns des souffles. Jamais de plus belles paroles n'ont été prononcées et ne le seront jamais. Si seulement je pouvais aller à Rome et me frotter le visage dans la poussière sous ses pieds ! »
 
-Le prince remercia vivement Sa'dī et lui envoya en retour de précieux présents. Finalement, Sa'dī se rendit à <span id="p29">[<sup><small>p. 29</small></sup>]</span> « Rome », arriva à Qonya et eut la satisfaction de baiser la main de Jelāl. Il fut bien reçu dans cette ville par le cercle des derviches.
+Le prince remercia vivement Sa'dī et lui envoya en retour de précieux présents. Finalement, Sa'dī se rendit à <span id="p29"><sup><small>[ p. 29 ]</small></sup></span> « Rome », arriva à Qonya et eut la satisfaction de baiser la main de Jelāl. Il fut bien reçu dans cette ville par le cercle des derviches.
 
 Le prince était lui-même un disciple du cheikh ... 'd-Dîn, de Bakharz (au Khurasan, à mi-chemin entre Turshiz et Herat), à qui il envoya une copie de l'ode, pour savoir ce que le cheikh en penserait. Tous les savants de Bakharz se rassemblèrent autour du cheikh. Il lut attentivement l'ode, puis éclata en exclamations de joie la plus folle et de fervente admiration, déchirant ses vêtements et agissant comme un fou. Finalement, il se calma et dit : « Ô homme merveilleux ! Ô toi champion de la foi ! Toi pôle des cieux et de la terre ! En vérité, tu es un sultan merveilleux, qui est apparu sur terre ! En vérité, tous les cheikhs des siècles passés qui étaient des voyants, ont été frustrés de n'avoir pas vu cet homme ! Ils auraient supplié le Seigneur de la Vérité de leur permettre de le rencontrer ! Mais cela ne devait pas être ; et cette miséricorde durera jusqu'à la fin des temps, comme cela a été chanté :
 
@@ -218,7 +218,7 @@ Le prince était lui-même un disciple du cheikh ... 'd-Dîn, de Bakharz (au Khu
 
 « Il faut chausser des souliers repassés et prendre en main un bâton repassé pour partir immédiatement et visiter cette grande lumière. Je fais un héritage à tous mes amis de le faire sans le moindre délai, s'ils en ont les moyens et la force, afin d'avoir le bonheur et l'honneur de faire la connaissance de ce prince, obtenant ainsi la grâce et la faveur de l'entendre. Son père, Baha Veled, et ses ancêtres étaient de grands Cheikhs et des plus illustres ; leur grand ancêtre ayant été le premier Calife, Abū-Bekr, le glorieux Confirmateur de la vérité dite par l'Apôtre de Dieu. Je suis moi-même vieux et infirme, incapable des fatigues du voyage. Autrement, j'aurais marché, non sur la plante des pieds, mais sur la pointe de mes gros orteils, pour visiter cet homme éminent. »
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 Le fils aîné du Cheikh, Muzahhiru-’d-Dīn, était présent. Le Cheikh s’adressa à lui en ces termes : « Mon fils, j’espère que tes yeux contempleront ce visage sacré et, si Dieu le veut, transmets-lui mes salutations et mes respects. »
 
@@ -236,7 +236,7 @@ Mais au bout de ce temps, il en parla et dit à sa femme de ne plus s'inquiéter
 
 ## 16.
 
-Un des principaux disciples de Jelāl, boucher de son état, dresseur de chiens de chasse et fournisseur de chevaux de la meilleure race qu'il vendait à des prix élevés aux princes et aux grands, raconta qu'à un certain <span id="p31">[<sup><small>p. 31</small></sup>]</span> moment, Jelāl fut très agité par des visions du monde spirituel, de sorte que pendant quarante jours il fut comme hors de lui, marchant dans les rues, la tête nue et le turban enroulé autour du cou.
+Un des principaux disciples de Jelāl, boucher de son état, dresseur de chiens de chasse et fournisseur de chevaux de la meilleure race qu'il vendait à des prix élevés aux princes et aux grands, raconta qu'à un certain <span id="p31"><sup><small>[ p. 31 ]</small></sup></span> moment, Jelāl fut très agité par des visions du monde spirituel, de sorte que pendant quarante jours il fut comme hors de lui, marchant dans les rues, la tête nue et le turban enroulé autour du cou.
 
 Un jour, il se rendit chez le boucher, tout en sueur, et lui dit qu'il voulait seller immédiatement un certain cheval non dressé. Le boucher, avec l'aide de trois palefreniers, réussit avec la plus grande difficulté à seller le cheval et à le faire sortir. Jelâl le monta sans opposition et partit en direction du sud. Le boucher lui demanda s'il pouvait l'accompagner, et Jelâl répondit : « Transmettez-moi vos prières et vos vœux sacrés. »
 
@@ -248,7 +248,7 @@ Le troisième jour, il revint, monta un troisième cheval et revint comme la pre
 
 Le boucher fut trop étonné de sa manière pour se sentir enclin à demander ce que ces paroles pouvaient signifier, mais un certain nombre de jours après, une grande caravane arriva à Qonya de Syrie, et apporta la nouvelle que l'armée mogol avait assiégé Damas et l'avait réduite à l'étroit.
 
-Helaw Khan (Holagu, Helagu) avait pris Bagdad en 655 H. (1257-58 ap. J.-C.). Deux ans plus tard, en 657 H. (1259-60 ap. J.-C.), il avança contre Alep et la Syrie, envoyant son général, Ketbuga, contre Damas avec une nombreuse armée. Il assiégea la ville. Mais les habitants <span id="p32">[<sup><small>p. 32</small></sup>]</span> virent de leurs propres yeux que Jelāl était venu s'y joindre aux forces de l'Islam. Il infligea une défaite aux forces mogols, qui furent obligées de battre en retraite, totalement frustrées.
+Helaw Khan (Holagu, Helagu) avait pris Bagdad en 655 H. (1257-58 ap. J.-C.). Deux ans plus tard, en 657 H. (1259-60 ap. J.-C.), il avança contre Alep et la Syrie, envoyant son général, Ketbuga, contre Damas avec une nombreuse armée. Il assiégea la ville. Mais les habitants <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> virent de leurs propres yeux que Jelāl était venu s'y joindre aux forces de l'Islam. Il infligea une défaite aux forces mogols, qui furent obligées de battre en retraite, totalement frustrées.
 
 Le boucher fut comblé de joie par cette heureuse nouvelle et alla aussitôt en informer Jelâl. Ce dernier répondit en souriant : « Oui, oui ! Jelâlu-’d-Dîn était le cavalier qui remporta une victoire sur l’ennemi et se montra un sultan aux yeux des gens de l’Islam. » En entendant cela, ses disciples déchirèrent l’air de leurs cris de joie et de triomphe, et les habitants de Qonya décorèrent et illuminaient la ville, organisant des réjouissances publiques.
 
@@ -262,7 +262,7 @@ Ses correspondants lui dirent que le Sheykhu-’l-Islām de la capitale avait un
 
 Le marchand trouva le dignitaire logé dans un grand palais, avec des gardes à la porte, une foule de serviteurs et de serviteurs dans la cour, et des eunuques, des pages, des palefreniers, des huissiers, des chambellans et autres dans les salles.
 
-Se tournant vers ses guides, il exprima quelques doutes <span id="p33">[<sup><small>p. 33</small></sup>]</span> quant à savoir s'ils ne l'avaient pas conduit par erreur au palais du roi. Ils apaissèrent ses craintes et le conduisirent en présence de la grande fontaine d'érudition juridique. Il éprouva une grande aversion pour tout ce qu'il vit et il fit remarquer à ses amis : « Un grand avocat n'est jamais pire parce qu'il a la conscience tranquille. Un médecin peut lui-même se permettre des sucreries, mais il ne les prescrit pas à un malade qui a de la fièvre. »
+Se tournant vers ses guides, il exprima quelques doutes <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> quant à savoir s'ils ne l'avaient pas conduit par erreur au palais du roi. Ils apaissèrent ses craintes et le conduisirent en présence de la grande fontaine d'érudition juridique. Il éprouva une grande aversion pour tout ce qu'il vit et il fit remarquer à ses amis : « Un grand avocat n'est jamais pire parce qu'il a la conscience tranquille. Un médecin peut lui-même se permettre des sucreries, mais il ne les prescrit pas à un malade qui a de la fièvre. »
 
 Il offrit alors ses présents et demanda au grand avocat s'il pouvait résoudre un doute qui le tourmentait alors. Il lui répondit ainsi : « J'ai subi dernièrement une série de pertes. Pouvez-vous m'indiquer un moyen de me sortir de cette situation malheureuse ? Je donne chaque année aux pauvres la quarantième partie de mes biens et je fais en outre des aumônes dans la mesure de mes moyens. Je ne peux donc pas concevoir pourquoi je suis malheureux. »
 
@@ -270,7 +270,7 @@ Il fit encore d'autres remarques dans le même sens. Elles ne parurent pas au gr
 
 Le lendemain, il demanda à ses amis s’il n’y avait pas par hasard dans la grande ville quelque pauvre mendiant d’une piété exemplaire, à qui il pourrait offrir ses respects et de qui il pourrait peut-être apprendre ce qu’il désirait savoir, ainsi que des conseils qui lui seraient utiles. Ils lui répondirent : « Un homme tel que tu le décris est notre Seigneur, Jelâlu-’d-Dîn. Il a abandonné tous les plaisirs, sauf son amour pour Dieu. Non seulement il a renoncé à tout souci des choses du monde, mais il a aussi renoncé à tout souci d’un état futur. Il passe ses nuits, aussi bien que ses jours, à adorer Dieu ; il est un véritable océan de connaissances dans tous les domaines temporels et spirituels. »
 
-Le marchand de Tebrīz fut enchanté de cette nouvelle. Il demanda à voir ce saint homme dont la seule évocation des vertus l'avait rempli <span id="p34">[<sup><small>p. 34</small></sup>]</span> de joie. On le conduisit donc au collège de Jelāl, le marchand s'étant muni en secret d'un rouleau de cinquante sequins d'or en offrande au saint.
+Le marchand de Tebrīz fut enchanté de cette nouvelle. Il demanda à voir ce saint homme dont la seule évocation des vertus l'avait rempli <span id="p34"><sup><small>[ p. 34 ]</small></sup></span> de joie. On le conduisit donc au collège de Jelāl, le marchand s'étant muni en secret d'un rouleau de cinquante sequins d'or en offrande au saint.
 
 Lorsqu'ils arrivèrent au collège, Jelâl était assis seul dans la salle de conférence, plongé dans l'étude de quelques livres. Le groupe fit ses révérences et le marchand se sentit complètement accablé à l'aspect du vénérable professeur ; il fondit en larmes et ne put prononcer un mot. Jelâl lui adressa donc la parole en ces termes :
 
@@ -278,7 +278,7 @@ Lorsqu'ils arrivèrent au collège, Jelâl était assis seul dans la salle de co
 
 Le marchand fut également étonné et ravi par ces paroles, mais plus encore lorsque Jelâl poursuivit son discours : « La cause et la raison de tes pertes et de tes malheurs passés, c'est qu'un certain jour tu étais à l'ouest du Firengistân (Europe), où tu es entré dans un certain quartier d'une certaine ville, et tu as vu un pauvre Firengî (Européen), l'un des plus grands saints chéris de Dieu, qui était étendu au coin d'une place de marché. En passant près de lui, tu as craché sur lui, montrant que tu le méprisais. Son cœur était attristé par ton acte et ton comportement. De là les visites qui t'ont affligé. Va donc et fais la paix avec lui, en lui demandant pardon et en lui offrant nos salutations. »
 
-Le marchand fut pétrifié à cette annonce. Jelâl lui demanda alors : « Veux-tu que nous te le montrions à l'instant ? » En disant cela, il posa sa main sur le mur de l'appartement et dit au marchand de regarder. <span id="p35">[<sup><small>p. 35</small></sup>]</span> Aussitôt, une porte s'ouvrit dans le mur et le marchand aperçut cet homme à Firengistân, couché sur une place de marché. A cette vue, il baissa la tête et déchira ses vêtements, s'éloignant de la présence du saint dans un état de stupeur. Il se souvint de tous ces incidents comme de faits réels.
+Le marchand fut pétrifié à cette annonce. Jelâl lui demanda alors : « Veux-tu que nous te le montrions à l'instant ? » En disant cela, il posa sa main sur le mur de l'appartement et dit au marchand de regarder. <span id="p35"><sup><small>[ p. 35 ]</small></sup></span> Aussitôt, une porte s'ouvrit dans le mur et le marchand aperçut cet homme à Firengistân, couché sur une place de marché. A cette vue, il baissa la tête et déchira ses vêtements, s'éloignant de la présence du saint dans un état de stupeur. Il se souvint de tous ces incidents comme de faits réels.
 
 Il commença immédiatement ses préparatifs, partit sans délai et atteignit la ville en question. Il s'enquit du pupille qu'il désirait visiter et de l'homme qu'il avait offensé. Il le trouva couché, étendu comme Jelâl le lui avait montré. Le marchand descendit de sa bête et fit sa révérence au derviche Firengî prosterné, qui lui dit aussitôt : « Que veux-tu que je fasse ? Notre Seigneur Jelâl ne me le permet pas ; autrement, j'aurais voulu te faire voir la puissance de Dieu et ce que je suis. Mais maintenant, approche-toi. »
 
@@ -293,7 +293,7 @@ Lorsque le marchand arriva à Qonya, il présenta les salutations du saint Firen
 
 ## 18.
 
-Jelāl passait un jour par une rue où deux hommes se disputaient. Il se tenait d'un côté. L'un des <span id="p36">[<sup><small>p. 36</small></sup>]</span> hommes interpella l'autre : « Dis ce que tu veux, tu m'entendras mille fois plus pour chaque mot que tu prononceras. »
+Jelāl passait un jour par une rue où deux hommes se disputaient. Il se tenait d'un côté. L'un des <span id="p36"><sup><small>[ p. 36 ]</small></sup></span> hommes interpella l'autre : « Dis ce que tu veux, tu m'entendras mille fois plus pour chaque mot que tu prononceras. »
 
 Alors Jelāl s'avança et s'adressa à cet orateur en disant : « Non, non ! Quoi que tu aies à dire, dis-le-moi ; et pour chaque millier de mots que tu me diras, tu n'entendras de moi qu'un seul mot. »
 
@@ -315,7 +315,7 @@ Le juriste commença alors à réciter le texte (du Coran xxii. 44) : « Et d’
 
 « Une dispute s'éleva alors entre les deux sur ce point. Elle dura tout le reste de la journée et jusqu'à une nuit noire de jais ; chaque auteur fut fouillé par eux, page par page, chacun soutenant sa propre théorie du mot. Aucune conclusion ne fut tirée, et chaque opposant demeura toujours sur sa propre opinion.
 
-« Il arriva que dans l'obscurité, le grammairien glissa dans <span id="p37">[<sup><small>p. 37</small></sup>]</span> le puits et tomba au fond. Là, il poussa un cri de supplication : « Ô mon très courtois compagnon de voyage, prête-moi ton aide pour m'extraire de ce gouffre des plus ténébreux. »
+« Il arriva que dans l'obscurité, le grammairien glissa dans <span id="p37"><sup><small>[ p. 37 ]</small></sup></span> le puits et tomba au fond. Là, il poussa un cri de supplication : « Ô mon très courtois compagnon de voyage, prête-moi ton aide pour m'extraire de ce gouffre des plus ténébreux. »
 
 « Le juriste exprima aussitôt sa plus grande volonté de lui prêter son aide, à une seule condition insignifiante : qu’il avoue son erreur et consente à supprimer le hiatus dans le mot « bi’r ». La réponse du grammairien fut « Jamais ». Il resta donc dans le puits. »
 
@@ -329,7 +329,7 @@ Il y avait un grand et bon gouverneur (apparemment) de Qonya, du nom de Mu‘īn
 
 Un jour, une troupe de derviches et de savants se réunirent pour porter aux nues le Perwâna, en présence de Jelâl. Il acquiesça à tout ce qu'ils avancèrent à ce sujet, et ajouta : « Le Perwâna mérite au centuple tous vos éloges. Mais il y a un autre côté à la question, qui peut être illustré par l'anecdote suivante :
 
-« Un jour, un groupe de pèlerins se dirigeait vers <span id="p38">[<sup><small>p. 38</small></sup>]</span> la Mecque, lorsque le chameau de l'un d'eux tomba dans le désert, complètement épuisé. Le chameau ne put se relever. Sa charge fut donc transférée sur une autre bête, la bête tombée fut abandonnée à son sort, et la caravane reprit son voyage.
+« Un jour, un groupe de pèlerins se dirigeait vers <span id="p38"><sup><small>[ p. 38 ]</small></sup></span> la Mecque, lorsque le chameau de l'un d'eux tomba dans le désert, complètement épuisé. Le chameau ne put se relever. Sa charge fut donc transférée sur une autre bête, la bête tombée fut abandonnée à son sort, et la caravane reprit son voyage.
 
 « Bientôt le chameau tombé fut entouré d'un cercle de bêtes sauvages et voraces : loups, chacals, etc. Mais aucun d'entre eux n'osa l'attaquer. Les membres de la caravane se rendirent compte de cette singularité et l'un d'eux retourna enquêter sur la question. Il découvrit qu'une amulette avait été laissée suspendue au cou de l'animal ; il l'enleva. Lorsqu'il se fut retiré à une courte distance, les brutes affamées s'abattirent sur le pauvre chameau et le déchirèrent bientôt en morceaux. »
 
@@ -341,7 +341,7 @@ On dit que ces paroles furent prononcées peu de temps avant la mort de Jelâl. 
 
 Au cours d'une de ses expositions, Jelāl dit : « Tu ne vois rien, sauf que tu y vois Dieu. »
 
-Un derviche s'avança et objecta que le terme « là » <span id="p39">[<sup><small>p. 39</small></sup>]</span> indiquait un réceptacle, alors qu'on ne pouvait pas dire de Dieu qu'Il soit compréhensible par un réceptacle quelconque, car cela impliquerait une contradiction dans les termes. Jelāl lui répondit comme suit :
+Un derviche s'avança et objecta que le terme « là » <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> indiquait un réceptacle, alors qu'on ne pouvait pas dire de Dieu qu'Il soit compréhensible par un réceptacle quelconque, car cela impliquerait une contradiction dans les termes. Jelāl lui répondit comme suit :
 
 « Si cette proposition irréfutable n’avait pas été vraie, nous ne l’aurions pas proposée. Il y a là, en vérité, une contradiction dans les termes ; mais c’est une contradiction dans le temps, de sorte que le réceptacle et le reçu peuvent différer, être deux choses distinctes ; de même que l’univers des qualités de Dieu est le réceptacle de l’univers de l’essence de Dieu. Mais ces deux univers sont en réalité un. Le premier d’entre eux n’est pas Lui ; le second n’est pas autre que Lui. Ces deux choses, apparemment, sont en vérité une et la même chose. Comment, alors, une contradiction dans les termes est-elle impliquée ? Dieu comprend l’extérieur et l’intérieur. Si nous ne pouvons pas dire qu’Il est l’intérieur, Il n’inclura pas l’intérieur. Mais Il comprend tout, et en Lui toutes choses ont leur être. Il est donc aussi le réceptacle, comprenant toutes les existences, comme le dit le Coran (xli. 54) : « Il comprend toutes choses. »
 
@@ -351,7 +351,7 @@ Le derviche fut convaincu, s'inclina et se déclara disciple.
 
 Jelāl était un jour assis dans la boutique de son grand disciple le batteur d’or, Salāhu-’d-Dīn, entouré d’autres disciples qui écoutaient son discours, lorsqu’un vieil homme entra en courant, se frappant la poitrine et poussant de fortes lamentations. Il supplia Jelāl de l’aider dans ses efforts pour retrouver son petit garçon, un enfant de sept ans, perdu depuis plusieurs jours, malgré tous les efforts faits pour le retrouver.
 
-Jelâl exprima sa désapprobation devant l'extrême importance que le vieil homme semblait attacher à sa perte et dit : « L'humanité en général a perdu son Dieu. Pourtant, on n'entend pas dire qu'ils vont à sa recherche, se frappant la poitrine et faisant un grand bruit. Que t'est-il donc arrivé de si particulier, pour <span id="p40">[<sup><small>p. 40</small></sup>]</span> que tu fasses tout ce tapage et que tu te dégrades, toi, un vieillard, par ces symptômes de chagrin pour la perte d'un petit enfant ? Pourquoi ne cherches-tu pas un moment le Seigneur du monde entier, en implorant Son aide, afin que ton Joseph perdu soit peut-être retrouvé, et que tu sois consolé, comme le fut Jacob lors de la récupération de son enfant ? »
+Jelâl exprima sa désapprobation devant l'extrême importance que le vieil homme semblait attacher à sa perte et dit : « L'humanité en général a perdu son Dieu. Pourtant, on n'entend pas dire qu'ils vont à sa recherche, se frappant la poitrine et faisant un grand bruit. Que t'est-il donc arrivé de si particulier, pour <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> que tu fasses tout ce tapage et que tu te dégrades, toi, un vieillard, par ces symptômes de chagrin pour la perte d'un petit enfant ? Pourquoi ne cherches-tu pas un moment le Seigneur du monde entier, en implorant Son aide, afin que ton Joseph perdu soit peut-être retrouvé, et que tu sois consolé, comme le fut Jacob lors de la récupération de son enfant ? »
 
 Le vieil homme suivit aussitôt le conseil de Jelâl et demanda pardon à Dieu. C'est alors qu'on lui apporta la nouvelle que son fils avait été retrouvé. Beaucoup de témoins de ces événements devinrent des disciples dévoués de Jelâl.
 
@@ -359,7 +359,7 @@ Le vieil homme suivit aussitôt le conseil de Jelâl et demanda pardon à Dieu. 
 
 Jelāl donnait un jour une conférence, lorsqu'un jeune homme distingué entra, se fraya un chemin et prit un siège plus haut qu'un vieil homme, l'un des membres de l'auditoire.
 
-Jelâl fit aussitôt cette remarque : « Autrefois, Dieu ordonnait que si un jeune homme prenait le pas sur un vieillard, la terre l’engloutît aussitôt ; telle était la punition divine pour cette faute. Mais maintenant, je vois que les jeunes gens, à peine sortis de la chaîne, ne respectent pas l’âge, mais piétinent ceux qui sont âgés. Ils ne craignent pas que la terre les engloutisse, ni d’être transformés en singes. »[^12] Or, il arriva qu’un matin, le Lion victorieux de Dieu, ‘Alî, fils d’Abû-Tâlib, sortait précipitamment de sa maison pour faire ses dévotions à l’aube dans la mosquée du Prophète. Sur son chemin, il rencontra un vieillard, un Juif, qui allait dans la même direction. Le futur calife, par noblesse et politesse innées, respectait l’âge du Juif et ne voulait pas le dépasser, bien que le Juif fût lent. Quand ‘Alī arriva à la mosquée, le Prophète était déjà prosterné dans ses dévotions et s’apprêtait à chanter le « Gloria » ; mais, sur ordre de Dieu, Gabriel descendit, posa sa main sur l’épaule du Prophète et l’arrêta, de peur que ‘Alī ne perde <span id="p41">[<sup><small>p. 41</small></sup>]</span> le mérite attaché à sa présence à l’ouverture de l’office de l’aube ; car il est plus méritoire d’accomplir ce service matinal une fois, que d’accomplir les dévotions de cent ans à d’autres heures de la journée. Le Prophète a dit : « Le premier acte de révérence lors du culte de l’aube a plus de valeur que le monde et tout ce qu’il contient. »
+Jelâl fit aussitôt cette remarque : « Autrefois, Dieu ordonnait que si un jeune homme prenait le pas sur un vieillard, la terre l’engloutît aussitôt ; telle était la punition divine pour cette faute. Mais maintenant, je vois que les jeunes gens, à peine sortis de la chaîne, ne respectent pas l’âge, mais piétinent ceux qui sont âgés. Ils ne craignent pas que la terre les engloutisse, ni d’être transformés en singes. »[^12] Or, il arriva qu’un matin, le Lion victorieux de Dieu, ‘Alî, fils d’Abû-Tâlib, sortait précipitamment de sa maison pour faire ses dévotions à l’aube dans la mosquée du Prophète. Sur son chemin, il rencontra un vieillard, un Juif, qui allait dans la même direction. Le futur calife, par noblesse et politesse innées, respectait l’âge du Juif et ne voulait pas le dépasser, bien que le Juif fût lent. Quand ‘Alī arriva à la mosquée, le Prophète était déjà prosterné dans ses dévotions et s’apprêtait à chanter le « Gloria » ; mais, sur ordre de Dieu, Gabriel descendit, posa sa main sur l’épaule du Prophète et l’arrêta, de peur que ‘Alī ne perde <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> le mérite attaché à sa présence à l’ouverture de l’office de l’aube ; car il est plus méritoire d’accomplir ce service matinal une fois, que d’accomplir les dévotions de cent ans à d’autres heures de la journée. Le Prophète a dit : « Le premier acte de révérence lors du culte de l’aube a plus de valeur que le monde et tout ce qu’il contient. »
 
 « Lorsque l’Apôtre de Dieu eut terminé son adoration, offert ses prières habituelles et récité ses leçons habituelles du Coran, il se tourna et demanda à Gabriel la cause occulte de son interruption à ce moment-là. Gabriel répondit que Dieu n’avait pas jugé bon que ‘Alī soit privé du mérite attaché à l’accomplissement de la première partie de l’adoration de l’aube, à cause du respect qu’il avait montré au vieux Juif qu’il avait rattrapé, mais qu’il ne voulait pas dépasser.
 
@@ -369,7 +369,7 @@ Jelâl fit aussitôt cette remarque : « Autrefois, Dieu ordonnait que si un jeu
 
 ## 24.
 
-Un jour Jelāl prit comme texte les mots suivants (Coran xxxi. 18) : « En vérité, le plus discordant de tous les sons <span id="p42">[<sup><small>p. 42</small></sup>]</span> est la voix des ânes. » Il posa alors la question : « Mes amis savent-ils ce que cela signifie ? »
+Un jour Jelāl prit comme texte les mots suivants (Coran xxxi. 18) : « En vérité, le plus discordant de tous les sons <span id="p42"><sup><small>[ p. 42 ]</small></sup></span> est la voix des ânes. » Il posa alors la question : « Mes amis savent-ils ce que cela signifie ? »
 
 La congrégation s'inclina et le supplia de leur expliquer le message. Jelāl poursuivit donc :
 
@@ -387,7 +387,7 @@ La congrégation s'inclina et le supplia de leur expliquer le message. Jelāl po
 
 ## 25.
 
-Un jour, le Seigneur Jelālu-’d-Dīn se rendit à la résidence de campagne du saint Husāmu-’d-Dīn, monté sur un <span id="p43">[<sup><small>p. 43</small></sup>]</span> âne. Il fit cette remarque : « C’est la bête de selle des justes. Plusieurs prophètes sont montés sur des ânes : comme Seth, Esdras, Jésus et Mahomet. »
+Un jour, le Seigneur Jelālu-’d-Dīn se rendit à la résidence de campagne du saint Husāmu-’d-Dīn, monté sur un <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> âne. Il fit cette remarque : « C’est la bête de selle des justes. Plusieurs prophètes sont montés sur des ânes : comme Seth, Esdras, Jésus et Mahomet. »
 
 Il arriva qu'un de ses disciples était monté sur un âne, et celui-ci se mit à braire, et le cavalier, irrité par cet incident, frappa l'âne à la tête à plusieurs reprises.
 
@@ -401,7 +401,7 @@ Un jour, un de ses disciples se plaignit à Jelâl de la faiblesse de ses moyens
 
 « Il arriva un jour qu'un certain disciple du Prophète lui dit : « Je t'aime ! » Le Prophète répondit : « Pourquoi tardes-tu alors ? Hâte-toi de revêtir une cuirasse d'acier et prépare-toi à affronter les malheurs. Prépare-toi aussi à endurer la détresse, don spécial des amis et des amants (de Dieu et de son Apôtre) ! »
 
-Il raconte une autre anecdote : « Un adepte gnostique demanda un jour à un homme riche ce qu’il aimait le plus, les richesses ou le péché. Ce dernier <span id="p44">[<sup><small>p. 44</small></sup>]</span> répondit qu’il aimait le plus les richesses. L’autre répliqua : « Tu ne dis pas la vérité. Tu préfères aimer le péché et le malheur. Ne vois-tu pas que tu laisses tes richesses derrière toi, tandis que tu portes ton péché et ton malheur avec toi, te rendant ainsi répréhensible aux yeux de Dieu ! Sois un homme ! Efforce-toi de porter tes richesses avec toi, et ne pèche pas, car tu aimes tes richesses. Ce que tu dois faire, c’est ceci : envoie tes richesses à Dieu avant de Le précéder toi-même ; peut-être qu’elles te rapporteront quelque avantage, comme Dieu l’a dit (Coran lxxiii. 20) : « Et ce que vous envoyez en avance, pour vos âmes, en bonnes œuvres, vous le trouverez auprès de Dieu. Il est le meilleur et le plus grand en récompense. »
+Il raconte une autre anecdote : « Un adepte gnostique demanda un jour à un homme riche ce qu’il aimait le plus, les richesses ou le péché. Ce dernier <span id="p44"><sup><small>[ p. 44 ]</small></sup></span> répondit qu’il aimait le plus les richesses. L’autre répliqua : « Tu ne dis pas la vérité. Tu préfères aimer le péché et le malheur. Ne vois-tu pas que tu laisses tes richesses derrière toi, tandis que tu portes ton péché et ton malheur avec toi, te rendant ainsi répréhensible aux yeux de Dieu ! Sois un homme ! Efforce-toi de porter tes richesses avec toi, et ne pèche pas, car tu aimes tes richesses. Ce que tu dois faire, c’est ceci : envoie tes richesses à Dieu avant de Le précéder toi-même ; peut-être qu’elles te rapporteront quelque avantage, comme Dieu l’a dit (Coran lxxiii. 20) : « Et ce que vous envoyez en avance, pour vos âmes, en bonnes œuvres, vous le trouverez auprès de Dieu. Il est le meilleur et le plus grand en récompense. »
 
 ## 27.
 
@@ -411,7 +411,7 @@ Les chefs de la loi avaient pris place aux plus hautes places. Le Perwâna avait
 
 Là-dessus, le semeur de doutes et d'animosités dans le cœur humain répandit parmi les chefs de la loi présents le soupçon que, si Jelāl venait, la question de la préséance se poserait : « Où devrait-il être assis ? » Ils convinrent tous qu'ils étaient eux-mêmes à leur place et que Jelāl devait trouver un siège où il le pourrait.
 
-Mejdu-’d-Dīn transmit le message courtois du Perwāna à son maître. Jelāl, invitant Husāmu-’d-Dīn et d’autres de ses disciples à l’accompagner, se mit en route pour le <span id="p45">[<sup><small>p. 45</small></sup>]</span> palais du Perwāna. Les disciples partirent un peu en avant, et Jelāl mena le cortège.
+Mejdu-’d-Dīn transmit le message courtois du Perwāna à son maître. Jelāl, invitant Husāmu-’d-Dīn et d’autres de ses disciples à l’accompagner, se mit en route pour le <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> palais du Perwāna. Les disciples partirent un peu en avant, et Jelāl mena le cortège.
 
 Lorsque Husām entra dans l'appartement du Perwāna, tous les assistants se levèrent pour le recevoir et lui firent place sur les sièges supérieurs.Enfin, Jelāl fit son apparition.
 
@@ -425,7 +425,7 @@ Celui-ci, voyant ce qui se passait, et que tous les hommes de rang avaient quitt
 
 Quelqu'un lui répondit : « Dans une assemblée de savants, le siège principal est au milieu du canapé, où s'assoit toujours le professeur. » Un autre ajouta : « Chez les reclus, la cellule de solitude est le siège principal. » Un troisième dit : « Dans les couvents de frères derviches, le siège principal est le bas du canapé, là où, en réalité, les gens ôtent leurs chaussures. »
 
-Après ces remarques, quelqu'un présent, à titre d'expérience, demanda à Jelāl, en disant : « Selon votre règle et votre opinion, où est <span id="p46">[<sup><small>p. 46</small></sup>]</span> le siège principal ? » Sa réponse fut : « Le siège principal est celui où se trouve le bien-aimé. » L'interrogateur demanda alors : « Et où est ton bien-aimé ? » Jelāl répondit : « Tu dois être aveugle pour ne pas voir. »
+Après ces remarques, quelqu'un présent, à titre d'expérience, demanda à Jelāl, en disant : « Selon votre règle et votre opinion, où est <span id="p46"><sup><small>[ p. 46 ]</small></sup></span> le siège principal ? » Sa réponse fut : « Le siège principal est celui où se trouve le bien-aimé. » L'interrogateur demanda alors : « Et où est ton bien-aimé ? » Jelāl répondit : « Tu dois être aveugle pour ne pas voir. »
 
 Jelāl se leva alors et commença à chanter, auquel se joignirent de nombreux chants et qui devinrent si enthousiastes que les nobles déchirèrent leurs vêtements.
 
@@ -441,7 +441,7 @@ Il y avait à Qonya un grand médecin, éminent et compétent, qui rendait visit
 
 Un de ces jours, Jelāl lui demanda de préparer dix-sept potions purgatives pour une certaine heure, propice à la prise de médicaments, car ce nombre de ses amis les demandaient.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 Lorsque le moment fut venu, Jelâl se rendit chez le médecin et prit les dix-sept gorgées, qu'il commença aussitôt et, en présence du médecin, but les dix-sept gorgées d'affilée, avant de retourner chez lui.
 
@@ -457,7 +457,7 @@ On rapporte que le Perwāna a déclaré publiquement, dans son propre palais, qu
 
 Ces paroles leur furent rapportées et la troupe des disciples fut grandement scandalisée par cette imputation. Jelāl envoya une note au Perwāna, dont voici la substance :
 
-« Si mes disciples avaient été de bons hommes, j'aurais été leur disciple. Dans la mesure où ils étaient mauvais, je les ai acceptés comme mes disciples, afin qu'ils se réforment et deviennent bons, <span id="p48">[<sup><small>p. 48</small></sup>]</span> — de la compagnie des justes. Par l'âme de mon père, ils n'ont pas été acceptés comme disciples, jusqu'à ce que Dieu se soit rendu responsable qu'ils parviennent à la miséricorde et à la grâce, admis parmi ceux qu'il a acceptés. Jusqu'à ce que cette assurance leur soit donnée, ils n'ont pas été reçus par moi, et ils n'avaient aucune place dans le cœur des serviteurs de Dieu. 'Les fils de grâce sont sauvés, les enfants de colère sont malades ; à cause de ta miséricorde, nous, un peuple de colère, sommes venus à toi.' »
+« Si mes disciples avaient été de bons hommes, j'aurais été leur disciple. Dans la mesure où ils étaient mauvais, je les ai acceptés comme mes disciples, afin qu'ils se réforment et deviennent bons, <span id="p48"><sup><small>[ p. 48 ]</small></sup></span> — de la compagnie des justes. Par l'âme de mon père, ils n'ont pas été acceptés comme disciples, jusqu'à ce que Dieu se soit rendu responsable qu'ils parviennent à la miséricorde et à la grâce, admis parmi ceux qu'il a acceptés. Jusqu'à ce que cette assurance leur soit donnée, ils n'ont pas été reçus par moi, et ils n'avaient aucune place dans le cœur des serviteurs de Dieu. 'Les fils de grâce sont sauvés, les enfants de colère sont malades ; à cause de ta miséricorde, nous, un peuple de colère, sommes venus à toi.' »
 
 Lorsque le Perwāna eut lu et considéré ces paroles, il s'attacha encore plus à Jelāl ; il se leva, vint à lui, demanda pardon et pria pour le pardon de Dieu, distribuant largement de sa générosité parmi les disciples.
 
@@ -473,7 +473,7 @@ Il y avait un jeune marchand, dont la maison était proche du collège de Jelāl
 
 Il conçut le désir et l'intention de faire un voyage en Egypte, mais ses amis tentèrent de l'en dissuader. Son intention fut rapportée à Jelāl, qui lui interdit strictement et rigoureusement d'entreprendre le voyage.
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Le jeune homme ne pouvait se défaire de son désir et n'avait pas l'esprit tranquille. Aussi, une nuit, il s'enfuit clandestinement et partit pour la Syrie. Arrivé à Antioche, il s'embarqua sur un navire et mit à la voile. Comme Dieu l'avait voulu, son navire fut pris par des pirates firengis. Il fut fait prisonnier et enfermé dans un cachot profond, où on lui distribuait chaque jour une ration de nourriture à peine suffisante pour nourrir son corps et son âme.
 
@@ -487,7 +487,7 @@ Ils le sortirent aussitôt de la fosse, le conduisirent aux bains, l'habillèren
 
 Le jeune marchand, inspiré de Dieu, ordonna qu'on lui apportât sept fruits, qu'il prépara avec un peu de scammonie, et fit du tout une potion qu'il administra au malade.
 
-Par la grâce de Dieu et l'intercession des saints, son traitement fut couronné de succès après deux ou trois visites. Le prince Firengī guérit, et comme la faveur de Jelāl était sur ce jeune marchand, quoique <span id="p50">[<sup><small>p. 50</small></sup>]</span> complètement illettré, il devint philosophe. Jelāl l'assista.
+Par la grâce de Dieu et l'intercession des saints, son traitement fut couronné de succès après deux ou trois visites. Le prince Firengī guérit, et comme la faveur de Jelāl était sur ce jeune marchand, quoique <span id="p50"><sup><small>[ p. 50 ]</small></sup></span> complètement illettré, il devint philosophe. Jelāl l'assista.
 
 Lorsque le prince Firengî fut entièrement rétabli et se leva de son lit de douleur, il dit au jeune marchand de lui demander tout ce qu'il pourrait désirer. Il demanda sa liberté et la permission de retourner chez lui pour rejoindre son maître. Il raconta alors tout ce qui lui était arrivé : sa désobéissance, sa vision et l'aide de Jelâl. Tous les auditeurs de Firengîs, sans voir Jelâl, crurent en lui et se mirent à lui demander grâce.
 
@@ -497,7 +497,7 @@ A son arrivée à la métropole, avant de rentrer chez lui, il s'empressa de ren
 
 ## 32.
 
-Un jour, Jelāl quittait son collège pour se rendre en ville, il rencontra par hasard un moine chrétien qui lui fit une révérence. Jelāl lui demanda qui était le plus âgé, lui-même ou sa barbe. Le moine répondit : « J'ai vingt ans de plus que ma barbe. Elle est apparue ce nombre d'années plus tard. » Jelāl lui répondit : « Alors, j'ai pitié de toi. Ta jeune barbe a atteint la maturité, tandis que toi, tu es resté <span id="p51">[<sup><small>p. 51</small></sup>]</span> immature, comme tu l'étais. Tu es aussi noir, aussi faible et aussi inculte que jamais. Malheur à toi, si tu ne changes pas et ne mûris pas ! »
+Un jour, Jelāl quittait son collège pour se rendre en ville, il rencontra par hasard un moine chrétien qui lui fit une révérence. Jelāl lui demanda qui était le plus âgé, lui-même ou sa barbe. Le moine répondit : « J'ai vingt ans de plus que ma barbe. Elle est apparue ce nombre d'années plus tard. » Jelāl lui répondit : « Alors, j'ai pitié de toi. Ta jeune barbe a atteint la maturité, tandis que toi, tu es resté <span id="p51"><sup><small>[ p. 51 ]</small></sup></span> immature, comme tu l'étais. Tu es aussi noir, aussi faible et aussi inculte que jamais. Malheur à toi, si tu ne changes pas et ne mûris pas ! »
 
 Le pauvre moine renonça aussitôt à sa ceinture de corde, la jeta, professa la foi de l'Islam et devint croyant.
 
@@ -511,7 +511,7 @@ S'étant suffisamment approchés, ils se prosternèrent tous devant Jelâl, enta
 
 ## 34.
 
-Un disciple bien connu a raconté qu'un jour, Jelāl et ses amis se rendirent à la campagne de Husām et y organisèrent une grande fête de musique et de <span id="p52">[<sup><small>p. 52</small></sup>]</span> danse sacrées jusqu'à l'aube, avant de s'arrêter pour donner un peu de repos à ses disciples.
+Un disciple bien connu a raconté qu'un jour, Jelāl et ses amis se rendirent à la campagne de Husām et y organisèrent une grande fête de musique et de <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> danse sacrées jusqu'à l'aube, avant de s'arrêter pour donner un peu de repos à ses disciples.
 
 Ils se dispersèrent dans le jardin et le narrateur s'assit à un endroit d'où il pouvait voir et observer Jelâl. Les autres s'endormirent tous, mais lui s'occupa de réflexions sur les miracles accomplis par divers prophètes et saints. Il se dit : « Je me demande si ce saint homme fait des miracles. Bien sûr qu'il en fait ; seulement, il garde le fait secret, pour éviter les inconvénients de la notoriété. »
 
@@ -527,7 +527,7 @@ Jelâl lui ordonna de porter la pierre à la reine et de lui raconter comment il
 
 Un certain cheikh, fils d'un cheikh, et homme de grande réputation pour son érudition, vint à Qonya, et fut respectueusement visité par toutes les personnes éminentes qui y résidaient.
 
-Il se trouve que Jelāl et ses amis étaient partis ce jour-là pour une mosquée à la campagne, et le nouveau venu, <span id="p53">[<sup><small>p. 53</small></sup>]</span> offensé que Jelāl n'ait pas voulu lui rendre visite, fit la remarque en public : « Jelāl n'a-t-il jamais entendu l'adage : 'Le nouveau venu est visité' ? »
+Il se trouve que Jelāl et ses amis étaient partis ce jour-là pour une mosquée à la campagne, et le nouveau venu, <span id="p53"><sup><small>[ p. 53 ]</small></sup></span> offensé que Jelāl n'ait pas voulu lui rendre visite, fit la remarque en public : « Jelāl n'a-t-il jamais entendu l'adage : 'Le nouveau venu est visité' ? »
 
 L'un des disciples de Jelâl se trouvait par hasard présent et entendit cette remarque. D'un autre côté, Jelâl expliquait à ses disciples des vérités sublimes dans la mosquée, quand soudain il s'exclama : « Mon cher frère ! Je suis le nouveau venu, pas toi. Toi et ceux comme toi devez me rendre visite et ainsi gagner de l'honneur. »
 
@@ -537,7 +537,7 @@ Tous s'accordèrent à dire que l'homme de Bagdad devait être visité par l'aut
 
 Le fils du cheikh fut informé de ce prodige. Il se leva aussitôt, alla à pied voir Jelâl, découvrit sa tête et reconnut que Jelâl avait raison. Il se déclara en outre disciple de Jelâl et dit : « Mon père m’a enjoint de mettre des sandales repassées, de prendre un bâton ferré dans ma main et de partir à la recherche de Jelâlu-’d-Dîn, car c’est un devoir pour tous de rendre visite à celui qui a dit la vérité et qui repose sur la vérité. Mais la majesté de Jelâl est cent fois plus grande que ce que mon père m’a expliqué. »
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 ## 36.
 
@@ -561,7 +561,7 @@ Lorsque les disciples entendirent cela, ils poussèrent un cri, et le Sultan, ap
 
 Certains ont raconté que le renversement final du règne de la dynastie seldjoukide en Asie Mineure (en 700 après J.-C., 1300 après J.-C.) s'est produit de la manière suivante :
 
-Le Sultan Ruknu-’d-Dīn avait adopté Jelāl comme son père (spirituel). Après quelque temps, il organisa une grande fête de derviches <span id="p55">[<sup><small>p. 55</small></sup>]</span> dans son palais. Mais, vers cette époque, un certain Sheykh Bāba s’était créé un grand nom dans le Qonya, et certains intrigants avaient amené le roi à lui rendre visite.
+Le Sultan Ruknu-’d-Dīn avait adopté Jelāl comme son père (spirituel). Après quelque temps, il organisa une grande fête de derviches <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> dans son palais. Mais, vers cette époque, un certain Sheykh Bāba s’était créé un grand nom dans le Qonya, et certains intrigants avaient amené le roi à lui rendre visite.
 
 C'est peu de temps après cette visite que le roi organisa la renaissance en l'honneur de Baba dans la Salle des Bols.
 
@@ -575,7 +575,7 @@ Husāmu-’d-Dīn a raconté qu’il a vu le Sultan, lorsque Jelāl a ainsi quit
 
 Les grands coururent pour arrêter Jelāl, mais il ne voulut pas revenir.
 
-Quelques jours plus tard, les officiers de l'État décidèrent d'inviter le sultan à se rendre dans une autre ville pour prendre des mesures afin de se débarrasser de Sheykh Baba. Le sultan alla alors consulter Jelâl et lui demander sa bénédiction avant de partir. Jelâl <span id="p56">[<sup><small>p. 56</small></sup>]</span> lui conseilla de ne pas y aller. L'affaire avait cependant été officiellement promulguée et il n'y avait aucune possibilité de modifier les dispositions.
+Quelques jours plus tard, les officiers de l'État décidèrent d'inviter le sultan à se rendre dans une autre ville pour prendre des mesures afin de se débarrasser de Sheykh Baba. Le sultan alla alors consulter Jelâl et lui demander sa bénédiction avant de partir. Jelâl <span id="p56"><sup><small>[ p. 56 ]</small></sup></span> lui conseilla de ne pas y aller. L'affaire avait cependant été officiellement promulguée et il n'y avait aucune possibilité de modifier les dispositions.
 
 En arrivant dans l'autre ville, le sultan fut conduit dans un appartement privé et aussitôt étranglé avec la corde d'un arc.Avant que son souffle ne lui manque, il invoqua le nom de Jelâl.
 
@@ -588,7 +588,7 @@ Lorsque le service fut terminé, les disciples demandèrent au fils de Jelâl, S
 
 Il fit office de précenteur et tous les assistants se joignirent à lui. Puis, sans attendre que son fils pose une question, il s’adressa à l’assemblée en disant : « Oui, Baha’u’d-Din et mes amis ! Ils ont étranglé le pauvre Sultan Ruknu-’d-Din. Dans son agonie, il m’appela et poussa un cri. Dieu l’avait ainsi ordonné. Je ne voulais pas que sa voix résonne à mes oreilles et interrompe mes dévotions. Il s’en sortira mieux dans l’autre monde. »
 
-(Il y a un sérieux anachronisme dans le récit précédent. Le sultan Ruknu-’d-Dīn, dont le nom était Suleyman fils de Key-Khusrew, fut mis à mort sur ordre de l'empereur mogol Abaqa Khān, en 664 a.h. (1265 a.d.), trente-six ans avant l'extinction définitive de la dynastie par ordre de Qāzān Khān, entre Abaqa et qui ne régna pas moins de quatre empereurs. En outre, Jelāl lui-même mourut en 672 a.h. (1273 a.d.), vingt-sept ans avant que le dernier des souverains seldjoukides, Key-Qubād fils de Ferrāmurz <span id="p57">[<sup><small>p. 57</small></sup>]</span> fils de Key-Kāwus, ne soit massacré, en même temps que tous les membres vivants de la race. Les historiens diffèrent beaucoup concernant les noms et l'ordre de succession des derniers souverains de la dynastie; et l’anecdote présente montre combien la légende de ces marionnettes était devenue confuse sur place. Ruknu-’d-Dīn fit empoisonner son propre frère, car il était devenu jaloux de la faveur que lui avait témoignée l’empereur mogol. Sa propre mort fut la récompense de cet acte.)
+(Il y a un sérieux anachronisme dans le récit précédent. Le sultan Ruknu-’d-Dīn, dont le nom était Suleyman fils de Key-Khusrew, fut mis à mort sur ordre de l'empereur mogol Abaqa Khān, en 664 a.h. (1265 a.d.), trente-six ans avant l'extinction définitive de la dynastie par ordre de Qāzān Khān, entre Abaqa et qui ne régna pas moins de quatre empereurs. En outre, Jelāl lui-même mourut en 672 a.h. (1273 a.d.), vingt-sept ans avant que le dernier des souverains seldjoukides, Key-Qubād fils de Ferrāmurz <span id="p57"><sup><small>[ p. 57 ]</small></sup></span> fils de Key-Kāwus, ne soit massacré, en même temps que tous les membres vivants de la race. Les historiens diffèrent beaucoup concernant les noms et l'ordre de succession des derniers souverains de la dynastie; et l’anecdote présente montre combien la légende de ces marionnettes était devenue confuse sur place. Ruknu-’d-Dīn fit empoisonner son propre frère, car il était devenu jaloux de la faveur que lui avait témoignée l’empereur mogol. Sa propre mort fut la récompense de cet acte.)
 
 ## 39.
 
@@ -597,7 +597,7 @@ Un jour, alors qu’il donnait une conférence sur l’humilité et l’abaissem
 > « La forme du vieil Adam fut d'abord moulée à partir de l'argile du visage de la nature ;
 > Qui n'est pas, comme la boue, bas d'esprit n'est pas un vrai fils de la race d'Adam.
 
-De la même manière, Jelāl avait aussi la louable habitude de se montrer humble et prévenant envers tous, même les plus humbles, en particulier envers <span id="p58">[<sup><small>p. 58</small></sup>]</span> les enfants et les vieilles femmes. Il les bénissait et s'inclinait toujours devant ceux qui s'inclinaient devant lui, même s'ils n'étaient pas musulmans.
+De la même manière, Jelāl avait aussi la louable habitude de se montrer humble et prévenant envers tous, même les plus humbles, en particulier envers <span id="p58"><sup><small>[ p. 58 ]</small></sup></span> les enfants et les vieilles femmes. Il les bénissait et s'inclinait toujours devant ceux qui s'inclinaient devant lui, même s'ils n'étaient pas musulmans.
 
 Un jour, il rencontra un boucher arménien qui le salua sept fois. Jelâl le salua en retour. Une autre fois, il rencontra par hasard un groupe d'enfants qui jouaient et qui quittèrent leur jeu, coururent vers lui et le saluèrent. Jelâl les salua aussi, à tel point qu'un petit garçon s'écria de loin : « Attendez-moi jusqu'à ce que je vienne. » Jelâl ne s'éloigna pas jusqu'à ce que l'enfant soit venu, se soit incliné et ait été incliné.
 
@@ -615,7 +615,7 @@ Cette réplique plut tellement au Perwāna, qu'il pardonna au coupable, et paya 
 
 Un jour, Jelāl sortit et prêcha sur le marché. La foule se rassembla autour de lui. Mais il continua jusqu'à ce que la nuit tombe autour de lui, et il fut alors laissé seul.
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Les chiens du marché se rassemblèrent alors en cercle autour de lui, remuant la queue et gémissant.
 
@@ -639,7 +639,7 @@ Sa réponse fut : « Un arbre chargé de fruits avait ses branches courbées ver
 
 De nouveau, le Perwāna demanda à Jelāl lui-même de l'instruire et de lui donner des conseils.
 
-Après une petite réflexion, Jelāl dit : « J’ai entendu <span id="p60">[<sup><small>p. 60</small></sup>]</span> dire que tu as appris le Coran par cœur. Est-ce vrai ? » « Oui. » « J’ai entendu dire que tu as étudié, sous la direction d’un grand professeur, le Jāmi‘u-’l-Usūl, ce puissant ouvrage sur les « Éléments de jurisprudence ». Est-ce vrai ? » « C’est vrai. »
+Après une petite réflexion, Jelāl dit : « J’ai entendu <span id="p60"><sup><small>[ p. 60 ]</small></sup></span> dire que tu as appris le Coran par cœur. Est-ce vrai ? » « Oui. » « J’ai entendu dire que tu as étudié, sous la direction d’un grand professeur, le Jāmi‘u-’l-Usūl, ce puissant ouvrage sur les « Éléments de jurisprudence ». Est-ce vrai ? » « C’est vrai. »
 
 « Alors, répondit Jelâl, tu connais la Parole de Dieu et tu sais toutes les paroles et tous les actes rapportés de Son Apôtre. Mais tu les méprises et tu n'atteste pas leurs préceptes. Comment peux-tu alors espérer que mes paroles te seront utiles ? »
 
@@ -653,7 +653,7 @@ Enfin, ils furent conduits également à Jelāl, dans son collège. En le voyant
 
 Lorsqu'ils furent revenus à eux, Jelâl commença à leur présenter des excuses en leur disant : « Je crains que vous n'ayez été trompés, soit par un imposteur, soit par une personne qui me ressemble par ses traits. Il y a des hommes qui se ressemblent beaucoup. »
 
-Les pèlerins objectèrent tous : « Pourquoi parle-t-il ainsi ? Pourquoi s’efforce-t-il de nous faire douter de nos yeux ? Par le Dieu du ciel et de la terre, il était avec nous en personne, vêtu du même vêtement qu’il porte maintenant, lorsque nous avons tous revêtu le costume de pèlerin à la Mecque. Il a accompli avec nous <span id="p61">[<sup><small>p. 61</small></sup>]</span> toutes les cérémonies du pèlerinage, là-bas et à ‘Arafat.[^14] Il a visité avec nous le tombeau du Prophète à Médine ; bien qu’il n’ait jamais mangé ou bu avec nous. Maintenant, il prétend qu’il ne nous connaît pas ou que nous ne le connaissons pas. »
+Les pèlerins objectèrent tous : « Pourquoi parle-t-il ainsi ? Pourquoi s’efforce-t-il de nous faire douter de nos yeux ? Par le Dieu du ciel et de la terre, il était avec nous en personne, vêtu du même vêtement qu’il porte maintenant, lorsque nous avons tous revêtu le costume de pèlerin à la Mecque. Il a accompli avec nous <span id="p61"><sup><small>[ p. 61 ]</small></sup></span> toutes les cérémonies du pèlerinage, là-bas et à ‘Arafat.[^14] Il a visité avec nous le tombeau du Prophète à Médine ; bien qu’il n’ait jamais mangé ou bu avec nous. Maintenant, il prétend qu’il ne nous connaît pas ou que nous ne le connaissons pas. »
 
 En entendant cette déclaration, les disciples de Jelāl furent transportés de joie, une fête musicale s'ensuivit, et tous ces pèlerins devinrent disciples.
 
@@ -667,7 +667,7 @@ Jelāl invita ses disciples au festin et tous mangèrent à satiété de la fria
 
 Jelāl dit alors : « Oh, il doit aussi en prendre part. » Il prit le bol, monta sur le toit en terrasse du collège avec, et revint aussitôt les mains vides. Ses amis lui demandèrent ce qu'il avait fait du bol et de la nourriture. « Je les ai remis, dit Jelāl, à son mari, à qui ils appartiennent. » La compagnie resta perplexe.
 
-Après un certain temps, les pèlerins de Qonya revinrent de La Mecque et le bol en porcelaine fut sorti des bagages du marchand et envoyé à la dame, qui fut très étonnée à sa vue. Elle demanda à son mari comment il était devenu possesseur de ce même plat. Il répondit : « Ah ! Je ne sais pas non plus comment cela s'est passé. Mais, la veille du massacre des victimes, j'étais assise dans ma tente, à 'Arafat, avec un groupe d'autres pèlerins, lorsqu'un bras s'est avancé dans la tente et a placé ce plat devant moi, rempli de friandises. J'ai envoyé des serviteurs pour voir qui me l'avait apporté ; mais personne n'a été trouvé. » La dame a immédiatement déduit <span id="p62">[<sup><small>p. 62</small></sup>]</span> la vérité et deviné ce qui s'était passé. Son mari était de plus en plus étonné d'un tel pouvoir miraculeux.
+Après un certain temps, les pèlerins de Qonya revinrent de La Mecque et le bol en porcelaine fut sorti des bagages du marchand et envoyé à la dame, qui fut très étonnée à sa vue. Elle demanda à son mari comment il était devenu possesseur de ce même plat. Il répondit : « Ah ! Je ne sais pas non plus comment cela s'est passé. Mais, la veille du massacre des victimes, j'étais assise dans ma tente, à 'Arafat, avec un groupe d'autres pèlerins, lorsqu'un bras s'est avancé dans la tente et a placé ce plat devant moi, rempli de friandises. J'ai envoyé des serviteurs pour voir qui me l'avait apporté ; mais personne n'a été trouvé. » La dame a immédiatement déduit <span id="p62"><sup><small>[ p. 62 ]</small></sup></span> la vérité et deviné ce qui s'était passé. Son mari était de plus en plus étonné d'un tel pouvoir miraculeux.
 
 Le lendemain, le mari et la femme se rendirent chez Jelāl, se tinrent devant lui, tête nue, pleurèrent de joie et racontèrent ce qui s'était passé. Il répondit :
 
@@ -685,7 +685,7 @@ Avant de partir, il se rendit au marais et leur donna la permission de croasser 
 
 Un groupe de bouchers avait acheté une génisse et l'emmenait pour être abattue, lorsqu'elle se détacha d'eux et s'enfuit, une foule la suivant et criant après elle, de sorte qu'elle devint furieuse et que personne ne pouvait passer près d'elle.
 
-Par hasard, Jelāl la rencontra, ses partisans étant à quelque distance derrière. En le voyant, la <span id="p63">[<sup><small>p. 63</small></sup>]</span> génisse devint calme et tranquille, s'approcha doucement de lui, puis resta immobile, comme si elle communiait avec lui en silence, cœur à cœur, comme c'est la coutume chez les saints, et comme si elle plaidait pour sa vie. Jelāl la caressa et la caressa.
+Par hasard, Jelāl la rencontra, ses partisans étant à quelque distance derrière. En le voyant, la <span id="p63"><sup><small>[ p. 63 ]</small></sup></span> génisse devint calme et tranquille, s'approcha doucement de lui, puis resta immobile, comme si elle communiait avec lui en silence, cœur à cœur, comme c'est la coutume chez les saints, et comme si elle plaidait pour sa vie. Jelāl la caressa et la caressa.
 
 Les bouchers arrivèrent alors, et Jelâl leur demanda la vie sauve de l'animal, car elle s'était placée sous sa protection. Ils donnèrent leur accord et la laissèrent partir.
 
@@ -701,7 +701,7 @@ Une réunion eut lieu au palais du Perwāna, chaque invité apportant sa propre 
 
 Les grands sourirent à la vue du cierge. Jelâl leur dit cependant que leurs imposantes bougies dépendaient de son cierge pour leur lumière. Leurs regards exprimèrent leur incrédulité. Jelâl souffla donc son cierge et toutes les bougies s'éteignirent aussitôt, la compagnie étant restée dans l'obscurité.
 
-Après un court instant, Jelāl poussa un soupir. Son cierge s'enflamma et les bougies brûlèrent toutes aussi brillamment <span id="p64">[<sup><small>p. 64</small></sup>]</span> qu'auparavant. Nombreuses furent les conversions résultant de ce spectacle miraculeux.
+Après un court instant, Jelāl poussa un soupir. Son cierge s'enflamma et les bougies brûlèrent toutes aussi brillamment <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> qu'auparavant. Nombreuses furent les conversions résultant de ce spectacle miraculeux.
 
 ## 50.
 
@@ -711,7 +711,7 @@ Après une longue conversation, Qāni‘ī fit remarquer qu’il n’aimait pas 
 
 Jelāl le réprimanda alors très sévèrement, comme suit :
 
-« Tais-toi, quel genre de musulman es-tu ? Si un musulman pouvait percevoir la grandeur de ce poète, ses cheveux se dresseraient sur sa tête et son turban tomberait de sa tête. Ce musulman, et des milliers d’autres comme lui, comme toi, de ce monde inférieur et du pays des esprits, deviendraient de vrais musulmans. Sa poésie, qui est une exposition des mystères du Coran, est si magnifiquement embellie qu’on peut lui appliquer l’adage : « Nous avons puisé dans l’océan et nous avons versé à nouveau dans l’océan. » Tu n’as pas compris sa philosophie, tu ne l’as pas étudiée, car tu es un Qâni‘î (un disciple de celui qui est satisfait). Les vicaires de Dieu ont une technologie dont les rhéteurs n’ont aucune connaissance. C’est pourquoi ces vérités semblent imparfaites, car les hommes d’esprit grossier sont empêchés de les comprendre. Bien que tu n'aies aucune part dans le sort des mystères obscurs des saints, il ne s'ensuit pas que tu doives nier leur position et te placer ainsi dans une position où la destruction pourrait <span id="p65">[<sup><small>p. 65</small></sup>]</span> s'abattre sur toi. Au contraire, si tu fixe ta foi sur eux et agis avec une véritable sincérité, tu ne trouveras pas au jour du jugement un fardeau trop lourd sur tes épaules. Au lieu de cela, un porteur de fardeau sera présent à tes côtés, un refuge, qui se révélera ton intercesseur le plus fervent.
+« Tais-toi, quel genre de musulman es-tu ? Si un musulman pouvait percevoir la grandeur de ce poète, ses cheveux se dresseraient sur sa tête et son turban tomberait de sa tête. Ce musulman, et des milliers d’autres comme lui, comme toi, de ce monde inférieur et du pays des esprits, deviendraient de vrais musulmans. Sa poésie, qui est une exposition des mystères du Coran, est si magnifiquement embellie qu’on peut lui appliquer l’adage : « Nous avons puisé dans l’océan et nous avons versé à nouveau dans l’océan. » Tu n’as pas compris sa philosophie, tu ne l’as pas étudiée, car tu es un Qâni‘î (un disciple de celui qui est satisfait). Les vicaires de Dieu ont une technologie dont les rhéteurs n’ont aucune connaissance. C’est pourquoi ces vérités semblent imparfaites, car les hommes d’esprit grossier sont empêchés de les comprendre. Bien que tu n'aies aucune part dans le sort des mystères obscurs des saints, il ne s'ensuit pas que tu doives nier leur position et te placer ainsi dans une position où la destruction pourrait <span id="p65"><sup><small>[ p. 65 ]</small></sup></span> s'abattre sur toi. Au contraire, si tu fixe ta foi sur eux et agis avec une véritable sincérité, tu ne trouveras pas au jour du jugement un fardeau trop lourd sur tes épaules. Au lieu de cela, un porteur de fardeau sera présent à tes côtés, un refuge, qui se révélera ton intercesseur le plus fervent.
 
 Frappé par ces mots, le poète lauréat se leva, se découvrit, demanda pardon, confessa sa contrition pour son manque de respect et devint l'un des disciples de Jelāl.
 
@@ -731,7 +731,7 @@ Les trois perles étaient : la _sagesse_, la _foi_ et la _modestie_.
 
 Adam a choisi la perle de la _sagesse_.
 
-Gabriel s'est alors mis à retirer le plateau contenant les deux perles restantes, afin de les replacer <span id="p66">[<sup><small>p. 66</small></sup>]</span> dans le trésor divin. Malgré toute sa puissance, il s'est rendu compte qu'il ne pouvait pas soulever le plateau.
+Gabriel s'est alors mis à retirer le plateau contenant les deux perles restantes, afin de les replacer <span id="p66"><sup><small>[ p. 66 ]</small></sup></span> dans le trésor divin. Malgré toute sa puissance, il s'est rendu compte qu'il ne pouvait pas soulever le plateau.
 
 Les deux perles lui dirent : « Nous ne nous séparerons pas de notre sagesse bien-aimée. Nous ne pourrions être heureux et tranquilles loin d'elle. De toute éternité, nous trois sommes les trois compères de la gloire de Dieu, les perles de sa puissance. Nous ne pouvons être séparés. »
 
@@ -753,7 +753,7 @@ Plus d'une centaine de mécréants romains furent ainsi convertis à la foi de l
 
 Parmi les disciples, il y avait un bossu, un homme pieux et un joueur de tambourin, que Jelāl aimait.
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 A l'occasion d'une fête, ce pauvre homme battait son tambourin et poussait des cris d'extase à un degré inhabituel. Jelāl était aussi très ému dans l'esprit par la danse sacrée.
 
@@ -769,7 +769,7 @@ Jelāl répondit : « Les récitants ordinaires, par leurs services, témoignent
 
 Il ajouta aussi : « De plus, lorsque l'esprit humain, après des années d'emprisonnement dans la cage et le cachot du corps, est enfin libéré et s'envole vers la source d'où il est venu, n'est-ce pas une occasion de réjouissances, de remerciements et de danses ? L'âme, en extase, s'élève vers la présence de l'Éternel et incite les autres à faire preuve de courage et de sacrifice de soi. Si un prisonnier est libéré d'un cachot et revêtu d'honneurs, qui douterait que les réjouissances soient de mise ? De même, la mort d'un saint est un cas exactement parallèle.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 ## 56.
 
@@ -783,7 +783,7 @@ Ce jeune homme apporta de riches présents à Jelāl, et des cadeaux pour les di
 
 « Mon étonnement fut grand. Je demandai à mon hôte ce que signifiaient ces préparatifs, et il me répondit : « Je suis un disciple du grand Jelālu-’d-Dīn de Qonya, fils de Bahā’u-’d-Dīn de Balkh. Il a l’habitude de passer par ici tous les jours. J’ai donc dressé cette tente pour lui et je prépare ce repas. Peut-être m’honorera-t-il et me bénira-t-il de sa présence, en partageant ici l’hospitalité. »
 
-« Comme il parlait encore, Jelâl entra. Nous le saluâmes et on le pria de partager la nourriture. Il prit un petit morceau, pas plus gros qu'une noisette, et m'en donna aussi. Je tombai à ses pieds et lui dis que j'étais de Qonya en pèlerinage et que j'avais manqué la caravane en m'endormant. « Bien <span id="p69">[<sup><small>p. 69</small></sup>]</span> », répondit-il, « comme nous sommes concitoyens, soyez de bonne humeur. » Il me demanda alors de fermer les yeux. Je le fis et en les rouvrant, je me retrouvai au milieu de mes compagnons de caravane. Je suis maintenant venu ici, de retour chez moi en toute sécurité, pour offrir mes remerciements pour cette gentillesse miraculeuse et pour me déclarer disciple du saint homme. »
+« Comme il parlait encore, Jelâl entra. Nous le saluâmes et on le pria de partager la nourriture. Il prit un petit morceau, pas plus gros qu'une noisette, et m'en donna aussi. Je tombai à ses pieds et lui dis que j'étais de Qonya en pèlerinage et que j'avais manqué la caravane en m'endormant. « Bien <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> », répondit-il, « comme nous sommes concitoyens, soyez de bonne humeur. » Il me demanda alors de fermer les yeux. Je le fis et en les rouvrant, je me retrouvai au milieu de mes compagnons de caravane. Je suis maintenant venu ici, de retour chez moi en toute sécurité, pour offrir mes remerciements pour cette gentillesse miraculeuse et pour me déclarer disciple du saint homme. »
 
 ## 57.
 
@@ -793,7 +793,7 @@ Jelāl répondit immédiatement : « Mais je ne sais pas ce qu’il y a dans ton
 
 L'homme érudit se déclara immédiatement disciple et composa un panégyrique sur Jelāl.
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 ## 58.
 
@@ -805,7 +805,7 @@ On raconte que Jelâl guérit un de ses disciples d'une fièvre intermittente en
 
 ## 60.
 
-Un jour, Jelāl rendit visite à un grand Cheikh, il fut reçu avec le plus grand respect et assis avec <span id="p71">[<sup><small>p. 71</small></sup>]</span> le Cheikh sur le même tapis, tous deux tombant ensemble en communion extatique avec le monde des esprits.
+Un jour, Jelāl rendit visite à un grand Cheikh, il fut reçu avec le plus grand respect et assis avec <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> le Cheikh sur le même tapis, tous deux tombant ensemble en communion extatique avec le monde des esprits.
 
 Il y avait aussi un derviche qui avait accompli à plusieurs reprises le pèlerinage à la Mecque. Le derviche s'adressa à Jelāl et lui demanda : « Qu'est-ce que la pauvreté ? » Jelāl ne répondit pas et la question fut répétée trois fois.
 
@@ -817,7 +817,7 @@ Trois jours plus tard, le derviche fut rencontré par une bande de réprouvés, 
 
 A l'époque de Jelâl, il y avait à Qonya une sainte nommée Fakhru-'n-Nisâ (la Gloire des Femmes). Elle était connue de tous les saints de l'époque, qui étaient tous conscients de sa sainteté. Elle accomplissait d'innombrables miracles. Elle assistait constamment aux réunions chez Jelâl, et il lui rendait parfois visite chez elle.
 
-Ses amis lui suggérèrent d'aller accomplir le pèlerinage à la Mecque, mais elle ne voulait pas entreprendre ce devoir sans d'abord consulter Jelâl à ce sujet. Elle alla donc le voir. Lorsqu'elle entra en sa présence, avant de parler, il lui lança : « Oh, quelle heureuse idée ! Que ton voyage soit prospère ! <span id="p72">[<sup><small>p. 72</small></sup>]</span> si Dieu le veut, nous serons ensemble. » Elle s'inclina, mais ne dit rien. Les disciples présents étaient perplexes.
+Ses amis lui suggérèrent d'aller accomplir le pèlerinage à la Mecque, mais elle ne voulait pas entreprendre ce devoir sans d'abord consulter Jelâl à ce sujet. Elle alla donc le voir. Lorsqu'elle entra en sa présence, avant de parler, il lui lança : « Oh, quelle heureuse idée ! Que ton voyage soit prospère ! <span id="p72"><sup><small>[ p. 72 ]</small></sup></span> si Dieu le veut, nous serons ensemble. » Elle s'inclina, mais ne dit rien. Les disciples présents étaient perplexes.
 
 Cette nuit-là, elle resta l'hôte de Jelâl, conversant avec lui jusqu'à minuit passé. A cette heure-là, il monta sur le toit en terrasse du collège pour accomplir le service divin de la veillée. Lorsqu'il eut terminé ce service d'adoration, il tomba en extase, criant et s'exclamant. Puis il souleva la lucarne de la pièce en dessous, où se trouvait la dame, et l'invita à monter également sur le toit.
 
@@ -831,7 +831,7 @@ La réponse immédiate et imprévue de Jelāl fut : « Jaune. Un amoureux est to
 
 ## 63.
 
-Le supérieur des moines du monastère de Platon était un vieil homme, et était tenu en très haute estime pour son érudition dans tout Constantinople et Firengistān, à Sīs, Jānik et dans d'autres pays. (Sīs était la capitale du royaume <span id="p73">[<sup><small>p. 73</small></sup>]</span> de Basse-Arménie, et Jānik était l'« Empire romain » secondaire de Trébizonde.) De tous ces pays affluaient des disciples pour apprendre la sagesse de lui.
+Le supérieur des moines du monastère de Platon était un vieil homme, et était tenu en très haute estime pour son érudition dans tout Constantinople et Firengistān, à Sīs, Jānik et dans d'autres pays. (Sīs était la capitale du royaume <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> de Basse-Arménie, et Jānik était l'« Empire romain » secondaire de Trébizonde.) De tous ces pays affluaient des disciples pour apprendre la sagesse de lui.
 
 Ce Supérieur raconta l'anecdote suivante :
 
@@ -841,7 +841,7 @@ Le Supérieur fit serment que tout ce qu'il avait lu sur la personne et les qual
 
 ## 64.
 
-Shemsu-’d-Dîn de Tebriz affirmait un jour, au collège de Jelâl, que quiconque voulait revoir les prophètes, n’avait qu’à regarder Jelâl, qui possédait toutes les qualités de ces prophètes, et plus particulièrement de ceux à qui des révélations étaient faites, soit par des communications angéliques, soit par des visions ; la principale de ces qualités étant la sérénité d’esprit, une confiance intérieure parfaite et la conscience d’être l’un des élus de Dieu. « Or, dit-il, posséder l’approbation de Jelâl, c’est le ciel ; tandis que l’enfer, c’est encourir son déplaisir. Jelâl est la clef du ciel. Va donc et regarde Jelâl, si tu veux comprendre la signification de cette parole : « _Les savants sont les héritiers des prophètes_ », ainsi que quelque chose de plus que cela, que je ne spécifierai pas ici. Il a plus de savoir dans toutes les sciences que n’importe qui d’autre sur terre. Il explique mieux, avec plus de tact et de goût, et aussi plus exhaustivement que tous les autres. Si je devais, <span id="p74">[<sup><small>p. 74</small></sup>]</span> avec mon seul intellect, étudier pendant cent ans, je ne pourrais pas acquérir la dixième partie de ce qu'il sait. Il a pensé intuitivement cette connaissance, sans s'en rendre compte, en ma présence, par sa propre subtilité.
+Shemsu-’d-Dîn de Tebriz affirmait un jour, au collège de Jelâl, que quiconque voulait revoir les prophètes, n’avait qu’à regarder Jelâl, qui possédait toutes les qualités de ces prophètes, et plus particulièrement de ceux à qui des révélations étaient faites, soit par des communications angéliques, soit par des visions ; la principale de ces qualités étant la sérénité d’esprit, une confiance intérieure parfaite et la conscience d’être l’un des élus de Dieu. « Or, dit-il, posséder l’approbation de Jelâl, c’est le ciel ; tandis que l’enfer, c’est encourir son déplaisir. Jelâl est la clef du ciel. Va donc et regarde Jelâl, si tu veux comprendre la signification de cette parole : « _Les savants sont les héritiers des prophètes_ », ainsi que quelque chose de plus que cela, que je ne spécifierai pas ici. Il a plus de savoir dans toutes les sciences que n’importe qui d’autre sur terre. Il explique mieux, avec plus de tact et de goût, et aussi plus exhaustivement que tous les autres. Si je devais, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> avec mon seul intellect, étudier pendant cent ans, je ne pourrais pas acquérir la dixième partie de ce qu'il sait. Il a pensé intuitivement cette connaissance, sans s'en rendre compte, en ma présence, par sa propre subtilité.
 
 ## 65.
 
@@ -855,7 +855,7 @@ Enfin, cependant, il se laissa apaiser par son fils, de sorte qu'il permit au ma
 
 ## 66.
 
-Un jour, Jelāl s'adressa à son fils en ces termes : « Bahā’u-’d-Dīn, souhaites-tu aimer ton ennemi et être aimé de lui ? Parle bien de lui et vante ses vertus. Il sera alors ton ami ; et pour cette raison : de même qu'il y a une route ouverte entre le cœur et la langue, de même il y a un chemin de la langue au cœur. L'amour de Dieu peut être trouvé en portant Ses _beaux noms_. Dieu a dit : « Ô Mes serviteurs, prenez garde de Me commémorer souvent, afin que la sincérité abonde. » <span id="p75">[<sup><small>p. 75</small></sup>]</span> Plus la sincérité prévaut, plus les rayons de la lumière de la vérité brillent dans le cœur. Plus le four d'un boulanger est chaud, plus il cuit de pain ; s'il est froid, il ne cuit pas du tout. »
+Un jour, Jelāl s'adressa à son fils en ces termes : « Bahā’u-’d-Dīn, souhaites-tu aimer ton ennemi et être aimé de lui ? Parle bien de lui et vante ses vertus. Il sera alors ton ami ; et pour cette raison : de même qu'il y a une route ouverte entre le cœur et la langue, de même il y a un chemin de la langue au cœur. L'amour de Dieu peut être trouvé en portant Ses _beaux noms_. Dieu a dit : « Ô Mes serviteurs, prenez garde de Me commémorer souvent, afin que la sincérité abonde. » <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> Plus la sincérité prévaut, plus les rayons de la lumière de la vérité brillent dans le cœur. Plus le four d'un boulanger est chaud, plus il cuit de pain ; s'il est froid, il ne cuit pas du tout. »
 
 ## 67.
 
@@ -869,7 +869,7 @@ Sultan Veled, Baha’u’d-Dîn, aurait raconté à propos de son père, Jelâl,
 
 Sultan Veled aurait dit : « Mon grand-père, le Grand Maître, recommandait à ses disciples d'honorer extrêmement son fils Jelāl, comme quelqu'un d'une noble extraction et d'une lignée exaltée, d'une descendance éternelle dans le passé ; puisque la mère de sa mère était la fille de l'Imām Sarakhsī, un descendant de Huseyn, fils de 'Alī et petit-fils du Prophète. »
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 ## 69.
 
@@ -881,7 +881,7 @@ Il aurait également déclaré : « Lorsque le sultan invita mon grand-père à 
 
 Sultan Veled aurait raconté qu'un jour deux Turcs, étudiants en droit, apportèrent à Jelāl une offrande de quelques lentilles, en excusant la pauvreté de ce don. Jelāl raconta alors l'anecdote suivante :
 
-<span id="p77">[<sup><small>p. 77</small></sup>]</span>
+<span id="p77"><sup><small>[ p. 77 ]</small></sup></span>
 
 « Dieu révéla à Mustafa (Muhammed) que les croyants devaient contribuer de leurs biens, pour le service de Dieu, autant qu'ils pouvaient en épargner. Certains apportèrent la moitié, d'autres le tiers ; Abū-Bekr apporta la totalité de ce qu'il possédait. Ainsi un grand trésor fut rassemblé, en argent, en bêtes et en armes, pour le service de Dieu.
 
@@ -897,7 +897,7 @@ Sultan Veled aurait raconté qu'un jour deux Turcs, étudiants en droit, apport�
 
 Lorsque les deux étudiants turcs entendirent cette anecdote, ils se déclarèrent disciples de Jelāl.
 
-<span id="p78">[<sup><small>p. 78</small></sup>]</span>
+<span id="p78"><sup><small>[ p. 78 ]</small></sup></span>
 
 ## 71.
 
@@ -909,7 +909,7 @@ On raconte que lorsque la cérémonie funèbre fut sur le point d'être célébr
 
 Interrogé sur la cause de son émotion, il répondit : « Tandis que je m'avançais pour accomplir mon office, j'aperçus une rangée des plus nobles saints spirituels du monde spirituel, qui étaient présents et qui étaient occupés à réciter les prières pour les morts sur le défunt. Ces anges du ciel portaient des robes bleues (le deuil de certaines sectes musulmanes) et pleuraient. »
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 Pendant quarante jours, ce chantre et d'autres visitèrent quotidiennement la tombe de Jelāl.
 
@@ -933,7 +933,7 @@ Jelāl se mit aussitôt à parodier son cri, s'écriant en persan : « Dil kū !
 
 Au temps du Sultan Veled (1284-1312), un jeune homme, descendant du Prophète et fils du gardien du tombeau sacré de Mahomet à Médine, arriva à Qonya avec un groupe de ses compatriotes, appartenant à cette ville. Il fut présenté au Sultan Veled et devint son disciple.
 
-Il portait une coiffure des plus singulières : une extrémité de son turban pendait devant lui jusqu'en <span id="p80">[<sup><small>p. 80</small></sup>]</span> dessous de son nombril, tandis que l'autre extrémité formait le _sheker-āvīz_[^18] des derviches Mevlevi.
+Il portait une coiffure des plus singulières : une extrémité de son turban pendait devant lui jusqu'en <span id="p80"><sup><small>[ p. 80 ]</small></sup></span> dessous de son nombril, tandis que l'autre extrémité formait le _sheker-āvīz_[^18] des derviches Mevlevi.
 
 Lorsqu'ils furent devenus quelque peu intimes, Sultan Veled lui demanda comment il se faisait qu'il portait le _sheker-āvīz_ des Mevlevis, alors que personne d'autre que ces derviches ne le porte, à l'imitation de leur fondateur, Jelāl.
 
@@ -941,7 +941,7 @@ Le jeune homme expliqua que sa famille descendait du Prophète. Que le Prophète
 
 Après avoir contemplé cette belle vision, Mohammed remarqua avec stupeur que la forme idéale portait sur sa tête un _shéker-aviz_. Il demanda à Gabriel ce que pouvait présager ce portrait idéal, dont la beauté était si attrayante qu’elle surpassait toutes les merveilles dont il avait été témoin dans les neuf cieux. « Est-ce le portrait d’un ange, d’un prophète ou d’un saint ? » Gabriel répondit : « C’est le portrait d’un personnage des descendants d’Abû-Bekr, qui apparaîtra dans les derniers jours parmi les gens de ton Église et remplira le monde entier de l’éclat de la connaissance de tes mystères. Dieu lui accordera une préséance, une plume et un souffle tels que les rois et les princes se déclareront ses disciples ; et il sera le plus pur défenseur de ta religion, étant, à tous égards, le pendant de toi-même par son aspect et par ses mœurs. Son nom sera Mohammed, comme le tien ; et son surnom sera Jelālu-’d-Dīn. Ses paroles expliqueront tes paroles et expliqueront ton Coran.
 
-<span id="p81">[<sup><small>p. 81</small></sup>]</span>
+<span id="p81"><sup><small>[ p. 81 ]</small></sup></span>
 
 À son retour chez lui, le Prophète adopta la forme du turban qu'il avait vu porté dans ce portrait idéal, faisant pendre une extrémité devant et attachant l'autre extrémité derrière en un _sheker-āvīz_.
 
@@ -959,7 +959,7 @@ Les pèlerins de Qonya publièrent cette communication à tous les disciples pr�
 
 Au temps du sultan Veled, un grand marchand vint à Qonya pour visiter le tombeau de Jelâl. Il offrit de nombreux et riches présents au sultan Veled, ainsi qu'aux disciples. Il leur raconta de nombreuses anecdotes sur les aventures qu'il avait rencontrées au cours de ses voyages, comme par exemple les suivantes :
 
-Il alla un jour à Kish et à Bahreïn en quête de perles et de rubis. « Un habitant m'a dit, dit-il, que j'en trouverais entre les mains d'un certain pêcheur. J'allai le trouver, et le pêcheur me montra un coffre contenant des perles d'une valeur inestimable, qui me frappa d'étonnement. Je lui demandai comment il les avait recueillies ; et il me dit, prenant Dieu à témoin, que lui, ses trois <span id="p82">[<sup><small>p. 82</small></sup>]</span> frères et son père étaient autrefois de pauvres pêcheurs. Un jour, ils attrapèrent quelque chose qui leur causa d'immenses difficultés avant de pouvoir le ramener à terre.
+Il alla un jour à Kish et à Bahreïn en quête de perles et de rubis. « Un habitant m'a dit, dit-il, que j'en trouverais entre les mains d'un certain pêcheur. J'allai le trouver, et le pêcheur me montra un coffre contenant des perles d'une valeur inestimable, qui me frappa d'étonnement. Je lui demandai comment il les avait recueillies ; et il me dit, prenant Dieu à témoin, que lui, ses trois <span id="p82"><sup><small>[ p. 82 ]</small></sup></span> frères et son père étaient autrefois de pauvres pêcheurs. Un jour, ils attrapèrent quelque chose qui leur causa d'immenses difficultés avant de pouvoir le ramener à terre.
 
 « Ils découvrirent alors qu’ils avaient capturé un « Seigneur des Eaux », également appelé « Merveille de la Mer », comme on l’appelle communément.[^19]
 
@@ -973,7 +973,7 @@ Il alla un jour à Kish et à Bahreïn en quête de perles et de rubis. « Un ha
 
 « Notre père s’évanouit de stupeur. Je lui demandai alors : « Comment le connais-tu ? » La bête répondit : « Nous sommes une nation de douze mille individus. Nous avons cru en lui, et il s’est souvent montré à nous au fond de la mer, nous faisant des conférences et des sermons sur les mystères divins de la vérité. Il nous a amenés à la connaissance de la vraie foi, de sorte que nous pratiquons continuellement ce qu’il nous a enseigné. »
 
-« Notre père lui dit aussitôt qu'il était libre. <span id="p83">[<sup><small>p. 83</small></sup>]</span> Il retourna donc dans l'eau et disparut. Mais deux jours plus tard, il revint et rapporta avec lui d'innombrables perles et pierres précieuses. Il lui demanda s'il avait été fidèle à sa promesse et, sur notre satisfaction, il nous fit un adieu affectueux.
+« Notre père lui dit aussitôt qu'il était libre. <span id="p83"><sup><small>[ p. 83 ]</small></sup></span> Il retourna donc dans l'eau et disparut. Mais deux jours plus tard, il revint et rapporta avec lui d'innombrables perles et pierres précieuses. Il lui demanda s'il avait été fidèle à sa promesse et, sur notre satisfaction, il nous fit un adieu affectueux.
 
 « Nous avons ainsi été élevés des profondeurs de la pauvreté au sommet de la richesse. Nous sommes devenus des princes marchands et nos esclaves sont les grands marchands de la terre. Tout marchand qui souhaite des perles et des rubis vient à nous. Nous sommes connus comme les _Fils du Pêcheur_. Notre père est allé à Qonya et a rendu hommage au Mevlānā.
 
@@ -989,7 +989,7 @@ L'un des plus éminents érudits de Qonya reçut la visite du Perwâna. L'érudi
 
 Un ou deux jours plus tard, le Perwâna, rempli de respect pour la sainteté sans pareille de Jelâl, alla lui rendre visite avec la plus grande déférence. Avant que le Perwâna n'ait pu aborder un sujet de conversation, Jelâl lui dit : « Mu'īnu-'d-Dīn ! la vision que vous a racontée votre savant ami est tout à fait vraie dans les faits principaux, bien que je ne l'aie jamais vu là à aucun moment. » Il improvisa alors l'ode suivante :
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 ## 74.
 
@@ -1016,7 +1016,7 @@ Un jour, dit-on, le Prophète (Muhammad) récita en privé à 'Alī les secrets 
 
 Pendant quarante jours, ‘Alī garda le secret dans son seul sein et le supporta jusqu’à ce qu’il en ait mal au cœur. Comme une femme enceinte, son ventre se gonfla sous le fardeau, de sorte qu’il ne pouvait plus respirer librement.
 
-Il s'enfuit donc dans le désert et là, il tomba par hasard sur un puits. Il se baissa, plongea la tête aussi loin qu'il le put dans le puits et, un à un, <span id="p85">[<sup><small>p. 85</small></sup>]</span> il confia ces mystères aux entrailles de la terre. L'excès de son excitation emplit sa bouche d'écume et de mousse qu'il cracha dans l'eau du puits jusqu'à ce qu'il se soit libéré de tout cela et qu'il se sentit soulagé.
+Il s'enfuit donc dans le désert et là, il tomba par hasard sur un puits. Il se baissa, plongea la tête aussi loin qu'il le put dans le puits et, un à un, <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> il confia ces mystères aux entrailles de la terre. L'excès de son excitation emplit sa bouche d'écume et de mousse qu'il cracha dans l'eau du puits jusqu'à ce qu'il se soit libéré de tout cela et qu'il se sentit soulagé.
 
 Après un certain nombre de jours, on vit pousser dans ce puits un roseau solitaire qui grandit et s'éleva jusqu'à ce qu'enfin un jeune homme, dont le coeur était miraculeusement éclairé sur cette pointe, s'aperçut de cette plante qui poussait, la coupa, y perça des trous et se mit à jouer dessus des airs semblables à ceux que faisaient les derviches amoureux de Dieu en faisant paître leurs moutons dans le voisinage.
 
@@ -1026,7 +1026,7 @@ La rumeur parvint enfin aux oreilles du Prophète, qui ordonna qu'on lui amène 
 
 C'est ainsi que, jusqu'à ce qu'un homme acquière la dévotion sincère de la flûte à anche à voix de linotte, il ne peut entendre les mystères des Frères de Sincérité dans ses douces notes, ni en réaliser les délices, car « la foi est tout à fait un désir du cœur et une satisfaction du sens spirituel. »
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 > « À qui, hélas, les douleurs que mon amour pour toi excite, pour respirer ?
 > Mes soupirs, comme 'Alī, je les transmettrai à quelque puits profond.
@@ -1043,7 +1043,7 @@ Son maître était contrarié de la voir si favorisée au-dessus de lui. Un jour
 
 Le maître de la jeune fille fut consolé et s'inclina devant son professeur, dont les disciples se mirent alors à un service sacré de psalmodie et de danse.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 ## 81.
 
@@ -1055,7 +1055,7 @@ Le moine leur répondit : « Que savez-vous de lui, de qui il était ou de ce qu
 
 " Il ne répondit pas un instant. Enfin, il fit un signe vers la ville et s'en alla. Je le suivis tranquillement. Près de la ville, nous arrivâmes à une boulangerie dont le four chauffait. Il prit alors ma soutane noire, l'enveloppa dans son propre manteau et jeta le paquet dans le four. Il se retira alors un moment dans un coin, plongé dans ses réflexions.
 
-« Je vis sortir du four une grande fumée, telle que personne n’avait la faculté de parler. Après cela, il me dit : « Voici ! » Le boulanger retira le paquet du four et aida le saint à revêtir son manteau, qui était devenu <span id="p88">[<sup><small>p. 88</small></sup>]</span> d’une propreté exquise ; tandis que ma soutane était comme marquée et brûlée, au point de tomber en morceaux. Puis il dit : « Ainsi nous y entrerons, et ainsi vous y entrerez ! »
+« Je vis sortir du four une grande fumée, telle que personne n’avait la faculté de parler. Après cela, il me dit : « Voici ! » Le boulanger retira le paquet du four et aida le saint à revêtir son manteau, qui était devenu <span id="p88"><sup><small>[ p. 88 ]</small></sup></span> d’une propreté exquise ; tandis que ma soutane était comme marquée et brûlée, au point de tomber en morceaux. Puis il dit : « Ainsi nous y entrerons, et ainsi vous y entrerez ! »
 
 « À ce même moment, je me suis incliné devant lui et je suis devenu son disciple. »
 
@@ -1081,7 +1081,7 @@ Jelāl mentionne fréquemment Husām comme étant la cause du début et de la co
 
 Et encore le sixième livre a pour vers d'ouverture l'apostrophe suivante :
 
-<span id="p89">[<sup><small>p. 89</small></sup>]</span>
+<span id="p89"><sup><small>[ p. 89 ]</small></sup></span>
 
 > « Ô toi, Husāmu-’d-Dīn, la vraie vie de mon cœur ! Zèle, pour toi,
 > Je sens surgir en moi le sixième livre à entreprendre par la présente.
@@ -1101,7 +1101,7 @@ A la mort de Jelāl, un groupe de zélotes se rendit en corps au Perwāna, lui e
 
 Le Perwâna appela le savant mufti de Qonya, Sheykh Sadru-'d-Dîn, et le consulta à ce sujet. Le mufti répondit : « Ne faites rien de tel. N'écoutez pas de telles suggestions biaisées. Il existe un dicton apostolique à cet effet : « Une innovation louable, introduite par un parfait disciple des prophètes, est de même nature que les pratiques coutumières des prophètes eux-mêmes. » Le Perwâna résolut donc de ne rien faire pour supprimer les institutions de Jelâl.
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 ## 84.
 
@@ -1117,7 +1117,7 @@ Kālūmān et ‘Aynu-’d-Devla étaient deux peintres romains, sans égal dans
 
 Kālūmān raconta un jour qu'à Constantinople, sur une certaine tablette, les portraits de la Dame Meryem et de Jésus furent peints, dans un style si incomparable.Des artistes vinrent de toutes les parties du monde et firent de leur mieux, mais aucun ne put produire l'égal de ces deux portraits.
 
-Aynu-d-Devla entreprit donc de se rendre à Constantinople et de voir ce tableau. Il se fit un citoyen de la <span id="p91">[<sup><small>p. 91</small></sup>]</span> grande église de Constantinople pendant une année entière et servit les prêtres de cette église de diverses manières.
+Aynu-d-Devla entreprit donc de se rendre à Constantinople et de voir ce tableau. Il se fit un citoyen de la <span id="p91"><sup><small>[ p. 91 ]</small></sup></span> grande église de Constantinople pendant une année entière et servit les prêtres de cette église de diverses manières.
 
 Une nuit, il saisit l'opportunité, prit la tablette sous son bras et s'enfuit avec.
 
@@ -1135,7 +1135,7 @@ Touché par ces reproches, l'artiste jura de se repentir de son péché, et se d
 
 ## 86.
 
-Quand le moment de la mort de Jelāl approcha, il avertit ses disciples de n'avoir aucune crainte <span id="p92">[<sup><small>p. 92</small></sup>]</span> ni anxiété à ce sujet : « Car, dit-il, de même que l'esprit de Mansūr[^21] apparut, cent cinquante ans après sa mort, au Sheykh Ferīdu-'d-Dīn 'Attār, et devint son guide spirituel et son enseignant, de même, soyez toujours avec moi, quoi qu'il arrive, et souvenez-vous de moi, afin que je puisse me montrer à vous, sous quelque forme que ce soit ; afin que je puisse toujours vous appartenir, et que je répande toujours dans vos poitrines la lumière de l'inspiration céleste. Je vous rappellerai simplement maintenant que notre cher Seigneur, Mohammed, l'Apôtre de Dieu, a dit à ses disciples : « Ma vie est une bénédiction pour vous, et ma mort sera une bénédiction pour vous. Dans ma vie, je vous ai guidés, et après ma mort, j'enverrai des bénédictions sur vous. »
+Quand le moment de la mort de Jelāl approcha, il avertit ses disciples de n'avoir aucune crainte <span id="p92"><sup><small>[ p. 92 ]</small></sup></span> ni anxiété à ce sujet : « Car, dit-il, de même que l'esprit de Mansūr[^21] apparut, cent cinquante ans après sa mort, au Sheykh Ferīdu-'d-Dīn 'Attār, et devint son guide spirituel et son enseignant, de même, soyez toujours avec moi, quoi qu'il arrive, et souvenez-vous de moi, afin que je puisse me montrer à vous, sous quelque forme que ce soit ; afin que je puisse toujours vous appartenir, et que je répande toujours dans vos poitrines la lumière de l'inspiration céleste. Je vous rappellerai simplement maintenant que notre cher Seigneur, Mohammed, l'Apôtre de Dieu, a dit à ses disciples : « Ma vie est une bénédiction pour vous, et ma mort sera une bénédiction pour vous. Dans ma vie, je vous ai guidés, et après ma mort, j'enverrai des bénédictions sur vous. »
 
 Les amis de Jelāl versèrent tous des larmes et éclatèrent en soupirs et en lamentations, mais inclinèrent la tête en signe de révérence.
 
@@ -1143,7 +1143,7 @@ On dit qu'il donna des instructions pour préparer son linceul et que sa femme, 
 
 Il lui répondit : « Où irai-je ? En vérité, je ne quitterai pas ton cercle. » Elle demanda alors : « Y en aura-t-il un autre comme toi, notre Seigneur ? Un autre se manifestera-t-il ? » Il répondit : « S'il y en a un, ce sera moi. » Après un moment, il ajouta : « Pendant que je suis dans le corps, j'ai deux attachements : l'un pour toi, l'autre pour la chair. Quand, par la grâce de l'Esprit unique, je serai désincarné, quand le monde des esprits incarnés, de l'unité et de l'unicité apparaîtra, mon attachement à la chair deviendra un attachement pour toi, et je n'aurai alors qu'un seul attachement. »
 
-<span id="p93">[<sup><small>p. 93</small></sup>]</span>
+<span id="p93"><sup><small>[ p. 93 ]</small></sup></span>
 
 ## 87.
 
@@ -1157,7 +1157,7 @@ Il donna ensuite ses dernières instructions à ses disciples, comme suit : « J
 
 Voici une prière enseignée par Jelāl, sur son lit de mort, à l'un de ses amis, à utiliser chaque fois qu'une affliction ou un souci pesait sur lui :
 
-« Ô notre Seigneur Dieu, je ne respire que pour Toi, et j'étends mon esprit vers Toi, afin de réciter abondamment Tes doxologies, en Te commémorant fréquemment. Ô notre Seigneur Dieu, ne m'impose pas une maladie qui pourrait me faire oublier de Te commémorer, ou diminuer mon désir envers Toi, ou couper le plaisir que j'éprouve à réciter les litanies de Tes louanges. <span id="p94">[<sup><small>p. 94</small></sup>]</span> Ne m'accorde pas une santé qui pourrait engendrer ou augmenter en moi l'insolence présomptueuse ou ingrate. Pour l'amour de Ta miséricorde, Ô Toi le Plus Miséricordieux des compatissants. Amen. »
+« Ô notre Seigneur Dieu, je ne respire que pour Toi, et j'étends mon esprit vers Toi, afin de réciter abondamment Tes doxologies, en Te commémorant fréquemment. Ô notre Seigneur Dieu, ne m'impose pas une maladie qui pourrait me faire oublier de Te commémorer, ou diminuer mon désir envers Toi, ou couper le plaisir que j'éprouve à réciter les litanies de Tes louanges. <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> Ne m'accorde pas une santé qui pourrait engendrer ou augmenter en moi l'insolence présomptueuse ou ingrate. Pour l'amour de Ta miséricorde, Ô Toi le Plus Miséricordieux des compatissants. Amen. »
 
 ## 89.
 
@@ -1175,7 +1175,7 @@ Les chanteurs et les musiciens entrèrent alors et exécutèrent un hymne, tandi
 
 Jelāl a observé : « C’est comme le disent mes amis. Mais s’ils devaient même démolir la maison, à quoi bon ? Voyez mon cœur haletant, regardez ma joie. Le soleil jette une lumière reconnaissante sur le papillon. Mes amis m’invitent à aller d’un côté, mon professeur Shemsu-’d-Dīn m’invite à aller de l’autre côté. Obéissez à l’appel du Seigneur et ayez foi en Lui. Le départ est inévitable. Tout être est sorti du néant, et il sera de nouveau enfermé dans la prison de la nullité. Tel est le décret de Dieu de toute éternité ;
 
-<span id="p95">[<sup><small>p. 95</small></sup>]</span>
+<span id="p95"><sup><small>[ p. 95 ]</small></sup></span>
 
 et décréter appartient à Dieu, le Très-Haut, le Très-Grand !
 
@@ -1202,7 +1202,7 @@ On raconte qu'après sa mort, alors qu'il était couché sur son cercueil et qu'
 
 Alors que le laveur croisait les bras de Jelâl sur sa poitrine, un tremblement sembla parcourir le corps et le laveur tomba le visage sur la poitrine sans vie, en pleurant. Il sentit son oreille tirée par la main du saint mort, comme un avertissement. Sur ce, il s'évanouit et dans son évanouissement il entendit un cri du ciel qui lui disait : « Oh là là ! En vérité, les saints du Seigneur n'ont rien à craindre, et ils ne seront pas affligés. Les croyants ne meurent pas ; ils passent simplement d'une demeure à une autre ! »
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 ## 91.
 
@@ -1220,7 +1220,7 @@ Il était mort au coucher du soleil, le dimanche, le cinquième jour du mois de 
 
 Sultan Veled aurait raconté que, peu de temps après la mort de son père, Jelāl, il était assis avec son
 
-<span id="p97">[<sup><small>p. 97</small></sup>]</span>
+<span id="p97"><sup><small>[ p. 97 ]</small></sup></span>
 
 belle-mère, la veuve de Jelāl, Kirā Khātūn, et Husāmu-’d-Dīn, lorsque sa belle-mère vit l’esprit du saint défunt, ailé comme un séraphin, suspendu au-dessus de sa tête, celle du sultan Veled, pour veiller sur lui.
 
@@ -1242,7 +1242,7 @@ Cette nuit-là, dans un rêve, il vit Jelāl, qui le saisit à la gorge et l'ét
 
 A son réveil, il tomba à genoux et implora la clémence de Dieu, cherchant aussi des informations sur ce que signifiait ce présage. Il envoya un ambassadeur pour lui demander la permission d'entrer dans la ville en tant qu'hôte amical.
 
-Lorsqu'il arriva au palais, les nobles de Qonya <span id="p98">[<sup><small>p. 98</small></sup>]</span> accoururent à sa cour avec de riches offrandes. Tous étant assis en conclave solennel, Kīgātū fut soudain pris d'un violent tremblement et demanda à l'un des princes de la ville, qui était assis seul sur un canapé : « Qui peut être le personnage qui est assis à côté de vous sur votre canapé ? » Le prince regarda à droite et à gauche, mais ne vit personne. Il répondit en conséquence. Kīgātū répondit : « Quoi ? Comment dis-tu ? Je vois à côté de toi, assis, un homme de grande taille avec une barbe macabre et un teint blafard, un turban gris et un plaid indien sur la poitrine, qui me regarde d'un air très indiscret. »
+Lorsqu'il arriva au palais, les nobles de Qonya <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> accoururent à sa cour avec de riches offrandes. Tous étant assis en conclave solennel, Kīgātū fut soudain pris d'un violent tremblement et demanda à l'un des princes de la ville, qui était assis seul sur un canapé : « Qui peut être le personnage qui est assis à côté de vous sur votre canapé ? » Le prince regarda à droite et à gauche, mais ne vit personne. Il répondit en conséquence. Kīgātū répondit : « Quoi ? Comment dis-tu ? Je vois à côté de toi, assis, un homme de grande taille avec une barbe macabre et un teint blafard, un turban gris et un plaid indien sur la poitrine, qui me regarde d'un air très indiscret. »
 
 Le prince soupçonna aussitôt avec sagacité que l'ombre de Jelāl était présente à ses côtés et répondit : « Les yeux sacrés de la majesté sont seuls privilégiés pour assister à cette vision. C'est le fils de Bahā'u-'d-Dīn de Balkh, notre Seigneur Jelālu-'d-Dīn, qui est enterré dans ce pays. »
 

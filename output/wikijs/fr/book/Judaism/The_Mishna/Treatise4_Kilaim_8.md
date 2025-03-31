@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 ### CHAPITRE VIII.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 4. Il est interdit d'attacher un cheval, pour le débourrer, aux côtés ou à l'arrière d'un chariot, tiré par des bœufs, ainsi que d'attacher, pour le trait, un âne libyen [^61] à un chameau. Rabbi Jehudah dit : « On peut lier les poulains d'une jument, même si leur père est un âne ; de même, on peut lier les poulains d'une ânesse, même si leur père est un cheval ; mais il est interdit d'unir un poulain d'une jument à un poulain d'une ânesse. »
 
-§ 5. Il est interdit de faire copuler le ‏פרוטיות‎ [^62] ; mais il est <span id="p30">[<sup><small>p. 30</small></sup>]</span> permis de le faire avec le ‏רמך‎. [^63] Le ‏אדני שדה‎ [^64] est un animal sauvage ; R. José dit : « sa carcasse morte, même comme celle d'un être humain, fait que tout ce qui est sous le couvert d'une tente contracte la pollution. » Le porc-épic et le ‏חולדת הסניים‎ [^65], comme le dit R. José, selon Beth Shammai, « feront contracter la pollution à une personne qui a transporté une partie de leur carcasse, qui a la taille d'une olive, ou qui a touché une partie de celle-ci de la taille d'une lentille. »
+§ 5. Il est interdit de faire copuler le ‏פרוטיות‎ [^62] ; mais il est <span id="p30"><sup><small>[ p. 30 ]</small></sup></span> permis de le faire avec le ‏רמך‎. [^63] Le ‏אדני שדה‎ [^64] est un animal sauvage ; R. José dit : « sa carcasse morte, même comme celle d'un être humain, fait que tout ce qui est sous le couvert d'une tente contracte la pollution. » Le porc-épic et le ‏חולדת הסניים‎ [^65], comme le dit R. José, selon Beth Shammai, « feront contracter la pollution à une personne qui a transporté une partie de leur carcasse, qui a la taille d'une olive, ou qui a touché une partie de celle-ci de la taille d'une lentille. »
 
 L'urus, ou buffle, doit être considéré comme un animal domestique ; R. José, cependant, dit : « comme un animal sauvage. Le chien comme un animal sauvage » ; mais R. Meir dit : « comme un animal domestique. » Le porc comme un animal domestique ; le zèbre comme un animal sauvage. L'éléphant et le singe comme des animaux sauvages. Il est licite pour un être humain de tirer, de labourer ou de conduire avec l'un de ces animaux.
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 AOÛT MÜLLER : _Die Beherrscher der Gläubigen_. Berlin, 1882. Une esquisse très brillamment écrite basée sur des connaissances approfondies.
 
@@ -64,7 +64,7 @@ STANLEY LANE-POOLE : _Une histoire de l'Egypte au Moyen Age_. New York, 1901. Po
 
 H. L. FLEISCHER : _Briefwechsel zwischen den Anführern der Wahhabiten und dem Pacha von Damaskus_. _Kleinere Schriften_, iii, pp. 341 et suiv. Publié pour la première fois dans ZDMG pour l'année 1857.
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 E. REHATSEK ; _L'histoire des Wahhabites en Arabie et en Inde_. Journal de la société asiatique du Bengale. N° xxxviii (lire janvier 1880).
 

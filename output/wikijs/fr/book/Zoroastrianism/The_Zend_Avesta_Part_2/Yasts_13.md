@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p179">[<sup><small>p. 179</small></sup>]</span>
+<span id="p179"><sup><small>[ p. 179 ]</small></sup></span>
 
 Le Fravashi est la puissance intérieure de chaque être qui le maintient, le fait croître et subsister. À l'origine, les Fravashi étaient identiques aux Pitri des Hindous ou aux Mânes des Latins, c'est-à-dire les âmes éternelles et déifiées des morts (voir §§ 49-52) ; mais au fil du temps, leur domaine s'est élargi, et non seulement les hommes, mais aussi les dieux et même les objets physiques, comme le ciel, la terre, etc. (§§ 85-86), ont chacun eu un Fravashi (voir Ormazd et Ahriman, §§ 111-113).
 
@@ -52,7 +52,7 @@ La cinquième partie (XXVIII, § 129) est consacrée à Saoshya<i>n</i><i>t</i> 
 
 La septième partie (XXX, §§ 139-142) est consacrée aux saintes femmes du mazdéisme depuis Hvôvi, l'épouse de Zarathustra, jusqu'à Srûta<i>t</i>-fedhri, Vanghu-fedhri et Ereda<i>t</i>-fedhri, les futures mères de ses trois fils à naître.
 
-Les deuxième, troisième et quatrième énumérations se terminent toutes par le nom <span id="p180">[<sup><small>p. 180</small></sup>]</span> d'Astva<i>t</i>-ereta (c'est-à-dire Saoshya<i>n</i><i>t</i>), ce qui montre qu'elles ne se réfèrent pas à des générations successives, mais à trois branches indépendantes, qui se sont développées chacune séparément jusqu'à l'époque du Sauveur.
+Les deuxième, troisième et quatrième énumérations se terminent toutes par le nom <span id="p180"><sup><small>[ p. 180 ]</small></sup></span> d'Astva<i>t</i>-ereta (c'est-à-dire Saoshya<i>n</i><i>t</i>), ce qui montre qu'elles ne se réfèrent pas à des générations successives, mais à trois branches indépendantes, qui se sont développées chacune séparément jusqu'à l'époque du Sauveur.
 
 ---
 
@@ -76,7 +76,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 2\. « Par leur éclat et leur gloire, ô Zarathoustra ! Je maintiens ce ciel, là-haut, brillant et visible au loin, et englobant cette terre tout autour. »
 
-3\. « Cela ressemble à un palais, construit d'une <span id="p181">[<sup><small>p. 181</small></sup>]</span> substance céleste [^812], fermement établi, avec des extrémités qui se trouvent au loin, brillant dans son corps de rubis sur les trois tiers (de la terre) [^813] ; c'est comme un vêtement incrusté d'étoiles, fait d'une substance céleste, que Mazda revêt, avec Mithra et Rashnu et Spe<i>n</i>ta-Ârmaiti, et de aucun côté l'œil ne peut en percevoir l'extrémité.
+3\. « Cela ressemble à un palais, construit d'une <span id="p181"><sup><small>[ p. 181 ]</small></sup></span> substance céleste [^812], fermement établi, avec des extrémités qui se trouvent au loin, brillant dans son corps de rubis sur les trois tiers (de la terre) [^813] ; c'est comme un vêtement incrusté d'étoiles, fait d'une substance céleste, que Mazda revêt, avec Mithra et Rashnu et Spe<i>n</i>ta-Ârmaiti, et de aucun côté l'œil ne peut en percevoir l'extrémité.
 
 4\. « Par leur éclat et leur gloire, ô Zarathustra ! Je maintiens Ardvi Sara Anâhita, celle qui répand la vie et qui donne la santé, qui hait les Daêvas et obéit aux lois d'Ahura, qui est digne de sacrifice dans le monde matériel, digne de prière dans le monde matériel ; celle qui accroît la vie et qui est sainte, celle qui accroît les troupeaux et qui est sainte, celle qui accroît le troupeau et qui est sainte, celle qui accroît la richesse et qui est sainte, celle qui accroît le pays et qui est sainte [^814] ;
 
@@ -84,7 +84,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 6\. 'Le grand fleuve, connu de loin, qui est aussi large que la totalité de toutes les eaux qui courent le long de la terre ; qui coule puissamment de la hauteur de Hukairya jusqu'à la mer Vouru-Kasha.
 
-7\. 'Tous les rivages de la mer Vouru-Kasha sont en ébullition, tout son milieu est en ébullition, <span id="p182">[<sup><small>p. 182</small></sup>]</span> quand elle coule là-bas, quand elle ruisselle là-bas, elle, Ardvi Sûra Anâhita, qui a mille cellules et mille canaux ; l'étendue de chacune de ces cellules, de chacun de ces canaux, est autant qu'un homme peut monter à cheval en quarante jours, monté sur un bon cheval.
+7\. 'Tous les rivages de la mer Vouru-Kasha sont en ébullition, tout son milieu est en ébullition, <span id="p182"><sup><small>[ p. 182 ]</small></sup></span> quand elle coule là-bas, quand elle ruisselle là-bas, elle, Ardvi Sûra Anâhita, qui a mille cellules et mille canaux ; l'étendue de chacune de ces cellules, de chacun de ces canaux, est autant qu'un homme peut monter à cheval en quarante jours, monté sur un bon cheval.
 
 8\. « De cette rivière qui est la mienne coulent toutes les eaux qui s'étendent sur les sept Karshvares ; cette rivière qui est la mienne continue à apporter de l'eau, été comme hiver. Cette rivière qui est la mienne purifie la semence des mâles, l'utérus des femelles, le lait des femelles [^816]. »
 
@@ -92,7 +92,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 10\. « Sur lesquels coulent les nombreux ruisseaux et rivières ; sur lesquels les nombreuses espèces de plantes poussent du sol, pour nourrir les animaux et les hommes, pour nourrir les nations aryennes, pour nourrir les cinq espèces d'animaux [^817], et pour aider les fidèles.
 
-11\. « Par leur éclat et leur gloire, ô Zarathustra ! Je maintiens dans le ventre l'enfant qui a été conçu, afin qu'il ne meure pas des <span id="p183">[<sup><small>p. 183</small></sup>]</span> assauts de Vîdôtu [^818], et je développe en lui [^819] les os, les cheveux, les . . . . [^820], les entrailles, les pieds et les organes sexuels.
+11\. « Par leur éclat et leur gloire, ô Zarathustra ! Je maintiens dans le ventre l'enfant qui a été conçu, afin qu'il ne meure pas des <span id="p183"><sup><small>[ p. 183 ]</small></sup></span> assauts de Vîdôtu [^818], et je développe en lui [^819] les os, les cheveux, les . . . . [^820], les entrailles, les pieds et les organes sexuels.
 
 12\. « Si les terribles Fravashis des fidèles ne m'avaient pas aidé, ces animaux et ces hommes qui sont à moi, dont il existe des espèces si excellentes, ne subsisteraient pas ; la force appartiendrait au Druga, la domination appartiendrait au Druga, le monde matériel appartiendrait au Druga.
 
@@ -102,7 +102,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 15\. « Par leur éclat et leur gloire, les femelles conçoivent une progéniture ; par leur éclat et leur gloire, elles enfantent en sécurité ; c'est par leur éclat et leur gloire qu'elles sont bénies d'avoir des enfants. »
 
-16\. « Par leur éclat et leur gloire naît un homme qui est un chef dans les assemblées et les réunions [^821], qui écoute bien [^822] les paroles (sainte), que la Sagesse <span id="p184">[<sup><small>p. 184</small></sup>]</span> chérit [^823], et qui revient vainqueur des discussions avec Gaotema, l'hérétique [^824]. »
+16\. « Par leur éclat et leur gloire naît un homme qui est un chef dans les assemblées et les réunions [^821], qui écoute bien [^822] les paroles (sainte), que la Sagesse <span id="p184"><sup><small>[ p. 184 ]</small></sup></span> chérit [^823], et qui revient vainqueur des discussions avec Gaotema, l'hérétique [^824]. »
 
 « À travers leur éclat et leur gloire, le soleil poursuit son chemin ; à travers leur éclat et leur gloire, la lune poursuit son chemin ; à travers leur éclat et leur gloire, les étoiles poursuivent leur chemin.
 
@@ -112,7 +112,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 18\. 'Et l'homme qui, dans sa vie, traitera bien les Fravashis des fidèles, deviendra un dirigeant du pays avec plein pouvoir, et un chef très fort ; ainsi deviendra tout homme d'entre vous, qui traitera bien Mithra, le seigneur des vastes pâturages, et Ar<i>s</i>tâ<i>t</i>, qui fait croître le monde, qui fait croître le monde.
 
-19\. 'Ainsi je te proclame, ô pur Spitama ! la vigueur et la force, la gloire, l'aide et la joie qui sont dans les Fravashis des fidèles, <span id="p185">[<sup><small>p. 185</small></sup>]</span> les Fravashis redoutables et surpuissants ; et comment ils viennent à mon secours, comment ils m'apportent assistance, les terribles Fravashis des fidèles [^827].'
+19\. 'Ainsi je te proclame, ô pur Spitama ! la vigueur et la force, la gloire, l'aide et la joie qui sont dans les Fravashis des fidèles, <span id="p185"><sup><small>[ p. 185 ]</small></sup></span> les Fravashis redoutables et surpuissants ; et comment ils viennent à mon secours, comment ils m'apportent assistance, les terribles Fravashis des fidèles [^827].'
 
 ## II.
 
@@ -122,7 +122,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 22\. ' "Qui maintiennent le ciel, qui maintiennent les eaux, qui maintiennent la terre, qui maintiennent le bétail, qui maintiennent dans le ventre l'enfant qui a été conçu, afin qu'il ne meure pas des assauts de Vîdôtu, et développent en lui les os, les cheveux, les . . . ., les entrailles, les pieds et les organes sexuels [^830] ;
 
-23\. ' "Qui sont porteurs de beaucoup, qui se déplacent avec <span id="p186">[<sup><small>p. 186</small></sup>]</span> terreur, qui se déplacent bien, qui se déplacent rapidement, qui se déplacent vite, qui se déplacent lorsqu'ils sont invoqués ; qui doivent être invoqués dans la conquête du bien, qui doivent être invoqués dans les combats contre les ennemis, qui doivent être invoqués dans les batailles ;
+23\. ' "Qui sont porteurs de beaucoup, qui se déplacent avec <span id="p186"><sup><small>[ p. 186 ]</small></sup></span> terreur, qui se déplacent bien, qui se déplacent rapidement, qui se déplacent vite, qui se déplacent lorsqu'ils sont invoqués ; qui doivent être invoqués dans la conquête du bien, qui doivent être invoqués dans les combats contre les ennemis, qui doivent être invoqués dans les batailles ;
 
 24\. ' "Qui donnent la victoire à leur invocateur, qui donnent des bienfaits à leur amant, qui donnent la santé au malade, qui donnent une bonne gloire à l'homme fidèle qui apporte des libations et les invoque avec un sacrifice et des paroles de propitiation [^831] ;
 
@@ -132,7 +132,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 26\. Nous adorons les bons, forts et bienfaisants Fravashis des fidèles, qui sont les plus puissants des conducteurs, les plus légers de ceux qui avancent, les plus lents de ceux qui reculent [^835], les plus sûrs [^835] de tous les ponts, les moins errants [^835] de toutes les armes et de tous les bras [^836], et qui ne tournent jamais le dos [^837].
 
-27\. Aussitôt, où qu'ils viennent, nous les adorons, les bons, les excellents, les bons, les forts, les bienfaisants Fravashis des fidèles. Ils doivent être invoqués lorsque les paquets de baresma sont attachés ; ils doivent être invoqués dans les combats contre les ennemis, dans les batailles [^838], et là où des hommes vaillants s'efforcent de vaincre leurs ennemis. <span id="p187">[<sup><small>p. 187</small></sup>]</span> 28\. Mazda les a invoqués à l'aide, lorsqu'il a fixé le ciel, les eaux, la terre et les plantes ; lorsque Spe<i>n</i>ta-Mainyu a fixé le ciel, lorsqu'il a fixé les eaux, lorsque la terre, lorsque le bétail, lorsque les plantes, lorsque l'enfant conçu dans le ventre, afin qu'il ne meure pas des assauts de Vîdôtu, et qu'il y a développé les os, les cheveux, le... ., les entrailles, les pieds et les organes sexuels [^839].
+27\. Aussitôt, où qu'ils viennent, nous les adorons, les bons, les excellents, les bons, les forts, les bienfaisants Fravashis des fidèles. Ils doivent être invoqués lorsque les paquets de baresma sont attachés ; ils doivent être invoqués dans les combats contre les ennemis, dans les batailles [^838], et là où des hommes vaillants s'efforcent de vaincre leurs ennemis. <span id="p187"><sup><small>[ p. 187 ]</small></sup></span> 28\. Mazda les a invoqués à l'aide, lorsqu'il a fixé le ciel, les eaux, la terre et les plantes ; lorsque Spe<i>n</i>ta-Mainyu a fixé le ciel, lorsqu'il a fixé les eaux, lorsque la terre, lorsque le bétail, lorsque les plantes, lorsque l'enfant conçu dans le ventre, afin qu'il ne meure pas des assauts de Vîdôtu, et qu'il y a développé les os, les cheveux, le... ., les entrailles, les pieds et les organes sexuels [^839].
 
 29\. Spe<i>n</i>ta-Mainyu maintenait le ciel, et ils le soutenaient d'en bas, eux, les forts Fravashis, qui sont assis en silence, regardant avec des regards perçants ; dont les yeux et les oreilles sont puissants, qui apportent une longue joie, hauts et ceints ; bien mobiles et se déplaçant au loin, reniflant bruyamment [^840], possédant des richesses et une grande renommée.
 
@@ -144,7 +144,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 31\. Nous adorons les bons, forts et bienfaisants Fravashis des fidèles ; dont la volonté est redoutable pour ceux qui les vexent ; puissamment actifs et très bienfaisants ; qui au combat brisent les bras redoutables de leurs ennemis et de leurs ennemis.
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 ## VI.
 
@@ -158,7 +158,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 ## VIII.
 
-35\. Nous adorons les bons, forts, bienfaisants Fravashis des fidèles, de grande renommée, frappant au combat, très forts, porteurs de boucliers et inoffensifs pour ceux qui sont véridiques, que le poursuivant et le fuyard invoquent à l'aide : le poursuivant les invoque <span id="p189">[<sup><small>p. 189</small></sup>]</span> pour une course rapide, et le fuyard les invoque pour une course rapide ;
+35\. Nous adorons les bons, forts, bienfaisants Fravashis des fidèles, de grande renommée, frappant au combat, très forts, porteurs de boucliers et inoffensifs pour ceux qui sont véridiques, que le poursuivant et le fuyard invoquent à l'aide : le poursuivant les invoque <span id="p189"><sup><small>[ p. 189 ]</small></sup></span> pour une course rapide, et le fuyard les invoque pour une course rapide ;
 
 36\. Qui se tournent du côté où sont les hommes fidèles, les plus dévoués à la sainteté, et où est la plus grande piété, où l'homme fidèle se réjouit, et où l'homme fidèle n'est pas maltraité [^844].
 
@@ -174,7 +174,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 ## XI.
 
-40\. Nous adorons les bons, forts, bienfaisants <span id="p190">[<sup><small>p. 190</small></sup>]</span> Fravashis des fidèles ; terribles, puissants et victorieux, frappant au combat, blessant gravement, chassant (les ennemis), se déplaçant de long en large, de bonne renommée, beaux de corps, pieux d'âme et saints ; qui donnent la victoire à leur invocateur, qui accordent des bienfaits à leur amant, qui donnent la santé au malade [^852] ;
+40\. Nous adorons les bons, forts, bienfaisants <span id="p190"><sup><small>[ p. 190 ]</small></sup></span> Fravashis des fidèles ; terribles, puissants et victorieux, frappant au combat, blessant gravement, chassant (les ennemis), se déplaçant de long en large, de bonne renommée, beaux de corps, pieux d'âme et saints ; qui donnent la victoire à leur invocateur, qui accordent des bienfaits à leur amant, qui donnent la santé au malade [^852] ;
 
 41\. Qui rendent gloire à celui qui les adore par un sacrifice, comme l'a fait cet homme, le saint Zarathoustra, le chef du monde matériel, le chef de la race bipède, dans quelque lutte qu'il ait dû engager, dans quelque détresse qu'il ait craint ;
 
@@ -182,7 +182,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté. . . .
 
 43\. Ils ont répandu Satavaêsa [^855] entre la terre et le ciel, celui à qui appartiennent les eaux [^856], qui écoute les appels et fait couler les eaux et pousser les plantes, pour nourrir les animaux et les hommes, pour nourrir les nations aryennes, pour nourrir les cinq espèces d'animaux [^857], et pour aider les fidèles [^858].
 
-44\. Satavaêsa descend et coule entre la terre et le ciel, celui à qui appartiennent les eaux, qui écoute les appels et fait croître les eaux et les plantes, belles, radieuses et pleines de <span id="p191">[<sup><small>p. 191</small></sup>]</span> lumière, pour nourrir les animaux et les hommes, pour nourrir les nations aryennes, pour nourrir les cinq espèces d'animaux et pour aider les fidèles.
+44\. Satavaêsa descend et coule entre la terre et le ciel, celui à qui appartiennent les eaux, qui écoute les appels et fait croître les eaux et les plantes, belles, radieuses et pleines de <span id="p191"><sup><small>[ p. 191 ]</small></sup></span> lumière, pour nourrir les animaux et les hommes, pour nourrir les nations aryennes, pour nourrir les cinq espèces d'animaux et pour aider les fidèles.
 
 ## XII.
 
@@ -196,7 +196,7 @@ Quand le vent souffle derrière eux [^860] et apporte leur souffle aux hommes,
 
 48\. Et ces nations sont frappées d'un seul coup par leurs cinquante et leurs centaines, par leurs centaines et leurs milliers, par leurs milliers et leurs dizaines de milliers, par leurs dizaines de milliers et leurs myriades de myriades, contre lesquels se tournent les terribles Fravashis des fidèles, avec Mithra et Rashnu, et la terrible pensée maléfique du vent sage et victorieux.
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span>
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span>
 
 ## XIII.
 
@@ -204,7 +204,7 @@ Quand le vent souffle derrière eux [^860] et apporte leur souffle aux hommes,
 
 50\. « Qui nous louera ? Qui nous offrira un sacrifice ? Qui méditera sur nous ? Qui nous bénira [^865] ? Qui nous recevra avec de la nourriture et des vêtements à la main [^866] et avec une prière digne de bénédiction [^867] ? De qui d'entre nous le nom sera-t-il invoqué [^868] ? De qui d'entre vous l'âme sera-t-elle adorée par vous par un sacrifice [^869] ? À qui sera donné ce don qui est le nôtre, afin qu'il ait une nourriture inépuisable pour toujours et à jamais ? »
 
-51\. Et l'homme qui leur offre un sacrifice, <span id="p193">[<sup><small>p. 193</small></sup>]</span> avec de la nourriture et des vêtements à la main, avec une prière digne de félicité, les terribles Fravashis des fidèles, satisfaits, indemnes et non offensés, bénissent ainsi :
+51\. Et l'homme qui leur offre un sacrifice, <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> avec de la nourriture et des vêtements à la main, avec une prière digne de félicité, les terribles Fravashis des fidèles, satisfaits, indemnes et non offensés, bénissent ainsi :
 
 52\. « Qu'il y ait dans cette maison des troupeaux d'animaux et des hommes ! Qu'il y ait un cheval rapide et un char robuste ! Qu'il y ait un homme qui sache louer Dieu [^870] et gouverner une assemblée, qui nous offrira des sacrifices, la viande et les vêtements à la main, et avec une prière digne de félicité [^871]. »
 
@@ -218,7 +218,7 @@ Quand le vent souffle derrière eux [^860] et apporte leur souffle aux hommes,
 
 55\. Nous adorons les bons, forts et bienfaisants Fravashis des fidèles, qui montrent une belle croissance aux plantes fertiles [^873], qui étaient restées longtemps au même endroit sans pousser :
 
-56\. Et maintenant ils grandissent le long du chemin tracé <span id="p194">[<sup><small>p. 194</small></sup>]</span> par Mazda, le long du chemin tracé par les dieux, au temps qui leur a été imparti, selon la volonté d'Ahura Mazda, selon la volonté des Amesha-Spe<i>n</i>tas.
+56\. Et maintenant ils grandissent le long du chemin tracé <span id="p194"><sup><small>[ p. 194 ]</small></sup></span> par Mazda, le long du chemin tracé par les dieux, au temps qui leur a été imparti, selon la volonté d'Ahura Mazda, selon la volonté des Amesha-Spe<i>n</i>tas.
 
 ## XVI.
 
@@ -236,7 +236,7 @@ Quand le vent souffle derrière eux [^860] et apporte leur souffle aux hommes,
 
 ## XIX.
 
-61\. Nous adorons les bons, forts et bienfaisants Fravashis des fidèles, qui veillent sur le corps <span id="p195">[<sup><small>p. 195</small></sup>]</span> de Keresâspa, le fils de Sâma [^877], le porteur de massue aux cheveux tressés, au nombre de quatre-vingt-dix mille, neuf mille, neuf cents, quatre-vingt-dix-neuf.
+61\. Nous adorons les bons, forts et bienfaisants Fravashis des fidèles, qui veillent sur le corps <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> de Keresâspa, le fils de Sâma [^877], le porteur de massue aux cheveux tressés, au nombre de quatre-vingt-dix mille, neuf mille, neuf cents, quatre-vingt-dix-neuf.
 
 ## XX.
 
@@ -248,7 +248,7 @@ Quand le vent souffle derrière eux [^860] et apporte leur souffle aux hommes,
 
 ## XXII.
 
-64\. Nous adorons les bons, forts, bienfaisants Fravashis des fidèles, qui sont plus grands, qui sont <span id="p196">[<sup><small>p. 196</small></sup>]</span> plus forts, qui sont plus rapides, qui sont plus puissants, qui sont plus victorieux, qui guérissent davantage, qui sont plus efficaces que ce qui peut être exprimé par des mots ; qui courent par dizaines de milliers au milieu des Myazdas.
+64\. Nous adorons les bons, forts, bienfaisants Fravashis des fidèles, qui sont plus grands, qui sont <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> plus forts, qui sont plus rapides, qui sont plus puissants, qui sont plus victorieux, qui guérissent davantage, qui sont plus efficaces que ce qui peut être exprimé par des mots ; qui courent par dizaines de milliers au milieu des Myazdas.
 
 65\. Et quand les eaux montent de la mer Vouru-Kasha, ô Spitama Zarathu<i>s</i>tra ! avec la Gloire faite par Mazda [^880], alors arrivent les terribles Fravashis des fidèles, des centaines et des milliers, des dizaines et des milliers,
 
@@ -260,7 +260,7 @@ Quand le vent souffle derrière eux [^860] et apporte leur souffle aux hommes,
 
 69\. Et lorsque le souverain tout-puissant d'un pays a été surpris par ses ennemis et ses ennemis, il les invoque, les terribles Fravashis des fidèles.
 
-70\. Et ils viennent à son secours, s'ils n'ont pas été blessés par lui, s'ils ont été réjouis par lui, s'ils n'ont été ni blessés ni offensés, les terribles Fravashis des fidèles : ils volent vers lui, on dirait des oiseaux bien ailés. <span id="p197">[<sup><small>p. 197</small></sup>]</span> 71\. Ils viennent comme une arme et comme un bouclier, pour le garder derrière et devant, du Druga invisible, du démon femelle Varenya, du malfaiteur déterminé à faire le mal, et de ce démon qui est toute mort, Angra Mainyu. Ce sera comme s'il y avait mille hommes veillant sur un seul homme [^882] ;
+70\. Et ils viennent à son secours, s'ils n'ont pas été blessés par lui, s'ils ont été réjouis par lui, s'ils n'ont été ni blessés ni offensés, les terribles Fravashis des fidèles : ils volent vers lui, on dirait des oiseaux bien ailés. <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> 71\. Ils viennent comme une arme et comme un bouclier, pour le garder derrière et devant, du Druga invisible, du démon femelle Varenya, du malfaiteur déterminé à faire le mal, et de ce démon qui est toute mort, Angra Mainyu. Ce sera comme s'il y avait mille hommes veillant sur un seul homme [^882] ;
 
 72\. De sorte que ni l'épée bien lancée, ni la massue bien tombée, ni la flèche bien lancée, ni la lance bien lancée, ni les pierres lancées du bras ne le détruiront.
 
@@ -270,7 +270,7 @@ Quand le vent souffle derrière eux [^860] et apporte leur souffle aux hommes,
 
 Nous adorons les âmes ; celles des animaux domestiques ; celles des animaux sauvages ; celles des animaux qui vivent dans les eaux ; celles des animaux qui vivent sous la terre ; celles de ceux qui volent ; celles de ceux qui courent ; celles de ceux qui broutent [^886].
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 Nous vénérons leurs Fravashis [^887].
 
@@ -344,7 +344,7 @@ Celle de l'homme vivant [^903] ;
 
 Celui de la sainte création [^904].
 
-87\. Nous vénérons le Fravashi de Gaya Maretan [^905], <span id="p201">[<sup><small>p. 201</small></sup>]</span> qui fut le premier à écouter la pensée et l'enseignement d'Ahura Mazda ; de qui Ahura forma la race des nations aryennes, la semence des nations aryennes.
+87\. Nous vénérons le Fravashi de Gaya Maretan [^905], <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> qui fut le premier à écouter la pensée et l'enseignement d'Ahura Mazda ; de qui Ahura forma la race des nations aryennes, la semence des nations aryennes.
 
 Nous adorons la piété et le Fravashi du saint Zarathustra ;
 
@@ -352,7 +352,7 @@ Nous adorons la piété et le Fravashi du saint Zarathustra ;
 
 89\. Qui fut le premier Prêtre, le premier Guerrier, le premier Laboureur de la terre ; qui le premier prit le tour de la roue [^910] des mains du Daêva et de l'homme au cœur froid ; qui le premier dans le monde matériel prononça les louanges d'Asha [^911], réduisant ainsi les Daêvas à néant, et se confessa lui-même comme un adorateur de Mazda, un disciple de Zarathustra, quelqu'un qui hait les Daêvas et obéit aux lois d'Ahura.
 
-90\. Qui, le premier dans le monde matériel, prononça la parole qui détruit les Daêvas, la loi d'Ahura ; qui, le premier dans le monde matériel, proclama la parole qui détruit les Daêvas, la loi d'Ahura ; qui <span id="p202">[<sup><small>p. 202</small></sup>]</span> le premier dans le monde matériel déclara toute la création des Daêvas indigne de sacrifice et de prière ; qui était fort, donnant toutes les bonnes choses de la vie, le premier porteur de la Loi parmi les nations ;
+90\. Qui, le premier dans le monde matériel, prononça la parole qui détruit les Daêvas, la loi d'Ahura ; qui, le premier dans le monde matériel, proclama la parole qui détruit les Daêvas, la loi d'Ahura ; qui <span id="p202"><sup><small>[ p. 202 ]</small></sup></span> le premier dans le monde matériel déclara toute la création des Daêvas indigne de sacrifice et de prière ; qui était fort, donnant toutes les bonnes choses de la vie, le premier porteur de la Loi parmi les nations ;
 
 91\. En qui était entendue toute la Mãthra, la parole de sainteté ; qui était le seigneur et le maître du monde [^912], le loueur du très grand, du très bon et du très beau Asha [^913] ; qui avait une révélation de la Loi, le plus excellent de tous les êtres ;
 
@@ -364,7 +364,7 @@ Nous adorons la piété et le Fravashi du saint Zarathustra ;
 
 95\. « Là, Mithra, le seigneur des vastes pâturages, augmentera toutes les excellences de nos pays et apaisera leurs troubles ; là, le puissant Apãm-Napâ<i>t</i> [^915] augmentera toutes les excellences de nos pays et apaisera leurs troubles. »
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span>
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span>
 
 Nous adorons la piété et le Fravashi de Maidhyô-m<i>a</i>ungha, le fils d'Arâsti [^916], qui fut le premier à écouter la parole et l'enseignement de Zarathu<i>s</i>tra.
 
@@ -388,7 +388,7 @@ Nous vénérons le Fravashi du saint Fradhidaya.
 
 Nous adorons le Fravashi du saint Usmânara, le fils de Paêshata.
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 Nous adorons le Fravashi du saint Vohu-rao<i>k</i>ah, le fils de Frânya ;
 
@@ -408,7 +408,7 @@ Nous adorons le Fravashi du saint Thrimithwa<i>n</i><i>t</i>, le fils de Spitâm
 
 Nous vénérons le Fravashi du saint D<i>a</i>ungha, le fils de Zairita.
 
-99\. Nous adorons le Fravashi du saint roi Vî<i>s</i>tâspa [^923] ; le vaillant, qui était le Verbe incarné <span id="p205">[<sup><small>p. 205</small></sup>]</span>, le Verbe à la lance puissante et majestueuse ; qui, repoussant le Druk [^924] devant lui, chercha une large place à la sainte religion ; qui, repoussant le Druk [^924] devant lui, fit une large place à la sainte religion, qui se fit le bras et le soutien de cette loi d'Ahura, de cette loi de Zarathu<i>s</i>tra.
+99\. Nous adorons le Fravashi du saint roi Vî<i>s</i>tâspa [^923] ; le vaillant, qui était le Verbe incarné <span id="p205"><sup><small>[ p. 205 ]</small></sup></span>, le Verbe à la lance puissante et majestueuse ; qui, repoussant le Druk [^924] devant lui, chercha une large place à la sainte religion ; qui, repoussant le Druk [^924] devant lui, fit une large place à la sainte religion, qui se fit le bras et le soutien de cette loi d'Ahura, de cette loi de Zarathu<i>s</i>tra.
 
 100\. Qui la prit [^925], debout liée [^926], des mains des Hunus [^927], et l'établit pour siéger au milieu \[du monde\], haut dirigeante, ne reculant jamais, sainte, nourrie de beaucoup de bétail et de pâturages, bénie de beaucoup de bétail et de pâturages [^927].
 
@@ -426,7 +426,7 @@ Nous adorons le Fravashi du saint Varâza ;
 
 Nous vénérons le Fravashi du saint Bû<i>g</i>i-sravah [^929].
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 Nous vénérons les Fravashi des saints Berezy-ar<i>s</i>ti ;
 
@@ -456,7 +456,7 @@ Nous vénérons le Fravashi du saint Âtare-dâta ;
 
 Nous adorons le Fravashi du saint Âtare-<i>k</i>ithra ;
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 Nous adorons le Fravashi de la sainte Âtare-<i>h</i><i>v</i>arenah ;
 
@@ -480,7 +480,7 @@ Nous adorons le Fravashi du saint Frashao<i>s</i>tra [^935], le fils de Hvôva ;
 
 Nous adorons le Fravashi du saint <i>G</i>âmâspa [^936], le fils de Hvôva ;
 
-<span id="p208">[<sup><small>p. 208</small></sup>]</span>
+<span id="p208"><sup><small>[ p. 208 ]</small></sup></span>
 
 Nous vénérons le Fravashi du saint Avârao<i>s</i>tri [^937].
 
@@ -496,7 +496,7 @@ Nous adorons le Fravashi du saint Vohu-nemah, le fils d'Avârao<i>s</i>tri,
 
 Pour résister aux mauvais rêves, pour résister aux mauvaises visions, pour résister au mal... [^939], pour résister aux mauvais Pairikas.
 
-105\. Nous adorons le Fravashi du saint Mãthravâka, le fils de Sîmaê<i>z</i>i, l'Aêthrapati, l'Hamidhpati [^940], qui fut capable d'abattre la plupart des Ashemaoghas mauvais et infidèles, qui crient les hymnes [^941] et ne reconnaissent ni seigneur ni maître [^942], les êtres redoutables dont les Fravashis doivent être brisés [^943] ; pour résister au mal fait par les fidèles [^944]. <span id="p209">[<sup><small>p. 209</small></sup>]</span> 106\. Nous adorons le Fravashi du saint Ashastu, le fils de Maidhyô-m<i>a</i>ungha [^945].
+105\. Nous adorons le Fravashi du saint Mãthravâka, le fils de Sîmaê<i>z</i>i, l'Aêthrapati, l'Hamidhpati [^940], qui fut capable d'abattre la plupart des Ashemaoghas mauvais et infidèles, qui crient les hymnes [^941] et ne reconnaissent ni seigneur ni maître [^942], les êtres redoutables dont les Fravashis doivent être brisés [^943] ; pour résister au mal fait par les fidèles [^944]. <span id="p209"><sup><small>[ p. 209 ]</small></sup></span> 106\. Nous adorons le Fravashi du saint Ashastu, le fils de Maidhyô-m<i>a</i>ungha [^945].
 
 Nous adorons le Fravashi du saint Avarethrabah, le fils de Râstare-vagha<i>n</i><i>t</i>.
 
@@ -516,7 +516,7 @@ Nous adorons le Fravashi du saint Frâyaodha, le fils de Karesna.
 
 Nous adorons le Fravashi du saint et bon Arshya ; Arshya, le chef des assemblées, le plus énergique des adorateurs de Mazda.
 
-<span id="p210">[<sup><small>p. 210</small></sup>]</span>
+<span id="p210"><sup><small>[ p. 210 ]</small></sup></span>
 
 Nous adorons le Fravashi du saint Dâraya<i>t</i>\-ratha ;
 
@@ -550,7 +550,7 @@ Nous adorons le Fravashi du saint Ashâvanghu, le fils de Biva<i>n</i>dangha [^9
 
 Nous adorons le Fravashi du saint <i>G</i>arô-danghu, le fils de Pairi<i>s</i>tîra [^950] ;
 
-<span id="p211">[<sup><small>p. 211</small></sup>]</span>
+<span id="p211"><sup><small>[ p. 211 ]</small></sup></span>
 
 Nous vénérons le Fravashi du saint Neremyazdana, le fils d'Âthwyôza.
 
@@ -578,7 +578,7 @@ Nous adorons le Fravashi du saint Khshoiwrâspa, le fils de Kh<i>s</i>tâvaênya
 
 Nous adorons le Fravashi du saint Vohv-asti, le fils de Pouru-dhâkh<i>s</i>ti ;
 
-<span id="p212">[<sup><small>p. 212</small></sup>]</span>
+<span id="p212"><sup><small>[ p. 212 ]</small></sup></span>
 
 Nous adorons le Fravashi du saint Gayadhâsti, le fils de Pouru-dhâkh<i>s</i>ti ;
 
@@ -608,7 +608,7 @@ Nous vénérons le Fravashi de la sainte Usinemah.
 
 Nous adorons le Fravashi du saint Ashaskyaothna, le fils de Gayadhâsti [^959].
 
-<span id="p213">[<sup><small>p. 213</small></sup>]</span>
+<span id="p213"><sup><small>[ p. 213 ]</small></sup></span>
 
 Nous adorons le Fravashi du saint Vohu-nemah, le fils de Katu ;
 
@@ -642,7 +642,7 @@ Nous adorons le Fravashi du saint Frâ<i>k</i>ya, le fils de Taurvâti.
 
 Nous adorons le Fravashi du saint Vahmaêdâta, le fils de Mãthravâka [^962].
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 Nous adorons le Fravashi du saint U<i>s</i>tra, le fils de Sadhanah.
 
@@ -684,7 +684,7 @@ Nous adorons le Fravashi du saint <i>H</i><i>v</i>âkhshathra.
 
 Nous vénérons le Fravashi du saint Ashô-paoirya.
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 Nous vénérons le Fravashi du saint ASTVA<i>T</i>\-ERETA [^963].
 
@@ -722,7 +722,7 @@ Nous vénérons le Fravashi de la sainte Frya.
 
 Nous adorons le Fravashi du saint dont le nom est Ashem-yêNhê-vereza ;
 
-<span id="p216">[<sup><small>p. 216</small></sup>]</span>
+<span id="p216"><sup><small>[ p. 216 ]</small></sup></span>
 
 Nous adorons le Fravashi du saint dont le nom est Ashem-yahmâi-u<i>s</i>tâ [^965].
 
@@ -748,7 +748,7 @@ Nous vénérons le Fravashi du saint Vîsrûtâra.
 
 Nous vénérons le Fravashi de la sainte Baremna.
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Nous vénérons le Fravashi du saint Visrûta.
 
@@ -778,7 +778,7 @@ Nous adorons le Fravashi du saint Avahya, le fils de Spe<i>n</i>ta.
 
 Nous adorons le Fravashi du saint Aêta, le fils de Mâyu ;
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Nous adorons le Fravashi du saint Yaêtu<i>s</i>\-g<i>a</i>u, le fils de Vyâtana.
 
@@ -806,7 +806,7 @@ Nous adorons le Fravashi du saint et pur Avare-g<i>a</i>u, le fils d'Aoighimatas
 
 Nous vénérons le Fravashi du saint Gaomant, le fils de Zavan, un homme Raozdya du pays Raozdya.
 
-Nous adorons le Fravashi du saint Thri<i>t</i>, le fils d'Aêvo-saredha-fyaê<i>s</i>ta, un homme Tanya du pays Tanya. <span id="p219">[<sup><small>p. 219</small></sup>]</span> 126\. Nous adorons le Fravashi du saint Tîrô-nakathwa, de la maison Uspaê<i>s</i>ta-Saêna [^976].
+Nous adorons le Fravashi du saint Thri<i>t</i>, le fils d'Aêvo-saredha-fyaê<i>s</i>ta, un homme Tanya du pays Tanya. <span id="p219"><sup><small>[ p. 219 ]</small></sup></span> 126\. Nous adorons le Fravashi du saint Tîrô-nakathwa, de la maison Uspaê<i>s</i>ta-Saêna [^976].
 
 Nous adorons le Fravashi du saint Utayuti Vi<i>t</i>-kavi, le fils de Zighri, de la maison Saêna [^976] ;
 
@@ -834,7 +834,7 @@ Nous vénérons le Fravashi du saint Hvare-kaêsman ;
 
 Nous adorons le Fravashi de la sainte Frâda<i>t</i>\-<i>h</i><i>v</i>arenah ;
 
-<span id="p220">[<sup><small>p. 220</small></sup>]</span>
+<span id="p220"><sup><small>[ p. 220 ]</small></sup></span>
 
 Nous adorons le Fravashi de la sainte Vareda<i>t</i>\-<i>h</i><i>v</i>arenah ;
 
@@ -850,7 +850,7 @@ Nous adorons le Fravashi du saint ASTVA<i>T</i>\-ERETA [^984] ;
 
 ## XXVIII.
 
-129\. Dont le nom sera le victorieux SAOSHYA<i>N</i><i>T</i> et dont le nom sera Astva<i>t</i>-ereta. Il sera SAOSHYA<i>N</i><i>T</i> (le Bienfaisant), car il bénéficiera au monde corporel tout entier ; il sera ASTVA<i>T</i>-ERETA (celui qui fait s'élever les créatures corporelles <span id="p221">[<sup><small>p. 221</small></sup>]</span>), car en tant que créature corporelle et en tant que créature vivante, il se dressera contre la destruction des créatures corporelles, pour résister à la Dru<i>g</i> de la progéniture bipède, pour résister au mal commis par les fidèles [^985].
+129\. Dont le nom sera le victorieux SAOSHYA<i>N</i><i>T</i> et dont le nom sera Astva<i>t</i>-ereta. Il sera SAOSHYA<i>N</i><i>T</i> (le Bienfaisant), car il bénéficiera au monde corporel tout entier ; il sera ASTVA<i>T</i>-ERETA (celui qui fait s'élever les créatures corporelles <span id="p221"><sup><small>[ p. 221 ]</small></sup></span>), car en tant que créature corporelle et en tant que créature vivante, il se dressera contre la destruction des créatures corporelles, pour résister à la Dru<i>g</i> de la progéniture bipède, pour résister au mal commis par les fidèles [^985].
 
 ## XXIX.
 
@@ -862,7 +862,7 @@ Nous adorons le Fravashi du saint Aoshnara, le fils de Pouru-<i>g</i>îra [^992]
 
 Nous adorons le Fravashi du saint Uzava, le fils de Tûmâspa [^993].
 
-<span id="p222">[<sup><small>p. 222</small></sup>]</span>
+<span id="p222"><sup><small>[ p. 222 ]</small></sup></span>
 
 Nous adorons le Fravashi du saint Aghraêratha, le demi-homme [^994].
 
@@ -884,7 +884,7 @@ Nous adorons le Fravashi du saint roi Syâvarshan [^999] ;
 
 Nous adorons le Fravashi du saint roi Husravah [^999] ;
 
-133\. Pour la Force bien formée [^1000], pour la Victoire remportée par Ahura, pour l'Ascendant écrasant ; pour la justice de la loi, pour l'innocence de <span id="p223">[<sup><small>p. 223</small></sup>]</span> la loi, pour le pouvoir invincible de la loi ; pour l'extermination des ennemis d'un seul coup ;
+133\. Pour la Force bien formée [^1000], pour la Victoire remportée par Ahura, pour l'Ascendant écrasant ; pour la justice de la loi, pour l'innocence de <span id="p223"><sup><small>[ p. 223 ]</small></sup></span> la loi, pour le pouvoir invincible de la loi ; pour l'extermination des ennemis d'un seul coup ;
 
 134\. Et pour la vigueur de la santé, pour la Gloire faite par Mazda, pour la santé du corps, et pour une bonne progéniture vertueuse, sage, chef dans les assemblées, brillant et aux yeux clairs, qui libère \[leur père\] des affres \[de l'enfer\], de bon intellect ; et pour cette part dans le monde béni qui échoit à la sagesse et à ceux qui ne suivent pas l'impiété ;
 
@@ -896,7 +896,7 @@ Nous adorons le Fravashi du saint roi Husravah [^999] ;
 
 Pour résister au méchant qui trompe son ami et à l'avare qui cause la destruction du monde [^1006].
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 Nous vénérons le Fravashi du saint et vaillant Haoshyangha ;
 
@@ -922,7 +922,7 @@ Nous vénérons le Fravashi du saint Huma [^1012].
 
 Nous vénérons le Fravashi du saint Zairiki.
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 Nous vénérons le Fravashi du saint Vîspa-taurvashi.
 
@@ -958,7 +958,7 @@ Nous vénérons le Fravashi du saint Hu<i>k</i>ithra.
 
 Nous vénérons le Fravashi du saint Kanuka.
 
-<span id="p226">[<sup><small>p. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 Nous vénérons le Fravashi de la sainte servante Srûta<i>t</i>\-fedhri [^1019].
 
@@ -976,7 +976,7 @@ Nous vénérons les Fravashis des saintes femmes des pays touraniens.
 
 Nous adorons les Fravashis des saints hommes dans les pays Sairimyan [^1024] ;
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 Nous vénérons les Fravashis des saintes femmes des pays Sairimyan.
 
@@ -1010,7 +1010,7 @@ Nous adorons les hommes de la loi primitive qui ont vécu dans ces maisons, ces 
 
 Nous adorons les hommes de la loi primitive qui sont dans ces maisons, ces bourgs, ces villes et ces pays.
 
-151\. Nous adorons les hommes de la loi primitive <span id="p229">[<sup><small>p. 229</small></sup>]</span> dans toutes les maisons, bourgs, villes et pays, qui ont obtenu ces maisons, qui ont obtenu ces bourgs, qui ont obtenu ces villes, qui ont obtenu ces pays, qui ont obtenu la sainteté, qui ont obtenu le Mãthra, qui ont obtenu la \[béatitude de l'\] âme, qui ont obtenu toutes les perfections de la bonté.
+151\. Nous adorons les hommes de la loi primitive <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> dans toutes les maisons, bourgs, villes et pays, qui ont obtenu ces maisons, qui ont obtenu ces bourgs, qui ont obtenu ces villes, qui ont obtenu ces pays, qui ont obtenu la sainteté, qui ont obtenu le Mãthra, qui ont obtenu la \[béatitude de l'\] âme, qui ont obtenu toutes les perfections de la bonté.
 
 152\. Nous adorons Zarathoustra, le seigneur et maître de tout le monde matériel, l'homme de la loi primitive ; le plus sage de tous les êtres, le plus dirigeant de tous les êtres, le plus brillant de tous les êtres, le plus glorieux de tous les êtres, le plus digne de sacrifice parmi tous les êtres, le plus digne de prière parmi tous les êtres, le plus digne de propitiation parmi tous les êtres, le plus digne de glorification parmi tous les êtres, que nous appelons bien désiré et digne de sacrifice et de prière autant que n'importe quel être peut l'être, dans la perfection de sa sainteté.
 
@@ -1022,7 +1022,7 @@ Nous adorons ces bonnes choses qui se trouvent entre (la terre et les cieux) et 
 
 154\. Nous adorons les âmes des bêtes sauvages et des animaux domestiques [^1033].
 
-Nous adorons les âmes des saints hommes et femmes, nés à n'importe quelle époque, dont les consciences luttent, lutteront, ou ont lutté, pour le bien. <span id="p230">[<sup><small>p. 230</small></sup>]</span> 155\. Nous adorons l'esprit, la conscience, la perception, l'âme et le Fravashi des saints hommes et des saintes femmes qui luttent, lutteront, ou ont lutté, et enseignent la Loi, et qui ont lutté pour la sainteté.
+Nous adorons les âmes des saints hommes et femmes, nés à n'importe quelle époque, dont les consciences luttent, lutteront, ou ont lutté, pour le bien. <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> 155\. Nous adorons l'esprit, la conscience, la perception, l'âme et le Fravashi des saints hommes et des saintes femmes qui luttent, lutteront, ou ont lutté, et enseignent la Loi, et qui ont lutté pour la sainteté.
 
 Yênhê hâtãm : Tous ces êtres à qui Ahura Mazda . . .
 

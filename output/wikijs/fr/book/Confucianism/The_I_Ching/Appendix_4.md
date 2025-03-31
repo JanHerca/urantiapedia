@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:12Z
   </table>
 </figure>
 
-<span id="p408">[<sup><small>p. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 Complément au Thwan et au Yâo sur les premier et deuxième hexagrammes, et montrant comment ils peuvent être interprétés de la nature et des actions de l'homme [^278]
 
@@ -44,7 +44,7 @@ Chapitre [^279]. 1. Ce qu'on appelle (sous Khien) « le grand et l'originaire »
 
 3\. Le fait que l'homme supérieur pratique ces quatre vertus justifie l'application à lui des mots : « <i>Kh</i>ien représente ce qui est grand et originaire, pénétrant, avantageux, correct et ferme. »
 
-<span id="p409">[<sup><small>p. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 Chapitre [^280]. 4. Que signifient les mots sous le premier NEUF (indivisé) : « Le dragon est caché (dans les profondeurs) ; ce n’est pas le moment d’agir ? » Le Maître dit : « Il est là, avec les pouvoirs du dragon, et pourtant caché. L’influence du monde ne changerait rien en lui ; il ne ferait rien (simplement) pour assurer sa renommée. Il peut vivre, retiré du monde, sans regret ; il peut éprouver la désapprobation sans trouble d’esprit. Se réjouissant (de l’opportunité), il met ses principes en action ; affligé (par le manque d’opportunité), il les conserve dans sa retraite. Oui, il ne doit pas être arraché à sa racine (en lui-même). » Tel est « le dragon caché ».
 
@@ -56,9 +56,9 @@ Chapitre [^280]. 4. Que signifient les mots sous le premier NEUF (indivisé) : �
 
 8. Que signifient les mots sous le cinquième NEUF : « Le dragon vole dans le ciel ; il sera avantageux de voir le grand homme ? » Le Maître dit : « Les notes de même tonalité se répondent ; les créatures de même nature se cherchent ; l’eau coule vers l’endroit (bas et) humide ; le feu s’élève vers le sec ; les nuages ​​suivent le dragon et les vents suivent le tigre : ainsi le sage apparaît, et tous les hommes le regardent. Ce qui tire son origine du ciel se dirige vers ce qui est en haut ; ce qui tire son origine de la terre s’attache à ce qui est en bas : ainsi chaque chose suit son espèce. »
 
-9\. Que signifient les mots sous le NEUF supérieur : « Le dragon dépasse les limites appropriées ; il y aura lieu de se repentir ? » Le Maître dit : « La position est noble, mais ce n’est pas celle d’une fonction ; (son occupant) réside en haut, mais il n’a pas de peuple (à gouverner) ; et les hommes de talent <span id="p412">[<sup><small>p. 412</small></sup>]</span> et de vertu dans les positions inférieures ne lui seront d’aucun secours ; s’il agit dans un tel cas, il y aura lieu de se repentir. »
+9\. Que signifient les mots sous le NEUF supérieur : « Le dragon dépasse les limites appropriées ; il y aura lieu de se repentir ? » Le Maître dit : « La position est noble, mais ce n’est pas celle d’une fonction ; (son occupant) réside en haut, mais il n’a pas de peuple (à gouverner) ; et les hommes de talent <span id="p412"><sup><small>[ p. 412 ]</small></sup></span> et de vertu dans les positions inférieures ne lui seront d’aucun secours ; s’il agit dans un tel cas, il y aura lieu de se repentir. »
 
-<span id="p413">[<sup><small>p. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 Chapitre [^281]. 10. « Le dragon se cache ; ce n'est pas le moment d'agir activement » : la position est (trop) basse.
 
@@ -74,7 +74,7 @@ Chapitre [^281]. 10. « Le dragon se cache ; ce n'est pas le moment d'agir activ
 
 16\. Des lignes indivises apparaissent dans toutes ces représentations de la grande puissance originelle désignée par Khien : — (ce qui suit dans le Yâo nous dit comment) partout sous le ciel il y aura un bon ordre.
 
-<span id="p414">[<sup><small>p. 414</small></sup>]</span>
+<span id="p414"><sup><small>[ p. 414 ]</small></sup></span>
 
 Chapitre [^282]. 17. « Le dragon se cache dans les profondeurs ; ce n'est pas le moment d'agir activement » : l'énergie désignée par la ligne non divisée est accumulée et cachée comme dans les profondeurs.
 
@@ -90,7 +90,7 @@ Chapitre [^282]. 17. « Le dragon se cache dans les profondeurs ; ce n'est pas l
 
 23\. Des NEUF indivis apparaissent dans toutes ces représentations de la grande puissance originelle désignée par <i>Kh</i>ien : — et (d'après ce qui suit dans le Yâo) nous voyons le modèle (d'action) offert par le ciel.
 
-<span id="p415">[<sup><small>p. 415</small></sup>]</span>
+<span id="p415"><sup><small>[ p. 415 ]</small></sup></span>
 
 Chapitre [^283]. 24. La « grandeur » et « l'origine » représentées par <i>Kh</i>ien se réfèrent à lui comme (le symbole de) ce qui donne leur commencement (à toutes choses), et (aussi) assure leur croissance et leur développement.
 
@@ -104,7 +104,7 @@ Chapitre [^283]. 24. La « grandeur » et « l'origine » représentées par <i>
 
 29\. (Le grand homme) au moment opportun parcourt le ciel avec ces six dragons. Les nuages ​​se déplacent et la pluie se répand ; tout sous le ciel jouit du repos.
 
-<span id="p416">[<sup><small>p. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 Chapitre [^284]. 30. Chez l'homme supérieur, sa conduite est le fruit de sa vertu parfaite, qui se manifeste donc dans sa vie quotidienne ; mais la force de cette expression, « rester caché », exige qu'il se tienne à l'écart, sans se montrer encore, ni parvenir au plein développement de sa vie. Tant que tel est le cas, l'homme supérieur sait que ce n'est pas le moment d'agir activement.
 
@@ -122,13 +122,13 @@ Chapitre [^284]. 30. Chez l'homme supérieur, sa conduite est le fruit de sa ver
 
 
 
-<span id="p418">[<sup><small>p. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 ## SECTION II : KHWĂN
 
 [^285]
 
-Chapitre I. 1. (Ce qui est indiqué par) Khwăn est très doux et faible, mais, lorsqu'il est mis en mouvement, il est <span id="p419">[<sup><small>p. 419</small></sup>]</span> dur et fort ; il est très immobile, mais est capable de donner toute forme définie.
+Chapitre I. 1. (Ce qui est indiqué par) Khwăn est très doux et faible, mais, lorsqu'il est mis en mouvement, il est <span id="p419"><sup><small>[ p. 419 ]</small></sup></span> dur et fort ; il est très immobile, mais est capable de donner toute forme définie.
 
 2\. « En suivant, il obtient son (propre) seigneur » et poursuit son (cours) régulier.
 
@@ -142,7 +142,7 @@ Chapitre II. 5. La famille qui accumule le bien est sûre d'avoir un bonheur sur
 
 7\. Bien que (le sujet de) cette lignée divisée possède d'excellentes qualités, il (ne les affiche pas, mais) les maîtrise. « S'il s'engage avec eux au service du roi et réussit, il ne s'en attribuera pas la réussite » : telle est la voie terrestre, celle d'une épouse, celle d'un ministre. La voie terrestre est de « ne pas s'attribuer le mérite de la réussite », mais de mener les choses à leur terme, au nom (du ciel).
 
-8\. Grâce aux changements et aux transformations produits par le ciel et la terre, les plantes et les arbres croissent abondamment. Si l'influence réciproque du ciel et de la terre était contenue et restreinte, nous aurions (une situation qui pourrait nous suggérer) le cas d'hommes vertueux et talentueux gisant dans l'obscurité. Les paroles du Yî : « Un sac fermé : il n'y aura <span id="p421">[<sup><small>p. 421</small></sup>]</span> aucun motif de blâme ou de louange » sont en réalité une leçon de prudence.
+8\. Grâce aux changements et aux transformations produits par le ciel et la terre, les plantes et les arbres croissent abondamment. Si l'influence réciproque du ciel et de la terre était contenue et restreinte, nous aurions (une situation qui pourrait nous suggérer) le cas d'hommes vertueux et talentueux gisant dans l'obscurité. Les paroles du Yî : « Un sac fermé : il n'y aura <span id="p421"><sup><small>[ p. 421 ]</small></sup></span> aucun motif de blâme ou de louange » sont en réalité une leçon de prudence.
 
 9\. L'homme supérieur (représenté ici par la couleur jaune et correcte) est doué de compréhension et de discernement. Il occupe la position correcte (de suprématie), mais (cet emblème) se trouve sur (la partie inférieure de) sa personne. Son excellence est au centre (de son être), mais elle diffuse une complaisance sur ses quatre membres et se manifeste dans sa (conduite) des affaires : c'est la perfection de l'excellence.
 

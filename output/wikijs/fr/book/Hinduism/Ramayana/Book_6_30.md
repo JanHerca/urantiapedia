@@ -60,7 +60,7 @@ Ses yeux s'enflamment de colère et d'orgueil :
 Les biens sont offerts à la base. \*
 Longanimité, patience, paroles douces
 
-<span id="p443">[<sup><small>p. 443</small></sup>]</span>
+<span id="p443"><sup><small>[ p. 443 ]</small></sup></span>
 
 Leurs cœurs ingrats ne pourront jamais les atteindre.
 Le monde lui rend son honneur
@@ -179,7 +179,7 @@ Il brillait dans le diadème du monarque.
 Là Gangá, reine affluente.
 Et Sindhu [^944] par son seigneur, furent vus,
 
-<span id="p444">[<sup><small>p. 444</small></sup>]</span>
+<span id="p444"><sup><small>[ p. 444 ]</small></sup></span>
 
 Et chaque ruisseau et chaque ruisseau renommé
 Dans l'histoire ancienne, on l'entoure d'une ceinture.
@@ -298,7 +298,7 @@ Tout le travail prodigieux a été réalisé.
 Sur la large route, les Vánars se précipitèrent,
 Ils ne l'ont pas non plus fait bouger avec leurs pas innombrables.
 
-<span id="p445">[<sup><small>p. 445</small></sup>]</span>
+<span id="p445"><sup><small>[ p. 445 ]</small></sup></span>
 
 Exultant sur la plage de l'océan
 Vibhíshan se tenait debout et, la masse à la main,
@@ -419,7 +419,7 @@ Là où résonne la voix du gai Koïl.
 Cela dit, il se livrait à l'art guerrier
 Chaque corps de l'hôte à part.
 
-<span id="p446">[<sup><small>p. 446</small></sup>]</span>
+<span id="p446"><sup><small>[ p. 446 ]</small></sup></span>
 
 "Là, au centre", cria Rama,
 « Sois la place d'Angad aux côtés de Níla.
@@ -538,7 +538,7 @@ Leurs lignes interminables étaient examinées :
 Ils n’essaieraient pas non plus, par pur désespoir,
 Pour compter les innombrables légions qui s'y trouvent,
 
-<span id="p447">[<sup><small>p. 447</small></sup>]</span>
+<span id="p447"><sup><small>[ p. 447 ]</small></sup></span>
 
 Cette vallée, cette plaine et cette colline surpeuplées,
 Cela pressait autour de chaque grotte et de chaque ruisseau.
@@ -662,7 +662,7 @@ Des guerriers élevés dans la forêt,
 Qui ici incline son œil impitoyable
 Et crie son cri de guerre effrayant :
 
-<span id="p448">[<sup><small>p. 448</small></sup>]</span>
+<span id="p448"><sup><small>[ p. 448 ]</small></sup></span>
 
 Dont la voix tremble avec le tonnerre qui gronde
 Tout Lanka, avec ses bosquets et ses lacs
@@ -779,7 +779,7 @@ Et tremblant à sa venue, il s'enfuit.
 Là, sur ses ennemis, il aimait se reposer
 La vieille haine héréditaire. [^951]
 
-<span id="p449">[<sup><small>p. 449</small></sup>]</span>
+<span id="p449"><sup><small>[ p. 449 ]</small></sup></span>
 
 Regardez, Gaja et Gaváksha montrent
 Leur soif de bataille avec l’ennemi.
@@ -895,7 +895,7 @@ Dont les conseillers sont aveugles et fous.
 La mort n'est-elle pas une terreur que vous osez affronter ?
 Pour tenter votre monarque au désespoir,
 
-<span id="p450">[<sup><small>p. 450</small></sup>]</span>
+<span id="p450"><sup><small>[ p. 450 ]</small></sup></span>
 
 De qui découlent les mandats impériaux
 Honneur et honte, bonheur et malheur ?

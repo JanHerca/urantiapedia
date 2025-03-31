@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 ## I. Le Prince et la Servante
 
@@ -62,7 +62,7 @@ Qui trouve un remède pour sauver sa vie,
 Tous promettaient des merveilles; chacun, d'utiliser son habileté;
 Pour rechercher le cas, pour soulager le mal de la jeune fille.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 « Chacun de nous possède le pouvoir de guérison de Jésus[^58].
 De tous leurs maux nous guérissons les hommes à chaque heure.
@@ -95,7 +95,7 @@ Nous avons encore erré ; guide-nous dans la miséricorde.
 C'est ton ordre, à toi qui connais toutes les pensées,
 <sup id="v25"><small>25</small></sup> Cet homme avec des mots s'approche de Ton trône terrible.
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Son humble supplication fut ainsi formulée,
 La source de la douce miséricorde déborda aussitôt.
@@ -132,7 +132,7 @@ Leurs trains formaient une colonne formée de bandes mêlées ;
 Le prince : « Tu voudrais que mon âme soit asservie, pas elle !
 Mais ici-bas effet une cause il faut voir.
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 Sois mon Mohammed ! Je suis ton ‘Umar,
 Avec les reins ceints, attendant ton commandement.
@@ -169,7 +169,7 @@ Un voleur impitoyable est; il gâte ses amis.
 Celui qui est sans honte dans ses paroles et ses actes,
 Le désespoir dû à la déception est sa récompense.
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 Ces sphères du ciel obéissent à la parole de leur Créateur ;
 Les saints anges servent humblement le Seigneur.
@@ -209,7 +209,7 @@ Cela a été préjudiciable, aucun bien n'a été produit.
 L'affaire a été dès le début mal comprise.
 Protège-nous, Ciel ! Une confrérie maladroite !
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Il vit son trouble, et de là devina qu'elle était malade.
 <sup id="v75"><small>75</small></sup> Il gardait son secret caché, il le gardait toujours.
@@ -248,7 +248,7 @@ Sur le cœur, à moins que le soleil de l'âme ne jette un rayon,
 L'esprit peut-il comprendre son essence glorieuse ?
 Sa présence, alors, à l'image qui prétendra ?
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 Des vers du poète quand Dieu est le thème sacré,
 Sa tête taillée, le soleil pourrait la cacher, semble-t-il.
@@ -284,7 +284,7 @@ Le conte le plus agréable aux oreilles d'un amoureux,
 Parle donc, indiscret, en termes clairs et sans fard ;
 N'employez aucun subterfuge, ne mentez pas.
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 Le voile s'arrache, la dissimulation se perd :
 « Quand elle est dépouillée, la beauté est la plus ornée. »
@@ -320,7 +320,7 @@ Ainsi celui dont le pied est blessé par une épine,
 Avec la pointe d'une aiguille, il cherche la fléchette intrusive ;
 Ne le trouvant pas, de la lèvre il apaise le mal.
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Si l'épine dans le pied est donc une tâche à trouver,
 Jugez ce qui doit être un pincement au cœur.
@@ -359,7 +359,7 @@ Jusqu'à ce que le nom de Samarkand fasse briller ses joues,
 Son pouls battait fort, sa couleur allait et venait ;
 De jeunesse orfèvre elle y avait eu la flamme.
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 Ce point mis en évidence, ce secret une fois avoué,
 Plus facilement notre sangsue la suite devinait.
@@ -395,7 +395,7 @@ Le chagrin de la jeune fille s'était transformé en sourires ensoleillés.
 Il la quitte alors, cherche le prince et lui dit
 La nouvelle qu'il avait apprise, la source de tous ses maux.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 « Que faire maintenant ? » demanda le père du prince ;
 « Le retard est dangereux ; la patience peut s'épuiser. »
@@ -434,7 +434,7 @@ On coupe la mèche de la lampe, encore, pour la faire brûler.
 Le prince s'adressa à lui et lui souhaita la bienvenue.
 <sup id="v170"><small>170</small></sup> Le maître de la Monnaie l’a nommé trésorier et maire.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Notre médecin a encore une fois donné son conseil :
 « La demoiselle à cette jeunesse pour congé de service.
@@ -473,7 +473,7 @@ Car il est transpercé d'armes alors qu'il vole.
 Aujourd'hui c'est moi, demain ce sera toi ;
 Qui sera le plus perdant ? Ce n'est pas moi, tout le monde le sait.
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 L’ombre d’un mur, c’est vrai, est large ;
 Le soleil tourne, l'ombre est détournée.
@@ -506,7 +506,7 @@ Il est le vice-gérant de Dieu; il agit dans la salle du Ciel.
 Comme Ishmaël sous le couteau de son père,[^67]
 <sup id="v200"><small>200</small></sup> Tu donneras ta vie pour un tel prince ;
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Ainsi ton âme, dans une future demeure bénie,
 Comme Mahomet, sois en paix avec ton Dieu.
@@ -540,7 +540,7 @@ Un homme craignant Dieu et ayant pleinement confiance en Dieu.
 Une victime mise à mort par un tel ami,
 <sup id="v215"><small>215</small></sup> Est tué par erreur, ou pour une fin sage.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Notre Dieu n'a-t-il pas voulu faire miséricorde dans sa colère,
 Comment le Seigneur des Miséricordes pourrait-il tonner ?

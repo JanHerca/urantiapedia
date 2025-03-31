@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Concernant Bahrâm (Verethraghna), le Génie de la Victoire, voir Vend. Introd. V, 8.
 
@@ -68,7 +68,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté . . . .
 
 Zarathustra demanda à Ahura Mazda : « Ahura Mazda, Esprit très bienfaisant, Créateur du monde matériel, toi le Saint !
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 « Qui est le mieux armé des dieux célestes ? »
 
@@ -88,7 +88,7 @@ Ahura Mazda répondit : « C'est Verethraghna, fabriqué par Ahura, ô Spitama Z
 
 6\. « Nous sacrifions à Verethraghna, créé par Ahura. »
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Zarathustra demanda à Ahura Mazda : « Ahura Mazda, Esprit très bienfaisant, Créateur du monde matériel, toi le Saint !
 
@@ -114,7 +114,7 @@ Zarathustra demanda à Ahura Mazda : « Ahura Mazda, Esprit très bienfaisant, C
 
 Ahura Mazda répondit : « C'est Verethraghna, fabriqué par Ahura, ô Spitama Zarathu<i>s</i>tra ! »
 
-9\. Verethraghna, créé par Ahura, vint à lui pour la troisième fois, courant sous la forme d'un cheval blanc et magnifique, aux oreilles jaunes et au caparaçon doré ; sur le front duquel flottaient la Force bien formée, <span id="p234">[<sup><small>p. 234</small></sup>]</span> et la Victoire, belle de forme, créées par Ahura : ainsi vint-il, portant la bonne Gloire, créée par Mazda, qui est à la fois santé et force.
+9\. Verethraghna, créé par Ahura, vint à lui pour la troisième fois, courant sous la forme d'un cheval blanc et magnifique, aux oreilles jaunes et au caparaçon doré ; sur le front duquel flottaient la Force bien formée, <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> et la Victoire, belle de forme, créées par Ahura : ainsi vint-il, portant la bonne Gloire, créée par Mazda, qui est à la fois santé et force.
 
 Alors celui qui est le plus fort lui dit : « Je suis le plus fort en force...
 
@@ -136,7 +136,7 @@ Ahura Mazda répondit : « C'est Verethraghna, fabriqué par Ahura, ô Spitama Z
 
 12\. Qui de tous les mâles en rut montre la plus grande force et le plus grand feu, lorsqu'il va vers ses femelles. De toutes les femelles, celles qui sont les mieux gardées sont celles qu'un chameau porte-charge garde, celles qui ont des pattes avant épaisses et de grandes bosses, . . . . [^1045], l'œil vif, la tête longue, brillante, grande et forte ;
 
-13\. Dont le regard perçant porte au loin . . . . [^1046], même dans l'obscurité de la nuit ; qui jette de l'écume blanche <span id="p235">[<sup><small>p. 235</small></sup>]</span> le long de sa bouche ; bien agenouillé, bien planté, debout avec le visage d'un maître tout-puissant :
+13\. Dont le regard perçant porte au loin . . . . [^1046], même dans l'obscurité de la nuit ; qui jette de l'écume blanche <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> le long de sa bouche ; bien agenouillé, bien planté, debout avec le visage d'un maître tout-puissant :
 
 Ainsi Verethraghna vint, portant la bonne Gloire faite par Mazda, la Gloire faite par Mazda...
 
@@ -160,7 +160,7 @@ Zarathustra demanda à Ahura Mazda : « Ahura Mazda, Esprit très bienfaisant, C
 
 « Qui est le mieux armé des dieux célestes ? »
 
-Ahura Mazda répondit : « C'est Verethraghna, créé par Ahura, ô Spitama Zarathu<i>s</i>tra ! » <span id="p236">[<sup><small>p. 236</small></sup>]</span> 17\. Verethraghna, créé par Ahura, vint à lui pour la sixième fois, courant sous la forme d'un beau jeune homme de quinze ans, brillant, aux yeux clairs, aux talons fins.
+Ahura Mazda répondit : « C'est Verethraghna, créé par Ahura, ô Spitama Zarathu<i>s</i>tra ! » <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> 17\. Verethraghna, créé par Ahura, vint à lui pour la sixième fois, courant sous la forme d'un beau jeune homme de quinze ans, brillant, aux yeux clairs, aux talons fins.
 
 Ainsi Verethraghna vint, portant la bonne Gloire faite par Mazda, la Gloire faite par Mazda...
 
@@ -180,7 +180,7 @@ Ahura Mazda répondit : « C'est Verethraghna, fabriqué par Ahura, ô Spitama Z
 
 21\. Il broute les chemins cachés [^1051] des montagnes, il broute les sommets des montagnes, il broute les profondeurs des vallées, il broute le sommet [^1052] des arbres, écoutant les voix des oiseaux.
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Ainsi Verethraghna vint, portant la bonne Gloire faite par Mazda [^1053], la Gloire faite par Mazda . . . .
 
@@ -206,7 +206,7 @@ Zarathustra demanda à Ahura Mazda : « Ahura Mazda, Esprit très bienfaisant, C
 
 « Qui est le mieux armé des dieux célestes ? »
 
-Ahura Mazda répondit : « C'est Verethraghna, créé par Ahura, ô Spitama Zarathu<i>s</i>tra ! » <span id="p238">[<sup><small>p. 238</small></sup>]</span> 25\. Verethraghna, créé par Ahura, vint à lui pour la neuvième fois, courant sous la forme d'un beau cerf combattant, aux cornes acérées.
+Ahura Mazda répondit : « C'est Verethraghna, créé par Ahura, ô Spitama Zarathu<i>s</i>tra ! » <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> 25\. Verethraghna, créé par Ahura, vint à lui pour la neuvième fois, courant sous la forme d'un beau cerf combattant, aux cornes acérées.
 
 Ainsi Verethraghna vint, portant la bonne Gloire faite par Mazda, la Gloire faite par Mazda. . . .
 
@@ -230,7 +230,7 @@ Ainsi Verethraghna vint, portant la bonne Gloire faite par Mazda, la Gloire fait
 
 C'est à lui que le saint Zarathoustra offrit un sacrifice, demandant une pensée victorieuse, une parole victorieuse, une action victorieuse, un discours victorieux et une réponse victorieuse.
 
-29\. Verethraghna, créé par Ahura, lui a donné les <span id="p239">[<sup><small>p. 239</small></sup>]</span> fontaines de virilité [^1056], la force des bras, la santé de tout le corps, la robustesse de tout le corps et la vue du poisson Kara [^1057], qui vit sous les eaux et peut mesurer [^1058] une ondulation de l'eau, pas plus épaisse qu'un cheveu, dans le Rangha dont les extrémités se trouvent au loin, dont la profondeur est mille fois la hauteur d'un homme [^1059].
+29\. Verethraghna, créé par Ahura, lui a donné les <span id="p239"><sup><small>[ p. 239 ]</small></sup></span> fontaines de virilité [^1056], la force des bras, la santé de tout le corps, la robustesse de tout le corps et la vue du poisson Kara [^1057], qui vit sous les eaux et peut mesurer [^1058] une ondulation de l'eau, pas plus épaisse qu'un cheveu, dans le Rangha dont les extrémités se trouvent au loin, dont la profondeur est mille fois la hauteur d'un homme [^1059].
 
 Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
@@ -242,7 +242,7 @@ C'est à lui que le saint Zarathoustra offrit un sacrifice, demandant une pensé
 
 31\. Verethraghna, créé par Ahura, lui a donné les sources de la virilité, la force des bras, la santé de tout le corps, la robustesse de tout le corps et la vue du cheval mâle, qui, dans l'obscurité de la nuit, dans sa première moitié [^1060] et à travers la pluie, peut percevoir les poils d'un cheval posés sur le sol et sait s'ils proviennent de la tête ou de la queue [^1061].
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
@@ -262,7 +262,7 @@ Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être enten
 
 Zarathustra demanda à Ahura Mazda : « Ahura Mazda, Esprit très bienfaisant, Créateur du monde matériel, toi le Saint !
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 « Si je suis victime d'une malédiction, d'un sort lancé par les nombreux hommes qui me haïssent, quel est le remède ? »
 
@@ -274,7 +274,7 @@ Zarathustra demanda à Ahura Mazda : « Ahura Mazda, Esprit très bienfaisant, C
 
 38\. « Tous tremblent devant celui qui tient la plume, ils tremblent donc devant moi ; tous mes ennemis tremblent devant moi et craignent ma force et ma force victorieuse et la férocité établie dans mon corps.
 
-39\. « Il [^1068] porte le char des seigneurs ; il porte les chars des seigneurs, les chars des souverains. Il portait le char de Kavi <span id="p242">[<sup><small>p. 242</small></sup>]</span> Usa [^1069] ; sur ses ailes court le cheval mâle [^1070], court le chameau porteur de fardeaux, court l'eau du fleuve.
+39\. « Il [^1068] porte le char des seigneurs ; il porte les chars des seigneurs, les chars des souverains. Il portait le char de Kavi <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> Usa [^1069] ; sur ses ailes court le cheval mâle [^1070], court le chameau porteur de fardeaux, court l'eau du fleuve.
 
 40\. 'Il chevauchait le vaillant Thraêtaona, qui frappa A<i>z</i>i Dahâka, le trois-bouche, le trois-tête, le six-yeux, qui avait mille sens ; ce Dr<i>g</i> le plus puissant et le plus diabolique, ce démon, funeste au monde, le Dr<i>g</i> le plus fort qu'Angra Mainyu ait créé contre le monde matériel, pour détruire le monde du bon principe [^1071].
 
@@ -306,7 +306,7 @@ Zarathustra demanda à Ahura Mazda : « Ahura Mazda, Esprit très bienfaisant, C
 
 ## XVII.
 
-47\. Nous sacrifions à Verethraghna, créé par Ahura : qui parcourt les armées en ordre de bataille, et qui va ici <span id="p244">[<sup><small>p. 244</small></sup>]</span> et là, demandant, avec Mithra et Rashnu : « Qui est celui qui ment à Mithra ? Qui est celui qui prête serment à Rashnu [^1078] ? À qui, dans ma force, transmettrai-je la maladie et la mort [^1079] ?
+47\. Nous sacrifions à Verethraghna, créé par Ahura : qui parcourt les armées en ordre de bataille, et qui va ici <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> et là, demandant, avec Mithra et Rashnu : « Qui est celui qui ment à Mithra ? Qui est celui qui prête serment à Rashnu [^1078] ? À qui, dans ma force, transmettrai-je la maladie et la mort [^1079] ?
 
 48 [^1080]. Ahura Mazda dit : « Si les hommes sacrifient à Verethraghna, fait par Ahura, si le sacrifice et la prière dus lui sont offerts comme ils doivent être accomplis dans la perfection de la sainteté, jamais une horde hostile n'entrera dans les pays aryens, ni aucune peste, ni la lèpre, ni les plantes venimeuses, ni le char d'un ennemi, ni la lance levée d'un ennemi. »
 
@@ -316,7 +316,7 @@ Zarathustra demanda à Ahura Mazda : « Ahura Mazda, Esprit très bienfaisant, C
 
 51\. « Que ni un meurtrier, ni une prostituée, ni un... qui ne chante pas les Gâthas, qui répand la mort dans le monde et qui résiste à la loi de Mazda, à la loi de Zarathoustra, ne prenne de ces offrandes.
 
-52\. « Si un meurtrier prend de ces offrandes, ou une prostituée, ou un... qui ne chante pas les Gâthas, alors Verethraghna, créé par Ahura, reprend ses vertus curatives. <span id="p245">[<sup><small>p. 245</small></sup>]</span> 53\. « Des fléaux se déverseront toujours sur les nations aryennes ; des hordes hostiles tomberont toujours sur les nations aryennes ; les Aryens seront frappés par cinquantaines et par centaines, par centaines et par milliers, par milliers et par dizaines de milliers, par dizaines de milliers et par myriades de myriades. »
+52\. « Si un meurtrier prend de ces offrandes, ou une prostituée, ou un... qui ne chante pas les Gâthas, alors Verethraghna, créé par Ahura, reprend ses vertus curatives. <span id="p245"><sup><small>[ p. 245 ]</small></sup></span> 53\. « Des fléaux se déverseront toujours sur les nations aryennes ; des hordes hostiles tomberont toujours sur les nations aryennes ; les Aryens seront frappés par cinquantaines et par centaines, par centaines et par milliers, par milliers et par dizaines de milliers, par dizaines de milliers et par myriades de myriades. »
 
 54\. Là, Verethraghna, créé par Ahura, proclama ainsi : « L'Âme du Taureau [^1082], la créature sage, ne reçoit pas de l'homme le sacrifice et la prière qui lui sont dus ; car maintenant les Daêvas et les adorateurs des Daêvas font couler le sang et le répandent comme de l'eau ;
 
@@ -326,7 +326,7 @@ Zarathustra demanda à Ahura Mazda : « Ahura Mazda, Esprit très bienfaisant, C
 
 Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 ## XVIII.
 
@@ -348,7 +348,7 @@ Le prince et son fils et ses fils qui sont chefs de myriades [^1090] lui offrent
 
 Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 ## XX.
 
@@ -372,7 +372,7 @@ Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être enten
 
 63\. Nous sacrifions à Verethraghna, créé par Ahura.
 
-Lorsque Verethraghna, fait par Ahura, lie les mains, confond la vue, ôte l'ouïe <span id="p248">[<sup><small>p. 248</small></sup>]</span> des oreilles des Mithradru<i>g</i>es [^1094] marchant en colonnes, alliés par des villes, ils ne peuvent plus bouger leurs pieds, ils ne peuvent plus résister.
+Lorsque Verethraghna, fait par Ahura, lie les mains, confond la vue, ôte l'ouïe <span id="p248"><sup><small>[ p. 248 ]</small></sup></span> des oreilles des Mithradru<i>g</i>es [^1094] marchant en colonnes, alliés par des villes, ils ne peuvent plus bouger leurs pieds, ils ne peuvent plus résister.
 
 Pour sa splendeur et sa gloire, je lui offrirai un sacrifice digne d'être entendu. . . .
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T10:15:31Z
   </table>
 </figure>
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 <span id="t1"></span>
 
@@ -50,7 +50,7 @@ La fiabilité… est la porte de la tranquillité sur le monde entier ; le meill
 
 Ne prenez aucune question à la légère, mais parlez avec vérité et sincérité.
 
-<span id="p86">[<sup><small>p. 86</small></sup>]</span>
+<span id="p86"><sup><small>[ p. 86 ]</small></sup></span>
 
 Ne refusez pas de récompenser qui que ce soit; respectez les possesseurs de talents; ne souillez pas votre langue par des calomnies.
 
@@ -80,7 +80,7 @@ Maintenant, par la grâce et l’autorité de la Parole de Dieu, ces quatre gran
 
 Certaines lois et certains principes sont nécessaires et indispensables à la Perse ; mais il convient qu'ils soient accomplis conformément au souhait du Shah, des éminents docteurs et des grandes autorités de l'État.
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 La crainte de Dieu est le véritable gardien et le protecteur idéal. Fuyez ce qui sent la corruption (ou la sédition).
 
@@ -96,7 +96,7 @@ Les écoles doivent d’abord former les enfants aux principes de la religion, a
 
 Les administrateurs (membres) de la Maison de Justice doivent se concerter sur les ordonnances telles qu'elles sont révélées extérieurement dans le Livre, puis appliquer celles-ci tout ce qui leur semble acceptable.
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 La modération est souhaitable dans toutes les affaires.
 

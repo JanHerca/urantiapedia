@@ -148,7 +148,7 @@ A<i>g</i>âta<i>s</i>atru lui dit : « Ne me mets pas en doute là-dessus. Je m�
 
 8\. Bâlâki a dit : « L'homme qui est dans l'air, sur lui je médite. »
 
-A<i>g</i>âta<i>s</i>atru lui dit : « Ne me défie pas là-dessus. Je médite sur lui comme Indra Vaiku<i>n</i><i>th</i>a, comme l'armée invincible. Quiconque médite ainsi sur lui devient victorieux, invincible, conquérant ses ennemis. » <span id="p304">[<sup><small>p. 304</small></sup>]</span> 9\. Bâlâki dit : « La personne qui est dans le feu, sur elle je médite. »
+A<i>g</i>âta<i>s</i>atru lui dit : « Ne me défie pas là-dessus. Je médite sur lui comme Indra Vaiku<i>n</i><i>th</i>a, comme l'armée invincible. Quiconque médite ainsi sur lui devient victorieux, invincible, conquérant ses ennemis. » <span id="p304"><sup><small>[ p. 304 ]</small></sup></span> 9\. Bâlâki dit : « La personne qui est dans le feu, sur elle je médite. »
 
 A<i>g</i>âta<i>s</i>atru lui dit : « Ne me défie pas là-dessus. Je médite sur lui comme sur sa puissance. Quiconque médite sur lui ainsi devient puissant parmi les autres [^760]. »
 
@@ -196,7 +196,7 @@ Alors Bâlâki arriva, portant du combustible à la main, et dit : « Puis-je ve
 
 20\. Et Agâta<i>s</i>atru lui dit : « Là où cet homme dormait, là où il était, là d'où il est revenu, voici : les artères du cœur, appelées Hita, s'étendent du cœur de l'homme vers le corps qui l'entoure. Petites comme un cheveu, mille fois divisé, elles sont remplies d'un fluide fluide de diverses couleurs, blanc, noir, jaune, rouge. Dans ces artères, l'homme dort, il ne voit aucun rêve. »
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 Alors il ne fait plus qu'un avec ce prânâ. Alors la parole lui parvient avec tous les noms, l'œil avec toutes les formes, la voiture avec tous les sons, l'esprit avec toutes les pensées. Et lorsqu'il s'éveille, alors, comme d'un feu brûlant, des étincelles jaillissent dans toutes les directions ; ainsi, de ce soi, les prânâs (parole, etc.) partent, chacun vers sa place, des prânâs les dieux, des dieux les mondes. Et comme un rasoir pourrait être rangé dans un étui à rasoir, ou comme le feu dans la cheminée (l'aranâi sur l'autel), de même ce soi conscient pénètre le soi du corps (considère le corps comme lui-même) jusqu'aux cheveux et aux ongles. Et les autres soi (tels que la parole, etc.) suivent ce soi, comme son peuple suit le maître de maison. Et comme le maître se nourrit avec son peuple, ou plutôt, comme son peuple se nourrit du maître, ainsi ce soi conscient se nourrit avec les autres sois, comme un maître avec son peuple, et les autres sois le suivent, comme son peuple suit le maître. Tant qu'Indra ne comprenait pas ce soi, les Asuras le conquirent. Lorsqu'il le comprit, il conquit les Asuras et obtint la prééminence parmi tous les dieux, la souveraineté, la suprématie. Et ainsi, celui qui sait cela obtient la prééminence parmi tous les êtres, la souveraineté, la suprématie – oui, celui qui sait cela.
 

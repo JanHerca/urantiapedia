@@ -71,7 +71,7 @@ Ils perdent chaque joie qu’ils s’efforcent de gagner,
 Et tous les gens, les gens de haut et de bas
 Tomber dans le renversement commun.
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Le mérite, la renommée et l’honneur naissent,
 Le meilleur des puissants, du roi.
@@ -195,7 +195,7 @@ Ses flancs étaient teints d'une fleur rosée,
 Et des teintes de lotus ornaient sa peau.
 Sa silhouette était belle, compacte et svelte ;
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 Ses sabots étaient en lazulite sculptée.
 Sa queue avec chaque lueur changeante
@@ -318,7 +318,7 @@ La vache et le cerf de la forêt sont là,
 Le faon, le singe et l'ours,
 Là où les cerfs tachetés aiment jouer,
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 Et les Kinnars forts et beaux [^495] s'égarent.
 Mais jamais, tandis qu'ils erraient,
@@ -438,7 +438,7 @@ Sont tombés par son art pervers,
 Et maintenant, ma flèche va frapper son cœur.
 Vatápi, par son pouvoir magique
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 Il a fait dévorer sa chair aux saints insouciants,
 Puis, de l'intérieur de leurs cadres, il déchira
@@ -563,7 +563,7 @@ Le monstre savait que le moment était proche.
 Et il cria à haute voix avec un cri ardent,
 'Salut\*, Sítá, Lakshman\* et le ton
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Il a emprunté comme si c'était le sien propre à Rama
 Ainsi, par cette flèche incomparable fendue,
@@ -688,7 +688,7 @@ Avec des railleries amères qui transperçaient et piquaient ;
 \* de ta glorieuse race !
 \* Je te vois avec joie
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 Mon seigneur est dans une situation désespérée pour voir cela.
 Tu sais que Ráma a été vaincu,
@@ -810,7 +810,7 @@ Contempla le moment tant attendu proche,
 Habillé en mendiant
 Près de la dame Maithil pressée.
 
-<span id="p283">[<sup><small>p. 283</small></sup>]</span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 Sous une forme sacrée, un démon abhorré,
 Il la trouva en deuil de son seigneur.
@@ -926,7 +926,7 @@ Et désirait ardemment dans son cœur la voler de là,
 Se préparant à l'offense terrible,
 La mort sur sa tête.
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 La dame regardait avec un visage anxieux
 Pour Ráma venant de la chasse
@@ -1050,7 +1050,7 @@ La reine de chaque dame et moi.
 Ma ville Lanká, ville glorieuse,
 Regards depuis le front d'une montagne vers le bas
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 Où l'océan avec son éclair et son écume
 Il bat follement sur mon île natale.
@@ -1170,7 +1170,7 @@ Tremblant comme les hommes quand la mort est proche
 Vais'ravan, mon frère, a autrefois forgé
 Pour me mettre en colère, m'a rencontré et m'a combattu,
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 Mais cédant à une puissance supérieure
 Il s'est enfui de chez lui, pris de peur.
@@ -1291,7 +1291,7 @@ Avec vingt bras exposés à la vue,
 Son apparence sainte mise à part,
 Et toute sa taille géante affichée.
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 Vêtu de robes de couleur cramoisie
 Il se tenait là et regardait avec un œil furieux
@@ -1414,7 +1414,7 @@ Me ramènerait, conquérant, aujourd'hui,
 Bien que Yama ait récupéré sa proie.
 Ainsi, depuis les airs, la dame envoya
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Avec une voix pitoyable, sa dernière complainte,
 Et tandis qu'elle pleurait, elle vit par hasard
@@ -1538,7 +1538,7 @@ Et tu souilleras la terre de sang
 Tomber comme Khara est tombé auparavant.
 Bientôt Rama, vêtu d'écorce, frappera.
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 Toi, son fier ennemi, dans un combat mortel,
 Ráma, que j'ai souvent fui

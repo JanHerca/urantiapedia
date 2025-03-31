@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 
 Au coucher du soleil, l'armée du Malin avait pris la fuite. Rien n'avait troublé la méditation du héros et, dès la première veille de la nuit, il parvint à la connaissance de tout ce qui s'était passé dans ses existences antérieures. À la deuxième veille, il apprit l'état présent de tous les êtres. À la troisième, il comprit la chaîne des causes et des effets.
@@ -47,7 +47,7 @@ Quelle est la cause de la vieillesse et de la mort ? Il y a vieillesse et mort p
 
 Et il pensa :
 
-« Ainsi, l'ignorance est à la racine de la mort, de la vieillesse, de la souffrance et du désespoir. Supprimer l'ignorance, c'est supprimer l'impression. Supprimer l'impression, c'est supprimer la perception. Supprimer la perception, c'est supprimer le nom et la forme. Supprimer <span id="p98">[<sup><small>p. 98</small></sup>]</span> le nom et la forme, c'est supprimer les six sens. Supprimer les six sens, c'est supprimer le contact. Supprimer le contact, c'est supprimer la sensation. Supprimer la sensation, c'est supprimer le désir. Supprimer le désir, c'est supprimer les liens. Supprimer les liens, c'est supprimer l'existence. Supprimer l'existence, c'est supprimer la naissance. Supprimer la naissance, c'est supprimer la vieillesse et la mort. Exister, c'est souffrir. Le désir mène de la naissance à la renaissance, de la souffrance à davantage de souffrance. En étouffant le désir, nous empêchons la naissance, nous empêchons la souffrance. En menant une vie de sainteté, le désir est étouffé et nous cessons de supporter la naissance et la souffrance. »
+« Ainsi, l'ignorance est à la racine de la mort, de la vieillesse, de la souffrance et du désespoir. Supprimer l'ignorance, c'est supprimer l'impression. Supprimer l'impression, c'est supprimer la perception. Supprimer la perception, c'est supprimer le nom et la forme. Supprimer <span id="p98"><sup><small>[ p. 98 ]</small></sup></span> le nom et la forme, c'est supprimer les six sens. Supprimer les six sens, c'est supprimer le contact. Supprimer le contact, c'est supprimer la sensation. Supprimer la sensation, c'est supprimer le désir. Supprimer le désir, c'est supprimer les liens. Supprimer les liens, c'est supprimer l'existence. Supprimer l'existence, c'est supprimer la naissance. Supprimer la naissance, c'est supprimer la vieillesse et la mort. Exister, c'est souffrir. Le désir mène de la naissance à la renaissance, de la souffrance à davantage de souffrance. En étouffant le désir, nous empêchons la naissance, nous empêchons la souffrance. En menant une vie de sainteté, le désir est étouffé et nous cessons de supporter la naissance et la souffrance. »
 
 À l'aube, cet homme, le plus noble des hommes, était un Bouddha. Il s'exclama :
 
@@ -57,7 +57,7 @@ Douze fois la terre trembla ; le monde était comme une grande fleur. Les dieux 
 
 Il est venu, celui qui apporte la lumière au monde ; il est venu, celui qui protège le monde ! Longtemps aveuglé, l'œil du monde s'est ouvert, et l'œil du monde est ébloui par la lumière.
 
-<span id="p99">[<sup><small>p. 99</small></sup>]</span>
+<span id="p99"><sup><small>[ p. 99 ]</small></sup></span>
 
 Ô conquérant, tu donneras à tous les êtres ce dont ils ont soif. Guidées par la sublime lumière de la loi, toutes les créatures atteindront les rivages de la délivrance. Tu tiens la lampe ; va maintenant et dissipe les ténèbres !
 

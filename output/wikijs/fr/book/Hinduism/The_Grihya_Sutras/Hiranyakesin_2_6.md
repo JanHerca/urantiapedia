@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 6 SECTION 16.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. Après avoir étalé sous (Â<i>n</i>ya) la (cuillère appelée) Darvi, il coupe (les Avadânas) de ces types d'aliments (mentionnés dans le Sûtra 3), les mélange avec du beurre clarifié et sacrifie (avec les formules) : « Adoration à Agni le terrestre, le seigneur des êtres terrestres ! Svâhâ ! Adoration à Vâyu l'omniprésent, le seigneur des êtres aériens ! Svâhâ ! Adoration à Sûrya, le rouge, le seigneur des êtres célestes ! Svâhâ ! Adoration à Vish<i>n</i>u, le blanchâtre, le seigneur des êtres qui demeurent dans les quartiers (du monde). Svâhâ ! »
 
-5\. [^696] Il oint les Ki<i>m</i><i>m</i>uka (fleurs et feuilles) avec Â<i>m</i>ya, et sacrifie avec (les Mantras), 'Dévoré est le taon ; dévoré est la soif (?) ; dévoré est le ver qui pique.' 'Dévoré est le ver qui pique ; dévoré est la soif ; dévoré est le taon.' <span id="p238">[<sup><small>p. 238</small></sup>]</span> 'Dévoré est la soif ; dévoré est le taon ; dévoré est le ver qui pique.'
+5\. [^696] Il oint les Ki<i>m</i><i>m</i>uka (fleurs et feuilles) avec Â<i>m</i>ya, et sacrifie avec (les Mantras), 'Dévoré est le taon ; dévoré est la soif (?) ; dévoré est le ver qui pique.' 'Dévoré est le ver qui pique ; dévoré est la soif ; dévoré est le taon.' <span id="p238"><sup><small>[ p. 238 ]</small></sup></span> 'Dévoré est la soif ; dévoré est le taon ; dévoré est le ver qui pique.'
 
 6\. Il prend un pot d'eau et une poignée d'herbe Darbha, s'avance, le visage tourné vers l'est, étend l'herbe Darbha avec ses pointes vers l'est, et fait quatre offrandes de Bali sur cette (herbe) avec (les formules) : « Aux Serpents terrestres, j'offre ce Bali », « Aux Serpents aériens, etc. ; aux Serpents célestes, etc. ; aux Serpents qui habitent dans les quartiers (du monde), etc. »
 
@@ -56,7 +56,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 « Adoration au blanc, le fils de Vidarva ! »
 
-9\. Puis il adore les Serpents vers les différentes régions, un par un, avec (la section correspondante de) ces Mantras : « Tu es appelé le convergent, la région orientale » (Taitt. Samh. V, 5, 10, 1 seq.). <span id="p239">[<sup><small>p. 239</small></sup>]</span>
+9\. Puis il adore les Serpents vers les différentes régions, un par un, avec (la section correspondante de) ces Mantras : « Tu es appelé le convergent, la région orientale » (Taitt. Samh. V, 5, 10, 1 seq.). <span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 10\. À partir de ce moment-là, il fait quotidiennement les offrandes de Bali jusqu'au jour de la pleine lune de Mârga<i>m</i>îrsha.
 

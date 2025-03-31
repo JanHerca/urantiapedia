@@ -38,7 +38,7 @@ On peut aussi utiliser avec profit les traductions et les notes de _Chrestomathi
 
 De très nombreux articles précieux sont dispersés dans le _Zeitschrift_ de la Société orientale allemande (ci-après ZDMG), le _Journal asiatique_ (ci-après JA), le _Journal de la Société royale asiatique_ (ci-après JRAS) et le _Zeitschrift für die Kunde des Morgenlandes_ de Vienne (ci-après WZ).
 
-<span id="p359">[<sup><small>p. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 Il est toujours utile de consulter l'_Encyclopædia Britannica_.
 
@@ -58,7 +58,7 @@ T. B. HUGHES : _A Dictionary of Islam_. Londres, 1896. Très riche en informatio
 
 E. W. LANE : _Un compte rendu des mœurs et coutumes des Egyptiens modernes_. Première édition, Londres, 1836 ; troisième, 1842. Beaucoup d'autres. Indispensable.
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 C. M. DOUGHTY. _Voyages en Arabie Déserte_ 2 vol. Cambridge, 1888. De loin le meilleur livre sur la vie nomade en Arabie. Donne l'idée la plus complète et la plus claire de la nature et du fonctionnement de l'esprit arabe.
 

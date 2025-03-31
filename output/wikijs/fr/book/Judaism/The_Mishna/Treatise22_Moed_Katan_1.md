@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 1. On peut irriguer les terres sèches le jour du Moed, [^615] et aussi pendant l'année sabbatique, aussi bien d'une fontaine nouvellement jaillie que d'une fontaine qui ne l'est pas encore ; mais on ne doit pas les irriguer avec de l'eau de pluie, ni avec de l'eau \[puisée\] dans un puits profond ; on ne peut pas non plus creuser de tranchées \[pour retenir l'eau\] autour des vignes.
 
-§ 2. R. Éléazar ben Azariah dit : « Ils ne doivent pas creuser de nouveau fossé, ni de nouveau canal, ni de nouveau cours d'eau, sur le Moed, ni pendant l'année sabbatique. » Mais les sages soutiennent qu'un nouveau fossé, ou un nouveau cours d'eau, peut être creusé pendant l'année sabbatique, et que les canaux obstrués peuvent être réparés sur le Moed. Ils peuvent également réparer les réservoirs d'eau qui se trouvent dans les sources publiques, [^616] et les purifier. Ils peuvent également réparer les routes, les places publiques et les bains de source. En bref, ils peuvent faire tout ce que les exigences du service public exigent. Ils <span id="p193">[<sup><small>p. 193</small></sup>]</span> peut marquer les tombes \[blanchies\], [^617] et même envoyer des \[inspecteurs\] de Kilaim. [^618]
+§ 2. R. Éléazar ben Azariah dit : « Ils ne doivent pas creuser de nouveau fossé, ni de nouveau canal, ni de nouveau cours d'eau, sur le Moed, ni pendant l'année sabbatique. » Mais les sages soutiennent qu'un nouveau fossé, ou un nouveau cours d'eau, peut être creusé pendant l'année sabbatique, et que les canaux obstrués peuvent être réparés sur le Moed. Ils peuvent également réparer les réservoirs d'eau qui se trouvent dans les sources publiques, [^616] et les purifier. Ils peuvent également réparer les routes, les places publiques et les bains de source. En bref, ils peuvent faire tout ce que les exigences du service public exigent. Ils <span id="p193"><sup><small>[ p. 193 ]</small></sup></span> peut marquer les tombes \[blanchies\], [^617] et même envoyer des \[inspecteurs\] de Kilaim. [^618]
 
 § 3. R. Eleazar ben Jacob dit : « Ils peuvent conduire l’eau d’arbre en arbre, à condition que le verger entier ne soit pas irrigué ; les plantes qui n’ont pas absorbé [^619] \[l’eau\] avant le Moed, ne doivent pas être irriguées pendant le Moed. » [^620] Mais les sages permettent l’un et l’autre.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 5. R. Meir dit : « Les prêtres font la première inspection de la plaie \[de la lèpre\] afin de soulager \[le patient\], mais non de le restreindre. » Mais les sages décident de ne soulager ni de restreindre \[en aucun cas une telle inspection ne doit être entreprise pendant le Moed\]. [^623] R. Meir \[en outre\] dit : « Un homme peut recueillir les ossements de son père et de sa mère \[pendant le Moed, pour les enterrer\], car c'est une satisfaction pour lui \[soulage son esprit\]. » Mais R. José dit : « C'est une douleur pour lui \[afflige son esprit\]. L'homme ne doit pas inciter \[les autres à pleurer\] ses morts, [^624] ni faire d'oraison funèbre pendant les trente jours précédant la fête. »
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span>
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 § 6. Ils ne doivent pas creuser de tombes ou de caveaux funéraires sur le Moed, mais ils peuvent préparer des tombes agrandies sur le Moed, et aussi faire une fosse de lavage pendant le Moed, et un cercueil dans la même cour où repose le corps. Cependant, R. Jehudah l'interdit, à moins que les planches n'aient été fournies auparavant.
 

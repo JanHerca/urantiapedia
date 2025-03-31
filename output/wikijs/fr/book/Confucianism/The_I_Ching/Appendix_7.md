@@ -29,7 +29,7 @@ dateCreated: 2025-2-12T22:26:12Z
   </table>
 </figure>
 
-<span id="p441">[<sup><small>p. 441</small></sup>]</span>
+<span id="p441"><sup><small>[ p. 441 ]</small></sup></span>
 
 Traité des Hexagrammes pris pêle-mêle, selon l'opposition ou la diversité de leur sens.
 
@@ -53,7 +53,7 @@ Leurs différentes figures étaient destinées à enseigner.
 
 26\. Tâ <i>Kh</i>û reste immobile et attend le moment opportun.
 
-25\. Wû Wang explique comment le mal naît du crime. <span id="p442">[<sup><small>p. 442</small></sup>]</span> 45, 46. Les hommes de bien de Žhui se rassemblent ; de Shang, ils s'élèvent :
+25\. Wû Wang explique comment le mal naît du crime. <span id="p442"><sup><small>[ p. 442 ]</small></sup></span> 45, 46. Les hommes de bien de Žhui se rassemblent ; de Shang, ils s'élèvent :
 
 15, 16. <i>Kh</i>ien lui-même, vous le méprisez pour les autres.
 
@@ -87,7 +87,7 @@ Prend ce qui est simple, de l'ornement tout à fait libre.
 
 38\. Khwei considère les autres comme hors de sa portée ;
 
-37\. Kiâ <i>Z</i>ăn inclut tout dans sa sphère. <span id="p443">[<sup><small>p. 443</small></sup>]</span> 12, 11. Tandis que Phî et Thâi préfèrent leurs domaines d'action différents,
+37\. Kiâ <i>Z</i>ăn inclut tout dans sa sphère. <span id="p443"><sup><small>[ p. 443 ]</small></sup></span> 12, 11. Tandis que Phî et Thâi préfèrent leurs domaines d'action différents,
 
 34, 33. Tâ <i>K</i>wang s'arrête ici comme à droite ; Thun se retire là.
 
@@ -123,7 +123,7 @@ Se déplacer jusqu'à ce que l'époux prenne son chemin.
 
 27\. Le corps et l'esprit sont nourris directement dans Î;
 
-63\. Toutes choses sont bien établies dans Kî Žî. <span id="p444">[<sup><small>p. 444</small></sup>]</span> 54\. Kwei Mei révèle comment se termine la vie virginale ;
+63\. Toutes choses sont bien établies dans Kî Žî. <span id="p444"><sup><small>[ p. 444 ]</small></sup></span> 54\. Kwei Mei révèle comment se termine la vie virginale ;
 
 64\. Wei Žî comment la jeunesse échoue (à trouver une femme).
 

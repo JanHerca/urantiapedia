@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 ## (YA<i>S</i>T AU SOLEIL.)
 
@@ -56,7 +56,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté [^421].
 
 1\. Nous sacrifions au Soleil immortel, brillant et rapide.
 
-Quand la lumière du soleil devient plus chaude [^423], quand la luminosité du soleil devient plus chaude, alors se dressent <span id="p86">[<sup><small>p. 86</small></sup>]</span> les Yazatas célestes, par centaines et par milliers : ils rassemblent sa Gloire, ils font descendre sa Gloire, ils déversent sa Gloire sur la terre faite par Ahura, pour l'accroissement du monde de sainteté, pour l'accroissement des créatures de sainteté [^424], pour l'accroissement du Soleil immortel, brillant et au cheval rapide.
+Quand la lumière du soleil devient plus chaude [^423], quand la luminosité du soleil devient plus chaude, alors se dressent <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> les Yazatas célestes, par centaines et par milliers : ils rassemblent sa Gloire, ils font descendre sa Gloire, ils déversent sa Gloire sur la terre faite par Ahura, pour l'accroissement du monde de sainteté, pour l'accroissement des créatures de sainteté [^424], pour l'accroissement du Soleil immortel, brillant et au cheval rapide.
 
 2\. Et quand le soleil se lève, alors la terre, faite par Ahura, devient pure [^425] ; les eaux courantes deviennent pures, les eaux des puits deviennent pures, les eaux de la mer deviennent pures, les eaux stagnantes deviennent pures ; toutes les créatures saintes, les créatures du Bon Esprit, deviennent pures.
 

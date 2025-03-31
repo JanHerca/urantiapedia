@@ -47,7 +47,7 @@ F. B.
 
 VIENNE., Nov. 1880.
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

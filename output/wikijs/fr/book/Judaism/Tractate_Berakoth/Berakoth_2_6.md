@@ -44,7 +44,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 ## Sur certains points des Dix-huit.
 
-25\. Les dix-huit bénédictions ordonnées par la majorité correspondent aux dix-huit fois où le Seigneur est mentionné dans le psaume commençant par « _Donnez au Seigneur, ô fils des puissants_ ». [^269] On combine \[la bénédiction sur\] les _Minim_ [^270] avec <span id="p43">[<sup><small>p. 43</small></sup>]</span> celle sur les Pharisiens, [1](Berakoth_3_6#fn_271) et celle sur les Prosélytes avec celle sur les Anciens, [2](Berakoth_3_6#fn_272) et celle sur David avec celle sur Jérusalem. [3](Berakoth_3_6#fn_273) Si les hommes ont dit chacune de ces bénédictions séparément, leur obligation est remplie. [^271]
+25\. Les dix-huit bénédictions ordonnées par la majorité correspondent aux dix-huit fois où le Seigneur est mentionné dans le psaume commençant par « _Donnez au Seigneur, ô fils des puissants_ ». [^269] On combine \[la bénédiction sur\] les _Minim_ [^270] avec <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> celle sur les Pharisiens, [1](Berakoth_3_6#fn_271) et celle sur les Prosélytes avec celle sur les Anciens, [2](Berakoth_3_6#fn_272) et celle sur David avec celle sur Jérusalem. [3](Berakoth_3_6#fn_273) Si les hommes ont dit chacune de ces bénédictions séparément, leur obligation est remplie. [^271]
 
 <figure class="table chapter-navigator">
   <table>

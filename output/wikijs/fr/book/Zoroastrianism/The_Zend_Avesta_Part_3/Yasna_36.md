@@ -34,7 +34,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 ## YASNA XXXVI. À AHURA ET AU FEU.
 
-1\. Nous voudrions nous approcher de Vous deux, ô (Vous) primordiaux dans la maison [^1187] de ce Feu sacré, ô Ahura Mazda, Esprit le plus généreux ! Quiconque pollue cette (Ta flamme) le couvrira de pollutions (à son tour). 2. Mais comme le plus amical nous donne du zèle, ô Feu du Seigneur ! Et approchez-vous de nous [^1188], et avec la bénédiction aimante du plus amical, avec la louange du <span id="p285">[<sup><small>p. 285</small></sup>]</span> le plus adoré. Oui, puissiez-vous vous approcher pour nous aider dans cette plus grande (entreprise) parmi les efforts de notre zèle.
+1\. Nous voudrions nous approcher de Vous deux, ô (Vous) primordiaux dans la maison [^1187] de ce Feu sacré, ô Ahura Mazda, Esprit le plus généreux ! Quiconque pollue cette (Ta flamme) le couvrira de pollutions (à son tour). 2. Mais comme le plus amical nous donne du zèle, ô Feu du Seigneur ! Et approchez-vous de nous [^1188], et avec la bénédiction aimante du plus amical, avec la louange du <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> le plus adoré. Oui, puissiez-vous vous approcher pour nous aider dans cette plus grande (entreprise) parmi les efforts de notre zèle.
 
 3\. Tu es en vérité le Feu d'Ahura Mazda [^1189] ; oui, le plus généreux de Son Esprit, c'est pourquoi Ton nom est le plus puissant de tous (pour la grâce), ô Feu du Seigneur ! 4. Et c'est pourquoi nous voudrions nous approcher de Toi, (ô Ahura !) avec l'aide de Ton Bon Esprit (que Tu implantes en nous), avec Ta (bonne) Justice, et avec les actions et les paroles inculquées par Ta bonne sagesse !
 

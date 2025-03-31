@@ -70,7 +70,7 @@ Chez les êtres animés, le soi se développe graduellement, car chez certains, 
 
 5\. Cet homme (conçu comme uktha) est le sacrifice, qui est une succession tantôt de paroles, tantôt de pensées. Ce sacrifice est quintuple : l’Agnihotra, les sacrifices de la nouvelle et de la pleine lune, les sacrifices quadrimestriels, le sacrifice animal, le sacrifice du Soma. Le sacrifice du Soma est le plus parfait des sacrifices, car on y observe ces cinq sortes de cérémonies : la première qui précède les libations (la Dîkshâ, etc.), puis trois libations, et ce qui suit (l’Avabhritha, etc.) est la cinquième.
 
-<span id="p224">[<sup><small>p. 224</small></sup>]</span>
+<span id="p224"><sup><small>[ p. 224 ]</small></sup></span>
 
 ## QUATRIÈME KHA<i>N</i><i>D</i>A.
 
@@ -96,9 +96,9 @@ Les cinq Sâmans sont expliqués par le commentateur. Le Gâyatra de la page 226
 
 Les compteurs ne nécessitent aucune explication.
 
-Français En identifiant certaines parties de l'hymne Nishkevalya avec un oiseau, la tête de l'oiseau correspond aux hymnes indram id gâthina<i>h</i>, etc. ; l'aile droite aux hymnes abhi tvâ <i>s</i>ûra, etc. ; l'aile gauche aux hymnes tvâm id dhi, etc. ; la queue aux hymnes imâ nu kam, etc. ; le corps aux hymnes tad id âsa, etc. Tout cela a été expliqué dans le premier Âra<i>n</i>yaka. <span id="p225">[<sup><small>p. 225</small></sup>]</span> 3\. Il exécute le Prastâva de cinq manières, il exécute l'Udgîtha de cinq manières, il exécute le <span id="p226">[<sup><small>p. 226</small></sup>]</span> Pratihâra de cinq manières, il accomplit l'Upadrava de cinq manières, il accomplit le Nidhana de cinq manières [^559]. Tout cela ensemble forme mille Stobhas, ou syllabes musicales [^560].
+Français En identifiant certaines parties de l'hymne Nishkevalya avec un oiseau, la tête de l'oiseau correspond aux hymnes indram id gâthina<i>h</i>, etc. ; l'aile droite aux hymnes abhi tvâ <i>s</i>ûra, etc. ; l'aile gauche aux hymnes tvâm id dhi, etc. ; la queue aux hymnes imâ nu kam, etc. ; le corps aux hymnes tad id âsa, etc. Tout cela a été expliqué dans le premier Âra<i>n</i>yaka. <span id="p225"><sup><small>[ p. 225 ]</small></sup></span> 3\. Il exécute le Prastâva de cinq manières, il exécute l'Udgîtha de cinq manières, il exécute le <span id="p226"><sup><small>[ p. 226 ]</small></sup></span> Pratihâra de cinq manières, il accomplit l'Upadrava de cinq manières, il accomplit le Nidhana de cinq manières [^559]. Tout cela ensemble forme mille Stobhas, ou syllabes musicales [^560].
 
-4\. Ainsi, les versets <i>Ri</i><i>k</i>, contenus dans le Nishkevalya, sont récités (par le Hot<i>ri</i>) en cinq ordres. Ce qui précède les quatre-vingts t<i>ri</i><i>k</i>as, c'est-à-dire un ordre, suit ensuite les trois séries de quatre-vingts t<i>ri</i><i>k</i>as chacune, et ce qui vient après est le cinquième ordre [^561]. <span id="p227">[<sup><small>p. 227</small></sup>]</span> 5\. Ceci (les hymnes de ce Sastra) dans son ensemble (si on les compte correctement avec les syllabes Stobha) équivaut à mille (de versets B<i>ri</i>hatî). Ce (mille) est le tout, et dix, dix est appelé le tout. Car le nombre est tel (mesuré par dix). Dix dizaines font cent, dix centaines font mille, et voilà le tout. Ce sont les trois mètres (les dizaines, qui imprègnent tout). Et cette nourriture aussi (les trois séries d'hymnes étant représentées comme nourriture) est triple : manger, boire et mâcher. Il obtient cette nourriture par ces trois nombres (dix, cent et mille, ou par les trois séries de quatre-vingts t<i>ri</i><i>k</i>as).
+4\. Ainsi, les versets <i>Ri</i><i>k</i>, contenus dans le Nishkevalya, sont récités (par le Hot<i>ri</i>) en cinq ordres. Ce qui précède les quatre-vingts t<i>ri</i><i>k</i>as, c'est-à-dire un ordre, suit ensuite les trois séries de quatre-vingts t<i>ri</i><i>k</i>as chacune, et ce qui vient après est le cinquième ordre [^561]. <span id="p227"><sup><small>[ p. 227 ]</small></sup></span> 5\. Ceci (les hymnes de ce Sastra) dans son ensemble (si on les compte correctement avec les syllabes Stobha) équivaut à mille (de versets B<i>ri</i>hatî). Ce (mille) est le tout, et dix, dix est appelé le tout. Car le nombre est tel (mesuré par dix). Dix dizaines font cent, dix centaines font mille, et voilà le tout. Ce sont les trois mètres (les dizaines, qui imprègnent tout). Et cette nourriture aussi (les trois séries d'hymnes étant représentées comme nourriture) est triple : manger, boire et mâcher. Il obtient cette nourriture par ces trois nombres (dix, cent et mille, ou par les trois séries de quatre-vingts t<i>ri</i><i>k</i>as).
 
 ## CINQUIÈME KHA<i>N</i><i>D</i>A.
 
@@ -110,7 +110,7 @@ Français En identifiant certaines parties de l'hymne Nishkevalya avec un oiseau
 
 4\. Ceci a été dit par un Rishi (Rv. X, 124, 9) :
 
-5\. « Les poètes, grâce à leur compréhension, ont découvert Indra dansant un Anush<i>t</i>ubh. » Cela signifie : Ils ont découvert (et médité) dans la parole (appelée Anush<i>t</i>ubh) — à cette époque (quand ils vénéraient <span id="p228">[<sup><small>p. 228</small></sup>]</span> l'uktha) — le Prâ<i>n</i>a (souffle) lié à Indra.
+5\. « Les poètes, grâce à leur compréhension, ont découvert Indra dansant un Anush<i>t</i>ubh. » Cela signifie : Ils ont découvert (et médité) dans la parole (appelée Anush<i>t</i>ubh) — à cette époque (quand ils vénéraient <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> l'uktha) — le Prâ<i>n</i>a (souffle) lié à Indra.
 
 6\. Celui (qui prend les versets récités comme Anush<i>t</i>ubhs) est capable de devenir célèbre et de bonne réputation.
 
@@ -138,7 +138,7 @@ Français En identifiant certaines parties de l'hymne Nishkevalya avec un oiseau
 
 6\. « Il (le Hot<i>ri</i>) fait le corps à partir d'Indra ; — « car à partir de ces milliers de versets B<i>ri</i>hatî transformés en Anush<i>t</i>ubhs, et donc à partir de Prâ<i>n</i>a en tant que connecté à Indra [^565], et à partir du B<i>ri</i>hatî (qui est Prâ<i>n</i>a), il fait la parole, c'est-à-dire Anush<i>t</i>ubh, en tant que corps [^566].
 
-7\. Ce Mahaduktha est le développement le plus élevé <span id="p230">[<sup><small>p. 230</small></sup>]</span> de la parole, et il est quintuple, à savoir mesuré, non mesuré, musical, vrai et faux.
+7\. Ce Mahaduktha est le développement le plus élevé <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> de la parole, et il est quintuple, à savoir mesuré, non mesuré, musical, vrai et faux.
 
 8\. Un vers <i>Ri</i><i>k</i>, un gâtha [^567], un kumbyâ [^568] sont mesurés (métriques). Un vers Ya<i>g</i>us, une invocation et des remarques générales [^569], ceux-ci ne sont pas mesurés (ils sont en prose). Un Sâman, ou n'importe quelle partie (parvan) de celui-ci, est de la musique. Om est vrai, Na est faux.
 
@@ -148,7 +148,7 @@ Français En identifiant certaines parties de l'hymne Nishkevalya avec un oiseau
 
 11\. Cette syllabe « Om » (oui) va de l'avant (à la cause première du monde) et est vide. Par conséquent, si un homme dit « Om » (oui) à toute chose, alors ce (qu'il donne) lui manque ici-bas [^571]. S'il dit « Om » (oui) à toute chose, alors il se viderait lui-même et ne serait capable d'aucune jouissance.
 
-12\. Cette syllabe Na (non) est pleine pour soi-même [^572]. Si un homme dit non à tout, sa réputation <span id="p231">[<sup><small>p. 231</small></sup>]</span> deviendra mauvaise, et cela le ruinerait même ici.
+12\. Cette syllabe Na (non) est pleine pour soi-même [^572]. Si un homme dit non à tout, sa réputation <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> deviendra mauvaise, et cela le ruinerait même ici.
 
 13\. C'est pourquoi, que l'homme donne seulement au temps convenable, et non au mauvais. Ainsi, il unit le vrai et le faux, et de leur union il grandit et devient toujours plus grand.
 
@@ -158,13 +158,13 @@ Français En identifiant certaines parties de l'hymne Nishkevalya avec un oiseau
 
 ## SEPTIÈME KHA<i>N</i><i>D</i>A.
 
-1\. Ceci (nishkevalya-<i>s</i>astra) devient parfait comme mille B<i>ri</i>hatîs. C'est la gloire (le Brahman glorieux, non le Brahman absolu), c'est Indra. Indra est le seigneur de tous les êtres. Celui qui connaît ainsi Indra comme le seigneur de tous les êtres, quitte ce monde en relâchant les liens de la vie [^573]\—ainsi a dit Mahidâsa Aitareya. Ayant quitté ce monde, il devient Indra (ou Hira<i>n</i>yagarbha) et brille dans ces mondes [^574]. <span id="p232">[<sup><small>p. 232</small></sup>]</span> 2\. Et à ce propos, ils disent : « Si un homme obtient l'autre monde sous cette forme (en méditant sur le prânâ, le souffle, qui est l'uktha, l'hymne du mahâvrata), alors sous quelle forme obtient-il ce monde [1](Aranyaka_2_3#fn575) ? »
+1\. Ceci (nishkevalya-<i>s</i>astra) devient parfait comme mille B<i>ri</i>hatîs. C'est la gloire (le Brahman glorieux, non le Brahman absolu), c'est Indra. Indra est le seigneur de tous les êtres. Celui qui connaît ainsi Indra comme le seigneur de tous les êtres, quitte ce monde en relâchant les liens de la vie [^573]\—ainsi a dit Mahidâsa Aitareya. Ayant quitté ce monde, il devient Indra (ou Hira<i>n</i>yagarbha) et brille dans ces mondes [^574]. <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> 2\. Et à ce propos, ils disent : « Si un homme obtient l'autre monde sous cette forme (en méditant sur le prânâ, le souffle, qui est l'uktha, l'hymne du mahâvrata), alors sous quelle forme obtient-il ce monde [1](Aranyaka_2_3#fn575) ? »
 
 3\. Ici, le sang de la femme est une forme d'Agni (le feu) ; nul ne devrait donc le mépriser. Et la semence de l'homme est une forme d'Âditya (le soleil) ; nul ne devrait donc la mépriser. Ce soi (la femme) donne son soi (peau, sang et chair) à ce soi (graisse, os et moelle), et ce soi (l'homme) donne son soi (graisse, os et moelle) à ce soi (peau, sang et chair). Ainsi [2](Aranyaka_2_3#fn576) ces deux grandissent ensemble. Sous cette forme (appartenant à la femme et au feu), il va dans ce monde (appartenant à l'homme et au soleil), et sous cette forme (appartenant à l'homme et au soleil) il va dans ce monde (appartenant à la femme et au feu [3](Aranyaka_2_3#fn577)).
 
 ## HUITIÈME KHA<i>N</i><i>D</i>A.
 
-1\. Ici (en ce qui concerne l'obtention de Hira<i>n</i>yagarbha) il y a ces <i>S</i>lokas : <span id="p233">[<sup><small>p. 233</small></sup>]</span> 2\. Le corps quintuple dans lequel pénètre l'indestructible (prâ<i>n</i>a, le souffle), ce corps que les chevaux attelés (les sens) entraînent, ce corps où le vrai du vrai (le plus haut Brahman) suit, dans ce corps (de l'adorateur) tous les dieux [^578] deviennent un.
+1\. Ici (en ce qui concerne l'obtention de Hira<i>n</i>yagarbha) il y a ces <i>S</i>lokas : <span id="p233"><sup><small>[ p. 233 ]</small></sup></span> 2\. Le corps quintuple dans lequel pénètre l'indestructible (prâ<i>n</i>a, le souffle), ce corps que les chevaux attelés (les sens) entraînent, ce corps où le vrai du vrai (le plus haut Brahman) suit, dans ce corps (de l'adorateur) tous les dieux [^578] deviennent un.
 
 3\. Ce corps dans lequel pénètre l'indestructible (le souffle) que nous avons joint (en méditation), procédant de l'indestructible (le Brahman le plus élevé), ce corps que les chevaux attelés (les sens) entraînent, ce corps où le vrai du vrai suit, dans ce corps tous les dieux deviennent un.
 
@@ -172,7 +172,7 @@ Français En identifiant certaines parties de l'hymne Nishkevalya avec un oiseau
 
 5\. Ce dont les poètes se réjouissaient (la nature révélée du prânâ, le souffle), en lui existent tous les dieux réunis. Ayant chassé le mal par ce Brahman (qui est caché dans le prânâ), l'homme éveillé accède au monde Svarga (il devient un avec Hiranyagarbha [^580], l'esprit universel).
 
-6\. Personne ne voulant le décrire (prânâ, le souffle) par la parole, ne le décrit en l'appelant « femme », « ni femme ni homme » ou « homme » (tous ces noms s'appliquant uniquement au corps matériel, et non au prânâ ou au souffle). <span id="p234">[<sup><small>p. 234</small></sup>]</span> 7\. Brahman (tel qu'il est caché sous le prânâ) est appelé le A ; et le Je (l'ego) y est allé (l'adorateur doit savoir qu'il est uktha et prânâ).
+6\. Personne ne voulant le décrire (prânâ, le souffle) par la parole, ne le décrit en l'appelant « femme », « ni femme ni homme » ou « homme » (tous ces noms s'appliquant uniquement au corps matériel, et non au prânâ ou au souffle). <span id="p234"><sup><small>[ p. 234 ]</small></sup></span> 7\. Brahman (tel qu'il est caché sous le prânâ) est appelé le A ; et le Je (l'ego) y est allé (l'adorateur doit savoir qu'il est uktha et prânâ).
 
 8\. Ceci devient parfait comme mille versets du Birihatî, et de cet hymne, parfait avec mille versets du Brihad, il y a 36 000 syllabes. Tels sont aussi les milliers de jours de la vie humaine [^581]. Au moyen de la seule syllabe de vie (le a) (qui est contenue dans ces mille hymnes) un homme obtient le jour de la vie (le jour mahâvrata, qui complète le nombre des jours dans le Gavâmayana, sacrifice), et au moyen du jour de la vie (il obtient) la syllabe de la vie.
 
@@ -182,7 +182,7 @@ Français En identifiant certaines parties de l'hymne Nishkevalya avec un oiseau
 
 11\. « Viens ici sur ce qui est plus rapide que l'esprit », et (Ap. VIII, 73, 2) « Viens ici sur ce qui est plus rapide qu'un clin d'œil », oui, un clin d'œil [^582].
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

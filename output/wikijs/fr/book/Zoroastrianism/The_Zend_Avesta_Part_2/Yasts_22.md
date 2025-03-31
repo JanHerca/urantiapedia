@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 Ce Ya<i>s</i>t est une description du sort réservé à l'âme du juste (§§ 1-18) et à l'âme du méchant (§§ 19-37) après la mort. Ils passent les trois premières nuits (les sadis ou sidôs ; cf. Commentaire du Vendîdâd, XIII, 55) au milieu des plus hautes jouissances ou douleurs ; ils sont alors accueillis par leur propre conscience sous la forme d'une belle jeune fille céleste (ou d'une vieille femme diabolique [^1330]), et sont conduits en quatre étapes vers le ciel ou vers l'enfer, à travers les trois paradis de la Bonne Pensée, de la Bonne Parole et de la Bonne Action, ou les trois enfers de la Mauvaise Pensée, de la Mauvaise Parole et de la Mauvaise Action : là, ils sont loués et glorifiés par Ahura, ou réprimandés et insultés par Angra Mainyu, et nourris d'ambroisie ou de poison.
 
@@ -48,7 +48,7 @@ Des développements similaires se retrouvent dans Ya<i>s</i>t XXIV, 53-65 ; Ard�
 
 Ahura Mazda a répondu :
 
-2\. « Il prend place près de la tête, chantant l'U<i>s</i>tavaiti Gâtha [^1331] et proclamant le bonheur : « Heureux est-il, heureux l'homme, quel qu'il soit, à qui Ahura Mazda donne le plein accomplissement de ses souhaits ! » Cette nuit-là, son âme goûte [^1332] autant de plaisir que le monde vivant tout entier peut en goûter. » <span id="p315">[<sup><small>p. 315</small></sup>]</span> 3\. — « La deuxième nuit, où demeure son âme ?
+2\. « Il prend place près de la tête, chantant l'U<i>s</i>tavaiti Gâtha [^1331] et proclamant le bonheur : « Heureux est-il, heureux l'homme, quel qu'il soit, à qui Ahura Mazda donne le plein accomplissement de ses souhaits ! » Cette nuit-là, son âme goûte [^1332] autant de plaisir que le monde vivant tout entier peut en goûter. » <span id="p315"><sup><small>[ p. 315 ]</small></sup></span> 3\. — « La deuxième nuit, où demeure son âme ?
 
 4\. Ahura Mazda répondit : « Il prend place près de la tête, chantant l'U<i>s</i>tavaiti Gâtha et proclamant le bonheur : « Heureux celui-là, heureux l'homme, quel qu'il soit, à qui Ahura Mazda donne le plein accomplissement de ses souhaits ! » Cette nuit-là, son âme goûte autant de plaisir que le monde vivant tout entier peut en goûter. »
 
@@ -60,7 +60,7 @@ Ahura Mazda a répondu :
 
 8\. Et il semble à l'âme du fidèle qu'il respire ce vent avec ses narines, et il pense : « D'où souffle ce vent, le vent le plus parfumé que j'aie jamais respiré avec mes narines ?
 
-9\. Et il lui semble que sa propre conscience s'avance vers lui dans ce vent, sous la forme d'une jeune fille belle, brillante, aux bras blancs, forte, haute de taille, <span id="p316">[<sup><small>p. 316</small></sup>]</span> de haute stature, à la poitrine épaisse, belle de corps, noble, d'une semence glorieuse [^1334], de la taille d'une jeune fille de quinze ans, aussi belle que les plus belles choses du monde.
+9\. Et il lui semble que sa propre conscience s'avance vers lui dans ce vent, sous la forme d'une jeune fille belle, brillante, aux bras blancs, forte, haute de taille, <span id="p316"><sup><small>[ p. 316 ]</small></sup></span> de haute stature, à la poitrine épaisse, belle de corps, noble, d'une semence glorieuse [^1334], de la taille d'une jeune fille de quinze ans, aussi belle que les plus belles choses du monde.
 
 10\. Et l'âme du fidèle s'adressa à elle, lui demandant : « Quelle jeune fille es-tu, qui es la plus belle jeune fille que j'aie jamais vue ? »
 
@@ -70,7 +70,7 @@ Ahura Mazda a répondu :
 
 12\. « Et toi, ô jeune homme aux bonnes pensées, aux bonnes paroles et aux bonnes actions, à la bonne religion ! Tu m'as aimé pour cette grandeur, cette bonté, cette équité, ce parfum agréable, cette force victorieuse et cette absence de chagrin, dans lesquelles je t'apparais.
 
-13\. « Quand tu voyais un homme se moquer [^1335] et commettre des actes d'idolâtrie, ou rejeter [^1336] (les pauvres) et fermer sa porte [^1337], alors tu t'asseyais en chantant les Gâthas et en adorant les bonnes eaux et Âtar, le fils d'Ahura Mazda, et en réjouissant [^1338] les fidèles qui venaient de près ou de loin. <span id="p317">[<sup><small>p. 317</small></sup>]</span> 14\. « J'étais belle et tu m'as rendue encore plus belle ; j'étais belle et tu m'as rendue encore plus belle ; j'étais désirable et tu m'as rendue encore plus désirable ; j'étais assise à l'avant et tu m'as fait asseoir à la première place, par cette bonne pensée, par cette bonne parole, par cette bonne action de ta part ; et désormais les hommes m'adorent pour avoir longtemps sacrifié et conversé avec Ahura Mazda.
+13\. « Quand tu voyais un homme se moquer [^1335] et commettre des actes d'idolâtrie, ou rejeter [^1336] (les pauvres) et fermer sa porte [^1337], alors tu t'asseyais en chantant les Gâthas et en adorant les bonnes eaux et Âtar, le fils d'Ahura Mazda, et en réjouissant [^1338] les fidèles qui venaient de près ou de loin. <span id="p317"><sup><small>[ p. 317 ]</small></sup></span> 14\. « J'étais belle et tu m'as rendue encore plus belle ; j'étais belle et tu m'as rendue encore plus belle ; j'étais désirable et tu m'as rendue encore plus désirable ; j'étais assise à l'avant et tu m'as fait asseoir à la première place, par cette bonne pensée, par cette bonne parole, par cette bonne action de ta part ; et désormais les hommes m'adorent pour avoir longtemps sacrifié et conversé avec Ahura Mazda.
 
 15\. 'Le premier pas que fit l'âme de l'homme fidèle, le plaça dans le Paradis de la Bonne-Pensée [^1339] ;
 
@@ -82,7 +82,7 @@ Ahura Mazda a répondu :
 
 16\. Alors un des fidèles, parti avant lui, lui demanda : « Comment as-tu quitté cette vie, saint homme ? Comment es-tu venu, saint homme ? Des demeures pleines de bétail et de désirs et de jouissances de l'amour ? Du monde matériel au monde de l'esprit ? Du monde en décomposition au monde immuable ? Combien de temps a duré ta félicité ? »
 
-17\. Et Ahura Mazda répondit : « Ne lui demande pas ce que tu lui demandes, à lui qui vient de s'en aller par le chemin lugubre <span id="p318">[<sup><small>p. 318</small></sup>]</span>, plein de peur et de détresse, où le corps et l'âme se séparent.
+17\. Et Ahura Mazda répondit : « Ne lui demande pas ce que tu lui demandes, à lui qui vient de s'en aller par le chemin lugubre <span id="p318"><sup><small>[ p. 318 ]</small></sup></span>, plein de peur et de détresse, où le corps et l'âme se séparent.
 
 18\. '\[Qu'il mange\] de la nourriture qu'on lui apporte, de l'huile de Zaremaya [^1343] : c'est la nourriture du jeune homme aux bonnes pensées, aux bonnes paroles, aux bonnes actions, à la bonne religion, après avoir quitté cette vie ; c'est la nourriture de la femme sainte, riche en bonnes pensées, en bonnes paroles et en bonnes actions, bien disciplinée et obéissante à son mari, après avoir quitté cette vie.'
 
@@ -100,7 +100,7 @@ Ahura Mazda a répondu :
 
 21\. — « La deuxième nuit, où demeure son âme ? »
 
-22\. Ahura Mazda répondit : « Il se précipite et s'assoit près du crâne, chantant le Kima Gâtha, ô saint <span id="p319">[<sup><small>p. 319</small></sup>]</span> Zarathu<i>s</i>tra ! « Vers quelle terre dois-je me tourner, ô Ahura Mazda ? À qui dois-je aller en priant ? »
+22\. Ahura Mazda répondit : « Il se précipite et s'assoit près du crâne, chantant le Kima Gâtha, ô saint <span id="p319"><sup><small>[ p. 319 ]</small></sup></span> Zarathu<i>s</i>tra ! « Vers quelle terre dois-je me tourner, ô Ahura Mazda ? À qui dois-je aller en priant ? »
 
 « Cette nuit-là, son âme goûte autant de souffrance que le monde vivant tout entier peut en goûter. »
 
@@ -112,7 +112,7 @@ Ahura Mazda a répondu :
 
 25\. À la fin de la troisième nuit, ô saint Zarathustra ! quand l'aube apparaît, il semble à l'âme de l'infidèle qu'elle soit apportée au milieu de la neige et de la puanteur, et qu'un vent souffle de la région du nord, des régions du nord, un vent nauséabond, le plus nauséabond de tous les vents du monde.
 
-26-32. Et il semble à l'âme du méchant qu'il respire ce vent avec ses narines, et il pense : « D'où souffle ce vent, le vent le plus nauséabond que j'aie jamais respiré avec mes narines [^1345] ? » <span id="p320">[<sup><small>p. 320</small></sup>]</span> 33\. Le premier pas que fit l'âme du méchant le plaça dans l'Enfer des Mauvaises Pensées ;
+26-32. Et il semble à l'âme du méchant qu'il respire ce vent avec ses narines, et il pense : « D'où souffle ce vent, le vent le plus nauséabond que j'aie jamais respiré avec mes narines [^1345] ? » <span id="p320"><sup><small>[ p. 320 ]</small></sup></span> 33\. Le premier pas que fit l'âme du méchant le plaça dans l'Enfer des Mauvaises Pensées ;
 
 Le deuxième pas que fit l’âme du méchant le déposa dans l’Enfer du Mauvais Mot ;
 
@@ -134,7 +134,7 @@ Le quatrième pas que fit l’âme du méchant le plongea dans les ténèbres sa
 
 « Nous adorons la langue d'Ahura Mazda, pour prononcer la Sainte Parole.
 
-« Nous adorons la montagne qui donne l'intelligence, qui préserve l'intelligence ; \[nous l'adorons <span id="p322">[<sup><small>p. 322</small></sup>]</span>\] jour et nuit, avec des offrandes de libations bien acceptées [^1350].
+« Nous adorons la montagne qui donne l'intelligence, qui préserve l'intelligence ; \[nous l'adorons <span id="p322"><sup><small>[ p. 322 ]</small></sup></span>\] jour et nuit, avec des offrandes de libations bien acceptées [^1350].
 
 39 [^1351]. « Ô Créateur ! comment les âmes des morts, les Fravashis des saints, se manifestent-elles [^1352] elles-mêmes [^1353] ? »
 
@@ -142,7 +142,7 @@ Le quatrième pas que fit l’âme du méchant le plongea dans les ténèbres sa
 
 ---
 
-41 [^1355]. Puis, vers l'aube [^1356], cet oiseau Parôdar<i>s</i> [^1357], cet oiseau Karetô-dãsu [^1358] entend la voix du Feu. <span id="p323">[<sup><small>p. 323</small></sup>]</span> 42\. Ici, le diabolique Bûshyãsta, le long bras, se précipite de la région du nord, des régions du nord, parlant ainsi, mentant ainsi : « Dormez, ô hommes ! Dormez, ô pécheurs ! Dormez et vivez dans le péché. »
+41 [^1355]. Puis, vers l'aube [^1356], cet oiseau Parôdar<i>s</i> [^1357], cet oiseau Karetô-dãsu [^1358] entend la voix du Feu. <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> 42\. Ici, le diabolique Bûshyãsta, le long bras, se précipite de la région du nord, des régions du nord, parlant ainsi, mentant ainsi : « Dormez, ô hommes ! Dormez, ô pécheurs ! Dormez et vivez dans le péché. »
 
 <figure class="table chapter-navigator">
   <table>

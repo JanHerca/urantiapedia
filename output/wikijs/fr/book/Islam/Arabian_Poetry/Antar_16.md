@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p214">[<sup><small>p. 214</small></sup>]</span>
+<span id="p214"><sup><small>[ p. 214 ]</small></sup></span>
 
 Accompagné seulement de son fidèle frère Shiboob, son fidèle acolyte, qui rendait souvent au héros d'importants services par sa dextérité d'archer, et dont la rapidité de pied lui avait valu le surnom de Fils du Vent, Antar quitta de nuit les tentes d'Abs et se dirigea vers le pays d'Irak. Traversant les déserts et les étendues sauvages par des sentiers secrets, bien connus de Shiboob, ils tombèrent un jour sur une seule tente dressée près d'une source, et près d'elle se trouvait un vieux cheikh, courbé par les années :
 
@@ -47,7 +47,7 @@ Le vénérable solitaire présenta aux voyageurs un verre de lait rafraîchi au 
 
 Dans le pays de Shurebah, il y a des souillures et des vallées; je les ai abandonnées, et leurs habitants habitent dans mon cœur.
 
-<span id="p215">[<sup><small>p. 215</small></sup>]</span>
+<span id="p215"><sup><small>[ p. 215 ]</small></sup></span>
 
 Ils sont fixés là-dedans et dans mes yeux, et même quand ils sont absents de moi, ils demeurent dans le noir de mon œil ;
 
@@ -81,7 +81,7 @@ Les vicissitudes de la fortune pouvaient-elles accepter une rançon ? Oh ! je t'
 
 Ton oncle, dans ses ruses et ses fraudes, t'a fait boire la coupe ; mais puisse ton échanson, ô fils de ma mère, ne jamais goûter l'humidité de la rosée !
 
-<span id="p217">[<sup><small>p. 217</small></sup>]</span>
+<span id="p217"><sup><small>[ p. 217 ]</small></sup></span>
 
 Et ta cousine te pleurera, et elle appartiendra à ton ennemi, dont tu n'aurais jamais consenti à être l'esclave.
 
@@ -99,7 +99,7 @@ Il raconte ensuite les circonstances de son entreprise qui avait ainsi avorté.L
 
 Les cils de la chanteuse du coin du voile sont plus tranchants que le tranchant des cimeterres fendeurs ;
 
-<span id="p218">[<sup><small>p. 218</small></sup>]</span>
+<span id="p218"><sup><small>[ p. 218 ]</small></sup></span>
 
 Et quand ils blessent les braves, ils s'humilient et les coins de leurs yeux sont inondés de larmes.
 

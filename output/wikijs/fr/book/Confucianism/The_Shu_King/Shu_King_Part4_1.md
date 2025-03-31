@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 ## PARTIE IV. LES LIVRES DE SHANG. LIVRE I. LE DISCOURS DE THANG.
 
@@ -42,7 +42,7 @@ Il y avait dans le Shû, lors de la constitution du recueil, trente et un docume
 
 Il avait convoqué son peuple pour l'accompagner en campagne contre Kieh, le cruel et condamné souverain de Hsiâ, et les trouvant réticents à l'entreprise, il expose dans ce livre ses raisons d'attaquer le tyran, argumente contre leur réticence, utilisant à la fin à la fois des promesses et des menaces pour les inciter à obéir à ses ordres.
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Le roi dit : « Venez, multitudes du peuple, écoutez bien mes paroles. Ce n'est pas moi, le petit enfant [^95], qui ose entreprendre une entreprise rebelle ; mais pour les nombreux crimes du souverain de Hsiâ, le Ciel a ordonné sa destruction. »
 

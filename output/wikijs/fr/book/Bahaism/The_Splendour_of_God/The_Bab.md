@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T10:15:31Z
   </table>
 </figure>
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Trois phases du bahaïsme doivent être considérées.
 
@@ -48,7 +48,7 @@ Comme Quelqu’un l’a dit, il y a longtemps : « Je suis la Voie », ainsi Mir
 
 Celui-là a également déclaré qu'Il n'était pas venu pour détruire, mais pour accomplir. C'est ainsi que Mirza Ali Mohammed est venu, sans chercher en aucune façon à déraciner les enseignements et les doctrines du créateur du Coran, mais pour exhorter à une exécution complète et sincère des commandements du Prophète.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 « Le Bâb » – car il était reconnu comme tel et sera rappelé avec révérence – croyait fermement à ceci : « dans le passé, chaque fois qu’il y avait besoin, Dieu a suscité un prophète sur la terre, porteur d’un livre contenant une révélation divine ; et Il fera de même dans le futur, chaque fois qu’il y aura besoin. »
 
@@ -68,7 +68,7 @@ Là où les prêtres manquaient à leurs devoirs ou à leur exemple, le Báb par
 
 Les prêtres, appuyés par l'action gouvernementale, accusèrent les prophètes et le peuple de vouloir renverser la religion et l'ordre. La peur envahit l'esprit de ceux qui, détenant et abusant de l'autorité de l'État, ne pouvaient ou ne voulaient pas comprendre ces hommes qui aspiraient à l'autorité de Dieu.
 
-Ces derniers cherchaient à entrer au paradis ; <span id="p21">[<sup><small>p. 21</small></sup>]</span> les premiers les soupçonnaient de vouloir imposer leur propre volonté au mépris du Shah et de l'Islam.
+Ces derniers cherchaient à entrer au paradis ; <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> les premiers les soupçonnaient de vouloir imposer leur propre volonté au mépris du Shah et de l'Islam.
 
 L’impolitesse fut suivie d’abus, l’abus de persécution, la persécution de spoliation et d’exécution.
 
@@ -78,7 +78,7 @@ Pendant deux ans, le Báb avait travaillé et enseigné. Le thème de son enseig
 
 Les autorités ecclésiastiques et constituées s’opposèrent à lui avec véhémence. Il fut accusé, ce qui n’était pas une tâche difficile dans un tel pays et dans de telles circonstances. Puis il fut emprisonné pendant quatre ans. Pendant toute cette période, malgré son inquiétude pour ses nombreux amis, peut-être en partie motivée par cette inquiétude, mais certainement poussée par l’inspiration de travailler pour le peuple tant qu’il lui resterait la vie, il écrivit un grand nombre d’épîtres et d’exhortations.
 
-Il prenait soin de son troupeau autant de leurs activités quotidiennes que de leur bien-être éternel. Il était littéralement leur « Père en Dieu », prenant en compte leur environnement et toutes leurs difficultés <span id="p22">[<sup><small>p. 22</small></sup>]</span> et les dirigeant de manière à vivre dans ce monde de manière à se préparer pleinement à la vie éternelle à venir.
+Il prenait soin de son troupeau autant de leurs activités quotidiennes que de leur bien-être éternel. Il était littéralement leur « Père en Dieu », prenant en compte leur environnement et toutes leurs difficultés <span id="p22"><sup><small>[ p. 22 ]</small></sup></span> et les dirigeant de manière à vivre dans ce monde de manière à se préparer pleinement à la vie éternelle à venir.
 
 Certaines de ces épîtres parvinrent dans un pays, d'autres dans un autre, et tandis que leur auteur était en prison pour des raisons de conscience, ses paroles se répandirent partout. Les lecteurs de la plupart des pays avaient déjà eu connaissance de l'œuvre de ce réformateur sérieux et dévoué.
 
@@ -94,7 +94,7 @@ La confiscation des biens fut, comme on pouvait s’y attendre de la part des pe
 
 La personnalité et l'influence extraordinaires du Bâb ne peuvent être niées. Sa spiritualité, son mépris des choses matérielles et matérielles, sa maîtrise magistrale des points religieux et philosophiques, son immense amour et sa compréhension des gens et de leurs besoins les plus profonds, tout cela a étayé sa position et ses prétentions.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Il avait exhorté ses élèves à « tout endurer » pour l’amour de Dieu, de leur foi et de la sienne.
 

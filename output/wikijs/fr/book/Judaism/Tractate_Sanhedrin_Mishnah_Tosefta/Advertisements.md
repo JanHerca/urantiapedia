@@ -29,7 +29,7 @@ dateCreated: 2025-2-7T10:45:30Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 (Ces publicités figuraient à la fin du livre original. Cette partie a été transcrite par souci d'exhaustivité. Il n'y avait pas de numéros de page dans cette section ; les numéros de page ont été fournis pour des raisons techniques. — JBH.)
 
@@ -47,7 +47,7 @@ Le révérend CANON GH BOX, MA
 
 L'objectif de la série est de fournir des manuels courts, abordables et pratiques aux étudiants, qu'ils travaillent seuls ou en classe. L'objectif est de fournir des traductions de textes importants, exemptes de commentaires ou de notes élaborées, qui peuvent figurer dans des ouvrages plus volumineux.
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 ### PREMIÈRE SÉRIE
 
@@ -77,7 +77,7 @@ Textes judéo-palestiniens et apparentés
 
 11\. Les Testaments d'Abraham, d'Isaac et de Jacob. Le révérend chanoine Box et S. Gazelee.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 ### PREMIÈRE SÉRIE — suite
 
@@ -105,7 +105,7 @@ Textes hellénistiques-juifs
 
 7\. Le Livre de Joseph et d'Asnath. Traduit du texte grec par EW Brooks.
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 ### TROISIÈME SÉRIE
 

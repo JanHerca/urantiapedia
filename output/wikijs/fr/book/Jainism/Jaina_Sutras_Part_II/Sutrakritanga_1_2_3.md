@@ -48,7 +48,7 @@ Ainsi, celui qui connaît la poursuite des plaisirs doit tôt ou tard abandonner
 
 De peur que le sort des méchants ne t'échoie, échappe (à l'influence des sens) et discipline-toi ! Les méchants seront dans une grande tristesse, gémiront et gémiront. (7)
 
-<span id="p259">[<sup><small>p. 259</small></sup>]</span>
+<span id="p259"><sup><small>[ p. 259 ]</small></sup></span>
 
 Vois, la vie ici-bas est éphémère. Même si ta vie dure cent ans, tu meurs comme un homme de courte vie. Sache que tes années passent vite. Pourtant, les avides s'attachent aux plaisirs. (8)
 
@@ -64,7 +64,7 @@ L'homme qui vit encore dans la maison doit, conformément à sa croyance [^760],
 
 Instruit dans le credo du Seigneur, efforcez-vous de vivre dans la vérité (c'est-à-dire de maîtriser votre vie) ! Un moine qui a complètement maîtrisé son égoïsme devrait recueillir des aumônes pures. (14)
 
-Connaissant la vérité, il faut vivre selon elle, <span id="p260">[<sup><small>p. 260</small></sup>]</span> recherchant la Loi, sérieux dans l'accomplissement des austérités, possédant les Guptis, étant accompli, il faut toujours s'efforcer, concentré sur le bien de l'âme, et désirant le plus grand bien (à savoir la libération). (15)
+Connaissant la vérité, il faut vivre selon elle, <span id="p260"><sup><small>[ p. 260 ]</small></sup></span> recherchant la Loi, sérieux dans l'accomplissement des austérités, possédant les Guptis, étant accompli, il faut toujours s'efforcer, concentré sur le bien de l'âme, et désirant le plus grand bien (à savoir la libération). (15)
 
 L'insensé pense que ses richesses, son bétail et ses proches le sauveront, qu'ils le sauveront, ou qu'il les sauvera. Mais ils ne lui apportent ni secours ni protection. (16)
 

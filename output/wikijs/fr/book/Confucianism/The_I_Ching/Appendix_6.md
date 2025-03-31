@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:12Z
   </table>
 </figure>
 
-<span id="p433">[<sup><small>p. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 La séquence ordonnée des hexagrammes [^297]
 
@@ -44,13 +44,13 @@ La séquence ordonnée des hexagrammes [^297]
 
 6-8. Sung est sûr de provoquer le soulèvement des multitudes [^300] ; c'est pourquoi il est suivi de Sze. Sze signifie multitudes [^300], et entre les multitudes il doit y avoir un lien d'union. C'est pourquoi il est suivi de Pî, qui signifie être attaché à.
 
-8-11. (Les multitudes en) union doivent être soumises à une certaine contrainte. C'est pourquoi Pî est suivi de Hsiâo <span id="p434">[<sup><small>p. 434</small></sup>]</span> Khû. Lorsque les choses sont soumises à une contrainte, il y a des rites de cérémonie, et c'est pourquoi Hsiâo Khû est suivi de Lî [^301]. Le piétinement (sur ce qui est approprié) conduit à Thâi, qui sort dans un état de liberté et de repos, et c'est pourquoi Lî est suivi de Thâi.
+8-11. (Les multitudes en) union doivent être soumises à une certaine contrainte. C'est pourquoi Pî est suivi de Hsiâo <span id="p434"><sup><small>[ p. 434 ]</small></sup></span> Khû. Lorsque les choses sont soumises à une contrainte, il y a des rites de cérémonie, et c'est pourquoi Hsiâo Khû est suivi de Lî [^301]. Le piétinement (sur ce qui est approprié) conduit à Thâi, qui sort dans un état de liberté et de repos, et c'est pourquoi Lî est suivi de Thâi.
 
 11-16. Thâi désigne les choses libres de leurs mouvements. Elles ne peuvent l'avoir éternellement, d'où le nom Phî (qui signifie être enfermé et restreint). Les choses ne peuvent être enfermées éternellement, d'où le nom Phî suivi de Thung Žân. À celui qui cultive l'union avec les hommes, les choses doivent appartenir, d'où le nom Thung Žân suivi de Tâ Yû. Ceux qui possèdent ce qui est grand ne devraient pas se laisser envahir par le sentiment d'être comblés, d'où le nom Tâ Yû suivi de Kh_ien. Lorsque de grandes possessions sont associées à l'humilité, il y a forcément plaisir et satisfaction ; d'où le nom Kh_ien suivi de Yü.
 
 16-19. Lorsqu'une telle complaisance est éveillée, celui qui la provoque est sûr d'avoir des disciples [^302]. Ceux qui suivent un autre sont sûrs d'avoir des services à rendre, et c'est pourquoi Sui est suivi de Kû [^303]. Kû signifie (l'accomplissement de) services. Celui qui accomplit de tels services peut ensuite devenir grand, et c'est pourquoi Kû est suivi de Lin. Lin signifie grand [^303].
 
-19-23. Ce qui est grand suscite la contemplation, et c'est pourquoi Lin est suivi de Kwân. Celui qui suscite la contemplation suscitera alors l'union des autres avec lui-même, et c'est pourquoi Kwân est suivi de Shih Ho. Shih Ho signifie union. Mais les choses ne doivent pas être unies de manière inconsidérée ou irrégulière, et c'est pourquoi Shih Ho est suivi de <span id="p435">[<sup><small>p. 435</small></sup>]</span> Pî. Pî désigne l'ornementation. Lorsque l'ornementation est poussée à son paroxysme, son progrès s'arrête ; et c'est pourquoi Pî est suivi de Po. Po désigne la décadence et le renversement.
+19-23. Ce qui est grand suscite la contemplation, et c'est pourquoi Lin est suivi de Kwân. Celui qui suscite la contemplation suscitera alors l'union des autres avec lui-même, et c'est pourquoi Kwân est suivi de Shih Ho. Shih Ho signifie union. Mais les choses ne doivent pas être unies de manière inconsidérée ou irrégulière, et c'est pourquoi Shih Ho est suivi de <span id="p435"><sup><small>[ p. 435 ]</small></sup></span> Pî. Pî désigne l'ornementation. Lorsque l'ornementation est poussée à son paroxysme, son progrès s'arrête ; et c'est pourquoi Pî est suivi de Po. Po désigne la décadence et le renversement.
 
 23-26. On ne peut pas faire disparaître les choses à jamais. Quand la décadence et le renversement ont achevé leur œuvre à une extrémité, la réintégration commence à l'autre ; c'est pourquoi Po est suivi de Fû. Lorsque le retour (ainsi indiqué) a eu lieu, nous n'avons pas de désordre inconsidéré, et Fû est suivi de Wû Wang. Étant donné l'absence de désordre et d'insincérité (que ce nom dénote), il peut y avoir accumulation (de vertu), et Wû Wang est suivi de Tâ <i>Kh</i>û.
 
@@ -58,7 +58,7 @@ La séquence ordonnée des hexagrammes [^297]
 
 ## SECTION II
 
-31, 32. Le ciel et la terre ayant existé, toutes choses (matérielles) ont alors acquis leur existence. Toutes choses (matérielles) ayant existé, sont ensuite venus l'homme et la femme. De l'existence de l'homme et de la femme sont ensuite venus le mari et la femme. De <span id="p436">[<sup><small>p. 436</small></sup>]</span> l'homme et la femme sont venus le père et le fils. Du père et du fils sont venus le souverain et le ministre. Du souverain et du ministre sont venus le haut et le bas. Lorsque (la distinction entre) le haut et le bas a existé, sont ensuite venues les dispositions de la bienséance et de la justice.
+31, 32. Le ciel et la terre ayant existé, toutes choses (matérielles) ont alors acquis leur existence. Toutes choses (matérielles) ayant existé, sont ensuite venus l'homme et la femme. De l'existence de l'homme et de la femme sont ensuite venus le mari et la femme. De <span id="p436"><sup><small>[ p. 436 ]</small></sup></span> l'homme et la femme sont venus le père et le fils. Du père et du fils sont venus le souverain et le ministre. Du souverain et du ministre sont venus le haut et le bas. Lorsque (la distinction entre) le haut et le bas a existé, sont ensuite venues les dispositions de la bienséance et de la justice.
 
 La règle de la relation entre mari et femme est qu'elle soit durable. C'est pourquoi Hsien est suivi de Hăng. Hăng désigne la longévité [^304].
 
@@ -66,7 +66,7 @@ La règle de la relation entre mari et femme est qu'elle soit durable. C'est pou
 
 37-40. Lorsque la bonne administration de la famille est rompue, l'incompréhension et la division s'ensuivent ; c'est pourquoi Kiâ <i>Z</i>ăn est suivi de Khwei. Khwei dénote l'incompréhension et la division ; un tel état est inévitablement source de difficultés et de complications. Khwei est donc suivi de <i>K</i>ien. <i>K</i>ien dénote les difficultés ; mais les choses ne peuvent rester éternellement dans cet état. <i>K</i>ien est donc suivi de <i>K</i>ieh, qui dénote la détente et l'aisance.
 
-40-44. Dans un état de détente et de bien-être, il y a forcément des pertes ; c'est pourquoi <i>K</i>ieh est suivi <span id="p437">[<sup><small>p. 437</small></sup>]</span> de Sun. Mais lorsque Sun (ou diminution) se poursuit sans fin, l'augmentation est certaine. Sun est donc suivi de Yî. Lorsque l'augmentation se poursuit sans fin, il y a forcément une dispersion, et c'est pourquoi Yî est suivi de Kwâi. Kwâi dénote la dispersion. Mais la dispersion doit être suivie d'une (nouvelle) rencontre. C'est pourquoi Kwâi est suivi de Kâu, qui dénote une telle rencontre.
+40-44. Dans un état de détente et de bien-être, il y a forcément des pertes ; c'est pourquoi <i>K</i>ieh est suivi <span id="p437"><sup><small>[ p. 437 ]</small></sup></span> de Sun. Mais lorsque Sun (ou diminution) se poursuit sans fin, l'augmentation est certaine. Sun est donc suivi de Yî. Lorsque l'augmentation se poursuit sans fin, il y a forcément une dispersion, et c'est pourquoi Yî est suivi de Kwâi. Kwâi dénote la dispersion. Mais la dispersion doit être suivie d'une (nouvelle) rencontre. C'est pourquoi Kwâi est suivi de Kâu, qui dénote une telle rencontre.
 
 44-48. Quand les choses se rencontrent, un rassemblement se forme. C'est pourquoi Kâu est suivi de Žhui, dont le nom signifie être rassemblé. Lorsque (les hommes de bien) se rassemblent et atteignent les plus hauts sommets, il en résulte ce que nous appelons une progression ascendante ; c'est pourquoi Žhui est suivi de Shăng. Lorsqu'une telle progression se poursuit sans interruption, la détresse est inévitable ; c'est pourquoi Shăng est suivi de Khwăn. Lorsque la détresse est ressentie dans la hauteur (qui a été atteinte), il y a forcément un retour au sol ; c'est pourquoi Khwăn est suivi de Žing.
 
@@ -74,7 +74,7 @@ La règle de la relation entre mari et femme est qu'elle soit durable. C'est pou
 
 49-55. Pour changer la substance des choses, rien n'égale le chaudron ; c'est pourquoi Kö est suivi de Ting. Pour présider à ce récipient et à tous les autres, nul n'est égal au fils aîné ; c'est pourquoi Ting est suivi de <i>K</i>ăn. <i>K</i>ăn évoque l'idée de mise en mouvement. Mais les choses ne peuvent être maintenues éternellement en mouvement. Le mouvement est arrêté ; c'est pourquoi <i>K</i>ăn est suivi de Kăn, qui évoque l'idée d'arrêter ou de stopper. Les choses ne peuvent être maintenues éternellement en état de répression, et c'est pourquoi Kăn est suivi de <i>K</i>ien, qui évoque l'idée de
 
-<span id="p438">[<sup><small>p. 438</small></sup>]</span>
+<span id="p438"><sup><small>[ p. 438 ]</small></sup></span>
 
 (progressivement) en progression. Avec la progression, on atteint forcément un certain point, et c'est pourquoi Kien est remplacé par Kwei Mei. Lorsque les choses atteignent ainsi leur point d'arrivée, elles sont assurées de devenir grandes. C'est pourquoi Kwei Mei est remplacé par Făng, qui évoque l'idée de grandeur.
 
@@ -84,9 +84,9 @@ La règle de la relation entre mari et femme est qu'elle soit durable. C'est pou
 
 59-62. Un état de division ne peut durer éternellement, et c'est pourquoi Hwan est suivi de Žieh. Žieh (ou le système de règles) ayant été établi, les hommes y croient, et c'est pourquoi il est suivi de <i>K</i>ung Fû. Lorsque les hommes ont la croyance qu'implique <i>K</i>ung Fû, ils sont sûrs de la mettre en pratique ; c'est pourquoi il est suivi de Hsiâo Kwo.
 
-62-64. Celui qui surpasse les autres est sûr de remédier (aux maux existants), et c'est pourquoi Hsiâo Kwo est remplacé par <i>K</i>î Žî. Mais la succession des événements ne peut prendre fin, et c'est pourquoi <i>K</i>î Žî est <span id="p439">[<sup><small>p. 439</small></sup>]</span> remplacé par Wei Žî, avec lequel (les hexagrammes) se terminent.
+62-64. Celui qui surpasse les autres est sûr de remédier (aux maux existants), et c'est pourquoi Hsiâo Kwo est remplacé par <i>K</i>î Žî. Mais la succession des événements ne peut prendre fin, et c'est pourquoi <i>K</i>î Žî est <span id="p439"><sup><small>[ p. 439 ]</small></sup></span> remplacé par Wei Žî, avec lequel (les hexagrammes) se terminent.
 
-<span id="p440">[<sup><small>p. 440</small></sup>]</span>
+<span id="p440"><sup><small>[ p. 440 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

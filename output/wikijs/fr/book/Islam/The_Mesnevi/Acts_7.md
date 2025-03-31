@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p122">[<sup><small>p. 122</small></sup>]</span>
+<span id="p122"><sup><small>[ p. 122 ]</small></sup></span>
 
 **CHAPITRE VII.**
 
@@ -50,7 +50,7 @@ Jelâl se leva d'un bond, courut vers son fils, prit l'enfant sur son sein, l'em
 
 ## 2.
 
-Le frère aîné de Sultan Veled, ‘Alā’u-’d-Dīn, fut tué dans le tumulte pour lequel les autorités policières de Qonya mirent à mort le cheikh Shemsu-’d-Dīn de Tebrīz. Sultan Veled régna sur la communauté derviche, à la place de son père <span id="p123">[<sup><small>p. 123</small></sup>]</span> (après la mort de Husāmu-’d-Dīn), pendant de nombreuses années (de 683 à 712 a.H., soit vingt-neuf années lunaires). Il composa trois volumes de poésie en distiques, comme le Mesnevī (d'où le nom de _Mesneviyāt_, Poèmes mesnéviens), et un volume (_Dīwān_) d'odes dans le style arabe, classées dans l'ordre alphabétique de leurs rimes.
+Le frère aîné de Sultan Veled, ‘Alā’u-’d-Dīn, fut tué dans le tumulte pour lequel les autorités policières de Qonya mirent à mort le cheikh Shemsu-’d-Dīn de Tebrīz. Sultan Veled régna sur la communauté derviche, à la place de son père <span id="p123"><sup><small>[ p. 123 ]</small></sup></span> (après la mort de Husāmu-’d-Dīn), pendant de nombreuses années (de 683 à 712 a.H., soit vingt-neuf années lunaires). Il composa trois volumes de poésie en distiques, comme le Mesnevī (d'où le nom de _Mesneviyāt_, Poèmes mesnéviens), et un volume (_Dīwān_) d'odes dans le style arabe, classées dans l'ordre alphabétique de leurs rimes.
 
 ## 3.
 
@@ -66,7 +66,7 @@ Un jour, un grand homme demanda au sultan Veled si Dieu parle parfois à son ser
 
 Ce chercheur avait souvent eu l'idée d'envoyer une offrande au sultan Veled, mais avait hésité entre un don en argent et un don en mousselines indiennes.
 
-<span id="p124">[<sup><small>p. 124</small></sup>]</span>
+<span id="p124"><sup><small>[ p. 124 ]</small></sup></span>
 
 Sultan Veled répondit à sa question ainsi : « Dieu parle certainement à Ses serviteurs. Et quant à la méthode par laquelle Il s'adresse à eux, je vais te raconter une anecdote. »
 
@@ -84,7 +84,7 @@ Sultan Veled répondit à sa question ainsi : « Dieu parle certainement à Ses 
 
 « Maintenant, ajouta Sultan Veled, je te le dis, ô grand seigneur, écoute aussi les paroles de Dieu. Donne les mouchoirs indiens et distribue aussi l'argent. Quand tu auras écouté les paroles de Dieu, Il écoutera aussi ce que tu pourras Lui dire. Tout ce que tu Lui demanderas, Dieu te l'accordera, et tout ce que tu chercheras de Lui, tu le trouveras. »
 
-<span id="p125">[<sup><small>p. 125</small></sup>]</span>
+<span id="p125"><sup><small>[ p. 125 ]</small></sup></span>
 
 Aussitôt ce grand homme devint un converti et un disciple sincère.Des œuvres miraculeuses similaires du Sultan Veled sont incalculables.
 

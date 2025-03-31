@@ -32,11 +32,11 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span> p. 146
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span> p. 146
 
 TALAVAKÂRA OU KENA-UPANISHAD.
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 ## PREMIER KHA<i>N</i><i>D</i>A.
 
@@ -72,7 +72,7 @@ TALAVAKÂRA OU KENA-UPANISHAD.
 
 ## TROISIÈME KHA<i>N</i><i>D</i>A [^370].
 
-1\. Brahman a obtenu la victoire des Dévas. Les Dévas furent transportés de joie par la victoire de Brahman, <span id="p150">[<sup><small>p. 150</small></sup>]</span> et pensèrent : cette victoire est à nous seuls, cette grandeur est à nous seuls.
+1\. Brahman a obtenu la victoire des Dévas. Les Dévas furent transportés de joie par la victoire de Brahman, <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> et pensèrent : cette victoire est à nous seuls, cette grandeur est à nous seuls.
 
 2\. Brahman le perçut et leur apparut. Mais ils ne le savaient pas et dirent : « Quel esprit (yaksha ou yakshya) est-ce ? »
 
@@ -104,7 +104,7 @@ TALAVAKÂRA OU KENA-UPANISHAD.
 
 3\. Et c'est pourquoi Indra est, pour ainsi dire, au-dessus des autres dieux, car c'est lui qui l'a touché le plus près, c'est lui qui l'a connu le premier.
 
-4\. Tel est l'enseignement de Brahman, à l'égard des dieux (mythologiques) : C'est ce qui maintenant <span id="p152">[<sup><small>p. 152</small></sup>]</span> jaillit dans l'éclair, et maintenant disparaît à nouveau.
+4\. Tel est l'enseignement de Brahman, à l'égard des dieux (mythologiques) : C'est ce qui maintenant <span id="p152"><sup><small>[ p. 152 ]</small></sup></span> jaillit dans l'éclair, et maintenant disparaît à nouveau.
 
 5\. Et voici l'enseignement de Brahman, concernant le corps (psychologique) : C'est ce qui semble se mouvoir comme l'esprit, et par lui l'imagination se souvient encore et encore [^373].
 

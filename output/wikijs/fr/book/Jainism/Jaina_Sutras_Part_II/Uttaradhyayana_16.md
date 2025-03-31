@@ -38,7 +38,7 @@ SEIZIÈME LEÇON. LES DIX CONDITIONS DE LA CHASTETÉ PARFAITE.
 
 Ici [^196], en effet, les vénérables Sthaviras ont énoncé dix conditions pour la réalisation du célibat, en écoutant et en comprenant lesquelles les moines atteindront un haut degré d'autodiscipline, de Samvara [^197] et de contemplation, seront bien protégés (par les trois Guptis), garderont leurs sens, garderont leur chasteté, et ne seront ainsi jamais négligents (dans l'accomplissement de leurs devoirs religieux).
 
-Quelles sont donc ces dix conditions pour la réalisation du célibat telles que déclarées par les vénérables Sthaviras, en les entendant et en les comprenant, les moines atteindront un haut degré d'autodiscipline, de <span id="p74">[<sup><small>p. 74</small></sup>]</span> Sa<i>m</i>vara et de contemplation, seront bien protégés (par les trois Guptis), garderont leurs sens, garderont leur chasteté et ne seront ainsi jamais négligents (dans l'accomplissement de leurs devoirs religieux) ?
+Quelles sont donc ces dix conditions pour la réalisation du célibat telles que déclarées par les vénérables Sthaviras, en les entendant et en les comprenant, les moines atteindront un haut degré d'autodiscipline, de <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> Sa<i>m</i>vara et de contemplation, seront bien protégés (par les trois Guptis), garderont leurs sens, garderont leur chasteté et ne seront ainsi jamais négligents (dans l'accomplissement de leurs devoirs religieux) ?
 
 Voilà donc les dix conditions pour la réalisation du célibat, etc. (toutes se résument à) des devoirs.
 
@@ -46,7 +46,7 @@ Voilà donc les dix conditions pour la réalisation du célibat, etc. (toutes se
 
 2\. Un Nirgrantha ne doit pas converser avec les femmes [^199]. Le précepteur en a expliqué la raison. Si un Nirgrantha converse avec les femmes, etc. (tout comme ci-dessus).
 
-3\. Un Nirgrantha ne doit pas s'asseoir avec des femmes sur le même siège. Le précepteur en a expliqué la raison. Si un Nirgrantha s'assoit sur le même siège que des femmes, etc. (tout comme ci-dessus). <span id="p75">[<sup><small>p. 75</small></sup>]</span> 4\. Un Nirgrantha ne doit pas regarder ni contempler les charmes et la beauté des femmes. (Le reste est identique à ci-dessus.)
+3\. Un Nirgrantha ne doit pas s'asseoir avec des femmes sur le même siège. Le précepteur en a expliqué la raison. Si un Nirgrantha s'assoit sur le même siège que des femmes, etc. (tout comme ci-dessus). <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> 4\. Un Nirgrantha ne doit pas regarder ni contempler les charmes et la beauté des femmes. (Le reste est identique à ci-dessus.)
 
 5\. Un Nirgrantha ne doit pas, derrière un écran, un rideau ou un mur, écouter les cris, les hurlements, les chants, les rires ou les pleurs des femmes. (Le reste est identique à celui indiqué ci-dessus.)
 
@@ -68,7 +68,7 @@ Un moine doit prendre un logement indépendant, libre et non fréquenté par les
 
 Un moine chaste devrait éviter de parler aux femmes, ce qui réjouit l'esprit et fomente l'amour et la passion. (2)
 
-<span id="p76">[<sup><small>p. 76</small></sup>]</span>
+<span id="p76"><sup><small>[ p. 76 ]</small></sup></span>
 
 Un moine chaste doit toujours éviter la compagnie des femmes et les conversations fréquentes avec elles. (3)
 
@@ -90,7 +90,7 @@ Un logement fréquenté par les femmes, leurs conversations agréables, leur com
 
 Leurs cris, leurs hurlements, leurs chants et leurs rires, le fait de manger et de dormir avec eux ; la nourriture et les boissons bien préparées, ou d'en consommer avec excès ; (12)
 
-Et les ornements et les parures [^201] : ces choses agréables, <span id="p77">[<sup><small>p. 77</small></sup>]</span> qu'il est difficile de quitter, sont comme le poison Tâlapu<i>t</i>a [^202], pour un homme qui recherche le vrai Soi. (13)
+Et les ornements et les parures [^201] : ces choses agréables, <span id="p77"><sup><small>[ p. 77 ]</small></sup></span> qu'il est difficile de quitter, sont comme le poison Tâlapu<i>t</i>a [^202], pour un homme qui recherche le vrai Soi. (13)
 
 Il doit, une fois pour toutes, abandonner les choses agréables qu'il a du mal à quitter ; et, concentré dans ses pensées, il doit éviter tout ce qui jette un doute sur sa chasteté. (14)
 

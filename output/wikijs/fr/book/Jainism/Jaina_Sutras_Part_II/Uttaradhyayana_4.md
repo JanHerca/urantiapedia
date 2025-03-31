@@ -40,7 +40,7 @@ Les hommes qui, adhérant à de mauvais principes, acquièrent des richesses par
 
 De même que le cambrioleur [^91] surpris dans la brèche du mur périt par l'œuvre que le pécheur lui-même a exécutée, de même les gens dans cette vie et dans la suivante ne peuvent échapper à l'effet de leurs propres actions. (3)
 
-Si un homme vivant dans le Sa<i>m</i>sâra accomplit une action pour le bien de quelqu'un d'autre, ou une action dont lui-même <span id="p19">[<sup><small>p. 19</small></sup>]</span> profite également, alors, au moment de récolter le fruit de ses actions, ses relations n'agiront pas comme de vraies relations (c'est-à-dire ne viendront pas à son secours). (4)
+Si un homme vivant dans le Sa<i>m</i>sâra accomplit une action pour le bien de quelqu'un d'autre, ou une action dont lui-même <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> profite également, alors, au moment de récolter le fruit de ses actions, ses relations n'agiront pas comme de vraies relations (c'est-à-dire ne viendront pas à son secours). (4)
 
 La richesse ne protégera pas un homme négligent, ni dans ce monde ni dans l'autre. Bien qu'il ait vu le bon chemin, il ne le voit pas, comme quelqu'un dans l'obscurité dont la lampe s'éteint soudainement. (5)
 

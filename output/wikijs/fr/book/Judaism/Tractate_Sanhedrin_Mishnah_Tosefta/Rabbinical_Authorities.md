@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:30Z
   </table>
 </figure>
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 ABBA SHAUL (_c_. 150), Mish. 10. 1; Tos. 3. 4; 12. 7; 12. 8; 12. 10.
 
@@ -84,7 +84,7 @@ Juda \[b. Il'ai\] (_c_. 150), Mish. 1. 3; 1. 6; 2. 1; 2. 2; 2. 3; 2. 4; 3. 1; 3.
 
 " b. Tabbai (_c_. 80 av. J.-C.), Tos. 6. 6.
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 Judah ha-Nazi \[« Rabbi »\] (_c_. 170 apr. J.-C.), Cos. 1. 1; 1. 5; 3. 7; 3. 9; 4. 7; 11. 8; 13. 12.
 

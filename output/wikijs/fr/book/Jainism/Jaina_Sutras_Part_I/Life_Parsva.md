@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 À cette époque, à cet âge, vivait l'Arhat Pâr<i>s</i>va, le favori du peuple [^645], dont les cinq moments les plus importants de la vie se produisirent lorsque la lune était en conjonction avec l'astérisme Vi<i>s</i>âkhâ : en Vi<i>s</i>âkhâ il descendit (du ciel), et étant descendu de là, entra dans le ventre (de sa mère) ; en Vi<i>s</i>âkhâ il naquit ; en Vi<i>s</i>âkhâ, s'arrachant les cheveux, il quitta la maison et entra dans l'état de sans-abri ; en Vi<i>s</i>âkhâ il obtint la connaissance et l'intuition les plus élevées, appelées Kevala, qui est infinie, suprême, sans obstacle, sans entrave, complète et pleine ; en Vi<i>s</i>âkhâ il obtint la libération finale. (149)
 
@@ -48,7 +48,7 @@ L'Arhat Pâr<i>s</i>va, favori du peuple, intelligent, aux aspirations d'un homm
 
 « Victoire, victoire à toi, réjouisseur du monde ! » (voir § 111, jusqu'à) Ainsi poussèrent-ils le cri de victoire. (156) Devant l'Arhat Pâr<i>s</i>va, le favori du peuple, avait adopté la vie d'un chef de famille, etc. (voir § 112, jusqu'à) des personnes indigentes.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Au deuxième mois de l'hiver, dans la troisième quinzaine, la sombre (quinzaine) de Paushya, en son onzième jour, au milieu de la nuit, chevauchant dans son palanquin appelé Vi<i>s</i>âlâ, suivi sur son chemin par un cortège de dieux, d'hommes et d'Asuras, etc. (Pâr<i>s</i>va) traversa la ville de Bénarès jusqu'au parc appelé Asramapada, et se dirigea vers l'excellent arbre Asoka. Là, etc. (voir § 116, jusqu'à) cinq poignées.
 
@@ -62,7 +62,7 @@ Français Au cours du quatre-vingt-quatrième jour — c'était au premier mois 
 
 L'Arhat Pâr<i>s</i>va, le favori du peuple, avait huit Ga<i>n</i>as et huit Ga<i>n</i>adharas (énumérés dans un <i>S</i>loka) :
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 <i>S</i>ubha et Âryaghosha, Vasish<i>th</i>a [^649] et Brahma<i>k</i>ârin, Saumya et <i>S</i>rîdhara, Vîrabhadra et Ya<i>s</i>as. (160)
 
@@ -72,7 +72,7 @@ L'Arhat Pâr<i>s</i>va, le favori du peuple, a institué deux époques en sa qua
 
 À cette époque, à cet âge, l'Arhat Pâr<i>s</i>va, le favori du peuple, vécut trente ans comme chef de famille, quatre-vingt-trois jours dans un état inférieur à la perfection, un peu moins de soixante-dix ans comme Kevalin, soixante-dix ans comme Srama<i>n</i>a, et cent ans au total.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 Français Lorsque son quadruple Karman [^651] fut épuisé et que dans cette ère Avasarpi<i>n</i>î la plus grande partie de la période Du<i>h</i>shamasushamâ s'était écoulée, dans le premier mois de la saison des pluies, dans la deuxième quinzaine, la lumière (quinzaine) de <i>S</i>râva<i>n</i>a, à son huitième jour, dans la première partie du jour où la lune était en conjonction avec l'astérisme Vi<i>s</i>âkhâ, (Pâr<i>s</i>va), après avoir jeûné un mois sans boire d'eau, au sommet du mont Sammeta, en compagnie de quatre-vingt-trois personnes, étendant les mains, mourut, etc. (tous jusqu'à) libéré de toutes douleurs. (168) Depuis le temps que l'Arhat Pâr<i>s</i>va, le favori du peuple, mourut, etc. (tout cela jusqu'à) libéré de toutes douleurs, douze siècles se sont écoulés, et du treizième siècle, c'est la trentième année. (169)
 

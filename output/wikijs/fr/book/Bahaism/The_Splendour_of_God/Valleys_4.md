@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T10:15:31Z
   </table>
 </figure>
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 _La Quatrième Vallée_:
 
@@ -50,7 +50,7 @@ Il sera établi sur le trône de « Dis, tout vient de Dieu », et reposera sur 
 
 Il regardera les choses avec la vision de l'unité... et verra la lumière de l'unité se manifester et se présenter dans toutes les choses existantes. Toutes les différences que le voyageur voit dans le monde de l'Être au cours des différentes étapes de son voyage sont dues à la vision du voyageur lui-même. Nous apportons une illustration afin que ce fait soit parfaitement évident :
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 Considérez le soleil phénoménal qui brille sur tous les êtres avec la même splendeur. . . .
 
@@ -80,7 +80,7 @@ Les ignorants, qui n'ont tiré aucune part de la splendeur du Beau, parlent en t
 
 « Si Dieu punissait les hommes pour leur iniquité, Il ne laisserait aucune créature mouvante sur terre ; mais Il leur accorde un délai jusqu'à un terme fixé » (Coran).
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 Un cœur pur est comme un miroir ; purifiez-le avec le vernis de l'Amour, et en vous séparant de tout sauf de Dieu, jusqu'à ce que le Soleil Idéal puisse s'y refléter, et que l'Aube éternelle puisse se lever.
 
@@ -112,7 +112,7 @@ Ainsi, les amoureux de la Face du Bien-Aimé ont dit : « Ô Toi dont l'essence 
 
 Comment une ombre mortelle peut-elle se comparer au Soleil Immortel ?
 
-Oui, les mentions qui sont faites concernant les étapes de la connaissance ne concernent que la connaissance <span id="p68">[<sup><small>p. 68</small></sup>]</span> de la splendeur de ce Soleil de Vérité qui se manifeste dans les miroirs (c'est-à-dire les prophètes, les manifestations).
+Oui, les mentions qui sont faites concernant les étapes de la connaissance ne concernent que la connaissance <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> de la splendeur de ce Soleil de Vérité qui se manifeste dans les miroirs (c'est-à-dire les prophètes, les manifestations).
 
 Le reflet de cette Lumière se trouve dans les cœurs, mais il est voilé par des voiles sensuels et des circonstances accidentelles, comme c'est le cas d'une lumière enfermée dans une lanterne en fer. Lorsque la lanterne est retirée, le rayonnement de la lumière apparaît.
 
@@ -132,7 +132,7 @@ Les livres ne suffisent pas au Mystère du Bien-Aimé, et il ne peut être épui
 
 « La connaissance n’est qu’un point, mais les ignorants l’ont multiplié. »
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 Je ne veux pas mentionner beaucoup les paroles précédentes ; car parler des paroles des autres serait une preuve d'érudition acquise (c'est-à-dire de connaissance médiate), et non du don divin (c'est-à-dire de connaissance immédiate).
 
@@ -168,7 +168,7 @@ Il est évident que ces états dépendent du point de vue du voyageur.
 
 Dans chaque ville il voit un monde; dans chaque vallée il rencontre une fontaine; dans chaque désert il entend une mélodie.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Que la paix soit sur quiconque accomplit ce voyage suprême et suit le Véritable à travers les Lumières de Guidance.
 

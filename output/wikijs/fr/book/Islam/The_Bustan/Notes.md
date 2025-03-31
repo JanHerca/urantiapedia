@@ -75,7 +75,7 @@ dateCreated: 2024-11-20T20:11:54Z
 
 11\. Nom d'une haute montagne située à Hamdān, au nord-ouest d'Ispahan.
 
-<span id="p154">[<sup><small>p. 154</small></sup>]</span>
+<span id="p154"><sup><small>[ p. 154 ]</small></sup></span>
 
 <span id="n12"></span>
 
@@ -117,7 +117,7 @@ dateCreated: 2024-11-20T20:11:54Z
 
 21. Bāyazid Bustāmī était un saint célèbre de Bustan, en Perse. Il est mort en 261 après J.-C.
 
-<span id="p155">[<sup><small>p. 155</small></sup>]</span>
+<span id="p155"><sup><small>[ p. 155 ]</small></sup></span>
 
 <span id="n22"></span>
 
@@ -175,7 +175,7 @@ dateCreated: 2024-11-20T20:11:54Z
 
 35\. _C'est-à-dire_ engagez-vous dans de bonnes œuvres pendant que vous en avez encore le temps.
 
-<span id="p156">[<sup><small>p. 156</small></sup>]</span>
+<span id="p156"><sup><small>[ p. 156 ]</small></sup></span>
 
 <span id="n36"></span>
 

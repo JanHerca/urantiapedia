@@ -32,13 +32,13 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 À cette époque, à cet âge, le Vénérable Ascète Mahâvîra avait neuf Ga<i>n</i>as et onze Ga<i>n</i>adharas.
 
 « Pourquoi a-t-on dit que le Vénérable Ascète Mahâvîra avait neuf Ga<i>n</i>as, mais onze Ga<i>n</i>adharas ? »
 
-« Le moine le plus âgé du Vénérable Ascète Mahâvîra était Indrabhûti du Gautama gotra, qui enseigna cinq cents Sraman ; le moine d'âge moyen était Agnibhûti du Gautama gotra, qui enseigna cinq cents Sraman ; le plus jeune était Vâyubhûti du Gautama gotra, qui enseigna cinq cents Sraman. Le Sthavira Ârya-Vyakta du Bhâradvâgâ gotra enseigna cinq cents Sraman ; le Sthavira Ârya-Sudharman du gotra Agnive<i>s</i>yâyana a instruit cinq cents <i>S</i>rama<i>n</i>as ; le Sthavira Ma<i>n</i><i>d</i>ikaputra [^663] du gotra Vâsish<i>th</i>a a instruit deux cent cinquante <i>S</i>rama<i>n</i>as ; le Sthavira Mauryaputra du gotra Kâ<i>s</i>yapa a instruit deux cent cinquante <i>S</i>rama<i>n</i>as ; le Sthavira Akampita du gotra Gautama et le Sthavira A<i>k</i>alabhrât<i>ri</i> du gotra Hâritâyana, tous deux Sthaviras ont instruit ensemble trois cents <i>S</i>rama<i>n</i>as chacun ; Les Sthaviras Metârya et Prabhâsa, tous deux du gotra Kau<i>n</i><i>d</i>i<i>n</i>ya, enseignèrent ensemble <span id="p287">[<sup><small>p. 287</small></sup>]</span> trois cents <i>S</i>rama<i>n</i>as chacun [^664]. Par conséquent, Monsieur, a-t-on dit que le Vénérable Ascète Mahâvîra avait neuf Ga<i>n</i>as, mais onze Ga<i>n</i>adharas : (1)
+« Le moine le plus âgé du Vénérable Ascète Mahâvîra était Indrabhûti du Gautama gotra, qui enseigna cinq cents Sraman ; le moine d'âge moyen était Agnibhûti du Gautama gotra, qui enseigna cinq cents Sraman ; le plus jeune était Vâyubhûti du Gautama gotra, qui enseigna cinq cents Sraman. Le Sthavira Ârya-Vyakta du Bhâradvâgâ gotra enseigna cinq cents Sraman ; le Sthavira Ârya-Sudharman du gotra Agnive<i>s</i>yâyana a instruit cinq cents <i>S</i>rama<i>n</i>as ; le Sthavira Ma<i>n</i><i>d</i>ikaputra [^663] du gotra Vâsish<i>th</i>a a instruit deux cent cinquante <i>S</i>rama<i>n</i>as ; le Sthavira Mauryaputra du gotra Kâ<i>s</i>yapa a instruit deux cent cinquante <i>S</i>rama<i>n</i>as ; le Sthavira Akampita du gotra Gautama et le Sthavira A<i>k</i>alabhrât<i>ri</i> du gotra Hâritâyana, tous deux Sthaviras ont instruit ensemble trois cents <i>S</i>rama<i>n</i>as chacun ; Les Sthaviras Metârya et Prabhâsa, tous deux du gotra Kau<i>n</i><i>d</i>i<i>n</i>ya, enseignèrent ensemble <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> trois cents <i>S</i>rama<i>n</i>as chacun [^664]. Par conséquent, Monsieur, a-t-on dit que le Vénérable Ascète Mahâvîra avait neuf Ga<i>n</i>as, mais onze Ga<i>n</i>adharas : (1)
 
 Ces onze Ga<i>n</i>adharas du Vénérable Ascète Mahâvîra, qui connaissaient les douze Aṅgas, les quatorze Pûrvas et tout le Siddhânta des Ga<i>n</i>ins, moururent, etc. (jusqu'à) libérés de toute souffrance en Râ<i>g</i>ag<i>ri</i>ha après un mois de jeûne sans eau. Les Sthaviras Indrabhûti et Ârya Sudharman moururent tous deux après le Nirvâ<i>n</i>a de Mahâvira. Les Nirgrantha <i>S</i>rama<i>n</i>as actuels sont tous des descendants (spirituels) du moine Ârya Sudharman ; les autres Ga<i>n</i>adharas n'ont laissé aucune descendance. (2)
 
@@ -62,7 +62,7 @@ Dans la courte rédaction, la liste des Sthaviras après .Ârya Ya<i>s</i>obhadr
 
 8. i. Ârya Mahâgiri du gotra Ailâpatya et
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 ii. Ârya Suhastin du gotra Vâsish<i>th</i>a ;
 
@@ -92,7 +92,7 @@ a. Godâsa, fondateur de la Godâsa Ga<i>n</i>a [^667], qui était divisée en q
 
 γ. Le Pundravardhanîyâ Sâkhâ, et
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 δ. Le Dâsîkharba<i>t</i>ikâ <i>S</i>âkhâ.
 
@@ -150,7 +150,7 @@ a. Uttara,
 
 b. Balissaha, qui fondèrent ensemble l'Uttarabalissaha Ga<i>n</i>a, qui était divisée en quatre <i>S</i>âkhâs
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 α. Kau<i>s</i>ambikâ,
 
@@ -198,7 +198,7 @@ et en six Kulas :
 
 ζ´. Parihâsaka.
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 b. Bhadraya<i>s</i>as du Bhâradvâ<i>g</i>a gotra, qui fondèrent l'U<i>d</i>uvâ<i>t</i>ika Ga<i>n</i>a, qui était divisé en quatre <i>S</i>âkhâs :
 
@@ -254,7 +254,7 @@ et en sept Kulas :
 
 α´. Vâtsalîya (Pr. Va<i>k</i><i>kh</i>ali<i>g</i><i>g</i>a),
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 β´. Prîtidharmika,
 
@@ -310,7 +310,7 @@ Les deux Sthaviras avaient ensemble cinq disciples :
 
 10. a. Ârya Indradatta (Pr. Indadinna) du gotra Kâsyapa,
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 b. Priyagantha, fondateur du Madhyamâ <i>S</i>âkhâ,
 
@@ -350,7 +350,7 @@ iii. Ârya Ratha du gotra Vatsa, fondateur de l'Ârya<i>g</i>ayantî <i>S</i>âk
 
 15. Ârya Pushyagiri du gotra Kau<i>s</i>ika.
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 16. Ârya Phalgumitra du gotra Gautama.
 
@@ -388,7 +388,7 @@ iii. Ârya Ratha du gotra Vatsa, fondateur de l'Ârya<i>g</i>ayantî <i>S</i>âk
 
 33. Ârya <i>S</i>â<i>n</i><i>d</i>ilya [^673].
 
-<span id="p295">[<sup><small>p. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 En inclinant la tête, je rends hommage au Sthavira <i>G</i>ambû du gotra Gautama, qui possédait une vertu constante, une bonne conduite et des connaissances. ix.
 

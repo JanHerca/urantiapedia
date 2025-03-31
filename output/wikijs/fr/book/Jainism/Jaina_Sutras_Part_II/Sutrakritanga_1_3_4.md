@@ -38,7 +38,7 @@ Certains disent que, dans les temps anciens, de grands hommes, riches en pénite
 
 'Nami, le roi de Vidêha, ne mangea rien, Râmagupta mangea, Bâhuka but de l'eau (froide), et Târâga<i>n</i>a [^785], le voyant, fit de même. (2)
 
-Âsila, Dêvala, le grand sage Dvîpâyana et <span id="p269">[<sup><small>p. 269</small></sup>]</span> Pârâ<i>s</i>ara buvaient de l'eau (froide) et mangeaient des graines et des pousses [^786]. (3)
+Âsila, Dêvala, le grand sage Dvîpâyana et <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> Pârâ<i>s</i>ara buvaient de l'eau (froide) et mangeaient des graines et des pousses [^786]. (3)
 
 « J'ai entendu dire que dans les temps anciens, ces grands hommes renommés et bien connus mangeaient des graines et buvaient de l'eau, et ont atteint la perfection. » (4)
 
@@ -50,7 +50,7 @@ Ne perds pas beaucoup pour peu en la méprisant. Si tu ne renonces pas à cette 
 
 (Et ainsi) ceux qui tuent des êtres vivants, qui ne s'abstiennent pas de paroles mensongères, qui prennent ce qui ne leur est pas donné librement, qui jouissent des plaisirs sexuels et qui possèdent des biens. (8)
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Certains hérétiques indignes [^790], esclaves des femmes, hommes ignorants et opposés à la Loi des <i>Ginas</i>, parlent ainsi : (9)
 
@@ -68,7 +68,7 @@ Mais ceux qui s'efforcent au moment opportun n'éprouvent aucun remords par la s
 
 De même que la Vaitara<i>n</i>î, la rivière (de l'enfer), est difficile à traverser, de même, dans ce monde, les femmes sont pour les insensés (une tentation) difficile à surmonter. (16)
 
-Ceux qui ont renoncé aux relations avec les femmes <span id="p271">[<sup><small>p. 271</small></sup>]</span> et ont cessé de se parer, sont bien établis dans le contrôle, parce qu'ils ont renoncé à tout. (17)
+Ceux qui ont renoncé aux relations avec les femmes <span id="p271"><sup><small>[ p. 271 ]</small></sup></span> et ont cessé de se parer, sont bien établis dans le contrôle, parce qu'ils ont renoncé à tout. (17)
 
 Comme les marchands traversent la mer, ainsi ils traverseront le déluge (de Sa<i>m</i>sâra), où les êtres vivants se découragent et souffrent à cause de leurs propres actes. (18)
 

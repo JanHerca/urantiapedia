@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 De Confucius à l'avènement de la dynastie Khin.
 
@@ -46,7 +46,7 @@ Trois textes différents.
 
 3\. Trois textes différents du Shih apparurent au début de la dynastie Han, connus sous les noms de Shih de Lû, de Khî et de Han ; autrement dit, le Livre de poésie fut retrouvé de trois sources différentes. Le Catalogue des livres de la bibliothèque impériale des Han (6 à 1 av. J.-C.) de Liû Hin commence, sur le roi Shih, par un recueil des trois textes, en vingt-huit chapitres.
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 Le texte de Lû.
 
@@ -54,7 +54,7 @@ i. Immédiatement après la mention du recueil général dans le Catalogue, vien
 
 Le texte de Khî.
 
-ii. Le Catalogue Han mentionne cinq ouvrages différents sur le Shih de <i>Kh</i>î. Ce texte est d'un certain Yüan Kû, originaire de Khî, dont nous apprenons, par le même recueil de Biographies littéraires, qu'il était l'un des grands érudits de la cour à l'époque de l'empereur <i>K</i>ing (156 à 141 av. J.-C.), un de ses favoris, particulièrement distingué par sa connaissance des odes et sa défense de la doctrine confucéenne orthodoxe. Il mourut sous le règne suivant de Wû, à plus de quatre-vingt-dix ans ; et on nous dit que tous les érudits de <i>Kh</i>î qui se firent un nom à cette époque pour leur connaissance du Shih étaient issus de son école. Parmi ses disciples se trouvait le célèbre <span id="p287">[<sup><small>p. 287</small></sup>]</span> nom de Hsiâ-hâu Shih-_kh_ang, qui communiqua ses acquisitions à Hâu _Ȝh_ang, originaire de l'actuelle province du Shan-tung et auteur de deux des ouvrages du Catalogue des Han. Hâu eut trois disciples remarquables, et par eux le Shih de <i>Kh</i>î fut transmis à d'autres, dont les noms, avec des citations de leurs écrits, sont disséminés dans les Livres des Han. Ni texte ni commentaire, cependant, n'eurent un meilleur sort que le Shih de Lû. Il n'en est fait aucune mention dans le Catalogue des Sui. On dit qu'ils périrent avant même l'avènement de la dynastie des <i>K</i>in.
+ii. Le Catalogue Han mentionne cinq ouvrages différents sur le Shih de <i>Kh</i>î. Ce texte est d'un certain Yüan Kû, originaire de Khî, dont nous apprenons, par le même recueil de Biographies littéraires, qu'il était l'un des grands érudits de la cour à l'époque de l'empereur <i>K</i>ing (156 à 141 av. J.-C.), un de ses favoris, particulièrement distingué par sa connaissance des odes et sa défense de la doctrine confucéenne orthodoxe. Il mourut sous le règne suivant de Wû, à plus de quatre-vingt-dix ans ; et on nous dit que tous les érudits de <i>Kh</i>î qui se firent un nom à cette époque pour leur connaissance du Shih étaient issus de son école. Parmi ses disciples se trouvait le célèbre <span id="p287"><sup><small>[ p. 287 ]</small></sup></span> nom de Hsiâ-hâu Shih-_kh_ang, qui communiqua ses acquisitions à Hâu _Ȝh_ang, originaire de l'actuelle province du Shan-tung et auteur de deux des ouvrages du Catalogue des Han. Hâu eut trois disciples remarquables, et par eux le Shih de <i>Kh</i>î fut transmis à d'autres, dont les noms, avec des citations de leurs écrits, sont disséminés dans les Livres des Han. Ni texte ni commentaire, cependant, n'eurent un meilleur sort que le Shih de Lû. Il n'en est fait aucune mention dans le Catalogue des Sui. On dit qu'ils périrent avant même l'avènement de la dynastie des <i>K</i>in.
 
 Le texte de Han Ying.
 
@@ -62,7 +62,7 @@ iii. Le texte de Han fut un peu plus heureux. Le Catalogue de Hin contient les n
 
 4\. Mais tandis que ces trois différentes recensions du Shih disparurent toutes, à l'exception d'un seul traité de Han Ying, leur sort malheureux ne fut pas davantage dû aux convulsions par lesquelles l'empire fut souvent déchiré, et à la destruction consécutive de monuments littéraires tels que nous
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Un quatrième texte ; celui de Mâo.
 

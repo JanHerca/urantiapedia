@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 CHAPITRE III., Verset 163.—Ceux qui disaient de leurs frères, tandis qu'eux-mêmes restaient chez eux : « S'ils nous avaient obéi, ils n'auraient pas été tués », dites : « Éloignez-vous de la mort, si vous dites la vérité. »
 
@@ -44,7 +44,7 @@ Chapitre XVI., Verset 63. — Si Dieu devait punir les hommes pour leurs méfait
 
 Ils attribuent à Dieu ce qu'ils abhorrent eux-mêmes, et leurs langues profèrent le mensonge selon lequel « le bien leur sera donné » ; sans aucun doute, le Feu leur appartient, car, en vérité, ils y seront envoyés.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Chapitre XVII., Verset 14. — Et nous avons attaché à chaque homme son augure.
 

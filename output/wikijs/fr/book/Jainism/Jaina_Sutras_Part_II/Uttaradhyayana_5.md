@@ -40,7 +40,7 @@ Ces deux modes de vie se terminant par la mort ont été déclarés : la mort vo
 
 Mourir contre son gré est le fait des ignorants, et cela arrive (au même individu) plusieurs fois. Mourir de son plein gré est le fait des sages, et au mieux [^94] cela n'arrive qu'une seule fois. (3)
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Mahâvîra a (ainsi) décrit la première sorte dans laquelle un homme ignorant, attaché aux plaisirs, commet des actions très cruelles. (4)
 
@@ -60,7 +60,7 @@ Puis il souffre et est attaqué par la maladie ; et il redoute l'autre monde lor
 
 J'ai entendu parler des lieux de l'enfer et de la destination du pécheur, où les fous qui commettent des actes cruels souffriront violemment. (12)
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Puis, se rendant au lieu où il doit naître de nouveau selon ses œuvres, il éprouve du remords, comme je l'ai entendu (de mon maître). (13)
 
@@ -76,7 +76,7 @@ Pleine de paix et sans préjudice pour personne est, comme je l'ai entendu (de m
 
 Certains chefs de famille sont supérieurs à certains moines en maîtrise de soi ; mais les saints sont supérieurs à tous les chefs de famille en maîtrise de soi. (20)
 
-L'écorce et la peau (d'une chèvre), la nudité, les cheveux tordus <span id="p23">[<sup><small>p. 23</small></sup>]</span>, la calvitie — ces (signes extérieurs) ne sauveront pas un ascète pécheur. (21)
+L'écorce et la peau (d'une chèvre), la nudité, les cheveux tordus <span id="p23"><sup><small>[ p. 23 ]</small></sup></span>, la calvitie — ces (signes extérieurs) ne sauveront pas un ascète pécheur. (21)
 
 Un pécheur, même s'il est mendiant (frère), n'échappera pas à l'enfer ; mais un homme pieux, qu'il soit moine ou chef de famille, monte au ciel. (22)
 
@@ -90,7 +90,7 @@ Aux régions les plus élevées, dans l'ordre approprié, à celles où il n'y a
 
 Ayant entendu cela des hommes vénérables qui se maîtrisent et soumettent leurs sens, les vertueux et les savants ne tremblent pas à l'heure de la mort. (29)
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Un homme sage ayant pesé (les deux sortes de mort) et choisi la meilleure (enseignée dans) la Loi de la Compassion, deviendra calme grâce à la patience, avec un esprit serein (au moment de la mort). (30)
 

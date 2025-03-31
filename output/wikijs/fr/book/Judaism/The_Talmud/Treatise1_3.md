@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 1\. Celui dont le mort repose devant lui est exempté de la récitation du Shemah, de la prière et des phylactères. [^22] Ceux qui portent le cercueil, ceux qui le remplacent, ceux qui le précèdent et ceux qui le suivent, qui sont requis pour le cercueil, sont exemptés de la récitation du Shemah. Mais ceux qui ne sont pas requis pour le cercueil sont tenus de le réciter. Les deux (parties) sont exemptées de la prière.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:13Z
   </table>
 </figure>
 
-<span id="p83">[<sup><small>p. 83</small></sup>]</span>
+<span id="p83"><sup><small>[ p. 83 ]</small></sup></span>
 
 
 279\. Q. _En ce qui concerne le nombre de ses adeptes, comment le bouddhisme se compare-t-il à cette date aux autres principales religions ?_
@@ -49,7 +49,7 @@ A. L'histoire ne mentionne aucun de ces crimes et cruautés commis pour propager
 
 282\. Q. _Quel est donc le secret de sa merveilleuse propagation ?_
 
-<span id="p84">[<sup><small>p. 84</small></sup>]</span>
+<span id="p84"><sup><small>[ p. 84 ]</small></sup></span>
 
 A. Cela ne peut être rien d’autre que son excellence intrinsèque : sa base évidente de vérité, son enseignement moral sublime et sa suffisance à tous les besoins humains.
 
@@ -71,7 +71,7 @@ A. Environ six siècles.
 
 257\. Q. _Quelle aide les rois ont-ils apportée ?_
 
-A. Outre les classes inférieures, de grands rois, des Râjâs <span id="p85">[<sup><small>p. 85</small></sup>]</span> et des Mahârâjas se convertirent et mirent leur influence à profit pour répandre la religion.
+A. Outre les classes inférieures, de grands rois, des Râjâs <span id="p85"><sup><small>[ p. 85 ]</small></sup></span> et des Mahârâjas se convertirent et mirent leur influence à profit pour répandre la religion.
 
 288\. Q. _Qu'en est-il des pèlerins ?_
 
@@ -115,7 +115,7 @@ A. Oh oui, tout cela est enregistré dans le Mahâvansa, par les gardiens des ar
 
 298\. Q. _Existe-t-il encore des preuves visibles de la mission de Sanghamitta ?_
 
-<span id="p88">[<sup><small>p. 88</small></sup>]</span>
+<span id="p88"><sup><small>[ p. 88 ]</small></sup></span>
 
 A. Oui : elle a apporté avec elle à Ceylan une branche de l'arbre Bodhi sous lequel le Bouddha était assis lorsqu'il a atteint l'Éveil, et elle continue de pousser.
 
@@ -133,7 +133,7 @@ A. De nombreuses autres bhikkhunîs. Elle admit, en temps voulu, la reine et plu
 
 302\. Q. _Pouvons-nous retracer les effets du travail à l'étranger des missionnaires de l'empereur Ashoka ?_
 
-A. Son fils et sa fille introduisirent le bouddhisme à Ceylan : ses moines le donnèrent à toute l'Inde du Nord, à quatorze nations indiennes situées hors de ses frontières et à cinq rois grecs, ses alliés, <span id="p89">[<sup><small>p. 89</small></sup>]</span> avec lesquels il conclut des traités pour admettre ses prédicateurs religieux.
+A. Son fils et sa fille introduisirent le bouddhisme à Ceylan : ses moines le donnèrent à toute l'Inde du Nord, à quatorze nations indiennes situées hors de ses frontières et à cinq rois grecs, ses alliés, <span id="p89"><sup><small>[ p. 89 ]</small></sup></span> avec lesquels il conclut des traités pour admettre ses prédicateurs religieux.
 
 303\. Q. _Pouvez-vous les nommer ?_
 
@@ -153,7 +153,7 @@ A. Dès le deuxième ou le troisième siècle avant J.-C., cinq moines de Dharm�
 
 307\. Q. _D'où et quand est-il arrivé en Corée ?_
 
-<span id="p90">[<sup><small>p. 90</small></sup>]</span>
+<span id="p90"><sup><small>[ p. 90 ]</small></sup></span>
 
 A. De Chine, en l'an 372 après J.-C.
 
@@ -193,7 +193,7 @@ A. Ils ont brûlé, démoli ou détruit d’une autre manière nos vihâras, mas
 
 A. Non. De nombreux bhikkhus ont fui au-delà des frontières, vers le Tibet et d’autres lieux de refuge sûrs, emportant leurs livres avec eux.
 
-<span id="p92">[<sup><small>p. 92</small></sup>]</span>
+<span id="p92"><sup><small>[ p. 92 ]</small></sup></span>
 
 317\. Q. _Des traces de ces livres ont-elles été récemment découvertes ?_
 

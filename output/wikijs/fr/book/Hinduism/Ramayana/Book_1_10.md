@@ -49,7 +49,7 @@ Dont le soin constant et le plus grand plaisir
 Étaient l'Écriture et le rite ascétique,
 Le bon Válmíki, le premier et le meilleur
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 Aux saints ermites, ces paroles s'adressaient : [^8]
 « Dans tout ce monde, je te prie, qui
@@ -96,7 +96,7 @@ La fortune l'a marqué.
 Orné d'une triple ligne de conque,
 Sa menace affiche un signe propice. [^15]
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 Le destin élevé est clairement impressionné
 Sur une mâchoire massive et une poitrine ample,
@@ -160,7 +160,7 @@ Et que son enfant soit l'héritier.
 Par les chaînes du devoir fermement liées,
 Le malheureux roi s'exécuta forcément.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 Ráma, pour plaire à Kaikeyí, il est allé
 Obéissant jusqu'au bannissement.
@@ -226,7 +226,7 @@ Leur visite dans sa retraite tranquille,
 Loin de la colline de Chitrakúta
 Fared Ráma a continué à avancer jusqu'à
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 Sous les arbres ombragés, il se tenait
 Du bois primitif de Dandaká,
@@ -336,7 +336,7 @@ Deux cents lieues à travers les profondeurs.
 Il se dirigea vers la ville de Lanká [^34],
 Là où Rávan ​​exerçait son autorité royale.
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 Il y a des branches pensives sous As'oka [^35]
 Il trouva la pauvre Sitá, l'épouse de Rama.
@@ -424,7 +424,7 @@ Le marchand obtient la chance dans le commerce ;
 Et S'údras écoutant [^41] n'échouera jamais
 Pour tirer profit de l'histoire. [^42]
 
-<span id="p7">[<sup><small>p. 7</small></sup>]</span>
+<span id="p7"><sup><small>[ p. 7 ]</small></sup></span>
 
 
 
@@ -521,7 +521,7 @@ Et réfléchit profondément, captivé.
 Alors glorieux Brahma, [^46] Seigneur Très-Haut.
 Créateur de la terre et du ciel,
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 Le Dieu à quatre visages, à la rencontre du sage
 Je suis venu à l'ermitage de Válmíki.
@@ -611,7 +611,7 @@ Et regarda autour de lui avec une pensée avide
 Si une connaissance plus complète pouvait être trouvée.
 
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Ses lèvres furent d'abord arrosées d'eau, [^50]
 Il s'assit, dans une attitude respectueuse
@@ -719,7 +719,7 @@ La grotte dans laquelle l'ours demeurait.
 Le jeûne proposé mettra fin à leur vie ;
 Sampati est devenu leur ami.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 L'ascension de la colline, le saut
 De Hanuman à travers les profondeurs.
@@ -822,7 +822,7 @@ La parole de leur saint maître s'est accomplie.
 Comme Rama lui-même, de qui ils viennent,
 Ils partageaient leur taille de visage et de silhouette,
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 Comme s'il provenait d'une belle pierre sculptée
 Deux mêmes images s’étaient développées.
@@ -929,7 +929,7 @@ Tandis que les hommes de bien écoutent avec plaisir.
 Sur la rive de Sarjú [^61], de taille suffisante,
 Le royaume heureux de Kos'al se trouve,
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Avec une longueur fertile de beau champagne
 Et des troupeaux et des bœufs, et des richesses en blé.
@@ -1013,7 +1013,7 @@ Il régnait un roi au nom vénéré,
 Grand Das'aratha, bon et sage.
 Bien lu dans la page sainte des Écritures :
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 Dans l'intention du bien de son royaume,
 Puissant, courageux et prévoyant ;
@@ -1101,7 +1101,7 @@ Comme Indra pour sa forme et sa vitesse,
 Des collines de Váhlí [^71] et du sable de Sindhu [^72],
 Vanáyu [^73] et la terre de Kámboja. [^74]
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 Ses nobles éléphants s'étaient égarés
 À travers l'ombre du Vindhyan et de l'Himalaya,
@@ -1199,7 +1199,7 @@ Rien de la vie libre ou de la renommée maléfique,
 Aucun tempérament d'une autre dame.
 Satisfait de son sort, chaque caste
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Des jours calmes et bienheureux passèrent ;
 Et, toutes les tâches appropriées accomplies,
@@ -1310,7 +1310,7 @@ Et habile dans l'art de la flatterie,
 Afin qu'ils séduisent l'ermite
 Avec tout art et toute ruse amoureuse
 
-<span id="p16">[<sup><small>p. 16</small></sup>]</span>
+<span id="p16"><sup><small>[ p. 16 ]</small></sup></span>
 
 Dont ils connaissent si bien l'usage,
 Et par leurs sorcelleries séduisent
@@ -1424,7 +1424,7 @@ Son âme modeste au doux désir.
 Avec un sourcil arqué, un signe de tête et un sourire,
 Avec chaque ruse qui réveille la passion
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Du regard et de la main de lotus,
 Avec toutes les tentations qui excitent
@@ -1550,7 +1550,7 @@ Ainsi, l'ayant averti de ses ennemis
 Cette nuit-là, il est resté à la maison.
 Et quand le soleil du lendemain se leva
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 Je suis allé dans la forêt.
 
@@ -1669,7 +1669,7 @@ Pour célébrer le sacrifice
 Pour lui gagner des fils et le Paradis, [^82]
 Qu'il voudra bien préparer.
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 De lui le seigneur des hommes enfin
 Le bienfait qu'il recherche l'obtiendra,

@@ -32,13 +32,13 @@ dateCreated: 2025-2-12T22:33:44Z
   </table>
 </figure>
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 Le Tao, exprimable par des mots, n'est pas le Tao éternel ; le nom prononçable n'est pas son nom éternel. Sans nom, il est le Commencement du Ciel et de la Terre ; avec un nom, il est la Mère de toutes choses. Seul celui qui est éternellement libéré des passions terrestres peut saisir son essence spirituelle ; celui qui est constamment obstrué par les passions ne peut en voir que la forme extérieure. Ces deux choses, le spirituel et le matériel, bien que nous les appelions par des noms différents, sont, à leur origine, une seule et même chose. Cette similitude est un mystère, le mystère des mystères. C'est la porte de toute spiritualité.
 
 Combien insondable est le Tao ! Il semble être l'ancêtre de toutes choses. Combien pur et clair est le Tao ! Il semble éternel. J'ignore de qui il est issu. Il semble avoir été antérieur à tout pouvoir souverain. [^1]
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 Le Tao échappe à la vue et est donc qualifié d'incolore. Il échappe à l'ouïe et est donc qualifié d'insonore. Il échappe au toucher et est donc qualifié d'incorporel. Ces trois qualités sont insaisissables et peuvent donc se fondre en une seule unité.
 
@@ -50,7 +50,7 @@ Le Tao en lui-même est vague, impalpable – combien impalpable, combien vague 
 
 Depuis toujours, son nom n'a jamais disparu. Il veille sur le commencement de toutes choses. Comment puis-je savoir cela à propos du commencement des choses ? Par le Tao.
 
-Il existe quelque chose, chaotique et pourtant complet, qui existait avant le Ciel et la Terre. Oh, comme il est immobile et informe, seul et immuable, s'étendant partout sans subir de dommage ! Il faut le considérer comme la Mère de l'Univers. Je ne connais pas son nom. Pour le désigner, je l'appelle Tao. Pour le décrire, je l'appelle Grand. <span id="p21">[<sup><small>p. 21</small></sup>]</span> Étant grand, il passe ; en passant, il devient lointain ; devenu lointain, il revient.
+Il existe quelque chose, chaotique et pourtant complet, qui existait avant le Ciel et la Terre. Oh, comme il est immobile et informe, seul et immuable, s'étendant partout sans subir de dommage ! Il faut le considérer comme la Mère de l'Univers. Je ne connais pas son nom. Pour le désigner, je l'appelle Tao. Pour le décrire, je l'appelle Grand. <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> Étant grand, il passe ; en passant, il devient lointain ; devenu lointain, il revient.
 
 C'est pourquoi le Tao est grand ; le Ciel est grand ; la Terre est grande ; et le Souverain est grand aussi. Dans l'Univers, il y a quatre puissances, dont le Souverain. L'homme tire sa loi de la Terre ; la Terre tire sa loi du Ciel ; le Ciel tire sa loi du Tao ; mais la loi du Tao est sa propre spontanéité.
 
@@ -64,7 +64,7 @@ Le Grand Tao est omniprésent. Il peut être à la fois à droite et à gauche. 
 
 Le monde entier affluera vers celui qui détient la puissante forme du Tao. Ils viendront et ne subiront aucun préjudice, mais trouveront repos, paix et tranquillité.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Avec de la musique et des gourmandises, nous pouvons retenir l'invité de passage. Mais si nous ouvrons la bouche pour parler de Tao, il trouve cela fade et fade.
 
@@ -86,7 +86,7 @@ Il n'est donc rien qui ne rende hommage au Tao et n'exalte sa Vertu. Cet hommage
 
 C'est ainsi que le Tao, engendrant toutes choses, les nourrit, les développe et les entretient ; les perfectionne, les fait mûrir, les soigne et les protège.
 
-Production sans possession, action sans <span id="p23">[<sup><small>p. 23</small></sup>]</span> affirmation de soi, développement sans domination, telle est son opération mystérieuse.
+Production sans possession, action sans <span id="p23"><sup><small>[ p. 23 ]</small></sup></span> affirmation de soi, développement sans domination, telle est son opération mystérieuse.
 
 Le Monde a une Cause Première, que l'on peut considérer comme la Mère du Monde. Lorsqu'on possède la Mère, on peut connaître l'Enfant. Celui qui connaît l'Enfant et conserve la Mère, même si son corps périt, ne risque rien.
 

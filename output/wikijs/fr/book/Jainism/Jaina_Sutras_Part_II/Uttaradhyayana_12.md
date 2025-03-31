@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 DOUZIÈME CONFÉRENCE [^158] HARIKÊ<i>S</i>A.
 
@@ -42,7 +42,7 @@ Il observait les règles concernant la marche, la mendicité, la parole, le soul
 
 Il protégea du péché ses pensées, ses paroles et son corps [^160], et soumit ses sens.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 Un jour, lors de sa tournée de mendicité, il s'approcha de l'enceinte d'un sacrifice brahmanique. (3)
 
@@ -60,7 +60,7 @@ Englués dans l'orgueil de leur naissance, ces tueurs d'animaux, qui n'ont pas m
 
 « Vous donnez, mangez et consommez beaucoup de nourriture ; sachez que je subsiste en mendiant ; laissez le mendiant prendre ce qui reste du reste. » (10)
 
-« Le dîner a été préparé pour les Brâhma<i>n</i>as, il a été préparé spécialement pour nous et pour <span id="p52">[<sup><small>p. 52</small></sup>]</span> nous exclusivement ; nous ne vous donnerons pas une telle nourriture et une telle boisson ; pourquoi restez-vous là ? » (11)
+« Le dîner a été préparé pour les Brâhma<i>n</i>as, il a été préparé spécialement pour nous et pour <span id="p52"><sup><small>[ p. 52 ]</small></sup></span> nous exclusivement ; nous ne vous donnerons pas une telle nourriture et une telle boisson ; pourquoi restez-vous là ? » (11)
 
 « Les cultivateurs jettent le blé sur les hauteurs et sur les basses terres [^162], espérant [un retour]. Pour le même motif, donnez-moi ; je serai peut-être le champ qui produira du mérite (en récompense de votre bienveillance). » (12)
 
@@ -92,7 +92,7 @@ Apparaissant dans les airs sous des formes hideuses, les Asuras frappèrent les 
 
 « Vous pouvez aussi bien creuser des rochers avec vos ongles, ou manger du fer avec vos dents, ou donner des coups de pied dans le feu, que de traiter un moine avec mépris. » (26)
 
-« Comme un serpent venimeux est un grand sage aux austérités sévères, d'une piété et d'un pouvoir immenses ; comme <span id="p54">[<sup><small>p. 54</small></sup>]</span> un essaim de papillons de nuit, vous vous précipiterez dans un feu, si vous battez un moine dans sa tournée de mendicité. » (27)
+« Comme un serpent venimeux est un grand sage aux austérités sévères, d'une piété et d'un pouvoir immenses ; comme <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> un essaim de papillons de nuit, vous vous précipiterez dans un feu, si vous battez un moine dans sa tournée de mendicité. » (27)
 
 « Prosternez-vous devant lui pour obtenir sa protection, vous et eux tous, si vous voulez sauver votre vie et vos biens ; car dans sa colère, il pourrait réduire le monde en cendres. » (28)
 
@@ -110,7 +110,7 @@ Tu connais la vérité et la Loi ; tu n'es pas irrité, sage compatissant ; nous
 
 À ce moment-là, les dieux firent pleuvoir une eau parfumée et des fleurs, et firent pleuvoir des trésors célestes ; ils frappèrent les tambours, et dans l'air ils louèrent le don. (36)
 
-« La valeur de la pénitence est devenue visible, la naissance <span id="p55">[<sup><small>p. 55</small></sup>]</span> semble sans valeur ! Regardez le saint Harikê<i>s</i>a, le fils d'un <i>S</i>vapâka, dont le pouvoir est si grand. » (37)
+« La valeur de la pénitence est devenue visible, la naissance <span id="p55"><sup><small>[ p. 55 ]</small></sup></span> semble sans valeur ! Regardez le saint Harikê<i>s</i>a, le fils d'un <i>S</i>vapâka, dont le pouvoir est si grand. » (37)
 
 Ô Brâhmanes, pourquoi entretenez-vous le feu et recherchez-vous la pureté extérieure par l'eau ? Les savants disent que la pureté extérieure que vous recherchez n'est pas la bonne chose. (38)
 
@@ -124,7 +124,7 @@ Tu connais la vérité et la Loi ; tu n'es pas irrité, sage compatissant ; nous
 
 « Où est ton feu, ton foyer, ta louche à sacrifices ? Où est la bouse de vache séchée (utilisée comme combustible) ? Sans tout cela, quel genre de prêtres peuvent être les moines ? Quelles oblations offrez-vous au feu ? » (43)
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 « La pénitence est mon feu ; la vie mon foyer ; l'effort juste est ma louche sacrificielle ; le corps est la bouse de vache séchée ; Karman est mon combustible ; la maîtrise de soi, l'effort juste et la tranquillité sont les oblations, louées par les sages, que j'offre. » (44)
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:44Z
   </table>
 </figure>
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 Le Sage s'occupe de l'inaction et transmet ses instructions sans paroles. N'est-ce pas en négligeant son intérêt personnel qu'on y parviendra ?
 
@@ -60,7 +60,7 @@ La poursuite de l'étude livresque engendre un accroissement quotidien. La prati
 
 L'Empire a toujours été conquis en laissant les choses suivre leur cours. Celui qui doit toujours agir est incapable de l'obtenir.
 
-Gardez la bouche fermée, fermez les portes de la raison, et tant que vous vivrez, vous n'aurez aucun ennui. Ouvrez la bouche et avancez vos affaires, <span id="p32">[<sup><small>p. 32</small></sup>]</span> et vous ne serez pas en sécurité jusqu'à la fin de vos jours.
+Gardez la bouche fermée, fermez les portes de la raison, et tant que vous vivrez, vous n'aurez aucun ennui. Ouvrez la bouche et avancez vos affaires, <span id="p32"><sup><small>[ p. 32 ]</small></sup></span> et vous ne serez pas en sécurité jusqu'à la fin de vos jours.
 
 Pratiquez l’inaction, occupez-vous à ne rien faire.
 

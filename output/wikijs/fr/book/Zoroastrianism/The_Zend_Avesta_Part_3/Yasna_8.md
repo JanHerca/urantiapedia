@@ -40,7 +40,7 @@ C'est le bien; c'est le bien pour cet (homme),
 
 Quand vers la justice se trouve le meilleur, il y a le droit.
 
-J'offre le Myazda (de) l'offrande de viande avec une offrande complète et sacrée ; et j'offre Haurvatatâ<i>t</i> (qui garde l'eau), et Ameretatâ<i>t</i> (qui garde les plantes et le bois), et la chair du bœuf béni ; et j'offre le Haoma et le jus de Haoma, les billettes de bois et le parfum pour la louange d'Ahura Mazda, et de l'Ahuna-vairya, la parole véridique, et pour celle de la Prière pieuse et bienfaisante pour les bénédictions, et pour la Malédiction redoutable des sages, et pour la louange du Haoma, et du Mãthra du saint Zarathu<i>s</i>tra ; et puisse-t-il venir à nous avec une plénitude sacrée (pour accepter et récompenser notre don). <span id="p229">[<sup><small>p. 229</small></sup>]</span> 2\. (Le Ratu parle.) Mangez, ô vous les hommes, de cette Myazda, l'offrande de viande, vous qui l'avez méritée par votre droiture et votre rectitude !
+J'offre le Myazda (de) l'offrande de viande avec une offrande complète et sacrée ; et j'offre Haurvatatâ<i>t</i> (qui garde l'eau), et Ameretatâ<i>t</i> (qui garde les plantes et le bois), et la chair du bœuf béni ; et j'offre le Haoma et le jus de Haoma, les billettes de bois et le parfum pour la louange d'Ahura Mazda, et de l'Ahuna-vairya, la parole véridique, et pour celle de la Prière pieuse et bienfaisante pour les bénédictions, et pour la Malédiction redoutable des sages, et pour la louange du Haoma, et du Mãthra du saint Zarathu<i>s</i>tra ; et puisse-t-il venir à nous avec une plénitude sacrée (pour accepter et récompenser notre don). <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> 2\. (Le Ratu parle.) Mangez, ô vous les hommes, de cette Myazda, l'offrande de viande, vous qui l'avez méritée par votre droiture et votre rectitude !
 
 3\. Ô vous, Immortels Généreux, et vous, la loi Mazdayasnienne, vous, hommes justes et femmes justes, et vous, Zaothras, quiconque parmi ces Mazdayasniens se dirait Mazdayasnien désirant vivre dans la pratique de la libéralité de la Justice \[car par la sorcellerie les établissements de la Justice sont ruinés\], faites en sorte qu'un tel être soit (encore) enseigné, (vous), qui êtes les eaux, les plantes et les Zaothras !
 
@@ -52,7 +52,7 @@ J'offre le Myazda (de) l'offrande de viande avec une offrande complète et sacr�
 
 ---
 
-7\. J'inciterai, moi qui suis Zarathustra [^948], les <span id="p230">[<sup><small>p. 230</small></sup>]</span> chefs de maisons, de villages, de Zantus et de provinces, à suivre attentivement cette Religion qui est celle d'Ahura, et selon Zarathustra, dans leurs pensées, leurs paroles et leurs actes.
+7\. J'inciterai, moi qui suis Zarathustra [^948], les <span id="p230"><sup><small>[ p. 230 ]</small></sup></span> chefs de maisons, de villages, de Zantus et de provinces, à suivre attentivement cette Religion qui est celle d'Ahura, et selon Zarathustra, dans leurs pensées, leurs paroles et leurs actes.
 
 8\. Je prie pour la liberté et la gloire de toute l'existence du saint (homme) pendant que je le bénis, et je prie pour la répression et la honte [^949] de toute l'existence [^950] des méchants.
 

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 DEUXIÈME CONFÉRENCE [^727], INTIMÉ LA DESTRUCTION DE KARMAN.
 
@@ -44,7 +44,7 @@ Acquiers une connaissance parfaite de la Loi ! Pourquoi ne l'étudies-tu pas ? I
 
 Voyez, jeunes et vieux, même les enfants meurent dans le ventre de leur mère. Comme un faucon attrape une caille, ainsi (la vie) s'achèvera quand son temps sera écoulé [^728]. (2)
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 Un homme peut souffrir pour ses parents ; il n'atteindra pas facilement le bonheur après cette vie. Un homme pieux devrait considérer ces causes de danger et cesser d'agir. (3)
 
@@ -62,7 +62,7 @@ Comment comprendrez-vous ce qui est proche de vous et ce qui est au-delà [^730]
 
 Celui qui marche nu et maigre, celui qui ne mange qu'une fois par mois, s'il est rempli de tromperie, naîtra un nombre infini de fois. (9)
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 Homme, cesse de pécher ! Car la vie des hommes prendra fin [^731]. Les hommes noyés (dans la luxure, pour ainsi dire) et adonnés au plaisir seront, par manque de contrôle, égarés [^732]. (10)
 
@@ -72,7 +72,7 @@ Les héros (de la foi) qui renoncent (aux péchés) et s'efforcent correctement,
 
 Ce n'est pas moi seul qui souffre, toutes les créatures du monde souffrent ; un homme sage [^734] devrait considérer cela, et il devrait supporter patiemment (les calamités) qui lui arrivent, sans céder à ses passions. (13)
 
-De même qu'un mur recouvert d'un enduit (de bouse de vache séchée) [^735] est aminci par un choc, ainsi (un moine) devrait affiner son corps par le jeûne, etc. Il devrait <span id="p252">[<sup><small>p. 252</small></sup>]</span> s'abstenir de tuer des êtres vivants. Telle est la Loi proclamée par le Sage. (14)
+De même qu'un mur recouvert d'un enduit (de bouse de vache séchée) [^735] est aminci par un choc, ainsi (un moine) devrait affiner son corps par le jeûne, etc. Il devrait <span id="p252"><sup><small>[ p. 252 ]</small></sup></span> s'abstenir de tuer des êtres vivants. Telle est la Loi proclamée par le Sage. (14)
 
 Comme un oiseau couvert de poussière enlève la poudre grise en se secouant, ainsi un Brâhma<i>n</i>a digne et austère [^736], qui fait pénitence, anéantit son Karman. (15)
 

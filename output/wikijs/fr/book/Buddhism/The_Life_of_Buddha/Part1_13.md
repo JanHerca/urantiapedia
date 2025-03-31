@@ -32,14 +32,14 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 
 KANTHAKA le porta courageusement sur une longue distance. Lorsque le soleil perça enfin entre les paupières de la nuit, le plus noble des hommes vit qu'il se trouvait près d'un bois où vivaient de nombreux ermites pieux. Des cerfs dormaient sous les arbres et des oiseaux voletaient sans crainte. Siddhartha se sentit reposé et pensa qu'il n'avait plus besoin d'aller plus loin. Il descendit de cheval et caressa doucement son cheval. Il y avait du bonheur dans son regard et dans sa voix lorsqu'il dit à Chandaka :
 
 « Vraiment, un cheval a la force et la rapidité d'un dieu. Et toi, cher ami, en me tenant compagnie, tu m'as prouvé la grandeur de ton affection et de ton courage. C'était un acte noble et je suis ravi. Ceux qui, comme toi, peuvent allier énergie et dévouement sont vraiment rares. Tu as prouvé que tu es mon ami, et tu n'attends aucune récompense de ma part ! Pourtant, c'est généralement l'intérêt personnel qui rassemble les hommes. Je t'assure que tu m'as rendu très heureux. Prends le cheval maintenant et retourne à la ville. J'ai trouvé la forêt que je cherchais. »
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 Le héros ôta ses bijoux et les tendit à Chandaka.
 
@@ -57,7 +57,7 @@ Il saisit la main du héros.
 
 « Ne nous abandonne pas ! Reviens, oh, reviens ! »
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 Siddhartha resta silencieux. Finalement, il dit d'une voix solennelle :
 

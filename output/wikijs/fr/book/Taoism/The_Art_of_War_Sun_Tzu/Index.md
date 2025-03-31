@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:36Z
   </table>
 </figure>
 
-<span id="p192">[<sup><small>p. 192</small></sup>]</span> 
+<span id="p192"><sup><small>[ p. 192 ]</small></sup></span> 
 
 ### INDEX 
 
@@ -134,7 +134,7 @@ Chang Shang-ying, [lii](Introduction_6#plii).
 Chang Shou-chieh, [xvi](Introduction_1#pxvi), [xvii](Introduction_1#pxvii). 
 Chang Tsai, [li](Introduction_6#pli). 
 Chang Tzŭ-shang, commentateur, [xli](Introduction_3#pxli). 
-<span id="p193">[<sup><small>p. 193</small></sup>]</span>
+<span id="p193"><sup><small>[ p. 193 ]</small></sup></span>
 
 
 
@@ -256,7 +256,7 @@ Sentiment chinois opposé au militarisme, [xliv](Introduction_5#pxliv).
 
 Ching, duc de Ch'i, [xv](Introduction_1#pxv). 
 
-<span id="p194">[<sup><small>p. 194</small></sup>]</span> 
+<span id="p194"><sup><small>[ p. 194 ]</small></sup></span> 
 
 Ching-chou Fu, [123](11#p123). 
 
@@ -398,7 +398,7 @@ Dispositions, dissimulation de, [51](6#p51), [52](6#p52) connaissance de l'ennem
 
 Dissimulation, [61](7#p61). 
 
-<span id="p195">[<sup><small>p. 195</small></sup>]</span> 
+<span id="p195"><sup><small>[ p. 195 ]</small></sup></span> 
 
 Division de l'ennemi, [47](6#p47). 
 
@@ -538,7 +538,7 @@ Han, bannières rouges de, [144](11#p144).
 
 _Han Chih_. Voir _Ch'in Han Shu_, section bibliographique de. 
 
-<span id="p196">[<sup><small>p. 196</small></sup>]</span> 
+<span id="p196"><sup><small>[ p. 196 ]</small></sup></span> 
 
 _Han Kuan Chieh Ku_, cité, [xx](Introduction_1#pxx). Han Hsin, [xliv](Introduction_5#pxliv), [28](4#p28), [33](5#p33), [34](5#p34), [81](9#p81), [143](11#p143), [167](13#p167) ; un élève de Sun Tzŭ, [xlii](Introduction_3#pxlii) ; cité, [68](7#p68). 
 
@@ -682,7 +682,7 @@ _I Shuo_. Voir Chêng Yu-hsien.
 
 Col d'I-wu, [115](11#p115). 
 
-<span id="p197">[<sup><small>p. 197</small></sup>]</span> 
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span> 
 
 I Yin. _Voir_ I Chih. 
 
@@ -812,7 +812,7 @@ Li Ts'ai, commentateur, [xlii](Introduction_3#pxlii).
 
 Li Wei-kung : _Voir_ Li Ching. 
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span> 
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span> 
 
 _Li Wei Kung Wên Tui_, [lii](Introduction_6#plii). 
 
@@ -950,7 +950,7 @@ Mystification de ses hommes, [131](11#p131).
 
 Nang Wa, [xiii](Introduction_1#pxiii). 
 
-<span id="p199">[<sup><small>p. 199</small></sup>]</span> 
+<span id="p199"><sup><small>[ p. 199 ]</small></sup></span> 
 
 Napoléon Bonaparte, [5](1#p5), [52](6#p52), [148](11#p148) ; son passage à travers les Alpes, [57](7#p57) ; non entravé par l'autorité centrale, [24](3#p24) ; ses « Maximes de Guerre », citées, [84](9#p84), [109](10#p109) ; ses « Pensées », citées, [101](10#p101). 
 
@@ -1090,7 +1090,7 @@ Déroute, [105](10#p105), [107](10#p107).
 
 Ruine, l'une des six calamités, [105](10#p105), [106](10#p106). 
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span> 
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span> 
 
 Souverain, commandant militaire indépendant du, [109](10#p109) ; les éclairés, [157](12#p157), [159](12#p159), [174](13#p174). 
 
@@ -1220,7 +1220,7 @@ Stagnation, [157](12#p157).
 
 Texte standard de Sun Tzŭ. _Voir_ Sun Tzŭ. 
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span> 
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span> 
 
 Stellar Mansions, les vingt-huit, [153](12#p153). 
 
@@ -1308,7 +1308,7 @@ _T'ai Yüan Ching_, mentionné, [xxiv](Introduction_1#pxxiv).
 
 Tallies, officiel, [146](11#p146). 
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span> 
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span> 
 
 T'ang, prince de, [xiii](Introduction_1#pxiii). 
 
@@ -1382,7 +1382,7 @@ T'u Shu Chih, [lii](Introduction_6#plii).
 
 Tu Yu, [xxxiii](Introduction_2#pxxxiii) ; ses notes sur Sun Tzŭ dans le _T'ung Tien_, [xxxvii](Introduction_3#pxxxvii) ; cité, [4](1#p4), [6](1#p6), [11](2#p11), [19](3#p19), [23](3#p23), [24](3#p24), [36](5#p36), [38](5#p38), [47](6#p47), [56](7#p56), [60](7#p60), [61](7#p61), [62](7#p62), [77](8#p77), [83](9#p83), [88](9#p88), [91](9#p91), [92](9#p92), ' [93](9#p93), [94](9#p94), [95](9#p95), [100](10#p100), [101](10#p101), [102](10#p102), [103](10#p103), [104](10#p104), [116](11#p116), [117](11#p117), [120](11#p120), [137](11#p137), [138](11#p138), [152](12#p152), [153](12#p153), [166](13#p166), [167](13#p167), [169](13#p169), [171](13#p171), [172](13#p172); référencé, [28](4#p28), [51](6#p51), [74](8#p74), [155](12#p155), [173](13#p173). 
 
-<span id="p203">[<sup><small>p. 203</small></sup>]</span> 
+<span id="p203"><sup><small>[ p. 203 ]</small></sup></span> 
 
 _T'u Shu_ encyclopédie. Voir _Ku Chin T'u Shu Chi Ch'éng_. 
 
@@ -1502,7 +1502,7 @@ Wu-tu Ch'iang, [80](9#p80).
 
 Wu Tzŭ, [xix](Introduction_1#pxix), [l](Introduction_6#pl) ; cité, [24](3#p24), [56](7#p56), [66](7#p66), [77](8#p77), [80](9#p80), [81](9#p81), [98](9#p98), [107](10#p107), [115](11#p115), [131](11#p131), [142](11#p142), [156](12#p156); référencé, [xxiv](Introduction_1#pxxiv). 
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span> 
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span> 
 
 Wu Tzŭ-hsü, [xxix](Introduction_1#pxxix), [xlviii](Introduction_5#pxlviii) : _Voir aussi_ Wu Yüan. 
 

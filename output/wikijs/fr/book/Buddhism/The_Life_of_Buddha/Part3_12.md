@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p261">[<sup><small>p. 261</small></sup>]</span>
+<span id="p261"><sup><small>[ p. 261 ]</small></sup></span>
 
 
 DEVADATTA désirait ardemment succéder au Bouddha à la tête de la communauté. Un jour, il dit au roi Ajatasatru : « Mon seigneur, le Bouddha vous méprise. Il vous hait. Vous devez le mettre à mort, car votre gloire est en jeu. Envoyez des hommes à la Bambouseraie avec l'ordre de le tuer ; je vous montrerai la voie. »
@@ -53,7 +53,7 @@ Un fils naquit à Ajatasatru le jour où il ordonna la mort de son père. À la 
 
 Alors Ajatasatru commença à se repentir. Un jour, il entendit la reine Vaidehi dire au jeune prince, qui le portait dans ses bras :
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 « Que ton père soit aussi bon pour toi que son père l'a été pour lui. Un jour, enfant, il eut une plaie au doigt ; elle lui fit mal et il pleura ; aucun onguent ne put la guérir. Vimbasara porta donc le doigt à ses lèvres et en extraya le pus, et Ajatasatru put à nouveau rire et jouer. Oh, aime ton père, petit enfant ; ne le punis pas avec ta cruauté pour avoir été cruel envers Vimbasara. »
 
@@ -65,7 +65,7 @@ Ajatasatru suivit le conseil de Jivaka. Il alla trouver le Bienheureux ; il conf
 
 « Ton père, lui dit le Bouddha, est né parmi les dieux les plus puissants ; il connaît ton repentir et te pardonne. Écoute-moi, roi Ajatasatru ; connais la loi et cesse de souffrir. »
 
-Ajatasatru publia une proclamation bannissant Devadatta du royaume et ordonnant aux habitants <span id="p264">[<sup><small>p. 264</small></sup>]</span> de lui fermer leurs portes s'il cherchait refuge dans leurs maisons.
+Ajatasatru publia une proclamation bannissant Devadatta du royaume et ordonnant aux habitants <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> de lui fermer leurs portes s'il cherchait refuge dans leurs maisons.
 
 Devadatta se trouvait alors près de Cravasti où il espérait être reçu par le roi Prasenajit, mais on lui refusa avec mépris une audience et on lui ordonna de quitter le royaume. Contrarié dans ses tentatives de rallier des partisans, il partit finalement pour Kapilavastu.
 
@@ -87,7 +87,7 @@ Il a été admis en sa présence.
 
 « Femme, il t’a repoussée ; prends ta revanche. »
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 « Tais-toi, moine. Tes paroles sont mauvaises. »
 

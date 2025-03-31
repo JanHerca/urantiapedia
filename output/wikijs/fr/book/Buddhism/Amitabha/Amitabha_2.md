@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:20:58Z
   </table>
 </figure>
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 Le novice Charaka vivait en paix avec ses frères, et son aîné, le vénérable Subhûti, était fier de son savant disciple, car il était patient, docile, modeste, sérieux et intelligent, et prouvait toutes ces bonnes qualités par des progrès anormalement rapides. Il apprit parfaitement les Sûtras et les connut bientôt mieux que son maître. Il avait une voix sonore, et c'était un plaisir de l'entendre réciter les formules sacrées ou chanter les versets proclamant la glorieuse doctrine du Bienheureux. Selon toute apparence, la Confrérie avait fait une bonne acquisition ; mais si le vénérable Subhûti avait pu regarder au cœur de Charaka, il aurait vu un état de choses différent, car l'âme du novice était pleine d'impatience, d'insatisfaction et d'excitation. La vie d'un moine était si différente de ce qu'il avait espéré et ses plus chères espérances ne trouvèrent pas de réalisation.
 
@@ -52,7 +52,7 @@ Charaka avait appris de la bouche de son maître de nombreux et beaux poèmes ; 
 
 Mais parfois il était surpris et avait du mal à en comprendre le sens. Il voulait la paix, non la tranquillité ; il voulait le Nirvâna, sa félicité et sa plénitude, non l'extinction. Et pourtant, parfois, il semblait qu'on attendait de lui l'effacement absolu de son activité :
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 « Seulement si c'est comme un gong brisé
  Tu n’émets aucun son :

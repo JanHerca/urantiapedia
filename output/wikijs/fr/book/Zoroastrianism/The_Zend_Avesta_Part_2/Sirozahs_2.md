@@ -44,7 +44,7 @@ Nous sacrifions à Vohu-Manô, l'Amesha-Spe<i>n</i>ta ; nous sacrifions à la Pa
 
 Nous sacrifions à Asha-Vahi<i>s</i>ta, la plus belle, à l'Amesha-Spe<i>n</i>ta ; nous sacrifions au très désiré Airyaman ; nous sacrifions à l'instrument fabriqué par Mazda ; nous sacrifions au bon Saoka, aux yeux d'amour, fabriqué par Mazda et saint.
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 ## 4\. Shahrêvar.
 
@@ -68,7 +68,7 @@ Nous sacrifions à Ameretâ<i>t</i>, l'Amesha-Spe<i>n</i>ta ; nous sacrifions à
 
 (Au gâh Uzîren) : Nous sacrifions à Apãm Napâ<i>t</i>, le cheval rapide, le seigneur grand et brillant, le seigneur des femmes ; nous sacrifions à l'eau faite par Mazda et sainte.
 
-(Au gâh Aiwisrûthrem) : Nous sacrifions aux bons, puissants et bienfaisants Fravashis des saints ; nous sacrifions aux femelles qui donnent naissance à des troupeaux de mâles ; nous sacrifions à l'épargne des <span id="p15">[<sup><small>p. 15</small></sup>]</span> saisons ; nous sacrifions à la Force bien formée et élancée ; nous sacrifions à Verethraghna, créée par Mazda ; nous sacrifions à l'Ascendant écrasant.
+(Au gâh Aiwisrûthrem) : Nous sacrifions aux bons, puissants et bienfaisants Fravashis des saints ; nous sacrifions aux femelles qui donnent naissance à des troupeaux de mâles ; nous sacrifions à l'épargne des <span id="p15"><sup><small>[ p. 15 ]</small></sup></span> saisons ; nous sacrifions à la Force bien formée et élancée ; nous sacrifions à Verethraghna, créée par Mazda ; nous sacrifions à l'Ascendant écrasant.
 
 (Au gâh Ushahin) : Nous sacrifions au saint, au grand corps, au diable Sraosha, qui fait grandir le monde, le saint et le maître de la sainteté ; nous sacrifions à Rashnu Razi<i>s</i>ta ; nous sacrifions à Ar<i>s</i>tâ<i>t</i>, qui fait grandir le monde, qui fait croître le monde.
 
@@ -84,7 +84,7 @@ Nous sacrifions à Âtar, fils d'Ahura Mazda; nous sacrifions au roi Husravah; n
 
 Nous sacrifions à Âtar, le fils d'Ahura Mazda ; nous sacrifions au mont Raêva<i>n</i><i>t</i>, fait par Mazda ; nous sacrifions à la terrible gloire des Kavis, faite par Mazda.
 
-Nous sacrifions à Âtar, le fils d'Ahura Mazda ; nous sacrifions à Âtar, le bienfaisant, le guerrier. <span id="p16">[<sup><small>p. 16</small></sup>]</span> Nous sacrifions à ce Dieu, qui est une source pleine de gloire. Nous sacrifions. à ce Dieu, qui est une source pleine de guérison.
+Nous sacrifions à Âtar, le fils d'Ahura Mazda ; nous sacrifions à Âtar, le bienfaisant, le guerrier. <span id="p16"><sup><small>[ p. 16 ]</small></sup></span> Nous sacrifions à ce Dieu, qui est une source pleine de gloire. Nous sacrifions. à ce Dieu, qui est une source pleine de guérison.
 
 Nous sacrifions à Âtar, le fils d'Ahura Mazda ; nous sacrifions à tous les Feux ; nous sacrifions au Dieu, Nairyô-Sangha, qui réside dans le nombril des rois.
 
@@ -104,7 +104,7 @@ Nous sacrifions à la Lune qui garde en elle la semence du Taureau. Nous sacrifi
 
 Nous sacrifions à Tistrya, l'étoile brillante et glorieuse ; nous sacrifions au puissant Satavaêsa, créé par Mazda, qui pousse les eaux en avant ; nous sacrifions à toutes les étoiles qui ont en elles la semence des eaux ; nous sacrifions à toutes les étoiles qui ont en elles la semence de la terre ; nous sacrifions à toutes les étoiles qui ont en elles les semences des plantes ; nous sacrifions à l'étoile Vana<i>n</i><i>t</i>, créée par Mazda ; nous sacrifions à ces étoiles qui sont au nombre de sept, les Haptôiri<i>n</i>gas, créées par Mazda, glorieuses et guérisseuses ; afin de s'opposer aux Yâtus et aux Pairikas.
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 ## 14\. Allez.
 
@@ -134,7 +134,7 @@ Nous sacrifions aux bons, forts et bienfaisants Fravashis des saints.
 
 Nous sacrifions à la Force bien formée et élancée ; nous sacrifions à Verethraghna, créée par Ahura ; nous sacrifions à l'Ascendant écrasant.
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## 21\. Ram.
 
@@ -154,7 +154,7 @@ Nous sacrifions à la très juste Kista, faite par Mazda et sainte ; nous sacrif
 
 ## 25\. Ard.
 
-Nous sacrifions à Ashi Vanguhi, le brillant, le grand, le fort, le gracieux et le miséricordieux ; nous sacrifions à la Gloire faite par Mazda ; nous sacrifions au Bien fait fait par Mazda. Nous sacrifions à Pâre<i>n</i>di, du char léger ; nous sacrifions à la Gloire des Aryas, faite par Mazda ; nous sacrifions <span id="p19">[<sup><small>p. 19</small></sup>]</span> à la terrible Gloire royale, faite par Mazda ; nous sacrifions à cette terrible Gloire, qui ne peut être saisie par la force, faite par Mazda ; nous sacrifions à la Gloire de Zarathu<i>s</i>tra, faite par Mazda.
+Nous sacrifions à Ashi Vanguhi, le brillant, le grand, le fort, le gracieux et le miséricordieux ; nous sacrifions à la Gloire faite par Mazda ; nous sacrifions au Bien fait fait par Mazda. Nous sacrifions à Pâre<i>n</i>di, du char léger ; nous sacrifions à la Gloire des Aryas, faite par Mazda ; nous sacrifions <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> à la terrible Gloire royale, faite par Mazda ; nous sacrifions à cette terrible Gloire, qui ne peut être saisie par la force, faite par Mazda ; nous sacrifions à la Gloire de Zarathu<i>s</i>tra, faite par Mazda.
 
 ## 26\. Â<i>s</i>tâd.
 
@@ -170,7 +170,7 @@ Nous sacrifions à la Terre, Dieu bienfaisant ; nous sacrifions à ces lieux, à
 
 ## 29\. Mahraspand.
 
-Nous sacrifions au Mãthra Spe<i>n</i>ta, de haute gloire ; nous sacrifions à la Loi opposée aux Daêvas ; nous sacrifions à la Loi de Zarathu<i>s</i>tra ; nous sacrifions à l'enseignement traditionnel de longue date ; nous sacrifions à la bonne Loi des adorateurs de Mazda ; nous sacrifions à la Dévotion au Mãthra Spe<i>n</i>ta ; nous sacrifions à la compréhension qui garde la Loi des adorateurs de Mazda ; nous sacrifions à <span id="p20">[<sup><small>p. 20</small></sup>]</span> la connaissance du Mãthra Spe<i>n</i>ta ; nous sacrifions à la Sagesse céleste, faite par Mazda ; nous sacrifions à la Sagesse acquise par l'oreille et faite par Mazda.
+Nous sacrifions au Mãthra Spe<i>n</i>ta, de haute gloire ; nous sacrifions à la Loi opposée aux Daêvas ; nous sacrifions à la Loi de Zarathu<i>s</i>tra ; nous sacrifions à l'enseignement traditionnel de longue date ; nous sacrifions à la bonne Loi des adorateurs de Mazda ; nous sacrifions à la Dévotion au Mãthra Spe<i>n</i>ta ; nous sacrifions à la compréhension qui garde la Loi des adorateurs de Mazda ; nous sacrifions à <span id="p20"><sup><small>[ p. 20 ]</small></sup></span> la connaissance du Mãthra Spe<i>n</i>ta ; nous sacrifions à la Sagesse céleste, faite par Mazda ; nous sacrifions à la Sagesse acquise par l'oreille et faite par Mazda.
 
 ## 30\. Anêrân.
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-22T18:16:44Z
   </table>
 </figure>
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 La lumière de la lumière est sa beauté ravissante,
 Et son état envoûtant, l'union des unions.
@@ -49,7 +49,7 @@ Il a écrit le _Gulshan i Rāz_, ou _Jardin de roses secret_, en réponse aux qu
 
 On sait très peu de choses sur la vie de Mahmūd Shabistarī. Il a écrit, en plus du Gulshan i Rāz, deux traités sur le soufisme intitulés Hakk ul Yakin et Risala i Shadīd.
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 Nous apprenons qu'il avait un disciple très apprécié appelé Cheikh Ibrahim.
 
@@ -63,7 +63,7 @@ Le _Gulshan i Rāz_ a été traduit en anglais et publié, avec le texte persan 
 
 Les lecteurs de poésie soufie qui lisent pour la première fois sont susceptibles d'être étonnés, voire même rebutés, par le langage extravagant, par la familiarité avec la Déité, par le mépris apparent de toutes les lois humaines et divines. Mais après un examen plus approfondi, l'émerveillement de l'amour des soufis pour leur Bien-aimé brille avec une intensité claire, une belle luminosité.
 
-Ils sont amoureux de l'Unique, et leur amour <span id="p13">[<sup><small>p. 13</small></sup>]</span> prend la forme de chants exquis de louange et d'émerveillement :
+Ils sont amoureux de l'Unique, et leur amour <span id="p13"><sup><small>[ p. 13 ]</small></sup></span> prend la forme de chants exquis de louange et d'émerveillement :
 
 « J'ai entendu, fasciné ; mon esprit s'est précipité à leur rencontre
 L'ordre de l'amour était le bienvenu, car la voix était douce.
@@ -112,7 +112,7 @@ La JOUE signifie l’essence divine des noms et des qualités.
 
 Le BAS est le monde des esprits purs qui est le plus proche de la Divinité.
 
-<span id="p15">[<sup><small>p. 15</small></sup>]</span>
+<span id="p15"><sup><small>[ p. 15 ]</small></sup></span>
 
 Le grain de beauté sur la joue est le point de l'Unité indivisible.
 
@@ -143,7 +143,7 @@ En haillons de mendiant ou en robes de royauté,
 Dans la cellule de l'Union ou dans les lieux de distraction,
 Il n'y a personne d'autre que Lui, par Dieu, il n'y a personne d'autre que Lui. » [^2]
 
-<span id="p17">[<sup><small>p. 17</small></sup>]</span>
+<span id="p17"><sup><small>[ p. 17 ]</small></sup></span>
 
 Les soufis ont compris qu’il est impossible de décrire en termes spatiaux ce qui est au-delà de l’esprit pur.
 
@@ -155,7 +155,7 @@ L'incapacité de décrire aux non-initiés l'amour secret du mystique pour l'Inc
 
 « Je me suis vanté parmi les hommes de t’avoir connu. Ils voient ton image dans toutes mes œuvres. Ils viennent me demander qui est-il ? Je ne sais pas comment leur répondre. Je dis : « En effet, je ne peux pas le dire. » Ils me blâment et s’en vont avec mépris. Et toi, tu es assis là, souriant. J’ai mis mes histoires sur toi dans des chansons durables. Le secret jaillit de mon cœur. Ils viennent me demander : « Dis-moi tout ce que tu veux dire. » Je ne sais pas comment leur répondre. Je dis : « Ah, qui sait ce qu’ils veulent dire. » Ils sourient et s’en vont avec un mépris total. Et toi, tu es assis là, souriant. » [^4]
 
-<span id="p18">[<sup><small>p. 18</small></sup>]</span>
+<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>
 
 ## DE L'IRRÉEL AU RÉEL
 
@@ -170,7 +170,7 @@ Partout où nous nous tournons, et l'argent est dans le désert.
 
 La vision du Tout-Beau est si exquise que quiconque a eu cette vision devient instantanément amoureux et quitte le monde des ombres et du changement pour contempler l’Un.
 
-Il ne se reposera pas avant d'avoir purifié sa vie, d'avoir rejeté tout ce qui peut être un obstacle sur son chemin, et il passera toute sa vie en communion avec Dieu, en déversant en même temps <span id="p19">[<sup><small>p. 19</small></sup>]</span> dans des chants d'amour et des louanges tout le culte et l'adoration de son âme.
+Il ne se reposera pas avant d'avoir purifié sa vie, d'avoir rejeté tout ce qui peut être un obstacle sur son chemin, et il passera toute sa vie en communion avec Dieu, en déversant en même temps <span id="p19"><sup><small>[ p. 19 ]</small></sup></span> dans des chants d'amour et des louanges tout le culte et l'adoration de son âme.
 
 « Par Dieu, le soleil ne s'est jamais levé ni couché sans que tu sois là
 Le désir de mon cœur et mon rêve.
@@ -195,7 +195,7 @@ Traversant un monde d'ombres, il fixe son regard sur l'Éternité ; les événem
 
 L’amour terrestre semble sans valeur, insipide et ennuyeux, comparé à sa dévotion ardente pour l’Immuable.
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 Il n’a qu’un désir, un but, un objectif : atteindre la félicité qu’il a brièvement touchée dans de rares moments d’extase et de ravissement.
 
@@ -209,7 +209,7 @@ Ses tourelles de diamants s'élèvent comme un rêve éveillé.
 
 J'ai déjà dit que l'on sait peu de choses de la vie de Shabistarī, mais ce livre nous donne amplement de témoignages sur son érudition et sa connaissance du soufisme. Bien qu'il ne soit pas aussi séduisant que Hafiz, bien qu'il n'ait pas l'originalité de Rūmī et que son style ne puisse rivaliser avec l'élégance de Jāmī, il les surpasse peut-être tous par la simplicité et la franchise de son discours, et par le sérieux de ses intentions. Il nous donne une vision claire et lumineuse, sous un soleil éclatant, de la vertu et du vice, de la réalité et de l'illusion, de la sagesse et de l'ignorance.
 
-Nous ne nous trouvons pas au crépuscule d'une terre aux couleurs pâles où nous errons parfois, attirés par les douces voix des soufis, où, au milieu des parfums délicats d'un jardin oriental, l'amant chante de fascinantes <span id="p21">[<sup><small>p. 21</small></sup>]</span> chansons d'amour, qu'elles soient de passion terrestre ou d'ivresse divine, restent encore aujourd'hui un sujet de vive controverse.
+Nous ne nous trouvons pas au crépuscule d'une terre aux couleurs pâles où nous errons parfois, attirés par les douces voix des soufis, où, au milieu des parfums délicats d'un jardin oriental, l'amant chante de fascinantes <span id="p21"><sup><small>[ p. 21 ]</small></sup></span> chansons d'amour, qu'elles soient de passion terrestre ou d'ivresse divine, restent encore aujourd'hui un sujet de vive controverse.
 
 On ne nous donne pas non plus de conseils aussi audacieux que ceux que donne Jāmī lorsqu’il chante :
 
@@ -235,7 +235,7 @@ Mais la raison et les sens ne peuvent pas se défaire de la réalité apparente 
 
 Et ces atomes aspirent toujours à rejoindre leur source.
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 Le voyage vers le Bien-Aimé n’a que deux étapes : mourir à soi-même et s’unir à la Vérité.
 
@@ -259,7 +259,7 @@ Tel est l’espoir des soufis, mais dans ce monde, l’ivresse de la coupe de l�
 
 Tout autour de son jardin, Mahmud a planté ces roses de la Raison, de la Croyance, de la Connaissance et de la Foi ; elles fleurissent partout, belles dans leurs couleurs vives de Vérité et de Pureté. Mais c'est au centre que nous trouvons un rosier d'une gloire sans égale, resplendissant des fleurs de la dévotion de l'amour ; c'est l'arbre que Mahmud a planté avec toute l'adoration de son cœur - la description du visage parfait du Bien-Aimé.
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 C'est à cet endroit que nous attendons, fascinés, et à travers le silence mystique, il nous semble entendre la voix de celui qui, il y a longtemps, par amour, a planté ce rosier, faisant écho à sa sublime déclaration :
 

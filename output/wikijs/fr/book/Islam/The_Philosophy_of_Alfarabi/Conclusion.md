@@ -32,7 +32,7 @@ dateCreated: 2024-11-26T19:16:7Z
   </table>
 </figure>
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 Après avoir étudié la philosophie d'Alfarabi, on arrive à trois conclusions : premièrement, qu'Alfarabi a provoqué la première pénétration de l'arabisme dans l'hellénisme et de l'hellénisme dans l'arabisme.
 

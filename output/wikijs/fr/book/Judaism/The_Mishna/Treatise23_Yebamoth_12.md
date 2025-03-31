@@ -40,7 +40,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 3. Si la femme a ôté sa chaussure et a expectoré [devant son beau-frère], mais n'a pas prononcé les paroles [nécessaires à cette occasion], la _Halitzah_ est valide ; si elle a prononcé les paroles et a expectoré, mais n'a pas ôté sa chaussure, la _Halitzah_ est valide ; si elle a ôté sa chaussure et a prononcé les paroles, mais n'a pas expectoré, la _Halitzah_ est nulle, selon R. Eleazar ; mais valide selon R. Akivah. R. Eleazar explique ainsi le texte (Deut. xxv. 9) : « Ainsi il sera fait », etc., à savoir : « Tous les actes qui y sont prescrits doivent être accomplis, et l'omission de l'un d'eux rend la _Halitzah_ nulle. » Mais R. Akivah répondit : « Le même texte fournit une preuve de mon opinion, car il y est dit : « Ainsi il sera fait à l'homme » ; ce qui prouve qu'elle ne concerne que les actes de l'homme. » [^737]
 
-<span id="p226">[<sup><small>p. 226</small></sup>]</span>
+<span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 § 4. Lorsqu'un homme sourd-muet a accompli la cérémonie de la Halitzah, ou si une femme sourde-muette l'a accomplie, ou si une femme l'a accomplie à un mineur, la Halitzah est nulle. Une femme qui, durant sa minorité, a accompli une Halitzah doit la répéter à sa majorité, sinon la première Halitzah est nulle.
 

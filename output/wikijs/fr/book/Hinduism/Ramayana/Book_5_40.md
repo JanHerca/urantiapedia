@@ -115,7 +115,7 @@ Et Indra avec ses mille yeux,
 Et qu'ils accordent à la vérité d'être
 Même les mots qui m'ont surpris.
 
-<span id="p413">[<sup><small>p. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 
 
@@ -214,7 +214,7 @@ Car de telles paroles sont douces à ces oreilles.
 Le Vánar connaissait la pensée de la dame, [^862]
 Et donna la réponse tant recherchée :
 
-<span id="p414">[<sup><small>p. 414</small></sup>]</span>
+<span id="p414"><sup><small>[ p. 414 ]</small></sup></span>
 
 « Brillant comme le soleil qui illumine le ciel
 Aussi chère que la Lune à tous les yeux.
@@ -322,7 +322,7 @@ Le plus noble de ton espèce forestière.
 Qui aurait pu, sans être ému par la terreur, supporter
 Sur Rávan, roi des démons, à regarder.
 
-<span id="p415">[<sup><small>p. 415</small></sup>]</span>
+<span id="p415"><sup><small>[ p. 415 ]</small></sup></span>
 
 Pouvons-nous maintenant communier ici en amis,
 Car celui que le royal Rama envoie
@@ -426,7 +426,7 @@ Je te prendrai dans mes bras et je m'enfuirai ;
 Je te placerai sur la colline de Prasravan
 Là où le fils de Raghu attend toujours.
 
-<span id="p416">[<sup><small>p. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 « Comment peux-tu m’emmener d’ici ? » s’écria-t-elle,
 « Le chemin est long, la mer est large.
@@ -531,7 +531,7 @@ En prosternation basse et respectueuse.
 Et sur son doigt était attachée la pierre précieuse
 Elle s'est détachée de son diadème.
 
-<span id="p417">[<sup><small>p. 417</small></sup>]</span>
+<span id="p417"><sup><small>[ p. 417 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

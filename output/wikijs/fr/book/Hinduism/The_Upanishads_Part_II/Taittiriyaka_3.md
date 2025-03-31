@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 TROISIÈME VALLÎ, OU, LE CHAPITRE DE BH<i>RI</i>GU.
 
@@ -57,7 +57,7 @@ Ayant compris cela, il retourna vers son père Varu<i>n</i>a et lui dit : « Sei
 
 Il a fait pénitence. Ayant fait pénitence…
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 ## TROISIÈME ANUVÂKA.
 
@@ -82,7 +82,7 @@ Il percevait que la compréhension (vi<i>g</i>_ñ_âna) était Brahman, car de l
 
 Ayant compris cela, il retourna vers son père Varu<i>n</i>a et lui dit : « Seigneur, enseigne-moi Brahman. » Il lui dit : « Essaie de connaître Brahman par la pénitence, car la pénitence est (le moyen de connaître) Brahman. »
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 Il a fait pénitence. Ayant fait pénitence…
 
@@ -100,7 +100,7 @@ Le souffle est nourriture [2](Taittiriyaka_3#fn238), le corps mange la nourritur
 
 ## HUITIÈME ANUVÂKA.
 
-Qu'il ne fuie jamais la nourriture, telle est la règle. L'eau est nourriture, la lumière mange la nourriture. La lumière repose sur l'eau, l'eau repose sur la lumière. Telle est la nourriture qui repose <span id="p67">[<sup><small>p. 67</small></sup>]</span> sur la nourriture [^240]. Celui qui connaît cette nourriture qui repose sur la nourriture, demeure exalté, devient riche en nourriture, et capable de manger de la nourriture (saine), devient grand par sa descendance, son bétail et la splendeur de sa connaissance (de Brahman), grand par sa renommée.
+Qu'il ne fuie jamais la nourriture, telle est la règle. L'eau est nourriture, la lumière mange la nourriture. La lumière repose sur l'eau, l'eau repose sur la lumière. Telle est la nourriture qui repose <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> sur la nourriture [^240]. Celui qui connaît cette nourriture qui repose sur la nourriture, demeure exalté, devient riche en nourriture, et capable de manger de la nourriture (saine), devient grand par sa descendance, son bétail et la splendeur de sa connaissance (de Brahman), grand par sa renommée.
 
 
 ## NEUVIÈME ANUVÂKA.
@@ -111,7 +111,7 @@ Qu'il acquière beaucoup de nourriture, telle est la règle. La terre est nourri
 
 1\. Qu'il ne repousse jamais (un étranger) de sa maison, telle est la règle. C'est pourquoi un homme doit absolument se procurer beaucoup de nourriture, car les gens (bienveillants) disent (à l'étranger) : « Il y a de la nourriture prête pour lui. » S'il donne de la nourriture en abondance, la nourriture lui sera donnée en abondance. S'il donne de la nourriture équitablement, la nourriture lui sera donnée équitablement. S'il donne de la nourriture modestement, la nourriture lui sera donnée modestement.
 
-2\. Celui qui sait cela (reconnaît et vénère Brahman [^241]) comme possession dans la parole, comme acquisition et possession dans l'inspiration (prâ<i>n</i>a) et l'expiration (apâna) ; comme action dans les mains ; comme marche dans les pieds ; comme évacuation dans l'anus. Telles sont les reconnaissances humaines (de Brahman tel que manifesté dans les actions humaines). Viennent ensuite les reconnaissances (de <span id="p68">[<sup><small>p. 68</small></sup>]</span> Brahman) en référence aux Devas, à savoir : comme satisfaction dans la pluie ; comme puissance dans la foudre ;
+2\. Celui qui sait cela (reconnaît et vénère Brahman [^241]) comme possession dans la parole, comme acquisition et possession dans l'inspiration (prâ<i>n</i>a) et l'expiration (apâna) ; comme action dans les mains ; comme marche dans les pieds ; comme évacuation dans l'anus. Telles sont les reconnaissances humaines (de Brahman tel que manifesté dans les actions humaines). Viennent ensuite les reconnaissances (de <span id="p68"><sup><small>[ p. 68 ]</small></sup></span> Brahman) en référence aux Devas, à savoir : comme satisfaction dans la pluie ; comme puissance dans la foudre ;
 
 3\. Comme la gloire du bétail ; comme la lumière des étoiles ; comme la procréation, l'immortalité et la félicité dans le membre ; comme tout dans l'éther. Qu'il adore cela (Brahman) comme support, et il devient support. Qu'il adore cela (Brahman) comme grandeur (maha<i>h</i>), et il devient grand. Qu'il adore cela (Brahman) comme esprit, et il devient doté d'esprit.
 
@@ -119,7 +119,7 @@ Qu'il acquière beaucoup de nourriture, telle est la règle. La terre est nourri
 
 Celui [^243] qui est ceci (Brahman) dans l'homme, et celui qui est cela (Brahman) dans le soleil, tous deux sont un.
 
-5\. Celui qui sait cela, lorsqu'il a quitté ce monde, après avoir atteint et compris le Soi qui consiste en nourriture, le Soi qui consiste en souffle, le Soi qui consiste en esprit, le Soi qui consiste en compréhension, le Soi qui consiste en félicité, entre et prend possession de ces mondes, et ayant autant de nourriture qu'il le souhaite, et assumant autant de formes qu'il le souhaite, il s'assoit en chantant ce Sâman (de Brahman) : 'Hâvu, hâvu, hâvu ! <span id="p69">[<sup><small>p. 69</small></sup>]</span> 6\. 'Je suis nourriture (objet), je suis nourriture, je suis nourriture ! Je suis le mangeur de nourriture (sujet), je suis le mangeur de nourriture, je suis le mangeur de nourriture ! Je suis le poète (qui joint les deux ensemble), je suis le poète, je suis le poète ! Je suis le premier-né du Droit (<i>ri</i>ta). Devant les Dévas, j'étais au centre de tout ce qui est immortel. Celui qui me donne, seul, me préserve : celui qui mange de la nourriture, je la mange comme nourriture.
+5\. Celui qui sait cela, lorsqu'il a quitté ce monde, après avoir atteint et compris le Soi qui consiste en nourriture, le Soi qui consiste en souffle, le Soi qui consiste en esprit, le Soi qui consiste en compréhension, le Soi qui consiste en félicité, entre et prend possession de ces mondes, et ayant autant de nourriture qu'il le souhaite, et assumant autant de formes qu'il le souhaite, il s'assoit en chantant ce Sâman (de Brahman) : 'Hâvu, hâvu, hâvu ! <span id="p69"><sup><small>[ p. 69 ]</small></sup></span> 6\. 'Je suis nourriture (objet), je suis nourriture, je suis nourriture ! Je suis le mangeur de nourriture (sujet), je suis le mangeur de nourriture, je suis le mangeur de nourriture ! Je suis le poète (qui joint les deux ensemble), je suis le poète, je suis le poète ! Je suis le premier-né du Droit (<i>ri</i>ta). Devant les Dévas, j'étais au centre de tout ce qui est immortel. Celui qui me donne, seul, me préserve : celui qui mange de la nourriture, je la mange comme nourriture.
 
 « Je surmonte le monde entier, moi, doté de lumière dorée [^244]. Quiconque sait cela, (atteint tout cela). » Telle est l'Upanishad [^245].
 

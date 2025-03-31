@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p120">[<sup><small>p. 120</small></sup>]</span>
+<span id="p120"><sup><small>[ p. 120 ]</small></sup></span>
 
 Les règnes de sept autres rois de Yin ou Shang sont passés, et ce livre nous amène à l'époque de Kâu-hsin ou Shâu, son dernier souverain, 1154-1123 av. J.-C. La maison de Kâu commence à apparaître au premier plan, car « le Chef de l'Ouest » était l'un des fondateurs reconnus de la dynastie Kâu ; on ne sait pas avec certitude s'il s'agissait de Khang, connu sous le nom de roi Wăn, ou de son fils Fâ, connu sous le nom de roi Wû. Le père de Khang, le duc de Kâu dans l'actuel département de Făng-hsiang, Shen-hsî, avait été nommé chef de l'Ouest, c'est-à-dire de toute la partie occidentale du royaume, englobant les provinces de Yung, Liang et Kinging de Yü. La même juridiction passa à son fils et à son petit-fils. L'État de Lî, dont la conquête est mentionnée, se trouvait dans l'actuel département de Lû-an, Shan-hsî, au sein du domaine royal, de sorte que le Chef de l'Ouest ne se limitait plus à l'ouest, mais menaçait le roi lui-même.
 

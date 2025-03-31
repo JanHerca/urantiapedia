@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 
 Le nombre de croyants augmentait constamment, et le roi Vimbasara témoignait à maintes reprises au Maître de sa foi et de son amitié. Il l'invitait souvent au palais et lui offrait une place à sa table. À ces occasions, il ordonnait à la ville de revêtir un air de fête. Les rues étaient tapissées de fleurs et les maisons décorées de bannières. Les parfums les plus suaves emplissaient l'air et les habitants revêtaient leurs plus beaux habits. Le roi lui-même s'avançait pour saluer le Bienheureux et le protégeait du soleil sous son parasol doré.
@@ -41,7 +41,7 @@ De nombreux jeunes nobles mirent toute leur foi dans la loi enseignée par le Bi
 
 Mais il y avait beaucoup de gens à Rajagriha qui étaient troublés de voir le grand nombre de conversions que le Bouddha faisait, et ils parcouraient la ville, exprimant leur colère.
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 « Pourquoi ce fils des Sakyas s'est-il installé parmi nous ? » demandaient-ils. « N'y avait-il pas déjà assez de moines pour nous prêcher la vertu ? Et ils n'ont pas attiré nos jeunes gens comme ce maître. Eh bien, même nos enfants nous quittent ! À cause de ce fils des Sakyas, combien de femmes sont veuves ! À cause de ce fils des Sakyas, combien de familles sont sans enfants ! Le malheur s'abattra sur le royaume, maintenant que ce moine s'est installé parmi nous ! »
 

@@ -59,7 +59,7 @@ Deux lieues de largeur d'un côté à l'autre.
 Les grands éléphants ont donné une beauté fraîche
 Vers la rive herbeuse et la vague fleurie de nénuphars,
 
-<span id="p240">[<sup><small>p. 240</small></sup>]</span>
+<span id="p240"><sup><small>[ p. 240 ]</small></sup></span>
 
 Par de nombreux cygnes et saras agités,
 Canard colvert et oiseau aquatique aux ailes gaies.
@@ -180,7 +180,7 @@ La chose même, ô Prince, que tu
 Tu as cherché, je voulais insister maintenant,
 Je t'invite avec ta femme et ton frère à voir
 
-<span id="p241">[<sup><small>p. 241</small></sup>]</span>
+<span id="p241"><sup><small>[ p. 241 ]</small></sup></span>
 
 Agastya, glorieux dévot.
 Je considère cette chose comme un beau présage
@@ -303,7 +303,7 @@ Pour faire sortir celui que j'ai dévoré ?
 Ton frère déguisé en bélier-
 'Il est parti là où se trouve le royaume de Yama.'
 
-<span id="p242">[<sup><small>p. 242</small></sup>]</span>
+<span id="p242"><sup><small>[ p. 242 ]</small></sup></span>
 
 Quand d'après les mots prononcés par Agastya
 Il savait que son frère démon était mort,
@@ -422,7 +422,7 @@ Ici les dieux aux êtres vivants, qui gagnent
 Leur faveur, pure du péché cruel,
 Donnez un règne royal et beaucoup de biens,
 
-<span id="p243">[<sup><small>p. 243</small></sup>]</span>
+<span id="p243"><sup><small>[ p. 243 ]</small></sup></span>
 
 Vie immortelle et spiritualité. Je
 Maintenant, Lakshman, nous sommes près de l'endroit :
@@ -536,7 +536,7 @@ Se tenait suppliant auprès de l'anachorète,
 Tandis que la force de Lakshman et la grâce de Sitá
 Je me suis tenu aux côtés de la fierté de la race de Raghu.
 
-<span id="p244">[<sup><small>p. 244</small></sup>]</span>
+<span id="p244"><sup><small>[ p. 244 ]</small></sup></span>
 
 Le sage jeta ses bras autour de Rama
 Et l'accueillit avec les honneurs qui lui étaient dus,
@@ -657,7 +657,7 @@ Le souhait qui émeut ton cœur se révèle,
 Et c'est pourquoi je t'ai invité à être mon invité,
 Que ce bosquet pur puisse t'abriter.
 
-<span id="p245">[<sup><small>p. 245</small></sup>]</span>
+<span id="p245"><sup><small>[ p. 245 ]</small></sup></span>
 
 Ainsi maintenant, par la suite, ainsi je parle :
 Les ombres de Panchavatí cherchent ;
@@ -751,7 +751,7 @@ Ravie pour chaque tendre mariée :
 « Tu enfanteras des fils pour gouverner les trois
 De grands mondes, dont la puissance me ressemble,
 
-<span id="p246">[<sup><small>p. 246</small></sup>]</span>
+<span id="p246"><sup><small>[ p. 246 ]</small></sup></span>
 
 Aditi, Diti et Danú
 Obéirent à sa volonté comme de véritables épouses,
@@ -851,7 +851,7 @@ Le prince, transporté de ravissement,
 Penché profondément et rendant hommage,
 Embrassa l'oiseau royal.
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 Il disait souvent autrefois
 J'avais entendu son père dire
@@ -958,7 +958,7 @@ Avec de l'herbe sacrée, du roseau et des feuilles.
 Le puissant chef au travail minutieux
 Avait nettoyé le terrain et lissé le sol
 
-<span id="p248">[<sup><small>p. 248</small></sup>]</span>
+<span id="p248"><sup><small>[ p. 248 ]</small></sup></span>
 
 Où maintenant, son travail d'amour terminé,
 Une belle maison pour le fils de Raghu.
@@ -1074,7 +1074,7 @@ Deviennent agréables dans leur force de midi,
 Et là où un moment ils tombent par hasard
 Jette une faible splendeur sur tout.
 
-<span id="p249">[<sup><small>p. 249</small></sup>]</span>
+<span id="p249"><sup><small>[ p. 249 ]</small></sup></span>
 
 Regarde, par-dessus les bois où l'herbe est mouillée
 Avec des gouttes blanches qui s'accrochent encore là,
@@ -1192,7 +1192,7 @@ Le héros se dirigea vers son lit,
 Et après les rites du matin
 Dans l'ombre feuillue, je me suis retiré.
 
-<span id="p250">[<sup><small>p. 250</small></sup>]</span>
+<span id="p250"><sup><small>[ p. 250 ]</small></sup></span>
 
 Puis, honoré par les fidèles,
 Alors que le royal Ráma était assis à l’aise,
@@ -1311,7 +1311,7 @@ Cette réponse éloquente est revenue :
 Sur elle prise au piège dans le filet de Ráma
 Le royal Rama fixa ses yeux,
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 Et ainsi, sa passion de séduire,
 Il s'adressa à elle avec un doux sourire :
@@ -1435,7 +1435,7 @@ Et montra son visage ensanglanté.
 Quand Khara a vu sa sœur mentir
 Avec des membres tachés de sang et des yeux troublés,
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 Une fureur sauvage s'éveilla dans son sein,
 Et ainsi parla le géant monstrueux ;
@@ -1556,7 +1556,7 @@ Le héros aux côtés de sa compagne,
 Et le fidèle Lakshman est toujours prêt
 Pour attendre la volonté de son frère.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 Alors le noble Ráma leva les yeux
 Et j'ai vu les géants se tenir près de moi,

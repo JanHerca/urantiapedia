@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p225">[<sup><small>p. 225</small></sup>]</span>
+<span id="p225"><sup><small>[ p. 225 ]</small></sup></span>
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 4, SECTION 10.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. [^676] Après avoir mis du bois sur le feu et répandu de l'herbe Darbha pointée vers le sud et vers l'est autour de lui, après avoir préparé l'Â<i>ya</i> dans un Â<i>ya</i> dans un Â<i>ya</i> dans un pot Â<i>ya</i> sur lequel il a posé un purificateur, après avoir aspergé d'eau autour (du feu) de droite à gauche, et avoir mis un morceau de bois d'Udumbara sur (le feu), il sacrifie avec la (cuillère appelée) Darvi qui est faite de bois d'Udumbara.
 
-5\. Après avoir accompli les rites jusqu'aux offrandes Â<i>g</i>yabhâga, il suspend son cordon sacrificiel sur son épaule droite et appelle les Pères (à son sacrifice) avec (le verset) : « Venez ici, ô Pères, amis de Soma, sur vos anciens chemins cachés, nous accordant descendance, richesse et longue vie, une vie de cent automnes. » <span id="p226">[<sup><small>p. 226</small></sup>]</span>
+5\. Après avoir accompli les rites jusqu'aux offrandes Â<i>g</i>yabhâga, il suspend son cordon sacrificiel sur son épaule droite et appelle les Pères (à son sacrifice) avec (le verset) : « Venez ici, ô Pères, amis de Soma, sur vos anciens chemins cachés, nous accordant descendance, richesse et longue vie, une vie de cent automnes. » <span id="p226"><sup><small>[ p. 226 ]</small></sup></span>
 
 6\. [^677] Il asperge d'eau dans la même direction (c'est-à-dire vers le sud) avec (le verset) : « Eaux divines, envoyez-nous Agni. Que nos Pères apprécient ce sacrifice. Que ceux qui reçoivent leur nourriture chaque mois nous accordent la richesse avec des héros vaillants. »
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 Puis il sacrifie avec leurs noms : « À NN svadhâ ! Adoration ! À NN svadhâ ! Adoration ! »
 
-<span id="p227">[<sup><small>p. 227</small></sup>]</span>
+<span id="p227"><sup><small>[ p. 227 ]</small></sup></span>
 
 « En quoi ma mère a mal agi, abandonnant son devoir (envers son mari), que mon père prenne ce sperme comme sien ; qu'un autre tombe de la mère. Svadhâ ! Adoration ! »
 
@@ -82,7 +82,7 @@ De la même manière, un deuxième et un troisième verset avec l'altération du
 
 2\. De la même manière, il sacrifie de la nourriture, en modifiant le mantra « Portez la nourriture, etc. »
 
-3\. Puis il sacrifie l'oblation Svish<i>t</i>ak<i>t</i>t <span id="p228">[<sup><small>p. 228</small></sup>]</span> avec (la formule) : « À Agni Kavyavâhana Svish<i>t</i>ak<i>t</i>t svadhâ ! Adoration ! »
+3\. Puis il sacrifie l'oblation Svish<i>t</i>ak<i>t</i>t <span id="p228"><sup><small>[ p. 228 ]</small></sup></span> avec (la formule) : « À Agni Kavyavâhana Svish<i>t</i>ak<i>t</i>t svadhâ ! Adoration ! »
 
 4\. Il touche ensuite la nourriture avec (les formules) : « La terre est ton récipient, le ciel est le couvercle. Je te sacrifie dans la bouche du Brahmane. Je te sacrifie dans le souffle ascendant et descendant des Brâhmanes. Tu es impérissable ; ne péris pas pour les Pères là-bas, dans ce monde ! La terre est stable ; Agni en est l'arpenteur afin que ce qui a été donné ne soit pas perdu. »
 
@@ -98,13 +98,13 @@ De la même manière, un deuxième et un troisième verset avec l'altération du
 
 1\. Pendant qu'ils mangent, il les regarde en disant : « Mon âme (âtman) réside dans le Brahman afin qu'elle soit immortelle. »
 
-Lorsqu'ils ont mangé (et s'en vont), il les suit et leur demande la permission de prendre les restes de leur repas (pour les rites qu'il va <span id="p229">[<sup><small>p. 229</small></sup>]</span> accomplir). Puis il prend un pot d'eau et une poignée d'herbe Darbha, se rend à un endroit situé dans une direction intermédiaire sud-est, étend l'herbe Darbha avec ses pointes vers le sud, et verse sur cette (herbe) avec les mains tournées vers le bas, terminant au sud, trois poignées d'eau, avec (les formules) : « Que les pères, les amis de Soma, s'essuient ! Que les grands-pères... les arrière-grands-pères, les amis de Soma, s'essuient ! » ou : « NN ! Lave-toi ! NN ! Lave-toi ! »
+Lorsqu'ils ont mangé (et s'en vont), il les suit et leur demande la permission de prendre les restes de leur repas (pour les rites qu'il va <span id="p229"><sup><small>[ p. 229 ]</small></sup></span> accomplir). Puis il prend un pot d'eau et une poignée d'herbe Darbha, se rend à un endroit situé dans une direction intermédiaire sud-est, étend l'herbe Darbha avec ses pointes vers le sud, et verse sur cette (herbe) avec les mains tournées vers le bas, terminant au sud, trois poignées d'eau, avec (les formules) : « Que les pères, les amis de Soma, s'essuient ! Que les grands-pères... les arrière-grands-pères, les amis de Soma, s'essuient ! » ou : « NN ! Lave-toi ! NN ! Lave-toi ! »
 
 3\. [^681] Sur cette (herbe), il dépose, les mains tournées vers le bas, en terminant au sud, les morceaux (de nourriture pour les Pères). À son père, il donne son morceau en disant : « Ceci pour toi, père, NN ! » au grand-père en disant : « Ceci pour toi, grand-père, NN ! » à l'arrière-grand-père en disant : « Ceci pour toi, arrière-grand-père, NN ! » silencieusement un quatrième (morceau). Ce (quatrième morceau) est facultatif.
 
 4\. S'il ne connaît pas les noms (des ancêtres), il donne la masse au père avec (les mots) : « Svadhâ aux Pères qui habitent sur la terre », au grand-père avec (les mots) : « Svadhâ aux Pères qui habitent dans l'air », à l'arrière-grand-père avec (les mots) : « Svadhâ aux Pères qui habitent dans le ciel ».
 
-5\. Puis il donne, correspondant à chaque morceau, un collyre et (autre) onguent et (quelque chose qui représente) un vêtement. <span id="p230">[<sup><small>p. 230</small></sup>]</span>
+5\. Puis il donne, correspondant à chaque morceau, un collyre et (autre) onguent et (quelque chose qui représente) un vêtement. <span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 6\. [^682] Le collyre (il donne), en disant trois fois : « Oins tes yeux, NN ! Oins tes yeux, NN ! »
 
@@ -123,7 +123,7 @@ Lorsqu'ils ont mangé (et s'en vont), il les suit et leur demande la permission 
 
 
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 ## PA<i>T</i>ALA 4, SECTION 13.
 

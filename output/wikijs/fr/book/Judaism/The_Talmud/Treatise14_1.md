@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p255">[<sup><small>p. 255</small></sup>]</span>
+<span id="p255"><sup><small>[ p. 255 ]</small></sup></span>
 
 ## TRAITÉ XIV.
 
@@ -44,7 +44,7 @@ Prêtres et Lévites gardant le Temple — Officier de la Garde — Portes — C
 
 1\. Les prêtres gardaient le sanctuaire en trois endroits, dans la maison Abtinas, [^563] dans la maison Nitzus, [^564] et dans la maison Moked ; [^565] et les Lévites en vingt et un endroits, cinq aux cinq portes de la montagne de la Maison, quatre à ses quatre coins à l'intérieur, cinq aux cinq portes de la Cour, quatre à ses quatre coins à l'extérieur, et un dans la chambre de l'Offrande, et un dans la chambre du Voile, et un derrière la Maison des Expiations.
 
-2\. Le Capitaine de la Montagne de la Maison fit le tour de chaque Garde, torches allumées devant lui, et à chaque garde qui ne se présentait pas, il dit : « Que la paix soit avec toi ! » S'il semblait qu'il dormait, il le frappait avec son bâton ; et il avait la permission de mettre le feu à son coussin. [^566] Et ils demandèrent : « Quelle est la voix dans la Cour ? » « C'est la voix du Lévite qu'on bat, et dont on brûle les vêtements, parce qu'il dormait en garde. » [^567] <span id="p256">[<sup><small>p. 256</small></sup>]</span> Rabbi Éliézer, fils de Jacob, dit : « Un jour, ils trouvèrent le frère de ma mère endormi, et ils brûlèrent son coussin. »
+2\. Le Capitaine de la Montagne de la Maison fit le tour de chaque Garde, torches allumées devant lui, et à chaque garde qui ne se présentait pas, il dit : « Que la paix soit avec toi ! » S'il semblait qu'il dormait, il le frappait avec son bâton ; et il avait la permission de mettre le feu à son coussin. [^566] Et ils demandèrent : « Quelle est la voix dans la Cour ? » « C'est la voix du Lévite qu'on bat, et dont on brûle les vêtements, parce qu'il dormait en garde. » [^567] <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> Rabbi Éliézer, fils de Jacob, dit : « Un jour, ils trouvèrent le frère de ma mère endormi, et ils brûlèrent son coussin. »
 
 3\. Il y avait cinq portes donnant sur la Montagne de la Maison : deux portes Hulda au sud, servant à entrer et sortir ; Kipunus à l'ouest, servant à entrer et sortir ; Tadi [^568] au nord, ne servait à rien. Sur la porte est était représentée la ville de Suse. On pouvait y voir le Grand Prêtre qui brûla la génisse, et tous ses assistants se dirigeant vers le Mont des Oliviers.
 

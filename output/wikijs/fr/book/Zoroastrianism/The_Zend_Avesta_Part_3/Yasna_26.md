@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:40Z
   </table>
 </figure>
 
-<span id="p278">[<sup><small>p. 278</small></sup>]</span>
+<span id="p278"><sup><small>[ p. 278 ]</small></sup></span>
 
 ## YASNA XXVI. LES FRAVASHIS ; SACRIFICE ET LOUANGES À EUX.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 2\. Et de tous ces Fravashis antérieurs, nous adorons ici le Fravashi d'Ahura Mazda, qui est le plus grand et le meilleur, le plus beau et le plus ferme, le plus sage et le meilleur en forme, et celui qui atteint le plus ses fins à cause de la Droiture. 3. Et (les ayant invoqués) ici, nous adorons les bons, héroïques, généreux Fravashis des saints, ceux des Immortels Généreux, les brillants, au regard efficace, les sublimes, les dévoués, les rapides des créatures d'Ahura qui sont impérissables et saintes.
 
-4\. Et (les ayant invoqués) ici, nous adorons l'esprit et la conscience, l'intelligence et l'âme et les Fravashi de ces saints hommes et femmes qui ont entendu de bonne heure la tradition et les commandements (de Dieu [^1168]), et ont aimé et lutté pour la Justice, la vérité rituelle ; et nous adorons l'âme du Kine du don béni. 5. Et (les ayant invoqués) ici, nous adorons les Fravashi de Gaya Maretan le saint, et la sainteté et les Fravashi de Zarathu<i>s</i>tra Spitâma le saint ; et nous adorons les Fravashi de Kavi Vî<i>s</i>tâspa le saint, et ceux d'Isa<i>t</i>-vâstra le Zarathu<i>s</i>trien, le saint. <span id="p279">[<sup><small>p. 279</small></sup>]</span> 6\. Et (les ayant invoqués) ici, nous adorons la vie, la conscience, l'intelligence, l'âme et le Fravashi des plus proches parents, des saints hommes et femmes qui ont lutté pour la vérité rituelle, qui sont ceux des saints morts et vivants, et qui sont aussi ceux des hommes à naître, des futurs prophètes qui aideront à la rénovation et achèveront le progrès humain, avec eux tous.
+4\. Et (les ayant invoqués) ici, nous adorons l'esprit et la conscience, l'intelligence et l'âme et les Fravashi de ces saints hommes et femmes qui ont entendu de bonne heure la tradition et les commandements (de Dieu [^1168]), et ont aimé et lutté pour la Justice, la vérité rituelle ; et nous adorons l'âme du Kine du don béni. 5. Et (les ayant invoqués) ici, nous adorons les Fravashi de Gaya Maretan le saint, et la sainteté et les Fravashi de Zarathu<i>s</i>tra Spitâma le saint ; et nous adorons les Fravashi de Kavi Vî<i>s</i>tâspa le saint, et ceux d'Isa<i>t</i>-vâstra le Zarathu<i>s</i>trien, le saint. <span id="p279"><sup><small>[ p. 279 ]</small></sup></span> 6\. Et (les ayant invoqués) ici, nous adorons la vie, la conscience, l'intelligence, l'âme et le Fravashi des plus proches parents, des saints hommes et femmes qui ont lutté pour la vérité rituelle, qui sont ceux des saints morts et vivants, et qui sont aussi ceux des hommes à naître, des futurs prophètes qui aideront à la rénovation et achèveront le progrès humain, avec eux tous.
 
 7\. Et (les ayant invoqués) ici, nous adorons les âmes des morts \[^1169]\]; et de tous les proches parents qui sont décédés dans cette maison, des Aêthrapaitis (les enseignants) et des disciples; oui, de tous les saints hommes et femmes; (8) et nous adorons les Fravashis de tous les saints enseignants et disciples; et de tous les saints hommes et femmes.
 

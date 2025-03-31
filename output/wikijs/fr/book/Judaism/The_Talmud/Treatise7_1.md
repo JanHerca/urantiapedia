@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 ## TRAITÉ VII.
 
@@ -46,7 +46,7 @@ Quatre nouvelles années — Jugements — Nouvelle lune — Témoins — Preuve
 
 2\. Le monde est jugé à quatre époques : à la Pâque, pour la croissance du blé ; à la Pentecôte, pour le fruit des arbres ; au jour de l'an, lorsque tous les êtres humains passent devant Lui comme des agneaux, comme il est dit : « Il forme également leurs cœurs ; il considère toutes leurs œuvres » ; [^280] et à la fête des tabernacles, le jugement est rendu pour les pluies.
 
-3\. Des messagers partaient (de Jérusalem) tous les six mois : en Nisan pour la Pâque ; en Ab [^281] pour le jeûne ; en Elul pour le nouvel an ; en Tishri pour le règlement des fêtes ; en <span id="p150">[<sup><small>p. 150</small></sup>]</span> Kislev [^282] pour la dédicace ; en Adar [^283] pour la fête des sorts ; et aussi en Iyar [^284] pendant l'existence du Temple pour la petite Pâque.
+3\. Des messagers partaient (de Jérusalem) tous les six mois : en Nisan pour la Pâque ; en Ab [^281] pour le jeûne ; en Elul pour le nouvel an ; en Tishri pour le règlement des fêtes ; en <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> Kislev [^282] pour la dédicace ; en Adar [^283] pour la fête des sorts ; et aussi en Iyar [^284] pendant l'existence du Temple pour la petite Pâque.
 
 4\. Pendant deux mois [^285], ils peuvent profaner le sabbat, celui de Nissan et celui de Tishri, car c'est durant ces mois que les messagers partirent pour la Syrie et qu'ils réglèrent les fêtes. Et pendant l'existence du Temple, ils pouvaient le profaner tous les mois pour la réglementation des offrandes.
 

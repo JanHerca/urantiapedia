@@ -34,7 +34,7 @@ dateCreated: 2025-2-12T22:30:58Z
 
 LA VIE DE GURU NANAK. CHAPITRE V
 
-Le gourou partit vers l'est, vêtu d'un étrange mélange d'habits religieux hindous et musulmans. Il revêtit une veste couleur mangue, sur laquelle il jeta un safa ou drap blanc. Il portait sur sa tête le chapeau d'un Qalandar musulman[^3], un collier d'os et une marque safran imprimée sur son front, à la manière des hindous. C'était un gage de son désir de fonder une religion acceptable à la fois par les hindous et les musulmans, sans se conformer à aucune des deux confessions. En cheminant, le gourou et son assistant rencontrèrent un notable musulman appelé Cheikh Wajid. Le gourou descendit sous un arbre, et ses porteurs commencèrent à le shampouiner et à l'éventer. Cela donna matière à réflexion à Mardana, qui demanda au gourou s'il n'y avait pas un Dieu pour les riches et un autre pour les pauvres. Le gourou répondit qu'il n'y avait pas <span id="p59">[<sup><small>p. 59</small></sup>]</span> n'était qu'un seul Dieu. Mardana posa alors sa question sous une autre forme : « Qui a créé cet homme qui voyage dans une berline de confort alors que ses porteurs sont pieds nus ? Leurs jambes sont nues tandis qu'ils le shampouinent et le ventilent. » Le gourou répondit par les vers suivants :
+Le gourou partit vers l'est, vêtu d'un étrange mélange d'habits religieux hindous et musulmans. Il revêtit une veste couleur mangue, sur laquelle il jeta un safa ou drap blanc. Il portait sur sa tête le chapeau d'un Qalandar musulman[^3], un collier d'os et une marque safran imprimée sur son front, à la manière des hindous. C'était un gage de son désir de fonder une religion acceptable à la fois par les hindous et les musulmans, sans se conformer à aucune des deux confessions. En cheminant, le gourou et son assistant rencontrèrent un notable musulman appelé Cheikh Wajid. Le gourou descendit sous un arbre, et ses porteurs commencèrent à le shampouiner et à l'éventer. Cela donna matière à réflexion à Mardana, qui demanda au gourou s'il n'y avait pas un Dieu pour les riches et un autre pour les pauvres. Le gourou répondit qu'il n'y avait pas <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> n'était qu'un seul Dieu. Mardana posa alors sa question sous une autre forme : « Qui a créé cet homme qui voyage dans une berline de confort alors que ses porteurs sont pieds nus ? Leurs jambes sont nues tandis qu'ils le shampouinent et le ventilent. » Le gourou répondit par les vers suivants :
 
 Ceux qui ont pratiqué des austérités dans leur vie antérieure sont désormais rois et reçoivent un tribut sur terre.
 Ceux qui étaient alors fatigués sont maintenant shampouinés par d'autres.
@@ -50,7 +50,7 @@ Quel est le gourou de qui je devrais recevoir l’instruction et par qui je devr
 Ô mon Bien-Aimé, je ne connais pas Ta limite.
 Tu remplis la mer et la terre, les régions inférieures et supérieures, c'est Toi-même qui es contenu dans tout.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 Mon cœur est la balance, mon intelligence le poids, Ton service est le peseur que j'emploie.
 Je pèse le Seigneur dans mon cœur, et ainsi je fixe mon attention.
@@ -74,7 +74,7 @@ Reste pur au milieu des impuretés du monde ; ainsi tu trouveras le chemin de la
 En rencontrant un véritable gourou, le doute est dissipé et les errances de l’esprit sont contenues.
 Il pleut du nectar, une musique lente et extatique se fait entendre et l'homme est heureux en lui-même.
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Reste pur au milieu des impuretés du monde ; ainsi tu trouveras le chemin de la religion.
 
@@ -91,7 +91,7 @@ Pourquoi irriguer des terres stériles et gaspiller ta vie ?
 Pourquoi appliquer du plâtre sur un mur fragile et branlant ?
 En répétant le nom de Dieu, forme un radeau _pour ton salut_ ; que le Miséricordieux ait pitié de toi !
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 Chatur Das répondit : « Ô saint, le salagram et le collier de basilic doux peuvent en effet être inutiles comme l'irrigation d'une terre stérile, mais dites-moi par quels moyens le sol peut être préparé et Dieu trouvé. » Le gourou répondit :
 
@@ -113,7 +113,7 @@ Le Pandit admit alors que le Guru était un saint de Dieu et lui demanda de bén
 La Cité[^2] est fragile, le roi ; c'est un garçon et il aime les méchants ;
 On dit qu'il a deux mères[^4] et deux pères[^5]. Ô Pandit, réfléchis à cela.
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 Ô, monsieur Pandit, instruisez-moi
 Comment puis-je obtenir le Seigneur de la vie.
@@ -124,7 +124,7 @@ On peut le reconnaître à cette marque selon laquelle il accumule le contenteme
 Le roi demeure avec ceux qui n'écoutent pas les conseils et qui ne sont pas reconnaissants pour ce qu'ils reçoivent.
 Nanak, esclave des esclaves, représente, _ô Dieu_, qu'en un instant tu rends le petit grand et le grand petit.[^6]
 
-Chatur Das demanda des informations complémentaires. « Seigneur, le nom de Dieu sera-t-il obtenu dans une certaine mesure par ce que nous enseignons aux gens et par ce que nous apprenons nous-mêmes ? » Le gourou lui demanda en retour : « Ô maître religieux, qu’as-tu lu ? Qu’enseignes-tu aux gens et quel savoir transmets-tu à tes disciples ? » Le pandit répondit : « Par la volonté de Dieu, j’enseigne aux gens les quatorze sciences : la lecture, la natation, la médecine, l’alchimie, l’astrologie, le chant des six râgs et leurs raginis, la science du plaisir sexuel, la grammaire, la musique, l’équitation, la danse, le tir à l’arc, la théologie et l’art de gouverner. » Le gourou répondit que la connaissance de Dieu était meilleure que tout cela. » Sur ce, il répéta la longue composition intitulée Oamkar dans le Rag <span id="p64">[<sup><small>p. 64</small></sup>]</span> Ramkali, dont les deux premiers pauris ou strophes sont les suivants :
+Chatur Das demanda des informations complémentaires. « Seigneur, le nom de Dieu sera-t-il obtenu dans une certaine mesure par ce que nous enseignons aux gens et par ce que nous apprenons nous-mêmes ? » Le gourou lui demanda en retour : « Ô maître religieux, qu’as-tu lu ? Qu’enseignes-tu aux gens et quel savoir transmets-tu à tes disciples ? » Le pandit répondit : « Par la volonté de Dieu, j’enseigne aux gens les quatorze sciences : la lecture, la natation, la médecine, l’alchimie, l’astrologie, le chant des six râgs et leurs raginis, la science du plaisir sexuel, la grammaire, la musique, l’équitation, la danse, le tir à l’arc, la théologie et l’art de gouverner. » Le gourou répondit que la connaissance de Dieu était meilleure que tout cela. » Sur ce, il répéta la longue composition intitulée Oamkar dans le Rag <span id="p64"><sup><small>[ p. 64 ]</small></sup></span> Ramkali, dont les deux premiers pauris ou strophes sont les suivants :
 
 C'est le Dieu unique qui a créé Brahma;[^1]
 C'est le seul Dieu qui a créé notre intelligence ;
@@ -178,7 +178,7 @@ Réfléchis à cela, ô homme insouciant et stupide,[^1] rien ne sera à toi à 
 Tu ne connais pas Celui qui t'a créé ; médite sur Lui dans ton cœur.
 Dit Nanak, l'enfant a oublié de méditer à la deuxième veille.
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 III.
 
@@ -225,7 +225,7 @@ Le péché est le charbon qui y est ajouté, par lequel l'esprit est chauffé ; 
 L'esprit s'est transformé en scories, mais il redeviendra de l'or lorsqu'il rencontrera un tel gourou.
 Comme il accordera le nom ambroisial du Dieu unique ; alors, Nanak, l'esprit deviendra fixe.[^3]
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Le gourou saisit alors l'occasion de disserter sur le vice particulier du commerçant immoral : « L'homme est volage lorsqu'il contemple une courtisane ; il éprouve alors un désir ardent pour les jeux de l'amour, et ne peut être contenu. En la rencontrant, il perd sa naissance humaine. Privé de sa religion, il tombe en enfer, où il subit le châtiment et se lamente abondamment. C'est pourquoi, ne la regarde pas, mais passe ton temps parmi les saints. »
 
@@ -237,7 +237,7 @@ Les plaisirs et l’auto-éloge, tels sont mes actes, ô Créateur.
 Mes amis, quelqu'un obtient-il de l'honneur par de simples paroles ?
 Appelez les meilleurs ceux qui sont les meilleurs à la porte du Seigneur ; ceux qui commettent des actes ignobles s'assoient et pleurent.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 Il y a du plaisir dans l'or, du plaisir dans l'argent et dans les femmes, du plaisir dans le parfum du santal ;
 Il y a du plaisir dans les chevaux, du plaisir dans les canapés et dans les palais, du plaisir dans les sucreries et du plaisir dans les viandes.
@@ -260,7 +260,7 @@ Ceux qui mangent le fruit de leur travail et en donnent un peu,
 
 Puis le gourou partit de là.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

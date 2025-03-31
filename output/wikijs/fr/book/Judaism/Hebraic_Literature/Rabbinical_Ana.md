@@ -32,9 +32,9 @@ dateCreated: 2025-2-7T10:44:27Z
   </table>
 </figure>
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 On disait de Rabbi Tarphon que, bien que très riche, il manquait de charité compte tenu de ses moyens. Un jour, Rabbi Akiba lui demanda : « Devrais-je investir de l'argent pour toi dans l'immobilier, d'une manière qui te rapporterait beaucoup ? » Rabbi Tarphon répondit par l'affirmative et apporta à Rabbi Akiba quatre mille deniers en or, à utiliser à cette fin. Rabbi Akiba distribua immédiatement cette somme aux pauvres. Quelque temps plus tard, Rabbi Tarphon rencontra Rabbi Akiba et lui demanda où se trouvait le bien immobilier qu'il lui avait acheté. Akiba conduisit son ami au collège et lui montra un petit garçon qui récita pour eux le psaume 112. Arrivé au neuvième verset, il dit : « Il distribue, il donne aux nécessiteux, sa justice dure à jamais. »
 
@@ -50,7 +50,7 @@ On disait de Rabbi Tarphon que, bien que très riche, il manquait de charité co
 
 Rabbi Johanan, fils de Lakkaï, chevauchait un jour hors de Jérusalem, suivi par ses élèves. Ils aperçurent une pauvre femme qui ramassait le grain qui tombait des bouches et des auges d'un troupeau de bovins arabes. Lorsqu'elle aperçut le Rabbi, elle s'adressa à lui en ces mots brefs : « Ô Rabbi, viens à mon secours. » Il répondit : « Ma fille, de qui es-tu la fille ? »
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 « Je suis la fille de Nakdimon, le fils de Guryon », répondit-elle.
 
@@ -98,7 +98,7 @@ Rabbi Ashi a dit : « Celui qui endurcit son cœur par l’orgueil, adoucit son 
 
 Rabbi Josué a dit : « La douceur vaut mieux que le sacrifice » ; car n’est-il pas écrit : « Les sacrifices de Dieu sont un cœur brisé, un esprit brisé et contrit, que toi, ô Seigneur, tu ne méprises pas ? »
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 Le fils de Rabbi Hunnah a dit : « Celui qui possède la connaissance de la loi de Dieu, sans Le craindre, est comme celui à qui ont été confiées les clés intérieures d'un trésor, mais à qui les clés extérieures sont refusées. »
 
@@ -118,7 +118,7 @@ Très étonnés, ses serviteurs lui adressèrent la parole : « Sire ! tout ce q
 
 « Parce que, répondit le monarque, je souhaite que les voyageurs apprennent, par l’action que je vous ordonne maintenant d’accomplir, combien la malhonnêteté est odieuse à mes yeux. »
 
-<span id="p295">[<sup><small>p. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 Rabbi Eleazer a dit : « Celui qui est guidé par la droiture et la justice dans toutes ses actions peut être considéré à juste titre comme ayant imité Dieu dans sa bienfaisance illimitée. Car de Lui (béni soit Son nom) nous lisons : “Il aime la droiture et la justice” ; autrement dit, “La terre est remplie de la bonté de Dieu.” » Pouvons-nous penser qu’une telle démarche est facile ? Non ! La vertu de bienfaisance ne s’acquiert qu’au prix de grands efforts. Sera-t-il difficile, cependant, à celui qui a constamment la crainte de Dieu devant les yeux d’acquérir cet attribut ? Non ; il l’atteindra facilement, celui dont chaque acte est accompli dans la crainte du Seigneur.
 
@@ -132,7 +132,7 @@ Deuxièmement, il n’était jamais allé se coucher avec un cœur nourrissant d
 
 Troisièmement, il n'était pas avare, suivant l'exemple du juste Job, dont les sages rapportent qu'il refusa de recevoir la monnaie qui lui était due après avoir fait un achat.
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 Un autre rabbin, portant également le nom de Nechumah, répondit à Rabbi Akiba qu'il se croyait béni d'une longue vie car, dans l'exercice de ses fonctions, il avait toujours refusé d'accepter des cadeaux, se souvenant de ce qu'avait écrit Salomon : « Celui qui hait les cadeaux vivra. » Il estimait qu'un autre de ses mérites était de ne jamais s'offenser d'une offense, se souvenant des paroles de Rabba : « Celui qui est indulgent envers les fautes d'autrui sera traité avec miséricorde par le Juge suprême. »
 
@@ -168,7 +168,7 @@ Un homme, un meunier, avait son père vivant chez lui, à une époque où tous c
 
 Il disait cela parce que ceux qui travaillaient pour le gouvernement étaient battus si leur travail s'avérait insatisfaisant, et il pensait : « Mieux vaut pour moi courir le risque d'être battu que de laisser mon père le risquer. » Il méritait donc la récompense du fils qui « honore son père ».
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 Rabbi Chiyah affirmait que Dieu préférait honorer ses parents plutôt que lui-même. « Il est écrit, dit-il, "Honore le Seigneur avec tes biens." Comment ? Par la charité, les bonnes actions, en plaçant la mezouza sur tes montants de porte, en te construisant un tabernacle pour Soukkoth, etc. ; tout cela si tu en as les moyens. Si tu es pauvre, l'omission n'est pas considérée comme un péché ou une négligence. Mais il est écrit : "Honore ton père et ta mère", et ce devoir est exigé aussi bien des riches que des pauvres ; même si tu étais obligé de mendier pour eux de porte en porte. »
 
@@ -190,7 +190,7 @@ Simon, fils de Jochaï, dit : « De même que la récompense est grande pour ceu
 
 Rabbi Jochanan a dit : « Il est préférable d’étudier la nuit, quand tout est calme, comme il est écrit : « Criez des louanges dans la nuit. »
 
-<span id="p299">[<sup><small>p. 299</small></sup>]</span>
+<span id="p299"><sup><small>[ p. 299 ]</small></sup></span>
 
 Reshbi Lakish a dit : « Étudiez jour et nuit, comme il est écrit : Tu méditeras là-dessus jour et nuit. »
 
@@ -224,7 +224,7 @@ Un rabbin a demandé : « Pourquoi la parole de Dieu est-elle comparée à l’e
 
 Un autre rabbin demanda : « Pourquoi la Parole de Dieu a-t-elle été comparée au vin et au lait ? » La réponse fut : « De même que ces fluides ne peuvent être conservés dans des récipients en or, mais seulement en terre cuite, de même les esprits qui se trouvent dans des corps ordinaires sont les meilleurs réceptacles de savoir. »
 
-Rabbi Joshua ben Chaninah, qui était d'apparence très laide, possédait une grande sagesse et une grande érudition ; et l'un de ses dictons favoris était que « bien que beaucoup aient fait preuve d'une vaste quantité de connaissances, malgré leurs <span id="p301">[<sup><small>p. 301</small></sup>]</span> attraits personnels, s'ils avaient été moins beaux, leurs connaissances auraient pu être plus étendues. »
+Rabbi Joshua ben Chaninah, qui était d'apparence très laide, possédait une grande sagesse et une grande érudition ; et l'un de ses dictons favoris était que « bien que beaucoup aient fait preuve d'une vaste quantité de connaissances, malgré leurs <span id="p301"><sup><small>[ p. 301 ]</small></sup></span> attraits personnels, s'ils avaient été moins beaux, leurs connaissances auraient pu être plus étendues. »
 
 Les préceptes sont comparés à une lampe ; la loi de Dieu à une lumière. La lampe n'éclaire que tant qu'elle contient de l'huile. Ainsi, celui qui observe les préceptes reçoit sa récompense en les accomplissant. La loi, quant à elle, est une lumière perpétuelle ; elle protège éternellement celui qui l'étudie, comme il est écrit :
 
@@ -238,7 +238,7 @@ L'obscurité dans laquelle l'homme marchait résultait de son manque de connaiss
 
 « Un bon nom est plus parfumé qu'un riche parfum, et le jour de la mort est meilleur que le jour de la naissance. »
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 Rabbi Jochanan, fils de Broka, et Rabbi Eléazar, fils de Kismah, rendirent visite à leur maître, Rabbi Josah, et il leur dit :
 
@@ -284,7 +284,7 @@ Rabba disait toujours que la possession de la sagesse et la connaissance de la l
 
 Rabba a dit : « Les Saintes Écritures ne nous disent pas qu'étudier les commandements de Dieu témoigne d'une bonne compréhension, mais qu'il faut les mettre en pratique. Cependant, nous devons apprendre avant de pouvoir les mettre en pratique ; et celui qui agit de son vivant contrairement aux enseignements du Très-Haut aurait mieux fait de ne jamais naître. »
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 « L’homme sage est grand dans ses plus petites actions ; l’insensé est petit dans ses plus grandes actions. »
 
@@ -302,7 +302,7 @@ Lorsque les âmes comparaissent devant le tribunal de Dieu, on demande aux pauvr
 
 Quand on interroge l'homme riche et qu'il répond que le soin de sa fortune occupait son temps, on lui dit que Rabbi Eléazar possédait mille forêts et mille navires, et pourtant il abandonna tout le luxe de la richesse et voyagea de ville en ville à la recherche et à l'explication de la loi.
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 Lorsque le méchant invoque la tentation comme excuse pour sa mauvaise conduite, on lui demande s'il a été plus tenté que Joseph, plus cruellement éprouvé que lui, par la bonne ou la mauvaise fortune.
 
@@ -328,7 +328,7 @@ Non. Il ne les a pas tant ordonnés qu'il les a permis. « C'est pour vous », d
 
 Un roi avait un fils qu'il découvrait chaque jour en train de faire la fête avec des compagnons dissolus, mangeant et buvant.
 
-<span id="p306">[<sup><small>p. 306</small></sup>]</span>
+<span id="p306"><sup><small>[ p. 306 ]</small></sup></span>
 
 « Mange à ma table, dit le roi ; mange et bois, mon fils, comme il te plaît ; mais que ce soit à ma table, et non avec des compagnons dissolus. »
 
@@ -354,7 +354,7 @@ Rabbi Chelboh a dit : « Nous ne devons pas nous précipiter lorsque nous quitto
 
 « Ceci, dit Abayyeh, concerne le fait de quitter un lieu de culte ; mais nous devons certainement nous hâter d’y aller, comme il est écrit : « Sachons et hâtons-nous de servir le Seigneur. »
 
-Rabbi Zabid a dit : « Quand je voyais les rabbins se précipiter à une conférence pour obtenir de bonnes places, je me disais : “Ils violent le Chabbat.” » Cependant, lorsque j’entendais Rabbi Tarphon dire : “Il faut toujours se hâter d’accomplir un commandement, même le Chabbat”, <span id="p307">[<sup><small>p. 307</small></sup>]</span> comme il est écrit : “Ils suivront le Seigneur quand il rugira comme un lion”, je me dépêchais également pour être présent tôt. »
+Rabbi Zabid a dit : « Quand je voyais les rabbins se précipiter à une conférence pour obtenir de bonnes places, je me disais : “Ils violent le Chabbat.” » Cependant, lorsque j’entendais Rabbi Tarphon dire : “Il faut toujours se hâter d’accomplir un commandement, même le Chabbat”, <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> comme il est écrit : “Ils suivront le Seigneur quand il rugira comme un lion”, je me dépêchais également pour être présent tôt. »
 
 Le lieu où nous pouvons le mieux prier Dieu est sa maison, comme il est écrit :
 
@@ -376,7 +376,7 @@ Vos personnages bibliques ont offert leurs prières avec insouciance et irréfl�
 
 Si un esclave était apparu et avait répondu à toutes les exigences d'Éléazar, Abraham et Isaac auraient-ils été satisfaits ? Mais Dieu fit prospérer sa mission, et « Rébecca sortit ».
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 Caleb dit : « Celui qui frappera Kiryath-Sépher et s'en emparera, je lui donnerai pour femme ma fille Acsa. »
 
@@ -412,7 +412,7 @@ Joseph, un Juif qui respectait le sabbat, avait un voisin très riche, fervent p
 
 On demanda à Rabbi Ismaël, fils de Josué : « Comment les riches du pays d'Israël sont-ils devenus si riches ? » Il répondit : « Ils donnaient leurs dîmes au temps convenable, comme il est écrit : “Tu donneras la dîme, afin de devenir riche.” » « Mais », répondit son interlocuteur, « les dîmes n'étaient données aux Lévites que tant que le temple sacré existait. Quel mérite possédaient-ils lorsqu'ils résidaient à Babel, pour y devenir riches aussi ? » « Parce que », répondit le Rabbi, « ils honoraient la Sainte Loi en l'expliquant. » « Mais dans d'autres pays, où ils n'expliquaient pas la Loi, comment méritaient-ils la richesse ? » « En honorant le sabbat », fut la réponse.
 
-<span id="p310">[<sup><small>p. 310</small></sup>]</span>
+<span id="p310"><sup><small>[ p. 310 ]</small></sup></span>
 
 Rabbi Achiya, fils d'Abah, raconta : « J'ai séjourné un jour à Ludik et j'ai été reçu par un homme riche le jour du sabbat. La table était dressée avec un repas somptueux, et les plats étaient en argent et en or. Avant de bénir le repas, le maître de maison dit : “À l'Éternel appartient la terre et tout ce qu'elle contient.” Après la bénédiction, il ajouta : “Les cieux sont les cieux de l'Éternel, mais il a donné la terre aux enfants des hommes.” Je dis à mon hôte : “J'espère que vous m'excuserez, mon cher monsieur, si je me permets de vous demander comment vous avez mérité cette prospérité.” Il répondit : “J'étais autrefois boucher et je sélectionnais toujours le meilleur bétail pour le sabbat, afin que le peuple puisse avoir la meilleure viande ce jour-là. C'est à cela, j'en suis convaincu, que je dois ma prospérité.” « J’ai répondu : « Béni soit le Seigneur de t’avoir donné tout cela. »
 
@@ -428,7 +428,7 @@ Mais si la maison n'est pas prête, si aucun préparatif n'a été fait pour acc
 
 « Que tous tes sabbats soient ainsi » ; et l’ange de bonté en pleurs répond : « Amen ! »
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 Samson pécha contre l'Éternel par ses yeux, comme il est écrit : « J'ai vu une femme d'entre les filles des Philistins… Celle-ci me convient, car elle me plaît. » C'est pourquoi il fut puni par ses yeux, comme il est écrit : « Les Philistins le saisirent et lui crevèrent les yeux. »
 
@@ -442,7 +442,7 @@ Joseph enterra son père. « Et Joseph monta pour enterrer son père. » Parmi l
 
 Quand les ennuis et le chagrin deviennent la part d’Israël, et que les cœurs abattus se séparent de leur peuple, deux anges posent leurs mains sur la tête de celui qui se retire, en disant : « Celui-ci ne verra pas la consolation de l’assemblée. »
 
-Quand des difficultés frappent la congrégation, il n'est pas juste pour un homme de dire : « Je vais rentrer chez moi, je mangerai et boirai, et tout ira bien pour moi. » C'est d'un tel homme que parle le livre saint, en disant : « Et voici, il y a de la joie et de l'allégresse ; on tue des bœufs et on tue des moutons ; on mange de la viande et on boit du vin. Mangeons et buvons, car demain nous mourrons. » Et cela m'a été révélé <span id="p312">[<sup><small>p. 312</small></sup>]</span> par le Seigneur des Armées : certainement l'iniquité ne vous sera pas pardonnée avant votre mort. »
+Quand des difficultés frappent la congrégation, il n'est pas juste pour un homme de dire : « Je vais rentrer chez moi, je mangerai et boirai, et tout ira bien pour moi. » C'est d'un tel homme que parle le livre saint, en disant : « Et voici, il y a de la joie et de l'allégresse ; on tue des bœufs et on tue des moutons ; on mange de la viande et on boit du vin. Mangeons et buvons, car demain nous mourrons. » Et cela m'a été révélé <span id="p312"><sup><small>[ p. 312 ]</small></sup></span> par le Seigneur des Armées : certainement l'iniquité ne vous sera pas pardonnée avant votre mort. »
 
 Notre maître, Moïse, prenait toujours sa part des difficultés de la congrégation, comme il est écrit : « Ils prirent une pierre et la mirent sous lui. » N'auraient-ils pas pu lui donner une chaise ou un coussin ? Mais il dit alors : « Puisque les Israélites sont en difficulté (pendant la guerre contre Amalek), voici, je porterai ma part avec eux, car celui qui porte sa part du fardeau vivra pour savourer l'heure de la consolation. Malheur à celui qui pense : “Ah ! je négligerai mon devoir ! Qui peut savoir si j'assume ma part ou non ?” Même les pierres de sa maison, oui, les branches des arbres, témoigneront contre lui, comme il est écrit : “Car les pierres crieront du haut de la muraille, et les branches des arbres témoigneront.” »
 
@@ -454,7 +454,7 @@ Rabbi Simon, fils d'Éléazar, dit : « As-tu déjà remarqué avec quelle facil
 
 Rabbi Judah a dit : « La plupart des muletiers sont cruels. Ils frappent leurs pauvres bêtes sans pitié. La plupart des chameliers sont intègres. Ils traversent des déserts et des endroits dangereux, et prennent le temps de méditer et de penser à Dieu. »
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 La majorité des marins sont religieux. Leurs périls quotidiens les rendent tels. Les meilleurs médecins méritent d'être punis. En quête de savoir, ils expérimentent sur leurs patients, souvent avec des résultats fatals. Les meilleurs bouchers méritent d'être comparés aux Amalécites, habitués au sang et à la cruauté ; comme il est écrit à leur sujet : « Comment il t'a rencontré en chemin et a frappé tes arrières, et ceux qui étaient faibles derrière toi, alors que tu étais faible et épuisé. »
 
@@ -476,7 +476,7 @@ Alexandre se dirigea vers les portes du Paradis et frappa pour entrer.
 
 « Nous ne le connaissons pas, répondit l’ange ; c’est ici la porte du Seigneur, seuls les justes entrent ici. »
 
-Alexandre demanda une preuve qu'il avait atteint les portes du Paradis, et un petit morceau de crâne lui fut donné. Il le montra à ses mages, qui le placèrent dans un plateau. Alexandre versa de l'or <span id="p314">[<sup><small>p. 314</small></sup>]</span> et de l'argent dans l'autre plateau, mais le petit os pesait plus lourd ; il en versa davantage, ajoutant ses joyaux de la couronne et son diadème ; mais l'os pesait toujours plus lourd. Alors l'un des mages, prenant un grain de poussière du sol, le déposa sur l'os, et voilà que le plateau s'envola.
+Alexandre demanda une preuve qu'il avait atteint les portes du Paradis, et un petit morceau de crâne lui fut donné. Il le montra à ses mages, qui le placèrent dans un plateau. Alexandre versa de l'or <span id="p314"><sup><small>[ p. 314 ]</small></sup></span> et de l'argent dans l'autre plateau, mais le petit os pesait plus lourd ; il en versa davantage, ajoutant ses joyaux de la couronne et son diadème ; mais l'os pesait toujours plus lourd. Alors l'un des mages, prenant un grain de poussière du sol, le déposa sur l'os, et voilà que le plateau s'envola.
 
 L'os était ce qui entoure l'œil de l'homme ; l'œil de l'homme que rien ne peut satisfaire, sauf la poussière qui le recouvre dans la tombe.
 
@@ -494,7 +494,7 @@ Quand les flammes dévorantes s'emparent du cèdre, l'humble hysope ne tremblera
 
 Pleurez ceux qui restent ; ne pleurez pas celui que Dieu a enlevé de la terre. Il est entré dans le repos éternel, tandis que nous sommes accablés de chagrin.
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 Rabbi Akiba voyageait un jour à travers le pays, et il avait avec lui un âne, un coq et une lampe.
 
@@ -516,7 +516,7 @@ Un jour, alors que Rabbi Gamliel, Rabbi Éléazar, fils d'Azaria, Rabbi Juda et 
 
 « Vous me demandez pourquoi je suis joyeux », dit-il ; « allez, dites-moi pourquoi vous pleurez ? »
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 « Parce que la Bible nous dit qu'un étranger (qui ne descend pas d'Aaron) qui s'approche du lieu très saint sera mis à mort, et maintenant, voici que les renards en font une demeure. Pourquoi ne pleurerions-nous pas ? »
 
@@ -530,7 +530,7 @@ Une autre fois encore, alors que Rabbi Éléazar était gravement malade et que 
 
 Pendant que Rabbi Eléazar était malade, les quatre anciens, Rabbi Tarphon, Rabbi Josué, Rabbi Eléazar, fils d'Azoria, et Rabbi Akiba, vinrent le voir.
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 « Tu es meilleur pour Israël que les gouttes de pluie pour la terre, ou les gouttes de pluie ne sont que pour ce monde, tandis que toi, mon maître, tu as aidé à la maturation des fruits pour ce monde et le suivant », dit Rabbi Tarphon.
 
@@ -600,7 +600,7 @@ Et Papus répondit :
 
 Lorsque Rabbi Akiba fut conduit à l’exécution, c’était juste au moment de l’office du matin.
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 « Écoute, Israël ! Le Seigneur notre Dieu est le seul Seigneur ! » s’écria-t-il d’une voix forte et ferme.
 
@@ -648,7 +648,7 @@ Ce dernier le salua et lui demanda :
 
 Qu’est-ce qui a poussé un homme aussi instruit qu’Élisée à se tourner vers de mauvaises voies ?
 
-On raconte qu'un jour, alors qu'il étudiait la loi dans la vallée de Genusan, il vit un homme grimper à un arbre. L'homme y trouva un nid d'oiseau et, emportant la mère avec les petits, il s'en alla en paix. Il vit un autre homme qui, trouvant un nid d'oiseau, suivit le commandement de la Bible et ne prit que les petits, laissant la mère s'envoler ; pourtant, un serpent le piqua en descendant, et il mourut. « Maintenant », pensa-t-il, « où sont la vérité et les promesses de la Bible ? N'est-il pas écrit : “Tu peux prendre les petits pour toi, mais tu laisseras la mère partir, afin que tu sois heureux et que tu vives longtemps. » Or, où est la longue vie de cet homme qui <span id="p322">[<sup><small>p. 322</small></sup>]</span> a suivi le précepte, tandis que celui qui l'a transgressé est indemne ? »
+On raconte qu'un jour, alors qu'il étudiait la loi dans la vallée de Genusan, il vit un homme grimper à un arbre. L'homme y trouva un nid d'oiseau et, emportant la mère avec les petits, il s'en alla en paix. Il vit un autre homme qui, trouvant un nid d'oiseau, suivit le commandement de la Bible et ne prit que les petits, laissant la mère s'envoler ; pourtant, un serpent le piqua en descendant, et il mourut. « Maintenant », pensa-t-il, « où sont la vérité et les promesses de la Bible ? N'est-il pas écrit : “Tu peux prendre les petits pour toi, mais tu laisseras la mère partir, afin que tu sois heureux et que tu vives longtemps. » Or, où est la longue vie de cet homme qui <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> a suivi le précepte, tandis que celui qui l'a transgressé est indemne ? »
 
 Il n'avait pas entendu comment Rabbi Akiba avait expliqué ce verset, selon lequel les jours seraient longs dans le monde futur où tout serait bonheur.
 
@@ -672,7 +672,7 @@ Les collèges ont écouté l’appel et ont soutenu les filles d’Élisée.
 
 ---
 
-Rabbi Juda, Rabbi Joseph et Rabbi Simon discutaient un jour, lorsque Juda ben Gerim entra dans l'appartement et s'assit avec eux trois. Rabbi Juda <span id="p323">[<sup><small>p. 323</small></sup>]</span> s'adressait aux Gentils (Romains) sur un ton élogieux. « Voyez », dit-il, « comme ils ont amélioré leurs villes, comme ils les ont embellies, et tout ce qu'ils ont fait pour le confort et la commodité des citoyens ; bains publics, ponts, belles rues larges, il faut certainement leur rendre hommage. »
+Rabbi Juda, Rabbi Joseph et Rabbi Simon discutaient un jour, lorsque Juda ben Gerim entra dans l'appartement et s'assit avec eux trois. Rabbi Juda <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> s'adressait aux Gentils (Romains) sur un ton élogieux. « Voyez », dit-il, « comme ils ont amélioré leurs villes, comme ils les ont embellies, et tout ce qu'ils ont fait pour le confort et la commodité des citoyens ; bains publics, ponts, belles rues larges, il faut certainement leur rendre hommage. »
 
 « Non », répondit le rabbin Simon, « tout ce qu'ils ont fait était motivé par des motifs égoïstes. Les ponts leur rapportent des revenus, car tous ceux qui les utilisent sont taxés ; les bains publics servent à leur décoration personnelle : c'est de l'égoïsme, pas du patriotisme. »
 
@@ -686,7 +686,7 @@ Quittant la ville, Simon et son fils se réfugièrent dans une grotte isolée. P
 
 Lorsque Rabbi Phineas, son gendre, apprit son retour, il alla immédiatement le voir et, remarquant une apparente négligence dans l'état mental et physique de son parent, il s'exclama : « Malheur, malheur ! que je te rencontre dans un si triste état ! »
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 Mais Rabbi Simon répondit :
 
@@ -716,7 +716,7 @@ Mais le roi était sage, et il répondit :
 
 « Voici, l’aveugle portait le boiteux, et il les punit en conséquence.
 
-Il en est de même pour nous. Le monde est le verger où le Roi Éternel nous a placés pour veiller et surveiller, <span id="p325">[<sup><small>p. 325</small></sup>]</span> pour cultiver son sol et prendre soin de ses fruits. Mais l'âme et le corps sont l'homme ; si l'un viole les préceptes, l'autre en fait autant, et après la mort, l'âme ne peut pas dire : « C'est la faute du corps auquel j'étais attachée si j'ai commis des péchés » ; non, Dieu fera comme le propriétaire du verger, comme il est écrit :
+Il en est de même pour nous. Le monde est le verger où le Roi Éternel nous a placés pour veiller et surveiller, <span id="p325"><sup><small>[ p. 325 ]</small></sup></span> pour cultiver son sol et prendre soin de ses fruits. Mais l'âme et le corps sont l'homme ; si l'un viole les préceptes, l'autre en fait autant, et après la mort, l'âme ne peut pas dire : « C'est la faute du corps auquel j'étais attachée si j'ai commis des péchés » ; non, Dieu fera comme le propriétaire du verger, comme il est écrit :
 
 « Il appellera du haut des cieux et sur la terre pour juger son peuple. »
 
@@ -752,7 +752,7 @@ L’empereur répondit : « J’aimerais que de tels voleurs viennent chaque nui
 
 Il en fut de même pour Adam : Dieu prit une côte de lui, mais mit une femme à sa place.
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 Rabbi Joshua, de Saknin, a dit au nom de Rabbi Levi : « Le Seigneur a considéré de quelle partie de l'homme il devait former la femme ; non pas de la tête, de peur qu'elle ne soit orgueilleuse ; non pas des yeux, de peur qu'elle ne veuille tout voir ; non pas de la bouche, de peur qu'elle ne soit bavarde ; ni de l'oreille, de peur qu'elle ne veuille tout entendre ; ni du cœur, de peur qu'elle ne soit jalouse ; ni de la main, de peur qu'elle ne veuille tout savoir ; ni des pieds afin qu'elle ne soit pas vagabonde ; seulement de l'endroit le plus caché, qui est couvert même lorsqu'un homme est nu, à savoir la côte. »
 
@@ -770,7 +770,7 @@ Lorsque Rabbi Eléazar était malade, ses érudits lui rendirent visite et lui d
 
 Le rabbin répondit : « Honore tes camarades. Sache qui tu pries. Empêche tes enfants de conversations frivoles et place-les parmi les hommes instruits, afin qu'ils acquièrent la sagesse. C'est ainsi que tu mériteras la vie dans le monde futur. »
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 Lorsque Rabbi Yohanan était malade, ses érudits l'invoquèrent également. À leur vue, il fondit en larmes.
 
@@ -818,9 +818,9 @@ De nouveau, Guébia apparaît comme conseiller des sages.
 
 « D'après le Pentateuque, qui est votre preuve, je vous confondrai », dit-il. « N'est-il pas écrit : “Abraham donna tout ce qu'il possédait à Isaac, mais aux fils de ses concubines, Abraham fit des présents ?” Celui qui donne son héritage à ses enfants de son vivant n'a pas l'intention de le leur restituer après sa mort. Abraham laissa tout ce qu'il possédait à Isaac ; à ses autres enfants, il fit des présents et les renvoya. »
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

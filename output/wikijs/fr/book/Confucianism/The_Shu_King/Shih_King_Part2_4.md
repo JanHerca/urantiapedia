@@ -42,7 +42,7 @@ UN OFFICIER, EN SERVICE LONGTEMPS À L'ÉTRANGER, FAIT APPEL AU CIEL, DÉPLORANT
 
 Ô Ciel brillant et élevé, qui éclaires et gouvernes ce monde inférieur ! J'ai entrepris cette expédition vers l'ouest, jusqu'au désert de Khiû. Dès le premier jour du deuxième mois, j'ai traversé le froid et la chaleur. Mon cœur est triste ; le poison (de mon sort) est trop amer. Je pense à ceux (à la cour) dans leurs fonctions, et mes larmes coulent comme la pluie. Ne désire-je pas revenir ? Mais je crains le filet du crime.
 
-Ah ! Messieurs, ne comptez pas sur votre repos <span id="p365">[<sup><small>p. 365</small></sup>]</span> pour être permanent. Accomplissez tranquillement vos devoirs, en fréquentant les personnes correctes et intègres ; ainsi les esprits vous écouteront et vous donneront du bien.
+Ah ! Messieurs, ne comptez pas sur votre repos <span id="p365"><sup><small>[ p. 365 ]</small></sup></span> pour être permanent. Accomplissez tranquillement vos devoirs, en fréquentant les personnes correctes et intègres ; ainsi les esprits vous écouteront et vous donneront du bien.
 
 Ah ! Messieurs, ne comptez pas sur un repos éternel. Accomplissez tranquillement vos devoirs, en aimant les personnes justes et intègres ; ainsi les esprits vous écouteront et vous combleront d'un bonheur éclatant.
 
@@ -56,11 +56,11 @@ Voir les remarques sur les Services du Temple Ancestral, pp. [300](Shih_King_Par
 
 Le tribulus poussait épais (sur le sol), mais ils ont arraché ses buissons épineux. Pourquoi ont-ils fait cela autrefois ? Pour que nous puissions planter notre millet et notre millet sacrificiel ; pour que notre millet soit abondant, et notre millet sacrificiel luxuriant. Lorsque nos greniers sont pleins, et que nos meules se comptent par dizaines de myriades, nous procédons à la fabrication d'esprits et de céréales préparées, pour les offrandes et les sacrifices. Nous faisons asseoir les représentants des morts et les exhortons à manger [^437] : cherchant ainsi à accroître notre bonheur radieux.
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Avec un comportement correct et respectueux, taureaux et béliers tous purs, nous procédons aux sacrifices d'hiver et d'automne. Certains écorchent (les victimes) ; d'autres cuisent (leur chair) ; certains arrangent (la viande) ; d'autres ajustent (les morceaux). L'officier de prière sacrifie à l'intérieur de la porte du temple [^438], et tout le service sacrificiel est complet et brillant. Nos ancêtres arrivent avec grandeur ; leurs esprits savourent joyeusement les offrandes ; leur descendant filial reçoit la bénédiction : ils le récompenseront d'un grand bonheur, de myriades d'années, d'une vie sans fin.
 
-Ils s'occupent des fourneaux avec révérence ; Ils préparent les plateaux, qui sont très grands ; Certains pour la viande rôtie, d'autres pour la viande grillée. Les épouses qui président sont calmes et respectueuses [^439], Préparant les nombreux (plus petits) plats. Les invités et les visiteurs [^440] Présentent la coupe à tout le monde [^441]. Chaque forme est conforme à la règle ; Chaque sourire et chaque mot sont comme ils devraient l'être. Les esprits viennent tranquillement, Et répondent <span id="p367">[<sup><small>p. 367</small></sup>]</span> par de grandes bénédictions, — Des myriades d'années comme récompense (appropriée).
+Ils s'occupent des fourneaux avec révérence ; Ils préparent les plateaux, qui sont très grands ; Certains pour la viande rôtie, d'autres pour la viande grillée. Les épouses qui président sont calmes et respectueuses [^439], Préparant les nombreux (plus petits) plats. Les invités et les visiteurs [^440] Présentent la coupe à tout le monde [^441]. Chaque forme est conforme à la règle ; Chaque sourire et chaque mot sont comme ils devraient l'être. Les esprits viennent tranquillement, Et répondent <span id="p367"><sup><small>[ p. 367 ]</small></sup></span> par de grandes bénédictions, — Des myriades d'années comme récompense (appropriée).
 
 Nous sommes très épuisés, et avons accompli chaque cérémonie sans erreur. L'officier de prière compétent annonce (la volonté des esprits) [^442]. Et va vers le descendant filial pour la transmettre [^442] : — Parfumé a été votre sacrifice filial, et les esprits ont apprécié vos esprits et vos mets. Ils vous confèrent cent bénédictions ; chacune comme désirée, chacune aussi sûre que la loi. Vous avez été exact et expéditif ; vous avez été correct et prudent ; ils vous conféreront toujours les faveurs les plus précieuses, par myriades et dizaines de myriades.
 
@@ -82,7 +82,7 @@ Au-dessus de nos têtes, le ciel est une voûte de nuages, qui neigent en flocon
 
 Les frontières et les divisions plus petites sont soigneusement établies, et les millets donnent d'abondantes récoltes, la moisson du lointain descendant. Nous nous efforçons d'en fabriquer des spiritueux et de la nourriture, pour approvisionner nos représentants des défunts et nos hôtes ; pour obtenir une longue vie, s'étendant sur des myriades d'années.
 
-Au milieu des champs se trouvent les huttes [^450], et <span id="p370">[<sup><small>p. 370</small></sup>]</span> le long des divisions limitrophes se trouvent des courges. Les fruits sont tranchés et marinés, pour être offerts à nos grands ancêtres, afin que leurs lointains descendants puissent avoir une longue vie, et recevoir la bénédiction du Ciel [^451].
+Au milieu des champs se trouvent les huttes [^450], et <span id="p370"><sup><small>[ p. 370 ]</small></sup></span> le long des divisions limitrophes se trouvent des courges. Les fruits sont tranchés et marinés, pour être offerts à nos grands ancêtres, afin que leurs lointains descendants puissent avoir une longue vie, et recevoir la bénédiction du Ciel [^451].
 
 Nous sacrifions (d'abord) avec des esprits clairs, Et puis nous suivons avec un taureau rouge ; Les offrant à nos ancêtres, (Notre seigneur) tient le couteau avec des clochettes tintantes, Pour ouvrir les cheveux de la victime, Et prend le sang et la graisse [^452].
 
@@ -96,7 +96,7 @@ Images d'élevage et de sacrifices qui y sont liés. Bonne entente entre le peup
 
 Il est difficile de dire qui est le « je » dans la pièce, mais il est évident que lui et le « descendant lointain » sont des personnes différentes. Je suppose qu'il s'agissait peut-être d'un officier responsable des fermes, comme on pourrait les appeler, du domaine royal.
 
-Lumineux sont ces vastes champs, dont un dixième de la production est prélevé chaque année [^453]. Je prends les vieux <span id="p371">[<sup><small>p. 371</small></sup>]</span> greniers, et avec eux je nourris les cultivateurs. Depuis toujours, nous avons eu de bonnes années ; et maintenant je vais dans les terres exposées au sud, où certains sarclent, et d'autres ramassent la terre autour des racines. Les millets semblent luxuriants ; et dans un lieu de repos spacieux, je rassemble et encourage les hommes les plus prometteurs [^454].
+Lumineux sont ces vastes champs, dont un dixième de la production est prélevé chaque année [^453]. Je prends les vieux <span id="p371"><sup><small>[ p. 371 ]</small></sup></span> greniers, et avec eux je nourris les cultivateurs. Depuis toujours, nous avons eu de bonnes années ; et maintenant je vais dans les terres exposées au sud, où certains sarclent, et d'autres ramassent la terre autour des racines. Les millets semblent luxuriants ; et dans un lieu de repos spacieux, je rassemble et encourage les hommes les plus prometteurs [^454].
 
 Avec mes vases remplis de millet éclatant et mes béliers-victimes purs, nous avons sacrifié sur l'autel des esprits de la terre et sur les autels de ceux des quatre quartiers [^455]. Que mes champs soient en si bon état est une source de joie pour les cultivateurs. Au son des luths et des tambours, nous invoquerons le Père de l'Agriculture [^456] et prierons pour une douce pluie, afin d'accroître la production de nos millets et de bénir mes hommes et leurs femmes.
 
@@ -114,7 +114,7 @@ Les champs sont vastes et le travail à accomplir varié. Après avoir sélectio
 
 Il s'épanouit et le fruit repose tendre dans son enveloppe ; il durcit et est de bonne qualité ; il n'y a ni herbe à queue de loup ni ivraie. Nous éliminons les insectes qui mangent le cœur et les feuilles, et ceux qui mangent les racines et les articulations, afin qu'ils ne nuisent pas aux jeunes plants de nos champs. Que l'esprit, le Père de l'Agriculture [^457], les saisisse et les jette dans le feu ardent !
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 Les nuages ​​se forment en masses denses. Et la pluie tombe lentement. Puisse-t-elle d'abord pleuvoir sur nos champs publics [^458], Et ensuite venir sur nos terres privées. Là-bas, il y aura de jeunes céréales non moissonnées, Et ici quelques bottes non ramassées ; Là-bas, il y aura des poignées laissées sur le sol, Et ici des épis intacts : — Pour le bien de la veuve [^459].
 

@@ -103,7 +103,7 @@ Et surveillez le lit où Báli est couché.
 Il respire encore avec de lents et faibles soupirs.
 Allongez Báli sur le sol : ses yeux,
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Humide des larmes de la mort, il se leva,
 En conquérant Sugríva regarda,
@@ -216,7 +216,7 @@ Le poids des combats meurtriers d'antan
 Avec Golabh le Gandharva, quand,
 D'une durée de cinq longues années et dix,
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 Le terrible conflit n'a pas connu de répit
 Dans l'obscurité de la nuit, dans l'éclat du jour ;
@@ -342,7 +342,7 @@ De qui naissent notre bonheur et notre honneur.
 Obéissant aux ordres de sa mère
 Il pressa doucement les pieds de son père
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 Avec les bras croisés et les mains attardées :
 « Père », s’écria-t-il, « là se tient Angad ».
@@ -455,7 +455,7 @@ Avec une force écrasante sur mon âme :
 Ainsi s'accumule la pluie qui tombe
 Dans le creux profond de la plaine.
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 
 
@@ -575,7 +575,7 @@ Utilisé lorsque les monarques les plus fiers meurent :
 Comme pour un roi de la plus grande influence.
 « Faites ses obsèques aujourd'hui »,
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 Sugríva a donné son haut commandement ;
 Puis la princière Tára et les autres,
@@ -696,7 +696,7 @@ Et j'ai suivi une voie juste pour tenir
 Des cadeaux comme la jeunesse de son père ornent
 Né aîné de l'aîné né.
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 C'est le premier mois de Srávana [^613]
 De ceux qui voient les nuages ​​de pluie éclater.
@@ -791,7 +791,7 @@ Le grand huzza et le cri joyeux.
 « Bien joué ! bien joué ! » s'écria chaque Vánar.
 Et la bonne Sugríva glorifiée.
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 Puis, avec des voix joyeuses et fortes,
 Rama et son frère furent loués ;
@@ -915,7 +915,7 @@ Plus cher à Rama que sa vie.
 Chef quand il a vu le Seigneur de la Nuit
 S'élever lentement sur la hauteur orientale,
 
-<span id="p358">[<sup><small>p. 358</small></sup>]</span>
+<span id="p358"><sup><small>[ p. 358 ]</small></sup></span>
 
 Il se jeta sur son lit de feuilles
 Avec des yeux non visités par le sommeil.
@@ -1019,7 +1019,7 @@ Chaque torrent du sommet se déversait
 Fournit la place du cordon sacré. [^621]
 Et les vents qui gémissent dans leurs cavernes.
 
-<span id="p359">[<sup><small>p. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 Cela ressemble au ton sous-jacent de la voix. [^622]
 D'est en ouest, des éclairs rouges jaillissent,
@@ -1103,7 +1103,7 @@ Et chaque noble espoir s’est réalisé.
 Avec la royale Rumá à ses côtés,
 Ou Tará une épouse encore plus chère,
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 Il a passé chaque jour et chaque nuit joyeuse
 Dans la joie et la joie sauvage,
@@ -1222,7 +1222,7 @@ De ses bras affectueux arrachés à jamais.
 Il pleurait l'occasion qui passait,
 Et faible d'angoisse, je poussais chaque soupir
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 Il était assis là où se trouvaient de nombreuses séquences variées
 Le sommet de la montagne était marqué par un minerai riche.
@@ -1338,7 +1338,7 @@ Mais l'emprise du plaisir les fait maintenant sombrer
 Avec toi, mon frère, pour allié
 Cette force et cette valeur que je défie
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 Il a promis, quand les pluies cesseraient,
 Le secours de son bras à prêter.

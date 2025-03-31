@@ -90,7 +90,7 @@ E. B. COWELL.
 
 [^2]: vii:3 iv. 148.
 
-[^3]: viii:1 traduction de Beal <span id="p157">[<sup><small>p. 157</small></sup>]</span>.
+[^3]: viii:1 traduction de Beal <span id="p157"><sup><small>[ p. 157 ]</small></sup></span>.
 
 [^4]: viii:2 Hiouen-thsang fait deux fois référence à Jātakas, _Julien_, i. 137, 197.
 
@@ -100,7 +100,7 @@ E. B. COWELL.
 
 [^7]: x:1 Nous avons une illustration intéressante du caractère proverbial de certaines histoires de Jātaka dans les Aphorismes du Sāṇkhya, iv. 11, « celui qui est sans espoir est heureux comme Piṅgalā », qui trouve son explication dans Jāt. 330. Il est également mentionné dans le Mahābh. xii. 6520.
 
-[^8]: x:2 Comme _p. ex._ Fausböll, iii. <span id="p495">[<sup><small>p. 495</small></sup>]</span>. Cf. _Divyāvad_. <span id="p377">[<sup><small>p. 377</small></sup>]</span>, 1.
+[^8]: x:2 Comme _p. ex._ Fausböll, iii. <span id="p495"><sup><small>[ p. 495 ]</small></sup></span>. Cf. _Divyāvad_. <span id="p377"><sup><small>[ p. 377 ]</small></sup></span>, 1.
 
 [^9]: x:3 Voir également plusieurs articles dans le huitième volume du _Journal de la branche de Ceylan de la RA Society_.
 

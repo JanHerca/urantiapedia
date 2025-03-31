@@ -32,7 +32,7 @@ dateCreated: 2025-1-18T19:47:35Z
   </table>
 </figure>
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 ## IV. LA FEUILLE QUE SAINT FRANÇOIS A DONNÉE À FRÈRE LÉON.
 
@@ -51,7 +51,7 @@ Tu es saint, Seigneur Dieu, qui seul accomplis des merveilles. Tu es fort. Tu es
 ![Bénédiction autographe donnée par saint François à frère Léon, conservée au Sacro Convento d'Assise](/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/14800.jpg)
 
 
-BÉNÉDICTION AUTOGRAPHE DONNÉE PAR SAINT FRANÇOIS À FRÈRE LÉON, CONSERVÉE AU SACRO COUVENT D'ASSISE. (Voir page [146](#p146).) <span id="p149">[<sup><small>p. 149</small></sup>]</span> es justice et tempérance. Tu es toute richesse pour suffire. [^557] Tu es beauté. Tu es douceur. Tu es protecteur. Tu es gardien et défenseur. Tu es force. Tu es rafraîchissement. Tu es notre espérance. Tu es notre foi. Tu es notre grande douceur. Tu es notre vie éternelle, grand et admirable Seigneur, Dieu tout-puissant, Sauveur miséricordieux.
+BÉNÉDICTION AUTOGRAPHE DONNÉE PAR SAINT FRANÇOIS À FRÈRE LÉON, CONSERVÉE AU SACRO COUVENT D'ASSISE. (Voir page [146](#p146).) <span id="p149"><sup><small>[ p. 149 ]</small></sup></span> es justice et tempérance. Tu es toute richesse pour suffire. [^557] Tu es beauté. Tu es douceur. Tu es protecteur. Tu es gardien et défenseur. Tu es force. Tu es rafraîchissement. Tu es notre espérance. Tu es notre foi. Tu es notre grande douceur. Tu es notre vie éternelle, grand et admirable Seigneur, Dieu tout-puissant, Sauveur miséricordieux.
 
 Après cette expression des ardeurs mystiques qui consumaient le _Poverello_ vient :
 

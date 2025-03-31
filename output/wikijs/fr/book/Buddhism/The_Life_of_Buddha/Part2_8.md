@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 
 Deux jeunes brahmanes, Sariputra et Maudgalyayana, vivaient alors dans la ville de Rajagriha. Ils étaient amis intimes et tous deux élèves de l'ermite Sanjaya. Ils s'étaient fait cette promesse : « Le premier de nous deux à être délivré de la mort le dira immédiatement à l'autre. »
@@ -45,7 +45,7 @@ Mais ensuite il pensa :
 
 Ce n'est pas le moment de l'interroger. Il fait l'aumône ; je ne dois pas le déranger. Je le suivrai, et lorsqu'il sera satisfait des offrandes qu'il a reçues, je m'approcherai et lui parlerai.
 
-<span id="p142">[<sup><small>p. 142</small></sup>]</span>
+<span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 Le vénérable Asvajit cessa aussitôt de demander l'aumône. Sariputra s'approcha alors de lui et le salua amicalement. Asvajit lui rendit son salut.
 

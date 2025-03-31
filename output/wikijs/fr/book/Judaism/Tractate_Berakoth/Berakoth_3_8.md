@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:23Z
   </table>
 </figure>
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 ## Points de controverse entre les écoles de Shammai et de Hillel : l’ordre des bénédictions.
 
@@ -44,7 +44,7 @@ L'école de Shammaï dit : On prononce la bénédiction sur le jour, puis sur le
 
 L'école de Hillel dit : On prononce la bénédiction sur le vin, puis sur le jour. Car le vin porte en lui la parole de sanctification du jour. [^399] Une autre raison \[donnée\] est : la bénédiction du vin est constante, mais la bénédiction du jour ne l'est pas. [^400] Et la règle est conforme aux paroles de l'école de Hillel.
 
-III. 8. La question de l'honneur du jour et de l'honneur de la nuit. L'honneur du jour <span id="p66">[<sup><small>p. 66</small></sup>]</span>
+III. 8. La question de l'honneur du jour et de l'honneur de la nuit. L'honneur du jour <span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
  a la priorité sur l'honneur de la nuit. [^401] Si l'on n'a qu'une seule coupe (de vin), la sanctification du jour a la priorité sur l'honneur du jour et l'honneur de la nuit. [^402]
 
 Dans le cas des nuits de sabbat et des nuits de fête, la sanctification du jour est proclamée au-dessus de la coupe, et la sainteté du jour est mentionnée dans la bénédiction après le repas. [^403]
@@ -59,7 +59,7 @@ Le sabbat, la fête, le premier jour du mois et les jours de la semaine des fêt
 
 **T**. VI. 2. L'école de Shammaï dit : « Les hommes se lavent les mains, puis mélangent la coupe. Il se peut que l'humidité qui se trouve à l'extérieur de la coupe [^406] devienne impure à cause des mains et rende la coupe à nouveau impure. »
 
-Mais l'école de Hillel dit : l'extérieur de la coupe est impur dans tous les cas. Une autre raison \[donnée\] <span id="p67">[<sup><small>p. 67</small></sup>]</span> est : le lavage des mains n'est associé qu'à un repas. (Par conséquent) les hommes mélangent la coupe, puis se lavent les mains. [^407]
+Mais l'école de Hillel dit : l'extérieur de la coupe est impur dans tous les cas. Une autre raison \[donnée\] <span id="p67"><sup><small>[ p. 67 ]</small></sup></span> est : le lavage des mains n'est associé qu'à un repas. (Par conséquent) les hommes mélangent la coupe, puis se lavent les mains. [^407]
 
 <a id="m3"></a>
 
@@ -75,7 +75,7 @@ Mais l'école de Hillel dit : l'extérieur de la coupe est impur dans tous les c
 
 **M**.VIII. 4 (3). L'école de Shammaï dit : Un _M_. s'essuie les mains [^409] avec une serviette et la pose sur la table ; [^410] et l'école de Hillel dit : Sur le coussin. [^411]
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 **T**.
 
@@ -93,7 +93,7 @@ Une autre raison est donnée : le lavage des mains n’est pas réservé aux ali
 
 **M**.VIII. 5. L'école de Shammai dit : Lampe, nourriture et épices [^416] et _Habdalah_. [^417] Mais le
 
-<span id="p69">[<sup><small>p. 69</small></sup>]</span>
+<span id="p69"><sup><small>[ p. 69 ]</small></sup></span>
 
 **M**.\[le paragraphe continue\] L'école de Hillel dit : Lampe et épices et nourriture et Habdalah.
 
@@ -107,7 +107,7 @@ Celui qui est habitué à utiliser de telles formes dit plusieurs Habdaloth, [^4
 
 Dans la salle de conférence, l'école de Shammai dit : Une personne dit la bénédiction pour tous, et l'école de Hillel dit : Chacun dit la bénédiction pour lui-même. [^420]
 
-<span id="p70">[<sup><small>p. 70</small></sup>]</span>
+<span id="p70"><sup><small>[ p. 70 ]</small></sup></span>
 
 ## La formulation de la bénédiction sur la lampe.
 
@@ -119,7 +119,7 @@ Dans la salle de conférence, l'école de Shammai dit : Une personne dit la bén
 
 7 (6). Ils ne disent pas de bénédiction sur la lampe ni sur les aromates qui appartiennent aux païens ; [^423] ni sur la lampe ni sur les aromates qui sont pour les morts ; [^424] ni sur la lampe ni sur les aromates qui appartiennent au culte des idoles. [^425] Ils ne disent pas de bénédiction sur la lampe jusqu'à ce qu'ils jouissent de sa lumière.
 
-**T**. VI. 7. Si quelqu'un a une lampe (_nêr_) cachée dans son sein, [^426] ou dans une lanterne et voit la flamme <span id="p71">[<sup><small>p. 71</small></sup>]</span> sans utiliser sa lumière, ou utilise sa lumière sans voir la flamme, on ne dit pas la bénédiction [^427] dessus jusqu'à ce qu'il voie la flamme et utilise sa lumière. S'il s'agit d'une lanterne avec verre, on dit la bénédiction dessus, même si elle n'est pas éteinte. [^428]
+**T**. VI. 7. Si quelqu'un a une lampe (_nêr_) cachée dans son sein, [^426] ou dans une lanterne et voit la flamme <span id="p71"><sup><small>[ p. 71 ]</small></sup></span> sans utiliser sa lumière, ou utilise sa lumière sans voir la flamme, on ne dit pas la bénédiction [^427] dessus jusqu'à ce qu'il voie la flamme et utilise sa lumière. S'il s'agit d'une lanterne avec verre, on dit la bénédiction dessus, même si elle n'est pas éteinte. [^428]
 
 Dans le cas d'une lampe appartenant à un non-Juif, nous ne disons pas la bénédiction sur elle. Un Israélite qui allume sa lampe avec celle d'un non-Juif, et un non-Juif qui allume sa lampe avec celle d'un Israélite, nous disons la bénédiction sur elles dans chaque cas.
 
@@ -129,7 +129,7 @@ Le feu [^429] et les hybrides [^430] n'ont pas été créés pendant les six jou
 
 8\. Dans le cas du feu et des épices d'un bain, [^433] on ne dit pas la bénédiction sur eux. Si l'on reste debout dans une boutique d'épices toute la journée, on ne dit la bénédiction qu'une seule fois. Si l'on entre et sort plusieurs fois, on dit la bénédiction à chaque fois.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 <a id="m8"></a>
 
@@ -143,7 +143,7 @@ Le feu [^429] et les hybrides [^430] n'ont pas été créés pendant les six jou
 
 9 (8). Supposons que le vin leur arrive après la nourriture, et qu'il n'y ait qu'une seule coupe, [^437] l'école de Shammaï dit : On dit la bénédiction sur le vin, puis la bénédiction sur la nourriture. Mais l'école de Hillel dit : On dit la bénédiction sur la nourriture, puis la bénédiction sur le vin. [^438] Ils répondent « Amen » après un Israélite qui dit la bénédiction, mais ils ne disent pas « Amen » après un Cuthéen (c'est-à-dire)
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 **M**.\[le paragraphe continue\] Samaritain) qui dit la Bénédiction, jusqu'à ce qu'on entende toute la Bénédiction. [^439]
 
@@ -155,7 +155,7 @@ V. 21. Si un païen prononce la bénédiction au nom (de l'emprunt), on répond 
 
 23\. Si dix personnes sont en voyage, bien qu'elles mangent toutes du même pain, [^444] chacune récite la bénédiction pour elle-même. S'ils sont à table, bien que chacune mange de son pain, on récite la bénédiction pour toutes. [^445]
 
-24\. Dans le cas des ouvriers qui travaillent auprès du maître de maison, voici, ceux-ci prononcent deux bénédictions. L'un prononce la première bénédiction, <span id="p74">[<sup><small>p. 74</small></sup>]</span>, et il inclut celle pour Jérusalem [^446] avec celle pour la Terre, [^447] et la scelle avec celle pour la Terre. S'ils travaillent avec lui pour leur nourriture, [^448] ou si le maître de maison prononce la bénédiction pour eux, ils prononcent quatre bénédictions. [^449]
+24\. Dans le cas des ouvriers qui travaillent auprès du maître de maison, voici, ceux-ci prononcent deux bénédictions. L'un prononce la première bénédiction, <span id="p74"><sup><small>[ p. 74 ]</small></sup></span>, et il inclut celle pour Jérusalem [^446] avec celle pour la Terre, [^447] et la scelle avec celle pour la Terre. S'ils travaillent avec lui pour leur nourriture, [^448] ou si le maître de maison prononce la bénédiction pour eux, ils prononcent quatre bénédictions. [^449]
 
 <figure class="table chapter-navigator">
   <table>

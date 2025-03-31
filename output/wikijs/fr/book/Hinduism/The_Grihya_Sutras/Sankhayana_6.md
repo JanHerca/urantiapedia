@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p141">[<sup><small>p. 141</small></sup>]</span>
+<span id="p141"><sup><small>[ p. 141 ]</small></sup></span>
 
 ## ADHYÂYA VI, KHA<i>ND</i>A 1.
 
@@ -44,7 +44,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 4\. Et des cadavres (animaux ?).
 
-5\. Ceux qui entrent (dans leurs tanières ?) par la bouche en premier (?). <span id="p142">[<sup><small>p. 142</small></sup>]</span>
+5\. Ceux qui entrent (dans leurs tanières ?) par la bouche en premier (?). <span id="p142"><sup><small>[ p. 142 ]</small></sup></span>
 
 6 [6](#fn323). Lorsqu'il a vomi, ou lorsqu'on lui a rasé la barbe,
 
@@ -71,7 +71,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 3\. [^325]. Qu'ils aillent dans un endroit pur, au nord-est, qui reçoit sa lumière de l'est.
 
-4\. Le puisage de l'eau (devrait être fait) avant le lever du soleil, <span id="p143">[<sup><small>p. 143</small></sup>]</span>
+4\. Le puisage de l'eau (devrait être fait) avant le lever du soleil, <span id="p143"><sup><small>[ p. 143 ]</small></sup></span>
 
 5 [^326]. Et l'entrée dans le cercle avec ce verset : « Celle qui sent le baume » (Rig-veda X, 146, 6).
 
@@ -95,7 +95,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. Maintenant, après qu'ils soient entrés dans le cercle—
 
-2\. [^329]. Le maître s'assoit, le visage tourné vers l'est, les autres, selon leur rang, (s'assoient) vers le sud, le visage tourné vers le nord. <span id="p144">[<sup><small>p. 144</small></sup>]</span>
+2\. [^329]. Le maître s'assoit, le visage tourné vers l'est, les autres, selon leur rang, (s'assoient) vers le sud, le visage tourné vers le nord. <span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 3\. Si cela est impossible, avec leurs visages dans toutes les directions.
 
@@ -115,7 +115,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 11\. Maintenant l'expiation.
 
-12\. [^333]. La syllabe OM, les Mahâvyâh<i>ri</i>tis, la Sâvitrî, ​​le Rathantara, le B<i>ri</i>hat, le Vâmadevya ; Brihat et Rathantara avec répétition et formation de Kakubh. <span id="p145">[<sup><small>p. 145</small></sup>]</span>
+12\. [^333]. La syllabe OM, les Mahâvyâh<i>ri</i>tis, la Sâvitrî, ​​le Rathantara, le B<i>ri</i>hat, le Vâmadevya ; Brihat et Rathantara avec répétition et formation de Kakubh. <span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 13 [^334]. Ces (saints mots et versets) sont (ainsi) amenés à atteindre (le nombre de) dix.
 
@@ -124,7 +124,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 ## CHAPITRE 4.
 
-1\. [^336]. « Esprit infaillible, œil vigoureux (est) le soleil, la plus noble des étoiles. Inauguration, ne me faites pas de mal ! » — avec (ces mots) ils regardent Savitri (c'est-à-dire le soleil). <span id="p146">[<sup><small>p. 146</small></sup>]</span>
+1\. [^336]. « Esprit infaillible, œil vigoureux (est) le soleil, la plus noble des étoiles. Inauguration, ne me faites pas de mal ! » — avec (ces mots) ils regardent Savitri (c'est-à-dire le soleil). <span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 2\. Un (verset), « Toi, le réjouissant » (Rig-veda X, 131, 4), et les trois (verset), « Bénédiction pour nous sur les chemins » (Rig-veda X, 63, 15-17) (doivent être répétés avant la récitation) du Mahâvrata (chapitre).
 
@@ -138,7 +138,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. [^338]. Pour les Sa<i>m</i>hitâs, cependant, avant (le texte donné dans le premier Sûtra, la formule doit être récitée), « Je dirai juste, je dirai vrai (&c.) » — c'est la différence (dans le cas des Sa<i>m</i>hitâs).
 
-8\. [^339]. Quant au Mantha, il faut réciter les deux versets précédant la formule du premier Sûtra : « Nous implorons Savitar », « Cette glorieuse splendeur de Savitar » (Rig-veda V, 82, 1 ; III, 62, 10). <span id="p147">[<sup><small>p. 147</small></sup>]</span>
+8\. [^339]. Quant au Mantha, il faut réciter les deux versets précédant la formule du premier Sûtra : « Nous implorons Savitar », « Cette glorieuse splendeur de Savitar » (Rig-veda V, 82, 1 ; III, 62, 10). <span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 9\. Avec (la formule), « Esprit infaillible » (voir Sûtra 1), suivent ensuite les formules expiatoires qui appartiennent aux (différentes) sections.
 
@@ -156,7 +156,7 @@ Kha<i>nd</i>a 5, 1 [^341]. « Cela (que je place) en moi-même » — avec (ces 
 
 2\. Avec (la formule), « Que le bonheur se réjouisse en moi et que la gloire ; que le bonheur se réjouisse avec moi et que la gloire ; —
 
-3\. « Avec Indra, avec les armées, avec puissance, avec gloire, avec force, je m'élèverai » — il s'élève. <span id="p148">[<sup><small>p. 148</small></sup>]</span>
+3\. « Avec Indra, avec les armées, avec puissance, avec gloire, avec force, je m'élèverai » — il s'élève. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 4\. « Que le bonheur monte vers moi ; que la gloire monte vers moi » — quand il sera ressuscité.
 
@@ -175,7 +175,7 @@ Kha<i>nd</i>a 5, 1 [^341]. « Cela (que je place) en moi-même » — avec (ces 
 
 4\. Versez-le sur le sol,
 
-5\. [^343]. Répandez (un peu) de cette (eau sur le sol) avec (les mots) : « Comme la terre (est apaisée) » — <span id="p149">[<sup><small>p. 149</small></sup>]</span>
+5\. [^343]. Répandez (un peu) de cette (eau sur le sol) avec (les mots) : « Comme la terre (est apaisée) » — <span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 6 [^344]. Il (ensuite) l'enduit sur son épaule droite avec (les mots) : « Ainsi, la paix habite en moi. »
 
@@ -197,7 +197,7 @@ Kha<i>nd</i>a 5, 1 [^341]. « Cela (que je place) en moi-même » — avec (ces 
 
 15\. Et séparez-vous selon leur bon plaisir.
 
-16\. (La formule de bénédiction finale est ainsi) : « Par le pouvoir de la sagesse, de la Sruti et de la Smriti, tels que transmis par la tradition, par (ce pouvoir) qui a sa mesure dans (les textes védiques) qui ont été parcourus (?), et qui est possédé d'une <span id="p150">[<sup><small>p. 150</small></sup>]</span> fermeté incontestée, que la paix soit avec nous dans le bien-être. Adoration aux dieux, aux Rishis, aux Mânes et aux hommes ! Puissent ceux que nous avons adorés rendre la vie heureuse, la beauté, la santé, la paix, l'incolumnité, l'impérissabilité, la vigueur, la splendeur, la gloire, le pouvoir, le saint éclat, la renommée, la vieillesse, la progéniture, le bétail, l'adoration, augmenter. » De la prière mal dite, mal utilisée, de tout ce qui est déficient ou excessif, pour le bien des dieux et des Rishis, que le Brahman et la Vérité me protègent ; que le Brahman et la Vérité me protègent !
+16\. (La formule de bénédiction finale est ainsi) : « Par le pouvoir de la sagesse, de la Sruti et de la Smriti, tels que transmis par la tradition, par (ce pouvoir) qui a sa mesure dans (les textes védiques) qui ont été parcourus (?), et qui est possédé d'une <span id="p150"><sup><small>[ p. 150 ]</small></sup></span> fermeté incontestée, que la paix soit avec nous dans le bien-être. Adoration aux dieux, aux Rishis, aux Mânes et aux hommes ! Puissent ceux que nous avons adorés rendre la vie heureuse, la beauté, la santé, la paix, l'incolumnité, l'impérissabilité, la vigueur, la splendeur, la gloire, le pouvoir, le saint éclat, la renommée, la vieillesse, la progéniture, le bétail, l'adoration, augmenter. » De la prière mal dite, mal utilisée, de tout ce qui est déficient ou excessif, pour le bien des dieux et des Rishis, que le Brahman et la Vérité me protègent ; que le Brahman et la Vérité me protègent !
 
 Fin du sixième Adhyâya.
 

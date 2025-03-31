@@ -62,7 +62,7 @@ Il est mon appui et mon soutien contre ceux qui, en voyant mon exaltation, voudr
 
 C'est un roi devant le nom duquel les princes s'inclineront et le montreront du doigt pour lui rendre hommage.
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 Il est l'asile de tous ceux qui se tournent vers lui pour dissiper leurs chagrins, comme il soulage mes chagrins.
 
@@ -82,7 +82,7 @@ Je suis l'ami de la tristesse et du désir, j'en suis accablé, et je suis épui
 
 Je me plains à Dieu de mes afflictions et de mon amour, et je ne me plains à personne d'autre.
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 Abla fut profondément émue de la détresse évidente d'Antar, car elle l'aimait à la fois pour son courage et pour son éloquence. «Où est, dit-elle en plaisantant, ma part de ton butin, cousine? Ne te suis-je plus d'aucune utilité?» «En vérité, répondit-il, j'ai tout donné à ton père et à tes oncles.» Il lui donna alors les deux esclaves et les bijoux qu'il avait reçus du roi; mais il partagea les parfums entre ses tantes, disant à Abla qu'elle n'en avait pas besoin, son haleine étant plus douce que tous les parfums.
 

@@ -38,7 +38,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. (Le mari) sert de la nourriture aux Brâhma<i>n</i>as et leur fait prononcer des vœux de bon augure ; puis, après que (les cérémonies) depuis la mise (du bois) sur le feu jusqu'aux oblations d'Â<i>n</i>yabhâga (ont été accomplies), il offre les oblations (indiquées dans les) prochains (Mantras, M. II, 11, 1-8), tandis que (l'épouse) le saisit et commence (l'accomplissement) du <i>G</i>aya et des oblations suivantes.
 
-3\. Après avoir accompli (les rites) jusqu'à l'aspersion (d'eau) autour (du feu), il la fait asseoir à l'ouest du feu, face à l'est, et sépare ses cheveux vers le haut (c'est-à-dire en commençant par l'avant) avec une plume de porc-épic qui a trois taches blanches, <span id="p280">[<sup><small>p. 280</small></sup>]</span> avec trois lames de Darbha, et avec un bouquet de fruits d'Udumbara non mûrs, avec les Vyâh<i>ri</i>tis ou avec les deux suivants (versets, II, 11, 9. 10).
+3\. Après avoir accompli (les rites) jusqu'à l'aspersion (d'eau) autour (du feu), il la fait asseoir à l'ouest du feu, face à l'est, et sépare ses cheveux vers le haut (c'est-à-dire en commençant par l'avant) avec une plume de porc-épic qui a trois taches blanches, <span id="p280"><sup><small>[ p. 280 ]</small></sup></span> avec trois lames de Darbha, et avec un bouquet de fruits d'Udumbara non mûrs, avec les Vyâh<i>ri</i>tis ou avec les deux suivants (versets, II, 11, 9. 10).
 
 4\. Il dit à deux joueurs de luth : « Chantez ! »
 
@@ -54,7 +54,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 10\. D'une branche d'un arbre Nyagrodha, orientée vers l'est ou le nord, il prélève une pousse portant deux (fruits ressemblant à des) testicules. Le fait de mettre du bois sur le feu, etc., s'effectue comme au Sîmantonnayana (Sûtra 2).
 
-11\. Il fait piler (la pousse de Nyagrodha) sur une meule supérieure avec une autre meule supérieure par une jeune fille qui n'a pas encore atteint la maturité, et verser de l'eau dessus ; puis il fait allonger sa femme <span id="p281">[<sup><small>p. 281</small></sup>]</span> sur le dos à l'ouest du feu, face à l'est, et insère (la substance pilée) avec son pouce dans sa narine droite, avec le prochain Ya<i>g</i>us (II, 11, 13).
+11\. Il fait piler (la pousse de Nyagrodha) sur une meule supérieure avec une autre meule supérieure par une jeune fille qui n'a pas encore atteint la maturité, et verser de l'eau dessus ; puis il fait allonger sa femme <span id="p281"><sup><small>[ p. 281 ]</small></sup></span> sur le dos à l'ouest du feu, face à l'est, et insère (la substance pilée) avec son pouce dans sa narine droite, avec le prochain Ya<i>g</i>us (II, 11, 13).
 
 12\. Alors elle donnera naissance à un fils.
 
@@ -85,7 +85,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 8\. Le dixième jour, après que la mère se soit levée et ait pris un bain, il donne un nom au fils. Le père et la mère doivent prononcer ce nom en premier.
 
-9\. (Ce devrait être un nom) de deux syllabes ou de quatre syllabes ; la première partie devrait être un nom ; la seconde un verbe ; il devrait avoir une voyelle longue (ou) le Visarga à la fin, devrait commencer par une sonante et contenir une semi-voyelle. <span id="p283">[<sup><small>p. 283</small></sup>]</span>
+9\. (Ce devrait être un nom) de deux syllabes ou de quatre syllabes ; la première partie devrait être un nom ; la seconde un verbe ; il devrait avoir une voyelle longue (ou) le Visarga à la fin, devrait commencer par une sonante et contenir une semi-voyelle. <span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 10, Ou il devrait contenir la particule su, car un tel nom a un fondement solide ; ainsi est-il dit dans un Brâhma<i>n</i>a.
 
@@ -126,7 +126,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 13\. [^776] Ou il peut accomplir le Godâna sacré à Agni.
 
-14\. [^777] Certains prescrivent le respect d'un vœu pendant un an en rapport avec la Godâna. <span id="p285">[<sup><small>p. 285</small></sup>]</span>
+14\. [^777] Certains prescrivent le respect d'un vœu pendant un an en rapport avec la Godâna. <span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 15\. La différence (entre le Kaula et le Godâna) est que (chez le Godâna) toute la chevelure est rasée (sans laisser les mèches).
 

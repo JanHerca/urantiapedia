@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 ## SUR LA CONNAISSANCE DES VÉDAS. TEVI<i>GG</i>A-SUTTA. CHAPITRE III.
 
@@ -74,7 +74,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 7\. « Très bien, Vâse<i>tth</i>a. Alors, en vérité, Vâse<i>tth</i>a, que le Bhikkhu, libéré des soucis domestiques, puisse, après la mort, lorsque le corps est dissous, s'unir à Brahmâ, qui est le même, une telle situation est tout à fait possible ! »
 
-8\. « Et ainsi tu dis, Vâse<i>tth</i>a, que le Bhikkhu est libre de colère et de malice, pur d'esprit et maître de lui-même ; et que Brahmâ est <span id="p203">[<sup><small>p. 203</small></sup>]</span> libre de colère et de malice, pur d'esprit et maître de lui-même. Alors, en vérité, Vâse<i>tth</i>a, que le Bhikkhu qui est libre de colère, libre de malice, pur d'esprit et maître de lui-même devrait, après la mort, lorsque le corps est dissous, s'unir à Brahmâ, qui est le même – un tel état de choses est tout à fait possible ! »
+8\. « Et ainsi tu dis, Vâse<i>tth</i>a, que le Bhikkhu est libre de colère et de malice, pur d'esprit et maître de lui-même ; et que Brahmâ est <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> libre de colère et de malice, pur d'esprit et maître de lui-même. Alors, en vérité, Vâse<i>tth</i>a, que le Bhikkhu qui est libre de colère, libre de malice, pur d'esprit et maître de lui-même devrait, après la mort, lorsque le corps est dissous, s'unir à Brahmâ, qui est le même – un tel état de choses est tout à fait possible ! »
 
 ---
 
@@ -86,7 +86,7 @@ dateCreated: 2025-2-6T11:21:5Z
 
 Fin du Tevi<i>gg</i>a Suttanta.
 
-<span id="p207">[<sup><small>p. 207</small></sup>]</span>
+<span id="p207"><sup><small>[ p. 207 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

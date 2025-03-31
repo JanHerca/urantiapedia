@@ -44,7 +44,7 @@ Au même moment, un brahmane, versé dans les Védas, nommé Vi<i>g</i>ayaghôsh
 
 Or ce moine sans abri, à la fin d'un jeûne d'un mois, se rendit au sacrifice de Vi<i>g</i>ayaghôsha pour demander l'aumône. (5)
 
-<span id="p137">[<sup><small>p. 137</small></sup>]</span>
+<span id="p137"><sup><small>[ p. 137 ]</small></sup></span>
 
 Le prêtre voulut repousser le moine qui s'approchait : « Je ne te ferai pas l'aumône, mendiant, va mendier ailleurs. » (6)
 
@@ -60,7 +60,7 @@ Non pas pour obtenir de la nourriture, ou de la boisson, ou quoi que ce soit d'a
 
 Le prêtre ne répondit pas pour se défendre contre son insinuation ; mais lui et tous ceux qui étaient là assemblèrent leurs mains et interrogeèrent le grand sage : (13)
 
-« Dites-nous le sujet le plus essentiel des Védas, et dites-nous ce qui est le plus essentiel dans le sacrifice ; <span id="p138">[<sup><small>p. 138</small></sup>]</span> dites-nous le premier des corps célestes, et dites-nous le meilleur des dharmas. (14)
+« Dites-nous le sujet le plus essentiel des Védas, et dites-nous ce qui est le plus essentiel dans le sacrifice ; <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> dites-nous le premier des corps célestes, et dites-nous le meilleur des dharmas. (14)
 
 « Qui est capable de se sauver lui-même et de sauver les autres ? » (Dis-moi.) Je te demande de résoudre ce doute, ô saint. (15)
 
@@ -74,7 +74,7 @@ Le prêtre ne répondit pas pour se défendre contre son insinuation ; mais lui 
 
 « Celui qui n'a aucun attachement mondain après être entré dans l'ordre, qui ne se repent pas d'être devenu moine [^355], et qui prend plaisir aux nobles paroles, celui-là nous l'appelons un Brâhmane. (20)
 
-« Celui qui est exempt d’amour, de haine et de peur, <span id="p139">[<sup><small>p. 139</small></sup>]</span> (et qui brille) comme de l’or bruni, purifié par le feu [^356], celui-là nous l’appelons un Brâhma<i>n</i>a. (21)
+« Celui qui est exempt d’amour, de haine et de peur, <span id="p139"><sup><small>[ p. 139 ]</small></sup></span> (et qui brille) comme de l’or bruni, purifié par le feu [^356], celui-là nous l’appelons un Brâhma<i>n</i>a. (21)
 
 « Un ascète maigre et soumis, qui réduit sa chair et son sang, qui est pieux et a atteint le Nirvânâ, celui-là nous l'appelons un Brâhma. (22)
 
@@ -92,7 +92,7 @@ Le prêtre ne répondit pas pour se défendre contre son insinuation ; mais lui 
 
 « Celui qui a renoncé à ses anciennes relations (avec ses parents, etc.), avec ses proches et ses relations, et qui ne s'adonne pas au plaisir, nous l'appelons un Brâhmane. (29)
 
-<span id="p140">[<sup><small>p. 140</small></sup>]</span>
+<span id="p140"><sup><small>[ p. 140 ]</small></sup></span>
 
 « L'attachement des animaux (au poteau sacrificiel), tous les Védas et les sacrifices, étant des causes de péché, ne peuvent sauver le pécheur ; car ses œuvres (ou Karman) sont très puissantes. (30)
 
@@ -108,7 +108,7 @@ Le prêtre ne répondit pas pour se défendre contre son insinuation ; mais lui 
 
 Lorsque son doute fut ainsi résolu, Vi<i>g</i>ayaghôsha, le Brâhma<i>n</i>a, acquiesça [^360] au grand sage <i>G</i>ayaghôsha et à sa (parole). (36)
 
-Vi<i>g</i>ayaghôsha, satisfait, joignit les mains et parla <span id="p141">[<sup><small>p. 141</small></sup>]</span> comme suit : « Vous m'avez bien expliqué en quoi consiste la véritable brâhmanité. » (37)
+Vi<i>g</i>ayaghôsha, satisfait, joignit les mains et parla <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> comme suit : « Vous m'avez bien expliqué en quoi consiste la véritable brâhmanité. » (37)
 
 « Tu es un sacrificateur de sacrifices, tu es le plus savant de ceux qui connaissent les Védas, tu connais le Gyôtishâṅga, tu connais parfaitement la Loi. (38)
 

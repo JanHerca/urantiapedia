@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Le Synédrion (συνέδριον), appelé Sanhédrin en araméen, était la Cour suprême de la nation juive. Il est investi d'un intérêt redoutable, car il fut le tribunal qui rejeta délibérément la messianité et la divinité du Seigneur Jésus-Christ, décision à laquelle le peuple juif adhère jusqu'à nos jours. Comme son nom l'indique, il s'agissait d'une sorte de sénat, établi pendant l'occupation grecque de la Palestine, antérieure à la période des Maccabées, et non, comme le pensent les Juifs, une continuation des soixante-dix anciens nommés par Moïse. Il semble être mentionné dans 2 Mac. i. 10 ; iv. 44 ; xi. 27 ; sous le nom de Conseil (ἡ γερουσία). À vrai dire, il y avait trois Sanhédrins : deux plus petits et un plus grand. Les deux plus petits semblent avoir servi de comités permanents au sein de l'assemblée générale. Le président principal était appelé « Prince » et le vice-président « Père de la Maison du Jugement ». Lorsque prêtres, anciens et scribes sont mentionnés ensemble, il s'agit du Grand Sanhédrin. Les rabbins disent que pour être un membre ordinaire du Sanhédrin, il fallait être sage, beau, aristocrate, âgé, magicien et parler soixante-dix langues, afin que le Sanhédrin n'ait pas besoin d'interprète. On dit qu'il y avait dix « vols » : de la chambre du temple aux boutiques de la cour extérieure ; des boutiques de la cour extérieure à Jérusalem ; de Jérusalem à Jabné ; de Jabné à Ocha ; d'Ocha à Shepharaam ; de Shepharaam à Bethsabaïm ; de Bethsabaïm à Sepphoris ; de Sepphoris à Tibériade. Pour constituer le nombre dix, on dit qu'il aurait fait deux allers-retours entre Osha et Jabneh. Ces allers-retours auraient commencé quarante ans avant la destruction du Temple.
 
@@ -58,7 +58,7 @@ Siméon, fils d'Hillel, est censé être celui qui a pris notre Sauveur dans ses
 
 Gamaliel, fils de Siméon (maître de saint Paul). À sa mort, l'honneur de la loi et la pureté disparurent également.
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 Siméon, son fils (tué à Jérusalem).
 

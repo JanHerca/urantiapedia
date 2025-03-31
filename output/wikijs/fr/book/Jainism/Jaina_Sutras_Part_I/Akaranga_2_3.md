@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p136">[<sup><small>p. 136</small></sup>]</span>
+<span id="p136"><sup><small>[ p. 136 ]</small></sup></span>
 
 TROISIÈME CONFÉRENCE, INTIMÉ MARCHE [^396].
 
@@ -52,7 +52,7 @@ Un moine ou une nonne errant de village en village doit regarder devant lui pend
 
 Un moine ou une nonne errant de village en village, sur le chemin duquel se trouvent des êtres vivants, des graines, de l'herbe, de l'eau ou de la boue, ne doit pas aller tout droit s'il existe un chemin dégagé ; alors ils peuvent errer prudemment de village en village. (7)
 
-Un moine ou une nonne en pèlerinage, dont le chemin traverse des lieux appartenant à des frontaliers, des brigands, des Mle<i>k</i><i>kh</i>as, des non-aryens [^399], des gens à moitié civilisés, <span id="p138">[<sup><small>p. 138</small></sup>]</span> des non-convertis, des gens qui se lèvent ou mangent à une heure inopportune, ne devrait pas choisir le premier chemin pour son voyage s'il existe un autre lieu de promenade ou des quartiers amis. (8)
+Un moine ou une nonne en pèlerinage, dont le chemin traverse des lieux appartenant à des frontaliers, des brigands, des Mle<i>k</i><i>kh</i>as, des non-aryens [^399], des gens à moitié civilisés, <span id="p138"><sup><small>[ p. 138 ]</small></sup></span> des non-convertis, des gens qui se lèvent ou mangent à une heure inopportune, ne devrait pas choisir le premier chemin pour son voyage s'il existe un autre lieu de promenade ou des quartiers amis. (8)
 
 Le Kevalin dit : Voici la raison : la populace ignorante pourrait brutaliser, battre, etc., le mendiant, pensant qu'il est un voleur ou un espion, ou qu'il vient de là-bas (un village hostile) ; ou encore, elle pourrait lui enlever, lui couper, lui voler ou lui voler sa robe, son bol à aumônes, son manteau ou son balai. C'est pourquoi on a dit du mendiant, etc., que celui dont la route traverse des lieux appartenant, etc. (tout comme dans le dernier paragraphe) ; alors il peut errer prudemment de village en village. (9)
 
@@ -78,7 +78,7 @@ Si, à bord, l'autre lui dit : « Ô Srama<i>n</i>a de longue vie ! S'il te pla�
 
 Si, à bord, l'autre lui dit : « Ô Srama<i>n</i>a de longue vie ! S'il te plaît, bouche la voie d'eau du bateau avec ta main, ton pied, ton bras, ta cuisse, ton ventre, ta tête, ton corps, le seau, un chiffon, ou avec de la boue, de l'herbe de Ku<i>s</i>a ou des feuilles de lotus », il ne doit pas accéder à sa demande, mais regarder en silence. (20)
 
-Si un moine ou une nonne voit que de l'eau entre par une fuite dans le bateau, et que le bateau se salit de partout, ils ne doivent pas s'approcher du batelier et dire : « Ô maître de maison de longue vie ! De l'eau entre par une fuite dans le bateau, et il se salit de partout. » <span id="p141">[<sup><small>p. 141</small></sup>]</span> On ne doit pas penser ni parler ainsi ; mais sans être troublé, l'esprit non dirigé vers l'extérieur, on doit se recueillir pour la contemplation ; alors on peut achever avec circonspection son voyage en bateau sur l'eau.
+Si un moine ou une nonne voit que de l'eau entre par une fuite dans le bateau, et que le bateau se salit de partout, ils ne doivent pas s'approcher du batelier et dire : « Ô maître de maison de longue vie ! De l'eau entre par une fuite dans le bateau, et il se salit de partout. » <span id="p141"><sup><small>[ p. 141 ]</small></sup></span> On ne doit pas penser ni parler ainsi ; mais sans être troublé, l'esprit non dirigé vers l'extérieur, on doit se recueillir pour la contemplation ; alors on peut achever avec circonspection son voyage en bateau sur l'eau.
 
 C'est là tout le devoir, etc.
 
@@ -114,7 +114,7 @@ Un moine ou une nonne ne doit pas essuyer ou frotter, etc. (tout comme au § 7).
 
 Un moine ou une nonne en pèlerinage, les pieds souillés de boue, ne doit pas, afin que l'herbe puisse enlever la boue de ses pieds, s'écarter du chemin et détruire l'herbe en la coupant, en la piétinant ou en l'arrachant. Ce serait un péché, il ne doit pas le faire. Il doit d'abord inspecter un sentier peu herbeux ; ensuite, il peut errer prudemment de village en village. (13)
 
-Si un moine ou une nonne en pèlerinage rencontre des murs, des fossés, des remparts, des portes, des verrous <span id="p144">[<sup><small>p. 144</small></sup>]</span> ou des trous pour les ajuster, ou des douves ou des grottes, il doit, s'il y a un chemin détourné, le choisir et ne pas continuer tout droit. (14)
+Si un moine ou une nonne en pèlerinage rencontre des murs, des fossés, des remparts, des portes, des verrous <span id="p144"><sup><small>[ p. 144 ]</small></sup></span> ou des trous pour les ajuster, ou des douves ou des grottes, il doit, s'il y a un chemin détourné, le choisir et ne pas continuer tout droit. (14)
 
 Le Kevalin dit : Voici pourquoi : en marchant là, le mendiant risque de trébucher ou de tomber ; lorsqu'il trébuche ou tombe, il peut s'agripper à des arbres, des arbustes, des plantes, des lianes, de l'herbe, des taillis ou des pousses pour se dégager. Il doit demander un coup de main aux voyageurs qui le rencontrent ; il peut alors s'appuyer dessus avec prudence et se dégager ; ainsi, il peut errer avec prudence de village en village. (15)
 
@@ -129,7 +129,7 @@ Ainsi je dis. (17)
 
 
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 ## TROISIÈME LEÇON.
 
@@ -141,7 +141,7 @@ Le Kevalin dit : Voici la raison : les cerfs, le bétail, les oiseaux, les serpe
 
 C'est pourquoi il a été dit au mendiant, etc., qu'il ne devait pas regarder les objets (mentionnés au § 2) qui soutenaient ses bras, etc. [^411] (3)
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 Un moine ou une nonne, errant de village en village avec le maître ou l'enseignant, ne doit pas toucher la main du maître ou de l'enseignant avec la sienne, etc. ; mais sans toucher ni être touché, ils doivent errer avec circonspection de village en village avec le maître ou l'enseignant. (4)
 
@@ -165,7 +165,7 @@ Si un moine ou une nonne, errant de village en village, voit une vache vicieuse 
 
 Si le chemin d'un moine ou d'une nonne en pèlerinage traverse une forêt, dans laquelle, comme ils le savent, errent des bandes de nombreux voleurs désireux de leurs biens, ils ne doivent pas, par crainte d'eux, quitter le chemin, etc. (tout comme au § 13). (14)
 
-Si ces voleurs disent : « Ô Srama<i>n</i>a</i> à la longue vie ! Apporte-nous tes vêtements, etc., donne-les, dépose-les ! », le mendiant ne doit ni les donner ni les déposer. <span id="p148">[<sup><small>p. 148</small></sup>]</span> Il ne doit pas non plus réclamer (ses biens) en implorant (les voleurs), ou en joignant les mains, ou en touchant leur compassion, mais par une exhortation religieuse ou en gardant le silence. (15)
+Si ces voleurs disent : « Ô Srama<i>n</i>a</i> à la longue vie ! Apporte-nous tes vêtements, etc., donne-les, dépose-les ! », le mendiant ne doit ni les donner ni les déposer. <span id="p148"><sup><small>[ p. 148 ]</small></sup></span> Il ne doit pas non plus réclamer (ses biens) en implorant (les voleurs), ou en joignant les mains, ou en touchant leur compassion, mais par une exhortation religieuse ou en gardant le silence. (15)
 
 Si les voleurs, résolus à le faire eux-mêmes, le brutalisent, etc., lui arrachent ses vêtements, etc., il ne doit pas déposer d'information au village ou au palais du roi ; il ne doit pas non plus aller trouver un laïc et dire : « Ô vieux maître de maison ! Ces voleurs, résolus à le faire eux-mêmes, m'ont brutalisé, etc., ils ont déchiré mes vêtements, etc. » Il ne doit ni penser ni parler ainsi ; mais rester calme, etc. (voir § 13).
 

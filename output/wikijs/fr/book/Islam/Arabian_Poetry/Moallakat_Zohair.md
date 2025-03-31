@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 ![](/image/book/Islam/Arabian_Poetry/03100.jpg) Sont-ce les seules traces de la belle Ommaufia ? Sont-ce les ruines silencieuses de son manoir dans les plaines accidentées de Derraage et Mothatallem ?
 
@@ -48,7 +48,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 7\. Mais, _ajoutai-je_, regarde, mon ami, ne discernes-tu pas une troupe de jeunes filles assises sur des chameaux et s'avançant sur les hauteurs au-dessus des ruisseaux de Jortham ?
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 8\ Ils laissent à leur droite les montagnes et les plaines rocheuses de Kenaan. Oh, combien de mes ennemis acharnés, et combien de mes fidèles alliés, Kenaan contient-il !
 
@@ -68,7 +68,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 16\. _Dans ce lieu_, avec quelle noblesse les deux descendants de Gaidh, fils de Morra, travaillèrent à unir les tribus qu'une effusion fatale de sang avait longtemps divisées !
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 17\. J'ai juré par l'édifice sacré, autour duquel les fils de Koraïsme et de Jorham, qui l'ont bâti, font des processions pieuses;
 
@@ -86,7 +86,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 24\. Avec cent chameaux ils fermèrent toutes les plaies : ils les donnèrent au temps convenable, mais les donneurs étaient eux-mêmes exempts de toute culpabilité.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 25\. L'expiation fut offerte sous de bons auspices par une tribu à l'autre, mais ceux qui l'offraient n'avaient pas versé une coupe pleine de sang.
 
@@ -104,7 +104,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 32\ Elle enfanta Détresse et Ruine, monstres adultes, chacun d'eux déformé comme le chameau brun d'Aad ; elle leur donna alors son sein, et ils furent instantanément sevrés.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 33\. Oh ! quelle abondance elle produisit dans votre pays ! Les vivres qu'elle y fournit étaient plus abondants sans doute que ceux que les villes d'Irak dispensent à leurs habitants, pesés avec de gros poids et mesurés avec d'amples mesures !
 
@@ -122,7 +122,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 40\. Il dit : « J'accomplirai mon projet et je me protégerai de mon ennemi avec mille chevaux bien caparaçonnés. »
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 41\. Il fit une attaque féroce, et ne craignit pas le nombre de tentes où la Mort, la mère des vautours, avait établi sa demeure ;
 
@@ -142,7 +142,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 49\. Celui qui tremble devant toutes les causes possibles de mort tombe sur leur chemin : même s'il désire monter aux cieux sur une échelle.
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 50\. Celui qui possède des richesses ou des talents et les refuse à ses compatriotes, aliène leur amour et s'expose à leur opprobre.
 
@@ -162,7 +162,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 58\. Chaque fois qu'un homme a une particularité dans sa nature, même s'il la suppose cachée, elle sera bientôt connue.
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 59\. L'expérience m'a appris les événements d'aujourd'hui et d'hier ; mais quant aux événements de demain, j'avoue mon aveuglement.
 

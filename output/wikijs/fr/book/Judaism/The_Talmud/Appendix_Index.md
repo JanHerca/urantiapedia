@@ -29,7 +29,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p381">[<sup><small>p. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 ABRAHAM au BLASPHÈME
 
@@ -103,7 +103,7 @@ Oiseaux apprivoisés, offrandes pour la lèpre, [296](Treatise15_14#p296), [297]
 
 Blasphème, [191](Traité10_7#p191).
 
-<span id="p382">[<sup><small>p. 382</small></sup>]</span>
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 
 IMPERFECTIONS à ELEAZAR.
 
@@ -223,7 +223,7 @@ Eléazar, Rabbi, sur l'abrogation du sabbat, [106](Treatise4_6#p106), [107](Trea
 
 —Hamodai, R., sur la profanation des offrandes saintes, [226](Treatise12_3#p226).
 
-<span id="p383">[<sup><small>p. 383</small></sup>]</span>
+<span id="p383"><sup><small>[ p. 383 ]</small></sup></span>
 
 ÉLÉAZAR aux OFFRANDES
 
@@ -293,7 +293,7 @@ Hashim II, calife de Cordoue, ordonne que le Talmud soit traduit en arabe, [14](
 
 Chauffage et cuisson, [86](Treatise3_2#p86), [87](Treatise3_3#p87). Offrandes élevées, règles pour, [173](Treatise9_3#p173).
 
-<span id="p384">[<sup><small>p. 384</small></sup>]</span>
+<span id="p384"><sup><small>[ p. 384 ]</small></sup></span>
 
 DU CIEL à l'AGNEAU
 
@@ -365,7 +365,7 @@ Roi, le, ses privilèges, [179](Treatise10_2#p179), [180](Treatise10_2#p180).
 
 Agneau, l', pour le sacrifice quotidien, [246](Treatise13_3#p246) ; sa position, [247](Treatise13_3#p247) ; distribution de ses membres préparatoires à être brûlés, [248](Treatise13_4#p248), [249](Treatise13_4#p249).
 
-<span id="p385">[<sup><small>p. 385</small></sup>]</span>
+<span id="p385"><sup><small>[ p. 385 ]</small></sup></span>
 
 Laver, le, [352](Treatise18_11#p352); dimensions, [352](Treatise18_11#p352), [353](Treatise18_12#p353); les bœufs, [353](Treatise18_12#p353).
 
@@ -433,7 +433,7 @@ Moked, la Maison, [242](Treatise13_1#p242) ; chambres et portes, [255](Treatise1
 
 Molech, [192](Traité10_7#p192).
 
-<span id="p386">[<sup><small>p. 386</small></sup>]</span>
+<span id="p386"><sup><small>[ p. 386 ]</small></sup></span>
 
 L'ARGENT au PRÊTRE
 
@@ -523,7 +523,7 @@ Préceptes obligatoires pour les fils de Noé, [32](Introduction_5#p32), [33](In
 
 Grand Prêtre, le, [119](Treatise5_1#p119), _voir_ Grands Prêtres.
 
-<span id="p387">[<sup><small>p. 387</small></sup>]</span>
+<span id="p387"><sup><small>[ p. 387 ]</small></sup></span>
 
 LES PRÊTRES AU SANHÉDRIN
 
@@ -591,7 +591,7 @@ Sandales, [313](Treatise16_7#p313).
 
 Sanhédrin, le, [176](Treatise10_1#p176); juges requis pour diverses infractions, [176](Treatise10_1#p176), [177](Treatise10_1#p177); tribunal de [71](Treatise2_5#p71) membres, [177](Treatise10_1#p177); le Grand, [177](Treatise10_1#p177); le Petit, [178](Treatise10_1#p178); devoirs et privilèges du Grand Prêtre, [178](Treatise10_1#p178), [179](Treatise10_2#p179); les privilèges du roi, [179](Treatise10_2#p179), [180](Treatise10_2#p180); les jugements, [180](Treatise10_2#p180); les témoins interrogés, [181](Treatise10_3#p181)\-[183](Treatise10_3#p183), [185](Treatise10_4#p185)\-[187](Treatise10_5#p187); les verdicts, [183](Treatise10_3#p183); les jugements en argent et en âmes, [183](Treatise10_3#p183)[185](Treatise10_4#p185); intimidation des témoins, [184](Treatise10_4#p184); lapidation, [187](Treatise10_5#p187)\-[189](Treatise10_6#p189); pendaison, [189](Treatise10_6#p189); brûlage, [190](Treatise10_6#p190); décapitation, [191](Treatise10_7#p191); strangulation, [191](Treatise10_7#p191), [201](Treatise10_10#p201)\-[203](Treatise10_11#p203); blasphème, idolâtrie, [191](Treatise10_7#p191); donner sa semence à Moloch, [192](Treatise10_7#p192); profaner le sabbat, [192](Treatise10_7#p192); séduire, [193](Treatise10_7#p193); sorcellerie, [193](Treatise10_7#p193); fils obstinés et rebelles, [194](Treatise10_8#p194),
 
-<span id="p388">[<sup><small>p. 388</small></sup>]</span>
+<span id="p388"><sup><small>[ p. 388 ]</small></sup></span>
 
 DES JEUNES AU TALMUD
 
@@ -685,7 +685,7 @@ Talith, le, [359](Appendix_Note_Judaism#p359).
 
 Talmud, la Babylone, [2](Introduction_1#p2) ; appelé le _Shas_ par les Juifs, [10](Introduction_2#p10) ; son commencement et son achèvement, [10](Introduction_2#p10) ; période de sa compilation, [11](Introduction_2#p11) ; adopté par tous les Juifs orthodoxes, [14](Introduction_3#p14) ; périodiquement interdit et brûlé, [14](Introduction_3#p14) ; son influence fascinante, [14](Introduction_3#p14) ; règles d'interprétation, [15](Introduction_3#p15) ; parties légendaires, [15](Introduction_3#p15) ;
 
-<span id="p389">[<sup><small>p. 389</small></sup>]</span>
+<span id="p389"><sup><small>[ p. 389 ]</small></sup></span>
 
 Du TALMUD au ZOMA
 

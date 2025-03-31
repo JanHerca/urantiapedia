@@ -42,13 +42,13 @@ LA LÉGENDE DE HÂU-<i>K</i>Î : SA CONCEPTION ; SA NAISSANCE ; LES DANGERS DE S
 
 On trouve des informations sur Hâu-_k_î dans la dixième ode de la première décennie des Odes sacrificielles de Kâu. Les rois de Kâu faisaient remonter leur lignée à lui. De Kiang Yüan, sa mère, nos connaissances sont très limitées. On dit qu'elle était une fille de la Maison de Thâi, dont la lignée remontait jusqu'à Shăn-nung à l'époque préhistorique. D'après la première strophe de ce morceau, il apparaît qu'elle était mariée, et ce depuis un certain temps sans avoir d'enfant. Mais il est impossible de dire avec certitude qui était son mari. Le nom de famille de Kâu étant Kî, il devait être l'un des descendants de Hwang Tî.
 
-La première naissance de (notre) peuple [^532] Fut de <i>K</i>iang Yüan. Comment donna-t-elle naissance à (notre) peuple ? Elle avait présenté une offrande pure et sacrifié [^533], <span id="p397">[<sup><small>p. 397</small></sup>]</span> Afin que son stérilité lui soit enlevée. Elle marcha alors sur une empreinte d'orteil faite par Dieu, et fut déplacée [^534], Dans le grand lieu où elle se reposait. Elle devint enceinte ; elle demeura retirée ; Elle donna naissance à, et nourrit (un fils), Qui était Hâu-_k_î.
+La première naissance de (notre) peuple [^532] Fut de <i>K</i>iang Yüan. Comment donna-t-elle naissance à (notre) peuple ? Elle avait présenté une offrande pure et sacrifié [^533], <span id="p397"><sup><small>[ p. 397 ]</small></sup></span> Afin que son stérilité lui soit enlevée. Elle marcha alors sur une empreinte d'orteil faite par Dieu, et fut déplacée [^534], Dans le grand lieu où elle se reposait. Elle devint enceinte ; elle demeura retirée ; Elle donna naissance à, et nourrit (un fils), Qui était Hâu-_k_î.
 
 Quand elle eut accompli ses mois, son fils premier-né sortit comme un agneau. Il n'y eut ni rupture, ni déchirure, ni blessure, ni blessure ; montrant combien il serait merveilleux. Dieu ne lui avait-il pas donné le réconfort ? N'avait-il pas accepté son offrande pure et son sacrifice, si bien qu'elle mit ainsi facilement au monde son fils ?
 
 Il fut placé dans un chemin étroit, mais les moutons et les bœufs le protégeaient avec amour [^535]. Il fut placé dans une vaste forêt, où les bûcherons le rejoignirent. Il fut placé sur la glace froide, et un oiseau le protégea et le soutint de ses ailes. Lorsque l'oiseau s'éloigna, Hâu-_k_î se mit à gémir. Son cri était long et fort, si fort que sa voix emplit tout le chemin [^535].
 
-<span id="p398">[<sup><small>p. 398</small></sup>]</span>
+<span id="p398"><sup><small>[ p. 398 ]</small></sup></span>
 
 Lorsqu'il put ramper, il paraissait majestueux et intelligent. Lorsqu'il put se nourrir, il se mit à planter des haricots. Les haricots poussèrent abondamment ; ses rangées de rizière poussèrent magnifiquement ; son chanvre et son blé poussèrent forts et serrés ; ses courges produisirent abondamment.
 
@@ -56,7 +56,7 @@ L'agriculture de Hâu-_k_î se déroulait selon le plan d'aide à la croissance.
 
 Il donna (à son peuple) les belles céréales : le millet noir et le millet à deux grains, le grand millet rouge et le millet blanc. Ils semèrent abondamment le millet noir et le millet à deux grains, qui furent récoltés et empilés sur le sol. Ils semèrent abondamment le grand millet rouge et le millet blanc, qui furent portés sur leurs épaules et leur dos, jusqu'à la maison pour les sacrifices qu'il avait institués [^537].
 
-Et qu'en est-il de nos sacrifices (suite de lui) ? <span id="p399">[<sup><small>p. 399</small></sup>]</span> Certains décortiquent (le grain) ; d'autres le prennent dans le mortier ; d'autres le tamisent ; d'autres le foulent. Il résonne dans les plats ; il est distillé et la vapeur flotte. Nous consultons [^538] ; nous observons les rites de purification ; nous prenons du bois du sud et l'offrons avec la graisse ; nous sacrifions un bélier à l'esprit du chemin [^539] ; nous offrons de la chair rôtie et grillée : — et ainsi introduisons l'année à venir [^540].
+Et qu'en est-il de nos sacrifices (suite de lui) ? <span id="p399"><sup><small>[ p. 399 ]</small></sup></span> Certains décortiquent (le grain) ; d'autres le prennent dans le mortier ; d'autres le tamisent ; d'autres le foulent. Il résonne dans les plats ; il est distillé et la vapeur flotte. Nous consultons [^538] ; nous observons les rites de purification ; nous prenons du bois du sud et l'offrons avec la graisse ; nous sacrifions un bélier à l'esprit du chemin [^539] ; nous offrons de la chair rôtie et grillée : — et ainsi introduisons l'année à venir [^540].
 
 Nous chargeons les supports d'offrandes, les supports de bois et de terre cuite. Dès que le parfum monte, Dieu, satisfait, hume la douce odeur. Elle est parfumée, et en son temps [^541]. Hâu-_k_î a fondé nos sacrifices, et personne, présumons-nous, n'a donné lieu à blâme ou à regret à leur égard, jusqu'à ce jour.
 
@@ -88,7 +88,7 @@ Tu nous as fait boire à satiété tes breuvages ; tes mets nous ont été offer
 
 Que ton intelligence brillante devienne parfaite, haute et brillante, menant à une bonne fin ! Cette bonne fin a (désormais) son commencement : les personnificateurs de tes ancêtres l'ont annoncé dans leur bénédiction.
 
-Quelle était leur annonce ? « (Les offrandes) dans vos plats de bambou et de bois sont propres et <span id="p402">[<sup><small>p. 402</small></sup>]</span> belles. Vos amis [^544], assistant au service, ont fait leur part avec un comportement respectueux.
+Quelle était leur annonce ? « (Les offrandes) dans vos plats de bambou et de bois sont propres et <span id="p402"><sup><small>[ p. 402 ]</small></sup></span> belles. Vos amis [^544], assistant au service, ont fait leur part avec un comportement respectueux.
 
 « Votre attitude respectueuse était tout à fait conforme à l'occasion ; ainsi que celle de votre fils filial [^545]. Pour une telle piété filiale, perpétuée sans cesse, des bénédictions vous seront toujours conférées. »
 
@@ -106,7 +106,7 @@ ODE APPROPRIÉE À LA FÊTE DONNÉE AUX PERSONNAGES DES DÉFUNTS, LE LENDEMAIN D
 
 Ce sacrifice supplémentaire, le lendemain du service principal dans le temple, apparaît dans le neuvième livre de la quatrième partie du Shû ; et j'ai parlé de la fête qui suit celle-ci, réservée aux personnificateurs des morts [p. 301] (Shih_King_Part1_Intro#p301).
 
-Les canards sauvages et les canards siffleurs sont sur le <i>Roi</i> [^546] ; <span id="p403">[<sup><small>p. 403</small></sup>]</span> Les personnifications de vos ancêtres festoient et sont heureuses. Vos esprits sont clairs ; Vos mets sont parfumés. Les personnifications de vos ancêtres festoient et boivent ; leur bonheur et leur dignité sont parfaits.
+Les canards sauvages et les canards siffleurs sont sur le <i>Roi</i> [^546] ; <span id="p403"><sup><small>[ p. 403 ]</small></sup></span> Les personnifications de vos ancêtres festoient et sont heureuses. Vos esprits sont clairs ; Vos mets sont parfumés. Les personnifications de vos ancêtres festoient et boivent ; leur bonheur et leur dignité sont parfaits.
 
 Les canards sauvages et les canards siffleurs sont sur le sable ; les personnages des morts savourent le festin, leur tribut approprié. Vos esprits sont abondants ; vos mets sont bons. Les personnages de vos ancêtres festoient et boivent ; le bonheur et la dignité leur prêtent leur aide.
 
@@ -116,7 +116,7 @@ Les canards sauvages et les canards siffleurs sont au confluent des eaux ; les r
 
 Les canards sauvages et les canards siffleurs sont dans la gorge ; les personnages de vos ancêtres se reposent, pleins de complaisance. Les spiritueux fins sont délicieux ; votre viande, rôtie ou grillée, est parfumée. Les personnages de vos ancêtres festoient et boivent ; ils n'auront plus de soucis après cela.
 
-<span id="p404">[<sup><small>p. 404</small></sup>]</span>
+<span id="p404"><sup><small>[ p. 404 ]</small></sup></span>
 
 <a id="o5"></a>
 
@@ -140,7 +140,7 @@ Dans les recoins du grand tertre, le vent tourbillonnait du sud. Notre heureux e
 
 « Plein d'entrain, tu vagabondes ; Plein de satisfaction, tu te reposes. Ô heureux et courtois souverain, puisses-tu accomplir tes années, Et les finir comme tes ancêtres ! »
 
-« Votre territoire est grand et glorieux, et parfaitement <span id="p405">[<sup><small>p. 405</small></sup>]</span> sécurisé. Ô heureux et courtois souverain, puissiez-vous accomplir vos années, comme l'hôte de tous les esprits [^547] !
+« Votre territoire est grand et glorieux, et parfaitement <span id="p405"><sup><small>[ p. 405 ]</small></sup></span> sécurisé. Ô heureux et courtois souverain, puissiez-vous accomplir vos années, comme l'hôte de tous les esprits [^547] !
 
 « Vous avez reçu la nomination depuis longtemps reconnue, Avec la paix autour de votre bonheur et de votre dignité. Ô heureux et courtois souverain, Puissiez-vous remplir vos années, Avec un pur bonheur votre possession constante !
 
@@ -152,7 +152,7 @@ Dans les recoins du grand tertre, le vent tourbillonnait du sud. Notre heureux e
 
 Les phénix mâles et femelles volent alentour, bruissant d'ailes, tandis qu'ils s'élèvent vers le ciel. Nombreux sont tes admirables officiers, ô roi, attendant tes ordres, et aimant les multitudes du peuple, les phénix mâles et femelles émettent leurs notes, sur cette crête élevée. Les dryandras poussent, sur ces pentes orientales. Ils poussent luxuriantement ; et les notes résonnent harmonieusement.
 
-<span id="p407">[<sup><small>p. 407</small></sup>]</span>
+<span id="p407"><sup><small>[ p. 407 ]</small></sup></span>
 
 « Tes chars, ô souverain, sont nombreux, nombreux. Tes chevaux, ô souverain, sont bien entraînés et rapides. J'ai composé mes quelques vers, en prolongement de ton chant. »
 
@@ -166,7 +166,7 @@ Avec le <i>Kh</i>üan Â, ce que l'on appelle les odes « correctes » de la tro
 
 Le peuple est certes lourdement accablé, mais peut-être trouvera-t-il un peu de soulagement. Préservons ce centre du royaume, pour assurer le repos de ses quatre quartiers. Ne cédons pas aux rusés et aux obséquieux, afin de rendre prudents les inconsciencieux et de réprimer les brigands et les oppresseurs, qui ne craignent pas la volonté claire (du Ciel) [^549]. Alors, faisons preuve de bonté envers ceux qui sont loin, et aidons ceux qui sont proches, affermissant ainsi le trône de notre roi.
 
-<span id="p408">[<sup><small>p. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 <a id="o10"></a>
 
@@ -182,7 +182,7 @@ Le Ciel envoie maintenant des calamités ; ne soyez pas si complaisant. Le Ciel 
 
 Bien que mes devoirs soient différents des vôtres, je suis votre compagnon de service. Je viens vous conseiller, et vous m'écoutez avec une indifférence méprisante. Mes paroles concernent les affaires (urgentes) ; ne les prenez pas pour un sujet de plaisanterie. Les anciens avaient un dicton : « Consultez les ramasseurs d'herbe et de bois de chauffage » [^551].
 
-<span id="p409">[<sup><small>p. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 Le ciel exerce maintenant son oppression ; — Ne vous moquez pas ainsi des choses. Je suis un vieillard, (je parle) en toute sincérité ; mais vous, mes cadets, vous êtes pleins d'orgueil. Ce n'est pas que mes paroles soient celles de l'âge, mais vous vous moquez de ce qui est triste. Mais les ennuis se multiplieront comme des flammes, jusqu'à ce qu'ils soient irrémédiables.
 
@@ -190,7 +190,7 @@ Le ciel manifeste maintenant sa colère ; ne soyez ni vantards ni flatteurs, ni 
 
 Le ciel éclaire le peuple [^553], comme la flûte de bambou répond au sifflet de terre ; comme deux demi-masses forment un tout ; comme tu prends une chose et l'emportes dans ta main, l'emportant sans plus de cérémonie. L'illumination du peuple est très facile. Ils ont (maintenant) beaucoup de perversités ; — ne leur expose pas ta perversité.
 
-Les hommes de bien sont une barrière ; les multitudes du peuple sont un mur ; les grands États sont des écrans ; les grandes familles sont des contreforts ; — le culte de la vertu <span id="p410">[<sup><small>p. 410</small></sup>]</span> assure le repos ; le cercle des parents (du roi) est un mur fortifié. Nous ne devons pas laisser le mur fortifié être détruit ; nous ne devons pas laisser (le roi) être solitaire et consumé par la terreur.
+Les hommes de bien sont une barrière ; les multitudes du peuple sont un mur ; les grands États sont des écrans ; les grandes familles sont des contreforts ; — le culte de la vertu <span id="p410"><sup><small>[ p. 410 ]</small></sup></span> assure le repos ; le cercle des parents (du roi) est un mur fortifié. Nous ne devons pas laisser le mur fortifié être détruit ; nous ne devons pas laisser (le roi) être solitaire et consumé par la terreur.
 
 Révère la colère du Ciel, et ne présume pas de jouer ou de rester oisif. Révère les humeurs changeantes du Ciel, et ne présume pas de circuler (à ton gré). Le Grand Ciel est intelligent, et t'accompagne dans tous tes déplacements. Le Grand Ciel est clairvoyant, et t'accompagne dans tes errances et tes indulgences.
 

@@ -54,9 +54,9 @@ Celui qui marche prudemment marche seulement en ne prêtant attention qu'à sa m
 
 3\. En ce qui concerne la mendicité [^333], un moine doit éviter les fautes dans la recherche [^334], dans la réception [^335] et dans l'utilisation [^336] des trois sortes d'objets, à savoir la nourriture, les objets d'usage et le logement. (11)
 
-Un moine zélé doit éviter, dans le premier cas (c'est-à-dire dans la recherche de l'aumône), les fautes occasionnées soit par le donateur (udgama), soit par le receveur (utpâdana) ; dans le second cas (c'est-à-dire dans la réception de l'aumône), les fautes inhérentes à la réception ; et dans l'usage des objets reçus, les quatre fautes [^337]. (12) <span id="p132">[<sup><small>p. 132</small></sup>]</span> 4\. Si un moine prend ou abandonne les deux sortes d'objets appartenant à son équipement général et <span id="p133">[<sup><small>p. 133</small></sup>]</span> supplémentaire [^338], il doit procéder de la manière suivante. (13)
+Un moine zélé doit éviter, dans le premier cas (c'est-à-dire dans la recherche de l'aumône), les fautes occasionnées soit par le donateur (udgama), soit par le receveur (utpâdana) ; dans le second cas (c'est-à-dire dans la réception de l'aumône), les fautes inhérentes à la réception ; et dans l'usage des objets reçus, les quatre fautes [^337]. (12) <span id="p132"><sup><small>[ p. 132 ]</small></sup></span> 4\. Si un moine prend ou abandonne les deux sortes d'objets appartenant à son équipement général et <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> supplémentaire [^338], il doit procéder de la manière suivante. (13)
 
-<span id="p134">[<sup><small>p. 134</small></sup>]</span>
+<span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
 
 Un moine zélé doit essuyer la chose après l'avoir inspectée des yeux, puis il doit la prendre ou la poser, ayant le Samiti dans les deux cas [^339]. (I 4)
 
@@ -64,7 +64,7 @@ Un moine zélé doit essuyer la chose après l'avoir inspectée des yeux, puis i
 
 \[Un lieu peut ne pas être fréquenté et ne pas être vu (par les gens), ou ne pas être fréquenté mais vu, ou fréquenté et ne pas être vu, ou fréquenté et vu. (16)\] [^340]
 
-Dans un endroit ni fréquenté ni vu par d'autres personnes, qui n'offre aucun obstacle à la maîtrise de soi, qui est plat, non couvert d'herbe ou de feuilles [^341], et qui a été <span id="p135">[<sup><small>p. 135</small></sup>]</span> amené dans son état actuel [^342] il n'y a pas longtemps, qui est spacieux, a une couche superficielle inanimée [^343], pas trop proche (du village, etc.), non perforé de trous, et est exempt d'insectes et de graines - dans un tel endroit il devrait laisser ses excréments, etc. (17, 18)
+Dans un endroit ni fréquenté ni vu par d'autres personnes, qui n'offre aucun obstacle à la maîtrise de soi, qui est plat, non couvert d'herbe ou de feuilles [^341], et qui a été <span id="p135"><sup><small>[ p. 135 ]</small></sup></span> amené dans son état actuel [^342] il n'y a pas longtemps, qui est spacieux, a une couche superficielle inanimée [^343], pas trop proche (du village, etc.), non perforé de trous, et est exempt d'insectes et de graines - dans un tel endroit il devrait laisser ses excréments, etc. (17, 18)
 
 Les cinq Samitis sont ainsi brièvement énumérés, je vais maintenant expliquer dans l'ordre les trois Guptis [^344]. (19)
 
@@ -76,7 +76,7 @@ Un moine zélé doit empêcher son esprit de désirer le malheur d'autrui [^346]
 
 Un moine zélé devrait empêcher ses paroles d'exprimer des désirs, etc. (comme au verset 21). (23)
 
-3\. En se tenant debout, assis, couché, en sautant, en marchant et en utilisant ses organes, un moine zélé doit empêcher son corps d'exprimer des désirs désagréables, <span id="p136">[<sup><small>p. 136</small></sup>]</span> de commettre des actes qui causent de la misère aux êtres vivants ou qui entraînent leur destruction. (24, 25)
+3\. En se tenant debout, assis, couché, en sautant, en marchant et en utilisant ses organes, un moine zélé doit empêcher son corps d'exprimer des désirs désagréables, <span id="p136"><sup><small>[ p. 136 ]</small></sup></span> de commettre des actes qui causent de la misère aux êtres vivants ou qui entraînent leur destruction. (24, 25)
 
 Ce sont les cinq Samitis pour la pratique de la vie religieuse, et les Guptis pour la prévention de tout péché. (26)
 
@@ -135,7 +135,7 @@ Ainsi je dis.
 [^338]: 131:7 Il y a en tout quarante-six fautes à éviter. Comme elles sont fréquemment mentionnées dans les textes sacrés, une énumération et une description systématiques de celles-ci selon la Dîpikâ seront utiles.
   Il existe seize udgama-dôshas par lesquels la nourriture, etc., devient impropre à un moine <i>Gaina</i> :
   1\. Âdhâkarmika, le défaut inhérent à la nourriture, etc., qu'un laïc a préparée spécialement pour les mendiants religieux de quelque secte que ce soit.
-  2\. Auddê<i>s</i>ika, est la nourriture, etc., qu'un laïc a préparée pour un moine en particulier. <span id="p132">[<sup><small>p. 132</small></sup>]</span>
+  2\. Auddê<i>s</i>ika, est la nourriture, etc., qu'un laïc a préparée pour un moine en particulier. <span id="p132"><sup><small>[ p. 132 ]</small></sup></span>
   3\. Pûtika, est un aliment, etc., qui est pur dans son ensemble, mais qui contient des particules impures à cause du premier défaut.
   4\. Unmi<i>s</i>ra, est un aliment, etc., dont une partie seulement a été spécialement préparée pour le moine en question.
   5\. Sthâpanâkarmika, est la nourriture, etc., qui a été réservée au moine.
@@ -155,7 +155,7 @@ Ainsi je dis.
   1\. Dhâtrîkarman, lorsque le moine joue avec les enfants du laïc.
   2\. Dûtakarman, lorsqu'il lui donne des informations sur ce que fait son peuple.
   3\. Nimitta, lorsqu'il parle en louange de l'aumône.
-  4\. Â<i>g</i>îvikâ, lorsqu'il lui fait connaître sa naissance et sa famille. <span id="p133">[<sup><small>p. 133</small></sup>]</span> 5\. Vapanîka, lorsqu'il s'étend sur sa misère.
+  4\. Â<i>g</i>îvikâ, lorsqu'il lui fait connaître sa naissance et sa famille. <span id="p133"><sup><small>[ p. 133 ]</small></sup></span> 5\. Vapanîka, lorsqu'il s'étend sur sa misère.
   6\. <i>Kikitsâ</i>, lorsqu'il guérit les malades.
   7\. Krôdhapi<i>n</i><i>d</i>a, lorsqu'il extorque des aumônes par des menaces.
   8\. Mânapi<i>n</i><i>d</i>a, lorsqu'il dit au laïc qu'il a parié avec d'autres moines qu'il recevrait de lui l'aumône.
@@ -177,7 +177,7 @@ Ainsi je dis.
   7\. Unmi<i>s</i>rita, lorsque le profane mélange des aliments purs avec des aliments impurs.
   8\. Aparita (?), lorsqu'un copropriétaire cède le magasin contre la volonté de l'autre.
   9\. Lipta, lorsque le laïc donne de la nourriture, etc., avec une louche ou sa main, souillée de lait, de beurre, etc.
-  10\. <i>Kh</i>ardita, lorsqu'en faisant l'aumône il renverse du lait, etc. <span id="p134">[<sup><small>p. 134</small></sup>]</span>
+  10\. <i>Kh</i>ardita, lorsqu'en faisant l'aumône il renverse du lait, etc. <span id="p134"><sup><small>[ p. 134 ]</small></sup></span>
   Il y a quatre défauts de paribhôgaisha<i>n</i>â :
   1\. Sa<i>m</i>yô<i>g</i>anâ, lorsque le moine rassemble les ingrédients pour un bon repas.
   2\. Apramâ<i>n</i>a, lorsqu'il accepte une quantité de nourriture supérieure à celle prescrite.

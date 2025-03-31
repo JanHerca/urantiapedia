@@ -36,11 +36,11 @@ HUITIÈME CONFÉRENCE. LES VERS DE KAPILA [^125].
 
 Par quels actes puis-je échapper à un sort douloureux dans ce Sa<i>m</i>sâra instable et éternel, qui est plein de misère ? (1)
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 En quittant vos anciennes relations, ne placez votre affection sur rien ; un moine qui n'aime même pas ceux qui l'aiment, sera libéré du péché et de la haine. (2)
 
-Alors le meilleur des sages, qui est exempt de <span id="p33">[<sup><small>p. 33</small></sup>]</span> illusion et possède une connaissance et une foi parfaites, parle pour le bien et le bien-être éternel, et pour la libération finale de tous les êtres. (3)
+Alors le meilleur des sages, qui est exempt de <span id="p33"><sup><small>[ p. 33 ]</small></sup></span> illusion et possède une connaissance et une foi parfaites, parle pour le bien et le bien-être éternel, et pour la libération finale de tous les êtres. (3)
 
 Toutes les chaînes (de l'âme) et toute haine, tout ce qui est de ce genre, un moine doit les rejeter ; il ne doit s'attacher à aucun plaisir, les examiner attentivement et prendre soin de lui-même. (4)
 
@@ -70,7 +70,7 @@ Et si quelqu'un donnait toute la terre à un seul homme, il n'en aurait pas asse
 
 Plus on possède, plus on désire ; nos désirs augmentent avec nos moyens. Même si deux mâshas suffisent à combler nos besoins, dix millions ne suffiraient guère. (17)
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Ne désirez pas (les femmes), ces démons femelles [^129], sur les seins desquels poussent deux morceaux de chair, qui changent continuellement d'avis, qui attirent les hommes, et se moquent d'eux comme d'esclaves. (18)
 

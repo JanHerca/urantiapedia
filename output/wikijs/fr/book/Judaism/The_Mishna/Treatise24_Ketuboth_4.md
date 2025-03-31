@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 4. Le père a droit aux Kidushin [^820] de sa fille, [étant non nubile], que ce soit par argent, contrat de mariage ou lien de parenté. Il a également droit à ce qu'elle trouve, à ses gains et à l'annulation de ses vœux. Il reçoit également son Get [^821] pour elle, mais ne jouit pas de l'usufruit [de ses biens maternels] de son vivant. Le mari a l'avantage sur lui, car il jouit de l'usufruit [de ses biens] de son vivant. Mais il est alors tenu à son entretien, à sa rançon [en cas de captivité] et à son enterrement. Rabbi Jehudah dit : « Même l'homme le plus pauvre en Israël ne devrait pas avoir moins de deux flûtes de deuil et une femme de deuil [aux funérailles de sa femme]. »
 
-<span id="p251">[<sup><small>p. 251</small></sup>]</span>
+<span id="p251"><sup><small>[ p. 251 ]</small></sup></span>
 
 § 5. Elle \[une femme\] est toujours \[invariablement\] sous l'autorité de son père jusqu'à ce qu'elle soit placée sous l'autorité de son mari \[par mariage\]; \[selon une autre version : jusqu'à ce qu'elle soit placée sous le dais nuptial\]. [^822] Si le père l'a livrée aux émissaires du mari, elle est sous l'autorité du mari. Si le père est parti avec les émissaires du mari, ou si les émissaires du père sont partis avec les émissaires du mari, elle est \[encore\] sous l'autorité du père. Si les émissaires du père l'ont livrée aux émissaires du mari, elle est sous l'autorité de son mari.
 
@@ -50,7 +50,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 7. Bien qu'il n'ait pas signé de Ketouba pour elle, la mariée reçoit néanmoins 200 dinars pour une vierge et une maneh pour une veuve, conformément à une disposition du Bethdin. [^825] S'il lui a cédé un champ d'une valeur de 100 zouz seulement, au lieu des 200 zouz qui lui sont légalement dus, et qu'il n'a pas ajouté dans la Ketouba la mention « Tous mes autres biens sont soumis à ta Ketouba », l'obligation est néanmoins en vigueur, conformément à une disposition du Bethdin. [^826]
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 § 8. Bien qu'il n'ait pas inséré dans sa Ketouba : « Si tu es faite captive, je te rachèterai et te recevrai comme ma femme » ; ou, si elle est la femme d'un prêtre, « et je te ramènerai dans ta propre terre, [maison] », [^827] l'obligation est néanmoins en vigueur, car il s'agit d'une stipulation fixe, [condition permanente édictée] par le Bethdin.
 

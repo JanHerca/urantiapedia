@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p158">[<sup><small>p. 158</small></sup>]</span>
+<span id="p158"><sup><small>[ p. 158 ]</small></sup></span>
 
 VINGT-NEUVIÈME CONFÉRENCE. L’EFFORT DANS LA JUSTICE.
 
@@ -54,7 +54,7 @@ Cette conférence traite des sujets suivants :
 
 6\. nindâ, se repentir de ses péchés envers soi-même ;
 
-7\. garhâ, se repentir de ses péchés devant le gourou ; <span id="p159">[<sup><small>p. 159</small></sup>]</span> 8\. sâmâyika, pureté morale et intellectuelle de l'âme ;
+7\. garhâ, se repentir de ses péchés devant le gourou ; <span id="p159"><sup><small>[ p. 159 ]</small></sup></span> 8\. sâmâyika, pureté morale et intellectuelle de l'âme ;
 
 9\. <i>k</i>aturvi<i>m</i><i>s</i>atistava, adoration des vingt-quatre <i>G</i>inas ;
 
@@ -104,7 +104,7 @@ Cette conférence traite des sujets suivants :
 
 32\. vinivartanâ, se détourner du monde ;
 
-33\. sambhôgapratyâkhyâna, renoncer à la collecte d'aumônes dans un seul district ; <span id="p160">[<sup><small>p. 160</small></sup>]</span> 34\. upadhipratyâkhyâna, renoncer aux objets d'usage ;
+33\. sambhôgapratyâkhyâna, renoncer à la collecte d'aumônes dans un seul district ; <span id="p160"><sup><small>[ p. 160 ]</small></sup></span> 34\. upadhipratyâkhyâna, renoncer aux objets d'usage ;
 
 35\. âhârapratyâkhyâna, renoncer à la nourriture ;
 
@@ -158,7 +158,7 @@ Cette conférence traite des sujets suivants :
 
 60\. dar<i>s</i>anasampannatâ, possession de la foi ;
 
-61\. <i>k</i>âritrasampannatâ, possession de la conduite ; <span id="p161">[<sup><small>p. 161</small></sup>]</span> 62\. <i>s</i>rôtrêndriyanigraha, soumettre l'oreille ;
+61\. <i>k</i>âritrasampannatâ, possession de la conduite ; <span id="p161"><sup><small>[ p. 161 ]</small></sup></span> 62\. <i>s</i>rôtrêndriyanigraha, soumettre l'oreille ;
 
 63\. <i>k</i>akshurindriyanigraha, soumettre l'œil ;
 
@@ -190,7 +190,7 @@ Cette conférence traite des sujets suivants :
 
 4\. Par l'obéissance à ses coreligionnaires et au gourou, l'âme acquiert la discipline (vinaya). Par la discipline et l'évitement de toute mauvaise conduite (envers le maître [^424]), elle évite de renaître comme habitant de l'enfer, comme animal, comme homme (inférieur) ou comme dieu (mauvais) ; par la louange zélée, la dévotion et le respect (du gourou), elle acquiert la renaissance comme homme (bon) ou comme dieu, atteint la perfection et la béatitude, accomplit toutes les actions louables prescrites par la discipline et persuade les autres d'adopter la discipline. (4)
 
-5\. Par la confession des péchés (devant le gourou), l'âme se débarrasse des épines, pour ainsi dire, de la tromperie, des austérités mal appliquées [^425] et des croyances erronées, qui obstruent la voie de la libération finale et provoquent une migration sans fin de l'âme ; elle obtient la simplicité, par laquelle l'âme libérée de la tromperie n'acquiert pas le Karman qui conduit à un désir charnel pour une femme ou un eunuque [^426], et anéantit le Karman qu'elle avait acquis auparavant. (5) <span id="p163">[<sup><small>p. 163</small></sup>]</span> 6\. En se repentant de ses péchés, l'âme obtient le repentir, et devenant indifférente par le repentir, elle se prépare une échelle (ascendante) de vertus [^427], par laquelle elle détruit le Karman résultant de l'illusion. (6)
+5\. Par la confession des péchés (devant le gourou), l'âme se débarrasse des épines, pour ainsi dire, de la tromperie, des austérités mal appliquées [^425] et des croyances erronées, qui obstruent la voie de la libération finale et provoquent une migration sans fin de l'âme ; elle obtient la simplicité, par laquelle l'âme libérée de la tromperie n'acquiert pas le Karman qui conduit à un désir charnel pour une femme ou un eunuque [^426], et anéantit le Karman qu'elle avait acquis auparavant. (5) <span id="p163"><sup><small>[ p. 163 ]</small></sup></span> 6\. En se repentant de ses péchés, l'âme obtient le repentir, et devenant indifférente par le repentir, elle se prépare une échelle (ascendante) de vertus [^427], par laquelle elle détruit le Karman résultant de l'illusion. (6)
 
 7\. En se repentant de ses péchés devant le Guru, l'âme obtient l'humiliation ; se sentant humiliée, elle abandonnera toutes les occupations blâmables [^428] et s'appliquera à des occupations louables, par lesquelles un moine sans abri arrêtera d'infinis développements invalidants [^429]. (7)
 
@@ -200,7 +200,7 @@ Cette conférence traite des sujets suivants :
 
 10\. En rendant hommage au gourou, l'âme détruit le karman qui la conduit à naître dans les familles inférieures et acquiert le karman qui la conduit à naître dans les familles nobles ; elle gagne l'affection des gens, ce qui lui vaut d'être considérée comme une autorité, et elle suscite la bienveillance générale. (10)
 
-11\. Par l'expiation des péchés, il prévient les transgressions des vœux ; ainsi il arrête les Âsravas, préserve une conduite pure, pratique les huit articles [^430], ne néglige pas (la pratique du contrôle) et y prête une grande attention. (11) <span id="p164">[<sup><small>p. 164</small></sup>]</span> 12\. Par Kâyôtsarga, il se débarrasse des transgressions passées et présentes qui nécessitent le Prâya<i>s</i><i>k</i>itta [^431] ; ainsi son esprit est apaisé comme un portier soulagé de son fardeau ; et s'engageant dans une contemplation louable, il jouit du bonheur. (12)
+11\. Par l'expiation des péchés, il prévient les transgressions des vœux ; ainsi il arrête les Âsravas, préserve une conduite pure, pratique les huit articles [^430], ne néglige pas (la pratique du contrôle) et y prête une grande attention. (11) <span id="p164"><sup><small>[ p. 164 ]</small></sup></span> 12\. Par Kâyôtsarga, il se débarrasse des transgressions passées et présentes qui nécessitent le Prâya<i>s</i><i>k</i>itta [^431] ; ainsi son esprit est apaisé comme un portier soulagé de son fardeau ; et s'engageant dans une contemplation louable, il jouit du bonheur. (12)
 
 13\. Par l'abnégation, il ferme, pour ainsi dire, les portes des Âsravas ; par l'abnégation, il empêche les désirs de s'élever en lui ; en empêchant les désirs, il devient, pour ainsi dire, indifférent et froid envers tous les objets. (13)
 
@@ -210,7 +210,7 @@ Cette conférence traite des sujets suivants :
 
 16\. En pratiquant la Prâya<i>s</i><i>k</i>itta [^431], il se débarrasse des péchés et ne commet aucune transgression ; celui qui pratique correctement la Prâya<i>s</i><i>k</i>itta obtient la voie et la récompense de la voie [^434], il obtient la récompense d'une bonne conduite. (16)
 
-17\. En demandant pardon, il obtient le bonheur de l'esprit ; il acquiert ainsi une disposition bienveillante envers toutes sortes d'êtres vivants [^435] ; par cette <span id="p165">[<sup><small>p. 165</small></sup>]</span> disposition bienveillante, il obtient la pureté de caractère et l'absence de peur. (17)
+17\. En demandant pardon, il obtient le bonheur de l'esprit ; il acquiert ainsi une disposition bienveillante envers toutes sortes d'êtres vivants [^435] ; par cette <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> disposition bienveillante, il obtient la pureté de caractère et l'absence de peur. (17)
 
 18\. Par l'étude, il détruit le Karman qui fait obstacle à la connaissance juste. (18)
 
@@ -220,7 +220,7 @@ Cette conférence traite des sujets suivants :
 
 21\. Par la répétition, il reproduit les sons (c'est-à-dire les syllabes) et les mémorise. (21)
 
-22\. En méditant (sur ce qu'il a appris), il desserre l'emprise que les sept sortes de Karman, à l'exception de l'Âyushka [^437], (ont sur l'âme) ; il raccourcit leur durée lorsqu'elle devait être longue ; il atténue leur pouvoir lorsqu'il était intense ; (il réduit leur sphère d'action lorsqu'elle était large) [^438] ; il peut acquérir ou non l'Âyushka-karman, mais il n'accumule plus de Karman qui <span id="p166">[<sup><small>p. 166</small></sup>]</span> produit des sensations désagréables, et il traverse rapidement la très vaste forêt du quadruple Sa<i>m</i>sâra, qui est sans commencement ni fin. (22)
+22\. En méditant (sur ce qu'il a appris), il desserre l'emprise que les sept sortes de Karman, à l'exception de l'Âyushka [^437], (ont sur l'âme) ; il raccourcit leur durée lorsqu'elle devait être longue ; il atténue leur pouvoir lorsqu'il était intense ; (il réduit leur sphère d'action lorsqu'elle était large) [^438] ; il peut acquérir ou non l'Âyushka-karman, mais il n'accumule plus de Karman qui <span id="p166"><sup><small>[ p. 166 ]</small></sup></span> produit des sensations désagréables, et il traverse rapidement la très vaste forêt du quadruple Sa<i>m</i>sâra, qui est sans commencement ni fin. (22)
 
 23\. Par des discours religieux, il obtient la destruction du Karman ; par des discours religieux, il exalte la croyance, et en exaltant la croyance, il acquiert le Karman, qui assure, pour l'avenir, une félicité permanente. (23)
 
@@ -238,7 +238,7 @@ Cette conférence traite des sujets suivants :
 
 30\. Par l'indépendance mentale, il se débarrasse de l'attachement, concentrant ainsi ses pensées (sur la Loi) et devenant à jamais sans attachement ni affection (pour les choses du monde). (30)
 
-31\. En utilisant des logements et des lits peu fréquentés, il obtient le Gupti de conduite, par lequel il utilisera <span id="p167">[<sup><small>p. 167</small></sup>]</span> la nourriture autorisée, sera constant dans sa conduite, sera exclusivement ravi (de contrôle), obtiendra un désir ardent de délivrance et coupera le lien du Karman octuple. (31)
+31\. En utilisant des logements et des lits peu fréquentés, il obtient le Gupti de conduite, par lequel il utilisera <span id="p167"><sup><small>[ p. 167 ]</small></sup></span> la nourriture autorisée, sera constant dans sa conduite, sera exclusivement ravi (de contrôle), obtiendra un désir ardent de délivrance et coupera le lien du Karman octuple. (31)
 
 32\. En se détournant du monde, il s'efforcera de ne commettre aucune mauvaise action et éliminera son Karman déjà acquis par sa destruction ; alors il traversera la forêt du quadruple Samsâra. (32)
 
@@ -262,7 +262,7 @@ Cette conférence traite des sujets suivants :
 
 42\. En se conformant au standard des moines [^447] il obtient l'aisance, par là il sera prudent, portera ouvertement les excellents insignes de l'ordre, sera d'une parfaite droiture, possédera la fermeté et le Samitis, inspirera à tous les êtres la confiance, ne pensera qu'à peu de choses [^448], soumettra ses sens et pratiquera, à un haut degré, le Samitis et les austérités. (42)
 
-43\. En rendant service, il acquiert le Karman <span id="p169">[<sup><small>p. 169</small></sup>]</span> qui lui confère le nâman et le gôtra d'un Tîrthakara. (43)
+43\. En rendant service, il acquiert le Karman <span id="p169"><sup><small>[ p. 169 ]</small></sup></span> qui lui confère le nâman et le gôtra d'un Tîrthakara. (43)
 
 En accomplissant toutes les vertus, il s'assure qu'il ne renaîtra pas ; ainsi il sera exempté des douleurs du corps et de l'esprit. (44)
 
@@ -282,7 +282,7 @@ En accomplissant toutes les vertus, il s'assure qu'il ne renaîtra pas ; ainsi i
 
 52\. Par la sincérité de ses actes, il deviendra pur dans ses actions. (52)
 
-53\. Par la vigilance [^449] de l'esprit, il concentre ses pensées ; ainsi, il exerce véritablement le contrôle. (53) <span id="p170">[<sup><small>p. 170</small></sup>]</span> 54\. Par la vigilance de ses paroles, il se tient à l'écart de toute prévarication ; ainsi, il permet à son esprit d'agir correctement. (54)
+53\. Par la vigilance [^449] de l'esprit, il concentre ses pensées ; ainsi, il exerce véritablement le contrôle. (53) <span id="p170"><sup><small>[ p. 170 ]</small></sup></span> 54\. Par la vigilance de ses paroles, il se tient à l'écart de toute prévarication ; ainsi, il permet à son esprit d'agir correctement. (54)
 
 55\. En surveillant son corps, il obtient le Samvara [^450] ; il prévient ainsi les Âsravas pécheurs. (55)
 
@@ -306,11 +306,11 @@ En accomplissant toutes les vertus, il s'assure qu'il ne renaîtra pas ; ainsi i
 
 68\. En vainquant l'orgueil, il obtient la simplicité, etc. (comme en 67, en substituant l'orgueil à la colère). (68)
 
-69\. En surmontant la tromperie, il obtient l'humilité, etc. (comme en 67, en remplaçant la colère par la tromperie). (69) <span id="p172">[<sup><small>p. 172</small></sup>]</span> 70\. En surmontant l'avidité, il obtient le contentement, etc. (comme en 67, en remplaçant la colère par l'avidité). (70)
+69\. En surmontant la tromperie, il obtient l'humilité, etc. (comme en 67, en remplaçant la colère par la tromperie). (69) <span id="p172"><sup><small>[ p. 172 ]</small></sup></span> 70\. En surmontant l'avidité, il obtient le contentement, etc. (comme en 67, en remplaçant la colère par l'avidité). (70)
 
 71\. En conquérant l'amour, la haine et la croyance erronée, il s'efforce d'acquérir la connaissance, la foi et la conduite justes, puis il coupera les chaînes du Karman octuple ; il détruira d'abord les vingt-huit sortes [^456] de Karman, qui sont productrices d'illusion ; (puis) ​​les cinq sortes d'obstruction à la connaissance juste [^457], les neuf sortes d'obstruction à la foi juste [^458], et les cinq sortes d'obstacles (appelés Antarâya) : les trois derniers restes de Karman, il les détruit simultanément ; ensuite il obtient la connaissance et la foi absolues, qui sont suprêmes, pleines, complètes, incontrôlées, claires, sans défaut, et éclairant (ou pénétrant) l'univers entier ; et tandis qu'il agit encore [^459], il n'acquiert que le Karman qui est inséparable des actes religieux [^460] ; les sentiments agréables (produits par lui) durent avant deux moments : dans le premier moment il est acquis, dans le deuxième il est expérimenté, et dans le troisième il est détruit ; ce Karman est produit, entre en contact (avec l'âme), prend naissance, est expérimenté, et est détruit ; pour tous les temps à venir, il est exempt de Karman. (71)
 
-72\. Puis [^461], lorsque sa vie est passée à moins de <span id="p173">[<sup><small>p. 173</small></sup>]</span> la moitié d'un muhûrta, il cesse d'agir et entre dans la méditation pure (troisième degré) [^462], sans rechute (aux degrés inférieurs), qui ne requiert que les fonctions les plus subtiles (de ses organes) ; il arrête d'abord les fonctions de son esprit, puis celles de la parole, puis celles du corps, et enfin il cesse de respirer. Pendant le temps nécessaire à la prononciation de cinq syllabes courtes, il est engagé dans la méditation pure finale, dans laquelle toutes les fonctions (de ses organes) cessent, et il annihile simultanément les quatre vestiges de Karman, à savoir : vêdanîya, âyushka, nâman et gôtra [^463]. (72)
+72\. Puis [^461], lorsque sa vie est passée à moins de <span id="p173"><sup><small>[ p. 173 ]</small></sup></span> la moitié d'un muhûrta, il cesse d'agir et entre dans la méditation pure (troisième degré) [^462], sans rechute (aux degrés inférieurs), qui ne requiert que les fonctions les plus subtiles (de ses organes) ; il arrête d'abord les fonctions de son esprit, puis celles de la parole, puis celles du corps, et enfin il cesse de respirer. Pendant le temps nécessaire à la prononciation de cinq syllabes courtes, il est engagé dans la méditation pure finale, dans laquelle toutes les fonctions (de ses organes) cessent, et il annihile simultanément les quatre vestiges de Karman, à savoir : vêdanîya, âyushka, nâman et gôtra [^463]. (72)
 
 73\. Puis, s'étant débarrassée, par tous les moyens, de ses corps audârika, kârma<i>n</i>a (et tai<i>g</i>asa), l'âme prend la forme d'une ligne droite, monte en un instant, sans rien toucher et sans occuper d'espace, (vers le plus haut Akâ<i>s</i>a), et là, se développe dans sa forme naturelle, obtient la perfection, l'illumination, la délivrance et la béatitude finale, et met fin à toute misère. (73)
 

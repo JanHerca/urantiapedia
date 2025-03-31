@@ -44,7 +44,7 @@ L'épouse du brahmane dit :
 
 Quant à ce symbole du Brahman appelé Kshetragña, où peut-on en trouver une description qui permette de le comprendre ?
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 Le Brâhmana a dit :
 

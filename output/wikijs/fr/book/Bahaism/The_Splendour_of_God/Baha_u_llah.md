@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T10:15:31Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 Les chrétiens furent appelés ainsi pour la première fois à Antioche.
 
@@ -50,7 +50,7 @@ Comme François d’Assise, il choisit la pauvreté et la diffamation avec les f
 
 Il acquit rapidement une position d’admiration et de vénération. Son caractère aimable et direct, sa profonde dévotion au Bâb et à ses principes furent appréciés bien avant qu’il ne se déclare lui-même comme Celui que, selon son prédécesseur, « Dieu rendrait manifeste ».
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 La persécution et le martyre du Báb, ainsi que les mauvais traitements incessants infligés aux babis, ont conduit à un attachement encore plus fort aux révélations du Prophète. Cela, encore une fois, semble en parfaite harmonie avec l’histoire de la religion. « Le sang des martyrs est la semence de l’Église. »
 
@@ -86,7 +86,7 @@ Bahá'u'lláh « se déclara » en 1863. Après avoir voyagé avec eux jusqu'à 
 
 Exil à Andrinople, tel était le décret immuable. Nos religieux persécutés furent convoqués à Andrinople.
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 Pendant son séjour à Andrinople, Bahá’u’lláh trouva le temps d’adresser des épîtres au pape et aux monarques d’Europe, dans lesquelles il les exhortait à établir l’unité, à abandonner l’injustice et à abolir les pratiques guerrières. Il ne fut pas permis à Andrinople de le retenir longtemps. Lui et ses amis furent finalement condamnés à l’exil à Acre, en Syrie, en fait une colonie pénitentiaire au nord du mont Carmel, [^2] un endroit redouté pour son atmosphère pestilentielle et son inaccessibilité. L’idée que la fièvre puisse bientôt attaquer et tuer le prophète suscita une joie pleine d’espoir dans l’esprit de ses persécuteurs. Ils s’arrangèrent, avec une grande cruauté, pour que « les quelques fidèles » vivent du mieux qu’ils le pouvaient dans deux pièces des casernes de la ville. Ils furent environ soixante-dix à y être enfermés pendant deux ans.
 
@@ -110,7 +110,7 @@ Bahá’u’lláh a écrit de nombreuses « tablettes » et traités d’instruc
 
 Bahá'u'lláh a insisté sur la charité pratique, la bonne volonté pratique et la bonté envers tous et chacun, y compris le monde animal inférieur.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 L’histoire a une fâcheuse habitude de se répéter. Les religions du passé ont été instituées, les réformes religieuses réalisées par des hommes pieux divinement inspirés, qui, certains de la source de leur inspiration, refusaient eux-mêmes de pratiquer le culte sous quelque forme que ce soit. Bien plus, ils ont clairement, dans des cas remarquables, interdit ce culte pendant qu’ils vivaient sur terre ou après leur départ corporel du monde. Les proclamations du genre « Je suis de Paul » ou « Je suis d’Apollos » étaient interdites. La construction de temples et l’élévation d’autels en mémoire des prophètes et des prédicateurs ont néanmoins généralement commencé. À une distance mesurable de l’ascension du prophète, des temples ont été érigés, le culte étant rendu obligatoire pour l’adhésion.
 

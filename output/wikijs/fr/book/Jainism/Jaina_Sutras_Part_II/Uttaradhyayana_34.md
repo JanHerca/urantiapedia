@@ -36,7 +36,7 @@ TRENTE-QUATRIÈME CONFÉRENCE. SUR LÊ<i>S</i>YÂ [^548].
 
 Je donnerai dans l'ordre la conférence sur Lê<i>s</i>yâ ; écoutez la nature des six Lê<i>s</i>yâs (produite par) Karman. (1)
 
-<span id="p197">[<sup><small>p. 197</small></sup>]</span>
+<span id="p197"><sup><small>[ p. 197 ]</small></sup></span>
 
 Écoutez 1. les noms, 2. les couleurs, 3. les goûts, 4. les odeurs, 5. les touches, 6. les degrés, 7. le caractère, 8. la variété, 9. la durée, 10. le résultat et 11. la vie des Lê<i>s</i>yâs. (2)
 
@@ -56,7 +56,7 @@ Le Lê<i>s</i>yâ blanc a la couleur d'une conque, de la pierre aṅka [^555], d
 
 3\. Le goût du Lê<i>s</i>yâ noir est infiniment plus amer que celui du Tumbaka [^557], (du fruit du) Nimb-tree [^558], ou du Rôhi<i>n</i>î. (10)
 
-<span id="p198">[<sup><small>p. 198</small></sup>]</span>
+<span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 Le goût du Lê<i>s</i>yâ bleu est infiniment plus piquant que celui du Trika<i>t</i>uka [^559] et du Hastipippalî. (11)
 
@@ -76,7 +76,7 @@ L'odeur des trois bonnes Lê<i>s</i>yâs est infiniment plus agréable que celle
 
 Le toucher des trois bons Lê<i>s</i>yâs est infiniment plus agréable que celui du coton, du beurre ou des fleurs de <i>S</i>irîsha [^562]. (19)
 
-6\. Les degrés [^563] des Lê<i>s</i>yâs sont trois, ou neuf, <span id="p199">[<sup><small>p. 199</small></sup>]</span> ou vingt-sept, ou quatre-vingt-un, ou deux cent quarante-trois. (20)
+6\. Les degrés [^563] des Lê<i>s</i>yâs sont trois, ou neuf, <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> ou vingt-sept, ou quatre-vingt-un, ou deux cent quarante-trois. (20)
 
 7\. Un homme qui agit sous l'impulsion des cinq Âsravas [^564], ne possède pas les trois Guptis, n'a cessé de nuire aux six (espèces d'êtres vivants), commet des actes cruels, est méchant et violent, ne craint aucune conséquence [^565], est malveillant et ne maîtrise pas ses sens — un homme avec de telles habitudes développe la Lê<i>s</i>yâ noire. (21, 22)
 
@@ -86,7 +86,7 @@ Un homme malhonnête en paroles et en actes, qui est vil, pas droit, un dissimul
 
 Un homme humble, constant, exempt de tromperie et de curiosité, bien discipliné, retenu, attentif à ses études et à ses devoirs [^567], qui aime la Loi et la respecte, qui a peur des choses interdites et s'efforce d'atteindre le plus grand bien — un homme de telles habitudes développe la Lê<i>s</i>yâ rouge. (27, 28)
 
-Un homme qui a peu de colère, d'orgueil, de tromperie et d'avidité, dont l'esprit est tranquille, qui se contrôle, <span id="p200">[<sup><small>p. 200</small></sup>]</span> qui est attentif à ses études et à ses devoirs, qui parle peu, est calme et maîtrise ses sens, un homme avec de telles habitudes développe le Lê<i>s</i>yâ jaune. (29, 30)
+Un homme qui a peu de colère, d'orgueil, de tromperie et d'avidité, dont l'esprit est tranquille, qui se contrôle, <span id="p200"><sup><small>[ p. 200 ]</small></sup></span> qui est attentif à ses études et à ses devoirs, qui parle peu, est calme et maîtrise ses sens, un homme avec de telles habitudes développe le Lê<i>s</i>yâ jaune. (29, 30)
 
 Un homme qui s'abstient de penser constamment à sa misère et à ses actes pécheurs, mais s'engage dans la méditation sur la Loi et la vérité seulement [^568], dont l'esprit est apaisé, qui se contrôle, qui pratique les Samitis et les Guptis, qu'il soit encore soumis à la passion ou libre de passion, est calme et soumet ses sens — un homme de telles habitudes développe la Lê<i>s</i>yâ blanche. (31, 32)
 
@@ -102,7 +102,7 @@ Un demi-muhûrta est la plus courte, et deux Sâgarôpamâs plus un Palyôpamâ 
 
 Un demi-muhûrta est la durée la plus courte, et dix Sâgarôpamâs plus un muhûrta est la durée la plus longue du Lê<i>s</i>yâ jaune. (38)
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 Un demi-muhûrta est la durée la plus courte, et trente-trois Sâgarôpamâs plus un muhûrta est la durée la plus longue du Lê<i>s</i>yâ blanc. (39)
 
@@ -120,7 +120,7 @@ La durée de n'importe lequel des Lê<i>s</i>yâs, à l'exception du meilleur (�
 
 Un demi-muhûrta est la durée la plus courte du Lê<i>s</i>yâ blanc (des animaux et des hommes), et la plus longue un Krore des années antérieures [^573] moins neuf ans. (46)
 
-<span id="p202">[<sup><small>p. 202</small></sup>]</span>
+<span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 J'ai décrit la durée des Lê<i>s</i>yâs des animaux et des hommes, je vais maintenant décrire celle des dieux. (47)
 
@@ -140,7 +140,7 @@ La durée la plus longue du Lê<i>s</i>yâ rouge plus un Samaya est égale à la
 
 La durée la plus longue du Lê<i>s</i>yâ jaune plus un Samaya est égale à la plus courte des Lê<i>s</i>yâ blanches ; la plus longue, cependant, est trente-trois muhûrtas plus longue. (55)
 
-10\. Les Lê<i>s</i>yâs noirs, bleus et gris sont les <span id="p203">[<sup><small>p. 203</small></sup>]</span> Lê<i>s</i>yâs les plus basses ; c'est par eux que l'âme est entraînée dans des voies de vie misérables. (56)
+10\. Les Lê<i>s</i>yâs noirs, bleus et gris sont les <span id="p203"><sup><small>[ p. 203 ]</small></sup></span> Lê<i>s</i>yâs les plus basses ; c'est par eux que l'âme est entraînée dans des voies de vie misérables. (56)
 
 Les Lê<i>s</i>yâs rouges, jaunes et blancs sont les bons Lê<i>s</i>yâs ; grâce à eux, l'âme est amenée vers des voies de vie heureuses. (57)
 

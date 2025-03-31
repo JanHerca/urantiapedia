@@ -32,7 +32,7 @@ dateCreated: 2025-3-16T22:11:32Z
   </table>
 </figure>
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 [^214]
 
@@ -50,7 +50,7 @@ Ashem Vohû : La sainteté est le meilleur de tous les biens . . . .
 
 Je me confesse comme un adorateur de Mazda, un disciple de Zarathustra, quelqu'un qui hait les Daêvas et obéit aux lois d'Ahura ; pour le sacrifice, la prière, la propitiation et la glorification à \[Hâvani\], le saint et maître de la sainteté [^220] . . . .
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 À Asha-Vahisa, la plus belle ; au très désiré Airyaman, créé par Mazda, et au bon Saoka, aux yeux d'amour, créé par Mazda et saint [^221] ;
 
@@ -62,7 +62,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté [^222].
 
 1\. Ahura Mazda parla à Spitama Zarathustra, en disant : « Afin que tu puisses accroître Asha-Vahi<i>s</i>ta, ô Spitama Zarathustra ! par des hymnes de louange, par l'accomplissement de l'office, par des invocations, des paroles saintes, des sacrifices, des bénédictions et de l'adoration — pour demeurer une fois dans l'espace lumineux et brillant, dans les belles demeures [^223] — pour le sacrifice et l'invocation de nous, les Amesha-Spe<i>n</i>tas [^224] » . . . .
 
-2\. Zarathustra dit : « Dis-moi les mots justes, tels qu'ils sont, ô Ahura Mazda ! afin que j'augmente l'Asha-Vahi<i>s</i>ta, avec des hymnes de louange, <span id="p43">[<sup><small>p. 43</small></sup>]</span> avec l'accomplissement de l'office, avec des invocations, des paroles saintes, des sacrifices, des bénédictions et de l'adoration, — pour demeurer une fois dans l'espace lumineux et brillant, dans les belles demeures, — pour le sacrifice et l'invocation de toi, l'Amesha-Spe<i>n</i>tas.
+2\. Zarathustra dit : « Dis-moi les mots justes, tels qu'ils sont, ô Ahura Mazda ! afin que j'augmente l'Asha-Vahi<i>s</i>ta, avec des hymnes de louange, <span id="p43"><sup><small>[ p. 43 ]</small></sup></span> avec l'accomplissement de l'office, avec des invocations, des paroles saintes, des sacrifices, des bénédictions et de l'adoration, — pour demeurer une fois dans l'espace lumineux et brillant, dans les belles demeures, — pour le sacrifice et l'invocation de toi, l'Amesha-Spe<i>n</i>tas.
 
 3 [^225]. '. . . . Je proclame Asha-Vahi<i>s</i>ta : si je proclame Asha-Vahi<i>s</i>ta, alors facile est le chemin vers la demeure des autres Amesha-Spe<i>n</i>tas [^226], qu'Ahura Mazda garde avec de Bonnes Pensées, qu'Ahura Mazda garde avec de Bonnes Paroles, qu'Ahura Mazda garde avec de Bonnes Actions [^227] ;
 
@@ -78,7 +78,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté [^222].
 
 8\. « La couvée du Serpent s'est enfuie ; la couvée du Loup s'est enfuie ; la couvée du Bipède [^233] s'est enfuie. L'Orgueil s'est enfui ; le Mépris s'est enfui ; la Fièvre Brûlante s'est enfuie ; la Calomnie s'est enfuie ; la Discorde s'est enfuie ; le Mauvais Œil s'est enfui. »
 
-9\. « Les paroles les plus mensongères du mensonge se sont enfuies ; le <i>G</i>ahi [^234], adonné au Yâtu, s'est enfui ; le <span id="p45">[<sup><small>p. 45</small></sup>]</span> <i>G</i>ahi, qui fait pin [^235], s'est enfui ; le vent qui souffle du Nord [^236] s'est enfui ; le vent qui souffle du Nord a disparu.
+9\. « Les paroles les plus mensongères du mensonge se sont enfuies ; le <i>G</i>ahi [^234], adonné au Yâtu, s'est enfui ; le <span id="p45"><sup><small>[ p. 45 ]</small></sup></span> <i>G</i>ahi, qui fait pin [^235], s'est enfui ; le vent qui souffle du Nord [^236] s'est enfui ; le vent qui souffle du Nord a disparu.
 
 10\. « C'est lui qui me frappe, moi, la race du Serpent, et qui pourrait frapper ces Daêvas par milliers de milliers, par dizaines de milliers de dizaines de milliers ; il frappe la maladie, il frappe la mort, il frappe les Daêvas, il frappe la contre-œuvre des Daêvas, il frappe l'impie Ashemaogha, il frappe l'oppresseur des hommes.
 
@@ -90,7 +90,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté [^222].
 
 14\. 'Il s'écria, Angra Mainyu : « Malheur à moi ! Voici le dieu Asha-Vahista, qui frappera la plus maladive de toutes les maladies, qui affligera la plus maladive de toutes les maladies ;
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 « Il frappera de la plus mortelle de toutes les morts, il frappera de la plus mortelle de toutes les morts ;
 
@@ -122,7 +122,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté [^222].
 
 16\. ' Il frappera les paroles les plus mensongères, les paroles les plus mensongères, il les frappera de la main de l'épée.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 « Il frappera le <i>G</i>ahi, adonné au Yâtu, il affligera le <i>G</i>ahi, adonné au Yâtu ;
 
@@ -138,7 +138,7 @@ Yathâ ahû vairyô : La volonté du Seigneur est la loi de la sainteté [^222].
 
 19\. 'Yathâ ahû vairyô: La volonté du Seigneur est la loi de la sainteté . . . .
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 « Je bénis le sacrifice et la prière et la force et la vigueur d'Asha-Vahisa, la plus belle ; du très désiré Airyaman, créé par Mazda ; et du bon Saoka, aux yeux d'amour, créé par Mazda et saint [^246].
 

@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p19">[<sup><small>p. 19</small></sup>]</span>
+<span id="p19"><sup><small>[ p. 19 ]</small></sup></span>
 
 ## II. Le pétrolier et le perroquet.
 
@@ -62,7 +62,7 @@ Il s'arracha la barbe, poussa un profond soupir ;
 Ma main aurait voulu qu'elle se dessèche avant que j'aie frappé Poll ;
 J'ai fait taire son bavardage qui était toujours drôle !
 
-<span id="p20">[<sup><small>p. 20</small></sup>]</span>
+<span id="p20"><sup><small>[ p. 20 ]</small></sup></span>
 
 Il fait maintenant pleuvoir ses aumônes sur chaque vaurien qui passe,
 Dans l'espoir que Poll récupère son bavardage par un clochard.
@@ -100,7 +100,7 @@ Bien vide celui-là, de là coulera du sucre.
 Des milliers d'exemples de paires sont ainsi connus,
 Qui diffèrent autant que le fromage de la lune.
 
-<span id="p21">[<sup><small>p. 21</small></sup>]</span>
+<span id="p21"><sup><small>[ p. 21 ]</small></sup></span>
 
 Notre pain, dans un cas, se transforme en saleté dans notre viande ;
 Un autre produit l'esprit, le siège même de Dieu.
@@ -133,7 +133,7 @@ Un homme agit par raison, un singe par simple caprice.
 L'hypocrite[^70] adore[^71] comme une imitation du saint,
 Pour la forme, ou pire, sa religion n'est qu'une feinte.
 
-<span id="p22">[<sup><small>p. 22</small></sup>]</span>
+<span id="p22"><sup><small>[ p. 22 ]</small></sup></span>
 
 Dans le pèlerinage, le culte, le jeûne et l'aumône,[^72]
 Croyants et hypocrites rivalisent, comme dans les psaumes.
@@ -163,7 +163,7 @@ Le sens d'un livre dans le titre peut transparaître.
 Nous trouvons ici sur terre des lacs doux et des mers salées ;
 La barrière entre eux : « Jusqu'ici, n'avancez pas ! »
 
-<span id="p23">[<sup><small>p. 23</small></sup>]</span>
+<span id="p23"><sup><small>[ p. 23 ]</small></sup></span>
 
 Ils découlent tous deux, dans leur origine, d'une même source ;
 Ne regardez pas leur séparation, c'est une évidence.
@@ -199,7 +199,7 @@ Puis il se dresse encore plus fort, pour tenir toujours !
 Qui contrôlera la volonté de Dieu Tout-Puissant ?
 Ces phrases écrites sont toutes des paraboles.
 
-<span id="p24">[<sup><small>p. 24</small></sup>]</span>
+<span id="p24"><sup><small>[ p. 24 ]</small></sup></span>
 
 Parfois d'une manière, parfois d'une autre,
 La religion confond avant de sublimer.

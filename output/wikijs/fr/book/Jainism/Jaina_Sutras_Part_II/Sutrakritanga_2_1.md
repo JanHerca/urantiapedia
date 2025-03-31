@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 DEUXIÈME LIVRE [^977].
 
@@ -44,7 +44,7 @@ Il y a un bassin aux lotus contenant beaucoup d'eau et de boue, très plein et c
 
 Et partout autour du bassin aux lotus poussaient de nombreux lotus blancs, les meilleurs des Nymphaeas, comme on nous le dit, dans une belle composition, grands, brillants, de belle couleur, d'odeur, de goût et de toucher, (etc., tous jusqu'à) splendides. (3)
 
-Et au milieu même de ce bassin de lotus poussait un grand lotus blanc, le meilleur des Nymphaeas, <span id="p336">[<sup><small>p. 336</small></sup>]</span> comme on nous le dit, dans une excellente position, grand, (&c., jusqu'à) splendide. (4)
+Et au milieu même de ce bassin de lotus poussait un grand lotus blanc, le meilleur des Nymphaeas, <span id="p336"><sup><small>[ p. 336 ]</small></sup></span> comme on nous le dit, dans une excellente position, grand, (&c., jusqu'à) splendide. (4)
 
 \[^979].\] (5)
 
@@ -54,13 +54,13 @@ C'était le premier homme. Nous allons maintenant décrire le second. Un homme d
 
 « Cependant, je suis un homme intelligent et savant (etc., jusqu'à la fin du paragraphe), il s'est enlisé. » C'était le deuxième homme. (La même chose est arrivée à un troisième et un quatrième hommes, venus respectivement des quartiers ouest et nord, qui ont vu deux et trois hommes respectivement enlisés dans la boue. Certains manuscrits relatent l'histoire en détail, d'autres l'abrégent.) (8, 9)
 
-Or, un moine vivant de maigres vivres et désirant atteindre la rive (du Sa<i>m</i>sâra), savant, astucieux, (etc., jusqu'à) connaissant la direction et le détour du chemin, arriva à cet étang aux lotus par l'un des quatre points cardinaux ou par l'un des points intermédiaires (de la boussole). Debout sur la rive de l'étang aux lotus, il vit le grand lotus blanc, (etc., comme ci-dessus). Et il y vit ces quatre hommes qui, ayant quitté la rive, (etc., tous comme ci-dessus) enlisés dans la boue. Alors le moine dit : « Ces hommes ne savent pas, (etc., jusqu'à) ne connaissent pas la direction et le détour du chemin ; car ils pensaient : Nous allons chercher ce lotus blanc, le meilleur des Nymphaeas. Mais ce lotus blanc, le meilleur des Nymphaeas, ne peut être obtenu par le chemin qu'ils ont essayé. » Je suis un moine vivant de maigres vivres, (etc., jusqu'à) connaître la direction et le chemin. Je vais chercher ce lotus blanc, le meilleur des Nymphées. » Ayant dit cela, le moine n'entra pas dans le bassin aux lotus ; mais, debout sur la rive, il éleva la voix : « Envole-toi, <span id="p338">[<sup><small>p. 338</small></sup>]</span> lotus blanc, le meilleur des Nymphées ! » Et le lotus blanc, le meilleur des Nymphées, s'envola. (10)
+Or, un moine vivant de maigres vivres et désirant atteindre la rive (du Sa<i>m</i>sâra), savant, astucieux, (etc., jusqu'à) connaissant la direction et le détour du chemin, arriva à cet étang aux lotus par l'un des quatre points cardinaux ou par l'un des points intermédiaires (de la boussole). Debout sur la rive de l'étang aux lotus, il vit le grand lotus blanc, (etc., comme ci-dessus). Et il y vit ces quatre hommes qui, ayant quitté la rive, (etc., tous comme ci-dessus) enlisés dans la boue. Alors le moine dit : « Ces hommes ne savent pas, (etc., jusqu'à) ne connaissent pas la direction et le détour du chemin ; car ils pensaient : Nous allons chercher ce lotus blanc, le meilleur des Nymphaeas. Mais ce lotus blanc, le meilleur des Nymphaeas, ne peut être obtenu par le chemin qu'ils ont essayé. » Je suis un moine vivant de maigres vivres, (etc., jusqu'à) connaître la direction et le chemin. Je vais chercher ce lotus blanc, le meilleur des Nymphées. » Ayant dit cela, le moine n'entra pas dans le bassin aux lotus ; mais, debout sur la rive, il éleva la voix : « Envole-toi, <span id="p338"><sup><small>[ p. 338 ]</small></sup></span> lotus blanc, le meilleur des Nymphées ! » Et le lotus blanc, le meilleur des Nymphées, s'envola. (10)
 
 Je vous ai dit, ô Sramana à la longue vie, une comparaison [^980] ; vous devez en comprendre le sens [^981]. Les moines et nonnes Nirgrantha adorèrent et louèrent le Vénérable Ascète Mahâvîra, puis parlèrent ainsi : « Vous avez dit, ô Sramana à la longue vie, la comparaison, mais nous n’en comprenons pas le sens, ô Sramana à la longue vie ! » Le Vénérable Ascète Mahâvîra s’adressa à la foule des moines et nonnes Nirgrantha et parla ainsi : Ah, vous, Sramana à la longue vie ! Je vais la dire, la déclarer, l’expliquer, l’exposer et la démontrer avec son sens, ses raisons et ses arguments. Ainsi je dis : (11)
 
 Ô Srama<i>n</i>as à la longue vie [^982], signifiant [^983] le monde, j'ai parlé de l'étang aux lotus. Signifiant Karman, j'ai parlé de l'eau. Signifiant les plaisirs et les divertissements, j'ai parlé de la boue. Signifiant les gens en général, j'ai parlé de ces nombreux lotus blancs, les meilleurs de Nymphaeas. Signifiant le roi, j'ai parlé du grand lotus blanc, le meilleur de Nymphaeas. Signifiant les enseignants hérétiques, j'ai parlé de ces quatre hommes. Signifiant la Loi, j'ai parlé du moine. Signifiant l'église [^984], j'ai parlé de la banque. Signifiant la prédication de la Loi, j'ai parlé de la voix (du moine). Signifiant le Nirvânâ, j'ai parlé de l'envol (du lotus). Signifiant ces choses, ô Srama<i>n</i>as à la longue vie, j'ai dit ceci (comparaison). (12)
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 Ici, à l'Est, à l'Ouest, au Nord et au Sud, de nombreux hommes sont nés selon leur mérite, habitants de ce monde, certains aryas, d'autres non-aryas, certains issus de familles nobles, d'autres de familles modestes, certains grands, d'autres petits, certains de belle apparence, d'autres de mauvaise apparence, certains beaux, d'autres laids. Et parmi ces hommes, un seul est roi, aussi fort que les grandes montagnes Himavat, Malaya, Mandara et Mahêndra (etc., jusqu'à) et qui gouverne son royaume où toutes les émeutes et mutineries ont été réprimées [^985].
 
@@ -78,7 +78,7 @@ Ces (Nâstikas) ne peuvent vous renseigner [^993] sur les points suivants : si u
 
 Ainsi, certains hommes sans vergogne, devenus moines, propagent leur propre Loi. D'autres y croient, y mettent leur foi, l'adoptent, en disant : « Eh bien, tu dis vrai, ô Brâhma<i>n</i>a, (ou) ô Srama<i>n</i>a ! Nous t'offrirons nourriture, boisson, épices et friandises, ainsi qu'une robe, un bol ou un balai. »
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 Certains ont été incités à les honorer, d’autres ont obligé (leurs prosélytes) à les honorer. (18)
 
@@ -102,7 +102,7 @@ J'ai donc traité du second homme (qui croit que) tout est constitué des cinq �
 
 Je vais maintenant traiter du troisième homme (qui croit que) le Soi [^997] est la cause de tout.
 
-<span id="p344">[<sup><small>p. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 Ici, en Orient, (&c., voir §§ 12, 13, jusqu'à) enseignez bien cette religion. (25)
 
@@ -120,7 +120,7 @@ Ici, en Orient, (&c., voir §§ 12, 13, jusqu'à) enseignez bien cette religion.
 
 « Comme, par exemple, une masse d'eau est produite par l'eau, croît à travers l'eau, n'est pas séparée de l'eau, mais est liée à l'eau : ainsi en est-il de toutes choses (etc., tout comme ci-dessus).
 
-« Comme, par exemple, une bulle d’eau est produite dans l’eau, croît dans l’eau, n’est pas séparée de l’eau, <span id="p345">[<sup><small>p. 345</small></sup>]</span> mais est liée à l’eau : ainsi toutes choses, (etc., tout comme ci-dessus). » (26)
+« Comme, par exemple, une bulle d’eau est produite dans l’eau, croît dans l’eau, n’est pas séparée de l’eau, <span id="p345"><sup><small>[ p. 345 ]</small></sup></span> mais est liée à l’eau : ainsi toutes choses, (etc., tout comme ci-dessus). » (26)
 
 « Et les douze Aṅgas, le Canon des Ga<i>n</i>ins [^998], qui a été enseigné, produit et déclaré par les <i>S</i>rama<i>n</i>as, les Nirgranthas, à savoir les Â<i>k</i>ârâṅga (jusqu'au) D<i>ri</i>sh<i>t</i>ivâda, sont faux, ne sont pas vrais, ne sont pas une représentation de la vérité ; mais ceci (notre doctrine) est correct, est vrai, est une représentation de la vérité. »
 
@@ -138,7 +138,7 @@ Ici, en Orient, (&c., voir §§ 12, 13, jusqu'à) enseignez bien cette religion.
 
 Il y a deux (sortes d')hommes. L'un admet l'action, l'autre ne l'admet pas. Les deux hommes, celui qui admet l'action et celui qui ne l'admet pas, sont semblables, leur situation est la même, car ils sont animés par la même force [^999]. (30)
 
-<span id="p346">[<sup><small>p. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 « Un ignorant pense à la cause comme suit : « Quand je souffre, que je suis affligé, que je me blâme, que je deviens faible [^1000], que je suis affligé ou que je subis une grande douleur, j'en suis la cause ; ou quand un autre homme souffre, etc., il en est la cause. » Ainsi, un ignorant pense que lui-même ou un autre homme est la cause de ce que lui ou cet autre homme éprouve. (31)
 
@@ -150,7 +150,7 @@ En entretenant de telles opinions, ces (hérétiques) ne peuvent pas vous inform
 
 Ces hommes sans valeur entretiennent de telles opinions et y croient jusqu'à ce qu'ils ne puissent plus revenir (etc., comme dans le § 19 jusqu'aux) divertissements.
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 J'ai traité du quatrième homme qui croit que le destin est la cause de tout. (33)
 
@@ -166,13 +166,13 @@ Ici, dans cette vie, les plaisirs et les divertissements ne peuvent nous aider n
 
 Il y a des choses qui me sont plus intimement liées, à savoir ma mère, mon père, mon frère, ma sœur, mon épouse, mes enfants, mes petits-enfants, mes belles-filles, mes serviteurs, mes amis, ma famille, mes compagnons et mes connaissances. Ces membres de ma famille m'appartiennent, et je leur appartiens. Un homme sage, au préalable, devrait se dire ceci : « Ici, en effet, une maladie ou une affection pénible pourrait m'arriver (etc., comme au § 37 jusqu'à la fin, mais en remplaçant « plaisirs » par « familles »). » (39)
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 « Ou bien une maladie douloureuse, indésirable, voire désagréable, pourrait frapper mes proches. Je prendrai sur moi cette douloureuse maladie, etc., afin qu'ils ne souffrent pas, ni ne subissent de grandes souffrances. Je les délivrerai de cette douloureuse maladie. » Mais ce désir n'a jamais été exaucé. Car nul ne peut prendre sur lui les souffrances d'un autre ; nul ne peut subir ce qu'un autre a subi [^1007]. (40)
 
 Individuellement, un homme naît, individuellement il meurt, individuellement il chute (de cet état d'existence), individuellement il s'élève (à un autre) [^1008]. Ses passions [^1009], sa conscience, son intellect, ses perceptions et ses impressions appartiennent exclusivement à l'individu. Ici, en effet, les liens de parenté ne peuvent aider ni sauver. (Tout comme au § 38 jusqu'à la fin ; remplacer « plaisirs et divertissements » par « liens de parenté ».) (40
 
-Il y a des choses plus intimement liées à moi, à savoir mes mains, mes pieds, mes bras, mes jambes, ma tête, mon ventre, mon caractère, ma vie, ma force, ma couleur, ma peau, mon teint, mes oreilles, mes yeux, mon nez, ma langue et mon toucher ; ils font partie intégrante de moi. Mais je vieillis quant à la vie, à la force, (tout cela se résume au) toucher. Les articulations solides se relâchent, le corps se sillonne de rides, les cheveux noirs blanchissent, même ce cher corps qui a grandi grâce à la nourriture doit être abandonné en temps voulu. <span id="p350">[<sup><small>p. 350</small></sup>]</span> En faisant de telles réflexions, un moine devrait mener une vie mendiante et savoir que toutes choses se divisent en êtres vivants et inanimés, (et les êtres vivants à leur tour) en êtres mobiles et immobiles. (42)
+Il y a des choses plus intimement liées à moi, à savoir mes mains, mes pieds, mes bras, mes jambes, ma tête, mon ventre, mon caractère, ma vie, ma force, ma couleur, ma peau, mon teint, mes oreilles, mes yeux, mon nez, ma langue et mon toucher ; ils font partie intégrante de moi. Mais je vieillis quant à la vie, à la force, (tout cela se résume au) toucher. Les articulations solides se relâchent, le corps se sillonne de rides, les cheveux noirs blanchissent, même ce cher corps qui a grandi grâce à la nourriture doit être abandonné en temps voulu. <span id="p350"><sup><small>[ p. 350 ]</small></sup></span> En faisant de telles réflexions, un moine devrait mener une vie mendiante et savoir que toutes choses se divisent en êtres vivants et inanimés, (et les êtres vivants à leur tour) en êtres mobiles et immobiles. (42)
 
 Ici, en effet, les chefs de famille sont des tueurs (d'êtres) et des acquéreurs de biens, tout comme certains Sramanas et Brâhma. Ils tuent eux-mêmes des êtres vivants, meubles et immeubles, les font tuer par un autre, ou consentent à ce qu'un autre les tue. (43)
 
@@ -180,7 +180,7 @@ Ici, en effet, les chefs de famille sont des tueurs (d'êtres) et des acquéreur
 
 Ici, en effet, les chefs de famille sont des tueurs (d'êtres) et des acquéreurs de biens, et il en va de même pour certains Sramanas et Brâhma. Mais je ne suis ni un tueur (d'êtres) ni un acquéreur de biens. En nous appuyant sur [^1010] les chefs de famille et ces Sramanas et Brâhma qui sont des tueurs (d'êtres) et des acquéreurs de biens, nous mènerons une vie de chasteté. (Il devrait cependant se séparer d'eux.) (L'élève demande) : Quelle en est la raison ? (Le professeur répond) : De même qu'avant (leur ordination, ils étaient des tueurs d'êtres), ainsi (ils le seront) après, et vice versa. Il est évident que (les chefs de famille) ne s'abstiennent pas (des péchés) ni ne se contrôlent ; et (en tant que moines) ils retomberont dans les mêmes (mauvaises habitudes). (45)
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Les chefs de famille, les Sramanas et les Brâhmans, qui tuent des êtres et acquièrent des biens, commettent des péchés à la fois par amour et par haine. Mais un moine qui prend cela en considération devrait mener une vie qui ne soit soumise ni à l'amour ni à la haine. (46)
 
@@ -198,19 +198,19 @@ Il ne tue pas d'êtres, mobiles ou immobiles, ne les fait pas tuer par un autre,
 
 Il n'acquiert pas d'objets de plaisir sensibles ou insensés, ni ne les fait acquérir par autrui, ni ne consent à ce qu'un autre les acquière. De cette façon, (etc., comme ci-dessus). (53)
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 Il n'accomplit aucune action motivée par des causes pécheresses [^1014], ne la fait pas accomplir par autrui, et ne consent pas à ce qu'un autre la commette. De cette manière (etc., comme ci-dessus). (54)
 
 Un moine ne doit pas prendre de nourriture, de boisson, de mets délicats ni d'épices s'il sait que (le maître de maison) les a achetés, volés ou pris pour le satisfaire, ou pour le bien d'un coreligionnaire, bien que ces aliments n'aient pas été donnés ni pris, mais pris de force, en agissant de manière pécheresse envers toutes sortes d'êtres vivants [^1015] ; il ne doit pas non plus forcer une autre personne à en manger, ni consentir à ce qu'une autre en mange. De même (etc., tout comme ci-dessus). (55)
 
-Un moine peut penser comme suit : Les (maîtres de maison) ont les moyens (de procurer de la nourriture à ceux pour qui elle est préparée ; à savoir pour lui-même [^1016], ses fils, ses filles, ses belles-filles, ses nourrices, ses parents, ses chefs, ses esclaves et ses servantes, ses serviteurs et servantes ; pour une friandise, pour un souper, pour un petit déjeuner, la collation a été préparée. Cette nourriture doit être mangée par certaines personnes, elle est préparée par quelqu'un d'autre, elle est destinée à quelqu'un d'autre, elle est exempte des défauts occasionnés soit par le donneur, soit par le receveur, soit par l'acte de la recevoir [^1017], rendue pure [^1018], rendue exempte de matière vivante [^1019], entièrement exempte de choses vivantes [^1020], elle a été mendiée, a été donnée au moine en raison de sa profession [^1021], <span id="p354">[<sup><small>p. 354</small></sup>]</span> elle a été recueillie en petits morceaux [^1022], c'est une nourriture digne d'un moine érudit, il est licite d'en manger à l'occasion présente, elle est de la quantité prescrite, elle graisse, pour ainsi dire, l'essieu du chariot et oint la plaie, étant juste suffisante pour permettre de pratiquer le contrôle et d'en porter le fardeau ; il doit consommer cette nourriture (sans délai) comme le serpent retourne à son trou ; c'est-à-dire : il faut manger quand il est l'heure de manger, boire quand il est l'heure de boire, s'habiller quand il est l'heure de s'habiller, se mettre à l'abri quand il est l'heure de se mettre à l'abri, et dormir quand il est l'heure de dormir. (56)
+Un moine peut penser comme suit : Les (maîtres de maison) ont les moyens (de procurer de la nourriture à ceux pour qui elle est préparée ; à savoir pour lui-même [^1016], ses fils, ses filles, ses belles-filles, ses nourrices, ses parents, ses chefs, ses esclaves et ses servantes, ses serviteurs et servantes ; pour une friandise, pour un souper, pour un petit déjeuner, la collation a été préparée. Cette nourriture doit être mangée par certaines personnes, elle est préparée par quelqu'un d'autre, elle est destinée à quelqu'un d'autre, elle est exempte des défauts occasionnés soit par le donneur, soit par le receveur, soit par l'acte de la recevoir [^1017], rendue pure [^1018], rendue exempte de matière vivante [^1019], entièrement exempte de choses vivantes [^1020], elle a été mendiée, a été donnée au moine en raison de sa profession [^1021], <span id="p354"><sup><small>[ p. 354 ]</small></sup></span> elle a été recueillie en petits morceaux [^1022], c'est une nourriture digne d'un moine érudit, il est licite d'en manger à l'occasion présente, elle est de la quantité prescrite, elle graisse, pour ainsi dire, l'essieu du chariot et oint la plaie, étant juste suffisante pour permettre de pratiquer le contrôle et d'en porter le fardeau ; il doit consommer cette nourriture (sans délai) comme le serpent retourne à son trou ; c'est-à-dire : il faut manger quand il est l'heure de manger, boire quand il est l'heure de boire, s'habiller quand il est l'heure de s'habiller, se mettre à l'abri quand il est l'heure de se mettre à l'abri, et dormir quand il est l'heure de dormir. (56)
 
 Un moine qui connaît la juste mesure (en toutes choses), voyageant dans une direction ou une autre, devrait enseigner, expliquer et louer (la Loi), la prêcher à ceux qui s'investissent bien, et à ceux qui ne le font pas, à tous ceux qui viennent l'écouter. (Il devrait leur prêcher) : l'indifférence à la paix de l'esprit, la cessation des passions, le Nirvânâ, la pureté, la simplicité, l'humilité, la libération des liens [^1023]. Il devrait prêcher la Loi qui interdit de tuer tout être vivant, après l'avoir mûrement réfléchie. (57)
 
 Lorsqu'un moine prêche la Loi, il ne doit pas la prêcher pour la nourriture, la boisson, les vêtements, le lieu de repos ou le logement, ni pour aucun objet de plaisir ; mais il doit prêcher la Loi infatigablement, sans autre motif que l'annihilation de Karman. (58)
 
-Ces héros de la foi qui sont instruits dans la Loi par un tel moine et qui s'y appliquent bien, sont <span id="p355">[<sup><small>p. 355</small></sup>]</span> possédés de toutes (vertus), s'abstiennent de tous (péchés), cessent de toutes (passions), se conduisent bien en toutes choses et atteignent la béatitude finale. (59)
+Ces héros de la foi qui sont instruits dans la Loi par un tel moine et qui s'y appliquent bien, sont <span id="p355"><sup><small>[ p. 355 ]</small></sup></span> possédés de toutes (vertus), s'abstiennent de tous (péchés), cessent de toutes (passions), se conduisent bien en toutes choses et atteignent la béatitude finale. (59)
 
 Un tel moine recherche la Loi, la connaît et s'efforce d'atteindre la Libération ; comme il a été dit : « Il peut obtenir le lotus blanc, le meilleur de Nymphée, ou il peut ne pas l'obtenir. » Un tel moine connaît et renonce aux actions, aux occupations mondaines et à la vie de chef de famille ; il est libre de passions, possède le Samitis, est sage, se dépense toujours ; on peut l'appeler : un <i>S</i>rama<i>n</i>a, un Brâhma<i>n</i>a, calme, dompteur de ses sens, vigilant, libéré, un voyant, un sage, vertueux, sage, un moine, vivant de peu, désireux d'atteindre le rivage (du Samsâra), accomplissant les vertus générales et particulières [^1024]. (60)
 

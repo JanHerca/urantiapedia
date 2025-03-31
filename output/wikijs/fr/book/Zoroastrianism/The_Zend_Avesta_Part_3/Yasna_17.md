@@ -36,7 +36,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 1-10 [^1081], 11. Nous t'adorons, ô le Feu, ô fils d'Ahura Mazda ! Nous adorons le feu Berezi-savangha (de l'usage élevé [^1082]), et le feu Vohu-fryâna (le bon et l'ami [^1083]), et le feu Urvâzi<i>s</i>ta (le plus bénéfique et le plus secourable [^1084]), et le feu Vâzi<i>s</i>ta (le plus soutenant [^1085]), et le feu Sp<i>e</i>ni<i>s</i>ta (le plus généreux [^1086]), et Nairya-sangha le Yazad de la lignée royale [^1087], et ce feu qui est le maître de toutes les maisons et créé par Mazda, même le fils d'Ahura Mazda, le saint seigneur de l'ordre rituel, avec tous les feux.
 
-12\. Et nous adorons les bonnes et meilleures eaux faites par Mazda, saintes, toutes les eaux faites par Mazda et saintes, et toutes les plantes que Mazda a faites, et qui sont saintes. <span id="p259">[<sup><small>p. 259</small></sup>]</span> 13\. Et nous adorons le Mãthra-spe<i>n</i>ta (la généreuse parole de raison), la loi zarathustrienne contre les Daêvas, et sa longue descente.
+12\. Et nous adorons les bonnes et meilleures eaux faites par Mazda, saintes, toutes les eaux faites par Mazda et saintes, et toutes les plantes que Mazda a faites, et qui sont saintes. <span id="p259"><sup><small>[ p. 259 ]</small></sup></span> 13\. Et nous adorons le Mãthra-spe<i>n</i>ta (la généreuse parole de raison), la loi zarathustrienne contre les Daêvas, et sa longue descente.
 
 14\. Et nous adorons le mont Ushi-darena qui est fait par Mazda et qui brille par sa sainteté, et toutes les montagnes qui brillent de sainteté et d'une gloire abondante, et que Mazda a faites.
 

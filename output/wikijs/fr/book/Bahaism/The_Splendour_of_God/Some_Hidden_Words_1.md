@@ -62,7 +62,7 @@ C'est pourquoi, débarrassez-vous de vos doutes et de vos illusions, puis entrez
 
 Ô enfants des hommes ! Savez-vous pourquoi Nous vous avons créés d'une seule argile ? Pour que nul ne se glorifie au détriment d'une autre. Souvenez-vous de la manière dont vous avez été créés.
 
-Puisque Nous vous avons tous créés d'une même substance, vous devez être comme une seule âme, marchant avec les mêmes pieds, mangeant avec une même bouche et vivant sur une même terre, afin que vous manifestiez par votre être, <span id="p94">[<sup><small>p. 94</small></sup>]</span> et par vos actes et vos actions, les signes de l'unité et l'esprit d'Unité.
+Puisque Nous vous avons tous créés d'une même substance, vous devez être comme une seule âme, marchant avec les mêmes pieds, mangeant avec une même bouche et vivant sur une même terre, afin que vous manifestiez par votre être, <span id="p94"><sup><small>[ p. 94 ]</small></sup></span> et par vos actes et vos actions, les signes de l'unité et l'esprit d'Unité.
 
 Voilà mon conseil pour vous, ô peuple de lumière ! Suivez-le donc, afin que vous puissiez obtenir les fruits de la sainteté de l'arbre de la puissance et du pouvoir.
 
@@ -84,7 +84,7 @@ Tous les bons noms et toutes les hautes qualités viennent du Verbe. Le Verbe es
 
 Extérieurement, c'est le feu brûlant, intérieurement c'est la lumière calme. C'est l'eau qui donne la vie à toutes choses.
 
-<span id="p96">[<sup><small>p. 96</small></sup>]</span>
+<span id="p96"><sup><small>[ p. 96 ]</small></sup></span>
 
 Nous prions Dieu de nous permettre de prendre part à cette eau vivifiante du ciel et de boire à grandes gorgées du calice spirituel du repos, et ainsi d’être libérés de tout ce qui tend à nous empêcher d’approcher son amour.
 

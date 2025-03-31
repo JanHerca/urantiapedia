@@ -29,7 +29,7 @@ dateCreated: 2025-2-6T11:21:5Z
   </table>
 </figure>
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 ## TOUS LES ASAVAS. SABBÂSAVA-SUTTA.
 
@@ -99,7 +99,7 @@ Est-ce que j'existe, après tout, ou n'existe-je pas ? Comment suis-je ? Ceci es
 
 11\. « Ceci, frères, est appelé la marche dans l'illusion, la jungle de l'illusion[^3], le désert de l'illusion, le spectacle de marionnettes de l'illusion, les contorsions de l'illusion, les chaînes de l'illusion.
 
-12\. « Lié, frères, par cette chaîne d'illusion, <span id="p300">[<sup><small>p. 300</small></sup>]</span> l'homme ignorant et non converti n'est pas libéré de la naissance, de la décadence et de la mort, des chagrins, des lamentations, des douleurs et des chagrins, et des expédients[^4] — il ne devient pas libéré, dis-je, de la douleur.
+12\. « Lié, frères, par cette chaîne d'illusion, <span id="p300"><sup><small>[ p. 300 ]</small></sup></span> l'homme ignorant et non converti n'est pas libéré de la naissance, de la décadence et de la mort, des chagrins, des lamentations, des douleurs et des chagrins, et des expédients[^4] — il ne devient pas libéré, dis-je, de la douleur.
 
 ---
 
@@ -111,7 +111,7 @@ Est-ce que j'existe, après tout, ou n'existe-je pas ? Comment suis-je ? Ceci es
 
 « Ce sont des choses qu’il ne faut pas considérer, des choses qu’il considère.
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span> 5\. « Et quelles sont, frères, les choses qui doivent être considérées, et auxquelles il pense ?
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span> 5\. « Et quelles sont, frères, les choses qui doivent être considérées, et auxquelles il pense ?
 
 « Il y a des choses, frères, que, lorsqu'un homme considère, l'Âsava de la luxure, s'il n'avait pas surgi auparavant, ne surgit pas en lui ; et l'Âsava de la luxure, qui avait surgi, est mis de côté ; l'Âsava de la vie, s'il n'avait pas surgi auparavant, ne surgit pas en lui ; et l'Âsava de la vie, qui avait surgi, est mis de côté ; l'Âsava de l'ignorance, s'il n'avait pas surgi auparavant, ne surgit pas en lui ; et l'Âsava de l'ignorance, qui avait surgi, est mis de côté.
 
@@ -127,7 +127,7 @@ Ce sont là, frères, les Âsavas qui doivent être abandonnés par la perspicac
 
 18\. « Et quels sont les Âsavas à abandonner par la subjugation (samvarâ) ?
 
-« Ici, frères, un bhikkhu, réfléchissant sagement, <span id="p302">[<sup><small>p. 302</small></sup>]</span> reste enfermé par la subjugation de l'organe de la Vue. Car, tandis que chez l'homme non enfermé par la subjugation de l'organe de la Vue, des Âsavas peuvent surgir, pleins de vexation et de détresse, chez l'homme enfermé par la subjugation de l'organe de la Vue, les Âsavas, pleins de vexation et de détresse, ne le sont pas. »
+« Ici, frères, un bhikkhu, réfléchissant sagement, <span id="p302"><sup><small>[ p. 302 ]</small></sup></span> reste enfermé par la subjugation de l'organe de la Vue. Car, tandis que chez l'homme non enfermé par la subjugation de l'organe de la Vue, des Âsavas peuvent surgir, pleins de vexation et de détresse, chez l'homme enfermé par la subjugation de l'organe de la Vue, les Âsavas, pleins de vexation et de détresse, ne le sont pas. »
 
 19\. « En réfléchissant sagement, il demeure enfermé par la soumission de l'organe de l'ouïe. Car, tandis que chez l'homme non enfermé par la soumission de l'organe de l'ouïe, des Âsavas peuvent surgir, pleins de vexation et de détresse, chez l'homme enfermé par la soumission de l'organe de l'ouïe, les Âsavas, pleins de vexation et de détresse, ne le sont pas. »
 
@@ -135,7 +135,7 @@ Ce sont là, frères, les Âsavas qui doivent être abandonnés par la perspicac
 
 21\. « En réfléchissant sagement, il demeure enfermé par la soumission de l'organe du goût. Car, tandis que chez l'homme non enfermé par la soumission de l'organe du goût, des Âsavas peuvent surgir, pleins de vexation et de détresse, chez l'homme enfermé par la soumission de l'organe du goût, les Âsavas, pleins de vexation et de détresse, ne le sont pas. »
 
-22\. Réfléchissant sagement, il reste enfermé par la subjugation de l'organe du Toucher. Car tandis que chez l'homme qui n'est pas enfermé par la subjugation de l'organe du Toucher, des Âsavas peuvent surgir, pleins de vexation et de détresse, chez l'homme enfermé par la subjugation de l'organe du Toucher, les Âsavas, pleins de vexation et de détresse, ne sont pas. <span id="p303">[<sup><small>p. 303</small></sup>]</span> 3\. Réfléchissant sagement, il reste enfermé par la subjugation de l'organe de l'Esprit. Car tandis que chez l'homme qui n'est pas enfermé par la subjugation de l'organe du Mental, des Âsavas peuvent surgir, pleins de vexation et de détresse, chez l'homme enfermé par la subjugation de l'organe du Mental, les Âsavas, pleins de vexation et de détresse, ne sont pas.
+22\. Réfléchissant sagement, il reste enfermé par la subjugation de l'organe du Toucher. Car tandis que chez l'homme qui n'est pas enfermé par la subjugation de l'organe du Toucher, des Âsavas peuvent surgir, pleins de vexation et de détresse, chez l'homme enfermé par la subjugation de l'organe du Toucher, les Âsavas, pleins de vexation et de détresse, ne sont pas. <span id="p303"><sup><small>[ p. 303 ]</small></sup></span> 3\. Réfléchissant sagement, il reste enfermé par la subjugation de l'organe de l'Esprit. Car tandis que chez l'homme qui n'est pas enfermé par la subjugation de l'organe du Mental, des Âsavas peuvent surgir, pleins de vexation et de détresse, chez l'homme enfermé par la subjugation de l'organe du Mental, les Âsavas, pleins de vexation et de détresse, ne sont pas.
 
 « Ceux-ci, frères, sont appelés les Âsavas, ceux qui doivent être abandonnés par la subjugation.
 
@@ -149,7 +149,7 @@ Ce sont là, frères, les Âsavas qui doivent être abandonnés par la perspicac
 
 26\. « En réfléchissant sagement, il se sert d'une demeure ; seulement pour se protéger du froid, pour se protéger de la chaleur, pour se protéger du contact des taons et des moustiques, du vent et du soleil, et des serpents ; seulement pour éviter les dangers du climat, et pour s'assurer le plaisir de l'intimité.
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 27\. « En réfléchissant sagement, il utilise des médicaments et d'autres produits nécessaires aux malades, uniquement pour conjurer la douleur qui cause le préjudice et pour préserver sa santé.
 
@@ -191,7 +191,7 @@ Ce sont là, frères, les Âsavas qui doivent être abandonnés par la perspicac
 
 35\. « Et quels sont, frères, les Âsavas qui doivent être abandonnés par la culture[^10] ?
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 « [^11]Ici, frères, un Bhikkhu, réfléchissant sagement, cultive cette partie de la sagesse supérieure appelée Pleine Conscience, dépendante de l'isolement, dépendante de l'absence de passion, dépendante de l'extase totale de la contemplation, aboutissant à la disparition de l'absence de pensée.
 
@@ -203,7 +203,7 @@ Ce sont là, frères, les Âsavas qui doivent être abandonnés par la perspicac
 
 ---
 
-38\. 'Et alors, lorsqu'un Bhikkhu a, par la perspicacité, écarté les Âsavas à abandonner par la perspicacité, et par la subjugation, a écarté les Âsavas à abandonner par la subjugation, et par un usage correct, a écarté les Âsavas à abandonner par un usage correct, et par l'endurance, a écarté les Âsavas à abandonner par l'endurance, et par l'évitement, a écarté les Âsavas à abandonner par l'évitement, <span id="p307">[<sup><small>p. 307</small></sup>]</span> et par l'élimination a écarté les Âsavas à abandonner par l'élimination, et par la cultivation a écarté les Âsavas à abandonner par la cultivation - ce Bhikkhu, frères, reste enfermé par la subjugation des Âsavas, il a détruit cette Soif d'Avidité, par une pénétration complète de l'esprit il a roulé chaque Chaîne, et il a mis fin à la Douleur.
+38\. 'Et alors, lorsqu'un Bhikkhu a, par la perspicacité, écarté les Âsavas à abandonner par la perspicacité, et par la subjugation, a écarté les Âsavas à abandonner par la subjugation, et par un usage correct, a écarté les Âsavas à abandonner par un usage correct, et par l'endurance, a écarté les Âsavas à abandonner par l'endurance, et par l'évitement, a écarté les Âsavas à abandonner par l'évitement, <span id="p307"><sup><small>[ p. 307 ]</small></sup></span> et par l'élimination a écarté les Âsavas à abandonner par l'élimination, et par la cultivation a écarté les Âsavas à abandonner par la cultivation - ce Bhikkhu, frères, reste enfermé par la subjugation des Âsavas, il a détruit cette Soif d'Avidité, par une pénétration complète de l'esprit il a roulé chaque Chaîne, et il a mis fin à la Douleur.
 
 ---
 

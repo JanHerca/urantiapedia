@@ -32,7 +32,7 @@ dateCreated: 2025-2-6T12:58:24Z
   </table>
 </figure>
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 ‏סדר נשים‎
 
@@ -52,7 +52,7 @@ Troisièmement, lorsque le beau-frère ne peut pas épouser la veuve en raison d
 
 Ce traité contient également de nombreuses réglementations se référant aux lois sur le mariage en général, et est le premier de la classe ou division de la Mishna appelée ‏נשים‎, ou lois relatives aux femmes \[c'est-à-dire au mariage, au divorce, etc.\], car Yeboom n'est pas une action volontaire, comme le mariage ou le divorce, car la personne à qui ce devoir incombe peut être judiciairement contrainte soit d'épouser sa belle-sœur veuve, soit de lui permettre d'accomplir la cérémonie de Chalitzah pour lui.
 
-Nous avons trouvé indispensable, afin d'éviter la répétition presque constante <span id="p201">[<sup><small>p. 201</small></sup>]</span> de circonlocutions et de périphrases fastidieuses, de conserver quelques termes hébreux qui reviennent dans presque toutes les sections, à savoir ‏יבום‎ _Yeboom;_ et ‏חליצה‎, _Chalitzah;_ qui ont déjà été expliqués ; également ‏גט‎, _get_, lettre de divorce ; et ‏כתובה‎, _ketoobah;_ ou contrat de mariage.
+Nous avons trouvé indispensable, afin d'éviter la répétition presque constante <span id="p201"><sup><small>[ p. 201 ]</small></sup></span> de circonlocutions et de périphrases fastidieuses, de conserver quelques termes hébreux qui reviennent dans presque toutes les sections, à savoir ‏יבום‎ _Yeboom;_ et ‏חליצה‎, _Chalitzah;_ qui ont déjà été expliqués ; également ‏גט‎, _get_, lettre de divorce ; et ‏כתובה‎, _ketoobah;_ ou contrat de mariage.
 
 <figure class="table chapter-navigator">
   <table>

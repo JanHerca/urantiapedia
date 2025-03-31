@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 TROISIÈME MUN<i>N</i><i>D</i>AKA.
 
@@ -44,7 +44,7 @@ TROISIÈME MUN<i>N</i><i>D</i>AKA.
 
 3\. Lorsque le voyant voit le brillant créateur et seigneur (du monde) comme la Personne qui a sa source en Brahman, alors il est sage et, se débarrassant du bien et du mal, il atteint la plus haute unité, libre des passions ;
 
-4\. Car il est le Souffle rayonnant en tous les êtres, et celui qui comprend cela devient véritablement sage, et non pas seulement un bavard. Il se délecte du Soi, il se complaît en lui, et ayant accompli ses œuvres (véracité, pénitence, méditation, etc.), il repose, fermement établi en Brahman, le meilleur de ceux qui connaissent Brahman [^182]. <span id="p39">[<sup><small>p. 39</small></sup>]</span> 5\. C'est par la véracité, en effet, par la pénitence, la juste connaissance et l'abstinence que ce Soi doit être acquis ; le Soi que les anachorètes sans tache acquièrent est pur et semblable à une lumière dans le corps.
+4\. Car il est le Souffle rayonnant en tous les êtres, et celui qui comprend cela devient véritablement sage, et non pas seulement un bavard. Il se délecte du Soi, il se complaît en lui, et ayant accompli ses œuvres (véracité, pénitence, méditation, etc.), il repose, fermement établi en Brahman, le meilleur de ceux qui connaissent Brahman [^182]. <span id="p39"><sup><small>[ p. 39 ]</small></sup></span> 5\. C'est par la véracité, en effet, par la pénitence, la juste connaissance et l'abstinence que ce Soi doit être acquis ; le Soi que les anachorètes sans tache acquièrent est pur et semblable à une lumière dans le corps.
 
 6\. Le vrai prévaut, non le faux ; par le vrai est tracé le chemin, la voie des dieux (devayâna<i>h</i>), sur laquelle les vieux sages, satisfaits de leurs désirs, se dirigent vers le lieu le plus élevé du Vrai.
 
@@ -54,7 +54,7 @@ TROISIÈME MUN<i>N</i><i>D</i>AKA.
 
 9\. Ce Soi subtil doit être connu par la pensée (<i>k</i>etas) là où le souffle est entré quintuple, car chaque pensée des hommes est entrelacée avec les sens, et lorsque la pensée est purifiée, alors le Soi surgit.
 
-10\. Quel que soit l'état qu'un homme, dont la nature est purifiée, imagine, et quels que soient ses désirs (pour lui-même ou pour les autres) [^184], il conquiert cet état et <span id="p40">[<sup><small>p. 40</small></sup>]</span> les obtient. Par conséquent, que tout homme qui désire le bonheur adore l'homme qui connaît le Soi [^185].
+10\. Quel que soit l'état qu'un homme, dont la nature est purifiée, imagine, et quels que soient ses désirs (pour lui-même ou pour les autres) [^184], il conquiert cet état et <span id="p40"><sup><small>[ p. 40 ]</small></sup></span> les obtient. Par conséquent, que tout homme qui désire le bonheur adore l'homme qui connaît le Soi [^185].
 
 
 ## DEUXIÈME KHA<i>N</i><i>D</i>A.
@@ -67,7 +67,7 @@ TROISIÈME MUN<i>N</i><i>D</i>AKA.
 
 4\. Ce Soi ne peut être atteint par celui qui est dépourvu de force, ou sans sérieux, ou sans méditation juste. Mais si un homme sage s'efforce de l'atteindre par ces moyens (force, sérieux et méditation juste), alors son Soi entre dans la demeure de Brahman.
 
-5\. Lorsqu'ils l'ont atteint (le Soi), les sages sont satisfaits par la connaissance, ils sont conscients de leur Soi, leurs passions ont disparu <span id="p41">[<sup><small>p. 41</small></sup>]</span> et ils sont tranquilles. Les sages, ayant atteint Celui qui est omniprésent partout, dévoués au Soi, entrent en lui totalement.
+5\. Lorsqu'ils l'ont atteint (le Soi), les sages sont satisfaits par la connaissance, ils sont conscients de leur Soi, leurs passions ont disparu <span id="p41"><sup><small>[ p. 41 ]</small></sup></span> et ils sont tranquilles. Les sages, ayant atteint Celui qui est omniprésent partout, dévoués au Soi, entrent en lui totalement.
 
 6\. Ayant bien déterminé l'objet de la connaissance du Vedânta [^189], et ayant purifié leur nature par le Yoga [^190] du renoncement, tous les anachorètes, jouissant de la plus haute immortalité, deviennent libres au moment de la grande fin (la mort) dans les mondes de Brahmâ.
 

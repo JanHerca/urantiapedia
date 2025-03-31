@@ -72,7 +72,7 @@ Jusqu'à ce que tu te fraies un chemin à travers les profondeurs de la terre.
 Alors frappez le brigand à mort et amenez-le
 Le chargeur revient en triomphe.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 Les soixante mille chefs obéirent :
 Ils ont creusé leur chemin au plus profond de la terre.
@@ -147,7 +147,7 @@ Match pour les hommes puissants d'autrefois.
 Maintenant, suis le chemin de tes oncles
 Et traquez le voleur du cheval.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 Pour te protéger, prends ton épée et ton arc,
 car les bêtes d'en bas sont énormes et fortes.
@@ -268,7 +268,7 @@ Dilípa donc, la bonne et la grande,
 Dès qu'il apprit le sort de ses proches,
 Courbé par le malheur, avec un esprit troublé,
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 Après avoir réfléchi longtemps, aucun remède n'a pu être trouvé.
 « Comment puis-je apporter », soupira la personne en deuil,
@@ -388,7 +388,7 @@ Et la laissa errer, où,
 Denses comme les forêts de l'Himalaya, s'étendaient
 Les nœuds de ses cheveux.
 
-<span id="p55">[<sup><small>p. 55</small></sup>]</span>
+<span id="p55"><sup><small>[ p. 55 ]</small></sup></span>
 
 Elle n'a trouvé aucun chemin vers la terre, honteuse,
 Bien que ses efforts aient été longs et pénibles,
@@ -506,7 +506,7 @@ Là où les fils de Sagar avaient creusé leur chemin.
 Alors, conduisant à travers les cavernes souterraines de la terre
 Les vagues purificatrices de la rivière.
 
-<span id="p56">[<sup><small>p. 56</small></sup>]</span>
+<span id="p56"><sup><small>[ p. 56 ]</small></sup></span>
 
 Sur la poussière de ses proches, le seigneur
 Sa libation funéraire a été versée.
@@ -630,7 +630,7 @@ Là, les princes à ses côtés,
 Les meilleurs des saints ermites se sont cachés.
 C'était une ville extrêmement belle
 
-<span id="p57">[<sup><small>p. 57</small></sup>]</span>
+<span id="p57"><sup><small>[ p. 57 ]</small></sup></span>
 
 Cela pourrait être comparé au ciel lui-même.
 Puis, paume contre paume, suppliant, appliqué,
@@ -728,7 +728,7 @@ Soixante millions de belles personnes sont venues.
 Nés de la mousse et de l'eau, ces
 On les appelait à juste titre Apsarases. [^206]
 
-<span id="p58">[<sup><small>p. 58</small></sup>]</span>
+<span id="p58"><sup><small>[ p. 58 ]</small></sup></span>
 
 Chacune avait ses servantes. La langue faillirait…
 Si vaste est la foule, pour compter l'histoire,
@@ -806,7 +806,7 @@ Sauvage avec la douleur d'une mère sans enfant.
 À Kas'yap, le fils de Marícha, parla,
 Son mari : « Ô toi, glorieuse !
 
-<span id="p59">[<sup><small>p. 59</small></sup>]</span>
+<span id="p59"><sup><small>[ p. 59 ]</small></sup></span>
 
 Les enfants sont morts, je ne suis plus à moi,
 Je t'ai donné des fils puissants.
@@ -910,7 +910,7 @@ Vis'álá, gloire de son âge,
 Par qui, un monarque sans culpabilité,
 C'est Vis'álá qui a construit cette belle ville.
 
-<span id="p60">[<sup><small>p. 60</small></sup>]</span>
+<span id="p60"><sup><small>[ p. 60 ]</small></sup></span>
 
 Son fils était Hemachandra, toujours
 Réputé pour sa puissance et son habileté guerrière.
@@ -1031,7 +1031,7 @@ De voir le puissant saint si près,
 Et quand le saint ermite aperçut
 Dans l'habit d'ermite aux mille yeux,
 
-<span id="p61">[<sup><small>p. 61</small></sup>]</span>
+<span id="p61"><sup><small>[ p. 61 ]</small></sup></span>
 
 Il savait tout, sa fureur s'est brisée
 Il s'adressa au pécheur tandis qu'il parlait :
@@ -1150,7 +1150,7 @@ Où nous pouvons rester et nous reposer un moment.
 L'ermite fit ce que Rama avait prié,
 Et dans un endroit où il logeait,
 
-<span id="p62">[<sup><small>p. 62</small></sup>]</span>
+<span id="p62"><sup><small>[ p. 62 ]</small></sup></span>
 
 Loin de la foule, séquestré, clair,
 Avec de l'eau abondante qui coule à proximité.

@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:59:21Z
   </table>
 </figure>
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 TREIZIÈME LEÇON, APPELÉE LA VRAIE VÉRITÉ.
 
@@ -56,7 +56,7 @@ Il est toujours tourmenté par l'illusion, et n'a pas sa place dans le Gôtra o�
 
 Un Brâhmane ou un Kshattriya de naissance, un descendant de la race Ugra [^949] ou un Likkhavi [^950], qui entre dans l'ordre en mangeant des aumônes que lui donnent d'autres, n'est pas prétentieux à cause de son célèbre Gôtra. (10)
 
-Son pedigree du côté de sa mère et de son père <span id="p322">[<sup><small>p. 322</small></sup>]</span> ne lui servira à rien, rien que la connaissance et la conduite justes : quand, devenu moine, il agira comme un chef de famille, il ne parviendra pas à obtenir la Libération finale. (11)
+Son pedigree du côté de sa mère et de son père <span id="p322"><sup><small>[ p. 322 ]</small></sup></span> ne lui servira à rien, rien que la connaissance et la conduite justes : quand, devenu moine, il agira comme un chef de famille, il ne parviendra pas à obtenir la Libération finale. (11)
 
 Si un pauvre moine subsistant avec la nourriture la plus misérable est attaché aux vanités, désire la gloire et, n'étant pas éveillé, (fait de sa monachisme) un moyen de subsistance, il souffrira encore et encore (dans le Cercle des Naissances). (12)
 
@@ -70,7 +70,7 @@ Les sages abandonnent ces sortes d'orgueil, les pieux ne les cultivent pas ; les
 
 Un moine qui considère son corps comme un cadavre et qui comprend pleinement la Loi, saura, en entrant dans un village ou une ville, distinguer ce qui peut être accepté de ce qui ne peut pas l'être, et ne sera pas avide de nourriture ou de boisson. (17)
 
-Un moine ayant vaincu l'aversion pour le contrôle et le plaisir des objets sensuels, vivant en compagnie de nombreux frères ou menant une vie célibataire, devrait <span id="p323">[<sup><small>p. 323</small></sup>]</span> se répéter silencieusement : « Un homme doit aller et venir (selon son Karman) seul » (c'est-à-dire sans aucune aide d'autrui). (18)
+Un moine ayant vaincu l'aversion pour le contrôle et le plaisir des objets sensuels, vivant en compagnie de nombreux frères ou menant une vie célibataire, devrait <span id="p323"><sup><small>[ p. 323 ]</small></sup></span> se répéter silencieusement : « Un homme doit aller et venir (selon son Karman) seul » (c'est-à-dire sans aucune aide d'autrui). (18)
 
 Connaissant cette loi par intuition ou l'ayant apprise des autres, il faut l'enseigner, car elle est utile aux hommes ; les hommes pieux ne se livrent pas à des pratiques pécheresses blâmables. (19)
 

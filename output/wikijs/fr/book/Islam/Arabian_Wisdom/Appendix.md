@@ -29,7 +29,7 @@ dateCreated: 2024-11-25T21:10:31Z
   </table>
 </figure>
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 ## Qu'est-ce que la justice ?
 
@@ -37,7 +37,7 @@ dateCreated: 2024-11-25T21:10:31Z
 
 Ce beau passage du Coran est considéré par les commentateurs musulmans comme l'énoncé le plus complet des devoirs de l'homme : « Une foi saine, une bonne vie sociale et une bonne culture de l'âme » (El-Beidaway).
 
-<span id="p64">[<sup><small>p. 64</small></sup>]</span>
+<span id="p64"><sup><small>[ p. 64 ]</small></sup></span>
 
 _Instructions d'Ali Ibn-abi Talib, le premier calife à son fils_—« Mon fils, crains Dieu en secret et ouvertement ; dis la vérité, que tu sois calme ou en colère ; sois économe, que tu sois pauvre ou riche ; sois juste envers tes amis et tes ennemis ; sois résigné dans l'adversité comme dans la prospérité. Mon fils, celui qui voit ses propres défauts n'a pas le temps de voir les défauts des autres ; celui qui se satisfait des allocations de la Providence ne regrette pas le passé ; celui qui dégaine l'épée de l'agression en sera tué ; celui qui creuse une fosse pour son frère y tombera ; celui qui oublie son propre péché fait grand cas du péché d'autrui ; celui qui prend de mauvaises voies sera méprisé ; celui qui commet des excès sera connu pour les avoir commis ; celui qui fréquente les bassesses sera sujet à une suspicion constante ; celui qui se souvient de la mort se contentera de peu dans ce monde ; celui qui se vante de ses péchés devant les hommes, Dieu le fera honte. »
 
@@ -75,7 +75,7 @@ _Arabe._ Je quitterai un pays où tu habites, et je partirai, bien que la main d
 
 _Ma’an__._ Frère Arabe, si tu restes, tu es le bienvenu, et si tu pars, que la paix soit avec toi.
 
-<span id="p67">[<sup><small>p. 67</small></sup>]</span>
+<span id="p67"><sup><small>[ p. 67 ]</small></sup></span>
 
 _Arabe._ Fils de honte, donne-moi quelque chose pour mon voyage, car j'ai décidé de partir.
 
@@ -87,7 +87,7 @@ _Arabe._ Noble prince, j'ai beaucoup entendu parler de ta grande patience, et je
 
 L’incident historique suivant est rapporté par les auteurs arabes comme le plus grand exemple de fidélité à la confiance. Al-Samau’al (Samuel) était l’émir d’une tribu juive du sud de l’Arabie, peu avant l’époque de Mahomet. Un de ses amis, avant de partir en voyage, lui avait laissé une très belle armure en mailles. Cet ami fut tué dans une bataille, et l’un des rois de Syrie réclama les armes. Al-Samau’al refusa de les remettre sauf à l’héritier légitime, et le roi l’assiégea dans une de ses forteresses. Un jour, son fils tomba aux mains de l’ennemi, et le roi menaça de le tuer s’il ne rendait pas les armes. Il refusa de nouveau, et du haut des tourelles du château vit son fils mis à mort. Le siège fut bientôt levé, et les armes furent remises aux héritiers de son ami.
 
-<span id="p68">[<sup><small>p. 68</small></sup>]</span>
+<span id="p68"><sup><small>[ p. 68 ]</small></sup></span>
 
 ## Véracité de l'engagement
 
@@ -145,7 +145,7 @@ Et sourit avec mépris à ce spectacle des plus désolants ;
 Une multitude de cadavres y passèrent.
 Hélas, le temps récolte presque tout ce qu’il sème !
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 Combien de fois mon âme tâtonnait-elle autour du puits
 J'avais soif, mais mon seau était sans corde.
@@ -177,7 +177,7 @@ Trois choses ne sont pas une honte pour l'homme : servir son invité, servir son
 
 Les extrêmes sont une erreur – une voie médiane est la meilleure.
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 Quand les cuisiniers sont nombreux, la nourriture est gâtée. Quand un navire a deux capitaines, il coule.
 
@@ -211,7 +211,7 @@ Si vous voulez savoir ce qu'un homme possède, ne regardez pas à ce qu'il gagne
 
 Rien ne peut être caché sauf ce qui n'est pas.
 
-<span id="p75">[<sup><small>p. 75</small></sup>]</span>
+<span id="p75"><sup><small>[ p. 75 ]</small></sup></span>
 
 Le meilleur ami est celui qui ne change pas avec les changements du temps.
 

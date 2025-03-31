@@ -32,11 +32,11 @@ dateCreated: 2025-2-7T10:45:23Z
   </table>
 </figure>
 
-<span id="p1">[<sup><small>p. 1</small></sup>]</span>
+<span id="p1"><sup><small>[ p. 1 ]</small></sup></span>
 
 **M**.I. 1. À quelle heure commence-t-on à réciter [^5]. le Shma' [^6] le soir ? [^7] À l'heure où les prêtres entrent (dans l'enceinte du Temple) pour manger leur portion [^8] \[et ils peuvent le dire\] jusqu'à la fin de la première veille. [^9] Telle est l'opinion de R. Eliezer. [^10] Mais la Majorité [^11] dit : jusqu'à minuit.
 
-<span id="p2">[<sup><small>p. 2</small></sup>]</span>
+<span id="p2"><sup><small>[ p. 2 ]</small></sup></span>
 
 **M**.Rabban Gamaliel [^12] dit : jusqu'à ce que le premier signe gris de l'aube se lève. [^13]
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:45:23Z
 
 Ainsi, le devoir de brûler les morceaux gras et les membres des sacrifices, ainsi que de manger les agneaux pascaux, [^16] dure jusqu'à l'aube, et de même, le devoir de consommer tout ce qui doit être mangé en un jour dure jusqu'à l'aube. Si tel est le cas, pourquoi la majorité a-t-elle dit, à propos du Shma', jusqu'à minuit ? Uniquement pour préserver les hommes de toute transgression.
 
-<span id="p3">[<sup><small>p. 3</small></sup>]</span>
+<span id="p3"><sup><small>[ p. 3 ]</small></sup></span>
 
 **T**.
 
@@ -58,7 +58,7 @@ Rabbi [^20] dit : Il y a quatre veilles [^21] dans la nuit. Une _'Onah_ est la v
 
 R. Nathan [^22] dit : Il y a trois veilles dans la nuit, car il est dit : « _au commencement de la veille du milieu_, » [^23] et chaque « milieu » en a une après elle et une avant elle.
 
-<span id="p4">[<sup><small>p. 4</small></sup>]</span>
+<span id="p4"><sup><small>[ p. 4 ]</small></sup></span>
 
 <a id="m4"></a>
 
@@ -70,7 +70,7 @@ R. Josué [^26] dit : « Jusqu'à la fin de la troisième heure, [^27] car telle
 
 **T**. I. 2. À quelle heure commence-t-on à réciter le Chéma le matin ? D’autres [^31] disent : « Quand il fait assez clair pour reconnaître son compagnon [^32] à une distance de quatre coudées. » Sa récitation légale se fait au moment où le soleil brille pour la première fois, afin qu’un homme puisse joindre la Ge’ullah [^33] à la Tephillah [^34] et ainsi prier la Tephillah pendant la journée.
 
-<span id="p5">[<sup><small>p. 5</small></sup>]</span>
+<span id="p5"><sup><small>[ p. 5 ]</small></sup></span>
 
 **T**.
 
@@ -82,13 +82,13 @@ R. Judah [1](Berakoth_1_1#fn_35) dit : Un jour, je marchais derrière R. _T_. Aq
 
 **M**.I. 5 (3) : L'école de Shammaï [^38] dit : Le soir, tous doivent se tourner sur le côté, [^39] et réciter ainsi, et le matin se lever, car il est dit : « _et quand tu te couches, et quand tu te lèves_. » [^40] Mais l'école de Hillel dit : Chacun récite selon sa propre manière, car il est dit : « _et quand tu_
 
-<span id="p6">[<sup><small>p. 6</small></sup>]</span>
+<span id="p6"><sup><small>[ p. 6 ]</small></sup></span>
 
 **M**._va en chemin_.“ [^41] Si c'est le cas, pourquoi est-il dit : « et quand tu te couches et quand tu te lèves ? » Cela fait référence au moment où les hommes ont l'habitude (littéralement la manière) de se coucher, et au moment où ils ont l'habitude de se tenir debout.
 
 6\. (3 _suite_.). R. Tarphon [^42] dit : J'étais en voyage et je me suis tourné vers l'école de Shammaï pour réciter, et je me suis mis en danger à cause de brigands. Ils lui dirent : Tu méritais d'être coupable de ta propre vie, car tu as transgressé les paroles de l'école de Hillel.
 
-**T**. I. 4. On raconte un incident au sujet de R. Ismaël [^43] et R. Éléazar ben Azariah, qu'ils se reposaient à un certain endroit, et R. Ismaël s'était tourné sur le côté et R. Éléazar ben Azariah était debout. Quand le moment de réciter le Shma' arriva, R. Ismaël était debout et R. Éléazar ben Azariah était tourné sur le côté. R. Ismaël lui dit : Qu'est-ce que cela, Éléazar ? Il lui dit : Frère Ismaël, les gens demandèrent à un homme : Pourquoi une si belle barbe ? Il leur répondit : En vue des barbiers. [^44] Alors <span id="p7">[<sup><small>p. 7</small></sup>]</span> moi qui étais debout, je me suis tourné sur le côté, et toi qui étais sur le côté, tu t'es redressé. Il \[_i.e._ R. Ishmael\] lui dit : Tu t'es détourné pour accomplir \[la Loi\] selon l'opinion de l'école de Shammai, et je me suis tenu debout pour l'accomplir \[l'] selon l'opinion de l'école de Hillel. [1](Berakoth_1_1#fn_45) Selon un autre récit, que les disciples ne devraient pas voir \[ce que nous faisons\], et établir une règle fixe selon ton opinion.
+**T**. I. 4. On raconte un incident au sujet de R. Ismaël [^43] et R. Éléazar ben Azariah, qu'ils se reposaient à un certain endroit, et R. Ismaël s'était tourné sur le côté et R. Éléazar ben Azariah était debout. Quand le moment de réciter le Shma' arriva, R. Ismaël était debout et R. Éléazar ben Azariah était tourné sur le côté. R. Ismaël lui dit : Qu'est-ce que cela, Éléazar ? Il lui dit : Frère Ismaël, les gens demandèrent à un homme : Pourquoi une si belle barbe ? Il leur répondit : En vue des barbiers. [^44] Alors <span id="p7"><sup><small>[ p. 7 ]</small></sup></span> moi qui étais debout, je me suis tourné sur le côté, et toi qui étais sur le côté, tu t'es redressé. Il \[_i.e._ R. Ishmael\] lui dit : Tu t'es détourné pour accomplir \[la Loi\] selon l'opinion de l'école de Shammai, et je me suis tenu debout pour l'accomplir \[l'] selon l'opinion de l'école de Hillel. [1](Berakoth_1_1#fn_45) Selon un autre récit, que les disciples ne devraient pas voir \[ce que nous faisons\], et établir une règle fixe selon ton opinion.
 
 <a id="m7"></a>
 
@@ -98,7 +98,7 @@ R. Judah [1](Berakoth_1_1#fn_35) dit : Un jour, je marchais derrière R. _T_. Aq
 
 Dans un endroit où l'on demande d'utiliser la forme longue, il n'est pas permis d'utiliser la forme courte, et où
 
-<span id="p8">[<sup><small>p. 8</small></sup>]</span>
+<span id="p8"><sup><small>[ p. 8 ]</small></sup></span>
 
 **M**.utilisez le court, il n'est pas permis d'utiliser le long. Là où \[ils ont ordonné aux hommes\] de « sceller » [^52], il n'est pas permis de ne pas sceller, et là où il ne faut pas sceller, il n'est pas permis de sceller.
 
@@ -110,7 +110,7 @@ Voici les bénédictions qui sont dites dans la forme longue : la bénédiction 
 
 7\. Voici les bénédictions que l'on peut
 
-<span id="p9">[<sup><small>p. 9</small></sup>]</span>
+<span id="p9"><sup><small>[ p. 9 ]</small></sup></span>
 
 **T**.
 
@@ -120,7 +120,7 @@ ne « scelle » pas avec « Bienheureux » — lorsqu'on prononce une bénédict
 
 9\. Voici les bénédictions dans lesquelles on se penche en avant : la première bénédiction, [^60] au début et à la fin ; et dans les _Modim_, [^61] au début et à la fin. Et quant à celui qui se penche en avant à chaque bénédiction, il doit être instruit de ne pas se pencher en avant. Nous ne répondons pas avec celui qui prononce la bénédiction. [^62] \[Mais\] R. Judah avait l'habitude de répondre avec celui qui prononçait la bénédiction : « _Saint, saint, saint est l'Éternel des armées ! Toute la terre est pleine de sa gloire », et « _Bénie soit la gloire de l'Éternel hors de son lieu ! » [^63] Toutes ces paroles, R. Judah les prononçait avec celui qui prononçait la bénédiction.
 
-<span id="p10">[<sup><small>p. 10</small></sup>]</span>
+<span id="p10"><sup><small>[ p. 10 ]</small></sup></span>
 
 <a id="m8"></a>
 
@@ -130,7 +130,7 @@ ne « scelle » pas avec « Bienheureux » — lorsqu'on prononce une bénédict
 
 **T**. I. 10. Nous faisons mention de la Sortie d'Égypte la nuit. Rabbi Éléazar ben Azariah dit : « Voici, j'avais environ soixante-dix ans, et je n'avais pas eu le mérite d'entendre que la Sortie d'Égypte devait être récitée la nuit jusqu'à ce que Ben Zoma l'explique en disant : « _afin que tu te souviennes du jour de ta sortie, du pays d'Égypte tous les jours de ta vie_ » ; [^70]
 
-<span id="p11">[<sup><small>p. 11</small></sup>]</span>
+<span id="p11"><sup><small>[ p. 11 ]</small></sup></span>
 
 **T**.
 
@@ -138,7 +138,7 @@ ne « scelle » pas avec « Bienheureux » — lorsqu'on prononce une bénédict
 
 11\. De même, nous lisons : « Ne vous souvenez plus des choses passées, et ne considérez plus ce qui est ancien. » [^75] « Ne vous souvenez plus des choses passées » : c’est le joug des royaumes païens. « Ne considérez plus ce qui est ancien. » : c’est le joug de l’Égypte. « Voici, je vais faire une chose nouvelle ; maintenant elle va arriver ; ne la connaîtrez-vous pas ? » [^76] : c’est le
 
-<span id="p12">[<sup><small>p. 12</small></sup>]</span>
+<span id="p12"><sup><small>[ p. 12 ]</small></sup></span>
 
 **T**.
 
@@ -150,7 +150,7 @@ Guerre contre Gog. [^77] Nous pouvons parler en paraboles et demander : À quoi 
 
 14\. Bien qu'il ait appelé plus tard Abraham, Abram, [^84] ce n'était pas un blâme mais une louange ;
 
-<span id="p13">[<sup><small>p. 13</small></sup>]</span>
+<span id="p13"><sup><small>[ p. 13 ]</small></sup></span>
 
 **T**.
 
@@ -158,7 +158,7 @@ Guerre contre Gog. [^77] Nous pouvons parler en paraboles et demander : À quoi 
 
 15\. Il en est de même : « À Salem est aussi son tabernacle, et à Sion sa demeure. » [^86] Pourtant, dans quel but l’Écriture lui restitue-t-elle (Jérusalem) son ancien nom ? [^87] Voici, il dit : « Car cette ville a été pour moi une provocation à ma colère et à ma fureur. » [^88] Peut-être est-elle déjà mentionnée avec colère et fureur ? Il nous est dit expressément : « La montagne que Dieu a désirée pour sa demeure. » [^89] Voici, elle est mentionnée avec désir et ardeur. Il veut nous apprendre que sa désolation a fait expiation pour elle. [^90] D’où apprenons-nous que la Shekinah ne reviendra pas au milieu de sa Jérusalem avant qu’elle ne soit transformée en « montagne » ? Il nous est dit expressément : « À Salem aussi est son tabernacle, et sa demeure à Sion », et nous constatons que lorsqu'elle était appelée Salem, elle était appelée une « montagne ». Cela signifie que la Shekinah ne revient pas au milieu d'elle avant qu'elle ne soit transformée en « montagne ». Car il est dit : « Et Abraham
 
-<span id="p14">[<sup><small>p. 14</small></sup>]</span>
+<span id="p14"><sup><small>[ p. 14 ]</small></sup></span>
 
 **T**.
 

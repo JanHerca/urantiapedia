@@ -34,9 +34,9 @@ dateCreated: 2025-2-7T10:44:27Z
 
 « Les paroles des sages et leurs énigmes » (Prov. i. 6).
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 ## NOTE D'INTRODUCTION
 
@@ -50,7 +50,7 @@ Ceci enseigne le secret du sens mystique de l'Écriture, et les treize règles p
 
 1\. « Gématrie ». Cette règle dépend de la valeur numérique de chaque lettre de l'alphabet. Son application à la résolution d'un point litigieux est souvent aussi absurde qu'ingénieuse. Pour clarifier encore le sujet, supposons qu'une valeur numérique standard soit attribuée à chaque lettre de l'alphabet anglais. _A_ a la valeur de 1, _B_ 2, _C_ 3, _D_ 4, _E_ 5, _F_ 6, _G_ 7, _H_ 8, _I_ 9, _J_ 10, _K_ 20, _L_ 30, _M_ 40, _N_ 50, _O_ 60, _P_ 70, _Q_ 80, _R_ 90, _S_ 100, _T_ 200, _U_ 300, _V_ 400, _W_ 500, _X_ 1000, _Y_ 10 000, _Z_ 100 000. Et supposons maintenant un point de litige afin d'illustrer comment il est résolu par la gématrie. Supposons que le sujet de discussion soit la supériorité comparative des langues hébraïque et anglaise, et que Hugo et Baruch soient les contestataires. Le premier, étant hébreu, soutient que l'hébreu est supérieur à l'anglais,
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 « Parce que », dit-il, « la valeur numérique des lettres qui forment le mot hébreu est de 610 ; tandis que celle du mot anglais n’est que de 209. » Ce dernier, étant anglais, soutient, bien sûr, l’opinion exactement contraire et argumente ainsi : « Tous les savants doivent admettre que l’anglais est une langue vivante, mais pas l’hébreu ; et comme il est écrit (Eccles. ix. 4) qu’“un chien vivant vaut mieux qu’un lion mort”, je maintiens donc que l’anglais est supérieur à l’hébreu. » Le litige fut soumis à une autorité d’Oxford, et un certain savant docteur le trancha ainsi :
 
@@ -66,7 +66,7 @@ Que le lecteur remarque ici que, les lettres de l'alphabet anglais étant plus n
 _a_ | _b_ | _c_ | _d_ | _e_ | _f_ | _g_ | _h_ | _i_ | _j_ | _k_ | _l_ | _m_
 _z_ | _y_ | _x_ | _w_ | _v_ | _u_ | _t_ | _s_ | _r_ | _q_ | _p_ | _o_ | _n_
 
-nous obtenons treize couples de lettres qui s'échangent, à savoir, _a_ et _z_, _b_ et _y_, _c_ et _x_, etc. Ces lettres, <span id="p269">[<sup><small>p. 269</small></sup>]</span> une fois échangées, donnent naissance à un alphabet permuté, et cet alphabet permuté tire son nom technique des deux premiers couples de lettres, _a_ et _z_, _b_ et _y_, ou « Azby ». Maintenant, si nous voulons écrire « Ne vous mêlez pas de ceux qui sont sujets au changement », vous devez changer les lettres des couples et le résultat suivant sera : « Nvwwov mlg drgs gsvn gszg ziv trem gl xszmtv. » Ceci est un spécimen du mystérieux Temurah, et l'« Azby » en est la clé. Les quatre autres alphabets permutés sont de nature et de caractère similaires, et sont si estimés parmi les sages et les bardes d'Israël qu'ils les utilisent souvent dans leurs compositions littéraires et poétiques. Les Machzorim, ou liturgies juives des fêtes, regorgent de compositions où les premières lettres des phrases suivent l'ordre de l'« Atbash » ou du « Tashrak ». Ce dernier est simplement un ordre alphabétique inversé.
+nous obtenons treize couples de lettres qui s'échangent, à savoir, _a_ et _z_, _b_ et _y_, _c_ et _x_, etc. Ces lettres, <span id="p269"><sup><small>[ p. 269 ]</small></sup></span> une fois échangées, donnent naissance à un alphabet permuté, et cet alphabet permuté tire son nom technique des deux premiers couples de lettres, _a_ et _z_, _b_ et _y_, ou « Azby ». Maintenant, si nous voulons écrire « Ne vous mêlez pas de ceux qui sont sujets au changement », vous devez changer les lettres des couples et le résultat suivant sera : « Nvwwov mlg drgs gsvn gszg ziv trem gl xszmtv. » Ceci est un spécimen du mystérieux Temurah, et l'« Azby » en est la clé. Les quatre autres alphabets permutés sont de nature et de caractère similaires, et sont si estimés parmi les sages et les bardes d'Israël qu'ils les utilisent souvent dans leurs compositions littéraires et poétiques. Les Machzorim, ou liturgies juives des fêtes, regorgent de compositions où les premières lettres des phrases suivent l'ordre de l'« Atbash » ou du « Tashrak ». Ce dernier est simplement un ordre alphabétique inversé.
 
 ### LA VRAIE KABBALE
 
@@ -76,9 +76,9 @@ La « vraie Kabbale » est constituée de mystères théoriques et pratiques.
 
 2\. La Kabbale pratique est une branche de la Kabbale théorique et traite de l'utilisation pratique des noms mystérieux de Dieu et des anges. En prononçant correctement le Shem-ham-mephorash, c'est-à-dire le nom ineffable de Jéhovah, ou les noms de certains anges, ou par la simple répétition de certains textes des Écritures, des miracles et des prodiges ont été et sont encore accomplis dans le monde juif.
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 ## LA KABBALE
 
@@ -104,7 +104,7 @@ _Ibid._
 
 Le Yalkut Shimeoni, dans le plus pur style rabbinique, amplifie encore davantage la liberté accordée dans les citations ci-dessus. Rabbi Eliezer raconte que les Israélites se lamentaient ainsi devant Dieu, s'exclamant : « Nous voudrions être occupés jour et nuit à la loi, mais nous n'avons pas le loisir nécessaire ? Alors le Saint – béni soit-Il ! – dit : « Accomplis le commandement des Phylactères, et je te le compterai comme si tu étais occupé nuit et jour à l'étude de la loi. »
 
-Quoi qu'il en soit, tous les préceptes sont observés par tout Israël pris ensemble, à savoir : les prêtres observent leur part, les Lévites la leur, et les Israélites la leur ; ainsi, tous observent tout. Car le Saint – béni soit-Il ! – a écrit <span id="p273">[<sup><small>p. 273</small></sup>]</span> une loi pour ses fidèles serviteurs, la nation d'Israël, et en tant que nation, ils observent toute la loi. C'est comme lorsqu'un roi écrivit à ses sujets : « Voici, je vous ordonne de vous préparer à la guerre contre l'ennemi, d'élever les murailles, de rassembler des armes et de faire des provisions de vivres » ; et ceux qui étaient bâtisseurs s'occupaient des murailles, les armuriers des armes, les cultivateurs des provisions de vivres, etc., etc. Chacun, selon ses capacités, faisait tout ce qui lui était demandé, et tous exécutaient ensemble l'ordre du roi.
+Quoi qu'il en soit, tous les préceptes sont observés par tout Israël pris ensemble, à savoir : les prêtres observent leur part, les Lévites la leur, et les Israélites la leur ; ainsi, tous observent tout. Car le Saint – béni soit-Il ! – a écrit <span id="p273"><sup><small>[ p. 273 ]</small></sup></span> une loi pour ses fidèles serviteurs, la nation d'Israël, et en tant que nation, ils observent toute la loi. C'est comme lorsqu'un roi écrivit à ses sujets : « Voici, je vous ordonne de vous préparer à la guerre contre l'ennemi, d'élever les murailles, de rassembler des armes et de faire des provisions de vivres » ; et ceux qui étaient bâtisseurs s'occupaient des murailles, les armuriers des armes, les cultivateurs des provisions de vivres, etc., etc. Chacun, selon ses capacités, faisait tout ce qui lui était demandé, et tous exécutaient ensemble l'ordre du roi.
 
 _Kitzur Sh'lu_, p. 6, col. 2.
 
@@ -162,7 +162,7 @@ Le meurtrier est transmigré dans l'eau. Le signe mystique de cette transmigrati
 
 _Ibid._, fol. 153, col. 1, 2.
 
-Celui qui pèche avec une femme mariée est, après avoir subi la peine d'errer comme un fugitif et un vagabond, <span id="p276">[<sup><small>p. 276</small></sup>]</span> transmigré, avec son complice, dans la meule d'un moulin à eau, selon le mystère de (Job xxxi. 10), « Que ma femme meule pour un autre. »
+Celui qui pèche avec une femme mariée est, après avoir subi la peine d'errer comme un fugitif et un vagabond, <span id="p276"><sup><small>[ p. 276 ]</small></sup></span> transmigré, avec son complice, dans la meule d'un moulin à eau, selon le mystère de (Job xxxi. 10), « Que ma femme meule pour un autre. »
 
 _Emeh Hamelech_, fol. 153, col. 1, 2.
 
@@ -210,7 +210,7 @@ La vérité et la foi sont les éléments essentiels de la religion, qui sont au
 
 8\. Il a donné une loi de vérité ; c'est la loi du ciel, « au commencement » pour « aux yeux de tout Israël ». De même, son commentaire reçu oralement est « une loi (donnée) à Moïse depuis le Sinaï ».
 
-9\. Dieu ne changera ni ne modifiera sa loi éternellement. Il ne changera jamais la loi de Moïse, notre Rabbi – que la paix soit avec lui ! La loi ne souffrira ni ajout ni diminution (mais elle demeurera), comme le prophète Malachie l'a scellée du sceau des prophètes en terminant ses paroles (Malachie IV. 4) : « Souvenez-vous de la loi de Moïse, mon serviteur, que je lui ai prescrite en Horeb pour tout Israël. » Autrefois, la loi était un vêtement de lumière, mais à cause du péché, elle s'est matérialisée dans un vêtement de peau, de la même manière que l'homme s'est matérialisé dans un corps de chair. Dans l'avenir, après la rédemption, cependant, la loi retrouvera son vêtement de lumière, et le Messie la prêchera en de terribles mystères, <span id="p278">[<sup><small>p. 278</small></sup>]</span> tels qu'aucune oreille n'en a jamais entendus, et elle nous apparaîtra comme une loi nouvelle. Mais la loi ne sera pas modifiée, ni renouvelée, comme le disent les nations du monde = Jér. xxxi. 30-33.
+9\. Dieu ne changera ni ne modifiera sa loi éternellement. Il ne changera jamais la loi de Moïse, notre Rabbi – que la paix soit avec lui ! La loi ne souffrira ni ajout ni diminution (mais elle demeurera), comme le prophète Malachie l'a scellée du sceau des prophètes en terminant ses paroles (Malachie IV. 4) : « Souvenez-vous de la loi de Moïse, mon serviteur, que je lui ai prescrite en Horeb pour tout Israël. » Autrefois, la loi était un vêtement de lumière, mais à cause du péché, elle s'est matérialisée dans un vêtement de peau, de la même manière que l'homme s'est matérialisé dans un corps de chair. Dans l'avenir, après la rédemption, cependant, la loi retrouvera son vêtement de lumière, et le Messie la prêchera en de terribles mystères, <span id="p278"><sup><small>[ p. 278 ]</small></sup></span> tels qu'aucune oreille n'en a jamais entendus, et elle nous apparaîtra comme une loi nouvelle. Mais la loi ne sera pas modifiée, ni renouvelée, comme le disent les nations du monde = Jér. xxxi. 30-33.
 
 10\. Il observe et connaît tous nos secrets, etc.
 
@@ -304,7 +304,7 @@ Il est nécessaire de prêter attention aux pieds lorsque le fidèle répète «
 
 _Ibid._
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 Quiconque visite une synagogue peut constater l'observance de cette pratique. Dans les synagogues hassidiques, on préfère sauter plutôt que lever les talons.
 
@@ -316,7 +316,7 @@ Il est conseillé à l'homme d'étudier moins le vendredi afin de se consacrer �
 
 _Ibid._, fol. 61, col. 1.
 
-Il faut se couper les ongles tous les vendredis, jamais le jeudi, sinon ils commenceront à pousser le <span id="p283">[<sup><small>p. 283</small></sup>]</span> sabbat suivant. Il faut d'abord couper les ongles de la main gauche, en commençant par le quatrième doigt et en terminant par le pouce ; puis il faut couper les ongles de la main droite, en commençant par le pouce et en terminant par le quatrième doigt ; il ne faut pas varier l'ordre suivant : 4e, 2e, 5e, 3e, 1er de la main gauche ; puis 1er, 3e, 5e, 2e, 4e de la main droite. Il ne faut jamais couper deux doigts (contigus) l'un après l'autre, car c'est dangereux et cela altère la mémoire. La raison et le mystère de l'ordre de coupe des ongles sont bien connus des experts.
+Il faut se couper les ongles tous les vendredis, jamais le jeudi, sinon ils commenceront à pousser le <span id="p283"><sup><small>[ p. 283 ]</small></sup></span> sabbat suivant. Il faut d'abord couper les ongles de la main gauche, en commençant par le quatrième doigt et en terminant par le pouce ; puis il faut couper les ongles de la main droite, en commençant par le pouce et en terminant par le quatrième doigt ; il ne faut pas varier l'ordre suivant : 4e, 2e, 5e, 3e, 1er de la main gauche ; puis 1er, 3e, 5e, 2e, 4e de la main droite. Il ne faut jamais couper deux doigts (contigus) l'un après l'autre, car c'est dangereux et cela altère la mémoire. La raison et le mystère de l'ordre de coupe des ongles sont bien connus des experts.
 
 _Kitzur Sh'lh_.
 
@@ -344,7 +344,7 @@ Heureux celui qui peut se procurer un vêtement complet, comprenant ceinture, ch
 
 Ceci fait, l'Israélite pieux se rend à la synagogue pour rencontrer son Dieu comme l'époux et recevoir le sabbat comme l'épouse. L'office mérite amplement d'être répété, mais pour plus de détails, il faut se référer à la liturgie.
 
-L'Israélite revient de la synagogue accompagné de deux anges, l'un bon et l'autre mauvais ; et selon les conditions. <span id="p285">[<sup><small>p. 285</small></sup>]</span> des arrangements domestiques, lorsqu'il rentre, il est béni par le bon ange ou maudit par le mauvais.
+L'Israélite revient de la synagogue accompagné de deux anges, l'un bon et l'autre mauvais ; et selon les conditions. <span id="p285"><sup><small>[ p. 285 ]</small></sup></span> des arrangements domestiques, lorsqu'il rentre, il est béni par le bon ange ou maudit par le mauvais.
 
 L'Israélite est solennellement averti de ne pas se quereller avec sa femme la veille du sabbat, car les démons sont alors très occupés à susciter davantage de conflits, comme l'illustre l'histoire de Rabbi Meir.
 
@@ -377,7 +377,7 @@ Ehlaij Ehijla Ehjial Ehialj Ehjail
 
 et ainsi de suite.
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 Le dernier jour du mois est appelé « le petit jour des Expiations », et il est légitime de faire pénitence ce jour-là. Le premier jour du mois, préparer un plat supplémentaire pour le dîner en l'honneur de ce jour est un acte pieux. Dieu a donné le premier jour du mois (comme fête) davantage aux femmes qu'aux hommes, car les trois fêtes annuelles sont célébrées selon les trois patriarches, Abraham, Isaac et Jacob, et parce que les douze mois sont célébrés selon les douze tribus. Or, comme les tribus ont péché dans l'affaire du veau d'or, et que les femmes ont refusé d'abandonner leurs boucles d'oreilles en or pour ce dessein idolâtre, elles ont mérité que Dieu leur accorde en récompense les premiers jours des douze mois, selon le nombre des tribus.
 
@@ -385,7 +385,7 @@ _Kitzur Sh'lh_, fol. 72, col. 1.
 
 C'est un acte très pieux de bénir la lune à la fin du sabbat, vêtu de ses plus beaux vêtements et parfumé. Si la bénédiction doit être prononcée le soir d'un jour de semaine ordinaire, il est préférable de porter la plus belle tenue. Selon les kabbalistes, les bénédictions sur la lune ne doivent être prononcées que sept jours après sa naissance, mais, selon des autorités plus récentes, cela peut être fait après trois jours. Si cet office mensuel n'est pas accompli sous un toit, mais en plein air, c'est parce qu'il est considéré comme une réception de la présence de la Shekhina, et il serait irrespectueux de le faire ailleurs qu'en plein air. Cela dépend beaucoup des circonstances, du moment et du lieu de consécration de la nouvelle lune, ainsi que de ses propres prédispositions, car les autorités divergent. Nous conclurons ces remarques par la conclusion du Kitzur Sh'lu sur le sujet, qui, p. 72, col. 2, est ainsi rédigée :
 
-Lorsqu'on s'apprête à sanctifier la nouvelle lune, il faut redresser les pieds (comme à la Shemonah-esreh) et jeter un coup d'œil à la lune avant de commencer à réciter la bénédiction rituelle. Après l'avoir commencée, il ne doit plus la regarder du tout. Il doit ainsi commencer : « Au nom du Saint et du Béni et de Sa Shekhina, par Celui qui est caché et dissimulé ! et au nom de tout Israël ! » Puis il doit réciter la « Forme de Prière <span id="p288">[<sup><small>p. 288</small></sup>]</span> pour la Nouvelle Lune » ; mot pour mot, sans hâte, mais avec une délibération solennelle, et lorsqu'il répète :
+Lorsqu'on s'apprête à sanctifier la nouvelle lune, il faut redresser les pieds (comme à la Shemonah-esreh) et jeter un coup d'œil à la lune avant de commencer à réciter la bénédiction rituelle. Après l'avoir commencée, il ne doit plus la regarder du tout. Il doit ainsi commencer : « Au nom du Saint et du Béni et de Sa Shekhina, par Celui qui est caché et dissimulé ! et au nom de tout Israël ! » Puis il doit réciter la « Forme de Prière <span id="p288"><sup><small>[ p. 288 ]</small></sup></span> pour la Nouvelle Lune » ; mot pour mot, sans hâte, mais avec une délibération solennelle, et lorsqu'il répète :
 
 « Béni soit ton Créateur, béni soit ton Créateur, béni soit ton Possesseur, béni soit ton Créateur. »
 
@@ -393,7 +393,7 @@ Il méditera sur les initiales des quatre épithètes divines qui forment « Jac
 
 « Que la bonne fortune et le bonheur soient sur nous et sur tout Israël ! Amen. »
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 <figure class="table chapter-navigator">
   <table>

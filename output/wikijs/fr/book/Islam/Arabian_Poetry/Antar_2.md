@@ -40,7 +40,7 @@ C'est comme si elle était le jour brillant, et comme si la nuit l'avait envelop
 
 C'est comme si la pleine lune brillait dans sa splendeur, et que toutes les étoiles étaient cachées par son éclat.
 
-<span id="p187">[<sup><small>p. 187</small></sup>]</span>
+<span id="p187"><sup><small>[ p. 187 ]</small></sup></span>
 
 Ses charmes envoûtent tout autour d'elle, et tous sont impatients de lui offrir leurs services :
 
@@ -68,7 +68,7 @@ Elle regarde : Je devrais dire que c'était la pleine lune de la nuit quand Orio
 
 Elle sourit : et les perles de ses dents scintillent, dans lesquelles se trouve le remède à la maladie des amoureux.
 
-<span id="p188">[<sup><small>p. 188</small></sup>]</span>
+<span id="p188"><sup><small>[ p. 188 ]</small></sup></span>
 
 Elle se prosterne en signe de révérence devant son Dieu, et les plus grands des hommes s'inclinent devant ses beautés.
 
@@ -90,7 +90,7 @@ Mais je ne me plains pas, bien que toutes mes craintes soient à cause de toi, �
 
 Mais comment puis-je espérer t'approcher, alors que les lions de la forêt gardent ta tente ?
 
-<span id="p189">[<sup><small>p. 189</small></sup>]</span>
+<span id="p189"><sup><small>[ p. 189 ]</small></sup></span>
 
 Par la vérité de mon amour pour toi, mon cœur ne peut jamais être guéri que par la patience.
 

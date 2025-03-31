@@ -79,7 +79,7 @@ Ráhu [^1005] le redoutable Dragon brille.
 Trente qivers à ses côtés,
 Sa voiture à arbres est bien fournie :
 
-<span id="p483">[<sup><small>p. 483</small></sup>]</span>
+<span id="p483"><sup><small>[ p. 483 ]</small></sup></span>
 
 Et scintillant comme la lumière des étoiles
 Ses deux puissants cimeterres brillent.
@@ -200,7 +200,7 @@ Et Kumbhakarna tient le combat ?
 Ceux-ci, ceux-ci et bien d'autres Rákshas,
 Chacun étant maître des armes qu'il portait,
 
-<span id="p484">[<sup><small>p. 484</small></sup>]</span>
+<span id="p484"><sup><small>[ p. 484 ]</small></sup></span>
 
 Qui a vaincu tous les ennemis au combat,
 Les vainqueurs, personne n'a jamais pu les vaincre,
@@ -323,7 +323,7 @@ Dans la salle de Rávan, le destin des princes.
 Les ombres de la nuit tombante dissimulées
 Le carnage du champ de bataille,
 
-<span id="p485">[<sup><small>p. 485</small></sup>]</span>
+<span id="p485"><sup><small>[ p. 485 ]</small></sup></span>
 
 Qui, entendant chacun une marque flamboyante,
 Hanuman et Vibhishan scannés,
@@ -428,7 +428,7 @@ C'était la brillante demeure de Kuvera ;
 Là, l'arme mystique de Brahma brillait.
 Il y avait la noble colline sur laquelle
 
-<span id="p486">[<sup><small>p. 486</small></sup>]</span>
+<span id="p486"><sup><small>[ p. 486 ]</small></sup></span>
 
 Ces herbes brillaient d’un éclat merveilleux.
 Et, ravi par la vue glorieuse,
@@ -550,7 +550,7 @@ Nikumbha a vu son frère mourir,
 Et son œil rouge de fureur brillait.
 Il s'élança avec une agilité et un balancement puissants
 
-<span id="p487">[<sup><small>p. 487</small></sup>]</span>
+<span id="p487"><sup><small>[ p. 487 ]</small></sup></span>
 
 Sa hache contre le roi Vánar ;
 Mais brisé sur ce rocher vivant

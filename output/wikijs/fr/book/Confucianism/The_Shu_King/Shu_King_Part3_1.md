@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p63">[<sup><small>p. 63</small></sup>]</span>
+<span id="p63"><sup><small>[ p. 63 ]</small></sup></span>
 
 ## PARTIE III. LES LIVRES DE HSIÂ. LIVRE I. L'HOMMAGE DE YÜ.
 
@@ -52,7 +52,7 @@ Le mot « Tribute » dans le nom de ce premier Livre ne doit pas être compris s
 
 Le sol de cette province était blanchâtre et moelleux. Sa contribution aux revenus était la plus élevée de la classe supérieure, avec une certaine proportion de celle de la seconde. Ses champs correspondaient à la moyenne de la classe moyenne.
 
-<span id="p65">[<sup><small>p. 65</small></sup>]</span>
+<span id="p65"><sup><small>[ p. 65 ]</small></sup></span>
 
 Les eaux du Hăng et du Wei furent amenées à leurs cours respectifs, et Tâ-lü fut rendue cultivable.
 
@@ -68,7 +68,7 @@ Ils flottèrent le long du <i>K</i>î et du Thâ, et atteignirent ainsi le Ho.
 
 4\. La mer et (le mont) Tâi étaient les limites de <i>Kh</i>ing <i>K</i>âu [^78].
 
-<span id="p66">[<sup><small>p. 66</small></sup>]</span>
+<span id="p66"><sup><small>[ p. 66 ]</small></sup></span>
 
 (Le territoire de) Yü-î fut défini ; et les Wei et les Ȝze furent obligés de conserver leurs (anciens) canaux.
 
@@ -102,7 +102,7 @@ Ils descendirent le <i>K</i>iang, le <i>Tho</i>, le <i>Khien</i> et le Han, et t
 
 8\. Le <i>K</i>ing (montagne) et le Ho étaient (les limites de) Yü <i>K</i>âu [^82].
 
-L'Î, le Lo, le Khan et le Kien furent conduits jusqu'au Ho. Le marais de Yung-po fut <span id="p70">[<sup><small>p. 70</small></sup>]</span> confiné dans ses propres limites. Les eaux de celui de Ko furent conduites jusqu'au marais de Mang-kû.
+L'Î, le Lo, le Khan et le Kien furent conduits jusqu'au Ho. Le marais de Yung-po fut <span id="p70"><sup><small>[ p. 70 ]</small></sup></span> confiné dans ses propres limites. Les eaux de celui de Ko furent conduites jusqu'au marais de Mang-kû.
 
 Le sol de cette province était moelleux ; dans les parties basses, il était (par endroits) riche, et (par ailleurs) sombre et maigre. Ses champs étaient les plus riches de la classe moyenne ; et sa contribution aux revenus était la moyenne de la classe la plus élevée, avec une proportion des plus aisées. Ses articles de tribut étaient le vernis, le chanvre, le fin tissu de dolichos et la bohmerea. Les paniers étaient remplis de soies à carreaux et de soie fine. Des pierres pour polir les pierres de sondage étaient fournies sur demande.
 
@@ -112,7 +112,7 @@ Ils flottèrent le long du Lo et atteignirent ainsi le Ho.
 
 Les collines Min et Po furent rendues cultivables. Les ruisseaux Tho et Khien furent canalisés par leurs cours respectifs. Des sacrifices furent offerts aux collines Ȝhâi et Mâng pour la régulation du pays qui les entourait. Le pays des tribus sauvages autour du Ho fut exploité avec succès.
 
-<span id="p71">[<sup><small>p. 71</small></sup>]</span>
+<span id="p71"><sup><small>[ p. 71 ]</small></sup></span>
 
 Le sol de cette province était verdoyant et clair. Ses champs étaient parmi les plus riches de la classe la plus basse ; et sa contribution aux revenus était la moyenne de la classe la plus basse, avec des proportions immédiatement supérieures et inférieures aux impôts. Ses articles de tribut étaient : l'or, le fer, l'argent, l'acier de la meilleure qualité, des pierres à silex pour la fabrication de pointes de flèches et de pierres de sondage ; des peaux d'ours, de renards et de chacals, et des filets tissés avec leurs poils.
 
@@ -124,7 +124,7 @@ L'Eau Faible fut conduite vers l'ouest. Le roi fut amené à mêler ses eaux à 
 
 On sacrifia aux montagnes de King et de Khî. Celles de Kung-nan et de Khun-wû furent également arrangées, et jusqu'à Niâo-shû. Des mesures efficaces purent alors être prises dans les plaines et les marais, jusqu'au marais de Kû-yeh. Le pays de San-wei fut rendu habitable, et les affaires du peuple de San-miâo furent grandement arrangées.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 Le sol de la province était jaune et moelleux. Ses champs étaient parmi les plus riches de la classe la plus élevée, et sa contribution aux revenus la plus faible de la seconde. Ses articles de tribut étaient le jade kh_iû, le lin et les pierres appelées lang-kan.
 
@@ -138,7 +138,7 @@ La division du livre en deux sections est une organisation commode, mais moderne
 
 1\. (Yü) arpenta et décrivit (les collines), en commençant par <i>Kh</i>ien et <i>Kh</i>î, et en continuant vers le mont <i>K</i>ing ; puis, traversant le Ho, le Hû-khâu et le Leî-shâu, allant vers Thâi-yo. (Après ceux-ci vinrent) Tî-_k_û et Hsî-khăng, d'où il alla vers Wang-wû ; (puis il y eut) Thâi-hang et le mont Hăng, d'où il se dirigea vers les rochers de <i>K</i>ieh, d'où il atteignit la mer.
 
-(Au sud du Ho, il arpenta) Hsî-_kh_ing, <i>K</i>û-yü, <span id="p73">[<sup><small>p. 73</small></sup>]</span> et Niâo-shû, en passant par Thâi-hwâ ; (puis) ​​Hsiung-_R_, Wâi-fang et Thung-pâi, d'où il se rendit à Pei-wei.
+(Au sud du Ho, il arpenta) Hsî-_kh_ing, <i>K</i>û-yü, <span id="p73"><sup><small>[ p. 73 ]</small></sup></span> et Niâo-shû, en passant par Thâi-hwâ ; (puis) ​​Hsiung-_R_, Wâi-fang et Thung-pâi, d'où il se rendit à Pei-wei.
 
 Il arpenta et décrivit Po-kh-ung, puis le mont King et Nêi-fang, d'où il se dirigea vers Tâ-pieh.
 
@@ -152,7 +152,7 @@ Il suivit le Ho depuis Kî-shih jusqu'à Lung-măn ; et de là, vers le sud, jus
 
 De Po-kh-ung, il suivit le Yang, qui, coulant vers l'est, devint le Han. Plus à l'est, il devint les eaux du Ȝhang-lang ; et après avoir franchi les Trois-Digues, il continua jusqu'à Tâ-pieh, d'où il se jeta au sud dans le <i>K</i>iang. Toujours vers l'est, et tourbillonnant, il forma le marais de Phăng-lî ; et de là, son cours oriental devint le <i>K</i>iang du nord, par lequel il se jeta dans la mer.
 
-Du mont Min, il suivit le <i>K</i>iang, qui, bifurquant vers l'est, forma le Tho ; vers l'est encore, il atteignit le Lî, passa les neuf <i>K</i>iang, et <span id="p74">[<sup><small>p. 74</small></sup>]</span> continua jusqu'à Tung-ling ; puis, coulant vers l'est et serpentant vers le nord, il rejoignit (le Han) avec ses mouvements tourbillonnaires. De là, son cours oriental fut le <i>K</i>iang moyen, par lequel il se jeta dans la mer.
+Du mont Min, il suivit le <i>K</i>iang, qui, bifurquant vers l'est, forma le Tho ; vers l'est encore, il atteignit le Lî, passa les neuf <i>K</i>iang, et <span id="p74"><sup><small>[ p. 74 ]</small></sup></span> continua jusqu'à Tung-ling ; puis, coulant vers l'est et serpentant vers le nord, il rejoignit (le Han) avec ses mouvements tourbillonnaires. De là, son cours oriental fut le <i>K</i>iang moyen, par lequel il se jeta dans la mer.
 
 Il suivit la trace de l'eau du Yen, qui, coulant vers l'est, devint le <i>K</i>î, et entra dans le Ho. (Ensuite) elle s'écoula et devint le Yung (marais). Vers l'est, elle déboucha au nord du Thâo-_kh_iû, et coula plus à l'est jusqu'au (marais de) Ko ; puis elle alla au nord-est, et se rejoignit au Wăn ; de là elle alla au nord, et (finalement) entra dans la mer à l'est.
 
@@ -164,7 +164,7 @@ Il suivit le Lo depuis la colline Hsiung-_R_. Coulant vers le nord-est, il se re
 
 3\. (Ainsi), dans les neuf provinces, un ordre semblable fut appliqué : les terres le long des eaux furent partout rendues habitables ; les collines furent débarrassées de leur bois superflu et sacrifiées ; les sources des rivières furent dégagées ; les marais furent bien bordés ; et l'accès à la capitale fut assuré à tous dans les quatre mers.
 
-Les six magasins (de richesse matérielle) ont été pleinement pris en charge ; les différentes parties du pays ont été soumises à une comparaison exacte, de sorte que la contribution <span id="p75">[<sup><small>p. 75</small></sup>]</span> des revenus pouvait être soigneusement ajustée en fonction de leurs ressources. (Les champs) ont tous été classés en référence aux trois caractères du sol ; et les revenus de la région centrale ont été établis.
+Les six magasins (de richesse matérielle) ont été pleinement pris en charge ; les différentes parties du pays ont été soumises à une comparaison exacte, de sorte que la contribution <span id="p75"><sup><small>[ p. 75 ]</small></sup></span> des revenus pouvait être soigneusement ajustée en fonction de leurs ressources. (Les champs) ont tous été classés en référence aux trois caractères du sol ; et les revenus de la région centrale ont été établis.
 
 4\. Il conféra des terres et des noms de famille. (Il dit) : « Que je donne l'exemple d'une attention respectueuse à ma vertu, et personne n'agira contrairement à ma conduite. » Cinq cents constituaient le Domaine du Souverain. Les cent premiers apportaient comme revenu la plante entière du grain ; les deuxièmes, les chars, avec une partie de la tige ; les troisièmes, la paille, mais les gens devaient accomplir divers services ; les quatrièmes, le grain dans sa balle ; et les cinquièmes, le grain nettoyé.
 

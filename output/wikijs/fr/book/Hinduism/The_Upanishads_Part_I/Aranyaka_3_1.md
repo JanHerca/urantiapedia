@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:4:59Z
   </table>
 </figure>
 
-<span id="p247">[<sup><small>p. 247</small></sup>]</span>
+<span id="p247"><sup><small>[ p. 247 ]</small></sup></span>
 
 TROISIÈME ÂRA<i>N</i>YAKA [^619].
 
@@ -64,7 +64,7 @@ PREMIER ADHYÂYA.
 
 ## DEUXIÈME KHA<i>N</i><i>D</i>A.
 
-1\. Vient ensuite la méditation telle qu'enseignée par <i>S</i>âkalya. <span id="p249">[<sup><small>p. 249</small></sup>]</span> 2\. La première moitié est la terre, la seconde moitié le ciel, leur union étant la pluie, l'unificateur Par<i>g</i>anya [^629].
+1\. Vient ensuite la méditation telle qu'enseignée par <i>S</i>âkalya. <span id="p249"><sup><small>[ p. 249 ]</small></sup></span> 2\. La première moitié est la terre, la seconde moitié le ciel, leur union étant la pluie, l'unificateur Par<i>g</i>anya [^629].
 
 3\. Et il en est de même lorsqu'il (Par<i>g</i>anya) pleut ainsi fort, sans cesse, jour et nuit [^630],
 
@@ -78,7 +78,7 @@ PREMIER ADHYÂYA.
 
 8\. Ayant ainsi représenté le soi (le corps) comme le monde entier, <i>S</i>âkalya dit : Cette moitié est la terre, cette moitié le ciel.
 
-9\. Celui qui connaît ainsi cette union s'unit à sa progéniture, à son bétail, à sa renommée, à la gloire de son visage, <span id="p250">[<sup><small>p. 250</small></sup>]</span> et au monde de Svarga. Il vit pleinement son âge.
+9\. Celui qui connaît ainsi cette union s'unit à sa progéniture, à son bétail, à sa renommée, à la gloire de son visage, <span id="p250"><sup><small>[ p. 250 ]</small></sup></span> et au monde de Svarga. Il vit pleinement son âge.
 
 ## TROISIÈME KHA<i>N</i><i>D</i>A [^633].
 
@@ -106,7 +106,7 @@ Si un autre homme réprimande celui qui dit l'Ubhayamantare<i>n</i>a, qu'il lui 
 
 10\. Même dans une richesse excessive, il ne devrait pas maudire un Brâhma<i>n</i>a, mais il devrait dire : « Je m'incline devant les Brâhma<i>n</i>as », ainsi parle Sûravîra Mândûkeya.
 
-<span id="p252">[<sup><small>p. 252</small></sup>]</span>
+<span id="p252"><sup><small>[ p. 252 ]</small></sup></span>
 
 ## QUATRIÈME KHA<i>N</i><i>D</i>A.
 
@@ -120,7 +120,7 @@ Si un autre homme réprimande celui qui dit l'Ubhayamantare<i>n</i>a, qu'il lui 
 
 5\. Et quoi que dise le récitant à celui qui lui parle ou ne lui parle pas, soyez-en sûr, cela se réalisera. Mais à un brahmane, qu'il ne dise que ce qui est de bon augure. Seul un brahmane excessivement riche peut être maudit. Même dans une richesse excessive, il ne doit pas maudire un brahmane, mais il doit dire : « Je m'incline devant les brahmanes », ainsi parle Sûravîra Mândûkeya.
 
-<span id="p253">[<sup><small>p. 253</small></sup>]</span>
+<span id="p253"><sup><small>[ p. 253 ]</small></sup></span>
 
 ## CINQUIÈME KHA<i>N</i><i>D</i>A.
 
@@ -134,7 +134,7 @@ Si un autre homme réprimande celui qui dit l'Ubhayamantare<i>n</i>a, qu'il lui 
 
 5\. Celui qui connaît ainsi cette Sa<i>m</i>hitâ (union) s'unit à sa descendance, à son bétail, à sa renommée, à la gloire de son visage et au monde de Svarga. Il vit pleinement sa vie.
 
-6\. Or son fils cadet, l'enfant de sa mère Prâtibodhî [^646], dit : « On prononce ces deux syllabes lettre par lettre, sans les séparer entièrement <span id="p254">[<sup><small>p. 254</small></sup>]</span>, et sans les unir entièrement [^647]. Alors ce mora entre la première et la seconde moitié, qui indique l'union, c'est le Sâman (régularité, glissement). Je tiens donc que Sâman n'est que le Sa<i>m</i>hitâ (union). »
+6\. Or son fils cadet, l'enfant de sa mère Prâtibodhî [^646], dit : « On prononce ces deux syllabes lettre par lettre, sans les séparer entièrement <span id="p254"><sup><small>[ p. 254 ]</small></sup></span>, et sans les unir entièrement [^647]. Alors ce mora entre la première et la seconde moitié, qui indique l'union, c'est le Sâman (régularité, glissement). Je tiens donc que Sâman n'est que le Sa<i>m</i>hitâ (union). »
 
 7\. Ceci a également été déclaré par un Rishi (Ap. II, 23, 16) :
 
@@ -150,7 +150,7 @@ Si un autre homme réprimande celui qui dit l'Ubhayamantare<i>n</i>a, qu'il lui 
 
 3\. Pour cette Upanishad (pour acquérir de son maître la connaissance de ce Sa<i>m</i>hitâ de la parole et du souffle), Târukshya garde les vaches (de son maître) pendant une année entière.
 
-4\. Car Târukshya seul garde les vaches toute l'année. <span id="p255">[<sup><small>p. 255</small></sup>]</span> 5\. Ceci a également été déclaré par un Rishi (Rv. X, 181, 1 ; et Rv. X, 181, 2) :
+4\. Car Târukshya seul garde les vaches toute l'année. <span id="p255"><sup><small>[ p. 255 ]</small></sup></span> 5\. Ceci a également été déclaré par un Rishi (Rv. X, 181, 1 ; et Rv. X, 181, 2) :
 
 6\. Vasishtha a apporté ici le Rathantara ; Bharadvâga a apporté ici le Birihat d'Agni.
 
@@ -166,7 +166,7 @@ Si un autre homme réprimande celui qui dit l'Ubhayamantare<i>n</i>a, qu'il lui 
 
 12\. Pañ<i>k</i>âla<i>k</i>a<i>n</i><i>d</i>a a dit : « Le Sa<i>m</i>hitâ (union, composition) est la parole. »
 
-13\. En vérité, par la parole, les Védas, par la parole, les mètres sont composés. Les amis s'unissent par la parole, tous les êtres s'unissent par la parole ; donc la parole est tout ici [^651]. <span id="p256">[<sup><small>p. 256</small></sup>]</span> 14\. À cet égard (l'idée que la parole est plus que le souffle), il faut garder à l'esprit que lorsque nous répétons ainsi (le Véda) ou parlons, le souffle est (absorbé) dans la parole ; la parole avale le souffle. Et lorsque nous sommes silencieux ou que nous dormons, la parole est (absorbée) dans le souffle ; le souffle avale la parole. Les deux s'avalent l'un l'autre. En vérité, la parole est la mère, le souffle le fils.
+13\. En vérité, par la parole, les Védas, par la parole, les mètres sont composés. Les amis s'unissent par la parole, tous les êtres s'unissent par la parole ; donc la parole est tout ici [^651]. <span id="p256"><sup><small>[ p. 256 ]</small></sup></span> 14\. À cet égard (l'idée que la parole est plus que le souffle), il faut garder à l'esprit que lorsque nous répétons ainsi (le Véda) ou parlons, le souffle est (absorbé) dans la parole ; la parole avale le souffle. Et lorsque nous sommes silencieux ou que nous dormons, la parole est (absorbée) dans le souffle ; le souffle avale la parole. Les deux s'avalent l'un l'autre. En vérité, la parole est la mère, le souffle le fils.
 
 15\. Ceci a également été déclaré par un Rishi (Rv. X, 114, 4) :
 

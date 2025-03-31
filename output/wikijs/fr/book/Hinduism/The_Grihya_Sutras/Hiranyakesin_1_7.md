@@ -48,7 +48,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 7\. Dans la salle, dans sa partie est, il éteint le feu et y met du bois.
 
-8\. À l'ouest du feu, il étend une peau de taureau rouge, le cou à l'est et les poils à l'extérieur. <span id="p194">[<sup><small>p. 194</small></sup>]</span>
+8\. À l'ouest du feu, il étend une peau de taureau rouge, le cou à l'est et les poils à l'extérieur. <span id="p194"><sup><small>[ p. 194 ]</small></sup></span>
 
 9\. [^625] Sur cette (peau), ils s'assoient tous deux face à l'est ou au nord, de sorte que la femme est assise derrière son mari, avec (le verset) : « Ici peuvent s'asseoir les vaches, ici les chevaux, ici les hommes. Ici peut aussi s'asseoir Pûshan avec mille offrandes (sacrificielles). »
 
@@ -62,7 +62,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 14\. Il vénère les sept <i>Ri</i>shis (grande ourse) avec (le vers) : « Les sept <i>Ri</i>shis qui ont conduit à la fermeté, elle, Arundhatî, qui se tient la première parmi les six K<i>ri</i>ttikâs (pléiades) : — puisse-t-elle, la huitième, qui dirige la conjonction de la (lune avec les) six K<i>ri</i>ttikâs, la première (parmi les conjonctions) briller sur nous ! » Puis il vénère l'étoile polaire avec (la formule) : « Demeure ferme, origine ferme. Tu es le ferme, debout du côté de la fermeté. Tu es le pilier des étoiles ; ainsi protège-moi contre mon adversaire.
 
-Adoration au Brahman, à l'inébranlable ! Adoration au fils du Brahman, Pra<i>g</i>âpati ! Adoration aux enfants du Brahman, <span id="p195">[<sup><small>p. 195</small></sup>]</span> aux trente-trois dieux ! Adoration aux enfants et petits-enfants du Brahman, aux Aṅgiras !
+Adoration au Brahman, à l'inébranlable ! Adoration au fils du Brahman, Pra<i>g</i>âpati ! Adoration aux enfants du Brahman, <span id="p195"><sup><small>[ p. 195 ]</small></sup></span> aux trente-trois dieux ! Adoration aux enfants et petits-enfants du Brahman, aux Aṅgiras !
 
 Celui qui te connaît (l'étoile polaire) comme le Brahman ferme et immuable avec ses enfants et ses petits-enfants, avec un tel homme, enfants et petits-enfants demeureront fermement, serviteurs et élèves, vêtements et couvertures de laine, bronze et or, épouses et rois, nourriture, sécurité, longue vie, gloire, renommée, splendeur, force, éclat sacré et plaisir de la nourriture. Puissent toutes ces choses demeurer fermement et immuablement en moi !
 
@@ -78,7 +78,7 @@ Celui qui te connaît (l'étoile polaire) comme le Brahman ferme et immuable ave
 
 « Je te connais comme le Brahman infaillible. Puissé-je ne pas tomber de ce monde et de ce pays. Puisse celui qui me hait, mon rival, tomber de ce monde et de ce pays.
 
-« Je te connais comme la nef de l'univers. Puissé-je devenir la nef de ce pays. Je te connais comme le centre de l'univers. Puissé-je devenir le centre de ce pays. Je te connais comme le fil qui tient l'univers. Puissé-je devenir le fil qui tient ce pays. Je te connais comme le pilier <span id="p196">[<sup><small>p. 196</small></sup>]</span> de l'univers. Puissé-je devenir le pilier de ce pays. Je te connais comme le nombril de l'univers. Puissé-je devenir le nombril de ce pays. »
+« Je te connais comme la nef de l'univers. Puissé-je devenir la nef de ce pays. Je te connais comme le centre de l'univers. Puissé-je devenir le centre de ce pays. Je te connais comme le fil qui tient l'univers. Puissé-je devenir le fil qui tient ce pays. Je te connais comme le pilier <span id="p196"><sup><small>[ p. 196 ]</small></sup></span> de l'univers. Puissé-je devenir le pilier de ce pays. Je te connais comme le nombril de l'univers. Puissé-je devenir le nombril de ce pays. »
 
 « Comme le nombril est le centre des Prânas, ainsi je suis le nombril. Que le mal soit multiplié par cent, celui qui nous hait et que nous haïssons ; que le mérite soit multiplié par cent ! »
 
@@ -96,7 +96,7 @@ Celui qui te connaît (l'étoile polaire) comme le Brahman ferme et immuable ave
 
 8\. Le soir et le matin, il sacrifie constamment (_g_uhoti) avec sa main (et non avec le Darvî) les deux oblations suivantes de riz ou d'orge : « À Agni Svâhâ ! À Pra<i>g</i>âpati Svâhâ ! »
 
-9\. Certains (enseignants) déclarent que le matin, la <span id="p197">[<sup><small>p. 197</small></sup>]</span> première (de ces oblations) doit être adressée à Sûrya.
+9\. Certains (enseignants) déclarent que le matin, la <span id="p197"><sup><small>[ p. 197 ]</small></sup></span> première (de ces oblations) doit être adressée à Sûrya.
 
 10\. Pendant une période de trois nuits, ils ne doivent pas manger d'aliments salés, doivent dormir sur le sol, porter des ornements et doivent être chastes.
 
@@ -122,7 +122,7 @@ Soleil ! Expiation ! Tu es l'expiation. Moi, le Brâhma<i>n</i>a, je t'en suppli
 
 'Vâyu! Expiation! &c.
 
-« Soleil ! Expiation ! etc. » <span id="p198">[<sup><small>p. 198</small></sup>]</span>
+« Soleil ! Expiation ! etc. » <span id="p198"><sup><small>[ p. 198 ]</small></sup></span>
 
 2\. Après avoir sacrifié (ces oblations), il verse ensuite le reste en oblation sur sa tête, avec (les formules) : « Bhû_h_ ​​! Je sacrifie la fortune sur toi. Svâhâ ! Bhuva_h_ ! Je sacrifie la gloire sur toi. Svâhâ ! Suva_h_ ! Je sacrifie la beauté sur toi. Svâhâ ! Bhûr bhuva_h<i> suva</i>h_ ! Je sacrifie la luminosité sur toi. Svâhâ ! »
 
@@ -134,7 +134,7 @@ Soleil ! Expiation ! Tu es l'expiation. Moi, le Brâhma<i>n</i>a, je t'en suppli
 
 6\. [^629] Il cherche alors sa bouche avec sa bouche, avec (les deux versets), « Chéri ! Voici ! Chéri ! Ceci est du miel ! Le langage de ma langue est du miel ; dans ma bouche habite le miel de l'abeille ; sur mes dents habite la concorde.
 
-« Le (charme magique de) la concorde qui appartient aux oiseaux <i>k</i>akravâka, qui est apporté des <span id="p199">[<sup><small>p. 199</small></sup>]</span> rivières, dont le divin Gandharva est possédé, par là nous sommes concordants. »
+« Le (charme magique de) la concorde qui appartient aux oiseaux <i>k</i>akravâka, qui est apporté des <span id="p199"><sup><small>[ p. 199 ]</small></sup></span> rivières, dont le divin Gandharva est possédé, par là nous sommes concordants. »
 
 7\. [^630] Une femme qui a ses règles mensuelles, observe pendant une période de trois nuits les observances prescrites dans le Brâhma<i>n</i>a.
 
@@ -153,7 +153,7 @@ Soleil ! Expiation ! Tu es l'expiation. Moi, le Brâhma<i>n</i>a, je t'en suppli
 
 (d) [^632] « Comme la terre est enceinte d'Agni, comme le ciel est enceinte d'Indra, comme Vâyu demeure dans le ventre des régions (de la terre), ainsi je place un embryon dans ton ventre.
 
-<span id="p200">[<sup><small>p. 200</small></sup>]</span>
+<span id="p200"><sup><small>[ p. 200 ]</small></sup></span>
 
 (e) « Ouvre ton ventre, prends le sperme ; qu'un enfant mâle, un embryon, naisse dans ton ventre. La mère le porte dix mois ; qu'il naisse, le plus vaillant de sa famille. »
 
@@ -173,7 +173,7 @@ Et (en plus des deux Mantras), « Unis sont nos noms » (ci-dessus, 24, 4), et �
 
 4\. Seulement la première fois et après ses cours mensuels, selon Bâdarâya<i>n</i>a.
 
-<span id="p201">[<sup><small>p. 201</small></sup>]</span>
+<span id="p201"><sup><small>[ p. 201 ]</small></sup></span>
 
 
 
@@ -190,7 +190,7 @@ Et (en plus des deux Mantras), « Unis sont nos noms » (ci-dessus, 24, 4), et �
 
 5\. Ou bien il devrait compter tous les sacrifices (qui ont été laissés de côté) et les offrir.
 
-6\. (Le punarâdhâna ou l'allumage répété du feu s'effectue de la manière suivante) : dans un espace clos, après avoir soulevé (la surface), l'avoir aspergée (d'eau), jonchée de sable et recouverte de branches d'Udumbara ou de Plaksha, il rassemble silencieusement les choses appartenant (au sacrifice) selon qu'il est capable de les obtenir, produit du feu par attrition à partir d'un morceau de bois sacrificiellement pur, ou prend un feu ordinaire, le place dans un grand récipient, l'embrase et y met (du combustible) en disant : « Bhû_h_ ​​! Bhuva_h_ ! Suva_h_ ! Om ! Fixité ! » <span id="p202">[<sup><small>p. 202</small></sup>]</span>
+6\. (Le punarâdhâna ou l'allumage répété du feu s'effectue de la manière suivante) : dans un espace clos, après avoir soulevé (la surface), l'avoir aspergée (d'eau), jonchée de sable et recouverte de branches d'Udumbara ou de Plaksha, il rassemble silencieusement les choses appartenant (au sacrifice) selon qu'il est capable de les obtenir, produit du feu par attrition à partir d'un morceau de bois sacrificiellement pur, ou prend un feu ordinaire, le place dans un grand récipient, l'embrase et y met (du combustible) en disant : « Bhû_h_ ​​! Bhuva_h_ ! Suva_h_ ! Om ! Fixité ! » <span id="p202"><sup><small>[ p. 202 ]</small></sup></span>
 
 7\. Il met ensuite du bois sur le feu, accomplit (les rites) jusqu'aux oblations de Vyâh<i>ri</i>ti, et offre deux 'oblations de l'esprit' (c'est-à-dire des oblations pour compenser les défauts) avec (les deux Mantras), 'Si un défaut (de l'esprit) est apparu en moi', (et), 'Agni m'a rendu mon œil' (Taitt. Sa<i>ri</i>h. III, 2, 5, 4).
 

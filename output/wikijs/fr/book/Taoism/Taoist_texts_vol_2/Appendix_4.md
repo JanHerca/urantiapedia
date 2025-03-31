@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:33:26Z
   </table>
 </figure>
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 ## Zäh Yung King, ou « Classique du Répertoire d'un jour ».
 

@@ -44,7 +44,7 @@ La langue est incapable de rendre compte de ces trois vallées, et la parole est
 
 A propos de ces états, le rossignol du cœur a d'autres mélodies et d'autres mystères qui mettent le cœur en agitation et l'esprit en émoi.
 
-<span id="p72">[<sup><small>p. 72</small></sup>]</span>
+<span id="p72"><sup><small>[ p. 72 ]</small></sup></span>
 
 Mais cette énigme des Significations ne doit être révélée que de cœur à cœur, et confiée de poitrine à poitrine.
 
@@ -56,7 +56,7 @@ Dans le feu, il voit le Visage du Bien-Aimé ; dans l'irréalité, il perçoit l
 
 Il regarde la nouvelle création avec un regard attentif, et comprend les signes subtils avec un cœur pur.
 
-<span id="p73">[<sup><small>p. 73</small></sup>]</span>
+<span id="p73"><sup><small>[ p. 73 ]</small></sup></span>
 
 « En ce jour-là, nous rendrons ta vue discernante » est une preuve de cette parole et est suffisante pour cet exemple.
 

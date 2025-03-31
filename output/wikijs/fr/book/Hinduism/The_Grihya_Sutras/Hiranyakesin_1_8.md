@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p204">[<sup><small>p. 204</small></sup>]</span>
+<span id="p204"><sup><small>[ p. 204 ]</small></sup></span>
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 8, SECTION 27.
 
@@ -40,7 +40,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 2\. Il érige le montant de la porte sud avec (le verset) : « Ici, j'érige une maison solide ; elle se tient en paix, ruisselant de ghee. Ainsi puissions-nous marcher en toi, ô maison, bénie par les héros, par tous les héros, par les héros indemnes ; »
 
-3\. Le montant de la porte nord avec (le vers) : « Tiens-toi ici fermement, ô maison, riche en chevaux et en vaches, riche en délices ; riche en sève, débordante de lait, sois dressée, pour le grand bonheur. » <span id="p205">[<sup><small>p. 205</small></sup>]</span>
+3\. Le montant de la porte nord avec (le vers) : « Tiens-toi ici fermement, ô maison, riche en chevaux et en vaches, riche en délices ; riche en sève, débordante de lait, sois dressée, pour le grand bonheur. » <span id="p205"><sup><small>[ p. 205 ]</small></sup></span>
 
 4\. [4](#fn640) Avec (le verset), 'À toi (peut) aller le jeune enfant, à toi le veau avec son compagnon, à toi la coupe d'or ; à toi peuvent-ils aller avec des pots de lait caillé' — il touche les deux poteaux, après qu'ils ont été érigés.
 
@@ -65,7 +65,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 1\. [^642] Les deux versets commençant par « Vâstoshpati ! » (Taitt. Sa<i>m</i>h. III, 4, 10, 1).
 
-<span id="p206">[<sup><small>p. 206</small></sup>]</span>
+<span id="p206"><sup><small>[ p. 206 ]</small></sup></span>
 
 « Vâstoshpati ! Sois notre soutien ; fais accroître notre richesse en vaches et en chevaux, ô Indu (c'est-à-dire Soma). Que nous puissions demeurer libres de la décadence dans ton amitié ; accorde-nous ta faveur, comme un père pour ses fils. Svâhâ !
 

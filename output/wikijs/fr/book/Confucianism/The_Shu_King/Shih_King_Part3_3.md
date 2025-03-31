@@ -42,7 +42,7 @@ AVERTISSEMENTS, SUPPOSÉS ÊTRE ADRESSÉS AU ROI LÎ, SUR LES QUESTIONS DE LA CO
 
 Cette ode, comme la neuvième de la deuxième décennie, est attribuée au duc Mû de Shâo. La structure de la pièce est particulière : après la première strophe, le roi Wăn est introduit, adressant une série d'avertissements à Kâu-hsin, le dernier roi de la dynastie Shang. Ces avertissements sont mis dans la bouche de Wăn, dans l'espoir que Lî, s'il était bien le monarque visé par l'auteur, se transmette la figure de Kâu-hsin et modifie sa conduite afin d'éviter une ruine similaire.
 
-Combien Dieu est vaste, le souverain des hommes d'en bas ! Combien Dieu est paré de terreurs, avec bien des choses irrégulières dans ses ordonnances ! Le ciel a donné naissance à la multitude des peuples, mais la nature qu'il confère est indéniable. Tous sont (bons) <span id="p411">[<sup><small>p. 411</small></sup>]</span> au début, mais peu se révèlent tels à la fin [^554].
+Combien Dieu est vaste, le souverain des hommes d'en bas ! Combien Dieu est paré de terreurs, avec bien des choses irrégulières dans ses ordonnances ! Le ciel a donné naissance à la multitude des peuples, mais la nature qu'il confère est indéniable. Tous sont (bons) <span id="p411"><sup><small>[ p. 411 ]</small></sup></span> au début, mais peu se révèlent tels à la fin [^554].
 
 Le roi Wăn dit : « Hélas ! Hélas ! toi, souverain des Shang, tu as des ministres si violemment oppressifs, tu as des extorqueurs si avides, tu les as à des postes, tu les as à la conduite des affaires ! Le Ciel les a créés avec leurs dispositions insolentes ; mais c'est toi qui les emploies et qui leur donnes la force. »
 
@@ -59,7 +59,7 @@ Le roi Wăn dit : « Hélas ! Hélas ! toi (souverain de) Yin-shang, ce n'est pa
 Le roi Wăn dit : « Hélas ! Hélas ! toi (souverain de) Shang, les gens ont un dicton : « Lorsqu'un arbre tombe complètement, alors que ses branches et ses feuilles sont encore intactes, il doit d'abord avoir été déraciné. » Le phare de Yin n'est pas très loin ; il se trouve à l'époque du (dernier) souverain de Hsiâ. »
 
 
-<span id="p413">[<sup><small>p. 413</small></sup>]</span>
+<span id="p413"><sup><small>[ p. 413 ]</small></sup></span>
 
 <a id="o2"></a>
 
@@ -71,19 +71,19 @@ La sixième ode de la septième décennie des Odes mineures du Royaume est attri
 
 Une attitude extérieure, prudente et grave, est un signe de vertu. On dit : « Il n'y a pas d'homme sage qui ne soit stupide. » La stupidité de l'homme ordinaire est déterminée par ses défauts. La stupidité du sage vient de sa violence envers son propre caractère.
 
-Ce qui est le plus puissant, c'est d'être l'homme [^557] ; — <span id="p414">[<sup><small>p. 414</small></sup>]</span> Dans tous les quartiers (de l'État), les hommes sont influencés par elle. À une conduite droite et vertueuse, tous, dans les quatre quartiers de l'État, rendent un hommage obéissant. Avec de grands conseils et des ordres déterminés, avec des plans de grande envergure et des annonces opportunes, et avec un soin respectueux de son comportement extérieur, chacun deviendra le modèle du peuple.
+Ce qui est le plus puissant, c'est d'être l'homme [^557] ; — <span id="p414"><sup><small>[ p. 414 ]</small></sup></span> Dans tous les quartiers (de l'État), les hommes sont influencés par elle. À une conduite droite et vertueuse, tous, dans les quatre quartiers de l'État, rendent un hommage obéissant. Avec de grands conseils et des ordres déterminés, avec des plans de grande envergure et des annonces opportunes, et avec un soin respectueux de son comportement extérieur, chacun deviendra le modèle du peuple.
 
 Quant aux circonstances actuelles, vous êtes enclin à l'erreur et à la confusion dans votre gouvernement. Votre vertu est corrompue ; vous êtes enivré par l'alcool [^558]. Bien que vous ne recherchiez ainsi que le plaisir, comment se fait-il que vous ne pensiez pas à votre relation avec le passé, et que vous n'étudiiez pas en profondeur les rois précédents, afin de vous en tenir à leurs sages lois ?
 
 Ceux que le grand Ciel n'approuve pas, comme les eaux qui coulent d'une source, ne sombreront-ils pas tous ensemble dans la ruine ? Levez-vous tôt et couchez-vous tard, Arrosez et balayez votre cour ; afin de servir d'exemple au peuple [^559]. Ayez en bon état vos chars et vos chevaux, vos arcs et vos flèches, et vos autres armes de guerre ; pour être prêts à l'action guerrière, afin de tenir à distance (les hordes du) sud.
 
-Perfectionnez ce qui concerne vos officiers et votre peuple ; <span id="p415">[<sup><small>p. 415</small></sup>]</span> Soyez prudent dans vos devoirs de prince (du royaume). Pour être prêt à affronter des dangers imprévus, soyez prudent dans ce que vous dites ; soyez respectueusement prudent dans votre comportement extérieur ; en toutes choses, soyez doux et correct. Un défaut dans une masse de jade blanc peut être effacé ; mais pour un défaut de langage, rien ne peut être fait.
+Perfectionnez ce qui concerne vos officiers et votre peuple ; <span id="p415"><sup><small>[ p. 415 ]</small></sup></span> Soyez prudent dans vos devoirs de prince (du royaume). Pour être prêt à affronter des dangers imprévus, soyez prudent dans ce que vous dites ; soyez respectueusement prudent dans votre comportement extérieur ; en toutes choses, soyez doux et correct. Un défaut dans une masse de jade blanc peut être effacé ; mais pour un défaut de langage, rien ne peut être fait.
 
 Ne parle pas à la légère ; tes paroles t'appartiennent. Ne dis pas : « Cela n'a aucune importance ; personne ne peut me retenir. » Les paroles ne doivent pas être rejetées. Chaque parole trouve sa réponse ; chaque bonne action a sa récompense. Si tu es bienveillant envers tes amis, et envers le peuple, comme s'il était toi, tes enfants, ta descendance se perpétuera sans interruption, et tout le peuple t'obéira certainement.
 
 Considéré dans vos rapports amicaux avec des hommes supérieurs, votre visage paraît harmonieux et doux ; soucieux de ne rien faire de mal. Considéré dans votre chambre, vous devriez être également exempt de honte devant la lumière qui y brille. Ne dites pas : « Ce lieu n’est pas public ; personne ne peut me voir ici. » Les approches des êtres spirituels ne peuvent être calculées à l’avance ; mais à plus forte raison ne devraient-elles pas être négligées [^561].
 
-<span id="p416">[<sup><small>p. 416</small></sup>]</span>
+<span id="p416"><sup><small>[ p. 416 ]</small></sup></span>
 
 Ô prince, que ta pratique de la vertu soit entièrement bonne et admirable. Soigne bien ta conduite, et ne tolère aucun mal dans ton comportement. Ne commettant aucun excès, ne faisant rien de mal, rares sont ceux qui, dans un tel cas, ne te prendront pas pour modèle. Quand on me jette une pêche, je lui rends une prune [^562]. Chercher des cornes sur un jeune bélier ne fera que t'épuiser, mon fils [^563].
 
@@ -91,7 +91,7 @@ Le bois dur et élastique peut être équipé d'une corde de soie [^564]. L'homm
 
 Oh ! mon fils, quand tu ne savais pas distinguer le bien du mal, non seulement je t'ai guidé par la main, mais j'ai montré la différence entre les deux en faisant appel à des exemples. Non seulement je t'ai instruit face à face, mais je t'ai tenu par l'oreille [^565]. Et peut-être ne le sais-tu toujours pas, bien que tu aies tenu un fils dans tes bras. Si les gens ne sont pas autosuffisants, qui atteint une maturité tardive après une instruction précoce ?
 
-Le Grand Ciel est très intelligent, Et je passe, <span id="p417">[<sup><small>p. 417</small></sup>]</span> ma vie sans plaisir. Quand je te vois si sombre et stupide, Mon cœur est plein de douleur. Je t'ai enseigné avec des répétitions assidues, Et tu m'as écouté avec mépris. Tu ne me considérais pas comme ton professeur, Mais tu me considérais comme gênant. Peut-être l'ignores-tu encore ; — Mais tu es très vieux.
+Le Grand Ciel est très intelligent, Et je passe, <span id="p417"><sup><small>[ p. 417 ]</small></sup></span> ma vie sans plaisir. Quand je te vois si sombre et stupide, Mon cœur est plein de douleur. Je t'ai enseigné avec des répétitions assidues, Et tu m'as écouté avec mépris. Tu ne me considérais pas comme ton professeur, Mais tu me considérais comme gênant. Peut-être l'ignores-tu encore ; — Mais tu es très vieux.
 
 Oh ! mon fils, je t'ai enseigné les anciennes coutumes. Écoute et suis mes conseils : alors tu n'auras plus de regrets. Le Ciel inflige maintenant des calamités et détruit l'État. Mes exemples ne sont pas tirés de choses lointaines : le Grand Ciel ne se trompe pas. Si tu continues à dépérir dans ta vertu, tu plongeras le peuple dans une grande détresse.
 
@@ -103,7 +103,7 @@ L'ÉCRIVAIN DÉPLORE LA MISÈRE ET LE DÉSORDRE DE L'ÉPOQUE, EN VUE DE RÉPRIME
 
 Français Le roi Lî n'est pas nommément mentionné dans la pièce, mais le deuxième vers de la strophe 7 ne peut être expliqué que par lui. Il fut chassé du trône, en conséquence de sa mauvaise gouvernance, en 842 av. J.-C., et ne sauva sa vie qu'en s'enfuyant à <i>K</i>ih, un lieu dans l'actuel Ho <i>K</i>âu, département de Phing-yang, Shan-hsî, où il resta jusqu'à sa mort en 828 av. J.-C. Le gouvernement était entre-temps assuré par les ducs de Shâo et de <i>K</i>âu, dont l'administration, appelée la période de « l'Harmonie Mutuelle », constitue une ère chronologique importante dans l'histoire chinoise. Sur l'autorité d'une référence dans le Ȝo <i>K</i>wan, la pièce est attribuée à un comte de _Z_ui.
 
-Ce jeune mûrier est luxuriant, et sous lui s'étend une vaste ombre ; mais ils arracheront ses feuilles jusqu'à ce qu'il soit entièrement détruit [^566]. La détresse <span id="p418">[<sup><small>p. 418</small></sup>]</span> infligée à ces (multitudes de) gens, est une douleur incessante pour mon cœur ; ma commisération remplit (ma poitrine). Ô toi, Ciel brillant et grand, ne devrais-tu pas avoir compassion de nous ?
+Ce jeune mûrier est luxuriant, et sous lui s'étend une vaste ombre ; mais ils arracheront ses feuilles jusqu'à ce qu'il soit entièrement détruit [^566]. La détresse <span id="p418"><sup><small>[ p. 418 ]</small></sup></span> infligée à ces (multitudes de) gens, est une douleur incessante pour mon cœur ; ma commisération remplit (ma poitrine). Ô toi, Ciel brillant et grand, ne devrais-tu pas avoir compassion de nous ?
 
 Les quatre coursiers galopent, ardents et forts [^567] ; les bannières de la tortue, du serpent et du faucon flottent. Le désordre grandit, et la paix est impossible. Tous les États sont en ruine ; il n'y a pas de têtes noires parmi le peuple [^568]. Tout est réduit en cendres par la calamité. Oh ! hélas ! La ruine du royaume se précipite.
 
@@ -125,7 +125,7 @@ La Voie lactée était éclatante, brillant et tourbillonnant dans le ciel. Le r
 
 La sécheresse est excessive ; ses ferveurs deviennent de plus en plus tourmentantes. Je n'ai cessé d'offrir des sacrifices purs ; des autels frontaliers, je suis allé au temple ancestral [^574]. Aux (Puissances) d'en haut et d'en bas, j'ai présenté mes offrandes, puis je les ai enterrées [^575] ; il n'est pas d'esprit que je n'aie honoré. Hâu-_k_î n'est pas à la hauteur de la situation ; Dieu ne vient pas à nous. Ce dévastation et cette ruine de notre pays, — si seulement cela ne tombait que sur moi !
 
-La sécheresse est excessive, et je ne peux pas chercher à m'excuser. Je suis rempli de terreur et je ressens le péril, comme un coup de tonnerre ou un roulement. Du reste de Kâu, parmi le peuple aux cheveux noirs, il ne restera pas la moitié d'un homme ; et Dieu ne m'exemptera pas de son grand ciel. Ne devrions-nous pas <span id="p421">[<sup><small>p. 421</small></sup>]</span> mélanger nos peurs ? (Les sacrifices à) mes ancêtres seront éteints [^576].
+La sécheresse est excessive, et je ne peux pas chercher à m'excuser. Je suis rempli de terreur et je ressens le péril, comme un coup de tonnerre ou un roulement. Du reste de Kâu, parmi le peuple aux cheveux noirs, il ne restera pas la moitié d'un homme ; et Dieu ne m'exemptera pas de son grand ciel. Ne devrions-nous pas <span id="p421"><sup><small>[ p. 421 ]</small></sup></span> mélanger nos peurs ? (Les sacrifices à) mes ancêtres seront éteints [^576].
 
 La sécheresse est excessive, et elle ne peut être arrêtée. Plus féroce et ardente, elle ne me laisse plus de place. Ma fin est proche ; je n'ai personne vers qui lever les yeux, personne vers qui me tourner. Les nombreux ducs et leurs ministres du passé [^577] ne m'apportent aucun secours. Ô vous, parents et ancêtres (plus proches) [^578], comment pouvez-vous supporter de me voir ainsi ?
 
@@ -145,13 +145,13 @@ CÉLÉBRANT LA NOMINATION PAR LE ROI HSÜAN D'UN PARENT POUR ÊTRE MARQUIS DE SH
 
 Il est suffisamment établi que le roi qui apparaît dans cette pièce était le roi Hsüan. Il y apparaît en train de charger « son grand-oncle », frère aîné, c'est-à-dire de sa mère, d'aller régner, comme marquis de Shăn et chef ou président des États du sud du royaume, pour défendre les frontières contre les hordes envahissantes venues du sud, menées par les princes de Khû, dont les seigneurs s'étaient rebellés contre les États du centre dès l'époque de la dynastie Shang ; voir la dernière des Odes sacrificielles de Shang.
 
-Les montagnes sont majestueusement hautes, avec leurs masses imposantes atteignant les cieux. De ces montagnes fut envoyé un esprit, qui produisit la naissance (des princes de) Fû et Shăn [^584]. Fû et <span id="p424">[<sup><small>p. 424</small></sup>]</span> Shăn Sont le soutien de <i>K</i>âu, Écrans pour tous les états, Diffusant (leur influence) sur les quatre points du royaume.
+Les montagnes sont majestueusement hautes, avec leurs masses imposantes atteignant les cieux. De ces montagnes fut envoyé un esprit, qui produisit la naissance (des princes de) Fû et Shăn [^584]. Fû et <span id="p424"><sup><small>[ p. 424 ]</small></sup></span> Shăn Sont le soutien de <i>K</i>âu, Écrans pour tous les états, Diffusant (leur influence) sur les quatre points du royaume.
 
 Le chef de Shăn est plein d'activité, et le roi veut l'employer pour continuer les services (de ses pères), avec sa capitale à Hsieh [^585], où il devrait être un modèle pour les États du Sud. Le roi chargea le comte de Shâo, de tout organiser autour de la résidence du chef de Shăn, où il pourrait faire ce qui était nécessaire pour les régions du Sud, et où sa postérité pourrait maintenir son mérite.
 
 Français Des services du chef de Shăn Les fondations furent posées par le comte de Shâo, Qui construisit d'abord les murs (de sa ville), Et ensuite acheva son temple ancestral [^586]. Quand le temple fut achevé, large et grandiose, Le roi conféra au chef de Shâo Quatre nobles destriers, Avec les crochets pour les harnais des pectoraux, étincelants de mille feux [^587].
 
-<span id="p425">[<sup><small>p. 425</small></sup>]</span>
+<span id="p425"><sup><small>[ p. 425 ]</small></sup></span>
 
 <a id="o6"></a>
 
@@ -161,7 +161,7 @@ CÉLÉBRANT LES VERTUS DE <i>K</i>UNG SHAN-FÛ, QUI SEMBLE AVOIR ÉTÉ L'UN DES 
 
 Le Ciel, en donnant naissance à la multitude du peuple, a annexé sa loi à chaque faculté et relation. Le peuple possède cette nature normale, et il (par conséquent) aime sa vertu normale [^588]. Le Ciel a vu le souverain de <i>K</i>âu, l'influencer brillamment par sa conduite ici-bas, et pour le maintenir, son Fils a donné naissance à <i>K</i>ung Shan-fû [^589].
 
-Le roi Shan-fû partit, après avoir sacrifié à l'esprit de la route [^590]. Ses quatre coursiers étaient forts ; <span id="p426">[<sup><small>p. 426</small></sup>]</span> Ses hommes étaient vigilants, Il était toujours inquiet de ne pas être à la hauteur de sa mission ; Ses coursiers continuaient sans s'arrêter, Au son de leurs huit cloches. Le roi avait chargé le roi Shan-fû De fortifier la ville à l'est.
+Le roi Shan-fû partit, après avoir sacrifié à l'esprit de la route [^590]. Ses quatre coursiers étaient forts ; <span id="p426"><sup><small>[ p. 426 ]</small></sup></span> Ses hommes étaient vigilants, Il était toujours inquiet de ne pas être à la hauteur de sa mission ; Ses coursiers continuaient sans s'arrêter, Au son de leurs huit cloches. Le roi avait chargé le roi Shan-fû De fortifier la ville à l'est.
 
 <a id="o7"></a>
 
@@ -176,7 +176,7 @@ Très majestueuse est la montagne de Liang, rendue cultivable par Yü. Lumineuse
 Lorsque le marquis de Han quitta la cour, il sacrifia à l'esprit de la route. Il sortit et passa la nuit à Tû.
 
 
-<span id="p427">[<sup><small>p. 427</small></sup>]</span>
+<span id="p427"><sup><small>[ p. 427 ]</small></sup></span>
 
 <a id="o8"></a>
 
@@ -188,7 +188,7 @@ Hû était probablement le même comte de Shâo, mentionné dans l'ode 5, comme 
 
 Le roi donna des instructions à Hû de Shâo : « Tu as partout fait connaître (et exécuté mes ordres). Lorsque (les rois) Wăn et Wû reçurent leur nomination, le duc de Shâo fut leur solide soutien. Non seulement tu as de l'estime pour moi, le petit enfant, mais tu t'efforces de ressembler à ce duc de Shâo. Tu as commencé et sérieusement démontré ton mérite ; et je te rendrai heureux. »
 
-« Je te donne une grande coupe de jade [^591], et un pot d'alcool de millet noir aromatisé aux herbes [^592]. J'ai fait une annonce à l'Accompli [^593], et je te confère des collines, des terres et des champs. En (<i>Kh</i>î-)_k_âu tu recevras l'investiture, comme ton ancêtre a reçu la sienne. » Hû s'inclina, <span id="p428">[<sup><small>p. 428</small></sup>]</span> tête contre terre (et dit) : « Que le Fils du Ciel vive éternellement ! »
+« Je te donne une grande coupe de jade [^591], et un pot d'alcool de millet noir aromatisé aux herbes [^592]. J'ai fait une annonce à l'Accompli [^593], et je te confère des collines, des terres et des champs. En (<i>Kh</i>î-)_k_âu tu recevras l'investiture, comme ton ancêtre a reçu la sienne. » Hû s'inclina, <span id="p428"><sup><small>[ p. 428 ]</small></sup></span> tête contre terre (et dit) : « Que le Fils du Ciel vive éternellement ! »
 
 <a id="o10"></a>
 

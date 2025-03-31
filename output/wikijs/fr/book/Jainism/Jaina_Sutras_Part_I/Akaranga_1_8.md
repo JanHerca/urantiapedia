@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p79">[<sup><small>p. 79</small></sup>]</span>
+<span id="p79"><sup><small>[ p. 79 ]</small></sup></span>
 
 HUITIÈME CONFÉRENCE, (APPELÉE) L'OREILLER DE LA JUSTICE.
 
@@ -78,7 +78,7 @@ Il ne portait pas la robe d'autrui, et ne mangeait pas dans le récipient d'autr
 
 Connaissant la mesure dans le manger et le boire, il n'était ni avide de mets délicieux, ni en éprouvait le moindre désir. Un sage ne devrait ni se frotter les yeux ni se gratter le corps. (19)
 
-<span id="p82">[<sup><small>p. 82</small></sup>]</span>
+<span id="p82"><sup><small>[ p. 82 ]</small></sup></span>
 
 Regardant un peu de côté, regardant un peu en arrière, répondant peu quand on lui parle, il doit marcher en regardant attentivement son chemin. (20)
 
@@ -121,7 +121,7 @@ Lorsqu'un vent froid souffle, dans lequel certains ressentent de la douleur, alo
 
 (Certains moines hérétiques disent) : « Nous mettrons plus de vêtements ; du bois d'allumage ou (bien) couverts, nous pourrons (supporter) l'influence très douloureuse du froid. » (14)
 
-Mais le Vénérable ne désirait rien de tel ; <span id="p84">[<sup><small>p. 84</small></sup>]</span>, fort de son sang-froid, il souffrait, méprisant tout abri. Sortant une fois par nuit, le Vénérable pouvait (endurer toutes les épreuves) en toute sérénité. (15)
+Mais le Vénérable ne désirait rien de tel ; <span id="p84"><sup><small>[ p. 84 ]</small></sup></span>, fort de son sang-froid, il souffrait, méprisant tout abri. Sortant une fois par nuit, le Vénérable pouvait (endurer toutes les épreuves) en toute sérénité. (15)
 
 C'est la règle qui a souvent été suivie par le sage Brâhmane, le Vénérable, qui est libre de tout attachement : ainsi procèdent (les moines).
 
@@ -144,7 +144,7 @@ Tels étaient les habitants. De nombreux autres mendiants, mangeant une nourritu
 
 Même ainsi armés, ils furent mordus et déchirés par les chiens. Il est difficile de voyager à Lâdhâ. (6)
 
-<span id="p85">[<sup><small>p. 85</small></sup>]</span>
+<span id="p85"><sup><small>[ p. 85 ]</small></sup></span>
 
 Cessant d'utiliser le bâton (c'est-à-dire la cruauté) contre les êtres vivants, abandonnant le soin du corps, le sans-abri (Mahâvîra), le Vénérable, endure les épines des villages (c'est-à-dire le langage injurieux des paysans), (étant) parfaitement éclairé. (7)
 
@@ -167,7 +167,7 @@ C'est la règle qui a souvent été suivie, etc.
 
 ## QUATRIÈME LEÇON.
 
-Le Vénérable pouvait s'abstenir de toute indulgence charnelle [^313], bien que jamais atteint de <span id="p86">[<sup><small>p. 86</small></sup>]</span> maladie. Blessé ou non, il ne désirait aucun traitement médical. (1)
+Le Vénérable pouvait s'abstenir de toute indulgence charnelle [^313], bien que jamais atteint de <span id="p86"><sup><small>[ p. 86 ]</small></sup></span> maladie. Blessé ou non, il ne désirait aucun traitement médical. (1)
 
 Les purgatifs et les émétiques, l'onction du corps et le bain, le shampoing et le nettoyage des dents ne lui conviennent pas, après qu'il a appris (que le corps est quelque chose d'impur). (2)
 
@@ -187,7 +187,7 @@ Entré dans un village ou une ville, il mendiait de la nourriture préparée pou
 
 Quand il y avait des corbeaux affamés ou des êtres assoiffés sur son chemin, là où il mendiait, ou quand il les voyait voler à plusieurs reprises, (10)
 
-<span id="p87">[<sup><small>p. 87</small></sup>]</span>
+<span id="p87"><sup><small>[ p. 87 ]</small></sup></span>
 
 Lorsqu'un Brâhma<i>n</i>a ou un <i>S</i>rama<i>n</i>a, un mendiant ou un invité, un <i>K</i>â<i>n</i><i>d</i>âla [^316], un chat ou un chien se dressait sur son chemin, (11)
 

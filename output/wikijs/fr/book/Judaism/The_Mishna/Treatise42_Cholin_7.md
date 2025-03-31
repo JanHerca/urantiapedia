@@ -42,7 +42,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 4. Si une hanche a été bouillie avec le ‏גיד הנשה‎ à l'intérieur, si ce tendon était suffisamment gros pour donner du goût à la hanche, ce dernier ne peut être utilisé. Comment calculer cela ? Dans la même proportion que pour de la viande bouillie avec des navets. [^1237]
 
-<span id="p344">[<sup><small>p. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 § 5. Lorsque le Guid Anashé a été bouilli avec d'autres tendons, si ce tendon est reconnaissable, il doit être retiré, et les autres tendons sont interdits s'il pouvait leur donner une saveur. [^1238] Mais s'il ne peut être reconnu, tous les tendons sont interdits. Le bouillon [ou le liquide dans lequel il est bouilli] ne peut être utilisé si le Guid Anashé lui a donné une saveur ; [^1239] et il en est de même si un morceau de Nebelah, ou d'un poisson interdit à la consommation, a été bouilli avec d'autres morceaux de viande ou de poisson autorisés à la consommation : si les premiers morceaux mentionnés sont reconnaissables, ils doivent être retirés, et s'ils pouvaient donner une saveur aux autres morceaux, ces derniers ne peuvent être utilisés. S'ils ne peuvent être reconnus, tous les morceaux sont interdits ; et il en est de même pour le bouillon, qui ne peut être utilisé si la saveur des morceaux interdits lui a été donnée.
 

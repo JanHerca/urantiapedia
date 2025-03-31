@@ -29,7 +29,7 @@ dateCreated: 2025-2-6T11:22:14Z
   </table>
 </figure>
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 
 Ce n'était pas la saison des arbres en fleurs, pourtant les deux arbres qui abritaient le Maître étaient couverts de fleurs. Les fleurs tombaient doucement sur son lit, et du ciel, de douces mélodies descendaient lentement.

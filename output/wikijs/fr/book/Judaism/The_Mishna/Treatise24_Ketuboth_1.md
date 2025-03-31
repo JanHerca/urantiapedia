@@ -36,7 +36,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 1. Une vierge est fiancée le quatrième jour de la semaine, une veuve le cinquième ; car dans les villes le Bethdin siège deux fois par semaine, le deuxième et le cinquième jour, de sorte que si l'époux devait se plaindre de sa non-virginité, il se présenterait de bon matin devant le Bethdin.
 
-§ 2. \[Si la personne fiancée est\] vierge, sa Ketouba est de deux <span id="p242">[<sup><small>p. 242</small></sup>]</span> cents dinars ; \[si\] elle est veuve, \[c'est\] un maneh. [^779] Une vierge \[qui est\] veuve, ou divorcée, ou qui a accompli la halitza, après les fiançailles \[seulement, la cérémonie du mariage n'ayant pas été accomplie, ou le mariage consommé, dans tous ces cas\] sa Ketouba est de deux cents dinars, et elle est passible de l'accusation de non-virginité. [^780] Un prosélyte, un captif et une esclave, qui ont été rachetés, convertis ou affranchis à moins de trois ans et un jour, ont leur Ketouba de deux cents dinars et sont passibles de l'accusation de non-virginité.
+§ 2. \[Si la personne fiancée est\] vierge, sa Ketouba est de deux <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> cents dinars ; \[si\] elle est veuve, \[c'est\] un maneh. [^779] Une vierge \[qui est\] veuve, ou divorcée, ou qui a accompli la halitza, après les fiançailles \[seulement, la cérémonie du mariage n'ayant pas été accomplie, ou le mariage consommé, dans tous ces cas\] sa Ketouba est de deux cents dinars, et elle est passible de l'accusation de non-virginité. [^780] Un prosélyte, un captif et une esclave, qui ont été rachetés, convertis ou affranchis à moins de trois ans et un jour, ont leur Ketouba de deux cents dinars et sont passibles de l'accusation de non-virginité.
 
 § 3. Un mineur [^781] avec qui un adulte a eu des rapports charnels, une jeune fille nubile ayant eu de tels rapports avec un mineur [^782] et une vierge fracturée accidentellement [^783], leur Ketouba est de deux cents dinars. Tel est le dicton de Rabbi Meir : mais les sages soutiennent que, dans le cas d'une vierge fracturée accidentellement, sa Ketouba n'est qu'un maneh.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-2-6T12:58:24Z
 
 § 9. Si elle est enceinte, et qu'on lui demande : « De qui ? » elle répond : « De NN., qui est prêtre », R. Gamaliel et R. Eleazar disent : « Il faut la croire » ; [^789] mais R. Joshua dit : « Ce n'est pas par son affirmation que nous devons nous guider : elle est présumée enceinte d'un néthin ou d'un bâtard, à moins qu'elle n'apporte une preuve pour étayer son affirmation. »
 
-§ 10. R. José a dit : « Il arriva une fois qu'une jeune fille descendit <span id="p244">[<sup><small>p. 244</small></sup>]</span> pour puiser de l'eau à la fontaine, et elle fut violée \[par un inconnu\]. » R. Jochanan ben Nouri a décidé : « Que si la majorité des habitants de la ville étaient \[de pure lignée et\] qualifiés pour se marier avec la race sacerdotale, cette jeune fille pourrait être fiancée par un prêtre. »
+§ 10. R. José a dit : « Il arriva une fois qu'une jeune fille descendit <span id="p244"><sup><small>[ p. 244 ]</small></sup></span> pour puiser de l'eau à la fontaine, et elle fut violée \[par un inconnu\]. » R. Jochanan ben Nouri a décidé : « Que si la majorité des habitants de la ville étaient \[de pure lignée et\] qualifiés pour se marier avec la race sacerdotale, cette jeune fille pourrait être fiancée par un prêtre. »
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,7 +32,7 @@ dateCreated: 2025-2-7T10:45:5Z
   </table>
 </figure>
 
-<span id="p74">[<sup><small>p. 74</small></sup>]</span>
+<span id="p74"><sup><small>[ p. 74 ]</small></sup></span>
 
 1\. Les Sages ont énoncé une règle importante : « Lors de l’année sabbatique, tout ce qui est mangé par l’homme et par les bêtes, ainsi que les teintures et tout ce qui ne peut rester dans le sol, sont soumis aux lois de l’année sabbatique, et leur valeur est soumise aux lois de l’année sabbatique. Ils doivent être déclarés propriété privée, et leur prix doit être déclaré propriété privée. » [^65] « Et lesquels sont-ils ? » « Les feuilles de l’oignon vert trompeur, et les feuilles de menthe, de sucorée, de cresson, de poireau et de lactaire. » [^66] « Et que mangent les bêtes ? » « Épines, chardons, et une sorte de teinture, pousses d'indigo et de garance. Les lois de l'année sabbatique s'appliquent à eux, et à leur prix. Ils doivent être déclarés propriété privée, et leur prix doit être déclaré propriété privée. »
 
@@ -46,7 +46,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 5\. « Les sarments de vigne et de caroube ? » « Les lois de l'année sabbatique s'appliquent à eux, et leurs prix, à leurs prix. » Ils doivent être déclarés propriété privée, et leurs prix doivent être déclarés propriété privée. « Les sarments de chêne, les noyers, [^68] et les mûres ? » « Les lois de l'année sabbatique s'appliquent à eux, et leurs prix, à leurs prix. » Ils ne doivent pas être déclarés propriété privée, et leurs prix ne doivent pas être déclarés propriété privée. Mais leurs feuilles doivent être enlevées pour devenir propriété publique, lorsqu'elles tombent de leurs tiges. [^69]
 
-6\. « La rose, l'œillet, le baume et le châtaignier ? » « À eux s'appliquent les lois de l'année sabbatique, <span id="p76">[<sup><small>p. 76</small></sup>]</span> et à leurs prix s'appliquent les lois de l'année sabbatique. » R. Simon a dit : « Il n'y a pas d'année sabbatique pour le baume, car il ne porte pas de fruit. »
+6\. « La rose, l'œillet, le baume et le châtaignier ? » « À eux s'appliquent les lois de l'année sabbatique, <span id="p76"><sup><small>[ p. 76 ]</small></sup></span> et à leurs prix s'appliquent les lois de l'année sabbatique. » R. Simon a dit : « Il n'y a pas d'année sabbatique pour le baume, car il ne porte pas de fruit. »
 
 7\. « Une nouvelle rose sabbatique, macérée dans une huile ancienne ? » « On peut la cueillir. » « Mais une vieille rose dans une huile nouvelle ? » « On est tenu de la soustraire à sa propriété privée. » « Des fruits de caroube nouveaux, macérés dans du vin ancien, et des fruits anciens dans du vin nouveau ? » « On est tenu de les soustraire à sa propriété privée. » Voici la règle : tout ce qui produit du goût, aussi petit soit-il, est tenu de le soustraire à sa propriété privée, aussi petit soit-il. Les lois de l'année sabbatique interdisent, même en petite quantité, ce qui produit du goût, même dans les différentes espèces. [^70]
 

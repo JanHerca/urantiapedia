@@ -32,7 +32,7 @@ dateCreated: 2024-11-23T20:4:56Z
   </table>
 </figure>
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 CHAPITRE XV., Verset 29. — Et lorsque ton Seigneur dit aux anges : « En vérité, Je crée un mortel à partir d'une argile craquelée, d'une boue noire façonnée ;
 
@@ -48,7 +48,7 @@ Il dit : « Sors donc de là, et certes tu seras frappé ! (35) Et certes la mal
 
 Il dit : « Ô mon Seigneur, accorde-moi un délai jusqu'au jour où ils seront ressuscités. » Il dit : « Alors, en vérité, tu es du nombre de ceux qui bénéficient d'un délai jusqu'au jour du terme fixé. »
 
-Il dit : « Ô mon Seigneur, parce que Tu m'as séduit, je leur ferai certainement en sorte que cela leur convienne sur terre, et je les <span id="p54">[<sup><small>p. 54</small></sup>]</span> séduirai tous, certes, à l'exception de ceux d'entre eux qui sont sincères. » Il dit : « C'est là une voie droite contre Moi. En vérité, tu n'as aucun pouvoir sur Mes serviteurs, sauf sur ceux qui te suivent parmi les séduits. Et, en vérité, l'Enfer leur est promis à tous. »
+Il dit : « Ô mon Seigneur, parce que Tu m'as séduit, je leur ferai certainement en sorte que cela leur convienne sur terre, et je les <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> séduirai tous, certes, à l'exception de ceux d'entre eux qui sont sincères. » Il dit : « C'est là une voie droite contre Moi. En vérité, tu n'as aucun pouvoir sur Mes serviteurs, sauf sur ceux qui te suivent parmi les séduits. Et, en vérité, l'Enfer leur est promis à tous. »
 
 <figure class="table chapter-navigator">
   <table>

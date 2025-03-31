@@ -62,7 +62,7 @@ Dont les flancs sont brillants du minerai le plus riche.
 élevant sa tête glorieuse vers le haut
 Des bosquets fleuris qui l'entourent.
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 Cherchez bien ses forêts où la brise
 Des souffles parfumés s'échappent des santals.
@@ -150,7 +150,7 @@ Vous verrez une noble montagne,
 Nommé Rishabh, comme un puissant taureau,
 Avec des pierres précieuses rendues brillantes et belles.
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 Tous les arbres de santal y fleurissent
 D'un parfum céleste, riche et rare.
@@ -244,7 +244,7 @@ L'art a été créé par Vísvakarmá [^724].
 Lorsque Panchajan [^725] le démon fut tué.
 Et Hayagríva, [^726] féroce en vain,
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 De là, prenant coquillages et disques, nous sommes allés
 Seigneur Vishnu, Dieu prééminent.
@@ -322,7 +322,7 @@ Dans les bois de Lodh et de Deodár. [^736]
 Recherche avec la fille de Janak, examinée
 En abritant des rochers, là se trouve le démon
 
-<span id="p378">[<sup><small>p. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 Les terres sacrées de Soma
 Visité par les dieux et les ménestrels.
@@ -407,7 +407,7 @@ Ne tentez pas le rivage sans soleil et sans limites.
 Mais il a donné des conseils spéciaux
 À Hanuman, sage et courageux :
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 À celui sur qui son âme comptait,
 Avec des paroles amicales, le monarque s'écria :
@@ -523,7 +523,7 @@ Toujours dans ma peur, je ne trouvais pas de repos :
 J'ai cherché les régions de l'ouest,
 Et regarda Asta, [^748] où le soleil
 
-<span id="p380">[<sup><small>p. 380</small></sup>]</span>
+<span id="p380"><sup><small>[ p. 380 ]</small></sup></span>
 
 Il coule quand il court son parcours quotidien
 Puis de cette colline la plus noble je me suis enfui
@@ -636,7 +636,7 @@ Qui a maudit la forêt dans sa rage,
 Condamné à partir de cette heure à n'abriter personne,
 Un désert que les oiseaux et les bêtes doivent éviter.
 
-<span id="p381">[<sup><small>p. 381</small></sup>]</span>
+<span id="p381"><sup><small>[ p. 381 ]</small></sup></span>
 
 Ils ont fouillé à chaque lisière de la forêt,
 Ils ont fouillé chaque grotte et chaque rebord de montagne,
@@ -751,7 +751,7 @@ Vaste était la caverne sombre et redoutable,
 Là où pas un rayon de lumière n'était projeté ;
 Mais leur vue ne faiblit pas davantage,
 
-<span id="p382">[<sup><small>p. 382</small></sup>]</span>
+<span id="p382"><sup><small>[ p. 382 ]</small></sup></span>
 
 Leur courage s’est effondré ou leur valeur a faibli.
 À travers l'obscurité, les Vánarssed

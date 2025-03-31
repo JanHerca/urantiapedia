@@ -48,7 +48,7 @@ Il faut savoir que ceux qui acceptent des choses spécialement préparées pour 
 
 De ces alternatives, etc. (9)
 
-Il ne faut pas soutenir l'identité des corps audârika [^1187], âhârika et kârma<i>n</i>a, ni <span id="p407">[<sup><small>p. 407</small></sup>]</span> que tout ne peut pas partout venir à l'existence [^1188], ni que cela le peut. (10)
+Il ne faut pas soutenir l'identité des corps audârika [^1187], âhârika et kârma<i>n</i>a, ni <span id="p407"><sup><small>[ p. 407 ]</small></sup></span> que tout ne peut pas partout venir à l'existence [^1188], ni que cela le peut. (10)
 
 De ces alternatives, etc. (11)
 
@@ -68,7 +68,7 @@ Ne prétendez pas que l’expérience de l’effet et l’annihilation du Karman
 
 Ne prétendez pas que l’activité et la non-activité n’existent pas, mais qu’elles existent. (19)
 
-<span id="p408">[<sup><small>p. 408</small></sup>]</span>
+<span id="p408"><sup><small>[ p. 408 ]</small></sup></span>
 
 Ne prétendez pas que la colère et l’orgueil n’existent pas, mais qu’ils existent. (20)
 
@@ -94,7 +94,7 @@ La théorie selon laquelle un homme est toujours bon ou toujours mauvais ne fonc
 
 N'affirmez pas que ces hommes sont des moines bien élevés qui mènent une vie pure, et que les autres mènent une vie impure. (31)
 
-<span id="p409">[<sup><small>p. 409</small></sup>]</span>
+<span id="p409"><sup><small>[ p. 409 ]</small></sup></span>
 
 Un moine sage ne devrait pas dire : nous recevons des aumônes (de ce chef de famille) ou nous n'en recevons pas ; mais il devrait améliorer ses chances de libération finale [^1192]. (32)
 

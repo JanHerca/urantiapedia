@@ -36,7 +36,7 @@ dateCreated: 2025-3-16T22:11:40Z
 
 Le Haoma-ya<i>s</i>t a des prétentions à l'antiquité (en raison de son sujet, mais pas de son dialecte), juste après le Srô<i>s</i>\-ya<i>s</i>t. H(a)oma = Soma, en tant que divinité, a prospéré non seulement avant les Gâthas, mais avant les <i>Ri</i>ks</i> du Veda, dans les âges aryens avant que l'Iranien et l'Indien ne deviennent deux peuples.
 
-On a noté ailleurs la circonstance étonnante qu'un hymne, qui est une reproduction d'un original aryen, devrait, malgré ses caractéristiques antérieures, être nécessairement assigné à <span id="p231">[<sup><small>p. 231</small></sup>]</span> une date bien postérieure à celle des Gâthas dans lesquels le culte de H(a)oma n'est pas mentionné.
+On a noté ailleurs la circonstance étonnante qu'un hymne, qui est une reproduction d'un original aryen, devrait, malgré ses caractéristiques antérieures, être nécessairement assigné à <span id="p231"><sup><small>[ p. 231 ]</small></sup></span> une date bien postérieure à celle des Gâthas dans lesquels le culte de H(a)oma n'est pas mentionné.
 
 Probablement en raison des animosités amères qui régnaient entre leurs voisins du sud et eux-mêmes, et de l'usage du Soma par les Indiens comme stimulant avant les batailles, les Iraniens de la période gâtique étaient devenus tièdes dans leur propre culte du H(a)oma. Mais qu'il ait refait surface, comme nous le voyons dans ce Yaṭ ... Le Ya<i>s</i>t est, bien sûr, constitué de fragments, que je me suis efforcé de séparer par des lignes. Dans la traduction, j'ai donné une interprétation rythmique, nécessairement assez libre. Il était difficile d'apporter suffisamment de vivacité au morceau, tout en utilisant une littéralité inutilement maladroite. Cette liberté, comme ailleurs, consiste souvent à ajouter des mots pour souligner le sens ou contourner le rythme. (Les expressions pour des mots Zend identiques ont été, ici comme ailleurs, volontairement variées.)
 
@@ -44,7 +44,7 @@ Probablement en raison des animosités amères qui régnaient entre leurs voisin
 
 Et Zarathoustra lui demanda : Qui es-tu, ô homme ! Qui es-tu de tout le monde incarné le plus beau dans ton propre corps [^952] de ceux que j'ai vus, (toi) glorieux \[immortel\] ?
 
-2\. Là-dessus, H(a)oma répondit [^953], le saint qui chasse la mort au loin : Je suis, ô Zarathu<i>s</i>tra <span id="p232">[<sup><small>p. 232</small></sup>]</span> H(a)oma, le saint qui chasse la mort au loin ; prie-moi, ô Spitâma, prépare-moi à la saveur. Loue-moi dans (Tes) louanges comme les autres louanges \[Saoshya<i>n</i>ts\].
+2\. Là-dessus, H(a)oma répondit [^953], le saint qui chasse la mort au loin : Je suis, ô Zarathu<i>s</i>tra <span id="p232"><sup><small>[ p. 232 ]</small></sup></span> H(a)oma, le saint qui chasse la mort au loin ; prie-moi, ô Spitâma, prépare-moi à la saveur. Loue-moi dans (Tes) louanges comme les autres louanges \[Saoshya<i>n</i>ts\].
 
 3\. Alors Zarathoustra parla : À H(a)oma soit la louange [^954]. Quel homme, OH(a)oma ! t’a le premier préparé au monde corporel ? Quelle bénédiction lui fut offerte ? Quel gain en tira-t-il ?
 
@@ -64,7 +64,7 @@ Et Zarathoustra lui demanda : Qui es-tu, ô homme ! Qui es-tu de tout le monde i
 
 11\. Celui qui frappa le dragon cornu avalant hommes et chevaux, venimeux et de couleur verte, sur lequel, épais comme des pouces, un poison verdâtre coulait, sur le dos duquel Keresâspa cuisait autrefois sa viande dans un chaudron de fer au repas de midi ; et le mortel, brûlé, se redressa [^967], et s'élança, projetant l'eau bouillante. Keresâspa, effrayé et viril, s'enfuit tête baissée [^968].
 
-12\. Quel est le quatrième homme qui t'a préparé, <span id="p235">[<sup><small>p. 235</small></sup>]</span> OH(a)oma ! pour le monde corporel ? Quelle bénédiction lui a-t-il été donnée ? Quel gain a-t-il acquis ?
+12\. Quel est le quatrième homme qui t'a préparé, <span id="p235"><sup><small>[ p. 235 ]</small></sup></span> OH(a)oma ! pour le monde corporel ? Quelle bénédiction lui a-t-il été donnée ? Quel gain a-t-il acquis ?
 
 13\. Là-dessus, H(a)oma, le saint, celui qui chasse la mort, répondit : Pourushaspa [^970] fut le quatrième homme qui me prépara au monde corporel. Cette bénédiction lui fut accordée, ce gain il l’acquit, que toi, ô Zarathustra ! tu lui fus né, toi le juste, dans la maison de Pourushaspa, l’ennemi du D(a)êva, l’ami du savoir de Mazda, (14) célèbre dans Airyêna Vaê<i>g</i>ah ; et toi, ô Zarathustra, j’ai récité le premier l’Ahuna-vairya [^971], en le psalmodiant quatre fois, et en séparant les versets, \[(Pâzand) à chaque fois d’une voix de plus en plus forte\].
 
@@ -74,7 +74,7 @@ Et Zarathoustra lui demanda : Qui es-tu, ô homme ! Qui es-tu de tout le monde i
 
 ---
 
-17\. Je fais appel à toi, ô jaune ! pour <span id="p236">[<sup><small>p. 236</small></sup>]</span> l'inspiration [^975]. Je fais appel à toi pour la force ; je fais appel à toi pour la victoire ; je fais appel à toi pour la santé et la guérison (quand la guérison est mon besoin) ; je fais appel à toi pour le progrès et la prospérité accrue, et la vigueur de tout le corps, et pour la compréhension [^976], de chaque sorte d'ornement, et pour cela, afin que je puisse avoir libre cours parmi nos colonies, ayant le pouvoir où je veux, vainquant la malice colérique et un vainqueur du mensonge.
+17\. Je fais appel à toi, ô jaune ! pour <span id="p236"><sup><small>[ p. 236 ]</small></sup></span> l'inspiration [^975]. Je fais appel à toi pour la force ; je fais appel à toi pour la victoire ; je fais appel à toi pour la santé et la guérison (quand la guérison est mon besoin) ; je fais appel à toi pour le progrès et la prospérité accrue, et la vigueur de tout le corps, et pour la compréhension [^976], de chaque sorte d'ornement, et pour cela, afin que je puisse avoir libre cours parmi nos colonies, ayant le pouvoir où je veux, vainquant la malice colérique et un vainqueur du mensonge.
 
 18\. Oui, je fais valoir mes droits sur toi afin de pouvoir submerger la haine furieuse des haineux, des D(a)êvas et des mortels, des sorciers et des sirènes [^977], des tyrans [^978] et des Kavis, des Karpans, bipèdes meurtriers, des destructeurs de sainteté, des bipèdes profanes apostats, des loups monstres à quatre pattes, de l'armée envahissante, au front large, qui avec des stratagèmes [^979] avance.
 
@@ -84,7 +84,7 @@ Et Zarathoustra lui demanda : Qui es-tu, ô homme ! Qui es-tu de tout le monde i
 
 Cette seconde bénédiction, je t'en prie, OH(a)oma, toi qui chasses la mort au loin ! la santé de ce corps (avant que cette vie bénie ne soit atteinte).
 
-Cette troisième bénédiction, je t'en supplie, OH(a)oma, toi qui chasses la mort au loin ! la longue vitalité de la vie. <span id="p237">[<sup><small>p. 237</small></sup>]</span> 20\. Cette quatrième bénédiction, je t'en supplie, OH(a)oma, toi qui chasses la mort au loin ! afin que je puisse me tenir debout sur cette terre avec des désirs satisfaits [^981] et puissants, recevant satisfaction, surmontant les assauts de la haine et conquérant le mensonge.
+Cette troisième bénédiction, je t'en supplie, OH(a)oma, toi qui chasses la mort au loin ! la longue vitalité de la vie. <span id="p237"><sup><small>[ p. 237 ]</small></sup></span> 20\. Cette quatrième bénédiction, je t'en supplie, OH(a)oma, toi qui chasses la mort au loin ! afin que je puisse me tenir debout sur cette terre avec des désirs satisfaits [^981] et puissants, recevant satisfaction, surmontant les assauts de la haine et conquérant le mensonge.
 
 Cette cinquième bénédiction, OH(a)oma, je t'en supplie, toi qui chasses la mort au loin ! Que je puisse rester victorieux sur terre, conquérant dans les batailles [^982], surmontant les assauts de la haine et conquérant le mensonge.
 

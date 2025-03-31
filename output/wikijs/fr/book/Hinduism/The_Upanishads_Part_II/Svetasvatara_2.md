@@ -32,23 +32,23 @@ dateCreated: 2025-1-16T20:6:29Z
   </table>
 </figure>
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 ## DEUXIÈME ADHYÂYA.
 
 1 [^728]. Savitri (le soleil), ayant d'abord rassemblé son esprit et élargi ses pensées, amena Agni (le feu), lorsqu'il eut découvert sa lumière, au-dessus de la terre.
 
-2 [^729]. Avec des esprits recueillis, nous sommes à la disposition du divin Savi<i>ri</i>, afin que nous obtenions la béatitude. <span id="p239">[<sup><small>p. 239</small></sup>]</span> 3 [^730]. Puisse Savi<i>ri</i>, après avoir atteint avec son esprit les dieux qui s'élèvent vers le ciel, et avec ses pensées (avoir atteint) le ciel, accorder à ces dieux de faire briller une grande lumière.
+2 [^729]. Avec des esprits recueillis, nous sommes à la disposition du divin Savi<i>ri</i>, afin que nous obtenions la béatitude. <span id="p239"><sup><small>[ p. 239 ]</small></sup></span> 3 [^730]. Puisse Savi<i>ri</i>, après avoir atteint avec son esprit les dieux qui s'élèvent vers le ciel, et avec ses pensées (avoir atteint) le ciel, accorder à ces dieux de faire briller une grande lumière.
 
-4 [^731]. Les sages du grand sage rassemblent leur esprit et rassemblent leurs pensées. Celui qui seul connaît la loi (Savitri) a ordonné les invocations ; grande est la louange du divin Savitri. <span id="p240">[<sup><small>p. 240</small></sup>]</span> 5 [^732]. Votre ancienne prière doit être jointe [^733] à des louanges. Que mon chant s'étende comme le chemin du soleil ! Que tous les fils de l'Immortel écoutent, eux qui ont atteint leurs demeures célestes.
+4 [^731]. Les sages du grand sage rassemblent leur esprit et rassemblent leurs pensées. Celui qui seul connaît la loi (Savitri) a ordonné les invocations ; grande est la louange du divin Savitri. <span id="p240"><sup><small>[ p. 240 ]</small></sup></span> 5 [^732]. Votre ancienne prière doit être jointe [^733] à des louanges. Que mon chant s'étende comme le chemin du soleil ! Que tous les fils de l'Immortel écoutent, eux qui ont atteint leurs demeures célestes.
 
-6\. Là où le feu est frotté [^734], là où le vent est retenu, là où le Soma coule, là naît l'esprit. <span id="p241">[<sup><small>p. 241</small></sup>]</span> 7\. Aimons le vieux Brahman par la grâce de Savi<i>ri</i> ; si tu y établis ta demeure, le chemin ne te fera pas de mal [^735].
+6\. Là où le feu est frotté [^734], là où le vent est retenu, là où le Soma coule, là naît l'esprit. <span id="p241"><sup><small>[ p. 241 ]</small></sup></span> 7\. Aimons le vieux Brahman par la grâce de Savi<i>ri</i> ; si tu y établis ta demeure, le chemin ne te fera pas de mal [^735].
 
 8\. Si un homme sage tient son corps avec ses trois parties droites (poitrine, cou et tête) même [^736], et tourne ses sens avec l'esprit vers le cœur, il traversera alors dans la barque de Brahman [^737] tous les torrents qui causent la peur.
 
 9\. Que celui qui a maîtrisé tous ses mouvements comprime sa respiration et expire par le nez d'un souffle doux [^738]. Que le sage, ce char attelé de chevaux féroces, retienne sans faute son esprit [^739].
 
-10\. Qu'il fasse ses exercices dans un lieu [^740] <span id="p242">[<sup><small>p. 242</small></sup>]</span> plat, pur, exempt de cailloux, de feu et de poussière, agréable par ses sons, son eau et ses tonnelles, non pénible à la vue, et plein d'abris et de grottes.
+10\. Qu'il fasse ses exercices dans un lieu [^740] <span id="p242"><sup><small>[ p. 242 ]</small></sup></span> plat, pur, exempt de cailloux, de feu et de poussière, agréable par ses sons, son eau et ses tonnelles, non pénible à la vue, et plein d'abris et de grottes.
 
 11\. Lorsque le Yoga est pratiqué, les formes qui viennent en premier, produisant des apparitions dans Brahman, sont celles de la fumée brumeuse, du soleil, du feu, du vent, des lucioles, des éclairs et d'une lune de cristal [^741].
 
@@ -56,7 +56,7 @@ dateCreated: 2025-1-16T20:6:29Z
 
 13\. Les premiers résultats du Yoga sont appelés légèreté, santé, stabilité, bon teint, prononciation facile, odeur douce et légères excrétions.
 
-14\. Comme un disque de métal (miroir), terni par la poussière, brille à nouveau après avoir été nettoyé, ainsi l'être incarné est satisfait et libéré du chagrin, après avoir vu la véritable nature du Soi [^744]. <span id="p243">[<sup><small>p. 243</small></sup>]</span> 15\. Et lorsque, au moyen de la véritable nature de son Soi, il voit, comme par une lampe, la véritable nature de Brahman, alors ayant connu le dieu éternel et non né, qui est au-delà de toutes les natures [^745], il est libéré de toutes les chaînes.
+14\. Comme un disque de métal (miroir), terni par la poussière, brille à nouveau après avoir été nettoyé, ainsi l'être incarné est satisfait et libéré du chagrin, après avoir vu la véritable nature du Soi [^744]. <span id="p243"><sup><small>[ p. 243 ]</small></sup></span> 15\. Et lorsque, au moyen de la véritable nature de son Soi, il voit, comme par une lampe, la véritable nature de Brahman, alors ayant connu le dieu éternel et non né, qui est au-delà de toutes les natures [^745], il est libéré de toutes les chaînes.
 
 16\. Il est en effet le dieu qui imprègne toutes les régions : il est le premier-né (comme Hira<i>n</i>yagarbha), et il est dans le ventre maternel. Il est né et il naîtra [^746]. Il se tient derrière chaque personne, regardant partout.
 

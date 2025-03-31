@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:2:26Z
   </table>
 </figure>
 
-<span id="p425">[<sup><small>p. 425</small></sup>]</span>
+<span id="p425"><sup><small>[ p. 425 ]</small></sup></span>
 
 ## PA<i>T</i>ALA IV, KHA<i>ND</i>A 1.
 
@@ -54,7 +54,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 9\. Celui qui désire du bétail, comme indiqué ci-dessus (III, I, 5 ?).
 
-10\. Celui qui désire que son cheptel de bétail <span id="p426">[<sup><small>p. 426</small></sup>]</span> augmente, devrait sacrifier du riz et de l'orge, avec (le verset) « Celui qui a mille bras » (MB. II, 4, 7).
+10\. Celui qui désire que son cheptel de bétail <span id="p426"><sup><small>[ p. 426 ]</small></sup></span> augmente, devrait sacrifier du riz et de l'orge, avec (le verset) « Celui qui a mille bras » (MB. II, 4, 7).
 
 <small>IV, 1, 1. kâmyeshu sha<i>d</i> bhaktâni trî<i>n</i>i vâ nâ<i>s</i>nîyân. 2. nityaprayuktânâm âdita. 3. uparish<i>t</i>ât sânnipâtika. 4. eva<i>m</i> ya<i>g</i>anîyaprayogeshv. 5. ardhamâsavraty. 6. a<i>s</i>aktau peyam (lire, peyâm) eka<i>m</i> kâlam. 7. ara<i>n</i>ve prapada<i>m</i> <i>g</i>aped âsîna<i>h</i> prâgagreshv. 8. Evam brahmavark asakâmo. 9. Yathoktam pa<i>s</i>ukâma<i>h</i>. 10. Sahasrabâhur iti pa<i>s</i>usvastyayanakâmo vrîhiyavau <i>g</i>uhuyâd.</small>
 
@@ -72,7 +72,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <petit>11. yene<i>kh</i>et sahakâra<i>m</i> kautomatenâsya mahâv<i>ri</i>kshaphalâni pari<i>g</i>apya dadyâd. 12. ardhamâsavratî paur<i>n</i>amâsyâ<i>m</i> râtrau nâbhimâtra<i>m</i> pragâhyâvidâsini hradeऽkshatata<i>n</i><i>d</i>ulân âsyena <i>g</i>uhuyâd udake v<i>ri</i>ksha iveti pa<i>ñ</i><i>k</i>abhi<i>h</i>. 13. pârthiva<i>m</i> karma. 14. prathamayâdityam upatish<i>th</i>ed bhogakâmoऽrthapatau prekshamâ<i>n</i>e. 15. dvitîyayâkshatata<i>n</i><i>d</i>ulân âditye parivishyamâ<i>n</i>e b<i>ri</i>hatpattrasvastyayanakâmas. 16. t<i>ri</i>tîyayâ <i>k</i>andramasi tilata<i>n</i><i>d</i>ulân kshudrapa<i>s</i>usvastyayanakâma<i>s</i>.</small>
 
-<span id="p427">[<sup><small>p. 427</small></sup>]</span>
+<span id="p427"><sup><small>[ p. 427 ]</small></sup></span>
 
 17\. Après avoir adoré le soleil avec le quatrième (verset), qu'il s'efforce d'acquérir de grandes richesses.
 
@@ -96,7 +96,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <petit>17. <i>k</i>aturthyâdityam upasthâya gurum artham abhyuttish<i>th</i>et. 18. pa<i>ñ</i><i>k</i>amyâdityam upasthâya g<i>ri</i>hân eyâd. 19. anakâmamâra<i>m</i> nitya<i>m</i> <i>g</i>aped bhûr iti. 20. ya<i>g</i>anîye <i>g</i>uhuyân mûrdhnoऽdhi ma iti sha<i>d</i>bhir vâmadevyargbhir mahâvyâh<i>ri</i>tibhi<i>h</i> prâ<i>g</i>âpatyayâ <i>k</i>â. 21. ऽlakshmînir<i>n</i>odo. 22. ऽksheme pathy apehîti <i>g</i>aped. 23. ya<i>s</i>o ऽham ity âdityam upatish<i>th</i>ed ya<i>s</i>askâma<i>h</i> pûrvâh<i>n</i>amadhyandinâparâh<i>n</i>eshu. 24. prâtarah<i>n</i>asyeti yathârtham filled. 25. âditya nâvam iti sandhyopasthâna<i>m</i> svastyayanam. 26. udyanta<i>m</i> tveti pûrvâ<i>m</i>.</small>
 
-<span id="p428">[<sup><small>p. 428</small></sup>]</span>
+<span id="p428"><sup><small>[ p. 428 ]</small></sup></span>
 
 27\. Au crépuscule du soir, « Quand tu vas te reposer » (ll 16).
 
@@ -122,7 +122,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>2, 1. ardhamâsavratî tâmisrâdau brahma<i>n</i>ân â<i>s</i>ayed vrîhika<i>m</i>saudana<i>m</i>. 2. tasya ka<i>n</i>ân aparâsu sandhyâsu pratyag grâmât stha<i>n</i><i>d</i>ilam upalipya Phalâyeti <i>g</i>uhuyât. 3. Phallâyeti <i>k</i>aivam evâparasmi<i>m</i>s tâmisrâdau. 4. brahma<i>k</i>aryam â samâpter. 5. â<i>k</i>ita<i>s</i>ata<i>m</i> bhavati. 6. gaure bhûmibhâge brâhmane lohite kshatriya krishne vai yoऽvasâna m g oshayet sama m loma m anîri n am a s ushka m. 7. yatrodaka m pratyagudî kî m pravartate. 8. kshîri<i>n</i>a<i>h</i> ka<i>n</i><i>t</i>akina<i>h</i> [sic] ka<i>t</i>ukâ<i>s</i> <i>k</i>âtraushadhayo na syur.</small>
 
-<span id="p429">[<sup><small>p. 429</small></sup>]</span>
+<span id="p429"><sup><small>[ p. 429 ]</small></sup></span>
 
 9\. (Le sol) sur lequel pousse l'herbe Darbha apporte un éclat sacré ;
 
@@ -150,7 +150,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>9. darbhasammita<i>m</i> brahmavar<i>k</i>asya<i>m</i>. 10. b<i>ri</i>hatt<i>ri</i><i>n</i>air balyam. 11. m<i>ri</i>dut<i>ri</i><i>n</i>ai<i>h</i> pa<i>s</i>avya<i>m</i>. 12. <i>s</i>âtâbhir (corr. <i>s</i>âdâbhir?) ma<i>n</i><i>d</i>aladvîpibhir vâ. 13. Yatra vâ svaya<i>m</i>k<i>ri</i>tâ<i>h</i> <i>s</i>vabhrâ<i>h</i> sarvatoऽbhimukhâ syu<i>h</i>. 14. prâgdvâra<i>m</i> dhanya<i>m</i> ya<i>s</i>asya<i>m</i> <i>k</i>odagdvâra<i>m</i> putrya<i>m</i> pa<i>s</i>avya<i>m</i> <i>k</i>a dakshi<i>n</i>advâre sarve kâmâ. anudvâra<i>m</i> gehadvâram 15. asa<i>m</i>lokî (asa<i>m</i>loki?) syât. 16. pâyaso havi<i>h</i>. 17. k<i>ri</i>shnâ <i>k</i>a gaur. 18. a<i>g</i>o vâ <i>s</i>veta<i>h</i> pâyasa eva vâ. 19. madhye ve<i>s</i>mano vasâ<i>m</i> pâyasa<i>m</i> <i>k</i>âgyena mi<i>s</i>ram ash<i>t</i>ag<i>ri</i>hîta<i>m</i> <i>g</i>uhuyâd Vâstoshpata iti. 20. yâ<i>s</i> <i>k</i>a parâs saptâlakshmînir<i>n</i>ode tâbhi<i>s</i> <i>k</i>a. 21. hutvâ di<i>s</i>â<i>m</i> bali<i>m</i> nayed.</small>
 
-<span id="p430">[<sup><small>p. 430</small></sup>]</span>
+<span id="p430"><sup><small>[ p. 430 ]</small></sup></span>
 
 22\. Et vers les points intermédiaires, et vers le haut et vers le bas.
 
@@ -191,7 +191,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>4. dvâda<i>s</i>a gâmâ <i>g</i>valite. 5. tryavarâ dhûme. 6. kambûkân sâya<i>m</i>prâtar <i>g</i>uhuyân nâsya v<i>ri</i>tti<i>h</i> kshîyata. 7. idam aham imam iti pa<i>n</i>yahoma<i>m</i> <i>g</i>uhuyât. 8. pûr<i>n</i>ahoma<i>m</i> ya<i>g</i>anîye <i>g</i>uhuyâd. 9. Indrâmavadâd iti sahâyakâmo. 10. ऽsh<i>t</i>arâtroposhitoऽpara<i>m</i> prâṅ vodaṅ vâ grâmâ<i>k</i> <i>k</i>atushpathe samidhyâgnim audumbara idhma syât sruva<i>k</i>amasau <i>k</i>a <i>g</i>uhuyâd anna<i>m</i> vâ iti <i>s</i>rîr vâ iti. 11. grâme t<i>ri</i>tîyâm annasyety.</small>
 
-<span id="p432">[<sup><small>p. 432</small></sup>]</span>
+<span id="p432"><sup><small>[ p. 432 ]</small></sup></span>
 
 12\. Alors il deviendra un souverain.
 
@@ -213,7 +213,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <small>4, 1. vishavatâ dash<i>t</i>am adbhir abhyukshan <i>ga</i>apen mâ bhaishîr iti.</small>
 
-<span id="p433">[<sup><small>p. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 2\. Un Snâtaka devrait, lorsqu'il s'allonge pour dormir, placer son bâton de bambou près de son lit avec la formule « Fort, protège » (ll 19). Cela lui portera chance.
 
@@ -257,7 +257,7 @@ dateCreated: 2025-1-16T20:2:26Z
 
 <petit>10. apa<i>h</i> a passé la période yato iti. 11. savya<i>m</i> padam avasi<i>ñ</i><i>k</i>ed savyam iti dakshin<i>n</i>a<i>m</i> dakshi<i>n</i>a<i>m</i> ity ubhau <i>s</i>eshe<i>n</i>â. 12. रnnasya ryash<i>t</i>rir asîty arghya<i>m</i> pratig<i>ri</i>h<i>n</i>îyâd. 13. ya<i>s</i>oऽsîty â<i>k</i>amanîya<i>m</i>. 14. vous êtes le seul à pouvoir vous asseoir. 15. tri<i>h</i> pibed ya<i>s</i>aso mahasa <i>s</i>riyâ iti. 16. tûsh<i>n</i>î<i>m</i> <i>k</i>aturtha<i>m</i> bhûyoऽbhipâya brâhma<i>n</i>âyo<i>k</i><i>kh</i>ish<i>t</i>a<i>m</i> dadyâd. 17. ga<i>m</i> veditâm anumantrayeta mu<i>ñ</i><i>ka gam ity. 18. amushya <i>k</i>ety arhayitur nom brûyâd. 19. Ma maison est à tes pieds. 20. grossièreté ya<i>g</i><i>n</i>a.</small>
 
-<span id="p435">[<sup><small>p. 435</small></sup>]</span>
+<span id="p435"><sup><small>[ p. 435 ]</small></sup></span>
 
 21\. Les six personnes à qui la réception d'Arghya est due sont, un enseignant, un prêtre officiant, un Snâtaka, un roi, le beau-père, un ami.
 

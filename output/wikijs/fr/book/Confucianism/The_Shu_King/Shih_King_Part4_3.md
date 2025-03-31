@@ -32,7 +32,7 @@ dateCreated: 2025-2-12T22:26:32Z
   </table>
 </figure>
 
-<span id="p433">[<sup><small>p. 433</small></sup>]</span>
+<span id="p433"><sup><small>[ p. 433 ]</small></sup></span>
 
 <a id="o0"></a>
 
@@ -52,7 +52,7 @@ Tous les critiques chinois donnent cette interprétation de la pièce. Kwang Kia
 
 Ô soleil, ô lune, qui venez de l'est ! Voici cet homme, aux paroles vertueuses, mais pas vraiment bonnes. Comment pourrait-il se calmer ? Permettrait-il alors que je sois oublié ?
 
-<span id="p434">[<sup><small>p. 434</small></sup>]</span>
+<span id="p434"><sup><small>[ p. 434 ]</small></sup></span>
 
 Ô soleil, ô lune, qui venez de l'orient ! Ô père, ô mère, il n'y a pas de suite à votre façon de me nourrir. Comment pourrait-il apaiser son esprit ? Me répondrait-il alors contre toute raison ?
 

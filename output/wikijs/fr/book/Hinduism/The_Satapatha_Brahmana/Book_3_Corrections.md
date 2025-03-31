@@ -32,7 +32,7 @@ dateCreated: 2025-1-16T20:3:37Z
   </table>
 </figure>
 
-<span id="p418">[<sup><small>p. 418</small></sup>]</span>
+<span id="p418"><sup><small>[ p. 418 ]</small></sup></span>
 
 Tous les errata mentionnés ici par Eggeling ont été corrigés dans le texte électronique à l'aide du fichier d'errata lié. Ils sont indiqués par \*(Eggeling)\* dans le fichier d'errata. — JBH
 

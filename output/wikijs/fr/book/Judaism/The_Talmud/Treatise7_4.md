@@ -34,7 +34,7 @@ dateCreated: 2025-2-7T10:45:5Z
 
 1\. Quand la fête du Nouvel An tombait un jour de sabbat, on sonnait du cor dans le sanctuaire, mais pas dans les provinces. Après la destruction du sanctuaire, Rabbi Jochanan, fils de Zacaï, décréta qu'on le sonnerait partout où se trouve un tribunal. Rabbi Éléazar dit : « Rabbi Jochanan, fils de Zacaï, l'a décrété seulement pour Jamnia. » Mais les Sages lui dirent : « C'était un pour Jamnia, et un pour chaque lieu où se trouve un tribunal. »
 
-2\. Et de plus, [^304] Jérusalem était privilégiée par rapport à Jamnia, <span id="p156">[<sup><small>p. 156</small></sup>]</span> parce que chaque ville qui pouvait être vue, et dont on pouvait entendre le son, et qui était proche, et vers laquelle il était permis d'aller, pouvait sonner du cor ; mais à Jamnia, ils ne pouvaient le sonner que devant le tribunal de justice.
+2\. Et de plus, [^304] Jérusalem était privilégiée par rapport à Jamnia, <span id="p156"><sup><small>[ p. 156 ]</small></sup></span> parce que chaque ville qui pouvait être vue, et dont on pouvait entendre le son, et qui était proche, et vers laquelle il était permis d'aller, pouvait sonner du cor ; mais à Jamnia, ils ne pouvaient le sonner que devant le tribunal de justice.
 
 3\. Au début, la palme était emportée sept jours dans le sanctuaire et un jour dans les provinces. Après la destruction du Temple, Rabbi Jochanan, fils de Zacaï, décréta : « que la palme serait emportée dans les provinces pendant sept jours, en commémoration du sanctuaire » ; et « qu'il serait interdit (de manger du blé nouveau) pendant toute la journée de l'agitation [^305]. »
 

@@ -32,7 +32,7 @@ dateCreated: 2025-2-5T10:15:31Z
   </table>
 </figure>
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 ## LES SEPT VALLÉES
 
@@ -42,7 +42,7 @@ Nous allons, si vous le voulez bien, nous promener un peu avec lui dans « Les S
 
 Cela commence ainsi
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 « _Au nom de Dieu, le Compatissant, le Miséricordieux_.
 
@@ -50,7 +50,7 @@ Louange à Dieu, qui a fait apparaître l'existence à partir de la non-existenc
 
 _Que la paix soit sur ceux qui suivent la direction_e.”
 
-Il faut remarquer que « les étapes du voyage des voyageurs de la demeure terrestre à la Maison Divine ont été désignées comme étant au nombre de sept ; certains ont parlé de celles-ci comme de « Sept <span id="p54">[<sup><small>p. 54</small></sup>]</span> Vallées »... et ils ont dit : « Ce n'est que lorsque le voyageur aura migré de lui-même et accompli ces voyages qu'il parviendra à la mer de proximité et d'union. »
+Il faut remarquer que « les étapes du voyage des voyageurs de la demeure terrestre à la Maison Divine ont été désignées comme étant au nombre de sept ; certains ont parlé de celles-ci comme de « Sept <span id="p54"><sup><small>[ p. 54 ]</small></sup></span> Vallées »... et ils ont dit : « Ce n'est que lorsque le voyageur aura migré de lui-même et accompli ces voyages qu'il parviendra à la mer de proximité et d'union. »
 
 <figure class="table chapter-navigator">
   <table>

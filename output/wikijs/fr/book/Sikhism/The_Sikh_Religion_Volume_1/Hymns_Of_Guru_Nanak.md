@@ -75,7 +75,7 @@ Comme un mur imprégné de kallar, elle s'effondre jour et nuit.
 Elle n’obtient pas de repos sans la Parole ; sans son Bien-aimé, sa douleur ne s’en va pas.
 Ô femme, que sont tes parures sans ton Époux ?
 
-<span id="p263">[<sup><small>p. 263</small></sup>]</span>
+<span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
 Tu n'auras pas accès à la cour de Dieu ; étant menteur, tu seras méprisé.
 L'Éternel est sage et n'oublie rien; Il est fidèle et un grand laboureur.
@@ -98,7 +98,7 @@ Du Vrai procède l'air, de l'air l'eau,
 Et de l’eau les trois mondes ; la lumière fut infusée dans chaque cœur.
 Celui qui est pur ne devient pas impur : celui qui est imprégné de la Parole obtient l'honneur.
 
-Guru Nanak composa ce qui suit après une conversation <span id="p264">[<sup><small>p. 264</small></sup>]</span> avec Samangir, un Sanyasi, à Talwandi. Le Guru maintint l'excellence de son propre système et l'avantage de répéter le nom de Dieu obtenu de lui :
+Guru Nanak composa ce qui suit après une conversation <span id="p264"><sup><small>[ p. 264 ]</small></sup></span> avec Samangir, un Sanyasi, à Talwandi. Le Guru maintint l'excellence de son propre système et l'avantage de répéter le nom de Dieu obtenu de lui :
 
 Si je me transforme en femme, le Jouisseur jouira de moi.
 N'aimez pas ce qui paraît passager,
@@ -121,7 +121,7 @@ La contrefaçon ne sera pas reçue dans le trésor du grand Dieu, et ils ne le v
 Les contrefaçons n'ont ni caste ni honneur ; les contrefaçons ne sont acceptables pour rien.
 Les contrefaçons qui font du travail de contrefaçon perdront leur honneur dans la transmigration.
 
-<span id="p265">[<sup><small>p. 265</small></sup>]</span>
+<span id="p265"><sup><small>[ p. 265 ]</small></sup></span>
 
 Nanak, instruis ton cœur par la parole et les conseils du Guru.
 Ceux qui sont imprégnés de l’amour du nom de Dieu n’ont aucun fardeau de péché ni de superstition.
@@ -147,7 +147,7 @@ Et qui retient la mer et la terre ; salut au Créateur !
 Tu dois mourir, ô Mulla, tu dois mourir.
 Craignez absolument le Créateur.
 
-<span id="p266">[<sup><small>p. 266</small></sup>]</span>
+<span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 Tu es un Mulla ou un Qazi seulement lorsque tu connais _réellement_ le nom de Dieu.
 Même si tu es très instruit, tu dois partir ; personne ne peut rester quand sa mesure de vie est pleine.
@@ -171,7 +171,7 @@ Personne n'a trouvé ta valeur ; chacun, comme il l'a entendu, décrit ta gloire
 Prêtres, prophètes, saints, hommes fidèles, martyrs,
 Cheikhs, Strivers, Qazis, Mullas, Darweshes qui sont arrivés à la porte de Dieu,
 
-<span id="p267">[<sup><small>p. 267</small></sup>]</span>
+<span id="p267"><sup><small>[ p. 267 ]</small></sup></span>
 
 Obtenez davantage de bénédictions s’ils continuent à réciter les louanges de Dieu.
 Il ne consulte personne lorsqu'il crée ; il ne consulte personne lorsqu'il détruit ; il ne consulte personne lorsqu'il donne ou lorsqu'il reprend.
@@ -195,7 +195,7 @@ L’amour ne s’obtient pas par l’hypocrisie ; la dorure contrefaite dégrade
 De cette manière, Dieu l’Époux jouira de la femme.
 La bonne épouse te plaît, Seigneur ; tu la décores de ta faveur.
 
-<span id="p268">[<sup><small>p. 268</small></sup>]</span>
+<span id="p268"><sup><small>[ p. 268 ]</small></sup></span>
 
 Elle est décorée de la parole du Guru ; son corps et son âme sont avec son Bien-Aimé.
 Les mains jointes, elle se tient debout, attendant Dieu, et lui offre une véritable supplication.
@@ -215,7 +215,7 @@ Elle ne connaît aucun homme à part son Bien-Aimé ; c'est seulement pour le Vr
 Mais toi qui es insouciant dans une nuit obscure[^3], comment la passeras-tu sans le Bien-Aimé ?
 Ta poitrine brûlera, ton corps brûlera et ton esprit brûlera, ô femme.
 
-<span id="p269">[<sup><small>p. 269</small></sup>]</span>
+<span id="p269"><sup><small>[ p. 269 ]</small></sup></span>
 
 Quand une femme ne jouit pas de son mari, sa jeunesse passe en vain.
 Son mari est sur le lit; sa femme dort et ne connaît pas sa présence.
@@ -240,7 +240,7 @@ Nanak, celle qui est unie à Dieu par la Parole ne sera pas séparée de Lui.
 
 Ce qui suit a été adressé aux dévots hindous que le gourou a rencontrés lors de ses pérégrinations dans l’Himalaya :
 
-<span id="p270">[<sup><small>p. 270</small></sup>]</span>
+<span id="p270"><sup><small>[ p. 270 ]</small></sup></span>
 
 Bien que l’homme pratique la dévotion des lèvres, la pénitence et les austérités, et qu’il demeure dans des lieux de pèlerinage,
 Faire l’aumône et accomplir des actes de dévotion, que sont-ils sans le Vrai ?
@@ -267,7 +267,7 @@ L’amour de Dieu est inculqué par des exemples indiens familiers :
 
 Ô homme, aime Dieu comme le lotus aime l'eau.
 
-<span id="p271">[<sup><small>p. 271</small></sup>]</span>
+<span id="p271"><sup><small>[ p. 271 ]</small></sup></span>
 
 Il porte un tel amour qu'il fleurit même lorsqu'il est écrasé par les vagues.
 Les créatures que Dieu a créées dans l'eau meurent sans elle, et c'est pourquoi elles l'aiment.
@@ -289,7 +289,7 @@ Les pervers font des calculs, mais c'est seulement ce que fait le Créateur qui 
 Sa valeur ne peut être déterminée, même si tous les hommes la désirent.
 Mais on peut s'assurer, sous l'instruction du Guru, qu'en rencontrant le Vrai, le bonheur est obtenu.
 
-<span id="p272">[<sup><small>p. 272</small></sup>]</span>
+<span id="p272"><sup><small>[ p. 272 ]</small></sup></span>
 
 Si le vrai gourou est rencontré, le véritable amour ne se brisera pas,
 Et la richesse de la connaissance divine des trois mondes sera obtenue.
@@ -312,7 +312,7 @@ Qui d’autre que le gourou peut expliquer que le Roi et l’Empereur habitent d
 Tous les hommes se trompent ; seul le grand Créateur ne se trompe pas.
 Celui qui exhorte son cœur sous l’instruction du Guru aimera le Seigneur.
 
-<span id="p273">[<sup><small>p. 273</small></sup>]</span>
+<span id="p273"><sup><small>[ p. 273 ]</small></sup></span>
 
 Nanak, celui que la Parole incomparable a fait rencontrer Dieu, n'oubliera pas le Véritable.
 
@@ -336,7 +336,7 @@ Si mon corps devait être coupé en morceaux et brûlé au feu
 Si je devais transformer mon corps et mon âme en bois de chauffage et les brûler nuit et jour ;
 Si je devais accomplir des centaines de milliers et des millions de cérémonies religieuses, elles ne seraient pas toutes égales au nom de Dieu.
 
-<span id="p274">[<sup><small>p. 274</small></sup>]</span>
+<span id="p274"><sup><small>[ p. 274 ]</small></sup></span>
 
 Si une scie était appliquée à ma tête et que mon corps était coupé en deux ;[^1]
 Si mon corps était gelé dans l’Himalaya, même dans ce cas, mon esprit ne serait pas exempt de maladie.
@@ -355,7 +355,7 @@ Celui qui est absorbé dans le Vrai Gourou médite sur la Parole de l'Ineffable.
 Celui qui boit le nectar du Nom sera rassasié et ira à la cour de Dieu avec une tenue d'honneur.
 Le chant de l’extase[^2] résonne nuit et jour dans le cœur de ceux qui portent un grand amour à la Parole.
 
-<span id="p275">[<sup><small>p. 275</small></sup>]</span>
+<span id="p275"><sup><small>[ p. 275 ]</small></sup></span>
 
 Rares sont ceux qui obtiennent la compréhension en exhortant leur cœur par l’intermédiaire de leur gourou.
 Nanak, ceux qui n'oublient pas le Nom et qui agissent selon la Parole seront délivrés.
@@ -379,7 +379,7 @@ Les hommes se ruinent en cherchant à l'étranger alors que la vraie chose est c
 Les pieux l'obtiennent, les pervers le ratent par orgueil.
 Ô infidèle vicieux, connais ta propre origine.
 
-<span id="p276">[<sup><small>p. 276</small></sup>]</span>
+<span id="p276"><sup><small>[ p. 276 ]</small></sup></span>
 
 Ton corps fait de sang et de sperme sera finalement amené au feu.
 Le corps est au pouvoir du souffle selon la véritable marque sur le front.
@@ -403,7 +403,7 @@ Si j'ai un entretien satisfaisant avec le vrai gourou parfait, il me délivrera 
 Si je dis que je suis périssable, cela ne me servira à rien ; mais si je sais réellement que je suis périssable, cela me servira à rien.
 Tout ce qui est venu dans ce monde repartira ; le Créateur seul est immortel.
 
-<span id="p277">[<sup><small>p. 277</small></sup>]</span>
+<span id="p277"><sup><small>[ p. 277 ]</small></sup></span>
 
 Assurez-vous de louer le Vrai et d’aimer Sa demeure.
 De belles maisons et des palais et des milliers de forteresses,
@@ -456,7 +456,7 @@ L’homme, quelle que soit sa caste ou sa position sociale, est exalté par la d
 Quelle différence y a-t-il entre un cygne et une grue, si Dieu regarde cette dernière avec bienveillance ?
 Nanak, s'il le veut, il peut changer un corbeau en cygne,
 
-<span id="p279">[<sup><small>p. 279</small></sup>]</span>
+<span id="p279"><sup><small>[ p. 279 ]</small></sup></span>
 
 ## MAJH KI WAR
 
@@ -489,7 +489,7 @@ Autres divisions de la vie humaine :
 
 À dix ans, un enfant, à vingt un débauché, à trente un homme se dit beau ;
 
-<span id="p280">[<sup><small>p. 280</small></sup>]</span>
+<span id="p280"><sup><small>[ p. 280 ]</small></sup></span>
 
 À quarante ans il est dans la fleur de l'âge, à cinquante ans il est boiteux, à soixante ans il vieillit ;
 À soixante-dix ans, il perd son intellect, à quatre-vingts ans, il ne peut plus accomplir ses devoirs.
@@ -514,7 +514,7 @@ Il considère la propriété des autres comme la sienne et souffre à cause de s
 Nanak, lorsque l'orgueil est dissipé sous les instructions du gourou, l'homme médite sur le nom de Dieu,
 Répète le Nom, adore le Nom et, à travers le Nom, est absorbé dans le bonheur.
 
-<span id="p281">[<sup><small>p. 281</small></sup>]</span>
+<span id="p281"><sup><small>[ p. 281 ]</small></sup></span>
 
 Certains sujets importants sont brièvement traités comme suit :
 
@@ -545,7 +545,7 @@ Le Qazi demanda à Guru Nanak qui il était. Ce dernier répondit ainsi :
 
 Puisque je ne suis personne, que dirai-je ? Puisque je ne suis rien, que puis-je être ?
 
-<span id="p282">[<sup><small>p. 282</small></sup>]</span>
+<span id="p282"><sup><small>[ p. 282 ]</small></sup></span>
 
 Comme Dieu m'a créé, j'agis ; comme Il me l'a dit, je parle ; je suis complètement souillé par le péché et je désire le laver.
 Même si je ne sais rien moi-même, j'enseigne aux autres ; je suis un tel guide.
@@ -572,7 +572,7 @@ Je voudrais alors même te magnifier, et le désir de le faire ne cessait pas ta
 Si les dix-huit charges de légumes de la terre devenaient des fruits, et l'herbe du riz,
 Si je pouvais arrêter la lune et le soleil dans leur course, et si mon siège devenait immobile,
 
-<span id="p283">[<sup><small>p. 283</small></sup>]</span>
+<span id="p283"><sup><small>[ p. 283 ]</small></sup></span>
 
 Je voudrais alors même te magnifier, et le désir de le faire ne cessait pas tandis que je parlais.
 
@@ -597,7 +597,7 @@ Le Maître a envoyé l'obéissance à ses ordres comme un coursier _dans le mond
 La réflexion sur l’instruction que le Guru donne est sa timbale.
 Certains ont monté leurs montures, d'autres les ont déjà caparaçonnées ;
 
-<span id="p284">[<sup><small>p. 284</small></sup>]</span>
+<span id="p284"><sup><small>[ p. 284 ]</small></sup></span>
 
 Certains ont chargé leurs bagages _pour la marche_, et d'autres sont partis.
 
@@ -624,7 +624,7 @@ Même si vous appliquez du santal sur un chien, il conservera toujours sa nature
 Même si tu instruis un sourd et lui lis le Simritis,
 Même si tu mets une lumière devant un aveugle et que tu brûles cinquante lampes pour lui, tout cela ne servirait à rien.
 
-<span id="p285">[<sup><small>p. 285</small></sup>]</span>
+<span id="p285"><sup><small>[ p. 285 ]</small></sup></span>
 
 Même si tu mets de l'or devant un troupeau de bétail, ils choisiront quand même l'herbe à manger.
 Si un flux est introduit dans le fer, il fondra, mais ne deviendra pas du coton.[^1]
@@ -651,7 +651,7 @@ Les sept sloks suivants font partie des instructions du Guru à Shaikh Brahm, ou
 
 Les prêtres, les cheikhs et les potentats du monde sont tous sous la terre.
 
-<span id="p286">[<sup><small>p. 286</small></sup>]</span>
+<span id="p286"><sup><small>[ p. 286 ]</small></sup></span>
 
 Les empereurs passent, mais Dieu fleurit toujours.
 Il n'y a que Toi, il n'y a que Toi, ô Dieu !
@@ -692,7 +692,7 @@ Ceux qui, dès le matin, louent Dieu et méditent sur Lui d'un cœur sincère,
 Ce sont des rois parfaits, et ils meurent en combattant lorsque l'occasion se présente.[^1]
 Dans la deuxième montre, il existe de nombreuses façons de distraire l’attention de l’esprit.
 
-<span id="p287">[<sup><small>p. 287</small></sup>]</span>
+<span id="p287"><sup><small>[ p. 287 ]</small></sup></span>
 
 De nombreuses personnes tombent dans des eaux insondables et ne peuvent en ressortir, malgré tous leurs efforts.
 Au cours de la troisième veille, lorsque la faim et la soif aboient toutes deux, la nourriture est mise dans la bouche.
@@ -718,7 +718,7 @@ Les avantages conférés aux hommes par le Vrai :
 Sans le Vrai, tous sont faux et pratiquent le mensonge.
 Sans le Vrai, le faux sera lié et emmené ;
 
-<span id="p288">[<sup><small>p. 288</small></sup>]</span>
+<span id="p288"><sup><small>[ p. 288 ]</small></sup></span>
 
 Sans le Vrai, le corps est poussière et sera roulé dans la poussière
 Sans le Vrai, les vêtements et la nourriture ne sont que faim
@@ -744,7 +744,7 @@ Le mal d’oublier Dieu :
 Dans le cœur et la bouche des pervers qui ne se souviennent jamais de toi.
 Supporte l'amertume de la courge, de la coloquinte et du nim, ainsi que le poison de l'akk[^1] et du dhatura.
 
-<span id="p289">[<sup><small>p. 289</small></sup>]</span>
+<span id="p289"><sup><small>[ p. 289 ]</small></sup></span>
 
 Nanak, à qui le dirai-je ? Ceux qui T'oublient s'égarent, privés de Ta faveur, ô Dieu.
 
@@ -775,7 +775,7 @@ Bhai Rama de Sultanpur demanda comment on connaissait Dieu. Le gourou répondit 
 
 Celui à qui Dieu donne l'intelligence comprend ;
 
-<span id="p290">[<sup><small>p. 290</small></sup>]</span>
+<span id="p290"><sup><small>[ p. 290 ]</small></sup></span>
 
 Celui à qui Il donne la connaissance connaît tout.
 L’homme ne s’inquiète que pour lui-même lorsqu’il prêche pour Mammon.
@@ -814,7 +814,7 @@ Mais même s'ils font mille artifices, ils n'y parviendront pas.
 Nanak, le discours du pervers est un non-sens ;
 Ce qu’ils écrivent est une absurdité sans valeur.
 
-<span id="p291">[<sup><small>p. 291</small></sup>]</span>
+<span id="p291"><sup><small>[ p. 291 ]</small></sup></span>
 
 Le gourou adressa ce qui suit à quelqu’un qui lui avait reproché d’avoir quitté sa famille pour mener une vie errante :
 
@@ -853,7 +853,7 @@ Un Sant Das a posé six questions à Guru Nanak :
 Sait-on d’où vient l’homme,
 D'où il est sorti, dans quoi il sera absorbé,
 
-<span id="p292">[<sup><small>p. 292</small></sup>]</span>
+<span id="p292"><sup><small>[ p. 292 ]</small></sup></span>
 
 Comment il est lié, comment il obtient l'émancipation,
 Et comment sera-t-il facilement absorbé dans l’Impérissable ?
@@ -883,7 +883,7 @@ Ce qui suit est une conversation entre l’âme et le corps :
 
 _L'âme_ : « Ô corps, tu te crois immortel et tu penses que tu seras toujours heureux — sache que ce monde est un jeu,
 
-<span id="p293">[<sup><small>p. 293</small></sup>]</span>
+<span id="p293"><sup><small>[ p. 293 ]</small></sup></span>
 
 Tu pratiques l'avarice, la convoitise, le mensonge à outrance, et tu portes de nombreux fardeaux.
 Je t'ai vu, ô corps, piétiné comme de la cendre sur le sol.
@@ -907,7 +907,7 @@ _Rawan_ possédait nominalement un Lanka doré et un palais doré, mais ils n'é
 Ce qui plaît à Dieu sera fait.
 Mon Seigneur est un grand marchand, nous sommes ses détaillants.
 
-<span id="p294">[<sup><small>p. 294</small></sup>]</span>
+<span id="p294"><sup><small>[ p. 294 ]</small></sup></span>
 
 Nos âmes et nos corps sont tous Son capital ; c'est Lui qui tue et qui réanime.
 
@@ -932,7 +932,7 @@ De cette façon tu obtiendras la voie du jogging.
 Faites du fait qu’il n’y a qu’un seul Mot et aucun autre votre dévotion aux tubercules et aux racines.
 Si l'on pouvait obtenir Dieu simplement en se rasant la tête, nous devrions faire du Gange un dieu.[^4]
 
-<span id="p295">[<sup><small>p. 295</small></sup>]</span>
+<span id="p295"><sup><small>[ p. 295 ]</small></sup></span>
 
 C'est le seul Seigneur qui sauve les trois mondes ; tu ne penses pas à Lui, ô insensé.
 Si tu appliques ton esprit aux mots par hypocrisie, tes doutes ne te quitteront jamais.
@@ -959,7 +959,7 @@ Si je devenais un faon, que je vivais dans la forêt et que je cueillais et mang
 Je devrais toujours et à jamais être un sacrifice pour mon Seigneur, qui est obtenu par la faveur du Guru.
 Je suis ton revendeur, ô Dieu ;
 
-<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+<span id="p296"><sup><small>[ p. 296 ]</small></sup></span>
 
 Ton nom est mon fonds de commerce et ma marchandise.
 Si je devenais un koil et vivais dans un manguier, je méditerais encore tranquillement sur la Parole.
@@ -991,7 +991,7 @@ Que dois-je porter ? Dans quelle robe dois-je me montrer ?
 Comment puis-je obtenir le bonheur sans le Seigneur du monde ?
 J'ai peut-être des anneaux aux oreilles et un collier de perles autour du cou,
 
-<span id="p297">[<sup><small>p. 297</small></sup>]</span>
+<span id="p297"><sup><small>[ p. 297 ]</small></sup></span>
 
 Une couverture rouge, des fleurs et de la poudre rouge ;[^1]
 Mais où devrais-je chercher le bonheur, si ce n’est auprès du Seigneur du monde ?
@@ -1020,7 +1020,7 @@ Celui qui sert un seul Dieu ne connaît pas les autres
 Il rejette les choses amères, la tromperie et le mal.
 Par l'amour et la vérité tu rencontreras le Plus Vrai des Vrais.
 
-<span id="p298">[<sup><small>p. 298</small></sup>]</span>
+<span id="p298"><sup><small>[ p. 298 ]</small></sup></span>
 
 S'il existe un tel saint de Dieu,
 Sa saleté sera lavée, et il rencontrera Dieu en chantant ses louanges.
@@ -1046,7 +1046,7 @@ Comme le chatrik aime et a soif des gouttes de pluie,
 Comme le poisson se réjouit de l’eau,
 Nanak se contente donc de boire l’essence de Dieu.
 
-Il y avait un roi des collines appelé Amar Singh qui <span id="p299">[<sup><small>p. 299</small></sup>]</span> fut détrôné par son frère. Après avoir été expulsé, il alla demander conseil à Guru Nanak. Voici ce qui lui fut donné :
+Il y avait un roi des collines appelé Amar Singh qui <span id="p299"><sup><small>[ p. 299 ]</small></sup></span> fut détrôné par son frère. Après avoir été expulsé, il alla demander conseil à Guru Nanak. Voici ce qui lui fut donné :
 
 Ceux qui portent des vêtements religieux sont pleins d’orgueil et ne connaissent pas Dieu.
 Rares sont ceux dont l’esprit est réconcilié avec la dévotion sous l’instruction du Guru.
@@ -1071,7 +1071,7 @@ La mort menace tout, mais ne peut nuire au sacré :
 
 Même Brahma était sujet à la mort[^1] depuis le début.
 
-<span id="p300">[<sup><small>p. 300</small></sup>]</span>
+<span id="p300"><sup><small>[ p. 300 ]</small></sup></span>
 
 Il n'a pas trouvé la fin du lotus de Vishnu dans les régions inférieures ;[^1]
 Il n'a pas accepté l'ordre de Dieu et s'est laissé égarer dans l'erreur.
@@ -1096,7 +1096,7 @@ Qazis, cheikhs et faqirs en tenue religieuse
 Ils se disent grands, mais à cause de leur orgueil, leur corps souffre.
 La mort ne les libérera pas sans recevoir la consolation du véritable gourou.
 
-<span id="p301">[<sup><small>p. 301</small></sup>]</span>
+<span id="p301"><sup><small>[ p. 301 ]</small></sup></span>
 
 Le filet de la mort est sur la langue et les yeux de l’homme ;
 Il est dans l'embarras lorsqu'il entend un langage impudique.
@@ -1128,7 +1128,7 @@ Un guide spirituel est nécessaire au salut :
 Son compte est réglé pour celui qui, par la faveur du Guru, connaît Dieu.
 Dieu, appelé le Pur, qui est dans chaque cœur, est mon Seigneur.
 
-<span id="p302">[<sup><small>p. 302</small></sup>]</span>
+<span id="p302"><sup><small>[ p. 302 ]</small></sup></span>
 
 L’homme ne sera pas émancipé sans l’instruction du Guru ; voyez et méditez sur cela.
 Même si l’homme accomplissait des centaines de milliers de cérémonies, tout ne serait que ténèbres sans le gourou.
@@ -1155,7 +1155,7 @@ La nuit est douloureuse pour la jeune mariée ; sans son bien-aimé, elle ne dor
 Elle dépérit de chagrin à cause de son absence :
 La femme se languit de chagrin à cause de son absence, disant : « Comment le regarderai-je ? »
 
-<span id="p303">[<sup><small>p. 303</small></sup>]</span>
+<span id="p303"><sup><small>[ p. 303 ]</small></sup></span>
 
 Les ornements, la nourriture délicate, les plaisirs sensuels sont tous vains et sans importance pour elle.
 Enivrée du vin de la jeunesse et fondant d'orgueil, le lait ne vient pas à sa poitrine.
@@ -1179,7 +1179,7 @@ Ses amis sont également heureux, ses ennemis malheureux ; le véritable profit 
 Les mains jointes, la femme prie pour être baignée nuit et jour dans l'amour de Dieu.
 Nanak, le Bien-Aimé et son épouse s'unissent dans les ébats ; mes désirs ont été exaucés.
 
-<span id="p304">[<sup><small>p. 304</small></sup>]</span>
+<span id="p304"><sup><small>[ p. 304 ]</small></sup></span>
 
 ## CHIFFON ASA
 
@@ -1215,7 +1215,7 @@ Fais de la vision perpétuelle de Dieu la cloche de tes pieds
 N'aimez personne d'autre que Dieu, vos mesures et vos chants
 De cette façon, dansez en battant la mesure avec vos pieds.
 
-<span id="p305">[<sup><small>p. 305</small></sup>]</span>
+<span id="p305"><sup><small>[ p. 305 ]</small></sup></span>
 
 Fais toujours naître la crainte de Dieu dans ton cœur et aigris,
 Que tu sois assis ou debout, tes mouvements.
@@ -1262,7 +1262,7 @@ Pourquoi m’oublierais-tu alors que je suis dans une grande affliction ?
 Quand l’affliction m’atteint, ne m’oublie pas.
 L'œil de l'homme devient aveugle, sa langue perd le goût, ses oreilles n'entendent plus ;
 
-<span id="p307">[<sup><small>p. 307</small></sup>]</span>
+<span id="p307"><sup><small>[ p. 307 ]</small></sup></span>
 
 Il ne peut se déplacer qu’en étant soutenu : ce sont les fruits du non-service.
 Faites de la Parole l’arbre du jardin, plantez-le dans une bonne terre[^1] et irriguez-le avec amour.
@@ -1287,7 +1287,7 @@ Ne cherchez rien d’autre que le Nom banal ;
 Faites de l'amour de Dieu votre culte, de l'amour de la richesse votre encens.
 Ne regardez qu’un seul Dieu, ne cherchez aucun autre.
 
-<span id="p308">[<sup><small>p. 308</small></sup>]</span>
+<span id="p308"><sup><small>[ p. 308 ]</small></sup></span>
 
 Celui qui répète le nom de Dieu avec sa bouche et le médite,
 Il le contemple à la dixième porte du firmament.[^1]
@@ -1311,7 +1311,7 @@ Depuis que j'ai adoré les pieds de mes compagnons et amis,[^4] mon Bien-Aimé, 
 En réfléchissant sur moi-même et en châtiant mon cœur, je vois qu’il n’y a pas d’ami comme Toi.
 Comme tu me gardes, je vis ; j'endure le malheur et le bien-être selon que tu me les accordes.
 
-<span id="p309">[<sup><small>p. 309</small></sup>]</span>
+<span id="p309"><sup><small>[ p. 309 ]</small></sup></span>
 
 J’ai dissipé les espoirs et les désirs, et je n’aspire plus à Mammon.
 Le saint homme qui a trouvé refuge dans la société des saints obtient le quatrième état.[^1]
@@ -1367,7 +1367,7 @@ Son conjoint l'appréciera sur le canapé.
 Alors, Nanak, elle plaira au cœur de son époux
 Elle abandonnera l’orgueil et sera absorbée en Lui.
 
-<span id="p311">[<sup><small>p. 311</small></sup>]</span>
+<span id="p311"><sup><small>[ p. 311 ]</small></sup></span>
 
 Il est nécessaire de craindre Dieu autant que de l’aimer pour garder ses commandements :
 
@@ -1403,7 +1403,7 @@ Tout cela serait vain, si tu n'étais pas crédité sur le compte de Dieu.
 Sans le nom de Dieu, le monde n’est que trouble.
 Même si l’insensé est tant averti, il reste le plus aveugle des aveugles.
 
-<span id="p312">[<sup><small>p. 312</small></sup>]</span>
+<span id="p312"><sup><small>[ p. 312 ]</small></sup></span>
 
 Tu peux gagner des centaines de milliers de roupies ; tu peux amasser et dépenser des centaines de milliers ; des centaines de milliers peuvent venir et des centaines de milliers peuvent partir ;
 Mais si ton âme n’obtient pas de crédit dans le compte de Dieu, où l’obtiendra-t-elle ?
@@ -1433,7 +1433,7 @@ _L'homme peut accomplir_ toute dévotion, toute pénitence, _et recourir_ à tou
 Mais il est comme s'il errait dans un désert et ne pouvait trouver le chemin.
 Sans connaître Dieu, personne n’est acceptable.
 
-<span id="p313">[<sup><small>p. 313</small></sup>]</span>
+<span id="p313"><sup><small>[ p. 313 ]</small></sup></span>
 
 Sans le Nom, l'homme est méprisé.[^1]
 Le Seigneur est permanent ; le monde vient et s’en va.
@@ -1465,7 +1465,7 @@ Le Préservateur préserve les hommes par son regard bienveillant.
 Celui qui s'efface connaît les trois mondes.
 Celui qui comprend la Parole sera absorbé dans le Véritable.
 
-<span id="p314">[<sup><small>p. 314</small></sup>]</span>
+<span id="p314"><sup><small>[ p. 314 ]</small></sup></span>
 
 Nanak, le Créateur le félicitera
 Qui médite sans relâche la Parole.
@@ -1500,7 +1500,7 @@ Où vas-tu ? Ô homme, reste chez toi.
 Les pieux sont rassasiés du nom de Dieu et, en le cherchant, le trouvent facilement.
 Les péchés corporels de luxure, de colère et d’amour mondain sont dans l’esprit.
 
-<span id="p315">[<sup><small>p. 315</small></sup>]</span>
+<span id="p315"><sup><small>[ p. 315 ]</small></sup></span>
 
 Il en va de même pour la cupidité, l’avarice et l’orgueil.
 Comment l’esprit peut-il être satisfait sans le nom de Dieu ?
@@ -1537,7 +1537,7 @@ Préserve-nous avec miséricorde comme tu le souhaites.
 Sous l'instruction du gourou, Dieu est agréable à mon esprit
 La maladie est éliminée et la douleur évitée.
 
-<span id="p316">[<sup><small>p. 316</small></sup>]</span>
+<span id="p316"><sup><small>[ p. 316 ]</small></sup></span>
 
 Il n’y a pas d’autre médicament, charme ou sort.
 En se souvenant de Dieu, le péché est détruit.
@@ -1572,7 +1572,7 @@ Un enchevêtrement est la richesse périssable que les marchands amassent.
 
 [^1]: Également traduit : L’homme n’est pas satisfait de l’extension de sa richesse.
 
-<span id="p317">[<sup><small>p. 317</small></sup>]</span>
+<span id="p317"><sup><small>[ p. 317 ]</small></sup></span>
 
 Sans dévotion à Dieu, l’homme ne trouve pas de place.
 Les enchevêtrements sont les Veds, les discussions religieuses et l'orgueil.
@@ -1601,7 +1601,7 @@ Qui s'attachent fermement au Nom, à la charité et aux ablutions, et qui s'éve
 
 
 
-<span id="p318">[<sup><small>p. 318</small></sup>]</span>
+<span id="p318"><sup><small>[ p. 318 ]</small></sup></span>
 
 Par le Guru, la porte de Ta maison, ô Seigneur, est connue ; quand les hommes y vont, ils la reconnaissent.
 Dit Nanak, puis-je ne pas oublier ton nom, et que mon cœur soit réconcilié avec le Vrai !
@@ -1627,7 +1627,7 @@ On peut immerger une pierre dans l'eau, mais elle reste sèche au fond.
 Le nom de Dieu est richesse, le vrai gourou l'a donnée.
 Nanak, celui qui n'oublie pas le nom de Dieu boit du nectar distillé.
 
-<span id="p319">[<sup><small>p. 319</small></sup>]</span>
+<span id="p319"><sup><small>[ p. 319 ]</small></sup></span>
 
 L’avantage de la dévotion domestique :
 
@@ -1656,7 +1656,7 @@ Les hommes saints par ton nom parviendront à ta cour et à ta présence.[^2]
 
 
 
-<span id="p320">[<sup><small>p. 320</small></sup>]</span>
+<span id="p320"><sup><small>[ p. 320 ]</small></sup></span>
 
 Ce temps est propice lorsque l’homme reconnaît la vraie Parole.
 Pratiquez la vérité, le contentement et l’amour ; et alors l’adoration du nom de Dieu sera votre viatique.
@@ -1684,7 +1684,7 @@ Celle qui est teinte de l'amour de Dieu et qui le prie, demeurera dans le bonheu
 
 [^1]: Les cinq organes de perception, avec l'intellect et la compréhension.
 
-<span id="p321">[<sup><small>p. 321</small></sup>]</span>
+<span id="p321"><sup><small>[ p. 321 ]</small></sup></span>
 
 Quand tu embrasseras la vertu, tu connaîtras Dieu ; la vertu demeurera avec toi et le vice sera mis en fuite.
 Sans Toi je ne peux pas demeurer un instant ; je ne tire aucune satisfaction du simple fait de converser avec Toi.
@@ -1708,7 +1708,7 @@ Comme le cerf est pris au piège, le bourdon attrapé par le lotus et le poisson
 Écoute, ô cerf noir,[^2] pourquoi es-tu amoureux du jardin ?[^3]
 Le fruit du péché est doux, mais seulement pendant quatre jours ; ensuite il devient amer.
 
-<span id="p322">[<sup><small>p. 322</small></sup>]</span>
+<span id="p322"><sup><small>[ p. 322 ]</small></sup></span>
 
 Le fruit que tu désires tant deviendra très amer sans le Nom.
 Ce fruit est comme une vague de l'océan, ou comme un éclair.
@@ -1729,7 +1729,7 @@ En vérité, dit Nanak, pense-y, ô mon âme venue d'un pays étranger,
 Les rivières qui se séparent dans leur cours ne peuvent se rencontrer à nouveau que par hasard.
 À chaque époque, ce qui est doux est plein de poison, et un saint homme rare le sait.
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 Une personne rare qui pense au vrai gourou connaît la connaissance divine et reconnaît Dieu.
 Sans le nom de Dieu, les fous et les insouciants errent dans la superstition et sont ruinés.
@@ -1756,7 +1756,7 @@ Brahma jaillit du lotus du nombril de Vishnu, et après avoir accordé sa gorge,
 Mais il ne pouvait pas voir les limites de Dieu et restait dans les ténèbres de la transmigration.
 Pourquoi devrais-je oublier le Bien-Aimé qui est le soutien de mon âme,
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 Que les parfaits adorent, que les munis servent, sur qui les gourous méditent,
 À qui sont les lampes du soleil et de la lune, et dont la lumière unique imprègne les trois mondes ?
@@ -1784,7 +1784,7 @@ Le gourou prétend seulement être un instructeur religieux issu des rangs du pe
 
 Ô Sire, je ne suis ni élevé, ni bas, ni moyen ; je suis du peuple de Dieu et je recherche sa protection.
 
-<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+<span id="p325"><sup><small>[ p. 325 ]</small></sup></span>
 
 Seuls ceux qui sont teints du Nom sont libérés de l’amour du monde et oublient le deuil, la séparation et la maladie.
 Mes frères, c'est par la faveur du Guru que l'on obtient le service de Dieu.
@@ -1807,7 +1807,7 @@ L'homme sera sauvé en se précipitant vers l'asile du vrai gourou et en répét
 L'esprit de l'homme devient stable et il pratique la méditation divine sous l'instruction du Guru.
 Pur est le cœur qui contient la vérité et l’excellent joyau de la connaissance divine.
 
-<span id="p326">[<sup><small>p. 326</small></sup>]</span>
+<span id="p326"><sup><small>[ p. 326 ]</small></sup></span>
 
 Ô homme, par la peur, l'amour et le service, et en fixant ton attention sur les pieds de Dieu, tu traverseras le terrible océan.
 Ô Dieu, mets dans mon cœur ton nom, qui est le plus pur des purs ; mon corps est dans ton sanctuaire.
@@ -1836,7 +1836,7 @@ Puisque Tu es mon Maître, je suis fier ; sans Toi, quel orgueil aurais-je ?
 Car, malgré tes décorations, le Seigneur est amoureux des autres.
 Tu n’as pas besoin d’un marchand de bracelets, ni de bracelets en argent, ni de bracelets en verre :
 
-<span id="p327">[<sup><small>p. 327</small></sup>]</span>
+<span id="p327"><sup><small>[ p. 327 ]</small></sup></span>
 
 Brûlez le bras qui n’embrasse pas l’Époux.
 Tous mes compagnons sont allés jouir de l'Époux ; à quelle porte, moi, misérable que je suis, dois-je m'adresser ?
@@ -1865,7 +1865,7 @@ Pourquoi laver le corps souillé par le mensonge ?
 Quand tu m'as fait parler, Seigneur, j'ai parlé.
 Ton nom ambroisial est agréable à mon âme.
 
-<span id="p328">[<sup><small>p. 328</small></sup>]</span>
+<span id="p328"><sup><small>[ p. 328 ]</small></sup></span>
 
 Ton nom est doux à mon âme; un poids de chagrin est tombé de dessus moi.
 Quand tu as donné l’ordre, le bonheur est venu et a pris place dans mon cœur.
@@ -1893,7 +1893,7 @@ Ne cherchez pas le Vrai au loin ; Il est dans chaque cœur et est connu par l'in
 Par l'instruction des gourous, reconnaissez le Véritable qui a fait la création ; ne pensez pas qu'Il soit lointain.
 Méditez sur le Nom et vous obtiendrez le bonheur. Sans le Nom, l'homme n'est pas victorieux dans l'arène du monde.
 
-<span id="p329">[<sup><small>p. 329</small></sup>]</span>
+<span id="p329"><sup><small>[ p. 329 ]</small></sup></span>
 
 Celui qui a fondé le monde en connaît les voies : que dira l’homme ?
 Celui qui a établi le monde a étendu le filet de Mammon ; accepte ce Seigneur _avec ton cœur_.
@@ -1924,7 +1924,7 @@ Nanak, l'homme devra porter autour de son cou autant de chaînes qu'il a de péc
 S'il possède des vertus qui sont comme des frères et des amis, ses chaînes seront coupées.
 Ceux qui n'ont pas de gourou ne seront plus acceptés, ils seront battus et expulsés.
 
-<span id="p330">[<sup><small>p. 330</small></sup>]</span>
+<span id="p330"><sup><small>[ p. 330 ]</small></sup></span>
 
 Ce qui suit s’oppose à toutes les formes de religion, à l’exception des formes déistes :
 
@@ -1951,7 +1951,7 @@ La condition d’un homme qui n’a pas de gourou pour communiquer le nom de Die
 Comme un poisson sans eau, ainsi est l’infidèle, mourant de soif.
 Si ton souffle est vain, ô homme, tu mourras sans Dieu.
 
-<span id="p331">[<sup><small>p. 331</small></sup>]</span>
+<span id="p331"><sup><small>[ p. 331 ]</small></sup></span>
 
 Ô homme, répète le nom et les louanges de Dieu ;
 Mais comment obtiendras-tu ce plaisir sans le gourou ? C'est le gourou qui unit l'homme à Dieu.
@@ -1977,7 +1977,7 @@ Répétez toujours le Nom Pur sous l'instruction du Guru, alors votre cœur sera
 Abandonne la convoitise et la calomnie, renonce au mensonge et tu obtiendras le vrai fruit grâce aux instructions du Guru.
 Ô Dieu, préserve-moi comme tu le souhaites ; Nanak loue ta Parole.
 
-<span id="p332">[<sup><small>p. 332</small></sup>]</span>
+<span id="p332"><sup><small>[ p. 332 ]</small></sup></span>
 
 Dieu est le Bienfaiteur invisible et Il est heureux lorsque les hommes obéissent à Ses ordres :
 
@@ -2002,7 +2002,7 @@ Que je ne tombe pas sous le pouvoir de Mammon, que je n'adore personne d'autre q
 Que je n'entre pas dans cette maison étrange, poussé par la cupidité ![^2] Que le Nom éteigne ma cupidité !
 Le gourou m'a montré Dieu dans ma propre maison ; mon cœur est devenu facilement amoureux de Lui, mes frères.
 
-<span id="p333">[<sup><small>p. 333</small></sup>]</span>
+<span id="p333"><sup><small>[ p. 333 ]</small></sup></span>
 
 Tu es sage, tu vois loin ; c'est toi seul, ô Seigneur, qui donnes la sagesse.
 Mon cœur n’a pas d’amour pour le monde ; il est teinté de sa haine ; la Parole a pénétré mon cœur, ô ma mère.
@@ -2023,7 +2023,7 @@ Infinie, sans fin, inaccessible, insaisissable, Ta valeur ne peut être obtenue 
 Sun Samadh,[^1] Mahaparamarath,[^2] et Seigneur des trois mondes sont tes noms.
 Tous les animaux nés dans le monde ont leur destin inscrit sur leur front et doivent accomplir ce qui leur est destiné.
 
-<span id="p334">[<sup><small>p. 334</small></sup>]</span>
+<span id="p334"><sup><small>[ p. 334 ]</small></sup></span>
 
 C'est Dieu qui pousse l'homme à accomplir de bonnes actions et le rend constant dans Son service.
 Quand l’homme craint Dieu, la souillure de son âme et de son corps s’en va, et Dieu lui-même lui donne la connaissance divine.
@@ -2044,7 +2044,7 @@ Voici l’instruction du gourou à un brahmane :
 
 Les espoirs et les désirs sont des enchevêtrements, mon frère ; tes cérémonies religieuses sont aussi des enchevêtrements.
 
-<span id="p335">[<sup><small>p. 335</small></sup>]</span>
+<span id="p335"><sup><small>[ p. 335 ]</small></sup></span>
 
 L'homme, mon frère, naît dans le monde à la suite d'actes bons et mauvais ;[^1] il périt lorsqu'il oublie le Nom.
 Maya ensorcelle le monde, mon frère ; toutes tes cérémonies religieuses sont sans valeur.
@@ -2065,7 +2065,7 @@ Le Dieu invisible habite dans chaque cœur, mais sans le Guru, l'homme est ruin�
 Maya a lié ce monde de tous côtés avec son câble :
 Sans un gourou, son nœud ne peut être dénoué ; l'homme se lasse de lutter.
 
-<span id="p336">[<sup><small>p. 336</small></sup>]</span>
+<span id="p336"><sup><small>[ p. 336 ]</small></sup></span>
 
 Ce monde est égaré par la superstition ; les mots ne servent à rien.
 En rencontrant le gourou, mon frère, la crainte de Dieu pénètre le cœur. Mourir dans la crainte de Dieu est la véritable destinée de l'homme.
@@ -2096,7 +2096,7 @@ Celui sur qui Dieu regarde avec faveur le servira.
 Comment pourrais-je, ô bien-aimé, demeurer sans toi ?
 Accorde-moi la faveur de rester attaché à ton nom.
 
-<span id="p337">[<sup><small>p. 337</small></sup>]</span>
+<span id="p337"><sup><small>[ p. 337 ]</small></sup></span>
 
 Il n’y a personne d’autre, ô mon Bien-Aimé, à qui je puisse m’adresser.
 Je sers mon Seigneur, je ne demande à personne d'autre
@@ -2123,7 +2123,7 @@ Si un voleur fait l'éloge du magistrat, l'esprit de ce dernier n'en est pas sat
 S’il insulte le magistrat, cela ne peut pas lui déplaire le moins du monde.
 Personne ne se portera garant d’un voleur.
 
-<span id="p338">[<sup><small>p. 338</small></sup>]</span>
+<span id="p338"><sup><small>[ p. 338 ]</small></sup></span>
 
 Comment ce que fait un voleur peut-il être bon ?
 Écoute, ô fou, chien et menteur,
@@ -2158,7 +2158,7 @@ Et qui, par la faveur du Guru seulement, reconnaît l'Unique.
 C'est un Qazi qui détourne les hommes du monde,
 Et qui, par la faveur du gourou, de son vivant, est mort.
 
-<span id="p339">[<sup><small>p. 339</small></sup>]</span>
+<span id="p339"><sup><small>[ p. 339 ]</small></sup></span>
 
 C'est un Brahmane qui réfléchit sur Dieu :
 Il sera sauvé lui-même, et il sauvera tous ses parents.
@@ -2193,7 +2193,7 @@ Si elle ment, cela ne sert à rien :
 Si elle ment, cela ne sert à rien, son époux ne la regardera pas.
 Sans mérites, oubliée de son Époux, et fausses, douloureuses sont ses nuits.
 
-<span id="p340">[<sup><small>p. 340</small></sup>]</span>
+<span id="p340"><sup><small>[ p. 340 ]</small></sup></span>
 
 ## RAG SUHI
 
@@ -2233,7 +2233,7 @@ J’ai souffert d’être séparé de Dieu dans de nombreuses naissances.
 Nanak dit : le Seigneur est, était et sera.
 Le Bien-aimé jouira de celle qui lui est agréable.
 
-<span id="p341">[<sup><small>p. 341</small></sup>]</span>
+<span id="p341"><sup><small>[ p. 341 ]</small></sup></span>
 
 Instruction diverse du Guru :
 
@@ -2256,7 +2256,7 @@ Quand on demande des comptes, il faut les rendre ; ils seront examinés et pris 
 L'homme sera sauvé par son amour pour le Véritable ; le Pardonneur lui pardonnera.
 S'il prend quelqu'un d'autre que Dieu pour ami, il mourra et sera mélangé à la poussière.
 
-<span id="p342">[<sup><small>p. 342</small></sup>]</span>
+<span id="p342"><sup><small>[ p. 342 ]</small></sup></span>
 
 L'homme, en contemplant les différentes phases de la vie, s'égare, et s'égare, il subit une transmigration ;
 Mais il sera émancipé par un regard bienveillant de Dieu et Dieu le fusionnera avec Lui-même.
@@ -2285,7 +2285,7 @@ J'ai appliqué le grand baume de la connaissance divine sur mes yeux et j'ai vu 
 
 
 
-<span id="p343">[<sup><small>p. 343</small></sup>]</span>
+<span id="p343"><sup><small>[ p. 343 ]</small></sup></span>
 
 Venez me rencontrer, ô compagnons, chantez avec enthousiasme un chant de joie, puisque mon époux est revenu à la maison.
 Mon âme et mon corps sont arrosés de nectar,
@@ -2310,7 +2310,7 @@ En te contemplant, je suis devenu libre du désir ; la douleur de la naissance e
 En toutes choses est ta lumière ; par elle tu es connu, mais c'est par l'amour que tu es trouvé.
 Nanak, je suis un sacrifice à l'Ami ; le Vrai est trouvé _quand mon esprit_ revient à la maison.
 
-<span id="p344">[<sup><small>p. 344</small></sup>]</span>
+<span id="p344"><sup><small>[ p. 344 ]</small></sup></span>
 
 ## SUHI KI WAR
 
@@ -2343,7 +2343,7 @@ C'est l'habitude des voleurs, des adultères, des prostituées et des proxénèt
 Se lier d'amitié avec les irréligieux et dîner avec eux.
 Ils ne se soucient pas des louanges de Dieu ; le diable habite toujours dans leur cœur.
 
-<span id="p345">[<sup><small>p. 345</small></sup>]</span>
+<span id="p345"><sup><small>[ p. 345 ]</small></sup></span>
 
 Si l'on frotte un âne avec de la sandale, il se roulera quand même dans la poussière.
 Nanak, en filant le mensonge, la toile du mensonge est tissée.
@@ -2371,7 +2371,7 @@ _Je dis_ : « Quand le soleil se lève, la lune n'est pas vue.
 Mais la lecture des Védas est une occupation profane.
 Sans comprendre cela, chacun sera déshonoré,
 
-<span id="p346">[<sup><small>p. 346</small></sup>]</span>
+<span id="p346"><sup><small>[ p. 346 ]</small></sup></span>
 
 « Nanak, l'homme qui écoute les instructions du gourou sera sauvé.
 « Ceux qui ne prennent pas plaisir à la Parole et qui n’aiment pas le nom de Dieu,
@@ -2399,7 +2399,7 @@ J'ai revêtu mon corps d'une robe de Qalandar, j'ai transformé mon cœur en tem
 Une seule parole demeure dans mon cœur, et je ne renaîtrai pas.
 Mon âme est transpercée par le Miséricordieux ; ô ma mère,
 
-<span id="p347">[<sup><small>p. 347</small></sup>]</span>
+<span id="p347"><sup><small>[ p. 347 ]</small></sup></span>
 
 Qui connaît la douleur d’autrui ?
 Je ne pense à personne d’autre qu’à Dieu.
@@ -2428,7 +2428,7 @@ La dévotion sincère est supérieure à toutes les offrandes et ablutions :
 Le dixième jour du mois lunaire, répétez le Nom comme offrandes et ablutions.
 Nuit et jour, plongez-vous dans les attributs et la connaissance du Vrai.
 
-<span id="p348">[<sup><small>p. 348</small></sup>]</span>
+<span id="p348"><sup><small>[ p. 348 ]</small></sup></span>
 
 Lorsque les doutes et les peurs auront disparu, l’impureté ne s’attachera plus au cœur véritable.
 Un cordon fragile va bientôt se rompre
@@ -2453,7 +2453,7 @@ Nanak signifie que si tu donnes ton nom, cela m'aidera à la dernière heure.
 
 Après la mort d'un hindou, une lampe est maintenue allumée pendant plusieurs jours pour éclairer l'âme du défunt vers l'au-delà. Elle est ensuite mise à flotter sur l'eau. Guru Nanak prononce l'homélie suivante sur cette coutume :
 
-<span id="p349">[<sup><small>p. 349</small></sup>]</span>
+<span id="p349"><sup><small>[ p. 349 ]</small></sup></span>
 
 Adorez Dieu[^1] de la manière suivante :
 Fais de ton corps un radeau[^2] sur lequel tu pourras traverser.
@@ -2485,7 +2485,7 @@ Un homme rare obtient le service de Dieu grâce à l’enseignement du gourou.
 Le Jogi qui connaît le chemin habite dans une maison paisible.
 Celui qui se satisfait de l’aumône de l’amour et de la Parole regarde tous les hommes d’un œil égal.
 
-<span id="p350">[<sup><small>p. 350</small></sup>]</span>
+<span id="p350"><sup><small>[ p. 350 ]</small></sup></span>
 
 Les cinq bœufs[^1] tirent le transport du corps :
 Tout va bien grâce à l'ingéniosité de Dieu.
@@ -2512,7 +2512,7 @@ On raconte que Guru Nanak, lors de son excursion dans l'Himalaya, rencontra un J
 Ô Jogi, tu construis une hutte et tu prêches au monde
 Si, abandonnant tes attitudes dévotionnelles, tu mendies de porte en porte, comment obtiendras-tu le Vrai ?
 
-<span id="p351">[<sup><small>p. 351</small></sup>]</span>
+<span id="p351"><sup><small>[ p. 351 ]</small></sup></span>
 
 Tu aimes Mammon et la femme,
 Et je n'es ni un anachorète ni un homme du monde.
@@ -2539,7 +2539,7 @@ Sans la plus haute connaissance divine, il n’y a pas d’émancipation.
 Tu es séduit par les plaisirs de la langue et des organes sensuels.
 Tu es devenu une bête, et sa marque ne sera pas effacée.
 
-<span id="p352">[<sup><small>p. 352</small></sup>]</span>
+<span id="p352"><sup><small>[ p. 352 ]</small></sup></span>
 
 Il existe trois classes de personnes et trois classes de Jog.[^1]
 Celui qui médite la Parole n’aura pas besoin de deuil.
@@ -2570,7 +2570,7 @@ En faisant des calculs tels que ton doute et ta tristesse entrent dans ton espri
 Mais lorsque la protection du Guru est recherchée, le bonheur en résulte.
 Ayant péché, nous venons à lui pour être protégés.
 
-<span id="p353">[<sup><small>p. 353</small></sup>]</span>
+<span id="p353"><sup><small>[ p. 353 ]</small></sup></span>
 
 Selon les actes de l'homme dans un état antérieur, le Guru le fait rencontrer Dieu.
 Dieu ne peut être obtenu que si l’homme entre dans la protection du Guru ;
@@ -2597,7 +2597,7 @@ Ta souffrance sera telle que tu en seras ravi ; par l'oubli du Nom, tu tomberas 
 Tu es fier en contemplant ta beauté et ta richesse.
 Tu as étendu ton amour à l'or et à la femme ; pourquoi as-tu oublié le Nom et t'es-tu égaré ?
 
-<span id="p354">[<sup><small>p. 354</small></sup>]</span>
+<span id="p354"><sup><small>[ p. 354 ]</small></sup></span>
 
 N'ayant pas pratiqué la continence, la vérité, la maîtrise de soi ou la vertu, tu souffriras dans le squelette d'un fantôme.
 Les aumônes, les ablutions et les austérités ne servent à rien sans l'association avec les saints, tu es né en vain.
@@ -2617,7 +2617,7 @@ Tu pleures les morts ; qui entend tes pleurs ?
 Celui pour qui tu pleures aurait pu tomber aux mains du dragon dans la mer de terreur.
 L'infidèle, voyant sa famille, ses richesses, ses maisons et ses demeures, tombe dans des enchevêtrements inutiles.
 
-<span id="p355">[<sup><small>p. 355</small></sup>]</span>
+<span id="p355"><sup><small>[ p. 355 ]</small></sup></span>
 
 L'homme vient quand Dieu l'envoie, et il s'en va quand Dieu l'appelle.
 Dieu continue à faire ce qui est convenable ; celui qui pardonne pardonne.
@@ -2645,7 +2645,7 @@ Ce qui suit est une satire des hommes qui se disaient religieux de l’époque :
 
 Ceux qui se disent vertueux commettent le péché et prétendent faire le bien.
 
-<span id="p356">[<sup><small>p. 356</small></sup>]</span>
+<span id="p356"><sup><small>[ p. 356 ]</small></sup></span>
 
 Les gourous se rendent dans des maisons privées pour dispenser des instructions.
 Une femme aime un homme pour l’argent qu’il gagne pour elle ;
@@ -2682,7 +2682,7 @@ Et c'est pour cela qu'il leur mit des anneaux aux oreilles et qu'il devint ses d
 Avec des boucles d'oreilles, ils errent à travers le monde,
 Alors que le Créateur _qu’ils prétendent chercher_ est partout.
 
-<span id="p357">[<sup><small>p. 357</small></sup>]</span>
+<span id="p357"><sup><small>[ p. 357 ]</small></sup></span>
 
 Toutes les âmes sont des voyageurs :
 Lorsque l’arrêt de mort viendra contre eux, il ne faudra pas tarder.
@@ -2739,7 +2739,7 @@ Aveugle et dépourvu de honte, il mendie de maison en maison et prêche au monde
 Egaré par la superstition, il ne connaît pas la Parole et perd la partie.
 Le feu qui est en lui ne s'éteint pas sans le Guru, mais il se réchauffe aussi avec des feux extérieurs[^1].
 
-<span id="p359">[<sup><small>p. 359</small></sup>]</span>
+<span id="p359"><sup><small>[ p. 359 ]</small></sup></span>
 
 Il n’y a pas d’adoration sans servir le Guru ; comment l’homme peut-il par lui-même reconnaître Dieu ?
 Celui qui calomnie les autres demeurera en enfer et sera séparé de l’Esprit suprême.
@@ -2759,7 +2759,7 @@ Avec du poison dans le cœur, il prétend qu'il n'a aucun doute, mais la mort le
 Celui qui sert le Vrai Guru et élimine l’orgueil de son cœur est un vrai Sanyasi ;
 Il ne désire ni vêtements ni nourriture, mais prend ce qu'on lui offre librement ;
 
-<span id="p360">[<sup><small>p. 360</small></sup>]</span>
+<span id="p360"><sup><small>[ p. 360 ]</small></sup></span>
 
 Il ne bavarde pas, il amasse les richesses de la patience et il dompte ses passions par le nom de Dieu.
 Que Dieu bénisse cet homme qui, qu'il soit chef de famille, Sanyasi ou Jogi, fixe son attention sur les pieds de Dieu.
@@ -2782,7 +2782,7 @@ Séparé comme je le suis de mon Bien-Aimé dans la maison de mon père, comment
 Je porte des démérites autour de mon cou ; je suis ruiné sans le Bien-Aimé ; je me languis jusqu'à la mort.
 Si dans la maison de mon père je me souviens du Bien-aimé, je trouverai une demeure dans la sienne.
 
-<span id="p361">[<sup><small>p. 361</small></sup>]</span>
+<span id="p361"><sup><small>[ p. 361 ]</small></sup></span>
 
 L'épouse qui a trouvé son Bien-Aimé, le Seigneur des excellences, dort en paix.
 Elle fait une couverture de soie et un matelas pour son lit, et se pare d'une robe somptueuse.
@@ -2806,7 +2806,7 @@ Tantes paternelles et maternelles, grands-mères et épouses des frères cadets 
 Ils vont et viennent, ils ne s'attardent pas mais s'éloignent comme des relais de passagers.
 Les oncles maternels et leurs épouses, frères, pères et mères ne demeurent pas.
 
-<span id="p362">[<sup><small>p. 362</small></sup>]</span>
+<span id="p362"><sup><small>[ p. 362 ]</small></sup></span>
 
 Réunis en grande foule au bord du fleuve, ils partent avec leurs bagages comme des voyageurs.
 Ô mes compagnons, mon Mari est teint de la vraie couleur.
@@ -2838,7 +2838,7 @@ Les louanges de Dieu sont des perles, des pierres précieuses et des diamants ; 
 
 [^1]: _Deh_ dans l'original, prononcé exactement comme son équivalent anglais.
 
-<span id="p363">[<sup><small>p. 363</small></sup>]</span>
+<span id="p363"><sup><small>[ p. 363 ]</small></sup></span>
 
 Dieu est inaccessible, insondable, totalement distinct de sa création.
 Le grand Soutien de la terre n’a pas de fin.
@@ -2865,7 +2865,7 @@ Le chemin est très étroit comme le tranchant d'une épée.
 On rendra compte à l'homme, et il sera pressé comme le sésame.
 Là, aucune mère, aucun père, aucune épouse ou aucun fils ne t'aidera sans amour pour Dieu, il n'y a pas d'émancipation.
 
-<span id="p364">[<sup><small>p. 364</small></sup>]</span>
+<span id="p364"><sup><small>[ p. 364 ]</small></sup></span>
 
 Aussi nombreux que soient nos amis et nos compagnons dans le monde,
 Il n’y a pas de _vrais amis_ à part le gourou et Dieu.
@@ -2896,7 +2896,7 @@ Qui soutient soigneusement le globe de la terre.
 Le Créateur contemple l’œuvre de ses mains ; vrai et indépendant,
 Il a créé les différentes espèces d’animaux.
 
-<span id="p365">[<sup><small>p. 365</small></sup>]</span>
+<span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
 Deux voyageurs[^1] ont tracé deux routes.
 Il n’y a pas d’émancipation sans le Guru parfait ; il est profitable de répéter le vrai Nom.
@@ -2923,7 +2923,7 @@ Bons sont ceux qui pratiquent la vérité
 Grâce à la sagesse du gourou, ils obtiennent la vraie marchandise.
 Celui qui possède la richesse de la vraie marchandise est ravi de la vraie Parole.
 
-<span id="p366">[<sup><small>p. 366</small></sup>]</span>
+<span id="p366"><sup><small>[ p. 366 ]</small></sup></span>
 
 Les pertes résultent de transactions frauduleuses.
 Les pieux accomplissent leurs actes selon la volonté de Dieu.
@@ -2947,7 +2947,7 @@ Beaucoup décrivent tes attributs, ô Seigneur ; à quoi me sert de parler ?
 Le plus grand des grands ne trouve pas Ta limite.
 Nanak, puis-je obtenir la vérité ! Préserve mon honneur, ô Seigneur ; Tu es le Monarque des monarques !
 
-<span id="p367">[<sup><small>p. 367</small></sup>]</span>
+<span id="p367"><sup><small>[ p. 367 ]</small></sup></span>
 
 On dit que ce qui suit est une instruction donnée à Taru et Bharu pendant la foire de Baisakhi à Kartarpur :
 
@@ -2975,7 +2975,7 @@ Si Dieu est satisfait, Il nous fera rencontrer le vrai Guru et sauvera le monde 
 Les myrmidons de la Mort et la Mort elle-même adorent les pieds de ceux-là
 Qui répètent le nom de Dieu sous l’enseignement et les directives du gourou.
 
-<span id="p368">[<sup><small>p. 368</small></sup>]</span>
+<span id="p368"><sup><small>[ p. 368 ]</small></sup></span>
 
 L'état et la condition de l'homme s'exaltent grâce à une compagnie exaltée, et il traverse le terrible océan du monde.
 Ce monde qui est un océan terrible, est traversé par l'instruction du Guru
@@ -3000,7 +3000,7 @@ Celui qui sait que Dieu est avec lui, que ce soit à la maison ou à l’étrang
 Qui reste attaché au monde et ramène à la maison son esprit vagabond,
 Tu obtiendras, ô Nanak, l'essence ambroisiale du Vrai qui demeure dans les trois mondes et qui était avant toutes choses.
 
-<span id="p369">[<sup><small>p. 369</small></sup>]</span>
+<span id="p369"><sup><small>[ p. 369 ]</small></sup></span>
 
 ## MARU KI WAR I
 
@@ -3029,7 +3029,7 @@ Là où est l'homme, tu n'es pas fier ; là où tu es, il n'y a pas d'orgueil.
 Ô hommes de connaissance divine, comprenez cette énigme : l'histoire de l'Ineffable est dans le cœur,
 Mais sans le Guru, la Vraie Chose ne peut être trouvée, elle est cachée bien qu'elle réside dans chaque cœur,
 
-<span id="p370">[<sup><small>p. 370</small></sup>]</span>
+<span id="p370"><sup><small>[ p. 370 ]</small></sup></span>
 
 On connaît Dieu en rencontrant le vrai gourou et en implantant ses instructions dans le cœur.
 Lorsque l’orgueil s’en va, le doute, la peur et la douleur de la transmigration s’en vont.
@@ -3053,7 +3053,7 @@ Mais il ne sera pas satisfait sans le nom de Dieu ; c'est sous la pression des a
 Toi, ô Dieu, tu es présent dans toutes les créatures qui sont dans l’eau, sur la terre ferme, dans les régions inférieures et dans le firmament.
 Par la faveur du Guru, préserve ton serviteur ; Nanak, remuant l'élixir de Dieu, l'a bu.
 
-<span id="p371">[<sup><small>p. 371</small></sup>]</span>
+<span id="p371"><sup><small>[ p. 371 ]</small></sup></span>
 
 ## RAG BASANT
 
@@ -3077,7 +3077,7 @@ Ce qui suit est une réfutation des idées générales indiennes sur le sujet de
 Il n’y a pas d’impureté dans les chansons,[^2] il n’y a pas d’impureté dans la connaissance ;[^3]
 Il n’y a aucune impureté dans les différentes phases de la lune ou du soleil ;
 
-<span id="p372">[<sup><small>p. 372</small></sup>]</span>
+<span id="p372"><sup><small>[ p. 372 ]</small></sup></span>
 
 Il n’y a pas d’impureté dans le maïs, il n’y a pas d’impureté dans les ablutions ;[^1]
 Il n’y a pas d’impureté dans la pluie qui tombe partout
@@ -3103,7 +3103,7 @@ Tu lui offres du kungu, des sandales et des fleurs
 Tu tombes à ses pieds et tu le propities au maximum
 C'est pourtant en mendiant continuellement auprès des hommes que tu te vêtis et que tu subviens à tes besoins.
 
-<span id="p373">[<sup><small>p. 373</small></sup>]</span>
+<span id="p373"><sup><small>[ p. 373 ]</small></sup></span>
 
 Car pour de telles actions insensées, tu recevras la punition des insensés.
 L'idole ne te donne pas de quoi manger quand tu as faim, et ne te préserve pas de la mort.
@@ -3134,7 +3134,7 @@ C'est par la sagesse qu'on adore le Seigneur ; c'est par la sagesse qu'on obtien
 C'est par la sagesse que l'on comprend ce qui est lu, c'est par la sagesse que l'on fait l'aumône comme il convient.
 Nanak dit : ce sont les voies de la sagesse, toutes les autres sont des voies de méchanceté.
 
-<span id="p374">[<sup><small>p. 374</small></sup>]</span>
+<span id="p374"><sup><small>[ p. 374 ]</small></sup></span>
 
 Les vertus et les pratiques les plus efficaces pour assurer la délivrance :
 
@@ -3164,7 +3164,7 @@ Le Dieu inaccessible et illimité habite dans le cœur de l’homme.
 Celui dont la conduite est conforme aux précieuses instructions du Guru obtiendra du nectar dans son propre cœur ;
 Et qui considère le malheur et le bien-être, le blâme et la louange du monde comme une seule et même chose.
 
-<span id="p375">[<sup><small>p. 375</small></sup>]</span>
+<span id="p375"><sup><small>[ p. 375 ]</small></sup></span>
 
 La sagesse, la connaissance et la compréhension s’obtiennent du nom de Dieu ; l’amour de Dieu s’obtient par l’association avec les saints.
 Jour et nuit, on obtient du profit grâce au nom de Dieu donné par le gourou bienfaisant.
@@ -3188,7 +3188,7 @@ Le poisson qui naît et vit dans l'eau obtient le bonheur et le malheur selon se
 Il ne peut vivre un instant sans eau ; sa mort ou sa vie en dépend.
 La femme est séparée de son Bien-Aimé qui vit à l’étranger ; elle lui envoie un message par l’intermédiaire du vrai Guru.
 
-<span id="p376">[<sup><small>p. 376</small></sup>]</span>
+<span id="p376"><sup><small>[ p. 376 ]</small></sup></span>
 
 Tous crient « Prio, prio ! », mais ils ne peuvent obtenir leur Bien-Aimé que si cela plaît au Guru.
 Le Bien-aimé est avec nous ; il s'associe toujours aux vrais ; il associe à lui-même ceux sur qui il porte un regard favorable.
@@ -3215,7 +3215,7 @@ Les voleurs, les adultères et les joueurs de hasard seront pressés comme le s�
 Les calomniateurs et les médisants seront emportés par le déluge.
 Les pieux qui sont absorbés dans le Vrai seront connus au tribunal de Dieu.
 
-<span id="p377">[<sup><small>p. 377</small></sup>]</span>
+<span id="p377"><sup><small>[ p. 377 ]</small></sup></span>
 
 Les avantages du monde détournent l’esprit des hommes de la dévotion :
 
@@ -3247,7 +3247,7 @@ Une satire sur les sectes et les ritualistes hindous :
 Les Jogis sont ruinés en douze sectes, les Sanyasis en dix.
 Les Jogis, les Kaprias et les Saravagis à tête pincée sans le Verbe ont des licols autour du cou.
 
-<span id="p378">[<sup><small>p. 378</small></sup>]</span>
+<span id="p378"><sup><small>[ p. 378 ]</small></sup></span>
 
 Ceux qui sont teintés par la Parole sont de parfaits Bairagis,
 Ceux qui demandent l'aumône dans la bourse de leur cœur afin que leur amour soit fixé sur Dieu seul.
@@ -3268,7 +3268,7 @@ L'insensé est souillé, et plus il se lave, plus il se souille ; la souillure d
 Tous les actes religieux sont vains, sauf la répétition du Nom ; ils sont comme des tours de prestidigitateur qui trompent les spectateurs.
 Les six devoirs religieux sont contenus dans le nom du Brillant.
 
-<span id="p379">[<sup><small>p. 379</small></sup>]</span>
+<span id="p379"><sup><small>[ p. 379 ]</small></sup></span>
 
 Tu es, ô Dieu, un océan de mérites ; en moi il y a des démérites.
 La poursuite des choses du monde est un acte insensé et pécheur.

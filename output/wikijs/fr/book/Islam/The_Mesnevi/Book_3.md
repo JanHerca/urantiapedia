@@ -32,7 +32,7 @@ dateCreated: 2024-11-16T19:16:5Z
   </table>
 </figure>
 
-<span id="p25">[<sup><small>p. 25</small></sup>]</span>
+<span id="p25"><sup><small>[ p. 25 ]</small></sup></span>
 
 ## III. Le roi juif, persécuteur des chrétiens.[^79]
 
@@ -55,7 +55,7 @@ Le maître répliqua rapidement : « Regardez maintenant ; cassez-en un ; halte 
 Dès que l'un était cassé, les deux disparaissaient de la vue.
 Le pauvre louche a presque perdu la raison dans une peur enfantine.
 
-<span id="p26">[<sup><small>p. 26</small></sup>]</span>
+<span id="p26"><sup><small>[ p. 26 ]</small></sup></span>
 
 Il n'y en avait qu'un ; ses yeux étaient faits pour qu'il en voie deux.
 L'un parti, l'autre par conséquent était parti aussi.
@@ -91,7 +91,7 @@ Alors, qu'un intercesseur plaide, un prince, votre reine.
 Que tout cela se produise dans un lieu public spacieux
 Que tout le monde voie, afin que tous sachent quelle est ma disgrâce.
 
-<span id="p27">[<sup><small>p. 27</small></sup>]</span>
+<span id="p27"><sup><small>[ p. 27 ]</small></sup></span>
 
 Alors chasse-moi, envoie-moi loin de toi en exil ;
 Et ils me recevront, sous prétexte de tristesse.
@@ -125,7 +125,7 @@ Prenez sa doctrine à cœur ; vous n'avez rien d'autre à craindre.
 Le vazir ayant exposé ce complot au roi,
 Toute honte et tout scrupule disparurent ; c’était une chose parfaite.
 
-<span id="p28">[<sup><small>p. 28</small></sup>]</span>
+<span id="p28"><sup><small>[ p. 28 ]</small></sup></span>
 
 En présence du public, le nez, les oreilles ont été coupés.
 La populace s'étonnait grandement ; maintenant c'est le moment de se moquer.
@@ -162,7 +162,7 @@ Comme les faucons et les aigles, les péchés odieux font de nous leur proie.
 Tu nous protèges, ô Dieu gracieux ! Mais toujours,
 Avec des cœurs et des esprits pervers, nous contrecarrons Ta volonté.
 
-<span id="p29">[<sup><small>p. 29</small></sup>]</span>
+<span id="p29"><sup><small>[ p. 29 ]</small></sup></span>
 
 Ce monde est un grenier dont nous volons le maïs.
 <sup id="v55"><small>55</small></sup> Le blé est là tout amassé ; nous le gâtons dans le mépris.
@@ -198,7 +198,7 @@ Errer.Juge et jugement, alors, il ne voit pas.
 La nuit, le prisonnier perd le sens des barreaux, des chaînes ;
 La nuit le monarque ne connaît aucun état, aucune pompe ne se conserve ;
 
-<span id="p30">[<sup><small>p. 30</small></sup>]</span>
+<span id="p30"><sup><small>[ p. 30 ]</small></sup></span>
 
 Le marchand ne compte plus, dans son sommeil, ses gains et ses pertes ;
 <sup id="v70"><small>70</small></sup> Le prince et le paysan, égaux, se balancent sur leurs divans.
@@ -230,7 +230,7 @@ Atteste la vérité : « Le sommeil est le frère de la mort »[^89] pour tous l
 Mais de peur qu'il ne s'échappe et ne revienne pas à l'appel,
 Une attache y est attachée ; elle n'est pas tout à fait libre pour autant.
 
-<span id="p31">[<sup><small>p. 31</small></sup>]</span>
+<span id="p31"><sup><small>[ p. 31 ]</small></sup></span>
 
 Il doit revenir dans la journée après avoir erré où il veut,
 Les soucis de la vie à porter ; un fardeau qui tue bientôt.
@@ -262,7 +262,7 @@ Qui mendie la fantaisie, parlemente même avec elle. Pish !
 Il voit un démon dans son sommeil ; un ange le devine.[^92]
 <sup id="v95"><small>95</small></sup> Par la luxure, il s'évanouit de plaisir sensuel alors qu'il rêve.
 
-<span id="p32">[<sup><small>p. 32</small></sup>]</span>
+<span id="p32"><sup><small>[ p. 32 ]</small></sup></span>
 
 Il sème sa semence dans les terres sablonneuses, salées et désertiques ;
 Et se réveille pour ne trouver aucune récolte mûre sous sa main.
@@ -298,7 +298,7 @@ Renseignez-vous auprès de son ami et du mien, le grand Husāmu-’d-Dīn.[^96]
 En chemin, si l'envie te saisit à la gorge,
 <sup id="v110"><small>110</small></sup> Sachez que le péché de Satan était l'envie ; la méchanceté le faisait se réjouir.
 
-<span id="p33">[<sup><small>p. 33</small></sup>]</span>
+<span id="p33"><sup><small>[ p. 33 ]</small></sup></span>
 
 Il enviait l'ascension d'Adam vers un état aussi sublime.
 Il fait la guerre à tous ceux qui sont bons, par envie et par haine.
@@ -332,7 +332,7 @@ Abaisse-toi, sois leur champion, Amen.
 Ne soyez pas un coupe-gorge, comme ce Vazīr, de la foi des hommes ;
 <sup id="v125"><small>125</small></sup> Ne cherchez pas à détourner les âmes croyantes de ce que Dieu dit.
 
-<span id="p34">[<sup><small>p. 34</small></sup>]</span>
+<span id="p34"><sup><small>[ p. 34 ]</small></sup></span>
 
 Ce Vazīr semblait être un pasteur de la vérité, en apparence ;
 Comme quelqu'un qui a mélangé de l'aloès amer à de la confiture de prunes sucrées.
@@ -366,7 +366,7 @@ Mais ne vous aventurez pas trop près d'elle : le noir est son salut.
 L'éclair brille avec éclat, brillant en volant
 Mais souvent, hélas, l'homme est frappé d'aveuglement, ou il ment mort.
 
-<span id="p35">[<sup><small>p. 35</small></sup>]</span>
+<span id="p35"><sup><small>[ p. 35 ]</small></sup></span>
 
 Soyez sage à temps, car « celui qui est dépourvu de bon sens,
 Est comme le bœuf avec un joug sur le cou. » Ainsi ‘Alī,—Par conséquent !
@@ -403,7 +403,7 @@ Avec la pénitence, avec le jeûne fait, et la prière, pour s'affronter.
 Un deuxième enseignait que le jeûne ne servait à rien du tout ;
 Cette charité, cette bienfaisance, était tout en tout.
 
-<span id="p36">[<sup><small>p. 36</small></sup>]</span>
+<span id="p36"><sup><small>[ p. 36 ]</small></sup></span>
 
 Un troisième expliqua : « Ton jeûne, la charité elle-même,
 Le synthéisme[^101] c'est : Avec Dieu tu te déifies toi-même.
@@ -434,7 +434,7 @@ Renoncer. Le monde, et plus encore, tu en rêveras dans ta transe.
 Un dixième assure : « Ce que le Seigneur a donné à l'homme,
 Dieu a fait quelque chose de agréable aux yeux. Qui peut le nier ?
 
-<span id="p37">[<sup><small>p. 37</small></sup>]</span>
+<span id="p37"><sup><small>[ p. 37 ]</small></sup></span>
 
 Prends ce qui t'appartient. Ne t'en détourne pas, c'est encore de la folie
 Se mettre à gémir, à gémir, quand tout est à ta volonté.
@@ -471,7 +471,7 @@ Celui qui enseigne que deux existent, n'est qu'un louche, lui.
 Le dernier a dit : « Cent ne sont en réalité qu'un. »
 A moins d'être un fou, qui aurait pu faire triompher de telles doctrines ?
 
-<span id="p38">[<sup><small>p. 38</small></sup>]</span>
+<span id="p38"><sup><small>[ p. 38 ]</small></sup></span>
 
 En eux, ces paradoxes ont trouvé leur place à juste titre,
 <sup id="v185"><small>185</small></sup> En paroles et en sens, ses doctrines manquaient de toute prétention à la grâce.
@@ -539,7 +539,7 @@ Le Tout-Puissant, qui d’un souffle, d’un mot, a apporté
 Dix mille mondes, en outre, se dévoilent à la vue,
 Si tu diriges ta vision vers le Dieu de la Lumière.
 
-<span id="p40">[<sup><small>p. 40</small></sup>]</span>
+<span id="p40"><sup><small>[ p. 40 ]</small></sup></span>
 
 Aux yeux de l'homme, le monde est vaste, sans fin ;
 Avec Power Infinite comparé, un grain de sable.
@@ -571,7 +571,7 @@ Par Dieu, en guise de punition, l’étoile de Vénus fut changée.[^105]
 De femme à Vénus, bien sûr, ce changement était triste.
 Devenir poussière et cendres. Moins de honte à cela. L'art est fou ?
 
-<span id="p41">[<sup><small>p. 41</small></sup>]</span>
+<span id="p41"><sup><small>[ p. 41 ]</small></sup></span>
 
 C'est ton âme qui doit t'élever jusqu'à la plus haute demeure du ciel ;
 <sup id="v225"><small>225</small></sup> La chair ne peut que te consigner dans les profondeurs du dôme sombre de l'enfer.
@@ -606,7 +606,7 @@ Bien que je délire comme un sophiste, c'est vers Lui que je me tourne.
 Le Vazīr conçut ensuite un autre stratagème ;
 Il s'est retiré de la vie publique et a atteint la solitude.
 
-<span id="p42">[<sup><small>p. 42</small></sup>]</span>
+<span id="p42"><sup><small>[ p. 42 ]</small></sup></span>
 
 Ses disciples admiratifs étaient tous disposés à pleurer sa perte ;
 Pendant quarante jours et plus, en cellule, il a porté sa croix.
@@ -643,7 +643,7 @@ Que la miséricorde du ciel nous sauve, ou nous périssons, nous nous mettons en
 Il leur dit ainsi : « Ô hommes de peu de sens, prenez garde ;
 Vous cherchez bêtement ailleurs ce dont vous avez besoin.
 
-<span id="p43">[<sup><small>p. 43</small></sup>]</span>
+<span id="p43"><sup><small>[ p. 43 ]</small></sup></span>
 
 Vos oreilles se bouchent avec de la laine; n'écoutez pas les discours des hommes;
 <sup id="v255"><small>255</small></sup> La paille qui aveugle tes yeux est chassée. Alors, vois-tu, tu peux.
@@ -675,7 +675,7 @@ Mais la véritable sublimité est l'attribut de Dieu.Nous soupirons.
 La nourriture de chaque oiseau, Il la donne dans la providence
 Il dit que les figues seront dévorées dans ces dix jours.
 
-<span id="p44">[<sup><small>p. 44</small></sup>]</span>
+<span id="p44"><sup><small>[ p. 44 ]</small></sup></span>
 
 Qui donnerait, au lieu du lait maternel, aux nourrissons, du pain,
 Je les tuerais avec une nourriture inadéquate avant qu'ils ne se propagent.
@@ -710,7 +710,7 @@ Mais notre remontrance est un cri vraiment pitoyable.
 Nous pleurons nos yeux à cause de notre chagrin de ne pas te voir,
 Nos cœurs éclatent en soupirs, vainement en quête de toi.
 
-<span id="p45">[<sup><small>p. 45</small></sup>]</span>
+<span id="p45"><sup><small>[ p. 45 ]</small></sup></span>
 
 Un enfant ne se querelle pas avec sa nourrice attentive ;
 Et pourtant il pleure, car il ne sait pas distinguer le bien du pire.
@@ -745,7 +745,7 @@ Comme un bébé à naître dans le ventre de sa mère, jusqu'à ce que le temps 
 Avant que la puissance toute-puissante de la création ne se tienne en embuscade,
 Comme une toile devant l'aiguille, la main du brodeur peut s'accoupler.
 
-<span id="p46">[<sup><small>p. 46</small></sup>]</span>
+<span id="p46"><sup><small>[ p. 46 ]</small></sup></span>
 
 Un démon ici, un ange là, ou un homme, est commandé
 <sup id="v300"><small>300</small></sup> Être ; tantôt la joie, tantôt la tristesse, s'élèvent au milieu.
@@ -779,7 +779,7 @@ Je m'ensuivrai la justice, j'abjurerai toutes les transgressions.
 Par cela tu vois que la maladie n'est pas toujours un mal.
 C'est juste un temps pour réveiller la conscience et vouloir du bien.
 
-<span id="p47">[<sup><small>p. 47</small></sup>]</span>
+<span id="p47"><sup><small>[ p. 47 ]</small></sup></span>
 
 Sache donc l'aphorisme, ô chercheur de la vérité :
 <sup id="v315"><small>315</small></sup> Qui que tu sois, à qui son parfum peut donner pitié :
@@ -813,7 +813,7 @@ Ils choisissent les biens de la vie terrestre, qu'il en soit ainsi.
 Les prophètes sont de race céleste dérivant de la naissance ;
 Ils tendent vers le ciel avec cœur et âme alors qu'ils sont ici sur terre.
 
-<span id="p48">[<sup><small>p. 48</small></sup>]</span>
+<span id="p48"><sup><small>[ p. 48 ]</small></sup></span>
 
 « On ne finirait jamais de compter les branches de ce thème.
 <sup id="v330"><small>330</small></sup> Alors buvons encore à la source de notre vieille histoire.
@@ -851,7 +851,7 @@ C'est la doctrine pure de Jésus ; c'est de là que son Église est construite.
 Ainsi, un par un, leurs esprits se préparèrent à être chefs :
 <sup id="v345"><small>345</small></sup> « C’est toi l’élu ; tout autre serait un voleur. »
 
-<span id="p49">[<sup><small>p. 49</small></sup>]</span>
+<span id="p49"><sup><small>[ p. 49 ]</small></sup></span>
 
 Il les a nommés chacun successeur, et les a fait sentir ainsi.
 Tout ce qu'il a dit à l'un, il l'a révélé à chacun.
@@ -882,7 +882,7 @@ Celui qu'il avait nommé à sa place pour montrer leur chemin.
 Qui devons-nous reconnaître comme successeur de notre saint ?
 Entre les mains de qui confier la tâche de notre retenue ?
 
-<span id="p50">[<sup><small>p. 50</small></sup>]</span>
+<span id="p50"><sup><small>[ p. 50 ]</small></sup></span>
 
 Il était un soleil de lumière; son feu s'est transformé en fumée,
 Une bougie maintenant nous avons besoin pour éclairer notre obscurité.
@@ -918,7 +918,7 @@ Derrière elle se cache l'unité de Dieu, tes gains.
 Si tu ne tourmentes pas le corps, ne l'abaisse pas trop tôt,
 Tu détruiras la chair, mon ami, dans des flammes ardentes.
 
-<span id="p51">[<sup><small>p. 51</small></sup>]</span>
+<span id="p51"><sup><small>[ p. 51 ]</small></sup></span>
 
 C'est la chair qui se révèle au cœur humain ;
 La chair, c'est elle qui exige l'acuité de l'ascèse.
@@ -955,7 +955,7 @@ La succession du défunt Vazīr m'appartient aujourd'hui ! »[^113]
 Un deuxième capitaine surgit, comme en embuscade ;
 Il a contesté tous ces mots, et a ensuite fait valoir sa propre revendication.
 
-<span id="p52">[<sup><small>p. 52</small></sup>]</span>
+<span id="p52"><sup><small>[ p. 52 ]</small></sup></span>
 
 De son sein il sortit un autre rouleau,
 Et alors la colère du peuple s'enflamma, mais ne se calma pas de sitôt.
@@ -985,7 +985,7 @@ Préfère la compagnie de ceux qui recherchent l'esprit.
 Une vie sans âme ni esprit dans notre corps,
 Comme une épée de bois dans son fourreau, ce n'était qu'un nom insensé.
 
-<span id="p53">[<sup><small>p. 53</small></sup>]</span>
+<span id="p53"><sup><small>[ p. 53 ]</small></sup></span>
 
 Dans son fourreau, bien que conservé, il peut sembler de valeur ;
 Une fois tiré, il ne convient qu'aux allumettes, les hommes le jugeront,
@@ -1020,7 +1020,7 @@ L'esprit conduit toujours vers les repaires des saints hommes ;
 Prends garde, nourris ton âme avec l'amour de la terre sainte.
 Hâtez-vous, cherchez les moyens de la grâce auprès de celui qui a trouvé la grâce.
 
-<span id="p54">[<sup><small>p. 54</small></sup>]</span>
+<span id="p54"><sup><small>[ p. 54 ]</small></sup></span>
 
 Faites une pétition ! Saisissez-vous des pans des saints.
 À travers eux tu apprendras comment Dieu accorde sa faveur.

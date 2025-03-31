@@ -29,7 +29,7 @@ dateCreated: 2025-2-6T11:21:28Z
   </table>
 </figure>
 
-<span id="p323">[<sup><small>p. 323</small></sup>]</span>
+<span id="p323"><sup><small>[ p. 323 ]</small></sup></span>
 
 
 Ābhassara, le royaume céleste [291](133#p291)\-[292](135#p292)
@@ -198,7 +198,7 @@ Kora, le kshatriya [229](94#p229)
 
 Kosala [27](6#p27), [38](12#p38), [50](16#p50), [91](36#p91), [118](45#p118), [129](51#p129), [164](66#p164), [172](71#p172), [183](75#p183), [184](75#p184), [187](77#p187), [213](85#p213), [243](100#p243), [277](125#p277)
 
-<span id="p324">[<sup><small>p. 324</small></sup>]</span>
+<span id="p324"><sup><small>[ p. 324 ]</small></sup></span>
 
 Kosambi [47](15#p47), [206](80#p206)
 

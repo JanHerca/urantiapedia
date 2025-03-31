@@ -36,7 +36,7 @@ VINGT-TROISIÈME CONFÉRENCE [^312]. KÊ<i>S</i>I ET GAUTAMA.
 
 Il y avait une Gina, du nom de Pâr<i>s</i>va [^313], un Arhat, adoré par le peuple, qui était parfaitement éclairé et omniscient, un prophète de la Loi, et une Gina. (1)
 
-Et il y avait un disciple célèbre de cette Lumière du <span id="p120">[<sup><small>p. 120</small></sup>]</span> Monde, le jeune <i>S</i>rama<i>n</i>a Kê<i>s</i>i, qui maîtrisait parfaitement les sciences et la bonne conduite. (2)
+Et il y avait un disciple célèbre de cette Lumière du <span id="p120"><sup><small>[ p. 120 ]</small></sup></span> Monde, le jeune <i>S</i>rama<i>n</i>a Kê<i>s</i>i, qui maîtrisait parfaitement les sciences et la bonne conduite. (2)
 
 Il possédait la lumière de la connaissance de Sruta et d'Avadhi [^314], et était entouré d'une foule de disciples ; errant de village en village, il arriva dans la ville de Srâvastî. (3)
 
@@ -54,7 +54,7 @@ Le jeune <i>S</i>rama<i>n</i>a Kê<i>s</i>i et le célèbre Gautama y vivaient t
 
 Les élèves des deux, qui se contrôlaient, pratiquaient des austérités, possédaient des vertus et protégeaient leur Soi, firent la réflexion suivante : (10)
 
-<span id="p121">[<sup><small>p. 121</small></sup>]</span>
+<span id="p121"><sup><small>[ p. 121 ]</small></sup></span>
 
 « Notre Loi est-elle la bonne, ou l'autre Loi [^315] est-elle la bonne ? Notre conduite et nos doctrines sont-elles bonnes, ou l'autre ? »
 
@@ -74,7 +74,7 @@ Kêsi, le jeune Sramana et le célèbre Gautama, assis ensemble, brillaient d'un
 
 Là se rassemblèrent de nombreux hérétiques par curiosité, et des milliers de laïcs ; (19)
 
-Dieux, Dânavas, Gandharvas, Yakshas, ​​Râkshasas, <span id="p122">[<sup><small>p. 122</small></sup>]</span> et Kinnaras (s'y sont rassemblés), et là se sont également rassemblés des fantômes invisibles [^318]. (20)
+Dieux, Dânavas, Gandharvas, Yakshas, ​​Râkshasas, <span id="p122"><sup><small>[ p. 122 ]</small></sup></span> et Kinnaras (s'y sont rassemblés), et là se sont également rassemblés des fantômes invisibles [^318]. (20)
 
 Kêsi dit à Gautama : « Je voudrais te demander quelque chose, saint homme. » À ces paroles de Kêsi, Gautama répondit : « Monsieur, demande ce que tu veux. » Puis, avec sa permission, Kêsi s'adressa à Gautama : (21, 22)
 
@@ -86,7 +86,7 @@ Alors à ces paroles de Kêsi, Gautama répondit : « La sagesse reconnaît la v
 
 « Les premiers [^319] saints étaient simples mais lents à comprendre, les derniers saints prévaricateurs et lents à comprendre, ceux entre les deux simples et sages ; il y a donc deux formes de la Loi [^320]. (26)
 
-<span id="p123">[<sup><small>p. 123</small></sup>]</span>
+<span id="p123"><sup><small>[ p. 123 ]</small></sup></span>
 
 « Les premiers pouvaient difficilement comprendre les préceptes de la Loi, et les derniers pouvaient difficilement les observer, mais ceux qui étaient entre eux les comprenaient et les observaient facilement. » (27)
 
@@ -118,7 +118,7 @@ Kêsi dit à Gautama : « Qui appelles-tu ennemi ? » À ces paroles de Kêsi, G
 
 « Ayant coupé toutes les chaînes et les ayant détruites par les bons moyens, je me suis débarrassé de mes chaînes et je suis libéré, ô sage. » (41)
 
-Kêsi dit à Gautama : « Qu'appelles-tu des chaînes ? » <span id="p125">[<sup><small>p. 125</small></sup>]</span> À ces paroles de Kêsi, Gautama répondit : (42)
+Kêsi dit à Gautama : « Qu'appelles-tu des chaînes ? » <span id="p125"><sup><small>[ p. 125 ]</small></sup></span> À ces paroles de Kêsi, Gautama répondit : (42)
 
 « L’amour, la haine, etc., sont de lourdes chaînes, l’attachement est dangereux ; après les avoir régulièrement détruites, je vis à la hauteur des règles de conduite. » (43)
 
@@ -140,7 +140,7 @@ Kêsi dit à Gautama : « Comment appelles-tu cette plante ? » À ces paroles d
 
 Kêsi dit à Gautama : « Comment appelles-tu le feu ? » À ces paroles de Kêsi, Gautama répondit : (52)
 
-« Les passions sont le feu ; la connaissance, une vie vertueuse et les pénitences sont l’eau ; aspergé <span id="p126">[<sup><small>p. 126</small></sup>]</span> des gouttes de connaissance, le feu des passions s’éteint et ne me brûle pas. » (53)
+« Les passions sont le feu ; la connaissance, une vie vertueuse et les pénitences sont l’eau ; aspergé <span id="p126"><sup><small>[ p. 126 ]</small></sup></span> des gouttes de connaissance, le feu des passions s’éteint et ne me brûle pas. » (53)
 
 « Eh bien, Gautama, etc. (comme au verset 28). » (54)
 
@@ -166,7 +166,7 @@ Kêsi dit à Gautama : « Comment appelles-tu le chemin ? » À ces paroles de K
 
 « Existe-t-il un abri, un refuge, une terre ferme pour les êtres emportés par le grand déluge ? Connais-tu l'île, ô Gautama ? » (65)
 
-<span id="p127">[<sup><small>p. 127</small></sup>]</span>
+<span id="p127"><sup><small>[ p. 127 ]</small></sup></span>
 
 « Il y a une grande île au milieu de l'eau, qui n'est pas inondée par le grand déluge. » (66)
 
@@ -212,7 +212,7 @@ Après que son doute eut été résolu, Kêsi, d'une immense sainteté, inclina 
 
 Et dans l'agréable (parc de Tinduka), il adopta sincèrement la Loi des cinq vœux, qui fut proclamée par le premier Tîrthakara, selon l'enseignement du dernier Tîrthakara. (87)
 
-<span id="p129">[<sup><small>p. 129</small></sup>]</span>
+<span id="p129"><sup><small>[ p. 129 ]</small></sup></span>
 
 Lors de cette rencontre entre Kêsi et Gautama, la connaissance et la conduite vertueuse furent à jamais mises en avant, et des sujets de la plus haute importance furent réglés. (88)
 

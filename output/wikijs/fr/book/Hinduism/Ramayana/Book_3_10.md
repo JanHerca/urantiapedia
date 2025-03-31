@@ -79,7 +79,7 @@ Cette maison d'ermite et cette ombre tranquille,
 Il a lâché sa puissante corde d'arc, puis
 Je me suis rapproché des saints hommes.
 
-<span id="p230">[<sup><small>p. 230</small></sup>]</span>
+<span id="p230"><sup><small>[ p. 230 ]</small></sup></span>
 
 Doté d'une vue céleste perçante
 Ces puissants saints que le chef a vus,
@@ -196,7 +196,7 @@ Mes lèvres boiront dans la bataille.
 Il parla : et l'enfant malheureux de Janak,
 Effrayé par son discours si féroce et sauvage,
 
-<span id="p231">[<sup><small>p. 231</small></sup>]</span>
+<span id="p231"><sup><small>[ p. 231 ]</small></sup></span>
 
 Tremblait de terreur, comme un fragile
 Le jeune plantain frissonne dans la rafale.
@@ -323,7 +323,7 @@ Il se leva et se précipita sur le couple.
 De l'arc de Rama volèrent deux flèches
 Et fend cette lance massive en deux,
 
-<span id="p232">[<sup><small>p. 232</small></sup>]</span>
+<span id="p232"><sup><small>[ p. 232 ]</small></sup></span>
 
 Aussi terrible que le Levin enflammé envoyé
 Du firmament nuageux.
@@ -443,7 +443,7 @@ Maintenant, grâce à ta faveur, je suis libéré
 Du destin sévère que Dieu a décrété,
 Et sauvé, ô dompteur de l'ennemi,
 
-<span id="p233">[<sup><small>p. 233</small></sup>]</span>
+<span id="p233"><sup><small>[ p. 233 ]</small></sup></span>
 
 Par toi, je retournerai au ciel.
 Une lieue, ô Prince, au-delà de cet endroit
@@ -561,7 +561,7 @@ Comme Indra conversait avec le sage.
 Alors Ráma, lorsque ses yeux émerveillés
 Contempla le monarque des cieux,
 
-<span id="p234">[<sup><small>p. 234</small></sup>]</span>
+<span id="p234"><sup><small>[ p. 234 ]</small></sup></span>
 
 Lakshman a rapidement appelé et montré
 La voiture dans laquelle le Seigneur Indra voyageait :
@@ -676,7 +676,7 @@ Qui nourrit la flamme inextinguible, [^414] il s'est levé :
 Il passa au-delà du siège des dieux,
 Et la sphère de Brahma fut enfin conquise.
 
-<span id="p235">[<sup><small>p. 235</small></sup>]</span>
+<span id="p235"><sup><small>[ p. 235 ]</small></sup></span>
 
 Le plus noble de la race des deux fois nés,
 Pour les œuvres saintes suprêmes en place,
@@ -783,7 +783,7 @@ J'attends vos demandes à tous.
 J'ai, par ma propre occasion, conduit
 Cette puissante forêt doit être foulée,
 
-<span id="p236">[<sup><small>p. 236</small></sup>]</span>
+<span id="p236"><sup><small>[ p. 236 ]</small></sup></span>
 
 Et pendant que je garde le décret de mon père
 Vos vies seront libérées des ennemis menaçants.
@@ -897,7 +897,7 @@ J'ai accompli chaque rite coutumier,
 Et chercha son logement pour la nuit,
 Avec Sítá et son frère couché
 
-<span id="p237">[<sup><small>p. 237</small></sup>]</span>
+<span id="p237"><sup><small>[ p. 237 ]</small></sup></span>
 
 Sous l'ombre délicieuse du bosquet,
 Premier bon Sútíkshnu, quand il vit
@@ -1019,7 +1019,7 @@ N'a jamais été trouvé, ne sera jamais vu :
 La seule pensée, mon princier seigneur,
 Est dans le secret de ton âme abhorré.
 
-<span id="p238">[<sup><small>p. 238</small></sup>]</span>
+<span id="p238"><sup><small>[ p. 238 ]</small></sup></span>
 
 Car tu as toujours été le même
 Amant affectueux de ta chère dame,
@@ -1133,7 +1133,7 @@ Maintenant, prends conseil avec ton frère,
 Réfléchis, fais ton choix avec jugement,
 Et fais ce qui te semble le mieux.'
 
-<span id="p239">[<sup><small>p. 239</small></sup>]</span>
+<span id="p239"><sup><small>[ p. 239 ]</small></sup></span>
 
 
 

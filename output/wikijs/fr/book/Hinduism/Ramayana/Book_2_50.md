@@ -69,7 +69,7 @@ Une épaisse obscurité s'étendait sur le soleil.
 Les vaches ont refusé leurs veaux assoiffés,
 Et les éléphants jetaient leur nourriture de côté.
 
-<span id="p144">[<sup><small>p. 144</small></sup>]</span>
+<span id="p144"><sup><small>[ p. 144 ]</small></sup></span>
 
 Tris'anku, [1](Book_2_50#fn315) Jupiter avait l'air effrayé,
 Et Mercure et Mars le rouge,
@@ -187,7 +187,7 @@ Réveillé de son lit, bien que seigneur de tous,
 Comme un esclave sans amis.
 Le cher enfant de Janak qui n'a jamais rencontré
 
-<span id="p145">[<sup><small>p. 145</small></sup>]</span>
+<span id="p145"><sup><small>[ p. 145 ]</small></sup></span>
 
 Avec rien d’autre que de la joie et du réconfort,
 Atteindra aujourd'hui la forêt, usé
@@ -310,7 +310,7 @@ Sur mes fils qui domptent l'ennemi ?
 Quand avec joie les jeunes groupes
 Des jeunes filles brahmanes dans leurs mains
 
-<span id="p146">[<sup><small>p. 146</small></sup>]</span>
+<span id="p146"><sup><small>[ p. 146 ]</small></sup></span>
 
 Portez des fruits et des fleurs en belle présentation,
 Et faire le tour d'Ayodhya ?
@@ -433,7 +433,7 @@ Ce chagrin amer à nourrir maintenant ?
 Alors que les longues rangées de nuages ​​se distillent
 Leur eau quand ils voient la colline,
 
-<span id="p147">[<sup><small>p. 147</small></sup>]</span>
+<span id="p147"><sup><small>[ p. 147 ]</small></sup></span>
 
 Ainsi couleront les gouttes de ravissement
 De tes yeux joyeux de voir ton fils
@@ -553,7 +553,7 @@ La tradition des Védas, la richesse que nous apprécions,
 Là, comme des épouses à la maison, elles demeureront encore,
 Dont l'amour et la vérité les protègent bien.
 
-<span id="p148">[<sup><small>p. 148</small></sup>]</span>
+<span id="p148"><sup><small>[ p. 148 ]</small></sup></span>
 
 Nos cœurs sont disposés à te suivre ;
 Nous n’avons pas besoin de planifier ou d’argumenter.
@@ -680,7 +680,7 @@ Tous les soins de la maison et du foyer ont été abandonnés,
 Prendre soin de nous avec cœur et esprit,
 Ces gens de la ville aspirent
 
-<span id="p149">[<sup><small>p. 149</small></sup>]</span>
+<span id="p149"><sup><small>[ p. 149 ]</small></sup></span>
 
 Pour nous voir revenir à notre domicile :
 Ils consentiront à quitter leur vie,
@@ -797,7 +797,7 @@ Quelles traces de son char montraient,
 Mais quand enfin ces traces disparurent,
 Un profond désespoir assaillit leurs cœurs.
 
-<span id="p150">[<sup><small>p. 150</small></sup>]</span>
+<span id="p150"><sup><small>[ p. 150 ]</small></sup></span>
 
 Les marques du char ne sont plus discernées,
 Les sages désespérés se sont retournés vers l'arrière :
@@ -919,7 +919,7 @@ La terre sans défense, sans seigneur, sans Dieu,
 Maudit pour la culpabilité de Kaikeyí tombera,
 Et une destruction rapide s'empare de tout.
 
-<span id="p151">[<sup><small>p. 151</small></sup>]</span>
+<span id="p151"><sup><small>[ p. 151 ]</small></sup></span>
 
 Car, Rama fut contraint de quitter sa maison pour fuir,
 Le roi son père mourra sûrement,
@@ -1043,7 +1043,7 @@ Tes tours bien-aimées reverront,
 Et, venant de ma retraite sauvage,
 Ma mère et mon père se rencontrent.
 
-<span id="p152">[<sup><small>p. 152</small></sup>]</span>
+<span id="p152"><sup><small>[ p. 152 ]</small></sup></span>
 
 Alors une douleur brûlante enflamma son œil,
 Tandis qu'il levait haut son bras droit,
@@ -1169,7 +1169,7 @@ Tiré du ruisseau par la main de Lakshman.
 Et Lakshman rencontre avec observance
 Il a baigné les pieds de son frère bien-aimé,
 
-<span id="p153">[<sup><small>p. 153</small></sup>]</span>
+<span id="p153"><sup><small>[ p. 153 ]</small></sup></span>
 
 Qui reposait avec son épouse Maithil :
 Puis il s'assit sous des branches lointaines.

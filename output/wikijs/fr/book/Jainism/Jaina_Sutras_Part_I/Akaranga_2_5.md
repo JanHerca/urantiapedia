@@ -32,7 +32,7 @@ dateCreated: 2025-1-12T19:28:7Z
   </table>
 </figure>
 
-<span id="p157">[<sup><small>p. 157</small></sup>]</span>
+<span id="p157"><sup><small>[ p. 157 ]</small></sup></span>
 
 CINQUIÈME LEÇON, INTIMÉ LA MENDIÉTÉ DES VÊTEMENTS [^422].
 
@@ -42,7 +42,7 @@ Un moine ou une nonne désirant se vêtir peut demander du tissu de laine, de so
 
 Un moine ou une nonne ne devrait pas se résoudre à faire plus d'un demi-yoga pour se vêtir. Concernant l'acceptation des vêtements, les préceptes donnés dans la première leçon de la première conférence, intitulée « La mendicité » [^424], concernant un compagnon ascète, doivent être répétés ici ; il en va de même pour plusieurs compagnons ascètes, une compagne ascète, plusieurs compagnes ascètes, plusieurs sramanas et brâhmaas ; et également concernant les vêtements appropriés par une autre personne [^425]. (2)
 
-Un moine ou une nonne ne doit pas accepter les vêtements que le laïc, pour le bien du mendiant, a achetés, <span id="p158">[<sup><small>p. 158</small></sup>]</span> lavés, teints, brossés, frottés, nettoyés, parfumés, si ces vêtements sont appropriés par le donateur lui-même. Mais s'ils sont appropriés par une autre personne, ils peuvent les accepter, car ils sont purs et acceptables. (3)
+Un moine ou une nonne ne doit pas accepter les vêtements que le laïc, pour le bien du mendiant, a achetés, <span id="p158"><sup><small>[ p. 158 ]</small></sup></span> lavés, teints, brossés, frottés, nettoyés, parfumés, si ces vêtements sont appropriés par le donateur lui-même. Mais s'ils sont appropriés par une autre personne, ils peuvent les accepter, car ils sont purs et acceptables. (3)
 
 Un moine ou une nonne ne doit pas accepter de vêtements très coûteux de la description suivante : vêtements en fourrure, fins, beaux ; vêtements en poils de chèvre, en coton bleu, en coton commun, en coton du Bengale, en Pa<i>t</i><i>t</i>a, en fibres de Malaisie, en fibres d'écorce, en mousseline, en soie ; (vêtements appelés provincialement) Desaraga, Amila, Ga<i>g</i><i>g</i>ala, Phâliya, Kâyaha ; couvertures ou manteaux. (4)
 
@@ -58,7 +58,7 @@ C'est la première règle. (6)
 
 Suit maintenant la deuxième règle :
 
-<span id="p159">[<sup><small>p. 159</small></sup>]</span>
+<span id="p159"><sup><small>[ p. 159 ]</small></sup></span>
 
 Un moine ou une nonne peut demander des vêtements soigneusement inspectés au maître de maison ou à sa femme, etc. Après réflexion, ils doivent dire : « Ô toi qui vis longtemps ! (ou, ô sœur !) donne-moi, s’il te plaît, un de ces vêtements ! » S’ils les demandent, ou si le maître de maison les leur donne, ils peuvent les accepter, car ils sont purs et acceptables.
 
@@ -96,7 +96,7 @@ Le maître de maison peut dire (à un autre de ses proches) : « Ô toi qui vis 
 
 Le mendiant devrait renvoyer la même réponse que ci-dessus (au §11) et ne pas accepter de tels vêtements. (12)
 
-Le maître de maison peut dire (à un autre de ses <span id="p161">[<sup><small>p. 161</small></sup>]</span>) : « Ô toi qui vis longtemps ! (ou, ô sœur !) apporte ce tissu, vide-le des bulbes, etc. (voir II, 2, 1, § 5) ; nous le donnerons au <i>S</i>rama<i>n</i>a. » Entendant et percevant de tels propos, le mendiant devrait dire, après réflexion : « Ô toi qui vis longtemps ! (ou, ô sœur !) ne vide pas ce tissu des bulbes, etc. ; il ne convient pas que j'accepte de tels vêtements. » Après ces paroles, le maître de maison pourrait néanmoins emporter les bulbes, etc., et lui offrir le tissu ; mais il ne devrait pas l'accepter, car il est impur et inacceptable. (13)
+Le maître de maison peut dire (à un autre de ses <span id="p161"><sup><small>[ p. 161 ]</small></sup></span>) : « Ô toi qui vis longtemps ! (ou, ô sœur !) apporte ce tissu, vide-le des bulbes, etc. (voir II, 2, 1, § 5) ; nous le donnerons au <i>S</i>rama<i>n</i>a. » Entendant et percevant de tels propos, le mendiant devrait dire, après réflexion : « Ô toi qui vis longtemps ! (ou, ô sœur !) ne vide pas ce tissu des bulbes, etc. ; il ne convient pas que j'accepte de tels vêtements. » Après ces paroles, le maître de maison pourrait néanmoins emporter les bulbes, etc., et lui offrir le tissu ; mais il ne devrait pas l'accepter, car il est impur et inacceptable. (13)
 
 Si un maître de maison apporte une robe et la donne au mendiant, il doit, après réflexion, dire : « Ô toi qui vis longtemps ! (ou, ô sœur !) j'examinerai attentivement, en ta présence, l'intérieur de la robe. »
 
@@ -104,7 +104,7 @@ Le Kevalin dit : Voici la raison : la robe pourrait contenir une boucle d’orei
 
 Un moine ou une nonne ne doit pas accepter de vêtements remplis d'œufs ou d'êtres vivants, etc., car ils sont impurs. Un moine ou une nonne ne doit pas accepter de vêtements exempts d'œufs ou d'êtres vivants, etc., mais qui ne sont ni adaptés, ni solides, ni durables, ni à porter [^428] — qui, bien qu'agréables, ne conviennent pas (à un mendiant) ; car ils sont impurs et inacceptables. (15)
 
-<span id="p162">[<sup><small>p. 162</small></sup>]</span>
+<span id="p162"><sup><small>[ p. 162 ]</small></sup></span>
 
 Un moine ou une nonne peut accepter des vêtements qui sont convenables, solides, durables, à porter, agréables et propres à un mendiant ; car ils sont purs et acceptables. (16)
 
@@ -122,7 +122,7 @@ Un moine ou une nonne voulant aérer ou sécher (au soleil) ses vêtements, ne d
 
 Un moine ou une nonne voulant aérer ou sécher (au soleil) ses vêtements ne doit pas le faire sur un pilier, une plate-forme surélevée, un échafaudage, un deuxième étage, un toit plat ou tout autre endroit similaire au-dessus du sol, etc. (22)
 
-<span id="p163">[<sup><small>p. 163</small></sup>]</span>
+<span id="p163"><sup><small>[ p. 163 ]</small></sup></span>
 
 Sachant cela, il doit se rendre dans un endroit isolé et y aérer ou sécher prudemment ses vêtements sur un tas de cendres ou d'os, etc. (voir II, 1, 1, § 1), qu'il a inspecté et nettoyé à plusieurs reprises.
 
@@ -141,7 +141,7 @@ Un moine ou une nonne qui veut, pour faire l'aumône, entrer dans la demeure d'u
 
 Or, ils devraient savoir ceci : Un moine ou une nonne, revêtus de tous leurs vêtements, ne doit pas entrer ou sortir, pour faire l'aumône, de la demeure d'un maître de maison, etc., etc., en s'apercevant qu'une pluie forte et répandue tombe, etc. (voir II, 1, 3, § 9). (1)
 
-Si un mendiant emprunte une robe [^431] (à un autre mendiant) pour une courte période et revient après un séjour d'un, deux, trois, quatre ou cinq jours, <span id="p164">[<sup><small>p. 164</small></sup>]</span>, il (le propriétaire) ne doit pas prendre cette robe pour lui-même, ni la donner à quelqu'un d'autre, ni la donner en promesse (pour une autre robe après quelques jours), ni l'échanger contre une autre. Il ne doit pas aller trouver un autre mendiant et lui dire : « Ô Srama<i>n</i>a, qui a vécu si longtemps ! Veux-tu porter ou utiliser cette robe ? » Il (le propriétaire de la robe) ne doit pas la déchirer et la jeter ; mais la donner à celui qui l'a empruntée telle qu'elle est usée ; il ne doit pas l'utiliser lui-même. (2)
+Si un mendiant emprunte une robe [^431] (à un autre mendiant) pour une courte période et revient après un séjour d'un, deux, trois, quatre ou cinq jours, <span id="p164"><sup><small>[ p. 164 ]</small></sup></span>, il (le propriétaire) ne doit pas prendre cette robe pour lui-même, ni la donner à quelqu'un d'autre, ni la donner en promesse (pour une autre robe après quelques jours), ni l'échanger contre une autre. Il ne doit pas aller trouver un autre mendiant et lui dire : « Ô Srama<i>n</i>a, qui a vécu si longtemps ! Veux-tu porter ou utiliser cette robe ? » Il (le propriétaire de la robe) ne doit pas la déchirer et la jeter ; mais la donner à celui qui l'a empruntée telle qu'elle est usée ; il ne doit pas l'utiliser lui-même. (2)
 
 La même règle s'applique lorsque de nombreux mendiants empruntent des vêtements pour une courte période et reviennent après un séjour à l'étranger d'un jour, etc. Tous doivent être mis au pluriel. (3)
 
@@ -149,7 +149,7 @@ La même règle s'applique lorsque de nombreux mendiants empruntent des vêtemen
 
 Un moine ou une nonne ne doit pas rendre les vêtements colorés incolores, ni les teindre en vêtements incolores ; il ne doit pas non plus les donner à quelqu'un d'autre en pensant qu'il obtiendra d'autres vêtements ; il ne doit pas non plus les donner en échange d'autres vêtements ; il ne doit pas non plus aller trouver quelqu'un et dire : « Ô Srama<i>n</i>a</i>, qui vit longtemps ! Veux-tu porter ou utiliser ces vêtements ? » Il ne doit pas déchirer les vêtements encore résistants et les jeter, de peur qu'un autre mendiant ne les trouve mauvais. (5)
 
-S'il voit des voleurs sur son chemin, il ne doit pas, par crainte d'eux et pour sauver ses vêtements, quitter la route ou prendre une autre route, etc. (voir II, 3, 3, § 13), mais sans être dérangé, son esprit non dirigé vers les choses extérieures, <span id="p165">[<sup><small>p. 165</small></sup>]</span> il doit se recueillir pour la contemplation ; alors il peut errer avec circonspection de village en village. (6)
+S'il voit des voleurs sur son chemin, il ne doit pas, par crainte d'eux et pour sauver ses vêtements, quitter la route ou prendre une autre route, etc. (voir II, 3, 3, § 13), mais sans être dérangé, son esprit non dirigé vers les choses extérieures, <span id="p165"><sup><small>[ p. 165 ]</small></sup></span> il doit se recueillir pour la contemplation ; alors il peut errer avec circonspection de village en village. (6)
 
 Si le chemin d'un moine ou d'une nonne en pèlerinage traverse une forêt où, comme ils le savent, errent des bandes de nombreux voleurs désireux de leurs vêtements, ils ne doivent pas, par crainte d'eux et pour sauver leurs vêtements, quitter le chemin ou prendre un autre chemin, etc. (tout comme au § 6). (7)
 
